@@ -8,6 +8,7 @@ import subprocess
 import shutil
 import sys
 import tempfile
+import typing
 import zipfile
 import requests
 
@@ -27,7 +28,8 @@ assets_url = network_urls["hu"] + "/Android/assets/" + res_version + "/"
 
 # figure out new files
 hot_update_list = requests.get(assets_url + "hot_update_list.json").json()
-if os.path.isfile("bundles/hot_update_list.json"):
+to_update: list[dict[str, typing.Any]]
+if os.path.isfile("bundles/hot_update_list.json") and not (len(sys.argv) > 1 and sys.argv[1] == "--force"):
     with open("bundles/hot_update_list.json", encoding="utf-8") as file:
         old_hot_update_list = json.load(file)
 
@@ -36,13 +38,11 @@ if os.path.isfile("bundles/hot_update_list.json"):
 else:
     to_update = hot_update_list["abInfos"]
 
-if len(to_update) == 0 and not (len(sys.argv) > 1 and sys.argv[1] == "--force"):
+to_update.sort(key=lambda i: (i.get("pid", ""), i["cid"]))
+
+if len(to_update) == 0:
     print("Up to date")
     exit(0)
-
-to_update_grouped_by_pid: dict[str, list[str]] = {}
-for i in to_update:
-    to_update_grouped_by_pid.setdefault(i.get("pid"), []).append(i["name"])
 
 # download ArknightsStudioCLI
 if os.name == "nt":
@@ -65,15 +65,25 @@ if not os.path.isfile(arknights_studio_path):
 os.chmod(arknights_studio_path, 0o775)
 
 # update in groups to ensure enough space is present
-for pid, to_update in to_update_grouped_by_pid.items():
-    print(f"\n\nRunning for pid {pid} ({len(to_update)} files)")
+to_update_index = 0
+while to_update_index < len(to_update):
+    print(f"\n\nStarting at {to_update_index}/{len(to_update) - 1}")
 
-    # download all files
+    # download files and extract them until the update would be too large
     os.makedirs("bundles", exist_ok=True)
     os.makedirs("bundles/tmp", exist_ok=True)
-    for name in to_update:
-        print("download", name)
+    os.makedirs("unstructured_assets", exist_ok=True)
+    while to_update_index < len(to_update):
+        # select file, break early if we're going to another pid
+        if to_update_index != 0 and to_update[to_update_index].get("pid") != to_update[to_update_index].get("pid"):
+            break
 
+        name: str = to_update[to_update_index]["name"]
+        to_update_index += 1
+
+        # download file
+        du = shutil.disk_usage(".")
+        print(f"download {name} ({du.free / 2**30:.1f}GB/{du.total / 2**30:.1f}GB remaining)")
         formatted_name = name.replace("/", "_").replace("#", "__").rsplit(".", 1)[0] + ".dat"
         url = assets_url + formatted_name
         zip_file_path = "bundles/tmp/" + formatted_name
@@ -87,36 +97,42 @@ for pid, to_update in to_update_grouped_by_pid.items():
 
         os.remove(zip_file_path)
 
-    # extract all files to an unstructured output
-    print("Extracting files")
-    unstructured_assets_path = "unstructured_assets"
-    assets_path = "assets"
-    os.makedirs(unstructured_assets_path, exist_ok=True)
-    for root, dirs, files in os.walk("bundles"):
-        for file in files:
-            path = os.path.join(root, file)
-            du = shutil.disk_usage(".")
-            print("extract", os.path.relpath(path, "bundles"), f"({du.free / 2**30:.1f}GB/{du.total / 2**30:.1f}GB remaining)")
-            command = [
-                arknights_studio_path,
-                path,
-                "-g",
-                "containerFull",
-                "-t",
-                "Sprite,AkPortraitSprite,AudioClip,TextAsset",
-                "--log-level",
-                "warning",
-                "-o",
-                os.path.abspath(unstructured_assets_path),
-            ]
-            subprocess.run(command, check=True, stdout=subprocess.DEVNULL)
-            os.remove(path)
+        # extract all found files
+        for root, dirs, files in os.walk("bundles"):
+            for file in files:
+                path = os.path.join(root, file)
+                command = [
+                    arknights_studio_path,
+                    path,
+                    "-g",
+                    "containerFull",
+                    "-t",
+                    "Sprite,AkPortraitSprite,AudioClip,TextAsset",
+                    "--log-level",
+                    "warning",
+                    "-o",
+                    os.path.abspath("unstructured_assets"),
+                ]
+                subprocess.run(command, check=True, stdout=subprocess.DEVNULL)
+                os.remove(path)
+
+        # count up the size of the current files and potentially abort
+        upload_size = 0
+        for dirpath, dirnames, filenames in os.walk("unstructured_assets"):
+            for f in filenames:
+                fp = os.path.join(dirpath, f)
+                # skip broken symlinks
+                if os.path.exists(fp):
+                    upload_size += os.path.getsize(fp)
+
+        if upload_size > 900 * 1024 * 1024:
+            break
 
     # move (or overwrite if exists) unstrctured files with the actual assets directory
     # this is to counteract the way duplicates and containerFull behaves
     print("Structuring and overwriting files")
     # get all directories with files in them
-    for root, dirs, files in os.walk(unstructured_assets_path):
+    for root, dirs, files in os.walk("unstructured_assets"):
         # when a file is alone in its directory then move it up a directory
         # when a file is in a numbered directory (with #) then also move it up a directory
         if not files:
@@ -124,30 +140,29 @@ for pid, to_update in to_update_grouped_by_pid.items():
         if len(files) == 1 or "#" in root:
             for file in files:
                 current_path = os.path.join(root, file)
-                desired_relpath = os.path.join(os.path.dirname(os.path.dirname(os.path.relpath(current_path, unstructured_assets_path))), file)
-                future_path = os.path.join(assets_path, desired_relpath).lower()
+                desired_relpath = os.path.join(os.path.dirname(os.path.dirname(os.path.relpath(current_path, "unstructured_assets"))), file)
+                future_path = os.path.join("assets", desired_relpath).lower()
 
                 os.makedirs(os.path.dirname(future_path), exist_ok=True)
                 shutil.move(os.path.abspath(current_path), os.path.abspath(future_path))
         else:
             for file in files:
                 current_path = os.path.join(root, file)
-                future_path = os.path.join(assets_path, os.path.relpath(current_path, unstructured_assets_path).lower())
+                future_path = os.path.join("assets", os.path.relpath(current_path, "unstructured_assets").lower())
 
                 os.makedirs(os.path.dirname(future_path), exist_ok=True)
                 shutil.move(os.path.abspath(current_path), os.path.abspath(future_path))
 
-    # clean up to ensure enough space is left for other 'pid's
+    # clean up to ensure enough space is left
     print("Cleaning up")
     shutil.rmtree("bundles")
-    shutil.rmtree(unstructured_assets_path)
+    shutil.rmtree("unstructured_assets")
 
     # push segment to git
     print("Pushing to git")
     sys.stdout.flush()
     subprocess.run(["git", "add", "assets"], check=True)
-    subprocess.run(["git", "status"], check=True)
-    subprocess.run(["git", "commit", "-m", f"update {res_version} part {pid or 'null'}"], check=True)
+    subprocess.run(["git", "commit", "-m", f"update {res_version} segment {to_update_index}/{len(to_update)}"], check=True)
     subprocess.run(["git", "log", "--oneline"], check=True)
     subprocess.run(["git", "push", "origin", "cn"], check=True)
 
