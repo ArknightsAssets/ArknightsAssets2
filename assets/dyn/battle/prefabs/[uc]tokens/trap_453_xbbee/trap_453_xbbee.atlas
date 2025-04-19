@@ -1,0 +1,34 @@
+
+trap_453_xbbee.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 48
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+C_L_Corn
+  rotate: true
+  xy: 64, 51
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: true
+  xy: 64, 61
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+C_R_Corn
+  rotate: false
+  xy: 87, 61
+  size: 8, 24
+  orig: 8, 24
+  offset: 0, 0
+  index: -1

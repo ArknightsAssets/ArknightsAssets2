@@ -1,0 +1,69 @@
+
+trap_072_revivecard.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_BodyA
+  rotate: true
+  xy: 2, 173
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+C_BodyB
+  rotate: true
+  xy: 35, 28
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+C_BodyC
+  rotate: false
+  xy: 2, 246
+  size: 43, 88
+  orig: 43, 88
+  offset: 0, 0
+  index: -1
+C_Botton
+  rotate: true
+  xy: 39, 173
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+C_LegA
+  rotate: false
+  xy: 2, 62
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+C_LegB
+  rotate: false
+  xy: 35, 61
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+C_LegC
+  rotate: false
+  xy: 2, 2
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: true
+  xy: 2, 122
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+C_Stick
+  rotate: false
+  xy: 39, 206
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1

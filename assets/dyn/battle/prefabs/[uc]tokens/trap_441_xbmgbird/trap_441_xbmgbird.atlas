@@ -1,0 +1,132 @@
+
+trap_441_xbmgbird.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Bag
+  rotate: false
+  xy: 328, 356
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+C_Bag_a
+  rotate: 180
+  xy: 184, 289
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+C_Bag_b
+  rotate: false
+  xy: 134, 298
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+C_Bag_c
+  rotate: false
+  xy: 263, 294
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+C_Bag_d
+  rotate: false
+  xy: 345, 292
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: 180
+  xy: 2, 286
+  size: 130, 48
+  orig: 130, 48
+  offset: 0, 0
+  index: -1
+C_Eye
+  rotate: false
+  xy: 35, 375
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+C_Eye_O
+  rotate: false
+  xy: 151, 291
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+C_Foot_L
+  rotate: false
+  xy: 2, 340
+  size: 14, 9
+  orig: 14, 10
+  offset: 0, 1
+  index: -1
+C_Foot_R
+  rotate: false
+  xy: 18, 340
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+C_Mouth
+  rotate: false
+  xy: 2, 369
+  size: 13, 12
+  orig: 13, 13
+  offset: 0, 1
+  index: -1
+C_Wings
+  rotate: 270
+  xy: 234, 295
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+S_Body
+  rotate: false
+  xy: 2, 317
+  size: 136, 64
+  orig: 136, 64
+  offset: 0, 0
+  index: -1
+S_Leg
+  rotate: false
+  xy: 17, 372
+  size: 16, 9
+  orig: 17, 9
+  offset: 1, 0
+  index: -1
+S_Wings_A
+  rotate: true
+  xy: 140, 296
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+S_Wings_Aa
+  rotate: true
+  xy: 275, 293
+  size: 76, 51
+  orig: 76, 51
+  offset: 0, 0
+  index: -1
+S_Wings_B
+  rotate: 270
+  xy: 182, 308
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+S_Wings_Bb
+  rotate: 270
+  xy: 313, 288
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1

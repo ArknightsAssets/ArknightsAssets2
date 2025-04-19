@@ -1,0 +1,34 @@
+
+trap_104_dplant.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Body
+  rotate: false
+  xy: 2, 100
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+F_Handle
+  rotate: true
+  xy: 2, 63
+  size: 35, 80
+  orig: 35, 80
+  offset: 0, 0
+  index: -1
+F_HandleB
+  rotate: true
+  xy: 2, 2
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+F_Spray
+  rotate: true
+  xy: 2, 31
+  size: 30, 84
+  orig: 30, 86
+  offset: 0, 1
+  index: -1

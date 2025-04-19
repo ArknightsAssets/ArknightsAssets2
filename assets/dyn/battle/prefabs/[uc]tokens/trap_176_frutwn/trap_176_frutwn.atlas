@@ -1,0 +1,69 @@
+
+trap_176_frutwn.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fruit_A
+  rotate: true
+  xy: 64, 8
+  size: 29, 23
+  orig: 29, 26
+  offset: 0, 3
+  index: -1
+Fruit_B
+  rotate: false
+  xy: 88, 14
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Fruit_C
+  rotate: false
+  xy: 107, 109
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+Fruit_D
+  rotate: false
+  xy: 113, 21
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+Glass_B
+  rotate: true
+  xy: 117, 48
+  size: 59, 9
+  orig: 59, 9
+  offset: 0, 0
+  index: -1
+Glass_F
+  rotate: false
+  xy: 2, 2
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+Juice
+  rotate: false
+  xy: 64, 39
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+Leaf
+  rotate: false
+  xy: 66, 106
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 61
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1

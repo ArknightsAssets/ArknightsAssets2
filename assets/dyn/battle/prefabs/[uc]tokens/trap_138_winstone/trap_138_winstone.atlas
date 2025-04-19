@@ -1,0 +1,27 @@
+
+trap_138_winstone.png
+size: 116,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Main
+  rotate: false
+  xy: 2, 9
+  size: 60, 97
+  orig: 60, 97
+  offset: 0, 0
+  index: -1
+MainUpper
+  rotate: true
+  xy: 64, 56
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+Trigger
+  rotate: false
+  xy: 64, 3
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+token_10010_folivo_car.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Body
+  rotate: false
+  xy: 2, 85
+  size: 79, 39
+  orig: 79, 39
+  offset: 0, 0
+  index: -1
+B_Guard
+  rotate: true
+  xy: 109, 100
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+B_Head
+  rotate: false
+  xy: 2, 35
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+B_Line
+  rotate: true
+  xy: 2, 2
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+B_Wheel_A
+  rotate: false
+  xy: 58, 59
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+B_Wheel_B
+  rotate: false
+  xy: 83, 100
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+B_Wheel_C
+  rotate: false
+  xy: 2, 9
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+B_Wheel_D
+  rotate: false
+  xy: 83, 74
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

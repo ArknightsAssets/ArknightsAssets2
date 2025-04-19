@@ -1,0 +1,69 @@
+
+trap_070_supplycard.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_BodyA
+  rotate: true
+  xy: 2, 237
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+C_BodyB
+  rotate: true
+  xy: 26, 35
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+C_BodyC
+  rotate: false
+  xy: 2, 310
+  size: 43, 88
+  orig: 43, 88
+  offset: 0, 0
+  index: -1
+C_Botton
+  rotate: true
+  xy: 26, 2
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+C_LegA
+  rotate: false
+  xy: 2, 69
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+C_LegB
+  rotate: false
+  xy: 2, 8
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+C_LegC
+  rotate: false
+  xy: 2, 177
+  size: 35, 58
+  orig: 36, 58
+  offset: 1, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 2, 129
+  size: 44, 46
+  orig: 46, 46
+  offset: 1, 0
+  index: -1
+C_Stick
+  rotate: false
+  xy: 35, 69
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1

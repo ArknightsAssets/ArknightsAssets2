@@ -1,0 +1,20 @@
+
+trap_132_toolinvert.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Dynamite
+  rotate: false
+  xy: 2, 64
+  size: 74, 28
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+C_Lead
+  rotate: true
+  xy: 78, 59
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
