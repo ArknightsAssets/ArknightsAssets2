@@ -1,0 +1,736 @@
+{
+  "theme": "tm_rhodes_day",
+  "elements": [
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "announce_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -387.299622,
+        "y": 44.0000038
+      },
+      "name": "ap_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "bkg_shop_recruit"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 824.0,
+          "y": 227.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_battle",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.0,
+        "y": -2.0
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 280.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_building",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 94.5,
+        "y": -484.4
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 340.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_char_repo",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.3,
+        "y": -188.90007
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "clr": "#000000AA",
+      "size": {
+        "x": 472.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 535.0,
+        "y": -189.0
+      },
+      "name": "btn_empty"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "btn_empty_bkg"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_friend",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 33.77005
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_handlbook",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 140.5,
+        "y": -58.5
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 119.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_invectory",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 277.56,
+        "y": -484.4
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 296.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_mission",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -194.0,
+        "y": -484.0
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 204.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_recruit_advanced",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 105.0,
+        "y": 0.45
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 204.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_recruit_normal",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -98.501,
+        "y": 0.44999
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 260.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_shop",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -192.0,
+        "y": 0.0
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 342.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_rhodes_day/btn_squad",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -211.5,
+        "y": -188.9
+      },
+      "name": "btn_squad"
+    },
+    {
+      "padding": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0,
+        "horizontal": 0,
+        "vertical": 0
+      },
+      "childAlignment": 0,
+      "spacing": 3.0,
+      "childControlHeight": true,
+      "childControlWidth": false,
+      "childForceExpandHeight": false,
+      "childForceExpandWidth": false,
+      "size": {
+        "x": 101.2,
+        "y": 82.24
+      },
+      "pos": {
+        "x": 96.2,
+        "y": 32.37
+      },
+      "name": "building_track_point"
+    },
+    {
+      "blurLevel": 0,
+      "name": "cam_front_blur"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -20.1,
+        "y": 57.599
+      },
+      "name": "character_repo_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -29.3,
+        "y": 35.9
+      },
+      "name": "friend_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -30.29956,
+        "y": 37.4
+      },
+      "name": "handbook_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.0,
+        "y": 32.0
+      },
+      "pos": {
+        "x": -35.7,
+        "y": 25.8
+      },
+      "name": "illust_red_point"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/btn_battle_ap",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 245.0,
+        "y": 160.0
+      },
+      "pos": {
+        "x": 138.0,
+        "y": -5.0
+      },
+      "name": "img_battle_ap"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/line_battle",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 374.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/btn_battle_prg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/img_building_emer",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 93.0,
+        "y": 39.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/img_building_emer",
+      "matPath": "",
+      "clr": "#42424252",
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 2.0
+      },
+      "name": "img_building_emer_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/img_building_noti",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 93.0,
+        "y": 39.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/img_building_noti",
+      "matPath": "",
+      "clr": "#42424252",
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 1.0
+      },
+      "name": "img_building_noti_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/img_dialogue_bg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 624.51,
+        "y": 133.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_dialogue_bg"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/img_dialogue_title",
+      "matPath": "",
+      "clr": "#FFFFFFE6",
+      "size": {
+        "x": 183.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 88.0,
+        "y": -16.0
+      },
+      "name": "img_dialogue_title"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/band_recruit",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 386.0,
+        "y": 51.0
+      },
+      "pos": {
+        "x": 1.0,
+        "y": 43.0
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/line_mission",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 215.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 66.0
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/icon_rhodes",
+      "matPath": "",
+      "clr": "#787878BB",
+      "size": {
+        "x": 256.0,
+        "y": 219.0
+      },
+      "pos": {
+        "x": -46.0,
+        "y": 8.0
+      },
+      "name": "img_name_icon"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "mail_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 50.0,
+        "y": 50.0
+      },
+      "pos": {
+        "x": 68.3999939,
+        "y": 16.4
+      },
+      "name": "openserver_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 277.0,
+        "y": 168.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": -23.0
+      },
+      "name": "panel_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 5.0,
+        "y": 61.0
+      },
+      "pos": {
+        "x": -13.701,
+        "y": -18.0
+      },
+      "name": "recruit_shadow"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 30.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": 82.0,
+        "y": 16.0
+      },
+      "name": "return_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -77.4073944,
+        "y": 66.49997
+      },
+      "name": "shop_track_point"
+    },
+    {
+      "clr": "#333333FF",
+      "fontSize": 104,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": -6.0,
+        "y": 5.0
+      },
+      "name": "text_ap"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 31,
+      "size": {
+        "x": 84.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": 75.99954,
+        "y": -62.0
+      },
+      "name": "text_ap_max"
+    },
+    {
+      "clr": "#8B8B8BFF",
+      "fontSize": 104,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": 26.0,
+        "y": 30.0
+      },
+      "name": "text_ap_shadow"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 31,
+      "size": {
+        "x": 94.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": -16.0004272,
+        "y": -62.0
+      },
+      "name": "text_ap_title"
+    },
+    {
+      "clr": "#424242FF",
+      "size": {
+        "x": 432.0,
+        "y": 27.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": -36.0
+      },
+      "name": "text_battle_prg_cur"
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "theme": "tm_rogue_4",
+  "elements": [
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 823.0,
+          "y": 231.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_battle",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 5.00000763
+        },
+        "size": {
+          "x": -20.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.00079,
+        "y": -1.99999774
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": -5.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 282.0,
+          "y": 140.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_building",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 94.5,
+        "y": -484.0
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": -4.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 340.0,
+          "y": 150.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_char_repo",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.299561,
+        "y": -188.900085
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 253.0,
+          "y": 110.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_friend",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 36.0
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 253.0,
+          "y": 109.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_handlbook",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 140.5,
+        "y": -58.5
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 9.000061,
+          "y": 0.0
+        },
+        "size": {
+          "x": 107.0,
+          "y": 123.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_inventory",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 270.0,
+        "y": -480.0
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 298.0,
+          "y": 140.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_mission",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -194.0,
+        "y": -484.0
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 1.0
+        },
+        "size": {
+          "x": 206.0,
+          "y": 149.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_recruit_advance",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 211.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 103.0,
+        "y": 0.0
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 30.8,
+          "y": 0.0
+        },
+        "size": {
+          "x": 192.0,
+          "y": 149.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_recruit_normal",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 196.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -126.43,
+        "y": 0.0
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": -4.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 251.0,
+          "y": 149.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_shop",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -192.0,
+        "y": -0.5
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 340.0,
+          "y": 149.0
+        },
+        "spritePath": "[uc]tm_rogue_4/btn_squad",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -211.49942,
+        "y": -188.900009
+      },
+      "name": "btn_squad"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/btn_battle_ap",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 210.0,
+        "y": 230.0
+      },
+      "pos": {
+        "x": 118.0,
+        "y": -2.0
+      },
+      "name": "img_battle_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 374.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/btn_battle_prg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 50.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -35.0,
+        "y": -5.5
+      },
+      "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/img_building_emer",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 115.0,
+        "y": 60.0
+      },
+      "pos": {
+        "x": 2.0,
+        "y": -2.0
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/img_building_noti",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 115.0,
+        "y": 60.0
+      },
+      "pos": {
+        "x": 2.0,
+        "y": -8.0
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/img_dialogue_bg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 624.51,
+        "y": 133.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_dialogue_bg"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/img_dialogue_title",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 140.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": 67.0,
+        "y": -6.0
+      },
+      "name": "img_dialogue_title"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/grp_recruit",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 387.0,
+        "y": 43.0
+      },
+      "pos": {
+        "x": 2.0,
+        "y": 46.0
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 215.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 66.0
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "spritePath": "[uc]tm_rogue_4/img_icon",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 216.0,
+        "y": 245.0
+      },
+      "pos": {
+        "x": -64.0,
+        "y": 50.0
+      },
+      "name": "img_name_icon"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 87,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": -9.0,
+        "y": 9.0
+      },
+      "name": "text_ap"
+    },
+    {
+      "clr": "#B6B6B6FF",
+      "fontSize": 26,
+      "size": {
+        "x": 84.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": 20.0,
+        "y": -68.0
+      },
+      "name": "text_ap_max"
+    },
+    {
+      "clr": "#000000B2",
+      "fontSize": 87,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": -9.0,
+        "y": -6.0
+      },
+      "name": "text_ap_shadow"
+    },
+    {
+      "clr": "#B6B6B6FF",
+      "fontSize": 26,
+      "size": {
+        "x": 94.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": -69.0,
+        "y": -68.0
+      },
+      "name": "text_ap_title"
+    },
+    {
+      "clr": "#D4D4D4FF",
+      "size": {
+        "x": 432.0,
+        "y": 27.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": -35.0
+      },
+      "name": "text_battle_prg_cur"
+    }
+  ]
+}
