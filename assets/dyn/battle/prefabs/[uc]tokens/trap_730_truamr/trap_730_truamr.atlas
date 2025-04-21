@@ -1,0 +1,55 @@
+
+trap_730_truamr.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ice
+  rotate: false
+  xy: 2, 20
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+C_Ice_Cone
+  rotate: false
+  xy: 103, 112
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+C_Machine_B
+  rotate: true
+  xy: 103, 49
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+C_Machine_F
+  rotate: false
+  xy: 2, 47
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+C_Splash_1
+  rotate: true
+  xy: 103, 15
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+C_Splash_2
+  rotate: false
+  xy: 2, 2
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+C_Splash_3
+  rotate: true
+  xy: 16, 9
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1

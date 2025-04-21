@@ -1,0 +1,55 @@
+
+trap_083_bunker.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Base
+  rotate: false
+  xy: 2, 309
+  size: 185, 134
+  orig: 185, 134
+  offset: 0, 0
+  index: -1
+C_Color
+  rotate: true
+  xy: 333, 316
+  size: 127, 109
+  orig: 127, 109
+  offset: 0, 0
+  index: -1
+C_Color_2
+  rotate: false
+  xy: 188, 231
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+C_Grid
+  rotate: false
+  xy: 2, 232
+  size: 128, 75
+  orig: 128, 75
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 131, 253
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+C_Railing
+  rotate: false
+  xy: 188, 313
+  size: 143, 130
+  orig: 143, 130
+  offset: 0, 0
+  index: -1
+C_Sign
+  rotate: false
+  xy: 318, 268
+  size: 102, 44
+  orig: 102, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,614 @@
+{
+  "theme": "tm_dungeon_1",
+  "elements": [
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_ap_track_point",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -387.299622,
+        "y": 44.0000038
+      },
+      "name": "ap_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_progress_info",
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": -154.0,
+        "y": -34.0
+      },
+      "name": "battle_prg_widget"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_shop_recruit_bkg",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "bkg_shop_recruit"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 824.0,
+          "y": 227.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_battle",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.00079,
+        "y": -1.99999774
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 2.50042725,
+          "y": 3.99996948
+        },
+        "size": {
+          "x": 298.0,
+          "y": 143.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_building",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 94.5,
+        "y": -484.4
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 347.0,
+          "y": 152.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_char_repo",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.299561,
+        "y": -188.900085
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "clr": "#594A32CC",
+      "size": {
+        "x": 472.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 535.0,
+        "y": -189.0
+      },
+      "name": "btn_empty"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "btn_empty_bkg"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_friend",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 33.77005
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_handbook",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 140.5,
+        "y": -58.5
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 4.50097656,
+          "y": 5.0
+        },
+        "size": {
+          "x": 129.0,
+          "y": 151.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_invectory",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 277.560547,
+        "y": -484.400024
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 3.49935913,
+          "y": 4.0
+        },
+        "size": {
+          "x": 298.0,
+          "y": 143.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_mission",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -194.0,
+        "y": -484.0
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 5.1474,
+          "y": -15.9
+        },
+        "size": {
+          "x": 182.0,
+          "y": 61.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_recruit_advance",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 211.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 84.00079,
+        "y": 0.4500122
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 12.528,
+          "y": -19.1
+        },
+        "size": {
+          "x": 151.0,
+          "y": 53.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_recruit_normal",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 196.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -119.0,
+        "y": 0.4499817
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgPrefab": "[uc]tm_dungeon_1/prefab_shop_ui_fx",
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 260.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_shop",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -192.0,
+        "y": 0.0
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 348.0,
+          "y": 152.0
+        },
+        "spritePath": "[uc]tm_dungeon_1/astc/btn_squad",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -211.49942,
+        "y": -188.900009
+      },
+      "name": "btn_squad"
+    },
+    {
+      "padding": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0,
+        "horizontal": 0,
+        "vertical": 0
+      },
+      "childAlignment": 0,
+      "spacing": 8.0,
+      "childControlHeight": true,
+      "childControlWidth": false,
+      "childForceExpandHeight": false,
+      "childForceExpandWidth": false,
+      "size": {
+        "x": 101.2,
+        "y": 82.24
+      },
+      "pos": {
+        "x": 96.2,
+        "y": 32.37
+      },
+      "name": "building_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_repo_track_point",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -20.1,
+        "y": 57.599
+      },
+      "name": "character_repo_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_mission_track_point",
+      "size": {
+        "x": 70.0,
+        "y": 70.0
+      },
+      "pos": {
+        "x": 111.62,
+        "y": 54.4
+      },
+      "name": "dynamic_mission_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_friend_trackpoint",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -29.3,
+        "y": 35.9
+      },
+      "name": "friend_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_friend_trackpoint",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -30.29956,
+        "y": 37.4
+      },
+      "name": "handbook_track_point"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 374.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 75.0,
+        "y": 33.0
+      },
+      "pos": {
+        "x": -35.0,
+        "y": 0.0
+      },
+      "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_dungeon_1/astc/img_building_emer",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 85.0,
+        "y": 44.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": "[uc]tm_dungeon_1/astc/img_building_noti",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 85.0,
+        "y": 44.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": "[uc]tm_dungeon_1/astc/img_dialogue_bg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 624.51,
+        "y": 133.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_dialogue_bg"
+    },
+    {
+      "spritePath": "[uc]tm_dungeon_1/astc/img_dialogue_title",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 150.0,
+        "y": 43.0
+      },
+      "pos": {
+        "x": 105.13,
+        "y": -13.5
+      },
+      "name": "img_dialogue_title"
+    },
+    {
+      "spritePath": "[uc]tm_dungeon_1/astc/band_recruit",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 374.0,
+        "y": 54.0
+      },
+      "pos": {
+        "x": -3.6,
+        "y": 39.5
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 215.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 66.0
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "spritePath": "[uc]tm_dungeon_1/astc/icon_rhodes",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 213.0,
+        "y": 120.0
+      },
+      "pos": {
+        "x": -51.6,
+        "y": 11.0
+      },
+      "name": "img_name_icon"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_panel_ap",
+      "size": {
+        "x": 277.0,
+        "y": 168.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": -23.0
+      },
+      "name": "panel_ap"
+    },
+    {
+      "spritePath": "[uc]tm_dungeon_1/astc/shop_recruit_line",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 5.0,
+        "y": 61.0
+      },
+      "pos": {
+        "x": -13.701,
+        "y": -18.0
+      },
+      "name": "recruit_shadow"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_recruit_track_point",
+      "size": {
+        "x": 35.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -203.75,
+        "y": -61.5000458
+      },
+      "name": "recruit_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_dungeon_1/prefab_social_track_point",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -77.4073944,
+        "y": 66.49997
+      },
+      "name": "shop_track_point"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 432.0,
+        "y": 27.0
+      },
+      "pos": {
+        "x": 82.1,
+        "y": -2.84
+      },
+      "name": "text_battle_prg_cur"
+    }
+  ]
+}

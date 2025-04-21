@@ -1,0 +1,76 @@
+
+trap_143_rnfcar.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base_A
+  rotate: false
+  xy: 2, 54
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+Base_B
+  rotate: false
+  xy: 103, 22
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+Base_F
+  rotate: false
+  xy: 103, 11
+  size: 13, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+Forearm
+  rotate: false
+  xy: 93, 61
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 55, 6
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+Upperarm
+  rotate: false
+  xy: 61, 57
+  size: 30, 75
+  orig: 32, 75
+  offset: 0, 0
+  index: -1
+Wheel_L
+  rotate: false
+  xy: 93, 82
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Wheel_R
+  rotate: true
+  xy: 2, 2
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+WireA
+  rotate: false
+  xy: 100, 18
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+WireB
+  rotate: false
+  xy: 103, 11
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1

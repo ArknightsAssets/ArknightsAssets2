@@ -1,0 +1,118 @@
+
+trap_102_mhwrbg.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 151
+  size: 87, 39
+  orig: 87, 39
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 154, 81
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+C_Mecha
+  rotate: false
+  xy: 2, 82
+  size: 79, 32
+  orig: 80, 32
+  offset: 1, 0
+  index: -1
+C_Mecha_1
+  rotate: false
+  xy: 120, 57
+  size: 16, 14
+  orig: 16, 15
+  offset: 0, 1
+  index: -1
+C_Mecha_2
+  rotate: true
+  xy: 141, 127
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+C_Paw
+  rotate: false
+  xy: 154, 66
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+C_Paw_1
+  rotate: true
+  xy: 31, 61
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+C_Paw_2
+  rotate: true
+  xy: 2, 61
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+C_Paw_3
+  rotate: true
+  xy: 60, 55
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+C_Paw_4
+  rotate: true
+  xy: 90, 55
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+C_Wings
+  rotate: true
+  xy: 91, 93
+  size: 97, 25
+  orig: 97, 25
+  offset: 0, 0
+  index: -1
+C_Wings_1
+  rotate: false
+  xy: 2, 116
+  size: 85, 33
+  orig: 85, 33
+  offset: 0, 0
+  index: -1
+C_Wings_3
+  rotate: true
+  xy: 118, 109
+  size: 81, 21
+  orig: 81, 22
+  offset: 0, 0
+  index: -1
+C_Wings_4
+  rotate: false
+  xy: 83, 73
+  size: 69, 18
+  orig: 69, 19
+  offset: 0, 0
+  index: -1
+C_rope
+  rotate: false
+  xy: 14, 57
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+C_ropes
+  rotate: false
+  xy: 182, 77
+  size: 8, 114
+  orig: 8, 114
+  offset: 0, 0
+  index: -1

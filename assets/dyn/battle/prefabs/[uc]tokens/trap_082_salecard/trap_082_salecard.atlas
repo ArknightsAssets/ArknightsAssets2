@@ -1,0 +1,69 @@
+
+trap_082_salecard.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_BodyA
+  rotate: true
+  xy: 2, 169
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+C_BodyB
+  rotate: true
+  xy: 39, 62
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+C_BodyC
+  rotate: false
+  xy: 2, 241
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+C_Botton
+  rotate: true
+  xy: 38, 169
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+C_LegA
+  rotate: false
+  xy: 2, 3
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+C_LegB
+  rotate: false
+  xy: 34, 2
+  size: 21, 58
+  orig: 21, 58
+  offset: 0, 0
+  index: -1
+C_LegC
+  rotate: false
+  xy: 2, 62
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+C_Light
+  rotate: false
+  xy: 2, 121
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+C_Stick
+  rotate: false
+  xy: 49, 94
+  size: 6, 33
+  orig: 6, 33
+  offset: 0, 0
+  index: -1

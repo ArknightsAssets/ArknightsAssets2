@@ -1,0 +1,41 @@
+
+trap_712_cdhvrk.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Fence_Back
+  rotate: true
+  xy: 2, 132
+  size: 130, 107
+  orig: 130, 107
+  offset: 0, 0
+  index: -1
+C_Fence_Front
+  rotate: true
+  xy: 2, 2
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+C_Fence_L
+  rotate: false
+  xy: 119, 80
+  size: 51, 88
+  orig: 51, 88
+  offset: 0, 0
+  index: -1
+C_Fence_R
+  rotate: false
+  xy: 111, 170
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+C_Stele
+  rotate: false
+  xy: 2, 264
+  size: 122, 215
+  orig: 122, 215
+  offset: 0, 0
+  index: -1

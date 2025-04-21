@@ -1,0 +1,146 @@
+
+trap_468_tpriest.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S_B_Body
+  rotate: false
+  xy: 2, 84
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+S_B_Box
+  rotate: false
+  xy: 70, 12
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+S_B_Eye_c
+  rotate: false
+  xy: 130, 105
+  size: 12, 8
+  orig: 13, 10
+  offset: 1, 1
+  index: -1
+S_B_Eye_t
+  rotate: false
+  xy: 130, 96
+  size: 13, 7
+  orig: 15, 8
+  offset: 1, 1
+  index: -1
+S_B_Head
+  rotate: 270
+  xy: 43, 84
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+S_B_Leg_L
+  rotate: 180
+  xy: 97, 5
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+S_B_Leg_R
+  rotate: false
+  xy: 16, 67
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+S_B_Mouth
+  rotate: true
+  xy: 82, 56
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+S_B_Mouth_C
+  rotate: 270
+  xy: 9, 50
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+S_B_Mouth_C_t
+  rotate: true
+  xy: 130, 115
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+S_B_Spanner
+  rotate: false
+  xy: 2, 4
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+S_B_Tail
+  rotate: false
+  xy: 39, 4
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+S_B_Wing_L
+  rotate: true
+  xy: 103, 29
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+S_B_Wing_R
+  rotate: 270
+  xy: 2, 21
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+S_In_B_Eye
+  rotate: false
+  xy: 2, 74
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+S_In_B_Eyeball
+  rotate: false
+  xy: 83, 127
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+S_In_B_Mouth_B
+  rotate: true
+  xy: 42, 29
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+S_L_Eye_dizzy
+  rotate: true
+  xy: 125, 66
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: true
+  xy: 91, 90
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+Smoke_light
+  rotate: true
+  xy: 120, 4
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1

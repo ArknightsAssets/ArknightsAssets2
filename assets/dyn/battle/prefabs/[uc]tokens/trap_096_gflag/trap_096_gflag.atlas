@@ -1,0 +1,34 @@
+
+trap_096_gflag.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 105
+  size: 113, 183
+  orig: 113, 183
+  offset: 0, 0
+  index: -1
+C_Body_2
+  rotate: true
+  xy: 117, 2
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+C_Body_3
+  rotate: false
+  xy: 117, 113
+  size: 63, 175
+  orig: 63, 175
+  offset: 0, 0
+  index: -1
+C_Glow
+  rotate: true
+  xy: 2, 6
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1

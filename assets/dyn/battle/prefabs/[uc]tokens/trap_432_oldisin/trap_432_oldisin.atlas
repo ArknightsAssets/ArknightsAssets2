@@ -1,0 +1,384 @@
+
+trap_432_oldisin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Ball
+  rotate: false
+  xy: 338, 255
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+C_Chest
+  rotate: 180
+  xy: 2, 310
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+C_Cloak_Back
+  rotate: false
+  xy: 2, 328
+  size: 172, 87
+  orig: 172, 87
+  offset: 0, 0
+  index: -1
+C_Collar
+  rotate: false
+  xy: 85, 296
+  size: 93, 41
+  orig: 93, 41
+  offset: 0, 0
+  index: -1
+C_F_Cloth
+  rotate: false
+  xy: 231, 311
+  size: 37, 104
+  orig: 37, 104
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: true
+  xy: 147, 329
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+C_L_Button
+  rotate: false
+  xy: 398, 311
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+C_L_CloakTape
+  rotate: 270
+  xy: 231, 255
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+C_L_CoinTape
+  rotate: true
+  xy: 369, 257
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+C_L_Finger_A
+  rotate: false
+  xy: 398, 328
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+C_L_Finger_B
+  rotate: false
+  xy: 136, 255
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+C_L_Finger_B_Ring
+  rotate: false
+  xy: 16, 254
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+C_L_Finger_C
+  rotate: false
+  xy: 399, 401
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+C_L_Finger_C_Ring
+  rotate: false
+  xy: 77, 254
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+C_L_Finger_D
+  rotate: false
+  xy: 35, 362
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+C_L_Finger_D_Ring
+  rotate: false
+  xy: 35, 378
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+C_L_Finger_E
+  rotate: false
+  xy: 65, 331
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+C_L_Finger_E_Ring
+  rotate: false
+  xy: 60, 304
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+C_L_Foot
+  rotate: true
+  xy: 336, 285
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+C_L_Hand
+  rotate: true
+  xy: 380, 369
+  size: 26, 21
+  orig: 26, 23
+  offset: 0, 2
+  index: -1
+C_L_HandHold
+  rotate: false
+  xy: 2, 366
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+C_L_Hand_S
+  rotate: false
+  xy: 375, 341
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+C_L_Hand_S_Finger
+  rotate: 180
+  xy: 399, 349
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+C_L_Leg_1
+  rotate: true
+  xy: 2, 264
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+C_L_Leg_2
+  rotate: true
+  xy: 270, 359
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+C_L_Sleeve_1
+  rotate: 180
+  xy: 134, 258
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+C_L_Sleeve_2
+  rotate: true
+  xy: 319, 325
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+C_L_Sleeve_Back
+  rotate: 270
+  xy: 208, 259
+  size: 50, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+C_L_Tape
+  rotate: false
+  xy: 380, 385
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+C_Light_Back
+  rotate: true
+  xy: 270, 308
+  size: 49, 47
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+C_Light_Front
+  rotate: false
+  xy: 180, 281
+  size: 49, 46
+  orig: 49, 48
+  offset: 0, 1
+  index: -1
+C_R_Button
+  rotate: false
+  xy: 120, 261
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+C_R_CoinTape
+  rotate: false
+  xy: 396, 258
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+C_R_Finger_A
+  rotate: false
+  xy: 398, 366
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+C_R_Finger_B
+  rotate: true
+  xy: 63, 254
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+C_R_Finger_B_Ring
+  rotate: false
+  xy: 2, 398
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+C_R_Finger_C
+  rotate: true
+  xy: 47, 255
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+C_R_Finger_C_Ring
+  rotate: false
+  xy: 2, 359
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+C_R_Finger_D
+  rotate: true
+  xy: 2, 256
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+C_R_Finger_D_Ring
+  rotate: false
+  xy: 78, 304
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+C_R_Finger_E
+  rotate: false
+  xy: 330, 254
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+C_R_Finger_E_Ring
+  rotate: false
+  xy: 99, 411
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+C_R_Foot
+  rotate: true
+  xy: 97, 256
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+C_R_Hand
+  rotate: false
+  xy: 185, 256
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+C_R_HandHold
+  rotate: false
+  xy: 354, 387
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+C_R_HandHold_Finger
+  rotate: true
+  xy: 359, 285
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+C_R_Hand_S
+  rotate: true
+  xy: 347, 356
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+C_R_Leg_1
+  rotate: false
+  xy: 275, 259
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+C_R_Leg_2
+  rotate: true
+  xy: 49, 265
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+C_R_Sleeve_1
+  rotate: false
+  xy: 319, 375
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+C_R_Sleeve_2
+  rotate: true
+  xy: 354, 316
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+C_R_Sleeve_Back
+  rotate: false
+  xy: 306, 261
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+C_R_Tape
+  rotate: false
+  xy: 67, 304
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+C_R_W_Tape
+  rotate: true
+  xy: 378, 293
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1

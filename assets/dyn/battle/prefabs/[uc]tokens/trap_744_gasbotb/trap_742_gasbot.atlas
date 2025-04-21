@@ -1,0 +1,111 @@
+
+trap_742_gasbot.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Box
+  rotate: true
+  xy: 417, 360
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+C_Cup
+  rotate: true
+  xy: 144, 335
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+C_Fan_A
+  rotate: false
+  xy: 353, 352
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+C_Fan_B
+  rotate: false
+  xy: 306, 350
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+C_Fan_C
+  rotate: false
+  xy: 463, 306
+  size: 13, 52
+  orig: 13, 52
+  offset: 0, 0
+  index: -1
+C_Fan_D
+  rotate: false
+  xy: 400, 329
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+C_Fan_E
+  rotate: false
+  xy: 2, 324
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+C_Fan_F
+  rotate: false
+  xy: 447, 306
+  size: 14, 52
+  orig: 14, 52
+  offset: 0, 0
+  index: -1
+C_Pippe
+  rotate: false
+  xy: 35, 302
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1
+C_Pippe_Back
+  rotate: false
+  xy: 106, 303
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+C_Wheel_A
+  rotate: false
+  xy: 2, 354
+  size: 140, 123
+  orig: 140, 123
+  offset: 0, 0
+  index: -1
+C_Wheel_B
+  rotate: true
+  xy: 334, 383
+  size: 94, 81
+  orig: 94, 81
+  offset: 0, 0
+  index: -1
+C_Wheel_C
+  rotate: false
+  xy: 242, 328
+  size: 62, 57
+  orig: 63, 58
+  offset: 1, 1
+  index: -1
+C_Wheel_Glass_B
+  rotate: false
+  xy: 144, 375
+  size: 96, 102
+  orig: 96, 103
+  offset: 0, 1
+  index: -1
+C_Wheel_Glass_F
+  rotate: false
+  xy: 242, 387
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

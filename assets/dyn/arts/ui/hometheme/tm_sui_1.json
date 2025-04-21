@@ -1,0 +1,707 @@
+{
+  "theme": "tm_sui_1",
+  "elements": [
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "announce_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -387.299622,
+        "y": 44.0000038
+      },
+      "name": "ap_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_sui_1/prefab/panel_progress_info_sui_1",
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": -154.0,
+        "y": -34.0
+      },
+      "name": "battle_prg_widget"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "bkg_shop_recruit"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 824.0,
+          "y": 227.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_terminal",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.00079,
+        "y": -1.99999774
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgPrefab": "[uc]tm_sui_1/prefab/panel_building_sui_1",
+      "imgData": {
+        "pos": {
+          "x": 2.00097656,
+          "y": -1.000061
+        },
+        "size": {
+          "x": 284.0,
+          "y": 143.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_building",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 94.5,
+        "y": -484.4
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgPrefab": "[uc]tm_sui_1/prefab/panel_repo_sui_1",
+      "imgData": {
+        "pos": {
+          "x": -1.99981689,
+          "y": -3.0
+        },
+        "size": {
+          "x": 344.0,
+          "y": 150.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_repo",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.299561,
+        "y": -188.900085
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "clr": "#000000AA",
+      "size": {
+        "x": 472.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 535.0,
+        "y": -189.0
+      },
+      "name": "btn_empty"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": -16.0,
+        "y": -17.0
+      },
+      "pos": {
+        "x": 0.000610351563,
+        "y": 4.5
+      },
+      "name": "btn_empty_bkg"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_friend",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 33.77005
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_handbook",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 140.5,
+        "y": -58.5
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 9.000061,
+          "y": 0.0
+        },
+        "size": {
+          "x": 119.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_invntory",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 277.560547,
+        "y": -484.400024
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgPrefab": "[uc]tm_sui_1/prefab/panel_mission_sui_1",
+      "imgData": {
+        "pos": {
+          "x": 2.999878,
+          "y": -1.0
+        },
+        "size": {
+          "x": 303.0,
+          "y": 143.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_mission",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -194.0,
+        "y": -484.0
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgPrefab": "[uc]tm_sui_1/prefab/panel_recruit_advance_sui_1",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 211.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 84.00079,
+        "y": 0.4500122
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgPrefab": "[uc]tm_sui_1/prefab/panel_recruit_normal_sui_1",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 196.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -119.0,
+        "y": 0.4499817
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 4.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 260.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_shop",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -192.0,
+        "y": 0.0
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgPrefab": "[uc]tm_sui_1/prefab/panel_squads_sui_1",
+      "imgData": {
+        "pos": {
+          "x": 1.00085449,
+          "y": -2.0
+        },
+        "size": {
+          "x": 344.0,
+          "y": 150.0
+        },
+        "spritePath": "[uc]tm_sui_1/astc/bg_squad",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -211.49942,
+        "y": -188.900009
+      },
+      "name": "btn_squad"
+    },
+    {
+      "blurLevel": 2,
+      "name": "cam_front_blur"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -20.1,
+        "y": 57.599
+      },
+      "name": "character_repo_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 70.0,
+        "y": 70.0
+      },
+      "pos": {
+        "x": 124.5,
+        "y": 56.8
+      },
+      "name": "dynamic_mission_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "emer_prefab"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -29.3,
+        "y": 35.9
+      },
+      "name": "friend_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -30.29956,
+        "y": 37.4
+      },
+      "name": "handbook_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.0,
+        "y": 32.0
+      },
+      "pos": {
+        "x": -35.7,
+        "y": 25.8
+      },
+      "name": "illust_red_point"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 245.0,
+        "y": 160.0
+      },
+      "pos": {
+        "x": 138.0,
+        "y": -5.0
+      },
+      "name": "img_battle_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 374.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 110.0,
+        "y": 31.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_sui_1/astc/base_emergency",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 93.0,
+        "y": 39.0
+      },
+      "pos": {
+        "x": 0.0009498596,
+        "y": -3.81469727E-05
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 4.999485,
+        "y": 1.99996185
+      },
+      "name": "img_building_emer_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_sui_1/astc/base_notification",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 93.0,
+        "y": 39.0
+      },
+      "pos": {
+        "x": 0.0009498596,
+        "y": -3.81469727E-05
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 4.999485,
+        "y": 0.9999924
+      },
+      "name": "img_building_noti_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_sui_1/astc/img_dialogue_bg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 624.51,
+        "y": 133.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_dialogue_bg"
+    },
+    {
+      "spritePath": "[uc]tm_sui_1/astc/voice_img",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 140.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": 67.0,
+        "y": -6.0
+      },
+      "name": "img_dialogue_title"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 369.0,
+        "y": 55.0
+      },
+      "pos": {
+        "x": -11.0,
+        "y": 42.0
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 215.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 66.0
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "spritePath": "[uc]tm_sui_1/astc/icon",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 153.0,
+        "y": 208.0
+      },
+      "pos": {
+        "x": -44.0,
+        "y": 37.0
+      },
+      "name": "img_name_icon"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "mail_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0009498596,
+        "y": 39.99996
+      },
+      "name": "noti_prefab"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 50.0,
+        "y": 50.0
+      },
+      "pos": {
+        "x": 68.3999939,
+        "y": 16.4
+      },
+      "name": "openserver_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_sui_1/prefab/panel_ap_sui_1",
+      "size": {
+        "x": 277.0,
+        "y": 168.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": -23.0
+      },
+      "name": "panel_ap"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 35.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -203.75,
+        "y": -61.5000458
+      },
+      "name": "recruit_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 30.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": 82.0,
+        "y": 16.0
+      },
+      "name": "return_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -77.4073944,
+        "y": 66.49997
+      },
+      "name": "shop_track_point"
+    },
+    {
+      "clr": "#333333FF",
+      "fontSize": 104,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": -6.0,
+        "y": 5.0
+      },
+      "name": "text_ap"
+    },
+    {
+      "clr": "#8B8B8BFF",
+      "fontSize": 104,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": 26.0,
+        "y": 30.0
+      },
+      "name": "text_ap_shadow"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 432.0,
+        "y": 27.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": -36.0
+      },
+      "name": "text_battle_prg_cur"
+    }
+  ]
+}

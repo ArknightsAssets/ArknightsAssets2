@@ -1,0 +1,140 @@
+{
+"skeleton": { "hash": "QGIFVoFW8C8wPp+JB4Ng0NkSUGU", "spine": "3.8.99", "x": -156.17, "y": -6.7, "width": 265, "height": 310 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone_scale", "parent": "root", "x": -41.82, "y": 224.08 }
+],
+"slots": [
+	{ "name": "puzzle_avata_01", "bone": "root", "attachment": "puzzle_avata_01" },
+	{ "name": "puzzle_avata_02", "bone": "root", "attachment": "puzzle_avata_02" },
+	{ "name": "puzzle_avata_03", "bone": "root", "attachment": "puzzle_avata_03" },
+	{ "name": "puzzle_avata_anger", "bone": "bone_scale", "attachment": "puzzle_avata_anger" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"puzzle_avata_01": {
+				"puzzle_avata_01": { "x": -23.67, "y": 148.3, "width": 265, "height": 310 }
+			},
+			"puzzle_avata_02": {
+				"puzzle_avata_02": { "x": -23.67, "y": 148.3, "width": 265, "height": 310 }
+			},
+			"puzzle_avata_03": {
+				"puzzle_avata_03": { "x": -23.67, "y": 148.3, "width": 265, "height": 310 }
+			},
+			"puzzle_avata_anger": {
+				"puzzle_avata_anger": { "x": -0.36, "y": -0.27, "width": 58, "height": 63 }
+			}
+		}
+	}
+],
+"animations": {
+	"exp_anger": {
+		"slots": {
+			"puzzle_avata_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"puzzle_avata_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"puzzle_avata_anger": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"exp_anger_anim": {
+		"slots": {
+			"puzzle_avata_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"puzzle_avata_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"bone_scale": {
+				"rotate": [
+					{ "time": 0.2333, "curve": "stepped" },
+					{ "time": 0.4333, "angle": -26.37, "curve": "stepped" },
+					{ "time": 0.6667, "angle": -26.37, "curve": "stepped" },
+					{ "time": 0.8667 }
+				],
+				"translate": [
+					{ "time": 0.2333, "curve": "stepped" },
+					{ "time": 0.4333, "x": 20.48, "y": -9.36, "curve": "stepped" },
+					{ "time": 0.6667, "x": 20.48, "y": -9.36, "curve": "stepped" },
+					{ "time": 0.8667 }
+				],
+				"scale": [
+					{ "curve": 0.246, "c2": 0.75, "c3": 0.75 },
+					{ "time": 0.0333, "x": 0.939, "y": 0.939, "curve": 0.113, "c2": 0.3, "c3": 0.75 },
+					{
+						"time": 0.1667,
+						"x": 1.126,
+						"y": 1.126,
+						"curve": 0.583,
+						"c2": 0.05,
+						"c3": 0.898,
+						"c4": 0.73
+					},
+					{ "time": 0.2333, "curve": "stepped" },
+					{ "time": 0.4333, "x": 0.795, "y": 0.795, "curve": 0.246, "c2": 0.75, "c3": 0.75 },
+					{ "time": 0.4667, "x": 0.707, "y": 0.707, "curve": 0.246, "c2": 0.75, "c3": 0.75 },
+					{ "time": 0.6, "x": 0.9, "y": 0.9, "curve": 0.246, "c2": 0.75, "c3": 0.75 },
+					{ "time": 0.6667, "x": 0.795, "y": 0.795, "curve": "stepped" },
+					{ "time": 0.8667 }
+				]
+			}
+		}
+	},
+	"exp_normal": {
+		"slots": {
+			"puzzle_avata_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"puzzle_avata_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"puzzle_avata_anger": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"exp_unhappy": {
+		"slots": {
+			"puzzle_avata_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"puzzle_avata_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"puzzle_avata_anger": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	}
+}
+}

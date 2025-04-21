@@ -1,0 +1,83 @@
+
+trap_419_enhancer.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Card
+  rotate: false
+  xy: 188, 158
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+Glass
+  rotate: false
+  xy: 2, 176
+  size: 71, 68
+  orig: 71, 69
+  offset: 0, 1
+  index: -1
+Glass_A
+  rotate: true
+  xy: 75, 187
+  size: 57, 49
+  orig: 58, 49
+  offset: 1, 0
+  index: -1
+Glass_B
+  rotate: false
+  xy: 75, 157
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+Glass_C
+  rotate: false
+  xy: 20, 158
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+Glass_D
+  rotate: false
+  xy: 35, 162
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+Glass_E
+  rotate: false
+  xy: 2, 155
+  size: 16, 19
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 126, 189
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+Tape_B
+  rotate: 270
+  xy: 216, 155
+  size: 69, 27
+  orig: 69, 27
+  offset: 0, 0
+  index: -1
+Tape_F
+  rotate: 180
+  xy: 147, 156
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+Tape_m
+  rotate: true
+  xy: 121, 158
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

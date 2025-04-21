@@ -1,0 +1,636 @@
+{
+  "theme": "tm_mainline_1",
+  "elements": [
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -387.299622,
+        "y": 44.0000038
+      },
+      "name": "ap_track_point"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 824.0,
+          "y": 227.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_battle",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 4.99999952
+        },
+        "size": {
+          "x": -20.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.0,
+        "y": -2.0
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 280.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_building",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.2699995,
+          "y": 5.50000048
+        },
+        "size": {
+          "x": -20.62,
+          "y": -20.79
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 94.5,
+        "y": -484.4
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 340.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_char_repo",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.0100002885,
+          "y": 5.17900038
+        },
+        "size": {
+          "x": -19.59,
+          "y": -17.697
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.3,
+        "y": -188.90007
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "clr": "#000000AA",
+      "size": {
+        "x": 472.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 535.0,
+        "y": -189.0
+      },
+      "name": "btn_empty"
+    },
+    {
+      "spritePath": null,
+      "matPath": "[uc]tm_mainline_1/material/home_blur",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": -17.606,
+        "y": -17.611
+      },
+      "pos": {
+        "x": 0.045,
+        "y": 5.122
+      },
+      "name": "btn_empty_bkg"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_friend",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.18,
+          "y": 3.11
+        },
+        "size": {
+          "x": -8.17,
+          "y": -12.45
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 33.77005
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 240.0,
+          "y": 100.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_handbook",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.11,
+          "y": 3.5
+        },
+        "size": {
+          "x": -7.47,
+          "y": -12.44
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 140.5,
+        "y": -58.5
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 5.5,
+          "y": 2.0
+        },
+        "size": {
+          "x": 121.0,
+          "y": 144.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_inventory",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": 1.55000019,
+          "y": 5.903
+        },
+        "size": {
+          "x": -10.2800007,
+          "y": -20.556
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 277.56,
+        "y": -484.4
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 296.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_mission",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.190000057,
+          "y": 5.49100065
+        },
+        "size": {
+          "x": -20.6290016,
+          "y": -20.921
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -194.0,
+        "y": -484.0
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 205.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_recruit_advanced",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": -3.77,
+          "y": 5.430001
+        },
+        "size": {
+          "x": -9.7300005,
+          "y": -18.41
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 105.0,
+        "y": 0.45
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 204.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_recruit_normal",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": 4.64,
+          "y": 5.57
+        },
+        "size": {
+          "x": -9.28,
+          "y": -20.079998
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -98.501,
+        "y": 0.44999
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.7,
+          "y": 0.0
+        },
+        "size": {
+          "x": 260.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_shop",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.909999132,
+          "y": 5.34200048
+        },
+        "size": {
+          "x": -18.8399982,
+          "y": -19.784
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -192.0,
+        "y": 0.0
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 340.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_mainline_1/btn_squad",
+        "matPath": ""
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.0700011253,
+          "y": 5.65
+        },
+        "size": {
+          "x": -21.69,
+          "y": -19.043
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_mainline_1/material/home_blur"
+      },
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -211.5,
+        "y": -188.9
+      },
+      "name": "btn_squad"
+    },
+    {
+      "blurLevel": 2,
+      "name": "cam_front_blur"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/btn_battle_ap",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 245.0,
+        "y": 160.0
+      },
+      "pos": {
+        "x": 138.0,
+        "y": -5.0
+      },
+      "name": "img_battle_ap"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/line_battle",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 372.0,
+        "y": 9.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/btn_battle_prg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 50.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/img_building_emer",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 93.0,
+        "y": 39.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 2.0
+      },
+      "name": "img_building_emer_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/img_building_noti",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 93.0,
+        "y": 39.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 1.0
+      },
+      "name": "img_building_noti_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/img_dialogue_bg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 624.51,
+        "y": 133.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_dialogue_bg"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/img_dialogue_title",
+      "matPath": "",
+      "clr": "#FFFFFFE6",
+      "size": {
+        "x": 183.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 88.0,
+        "y": -16.0
+      },
+      "name": "img_dialogue_title"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/band_recruit",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 386.0,
+        "y": 51.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 43.0
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/line_mission",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 213.0,
+        "y": 8.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 64.5
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "spritePath": "[uc]tm_mainline_1/icon_rhodes",
+      "matPath": "",
+      "clr": "#787878BB",
+      "size": {
+        "x": 235.0,
+        "y": 183.0
+      },
+      "pos": {
+        "x": -46.0,
+        "y": 8.0
+      },
+      "name": "img_name_icon"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": -6.0,
+        "y": 5.0
+      },
+      "name": "text_ap"
+    },
+    {
+      "clr": "#00000066",
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": 26.0,
+        "y": 30.0
+      },
+      "name": "text_ap_shadow"
+    },
+    {
+      "clr": "#D4D4D4FF",
+      "size": {
+        "x": 432.0,
+        "y": 27.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": -36.0
+      },
+      "name": "text_battle_prg_cur"
+    }
+  ]
+}
