@@ -94,7 +94,12 @@
       }
     },
     "BATTLE": {},
-    "SQUAD_HOME_PLUGIN": {},
+    "SQUAD_HOME_PLUGIN": {
+      "act1break": {
+        "resPath": "Activity/[UC]act1break/Prefabs/act1break_squad_plugin_view",
+        "activity": "act1break"
+      }
+    },
     "HOME_TOPBAR": {
       "act6fun": {
         "resPath": "Activity/[UC]act6fun/Prefab/top_entry_holder",
