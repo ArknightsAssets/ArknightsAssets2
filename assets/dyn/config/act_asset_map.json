@@ -1,6 +1,6 @@
 {
   "isTrimed": true,
-  "code": 440,
+  "code": 447,
   "aspects": {
     "ZONE_MAP": {
       "permanent_sub_2_zone1": {
@@ -15,28 +15,26 @@
         "resPath": "UI/Activity/ActFun/Actfun6/zoneMap/zone_map_act6fun_zone1",
         "activity": "actfun"
       },
-      "act34sre_zone1": {
-        "resPath": "Activity/[UC]act34sre/ZoneMaps/zone_map_act34sre_zone1",
-        "activity": "act34sre"
-      },
-      "act34sre_zone2": {
-        "resPath": "Activity/[UC]act34sre/ZoneMaps/zone_map_act34sre_zone2",
-        "activity": "act34sre"
-      },
-      "act43side_zone2": {
-        "resPath": "Activity/[UC]act43side/ZoneMaps/zone_map_act43side_zone2",
-        "activity": "act43side"
-      },
-      "act43side_zone1": {
-        "resPath": "Activity/[UC]act43side/ZoneMaps/zone_map_act43side_zone1",
-        "activity": "act43side"
+      "act19mini_zone1": {
+        "resPath": "Activity/[UC]act19mini/ZoneMaps/zone_map_act19mini_zone1",
+        "activity": "act19mini"
       }
     },
     "START_BATTLE_BUTTON": {},
     "ITEM_ICON": {},
-    "TIMELY_DROP": {},
+    "TIMELY_DROP": {
+      "exDrop_act19mini": {
+        "resPath": "Activity/[UC]act19mini/TimelyDrop/exDrop_act19mini",
+        "activity": "act19mini"
+      }
+    },
     "STAGE_BTN": {},
-    "ZONE_MAP_PLUGIN": {},
+    "ZONE_MAP_PLUGIN": {
+      "act19mini": {
+        "resPath": "Activity/[UC]act19mini/Prefabs/MapPlugin/act19mini_map_plugin_holder",
+        "activity": "act19mini"
+      }
+    },
     "BATTLE_FINISH": {
       "act3fun": {
         "resPath": "UI/Activity/ActFun/Actfun3/BattleFinish/act3fun_battle_finish_view",
@@ -56,29 +54,17 @@
       }
     },
     "TEMPLATE_SHOP": {
-      "templateshop_shop_act34sre": {
-        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_template_shop",
-        "activity": "act34sre"
+      "templateshop_shop_act19mini": {
+        "resPath": "Activity/[UC]act19mini/Prefabs/Shop/act19mini_template_shop",
+        "activity": "act19mini"
       },
-      "title_shop_act34sre": {
-        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_template_shop",
-        "activity": "act34sre"
-      },
-      "templateshop_shop_act43side": {
-        "resPath": "Activity/[UC]act43side/Prefabs/act43side_template_shop",
-        "activity": "act43side"
-      },
-      "title_shop_act43side": {
-        "resPath": "Activity/[UC]act43side/Prefabs/act43side_template_shop",
-        "activity": "act43side"
+      "title_shop_act19mini": {
+        "resPath": "Activity/[UC]act19mini/Prefabs/Shop/act19mini_template_shop",
+        "activity": "act19mini"
       }
     },
     "BATTLE": {},
     "SQUAD_HOME_PLUGIN": {
-      "act1break": {
-        "resPath": "Activity/[UC]act1break/Prefabs/act1break_squad_plugin_view",
-        "activity": "act1break"
-      },
       "act5bossrush": {
         "resPath": "Activity/[UC]act5BossRush/Prefabs/act5bossrush_squad_plugin_view",
         "activity": "act5bossrush"
@@ -94,24 +80,7 @@
     "STAGE_PREVIEW_PLUGIN": {},
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
-    "TEMPLATE_MISSION": {
-      "act34sre_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_mission_view_holder",
-        "activity": "act34sre"
-      },
-      "act34sre_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act34sre/Prefabs/act34sre_mission_view_holder",
-        "activity": "act34sre"
-      },
-      "act43side_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act43side/Prefabs/act43side_mission_view_holder",
-        "activity": "act43side"
-      },
-      "act43side_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act43side/Prefabs/act43side_mission_view_holder",
-        "activity": "act43side"
-      }
-    },
+    "TEMPLATE_MISSION": {},
     "CUSTOM_ZONE_CONTAINER": {},
     "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {
       "act6fun_zone1": {
