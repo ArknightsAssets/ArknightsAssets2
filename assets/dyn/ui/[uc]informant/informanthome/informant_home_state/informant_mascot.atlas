@@ -1,0 +1,111 @@
+
+informant_mascot.png
+size: 240,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 5
+  size: 157, 234
+  orig: 168, 235
+  offset: 0, 1
+  index: -1
+ear_left
+  rotate: true
+  xy: 146, 92
+  size: 56, 65
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+ear_right
+  rotate: true
+  xy: 114, 149
+  size: 73, 75
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 2, 158
+  size: 20, 26
+  orig: 24, 40
+  offset: 3, 3
+  index: -1
+eye_right
+  rotate: false
+  xy: 2, 204
+  size: 32, 33
+  orig: 34, 34
+  offset: 1, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 129, 219
+  size: 18, 11
+  orig: 21, 12
+  offset: 2, 0
+  index: -1
+eyeclose_left
+  rotate: false
+  xy: 2, 120
+  size: 17, 6
+  orig: 21, 10
+  offset: 2, 2
+  index: -1
+eyeclose_right
+  rotate: false
+  xy: 2, 128
+  size: 25, 8
+  orig: 29, 12
+  offset: 2, 2
+  index: -1
+eyelid_left
+  rotate: false
+  xy: 2, 138
+  size: 23, 18
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+eyelid_right
+  rotate: false
+  xy: 2, 183
+  size: 34, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 113, 230
+  size: 28, 7
+  orig: 32, 11
+  offset: 2, 2
+  index: -1
+nose
+  rotate: false
+  xy: 115, 220
+  size: 12, 8
+  orig: 16, 12
+  offset: 2, 2
+  index: -1
+scarf
+  rotate: true
+  xy: 145, 3
+  size: 96, 52
+  orig: 97, 53
+  offset: 1, 0
+  index: -1
+snout
+  rotate: 270
+  xy: 191, 43
+  size: 60, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 181, 170
+  size: 69, 54
+  orig: 78, 58
+  offset: 0, 3
+  index: -1
