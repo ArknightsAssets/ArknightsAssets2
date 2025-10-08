@@ -14,6 +14,7 @@
       "name": "ap_track_point"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -24,7 +25,8 @@
           "y": 227.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_battle",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -36,7 +38,8 @@
           "y": -18.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_rogue_3/materials/home_blur"
+        "matPath": "[uc]tm_rogue_3/materials/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 824.0,
@@ -49,6 +52,7 @@
       "name": "btn_battle"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -59,7 +63,8 @@
           "y": 141.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_building",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -71,7 +76,8 @@
           "y": -18.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_rogue_3/materials/home_blur"
+        "matPath": "[uc]tm_rogue_3/materials/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 280.0,
@@ -84,6 +90,7 @@
       "name": "btn_building"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -94,7 +101,8 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_char_repo",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -106,7 +114,8 @@
           "y": -18.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_rogue_3/materials/home_blur"
+        "matPath": "[uc]tm_rogue_3/materials/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 340.0,
@@ -145,6 +154,7 @@
       "name": "btn_empty_bkg"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -155,7 +165,8 @@
           "y": 100.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_friend",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -167,7 +178,8 @@
           "y": -13.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_rogue_3/materials/home_blur"
+        "matPath": "[uc]tm_rogue_3/materials/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 240.0,
@@ -180,6 +192,7 @@
       "name": "btn_friend"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -190,7 +203,8 @@
           "y": 100.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_handbook",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -202,7 +216,8 @@
           "y": -13.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_rogue_3/materials/home_blur"
+        "matPath": "[uc]tm_rogue_3/materials/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 240.0,
@@ -215,6 +230,7 @@
       "name": "btn_handbook"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -225,7 +241,8 @@
           "y": 141.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_inventory",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": null,
       "size": {
@@ -239,6 +256,7 @@
       "name": "btn_inventory"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -249,7 +267,8 @@
           "y": 141.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_mission",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -261,7 +280,8 @@
           "y": -20.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_rogue_3/materials/home_blur"
+        "matPath": "[uc]tm_rogue_3/materials/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 296.0,
@@ -274,6 +294,7 @@
       "name": "btn_mission"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -284,7 +305,8 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_recruit_advance",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": null,
       "size": {
@@ -298,6 +320,7 @@
       "name": "btn_recruit_advance"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -308,7 +331,8 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_recruit_normal",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": null,
       "size": {
@@ -322,6 +346,7 @@
       "name": "btn_recruit_normal"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -332,7 +357,8 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_shop",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": null,
       "size": {
@@ -346,6 +372,7 @@
       "name": "btn_shop"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -356,7 +383,8 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_rogue_3/btn_squad",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -368,7 +396,8 @@
           "y": -18.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_rogue_3/materials/home_blur"
+        "matPath": "[uc]tm_rogue_3/materials/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 342.0,
@@ -554,6 +583,7 @@
     },
     {
       "clr": "#E4E4E4FF",
+      "fontSize": 104,
       "size": {
         "x": 160.0,
         "y": 103.0
@@ -566,6 +596,7 @@
     },
     {
       "clr": "#00000068",
+      "fontSize": 104,
       "size": {
         "x": 160.0,
         "y": 103.0

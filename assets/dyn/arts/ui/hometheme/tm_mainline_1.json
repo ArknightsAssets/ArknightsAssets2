@@ -14,6 +14,7 @@
       "name": "ap_track_point"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -24,7 +25,8 @@
           "y": 227.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_battle",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -36,7 +38,8 @@
           "y": -18.0
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 824.0,
@@ -49,6 +52,7 @@
       "name": "btn_battle"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -59,19 +63,21 @@
           "y": 141.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_building",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": -0.2699995,
-          "y": 5.50000048
+          "x": -0.270004272,
+          "y": 5.5
         },
         "size": {
           "x": -20.62,
           "y": -20.79
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 280.0,
@@ -84,6 +90,7 @@
       "name": "btn_building"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -94,19 +101,21 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_char_repo",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": 0.0100002885,
-          "y": 5.17900038
+          "x": 0.009994507,
+          "y": 5.179001
         },
         "size": {
           "x": -19.59,
           "y": -17.697
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 340.0,
@@ -139,12 +148,13 @@
         "y": -17.611
       },
       "pos": {
-        "x": 0.045,
-        "y": 5.122
+        "x": 0.04499817,
+        "y": 5.12200165
       },
       "name": "btn_empty_bkg"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -155,19 +165,21 @@
           "y": 100.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_friend",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": -0.18,
-          "y": 3.11
+          "x": -0.1800003,
+          "y": 3.11000061
         },
         "size": {
           "x": -8.17,
           "y": -12.45
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 240.0,
@@ -180,6 +192,7 @@
       "name": "btn_friend"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -190,11 +203,12 @@
           "y": 100.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_handbook",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": -0.11,
+          "x": -0.11000061,
           "y": 3.5
         },
         "size": {
@@ -202,7 +216,8 @@
           "y": -12.44
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 240.0,
@@ -215,6 +230,7 @@
       "name": "btn_handbook"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 5.5,
@@ -225,7 +241,8 @@
           "y": 144.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_inventory",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -237,7 +254,8 @@
           "y": -20.556
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 119.0,
@@ -250,6 +268,7 @@
       "name": "btn_inventory"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -260,19 +279,21 @@
           "y": 141.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_mission",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": -0.190000057,
-          "y": 5.49100065
+          "x": -0.190002441,
+          "y": 5.49099731
         },
         "size": {
           "x": -20.6290016,
           "y": -20.921
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 296.0,
@@ -285,6 +306,7 @@
       "name": "btn_mission"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -295,19 +317,21 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_recruit_advanced",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": -3.77,
-          "y": 5.430001
+          "x": -3.76999664,
+          "y": 5.43000031
         },
         "size": {
           "x": -9.7300005,
           "y": -18.41
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 204.0,
@@ -320,6 +344,7 @@
       "name": "btn_recruit_advance"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -330,7 +355,8 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_recruit_normal",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
@@ -342,7 +368,8 @@
           "y": -20.079998
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 204.0,
@@ -355,6 +382,7 @@
       "name": "btn_recruit_normal"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.7,
@@ -365,19 +393,21 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_shop",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": 0.909999132,
-          "y": 5.34200048
+          "x": 0.910003662,
+          "y": 5.342003
         },
         "size": {
           "x": -18.8399982,
           "y": -19.784
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 260.0,
@@ -390,6 +420,7 @@
       "name": "btn_shop"
     },
     {
+      "imgPrefab": null,
       "imgData": {
         "pos": {
           "x": 0.0,
@@ -400,19 +431,21 @@
           "y": 148.0
         },
         "spritePath": "[uc]tm_mainline_1/btn_squad",
-        "matPath": ""
+        "matPath": "",
+        "imgType": "Simple"
       },
       "bgData": {
         "pos": {
-          "x": 0.0700011253,
-          "y": 5.65
+          "x": 0.0700073242,
+          "y": 5.65000153
         },
         "size": {
           "x": -21.69,
           "y": -19.043
         },
         "spritePath": null,
-        "matPath": "[uc]tm_mainline_1/material/home_blur"
+        "matPath": "[uc]tm_mainline_1/material/home_blur",
+        "imgType": "Simple"
       },
       "size": {
         "x": 342.0,
@@ -598,6 +631,7 @@
     },
     {
       "clr": "#FFFFFFFF",
+      "fontSize": 104,
       "size": {
         "x": 160.0,
         "y": 103.0
@@ -610,6 +644,7 @@
     },
     {
       "clr": "#00000066",
+      "fontSize": 104,
       "size": {
         "x": 160.0,
         "y": 103.0

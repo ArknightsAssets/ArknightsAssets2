@@ -1,6 +1,6 @@
 {
   "isTrimed": true,
-  "code": 458,
+  "code": 462,
   "aspects": {
     "ZONE_MAP": {
       "permanent_sub_2_zone1": {
@@ -15,49 +15,17 @@
         "resPath": "UI/Activity/ActFun/Actfun6/zoneMap/zone_map_act6fun_zone1",
         "activity": "actfun"
       },
-      "act44side_zone1": {
-        "resPath": "Activity/[UC]act44side/ZoneMaps/zone_map_act44side_zone1",
-        "activity": "act44side"
-      },
-      "act44side_zone2": {
-        "resPath": "Activity/[UC]act44side/ZoneMaps/zone_map_act44side_zone2",
-        "activity": "act44side"
-      },
-      "act44side_zone3": {
-        "resPath": "Activity/[UC]act44side/ZoneMaps/zone_map_act44side_zone3",
-        "activity": "act44side"
-      },
-      "act35sre_zone1": {
-        "resPath": "Activity/[UC]act35sre/ZoneMaps/zone_map_act35sre_zone1",
-        "activity": "act35sre"
-      },
-      "act35sre_zone2": {
-        "resPath": "Activity/[UC]act35sre/ZoneMaps/zone_map_act35sre_zone2",
-        "activity": "act35sre"
-      },
-      "act35sre_zone3": {
-        "resPath": "Activity/[UC]act35sre/ZoneMaps/zone_map_act35sre_zone3",
-        "activity": "act35sre"
-      },
       "act1vhalfidle_zone1": {
         "resPath": "Activity/[UC]act1vhalfidle/Prefabs/ZoneMap/zone_map_act1vhalfidle_zone1",
         "activity": "act1vhalfidle"
       },
-      "act45side_zone1": {
-        "resPath": "Activity/[UC]act45side/ZoneMaps/zone_map_act45side_zone1",
-        "activity": "act45side"
+      "permanent_main_2_zone1": {
+        "resPath": "Retro/permanent_main_2_Abnormal_Spectrum/zone_map_permanent_main_2_zone1",
+        "activity": "permanent_main_2_abnormal_spectrum"
       },
-      "act45side_zone2": {
-        "resPath": "Activity/[UC]act45side/ZoneMaps/zone_map_act45side_zone2",
-        "activity": "act45side"
-      },
-      "act37sre_zone1": {
-        "resPath": "Activity/[UC]act37sre/ZoneMaps/zone_map_act37sre_zone1",
-        "activity": "act37sre"
-      },
-      "act37sre_zone2": {
-        "resPath": "Activity/[UC]act37sre/ZoneMaps/zone_map_act37sre_zone2",
-        "activity": "act37sre"
+      "act3mainss_zone1": {
+        "resPath": "Activity/[UC]act3mainss/ZoneMap/zone_map_act3mainss_zone1",
+        "activity": "act3mainss"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -88,37 +56,13 @@
       }
     },
     "TEMPLATE_SHOP": {
-      "templateshop_shop_act44side": {
-        "resPath": "Activity/[UC]act44side/Prefabs/act44side_template_shop",
-        "activity": "act44side"
+      "templateshop_shop_act3mainss": {
+        "resPath": "Activity/[UC]act3mainss/Prefabs/act3mainss_template_shop",
+        "activity": "act3mainss"
       },
-      "title_shop_act44side": {
-        "resPath": "Activity/[UC]act44side/Prefabs/act44side_template_shop",
-        "activity": "act44side"
-      },
-      "templateshop_shop_act35sre": {
-        "resPath": "Activity/[UC]act35sre/Prefabs/act35sre_template_shop",
-        "activity": "act35sre"
-      },
-      "title_shop_act35sre": {
-        "resPath": "Activity/[UC]act35sre/Prefabs/act35sre_template_shop",
-        "activity": "act35sre"
-      },
-      "templateshop_shop_act45side": {
-        "resPath": "Activity/[UC]act45side/Prefabs/act45side_template_shop",
-        "activity": "act45side"
-      },
-      "title_shop_act45side": {
-        "resPath": "Activity/[UC]act45side/Prefabs/act45side_template_shop",
-        "activity": "act45side"
-      },
-      "templateshop_shop_act37sre": {
-        "resPath": "Activity/[UC]act37sre/Prefabs/act37sre_template_shop",
-        "activity": "act37sre"
-      },
-      "title_shop_act37sre": {
-        "resPath": "Activity/[UC]act37sre/Prefabs/act37sre_template_shop",
-        "activity": "act37sre"
+      "title_shop_act3mainss": {
+        "resPath": "Activity/[UC]act3mainss/Prefabs/act3mainss_template_shop",
+        "activity": "act3mainss"
       }
     },
     "BATTLE": {},
@@ -160,29 +104,9 @@
       "act1vhalfidle_act1vhalfidle_battle_page": {
         "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Battle/act1vhalfidle_battle_page",
         "activity": "act1vhalfidle"
-      },
-      "act45side_mujica_live_page": {
-        "resPath": "Activity/[UC]act45side/Prefabs/LivePage/act45side_mujica_live_page",
-        "activity": "act45side"
       }
     },
     "TEMPLATE_MISSION": {
-      "act44side_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act44side/Prefabs/act44side_mission_view_holder",
-        "activity": "act44side"
-      },
-      "act44side_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act44side/Prefabs/act44side_mission_view_holder",
-        "activity": "act44side"
-      },
-      "act35sre_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act35sre/Prefabs/act35sre_mission_view_holder",
-        "activity": "act35sre"
-      },
-      "act35sre_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act35sre/Prefabs/act35sre_mission_view_holder",
-        "activity": "act35sre"
-      },
       "act1vhalfidle_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Mission/act1vhalfidle_mission_view_holder",
         "activity": "act1vhalfidle"
@@ -191,21 +115,13 @@
         "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Mission/act1vhalfidle_mission_view_holder",
         "activity": "act1vhalfidle"
       },
-      "act45side_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act45side/Prefabs/act45side_mission_view_holder",
-        "activity": "act45side"
+      "act3mainss_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act3mainss/Prefabs/act3mainss_mission_view_holder",
+        "activity": "act3mainss"
       },
-      "act45side_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act45side/Prefabs/act45side_mission_view_holder",
-        "activity": "act45side"
-      },
-      "act37sre_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act37sre/Prefabs/act37sre_mission_view_holder",
-        "activity": "act37sre"
-      },
-      "act37sre_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act37sre/Prefabs/act37sre_mission_view_holder",
-        "activity": "act37sre"
+      "act3mainss_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act3mainss/Prefabs/act3mainss_mission_view_holder",
+        "activity": "act3mainss"
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},
