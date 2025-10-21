@@ -1,0 +1,544 @@
+{
+  "theme": "tm_sanrio_1",
+  "elements": [
+    {
+      "prefabPath": "[uc]tm_sanrio_1/panel_track_point_sanrio",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -327.6,
+        "y": -37.5
+      },
+      "name": "ap_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/prefab_progress_info",
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": -154.0,
+        "y": -34.0
+      },
+      "name": "battle_prg_widget"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/prefab_shop_recruit_bkg",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "bkg_shop_recruit"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_battle",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.00079,
+        "y": -1.99999774
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_building",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 94.5,
+        "y": -484.4
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_char_repo",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.299561,
+        "y": -188.900085
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 472.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 535.0,
+        "y": -189.0
+      },
+      "name": "btn_empty"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 246.0,
+          "y": 104.0
+        },
+        "spritePath": "[uc]tm_sanrio_1/image/btn_friend",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 33.77005
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 246.0,
+          "y": 104.0
+        },
+        "spritePath": "[uc]tm_sanrio_1/image/btn_handlbook",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": null,
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.5,
+        "y": -61.9
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_inventory",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 277.560547,
+        "y": -484.400024
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_mission",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -194.0,
+        "y": -484.0
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_recruit_advance",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 211.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 84.00079,
+        "y": 0.4500122
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_recruit_normal",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 196.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -119.0,
+        "y": 0.4499817
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_shop",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -192.0,
+        "y": 0.0
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgPrefab": "[uc]tm_sanrio_1/prefab_squad",
+      "imgData": null,
+      "bgData": null,
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -211.49942,
+        "y": -188.900009
+      },
+      "name": "btn_squad"
+    },
+    {
+      "padding": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0,
+        "horizontal": 0,
+        "vertical": 0
+      },
+      "childAlignment": 0,
+      "spacing": -6.5,
+      "childControlHeight": true,
+      "childControlWidth": false,
+      "childForceExpandHeight": false,
+      "childForceExpandWidth": false,
+      "size": {
+        "x": 101.2,
+        "y": 82.24
+      },
+      "pos": {
+        "x": 100.1,
+        "y": 43.4
+      },
+      "name": "building_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/panel_track_point_sanrio",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 147.0,
+        "y": 47.5
+      },
+      "name": "character_repo_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/panel_mission_track_point",
+      "size": {
+        "x": 70.0,
+        "y": 70.0
+      },
+      "pos": {
+        "x": 111.62,
+        "y": 54.4
+      },
+      "name": "dynamic_mission_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/panel_track_point_sanrio",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -29.3,
+        "y": 12.8
+      },
+      "name": "friend_track_point"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": -113.209,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -81.604,
+        "y": 15.0000305
+      },
+      "name": "graphic_btn_buy_ap"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/panel_track_point_sanrio",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -30.29956,
+        "y": 14.3
+      },
+      "name": "handbook_track_point"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 374.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": "[uc]tm_sanrio_1/image/btn_empty_sanrio",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 475.496,
+        "y": 153.32
+      },
+      "pos": {
+        "x": 6.365,
+        "y": -5.643
+      },
+      "name": "img_btn_empty"
+    },
+    {
+      "spritePath": "[uc]tm_sanrio_1/image/img_building_emer",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 92.0,
+        "y": 48.0
+      },
+      "pos": {
+        "x": 0.6,
+        "y": -5.5
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 2.0
+      },
+      "name": "img_building_emer_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_sanrio_1/image/img_building_noti",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 92.0,
+        "y": 48.0
+      },
+      "pos": {
+        "x": 0.6,
+        "y": -5.5
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 1.0
+      },
+      "name": "img_building_noti_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_sanrio_1/image/img_dialogue_title",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 113.0,
+        "y": 33.0
+      },
+      "pos": {
+        "x": 58.5,
+        "y": -12.2
+      },
+      "name": "img_dialogue_title"
+    },
+    {
+      "clr": "#FDFDFD00",
+      "size": {
+        "x": 337.1,
+        "y": 3.4
+      },
+      "pos": {
+        "x": 162.6,
+        "y": 21.1
+      },
+      "name": "img_empty_streak"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 369.0,
+        "y": 55.0
+      },
+      "pos": {
+        "x": -11.0,
+        "y": 42.0
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 215.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 66.0
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "spritePath": "[uc]tm_sanrio_1/image/icon_rhodes",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 205.0,
+        "y": 129.0
+      },
+      "pos": {
+        "x": -66.6,
+        "y": 58.0
+      },
+      "name": "img_name_icon"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/prefab_panel_ap",
+      "size": {
+        "x": 277.0,
+        "y": 168.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": -23.0
+      },
+      "name": "panel_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 1.7508,
+        "y": 66.6
+      },
+      "pos": {
+        "x": 0.87466,
+        "y": -16.9
+      },
+      "name": "recruit_shadow"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/panel_recruit_track_point",
+      "size": {
+        "x": 35.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -203.75,
+        "y": -49.6
+      },
+      "name": "recruit_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_sanrio_1/panel_track_point_sanrio",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -85.8,
+        "y": 48.9
+      },
+      "name": "shop_track_point"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 24,
+      "size": {
+        "x": 50.9,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 13.9,
+        "y": 3.4
+      },
+      "name": "text_building_emer"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 24,
+      "size": {
+        "x": 55.7,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 13.9,
+        "y": 3.4
+      },
+      "name": "text_building_noti"
+    }
+  ]
+}
