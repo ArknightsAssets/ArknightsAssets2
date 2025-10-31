@@ -1,0 +1,76 @@
+
+trap_267_xdmac1.png
+size: 212,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 5
+  size: 38, 164
+  orig: 38, 164
+  offset: 0, 0
+  index: -1
+C_Foot_L
+  rotate: false
+  xy: 103, 100
+  size: 68, 68
+  orig: 70, 70
+  offset: 1, 1
+  index: -1
+C_Foot_R
+  rotate: false
+  xy: 103, 33
+  size: 66, 65
+  orig: 68, 67
+  offset: 1, 1
+  index: -1
+C_Head
+  rotate: false
+  xy: 41, 39
+  size: 60, 130
+  orig: 60, 130
+  offset: 0, 0
+  index: -1
+C_Leg_L
+  rotate: false
+  xy: 173, 110
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+C_Leg_R
+  rotate: false
+  xy: 173, 141
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+C_neck
+  rotate: true
+  xy: 156, 3
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+C_neck_a
+  rotate: false
+  xy: 171, 61
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+C_pile
+  rotate: true
+  xy: 41, 6
+  size: 25, 113
+  orig: 25, 113
+  offset: 0, 0
+  index: -1
+C_pile_a
+  rotate: false
+  xy: 41, 163
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
