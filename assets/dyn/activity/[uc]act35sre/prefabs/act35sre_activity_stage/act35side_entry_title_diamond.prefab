@@ -1,0 +1,113 @@
+{
+"skeleton": { "hash": "eiyDNUJEh9AOdJc7oB1rU2QRidE", "spine": "3.8.99", "x": -465.1, "y": 19.74, "width": 555.39, "height": 276 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bottom-scale", "parent": "root", "x": -0.79, "y": 62.2, "scaleX": 0.7428, "scaleY": 0.3111 },
+	{ "name": "bottom_rotation", "parent": "bottom-scale" }
+],
+"slots": [
+	{ "name": "square", "bone": "bottom_rotation", "attachment": "square" },
+	{ "name": "triangle_01", "bone": "root", "attachment": "triangle_01" },
+	{ "name": "triangle_04", "bone": "root", "attachment": "triangle_01" },
+	{ "name": "triangle_02", "bone": "root", "attachment": "triangle_02" },
+	{ "name": "triangle_03", "bone": "root", "attachment": "triangle_02" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"square": {
+				"square": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 119.17, -115, -115.5, -115, -115.5, 115, 119.17, 115 ],
+					"hull": 4
+				}
+			},
+			"triangle_01": {
+				"triangle_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0.49943, 1.0E-5 ],
+					"triangles": [ 1, 2, 0 ],
+					"vertices": [ 1, 2, 118.96, 115.63, 1, 1, 2, -119.29, 119.18, 1, 1, 0, -0.09, 221.64, 1 ],
+					"hull": 3
+				}
+			},
+			"triangle_02": {
+				"triangle_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0.49859, 1.0E-5 ],
+					"triangles": [ 1, 2, 0 ],
+					"vertices": [ 1, 2, -118.53, 116.69, 1, 1, 2, -118.53, -121.34, 1, 1, 0, -0.09, 221.64, 1 ],
+					"hull": 3
+				}
+			},
+			"triangle_03": {
+				"triangle_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0.49859, 1.0E-5 ],
+					"triangles": [ 1, 2, 0 ],
+					"vertices": [ 1, 2, 117.8, 116.16, 1, 1, 2, 120.99, -126.1, 1, 1, 0, -0.09, 221.64, 1 ],
+					"hull": 3
+				}
+			},
+			"triangle_04": {
+				"triangle_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0.49943, 1.0E-5 ],
+					"triangles": [ 1, 2, 0 ],
+					"vertices": [ 1, 2, 122.63, -125.16, 1, 1, 2, -120, -124.31, 1, 1, 0, -0.09, 221.64, 1 ],
+					"hull": 3
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bottom_rotation": {
+				"rotate": [
+					{},
+					{ "time": 3.3333, "angle": -45 },
+					{ "time": 6.6667, "angle": -90 },
+					{ "time": 10, "angle": -135 },
+					{ "time": 13.3333, "angle": -180 },
+					{ "time": 16.6667, "angle": 135 },
+					{ "time": 20, "angle": 90 },
+					{ "time": 23.3333, "angle": 45 },
+					{ "time": 26.6667 }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 1.0333,
+				"offsets": [
+					{ "slot": "triangle_02", "offset": -2 }
+				]
+			},
+			{
+				"time": 10,
+				"offsets": [
+					{ "slot": "triangle_01", "offset": 2 }
+				]
+			},
+			{
+				"time": 14.4667,
+				"offsets": [
+					{ "slot": "triangle_01", "offset": 3 },
+					{ "slot": "triangle_03", "offset": -3 }
+				]
+			},
+			{
+				"time": 20.9333,
+				"offsets": [
+					{ "slot": "triangle_03", "offset": -2 }
+				]
+			}
+		]
+	}
+}
+}
