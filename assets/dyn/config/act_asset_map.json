@@ -19,6 +19,18 @@
         "resPath": "Retro/permanent_main_2_Abnormal_Spectrum/zone_map_permanent_main_2_zone1",
         "activity": "permanent_main_2_abnormal_spectrum"
       },
+      "act40sre_zone1": {
+        "resPath": "Activity/[UC]act40sre/ZoneMaps/zone_map_act40sre_zone1",
+        "activity": "act40sre"
+      },
+      "act40sre_zone3": {
+        "resPath": "Activity/[UC]act40sre/ZoneMaps/zone_map_act40sre_zone3",
+        "activity": "act40sre"
+      },
+      "act40sre_zone2": {
+        "resPath": "Activity/[UC]act40sre/ZoneMaps/zone_map_act40sre_zone2",
+        "activity": "act40sre"
+      },
       "permanent_sub_2_zone2": {
         "resPath": "Retro/permanent_sub_2_A_Walk_In_The_Dust/zone_map_permanent_sub_2_zone2",
         "activity": "permanent_sub_2_a_walk_in_the_dust"
@@ -56,6 +68,14 @@
       }
     },
     "TEMPLATE_SHOP": {
+      "templateshop_shop_act40sre": {
+        "resPath": "Activity/[UC]act40sre/Prefabs/act40sre_template_shop",
+        "activity": "act40sre"
+      },
+      "title_shop_act40sre": {
+        "resPath": "Activity/[UC]act40sre/Prefabs/act40sre_template_shop",
+        "activity": "act40sre"
+      },
       "templateshop_shop_act48side": {
         "resPath": "Activity/[UC]act48side/Prefabs/act48side_template_shop",
         "activity": "act48side"
@@ -83,6 +103,14 @@
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
     "TEMPLATE_MISSION": {
+      "act40sre_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act40sre/Prefabs/act40sre_mission_view_holder",
+        "activity": "act40sre"
+      },
+      "act40sre_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act40sre/Prefabs/act40sre_mission_view_holder",
+        "activity": "act40sre"
+      },
       "act48side_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act48side/Prefabs/act48side_mission_view_holder",
         "activity": "act48side"
