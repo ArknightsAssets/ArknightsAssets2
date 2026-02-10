@@ -403,6 +403,18 @@
       "name": "friend_track_point"
     },
     {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": -154.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -101.999146,
+        "y": 15.0000305
+      },
+      "name": "graphic_btn_buy_ap"
+    },
+    {
       "prefabPath": null,
       "size": {
         "x": 32.7026,
@@ -467,6 +479,20 @@
         "y": 0.0
       },
       "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_rhodes_day/btn_empty",
+      "matPath": "",
+      "clr": "#000000AA",
+      "size": {
+        "x": 472.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 0.000610351563,
+        "y": -1.52587891E-05
+      },
+      "name": "img_btn_empty"
     },
     {
       "spritePath": "[uc]tm_rhodes_day/img_building_emer",
@@ -551,6 +577,18 @@
         "y": -16.0
       },
       "name": "img_dialogue_title"
+    },
+    {
+      "clr": "#FDFDFD21",
+      "size": {
+        "x": 337.1,
+        "y": 3.4
+      },
+      "pos": {
+        "x": 162.6,
+        "y": 21.1
+      },
+      "name": "img_empty_streak"
     },
     {
       "spritePath": "[uc]tm_rhodes_day/band_recruit",
@@ -731,6 +769,32 @@
         "y": -36.0
       },
       "name": "text_battle_prg_cur"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 30,
+      "size": {
+        "x": 50.9,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 18.0,
+        "y": -1.2
+      },
+      "name": "text_building_emer"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 30,
+      "size": {
+        "x": 55.7,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 18.0,
+        "y": -1.2
+      },
+      "name": "text_building_noti"
     }
   ]
 }
