@@ -51,6 +51,7 @@ jobs:
           git config http.postBuffer 2147483648
           if [[ $GITHUB_EVENT_NAME == 'workflow_dispatch' ]]; then echo "FORCE=--force" >> $GITHUB_ENV; fi
           python -m pip install -U requests
+          sudo apt-get update
           sudo apt-get install -y ffmpeg
       - name: Update assets
         run: python script.py ${{ matrix.args }} ${{ env.FORCE }}
