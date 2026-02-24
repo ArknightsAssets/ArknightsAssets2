@@ -90,7 +90,12 @@
       }
     },
     "BATTLE": {},
-    "SQUAD_HOME_PLUGIN": {},
+    "SQUAD_HOME_PLUGIN": {
+      "act2break": {
+        "resPath": "Activity/[UC]act2break/Prefabs/act2break_squad_plugin_view",
+        "activity": "act2break"
+      }
+    },
     "HOME_TOPBAR": {},
     "HIDDEN_STAGE_TOAST": {
       "permanent_sidestory_15_dorothy's_vision": {
