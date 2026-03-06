@@ -35,6 +35,10 @@
         "resPath": "Activity/[UC]act35sre/ZoneMaps/zone_map_act35sre_zone3",
         "activity": "act35sre"
       },
+      "act1vhalfidle_zone1": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/ZoneMap/zone_map_act1vhalfidle_zone1",
+        "activity": "act1vhalfidle"
+      },
       "act45side_zone1": {
         "resPath": "Activity/[UC]act45side/ZoneMaps/zone_map_act45side_zone1",
         "activity": "act45side"
@@ -57,7 +61,12 @@
     "TIMELY_DROP": {},
     "STAGE_BTN": {},
     "ZONE_MAP_PLUGIN": {},
-    "BATTLE_FINISH": {},
+    "BATTLE_FINISH": {
+      "act1vhalfidle": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/BattleFinish/act1vhalfidle_battle_finish_view",
+        "activity": "act1vhalfidle"
+      }
+    },
     "TEMPLATE_SHOP": {
       "templateshop_shop_act44side": {
         "resPath": "Activity/[UC]act44side/Prefabs/act44side_template_shop",
@@ -104,6 +113,34 @@
     "STAGE_PREVIEW_PLUGIN": {},
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {
+      "act1vhalfidle_depot_page": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Pages/act1vhalfidle_depot_page",
+        "activity": "act1vhalfidle"
+      },
+      "act1vhalfidle_squad_page": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Pages/act1vhalfidle_squad_page",
+        "activity": "act1vhalfidle"
+      },
+      "act1vhalfidle_recruit_page": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Pages/act1vhalfidle_recruit_page",
+        "activity": "act1vhalfidle"
+      },
+      "act1vhalfidle_char_upgrade_page": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Pages/act1vhalfidle_char_upgrade_page",
+        "activity": "act1vhalfidle"
+      },
+      "act1vhalfidle_harvest_page": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Pages/act1vhalfidle_harvest_page",
+        "activity": "act1vhalfidle"
+      },
+      "act1vhalfidle_tech_tree_page": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Pages/act1vhalfidle_tech_tree_page",
+        "activity": "act1vhalfidle"
+      },
+      "act1vhalfidle_act1vhalfidle_battle_page": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Battle/act1vhalfidle_battle_page",
+        "activity": "act1vhalfidle"
+      },
       "act45side_mujica_live_page": {
         "resPath": "Activity/[UC]act45side/Prefabs/LivePage/act45side_mujica_live_page",
         "activity": "act45side"
@@ -126,6 +163,14 @@
         "resPath": "Activity/[UC]act35sre/Prefabs/act35sre_mission_view_holder",
         "activity": "act35sre"
       },
+      "act1vhalfidle_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Mission/act1vhalfidle_mission_view_holder",
+        "activity": "act1vhalfidle"
+      },
+      "act1vhalfidle_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/Mission/act1vhalfidle_mission_view_holder",
+        "activity": "act1vhalfidle"
+      },
       "act45side_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act45side/Prefabs/act45side_mission_view_holder",
         "activity": "act45side"
@@ -144,6 +189,11 @@
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},
-    "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {}
+    "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {
+      "act1vhalfidle_zone1": {
+        "resPath": "Activity/[UC]act1vhalfidle/Prefabs/ZoneMap/act1vhalfidle_zone_map_holder",
+        "activity": "act1vhalfidle"
+      }
+    }
   }
 }
