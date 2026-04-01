@@ -1,0 +1,1969 @@
+{
+"skeleton": { "hash": "IzDT1ScMCaEuStivr1JxirgAvnE", "spine": "3.8.99", "x": -80.61, "y": -31.49, "width": 177, "height": 298 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "normal_01", "parent": "root", "y": 19.13 },
+	{ "name": "emoji_dot_01", "parent": "normal_01", "x": -73.53, "y": 236.26 },
+	{ "name": "emoji_dot_02", "parent": "normal_01", "x": 89.97, "y": 236.27 },
+	{ "name": "emoji_dot_03", "parent": "normal_01", "x": 89.97, "y": -39.65 },
+	{ "name": "emoji_dot_04", "parent": "normal_01", "x": -73.53, "y": -39.65 },
+	{ "name": "normal_02", "parent": "root", "y": 19.13 },
+	{ "name": "emoji_dot_1", "parent": "normal_02", "x": -73.53, "y": 236.26 },
+	{ "name": "emoji_dot_2", "parent": "normal_02", "x": 89.97, "y": 236.27 },
+	{ "name": "emoji_dot_3", "parent": "normal_02", "x": 89.97, "y": -39.65 },
+	{ "name": "emoji_dot_4", "parent": "normal_02", "x": -73.53, "y": -39.65 },
+	{ "name": "normal_03", "parent": "root", "y": 19.13 },
+	{ "name": "emoji_dot_5", "parent": "normal_03", "x": -73.53, "y": 236.26 },
+	{ "name": "emoji_dot_6", "parent": "normal_03", "x": 89.97, "y": 236.27 },
+	{ "name": "emoji_dot_7", "parent": "normal_03", "x": 89.97, "y": -39.65 },
+	{ "name": "emoji_dot_8", "parent": "normal_03", "x": -73.53, "y": -39.65 },
+	{ "name": "normal_04", "parent": "root", "y": 19.13 },
+	{ "name": "emoji_dot_9", "parent": "normal_04", "x": -73.53, "y": 236.26 },
+	{ "name": "emoji_dot_10", "parent": "normal_04", "x": 89.97, "y": 236.27 },
+	{ "name": "emoji_dot_11", "parent": "normal_04", "x": 89.97, "y": -39.65 },
+	{ "name": "emoji_dot_12", "parent": "normal_04", "x": -73.53, "y": -39.65 },
+	{ "name": "normal_05", "parent": "root", "y": 19.13 },
+	{ "name": "emoji_dot_13", "parent": "normal_05", "x": -73.53, "y": 236.26 },
+	{ "name": "emoji_dot_14", "parent": "normal_05", "x": 89.97, "y": 236.27 },
+	{ "name": "emoji_dot_15", "parent": "normal_05", "x": 89.97, "y": -39.65 },
+	{ "name": "emoji_dot_16", "parent": "normal_05", "x": -73.53, "y": -39.65 },
+	{ "name": "failed_01", "parent": "root", "y": 19.13 },
+	{ "name": "emoji_dot_17", "parent": "failed_01", "x": -73.53, "y": 236.26 },
+	{ "name": "emoji_dot_18", "parent": "failed_01", "x": 89.97, "y": 236.27 },
+	{ "name": "emoji_dot_19", "parent": "failed_01", "x": 89.97, "y": -39.65 },
+	{ "name": "emoji_dot_20", "parent": "failed_01", "x": -73.53, "y": -39.65 }
+],
+"slots": [
+	{ "name": "normal_01", "bone": "normal_01", "attachment": "normal_01" },
+	{ "name": "normal_02", "bone": "normal_02", "attachment": "normal_02" },
+	{ "name": "normal_03", "bone": "normal_03", "attachment": "normal_03" },
+	{ "name": "normal_04", "bone": "normal_04", "attachment": "normal_04" },
+	{ "name": "normal_05", "bone": "normal_05", "attachment": "normal_05" },
+	{ "name": "failed_01", "bone": "failed_01", "attachment": "failed_01" },
+	{ "name": "emoji_line_04", "bone": "normal_01", "attachment": "emoji_line_04" },
+	{ "name": "emoji_line_4", "bone": "normal_02", "attachment": "emoji_line_04" },
+	{ "name": "emoji_line_5", "bone": "normal_03", "attachment": "emoji_line_04" },
+	{ "name": "emoji_line_9", "bone": "normal_04", "attachment": "emoji_line_04" },
+	{ "name": "emoji_line_13", "bone": "normal_05", "attachment": "emoji_line_04" },
+	{ "name": "emoji_line_17", "bone": "failed_01", "attachment": "emoji_line_04" },
+	{ "name": "emoji_line_03", "bone": "normal_01", "attachment": "emoji_line_03" },
+	{ "name": "emoji_line_3", "bone": "normal_02", "attachment": "emoji_line_03" },
+	{ "name": "emoji_line_6", "bone": "normal_03", "attachment": "emoji_line_03" },
+	{ "name": "emoji_line_10", "bone": "normal_04", "attachment": "emoji_line_03" },
+	{ "name": "emoji_line_14", "bone": "normal_05", "attachment": "emoji_line_03" },
+	{ "name": "emoji_line_18", "bone": "failed_01", "attachment": "emoji_line_03" },
+	{ "name": "emoji_line_02", "bone": "normal_01", "attachment": "emoji_line_02" },
+	{ "name": "emoji_line_2", "bone": "normal_02", "attachment": "emoji_line_02" },
+	{ "name": "emoji_line_7", "bone": "normal_03", "attachment": "emoji_line_02" },
+	{ "name": "emoji_line_11", "bone": "normal_04", "attachment": "emoji_line_02" },
+	{ "name": "emoji_line_15", "bone": "normal_05", "attachment": "emoji_line_02" },
+	{ "name": "emoji_line_19", "bone": "failed_01", "attachment": "emoji_line_02" },
+	{ "name": "emoji_line_01", "bone": "normal_01", "attachment": "emoji_line_01" },
+	{ "name": "emoji_line_1", "bone": "normal_02", "attachment": "emoji_line_01" },
+	{ "name": "emoji_line_8", "bone": "normal_03", "attachment": "emoji_line_01" },
+	{ "name": "emoji_line_12", "bone": "normal_04", "attachment": "emoji_line_01" },
+	{ "name": "emoji_line_16", "bone": "normal_05", "attachment": "emoji_line_01" },
+	{ "name": "emoji_line_20", "bone": "failed_01", "attachment": "emoji_line_01" },
+	{ "name": "emoji_dot_04", "bone": "emoji_dot_04", "attachment": "emoji_dot_04" },
+	{ "name": "emoji_dot_4", "bone": "emoji_dot_4", "attachment": "emoji_dot_04" },
+	{ "name": "emoji_dot_8", "bone": "emoji_dot_8", "attachment": "emoji_dot_04" },
+	{ "name": "emoji_dot_12", "bone": "emoji_dot_12", "attachment": "emoji_dot_04" },
+	{ "name": "emoji_dot_16", "bone": "emoji_dot_16", "attachment": "emoji_dot_04" },
+	{ "name": "emoji_dot_20", "bone": "emoji_dot_20", "attachment": "emoji_dot_04" },
+	{ "name": "emoji_dot_03", "bone": "emoji_dot_03", "attachment": "emoji_dot_03" },
+	{ "name": "emoji_dot_3", "bone": "emoji_dot_3", "attachment": "emoji_dot_03" },
+	{ "name": "emoji_dot_7", "bone": "emoji_dot_7", "attachment": "emoji_dot_03" },
+	{ "name": "emoji_dot_11", "bone": "emoji_dot_11", "attachment": "emoji_dot_03" },
+	{ "name": "emoji_dot_15", "bone": "emoji_dot_15", "attachment": "emoji_dot_03" },
+	{ "name": "emoji_dot_19", "bone": "emoji_dot_19", "attachment": "emoji_dot_03" },
+	{ "name": "emoji_dot_02", "bone": "emoji_dot_02", "attachment": "emoji_dot_02" },
+	{ "name": "emoji_dot_2", "bone": "emoji_dot_2", "attachment": "emoji_dot_02" },
+	{ "name": "emoji_dot_6", "bone": "emoji_dot_6", "attachment": "emoji_dot_02" },
+	{ "name": "emoji_dot_10", "bone": "emoji_dot_10", "attachment": "emoji_dot_02" },
+	{ "name": "emoji_dot_14", "bone": "emoji_dot_14", "attachment": "emoji_dot_02" },
+	{ "name": "emoji_dot_18", "bone": "emoji_dot_18", "attachment": "emoji_dot_02" },
+	{ "name": "emoji_dot_01", "bone": "emoji_dot_01", "attachment": "emoji_dot_01" },
+	{ "name": "emoji_dot_1", "bone": "emoji_dot_1", "attachment": "emoji_dot_01" },
+	{ "name": "emoji_dot_5", "bone": "emoji_dot_5", "attachment": "emoji_dot_01" },
+	{ "name": "emoji_dot_9", "bone": "emoji_dot_9", "attachment": "emoji_dot_01" },
+	{ "name": "emoji_dot_13", "bone": "emoji_dot_13", "attachment": "emoji_dot_01" },
+	{ "name": "emoji_dot_17", "bone": "emoji_dot_17", "attachment": "emoji_dot_01" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"emoji_dot_01": {
+				"emoji_dot_01": { "x": -0.58, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_1": {
+				"emoji_dot_01": { "x": -0.58, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_02": {
+				"emoji_dot_02": { "x": -0.56, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_2": {
+				"emoji_dot_02": { "x": -0.56, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_03": {
+				"emoji_dot_03": { "x": -0.56, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_3": {
+				"emoji_dot_03": { "x": -0.56, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_04": {
+				"emoji_dot_04": { "x": -0.58, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_4": {
+				"emoji_dot_04": { "x": -0.58, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_5": {
+				"emoji_dot_01": { "x": -0.58, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_6": {
+				"emoji_dot_02": { "x": -0.56, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_7": {
+				"emoji_dot_03": { "x": -0.56, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_8": {
+				"emoji_dot_04": { "x": -0.58, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_9": {
+				"emoji_dot_01": { "x": -0.58, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_10": {
+				"emoji_dot_02": { "x": -0.56, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_11": {
+				"emoji_dot_03": { "x": -0.56, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_12": {
+				"emoji_dot_04": { "x": -0.58, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_13": {
+				"emoji_dot_01": { "x": -0.58, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_14": {
+				"emoji_dot_02": { "x": -0.56, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_15": {
+				"emoji_dot_03": { "x": -0.56, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_16": {
+				"emoji_dot_04": { "x": -0.58, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_17": {
+				"emoji_dot_01": { "x": -0.58, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_18": {
+				"emoji_dot_02": { "x": -0.56, "y": -0.39, "width": 13, "height": 13 }
+			},
+			"emoji_dot_19": {
+				"emoji_dot_03": { "x": -0.56, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_dot_20": {
+				"emoji_dot_04": { "x": -0.58, "y": -0.47, "width": 13, "height": 13 }
+			},
+			"emoji_line_01": {
+				"emoji_line_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 3, 3.36, -1.89, 1, 1, 2, -3.09, -1.89, 1, 1, 2, -3.09, 2.11, 1, 1, 3, 3.36, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_1": {
+				"emoji_line_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 8, 3.36, -1.89, 1, 1, 7, -3.09, -1.89, 1, 1, 7, -3.09, 2.11, 1, 1, 8, 3.36, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_02": {
+				"emoji_line_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 4, 1.94, -1.97, 1, 1, 4, -2.06, -1.97, 1, 1, 3, -2.06, 1.11, 1, 1, 3, 1.94, 1.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_2": {
+				"emoji_line_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 9, 1.94, -1.97, 1, 1, 9, -2.06, -1.97, 1, 1, 8, -2.06, 1.11, 1, 1, 8, 1.94, 1.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_03": {
+				"emoji_line_03": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 4, 1.25, -1.97, 1, 1, 5, -1.91, -1.97, 1, 1, 5, -1.91, 2.03, 1, 1, 4, 1.25, 2.03, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_3": {
+				"emoji_line_03": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 9, 1.25, -1.97, 1, 1, 10, -1.91, -1.97, 1, 1, 10, -1.91, 2.03, 1, 1, 9, 1.25, 2.03, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_04": {
+				"emoji_line_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 5, 1.92, -0.97, 1, 1, 5, -2.08, -0.97, 1, 1, 2, -2.08, 2.11, 1, 1, 2, 1.92, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_4": {
+				"emoji_line_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 10, 1.92, -0.97, 1, 1, 10, -2.08, -0.97, 1, 1, 7, -2.08, 2.11, 1, 1, 7, 1.92, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_5": {
+				"emoji_line_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 15, 1.92, -0.97, 1, 1, 15, -2.08, -0.97, 1, 1, 12, -2.08, 2.11, 1, 1, 12, 1.92, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_6": {
+				"emoji_line_03": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 14, 1.25, -1.97, 1, 1, 15, -1.91, -1.97, 1, 1, 15, -1.91, 2.03, 1, 1, 14, 1.25, 2.03, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_7": {
+				"emoji_line_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 14, 1.94, -1.97, 1, 1, 14, -2.06, -1.97, 1, 1, 13, -2.06, 1.11, 1, 1, 13, 1.94, 1.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_8": {
+				"emoji_line_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 13, 3.36, -1.89, 1, 1, 12, -3.09, -1.89, 1, 1, 12, -3.09, 2.11, 1, 1, 13, 3.36, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_9": {
+				"emoji_line_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 20, 1.92, -0.97, 1, 1, 20, -2.08, -0.97, 1, 1, 17, -2.08, 2.11, 1, 1, 17, 1.92, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_10": {
+				"emoji_line_03": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 19, 1.25, -1.97, 1, 1, 20, -1.91, -1.97, 1, 1, 20, -1.91, 2.03, 1, 1, 19, 1.25, 2.03, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_11": {
+				"emoji_line_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 19, 1.94, -1.97, 1, 1, 19, -2.06, -1.97, 1, 1, 18, -2.06, 1.11, 1, 1, 18, 1.94, 1.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_12": {
+				"emoji_line_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 18, 3.36, -1.89, 1, 1, 17, -3.09, -1.89, 1, 1, 17, -3.09, 2.11, 1, 1, 18, 3.36, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_13": {
+				"emoji_line_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 25, 1.92, -0.97, 1, 1, 25, -2.08, -0.97, 1, 1, 22, -2.08, 2.11, 1, 1, 22, 1.92, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_14": {
+				"emoji_line_03": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 24, 1.25, -1.97, 1, 1, 25, -1.91, -1.97, 1, 1, 25, -1.91, 2.03, 1, 1, 24, 1.25, 2.03, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_15": {
+				"emoji_line_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 24, 1.94, -1.97, 1, 1, 24, -2.06, -1.97, 1, 1, 23, -2.06, 1.11, 1, 1, 23, 1.94, 1.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_16": {
+				"emoji_line_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 23, 3.36, -1.89, 1, 1, 22, -3.09, -1.89, 1, 1, 22, -3.09, 2.11, 1, 1, 23, 3.36, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_17": {
+				"emoji_line_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 30, 1.92, -0.97, 1, 1, 30, -2.08, -0.97, 1, 1, 27, -2.08, 2.11, 1, 1, 27, 1.92, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_18": {
+				"emoji_line_03": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1, 29, 1.25, -1.97, 1, 1, 30, -1.91, -1.97, 1, 1, 30, -1.91, 2.03, 1, 1, 29, 1.25, 2.03, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_19": {
+				"emoji_line_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 29, 1.94, -1.97, 1, 1, 29, -2.06, -1.97, 1, 1, 28, -2.06, 1.11, 1, 1, 28, 1.94, 1.11, 1 ],
+					"hull": 4
+				}
+			},
+			"emoji_line_20": {
+				"emoji_line_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 28, 3.36, -1.89, 1, 1, 27, -3.09, -1.89, 1, 1, 27, -3.09, 2.11, 1, 1, 28, 3.36, 2.11, 1 ],
+					"hull": 4
+				}
+			},
+			"failed_01": {
+				"failed_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 29, 6.42, -10.97, 1, 1, 30, 8.92, -10.97, 1, 1, 27, 8.92, 11.11, 1, 1, 28, 6.42, 11.11, 1 ],
+					"hull": 4
+				}
+			},
+			"normal_01": {
+				"normal_01": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 4, 6.42, -10.97, 1, 1, 5, 8.92, -10.97, 1, 1, 2, 8.92, 11.11, 1, 1, 3, 6.42, 11.11, 1 ],
+					"hull": 4
+				}
+			},
+			"normal_02": {
+				"normal_02": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 9, 6.42, -10.97, 1, 1, 10, 8.92, -10.97, 1, 1, 7, 8.92, 11.11, 1, 1, 8, 6.42, 11.11, 1 ],
+					"hull": 4
+				}
+			},
+			"normal_03": {
+				"normal_03": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 14, 6.42, -10.97, 1, 1, 15, 8.92, -10.97, 1, 1, 12, 8.92, 11.11, 1, 1, 13, 6.42, 11.11, 1 ],
+					"hull": 4
+				}
+			},
+			"normal_04": {
+				"normal_04": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 19, 6.42, -10.97, 1, 1, 20, 8.92, -10.97, 1, 1, 17, 8.92, 11.11, 1, 1, 18, 6.42, 11.11, 1 ],
+					"hull": 4
+				}
+			},
+			"normal_05": {
+				"normal_05": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 1, 24, 6.42, -10.97, 1, 1, 25, 8.92, -10.97, 1, 1, 22, 8.92, 11.11, 1, 1, 23, 6.42, 11.11, 1 ],
+					"hull": 4
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"failed_01": {
+		"slots": {
+			"emoji_dot_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_05": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"emoji_dot_17": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.0667, "y": -4.77, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "y": -4.77, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667 }
+				]
+			},
+			"emoji_dot_18": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.0667, "y": -4.77, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.1333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2, "y": -4.77, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.2667, "curve": "stepped" },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"normal_01": {
+		"slots": {
+			"emoji_dot_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"failed_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_05": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"emoji_dot_01": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": -2.44, "y": -8.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"emoji_dot_02": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 1.63, "y": -8.13, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"emoji_dot_03": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 1.63, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"emoji_dot_04": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": -2.44, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	},
+	"normal_02": {
+		"slots": {
+			"emoji_dot_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"failed_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_05": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"normal_02": {
+				"rotate": [
+					{ "angle": 2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 2 }
+				]
+			},
+			"emoji_dot_1": {
+				"translate": [
+					{ "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.3333, "x": -0.94, "y": -19.85, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1, "x": -0.94, "y": -19.85, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"emoji_dot_2": {
+				"translate": [
+					{ "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.3333, "x": 1.4, "y": -19.85, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1, "x": 1.4, "y": -19.85, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"emoji_dot_3": {
+				"translate": [
+					{ "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.3333, "x": 0.78, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1, "x": 0.78, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			},
+			"emoji_dot_4": {
+				"translate": [
+					{ "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.3333, "x": -1.55, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1, "x": -1.55, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	},
+	"normal_03": {
+		"slots": {
+			"emoji_dot_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"failed_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_05": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"emoji_dot_5": {
+				"translate": [
+					{ "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.3333, "y": 6.84, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.4333 }
+				]
+			},
+			"emoji_dot_8": {
+				"translate": [
+					{ "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.3333, "y": 6.84, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.4333 }
+				]
+			}
+		}
+	},
+	"normal_04": {
+		"slots": {
+			"emoji_dot_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_13": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_14": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_15": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_16": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"failed_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_05": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"emoji_dot_9": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": -2.5, "y": -9.18, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6333 }
+				]
+			},
+			"emoji_dot_10": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": 1.67, "y": -9.18, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6333 }
+				]
+			},
+			"emoji_dot_11": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": 1.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6333 }
+				]
+			},
+			"emoji_dot_12": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "x": -2.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6333 }
+				]
+			}
+		}
+	},
+	"normal_05": {
+		"slots": {
+			"emoji_dot_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_dot_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_7": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_8": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_9": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_10": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_11": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_12": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_17": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_18": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_19": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"emoji_line_20": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"failed_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_01": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_02": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_03": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"normal_04": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"normal_05": {
+				"translate": [
+					{ "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.1, "x": -1.8, "y": 3.13, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.2, "curve": 0.285, "c2": 0.94, "c3": 0.75 },
+					{ "time": 0.2667, "x": -2.03, "y": 1.52 }
+				]
+			}
+		}
+	}
+}
+}

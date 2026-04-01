@@ -11,6 +11,10 @@
         "resPath": "Retro/permanent_sidestory_3_Code_Of_Brawl/zone_map_permanent_sidestory_3_zone2",
         "activity": "permanent_sidestory_3_code_of_brawl"
       },
+      "act6fun_zone1": {
+        "resPath": "UI/Activity/ActFun/Actfun6/zoneMap/zone_map_act6fun_zone1",
+        "activity": "actfun"
+      },
       "permanent_main_2_zone1": {
         "resPath": "Retro/permanent_main_2_Abnormal_Spectrum/zone_map_permanent_main_2_zone1",
         "activity": "permanent_main_2_abnormal_spectrum"
@@ -59,7 +63,28 @@
         "activity": "act20mini"
       }
     },
-    "BATTLE_FINISH": {},
+    "BATTLE_FINISH": {
+      "act3fun": {
+        "resPath": "UI/Activity/ActFun/Actfun3/BattleFinish/act3fun_battle_finish_view",
+        "activity": "act3fun"
+      },
+      "act4fun": {
+        "resPath": "UI/Activity/ActFun/Actfun4/BattleFinish/act4fun_battle_finish_view",
+        "activity": "act4fun"
+      },
+      "act5fun": {
+        "resPath": "UI/Activity/ActFun/Actfun5/BattleFinish/act5fun_battle_finish_view",
+        "activity": "act5fun"
+      },
+      "act6fun": {
+        "resPath": "UI/Activity/ActFun/Actfun6/BattleFinish/act6fun_battle_finish_view",
+        "activity": "act6fun"
+      },
+      "act7fun": {
+        "resPath": "UI/Activity/ActFun/Actfun7/BattleFinish/act7fun_battle_finish_view",
+        "activity": "act7fun"
+      }
+    },
     "TEMPLATE_SHOP": {
       "templateshop_shop_act49side": {
         "resPath": "Activity/[UC]act49side/Prefabs/act49side_template_shop",
@@ -93,7 +118,12 @@
         "activity": "act2break"
       }
     },
-    "HOME_TOPBAR": {},
+    "HOME_TOPBAR": {
+      "act7fun": {
+        "resPath": "Activity/[UC]act7fun/Prefab/top_entry_holder",
+        "activity": "act7fun"
+      }
+    },
     "HIDDEN_STAGE_TOAST": {
       "permanent_sidestory_15_dorothy's_vision": {
         "resPath": "Retro/permanent_sidestory_15_Dorothy's_Vision/permanent_sidestory_15_hidden_stage_toast_holder",
@@ -130,6 +160,11 @@
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},
-    "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {}
+    "ACTIVITY_CUSTOM_ZONE_MAP_HOLDER": {
+      "act6fun_zone1": {
+        "resPath": "UI/Activity/ActFun/Actfun6/zoneMap/act6fun_zone_map_holder",
+        "activity": "actfun"
+      }
+    }
   }
 }
