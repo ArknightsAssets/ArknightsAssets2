@@ -1,0 +1,864 @@
+{
+  "theme": "tm_kaltsit_1",
+  "elements": [
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "announce_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": -135.9,
+        "y": -81.4
+      },
+      "name": "battle_prg_widget"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "bkg_shop_recruit"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 841.0,
+          "y": 236.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_battle",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.187011719,
+          "y": 2.2559967
+        },
+        "size": {
+          "x": -19.167,
+          "y": -16.504
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.0,
+        "y": -2.0
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 280.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_building",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.425994873,
+          "y": 4.97
+        },
+        "size": {
+          "x": -19.343,
+          "y": -19.294
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 97.0,
+        "y": -487.1
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 340.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_char_repo",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.468002319,
+          "y": 4.861
+        },
+        "size": {
+          "x": -18.722,
+          "y": -17.942
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.3,
+        "y": -193.4
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "spritePath": null,
+      "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": -18.125,
+        "y": -18.271
+      },
+      "pos": {
+        "x": 0.136001587,
+        "y": 0.690002441
+      },
+      "name": "btn_empty_bkg"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 242.0,
+          "y": 102.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_friend",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.439003,
+          "y": 2.3390007
+        },
+        "size": {
+          "x": -8.878,
+          "y": -13.324
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 33.77005
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 242.0,
+          "y": 102.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_handlbook",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.05999756,
+          "y": 2.358
+        },
+        "size": {
+          "x": -8.571,
+          "y": -13.52
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.5,
+        "y": -59.3
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 115.0,
+          "y": 125.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_inventory",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.6349983,
+          "y": -0.574996948
+        },
+        "size": {
+          "x": -10.246,
+          "y": -21.304
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 282.4,
+        "y": -482.6
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 296.0,
+          "y": 141.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_mission",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.016998291,
+          "y": 5.186
+        },
+        "size": {
+          "x": -17.484,
+          "y": -20.373
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -188.11,
+        "y": -487.2
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 200.0,
+          "y": 142.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_advance_recruit",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": -3.47,
+          "y": 4.517
+        },
+        "size": {
+          "x": -6.94,
+          "y": -18.888
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 102.94,
+        "y": -3.05
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 204.0,
+          "y": 142.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_normal_recruit",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 4.473
+        },
+        "size": {
+          "x": 0.0,
+          "y": -19.042
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -99.05,
+        "y": -2.98
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 256.0,
+          "y": 142.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_shop",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": -2.164,
+          "y": 3.957
+        },
+        "size": {
+          "x": -18.362,
+          "y": -19.71
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -189.62,
+        "y": -3.4
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 340.0,
+          "y": 148.0
+        },
+        "spritePath": "[uc]tm_kaltsit_1/astc/btn_squad",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": -0.2769928,
+          "y": 5.395
+        },
+        "size": {
+          "x": -20.555,
+          "y": -18.936
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_kaltsit_1/materials/home_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -210.7,
+        "y": -193.52
+      },
+      "name": "btn_squad"
+    },
+    {
+      "padding": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0,
+        "horizontal": 0,
+        "vertical": 0
+      },
+      "childAlignment": 0,
+      "spacing": 3.0,
+      "childControlHeight": true,
+      "childControlWidth": false,
+      "childForceExpandHeight": false,
+      "childForceExpandWidth": false,
+      "size": {
+        "x": 101.2,
+        "y": 82.24
+      },
+      "pos": {
+        "x": 109.3,
+        "y": 31.4
+      },
+      "name": "building_track_point"
+    },
+    {
+      "blurLevel": 2,
+      "name": "cam_front_blur"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 157.1,
+        "y": 68.6
+      },
+      "name": "character_repo_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 114.6,
+        "y": 43.7
+      },
+      "name": "friend_track_point"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": -154.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -101.999146,
+        "y": 15.0000305
+      },
+      "name": "graphic_btn_buy_ap"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 113.6,
+        "y": 45.20002
+      },
+      "name": "handbook_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.0,
+        "y": 32.0
+      },
+      "pos": {
+        "x": -35.7,
+        "y": 25.8
+      },
+      "name": "illust_red_point"
+    },
+    {
+      "spritePath": "[uc]tm_kaltsit_1/astc/btn_battle_ap",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 403.0,
+        "y": 310.0
+      },
+      "pos": {
+        "x": 127.0,
+        "y": -2.800003
+      },
+      "name": "img_battle_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 374.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": "[uc]tm_kaltsit_1/astc/btn_battle_prg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 52.0,
+        "y": 25.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_kaltsit_1/astc/img_building_emer",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 94.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": "[uc]tm_kaltsit_1/astc/img_building_emer",
+      "matPath": "",
+      "clr": "#42424252",
+      "size": {
+        "x": 94.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 2.0
+      },
+      "name": "img_building_emer_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_kaltsit_1/astc/img_building_noti",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 94.0,
+        "y": 42.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": "[uc]tm_kaltsit_1/astc/img_building_noti",
+      "matPath": "",
+      "clr": "#42424252",
+      "size": {
+        "x": 94.0,
+        "y": 42.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 1.0
+      },
+      "name": "img_building_noti_shadow"
+    },
+    {
+      "clr": "#FDFDFD21",
+      "size": {
+        "x": 337.1,
+        "y": 3.4
+      },
+      "pos": {
+        "x": 162.6,
+        "y": 21.1
+      },
+      "name": "img_empty_streak"
+    },
+    {
+      "spritePath": "[uc]tm_kaltsit_1/astc/grp_recruit",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 385.0,
+        "y": 21.0
+      },
+      "pos": {
+        "x": 2.8,
+        "y": 49.34
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 215.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 66.0
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "mail_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 50.0,
+        "y": 50.0
+      },
+      "pos": {
+        "x": 68.3999939,
+        "y": 16.4
+      },
+      "name": "openserver_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 277.0,
+        "y": 168.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": -23.0
+      },
+      "name": "panel_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 5.0,
+        "y": 61.0
+      },
+      "pos": {
+        "x": -13.701,
+        "y": -18.0
+      },
+      "name": "recruit_shadow"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 30.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": 82.0,
+        "y": 16.0
+      },
+      "name": "return_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -77.4073944,
+        "y": 66.49997
+      },
+      "name": "shop_track_point"
+    },
+    {
+      "clr": "#F1F1F1FF",
+      "fontSize": 70,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": -6.0,
+        "y": 5.0
+      },
+      "name": "text_ap"
+    },
+    {
+      "clr": "#DCDCDCFF",
+      "fontSize": 24,
+      "size": {
+        "x": 84.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": 121.26,
+        "y": -33.7
+      },
+      "name": "text_ap_max"
+    },
+    {
+      "clr": "#1B1B1BB2",
+      "fontSize": 70,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": 64.8,
+        "y": 33.3
+      },
+      "name": "text_ap_shadow"
+    },
+    {
+      "clr": "#DCDCDCFF",
+      "fontSize": 24,
+      "size": {
+        "x": 94.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": 32.6,
+        "y": -31.1
+      },
+      "name": "text_ap_title"
+    },
+    {
+      "clr": "#DADADAFF",
+      "size": {
+        "x": 432.0,
+        "y": 27.0
+      },
+      "pos": {
+        "x": 53.4,
+        "y": -3.4
+      },
+      "name": "text_battle_prg_cur"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 30,
+      "size": {
+        "x": 50.9,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 18.0,
+        "y": -1.2
+      },
+      "name": "text_building_emer"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 30,
+      "size": {
+        "x": 55.7,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 18.0,
+        "y": -1.2
+      },
+      "name": "text_building_noti"
+    }
+  ]
+}
