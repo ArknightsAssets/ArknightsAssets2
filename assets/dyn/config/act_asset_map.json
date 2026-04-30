@@ -1,6 +1,6 @@
 {
   "isTrimed": true,
-  "code": 523,
+  "code": 532,
   "aspects": {
     "ZONE_MAP": {
       "permanent_sub_2_zone1": {
@@ -23,21 +23,13 @@
         "resPath": "Retro/permanent_sub_2_A_Walk_In_The_Dust/zone_map_permanent_sub_2_zone2",
         "activity": "permanent_sub_2_a_walk_in_the_dust"
       },
-      "act41sre_zone1": {
-        "resPath": "Activity/[UC]act41sre/ZoneMaps/zone_map_act41sre_zone1",
-        "activity": "act41sre"
+      "act4mainss_zone1": {
+        "resPath": "Activity/[UC]act4mainss/ZoneMap/zone_map_act4mainss_zone1",
+        "activity": "act4mainss"
       },
-      "act41sre_zone2": {
-        "resPath": "Activity/[UC]act41sre/ZoneMaps/zone_map_act41sre_zone2",
-        "activity": "act41sre"
-      },
-      "act51side_zone1": {
-        "resPath": "Activity/[UC]act51side/ZoneMaps/zone_map_act51side_zone1",
-        "activity": "act51side"
-      },
-      "act51side_zone2": {
-        "resPath": "Activity/[UC]act51side/ZoneMaps/zone_map_act51side_zone2",
-        "activity": "act51side"
+      "permanent_main_3_zone1": {
+        "resPath": "Retro/permanent_main_3_One_Day_More/zone_map_permanent_main_3_zone1",
+        "activity": "permanent_main_3_one_day_more"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -68,31 +60,18 @@
       }
     },
     "TEMPLATE_SHOP": {
-      "templateshop_shop_act41sre": {
-        "resPath": "Activity/[UC]act41sre/Prefabs/act41sre_template_shop",
-        "activity": "act41sre"
+      "templateshop_shop_act4mainss": {
+        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_template_shop",
+        "activity": "act4mainss"
       },
-      "title_shop_act41sre": {
-        "resPath": "Activity/[UC]act41sre/Prefabs/act41sre_template_shop",
-        "activity": "act41sre"
-      },
-      "templateshop_shop_act51side": {
-        "resPath": "Activity/[UC]act51side/Prefabs/act51side_template_shop",
-        "activity": "act51side"
-      },
-      "title_shop_act51side": {
-        "resPath": "Activity/[UC]act51side/Prefabs/act51side_template_shop",
-        "activity": "act51side"
+      "title_shop_act4mainss": {
+        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_template_shop",
+        "activity": "act4mainss"
       }
     },
     "BATTLE": {},
     "SQUAD_HOME_PLUGIN": {},
-    "HOME_TOPBAR": {
-      "act7fun": {
-        "resPath": "Activity/[UC]act7fun/Prefab/top_entry_holder",
-        "activity": "act7fun"
-      }
-    },
+    "HOME_TOPBAR": {},
     "HIDDEN_STAGE_TOAST": {
       "permanent_sidestory_15_dorothy's_vision": {
         "resPath": "Retro/permanent_sidestory_15_Dorothy's_Vision/permanent_sidestory_15_hidden_stage_toast_holder",
@@ -103,29 +82,13 @@
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
     "TEMPLATE_MISSION": {
-      "act41sre_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act41sre/Prefabs/act41sre_mission_view_holder",
-        "activity": "act41sre"
+      "act4mainss_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_mission_view_holder",
+        "activity": "act4mainss"
       },
-      "act41sre_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act41sre/Prefabs/act41sre_mission_view_holder",
-        "activity": "act41sre"
-      },
-      "act2autochess_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act2autochess/Prefabs/Mission/act2autochess_mission_view_holder",
-        "activity": "act2autochess"
-      },
-      "act2autochess_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act2autochess/Prefabs/Mission/act2autochess_mission_view_holder",
-        "activity": "act2autochess"
-      },
-      "act51side_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act51side/Prefabs/act51side_mission_view_holder",
-        "activity": "act51side"
-      },
-      "act51side_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act51side/Prefabs/act51side_mission_view_holder",
-        "activity": "act51side"
+      "act4mainss_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_mission_view_holder",
+        "activity": "act4mainss"
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},

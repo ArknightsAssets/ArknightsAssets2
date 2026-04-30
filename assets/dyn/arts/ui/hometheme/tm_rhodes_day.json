@@ -4,6 +4,18 @@
     {
       "prefabPath": null,
       "size": {
+        "x": 1239.6,
+        "y": 889.5
+      },
+      "pos": {
+        "x": 273.8,
+        "y": -181.1
+      },
+      "name": "above_all_panel"
+    },
+    {
+      "prefabPath": null,
+      "size": {
         "x": 32.7026,
         "y": 32.7026
       },
@@ -24,6 +36,18 @@
         "y": 44.0000038
       },
       "name": "ap_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": -154.0,
+        "y": -34.0
+      },
+      "name": "battle_prg_widget"
     },
     {
       "prefabPath": null,
@@ -393,6 +417,42 @@
     {
       "prefabPath": null,
       "size": {
+        "x": 32.0,
+        "y": 32.0
+      },
+      "pos": {
+        "x": 24.0,
+        "y": 31.0
+      },
+      "name": "check_in_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 70.0,
+        "y": 70.0
+      },
+      "pos": {
+        "x": 111.62,
+        "y": 54.4
+      },
+      "name": "dynamic_mission_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "emer_prefab"
+    },
+    {
+      "prefabPath": null,
+      "size": {
         "x": 32.7026,
         "y": 32.7026
       },
@@ -647,6 +707,18 @@
     {
       "prefabPath": null,
       "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0009498596,
+        "y": 39.99996
+      },
+      "name": "noti_prefab"
+    },
+    {
+      "prefabPath": null,
+      "size": {
         "x": 50.0,
         "y": 50.0
       },
@@ -685,6 +757,18 @@
     {
       "prefabPath": null,
       "size": {
+        "x": 35.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -203.75,
+        "y": -49.6
+      },
+      "name": "recruit_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
         "x": 30.0,
         "y": 30.0
       },
@@ -693,6 +777,18 @@
         "y": 16.0
       },
       "name": "return_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "setting_track_point"
     },
     {
       "prefabPath": null,
