@@ -30,6 +30,26 @@
       "permanent_main_3_zone1": {
         "resPath": "Retro/permanent_main_3_One_Day_More/zone_map_permanent_main_3_zone1",
         "activity": "permanent_main_3_one_day_more"
+      },
+      "act42sre_zone1": {
+        "resPath": "Activity/[UC]act42sre/ZoneMaps/zone_map_act42sre_zone1",
+        "activity": "act42sre"
+      },
+      "act42sre_zone2": {
+        "resPath": "Activity/[UC]act42sre/ZoneMaps/zone_map_act42sre_zone2",
+        "activity": "act42sre"
+      },
+      "act42sre_zone3": {
+        "resPath": "Activity/[UC]act42sre/ZoneMaps/zone_map_act42sre_zone3",
+        "activity": "act42sre"
+      },
+      "permanent_sidestory_32_zone3": {
+        "resPath": "Retro/permanent_sidestory_32_The_Masses_Travels/zone_map_permanent_sidestory_32_zone3",
+        "activity": "permanent_sidestory_32_the_masses_travels"
+      },
+      "permanent_sidestory_32_zone2": {
+        "resPath": "Retro/permanent_sidestory_32_The_Masses_Travels/zone_map_permanent_sidestory_32_zone2",
+        "activity": "permanent_sidestory_32_the_masses_travels"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -60,6 +80,14 @@
       }
     },
     "TEMPLATE_SHOP": {
+      "templateshop_shop_act42sre": {
+        "resPath": "Activity/[UC]act42sre/Prefabs/act42sre_template_shop",
+        "activity": "act42sre"
+      },
+      "title_shop_act42sre": {
+        "resPath": "Activity/[UC]act42sre/Prefabs/act42sre_template_shop",
+        "activity": "act42sre"
+      },
       "templateshop_shop_act4mainss": {
         "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_template_shop",
         "activity": "act4mainss"
@@ -82,6 +110,14 @@
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
     "TEMPLATE_MISSION": {
+      "act42sre_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act42sre/Prefabs/act42sre_mission_view_holder",
+        "activity": "act42sre"
+      },
+      "act42sre_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act42sre/Prefabs/act42sre_mission_view_holder",
+        "activity": "act42sre"
+      },
       "act4mainss_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_mission_view_holder",
         "activity": "act4mainss"
