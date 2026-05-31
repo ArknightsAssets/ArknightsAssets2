@@ -1,6 +1,6 @@
 {
   "isTrimed": true,
-  "code": 532,
+  "code": 541,
   "aspects": {
     "ZONE_MAP": {
       "permanent_sub_2_zone1": {
@@ -22,10 +22,6 @@
       "permanent_sub_2_zone2": {
         "resPath": "Retro/permanent_sub_2_A_Walk_In_The_Dust/zone_map_permanent_sub_2_zone2",
         "activity": "permanent_sub_2_a_walk_in_the_dust"
-      },
-      "act4mainss_zone1": {
-        "resPath": "Activity/[UC]act4mainss/ZoneMap/zone_map_act4mainss_zone1",
-        "activity": "act4mainss"
       },
       "permanent_main_3_zone1": {
         "resPath": "Retro/permanent_main_3_One_Day_More/zone_map_permanent_main_3_zone1",
@@ -50,6 +46,10 @@
       "permanent_sidestory_32_zone2": {
         "resPath": "Retro/permanent_sidestory_32_The_Masses_Travels/zone_map_permanent_sidestory_32_zone2",
         "activity": "permanent_sidestory_32_the_masses_travels"
+      },
+      "act50side_zone1": {
+        "resPath": "Activity/[UC]act50side/Prefabs/ZoneMaps/zone_map_act50side_zone1",
+        "activity": "act50side"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -77,6 +77,10 @@
       "act7fun": {
         "resPath": "UI/Activity/ActFun/Actfun7/BattleFinish/act7fun_battle_finish_view",
         "activity": "act7fun"
+      },
+      "act50side": {
+        "resPath": "Activity/[UC]act50side/Prefabs/BattleFinish/act50side_battle_finish_view",
+        "activity": "act50side"
       }
     },
     "TEMPLATE_SHOP": {
@@ -87,18 +91,15 @@
       "title_shop_act42sre": {
         "resPath": "Activity/[UC]act42sre/Prefabs/act42sre_template_shop",
         "activity": "act42sre"
-      },
-      "templateshop_shop_act4mainss": {
-        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_template_shop",
-        "activity": "act4mainss"
-      },
-      "title_shop_act4mainss": {
-        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_template_shop",
-        "activity": "act4mainss"
       }
     },
     "BATTLE": {},
-    "SQUAD_HOME_PLUGIN": {},
+    "SQUAD_HOME_PLUGIN": {
+      "act50side": {
+        "resPath": "Activity/[UC]act50side/Prefabs/BattleTrap/act50side_squad_plugin_view",
+        "activity": "act50side"
+      }
+    },
     "HOME_TOPBAR": {},
     "HIDDEN_STAGE_TOAST": {
       "permanent_sidestory_15_dorothy's_vision": {
@@ -106,7 +107,12 @@
         "activity": "permanent_sidestory_15_dorothy's_vision"
       }
     },
-    "STAGE_PREVIEW_PLUGIN": {},
+    "STAGE_PREVIEW_PLUGIN": {
+      "act50side": {
+        "resPath": "Activity/[UC]act50side/Prefabs/StagePreviewPlugin/act50side_stage_preview_plugin_holder",
+        "activity": "act50side"
+      }
+    },
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
     "TEMPLATE_MISSION": {
@@ -117,14 +123,6 @@
       "act42sre_custom_mission_view_holder": {
         "resPath": "Activity/[UC]act42sre/Prefabs/act42sre_mission_view_holder",
         "activity": "act42sre"
-      },
-      "act4mainss_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_mission_view_holder",
-        "activity": "act4mainss"
-      },
-      "act4mainss_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act4mainss/Prefabs/act4mainss_mission_view_holder",
-        "activity": "act4mainss"
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},
