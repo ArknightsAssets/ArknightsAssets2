@@ -1,0 +1,146 @@
+
+spine_act1football_1.png
+size: 1200,928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_chair
+  rotate: true
+  xy: 702, 3
+  size: 268, 161
+  orig: 268, 161
+  offset: 0, 0
+  index: -1
+bg_fence
+  rotate: true
+  xy: 483, 407
+  size: 519, 386
+  orig: 519, 386
+  offset: 0, 0
+  index: -1
+bg_goal_a
+  rotate: 180
+  xy: 192, 254
+  size: 403, 312
+  orig: 403, 312
+  offset: 0, 0
+  index: -1
+bg_goal_b
+  rotate: 270
+  xy: 846, 498
+  size: 428, 302
+  orig: 428, 302
+  offset: 0, 0
+  index: -1
+bg_lighting_a
+  rotate: 270
+  xy: 422, 37
+  size: 251, 290
+  orig: 251, 290
+  offset: 0, 0
+  index: -1
+bg_lighting_b
+  rotate: 270
+  xy: 2, 58
+  size: 306, 378
+  orig: 306, 378
+  offset: 0, 0
+  index: -1
+bg_side_deco_02
+  rotate: false
+  xy: 2, 498
+  size: 552, 429
+  orig: 552, 429
+  offset: 0, 0
+  index: -1
+ground_low_slice
+  rotate: false
+  xy: 1077, 808
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+ground_mid_slice
+  rotate: false
+  xy: 2, 786
+  size: 259, 141
+  orig: 259, 141
+  offset: 0, 0
+  index: -1
+ground_top_slice
+  rotate: false
+  xy: 1072, 853
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+group_02_slice_02
+  rotate: false
+  xy: 696, 228
+  size: 447, 269
+  orig: 447, 269
+  offset: 0, 0
+  index: -1
+line_arc
+  rotate: false
+  xy: 444, 850
+  size: 154, 77
+  orig: 154, 77
+  offset: 0, 0
+  index: -1
+line_coner_01
+  rotate: false
+  xy: 286, 894
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+line_corner_02
+  rotate: false
+  xy: 2, 920
+  size: 64, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+line_corner_03
+  rotate: false
+  xy: 221, 920
+  size: 63, 6
+  orig: 64, 6
+  offset: 0, 0
+  index: -1
+line_corner_04
+  rotate: false
+  xy: 578, 894
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+line_down
+  rotate: false
+  xy: 2, 859
+  size: 131, 67
+  orig: 131, 67
+  offset: 0, 0
+  index: -1
+line_half_circle
+  rotate: false
+  xy: 895, 42
+  size: 224, 112
+  orig: 224, 112
+  offset: 0, 0
+  index: -1
+line_up
+  rotate: false
+  xy: 373, 553
+  size: 112, 58
+  orig: 112, 58
+  offset: 0, 0
+  index: -1
+side_deco_slice
+  rotate: 180
+  xy: 935, 63
+  size: 262, 238
+  orig: 262, 238
+  offset: 0, 0
+  index: -1

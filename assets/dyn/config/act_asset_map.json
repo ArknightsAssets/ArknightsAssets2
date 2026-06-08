@@ -113,8 +113,18 @@
         "activity": "act50side"
       }
     },
-    "TEMPLATE_TRAP_VIEW": {},
-    "DYNAMIC_PAGE": {},
+    "TEMPLATE_TRAP_VIEW": {
+      "act1football_trap_state_view": {
+        "resPath": "Activity/[UC]act1football/Prefabs/TemplateTrap/trap_view_holder",
+        "activity": "act1football"
+      }
+    },
+    "DYNAMIC_PAGE": {
+      "act1football_zone_map_page": {
+        "resPath": "Activity/[UC]act1football/Prefabs/Pages/act1football_zone_map_page",
+        "activity": "act1football"
+      }
+    },
     "TEMPLATE_MISSION": {
       "act42sre_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act42sre/Prefabs/act42sre_mission_view_holder",
