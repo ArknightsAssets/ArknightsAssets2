@@ -50,6 +50,10 @@
       "act50side_zone1": {
         "resPath": "Activity/[UC]act50side/Prefabs/ZoneMaps/zone_map_act50side_zone1",
         "activity": "act50side"
+      },
+      "act24sre_zone1": {
+        "resPath": "Activity/[UC]act24sre/ZoneMap/zone_map_act24sre_zone1",
+        "activity": "act24sre"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -81,6 +85,10 @@
       "act50side": {
         "resPath": "Activity/[UC]act50side/Prefabs/BattleFinish/act50side_battle_finish_view",
         "activity": "act50side"
+      },
+      "act24sre": {
+        "resPath": "Activity/[UC]act24sre/Prefabs/BattleFinish/act24sre_battle_finish_view",
+        "activity": "act24sre"
       }
     },
     "TEMPLATE_SHOP": {
@@ -93,11 +101,24 @@
         "activity": "act42sre"
       }
     },
-    "BATTLE": {},
+    "BATTLE": {
+      "act24sre_battle_camera_plugin": {
+        "resPath": "Activity/[UC]act24sre/Prefabs/Battle/act24sre_battle_asset_holder",
+        "activity": "act24sre"
+      },
+      "act24sre_battle_ui_plugin": {
+        "resPath": "Activity/[UC]act24sre/Prefabs/Battle/act24sre_battle_asset_holder",
+        "activity": "act24sre"
+      }
+    },
     "SQUAD_HOME_PLUGIN": {
       "act50side": {
         "resPath": "Activity/[UC]act50side/Prefabs/BattleTrap/act50side_squad_plugin_view",
         "activity": "act50side"
+      },
+      "act24sre": {
+        "resPath": "Activity/[UC]act24sre/Prefabs/BattleTrap/act24sre_squad_plugin_view",
+        "activity": "act24sre"
       }
     },
     "HOME_TOPBAR": {},
@@ -111,6 +132,10 @@
       "act50side": {
         "resPath": "Activity/[UC]act50side/Prefabs/StagePreviewPlugin/act50side_stage_preview_plugin_holder",
         "activity": "act50side"
+      },
+      "act24sre": {
+        "resPath": "Activity/[UC]act24sre/Prefabs/StagePreviewPlugin/act24sre_stage_preview_plugin_holder",
+        "activity": "act24sre"
       }
     },
     "TEMPLATE_TRAP_VIEW": {
