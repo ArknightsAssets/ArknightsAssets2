@@ -1,0 +1,244 @@
+
+enemy_2151_shwolf.png
+size: 464,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_A_Fire
+  rotate: 270
+  xy: 364, 139
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+F_A_Foot
+  rotate: true
+  xy: 2, 239
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+F_A_Leg
+  rotate: false
+  xy: 360, 216
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+F_A_Thigh1
+  rotate: false
+  xy: 260, 121
+  size: 73, 102
+  orig: 73, 102
+  offset: 0, 0
+  index: -1
+F_A_Thigh2
+  rotate: true
+  xy: 403, 228
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+F_B_Fire
+  rotate: false
+  xy: 102, 2
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+F_B_Foot
+  rotate: true
+  xy: 406, 313
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+F_B_Leg
+  rotate: true
+  xy: 90, 280
+  size: 58, 70
+  orig: 77, 70
+  offset: 19, 0
+  index: -1
+F_B_Thigh
+  rotate: true
+  xy: 270, 12
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+F_Back
+  rotate: true
+  xy: 183, 2
+  size: 179, 88
+  orig: 179, 88
+  offset: 0, 0
+  index: -1
+F_Backfire
+  rotate: false
+  xy: 2, 179
+  size: 267, 166
+  orig: 267, 166
+  offset: 0, 0
+  index: -1
+F_Body
+  rotate: false
+  xy: 2, 339
+  size: 254, 124
+  orig: 254, 124
+  offset: 0, 0
+  index: -1
+F_C_Fire
+  rotate: false
+  xy: 216, 255
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+F_C_Foot
+  rotate: false
+  xy: 404, 2
+  size: 49, 30
+  orig: 49, 30
+  offset: 0, 0
+  index: -1
+F_C_Leg
+  rotate: false
+  xy: 328, 2
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+F_C_Thigh
+  rotate: false
+  xy: 319, 361
+  size: 60, 101
+  orig: 60, 101
+  offset: 0, 0
+  index: -1
+F_D_Fire
+  rotate: false
+  xy: 432, 358
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+F_D_Foot
+  rotate: true
+  xy: 2, 84
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+F_D_Leg
+  rotate: 180
+  xy: 377, 361
+  size: 58, 70
+  orig: 77, 70
+  offset: 19, 0
+  index: -1
+F_D_Thigh
+  rotate: false
+  xy: 345, 269
+  size: 65, 91
+  orig: 65, 91
+  offset: 0, 0
+  index: -1
+F_Eye_EX
+  rotate: 270
+  xy: 331, 3
+  size: 342, 81
+  orig: 342, 81
+  offset: 0, 0
+  index: -1
+F_Head
+  rotate: false
+  xy: 247, 225
+  size: 92, 79
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+F_L_Ear
+  rotate: false
+  xy: 312, 100
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+F_Mouth_D
+  rotate: 180
+  xy: 158, 7
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+F_Mouth_U
+  rotate: 270
+  xy: 346, 56
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+F_Neck
+  rotate: true
+  xy: 2, 66
+  size: 171, 167
+  orig: 171, 167
+  offset: 0, 0
+  index: -1
+F_PT_A
+  rotate: true
+  xy: 433, 55
+  size: 174, 8
+  orig: 174, 8
+  offset: 0, 0
+  index: -1
+F_PT_B
+  rotate: false
+  xy: 2, 3
+  size: 92, 11
+  orig: 92, 11
+  offset: 0, 0
+  index: -1
+F_PT_C
+  rotate: false
+  xy: 62, 449
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+F_PT_D
+  rotate: false
+  xy: 2, 456
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+F_PT_E
+  rotate: true
+  xy: 152, 315
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+F_PT_F
+  rotate: false
+  xy: 2, 16
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+F_R_Ear
+  rotate: true
+  xy: 397, 413
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+F_Tail
+  rotate: true
+  xy: 178, 276
+  size: 173, 142
+  orig: 173, 142
+  offset: 0, 0
+  index: -1
