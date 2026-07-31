@@ -1,0 +1,505 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC",
+              "EFFECT"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "ray"
+              },
+              {
+                "active": true,
+                "id": "tn"
+              },
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "mdwa"
+              },
+              {
+                "active": true,
+                "id": "mdwb"
+              },
+              {
+                "active": true,
+                "id": "mdwc"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 21.4,
+              "y": 0.72299999,
+              "z": 23.8190002
+            },
+            "distance": 8,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 21.8649998,
+                "y": 0.72299999,
+                "z": 23.8190002
+              },
+              "distance": 8,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "那就是......有袋鼷兽。",
+            "avatarId": "arkvent_char_4117_ray_surprised_2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "我的话语没有被偷走。唔。",
+            "avatarId": "arkvent_char_4117_ray",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "amly",
+            "animationName": "Smile",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "偷走话语这种事，听起来太像童话了啦......它们其实是因为传说被误解的小家伙，很有灵性，还挺善良的，比很多人都善良。",
+            "avatarId": "arkvent_char_4236_tmslot_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "阿梅，我们来拍张照吧？和这些小家伙们，还有我们的新朋友。",
+            "avatarId": "arkvent_char_4235_thumpy",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "嗯，好。",
+            "avatarId": "arkvent_char_4236_tmslot_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "相机相机......",
+            "avatarId": "arkvent_char_4236_tmslot_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 1
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "欸。欸？欸！",
+            "avatarId": "arkvent_char_4236_tmslot_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "我相机呢？刚才还在的呀！",
+            "avatarId": "arkvent_char_4236_tmslot_nervous_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "那个，那只有袋鼷兽的袋子里是不是有什么亮晶晶的东西......",
+            "avatarId": "arkvent_char_4117_ray_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "啊，等等，那是我的相机——",
+            "avatarId": "arkvent_char_4236_tmslot_tears_comic",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "amly",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "ray"
+              },
+              {
+                "active": false,
+                "id": "tn"
+              },
+              {
+                "active": false,
+                "id": "amly"
+              },
+              {
+                "active": false,
+                "id": "mdwa"
+              },
+              {
+                "active": false,
+                "id": "mdwb"
+              },
+              {
+                "active": false,
+                "id": "mdwc"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": []
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ray",
+        "setupData": {
+          "spineType": "BUILDING_CHAR",
+          "funcId": "char_4117_ray#1",
+          "position": {
+            "x": 21.5470009,
+            "y": -0.00690531731,
+            "z": 24.1529999
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "tn",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 20.9559994,
+            "y": -0.00690531731,
+            "z": 23.5580006
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 22.309,
+            "y": -0.00690531731,
+            "z": 23.7800007
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "mdwa",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 16.8,
+            "y": -0.00690531731,
+            "z": 26.32816
+          },
+          "face": -1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "mdwb",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 20.0689,
+            "y": -0.00690531731,
+            "z": 23.11854
+          },
+          "face": 1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "mdwc",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 22.062067,
+            "y": -0.00690531731,
+            "z": 28.1875
+          },
+          "face": 1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

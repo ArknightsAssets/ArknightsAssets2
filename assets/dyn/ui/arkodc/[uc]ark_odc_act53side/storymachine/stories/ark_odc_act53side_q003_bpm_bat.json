@@ -1,0 +1,40 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "捣蛋的信使",
+            "content": "怎么，还不走？哈哈，那就给你看看，人在荒野里是怎么讲道理的！",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [
+              {
+                "content": "跟他“讲道理”。",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "bat"
+                    }
+                  }
+                ],
+                "iconId": "ark_odc_act53side_dialog_option_battle"
+              },
+              {
+                "content": "懒得理他。",
+                "iconId": "ark_odc_act53side_dialog_option_leave"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

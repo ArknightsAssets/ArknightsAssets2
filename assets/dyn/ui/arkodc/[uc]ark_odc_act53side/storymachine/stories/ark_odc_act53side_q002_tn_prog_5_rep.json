@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "塔妮",
+            "content": "安洁莉娜，我觉得你没有说错呢。我们镇上的大家就特别喜欢在一天的劳作之后，享受热气带来的舒缓。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q002_tn_after_fight_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

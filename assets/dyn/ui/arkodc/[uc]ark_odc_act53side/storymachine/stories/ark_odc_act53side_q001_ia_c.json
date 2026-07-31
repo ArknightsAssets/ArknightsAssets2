@@ -1,0 +1,26 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "ang",
+            "name": "安洁莉娜",
+            "content": "哼哼，这下坐上去就不会弄脏衣服了~"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

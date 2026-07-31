@@ -1,0 +1,1027 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "avatar_aglina"
+              },
+              {
+                "active": true,
+                "id": "trap_415_trademan"
+              },
+              {
+                "active": true,
+                "id": "char_4237_jcinta"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "avatar_aglina",
+            "offset": {
+              "x": 0.200000003,
+              "y": 0.5,
+              "z": 0.219999999
+            },
+            "distance": 7,
+            "duration": 1,
+            "ease": "InSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "avatar_aglina",
+            "animationName": "Skill_1_Loop_2",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "联络员先生，又见面啦。您是到这边来疗养吗？",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "trap_415_trademan",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_happy",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "安洁莉娜小姐！是啊，看着这里人流量大，还顺便拿了点新产品的样品过来。疗养工作两不误嘛。",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "trap_415_trademan",
+              "offset": {
+                "x": -0.189999998,
+                "y": 0.5,
+                "z": 0.219999999
+              },
+              "distance": 7,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "说到新产品啊——其实非常适合二位哦，那可是解除疲劳、恢复活力的秘密武器。不如坐下来，由我为二位......",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "没事没事，我们一路开车过来，也没有多疲劳，不用麻烦您为我们忙前忙后啦。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "avatar_aglina",
+              "offset": {
+                "x": 0.200000003,
+                "y": 0.5,
+                "z": 0.219999999
+              },
+              "distance": 7,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "唔......不愧是联络员先生，还在休养，就想开单呀~",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4237_jcinta",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "trap_415_trademan",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_sad",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "这......我在二位心中不会是这样见钱眼开的形象吧......我可是谨记你们对整个太阳谷的帮助，真心实意地把二位当朋友的呀，哈哈......",
+            "avatarId": "arkvent_trap_415_trademan_no_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "虽说如此，我现在其实手头有点忙......我想帮度假村的老板找到她的丈夫呢。",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "找人？小意思！早上我刚见过一个信使，我一会儿就带您去找他，要是连信使也没见过的人，那可就很难找了。",
+            "avatarId": "arkvent_trap_415_trademan",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "trap_415_trademan",
+              "pauseOnEnd": false,
+              "animationName": ""
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "这样劳烦您......好吧，就看一眼您的新产品。就一眼哦。也不一定会买哦......",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "trap_415_trademan",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_happy",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "那可真是荣幸之至，坎贝尔大小姐也务必小小地看一小眼！",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "trap_415_trademan",
+              "offset": {
+                "x": -0.189999998,
+                "y": 0.5,
+                "z": 0.219999999
+              },
+              "distance": 6,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "trap_415_trademan",
+              "pauseOnEnd": false,
+              "animationName": ""
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "我说的解除疲劳的秘密武器，其实是我们太阳谷新设计的便携式按摩仪。不仅适合自己用，还能带几个回去给罗德岛的伙伴们当做伴手礼呢。",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "要是喜欢，一会儿我给您打包一个样品回去，千万给可露希尔小姐试试呀！",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "trap_415_trademan",
+              "offset": {
+                "x": -0.189999998,
+                "y": 0.5,
+                "z": 0.219999999
+              },
+              "distance": 6,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "大小姐您也务必带给坎贝尔先生太太尝试，您全家的满意将是我最大的荣幸！",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "我可以提供免费寄送服务！安洁莉娜小姐不是一名信使吗？就拜托您寄送给您自己以及大小姐啦——",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "好、好吧......",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "avatar_aglina",
+              "offset": {
+                "x": 0.200000003,
+                "y": 0.5,
+                "z": 0.219999999
+              },
+              "distance": 7,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "哎呀呀，您答应了！遇到二位真是我今天最大的幸运！哎哟稍等，我先拆一下包裹。我这腿脚不方便，就拜托信使给我送这儿来了哈哈哈哈......",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "trap_415_trademan",
+            "offset": {
+              "x": -0.189999998,
+              "y": 0.5,
+              "z": 0.219999999
+            },
+            "distance": 6,
+            "duration": 0.5,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_happy",
+            "delay": 0,
+            "duration": 1,
+            "id": "trap_415_trademan",
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "二位，请、看！我们太阳谷最新出品的全自动便携式内置源石能源按摩仪——",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "trap_415_trademan",
+              "pauseOnEnd": false,
+              "animationName": ""
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "（好奇地往箱子里看）（惊恐地后退一大步）",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 1,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "avatar_aglina"
+              },
+              {
+                "active": true,
+                "id": "avatar_aglina_2"
+              },
+              {
+                "active": false,
+                "id": "char_4237_jcinta"
+              },
+              {
+                "active": true,
+                "id": "char_4237_jcinta_2"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 21.3999996,
+              "y": 0.800000131,
+              "z": 23.3000011
+            },
+            "distance": 9,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "Linear"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "联络员先生，您真会开玩笑......咳咳！",
+            "avatarId": "arkvent_char_4237_jcinta_troubled",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4237_jcinta_2",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "哇，好大的味......好像还有小虫子在蠕动！咿......",
+            "avatarId": "arkvent_char_1015_aglna2_frightened",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "avatar_aglina_2",
+              "animationName": "Skill_1_Loop_3",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "欸......欸？！我的按摩仪呢？怎么变成了臭烘烘的驮兽皮了啊！",
+            "avatarId": "arkvent_trap_415_trademan_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "闻得人头好晕，我先去别处喘口气......",
+            "avatarId": "arkvent_char_4237_jcinta_troubled",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "char_4237_jcinta_2",
+            "animationName": "Exit",
+            "pauseOnEnd": true
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "char_4237_jcinta_2"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "trap_415_trademan",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_sad",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "等等，您留步，听我解释——一定是那邪恶的坏信使换掉了我的包裹——",
+            "avatarId": "arkvent_trap_415_trademan_serious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "联络员先生，别太难过，以后肯定还有机会啦......",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "这......好不容易......！好吧，说话算话，我还是会为您找到信使的。我自己也有事找他呢！",
+            "avatarId": "arkvent_trap_415_trademan_serious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "trap_415_trademan"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "avatar_aglina",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 21.45,
+            "y": 0,
+            "z": 23.2
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "trap_415_trademan",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_trap_415_trademan",
+          "position": {
+            "x": 22.5,
+            "y": 0,
+            "z": 23.2
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "char_4237_jcinta",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 20.5629997,
+            "y": 0,
+            "z": 23.618
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "avatar_aglina_2",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 20.7377052,
+            "y": 0,
+            "z": 23.1816959
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "char_4237_jcinta_2",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 20.029274,
+            "y": 0,
+            "z": 23.1718369
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

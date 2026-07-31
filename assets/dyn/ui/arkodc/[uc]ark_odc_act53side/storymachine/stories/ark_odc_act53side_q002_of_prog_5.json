@@ -1,0 +1,412 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "of"
+              },
+              {
+                "active": true,
+                "id": "ang"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "ang",
+            "offset": {
+              "x": -0.5,
+              "y": 0.5,
+              "z": 0
+            },
+            "distance": 8,
+            "duration": 0.1,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "麦尼尔太太，我们准备走啦。要是能帮上忙就好了......",
+            "avatarId": "arkvent_char_1015_aglna2_downcast",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "你们怎么没有帮上忙呢，傻孩子！",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "可是我们......",
+            "avatarId": "arkvent_char_1015_aglna2_downcast",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "你刚才提议的，利用这口温泉，指的是什么？没事儿，老头子现在没心思听我们说话，你详细给我说说。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "of",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "我们是从大涌泉镇出发的，您知道大涌泉镇吧？是以温泉度假村闻名的镇子。依我看，温泉的存在给那个荒漠中的小镇带去了繁荣。",
+            "avatarId": "arkvent_char_1015_aglna2_blank",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "所以我就想到，是不是可以转变思路。毕竟，这里离太阳谷工业的总部很近，有那么多矿工在这附近工作。移动平台上也有许多现成的设备和房间......",
+            "avatarId": "arkvent_char_1015_aglna2_thinking",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "当然，这只是我在瞎想......",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "人生要的就是瞎想呀，孩子！",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "of",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "您真的感兴趣？如果您想去大涌泉镇实地考察，可以找罗德岛的皮塔。她是我的同事，虽然不是管理温泉的，但是位十分值得信任的人。",
+            "avatarId": "arkvent_char_1015_aglna2_blank",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "她一定会告诉您，去哪儿可以得到最有用的信息。",
+            "avatarId": "arkvent_char_1015_aglna2_blank",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "你给的信息很有帮助，我会去大涌泉镇亲眼看看的。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "of",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_happy",
+            "delay": 0,
+            "duration": 1
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "这些是为你们烤的小点心，也带上路吃吧。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "of",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset",
+            "id": "avatar_aglina"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "avatar_aglina",
+        "isPlayer": true
+      },
+      {
+        "id": "of",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_002_agoldw",
+          "position": {
+            "x": 36.6501732,
+            "y": -1.49374998,
+            "z": 13.0097313
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 37.7,
+            "y": -1.49374998,
+            "z": 13.0097313
+          },
+          "face": -1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "THINK",
+            "id": "p",
+            "name": "安洁莉娜",
+            "content": "杂物把过道堵住了......"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

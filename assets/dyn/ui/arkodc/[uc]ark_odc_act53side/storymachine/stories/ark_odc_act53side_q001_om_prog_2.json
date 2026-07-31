@@ -1,0 +1,610 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "ang"
+              },
+              {
+                "active": true,
+                "id": "om"
+              },
+              {
+                "active": true,
+                "id": "tn"
+              },
+              {
+                "active": true,
+                "id": "ow"
+              },
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "jxt"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "ang",
+            "offset": {
+              "x": 0,
+              "y": 0.5,
+              "z": 0
+            },
+            "distance": 8,
+            "duration": 1,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "先生，女士！这里和商业街，我们都打扫得一尘不染啦，请检验~",
+            "avatarId": "arkvent_char_1015_aglna2_wink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "烦躁的老先生",
+            "content": "你们还真够卖力的。",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "om",
+              "offset": {
+                "x": 0,
+                "y": 0.5,
+                "z": 0
+              },
+              "distance": 8,
+              "duration": 0.5,
+              "ease": "InSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "老爷爷，你可是答应过我们的......",
+            "avatarId": "arkvent_char_4235_thumpy_angry",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "烦躁的老先生",
+            "content": "去去去，你们爱住哪一间就去住吧，只要你们住得下去！",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "om",
+              "animationName": "Angry",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "那我们今晚就打扰啦！",
+            "avatarId": "arkvent_char_1015_aglna2_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "ang",
+              "animationName": "Skill_1_Loop_2",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "烦躁的老先生",
+            "content": "先说好了，不管你们看见什么，都别来打扰我和老太婆。住不了就自己走！",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "om",
+              "animationName": "Angry",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "Linear",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Linear"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "om"
+              },
+              {
+                "active": false,
+                "id": "ow"
+              },
+              {
+                "active": true,
+                "id": "amly2"
+              },
+              {
+                "active": false,
+                "id": "amly"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "amly2",
+            "offset": {
+              "x": 0,
+              "y": 0.5,
+              "z": 0
+            },
+            "distance": 8,
+            "duration": 0.5,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "amly2",
+              "offset": {
+                "x": -0.4,
+                "y": 0.5,
+                "z": 0
+              },
+              "distance": 8,
+              "duration": 1,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "他刚才说的“不管看见什么”，是什么......",
+            "avatarId": "arkvent_char_4236_tmslot_confused",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "对了，刚才没有讲完的矿井恐怖故事——",
+            "avatarId": "arkvent_char_4235_thumpy_excited",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "jxt",
+              "animationName": "Shock",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "啊啊啊啊啊——",
+            "avatarId": "arkvent_char_4236_tmslot_tears_comic",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "amly2",
+              "offset": {
+                "x": 0,
+                "y": 0.6,
+                "z": 0
+              },
+              "distance": 5,
+              "duration": 0.3,
+              "ease": "InSine"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "amly2",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "好啦。我刚才去那边看过，老人家们把设施保养得很好，绝对比睡车里舒适多了~大家跟我来吧。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "ang",
+              "animationName": "Skill_1_Loop_1",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1.0,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 16.8,
+            "y": -1,
+            "z": -2.6
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "om",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_001_agoldm",
+          "position": {
+            "x": 17.5,
+            "y": -1,
+            "z": -2.6
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "tn",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 16.4200001,
+            "y": -1,
+            "z": -2.91000009
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "ow",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_002_agoldw",
+          "position": {
+            "x": 18.2,
+            "y": -1,
+            "z": -2.39
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "amly2",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 17.5,
+            "y": -1,
+            "z": -2.6
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      },
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 15.6599998,
+            "y": -1,
+            "z": -2.56999993
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "jxt",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 16.0270004,
+            "y": -1,
+            "z": -2.22000003
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

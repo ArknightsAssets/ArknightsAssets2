@@ -1,0 +1,464 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "enemy_10226_agprnk"
+              },
+              {
+                "active": true,
+                "id": "avatar_aglina"
+              },
+              {
+                "active": true,
+                "id": "trap_415_trademan"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 45.7799988,
+              "y": -0.779999971,
+              "z": 12.2600002
+            },
+            "distance": 7,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "捣蛋的信使",
+            "content": "......住手！我招，我全都招！",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "捣蛋的信使",
+            "content": "麦尼尔那老头子根本就没离开过温泉度假村，我天天都能看见他！不信你......你挨个区域找找！",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "avatar_aglina",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_think",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "他一直在？难道，他在躲着麦尼尔太太？",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant_2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "捣蛋的信使",
+            "content": "他具体要做什么，我哪会去关心。只不过见到过他而已......没我的事了吧？我就先......",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "慢着！是不是教训你教训得还不够，把我的样品还我，并保证再也不来这里偷别人的包裹！",
+            "avatarId": "arkvent_trap_415_trademan_angry",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "trap_415_trademan",
+              "offset": {
+                "x": -0.230000004,
+                "y": 0.600000024,
+                "z": 0
+              },
+              "distance": 7,
+              "duration": 1,
+              "ease": "InOutSine"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "trap_415_trademan",
+              "animationName": "Attack",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "捣蛋的信使",
+            "content": "你......你不就趁乱偷偷踹了我几脚，也敢逞威风......",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_face",
+            "data": {
+              "faces": [
+                {
+                  "sign": 1,
+                  "id": "enemy_10226_agprnk"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "我和这位安洁莉娜小姐的信任关系可是非常深的，对吧，安洁莉娜小姐。",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "嗯，我希望您能承诺，不要再破坏别人的信件和包裹了。",
+            "avatarId": "arkvent_char_1015_aglna2_serious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "捣蛋的信使",
+            "content": "好好，我保证......",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_face",
+            "data": {
+              "faces": [
+                {
+                  "sign": -1,
+                  "id": "enemy_10226_agprnk"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "trap_415_trademan",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_happy",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷联络员",
+            "content": "哎呀，安洁莉娜小姐，您可真是厉害呀！多亏了您，我的样品才回来了，我马上为您打包，您免费带回去试用！",
+            "avatarId": "arkvent_trap_415_trademan_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "谢谢，麻烦您了。我先失陪了。我得试着去找找，麦尼尔先生在哪里躲着呢。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "enemy_10226_agprnk",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10226_agprnk",
+          "position": {
+            "x": 46.25,
+            "y": -1.5,
+            "z": 12.1999998
+          },
+          "face": -1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "avatar_aglina",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 45.25,
+            "y": -1.5,
+            "z": 12.1999998
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "trap_415_trademan",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_trap_415_trademan",
+          "position": {
+            "x": 46.8499985,
+            "y": -1.5,
+            "z": 11.8000002
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

@@ -1,0 +1,1698 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "Linear",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "NPC",
+              "PLAYER"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Linear",
+            "stayDuration": 1,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_activation",
+            "data": {
+              "activations": [
+                {
+                  "active": true,
+                  "id": "avatar_aglina"
+                },
+                {
+                  "active": true,
+                  "id": "npc_001_agoldm"
+                },
+                {
+                  "active": true,
+                  "id": "npc_002_agoldw"
+                },
+                {
+                  "active": true,
+                  "id": "char_4235_thumpy"
+                },
+                {
+                  "active": true,
+                  "id": "char_4236_tmslot"
+                },
+                {
+                  "active": true,
+                  "id": "char_4237_jcinta"
+                }
+              ]
+            }
+          },
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "char_4235_thumpy",
+              "offset": {
+                "x": 0,
+                "y": 0.3,
+                "z": 0
+              },
+              "distance": 4,
+              "duration": 0,
+              "ease": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "还是被它们跑掉了，好可惜......不过，这下阿梅正好可以安心休息了吧？",
+            "avatarId": "arkvent_char_4235_thumpy_pout",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "char_4235_thumpy",
+              "offset": {
+                "x": 0,
+                "y": 0.6,
+                "z": 0
+              },
+              "distance": 4,
+              "duration": 2,
+              "ease": "Linear"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4235_thumpy",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 17.8139992,
+              "y": 2.4920001,
+              "z": 10
+            },
+            "distance": 7,
+            "duration": 1,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "......",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "女士，您怎么过来了？是不是我们的动静太大，打扰到您了？抱歉......",
+            "avatarId": "arkvent_char_1015_aglna2_thinking_openmouth",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 16.9039993,
+              "y": 2.49197388,
+              "z": 10.9069996
+            },
+            "distance": 7,
+            "duration": 1,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "欸，老先生也在，还一脸严肃的......糟糕，是我们有什么地方没打扫干净吗？",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant_2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 17.8139992,
+              "y": 2.4920001,
+              "z": 10
+            },
+            "distance": 7,
+            "duration": 1,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "放心，只是来找你们聊聊天。孩子们，你们也是要去太阳谷掘矿吗？",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "npc_002_agoldw",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "不是的，女士。但是我听说，过去一年因为局势的变化，掘矿热又起来了。大家还说，雷姆必拓要迎来新的发展呢。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "是啊，我老公也信了这些。觉得只要能挣上一笔，我们余生的日子都不用再下矿了。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "他向原来的工友夸下了海口，借了不少钱，连同我们一辈子的积蓄都砸了下去，换来了这个二手的移动采矿平台，还有一帮不靠谱的矿工。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "刚才，老先生说他们都已经离开了，难道......",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "嗯。我们还是太惜命了，不敢追着天灾跑，都说雷姆必拓遍地是源石，这片土地却不愿意对我们慷慨。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "我们以为这片区域的地下水如此丰富，矿产资源也不应该稀少，是我们想得太简单了......",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "在连着几个月的入不敷出后，人都被太阳谷那诱人的招工广告招走了。到头来，发财梦只剩下这座落后于时代的采矿平台，还有一屁股债。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "怪不得老先生一提到太阳谷就来气呢......",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "我不是来为他开脱的，向需要帮助的人耍小孩脾气就是他的不对。如果你愿意原谅他的话，就对他微笑一下吧。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "npc_002_agoldw",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 16.9039993,
+              "y": 2.49197388,
+              "z": 10.9069996
+            },
+            "distance": 7,
+            "duration": 1,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "（露出灿烂的笑容）",
+            "avatarId": "arkvent_char_1015_aglna2_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "avatar_aglina",
+              "animationName": "Skill_1_Loop_2",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "offset": {
+              "x": 0,
+              "y": 0.2,
+              "z": 0
+            },
+            "distance": 7,
+            "duration": 1,
+            "ease": "InSine",
+            "id": "npc_001_agoldm"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": -1,
+                "id": "npc_001_agoldm"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "npc_001_agoldm",
+            "animationName": "Angry",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "欸，老先生怎么看上去......更生气了？",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "avatar_aglina",
+              "offset": {
+                "x": 0,
+                "y": 0.4,
+                "z": 0
+              },
+              "distance": 5,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 17.8139992,
+              "y": 2.4920001,
+              "z": 10
+            },
+            "distance": 7,
+            "duration": 0.5,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "哈哈哈哈。他自己被这些飞来飞去的野兽吓个半死，想让它们也吓唬你们。但又怕你们被吓坏，就随时准备冲过来。结果，你们非但不害怕，还追着野兽到处跑。我告诉过他，姑娘们会嘲笑他的。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "欸......！",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "没事，他自己会调节心情的。我这里还有些热的汤和烤面包，分给你们吧。吃不完还可以带在路上吃。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "这怎么可以！我知道在荒野中，物资有多珍贵。请您自己留着吧。",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant_2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "......“黄昏突进号”的源石燃料已经所剩无几。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "就算我们已经关停了大部分设备，它也最多只能再走一两天。如果再找不到矿脉，我们也只好将它丢在原地了。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "平静的老妇人",
+            "content": "所以，我们最不缺的就是食物。就当是我的心意，收下吧。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "谢谢......",
+            "avatarId": "arkvent_char_1015_aglna2_relieved_openeyes",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "npc_001_agoldm"
+              },
+              {
+                "active": false,
+                "id": "npc_002_agoldw"
+              },
+              {
+                "active": true,
+                "id": "avatar_aglina_2"
+              },
+              {
+                "active": true,
+                "id": "char_4235_thumpy_2"
+              },
+              {
+                "active": false,
+                "id": "avatar_aglina"
+              },
+              {
+                "active": false,
+                "id": "char_4235_thumpy"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 18.7,
+              "y": 2.49197388,
+              "z": 10
+            },
+            "distance": 7,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 19,
+                "y": 2.49197388,
+                "z": 10
+              },
+              "distance": 7,
+              "duration": 1,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "这样的事我们一路上会遇见很多吧......虽然知道大家都不容易，但还是让人很难过。如果能帮上忙就好了......",
+            "avatarId": "arkvent_char_1015_aglna2_downcast",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "avatar_aglina",
+              "offset": {
+                "x": 0,
+                "y": 0.4,
+                "z": 0
+              },
+              "distance": 7,
+              "duration": 0.5,
+              "ease": "Linear"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "普通人不被卷入天灾已经很好了，能挣到钱的，是那些本来就能挣到钱的人......",
+            "avatarId": "arkvent_char_4236_tmslot",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "唔......可是，不应该是这样的......",
+            "avatarId": "arkvent_char_4237_jcinta_thinking",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "嗯......",
+            "avatarId": "arkvent_char_4235_thumpy_thinking",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "char_4237_jcinta"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.2
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "char_4236_tmslot"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.2
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "char_4235_thumpy_2"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "char_4236_tmslot",
+            "animationName": "Exit",
+            "pauseOnEnd": true
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4237_jcinta",
+              "animationName": "Exit",
+              "pauseOnEnd": true
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4235_thumpy_2",
+              "animationName": "Exit",
+              "pauseOnEnd": true
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "avatar_aglina_2",
+              "animationName": "Skill_1_To_Idle",
+              "pauseOnEnd": true
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "narrative",
+          "data": {
+            "contentGroup": [
+              "这一夜，少女们有了遮风避雨的屋檐，渐渐入睡了。"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 2
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "avatar_aglina"
+              },
+              {
+                "active": false,
+                "id": "npc_001_agoldm"
+              },
+              {
+                "active": false,
+                "id": "npc_002_agoldw"
+              },
+              {
+                "active": false,
+                "id": "char_4235_thumpy"
+              },
+              {
+                "active": false,
+                "id": "char_4236_tmslot"
+              },
+              {
+                "active": false,
+                "id": "char_4237_jcinta"
+              },
+              {
+                "active": false,
+                "id": "avatar_aglina_2"
+              },
+              {
+                "active": false,
+                "id": "char_4235_thumpy_2"
+              },
+              {
+                "active": true,
+                "id": "avatar_aglina_3"
+              },
+              {
+                "active": true,
+                "id": "npc_001_agoldm_3"
+              },
+              {
+                "active": true,
+                "id": "npc_002_agoldw_3"
+              },
+              {
+                "active": true,
+                "id": "char_4235_thumpy_3"
+              },
+              {
+                "active": true,
+                "id": "char_4236_tmslot_3"
+              },
+              {
+                "active": true,
+                "id": "char_4237_jcinta_3"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 16.7999992,
+              "y": 0.3125,
+              "z": -2.0625
+            },
+            "distance": 8,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 3,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 3,
+            "outEase": "InOutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 16.7999992,
+                "y": -0.4375,
+                "z": -2.0625
+              },
+              "distance": 8,
+              "duration": 3,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "先生，女士，谢谢你们让我们借宿一晚。还不知道该怎么称呼......？",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "哼。告诉你也无妨。我家世世代代是挖矿的，我，就姓麦尼尔。",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "我是安洁莉娜。这是塔妮、嘉辛塔和阿梅利亚。我们准备横穿雷姆必拓这片土地，到南境去。也许，回程的路上我们还会相见的。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "你们四个小姑娘，要走那么远的路？你们去干什么？！就算不怕天灾，难道也不怕路上的各种意外？",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "哎哟，这可不像有冒险精神的雷姆必拓人说的话哦~",
+            "avatarId": "arkvent_char_4235_thumpy_blink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "你说什么？！",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 17,
+                "y": -0.4375,
+                "z": -2.0625
+              },
+              "distance": 7,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "npc_001_agoldm_3",
+              "animationName": "Angry",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "我的奶奶就是为大家寻找生机的探路者，我最最佩服她了。",
+            "avatarId": "arkvent_char_4235_thumpy_relieved",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "不瞒您说，除了安洁莉娜，我们剩下几个都是第一次靠自己去那么远的地方。但我相信，只要迈开腿，总有一天会到达南境的。",
+            "avatarId": "arkvent_char_4235_thumpy_relieved",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "......真是，随你们的便吧！快走吧，趁泉水平静的时候。",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "其实，麦尼尔先生，昨天我们听您的太太提起了你们的困境。与其被困住脚步，不如也考虑一下向太阳谷寻求支持？",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4237_jcinta_3",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "那帮黄毛小子黄毛丫头？！",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "npc_001_agoldm_3",
+              "animationName": "Angry",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "您先别生气——我的意思是，如果移动平台的资源不够走太远的话，尽量让平台往那里走走，说不定会有收获的。他们的探矿师很厉害，选址也很有讲究。",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4237_jcinta",
+              "animationName": "Shock",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "毕竟我们是雷姆必拓人，不会因为害怕而驻足不前的，对吧~",
+            "avatarId": "arkvent_char_4235_thumpy_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "（深吸一口气）小屁孩！你以为这样就会刺激到我吗？！",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "npc_001_agoldm_3",
+              "animationName": "Angry",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "好啦好啦，两边都不要激动——我想是因为在荒野中遇到了温暖的人，就会忍不住期待二位的生活能变得好起来。但是，二位真正想要怎样的生活，不是我们应该插手的事。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "avatar_aglina_3",
+              "animationName": "Skill_1_Loop_1",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "只是，如果有能帮得到忙的地方，请麦尼尔先生太太一定开口，我们会尽我们所能的。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "好，我也有种感觉，我们会再见面的。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "npc_002_agoldw_3",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "avatar_aglina",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 18.3799992,
+            "y": 2,
+            "z": 10.2449999
+          },
+          "face": -1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "npc_001_agoldm",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_001_agoldm",
+          "position": {
+            "x": 15.6999998,
+            "y": 2,
+            "z": 12.1370001
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "npc_002_agoldw",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_002_agoldw",
+          "position": {
+            "x": 17.1650009,
+            "y": 2,
+            "z": 10.2449999
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "char_4235_thumpy",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 19.8299999,
+            "y": 2,
+            "z": 10.0360003
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "char_4236_tmslot",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 19.2900009,
+            "y": 2,
+            "z": 9.67099953
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "char_4237_jcinta",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 18.9200001,
+            "y": 2,
+            "z": 10.4530001
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "avatar_aglina_2",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 18.2199993,
+            "y": 2,
+            "z": 10
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "char_4235_thumpy_2",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 19.8299999,
+            "y": 2,
+            "z": 10.0360003
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "avatar_aglina_3",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 16.8,
+            "y": -1,
+            "z": -2.6
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "npc_001_agoldm_3",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_001_agoldm",
+          "position": {
+            "x": 17.5,
+            "y": -1,
+            "z": -2.6
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "npc_002_agoldw_3",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_002_agoldw",
+          "position": {
+            "x": 18.2,
+            "y": -1,
+            "z": -2.39
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "char_4235_thumpy_3",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 15.6,
+            "y": -1,
+            "z": -2.6
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "char_4236_tmslot_3",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 16.2,
+            "y": -1,
+            "z": -2.2
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "char_4237_jcinta_3",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 15.9,
+            "y": -1,
+            "z": -2.4
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

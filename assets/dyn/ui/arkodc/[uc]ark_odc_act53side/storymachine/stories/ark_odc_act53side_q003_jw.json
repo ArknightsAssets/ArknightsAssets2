@@ -1,0 +1,605 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "jw"
+              },
+              {
+                "active": true,
+                "id": "ast"
+              },
+              {
+                "active": true,
+                "id": "blk"
+              },
+              {
+                "active": true,
+                "id": "car"
+              },
+              {
+                "active": true,
+                "id": "worker_stand"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 23.5760002,
+              "y": 2.29200006,
+              "z": 8.29399967
+            },
+            "distance": 8,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "SHOUT",
+            "id": "car",
+            "name": "矿车",
+            "content": "我带你飞♪飞♪飞♪他哭着追♪追♪追♪"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "SHOUT",
+            "id": "car",
+            "name": "矿车",
+            "content": "叙拉古的夜♪夜♪夜♪是那么黑♪黑♪黑♪"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "纠结的矿工",
+            "content": "......呃。啧。嗯......",
+            "avatarId": "arkvent_enemy_10222_agtski",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "贾维",
+            "content": "奥斯塔，他这表情是什么意思？",
+            "avatarId": "arkvent_char_349_chiave",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奥斯塔",
+            "content": "不远千里联系上据说能把心爱的矿车改造得很酷炫的叙拉古人，拿到手却觉得不过如此的意思。",
+            "avatarId": "arkvent_char_346_aosta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "贾维",
+            "content": "啥？",
+            "avatarId": "arkvent_char_349_chiave_angry_flustered",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "布洛卡",
+            "content": "就是不满意你的改装。",
+            "avatarId": "arkvent_char_356_broca",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "贾维",
+            "content": "哈？！喂，小爷我特地跑那么远来给你交货，可是信心满满啊！你小子睁大眼睛看清楚我的巧妙改装！",
+            "avatarId": "arkvent_char_349_chiave_shocked",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "贾维",
+            "content": "把矿洞照成汐斯塔阳光沙滩的超大号照明灯、把泥巴地跑成米诺斯竞速跑道的越野轮胎，还有——",
+            "avatarId": "arkvent_char_349_chiave_angry_flustered",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "贾维",
+            "content": "你最想要的，震撼全矿场的超大声高保真音响！哪里不满意？！",
+            "avatarId": "arkvent_char_349_chiave_angry_flustered",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "worker"
+              },
+              {
+                "active": false,
+                "id": "worker_stand"
+              },
+              {
+                "active": false,
+                "id": "car"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "纠结的矿工",
+            "content": "（不吭声地调整音响）",
+            "avatarId": "arkvent_enemy_10222_agtski",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "car"
+              },
+              {
+                "active": true,
+                "id": "worker_stand"
+              },
+              {
+                "active": false,
+                "id": "worker"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "SHOUT",
+            "name": "矿车",
+            "content": "装满源石的矿车~千万不要过热~♪会爆炸——！",
+            "id": "car"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "SHOUT",
+            "name": "矿车",
+            "content": "卡特斯的耳朵~不怕被风吹歪~♪哦呜哦——！",
+            "id": "car"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "纠结的矿工",
+            "content": "这才是music——（露出满意笑容）",
+            "avatarId": "arkvent_enemy_10222_agtski",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_emoji",
+            "data": {
+              "id": "worker_stand",
+              "source": "ACTIVITY",
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_happy",
+              "delay": 0,
+              "duration": 0.1,
+              "flipX": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "贾维",
+            "content": "什么啊。雷姆必拓的歌......好土好带劲啊！哈哈！",
+            "avatarId": "arkvent_char_349_chiave_laugh",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      },
+      {
+        "id": "jw",
+        "setupData": {
+          "spineType": "BUILDING_CHAR",
+          "funcId": "char_349_chiave#1",
+          "position": {
+            "x": 23.6734238,
+            "y": 1.9930948,
+            "z": 7.590727
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "ast",
+        "setupData": {
+          "spineType": "BUILDING_CHAR",
+          "funcId": "char_346_aosta#1",
+          "position": {
+            "x": 23.11237,
+            "y": 1.9930948,
+            "z": 7.98630142
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "blk",
+        "setupData": {
+          "spineType": "BUILDING_CHAR",
+          "funcId": "char_356_broca#1",
+          "position": {
+            "x": 22.8260422,
+            "y": 1.9930948,
+            "z": 7.20589
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "car",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10223_agtrac",
+          "position": {
+            "x": 24.3894672,
+            "y": 1.9930948,
+            "z": 7.33437824
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "worker_stand",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10222_agtski",
+          "position": {
+            "x": 25.0780926,
+            "y": 1.9930948,
+            "z": 7.62493134
+          },
+          "face": -1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "worker",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10222_agtski",
+          "position": {
+            "x": 24.7029991,
+            "y": 1.9930948,
+            "z": 7.42000008
+          },
+          "face": -1,
+          "defaultAnimation": "Idle_B"
+        }
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

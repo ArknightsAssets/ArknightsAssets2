@@ -1,0 +1,288 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "ang"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "ang",
+            "offset": {
+              "x": 0.7,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 7,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "ang",
+              "animationName": "Idle_To_Skill_1",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "这点重量，小意思~",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [
+              {
+                "content": "对杂物使用源石技艺。",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open"
+                    }
+                  }
+                ],
+                "iconId": "ark_odc_act53side_dialog_option_interact"
+              },
+              {
+                "content": "再准备一下。",
+                "iconId": "ark_odc_act53side_dialog_option_leave"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 0,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open"
+          }
+        },
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "ang",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 5,
+            "duration": 0.5,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 0,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open"
+          }
+        },
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "ang",
+            "animationName": "Skill_1_Loop_1",
+            "pauseOnEnd": false
+          }
+        },
+        "subLines": [
+          {
+            "type": "play_audio",
+            "data": {
+              "module": "ui",
+              "signal": "ON_ACT53SIDE_MAGIC",
+              "subSignal": "",
+              "isMusic": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 0,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open"
+          }
+        },
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "play_audio",
+            "data": {
+              "module": "ui",
+              "signal": "ON_ACT53SIDE_MEATLROLL",
+              "subSignal": "",
+              "isMusic": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 0,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open"
+          }
+        },
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 24.4039993,
+            "y": 0.00400000019,
+            "z": 0.507000029
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

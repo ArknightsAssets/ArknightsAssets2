@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "jxt",
+            "name": "嘉辛塔",
+            "content": "这个移动平台似乎比在爸爸妈妈那里见到的老不少。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "jxt",
+        "isActor": true,
+        "actorId": "q001_jxt_open_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

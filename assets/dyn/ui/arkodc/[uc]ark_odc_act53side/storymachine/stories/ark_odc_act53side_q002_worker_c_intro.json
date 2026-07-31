@@ -1,0 +1,178 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "手足无措的矿工",
+            "content": "不要过来！你一过来，完美的平衡会被打破的！",
+            "avatarId": "arkvent_npc_006_agminec",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "抱歉！可是......完美的平衡是指这个被倒下的柱子压在地上的雷达吗？",
+            "avatarId": "arkvent_char_1015_aglna2_scared",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "手足无措的矿工",
+            "content": "你看，这柱子也不知道是哪一年倒的，倒得这么好，恰好砸在这钻孔雷达不常用的功能模块上。再多一分，我们需要的功能也没法用了。",
+            "avatarId": "arkvent_npc_006_agminec",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "欸......太阳谷工业的东西好结实，都砸成这样了，还在运作吗......",
+            "avatarId": "arkvent_char_1015_aglna2_shocked",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "手足无措的矿工",
+            "content": "可是！这几天采矿平台移动过了，这根柱子的重心就变得不稳定了！只要再歪一点点，这机器就完了，以后都别想掘矿了！",
+            "avatarId": "arkvent_npc_006_agminec",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "......是错觉吗，柱子好像在摇摇晃晃的。",
+            "avatarId": "arkvent_char_1015_aglna2_confused",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "手足无措的矿工",
+            "content": "所以啊啊啊啊甲板上的人别再走了，也别出声了！任何振动都会破坏平衡啊！",
+            "avatarId": "arkvent_npc_006_agminec",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "请让我试试看。只要小心地把柱子移开，不碰到任何设备就好了，对吗？",
+            "avatarId": "arkvent_char_1015_aglna2_serious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "手足无措的矿工",
+            "content": "可是柱子那——么重又那——么大，我们几个力气大的矿工都不敢动啊，万一、万一......",
+            "avatarId": "arkvent_npc_006_agminec",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "没时间了，请回答我的问题！",
+            "avatarId": "arkvent_char_1015_aglna2_angry",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "手足无措的矿工",
+            "content": "......对！移开的时候不能碰到任何东西......可是你要怎么......",
+            "avatarId": "arkvent_npc_006_agminec",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": true
+  }
+}

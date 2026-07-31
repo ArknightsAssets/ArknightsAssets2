@@ -1,0 +1,266 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "sune"
+              },
+              {
+                "active": true,
+                "id": "ang"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 35.1000023,
+              "y": -1,
+              "z": 12.4000006
+            },
+            "distance": 7,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "我担忧的是，这座移动平台的燃料已经几乎枯竭。就算我们尽量节约，要完成这次钻进也很困难。",
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷探矿师",
+            "avatarId": "arkvent_npc_2350",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "可麦尼尔先生说，只要关掉所有的辅助设备，纯手动控制钻进，就能节约不少能源，钻到理想深度。",
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷探矿师",
+            "avatarId": "arkvent_npc_2350",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "他就没想过，这样失败的概率也更大吗？！我们只能赌下方的土质均匀，没有障碍物和地下水，还要赌工人不出错，钻进方向始终正确......",
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷探矿师",
+            "avatarId": "arkvent_npc_2350",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "你得让他意识到，这太不像话了！这根本不应该是他那样有经验的老矿工能提出来的方案！",
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷探矿师",
+            "avatarId": "arkvent_npc_2350",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "sune",
+              "animationName": "Angry",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "好的，我明白了......",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      },
+      {
+        "id": "sune",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_003_agsune",
+          "position": {
+            "x": 34.1872215,
+            "y": -1.50690532,
+            "z": 12
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 35.4,
+            "y": -1.50690532,
+            "z": 12
+          },
+          "face": -1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

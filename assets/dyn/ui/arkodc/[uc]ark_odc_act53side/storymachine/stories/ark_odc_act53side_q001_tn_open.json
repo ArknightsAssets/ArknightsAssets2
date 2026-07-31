@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "tn",
+            "name": "塔妮",
+            "content": "一座荒野中孤独的移动平台，听起来很有故事呢~"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "tn",
+        "isActor": true,
+        "actorId": "q001_tn_open_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

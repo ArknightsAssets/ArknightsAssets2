@@ -1,0 +1,80 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "情绪激动的矿工",
+            "content": "啊——雷达！不得了！",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "被我搞坏了吗？完蛋了，害得大家钻不了井了......",
+            "avatarId": "arkvent_char_1015_aglna2_frightened",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "情绪激动的矿工",
+            "content": "不是！被你搞好了！你看这雷达，还能用呢，再也不用担心柱子滚来滚去压坏它了！",
+            "avatarId": "arkvent_npc_006_agminec",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "......吓我一跳。太好了，请加油，有什么能帮忙的地方我也会尽力的。",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": true
+  }
+}

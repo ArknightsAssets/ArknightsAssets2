@@ -1,0 +1,93 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "热心的信使",
+            "content": "你说的老头我是见过的！嗯......在哪里见到的来着？",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "拜托了，请一定要想起来！",
+            "avatarId": "arkvent_char_1015_aglna2_confused",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "热心的信使",
+            "content": "想起来了！在我去那满城甜甜圈的地方送信时，曾有幸瞻仰到那位地位崇高的、白胡子编成麻花辫儿的、头上顶着亮闪闪光环的、满脸智慧的——",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "那是拉特兰的教宗阁下吧——我要找的人没那么有名啦......他是这个温泉度假村老板的丈夫，曾经是个矿工。",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "热心的信使",
+            "content": "哦，早说！往那里看，太阳谷里有两百个老头矿工，还有数百个在那里干了一辈子，马上要变成老头的矿工——",
+            "avatarId": "arkvent_enemy_10226_agprnk",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "呃，谢谢......",
+            "avatarId": "arkvent_char_1015_aglna2_downcast_closedeyes",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

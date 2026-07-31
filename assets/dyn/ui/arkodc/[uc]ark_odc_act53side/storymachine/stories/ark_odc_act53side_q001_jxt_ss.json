@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "嘉辛塔",
+            "content": "老人家们在很努力地维持这里的整洁，但还是会有不少积灰藏在角落呢。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q001_jxt_ss_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

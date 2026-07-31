@@ -1,0 +1,26 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "name": "安洁莉娜",
+            "content": "啊，那是什么？毛茸茸地逃走了......",
+            "id": "p"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

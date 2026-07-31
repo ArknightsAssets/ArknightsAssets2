@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "塔妮",
+            "content": "原来这些让人捉摸不定的小家伙们也会有固定的栖息地呀。把这里当自己家的话，可不能搞破坏了哦。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q001_tn_comp_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

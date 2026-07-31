@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "amly",
+            "name": "阿梅利亚",
+            "content": "这么大的移动平台上只见得到两个人，怎么想都很奇怪啊啊啊啊......"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "amly",
+        "isActor": true,
+        "actorId": "q001_amly_open_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

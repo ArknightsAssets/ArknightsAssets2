@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "阿梅利亚",
+            "content": "可是，让挖了一辈子矿的人突然去“顺势”利用温泉，怎么利用，该怎么开始，都是问题......"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q002_amly_after_fight_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

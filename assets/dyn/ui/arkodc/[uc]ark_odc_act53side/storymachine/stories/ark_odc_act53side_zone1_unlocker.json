@@ -1,0 +1,357 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "om"
+              },
+              {
+                "active": true,
+                "id": "of"
+              },
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "tn"
+              },
+              {
+                "active": true,
+                "id": "jxt"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "tn",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 9,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "tn",
+            "offset": {
+              "x": 1,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 9,
+            "duration": 4,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "OutSine",
+              "stayDuration": 0,
+              "outDuration": 1,
+              "outEase": "OutSine"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 3,
+              "inDuration": 1,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "jxt",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "offset": {
+              "x": -0.5,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 9,
+            "duration": 0.01,
+            "ease": "Unset",
+            "id": "of"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "of",
+            "offset": {
+              "x": 0.5,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 9,
+            "duration": 4,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "OutSine",
+              "stayDuration": 0,
+              "outDuration": 1,
+              "outEase": "OutSine"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 3,
+              "inDuration": 1,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "jxt",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": []
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      },
+      {
+        "id": "om",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_001_agoldm",
+          "position": {
+            "x": 24.7725563,
+            "y": -0.00537529308,
+            "z": -0.671260595
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "of",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_002_agoldw",
+          "position": {
+            "x": 24.2779789,
+            "y": 0.00625002384,
+            "z": 0.436600924
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 1.375,
+            "y": -0.00690531731,
+            "z": 1.875
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "tn",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 0.3125,
+            "y": -0.00690531731,
+            "z": 1.5625
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "jxt",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 1,
+            "y": -0.00690531731,
+            "z": 1.125
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

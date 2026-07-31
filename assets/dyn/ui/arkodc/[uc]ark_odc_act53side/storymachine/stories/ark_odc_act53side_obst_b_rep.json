@@ -1,0 +1,26 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "THINK",
+            "id": "p",
+            "name": "安洁莉娜",
+            "content": "东西买回来很容易，堆积起来不收拾也很容易。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

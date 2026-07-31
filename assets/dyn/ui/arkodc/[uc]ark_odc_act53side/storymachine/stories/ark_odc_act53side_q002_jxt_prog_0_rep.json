@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "嘉辛塔",
+            "content": "感觉“黄昏突进号”比我们上次来的时候有活力了，真好。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q002_jxt_open_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

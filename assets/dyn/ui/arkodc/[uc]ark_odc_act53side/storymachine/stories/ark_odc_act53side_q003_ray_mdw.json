@@ -1,0 +1,544 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC",
+              "EFFECT"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "ray"
+              },
+              {
+                "active": true,
+                "id": "tn"
+              },
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "mdwa"
+              },
+              {
+                "active": true,
+                "id": "mdwb"
+              },
+              {
+                "active": true,
+                "id": "mdwc"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 22.7175789,
+              "y": 0.569999993,
+              "z": 22.9699993
+            },
+            "distance": 8,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "你是说，你也在找传说中的有袋鼷兽？",
+            "avatarId": "arkvent_char_4235_thumpy_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "嗯。我知道自己听起来像异想天开......",
+            "avatarId": "arkvent_char_4117_ray",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "不不不不不会——有袋鼷兽真的存在，我们亲眼见过的！有一只叫一撮毛的小家伙，陪伴了我们一路呢，对不对，阿梅？",
+            "avatarId": "arkvent_char_4235_thumpy_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "嗯！另外，我记得在这座移动平台上也见到过它们。只是不知道现在这里人来人往的，它们还会不会回来呢......",
+            "avatarId": "arkvent_char_4236_tmslot_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "毕竟都是些善良又害羞的小家伙呢。",
+            "avatarId": "arkvent_char_4235_thumpy_relieved",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "真的？能不能——请你们带我去找找它们？",
+            "avatarId": "arkvent_char_4117_ray_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "走，我们现在就去！",
+            "avatarId": "arkvent_char_4235_thumpy_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "稍等，我准备好的笔记本呢......",
+            "avatarId": "arkvent_char_4117_ray_confused",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "啊，原来你是学者吗？",
+            "avatarId": "arkvent_char_4236_tmslot_confused",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "欸？不是。只是得把自己的话语记在笔记本上，否则，如果被有袋鼷兽偷走的话会很不方便。",
+            "avatarId": "arkvent_char_4117_ray_thinking",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "tn",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_happy",
+            "delay": 0,
+            "duration": 1.2,
+            "flipX": false
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_emoji",
+            "data": {
+              "id": "amly",
+              "source": "ACTIVITY",
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_happy",
+              "delay": 0,
+              "duration": 1.2,
+              "flipX": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "莱伊",
+            "content": "......你们在笑，是吗......传说不是真的。",
+            "avatarId": "arkvent_char_4117_ray",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "我可没这么说......它们到底会不会偷走人想说的话呢~",
+            "avatarId": "arkvent_char_4235_thumpy_blink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "看到了就知道了，嘿嘿......走吧，我们去碰碰运气。",
+            "avatarId": "arkvent_char_4236_tmslot_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "ray"
+              },
+              {
+                "active": false,
+                "id": "tn"
+              },
+              {
+                "active": false,
+                "id": "amly"
+              },
+              {
+                "active": false,
+                "id": "mdwa"
+              },
+              {
+                "active": false,
+                "id": "mdwb"
+              },
+              {
+                "active": false,
+                "id": "mdwc"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": []
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ray",
+        "setupData": {
+          "spineType": "BUILDING_CHAR",
+          "funcId": "char_4117_ray#1",
+          "position": {
+            "x": 22.0420685,
+            "y": -0.00690531731,
+            "z": 23.0599995
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "tn",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 23.292057,
+            "y": -0.00690531731,
+            "z": 23.1200008
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 22.8186111,
+            "y": -0.00690531731,
+            "z": 22.3600006
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "mdwa",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 16.8,
+            "y": -0.00690531731,
+            "z": 26.32816
+          },
+          "face": -1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "mdwb",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 20.0689,
+            "y": -0.00690531731,
+            "z": 23.11854
+          },
+          "face": 1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "mdwc",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 22.062067,
+            "y": -0.00690531731,
+            "z": 28.1875
+          },
+          "face": 1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

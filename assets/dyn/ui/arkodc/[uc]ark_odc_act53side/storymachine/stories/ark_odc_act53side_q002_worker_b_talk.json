@@ -1,0 +1,532 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "mineb"
+              },
+              {
+                "active": true,
+                "id": "ang"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 37.0200005,
+              "y": -0.970000029,
+              "z": 9.39999962
+            },
+            "distance": 7,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "看到这标志没，这操作台是太阳谷工业淘汰的上一代老型号，稍微一操作，那钻头就轰隆作响。",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "mineb",
+              "animationName": "Skill",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "也不知道哪个黑心仓管为了点钱就把这种东西卖给那对老夫妇。虽说太阳谷工业淘汰下来的东西也不至于旧到没法用，但是......",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "那麦尼尔先生说，要我今天之内“赌上我在行业里的名声”把这个操作台校准得无比精确，下钻头要保证一次成功。",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "呵，呵呵。我看，他就是想毁了我的名声。事到如今，我不知道还能做什么来稳住这台机子。就这样吧。",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "平台上的设施落后也是很现实的问题呢......",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "amly",
+            "animationName": "Smile",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "我......可能知道一个方法能帮到你。如果你需要的话，我可以示范怎么做。",
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "avatarId": "arkvent_char_4236_tmslot",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "你是？",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "别看她年轻，阿梅可是厉害的工程师哦。她接连修好了两座通讯塔呢！",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "那有救了！请指教，到底要怎么才能让机器配合一点？",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "说不上“指教”啦......只是一些个人的小心得，在实践中发现确实管用......但不保证在这里也......",
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "avatarId": "arkvent_char_4236_tmslot_ashamed_angry",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "amly",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "好好好，明白，谦虚的客套话不用说了。请——",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "信号！全通畅！线路！全稳定！老板！全肯定！拜托了拜托了！！！",
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "avatarId": "arkvent_char_4236_tmslot",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "amly",
+              "animationName": "Pray",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "ang",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_surprise",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_emoji",
+            "data": {
+              "id": "mineb",
+              "source": "ACTIVITY",
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_happy",
+              "delay": 0,
+              "duration": 1,
+              "flipX": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "好淳朴的愿望，好原始的做派......这样真的管用吗！",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_shocked",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "怨气冲天的矿工",
+            "content": "哦哦哦，我感受到了成功的气场！",
+            "avatarId": "arkvent_npc_005_agmineb",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "amly"
+              },
+              {
+                "active": false,
+                "id": "mineb"
+              },
+              {
+                "active": false,
+                "id": "ang"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": []
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 36.25,
+            "y": -1.50690532,
+            "z": 9.10000038
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "mineb",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_005_agmineb",
+          "position": {
+            "x": 37.5778122,
+            "y": -1.50690532,
+            "z": 9.39999962
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 36.5900002,
+            "y": -1.50690532,
+            "z": 9.51000023
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

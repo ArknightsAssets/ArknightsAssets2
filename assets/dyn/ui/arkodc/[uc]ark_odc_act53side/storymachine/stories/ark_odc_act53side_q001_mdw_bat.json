@@ -1,0 +1,51 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "有袋鼷兽",
+            "content": "（警惕地四处张望）",
+            "avatarId": "arkvent_enemy_10224_agmess",
+            "options": [
+              {
+                "content": "就是现在，靠近看看！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "bat"
+                    }
+                  }
+                ],
+                "iconId": "ark_odc_act53side_dialog_option_battle"
+              },
+              {
+                "content": "还是算了。",
+                "iconId": "ark_odc_act53side_dialog_option_leave"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "play_audio",
+            "data": {
+              "module": "ui",
+              "signal": "ON_ACT53SIDE_RODENTSQUAKE_NORMAL",
+              "subSignal": "",
+              "isMusic": false
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

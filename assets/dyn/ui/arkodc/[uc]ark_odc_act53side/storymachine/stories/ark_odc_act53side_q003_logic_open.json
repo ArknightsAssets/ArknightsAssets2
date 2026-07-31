@@ -1,0 +1,1146 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.25,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "thumpy"
+              },
+              {
+                "active": true,
+                "id": "agoldw"
+              },
+              {
+                "active": true,
+                "id": "tmslot"
+              },
+              {
+                "active": true,
+                "id": "jcinta"
+              },
+              {
+                "active": true,
+                "id": "aglna"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_presentation_modify",
+            "data": {
+              "hideTypes": [
+                "PLAYER"
+              ]
+            }
+          },
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 20.5799999,
+              "y": 3.3599999,
+              "z": 6.38999987
+            },
+            "distance": 15,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 20.5799999,
+              "y": 3.3599999,
+              "z": 9.19999981
+            },
+            "distance": 15,
+            "duration": 3,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "play_audio",
+            "data": {
+              "module": "ui",
+              "signal": "ON_ACT53SIDE_CROWDDISCUSSION",
+              "subSignal": "",
+              "isMusic": false,
+              "channel": "1"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0,
+              "outDuration": 1,
+              "outEase": "OutSine"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 2,
+              "inDuration": 1,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 22,
+              "y": 0,
+              "z": 24
+            },
+            "distance": 12,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 21,
+              "y": 0,
+              "z": 24
+            },
+            "distance": 12,
+            "duration": 3,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 3.75,
+              "inDuration": 0.25,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 5.80100012,
+              "y": 0.360000014,
+              "z": 2
+            },
+            "distance": 7,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 5.80100012,
+              "y": 0.360000014,
+              "z": 2
+            },
+            "distance": 8,
+            "duration": 0.25,
+            "ease": "OutQuad"
+          }
+        },
+        "subLines": [
+          {
+            "type": "stop_audio",
+            "data": {
+              "channel": "1",
+              "fadeout": 1
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0,
+              "outDuration": 0.25,
+              "outEase": "OutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "哇，麦尼尔太太，好久不见，您居然已经把“黄昏突进号”变成了这——么大的温泉度假村！好熟悉的温泉味道，我差点以为回到家了呢！",
+            "avatarId": "arkvent_char_4235_thumpy_excited",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "thumpy",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "你家乡的大家非常热情，我在那里不仅学会了经营度假村，还吃胖了一圈呢。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "agoldw",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "我猜猜，您喜欢的肯定是老彼得家的脆皮胡萝卜派！",
+            "avatarId": "arkvent_char_4235_thumpy",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "一次三个不成问题！",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "tmslot",
+            "animationName": "Smile",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "那个，麦尼尔太太，悄悄问一嘴——现在的温泉度假村，能帮您还清债务吗？",
+            "avatarId": "arkvent_char_4236_tmslot_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "还差不少。不过，只要继续努力就不成问题。一想到这个，每天打扫温泉池子都浑身是劲！",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "太好了......",
+            "avatarId": "arkvent_char_4236_tmslot_softsmile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "不说我了。你们旅行回来了？旅途可还顺利？",
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "嗯！发生了很多事，但好在我们最后坚持到了目的地。",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "jcinta",
+            "animationName": "Salute",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "出发之前，没有想过自己能走那么远。可现在，觉得自己还能去更多的地方呢。",
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "avatarId": "arkvent_char_4237_jcinta_relieved",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "我们都在旅途中找到了自己喜欢的新站点。",
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "对了，我去给你们准备几张免费体验券，你们可以先到处转转。要是看到可以改进的地方，一定要告诉我哦。",
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "agoldw",
+              "animationName": "Talk",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "thumpy",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_happy",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_emoji",
+            "data": {
+              "id": "tmslot",
+              "source": "ACTIVITY",
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_happy",
+              "delay": 0,
+              "duration": 1,
+              "flipX": false
+            }
+          },
+          {
+            "type": "unit_emoji",
+            "data": {
+              "id": "jcinta",
+              "source": "ACTIVITY",
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_happy",
+              "delay": 0,
+              "duration": 1,
+              "flipX": false
+            }
+          },
+          {
+            "type": "unit_emoji",
+            "data": {
+              "id": "aglna",
+              "source": "ACTIVITY",
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_happy",
+              "delay": 0,
+              "duration": 1,
+              "flipX": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "太感谢了！......对了，麦尼尔先生呢？我们也想向他问声好。",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "他啊......在某个角落做着他的矿工旧梦吧。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "欸......您是说，麦尼尔先生不在吗？是发生了什么吗？",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "他有雷姆必拓人的坚持和骄傲。经营温泉度假村这种事，对下了一辈子矿的他来说，并不是好选择。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "那也不能丢下您一个人在这里辛苦工作啊......我会帮您多留意他的消息的。",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔太太",
+            "content": "没事。你们啊，只要在这里玩得开心就好。",
+            "avatarId": "arkvent_npc_2352",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "thumpy",
+            "animationName": "Excited",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "温泉......呜哇，好有家乡的味道——我先去玩——啊不，利用我的丰富经验帮麦尼尔太太看看这里的温泉！",
+            "avatarId": "arkvent_char_4235_thumpy_excited",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "thumpy",
+            "animationName": "Exit",
+            "pauseOnEnd": true
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_activation",
+            "data": {
+              "activations": [
+                {
+                  "active": false,
+                  "id": "thumpy"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "tmslot",
+            "animationName": "Smile",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "咳咳，我也，去仔细检查一下附近的信号......",
+            "avatarId": "arkvent_char_4236_tmslot_nervous_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "tmslot",
+            "animationName": "Exit",
+            "pauseOnEnd": true
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_activation",
+            "data": {
+              "activations": [
+                {
+                  "active": false,
+                  "id": "tmslot"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 5.31799984,
+              "y": 0.564999998,
+              "z": 1.028
+            },
+            "distance": 4.5,
+            "duration": 0.25,
+            "ease": "InQuad"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0.25,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "agoldw"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 5.31799984,
+              "y": 0.564999998,
+              "z": 1.028
+            },
+            "distance": 4.5,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_face",
+            "data": {
+              "faces": [
+                {
+                  "id": "aglna",
+                  "sign": -1
+                }
+              ]
+            }
+          },
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 5.31799984,
+              "y": 0.564999998,
+              "z": 1.028
+            },
+            "distance": 4,
+            "duration": 0.25,
+            "ease": "OutQuad"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0,
+              "outDuration": 0.25,
+              "outEase": "OutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "jcinta",
+            "animationName": "Salute",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "噗。她们俩，一路上都在努力成为独当一面的“大人”，但放松下来的时候，还是很孩子气呢。",
+            "avatarId": "arkvent_char_4237_jcinta_relieved",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "嘉辛塔呢，要不要也去放松一下？",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "当然~这样的愉快体验从来不嫌多。安洁也是哦。这一路以来，带着我们三个有多头痛，我们都猜得到啦。",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "怎么突然煽情起来了？快去吧，趁着这个机会，一定要把旅途的疲惫都冲走哦！",
+            "avatarId": "arkvent_char_1015_aglna2_wink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "那我也去啦。",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "jcinta",
+            "animationName": "Exit",
+            "pauseOnEnd": true
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_activation",
+            "data": {
+              "activations": [
+                {
+                  "active": false,
+                  "id": "jcinta"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "aglna",
+            "offset": {
+              "x": -0.2,
+              "y": 0.6,
+              "z": 0
+            },
+            "distance": 5,
+            "duration": 0.5,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "aglna",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_think",
+            "delay": 0,
+            "duration": 1,
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "尽管麦尼尔太太说没关系，可我还是有些在意麦尼尔先生的去向呢......不如在泡温泉前先调查一下吧。",
+            "avatarId": "arkvent_char_1015_aglna2_thinking",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "对了，说起找人的话，可以问问我的同行，还有，我看到联络员也在。他们的消息总是很灵通~",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "thumpy",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 5.1789999,
+            "y": 0,
+            "z": 1.83500004
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "agoldw",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_002_agoldw",
+          "position": {
+            "x": 6.68100023,
+            "y": 0,
+            "z": 1.41900003
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "tmslot",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 4.30299997,
+            "y": 0,
+            "z": 1.59399998
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "jcinta",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 4.83099985,
+            "y": 0,
+            "z": 1.08700001
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "aglna",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 5.78100014,
+            "y": 0,
+            "z": 1.10699999
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

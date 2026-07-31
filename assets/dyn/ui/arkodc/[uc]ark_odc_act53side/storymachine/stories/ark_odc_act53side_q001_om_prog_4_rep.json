@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "麦尼尔先生",
+            "content": "去太阳谷？求那帮小子丫头？不去太阳谷？等死？！"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q001_om_door_a_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

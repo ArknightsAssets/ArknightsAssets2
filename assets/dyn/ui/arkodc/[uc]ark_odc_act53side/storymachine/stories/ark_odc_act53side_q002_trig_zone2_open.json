@@ -1,0 +1,533 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "Linear",
+            "stayDuration": 1,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 39.5200005,
+              "y": 2.21000004,
+              "z": 14.3999996
+            },
+            "distance": 18,
+            "duration": 0.5,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 36.5299988,
+              "y": 2.21000004,
+              "z": 11.6700001
+            },
+            "distance": 18,
+            "duration": 4,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "OutSine",
+              "stayDuration": 0,
+              "outDuration": 1,
+              "outEase": "OutSine"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 3,
+              "inDuration": 1,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 32,
+              "y": 0,
+              "z": 15
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "avatar_aglina"
+              },
+              {
+                "active": true,
+                "id": "char_4237_jcinta"
+              },
+              {
+                "active": true,
+                "id": "char_4236_tmslot"
+              },
+              {
+                "active": true,
+                "id": "char_4235_thumpy"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 34,
+              "y": 0,
+              "z": 15
+            },
+            "distance": 10,
+            "duration": 4,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0,
+              "outDuration": 1,
+              "outEase": "OutSine"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 3,
+              "inDuration": 1,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 31.6499996,
+              "y": 0.419999987,
+              "z": 7.4
+            },
+            "distance": 8,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 31.6499996,
+              "y": 0.419999987,
+              "z": 6.9
+            },
+            "distance": 8,
+            "duration": 0.5,
+            "ease": "InOutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0,
+              "outDuration": 0.5,
+              "outEase": "OutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "哇......这里就是采矿区。虽然是雷姆必拓人，但这是我第一次近距离看钻矿井呢。这样秃秃的石头下面，也许就埋藏着巨大的财富吗......",
+            "avatarId": "arkvent_char_4235_thumpy_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "char_4235_thumpy",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "就我对家里人的工作的观察来看，探矿师的经验再丰富，仪器再先进，也总是无法完全掌握地下的复杂情况。能挖到可供长期开采的矿脉，都是源于大地的馈赠。希望，这一次大地也眷顾这两位老人。",
+            "avatarId": "arkvent_char_4237_jcinta_pondering",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "别说地下，光是地面上的情况就够复杂的。你们看那些矿工——凭我丰富的挨骂经验来看，大家现在的工作可一点也不顺利......",
+            "avatarId": "arkvent_char_4236_tmslot",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "就算不看大家的面色，麦尼尔先生的嗓门也足以说明一切了......我的耳朵都被吵得嗡嗡的呢......",
+            "avatarId": "arkvent_char_4235_thumpy_pout",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "avatar_aglina",
+            "offset": {
+              "x": 0,
+              "y": 0.5,
+              "z": 0
+            },
+            "distance": 8,
+            "duration": 1,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "avatar_aglina",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_think",
+            "delay": 0,
+            "duration": 1.5,
+            "source": "ACTIVITY",
+            "flipX": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "虽然答应了麦尼尔太太劝劝她先生，可是究竟应该怎么做呢？冒冒失失上前，只会白挨一顿骂呀......",
+            "avatarId": "arkvent_char_1015_aglna2_downcast",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "唔......我知道了！我要先去和现场的工人们聊一聊，掌握一些“情报”。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "avatar_aglina",
+              "offset": {
+                "x": 0,
+                "y": 0.5,
+                "z": 0
+              },
+              "distance": 6,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "avatar_aglina",
+              "animationName": "Skill_1_Loop_1",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "avatar_aglina",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 32.8,
+            "y": 0,
+            "z": 6.5
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "char_4237_jcinta",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 32.2,
+            "y": 0,
+            "z": 6.7
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "char_4236_tmslot",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 31.7,
+            "y": 0,
+            "z": 6.3
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "char_4235_thumpy",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 31.2,
+            "y": 0,
+            "z": 6.8
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

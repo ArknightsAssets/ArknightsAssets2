@@ -1,0 +1,69 @@
+
+enemy_10231_agpack.png
+size: 216,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body
+  rotate: false
+  xy: 2, 4
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 62, 4
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+C_L_Ear_Sp_1
+  rotate: 270
+  xy: 92, 4
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+C_L_Ear_Sp_2
+  rotate: 270
+  xy: 109, 4
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+C_L_Ear_Sp_3
+  rotate: 270
+  xy: 78, 3
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 128, 5
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+C_R_Ear_Sp_1
+  rotate: 270
+  xy: 168, 5
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+C_R_Ear_Sp_2
+  rotate: true
+  xy: 139, 4
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+C_R_Ear_Sp_3
+  rotate: true
+  xy: 153, 5
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1

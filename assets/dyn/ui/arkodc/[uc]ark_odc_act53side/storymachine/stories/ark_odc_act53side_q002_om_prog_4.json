@@ -1,0 +1,779 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "Linear",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Linear"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "NPC",
+              "PLAYER"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "om"
+              },
+              {
+                "active": true,
+                "id": "sune"
+              },
+              {
+                "active": true,
+                "id": "ang"
+              },
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "tn"
+              },
+              {
+                "active": true,
+                "id": "jxt"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 38.5,
+              "y": -1.04200006,
+              "z": 11.8
+            },
+            "distance": 6,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Linear",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 38.5,
+                "y": -1.04200006,
+                "z": 12.25
+              },
+              "distance": 6,
+              "duration": 1,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "（咕嘟咕嘟）药吃完了，我们继续“讨论”！",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷探矿师",
+            "content": "麦尼尔先生，您消消气。我只是在想，您作为老矿工，难道不知道其中的风险？孤注一掷的做法太离谱了......",
+            "avatarId": "arkvent_npc_2350",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "离谱？！我看你个小年轻的想法才是顽固不化——",
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "请等一下——这样说下去又得吵起来了。",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "om"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_surprise",
+            "delay": 0,
+            "duration": 1,
+            "source": "ACTIVITY",
+            "id": "sune",
+            "flipX": false
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_emoji",
+            "data": {
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_surprise",
+              "delay": 0,
+              "duration": 1,
+              "source": "ACTIVITY",
+              "id": "om",
+              "flipX": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "ang",
+            "offset": {
+              "x": -0.9,
+              "y": 0.5,
+              "z": 0
+            },
+            "distance": 6,
+            "duration": 1,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "content": "小姑娘，你们过来干嘛，来看我笑话？！",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "ang",
+            "animationName": "Skill_1_Loop_3",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "才不是。我只是忍不住觉得这样下去不行......",
+            "avatarId": "arkvent_char_1015_aglna2_blank",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "沟通明明是要把最有用的信息传达给对方，现在你们却只听得到对方对自己的冒犯。",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_pondering",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "我明白了。探矿师女士，请往后退五步。麦尼尔先生，请您站在原地不要动。想解决问题的话，就不许走过来哦。",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_serious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_think",
+            "delay": 0,
+            "duration": 1,
+            "source": "ACTIVITY",
+            "id": "sune",
+            "flipX": false
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_emoji",
+            "data": {
+              "themeId": "ark_odc_act53side",
+              "picId": "pic_ark_odc_mad",
+              "delay": 0,
+              "duration": 1,
+              "source": "ACTIVITY",
+              "id": "om",
+              "flipX": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": -1,
+                "id": "sune"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": false,
+                "id": "sune"
+              },
+              {
+                "active": true,
+                "id": "sune2"
+              },
+              {
+                "active": false,
+                "id": "ang"
+              },
+              {
+                "active": true,
+                "id": "ang2"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": -1,
+                "id": "om"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 39,
+              "y": -1,
+              "z": 12
+            },
+            "distance": 7,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 38.5,
+                "y": -1,
+                "z": 12
+              },
+              "distance": 7,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "小姑娘，你到底在捣什么鬼？！",
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "当然是完成一名信使的本职工作。接下来，二位之间的信息，将由我来传递。",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "我明白这位信使小姐的意思了。人总是容易被情绪奴役，她会替我们过滤出最关键的信息。",
+            "style": "LEFT_AVATAR",
+            "name": "太阳谷探矿师",
+            "avatarId": "arkvent_npc_2350",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "嗯！麦尼尔先生，您说呢？",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "行行行。看着她那张脸我就来气，有什么话，你来传吧！",
+            "style": "LEFT_AVATAR",
+            "name": "麦尼尔先生",
+            "avatarId": "arkvent_npc_2351",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "om",
+              "animationName": "Angry",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 40.8,
+            "y": -1.5,
+            "z": 12
+          },
+          "face": -1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "om",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_001_agoldm",
+          "position": {
+            "x": 39,
+            "y": -1.50690532,
+            "z": 12
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "sune",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_003_agsune",
+          "position": {
+            "x": 38,
+            "y": -1.50690532,
+            "z": 12
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      },
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 42.2965393,
+            "y": -1.5,
+            "z": 11.9657259
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "tn",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 41.5965385,
+            "y": -1.5,
+            "z": 12.3657255
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "jxt",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 41.5965385,
+            "y": -1.5,
+            "z": 11.4657249
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "sune2",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_003_agsune",
+          "position": {
+            "x": 35.9874649,
+            "y": -1.50690532,
+            "z": 12
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "ang2",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 38,
+            "y": -1.50690532,
+            "z": 12
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

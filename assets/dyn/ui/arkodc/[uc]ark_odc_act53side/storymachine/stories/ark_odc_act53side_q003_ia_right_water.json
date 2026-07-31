@@ -1,0 +1,26 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "THINK",
+            "id": "ang",
+            "name": "安洁莉娜",
+            "content": "麦尼尔先生好像不在这里呢......"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

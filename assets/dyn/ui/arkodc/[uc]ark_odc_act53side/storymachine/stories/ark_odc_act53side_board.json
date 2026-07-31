@@ -1,0 +1,80 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 0,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "现在要做什么呢......",
+            "avatarId": "arkvent_char_1015_aglna2_thinking_openmouth",
+            "options": [
+              {
+                "content": "温习一下游览指南吧！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "guide"
+                    }
+                  }
+                ],
+                "iconId": "ark_odc_act53side_dialog_option_guide"
+              },
+              {
+                "content": "想再去看看有袋鼷兽！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "bat_mdw"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "q001_prog",
+                    "op": "GREATER_EQUAL",
+                    "reference": 4
+                  }
+                },
+                "iconId": "ark_odc_act53side_dialog_option_battle"
+              },
+              {
+                "content": "想再会会那不务正业的信使！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "bat_bpm"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "q003_prog",
+                    "op": "GREATER_EQUAL",
+                    "reference": 3
+                  }
+                },
+                "iconId": "ark_odc_act53side_dialog_option_battle"
+              },
+              {
+                "content": "放空一会儿，随便转转吧。",
+                "iconId": "ark_odc_act53side_dialog_option_leave"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

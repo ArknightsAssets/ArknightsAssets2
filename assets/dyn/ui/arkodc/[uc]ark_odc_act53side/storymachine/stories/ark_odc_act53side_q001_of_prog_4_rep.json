@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "of",
+            "name": "麦尼尔太太",
+            "content": "孩子们，这一带地形复杂，路上要小心啊。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "of",
+        "isActor": true,
+        "actorId": "q001_of_ss_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

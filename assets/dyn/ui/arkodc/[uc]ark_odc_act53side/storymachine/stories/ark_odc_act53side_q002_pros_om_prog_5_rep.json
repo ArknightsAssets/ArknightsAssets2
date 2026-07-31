@@ -1,0 +1,68 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "om",
+            "name": "麦尼尔先生",
+            "content": "不能再在这里浪费时间，欠了那么多债，必须得行动起来了......"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "sune",
+            "name": "太阳谷探矿师",
+            "content": "麦尼尔先生，您是我见过的最坚强的人。为了购买移动平台，您的负债应该不少吧，可是遭遇打击后，那么快就能行动起来。"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "sune",
+            "name": "太阳谷探矿师",
+            "content": "欸，您是要去哪里？"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "SHOUT",
+            "id": "om",
+            "name": "麦尼尔先生",
+            "content": "当然是赶紧跑啊！还等着讨债的追上门吗！"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "om",
+        "isActor": true,
+        "actorId": "q002_om_after_fight_p1"
+      },
+      {
+        "id": "sune",
+        "isActor": true,
+        "actorId": "q002_pros_after_fight_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

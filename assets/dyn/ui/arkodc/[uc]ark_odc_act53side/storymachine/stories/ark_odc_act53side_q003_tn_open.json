@@ -1,0 +1,38 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "NO_AVATAR",
+            "name": "",
+            "content": "测试",
+            "avatarId": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "NO_AVATAR",
+            "name": "",
+            "content": "本文件为ark_odc_act53side_q003_tn_open.json",
+            "avatarId": "",
+            "options": [
+              {
+                "content": "知道了"
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

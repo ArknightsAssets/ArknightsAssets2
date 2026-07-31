@@ -1,0 +1,434 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "tn"
+              },
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "jxt"
+              },
+              {
+                "active": true,
+                "id": "ang"
+              },
+              {
+                "active": true,
+                "id": "mdwa"
+              },
+              {
+                "active": true,
+                "id": "mdwb"
+              },
+              {
+                "active": true,
+                "id": "mdwc"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 19,
+              "y": 2.4124999,
+              "z": 9.5625
+            },
+            "distance": 8.5,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 19.5,
+                "y": 2.4124999,
+                "z": 9.5625
+              },
+              "distance": 8.5,
+              "duration": 0.8,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "ang",
+            "animationName": "Skill_1_Loop_3",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "找到“幕后黑手”了，发出噪声的是你们这些淘气的小家伙~",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_wink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "原来只是一些小羽兽而已。这下可以安心睡觉了吧，阿梅？",
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "jxt",
+              "animationName": "Salute",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "好丢人......！",
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "avatarId": "arkvent_char_4236_tmslot_ashamed_angry",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "不是我嘴硬，只是这些小羽兽发出的声音好像真的......和我平时听到的不太一样......",
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "avatarId": "arkvent_char_4236_tmslot_ashamed_angry",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "我也听出来了。而且，仔细看，它们是不是都长着四只小爪子？比起“羽兽”，它们好像更像奶奶口中的传说生物欸！",
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "avatarId": "arkvent_char_4235_thumpy_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "唔，好像是有四只小爪子？我不太确定——",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_confused",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "哎呀，它们在飞，我看不清呀！",
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "avatarId": "arkvent_char_4235_thumpy_armscrossed_angry_max",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "tn",
+              "animationName": "Interact",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "既然塔妮和阿梅都那么在意，我们就悄悄地再靠近一点看看，小心不要惊吓到它们哦——",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_wink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "tn",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 20.25,
+            "y": 1.9930948,
+            "z": 9
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 19.4375,
+            "y": 1.9930948,
+            "z": 8.8125
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "jxt",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 19.8125,
+            "y": 1.9930948,
+            "z": 9.25
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 18.75,
+            "y": 1.9930948,
+            "z": 9.25
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      },
+      {
+        "id": "mdwa",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 19,
+            "y": 1.9930948,
+            "z": 10.5
+          },
+          "face": 1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "mdwb",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 9.74026871,
+            "y": 1.9930948,
+            "z": 14.1875
+          },
+          "face": -1,
+          "defaultAnimation": "Idle_A"
+        }
+      },
+      {
+        "id": "mdwc",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_enemy_10224_agmess",
+          "position": {
+            "x": 8.6624918,
+            "y": 1.9930948,
+            "z": 12.1873217
+          },
+          "face": 1,
+          "defaultAnimation": "Idle_A"
+        }
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

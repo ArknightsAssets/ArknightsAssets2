@@ -1,0 +1,764 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "ang"
+              },
+              {
+                "active": true,
+                "id": "minea"
+              },
+              {
+                "active": true,
+                "id": "om"
+              },
+              {
+                "active": true,
+                "id": "sune"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 45.5380001,
+              "y": -0.970000029,
+              "z": 12.7040005
+            },
+            "distance": 7,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 1,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "抱歉......我听到您刚才说，麦尼尔先生以前也是太阳谷工业的员工？",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "content": "你是那对老夫妇的孙女？",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "不是不是，算是有一面之缘啦，我和我的同伴以前在这个平台上借宿过。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "麦尼尔先生跟大家都在太阳谷合作过的话，应该很好说话呀，为什么现在看起来关系那么紧张......",
+            "avatarId": "arkvent_char_1015_aglna2_hesitant",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "content": "好说话？我们头儿才是好说话！说什么那是她的老前辈，从没这么拉下脸来求人，就带着我们来帮忙。可人家一开始就对老东家意见很大！",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "content": "喏，你看现在，两人在那儿为了怎么下钻头吵半天了。他要是不信我们，还请我们来干嘛？",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "（唔，原来那两人是为了技术问题而争执，那倒还好说。）",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_thinking",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "（倒是这位先生，带着这样糟糕的心情可不行，得想办法鼓舞士气......）",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_thinking",
+            "options": [
+              {
+                "content": "现场氛围微妙，谨慎说理。",
+                "iconId": "ark_odc_act53side_dialog_option_talk",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "1"
+                    }
+                  }
+                ]
+              },
+              {
+                "content": "现场氛围僵硬，大胆鼓励。",
+                "iconId": "ark_odc_act53side_dialog_option_talk",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "2"
+                    }
+                  }
+                ]
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "唔，这位先生，你知不知道，其实有的人，他......",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_pondering",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "越害羞说话越大声哦。",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_shy",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "......害羞？",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "用来掩饰一些不想让你观察到的细节啦。麦尼尔先生现在是不是脸红、出汗、声音虚高、动作忸怩，还时不时回头偷看大家？",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_serious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "om",
+            "offset": {
+              "x": 0,
+              "y": 0.6,
+              "z": 0
+            },
+            "distance": 6,
+            "duration": 0.8,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "ui",
+            "signal": "ON_ACT53SIDE_EMOJI",
+            "subSignal": "",
+            "isMusic": false,
+            "channel": ""
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "unit_emoji",
+          "data": {
+            "id": "om",
+            "source": "ACTIVITY",
+            "themeId": "ark_odc_act53side",
+            "picId": "pic_ark_odc_mad",
+            "delay": 0,
+            "duration": 1.5,
+            "flipX": true
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 45.5380001,
+              "y": -0.970000029,
+              "z": 12.7040005
+            },
+            "distance": 7,
+            "duration": 0.6,
+            "ease": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "好像是有点这个意思......",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "其实，承认后生很棒，会让他一个老矿工很脸红啦。但他还是把这座移动平台最后的翻身机会押在你们身上了哦。你们就是他眼里最厉害的矿工。",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_wink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "好吧，这么一想，手上又有点劲儿了。虽然看不惯他那张臭脸，但也不能让他看扁了！干活！",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "太好了~（对不起，麦尼尔先生——）",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "（大声）你说得太对了！对辛辛苦苦工作完还特地从太阳谷赶过来帮忙的大家冷漠以对，横加指责，麦尼尔先生太过分了！",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_furious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "小点声——其实麦尼尔先生也没有你说的那么冷漠和蛮横......",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "（稍微压低音量）那你生气一定是因为他的脸色比烟熏胡萝卜还要黑，话专挑难听的说，对大家没有最基本的信任拼命挑刺——",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_furious",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "倒也不是......他的移动平台现在面临的困难大家都懂啦。",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "仔细想来，就是他太倔，又讨厌被人看出来自己的窘境，所以老喜欢朝我们嚷嚷......",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "（恢复音量）你们的头儿就是那位探矿师女士对吗？为什么她愿意过来帮忙呢？",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "我们矿工互助本来也是常事。更何况许诺的报酬也很丰厚......唉，所以我跟着上什么火呢。",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "原来如此。看来，矿工先生把自己安慰好了呢~",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_wink",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "奇怪，突然就没那么生气了。干活干活......",
+            "style": "LEFT_AVATAR",
+            "name": "骂骂咧咧的矿工",
+            "avatarId": "arkvent_npc_004_agminea",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 45.0435981,
+            "y": -1.50690532,
+            "z": 12.6492234
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "minea",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_004_agminea",
+          "position": {
+            "x": 46.0315971374512,
+            "y": -1.50690531730652,
+            "z": 12.7602233886719
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "om",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_001_agoldm",
+          "position": {
+            "x": 42.8367767,
+            "y": -1.50690532,
+            "z": 12.7441015
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "sune",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_003_agsune",
+          "position": {
+            "x": 41.12948,
+            "y": -1.50690532,
+            "z": 12.69197
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

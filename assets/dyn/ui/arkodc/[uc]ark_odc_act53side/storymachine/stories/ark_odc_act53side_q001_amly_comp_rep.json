@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "阿梅利亚",
+            "content": "麦尼尔先生看着凶巴巴的，其实人倒不坏......我宁愿和这种人相处呢。"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q001_amly_comp_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "ang",
+            "name": "安洁莉娜",
+            "content": "车看起来很久没开过了，也得保持干净哦~"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

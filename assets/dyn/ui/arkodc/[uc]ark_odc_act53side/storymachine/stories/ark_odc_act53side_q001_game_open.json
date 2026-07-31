@@ -1,0 +1,1123 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0.5,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_presentation_modify",
+          "data": {
+            "hideTypes": [
+              "PLAYER",
+              "NPC"
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 14.4,
+              "y": 3.05,
+              "z": -3.5999999
+            },
+            "distance": 18,
+            "duration": 0.5,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 16.4,
+              "y": 3.05,
+              "z": -3.5999999
+            },
+            "distance": 18,
+            "duration": 4,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "OutSine",
+              "stayDuration": 0,
+              "outDuration": 1,
+              "outEase": "OutSine"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 3,
+              "inDuration": 1,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 18.0599995,
+              "y": 2.51999998,
+              "z": 10.75
+            },
+            "distance": 14,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 17.1,
+              "y": 2.51999998,
+              "z": 10.75
+            },
+            "distance": 14,
+            "duration": 4,
+            "ease": "Linear"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0,
+              "outDuration": 1,
+              "outEase": "OutSine"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 3,
+              "inDuration": 1,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "ang"
+              },
+              {
+                "active": true,
+                "id": "amly"
+              },
+              {
+                "active": true,
+                "id": "tn"
+              },
+              {
+                "active": true,
+                "id": "jxt"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "amly",
+            "offset": {
+              "x": 0,
+              "y": 0.5,
+              "z": 0
+            },
+            "distance": 4,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "问，为什么坐一天车会让工程师看起来很谄媚？——因为腰痛得直不起来了。塔妮，你的肩借我扶一下......塔妮？",
+            "avatarId": "arkvent_char_4236_tmslot",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.25
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "（嚼嚼嚼嚼嚼）（呸！）",
+            "avatarId": "arkvent_char_4235_thumpy_closedeyes",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "欸，站着就睡着了......在梦里吃什么呢，快要流口水了......",
+            "avatarId": "arkvent_char_4236_tmslot_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "offset": {
+              "x": -0.3,
+              "y": 0.6,
+              "z": 0
+            },
+            "distance": 6,
+            "duration": 1,
+            "ease": "InOutSine",
+            "id": "ang"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": -1,
+                "id": "ang"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": -1,
+                "id": "amly"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "唉，那两人都七倒八歪的了。嘉辛塔呢，你还好吧？",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "animationName": "Interact",
+            "id": "jxt",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "刚刚在车上晕过去了一小会儿，现在一切安好。",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "欸？！你是指，睡了一小会儿吗？",
+            "avatarId": "arkvent_char_1015_aglna2_confused",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "没事，习惯了，请就这么理解吧~",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "看，栏杆上印着“黄昏突进号”。我在爸爸妈妈的矿场里见过类似的平台，还隐约能望见平台另一头的采矿区，也就是说，这是个移动采矿平台。",
+            "avatarId": "arkvent_char_4237_jcinta",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "来了雷姆必拓之后总是很不习惯这里天黑的速度呢，能在天突然黑下来之前找到这里真的很好运。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "要是平台主人愿意接纳我们，今晚就能有间避风的屋子把大家都安顿下来了。",
+            "avatarId": "arkvent_char_1015_aglna2",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "嘉辛塔",
+            "content": "我们在下面一按喇叭，平台就把升降梯放下来了，应该还是欢迎我们的吧。不过，我们上来有些时间了，怎么一个人都看不到？",
+            "avatarId": "arkvent_char_4237_jcinta_thinking",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "play_audio",
+          "data": {
+            "module": "sys",
+            "signal": "ON_ARKODC_MUSIC",
+            "subSignal": "mist_n",
+            "isMusic": true,
+            "channel": "bgm"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "你们终于注意到了吗......你们不觉得这里安静得不正常吗......既没有人声，也没有采矿声......你们没有怀疑过，到底是谁把我们放上来的？",
+            "avatarId": "arkvent_char_4236_tmslot_nervous_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_face",
+            "data": {
+              "faces": [
+                {
+                  "sign": 1,
+                  "id": "ang"
+                }
+              ]
+            }
+          },
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "ang",
+              "offset": {
+                "x": 0.7,
+                "y": 0.6,
+                "z": 0
+              },
+              "distance": 6,
+              "duration": 0.5,
+              "ease": "InOutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "还有、还有......从我们上来开始，就一直萦绕在耳边的窸窸窣窣的奇怪声音......",
+            "avatarId": "arkvent_char_4236_tmslot_nervous_fake_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "tn",
+            "animationName": "Excited",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "故事时间！",
+            "avatarId": "arkvent_char_4235_thumpy_excited",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "amly"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "是触发了矿井恐怖传说的关键词吗，说醒就醒了......！",
+            "avatarId": "arkvent_char_4236_tmslot_surprised",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "塔妮",
+            "content": "奶奶曾经讲过一个废弃采矿平台的冤魂吃人事件——",
+            "avatarId": "arkvent_char_4235_thumpy_excited",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "阿梅利亚",
+            "content": "呀——",
+            "avatarId": "arkvent_char_4236_tmslot_no_tears_default",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "animationName": "Interact",
+              "id": "amly",
+              "pauseOnEnd": false
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "stop_audio",
+          "data": {
+            "channel": "bgm",
+            "fadeout": 1.0
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "id": "ang",
+            "animationName": "Skill_1_Loop_3",
+            "pauseOnEnd": false
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "停——别吓唬自己啦。你们看那边~",
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "tn"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.5
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "ang",
+            "offset": {
+              "x": 0.7625,
+              "y": 0.6,
+              "z": 0
+            },
+            "distance": 6,
+            "duration": 0.5,
+            "ease": "InOutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0.5,
+              "inEase": "InSine",
+              "stayDuration": 0,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_activation",
+          "data": {
+            "activations": [
+              {
+                "active": true,
+                "id": "of"
+              },
+              {
+                "active": true,
+                "id": "om"
+              }
+            ]
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 16.5,
+              "y": -0.289999992,
+              "z": -2.54999995
+            },
+            "distance": 8,
+            "duration": 0.1,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_position",
+          "data": {
+            "position": {
+              "x": 16.8,
+              "y": -0.289999992,
+              "z": -2.54999995
+            },
+            "distance": 8,
+            "duration": 2,
+            "ease": "InOutSine"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0.2,
+              "outDuration": 0,
+              "outEase": "Unset"
+            }
+          },
+          {
+            "type": "curtain",
+            "data": {
+              "color": "#000000",
+              "delay": 0.2,
+              "inDuration": 0,
+              "inEase": "Unset",
+              "stayDuration": 0,
+              "outDuration": 0.5,
+              "outEase": "OutSine"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "安洁莉娜",
+            "content": "他们应该是平台上的矿工，我们过去问问他们。",
+            "avatarId": "arkvent_char_1015_aglna2_embarrassed_smile",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.5,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "ang",
+            "offset": {
+              "x": 0.7,
+              "y": 0.6,
+              "z": 0
+            },
+            "distance": 6,
+            "duration": 0,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "Unset",
+            "stayDuration": 0.1,
+            "outDuration": 0.5,
+            "outEase": "OutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_face",
+          "data": {
+            "faces": [
+              {
+                "sign": 1,
+                "id": "tn"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_animation",
+          "data": {
+            "animationName": "Exit",
+            "id": "jxt",
+            "pauseOnEnd": true
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "tn",
+              "animationName": "Exit",
+              "pauseOnEnd": true
+            }
+          },
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "amly",
+              "animationName": "Exit",
+              "pauseOnEnd": true
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 1,
+            "inEase": "InSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "unit_animation",
+            "data": {
+              "id": "ang",
+              "animationName": "Skill_1_To_Idle",
+              "pauseOnEnd": true
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "camera_focus_unit",
+          "data": {
+            "id": "p",
+            "offset": {
+              "x": 0,
+              "y": 0.7,
+              "z": 0
+            },
+            "distance": 10,
+            "duration": 0.01,
+            "ease": "Unset"
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "ang",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_prota_001_aglna",
+          "position": {
+            "x": 4.36899996,
+            "y": 0.00625002384,
+            "z": 1.37699997
+          },
+          "face": 1,
+          "defaultAnimation": "Skill_1_Idle"
+        }
+      },
+      {
+        "id": "jxt",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4237_jcinta",
+          "position": {
+            "x": 3.4690001,
+            "y": 0.00625002384,
+            "z": 1.73399997
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "tn",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4235_thumpy",
+          "position": {
+            "x": 5.86100006,
+            "y": 0.00625002384,
+            "z": 1.19799995
+          },
+          "face": -1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "amly",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_char_4236_tmslot",
+          "position": {
+            "x": 5.32299995,
+            "y": 0.00625002384,
+            "z": 0.977999985
+          },
+          "face": 1,
+          "defaultAnimation": "Relax"
+        }
+      },
+      {
+        "id": "om",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_001_agoldm",
+          "position": {
+            "x": 17.643,
+            "y": -0.994,
+            "z": -2.155
+          },
+          "face": -1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "of",
+        "setupData": {
+          "spineType": "ARKVENT",
+          "funcId": "arkvent_npc_002_agoldw",
+          "position": {
+            "x": 14.502,
+            "y": -0.994,
+            "z": -1.325
+          },
+          "face": 1,
+          "defaultAnimation": "Idle"
+        }
+      },
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": true
+  }
+}

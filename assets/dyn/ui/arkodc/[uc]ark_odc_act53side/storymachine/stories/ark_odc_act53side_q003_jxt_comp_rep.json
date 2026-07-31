@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "嘉辛塔",
+            "content": "麦尼尔太太拒绝了我的投资。不过我同意她的说法，自由自在更重要~"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q003_jxt_comp_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

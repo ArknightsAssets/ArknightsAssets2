@@ -1,0 +1,38 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "mdw",
+            "name": "有袋鼷兽",
+            "content": "！！！"
+          }
+        },
+        "subLines": [
+          {
+            "type": "play_audio",
+            "data": {
+              "module": "ui",
+              "signal": "ON_ACT53SIDE_RODENTSQUAKE_SCARED",
+              "subSignal": "",
+              "isMusic": false
+            }
+          }
+        ]
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "mdw",
+        "isActor": true,
+        "actorId": "q001_mdw_intro_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

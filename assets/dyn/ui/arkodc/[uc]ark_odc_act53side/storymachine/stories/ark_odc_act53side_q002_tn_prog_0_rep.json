@@ -1,0 +1,27 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "unit_dialog",
+          "data": {
+            "style": "NORMAL",
+            "id": "talker",
+            "name": "塔妮",
+            "content": "好不容易又遇上了，麦尼尔太太和先生怎么都不在呢......"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "talker",
+        "isActor": true,
+        "actorId": "q002_tn_open_p1"
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}
