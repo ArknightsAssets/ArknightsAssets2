@@ -1,0 +1,74 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "近海护林员",
+            "content": "停，前方是<color=#00ffff>近海密林</color>，这里的生态系统非常独特，属于受到保护的区域。\n为了防止游客的意外行动对周围环境造成破坏，只有熟练的奇象寻迹参与者才能获准进入这片区域。",
+            "avatarId": "arkvent_enemy_10049_pcaptn_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "近海护林员",
+            "content": "因此，你必须通过与我的<color=#00ffff>模拟生物对决</color>，证明自己已经熟知了探索规则。\n事先说明，我会选取更加狂暴和凶猛的生物数据，如果无法战胜这些生物，进入这片区域对你来说也存在危险。",
+            "avatarId": "arkvent_enemy_10049_pcaptn_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "近海护林员",
+            "content": "你准备好了吗？",
+            "avatarId": "arkvent_enemy_10049_pcaptn_2",
+            "options": [
+              {
+                "content": "<color=#00ffff>开始通行挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "稍后再来",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

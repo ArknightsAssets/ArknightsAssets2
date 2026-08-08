@@ -1,0 +1,84 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "啊，Dr.{@nickname}，你好！很高兴你今天也来巡展游玩了，有什么事需要我的帮助吗？",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "巡展上有没有什么新鲜事？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "update_guide"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "update_guide",
+                    "op": "EQUALS",
+                    "reference": 0
+                  }
+                },
+                "iconId": "icon_option_exclamation_mark"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "update_guide"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "那我要告诉你个好消息，我们在探索区域有新的发现！\n听说在探索区域里一些奇象生物进入了<color=#00ffff>活动频繁</color>状态，这也是收集新生物数据的好机会。",
+            "avatarId": "arkvent_char_700_shiane",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "update_guide"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "会是什么样的可爱孩子呢？如果扫描到了记得也给我看看哦！\n另外，我也为你准备了探索用的全新道具，请收下吧！",
+            "avatarId": "arkvent_char_700_shiane",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

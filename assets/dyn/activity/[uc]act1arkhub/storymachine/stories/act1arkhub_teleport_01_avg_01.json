@@ -1,0 +1,48 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "区域指示牌一号",
+            "content": "前方区域：密林外沿，区域内有<color=#00ffff>奇术属性的奇象生物</color>活动。",
+            "avatarId": "arkvent_002_portal",
+            "options": [
+              {
+                "content": "<color=#00ffff>前往</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "teleport"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "暂不前往",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

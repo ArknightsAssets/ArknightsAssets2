@@ -1,0 +1,48 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "区域指示牌",
+            "content": "准备返回展会",
+            "avatarId": "arkvent_002_portal",
+            "options": [
+              {
+                "content": "<color=#00ffff>前往</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "teleport"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "取消",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "cancel"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

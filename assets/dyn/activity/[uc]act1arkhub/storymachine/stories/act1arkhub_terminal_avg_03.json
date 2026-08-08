@@ -1,0 +1,310 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "欢迎来到奇象巡展！\n这里是奇象巡展服务台，可以在此<color=#00ffff>查询各类信息</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "奇象巡展的主要游玩项目是什么？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide_arkdex"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "巡展像素活动是什么？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide_pixel"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "请再为我打开一次游玩手册",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "退出终端互动",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o3"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide_arkdex"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "奇象巡展的主要游玩项目是<color=#00ffff>奇象寻迹</color>和<color=#00ffff>奇象拟合</color>。具体流程请查看接下来的游玩说明。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "查看引导",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide_pixel"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "【巡展像素】是主办方为了能让游客们留下欢乐回忆而设置的纪念画像项目。\n您可以通过<color=#00ffff>巡展数据仪菜单</color>内的<color=#00ffff>画像册按钮</color>打开<color=#00ffff>巡展像素界面</color>，并用内置的绘制仪来创造独属于自己的画作。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n6_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "【玩法简介】巡展主办方为此次展会开发了<color=#00ffff>模拟生物数据对决游戏</color>。\n整个游玩体验流程包含了三大部分：<color=#00ffff>生物数据扫描</color>、<color=#00ffff>数据集换</color>以及<color=#00ffff>模拟生物对决</color>。前两项统称为奇象寻迹，模拟生物对决的项目名称即为奇象拟合。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n2_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "【奇象寻迹】是在探索区域寻找奇象生物并收集其扫描数据的游玩项目。\n在主广场中设置了<color=#00ffff>通向各个探索区域</color>的<color=#00ffff>指示牌</color>，可以通过这些<color=#00ffff>指示牌</color>确认并前往野外探索区域。\n在听取<color=#00ffff>夏妮小姐</color>的初步指引之后，即可前往收集各种奇象生物的数据并进行模拟对决。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n3_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n6_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "您创作的画像在通过主办方的审核之后，就能设置在展会中<color=#00ffff>进行展示</color>，您也可以与其他游客进行<color=#00ffff>画作交换</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "我了解了",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n7_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n3_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "【数据集换】除了前往野外探索区域寻找奇象生物并收集数据，还可以与其他游客交换生物数据。\n通过与其他游客交流，可以申请与对方<color=#00ffff>交换生物数据</color>。\n另外，在数据库中能设置已扫描生物的投影并在主广场中<color=#00ffff>进行展示</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n4_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n4_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "【奇象拟合】可使用已获取的生物数据进行<color=#00ffff>模拟对决</color>，主广场右侧设置了奇象拟合专区。\n如果想了解更多关于模拟对决的信息，可移步专区附近咨询<color=#00ffff>对决专员</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "结束对话",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n5_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

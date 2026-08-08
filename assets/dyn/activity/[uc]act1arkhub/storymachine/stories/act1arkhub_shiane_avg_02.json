@@ -1,0 +1,222 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "啊，Dr.{@nickname}，你好！很高兴你今天也来巡展游玩了，有什么事需要我的帮助吗？",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "有没有什么对游玩有帮助的<color=#00ffff>道具</color>？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_shop"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_interact"
+              },
+              {
+                "content": "能再为我介绍一次奇象寻迹吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "没什么",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o2"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_shop"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "当然有了！看看这里有没有你需要的东西吧！",
+            "avatarId": "arkvent_char_700_shiane",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "奇象寻迹的游玩方法是吗，没问题！\n这一次的巡展场地设置在汐斯塔的近海林地附近，这里有着许多奇妙而独特的生物。\n我们需要做的，就是用这个<color=#00ffff>生物扫描仪</color>扫描它们，之后就可以<color=#00ffff>储存生物数据</color>。",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "好的，那祝你在巡展上玩得开心~",
+            "avatarId": "arkvent_char_700_shiane",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "有了储存的数据，你就可以将这些有趣的生物用<color=#00ffff>投影</color>的形式带在身边，向展会上的其他游客展示了！\n而且，你还能用这些数据参加奇象拟合的<color=#00ffff>对决</color>，这也是巡展的一大乐趣！",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n2_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "在主广场里可以找到这种<color=#00ffff>探索区域指示牌</color>，通过它们可以找到去野外探索区的路。\n展会周边的近海林地中有几个区域，每个区域的生态和生物群系各有不同，探索的时候可以多多注意一下~",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n3_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n3_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "哇，小辛迪别拉我的头发，我在和人讲解巡展内容呢，听话！咳咳，总之奇象寻迹需要注意的内容应该就这些，还有什么不明白的可以随时回来问我哦！",
+            "avatarId": "arkvent_char_700_shiane",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

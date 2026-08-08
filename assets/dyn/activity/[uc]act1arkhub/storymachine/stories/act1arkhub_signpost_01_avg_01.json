@@ -1,0 +1,82 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "探索区标识牌",
+            "content": "前方探索区域的生物群系信息如下所示——",
+            "avatarId": "arkvent_011_signPost",
+            "options": [
+              {
+                "content": "查看",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "离开",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "探索区标识牌",
+            "content": "本地区主要栖息的奇象生物属性为<color=#00ffff>奇术</color>。\n通过<color=#00ffff>【近海护林员】</color>的模拟生物对决试炼后，可以前往其看守的区域内探索。\n被看守的区域内，有概率遇到珍奇度<color=#00ffff>更高</color>的奇象生物。",
+            "avatarId": "arkvent_011_signPost",
+            "options": [
+              {
+                "content": "退出",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

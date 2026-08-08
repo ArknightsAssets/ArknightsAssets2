@@ -1,0 +1,94 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "热情的布偶",
+            "content": "嘿嘿，巡展真热闹啊，如果不是要工作，我也想去到处逛逛！\n你好！又来找我是还有什么事吗？",
+            "avatarId": "arkvent_enemy_10104_mjcbln",
+            "options": [
+              {
+                "content": "还想再来一次模拟对决",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "没事了",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "热情的布偶",
+            "content": "就等你这句话，我也期待能和你再次对决呢，这就开始吧！",
+            "avatarId": "arkvent_enemy_10104_mjcbln",
+            "options": [
+              {
+                "content": "<color=#00ffff>开始挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "我又想了想，之后再来对决吧",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

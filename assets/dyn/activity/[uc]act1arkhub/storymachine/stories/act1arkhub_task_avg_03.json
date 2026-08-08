@@ -1,0 +1,36 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展物资终端",
+            "content": "您尚未获得物资终端的使用权限。",
+            "avatarId": "arkvent_011_signPost",
+            "options": [
+              {
+                "content": "退出",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_interact"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

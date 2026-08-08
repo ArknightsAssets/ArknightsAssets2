@@ -1,0 +1,94 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "不安的吉祥物",
+            "content": "哇！你......你有什么事？通行许可已经给你了。",
+            "avatarId": "arkvent_enemy_10071_ftprg",
+            "options": [
+              {
+                "content": "还想再来一次模拟对决",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "没事了",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "不安的吉祥物",
+            "content": "还想和我对决？也......也可以。",
+            "avatarId": "arkvent_enemy_10071_ftprg",
+            "options": [
+              {
+                "content": "<color=#00ffff>开始挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "我又想了想，之后再来对决吧",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

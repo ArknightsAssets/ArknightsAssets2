@@ -1,0 +1,117 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "欢迎来到奇象巡展的野外探索区域，朋友！\n我是巡展探索区域的工作人员，呃，如你所见，这套衣服是为了让那些奇象生物不至于一看到我就跑开的。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "看起来你是第一次进入这片区域，需要我跟你讲解一下探索区域的<color=#00ffff>注意事项</color>吗？",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "options": [
+              {
+                "content": "<color=#00ffff>拜托了</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "前面这片野外探索区域里有许多奇象生物，它们大多都潜藏在<color=#00ffff>密林</color>之中。\n不过在探索区域<color=#00ffff>多走动</color>的话，就一定能遇到从栖息地中跑出来的生物。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n2_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "遇到生物之后，只要能战胜它们就可以用<color=#00ffff>扫描仪</color>扫描并收录<color=#00ffff>生物数据</color>了，切记不是捕捉本体！\n在实际行动之前，先通过试验生物体验一下整个流程吧。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "options": [
+              {
+                "content": "来让我试试吧！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "欢迎来到奇象巡展！\n这里是奇象巡展服务台，可以在此<color=#00ffff>查询各类信息</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "这里是奇象巡展的主广场，巡展的主要内容是泰拉各地的趣味展览和相关活动。本次展会举办地为汐斯塔。\n这一次，展会将以汐斯塔周边的<color=#00ffff>奇象生物</color>为主题，开展<color=#00ffff>模拟生物对决</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "如果想要进一步了解活动信息，请移步寻找这一次的巡展引导人员——<color=#00ffff>夏妮小姐</color>。\n在夏妮小姐处领取游玩手册之后，服务台将解锁更多可用信息。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "前去领取游玩手册",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "guide_shiane"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "guide_shiane"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.1
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "p",
+              "offset": {
+                "x": 0,
+                "y": 0.7,
+                "z": 0
+              },
+              "distance": 8,
+              "duration": 0,
+              "ease": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "guide_shiane"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 2.5
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 0.26502513885498047,
+                "y": 1.2,
+                "z": 8.5100889205932617
+              },
+              "distance": 7,
+              "duration": 1.0,
+              "ease": "InOutCubic"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "guide_shiane"
+          }
+        },
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "guide_shiane"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.6
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000"
+            }
+          },
+          {
+            "type": "camera_release",
+            "data": {}
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "guide_shiane"
+          }
+        },
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

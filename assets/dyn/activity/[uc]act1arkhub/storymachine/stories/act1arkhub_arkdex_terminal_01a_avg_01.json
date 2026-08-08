@@ -1,0 +1,64 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "？？？",
+            "content": "似乎是能用来参加模拟生物对决的终端机，也许<color=#00ffff>附近</color>有<color=#00ffff>工作人员</color>知道该怎么使用它。",
+            "avatarId": "arkvent_003_arkdexTerminal",
+            "options": [
+              {
+                "content": "离开",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "capture_catch_guide_02",
+                    "op": "NOT_EQUALS",
+                    "reference": 2
+                  }
+                },
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "离开",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "capture_catch_guide_02",
+                    "op": "EQUALS",
+                    "reference": 2
+                  }
+                },
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

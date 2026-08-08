@@ -1,0 +1,56 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展物资终端",
+            "content": "欢迎来到奇象巡展主广场，此处可领取主办方发放的<color=#00ffff>每日物资</color>。",
+            "avatarId": "arkvent_011_signPost",
+            "options": [
+              {
+                "content": "<color=#00ffff>确认领取</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "get_reward"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_interact"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "get_reward"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展物资终端",
+            "content": "请领取您<color=#00ffff>今日的物资</color>，祝您游玩愉快。",
+            "avatarId": "arkvent_011_signPost",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

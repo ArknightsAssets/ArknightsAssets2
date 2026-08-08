@@ -1,0 +1,94 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "热情的布偶",
+            "content": "嘿，你好啊！我猜你是需要去下一个区域的通行许可对吧？\n那你可就找对人了，只要能在奇象拟合，也就是模拟生物对决里战胜我，就能拿到去<color=#00ffff>奇生保护区</color>的许可了！",
+            "avatarId": "arkvent_enemy_10104_mjcbln",
+            "options": [
+              {
+                "content": "<color=#00ffff>挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "之后再说",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "热情的布偶",
+            "content": "来吧，是时候一决胜负了！\n作为最了解保护区的人之一，我要事先提醒你，里面有许多习性<color=#00ffff>百变</color>的生物，我的数据大多是从它们那里获得的。\n这些生物都不擅长应对用本能和蛮力作战的敌人，不过这可不代表它们弱小，来实际对决看看吧！",
+            "avatarId": "arkvent_enemy_10104_mjcbln",
+            "options": [
+              {
+                "content": "<color=#00ffff>开始挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "我又想了想，之后再来对决吧",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

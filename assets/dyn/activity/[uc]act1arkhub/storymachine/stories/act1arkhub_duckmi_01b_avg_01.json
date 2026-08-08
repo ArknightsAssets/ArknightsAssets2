@@ -1,0 +1,154 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "content": "真好，比起和那些打手打交道，我还是更喜欢和人玩模拟生物对决。\n哦对了，重要的事情是——好了，这样你就有核心保护区的通行权了。",
+            "style": "LEFT_AVATAR",
+            "name": "“鸭爵？”",
+            "avatarId": "arkvent_enemy_2001_duckmi",
+            "options": [],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "“鸭爵？”",
+            "content": "如果你在里面看到鬼鬼祟祟的人，记得要向我或者主办方报告，其他时间自由探索，注意安全就好。\n祝你探索顺利！",
+            "avatarId": "arkvent_enemy_2001_duckmi",
+            "options": [
+              {
+                "content": "能说明一下这片区域的独特性吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "你能提供各类<color=#00ffff>道具</color>吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_shop"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_interact"
+              },
+              {
+                "content": "我想和你再对决一次",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "好的，我会注意的",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o3"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "“鸭爵？”",
+            "content": "这里是汐斯塔奇生保护区的核心区域，里面可以说有着周边区域中最稀有的生物。\n也因为这些生物的价值，以前这里就招来了不少偷猎者，现在还有更大的势力在觊觎这片区域。",
+            "avatarId": "arkvent_enemy_2001_duckmi",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "“鸭爵？”",
+            "content": "我们在此举办巡展，也是希望能唤起大家对生态保护的注意。希望你能理解我们的工作！",
+            "avatarId": "arkvent_enemy_2001_duckmi",
+            "options": [
+              {
+                "content": "明白了，感谢你的说明",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

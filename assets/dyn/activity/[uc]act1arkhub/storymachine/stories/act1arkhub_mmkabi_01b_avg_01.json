@@ -1,0 +1,114 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "很好！刚才你体验到的就是奇象寻迹，或者说生物数据扫描的基本流程了。\n你可以查看<color=#00ffff>扫描仪</color>，在刚才的对决之后，你的扫描仪里应该已经收录<color=#00ffff>阿咬、爬行鬼伞、蓝冠羽镖客</color>的生物数据了。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "这些生物数据除了能协助你探索，在巡展主广场里还有更多用途，相信你已经听<color=#00ffff>夏妮小姐</color>讲解过了。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "既然基本流程你已经熟悉了，现在密林外沿区域就可以任你探索了。\n呼......这个天气穿这身还是太热了，但是为了不吓到可爱的绒绒们......",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "哦对了，在开始探索之前，这里还有一些也许对探索有帮助的小贴士。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "从<color=#00ffff>工作人员</color>处能购买到各种巡展道具，道具主要包括能够诱引特定生物的<color=#00ffff>诱引剂</color>和<color=#00ffff>信息素</color>等物品。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "生物<color=#00ffff>受到诱引</color>之后就会现身，届时可直接在探索区域中<color=#00ffff>看到生物</color>并在战斗获胜后扫描其数据。\n此外，<color=#00ffff>其他游客</color>诱引出的生物也可以直接接触，而后进行战斗和扫描。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "嗯，眼下你需要知道的应该就这么多了，如果遇到问题可以随时回来找我确认。",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "options": [
+              {
+                "content": "好的，再见！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

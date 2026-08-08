@@ -1,0 +1,183 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "苍苔",
+            "content": "你好，来试试巡展最吸引人的模拟生物对决项目奇象拟合......哎呀，我还没注意到，这不是Dr.{@nickname}嘛！\n没想到你也来参加巡展了，怎么样，玩得还开心吗？\n我？我现在是巡展的对决专员！既然是在汐斯塔本地举办的活动，我自然也想出一份力啦。",
+            "avatarId": "arkvent_char_4106_bryota",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "苍苔",
+            "content": "你应该也是来游玩模拟生物对决的吧，既然如此，就让我来给你讲讲对决规则怎么样？",
+            "avatarId": "arkvent_char_4106_bryota",
+            "options": [
+              {
+                "content": "<color=#00ffff>拜托你了</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "我等会再来找你",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "苍苔",
+            "content": "没问题，你收集到生物数据了吗？\n嗯，看来你已经收集了不少生物数据呢，接下来的<color=#00ffff>奇象拟合</color>，也就是模拟生物对决就要用到这些数据。",
+            "avatarId": "arkvent_char_4106_bryota",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "苍苔",
+            "content": "还想去别处看看？那我会在这里随时等你再来！\n好好享受巡展的氛围吧，再见~",
+            "avatarId": "arkvent_char_4106_bryota",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n2_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "苍苔",
+            "content": "只要选择好自己的数据配置，它们就会与对方的数据配置展开自动战斗。\n当然，这只是模拟对决的基础规则，要熟悉这个项目，还是直接参与一场对决来得更实在。",
+            "avatarId": "arkvent_char_4106_bryota",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n3_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n3_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "苍苔",
+            "content": "现在，就由我来当你的对手，来进行一次练习对决吧！\n提前说明，我的这些绒绒都是<color=#00ffff>奇术</color>属性，可别用<color=#00ffff>百变</color>属性的生物吓得它们乱跑哦~",
+            "avatarId": "arkvent_char_4106_bryota",
+            "options": [
+              {
+                "content": "来吧",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

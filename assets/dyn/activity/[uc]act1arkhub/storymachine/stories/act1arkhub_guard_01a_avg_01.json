@@ -1,0 +1,312 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.4
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          },
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "p",
+              "offset": {
+                "x": 0,
+                "y": 0.7,
+                "z": 0
+              },
+              "distance": 8,
+              "duration": 0,
+              "ease": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "不安的吉祥物",
+            "content": "你......你好，要和我......和我进行模拟对决吗？\n赢过我的话，我就......就交给你......<color=#00ffff>晦光林地</color>的通行许可。",
+            "avatarId": "arkvent_enemy_10071_ftprg",
+            "options": [
+              {
+                "content": "该用什么和你对决？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide1"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "capture_catch_guide_01",
+                    "op": "EQUALS",
+                    "reference": 0
+                  }
+                },
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "该怎么和你对决？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide2"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "and",
+                  "data": {
+                    "conditions": [
+                      {
+                        "type": "int",
+                        "data": {
+                          "key": "arkdex_battle_guide",
+                          "op": "EQUALS",
+                          "reference": 0
+                        }
+                      },
+                      {
+                        "type": "int",
+                        "data": {
+                          "key": "capture_catch_guide_01",
+                          "op": "NOT_EQUALS",
+                          "reference": 0
+                        }
+                      }
+                    ]
+                  }
+                },
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "之后再说",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o2"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "不安的吉祥物",
+            "content": "还不知道......怎么获取数据？嗯......那最好先去展会入口左手边找找引导员......<color=#00ffff>夏妮</color>。",
+            "avatarId": "arkvent_enemy_10071_ftprg",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide1"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 2.0
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 0.255228877,
+                "y": 0.7,
+                "z": 8.510089
+              },
+              "distance": 8,
+              "duration": 1.0,
+              "ease": "InOutCubic"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide2"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "不安的吉祥物",
+            "content": "不清楚......对决规则？嗯......那最好先去找找<color=#00ffff>对决专员</color>，他就在面前的对决专区。\n不懂规则的话，就没法进行对决，麻烦你去找找他吧。",
+            "avatarId": "arkvent_enemy_10071_ftprg",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide2"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 2.2
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 19.9586124,
+                "y": 2.00909376,
+                "z": 18.47894
+              },
+              "distance": 7,
+              "duration": 1.2,
+              "ease": "InOutCubic"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.6
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          },
+          {
+            "type": "camera_release",
+            "data": {}
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

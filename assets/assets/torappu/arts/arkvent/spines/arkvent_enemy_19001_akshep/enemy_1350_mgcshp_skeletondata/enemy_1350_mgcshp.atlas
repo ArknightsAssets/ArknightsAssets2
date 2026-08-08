@@ -1,0 +1,111 @@
+
+enemy_1350_mgcshp.png
+size: 440,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Blink_1
+  rotate: false
+  xy: 2, 165
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+C_Blink_2
+  rotate: false
+  xy: 68, 10
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+C_Body
+  rotate: false
+  xy: 2, 139
+  size: 308, 264
+  orig: 308, 264
+  offset: 0, 0
+  index: -1
+C_Hair
+  rotate: false
+  xy: 2, 54
+  size: 148, 95
+  orig: 148, 95
+  offset: 0, 0
+  index: -1
+C_Hat
+  rotate: 180
+  xy: 161, 45
+  size: 238, 177
+  orig: 238, 177
+  offset: 0, 0
+  index: -1
+C_Head
+  rotate: false
+  xy: 347, 125
+  size: 90, 116
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+C_L_Ear
+  rotate: false
+  xy: 257, 365
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+C_L_Foot_1
+  rotate: true
+  xy: 228, 14
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+C_L_Foot_2
+  rotate: false
+  xy: 400, 8
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+C_L_Horn
+  rotate: false
+  xy: 140, 3
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+C_R_Ear
+  rotate: false
+  xy: 2, 373
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+C_R_Foot_1
+  rotate: false
+  xy: 395, 243
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+C_R_Foot_2
+  rotate: false
+  xy: 395, 325
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+C_R_Horn
+  rotate: true
+  xy: 2, 6
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+C_Stick
+  rotate: true
+  xy: 312, 239
+  size: 164, 81
+  orig: 164, 81
+  offset: 0, 0
+  index: -1

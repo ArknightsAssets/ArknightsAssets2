@@ -1,0 +1,114 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "“鸭爵？”",
+            "content": "等一下等一下，没有我的命令，你怎么能跑到这里来的？\n哦，你是巡展的游客对吧？不是那个资本家手下的人，那就好。",
+            "avatarId": "arkvent_enemy_2001_duckmi",
+            "options": [
+              {
+                "content": "你是谁？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "“鸭爵？”",
+            "content": "呃，其实我是巡展工作人员，最近有人想要强行开发这片保护区，已经来过好几批人了。\n为了不让这里的生态受到影响，我们只能出此下策，先把时间拖住。还好那些手下都没什么脑子......",
+            "avatarId": "arkvent_enemy_2001_duckmi",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "“鸭爵？”",
+            "content": "不过，要是你也想进核心保护区的话，起码得先进行一次对决。这样除了能证明你确实是游客，还能让你对里面这些原始又充满野性的生物有一些基础的了解。\n怎么样，要来挑战吗？",
+            "avatarId": "arkvent_enemy_2001_duckmi",
+            "options": [
+              {
+                "content": "<color=#00ffff>开始通行挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "你能提供各类<color=#00ffff>道具</color>吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_shop"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_interact"
+              },
+              {
+                "content": "稍后再来",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o2"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

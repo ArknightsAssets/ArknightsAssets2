@@ -1,0 +1,104 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "欢迎来到奇象巡展！\n这里是奇象巡展服务台，可以在此<color=#00ffff>查询各类信息</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "巡展像素活动是什么？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "【巡展像素】是主办方为了能让游客们留下欢乐回忆而设置的纪念画像项目。\n您可以通过<color=#00ffff>巡展数据仪菜单</color>内的<color=#00ffff>画像册按钮</color>打开<color=#00ffff>巡展像素界面</color>，并用内置的绘制仪来创造独属于自己的画作。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "您创作的画像在通过主办方的审核之后，就能设置在展会中<color=#00ffff>进行展示</color>，您也可以与其他游客进行<color=#00ffff>画作交换</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "我了解了",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "unlock_pixel"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

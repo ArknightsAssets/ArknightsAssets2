@@ -1,0 +1,111 @@
+
+enemy_7006_xbcrab.png
+size: 388,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_Body_01
+  rotate: false
+  xy: 202, 232
+  size: 165, 146
+  orig: 167, 148
+  offset: 1, 2
+  index: -1
+C_Body_02
+  rotate: false
+  xy: 2, 108
+  size: 189, 122
+  orig: 193, 124
+  offset: 2, 1
+  index: -1
+C_Body_03
+  rotate: false
+  xy: 2, 232
+  size: 198, 146
+  orig: 200, 148
+  offset: 1, 1
+  index: -1
+C_Head_01
+  rotate: false
+  xy: 2, 40
+  size: 85, 66
+  orig: 87, 68
+  offset: 1, 1
+  index: -1
+C_L_Claw_A_01
+  rotate: true
+  xy: 89, 47
+  size: 59, 75
+  orig: 61, 76
+  offset: 1, 1
+  index: -1
+C_L_Claw_A_02
+  rotate: true
+  xy: 166, 2
+  size: 45, 61
+  orig: 47, 63
+  offset: 1, 1
+  index: -1
+C_L_Claw_B_01
+  rotate: true
+  xy: 193, 49
+  size: 61, 127
+  orig: 67, 129
+  offset: 5, 1
+  index: -1
+C_L_Claw_C_01
+  rotate: false
+  xy: 193, 112
+  size: 84, 118
+  orig: 87, 121
+  offset: 1, 1
+  index: -1
+C_L_Eye_01
+  rotate: false
+  xy: 166, 78
+  size: 20, 28
+  orig: 23, 30
+  offset: 2, 1
+  index: -1
+C_L_Eye_02
+  rotate: false
+  xy: 2, 10
+  size: 20, 28
+  orig: 23, 30
+  offset: 2, 1
+  index: -1
+C_R_Claw_A_01
+  rotate: false
+  xy: 89, 4
+  size: 59, 41
+  orig: 61, 43
+  offset: 1, 1
+  index: -1
+C_R_Claw_A_02
+  rotate: false
+  xy: 322, 34
+  size: 44, 82
+  orig: 46, 84
+  offset: 1, 1
+  index: -1
+C_R_Claw_B_01
+  rotate: false
+  xy: 279, 118
+  size: 81, 112
+  orig: 83, 113
+  offset: 1, 1
+  index: -1
+C_R_Eye_01
+  rotate: false
+  xy: 24, 13
+  size: 17, 25
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+C_R_Eye_02
+  rotate: false
+  xy: 43, 13
+  size: 17, 25
+  orig: 20, 26
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,240 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.4
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          },
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "p",
+              "offset": {
+                "x": 0,
+                "y": 0.7,
+                "z": 0
+              },
+              "distance": 8,
+              "duration": 0,
+              "ease": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "欢迎来到奇象巡展！\n这里是奇象巡展服务台，可以在此<color=#00ffff>查询各类信息</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "模拟对决是什么？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "巡展服务终端",
+            "content": "【奇象拟合】可使用已获取的生物数据进行<color=#00ffff>模拟对决</color>，主广场右侧设置了奇象拟合专区。\n如果想了解更多关于模拟对决的信息，可移步专区附近咨询<color=#00ffff>对决专员</color>。",
+            "avatarId": "arkvent_001_terminal",
+            "options": [
+              {
+                "content": "我了解了",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 1.7
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": 19.9586124,
+                "y": 2.00909376,
+                "z": 16.47894
+              },
+              "distance": 14,
+              "duration": 1.2,
+              "ease": "InOutCubic"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "NO_AVATAR",
+            "name": "",
+            "content": "可在此处咨询对决专员",
+            "avatarId": "",
+            "options": []
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.6
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000",
+              "delay": 0
+            }
+          },
+          {
+            "type": "camera_release",
+            "data": {}
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}

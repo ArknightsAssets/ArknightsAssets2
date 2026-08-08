@@ -1,0 +1,141 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "近海护林员",
+            "content": "嗯，看起来你对整个探索规则已经很熟悉了，符合准许进入的条件。\n稍等，我会帮你开放<color=#00ffff>近海密林</color>区域的通行权限，这样你就可以合规进入了。",
+            "avatarId": "arkvent_enemy_10049_pcaptn_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "近海护林员",
+            "content": "注意，任何对生态系统的破坏行为都会导致你被立即取消权限，请一定记得不要在区域中伤害生物或破坏环境。\n希望你在区域中探索顺利，敬礼。",
+            "avatarId": "arkvent_enemy_10049_pcaptn_2",
+            "options": [
+              {
+                "content": "能说明一下这片区域的独特性吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "我想和你再对决一次",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "好的，我会注意的",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o2"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "近海护林员",
+            "content": "这片区域是近海密林最靠近内陆的林区，在独有的气候条件下，这里更容易出现别处难以寻找到的<color=#00ffff>稀有生物</color>。",
+            "avatarId": "arkvent_enemy_10049_pcaptn_2",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n2_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "近海护林员",
+            "content": "从另一个角度讲，这些稀有生物也很难在其他林区生存，因此才要额外对这片栖息地进行保护。\n你明白了吗？",
+            "avatarId": "arkvent_enemy_10049_pcaptn_2",
+            "options": [
+              {
+                "content": "明白了，感谢你的说明",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n3_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

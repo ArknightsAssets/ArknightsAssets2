@@ -1,0 +1,94 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "不安的吉祥物",
+            "content": "你......你好，要和我......和我进行模拟对决吗？\n赢过我的话，我就......就交给你......<color=#00ffff>晦光林地</color>的通行许可。",
+            "avatarId": "arkvent_enemy_10071_ftprg",
+            "options": [
+              {
+                "content": "<color=#00ffff>挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "之后再说",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "不安的吉祥物",
+            "content": "似乎......你已经准备好了，唔唔，看起来比我有自信。\n那......要是你能在对决中胜出，我会给你<color=#00ffff>晦光林地</color>的通行许可。\n顺便一提，我喜欢那些依靠本能行动的生物，不过它们都很害怕会使用奇术的生物，请不要欺负它们......",
+            "avatarId": "arkvent_enemy_10071_ftprg",
+            "options": [
+              {
+                "content": "<color=#00ffff>开始挑战</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "我又想了想，之后再来对决吧",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

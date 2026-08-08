@@ -1,0 +1,96 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "区域指示牌一号",
+            "content": "前方区域：密林外沿，区域内有<color=#00ffff>奇术属性的奇象生物</color>活动。",
+            "avatarId": "arkvent_002_portal",
+            "options": [
+              {
+                "content": "前往（暂不可用）",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "capture_catch_guide_01",
+                    "op": "EQUALS",
+                    "reference": 0
+                  }
+                },
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "<color=#00ffff>前往</color>",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "teleport"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "capture_catch_guide_01",
+                    "op": "NOT_EQUALS",
+                    "reference": 0
+                  }
+                },
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "暂不前往",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o2"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "区域指示牌一号",
+            "content": "前往探索区域之前，请向展会入口左手边的<color=#00ffff>巡展引导员</color>咨询基本探索流程信息。",
+            "avatarId": "arkvent_002_portal",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

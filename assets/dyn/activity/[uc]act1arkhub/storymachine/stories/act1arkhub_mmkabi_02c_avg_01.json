@@ -1,0 +1,138 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "哦，你好呀，探索还顺利吗，看到什么奇妙的生物了吗？",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "options": [
+              {
+                "content": "能再和你对决一次吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "能再讲讲探索相关的须知吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "你能提供各类<color=#00ffff>道具</color>吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_shop"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_interact"
+              },
+              {
+                "content": "离开",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o3"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "哦？想挑战我？当然可以，不过先说好，我的生物数据收集可是齐全得很，可别怪我手下不留情。\n正式开始对决之前，还是劝你多去收集一些生物数据再来哦！",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "options": [
+              {
+                "content": "我有自信能战胜你，开始吧！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "battle"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "有道理，我再准备一下",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "行，这是引导手册，再多确认下探索相关的内容吧！",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

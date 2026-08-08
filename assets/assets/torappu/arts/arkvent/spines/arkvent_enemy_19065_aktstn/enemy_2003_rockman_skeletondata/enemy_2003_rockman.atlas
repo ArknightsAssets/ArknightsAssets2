@@ -1,0 +1,139 @@
+
+enemy_2003_rockman.png
+size: 600,600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chest
+  rotate: false
+  xy: 2, 339
+  size: 225, 238
+  orig: 225, 238
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 336, 113
+  size: 154, 167
+  orig: 154, 167
+  offset: 0, 0
+  index: -1
+Hip
+  rotate: 270
+  xy: 461, 204
+  size: 142, 136
+  orig: 142, 136
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 2, 50
+  size: 136, 185
+  orig: 138, 186
+  offset: 1, 1
+  index: -1
+L_Calf
+  rotate: true
+  xy: 73, 9
+  size: 39, 50
+  orig: 41, 52
+  offset: 1, 1
+  index: -1
+L_Finger
+  rotate: true
+  xy: 2, 3
+  size: 45, 69
+  orig: 48, 73
+  offset: 1, 2
+  index: -1
+L_Foot
+  rotate: false
+  xy: 189, 11
+  size: 83, 45
+  orig: 85, 47
+  offset: 1, 1
+  index: -1
+L_Forearm
+  rotate: true
+  xy: 466, 29
+  size: 114, 120
+  orig: 116, 121
+  offset: 1, 1
+  index: -1
+L_Hand
+  rotate: false
+  xy: 363, 457
+  size: 127, 120
+  orig: 129, 121
+  offset: 1, 1
+  index: -1
+L_Hand_Grab
+  rotate: false
+  xy: 229, 434
+  size: 132, 143
+  orig: 134, 145
+  offset: 1, 1
+  index: -1
+L_Leg
+  rotate: false
+  xy: 480, 369
+  size: 83, 86
+  orig: 85, 88
+  offset: 1, 1
+  index: -1
+R_Arm
+  rotate: true
+  xy: 2, 188
+  size: 149, 184
+  orig: 151, 185
+  offset: 1, 1
+  index: -1
+R_Calf
+  rotate: false
+  xy: 344, 265
+  size: 46, 51
+  orig: 48, 52
+  offset: 1, 1
+  index: -1
+R_Foot
+  rotate: false
+  xy: 216, 369
+  size: 86, 44
+  orig: 88, 46
+  offset: 1, 1
+  index: -1
+R_Forearm
+  rotate: true
+  xy: 336, 4
+  size: 107, 128
+  orig: 109, 131
+  offset: 1, 2
+  index: -1
+R_Hand
+  rotate: false
+  xy: 344, 318
+  size: 134, 114
+  orig: 136, 116
+  offset: 1, 1
+  index: -1
+R_Hand_Grab
+  rotate: false
+  xy: 189, 58
+  size: 145, 145
+  orig: 147, 148
+  offset: 1, 2
+  index: -1
+R_Leg
+  rotate: false
+  xy: 492, 483
+  size: 73, 94
+  orig: 75, 97
+  offset: 1, 2
+  index: -1
+Rock
+  rotate: true
+  xy: 188, 205
+  size: 162, 154
+  orig: 162, 154
+  offset: 0, 0
+  index: -1

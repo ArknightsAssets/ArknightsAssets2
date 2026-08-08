@@ -92,6 +92,14 @@
       }
     },
     "TEMPLATE_SHOP": {
+      "title_shop_act1arkhub": {
+        "resPath": "Activity/[UC]act1arkhub/Prefabs/act1arkhub_template_shop",
+        "activity": "act1arkhub"
+      },
+      "templateshop_shop_act1arkhub": {
+        "resPath": "Activity/[UC]act1arkhub/Prefabs/act1arkhub_template_shop",
+        "activity": "act1arkhub"
+      },
       "templateshop_shop_act43sre": {
         "resPath": "Activity/[UC]act43sre/Prefabs/act43sre_template_shop",
         "activity": "act43sre"
@@ -134,6 +142,14 @@
       "act43sre_custom_mission_view_holder": {
         "resPath": "Activity/[UC]act43sre/Prefabs/act43sre_mission_view_holder",
         "activity": "act43sre"
+      },
+      "act1arkhub_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act1arkhub/Prefabs/act1arkhub_mission_view_holder",
+        "activity": "act1arkhub"
+      },
+      "act1arkhub_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act1arkhub/Prefabs/act1arkhub_mission_view_holder",
+        "activity": "act1arkhub"
       },
       "act53side_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act53side/Prefabs/act53side_mission_view_holder",

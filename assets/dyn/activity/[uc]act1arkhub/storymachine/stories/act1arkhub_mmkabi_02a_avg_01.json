@@ -1,0 +1,80 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "哦，你好呀，探索还顺利吗，看到什么奇妙的生物了吗？",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "options": [
+              {
+                "content": "能再讲讲探索相关的须知吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_guide"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              },
+              {
+                "content": "你能提供各类<color=#00ffff>道具</color>吗？",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "open_shop"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_interact"
+              },
+              {
+                "content": "离开",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o2"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "open_guide"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "奇象收集师",
+            "content": "行，这是引导手册，再多确认下探索相关的内容吧！",
+            "avatarId": "arkvent_enemy_1415_mmkabi_2",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [],
+    "blackoutOnFinish": false
+  }
+}

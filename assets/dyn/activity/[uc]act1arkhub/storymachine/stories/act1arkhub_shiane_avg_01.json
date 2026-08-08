@@ -1,0 +1,485 @@
+{
+  "type": "linear",
+  "data": {
+    "paras": [
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.4
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000"
+            }
+          },
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "p",
+              "offset": {
+                "x": 0,
+                "y": 0.7,
+                "z": 0
+              },
+              "distance": 8,
+              "duration": 0,
+              "ease": "Unset"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "你好，欢迎参加我们的奇象巡展！我是巡展引导员<color=#00ffff>夏妮</color>。\n有什么需要我帮忙的吗？",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "我从服务终端那里听说了巡展的玩法......",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "capture_guide"
+                    }
+                  }
+                ],
+                "condition": {
+                  "type": "int",
+                  "data": {
+                    "key": "terminal_guide",
+                    "op": "EQUALS",
+                    "reference": 1
+                  }
+                },
+                "iconId": "icon_option_exclamation_mark"
+              },
+              {
+                "content": "暂时没什么",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n0_o1"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "capture_guide"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "看来你已经知道奇象巡展的玩法了，那接下来，就让我来说明奇象寻迹，也就是生物数据扫描的游玩流程吧！\n这一次的巡展场地设置在汐斯塔的近海林地附近，这里有着许多奇妙而独特的生物。\n我们需要做的，就是用这个<color=#00ffff>生物扫描仪</color>扫描它们，之后就可以<color=#00ffff>储存生物数据</color>。",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n1_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o1"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "好的，那祝你在巡展上玩得开心，有问题欢迎随时回来找我！",
+            "avatarId": "arkvent_char_700_shiane",
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o1"
+          }
+        },
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o1"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.6
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000"
+            }
+          },
+          {
+            "type": "camera_release",
+            "data": {}
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n0_o1"
+          }
+        },
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n1_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "有了储存的数据，你就可以将这些有趣的生物用<color=#00ffff>投影</color>的形式带在身边，向展会上的其他游客展示了！\n而且，你还能用这些数据参加奇象拟合的<color=#00ffff>对决</color>，这也是巡展的一大乐趣！",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n2_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n2_o0"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 1.0
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_position",
+            "data": {
+              "position": {
+                "x": -1.8876909017562866,
+                "y": 1.2,
+                "z": 8.0727624893188477
+              },
+              "distance": 7,
+              "duration": 1.0,
+              "ease": "InOutCubic"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n2_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "在主广场里可以找到这种<color=#00ffff>探索区域指示牌</color>，通过它们可以找到去野外探索区的路。\n展会周边的近海林地中有几个区域，每个区域的生态和生物群系各有不同，探索的时候可以多多注意一下~",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "继续",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n3_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n3_o0"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 1.0
+          }
+        },
+        "subLines": [
+          {
+            "type": "camera_focus_unit",
+            "data": {
+              "id": "p",
+              "offset": {
+                "x": 0,
+                "y": 0.7,
+                "z": 0
+              },
+              "distance": 8,
+              "duration": 1.0,
+              "ease": "InOutCubic"
+            }
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n3_o0"
+          }
+        },
+        "leadLine": {
+          "type": "dialog",
+          "data": {
+            "style": "LEFT_AVATAR",
+            "name": "夏妮",
+            "content": "事不宜迟，我们这就一起去最近的探索区域看一看吧。\n准备好了吗？",
+            "avatarId": "arkvent_char_700_shiane",
+            "options": [
+              {
+                "content": "准备好了，随时可以出发！",
+                "assignments": [
+                  {
+                    "type": "flag",
+                    "data": {
+                      "key": "n4_o0"
+                    }
+                  }
+                ],
+                "iconId": "icon_option_talk"
+              }
+            ],
+            "avatarSource": "ACTIVITY"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n4_o0"
+          }
+        },
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0.3,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0,
+            "outEase": "InOutSine"
+          }
+        }
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n4_o0"
+          }
+        },
+        "leadLine": {
+          "type": "wait",
+          "data": {
+            "duration": 0.6
+          }
+        },
+        "subLines": [
+          {
+            "type": "curtain_stay",
+            "data": {
+              "color": "#000000"
+            }
+          },
+          {
+            "type": "camera_release",
+            "data": {}
+          }
+        ]
+      },
+      {
+        "depth": 1,
+        "condition": {
+          "type": "exist",
+          "data": {
+            "Type": "exist",
+            "key": "n4_o0"
+          }
+        },
+        "leadLine": {
+          "type": "curtain",
+          "data": {
+            "color": "#000000",
+            "delay": 0,
+            "inDuration": 0,
+            "inEase": "InOutSine",
+            "stayDuration": 0,
+            "outDuration": 0.3,
+            "outEase": "InOutSine"
+          }
+        }
+      }
+    ],
+    "unitDeclarations": [
+      {
+        "id": "p",
+        "isPlayer": true
+      }
+    ],
+    "blackoutOnFinish": false
+  }
+}
