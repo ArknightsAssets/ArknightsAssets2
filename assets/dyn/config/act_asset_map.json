@@ -55,6 +55,18 @@
         "resPath": "Activity/[UC]act53side/ZoneMaps/zone_map_act53side_zone1",
         "activity": "act53side"
       },
+      "act44sre_zone1": {
+        "resPath": "Activity/[UC]act44sre/ZoneMaps/zone_map_act44sre_zone1",
+        "activity": "act44sre"
+      },
+      "act44sre_zone2": {
+        "resPath": "Activity/[UC]act44sre/ZoneMaps/zone_map_act44sre_zone2",
+        "activity": "act44sre"
+      },
+      "act44sre_zone3": {
+        "resPath": "Activity/[UC]act44sre/ZoneMaps/zone_map_act44sre_zone3",
+        "activity": "act44sre"
+      },
       "act53side_zone3": {
         "resPath": "Activity/[UC]act53side/ZoneMaps/zone_map_act53side_zone3",
         "activity": "act53side"
@@ -108,6 +120,14 @@
         "resPath": "Activity/[UC]act43sre/Prefabs/act43sre_template_shop",
         "activity": "act43sre"
       },
+      "templateshop_shop_act44sre": {
+        "resPath": "Activity/[UC]act44sre/Prefabs/act44sre_template_shop",
+        "activity": "act44sre"
+      },
+      "title_shop_act44sre": {
+        "resPath": "Activity/[UC]act44sre/Prefabs/act44sre_template_shop",
+        "activity": "act44sre"
+      },
       "templateshop_shop_act53side": {
         "resPath": "Activity/[UC]act53side/Prefabs/act53side_template_shop",
         "activity": "act53side"
@@ -150,6 +170,14 @@
       "act1arkhub_custom_mission_view_holder": {
         "resPath": "Activity/[UC]act1arkhub/Prefabs/act1arkhub_mission_view_holder",
         "activity": "act1arkhub"
+      },
+      "act44sre_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act44sre/Prefabs/act44sre_mission_view_holder",
+        "activity": "act44sre"
+      },
+      "act44sre_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act44sre/Prefabs/act44sre_mission_view_holder",
+        "activity": "act44sre"
       },
       "act53side_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act53side/Prefabs/act53side_mission_view_holder",
