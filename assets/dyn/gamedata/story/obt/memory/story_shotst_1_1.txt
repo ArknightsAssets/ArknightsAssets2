@@ -12,14 +12,14 @@
 [Character(name="avg_126_shotst_1",fadetime=1,block=true)]
 [Delay(time=1)]
 [name="流星"]  雨怎么下得这么大，好冷，把供暖打开吧。
-[name="流星"]  嗯......是怎么调温来着？是这样吗？这个圆形的东西，往这边扭......
+[name="流星"]  嗯……是怎么调温来着？是这样吗？这个圆形的东西，往这边扭……
 [characteraction(name="middle", type="move", xpos=-100, ypos=0,fadetime=0.6, block=true)]
 [delay(time=1.1)]
 [dialog]
 [characteraction(name="middle", type="move", xpos=100, ypos=0,fadetime=1, block=true)]
 [delay(time=1.5)]
 [name="流星"]  应该可以了吧？唉，这种电子设备真的玩不转啊，要是能有个壁炉该多好。
-[name="流星"]  呼，都这个点了......也不知道米纳她什么时候能下班。医疗干员还真是辛苦，明明一个宿舍，却一整天都见不到几面。
+[name="流星"]  呼，都这个点了……也不知道米纳她什么时候能下班。医疗干员还真是辛苦，明明一个宿舍，却一整天都见不到几面。
 [dialog]
 [character]
 [PlaySound(key="$phonevibration",volume=0.6)]
@@ -37,7 +37,7 @@
 [Character(name="char_empty",name2="avg_126_shotst_1",focus=1)]
 [name="医疗干员"]  不是的不是的，流星，是雷声吓到她了。哎呀，你先别着急，我带着她过去找你吧？
 [Character(name="char_empty",name2="avg_126_shotst_1",focus=2)]
-[name="流星"]  那......也好，米纳，我先和吉安娜说几句。
+[name="流星"]  那……也好，米纳，我先和吉安娜说几句。
 [Character(name="char_empty",name2="avg_126_shotst_1",focus=1)]
 [name="医疗干员"]  没问题。吉安娜，是流星姐姐要和你说话呢，来听哦。
 [dialog]
@@ -51,7 +51,7 @@
 [name="医疗干员"]  乖，吉安娜，不哭了，我们现在去找流星姐姐。
 [dialog]
 [CharacterCutin(widgetID="1", name="avg_npc_045", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=-300, width=200, block=true)]
-[name="吉安娜"]  呜呜呜......米纳姐姐，我，我坚强......我不哭了。
+[name="吉安娜"]  呜呜呜……米纳姐姐，我，我坚强……我不哭了。
 [dialog]
 [CharacterCutin(widgetID="1", name="char_016_medic", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=-300, width=200, block=true)]
 [name="医疗干员"]  没事了，我们一会儿就能到了。
@@ -87,20 +87,20 @@
 [playMusic(intro="$loneliness_intro", key="$loneliness_loop", volume=0.4)]
 [Character(name="char_016_medic")]
 [name="医疗干员"]  流星，麻烦你这段时间暂时帮我照顾下这女孩了，拜托！
-[name="医疗干员"]  这孩子是我们在废墟里发现的，她的家人用身体挡住了掉下的天花板，才救下她的性命。现在......唉，就只剩她一个人了。
+[name="医疗干员"]  这孩子是我们在废墟里发现的，她的家人用身体挡住了掉下的天花板，才救下她的性命。现在……唉，就只剩她一个人了。
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=1)]
-[name="流星"]  唉，这当然没问题。只是......为什么找我帮忙，医疗部有很多更专业的看护员啊。
+[name="流星"]  唉，这当然没问题。只是……为什么找我帮忙，医疗部有很多更专业的看护员啊。
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=2)]
 [name="医疗干员"]  其实，医疗部最近一直是超负荷工作的状态，讲起来很惭愧，人手实在是不够了，所以只好麻烦你了。
 [name="医疗干员"]  啊，对了，让我找找。
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=1)]
-[name="流星"]  ......这是......
+[name="流星"]  ……这是……
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=2)]
 [name="医疗干员"]  是这孩子的病情诊断书，医疗部的心理医师建议最好有个人能够经常陪伴她，但我却不能时时刻刻在她的身边，唉。
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=1)]
 [name="流星"]  是这样吗。你平时忙碌的时候，就让我来陪陪她吧，正好最近也没有什么工作。
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=2)]
-[name="医疗干员"]  拜托你了，流星，她年纪那么小，一时或许还很难面对失去亲人的痛苦......多了你的陪伴，相信她能更快走出来。
+[name="医疗干员"]  拜托你了，流星，她年纪那么小，一时或许还很难面对失去亲人的痛苦……多了你的陪伴，相信她能更快走出来。
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=1)]
 [name="流星"]  你是在夸我么，嗯，谢谢你了。不过话说回来，那女孩现在在哪里？可以见见吗？
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=2)]
@@ -119,12 +119,12 @@
 [name="医疗干员"]  嗯嗯。
 [name="医疗干员"]  吉安娜，有没有乖乖吃药？今天有人来看你哦。
 [Character(name="avg_npc_045")]
-[name="小女孩"]  我今天有很乖的，米纳姐姐......你身后的那个人是......
-[name="小女孩"]  大姐姐，你是......？
+[name="小女孩"]  我今天有很乖的，米纳姐姐……你身后的那个人是……
+[name="小女孩"]  大姐姐，你是……？
 [Character(name="avg_126_shotst_1", name2="char_016_medic", focus=2)]
 [name="医疗干员"]  吉安娜，这是流星姐姐，之后她会同我一起来照顾你。你不要害怕，这个姐姐又耐心又温柔，你会喜欢的。
 [Character(name="avg_npc_045")]
-[name="小女孩"]  米纳姐姐，呜，我......没事的，我也知道米纳姐姐你很忙的，我会很乖，你放心。
+[name="小女孩"]  米纳姐姐，呜，我……没事的，我也知道米纳姐姐你很忙的，我会很乖，你放心。
 [Character(name="char_016_medic")]
 [name="医疗干员"]  唉，吉安娜，你真是懂事得让人心疼。
 [name="医疗干员"]  流星，我手头还有急事，先走了，这地方留给你们了。一会儿忙完就回来找你们。
@@ -137,26 +137,26 @@
 [Dialog]
 [Character]
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  姐姐......你、你好，我叫吉安娜，我六岁了！
+[name="小女孩"]  姐姐……你、你好，我叫吉安娜，我六岁了！
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
-[name="流星"]  呃，小姑娘，我......
+[name="流星"]  呃，小姑娘，我……
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  我、我在这里有好好吃药，也没有挑食，还、还学会了折玫瑰花。你喜欢玫瑰花吗？都......都送给你。
+[name="小女孩"]  我、我在这里有好好吃药，也没有挑食，还、还学会了折玫瑰花。你喜欢玫瑰花吗？都……都送给你。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  呼——嗯咳，吉安娜对吗？你好，我是流星，不过你叫我流星姐姐也是可以的。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  ......
-[name="小女孩"]  ......流星姐姐？
-[name="小女孩"]  其实我知道......你常来找米纳姐姐......我见过你，你说话的语气很温柔......我......
+[name="小女孩"]  ……
+[name="小女孩"]  ……流星姐姐？
+[name="小女孩"]  其实我知道……你常来找米纳姐姐……我见过你，你说话的语气很温柔……我……
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  如果你不介意，就把我当作你的姐姐吧，我一直很想有个妹妹呢。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  我......真的可以吗？
+[name="小女孩"]  我……真的可以吗？
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  当然可以了。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  呜呜......
-[name="小女孩"]  流星姐姐，我......呜呜......
+[name="小女孩"]  呜呜……
+[name="小女孩"]  流星姐姐，我……呜呜……
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  怎么了？没事的，什么都可以和姐姐说的。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
@@ -164,15 +164,15 @@
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  这样啊，你有告诉米纳吗？她有没有帮你找一找。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  米纳姐姐好忙的，我不可以......不可以麻烦她的。
+[name="小女孩"]  米纳姐姐好忙的，我不可以……不可以麻烦她的。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  没关系的，或者姐姐去别的地方再找找。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  我不想找了，不找了，姐姐你别走，求你......求你，别留我一个人。
+[name="小女孩"]  我不想找了，不找了，姐姐你别走，求你……求你，别留我一个人。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  我不走，别害怕。那姐姐带你去再买一个。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="小女孩"]  呜......我不要新娃娃，我只想姐姐，姐......姐你陪陪我，我不想一个人。
+[name="小女孩"]  呜……我不要新娃娃，我只想姐姐，姐……姐你陪陪我，我不想一个人。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  别担心，我不走，我陪着你。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
@@ -212,7 +212,7 @@
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  是打雷声吗？真是个坏蛋，我们明天去找博士批评它。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="吉安娜"]  嗯嗯，呜呜呜......
+[name="吉安娜"]  嗯嗯，呜呜呜……
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  你们快进来。
 [Character(name="char_016_medic")]
@@ -224,13 +224,13 @@
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  来吧，吉安娜，和米纳姐姐说再见。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="吉安娜"]  呜呜呜......米拉姐姐再见。
+[name="吉安娜"]  呜呜呜……米拉姐姐再见。
 [Character(name="char_016_medic")]
 [name="医疗干员"]  是米纳不是米拉啊，吉安娜！算了，得赶紧回去了，晚安啦，流星。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  晚安，明天见。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="吉安娜"]  呜呜呜，明......明天见。
+[name="吉安娜"]  呜呜呜，明……明天见。
 [Dialog]
 [Character(name="char_016_medic")]
 [Delay(time=0.8)]
@@ -240,7 +240,7 @@
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  吉安娜，不要把鼻涕蹭在我的睡衣上哦。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="吉安娜"]  才不会......呲溜。
+[name="吉安娜"]  才不会……呲溜。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  你知道吗？我可以帮你拿纸的。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
@@ -266,10 +266,10 @@
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  听完后要乖乖睡觉，不再害怕打雷吗？
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
-[name="吉安娜"]  嗯......
-[name="吉安娜"]  ......流星姐姐，其实我，我是因为那天，那天也像今天这样，爸爸，妈妈和姐姐都越来越冷，我、我才害怕。
+[name="吉安娜"]  嗯……
+[name="吉安娜"]  ……流星姐姐，其实我，我是因为那天，那天也像今天这样，爸爸，妈妈和姐姐都越来越冷，我、我才害怕。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
-[name="流星"]  ......原来吉安娜是因为那些过去的事情才害怕打雷的吗？
+[name="流星"]  ……原来吉安娜是因为那些过去的事情才害怕打雷的吗？
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
 [name="吉安娜"]  呜，我还是做不到像流星姐姐那样坚强。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
@@ -289,7 +289,7 @@
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
 [name="吉安娜"]  有什么？
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
-[name="流星"]  有一位小猎手在瑟瑟发抖......
+[name="流星"]  有一位小猎手在瑟瑟发抖……
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
 [name="吉安娜"]  就像我一样，我正在流星姐姐的被子里发抖。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
@@ -315,7 +315,7 @@
 [name="吉安娜"]  好可怕。
 [name="流星"]  不，更可怕的是，一只野兽，狡猾且庞大，它正循着丝丝微弱的气味寻找小猎手的踪迹。
 [name="流星"]  它把鼻子拱进湿漉漉的泥土，蹭过粗糙的树皮。草丛、沼泽、溪畔，每一寸地方它都不会放过。
-[name="流星"]  终于在一棵枯树下，它嗅到了......它找到了......一只小脚丫——！
+[name="流星"]  终于在一棵枯树下，它嗅到了……它找到了……一只小脚丫——！
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [Background(image="bg_room_2",screenadapt="coverall")]
@@ -379,7 +379,7 @@
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
 [name="吉安娜"]  嗯，是很难受的，还会掉眼泪，但是胸口烫烫的，很温暖。之前没有流星姐姐的时候，都是那些回忆陪我的。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
-[name="流星"]  嗯呃......是、是这样吗？看来......看来你的小野兽并不是想吃掉你呢，哈哈。
+[name="流星"]  嗯呃……是、是这样吗？看来……看来你的小野兽并不是想吃掉你呢，哈哈。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
 [name="吉安娜"]  我觉得流星姐姐故事里的野兽也不想啊呜吃掉小猎手呀。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
@@ -393,7 +393,7 @@
 [name="吉安娜"]  或许它就是觉得这段路不好走，这个孤独的女孩需要一位同伴。
 [name="吉安娜"]  所以，不要杀掉它，拜托了，流星姐姐，不要。
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
-[name="流星"]  ......
+[name="流星"]  ……
 [delay(time=1)]
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
 [CameraShake(duration=0.2, xstrength=10, ystrength=10, vibrato=20, randomness=50, fadeout=true, block=false)]
@@ -414,7 +414,7 @@
 [name="吉安娜"]  （流星姐姐说的，有点懂了，但又感觉没懂。）
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=1)]
 [name="流星"]  （深呼吸）
-[name="流星"]  吉安娜，我......我想到了一个新的结局，要听吗?
+[name="流星"]  吉安娜，我……我想到了一个新的结局，要听吗?
 [Character(name="avg_126_shotst_1", name2="avg_npc_045", focus=2)]
 [CameraShake(duration=0.2, xstrength=10, ystrength=10, vibrato=20, randomness=50, fadeout=true, block=false)]
 [name="吉安娜"]  要的！
@@ -442,17 +442,17 @@
 [Background(image="bg_room_2",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_126_shotst_1", focus=-1)]
-[name="吉安娜"]  呼——哈啊——流星姐......姐，困了。
+[name="吉安娜"]  呼——哈啊——流星姐……姐，困了。
 [name="吉安娜"]  呼——呼——
 [Character(name="avg_126_shotst_1")]
 [name="流星"]  睡着了吗？
 [Character(name="avg_126_shotst_1", focus=-1)]
-[name="吉安娜"]  呼——呼......
+[name="吉安娜"]  呼——呼……
 [Character(name="avg_126_shotst_1")]
 [name="流星"]  米纳这个傻瓜。
 [name="流星"]  她还以为你不够坚强，其实吉安娜你早就知道怎么面对那些事了，对不对？
 [name="流星"]  （亲吻）不过谢谢你，吉安娜。
-[name="流星"]  谢谢......
+[name="流星"]  谢谢……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

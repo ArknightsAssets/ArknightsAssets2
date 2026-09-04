@@ -7,7 +7,7 @@
 [Background(image="60_g8_rhodeslowerdeck_origin",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-已选择“怀旧金曲”......
+已选择“怀旧金曲”……
 [PlaySound(key="$d_avg_filmprojection")]
 [playsound(key="$d_avg_filmprojection_loop", loop=true, channel="bgs",delay=0.5)]
 恢复上次播放进度——
@@ -19,7 +19,7 @@
 吹散了山丘前的樱花——♪
 [dialog]
 [charslot(slot="m", name="avg_017_huang_1#7$2")]
-[name="煌"]......？！
+[name="煌"]……？！
 [name="煌"]Friston-3，现在不是唱歌的时候！
 [charslot(slot="m", name="avg_4093_frston_1#4$1")]
 [name="Friston-3"]你以为我想吗？！
@@ -70,7 +70,7 @@
 [delay(time=0.7)]
 [charslot(slot = "m", posfrom="50,0", posto="0,0", afrom=1, ato=1, duration=0.3)]
 [delay(time=0.5)]
-[name="异常的THRM-EX"]炽，炽热——Boom......mmmmmmmmm——
+[name="异常的THRM-EX"]炽，炽热——Boom……mmmmmmmmm——
 [dialog]
 [charslot]
 ——不管是谁~♪
@@ -88,7 +88,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [name="煌"]哈哈，那我们就比比谁的燃烧更火热一些，THRM-EX！
 [charslot(slot="m", name="avg_391_rosmon_1#4$2")]
-[name="迷迭香"]啊......不要真伤害到小车们——
+[name="迷迭香"]啊……不要真伤害到小车们——
 [charslot(slot="m", name="avg_017_huang_1#1$2")]
 [name="煌"]我当然有数！
 [charslot(slot="m", name="avg_286_cast3_1$1")]
@@ -124,8 +124,8 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [charslot(slot="m", name="avg_4093_frston_1#2$1", posfrom="-300,50", posto="30,-15", duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m", name="avg_4093_frston_1#2$1", posfrom="30,-15", posto="0,0", afrom=1, ato=1,duration=0.5)]
-[name="Friston-3"]（哈，真是好久......没有这样活动了。）
-[name="Friston-3"]（你大肆夸耀的同频传输系统最好有效，可露希尔......）
+[name="Friston-3"]（哈，真是好久……没有这样活动了。）
+[name="Friston-3"]（你大肆夸耀的同频传输系统最好有效，可露希尔……）
 [charslot(slot="m", name="avg_4093_frston_1#1$1")]
 [name="Friston-3"]两位，把这几辆昏了头的车引到特定的轨道上来，然后控制住他们，我会让他们恢复正常！
 ——献给你~♪
@@ -142,14 +142,14 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 空旷的沙漠中依旧隐隐回荡着刚刚的歌声。
 ——献给你~♪
 这份我一直深藏在心中的爱——♪
-[name="特雷弗·弗里斯顿"]......
+[name="特雷弗·弗里斯顿"]……
 毫无疑问，播放组件故障了，可露希尔最爱的煽情音乐开始一遍又一遍地播放，好像这是一个多么催人泪下的场合。
 而他要在此时，向几辆连自主意识都没有的智能小车，分享那场注定离别的梦境，分享自己作为人的，最深藏的回忆。
 特雷弗·弗里斯顿有点想要破口大骂。
 [dialog]
 [musicvolume(volume=0.2, fadetime=2)]
 [charslot(slot="m", name="char_285_medic2_1", duration=0.5, isblock=true)]
-[name="Lancet-2"]......这里是什么地方——刚刚我们好像被关在一个、关在一个......呃......
+[name="Lancet-2"]……这里是什么地方——刚刚我们好像被关在一个、关在一个……呃……
 [name="Lancet-2"]怎么会什么都记不起来——
 [charslot(slot="m", name="avg_4000_jnight_1#1")]
 [name="“正义骑士号”"]“滴滴”，发现异常目标！
@@ -161,11 +161,11 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [charslot(slot="m", name="avg_286_cast3_1$1")]
 [PlaySound(key="$d_avg_microrobot", volume=1)]
 [delay(time=2)]
-[name="Castle-3"]这个语气......你、你是Friston-3！
+[name="Castle-3"]这个语气……你、你是Friston-3！
 [name="Castle-3"]但是Friston-3可没有你这么高。
 [charslot(slot="m", name="char_376_therex_1")]
 [name="THRM-EX"]不，他就是Friston-3！我能从他身上感受到熟悉的温度——
-[name="THRM-EX"]温度......我怎么没法感受自己的温度了——
+[name="THRM-EX"]温度……我怎么没法感受自己的温度了——
 [charslot]
 [name="特雷弗·弗里斯顿"]唉，头疼。
 [dialog]
@@ -174,7 +174,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [delay(time=2)]
 [name="Friston-3"]这样或许你们能够更好受些。
 [charslot(slot="m", name="char_285_medic2_1")]
-[name="Lancet-2"]......
+[name="Lancet-2"]……
 [name="Lancet-2"]这里是哪里？
 [charslot(slot="m", name="avg_4093_frston_1#5$1")]
 [name="Friston-3"]我的梦，一个对我来说同样是惊喜的梦。
@@ -184,24 +184,24 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [charslot(slot="m", name="avg_4000_jnight_1#1")]
 [name="“正义骑士号”"]听不懂，“滴滴”。
 [charslot(slot="m", name="avg_4093_frston_1#4$1")]
-[name="Friston-3"]......
+[name="Friston-3"]……
 [charslot(slot="m", name="avg_4093_frston_1#1$1")]
 [name="Friston-3"]简单来说，我正用自己的核心代码覆写你们的底层代码。当然，我会保证你们的记忆模块完全照旧。
 [name="Friston-3"]这会花上点时间，为了让你们在这期间能够安分一会儿，我不得不把你们的思维模组暂时与我的相连接。
-[name="Friston-3"]副作用就是......*未知语言粗口*，我会情不自禁地分享我的梦。
+[name="Friston-3"]副作用就是……*未知语言粗口*，我会情不自禁地分享我的梦。
 [charslot(slot="m", name="char_285_medic2_1")]
 [name="Lancet-2"]到底发生了什么，Friston-3？
 [charslot(slot="m", name="avg_4093_frston_1#1$1")]
 [name="Friston-3"]我的一位故人快从长眠中苏醒了。
 [charslot(slot="m", name="char_285_medic2_1")]
-[name="Lancet-2"]......
+[name="Lancet-2"]……
 [charslot(slot="m", name="char_376_therex_1")]
-[name="THRM-EX"]......
+[name="THRM-EX"]……
 [charslot(slot="m", name="avg_286_cast3_1$1")]
-[name="Castle-3"]......
+[name="Castle-3"]……
 [charslot(slot="m", name="avg_4093_frston_1#5$1")]
 [name="Friston-3"]别想了，不然你们的脑子又要过载。
-[name="Friston-3"]你们现在要做的，就是在结束之前，陪我走走。聚会快开始了......
+[name="Friston-3"]你们现在要做的，就是在结束之前，陪我走走。聚会快开始了……
 [dialog]
 [PlaySound(key="$d_avg_carrobotmove", volume=1)]
 [charslot(duration=1.5, isblock=true)]
@@ -217,7 +217,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [charslot(slot="m", name="char_376_therex_1", posfrom="-200,0", posto="0,0", duration=1, isblock=true)]
 [name="THRM-EX"]是派对！
 [charslot(slot="m", name="avg_4093_frston_1#5$1")]
-[name="Friston-3"]不......是婚礼。我女儿的婚礼。
+[name="Friston-3"]不……是婚礼。我女儿的婚礼。
 [charslot(slot="m", name="char_285_medic2_1")]
 [name="Lancet-2"]我们不过去吗，Friston-3？
 [charslot(slot="m", name="avg_4093_frston_1#5$1")]
@@ -225,23 +225,23 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [charslot(slot="m", name="char_285_medic2_1")]
 [name="Lancet-2"]你在悲伤？
 [charslot(slot="m", name="avg_4093_frston_1#5$1")]
-[name="Friston-3"]......你能感觉到？
+[name="Friston-3"]……你能感觉到？
 [charslot(slot="m", name="char_285_medic2_1")]
 [name="Lancet-2"]欸，当然。我们不是一样的吗？
 [charslot(slot="m", name="avg_286_cast3_1$1")]
 [name="Castle-3"]你说有人扭曲了我们的认知模块，那为什么你要帮助我们？
 [charslot(slot="m", name="avg_4093_frston_1#5$1")]
-[name="Friston-3"]哪儿有那么多原因。刚才Lancet-2不是说了，我们是一样的......起码现在，起码在罗德岛上。
-[name="Friston-3"]在这艘船上的生活很平静，我谈不上喜欢，但比起那个永远没有结果的梦，那些夭折的未来，它没那么......
+[name="Friston-3"]哪儿有那么多原因。刚才Lancet-2不是说了，我们是一样的……起码现在，起码在罗德岛上。
+[name="Friston-3"]在这艘船上的生活很平静，我谈不上喜欢，但比起那个永远没有结果的梦，那些夭折的未来，它没那么……
 [name="Friston-3"]没那么坏。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_cheer_street", volume=0.4)]
 [delay(time=1.5)]
 特雷弗·弗里斯顿听到了女儿熟悉的笑声。
-一场他注定会错过的婚礼，一个他不得不爽约的邀请。只要他不再靠近，她或许就永远不会从他的眼前走开......
+一场他注定会错过的婚礼，一个他不得不爽约的邀请。只要他不再靠近，她或许就永远不会从他的眼前走开……
 [charslot(slot="m", name="avg_4093_frston_1#5$1")]
-[name="Friston-3"]......代码覆写完成。各位，该回家了。
+[name="Friston-3"]……代码覆写完成。各位，该回家了。
 [dialog]
 [PlaySound(key="$d_avg_carrobotmove", volume=1)]
 [charslot(duration=1.5, isblock=true)]
@@ -258,8 +258,8 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m", name="char_285_medic2_1")]
-[name="Lancet-2"]......？！
-[name="Lancet-2"]罗德岛......怎么变成了这样？
+[name="Lancet-2"]……？！
+[name="Lancet-2"]罗德岛……怎么变成了这样？
 [charslot(slot="m", name="avg_017_huang_1#8$2")]
 [name="煌"]欸，Friston-3，他们都已经恢复了吗？
 [charslot(slot="m", name="avg_4093_frston_1#1$1")]
@@ -296,7 +296,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [name="可露希尔"]嘿嘿，多亏他想到能借助他的核心代码直接覆写与PRTS相关的底层代码，否则还真挺棘手的。
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "r", name = "avg_1037_amiya3_1#6$3", focus="r")]
-[name="阿米娅"]......可露希尔小姐，如今我们拥有的PRTS权限已经全部失效？
+[name="阿米娅"]……可露希尔小姐，如今我们拥有的PRTS权限已经全部失效？
 [charslot(slot = "r", focus="n")]
 [interlude(channel = 3, switch = true, type = 3, slot = "m", pfrom = "-250,0", pto="-250,0", name = "avg_npc_1723_1#6$1", duration = 0)]
 [name="可露希尔"]恐怕是这样。
@@ -321,7 +321,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [interlude(channel = 3, switch = true, type = 3, slot = "m", pfrom = "-250,0", pto="-250,0", name = "avg_npc_1723_1#6$1", duration = 0)]
 [name="可露希尔"]我的ZOOT系统并不能完全做到与PRTS争夺控制权。
 [name="可露希尔"]我与凯尔希进行过此种情况的演算。
-[name="可露希尔"]若是借助本舰的能源动力强行启动，短时间内或许它能够拿回某些非核心区域的控制权......
+[name="可露希尔"]若是借助本舰的能源动力强行启动，短时间内或许它能够拿回某些非核心区域的控制权……
 [name="可露希尔"]但每次的结果都是过载启动后它的核心元件直接损毁。
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "r", name = "avg_1037_amiya3_1#8$3", focus="r")]
@@ -347,7 +347,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1723_1#2$1")]
-[name="可露希尔"]呼，你终于要上线了......
+[name="可露希尔"]呼，你终于要上线了……
 [charslot(slot = "m", name = "avg_npc_1723_1#1$1")]
 [name="可露希尔"]我也已经等了太久。现在，让我好好看看你——
 [dialog]
@@ -361,15 +361,15 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 那意味着罗德岛再次面临了束手无策的局面——
 [dialog]
 [playsound(key="$d_avg_systemstart", volume=1)]
-[Sticker(id="st1", multi = true, text="..................", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\nZOOT指挥系统已上线，权限日志更新中......",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n检测到原始管理员权限，请确认密钥......",block = true)]
+[Sticker(id="st1", multi = true, text="………………", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\nZOOT指挥系统已上线，权限日志更新中……",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n检测到原始管理员权限，请确认密钥……",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n密钥指令，“机油艺术”。验证完成。",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n好久不见，可露希尔。",block = true)]
 [Sticker(id="st1", duration=0.5, block = false)]
 [Delay(time=1)]
 [Sticker(id="st2", multi = true, text="正在唤醒本舰全部备用节点。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st2", multi = true, text="\n\nLoading......",block = true)]
+[Sticker(id="st2", multi = true, text="\n\nLoading……",block = true)]
 [PlaySound(key="$alarmenter",volume=0.8)]
 [Blocker(a=0.3, r=1,g=0.2,b=0.2, fadetime=0.7, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -378,7 +378,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [Delay(time=1)]
 [PlaySound(key="$keyboard",volume=1)]
 [charslot(slot = "m", name = "avg_npc_1723_1#6$1")]
-[name="可露希尔"]......启动过载。
+[name="可露希尔"]……启动过载。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_spotlightc", volume=1)]
@@ -391,7 +391,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [Sticker(id="st1", multi = true, text="\n\n警告：启动过载模式将极大损耗设备寿命。",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n当前能源预计可供能：六十一分钟。",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n过载模式已启动。",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n唤醒全部备用节点中......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n唤醒全部备用节点中……",block = true)]
 [Sticker(id="st1", duration=1, block = false)]
 [Delay(time=1)]
 [PlaySound(key="$alarmenter",volume=0.8)]
@@ -581,7 +581,7 @@ Friston-3加速冲上了跨越障碍的高坡，飞跃到了空中。
 [Sticker(id="st9", duration=0.5, block = false)]
 [Sticker(id="st10", duration=0.5, block = false)]
 [delay(time=3)]
-[Sticker(id="st1", multi = true, text="......", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [PlaySound(key="$d_avg_kalimbapizz",volume=0.8)]
 [Blocker(a=0.3, r=0,g=0.2,b=0, fadetime=0.7, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]

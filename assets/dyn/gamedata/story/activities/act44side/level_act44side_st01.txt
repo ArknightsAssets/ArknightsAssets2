@@ -20,14 +20,14 @@
 [charslot(slot="m",name="avg_npc_1906_1#1$1")]
 [name="次郎"]老大亲口说的，不能让你靠近了！
 [charslot(slot="m",name="avg_npc_1919_1#1$1")]
-[name="“鬼”"]......没时间了。次郎，我最后说一次，让开。
+[name="“鬼”"]……没时间了。次郎，我最后说一次，让开。
 [charslot(slot="m",name="avg_npc_1906_1#1$1")]
 [name="次郎"]鬼姐！！
 [charslot(slot="m",name="avg_npc_1919_1#1$1")]
 [name="“鬼”"]次郎，连你也要拦我？
 [charslot(slot="m",name="avg_npc_1906_1#1$1")]
 [name="次郎"]我拦不住你，只想和你再喝一次酒，行吗？
-[name="次郎"]不是拖延，就......再喝一次酒。喝完，我们就决生死。
+[name="次郎"]不是拖延，就……再喝一次酒。喝完，我们就决生死。
 [charslot(slot = "m", focus = "n")]
 [PlaySound(key="$pourwater", volume=1)]
 被称为“鬼姐”的女性默默地看着。黑道从怀里掏出酒，给两边各倒了一杯。
@@ -126,17 +126,17 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_1919_1#1$1",duration=1)]
 [delay(time=2)]
-[name="“鬼”"]挡我者......死。
+[name="“鬼”"]挡我者……死。
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1908_1#1$1",duration=1)]
 [delay(time=2)]
-[name="议员候选人"]......
-[name="议员候选人"]时代，变革，福祉......
-[name="议员候选人"]对你而言，这些词汇都已经太空洞，说再多，也无法救赎你了......
+[name="议员候选人"]……
+[name="议员候选人"]时代，变革，福祉……
+[name="议员候选人"]对你而言，这些词汇都已经太空洞，说再多，也无法救赎你了……
 [name="议员候选人"]恶鬼。
 [charslot(slot="m",name="avg_npc_1919_1#1$1")]
-[name="“鬼”"]聒噪......
+[name="“鬼”"]聒噪……
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=false, block=false)]
 [name="“鬼”"]聒噪！！！
 [dialog]
@@ -198,7 +198,7 @@
 [charslot(slot = "left", name = "avg_136_hsguma_1#5$1",focus="l")]
 [name="星熊"]“萌萌亲”？
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]......抱歉，就只是经过一下而已，我赶时间。
+[name="星熊"]……抱歉，就只是经过一下而已，我赶时间。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -225,15 +225,15 @@
 [charslot(slot = "m", focus = "n")]
 [name="星熊"]（选择自尽？）
 [charslot(slot="m",name="avg_4202_haruka_1#22$1")]
-[name="萌萌香"]无尽的怨恨让她无法往生，成为在街上游荡的幽灵，誓要将事件真相埋入黑暗，连一个目击者也不放过......
+[name="萌萌香"]无尽的怨恨让她无法往生，成为在街上游荡的幽灵，誓要将事件真相埋入黑暗，连一个目击者也不放过……
 [charslot(slot = "m", focus = "n")]
-[name="星熊"]（原来已经以讹传讹到这个份上了啊......）
+[name="星熊"]（原来已经以讹传讹到这个份上了啊……）
 [charslot(slot="m",name="avg_4202_haruka_1#2$1")]
 [name="萌萌香"]就是这样一个恐怖、悲伤，但是让我非常感动的故事，最终在大银幕上向大家呈现了出来！
 [name="萌萌香"]这部电影对我而言有着非常重要的意义，当时也受了拍摄地锻冶町许多人的照顾，我也要在此感谢他们。
 [name="萌萌香"]说到这里，我也想借这次机会，聊聊即将在今年冬天上映的《新·鬼奉行》！
 [name="萌萌香"]我将在这部电影中出演主角鬼八方岳，为大家带来一段不一样的鬼奉行故事。
-[name="萌萌香"]其中也会有《恶鬼的诞生》相关的彩蛋和致敬，尽管现在还不能透露太多......但还是希望大家多多支持！
+[name="萌萌香"]其中也会有《恶鬼的诞生》相关的彩蛋和致敬，尽管现在还不能透露太多……但还是希望大家多多支持！
 [name="萌萌香"]那么接下来，本次演出的最后一首歌，《恶鬼的诞生》的片尾曲——
 [charslot(slot="m",name="avg_4202_haruka_1#25$1")]
 [name="萌萌香"]《鬼城门下的夜曲》，请大家欣赏！
@@ -249,7 +249,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]......电影的情节不论，歌倒是蛮好听的，这位“萌萌亲”的唱功也不错。
+[name="星熊"]……电影的情节不论，歌倒是蛮好听的，这位“萌萌亲”的唱功也不错。
 [name="星熊"]可惜，没时间在这儿悠哉游哉地听。
 [charslot]
 星熊转头望向人群外围。
@@ -263,7 +263,7 @@
 [name="星熊"]啧！
 [name="星熊"]借过，我得换位置了。
 [charslot(slot = "right", name = "avg_npc_1910_1#1$1",focus="r")]
-[name="年轻的粉丝"]欸......欸？
+[name="年轻的粉丝"]欸……欸？
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
 [name="星熊"]你再不让开，我真的要挤过去了。
 [charslot(slot = "right", name = "avg_npc_1910_1#1$1",focus="r")]
@@ -320,9 +320,9 @@
 [Delay(time=1)]
 [name="锻冶町居民"]萌萌香！我、我是锻冶町的居民，我还在《恶鬼的诞生》里客串过。
 [charslot(slot = "m", name = "avg_npc_1897_1#11$1")]
-[name="锻冶町居民"]这个是电影杀青时，你和我们群演一起拍的合照，我一直想交给你，可是一直没有机会......请你收下！
+[name="锻冶町居民"]这个是电影杀青时，你和我们群演一起拍的合照，我一直想交给你，可是一直没有机会……请你收下！
 [charslot(slot = "m", focus = "n")]
-[name="萌萌香"]锻冶町？你是......
+[name="萌萌香"]锻冶町？你是……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_136_hsguma_1#2$1",duration=0.5)]
@@ -341,7 +341,7 @@
 [charslot(duration=0.5)]
 [Delay(time=1)]
 感叹之余，星熊无意从余光中瞟见，几个不像粉丝的男人在朝那个锻冶町居民的方向移动。
-那几个人看起来也不像便衣保安，硬要说的话，反而更像是......黑道？
+那几个人看起来也不像便衣保安，硬要说的话，反而更像是……黑道？
 [charslot]
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1897_1#11$1")]
@@ -365,19 +365,19 @@
 [charslot(slot = "right", name = "avg_npc_1897_1#6$1",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "right", name = "avg_npc_1897_1#6$1",focus="r")]
-[name="锻冶町居民"]我、我、我......你、你、你......
+[name="锻冶町居民"]我、我、我……你、你、你……
 [charslot(slot = "left", name = "avg_4202_haruka_1#2$1",focus="l")]
 [name="萌萌香"]能告诉我你的名字吗？
 [charslot(slot = "right", name = "avg_npc_1897_1#11$1",focus="r")]
 [name="锻冶町居民"]对、对的！我叫吉星！
 [charslot(slot = "left", name = "avg_4202_haruka_1#1$1",focus="l")]
-[name="萌萌香"]我好像对你有印象......
+[name="萌萌香"]我好像对你有印象……
 [charslot(slot = "right", name = "avg_npc_1897_1#5$1",focus="r")]
 [name="吉星"]你记得我？那个，我、我做过什么让萌萌香小姐记住的事情吗？
 [charslot(slot = "left", name = "avg_4202_haruka_1#21$1",focus="l")]
-[name="萌萌香"]呃......不好意思，但你真的是我见过的唯一一个片场盒饭也能吃那么香的人......
+[name="萌萌香"]呃……不好意思，但你真的是我见过的唯一一个片场盒饭也能吃那么香的人……
 [charslot(slot = "right", name = "avg_npc_1897_1#6$1",focus="r")]
-[name="吉星"]因为大米很好吃......不对，不对......你看见了？不对，不对......
+[name="吉星"]因为大米很好吃……不对，不对……你看见了？不对，不对……
 [charslot(slot = "left", name = "avg_4202_haruka_1#3$1",focus="l")]
 [name="萌萌香"]当时我把自己的那份放到了你旁边的桌上，看你满脸幸福地吃了第六份盒饭。
 [dialog]
@@ -405,11 +405,11 @@
 [charslot(slot = "left", name = "avg_4202_haruka_1#1$1",focus="l")]
 [name="萌萌香"]所以，锻冶町现在怎么样了，那里的大家还好吗？
 [charslot(slot = "right", name = "avg_npc_1897_1#4$1",focus="r")]
-[name="吉星"]锻冶町现在......现在......
+[name="吉星"]锻冶町现在……现在……
 [charslot(slot = "left", name = "avg_4202_haruka_1#1$1",focus="l")]
 [name="萌萌香"]嗯？
 [charslot(slot = "right", name = "avg_npc_1897_1#10$1",focus="r")]
-[name="吉星"]小钢珠店的生意确实没以前好了，不想惹上麻烦的人基本也都搬了出去，《新·鬼奉行》的取景地也搬去了更专业的影视城......
+[name="吉星"]小钢珠店的生意确实没以前好了，不想惹上麻烦的人基本也都搬了出去，《新·鬼奉行》的取景地也搬去了更专业的影视城……
 [charslot(slot = "right", name = "avg_npc_1897_1#11$1",focus="r")]
 [name="吉星"]不，我是说，我代表锻冶町邀请你再去那里看看！大家都很欢迎你！
 [charslot(slot = "left", name = "avg_4202_haruka_1#2$1",focus="l")]
@@ -427,7 +427,7 @@
 [PlaySound(key="$d_avg_cheer_street", volume=1)]
 萌萌香回头看向乐队，为首的键盘手对着她点了点头。
 [charslot(slot = "m", name = "avg_4202_haruka_1#1$1")]
-[name="萌萌香"]这......大家的热情，真的太让我感动了！
+[name="萌萌香"]这……大家的热情，真的太让我感动了！
 [name="萌萌香"]这样，请大家稍待片刻，让乐队的各位稍微休息一下。
 [name="萌萌香"]两分钟后我再返场，为大家献上完美的落幕！
 [MusicVolume(volume=0.3, fadetime=3)]
@@ -441,7 +441,7 @@
 [dialog]
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",duration = 1)]
 [delay(time=2)]
-[name="星熊"]......
+[name="星熊"]……
 [CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", focus = "n")]
 [name="？？？"]谁踩我！
@@ -469,7 +469,7 @@
 [charslot(slot = "r",posfrom = "-100,0", posto = "0,0",duration = 0.4)]
 [delay(time=0.8)]
 [charslot(slot = "m", focus = "r")]
-[name="可疑的男性"]唉呦！这什么东西......金属的盾？！
+[name="可疑的男性"]唉呦！这什么东西……金属的盾？！
 [dialog]
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [charslot(slot = "m", focus = "r")]
@@ -508,7 +508,7 @@
 台上站着的两个人面面相觑，中间还躺着一个倒地不起的人。
 [playMusic(intro="$farce_intro",key="$farce_loop", volume=0.6)]
 [charslot(slot = "l", name = "avg_4202_haruka_1#22$1",focus="l")]
-[name="萌萌香"]独角的......鬼？！
+[name="萌萌香"]独角的……鬼？！
 [charslot(slot = "l", name = "avg_4202_haruka_1#10$1",focus="l")]
 [name="萌萌香"]怪谈？“无名之鬼”的怪谈？！
 [charslot(slot = "l", name = "avg_4202_haruka_1#20$1",focus="l")]
@@ -539,11 +539,11 @@
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_136_hsguma_1#2$1",duration=1)]
 [Delay(time=2)]
-[name="星熊"]呼......总算是出来了。
+[name="星熊"]呼……总算是出来了。
 [name="星熊"]哪怕算上人群混乱的时间，返场也该结束，警察多半也要跟过来了。
 [charslot(slot = "m", name = "avg_136_hsguma_1#5$1")]
 [name="星熊"]干脆先去找警察算了？
-[name="星熊"]......不，至少先回锻冶町一趟，看看老家伙再说。天知道这二十年过去，锻冶町变成了什么样。
+[name="星熊"]……不，至少先回锻冶町一趟，看看老家伙再说。天知道这二十年过去，锻冶町变成了什么样。
 [dialog]
 [playsound(key="$d_gen_walk_n")]
 [charslot(duration=1)]
@@ -551,7 +551,7 @@
 [name="重复播放的广播"]铃、铃、铃，林贡斯，林贡斯百货♪
 [name="重复播放的广播"]古今东西，无所不包，林贡斯百货♪
 [charslot(slot = "m", name = "avg_136_hsguma_1#2$1")]
-[name="星熊"]（......林贡斯百货？这里原来不是叫山崎屋吗？）
+[name="星熊"]（……林贡斯百货？这里原来不是叫山崎屋吗？）
 [name="星熊"]（而且还扩建到把路堵住了？）
 [name="星熊"]（只能从店里穿过去了。）
 [Dialog]
@@ -565,7 +565,7 @@
 [Delay(time=2)]
 [charslot(slot = "m", focus = "n")]
 [name="拉客的店员"]不进来喝一杯吗？一看您就是海量，本店新进的高级威士忌——
-[name="拉客的店员"]如果您想要老派一点的选择，我们也有珍藏的芋烧酒......
+[name="拉客的店员"]如果您想要老派一点的选择，我们也有珍藏的芋烧酒……
 [charslot(slot = "m", name = "avg_136_hsguma_1#2$1")]
 [name="星熊"]不用，谢谢。
 [name="星熊"]（这家店后面也应该有的——）
@@ -599,7 +599,7 @@
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
-[name="星熊"]他们的眼神还在人群里飘......还没看见我。
+[name="星熊"]他们的眼神还在人群里飘……还没看见我。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "left", name = "avg_npc_1914_1#1$1",duration = 1)]
@@ -626,27 +626,27 @@
 [charslot(slot = "right", name = "avg_npc_1918_1#1$1",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "right", name = "avg_npc_1918_1#1$1",focus="r")]
-[name="萌萌香"]老板，那个独角的鬼......真的不是怪谈的主角来向我作祟吗？
+[name="萌萌香"]老板，那个独角的鬼……真的不是怪谈的主角来向我作祟吗？
 [charslot(slot = "left", name = "avg_4199_makiri_1#1$1",focus="l")]
 [name="摊位老板"]怪谈的主角根本就不是你想的幽灵一类的东西。放宽心。
 [charslot(slot = "right", name = "avg_npc_1918_1#1$1",focus="r")]
-[name="萌萌香"]可、可那还能是什么？那只能是幽灵啊......
+[name="萌萌香"]可、可那还能是什么？那只能是幽灵啊……
 [charslot(slot = "left", name = "avg_4199_makiri_1#1$1",focus="l")]
 [name="摊位老板"]就算是幽灵，不也自己跑掉了吗？
 [charslot(slot = "right", name = "avg_npc_1918_1#20$1",focus="r")]
-[name="萌萌香"]唔......
+[name="萌萌香"]唔……
 [charslot(slot = "left", name = "avg_4199_makiri_1#1$1",focus="l")]
 [name="摊位老板"]没跟着你，说明只是碰巧出现，跟你没关系的。
 [name="摊位老板"]你还不如害怕点别的。照你说的，今天出了那么大乱子，澪小姐怕不是要背责任。
 [charslot(slot = "right", name = "avg_npc_1918_1#10$1",focus="r")]
 [name="萌萌香"]澪小姐？不会的，她的任务是保护我的人身安全，至少我人没事。
 [charslot(slot = "right", name = "avg_npc_1918_1#7$1",focus="r")]
-[name="萌萌香"]再说，万一那真的是幽灵......上面也不可能怪罪澪小姐挡不住幽灵吧？
+[name="萌萌香"]再说，万一那真的是幽灵……上面也不可能怪罪澪小姐挡不住幽灵吧？
 [charslot(slot = "left", name = "avg_4199_makiri_1#1$1",focus="l")]
 [name="摊位老板"]唉。
 [name="摊位老板"]给，你点的竹轮、白萝卜、驮兽筋。
 [charslot(slot = "m", focus = "n")]
-台上光芒四射的萌萌香此时完全就只是个受了委屈的小姑娘，吸了吸鼻子，用一只手揪起口罩......
+台上光芒四射的萌萌香此时完全就只是个受了委屈的小姑娘，吸了吸鼻子，用一只手揪起口罩……
 另一只手把竹签递到口罩后面的嘴边，咬下一块竹轮咀嚼起来。
 [charslot(slot = "right", name = "avg_npc_1918_1#9$1",focus="r")]
 [name="萌萌香"]呼。
@@ -659,7 +659,7 @@
 [Delay(time=2)]
 [name="星熊"]（在这个摊子暂避一下吧。）
 [charslot(slot = "m", name = "avg_136_hsguma_1#5$1")]
-[name="星熊"]（......好香。）
+[name="星熊"]（……好香。）
 [charslot(slot = "m", name = "avg_136_hsguma_1#11$1")]
 [name="星熊"]老板，麻烦来一个煮羽兽卵、一块油豆腐，还有一个昆布结。
 [charslot(slot = "m", name = "avg_4199_makiri_1#1$1")]
@@ -673,7 +673,7 @@
 [charslot(slot = "m", name = "avg_npc_1918_1#10$1")]
 [name="萌萌香"]你！你是那个——
 [charslot(slot = "m", name = "avg_136_hsguma_1#2$1")]
-[name="星熊"]......？
+[name="星熊"]……？
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", name = "avg_npc_1918_1#18$1")]
 [name="萌萌香"]老板！你看，她、她真的跟过来了！
@@ -692,10 +692,10 @@
 [StopSound(channel="bgs", fadetime=2)]
 [charslot(slot = "m", name = "avg_npc_1914_1#1$1",duration = 1)]
 [delay(time=1.5)]
-[name="追丢目标的警察"]......
+[name="追丢目标的警察"]……
 [charslot]
 [charslot(slot = "m", name = "avg_136_hsguma_1#2$1")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "m", name = "avg_npc_1914_1#1$1")]
 [name="追丢目标的警察"]真是让我们好找啊，星熊小姐。还要拒捕吗？
 [charslot(slot = "m", name = "avg_136_hsguma_1#2$1")]
@@ -714,13 +714,13 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1918_1#7$1")]
-[name="萌萌香"]......欸？
+[name="萌萌香"]……欸？
 [name="萌萌香"]怎么回事？
 [charslot(slot = "m", name = "avg_4199_makiri_1#11$1")]
 [name="摊位老板"]什么怎么回事？
 [charslot(slot = "m", name = "avg_npc_1918_1#10$1")]
-[name="萌萌香"]我一定是在做梦吧......
-[name="萌萌香"]为什么警察......把幽灵逮捕了？
+[name="萌萌香"]我一定是在做梦吧……
+[name="萌萌香"]为什么警察……把幽灵逮捕了？
 [Dialog]
 [Delay(time=2)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

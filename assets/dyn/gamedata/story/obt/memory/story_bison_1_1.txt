@@ -17,9 +17,9 @@
 [Character(name="avg_325_bison_1#1$1",name2="avg_npc_029", focus=2)]
 [name="管家"]少爷，这么晚了您怎么还不睡？加了这么多天班，您也应该趁此机会好好休息一下。
 [Character(name="avg_325_bison_1#7$1",name2="avg_npc_029", focus=1)]
-[name="拜松"]本来是这么打算的......但是......父亲他近来想要扩展在哥伦比亚的业务。
+[name="拜松"]本来是这么打算的……但是……父亲他近来想要扩展在哥伦比亚的业务。
 [Character(name="avg_325_bison_1#1$1",name2="avg_npc_029", focus=1)]
-[name="拜松"]我想......自己也应该提前做些什么，配合父亲的脚步。
+[name="拜松"]我想……自己也应该提前做些什么，配合父亲的脚步。
 [Character(name="avg_325_bison_1#1$1",name2="avg_npc_029", focus=2)]
 [name="管家"]少爷，我记得老爷他只是在饭桌上提了这么一句而已。
 [Character(name="avg_325_bison_1#5$1",name2="avg_npc_029", focus=1)]
@@ -27,7 +27,7 @@
 [dialog]
 [Character(name="avg_325_bison_1#5$1",name2="avg_npc_029", focus=2)]
 [delay(time=1.5)]
-[name="管家"]......唉，少爷辛苦了。 
+[name="管家"]……唉，少爷辛苦了。 
 [Character(name="avg_325_bison_1#1$1",name2="avg_npc_029", focus=1)]
 [name="拜松"]为了能在将来接过父亲身上的担子，再怎么辛苦也不为过。
 [dialog]
@@ -43,16 +43,16 @@
 [character(name="avg_npc_539_1#9$1")]
 [name="欧厄尔"]我并不知情，这小子最近忙得我也见不到几面。所以你有什么想法吗，拜松？
 [Character(name="avg_325_bison_1#11$1")]
-[name="拜松"]呃......我想学点新东西，或者为明年要做的项目做准备，我还没想清楚，但总归是要找些事情做。
+[name="拜松"]呃……我想学点新东西，或者为明年要做的项目做准备，我还没想清楚，但总归是要找些事情做。
 [character(name="avg_npc_539_1#5$1")]
-[name="欧厄尔"]这可是假期啊......
+[name="欧厄尔"]这可是假期啊……
 [dialog]
 [character(name="avg_npc_539_1#7$1")]
 [delay(time=2)]
 [character(name="avg_npc_539_1#9$1")]
 [delay(time=1)]
 [character(name="avg_npc_539_1#9$1")]
-[name="欧厄尔"]......拜松，如果非要找事情做的话，去见见你在企鹅物流的朋友吧。我从哥伦比亚带了很多东西回来，你可以挑几样作为礼物送过去。
+[name="欧厄尔"]……拜松，如果非要找事情做的话，去见见你在企鹅物流的朋友吧。我从哥伦比亚带了很多东西回来，你可以挑几样作为礼物送过去。
 [Character(name="avg_325_bison_1#1$1")]
 [name="拜松"]好，没问题，父亲。
 [character(name="avg_npc_539_1#9$1")]
@@ -72,13 +72,13 @@
 [dialog]
 [Character(name="avg_325_bison_1#2$1")]
 [delay(time=1)]
-[name="拜松"]何况......我想父亲的本意肯定不是让我单纯地拜访朋友。
+[name="拜松"]何况……我想父亲的本意肯定不是让我单纯地拜访朋友。
 [Character(name="avg_325_bison_1#7$1")]
 [name="拜松"]和企鹅物流的朋友相处久了，偶尔也会忘记，他们其实是我们的合作对象。
 [Character(name="avg_325_bison_1#1$1")]
 [name="拜松"]父亲应该就是在指点我，一段合作关系需要长时间的持续维护，不能因为已经熟稔，就不去在意。
 [Character(name="avg_npc_029")]
-[name="管家"]......
+[name="管家"]……
 [Character(name="avg_325_bison_1#4$1")]
 [name="拜松"]巴特勒？
 [Character(name="avg_npc_029")]
@@ -107,7 +107,7 @@
 [characteraction(name="middle", type="move", xpos=-50, fadetime=2, block=false)]
 [Character(name="avg_201_moeshd_1#9$1",fadetime=1)]
 [delay(time=2.5)]
-[name="可颂"]呃，好重......
+[name="可颂"]呃，好重……
 [character]
 [Character(name="char_101_sora_1#3")]
 [name="空"]可颂，你为什么带了那么多食物，我们只是去野餐，吃不了那么多的！
@@ -116,8 +116,8 @@
 [Character(name="char_empty")]
 [characteraction(name="middle", type="move", ypos=-150, xpos=150, fadetime=0, block=true)]
 [Character(name="avg_201_moeshd_1#9$1")]
-[multiline(name="可颂")]不......今天天气很好，去野餐的人一定很多。
-[multiline(name="可颂",end=true)]我......可不能......错过......商机。
+[multiline(name="可颂")]不……今天天气很好，去野餐的人一定很多。
+[multiline(name="可颂",end=true)]我……可不能……错过……商机。
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [characteraction(name="middle", type="move", xpos=-150, fadetime=3, block=false)]
@@ -132,7 +132,7 @@
 [Character(name="avg_201_moeshd_1#1$1")]
 [multiline(name="可颂")]不必多说了，只要能够大赚一笔，
 [Character(name="avg_201_moeshd_1#9$1")]
-[multiline(name="可颂",end=true)]这点、重量、算呃......什么！
+[multiline(name="可颂",end=true)]这点、重量、算呃……什么！
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [delay(time=1.5)]
@@ -148,13 +148,13 @@
 [Character(fadetime=1)]
 [delay(time=2.5)]
 [Character(name="char_101_sora_1#3")]
-[name="空"]（老天爷啊......）
+[name="空"]（老天爷啊……）
 [dialog]
 [Character]
 [PlaySound(key="$doorknockquite", volume=1)]
 [delay(time=2)]
 [Character(name="char_101_sora_1#4")]
-[name="空"]嗯......？
+[name="空"]嗯……？
 [dialog]
 [Character]
 [PlaySound(key="$dooropenquite", volume=1)]
@@ -185,7 +185,7 @@
 [Character(name="char_101_sora_1#6")]
 [name="空"]对啊，对啊。我为这次野餐特意准备了好看的新垫子，一起来嘛，拜松！
 [Character(name="avg_325_bison_1#4$1")]
-[name="拜松"]可是我......
+[name="拜松"]可是我……
 [dialog]
 [Character]
 [PlaySound(key="$d_avg_telephonering", volume=1)]
@@ -195,11 +195,11 @@
 [dialog]
 [delay(time=1.5)]
 [character(name="char_102_texas_1#4")]
-[name="德克萨斯"]什么......？
+[name="德克萨斯"]什么……？
 [dialog]
 [delay(time=1.5)]
 [character(name="char_102_texas_1#1")]
-[name="德克萨斯"]好......虽然不理解，但是没问题，我们接受......嗯，好的，再见。
+[name="德克萨斯"]好……虽然不理解，但是没问题，我们接受……嗯，好的，再见。
 [dialog]
 [PlaySound(key="$d_avg_telephone", volume=1)]
 [delay(time=2)]
@@ -208,7 +208,7 @@
 [character(name="char_102_texas_1#2")]
 [name="德克萨斯"]是老板。情况有变，我们今天没法去野餐了。
 [Character(name="char_101_sora_1#4")]
-[name="空"]不要啊，难道是......
+[name="空"]不要啊，难道是……
 [Character(name="avg_103_angel_1#8$1")]
 [name="能天使"]嗯，看来是突发事件先到了。
 [character(name="char_102_texas_1#1")]
@@ -226,7 +226,7 @@
 [delay(time=2)] 
 [Character(name="avg_325_bison_1#11$1")]
 [delay(time=1.5)]
-[name="拜松"]（看来她们的讨论很激烈......我是不是该识趣点。）
+[name="拜松"]（看来她们的讨论很激烈……我是不是该识趣点。）
 [Character(name="avg_325_bison_1#12$1")]
 [name="拜松"]那个，如果大家有事的话，我就不打扰了。
 [character(name="char_102_texas_1#4")]
@@ -236,7 +236,7 @@
 [character(name="char_102_texas_1#1")]
 [name="德克萨斯"]这个委托还会麻烦到你。
 [Character(name="avg_325_bison_1#11$1")]
-[name="拜松"]我......？
+[name="拜松"]我……？
 [character(name="char_102_texas_1#1")]
 [name="德克萨斯"]对，你。
 [dialog]
@@ -251,7 +251,7 @@
 [Character(name="avg_325_bison_1#1$1")]
 [name="拜松"]事项一，来这家影音店买CD？
 [Character(name="avg_325_bison_1#11$1")]
-[name="拜松"]这......不是应该交给空来做更为适合吗？我对音乐又没有什么深入研究。
+[name="拜松"]这……不是应该交给空来做更为适合吗？我对音乐又没有什么深入研究。
 [dialog]
 [Delay(time=1)]
 [Character(name="avg_325_bison_1#2$1")]
@@ -259,7 +259,7 @@
 [Character(name="avg_325_bison_1#1$1")]
 [Delay(time=1.5)]
 [Character(name="avg_325_bison_1#12$1")]
-[name="拜松"]老板，你好，请问这里有......？
+[name="拜松"]老板，你好，请问这里有……？
 [dialog]
 [character]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
@@ -272,13 +272,13 @@
 [characteraction(name="middle", type="move", ypos=100, fadetime=1, block=false)]
 [character(name="avg_npc_005",fadetime=0.7)]
 [delay(time=1)]
-[name="老板"]嘘......小声点，大家都在听歌呢。想听什么就去架子上拿，那里什么都有。
+[name="老板"]嘘……小声点，大家都在听歌呢。想听什么就去架子上拿，那里什么都有。
 [Character(name="avg_325_bison_1#11$1")]
 [name="拜松"]不能推荐推荐吗？
 [Character(name="avg_npc_005")]
 [name="老板"]一般情况下，来这里的人都不会问这种话，你就随便选一张吧，小朋友。
 [Character(name="avg_325_bison_1#7$1")]
-[name="拜松"]我成年了......
+[name="拜松"]我成年了……
 [Character(name="avg_npc_005")]
 [name="老板"]那挺好，那一片区域你也可以去了。
 [dialog]
@@ -291,9 +291,9 @@
 [name="拜松"]那里有什么？
 [dialog]
 [character]
-[name="老板"]嗯......
+[name="老板"]嗯……
 [Character(name="avg_325_bison_1#2$1")]
-[name="拜松"]......我知道了，不打扰了。
+[name="拜松"]……我知道了，不打扰了。
 [dialog]
 [playsound(key="$d_gen_walk_n")]
 [character(fadetime=1)]
@@ -319,7 +319,7 @@
 [PlaySound(key="$d_avg_bodyfallvalley", volume=1)]
 [delay(time=2.5)]
 [Character(name="char_102_texas_1#1",blackstart=0.2,blackend=0.7)]
-[name="？？？"]等等......
+[name="？？？"]等等……
 [dialog]
 [Character]
 [name="通讯音"]怎么了？
@@ -347,21 +347,21 @@
 [Character(name="avg_325_bison_1#1$1", name2="avg_npc_005",fadetime=0.7)]
 [delay(time=2.5)]
 [Character(name="avg_npc_005")]
-[name="老板"]啊......看来我进购的CD实在是太多了。
+[name="老板"]啊……看来我进购的CD实在是太多了。
 [Character(name="avg_325_bison_1#12$1")]
 [name="拜松"]是我的话，就不会去碰那座岌岌可危的CD山，你到底堆多久了？
 [Character(name="avg_npc_005")]
-[name="老板"]一年？两年？太久了......我实在是懒得收拾了。
+[name="老板"]一年？两年？太久了……我实在是懒得收拾了。
 [Character(name="avg_325_bison_1#2$1")]
 [name="拜松"]看来你需要一个人帮忙分拣这批CD。
 [Character(name="avg_npc_005")]
-[name="老板"]......是吧？
+[name="老板"]……是吧？
 [Character(name="avg_325_bison_1#1$1")]
 [name="拜松"]原来如此。
 [Character(name="avg_325_bison_1#2$1")]
-[name="拜松"]（看来这就是我真正要做的事情了......真是的，也不把委托写得更清楚一点。）
+[name="拜松"]（看来这就是我真正要做的事情了……真是的，也不把委托写得更清楚一点。）
 [Character(name="avg_325_bison_1#1$1")]
-[name="拜松"]（听音乐......挺好，但不适合现在。）
+[name="拜松"]（听音乐……挺好，但不适合现在。）
 [Character(name="avg_325_bison_1#8$1")]
 [name="拜松"]老板，请交给我做吧，我曾经做过分拣员，整理的货物可比这些CD复杂。
 [dialog]
@@ -371,11 +371,11 @@
 [delay(time=2)]
 [character]
 [Character(name="avg_npc_005")]
-[name="老板"]小伙子你......
+[name="老板"]小伙子你……
 [Character(name="avg_325_bison_1#8$1")]
 [name="拜松"]相信我，我是专业的。
 [Character(name="avg_npc_005")]
-[name="老板"]啊......等等，你打算怎么分类啊，小伙子？
+[name="老板"]啊……等等，你打算怎么分类啊，小伙子？
 [dialog]
 [Character]
 [PlaySound(key="$transmission", volume=1)]
@@ -384,7 +384,7 @@
 [Character]
 [name="通讯音"]发生什么事情了？喂？喂？
 [Character(name="char_102_texas_1#1",blackstart=0.2,blackend=0.7)]
-[name="？？？"]......店里的CD堆倒塌了，他在帮忙规整。
+[name="？？？"]……店里的CD堆倒塌了，他在帮忙规整。
 [dialog]
 [Character]
 [name="通讯音"]那听歌呢？他没有在听歌吗？
@@ -401,11 +401,11 @@
 [musicvolume(volume=0.6, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_325_bison_1#9$1")]
-[name="拜松"]唉......肩膀好酸，想不到老板店里的CD有那么多，随便买几张也不知道够不够。
+[name="拜松"]唉……肩膀好酸，想不到老板店里的CD有那么多，随便买几张也不知道够不够。
 [Character(name="avg_325_bison_1#8$1")]
 [name="拜松"]不过分拣工作的结果似乎还不错，看来这么长时间没做，手也没有变生。
 [Character(name="avg_325_bison_1#1$1")]
-[name="拜松"]让我看看，下一项委托是......在这家武器店狠狠杀价？
+[name="拜松"]让我看看，下一项委托是……在这家武器店狠狠杀价？
 [dialog]
 [Delay(time=1.5)]	
 [Character(name="avg_325_bison_1#11$1")]
@@ -455,11 +455,11 @@
 [Character(name="avg_325_bison_1#1$1", name2="avg_npc_002",focus=2)]
 [name="老板"]好嘞，账单给您，一共十六万，现金还是银行卡？
 [Character(name="avg_325_bison_1#11$1")]
-[name="拜松"]（这价格......用得着杀价吗？）
+[name="拜松"]（这价格……用得着杀价吗？）
 [dialog]
 [Character(name="avg_325_bison_1#2$1")]
 [delay(time=1.5)]
-[name="拜松"]（......算了，毕竟是委托。）
+[name="拜松"]（……算了，毕竟是委托。）
 [Character(name="avg_325_bison_1#1$1", name2="avg_npc_002",focus=1)]
 [name="拜松"]老板，能再便宜一些吗？
 [Character(name="avg_325_bison_1#1$1", name2="avg_npc_002",focus=2)]
@@ -475,11 +475,11 @@
 [Character(name="avg_325_bison_1#7$1", name2="avg_npc_002",focus=2)]
 [name="老板"]啧，看你买了这么多，给你打个九折好了。
 [Character(name="avg_325_bison_1#11$1")]
-[name="拜松"]（九折......算“狠狠”吗？）
+[name="拜松"]（九折……算“狠狠”吗？）
 [Character(name="avg_npc_002")]
 [name="老板"]咳咳，小伙子，这已经是我的成本价了，不要太过分。
 [Character(name="avg_325_bison_1#2$1")]
-[name="拜松"]（......或许可以用一些谈判桌上的技巧，虽然还不成熟，但讲个价应该足够了。）
+[name="拜松"]（……或许可以用一些谈判桌上的技巧，虽然还不成熟，但讲个价应该足够了。）
 [Character(name="avg_325_bison_1#12$1", name2="avg_npc_002",focus=1)]
 [name="拜松"]老板，做生意还是诚信一些吧，这远远不到你的底线。
 [Character(name="avg_325_bison_1#12$1", name2="avg_npc_002",focus=2)]
@@ -507,15 +507,15 @@
 [Character(name="avg_325_bison_1#2$1")]
 [name="拜松"]当然还有另一种可能，你不仅不傻，还很聪明，毕竟正品和低端贴牌代工货的价格差别真的很大。
 [Character(name="avg_npc_002")]
-[name="老板"]......你什么意思？
+[name="老板"]……你什么意思？
 [Character(name="avg_325_bison_1#1$1")]
 [name="拜松"]一口价八万，除去各项成本开销，已经够你赚很多了。
 [Character(name="avg_npc_002")]
-[name="老板"]太狠了......
+[name="老板"]太狠了……
 [Character(name="avg_325_bison_1#11$1")]
-[name="拜松"]......你别哭。
+[name="拜松"]……你别哭。
 [Character(name="avg_npc_002")]
-[name="老板"]呜......你太狠了。
+[name="老板"]呜……你太狠了。
 [dialog]
 [playsound(key="$rungeneral")]
 [character(fadetime=1.5)]
@@ -538,7 +538,7 @@
 [name="？？？"]老板哭着跑出了店。
 [dialog]
 [Character]
-[name="通讯音"]......什么？
+[name="通讯音"]……什么？
 [dialog]
 [musicvolume(volume=0.2, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -562,7 +562,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="通讯音"]我说，让他来参加派对是最直接的解压方法！！
 [Character(name="char_102_texas_1#1",blackstart=0.2,blackend=0.7)]
-[name="？？？"]嘶......你太大声了。
+[name="？？？"]嘶……你太大声了。
 [dialog]
 [character]
 [name="通讯音"]你现在可是在龙门除夕夜最大的派对现场，我不是怕你听不到嘛。
@@ -573,7 +573,7 @@
 [character(name="avg_325_bison_1#11$1",fadetime=1.5)]
 [delay(time=2)]
 [Character(name="avg_325_bison_1#11$1")]
-[name="拜松"]（刚刚那个价格......说实话，是不是还能再压一压？）
+[name="拜松"]（刚刚那个价格……说实话，是不是还能再压一压？）
 [Character(name="avg_325_bison_1#1$1")]
 [name="拜松"]（看来我在谈判桌上还需要再多学点。）
 [dialog]
@@ -596,9 +596,9 @@
 [dialog]
 [Character(name="avg_325_bison_1#11$1")]
 [delay(time=1)]
-[name="拜松"]（戴着铁面具，穿着威武的披风，浑身刀剑不入......这真的不是什么武侠小说中的人物吗？）
+[name="拜松"]（戴着铁面具，穿着威武的披风，浑身刀剑不入……这真的不是什么武侠小说中的人物吗？）
 [Character(name="avg_325_bison_1#6$1")]
-[name="拜松"]唉......信使的工作不就是迎难而上吗，加油吧。
+[name="拜松"]唉……信使的工作不就是迎难而上吗，加油吧。
 [dialog]
 [character]
 [PlaySound(key="$transmission", volume=1)]
@@ -636,7 +636,7 @@
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_325_bison_1#11$1",fadetime=1.5)]
 [delay(time=2)]
-[name="拜松"]......她们不会是在捉弄我吧，这里谁会这么穿啊？
+[name="拜松"]……她们不会是在捉弄我吧，这里谁会这么穿啊？
 [Character(name="avg_325_bison_1#5$1")]
 [name="拜松"]要不回去再确认一下好了。
 [dialog]
@@ -672,7 +672,7 @@
 [Character(name="avg_325_bison_1#8$1", name2="avg_npc_219",focus=1)]
 [name="拜松"]您确认完，记得签个字。
 [Character(name="avg_325_bison_1#8$1", name2="avg_npc_219",focus=2)]
-[name="穿铠甲的骑士"]是什么东西啊？想不到出差在外也能收到快递，什么物流这么厉......
+[name="穿铠甲的骑士"]是什么东西啊？想不到出差在外也能收到快递，什么物流这么厉……
 [Dialog]
 [Character]
 [PlaySound(key="$d_avg_open_box", volume=1)]
@@ -699,7 +699,7 @@
 [dialog]
 [Character]
 [Character(name="char_102_texas_1#1",blackstart=0.2,blackend=0.7)]
-[name="？？？"]......很不幸，他找到你说的人了。
+[name="？？？"]……很不幸，他找到你说的人了。
 [dialog]
 [Character]
 [PlaySound(key="$transmission", volume=1)]
@@ -709,15 +709,15 @@
 [name="？？？"]有一个卡西米尔的骑士在人群中。
 [dialog]
 [character]
-[name="通讯音"]......怎么可能？我不理解。
+[name="通讯音"]……怎么可能？我不理解。
 [Character(name="char_102_texas_1#1",blackstart=0.2,blackend=0.7)]
 [name="？？？"]你在包裹里到底放了什么东西？那家伙拆开包裹后脸色很不对劲。
 [dialog]
 [character]
-[name="通讯音"]嗯......我不记得，随手摸个东西就放进盒子了。
-[name="通讯音"]等我找找......好像是可颂进购的一批精制箭头，我随便抓了一个。
+[name="通讯音"]嗯……我不记得，随手摸个东西就放进盒子了。
+[name="通讯音"]等我找找……好像是可颂进购的一批精制箭头，我随便抓了一个。
 [Character(name="char_102_texas_1#1",blackstart=0.2,blackend=0.7)]
-[name="？？？"]......
+[name="？？？"]……
 [dialog]
 [Character]
 [character(name="avg_325_bison_1#4$1")]
@@ -775,7 +775,7 @@
 [character(name="avg_325_bison_1#3$1",fadetime=1.5)]
 [delay(time=2)]
 [character(name="avg_325_bison_1#4$1")]
-[name="拜松"]（这有草丛......太好了。）
+[name="拜松"]（这有草丛……太好了。）
 [dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [characteraction(name="middle", type="move", xpos=-300, fadetime=2,block=false)]
@@ -786,11 +786,11 @@
 [PlaySound(key="$rungeneral", volume=1)]
 [character(name="avg_npc_219",fadetime=1.5)]
 [delay(time=2)]
-[name="穿铠甲的骑士"]奇怪，明明看那小子是往这边走的，怎么不见了......
-[name="穿铠甲的骑士"]可恶......到底去哪里了？
+[name="穿铠甲的骑士"]奇怪，明明看那小子是往这边走的，怎么不见了……
+[name="穿铠甲的骑士"]可恶……到底去哪里了？
 [dialog]
 [delay(time=1)]
-[name="穿铠甲的骑士"]我到底是做了什么？怎么会让无胄盟追我追到龙门......
+[name="穿铠甲的骑士"]我到底是做了什么？怎么会让无胄盟追我追到龙门……
 [dialog]
 [delay(time=1.5)] 
 [stopmusic(fadetime=2)]
@@ -805,15 +805,15 @@
 [characteraction(name="middle", type="move", xpos=200, fadetime=2, block=false)]
 [Character(name="avg_325_bison_1#1$1",fadetime=0.7)]
 [delay(time=2.5)]
-[name="拜松"]呼......走了吗？
+[name="拜松"]呼……走了吗？
 [character(name="avg_325_bison_1#11$1")]
 [name="拜松"]怎么突然就动起手来了？
 [dialog]
 [delay(time=1)]
 [character(name="avg_325_bison_1#9$1")]
-[name="拜松"]算了，不管了，跑了这么久，终于甩掉了......
+[name="拜松"]算了，不管了，跑了这么久，终于甩掉了……
 [character(name="avg_325_bison_1#1$1")]
-[name="拜松"]......累死了，我得、我得找个地方歇歇。
+[name="拜松"]……累死了，我得、我得找个地方歇歇。
 [dialog]
 [delay(time=0.7)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -846,7 +846,7 @@
 [Character]
 [name="男孩"]老哥，愣着干什么？要一起玩吗？
 [character(name="avg_325_bison_1#12$1")]
-[name="拜松"]......这片沙地没有球门，草皮也很稀疏......怎么踢啊？
+[name="拜松"]……这片沙地没有球门，草皮也很稀疏……怎么踢啊？
 [Character]
 [name="男孩"]就这么踢啊。
 [character(name="avg_325_bison_1#12$1")]
@@ -873,7 +873,7 @@
 [character(name="avg_325_bison_1#8$1")]
 [name="拜松"]噗嗤——
 [character(name="avg_325_bison_1#8$1")]
-[name="拜松"]（所以......这就是答案吗？解释一切的答案？）
+[name="拜松"]（所以……这就是答案吗？解释一切的答案？）
 [dialog]
 [delay(time=2)]
 [character(name="avg_325_bison_1#2$1")]
@@ -891,7 +891,7 @@
 [delay(time=2.5)]
 [Character(name="char_102_texas_1#1",blackstart=0.2,blackend=0.7, fadetime=1)]
 [delay(time=1)]
-[name="？？？"]到底还是个孩子......
+[name="？？？"]到底还是个孩子……
 [dialog]
 [Character]
 [PlaySound(key="$transmission", volume=1)]
@@ -934,15 +934,15 @@
 [character(name="avg_npc_539_1#10$1")]
 [name="欧厄尔"]他好久都没有踢过了啊，还是和几个半大孩子，哈哈。
 [character(name="avg_npc_539_1#9$1")]
-[name="欧厄尔"]我知道，我知道，他也是个孩子......辛苦诸位了，事后我必然携重礼登门道谢。
+[name="欧厄尔"]我知道，我知道，他也是个孩子……辛苦诸位了，事后我必然携重礼登门道谢。
 [character(name="avg_npc_539_1#3$1")]
-[name="欧厄尔"]......为什么我不自己说呢？
+[name="欧厄尔"]……为什么我不自己说呢？
 [dialog]
 [character(name="avg_npc_539_1#7$1")]
 [delay(time=1.5)]
-[name="欧厄尔"]......好问题啊......这些话我能自己说就好了。
+[name="欧厄尔"]……好问题啊……这些话我能自己说就好了。
 [character(name="avg_npc_539_1#2$1")]
-[name="欧厄尔"]可惜不能啊......
+[name="欧厄尔"]可惜不能啊……
 [dialog]
 [delay(time=1.5)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

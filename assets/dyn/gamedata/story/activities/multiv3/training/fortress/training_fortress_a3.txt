@@ -6,7 +6,7 @@
 
 [CooperateBattle.CameraFocusTo(offsetX=8, offsetY=4, scale=0.8, time=0.5)]
 [Tutorial(dialogHead="$avatar_melan")]第一波进攻的敌方选手，我会尽力打倒。
-[Tutorial(dialogHead="$avatar_melan")]但后面还会有更猛烈的进攻......
+[Tutorial(dialogHead="$avatar_melan")]但后面还会有更猛烈的进攻……
 
 [Battle.Pause(pause=false)]
 [Battle.Delay(time=1)]
@@ -89,7 +89,7 @@
 [Tutorial(focusX=0, focusY=-100, focusWidth=200, focusHeight=100, anchor="Top", \
           animStyle="Highlight", focusStyle="HighlightRect", black=0.5, \
           protectTime=0.5, dialogHead="$avatar_stward", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
-没关系，现在还是两波进攻之间的休整阶段......
+没关系，现在还是两波进攻之间的休整阶段……
 
 [CooperateBattle.CameraFocusTo(offsetX=3, offsetY=3.5, scale=0.8, time=0.5)]
 [Delay(time=0.5)]

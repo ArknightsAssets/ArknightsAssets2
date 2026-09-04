@@ -38,19 +38,19 @@
 [dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1)]
-[name="感染者少女"]妈妈......妈妈......
+[name="感染者少女"]妈妈……妈妈……
 [dialog]
 [PlaySound(key="$rungeneral")]
 [characteraction(name="right", type="move", xpos=-400, fadetime=1,block=true)]
 [delay(time=2)]
 [name="米亚罗"]谁看到阿尔加的妈妈了！
 [dialog]
-[name="重伤的镇民"]救命......救......
+[name="重伤的镇民"]救命……救……
 [dialog]
 [PlaySound(key="$rungeneral")]
 [characteraction(name="right", type="move", xpos=400, fadetime=1,block=true)]
 [delay(time=2)]
-[name="米亚罗"]绷带要不够了......
+[name="米亚罗"]绷带要不够了……
 [dialog]
 [character]
 [delay(time=1)]
@@ -84,11 +84,11 @@
 [character(name="char_456_ash_1#2",name2="avg_npc_160_1#1",focus=1)]
 [name="灰烬"]先去你的诊所。
 [character(name="char_456_ash_1#2",name2="avg_npc_160_1#1",focus=2)]
-[name="米亚罗"]那些感染者......
+[name="米亚罗"]那些感染者……
 [character(name="char_456_ash_1#2",name2="avg_npc_160_1#1",focus=1)]
 [name="灰烬"]别管那么多，先让所有人都去你的诊所。
 [character(name="char_456_ash_1#2",name2="avg_npc_160_1#1",focus=2)]
-[name="米亚罗"]......好。
+[name="米亚罗"]……好。
 [dialog]
 [character(name="char_456_ash_1#2",name2="avg_npc_160_1#1")]
 [delay(time=0.6)]
@@ -120,10 +120,10 @@
 [character(name="char_457_blitz_1#1",name2="char_456_ash_1#2",focus=1)]
 [name="闪击"]明白。
 [character(name="char_456_ash_1#2")]
-[name="灰烬"]......
+[name="灰烬"]……
 [dialog]
 [delay(time=1)]
-[name="灰烬"]......真是一场灾难。
+[name="灰烬"]……真是一场灾难。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -134,21 +134,21 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=2)]
 [character(name="char_456_ash_1#2")]
-[name="灰烬"]四十多个人......所有人都在这里了？
+[name="灰烬"]四十多个人……所有人都在这里了？
 [character(name="avg_npc_160_1#3")]
-[name="米亚罗"]是......
-[name="米亚罗"]我们救下的人......都在这里了。
+[name="米亚罗"]是……
+[name="米亚罗"]我们救下的人……都在这里了。
 [character(name="char_456_ash_1#1")]
 [name="灰烬"]少了多少人？
 [character(name="avg_npc_160_1#3")]
 [name="米亚罗"]不少人跑丢了，可能是去了镇子那边。
 [character(name="avg_npc_160_1#1")]
-[name="米亚罗"]但是有一些老人......他们来不及......
+[name="米亚罗"]但是有一些老人……他们来不及……
 [character(name="char_457_blitz_1#3",name2="avg_npc_160_1#1",focus=1)]
 [name="闪击"]别想了，不是你的错。
 [name="闪击"]这些怪物，它们是从哪儿来的？它们是训练过的战兽吗？
 [character(name="char_457_blitz_1#3",name2="avg_npc_160_1#1",focus=2)]
-[name="米亚罗"]不知道......我以前没见过这种东西。
+[name="米亚罗"]不知道……我以前没见过这种东西。
 [character(name="char_456_ash_1#1")]
 [name="灰烬"]那些暴徒掏出武器的时候，这些怪物就从地里钻出来了。
 [Dialog]
@@ -189,16 +189,16 @@
 [name="战车"]离开镇子之后要去哪？带着这么多人？
 [character(name="char_456_ash_1#1")]
 [name="灰烬"]没有食物和水，他们跑到荒地上就是寻死。
-[name="灰烬"]我不觉得这些怪物会放弃袭击我们。到了荒地情况只会更糟，没有掩体，无法藏身，再加上我们都看见了它们的钻地本事......
+[name="灰烬"]我不觉得这些怪物会放弃袭击我们。到了荒地情况只会更糟，没有掩体，无法藏身，再加上我们都看见了它们的钻地本事……
 [character(name="avg_npc_160_1#3")]
-[name="米亚罗"]我知道一个地方......说不定是安全的。
+[name="米亚罗"]我知道一个地方……说不定是安全的。
 [name="米亚罗"]镇南边有一个很特殊的建筑，可能是镇上最安全的地方，和领主的大宅差不多。
 [character(name="char_456_ash_1#1")]
 [name="灰烬"]详细说。
 [character(name="avg_npc_160_1#3")]
 [name="米亚罗"]以前有一个叫罗德岛的医疗组织，在镇子边缘租了一块地。
 [name="米亚罗"]后来他们雇佣了工人，挖了不少土石，在那里修建了很结实的屋子。
-[name="米亚罗"]......说不定是这里最结实的屋子？看着像堡垒一样。
+[name="米亚罗"]……说不定是这里最结实的屋子？看着像堡垒一样。
 [character(name="char_456_ash_1#1")]
 [name="灰烬"]你怎么知道“罗德岛”会愿意帮助我们？
 [character(name="avg_npc_160_1#3")]
@@ -214,11 +214,11 @@
 [character(name="avg_npc_160_1#3")]
 [name="米亚罗"]那个屋子在镇子边缘，我们可以从镇外过去，这样就不会被其他人看到了。
 [character(name="char_456_ash_1#2")]
-[name="灰烬"]......嗯......
+[name="灰烬"]……嗯……
 [Character(name="char_456_ash_1#1",name2="char_457_blitz_1#3",focus=1)]
 [name="灰烬"]库兹，你的盾牌还能用吗？
 [Character(name="char_456_ash_1#1",name2="char_457_blitz_1#3",focus=2)]
-[name="闪击"]半面盾，姑且能拿来揍人......应该。
+[name="闪击"]半面盾，姑且能拿来揍人……应该。
 [Character(name="char_456_ash_1#1",name2="char_457_blitz_1#3",focus=1)]
 [name="灰烬"]我需要一个人和我一起去，至少得有人保护医生。
 [Character(name="char_456_ash_1#1",name2="char_457_blitz_1#2",focus=2)]
@@ -264,16 +264,16 @@
 [name="灰烬"]先别靠近，这屋子的门被砸开了。
 [dialog]
 [character(name="avg_npc_160_1#3")]
-[name="米亚罗"]连这里也......
+[name="米亚罗"]连这里也……
 [character(name="char_457_blitz_1#1")]
 [name="闪击"]这群暴徒的目的是什么？和强盗土匪一样打砸抢？
 [Dialog]
 [character]
 [delay(time=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="奥克芬"]救......救命......
+[name="奥克芬"]救……救命……
 [name="奥克芬"]救命啊！谁都好！救救我啊！
-[name="奥克芬"]我......我还不想死......可恶......
+[name="奥克芬"]我……我还不想死……可恶……
 [Dialog]
 [delay(time=1)]
 [Character(name="avg_npc_160_1#3",name2="char_456_ash_1#2",focus=1)]
@@ -299,9 +299,9 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=2)]
-[name="奥克芬"]......早知道就不做这份工作了......
+[name="奥克芬"]……早知道就不做这份工作了……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="奥克芬"]我不想死在这......
+[name="奥克芬"]我不想死在这……
 [Dialog]
 [PlaySound(key="$rungeneral")]
 [Character(name="char_456_ash_1#2",name2="avg_npc_012",enter="left",fadetime=1)]
@@ -313,7 +313,7 @@
 [name="灰烬"]不要乱动，你的腿断了。
 [Dialog]
 [Character(name="char_456_ash_1#1",name2="avg_npc_012",focus=2)]
-[name="奥克芬"]雇......雇佣兵......
+[name="奥克芬"]雇……雇佣兵……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="奥克芬"]别杀我！求求你！我说了我真的不知道钥匙在哪！我只是个看门的！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -321,7 +321,7 @@
 [Character(name="char_456_ash_1#3",name2="avg_npc_012",focus=1)]
 [name="灰烬"]冷静点！我是来帮你的。
 [Character(name="char_456_ash_1#3",name2="avg_npc_012",focus=2)]
-[name="奥克芬"]你......你和那群人不是一伙的......
+[name="奥克芬"]你……你和那群人不是一伙的……
 [dialog]
 [characteraction(name="right", type="move", xpos=-30, fadetime=0.3, block=false)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)] 
@@ -343,12 +343,12 @@
 [Character(name="avg_npc_160_1#3", name2="avg_npc_012",fadetime=0.7)]
 [delay(time=1.5)]
 [Character(name="avg_npc_160_1#3", name2="avg_npc_012",focus=1)]
-[name="米亚罗"]奥克芬先生......你的腿......
+[name="米亚罗"]奥克芬先生……你的腿……
 [Character(name="avg_npc_160_1#3", name2="avg_npc_012",focus=2)]
-[name="奥克芬"]你......你是那个感染者医生！
+[name="奥克芬"]你……你是那个感染者医生！
 [name="奥克芬"]谢天谢地！
 [Character(name="avg_npc_160_1#3", name2="avg_npc_012",focus=1)]
-[name="米亚罗"]别急，让我看看你的腿......
+[name="米亚罗"]别急，让我看看你的腿……
 [dialog]
 [delay(time=1)]
 [characteraction(name="left", type="move", xpos=200, fadetime=1, block=false)]
@@ -371,7 +371,7 @@
 [name="闪击"]这么大一台，有点复古啊。原来这个世界是有这种通讯设备的。
 [Character(name="char_456_ash_1#1",name2="char_457_blitz_1#3",focus=1)]
 [name="灰烬"]他们连汽车都有，有无线电也不奇怪。
-[name="灰烬"]我们之前住的破屋子里还有别的“废旧电器”呢，冰箱、风扇、热水壶......虽然这些损毁物件里没有一个是真正通电的。
+[name="灰烬"]我们之前住的破屋子里还有别的“废旧电器”呢，冰箱、风扇、热水壶……虽然这些损毁物件里没有一个是真正通电的。
 [name="灰烬"]就和这个无线电台一样，就和我们之前弄来的车一样。
 [Character(name="char_456_ash_1#1",name2="char_457_blitz_1#3",focus=2)]
 [name="闪击"]这些机器里都有一个装着黑色结晶的装置，我估计那个就是这些设备的能源。
@@ -383,18 +383,18 @@
 [name="奥克芬"]痛痛痛！你轻点啊医生！
 [Character(name="avg_npc_160_1#3", name2="avg_npc_012",focus=1)]
 [name="米亚罗"]忍住！
-[name="米亚罗"]......还好，不太严重，骨头没有断。
+[name="米亚罗"]……还好，不太严重，骨头没有断。
 [dialog]
 [character]
 [delay(time=0.6)]
 [Character(name="char_456_ash_1#1",name2="avg_npc_012",focus=1)]
 [name="灰烬"]你就是这里的负责人？
 [Character(name="char_456_ash_1#1",name2="avg_npc_012",focus=2)]
-[name="奥克芬"]这里是......罗德岛驻外办公室。我......我其实只是个看门的。
+[name="奥克芬"]这里是……罗德岛驻外办公室。我……我其实只是个看门的。
 [character(name="char_457_blitz_1#3")]
 [name="闪击"]让我猜猜，这些暴徒冲到这里，让你打开地下室的门，但是你坚守职责，一直在装傻，于是被打了一顿，然后他们就把你丢在这里等死？
 [Character(name="avg_npc_012")]
-[name="奥克芬"]......差不多是这样。
+[name="奥克芬"]……差不多是这样。
 [Character(name="char_457_blitz_1#3",name2="avg_npc_012",focus=2)]
 [name="奥克芬"]等等，你们怎么知道有地下室的？
 [Character(name="char_457_blitz_1#2",name2="avg_npc_012",focus=1)]
@@ -407,15 +407,15 @@
 [Character(name="char_456_ash_1#2",name2="char_457_blitz_1#2",focus=2)]
 [name="闪击"]不要生气，我只是活跃一下气氛。
 [Character(name="avg_npc_160_1#3", name2="avg_npc_012",focus=2)]
-[name="奥克芬"]你们......你们到底是做什么的？
+[name="奥克芬"]你们……你们到底是做什么的？
 [Character(name="avg_npc_160_1#4", name2="avg_npc_012",focus=1)]
 [name="米亚罗"]别担心，科恩小姐他们是好人，他们一直在保护感染者社区的居民。
 [Character(name="avg_npc_160_1#4", name2="avg_npc_012",focus=2)]
 [name="奥克芬"]感染者社区也被袭击了？？
-[name="奥克芬"]这......都乱套了。
+[name="奥克芬"]这……都乱套了。
 [name="奥克芬"]领主卫队呢？图拉领主的卫队呢？
 [Character(name="avg_npc_160_1#1", name2="avg_npc_012",focus=1)]
-[name="米亚罗"]领主卫队一直没有出现，他们可能也遇到了麻烦......
+[name="米亚罗"]领主卫队一直没有出现，他们可能也遇到了麻烦……
 [dialog]
 [character]
 [delay(time=1)]
@@ -427,15 +427,15 @@
 [name="灰烬"]得了病的镇民们也被袭击了，感染者社区的人员和建筑都损失惨重。
 [name="灰烬"]我们需要你打开安全屋，让他们躲在这里。
 [Character(name="avg_npc_012")]
-[name="奥克芬"]这......
+[name="奥克芬"]这……
 [character(name="char_457_blitz_1#3")]
 [name="闪击"]相对的，我们也会保护你的安全，你可以信任我们。
 [Character(name="avg_npc_012")]
-[name="奥克芬"]但是......但是......
+[name="奥克芬"]但是……但是……
 [name="奥克芬"]依据我和罗德岛签订的合同，整个安全屋都是罗德岛的资产。
-[name="奥克芬"]......我没有权力......
-[name="奥克芬"]......
-[name="奥克芬"]......唉......感染者......
+[name="奥克芬"]……我没有权力……
+[name="奥克芬"]……
+[name="奥克芬"]……唉……感染者……
 [name="奥克芬"]让他们来吧，丢了工作总比丢了命强。
 [character(name="avg_npc_160_1#4")]
 [name="米亚罗"]谢谢你！奥克芬先生！

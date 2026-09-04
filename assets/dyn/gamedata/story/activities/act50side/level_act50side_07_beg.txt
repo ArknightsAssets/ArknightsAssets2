@@ -14,7 +14,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
 [name="宝巫迦"]“雷之主”的踪迹在这里消失了，看来这里便是它的寄居之地。
 [charslot(slot="m",name="avg_1048_orchd2_1#10$2",focus="m")]
-[name="梓兰"]就在这片......竹林？不过为什么地下也有竹林？难道这片竹林和地上那片竹林是连在一起的？！
+[name="梓兰"]就在这片……竹林？不过为什么地下也有竹林？难道这片竹林和地上那片竹林是连在一起的？！
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]不，这片竹林是“雷之主”的杰作。
 [name="宝巫迦"]看到飘起的雾气了吗？那是“诅咒”的气息，虽然并非是“诅咒”本身。
@@ -42,7 +42,7 @@
 [name="宝巫迦"]是“雷之主”的栖息，让这里变成了这样。
 [charslot(slot="m",name="avg_4215_buddyC_1#1$5",focus="m")]
 [PlaySound(key="$MHR_cat_voice1", volume=1)]
-[name="政宗"]看来比十年前更加茂密了喵......
+[name="政宗"]看来比十年前更加茂密了喵……
 [PlaySound(key="$MHR_dog_voice1",volume=0.8)]
 [charslot(slot="m",name="avg_4215_buddyD_1#1$2",focus="m")]
 [name="义经"]（略带迟疑的低吼）
@@ -82,7 +82,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1049_catap2_1#7$2",focus="m")]
-[name="空爆"]......咦？
+[name="空爆"]……咦？
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]怎么了，空爆小姐？
 [charslot(slot="m",name="avg_1049_catap2_1#7$2",focus="m")]
@@ -98,7 +98,7 @@
 宝巫迦从怀中取出一个小瓶子。
 瓶子中，一只飞虫正在撞击着瓶子，它的尾部微微发光。
 [charslot(slot="m",name="avg_1048_orchd2_1#4$2",focus="m")]
-[name="梓兰"]这是......
+[name="梓兰"]这是……
 [charslot(slot="m",name="avg_4215_buddyC_1#1$4",focus="m")]
 [PlaySound(key="$MHR_cat_voice2", volume=1)]
 [name="政宗"]这是雷光虫喵！
@@ -151,10 +151,10 @@
 [Dialog]
 [Image(image="71_i05",xScale=1, yScale=1, fadetime=1.5)]
 [Delay(time=1.5)]
-[name="宝巫迦"]......
+[name="宝巫迦"]……
 [name="梓兰"]怎么了，宝巫迦？
-[name="宝巫迦"]如果它们和“雷之主”共生，它们应当也和“雷之主”一样来自远方异土......但是为什么，它们没有跟在“雷之主”身边呢？
-[name="宝巫迦"]吾不知道......明明这一幕很美，但吾却感觉到很悲伤。
+[name="宝巫迦"]如果它们和“雷之主”共生，它们应当也和“雷之主”一样来自远方异土……但是为什么，它们没有跟在“雷之主”身边呢？
+[name="宝巫迦"]吾不知道……明明这一幕很美，但吾却感觉到很悲伤。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -167,7 +167,7 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4215_buddyC_1#1$4",focus="m")]
 [PlaySound(key="$MHR_cat_voice1", volume=1)]
-[multiline(name="政宗")]雷光虫......
+[multiline(name="政宗")]雷光虫……
 [charslot(slot="m",name="avg_4215_buddyC_1#1$1",focus="m")]
 [multiline(name="政宗")]对了，是雷光虫喵！
 [charslot(slot="m",name="avg_4215_buddyC_1#1$7",focus="m")]
@@ -194,17 +194,17 @@
 [Dialog]
 [charslot]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=2, block=true)]
-[Subtitle(text="原来......如此。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“雷之主”......若非你的强大，吾无从来到......这里......！", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="只可惜......一切......都晚了......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="原来……如此。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“雷之主”……若非你的强大，吾无从来到……这里……！", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="只可惜……一切……都晚了……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_1049_catap2_1#12$2",focus="m")]
 [name="空爆"]什么声音？！
 [charslot(slot="m",name="avg_1048_orchd2_1#9$2",focus="m")]
-[name="梓兰"]这声音......简直就像是竹林本身发出的......
+[name="梓兰"]这声音……简直就像是竹林本身发出的……
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]这是......母亲的声音？！
+[name="宝巫迦"]这是……母亲的声音？！
 [name="宝巫迦"]母亲！你在这里吗！
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
 [name="宝巫迦"]告诉吾，究竟发生了什么？！
@@ -225,7 +225,7 @@
 [name="空爆"]梓兰姐，宝巫迦已经不见了！
 [charslot(slot="m",name="avg_1048_orchd2_1#5$2",focus="m")]
 [name="梓兰"]追！
-[name="梓兰"]必须快点找到她！这些话......如果这是前代陛下以某种方式留下的遗言......那宝巫迦一定会控制不住自己的！
+[name="梓兰"]必须快点找到她！这些话……如果这是前代陛下以某种方式留下的遗言……那宝巫迦一定会控制不住自己的！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -242,7 +242,7 @@
 [name="空爆"]这里是——瀑布？
 [charslot(slot="m",name="avg_4215_buddyC_1#1$4",focus="m")]
 [PlaySound(key="$MHR_cat_voice2", volume=1)]
-[name="政宗"]地上全是咒鬼的尸体喵！这些......全部都是陛下杀的喵！
+[name="政宗"]地上全是咒鬼的尸体喵！这些……全部都是陛下杀的喵！
 [PlaySound(key="$MHR_dog_voice1",volume=0.8)]
 [charslot(slot="m",name="avg_4215_buddyD_1#1$3",focus="m")]
 [name="义经"]（激动的吼叫）
@@ -252,12 +252,12 @@
 咒鬼的尸体一路蔓延，而在这条尸体之路的尽头，宝巫迦站在瀑布的边缘，呆呆地看着瀑布的下方。
 [Dialog]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=2, block=true)]
-[Subtitle(text="“雷之主”......它的力量......正在吞噬吾......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="宝巫迦，吾的爱女......你必须......变得比它更强......把属于吾等的一切......夺回来......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“雷之主”……它的力量……正在吞噬吾……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="宝巫迦，吾的爱女……你必须……变得比它更强……把属于吾等的一切……夺回来……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_1048_orchd2_1#4$2",focus="m")]
-[name="梓兰"]这些话......
+[name="梓兰"]这些话……
 [charslot(slot="m",name="avg_1048_orchd2_1#9$2",focus="m")]
 [name="梓兰"]啧，对现在的宝巫迦来说，这些话只会刺激她！
 [Dialog]
@@ -306,11 +306,11 @@
 [Dialog]
 [charslot]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=2, block=true)]
-[Subtitle(text="不......不要重蹈吾的覆辙......启动“御轮”......才是唯一的希望......利用“雷之主”的力量......而不是......被仇恨吞噬......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="不……不要重蹈吾的覆辙……启动“御轮”……才是唯一的希望……利用“雷之主”的力量……而不是……被仇恨吞噬……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_1048_orchd2_1#3$2",focus="m")]
-[name="梓兰"]等等，这段话......
+[name="梓兰"]等等，这段话……
 [charslot(slot="m",name="avg_1048_orchd2_1#4$2",focus="m")]
 [name="梓兰"]难道说——
 [charslot(slot="m",name="avg_1048_orchd2_1#5$2",focus="m")]
@@ -333,9 +333,9 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_2100_1#8$1",afrom=0, ato=1,duration=1.5)]
 [delay(time=2)]
-[name="宝巫迦"]终于......找到你了。
+[name="宝巫迦"]终于……找到你了。
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
-[name="宝巫迦"]“雷之主”......
+[name="宝巫迦"]“雷之主”……
 [Dialog]
 [charslot]
 [bgeffect(name="$eb_hyper", layer=1)]
@@ -353,7 +353,7 @@
 [name="“雷之主”"]（痛苦的嘶吼）
 [bgeffect]
 [charslot(slot="m",name="avg_npc_2100_1#11$1",focus="m")]
-[name="宝巫迦"]是吗......原来，是“诅咒”让这些雷光虫无法靠近你，难怪它们如此悲伤。
+[name="宝巫迦"]是吗……原来，是“诅咒”让这些雷光虫无法靠近你，难怪它们如此悲伤。
 [name="宝巫迦"]“雷之主”，在这片不属于你的国度之中生活，对你而言，是不是也是一件十分痛苦的事？
 [Dialog]
 [bgeffect(name="$eb_smock", layer=1)]
@@ -474,11 +474,11 @@
 [bgeffect(name="$eb_light",x=-9,y=-67,layer=1)]
 [charslot(slot="m",name="avg_npc_2100_1#10$1",focus="m")]
 [name="宝巫迦"]咕——
-[name="宝巫迦"]果然，没那么顺利......
+[name="宝巫迦"]果然，没那么顺利……
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]但是，吾早已做好心理准备。
 [charslot(slot="m",name="avg_npc_2100_1#11$1",focus="m")]
-[name="宝巫迦"]如果无法夺回你身上属于母亲的力量，那么，至少吾可以......
+[name="宝巫迦"]如果无法夺回你身上属于母亲的力量，那么，至少吾可以……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
@@ -490,12 +490,12 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#10$2",focus="m")]
 [name="梓兰"]她身上发出的光是怎么回事？！她在使用她的力量吸收“雷之主”身上的“诅咒”吗？
 [charslot(slot="m",name="avg_1049_catap2_1#8$2",focus="m")]
-[name="空爆"]不......不对！吸收“诅咒”并不是这样！
+[name="空爆"]不……不对！吸收“诅咒”并不是这样！
 [charslot(slot="m",name="avg_4215_buddyC_1#1$4",focus="m")]
 [PlaySound(key="$MHR_cat_voice2", volume=1)]
-[name="政宗"]这是......她正在用自身巫女的力量和雷狼龙身上属于前代陛下的巫女力量共鸣喵！
+[name="政宗"]这是……她正在用自身巫女的力量和雷狼龙身上属于前代陛下的巫女力量共鸣喵！
 [charslot(slot="m",name="avg_1048_orchd2_1#4$2",focus="m")]
-[name="梓兰"]共鸣......？难道说——
+[name="梓兰"]共鸣……？难道说——
 [charslot(slot="m",name="avg_1048_orchd2_1#5$2",focus="m")]
 [name="梓兰"]她想要和“雷之主”同归于尽？！
 [PlaySound(key="$MHR_dog_voice1",volume=0.8)]
@@ -532,12 +532,12 @@
 [Delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_1048_orchd2_1#3$2",focus="m")]
-[name="梓兰"]......
+[name="梓兰"]……
 [charslot(slot="m",name="avg_1048_orchd2_1#8$2",focus="m")]
-[name="梓兰"]唉......
+[name="梓兰"]唉……
 [name="梓兰"]一个两个，都是不让人省心的家伙。
 [charslot(slot="m",name="avg_1048_orchd2_1#6$2",focus="m")]
-[name="梓兰"]这个位置......这个角度......应该还来得及。
+[name="梓兰"]这个位置……这个角度……应该还来得及。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -595,8 +595,8 @@
 [charslot]
 [Background(image="bg_room_2",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="梓兰"]如果泡普卡没有被凯尔希医生带入罗德岛，如果斑点和月见夜没有因为矿石病而加入罗德岛......
-[name="梓兰"]如果他们没有加入A6小队......不，如果我们没有组成A6小队。
+[name="梓兰"]如果泡普卡没有被凯尔希医生带入罗德岛，如果斑点和月见夜没有因为矿石病而加入罗德岛……
+[name="梓兰"]如果他们没有加入A6小队……不，如果我们没有组成A6小队。
 [name="梓兰"]或许他们的性格不会和这里的三个人一样，但他们都会依靠自己坚强地活下去。
 [Dialog]
 [PlaySound(key="$flashback", volume=0.8)]
@@ -661,13 +661,13 @@
 [PlaySound(key="$MHR_cat_voice3", volume=1)]
 [name="政宗"]梓兰怎么了？感觉从进入地下以来，梓兰就有些怪怪的喵！
 [charslot(slot="r",name="avg_1049_catap2_1#6$2",focus="r")]
-[name="空爆"]梓兰姐......很纠结。
+[name="空爆"]梓兰姐……很纠结。
 [charslot(slot="r",name="avg_1049_catap2_1#15$2",focus="r")]
 [name="空爆"]梓兰姐总是摆出一副事不关己，公事公办的样子，但她其实很关心身边的人。
 [name="空爆"]她太关心了，以至于她不知道怎么去表达这种关心，到最后，她选择用那副样子来伪装自己。
 [name="空爆"]久而久之，她连自己都骗过去了。
 [charslot(slot="r",name="avg_1049_catap2_1#6$2",focus="r")]
-[name="空爆"]她当然很在意我们小队的情况，但是......
+[name="空爆"]她当然很在意我们小队的情况，但是……
 [name="空爆"]既然她会在那时站出来主持大局，她也一定会在此刻想到办法。
 [charslot(slot="r",name="avg_1049_catap2_1#5$2",focus="r")]
 [name="空爆"]告诉你一个小秘密，政宗。

@@ -6,13 +6,13 @@
 [name="陈"]   没等太久吧。近卫局的会议稍微耽误了点时间。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=2)]
 [name="阿米娅"]   没事的，陈长官。
-[name="阿米娅"]  （陈长官，就像什么事都没发生过一样......）
+[name="阿米娅"]  （陈长官，就像什么事都没发生过一样……）
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=1)]
 [name="陈"]   情况如何？
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=2)]
 [name="阿米娅"]   罗德岛的侦察小队已经提供了一些有效情报。
 [name="阿米娅"]   我总结了一下，从其中选了几条你会感兴趣的。
-[name="阿米娅"]   啊......星熊警官......
+[name="阿米娅"]   啊……星熊警官……
 [Character(name="char_136_hsguma")]
 [name="星熊"]   别在意。我也想稍微听一下。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=1)]
@@ -33,10 +33,10 @@
 [name="阿米娅"]   罗德岛有数支侦察小队正同时在分城执行任务。
 [name="阿米娅"]   其中确实徘徊着许多整合运动的成员，而原本的居民基本都不知去向。
 [name="阿米娅"]   有一支小队甚至与整合运动发生了三次以上战斗。
-[name="阿米娅"]   只是，以目前的情报量而言，我们还不能断定这个分城与整合运动的行动究竟有何联系......
+[name="阿米娅"]   只是，以目前的情报量而言，我们还不能断定这个分城与整合运动的行动究竟有何联系……
 [name="阿米娅"]   但我建议，将这座分城作为接下来的重点作战目标之一。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=1)]
-[name="陈"]   ......是吗。
+[name="陈"]   ……是吗。
 [name="陈"]   星熊，帮我去拿下报表。在我桌子左边第三格抽屉。
 [Character(name="char_136_hsguma")]
 [name="星熊"]   现在？行。
@@ -46,19 +46,19 @@
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=1)]
 [name="陈"]   你继续说。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=2)]
-[name="阿米娅"]   嗯，综上所述......
+[name="阿米娅"]   嗯，综上所述……
 [name="阿米娅"]   罗德岛建议，应该发动一次联合作战，完全剿灭龙门内部的整合运动。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=1)]
 [name="陈"]   并不好。
 [name="陈"]   近卫局不会允许的。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1#6", focus=2)]
-[name="阿米娅"]   ......什么？陈长官......？
+[name="阿米娅"]   ……什么？陈长官……？
 [Character(name="char_010_chen_1", name2="char_002_amiya_1#6", focus=1)]
 [name="陈"]   我说，不行。
 [name="陈"]   你，是感染者。
 [name="陈"]   再在贫民区内执行任务，只会引起更大的骚乱。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=2)]
-[name="阿米娅"]   ......
+[name="阿米娅"]   ……
 [Character(name="char_010_chen_1", name2="char_002_amiya_1", focus=1)]
 [name="陈"]   这是近卫局的决定。
 [Character(name="char_010_chen_1", name2="char_002_amiya_1#4", focus=2)]
@@ -66,20 +66,20 @@
 [PlaySound(key="$phone")]
 [Delay(time=1)]
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]   啊，稍等，我接一下......
+[name="阿米娅"]   啊，稍等，我接一下……
 [name="阿米娅"]   这里是阿米娅。
 [Character(name="char_002_amiya_1", focus=-1)]
 [name="？？？"]   是，是阿米娅吗？
 [Character(name="char_002_amiya_1#6")]
-[name="阿米娅"]   ......！杰西卡？
+[name="阿米娅"]   ……！杰西卡？
 [Character(name="char_002_amiya_1#6", focus=-1)]
-[name="杰西卡"]   是的，这里是杰西卡......
+[name="杰西卡"]   是的，这里是杰西卡……
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]   是在进行什么隐秘行动吗，声音这么轻......
+[name="阿米娅"]   是在进行什么隐秘行动吗，声音这么轻……
 [Character(name="char_002_amiya_1", focus=-1)]
-[name="杰西卡"]   我们在分城废墟发现了......
-[name="杰西卡"]   ......整合运动的领袖。
-[name="杰西卡"]   而且有......两个。
+[name="杰西卡"]   我们在分城废墟发现了……
+[name="杰西卡"]   ……整合运动的领袖。
+[name="杰西卡"]   而且有……两个。
 [Character(name="char_002_amiya_1#6")]
 [name="阿米娅"]   什么？！
 [Dialog]
@@ -123,10 +123,10 @@
 [Blocker(a=0, fadetime=0.6, block=true)]
 [Character(name="char_219_meteo_1")]
 [name="陨星"]   杰西卡，别！
-[name="陨星"]   这可能是陷阱......！
+[name="陨星"]   这可能是陷阱……！
 [Character(name="char_259_Jessica_1#3")]
 [name="杰西卡"]   他发现我们了！必须——
-[name="杰西卡"]   如果击倒敌人的领袖的话，我们......必须......！
+[name="杰西卡"]   如果击倒敌人的领袖的话，我们……必须……！
 [PlaySound(key="$p_imp_grenade_n")]
 [PlaySound(key="$d_gen_explo_n", delay=0.3)]
 [Delay(time=1)]

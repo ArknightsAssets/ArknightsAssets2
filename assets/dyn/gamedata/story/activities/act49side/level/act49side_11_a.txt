@@ -36,7 +36,7 @@
 [delay(time="2")]
 [playanim(charId="trap_330_ycwang", anim="Die", looporidle="Die", dir="DOWN")]
 [delay(time="0.4")]
-[name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]呵，尽头？这还是你曾经告诉我的......棋盘广阔无尽，我与你之间的胜负，又何止在名为“望”的这一盘？
+[name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]呵，尽头？这还是你曾经告诉我的……棋盘广阔无尽，我与你之间的胜负，又何止在名为“望”的这一盘？
 [playanim(charId="trap_330_ycwang", anim="Idle_2", looporidle="Idle_2", dir="DOWN")]
 [name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]与你对弈的，也不止我一人。
 
@@ -165,7 +165,7 @@
 [delay(time="1.5")]
 
 [name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]现在你还觉得，这局棋，是你占优吗？
-[name="岁", avatarId="avg_npc_2129_2", isAvatarRight="FALSE"]怎么会......怎么会！
+[name="岁", avatarId="avg_npc_2129_2", isAvatarRight="FALSE"]怎么会……怎么会！
 [name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]而我，也不过是用这副冷子残枰，送你最后一程而已！
 
 [playanim(enemyId="enemy_3018_yczzh", anim="Die_Attack", looporidle="Idle", dir="DOWN")]
@@ -219,14 +219,14 @@
 
 [delay(time="0.1")]
 
-[name="岁", avatarId="enemy_1582_suisho", isAvatarRight="FALSE"]......！！！
+[name="岁", avatarId="enemy_1582_suisho", isAvatarRight="FALSE"]……！！！
 
 [delay(time="0.5")]
 
 [camerafocusto(offsetX="6", offsetY="3.5", time="2", scale="MID")]
 [delay(time="1")]
 
-[name="岁", avatarId="avg_npc_2129_1", isAvatarRight="FALSE"]不，还没完，还有机会......
+[name="岁", avatarId="avg_npc_2129_1", isAvatarRight="FALSE"]不，还没完，还有机会……
 [name="岁", avatarId="avg_npc_2129_1", isAvatarRight="FALSE"]什么超脱，什么各自的路！那不过是他们从我这里窃取的力量，而你早已油尽灯枯——
 [name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]——油尽灯枯，就和你一样。
 [name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]你的记忆已全数被自己挥霍，而今这副辽远的棋枰上，我们同等渺小。
@@ -241,7 +241,7 @@
 [summontrap(x="6", y="4", charId="trap_287_baizi", isChar="FALSE", dir="DOWN")]
 [createeffect(id="trap_330_ycwang", key="wang_skill_03_range")]
 [name="岁", avatarId="avg_npc_2129_1", isAvatarRight="FALSE"]什么？！
-[name="岁", avatarId="avg_npc_2129_2", isAvatarRight="FALSE"]你竟敢——你不能......
+[name="岁", avatarId="avg_npc_2129_2", isAvatarRight="FALSE"]你竟敢——你不能……
 
 [delay(time="2")]
 
@@ -271,7 +271,7 @@
 [delay(time="1")]
 
 [playanim(charId="trap_330_ycwang", anim="Skill_3_End", looporidle="Idle_2", dir="DOWN")]
-[name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]当你面前的这位敌手，也不需要你的时候......
+[name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]当你面前的这位敌手，也不需要你的时候……
 [name="望", avatarId="char_2027_wang", isAvatarRight="FALSE"]你的命数已然注定。
 [playanim(charId="trap_330_ycwang", anim="Attack_1_B", looporidle="Die", dir="DOWN")]
 [delay(time="1")]

@@ -9,13 +9,13 @@
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_1036_1#1$1",duration=0.5)]
 [Delay(time=1)]
-[name="“桥夹”克里夫"]......现在是什么情况？
+[name="“桥夹”克里夫"]……现在是什么情况？
 [charslot(slot = "m", focus = "n")]
-[name="秘书"]杰西卡小姐的踪迹已经在掌握中......因为有命令在，底下的佣兵难免束手束脚的，不过算算时间，她的弹药差不多也要耗尽了。
+[name="秘书"]杰西卡小姐的踪迹已经在掌握中……因为有命令在，底下的佣兵难免束手束脚的，不过算算时间，她的弹药差不多也要耗尽了。
 [charslot(slot = "m", name = "avg_npc_1036_1#1$1")]
 [name="“桥夹”克里夫"]蒂拉那边有消息吗？
 [charslot(slot = "m", focus = "n")]
-[name="秘书"]海伦娜女士和矿工带着钱进了能源塔......两人都没有出来。
+[name="秘书"]海伦娜女士和矿工带着钱进了能源塔……两人都没有出来。
 [charslot(slot = "m", name = "avg_npc_1036_1#7$1")]
 [name="“桥夹”克里夫"]在众目睽睽下消失吗？那里肯定有其他的出路，告诉蒂拉继续搜寻。
 [charslot(slot = "m", focus = "n")]
@@ -23,14 +23,14 @@
 [charslot(slot = "m", name = "avg_npc_1036_1#1$1")]
 [name="“桥夹”克里夫"]伍迪呢？他离开了吗？
 [charslot(slot = "m", focus = "n")]
-[name="秘书"]伍德洛先生......他没有离开地块，看样子他似乎放弃了原本定下的逃脱计划。
+[name="秘书"]伍德洛先生……他没有离开地块，看样子他似乎放弃了原本定下的逃脱计划。
 [name="秘书"]毕竟一开始据蒂拉报告，伍德洛先生打算在一切结束后带那位矿工先生躲进深山中。
 [charslot(slot = "m", name = "avg_npc_1036_1#10$1")]
-[name="“桥夹”克里夫"]伍迪往哪里去了......
+[name="“桥夹”克里夫"]伍迪往哪里去了……
 [charslot(slot = "m", focus = "n")]
-[name="秘书"]他......正朝这边来。
+[name="秘书"]他……正朝这边来。
 [charslot(slot = "m", name = "avg_npc_1036_1#1$1")]
-[name="“桥夹”克里夫"]......
+[name="“桥夹”克里夫"]……
 [charslot(slot = "m", focus = "n")]
 [name="秘书"]要派人拦截吗？
 [charslot(slot = "m", name = "avg_npc_1036_1#1$1")]
@@ -47,26 +47,26 @@
 [charslot(slot = "left", name = "avg_106_franka_1#1$1",focus="l")]
 [name="芙兰卡"]雷蛇，前面有燃烧的障碍物，车子开不进去，我们只能下来步行了。
 [charslot(slot = "right", name = "avg_107_liskam_1#7$1",focus="r")]
-[name="雷蛇"]那些是......黑钢的载具？
+[name="雷蛇"]那些是……黑钢的载具？
 [charslot(slot = "left", name = "avg_106_franka_1#5$1",focus="l")]
-[name="芙兰卡"]是伍德洛先生......还是杰西卡她......
+[name="芙兰卡"]是伍德洛先生……还是杰西卡她……
 [charslot(slot = "right", name = "avg_107_liskam_1#4$1",focus="r")]
 [name="雷蛇"]至少说明刚刚能源塔爆炸时，不是所有人都在里面。
 [charslot(slot = "left", name = "avg_106_franka_1#8$1",focus="l")]
-[name="芙兰卡"]等等，雷蛇......上面有消息来了。
+[name="芙兰卡"]等等，雷蛇……上面有消息来了。
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [playsound(key="$d_gen_transmissionget")]
 [delay(time=1.5)]
-[name="通讯音"]各小组注意，现在的情况是，在方才的爆炸事故中目标工程师生死不明，目标海伦娜失踪......
+[name="通讯音"]各小组注意，现在的情况是，在方才的爆炸事故中目标工程师生死不明，目标海伦娜失踪……
 [charslot(slot = "left", name = "avg_106_franka_1#5$1",focus="l")]
-[name="芙兰卡"]天......
+[name="芙兰卡"]天……
 [charslot(slot = "m", focus = "n")]
 [name="通讯音"]上级指令，放弃目标伍德洛，全力追捕目标杰西卡，目标在矿厂东部废弃巷道内，持有大量武器。
 [charslot(slot = "left", name = "avg_106_franka_1#11$1",focus="l")]
-[name="芙兰卡"]......雷蛇，我们......该怎么......？
+[name="芙兰卡"]……雷蛇，我们……该怎么……？
 [charslot(slot = "right", name = "avg_107_liskam_1#4$1",focus="r")]
-[name="雷蛇"]......总有些事情我们能做，这片矿厂，我们比其他小队都熟悉，想想......怎么能以最快的速度赶到她的身边。
+[name="雷蛇"]……总有些事情我们能做，这片矿厂，我们比其他小队都熟悉，想想……怎么能以最快的速度赶到她的身边。
 [Dialog]
 [StopSound(channel="a", fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -81,7 +81,7 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1034_1#1$1",focus="r")]
 [charslot(slot = "r", name = "avg_npc_1036_1#1$1",focus="r")]
-[name="“桥夹”克里夫"]你来得比我预想中要快些......伍迪。
+[name="“桥夹”克里夫"]你来得比我预想中要快些……伍迪。
 [charslot(slot = "l", name = "avg_npc_1034_1#1$1",focus="l")]
 [name="伍德洛"]这一路上，所有建筑都空无一人，我也只能来找你了。
 [charslot(slot = "r", name = "avg_npc_1036_1#10$1",focus="r")]
@@ -96,7 +96,7 @@
 [charslot(slot = "r", name = "avg_npc_1036_1#5$1",focus="r")]
 [name="“桥夹”克里夫"]我当时可是一团糟，伍迪，与我共感一定不太好受。
 [charslot(slot = "l", name = "avg_npc_1034_1#2$1",focus="l")]
-[name="伍德洛"]没办法，萨科塔的天性......我们总是共享一切。
+[name="伍德洛"]没办法，萨科塔的天性……我们总是共享一切。
 [charslot(slot = "l", name = "avg_npc_1034_1#6$1",focus="l")]
 [name="伍德洛"]和从你脑袋里共感到的玩意相比，战俘营里的遭遇可能还真算不上什么。
 [charslot(slot = "r", name = "avg_npc_1036_1#1$1",focus="r")]
@@ -111,12 +111,12 @@
 [delay(time=1)]
 [playsound(key="$transmission")]
 [name="通讯音"]汇报，我看到杰西卡了，坐标已共享。
-[name="通讯音"]目标正向矿厂外移动，身上携有一架重型能源炮、半自动冲锋铳......还有一把手铳，型号不明。
+[name="通讯音"]目标正向矿厂外移动，身上携有一架重型能源炮、半自动冲锋铳……还有一把手铳，型号不明。
 [name="通讯音"]她一个人背了这么多吗？
 [name="通讯音"]哦，对了，她还背了一扇重盾，必要时可以变成炮架的那种。
-[name="通讯音"]真是厉害，看来我们的大小姐过了这么多年，变得还挺......不简单的。
+[name="通讯音"]真是厉害，看来我们的大小姐过了这么多年，变得还挺……不简单的。
 [name="通讯音"]她怎么样，攻击性强吗？一些末路穷途的劫匪很容易一惊一乍，随便做点什么就能让他跳脚。
-[name="通讯音"]嗯......看起来，她挺安静的，就那么向前走，什么也没有做。
+[name="通讯音"]嗯……看起来，她挺安静的，就那么向前走，什么也没有做。
 [dialog]
 [playsound(key="$d_avg_snowbootwalk")]
 [charslot(slot="m",name="avg_1034_jesca2_1#1$2",duration=1.5)]
@@ -151,7 +151,7 @@
 [charslot(slot = "r", name = "avg_npc_1036_1#1$1",focus="r")]
 [name="“桥夹”克里夫"]没办法，不选就要前功尽弃，然后一败涂地，所以我选择接受规则。
 [charslot(slot = "l", name = "avg_npc_1034_1#2$1",focus="l")]
-[name="伍德洛"]......
+[name="伍德洛"]……
 [charslot(slot = "l", name = "avg_npc_1034_1#1$1",focus="l")]
 [name="伍德洛"]看到曾经深深仰慕过的人被战争的规则与逻辑重新塑造，着实是件可悲的事情。
 [name="伍德洛"]你还记得自己原本的模样吗？那个还没经历过独立战争的你。
@@ -162,7 +162,7 @@
 [name="“桥夹”克里夫"]你以前总带着画笔，成日想着终有一天要将自己的画作留在教堂穹顶上。
 [name="“桥夹”克里夫"]这些年，你还碰过画笔吗，伍迪？
 [charslot(slot = "l", name = "avg_npc_1034_1#5$1",focus="l")]
-[name="伍德洛"]......没，我有四根手指都是重新接过的。
+[name="伍德洛"]……没，我有四根手指都是重新接过的。
 [stopmusic(fadetime=3)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -175,14 +175,14 @@
 [PlaySound(key="$d_avg_snowrun", volume=0.8)]
 [name="通讯音"]目标正在向左转，速度不快，附近成员准备好实行抓捕。
 [charslot(slot = "m", name = "avg_106_franka_1#8$1")]
-[name="芙兰卡"]那个坐标......就在前面了，快点......雷蛇。
+[name="芙兰卡"]那个坐标……就在前面了，快点……雷蛇。
 [charslot(slot = "m", name = "avg_107_liskam_1#7$1")]
-[name="雷蛇"]呼......等、等下。
+[name="雷蛇"]呼……等、等下。
 [charslot]
 转过一条巷道，两人停下脚步，女孩孤零零的背影倏地出现在她们眼前。
 [playMusic(intro="$distressed_intro",key="$distressed_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
-[name="雷蛇"]杰西卡......
+[name="雷蛇"]杰西卡……
 [charslot]
 听到呼唤，女孩回过头。
 见到来人后，面色露出些许喜悦，很快喜悦褪去，取而代之的是无措与仓皇。
@@ -190,64 +190,64 @@
 [charslot(slot = "m", name = "avg_1034_jesca2_1#1$2",duration=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_1034_jesca2_1#3$2")]
-[name="杰西卡"]队、队长......你们也来了吗？
+[name="杰西卡"]队、队长……你们也来了吗？
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
-[name="雷蛇"]嗯，我们收到了你的坐标，尽全力赶来了......
+[name="雷蛇"]嗯，我们收到了你的坐标，尽全力赶来了……
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]很抱歉，队长......这次我闯的祸恐怕真的没法收拾了。
+[name="杰西卡"]很抱歉，队长……这次我闯的祸恐怕真的没法收拾了。
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
 [name="雷蛇"]你提交的退队申请我最终批准了，严格来说，我已经不是你的队长了，杰西卡。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]对啊......怎么想也是，你们现在应当是为抓捕我而来。
+[name="杰西卡"]对啊……怎么想也是，你们现在应当是为抓捕我而来。
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
-[name="雷蛇"]不......我们是作为朋友来的。
-[name="雷蛇"]来的路上我接到通讯，在能源塔的爆炸事故中里昂先生他......我不清楚你是否知情，但我觉得无论如何，你会想有人陪着。
+[name="雷蛇"]不……我们是作为朋友来的。
+[name="雷蛇"]来的路上我接到通讯，在能源塔的爆炸事故中里昂先生他……我不清楚你是否知情，但我觉得无论如何，你会想有人陪着。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]嗯......我知道的，爆炸发生前一刻，我正和里昂先生通话......谢谢、谢谢你们能来，只是......
+[name="杰西卡"]嗯……我知道的，爆炸发生前一刻，我正和里昂先生通话……谢谢、谢谢你们能来，只是……
 [charslot(slot = "m", name = "avg_106_franka_1#11$1")]
 [name="芙兰卡"]你还好吗，杰西卡？
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]我......
+[name="杰西卡"]我……
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$2")]
 [name="杰西卡"]不好，很糟糕。
 [charslot(slot = "m", name = "avg_106_franka_1#11$1")]
 [name="芙兰卡"]你希望我们过去抱抱你吗？
 [charslot(slot = "m", name = "avg_1034_jesca2_1#10$2")]
-[name="杰西卡"]不......别过来，有什么话就这样说吧......这个距离我可以听清的。
+[name="杰西卡"]不……别过来，有什么话就这样说吧……这个距离我可以听清的。
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_106_franka_1#11$1",duration=1)]
 [PlaySound(key="$d_avg_snowbootwalk")]
 [delay(time=1.5)]
-[name="芙兰卡"]杰西卡......
+[name="芙兰卡"]杰西卡……
 [charslot(slot = "m", name = "avg_1034_jesca2_1#6$2")]
 [name="杰西卡"]停在那里别动，芙兰卡。
 [charslot(slot = "m", focus = "n")]
 慌乱间，杰西卡拔出腰间的手铳，阻止芙兰卡进一步向前。
 [charslot(slot = "m", name = "avg_106_franka_1#5$1")]
-[name="芙兰卡"]你......要拿铳指着我吗，杰西卡？
+[name="芙兰卡"]你……要拿铳指着我吗，杰西卡？
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$2")]
-[name="杰西卡"]对、对不起......我、我只是......芙兰卡，别这样......就让我一个人吧。
+[name="杰西卡"]对、对不起……我、我只是……芙兰卡，别这样……就让我一个人吧。
 [charslot(slot = "m", name = "avg_106_franka_1#11$1")]
-[name="芙兰卡"]杰西卡......
+[name="芙兰卡"]杰西卡……
 [charslot(slot = "m", name = "avg_107_liskam_1#1$1")]
-[name="雷蛇"]芙兰卡，让我来和她说......
+[name="雷蛇"]芙兰卡，让我来和她说……
 [dialog]
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
 [delay(time=1)]
 [name="雷蛇"]你有想去的地方吗，杰西卡？就在这一切结束后。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]能去哪里呢......？那几架无人机追了我一路了，你们不应该来找我的......有些事怕你们回去后说不清。
+[name="杰西卡"]能去哪里呢……？那几架无人机追了我一路了，你们不应该来找我的……有些事怕你们回去后说不清。
 [charslot(slot = "m", name = "avg_107_liskam_1#4$1")]
-[name="雷蛇"]我不怕......说不清就说不清，只要我们在一起，什么也不怕。
+[name="雷蛇"]我不怕……说不清就说不清，只要我们在一起，什么也不怕。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]可我怕......我很怕......
+[name="杰西卡"]可我怕……我很怕……
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
 [name="雷蛇"]怕什么呢？
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$2")]
 [name="杰西卡"]怕那一池洁净的温水太温暖，太美好。
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
-[name="雷蛇"]那......是什么意思......？
+[name="雷蛇"]那……是什么意思……？
 [dialog]
 [charslot]
 [playsound(key="$d_avg_truckengine", loop=true, channel="a",volume=0)]
@@ -281,7 +281,7 @@
 [charslot(slot = "r", name = "avg_npc_1036_1#7$1",focus="r")]
 [name="“桥夹”克里夫"]我是个佣兵，拉特兰没我的位置。你为什么不想？
 [charslot(slot = "l", name = "avg_npc_1034_1#5$1",focus="l")]
-[name="伍德洛"]呵......
+[name="伍德洛"]呵……
 [name="伍德洛"]一旦回到拉特兰，什么难受的事忘不了呢？
 [name="伍德洛"]可战俘营里的人死得七七八八，能记得那些事的人没几个了，总得有人记得。
 [charslot(slot = "r", name = "avg_npc_1036_1#1$1",focus="r")]
@@ -324,17 +324,17 @@
 [PlaySound(key="$d_avg_mictest")]
 [delay(time=1)]
 [name="冷静的黑钢佣兵"]杰西卡小姐，放下你手中的武器吧，到头了。
-[name="冷静的黑钢佣兵"]看看你的周围吧，你哪里也去不了，今天的闹剧结束了，一会儿雪还会更大......妈的，本来今天我能早早下班躺进被窝的。
+[name="冷静的黑钢佣兵"]看看你的周围吧，你哪里也去不了，今天的闹剧结束了，一会儿雪还会更大……妈的，本来今天我能早早下班躺进被窝的。
 [charslot]
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]......虽然很想再道一声抱歉，但是我今天似乎说得有些太多了，再说的话......听起来就像应付话。
+[name="杰西卡"]……虽然很想再道一声抱歉，但是我今天似乎说得有些太多了，再说的话……听起来就像应付话。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
 [name="冷静的黑钢佣兵"]你会没事的。虽然看着阵仗很大，但是在场所有人都知道，你不会有任何事情。
 [name="冷静的黑钢佣兵"]刚入职我就听说过你的名号，杰西卡小姐，每个人都说，千万别惹到你，因为你家里的律师比今天在场的佣兵还多。
 [charslot]
 [charslot(slot = "m", name = "avg_1034_jesca2_1#10$2")]
-[name="杰西卡"]......还能更多些。
+[name="杰西卡"]……还能更多些。
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
 [name="冷静的黑钢佣兵"]看吧，你也知道，自己最坏的结局不过是坐两年牢，然后被释放，重新开始过自己想要的生活。
 [charslot]
@@ -355,21 +355,21 @@
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$2")]
 [name="杰西卡"]是啊，似乎从小到大我做事都没有好好想过结果是什么，因为不论做什么，都有家里人帮我兜底，所以有时难免任性了些。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]但世事并非如此......万事万物皆有其代价。当你做下一个轻率鲁莽的决定，就要承担它的后果。
+[name="杰西卡"]但世事并非如此……万事万物皆有其代价。当你做下一个轻率鲁莽的决定，就要承担它的后果。
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
-[name="雷蛇"]杰西卡......我以为你在离队时就已经考虑好了这一切。
+[name="雷蛇"]杰西卡……我以为你在离队时就已经考虑好了这一切。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
 [name="杰西卡"]不，雷蛇，我说的不是今夜的事，我说的是，七年前我来到巴伦基地，走进那扇大门。
 [name="杰西卡"]当时我只想在装备与应用技术部门做个装备测试员，哪里能想到未来有天真的会在战场上举起武器，把它对准另一个人。
 [name="杰西卡"]是啊，这就是问题所在，人们总是很轻易地拿起武器却不去思量背后所需付出的东西。
 [name="杰西卡"]就是这把小小的铳械，我用两只手就能举起它，我用一根手指就能扣动它，不到一个月，我就学会了使用它。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#10$2")]
-[name="杰西卡"]更可怕的是......用它夺走一个人的生命，我只需要一秒钟。
+[name="杰西卡"]更可怕的是……用它夺走一个人的生命，我只需要一秒钟。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
 [name="杰西卡"]但若要我忘记那一秒钟，却得耗尽我整整一生。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#10$2")]
 [name="杰西卡"]看，这就是当时的我，多愚蠢，在拿起它前，就连未来要用它对准的是什么都没有想清楚。
-[name="杰西卡"]......但第一颗子弹已经击出，不想清楚的话，会是一件不可饶恕的事情。
+[name="杰西卡"]……但第一颗子弹已经击出，不想清楚的话，会是一件不可饶恕的事情。
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
 [name="冷静的黑钢佣兵"]那么杰西卡小姐，你现在想清楚了吗？
 [name="冷静的黑钢佣兵"]你可是一直举着它，一刻也不曾放下呢。
@@ -392,7 +392,7 @@
 [charslot(slot = "m", name = "avg_npc_1034_1#1$1")]
 [name="伍德洛"]哥伦比亚的战争早结束了。
 [charslot(slot = "m", name = "avg_npc_1036_1#1$1")]
-[name="“桥夹”克里夫"]哥伦比亚的战争是结束了，但玻利瓦尔的战争又开始了。现在维多利亚的战火暂时平息，但余波难平......
+[name="“桥夹”克里夫"]哥伦比亚的战争是结束了，但玻利瓦尔的战争又开始了。现在维多利亚的战火暂时平息，但余波难平……
 [name="“桥夹”克里夫"]伍迪，战争一直都在，它只是偶尔停下，然后继续爆发。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$1")]
 [name="伍德洛"]那你留在战场做什么呢？继续接受战火洗礼吗？
@@ -422,35 +422,35 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_1034_jesca2_1#11$2")]
-[name="杰西卡"]我不能放下它，因为......这是我身上唯一有力量的事物了。
-[name="杰西卡"]这么多年来，我一直觉得自己像个苍白的符号......
-[name="杰西卡"]那个符号代表的财富、家族与势力在我极力想要解决的问题前......不具有任何的意义，也起不了什么作用。
+[name="杰西卡"]我不能放下它，因为……这是我身上唯一有力量的事物了。
+[name="杰西卡"]这么多年来，我一直觉得自己像个苍白的符号……
+[name="杰西卡"]那个符号代表的财富、家族与势力在我极力想要解决的问题前……不具有任何的意义，也起不了什么作用。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]至少靠着手中的......我完成了些任务，达成了些目标。
+[name="杰西卡"]至少靠着手中的……我完成了些任务，达成了些目标。
 [name="杰西卡"]至少拿着它的我，并非一个全然无用的符号。
 [charslot(slot = "m", name = "avg_107_liskam_1#4$1")]
 [name="雷蛇"]无稽之谈。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#10$2")]
-[name="杰西卡"]队长......？
+[name="杰西卡"]队长……？
 [charslot(slot = "m", name = "avg_107_liskam_1#4$1")]
 [name="雷蛇"]杰西卡，五年了。五年里你真的有过哪次意识到，我当时挑你作为副手的原因吗？
-[name="雷蛇"]那可是黑钢国际......什么样的厉害家伙找不到呢，杰西卡？但我还是选了你，不是因为你手中的铳械，而是因为你的眼泪。
+[name="雷蛇"]那可是黑钢国际……什么样的厉害家伙找不到呢，杰西卡？但我还是选了你，不是因为你手中的铳械，而是因为你的眼泪。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#14$2")]
-[name="杰西卡"]眼泪......队长，但我不可能用软弱的眼泪守护那些我背后站着的人啊......
+[name="杰西卡"]眼泪……队长，但我不可能用软弱的眼泪守护那些我背后站着的人啊……
 [charslot(slot = "m", name = "avg_107_liskam_1#4$1")]
 [name="雷蛇"]眼泪从不意味着软弱，杰西卡。B.P.R.S.的工作脏、累、危险，没人会光为了钱干这活。
 [name="雷蛇"]只有那些能共情到他人痛苦的家伙，才能为一群素昧生平的人，为一个陌生的地方奋不顾身。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]队长......在我觉得自己一无是处时，你将我带回小队。
+[name="杰西卡"]队长……在我觉得自己一无是处时，你将我带回小队。
 [name="杰西卡"]这是我生平第一次受到赏识，我一直记得。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#13$2")]
 [name="杰西卡"]为了回报你的信任，我赴汤蹈火，在所不辞，一切都是心甘情愿。
 [charslot(slot = "m", name = "avg_107_liskam_1#4$1")]
-[name="雷蛇"]但那不是你应该走的路......因为一个人前行不能是为了获得别人的认可。
+[name="雷蛇"]但那不是你应该走的路……因为一个人前行不能是为了获得别人的认可。
 [charslot(slot = "m", name = "avg_107_liskam_1#5$1")]
 [name="雷蛇"]杰西卡，去做你真正想做的事情，去做真正能让你感到快乐的事情。那件事，不需要别人的认可，只需要你自己内心的认同。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#8$2")]
-[name="杰西卡"]队长，我现在......想好好哭一场......
+[name="杰西卡"]队长，我现在……想好好哭一场……
 [charslot(slot = "m", name = "avg_107_liskam_1#8$1")]
 [name="雷蛇"]那就哭，那就流下眼泪，没什么好顾忌的。
 [Stopmusic(fadetime=2)]
@@ -497,7 +497,7 @@
 [name="“桥夹”克里夫"]仇敌，背叛过自己的朋友，还是一个纯粹的疯子？
 [name="伍德洛"]都不是，是一个目空一切的人。
 [name="伍德洛"]在他眼里，什么都可以放在天平上比较，为了他的目标，什么都是可以被牺牲的代价。
-[name="“桥夹”克里夫"]......那你呢，你又要以什么面目对他射出子弹？
+[name="“桥夹”克里夫"]……那你呢，你又要以什么面目对他射出子弹？
 [name="伍德洛"]匹夫。
 [name="伍德洛"]在你那居高临下的注视中，失去一切，仅剩怒火的匹夫。
 [name="“桥夹”克里夫"]很好。
@@ -530,10 +530,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [playMusic(key="$wasteland_loop", volume=0.6)]
-[name="杰西卡"]我的眼泪......你们能看见。
+[name="杰西卡"]我的眼泪……你们能看见。
 [name="杰西卡"]可他们呢？
 [charslot(slot = "m", name = "avg_107_liskam_1#3$1")]
-[name="雷蛇"]......
+[name="雷蛇"]……
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
 [name="冷静的黑钢佣兵"]他们？谁们？
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$2",focus="n")]
@@ -543,7 +543,7 @@
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
 [name="冷静的黑钢佣兵"]不知道。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]我知道的......
+[name="杰西卡"]我知道的……
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$2")]
 [name="杰西卡"]我知道那座能源塔曾不间断地燃烧，为这里的居民持续不断地带去温暖。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#2$2")]
@@ -555,8 +555,8 @@
 [charslot(slot = "m", name = "avg_1034_jesca2_1#11$2")]
 [name="杰西卡"]他们是些前路无望，却坚持前行的人。
 [name="杰西卡"]他们是些被生活狠狠折磨，压弯脖颈，却依然顶着风雪继续生活的人。
-[name="杰西卡"]他们......是些落下眼泪却从来无人在意的人。
-[name="杰西卡"]我的眼泪......不能代替他们表达自己的悲伤。
+[name="杰西卡"]他们……是些落下眼泪却从来无人在意的人。
+[name="杰西卡"]我的眼泪……不能代替他们表达自己的悲伤。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -654,26 +654,26 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1036_1#5$2",duration=1.5)]
 [delay(time=2)]
-[name="“桥夹”克里夫"]呼......
+[name="“桥夹”克里夫"]呼……
 [charslot(slot = "m", name = "avg_npc_1036_1#1$2")]
-[name="“桥夹”克里夫"]嘶............
+[name="“桥夹”克里夫"]嘶…………
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1034_1#1$2",duration=1)]
 [delay(time=1.5)]
-[name="伍德洛"]你输了......
+[name="伍德洛"]你输了……
 [charslot(slot = "m", name = "avg_npc_1036_1#1$2")]
 [name="“桥夹”克里夫"]抱歉，伍迪。我选择了战争，我选择了永无止境的战争。
-[name="“桥夹”克里夫"]所以......我的人生正如一颗不回头的子弹，一次无法阻止的爆炸，是一场永不停息的进攻与防守。
+[name="“桥夹”克里夫"]所以……我的人生正如一颗不回头的子弹，一次无法阻止的爆炸，是一场永不停息的进攻与防守。
 [name="“桥夹”克里夫"]我无法终结战争，但伍迪，你可以将我终结。
 [name="“桥夹”克里夫"]只有最后一个奋战的士兵倒下，战争才能停下。
 [charslot(slot = "m", name = "avg_npc_1034_1#5$2")]
-[name="伍德洛"]鲁伯特......
+[name="伍德洛"]鲁伯特……
 [charslot(slot = "m", name = "avg_npc_1036_1#8$2")]
-[name="“桥夹”克里夫"]真是好久......没有听到了。
+[name="“桥夹”克里夫"]真是好久……没有听到了。
 [name="“桥夹”克里夫"]很感激，伍迪，你还愿意再念出那个名字。除了你，没人再知道它了。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$2")]
-[name="伍德洛"]再见......
+[name="伍德洛"]再见……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -694,7 +694,7 @@
 [playsound(key="$phonevibration")]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1034_1#10$2")]
-[name="伍德洛"]......是玻利瓦尔，还是维多利亚？
+[name="伍德洛"]……是玻利瓦尔，还是维多利亚？
 [charslot(slot = "m", name = "avg_npc_1036_1#6$2")]
 [name="“桥夹”克里夫"]不用管，伍迪。
 [charslot(slot = "m", name = "avg_npc_1034_1#10$2")]
@@ -704,26 +704,26 @@
 [name="“桥夹”克里夫"]动手！
 [charslot(slot = "m", name = "avg_npc_1034_1#6$2")]
 [name="伍德洛"]又有战争要开始了，对吗？
-[name="伍德洛"]......会波及哪里？
+[name="伍德洛"]……会波及哪里？
 [charslot(slot = "m", name = "avg_npc_1036_1#1$2")]
 [name="“桥夹”克里夫"]就是些预兆，不一定会发生。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$2")]
 [name="伍德洛"]把它给我。
 [charslot(slot = "m", name = "avg_npc_1036_1#1$2")]
-[name="“桥夹”克里夫"]伍迪，这上面很多东西对我来说不过是琐碎的日常，但对你......
+[name="“桥夹”克里夫"]伍迪，这上面很多东西对我来说不过是琐碎的日常，但对你……
 [charslot(slot = "m", name = "avg_npc_1036_1#7$2")]
 [name="“桥夹”克里夫"]只会是另一段噩梦。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$2")]
-[name="伍德洛"]......拿来。
+[name="伍德洛"]……拿来。
 [charslot(slot = "m", name = "avg_npc_1036_1#1$2")]
 [name="“桥夹”克里夫"]如果你执意要看，那请便吧。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$2")]
-[name="伍德洛"]......
-[name="伍德洛"]......这上面的事务，你死了，谁来接手？
+[name="伍德洛"]……
+[name="伍德洛"]……这上面的事务，你死了，谁来接手？
 [charslot(slot = "m", name = "avg_npc_1036_1#2$2")]
 [name="“桥夹”克里夫"]总会有人。
 [charslot(slot = "m", name = "avg_npc_1034_1#7$2")]
-[name="伍德洛"]......不该。
+[name="伍德洛"]……不该。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$2")]
 [name="伍德洛"]不该再多一个你这样的人了。
 [dialog]
@@ -731,7 +731,7 @@
 [PlaySound(key="$d_avg_revolver",volume=0.7)]
 他把通讯器抛在地上，随后偏过铳口，将通讯器射成了筛子。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$2")]
-[name="伍德洛"]......
+[name="伍德洛"]……
 [charslot(slot = "m", name = "avg_npc_1034_1#1$2")]
 [name="伍德洛"]我不能杀你。
 [name="伍德洛"]这罪还是应该你来背。
@@ -757,25 +757,25 @@
 [charslot(slot = "m", name = "avg_106_franka_1#1$1")]
 [name="芙兰卡"]手背过去吧。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]......手铐没有我想象中那么冰。
+[name="杰西卡"]……手铐没有我想象中那么冰。
 [charslot(slot = "m", name = "avg_106_franka_1#3$1")]
 [name="芙兰卡"]我把它捂了很久。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#9$2")]
-[name="杰西卡"]谢谢......
+[name="杰西卡"]谢谢……
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
 [name="冷静的黑钢佣兵"]离开前我可以和你说几句吗？
 [charslot(slot = "m", name = "avg_1034_jesca2_1#15$2")]
 [name="杰西卡"]我也正想和你道声谢，先生，谢谢你愿意听我讲这么多话。
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
-[name="冷静的黑钢佣兵"]没关系......在你之前，那样的话，有另外一个家伙也总是叨叨个不停。
+[name="冷静的黑钢佣兵"]没关系……在你之前，那样的话，有另外一个家伙也总是叨叨个不停。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#10$2")]
-[name="杰西卡"]......
+[name="杰西卡"]……
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
-[name="冷静的黑钢佣兵"]我想他会很高兴的......你能记得他说的话。
+[name="冷静的黑钢佣兵"]我想他会很高兴的……你能记得他说的话。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#3$2")]
-[name="杰西卡"]啊......你也知道他......
+[name="杰西卡"]啊……你也知道他……
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
-[name="冷静的黑钢佣兵"]他是个很好的小伙子，见过就很难忘记......别了，杰西卡。
+[name="冷静的黑钢佣兵"]他是个很好的小伙子，见过就很难忘记……别了，杰西卡。
 [PlaySound(key="$d_avg_cloakmovement")]
 [charslot(duration=1)]
 佣兵轻轻拍了拍女孩的肩膀，在晨曦中扬起一片尘土，然后转身离开。

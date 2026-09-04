@@ -12,13 +12,13 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_493_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="憔悴的贵族"]......
+[name="憔悴的贵族"]……
 [Dialog]
 [PlaySound(key="$doorknockquite",channel="1")]
 [delay(time=1.5)]
 [name="憔悴的贵族"]陌生人，报上你的名字。
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="none")]
-[name="？？？"]......导火索。
+[name="？？？"]……导火索。
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="m")]
 [name="憔悴的贵族"]听口音，是乌萨斯人？
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="none")]
@@ -39,9 +39,9 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="m")]
-[name="憔悴的贵族"]......一位全副武装的蒙面乌萨斯人？来修这座莱塔尼亚镇子上的水塔？
+[name="憔悴的贵族"]……一位全副武装的蒙面乌萨斯人？来修这座莱塔尼亚镇子上的水塔？
 [charslot(slot="m",name="avg_npc_496_1#1$1",focus="m")]
-[name="镇民"]伯梅先生......
+[name="镇民"]伯梅先生……
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="m")]
 [name="伯梅"]哦，你也在啊。这个人到底怎么回事？
 [charslot(slot="m",name="avg_npc_496_1#1$1",focus="m")]
@@ -49,11 +49,11 @@
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="m")]
 [name="伯梅"]老维塞受伤了？伤得重吗？
 [charslot(slot="m",name="avg_npc_496_1#1$1",focus="m")]
-[name="镇民"]只能说......还活着。他孙女在照顾他。
+[name="镇民"]只能说……还活着。他孙女在照顾他。
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="m")]
 [name="伯梅"]我知道了。你接着说。
 [charslot(slot="m",name="avg_npc_496_1#1$1",focus="m")]
-[name="镇民"]我们款待导火索先生时，他看见镇上本来是有座水塔的，就想看看能不能修好，结果发现问题不在机械结构，而在源石电路上......
+[name="镇民"]我们款待导火索先生时，他看见镇上本来是有座水塔的，就想看看能不能修好，结果发现问题不在机械结构，而在源石电路上……
 [charslot(slot="m",name="avg_npc_493_1#1$1",focus="m")]
 [name="伯梅"]我明白了。
 [charslot(slot="m",name="avg_npc_496_1#1$1",focus="m")]
@@ -76,7 +76,7 @@
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]你也听见了，他刚刚可没叫我男爵老爷，他叫我伯梅先生。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
-[name="导火索"]......那么，伯梅先生，这是一座能让人的生活好过些的设施。
+[name="导火索"]……那么，伯梅先生，这是一座能让人的生活好过些的设施。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]以前人们一直都是步行去河畔取水的。那时没人觉得有什么不好过。
 [name="伯梅"]谁知道是不是因为水塔不断抽取地下水，河畔才出现了能让针蚤筑巢的空洞呢？
@@ -88,10 +88,10 @@
 [name="导火索"]你觉得他的死无关紧要？
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]何止是他。
-[name="伯梅"]他、我、这座镇子，甚至整个莱塔尼亚......一切都在不可逆地走向衰颓，最终死亡。
+[name="伯梅"]他、我、这座镇子，甚至整个莱塔尼亚……一切都在不可逆地走向衰颓，最终死亡。
 [name="伯梅"]死于针蚤和死于衰老，在我看来不过是骑驮兽还是走路到达终点的问题。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
-[name="导火索"]......歪理。
+[name="导火索"]……歪理。
 [Dialog]
 [charslot(slot="r",posfrom="0,0",posto="30,0",duration=1)]
 [Delay(time=1.5)]
@@ -145,12 +145,12 @@
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]要么修好，要么修不好，仅此而已。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]不，我好奇的是......这个人究竟经历过什么，让他对一件本来和他完全无关的事情如此执拗。
+[name="伯梅"]不，我好奇的是……这个人究竟经历过什么，让他对一件本来和他完全无关的事情如此执拗。
 [name="伯梅"]不留下来住一晚吗，导火索先生？也许晚上我们可以聊聊天。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]多谢你的好意，但我想我们不可能聊得来。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]......
+[name="伯梅"]……
 [name="伯梅"]你说得对。
 [Dialog]
 [PlaySound(key="$dooropenquite",channel="1")]
@@ -161,7 +161,7 @@
 [PlaySound(key="$doorclosequite",channel="2")]
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]......可我还是想聊一聊。
+[name="伯梅"]……可我还是想聊一聊。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -170,7 +170,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1.5)]
-[name="？？？"]......舒赫拉特？怎么了？
+[name="？？？"]……舒赫拉特？怎么了？
 [name="导火索"]抱歉，库兹，走神了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -194,24 +194,24 @@
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="none")]
 [name="闪击？"]我们刚刚聊到哪里了？哦，对，我在莱塔尼亚看到的庆典。
 [name="闪击？"]那场庆典的现场共有一千名术师。庆典开始前，术师们像雕塑一样林立在城市广场上，寂静无声。
-[name="闪击？"]他们在等待着，等待一枚几乎细不可闻的音符从乐团首席的指间飘落，那时术师们才会齐齐举起手中的施术单元......
+[name="闪击？"]他们在等待着，等待一枚几乎细不可闻的音符从乐团首席的指间飘落，那时术师们才会齐齐举起手中的施术单元……
 [name="闪击？"]拜托，老兄，给点反应？
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="m")]
-[name="导火索"]我很难想象那个场景。莱塔尼亚和我熟悉的地方差别太大。想想看，一千个披袍子、戴面具、拿魔杖的人站在雷吉斯坦广场上......
+[name="导火索"]我很难想象那个场景。莱塔尼亚和我熟悉的地方差别太大。想想看，一千个披袍子、戴面具、拿魔杖的人站在雷吉斯坦广场上……
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="none")]
 [name="闪击？"]雷吉斯坦广场？
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="m")]
 [name="导火索"]撒马尔罕的标志性建筑，你应该知道的。
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="none")]
 [name="闪击？"]好吧，那我接着讲。
-[name="闪击？"]一千束法术的光芒冲向夜空，绚丽的色彩在云层间碰撞、迸射，而后绽放，把目之所及的天空都绘成缤纷的花海......
+[name="闪击？"]一千束法术的光芒冲向夜空，绚丽的色彩在云层间碰撞、迸射，而后绽放，把目之所及的天空都绘成缤纷的花海……
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="m")]
 [name="导火索"]塑能转换系源石技艺的应用？
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="none")]
 [name="闪击？"]你这不是很懂源石技艺吗？
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="m")]
 [name="导火索"]在多索雷斯突击补课的成果。
-[name="导火索"]煤、石油、天然气，甚至核聚变......一切都被源石替代了，我只好加紧从头学起——
+[name="导火索"]煤、石油、天然气，甚至核聚变……一切都被源石替代了，我只好加紧从头学起——
 [Dialog]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=true)]
 [charslot(slot="m",name="avg_4126_fuze_1#1$1",focus="m")]
@@ -235,12 +235,12 @@
 [delay(time=2)]
 导火索从翻开的书上猛然抬起头来。他发觉自己刚刚趴在桌子上睡着了。
 [name="导火索"]啧，睡得背痛，头也发晕。
-[name="导火索"]“左图为本书作者在莱塔尼亚访学时见证的庆典场景......”
+[name="导火索"]“左图为本书作者在莱塔尼亚访学时见证的庆典场景……”
 [name="导火索"]怪不得会梦见别人跟我讲这些东西。
 [Dialog]
 [PlaySound(key="$d_avg_paper1",channel="1")]
 [delay(time=2)]
-[name="导火索"]有什么掉到地上了......书签？
+[name="导火索"]有什么掉到地上了……书签？
 [name="导火索"]得把这个和书一起还回去。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -262,13 +262,13 @@
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]看来还得找伯梅借几本书。能麻烦你帮我跑一趟吗？
 [charslot(slot="r",name="avg_npc_496_1#1$1",focus="r")]
-[name="镇民"]真的抱歉，导火索先生，伯梅先生他......
+[name="镇民"]真的抱歉，导火索先生，伯梅先生他……
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]怎么，他暗地里干些见不得人的事？我第一次去他家的时候你好像也很紧张。
 [charslot(slot="r",name="avg_npc_496_1#1$1",focus="r")]
-[name="镇民"]不不不，不是，绝对不是！伯梅先生不是坏人，只是......唉，我说不好......只是大家没事不太喜欢去他那边。
+[name="镇民"]不不不，不是，绝对不是！伯梅先生不是坏人，只是……唉，我说不好……只是大家没事不太喜欢去他那边。
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]......算了，我自己去。
+[name="导火索"]……算了，我自己去。
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -282,7 +282,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1.5)]
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]让我看看......《实用家庭电工手册》？我觉得这本书可能太简单了。
+[name="伯梅"]让我看看……《实用家庭电工手册》？我觉得这本书可能太简单了。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]简单也未必就没有帮助。就这本。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
@@ -300,25 +300,25 @@
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]没必要。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]如果你不愿意先开口，也可以从我开始......从那座水塔开始。
+[name="伯梅"]如果你不愿意先开口，也可以从我开始……从那座水塔开始。
 [name="伯梅"]我可以告诉你，水塔是男爵老爷理想的第一步，他一开始也想让附近的人过得好些。他想把镇子变成“模范镇”。
 [name="伯梅"]很可惜，除了让领民喝上了自来水，他一事无成。
-[name="伯梅"]男爵老爷想在镇里办工厂，想找首都的大人物来投资，想把这里办成艺术家的采风地......结果要么事与愿违，要么没人注意。
+[name="伯梅"]男爵老爷想在镇里办工厂，想找首都的大人物来投资，想把这里办成艺术家的采风地……结果要么事与愿违，要么没人注意。
 [name="伯梅"]他最后一次的尝试最大胆，也离成功最近——他要把整座镇子搬上移动平台，维杜尼亚的一家工坊已经和他谈妥，收了一大笔定金——
 [name="伯梅"]然后女皇陛下莅临了她们忠实的崔林特尔梅。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]你在说你自己的故事？
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]......我父亲的。
+[name="伯梅"]……我父亲的。
 [name="伯梅"]我那时还很年轻，在维杜尼亚的大学里写我的传心感知系法术论文。
 [name="伯梅"]结果那段时间我见得最多的就是血。平民的，贵族的，宪兵的，选帝侯的，还有我导师的。
-[name="伯梅"]等我侥幸带着被烧焦的论文逃回家时，我父亲的第一句话是问我怎么样，第二句话是问那家工坊怎么样......还能怎么样？
+[name="伯梅"]等我侥幸带着被烧焦的论文逃回家时，我父亲的第一句话是问我怎么样，第二句话是问那家工坊怎么样……还能怎么样？
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]然后你的父亲郁郁而终，而你没能继承他的爵位。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]不，我主动放弃了他的爵位，因为我发觉一切都没有意义。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
-[name="导火索"]......知道你和你父亲最大的区别是什么吗？
+[name="导火索"]……知道你和你父亲最大的区别是什么吗？
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]我洗耳恭听。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
@@ -367,9 +367,9 @@
 [Dialog]
 [charslot(slot="l",name="avg_4125_rdoc_1#1$1",bstart=0.2,bend=0.7,focus="l")]
 [Delay(time=1)]
-[name="医生？"]说到家，和我聊聊你的家乡吧。我记得撒马尔罕有......雷吉斯坦广场？
+[name="医生？"]说到家，和我聊聊你的家乡吧。我记得撒马尔罕有……雷吉斯坦广场？
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
-[name="导火索"]是啊，天空是蓝色的，建筑的穹顶也是蓝色，我甚至能想起广场上的人群，往来的汽车，还有那三座巨大建筑上的花纹......
+[name="导火索"]是啊，天空是蓝色的，建筑的穹顶也是蓝色，我甚至能想起广场上的人群，往来的汽车，还有那三座巨大建筑上的花纹……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -390,7 +390,7 @@
 甚至，非常偶尔的几次，他不由得认真思考泰拉是否真的只是一场长过了头的梦境，他是不是在磁山二号磕了脑袋。
 [name="导火索"]（打哈欠）
 [name="导火索"]不能现在睡，至少得先去水塔上，或者再找伯梅借本书验证一下——
-[name="导火索"]等等，他是不是让我跟老维塞的孙女说什么......把人送过去？
+[name="导火索"]等等，他是不是让我跟老维塞的孙女说什么……把人送过去？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -408,7 +408,7 @@
 [name="导火索"]伯梅，为什么你让镇民把垂死的人送到自己这里来？
 [name="导火索"]我刚刚问过其他人了，他们吞吞吐吐，但最终还是告诉我，你一直在这么做。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]让我猜猜......你在怀疑我利用死者？
+[name="伯梅"]让我猜猜……你在怀疑我利用死者？
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]一点点怀疑，不多，如果你之前的言论都属实的话。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
@@ -417,7 +417,7 @@
 [stopmusic(fadetime=1.5)]
 [name="导火索"]很难想象一个满口“衰颓”“死亡”和“没有意义”的人能做成什么真正的恶事。他不会错，因为他根本什么都不做。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]......你成功冒犯到我了，导火索先生。但我不介意。
+[name="伯梅"]……你成功冒犯到我了，导火索先生。但我不介意。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]你还没回答我的问题。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
@@ -432,9 +432,9 @@
 [Dialog]
 [charslot]
 [name="老维塞"]（含混的咕哝声）
-[name="老维塞"]勒文，真的是你，你......你回来了......你真的回来了......
-[name="老维塞"]不，不用道歉，什么都别说，我们......回家......
-[name="老维塞"]给，这是后院的苹果......你出门时想吃一个，可偏偏那年一颗果子也没有结，这些年我一直留着......
+[name="老维塞"]勒文，真的是你，你……你回来了……你真的回来了……
+[name="老维塞"]不，不用道歉，什么都别说，我们……回家……
+[name="老维塞"]给，这是后院的苹果……你出门时想吃一个，可偏偏那年一颗果子也没有结，这些年我一直留着……
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 然而导火索分明看见，老人伸出的手上并没有什么苹果，他面前站着的人也只有伯梅一个。
@@ -445,7 +445,7 @@
 [name="导火索"]你究竟对老维塞做了什么？你给他制造了幻觉？
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]怎么会，那根本不是我能触及的领域。
-[name="伯梅"]我只是在缓解别人的痛苦，让人放松，让人在不该做梦的时间和地点沉入梦境......做一场我无权干涉的白日梦。
+[name="伯梅"]我只是在缓解别人的痛苦，让人放松，让人在不该做梦的时间和地点沉入梦境……做一场我无权干涉的白日梦。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]这听起来就像某种无形的麻醉剂，类似医生在医院里给痛苦难忍的病人打一针，缓解他们的痛苦。
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
@@ -455,7 +455,7 @@
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]让垂死之人离开得安详一些也算滥用？舒赫拉特——
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
-[name="导火索"]......
+[name="导火索"]……
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]导火索先生，这已经是我能为别人做的最有意义的事了。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
@@ -464,25 +464,25 @@
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]哈哈，我吗？
 [name="伯梅"]也许是因为我见过太多悲剧，而见得越多，我就越发觉得自己是对的。
-[name="伯梅"]天灾、阴谋、战争、源石，甚至小小的意外......人的意志和生命在这些东西面前同样脆弱，一触即溃。
+[name="伯梅"]天灾、阴谋、战争、源石，甚至小小的意外……人的意志和生命在这些东西面前同样脆弱，一触即溃。
 [name="伯梅"]更别提现在，我也是垂死之人了。
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement")]
 [Delay(time=1)]
 伯梅解开衣服，露出胸腹间斑驳的源石结晶。
-[name="伯梅"]从崔林特尔梅回家的路上，我就发现自己的肋侧......多了一块小小的、黑黑的石头，维杜尼亚给我留下的临别赠礼。
+[name="伯梅"]从崔林特尔梅回家的路上，我就发现自己的肋侧……多了一块小小的、黑黑的石头，维杜尼亚给我留下的临别赠礼。
 [name="伯梅"]直到今天，它已经快把我整个吞掉，所以我决定犯下我这辈子唯一一次的罪行。
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
 [name="导火索"]罪行？
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
 [name="伯梅"]对一个身心健康且不愿配合的人来说，我的法术需要许多苛刻的准备才能生效。很抱歉把它们用在你身上。
-[name="伯梅"]一开始我只是好奇，希望听听一个沉默寡言的行动者在睡梦中会说些什么，于是在书和书签上......动了一点小小的手脚。
-[name="伯梅"]然后，我就在你的梦话里听见了一些破天荒的事情，一片没有源石的......蓝色天空。
+[name="伯梅"]一开始我只是好奇，希望听听一个沉默寡言的行动者在睡梦中会说些什么，于是在书和书签上……动了一点小小的手脚。
+[name="伯梅"]然后，我就在你的梦话里听见了一些破天荒的事情，一片没有源石的……蓝色天空。
 [name="伯梅"]我不奢望和你一起去那个没有源石的地方，甚至不奢望能和你成为朋友，毕竟你讨厌我这样不切实际的人，不是吗？
 [charslot(slot="r",name="avg_4126_fuze_1#1$1",focus="r")]
-[name="导火索"]......
+[name="导火索"]……
 [charslot(slot="l",name="avg_npc_493_1#1$1",focus="l")]
-[name="伯梅"]所以我只好用法术......让你我共同完成这场最后的白日梦。
+[name="伯梅"]所以我只好用法术……让你我共同完成这场最后的白日梦。
 [name="伯梅"]抱歉让你陪一个矿石病人到最后一刻，但他已经孤独太久了。
 [Dialog]
 [stopmusic(fadetime=1.5)]
@@ -512,7 +512,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1.5)]
 [name="？？？"]醒醒，舒赫拉特，醒醒！
-[name="导火索"]咳、咳......
+[name="导火索"]咳、咳……
 [name="？？？"]啊，你醒了。恭喜，你的脸颊逃过了一劫。拿好你的装备，我们准备离开这儿。
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement")]
@@ -523,7 +523,7 @@
 [name="艾拉"]磁山二号实验室。震动已经过去，什么都没发生，除了你撞到了脑袋。
 [name="艾拉"]实验室内部已经确认没有异常，医生他们已经先行撤离。就算震动和列维有关系，也只能等下次再探查了。
 [charslot(slot="m",name="avg_4126_fuze_1#1$1")]
-[name="导火索"]唔......嗯。
+[name="导火索"]唔……嗯。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -542,24 +542,24 @@
 [name="艾拉"]你怎么连这也忘了？难道刚刚那一下撞得真的很重？
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]帮我想想要去哪，给我挑个最美的地方，让我好好在那里待上一阵子，散散心。
-[name="艾拉"]撒马尔罕怎么样？你说过雷吉斯坦广场的，那里有蓝色的天空，蓝色的建筑，还有壁画、人群、汽车......
+[name="艾拉"]撒马尔罕怎么样？你说过雷吉斯坦广场的，那里有蓝色的天空，蓝色的建筑，还有壁画、人群、汽车……
 [charslot(slot="r",name="avg_4123_ela_1#9$1",focus="r")]
 [name="艾拉"]然后我就在那里，什么也不想，一躺就是一整天。
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]好啊。
-[name="导火索"]但是......不，不对......我好像还有事情没做......
+[name="导火索"]但是……不，不对……我好像还有事情没做……
 [charslot(slot="r",name="avg_4123_ela_1#5$1",focus="r")]
 [name="艾拉"]什么事情？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]我不知道，但是——但是源石......
+[name="导火索"]我不知道，但是——但是源石……
 [charslot(slot="r",name="avg_4123_ela_1#10$1",focus="r")]
 [name="艾拉"]源石？那是什么？该不会是你刚刚撞到头的时候做梦了吧？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]艾拉，你听说过......源石这个词吗？
+[name="导火索"]艾拉，你听说过……源石这个词吗？
 [charslot(slot="r",name="avg_4123_ela_1#10$1",focus="r")]
 [name="艾拉"]你不该指望别人听说过你刚刚梦见的东西。
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]抱歉，只是这个词的印象......太强烈。
+[name="导火索"]抱歉，只是这个词的印象……太强烈。
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]别想了，没什么好想的，还是想想雷吉斯坦广场吧。也许我们一会儿就可以过去。
 [Dialog]
@@ -576,22 +576,22 @@
 [name="艾拉"]想到自己能去你的家乡，去一个很美的地方度过一段日子，我很开心。
 [name="艾拉"]一个没有天灾，没有战乱，没有悲剧的地方。
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]没有......悲剧的地方？
+[name="导火索"]没有……悲剧的地方？
 [stopmusic(fadetime=1.5)]
 [charslot(slot="r",name="avg_4123_ela_1#5$1",focus="r")]
 [name="艾拉？"]等等，舒赫拉特，你怎么了？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]你记得俄勒冈吗？
 [charslot(slot="r",name="avg_4123_ela_1#10$1",focus="r")]
-[name="艾拉？"]舒赫拉特......
+[name="艾拉？"]舒赫拉特……
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]回答我，你觉得俄勒冈怎么样？
 [charslot(slot="r",name="avg_4123_ela_1#10$1",focus="r")]
-[name="艾拉？"]俄、俄勒冈？算是个艺术家的好去处，有不错的博物馆，也有乐团什么的......
+[name="艾拉？"]俄、俄勒冈？算是个艺术家的好去处，有不错的博物馆，也有乐团什么的……
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]那么巴格达？黎巴嫩？莫斯科？
 [charslot(slot="r",name="avg_4123_ela_1#10$1",focus="r")]
-[name="艾拉？"]......舒赫拉特，你听我说——
+[name="艾拉？"]……舒赫拉特，你听我说——
 [Dialog]
 [CameraShake(duration=0.8, ystrength=3, vibrato=3, randomness=20, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_npc_493_1#1$1",duration=0.4,posfrom="150,0",posto="150,0")]
@@ -626,7 +626,7 @@
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]浸入土地的鲜血不应该用多少来计量。
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
-[name="伯梅"]哈......舒赫拉特，你也能说会道起来了。
+[name="伯梅"]哈……舒赫拉特，你也能说会道起来了。
 [name="伯梅"]你走吧。
 [name="伯梅"]法术已经失败，你再也不可能告诉我那片蓝色的天空下是怎样的景色，我也不可能再在你的讲述中身临其境。
 [name="伯梅"]走吧，趁着我还没变成源石粉尘之前赶快走，这样，我一生中的最后的，也是唯一的一件恶行也将无疾而终。
@@ -636,19 +636,19 @@
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
 [name="伯梅"]怎么，突然又有话想跟这个一事无成的人说了？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]世界上的......大地上的......悲剧，或许没有你想的那么多。
+[name="导火索"]世界上的……大地上的……悲剧，或许没有你想的那么多。
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
 [name="伯梅"]那我在维杜尼亚见到的是什么？你在那些你刚刚说的地方经历的是什么？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]混乱。
 [name="导火索"]混乱也许会带来衰颓和死亡，也许不会。混乱有时甚至会成为我的朋友，给我指引一条从中离开的路。
-[name="导火索"]混乱并不总以悲剧收场，除非......
+[name="导火索"]混乱并不总以悲剧收场，除非……
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
 [name="伯梅"]除非我什么都不做，是吗？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]......
+[name="导火索"]……
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
-[name="伯梅"]也许吧，舒赫拉特，但是太晚了......
+[name="伯梅"]也许吧，舒赫拉特，但是太晚了……
 [name="伯梅"]太晚了。
 [Dialog]
 [Delay(time=1)]
@@ -656,10 +656,10 @@
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]我不擅长这种话题。
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
-[name="伯梅"]没关系，我只是在想，假如真的有这种东西，你说我死后......能去你记忆中的撒马尔罕，看看那里蓝色的穹顶吗？
+[name="伯梅"]没关系，我只是在想，假如真的有这种东西，你说我死后……能去你记忆中的撒马尔罕，看看那里蓝色的穹顶吗？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]如果你想......
-[name="导火索"]......我不是不可以出于自己的意志告诉你它的模样。
+[name="导火索"]如果你想……
+[name="导火索"]……我不是不可以出于自己的意志告诉你它的模样。
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
 [name="伯梅"]我真的还有资格听吗？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
@@ -674,9 +674,9 @@
 而伯梅举起短杖，一座逼真的雷吉斯坦广场模型在桌前缓缓成形。
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="l")]
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
-[name="导火索"]......像，太像了。
+[name="导火索"]……像，太像了。
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
-[name="伯梅"]......那就好。
+[name="伯梅"]……那就好。
 [name="伯梅"]你接下来要去哪里？
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]水塔。我还要在镇上待一小段时间，替你把你本应该做的事情做完。
@@ -685,7 +685,7 @@
 [charslot(slot="l",name="avg_4126_fuze_1#1$1",focus="l")]
 [name="导火索"]我会的。再见。
 [charslot(slot="r",name="avg_npc_493_1#1$1",focus="r")]
-[name="伯梅"]......你多保重。
+[name="伯梅"]……你多保重。
 [Dialog]
 [charslot]
 [PlaySound(key="$doorclosequite",channel="2")]

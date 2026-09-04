@@ -84,7 +84,7 @@
 [name="黑"]您只需要做好心理准备，同时承受她的怨气就好。
 [charslot]
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
-[name="赫尔曼"]......哈哈，说得也是。
+[name="赫尔曼"]……哈哈，说得也是。
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
 [name="赫尔曼"]那我该多做一些准备，多告诉她一些她母亲的事。
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
@@ -96,7 +96,7 @@
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
 [name="赫尔曼"]结果，那天我临时有一个脱不开身的政府会议要参加。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
-[name="黑"]......嗯？
+[name="黑"]……嗯？
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [charslot]
@@ -117,7 +117,7 @@
 [Background(image="41_g9_purewhitevolcano_inside",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="黑"]......
+[name="黑"]……
 [dialog]
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m",posfrom="0,0",posto="-70,0",afrom=1,ato=0,duration=1)]
 [Delay(time=2)]
@@ -151,7 +151,7 @@
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
 [name="赫尔曼"]你觉得这段往事怎么样？
 [charslot(slot="m",name="avg_npc_202",focus="m")]
-[name="服务生"]呃，市长先生，谢谢您的花......
+[name="服务生"]呃，市长先生，谢谢您的花……
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
 [name="赫尔曼"]嗯？黑呢？
 [charslot(slot="m",name="avg_npc_202",focus="m")]
@@ -175,7 +175,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]把他交给我吧。
 [charslot]
-[name="游客"]你是......
+[name="游客"]你是……
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m",duration=1)]
@@ -198,7 +198,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]你可以走了，小子。
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="狡猾的男孩"]......你不打算抓我？
+[name="狡猾的男孩"]……你不打算抓我？
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]你想被我抓去治安局吗？
 [charslot(slot="m",name="avg_npc_240",focus="m")]
@@ -208,7 +208,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]下次再被我抓到，我会带你去比治安局更可怕的地方。
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="狡猾的男孩"]......哼，别以为我会被你唬住。
+[name="狡猾的男孩"]……哼，别以为我会被你唬住。
 [dialog]
 [charslot(duration=1)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -216,7 +216,7 @@
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
 [name="赫尔曼"]为什么放过他？
 [charslot(slot="m",name="avg_340_shwaz_1#10$1",focus="m")]
-[name="黑"]他的脚上有些矿灰，他的衣服也不像是他自己的衣服......
+[name="黑"]他的脚上有些矿灰，他的衣服也不像是他自己的衣服……
 [charslot(slot="m",name="avg_340_shwaz_1#10$1",focus="m")]
 [name="黑"]而且，我刚才抓住他的时候，在他的身上看到了一些源石结晶。
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
@@ -259,7 +259,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]火山刚刚喷发完，对某些人来说，这是最好的发财机会。
 [charslot(slot="m",name="avg_npc_995_1#1$1",focus="m")]
-[name="佩利佩"]......你怀疑他们买通了一些私挖黑曜石的工人？
+[name="佩利佩"]……你怀疑他们买通了一些私挖黑曜石的工人？
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]对。
 [charslot(slot="m",name="avg_npc_995_1#1$1",focus="m")]
@@ -295,19 +295,19 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]只有让他们理解私挖黑曜石的人都在干什么，他们才能在未来真正地解决这个问题。
 [charslot(slot="m",name="avg_npc_020",focus="m")]
-[name="查理"]这是......锡兰大小姐的意思吗？
+[name="查理"]这是……锡兰大小姐的意思吗？
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
-[name="黑"]......这确实像是小姐会说的话。
+[name="黑"]……这确实像是小姐会说的话。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]但这是我的意思。
 [charslot(slot="m",name="avg_npc_020",focus="m")]
-[name="查理"]......我明白了，我也去换一套衣服吧。
+[name="查理"]……我明白了，我也去换一套衣服吧。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]走吧，路上再换。
 [charslot(slot="m",name="avg_npc_995_1#1$1",focus="m")]
-[name="佩利佩"]......
+[name="佩利佩"]……
 [charslot(slot="m",name="avg_npc_995_1#1$1",focus="m")]
-[name="佩利佩"]......等等。
+[name="佩利佩"]……等等。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]嗯？
 [charslot(slot="m",name="avg_npc_995_1#1$1",focus="m")]
@@ -338,7 +338,7 @@
 [charslot(slot="m",name="avg_npc_240",focus="m")]
 [name="狡猾的男孩"]哼，你们又是为什么冒着这么大的风险来挖矿？
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="矿工？"]佩利佩那个老头给我们找的工作实在赚不了多少钱，我们是真的缺钱......
+[name="矿工？"]佩利佩那个老头给我们找的工作实在赚不了多少钱，我们是真的缺钱……
 [charslot(slot="m",name="avg_npc_240",focus="m")]
 [name="狡猾的男孩"]哼，赫尔曼那个老头子也真是糊涂，放着这么一座金山不用。
 [charslot(slot="m",name="avg_npc_240",focus="m")]
@@ -354,7 +354,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [delay(time=3)]
 [charslot(slot="l",name="avg_340_shwaz_1#1$1",focus="l")]
-[name="黑"]......
+[name="黑"]……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -374,7 +374,7 @@
 [delay(time=3)]
 [charslot(slot="l",name="avg_340_shwaz_1#1$1",focus="l",posfrom="-30,0",posto="0,0",afrom=0,ato=1,duration=1)]
 [delay(time=2)]
-[name="黑"]......
+[name="黑"]……
 [dialog]
 [charslot(slot="l",name="avg_340_shwaz_1#1$1",focus="m",posfrom="0,0",posto="100,0",afrom=1,ato=0,duration=1)]
 [PlaySound(key="$d_gen_walk_n")]
@@ -406,7 +406,7 @@
 [charslot(slot="r",name="avg_340_shwaz_1#1$1",posfrom="0,0",posto="-150,0",afrom=1,ato=0,duration=0.3)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_008",focus="m")]
-[name="看门的赏金猎人"]......嗯？
+[name="看门的赏金猎人"]……嗯？
 [charslot(slot="m",name="avg_npc_008",focus="m")]
 [name="看门的赏金猎人"]怎么感觉有什么东西过去了。
 [charslot(slot="m",name="avg_npc_008",focus="m")]
@@ -419,7 +419,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
-[name="黑"]......
+[name="黑"]……
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]（低声）和预想的差不多。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
@@ -427,7 +427,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]（低声）人数在二十个左右。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
-[name="黑"]（低声）那个孩子......应该就在前面。
+[name="黑"]（低声）那个孩子……应该就在前面。
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -460,7 +460,7 @@
 [charslot(slot="m",name="avg_npc_008",focus="m")]
 [name="强壮的赏金猎人"]好啊！终于要走了，我都要被这鬼地方热死了！
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="狡猾的男孩"]卸货......是什么意思？
+[name="狡猾的男孩"]卸货……是什么意思？
 [charslot(slot="m",name="avg_npc_007",focus="m")]
 [name="凶狠的赏金猎人"]既然你要成为我们的一员，确实也该告诉你了。
 [charslot(slot="m",name="avg_npc_007",focus="m")]
@@ -480,15 +480,15 @@
 [charslot(slot="m",name="avg_npc_007",focus="m")]
 [name="凶狠的赏金猎人"]那他们就得死。
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="狡猾的男孩"]......
+[name="狡猾的男孩"]……
 [charslot(slot="m",name="avg_npc_007",focus="m")]
 [name="凶狠的赏金猎人"]别忘了是谁在你父母死后把你从矿洞里拉出来的。
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="狡猾的男孩"]我知道，但是......
+[name="狡猾的男孩"]我知道，但是……
 [charslot(slot="m",name="avg_npc_007",focus="m")]
 [name="凶狠的赏金猎人"]你自己说过的，你不想像你父母那样赚一辈子辛苦钱，你想赚大钱！
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="狡猾的男孩"]......
+[name="狡猾的男孩"]……
 [charslot(slot="m",name="avg_npc_007",focus="m")]
 [name="凶狠的赏金猎人"]明白了吗？明白了的话，给我一个准确的答复！
 [charslot(slot="m",name="avg_npc_240",focus="m")]
@@ -509,7 +509,7 @@
 [charslot(slot="m",name="avg_npc_240",focus="m")]
 [name="狡猾的男孩"]欸？
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
-[name="黑"]......
+[name="黑"]……
 [charslot(slot="m",name="avg_npc_240",focus="m")]
 [name="狡猾的男孩"]你、你是之前的那个——
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
@@ -521,7 +521,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]我知道。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
-[name="黑"]现在的时间......是下午三点二十。
+[name="黑"]现在的时间……是下午三点二十。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]如果抓紧时间的话，说不定还有机会。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
@@ -531,7 +531,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
 [name="黑"]接下来会发生的事情，对你来说不太好。
 [charslot(slot="m",name="avg_340_shwaz_1#1$1",focus="m")]
-[name="黑"]......算了。
+[name="黑"]……算了。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_punch")] 
@@ -577,7 +577,7 @@
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]要不是佩利佩先生放心不下，给我打了个电话，我恐怕还要被蒙在鼓里呢。
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
-[name="黑"]......我一个人能解决。
+[name="黑"]……我一个人能解决。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]病情蔓延得还不算快，应该是最近才染上病的。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
@@ -591,7 +591,7 @@
 [charslot(slot="m",name="avg_340_shwaz_1#10$1",focus="m")]
 [name="黑"]流寇们最喜欢吸收这种孩子成为他们的一员。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......我在罗德岛上也听过不少这样的事了。
+[name="锡兰"]……我在罗德岛上也听过不少这样的事了。
 [charslot(slot="m",name="avg_340_shwaz_1#10$1",focus="m")]
 [name="黑"]他的性格很顽劣，恐怕短时间内是无法转变的。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
@@ -620,7 +620,7 @@
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
 [name="锡兰"]如果不是因为顾虑到这个孩子，你应该能用更少的时间解决里面的流寇吧？
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
-[name="黑"]大概......能节省至少十分钟吧。
+[name="黑"]大概……能节省至少十分钟吧。
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
 [name="黑"]这样的话，或许赶得上你的生日派对。
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
@@ -652,7 +652,7 @@
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]我的生日派对算是泡汤了。
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
-[name="黑"]......老爷现在应该正在“纯白火山”等着给你一个惊喜，现在过去还来得及。
+[name="黑"]……老爷现在应该正在“纯白火山”等着给你一个惊喜，现在过去还来得及。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]他让我等了这么久，现在等我一会儿也没什么关系吧。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
@@ -660,7 +660,7 @@
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]我可不允许你用什么来不及去取之类的借口蒙混过去。
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
-[name="黑"]......
+[name="黑"]……
 [Dialog]
 [charslot]
 她看着自家大小姐的目光，难得有些窘迫。
@@ -669,7 +669,7 @@
 现在开车过去取，然后再去“纯白火山”，应该还来得及。
 她正想这么说，但这时，她看到落日的余晖洒在了锡兰的侧脸。
 [charslot(slot="m",name="avg_340_shwaz_1#14$1",focus="m")]
-[name="黑"]......
+[name="黑"]……
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]怎么了，黑？
 [charslot(slot="m",name="avg_340_shwaz_1#11$1",focus="m")]
@@ -679,7 +679,7 @@
 [PlaySound(key="$d_avg_clothmovement")]
 [delay(time=2)]
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]这是......花？
+[name="锡兰"]这是……花？
 [charslot(slot="m",name="avg_340_shwaz_1#11$1",focus="m")]
 [name="黑"]别动，小姐。
 [charslot(slot="m",name="avg_340_shwaz_1#11$1",focus="m")]
@@ -748,7 +748,7 @@
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
 [name="赫尔曼"]黑那边出了点状况，我女儿先去了她那边。
 [charslot(slot="m",name="avg_npc_202",focus="m")]
-[name="服务生"]噢......
+[name="服务生"]噢……
 [charslot(slot="m",name="avg_npc_202",focus="m")]
 [name="服务生"]您不过去没关系吗？
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
@@ -772,9 +772,9 @@
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
 [name="赫尔曼"]我只是在刚才忽然有一种感觉。
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
-[name="赫尔曼"]感觉我准备的这招......不管用了。
+[name="赫尔曼"]感觉我准备的这招……不管用了。
 [charslot(slot="m",name="avg_npc_544_1#1$1",focus="m")]
-[name="赫尔曼"]......为什么呢？
+[name="赫尔曼"]……为什么呢？
 [dialog]
 [delay(time=1)]
 [Dialog]

@@ -11,12 +11,12 @@
 [name="？？？"]探员总管能做什么？你想在管理局做到的一切！
 [name="？？？"]批准几款规格超标的能量转换头，搜罗一批不在市面上流通的晶体管元件，或者在其他探员撞可疑市民的房门的时候，在办公室喂鳞。
 [name="？？？"]羡慕吗？如果你们有野心也有能力，明天就可以坐上我的位置！
-[name="？？？"]......
+[name="？？？"]……
 [name="？？？"]小子，说说，这几句怎么样？
 [Dialog]
 [charslot(slot="m",name="avg_npc_901_1#1$1",duration=2)]
 [Delay(time=2.5)]
-[name="助理探员"]呃......您想在半小时后管理局的迎新演讲上，鼓励年轻探员把您也“踹下去”吗，高登长官？
+[name="助理探员"]呃……您想在半小时后管理局的迎新演讲上，鼓励年轻探员把您也“踹下去”吗，高登长官？
 [Dialog]
 [charslot]
 [playsound(key="$d_gen_walk_n")]
@@ -32,11 +32,11 @@
 [charslot(slot="l",name="avg_npc_2034_1#3$1",focus="l")]
 [name="高登"]那又如何！经我们手进口的零件被装到上市产品身上的时候，会有人在意零件的出处？
 [charslot(slot="r",name="avg_npc_901_1#1$1",focus="r")]
-[name="助理探员"]不，我只是觉得听上去您像个反派......
+[name="助理探员"]不，我只是觉得听上去您像个反派……
 [charslot(slot="l",name="avg_npc_2034_1#2$1",focus="l")]
 [name="高登"]哈哈小子，你太幽默了！难道管理局里有什么好人吗？
 [charslot(slot="r",name="avg_npc_901_1#1$1",focus="r")]
-[name="助理探员"]虽然您面色不善，作风也比较......粗犷，但我们几个探员其实都觉得您上任之后我们的工作好做了许多。
+[name="助理探员"]虽然您面色不善，作风也比较……粗犷，但我们几个探员其实都觉得您上任之后我们的工作好做了许多。
 [name="助理探员"]至少，您是我见到的第一个真的了解各种制品，也对它们感兴趣的长官，而且就像您说的，您非常明白管理局的规则给人造成的难处。
 [name="助理探员"]我想那些刚刚加入管理局的新人或许想知道，这样一位特立独行的探员总管，会传授给他们什么宝贵的经验——
 [charslot(slot="l",name="avg_npc_2034_1#1$1",focus="l")]
@@ -57,7 +57,7 @@
 [charslot(slot="l",name="avg_npc_2034_1#1$1",focus="l")]
 [name="高登"]“传授”？不就是教人做事吗，说得那么好听。
 [name="高登"]这事儿古斯塔夫那只老狐狸干得来，我才不想干。
-[name="高登"]演讲......年轻人......有什么可说的呢......
+[name="高登"]演讲……年轻人……有什么可说的呢……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -95,15 +95,15 @@
 [name="忧郁的妇人"]但当他们低头跟你父亲告别的时候，也会看到你散开的鞋带。
 [name="忧郁的妇人"]最起码，在他的葬礼上做个乖孩子，好吗？
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="none")]
-[name="少年高登"]......
+[name="少年高登"]……
 [name="少年高登"]妈妈，抬头看，有一只红气球卡在树杈上了。
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
-[name="忧郁的妇人"]唉......
+[name="忧郁的妇人"]唉……
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="none")]
 [name="少年高登"]如果上周爸爸给我买的遥控悬浮飞行器在这里，我就能把那只气球从树上弄下来了。
 [name="少年高登"]啊，他还没教会我遥控器的用法。
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
-[name="忧郁的妇人"]......
+[name="忧郁的妇人"]……
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="none")]
 [name="少年高登"]妈妈，别哭。
 [Dialog]
@@ -111,14 +111,14 @@
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_242",duration=2)]
 [Delay(time=2.5)]
-[name="司仪"]......乔瑟夫·伯纳特·谭农，一位温柔的丈夫、尽责的父亲、令人愉快的朋友，安眠于此。
+[name="司仪"]……乔瑟夫·伯纳特·谭农，一位温柔的丈夫、尽责的父亲、令人愉快的朋友，安眠于此。
 [name="司仪"]他在弥留之际说出的最后一句话，不是殷切的嘱托，而是对儿子高登·谭农的道歉。
 [name="司仪"]他和妻子杰琳为抚养孩子付出了很多心力，但因为他的工作性质特殊，小高登不得不频繁转学，对此，乔瑟夫先生非常愧疚。
-[name="司仪"]他本想要花更多时间弥补，可惜他没有时间了......
+[name="司仪"]他本想要花更多时间弥补，可惜他没有时间了……
 [name="司仪"]高登先生，您想说两句吗？
 [Dialog]
 [charslot]
-[name="少年高登"]我......
+[name="少年高登"]我……
 [Dialog]
 [playsound(key="$d_avg_wind")]
 [Delay(time=3.5)]
@@ -165,7 +165,7 @@
 [charslot(slot="l",name="avg_npc_2042_1#3$1",focus="l")]
 [name="古斯塔夫"]哦，我以为你会直接说你是走私犯的英雄——“蓝胡子”呢。
 [charslot(slot="r",name="avg_npc_2034_1#6$1",focus="r")]
-[name="高登"]......
+[name="高登"]……
 [charslot(slot="l",name="avg_npc_2042_1#1$1",focus="l")]
 [name="古斯塔夫"]行了，别紧张，管理局也算是招安过不少曾经和我们对着干的混混，现在他们的仕途挺顺的。
 [charslot(slot="r",name="avg_npc_2034_1#1$1",focus="r")]
@@ -173,7 +173,7 @@
 [charslot(slot="l",name="avg_npc_2042_1#1$1",focus="l")]
 [name="古斯塔夫"]是啊，你猜是为什么呢？
 [charslot(slot="r",name="avg_npc_2034_1#1$1",focus="r")]
-[name="高登"]......
+[name="高登"]……
 [name="高登"]我在施术单元和源石制品方面的知识储备不亚于任何人，以我的能力足以在管理局大展拳脚，我只是不屑被你们的规则束缚。
 [name="高登"]我可以诚实地告诉你，我来是为了弄清楚我想知道的事，而不是给你打下手。
 [charslot(slot="l",name="avg_npc_2042_1#2$1",focus="l")]
@@ -196,13 +196,13 @@
 [charslot(slot="m",name="avg_npc_2034_1#1$1",duration=2)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_2034_1#1$1",focus="m")]
-[name="高登"]......扰乱管理局治安处罚措施......第四十九条......携带源石爆炸物和......和......
+[name="高登"]……扰乱管理局治安处罚措施……第四十九条……携带源石爆炸物和……和……
 [charslot(slot="m",name="avg_npc_2034_1#7$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=40, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="高登"]*哥伦比亚粗口*！
 [charslot(slot="m",name="avg_npc_2034_1#1$1",focus="m")]
 [name="高登"]忍忍，高登·谭农。你总得理解这套玩意儿才能想办法钻它的空子不是吗？
-[name="高登"]古斯塔夫......老狐狸......你等着，总有一天我会改变管理局的规则！
+[name="高登"]古斯塔夫……老狐狸……你等着，总有一天我会改变管理局的规则！
 [Dialog]
 [charslot]
 [playsound(key="$rungeneral")]
@@ -213,11 +213,11 @@
 [charslot(duration=2)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_2034_1#1$1",focus="m")]
-[name="高登"]嗯？出了什么事儿这么着急......欸，天上飘的是什么？
+[name="高登"]嗯？出了什么事儿这么着急……欸，天上飘的是什么？
 [charslot(slot="m",name="avg_npc_2034_1#2$1",focus="m")]
 [name="高登"]哈哈哈哈，哪个天才想到的在管乐器里藏源石浓度超标的气膜？检查的时候一吹不就都变成气球露馅了吗！
 [charslot(slot="m",name="avg_npc_2034_1#1$1",focus="m")]
-[name="高登"]真是......
+[name="高登"]真是……
 [name="高登"]干得漂亮啊。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -256,7 +256,7 @@
 [name="高登"]想飞就应该真的飞起来，用螺旋桨、用悬浮引擎、用源石驱动技术——不是靠这么几瓶药剂。
 [name="高登"]行了，东西都在这儿了，之前在莱塔尼亚商人那里扣下的高功率便携施术单元，两箱。
 [charslot(slot="l",name="avg_npc_534_1#1$1",focus="l")]
-[name="交易者"]我听古斯塔夫说你是个咋咋呼呼的家伙。怎么，心情不好？话这么少......
+[name="交易者"]我听古斯塔夫说你是个咋咋呼呼的家伙。怎么，心情不好？话这么少……
 [Dialog]
 [playsound(key="$d_avg_clothmovement")]
 [delay(time=2.5)]
@@ -273,7 +273,7 @@
 [name="交易者"]不用跟我解释，不管你是收藏还是倒卖都无所谓，我们早就把“折损率”算好了。
 [name="交易者"]看你挺机灵的，在古斯塔夫手底下干活真是可惜了。
 [charslot(slot="r",name="avg_npc_2034_1#1$1",focus="r")]
-[name="高登"]......我有我的打算。
+[name="高登"]……我有我的打算。
 [charslot(slot="l",name="avg_npc_534_1#1$1",focus="l")]
 [name="交易者"]唉，我清楚古斯塔夫是什么样的人，最刺头的走私犯在他面前都得老老实实的。
 [name="交易者"]管理局的条条框框是多，但架不住它油水多啊，想开点。
@@ -295,10 +295,10 @@
 [Delay(time=1)]
 [name="高登"]欸，你看，天上飘着什么？
 [name="交易者"]哈哈，用这招诓我可不行，我认识的一个傻子就被这种招数骗得丢了货。
-[name="高登"]爱信不信......是只红气球。
+[name="高登"]爱信不信……是只红气球。
 [name="交易者"]气球而已，有什么稀奇的？
 [name="高登"]是啊，不稀奇。
-[name="高登"]......
+[name="高登"]……
 [name="高登"]它飘远了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -318,7 +318,7 @@
 [charslot(slot="l",name="avg_npc_2034_1#2$1",focus="l")]
 [name="高登"]我也想恭喜我自己，终于*哥伦比亚粗口*离开边境了。
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
-[name="行政秘书"]呃，您的措辞......
+[name="行政秘书"]呃，您的措辞……
 [charslot(slot="l",name="avg_npc_2034_1#1$1",focus="l")]
 [name="高登"]我会注意，我会注意。
 [name="高登"]现在还不到让这座园区适应我的时候。
@@ -356,16 +356,16 @@
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="l")]
 [name="高登"]现在还在调试阶段。
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
-[name="行政秘书"]哈......
+[name="行政秘书"]哈……
 [charslot(slot="l",name="avg_npc_2034_1#1$1",focus="l")]
 [name="高登"]你刚刚说我的第一项工作是“审查”？
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
 [name="行政秘书"]没错，为了进驻“螺旋桨天堂”，有些企业代表从昨天就开始排队了。我建议您提高审核标准，先让有技术底蕴的大企业——
 [charslot(slot="l",name="avg_npc_2034_1#1$1",focus="l")]
-[name="高登"]窗外那些晃晃悠悠的东西是什么？上面还印着......瘤兽？
+[name="高登"]窗外那些晃晃悠悠的东西是什么？上面还印着……瘤兽？
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
 [name="行政秘书"]那应该是“幸运瘤兽”餐饮公司的宣传气球，公司经理雅斯彭把这些东西弄得满天都是。
-[name="行政秘书"]您别太在意，这家公司刚刚创立没多久，没有创新技术不谈，雅斯彭原先还只是个杂货铺的老板......
+[name="行政秘书"]您别太在意，这家公司刚刚创立没多久，没有创新技术不谈，雅斯彭原先还只是个杂货铺的老板……
 [charslot(slot="l",name="avg_npc_2034_1#1$1",focus="l")]
 [name="高登"]就它了。
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
@@ -389,19 +389,19 @@
 [charslot(slot="l",name="avg_npc_901_1#1$1",focus="l")]
 [name="随行探员"]怎么回事，高登长官还没到？今年新入职管理局的探员可全在广场上集合好了。
 [charslot(slot="r",name="avg_npc_901_1#1$1",focus="r")]
-[name="助理探员"]办公室、仓库、实验室都找过了，影子都没有......只有这么一张演讲稿留在他办公室的地上。
+[name="助理探员"]办公室、仓库、实验室都找过了，影子都没有……只有这么一张演讲稿留在他办公室的地上。
 [charslot(slot="l",name="avg_npc_901_1#1$1",focus="l")]
 [name="随行探员"]那怎么办，这迎新演讲总不能临时找人来讲吧？
 [charslot(slot="r",name="avg_npc_901_1#1$1",focus="r")]
-[name="助理探员"]......
+[name="助理探员"]……
 [charslot(slot="l",name="avg_npc_901_1#1$1",focus="l")]
 [name="随行探员"]欸，这演讲稿是长官的定稿吗？
 [charslot(slot="r",name="avg_npc_901_1#1$1",focus="r")]
-[name="助理探员"]应该是吧......半小时前我还在长官的办公室里听他宣讲。
+[name="助理探员"]应该是吧……半小时前我还在长官的办公室里听他宣讲。
 [charslot(slot="l",name="avg_npc_901_1#1$1",focus="l")]
 [name="随行探员"]那好办了！你就说高登长官身体不适，很遗憾不能亲自致辞，然后替他念了呗？
 [charslot(slot="r",name="avg_npc_901_1#1$1",focus="r")]
-[name="助理探员"]那怎么行！我们还是再想想......
+[name="助理探员"]那怎么行！我们还是再想想……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -430,8 +430,8 @@
 [name="好奇的新人"]现在也在重新修建了嘛！
 [name="好奇的新人"]而且，你可别装得很冷静的样子，我知道你就是因为现在的探员总管是高登长官，才申请了这个岗位。
 [charslot(slot="l",name="avg_npc_1259_1#1$1",focus="l")]
-[name="装作冷静的新人"]......
-[name="装作冷静的新人"]我父母以前说管理局是闲差，让我报名。我对审批敲章可一点兴趣都没有，但如果真的能接触到那些可以改变未来的东西......
+[name="装作冷静的新人"]……
+[name="装作冷静的新人"]我父母以前说管理局是闲差，让我报名。我对审批敲章可一点兴趣都没有，但如果真的能接触到那些可以改变未来的东西……
 [name="装作冷静的新人"]我想知道，让管理局规则发生变化的这位长官长什么样子，他的第一次公开演讲，又会说些什么。
 [charslot(slot="l",name="avg_npc_1259_1#1$1",focus="none")]
 [name="？？？"]演讲？哈，对年轻人有什么可说的呢？
@@ -442,7 +442,7 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_1259_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="l")]
-[name="装作冷静的新人"]呃......您是？
+[name="装作冷静的新人"]呃……您是？
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_4213_skybx_1#1$1",focus="m")]
@@ -455,7 +455,7 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_4213_skybx_1#3$1",focus="m")]
-[name="高登"]虽然我真的觉得“硬毂头”对小弟发表的演说词很酷......
+[name="高登"]虽然我真的觉得“硬毂头”对小弟发表的演说词很酷……
 [name="高登"]但比起跟你们说什么大道理，或者人情世故，我觉得你们更需要一只气球。
 [Dialog]
 [charslot]
@@ -467,7 +467,7 @@
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
 [name="好奇的新人"]这人到底是谁啊？
 [charslot(slot="l",name="avg_npc_1259_1#1$1",focus="l")]
-[name="装作冷静的新人"]我们是不是应该先跑......
+[name="装作冷静的新人"]我们是不是应该先跑……
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
 [name="好奇的新人"]可我们就是探员啊。
 [Dialog]
@@ -486,13 +486,13 @@
 [name="好奇的新人"]天，哥伦比亚怎么会有这样的人？要是高登长官知道，一定会想把他招到“螺旋桨天堂”去的。
 [charslot(slot="l",name="avg_npc_1259_1#1$1",focus="l")]
 [name="失去冷静的新人"]也就是说我们之后还会跟他做同事？！不行，我入职的第一件事就是告诉高登长官——
-[name="失去冷静的新人"]......
-[name="失去冷静的新人"]天，他就是高登长官......
-[name="失去冷静的新人"]如果哥伦比亚有这样的人，他一定就是高登·谭农......
+[name="失去冷静的新人"]……
+[name="失去冷静的新人"]天，他就是高登长官……
+[name="失去冷静的新人"]如果哥伦比亚有这样的人，他一定就是高登·谭农……
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
 [name="好奇的新人"]哇，他飞得好高，你说他那身装备是怎么发明出来的？他穿着它去过哪些地方？
 [charslot(slot="l",name="avg_npc_1259_1#1$1",focus="l")]
-[name="失去冷静的新人"]我们以后都会知道的......
+[name="失去冷静的新人"]我们以后都会知道的……
 [charslot(slot="r",name="avg_npc_1260_1#1$1",focus="r")]
 [multiline(name="好奇的新人")]大家好像都在跟着长官飘动的方向走欸？我们也去吗——
 [playsound(key="$rungeneral")]

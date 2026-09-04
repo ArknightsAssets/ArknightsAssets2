@@ -12,7 +12,7 @@
 [Delay(time=2.5)]
 [name="？？？"]亲爱的哥伦比亚公民们，中午好，请允许我占用你们一些时间。
 [name="？？？"]或许你们都对近日发生在哥伦比亚周边的事情感到困惑和担忧，但请放心，哥伦比亚政府并没有坐视这一切。
-[name="？？？"]失控袭击人的猎犬与猎犬病，多索雷斯暴乱，玻利瓦尔大行军......
+[name="？？？"]失控袭击人的猎犬与猎犬病，多索雷斯暴乱，玻利瓦尔大行军……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -30,7 +30,7 @@
 [charslot(slot = "l", name = "avg_npc_523_1#1$1",focus="l")]
 [name="好事的市民"]你看的啥小说啊这么能编，给我也推荐推荐呗？最好是有声书。
 [charslot(slot = "r", name = "avg_npc_524_1#1$1",focus="r")]
-[name="焦虑的市民"]唉......
+[name="焦虑的市民"]唉……
 [charslot(slot = "l", name = "avg_npc_523_1#1$1",focus="l")]
 [name="好事的市民"]欸，我说，你看副总统讲话怎么嘴都不动的啊？是放录音吗？
 [charslot(slot = "r", name = "avg_npc_524_1#1$1",focus="r")]
@@ -38,7 +38,7 @@
 [charslot(slot = "l", name = "avg_npc_523_1#1$1",focus="l")]
 [name="好事的市民"]我这不是不识字嘛。
 [charslot(slot = "r", name = "avg_npc_524_1#1$1",focus="r")]
-[name="焦虑的市民"]......
+[name="焦虑的市民"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -70,7 +70,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_1663_1#12$1",duration=1)]
 [Delay(time=1.5)]
-[name="独立探险家？"]......
+[name="独立探险家？"]……
 [name="独立探险家？"]说到这个份上，和跟国防部撕破脸说要立即审查所有行动项目也没差了吧。
 [name="独立探险家？"]是在忌惮超级武器的完成度吗，还是已经在准备万一爆发内战时对民众宣讲的名头了？
 [charslot(slot="m",name="avg_npc_1663_1#8$1",focus="m")]
@@ -83,7 +83,7 @@
 [charslot(slot = "m", name = "avg_npc_2046_1#1$1",focus="m")]
 [name="梅兰德特工"]我们必须，也只能指望您来从根本上阻止那样的事态发生。
 [charslot(slot="m",name="avg_npc_1663_1#8$1",focus="m")]
-[name="独立探险家？"]这不是把我往火坑里推吗，唉......先说好，这次之后我可真不欠你们什么了。
+[name="独立探险家？"]这不是把我往火坑里推吗，唉……先说好，这次之后我可真不欠你们什么了。
 [charslot(slot = "m", name = "avg_npc_2046_1#1$1",focus="m")]
 [name="梅兰德特工"]理当如此。
 [dialog]
@@ -104,13 +104,13 @@
 [charslot(duration=1)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1663_1#12$1",focus="m")]
-[name="独立探险家？"]......嗯？
-[name="独立探险家？"]那个身影......不会吧。
+[name="独立探险家？"]……嗯？
+[name="独立探险家？"]那个身影……不会吧。
 [charslot(slot = "m", name = "avg_npc_2046_1#1$1",focus="m")]
 [name="梅兰德特工"]事关重大，请抓紧时间随我们的队伍动身吧，帕尤卡卡先生。
 [name="梅兰德特工"]如果不能抢在他们转移目标之前找到的话，后果恐怕不堪设想。
 [charslot(slot="m",name="avg_npc_1663_1#8$1",focus="m")]
-[name="独立探险家？"]......
+[name="独立探险家？"]……
 [name="独立探险家？"]我明白。
 [Dialog]
 [stopmusic(fadetime=3)]

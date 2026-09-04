@@ -21,17 +21,17 @@
 一根粗壮的木柴被扔进了火堆中，扬起的火星在空中飘散。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1971_1#1$1", duration=1, isblock=true)]
-[name="霍里"]他们......
+[name="霍里"]他们……
 [name="霍里"]知道了我们的行踪。
 [charslot]
 干燥的木柴躺在焦炭中，渐渐被熏黑，变形，随后被突然蹿起的火焰完全淹没。
 火光映照在虚弱的感染者的面庞上，可他却感受不到一丝温暖。
 [charslot(slot = "m", name = "avg_npc_1971_1#1$1")]
-[name="霍里"]这些人。这里的......所有人。
-[name="霍里"]只有把他们也抹去......就像抹去加尼亚......
+[name="霍里"]这些人。这里的……所有人。
+[name="霍里"]只有把他们也抹去……就像抹去加尼亚……
 [charslot(slot = "m", name = "avg_npc_1971_1#7$1")]
-[name="霍里"]他们才不必......
-[name="霍里"]不必丧失道德，不必背弃纯洁......
+[name="霍里"]他们才不必……
+[name="霍里"]不必丧失道德，不必背弃纯洁……
 [name="霍里"]不必玷污灵魂。
 [charslot]
 他很疼，钻心地疼，像被针尖穿透。
@@ -65,7 +65,7 @@
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1971_1#4$1", duration=1.5, isblock=true)]
 [Delay(time=0.5)]
-[name="霍里"]睡着......睡着！
+[name="霍里"]睡着……睡着！
 [name="霍里"]全都睡着。
 [name="霍里"]你们不知道自己会面临怎样的困境，会面对怎样的审判。
 [charslot(slot = "m", name = "avg_npc_1971_1#5$1")]
@@ -76,8 +76,8 @@
 [name="霍里"]不过，没关系。
 [name="霍里"]我会帮助你们，我能帮助你们。
 [charslot(slot = "m", name = "avg_npc_1971_1#2$1")]
-[name="霍里"]......因为我愿意默想......
-[name="霍里"]并分担......
+[name="霍里"]……因为我愿意默想……
+[name="霍里"]并分担……
 [charslot(slot = "m", name = "avg_npc_1971_1#6$1")]
 [name="霍里"]你们的痛苦。
 [charslot]
@@ -146,7 +146,7 @@
 [Delay(time=0.5)]
 [name="尼克托"]雷尔金！
 [charslot(slot = "m", name = "avg_npc_1963_1#6$1")]
-[name="雷尔金"]这里......发生了什么？
+[name="雷尔金"]这里……发生了什么？
 [charslot(slot = "m", name = "avg_npc_1967_1#5$1")]
 [name="尼克托"]不知道，火是突然间蹿起来的。这个火势我们根本没法扑灭！
 [name="尼克托"]我们现在能做的只有疏散大家！
@@ -178,7 +178,7 @@
 [Delay(time=0.1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-他从未......
+他从未……
 死去。
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
@@ -193,8 +193,8 @@
 [SoundVolume(volume=0.4, channel="a",fadetime=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="雷尔金"]不，这不对......我赢了，我杀死了他！
-[name="雷尔金"]我能救所有人......！
+[name="雷尔金"]不，这不对……我赢了，我杀死了他！
+[name="雷尔金"]我能救所有人……！
 [dialog]
 [charslot]
 [PlaySound(key="$rungeneral", volume=1, loop=true, channel="r")]
@@ -205,7 +205,7 @@
 [charslot(slot = "m", name = "avg_npc_1963_1#6$1")]
 [name="雷尔金"]别乔克，你怎么在这？快到安全的地方去！
 [charslot(slot = "m", name = "avg_4207_branch_1#10$1")]
-[name="别乔克"]老师，我、我......！
+[name="别乔克"]老师，我、我……！
 [charslot(slot = "m", name = "avg_npc_1963_1#7$1")]
 [name="雷尔金"]你听不懂我的话吗？！
 [charslot]
@@ -213,7 +213,7 @@
 [charslot(slot = "m", name = "avg_4207_branch_1#10$1")]
 [name="别乔克"]奶奶，奶奶，她、她，不见了！
 [charslot(slot = "m", name = "avg_npc_1963_1#6$1")]
-[name="雷尔金"]什么......？你不是一直跟她在一起吗？
+[name="雷尔金"]什么……？你不是一直跟她在一起吗？
 [charslot]
 口吃的女孩双手并用，试图解释发生了什么，可她恐惧的表情已经说明了一切。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -229,23 +229,23 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 雷尔金和别乔克穿梭在火场之中。两侧房屋烧燎，稍不注意，他们的衣服就会被火点燃。
 [charslot(slot = "m", name = "avg_4207_branch_1#10$1")]
-[name="别乔克"]奶奶......呜，呜，奶奶！
+[name="别乔克"]奶奶……呜，呜，奶奶！
 [charslot]
 雷尔金也想大声呼喊，可无力感在他的心中不断累积，堵住了他的咽喉，让他难以发声，让他难以呼吸。
 他很清楚，如此猛烈的大火，对于一个行动困难的老者来说意味着什么。
 [charslot(slot = "m", name = "avg_4207_branch_1#10$1")]
-[name="别乔克"]老、老师，我......您......唔......唔！
+[name="别乔克"]老、老师，我……您……唔……唔！
 [charslot]
 冒着黑烟的十字路口，别乔克捂住嘴指了指自己，又指了指雷尔金，最后指向了路的分岔处。
 [charslot(slot = "m", name = "avg_npc_1963_1#10$1")]
-[name="雷尔金"]不，不行......别乔克，你不能和我分开行动......你听我说......
+[name="雷尔金"]不，不行……别乔克，你不能和我分开行动……你听我说……
 [charslot(slot = "m", name = "avg_4207_branch_1#10$1")]
 [name="别乔克"]老师！
 [charslot]
 女孩此刻涨红着脸，豆大的泪珠从她的双眸中涌出。她将双手交握，做出一种奇异的、虔诚的祈祷模样。
 她不祈求皇帝，不祈求圣愚。她祈求雷尔金的帮助。
 [charslot(slot = "m", name = "avg_npc_1963_1#3$1")]
-[name="雷尔金"]我......
+[name="雷尔金"]我……
 [dialog]
 [SoundVolume(volume=0, channel="a",fadetime=0.5)]
 [PlaySound(key="$flashback", volume=0.8)]
@@ -285,7 +285,7 @@
 [charslot(slot = "r", name = "avg_4207_branch_1#10$1", posfrom="-200,0", posto="-150,0", afrom=1, ato=1, duration=0.4)]
 [delay(time=0.4)]
 [charslot(slot = "r", focus="r")]
-[name="别乔克"]呜......！
+[name="别乔克"]呜……！
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", posfrom="-230,0", posto="100,0", focus="m", bstart=0.2,bend=0.7, afrom=1, ato=0, duration=1.5, isblock=true)]
@@ -329,7 +329,7 @@
 雷尔金的视线越过霍里，即便火光持续灼烧着他的双眼，也无法阻止他看见房屋里的一切——
 火焰狰狞翻腾，焦黑的梁柱摇摇晃晃，噼啪声如垂死者断断续续的呻吟。
 然而，一位老妇却端坐在火焰间的方寸之地。
-[name="年迈的妇人"]......
+[name="年迈的妇人"]……
 她坐在仅剩的椅子上，木然无声，火舌与她只有咫尺距离，却仿佛被一道无形的墙隔绝开来。
 她周身纤尘不染，连头发也一丝不乱。她双眼微闭，又仿佛看着一切。
 [name="霍里"]至此，我洁净了他们的灵魂。

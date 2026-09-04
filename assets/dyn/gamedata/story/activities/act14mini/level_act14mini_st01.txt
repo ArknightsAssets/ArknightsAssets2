@@ -16,7 +16,7 @@
 娘，你能不能劝劝爹？让他别再做“生意”了。我不想要新衣服，也不要什么漂亮首饰，一家人过个安稳日子，比什么都强。
 [Dialog]
 [Delay(time=1)]
-我有些，害怕......
+我有些，害怕……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1,block=true)]
@@ -47,15 +47,15 @@
 [Delay(time=1)]
 [name="慌张的少年"]呼——呼——
 [charslot(slot="m",name="avg_npc_820_1#11$1",focus="m")]
-[name="慌张的少年"]前面......是悬崖......
+[name="慌张的少年"]前面……是悬崖……
 [Dialog]
 [PlaySound(key="$d_avg_vallyrck", volume=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_820_1#11$1",focus="m")]
-[name="慌张的少年"]该死，该死！这下是真的跑不掉了......
+[name="慌张的少年"]该死，该死！这下是真的跑不掉了……
 [charslot(slot="m",name="avg_npc_820_1#6$1",focus="m")]
-[name="慌张的少年"]别慌，不能慌......就算打不过，这一路上的陷阱也该够她喝一壶的。
-[name="慌张的少年"]等一会逮住她，非得狠狠教训她一顿，居然敢小瞧我......
+[name="慌张的少年"]别慌，不能慌……就算打不过，这一路上的陷阱也该够她喝一壶的。
+[name="慌张的少年"]等一会逮住她，非得狠狠教训她一顿，居然敢小瞧我……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
@@ -72,13 +72,13 @@
 [charslot(slot="m",name="avg_npc_787_1#11$1",focus="m")]
 [name="仇白"]万一让旁人中了陷阱，你就不怕再多一条故意伤人的罪名？
 [charslot(slot="m",name="avg_npc_820_1#11$1",focus="m")]
-[name="慌张的少年"]笑话......故意伤人算什么，我干过的坏事，那叫一个......罄竹难书！
+[name="慌张的少年"]笑话……故意伤人算什么，我干过的坏事，那叫一个……罄竹难书！
 [charslot(slot="m",name="avg_npc_787_1#1$1",focus="m")]
 [name="仇白"]那就是说，我在这杀了你，你也算是死有余辜？
 [charslot(slot="m",name="avg_npc_820_1#11$1",focus="m")]
 [name="慌张的少年"]对！
 [charslot(slot="m",name="avg_npc_820_1#11$1",focus="m")]
-[name="慌张的少年"]不......不对！
+[name="慌张的少年"]不……不对！
 [charslot(slot="m",name="avg_npc_820_1#4$1",focus="m")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="慌张的少年"]你别过来！
@@ -87,7 +87,7 @@
 [Delay(time=1)]
 [name="慌张的少年"]看到我怀里的这一袋炸药了吗？你再过来一步，我就拉了引线，就算你武功再高，咱俩也得同归于尽！
 [charslot(slot="m",name="avg_npc_787_1#4$1",focus="m")]
-[name="仇白"]......
+[name="仇白"]……
 [charslot(slot="m",name="avg_npc_787_1#1$1",focus="m")]
 [name="仇白"]好，我就站在这，你老实回答我的问题。
 [charslot(slot="m",name="avg_npc_820_1#4$1",focus="m")]
@@ -103,7 +103,7 @@
 [name="慌张的少年"]呵，年纪小又怎么了？这方圆十里的村子镇子，你去打听打听，谁不知道我“方小石”的恶名。
 [name="慌张的少年"]小爷干过的事，说出来吓死你！
 [charslot(slot="m",name="avg_npc_787_1#6$1",focus="m")]
-[name="仇白"]荒唐......
+[name="仇白"]荒唐……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -132,12 +132,12 @@
 [charslot(slot="m",name="avg_npc_820_1#5$1",focus="m")]
 [name="方小石"]你说啥，对面只有一个人？
 [charslot(slot="m",name="avg_npc_820_1#1$1",focus="m")]
-[name="方小石"]你们跟我比画的时候不都还挺厉害的，怎么连人家一个人都打不过......
+[name="方小石"]你们跟我比画的时候不都还挺厉害的，怎么连人家一个人都打不过……
 [charslot(slot="m",name="avg_npc_794_1#1$1",focus="m")]
 [name="惊慌的山海众成员"]闭嘴！
 [name="惊慌的山海众成员"]少废话，让你管的驮兽呢？！
 [charslot(slot="m",name="avg_npc_820_1#11$1",focus="m")]
-[name="方小石"]那个......卖了。
+[name="方小石"]那个……卖了。
 [charslot(slot="m",name="avg_npc_794_1#1$1",focus="m")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="惊慌的山海众成员"]卖了？！
@@ -151,7 +151,7 @@
 [charslot(slot="m",name="avg_npc_794_1#1$1",focus="m")]
 [name="惊慌的山海众成员"]你——！
 [charslot(slot="m",name="avg_npc_820_1#6$1",focus="m")]
-[name="方小石"]我们留在这山里都多久了？白养一只驮兽，吃得比我还多，说不准什么时候再招只牙兽过来......
+[name="方小石"]我们留在这山里都多久了？白养一只驮兽，吃得比我还多，说不准什么时候再招只牙兽过来……
 [charslot(slot="m",name="avg_npc_794_1#1$1",focus="m")]
 [name="惊慌的山海众成员"]*气急败坏的粗口*，怎么就拉了你这么一个废物入伙，你害死老子了！老子宰了你——
 [Dialog]
@@ -172,9 +172,9 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_787_1#11$1",duration=0.7)]
 [Delay(time=1)]
-[name="仇白"]一个孩子......？
+[name="仇白"]一个孩子……？
 [charslot(slot="m",name="avg_npc_820_1#11$1",focus="m")]
-[name="方小石"]你......你是谁......？
+[name="方小石"]你……你是谁……？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -189,7 +189,7 @@
 [Delay(time=1)]
 [name="仇白"]身上没有伤，玉门的事应该和你没有关系。
 [charslot(slot="m",name="avg_npc_787_1#7$1",focus="m")]
-[name="仇白"]早就知道山海众无恶不作，没想到居然还把这么小的孩子牵扯进来......这伙人，比我想的还要没有底线。
+[name="仇白"]早就知道山海众无恶不作，没想到居然还把这么小的孩子牵扯进来……这伙人，比我想的还要没有底线。
 [charslot(slot="m",name="avg_npc_820_1#6$1",focus="m")]
 [name="方小石"]听不懂你在说什么！
 [name="方小石"]喂，我劝你还是识相点。今天你抓了我手下的事，我先不和你计较。
@@ -206,7 +206,7 @@
 [charslot(slot="m",name="avg_npc_820_1#6$1",posfrom="-100,0",posto="-100,0",duration=0)]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="方小石"]我说了别过来！
-[name="方小石"]我警告你，我这一包炸药......
+[name="方小石"]我警告你，我这一包炸药……
 [Dialog]
 [Blocker(a=0, r=255,g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255,g=255, b=255, fadetime=0.03, block=true)]
@@ -225,7 +225,7 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_787_1#11$1",duration=0.5)]
 [delay(time=1)]
-[name="仇白"]平安符......谋善村？
+[name="仇白"]平安符……谋善村？
 [Dialog]
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -240,8 +240,8 @@
 [charslot(slot="l",name="avg_npc_820_1#4$1",focus="l")]
 [name="方小石"]不关你的事！
 [charslot(slot="m",name="avg_npc_787_1#1$1",focus="m")]
-[name="仇白"]......一个有家的孩子，更不该到处乱跑。
-[name="仇白"]你年纪还小，不清楚自己在与什么样的人为伍，这不怪你......但你至少该分清是非善恶。
+[name="仇白"]……一个有家的孩子，更不该到处乱跑。
+[name="仇白"]你年纪还小，不清楚自己在与什么样的人为伍，这不怪你……但你至少该分清是非善恶。
 [charslot(slot="m",name="avg_npc_787_1#7$1",focus="m")]
 [name="仇白"]就算你没有跟这些人的阴谋有太多牵扯，万一将来他们的同伙再回来找你，你知道自己会是什么下场？
 [charslot(slot="l",name="avg_npc_820_1#6$1",focus="l")]
@@ -249,7 +249,7 @@
 [charslot(slot="m",name="avg_npc_787_1#1$1",focus="m")]
 [name="仇白"]我也可以直接送你去最近的官府，你自己去解释清楚。
 [charslot(slot="m",name="avg_npc_787_1#10$1",focus="m")]
-[name="仇白"]但那对我来说，也是麻烦......
+[name="仇白"]但那对我来说，也是麻烦……
 [charslot(slot="m",name="avg_npc_787_1#1$1",focus="m")]
 [name="仇白"]我送你回家去，把你交给你家人。
 [charslot(slot="l",name="avg_npc_820_1#6$1",focus="l")]
@@ -285,7 +285,7 @@
 那人明明离自己两米开外，下一秒她的声音竟在自己的耳边响了起来，少年半边身子都跟着一麻。
 不等他反应过来，冰凉的剑刃已经横在他的喉头。
 [charslot(slot="l",name="avg_npc_820_1#11$1",focus="l")]
-[name="方小石"]......
+[name="方小石"]……
 [charslot(slot="m",name="avg_npc_787_1#6$1",focus="m")]
 [name="仇白"]看来你还是怕死的。
 [name="仇白"]很好，还不算太蠢。
@@ -298,7 +298,7 @@
 [charslot(slot="m",name="avg_npc_787_1#6$1",focus="m")]
 [name="仇白"]人总要为自己的言行付出代价。蠢话谁都会说，但好运气不是人人都有。
 [charslot(slot="l",name="avg_npc_820_1#11$1",focus="l")]
-[name="方小石"]你......到底想让我怎样......
+[name="方小石"]你……到底想让我怎样……
 [charslot(slot="m",name="avg_npc_787_1#1$1",focus="m")]
 [name="仇白"]带路，我送你回去。
 [Dialog]
@@ -356,9 +356,9 @@
 [charslot(slot="r",name="avg_npc_787_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
-[name="仇白"]你说你出来“闯江湖”，好像也没从家走出太远......我还以为你会故意把我往反方向带。
+[name="仇白"]你说你出来“闯江湖”，好像也没从家走出太远……我还以为你会故意把我往反方向带。
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]江湖这么大，我还没迈几步，半路上就遇见了你这个煞星......
+[name="方小石"]江湖这么大，我还没迈几步，半路上就遇见了你这个煞星……
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]再说我又不傻，要是带路到没人烟的地方，我不得和你一块饿死？
 [name="方小石"]就算要跑，也得想别的法子。
@@ -383,13 +383,13 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_820_1#6$1",focus="m")]
-[name="方小石"]我要这个，这个，这个......都上一份！
+[name="方小石"]我要这个，这个，这个……都上一份！
 [charslot(slot="m",name="avg_npc_797_1#1$1",focus="m")]
-[name="伙计"]小客人，你们就两个人，点这么多......
+[name="伙计"]小客人，你们就两个人，点这么多……
 [charslot(slot="m",name="avg_npc_820_1#1$1",focus="m")]
 [name="方小石"]（用茶水在桌上写字）
 [charslot(slot="m",name="avg_npc_797_1#1$1",focus="m")]
-[name="伙计"]啊......？
+[name="伙计"]啊……？
 [charslot(slot="m",name="avg_npc_820_1#6$1",focus="m")]
 [name="方小石"]（“我被绑架——”）
 [charslot(slot="m",name="avg_npc_797_1#1$1",focus="m")]
@@ -404,7 +404,7 @@
 [charslot(slot="m",name="avg_npc_820_1#1$1",focus="m")]
 [name="方小石"]差不多，先上这些吧！
 [charslot(slot="m",name="avg_npc_797_1#1$1",focus="m")]
-[name="伙计"]好......好......
+[name="伙计"]好……好……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1.1)]
 [charslot(slot="m",name="avg_npc_797_1#1$1",afrom=1,ato=0,duration=1,isblock=true)]
@@ -419,7 +419,7 @@
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]我去上厕所，你也要跟着我？
 [charslot(slot="r",name="avg_npc_787_1#4$1",focus="r")]
-[name="仇白"]......
+[name="仇白"]……
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]别想耍花样。
 [Dialog]
@@ -431,12 +431,12 @@
 [Dialog]
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="none")]
-[name="伙计"]刚才那个孩子偷偷跟我说，他是被绑架的......
-[name="伙计"]那两人进来的时候也没啥奇怪的，我以为就是平常的姐弟......不知道发生了什么......
+[name="伙计"]刚才那个孩子偷偷跟我说，他是被绑架的……
+[name="伙计"]那两人进来的时候也没啥奇怪的，我以为就是平常的姐弟……不知道发生了什么……
 [name="警卫"]你说的人在哪？
 [Dialog]
 [charslot(slot="r",name="avg_npc_787_1#2$1",focus="r")]
-[name="仇白"]......
+[name="仇白"]……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -451,13 +451,13 @@
 [charslot(slot="m",name="avg_npc_820_1#11$1",duration=1,isblock=true)]
 [Delay(time=1.5)]
 [name="方小石"]呼——
-[name="方小石"]那个女人......总不能再跟到这里来吧......
+[name="方小石"]那个女人……总不能再跟到这里来吧……
 [charslot(slot="m",name="avg_npc_820_1#8$1",focus="m")]
 [name="方小石"]哼！想抓我，做梦去吧。
 [charslot(slot="m",name="avg_npc_820_1#2$1",focus="m")]
-[name="方小石"]真是倒霉......
-[name="方小石"]什么“山海众”，还以为跟了个了不起的大帮派，结果被人家一个人就解决了，害得我也得跟着逃命......
-[name="方小石"]钱没赚到，武功也没学到，好不容易带了一包肉干出来，还给弄没了......
+[name="方小石"]真是倒霉……
+[name="方小石"]什么“山海众”，还以为跟了个了不起的大帮派，结果被人家一个人就解决了，害得我也得跟着逃命……
+[name="方小石"]钱没赚到，武功也没学到，好不容易带了一包肉干出来，还给弄没了……
 [Dialog]
 [PlaySound(key="$leaveshake", volume=0.6)]
 [charslot(slot="m",name="avg_npc_820_1#2$1",posfrom="0,0",posto="0,-50",duration=1.5,isblock=false)]
@@ -467,7 +467,7 @@
 他骂了两声，但肚子发出了更大的响动。
 一个闯荡江湖的少年，一张饿得空荡荡的肚皮，天高云远，幕天席地。
 [charslot]
-[name="方小石"]刚才就应该蹭两口饭再跑的，这下该上哪去......
+[name="方小石"]刚才就应该蹭两口饭再跑的，这下该上哪去……
 [Dialog]
 [Delay(time=0.7)]
 [name="仇白"]我说过，事不过三。
@@ -488,15 +488,15 @@
 [charslot(slot="m",name="avg_npc_820_1#4$1",focus="m")]
 [name="方小石"]死就死了，和你到底有什么关系！
 [charslot(slot="m",name="avg_npc_820_1#2$1",focus="m")]
-[name="方小石"]从小到大，就没人管过我的死活......
+[name="方小石"]从小到大，就没人管过我的死活……
 [charslot(slot="m",name="avg_npc_787_1#7$1",focus="m")]
 [name="仇白"]一个自己都不惜命的人，别人又凭什么管你的死活？
 [charslot(slot="m",name="avg_npc_820_1#6$1",focus="m")]
-[name="方小石"]你知道什么......
+[name="方小石"]你知道什么……
 [charslot(slot="m",name="avg_npc_820_1#2$1",focus="m")]
-[name="方小石"]你又没有体会过从小在外面流浪，一个人无依无靠地过活......
+[name="方小石"]你又没有体会过从小在外面流浪，一个人无依无靠地过活……
 [charslot(slot="m",name="avg_npc_787_1#5$1",focus="m")]
-[name="仇白"]......
+[name="仇白"]……
 [charslot(slot="m",name="avg_npc_820_1#4$1",focus="m")]
 [name="方小石"]别假惺惺了！像你这种武功高强的剑客，怎么会懂——
 [Dialog]
@@ -515,16 +515,16 @@
 [Dialog]
 [charslot(slot="l",name="avg_npc_820_1#11$1",focus="l")]
 [charslot(slot="r",name="avg_npc_787_1#7$1",focus="l")]
-[name="方小石"]救、救......
+[name="方小石"]救、救……
 [charslot(slot="r",name="avg_npc_787_1#7$1",focus="r")]
 [name="仇白"]别动！
 [charslot(slot="l",name="avg_npc_820_1#11$1",focus="l")]
-[name="方小石"]没动......
+[name="方小石"]没动……
 [charslot(slot="r",name="avg_npc_787_1#7$1",focus="r")]
 [name="仇白"]不要出声，也不要跑，别背对它。
-[name="仇白"]不要慌，慢慢向我靠近，站到我身后来......
+[name="仇白"]不要慌，慢慢向我靠近，站到我身后来……
 [charslot(slot="l",name="avg_npc_820_1#11$1",focus="l")]
-[name="方小石"]我......不敢......
+[name="方小石"]我……不敢……
 [Dialog]
 [charslot(slot="l",name="avg_npc_820_1#11$1",focus="none")]
 [PlaySound(key="$d_avg_wolflordattack",volume=0.7)]
@@ -581,7 +581,7 @@
 [name="仇白"]给，吃点东西。
 [name="仇白"]弄坏了你的肉干，赔烤兽肉给你。
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]你没事......？
+[name="方小石"]你没事……？
 [charslot(slot="r",name="avg_npc_787_1#6$1",focus="r")]
 [name="仇白"]你是指什么？
 [name="仇白"]是被那只牙兽抓伤了一点，还是被你气得不轻？
@@ -589,13 +589,13 @@
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [PlaySound(key="$d_avg_cloakmovement", volume=0.7)]
 [Delay(time=1.5)]
-[name="方小石"]这个......给你。
+[name="方小石"]这个……给你。
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]我爹教我做的药，他打猎的时候都会随身带着，治野兽弄的抓伤咬伤很管用。
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
 [name="仇白"]我要怎么信你，这里面不是毒药？
 [charslot(slot="l",name="avg_npc_820_1#7$1",focus="l")]
-[name="方小石"]......
+[name="方小石"]……
 [Dialog]
 [PlaySound(key="$d_avg_daggerexsheath", volume=0.4)]
 [delay(time=0.5)]
@@ -605,42 +605,42 @@
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]这下信了？
 [charslot(slot="r",name="avg_npc_787_1#4$1",focus="r")]
-[name="仇白"]......
+[name="仇白"]……
 [charslot(slot="l",name="avg_npc_820_1#3$1",focus="l")]
 [name="方小石"]磨磨蹭蹭的，亏我还当你是大侠呢。
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
-[name="方小石"]哼，原来牙兽肉是这个味道......啧，又硬又腥。
+[name="方小石"]哼，原来牙兽肉是这个味道……啧，又硬又腥。
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
 [name="仇白"]在野外，还能吃上熟肉就不该抱怨。
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]说的也是......跟着那伙人留在山洞里，几个月都吃不到一口肉。
+[name="方小石"]说的也是……跟着那伙人留在山洞里，几个月都吃不到一口肉。
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
 [name="仇白"]你是说你的那群“手下”？十里八乡闻名的大恶人，也吃不饱饭？
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]干嘛笑话我......
+[name="方小石"]干嘛笑话我……
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
 [name="仇白"]你这个年纪的孩子，和家人闹别扭就离家出走的我见过不少，争着抢着说自己是大恶人的我倒是头一回见。
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]......我不想被人瞧不起。
+[name="方小石"]……我不想被人瞧不起。
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]好人又怎样，坏人又怎样，不能当一个所有人都害怕的人，就只能受人欺负。
 [charslot(slot="r",name="avg_npc_787_1#11$1",focus="r")]
 [name="仇白"]这是谁教你的歪理？
 [charslot(slot="l",name="avg_npc_820_1#6$1",focus="l")]
-[name="方小石"]我自己想明白的......经验之谈！
+[name="方小石"]我自己想明白的……经验之谈！
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
 [name="仇白"]话说对了一半。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]当你变成一个所有人都害怕的人，你会发现，是没人欺负你了，但所有人都会联起手来对付你。
 [name="仇白"]想要没有敌人，唯一的办法，是别把其他人当敌人。
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
-[name="方小石"]我......能不能问你一个问题？
+[name="方小石"]我……能不能问你一个问题？
 [charslot(slot="l",name="avg_npc_820_1#8$1",focus="l")]
 [name="方小石"]你武功这么厉害，是从哪学来的？
 [charslot(slot="r",name="avg_npc_787_1#6$1",focus="r")]
 [name="仇白"]逼你一个人在江湖上摸爬滚打五年，再把你丢进战场磨练上五年，如果还能活下来的话，武功差不到哪儿去。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
-[name="仇白"]......我还遇到过一个武功很厉害的人，他教过我。
+[name="仇白"]……我还遇到过一个武功很厉害的人，他教过我。
 [charslot(slot="l",name="avg_npc_820_1#5$1",focus="l")]
 [name="方小石"]比你还要厉害？
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
@@ -655,11 +655,11 @@
 [charslot(slot="r",name="avg_npc_787_1#8$1",focus="r")]
 [name="仇白"]如果能活下来的话。
 [charslot(slot="l",name="avg_npc_820_1#8$1",focus="l")]
-[name="方小石"]姐......姐姐。
+[name="方小石"]姐……姐姐。
 [charslot(slot="r",name="avg_npc_787_1#4$1",focus="r")]
-[name="仇白"]......你喊我什么？
+[name="仇白"]……你喊我什么？
 [charslot(slot="l",name="avg_npc_820_1#8$1",focus="l")]
-[name="方小石"]女侠姐姐......要不你收我为徒吧？
+[name="方小石"]女侠姐姐……要不你收我为徒吧？
 [name="方小石"]我以后就跟着你，闯荡江湖也好，行侠仗义也好，你就是我的师父了！
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]我不收徒弟，更不会随意教别人武功。
@@ -670,34 +670,34 @@
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
 [name="仇白"]你觉得我是好人？
 [charslot(slot="l",name="avg_npc_820_1#7$1",focus="l")]
-[name="方小石"]应......应该算是......
+[name="方小石"]应……应该算是……
 [charslot(slot="l",name="avg_npc_820_1#8$1",focus="l")]
-[name="方小石"]毕竟你救了我，还给我东西吃......
-[name="方小石"]你武功这么厉害，但还是会花钱买东西，不抢别人的，和那伙人不一样......
+[name="方小石"]毕竟你救了我，还给我东西吃……
+[name="方小石"]你武功这么厉害，但还是会花钱买东西，不抢别人的，和那伙人不一样……
 [charslot(slot="r",name="avg_npc_787_1#6$1",focus="r")]
 [name="仇白"]你倒也不算完全善恶不分。
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
-[name="方小石"]可我还是不明白，你为什么要救我......
+[name="方小石"]可我还是不明白，你为什么要救我……
 [name="方小石"]是不是你们这样的大侠，都喜欢“管闲事”？
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]你已经问了好几个问题。
 [charslot(slot="l",name="avg_npc_820_1#8$1",focus="l")]
-[name="方小石"]姐姐......你不收我当徒弟也行，你就让我跟着你，去哪里都好，只要别让我回家。
+[name="方小石"]姐姐……你不收我当徒弟也行，你就让我跟着你，去哪里都好，只要别让我回家。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]我也想问你一个问题。
 [name="仇白"]你明明一直带着家里的钥匙，为什么坚决不想回家去？
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]......还不到时候。
+[name="方小石"]……还不到时候。
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]我离家出走的时候就下定决心，一定要干一番大事业才回去。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]家里还有亲人？
 [charslot(slot="l",name="avg_npc_820_1#7$1",focus="l")]
-[name="方小石"]从我记事起就没见过我娘，爹应该还在......没别的亲人了。
+[name="方小石"]从我记事起就没见过我娘，爹应该还在……没别的亲人了。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]所以更应该回家去，你忍心让你爹担心？
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]我回去了他也未必高兴......村子里的人都讨厌我，瞧不起我，欺负我......说了你也不懂。
+[name="方小石"]我回去了他也未必高兴……村子里的人都讨厌我，瞧不起我，欺负我……说了你也不懂。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]还是那句话，要想和别人相处得好，就别把其他人当敌人。
 [charslot(slot="r",name="avg_npc_787_1#6$1",focus="r")]
@@ -717,7 +717,7 @@
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]那你呢？你的家在哪里？
 [charslot(slot="r",name="avg_npc_787_1#10$1",focus="r")]
-[name="仇白"]......我已经没有家了。
+[name="仇白"]……我已经没有家了。
 [charslot(slot="l",name="avg_npc_820_1#5$1",focus="l")]
 [name="方小石"]没有家是什么意思？是遇上了天灾，还是为了给移动城市让道被拆除了？
 [charslot(slot="r",name="avg_npc_787_1#5$1",focus="r")]
@@ -765,7 +765,7 @@
 [charslot(slot="l",name="avg_npc_820_1#8$1",focus="l")]
 [name="方小石"]我听说！站在这个山头，有时候可以看到玉门城！
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
-[name="仇白"]......
+[name="仇白"]……
 [Dialog]
 [charslot]
 少年努力地踮起脚尖，从山崖上向西看去，荒草漫漫，最远的地方，也只能看见一线模糊的暗黄。少年脸上露出了失落的神情。
@@ -805,7 +805,7 @@
 [name="仇白"]那些移动城市到不了的地方，都要靠这些道路连通。
 [name="仇白"]毁了就建新的，这是必须要做的事，所以不计物力。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
-[name="仇白"]但很少有人知道......很少有人记得，始终有人在做这样的事。
+[name="仇白"]但很少有人知道……很少有人记得，始终有人在做这样的事。
 [Dialog]
 [charslot]
 不久前，一场天灾掠过了这处山道，奔向玉门，给城市造成了不小的损失，却也留下了一段英雄佳话。
@@ -825,18 +825,18 @@
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]那里是什么样的地方？是不是有很多武功了得的英雄人物，还有很多厉害的军队和武器？
 [charslot(slot="r",name="avg_npc_787_1#12$1",focus="r")]
-[name="仇白"]不......更多还是普通的人，做着普通的工作。
+[name="仇白"]不……更多还是普通的人，做着普通的工作。
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]玉门奔行大漠之上，常年与风沙作伴，生活在其中的人，怎么可能活得容易？
 [charslot(slot="l",name="avg_npc_820_1#7$1",focus="l")]
-[name="方小石"]我不怕辛苦，只要能做些了不起的大事......总比窝在这山沟沟要好。
+[name="方小石"]我不怕辛苦，只要能做些了不起的大事……总比窝在这山沟沟要好。
 [charslot(slot="l",name="avg_npc_820_1#8$1",focus="l")]
-[name="方小石"]总之，我的志向是不会变的......现在我听你的，先回家去，等做好了准备，小爷我还是会再次出山的！
+[name="方小石"]总之，我的志向是不会变的……现在我听你的，先回家去，等做好了准备，小爷我还是会再次出山的！
 [name="方小石"]我发誓，下次站在这里的时候，方小石一定会是远近闻名——不，天下闻名的大侠！
 [charslot(slot="r",name="avg_npc_787_1#6$1",focus="r")]
 [name="仇白"]你最好还是先做个好人，要是“恶名远扬”，我还是要回来找你的麻烦。
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]就知道泼我冷水......
+[name="方小石"]就知道泼我冷水……
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]翻过这座山就到谋善村了。
 [name="方小石"]后面的路，我认得。
@@ -872,17 +872,17 @@
 [charslot(slot="m",name="avg_npc_820_1#8$1",duration=1,isblock=true)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_140",focus="m")]
-[name="耕作的村民"]方小石......？你是方小石！
+[name="耕作的村民"]方小石……？你是方小石！
 [charslot(slot="m",name="avg_npc_820_1#8$1",focus="m")]
 [name="方小石"]哟，这不是大远伯伯吗？您没认错，小爷我又回来了！
 [name="方小石"]干嘛还这么瞅着我，不就是错把肥料当成饲料倒进了你家驮兽的草料槽里，这仇你还要记三年？
 [charslot(slot="m",name="avg_npc_140",focus="m")]
-[name="耕作的村民"]你......你还活着？
+[name="耕作的村民"]你……你还活着？
 [charslot(slot="m",name="avg_npc_820_1#8$1",focus="m")]
 [name="方小石"]我当然还活着。
 [name="方小石"]倒是伯伯，三年没见，你这背可是驼得更厉害了。
 [charslot(slot="m",name="avg_npc_140",focus="m")]
-[name="耕作的村民"]见鬼了......见鬼了！
+[name="耕作的村民"]见鬼了……见鬼了！
 [charslot(slot="m",name="avg_npc_140",focus="m")]
 [name="耕作的村民"]得赶紧告诉族长去！
 [Dialog]
@@ -901,9 +901,9 @@
 [name="仇白"]你到底做了多少坏事，才会让大家对你这么闻风丧胆？
 [charslot(slot="l",name="avg_npc_820_1#6$1",focus="l")]
 [name="方小石"]那也该问问是谁先动手的。
-[name="方小石"]哪里的人都一样，只会挑最好欺负的欺负......不过既然我回来了，我也不怕他们！
+[name="方小石"]哪里的人都一样，只会挑最好欺负的欺负……不过既然我回来了，我也不怕他们！
 [charslot(slot="r",name="avg_npc_787_1#10$1",focus="r")]
-[name="仇白"]......
+[name="仇白"]……
 [charslot(slot="l",name="avg_npc_820_1#1$1",focus="l")]
 [name="方小石"]你在看什么，是不是没见过这么穷苦的地方？
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="r")]
@@ -923,7 +923,7 @@
 [Delay(time=0.5)]
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [charslot(slot="m",name="avg_npc_820_1#1$1",focus="m")]
-[name="方小石"]算了，虽然不知道你是谁......不过葬在这里，就当你是村里人吧。
+[name="方小石"]算了，虽然不知道你是谁……不过葬在这里，就当你是村里人吧。
 [charslot(slot="m",name="avg_npc_820_1#2$1",focus="m")]
 [name="方小石"]死了也好，以后也不用受苦了。
 [Dialog]
@@ -936,13 +936,13 @@
 [charslot(slot="r",name="avg_npc_787_1#1$1",focus="l")]
 [name="方小石"]我家就在前面，快到了。
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]......
+[name="方小石"]……
 [charslot(slot="r",name="avg_npc_787_1#11$1",focus="r")]
 [name="仇白"]为什么不走了？
 [charslot(slot="l",name="avg_npc_820_1#2$1",focus="l")]
-[name="方小石"]我......
+[name="方小石"]我……
 [charslot(slot="l",name="avg_npc_820_1#3$1",focus="l")]
-[name="方小石"]......算了，该来的也躲不掉，我才不怕。
+[name="方小石"]……算了，该来的也躲不掉，我才不怕。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -967,7 +967,7 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_820_1#1$1",focus="m")]
 [name="方小石"]奇怪，家里东西都在，人怎么不在？
-[name="方小石"]难道是在地里......我上外面找他去。
+[name="方小石"]难道是在地里……我上外面找他去。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -978,8 +978,8 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_820_1#1$1",duration=0.7)]
 [Delay(time=1)]
-[name="方小石"]爹......爹？
-[name="方小石"]人呢......
+[name="方小石"]爹……爹？
+[name="方小石"]人呢……
 [Dialog]
 [charslot]
 [Delay(time=1)]

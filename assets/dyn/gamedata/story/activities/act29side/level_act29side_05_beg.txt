@@ -20,9 +20,9 @@
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1",duration=1)]
 [Delay(time=1)]
 [MusicVolume(volume=0.6, fadetime=2)]
-[name="金律法卫"]......
+[name="金律法卫"]……
 [charslot(slot = "m", name = "avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]乌提卡的密室在地下，和奏鸣塔距离非常近。我们可以从奏鸣塔下去。弗莱蒙特阁下先行一步，我们也得尽快跟上......
+[name="薇薇安娜"]乌提卡的密室在地下，和奏鸣塔距离非常近。我们可以从奏鸣塔下去。弗莱蒙特阁下先行一步，我们也得尽快跟上……
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
 [name="金律法卫"]不。
 [charslot(slot = "m", name = "avg_4098_vvana_1#10$1")]
@@ -39,14 +39,14 @@
 [charslot(slot = "m", name = "avg_4098_vvana_1#4$1")]
 [name="薇薇安娜"]布兰特阁下，我的父亲不在了。
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
-[name="金律法卫"]......是我让你变成了唯一活下来的人。
-[name="金律法卫"]是我害你......失去了自由......
+[name="金律法卫"]……是我让你变成了唯一活下来的人。
+[name="金律法卫"]是我害你……失去了自由……
 [charslot(slot = "m", name = "avg_4098_vvana_1#4$1")]
 [name="薇薇安娜"]请您看着我，我是薇薇安娜。
 [charslot(slot = "m", name = "avg_4098_vvana_1#5$1")]
-[name="薇薇安娜"]您把我当成了......我的父亲吗？
+[name="薇薇安娜"]您把我当成了……我的父亲吗？
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
-[name="金律法卫"]......
+[name="金律法卫"]……
 [name="金律法卫"]现在就走，离开路德维格大学。
 [name="金律法卫"]赫琳玛特的密使传达了女皇的命令。作为女皇之声，你完全有理由中止任务。
 [name="金律法卫"]为了避免女皇之间的声音不同步，伊维格娜德也不会惩罚你。
@@ -64,7 +64,7 @@
 [name="金律法卫"]似曾相识。
 [name="金律法卫"]这里几乎沦为战场。我职责在身，没法护送你逃出去，但用旋律在混乱中辟出一条路还是做得到的。
 [charslot(slot = "m", name = "avg_4098_vvana_1#7$1")]
-[name="薇薇安娜"]......不。
+[name="薇薇安娜"]……不。
 [name="薇薇安娜"]我忘不了，当我们踏入这片校园时，它还是那么地宁静纯粹。那些年轻学生的脸上，洋溢着对未来的希望。
 [charslot(slot = "m", name = "avg_4098_vvana_1#6$1")]
 [name="薇薇安娜"]他们不该沦为纷争的牺牲品。
@@ -79,11 +79,11 @@
 [name="薇薇安娜"]明明渴望着自由，却做不到在别人的痛苦面前，转身离开。
 [name="薇薇安娜"]很矛盾，对不对？
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
-[name="金律法卫"]......你和你的父亲，很像。
+[name="金律法卫"]……你和你的父亲，很像。
 [charslot(slot = "m", name = "avg_4098_vvana_1#1$1")]
 [name="薇薇安娜"]嗯。我理解他。
 [charslot(slot = "m", name = "avg_4098_vvana_1#3$1")]
-[name="薇薇安娜"]一直......都理解。
+[name="薇薇安娜"]一直……都理解。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -116,7 +116,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot = "m", name = "avg_npc_1128_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="“巫王的余音”"]......
+[name="“巫王的余音”"]……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", name = "avg_npc_1134_1#1$1")]
 [name="宪兵A"]巫、巫王残党！
@@ -140,7 +140,7 @@
 [name="阿尔图罗"]躲在帷幔后面的人，遗憾着爱情的陨落。
 [name="阿尔图罗"]替代别人冲锋的人，思索着英雄的定义。
 [name="阿尔图罗"]蹚过战友血海的人，悲叹着牺牲的代价。
-[name="阿尔图罗"]......
+[name="阿尔图罗"]……
 [name="阿尔图罗"]他们齐聚在螺旋阶梯的尽头，见证这首旋律的诞生。
 [name="阿尔图罗"]它的名字叫作——
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
@@ -162,7 +162,7 @@
 [name="恐惧的学徒"]是巫王的军队，他们在向我冲过来！
 [name="恐惧的学徒"]踏着天灾而来的术师！刺穿整座城市的源石！
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
-[name="恐惧的学徒"]救命啊，我不想死......不，死了也行，请把我烧成飞灰吧，我不想被捏成一团活着的血肉......！
+[name="恐惧的学徒"]救命啊，我不想死……不，死了也行，请把我烧成飞灰吧，我不想被捏成一团活着的血肉……！
 [charslot(slot ="m", action="shake", power=5, times=100, duration=0.3)]
 [name="恐惧的学徒"]咕——呃！
 [Dialog]
@@ -185,12 +185,12 @@
 [delay(time=1)]
 [name="米夏埃尔"]不行，这些人都疯了！
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2")]
-[name="米夏埃尔"]这声音......管、管风琴！是巫王残党在演奏吗？我们都被法术带来的幻觉影......影响......
+[name="米夏埃尔"]这声音……管、管风琴！是巫王残党在演奏吗？我们都被法术带来的幻觉影……影响……
 [charslot(slot = "m", name = "avg_4109_baslin_1#6$2")]
 [name="米夏埃尔"]是谁站在台阶上？
-[name="米夏埃尔"]都是血，这么多人......死了？站在血泊中的是......
+[name="米夏埃尔"]都是血，这么多人……死了？站在血泊中的是……
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2")]
-[name="米夏埃尔"]赫琳玛特......伊维格娜德！
+[name="米夏埃尔"]赫琳玛特……伊维格娜德！
 [Dialog]
 [charslot]
 [charslot(slot = "left", name = "avg_npc_1115_1#1$1",duration = 1.5,bstart=0.5,bend=1,afrom=0,ato=0.6)]
@@ -213,15 +213,15 @@
 [name="愤怒的学徒"]你又是谁？你是女皇之声吗？你是践行双子意志的傀儡吗？
 [charslot(slot = "m", name = "avg_4109_baslin_1#6$2")]
 [name="米夏埃尔"]不，她不让我当女皇之声。
-[name="米夏埃尔"]可我的性命是赫琳玛特留下的。我想帮她，我想......
+[name="米夏埃尔"]可我的性命是赫琳玛特留下的。我想帮她，我想……
 [charslot(slot = "m", name = "avg_npc_1130_1#1$1")]
 [name="愤怒的学徒"]得到魔鬼赏赐的人，也会变成魔鬼。看看这一切，你们把莱塔尼亚糟践成了什么样子！
-[name="愤怒的学徒"]这座高塔......这所学校......
+[name="愤怒的学徒"]这座高塔……这所学校……
 [name="愤怒的学徒"]你们留着路德维格大学，不就是为了假扮成莱塔尼亚人，装作你们还有尊重传统的体面吗？
 [name="愤怒的学徒"]可我受够了，受够了课堂里出现的女皇之声，受够了那些除了谄媚外一无是处的沙龙！
 [name="愤怒的学徒"]我们的历史、知识、艺术，都早就被杀死了！
 [name="愤怒的学徒"]不如一起死吧。
-[name="愤怒的学徒"]杀......杀了你们......！
+[name="愤怒的学徒"]杀……杀了你们……！
 [Dialog]
 [charslot]
 [PlaySound(key="$fightgeneral",volume=0.6)]
@@ -229,27 +229,27 @@
 [charslot(slot = "m", name = "avg_4109_baslin_1#6$2")]
 [name="米夏埃尔"]唔——！
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2")]
-[name="米夏埃尔"]什么源石技艺，为什么我挡不住......
-[name="米夏埃尔"]不，这是拳头？我......
+[name="米夏埃尔"]什么源石技艺，为什么我挡不住……
+[name="米夏埃尔"]不，这是拳头？我……
 [charslot(duration=1)]
 米夏埃尔茫然地睁大了眼睛。
 越来越多的人涌向奏鸣塔，在乐声中混战成一团。他们大多数都放下了法杖，选择用拳头，用腿脚，用牙齿。
 这还是他熟悉的莱塔尼亚吗？
 他学过的言语技巧，战斗策略，甚至源石技艺本身都失去了效果。
 除了蜷缩在盾下，他什么都做不了，就像变回了那个刚刚背井离乡，来到崔林特尔梅的孩子。
-[name="米夏埃尔"]放过我，求您......伊维格娜德，我什么都愿意做......
-[name="米夏埃尔"]不要......不要伤害我......
-[name="米夏埃尔"]赫琳玛特......赫琳玛特......
+[name="米夏埃尔"]放过我，求您……伊维格娜德，我什么都愿意做……
+[name="米夏埃尔"]不要……不要伤害我……
+[name="米夏埃尔"]赫琳玛特……赫琳玛特……
 [charslot(slot = "m", focus = "n")]
 [name="？？？"]请站起来。
 [dialog]
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2",duration=1,posfrom = "0,-50", posto = "0,0")]
 [delay(time=1.5)]
-[name="米夏埃尔"]谁......？
+[name="米夏埃尔"]谁……？
 [charslot(slot = "m", name = "avg_1032_excu2_1#10$1")]
 [name="费德里科"]举起盾牌，朝向左边。
 [charslot(slot = "m", name = "avg_4109_baslin_1#6$2")]
-[name="米夏埃尔"]......好。
+[name="米夏埃尔"]……好。
 [Dialog]
 [charslot]
 [playsound(key="$sheildimpact")]
@@ -259,7 +259,7 @@
 [charslot(slot = "m", name = "avg_1032_excu2_1#1$1")]
 [name="费德里科"]这个人，帮我扶一下。
 [charslot(slot = "m", name = "avg_npc_1133_1#1$1",focus="n")]
-[name="宪兵C"]......
+[name="宪兵C"]……
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2")]
 [name="米夏埃尔"]宪兵？他是什么人？
 [charslot(slot = "m", name = "avg_1032_excu2_1#6$1")]
@@ -295,7 +295,7 @@
 [name="费德里科"]这些人有可能受到了源石技艺的影响，被内心深处最强烈的情绪支配，丧失了应有的理性。
 [name="费德里科"]和他们缠斗缺乏效率，建议你和我一样，用最快的方式击晕他们。
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2",focus="m")]
-[name="米夏埃尔"]......你就这样，靠一路把人敲晕，在这混乱的人堆里穿来穿去？
+[name="米夏埃尔"]……你就这样，靠一路把人敲晕，在这混乱的人堆里穿来穿去？
 [charslot(slot = "l",name = "avg_1032_excu2_1#1$1",foucs="l")]
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2",focus="n")]
 [name="费德里科"]我尽量把他们堆放在了不会被踩到或者打到的角落里。
@@ -312,7 +312,7 @@
 [name="费德里科"]虽然我并未接收到确切信息，但如果混乱真的由阿尔图罗的琴声引起，那除非她停止演奏，这些人的异常表现只会持续下去。
 [name="费德里科"]这里交给你了，米夏·沃尔。
 [charslot(slot = "m", name = "avg_4109_baslin_1#1$2",focus="m")]
-[name="米夏埃尔"]......叫我米夏埃尔吧。
+[name="米夏埃尔"]……叫我米夏埃尔吧。
 [charslot(slot = "l",name = "avg_1032_excu2_1#1$1",foucs="l")]
 [charslot(slot = "m", name = "avg_4109_baslin_1#1$2",focus="n")]
 [name="费德里科"]米夏埃尔，我必须继续往上走。
@@ -329,9 +329,9 @@
 [name="雕塑发出的奇怪声音"]这些声音听起来很熟悉。
 [name="雕塑发出的奇怪声音"]外面的阶梯上，是不是和二十三年前一样混乱不堪？
 [charslot(slot = "m", name = "avg_245_cello_1#2$1")]
-[name="阿尔图罗"]慌张、焦急、恐惧、愤怒......所有的情感都因那座并不存在于此处的塔引起。
+[name="阿尔图罗"]慌张、焦急、恐惧、愤怒……所有的情感都因那座并不存在于此处的塔引起。
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
-[name="阿尔图罗"]屹立在莱塔尼亚中央的始源之塔啊......
+[name="阿尔图罗"]屹立在莱塔尼亚中央的始源之塔啊……
 [charslot(slot = "m", name = "avg_245_cello_1#11$1")]
 [name="阿尔图罗"]当它再度发出声响时，究竟能带来什么样的乐章？
 [Dialog]
@@ -374,7 +374,7 @@
 [charslot(slot="m",name="avg_npc_1124_1#1$1",duration=1.5)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1124_1#10$1")]
-[name="格哈德"]终于......我等到了这一天。
+[name="格哈德"]终于……我等到了这一天。
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
 [name="格哈德"]二十多年来，我一直幻想着走过长长的阶梯，来到这张王座面前。
 [name="格哈德"]好在命运让我得到了您留在金律乐章上的术式。
@@ -383,18 +383,18 @@
 [name="格哈德"]赫尔昏佐伦，莱塔尼亚至高的王。
 [charslot(slot="m",name="avg_npc_1124_1#2$1")]
 [name="格哈德"]请容许我再一次谒见您。
-[name="格哈德"]请容许我......祈求您的原谅。
+[name="格哈德"]请容许我……祈求您的原谅。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#6$1")]
-[name="黑键"]......
+[name="黑键"]……
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
 [name="格哈德"]弗朗茨，好孩子。
 [name="格哈德"]很抱歉，我不得不打了你。头还疼吗？
 [charslot(slot="m",name="avg_4046_ebnhlz_1#5$1")]
-[name="黑键"]......
+[name="黑键"]……
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
 [name="格哈德"]我以为，你会有很多问题想问。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#7$1")]
-[name="黑键"]......呵。
+[name="黑键"]……呵。
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
 [name="格哈德"]没错，就是这个眼神。痛苦，但从来不愿意屈服，就算跪倒在淤泥里，也要蔑视比你强大的人。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#7$1")]
@@ -404,13 +404,13 @@
 [name="格哈德"]你以为我们精神错乱了，把你当成巫王，虔诚忏悔，顶礼膜拜。
 [charslot(slot="m",name="avg_npc_1124_1#3$1")]
 [name="格哈德"]很可惜。我也希望，你真的能够成为巫王。
-[name="格哈德"]要是......最初的实验能成功就好了。我也希望我们一开始就能找到“尘世之音”的演奏方法。
+[name="格哈德"]要是……最初的实验能成功就好了。我也希望我们一开始就能找到“尘世之音”的演奏方法。
 [name="格哈德"]那样的话，你，还有其他孩子，都不必受那么大苦。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#8$1")]
-[name="黑键"]......是你？
-[name="黑键"]我竟然还把你当作......想要保护......
+[name="黑键"]……是你？
+[name="黑键"]我竟然还把你当作……想要保护……
 [charslot(slot="m",name="avg_4046_ebnhlz_1#10$1")]
-[name="黑键"]哈......哈哈哈哈！
+[name="黑键"]哈……哈哈哈哈！
 [charslot(slot="m",name="avg_npc_1124_1#4$1")]
 [name="格哈德"]你的嘴角流血了。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#8$1")]
@@ -420,25 +420,25 @@
 [name="格哈德"]可我对你说的每一句话，都是真心的。
 [name="格哈德"]第一次见到你的时候，你还不会走路，只会倚坐在你母亲的膝盖上。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#8$1")]
-[name="黑键"]她也是......
+[name="黑键"]她也是……
 [charslot(slot="m",name="avg_npc_1124_1#5$1")]
 [name="格哈德"]巫王残党？你是想说这个词吗？
-[name="格哈德"]你很担心你的出生......就是一场邪恶的仪式？
+[name="格哈德"]你很担心你的出生……就是一场邪恶的仪式？
 [charslot(slot="m",name="avg_4046_ebnhlz_1#9$1")]
-[name="黑键"]......
+[name="黑键"]……
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
 [name="格哈德"]不，恰恰相反，你甚至希望这样，对吗？你希望自己的生命是一场彻头彻尾的阴谋，这样你就可以放心地去厌恨它。
 [name="格哈德"]可是弗朗茨，这没有意义。
 [charslot(slot="m",name="avg_npc_1124_1#9$1")]
-[name="格哈德"]你的母亲是一位可敬的夫人。她本就是乌提卡家族的后人，是巫王残留的血脉......在别人眼中，她不可能不是巫王残党。
+[name="格哈德"]你的母亲是一位可敬的夫人。她本就是乌提卡家族的后人，是巫王残留的血脉……在别人眼中，她不可能不是巫王残党。
 [name="格哈德"]她死前将你托付给了她的同伴，一位巫王的旧臣。他同样为了救你死在了女皇之声的手中。
 [charslot(slot="m",name="avg_npc_1124_1#3$1")]
 [name="格哈德"]你也要恨他们吗？恨这些真心爱护你的人？
 [charslot(slot="m",name="avg_4046_ebnhlz_1#8$1")]
-[name="黑键"]......你们在拿走了我的爱之后，还想告诉我，我连恨都不配。
+[name="黑键"]……你们在拿走了我的爱之后，还想告诉我，我连恨都不配。
 [name="黑键"]你们希望，我只是一具空壳，好让你们把那老头塞进来。
-[name="黑键"]哈哈......那就试试看吧。
-[name="黑键"]巫王的低语，衣袍，冠冕......还有什么？
+[name="黑键"]哈哈……那就试试看吧。
+[name="黑键"]巫王的低语，衣袍，冠冕……还有什么？
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
 [name="格哈德"]别担心，孩子。
 [name="格哈德"]等赫尔昏佐伦的力量降临，他将结束你悲惨的命运，治愈你身上的伤痕与苦痛。
@@ -465,7 +465,7 @@
 [charslot(slot="m",name="avg_4011_lessng_1#1$1")]
 [name="莱辛"]每一天，我都会用源石技艺打磨我的剑。我会确保它和我的意志一样坚硬。
 [charslot(slot="m",name="avg_npc_1124_1#5$1")]
-[name="格哈德"]你的剑上有特殊的......针对莱塔尼亚传统法术的术式。是老师教你这么做的吗？他准备好了要与莱塔尼亚为敌？
+[name="格哈德"]你的剑上有特殊的……针对莱塔尼亚传统法术的术式。是老师教你这么做的吗？他准备好了要与莱塔尼亚为敌？
 [charslot(slot="m",name="avg_4011_lessng_1#1$1")]
 [name="莱辛"]老爷子从不主动选择敌人，我也是。敌人会自己从阴影中走出来。
 [name="莱辛"]就像你，格哈德。
@@ -475,10 +475,10 @@
 [name="格哈德"]梅耶尔家族世代都服务于乌提卡家族。
 [name="格哈德"]只要你愿意站过来，辅佐弗朗茨，王座边定有你的一席之地。
 [charslot(slot="m",name="avg_4011_lessng_1#1$1")]
-[name="莱辛"]......王座？
+[name="莱辛"]……王座？
 [name="莱辛"]我看到的，只有一张旧椅子。
 [charslot(slot="m",name="avg_4011_lessng_1#4$1")]
-[name="莱辛"]我的爷爷，我的父母......我们在这样的椅子旁边困得够久了。
+[name="莱辛"]我的爷爷，我的父母……我们在这样的椅子旁边困得够久了。
 [charslot(slot="m",name="avg_4011_lessng_1#1$1")]
 [name="莱辛"]我何必自缚手脚，踏上老路？
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
@@ -541,7 +541,7 @@
 [delay(time=1)]
 [charslot(slot ="m", action="shake", power=5, times=100, duration=0.3)]
 [delay(time=0.5)]
-[name="“巫王的余音”"]金律......法卫！
+[name="“巫王的余音”"]金律……法卫！
 [name="“巫王的余音”"]旋律已经响起来了，就算是你，也不可能截断它的流淌！
 [charslot(slot="m",name="avg_npc_1117_1#2$1")]
 [name="金律法卫"]或许。
@@ -552,7 +552,7 @@
 [PlaySound(key="$d_avg_swrdbzz",delay=0.2)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1128_1#1$1")]
-[name="“巫王的余音”"]剑......在鸣响？
+[name="“巫王的余音”"]剑……在鸣响？
 [name="“巫王的余音”"]没用的，金律法卫。你能约束一个人的心智，却影响不了一百个人、一千个人。你的旋律只会淹没在混乱里。
 [name="“巫王的余音”"]就像二十三年前，金律法卫也阻止不了发生在巫王塔下的混战一样。
 [charslot(slot="m",name="avg_npc_1117_1#2$1")]
@@ -567,10 +567,10 @@
 金色的光辉自剑身奔涌而出，撑满金律法卫的盔甲，再奔向天空，结成一张与夕阳同色的网，将奏鸣塔罩在其中。
 法术所及之处，所有声音都被吞没，只剩下庄严的旋律在半空回荡。
 [charslot(slot="m",name="avg_npc_1128_1#1$1")]
-[name="“巫王的余音”"]金色的......帷幕？
+[name="“巫王的余音”"]金色的……帷幕？
 [name="“巫王的余音”"]这是十个以上的金律法卫才能使用的法术！你才一个人，怎么可能？！
 [charslot(slot ="m", action="shake", power=10, times=100, duration=0.3)]
-[name="“巫王的余音”"]我......唔！
+[name="“巫王的余音”"]我……唔！
 [Dialog]
 [PlaySound(key="$d_avg_smkedspte")] 
 [charslot(duration=1)]
@@ -610,26 +610,26 @@
 [charslot(slot="m",name="avg_npc_1124_1#3$1")]
 [name="格哈德"]是啊，我明白的。主宰着莱塔尼亚的古老高塔里，住着一群萨卡兹——哪个莱塔尼亚人能接受这个事实呢？
 [name="格哈德"]真羡慕您啊。就连在面对赫尔昏佐伦的时候，您也仅仅提供了塑造那对双子的术式而已。
-[name="格哈德"]您不需要承担改变历史的负担，也没有沾上......最亲密的朋友的鲜血。
+[name="格哈德"]您不需要承担改变历史的负担，也没有沾上……最亲密的朋友的鲜血。
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
 [name="弗莱蒙特"]我真是搞不懂，你到底在想什么？当年你也是劝我动手阻止赫尔昏佐伦的人，今天却跟那帮不入流的模仿秀演员混在一起！
 [charslot(slot="m",name="avg_npc_1124_1#3$1")]
 [name="格哈德"]是的，我变了。是您让我改变的。
 [name="格哈德"]您让我研究乐章，思考莱塔尼亚的历史，我照做了。
 [charslot(slot="m",name="avg_npc_1124_1#8$1")]
-[name="格哈德"]可我越研究，越感到......绝望。
+[name="格哈德"]可我越研究，越感到……绝望。
 [name="格哈德"]赫尔昏佐伦的成就太过耀眼。
 [name="格哈德"]他解决了叙拉古的问题，拯救莱塔尼亚于分崩离析的边缘。他战胜了科西嘉一世，令莱塔尼亚不至于沦为高卢的附庸。
 [name="格哈德"]一次又一次足以杀死莱塔尼亚的危机，都因他的存在而化解。
 [charslot(slot="m",name="avg_npc_1124_1#6$1")]
-[name="格哈德"]而这样一位......伟大的王，却被我们杀死了。
+[name="格哈德"]而这样一位……伟大的王，却被我们杀死了。
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
 [name="弗莱蒙特"]谁让你看赫尔昏佐伦伟不伟大了？
 [name="弗莱蒙特"]再说他伟不伟大跟他弄死那么多萨卡兹和莱塔尼亚人害得整个国家乌烟瘴气还不听劝有什么关系？
 [name="弗莱蒙特"]我让你研究金律乐章，是想让你想开点，是个国家就那么点破事，你吃的苦头很多人都吃过，时间长了谁还不是日子照过。
 [name="弗莱蒙特"]结果你犯这种傻，对得起战死的人吗？
 [charslot(slot="m",name="avg_npc_1124_1#3$1")]
-[name="格哈德"]......可我见不到他们了，老师。
+[name="格哈德"]……可我见不到他们了，老师。
 [name="格哈德"]不像您，您是连死亡都能操纵的萨卡兹。我们死了就是死了，只能变成地上的一颗尘埃。死去的人永远感受不到我的悔恨。
 [name="格哈德"]当年是我劝说他们，让他们战死在巫王塔里。假如这场战斗不曾发生，巫王就不会死，他们也不会。
 [charslot(slot = "m", name = "avg_npc_1114_1#4$1")]
@@ -638,24 +638,24 @@
 [name="弗莱蒙特"]你该不会以为，等你见到他，他会表扬你或者安抚你吧？他又不是什么会给笨孩子唱摇篮曲的好爷爷！
 [name="弗莱蒙特"]他压根看都不会看你一眼。他只会把你看作一粒微尘，抬抬手就把你挥到地砖上。
 [charslot(slot="m",name="avg_npc_1124_1#10$1")]
-[name="格哈德"]哈......哈哈......老师，您还是不明白......
+[name="格哈德"]哈……哈哈……老师，您还是不明白……
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
-[name="格哈德"]像我这样，自私又懦弱的人......
-[name="格哈德"]我做的所有的事，不都是为了......求得自己的原谅？
+[name="格哈德"]像我这样，自私又懦弱的人……
+[name="格哈德"]我做的所有的事，不都是为了……求得自己的原谅？
 [Dialog]
 [charslot(duration=0.3)]
 [playsound(key="$d_avg_bdevilmgc",volume=0.6)]
 [Blocker(a=0.2, r=0.5, g=0, b=0, fadetime=0.5, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [charslot(slot = "m", name = "avg_npc_1114_1#4$1")]
-[name="弗莱蒙特"]你手里的是......丢失的金律乐章？！
+[name="弗莱蒙特"]你手里的是……丢失的金律乐章？！
 [charslot(slot="m",name="avg_npc_1124_1#1$1")]
 [name="格哈德"]更确切地说，是留在金律乐章上的，属于赫尔昏佐伦的力量。
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
 [name="弗莱蒙特"]你想强行使用赫尔昏佐伦的术式？别犯傻了，格哈德，你做不到！
 [charslot(slot="m",name="avg_npc_1124_1#3$1")]
 [name="格哈德"]我走得太远了，老师。
-[name="格哈德"]我不想......后悔第二次。
+[name="格哈德"]我不想……后悔第二次。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [playsound(key="$d_avg_wtchkgmgcbfr")]
@@ -670,7 +670,7 @@
 [Dialog]
 [charslot(slot = "m", name = "avg_4046_ebnhlz_1#10$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="黑键"]呃......啊......
+[name="黑键"]呃……啊……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_4011_lessng_1#2$1",duration=0.5)]
@@ -688,12 +688,12 @@
 [charslot(slot="m",name="avg_4011_lessng_1#1$1")]
 [name="莱辛"]快走，格哈德准备毁掉整座学校！
 [charslot(slot = "m", name = "avg_4046_ebnhlz_1#10$1")]
-[name="黑键"]巫......王......
-[name="黑键"]尘世之音......在我脑子里沸腾，它就快......自由了......
+[name="黑键"]巫……王……
+[name="黑键"]尘世之音……在我脑子里沸腾，它就快……自由了……
 [charslot(slot="m",name="avg_4011_lessng_1#1$1")]
 [name="莱辛"]起作用的不是尘世之音。
 [charslot(slot = "m", name = "avg_4046_ebnhlz_1#6$1")]
-[name="黑键"]不是......吗？
+[name="黑键"]不是……吗？
 [charslot(slot="m",name="avg_4011_lessng_1#1$1")]
 [name="莱辛"]我也不知道是谁搞错了，又或者是格哈德放弃了从你身上召唤巫王。
 [name="莱辛"]赫尔昏佐伦的力量不是从你脑子里钻出来的，关键的旋律不在你身上！
@@ -749,12 +749,12 @@
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
 [name="阿尔图罗"]你还记得我母亲的葬礼吗？
 [charslot(slot = "m",name = "avg_1032_excu2_1#5$1")]
-[name="费德里科"]......
+[name="费德里科"]……
 [charslot(slot = "m", name = "avg_245_cello_1#2$1")]
 [name="阿尔图罗"]我让所有人释放了藏在心中的情感。那是我第一次发现，人们会那么轻易地在我的旋律中沉沦。
 [charslot(slot = "m", name = "avg_245_cello_1#9$1")]
 [name="阿尔图罗"]可我并不欣喜。与之相反，我感到失望。
-[name="阿尔图罗"]强烈的情感带来的不该只有混乱。情感本应使人们的心灵变得强大，强大到能突破一切困境与阻碍......甚至注定的消亡。
+[name="阿尔图罗"]强烈的情感带来的不该只有混乱。情感本应使人们的心灵变得强大，强大到能突破一切困境与阻碍……甚至注定的消亡。
 [name="阿尔图罗"]所以我来这里寻找。
 [Dialog]
 [charslot]
@@ -769,9 +769,9 @@
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
 [name="阿尔图罗"]看来你对这场演出有所误解。
 [charslot(slot = "m", name = "avg_245_cello_1#3$1")]
-[name="阿尔图罗"]王座上的影子已然消散，孪生的英雄走出高塔迎接众人的仰望......而留在原地的人们，仍深陷在目睹山峦崩塌时的种种情绪里。
+[name="阿尔图罗"]王座上的影子已然消散，孪生的英雄走出高塔迎接众人的仰望……而留在原地的人们，仍深陷在目睹山峦崩塌时的种种情绪里。
 [charslot(slot = "m", name = "avg_245_cello_1#11$1")]
-[name="阿尔图罗"]《巫王之死》......这首曲子的主角，从来都不是巫王。
+[name="阿尔图罗"]《巫王之死》……这首曲子的主角，从来都不是巫王。
 [stopmusic(fadetime=3)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -785,19 +785,19 @@
 [charslot(slot = "r", name = "avg_npc_1132_1#1$1",duration=1)]
 [delay(time=1.5)]
 [charslot(slot = "l",focus="l")]
-[name="慌张的学徒"]发生了什么......我们为什么在这里？呃啊，我的手好痛！我怎么在流血？
+[name="慌张的学徒"]发生了什么……我们为什么在这里？呃啊，我的手好痛！我怎么在流血？
 [charslot(slot = "r",focus="r")]
-[name="焦急的学徒"]楼梯在晃！难道塔要塌了？这黑色的火焰是什么，怎么从地里一个劲钻出来......救命啊，救命！
+[name="焦急的学徒"]楼梯在晃！难道塔要塌了？这黑色的火焰是什么，怎么从地里一个劲钻出来……救命啊，救命！
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4109_baslin_1#3$2")]
-[name="米夏埃尔"]是赫尔昏佐伦的术式。大家倒是清醒了些......我们得立刻撤出这座塔！
+[name="米夏埃尔"]是赫尔昏佐伦的术式。大家倒是清醒了些……我们得立刻撤出这座塔！
 [charslot(slot = "m", name = "avg_npc_1133_1#1$1")]
-[name="宪兵C"]呃......唔......
+[name="宪兵C"]呃……唔……
 [charslot(slot = "m", name = "avg_4109_baslin_1#5$2")]
 [name="米夏埃尔"]你也醒了？
 [charslot(slot = "m", name = "avg_npc_1133_1#1$1")]
-[name="宪兵C"]烛火......烛......烛......
+[name="宪兵C"]烛火……烛……烛……
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$2")]
 [name="米夏埃尔"]烛火？
 [Dialog]
@@ -813,7 +813,7 @@
 [delay(time=2)]
 [charslot(slot = "l", name = "avg_4098_vvana_1#6$1",focus="r")]
 [charslot(slot = "r", name = "avg_4109_baslin_1#3$2",focus="r")]
-[name="米夏埃尔"]可这黑焰......整座奏鸣塔都被黑焰包裹了起来。
+[name="米夏埃尔"]可这黑焰……整座奏鸣塔都被黑焰包裹了起来。
 [charslot(slot = "l", name = "avg_4098_vvana_1#6$1",focus="l")]
 [name="薇薇安娜"]我会为你们开道。
 [charslot(slot = "r", name = "avg_4109_baslin_1#3$2",focus="r")]
@@ -829,23 +829,23 @@
 [stopsound(channel="a", fadetime=3)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot(slot = "r", name = "avg_4109_baslin_1#5$2",focus="r")]
-[name="米夏埃尔"]暗影在......撕扯黑焰？
+[name="米夏埃尔"]暗影在……撕扯黑焰？
 [charslot(slot = "l", name = "avg_4098_vvana_1#1$1",focus="l")]
 [name="薇薇安娜"]嗯。这才是我的源石技艺。
 [name="薇薇安娜"]是不是，其实并没有那么美丽？
 [charslot(slot = "r", name = "avg_4109_baslin_1#5$2",focus="r")]
-[name="米夏埃尔"]不，女士......很震撼。
+[name="米夏埃尔"]不，女士……很震撼。
 [charslot(slot = "r", name = "avg_4109_baslin_1#1$2",focus="r")]
 [name="米夏埃尔"]我很少见到一种源石技艺，能与赫尔昏佐伦的不灭黑焰相匹敌。
 [charslot(slot = "l", name = "avg_4098_vvana_1#2$1",focus="l")]
 [name="薇薇安娜"]我并不能战胜它。
-[name="薇薇安娜"]只要是真实存在的事物，就一定会留下影子......我能短暂地利用这一点，撑开一点点求生的可能性，就已是极限。
+[name="薇薇安娜"]只要是真实存在的事物，就一定会留下影子……我能短暂地利用这一点，撑开一点点求生的可能性，就已是极限。
 [charslot(slot = "r", name = "avg_4109_baslin_1#6$2",focus="r")]
-[name="米夏埃尔"]......
+[name="米夏埃尔"]……
 [charslot(slot = "l", name = "avg_4098_vvana_1#10$1",focus="l")]
 [name="薇薇安娜"]怎么了？
 [charslot(slot = "r", name = "avg_4109_baslin_1#6$2",focus="r")]
-[name="米夏埃尔"]我在想，我刚站在您的对面，您不怪我......
+[name="米夏埃尔"]我在想，我刚站在您的对面，您不怪我……
 [charslot(slot = "l", name = "avg_4098_vvana_1#1$1",focus="l")]
 [name="薇薇安娜"]我有什么好责怪您的呢？
 [name="薇薇安娜"]您声称自己并不是女皇之声，很巧，我也并未正式进入女皇的高塔。
@@ -867,10 +867,10 @@
 [PlaySound(key="$d_avg_firecut")]
 [Blocker(a=0.4, r=0.2, g=0.1, b=0.1, fadetime=1.5, block=true)]
 [charslot(slot = "m", name = "avg_4109_baslin_1#4$2")]
-[name="米夏埃尔"]霍赫贝格女士......薇薇安娜！
+[name="米夏埃尔"]霍赫贝格女士……薇薇安娜！
 [charslot(slot = "m", name = "avg_4098_vvana_1#6$1")]
 [name="薇薇安娜"]走吧，米夏埃尔。
-[name="薇薇安娜"]请保护好你自己，还有这群年轻人。你们有着......像我这样的人无法奢望的未来。
+[name="薇薇安娜"]请保护好你自己，还有这群年轻人。你们有着……像我这样的人无法奢望的未来。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -909,7 +909,7 @@
 [name="珂拉"]是的，布兰特。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
-[name="金律法卫"]我不是说过......
+[name="金律法卫"]我不是说过……
 [charslot(slot = "m", name = "avg_npc_1113_1#2$1")]
 [name="珂拉"]这是女皇的命令。
 [charslot(slot = "m", name = "avg_npc_491_1#1$1")]
@@ -934,7 +934,7 @@
 [charslot(slot = "r", name = "avg_npc_1117_1#2$1",focus="r")]
 [name="金律法卫"]我看到学生们都撤了出来。弗莱蒙特阁下还不至于死在我们的源石技艺之下。
 [charslot(slot = "left", name = "avg_4109_baslin_1#6$2",focus="l")]
-[name="米夏埃尔"]萨科塔先生，还有薇薇安娜......
+[name="米夏埃尔"]萨科塔先生，还有薇薇安娜……
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1113_1#6$1")]
 [name="珂拉"]薇薇安娜还在塔里？
@@ -947,12 +947,12 @@
 [charslot(slot = "m", name = "avg_npc_1113_1#4$1")]
 [name="珂拉"]等合奏完成，你的力量会使得整座塔一起湮灭，薇薇安娜也会死去！
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
-[name="金律法卫"]......深入战场，是她自己的选择。
+[name="金律法卫"]……深入战场，是她自己的选择。
 [charslot(slot = "m", name = "avg_npc_1113_1#5$1")]
 [name="珂拉"]沃尔纳已经为莱塔尼亚牺牲了一生，不能让他唯一的女儿也步其后尘！
 [name="珂拉"]你答应沃尔纳会救她的，我们都答应了。你忘记你的誓言了吗？
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
-[name="金律法卫"]......
+[name="金律法卫"]……
 [Dialog]
 [MusicVolume(volume=0.3, fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -976,15 +976,15 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4098_vvana_1#1$1",bstart=0.5,bend=1,afrom=0,ato=0.6,duration=1)]
 [delay(time=1.5)]
-[name="“霍赫贝格”"]布兰特......为什么没来救我们？
-[name="“霍赫贝格”"]我们一起长大，与你亲如兄弟......
+[name="“霍赫贝格”"]布兰特……为什么没来救我们？
+[name="“霍赫贝格”"]我们一起长大，与你亲如兄弟……
 [name="“霍赫贝格”"]你明明也痛恨着巫王，痛恨他对施彤领的子民施下的暴政，痛恨他把我们的家园征作战场与实验场所！
-[name="“霍赫贝格”"]四皇会战过去那么多年了，至今施彤领的上空依旧满是源石碎屑组成的天灾云，我们的许多孩子不得不带着那些被诅咒的石头降生......
+[name="“霍赫贝格”"]四皇会战过去那么多年了，至今施彤领的上空依旧满是源石碎屑组成的天灾云，我们的许多孩子不得不带着那些被诅咒的石头降生……
 [name="“霍赫贝格”"]为什么不能反抗？为什么不能让他付出代价？
 [name="“霍赫贝格”"]只因为金律乐章规定了他是君主，而我们是仆从？
 [name="“霍赫贝格”"]不！布兰特，我们不该生来如此。
 [name="“霍赫贝格”"]如果你的力量是某个不可违逆的意志的附庸，那你的意志，金律法卫的意志，是否根本只是个谎言？
-[name="“霍赫贝格”"]就是这个谎言，让你逃避选择......
+[name="“霍赫贝格”"]就是这个谎言，让你逃避选择……
 [name="“霍赫贝格”"]逃避你对霍赫贝格家族的死者的愧疚。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -1000,7 +1000,7 @@
 [charslot(slot = "m", name = "avg_npc_1117_1#2$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
-[name="金律法卫"]......薇薇安娜。
+[name="金律法卫"]……薇薇安娜。
 [charslot(duration=0.5)]
 他的身躯几不可见地摇晃了一下。
 [playsound(key="$d_avg_glassbroken")]
@@ -1012,9 +1012,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_245_cello_1#2$1",duration=1)]
 [delay(time=1)]
-[name="阿尔图罗"]......共鸣。
+[name="阿尔图罗"]……共鸣。
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
-[name="阿尔图罗"]总算......捕捉到了。
+[name="阿尔图罗"]总算……捕捉到了。
 [Dialog]
 [charslot]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -1033,7 +1033,7 @@
 [name="阿尔图罗"]布兰特·赖纳，他的心灵终于对我的旋律敞开。
 [name="阿尔图罗"]顽强的意志终于突破了束缚，涌现的情感将引领他做出最无悔的选择。
 [charslot(slot = "m", name = "avg_245_cello_1#11$1")]
-[name="阿尔图罗"]这就是我一直在等待的......属于这首曲子的，真正的高潮。
+[name="阿尔图罗"]这就是我一直在等待的……属于这首曲子的，真正的高潮。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]

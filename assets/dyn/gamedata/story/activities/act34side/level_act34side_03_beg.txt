@@ -18,7 +18,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_1385_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="？？？"]......
+[name="？？？"]……
 [dialog]
 [charslot(slot = "m",posfrom = "0,0", posto = "80,0",duration = 1)]
 [delay(time=1.15)]
@@ -26,20 +26,20 @@
 [charslot(slot = "m",posfrom = "80,0", posto = "80,-30",duration = 0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1385_1#1$1")]
-[name="？？？"]团窗藻、石花膜、紫苔......
+[name="？？？"]团窗藻、石花膜、紫苔……
 [dialog]
 [charslot(slot = "m",posfrom = "80,-30", posto = "50,-30",duration = 0.5)]
 [delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_1385_1#4$1")]
-[name="？？？"]等等，这个色型的千灯英，这是我自己培育的......
-[name="？？？"]你们在街道上挣扎......还是太干燥了，你们会枯死的。
+[name="？？？"]等等，这个色型的千灯英，这是我自己培育的……
+[name="？？？"]你们在街道上挣扎……还是太干燥了，你们会枯死的。
 [name="？？？"]这里发生了什么？有人对你们做了什么吗？
 [Dialog]
 [CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m",posfrom = "50,-30", posto = "100,0",duration = 0.3)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1385_1#8$1")]
-[name="？？？"]你们要迁移到哪里？有人在......
+[name="？？？"]你们要迁移到哪里？有人在……
 [name="？？？"]等、等等！
 [Dialog]
 [charslot(slot = "m",posfrom = "100,0", posto = "-200,0",duration = 1.5,afrom=1,ato=0)]
@@ -53,7 +53,7 @@
 [delay(time=1.5)]
 [name="？？？"]消失了？
 [charslot(slot="m",name="avg_npc_1385_1#3$1")]
-[name="？？？"]这个管道口......
+[name="？？？"]这个管道口……
 [charslot(slot="m",name="avg_npc_1385_1#7$1")]
 [name="？？？"]唔！
 [dialog]
@@ -72,7 +72,7 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1385_1#5$1",duration=1)]
 [delay(time=1.5)]
-[name="？？？"]这里是......
+[name="？？？"]这里是……
 [CameraShake(duration=0.2, xstrength=10, ystrength=15, vibrato=15, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_npc_1385_1#7$1")]
 [name="？？？"]咳咳，咕——
@@ -88,7 +88,7 @@
 [CameraShake(duration=3.5, xstrength=3, ystrength=2, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1385_1#5$1")]
-[name="？？？"]（好大的轰鸣......城市要开始移动了吗？）
+[name="？？？"]（好大的轰鸣……城市要开始移动了吗？）
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [playsound(key="$d_avg_divebubble",volume=0.5)]
@@ -142,7 +142,7 @@
 [charslot(slot = "right", name = "avg_npc_1387_1#1$1",focus="r")]
 [name="卡西娅"]没关系，我和卢契拉只是在对城市单元骨架进行例行检修和维护。
 [charslot(slot = "left", name = "avg_4079_haini_1#9$1",focus="l")]
-[name="卢契拉"]......所以，还是没有图利娅的下落吗？
+[name="卢契拉"]……所以，还是没有图利娅的下落吗？
 [charslot(slot = "right", name = "avg_npc_1387_1#5$1",focus="r")]
 [name="卡西娅"]卢契拉，距离我们报案还没过多久。
 [charslot]
@@ -158,13 +158,13 @@
 [charslot(slot="m",name="avg_4079_haini_1#5$1")]
 [name="卢契拉"]等等，你们在怀疑图利娅？
 [charslot(slot="m",name="avg_4079_haini_1#9$1")]
-[name="卢契拉"]对不起，可能在我的描述里，她听起来有些不对劲......
+[name="卢契拉"]对不起，可能在我的描述里，她听起来有些不对劲……
 [name="卢契拉"]但、但她可能只是压力太大了。弥利亚留姆离开本境的这半年，几乎每天都在发生战斗，大家的神经都绷得很紧。
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]深海教会从未放弃过对航道计划的破坏。这段时间，我们已经清理了足够多的深海教徒。
 [name="西昆妲"]那些堕落者在暴露之前，也不过是一个个平常的同胞。
 [charslot(slot="m",name="avg_4079_haini_1#10$1")]
-[name="卢契拉"]可她没有任何理由......
+[name="卢契拉"]可她没有任何理由……
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1387_1#3$1")]
 [delay(time=1)]
@@ -177,13 +177,13 @@
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]这座城市从原本的停泊点撤离，又接到新的作战布置之后，生态艺术创作所很快就搬迁到了其他城市。
 [charslot(slot = "m", name = "avg_npc_1387_1#5$1")]
-[name="卡西娅"]她本来有机会随创作所去往其他城市，继续原本的事业，不是吗？但她却选择......
+[name="卡西娅"]她本来有机会随创作所去往其他城市，继续原本的事业，不是吗？但她却选择……
 [charslot(slot = "m", name = "avg_4009_irene_1#1$1")]
 [name="艾丽妮"]抱歉，我打断一下，各位所说的撤离？
 [charslot(slot = "m", name = "avg_npc_1387_1#6$1")]
 [name="卡西娅"]卢契拉，这件事你的印象更深吧？那时候你还在穹顶工作，应该亲眼目睹了变故发生的全过程。
 [charslot(slot="m",name="avg_4079_haini_1#9$1")]
-[name="卢契拉"]......嗯。
+[name="卢契拉"]……嗯。
 [charslot(slot="m",name="avg_4079_haini_1#4$1")]
 [name="卢契拉"]那是阿戈尔规模最大的火山能源站之一，供养着无数科研设施。弥利亚留姆当时负责它的建设与防卫工作。
 [name="卢契拉"]城市当时就停泊在那座能源站的下方，透过穹顶看过去，赤色的辉光恒久地照耀着方圆数十海里的水域。
@@ -191,7 +191,7 @@
 [name="卡西娅"]能源站的热量吸引来了种类繁多的生物，那里有阿戈尔最大的濒危植物繁育基地。
 [name="卡西娅"]弥利亚留姆的生态艺术事业，就依托这样得天独厚的环境蓬勃发展。
 [charslot(slot="m",name="avg_4079_haini_1#10$1")]
-[name="卢契拉"]但那片辉光陷入了黑暗......
+[name="卢契拉"]但那片辉光陷入了黑暗……
 [charslot(slot = "m", name = "avg_4009_irene_1#2$1")]
 [name="艾丽妮"]海嗣？
 [charslot(slot="m",name="avg_4079_haini_1#9$1")]
@@ -205,9 +205,9 @@
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]我也是在那之后，随军团调来了弥利亚留姆。
 [charslot(slot = "m", name = "avg_npc_1387_1#5$1")]
-[name="卡西娅"]许多同胞的生活轨迹都因此改变了......也包括卢契拉。
+[name="卡西娅"]许多同胞的生活轨迹都因此改变了……也包括卢契拉。
 [charslot(slot="m",name="avg_4079_haini_1#9$1")]
-[name="卢契拉"]呃，我转岗从穹顶来地面，只是因为恐高......对不起，这不是重点。
+[name="卢契拉"]呃，我转岗从穹顶来地面，只是因为恐高……对不起，这不是重点。
 [charslot(slot="m",name="avg_4137_udflow_1#5$1")]
 [multiline(name="西昆妲")]卡西娅女士，你是想说，图利娅加入航道计划的动机并不纯粹？
 [multiline(name="西昆妲")]这是很严重的指控。
@@ -216,11 +216,11 @@
 [charslot(slot = "m", name = "avg_npc_1387_1#6$1")]
 [name="卡西娅"]不不，我只是将所知道的事情告诉你们而已。
 [charslot(slot = "m", name = "avg_npc_1387_1#5$1")]
-[name="卡西娅"]长官，您无法否认的是......此刻，这座城市里有十多万军民，但并非所有人都真正参与到了航道计划之中。
+[name="卡西娅"]长官，您无法否认的是……此刻，这座城市里有十多万军民，但并非所有人都真正参与到了航道计划之中。
 [name="卡西娅"]许多人只是照常生活，并不理解我们最终要在海洋中开辟的，究竟是怎样的一条道路。
 [name="卡西娅"]这位伊比利亚的客人，难道不也是为了了解航道计划，才从陆地来到海洋吗？
 [charslot(slot = "m", name = "avg_4009_irene_1#1$1")]
-[name="艾丽妮"]......
+[name="艾丽妮"]……
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]无论图利娅是否与深海教会存在瓜葛，她私自复制了航道计划的数据，这是事实。
 [name="西昆妲"]只有找到她，所有的疑问才能得到解答。
@@ -230,9 +230,9 @@
 [name="西昆妲"]卢契拉小姐说得没错。图利娅很可能已经不在城内，但我们在城市周边的水域同样没有探测到她的生物信号。
 [name="西昆妲"]港口枢纽没有计划外的舰艇出入，而只凭民用的深潜装置，图利娅不可能在短短数十个小时内离开我们的探测范围。
 [charslot(slot="m",name="avg_4137_udflow_1#3$1")]
-[name="西昆妲"]但......三十多个小时前，为了接应伊比利亚的使节团，城市本身进行过一次短途移动。如果就在那时......
+[name="西昆妲"]但……三十多个小时前，为了接应伊比利亚的使节团，城市本身进行过一次短途移动。如果就在那时……
 [charslot(slot = "m", name = "avg_4009_irene_1#7$1")]
-[name="艾丽妮"]你的意思是，图利娅是在那个时候......离开了城市？
+[name="艾丽妮"]你的意思是，图利娅是在那个时候……离开了城市？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -242,11 +242,11 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1382_1#2$1",duration=1)]
 [delay(time=1.5)]
-[name="克莱门莎"]......所以，克丽斯腾，那位哥伦比亚科学家，突破了上万年来阻隔层对泰拉的封锁。
+[name="克莱门莎"]……所以，克丽斯腾，那位哥伦比亚科学家，突破了上万年来阻隔层对泰拉的封锁。
 [name="克莱门莎"]一年多以来，那个空洞始终没有完全合拢，在此期间，阿戈尔保持着对宇宙的观测。从结果来看，阻隔层之外还没有出现明显的异象。
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]我曾尝试阻止克丽斯腾，但没有成功。
-[name="凯尔希"]我们还有时间......但恐怕并不多了。
+[name="凯尔希"]我们还有时间……但恐怕并不多了。
 [charslot(slot = "m", name = "avg_npc_1382_1#6$1")]
 [name="克莱门莎"]以高密度的能量强行撕开电子云层——一种近乎蛮力的手段。我们此前并未在陆地上发现与之相匹配的能源。
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
@@ -256,14 +256,14 @@
 [name="克莱门莎"]凯尔希医生，离开本境前，我并未期待陆地上有您这般了解阿戈尔与先史的智者。
 [name="克莱门莎"]您再一次证明了，我们对泰拉的了解仍不充分。
 [name="克莱门莎"]久困于海渊的鳞会失去感光的能力。看来，哪怕国家已无力再支撑规模庞大的开拓计划，我们也不能停止对未知的探求。
-[name="克莱门莎"]星门、双月、天空中的阻隔层、地幔里的遗迹群......这颗行星仍然存在太多非自然的事物。
+[name="克莱门莎"]星门、双月、天空中的阻隔层、地幔里的遗迹群……这颗行星仍然存在太多非自然的事物。
 [charslot(slot = "m", name = "avg_npc_1382_1#4$1")]
 [name="克莱门莎"]甚至，我们的远洋舰队曾在行星另一面的漆黑浓雾当中，遥远地探测到一处极为特殊的地貌。
 [name="克莱门莎"]海流被突兀地截断，仿佛那里即是大洋的尽头。
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]那不过是一处早已冷却的温床。最核心的先史文明遗产就沉眠在阿戈尔的腹地，您对此心知肚明，执政官阁下。
 [name="凯尔希"]海床之下的先史遗迹是海洋对阿戈尔的馈赠。它孕育了阿戈尔的文明，赋予了你们远超陆上诸国的视界与能力。
-[name="凯尔希"]......以及，责任。
+[name="凯尔希"]……以及，责任。
 [charslot(slot = "m", name = "avg_npc_1382_1#2$1")]
 [name="克莱门莎"]“责任”，如您所言，凯尔希医生。
 [name="克莱门莎"]陆地人从何时开始称自己为“人类”？当他们用源石点燃第一堆篝火？用土石筑起第一座城市？
@@ -276,7 +276,7 @@
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]执政官阁下，您确实是最适合领导弥利亚留姆的执政官。
 [charslot(slot = "m", name = "avg_npc_1382_1#7$1")]
-[name="克莱门莎"]您突然这么说......
+[name="克莱门莎"]您突然这么说……
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]您的性格。您是一个耐心的、友善的阿戈尔人。
 [name="凯尔希"]但这并不会改变您思维上的傲慢。我是指，阿戈尔的傲慢。
@@ -285,13 +285,13 @@
 [name="凯尔希"]我不认为阿戈尔会以被动的方式解决问题，弥利亚留姆主动离开固守的本境，只是为了建立另一道防线。
 [name="凯尔希"]执政官阁下，你们是否在这条航道上寄予了更深远的目的？
 [charslot(slot = "m", name = "avg_npc_1382_1#2$1")]
-[name="克莱门莎"]......阿戈尔的答案，那个傲慢的答案，我已经告诉了歌蕾蒂娅，您同样有权知晓。
+[name="克莱门莎"]……阿戈尔的答案，那个傲慢的答案，我已经告诉了歌蕾蒂娅，您同样有权知晓。
 [name="克莱门莎"]“这颗行星仍然存在太多非自然的事物”——而阿戈尔不相信这些事物毫无关联。
 [name="克莱门莎"]不论星门与双月这样的奇观，抑或源石与海嗣这样的灾难，都不可能只是突发奇想的产物，它们之间必然存在某种关联。
 [charslot(slot = "m", name = "avg_npc_1382_1#3$1")]
 [name="克莱门莎"]要从源头上解决海嗣问题，杜绝泰拉的危机，意味着要从整体上探明泰拉的本质。陆地上埋藏的秘密，也是其中的一环。
 [charslot(slot = "m", name = "avg_npc_1382_1#2$1")]
-[name="克莱门莎"]但那都是之后的事情。如果您想问的仅仅是我的答案......
+[name="克莱门莎"]但那都是之后的事情。如果您想问的仅仅是我的答案……
 [charslot(slot = "m", name = "avg_npc_1382_1#9$1")]
 [name="克莱门莎"]我对航道寄予的唯一希望，就只是让城内的十余万军民，以及格兰法洛的数万惩戒军战士，活着见证阿戈尔的主力进入战场。
 [dialog]
@@ -350,7 +350,7 @@
 [name="乌尔比安"]但这些信息对歌蕾蒂娅来说都为时尚早，你更加无权知情。
 [name="乌尔比安"]眼下，我们只需关注航道计划本身。
 [charslot(slot="m",name="avg_4145_Ulpia_1#3$1")]
-[name="乌尔比安"]“一条联通海洋与陆地的航道”......那位医生和伊比利亚审判庭对此都不完全信任，否则你们不会出现在这里。
+[name="乌尔比安"]“一条联通海洋与陆地的航道”……那位医生和伊比利亚审判庭对此都不完全信任，否则你们不会出现在这里。
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1")]
 [name="乌尔比安"]以高等级武器净空海域，为本境的主力争取通航时间，阿戈尔的战争设计一贯如此简洁高效。
 [name="乌尔比安"]但城中已经出现了不容忽视的异常情况。
@@ -372,7 +372,7 @@
 [Decision(options="乌尔比安，别把我只当作一个传话筒。;乌尔比安，罗德岛需要与你保持合作。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_4145_Ulpia_1#3$1")]
-[name="乌尔比安"]......
+[name="乌尔比安"]……
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="毕竟，你在城里的行动没那么方便。;毕竟，你也是阿戈尔的隐患，不是吗？", values="1;2")]
@@ -380,7 +380,7 @@
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1")]
 [name="乌尔比安"]既是合作，也是监视，很好。
 [name="乌尔比安"]还有一件事。
-[name="乌尔比安"]......斯卡蒂。
+[name="乌尔比安"]……斯卡蒂。
 [name="乌尔比安"]如果你真的关心深海猎人，看好她。
 [dialog]
 [charslot(duration=1)]
@@ -396,7 +396,7 @@
 [delay(time=1)]
 [charslot(slot="m",name="char_263_skadi#3",duration=1)]
 [delay(time=2)]
-[name="斯卡蒂"]一百五十六艘、一百五十七艘......
+[name="斯卡蒂"]一百五十六艘、一百五十七艘……
 [name="斯卡蒂"]这是我见过最紧张的港口枢纽。
 [name="斯卡蒂"]这是不是意味着，前线的战况不容乐观？
 [charslot(slot="m",name="avg_1023_ghost2_1#3$1")]
@@ -448,7 +448,7 @@
 [name="斯卡蒂"]喂，这个声音，是紧急军事预警吧？
 [name="斯卡蒂"]发生了什么，海嗣侵入了城市？
 [charslot(slot="r",name="avg_npc_1398_1#1$1",focus="r")]
-[name="军团士兵"]......
+[name="军团士兵"]……
 [charslot]
 [charslot(slot="m",name="avg_474_gladiia_1#5")]
 [name="歌蕾蒂娅"]我是执政官歌蕾蒂娅，告知我现在的情况。
@@ -476,9 +476,9 @@
 [charslot]
 [charslot(slot="m",name="avg_474_gladiia_1#1")]
 [name="歌蕾蒂娅"]劳伦缇娜，你与我行动。
-[name="歌蕾蒂娅"]......斯卡蒂，你留在城市里。
+[name="歌蕾蒂娅"]……斯卡蒂，你留在城市里。
 [charslot(slot="m",name="char_263_skadi#9")]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]二队长？
 [charslot(slot="m",name="avg_474_gladiia_1#1")]
 [name="歌蕾蒂娅"]不要想太多。
@@ -500,7 +500,7 @@
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "right", name = "avg_4009_irene_1#2$1",focus="r")]
-[name="艾丽妮"]前面那是......
+[name="艾丽妮"]前面那是……
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
 [name="艾丽妮"]劳伦缇娜小姐她们刚回来，就要出城作战吗？
 [charslot(slot = "left", name = "avg_4137_udflow_1#1$1",focus="l")]
@@ -508,14 +508,14 @@
 [name="西昆妲"]你认识深海猎人？
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
 [name="艾丽妮"]嗯。
-[name="艾丽妮"]在陆地上的时候，我们有过短时间的合作，一起经历过一些事情，解决过一些敌人......海嗣。
+[name="艾丽妮"]在陆地上的时候，我们有过短时间的合作，一起经历过一些事情，解决过一些敌人……海嗣。
 [charslot(slot = "left", name = "avg_4137_udflow_1#1$1",focus="l")]
-[name="西昆妲"]以她们的脾气和战斗风格，你们能并肩作战......很难得。
+[name="西昆妲"]以她们的脾气和战斗风格，你们能并肩作战……很难得。
 [name="西昆妲"]如果不是军情紧急，我应该上前跟歌蕾蒂娅执政官打个招呼。她们回到阿戈尔后，我甚至还没有机会正式问候她们。
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
 [name="艾丽妮"]每个阿戈尔人都认识深海猎人吗？
 [charslot(slot = "left", name = "avg_4137_udflow_1#3$1",focus="l")]
-[name="西昆妲"]......当然不是。我只是曾与她们共事，也曾希望成为她们当中的一员。
+[name="西昆妲"]……当然不是。我只是曾与她们共事，也曾希望成为她们当中的一员。
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
 [name="艾丽妮"]我想起来了，你的队员说过你之前是搞研究的。
 [charslot(slot = "left", name = "avg_4137_udflow_1#1$1",focus="l")]
@@ -526,19 +526,19 @@
 [name="西昆妲"]海嗣的形态几乎每一天都在变化，在武器使用已经受到严苛管控的当时，他们就是最高效也最保险的军事力量。
 [charslot(slot = "left", name = "avg_4137_udflow_1#10$1",focus="l")]
 [name="西昆妲"]我每天看着他们离开，再看着他们回来。
-[name="西昆妲"]我看着他们疲惫地躺进休眠溶胶，等待我替他们记录数据，测试机能，修补身体，那些捷报仿佛和他们没有关系...... 
+[name="西昆妲"]我看着他们疲惫地躺进休眠溶胶，等待我替他们记录数据，测试机能，修补身体，那些捷报仿佛和他们没有关系…… 
 [charslot(slot = "left", name = "avg_4137_udflow_1#1$1",focus="l")]
 [name="西昆妲"]我已经忘了自己是怎么想的，反正某一天，我向发展规划所提交了一份主动接受深海猎人改造的申请。
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
-[name="艾丽妮"]......换我也会的。
+[name="艾丽妮"]……换我也会的。
 [charslot(slot = "left", name = "avg_4137_udflow_1#1$1",focus="l")]
 [name="西昆妲"]什么？
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
 [name="艾丽妮"]没，我是说，如果是我，也会想要主动提交申请的。
 [charslot(slot = "right", name = "avg_4009_irene_1#7$1",focus="r")]
-[name="艾丽妮"]看着自己的老师、自己身边所有人都在出生入死......谁都会想要追上去吧。
+[name="艾丽妮"]看着自己的老师、自己身边所有人都在出生入死……谁都会想要追上去吧。
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
-[name="艾丽妮"]而且你的身体素质看起来很好，又是项目的研究员，对深海猎人的机能和战斗方式也熟悉......等等，那你为什么？
+[name="艾丽妮"]而且你的身体素质看起来很好，又是项目的研究员，对深海猎人的机能和战斗方式也熟悉……等等，那你为什么？
 [charslot(slot = "left", name = "avg_4137_udflow_1#2$1",focus="l")]
 [name="西昆妲"]因为那份申请被驳回了。
 [charslot(slot = "right", name = "avg_4009_irene_1#2$1",focus="r")]
@@ -550,9 +550,9 @@
 [name="艾丽妮"]所以你才选择加入海巡队？
 [name="艾丽妮"]海巡队应该是战场上和深海猎人配合最紧密的作战单位吧？
 [charslot(slot = "left", name = "avg_4137_udflow_1#1$1",focus="l")]
-[name="西昆妲"]是......同时负责监视他们。
+[name="西昆妲"]是……同时负责监视他们。
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
-[name="艾丽妮"]......
+[name="艾丽妮"]……
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1391_1#1$1",duration=0.5)]
@@ -575,23 +575,23 @@
 [name="艾丽妮"]每一个审判官都染过海嗣的血，我不怕它们。
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]我看过各位的资料，没记错的话，你似乎已经卸任了审判官一职。
-[name="西昆妲"]感谢你在我们调查时给予的帮助，如我之前所说，你是一个非常敏锐的人......而且勇敢。
+[name="西昆妲"]感谢你在我们调查时给予的帮助，如我之前所说，你是一个非常敏锐的人……而且勇敢。
 [name="西昆妲"]但你来到阿戈尔的任务并不是参与作战，回到其他使节身边吧。
 [charslot(slot="m",name="avg_4009_irene_1#1$1")]
 [name="艾丽妮"]你是想说，阿戈尔与海嗣的战争形态，是来自陆地的我所无法理解的。
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
-[name="西昆妲"]......是。
+[name="西昆妲"]……是。
 [charslot(slot="m",name="avg_4009_irene_1#7$1")]
 [name="艾丽妮"]你的担忧没有错，但我此行的目的正是“理解”。
-[name="艾丽妮"]我需要理解阿戈尔，理解海嗣，理解真正的战争，理解海洋深处正在发生的一切......作为一个伊比利亚人。
+[name="艾丽妮"]我需要理解阿戈尔，理解海嗣，理解真正的战争，理解海洋深处正在发生的一切……作为一个伊比利亚人。
 [name="艾丽妮"]指挥官阁下，这里已经接近陆地，阿戈尔只有一座城，而这座城面前是整个伊比利亚。
 [name="艾丽妮"]放心，我会量力而行，不会让自己就这么稀里糊涂地死在海洋里。
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
-[name="西昆妲"]......艾丽妮，你还这么年轻，从你的表现来看......你应该有一个很好的老师。
+[name="西昆妲"]……艾丽妮，你还这么年轻，从你的表现来看……你应该有一个很好的老师。
 [charslot(slot="m",name="avg_4009_irene_1#1$1")]
 [name="艾丽妮"]呃，听起来比你的老师好一点？
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
-[name="西昆妲"]......帮艾丽妮准备一套深潜装置。
+[name="西昆妲"]……帮艾丽妮准备一套深潜装置。
 [name="西昆妲"]走吧，调查继续。
 [Dialog]
 [Delay(time=1)]

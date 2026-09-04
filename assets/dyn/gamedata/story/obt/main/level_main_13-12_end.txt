@@ -22,7 +22,7 @@
 [interlude(channel = 2, type = 1, slot = "m", pfrom = "170,20", pto = "120,20", duration = 40)]
 [Sticker(id="st1", multi = true, text="可我看得出，她需要一个倾诉烦恼与宣泄恐惧的对象。",x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="威尔......太孩子气，他很难理解芙蕾达的情绪。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="威尔……太孩子气，他很难理解芙蕾达的情绪。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="也许我能帮上她？", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
@@ -39,7 +39,7 @@
 [charslot(slot="r",name="avg_494_vendla_1#5$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="l",name="avg_npc_419_1#1$1",focus="l")]
-[name="王庭军尉官"]你昨晚没有把东西送到我的营帐......玛格达尔。
+[name="王庭军尉官"]你昨晚没有把东西送到我的营帐……玛格达尔。
 [name="王庭军尉官"]你也没有离开布伦特伍德镇，可悲的选择。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -54,17 +54,17 @@
 [name="玛格达尔"]这里是我的家。
 [name="玛格达尔"]你是有新的订单吗？我可以连昨天的花一并送过去。
 [charslot(slot="l",name="avg_npc_419_1#1$1",focus="l")]
-[name="王庭军尉官"]......你今后不用再为那些订单操心了。
+[name="王庭军尉官"]……你今后不用再为那些订单操心了。
 [name="王庭军尉官"]我是来向你告别的。
-[name="王庭军尉官"]我即将前往食腐者之王阁下的军团中......作战。
+[name="王庭军尉官"]我即将前往食腐者之王阁下的军团中……作战。
 [charslot(slot="r",name="avg_494_vendla_1#5$1",focus="r")]
-[name="玛格达尔"]......
+[name="玛格达尔"]……
 [charslot(slot="r",name="avg_494_vendla_1#2$1",focus="r")]
-[name="玛格达尔"]好吧......
+[name="玛格达尔"]好吧……
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
 [name="玛格达尔"]再见。如果这是你想听到的问候。
 [charslot(slot="l",name="avg_npc_419_1#1$1",focus="l")]
-[name="王庭军尉官"]......你太单纯，单纯到近乎愚蠢。
+[name="王庭军尉官"]……你太单纯，单纯到近乎愚蠢。
 [name="王庭军尉官"]我一直试图保护一些东西，但是它们却总是自取灭亡。
 [name="王庭军尉官"]也许我一开始就错了，玛格达尔。
 [charslot(slot="r",name="avg_494_vendla_1#5$1",focus="r")]
@@ -72,7 +72,7 @@
 [charslot(slot="l",name="avg_npc_419_1#1$1",focus="l")]
 [name="王庭军尉官"]我曾无比羡慕你们。
 [name="王庭军尉官"]维多利亚过去是高贵而又强大的国家，你们理所应当地占据了太多好东西。
-[name="王庭军尉官"]你们靠着发达的冶金学和蒸汽骑士征服了另一个帝国，靠着迷人的艺术和丰富的学术吸引了全泰拉的天才......
+[name="王庭军尉官"]你们靠着发达的冶金学和蒸汽骑士征服了另一个帝国，靠着迷人的艺术和丰富的学术吸引了全泰拉的天才……
 [name="王庭军尉官"]而如今，你们停下了向外征服的脚步。你们的统治者，流连于酒宴上的红酒杯，吹嘘着胸前勋章的虚名。
 [name="王庭军尉官"]荣光被亲自掐灭，被取代的命运也早已注定——
 [Dialog]
@@ -80,12 +80,12 @@
 [PlaySound(key="$bigbell", volume=0.7)]
 [Delay(time=2)]
 [charslot(slot="l",name="avg_npc_419_1#1$1",focus="l")]
-[name="王庭军尉官"]嗯？这个挂钟你还留着......
+[name="王庭军尉官"]嗯？这个挂钟你还留着……
 [name="王庭军尉官"]时间过得真快，镇上的人应该都出发去工地了。
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
 [name="玛格达尔"]什么意思？
 [charslot(slot="l",name="avg_npc_419_1#1$1",focus="l")]
-[name="王庭军尉官"]......你们的死亡无法避免，玛格达尔。
+[name="王庭军尉官"]……你们的死亡无法避免，玛格达尔。
 [Dialog]
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
 [Delay(time=0.5)]
@@ -100,7 +100,7 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="仪式......钥匙......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="仪式……钥匙……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot]
@@ -109,10 +109,10 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="芙蕾达"]......刚刚在萨卡兹的军营里，威尔被那些魔族佬留下了。
+[name="芙蕾达"]……刚刚在萨卡兹的军营里，威尔被那些魔族佬留下了。
 [Dialog]
 [delay(time=1)]
-[name="玛格达尔"]芙蕾达......你看到了吗？
+[name="玛格达尔"]芙蕾达……你看到了吗？
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -133,7 +133,7 @@
 [Delay(time=1.5)]
 [charslot]
 [dialog]
-[Sticker(id="st1", multi = true, text="钥匙......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="钥匙……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n我的灵魂在战栗。",block = true)]
 [Sticker(id="st1")]
 [Dialog]
@@ -146,7 +146,7 @@
 [musicvolume(volume=0.6, fadetime=2)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_494_vendla_1#3$1",focus="m")]
-[name="玛格达尔"]......我得去找芙蕾达！
+[name="玛格达尔"]……我得去找芙蕾达！
 [PlaySound(key="$d_avg_clothmovementsp",volume=0.8)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="玛格达尔"]放开我！
@@ -156,7 +156,7 @@
 [name="王庭军尉官"]等着我们最后的告别。
 [charslot(slot="m",name="avg_494_vendla_1#3$1",focus="m")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="玛格达尔"]为什么......镇上的人从来没有违背过你们！
+[name="玛格达尔"]为什么……镇上的人从来没有违背过你们！
 [name="玛格达尔"]芙蕾达带着全镇的人满足了你们的所有要求！
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="王庭军尉官"]殿下决定了这场战争，你们的公爵响应了这场战争。这个结果与我们，或是你们都无关。
@@ -164,18 +164,18 @@
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
 [name="玛格达尔"]那让我去警告工地上的人！就像以前一样，你当作什么都不知道，求你了！
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
-[name="王庭军尉官"]......
-[name="王庭军尉官"]我为殿下效命，我不会允许你破坏仪式......
-[name="王庭军尉官"]......除非你能越过我，玛格达尔。
+[name="王庭军尉官"]……
+[name="王庭军尉官"]我为殿下效命，我不会允许你破坏仪式……
+[name="王庭军尉官"]……除非你能越过我，玛格达尔。
 [name="王庭军尉官"]你能做到吗，“园丁”？
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n他抓着我的手，却放在了自己手掌中的剪刀上。",block = true)]
 [Sticker(id="st1", multi = true, text="\n他死灰般的眼底燃烧起一丝渴望的光芒。",block = true)]
 [Sticker(id="st1", multi = true, text="\n这个傲慢的人在渴望什么？",block = true)]
-[Sticker(id="st1", multi = true, text="\n解脱？怜悯？还是......那个我不敢触碰的词语？",block = true)]
+[Sticker(id="st1", multi = true, text="\n解脱？怜悯？还是……那个我不敢触碰的词语？",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="我发现我从来不曾真正了解过这个人，尽管我们在这间温室共处过很长时间。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n但现在我必须要离开，如他所说，已经没有时间了。",block = true)]
@@ -206,9 +206,9 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_417_1#1$1",focus="m")]
 [name="疑惑的市民"]玛格达尔，你急匆匆的要去哪？
-[name="疑惑的市民"]你衣服上的血......
+[name="疑惑的市民"]你衣服上的血……
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]......没事——修剪枝杈时不小心剪破了手指......
+[name="玛格达尔"]……没事——修剪枝杈时不小心剪破了手指……
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]汉克，芙蕾达在哪？
 [charslot(slot="m",name="avg_npc_417_1#1$1",focus="m")]
@@ -216,7 +216,7 @@
 [name="疑惑的市民"]她看上去失魂落魄的，看见谁都说对不起。
 [name="疑惑的市民"]是发生什么事了吗？
 [charslot(slot="m",name="avg_494_vendla_1#7$1",focus="m")]
-[name="玛格达尔"]......快让大家赶紧远离这个地方。
+[name="玛格达尔"]……快让大家赶紧远离这个地方。
 [charslot(slot="m",name="avg_494_vendla_1#3$1",focus="m")]
 [name="玛格达尔"]越远越好！
 [charslot(slot="m",name="avg_npc_417_1#1$1",focus="m")]
@@ -244,7 +244,7 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_417_1#1$1",focus="m")]
 [name="疑惑的市民"]烟花？哪来的烟花？
-[name="疑惑的市民"]谁把那堵墙炸开了？那是......芙蕾达？
+[name="疑惑的市民"]谁把那堵墙炸开了？那是……芙蕾达？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -281,16 +281,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [name="恐惧的市民"]发生什么事了？地震了吗？
-[name="恐惧的女性"]快......快逃！
+[name="恐惧的女性"]快……快逃！
 [Dialog]
 [playsound(key="$e_atk_airshipvibe")]
 [playsound(key="$e_atk_vibe_n",delay=0.4)]
 [playsound(key="$d_avg_tear",delay=1)]
 [delay(time=1)]
-[name="恐惧的市民"]你在流血......该死，不要过来！那些恶心的怪物正从你身上掉下来！
+[name="恐惧的市民"]你在流血……该死，不要过来！那些恶心的怪物正从你身上掉下来！
 [name="玛格达尔"]萨卡兹到底想干嘛？
-[name="玛格达尔"]汉克，汉克！你不能闭上眼睛......
-[name="玛格达尔"]我......也感觉好累......好困......
+[name="玛格达尔"]汉克，汉克！你不能闭上眼睛……
+[name="玛格达尔"]我……也感觉好累……好困……
 [Dialog]
 [stopsound(channel="sh", fadetime=5)]
 [PlaySound(key="$smallearthquake", volume=0.9)]
@@ -348,9 +348,9 @@
 [name="费斯特"]这家伙可真沉！
 [Dialog]
 [charslot]
-[name="昏迷的市民"]唔......
+[name="昏迷的市民"]唔……
 [charslot(slot="m",name="avg_494_vendla_1#5$1",focus="m")]
-[name="玛格达尔"]费斯特先生......自救军......怎么会？
+[name="玛格达尔"]费斯特先生……自救军……怎么会？
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_4040_rockr_1#10$1",focus="r")]
@@ -365,7 +365,7 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]......芙蕾达她——
+[name="玛格达尔"]……芙蕾达她——
 [charslot(slot="m",name="avg_4072_ironmn_1#10$1",focus="m")]
 [CameraShake(duration=0.5, ystrength=15, vibrato=30, randomness=90, fadeout=false, block=false)]
 [name="费斯特"]该死，我的滑索怎么开始抖起来了！
@@ -388,8 +388,8 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_054",focus="m")]
 [name="萨卡兹雇佣兵"]那个懦弱的驻军指挥官呢，他又藏到哪里去了？
-[name="萨卡兹雇佣兵"]......无所谓，我来接手这里的指挥。
-[name="萨卡兹雇佣兵"]我能感觉到，我的血......在沸腾。
+[name="萨卡兹雇佣兵"]……无所谓，我来接手这里的指挥。
+[name="萨卡兹雇佣兵"]我能感觉到，我的血……在沸腾。
 [name="萨卡兹雇佣兵"]不用通知厄尔苏拉少校的部队，我们自己就能解决这些可笑的维多利亚人。
 [name="萨卡兹雇佣兵"]杀死他们。
 [Dialog]
@@ -401,7 +401,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_4072_ironmn_1#6$1",focus="m")]
-[name="费斯特"]这座小镇里的驻军正在组织反攻，他们的气势......比我们之前遭遇过的萨卡兹都要高涨！
+[name="费斯特"]这座小镇里的驻军正在组织反攻，他们的气势……比我们之前遭遇过的萨卡兹都要高涨！
 [name="费斯特"]外面的老维斯还有多少炸药？他来得及支援我们吗？
 [charslot(slot="m",name="avg_4040_rockr_1#10$1",focus="m")]
 [name="洛洛"]估计不太行，除去布设滑索的成员，我们能参与战斗的人员本来就不多。
@@ -450,7 +450,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_054",focus="m")]
 [name="萨卡兹雇佣兵"]这是大君的赐福，这是鲜血的王庭为我们保留的仁慈。
-[name="萨卡兹雇佣兵"]我们体内......纯净的血脉正在苏醒，别和这些维多利亚人浪费时间了！
+[name="萨卡兹雇佣兵"]我们体内……纯净的血脉正在苏醒，别和这些维多利亚人浪费时间了！
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
 [name="玛格达尔"]洛洛小姐，你先走吧——
 [Dialog]
@@ -470,7 +470,7 @@
 [charslot(slot="m",name="avg_4040_rockr_1#10$1",focus="m")]
 [name="洛洛"]玛格达尔小姐，做好战斗准备。
 [charslot(slot="m",name="avg_4040_rockr_1#1$1",focus="m")]
-[name="洛洛"]没那么难，我们以前......也都没经历过战斗。
+[name="洛洛"]没那么难，我们以前……也都没经历过战斗。
 [name="洛洛"]深呼吸就好，下定决心。
 [stopmusic(fadetime=2)]
 [Dialog]
@@ -481,7 +481,7 @@
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="下定决心。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n是啊。",block = true)]
-[Sticker(id="st1", multi = true, text="\n就像......那个倒在散落花瓣中的萨卡兹尉官。",block = true)]
+[Sticker(id="st1", multi = true, text="\n就像……那个倒在散落花瓣中的萨卡兹尉官。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="我握紧了匕首。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
@@ -551,7 +551,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="视野中，滚滚烟尘纷飞而起，明亮的闪光一次次地从中猛然爆出。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n那是什么......一辆，战车？",block = true)]
+[Sticker(id="st1", multi = true, text="\n那是什么……一辆，战车？",block = true)]
 [Sticker(id="st1", multi = true, text="\n我听到了费斯特先生的通讯器中传来了坚毅的女声。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -571,7 +571,7 @@
 [PlaySound(key="$d_gen_transmissionget",volume=1)]
 [CharacterCutin(widgetID="2", name="avgnew_112_siege_1#10$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=0, width=200, block=true)]
 [name="推进之王"]号角，继续压制。
-[name="推进之王"]那些法阵......得想办法让这些巫术玩意先停下来。
+[name="推进之王"]那些法阵……得想办法让这些巫术玩意先停下来。
 [Dialog]
 [CharacterCutin(widgetID="2",fadetime=0.2,block=false)]
 [delay(time=0.3)]
@@ -722,9 +722,9 @@
 [name="欢呼的市民"]我们早就说过，那些魔族佬在我们维多利亚的军队面前不堪一击！
 [name="欢呼的市民"]碾碎他们！
 [charslot(slot="m",name="avg_494_vendla_1#5$1",focus="m")]
-[name="玛格达尔"]......
-[name="玛格达尔"]不对，镇上布置的源石结晶太多了......
-[name="玛格达尔"]镇长办公室，小广场，图书馆......我们夜以继日修建那些东西......
+[name="玛格达尔"]……
+[name="玛格达尔"]不对，镇上布置的源石结晶太多了……
+[name="玛格达尔"]镇长办公室，小广场，图书馆……我们夜以继日修建那些东西……
 [name="玛格达尔"]不可能来得及——
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -735,15 +735,15 @@
 [delay(time=3)]
 [stopsound(channel="vn", fadetime=1)]
 [charslot(slot="m",name="avg_494_vendla_1#5$1",focus="m")]
-[name="玛格达尔"]......
-[name="玛格达尔"]......结束了？
+[name="玛格达尔"]……
+[name="玛格达尔"]……结束了？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot]
 [Background(image="43_g6_townbuildingsite", screenadapt="coverall", block=true)]
 [delay(time=0.5)]
-[Sticker(id="st1", multi = true, text="不......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="不……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [delay(time=0.5)]
 [charslot]
@@ -777,7 +777,7 @@
 [Sticker(id="st1", multi = true, text="\n红色的蠕虫们伸出触须，拥向天空。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[name="推进之王"]......法阵已经破损，血魔的子裔在失控，抓住机会！
+[name="推进之王"]……法阵已经破损，血魔的子裔在失控，抓住机会！
 [name="推进之王"]步兵集团停止前进，护送身边的市民退出法阵范围。
 [name="推进之王"]战车分队跟我继续推进，摧毁镇子里剩余的源石结晶，搜救市民！
 [Dialog]

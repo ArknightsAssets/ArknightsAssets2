@@ -5,12 +5,12 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_black",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="修士、科学家、医生、公证所职员、动力区技术工人......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="修士、科学家、医生、公证所职员、动力区技术工人……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="蕾亚，你长大之后想做什么？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="......想进戍卫队？戍卫队的工作很枯燥的哦？比如说，在城市入口一动不动地站岗，有人来给你讲笑话也必须保持严肃。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……想进戍卫队？戍卫队的工作很枯燥的哦？比如说，在城市入口一动不动地站岗，有人来给你讲笑话也必须保持严肃。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="比如说，早上天还没亮就要起床训练，参加很多很多考试，全部合格才能当上正式成员。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="你呀，个头不高，身体素质也不算好，要通过测试可不容易哦？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="......原来如此，是想保护别人吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……原来如此，是想保护别人吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="蕾亚，你有一个非常远大的理想哦。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Dialog]
@@ -34,7 +34,7 @@
 [character(name="avg_192_falco_1#2$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 是。抱歉，我欠缺野外作战经验，今后我会努力学习。
 [character(name="avg_192_falco_1#2$1",name2="char_158_milu", focus=2)]
-[name="守林人"] 我记得你是拉特兰的......守城人？
+[name="守林人"] 我记得你是拉特兰的……守城人？
 [character(name="avg_192_falco_1#4$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 是戍卫队成员。守卫拉特兰城确实是我职责的一部分。
 [character(name="avg_192_falco_1#3$1",name2="char_158_milu", focus=1)]
@@ -44,9 +44,9 @@
 [name="守林人"] 这份警戒心我很认同。即使在舰船内部，也依然有威胁潜伏。
 [name="守林人"] 被人们以职责称呼，也是一种光荣。
 [character(name="avg_192_falco_1#11$1",name2="char_158_milu", focus=1)]
-[name="翎羽"] 那都是之前......其实也不是多久之前的事情，但总之我还是比较喜欢被叫作翎羽。
+[name="翎羽"] 那都是之前……其实也不是多久之前的事情，但总之我还是比较喜欢被叫作翎羽。
 [character(name="avg_192_falco_1#12$1",name2="char_158_milu", focus=1)]
-[name="翎羽"] ......不过，我不知道该怎么开口向其他人自我介绍。来罗德岛之后，我没有被编进固定的小队，也没有新人入队派对......
+[name="翎羽"] ……不过，我不知道该怎么开口向其他人自我介绍。来罗德岛之后，我没有被编进固定的小队，也没有新人入队派对……
 [character(name="avg_192_falco_1#8$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 在罗德岛的工作和拉特兰很不一样，我还有点不习惯。
 [character(name="avg_192_falco_1#8$1",name2="char_158_milu", focus=2)]
@@ -67,7 +67,7 @@
 [name="翎羽"] 劫匪？
 [character(name="avg_192_falco_1#5$1",name2="char_158_milu", focus=2)]
 [name="守林人"] 不知道是不是冲着罗德岛来的，也有可能是流落荒野的强盗。
-[name="守林人"] ......看这箭矢，是制式武器。这次物流护送任务恐怕早就被盯上了。
+[name="守林人"] ……看这箭矢，是制式武器。这次物流护送任务恐怕早就被盯上了。
 [name="守林人"] 这附近能做掩体的地形不多，对方弩手能蹲伏的点位有限，但我架弩的风险也很大。
 [character(name="avg_192_falco_1#9$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 我会保护你。在拉特兰时我接受过相关训练，经常与用铳的队友配合。
@@ -139,9 +139,9 @@
 [character(name="avg_192_falco_1#9$1",name2="char_empty", fadetime=1)]
 [delay(time=2)] 
 [character(name="avg_192_falco_1#2$1")]
-[name="翎羽"] 呼......哈......
+[name="翎羽"] 呼……哈……
 [character(name="avg_192_falco_1#3$1")]
-[name="翎羽"] （体力消耗......比我预计的要快。）
+[name="翎羽"] （体力消耗……比我预计的要快。）
 [character(name="avg_192_falco_1#8$1")]
 [name="翎羽"] （得打起精神来！现在我要掩护守林人转移。）
 [character(name="avg_192_falco_1#10$1")]
@@ -159,7 +159,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [name="星极"] 在讨论哥伦比亚内部可能存在的，同行企业对罗德岛的干涉之前，我想先提及一下这次外勤任务的参与干员之一，翎羽。
 [character(name="avg_274_Astesia_1#5")]
-[name="星极"] 我刚刚查找了一下记录，干员翎羽最近的外勤任务有些太频繁了......实际上，她的日程已经密密麻麻排到一个月之后了。
+[name="星极"] 我刚刚查找了一下记录，干员翎羽最近的外勤任务有些太频繁了……实际上，她的日程已经密密麻麻排到一个月之后了。
 [character(name="avg_274_Astesia_1#3")]
 [name="星极"] 我们得向博士提出这一点，虽然干员翎羽能够参与的任务危险程度整体较低，但疲劳依然会积累。
 [name="星极"] 这次物流护送任务中如果出现佣兵组织袭击，情况将非常危险。
@@ -173,7 +173,7 @@
 [Character(name="char_187_ccheal_1", name2="char_278_orchid_1#4", focus=1)]
 [name="嘉维尔"] 没办法，谁叫她不参与任务呢？
 [character(name="avg_274_Astesia_1#3")]
-[name="星极"] 我尝试过和翎羽小姐搭话，但当时她给我留下的印象似乎是......有点冷漠。
+[name="星极"] 我尝试过和翎羽小姐搭话，但当时她给我留下的印象似乎是……有点冷漠。
 [character(name="avg_274_Astesia_1#2")]
 [name="星极"] 有天晚上，我看见她对着茫茫夜色发呆，就去问她要不要试试占星，毕竟我占星的水平连博士都很认可嘛。
 [character(name="avg_274_Astesia_1#4")]
@@ -184,26 +184,26 @@
 [name="嘉维尔"] 喔，我那天看她神神道道的，原来是你教给她的啊。
 [name="嘉维尔"] 前两天她陪着逆火来医疗部的时候，嘴里还念叨着什么“相位”“天顶”之类的，我差点就给她也来一套治疗了。
 [Character(name="avg_274_Astesia_1#4", name2="char_187_ccheal_1#3", focus=1)]
-[name="星极"] 呃，那她可能听错了重点......不过她能记住这些词我还是挺高兴的。
+[name="星极"] 呃，那她可能听错了重点……不过她能记住这些词我还是挺高兴的。
 [Character(name="char_187_ccheal_1#3", name2="char_278_orchid_1#5", focus=2)]
-[name="梓兰"] 嘉维尔医生，A6的孩子们本来就很怕去医疗部定期体检了，如果你平时可以稍微温柔一点的话......
+[name="梓兰"] 嘉维尔医生，A6的孩子们本来就很怕去医疗部定期体检了，如果你平时可以稍微温柔一点的话……
 [Character(name="char_187_ccheal_1", name2="char_278_orchid_1#5", focus=1)]
 [name="嘉维尔"] 那可不行，怕医生是他们心态不对。
 [Character(name="char_278_orchid_1#5", name2="avg_274_Astesia_1#7", focus=2)]
 [name="星极"] 说起来，上次任务中预备组A6的干员们和翎羽配合顺利吗？
 [Character(name="char_278_orchid_1#6", name2="avg_274_Astesia_1#7", focus=1)]
-[name="梓兰"] 很顺利，翎羽是个有着优秀素养的战斗人员。说真的，要是A6的某些人能像她一样听话就好了......
+[name="梓兰"] 很顺利，翎羽是个有着优秀素养的战斗人员。说真的，要是A6的某些人能像她一样听话就好了……
 [name="梓兰"] 而且行动回来之后，她还非常热心地教空爆和泡普卡该怎么写作战报告。
 [Character(name="char_278_orchid_1#4", name2="avg_274_Astesia_1#7", focus=1)]
-[name="梓兰"] 不过，直到总结会上，她才提出一些自己的想法。如果她直接在作战中采取行动，也许我们的任务会完成得更轻松......
+[name="梓兰"] 不过，直到总结会上，她才提出一些自己的想法。如果她直接在作战中采取行动，也许我们的任务会完成得更轻松……
 [name="梓兰"] 大概是A6的孩子们她觉得靠不住吧，所以不敢在作战中建议变更计划。
 [Character(name="char_187_ccheal_1", name2="char_278_orchid_1#4", focus=1)]
 [name="嘉维尔"] 她可真严肃。咱们又不是军队，优势不就在于随机应变嘛，随机应变。
 [Character(name="char_187_ccheal_1", name2="char_278_orchid_1#3", focus=2)]
-[name="梓兰"] 说起来，我从人事干员那里听说，嘉维尔医生你过去是部落里的领导者，很擅长指挥大家......打群架？
+[name="梓兰"] 说起来，我从人事干员那里听说，嘉维尔医生你过去是部落里的领导者，很擅长指挥大家……打群架？
 [Character(name="char_187_ccheal_1#5", name2="char_278_orchid_1", focus=1)]
 [name="嘉维尔"] 嘿，我就知道你跟人事部的家伙来往多！
-[name="嘉维尔"] 我以前的事情，说起来话可就长了......
+[name="嘉维尔"] 我以前的事情，说起来话可就长了……
 [stopmusic(fadetime=1)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -225,7 +225,7 @@
 [delay(time=1)]
 [character(name="avg_192_falco_1#10$1",fadetime=1.5)]
 [delay(time=2)]
-[name="翎羽"] 呼......
+[name="翎羽"] 呼……
 [name="翎羽"] （再冲刺一次，朝着守林人的方向后退。）
 [dialog]
 [characteraction(name="middle", type="move", xpos=-100, fadetime=0.51, block=true)]
@@ -271,7 +271,7 @@
 [characteraction(name="left", type="move", xpos=200, fadetime=1, block=false)]
 [Character(name="avg_192_falco_1#9$1", name2="char_empty",fadetime=0.7)]
 [delay(time=1.5)]
-[name="翎羽"] ......袭击者已经处理完毕。
+[name="翎羽"] ……袭击者已经处理完毕。
 [stopmusic(fadetime=1)]
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -285,7 +285,7 @@
 [name="守林人"] 做得很漂亮。
 [name="守林人"] 不是将袭击者引开，而是引向我蹲伏的地点。
 [name="守林人"] 以此混淆对方的视听，让他们猜测我躲在其他方向。
-[name="守林人"] 弩手在这样地形开阔的荒野对峙，一旦暴露位置，同时又将注意力投向了错误的地方......就会输。
+[name="守林人"] 弩手在这样地形开阔的荒野对峙，一旦暴露位置，同时又将注意力投向了错误的地方……就会输。
 [name="守林人"] 你的临场决策非常勇敢，也非常聪明。
 [character(name="avg_192_falco_1#8$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 呃，谢谢。我本来想为自作主张而道歉。
@@ -296,19 +296,19 @@
 [name="守林人"] 不，我很高兴那一刻你相信我，相信我的个人能力值得你小小地赌一把。
 [character(name="avg_192_falco_1#2$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 是，之前罗德岛的前辈也教导过我这一点。
-[name="翎羽"] 她说，希望我能更信任自己的同伴，也......更相信自己的判断。
+[name="翎羽"] 她说，希望我能更信任自己的同伴，也……更相信自己的判断。
 [character(name="avg_192_falco_1#5$1",name2="char_158_milu", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="翎羽"] 我——
 [character(name="avg_192_falco_1#5$1",name2="char_158_milu", focus=2)]
 [name="守林人"] 怎么——受伤了吗？
 [character(name="avg_192_falco_1#3$1",name2="char_158_milu", focus=1)]
-[name="翎羽"] 呼......我没事，应该只是体力消耗过度了。
+[name="翎羽"] 呼……我没事，应该只是体力消耗过度了。
 [character(name="avg_192_falco_1#3$1",name2="char_158_milu", focus=2)]
 [name="守林人"] 先回载具上休息吧。稍后我们要尽快赶到路线上的安全屋，联络罗德岛本舰，报告袭击者的事情。
 [name="守林人"] 我拉你一把。你的武器或许对你来说太重了。
 [character(name="avg_192_falco_1#4$1",name2="char_158_milu", focus=1)]
-[name="翎羽"] 呼......谢谢......
+[name="翎羽"] 呼……谢谢……
 [name="翎羽"] 不过，这柄斧枪对我来说并不算负担，我过去一直接受相关训练，已经很得心应手了。
 [character(name="avg_192_falco_1#4$1",name2="char_158_milu", focus=2)]
 [name="守林人"] 我能看出你身上学院训练的痕迹。
@@ -324,7 +324,7 @@
 [character(name="avg_192_falco_1#8$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 戍卫队大多数人都用斧枪。
 [character(name="avg_192_falco_1#8$1",name2="char_158_milu", focus=2)]
-[name="守林人"] ......嗯，当然可以选择一直不放下。
+[name="守林人"] ……嗯，当然可以选择一直不放下。
 [name="守林人"] 既然你已经找到了个人风格，接着用这把武器应该也没关系。
 [name="守林人"] 缓过来一些了吗？
 [character(name="avg_192_falco_1#4$1",name2="char_158_milu", focus=1)]
@@ -342,7 +342,7 @@
 [character(name="avg_192_falco_1#4$1",name2="char_158_milu", focus=1)]
 [name="翎羽"] 嗯，之前刚来罗德岛的时候，我其实不知道该做什么，最近我才意识到自己应该主动申请任务。
 [character(name="avg_192_falco_1#4$1",name2="char_158_milu", focus=2)]
-[name="守林人"] ......我多少理解你的心情。
+[name="守林人"] ……我多少理解你的心情。
 [name="守林人"] 不过，频繁执行外勤任务是不合理的，你需要休息，你的武器也需要检修。
 [name="守林人"] 来罗德岛之后，你去拜访过工程部门吗？
 [character(name="avg_192_falco_1#5$1",name2="char_158_milu", focus=1)]
@@ -381,7 +381,7 @@
 [Predicate(references="1")]
 [delay(time=1)]
 [character(name="avg_192_falco_1#4$1")]
-[name="翎羽"] 是......博士你记得我的代号，我很荣幸。
+[name="翎羽"] 是……博士你记得我的代号，我很荣幸。
 [dialog]
 [Character(name="avg_192_falco_1#4$1", name2="char_empty")]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -394,9 +394,9 @@
 [name="人事干员"] 你此前递交过担任博士贴身卫士的申请书，博士仔细审阅过。
 [name="人事干员"] 不过很遗憾，在罗德岛舰内活动时，博士并不需要贴身卫士。
 [Character(name="avg_192_falco_1#5$1", name2="char_016_medic", focus=1)]
-[name="翎羽"] 啊，那是以前的我......
+[name="翎羽"] 啊，那是以前的我……
 [Character(name="avg_192_falco_1#3$1", name2="char_016_medic", focus=1)]
-[name="翎羽"] 啊......感谢博士与人事部门的耐心。很抱歉，我的个人能力没有达到标准......
+[name="翎羽"] 啊……感谢博士与人事部门的耐心。很抱歉，我的个人能力没有达到标准……
 [Character(name="avg_192_falco_1#3$1", name2="char_016_medic",focus=2)]
 [name="人事干员"] 咳，你可以轻松一点，翎羽。
 [name="人事干员"] 好消息是，你在近期外勤任务中的表现得到了认可，而博士在离舰活动期间会需要护卫人员。
@@ -405,7 +405,7 @@
 [Character(name="avg_192_falco_1#7$1", name2="char_016_medic",focus=2)]
 [name="人事干员"] 是的。
 [name="人事干员"] 不过，有干员向我们反映，你最近申请的外勤任务数量异常多。作为人事干员，我需要了解情况。
-[name="人事干员"] 虽然你对过去的事件守口如瓶，但是，你毕竟是陪着那两位拉特兰干员一起来的......
+[name="人事干员"] 虽然你对过去的事件守口如瓶，但是，你毕竟是陪着那两位拉特兰干员一起来的……
 [Character(name="avg_192_falco_1#11$1", name2="char_016_medic",focus=1)]
 [name="翎羽"] 我并不清楚她们经历了什么，也不应该过问。
 [Character(name="avg_192_falco_1#11$1", name2="char_016_medic",focus=2)]
@@ -414,25 +414,25 @@
 [name="人事干员"] 考虑到你依旧重视拉特兰荣耀，但已经被拉特兰戍卫队开除的事实，我想确认一下你最近申请外勤任务的动机。
 [name="人事干员"] 你在为自己当时的抉择后悔吗？
 [Character(name="avg_192_falco_1#8$1", name2="char_016_medic",focus=1)]
-[name="翎羽"] 不，我不后悔......至少现在我已经不后悔了。
+[name="翎羽"] 不，我不后悔……至少现在我已经不后悔了。
 [Character(name="avg_192_falco_1#12$1", name2="char_016_medic",focus=1)]
 [name="翎羽"] 我已经能相信自己的判断了。在生死面前，规矩应该退让一步。
 [name="翎羽"] 而且来到罗德岛之后，我知道了矿石病患者并非走在街道上就会感染他人，也不是只能等待死亡走近。
 [Character(name="avg_192_falco_1#4$1", name2="char_016_medic",focus=1)]
-[name="翎羽"] 看到现在逆火小姐还清醒地活着，还能参加训练，和过去一样精神奕奕地对总队长发表演讲......我觉得很高兴。
+[name="翎羽"] 看到现在逆火小姐还清醒地活着，还能参加训练，和过去一样精神奕奕地对总队长发表演讲……我觉得很高兴。
 [Character(name="avg_192_falco_1#3$1", name2="char_016_medic",focus=1)]
 [name="翎羽"] 只是我也明白，我已经无法回到拉特兰戍卫队了。罗德岛和拉特兰是完全不一样的地方，我必须改变自己。
 [Character(name="avg_192_falco_1#2$1", name2="char_016_medic",focus=1)]
-[name="翎羽"] ......另外，罗德岛的各位谈论的话题，我觉得很有吸引力，但是我不能完全理解其中内容。
+[name="翎羽"] ……另外，罗德岛的各位谈论的话题，我觉得很有吸引力，但是我不能完全理解其中内容。
 [name="翎羽"] 以我的经验，通过外勤任务增加和队友交流的机会，应该能更好地融入集体。
 [Character(name="avg_192_falco_1#2$1", name2="char_016_medic",focus=2)]
-[name="人事干员"] 关于这一点，其实许多干员会因为兴趣聚在一起，像是松果他们几个组织的木工手艺小组，红豆的乐队......
+[name="人事干员"] 关于这一点，其实许多干员会因为兴趣聚在一起，像是松果他们几个组织的木工手艺小组，红豆的乐队……
 [name="人事干员"] 红豆的乐队好像现在还缺一个贝斯手来着？
 [Character(name="avg_192_falco_1#3$1", name2="char_016_medic",focus=1)]
-[name="翎羽"] 嗯......谢谢你的介绍，我会考虑的。
+[name="翎羽"] 嗯……谢谢你的介绍，我会考虑的。
 [name="翎羽"] 说起来，守林人向我推荐了“生命之地”这个服装品牌，据说与罗德岛有商业合作，我可以了解一下吗？
 [Character(name="avg_192_falco_1#3$1", name2="char_016_medic",focus=2)]
-[name="人事干员"] 咦，翎羽小姐......
+[name="人事干员"] 咦，翎羽小姐……
 [Character(name="avg_192_falco_1#3$1", name2="char_016_medic",focus=-1)]
 [Dialog]
 [Decision(options="给翎羽介绍一下吧。;我觉得我们没有什么正事要说了。", values="1;2")]

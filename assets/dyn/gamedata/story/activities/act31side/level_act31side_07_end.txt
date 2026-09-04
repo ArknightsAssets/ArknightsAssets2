@@ -33,7 +33,7 @@
 他所对战的敌人不可说，他的舌头僵死在口中。
 他所爱的人已经离去，看不到下一次春天的到来。
 他高高举起自己的武器，他只知道自己好像要保护什么。
-保护......什么？
+保护……什么？
 一阵笛声悠悠地传来。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -55,7 +55,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="小满"]别以为我怕你！丑东西，滚开——！！
 [charslot(slot="m",name="avg_4122_grabds_1#7$1")]
-[name="小满"]......啊！
+[name="小满"]……啊！
 [dialog]
 [PlaySound(key="$d_avg_hammer", volume=0.8)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -96,7 +96,7 @@
 花开了，快回家吧♪
 你听，你听，是我在呼唤你回来♪
 [charslot(slot="m",name="avg_npc_1243_1#2$1")]
-[name="沉默的樵夫"]（......花开了，该回家了......）
+[name="沉默的樵夫"]（……花开了，该回家了……）
 [dialog]
 [charslot(slot = "m",posfrom = "0,0", posto = "100,0",duration = 1)]
 [delay(time=1)]
@@ -106,17 +106,17 @@
 [charslot(slot="l",name="avg_4122_grabds_1#2$1",duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1243_1#1$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="l",name="avg_4122_grabds_1#8$1",focus="l")]
-[name="小满"]大叔，我们走吧......你不认识回家的路了吗？
+[name="小满"]大叔，我们走吧……你不认识回家的路了吗？
 [name="小满"]你为什么不想回去？你怕吓到别人是不是？
-[name="小满"]我保证，大家不会再怕你了，也不会再把你当怪人了......谁再敢说你的坏话，我挨个用笛子敲他们的头！
-[name="小满"]我们一起回去，好吗......
+[name="小满"]我保证，大家不会再怕你了，也不会再把你当怪人了……谁再敢说你的坏话，我挨个用笛子敲他们的头！
+[name="小满"]我们一起回去，好吗……
 [charslot(slot = "m", focus = "n")]
 他臂膀上系着的红绸突然松开，被风吹着一卷，悠悠飞向天空。
 樵夫浑浊的眼滚出大滴大滴的泪水，但小满浑然未觉。
 [charslot(slot="m",name="avg_npc_1243_1#2$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [dialog]
 [charslot(slot = "r",name="avg_npc_1244_1#3$1",posfrom = "500,0", posto = "400,0",duration = 1)]
 [delay(time=2)]
@@ -156,12 +156,12 @@
 [charslot(slot = "l",name="avg_4121_zuole_1#4$1",posfrom = "-150,0", posto = "0,0",duration = 0.5)]
 [delay(time=1)]
 [charslot(slot = "r",name="avg_4119_wanqin_1#5$1",focus="r")]
-[name="禾生"]到底还有多少......这些怪物真的杀不完吗？
+[name="禾生"]到底还有多少……这些怪物真的杀不完吗？
 [charslot(slot = "l",name="avg_4121_zuole_1#4$1",focus="l")]
-[name="左乐"]只能尽量把它们挡在这里......
+[name="左乐"]只能尽量把它们挡在这里……
 [charslot(slot = "r",name="avg_4119_wanqin_1#8$1",focus="r")]
-[name="禾生"]说是让大家不要害怕......怎么可能......
-[name="禾生"]谁见过这种阵仗......
+[name="禾生"]说是让大家不要害怕……怎么可能……
+[name="禾生"]谁见过这种阵仗……
 [charslot(slot = "m", focus = "n")]
 眼前是广袤的田野，长相可怖的怪物仍在源源不断地从地里长出，难以计数。
 在二人身后，人们排起漫长的队伍，向中央城区缓缓行进。
@@ -175,9 +175,9 @@
 [name="左乐"]怎么回事？
 [charslot(slot = "r",name="avg_4119_wanqin_1#9$1",focus="r")]
 [name="禾生"]那一块移动地块已经和核心城脱节了。
-[name="禾生"]试验田土壤各种参数的控制，都依赖核心城的能源供给......现在切断能源，那片田也废了。
+[name="禾生"]试验田土壤各种参数的控制，都依赖核心城的能源供给……现在切断能源，那片田也废了。
 [charslot(slot = "l",name="avg_4121_zuole_1#10$1",focus="l")]
-[name="左乐"]......
+[name="左乐"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot = "l",name="avg_npc_1249_1#1$1",focus="l")]
@@ -194,7 +194,7 @@
 [name="愤怒的职农"]大伙一起上，和这些畜生拼了！
 [charslot]
 [charslot(slot = "m",name="avg_4121_zuole_1#6$1")]
-[name="左乐"]大家——当心......
+[name="左乐"]大家——当心……
 [charslot]
 有人捡起遗落在田间的锄头，回过头冲向了未知的怪物。锄头狠狠落在怪物的头上，竟也打得怪物一个趔趄。
 职农不顾一切地捡起手边的物件向怪物们丢去，石头、农具。
@@ -211,11 +211,11 @@
 [delay(time=2)]
 [playMusic(intro="$m_bat_bitw1_intro",key="$m_bat_bitw1_loop", volume=0.6)]
 [charslot(slot = "m",name="avg_4121_zuole_1#10$1")]
-[name="左乐"]这也......可以？
+[name="左乐"]这也……可以？
 [charslot]
 [charslot(slot = "l",name="avg_npc_1249_1#1$1",focus="r")]
 [charslot(slot = "r",name="avg_npc_1250_1#1$1",focus="r")]
-[name="慌张的职农"]......打......打死了......？
+[name="慌张的职农"]……打……打死了……？
 [charslot(slot = "l",name="avg_npc_1249_1#1$1",focus="l")]
 [name="激动的职农"]有用！这个有用！
 [name="激动的职农"]我明白了！这些东西都是那些田里的害兽变的！
@@ -245,9 +245,9 @@
 [charslot(slot = "m", name = "avg_npc_1243_1#2$1",duration = 1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1243_1#2$1",focus="m")]
-[name="沉默的樵夫"]咳咳......咳......！
+[name="沉默的樵夫"]咳咳……咳……！
 [charslot(slot = "l", name = "avg_4122_grabds_1#7$1",focus="l")]
-[name="小满"]大叔，别在这停下！再走几步，我们马上就要到了......！
+[name="小满"]大叔，别在这停下！再走几步，我们马上就要到了……！
 [dialog]
 [charslot(slot = "r", name = "avg_npc_1244_1#3$1",posfrom = "500,0", posto = "400,0",duration = 1)]
 [delay(time=1.5)]
@@ -275,23 +275,23 @@
 [charslot(slot = "l",posfrom = "150,0", posto = "100,0",duration = 0.5)]
 [delay(time=0.8)]
 [charslot(slot = "l", name = "avg_4122_grabds_1#8$1",focus="l")]
-[name="小满"]呃......！
-[name="小满"]大叔！你怎么......呜......你先把你的伤口按住！
+[name="小满"]呃……！
+[name="小满"]大叔！你怎么……呜……你先把你的伤口按住！
 [charslot(slot = "l", name = "avg_4122_grabds_1#6$1",focus="l")]
 [name="小满"]没事的，没事的，我们就快到了！我之前还背过受伤的小驮兽回家，你看起来比他们重不了多少，相信我，我也能把你带回去！
 [dialog]
 [charslot(slot = "r",posfrom = "500,0", posto = "400,0",duration = 0.5)]
 [delay(time=0.8)]
 [charslot(slot = "l", name = "avg_4122_grabds_1#6$1",focus="l")]
-[name="小满"]都......滚开啊......！
+[name="小满"]都……滚开啊……！
 [dialog]
 [charslot(slot = "r",posfrom = "400,0", posto = "300,0",duration = 0.6)]
 [delay(time=0.8)]
 [charslot(slot ="left", action="shake", power=10, times=50, duration=0.5)]
 [charslot(slot = "l", name = "avg_4122_grabds_1#6$1",focus="l")]
-[name="小满"]不许过来......！
+[name="小满"]不许过来……！
 [charslot(slot = "l", name = "avg_4122_grabds_1#8$1",focus="l")]
-[name="小满"]不许......过——
+[name="小满"]不许……过——
 [dialog]
 [charslot(slot = "r",posfrom = "300,0", posto = "0,0",duration = 0.3)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -305,7 +305,7 @@
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1243_1#3$1",duration = 1.5,posfrom = "-100,-100", posto = "-100,0")]
 [delay(time=2)]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot = "m", name = "avg_npc_1243_1#7$1")]
 [name="沉默的樵夫"]（沉重的喘息）
 [CameraShake(duration=2, xstrength=30, ystrength=30, vibrato=40, randomness=90, fadeout=true, block=false)]
@@ -326,19 +326,19 @@
 [delay(time=1.51)]
 [name="严肃的天师学徒？"]停下。
 [charslot(slot = "m", name = "avg_npc_1243_1#4$1")]
-[name="沉默的樵夫"]......
-[name="沉默的樵夫"]......师......
-[name="沉默的樵夫"]......祖......祖师......
+[name="沉默的樵夫"]……
+[name="沉默的樵夫"]……师……
+[name="沉默的樵夫"]……祖……祖师……
 [charslot(slot="m",name="avg_npc_1238_1#2$1")]
 [name="“老天师”"]行了，你下去吧。
 [name="“老天师”"]你的神志已经到极限了，别再动手了，我可不想再亲手杀一个徒弟。
 [name="“老天师”"]回去吧，还有一个那么机灵的女儿，总不能让她双亲都不在了。
 [charslot(slot="m",name="avg_npc_1238_1#3$1")]
-[name="“老天师”"]......哪怕没法再让她认你。
+[name="“老天师”"]……哪怕没法再让她认你。
 [charslot]
 [name="小满"]（轻微的呼吸）
 [charslot(slot = "m", name = "avg_npc_1243_1#1$1")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [dialog]
 [charslot(slot = "m",posfrom = "0,0", posto = "0,-60",duration = 1)]
 [delay(time=1.5)]
@@ -354,13 +354,13 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_1238_1#2$1")]
-[name="“老天师”"]也是苦了你们了......
+[name="“老天师”"]也是苦了你们了……
 [charslot(slot="m",name="avg_npc_1238_1#5$1")]
-[name="“老天师”"]本想着回大荒城养会伤，还能碰上这么一档子事......臭绣花的，别让我逮着你。
+[name="“老天师”"]本想着回大荒城养会伤，还能碰上这么一档子事……臭绣花的，别让我逮着你。
 [charslot(slot = "m", focus = "n")]
 灿金色的顽童环顾四周，伸手探向自己的腰带。
 [charslot(slot="m",name="avg_npc_1238_1#5$1")]
-[name="“老天师”"]我的扇子呢......？
+[name="“老天师”"]我的扇子呢……？
 [charslot(slot = "m", focus = "n")]
 诡异的织物则像是察觉到了危险，在四周踟蹰着不敢靠近。
 [charslot(slot="m",name="avg_npc_1238_1#5$1")]
@@ -389,14 +389,14 @@
 [PlaySound(key="$dooropenquite")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
-[name="绩"]桑麻日已长，我土日已广......
-[name="绩"]敢教邪祟诡魔辟易，天地焕新光......
-[name="绩"]啦......啦......
+[name="绩"]桑麻日已长，我土日已广……
+[name="绩"]敢教邪祟诡魔辟易，天地焕新光……
+[name="绩"]啦……啦……
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_1236_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="绩"]茧已经结好了......
+[name="绩"]茧已经结好了……
 [name="绩"]该抽丝了。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -426,7 +426,7 @@
 一双眼睁开。
 [dialog]
 [delay(time=2)]
-[name="混沌的声音"]......你？
+[name="混沌的声音"]……你？
 [name="混沌的声音"]你回来了？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

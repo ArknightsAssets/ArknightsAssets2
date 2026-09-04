@@ -18,7 +18,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_075",fadetime=1,block=true)]
 [delay(time=1)]
-[name="依娜姆"]  呼啊，好无聊，睡个午觉好了......
+[name="依娜姆"]  呼啊，好无聊，睡个午觉好了……
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  依娜姆！
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
@@ -32,7 +32,7 @@
 [name="嘉维尔"]  你怎么没有来祭典？
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
 [name="嘉维尔"]  博士，这就是特米米介绍过的依娜姆了。
-[Decision(options="你好。;......;嗨！",values="1;2;3")]
+[Decision(options="你好。;……;嗨！",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="avg_npc_075")]
 [name="依娜姆"]  哇，是活的外地人。
@@ -52,12 +52,12 @@
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
 [name="嘉维尔"]  信使？哈？
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]  你......唉，算了，你这个反应，好歹看得出你已经知道信使是什么了。
+[name="依娜姆"]  你……唉，算了，你这个反应，好歹看得出你已经知道信使是什么了。
 [name="依娜姆"]  不像别的家伙，我就算跟他们说信使，他们也不知道是什么东西。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
 [name="嘉维尔"]  等等，你什么时候变成信使的？
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]  我从一开始就是信使......
+[name="依娜姆"]  我从一开始就是信使……
 [name="依娜姆"]  这里好歹也是萨尔贡境内诶，你该不会觉得萨尔贡对这一片区域真的一无所知吧。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
 [name="嘉维尔"]  啥，不是吗？
@@ -88,7 +88,7 @@
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
 [name="嘉维尔"]  原来如此，我以前都没发现。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]  就你以前那样能发现才怪了......
+[name="依娜姆"]  就你以前那样能发现才怪了……
 [name="依娜姆"]  不过，虽然我算是在城市里长大，现在我也更喜欢在这边的生活就是了。
 [name="依娜姆"]  简简单单，没什么不好的。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
@@ -111,7 +111,7 @@
 [name="嘉维尔"]  小心我揍你啊？比起这个，我和博士正要去找祖玛玛，路过你这里，就想在你这里补给一下。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]  好啊。虽然老规矩是以物易物，不过既然你已经知道外面什么样了，你也可以用流通货币跟我交易。
-[name="依娜姆"]  ......哦，等等，被你一串问题给问懵了，差点忘了我其实也有事找你。
+[name="依娜姆"]  ……哦，等等，被你一串问题给问懵了，差点忘了我其实也有事找你。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
 [name="嘉维尔"]  啊？
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
@@ -129,7 +129,7 @@
 [name="阿达克利斯人A"]  走过路过不要错过！新鲜出炉的原木雕刻！
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=2)]
 [name="阿达克利斯人B"]  看看瞧瞧，从我阿爷那一代传下来的矿石！用它打造武器，保证锋利！
-[Decision(options="居然有像样的集市。;......;真热闹。",values="1;2;3")]
+[Decision(options="居然有像样的集市。;……;真热闹。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_075")]
 [name="依娜姆"]  哈哈，这些吆喝都是我教给他们的，挺像那么回事吧？
@@ -153,7 +153,7 @@
 [Character(name="char_201_moeshd")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="可颂"]  嘉维尔，博士！哎呀，我可算找到你们啦！
-[Decision(options="没出事吧？;......;你能和这里的人交流？",values="1;2;3")]
+[Decision(options="没出事吧？;……;你能和这里的人交流？",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_201_moeshd")]
 [name="可颂"]  没事没事，我好着呢~
@@ -174,7 +174,7 @@
 [Character(name="char_187_ccheal_1", name2="char_201_moeshd", focus=2)]
 [name="可颂"]  没有，我也有问依娜姆这件事，不过她也没听说类似的消息。
 [Character(name="char_187_ccheal_1", name2="char_201_moeshd", focus=1)]
-[name="嘉维尔"]  好吧，至少你没事，剩下的还有宴和煌。煌那家伙，第一个主动跳下去的，我倒是不怎么担心，至于宴......
+[name="嘉维尔"]  好吧，至少你没事，剩下的还有宴和煌。煌那家伙，第一个主动跳下去的，我倒是不怎么担心，至于宴……
 [PlaySound(key="$rungeneral", volume=0.6)]
 [Character(name="avg_npc_073")]
 [stopmusic(fadetime=2)]
@@ -192,7 +192,7 @@
 [name="依娜姆"]  我手下说有个拿着刀的怪胎带着一群阿达克利斯杀过来了，拿着刀的怪胎是什么东西啊？！
 [Character(name="avg_npc_075", name2="char_201_moeshd#4", focus=2)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="可颂"]  等等，拿着刀，怪胎......难道说，是宴？！
+[name="可颂"]  等等，拿着刀，怪胎……难道说，是宴？！
 [Character(name="avg_npc_075", name2="char_201_moeshd#4", focus=1)]
 [name="依娜姆"]  是你们的同伴？啧，总之不管怎么样，他们好像已经杀进来了，嘉维尔，还有那边那个带兜帽的，你们也来帮忙！
 [Character(name="avg_npc_075", name2="char_201_moeshd#2", focus=2)]

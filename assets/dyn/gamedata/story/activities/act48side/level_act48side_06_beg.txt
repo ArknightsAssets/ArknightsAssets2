@@ -12,9 +12,9 @@
 [delay(time=1.5)]
 [charslot(slot="r",name="avg_4056_titi_1#10$1",focus="l")]
 [charslot(slot="l",name="avgnew_482_pallas_1#20$1",focus="l")]
-[name="帕拉斯"]......
+[name="帕拉斯"]……
 [charslot(slot="r",name="avg_4056_titi_1#10$1",focus="r")]
-[name="缇缇"]......
+[name="缇缇"]……
 [charslot(slot="r",name="avg_4056_titi_1#1$1",focus="r")]
 [name="缇缇"]天色晚了，帕拉斯，该分头准备了。
 [charslot(slot="l",name="avgnew_482_pallas_1#20$1",focus="l")]
@@ -23,7 +23,7 @@
 [name="缇缇"]是的。自从贝赫努先生知道我们护送的文物是仿制品后，他就把竖琴交给了随行护卫看守，不让我靠近一步。
 [name="缇缇"]今晚，他一定会派人加紧巡逻，以防出现任何意外，但到了明天的交换仪式，就不一样了。
 [charslot(slot="l",name="avgnew_482_pallas_1#16$1",focus="l")]
-[name="帕拉斯"]他必须让竖琴暴露在公共场所，这样我们才能有机会......
+[name="帕拉斯"]他必须让竖琴暴露在公共场所，这样我们才能有机会……
 [charslot(slot="r",name="avg_4056_titi_1#1$1",focus="r")]
 [name="缇缇"]没错。
 [charslot(slot="l",name="avgnew_482_pallas_1#20$1",focus="l")]
@@ -42,20 +42,20 @@
 [charslot(slot="r",name="avg_4056_titi_1#14$1",focus="r")]
 [name="缇缇"]只有我一直逃，萨尔贡那些位高权重的贵族才不敢擅自给这桩“偷窃案”定性。我带走的是假琴，也是真相。
 [charslot(slot="l",name="avgnew_482_pallas_1#4$1",focus="l")]
-[name="帕拉斯"]缇缇......
+[name="帕拉斯"]缇缇……
 [charslot(slot="r",name="avg_4056_titi_1#6$1",focus="r")]
 [name="缇缇"]好啦，不要劝我了。
 [name="缇缇"]如果有更好的方法，我也不想带着一把又大又重的琴环游泰拉啊。
 [charslot(slot="r",name="avg_4056_titi_1#9$1",focus="r")]
 [name="缇缇"]回去吧，帕拉斯，让我一个人待一会，我们明天早上再见。
 [charslot(slot="l",name="avgnew_482_pallas_1#5$1",focus="l")]
-[name="帕拉斯"]好......
+[name="帕拉斯"]好……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="l",afrom=1, ato=0,posfrom="0,0",posto="-150,0",duration=1.5,focus="l")]
 [delay(time=2)]
 [charslot(slot="r",name="avg_4056_titi_1#10$1",focus="r")]
-[name="缇缇"]......
+[name="缇缇"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -99,7 +99,7 @@
 [charslot(slot="r",name="avg_npc_2068_1#1$1",focus="r")]
 [name="卡珊卓拉"]实在抱歉，我知道现在是您的休息时间。
 [charslot(slot="l",name="avg_npc_2070_1#10$1",focus="l")]
-[name="赫卡德墨"]呃......您深夜造访所为何事？
+[name="赫卡德墨"]呃……您深夜造访所为何事？
 [charslot(slot="r",name="avg_npc_2068_1#4$1",focus="r")]
 [name="卡珊卓拉"]我想问您，对于赞索斯师徒的盗窃案，里底娅理事官有没有跟您说过什么？
 [name="卡珊卓拉"]早些时候我造访理事官办公室与里底娅小姐商议戏剧仪式的剧目，提到前几天发生的那桩案件时，她态度模糊。
@@ -110,15 +110,15 @@
 [name="卡珊卓拉"]如果萨尔贡使节团以影响两国信任关系为由，要求对案件重新定性，负责外交事宜的里底娅理事官几乎无法拒绝。
 [charslot(slot="r",name="avg_npc_2068_1#4$1",focus="r")]
 [name="卡珊卓拉"]商谈的时候，我能看出她的神情有些紧张，一旁的办公桌上堆放着米诺斯法律大全和事件调查报告。
-[name="卡珊卓拉"]她很有可能已经受到使节的胁迫。这样一来赞索斯师徒的罪名只会更重，而且......
+[name="卡珊卓拉"]她很有可能已经受到使节的胁迫。这样一来赞索斯师徒的罪名只会更重，而且……
 [charslot(slot="l",name="avg_npc_2070_1#6$1",focus="l")]
 [name="赫卡德墨"]而且？
 [charslot(slot="r",name="avg_npc_2068_1#1$1",focus="r")]
 [name="卡珊卓拉"]如果不是因为您感染矿石病的同窗危在旦夕，我想您家的沙发扶手后面，应该也不会有一条沃尔珀的尾巴。
 [charslot(slot="l",name="avg_npc_2070_1#3$1",focus="l")]
-[name="赫卡德墨"]......
+[name="赫卡德墨"]……
 [charslot]
-[name="？？？"]......
+[name="？？？"]……
 [charslot(slot="l",name="avg_npc_2070_1#3$1",focus="r")]
 [charslot(slot="r",name="avg_npc_2068_1#3$1",focus="r")]
 [name="卡珊卓拉"]终于见面了，罗德岛办事处的负责人，莱娜小姐。
@@ -128,7 +128,7 @@
 [charslot(slot="m",name="avg_1022_flwr2_1#4$2",afrom=0, ato=1,duration=1.5)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_1022_flwr2_1#4$2",focus="m")]
-[name="莱娜"]您好，卡珊卓拉小姐......
+[name="莱娜"]您好，卡珊卓拉小姐……
 [charslot(slot="m",name="avg_npc_2070_1#8$1",focus="m")]
 [name="赫卡德墨"]赞索斯和吕刻伊昂是莱娜小姐的病人，她只是想给狱中的两人送药，所以才找我帮忙。
 [charslot(slot="m",name="avg_npc_2068_1#5$1",focus="m")]
@@ -136,7 +136,7 @@
 [charslot(slot="m",name="avg_npc_2068_1#8$1",focus="m")]
 [name="卡珊卓拉"]看来我的猜测并无太大差错，里底娅理事官为了满足萨尔贡使节的要求，确实准备重判，很有可能赞索斯师徒现在已经被投入死牢。
 [charslot(slot="m",name="avg_npc_2070_1#4$1",focus="m")]
-[name="赫卡德墨"]我从未想到恩底弥翁神殿专司解梦的卡珊卓拉祭司，竟然如此擅长推理......
+[name="赫卡德墨"]我从未想到恩底弥翁神殿专司解梦的卡珊卓拉祭司，竟然如此擅长推理……
 [charslot(slot="m",name="avg_npc_2068_1#6$1",focus="m")]
 [name="卡珊卓拉"]可是赫卡德墨先生您应该知道，哪怕是以理事官执笔人的身份，也无法探视死牢中的囚犯。
 [charslot(slot="m",name="avg_npc_2068_1#8$1",focus="m")]
@@ -144,25 +144,25 @@
 [charslot(slot="m",name="avg_npc_2068_1#10$1",focus="m")]
 [name="卡珊卓拉"]劫狱。
 [charslot(slot="m",name="avg_npc_2070_1#8$1",focus="m")]
-[name="赫卡德墨"]......
+[name="赫卡德墨"]……
 [charslot(slot="m",name="avg_npc_2070_1#11$1",focus="m")]
 [name="赫卡德墨"]我不能让吕刻伊昂他们因为矿石病急性发作死在牢里。他们确实做了错事，但判罚太重。
-[name="赫卡德墨"]卡珊卓拉小姐，今天晚上您没有拜访过我的住处，也从来不知道盗窃案重判一事......
+[name="赫卡德墨"]卡珊卓拉小姐，今天晚上您没有拜访过我的住处，也从来不知道盗窃案重判一事……
 [name="赫卡德墨"]能否请您帮我们隐瞒？如果众英雄正在天穹注视我们，他们也不会坐视如此不合理的事情发生。
 [charslot(slot="m",name="avg_npc_2068_1#6$1",focus="m")]
 [name="卡珊卓拉"]莱娜小姐也是为了救人？
 [charslot(slot="m",name="avg_1022_flwr2_1#4$2",focus="m")]
 [name="莱娜"]是。
 [charslot(slot="m",name="avg_1022_flwr2_1#18$2",focus="m")]
-[name="莱娜"]我要救我的病人，也要“救”我的妹妹。我明白她在理事官的位置上有抱负，也有苦衷，但她不能一错再错......
+[name="莱娜"]我要救我的病人，也要“救”我的妹妹。我明白她在理事官的位置上有抱负，也有苦衷，但她不能一错再错……
 [charslot(slot="m",name="avg_npc_2070_1#8$1",focus="m")]
 [name="赫卡德墨"]明天的交换仪式会吸引很多民众的目光，我已经想办法通过私人关系拿到了监狱的图纸，规划好了路线。
 [charslot(slot="m",name="avg_npc_2070_1#3$1",focus="m")]
-[name="赫卡德墨"]只要把他们带出来，甚至只是给他们扎一针急性感染抑制剂都好......
+[name="赫卡德墨"]只要把他们带出来，甚至只是给他们扎一针急性感染抑制剂都好……
 [charslot(slot="m",name="avg_npc_2068_1#1$1",focus="m")]
 [name="卡珊卓拉"]光有路线规划还不够，您需要人手帮您在理事官办公室和死牢这两处争取时间。
 [charslot(slot="m",name="avg_1022_flwr2_1#4$2",focus="m")]
-[name="莱娜"]我会去找里底娅，至于狱警那里......
+[name="莱娜"]我会去找里底娅，至于狱警那里……
 [charslot(slot="m",name="avg_npc_2068_1#3$1",focus="m")]
 [name="卡珊卓拉"]我可以帮你们。
 [Dialog]
@@ -174,7 +174,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_2069_1#10$1",focus="m")]
-[name="吕刻伊昂"]老先生，您说没有东西是完完全全属于米诺斯人自己的......怎么可能？
+[name="吕刻伊昂"]老先生，您说没有东西是完完全全属于米诺斯人自己的……怎么可能？
 [charslot(slot="m",name="avg_npc_2076_1#1$1",focus="m")]
 [name="乞丐？"]呵，我们放牧用的驮兽，见过吧？
 [name="乞丐？"]罩在那些大脑袋上，用来控制视野的头巾和面罩，是不是来自萨尔贡？
@@ -184,13 +184,13 @@
 [name="乞丐？"]哈哈，别跟我说什么“这是用来影射侵占时期萨尔贡人逼迫我们穿戴头巾”。
 [name="乞丐？"]讥讽和歌颂有什么区别，不都是他们在米诺斯文化里留下的痕迹？
 [charslot(slot="m",name="avg_npc_2069_1#3$1",focus="m")]
-[name="吕刻伊昂"]这怎么能混为一谈......
+[name="吕刻伊昂"]这怎么能混为一谈……
 [charslot(slot="m",name="avg_npc_2076_1#1$1",focus="m")]
 [name="乞丐？"]不服气？那再说说我们脚下的这片土地。
 [name="乞丐？"]百余年前，米诺斯是扎根土壤，依傍天然河流的乐土，现在呢？
 [name="乞丐？"]“对岸女王”玛拉帕夏募集萨尔贡和米诺斯的工程师，还有无数劳力，将三座城邦搬到钢铁履带之上，雅赛努斯城早已驶离了它的原址。
 [charslot(slot="m",name="avg_npc_2069_1#9$1",focus="m")]
-[name="吕刻伊昂"]老先生，您明显在偷换概念，哪怕没有萨尔贡人，我们迟早也会把自己的城邦搬上移动地块，这只是科技发展的必然趋势......
+[name="吕刻伊昂"]老先生，您明显在偷换概念，哪怕没有萨尔贡人，我们迟早也会把自己的城邦搬上移动地块，这只是科技发展的必然趋势……
 [charslot(slot="m",name="avg_npc_2076_1#1$1",focus="m")]
 [name="乞丐？"]好，说得好！小伙子在题罗斯神殿待过吧？不过啊，你忽略了一点——哪怕就是现在，你与我争辩时使用的语言都是“混血儿”。
 [name="乞丐？"]传统米诺斯语在萨尔贡侵占期间早已流失，那些祭司苦思冥想拼凑成的现代米诺斯语中，你猜会有多少词来自你们仇视的国家？
@@ -200,7 +200,7 @@
 [charslot(slot="m",name="avg_4166_varkis_1#12$2",focus="m")]
 [name="赞索斯"]够了！
 [charslot(slot="m",name="avg_npc_2069_1#3$1",focus="m")]
-[name="吕刻伊昂"]......
+[name="吕刻伊昂"]……
 [charslot(slot="m",name="avg_4166_varkis_1#3$2",focus="m")]
 [name="赞索斯"]你没有听懂老先生的意思，吕刻伊昂。
 [charslot(slot="m",name="avg_4166_varkis_1#10$2",focus="m")]
@@ -208,7 +208,7 @@
 [charslot(slot="m",name="avg_npc_2076_1#1$1",focus="m")]
 [name="乞丐？"]戴头盔的，你倒是有点意思。
 [charslot(slot="m",name="avg_4166_varkis_1#1$2",focus="m")]
-[name="赞索斯"]按照年龄推算，您不可能是侵占时期的亲历者，但刚刚您说的话透露出您对侵占时期十分了解......
+[name="赞索斯"]按照年龄推算，您不可能是侵占时期的亲历者，但刚刚您说的话透露出您对侵占时期十分了解……
 [charslot(slot="m",name="avg_npc_2076_1#1$1",focus="m")]
 [name="乞丐？"]不要把宝贵的时间用在揣测陌生人的来历上。
 [name="乞丐？"]我只是一个死在街上跟死在狱里并无区别的流浪汉，曾经有个还算凑合的儿子，但他被梦拐跑了。
@@ -219,11 +219,11 @@
 [name="乞丐？"]一条染血的河，呵，就算不拜访恩底弥翁神殿的祭司，我也能解读出它的意思。
 [name="乞丐？"]那小子不是想摆脱我，就是想上战场想疯了。他忘了我们家祖辈经历过什么，也忘了他爹是怎么会变成酗酒好赌的废人的。
 [charslot(slot="m",name="avg_4166_varkis_1#10$2",focus="m")]
-[name="赞索斯"]神谕......染血的河......
+[name="赞索斯"]神谕……染血的河……
 [Dialog]
 [delay(time=1)]
 [charslot(slot="m",name="avg_4166_varkis_1#2$2",focus="m")]
-[name="赞索斯"]......您是伊萨科斯的父亲？
+[name="赞索斯"]……您是伊萨科斯的父亲？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -241,7 +241,7 @@
 [delay(time=2)]
 [charslot(slot="l",name="avg_npc_1482_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_4056_titi_1#11$1",focus="r")]
-[name="缇缇"]......
+[name="缇缇"]……
 [charslot(slot="l",name="avg_npc_1482_1#4$1",focus="l")]
 [name="米奥"]缇缇！怎么这么晚才回来，我还以为你已经“畏罪潜逃”了呢。
 [charslot(slot="r",name="avg_4056_titi_1#9$1",focus="r")]
@@ -263,7 +263,7 @@
 [charslot(slot="l",name="avg_npc_1482_1#4$1",focus="l")]
 [name="米奥"]如果你想出来的解决方法最后都会委屈自己，那还不如甩手不干来得好呢！
 [charslot(slot="r",name="avg_4056_titi_1#6$1",focus="r")]
-[name="缇缇"]噗......
+[name="缇缇"]噗……
 [charslot(slot="l",name="avg_npc_1482_1#5$1",focus="l")]
 [name="米奥"]笑什么！
 [charslot(slot="r",name="avg_4056_titi_1#9$1",focus="r")]
@@ -275,7 +275,7 @@
 [name="缇缇"]哪怕我算不上“英雄”，哪怕故事的主人公只能逃亡。
 [charslot(slot="l",name="avg_npc_1482_1#5$1",focus="n")]
 [charslot(slot="r",name="avg_4056_titi_1#2$1",focus="n")]
-[name="？？？"]很意外，梅捷缇克缇小姐，您能有这样的觉悟......
+[name="？？？"]很意外，梅捷缇克缇小姐，您能有这样的觉悟……
 [charslot(slot="r",name="avg_4056_titi_1#3$1",focus="r")]
 [name="缇缇"]卡珊卓拉小姐？
 [Dialog]
@@ -290,9 +290,9 @@
 [charslot(slot="r",name="avg_4056_titi_1#9$1",focus="r")]
 [name="缇缇"]怎么会怪他们？
 [charslot(slot="r",name="avg_4056_titi_1#10$1",focus="r")]
-[name="缇缇"]虽然我猜贝赫努先生为了先发制人，一定会向里底娅理事官施压，让赞索斯先生他们受到不公正的判决......但他们才是让真相彰显的人。
+[name="缇缇"]虽然我猜贝赫努先生为了先发制人，一定会向里底娅理事官施压，让赞索斯先生他们受到不公正的判决……但他们才是让真相彰显的人。
 [charslot(slot="r",name="avg_4056_titi_1#2$1",focus="r")]
-[name="缇缇"]要是我带走假琴能转移矛盾的焦点，让赞索斯和吕刻伊昂先生脱困，那也就值得了......
+[name="缇缇"]要是我带走假琴能转移矛盾的焦点，让赞索斯和吕刻伊昂先生脱困，那也就值得了……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [delay(time=1)]
@@ -300,7 +300,7 @@
 [name="缇缇"]等等，卡珊卓拉小姐，您怎么知道萨尔贡使节团带来的琴是仿制品？
 [charslot]
 [charslot(slot="m",name="avg_npc_2068_1#4$1",focus="m")]
-[name="卡珊卓拉"]......
+[name="卡珊卓拉"]……
 [charslot(slot="m",name="avg_npc_2068_1#3$1",focus="m")]
 [name="卡珊卓拉"]请跟我来，梅捷缇克缇小姐。
 [Dialog]

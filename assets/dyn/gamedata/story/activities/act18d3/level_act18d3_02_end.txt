@@ -23,19 +23,19 @@
 [characteraction(name="middle", type="move", xpos=200, fadetime=1, block=false)]
 [Character(name="avg_npc_180#2",fadetime=0.7)]
 [delay(time=2)]
-[name="？？？"]......你、你好。
+[name="？？？"]……你、你好。
 [delay(time=1)]
 [Character(name="avg_1012_skadiSP_1#4")]
 [name="斯卡蒂"]嗯？还有一个。
 [Character(name="avg_npc_180#2")]
-[name="女性居民"]别，别动手......我和他们不大一样。我知道你是好的。
+[name="女性居民"]别，别动手……我和他们不大一样。我知道你是好的。
 [Character(name="avg_1012_skadiSP_1#4")]
 [name="斯卡蒂"]你能明白我的意思。
 [Character(name="avg_npc_180#2")]
 [name="女性居民"]你只是跟着长凳来这里。
 [dialog]
 [character]
-[name="幼年居民"]呜，呜呜......木框，木框......
+[name="幼年居民"]呜，呜呜……木框，木框……
 [Character(name="avg_1012_skadiSP_1#4")]
 [name="斯卡蒂"]他跑，我跟着。
 [Character(name="avg_npc_180#2")]
@@ -44,17 +44,17 @@
 [name="斯卡蒂"]只要他把我的东西还给我。
 [Character(name="avg_npc_180#4")]
 [name="女性居民"]咦？
-[name="女性居民"]长、长凳......你拿了什么？
+[name="女性居民"]长、长凳……你拿了什么？
 [dialog]
 [character]
-[name="幼年居民"]亮亮......亮亮......硬......痛痛......呜呜呜......
+[name="幼年居民"]亮亮……亮亮……硬……痛痛……呜呜呜……
 [Character(name="avg_npc_180#2")]
 [name="女性居民"]这个不能吃呀！快，快从嘴里拿出来！
 [name="女性居民"]抱歉，长凳看到没见过的东西就想用手拿。他不懂这东西他不该拿。
 [Character(name="avg_1012_skadiSP_1#4")]
 [name="斯卡蒂"]（接过项链）
 [Character(name="avg_npc_180#4")]
-[name="女性居民"]呃，全是口水......你的手都弄脏了。
+[name="女性居民"]呃，全是口水……你的手都弄脏了。
 [Character(name="avg_1012_skadiSP_1#4")]
 [name="斯卡蒂"]拿回来就行。
 [dialog]
@@ -66,11 +66,11 @@
 [name="斯卡蒂"]我从其他伊比利亚城市来的。
 [Character(name="avg_npc_180#1",name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="女性居民"]我很少见到别的地方来的人。
-[name="女性居民"]你这身衣服......也很奇怪。我从没见过这种料子。外面的人都穿成这样么？
+[name="女性居民"]你这身衣服……也很奇怪。我从没见过这种料子。外面的人都穿成这样么？
 [Character(name="avg_npc_180#1",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]流浪歌手才这么穿。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]流浪......歌手？我听到你对铁皮他们说了，但我不知道那是什么。
+[name="女性居民"]流浪……歌手？我听到你对铁皮他们说了，但我不知道那是什么。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]像我这样到处走，偶尔停下来，弹弹琴，唱唱歌。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
@@ -99,35 +99,35 @@
 [Character(name="avg_npc_180#4",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]对。你见过她么？
 [Character(name="avg_npc_180#4",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]你还没说她长什么样子呢......算啦！我刚才也说过了，像你这样的人，我以前从来没见过。
+[name="女性居民"]你还没说她长什么样子呢……算啦！我刚才也说过了，像你这样的人，我以前从来没见过。
 [Character(name="avg_npc_180#4",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]我去问其他人。你能带路吗？
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]带路？那个陷阱......是我做的。我以为你知道。
+[name="女性居民"]带路？那个陷阱……是我做的。我以为你知道。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]无所谓。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]你不怪我？我还以为你至少会......也教训我一下。
+[name="女性居民"]你不怪我？我还以为你至少会……也教训我一下。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]走吧。我赶时间。
 [Character(name="avg_npc_180#1",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]好......
+[name="女性居民"]好……
 [Character(name="avg_npc_180#1",name2="avg_1012_skadiSP_1#4",focus=2)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="女性居民"]啊！
-[name="女性居民"]怎、怎么突然停下来......撞在箱子上了，痛。
+[name="女性居民"]怎、怎么突然停下来……撞在箱子上了，痛。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]忘了说。我箱子里面的东西，对你没用。
 [name="斯卡蒂"]除了这个，你想要什么，帮我找到人，我都可以给你。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]呃，我只是好奇......有那么明显吗？
+[name="女性居民"]呃，我只是好奇……有那么明显吗？
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]和你做的陷阱一样显而易见。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]哇......歌手，你不光有一双灵巧的手，你还有一双厉害的眼睛啊。
+[name="女性居民"]哇……歌手，你不光有一双灵巧的手，你还有一双厉害的眼睛啊。
 [dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -139,14 +139,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [character(name="avg_npc_187",name2="avg_npc_178",focus=1)]
-[name="居民"]九十八......
+[name="居民"]九十八……
 [character(name="avg_npc_187",name2="avg_npc_178",focus=2)]
-[name="居民"]九十九......
+[name="居民"]九十九……
 [character]
 [dialog]
 [delay(time=1)]
 [Character(name="avg_npc_180#1",name2="avg_1012_skadiSP_1#4",focus=2)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]你们这里，怎么问问题？
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="女性居民"]咦？你在外面一般怎么问？
@@ -154,12 +154,12 @@
 [name="斯卡蒂"]（砰一声放下背上箱子）
 [name="斯卡蒂"]用这个问。
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]啊？萨......萨克斯？你用乐器问问题？
+[name="女性居民"]啊？萨……萨克斯？你用乐器问问题？
 [Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=2)]
-[name="斯卡蒂"]......嗯。
+[name="斯卡蒂"]……嗯。
 [name="斯卡蒂"]砰砰，咚，啪。
 [Character(name="avg_npc_180#4",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]......这个乐器的声音还挺奇怪。
+[name="女性居民"]……这个乐器的声音还挺奇怪。
 [Character(name="avg_npc_180#4",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]很有效率。一般他们都会马上开口。
 [name="斯卡蒂"]还不说的话，可以换个角度，再来一轮。
@@ -175,7 +175,7 @@
 [Character(name="avg_npc_180#4",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]你理我了。
 [Character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="女性居民"]......可能因为我这人有点怪，我和大家都不太一样。
+[name="女性居民"]……可能因为我这人有点怪，我和大家都不太一样。
 [Character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]你的话说得也比他们好很多。
 [Character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#4",focus=1)]
@@ -190,15 +190,15 @@
 [dialog]
 [character]
 [character(name="avg_npc_187",name2="avg_npc_178",focus=1)]
-[name="居民"]九十九、九十九......
+[name="居民"]九十九、九十九……
 [character(name="avg_npc_187",name2="avg_npc_178",focus=2)]
 [name="居民"]九十九。
 [Character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="女性居民"]你是说他们？不用管他们，他们只是站着。路是挤了一点，但你不小心碰到他们也没事，他们不会有什么反应，是吧，桌腿？
 [character(name="avg_npc_178")]
-[name="居民"]......
+[name="居民"]……
 [Character(name="avg_1012_skadiSP_1#4")]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [dialog]
 [delay(time=1)]
 [characteraction(name="middle", type="move", ypos=-25, fadetime=0.3, block=true)]
@@ -245,8 +245,8 @@
 [character(name="avg_npc_180#3",name2="avg_npc_179#1",focus=1)]
 [name="女性居民"]嘿嘿，奶奶，您今天看着真精神呀！您还是在——呃，晒太阳吗？
 [character(name="avg_npc_180#3",name2="avg_npc_179#1",focus=2)]
-[name="老年居民"]太阳......呵，哪里来的太阳。我等了这么多年，都再也没瞧见太阳。安妮塔，你又在做什么？你总是跑来跑去的，像有什么了不起的事一样。
-[name="老年居民"]......在这里，还能有什么要紧事？
+[name="老年居民"]太阳……呵，哪里来的太阳。我等了这么多年，都再也没瞧见太阳。安妮塔，你又在做什么？你总是跑来跑去的，像有什么了不起的事一样。
+[name="老年居民"]……在这里，还能有什么要紧事？
 [character(name="avg_npc_180#3",name2="avg_npc_179#1",focus=1)]
 [name="女性居民"]佩特拉奶奶，我没什么事，是有别人要找您。
 [delay(time=1)]
@@ -266,7 +266,7 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [character]
 [Dialog]
 [Character(name="avg_1012_skadiSP_1#7", name2="char_empty")]
@@ -288,7 +288,7 @@
 [Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#2",focus=2)]
 [name="女性居民"]你为什么这么严肃？你不是个流浪歌手么？要表演的话，应该很习惯被别人盯着看吧？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
-[name="斯卡蒂"]......你说得对。
+[name="斯卡蒂"]……你说得对。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
 [name="女性居民"]那我们过去吧！佩特拉奶奶精神不错，说不定你真能问到些什么。
 [Dialog]
@@ -309,7 +309,7 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
-[name="老年居民"]天上的红霞，映着我火红的衣裳......心爱的人啊，带我飞过蓝色的海洋......
+[name="老年居民"]天上的红霞，映着我火红的衣裳……心爱的人啊，带我飞过蓝色的海洋……
 [dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [characteraction(name="left", type="move", xpos=-200, fadetime=0.3, block=true)]
@@ -323,19 +323,19 @@
 [name="老年居民"]安妮塔，噢，讨厌的安妮塔！没看见我在跳舞吗？
 [name="老年居民"]一个女孩子在跳舞的时候，没有人能打扰她。你要一起来吗，安妮塔？
 [Character(name="avg_npc_180#4", name2="avg_npc_179#1",focus=1)]
-[name="女性居民"]我......我不会。
+[name="女性居民"]我……我不会。
 [name="女性居民"]您慢点转，待会可别又头晕啦。
 [Character(name="avg_npc_180#4", name2="avg_npc_179#2",focus=2)]
 [name="老年居民"]胡说！我怎么会头晕？我能一口气转上十来圈，全城的人都会为我鼓掌！
 [Character(name="avg_npc_180#4", name2="avg_npc_179#1",focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="老年居民"]我......咳咳咳......
+[name="老年居民"]我……咳咳咳……
 [Character(name="avg_npc_180#2", name2="avg_npc_179#1",focus=1)]
 [name="女性居民"]您歇一会儿，看看我们这位流浪歌手吧。她有问题要问您。
 [Character(name="avg_npc_180#2", name2="avg_npc_179#1",focus=2)]
 [name="老年居民"]流浪歌手？我几十年没见过什么流浪歌手了。
-[name="老年居民"]这日光......这日光也太长了。夜晚怎么还不到。等天黑了，酒吧里就会有人弹琴......你是不是也会去弹琴？
-[name="老年居民"]我们在广场上跳舞，对，就在这里......噢，我可以连着转无数个圈。我有一条红色的裙子，姑娘，我得说，比你身上的这条漂亮多啦。
+[name="老年居民"]这日光……这日光也太长了。夜晚怎么还不到。等天黑了，酒吧里就会有人弹琴……你是不是也会去弹琴？
+[name="老年居民"]我们在广场上跳舞，对，就在这里……噢，我可以连着转无数个圈。我有一条红色的裙子，姑娘，我得说，比你身上的这条漂亮多啦。
 [name="老年居民"]好多小伙子都想同我一起跳。在他们当中，我最喜欢曼纽尔，他年轻时候最英俊。
 [Character(name="avg_npc_180#3", name2="avg_npc_179#1",focus=1)]
 [name="女性居民"]是的，佩特拉奶奶，您同我说过这些，说过好几遍啦。
@@ -356,20 +356,20 @@
 [PlayMusic(intro="$jealous_intro", key="$jealous_loop", volume=0.4)]
 [Character(name="avg_npc_180#2", name2="avg_npc_179#3",focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="老年居民"]红色的......不，我不要......我不要红色的。
+[name="老年居民"]红色的……不，我不要……我不要红色的。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="老年居民"]海水！海水是活的！
 [Character(name="avg_npc_180#2", name2="avg_npc_179#3",focus=1)]
-[name="女性居民"]糟糕，又开始了......
+[name="女性居民"]糟糕，又开始了……
 [Character(name="avg_npc_180#2", name2="avg_npc_179#3",focus=2)]
-[name="老年居民"]......突然就涌了上来。都死了！好好的......好好的那么多人。活下来的人也没有吃的。
-[name="老年居民"]曼纽尔......曼纽尔他本来说要带我走。后来他反悔啦。他说那些出去的人都没回来，他们都死在了外面。
+[name="老年居民"]……突然就涌了上来。都死了！好好的……好好的那么多人。活下来的人也没有吃的。
+[name="老年居民"]曼纽尔……曼纽尔他本来说要带我走。后来他反悔啦。他说那些出去的人都没回来，他们都死在了外面。
 [Character(name="avg_npc_180#2", name2="avg_npc_179#3",focus=1)]
 [name="女性居民"]这一段您也说过的。
 [Character(name="avg_npc_180#2", name2="avg_npc_179#3",focus=2)]
 [name="老年居民"]再后来他说要保护我。他答应我的——他说要保护我！可是他只是想骗我——
 [name="老年居民"]他要把我藏起来的吃的都骗走——咳咳，我假装答应了他，捡起了我母亲留下的银花瓶——咳咳咳咳——
-[name="老年居民"]红色的......我喜欢红色的......不，我不要......
+[name="老年居民"]红色的……我喜欢红色的……不，我不要……
 [Character(name="avg_npc_180#2", name2="avg_npc_179#3",focus=1)]
 [name="女性居民"]佩特拉奶奶，佩特拉奶奶！您别说这些了，只要一说这些，您就会喘不过气。
 [name="女性居民"]今天我带人来找您，是想问别的问题。
@@ -400,7 +400,7 @@
 [name="斯卡蒂"]流浪歌手。我想找一个人，她和我一样，也是从外面来的。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#3",focus=2)]
 [name="老年居民"]外面的——外面的人！你胡说！
-[name="老年居民"]根本没有什么外面的人会来这里，他们早就不管我们了......
+[name="老年居民"]根本没有什么外面的人会来这里，他们早就不管我们了……
 [name="老年居民"]你是来抢我东西的对不对？你要抢走我的食物，抢走我的衣服，你要吃我的肉、喝我的血——
 [name="老年居民"]怪物！你这个怪物！
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#3",focus=1)]
@@ -408,8 +408,8 @@
 [Character(name="avg_npc_180#2")]
 [name="女性居民"]奶奶，这里没有怪物。她只是个流浪歌手呀。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#3",focus=2)]
-[name="老年居民"]红色的裙摆......红色的......我找到了，在这里......歌声响起来了......曼纽尔在等我，我要走啦，该走啦......
-[name="老年居民"]......心爱的人啊，映着我火红的衣裳......火红的衣裳......
+[name="老年居民"]红色的裙摆……红色的……我找到了，在这里……歌声响起来了……曼纽尔在等我，我要走啦，该走啦……
+[name="老年居民"]……心爱的人啊，映着我火红的衣裳……火红的衣裳……
 [Character(name="avg_npc_180#2")]
 [name="女性居民"]唉。
 [Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=1)]
@@ -441,7 +441,7 @@
 [name="斯卡蒂"]没事。
 [name="斯卡蒂"]还没露面的麻烦，就像不敢露出牙齿的小兽。不用管。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
-[name="女性居民"]佩特拉奶奶她......
+[name="女性居民"]佩特拉奶奶她……
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
 [name="斯卡蒂"]她知道弹琴，还知道跳舞。她说起话来就像外面的人。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
@@ -451,7 +451,7 @@
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
 [name="女性居民"]她不是故意的。奶奶她经常看到不存在的东西，就像老在做梦一样。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
-[name="斯卡蒂"]......谁不是呢。
+[name="斯卡蒂"]……谁不是呢。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
 [name="女性居民"]她病了，没法回答你问题。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
@@ -465,7 +465,7 @@
 [name="女性居民"]是啊，兄弟。你也是伊比利亚人，你们不这么叫吗？
 [name="女性居民"]我的妈妈并没有其他孩子，不过，我有很多兄弟姐妹。城里的大家，我们都是兄弟姐妹。这是律法说的。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]你们还信这些。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=2)]
 [name="女性居民"]不然哩？在我小时候，还有佩特拉奶奶嘴里的、过去那段黑暗的日子，我们曾经犯过错。
@@ -479,7 +479,7 @@
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
 [name="女性居民"]是吗？教士说，外面的大家也都信这些。
 [name="女性居民"]忘了说，这些都是教士教给我们的！
-[name="女性居民"]每次他都会讲好多......我大部分听不大懂，除了上面那句话，就只记得要把大家都当成兄弟，要对大家都好一点。反正都是好话吧？
+[name="女性居民"]每次他都会讲好多……我大部分听不大懂，除了上面那句话，就只记得要把大家都当成兄弟，要对大家都好一点。反正都是好话吧？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
 [name="斯卡蒂"]教士？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
@@ -496,7 +496,7 @@
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
 [name="斯卡蒂"]好。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]
-[name="女性居民"]你怎么......你这急急忙忙的，是要往哪里去？
+[name="女性居民"]你怎么……你这急急忙忙的，是要往哪里去？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
 [name="斯卡蒂"]我要去教堂。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]
@@ -529,7 +529,7 @@
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]
 [name="女性居民"]你怎么停下了？
 [Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#2",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]居然跟过来了。
 [Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#4",focus=2)]
 [name="女性居民"]你在说什么？我又听不懂了。
@@ -555,7 +555,7 @@
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
 [name="斯卡蒂"]我有办法进去。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=2)]
-[name="女性居民"]你可以进去，我们都可以。教堂的大门始终都为笃信之人打开，那个教士是这么说的。可是......你是想去找人吧？
+[name="女性居民"]你可以进去，我们都可以。教堂的大门始终都为笃信之人打开，那个教士是这么说的。可是……你是想去找人吧？
 [name="女性居民"]他这时候一般不在教堂里面。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
 [name="斯卡蒂"]他什么时候在？
@@ -566,7 +566,7 @@
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
 [name="女性居民"]对哦，他还可以帮你找人！那位教士的话，知道的肯定比我们多！
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
-[name="斯卡蒂"]......一段时间是多久？
+[name="斯卡蒂"]……一段时间是多久？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
 [name="女性居民"]唔，最近挺久没见到他了。我不像他们，不怎么数日子。可应该就这两天吧？大家的食物都快吃光了。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
@@ -583,12 +583,12 @@
 [name="女性居民"]当所有人都不说话的时候，我太无聊，就只好一个人说个不停了。
 [name="女性居民"]以前只有佩特拉奶奶总是陪我说话。现在还有你了，真好。哎呀，你会不会也嫌我烦？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]在我来的地方，比你更爱说个不停的人有很多。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
 [name="女性居民"]这么说的话，那一定是个好地方了。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
-[name="斯卡蒂"]......是还行。
+[name="斯卡蒂"]……是还行。
 [PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.4)]
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]
 [name="女性居民"]在你来的地方，人们会跳舞吗？就像佩特拉奶奶说的那样，广场上的舞会？
@@ -598,7 +598,7 @@
 [name="女性居民"]那为什么不见你跳舞呢？我看到你的琴了。
 [name="女性居民"]佩特拉奶奶同我说过。你们不是会边唱边跳吗？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
-[name="斯卡蒂"]我的舞蹈......你们不能看。
+[name="斯卡蒂"]我的舞蹈……你们不能看。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]
 [name="女性居民"]为什么？
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
@@ -612,7 +612,7 @@
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=2)]
 [name="女性居民"]那也没什么。我家也早就没了，好几年前一场大风，房子塌啦。我妈妈当时就在房间里，她人也没了。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
 [name="女性居民"]这也没什么。大家都这样。房子没了的话，再找一间没人的就可以住下。这里房子有的是哩。
 [name="女性居民"]对了，你不高兴跳舞的话，你会唱歌给我听吗？
@@ -627,7 +627,7 @@
 [name="女性居民"]你也一定饿了吧？饿着肚子的话，是不是也唱不动歌了？
 [name="女性居民"]我们去找吃的去。
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
-[name="斯卡蒂"]呃......
+[name="斯卡蒂"]呃……
 [Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
 [name="女性居民"]是我跑得太快了吗？我忘了你还不认识路。
 [name="女性居民"]对了，我叫安妮塔！你以后可以喊我名字，这样你就不会跟不上我了。你叫我一声，我就会停下来等你。

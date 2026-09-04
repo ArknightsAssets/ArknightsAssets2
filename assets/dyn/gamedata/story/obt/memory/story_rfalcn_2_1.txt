@@ -15,9 +15,9 @@
 [Subtitle(text="甘甜清澈的泉水啊，正在滋润我们的家园♪", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
-[name="红隼"]正在滋润我们的家园......♪
+[name="红隼"]正在滋润我们的家园……♪
 [charslot]
-嚓嚓、嚓嚓......红隼正在认真地擦拭着眼前的喷泉。
+嚓嚓、嚓嚓……红隼正在认真地擦拭着眼前的喷泉。
 惊慌奔走的人们扬起的黄沙堵塞了它的泉眼，凌乱的脚步踩塌了它的石板，让它早已不再能像歌谣中唱的那样涌出清澈的泉水。
 但红隼仍然认真地擦拭着它，像是在对待什么稀世的宝物一般。
 [Dialog]
@@ -29,12 +29,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="l",name="avg_npc_163",focus="r")]
 [charslot(slot="r",name="avg_4023_rfalcn_1#10$1",focus="r")]
-[name="红隼"]建造一座喷泉......？
+[name="红隼"]建造一座喷泉……？
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="首领"]啊，终于开口了，我就说昨天我带回来的是一只灰扑扑的小黎博利，怎么今天看到的是一只浑身是血，还一句话也不想和我多说的牙兽？
 [charslot(slot="r",name="avg_4023_rfalcn_1#4$1",focus="r")]
 [name="红隼"]——不是！
-[name="红隼"]......你的人不欢迎我，她说这里不是我的家。跟你昨天和我说的并不一样。
+[name="红隼"]……你的人不欢迎我，她说这里不是我的家。跟你昨天和我说的并不一样。
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="首领"]跟你这样说的人是阿蜜吧，那和你打架的也是她了？
 [charslot(slot="r",name="avg_4023_rfalcn_1#2$1",focus="r")]
@@ -44,13 +44,13 @@
 [name="首领"]这半年我们换了很多次居所，也被收留的人走漏过几次消息，被好几个王酋的军队追杀过，才终于在这里安定下来。
 [name="首领"]她是担心再被出卖，但她这样做不对，我会去教训她——让她全程给你打下手造那座喷泉，不许有一句怨言，怎么样？
 [charslot(slot="r",name="avg_4023_rfalcn_1#5$1",focus="r")]
-[name="红隼"]为什么是喷泉？它很特殊吗......？
+[name="红隼"]为什么是喷泉？它很特殊吗……？
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="首领"]是啊。你看这部落中，因为必须要有地方睡觉，所以才有了这些帐篷；因为必须要吃饭活下去，所以才有了这些弓弩长刀。
 [name="首领"]这些东西都是为了生存下去而必要的，但是一座喷泉可不一样，它是安定和希望的象征——因为它代表我们有余力去顾及更多。
 [name="首领"]有了它，我们就能更方便地取水、清洗、浇灌。哪怕只是看着它，对着它新编几根辫子，心情也会变好呢。
 [charslot(slot="r",name="avg_4023_rfalcn_1#10$1",focus="r")]
-[name="红隼"]......我不太明白......
+[name="红隼"]……我不太明白……
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="首领"]哈哈哈，我们的一个小习惯罢了。那我叫阿蜜过来，让她明天跟着你去吧。
 [Dialog]
@@ -74,7 +74,7 @@
 [charslot(slot="r",name="avg_4023_rfalcn_1#7$1",focus="r")]
 [name="红隼"]你——！
 [charslot(slot="r",name="avg_4023_rfalcn_1#11$1",focus="r")]
-[name="红隼"]咳咳咳......
+[name="红隼"]咳咳咳……
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="首领"]唉，要是有人这样和我说话，我恐怕也会和这人打起来。
 [name="首领"]好了，先把这碗药喝了。你要是再不好好养一下，明天我们就可以把你丢进沙子里埋了。
@@ -98,16 +98,16 @@
 [charslot(slot="r",name="avg_4023_rfalcn_1#3$1",focus="r")]
 [multiline(name="红隼")]噗噗噗——
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=40, randomness=90, fadeout=true, block=false)]
-[multiline(name="红隼")]呸！！咳咳咳......
+[multiline(name="红隼")]呸！！咳咳咳……
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="首领"]头晕了？你不会没喝过酒吧？
 [charslot(slot="r",name="avg_4023_rfalcn_1#11$1",focus="r")]
-[name="红隼"]......
+[name="红隼"]……
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="首领"]没事，不用那么紧张，这里以后就是你的家了，不会有人要赶你走的。
 [charslot]
 [charslot(slot="m",name="avg_npc_073")]
-[name="族人"]好吧，首领都这么说了，我去给你准备点伤员饭吧。我想想，羽兽肉干应该还有一点......喂，我们还不知道你叫什么呢。
+[name="族人"]好吧，首领都这么说了，我去给你准备点伤员饭吧。我想想，羽兽肉干应该还有一点……喂，我们还不知道你叫什么呢。
 [charslot]
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [charslot(slot="r",name="avg_4023_rfalcn_1#11$1",focus="l")]
@@ -118,7 +118,7 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_163",focus="r")]
 [charslot(slot="r",name="avg_4023_rfalcn_1#2$1",focus="r")]
-[name="红隼"]......你！
+[name="红隼"]……你！
 [charslot]
 [charslot(slot="m",name="avg_npc_073")]
 [name="族人"]哈哈！
@@ -132,7 +132,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 几天后。
 [charslot(slot="m",name="avg_npc_073")]
-[multiline(name="族人")]把最后一块石头垒好，再把水渠引水装置打开......
+[multiline(name="族人")]把最后一块石头垒好，再把水渠引水装置打开……
 [multiline(name="族人")]哈哈，水接通了！
 [charslot(slot="m",name="avg_4023_rfalcn_1#3$1")]
 [name="红隼"]咳咳——这水太大了点吧！
@@ -140,12 +140,12 @@
 [name="族人"]哈哈哈，你自己不躲开！塔尔奶奶，米拉小妹，首领，快来看，喷泉建好了——！
 [charslot]
 族人们纷纷放下正在修整的长刀和弓弩，围了过来。
-虽然眼前的“喷泉”只是一个非常简陋的、由几块粗糙的石板简易搭建而成的东西，还在不停往外溅射着水花......
+虽然眼前的“喷泉”只是一个非常简陋的、由几块粗糙的石板简易搭建而成的东西，还在不停往外溅射着水花……
 但大家高兴地聚在一起，欢呼庆祝着，歌唱起同一首歌谣。
 [name="年幼的族人"]在喷泉中，在汩汩流动着的喷泉中♪
 [name="年幼的族人"]甘甜清澈的泉水啊，请滋润我的家园♪
 [charslot(slot="m",name="avg_4023_rfalcn_1#3$1")]
-[name="红隼"]......？
+[name="红隼"]……？
 [charslot(slot="m",name="avg_npc_163",focus="m")]
 [name="首领"]哈哈，红隼，我们来教你唱，这是我们用来庆祝的歌！
 [charslot(slot="m",name="avg_npc_073")]
@@ -161,7 +161,7 @@
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4023_rfalcn_1#1$1")]
 [Delay(time=1)]
-[name="红隼"]......甘甜清澈的泉水啊，正在滋润我们的家园♪
+[name="红隼"]……甘甜清澈的泉水啊，正在滋润我们的家园♪
 [Dialog]
 年轻的红隼站在人群中。
 清泉不住向外喷涌着，清凉的水滴溅到红隼的身上。
@@ -179,7 +179,7 @@
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_163",focus="m")]
-[name="首领"]......东西都收拾好了吗？
+[name="首领"]……东西都收拾好了吗？
 [charslot(slot="m",name="avg_npc_163",focus="n")]
 [name="族人们"]收拾好了！
 [charslot(slot="m",name="avg_npc_163",focus="m")]
@@ -205,13 +205,13 @@
 红隼的喉咙无比干涩。
 [bgeffect]
 [charslot(slot="m",name="avg_4023_rfalcn_1#3$1")]
-[name="红隼"]......
+[name="红隼"]……
 [charslot(slot="m",name="avg_npc_163",focus="m")]
 [name="首领"]你在紧张，红隼。
 [name="首领"]我教过你，战士在行动之前不应该紧张，应该沉下心来，确定自己做的每一个决定都是正确的。
 [charslot(slot="m",name="avg_4023_rfalcn_1#2$1")]
 [name="红隼"]我们走了，接下来要去哪里？
-[name="红隼"]......哪里才是我们的家？
+[name="红隼"]……哪里才是我们的家？
 [charslot(slot="m",name="avg_npc_163",focus="m")]
 [name="首领"]先走，走了我们就会知道答案。红隼，你的问题太多，会拖慢自己的脚步，不要再问了。
 [charslot(slot="m",name="avg_4023_rfalcn_1#5$1")]
@@ -234,12 +234,12 @@
 [charslot(slot="r",name="avg_npc_073",focus="r")]
 [name="族人"]没事，上次逃亡时背的东西太重，绳子勒到了骨头，一直都没有好全。你换个地方，别往那些疤上绑。
 [charslot(slot="m",name="avg_4023_rfalcn_1#5$1",focus="m")]
-[name="红隼"]......原来你肩上的这些疤是背东西的绳索勒出来的。
+[name="红隼"]……原来你肩上的这些疤是背东西的绳索勒出来的。
 [charslot(slot="r",name="avg_npc_073",focus="r")]
 [name="族人"]你也会有这样的疤的，而且会越来越多。多一道，就代表我们又搬了一次地方。
 阿蜜颠了颠身上的行李。
 [charslot(slot="r",name="avg_npc_073",focus="r")]
-[name="族人"]......我会记住这些疤的数量。
+[name="族人"]……我会记住这些疤的数量。
 [name="族人"]如果有一天我的刀能抵上王酋的喉咙，我会在他喉咙上割出同样多的伤口。
 [name="族人"]——走吧！
 [Dialog]
@@ -259,11 +259,11 @@
 [charslot(slot="m",name="avg_npc_163",focus="m")]
 [name="首领"]没事，哭吧，眼泪会让我们记住那些重要的事情，只要别忘记现在得赶路就行。
 [charslot(slot="m",name="avg_4023_rfalcn_1#5$1",focus="m")]
-[name="红隼"]......
+[name="红隼"]……
 [charslot(slot="m",name="avg_npc_163",focus="m")]
 [name="首领"]红隼，部落里其实还有一个习俗，我还没有和你讲过。
 [charslot(slot="m",name="avg_4023_rfalcn_1#5$1",focus="m")]
-[name="红隼"]......是什么？
+[name="红隼"]……是什么？
 [charslot(slot="m",name="avg_npc_163",focus="m")]
 [name="首领"]萨尔贡的王酋多得像地上的沙子，今天是这个王酋看上了我们的人口和劳力，明天可能就是那个王酋看上了我们的土地。
 [name="首领"]我们不想让自己的东西落到他们手中，所以每次离开一个地方，我们都会点起一把大火，把我们带不走的那些东西烧成灰烬。
@@ -272,14 +272,14 @@
 [name="首领"]这是我们的习惯，所以你不用那么紧张。
 [name="首领"]红隼，总有一天，我们会有自己的土地的。
 [charslot(slot="m",name="avg_4023_rfalcn_1#3$1",focus="m")]
-[name="红隼"]......
+[name="红隼"]……
 [charslot(slot="m",name="avg_npc_163",focus="m")]
 [name="首领"]给，最后几袋酒，大家都来喝一口吧。沙漠晚上会很冷，我们需要暖和起来！
 [charslot]
 族人们从首领的手中接过酒袋，每人都喝上一口，又递给身旁的下一个人。
 最后一袋酒递到了红隼的手上，她犹豫了一下，接了过来。
 [charslot(slot="m",name="avg_npc_163",focus="m")]
-[name="首领"]......从今天开始学着喝酒吧，红隼。
+[name="首领"]……从今天开始学着喝酒吧，红隼。
 [charslot]
 [Dialog]
 [Delay(time=1)]
@@ -301,7 +301,7 @@
 [backgroundTween(xFrom = -100, xTo = 100, duration=20, block=false)]
 [Delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-她回头望去，族人们一起种下的作物、洒过汗水的简陋擂台，还有那寄托着美好希望的喷泉......一切都在烈焰中消散，什么都不会剩下。
+她回头望去，族人们一起种下的作物、洒过汗水的简陋擂台，还有那寄托着美好希望的喷泉……一切都在烈焰中消散，什么都不会剩下。
 烈焰灼烧得她眼睛发干，红隼泪流满面地想——
 下一次，下一次我一定要守护住我的家。
 [StopSound(channel="fire", fadetime=1.5)]
@@ -321,10 +321,10 @@
 [Delay(time=1)]
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="r")]
 [name="办事处干员"]办事处就在前面不远处，本舰的人已经和我说过了，这次回来你就常驻办事处，药物也从我们这里领取，我会定期为你检查身体情况。
-[name="办事处干员"]工作方面，运输药物、获取王酋领地内的贸易许可、维持办事处运营......这些我们后面都会一件一件来。
+[name="办事处干员"]工作方面，运输药物、获取王酋领地内的贸易许可、维持办事处运营……这些我们后面都会一件一件来。
 [name="办事处干员"]你还有什么想问的事情吗？
 [charslot(slot="l",name="avg_4023_rfalcn_1#3$1",focus="l")]
-[name="红隼"]......没有了。
+[name="红隼"]……没有了。
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="r")]
 [name="办事处干员"]唔，心情不太好吗？没事，本舰的医疗干员和我说了，在去办事处报到之前，我们还有一个地方要去！
 [Dialog]
@@ -351,7 +351,7 @@
 因为这个部落，只剩下她一个人了。
 [charslot(slot="l",name="avg_4023_rfalcn_1#8$1",focus="l")]
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="l")]
-[name="红隼"]这些房屋......居然都还在？
+[name="红隼"]这些房屋……居然都还在？
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="r")]
 [name="办事处干员"]可能这里位置确实偏僻，外面还有成片的砂岩山。除非是专门往人少的地方走，不然很难发现这里居然还有这样一片绿洲。
 [name="办事处干员"]我们也是找了很久才发现了这里，并在后面不远处设立了办事处，后来才知道这片废墟里都是当年你们部落留下的东西。
@@ -359,15 +359,15 @@
 红隼看着眼前已经成为一片废墟的部落，慢慢地回忆着。
 [charslot(slot="l",name="avg_4023_rfalcn_1#5$1",focus="l")]
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="l")]
-[name="红隼"]我们......首领点燃了篝火，我们围在火边，晚上就不会冷了。
+[name="红隼"]我们……首领点燃了篝火，我们围在火边，晚上就不会冷了。
 [charslot(slot="l",name="avg_4023_rfalcn_1#13$1",focus="l")]
 [name="红隼"]大家聚在一起，不停地唱歌，不停地唱。我们吹响了号角，纪念新生活，也喝了酒，酒让我们的身子暖和起来。
-[name="红隼"]塔尔奶奶会为我们刺上新的纹身，米拉小妹总能射中飞过的羽兽给我们加餐，砂石姐会为我们修好武器上的所有破损......
+[name="红隼"]塔尔奶奶会为我们刺上新的纹身，米拉小妹总能射中飞过的羽兽给我们加餐，砂石姐会为我们修好武器上的所有破损……
 [charslot(slot="l",name="avg_4023_rfalcn_1#1$1",focus="l")]
-[name="红隼"]还有个叫做阿蜜的人，会一边说着食物不够了，一边又不知道从哪里掏出来肉干和酒分给大家......
+[name="红隼"]还有个叫做阿蜜的人，会一边说着食物不够了，一边又不知道从哪里掏出来肉干和酒分给大家……
 [name="红隼"]先是帐篷，后来确定不会再有人找到我们，我们又盖起了房子，种下了粮食，还又建了一座喷泉。
 [charslot(slot="l",name="avg_4023_rfalcn_1#5$1",focus="l")]
-[name="红隼"]......
+[name="红隼"]……
 [charslot(slot="l",name="avg_4023_rfalcn_1#8$1",focus="l")]
 [name="红隼"]看，就是它。
 [Dialog]
@@ -377,7 +377,7 @@
 红隼清理掉堵塞住喷泉出水口的黄沙，清澈的泉水慢慢地涌出，顺着依稀残留在地面上的水渠，流入一旁荒芜的农田，映照出红隼的脸。
 [charslot(slot="l",name="avg_4023_rfalcn_1#2$1",focus="l")]
 [name="红隼"]后来，王酋发现了我们，想要奴役我们。我们始终没有停止反抗，哪怕只剩下我一个人，最后我被抓进了矿井。
-[name="红隼"]再后来......再后来的事情你们也都知道。我逃了出来，认识了你们，还救出了剩下的矿工......
+[name="红隼"]再后来……再后来的事情你们也都知道。我逃了出来，认识了你们，还救出了剩下的矿工……
 [charslot(slot="l",name="avg_4023_rfalcn_1#3$1",focus="l")]
 [name="红隼"]只是这里，我再也没有来过了。
 [Dialog]
@@ -394,9 +394,9 @@
 [PlaySound(key="$sportscarstart",volume=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4023_rfalcn_1#5$1",focus="m")]
-[name="红隼"]......
+[name="红隼"]……
 [charslot(slot="m",name="avg_4023_rfalcn_1#3$1",focus="m")]
-[name="红隼"]“......每次离开一个地方，我们都会点起一把大火，把我们带不走的那些东西烧成灰烬。”
+[name="红隼"]“……每次离开一个地方，我们都会点起一把大火，把我们带不走的那些东西烧成灰烬。”
 [name="红隼"]“灰烬会融入沙子，沙子最终会融入我们脚下的这片沙漠。”
 [Dialog]
 [charslot(slot="m",name="avg_4023_rfalcn_1#3$1",focus="m")]
@@ -406,7 +406,7 @@
 迸溅的火星落到了她的胳膊上，烫出了几个浅浅的红印。和很多年前一样，自己的身上仍旧没有半点疤痕。
 这一次她想要违背习俗，她想留下这片废墟，纪念这个部落的存在。
 [charslot(slot="m",name="avg_4023_rfalcn_1#3$1",focus="m")]
-[name="红隼"]......
+[name="红隼"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
@@ -415,11 +415,11 @@
 [charslot(slot="r",name="avg_npc_165",posfrom="150,0", posto="150,0",afrom=0, ato=1,duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="l",name="avg_npc_164",focus="l")]
-[name="逃荒的流民"]......你好，你、你好，好心的人......
+[name="逃荒的流民"]……你好，你、你好，好心的人……
 [charslot(slot="m",name="avg_npc_165",focus="m")]
-[name="饥饿的流民"]这里......我们可以暂且住在这里吗......？只是休息一下，我们很快就走......！
+[name="饥饿的流民"]这里……我们可以暂且住在这里吗……？只是休息一下，我们很快就走……！
 [charslot(slot="r",name="avg_npc_165",focus="r")]
-[name="胆怯的流民"]好心人，好心人，拜托别赶走我们......！
+[name="胆怯的流民"]好心人，好心人，拜托别赶走我们……！
 [charslot]
 [charslot(slot="m",name="avg_4023_rfalcn_1#8$1",focus="m")]
 有些愣怔的红隼站在人群前。
@@ -440,7 +440,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 身后的人群在慌乱地奔走，部落又已经是另外一副模样。
-嚓嚓、嚓嚓......红隼正在认真地擦拭着眼前的喷泉。
+嚓嚓、嚓嚓……红隼正在认真地擦拭着眼前的喷泉。
 惊慌奔走的人们扬起的黄沙堵塞了它的泉眼，凌乱的脚步踩塌了它的石板，让它早已不再能像歌谣中唱的那样涌出清澈的泉水。
 但红隼仍然认真地擦拭着它，像是在对待什么稀世的宝物一般。
 [charslot(slot="l",name="avg_npc_164",focus="l")]
@@ -456,7 +456,7 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_164",focus="l")]
 [charslot(slot="r",name="avg_npc_165",focus="l")]
-[name="焦急的居民"]再来找我们......？红隼，你要干什么......？
+[name="焦急的居民"]再来找我们……？红隼，你要干什么……？
 [charslot]
 [charslot(slot="m",name="avg_4023_rfalcn_1#12$1",focus="m")]
 [name="红隼"]哈哈，别担心，我们会在这里再见的！
@@ -513,7 +513,7 @@
 驻守的军队开始躁动，见王酋脸上仍满是喜悦的笑容，纷纷涌上前来，口中说着奉承的话，想要为自己也求得一些奇迹的赏赐。
 他们簇拥着，喧闹着，欢呼着，将王酋围在中央，挥洒着甘冽的清泉。
 [charslot(slot="m",name="avg_npc_008",focus="m")]
-[name="高兴的王酋军"]欸？怎么有一股酒味......？
+[name="高兴的王酋军"]欸？怎么有一股酒味……？
 [name="高兴的王酋军"]这、这喷泉里涌出来的不是水，王酋大人，是美酒啊！
 [charslot(slot="m",name="avg_npc_007",focus="m")]
 [name="兴奋的王酋军"]快，快，您快沐浴在这天赐的美酒之下，王酋大人！
@@ -543,21 +543,21 @@
 [name="惊慌的王酋军"]怎、怎么回事！有人袭击了王酋！
 [name="惊慌的王酋军"]等下，哪里来的火？！喷泉里全都是酒，这里全都是火——！
 [charslot]
-[name="王酋"]呃......呃......我的眼睛，啊啊啊，我的眼睛......！
+[name="王酋"]呃……呃……我的眼睛，啊啊啊，我的眼睛……！
 [charslot(slot="m",name="avg_npc_007",focus="m")]
-[name="惊慌的王酋军"]您、您身上的火太大了！还有这周围，我们......我们进不去！
+[name="惊慌的王酋军"]您、您身上的火太大了！还有这周围，我们……我们进不去！
 [charslot]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=80, fadeout=true, block=false)]
 [name="王酋"]那上、上啊！快把火灭掉！
 [charslot(slot="m",name="avg_npc_007",focus="m")]
-[name="惊慌的王酋军"]这、这不是奇迹，是诅咒吧！这样烧起来的火是诅咒......！
+[name="惊慌的王酋军"]这、这不是奇迹，是诅咒吧！这样烧起来的火是诅咒……！
 [charslot(slot="m",name="avg_npc_008",focus="m")]
 [name="胆怯的王酋军"]肯、肯定是天上降下的火！是这片土地自己带来的火！
 [charslot]
 [Dialog]
 [charslot(slot="m",name="avg_4023_rfalcn_1#2$1",bstart=0.2,bend=0.7,afrom=0, ato=1,duration=1.5,focus="m")]
 [Delay(time=2)]
-[name="？？？"]......
+[name="？？？"]……
 [charslot]
 [charslot(slot="m",name="avg_npc_008",focus="m")]
 [name="胆怯的王酋军"]看！火里面那是什么？是人吗？还是什么——
@@ -607,12 +607,12 @@
 一个有着和眼前大火一样明亮的金色的眼睛，手持长刀的身影。
 [StopSound(channel="riot2", fadetime=1.5)]
 [charslot(slot="m",name="avg_4023_rfalcn_1#2$1",bstart=0.2,bend=0.7,focus="m")]
-[name="？？？"]......
+[name="？？？"]……
 [charslot]
 [name="王酋"]——我、我错了，我错了！
 [name="王酋"]这片土地，这片土地不是我的，不是我的！
 [name="王酋"]我、我不来这里了，这里是你的，你的！
-[name="王酋"]快......快走！快给我治伤......！
+[name="王酋"]快……快走！快给我治伤……！
 [Dialog]
 [StopSound(channel="fire", fadetime=1.5)]
 [stopmusic(fadetime=2)]
@@ -627,19 +627,19 @@
 多日后。
 [charslot(slot="l",name="avg_npc_501_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_4023_rfalcn_1#11$1",focus="r")]
-[name="红隼"]嘶......
+[name="红隼"]嘶……
 [charslot(slot="l",name="avg_npc_501_1#1$1",focus="l")]
 [name="办事处干员"]现在知道痛了？那天我们发现你的时候，你还在往火里冲！
-[name="办事处干员"]好在你的伤口现在终于都愈合了......剩下的绷带，我都给你拆了吧。
+[name="办事处干员"]好在你的伤口现在终于都愈合了……剩下的绷带，我都给你拆了吧。
 [charslot(slot="r",name="avg_4023_rfalcn_1#1$1",focus="r")]
-[name="红隼"]......谢谢你。
+[name="红隼"]……谢谢你。
 [charslot(slot="l",name="avg_npc_501_1#1$1",focus="l")]
-[name="办事处干员"]唉，你也不用这样说......那场火那么大，房子却只是被烧掉了些外皮，屋子里的东西还被提前盖上了浸过水的干草，这些都是你做的吧？
+[name="办事处干员"]唉，你也不用这样说……那场火那么大，房子却只是被烧掉了些外皮，屋子里的东西还被提前盖上了浸过水的干草，这些都是你做的吧？
 [name="办事处干员"]如果没有你后面又冲进去灭火，那些东西早就全烧完了。
 [charslot(slot="r",name="avg_4023_rfalcn_1#2$1",focus="r")]
 [name="红隼"]那毕竟也是他们的家，我不能就这样全都烧掉。
 [charslot(slot="r",name="avg_4023_rfalcn_1#3$1",focus="r")]
-[name="红隼"]可惜那座喷泉还是......
+[name="红隼"]可惜那座喷泉还是……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
@@ -648,12 +648,12 @@
 [charslot(slot="r",name="avg_npc_165",posfrom="150,0", posto="150,0",afrom=0, ato=1,duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="l",name="avg_npc_164",focus="l")]
-[name="欣喜的居民"]红隼，还有医生小姐，多谢你们把我们找回来......这是我们自己做的肉干，还有路上新摘的水果！
+[name="欣喜的居民"]红隼，还有医生小姐，多谢你们把我们找回来……这是我们自己做的肉干，还有路上新摘的水果！
 [charslot(slot="m",name="avg_npc_165",focus="m")]
-[name="庆幸的居民"]我们都听说了，王酋那天回去后一病不起，还四处张贴告示说这片土地有英灵护佑，绝对不能擅自接近，不然会遭到烈火焚烧......！
-[name="庆幸的居民"]集市里大家说起这件事，都说是王酋自己造孽......不过他们肯定再也不敢来这里了！我们以后可以住在这，再也不会有人来赶我们走了！
+[name="庆幸的居民"]我们都听说了，王酋那天回去后一病不起，还四处张贴告示说这片土地有英灵护佑，绝对不能擅自接近，不然会遭到烈火焚烧……！
+[name="庆幸的居民"]集市里大家说起这件事，都说是王酋自己造孽……不过他们肯定再也不敢来这里了！我们以后可以住在这，再也不会有人来赶我们走了！
 [charslot(slot="r",name="avg_npc_165",focus="r")]
-[name="担忧的居民"]哎呀，但你的烧伤也太重了......这里有这么大一块疤！我这就去找找有什么祛疤的药草！
+[name="担忧的居民"]哎呀，但你的烧伤也太重了……这里有这么大一块疤！我这就去找找有什么祛疤的药草！
 [charslot]
 [charslot(slot="l",name="avg_npc_501_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_4023_rfalcn_1#8$1",focus="r")]
@@ -665,7 +665,7 @@
 像火焰，像图腾，像磨刀石上残留的花纹，像喷泉上蜿蜒盘桓的绿植。
 红隼抚摸着那块凹凸不平的皮肤。
 [charslot(slot="m",name="avg_4023_rfalcn_1#11$1",focus="m")]
-[name="红隼"]这......
+[name="红隼"]这……
 [Dialog]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4023_rfalcn_1#13$1",focus="m")]

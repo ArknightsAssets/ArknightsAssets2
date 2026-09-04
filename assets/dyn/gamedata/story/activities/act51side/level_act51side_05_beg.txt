@@ -14,11 +14,11 @@
 [Delay(time=0.3)]
 [PlaySound(key="$d_avg_tinnitus",volume=0, channel="z", loop=true)]
 [SoundVolume(volume=0.8, channel="z",fadetime=1)]
-[name="？？？"]......安娜！前面的街灯也都灭了，该死！这是为什么——
+[name="？？？"]……安娜！前面的街灯也都灭了，该死！这是为什么——
 [name="？？"]先别管那么多。
 [name="？？"]烈夏，拿上这根火把，到后面喊那些没跟上的学生，让他们跟着亮光朝我这个方向慢慢走过来，注意摔倒的同伴。
 [name="？？？"]清楚了，我这就去！
-......
+……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [focusout(type="bg", from=0, to=1, duration=0.01, block=false)]
@@ -27,7 +27,7 @@
 [Delay(time=1)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="？？"]你怎么在这儿......快醒醒！我们要走了！
+[name="？？"]你怎么在这儿……快醒醒！我们要走了！
 [name="？？"]奥尔佳！
 [dialog]
 [StopSound(channel="z", fadetime=2)]
@@ -42,7 +42,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.8, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",focus="n")]
-[name="奥尔佳"]安、安娜......这是在哪？
+[name="奥尔佳"]安、安娜……这是在哪？
 [charslot(slot="m",name="avg_npc_2156_1#8$1",focus="m")]
 [name="真理"]从萨列夫格勒区出来了。我们在外面的街道上，剩下的人都跟在后面。
 [charslot(slot="m",name="avg_npc_2156_1#2$1",focus="m")]
@@ -50,11 +50,11 @@
 [charslot(slot="m",focus="n")]
 [name="奥尔佳"]我的、我的左脚！
 [charslot(slot="m",name="avg_npc_2156_1#11$1",focus="m")]
-[name="真理"]......还有谁能搭把手？
+[name="真理"]……还有谁能搭把手？
 [charslot(slot="m",focus="n")]
 [Dialog]
 真理下意识地想要咽下一口唾沫，可干涩的喉头只传来撕裂般的疼痛。她不知道自己迎着寒风走了多久。
-圣骏堡的夜晚第一次让她感到陌生，除去少数几座城堡和高楼闪烁着点点灯光外，路灯、民居......全城都湮没在了黑暗之中。
+圣骏堡的夜晚第一次让她感到陌生，除去少数几座城堡和高楼闪烁着点点灯光外，路灯、民居……全城都湮没在了黑暗之中。
 但现在不是思考原因的时候。她高举火把，喘着粗气左右环视，眼中的火光摇曳，在这不寻常的昏暗里辨认着她熟悉的脸庞。
 [charslot(slot="m",name="avg_npc_2156_1#11$1",focus="m")]
 [name="真理"]谢尔戈，过来一下。
@@ -65,7 +65,7 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2176_1#1$1",posfrom="0,0",posto="-50,0",afrom=1,ato=1,duration=1)]
 [Delay(time=1)]
-[name="谢尔戈"]我......我，她——
+[name="谢尔戈"]我……我，她——
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_2156_1#2$1")]
@@ -74,9 +74,9 @@
 [charslot(slot="l",name="avg_npc_2156_1#9$1",focus="l")]
 [name="真理"]帮我搭着奥尔佳的手臂，有什么事走出这片鬼地方再说。
 [charslot(slot="r",name="avg_npc_2176_1#1$1",focus="r")]
-[name="谢尔戈"]那......我们现在去哪？
+[name="谢尔戈"]那……我们现在去哪？
 [charslot(slot="l",name="avg_npc_2156_1#9$1",focus="l")]
-[name="真理"]......剧院。
+[name="真理"]……剧院。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -87,14 +87,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2159_1#7$1")]
-[name="奥尔佳"]......所以在当晚我没有直接回家，而是随着学生队伍去了废弃剧院。
+[name="奥尔佳"]……所以在当晚我没有直接回家，而是随着学生队伍去了废弃剧院。
 [charslot(slot = "m", name = "avg_npc_2168_1#1$1")]
 [name="仲裁人"]奥尔佳小姐，由于前三位证人的证词都出现了程度不一的离题——
 [name="仲裁人"]为了避免浪费不必要的时间，我需要你接下来仅围绕事实本身进行陈述。
 [name="仲裁人"]在听证会的事先调查中，你明确地向仲裁委员会声明，因为行动超出了你的预期，你选择与他们决裂。
 [name="仲裁人"]但很快，安娜带领学生绑架了你，并利用你的失踪诱骗了特里波列夫公爵。是不是？
 [charslot(slot="m",name="avg_npc_2159_1#8$1")]
-[name="奥尔佳"]......是。
+[name="奥尔佳"]……是。
 [charslot(slot="m",name="avg_npc_2159_1#8$1")]
 [name="奥尔佳"]因此我也见证了安娜他们是如何谋划，并参与到索尼娅的暴力行动中的。
 [Dialog]
@@ -109,7 +109,7 @@
 [charslot]
 奥尔佳局促地点点头，双手在证人台的边沿摩挲，耳边传来熟悉的咳嗽声——显然父亲比自己更加紧张。
 [charslot(slot="m",name="avg_npc_2159_1#10$1")]
-[name="奥尔佳"]在剧院里，我们惊吓过度，已经失去了判断力，除了那些哭泣的人，每个人都在互相指责......
+[name="奥尔佳"]在剧院里，我们惊吓过度，已经失去了判断力，除了那些哭泣的人，每个人都在互相指责……
 [stopmusic(fadetime=2)]
 [StopSound(channel="f", fadetime=2)]
 [Dialog]
@@ -123,7 +123,7 @@
 [playMusic(key="$darkness_03_loop", volume=0.6)]
 [charslot(slot = "l", name = "avg_npc_2177_1#1$2",focus="L")]
 [charslot(slot = "r", name = "avg_npc_2187_1#1$1",focus="L")]
-[name="“近卫军”成员"]......该死，这通讯设备怎么全没声音了？
+[name="“近卫军”成员"]……该死，这通讯设备怎么全没声音了？
 [charslot(slot = "r", focus="R")]
 [name="“研讨会”成员"]别摆弄你那破耳机了，“近卫军”。“伟大行动”的发起者，你们还有什么话说？
 [charslot(slot = "l",focus="L")]
@@ -137,7 +137,7 @@
 [name="失望的学生"]问题根本不在这次行动上，明明是你们不相信国家，盲目扩大矛盾，非要在萨列夫格勒区喊什么批评皇帝陛下的口号。
 [name="失望的学生"]我们明明是去向各位大人请愿的，原本想着，只要把动静闹大，传到陛下耳朵里，他一定会钦命稽查员帮我们解决此事。
 [charslot(slot="m",name="avg_npc_2178_1#3$1")]
-[name="失望的学生"]这下倒好，我们哪还能回头啊......
+[name="失望的学生"]这下倒好，我们哪还能回头啊……
 [charslot(slot="m",name="avg_npc_2176_1#5$1")]
 [name="谢尔戈"]和我们都没有关系，都怪学生近卫军他们一意孤行，让法杰伊对这件事负责！
 [Dialog]
@@ -172,7 +172,7 @@
 [charslot(slot = "m", name = "avg_194_leto_1#13$1")]
 [name="烈夏"]所以你想一直吵下去？我们现在总得做点什么吧？
 [charslot(slot="m",name="avg_npc_2178_1#3$1")]
-[name="失望的学生"]现在能做的，只有老实回家，早点向父母和老师坦白道歉，争取不被开除......
+[name="失望的学生"]现在能做的，只有老实回家，早点向父母和老师坦白道歉，争取不被开除……
 [charslot(slot = "m", name = "avg_196_sunbr_1#11$1")]
 [name="古米"]不，我得去救他们，去救索尼娅姐！
 [charslot(slot="m",name="avg_npc_2178_1#6$1")]
@@ -181,7 +181,7 @@
 [charslot(slot = "m", name = "avg_196_sunbr_1#10$1")]
 [name="古米"]她不只帮了我，还帮了大家，有许多像她这样的人挡在了我们身前，现在他们在代替我们承受痛苦！
 [charslot(slot = "m", name = "avg_196_sunbr_1#7$1")]
-[name="古米"]我......我们都不能放弃。
+[name="古米"]我……我们都不能放弃。
 [charslot(slot = "m", name = "avg_194_leto_1#1$1")]
 [name="烈夏"]说得没错，不去试试怎么知道不行？我们会想出法子，会战斗到底！
 [charslot(slot="m",name="avg_npc_2178_1#1$1")]
@@ -206,7 +206,7 @@
 [charslot(slot="m",name="avg_npc_2156_1#7$1",focus="m")]
 [name="真理"]冷静一点，罗莎琳，不要起冲突。
 [charslot(slot = "m", name = "avg_194_leto_1#9$1")]
-[name="烈夏"]......
+[name="烈夏"]……
 [charslot(slot = "m", name = "avg_194_leto_1#4$1")]
 [name="烈夏"]安娜，或许你还能忍受和这群胆小鬼共事，但我真的受够了，这里的空气都让我窒息。
 [charslot(slot = "m", name = "avg_194_leto_1#9$1")]
@@ -224,7 +224,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2159_1#8$1")]
-[name="奥尔佳"]......罗莎琳就此离开了，安娜和拉达都追不上她，在门口喊了好几声她也没回头。
+[name="奥尔佳"]……罗莎琳就此离开了，安娜和拉达都追不上她，在门口喊了好几声她也没回头。
 [charslot(slot = "m", name = "avg_npc_2168_1#1$1")]
 [name="仲裁人"]这就与乌克西克的陈述对应上了。也就是说，罗莎琳潜入封锁区，是个人行为而非学生联合大会的谋划。
 [charslot(slot="m",name="avg_npc_2159_1#8$1")]
@@ -232,7 +232,7 @@
 [charslot(slot = "m", name = "avg_npc_2168_1#1$1")]
 [name="仲裁人"]看来可以更进一步缩小需要为“卡托加事件”负责的人员范围。那么接下来，你又是如何遭到绑架的呢？
 [charslot(slot="m",name="avg_npc_2159_1#7$1")]
-[name="奥尔佳"]......当时，很多人询问我，学生们究竟该怎么办。
+[name="奥尔佳"]……当时，很多人询问我，学生们究竟该怎么办。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -247,7 +247,7 @@
 [charslot(slot="r",name="avg_npc_2183_1#7$1",posfrom="50,0",posto="50,0")]
 [Delay(time=0.8)]
 [charslot(slot="r",focus="r")]
-[name="恐惧的学生"]......是你一直带领我们，带领联合大会，做了示威的决定。
+[name="恐惧的学生"]……是你一直带领我们，带领联合大会，做了示威的决定。
 [Dialog]
 [charslot(slot="l",name="avg_npc_2159_1#10$2",afrom=1,ato=1,posfrom="-50,0",posto="-65,0",duration=0.8)]
 [Delay(time=0.8)]
@@ -258,21 +258,21 @@
 [Delay(time=0.8)]
 [charslot(slot="r",focus="r")]
 [name="恐惧的学生"]你说过你父亲可以搞定这一切，就像彼得拉设夫斯基小组一开始那样。
-[name="恐惧的学生"]奥尔佳，我们该怎么办......
+[name="恐惧的学生"]奥尔佳，我们该怎么办……
 [Dialog]
 [charslot(slot="l",name="avg_npc_2159_1#9$2",focus="l")]
-[name="奥尔佳"]我......我会回去问他的，我会想尽办法打听同学们的情况。
+[name="奥尔佳"]我……我会回去问他的，我会想尽办法打听同学们的情况。
 [charslot(slot="r",focus="r")]
-[name="恐惧的学生"]所以，我们都会没事的，对吗......只要我们回去睡一觉，醒来就会发现一切都在变好，对不对？
+[name="恐惧的学生"]所以，我们都会没事的，对吗……只要我们回去睡一觉，醒来就会发现一切都在变好，对不对？
 [charslot(slot="l",name="avg_npc_2159_1#10$2",focus="l")]
-[name="奥尔佳"]......
+[name="奥尔佳"]……
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2187_1#1$1")]
 [name="“研讨会”成员"]奥尔佳，既然你说要回去问你的父亲，那我们是不是都应该先回家呢？
 [name="“研讨会”成员"]今天对大家来说都很艰难，还是尽早解散为好。
 [charslot(slot="m",name="avg_npc_2159_1#10$2")]
-[name="奥尔佳"]你说得对......我想，要么今天就这样吧？我们都回家，先好好休息再说。
+[name="奥尔佳"]你说得对……我想，要么今天就这样吧？我们都回家，先好好休息再说。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_studentsexhausted_fts_loop",volume=0, channel="foot", loop=true)]
@@ -284,7 +284,7 @@
 [Delay(time=0.8)]
 [charslot(slot="m",focus="n")]
 奥尔佳孤零零地站在台上，盯着那些迫不及待远离她的背影。
-不知从哪儿飘来一句讥诮的“哪里还有明天”......她咬住了没有血色的下唇。
+不知从哪儿飘来一句讥诮的“哪里还有明天”……她咬住了没有血色的下唇。
 [StopSound(channel="foot", fadetime=2)]
 [name="？？？"]你们要去哪？
 [Dialog]
@@ -325,10 +325,10 @@
 [charslot(slot = "m", name = "avg_npc_2156_1#7$1")]
 [name="真理"]够了！
 [charslot(slot = "m", name = "avg_npc_2156_1#2$1")]
-[name="真理"]古米......可以给我一颗蜂蜜糖吗？
+[name="真理"]古米……可以给我一颗蜂蜜糖吗？
 [stopmusic(fadetime=2)]
 [charslot(slot = "m", name = "avg_196_sunbr_1#2$1")]
-[name="古米"]欸......？真理姐......
+[name="古米"]欸……？真理姐……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
@@ -366,7 +366,7 @@
 [charslot(slot = "m", name = "avg_npc_2156_1#7$1")]
 [name="真理"]我看明白了，平时叫嚣着什么“新乌萨斯人”，但凡出点事就缩进安全的角落，有点志气的乌萨斯人谁愿意和你们为伍？
 [charslot(slot = "m", name = "avg_npc_2187_1#1$1")]
-[name="“研讨会”成员"]......
+[name="“研讨会”成员"]……
 [charslot(slot = "m", name = "avg_npc_2177_1#1$2")]
 [name="“近卫军”成员"]安娜说得对，每到该团结的时候你们就在那边唱反调，就是一帮没有胆量的——
 [charslot(slot = "m", name = "avg_npc_2156_1#11$1")]
@@ -376,7 +376,7 @@
 [charslot(slot = "m", name = "avg_npc_2156_1#9$1")]
 [name="真理"]用一分钟做完决定，等不到一小时就被人逮进监狱。但凡把你们涂改过的民用地图换成侦探小说，都能改善点联合大会的讨论深度！
 [charslot(slot = "m", name = "avg_npc_2177_1#1$2")]
-[name="“近卫军”成员"]......
+[name="“近卫军”成员"]……
 [charslot(slot="m",name="avg_npc_2178_1#1$1")]
 [name="失望的学生"]可回家是我们所有人的想法——
 [charslot(slot = "m", name = "avg_npc_2156_1#9$1")]
@@ -386,15 +386,15 @@
 [charslot(slot = "m", name = "avg_npc_2156_1#7$1")]
 [name="真理"]等同学们都被抓了，现在你倒知道出来喊投降，说风凉话，你对得起他们吗？
 [charslot(slot="m",name="avg_npc_2178_1#1$1")]
-[name="失望的学生"]......
+[name="失望的学生"]……
 [charslot(slot="m",name="avg_npc_2176_1#1$1")]
-[name="谢尔戈"]......
+[name="谢尔戈"]……
 [charslot(slot = "m", name = "avg_npc_2156_1#9$1")]
 [name="真理"]还有你！
 [charslot(slot="m",name="avg_npc_2176_1#1$1")]
 [name="谢尔戈"]啊？安娜，我什么都没说，我确实一直支持自治团——
 [charslot(slot = "m", name = "avg_npc_2156_1#2$1")]
-[name="真理"]......帮个忙，看看剧院还有多少灯能用。
+[name="真理"]……帮个忙，看看剧院还有多少灯能用。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_spotlight")]
@@ -405,11 +405,11 @@
 [charslot(slot = "r", name = "avg_npc_2156_1#2$1",posfrom="80,0",posto="0,0",duration=1)]
 [Delay(time=1)]
 [charslot(slot = "r",focus="r")]
-[name="真理"]......奥尔佳？
+[name="真理"]……奥尔佳？
 [charslot(slot="l",name="avg_npc_2159_1#10$2",focus="l")]
 [name="奥尔佳"]如果你能够帮到他们，那就上去吧。我、我已经——
 [charslot(slot = "r", name = "avg_npc_2156_1#2$1",focus="r")]
-[name="真理"]......
+[name="真理"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [charslot(slot = "r", name = "avg_npc_2156_1#2$1",posfrom="0,0",posto="-80,0",afrom=1,ato=0,duration=1)]
@@ -443,16 +443,16 @@
 [Image(image="72_i07", xScale=0.95, yScale=0.95, x=-50, y=-50,fadetime=2,block=false)]
 [ImageTween(xScaleFrom=0.95, yScaleFrom=0.95, xScaleTo=0.8, yScaleTo=0.8,xTo=0,yTo=0, duration=25,block=false)]
 [Delay(time=2)]
-[name="台下的学生A"]安娜......你刚才说的，我们都明白。可是......他们被带走了，关在什么地方我们都不知道。我们——
+[name="台下的学生A"]安娜……你刚才说的，我们都明白。可是……他们被带走了，关在什么地方我们都不知道。我们——
 [name="台下的学生B"]光是喊口号没有用，安娜。你有办法找到他们吗？
-[name="台下的学生C"]我室友也被抓了！都不知道他现在是死是活......
-[name="真理"]......是的，我们不知道他们具体在哪里，但我们知道是谁带走了他们。
+[name="台下的学生C"]我室友也被抓了！都不知道他现在是死是活……
+[name="真理"]……是的，我们不知道他们具体在哪里，但我们知道是谁带走了他们。
 [name="真理"]我需要大家先回答一个问题——你们最深的渴望是什么？不是为了我，是为了你们自己，请告诉我。
 [StopSound(channel="a", fadetime=2)]
 短暂的沉默。有人低头看手，有人与身旁的人交换眼神。
-[name="古米"]索尼娅姐教过我，被欺负了就要反抗。我要......我要战斗到底！
+[name="古米"]索尼娅姐教过我，被欺负了就要反抗。我要……我要战斗到底！
 [name="台下的学生D"]至少要知道他们的消息，至少要让他们知道我们没放弃！
-[name="台下的学生E"]我不想再躲在后面了！每次低头，我都觉得对不起他们......对不起我自己。
+[name="台下的学生E"]我不想再躲在后面了！每次低头，我都觉得对不起他们……对不起我自己。
 [name="台下的学生们"]没错，我们要战斗，直到救出所有人！
 [name="真理"]那么，我们一起做出了回答——去战斗！战斗能让我们砸碎枷锁，而投降只会让我们永远失去挣脱枷锁的力量。
 [name="真理"]告诉乌萨斯，我们为我们的同学、朋友、亲人而战！我们为我们自己而战！
@@ -481,31 +481,31 @@
 [playMusic(intro="$darkness02_intro",key="$darkness02_loop", volume=0.6)]
 [charslot(slot = "r", name = "avg_npc_2178_1#1$1",focus="r")]
 [charslot(slot = "l", name = "avg_npc_2156_1#2$1",focus="r")]
-[name="失望的学生"]安娜......我登记好了。
+[name="失望的学生"]安娜……我登记好了。
 [charslot(slot = "l", name = "avg_npc_2156_1#2$1",focus="l")]
 [name="真理"]我明白你的意思，你可以走了。
 [charslot(slot = "r", name = "avg_npc_2178_1#1$1",focus="r")]
-[name="失望的学生"]......
+[name="失望的学生"]……
 [name="失望的学生"]我做不到像你那样。一开始我是为学分才来加入社团，也许后来我也相信过——但你得明白，我渴望安稳的生活。
 [charslot(slot = "l", name = "avg_npc_2156_1#1$1",focus="l")]
 [name="真理"]你不需要为你的选择做出任何解释，我愿你早日回到学校，过上你想过的日子。
 [charslot(slot = "l", name = "avg_npc_2156_1#1$1",focus="l")]
 [name="真理"]若是失踪的同学里还有你所挂念的人，那么请你祝福他们平安，也祝福我们的行动顺遂。
 [charslot(slot = "r", name = "avg_npc_2178_1#1$1",focus="r")]
-[name="失望的学生"]......对不起，安娜，我向你跟拉达道歉，我不该对自治团和索尼娅评头论足。
-[name="失望的学生"]如果有机会......不，你们见到罗莎琳的时候，请帮我转达我对她的歉意。
+[name="失望的学生"]……对不起，安娜，我向你跟拉达道歉，我不该对自治团和索尼娅评头论足。
+[name="失望的学生"]如果有机会……不，你们见到罗莎琳的时候，请帮我转达我对她的歉意。
 [charslot(slot = "l", name = "avg_npc_2156_1#8$1",focus="l")]
-[name="真理"]......
+[name="真理"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_2159_1#10$2", duration=1.5, block=true)]
 [Delay(time=2)]
-[name="奥尔佳"]安娜，你现在......还有空吗？
+[name="奥尔佳"]安娜，你现在……还有空吗？
 [charslot(slot = "m", name = "avg_npc_2156_1#6$1")]
 [name="真理"]奥尔佳，你应该去找拉达处理伤口，或者说你也想——
 [charslot(slot = "m", name = "avg_npc_2159_1#9$2")]
-[name="奥尔佳"]不......我只是想问，你想到的办法究竟是什么？
+[name="奥尔佳"]不……我只是想问，你想到的办法究竟是什么？
 [charslot(slot = "m", name = "avg_npc_2156_1#8$1")]
 [name="真理"]实话说，我没有那么肯定这行得通。
 [charslot(slot = "m", name = "avg_npc_2156_1#8$1")]
@@ -513,11 +513,11 @@
 [charslot(slot = "m", name = "avg_npc_2156_1#11$1")]
 [name="真理"]但这，意味着学生可以在社会各个阶层都找到获得情报的渠道。
 [charslot(slot = "m", name = "avg_npc_2159_1#9$2")]
-[name="奥尔佳"]你的想法是......利用大家的亲人？
+[name="奥尔佳"]你的想法是……利用大家的亲人？
 [charslot(slot = "m", name = "avg_npc_2159_1#8$2")]
 [name="奥尔佳"]安娜，如果你想从贵族那里窃取什么情报，那你最好想明白这么做的后果。
 [charslot(slot = "m", name = "avg_npc_2156_1#13$1")]
-[name="真理"]......在登记完信息之前，我不会给出任何定论。
+[name="真理"]……在登记完信息之前，我不会给出任何定论。
 [charslot(slot = "m", name = "avg_npc_2156_1#9$1")]
 [name="真理"]但是我很清楚，一场不容拒绝的浪潮已经席卷了乌萨斯。
 [charslot(slot = "m", name = "avg_npc_2156_1#8$1")]
@@ -527,7 +527,7 @@
 [charslot(slot = "m", name = "avg_npc_2156_1#2$1")]
 [name="真理"]为保护身边的人，我会付出一切。
 [charslot(slot = "m", name = "avg_npc_2156_1#2$1")]
-[name="真理"]你愿意的话，这条道路也会是你的道路......奥尔佳主席。
+[name="真理"]你愿意的话，这条道路也会是你的道路……奥尔佳主席。
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

@@ -13,23 +13,23 @@
 以子之矛，攻子之盾。
 以子之盾，拒子之矛。
 以子之矛，攻子之盾。
-以子之盾，拒子......拒子......
-拒子......
+以子之盾，拒子……拒子……
+拒子……
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
-......
-............
-......搞什么啊，这不是没完没了吗。
-这可咋办？得想个办法啊......
+……
+…………
+……搞什么啊，这不是没完没了吗。
+这可咋办？得想个办法啊……
 [dialog]
 [delay(time=2 )]
 [Image(image="ac6_1",x=0, y=0, xScale=2, yScale=2, fadetime=0)]
 [Blocker(a=0, fadetime=10, block=false)]
 [ImageTween(xFrom=-700, yFrom=-400, xTo=0, yTo=0, xScaleFrom=2, yScaleFrom=2, xScaleTo=1.4, yScaleTo=1.4, duration=35, block=false)]
-以子之矛，攻子之盾......
-以子之盾，拒子之矛......
+以子之矛，攻子之盾……
+以子之盾，拒子之矛……
 不行，要有个“然后”。
-然后，然后......啊，有了！
+然后，然后……啊，有了！
 然后引发一场大爆炸，不就能全部搞定了？
 [dialog]
 [stopmusic(fadetime=3)]
@@ -68,7 +68,7 @@
 [name="轻浮的近卫局成员"]   唉，正按计划进行迁移，移动速度正常，没有发现任何异样。
 [name="轻浮的近卫局成员"]   唯一需要汇报的源石反应也就这些，你瞅瞅。
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
-[name="认真的近卫局成员"]   ......“怀疑由源石炸药引起的爆炸”？什么情况？难不成在公园非法燃放烟花？
+[name="认真的近卫局成员"]   ……“怀疑由源石炸药引起的爆炸”？什么情况？难不成在公园非法燃放烟花？
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=1)]
 [name="轻浮的近卫局成员"]   看仔细啊，地点，地点。
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
@@ -79,7 +79,7 @@
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
 [name="认真的近卫局成员"]   正经点，魏长官特地叮嘱过，不要松懈。
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=1)]
-[name="轻浮的近卫局成员"]   话说回来啊，我在龙门长这么大，每年都紧张兮兮的......
+[name="轻浮的近卫局成员"]   话说回来啊，我在龙门长这么大，每年都紧张兮兮的……
 [name="轻浮的近卫局成员"]   从来没有一次真撞见过什么“年关”，那是个啥情况？
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
 [name="认真的近卫局成员"]   我也没见过啊。另外这个问题去年你已经问过一遍了。
@@ -93,7 +93,7 @@
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
 [name="认真的近卫局成员"]   得了，不用帮他们说话。你们在监控室里吃泡面的事情我已经记下了，不怪你们，年夜饭嘛，等着交红包吧。
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=1)]
-[name="轻浮的近卫局成员"]   ......
+[name="轻浮的近卫局成员"]   ……
 [name="轻浮的近卫局成员"]   那魏长官经历过年关吗？
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
 [name="认真的近卫局成员"]   你在质疑上司？
@@ -103,7 +103,7 @@
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
 [name="认真的近卫局成员"]   唉，魏长官向来谨慎，事事都要讲个周全，你又不是不知道。
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=1)]
-[name="轻浮的近卫局成员"]   话是这么说......
+[name="轻浮的近卫局成员"]   话是这么说……
 [Character]
 [dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
@@ -111,16 +111,16 @@
 [Character(name="char_383_snsant_1",fadetime=1,blok=true)]
 [Delay(time=1)]
 [name="？？？"]   不、不好意思！我来晚了！这是上一个区间的源石监测报告！
-[name="？？？"]   欸？那个......魏长官呢？
+[name="？？？"]   欸？那个……魏长官呢？
 [Character(name="char_383_snsant_1",name2="char_015_lmg",focus=2)]
-[name="认真的近卫局成员"]   ......呃，她不在这儿。
+[name="认真的近卫局成员"]   ……呃，她不在这儿。
 [Character(name="char_383_snsant_1",name2="char_015_lmg",focus=1)]
-[name="？？？"]   欸、欸？但是陈警官告诉我她在总监控室......
+[name="？？？"]   欸、欸？但是陈警官告诉我她在总监控室……
 [Character(name="char_383_snsant_1",name2="char_015_lmg",focus=2)]
-[name="认真的近卫局成员"]   这里是屋顶......
+[name="认真的近卫局成员"]   这里是屋顶……
 [name="认真的近卫局成员"]   下楼左拐，最大的那间屋子是总监控室。
 [Character(name="char_383_snsant_1")]
-[name="？？？"]   欸，我明明刚从那里跑过来的，难道我错过了......
+[name="？？？"]   欸，我明明刚从那里跑过来的，难道我错过了……
 [name="？？？"]   不好意思！我得赶紧过去！
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
@@ -141,9 +141,9 @@
 [PlaySound(key="$rungeneral", volume=0.9)]
 [Character(name="char_383_snsant_1",fadetime=1,blok=true)]
 [Delay(time=1)]
-[name="？？？"]   呼，呼，不好意思，请问总监控室在哪儿......
+[name="？？？"]   呼，呼，不好意思，请问总监控室在哪儿……
 [Character(name="char_010_chen_1#5")]
-[name="陈"]   ......雪雉？你怎么还在这里？
+[name="陈"]   ……雪雉？你怎么还在这里？
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#5",focus=1)]
 [name="雪雉"]   欸？陈警官都已经到了吗？
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
@@ -171,7 +171,7 @@
 [Blocker(a=0, fadetime=0.4, block=true)]
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
 [name="雪雉"]   对对对对不起！我迷路了！
-[name="雪雉"]   这这这种重要的即时信息没能按时送到，我难道要被处分了......？
+[name="雪雉"]   这这这种重要的即时信息没能按时送到，我难道要被处分了……？
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   不至于，你初来乍到，没带你好好认一遍路也是我的不对。
 [name="陈"]   跟我来吧。
@@ -194,16 +194,16 @@
 [Delay(time=3)]
 [Character(name="char_383_snsant_1",fadetime=1,blok=true)]
 [Delay(time=1)]
-[name="雪雉"]   明明都半夜了，居然还有这么多人......
+[name="雪雉"]   明明都半夜了，居然还有这么多人……
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   年年如此，以防万一。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   ......以防万一？啊，是因为年兽的传说吗？
+[name="雪雉"]   ……以防万一？啊，是因为年兽的传说吗？
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   你一直待在哥伦比亚，没见过近卫局迎接年关的景象吧？
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   我只在小时候听奶奶讲过“年”的故事......但是太可怕了所以从来没有把它当真过......
-[name="雪雉"]   浑身着火的四足怪兽潜伏在地底，人们建立城市的时候吵醒了它们，所以它们......唔！这不会是真的吧！
+[name="雪雉"]   我只在小时候听奶奶讲过“年”的故事……但是太可怕了所以从来没有把它当真过……
+[name="雪雉"]   浑身着火的四足怪兽潜伏在地底，人们建立城市的时候吵醒了它们，所以它们……唔！这不会是真的吧！
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   故事，是吗。
 [name="陈"]   很多人觉得这个故事是假的，可惜，那不过是粉饰太平的自我安慰罢了。
@@ -211,30 +211,30 @@
 [name="陈"]   虽然它已经沉寂了很多年，但我们仍需警戒。
 [name="陈"]   你在龙门生活过，但是回来的时间还不算长。而现在，你要补习那些过去你没有接触到的东西。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   对对对对不起！大家都这么认真，我是不是不该这么......
+[name="雪雉"]   对对对对不起！大家都这么认真，我是不是不该这么……
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]   唉，你也不用那么紧张......
+[name="陈"]   唉，你也不用那么紧张……
 [name="陈"]   此时此刻在这栋大楼里的人，没有几位是真正目睹过年兽入侵的。
 [name="陈"]   经常会有新人感到疑惑，甚至还有质疑近卫局行动的人。很正常，我习惯了。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   原来如此......近卫局真是辛苦......
+[name="雪雉"]   原来如此……近卫局真是辛苦……
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   向魏长官汇报完，你可以先休息一会，明早再来报到。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
 [name="雪雉"]   等等等等！呃，陈警官！那个，就是，魏长官是个什么样的人？
-[name="雪雉"]   今天您突然告诉我要见她......我有点......
+[name="雪雉"]   今天您突然告诉我要见她……我有点……
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   在回答你之前，我觉得你应该更自信一点。
 [name="陈"]   是魏长官亲自发函邀请你从哥伦比亚回到龙门的，你要相信自己的能力，更要相信你在接下来的任务中能够有所作为。
 [name="陈"]   换言之，挺起胸膛。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   对、对不起......
+[name="雪雉"]   对、对不起……
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]   ......唉。所以不要总是道歉啊。
+[name="陈"]   ……唉。所以不要总是道歉啊。
 [name="陈"]   你就像和我说话一样，把你手上的所有信息，一五一十地告诉魏长官就行了。
 [name="陈"]   不要多想。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   好的，我尽力，呜......
+[name="雪雉"]   好的，我尽力，呜……
 [PlayMusic(intro="$longmenoffice_intro", key="$longmenoffice_loop", volume=0.7, crossfade=2)]
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
@@ -263,7 +263,7 @@
 [BackgroundTween(image="avg_6D5_1",x=-20,y=0,xTo=20,yTo=0,xScale=1.1, yScale=1.1,xScaleTo=1.2, yScaleTo=1.2,duration=20)]
 [ImageTween(image="avg_6d5_wei",x=-180,y=-80,xScale=1.1, yScale=1.1,xScaleTo=1.3, yScaleTo=1.3,xTo=-260,yTo=-120,duration=15)]
 文月，龙门现任最高执政者，身份成谜。
-......听说有一位尽心尽责的丈夫主持内务，不知真假。
+……听说有一位尽心尽责的丈夫主持内务，不知真假。
 [delay(time=1)]
 [dialog]
 [Character]
@@ -281,7 +281,7 @@
 [name="陈"]   以及，刚才发现22区的监控室里有人在食用速食杯面。顺路斥责了他们一番。
 [name="陈"]   是我调度不力的责任，请魏长官指示。
 [Character(name="char_2006_weiywfmzuki_1",name2="char_010_chen_1#1",focus=1)]
-[name="魏文月"]   ......嗯，我明白了。
+[name="魏文月"]   ……嗯，我明白了。
 [name="魏文月"]   先介绍一下这位可爱的新成员吧。
 [Character(name="char_010_chen_1#1")]
 [name="陈"]   这位是负责前进防线设施维护的高级工程师，工程代号雪雉，您应该知道她。
@@ -309,21 +309,21 @@
 [Background(image="bg_lungmencommand",screenadapt="coverall")]
 [Blocker(a=0, fadetime=0.4, block=true)]
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=2)]
-[name="雪雉"]   啊，不，陈警官已经介绍过了......
+[name="雪雉"]   啊，不，陈警官已经介绍过了……
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=1)]
 [name="魏文月"]   我们也不是初次见面了，雪雉小姐。
 [name="魏文月"]   士别三日当刮目相待，在哥伦比亚的历练让你成熟了很多。
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=2)]
-[name="雪雉"]   您......您还记得？
+[name="雪雉"]   您……您还记得？
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=1)]
 [name="魏文月"]   怎么会不记得？你的才能和品德吸引了很多人。
 [name="魏文月"]   更不用说你在离开龙门前有着令人印象深刻的表现。
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=2)]
-[name="雪雉"]   魏长官一直知道我的事情吗......？我、我是不是做错了什么？
+[name="雪雉"]   魏长官一直知道我的事情吗……？我、我是不是做错了什么？
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=1)]
 [name="魏文月"]   只是留心那些值得期待的年轻人罢了。
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=2)]
-[name="雪雉"]   非非非常荣幸！可我完全没有前辈们能说会道，我以为不会有人注意到我......
+[name="雪雉"]   非非非常荣幸！可我完全没有前辈们能说会道，我以为不会有人注意到我……
 [Character(name="char_2006_weiywfmzuki_1",name2="char_383_snsant_1",focus=1)]
 [name="魏文月"]   很不巧，那些粉饰剽窃和利己目的的花言巧语我一个字都没有听。
 [Character]
@@ -347,27 +347,27 @@
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_383_snsant_1",fadetime=1,blok=true)]
 [Delay(time=1)]
-[name="雪雉"]   呼啊，都这么晚了......
+[name="雪雉"]   呼啊，都这么晚了……
 [PlayMusic(intro="$nightoflongmen_intro", key="$nightoflongmen_loop", volume=0.8, crossfade=1.5)]
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   本来可以早一点的。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   呜......很抱歉，回家之后我会多看几遍手册的。
+[name="雪雉"]   呜……很抱歉，回家之后我会多看几遍手册的。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   这样就好。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
 [name="雪雉"]   没关系！明天陈警官再见到我的时候，我一定能准确画出每层楼的结构示意图！
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]   ......没必要做到这个地步。
+[name="陈"]   ……没必要做到这个地步。
 [name="陈"]   总之，从之后开始，你的项目将会需要直接向魏长官汇报。别太紧张了。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
 [name="雪雉"]   好，好的！
-[name="雪雉"]   可是，那个......陈警官不回去休息吗？
+[name="雪雉"]   可是，那个……陈警官不回去休息吗？
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   还有别的任务，近卫局如今抽不出更多人手，但的确有一些不管不行的家伙。
-[name="陈"]   以及，虽然还没有公告给普通市民，但近卫局的确......发现了一些线索。
+[name="陈"]   以及，虽然还没有公告给普通市民，但近卫局的确……发现了一些线索。
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=1)]
-[name="雪雉"]   辛、辛苦......
+[name="雪雉"]   辛、辛苦……
 [Character(name="char_383_snsant_1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   没关系，习以为常。
 [name="陈"]   这是你回到龙门的第一个新年，好好珍惜吧。
@@ -388,7 +388,7 @@
 [name="小弟"]   多亏了鬼姐今年帮里也是风调雨顺！
 [name="小弟"]   鬼姐！我们什么时候动身去庙街？
 [Character(name="char_136_hsguma")]
-[name="鬼姐"]   ......啊，先别急，时间多得很——
+[name="鬼姐"]   ……啊，先别急，时间多得很——
 [name="鬼姐"]   但我还要等一位客人，她一定会来。让人不爽的预感，我一早上眼皮都在跳。
 [Character]
 [name="小弟"]   啊？客人？谁？
@@ -397,7 +397,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_010_chen_1#1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="陈"]   ......我。
+[name="陈"]   ……我。
 [Character]
 [name="小弟"]   你。你什么时候！？
 [Character(name="char_010_chen_1#1")]
@@ -412,7 +412,7 @@
 [name="陈"]   省省吧，不用这么麻烦，我知道你们要去做什么。
 [name="陈"]   但现在你们哪儿也别想去。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
-[name="鬼姐"]   ......
+[name="鬼姐"]   ……
 [name="鬼姐"]   这就有点不讲道理了吧，陈sir？
 [name="鬼姐"]   去年我们认栽，是因为我们有错，现在我们什么都没做，就要被禁足了？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
@@ -421,17 +421,17 @@
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
 [name="鬼姐"]   那是你觉得我在开玩笑？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]   ......
+[name="陈"]   ……
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
 [name="鬼姐"]   哎——唉。好吧，看在我们认识了这多年的份上，陈sir。
 [name="鬼姐"]   今年守年关的阵势的确夸张得让人头皮发麻，我还以为乌萨斯人的大炮已经堵在脸上了。
 [name="鬼姐"]   听你的也行，按我们的规矩来。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]   ......可以。
+[name="陈"]   ……可以。
 [name="陈"]   反正一开始我就是这么打算的。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
 [name="鬼姐"]   但是要附加一个条件，如果我赢了，你要把近卫局到底发现了什么告诉我。
-[name="鬼姐"]   “今年情况特殊”......你说是吧，陈sir？
+[name="鬼姐"]   “今年情况特殊”……你说是吧，陈sir？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   你要知道这个做什么？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
@@ -464,7 +464,7 @@
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=1)]
 [name="退休老人"]   是这样吗？我记不得了。
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=2)]
-[name="普通市民魏先生"]   ......慢着，你刚才是不是动了棋盘？
+[name="普通市民魏先生"]   ……慢着，你刚才是不是动了棋盘？
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=1)]
 [name="退休老人"]   怎么会呢，我何时悔过棋？
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=2)]
@@ -486,7 +486,7 @@
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
 [name="富家女"]   大过年的，干嘛要心情不好？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
-[name="高材生"]   虽然你说的好像也对......
+[name="高材生"]   虽然你说的好像也对……
 [name="高材生"]   有什么好事？
 [Character(name="char_308_swire_1#2",name2="avg_npc_036",focus=1)]
 [name="富家女"]   你通过近卫局考核还不算好事吗？
@@ -494,12 +494,12 @@
 [Character(name="char_308_swire_1#2",name2="avg_npc_036",focus=2)]
 [name="高材生"]   也有这个原因。主动挑起想做的事情，总好过任人摆布。
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
-[name="富家女"]   真不像你......
+[name="富家女"]   真不像你……
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
 [name="高材生"]   这样才好。
 [name="高材生"]   可你真的只因为我就会这么高兴吗？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
-[name="富家女"]   欸......不要说得这么伤感情......
+[name="富家女"]   欸……不要说得这么伤感情……
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
 [name="高材生"]   呵，谢谢。
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
@@ -509,16 +509,16 @@
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
 [name="富家女"]   呃。
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
-[name="高材生"]   还是你在雷姆必拓投资的产业有了回报？我记得是矿业吧......而且转手过程不太干净。
+[name="高材生"]   还是你在雷姆必拓投资的产业有了回报？我记得是矿业吧……而且转手过程不太干净。
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
-[name="富家女"]   你、你怎么知道得这么详细......
+[name="富家女"]   你、你怎么知道得这么详细……
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
 [name="高材生"]   嗯？当然因为我们是朋友啊。诗。怀。雅。
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
 [name="富家女"]   我是真心的在问！真的！你真的没有在私下调查我吧！
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
 [name="高材生"]   我才不会这么做。
-[name="高材生"]   ......不过也许近卫局会很乐意能把你把控在手里，算不算大功一件呢？
+[name="高材生"]   ……不过也许近卫局会很乐意能把你把控在手里，算不算大功一件呢？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
 [name="富家女"]   别。千万别。
 [name="富家女"]   好吧。不瞒你说，其实还有另一件让人开心的事。
@@ -529,7 +529,7 @@
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
 [name="高材生"]   直觉，你以为我是靠什么才在几乎没有准备的情况下完成刑侦科考试的？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
-[name="富家女"]   啊，不是，你真的没有用什么见不得光的资料贿赂近卫局吧......？
+[name="富家女"]   啊，不是，你真的没有用什么见不得光的资料贿赂近卫局吧……？
 [Dialog]
 [Character(name="char_308_swire_1#3",name2="avg_npc_036")]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
@@ -541,9 +541,9 @@
 [Character(name="char_308_swire_1#2")]
 [name="富家女"]   啊，爆竹声，这才有点年味嘛。
 [Character(name="char_308_swire_1#3")]
-[name="富家女"]   嗯？你干嘛突然背过身......啊。
+[name="富家女"]   嗯？你干嘛突然背过身……啊。
 [Character(name="char_308_swire_1#2",name2="avg_npc_036",focus=2)] 
-[name="高材生"]   ......干嘛？
+[name="高材生"]   ……干嘛？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)] 
 [name="富家女"]   你怎么还在怕爆竹？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)] 
@@ -557,7 +557,7 @@
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)] 
 [name="高材生"]   ——我没有。
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)] 
-[name="富家女"]   ......真的？
+[name="富家女"]   ……真的？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)] 
 [name="高材生"]   嗯。
 [Character(name="char_308_swire_1#2",name2="avg_npc_036",focus=1)] 
@@ -565,7 +565,7 @@
 [Character(name="char_308_swire_1#2",name2="avg_npc_036",focus=2)] 
 [name="高材生"]   对了，我突然想起来，关于你的调查报告好像还放在抽屉里。
 [Character(name="char_308_swire_1#1",name2="avg_npc_036",focus=1)] 
-[name="富家女"]   ......我、我们还是赶紧去会场吧。
+[name="富家女"]   ……我、我们还是赶紧去会场吧。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]
@@ -579,29 +579,29 @@
 [Character(name="char_002_amiya_1#3",fadetime=1,block=true)]
 [delay(time=1)]
 [name="阿米娅"]   博士，我们到了。
-[Decision(options="这里是龙门？;感觉和印象里不太一样。;......",values="1;2;3")]
+[Decision(options="这里是龙门？;感觉和印象里不太一样。;……",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [name="阿米娅"]   博士是第一次来到新年时的龙门吧？
 [name="阿米娅"]   虽然迎接新春的氛围真的很吸引人，但我们毕竟是有任务在身的。
-[Decision(options="来“守岁”是吧。;说起来“年关”是啥？;......",values="1;2;3")]
+[Decision(options="来“守岁”是吧。;说起来“年关”是啥？;……",values="1;2;3")]
 [Predicate(references="1;2;3")]
-[name="阿米娅"]   “年”是一个传说......很多人都是这么认为的。
+[name="阿米娅"]   “年”是一个传说……很多人都是这么认为的。
 [name="阿米娅"]   但根据记录，是确有其事的奇异现象。
 [name="阿米娅"]   每到年末交替的时节，龙门、乃至整个炎国，甚至是航线靠近这附近的乌萨斯部分国土都会遭到袭击。
 [Decision(options="袭击？;奇异现象？;今天真热啊。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [name="阿米娅"]   毕竟各城邦有文字可考的损害记录根本对不上号，而更早的传说大多面目模糊。
-[name="阿米娅"]   有说是巨大的食人怪兽，有说是诡异的军队，也有说是几名奇异的施术者......
-[name="阿米娅"]   甚至有人笃定是某些犯罪组织或是别有用心的阴谋家，打着“年祸”、“灾兽”之类的幌子进行犯罪活动......
-[name="阿米娅"]   ......说起来，博士你开会没听吗？
-[Decision(options="......;......;......抱歉。",values="1;2;3")]
+[name="阿米娅"]   有说是巨大的食人怪兽，有说是诡异的军队，也有说是几名奇异的施术者……
+[name="阿米娅"]   甚至有人笃定是某些犯罪组织或是别有用心的阴谋家，打着“年祸”、“灾兽”之类的幌子进行犯罪活动……
+[name="阿米娅"]   ……说起来，博士你开会没听吗？
+[Decision(options="……;……;……抱歉。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_015_lmg")]
 [name="近卫局成员"]   罗德岛的各位，欢迎来到龙门。
 [name="近卫局成员"]   魏长官正在近卫局等待。请各位跟我来。
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"]   总之，我们先先去找魏长官吧，详细的事项会由她来说明。
-[name="阿米娅"]   不过......博士，你有看见炎熔吗？
+[name="阿米娅"]   不过……博士，你有看见炎熔吗？
 [Dialog]
 [PlayMusic(intro="$nightoflongmen_intro", key="$nightoflongmen_loop", volume=0.8, crossfade=1.5)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
@@ -612,7 +612,7 @@
 [Character(name="char_136_hsguma")]
 [name="鬼姐"]   这、这是第几瓶了？
 [Character]
-[name="小弟"]   鬼姐，要不算了吧......
+[name="小弟"]   鬼姐，要不算了吧……
 [Character(name="char_136_hsguma")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=10, vibrato=30, randomness=90, fadeout=true,block=false)]
 [name="鬼姐"]   数字！
@@ -620,16 +620,16 @@
 [name="小弟"]   十七！
 [Character(name="char_136_hsguma")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=10, vibrato=30, randomness=90, fadeout=true,block=false)]
-[name="鬼姐"]   唔......你什么时候，这么能喝了？
+[name="鬼姐"]   唔……你什么时候，这么能喝了？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   在近卫局，总有一些应酬。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
-[name="鬼姐"]   你*龙门粗口*是在和什么玩意应酬......可恶......呕......
+[name="鬼姐"]   你*龙门粗口*是在和什么玩意应酬……可恶……呕……
 [Character(name="char_136_hsguma")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=10, vibrato=30, randomness=90, fadeout=true,block=true)]
 [name="鬼姐"]   啊，好热！喂，拿凉水来，啤酒也行！
 [Character]
-[name="小弟"]   鬼姐，你真的不能再喝了......
+[name="小弟"]   鬼姐，你真的不能再喝了……
 [Character(name="char_010_chen_1#1")]
 [name="陈"]   照顾好她，哪儿也别去了。
 [Character]
@@ -637,7 +637,7 @@
 [Character(name="char_136_hsguma")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=10, vibrato=30, randomness=90, fadeout=true,block=false)]
 [name="鬼姐"]   咕嘟——咕嘟——哈！
-[name="鬼姐"]   姓陈的，下次来拜年......嗝，能不能......不要找乱七八糟的借口？
+[name="鬼姐"]   姓陈的，下次来拜年……嗝，能不能……不要找乱七八糟的借口？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   身份有别。
 [name="陈"]   既然你认输了，那我——唔。
@@ -647,7 +647,7 @@
 [name="小弟"]   ——？陈Sir，我咋感觉你也有点晃？
 [Character(name="char_010_chen_1#1")]
 [name="陈"]   错觉。
-[name="陈"]   ......你们也要做好准备。万一魏长官的猜测是真的，我们需要整个隆闷团街逸致——
+[name="陈"]   ……你们也要做好准备。万一魏长官的猜测是真的，我们需要整个隆闷团街逸致——
 [Character]
 [name="小弟"]   陈sir，你真的还好吧？
 [Character(name="char_010_chen_1#1")]
@@ -658,18 +658,18 @@
 [Character(name="char_010_chen_1#1")]
 [name="陈"]   成因不明的巨大坑洞，被融化的废弃建筑，面积极大的焦痕。
 [Character]
-[name="小弟"]   啊......我听说年的真身其实是一条绵延万里的源石蠕虫......难道是真的？
+[name="小弟"]   啊……我听说年的真身其实是一条绵延万里的源石蠕虫……难道是真的？
 [Character(name="char_010_chen_1#1")]
 [name="陈"]   鬼知道。
 [name="陈"]   尽管斥候没有发现任何施术痕迹，但那些痕迹毫无疑问是最近留下的。
-[name="陈"]   总之，如果真的有那个万一......
+[name="陈"]   总之，如果真的有那个万一……
 [name="陈"]   你们也得帮忙。
 [Character]
 [name="小弟"]   可我们为什么要帮条子的忙？
 [Character(name="char_010_chen_1#1")]
 [name="陈"]   因为你们能打。
 [Character]
-[name="小弟"]   ......这话说的有点好听哎！不愧是陈sir！
+[name="小弟"]   ……这话说的有点好听哎！不愧是陈sir！
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -691,7 +691,7 @@
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
 [name="富家女"]   哎，无所谓啦！那只龙回复了吗？
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=2)]
-[name="高材生"]   ......还没。近卫局的通讯系统不是用来干这种事的。
+[name="高材生"]   ……还没。近卫局的通讯系统不是用来干这种事的。
 [Character(name="char_308_swire_1#3",name2="avg_npc_036",focus=1)]
 [name="富家女"]   常规编制今天放假吧？没事的啦，反正是我的私人频道。
 [name="富家女"]   哼哼，说不定现在已经气急败坏得在下城区的小巷子里骂街了呢。
@@ -701,7 +701,7 @@
 [Background(image="bg_park",screenadapt="coverall")]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=1)]
-[name="退休老人"]   ......老魏，是不是哪儿着火了？
+[name="退休老人"]   ……老魏，是不是哪儿着火了？
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=2)]
 [name="普通市民魏先生"]   大过年的你胡说什么呢？
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=1)]
@@ -721,7 +721,7 @@
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=2)]
 [name="普通市民魏先生"]   早点投子认输吧，别转移话题了，你以为我会再给你动手脚的机会？
 [Character(name="avg_npc_034#4",name2="char_2005_weiyw_1",focus=1)]
-[name="退休老人"]   ......啧。
+[name="退休老人"]   ……啧。
 [Character]
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
@@ -735,12 +735,12 @@
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=1)]
 [name="轻浮的近卫局成员"]   早就好了，明天早上要是你先来记得帮我带咖啡。
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
-[name="认真的近卫局成员"]   真是......
+[name="认真的近卫局成员"]   真是……
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=1)]
 [name="轻浮的近卫局成员"]   啊对了，这个给你，打发时间。
 [Character(name="char_015_lmg",name2="char_015_lmg",focus=2)]
 [name="认真的近卫局成员"]   这是什么？
-[name="认真的近卫局成员"]   ......《年关轶事：多国灾害史考据》？
+[name="认真的近卫局成员"]   ……《年关轶事：多国灾害史考据》？
 [name="认真的近卫局成员"]   嘁，没意思。年一定是个云雾缭绕的神秘结社，怎么还有人信怪兽学说的？
 [dialog]
 [stopmusic(fadetime=2)]
@@ -756,10 +756,10 @@
 [name="？？？"]   搞什么，找了我好久。现在的人都怎么回事，这才多少年没来就完全变了个样。
 [name="？？？"]   啊啊，在这儿，我瞧瞧。啧，搞出这么多新的格式，完全没有意义嘛。
 [name="？？？"]   ——整，合，运动？
-[name="？？？"]   嗯......嗯......嗯？
+[name="？？？"]   嗯……嗯……嗯？
 [name="？？？"]   啥子？就只有这些信息？
-[name="？？？"]   那我还不如直接发挥想象力......不，还是算了，怕他们遭不住......
-[name="？？？"]   好嘞，我来琢磨琢磨......
+[name="？？？"]   那我还不如直接发挥想象力……不，还是算了，怕他们遭不住……
+[name="？？？"]   好嘞，我来琢磨琢磨……
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -769,7 +769,7 @@
 [Character(name="char_383_snsant_1",fadetime=1,blok=true)]
 [Delay(time=1)]
 [name="雪雉"]   唔——嗯——
-[name="雪雉"]   这样应该行了吧？启动试试......
+[name="雪雉"]   这样应该行了吧？启动试试……
 [Character]
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [name="实验室用室温校对系统"]   ——*电流声*——
@@ -777,8 +777,8 @@
 [name="实验室用室温校对系统"]   实验启动日志已记录。声纹确认。所有人：雪雉。
 [name="实验室用室温校对系统"]   当前室温14℃，逻辑判断：室温不正常。
 [Character(name="char_383_snsant_1")]
-[name="雪雉"]   这次成功了......！呜呜，牺牲的电费总算有了回报......等等，不正常？
-[name="雪雉"]   呜......我记得是有校对日志的......在哪儿来着？
+[name="雪雉"]   这次成功了……！呜呜，牺牲的电费总算有了回报……等等，不正常？
+[name="雪雉"]   呜……我记得是有校对日志的……在哪儿来着？
 [Character]
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [name="实验室用室温校对系统"]   校对日志篇目数：1 
@@ -788,16 +788,16 @@
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [name="实验室用室温校对系统"]   室温判断：明显高于地区同期温度。推测为实验所致。检索未发现热源。检索未发现源石反应。以上条目已录入。 
 [Character(name="char_383_snsant_1")]
-[name="雪雉"]   唔......侦测源石反应的功能虽然是后加上去的，好像比想象中要灵敏很多......
+[name="雪雉"]   唔……侦测源石反应的功能虽然是后加上去的，好像比想象中要灵敏很多……
 [name="雪雉"]   稍微扩大一下范围。
 [Character]
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [name="实验室用室温校对系统"]   侦测范围扩大失败。原因：范围内出现大量无反应对象，推测系统故障，排查中。
 [Character(name="char_383_snsant_1")]
-[name="雪雉"]   我想想......监视源石反应的技术本身是利用源石反应的波纹反馈，无反应对象就是说源石技艺完全无法探测的——
-[name="雪雉"]   对源石反应绝缘？对源石完全绝缘的材料......？
-[name="雪雉"]   ......怎么可能嘛！
-[name="雪雉"]   呃，那岂不是说真的出故障了......呜......电费......
+[name="雪雉"]   我想想……监视源石反应的技术本身是利用源石反应的波纹反馈，无反应对象就是说源石技艺完全无法探测的——
+[name="雪雉"]   对源石反应绝缘？对源石完全绝缘的材料……？
+[name="雪雉"]   ……怎么可能嘛！
+[name="雪雉"]   呃，那岂不是说真的出故障了……呜……电费……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -833,11 +833,11 @@
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"]   （博士！还没找到炎熔吗？还没有？）
 [Character(name="char_2006_weiywfmzuki_1",name2="char_002_amiya_1#1",focus=2)]
-[name="阿米娅"]   咳咳。魏长官，那个......
+[name="阿米娅"]   咳咳。魏长官，那个……
 [name="阿米娅"]   关于在龙门境内行动的干员名单，可以在本人不在场的情况下登记吗？
 [Character(name="char_2006_weiywfmzuki_1",name2="char_002_amiya_1#1",focus=1)]
-[name="魏文月"]   ......是炎熔小姐吗？
-[Decision(options="魏长官英明。;我是不是该吃惊一下？;......",values="1;2;3")]
+[name="魏文月"]   ……是炎熔小姐吗？
+[Decision(options="魏长官英明。;我是不是该吃惊一下？;……",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
@@ -862,7 +862,7 @@
 [Dialog]
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [name="近卫局成员"]   龙门市区内出现了无法识别的队伍。
-[name="近卫局成员"]   ......带着整合运动的标志。
+[name="近卫局成员"]   ……带着整合运动的标志。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -870,11 +870,11 @@
 [Background(image="bg_wild_a",screenadapt="coverall")]
 [Blocker(a=0, fadetime=2, block=true)]
 [PlaySound(key="$d_gen_walk_n")]
-[name="？？？"]   这个痕迹......
+[name="？？？"]   这个痕迹……
 [name="？？？"]   这么说来，他们潜进了城里。
 [Character(name="avg_npc_044_1#3")]
 [name="？？？"]   不，应该只有一个人，是他们中的某一个，和记载的一样。
-[name="？？？"]   ......算了。
+[name="？？？"]   ……算了。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Background(image="bg_black",xScale=1.3, yScale=1.3)]

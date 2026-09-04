@@ -62,13 +62,13 @@
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=1)]
 [name="Lancet-2"]  是的，在出发前，可露希尔为我录入了大量飞行器相关的知识。
 [name="Lancet-2"]  原本在成功迫降后，依靠维修工具应该是能完成维修的。
-[name="Lancet-2"]  但是......
+[name="Lancet-2"]  但是……
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  小刻，我让你把他拖过来，不是让你真的用拖的。
 [Character(name="char_187_ccheal_1#2", name2="char_2013_cerber_1",focus=2)]
 [name="刻俄柏"]  喔，对不起。
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=1)]
-[name="嘉维尔"]  ......看起来对面也没下死手，嗯？看不出来，这家伙内裤挺花哨......咳，估计躺半天就自己醒了。
+[name="嘉维尔"]  ……看起来对面也没下死手，嗯？看不出来，这家伙内裤挺花哨……咳，估计躺半天就自己醒了。
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=2)]
 [name="嘉维尔"]  然后，Lancet-2，你说什么但是？
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=1)]
@@ -89,7 +89,7 @@
 [name="Lancet-2"]  嗯，飞不起来了呢。
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  嗯？博士，你的脸色不太好。
-[Decision(options="这下麻烦了。;......;要被凯尔希杀了！",values="1;2;3")]
+[Decision(options="这下麻烦了。;……;要被凯尔希杀了！",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -114,7 +114,7 @@
 [Character(name="char_003_kalts_1", name2="char_187_ccheal_1", focus=1)]
 [name="凯尔希"]  我记得你说过，你是因为被排挤而离开的，那么选举酋长应当与你无关。
 [Character(name="char_003_kalts_1", name2="char_187_ccheal_1", focus=2)]
-[name="嘉维尔"]  是啊，我也不是回去做大酋长的，只是小姑娘好像很想让我回去的样子，我也有确实有一阵子没有回去了......
+[name="嘉维尔"]  是啊，我也不是回去做大酋长的，只是小姑娘好像很想让我回去的样子，我也有确实有一阵子没有回去了……
 [Character(name="char_003_kalts_1", name2="char_187_ccheal_1", focus=1)]
 [name="凯尔希"]  想家了？
 [Character(name="char_003_kalts_1", name2="char_187_ccheal_1", focus=2)]
@@ -135,13 +135,13 @@
 [name="凯尔希"]  那一片区域确实只在名义上属于萨尔贡的国土，功课做得不错。
 [name="凯尔希"]  那么，既然你们都计划好了，还来问我干什么？
 [Character(name="char_017_homura_3#10")]
-[name="煌"]  因、因为申请书要过您的手......
+[name="煌"]  因、因为申请书要过您的手……
 [Character(name="char_017_homura_3#10", name2="char_003_kalts_1#2", focus=2)]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [Character(name="char_003_kalts_1#2", name2="char_187_ccheal_1", focus=2)]
 [name="嘉维尔"]  行不行啊，凯尔希，不行就算了。
 [Character(name="char_017_homura_3#10")]
-[name="煌"]  （小声）博士，要不还是算了，凯尔希肯定不会同意的......
+[name="煌"]  （小声）博士，要不还是算了，凯尔希肯定不会同意的……
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"]  可以，我批准了。
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -171,7 +171,7 @@
 [name="嘉维尔"]  哦，这么一说，确实有这么一回事。
 [name="嘉维尔"]  哎，别紧张，博士，这里是我老家，我熟得很。Lancet-2，只要找到刚才那群崽子，把引擎抢回来就行了吧？
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1#5", focus=1)]
-[name="Lancet-2"]  嗯......对方似乎懂一些机械技术，引擎被拆卸的过程中没有对其他部分造成很大破坏。
+[name="Lancet-2"]  嗯……对方似乎懂一些机械技术，引擎被拆卸的过程中没有对其他部分造成很大破坏。
 [name="Lancet-2"]  如果能找到引擎的话，我应该能够指导各位把它装回去。
 [name="Lancet-2"]  以及，现在我需要做一些紧急维护防止它爆炸，大家请等我一下。
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1#2", focus=2)]
@@ -179,7 +179,7 @@
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1#2", focus=1)]
 [name="Lancet-2"]  虽说是懂机械，其实也只是学会了拔管道和插线而已啦。
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=2)]
-[name="嘉维尔"]  ......哦，不对，既然是她的手下......
+[name="嘉维尔"]  ……哦，不对，既然是她的手下……
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=2)]
 [name="刻俄柏"]  嘉维尔，我饿了！
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=2)]
@@ -192,12 +192,12 @@
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=2)]
 [name="刻俄柏"]  可是我现在好饿！
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=1)]
-[name="嘉维尔"]  好吧，那我们先......
+[name="嘉维尔"]  好吧，那我们先……
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [character]
 [name="？？？"]  嘉——维——尔——！
 [Character(name="char_187_ccheal_1#2")]
-[name="嘉维尔"]  嗯？这个声音......糟了。
+[name="嘉维尔"]  嗯？这个声音……糟了。
 [character]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="？？？"]  哇，是嘉维尔，真的是嘉维尔！
@@ -216,7 +216,7 @@
 [name="特米米"]  嘉维尔，你在外面吃得好吗？
 [name="特米米"]  你真的成为医生了吗？
 [Character(name="char_187_ccheal_1#2", name2="char_411_tomimi_1#3", focus=1)]
-[name="嘉维尔"]  ......唉，你怎么在这里，特米米？
+[name="嘉维尔"]  ……唉，你怎么在这里，特米米？
 [Character(name="char_187_ccheal_1#2", name2="char_411_tomimi_1#2", focus=2)]
 [name="特米米"]  那个，我看到天上有个东西掉下来，就过来看一看，结果就看到你了！
 [name="特米米"]  对了，你的病治好了吗？我看书上说外面对得了石头病的人很不好，你没事吧？
@@ -243,13 +243,13 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=1)]
 [name="嘉维尔"]  好吧，这样以后我就用萨尔贡语和你写信好了。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
-[name="特米米"]  ......嘉维尔，所以这些人都是谁？
+[name="特米米"]  ……嘉维尔，所以这些人都是谁？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  哦，这个人是Dr.{@nickname}，你可以叫博士，应该算作我的上司吧。
 [name="嘉维尔"]  其他人么，都算是我的同事了。
 [Character(name="char_411_tomimi_1")]
-[name="特米米"]  上司......难道你比嘉维尔还要厉害？
-[Decision(options="没有。;......;我比嘉维尔厉害多了！",values="1;2;3")]
+[name="特米米"]  上司……难道你比嘉维尔还要厉害？
+[Decision(options="没有。;……;我比嘉维尔厉害多了！",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_411_tomimi_1")]
 [name="特米米"]  那你为什么会是嘉维尔的上司呢？
@@ -265,7 +265,7 @@
 [name="嘉维尔"]  比起这个，特米米，我们飞行器在坠毁后引擎被抢了，是祖玛玛的人，她现在也有手下了？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="特米米"]  飞行器引擎是什么呀，和那些发动机什么的一样吗？等下......欸？祖玛玛？
+[name="特米米"]  飞行器引擎是什么呀，和那些发动机什么的一样吗？等下……欸？祖玛玛？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  怎么了？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
@@ -273,7 +273,7 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  喔——这么说的话，说不定把我们轰下来的也是他们呢，也只有那家伙会钻研各种奇奇怪怪的武器了。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
-[name="特米米"]  ......嗯，嗯！如果你要找祖玛玛的话，祭典明天就要开始了，所有想要竞争酋长的人都在向神庙聚集，祖玛玛一定也会去。
+[name="特米米"]  ……嗯，嗯！如果你要找祖玛玛的话，祭典明天就要开始了，所有想要竞争酋长的人都在向神庙聚集，祖玛玛一定也会去。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  也就是说去那里就能找到她吗，哈，好极了！
 [name="嘉维尔"]  而且你这丫头不也说想要竞争酋长，就让我看看你这几年有什么长进吧！
@@ -283,7 +283,7 @@
 [name="嘉维尔"]  嗯？你说什么？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  没、没什么！
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Character(name="char_285_medic2_1")]
 [name="Lancet-2"]  博士，紧急维护已经完成了，我们要出发了吗？
@@ -293,11 +293,11 @@
 [Character(name="char_411_tomimi_1", name2="char_285_medic2_1", focus=1)]
 [name="特米米"]  哇啊！机器说话了！
 [Character(name="char_411_tomimi_1", name2="char_285_medic2_1", focus=2)]
-[name="Lancet-2"]  虽然有过心理准备，但总是这样的反应还是稍微有些伤人呢，虽然我不是人......
+[name="Lancet-2"]  虽然有过心理准备，但总是这样的反应还是稍微有些伤人呢，虽然我不是人……
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=2)]
 [name="嘉维尔"]  现在飞行器不会爆炸了吧？
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=1)]
-[name="Lancet-2"]  嗯，但是就这样把它晾在这里也不是办法呢......
+[name="Lancet-2"]  嗯，但是就这样把它晾在这里也不是办法呢……
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=2)]
 [name="嘉维尔"]  这倒也是，我可不想被凯尔希瞪眼。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
@@ -307,7 +307,7 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  嗯！其实就是嘉维尔以前的部族哦。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
-[name="嘉维尔"]  哦，难怪我看到几个熟面孔......
+[name="嘉维尔"]  哦，难怪我看到几个熟面孔……
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  对了，嘉维尔，现在部族改名了哦，从“荒野意志”改名叫“嘉维尔意志”！
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
@@ -334,7 +334,7 @@
 [name="嘉维尔"]  好吧，既然这样，那就只有我和博士还有小刻去祭典了。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=2)]
 [name="特米米"]  还有我！我也带一些小弟和你一起！
-[Decision(options="出发！;......;小刻呢？",values="1;2;3")]
+[Decision(options="出发！;……;小刻呢？",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_285_medic2_1")]
 [name="Lancet-2"]  等一等，博士，小刻呢？
@@ -368,7 +368,7 @@
 [Background(image="bg_desert_2",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1", focus=1)]
-[name="Lancet-2"]  小刻一个人在那里和空气战斗的样子......唔，这难道是中毒导致的错觉？
+[name="Lancet-2"]  小刻一个人在那里和空气战斗的样子……唔，这难道是中毒导致的错觉？
 [Character(name="char_285_medic2_1", name2="char_187_ccheal_1#2", focus=2)]
 [name="嘉维尔"]  哦！完蛋！忘记说了！这一带路边有不少野生的蘑菇和果实，里面大半是不能吃的，吃了就会变成那样。
 [name="嘉维尔"]  忘了这孩子比我还野，大概是趁我们聊天的时候出去转了一圈吃掉的吧。

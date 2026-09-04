@@ -52,15 +52,15 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_411_1#4$1")]
-[name="可露希尔"]这......这都什么玩意儿啊，这根本不是普通炮弹！
+[name="可露希尔"]这……这都什么玩意儿啊，这根本不是普通炮弹！
 [name="可露希尔"]卡兹戴尔也有什么我没听说过的高等研究院吗？
-[name="可露希尔"]在这么短的时间内......曼弗雷德是怎么做到的？
+[name="可露希尔"]在这么短的时间内……曼弗雷德是怎么做到的？
 [Dialog]
 [Character(name="avg_npc_411_1#4$1",focus=-1)]
 [Decision(options="无人机找到操控区域了吗？;集中注意力。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_411_1#5$1")]
-[name="可露希尔"]操控区域......操控区域......糟了啊博士，这炮弹附带的源石技艺对我的无人机有干扰。
+[name="可露希尔"]操控区域……操控区域……糟了啊博士，这炮弹附带的源石技艺对我的无人机有干扰。
 [Character(name="avg_npc_411_1#4$1")]
 [name="可露希尔"]我说过了，伦蒂尼姆的系统容易破解，但萨卡兹的巫术很难搞定啊！
 [Dialog]
@@ -77,7 +77,7 @@
 [Character(name="avg_npc_411_1#6$1",name2="avg_4072_ironmn_1#4$1",focus=2)]
 [name="费斯特"]可露希尔小姐，这些自行源石炮都是我们工厂组装的。
 [Character(name="avg_npc_411_1#6$1",name2="avg_4072_ironmn_1#4$1",focus=1)]
-[name="可露希尔"]那......你该不会是准备现场拆了它吧？
+[name="可露希尔"]那……你该不会是准备现场拆了它吧？
 [Character(name="avg_npc_411_1#6$1",name2="avg_4072_ironmn_1#5$1",focus=2)]
 [name="费斯特"]哈哈，可露希尔小姐，要是我们工程小组都是血魔的话，说不定可以试试。
 [Character(name="avg_npc_411_1#6$1",name2="avg_4072_ironmn_1#1$1",focus=2)]
@@ -87,11 +87,11 @@
 [Character(name="avg_npc_411_1#6$1",name2="avg_4072_ironmn_1#4$1",focus=2)]
 [name="费斯特"]说到底，这就是我们工程人员能在战场上发挥的最大作用，不是吗？
 [Character(name="avg_npc_411_1#6$1",name2="avg_4072_ironmn_1#4$1",focus=1)]
-[name="可露希尔"]这滑索......你准备爬到它背上去？
+[name="可露希尔"]这滑索……你准备爬到它背上去？
 [Character(name="avg_npc_411_1#6$1",name2="avg_4072_ironmn_1#4$1",focus=2)]
 [name="费斯特"]只要控制住它的炮口，无人机就能照常工作，没错吧？
 [Character(name="avg_npc_411_1#12$1",name2="avg_4072_ironmn_1#4$1",focus=1)]
-[name="可露希尔"]理论上是这样，可这也太冒险了......
+[name="可露希尔"]理论上是这样，可这也太冒险了……
 [Character(name="avg_npc_411_1#12$1",name2="avg_4072_ironmn_1#2$1",focus=2)]
 [name="费斯特"]这是我们之间的合作，可露希尔小姐。
 [Character(name="avg_npc_411_1#12$1",name2="avg_4072_ironmn_1#4$1",focus=2)]
@@ -109,7 +109,7 @@
 他会用自己的方式把属于他们的城市夺回来。
 [Dialog]
 [Character(name="avg_4072_ironmn_1#4$1")]
-[name="费斯特"]呼......我一直很想看看这片战场上空的风景，这不正是个好机会吗？
+[name="费斯特"]呼……我一直很想看看这片战场上空的风景，这不正是个好机会吗？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -179,7 +179,7 @@
 [Character(name="avg_npc_650_1#1$1")]
 [name="Logos"]你操控的每一滴血液中都蕴藏着你的巫术。
 [Character(name="avg_npc_410_1#1$1")]
-[name="血魔大君"]呵呵......女妖的咒术。
+[name="血魔大君"]呵呵……女妖的咒术。
 [Character(name="avg_npc_410_1#5$1")]
 [name="血魔大君"]是从什么时候开始，女妖变成你这副死板无趣的模样的？
 [name="血魔大君"]我还记得，它们过去是如何披着夜色滑翔，一声声地吹响骨哨——
@@ -194,12 +194,12 @@
 [name="Logos"]岁月不容抗拒地冲刷着大地，也塑造着大地上的生命。
 [name="Logos"]为何不低头看看你自己？你也早就失去了最初的形貌。
 [Character(name="avg_npc_410_1#1$1")]
-[name="血魔大君"]呵......我又何必在意一副皮囊？
+[name="血魔大君"]呵……我又何必在意一副皮囊？
 [Character(name="avg_npc_650_1#1$1")]
 [name="Logos"]这副皮囊，却和我的法袍一样，是我们如今行走大地的真实模样。
 [name="Logos"]古老王庭的根须早已朽烂，如今的王庭徒具树冠，却依旧不肯坠向地面。
 [Character(name="avg_npc_650_1#2$1")]
-[name="Logos"]多么荒诞......已死之物仍在从本就贫瘠的土地上攫取养分，从而夺去了所有新生的可能。
+[name="Logos"]多么荒诞……已死之物仍在从本就贫瘠的土地上攫取养分，从而夺去了所有新生的可能。
 [Character(name="avg_npc_410_1#9$1")]
 [name="血魔大君"]这才是你的真实目的吗？
 [Dialog]
@@ -213,8 +213,8 @@
 [Character(name="avg_npc_394_1#12$1")]
 [name="阿米娅"]干员们，防御！
 [Character(name="avg_npc_404_1#8$1")]
-[name="曼弗雷德"]......
-[name="曼弗雷德"]下方战场......
+[name="曼弗雷德"]……
+[name="曼弗雷德"]下方战场……
 [Dialog]
 [Character]
 他突然意识到自己已在这里停留太久。这座城防军指挥塔的弱点并不只有莱托一个。
@@ -222,7 +222,7 @@
 这才是罗德岛的计划，他们并没有把握在指挥塔上迅速击败他和血魔，他们只是想拖延时间。
 [Dialog]
 [Character(name="avg_npc_404_1#2$1")]
-[name="曼弗雷德"]我必须......
+[name="曼弗雷德"]我必须……
 [Character(name="avg_npc_395_1#6$1")]
 [name="阿斯卡纶"]太迟了。
 [Dialog]
@@ -238,15 +238,15 @@
 [Blocker(a=0, fadetime=0.3, block=false)]
 [PlaySound(key="$swordtsing2", volume=1)]
 [delay(time=0.2)]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [Dialog]
 [Character]
 是的，太迟了。他可以用一条胳膊来摆脱阿斯卡纶的纠缠，但真正拦住他的是眼前的血海。
 血魔已经被激怒了。他们被一齐困在了这片战场上。
 [Dialog]
 [Character(name="avg_npc_410_1#6$1")]
-[name="血魔大君"]......女妖。
-[name="血魔大君"]你竟想毁去王庭......毁去萨卡兹的传承本身？
+[name="血魔大君"]……女妖。
+[name="血魔大君"]你竟想毁去王庭……毁去萨卡兹的传承本身？
 [Dialog]
 [stopmusic(fadetime=3)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -332,24 +332,24 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_npc_411_1#5$1")]
-[name="可露希尔"]博士，指挥塔......
+[name="可露希尔"]博士，指挥塔……
 [Dialog]
 [Character(name="avg_npc_411_1#5$1",focus=-1)]
 [Decision(options="战况很激烈。;我相信阿米娅、Logos还有阿斯卡纶。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_411_1#5$1")]
-[name="可露希尔"]呼......他们真的拖住了那可怕的家伙......
+[name="可露希尔"]呼……他们真的拖住了那可怕的家伙……
 [Character(name="avg_npc_411_1#1$1")]
 [name="可露希尔"]博士，无人机成功抵达操控区域。
-[name="可露希尔"]现在开始骇入......
+[name="可露希尔"]现在开始骇入……
 [Dialog]
 [Character(name="avg_npc_411_1#1$1",focus=-1)]
 [Decision(options="预计需要多久？;请告诉我还需要多少时间。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_411_1#11$1")]
-[name="可露希尔"]半个小时......不，二十分钟。
+[name="可露希尔"]半个小时……不，二十分钟。
 [Character(name="avg_npc_411_1#4$1")]
-[name="可露希尔"]博士，我知道阿米娅他们还有自救军的各位都很不容易......相信我，我恨不得自己能多长几只手！
+[name="可露希尔"]博士，我知道阿米娅他们还有自救军的各位都很不容易……相信我，我恨不得自己能多长几只手！
 [Dialog]
 [Character]
 [Delay(time=0.2)]
@@ -364,7 +364,7 @@
 [Character(name="avg_4040_rockr_1#10$1",name2="avg_npc_401_1#6$1",focus=1)]
 [name="洛洛"]自行炮顶上的战士们被攻击了！
 [Character(name="avg_npc_398_1#1$1")]
-[multiline(name="自救军战士")]有敌人在远处......
+[multiline(name="自救军战士")]有敌人在远处……
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.1, block=true)]
 [playsound(key="$e_atk_magic_n", volume=1)]
 [playsound(key="$e_atk_magic_m", volume=1)]
@@ -378,7 +378,7 @@
 [Character(fadetime=0.5)]
 [delay(time=1)]
 [Character(name="avg_4040_rockr_1#3$1",name2="avg_npc_401_1#6$1",focus=1)]
-[name="洛洛"]......是萨卡兹！
+[name="洛洛"]……是萨卡兹！
 [Dialog]
 [character(fadetime=0)]
 [Character(name="avg_npc_425_1#1$1",name2="avg_npc_425_1#1$1",fadetime=1,block=true)]
@@ -387,9 +387,9 @@
 [Dialog]
 [Character(name="avg_4040_rockr_1#10$1",name2="avg_npc_401_1#6$1",focus=-1)]
 [name="自救军战士"]这群萨卡兹用的不知道是什么法术！
-[name="自救军战士"]突然就......喘不过气......我......
+[name="自救军战士"]突然就……喘不过气……我……
 [Character(name="avg_4040_rockr_1#10$1",name2="avg_npc_401_1#6$1",focus=2)]
-[name="克洛维希娅"]......是赦罪师的巫术。这些萨卡兹是赦罪师的卫兵。
+[name="克洛维希娅"]……是赦罪师的巫术。这些萨卡兹是赦罪师的卫兵。
 [name="克洛维希娅"]医疗法术也来不及挽救被这样的巫术急速消耗的生命。
 [name="克洛维希娅"]让费斯特带着战士们撤离自行炮附近。
 [Character(name="avg_4040_rockr_1#4$1",name2="avg_npc_401_1#6$1",focus=1)]
@@ -397,7 +397,7 @@
 [Character(name="avg_4040_rockr_1#4$1",name2="avg_npc_401_1#8$1",focus=2)]
 [name="克洛维希娅"]战士们的生命是非常珍贵的。
 [Character(name="avg_4040_rockr_1#4$1",name2="avg_npc_401_1#1$1",focus=2)]
-[name="克洛维希娅"]失控的武器......我会去摧毁。
+[name="克洛维希娅"]失控的武器……我会去摧毁。
 [Dialog]
 [Character]
 [Delay(time=0.2)]
@@ -407,21 +407,21 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_398_1#1$1")]
-[name="自救军战士"]呼......呼......指挥官，我舒服多了......
+[name="自救军战士"]呼……呼……指挥官，我舒服多了……
 [Character(name="avg_4040_rockr_1#5$1",name2="avg_npc_401_1#6$1",focus=2)]
-[name="克洛维希娅"]......
+[name="克洛维希娅"]……
 [Character(name="avg_4040_rockr_1#5$1",name2="avg_npc_401_1#6$1",focus=1)]
-[name="洛洛"]指挥官，这是您......您的法术？
+[name="洛洛"]指挥官，这是您……您的法术？
 [Character(name="avg_4040_rockr_1#5$1",name2="avg_npc_401_1#6$1",focus=2)]
-[name="克洛维希娅"]......不是。
+[name="克洛维希娅"]……不是。
 [Character(name="avg_4040_rockr_1#5$1",name2="avg_npc_401_1#8$1",focus=2)]
-[name="克洛维希娅"]这光辉......是流动的。
+[name="克洛维希娅"]这光辉……是流动的。
 [Character(name="avg_4040_rockr_1#5$1",name2="avg_npc_401_1#1$1",focus=2)]
-[name="克洛维希娅"]比起我的......嗯，它更有温度。
+[name="克洛维希娅"]比起我的……嗯，它更有温度。
 [Character(name="avg_npc_398_1#1$1")]
 [name="自救军战士"]快、快看！那个突然出现在赦罪师卫兵身后的人是谁？
-[name="自救军战士"]白色的角，黑色的长袍，那也是......赦罪师？
-[name="自救军战士"]那个赦罪师在......跟其他萨卡兹作战！
+[name="自救军战士"]白色的角，黑色的长袍，那也是……赦罪师？
+[name="自救军战士"]那个赦罪师在……跟其他萨卡兹作战！
 [Character(name="avg_npc_411_1#5$1")]
 [name="可露希尔"]博士，那是——那是闪灵！
 [name="可露希尔"]是你叫闪灵来的吗？
@@ -431,23 +431,23 @@
 [Predicate(references="1;2")]
 [Character(name="avg_npc_411_1#5$1")]
 [name="可露希尔"]虽然早就知道闪灵很厉害，但这还是我第一次见到她在战场上的样子。
-[name="可露希尔"]怎么说呢，很......很......
+[name="可露希尔"]怎么说呢，很……很……
 [Character(name="avg_npc_411_1#1$1")]
 [name="可露希尔"]我可能明白她为什么不那么愿意战斗了。
 [Dialog]
 [character(fadetime=0)]
 [Character(name="char_147_shining_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="闪灵"]......
+[name="闪灵"]……
 [Character(name="avg_npc_425_1#1$1")]
-[name="赦罪师直属卫兵"]......赦罪师大人。
+[name="赦罪师直属卫兵"]……赦罪师大人。
 [name="赦罪师直属卫兵"]您还是来到了这片战场上。您又一次违背了首领的意志。
 [Character(name="char_147_shining_1")]
 [name="闪灵"]假如我的行动依旧要受他辖制，那我的离开岂不是失去了意义？
 [Character(name="avg_npc_425_1#1$1")]
 [name="赦罪师直属卫兵"]您就这么痛恨首领？
 [Character(name="char_147_shining_1")]
-[name="闪灵"]......
+[name="闪灵"]……
 [name="闪灵"]不。
 [name="闪灵"]我痛恨的从来不是他。我痛恨的是我自己。
 [Dialog]
@@ -498,8 +498,8 @@
 笼罩着指挥塔的血潮终于退去了些许。
 [Dialog]
 [Character(name="avg_npc_410_1#9$1")]
-[name="血魔大君"]......呵。
-[name="血魔大君"]你的剑......还不错。
+[name="血魔大君"]……呵。
+[name="血魔大君"]你的剑……还不错。
 [Character(name="avg_npc_404_1#2$1")]
 [name="曼弗雷德"]大君，我们该速战速决。
 [Character(name="avg_npc_410_1#6$1")]
@@ -524,7 +524,7 @@
 阿斯卡纶的袖剑如影随形，他知道对方不会让自己轻易脱身。
 [Dialog]
 [Character(name="avg_npc_404_1#2$1")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [Dialog]
 [Character(name="avg_npc_404_1#2$1")]
 [delay(time=1)]
@@ -541,14 +541,14 @@
 赤色雷光在指挥塔上方的云层一闪而过。
 [Dialog]
 [Character(name="avg_npc_395_1#4$1")]
-[name="阿斯卡纶"]这是......提卡兹之根。
+[name="阿斯卡纶"]这是……提卡兹之根。
 [Character(name="avg_npc_404_1#6$1")]
 [name="曼弗雷德"]你当然认得它，就像我认得你的袖剑一样。
 [Character(name="avg_npc_395_1#6$1")]
-[name="阿斯卡纶"]......信号。你在通知他。
+[name="阿斯卡纶"]……信号。你在通知他。
 [name="阿斯卡纶"]阿米娅，我们没有多少时间了。
 [character(name="avg_npc_394_1#19$1")]
-[name="阿米娅"]嗯，只要带走莱托......
+[name="阿米娅"]嗯，只要带走莱托……
 [Dialog]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0.2, r=1, g=0, b=0, fadetime=0.2, block=true)]
@@ -560,18 +560,18 @@
 [Character(name="avg_npc_650_1#1$1")]
 [name="Logos"]小心防御。血魔的力量远不止于此。
 [Character(name="avg_npc_410_1#1$1")]
-[name="血魔大君"]呵......又浪费了很多血。
+[name="血魔大君"]呵……又浪费了很多血。
 [Dialog]
 [character]
 刚才的战斗远远无法让血魔尽兴。
 他看向躲在一旁的维多利亚士兵们。
 [Dialog]
 [Character(name="avg_npc_649_1#3$1",name2="avg_npc_410_1#1$1",focus=1)]
-[name="莱托中校"]唔......！你......不能......
+[name="莱托中校"]唔……！你……不能……
 [Character(name="avg_npc_649_1#3$1",name2="avg_npc_410_1#1$1",focus=2)]
 [name="血魔大君"]没有关系的，莱托。很快就连你的命都不必留下了。
 [Character(name="avg_npc_408_1#1$1")]
-[name="维多利亚士兵"]中校......中校！
+[name="维多利亚士兵"]中校……中校！
 [Dialog]
 [PlaySound(key="$d_avg_tear", volume=0.7)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -583,7 +583,7 @@
 他们受到了血魔大君的赐福。
 [Dialog]
 [Character(name="avg_npc_395_1#3$1")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [Dialog]
 [PlaySound(key="$knifegore", volume=1)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.04, block=true)]
@@ -599,7 +599,7 @@
 [name="血魔大君"]血液不会因为生命的消逝而干涸，只会随着你徒劳的动作而更快地奔涌。
 [stopmusic(fadetime=2)]
 [Character(name="avg_npc_649_1#6$1")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [Dialog]
 [character(fadetime=0.5)]
 [delay(time=1)]
@@ -611,14 +611,14 @@
 他们只是跟着他走到这里，跟着他走向悬崖。
 [Dialog]
 [Character(name="avg_npc_649_1#6$1")]
-[name="莱托中校"]呼......
+[name="莱托中校"]呼……
 [Dialog]
 [character]
 他知道自己不该动的。只要他躲在后面，血魔和曼弗雷德就不会急着杀死他。
 可他还是想要抓住那些快要下坠的士兵。
 [Dialog]
 [Character(name="avg_npc_649_1#5$1",name2="char_empty",focus=1)]
-[name="莱托中校"]唔呃......
+[name="莱托中校"]唔呃……
 [Dialog]
 [Character(name="avg_npc_649_1#5$1",name2="char_empty")]
 [delay(time=0.5)]
@@ -638,37 +638,37 @@
 [Blocker(a=0.8, r=1, g=1, b=1, fadetime=0.1, block=true)]
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="莱托中校"]黑色......能量束......哈......
+[name="莱托中校"]黑色……能量束……哈……
 [Character(name="avg_npc_649_1#5$1",name2="avg_npc_394_1#2$1",fadetime=0.5,block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_649_1#5$1",name2="avg_npc_394_1#2$1",focus=2)]
-[name="阿米娅"]......莱托中校。
-[name="阿米娅"]从你的眼睛里......我感受到了痛苦。
+[name="阿米娅"]……莱托中校。
+[name="阿米娅"]从你的眼睛里……我感受到了痛苦。
 [name="阿米娅"]你认为自己是高卢人。你爱着那个已经逝去的庞大幻影，想要拼命抓住它，把它带回来。
-[name="阿米娅"]可是......
+[name="阿米娅"]可是……
 [Character(name="avg_npc_649_1#5$1",name2="avg_npc_394_1#11$1",focus=2)]
-[name="阿米娅"]你真的相信萨卡兹许下的诺言吗？你真的相信......重建高卢的梦想能够实现吗？
+[name="阿米娅"]你真的相信萨卡兹许下的诺言吗？你真的相信……重建高卢的梦想能够实现吗？
 [Character(name="avg_npc_649_1#6$1",name2="avg_npc_394_1#11$1",focus=1)]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [Character(name="avg_npc_649_1#6$1",name2="avg_npc_394_1#11$1",focus=2)]
 [name="阿米娅"]你很恐惧，中校。
-[name="阿米娅"]你假装自己仍有希望......只是因为你不愿意面对自己想要逃避战争的懦弱。
+[name="阿米娅"]你假装自己仍有希望……只是因为你不愿意面对自己想要逃避战争的懦弱。
 [name="阿米娅"]你逼迫自己相信，这一切牺牲与付出都是为了高卢。
-[name="阿米娅"]可是你......忘不了那些受你欺骗、被你引向死亡的士兵的眼神。
+[name="阿米娅"]可是你……忘不了那些受你欺骗、被你引向死亡的士兵的眼神。
 [Character(name="avg_npc_649_1#5$1",name2="avg_npc_394_1#11$1",focus=1)]
-[name="莱托中校"]你是......他们口中那个......幼小的魔王。
+[name="莱托中校"]你是……他们口中那个……幼小的魔王。
 [Character(name="avg_npc_649_1#5$1",name2="avg_npc_394_1#17$1",focus=2)]
-[name="阿米娅"]......嗯。
+[name="阿米娅"]……嗯。
 [Character(name="avg_npc_649_1#5$1",name2="avg_npc_394_1#17$1",focus=1)]
 [name="莱托中校"]我是你的敌人。
 [Character(name="avg_npc_649_1#5$1",name2="avg_npc_394_1#17$1",focus=2)]
 [name="阿米娅"]是的。
 [Character(name="avg_npc_649_1#6$1",name2="avg_npc_394_1#17$1",focus=1)]
-[name="莱托中校"]可你现在......拉住了我。你不想看见我就这样死去。
-[multiline(name="莱托中校")]他们叫你魔王，而我看见的......
+[name="莱托中校"]可你现在……拉住了我。你不想看见我就这样死去。
+[multiline(name="莱托中校")]他们叫你魔王，而我看见的……
 [multiline(name="莱托中校")]只是一个温柔的孩子啊。
 [Character(name="avg_npc_649_1#6$1",name2="avg_npc_394_1#7$1",focus=2)]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Character(name="avg_npc_394_1#11$1")]
 [CameraShake(duration=0.2, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="阿米娅"]唔——！
@@ -684,7 +684,7 @@
 有一个声音正在呼唤她，轻柔得就像雪白的刚刚晒过的羽被。
 阿米娅猛地抬起头。
 头顶的天空砸向她，浓厚的阴云向她涌过来，从头到脚吞没了她。
-......宛如一个紧到窒息的拥抱。
+……宛如一个紧到窒息的拥抱。
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -698,20 +698,20 @@
 [Character(name="avg_npc_411_1#8$1",name2="avg_4072_ironmn_1#4$1",focus=2)]
 [name="费斯特"]博士，指挥官，我们重新控制住了自行炮！
 [Character(name="avg_npc_411_1#1$1",name2="avg_4072_ironmn_1#4$1",focus=1)]
-[name="可露希尔"]十分钟......再给我十分钟，我就能全部搞定了。
+[name="可露希尔"]十分钟……再给我十分钟，我就能全部搞定了。
 [Character(name="avg_npc_411_1#7$1",name2="avg_4072_ironmn_1#4$1",focus=1)]
-[name="可露希尔"]呼......博士，这几天以来第一次，我觉得我们搞不好真的能赢。
+[name="可露希尔"]呼……博士，这几天以来第一次，我觉得我们搞不好真的能赢。
 [Character(name="avg_npc_411_1#7$1",name2="avg_4072_ironmn_1#8$1",focus=2)]
-[name="费斯特"]......可露希尔小姐。
+[name="费斯特"]……可露希尔小姐。
 [Character(name="avg_npc_411_1#7$1",name2="avg_4072_ironmn_1#8$1",focus=1)]
 [name="可露希尔"]怎么啦？
 [Character(name="avg_npc_411_1#7$1",name2="avg_4072_ironmn_1#8$1",focus=2)]
 [name="费斯特"]我真希望你没说刚刚那句话。
 [Character(name="avg_npc_411_1#5$1",name2="avg_4072_ironmn_1#8$1",focus=1)]
-[name="可露希尔"]你是怀疑我说出来了就会......就会......哇哇哇博士，什么情况，我的侦察无人机一下子就全部开始疯狂发出警报了！
+[name="可露希尔"]你是怀疑我说出来了就会……就会……哇哇哇博士，什么情况，我的侦察无人机一下子就全部开始疯狂发出警报了！
 [Dialog]
 [Character(name="avg_npc_411_1#5$1",name2="avg_4072_ironmn_1#8$1",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_411_1#5$1",name2="avg_4072_ironmn_1#8$1",focus=1)]
 [name="可露希尔"]你不要不说话啊，你不说话我真的很怕！
@@ -728,12 +728,12 @@
 [Decision(options="凯尔希。;凯尔希回来了。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_411_1#5$1",name2="avg_4072_ironmn_1#7$1",focus=2)]
-[name="费斯特"]......
+[name="费斯特"]……
 [Character(name="avg_npc_411_1#5$1",name2="avg_4072_ironmn_1#7$1",focus=1)]
-[name="可露希尔"]凯尔希不是在帮我们拖延......呃......
-[name="可露希尔"]博士，你该不会是想说......食腐者的大军提前回来了？
+[name="可露希尔"]凯尔希不是在帮我们拖延……呃……
+[name="可露希尔"]博士，你该不会是想说……食腐者的大军提前回来了？
 [Character(name="avg_npc_411_1#11$1",name2="avg_4072_ironmn_1#7$1",focus=1)]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [Dialog]
 [character(fadetime=0.5)]
 [delay(time=1.5)]

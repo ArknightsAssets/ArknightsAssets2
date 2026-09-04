@@ -16,7 +16,7 @@
 [delay(time=0.5)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1210_1#10$1")]
-[name="马特奥"]......居然真的是这老家伙。
+[name="马特奥"]……居然真的是这老家伙。
 [charslot(slot = "m", name = "avg_npc_1273_1#1$1")]
 [name="暴躁的军人"]他抵抗得很厉害，打伤了一个人，但我们也没客气，让他出了点血。
 [charslot(slot = "m", name = "avg_npc_1210_1#1$1")]
@@ -26,15 +26,15 @@
 [charslot(slot = "m", name = "avg_npc_1210_1#1$1")]
 [name="马特奥"]怎么了？
 [charslot(slot = "m", name = "avg_npc_1273_1#1$1")]
-[name="暴躁的军人"]上尉，这老家伙都已经上到六楼了，说明他们的人一定不少，我们可能......没法......
+[name="暴躁的军人"]上尉，这老家伙都已经上到六楼了，说明他们的人一定不少，我们可能……没法……
 [charslot(slot = "m", name = "avg_npc_1210_1#5$1")]
 [name="马特奥"]没法？没法什么？告诉你们，如果这一票干不成，我们全都要万劫不复！
 [charslot(slot = "m", name = "avg_npc_1273_1#1$1")]
-[name="暴躁的军人"]还有就是，这个老家伙到底是在做什么，墙里面都是线......
+[name="暴躁的军人"]还有就是，这个老家伙到底是在做什么，墙里面都是线……
 [charslot(slot = "m", name = "avg_npc_1210_1#7$1")]
 [name="马特奥"]不要多问，做好你自己的事情。
 [charslot(slot = "m", name = "avg_npc_1273_1#1$1")]
-[name="暴躁的军人"]是......
+[name="暴躁的军人"]是……
 [charslot(slot = "m", name = "avg_npc_1210_1#1$1")]
 [name="马特奥"]说说吧，迪亚兹，是什么风把你和你的手下吹到艺术馆来的？
 [charslot(slot = "m", name = "avg_npc_1214_1#7$1")]
@@ -54,13 +54,13 @@
 [charslot]
 [charslot(slot = "r", name = "avg_npc_1211_1#8$1", focus="n")]
 [charslot(slot = "l", name = "avg_npc_1210_1#7$1", focus="l")]
-[name="马特奥"]炸弹......炸弹......雷内尔，你那个炸弹到底什么时候爆炸？把起爆时间告诉我。
+[name="马特奥"]炸弹……炸弹……雷内尔，你那个炸弹到底什么时候爆炸？把起爆时间告诉我。
 [charslot(slot = "r", name = "avg_npc_1211_1#8$1", focus="r")]
-[name="雷内尔"]......
+[name="雷内尔"]……
 [charslot(slot = "l", name = "avg_npc_1210_1#7$1", focus="l")]
 [name="马特奥"]我让你告诉我炸弹起爆的时间，雷内尔。
 [charslot(slot = "r", name = "avg_npc_1211_1#8$1", focus="r")]
-[name="雷内尔"]......
+[name="雷内尔"]……
 [charslot(slot = "l", name = "avg_npc_1210_1#5$1", focus="l")]
 [name="马特奥"]说话！你是哑巴了吗？！
 [dialog]
@@ -75,7 +75,7 @@
 [name="迪亚兹"]十点钟。
 [name="迪亚兹"]收敛点，马特奥，想想之后该怎么办，起爆时间已经很近了。
 [charslot(slot = "m", name = "avg_npc_1210_1#7$1")]
-[name="马特奥"]......
+[name="马特奥"]……
 [charslot(slot = "m", name = "avg_npc_1214_1#1$1")]
 [name="迪亚兹"]如果你还保有一点理性，就把我手上的束缚解开。
 [name="迪亚兹"]楼里总共有四个炸弹节点，其中三个已经在我们的控制之下，马上就拆除成功，只差雷内尔办公室通风井里的那个了。
@@ -134,7 +134,7 @@
 [delay(time=2)]
 [StopSound(channel="b", fadetime=2)]
 [charslot(slot = "m", name = "avg_4123_ela_1#6$1")]
-[name="艾拉"]......该死！
+[name="艾拉"]……该死！
 [dialog]
 [PlaySound(key="$d_avg_explosion_stone")]
 [PlaySound(key="$d_avg_collapse", volume=1)]
@@ -148,7 +148,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4123_ela_1#3$1")]
-[name="艾拉"]咳、咳......
+[name="艾拉"]咳、咳……
 [dialog]
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [delay(time=2)]
@@ -163,7 +163,7 @@
 [charslot(slot = "m", focus="n")]
 艾拉下了几级台阶，话还没说完，将楼梯堵得严严实实的碎石和瓦砾已经映入眼帘。
 [charslot(slot = "m", name = "avg_4123_ela_1#7$1")]
-[name="艾拉"]......
+[name="艾拉"]……
 [charslot(slot = "m", focus="n")]
 [name="导火索"]又发生什么了？到底什么情况？
 [charslot(slot = "m", name = "avg_4123_ela_1#3$1")]
@@ -171,7 +171,7 @@
 [charslot(slot = "m", name = "avg_4123_ela_1#1$1")]
 [name="艾拉"]考虑到雷内尔这个混蛋在克里斯达尔艺术馆上层只设计了一座楼梯，电梯现在又不运行，我和你们被彻底隔断了。
 [charslot(slot = "m", focus="n")]
-[name="双月"]我和医生也已抵达坍塌点位——天啊，这......
+[name="双月"]我和医生也已抵达坍塌点位——天啊，这……
 [name="导火索"]先考虑解决方案。堵塞楼梯间的杂物能靠手头工具清理吗？
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1, loop=true, channel="w")]
@@ -179,11 +179,11 @@
 [charslot(slot = "m", posfrom="0,0", posto="-50,0", duration=1, isblock=true)]
 艾拉试探着推了推面前巨大的混凝土块。
 [charslot(slot = "m", name = "avg_4123_ela_1#1$1")]
-[name="艾拉"]......很难。
+[name="艾拉"]……很难。
 [charslot(slot = "m", focus="n")]
 [name="导火索"]我马上到，等着我。特克诺和米沃什也在路上，我们肯定能找到清除障碍的办法。
 [charslot(slot = "m", name = "avg_4123_ela_1#6$1")]
-[name="艾拉"]但现在是......九点三十五分。我们没时间了。
+[name="艾拉"]但现在是……九点三十五分。我们没时间了。
 [name="艾拉"]我先向楼上突破，你们清除障碍后立刻跟上。如果障碍实在无法及时清理，我至少会想办法带着迪亚兹安全离开。
 [charslot(slot = "m", focus="n")]
 [name="双月"]等等，艾拉，这太冒险了！
@@ -197,7 +197,7 @@
 [name="艾拉"]当然。我信任你们，也信任我自己。
 [dialog]
 [charslot(slot = "m", focus="n")]
-[name="导火索"]......
+[name="导火索"]……
 [name="导火索"]我没意见。
 [charslot(slot = "m", name = "avg_4123_ela_1#1$1")]
 [name="艾拉"]双月，医生？
@@ -227,9 +227,9 @@
 [charslot(slot = "l", name = "avg_npc_1272_1#1$1", focus="l")]
 [name="痛苦的军人"]真是受够这个鬼地方了，第一次来就是爬楼梯，现在是最后一次了，还是爬楼梯。
 [charslot(slot = "r", name = "avg_npc_1273_1#1$1", focus="r")]
-[name="暴躁的军人"]......受够了就快点。
+[name="暴躁的军人"]……受够了就快点。
 [charslot(slot = "l", name = "avg_npc_1272_1#1$1", focus="l")]
-[name="痛苦的军人"]还有，刚才那阵震动和响声是怎么回事......我觉得整栋楼都跟着震了。
+[name="痛苦的军人"]还有，刚才那阵震动和响声是怎么回事……我觉得整栋楼都跟着震了。
 [charslot(slot = "r", name = "avg_npc_1273_1#1$1", focus="r")]
 [name="暴躁的军人"]别胡思乱想了，赶紧下楼——
 [dialog]
@@ -253,7 +253,7 @@
 [name="暴躁的军人"]别挡路，雷内尔的保镖，我们赶时间。
 [charslot]
 [charslot(slot = "m", name = "avg_4123_ela_1#1$1")]
-[name="艾拉"]......那真是巧了，我也一样。
+[name="艾拉"]……那真是巧了，我也一样。
 [charslot]
 [charslot(slot = "r", name = "avg_npc_1273_1#1$1", focus="n")]
 [charslot(slot = "l", name = "avg_npc_1272_1#1$1", focus="l")]
@@ -298,22 +298,22 @@
 [charslot(slot = "m", focus="n")]
 [name="马特奥"]终于有一个人能接通了！快给我报告现在的情况！
 [charslot(slot = "r", name = "avg_npc_1273_1#1$1", focus="r")]
-[name="暴躁的军人"]......
+[name="暴躁的军人"]……
 [charslot(slot = "m", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_npc_1210_1#7$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-250, width=200, block=true)]
 [name="马特奥"]*粗口*，今天所有人都哑巴了吗？！
 [charslot(slot = "r", name = "avg_npc_1273_1#1$1", focus="r")]
-[name="暴躁的军人"]上尉......艺术馆里有炸药，你是不是......早就知道了？
+[name="暴躁的军人"]上尉……艺术馆里有炸药，你是不是……早就知道了？
 [charslot(slot = "m", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_npc_1210_1#5$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-250, width=200, block=true)]
 [name="马特奥"]不比你早多少！先给我通报情况，炸药我们总有办法！
 [charslot(slot = "r", name = "avg_npc_1273_1#1$1", focus="r")]
-[name="暴躁的军人"]......没什么可报告的。
+[name="暴躁的军人"]……没什么可报告的。
 [charslot(slot = "m", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_npc_1210_1#10$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-250, width=200, block=true)]
 [name="马特奥"]你再说一遍？！
 [charslot(slot = "r", name = "avg_npc_1273_1#1$1", focus="r")]
-[name="暴躁的军人"]非说有什么的话......唯一一条下楼的楼梯被堵住了。完毕。
+[name="暴躁的军人"]非说有什么的话……唯一一条下楼的楼梯被堵住了。完毕。
 [dialog]
 [CharacterCutin(widgetID="1", fadetime=0.5)]
 [PlaySound(key="$transmission", volume=1)]
@@ -425,7 +425,7 @@
 [name="战车"]已净空。
 [name="灰烬"]很好。
 [name="灰烬"]艾拉，你还好吗？
-[name="艾拉"]科恩、蒂娜、库兹、亚历山大......
+[name="艾拉"]科恩、蒂娜、库兹、亚历山大……
 [name="闪击"]我就说嘛，艾拉就在里面，我们来的时间正好。
 [dialog]
 [PlaySound(key="$d_gen_soldiersrun", volume=0.6)]
@@ -438,7 +438,7 @@
 [bgeffect(name="$eb_smoke_01",layer=0)]
 [charslot(slot = "m", name = "char_456_ash_1#2")]
 [Blocker(a=0.2, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="灰烬"]啧，楼梯间外面还有不少残敌跟着我们......你现在情况如何？
+[name="灰烬"]啧，楼梯间外面还有不少残敌跟着我们……你现在情况如何？
 [charslot(slot = "m", name = "avg_4123_ela_1#6$1")]
 [name="艾拉"]我正在去顶楼解救人质的途中。顶楼有十点钟爆炸的炸药。
 [charslot(slot = "m", name = "char_456_ash_1#1")]
@@ -448,7 +448,7 @@
 [charslot(slot = "m", name = "char_456_ash_1#1")]
 [name="灰烬"]了解，等追来的敌人解决掉，我们马上跟上你的脚步。
 [charslot(slot = "m", name = "avg_4123_ela_1#9$1")]
-[name="艾拉"]各位......十分感谢，真的。
+[name="艾拉"]各位……十分感谢，真的。
 [charslot(slot = "m", name = "avg_4123_ela_1#8$1")]
 [name="艾拉"]真的太感谢了。
 [dialog]
@@ -470,7 +470,7 @@
 [charslot(slot = "r", name = "avg_npc_1211_1#1$1", focus="r")]
 [name="雷内尔"]不然呢？聊爆炸的时候身体摆什么姿势吗？
 [charslot(slot = "l", name = "avg_npc_1214_1#7$1", focus="l")]
-[name="迪亚兹"]......疯子。
+[name="迪亚兹"]……疯子。
 [charslot(slot = "r", name = "avg_npc_1211_1#9$1", focus="r")]
 [name="雷内尔"]我是说真的，你们那些东西挺不错的。
 [charslot(slot = "l", name = "avg_npc_1214_1#7$1", focus="l")]
@@ -482,44 +482,44 @@
 [name="迪亚兹"]我找到了自己真正所属的地方，在那生活了足够长的时间。
 [name="迪亚兹"]如果我能从你们两个联手制造的这场混乱中活下来，我还要亲眼看着社区再次从灰烬中重生。如果不行，那我也只能说声遗憾了。
 [charslot(slot = "r", name = "avg_npc_1211_1#5$1", focus="r")]
-[name="雷内尔"]对街头艺术社区......你就那么有自信？
+[name="雷内尔"]对街头艺术社区……你就那么有自信？
 [charslot(slot = "l", name = "avg_npc_1214_1#9$1", focus="l")]
 [name="迪亚兹"]很简单，他们是我的家人，我了解他们。和他们在一起，一切都有可能。
 [charslot(slot = "r", name = "avg_npc_1211_1#10$1", focus="r")]
-[name="雷内尔"]......
+[name="雷内尔"]……
 [charslot(slot = "l", name = "avg_npc_1214_1#1$1", focus="l")]
 [name="迪亚兹"]难道你身边没有这样的人吗？
 [charslot(slot = "r", name = "avg_npc_1211_1#8$1", focus="r")]
-[name="雷内尔"]有......但我们在一起的时候，做的都是我想做的事情......
+[name="雷内尔"]有……但我们在一起的时候，做的都是我想做的事情……
 [charslot(slot = "l", name = "avg_npc_1214_1#7$1", focus="l")]
 [name="迪亚兹"]马特奥，打了这么久的通讯，你也该知道情况了吧。
 [name="迪亚兹"]赶紧让我拆掉那个节点，至少我们都还能活下来。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1210_1#10$1")]
-[name="马特奥"]......想都别想，老家伙。
+[name="马特奥"]……想都别想，老家伙。
 [charslot]
 马特奥转向靠在一旁的雷内尔，表情微微扭曲，从一旁拿起一根高尔夫球杆。
 [charslot(slot = "r", name = "avg_npc_1211_1#8$1", focus="n")]
 [charslot(slot = "l", name = "avg_npc_1210_1#10$1", focus="l")]
 [name="马特奥"]雷内尔，你肯定也不希望自己精心准备的爆炸被阻止吧。
 [charslot(slot = "r", name = "avg_npc_1211_1#10$1", focus="r")]
-[name="雷内尔"]......
+[name="雷内尔"]……
 [charslot(slot = "l", name = "avg_npc_1210_1#3$1", focus="l")]
 [name="马特奥"]（深呼吸）
 [charslot(slot = "l", name = "avg_npc_1210_1#1$1", focus="l")]
 [name="马特奥"]我们做个一举两得的交易。你答应我，这栋楼就按时爆炸，而且你和那边那个老头还能有一条生路。
 [charslot(slot = "r", name = "avg_npc_1211_1#2$1", focus="r")]
-[name="雷内尔"]......
+[name="雷内尔"]……
 [charslot(slot = "l", name = "avg_npc_1210_1#1$1", focus="l")]
 [name="马特奥"]你办公室里那部电梯只有你自己能坐，别人谁都不行，连米沃什都不行，我知道。
-[name="马特奥"]但是现在，只要你把电梯钥匙交出来，让我坐电梯下去，我就放你和那老家伙从楼梯离开，反正时间......
+[name="马特奥"]但是现在，只要你把电梯钥匙交出来，让我坐电梯下去，我就放你和那老家伙从楼梯离开，反正时间……
 [charslot]
 马特奥看了看头上的时钟，九点五十分。
 [charslot(slot = "r", name = "avg_npc_1211_1#2$1", focus="n")]
 [charslot(slot = "l", name = "avg_npc_1210_1#1$1", focus="l")]
 [name="马特奥"]还有的是。
 [charslot(slot = "r", name = "avg_npc_1211_1#2$1", focus="r")]
-[name="雷内尔"]......
+[name="雷内尔"]……
 [charslot(slot = "l", name = "avg_npc_1210_1#10$1", focus="l")]
 [name="马特奥"]别不说话。你和那老家伙刚刚不是聊得挺好的吗？
 [charslot]
@@ -534,7 +534,7 @@
 [charslot(slot = "l", name = "avg_npc_1210_1#7$1", focus="l")]
 [name="马特奥"]我在说电梯钥匙——
 [charslot(slot = "r", name = "avg_npc_1211_1#2$1", focus="r")]
-[name="雷内尔"]我最怕的就是，你死后流出的那些肮脏的血渗入废墟之下，染污那些珍贵的艺术品残片......
+[name="雷内尔"]我最怕的就是，你死后流出的那些肮脏的血渗入废墟之下，染污那些珍贵的艺术品残片……
 [dialog]
 [charslot(slot = "l", posfrom="0,0", posto="150,0", duration=0.2)]
 [PlaySound(key="$d_avg_twohandedblunt", volume=1)]
@@ -555,7 +555,7 @@
 [charslot(slot = "m", name = "avg_npc_1210_1#7$1")]
 [name="马特奥"]站在那儿别动，否则我连你一起打。
 [charslot(slot = "m", focus="n")]
-[name="雷内尔"]呜噗......咳、咳！
+[name="雷内尔"]呜噗……咳、咳！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -565,9 +565,9 @@
 [ImageTween(xScaleFrom=1.05, yScaleFrom=1.05, xScaleTo=1, yScaleTo=1, duration=10, block=false)]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="雷内尔"]没事，迪亚兹......让这个可怜虫，咳，发泄一下吧。
+[name="雷内尔"]没事，迪亚兹……让这个可怜虫，咳，发泄一下吧。
 [name="马特奥"]把钥匙交出来，赶快！
-[name="雷内尔"]......马特奥，知道吗，刚刚我突然想到一个绝妙的比喻。
+[name="雷内尔"]……马特奥，知道吗，刚刚我突然想到一个绝妙的比喻。
 [name="马特奥"]少废话，你——
 [name="雷内尔"]你就像一匹吃胀了的驮兽闯进了庄重的纪念堂，肆无忌惮地释放臭气，看着其他人用手帕掩住口鼻，你反而觉得很欣喜，你很骄傲。
 [name="雷内尔"]你觉得自己掌控了一切，毕竟他们是因为你才这么做的。
@@ -593,8 +593,8 @@
 [Delay(time=0.4)]
 狂怒的马特奥一杆打在雷内尔的背上。
 双手被缚的迪亚兹试图冲上去撞开马特奥，被马特奥一脚踢开。
-[name="雷内尔"]二位，何必这么着急......
-[name="雷内尔"]反正几分钟后，我们都会成为克里斯达尔艺术馆的殉葬品......
+[name="雷内尔"]二位，何必这么着急……
+[name="雷内尔"]反正几分钟后，我们都会成为克里斯达尔艺术馆的殉葬品……
 [stopmusic(fadetime=1)]
 [CameraShake(duration=0.3, xstrength=40, ystrength=40, vibrato=90, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", name = "avg_npc_1210_1#5$1")]
@@ -638,8 +638,8 @@
 那里原本是一幅画作，现在只剩熊熊燃烧的画框。
 被爆炸撕碎的画布盘旋在那个人周围，仿佛那人无声的怒火汇聚成了一股燃烧着的飓风。
 [name="艾拉"]已突入艺术馆顶楼的阳台。
-[name="艾拉"]阳台上共有三人，一人是迪亚兹·冈萨雷斯，一人是雷内尔·科瓦尔斯基，还有一个......
-[name="艾拉"]......可悲的小丑。
+[name="艾拉"]阳台上共有三人，一人是迪亚兹·冈萨雷斯，一人是雷内尔·科瓦尔斯基，还有一个……
+[name="艾拉"]……可悲的小丑。
 [name="艾拉"]各位，掩护我，这是我们最后的任务了。
 [dialog]
 [StopSound(channel="b", fadetime=2)]

@@ -13,7 +13,7 @@
 [name="茉莉"]拉尔夫——拉尔夫跑到哪里去了？
 [name="茉莉"]真要命啊，这都乱成一团了，他怎么还到处乱跑！
 [Character(name="avg_npc_661_1#1$1")]
-[name="天真的孩子"]茉莉姐姐，拉尔夫说，他还从来没见过大人们嘴里的火炮是什么样子......
+[name="天真的孩子"]茉莉姐姐，拉尔夫说，他还从来没见过大人们嘴里的火炮是什么样子……
 [Character(name="avg_npc_657_1#4$1")]
 [name="茉莉"]糟了，他不会是冲到街上去了吧？
 [Character(name="avg_npc_657_1#3$1")]
@@ -55,12 +55,12 @@
 [characteraction(name="middle", type="move", ypos=-120, fadetime=0, block=false)]
 [Delay(time=1)]
 [characteraction(name="middle", type="shake", power=10, times=100, fadetime=0.3, block=false)]
-[name="顽皮的孩子"]我......我......
+[name="顽皮的孩子"]我……我……
 [Character(name="avg_npc_647_1#6$1",name2="char_empty",focus=1)]
 [name="戈尔丁"]你快过来——
 [Character(name="avg_npc_240")]
 [characteraction(name="middle", type="move", ypos=-120, fadetime=0, block=false)]
-[name="顽皮的孩子"]呜呜，戈尔丁女士......
+[name="顽皮的孩子"]呜呜，戈尔丁女士……
 [Character(name="avg_npc_647_1#6$1",name2="char_empty",focus=1)]
 [name="戈尔丁"]别怕，好孩子，老师就在这里。
 [Dialog]
@@ -117,14 +117,14 @@
 [name="茉莉"]是的，女士，我都数过了。
 [Dialog]
 [Character(name="avg_npc_647_1#6$1",name2="avg_npc_657_1#8$1",focus=2)]
-[name="茉莉"]刚、刚才那是......
+[name="茉莉"]刚、刚才那是……
 [Character(name="avg_npc_647_1#6$1",name2="avg_npc_657_1#8$1",focus=1)]
-[name="戈尔丁"]......有炮弹落到了附近。
+[name="戈尔丁"]……有炮弹落到了附近。
 [Character(name="avg_npc_647_1#6$1",name2="avg_npc_657_1#8$1",focus=2)]
 [name="茉莉"]怎么会这样？到底是谁跟谁在交战？
 [name="茉莉"]我不明白，上午还好好的，伦蒂尼姆怎么就突然变成这样子了？
 [Character(name="avg_npc_647_1#6$1",name2="avg_npc_657_1#2$1",focus=2)]
-[name="茉莉"]呜......
+[name="茉莉"]呜……
 [Character(name="avg_npc_647_1#5$1",name2="avg_npc_657_1#2$1",focus=1)]
 [name="戈尔丁"]别哭，茉莉，别在孩子们面前哭。
 [Character(name="avg_npc_647_1#5$1",name2="avg_npc_657_1#8$1",focus=2)]
@@ -132,11 +132,11 @@
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#8$1",focus=1)]
 [name="戈尔丁"]握住我的手。至少我们都在一起。
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#5$1",focus=2)]
-[name="茉莉"]我们......我们有城防军，还有蒸汽骑士呢！
+[name="茉莉"]我们……我们有城防军，还有蒸汽骑士呢！
 [name="茉莉"]他们会保护伦蒂尼姆，保护维多利亚的！
 [Character(name="avg_npc_240",name2="avg_npc_661_1#1$1",focus=1)]
-[name="顽皮的孩子"]蒸汽骑士......
-[name="顽皮的孩子"]我刚刚好像看到了！是不是黑黑的，高高的......
+[name="顽皮的孩子"]蒸汽骑士……
+[name="顽皮的孩子"]我刚刚好像看到了！是不是黑黑的，高高的……
 [Character(name="avg_npc_240",name2="avg_npc_661_1#1$1",focus=2)]
 [name="天真的孩子"]那是路灯的影子吧？
 [Character(name="avg_npc_240",name2="avg_npc_661_1#1$1",focus=1)]
@@ -163,20 +163,20 @@
 [name="茉莉"]是的，吼叫。在场的人都说，那是我们的旗帜上，维多利亚的象征活了过来。
 [name="茉莉"]因为自那一天起，维多利亚正式超越高卢，成为泰拉大地上最伟大的国家。
 [Character(name="avg_npc_647_1#7$1",name2="avg_npc_657_1#1$1",focus=1)]
-[name="戈尔丁"]......
+[name="戈尔丁"]……
 [Character(name="avg_npc_647_1#7$1",name2="avg_npc_657_1#4$1",focus=2)]
-[name="茉莉"]抱歉，戈尔丁女士，我忘啦，您的祖父来自高卢......
+[name="茉莉"]抱歉，戈尔丁女士，我忘啦，您的祖父来自高卢……
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#4$1",focus=1)]
-[name="戈尔丁"]不用同我道歉，茉莉。我和你，拉尔夫，还有曾经在这里长大的千百个孩子一样......都在伦蒂尼姆长大。
+[name="戈尔丁"]不用同我道歉，茉莉。我和你，拉尔夫，还有曾经在这里长大的千百个孩子一样……都在伦蒂尼姆长大。
 [name="戈尔丁"]说不定外面那具蒸汽甲胄里的人也一样。
 [Character(name="avg_npc_240",name2="avg_npc_661_1#1$1",focus=1)]
 [name="顽皮的孩子"]戈尔丁老师，您认识蒸汽骑士？
 [Character(name="avg_npc_647_1#7$1")]
-[name="戈尔丁"]......查尔斯·林奇。
+[name="戈尔丁"]……查尔斯·林奇。
 [name="戈尔丁"]他在奥克特里格区生活过。鞋匠汤姆是他的老朋友，所以才总是喜欢念叨陛下与蒸汽骑士的故事。
 [name="戈尔丁"]实际上，他是陛下生前选中的最后一名蒸汽骑士。
 [Character(name="avg_npc_647_1#2$1")]
-[name="戈尔丁"]......也是至今为止最后一名蒸汽骑士。
+[name="戈尔丁"]……也是至今为止最后一名蒸汽骑士。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [Subtitle(text="那一夜很漫长。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
@@ -199,13 +199,13 @@
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#6$1",fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#8$1",focus=2)]
-[name="茉莉"]好像什么都没变嘛......大公爵的军队都到哪里去了？
+[name="茉莉"]好像什么都没变嘛……大公爵的军队都到哪里去了？
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#1$1",focus=2)]
 [name="茉莉"]我就知道，如果蒸汽骑士出场，局势一定会很快控制住！
-[name="茉莉"]就是没想到会这么快......
+[name="茉莉"]就是没想到会这么快……
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#1$1",focus=1)]
-[name="戈尔丁"]......茉莉，我们得想办法去买些必需品回来。
-[name="戈尔丁"]还不知道接下来会发生什么......
+[name="戈尔丁"]……茉莉，我们得想办法去买些必需品回来。
+[name="戈尔丁"]还不知道接下来会发生什么……
 [Dialog]
 [Character]
 [PlaySound(key="$dooropenquite",volume=1)]
@@ -216,11 +216,11 @@
 [name="茉莉"]亚当斯先生！
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#1$1",focus=1)]
 [name="戈尔丁"]正好，对于那些孩子来说，知识同样不可或缺。
-[name="戈尔丁"]......特别是在眼下的情况里。
-[name="戈尔丁"]亚当斯先生，请你把昨天那几本戏剧集给我吧，恐怕我还得再多要一些......
+[name="戈尔丁"]……特别是在眼下的情况里。
+[name="戈尔丁"]亚当斯先生，请你把昨天那几本戏剧集给我吧，恐怕我还得再多要一些……
 [PlaySound(key="$book_close",volume=1)]
 [Character(name="avg_npc_647_1#7$1",name2="avg_npc_657_1#1$1",focus=1)]
-[name="戈尔丁"]唔，这些童话，那几本有关数学与物理的入门书，还有《家庭医疗手册》，请帮我都包起来......
+[name="戈尔丁"]唔，这些童话，那几本有关数学与物理的入门书，还有《家庭医疗手册》，请帮我都包起来……
 [Character(name="avg_npc_647_1#7$1",name2="avg_npc_657_1#8$1",focus=2)]
 [name="茉莉"]等等，那是什么声音？
 [Dialog]
@@ -241,13 +241,13 @@
 [Character(fadetime=0.5)]
 [Delay(time=2)]
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#8$1",focus=1)]
-[name="戈尔丁"]......萨卡兹。
+[name="戈尔丁"]……萨卡兹。
 [name="戈尔丁"]他们是萨卡兹的雇佣兵。
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#8$1",focus=2)]
 [name="茉莉"]既然是雇佣兵，他们很快就会离开这里吧。
 [name="茉莉"]到那时候，伦蒂尼姆会变回老样子，对吗？
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#8$1",focus=1)]
-[name="戈尔丁"]......
+[name="戈尔丁"]……
 [Dialog]
 [Character(fadetime=1)]
 [Blocker(a=0.8, r=0,g=0, b=0, fadetime=2, block=true)]

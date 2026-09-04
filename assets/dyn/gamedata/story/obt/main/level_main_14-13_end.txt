@@ -90,7 +90,7 @@
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]一整个高速战舰编队的主炮齐射也许能彻底摧毁它的外壳，让它用巫术也无法轻易维持自己的运作。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#1$1")]
 [name="W"]好吧，那我们就去找那个什么核心。
 [name="W"]总有一天我也要给自己搞门炮。
@@ -119,7 +119,7 @@
 [Decision(options="我们需要分工合作。;我们需要想办法分散死魂灵的注意力。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_394_1#1$1")]
-[name="阿米娅"]博士，你的意思是......
+[name="阿米娅"]博士，你的意思是……
 [Dialog]
 [charslot]
 [Decision(options="人在剧痛时不会注意到虫子爬上了裤脚。", values="1")]
@@ -127,7 +127,7 @@
 [Decision(options="W，我需要你的帮助。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1035_wisdel_1#5$1")]
-[name="W"]......啊？
+[name="W"]……啊？
 [name="W"]说实话，这是不是你早就筹划好的陷阱，就等着现在说呢？
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#5$1",focus="none")]
@@ -145,7 +145,7 @@
 [Dialog]
 [Predicate(references="1;2")]
 [charslot]
-[Decision(options="若死魂灵比我们想象的要更加敏锐......", values="3")]
+[Decision(options="若死魂灵比我们想象的要更加敏锐……", values="3")]
 [Predicate(references="3")]
 [charslot]
 [charslot(slot="m",name="avg_npc_394_1#1$1")]
@@ -186,7 +186,7 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#11$1",focus="m")]
 [name="W"]那么，虫子们，别被轻易找到。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
-[name="W"]......在见到她之前。
+[name="W"]……在见到她之前。
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [charslot(duration=1.5)]
@@ -211,23 +211,23 @@
 [charslot(slot="r",name="avg_003_kalts_1#1$1",duration=1.5)]
 [delay(time=2)]
 [charslot(slot="l",name="avg_npc_394_1#1$1",focus="l")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="l",name="avg_npc_394_1#11$1",focus="l")]
 [name="阿米娅"]空空荡荡的。
 [charslot(slot="r",name="avg_003_kalts_1#1$1",focus="r")]
 [name="凯尔希"]看来，军事委员会已经撤走了全部的乘员，他们也知道这次行动的危险性。
 [Dialog]
 [charslot(slot="r",name="avg_003_kalts_1#1$1",focus="none")]
-[Decision(options="凯尔希，如果飞空艇真的与“阿喃那”相碰撞......", values="1")]
+[Decision(options="凯尔希，如果飞空艇真的与“阿喃那”相碰撞……", values="1")]
 [Predicate(references="1")]
 [Decision(options="到那时，会发生什么？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="r",name="avg_003_kalts_1#2$1",focus="r")]
 [name="凯尔希"]“阿喃那”会同化它所接触的一切信息。
 [charslot(slot="r",name="avg_003_kalts_1#3$1",focus="r")]
-[name="凯尔希"]这些信息中，包含了所有的有机物，无机物，乃至人格，情感......所有的一切，都会被源石的结晶包覆。
+[name="凯尔希"]这些信息中，包含了所有的有机物，无机物，乃至人格，情感……所有的一切，都会被源石的结晶包覆。
 [charslot(slot="l",name="avg_npc_394_1#14$1",focus="l")]
-[name="阿米娅"]那特蕾西娅小姐与死魂灵......！
+[name="阿米娅"]那特蕾西娅小姐与死魂灵……！
 [charslot(slot="r",name="avg_003_kalts_1#2$1",focus="r")]
 [name="凯尔希"]是的，选择驶向那里，意味着他们很清楚这个结果。
 [Dialog]
@@ -246,17 +246,17 @@
 [Dialog]
 [charslot(slot="l",name="avg_npc_394_1#14$1",focus="none")]
 [charslot(slot="r",name="avg_003_kalts_1#2$1",focus="none")]
-[Decision(options="这声音......", values="1")]
+[Decision(options="这声音……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="l",name="avg_npc_394_1#11$1",focus="l")]
-[name="阿米娅"]......很熟悉。
-[name="阿米娅"]在这个地方，它的声音......能让我们所有人听见。
+[name="阿米娅"]……很熟悉。
+[name="阿米娅"]在这个地方，它的声音……能让我们所有人听见。
 [Dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
 [Subtitle(text="在米诺斯的神话中，一位英雄为人间盗取了火种，却因此受到上天的惩罚，自己受永恒烧灼之苦。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="很少有人知道，这个神话的底本......却正来自萨卡兹。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="很少有人知道，这个神话的底本……却正来自萨卡兹。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="但他不是英雄。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="他之后的故事，已经不值一哂。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -264,7 +264,7 @@
 [delay(time=1)]
 [charslot(slot="l",name="avg_npc_394_1#11$1",focus="r")]
 [charslot(slot="r",name="avg_003_kalts_1#1$1",focus="r")]
-[name="凯尔希"]......死魂灵。
+[name="凯尔希"]……死魂灵。
 [charslot(slot="r",name="avg_003_kalts_1#7$1",focus="r")]
 [name="凯尔希"]它还是注意到我们了。
 [Dialog]
@@ -279,9 +279,9 @@
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="那些爆炸......确实让我焦躁，让我烦扰。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="那些爆炸……确实让我焦躁，让我烦扰。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="若不是魔王的提醒，我确实几乎要忘了你们。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="啊，多么健忘的我......我记住的已经够多了，可我不该忘记的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="啊，多么健忘的我……我记住的已经够多了，可我不该忘记的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="虚假的魔王，我怎会忽视你的存在呢——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -346,7 +346,7 @@
 [CameraShake(duration=2.5, xstrength=20,ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
-[name="阿米娅"]......不行，我们甩不掉它们！
+[name="阿米娅"]……不行，我们甩不掉它们！
 [Dialog]
 [charslot]
 [Decision(options="是时候了，W！", values="1")]
@@ -366,7 +366,7 @@
 [name="W"]小兔子，换边！
 [name="W"]凯尔希，让你养的小怪物抓住这个累赘，我们要快速——
 [charslot(slot="m",name="avg_1035_wisdel_1#8$1")]
-[name="W"]等等，这里......
+[name="W"]等等，这里……
 [Dialog]
 [charslot]
 突然，不祥的预感在你心头猛然炸响。
@@ -427,7 +427,7 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#6$1",duration=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1.5)]
-[name="W"]抓住你了......
+[name="W"]抓住你了……
 [charslot(slot="m",name="avg_1035_wisdel_1#11$1")]
 [name="W"]不，应该说，你终于落在我手里了。
 [Dialog]
@@ -443,13 +443,13 @@
 [CameraShake(duration=2, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$a_bat_buildingshaking_2")]
 [Delay(time=2.5)]
-“嘎吱”......“嘎吱”......“嘎吱”......
+“嘎吱”……“嘎吱”……“嘎吱”……
 钢铁扭曲的声音回荡在狭小的空间内，舰艇在咀嚼腔体内的黑暗。
 [Dialog]
 [playsound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]为了迫使我落入这处封闭的陷阱，你做了很多——
 [charslot(slot="m",name="avg_003_kalts_1#5$1")]
 [name="凯尔希"]死魂灵。
@@ -461,13 +461,13 @@
 [Dialog]
 [playsound(key="$d_avg_metalpipe",volume=1)]
 [Delay(time=2)]
-“嘎吱”......唯有金属拉扯的声音在蔓延。锐利的碎屑不断从舰体上被剥落，被牵引......
+“嘎吱”……唯有金属拉扯的声音在蔓延。锐利的碎屑不断从舰体上被剥落，被牵引……
 凯尔希知道，如果将此时此刻这处未知的空间，比作一间充斥着磁场的房间——
 那么牵引所有致命之物的中心，一定就是她自己。
 [charslot(slot="m",name="avg_003_kalts_1#5$1")]
 [name="凯尔希"]威胁？
 [name="凯尔希"]看来尽管已经燃烧自己多年，你依旧保有理智。
-[name="凯尔希"]但如果你混乱的意识里，还留存了一点曾经在卡兹戴尔的记忆......
+[name="凯尔希"]但如果你混乱的意识里，还留存了一点曾经在卡兹戴尔的记忆……
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]你应当清楚，死亡的威胁，对我毫无意义。
 [Dialog]
@@ -476,9 +476,9 @@
 但凯尔希能够感知到，那些将自己裹挟至此处的阴影仍在黑暗中注视她。
 伺机待发。
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot="m",name="avg_003_kalts_1#2$1")]
-[name="凯尔希"]不，你理应知道......毕竟特蕾西娅她很清楚这一点。
+[name="凯尔希"]不，你理应知道……毕竟特蕾西娅她很清楚这一点。
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]你也在听，对吧——
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
@@ -488,13 +488,13 @@
 [Dialog]
 [charslot]
 凯尔希伸手轻触墙壁，感受着这艘舰艇的生命。
-冰冷粗糙的金属......以及源石。
+冰冷粗糙的金属……以及源石。
 尽管在黑暗之中，凯尔希依旧能清楚地看到，那些源石正在生长，以及同化周边的一切——
 但独独避开了她的手指所触及的位置。
 [charslot(slot="m",name="avg_003_kalts_1#5$1")]
-[name="凯尔希"]......
-[name="凯尔希"]源石的自然增殖，如今已经可以被你影响到如此地步......
-[name="凯尔希"]如果这些源石继续生长下去，整艘飞空艇会在撞上那里之前完成结晶化......
+[name="凯尔希"]……
+[name="凯尔希"]源石的自然增殖，如今已经可以被你影响到如此地步……
+[name="凯尔希"]如果这些源石继续生长下去，整艘飞空艇会在撞上那里之前完成结晶化……
 [name="凯尔希"]那其中的所有人都——
 [name="凯尔希"]也包括我？
 [name="凯尔希"]这就是你想告诉我的事情？
@@ -502,18 +502,18 @@
 [charslot]
 无人应答。
 [charslot(slot="m",name="avg_003_kalts_1#5$1")]
-[name="凯尔希"]......
-[name="凯尔希"]最初的源石，你，特雷西斯，萨卡兹......我原以为自己对你的计划已经有了足够的猜测。
+[name="凯尔希"]……
+[name="凯尔希"]最初的源石，你，特雷西斯，萨卡兹……我原以为自己对你的计划已经有了足够的猜测。
 [charslot(slot="m",name="avg_003_kalts_1#14$1")]
-[name="凯尔希"]但恐怕你走得比我所猜想的更远......
-[name="凯尔希"]......
+[name="凯尔希"]但恐怕你走得比我所猜想的更远……
+[name="凯尔希"]……
 [charslot(slot="m",name="avg_003_kalts_1#2$1")]
 [name="凯尔希"]即使将我困在这里，我也不认为你真正提防的人是我。
 [name="凯尔希"]你总是做出一些令我也很头疼的事情，特蕾西娅，就像过去一样。
 [charslot(slot="m",name="avg_003_kalts_1#2$1")]
-[name="凯尔希"]......和过去一样。
+[name="凯尔希"]……和过去一样。
 [charslot(slot="m",name="avg_003_kalts_1#4$1")] 
-[name="凯尔希"]特蕾西娅，现在的你，是否还相信......
+[name="凯尔希"]特蕾西娅，现在的你，是否还相信……
 [name="凯尔希"]泰拉还能有一个“未来”？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -527,7 +527,7 @@
 阴影从凯尔希的脚下延展。
 漆黑的海洋从黑暗中涌出，转瞬便要淹没其中的一切。
 [charslot(slot="m",name="avg_003_kalts_1#5$1")] 
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]果然——
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -541,9 +541,9 @@
 [Subtitle(text="如你所愿。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="勋爵不在那人身边最好真能给你争取足够的时间。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="不要再让我失望。不要再让我们失望！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="已经等了太久......必须在死亡前见证——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="已经等了太久……必须在死亡前见证——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="苦难的终结。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="特蕾西娅......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="特蕾西娅……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

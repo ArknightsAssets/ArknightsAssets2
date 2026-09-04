@@ -13,11 +13,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_450_1#6$1",focus="m")]
-[name="极境"]我解决了！我把他们都解决了！......温蒂，你那里需要帮忙吗？
+[name="极境"]我解决了！我把他们都解决了！……温蒂，你那里需要帮忙吗？
 [charslot(slot = "m", name = "avgnew_400_weedy_1#6$2",focus="m")]
 [name="温蒂"]不用，我也解决了——只要我刚修好的船别再被撞坏就好！
 [charslot(slot = "m", name = "avg_npc_450_1#1$1",focus="m")]
-[name="极境"]好！呼......
+[name="极境"]好！呼……
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_450_1#1$1",focus="n")]
 [PlaySound(key="$d_avg_sandstormimpact", volume=0.8)]
@@ -27,15 +27,15 @@
 [charslot(slot = "m", name = "avg_npc_450_1#11$1",focus="m")]
 [name="极境"]啧，我这辈子都不会再想去游乐场坐过山车了。
 [charslot(slot = "m", name = "avgnew_400_weedy_1#5$2",focus="m")]
-[name="温蒂"]等等，极境......你身上刚才还没有这么多血的！......是刚刚的骸骨碎片吗？
+[name="温蒂"]等等，极境……你身上刚才还没有这么多血的！……是刚刚的骸骨碎片吗？
 [charslot(slot = "m", name = "avg_npc_450_1#11$1",focus="m")]
-[multiline(name="极境")]血......？
+[multiline(name="极境")]血……？
 [charslot(slot = "m", name = "avg_npc_450_1#4$1",focus="m")]
 [multiline(name="极境")]没事，为好朋友受点小伤不算什么。棘刺有了想去做的事情，我要全力支持他才行。
 [charslot(slot = "m", name = "avgnew_400_weedy_1#5$2",focus="m")]
-[name="温蒂"]我先给你包扎一下......棘刺他想做什么？他说过吗？
+[name="温蒂"]我先给你包扎一下……棘刺他想做什么？他说过吗？
 [charslot(slot = "m", name = "avg_npc_450_1#11$1",focus="m")]
-[name="极境"]哎......等时候到了，让他亲口给你说！
+[name="极境"]哎……等时候到了，让他亲口给你说！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -48,7 +48,7 @@
 [charslot(slot = "m", name = "avg_npc_1582_1#7$1",focus="m")]
 [name="安纳斯塔西奥"]啊，伊西多。你想赎自己的罪，想抹消自己对无辜之人产生的影响，将他们送回原本的生活轨迹。
 [name="安纳斯塔西奥"]这究竟是你坚定的意志，还是良心的回照？
-[name="安纳斯塔西奥"]毕竟，常有罪人在意识到自己已走上绝路时，恸哭着为他被连累的亲友求情......
+[name="安纳斯塔西奥"]毕竟，常有罪人在意识到自己已走上绝路时，恸哭着为他被连累的亲友求情……
 [charslot(slot = "m", name = "avg_npc_1582_1#2$1",focus="m")]
 [name="安纳斯塔西奥"]但这并不代表他真心愧悔。
 [charslot(slot = "m", name = "avg_npc_1582_1#7$1",focus="m")]
@@ -56,7 +56,7 @@
 [charslot(slot = "m", name = "avg_1039_thorn2_1#5$1",focus="m")]
 [name="伊西多"]不。需要抑制欲望的人是你，需要证明自己的人也是你。
 [charslot(slot = "m", name = "avg_npc_1582_1#2$1",focus="m")]
-[name="安纳斯塔西奥"]......当然，我已说过，欲望无法被杀死。食人的欲望始终活在我的体内，我必须抑制它。
+[name="安纳斯塔西奥"]……当然，我已说过，欲望无法被杀死。食人的欲望始终活在我的体内，我必须抑制它。
 [charslot(slot = "m", name = "avg_npc_1582_1#7$1",focus="m")]
 [name="安纳斯塔西奥"]我会亲手剜下自己的血肉，然后将它弃置。
 [name="安纳斯塔西奥"]我会证明自己对血肉的渴望能够被抑制，哪怕只是瞬间。
@@ -75,7 +75,7 @@
 [name="安纳斯塔西奥"]但我的生命，从最初就是一个错误，从最初就是一种罪孽。
 [name="安纳斯塔西奥"]我若是死去，那我这可悲的存在，除了亵渎之外，还能有什么意义？
 [charslot(slot = "m", name = "avg_npc_1582_1#6$1",focus="m")]
-[name="安纳斯塔西奥"]......所以我必须赎罪。在我的欲望发展到无法抑制的地步之前，我会尽我所能地赎罪。
+[name="安纳斯塔西奥"]……所以我必须赎罪。在我的欲望发展到无法抑制的地步之前，我会尽我所能地赎罪。
 [Dialog]
 [charslot]
 安纳斯塔西奥左手的指甲嵌入自己的胸膛，唯有疼痛才能使他感到一丝安定。
@@ -171,38 +171,38 @@
 [PlaySound(key="$d_avg_punch02",delay=0.2)]
 [CameraShake(duration=0.5, xstrength=25, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "r", focus="r")]
-[name="帕斯卡拉"]你们没资格审判我......你们没资格......！
+[name="帕斯卡拉"]你们没资格审判我……你们没资格……！
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1580_1#3$1",focus="m")]
-[name="蒂奇"]好了......好了！帕斯卡拉，帕斯卡拉！
+[name="蒂奇"]好了……好了！帕斯卡拉，帕斯卡拉！
 [charslot(slot = "m", name = "avg_npc_1580_1#2$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="蒂奇"]停下来，他们已经不会再还手了！
 [charslot(slot = "m", name = "avg_4163_rosesa_1#16$1",focus="m")]
-[name="帕斯卡拉"]哈......哈......我......
+[name="帕斯卡拉"]哈……哈……我……
 [stopmusic(fadetime=3)]
 [charslot(slot = "m", name = "avg_npc_1580_1#4$1",focus="m")]
-[name="蒂奇"]停下来！......我......我们快......
+[name="蒂奇"]停下来！……我……我们快……
 [charslot(slot = "m", action="shake", power=4, times=40, duration=0.5)]
-[name="蒂奇"]......快先换个地......地方......
+[name="蒂奇"]……快先换个地……地方……
 [charslot(slot = "m", name = "avg_4163_rosesa_1#14$1",focus="m")]
-[name="帕斯卡拉"]啊......蒂奇......
-[name="帕斯卡拉"]蒂奇，你先别晕！你先别晕！我......我......
+[name="帕斯卡拉"]啊……蒂奇……
+[name="帕斯卡拉"]蒂奇，你先别晕！你先别晕！我……我……
 [name="帕斯卡拉"]你要是晕了，我以后就请别人喝咸鳞汁，就不找你了！
 [charslot(slot = "m", name = "avg_npc_1580_1#4$1",focus="m")]
-[name="蒂奇"]你这话怎么说的像......像极境那个小子一样......油嘴滑舌的......
+[name="蒂奇"]你这话怎么说的像……像极境那个小子一样……油嘴滑舌的……
 [charslot(slot = "m", name = "avg_4163_rosesa_1#14$1",focus="m")]
 [name="帕斯卡拉"]我像极境？那我这话是不是很好笑？是不是让你打起了精神？你别晕！
 [charslot(slot = "m", name = "avg_npc_1580_1#4$1",focus="m")]
-[name="蒂奇"]好，我们先找个地方藏......藏起......
+[name="蒂奇"]好，我们先找个地方藏……藏起……
 [Dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [CameraShake(duration=1, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(duration=1)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_4163_rosesa_1#19$1",focus="m")]
-[multiline(name="帕斯卡拉")]蒂奇......
+[multiline(name="帕斯卡拉")]蒂奇……
 [charslot(slot = "m", name = "avg_4163_rosesa_1#14$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [multiline(name="帕斯卡拉")]蒂奇！！
@@ -238,7 +238,7 @@
 [Delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_1579_1#6$2",focus="m")]
 [name="哈维尔"]胡安娜，这大概是我们最后一战了。
-[name="哈维尔"]这场战斗结束后，我们总有一个人会死在这里......
+[name="哈维尔"]这场战斗结束后，我们总有一个人会死在这里……
 [charslot(slot = "m", name = "avg_npc_1579_1#3$2",focus="m")]
 [name="哈维尔"]我是他们的首领，你要是恨他们背叛了你，就都发泄在我身上！
 [charslot(slot = "m", name = "avg_npc_1581_1#8$2",focus="m")]
@@ -260,7 +260,7 @@
 [name="哈维尔"]要是我死了，不要迁怒那些船员！
 [name="哈维尔"]我用我的命保证，他们不会再有新的首领，会好好过自己想要的生活！
 [charslot(slot = "m", name = "avg_npc_1592_1#1$1",focus="m")]
-[name="震惊的船员"]哈维尔......你......
+[name="震惊的船员"]哈维尔……你……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_hammer", volume=1)]
@@ -305,7 +305,7 @@
 [charslot(slot ="m", action="shake", power=5, times=50, duration=1)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1579_1#6$2",focus="m")]
-[name="哈维尔"]嗬......嗬......
+[name="哈维尔"]嗬……嗬……
 [Dialog]
 [PlaySound(key="$d_avg_punchsp4")]
 [CameraShake(duration=0.7, xstrength=35, ystrength=35,vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -313,45 +313,45 @@
 [charslot(duration=0.5)]
 [Delay(time=1)]
 哈维尔挣扎着从舵轮的重压下起身，胡安娜一拳将他打回血泊之中。
-[name="哈维尔"]嗬......
+[name="哈维尔"]嗬……
 [Dialog]
 [PlaySound(key="$d_avg_punchsp2")]
 [CameraShake(duration=0.7, xstrength=35, ystrength=35, vibrato=30, randomness=90, fadeout=true, block=false)]
 他喘着粗气，喷着血沫，想要再次起身。胡安娜又是一拳，哈维尔的视野被一片血红浸透。
-[name="哈维尔"]呃......
+[name="哈维尔"]呃……
 [Dialog]
 [Delay(time=1)]
 哈维尔再抽不出一丝力气，他几乎是在血泊里挣扎，却仍一次又一次徒劳地想要站起来。
 直到他的双臂、双腿被舵轮压到脱臼。
 他甚至没法再抬起自己的头。
-[name="哈维尔"]嗬......
-[name="哈维尔"]......我输了......胡安娜......杀了我吧。
-[name="哈维尔"]等我......死了之后，不要迁怒剩下的那些船员......是我带领着他们背叛你的。
-[name="哈维尔"]......你杀了我，一切就结束了吧。
+[name="哈维尔"]嗬……
+[name="哈维尔"]……我输了……胡安娜……杀了我吧。
+[name="哈维尔"]等我……死了之后，不要迁怒剩下的那些船员……是我带领着他们背叛你的。
+[name="哈维尔"]……你杀了我，一切就结束了吧。
 哈维尔看着胡安娜的眼睛。他觉得自己好像从来没这么近地直视过她的眼睛，他甚至在里面看到了自己的倒影。
 他突然觉得自己还有些别的话想说。
 [Dialog]
 [playMusic(intro="$storyendjp_intro", key="$storyendjp_loop", volume=0.6)]
-[name="哈维尔"]那天......你从我窗前路过......我烤面包......那是第一次，烤得焦黑......是我失败了。
-[name="哈维尔"]我浪费了珍贵的食物，船员们嫌弃，没人吃......只有你......
-[name="哈维尔"]你从窗外路过，抓起一个面包，慢慢啃着......你边吃边露出了满足的神色......
-[name="哈维尔"]那一个下午，你把那一整盘都吃光了......
-[name="哈维尔"]那个时候我在想......为了让你再露出一丝满足的笑，我做什么都愿意。
-[name="哈维尔"]什么都愿意......
+[name="哈维尔"]那天……你从我窗前路过……我烤面包……那是第一次，烤得焦黑……是我失败了。
+[name="哈维尔"]我浪费了珍贵的食物，船员们嫌弃，没人吃……只有你……
+[name="哈维尔"]你从窗外路过，抓起一个面包，慢慢啃着……你边吃边露出了满足的神色……
+[name="哈维尔"]那一个下午，你把那一整盘都吃光了……
+[name="哈维尔"]那个时候我在想……为了让你再露出一丝满足的笑，我做什么都愿意。
+[name="哈维尔"]什么都愿意……
 哈维尔闭上眼睛，等待着舵轮轧断他的脖子。
 [charslot(slot = "m", name = "avg_npc_1581_1#10$2",focus="m")]
 [name="胡安娜"]恭喜你，小哈。
 [Dialog]
 [charslot]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="哈维尔"]咳......咳......
+[name="哈维尔"]咳……咳……
 [charslot(slot = "m", name = "avg_npc_1581_1#10$2",focus="m")]
 [name="胡安娜"]这场新老首领之间的决斗，你赢了。
 [charslot(slot = "m", name = "avg_npc_1581_1#11$2",focus="m")]
 [name="胡安娜"]现在，用你全部的力气站起来，走回去，去找你的船员们。
 [Dialog]
 [charslot]
-[name="哈维尔"]......
+[name="哈维尔"]……
 [Dialog]
 [PlaySound(key="$d_avg_crwlstps", volume=1)]
 [Delay(time=1)]
@@ -396,7 +396,7 @@
 在伊西多所预知的方向，滚烫的蒸汽从船的破洞中喷涌而出，截断了安纳斯塔西奥追击的步伐。
 伊西多重新摆好架势，他看到，安纳斯塔西奥那被蒸汽灼烧过的手，握剑时没有丝毫颤抖。
 [charslot(slot = "m", name = "avg_npc_1582_1#9$1",focus="m")]
-[name="安纳斯塔西奥"]......
+[name="安纳斯塔西奥"]……
 安纳斯塔西奥不会因蒸汽而退缩，他甚至渴求疼痛。
 [Dialog]
 [charslot]
@@ -410,7 +410,7 @@
 伊西多俯身向蒸汽中刺出一剑。一声锐响，安纳斯塔西奥的长剑应声落地。
 但下一秒，安纳斯塔西奥的手炮已经抵在伊西多的眉心。
 [charslot(slot = "m", name = "avg_npc_1582_1#7$1",focus="m")]
-[name="安纳斯塔西奥"]......
+[name="安纳斯塔西奥"]……
 [Dialog]
 [charslot]
 安纳斯塔西奥已然沉默，扣下扳机之前，他不会再言说。

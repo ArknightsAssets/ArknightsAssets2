@@ -33,11 +33,11 @@
 [PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="洛伦茨"]......
-[name="洛伦茨"]怎么回事？我没有启动任何相关的设备，刚才为什么会陷入梦里......那是卡德霍的梦吗？
-[name="洛伦茨"]他的伤口绝对不可能现在就已经被修复，我和他应该也不会轻易地做梦，这种事并不寻常......
+[name="洛伦茨"]……
+[name="洛伦茨"]怎么回事？我没有启动任何相关的设备，刚才为什么会陷入梦里……那是卡德霍的梦吗？
+[name="洛伦茨"]他的伤口绝对不可能现在就已经被修复，我和他应该也不会轻易地做梦，这种事并不寻常……
 [charslot(slot="m",name="avg_4229_aphris_1#6$1")]
-[name="洛伦茨"]等等，这个信号......“囚笼”里的困兽被激活了......
+[name="洛伦茨"]等等，这个信号……“囚笼”里的困兽被激活了……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -45,7 +45,7 @@
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4234_pedro_1#10$1",focus="m")]
 [name="佩德洛"]洛伦茨小姐，情况有些不对劲，先撤离吧。
-[name="佩德洛"]你的气息......好像不太一样了。
+[name="佩德洛"]你的气息……好像不太一样了。
 [charslot(slot="m",name="avg_4229_aphris_1#1$1",focus="m")]
 [name="洛伦茨"]我的计划已经完成了。你竟然能察觉到我的不同，看来你身上的谜题又多了一个。不过，我好像快知道那个答案了。
 [charslot(slot="m",name="avg_4234_pedro_1#10$1",focus="m")]
@@ -69,7 +69,7 @@
 [charslot(slot="r",name="avg_4229_aphris_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="l",name="avg_4234_pedro_1#4$1",focus="l")]
-[name="佩德洛"]这里是......我很想问这种瞬间转移又是什么戏法，但我想我该习惯了。
+[name="佩德洛"]这里是……我很想问这种瞬间转移又是什么戏法，但我想我该习惯了。
 [charslot(slot="r",name="avg_4229_aphris_1#1$1",focus="r")]
 [name="洛伦茨"]慢慢习惯也没关系，这个是我刚掌握的技巧。
 [charslot(slot="l",name="avg_4234_pedro_1#4$1",focus="l")]
@@ -85,7 +85,7 @@
 [name="洛伦茨"]它早已经是卡德霍身体的一部分。只要卡德霍还活着，只要玻利瓦尔还存在，它就无法被消灭。
 [name="洛伦茨"]不过在“Theory-4”——我的“小理论”启动后，以及在那个肿瘤的影响下，我本来就打算研究的东西被引出来了，也不全是坏事。
 [name="洛伦茨"]过往关于黑流树海的报告里不曾提到的“居民”和其他怪异现象，恐怕全都是某些比我更早改造这里的家伙的手笔。
-[name="洛伦茨"]真是可怕，应该就是那些东西不知不觉地把我和卡德霍拉进了它们制造的梦境......那到底是什么来头？
+[name="洛伦茨"]真是可怕，应该就是那些东西不知不觉地把我和卡德霍拉进了它们制造的梦境……那到底是什么来头？
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -94,7 +94,7 @@
 [Image(image="pic_rogue_6_44", screenadapt="coverall", fadetime=2, block=true)]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
-[name="卡德霍"]......
+[name="卡德霍"]……
 [name="奇妙的造物"]理想。
 [name="奇妙的造物"]理念。
 [name="奇妙的造物"]方针。

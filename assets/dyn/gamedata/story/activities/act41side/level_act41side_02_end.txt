@@ -8,15 +8,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [PlaySound(key="$d_avg_paper2", volume=1)]
-[name="拉芙希妮"]每一条有人住的街道都走过了，没有提奥的下落，只看到城里人身上的火......越来越旺盛，就好像忽然起风了一样......
-[name="拉芙希妮"]而且每个人都习以为常，祛除火焰只会让他们陷入惊恐，觉得没了火的部分在离自己远去......
-[name="拉芙希妮"]难道纳斯尔纱人真的已经......？
-[name="拉芙希妮"]......不，先别想那些，孩子要紧。该去碰碰涅梅丝说过的那位游牧民布莉吉了。
-[name="拉芙希妮"]但......真有人会因为进不去黑林，就在城门外搭帐篷吗？
+[name="拉芙希妮"]每一条有人住的街道都走过了，没有提奥的下落，只看到城里人身上的火……越来越旺盛，就好像忽然起风了一样……
+[name="拉芙希妮"]而且每个人都习以为常，祛除火焰只会让他们陷入惊恐，觉得没了火的部分在离自己远去……
+[name="拉芙希妮"]难道纳斯尔纱人真的已经……？
+[name="拉芙希妮"]……不，先别想那些，孩子要紧。该去碰碰涅梅丝说过的那位游牧民布莉吉了。
+[name="拉芙希妮"]但……真有人会因为进不去黑林，就在城门外搭帐篷吗？
 [Dialog]
 [PlaySound(key="$d_avg_paper1", volume=1)]
 [delay(time=1)]
-[name="拉芙希妮"]“沿着岗哨右边走出去，蹚过小河”......
+[name="拉芙希妮"]“沿着岗哨右边走出去，蹚过小河”……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -46,7 +46,7 @@
 [charslot(slot="l",name="avg_npc_1694_1#9$1",focus="l")]
 [name="拉芙希妮"]不，我们从前应该没见过，是涅梅丝让我来找你的。我叫苇草。
 [charslot(slot="r",name="avg_4177_brigid_1#11$1",focus="r")]
-[name="布莉吉"]你......
+[name="布莉吉"]你……
 [Dialog]
 [charslot(slot = "r", posfrom="0,0", posto="-100,0", duration=0.7)]
 [delay(time=1)]
@@ -62,9 +62,9 @@
 [charslot(slot="l",name="avg_npc_1694_1#11$1",focus="l")]
 [name="拉芙希妮"]你在说什么？我不是红龙，我只是——
 [charslot(slot="r",name="avg_4177_brigid_1#8$1",focus="r")]
-[name="布莉吉"]你不是城里那条红龙，你是另一条红龙。另一条红龙回到城市里......好耳熟的故事。
+[name="布莉吉"]你不是城里那条红龙，你是另一条红龙。另一条红龙回到城市里……好耳熟的故事。
 [charslot(slot="l",name="avg_npc_1694_1#11$1",focus="l")]
-[name="拉芙希妮"]你只是闻了闻，就......？
+[name="拉芙希妮"]你只是闻了闻，就……？
 [charslot(slot="r",name="avg_4177_brigid_1#9$1",focus="r")]
 [name="布莉吉"]是啊，你身上的火的味道和城里那条红龙一点都不一样。
 [name="布莉吉"]不过这都不重要。苇草，你来找我做什么？
@@ -96,26 +96,26 @@
 [charslot(slot="m",name="avg_4177_brigid_1#4$1",focus="m")]
 [name="布莉吉"]提奥，说话！这回你必须跟我走了，提奥！
 [charslot(slot="m",name="avg_npc_1694_1#11$1",focus="m")]
-[name="拉芙希妮"]布莉吉，这里是......？
+[name="拉芙希妮"]布莉吉，这里是……？
 [charslot(slot="m",name="avg_4177_brigid_1#10$1",focus="m")]
 [name="布莉吉"]战争期间这处地块曾经被拖出去，据说是平定哪里的贵族什么的，拖回来就这样了，挂在纳斯尔纱上，一直也没人修。
 [name="布莉吉"]提奥一受了什么委屈就爱往这儿跑。
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
 [name="拉芙希妮"]或许提奥真的出城了？
 [charslot(slot="m",name="avg_4177_brigid_1#8$1",focus="m")]
-[name="布莉吉"]......我只见过一个出城的人，就是拉格兰街的艾玛。当时没看见提奥和她一起离开。
+[name="布莉吉"]……我只见过一个出城的人，就是拉格兰街的艾玛。当时没看见提奥和她一起离开。
 [name="布莉吉"]而且她一个人押着好多东西在黑林外面和人碰了头，那人把东西拉走，她就一个人回来了。
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
 [name="拉芙希妮"]她没注意到你？
 [charslot(slot="m",name="avg_4177_brigid_1#10$1",focus="m")]
 [name="布莉吉"]城里人的眼睛耳朵鼻子都不好使。再说我们离得远着呢。
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
-[name="拉芙希妮"]好多东西出去，一个人回来......她哪来的东西？
+[name="拉芙希妮"]好多东西出去，一个人回来……她哪来的东西？
 [name="拉芙希妮"]艾玛是做什么的？
 [charslot(slot="m",name="avg_4177_brigid_1#10$1",focus="m")]
 [name="布莉吉"]她经营一家粮店，我去那里送过信。
 [charslot(slot="m",name="avg_npc_1694_1#8$1",focus="m")]
-[name="拉芙希妮"]粮店......出城......现在闭门不出......
+[name="拉芙希妮"]粮店……出城……现在闭门不出……
 [charslot(slot="m",name="avg_npc_1694_1#7$1",focus="m")]
 [name="拉芙希妮"]现在也只有这么点线索了。我们赶紧过去。
 [Dialog]
@@ -147,7 +147,7 @@
 [charslot(slot="m",name="avg_npc_1694_1#9$1",focus="m")]
 [name="拉芙希妮"]那艾玛呢，你看见她了吗？
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]她早早就关店了。我也就是来转转，看看她是不是还能开门......唉，白费。
+[name="友善的居民"]她早早就关店了。我也就是来转转，看看她是不是还能开门……唉，白费。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [charslot(duration=1)]
@@ -163,13 +163,13 @@
 [charslot(slot="r",name="avg_4177_brigid_1#6$1",duration=0.5)]
 [delay(time=0.7)]
 [charslot(slot="r",name="avg_4177_brigid_1#6$1",focus="r")]
-[name="布莉吉"]唉，又来了，这股冰冷的焦煳味儿......最近整个纳斯尔纱都是这股味道......真难闻啊。
+[name="布莉吉"]唉，又来了，这股冰冷的焦煳味儿……最近整个纳斯尔纱都是这股味道……真难闻啊。
 [charslot(slot="l",name="avg_npc_1694_1#1$1",focus="l")]
 [name="拉芙希妮"]我一直想问，你能闻到紫火的气味？
 [charslot(slot="r",name="avg_4177_brigid_1#6$1",focus="r")]
 [name="布莉吉"]是啊，那条红龙身上紫火的煳味。最近连城里人都腌入味了。
 [charslot(slot="l",name="avg_npc_1694_1#7$1",focus="l")]
-[name="拉芙希妮"]不只是气味......火已经蔓延到城里人身上了。
+[name="拉芙希妮"]不只是气味……火已经蔓延到城里人身上了。
 [charslot(slot="r",name="avg_4177_brigid_1#11$1",focus="r")]
 [name="布莉吉"]什么？可我没看见那些人身上有火啊？
 [charslot(slot="l",name="avg_npc_1694_1#11$1",focus="l")]
@@ -177,7 +177,7 @@
 [charslot(slot="r",name="avg_4177_brigid_1#11$1",focus="r")]
 [name="布莉吉"]我倒要问你呢，原来你能看见？
 [charslot(slot="r",name="avg_4177_brigid_1#6$1",focus="r")]
-[name="布莉吉"]......不过，唉，想想也是，毕竟你也是红龙。
+[name="布莉吉"]……不过，唉，想想也是，毕竟你也是红龙。
 [name="布莉吉"]城里的人们和那条红龙离得这么近，又把她奉若神明，惹火上身确实是早晚的事。
 [Dialog]
 [charslot]
@@ -196,7 +196,7 @@
 [charslot(slot="m",name="avg_4177_brigid_1#11$1",focus="m")]
 [name="布莉吉"]锁孔里有你说的紫火的味道。肯定有人在里面。怎么办，闯进去？
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
-[name="拉芙希妮"]......也只能这样了。
+[name="拉芙希妮"]……也只能这样了。
 [Dialog]
 [PlaySound(key="$d_avg_originiumcastshort",volume=1)]
 [PlaySound(key="$firemag_n",volume=0.4,delay=1)]
@@ -207,7 +207,7 @@
 [charslot(slot="m",name="avg_4177_brigid_1#5$1",focus="m")]
 [name="布莉吉"]原来红龙的火还能烧开锁头？
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
-[name="拉芙希妮"]......不管怎么说，我们先进去吧。
+[name="拉芙希妮"]……不管怎么说，我们先进去吧。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -230,26 +230,26 @@
 [charslot(slot="m",name="avg_npc_1749_1#1$1",focus="m")]
 [name="“拷问者”"]瞧瞧是谁来了？这不是我们的“守灵人”吗？你也收到领袖的邀请了？
 [charslot(slot="m",name="avg_npc_1692_1#1$1",focus="m")]
-[name="涅梅丝"]我来......呈奉守灵人献给红龙的祭器。
+[name="涅梅丝"]我来……呈奉守灵人献给红龙的祭器。
 [charslot(slot="m",name="avg_npc_1749_1#1$1",focus="m")]
-[name="“拷问者”"]让我看看守灵人送来了什么好东西......哨笛，然后呢？
+[name="“拷问者”"]让我看看守灵人送来了什么好东西……哨笛，然后呢？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]夏末节将至，守灵人的确没有多余的祭器，只能送来这枚哨笛......
+[name="涅梅丝"]夏末节将至，守灵人的确没有多余的祭器，只能送来这枚哨笛……
 [charslot(slot="m",name="avg_npc_1749_1#1$1",focus="m")]
 [name="“拷问者”"]这就没了？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]非常抱歉......
+[name="涅梅丝"]非常抱歉……
 [charslot(slot="m",name="avg_npc_234",focus="m")]
 [name="“酷吏”"]不是你自己信誓旦旦地向我们保证，会带祭器来为庆典增光吗？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]抱歉，是我考虑不周......
+[name="涅梅丝"]抱歉，是我考虑不周……
 [charslot(slot="m",name="avg_npc_247",focus="m")]
 [name="“歌唱家”"]算了吧，这事也不是涅梅丝自己提的。
 [name="“歌唱家”"]打一开始我就说了，一帮整天和逝者啊灵魂啊打交道的人，送来的东西也不吉利，还不如就拿来一枚哨笛呢。
 [charslot(slot="m",name="avg_npc_234",focus="m")]
 [name="“监察官”"]你被“守灵人”救过，你当然替她说好话了！这事不能就这么算了！“守灵人”，你说，这事你怎么负责？
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
-[name="涅梅丝"]......
+[name="涅梅丝"]……
 [Dialog]
 [charslot(slot="m",name="avg_npc_723_1#5$1",focus="m")]
 [name="“校官”"]安静！
@@ -286,16 +286,16 @@
 [charslot(slot="m",name="avg_npc_723_1#1$1",focus="m")]
 [name="“校官”"]或者，你也可以趁现在去巴结几位大员，让他们一会儿为你美言几句。
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]我......做不到。
+[name="涅梅丝"]我……做不到。
 [charslot(slot="m",name="avg_npc_723_1#7$1",focus="m")]
 [name="“校官”"]你倒很正直。
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
-[name="涅梅丝"]“校官”先生，这些人......他们真的一向如此吗？
+[name="涅梅丝"]“校官”先生，这些人……他们真的一向如此吗？
 [charslot(slot="m",name="avg_npc_723_1#1$1",focus="m")]
 [name="“校官”"]哈，一向如此？
 [name="“校官”"]“官僚”，他曾经为了银石崖前线的后勤殚精竭虑，几日几夜没合眼，累到差点在纳斯尔纱的农业地块昏死过去。
 [name="“校官”"]“酷吏”，他是个铁石心肠的恶棍，但战争期间，纳斯尔纱附近囤粮的豪商和贵族只要听见他的名字，腿就吓得发软。
-[name="“校官”"]“拷问者”，我见过他以听别人哀号和惨叫为乐，可也见过他如同一条发疯的牙兽，冲入敌人的军阵......
+[name="“校官”"]“拷问者”，我见过他以听别人哀号和惨叫为乐，可也见过他如同一条发疯的牙兽，冲入敌人的军阵……
 [charslot(slot="m",name="avg_npc_723_1#5$1",focus="m")]
 [name="“校官”"]可现在呢？如果不是殿下否决，城里已经困难到这种地步，这些人恐怕还想着一顿丰盛的晚宴呢。
 [Dialog]
@@ -328,7 +328,7 @@
 [charslot(slot="m",name="avg_npc_1749_1#1$1",focus="m")]
 [name="“拷问者”"]二位偷偷聊什么呢？
 [charslot(slot="m",name="avg_npc_246",focus="m")]
-[name="“官僚”"]那个，我们......
+[name="“官僚”"]那个，我们……
 [charslot(slot="m",name="avg_npc_234",focus="m")]
 [name="“监察官”"]我们在说那个英雄库林的事呢。
 [charslot(slot="m",name="avg_npc_1749_1#1$1",focus="m")]
@@ -337,9 +337,9 @@
 [name="“监察官”"]他当年说的是自己在黑林里借着地形弄死了一整队维多利亚斥候，四五个人，最后剩了个孩子没忍心下手，是不是？
 [name="“监察官”"]可你自己想，一队斥候怎么会带个孩子？
 [charslot(slot="m",name="avg_npc_1749_1#1$1",focus="m")]
-[name="“拷问者”"]嗯？“守灵人”解释过，那队斥候是挟持了一帮以前往来塔拉和维多利亚的商队，帮他们在黑林里带的路......
+[name="“拷问者”"]嗯？“守灵人”解释过，那队斥候是挟持了一帮以前往来塔拉和维多利亚的商队，帮他们在黑林里带的路……
 [charslot(slot="m",name="avg_npc_234",focus="m")]
-[name="“监察官”"]商队多半是有的，可斥候......哼，我看啊，不好说。
+[name="“监察官”"]商队多半是有的，可斥候……哼，我看啊，不好说。
 [Dialog]
 [stopmusic(fadetime=2)]
 [stopSound(channel="bse", fadetime=2)]
@@ -355,7 +355,7 @@
 [focusout(duration=1.5, type="bg", from=1, to=0, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
-[name="作家"]“可斥候......哼，我看啊，不好说。”
+[name="作家"]“可斥候……哼，我看啊，不好说。”
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_bottlecollide", volume=0.6)]
@@ -385,7 +385,7 @@
 [name="神秘的女性"]深池在庆功会上的丑态。
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
 [name="作家"]唔，是的，丑态。
-[name="作家"]那么，这场庆功会真正的主角马上就要登场......
+[name="作家"]那么，这场庆功会真正的主角马上就要登场……
 [Dialog]
 [charslot]
 [focusout(duration=1.5, type="bg", from=0, to=1, block=true)]
@@ -419,7 +419,7 @@
 [name="“官僚”"]我头顶是不是有什么东西爬过去了？
 [charslot(slot="m",name="avg_npc_234",focus="m")]
 [name="“酷吏”"]哈，天气都这么冷了，纳斯尔纱居然还有虫子。你别动，我把它抓下来——
-[name="“酷吏”"]等等，这......
+[name="“酷吏”"]等等，这……
 [Dialog]
 [charslot]
 [stopmusic(fadetime=3)]
@@ -429,7 +429,7 @@
 所有人都盯着“官僚”的头顶，那里停着一只甲虫。
 纯金的甲虫。
 [charslot(slot="m",name="avg_npc_234",focus="m")]
-[name="“酷吏”"]......唔，是你背后的陈设掉下来了。给，你自己放回去吧。
+[name="“酷吏”"]……唔，是你背后的陈设掉下来了。给，你自己放回去吧。
 [Dialog]
 [charslot]
 “酷吏”把甲虫从“官僚”头顶取下，放在他的手里。
@@ -456,11 +456,11 @@
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]当然。我又怎么会责怪你呢？
 [charslot(slot="m",name="avg_npc_246",focus="m")]
-[name="“官僚”"]您不见怪就好......
+[name="“官僚”"]您不见怪就好……
 [name="“官僚”"]对了，关于之前向您禀报的祭器的事情——
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
 [name="爱布拉娜"]这种小事，无关紧要。
-[name="爱布拉娜"]真正重要的是，我忠心的仆臣们......你们应当为这场胜利受到奖赏。
+[name="爱布拉娜"]真正重要的是，我忠心的仆臣们……你们应当为这场胜利受到奖赏。
 [Dialog]
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [charslot(duration=1)]
@@ -479,18 +479,18 @@
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]去追上它吧，它是你的了。只要它还愿意停留在你身边，你就可以执掌征收谷物的权力。
 [charslot(slot="m",name="avg_npc_246",focus="m")]
-[name="“官僚”"]是......是！
+[name="“官僚”"]是……是！
 [Dialog]
 [PlaySound(key="$d_avg_walkfast", volume=0.7)]
 [charslot(duration=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
-[name="爱布拉娜"]接下来......
+[name="爱布拉娜"]接下来……
 [Dialog]
 [charslot]
 爱布拉娜扫视房间内的人群。
 有的人直勾勾地盯着“官僚”的背影，想着自己会受赐什么，另一些人则控制不住地看向房间内的其他珍藏。
-执掌刑律的宝剑，倾听申诉的云兽，记录历史的绳结，象征悲悯的水晶泪滴......
+执掌刑律的宝剑，倾听申诉的云兽，记录历史的绳结，象征悲悯的水晶泪滴……
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
 [name="爱布拉娜"]看来，各位都已经等不及了。
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]

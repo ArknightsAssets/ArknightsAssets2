@@ -8,7 +8,7 @@
 [name=""]   哦，是你。
 [Dialog]
 [name=""]   离我们上一次见面，已经过去了很久。
-[name=""]   这段时间里......你一直徘徊在悬崖的边缘。
+[name=""]   这段时间里……你一直徘徊在悬崖的边缘。
 [Dialog]
 [Delay(time=1.3)]
 [name=""]   你可能已经忘记了你的身份，但你还记得那个名字，这就够了。
@@ -21,7 +21,7 @@
 [name=""]   4月1日。
 [name=""]   你可能记不清这一天对你来说，究竟意味着什么。
 [name=""]   这会让你陷入十分危险的处境。
-[name=""]   ......
+[name=""]   ……
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Image]
 [name=""]   不。
@@ -36,18 +36,18 @@
 [Blocker(a=0, fadetime=0.3, block=true)]
 [CameraEffect(effect="Grayscale", fadetime=18, amount=0, block=false)]
 [Delay(time=3)]
-[name="模糊的声音"]   ......找到了......大箱子......打不开。
+[name="模糊的声音"]   ……找到了……大箱子……打不开。
 [name="电子音"]   请输入语音口令。
-[name="模糊的声音"]   ......
+[name="模糊的声音"]   ……
 [name="模糊的声音"]   “为了罗德岛”？
 [name="电子音"]   口令错误。
 [name="电子音"]   声纹认证失败。检测到非认证个体正在输入口令。
 [name="电子音"]   疑似非法入侵。请立刻输入正确口令，否则自卫协议将启动，对入侵者进行驱逐。
 [CameraEffect(effect="Grayscale", fadetime=8, amount=1, block=false)]
-[name="模糊的声音"]   对了......出发前领袖......卡——
+[name="模糊的声音"]   对了……出发前领袖……卡——
 [name="模糊的声音"]   我有认证卡！
 [name="电子音"]   口令错误，自卫协议即将启动。
-[name="模糊的声音"]   怎么办......对了......把卡放上去！
+[name="模糊的声音"]   怎么办……对了……把卡放上去！
 [dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=0.6)]
 [delay(time=2)]
@@ -60,12 +60,12 @@
 [name="电子音"]   装置即将开启。
 [Dialog]
 [Delay(time=1)]
-[name="模糊的声音"]   呼......好险......
+[name="模糊的声音"]   呼……好险……
 [dialog]
 [playsound(key="$d_avg_labamb", loop=false, channel="aa",volume=0.8)]
 [stopSound(channel="aa", fadetime=3)]
 [Delay(time=3)]
-[name="模糊的声音"]   真的......人！
+[name="模糊的声音"]   真的……人！
 [Dialog]
 [Delay(time=0.5)]
 [StopMusic(fadetime=1)]
@@ -83,11 +83,11 @@
 [Blocker(a=1, r=225, g=225, b=225, afrom=1, rfrom=0, gfrom=0, bfrom=0, fadetime=2, block=true)]
 [Image(fadetime=0)]
 [Image(image="60_ifd01",x=150, y=250,xScale=1.4, yScale=1.4, fadetime=0)]
-[name="？？？"]   ......
+[name="？？？"]   ……
 [Dialog]
 [Blocker(a=0, r=1, g=1, b=1,  fadetime=10, block=false)]
-[name="？？？"]   ......手！
-[name="？？？"]   抓......紧！
+[name="？？？"]   ……手！
+[name="？？？"]   抓……紧！
 [name="？？？"]   抓紧我的手！！
 [Dialog]
 [Delay(time=1)]
@@ -99,7 +99,7 @@
 [ImageTween(xFrom=-100, yFrom=-50, xTo=0, yTo=0, xScaleFrom=1, yScaleFrom=1, xScaleTo=1, yScaleTo=1, duration=35, block=false)]
 [Image(image="60_ifd02",x=-100, y=-50,xScale=1, yScale=1, fadetime=2)]
 [delay(time=2)]
-[name="？？？"]   ......
+[name="？？？"]   ……
 [Dialog]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=3, block=true)]
 [Blocker(a=1, r=0, g=0, b=0,  fadetime=2, block=true)]
@@ -108,7 +108,7 @@
 [name="？？？"]   喂，说句话，你还活着吗？
 [dialog]
 [charslot]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="？？？"]   好像死了。
@@ -125,7 +125,7 @@
 [delay(time=2)]
 [dialog]
 [charslot]
-[Decision(options="......（吃痛地呼吸）",values="1")]
+[Decision(options="……（吃痛地呼吸）",values="1")]
 [Predicate(references="1")]
 [name="？？？"]   哦？好像有效果，再来！
 [dialog]
@@ -135,7 +135,7 @@
 [delay(time=2)]
 [dialog]
 [charslot]
-[Decision(options="......（试图抓住对方的手）",values="1")]
+[Decision(options="……（试图抓住对方的手）",values="1")]
 [Predicate(references="1")]
 [name="？？？"]   再来！
 [dialog]
@@ -169,7 +169,7 @@
 [name="凯文"]   恶灵，我们的领袖想见你。
 [dialog]
 [charslot]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   不过，你看起来一点力气都没有。我还以为罗德岛要复活的恶灵会很可怕呢。
@@ -179,7 +179,7 @@
 [name="凯文"]   喂，你怎么了？
 [dialog]
 [charslot]
-[Decision(options="我......我是谁？;你叫我“恶灵”？是指什么？",values="1;2")]
+[Decision(options="我……我是谁？;你叫我“恶灵”？是指什么？",values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   我不知道啊。
@@ -191,7 +191,7 @@
 [name="凯文"]   所以我们提前赶到了这里，打算把你抢过来。
 [dialog]
 [charslot]
-[Decision(options="罗德岛？;......？！;罗德岛是......好熟悉的名字......",values="1;2;3")]
+[Decision(options="罗德岛？;……？！;罗德岛是……好熟悉的名字……",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   罗德岛是感染者最大的敌人。
@@ -199,7 +199,7 @@
 [name="凯文"]   他们要把感染者从大地上赶尽杀绝，为了这个目的，不惜把各个国家都搅得天翻地覆。
 [dialog]
 [charslot]
-[Decision(options="他们是坏蛋？;......;直觉告诉我，好像不该是这样......",values="1;2;3")]
+[Decision(options="他们是坏蛋？;……;直觉告诉我，好像不该是这样……",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   在罗德岛待过的霜星大姐说，他们以前是一家挺厉害的制药公司，开着一艘叫“罗德岛”的船在大地上四处救人。
@@ -207,7 +207,7 @@
 [name="凯文"]   但是不知道怎么回事，船上的那个P什么的系统把所有人都给控制住了，然后，罗德岛就变了。
 [dialog]
 [charslot]
-[Decision(options="我......我不知道。;......;我现在......很混乱。",values="1;2;3")]
+[Decision(options="我……我不知道。;……;我现在……很混乱。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   别怕，朋友。
@@ -218,16 +218,16 @@
 [Decision(options="我的名字是——{@nickname}。",values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
-[name="凯文"]   你这个名字......还真难念。
+[name="凯文"]   你这个名字……还真难念。
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
-[name="凯文"]   领袖说，罗德岛的恶灵是个很有学问的人，我们这里称呼有学问的人，都是叫......叫什么来着？
+[name="凯文"]   领袖说，罗德岛的恶灵是个很有学问的人，我们这里称呼有学问的人，都是叫……叫什么来着？
 [charslot(slot = "m", name = "char_1002_nsabr_1")]
 [name="整合运动战士"]   大学生！
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   对，我就叫你大学生吧！
 [dialog]
 [charslot]
-[Decision(options="......你还是叫我博士吧。",values="1")]
+[Decision(options="……你还是叫我博士吧。",values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   博士？那也不错。
@@ -307,7 +307,7 @@
 [name="凯文"]   我们会保护你的！
 [dialog]
 [charslot]
-[Decision(options="......现在接触罗德岛，不是明智之举。;看来，我需要见一见整合运动的领袖。",values="1;2")]
+[Decision(options="……现在接触罗德岛，不是明智之举。;看来，我需要见一见整合运动的领袖。",values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   博士，你在自言自语什么呢！
@@ -326,15 +326,15 @@
 [Decision(options="或许我能想办法让大家都活下去。",values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
-[name="凯文"]   你......认真的？
+[name="凯文"]   你……认真的？
 [dialog]
 [charslot]
-[Decision(options="嗯。;......;当然。",values="1;2;3")]
+[Decision(options="嗯。;……;当然。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   你现在的样子，和领袖简直一模一样。
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
-[name="凯文"]   而且......
+[name="凯文"]   而且……
 [dialog]
 [charslot]
 [Decision(options="而且？",values="1")]
@@ -345,7 +345,7 @@
 [name="凯文"]   博士，我们可以相信你，对吗？
 [dialog]
 [charslot]
-[Decision(options="当然。;......;也许吧。",values="1;2;3")]
+[Decision(options="当然。;……;也许吧。",values="1;2;3")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   真不可思议。
@@ -361,7 +361,7 @@
 [name="凯文"]   就算最后失败了，也没人会怨你的。
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
-[name="凯文"]   既然如此......
+[name="凯文"]   既然如此……
 [charslot(slot = "m", name = "char_1002_nsabr_2")]
 [name="凯文"]   博士，我们现在需要你发挥你的智慧。
 [charslot(slot = "m", name = "char_1002_nsabr_2")]

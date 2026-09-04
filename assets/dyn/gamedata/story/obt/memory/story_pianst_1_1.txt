@@ -9,7 +9,7 @@
 [delay(time=1)] 
 [charslot(slot="m",name="avg_1024_hbisc2_1#7$1",duration=1.5)]
 [Delay(time=2)]
-[name="芙蓉"]唉......
+[name="芙蓉"]唉……
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="医疗干员"]芙蓉，你又来给车尔尼先生送药吗？
 [charslot(slot="m",name="avg_1024_hbisc2_1#1$1")]
@@ -32,7 +32,7 @@
 [charslot(duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_1024_hbisc2_1#7$1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Dialog]
 [playsound(key="$doorknockquite")]
 [Delay(time=0.5)]
@@ -64,7 +64,7 @@
 [Dialog]
 [charslot(slot="m",name="avg_4047_pianst_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [Dialog]
 [charslot]
 大部分时候，这一幕意味着他正在进行创作，而这种状态下的他，没有人能够打扰。
@@ -93,10 +93,10 @@
 [Delay(time=2)]
 [charslot(slot="l",name="avg_1024_hbisc2_1#3$1",focus="l")]
 [name="芙蓉"]欸？欸？？
-[name="芙蓉"]嗯？桌上这是什么......
+[name="芙蓉"]嗯？桌上这是什么……
 [charslot(slot="l",name="avg_1024_hbisc2_1#11$1",focus="l")]
 [name="芙蓉"]过去的体检报告？
-[name="芙蓉"]......
+[name="芙蓉"]……
 [charslot(slot="l",name="avg_1024_hbisc2_1#3$1",focus="l")]
 [name="芙蓉"]等等，车尔尼先生，您还没体检呢！
 [Dialog]
@@ -111,7 +111,7 @@
 [Delay(time=3.5)]
 [StopSound(channel="1",fadetime=1.5)]
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1",focus="m")]
-[name="芙蓉"]......没想到车尔尼先生开班的消息放出去后，会来这么多人。
+[name="芙蓉"]……没想到车尔尼先生开班的消息放出去后，会来这么多人。
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]请问车尔尼大师的钢琴班是在这里报名吗？
 [charslot(slot="m",name="avg_1024_hbisc2_1#1$1",focus="m")]
@@ -124,7 +124,7 @@
 [name="有品味的病人"]这位可是莱塔尼亚的名家，错过这个机会，下次就没了！
 [name="有品味的病人"]这可是你的好机会。
 [charslot(slot="m",name="avg_npc_661_1#1$1",focus="m")]
-[name="排斥的孩童"]......好吧。
+[name="排斥的孩童"]……好吧。
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]小姐，我听说车尔尼大师不好相处，请问有什么需要我注意的地方吗？
 [charslot(slot="m",name="avg_1024_hbisc2_1#1$1",focus="m")]
@@ -134,14 +134,14 @@
 [name="有品味的病人"]好的，好的。
 [name="有品味的病人"]站直，立正，调整好表情，进去之后好好表现。
 [charslot(slot="m",name="avg_npc_661_1#1$1",focus="m")]
-[name="排斥的孩童"]是......
+[name="排斥的孩童"]是……
 [charslot(slot="m",name="avg_1024_hbisc2_1#9$1",focus="m")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [name="芙蓉"]请问，车尔尼先生在维多利亚也很有名气吗？
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]嗯？你不是他的助手吗？这都不知道？
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1",focus="m")]
-[name="芙蓉"]......抱歉，我是他的医生，只是怕他出事，所以才来帮忙维持秩序。
+[name="芙蓉"]……抱歉，我是他的医生，只是怕他出事，所以才来帮忙维持秩序。
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]哦，医生，那你看来对音乐了解不深。
 [name="有品味的病人"]车尔尼先生的《晨暮》，即使在维多利亚的贵族圈子里，也是广为传播的。
@@ -151,7 +151,7 @@
 [name="有品味的病人"]哎，真没想到，我光知道车尔尼先生也来了罗德岛治病，原以为最多听他弹奏一曲。
 [name="有品味的病人"]听说这位大师性情十分古怪，没想到他居然愿意开班。医生，你知道是为什么吗？
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1",focus="m")]
-[name="芙蓉"]我......不知道。
+[name="芙蓉"]我……不知道。
 [name="芙蓉"]也许是车尔尼先生想要换一换心境吧。
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]呵呵，也许吧。反正，这一趟回去，不知道有多少太太要羡慕我了。
@@ -164,7 +164,7 @@
 [charslot(slot="r",name="avg_npc_177",focus="r")]
 [name="焦急的病人"]车尔尼大师，您怎么了？！
 [charslot(slot="l",name="avg_4047_pianst_1#7$1",focus="l")]
-[name="车尔尼"]......抱歉，我忽然有些急事。
+[name="车尔尼"]……抱歉，我忽然有些急事。
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="l",posfrom="0,0",posto="-50,0",duration=1.5)]
@@ -175,8 +175,8 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_1024_hbisc2_1#9$1",focus="m")]
-[name="芙蓉"]（低声）他的表情......
-[name="芙蓉"]......抱歉，先生，请在这里等候，我去看一看。
+[name="芙蓉"]（低声）他的表情……
+[name="芙蓉"]……抱歉，先生，请在这里等候，我去看一看。
 [Dialog]
 [playsound(key="$rungeneral")]
 [charslot(duration=1.5)]
@@ -218,9 +218,9 @@
 [charslot(slot="m",name="avg_4047_pianst_1#3$1",focus="m")]
 [name="车尔尼"]上一个人也是！再上一个——
 [charslot(slot="m",name="avg_4047_pianst_1#7$1",focus="m")]
-[name="车尔尼"]哦，那个人倒是还好，只是希望自己的孩子能受一点音乐方面的熏陶......
+[name="车尔尼"]哦，那个人倒是还好，只是希望自己的孩子能受一点音乐方面的熏陶……
 [charslot(slot="m",name="avg_1024_hbisc2_1#7$1",focus="m")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [playsound(key="$d_gen_walk_n")]
@@ -250,7 +250,7 @@
 [Dialog]
 车尔尼指了指沙袋。
 [charslot(slot="r",name="avg_1024_hbisc2_1#4$1",focus="r")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [name="芙蓉"]并不是所有人都能做到像您这么纯粹的呀。
 [charslot(slot="l",name="avg_4047_pianst_1#1$1",focus="l")]
 [name="车尔尼"]我当然能够理解。
@@ -265,12 +265,12 @@
 [name="芙蓉"]您要是这么不喜欢这些慕名而来的贵族，要不然还是不要开这个班了。
 [name="芙蓉"]我们医疗部也担心您的身体——
 [charslot(slot="l",name="avg_4047_pianst_1#1$1",focus="l")]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [name="车尔尼"]不，不行。
 [charslot(slot="l",name="avg_4047_pianst_1#7$1",focus="l")]
 [name="车尔尼"]我必须开这个班，这是我必须克服的障碍。
 [charslot(slot="r",name="avg_1024_hbisc2_1#4$1",focus="r")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [charslot(slot="r",name="avg_1024_hbisc2_1#1$1",focus="r")]
 [name="芙蓉"]如果您实在不太愿意应付那些监护人，我可以去和那些监护人谈一谈，让他们只把孩子送进去。
 [name="芙蓉"]并且，您未来的课程中，也谢绝监护人的陪伴。
@@ -285,7 +285,7 @@
 [charslot(slot="l",afrom=1,ato=0,duration=1)]
 [Delay(time=2)]
 [charslot(slot="r",name="avg_1024_hbisc2_1#4$1",focus="r")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -329,15 +329,15 @@
 [name="有品味的病人"]实际上，别的监护人也多少从他们的孩子那里收到了类似的意见。
 [name="有品味的病人"]他不愿意让我们进入课堂，我们可以理解，但是，您看，关于上课的节奏——
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]啊，我不是说要大师改变自己的步调，只不过，是否有可能稍微进行一些调整呢？
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]......孩子们都这么想吗？
+[name="芙蓉"]……孩子们都这么想吗？
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]嗯，至少我家的孩子是这么想的。
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [name="芙蓉"]我会去和他聊一聊的。
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="有品味的病人"]好的，好的，太感谢您了。
@@ -346,7 +346,7 @@
 [charslot(duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -365,7 +365,7 @@
 [charslot(slot="m",name="avg_4047_pianst_1#8$1",focus="m")]
 [name="车尔尼"]谢谢真理老师！
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [charslot(slot="m",name="avg_1024_hbisc2_1#11$1")]
 [name="芙蓉"]真理，这到底是怎么回事？
 [charslot(slot="m",name="char_195_glassb_2#1")]
@@ -384,7 +384,7 @@
 [charslot]
 [charslot(slot="l",name="avg_1024_hbisc2_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_4047_pianst_1#1$1",focus="r")]
-[name="车尔尼"]嗯......原来如此。
+[name="车尔尼"]嗯……原来如此。
 [name="车尔尼"]在学生提问的时候，应该用引导的方式，而不是直接否定。
 [charslot(slot="r",name="avg_4047_pianst_1#2$1",focus="r")]
 [name="车尔尼"]重要的不是立刻理解，而是创造理解的道路。
@@ -403,7 +403,7 @@
 [name="车尔尼"]但我错了。
 [name="车尔尼"]其实许多人并不能做到这一点。
 [charslot(slot="l",name="avg_1024_hbisc2_1#11$1",focus="l")]
-[name="芙蓉"]......我觉得，这应该是很正常的事情。
+[name="芙蓉"]……我觉得，这应该是很正常的事情。
 [charslot(slot="r",name="avg_4047_pianst_1#1$1",focus="r")]
 [name="车尔尼"]我不否认这一点。
 [name="车尔尼"]但是，这对我来说就成了一个难题。
@@ -419,7 +419,7 @@
 [charslot(slot="r",name="avg_4047_pianst_1#9$1",focus="r")]
 [name="车尔尼"]我现在深有体会，教育也是一件十分深奥的事情啊！
 [charslot(slot="l",name="avg_1024_hbisc2_1#4$1",focus="l")]
-[name="芙蓉"]您还真是......热衷于这件事。
+[name="芙蓉"]您还真是……热衷于这件事。
 [charslot(slot="r",name="avg_4047_pianst_1#8$1",focus="r")]
 [name="车尔尼"]当然。
 [charslot(slot="l",name="avg_1024_hbisc2_1#4$1",focus="l")]
@@ -430,7 +430,7 @@
 [name="车尔尼"]哦，抱歉，芙蓉。
 [name="车尔尼"]我要去上课了，体检可以等到上完课吗？
 [charslot(slot="l",name="avg_1024_hbisc2_1#11$1",focus="l")]
-[name="芙蓉"]......我知道了。
+[name="芙蓉"]……我知道了。
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -455,11 +455,11 @@
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="r")]
 [name="医疗干员"]芙蓉，你怎么了，心不在焉的。
 [charslot(slot="l",name="avg_1024_hbisc2_1#11$1",focus="l")]
-[name="芙蓉"]......我在想，车尔尼先生为什么会想要开这个钢琴班呢？
+[name="芙蓉"]……我在想，车尔尼先生为什么会想要开这个钢琴班呢？
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="r")]
 [name="医疗干员"]像他这样的人，音乐成就已经几乎走到巅峰了，想要收几个学生也是理所当然的吧？
 [charslot(slot="l",name="avg_1024_hbisc2_1#11$1",focus="l")]
-[name="芙蓉"]他的音乐成就已经走到巅峰了......吗？
+[name="芙蓉"]他的音乐成就已经走到巅峰了……吗？
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="r")]
 [name="医疗干员"]不是吗？
 [name="医疗干员"]他的曲子已经被许多人了解了。
@@ -477,7 +477,7 @@
 [charslot(slot="r",name="avg_npc_501_1#1$1",focus="r")]
 [name="医疗干员"]也对，不然早就把他绑到医疗部来接受治疗了。
 [charslot(slot="l",name="avg_1024_hbisc2_1#4$1",focus="l")]
-[name="芙蓉"]而这样的人，现在却......
+[name="芙蓉"]而这样的人，现在却……
 [Dialog]
 [charslot]
 [playsound(key="$doorknockquite")]
@@ -493,7 +493,7 @@
 [name="有品味的病人"]听我家的孩子说，车尔尼大师今天没来上课，大师是不是身体状况欠佳？
 [stopmusic(fadetime=1.5)]
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1",focus="m")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [charslot(slot="m",name="avg_1024_hbisc2_1#5$1",focus="m")]
 [name="芙蓉"]请等一等，我去看一看他的状况。
 [Dialog]
@@ -513,7 +513,7 @@
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_1024_hbisc2_1#5$1",focus="m")]
 [name="芙蓉"]车尔尼先生，车尔尼先生！
-[name="芙蓉"]......
+[name="芙蓉"]……
 [charslot(slot="m",name="avg_1024_hbisc2_1#6$1",focus="m")]
 [name="芙蓉"]抱歉，我要进来了。
 [Dialog]
@@ -538,7 +538,7 @@
 [Dialog]
 [charslot]
 [stopmusic(fadetime=1.5)]
-[name="倒下的车尔尼"]嗯？唔......现在几点了？
+[name="倒下的车尔尼"]嗯？唔……现在几点了？
 [name="倒下的车尔尼"]啊？糟了，来不及上课了！
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1",focus="m")]
 [name="芙蓉"]车尔尼先生？！
@@ -554,7 +554,7 @@
 [name="车尔尼"]哦，芙蓉，抱歉，我好像睡过头了。
 [name="车尔尼"]你是来催我上课的吗？
 [charslot(slot="r",name="avg_1024_hbisc2_1#5$1",focus="r")]
-[name="芙蓉"]......不，我是来看您有没有死了的。
+[name="芙蓉"]……不，我是来看您有没有死了的。
 [charslot(slot="l",name="avg_4047_pianst_1#8$1",focus="l")]
 [name="车尔尼"]哦，那你可以放心，在教出满意的学生之前，我没打算死。
 [charslot(slot="r",name="avg_1024_hbisc2_1#5$1",focus="r")]
@@ -562,9 +562,9 @@
 [charslot(slot="l",name="avg_4047_pianst_1#8$1",focus="l")]
 [name="车尔尼"]哦，你听这些音乐，这都是学生们的作品。
 [name="车尔尼"]我想找到他们每个人的特质，然后为他们设计一些更符合他们的课程。
-[name="车尔尼"]呼啊......最近确实有些睡眠不足了。
+[name="车尔尼"]呼啊……最近确实有些睡眠不足了。
 [charslot(slot="r",name="avg_1024_hbisc2_1#11$1",focus="r")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [name="芙蓉"]我有一个疑问。
 [charslot(slot="l",name="avg_4047_pianst_1#4$1",focus="l")]
 [name="车尔尼"]嗯？
@@ -598,13 +598,13 @@
 [charslot(slot="l",name="avg_4047_pianst_1#2$1",focus="l")]
 [name="车尔尼"]也就是说，你以为我放弃了求生意志，拼命地想找个接班人，然后迎接自己的死亡？
 [charslot(slot="r",name="avg_1024_hbisc2_1#4$1",focus="r")]
-[name="芙蓉"]......是的。
+[name="芙蓉"]……是的。
 [charslot(slot="l",name="avg_4047_pianst_1#1$1",focus="l")]
 [name="车尔尼"]我表现得像是那样吗？
 [charslot(slot="r",name="avg_1024_hbisc2_1#4$1",focus="r")]
 [name="芙蓉"]对不起。
 [charslot(slot="l",name="avg_4047_pianst_1#7$1",focus="l")]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [charslot(slot="l",name="avg_4047_pianst_1#2$1",focus="l")]
 [name="车尔尼"]有一点我并不否认，芙蓉。
 [charslot(slot="l",name="avg_4047_pianst_1#1$1",focus="l")]
@@ -628,7 +628,7 @@
 [Delay(time=2)]
 车尔尼沉默了一会儿，走到窗边，指着远处的一座山峰。
 [charslot(slot="m",name="avg_4047_pianst_1#7$1",focus="m")]
-[name="车尔尼"]......这么说吧。
+[name="车尔尼"]……这么说吧。
 [name="车尔尼"]就像这片大地上的其他诸多事业一样，音乐是一座永远看不到顶点的高峰。
 [name="车尔尼"]我的宿命，就是攀登它，直到生命的最后一刻。
 [charslot(slot="m",name="avg_4047_pianst_1#2$1",focus="m")]
@@ -653,14 +653,14 @@
 车尔尼说着，从杂乱的文件堆里翻出一叠纸，递给芙蓉。
 芙蓉立刻就被标题吸引了注意——“研究经费申请请示书”。
 [charslot(slot="m",name="avg_1024_hbisc2_1#11$1",focus="m")]
-[name="芙蓉"]......这是？
+[name="芙蓉"]……这是？
 [charslot(slot="m",name="avg_4047_pianst_1#8$1",focus="m")]
 [name="车尔尼"]对一个莱塔尼亚人，尤其是对我来说，将音乐和源石技艺结合在一起是一件理所当然的事情。
 [name="车尔尼"]但对其他国家的人来说，这一点并不那么容易理解。
 [name="车尔尼"]我认真剖析了这一点，觉得它大有可为，所以为此写了一份经费申请书。
 [name="车尔尼"]如何，这样应该能让你放心吧？
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1",focus="m")]
-[name="芙蓉"]......怎么可能。
+[name="芙蓉"]……怎么可能。
 [charslot(slot="m",name="avg_4047_pianst_1#4$1",focus="m")]
 [name="车尔尼"]咦？
 [charslot(slot="m",name="avg_1024_hbisc2_1#5$1",focus="m")]
@@ -668,7 +668,7 @@
 [charslot(slot="m",name="avg_1024_hbisc2_1#6$1",focus="m")]
 [name="芙蓉"]如果您真的想要教出一些好学生，那么，为了那些学生，您也应该更加爱惜身体。
 [charslot(slot="m",name="avg_4047_pianst_1#9$1",focus="m")]
-[name="车尔尼"]......不得不说，这是我听过的最有说服力的医嘱了。
+[name="车尔尼"]……不得不说，这是我听过的最有说服力的医嘱了。
 [charslot(slot="m",name="avg_1024_hbisc2_1#8$1",focus="m")]
 [name="芙蓉"]总之，您可以把这份文件交给我。
 [name="芙蓉"]然后，您该去上课了。
@@ -680,7 +680,7 @@
 [name="车尔尼"]我不能以这样的面貌去见我的学生们。
 [name="车尔尼"]我要洗漱一下，而且手部的护理也还没有做，需要一些时间。
 [charslot(slot="m",name="avg_1024_hbisc2_1#8$1",focus="m")]
-[name="芙蓉"]唉......好吧，就听您的。
+[name="芙蓉"]唉……好吧，就听您的。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

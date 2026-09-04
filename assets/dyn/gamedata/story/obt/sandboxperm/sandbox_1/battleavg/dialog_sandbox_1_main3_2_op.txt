@@ -27,7 +27,7 @@
 [predicate(references="6.1")]
 [name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]北方，一直向北走，那里有一片鲜少被踏足的土地。
 [name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]据说那里藏有阿尔萨兰的宝藏，但因为地形险恶，没有人能验证那些传说。
-[decision(option1="......正好顺路。", value1="7.1")]
+[decision(option1="……正好顺路。", value1="7.1")]
 [predicate(references="7.1")]
 [name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]我会为你们准备好足够的酬劳。
 [decision(option1="那倒是其次。", value1="8.1")]
@@ -37,7 +37,7 @@
 [name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]这难道不是最大的动力吗？
 [decision(option1="你都叫我们朋友了。", value1="9.1")]
 [predicate(references="9.1")]
-[name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]哦......我心里感觉很温暖，祝你们一路顺风，我时刻等着你们的好消息。
+[name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]哦……我心里感觉很温暖，祝你们一路顺风，我时刻等着你们的好消息。
 [name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]这份澄亮石的分布图就作为我为你们准备的谢礼。
 [additem(itemId="sandbox_1_craft_4", itemCount="1")]
 （你获得了阿尔萨兰澄亮石分布图，现在可以采掘澄亮石了。）

@@ -48,12 +48,12 @@
 [name="“异邦人”"]出于贪婪与卑劣，出于恐惧与怯懦，我们主动或自以为被迫地，踏上了不应属于我们的土地。
 [name="“异邦人”"]本应该养育家人的双手拆散了他人的家庭，本应该守护自己国度的长矛刺向了无辜的人群。
 [charslot(slot="m",name="avg_4056_titi_1#11$2",focus="m")]
-[name="“异邦人”"]我们所做过的一切......我们应该，也必须为之付出代价。
+[name="“异邦人”"]我们所做过的一切……我们应该，也必须为之付出代价。
 [Dialog]
 [charslot(slot="m",name="avg_npc_2082_1#1$1",focus="m")]
 [name="“阿加门士兵”"]您的匕首。
 [charslot(slot="m",name="avgnew_482_pallas_1#1$1",focus="m")]
-[name="“克瑞斯拉”"]......
+[name="“克瑞斯拉”"]……
 [Dialog]
 [stopmusic(fadetime=3)]
 [charslot(duration=1)]
@@ -98,7 +98,7 @@
 [ImageTween(yFrom=70, yTo=0, xScaleFrom=1.2,yScaleFrom=1.2,xScaleTo=1,yScaleTo=1,duration=8, block=false)]
 [delay(time=3)]
 她抬起头，看着帕拉斯手中的匕首。那原本应该是橡胶质地的匕首尖端，在阳光下反射出了金属的光芒。
-[name="“克瑞斯拉”"]......
+[name="“克瑞斯拉”"]……
 [name="“克瑞斯拉”"]一切必须在此刻了结。
 [name="“克瑞斯拉”"]唯有如此，我们才能取回挂在月桂树梢上的竖琴，纵饮美酒，重新回到滋养我们的群山与大地。
 这出戏必须完成，她所能做的也只有相信，相信自己的朋友，相信米诺斯人的英雄气概。
@@ -149,7 +149,7 @@
 [name="佩里安德洛斯"]这才是我想看的戏码，总得有些我们料想不到的展开。
 [name="佩里安德洛斯"]当然，若你刚才没忍住出手了，场面应该也会很有意思。
 [charslot(slot="r",name="avg_npc_2079_1#4$1",focus="r")]
-[name="西妮斯卡"]......雅赛努斯的事应该交给雅赛努斯人处理，即使没有这位......不知名的先生，也应该相信帕拉斯小姐。
+[name="西妮斯卡"]……雅赛努斯的事应该交给雅赛努斯人处理，即使没有这位……不知名的先生，也应该相信帕拉斯小姐。
 [charslot(slot="r",name="avg_npc_2079_1#1$1",focus="r")]
 [name="西妮斯卡"]我还是不够沉得住气，让你见笑了。
 [Dialog]
@@ -173,8 +173,8 @@
 [Delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
-[name="卡珊卓拉"]赞索斯......
-[name="卡珊卓拉"]你终究还是没有离开雅赛努斯吗......
+[name="卡珊卓拉"]赞索斯……
+[name="卡珊卓拉"]你终究还是没有离开雅赛努斯吗……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]

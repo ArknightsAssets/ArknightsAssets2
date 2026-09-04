@@ -7,7 +7,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$exciting_intro", key="$exciting_loop", volume=0.4)]
 [Character(name="char_411_tomimi_1")]
-[name="特米米"]  这里的楼房跟其他部族明显不一样了......
+[name="特米米"]  这里的楼房跟其他部族明显不一样了……
 [Character(name="char_2013_cerber_1")]
 [name="刻俄柏"]  破房子！
 [Character(name="char_337_utage_summer_1#2")]
@@ -77,9 +77,9 @@
 [ImageTween(xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1.05, yScaleTo=1.05,duration=20, block=false)]
 [CameraShake(duration=2, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="森蚺"]  那......那是什么啊？
+[name="森蚺"]  那……那是什么啊？
 [name="嘉维尔"]  好大的铁块！
-[name="阿达克利斯老人"]  那是萨尔贡的移动城市......
+[name="阿达克利斯老人"]  那是萨尔贡的移动城市……
 [name="森蚺"]  萨尔贡是什么？
 [name="阿达克利斯老人"]  萨尔贡是我们的国家。
 [name="森蚺"]  移动城市又是什么？
@@ -87,7 +87,7 @@
 [name="阿达克利斯老人"]  我也是年轻时有一次上去看到过。
 [name="阿达克利斯老人"]  好了，别害怕，它不会开过来的。
 [name="阿达克利斯老人"]  那是和我们一辈子都没关系的东西。
-[name="森蚺"]  ......
+[name="森蚺"]  ……
 [Delay(time=1)]
 [name="嘉维尔"]  祖玛玛，你怎么了，身体不舒服吗？
 [name="森蚺"]  没什么，我先回去了。
@@ -123,7 +123,7 @@
 [Character]
 [HideItem(fadetime=1,block=true)]
 [Character(name="char_201_moeshd_summer",name2="avg_npc_074",focus=1)]
-[name="可颂"]  总觉得跟大帝老板一样......
+[name="可颂"]  总觉得跟大帝老板一样……
 [Character(name="char_201_moeshd_summer",name2="avg_npc_074",focus=2)]
 [name="大祭司"]  大帝？你是说那只企鹅吗？
 [Character(name="char_201_moeshd_summer",name2="avg_npc_074",focus=1)]
@@ -131,7 +131,7 @@
 [Character(name="char_201_moeshd_summer",name2="avg_npc_074",focus=2)]
 [name="大祭司"]  认识认识，当然认识，虽然我们大概有几十年没见面了，咦，是几十年吗？还是几百年？算了，反正你身上确实有那家伙的气味。
 [Character(name="char_337_utage_summer_1#3")]
-[name="宴"]  几百年是怎么回事啊......
+[name="宴"]  几百年是怎么回事啊……
 [Character(name="char_201_moeshd_summer",name2="avg_npc_074",focus=1)]
 [name="可颂"]  诶诶诶，没想到老板在这里还有朋友！
 [Character(name="char_187_ccheal_1#3")]
@@ -158,9 +158,9 @@
 [Character(name="char_337_utage_summer_1")]
 [name="宴"]  呜哇，真的一下子又回到驾驶席了，好厉害啊。
 [Character(name="char_201_moeshd_summer")]
-[name="可颂"]  果然和老板一样......
+[name="可颂"]  果然和老板一样……
 [Character(name="char_187_ccheal_1", name2="char_416_zumama_1", focus=2)]
-[name="森蚺"]  ......
+[name="森蚺"]  ……
 [Character(name="char_187_ccheal_1#3", name2="char_416_zumama_1", focus=1)]
 [name="嘉维尔"]  哦，差点忘了你还在说话。不过老实说，祖玛玛，反正最后都要打一架，你说这些真的有必要吗？
 [Character(name="char_187_ccheal_1#3", name2="char_416_zumama_1#2", focus=2)]
@@ -178,13 +178,13 @@
 [name="森蚺"]  所以我下定决心，我要打破人们的这种想法，我要用更强的力量，摧毁你建立起的这种对自身力量的盲目崇拜。
 [Character(name="char_337_utage_summer_1")]
 [name="宴"]  诶，博士，我觉得她说的蛮有道理的啊，你觉得呢？
-[Decision(options="确实。;......;机器不错。",values="1;2;3")]
+[Decision(options="确实。;……;机器不错。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  博士，你到底是帮哪边的啊！
 [Predicate(references="2")]
 [Character(name="char_201_moeshd_summer")]
-[name="可颂"]  虽然确实有道理，但是又好像有哪里不对......
+[name="可颂"]  虽然确实有道理，但是又好像有哪里不对……
 [Predicate(references="3")]
 [Character(name="char_017_homura_summer")]
 [name="煌"]  对啊，那个大家伙酷诶！
@@ -238,7 +238,7 @@
 [Character(name="char_337_utage_summer_1#3")]
 [name="宴"]  虽然我体检时就有过这样的疑问了，她为什么会是医疗干员啊？
 [Character]
-[name="大祭司"]  ......虽然是敌人，但我都要忍不住为你喝彩了！
+[name="大祭司"]  ……虽然是敌人，但我都要忍不住为你喝彩了！
 [name="大祭司"]  但是但是，这还没有完呢！为了应付这种情况，大丑可是有功率全开的模式的！
 [name="大祭司"]  我按！
 [Character(name="char_187_ccheal_1#2")]
@@ -248,7 +248,7 @@
 [Character(name="char_017_homura_summer")]
 [name="煌"]  嘉维尔的力量被比下去了？！
 [Character]
-[name="大祭司"]  啊，多么动听的声音！......嗯？等等，表盘好像有点不对......嗯嗯嗯？
+[name="大祭司"]  啊，多么动听的声音！……嗯？等等，表盘好像有点不对……嗯嗯嗯？
 [stopmusic(fadetime=1)]
 [Character(name="char_416_zumama_1#6")]
 [CameraShake(duration=1.5, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -277,7 +277,7 @@
 [name="大祭司"]  哦，好吧，真遗憾，看来我需要改变策略。
 [name="大祭司"]  祖玛玛，不用担心我，我来尽可能稳住它，在这个期间让大丑停下来吧！
 [Character(name="char_416_zumama_1#4")]
-[name="森蚺"]  ......嘉维尔，你们先走吧，这与你们无关。
+[name="森蚺"]  ……嘉维尔，你们先走吧，这与你们无关。
 [Character(name="char_187_ccheal_1#2", name2="char_416_zumama_1#4", focus=1)]
 [name="嘉维尔"]  说什么呢，你不是要打败我吗？
 [Character(name="char_187_ccheal_1#2", name2="char_416_zumama_1#2", focus=2)]
@@ -290,7 +290,7 @@
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
 [PlaySound(key="$d_sp_ballista")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.25, block=true)]
-[Decision(options="宴，可颂，做好准备战斗！;......;结果还不是要我们帮忙。",values="1;2;3")]
+[Decision(options="宴，可颂，做好准备战斗！;……;结果还不是要我们帮忙。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_337_utage_summer_1#3")]
 [name="宴"]  诶，要我对付这个大家伙吗？不是吧，好麻烦耶。

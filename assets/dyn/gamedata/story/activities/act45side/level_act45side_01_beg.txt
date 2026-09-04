@@ -18,40 +18,40 @@
 [charslot(slot="m",name="avg_338_iris_1#5$1",posfrom="200,0",posto="0,0",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_338_iris_1#5$1",focus="m")]
-[name="爱丽丝"]比之前预计的时间晚了整整四个小时......
-[name="爱丽丝"]没有多少时间了......
+[name="爱丽丝"]比之前预计的时间晚了整整四个小时……
+[name="爱丽丝"]没有多少时间了……
 [charslot(slot="m",name="avg_369_bena_1#3$1",focus="m")]
-[name="贝娜"]街上完全没有人，这种地方也不可能有地图......这下麻烦了。
+[name="贝娜"]街上完全没有人，这种地方也不可能有地图……这下麻烦了。
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
 [name="丰川祥子"]不如我们分头去找，有情况就用通讯器联络。
 [charslot(slot="m",name="avg_369_bena_1#11$1",focus="m")]
-[name="贝娜"]是个不错的主意......
+[name="贝娜"]是个不错的主意……
 [charslot(slot="m",name="avg_290_vigna_1#6$1",focus="m")]
-[name="红豆"]等等，其他人我都没有意见......
+[name="红豆"]等等，其他人我都没有意见……
 [name="红豆"]但祥子你没有单独行动的经验，我不会让你一个人去的。
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
 [name="丰川祥子"]现在不是考虑这种事情的时候吧？
 [name="丰川祥子"]她信里不是已经写了，“这是我的最后一封信。”
 [charslot(slot="m",name="avg_4182_oblvns_1#7$2",focus="m")]
-[name="丰川祥子"]万一出现什么意外，那个少女......
+[name="丰川祥子"]万一出现什么意外，那个少女……
 [charslot(slot="m",name="avg_290_vigna_1#6$1",focus="m")]
-[name="红豆"]可是......！
+[name="红豆"]可是……！
 [dialog]
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
 [PlaySound(key="$d_avg_slapcloth_light", volume=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
-[name="丰川祥子"]......红豆，没事的。
+[name="丰川祥子"]……红豆，没事的。
 [name="丰川祥子"]鞭刃小姐不是说过吗，以我现在的能力，我已经可以加入行动小组了。
 [name="丰川祥子"]（拿出通讯器）要是遇到麻烦，我一定第一时间联系你，好吗？
 [charslot(slot="m",name="avg_369_bena_1#1$1",focus="m")]
 [name="贝娜"]嗯，还有我们呢！
 [charslot(slot="m",name="avg_290_vigna_1#1$1",focus="m")]
-[name="红豆"]......好吧。那你一定要小心。
+[name="红豆"]……好吧。那你一定要小心。
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
 [name="丰川祥子"]嗯。爱丽丝小姐，那个孩子的名字和地址是？
 [charslot(slot="m",name="avg_338_iris_1#9$1",focus="m")]
-[name="爱丽丝"]她叫“安”......地址是“花园街33号”。
+[name="爱丽丝"]她叫“安”……地址是“花园街33号”。
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
 [name="丰川祥子"]好。那我们就从这个十字路口开始，分头去找吧！
 [dialog]
@@ -77,8 +77,8 @@
 [stopsound(channel="a",fadetime=2.5)]
 [delay(time=2)]
 [name="丰川祥子"]呼——呼——怎么这里的路都这么复杂？
-[name="丰川祥子"]那边好像有个人......在卖花？
-[multiline(name="丰川祥子")]为什么这个时间了还有人在卖花......
+[name="丰川祥子"]那边好像有个人……在卖花？
+[multiline(name="丰川祥子")]为什么这个时间了还有人在卖花……
 [multiline(name="丰川祥子")]不管了，找人要紧！
 [name="丰川祥子"]您好——！
 [Dialog]
@@ -91,20 +91,20 @@
 [charslot(slot="m",name="avg_npc_1255_1#1$1",focus="m")]
 [name="卖花的妇人"]这里就是花园街。小姑娘，你要买花吗？
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
-[name="丰川祥子"]不，我不买花......请问您知道花园街33号怎么走吗？
+[name="丰川祥子"]不，我不买花……请问您知道花园街33号怎么走吗？
 [charslot(slot="m",name="avg_npc_1255_1#1$1",focus="m")]
 [name="卖花的妇人"]你抬头看看天上，朝着夕阳，往西边一直走到巷尾，最后那家就是33号了。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]老奶奶，现在已经是晚上了......
+[name="丰川祥子"]老奶奶，现在已经是晚上了……
 [charslot(slot="m",name="avg_npc_1255_1#1$1",focus="m")]
-[name="卖花的妇人"]唔，我真是老糊涂了......我说怎么这路上一点脚步声都没有，我也该收摊回家了。
+[name="卖花的妇人"]唔，我真是老糊涂了……我说怎么这路上一点脚步声都没有，我也该收摊回家了。
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]您看不见吗......？
+[name="丰川祥子"]您看不见吗……？
 [charslot(slot="m",name="avg_npc_1255_1#1$1",focus="m")]
 [name="卖花的妇人"]不用管我，你不是还在找地方吗？快去吧。
 [name="卖花的妇人"]夜黑灯暗，可不要再迷路了。
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
-[name="丰川祥子"]谢谢......您也注意安全。
+[name="丰川祥子"]谢谢……您也注意安全。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -122,7 +122,7 @@
 [animtextclean]
 [delay(time=1)]
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
-[name="丰川祥子"]往西边一直走......这里就是那个老奶奶说的地方了。
+[name="丰川祥子"]往西边一直走……这里就是那个老奶奶说的地方了。
 [charslot]
 [dialog]
 [delay(time=1)]
@@ -131,7 +131,7 @@
 [Delay(time=1)]
 祥子缓缓推开破旧的木门，门框发出尖锐的吱呀声。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]唔......好大的酒味？！
+[name="丰川祥子"]唔……好大的酒味？！
 [dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -141,18 +141,18 @@
 地板上满是带着泥水的鞋印，而房间的尽头是一个穿着邋遢的男人。
 男人环顾四周，接着一个个地拿起角落里摆放整齐的酒瓶。
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
-[name="醉酒的男人"]空的......
+[name="醉酒的男人"]空的……
 [dialog]
 [PlaySound(key="$bottlebroken", volume=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
-[name="醉酒的男人"]空的......
+[name="醉酒的男人"]空的……
 [dialog]
 [PlaySound(key="$bottlebroken", volume=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="醉酒的男人"]......还是空的！
+[name="醉酒的男人"]……还是空的！
 [dialog]
 [PlaySound(key="$bottlebroken", volume=1)]
 [Delay(time=1)]
@@ -161,9 +161,9 @@
 [name="醉酒的男人"]你到底到哪里去了？！
 [name="醉酒的男人"]呜呜，你是不是也和那个女人一样，丢下我跑了？！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
-[name="醉酒的男人"]唔......安娜......安娜......
+[name="醉酒的男人"]唔……安娜……安娜……
 [name="醉酒的男人"]我再也不喝酒了！我会从现在开始努力！
 [dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
@@ -172,12 +172,12 @@
 男人痛苦地跪倒，随之而来的是一声惨叫。
 方才打碎的酒瓶的碎片，毫不留情地刺入了他的掌心。
 [CameraShake(duration=0.7, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="醉酒的男人"]啊！安娜，这地板上......血......我流血了！
+[name="醉酒的男人"]啊！安娜，这地板上……血……我流血了！
 [name="醉酒的男人"]我要死了！安娜，快回来！我要死了！！
 [dialog]
 [PlaySound(key="$d_avg_clothtrailground", volume=1)]
 [Delay(time=1.5)]
-[name="醉酒的男人"]安娜......你回来了？
+[name="醉酒的男人"]安娜……你回来了？
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
 [name="丰川祥子"]我不是安娜。
 [charslot]
@@ -185,7 +185,7 @@
 [PlaySound(key="$d_avg_crwlstps", volume=1,loop="false", channel="sf")]
 [stopsound(fadetime=4, channel="sf")]
 [Delay(time=1.5)]
-[name="醉酒的男人"]你是安娜......你是安娜！
+[name="醉酒的男人"]你是安娜……你是安娜！
 [name="醉酒的男人"]你不认识我了吗？是我啊。
 [dialog]
 男人朝祥子爬了过来，可很快又是一声惨叫。
@@ -204,9 +204,9 @@
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",duration=0.7)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_661_1#1$1",focus="m")]
-[name="衣衫褴褛的少女"]......
+[name="衣衫褴褛的少女"]……
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="m",name="avg_npc_661_1#1$1",focus="m")]
 [name="衣衫褴褛的少女"]我——
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
@@ -224,20 +224,20 @@
 [charslot(slot="l",name="avg_4182_oblvns_1#12$2",focus="l")]
 [name="丰川祥子"]其实那篇没有发表的故事，才是你身上真实发生过的事情？
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
-[name="安"]......嗯。
+[name="安"]……嗯。
 [name="安"]我很喜欢童话。妈妈没离开前，给我买了很多很多的童话书。
-[name="安"]那时我们一家真的很幸福，我、妈妈......还有爸爸。
+[name="安"]那时我们一家真的很幸福，我、妈妈……还有爸爸。
 [name="安"]可妈妈离开后，那些幸福就再也没有在我身上发生过了。
 [name="安"]我尝试把自己经历的一切写下来，展现给他人看，可没有人想要看到压抑和绝望。
 [name="安"]所以我才把每一句的句意都颠倒，让它们变成最美好的童话。
-[name="安"]......可是我早就不看童话了。
+[name="安"]……可是我早就不看童话了。
 [charslot(slot="l",name="avg_4182_oblvns_1#2$2",focus="l")]
-[name="丰川祥子"]安娜......
+[name="丰川祥子"]安娜……
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
 [name="安"]（身体颤抖）
-[name="安"]请、请不要叫那个名字......
+[name="安"]请、请不要叫那个名字……
 [charslot(slot="l",name="avg_4182_oblvns_1#14$2",focus="l")]
-[name="丰川祥子"]......对不起，我不是故意的。
+[name="丰川祥子"]……对不起，我不是故意的。
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
 [name="安"]相比其他人，你已经对我很温柔了。
 [charslot(slot="l",name="avg_4182_oblvns_1#1$2",focus="l")]
@@ -247,22 +247,22 @@
 [charslot(slot="l",name="avg_4182_oblvns_1#1$2",focus="l")]
 [name="丰川祥子"]嗯，我是跟着她一起来找你的。我刚和她联系了，她正在赶来。
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
-[name="安"]爱丽丝......
+[name="安"]爱丽丝……
 [charslot(slot="l",name="avg_4182_oblvns_1#12$2",focus="l")]
 [name="丰川祥子"]你不想见她？
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
-[name="安"]我知道她很忙，每天有很多很多事要处理......
+[name="安"]我知道她很忙，每天有很多很多事要处理……
 [charslot(slot="l",name="avg_4182_oblvns_1#1$2",focus="l")]
 [name="丰川祥子"]你是她非常重要的朋友。
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
-[name="安"]......
+[name="安"]……
 [dialog]
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
-[name="安"]其实......我今天曾无数次站在高处，然后向下望去......
+[name="安"]其实……我今天曾无数次站在高处，然后向下望去……
 [name="安"]但我口袋里装满了她写给我的信，我的手一直攥着它们。
 [name="安"]她鼓励我努力活下去，还和我说，我故事里的美梦总会到来。
-[name="安"]我不知道该相信自己，还是该相信她......
+[name="安"]我不知道该相信自己，还是该相信她……
 [charslot(slot="l",name="avg_4182_oblvns_1#1$2",focus="l")]
 [name="丰川祥子"]你完全可以相信她。
 [name="丰川祥子"]毕竟她是真正的仙女。
@@ -279,15 +279,15 @@
 [dialog]
 [charslot(slot="l",name="avg_4182_oblvns_1#9$2",focus="l")]
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="l")]
-[name="丰川祥子"]糟糕......
+[name="丰川祥子"]糟糕……
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
 [name="安"]怎么了？
 [charslot(slot="l",name="avg_4182_oblvns_1#1$2",focus="l")]
-[name="丰川祥子"]爱丽丝说要在成年以前......
+[name="丰川祥子"]爱丽丝说要在成年以前……
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
 [name="安"]你是指生日前？爱丽丝要给我过生日？
 [charslot(slot="l",name="avg_4182_oblvns_1#7$2",focus="l")]
-[name="丰川祥子"]嗯，时间要来不及了......
+[name="丰川祥子"]嗯，时间要来不及了……
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
 [name="安"]没关系的，我很久都没有过过生日了。
 [name="安"]而且我已经不是小孩子了。人长大了，就不需要庆祝了。
@@ -296,14 +296,14 @@
 就在祥子环顾四周之时，她的视线落在了一个物件上。
 [charslot(slot="l",name="avg_4182_oblvns_1#6$2",focus="l")]
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="l")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="l",name="avg_4182_oblvns_1#13$2",focus="l")]
 [name="丰川祥子"]安，可以由我为你献上生日的祝福吗？
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
-[name="安"]......欸？
-[name="安"]......
-[name="安"]......
-[name="安"]......好。
+[name="安"]……欸？
+[name="安"]……
+[name="安"]……
+[name="安"]……好。
 [dialog]
 [charslot]
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.6)]
@@ -314,7 +314,7 @@
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="l")]
 [name="丰川祥子"]在变成“大人”之前的最后一刻，就让我用这首安眠曲作为礼物送给你吧。
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="r")]
-[name="安"]......嗯！
+[name="安"]……嗯！
 [dialog]
 [charslot(slot="r",name="avg_npc_661_1#1$1",focus="all")]
 [delay(time=0.2)]
@@ -349,7 +349,7 @@
 [delay(time=2)]
 [musicvolume(volume=0.6, fadetime=1)]
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
-[name="丰川祥子"]生日快乐，安......
+[name="丰川祥子"]生日快乐，安……
 [dialog]
 [charslot]
 祥子转身看向女孩，却发现她已经伏在桌上睡着，表情带着一丝香甜。
@@ -385,7 +385,7 @@
 [charslot(slot="l",name="avg_4182_oblvns_1#13$2",focus="l")]
 [name="丰川祥子"]爱丽丝确实像位贵族小姐呢。
 [charslot(slot="r",name="avg_338_iris_1#1$1",focus="r")]
-[name="爱丽丝"]你不要信贝娜的那套说辞......
+[name="爱丽丝"]你不要信贝娜的那套说辞……
 [name="爱丽丝"]“进入梦境前，必须征得孩子的同意。”
 [name="爱丽丝"]这些都是梦城堡规定的必要程序。
 [charslot(slot="l",name="avg_4182_oblvns_1#11$2",focus="l")]
@@ -399,27 +399,27 @@
 [name="丰川祥子"]嗯，这也是我想和她说的话。
 [charslot(slot="r",name="avg_338_iris_1#2$1",focus="r")]
 [name="爱丽丝"]我将她笔下的角色一一展现在了她眼前。
-[name="爱丽丝"]爱吃水果的蛀牙叔叔、倒立行走的玩偶小姐......他们一起举办了一场茶会。
+[name="爱丽丝"]爱吃水果的蛀牙叔叔、倒立行走的玩偶小姐……他们一起举办了一场茶会。
 [charslot(slot="l",name="avg_4182_oblvns_1#1$2",focus="l")]
-[name="丰川祥子"]真好啊，要是安能一直在这个梦中就好了......
+[name="丰川祥子"]真好啊，要是安能一直在这个梦中就好了……
 [charslot(slot="r",name="avg_338_iris_1#1$1",focus="r")]
 [name="爱丽丝"]梦不是用来沉溺的。
 [charslot(slot="l",name="avg_4182_oblvns_1#12$2",focus="l")]
-[name="丰川祥子"]......？
+[name="丰川祥子"]……？
 [charslot(slot="r",name="avg_338_iris_1#10$1",focus="r")]
 [name="爱丽丝"]再美好的梦，终究是要醒来的。
 [charslot(slot="l",name="avg_4182_oblvns_1#14$2",focus="l")]
 [name="丰川祥子"]即使现实生活一团乱麻，也要醒来吗？
-[name="丰川祥子"]明明你和贝娜都有这么强的源石技艺......
+[name="丰川祥子"]明明你和贝娜都有这么强的源石技艺……
 [charslot(slot="r",name="avg_338_iris_1#10$1",focus="r")]
 [name="爱丽丝"]祥子，你有些误解童话和梦城堡的力量了。和现实比起来，我们的能力实在有限。
 [name="爱丽丝"]我们能做的，不过是在孩子们内心的最深处，留下一颗种子。
 [name="爱丽丝"]它可能是年少时，心里觉得最重要的一件事，抑或是一个物品。
 [name="爱丽丝"]它不会时刻强调自己的存在，但它会在关键的时刻、一个人最脆弱的时刻，给予他力量。
 [charslot(slot="l",name="avg_4182_oblvns_1#10$2",focus="l")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="r",name="avg_338_iris_1#1$1",focus="r")]
-[name="爱丽丝"]......我是不是有点太严肃了？
+[name="爱丽丝"]……我是不是有点太严肃了？
 [charslot(slot="l",name="avg_4182_oblvns_1#1$2",focus="l")]
 [name="丰川祥子"]没有。你说这些话的时候，眼神看上去很坚定。
 [name="丰川祥子"]我相信往后的日子里，每当安回想起你为她所造的美梦，都会拾起活下去的信心。
@@ -442,7 +442,7 @@
 [charslot(slot="m",name="avg_290_vigna_1#8$1",focus="m")]
 [name="红豆"]我之前就说你肯定是玩音乐的好手，之后罗德岛上的演出你必须参加哦！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]唔，红豆，你就不要为难我啦......
+[name="丰川祥子"]唔，红豆，你就不要为难我啦……
 [dialog]
 [charslot]
 就在红豆和祥子打闹之时，爱丽丝从小匣子中拿出了一样东西。
@@ -450,7 +450,7 @@
 [name="爱丽丝"]祥子，你之前不是说会做奇怪的梦吗？
 [name="爱丽丝"]这个项链你随身带着，以后会少做一些噩梦。
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]这个......我真的能收下吗？
+[name="丰川祥子"]这个……我真的能收下吗？
 [charslot(slot="m",name="avg_338_iris_1#11$1",focus="m")]
 [name="爱丽丝"]放心收下就好了，不是什么贵重的东西，只是在上面施了点小法术。
 [charslot(slot="m",name="avg_290_vigna_1#4$1",focus="m")]
@@ -458,7 +458,7 @@
 [charslot(slot="m",name="avg_338_iris_1#1$1",focus="m")]
 [name="爱丽丝"]你也做噩梦吗？
 [charslot(slot="m",name="avg_290_vigna_1#11$1",focus="m")]
-[name="红豆"]可能......也许有吧？我不记得了！
+[name="红豆"]可能……也许有吧？我不记得了！
 [charslot(slot="m",name="avg_338_iris_1#1$1",focus="m")]
 [name="爱丽丝"]不，我能看出来，你从小到大睡眠质量一向很好。
 [charslot(slot="m",name="avg_290_vigna_1#5$1",focus="m")]
@@ -468,7 +468,7 @@
 听着身旁同事们聊天，祥子小心地戴上了项链。
 一股温柔的凉意迅速从脖颈传递到全身。
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]啊，真美......
+[name="丰川祥子"]啊，真美……
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
 [name="丰川祥子"]爱丽丝，红豆，你们看——
 [dialog]
@@ -484,7 +484,7 @@
 祥子环顾四周。
 空无一人。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]你们......人呢？
+[name="丰川祥子"]你们……人呢？
 [dialog]
 [PlaySound(key="$d_avg_walkfast", volume=1)]
 [charslot(duration=1)]
@@ -507,12 +507,12 @@
 [StopSound(channel="a", fadetime=1.5)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]欸......？为什么会回到罗德岛......？
+[name="丰川祥子"]欸……？为什么会回到罗德岛……？
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="疑惑的干员"]祥子小姐？
 [name="疑惑的干员"]你还好吗？
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="n")]
 [name="？？？"]你、你还、好吗？
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
@@ -534,9 +534,9 @@
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=0.5)]
-[name="三角初华"]是啊，一切都和以前一样......感觉就像做梦似的。
+[name="三角初华"]是啊，一切都和以前一样……感觉就像做梦似的。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$1",focus="m")]
-[name="丰川祥子"]欸......做梦？
+[name="丰川祥子"]欸……做梦？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -549,7 +549,7 @@
 [charslot(slot="m",name="avg_290_vigna_1#8$1",focus="m")]
 [name="红豆"]祥子，祥子？
 [charslot(slot="m",name="avg_290_vigna_1#8$1",focus="n")]
-[name="丰川祥子"]嗯......嗯？
+[name="丰川祥子"]嗯……嗯？
 [charslot(slot="m",name="avg_290_vigna_1#8$1",focus="m")]
 [name="红豆"]太阳晒屁股啦，该起床咯？
 [Dialog]
@@ -561,8 +561,8 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="丰川祥子"]好冷......
-[name="丰川祥子"]头好痛......
+[name="丰川祥子"]好冷……
+[name="丰川祥子"]头好痛……
 [charslot(slot="m",name="avg_npc_1938_1#1$1",focus="m")]
 [name="？？？"]祥、子。
 [charslot(slot="m",name="avg_npc_1938_1#2$1",focus="m")]
@@ -574,7 +574,7 @@
 [charslot(slot="m",name="avg_4182_oblvns_1#14$1",duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4182_oblvns_1#14$1",focus="m")]
-[name="丰川祥子"]唔......这里是哪里？
+[name="丰川祥子"]唔……这里是哪里？
 [Dialog]
 [charslot(duration=0.5)]
 [delay(time=1.5)]

@@ -23,7 +23,7 @@
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
 [name="飞空艇的“幽灵”"]（沉重的喘息）
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......但你不可能继续撑下去。
+[name="阿米娅"]……但你不可能继续撑下去。
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
 [name="飞空艇的“幽灵”"]（沉重的喘息）
 [Dialog]
@@ -43,27 +43,27 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_1307_1#1$1",focus="all")]
 [charslot(slot="r",name="avg_npc_1307_1#1$1",focus="all")]
-[name="飞空艇的“幽灵”"]......
+[name="飞空艇的“幽灵”"]……
 [name="飞空艇的“幽灵”"]我们已经没有可以放弃的东西了。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_394_1#3$1",focus="m")]
-[name="阿米娅"]你们本可以一拥而上，但你们没有......
+[name="阿米娅"]你们本可以一拥而上，但你们没有……
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]我从你们的身上没有看到任何的愤怒，但悲伤淹没了你们......
+[name="阿米娅"]我从你们的身上没有看到任何的愤怒，但悲伤淹没了你们……
 [name="阿米娅"]你们和那位死魂灵，很不一样。
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_1307_1#1$1",focus="all")]
 [charslot(slot="r",name="avg_npc_1307_1#1$1",focus="all")]
-[name="飞空艇的“幽灵”"]......
+[name="飞空艇的“幽灵”"]……
 [name="飞空艇的“幽灵”"]我们不为杀死你们而在此。
 [name="飞空艇的“幽灵”"]我们只为在此见证她的成功。
 [Dialog]
 [charslot]
 [stopmusic(fadetime=1)]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [charslot(slot="m",name="avg_npc_394_1#3$1",focus="m")]
 [delay(time=1)]
@@ -86,17 +86,17 @@
 黑色波纹自阿米娅的身边荡开，挤压着阴影。
 阿米娅缓缓向前走去，无视了从身旁划过的刀刃。
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
-[name="飞空艇的“幽灵”"]......
-[name="飞空艇的“幽灵”"]“魔王”......
+[name="飞空艇的“幽灵”"]……
+[name="飞空艇的“幽灵”"]“魔王”……
 [name="飞空艇的“幽灵”"]你是她的继承者。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [charslot]
 幽灵们不断地逼近阿米娅，又不断地自她身边被推开，跌落回阴影之中。
 阿米娅往前走去。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]博士......凯尔希医生......特蕾西娅小姐......
+[name="阿米娅"]博士……凯尔希医生……特蕾西娅小姐……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -110,7 +110,7 @@
 [playsound(key="$d_avg_katanamagic",volume=0.7)]
 [PlaySound(key="$p_skill_chimera", volume=1,delay=0.4)]
 [delay(time=1)]
-黑色在她的手掌中汇聚，随即她握住了那刀刃......
+黑色在她的手掌中汇聚，随即她握住了那刀刃……
 握住了无尽的悲伤。
 她已看到，来自过去的悲伤——
 [Dialog]
@@ -124,37 +124,37 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1308_1#1$1",focus="m")]
-[name="巴别塔成员"]殿下......死了......怎么可能......
-[name="巴别塔成员"]我们失败了......？
-[name="巴别塔成员"]殿下......因我们的失职而死——
+[name="巴别塔成员"]殿下……死了……怎么可能……
+[name="巴别塔成员"]我们失败了……？
+[name="巴别塔成员"]殿下……因我们的失职而死——
 [charslot(slot="m",name="avg_npc_1308_1#1$1",focus="n")]
-[name="将死的刺客"]咳......咳......
+[name="将死的刺客"]咳……咳……
 [charslot(slot="m",name="avg_npc_1308_1#1$1",focus="m")]
 [name="巴别塔成员"]——！
-[name="巴别塔成员"]你......你......还活着......
+[name="巴别塔成员"]你……你……还活着……
 [Dialog]
 [charslot]
 我能感受到他的手死死拽着我的领子。
 [Dialog]
-[name="将死的刺客"]殿下......死了？
+[name="将死的刺客"]殿下……死了？
 [charslot(slot="m",name="avg_npc_1308_1#1$1",focus="m")]
-[name="巴别塔成员"]......
+[name="巴别塔成员"]……
 [Dialog]
 [charslot]
-[name="将死的刺客"]使命......完成了？使命......完成了......
-[name="将死的刺客"]......
-[name="将死的刺客"]了结我。你不想为殿下......复仇吗？
-我胸口那里还放着一枚手雷......那个疯女人扔给我，让我保护殿下。
-只要我......只要——
+[name="将死的刺客"]使命……完成了？使命……完成了……
+[name="将死的刺客"]……
+[name="将死的刺客"]了结我。你不想为殿下……复仇吗？
+我胸口那里还放着一枚手雷……那个疯女人扔给我，让我保护殿下。
+只要我……只要——
 [Dialog]
 [charslot(slot="m",name="avg_npc_1308_1#1$1",focus="m")]
-[multiline(name="巴别塔成员")]......
-[multiline(name="巴别塔成员")]......
-[multiline(name="巴别塔成员")]......
+[multiline(name="巴别塔成员")]……
+[multiline(name="巴别塔成员")]……
+[multiline(name="巴别塔成员")]……
 [Dialog]
 [charslot]
 我不知道自己犹豫了多长时间。
-但直到他自己垂下了手，失去了最后的气息......
+但直到他自己垂下了手，失去了最后的气息……
 我才意识到，那个疯女人说得没错——
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -171,7 +171,7 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 我已经忘记离开巴别塔后，我们在荒野上流浪了多久。
-直到我们遇见了一批四处征兵的王庭军。他们说，殿下回来了，与特雷西斯站在一起......
+直到我们遇见了一批四处征兵的王庭军。他们说，殿下回来了，与特雷西斯站在一起……
 我们便已经知道，我们应该去哪。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -186,7 +186,7 @@
 [charslot(slot="m",name="avg_npc_1297_1#2$1",focus="m")]
 [name="特雷西斯"]你们怀着愤怒而来，向我诘问，为何要向我们的同胞散布谎言。
 [charslot(slot="m",name="avg_npc_1297_1#1$1",focus="m")]
-[name="特雷西斯"]那便上前来，到我面前来......
+[name="特雷西斯"]那便上前来，到我面前来……
 [name="特雷西斯"]向我展示你们的愤怒。
 [Dialog]
 [charslot]
@@ -212,7 +212,7 @@
 [name="特蕾西娅"]孩子们，你们找到了我。
 [Dialog]
 [charslot]
-......
+……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -223,8 +223,8 @@
 我在那时明白了很多事情。殿下死了，但那位拉住我手的人也的确是殿下。
 真相比之谎言更加让我痛苦。
 从心底弥漫开来的悲哀轻易摧毁了我的愤怒。
-殿下......
-曾经我们立誓想要保护的殿下......
+殿下……
+曾经我们立誓想要保护的殿下……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -237,11 +237,11 @@
 [musicvolume(volume=0.6, fadetime=1)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]我，我看到了她......
-[name="阿米娅"]透过你的眼睛......你的人生——
+[name="阿米娅"]我，我看到了她……
+[name="阿米娅"]透过你的眼睛……你的人生——
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
-[name="飞空艇的“幽灵”"]......
-[name="飞空艇的“幽灵”"]他们都死了？我仅剩的同伴......
+[name="飞空艇的“幽灵”"]……
+[name="飞空艇的“幽灵”"]他们都死了？我仅剩的同伴……
 [name="飞空艇的“幽灵”"]也好，他们先我一步离开。至少他们忠于自己的使命，为守护殿下而死。
 [name="飞空艇的“幽灵”"]我也会如此，阿米娅。
 [Dialog]
@@ -261,16 +261,16 @@
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="飞空艇的“幽灵”"]咳......
+[name="飞空艇的“幽灵”"]咳……
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]你......你们——我尊敬你们——
+[name="阿米娅"]你……你们——我尊敬你们——
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
-[name="飞空艇的“幽灵”"]......
+[name="飞空艇的“幽灵”"]……
 [name="飞空艇的“幽灵”"]我们的过去已经不复存在，我们选择了和那些可耻的人同流合污。
 [name="飞空艇的“幽灵”"]我们甘愿抛弃一切，唯有如此我们才能心安理得地继续站在殿下的身前。
-[name="飞空艇的“幽灵”"]为此......我们抹去了自己的姓名，穿上了这身曾经最为痛恨的衣服。
+[name="飞空艇的“幽灵”"]为此……我们抹去了自己的姓名，穿上了这身曾经最为痛恨的衣服。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]我亦有需要保护的人，我不能停下。
 [Dialog]
@@ -287,22 +287,22 @@
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
-[name="飞空艇的“幽灵”"]咳......
-[name="飞空艇的“幽灵”"]呵，你试图阻止殿下......唯有跨过我们。
+[name="飞空艇的“幽灵”"]咳……
+[name="飞空艇的“幽灵”"]呵，你试图阻止殿下……唯有跨过我们。
 [name="飞空艇的“幽灵”"]哪怕仅剩我一人。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
 [PlaySound(key="$p_skill_spiritexplo", volume=0, loop=false, channel="sc")]
 [SoundVolume(channel="sc", volume=0.4, fadetime=1)]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
 [name="飞空艇的“幽灵”"]你在心软。
 [name="飞空艇的“幽灵”"]如果连我都不敢面对，你凭什么认为自己敢面对殿下，“魔王”！
 [name="飞空艇的“幽灵”"]你迟早要面对自己的命运。
 [charslot(slot="m",name="avg_npc_394_1#3$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]当我决定踏上这艘舰艇时，就已经下定了决心。
-[name="阿米娅"]你们的悲伤，萨卡兹的悲伤......
+[name="阿米娅"]你们的悲伤，萨卡兹的悲伤……
 [name="阿米娅"]该结束了。
 [Dialog]
 [charslot(slot="m",name="avg_npc_1307_1#1$1",focus="m")]
@@ -319,7 +319,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 来自过去的幽灵终于倒在了阴影之中。
-[name="飞空艇的“幽灵”"]咳......咳......
+[name="飞空艇的“幽灵”"]咳……咳……
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
 [name="阿米娅"]请安息——
 [Dialog]
@@ -328,7 +328,7 @@
 [PlaySound(key="$d_avg_metalroll",volume=0.4)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
-[name="阿米娅"]嗯？这是......手雷？！
+[name="阿米娅"]嗯？这是……手雷？！
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_explosion", volume=0.9)]
@@ -345,7 +345,7 @@
 我们曾在巴别塔失败过一次，便不会再失败第二次。
 我们会保护您。
 死亡会见证我们的承诺。
-懦夫不会食言，特蕾西娅殿下......
+懦夫不会食言，特蕾西娅殿下……
 [Dialog]
 [delay(time=1)]
 [Background(image="bg_black", screenadapt="coverall", block=true)]
@@ -385,7 +385,7 @@
 [name="W"]别告诉我你什么办法都没想出来。
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="n")]
-[Decision(options="......我对死魂灵并没有这么了解。;有更合适的专家能帮我们处理。", values="1;2")]
+[Decision(options="……我对死魂灵并没有这么了解。;有更合适的专家能帮我们处理。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
 [name="W"]？
@@ -403,7 +403,7 @@
 [name="W"]你自求多福吧。
 [Dialog]
 [charslot]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [PlaySound(key="$grenade_launcher_shot", volume=0.7)]
 [PlaySound(key="$grenade_launcher_shot", volume=0.7, loop=false, channel="at",delay=0.6)]
@@ -412,7 +412,7 @@
 [CameraShake(duration=1.5, xstrength=25,ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=2)]
 W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的气息。
-每一寸穹顶，每一根长柱，每一个区域......
+每一寸穹顶，每一根长柱，每一个区域……
 爆炸物转瞬便附着于你们目之所及的所有区域。
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -469,7 +469,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [delay(time=0.1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Dialog]
-[Decision(options="唉，说不定这次之后我又得躺几天。;我相信......", values="1;2")]
+[Decision(options="唉，说不定这次之后我又得躺几天。;我相信……", values="1;2")]
 [Predicate(references="1;2")]
 [Dialog]
 [stopmusic(fadetime=1)]
@@ -490,7 +490,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [Delay(time=1)]
 破碎的源石碎屑从你的背后飞溅而出。
 一根黑色的丝线随即而至，贯穿了黑色的浪潮，找到了你。
-丝线缠绕上了你的手，你的全身......
+丝线缠绕上了你的手，你的全身……
 将你彻底拉出了阴影。
 [name="？？？"]谢谢你们的信号。
 [dialog]
@@ -505,7 +505,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [name="W"]啧。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]接下来，请交给我吧。
-[name="阿米娅"]我又和您见面了，死魂灵......
+[name="阿米娅"]我又和您见面了，死魂灵……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -525,7 +525,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [Delay(time=3)]
 她看到了充斥着愤怒的投影。
 死魂灵将自己的情绪凝为长矛的虚影，悬于四处。
-可为何......愤怒之下还隐藏着更深的情绪？
+可为何……愤怒之下还隐藏着更深的情绪？
 一种无比熟悉的情绪，一种与那些已然消逝的幽灵们所共鸣的情绪。
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -545,13 +545,13 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Delay(time=0.5)]
-[name="阿米娅"]我的泪水，为那些逝去的巴别塔幽灵而落下......
+[name="阿米娅"]我的泪水，为那些逝去的巴别塔幽灵而落下……
 [name="阿米娅"]也为您而落，死魂灵。
 [dialog]
 [PlaySound(key="$p_skill_chimera", volume=1)]
 [Delay(time=0.5)]
 黑色的法术在她的身前聚集。
-[name="阿米娅"]您曾问我，为何要试图阻止这场战争......
+[name="阿米娅"]您曾问我，为何要试图阻止这场战争……
 [name="阿米娅"]我现在可以回答您。
 [name="阿米娅"]我已经看到未来的路。而这场战争，不应属于萨卡兹的未来——
 [dialog]
@@ -561,7 +561,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Delay(time=0.5)]
-死魂灵将所有的恨，所有的怒，所有的痛苦尽数握于手中......
+死魂灵将所有的恨，所有的怒，所有的痛苦尽数握于手中……
 长矛已然凝聚为实体。
 他将自己的一生掷向阿米娅。
 [dialog]
@@ -579,7 +579,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.6)]
 [Background(image="bg_black", screenadapt="coverall", block=true)]
 长矛刺破了黑色的屏障，贯穿了她的身体。
-庞杂而又永无边际的情绪海洋瞬间淹没了阿米娅......
+庞杂而又永无边际的情绪海洋瞬间淹没了阿米娅……
 [dialog]
 [charslot(slot="m",name="avg_npc_394_1#18$1",duration=1.5)]
 [Delay(time=2.5)]
@@ -618,14 +618,14 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 呐喊声。哭喊声。无力的喘息声。
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="我的眼泪明明已经流干，我的胸膛中跳动的本该只有愤怒......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="我的眼泪明明已经流干，我的胸膛中跳动的本该只有愤怒……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="可为什么我依旧在为我们族群的消亡而痛苦？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="王啊，我不会在这道守卫的阵线上退后半步——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Delay(time=0.5)]
 阿米娅看过那段残酷的历史。
-她看过，初代魔王引爆了那前所未有的天灾，所有围攻这座城市的“霸主”与他们的军队在同一天消失......
+她看过，初代魔王引爆了那前所未有的天灾，所有围攻这座城市的“霸主”与他们的军队在同一天消失……
 一同消失的还有那位王与他的誓死效忠的子民。
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -637,11 +637,11 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [Delay(time=1)]
 [dialog]
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
-[name="阿米娅"]您的使命已经结束了......那座城市已经成为往日的虚影。
+[name="阿米娅"]您的使命已经结束了……那座城市已经成为往日的虚影。
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="......结束？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……结束？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="不，在死亡归复于我之前，在萨卡兹的宿命改写之前，使命没有终结。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -654,7 +654,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [charslot(slot="m",name="avg_npc_394_1#19$1",focus="m")]
 [name="阿米娅"]死魂灵。
 [name="阿米娅"]我的确并非萨卡兹，但萨卡兹的痛苦，我同样切身感受。
-[name="阿米娅"]我所背负的这顶王冠，我不愿意放弃的未来......
+[name="阿米娅"]我所背负的这顶王冠，我不愿意放弃的未来……
 [name="阿米娅"]我从未有一刻将萨卡兹排除在外。
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
@@ -691,8 +691,8 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [charslot(slot="m",name="avg_1035_wisdel_1#5$1",focus="m")]
 [name="W"]恐怕小兔子做的没有这么简单。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]......我只能用死魂灵自己的情绪短暂地封锁它片刻。
-[name="阿米娅"]我们得想办法彻底......结束死魂灵的使命。
+[name="阿米娅"]……我只能用死魂灵自己的情绪短暂地封锁它片刻。
+[name="阿米娅"]我们得想办法彻底……结束死魂灵的使命。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
 [name="W"]别看我，我已经试过用炸弹把这里都犁一遍了。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
@@ -721,7 +721,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]也感谢你，W，你为博士争取了时间。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#6$1",focus="m")]
 [name="W"]哼，我还有很多账要和他算——
 [Dialog]
@@ -736,15 +736,15 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [name="W"]什么情况！
 [Dialog]
 [charslot]
-[Decision(options="......你们有没有感觉到......飞空艇在加速？;飞空艇在试图挣脱骸骨！", values="1;2")]
+[Decision(options="……你们有没有感觉到……飞空艇在加速？;飞空艇在试图挣脱骸骨！", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_394_1#20$1",focus="m")]
-[name="阿米娅"]是死魂灵......他快要脱困了！
+[name="阿米娅"]是死魂灵……他快要脱困了！
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[name="凯尔希"]......特蕾西娅在帮助他。
+[name="凯尔希"]……特蕾西娅在帮助他。
 [name="凯尔希"]看来她的谋划已经到最后的关键阶段了，死魂灵在回应她的呼唤。
 [charslot(slot="m",name="avg_1035_wisdel_1#15$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [name="W"]我可没在这里找到她。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]无论她是否在此，我们的计划都不该受到影响。
@@ -762,7 +762,7 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [CameraShake(duration=2, xstrength=40, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=3)]
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [name="阿米娅"]博士，请站到我的身后。
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
 [name="W"]啧，这老东西真难缠。
@@ -774,9 +774,9 @@ W高举手中的发射器，飞射而出的每一枚弹药都散发着威胁的�
 [backgroundTween(yFrom=0, yTo=-50,xScaleFrom=1, yScaleFrom=1, xScaleTo=1.6, yScaleTo=1.6, duration=30, block=false)]
 [Delay(time=2)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="（古老的萨卡兹语）使命......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="（古老的萨卡兹语）宿命......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="（古老的萨卡兹语）终结......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="（古老的萨卡兹语）使命……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="（古老的萨卡兹语）宿命……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="（古老的萨卡兹语）终结……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Delay(time=1)]

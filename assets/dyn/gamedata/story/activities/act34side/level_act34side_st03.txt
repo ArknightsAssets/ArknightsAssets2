@@ -16,9 +16,9 @@
 [name="温柔的男声"]那我和你同去。无论挡在前面的是家族，残酷的天灾，无尽的海潮，还是天穹上落下的火雨，我们共同面对。
 [name="冷酷的女声"]神社离得开你吗？
 [name="冷酷的女声"]放心，杀几个人而已，那些家伙早该去往生了。
-[name="温柔的男声"]又到了离别的时刻了......
+[name="温柔的男声"]又到了离别的时刻了……
 [name="温柔的男声"]天也醉樱花，云脚乱蹒跚~
-[name="冷酷的女声"]这是你新读到的俳句？节奏感很好，很适合挥刀的时候念......
+[name="冷酷的女声"]这是你新读到的俳句？节奏感很好，很适合挥刀的时候念……
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -39,11 +39,11 @@
 [charslot(slot = "r", name = "avg_npc_699_1#1$1", focus="r")]
 [name="家族成员A"]一个杀手，当年为了给自己的女儿报仇，同时得罪了两大家族，被迫远走。
 [name="家族成员A"]多年以后她告别自己温柔的丈夫，再次将自己放在旋涡的最中心，还是为了女儿。
-[name="家族成员A"]一想到这个角色还是有人物原型的，我就忍不住......依我看，这部电影就应该以她的视角来拍！
+[name="家族成员A"]一想到这个角色还是有人物原型的，我就忍不住……依我看，这部电影就应该以她的视角来拍！
 [charslot(slot = "l", name = "avg_npc_698_1#1$1", focus="l")]
-[name="家族成员B"]......
+[name="家族成员B"]……
 [name="家族成员B"]我希望你不要忘了一件事，这部电影是家族递给那座新城市的名片，你和我是代表家族审片。
-[name="家族成员B"]我们关注的重点，应该是家主，还有咱们的生意在电影里到底被表现成了什么样子......
+[name="家族成员B"]我们关注的重点，应该是家主，还有咱们的生意在电影里到底被表现成了什么样子……
 [charslot(slot = "r", name = "avg_npc_699_1#1$1", focus="r")]
 [name="家族成员A"]你上次不是还说挺好的？
 [charslot(slot = "l", name = "avg_npc_698_1#1$1", focus="l")]
@@ -52,9 +52,9 @@
 [name="家族成员B"]哥伦比亚人是在天上捅了个窟窿，可下火雨是哪儿的事，几月几号的，我怎么不知道？
 [charslot(slot = "r", name = "avg_npc_699_1#1$1", focus="r")]
 [name="家族成员A"]你什么时候能有点大局观？
-[name="家族成员A"]一个冷血杀手，最后在咱们的感化下，在新沃尔西尼为了一个和平的未来放下屠刀......没有比这更顺应现在的潮流的了。
+[name="家族成员A"]一个冷血杀手，最后在咱们的感化下，在新沃尔西尼为了一个和平的未来放下屠刀……没有比这更顺应现在的潮流的了。
 [charslot(slot = "l", name = "avg_npc_698_1#1$1", focus="l")]
-[name="家族成员B"]呃，叫你这么一说，我觉得这电影更烂了。但你说得对，只要能对得上那位女士的胃口......
+[name="家族成员B"]呃，叫你这么一说，我觉得这电影更烂了。但你说得对，只要能对得上那位女士的胃口……
 [dialog]
 [charslot]
 [stopmusic(fadetime=1)]
@@ -86,7 +86,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "r", name = "avg_npc_891_1#7$1", posfrom="200,0", posto="0,0", duration=1, isblock=true)]
 [delay(time=0.5)]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [dialog]
 [StopSound(channel="t", fadetime=1)]
 [delay(time=1)]
@@ -104,7 +104,7 @@
 [name="锡人"]在你们不断往空中抛射各色试验品的这段时间里，我回卡兹戴尔转了转。
 [charslot(slot = "r", name = "avg_npc_891_1#1$1", focus="r")]
 [interlude(channel = 3, switch = false)]
-[name="娜斯提"]......您知道我对这件事的态度。
+[name="娜斯提"]……您知道我对这件事的态度。
 [charslot(slot = "r", focus="n")]
 [interlude(channel = 3, switch = true)]
 [name="锡人"]是的，年轻的女妖，我知道。
@@ -121,10 +121,10 @@
 [name="锡人"]对你与你的精灵朋友共同推进的这项大胆计划，梅兰德基金会将会予以一切可能的支持。
 [charslot(slot = "r", name = "avg_npc_891_1#2$1", focus="r")]
 [interlude(channel = 3, switch = false)]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [charslot(slot = "r", focus="n")]
 [interlude(channel = 3, switch = true)]
-[name="锡人"]梅兰德基金会将择日与你们商讨围绕该计划的各项事宜，包括在未来的发射计划中重新建立一座更加完备的......
+[name="锡人"]梅兰德基金会将择日与你们商讨围绕该计划的各项事宜，包括在未来的发射计划中重新建立一座更加完备的……
 [charslot(slot = "r", name = "avg_npc_891_1#1$1", focus="r")]
 [interlude(channel = 3, switch = false)]
 [name="娜斯提"]“万星园”。
@@ -195,21 +195,21 @@
 [charslot(slot = "r", name = "avg_npc_891_1#2$1", focus="r")]
 [name="娜斯提"]同样的把戏玩两次可就无聊了。
 [charslot(slot = "l", name = "avg_249_mlyss_1#11$1", focus="l")]
-[name="缪尔赛思"]不对，斐尔迪南......他也慌了，这不是他的安排！这究竟是......
+[name="缪尔赛思"]不对，斐尔迪南……他也慌了，这不是他的安排！这究竟是……
 [dialog]
 [PlaySound(key="$d_avg_mictest", volume=1)]
 [charslot(duration=1, isblock=true)]
 [PlaySound(key="$d_avg_oldtvelectricity", volume=1, loop=true, channel="o")]
 [delay(time=1)]
 [charslot(slot = "l", focus="n")]
-[name="？？？"]......我们面临的难关远胜彼此或天灾，我们必须形成共同体......
+[name="？？？"]……我们面临的难关远胜彼此或天灾，我们必须形成共同体……
 [name="？？？"]在阿戈尔的领导下，我们必将共渡难关。
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
 [Background]
 [PlayMusic(intro="$lab_intro", key="$lab_loop", volume=0.6)]
-[name="？？？"]......
+[name="？？？"]……
 [name="？？？"]重复一遍。
 [name="？？？"]阿戈尔向所有陆地文明作出宣告，我们邀请全人类放下偏见与仇恨，与阿戈尔共筑防线。
 [name="？？？"]矩阵已经突破封锁，越过海面，必要的信息与计算结果即将抵达陆地。
@@ -227,10 +227,10 @@
 [delay(time=0.6)]
 [charslot(slot = "r", name = "avg_npc_1382_1#9$1", focus="n")]
 [charslot(slot = "l", name = "avg_003_kalts_1#14$1", focus="l")]
-[name="凯尔希"]......“在阿戈尔的领导下”。
+[name="凯尔希"]……“在阿戈尔的领导下”。
 [charslot(slot = "r", name = "avg_npc_1382_1#9$1", focus="r")]
 [multiline(name="克莱门莎")]凯尔希医生，您还在回望陆地的方向。
-[multiline(name="克莱门莎",end=true)]嗯......仿佛一位母亲在忧心自己仓促留在身后的孩童。
+[multiline(name="克莱门莎",end=true)]嗯……仿佛一位母亲在忧心自己仓促留在身后的孩童。
 [charslot(slot = "l", name = "avg_003_kalts_1#14$1", focus="l")]
 [name="凯尔希"]孩童，是吗。
 [name="凯尔希"]短短的一则通讯，已经包含了陆上无数代人用生命都没能换来的知识——焚风热土与因非冰原的地理数据，甚至大陆更北边的影像资料。
@@ -258,16 +258,16 @@
 [name="凯尔希"]克莱门莎执政官，以您的判断，弥利亚留姆还能坚持多久？
 [charslot(slot = "r", name = "avg_npc_1382_1#9$1", focus="r")]
 [name="克莱门莎"]所有舰队轮流出港，进行二十四小时不间断的火力覆盖，已经持续了一周。
-[name="克莱门莎"]海嗣的动向没有产生太大异常。人造力场的能源供应在逐步枯竭，武器对海嗣的杀伤力也在缓步下滑......但情况尚未超出预期。
+[name="克莱门莎"]海嗣的动向没有产生太大异常。人造力场的能源供应在逐步枯竭，武器对海嗣的杀伤力也在缓步下滑……但情况尚未超出预期。
 [name="克莱门莎"]这座城市最多还能坚持半个月。
 [charslot(slot = "l", name = "avg_003_kalts_1#5$1", focus="l")]
 [name="凯尔希"]阿戈尔本境的增援还需要多久才能抵达？
 [charslot(slot = "r", name = "avg_npc_1382_1#9$1", focus="r")]
 [name="克莱门莎"]一周。
 [name="克莱门莎"]数以亿计的浮游机械维系起了一道稳定的信息流，压缩态的舰队与城市集群可以在其中快速穿行，转瞬间便能跨越大洋。
-[name="克莱门莎"]但是......力量的集结本身还需要时间。
+[name="克莱门莎"]但是……力量的集结本身还需要时间。
 [charslot(slot = "l", name = "avg_003_kalts_1#2$1", focus="l")]
-[name="凯尔希"]一周......很快了。
+[name="凯尔希"]一周……很快了。
 [charslot(slot = "r", name = "avg_npc_1382_1#2$1", focus="r")]
 [name="克莱门莎"]您不必掩藏自己的忧虑，凯尔希医生。
 [name="克莱门莎"]我们与陆上人的思维方式存在本质上的差别，单纯的诚意确实不足以使双方达成有效的合作。
@@ -277,7 +277,7 @@
 [charslot(slot = "l", name = "avg_003_kalts_1#1$1", focus="l")]
 [name="凯尔希"]所以，斯卡蒂的隐情您也已经知道了。
 [charslot(slot = "r", name = "avg_npc_1382_1#6$1", focus="r")]
-[name="克莱门莎"]我的小帮手记录下了斯卡蒂、博士与玛利图斯在街角的邂逅......
+[name="克莱门莎"]我的小帮手记录下了斯卡蒂、博士与玛利图斯在街角的邂逅……
 [name="克莱门莎"]比起知晓他们身份的秘密，控制知情的范围还要更困难些。
 [charslot(slot = "r", name = "avg_npc_1382_1#2$1", focus="r")]
 [name="克莱门莎"]一位体内寄宿着“初生”的深海猎人，一位见证过先史文明兴衰的前人类科学家——他们对阿戈尔确实意义非凡。
@@ -304,11 +304,11 @@
 [charslot(slot = "r", name = "avg_npc_1382_1#2$1", focus="r")]
 [name="克莱门莎"]我已经与歌蕾蒂娅达成一致，我们会以军团的名义接管深海猎人相关的所有研究，确保猎人们不会陷入身不由己的境地。
 [charslot(slot = "l", name = "avg_003_kalts_1#1$1", focus="l")]
-[name="凯尔希"]而我与博士......我们同样希望深入阿戈尔本境，亲手解开所有谜题。
+[name="凯尔希"]而我与博士……我们同样希望深入阿戈尔本境，亲手解开所有谜题。
 [charslot(slot = "l", name = "avg_003_kalts_1#11$1", focus="l")]
 [name="凯尔希"]恐怕我们需要一位阿戈尔的引路人。
 [charslot(slot = "r", name = "avg_npc_1382_1#1$1", focus="r")]
-[name="克莱门莎"]嗯......我很乐意。
+[name="克莱门莎"]嗯……我很乐意。
 [dialog]
 [StopSound(channel="a", fadetime=2)]
 [stopmusic(fadetime=2)]
@@ -327,7 +327,7 @@
 [name="阿维图斯"]卡西娅会得到她应有的惩罚。弥利亚留姆的孵育室已经转移到安全区域，只要城市还没有陷落，她留下的孩子就能平安降生。
 [name="阿维图斯"]公共养育所会抚育那个孩子。
 [charslot(slot = "l", name = "avg_npc_1380_1#1$1", focus="l")]
-[name="乔迪"]......
+[name="乔迪"]……
 [charslot(slot = "r", name = "avg_npc_1386_1#1$1", focus="r")]
 [name="阿维图斯"]我知道你想说什么。一个深海教徒的结局不值得我特意把你叫到这里。
 [charslot(slot = "l", name = "avg_npc_1380_1#2$1", focus="l")]
@@ -345,8 +345,8 @@
 [charslot(slot = "l", name = "avg_npc_1380_1#1$1", focus="l")]
 [name="乔迪"]可您看起来并不是这么想的？
 [charslot(slot = "r", name = "avg_npc_1386_1#6$1", focus="r")]
-[name="阿维图斯"]他们看到的是悔悟，而我无法忘记的是......沉默与不作为的结果。
-[name="阿维图斯"]我不会自大到认为自己能左右一场战役的结果，但如果，只是如果，我当时把卡西娅的异常行为上报......
+[name="阿维图斯"]他们看到的是悔悟，而我无法忘记的是……沉默与不作为的结果。
+[name="阿维图斯"]我不会自大到认为自己能左右一场战役的结果，但如果，只是如果，我当时把卡西娅的异常行为上报……
 [name="阿维图斯"]或许能改变很多事情。
 [charslot(slot = "r", name = "avg_npc_1386_1#1$1", focus="r")]
 [name="阿维图斯"]所以，我打算离开弥利亚留姆。
@@ -362,7 +362,7 @@
 [name="阿维图斯"]我们或许会从那个名叫雷姆必拓的矿业国家出发，尝试触碰大洋的尽头。
 [charslot(slot = "r", name = "avg_npc_1386_1#5$1", focus="r")]
 [name="阿维图斯"]我应该死在通往未知的旅途上，而不是留在弥利亚留姆，放任悲伤、自责与绝望夺走我全部的气力。
-[name="阿维图斯"]在那里，向前也好，向下也罢，没人知道会遇到什么......我们会像布雷奥甘当年所做的那样，探求未知。
+[name="阿维图斯"]在那里，向前也好，向下也罢，没人知道会遇到什么……我们会像布雷奥甘当年所做的那样，探求未知。
 [charslot(slot = "l", name = "avg_npc_1380_1#5$1", focus="l")]
 [name="乔迪"]您、您是说？
 [charslot(slot = "r", name = "avg_npc_1386_1#5$1", focus="r")]
@@ -371,7 +371,7 @@
 [name="阿维图斯"]乔迪，你曾经说我从来不认真回答你的问题。我应当为此向你道歉。但我想，当时我至少有一句话是真心想告诉你的。
 [name="阿维图斯"]我们不需要证明自己的归属。就算过去的痕迹已经消磨殆尽，你仍然可以让自己的未来与阿戈尔紧密相连。
 [charslot(slot = "l", name = "avg_npc_1380_1#1$1", focus="l")]
-[name="乔迪"]我不知道该怎么回复您，这件事太重大了......
+[name="乔迪"]我不知道该怎么回复您，这件事太重大了……
 [charslot(slot = "r", name = "avg_npc_1386_1#5$1", focus="r")]
 [name="阿维图斯"]没关系。阿戈尔尊重每一位公民的选择。
 [name="阿维图斯"]我们祝福深思熟虑后的离开，更期待漫长离别后的归来。
@@ -389,7 +389,7 @@
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", posfrom="-200,0", posto="0,0", duration=1.5, isblock=true)]
 [Delay(time=0.5)]
 [charslot(slot = "r", name = "avg_npc_1380_1#2$1", focus="r")]
-[name="乔迪"]......老师。
+[name="乔迪"]……老师。
 [name="乔迪"]这座灯塔今天的维护工作已经完成，您到这里来，是其余的灯塔出了什么问题吗？
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", focus="l")]
 [name="圣徒卡门"]不，我只是和你一样，来看看海。
@@ -397,7 +397,7 @@
 [name="乔迪"]我听其他审判官说，我们在弥利亚留姆的时候，您仍然每天抽出一点时间到海边来？
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", focus="l")]
 [name="圣徒卡门"]伊比利亚将一颗石子投入海洋，担心石子引来势不可遏的浪涛，更担心石子默默沉入水底，从此杳无音讯。
-[name="圣徒卡门"]所幸，石子如愿激起涟漪，伊比利亚瞥见了海中的光景......而后下定了决心。
+[name="圣徒卡门"]所幸，石子如愿激起涟漪，伊比利亚瞥见了海中的光景……而后下定了决心。
 [charslot(slot = "l", name = "avg_npc_447_1#8$1", focus="l")]
 [name="圣徒卡门"]你很好地完成了此次访问的任务。如果你的生活中该有昂首挺胸的时刻，现在正是那个时候。
 [charslot(slot = "r", name = "avg_npc_1380_1#8$1", focus="r")]
@@ -407,36 +407,36 @@
 [charslot(slot = "r", name = "avg_npc_1380_1#1$1", focus="r")]
 [name="乔迪"]老师，我最近想回格兰法洛一趟，回礼拜堂，回蒂亚戈叔叔住过的地方看看。
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", focus="l")]
-[name="圣徒卡门"]......你和蒂亚戈原本是应该见最后一面的。
+[name="圣徒卡门"]……你和蒂亚戈原本是应该见最后一面的。
 [charslot(slot = "l", name = "avg_npc_447_1#2$1", focus="l")]
 [name="圣徒卡门"]我们行走在一个充斥着遗憾的时代，如果你将审判庭视作这些遗憾的来源，我也无意反驳。
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", focus="l")]
 [name="圣徒卡门"]你需要打点行装的话，艾丽妮可以帮你。
 [charslot(slot = "r", name = "avg_npc_1380_1#8$1", focus="r")]
-[name="乔迪"]欸？不，我不是这个意思。我真的只是想......回去看看。
+[name="乔迪"]欸？不，我不是这个意思。我真的只是想……回去看看。
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", focus="l")]
 [name="圣徒卡门"]也就是说，你尚未下定决心。
 [charslot(slot = "r", name = "avg_npc_1380_1#1$1", focus="r")]
 [name="乔迪"]嗯。
-[name="乔迪"]您之前对我说过，审判庭同意我回到阿戈尔也是一种考验，我是不是......
+[name="乔迪"]您之前对我说过，审判庭同意我回到阿戈尔也是一种考验，我是不是……
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", focus="l")]
 [name="圣徒卡门"]恰恰相反，乔迪，切不可把迷茫与片刻的迟疑混同。
 [name="圣徒卡门"]你已经举起提灯，看清了面前的岔路。你只是还难以下定决心，选择其中一条路走下去。
 [name="圣徒卡门"]海雾深重，两条路看起来都泥泞难行，该为此受到苛责的并不是你。
 [charslot(slot = "r", name = "avg_npc_1380_1#2$1", focus="r")]
-[name="乔迪"]......
+[name="乔迪"]……
 [charslot(slot = "l", name = "avg_npc_447_1#1$1", focus="l")]
 [name="圣徒卡门"]乔迪·方塔纳罗萨。
 [name="圣徒卡门"]如果你选择跟随那位阿戈尔学者踏上通往未知的旅途，审判庭不会阻拦。一名书记的去留不会改变浪潮拍击海岸的力度。
 [name="圣徒卡门"]如果你选择留在岸上，留在伊比利亚，你需要担起比以往更令人疲惫，但也更加意义深重的责任。
 [name="圣徒卡门"]这是伊比利亚对你的期待。
-[name="圣徒卡门"]......选择权在你。
+[name="圣徒卡门"]……选择权在你。
 [charslot(slot = "r", name = "avg_npc_1380_1#1$1", focus="r")]
 [name="乔迪"]我、我明白了，老师。
 [charslot(slot = "l", name = "avg_npc_447_1#8$1", focus="l")]
 [name="圣徒卡门"]顺便，艾丽妮告诉我你前些日子失眠得厉害。昨晚怎么样？
 [charslot(slot = "r", name = "avg_npc_1380_1#1$1", focus="r")]
-[name="乔迪"]半夜雨下得很大，天上一颗星星也没有，凌晨时分大概有两三次紧急情况需要我去处理......
+[name="乔迪"]半夜雨下得很大，天上一颗星星也没有，凌晨时分大概有两三次紧急情况需要我去处理……
 [charslot(slot = "r", name = "avg_npc_1380_1#11$1", focus="r")]
 [name="乔迪"]但，仍然是很踏实的一夜。
 [dialog]
@@ -447,7 +447,7 @@
 [charslot]
 海嗣，也会做梦吗？
 梦是思想或情感逸散的火光，可如今的我只剩下本能。
-......
+……
 [dialog]
 [PlayMusic(key="$calm_loop", volume=0.6)]
 [Image(image="51_i07_1", screenadapt="coverall", xScale=1.05, yScale=1.05, fadetime=0)]
@@ -455,11 +455,11 @@
 [bgeffect(name="$eb_dim_openeye",layer=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=1)]
-为什么，这个场景，又一次......
+为什么，这个场景，又一次……
 [dialog]
 [PlaySound(key="$d_avg_giantseamonster", volume=1)]
 [Delay(time=2)]
-沿着遗迹群幽邃的通道下行，路的尽头，巨物轻柔地将触肢贴在舱壁上，它在等待着什么吗？又或者......
+沿着遗迹群幽邃的通道下行，路的尽头，巨物轻柔地将触肢贴在舱壁上，它在等待着什么吗？又或者……
 我走了过去，穿过深蓝的树影，来到祂的面前。我伸出自己的手。
 [dialog]
 [PlaySound(key="$d_avg_openftstpwalk", volume=1)]
@@ -472,11 +472,11 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
-[name="？？？"]（未知语言）伊莎玛拉，这是你我共同的名......这是你我共同的决定。
+[name="？？？"]（未知语言）伊莎玛拉，这是你我共同的名……这是你我共同的决定。
 [name="？？？"]（未知语言）我们彼此信任，我们感受如一，不是吗？
 [name="？？？"]（未知语言）我会守望你，直到我生命的终结。
 不，那个人不是自己。
@@ -510,7 +510,7 @@
 [name="乌尔比安"]陆地已经成为你们迁徙的最前线，海嗣，你为什么选择背道而行，重返海洋深处？
 [name="乌尔比安"]这场对抗与新的“初生”的觉醒，又存在怎样的联系？
 [charslot(slot = "m", name = "avg_npc_1383_1#1$1")]
-[name="“海嗣”"]......
+[name="“海嗣”"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -521,9 +521,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [name="“海嗣”"]你很敏锐，猎人。
-[name="乌尔比安"]我只是先于其他人发现了你......你们的存在。
+[name="乌尔比安"]我只是先于其他人发现了你……你们的存在。
 [name="乌尔比安"]在伊莎玛拉的身体里，你们留下了证据。
-[name="乌尔比安"]深海教会最初的......创立者。
+[name="乌尔比安"]深海教会最初的……创立者。
 [name="“海嗣”"]你遁入阴影，是为了寻找我的痕迹？
 [name="乌尔比安"]唯有阴影，才能融入阴影。
 [name="“海嗣”"]有趣的猎人。
@@ -538,19 +538,19 @@
 [PlaySound(key="$d_avg_brainnucleiturn", volume=1)]
 [name="“海嗣”"]（颅腔内的核交汇）
 [name="“海嗣”"]猎人，你渴望知晓的一切，我都可以告诉你。
-[name="“海嗣”"]关于我接下来的去向，关于地幔遗迹群被封锁的通路，关于其他几位“初生”觉醒的形式......
-[name="“海嗣”"]关于阿戈尔，关于泰拉即将迎接的下一次毁灭......
-[name="乌尔比安"]......
+[name="“海嗣”"]关于我接下来的去向，关于地幔遗迹群被封锁的通路，关于其他几位“初生”觉醒的形式……
+[name="“海嗣”"]关于阿戈尔，关于泰拉即将迎接的下一次毁灭……
+[name="乌尔比安"]……
 [name="“海嗣”"]族群无私，族群奉献。族群愿意分享一切。
 [name="“海嗣”"]前提是，你是族群真正的一员。
 乌尔比安迎向海嗣的“目光”。
 海嗣没有五官，但他知道对方在观察自己。透过它透明的腔壁，透过那些隐隐跃动的核，乌尔比安看见了自己的眼睛。
 [name="“海嗣”"]你刚刚说，“堕落”？
 [name="“海嗣”"]不，猎人，血肉的融合并不足够。
-[name="“海嗣”"]将隐忍化作接纳，将屈辱化作欢欣，你需要信任族群......信任你自己的本能。
+[name="“海嗣”"]将隐忍化作接纳，将屈辱化作欢欣，你需要信任族群……信任你自己的本能。
 [name="“海嗣”"]你需要承担，远超想象的使命——族群的使命。
 [name="“海嗣”"]在族群的怀抱里，你或许可以采撷一切真相。但那时候的你，已不能，也不愿将它带回阿戈尔。
-[name="“海嗣”"]......如我。
+[name="“海嗣”"]……如我。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -563,11 +563,11 @@
 [charslot(slot = "m", afrom=1, ato=0, duration=1.5, isblock=true)]
 海嗣越过了乌尔比安，继续向巢穴的更深处游去，它的背影很快消失在乌尔比安的视野里，唯余巢穴向他盛开。
 被侵染的珊瑚纷繁而灿烂，无数形貌奇异的生命体游弋其间，以微光驱散深海的黑暗。它们正在成长，它们将组成浪潮。
-但乌尔比安没有看它们。他的目光穿过一片金色的海，穿过每一道伤痕，每一寸皮肉，每一个细胞，每一次混沌又清醒的梦......
+但乌尔比安没有看它们。他的目光穿过一片金色的海，穿过每一道伤痕，每一寸皮肉，每一个细胞，每一次混沌又清醒的梦……
 落在他并不能看见的，自我的最深处。
 [dialog]
 [charslot(slot = "m", name = "avg_4145_Ulpia_1#1$1", duration=0.5, isblock=true)]
-[name="乌尔比安"]......
+[name="乌尔比安"]……
 [dialog]
 [PlaySound(key="$d_avg_swimdeepsea", volume=1)]
 [musicvolume(volume=0.2, fadetime=2)]

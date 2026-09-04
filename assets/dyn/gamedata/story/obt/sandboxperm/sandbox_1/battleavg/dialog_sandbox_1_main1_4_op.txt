@@ -4,7 +4,7 @@
 [camerafocusto(offsetX="7", offsetY="9", time="1", scale="MID")]
 [delay(time="0.5")]
 [foginview(id="rect1", leftBottomX="1", leftBottomY="7", rightUpX="12", rightUpY="12")]
-[name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]......
+[name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]……
 [decision(option1="女士，你还好吗？", value1="1.1")]
 [predicate(references="1.1")]
 [decision(option1="（给她一些食物）", value1="2.1", option2="（给她一些清水）", value2="2.2")]
@@ -12,7 +12,7 @@
 [name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]谢谢你们，我已经困在这里好几天了，又累又饿。
 [decision(option1="该怎么称呼你？", value1="3.1")]
 [predicate(references="3.1")]
-[name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]我的真名......早就遗失在过去了......叫我的绰号吧，红隼。
+[name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]我的真名……早就遗失在过去了……叫我的绰号吧，红隼。
 [name="红隼", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]你们快离开吧，我不希望自己的麻烦波及你们。
 [name="红隼", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]我是从南边的采矿场逃出来的，后面有很多人在追我。
 [summonenemy(x="4", y="10", endX="9", endY="8", enemyId="enemy_1341_bthtms")]
@@ -47,7 +47,7 @@
 [name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]谢谢你们，我已经困在这里好几天了，又累又饿。
 [decision(option1="该怎么称呼你？", value1="5.1")]
 [predicate(references="5.1")]
-[name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]我的真名......早就遗失在过去了......叫我的绰号吧，红隼。
+[name="？？？", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]我的真名……早就遗失在过去了……叫我的绰号吧，红隼。
 [name="红隼", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]你们快离开吧，我不希望自己的麻烦波及你们。
 [name="红隼", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]我是从南边的采矿场逃出来的，后面有很多人在追我。
 [summonenemy(x="4", y="10", endX="9", endY="8", enemyId="enemy_1341_bthtms")]

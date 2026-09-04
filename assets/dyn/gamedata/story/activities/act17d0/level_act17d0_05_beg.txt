@@ -11,32 +11,32 @@
 [name="灰烬"]加油！Lord！
 [CameraShake(duration=1, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [character(name="char_459_tachak_1")]
-[name="战车"]嗯......嗯！！呃！
+[name="战车"]嗯……嗯！！呃！
 [delay(time=1)]
 [character(name="char_456_ash_1#10")]
 [name="灰烬"]差一点！还差一点！
 [CameraShake(duration=1, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [character(name="char_459_tachak_1")]
-[name="战车"]嗯......哈！
+[name="战车"]嗯……哈！
 [delay(time=1)]
 [name="战车"]拉上了！
 [character(name="char_456_ash_1#5")]
 [name="灰烬"]好样的！
 [character(name="char_459_tachak_1",name2="char_503_rang",focus=2)]
-[name="巡林者"]嗯......能徒手拉开这张弩，确实是一把好手。
+[name="巡林者"]嗯……能徒手拉开这张弩，确实是一把好手。
 [character(name="char_459_tachak_1",name2="char_503_rang",focus=1)]
-[name="战车"]呼......
+[name="战车"]呼……
 [name="战车"]这弩的设计也太夸张了，表面上根本看不出来有这么高的拉力。
 [character(name="char_459_tachak_1",name2="char_503_rang",focus=2)]
 [name="巡林者"]这种重弩是很常见的类型，大部分萨卡兹人都能徒手拉开。
 [character(name="char_459_tachak_1",name2="char_503_rang",focus=1)]
-[name="战车"]这种力道的重弩......100米以内威力不会比枪械小，就是用起来太费事了。
-[name="战车"]......有关体能差异这件事，我之前已经领教过了。
+[name="战车"]这种力道的重弩……100米以内威力不会比枪械小，就是用起来太费事了。
+[name="战车"]……有关体能差异这件事，我之前已经领教过了。
 [name="战车"]闹不好那个放电的姑娘力气都不比我小。
 [character(name="char_459_tachak_1",name2="char_503_rang",focus=2)]
 [name="巡林者"]你是说雷蛇吗？她毕竟是瓦伊凡，瓦伊凡确实是体格强壮的种族。
 [character(name="char_459_tachak_1",name2="char_503_rang",focus=1)]
-[name="战车"]嗯......
+[name="战车"]嗯……
 [dialog]
 [character]
 [delay(time=1)]
@@ -53,7 +53,7 @@
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=1)]
 [name="灰烬"]给你看个东西。
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=2)]
-[name="战车"]这是什么......子弹？
+[name="战车"]这是什么……子弹？
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=1)]
 [name="灰烬"]这是那位叫雷蛇的罗德岛干员使用的子弹，学名叫“蚀刻子弹”，据说是非常昂贵的产品。
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=2)]
@@ -68,13 +68,13 @@
 [name="巡林者"]也就是说，不仅是铳器本身，就连它们发射的每一发蚀刻子弹都等同于术师的法杖，所以蚀刻子弹才会造价高昂。
 [name="巡林者"]与之对应的源石技艺也复杂深奥，只有萨科塔人才会大量使用铳器，其他人则会选择更易于使用的远程武器。
 [character(name="char_459_tachak_1")]
-[name="战车"]拉特兰是国名，萨科塔是种族名，拉特兰人并不都是萨科塔......我明白了。
+[name="战车"]拉特兰是国名，萨科塔是种族名，拉特兰人并不都是萨科塔……我明白了。
 [name="战车"]但关于子弹的部分可真是个坏消息。
 [name="战车"]这个世界上就没有什么普通枪械吗？不需要“源石技艺”的那种。
 [character(name="char_503_rang")]
-[name="巡林者"]......不需要源石技艺的铳械，老夫可从来没听说过。
+[name="巡林者"]……不需要源石技艺的铳械，老夫可从来没听说过。
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=2)]
-[name="战车"]唉......
+[name="战车"]唉……
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=1)]
 [name="灰烬"]走一步看一步吧，至少那些爆炸物大家都能用。
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=2)]
@@ -95,7 +95,7 @@
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]是能源的问题吗？
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
-[name="雷蛇"]有可能......我得试试看。
+[name="雷蛇"]有可能……我得试试看。
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -104,7 +104,7 @@
 [Blocker(a=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [name="芙兰卡"]好了，你们躲开一点，优等生要开始表演了。
-[name="雷蛇"]......充能准备......
+[name="雷蛇"]……充能准备……
 [PlaySound(key="$lightning_n")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
@@ -115,7 +115,7 @@
 [delay(time=1)]
 [name="闪击"]喔！喔！喔！
 [name="闪击"]这就是源石技艺？这效果也太酷炫了。
-[name="灰烬"]真是......让人印象深刻。
+[name="灰烬"]真是……让人印象深刻。
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -130,7 +130,7 @@
 [Character(name="avg_npc_155_1#2",name2="avg_npc_156_1#1",focus=2)]
 [name="雷蛇"]你除了烦我，就没有别的事情做了吗！
 [Character(name="avg_npc_156_1#1")]
-[name="雷蛇"]......嗯......
+[name="雷蛇"]……嗯……
 [name="雷蛇"]不行，还是无法接通。
 [name="雷蛇"]可能是晶体电子单元损坏太严重了，也可能是其他地方的电路有肉眼不易察觉的损坏。
 [name="雷蛇"]这里也没有维修源石电路的专业设备，没法系统性地排查问题。
@@ -142,7 +142,7 @@
 [character(name="char_459_tachak_1")]
 [name="战车"]这种源石技艺什么的，普通人能学会吗？
 [character(name="char_503_rang",name2="avg_npc_155_1#2",focus=2)]
-[name="芙兰卡"]理论上说......绝大多数人经过培训之后都可以学会一定程度的源石技艺。
+[name="芙兰卡"]理论上说……绝大多数人经过培训之后都可以学会一定程度的源石技艺。
 [name="芙兰卡"]只是源石技艺的学习需要付出心血与时间，而且也与天赋密切相关。
 [name="芙兰卡"]很多人即便是付出了远超他人的艰辛，最后也只能掌握一些最基础的法术。
 [character(name="char_503_rang",name2="avg_npc_155_1#2",focus=1)]
@@ -150,18 +150,18 @@
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=1)]
 [name="灰烬"]你在想什么？
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=2)]
-[name="战车"]没什么，只是一些对现状的畅想......有点疯癫，还缺乏实践意义。
+[name="战车"]没什么，只是一些对现状的畅想……有点疯癫，还缺乏实践意义。
 [Character(name="avg_npc_156_1#1")]
 [name="雷蛇"]啊，对了，库兹先生。
 [name="雷蛇"]来试试看吧，这面盾牌。
 [character(name="avg_npc_156_1#1",name2="char_457_blitz_1#3",focus=2)]
-[name="闪击"]这是怎么......盾牌上面装了什么？
+[name="闪击"]这是怎么……盾牌上面装了什么？
 [character(name="avg_npc_156_1#1",name2="char_457_blitz_1#3",focus=1)]
 [name="雷蛇"]我根据你盾牌的原本结构和功能，安装了高功率射灯和通用源石回路，应该能发挥出你惯用装备的作用。
 [character(name="avg_npc_156_1#1",name2="char_457_blitz_1#2",focus=2)]
 [name="闪击"]非常感谢！
 [character(name="avg_npc_156_1#1",name2="char_457_blitz_1#1",focus=2)]
-[name="闪击"]......嗯......可是我也不会“源石技艺”啊。
+[name="闪击"]……嗯……可是我也不会“源石技艺”啊。
 [Character(name="avg_npc_155_1#2",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]严格地说，通用源石回路，就是让不会使用源石技艺的人也能使用源石设备的现代科技成果。这些设备里可以储存一些简单的源石技艺。
 [Character(name="avg_npc_155_1#2",name2="avg_npc_156_1#1",focus=2)]
@@ -175,7 +175,7 @@
 [delay(time=1)]
 [name="闪击"]好啊，让我看看，还真有点沉。
 [character(name="char_457_blitz_1#4")]
-[name="闪击"]......开关......激发装置......
+[name="闪击"]……开关……激发装置……
 [character(name="char_457_blitz_1#6")]
 [name="闪击"]没问题，我试试。
 [dialog]
@@ -221,7 +221,7 @@
 [name="巡林者"]他这个年龄，不该承担这么多事情。
 [name="巡林者"]目前还有一个问题。我们的食物快要不够了。
 [character(name="char_458_rfrost_1#3",name2="char_456_ash_1#5",focus=2)]
-[name="灰烬"]......是，之前奥克芬先生跟我说了。
+[name="灰烬"]……是，之前奥克芬先生跟我说了。
 [character(name="char_458_rfrost_1#3",name2="char_456_ash_1#5",focus=1)]
 [name="霜华"]有什么想法吗？
 [character(name="char_458_rfrost_1#3",name2="char_456_ash_1#6",focus=2)]

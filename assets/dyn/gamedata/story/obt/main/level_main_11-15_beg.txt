@@ -35,7 +35,7 @@
 [PlaySound(key="$d_avg_arrow_rain", volume=1,delay=0.4)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_npc_398_1#1$1")]
-[name="自救军战士"]不管了，一起冲上去！冲......冲......
+[name="自救军战士"]不管了，一起冲上去！冲……冲……
 [PlaySound(key="$d_avg_arrow")]
 [delay(time=0.5)]
 [Dialog]
@@ -46,7 +46,7 @@
 [Character(name="avg_4072_ironmn_1#6$1")]
 [name="费斯特"]拉住我！
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_399_1#1$1")]
-[name="维多利亚雇佣兵"]别过来！别靠近！离那些已经死去的人远......远......
+[name="维多利亚雇佣兵"]别过来！别靠近！离那些已经死去的人远……远……
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [Character(name="char_empty",name2="char_empty",fadetime=1)]
@@ -57,7 +57,7 @@
 [delay(time=1)]
 [Character(name="avg_4072_ironmn_1#8$1")]
 [characteraction(name="middle", type="shake", power=5, times=100, fadetime=0.3, block=false)]
-[name="费斯特"]咳咳......怎、怎么回事......
+[name="费斯特"]咳咳……怎、怎么回事……
 [Dialog]
 [character]
 [PlaySound(key="$e_skill_skulsrexplo", volume=1)]
@@ -82,11 +82,11 @@
 [character]
 [Character(name="avg_4072_ironmn_1#8$1",fadetime=0.7)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="费斯特"]呃......呼......
+[name="费斯特"]呃……呼……
 [Character(name="avg_4072_ironmn_1#7$1")]
-[name="费斯特"]我又能呼吸了！谢谢你，罗德岛的......医生？可露希尔小姐说你是医生，没......错吧？
+[name="费斯特"]我又能呼吸了！谢谢你，罗德岛的……医生？可露希尔小姐说你是医生，没……错吧？
 [Character(name="char_147_shining_1")]
-[name="闪灵"]......所有人，退到我身后。
+[name="闪灵"]……所有人，退到我身后。
 [dialog]
 [PlaySound(key="$d_avg_magic_2")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.05, block=true)]
@@ -94,28 +94,28 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [Dialog]
 [Character(name="char_147_shining_1",focus=-1)]
-[Decision(options="这是......巫术？;我闻到了和温迪戈的祭坛差不多的味道。", values="1;2")]
+[Decision(options="这是……巫术？;我闻到了和温迪戈的祭坛差不多的味道。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_147_shining_1")]
-[name="闪灵"]......萨卡兹的古老巫术，都有着相似的发源。
+[name="闪灵"]……萨卡兹的古老巫术，都有着相似的发源。
 [name="闪灵"]“死亡”。
-[name="闪灵"]温迪戈，食腐者，血魔，石翼魔，巫妖......甚至女妖。死亡是大多数生物的终点，却是许多萨卡兹汲取力量的源头。
+[name="闪灵"]温迪戈，食腐者，血魔，石翼魔，巫妖……甚至女妖。死亡是大多数生物的终点，却是许多萨卡兹汲取力量的源头。
 [Dialog]
 [PlaySound(key="$d_avg_originiumcastshort", volume=0.9)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [delay(time=0.5)]
 [Dialog]
 [Character(name="char_147_shining_1",focus=-1)]
-[Decision(options="你的剑......挡住了污染的蔓延？", values="1")]
+[Decision(options="你的剑……挡住了污染的蔓延？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_147_shining_1")]
-[name="闪灵"]......死亡与生命从来都是硬币的两面。
+[name="闪灵"]……死亡与生命从来都是硬币的两面。
 [name="闪灵"]不过，我能阻挡的时间很有限。我们对抗不了食腐者的军队，即便抵达此处的只是他麾下的先锋。
 [name="闪灵"]那位古老的萨卡兹鞭笞着腐败与死亡蠕行于战场，我也只是在过去听闻过些许传说。
-[name="闪灵"]......我们得赶快。
+[name="闪灵"]……我们得赶快。
 [Dialog]
 [character]
-[Decision(options="我知道。;......;凯尔希已给出了明确的撤退讯号。", values="1;2;3")]
+[Decision(options="我知道。;……;凯尔希已给出了明确的撤退讯号。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Dialog]
 [playsound(key="$Mon3tr_n")]
@@ -126,7 +126,7 @@
 [Decision(options="可露希尔，立刻回收无人机。", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_411_1#9$1")]
-[name="可露希尔"]唉......没办法了对吧？
+[name="可露希尔"]唉……没办法了对吧？
 [Dialog]
 [PlaySound(key="$d_avg_devicebeep",volume=0.5)]
 [PlaySound(key="$d_avg_devicebeep", volume=0.5, loop=false, channel="infor",delay=0.4)]
@@ -134,7 +134,7 @@
 [PlaySound(key="$transmission", volume=0.4, loop=false, channel="infor2",delay=1)]
 [delay(time=1.5)]
 [Character(name="avg_npc_411_1#8$1")]
-[name="可露希尔"]数据回传......百分之七十......好，就这么多了。
+[name="可露希尔"]数据回传……百分之七十……好，就这么多了。
 [Dialog]
 [character]
 [Decision(options="费斯特，去找克洛维希娅。", values="1")]
@@ -153,7 +153,7 @@
 [character]
 [Decision(options="还有阿米娅他们。;通知阿米娅、Logos和阿斯卡纶。", values="1;2")]
 [Predicate(references="1;2")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [stopSound(channel="2", fadetime=2)]
 [stopmusic(fadetime=2)]
@@ -176,15 +176,15 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [Delay(time=1)]
 [Character(name="avg_npc_394_1#7$1",fadetime=0.7,block=true)]
 [delay(time=0.7)]
-[name="阿米娅"]呃......
+[name="阿米娅"]呃……
 [Character(name="avg_npc_395_1#6$1",name2="avg_npc_650_1#4$1",focus=2)]
 [name="Logos"]阿米娅，食腐者提前到了。
 [Character(name="avg_npc_395_1#6$1",name2="avg_npc_650_1#4$1",focus=1)]
-[name="阿斯卡纶"]......该撤退了。
+[name="阿斯卡纶"]……该撤退了。
 [name="阿斯卡纶"]凯尔希医生的速度已经够快，拖延巫妖的脚步已是极限。
 [name="阿斯卡纶"]食腐者麾下军士的凝聚力远胜任何萨卡兹势力，他们的行动会非常迅速。
 [Character(name="avg_npc_394_1#7$1")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Character(name="avg_npc_395_1#10$1")]
 [name="阿斯卡纶"]阿米娅？
 [Dialog]
@@ -195,7 +195,7 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 因为属于萨卡兹的恨意与悲痛本就无处不在。
 [Dialog]
 [Character(name="avg_npc_394_1#11$1")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [character(fadetime=1.5)]
 [delay(time=2)]
@@ -257,7 +257,7 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 黑色的线条正不受控制地从她的眼睛里、口鼻中涌出来，不断地延伸，不断地缠绕。
 所有萨卡兹的心脏都像是被黑色的丝线抓住了一瞬。
 [Character(name="avg_npc_395_1#4$1",name2="avg_npc_650_1#1$1",focus=1)]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [Character(name="avg_npc_395_1#4$1",name2="avg_npc_650_1#1$1",focus=2)]
 [name="Logos"]阿米娅。别被影响。
 [Dialog]
@@ -271,7 +271,7 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_411_1#11$1")]
-[name="可露希尔"]怎么回事，博士，我听到了......我听到了什么声音......
+[name="可露希尔"]怎么回事，博士，我听到了……我听到了什么声音……
 [Character(name="avg_npc_411_1#12$1")]
 [name="可露希尔"]*含糊不清的萨卡兹某部族语言*
 [name="可露希尔"]地下充斥黑暗。
@@ -279,21 +279,21 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [name="可露希尔"]邪恶带来痛苦。
 [name="可露希尔"]*含糊不清的萨卡兹某部族语言*
 [Character(name="avg_npc_012")]
-[name="罗德岛干员"]可露希尔在说什么？我听不太懂......
+[name="罗德岛干员"]可露希尔在说什么？我听不太懂……
 [Character(name="avg_npc_411_1#9$1")]
-[name="可露希尔"]我也......不懂......
+[name="可露希尔"]我也……不懂……
 [Character(name="avg_npc_411_1#9$1")]
-[name="可露希尔"]好......好晕......我的脑袋......是不是坏了？
+[name="可露希尔"]好……好晕……我的脑袋……是不是坏了？
 [Character(name="avg_npc_012")]
 [name="罗德岛干员"]博士，是萨卡兹的巫术在攻击我们吗？
-[name="罗德岛干员"]可是我没有感觉......呃，快看，敌人也......
+[name="罗德岛干员"]可是我没有感觉……呃，快看，敌人也……
 [dialog]
 [character]
 [delay(time=1)]
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1")]
-[name="萨卡兹战士"]......
-[name="萨卡兹战士"]黑暗......痛苦......
-[name="萨卡兹战士"]分享......
+[name="萨卡兹战士"]……
+[name="萨卡兹战士"]黑暗……痛苦……
+[name="萨卡兹战士"]分享……
 [Dialog]
 [character]
 [Decision(options="我听过这段话。;我听过类似的语言。", values="1;2")]
@@ -301,34 +301,34 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [Decision(options="一种特殊的精神暗示。;一种并不常规的法术。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_147_shining_1")]
-[name="闪灵"]......博士，请立刻跟随自救军与其他干员撤离。
+[name="闪灵"]……博士，请立刻跟随自救军与其他干员撤离。
 [Dialog]
 [Character(name="char_147_shining_1",focus=-1)]
-[Decision(options="可是阿米娅......", values="1")]
+[Decision(options="可是阿米娅……", values="1")]
 [Predicate(references="1")]
 [Character(name="char_147_shining_1")]
-[name="闪灵"]......
+[name="闪灵"]……
 [Dialog]
 [Character(name="char_147_shining_1",focus=-1)]
-[Decision(options="闪灵......;连你也受到了影响？", values="1;2")]
+[Decision(options="闪灵……;连你也受到了影响？", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_147_shining_1")]
 [name="闪灵"]失控的力量正在侵蚀所有萨卡兹的心灵。
-[name="闪灵"]就连赦罪师都无法抵御......即便我暂时可以忍受。
+[name="闪灵"]就连赦罪师都无法抵御……即便我暂时可以忍受。
 [Dialog]
 [Character(name="char_147_shining_1",focus=-1)]
-[Decision(options="失控的力量？;难道是......", values="1;2")]
+[Decision(options="失控的力量？;难道是……", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_147_shining_1")]
 [name="闪灵"]只有萨卡兹的君主，能够将将士们渴望的愿景作为抚慰，也能调动叛徒们内心最深处的恐惧当作惩罚。
 [name="闪灵"]只有“魔王”。
 [Dialog]
 [Character(name="char_147_shining_1",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Character(name="char_147_shining_1")]
 [name="闪灵"]我知道你在想什么，博士。
-[name="闪灵"]你在想......正在无差别攻击所有萨卡兹的，究竟是哪一位魔王。
+[name="闪灵"]你在想……正在无差别攻击所有萨卡兹的，究竟是哪一位魔王。
 [Dialog]
 [Character(name="char_147_shining_1",focus=-1)]
 [Decision(options="阿米娅很危险。", values="1")]
@@ -346,12 +346,12 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [character(name="avg_npc_410_1#4$1")]
-[name="血魔大君"]魔王的力量......
+[name="血魔大君"]魔王的力量……
 [name="血魔大君"]像你这样未经锤炼的身躯，怎么可能承受得住萨卡兹万年的回忆？
 [character(name="avg_npc_410_1#7$1")]
-[name="血魔大君"]难怪......难怪。
+[name="血魔大君"]难怪……难怪。
 [name="血魔大君"]你承受不了。
-[name="血魔大君"]你手上的那些戒指......是特蕾西娅留给你的。
+[name="血魔大君"]你手上的那些戒指……是特蕾西娅留给你的。
 [character(name="avg_npc_410_1#1$1")]
 [name="血魔大君"]你们以为这样就能将馈赠与诅咒一同锁住，却忘了赠予之物亦可被收回。
 [Dialog]
@@ -396,21 +396,21 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.03, block=true)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
 [Character(name="avg_npc_394_1#11$1",name2="avg_npc_395_1#3$1",focus=2)]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [Character(name="avg_npc_650_1#3$1")]
 [name="Logos"]阿斯卡纶，你应该也有所察觉。
 [Character(name="avg_npc_395_1#4$1")]
-[name="阿斯卡纶"]......是殿下在影响阿米娅。
+[name="阿斯卡纶"]……是殿下在影响阿米娅。
 [Character(name="avg_npc_650_1#3$1")]
 [name="Logos"]战况已不允许任何拖延。食腐者与特雷西斯随时可能现身。
 [name="Logos"]如有必要，我们必须将阿米娅强行带走。
 [Character(name="avg_npc_395_1#5$1")]
-[name="阿斯卡纶"]阿米娅......
+[name="阿斯卡纶"]阿米娅……
 [Dialog]
 [Character(fadetime=0)]
 [Character(name="avg_npc_394_1#11$1",fadetime=0.7,block=true)]
 [delay(time=1)]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [character]
 戒指上并没有裂纹，也没有变色。
@@ -425,14 +425,14 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [character(name="avg_npc_410_1#7$1")]
 [name="血魔大君"]然而真的是这样吗？
 [name="血魔大君"]我邀请你直视我的愤恨，“魔王”。
-[name="血魔大君"]我邀请你......好好听一听头顶阴云中的恸哭。
-[name="血魔大君"]他们会告诉你，萨卡兹与那些可耻的侵略者......你们口中的神民与先民从来不是同类。
+[name="血魔大君"]我邀请你……好好听一听头顶阴云中的恸哭。
+[name="血魔大君"]他们会告诉你，萨卡兹与那些可耻的侵略者……你们口中的神民与先民从来不是同类。
 [character(name="avg_npc_410_1#6$1")]
 [name="血魔大君"]卡兹戴尔也从来不是一座都城，一个国家。
 [name="血魔大君"]在萨卡兹还被称作提卡兹，还拥有家园的那个年代——卡兹戴尔指的是我们目所能及的整个世界。
 [name="血魔大君"]卡兹戴尔本应与泰拉同义。
 [Character(name="avg_npc_394_1#11$1")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -493,7 +493,7 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [delay(time=1)]
 为什么不说话？
 为什么不回答我的问题？
-凯尔希......凯尔希！
+凯尔希……凯尔希！
 [Dialog]
 [Character]
 [Image(fadetime=1)]
@@ -505,7 +505,7 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [playsound(key="$smallearthquake")]
 [CameraShake(xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=false, block=false)]
 [Character(name="avg_npc_394_1#3$1")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [characteraction(name="middle", type="move", ypos=-50, fadetime=0.5,block=false)]
 [backgroundTween(xFrom=0, yFrom=50, xTo=0, yTo=-50, xScaleFrom=1.3, yScaleFrom=1.3, xScaleTo=1.3, yScaleTo=1.3, duration=0.5, block=false)]
@@ -526,7 +526,7 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_411_1#6$1")]
-[name="可露希尔"]脑袋好像没那么晕了......呃，我能看见东西了......
+[name="可露希尔"]脑袋好像没那么晕了……呃，我能看见东西了……
 [Character(name="avg_npc_411_1#5$1")]
 [name="可露希尔"]等等，塔上！
 [Dialog]
@@ -545,9 +545,9 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 在阿米娅的身体快要触到地面之前，你抓住了她的手，将她抱在怀中。
 [Dialog]
 [Delay(time=1)]
-[name="阿米娅"]凯尔希......医生......
+[name="阿米娅"]凯尔希……医生……
 [Character(name="avg_npc_411_1#8$1")]
-[name="可露希尔"]博士，为什么......阿米娅一直在念凯尔希的名字？
+[name="可露希尔"]博士，为什么……阿米娅一直在念凯尔希的名字？
 [Dialog]
 [Character]
 你在阿米娅的眼角看到了悲哀的泪水，却也在她紧皱的眉间读出了愤怒。
@@ -561,9 +561,9 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [Dialog]
 [Character(name="avg_npc_411_1#4$1")]
 [name="可露希尔"]糟了，博士，有什么正在迅速靠近——等，这么快？！在哪儿？！快找！
-[name="可露希尔"]不......不对......
+[name="可露希尔"]不……不对……
 [Character(name="avg_npc_411_1#5$1")]
-[name="可露希尔"]他......他......一开始就在......那、那里？
+[name="可露希尔"]他……他……一开始就在……那、那里？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -612,8 +612,8 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 你脱口而出。
 她正濒临死亡。或许下一刻她就会死去。
 你以前从未如此清晰地感受过这种可能性。
-[name="凯尔希"]Dr.{@nickname}......
-[name="凯尔希"]带着阿米娅......撤退。
+[name="凯尔希"]Dr.{@nickname}……
+[name="凯尔希"]带着阿米娅……撤退。
 [playsound(key="$char_Mon3tr",volume=0.5)]
 [name="Mon3tr"]（竭尽全力的嘶吼）
 [Dialog]
@@ -644,25 +644,25 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [delay(time=1)]
 竭尽全力的迎击，也只是将那把貌不惊人的长剑顶开了些许。
 可露希尔拼命拉着你，你抱着阿米娅。
-你们在无人机的拉扯下飞速地后退，而满身鲜血的凯尔希......依旧挡在你们身前。
+你们在无人机的拉扯下飞速地后退，而满身鲜血的凯尔希……依旧挡在你们身前。
 [Dialog]
 [Character(name="char_003_kalts_1#2",blackstart=0.2,blackend=1,fadetime=1,block=true)]
 [delay(time=1)]
-[name="凯尔希"]......特雷西斯......
+[name="凯尔希"]……特雷西斯……
 [Character(name="npc_10002")]
 [name="Mon3tr"]（微弱的挣扎）
 [Dialog]
 [character(fadetime=0)]
 [character(name="avg_npc_062",fadetime=1,block=true)]
 [delay(time=1)]
-[name="特雷西斯"]......你选择了再一次与萨卡兹为敌。
+[name="特雷西斯"]……你选择了再一次与萨卡兹为敌。
 [name="特雷西斯"]两百年前，我看着你重生在特蕾西娅的身边。一度毁灭卡兹戴尔的罪魁祸首，一个驯化古老的不灭之人。
-[name="特雷西斯"]你为她做了许多事，讲述那些我们永远看不见的遥远幻境......
+[name="特雷西斯"]你为她做了许多事，讲述那些我们永远看不见的遥远幻境……
 [name="特雷西斯"]多遗憾。
 [Character(name="char_003_kalts_1#2",blackstart=0.2,blackend=1)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="凯尔希"]咳......咳咳......
-[name="凯尔希"]......你......你只是在加快毁灭的进程。
+[name="凯尔希"]咳……咳咳……
+[name="凯尔希"]……你……你只是在加快毁灭的进程。
 [dialog]
 [Character(name="char_147_shining_1")]
 [multiline(name="闪灵")]凯尔希医生，你不能再—
@@ -678,7 +678,7 @@ PRTS并不能显示干员们的处境，可你已经意识到了她正面临着�
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [name="特雷西斯"]我知道。但是萨卡兹要快毁灭一步，而不是被你们冷酷的规划夺走生存的权利。
 [Character(name="char_003_kalts_1#2",blackstart=0.2,blackend=1)]
-[name="凯尔希"]......不！
+[name="凯尔希"]……不！
 [character(name="avg_npc_062")]
 [name="特雷西斯"]你已经没有力气说话了。你拦截了巫妖的信使，了不起，军事委员会都还没发现他们的踪迹。
 [name="特雷西斯"]但看得出，你们交谈得并不愉快。

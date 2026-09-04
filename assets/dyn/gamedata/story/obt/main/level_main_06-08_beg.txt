@@ -5,17 +5,17 @@
 [Character(name="char_010_chen_1#5")]
 [name="陈"]  走吧。
 [Character(name="char_010_chen_1#5",name2="char_015_lmg",focus=2)]
-[name="近卫局成员"]  可我们并不熟这里的构造，我害怕......感染者会针对我们行动。
+[name="近卫局成员"]  可我们并不熟这里的构造，我害怕……感染者会针对我们行动。
 [Character(name="char_010_chen_1#5",name2="char_015_lmg",focus=1)]
 [name="陈"]  放心，我很熟悉这里。听我的指挥。
 [Character(name="char_010_chen_1#5",name2="char_015_lmg",focus=2)]
 [name="近卫局成员"]  Yes sir！
 [name="近卫局成员"]  陈sir，有个不太好的消息。根据各处的通报，整合运动的行动又变得有条理了起来，就像重新找到了指挥官一样！
-[name="近卫局成员"]  他们......他们还调整了既有频道，重置了加密，我们没法再追踪他们的通讯了！
+[name="近卫局成员"]  他们……他们还调整了既有频道，重置了加密，我们没法再追踪他们的通讯了！
 [Character(name="char_010_chen_1#1",name2="char_015_lmg",focus=1)]
-[name="陈"]  ......难道他们和贫民区里的队伍汇合了？
+[name="陈"]  ……难道他们和贫民区里的队伍汇合了？
 [name="陈"]  不可能，我已经收到消息说罗德岛处理好了贫民区里的事情，这才让我们得以不被里外夹击。
-[name="陈"]  奇怪......
+[name="陈"]  奇怪……
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  阿陈，我准备——
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
@@ -35,18 +35,18 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [Character(name="char_010_chen_1#5")]
-[name="陈"]  ......我是陈。
+[name="陈"]  ……我是陈。
 [Character]
 [name="？？？"]  有新的整合运动成员从贫民区下层过来了。
 [name="？？？"]  被称作是雪怪小队的感染者，似乎有毁坏建筑物、摧毁城市基础结构的能力。
 [name="？？？"]  务必小心。
 [Character(name="char_010_chen_1#1")]
-[name="陈"]  ......明白。
+[name="陈"]  ……明白。
 [name="陈"]  Only-1，有隶属龙门的特殊部队在贫民区活动。我们还暂时没法阻止他们。你要注意安全。
 [Character]
 [name="？？？"]  好。
 [Character(name="char_010_chen_1#1")]
-[name="陈"]  ......Only-1，之前为什么没有发送定时通信？
+[name="陈"]  ……Only-1，之前为什么没有发送定时通信？
 [Character]
 [name="？？？"]  我在想一些事。
 [name="？？？"]  现在我想清楚了，龙门就拜托你了。
@@ -62,10 +62,10 @@
 [Character(name="char_010_chen_1#2")]
 [name="陈"]  九！服从命令！
 [Character]
-[name="九"]  ......三年前起，我就不属于近卫局了。
+[name="九"]  ……三年前起，我就不属于近卫局了。
 [name="九"]  再说，原本，理应是我命令你。
 [Character(name="char_010_chen_1#4")]
-[name="陈"]  九......！
+[name="陈"]  九……！
 [Character]
 [name="九"]  你说的特殊部队，我似乎已经看见过了。
 [name="九"]  我还是把龙门想象得太好了。再见，陈。
@@ -77,7 +77,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_010_chen_1#1")]
-[name="陈"]  ......
+[name="陈"]  ……
 [name="陈"]  我声音是不是太大了？
 [Character]
 [name="诗怀雅"]  那确实特别大，我感觉一条街都听见了。
@@ -87,26 +87,26 @@
 [name="诗怀雅"]  哎，阿陈，你过来。
 [Character(name="char_010_chen_1#1")]
 [PlaySound(key="$d_gen_walk_n")]
-[name="陈"]  ......
+[name="陈"]  ……
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  坐啊。
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  Miss诗怀雅居然不顾形象、不怕裙子脏，就这样子蹲坐在街边？
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  无所谓啦！你怎么觉得我会在意那种事的！
-[name="诗怀雅"]  ......我准备再给那只下水道老鼠打个电话。
+[name="诗怀雅"]  ……我准备再给那只下水道老鼠打个电话。
 [name="诗怀雅"]  虽然我没怎么来过这里，但我觉得特殊部队一定在做可怕的事。
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  你见过贫民区的林吗？
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  我见过。是个很和善的老人，比我爷爷好多了。
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]  ......他可是“鼠王”。
+[name="陈"]  ……他可是“鼠王”。
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  这几个人不都这样。但他真的是个好人。
 [name="诗怀雅"]  我只是没想到雨霞她会变成现在这个样子。明明以前是个又胆小又腼腆的孩子，经常躲在你背后来着。
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]  我倒觉得她没有变。她只是......担负起了责任。也许并不该属于她的责任。
+[name="陈"]  我倒觉得她没有变。她只是……担负起了责任。也许并不该属于她的责任。
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  就算你这么提醒她，也没用。我们已经被架在火上烤了。
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=2)]
@@ -114,7 +114,7 @@
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  所以我想再打个电话。
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]  ......
+[name="陈"]  ……
 [name="陈"]  也许刚才的消息可以帮到我们。
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  怎么说的？
@@ -142,7 +142,7 @@
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  龙门人不知道什么林，不怎么认识你的祖父，也不太清楚魏彦吾是谁，更别说底下那些商会什么的了。
 [name="陈"]  龙门人只相信近卫局。这几个人没有人敢冒风险真的抹除龙门近卫局，只留下普通警力。
-[name="陈"]  再加上外人......这个秤砣会重到他们不敢接手。
+[name="陈"]  再加上外人……这个秤砣会重到他们不敢接手。
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  你会被撤职哦。
 [Character(name="char_308_swire_1#3",name2="char_010_chen_1#1",focus=2)]
@@ -154,7 +154,7 @@
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  只要我们能保下这里，林肯定接受。
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]  对了......
+[name="陈"]  对了……
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  什么？
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=2)]
@@ -165,19 +165,19 @@
 [Background]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_036")]
-[name="林雨霞"]  ......
+[name="林雨霞"]  ……
 [name="林雨霞"]  做什么？
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [Character]
 [name="诗怀雅"]  臭老鼠，有个消息给你。有支整合运动，我们现在挡不住，需要你那支队伍的帮助。
 [Character(name="avg_npc_036")]
-[name="林雨霞"]  ......怎么可能？不要骗我。
+[name="林雨霞"]  ……怎么可能？不要骗我。
 [Character]
 [name="诗怀雅"]  我骗过你吗？
 [Character(name="avg_npc_036")]
 [name="林雨霞"]  你和我说要和我上同一所中学，结果你去了维多利亚。
 [Character]
-[name="诗怀雅"]  ......
+[name="诗怀雅"]  ……
 [name="诗怀雅"]  对不起。实在对不起。
 [Character(name="avg_npc_036")]
 [name="林雨霞"]  没什么，我不在意了。
@@ -187,26 +187,26 @@
 [name="林雨霞"]  骗子。你会来这里吗？
 [name="林雨霞"]  你会来贫民区吗？
 [Character]
-[name="诗怀雅"]  ......陈会。
+[name="诗怀雅"]  ……陈会。
 [Character(name="avg_npc_036")]
-[name="林雨霞"]  ......你还真不会骗人啊。她，关我什么事？
+[name="林雨霞"]  ……你还真不会骗人啊。她，关我什么事？
 [Character]
 [name="诗怀雅"]  你爸出于一些原因，不能够直接着手调解普通人和感染者的矛盾，但陈会。
 [name="诗怀雅"]  陈和你的父亲一起调理着贫民区。
 [name="诗怀雅"]  他们在努力让贫民区变成一个可以让更多人生活的地方，甚至是甩掉贫民区这个名字。
-[name="诗怀雅"]  你想......虽然龙门的普通市民很少居住在这，但是过去这些年里，他们不也经常来这里吗？
+[name="诗怀雅"]  你想……虽然龙门的普通市民很少居住在这，但是过去这些年里，他们不也经常来这里吗？
 [name="诗怀雅"]  再过一些时间，我们就不需要贫民区了。
 [Character(name="avg_npc_036")]
 [name="林雨霞"]  什么？
 [Character]
-[name="诗怀雅"]  虽然感染者的问题我们还没法解决，但我相信......这里可以变成一个更好的地方。
+[name="诗怀雅"]  虽然感染者的问题我们还没法解决，但我相信……这里可以变成一个更好的地方。
 [name="诗怀雅"]  只是龙门的22到29下城区，而不是什么“贫民区”。
 [name="诗怀雅"]  这个城市本来就是因为能容纳许许多多、各种各样的人，才发展成现在这个样子的。
 [name="诗怀雅"]  龙门不能失去任何人。
 [Character(name="avg_npc_036")]
-[name="林雨霞"]  ......无聊。你变得和那个陈一样无聊。
+[name="林雨霞"]  ……无聊。你变得和那个陈一样无聊。
 [Character]
-[name="诗怀雅"]  雨霞......
+[name="诗怀雅"]  雨霞……
 [name="诗怀雅"]  哎，我不想把气氛搞得像是垃圾终端连续剧一样。
 [Character(name="avg_npc_036")]
 [name="林雨霞"]  那支整合运动的位置在哪？

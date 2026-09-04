@@ -14,22 +14,22 @@
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]情况正变得越来越糟。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[name="凯尔希"]新生的峡谷，改道的河流......曾经供巨型城市通行的航道，已经被撕碎、重组，变成了无人能知晓全貌的样子。
+[name="凯尔希"]新生的峡谷，改道的河流……曾经供巨型城市通行的航道，已经被撕碎、重组，变成了无人能知晓全貌的样子。
 [name="凯尔希"]曾经的地图成了一张废纸，每一条小径都需要重新寻觅。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]但“提卡兹之血”无疑就在这个方向，我与它之间的纽带正在颤动。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]越靠近战场中心，一切“信息”与源石的结合率就越高。
-[name="凯尔希"]岩石，泥土，水源与生灵......在泰拉，源石的影响无处不在，可也许早没有人能记起，它作用的根本机制是什么。
+[name="凯尔希"]岩石，泥土，水源与生灵……在泰拉，源石的影响无处不在，可也许早没有人能记起，它作用的根本机制是什么。
 [Dialog]
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="none")]
 [Decision(options="凯尔希，你刚刚提到了“信息”？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]也许，你很快就会知道了，博士。
 [charslot(slot="m",name="avg_003_kalts_1#4$1",focus="m")]
-[name="凯尔希"]又或者......不，没什么。
+[name="凯尔希"]又或者……不，没什么。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]这一片还在蔓延的、被源石充分浸染的土地在客观上确实有利于特雷西斯的军事行动，维多利亚人的阵线几乎被彻底摧毁。
 [name="凯尔希"]但如今这些源石活性化的程度远非之前看似可怕的“天灾打击”可以相比。
@@ -64,28 +64,28 @@
 [charslot(slot="r",name="avg_npc_932_1#1$1",posfrom="200,0",posto="200,0",duration="1.5")]
 [Delay(time=2)]
 [charslot(slot="r",name="avg_npc_932_1#1$1",posfrom="200,0",posto="200,0",focus="r")]
-[name="“老财”"]女妖老爷......还有，“魔王”大人。
+[name="“老财”"]女妖老爷……还有，“魔王”大人。
 [charslot(slot="l",name="avg_npc_054",posfrom="-200,0",posto="-200,0",focus="l")]
 [name="“矿工”"]我就让你别开这条路！这下彻底跑不掉了吧！
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
-[name="“司机”"]可他们又不是什么坏人......
+[name="“司机”"]可他们又不是什么坏人……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
-[name="阿米娅"]你们......不是应该留在“生命脊椎”上吗？
+[name="阿米娅"]你们……不是应该留在“生命脊椎”上吗？
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_054",posfrom="-200,0",posto="-200,0",focus="r")]
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_npc_932_1#1$1",posfrom="200,0",posto="200,0",focus="r")]
-[name="“老财”"]哎哟......我，我就坦白了吧......
-[name="“老财”"]女妖老爷，魔王殿下......我们实在是太害怕了，留在那个骨头架子上，不知道还会碰上什么事，我们就逃了出来......
-[name="“老财”"]我知道这是大罪！可是......我们也派不上用场，对吧？
-[name="“老财”"]求求您，别......别处决我们，我们愿意挨鞭子！挨多少都行！
+[name="“老财”"]哎哟……我，我就坦白了吧……
+[name="“老财”"]女妖老爷，魔王殿下……我们实在是太害怕了，留在那个骨头架子上，不知道还会碰上什么事，我们就逃了出来……
+[name="“老财”"]我知道这是大罪！可是……我们也派不上用场，对吧？
+[name="“老财”"]求求您，别……别处决我们，我们愿意挨鞭子！挨多少都行！
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]......我不会处决你们，也从未打算过让你们为我战斗。
+[name="阿米娅"]……我不会处决你们，也从未打算过让你们为我战斗。
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
 [name="阿米娅"]如果你们想要离开，就离开吧。
 [Dialog]
@@ -100,18 +100,18 @@
 [name="“老财”"]嘘——别说啦！魔王殿下饶我们一命已经是大恩大德了，你还想怎么样？
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
 [name="“司机”"]别傻了老财，就靠我们三个，还有这辆破车，指不定就在哪被炸弹炸死了。
-[name="“司机”"]魔王殿下，恳请您，带着我们离开这片战场吧。我会献上我的所有，只要您能让这两个家伙活下来，我会......我会对您效忠。
+[name="“司机”"]魔王殿下，恳请您，带着我们离开这片战场吧。我会献上我的所有，只要您能让这两个家伙活下来，我会……我会对您效忠。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]你们......不，不是这个问题。如果你们跟着我们，同样会很危险。
+[name="阿米娅"]你们……不，不是这个问题。如果你们跟着我们，同样会很危险。
 [name="阿米娅"]博士，你觉得我们该怎么办？
 [Dialog]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="none")]
 [Decision(options="他们恐怕很难靠自己活着走出这片战场。;他们有可能会向军事委员会透露我们的行踪。;他们的货车不错，可以抢过来。", values="1;2;3")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]嗯......
+[name="阿米娅"]嗯……
 [Dialog]
 [Predicate(references="2")]
 [charslot(slot="l",name="avg_npc_054",posfrom="-200,0",posto="-200,0",focus="r")]
@@ -126,9 +126,9 @@
 [Dialog]
 [Predicate(references="3")]
 [charslot(slot="m",name="avg_npc_394_1#14$1",focus="m")]
-[name="阿米娅"]博士......我们真的要这么做吗......？
+[name="阿米娅"]博士……我们真的要这么做吗……？
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
-[name="阿米娅"]不......博士又在和我开玩笑了。
+[name="阿米娅"]不……博士又在和我开玩笑了。
 [Dialog]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
@@ -141,7 +141,7 @@
 [charslot(slot="r",name="avg_npc_932_1#1$1",posfrom="200,0",posto="200,0",focus="l")]
 [name="“矿工”"]谢谢你们。
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
-[name="“司机”"]感谢......这辆载具还能载你们一程。
+[name="“司机”"]感谢……这辆载具还能载你们一程。
 [charslot(slot="r",name="avg_npc_932_1#1$1",posfrom="200,0",posto="200,0",focus="r")]
 [name="“老财”"]哎哟，这这这，魔王大人这样仁义，我真的是不知道怎么报答您了——
 [Dialog]
@@ -156,7 +156,7 @@
 [name="“老财”"]我都忘了，哈哈，幸好没丢。来，给您！
 [name="“老财”"]我知道错了！为女妖大人服务应当是我的荣幸，我怎敢再收您的好处？
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [Dialog]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="none")]
 [Decision(options="你好像吓到他了。;你很想要回自己的硬币。", values="1;2")]
@@ -172,14 +172,14 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 老财盯了会那只往常一抬起来就地动山摇的手，看了看自己手中的硬币，又瞅了瞅女妖一本正经的面容，颇有些不知所措。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="“老财”"]这、这是变魔术？
-[name="“老财”"]......哈哈，这可太精彩了，女妖大人还真是多才多艺！
-[name="“老财”"]我......那个，我去帮司机发动车子！
+[name="“老财”"]……哈哈，这可太精彩了，女妖大人还真是多才多艺！
+[name="“老财”"]我……那个，我去帮司机发动车子！
 [Dialog]
 [playsound(key="$rungeneral",volume=1,channel=1)]
 [charslot(duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [Dialog]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="none")]
 [Decision(options="很有意思的表演。;表演似乎没能起到效果。", values="1;2")]
@@ -194,7 +194,7 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [name="Logos"]博士，有时候我也会遗憾于我们之间相处的许多记忆消散无踪。
 [Dialog]
 [charslot(slot="m",name="avg_npc_1072_1#3$1",focus="none")]
-[Decision(options="我们很少聊起往事......;总是找不到恰当的时机聊这些。", values="1;2")]
+[Decision(options="我们很少聊起往事……;总是找不到恰当的时机聊这些。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1072_1#4$1",focus="m")]
 [name="Logos"]倘若我们之后有时间闲谈叙旧，或许您也会对自己过去的逸闻感到惊喜。
@@ -211,24 +211,24 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [playsound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_394_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="阿米娅"]这附近......什么声音都没有。
-[name="阿米娅"]这里安静得出奇。我听不到我们的呼吸声和载具行进声，我甚至感觉不到......自己的心跳。
+[name="阿米娅"]这附近……什么声音都没有。
+[name="阿米娅"]这里安静得出奇。我听不到我们的呼吸声和载具行进声，我甚至感觉不到……自己的心跳。
 [name="阿米娅"]是某种源石技艺吗？有人想要隐藏自己的行动，于是小心地遮蔽了这里所有的声息？
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]不，阿米娅，仔细去听。
 [name="Logos"]并非是声音弃绝了这里，只是另一种轰鸣太过庞大，以至于再没有其他任何存在可以与之匹敌。
-[name="Logos"]这里的死亡......震耳欲聋。
+[name="Logos"]这里的死亡……震耳欲聋。
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
 [name="阿米娅"]你们看，那里——
-[name="阿米娅"]那边的叶子......
+[name="阿米娅"]那边的叶子……
 [Dialog]
 [charslot]
 有一枚叶片，极低处的一枚叶片，正染上一种诡异而绚烂的色彩，像是画家随意涂抹的颜料，也像是油脂在阳光下奇异的反光。
 [Dialog]
-[Decision(options="像是某种法术的痕迹。;......;像是某种真菌感染。", values="1;2;3")]
+[Decision(options="像是某种法术的痕迹。;……;像是某种真菌感染。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [name="Logos"]它在腐败。
 [name="Logos"]衰朽张开巨口，啃食着它所能看见的一切，只留下斑斓的啮痕。
 [Dialog]
@@ -265,7 +265,7 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [Decision(options="解决掉了吗？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......不。
+[name="Logos"]……不。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_walk_water",channel="1")]
@@ -297,7 +297,7 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [Dialog]
 [PlaySound(key="$d_avg_ghostscream",channel="1")]
 [CameraShake(duration=1.5,xstrength=40 ,ystrength=40, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="？？？"]......
+[name="？？？"]……
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]Mon3tr。
 [charslot(slot="m",name="npc_10002",focus="m")]
@@ -358,8 +358,8 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [charslot(slot="m",name="avg_npc_1331_1#1$1",duration=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
-[name="？？？"]......
-[name="？？？"]死亡......追上你们了。
+[name="？？？"]……
+[name="？？？"]死亡……追上你们了。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="“老财”"]什么鬼东西，别过来！
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
@@ -381,13 +381,13 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]Sudaram......“灵幛”。
+[name="Logos"]Sudaram……“灵幛”。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]缠裹已死之躯的衣袍。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]他的躯体早就朽坏了，普通的攻击并不能造成决定性的影响。
 [charslot(slot="m",name="avg_003_kalts_1#7$1",focus="m")]
-[name="凯尔希"]这是一种食腐者与生俱来的巫术，或者说......一种古老的传统。
+[name="凯尔希"]这是一种食腐者与生俱来的巫术，或者说……一种古老的传统。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]食腐者们吞噬生命，滋养肉体，但普通肉体的成长终有尽头。
 [name="凯尔希"]在达到临界点后，强大的食腐者会用自己的身体给养弱小的同胞，换来极致的速度与令人恐惧的力量，以及凡躯所无法承受的巫术能量。
@@ -464,7 +464,7 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [PlaySound(key="$char_Mon3tr")]
 [name="Mon3tr"]（尖锐的嘶鸣）
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]Mon3tr......也感到了痛苦？
+[name="阿米娅"]Mon3tr……也感到了痛苦？
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]任何生命，都会凋零。
 [charslot(slot="m",name="avg_npc_1072_1#2$1",focus="m")]
@@ -479,7 +479,7 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]好快......！
+[name="阿米娅"]好快……！
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
 [name="阿米娅"]他是从泥里钻出来的吗？还是从树上结出来的？
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
@@ -487,17 +487,17 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [name="凯尔希"]从生到死，从荣到枯，整个循环过程都可能被食腐者汲取，变成孕育食腐者的种子。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
 [name="阿米娅"]我能感觉到，源源不断的巫术力量正在向我们涌来。
-[name="阿米娅"]并不仅仅来自这一名敌人本身......沼泽里，树林中，哪里都是。
+[name="阿米娅"]并不仅仅来自这一名敌人本身……沼泽里，树林中，哪里都是。
 [charslot(slot="m",name="avg_npc_1072_1#2$1",focus="m")]
 [name="Logos"]我们已经身处食腐者的挽幛中。
 [name="Logos"]他将死亡悬于我们头顶。
 [name="Logos"]只有撕开这层巫术屏障，才能击败他。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="“老财”"]呼......呼......矿工，我是不是要死了？
+[name="“老财”"]呼……呼……矿工，我是不是要死了？
 [charslot(slot="m",name="avg_npc_054",focus="m")]
-[name="“矿工”"]......
+[name="“矿工”"]……
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
-[name="“司机”"]他太累了，老财，拉着我，我们不能分开。我......
+[name="“司机”"]他太累了，老财，拉着我，我们不能分开。我……
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.5, r=0,g=0, b=0, fadetime=0.05, block=true)]
@@ -505,7 +505,7 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
 [name="阿米娅"]司机小姐！抓着我的手，不要倒下去！
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
-[name="“司机”"]我......
+[name="“司机”"]我……
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
 [name="阿米娅"]她的意识在下沉，我快抓不住她了！
 [charslot(slot="m",name="avg_003_kalts_1#7$1",focus="m")]
@@ -516,27 +516,27 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.5, r=0,g=0, b=0, fadetime=0.05, block=true)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=1, block=true)]
-[name="“司机”"]放开......放开我吧。
-[name="“司机”"]我不能......害你......
-[name="“司机”"]哈......你可以丢下我们的。
-[name="“司机”"]我知道的，要不是我们，你和女妖大人可以更加轻松地......战斗。
+[name="“司机”"]放开……放开我吧。
+[name="“司机”"]我不能……害你……
+[name="“司机”"]哈……你可以丢下我们的。
+[name="“司机”"]我知道的，要不是我们，你和女妖大人可以更加轻松地……战斗。
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
 [name="阿米娅"]不。
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
 [name="阿米娅"]我承诺过会带你们走出战场，我们是一起的。
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
-[name="“司机”"]这样......吗？
+[name="“司机”"]这样……吗？
 [name="“司机”"]也好。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]血的味道，正在弥漫。
 [charslot(slot="m", name = "avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]是司机小姐他们受伤了......
+[name="阿米娅"]是司机小姐他们受伤了……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]不。是血的......巫术。
+[name="Logos"]不。是血的……巫术。
 [charslot(slot="m", name = "avg_npc_394_1#11$1",focus="m")]
 [name="阿米娅"]嗯？
 [charslot(slot="m", name = "avg_npc_394_1#15$1",focus="m")]
-[name="阿米娅"]是......血魔吗？这片树林里除了食腐者，还有血魔？
+[name="阿米娅"]是……血魔吗？这片树林里除了食腐者，还有血魔？
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_blood")]
@@ -555,7 +555,7 @@ Logos动了动手指，躺在掌心的硬币瞬间消失了，转眼间，硬币
 [Blocker(a=0.1, r=1,g=0, b=0, fadetime=1, block=true)]
 [name="Logos"]我会令这层“挽幛”的编织痕迹暴露出来，找到最脆弱的部分。
 [charslot(slot="m", name = "avg_npc_394_1#15$1",focus="m")]
-[name="阿米娅"]......我明白了。
+[name="阿米娅"]……我明白了。
 [Dialog]
 [charslot]
 黑色的法术在阿米娅身前凝成一支长矛。
@@ -576,9 +576,9 @@ Logos抬起手，指向浓雾深处。
 [Delay(time=1.5)]
 [name="“灵幛”"]（沉闷的低吼）
 [name="“灵幛”"]报丧者。
-[name="“灵幛”"]你......抵挡腐败的蔓延。
+[name="“灵幛”"]你……抵挡腐败的蔓延。
 [name="“灵幛”"]但，无力逆转。
-[name="“灵幛”"]死亡......
+[name="“灵幛”"]死亡……
 [name="“灵幛”"]会为你收殓。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]我从未怀疑过这一点。
@@ -626,15 +626,15 @@ Logos抬起手，指向浓雾深处。
 [Delay(time=0.51)]
 [stopmusic(fadetime=1.5)]
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="“老财”"]烂了......？
+[name="“老财”"]烂了……？
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
 [name="“司机”"]至少看起来是这样。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="“老财”"]呼......司机，你什么时候变得这么厉害了？
+[name="“老财”"]呼……司机，你什么时候变得这么厉害了？
 [charslot(slot="m", name = "avg_npc_1338_1#1$1",focus="m")]
 [name="“司机”"]魔王殿下，我们是不是该走了？
 [charslot(slot="m", name = "avg_npc_394_1#2$1",focus="m")]
-[name="阿米娅"]嗯，在食腐者再次醒过来，追上我们之前......我们最好离开这里。
+[name="阿米娅"]嗯，在食腐者再次醒过来，追上我们之前……我们最好离开这里。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -651,7 +651,7 @@ Logos抬起手，指向浓雾深处。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]它依然在运作。
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
-[name="阿米娅"]我们和“灵幛”作战的时候，凭空出现的血魔法术......是不是就是它的作用？
+[name="阿米娅"]我们和“灵幛”作战的时候，凭空出现的血魔法术……是不是就是它的作用？
 [charslot(slot="m",name="avg_003_kalts_1#2$1",focus="m")]
 [name="凯尔希"]恐怕没有那么简单。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
@@ -663,7 +663,7 @@ Logos抬起手，指向浓雾深处。
 [PlaySound(key="$d_avg_cnstrctnck",channel="1")]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]是......血魔的子裔？
+[name="阿米娅"]是……血魔的子裔？
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
 [name="阿米娅"]我设想过，血魔大君已经离开了这片战场，但他的恩赐不会轻易消失。
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
@@ -671,7 +671,7 @@ Logos抬起手，指向浓雾深处。
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
 [name="阿米娅"]Logos先生，请和我一起——
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......阿米娅。
+[name="Logos"]……阿米娅。
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_clothmovement",volume=1,channel="1")]
@@ -682,23 +682,23 @@ Logos抬起手，指向浓雾深处。
 阿米娅注意到Logos的眼神。
 他没有看向石柱，他看的是阿米娅，眼底飞快地掠过了一丝情绪。
 那是悲伤。阿米娅一下就辨认了出来。
-这场战争开始以来，她已经感受过太多次。有的时候来自敌人，更多时候......都是来自身边的同伴。
+这场战争开始以来，她已经感受过太多次。有的时候来自敌人，更多时候……都是来自身边的同伴。
 [stopmusic(fadetime=1.5)]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]......司机小姐。
+[name="阿米娅"]……司机小姐。
 [Dialog]
 [charslot]
 [playsound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_1338_1#1$2",duration=1.5)]
 [Delay(time=2)]
 [PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
-[name="“司机”"]......
+[name="“司机”"]……
 [name="“司机”"]魔王殿下。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]什么时候的事？是在......我们和食腐者战斗那会吗？
+[name="阿米娅"]什么时候的事？是在……我们和食腐者战斗那会吗？
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
 [name="“司机”"]嗯。
-[name="“司机”"]离开骸骨的时候，我带了一块......先前军事委员会叫我们运的石头在身上。
+[name="“司机”"]离开骸骨的时候，我带了一块……先前军事委员会叫我们运的石头在身上。
 [name="“司机”"]我想，之前它让我们变厉害了，说不定真打起来了也能派上用场。
 [name="“司机”"]你看，的确起了点作用，对吧？
 [name="“司机”"]能跟着你一起打赢那个古怪的敌人，换作以前，我想都不敢想。
@@ -709,12 +709,12 @@ Logos抬起手，指向浓雾深处。
 [charslot(slot="m",name="avg_003_kalts_1#2$1",focus="m")]
 [name="凯尔希"]你主动接纳了杜卡雷的鲜血和法术。
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
-[name="“司机”"]我本就有血魔的血脉，虽然稀薄得很......但我还是能感受到大君的召唤，哪怕只是微乎其微。
+[name="“司机”"]我本就有血魔的血脉，虽然稀薄得很……但我还是能感受到大君的召唤，哪怕只是微乎其微。
 [name="“司机”"]我见过那些蠕虫从死去的萨卡兹雇佣兵身上爬出来。所以，你们不必担心我不知道后果。
 [name="“司机”"]只是，与其跟一条真正的虫子一样，无声无息地陷在烂泥里死掉，我宁可接受更强的力量，作为一个不那么丢人的萨卡兹，死在战场上。
-[name="“司机”"]那个时候我也是这么想的。几个月前，我正在荒野里漫无目的地开着车，从广播里听到了伦蒂尼姆的事......
+[name="“司机”"]那个时候我也是这么想的。几个月前，我正在荒野里漫无目的地开着车，从广播里听到了伦蒂尼姆的事……
 [name="“司机”"]不知怎么就朝着这个方向一路开过来了。
-[name="“司机”"]老财说我骑士故事读多了......他瞎说。谁都知道，卡兹戴尔不需要骑士。
+[name="“司机”"]老财说我骑士故事读多了……他瞎说。谁都知道，卡兹戴尔不需要骑士。
 [name="“司机”"]我不过是想确认，自己的人生是不是也可以在某条路上行进，会有一个终点，而不是被单纯地浪费掉。
 [name="“司机”"]直到我遇见了你。“魔王走过的地方就是道路”——我们一起，呃，在这条路上并肩战斗过了。
 [name="“司机”"]现在，战斗暂时结束了。我的同伴也大多活了下来。
@@ -725,11 +725,11 @@ Logos抬起手，指向浓雾深处。
 [charslot(slot="m",name="avg_npc_932_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [name="“老财”"]处、处置？这是什么意思？
-[name="“老财”"]司机，你怎么变成了这副......这副......
+[name="“老财”"]司机，你怎么变成了这副……这副……
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
 [name="“司机”"]是不是很可怕？
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="“老财”"]......
+[name="“老财”"]……
 [name="“老财”"]魔王殿下，求求您，帮帮司机吧！还、还有，女妖大人，我把这枚硬币还给您，这是我身上仅剩的财产了。
 [charslot(slot="m",name="avg_npc_1072_1#2$1",focus="m")]
 [name="Logos"]她的状态是巫术诱发，却并非巫术导致。
@@ -739,26 +739,26 @@ Logos抬起手，指向浓雾深处。
 [name="“老财”"]那怎么办啊？你们难道要杀了她，就像杀了那些红色虫子一样吗？
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
 [name="“司机”"]老财，让开吧。这是我自愿的。
-[name="“司机”"]魔王殿下，我听说......在过去，萨卡兹最英勇的战士，在死前有资格得到魔王赐予的“愿景”。
+[name="“司机”"]魔王殿下，我听说……在过去，萨卡兹最英勇的战士，在死前有资格得到魔王赐予的“愿景”。
 [name="“司机”"]我不知道，呃，不知道自己算不算。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [charslot]
 阿米娅抬起手。
 黑色的法术在她指尖积聚。
 司机绝望地笑了起来，下意识看向卡特斯的头顶，寻找那顶传说中的黑色冠冕。
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
-[name="“司机”"]我的......魔王......
-[name="“司机”"]我会看到什么呢？但愿......不会是在卡兹戴尔开我的破车吧，哈哈。
+[name="“司机”"]我的……魔王……
+[name="“司机”"]我会看到什么呢？但愿……不会是在卡兹戴尔开我的破车吧，哈哈。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
 [name="阿米娅"]司机小姐，能不能告诉我你的名字？
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
 [name="“司机”"]这也是仪式的一部分吗？
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
-[name="阿米娅"]唔......知道名字，会方便很多。
+[name="阿米娅"]唔……知道名字，会方便很多。
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
-[name="“司机”"]......玛瑞拉。很普通的名字。
+[name="“司机”"]……玛瑞拉。很普通的名字。
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
 [name="阿米娅"]（卡西米尔语）玛瑞拉。
 [name="阿米娅"]我在卡西米尔待的时间不太久，可能发音不够好。
@@ -767,18 +767,18 @@ Logos抬起手，指向浓雾深处。
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
 [name="阿米娅"]嗯，玛瑞拉，我拒绝你的请求。
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
-[name="“司机”"]你拒绝为我赐下慰藉？也是，我本来就算不了什么战士......
+[name="“司机”"]你拒绝为我赐下慰藉？也是，我本来就算不了什么战士……
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
 [name="阿米娅"]不是的，玛瑞拉。我拒绝让你死在这里，死在我手上。
 [name="阿米娅"]你并没有变成血魔的造物。
 [name="阿米娅"]你只是，外貌发生了一些变化。我并未感知到你变得更邪恶，或者更疯狂。
-[name="阿米娅"]就算多了一点......远古血脉留下的痕迹，你也依旧是你自己。
+[name="阿米娅"]就算多了一点……远古血脉留下的痕迹，你也依旧是你自己。
 [name="阿米娅"]你无需被惩罚，也不该由我来嘉奖。
 [charslot(slot="m",name="avg_npc_1338_1#1$2",focus="m")]
-[name="“司机”"]你是魔王......
+[name="“司机”"]你是魔王……
 [charslot(slot="m",name="avg_npc_394_1#21$1",focus="m")]
 [name="阿米娅"]请叫我阿米娅吧。
-[name="阿米娅"]玛瑞拉小姐，我是有过一些苦恼，因为你们......呃，并不是罗德岛的干员。
+[name="阿米娅"]玛瑞拉小姐，我是有过一些苦恼，因为你们……呃，并不是罗德岛的干员。
 [name="阿米娅"]我刚刚也在想，究竟该以什么方式与你们相处。但其实，这根本算不上什么问题。
 [charslot(slot="m",name="avg_npc_394_1#16$1",focus="m")]
 [name="阿米娅"]如果你愿意为我们的共同目标战斗，那我就欢迎你。
@@ -798,7 +798,7 @@ Logos抬起手，指向浓雾深处。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="l",name="avg_003_kalts_1#13$1",focus="l")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [Dialog]
 [charslot(slot="l",name="avg_003_kalts_1#13$1",focus="none")]
 [Decision(options="你在看阿米娅？", values="1")]
@@ -813,10 +813,10 @@ Logos抬起手，指向浓雾深处。
 [name="Logos"]血魔仪式的核心发生了改变。
 [name="Logos"]不再仅是萨卡兹力量的增幅器，也不再单纯收集能量。
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
-[name="凯尔希"]它在将萨卡兹的血脉与源石......与“阿喃那”进一步相连。
+[name="凯尔希"]它在将萨卡兹的血脉与源石……与“阿喃那”进一步相连。
 [name="凯尔希"]“提卡兹之血”正以某种形式发挥作用。
 [charslot(slot="l",name="avg_003_kalts_1#3$1",focus="l")]
-[name="凯尔希"]萨卡兹血脉的力量将直接催动源石扩散，寄宿于源石之中的“信息”也将反向强化血脉......不仅是力量，还有一些表征。
+[name="凯尔希"]萨卡兹血脉的力量将直接催动源石扩散，寄宿于源石之中的“信息”也将反向强化血脉……不仅是力量，还有一些表征。
 [Dialog]
 [charslot(slot="l",name="avg_003_kalts_1#3$1",focus="none")]
 [Decision(options="这法术效果有些熟悉。", values="1")]
@@ -826,7 +826,7 @@ Logos抬起手，指向浓雾深处。
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
 [name="凯尔希"]我们要做好准备。
 [charslot(slot="l",name="avg_003_kalts_1#7$1",focus="l")]
-[name="凯尔希"]“阿喃那”......带来的威胁极有可能超出所有人的预期。
+[name="凯尔希"]“阿喃那”……带来的威胁极有可能超出所有人的预期。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

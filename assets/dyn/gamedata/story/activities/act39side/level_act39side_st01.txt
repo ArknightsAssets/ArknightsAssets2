@@ -40,8 +40,8 @@
 [Delay(time=1.5)]
 [PlaySound(key="$d_avg_clothmovement")]
 [Delay(time=1.5)]
-[name="伊西多"]唔......
-[name="伊西多"]什么味道......又腥又咸......
+[name="伊西多"]唔……
+[name="伊西多"]什么味道……又腥又咸……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -54,24 +54,24 @@
 [PlaySound(key="$d_avg_piratepet_vo01")]
 [charslot(slot="m",name="avg_npc_1586_1#1$1",focus="m",duration=1.5)]
 [Delay(time=2)]
-[name="古怪的生物"]哼哧......哼哧......
+[name="古怪的生物"]哼哧……哼哧……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_clothmovement")]
 [charslot(slot="m",name="avg_293_thorns_1#2$1",duration=1.5)]
 [Delay(time=2)]
-[name="伊西多"]唉......
+[name="伊西多"]唉……
 [charslot(slot="m",name="avg_npc_1586_1#4$1",focus="m")]
-[name="古怪的生物"]（吐出舌头）哼......
+[name="古怪的生物"]（吐出舌头）哼……
 [charslot(slot="m",name="avg_293_thorns_1#7$1",focus="m")]
 [name="伊西多"]不许舔我脸，小家伙，我真的会揍你。
 [Dialog]
 [PlaySound(key="$d_avg_piratepet_vo02")]
 [charslot(slot="m",name="avg_npc_1586_1#4$1",focus="m")]
 [charslot(slot = "m", action="jump",power=50,times=1,duration = 0.5,isblock=true)]
-[name="古怪的生物"]哼哧......
+[name="古怪的生物"]哼哧……
 [charslot(slot="m",name="avg_293_thorns_1#3$1",focus="m")]
-[name="伊西多"]......算了，以后也不会再受你的气。
+[name="伊西多"]……算了，以后也不会再受你的气。
 [Dialog]
 [PlaySound(key="$dooropenquite")]
 [Delay(time=2)]
@@ -81,7 +81,7 @@
 [PlaySound(key="$doorclosequite")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_293_thorns_1#6$1",focus="m")]
-[name="伊西多"]......
+[name="伊西多"]……
 [charslot(slot="m",name="avg_293_thorns_1#1$1",focus="m")]
 [name="伊西多"]她今天见不到我了。
 [Dialog]
@@ -115,7 +115,7 @@
 [name="泼辣的女人"]（口哨）哈维尔，我上个月放在这里的那把刀能取走了吗？
 [Dialog]
 [charslot(slot="m",name="avg_npc_1579_1#1$2",focus="m")]
-[name="哈维尔"]......
+[name="哈维尔"]……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1580_1#2$1",duration=1.5)]
@@ -127,19 +127,19 @@
 [StopSound(channel="2",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_1579_1#8$2",focus="m")]
-[name="哈维尔"]哦......抱歉，蒂奇，我没听到你在说话。你是来取刀的吗？
+[name="哈维尔"]哦……抱歉，蒂奇，我没听到你在说话。你是来取刀的吗？
 [charslot(slot="m",name="avg_npc_1580_1#1$1",focus="m")]
 [name="蒂奇"]不然呢？难道来看你被汗打湿的胸膛吗？
 [charslot(slot="m",name="avg_npc_1579_1#2$2",focus="m")]
 [name="哈维尔"]你们不该总开这样的玩笑，蒂奇。
 [charslot(slot="m",name="avg_npc_1580_1#5$1",focus="m")]
 [name="蒂奇"]别这么说嘛，你清晨起来磨刀的身影已经是这里的一道风景了。
-[name="蒂奇"]看看这四周围过来的人......他们可不像来请你磨刀的。
+[name="蒂奇"]看看这四周围过来的人……他们可不像来请你磨刀的。
 [Dialog]
 [charslot]
 [name="旁观的男人"]（抛媚眼）嗨，哈维尔！
 [charslot(slot="m",name="avg_npc_1579_1#9$2",focus="m")]
-[name="哈维尔"]真是胡闹......拿着吧，蒂奇，这是你的刀。
+[name="哈维尔"]真是胡闹……拿着吧，蒂奇，这是你的刀。
 [charslot(slot="m",name="avg_npc_1579_1#1$2",focus="m")]
 [name="哈维尔"]我们不剩多少金属能修补武器了，只能想点其他办法，这阵子你先将就用吧。
 [charslot(slot="m",name="avg_npc_1580_1#5$1",focus="m")]
@@ -149,7 +149,7 @@
 [charslot(slot="m",name="avg_npc_1580_1#1$1",focus="m")]
 [name="蒂奇"]你这里有什么坚硬的食材可以试刀吗？
 [charslot(slot="m",name="avg_npc_1579_1#7$2",focus="m")]
-[name="哈维尔"]本来还有一块干面包......但刚刚送去给棚屋里的小子了。
+[name="哈维尔"]本来还有一块干面包……但刚刚送去给棚屋里的小子了。
 [charslot(slot="m",name="avg_npc_1580_1#5$1",focus="m")]
 [name="蒂奇"]浪费。
 [Dialog]
@@ -170,12 +170,12 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(duration=1.5)]
 [Delay(time=2)]
-[name="旁观的男人"]真是扫兴......哈维尔，明天再见哦！
+[name="旁观的男人"]真是扫兴……哈维尔，明天再见哦！
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_1579_1#7$2",focus="m")]
-[name="哈维尔"]（小声）啧......
+[name="哈维尔"]（小声）啧……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -205,7 +205,7 @@
 [charslot(slot="r",name="avg_npc_1579_1#2$2",focus="r")]
 [name="哈维尔"]鲁斯，无论如何，作为首领，她始终值得我们信任。
 [charslot(slot="l",name="avg_npc_1590_1#2$1",focus="l")]
-[name="鲁斯"]......
+[name="鲁斯"]……
 [name="鲁斯"]哈维尔，她要带我们重返海洋啊。就算这样你也一如既往支持她吗？你真的认同那是新出路吗？
 [name="鲁斯"]不，哈维尔，那是条毁灭之路。
 [charslot(slot="r",name="avg_npc_1579_1#8$2",focus="r")]
@@ -221,12 +221,12 @@
 [Delay(time=1)]
 [name="鲁斯"]木材有多贵你不是不知道。这些钱本来可以让大家过得滋润一点，你本来不至于每天憋屈着腌这些肝脏，沤这些咸鳞汁。
 [name="鲁斯"]趁她还没有投入更多，去劝劝她吧。
-[name="鲁斯"]有些不好的话......正在聚落里面传播，搞得人心不安。
+[name="鲁斯"]有些不好的话……正在聚落里面传播，搞得人心不安。
 [charslot(slot="r",name="avg_npc_1579_1#1$2",focus="r")]
-[name="哈维尔"]......
+[name="哈维尔"]……
 [name="哈维尔"]我会去找她谈谈的。
 [charslot(slot="r",name="avg_npc_1579_1#10$2",focus="r")]
-[name="哈维尔"]不过，鲁斯，不要忘记，没有胡安娜，没有你口中那个疯女人，我们的祖辈、我们的父辈，还有我们......
+[name="哈维尔"]不过，鲁斯，不要忘记，没有胡安娜，没有你口中那个疯女人，我们的祖辈、我们的父辈，还有我们……
 [charslot(slot="r",name="avg_npc_1579_1#2$2",focus="r")]
 [name="哈维尔"]都没法在这片盐漠活下去。
 [Dialog]
@@ -241,7 +241,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_293_thorns_1#10$1",duration=1.5)]
 [Delay(time=2)]
-[name="伊西多"]奇怪......
+[name="伊西多"]奇怪……
 [name="伊西多"]那个常坐在门口的厨子去哪里了？
 [Dialog]
 [charslot]
@@ -249,8 +249,8 @@
 [charslot(slot="m",name="avg_npc_1591_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_293_thorns_1#7$1")]
-[name="伊西多"]该死......
-[name="伊西多"]......是抓我回去的吗？
+[name="伊西多"]该死……
+[name="伊西多"]……是抓我回去的吗？
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement")]
 [charslot(slot="m",posfrom="0,0",posto ="-50,0",duration = 1,isblock=false)]
@@ -285,7 +285,7 @@
 [charslot(slot="r",name="avg_npc_1579_1#6$2",duration=1.5)]
 [delay(time=2)]
 [charslot(slot="r",name="avg_npc_1579_1#6$2",focus="r")]
-[name="哈维尔"]塞斯克......
+[name="哈维尔"]塞斯克……
 [charslot(slot="l",name="avg_npc_1590_1#4$1",focus="l")]
 [name="鲁斯"]哈维尔，行了，那家伙脑子不清楚！
 [charslot(slot="r",name="avg_npc_1579_1#6$2",focus="r")]
@@ -307,10 +307,10 @@
 揪住男人的衣领，哈维尔将他高高提起，随即，男人的后背狠狠撞在墙壁上。
 哈维尔面容沉静，但他眼中熊熊燃烧的火焰几乎要将男人灼烧成灰烬。
 [Dialog]
-[name="伊西多"]不会要打起来吧......
+[name="伊西多"]不会要打起来吧……
 [name="伊西多"]要是打起来，也好趁乱跑出去。
 [charslot(slot="m",name="avg_npc_1591_1#1$1",focus="m")]
-[name="塞斯克"]呃......
+[name="塞斯克"]呃……
 [charslot(slot="m",name="avg_npc_1579_1#6$2",focus="m")]
 [name="哈维尔"]不要让我再听到这样的话，哪怕是睡觉，也不要说这样的梦话。
 [name="哈维尔"]听到了吗，塞斯克？
@@ -321,11 +321,11 @@
 被扼住喉咙的男人几乎窒息，周围却没有一人敢上前阻拦，只是默默低下头绕开。
 道路两旁，棚屋中的人陆续将门窗闭紧，不过片刻，路上便已空空荡荡。
 [charslot(slot="m",name="avg_npc_1591_1#1$1",focus="m")]
-[name="塞斯克"]唔......
+[name="塞斯克"]唔……
 [charslot(slot="m",name="avg_npc_1590_1#4$1",focus="m")]
 [name="鲁斯"]哈维尔，松手，他知道教训了！
 [charslot(slot="m",name="avg_npc_1580_1#1$1",focus="m")]
-[name="蒂奇"]（小声）别在这里，哈维尔......
+[name="蒂奇"]（小声）别在这里，哈维尔……
 [charslot(slot="m",name="avg_npc_1579_1#3$2",focus="m")]
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="哈维尔"]回答我！！
@@ -338,7 +338,7 @@
 [PlaySound(key="$bodyfalldown3",channel="2")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=true)]
 [charslot(slot="m",name="avg_npc_1591_1#1$1",focus="m")]
-[name="塞斯克"]咳......咳咳咳——！
+[name="塞斯克"]咳……咳咳咳——！
 [charslot(slot="m",name="avg_npc_1579_1#6$2",focus="m")]
 [name="哈维尔"]回去吧，小子，记住教训，记牢点。
 [Dialog]
@@ -356,7 +356,7 @@
 [charslot(duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_1579_1#9$2",focus="m")]
-[name="哈维尔"]鲁斯，我......
+[name="哈维尔"]鲁斯，我……
 [charslot(slot="m",name="avg_npc_1580_1#5$1",focus="m")]
 [name="蒂奇"]放心，晚上带点东西去找他，他不会把你关在门外的。
 [Dialog]
@@ -384,9 +384,9 @@
 [Delay(time=2)]
 [name="伊西多"]正好，一个人都不剩了。
 [charslot(slot="m",name="avg_293_thorns_1#6$1",focus="m")]
-[name="伊西多"]还以为要一直等到中午，他们都去避暑......
+[name="伊西多"]还以为要一直等到中午，他们都去避暑……
 [charslot(slot="m",name="avg_293_thorns_1#7$1",focus="m")]
-[name="伊西多"]啧......
+[name="伊西多"]啧……
 [name="伊西多"]我上次怎么会想到晚上出逃的？那可是这些家伙最活跃的时候。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -401,16 +401,16 @@
 [charslot(slot="r",name="avg_npc_1592_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="none")]
-[name="伊西多"]（从这里下去......我就能离开了。）
+[name="伊西多"]（从这里下去……我就能离开了。）
 [name="伊西多"]（这里只有两个守卫，打晕了事。）
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
-[name="心不在焉的守卫"]咳咳......
+[name="心不在焉的守卫"]咳咳……
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="none")]
-[name="伊西多"]（嗯......？）
+[name="伊西多"]（嗯……？）
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
-[name="心不在焉的守卫"]那个，安妮，你......有没有想过去其他地方看一看？
+[name="心不在焉的守卫"]那个，安妮，你……有没有想过去其他地方看一看？
 [name="心不在焉的守卫"]上次挖出来的老钱币，我自己藏了点，把上面的国王头像都锉平了，和现在流通的没两样！
-[name="心不在焉的守卫"]我可以带你离开这片盐漠，我们两个人，去雷姆必拓，去哥伦比亚......只要你想，我们可以去任何地方。
+[name="心不在焉的守卫"]我可以带你离开这片盐漠，我们两个人，去雷姆必拓，去哥伦比亚……只要你想，我们可以去任何地方。
 [charslot(slot="l",name="avg_npc_1589_1#1$1",focus="l")]
 [name="尽职尽责的守卫"]不，何塞，我出生在这里，从没想过离开。
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
@@ -418,7 +418,7 @@
 [charslot(slot="l",name="avg_npc_1589_1#1$1",focus="l")]
 [name="尽职尽责的守卫"]她是我的首领。
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
-[name="心不在焉的守卫"]海可是会吃人的......
+[name="心不在焉的守卫"]海可是会吃人的……
 [charslot(slot="l",name="avg_npc_1589_1#1$1",focus="l")]
 [name="尽职尽责的守卫"]我不害怕，首领给过承诺。
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
@@ -426,24 +426,24 @@
 [charslot(slot="l",name="avg_npc_1589_1#1$1",focus="l")]
 [name="尽职尽责的守卫"]如果你害怕，可以离开，我不会阻拦你。
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
-[name="心不在焉的守卫"]......我倒是希望你能阻拦我，安妮。
+[name="心不在焉的守卫"]……我倒是希望你能阻拦我，安妮。
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="none")]
 [name="伊西多"]（有完没完？）
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
-[name="心不在焉的守卫"]如果你不愿意和我一起离开，那至少......
+[name="心不在焉的守卫"]如果你不愿意和我一起离开，那至少……
 [charslot(slot="l",name="avg_npc_1589_1#1$1",focus="l")]
 [name="尽职尽责的守卫"]至少什么？
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="none")]
 [name="伊西多"]（她的拒绝还不够明显吗？）
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="r")]
-[name="心不在焉的守卫"]安妮......你可以留给我一个......
+[name="心不在焉的守卫"]安妮……你可以留给我一个……
 [charslot(slot="r",name="avg_npc_1592_1#1$1",focus="none")]
 [name="伊西多"]（吞吞吐吐，真是磨——）
 [charslot(slot="l",name="avg_npc_1589_1#1$1",focus="l")]
 [name="尽职尽责的守卫"]哼，吞吞吐吐，真是磨蹭！
 [stopmusic(fadetime=1.5)]
 [charslot(slot="l",name="avg_npc_1589_1#1$1",focus="none")]
-[name="伊西多"]（......？）
+[name="伊西多"]（……？）
 [Dialog]
 [PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.6)]
 [charslot(slot="l",posfrom="0,0", posto="100,0", afrom=1, ato=0, duration=0.5, isblock=false)]
@@ -455,13 +455,13 @@
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement",channel="1")]
 [CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=20, randomness=70, fadeout=true, block=true)]
-[name="心不在焉的守卫"]唔......安妮......
+[name="心不在焉的守卫"]唔……安妮……
 [name="尽职尽责的守卫"]闭嘴吧你！
 [Dialog]
 [Delay(time=1)]
 [charslot(slot = "m",name="avg_293_thorns_1#10$1",posfrom="-200,0", posto="0,0", afrom=0, ato=1, duration=1.5, isblock=true)]
-[name="伊西多"]......
-[name="伊西多"]（......至少这下他们注意不到我了。）
+[name="伊西多"]……
+[name="伊西多"]（……至少这下他们注意不到我了。）
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot = "m", posfrom="0,0", posto="200,0", afrom=1, ato=0, duration=2.5, isblock=true)]
@@ -477,9 +477,9 @@
 [Delay(time=1)]
 [PlaySound(key="$runsand")]
 [charslot(slot = "m",name="avg_293_thorns_1#1$1",posfrom="-200,0", posto="0,0", afrom=0, ato=1, duration=1.5, isblock=true)]
-[name="伊西多"]呼......
-[name="伊西多"]得再跑快些......如果天黑前不能逃出去......
-[name="伊西多"]按前几次的情况，一定会......
+[name="伊西多"]呼……
+[name="伊西多"]得再跑快些……如果天黑前不能逃出去……
+[name="伊西多"]按前几次的情况，一定会……
 [Dialog]
 [PlaySound(key="$d_avg_explosion_stone")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -495,7 +495,7 @@
 [name="？？？"]你不该让一位女士等你这么久的。
 [name="？？？"]乖乖和我回去吧，小家伙。
 [charslot(slot="m",name="avg_293_thorns_1#7$1",focus="m")]
-[name="伊西多"]你不该在这里的......
+[name="伊西多"]你不该在这里的……
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
 [name="？？？"]尝试过那么多次，你还没有放弃吗？如果再受伤，我们这可没有多余的药物给你敷了。
 [charslot(slot="m",name="avg_293_thorns_1#7$1",focus="m")]
@@ -545,24 +545,24 @@
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]是吗？那你可否解释下那枚金币的来历呢？
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="none")]
-[name="伊西多"]......我偷的。
+[name="伊西多"]……我偷的。
 [charslot(slot="m",name="avg_npc_1581_1#2$1",focus="m")]
 [name="胡安娜"]小家伙，你撒谎的水平可不怎么好。
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
-[name="胡安娜"]那上面可不是什么众人皆知的标志，它代表着一个早已被人遗忘的炼金流派......它秘传的技艺为无数舰队寻得了海中的宝藏。
-[name="胡安娜"]大静谧后，它的门徒被囚禁，它的产物被摧毁......
+[name="胡安娜"]那上面可不是什么众人皆知的标志，它代表着一个早已被人遗忘的炼金流派……它秘传的技艺为无数舰队寻得了海中的宝藏。
+[name="胡安娜"]大静谧后，它的门徒被囚禁，它的产物被摧毁……
 [name="胡安娜"]告诉我，如此情况下，你为何还要留着那枚金币？
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="none")]
-[name="伊西多"]......
+[name="伊西多"]……
 [name="伊西多"]我什么也不知道。
 [charslot(slot="m",name="avg_npc_1581_1#11$1",focus="m")]
 [name="胡安娜"]啊，嘴硬的小家伙，既然如此，可否回答我另一个问题？
 [charslot(slot="m",name="avg_npc_1581_1#11$1",focus="none")]
-[name="伊西多"]......
+[name="伊西多"]……
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]那个洞你到底是怎么挖的？
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="none")]
-[name="伊西多"]......你们给我的面包真的很硬。
+[name="伊西多"]……你们给我的面包真的很硬。
 [charslot(slot="m",name="avg_npc_1581_1#3$1",focus="m")]
 [name="胡安娜"]啊，你确实是个聪明的小家伙。
 [Dialog]
@@ -581,7 +581,7 @@
 [name="胡安娜"]辛苦你盯着那小家伙了，要不是你及时向我报信，搞不好他就真的溜走了。
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]嗯，我知道，他可不是什么安分的囚徒，但我们有你不是吗？
-[name="胡安娜"]你可是我们中最聪明、最机灵、最厉害的......
+[name="胡安娜"]你可是我们中最聪明、最机灵、最厉害的……
 [charslot(slot="m",name="avg_npc_1581_1#11$1",focus="m")]
 [name="胡安娜"]宝宝。
 [Dialog]
@@ -613,16 +613,16 @@
 [delay(time=2)]
 [name="哈维尔"]胡安娜女士，我打扰了您和宝宝的美好时光吗？
 [charslot(slot="m",name="avg_npc_1586_1#2$1",focus="m")]
-[name="宝宝"]哼哧......
+[name="宝宝"]哼哧……
 [charslot(slot="m",name="avg_npc_1579_1#8$1",focus="m")]
 [name="哈维尔"]别总冲我呲牙，我给你带了些好东西。
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
-[name="胡安娜"]挺精致的小骨球......你雕的？
+[name="胡安娜"]挺精致的小骨球……你雕的？
 [charslot(slot="m",name="avg_npc_1579_1#1$1",focus="m")]
 [name="哈维尔"]嗯，从废旧武器上拆下来些碎骨头，没地方用。
 [name="哈维尔"]雕成后我本来想送给鲁斯赔罪的，但他把我拒之门外了。
 [charslot(slot="m",name="avg_npc_1581_1#10$1",focus="m")]
-[name="胡安娜"]哦......我听说了，你不该那么冲动。作为船队的水手长，鲁斯对出海计划提出质疑是分内的事。
+[name="胡安娜"]哦……我听说了，你不该那么冲动。作为船队的水手长，鲁斯对出海计划提出质疑是分内的事。
 [name="胡安娜"]而你当面攻击他的手下，对他来说是一种粗暴的警示。
 [charslot(slot="m",name="avg_npc_1581_1#11$1",focus="m")]
 [name="胡安娜"]你才刚升任大厨，低调些，有些想法不一定要说出来。
@@ -633,36 +633,36 @@
 [charslot(slot="m",name="avg_npc_1579_1#2$1",focus="m")]
 [name="哈维尔"]因为，我知道自己追随的人，不是个拿大家性命开玩笑的疯子。
 [charslot(slot="m",name="avg_npc_1581_1#11$1",focus="m")]
-[name="胡安娜"]好孩子......
+[name="胡安娜"]好孩子……
 [charslot(slot="m",name="avg_npc_1579_1#1$1",focus="m")]
 [name="哈维尔"]胡安娜女士，如果修复那枚罗盘，它真能指引我们避开海怪，找到资源吗？
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]当然，我从不骗你，小哈。
 [charslot(slot="m",name="avg_npc_1581_1#10$1",focus="m")]
-[name="胡安娜"]......盐漠无法供养我们世代生息，真正取之不竭的资源仍在海中。
+[name="胡安娜"]……盐漠无法供养我们世代生息，真正取之不竭的资源仍在海中。
 [name="胡安娜"]此时此刻，“罗盘”和能修复它的炼金术师都在我们手里。这将是一个彻底改变当下境遇的机会，不该错过。
 [charslot(slot="m",name="avg_npc_1579_1#9$1",focus="m")]
 [name="哈维尔"]可胡安娜女士，除了您，我们中没人见过海洋，也没人经历过那个黄金般的富饶时代。
 [name="哈维尔"]自我有记忆起，便生活在这片盐漠了，可老厨子却说，百年前这里曾是一片良田。
 [name="哈维尔"]很难说，大静谧后，丰饶的海洋会不会只是另一片盐漠。
 [charslot(slot="m",name="avg_npc_1579_1#2$1",focus="m")]
-[name="哈维尔"]再神奇的罗盘......也无法指回过去。
+[name="哈维尔"]再神奇的罗盘……也无法指回过去。
 [charslot(slot="m",name="avg_npc_1581_1#2$1",focus="m")]
 [name="胡安娜"]“潮水将抹去我的足迹，海风将吹散浪的碎沫。”
 [name="胡安娜"]“但海与岸仍在——永在。”
 [charslot(slot="m",name="avg_npc_1579_1#9$1",focus="m")]
-[name="哈维尔"]什么......？
+[name="哈维尔"]什么……？
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]一首旧诗罢了，小哈，不同于陆地，海洋是顽强的，哪怕它感染了异种的血肉，也依旧生机盎然。
 [name="胡安娜"]它曾经属于我们，也可以再度属于我们。
 [charslot(slot="m",name="avg_npc_1579_1#1$1",focus="m")]
 [name="哈维尔"]我愿意相信您，胡安娜女士。
-[name="哈维尔"]只是那些流言......您得向大家证实，自己所言非虚。
+[name="哈维尔"]只是那些流言……您得向大家证实，自己所言非虚。
 [charslot(slot="m",name="avg_npc_1581_1#10$1",focus="m")]
 [name="胡安娜"]我会的，小哈。
 [charslot(slot="m",name="avg_npc_1579_1#1$1",focus="m")]
-[name="哈维尔"]......
-[name="哈维尔"]对了，女士......我按您的指示去棚屋看过了，地上有个洞，给我一个晚上就能填好。
+[name="哈维尔"]……
+[name="哈维尔"]对了，女士……我按您的指示去棚屋看过了，地上有个洞，给我一个晚上就能填好。
 [name="哈维尔"]那小子今晚要怎么办？棚屋肯定是待不了了。
 [charslot(slot="m",name="avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]放心，我已经安置好他了。
@@ -691,7 +691,7 @@
 [charslot(slot="m",name="avg_npc_1592_1#1$1",focus="m")]
 [name="气愤的男人"]鳞屎坨子，我现在就要把你的腿撅下来用！
 [charslot(slot="m",name="avg_4163_rosesa_1#3$1",focus="m")]
-[name="卑鄙的摊贩"]哎......哎，这是干什么！退货归退货，怎么还要打人呢！
+[name="卑鄙的摊贩"]哎……哎，这是干什么！退货归退货，怎么还要打人呢！
 [name="卑鄙的摊贩"]我我我，我有刀的！你别过来！
 [Dialog]
 [charslot]
@@ -703,7 +703,7 @@
 [charslot(slot="m",name="avg_4163_rosesa_1#16$1",focus="m")]
 [name="卑鄙的摊贩"]傻大个，给我让开！
 [charslot(slot="m",name="avg_npc_1579_1#2$1",focus="m")]
-[name="哈维尔"]啧......真会惹事。
+[name="哈维尔"]啧……真会惹事。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",posfrom="0,0",posto ="-50,0",duration = 1.5,isblock=false)]
@@ -735,7 +735,7 @@
 [charslot(slot="r",name="avg_npc_1579_1#1$1",focus="r")]
 [name="哈维尔"]要试试吗？
 [charslot(slot="l",name="avg_4163_rosesa_1#19$1",focus="l")]
-[name="卑鄙的摊贩"]呃......我退钱，行了吧。你把假腿还给我！
+[name="卑鄙的摊贩"]呃……我退钱，行了吧。你把假腿还给我！
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1592_1#1$1",focus="m")]
@@ -748,7 +748,7 @@
 [charslot(slot="r",name="avg_npc_1579_1#2$1",focus="r")]
 [name="哈维尔"]感谢您对我们的身份有如此清晰的认知。
 [charslot(slot="l",name="avg_4163_rosesa_1#3$1",focus="l")]
-[name="卑鄙的摊贩"]哈哈......一时嘴快......钱在这里，告辞，我先离开了。
+[name="卑鄙的摊贩"]哈哈……一时嘴快……钱在这里，告辞，我先离开了。
 [Dialog]
 [PlaySound(key="$rungeneral")]
 [charslot(slot="l",posfrom="0,0", posto="-200,0", afrom=1, ato=0, duration=1.5, isblock=false)]
@@ -786,11 +786,11 @@
 [charslot(slot="m",name="avg_npc_1579_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_1579_1#1$1",focus="none")]
-[name="伊西多"]......
+[name="伊西多"]……
 [charslot(slot="m",name="avg_npc_1579_1#10$1",focus="m")]
 [name="哈维尔"]跑了一整天，你要喝口水吗？
 [charslot(slot="m",name="avg_npc_1579_1#10$1",focus="none")]
-[name="伊西多"]......
+[name="伊西多"]……
 [charslot(slot="m",name="avg_npc_1579_1#1$1",focus="m")]
 [name="哈维尔"]你打算就这样一直不说话吗？
 [Dialog]
@@ -803,22 +803,22 @@
 [PlayMusic(key="$comedy_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="伊西多"]......
+[name="伊西多"]……
 [name="伊西多"]我不会向你们屈服的。
 [name="哈维尔"]哦，随便你好了，小子。
 [name="哈维尔"]我只是来告诉你一个坏消息，你恐怕要在这里过夜了。
-[name="伊西多"]......无所谓，我不在乎。
-[name="哈维尔"]那就好......
+[name="伊西多"]……无所谓，我不在乎。
+[name="哈维尔"]那就好……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Delay(time=2)]
-[name="伊西多"]......
+[name="伊西多"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3.5, block=true)]
 [imagerotate(angle=0,fadetime=0,block = true)]
 [ImageTween(xFrom=0, yFrom=-130, xTo=0, yTo=0, xScaleFrom=2, yScaleFrom=2, xScaleTo=1, yScaleTo=1, duration=35, block=false)]
-[name="伊西多"]......
-[name="伊西多"]............
+[name="伊西多"]……
+[name="伊西多"]…………
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3.5, block=true)]
 [Delay(time=2)]
@@ -846,7 +846,7 @@
 [name="卑鄙的摊贩"]真是一群野蛮的强盗。
 [name="卑鄙的摊贩"]难以想象，我到底为什么会来这破地方？
 [name="伊西多"]问得好，帕斯卡拉，我又是怎么掉进这贼窝的？
-[name="帕斯卡拉"]咳咳......
+[name="帕斯卡拉"]咳咳……
 [name="帕斯卡拉"]这我就不清楚了。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

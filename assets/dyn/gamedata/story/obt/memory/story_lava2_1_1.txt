@@ -19,52 +19,52 @@
 [Sticker(id="st2")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [charslot(slot="m",name="avg_1024_hbisc2_1#8$1")]
-[name="芙蓉"]小炎熔，辣椒粉找到了吗？再不腌肉，晚饭可就来不及做了......
+[name="芙蓉"]小炎熔，辣椒粉找到了吗？再不腌肉，晚饭可就来不及做了……
 [charslot]
-[name="炎熔"]别催，反正他们回家之前做完不就行了。他们箱子里的东西怎么这么多......
+[name="炎熔"]别催，反正他们回家之前做完不就行了。他们箱子里的东西怎么这么多……
 [name="炎熔"]竖琴？我怎么不知道他们懂音乐。
 [charslot(slot="m",name="avg_1024_hbisc2_1#7$1")]
 [name="芙蓉"]那是他们最好的朋友巴洛克先生的，好像自从战争开始之后，他们就没再联络上他了。
 [charslot]
-[name="炎熔"]......呃，怎么还有我们小时候的作业本！要不扔了吧......
+[name="炎熔"]……呃，怎么还有我们小时候的作业本！要不扔了吧……
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1")]
 [name="芙蓉"]这可不行，我们两个常年不在家，妈妈总是会翻看的。
 [charslot]
-[name="炎熔"]有什么好看的，我们又不是不回来......还有这一大堆相簿，好！重！
-[name="炎熔"]这些......都是他们在伦蒂尼姆工作的时候拍的吗？都是些不认识的家伙......看穿着，好像是他们的同事。每一张都保存得好完整。
-[name="炎熔"]下面，全是书信。真是的，搬了那么多次家，这些东西早该扔了吧......乱七八糟的。
+[name="炎熔"]有什么好看的，我们又不是不回来……还有这一大堆相簿，好！重！
+[name="炎熔"]这些……都是他们在伦蒂尼姆工作的时候拍的吗？都是些不认识的家伙……看穿着，好像是他们的同事。每一张都保存得好完整。
+[name="炎熔"]下面，全是书信。真是的，搬了那么多次家，这些东西早该扔了吧……乱七八糟的。
 [charslot(slot="m",name="avg_1024_hbisc2_1#7$1")]
-[name="芙蓉"]毕竟这里面是爸爸妈妈大半辈子的家当了......也不是一时半会儿能整理完的，谁能那么容易就把自己的人生整理清楚呢？
+[name="芙蓉"]毕竟这里面是爸爸妈妈大半辈子的家当了……也不是一时半会儿能整理完的，谁能那么容易就把自己的人生整理清楚呢？
 [charslot(slot="m",name="avg_1024_hbisc2_1#7$1")]
-[name="芙蓉"]更何况他们白天还要出门工作......
+[name="芙蓉"]更何况他们白天还要出门工作……
 [charslot]
 [dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [delay(time=2)]
 [charslot]
-[name="炎熔"]不在这里，也不在这里......架子上呢？咦......
+[name="炎熔"]不在这里，也不在这里……架子上呢？咦……
 [dialog]
 [charslot(slot="m",name="char_1011_purgatory_1#1",duration=1)]
 [delay(time=2)]
-[name="炎熔"]......芙蓉，你看这个。
+[name="炎熔"]……芙蓉，你看这个。
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1")]
-[name="芙蓉"]招工启事......打字员、园丁、育儿员......还都打上了叉。
+[name="芙蓉"]招工启事……打字员、园丁、育儿员……还都打上了叉。
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]他们以前可是工程师啊......
+[name="炎熔"]他们以前可是工程师啊……
 [charslot(slot="m",name="char_1011_purgatory_1#4")]
-[name="炎熔"]就算这样也一定要住在维多利亚吗......
+[name="炎熔"]就算这样也一定要住在维多利亚吗……
 [charslot(slot="m",name="avg_1024_hbisc2_1#7$1")]
 [name="芙蓉"]离开了这里，他们又能去哪里呢？
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]小炎熔，把报纸放回原处去，当着他们的面可不要提。我们......做我们做得到的事就好。
+[name="芙蓉"]小炎熔，把报纸放回原处去，当着他们的面可不要提。我们……做我们做得到的事就好。
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]......找不到辣椒粉，我去问邻居借。
+[name="炎熔"]……找不到辣椒粉，我去问邻居借。
 [dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
 [charslot(duration=1)]
 [delay(time=3)]
 [charslot(slot="m",name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]等等——就这么气冲冲地跑出去了......还没嘱咐她千万不能和邻居吵架......
+[name="芙蓉"]等等——就这么气冲冲地跑出去了……还没嘱咐她千万不能和邻居吵架……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -80,15 +80,15 @@
 [PlaySound(key="$dooropenquite")]
 [delay(time=2)]
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]你好，我住在东边最后一栋。请问，能不能借用一点......
+[name="炎熔"]你好，我住在东边最后一栋。请问，能不能借用一点……
 [charslot(slot="m",name="avg_npc_418_1#1$1")]
-[name="邻居A"]呃......很抱歉，没有。对不起。
+[name="邻居A"]呃……很抱歉，没有。对不起。
 [dialog]
 [charslot]
 [PlaySound(key="$doorclosequite")]
 [Delay(time=2)]
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]（甚至不愿意听我说完......）
+[name="炎熔"]（甚至不愿意听我说完……）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -111,7 +111,7 @@
 [Delay(time=2)]
 对方干脆地关上了门。
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]（包容......吗？）
+[name="炎熔"]（包容……吗？）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -127,11 +127,11 @@
 [PlaySound(key="$dooropenquite")]
 [delay(time=2)]
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]你好，我是住在......
+[name="炎熔"]你好，我是住在……
 [charslot(slot="m",name="avg_npc_243")]
 [name="邻居B"]我知道。
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]呃......
+[name="炎熔"]呃……
 [dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_243")]
@@ -142,13 +142,13 @@
 [name="邻居B"]伊尔莎，回房间去。
 [charslot]
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]我们刚搬过来不久......
+[name="炎熔"]我们刚搬过来不久……
 [charslot(slot="m",name="avg_npc_243")]
 [name="邻居B"]知道。你把附近邻居的门都敲了一遍，有事吗？
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
 [name="炎熔"]我姐做饭找不到辣椒粉，可以借一点吗？
 [charslot(slot="m",name="avg_npc_243")]
-[name="邻居B"]......就为这个，请在门口稍等一下。
+[name="邻居B"]……就为这个，请在门口稍等一下。
 [Character]
 [Dialog]
 门合上，又轻轻打开。一颗好奇的小脑袋探出来，盯着炎熔看——具体来说，是盯着炎熔头上的角看。
@@ -170,7 +170,7 @@
 [charslot(slot="m",name="avg_npc_243")]
 [name="邻居B"]我家没有你要的东西，你走吧。
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]......
+[name="炎熔"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -189,16 +189,16 @@
 [charslot(slot="m",name="avg_npc_240")]
 [name="西奥"]收到，城防炮已就位！
 [charslot(slot="m",name="avg_npc_418_1#1$1")]
-[name="担忧的路人"]小朋友们，不要把弹弓对着那人，你们这样很危险......
+[name="担忧的路人"]小朋友们，不要把弹弓对着那人，你们这样很危险……
 [dialog]
 [charslot]
 一旦有成人干涉，孩子们便如羽兽般尖叫着散去，但不一会儿，便又聚集起来。
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]啧。你们......
+[name="炎熔"]啧。你们……
 [charslot]
 [name="小孩们"]不好，魔鬼发现我们了！快撤退！
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]魔鬼......？
+[name="炎熔"]魔鬼……？
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
 [name="炎熔"]（烦人，赶紧把他们吓跑吧。）
 [dialog]
@@ -231,11 +231,11 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_661_1#1$1")]
 [charslot(slot="r",name="avg_npc_700_1#1$1")]
-[name="伊尔莎&萝丝"]哇——！好......
+[name="伊尔莎&萝丝"]哇——！好……
 [name="伊尔莎&萝丝"]好酷！
 [charslot]
 [charslot(slot="m",name="char_1011_purgatory_1#3")]
-[name="炎熔"]......还挺有眼光嘛，小孩。
+[name="炎熔"]……还挺有眼光嘛，小孩。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -248,14 +248,14 @@
 [charslot(slot="m",name="avg_npc_1456_1#1$1")]
 [name="胆怯的小病人"]（不住抽泣）
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]呃......
+[name="炎熔"]呃……
 [dialog]
 [charslot]
 炎熔抓耳挠腮，摸摸口袋，想掏出点糖果哄小孩，又想起芙蓉叮嘱过，孩子们需要空腹抽血。
 可恶的老姐，把自己叫过来帮忙，说什么看到有同族在，这些刚在战争中失去了父母的孩子就不会那么害怕，明明还是一直哭啊！
 病房里此起彼伏的哭声使她手足无措。每一天，每一天，只要战争还在持续，这样的哭声便不会停止。
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]嗯......你们，想看烟花吗？
+[name="炎熔"]嗯……你们，想看烟花吗？
 [charslot(slot="m",name="avg_npc_1456_1#1$1")]
 [name="胆怯的小病人"]（抽泣）
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
@@ -278,7 +278,7 @@
 [charslot]
 然后，火焰触发了消防装置，把众人浇得狼狈不堪。病房里的哭声，短暂地，被笑声取代了。
 果然哪里的小孩子都一样，一点小伎俩就能骗到。
-哪里的......都一样吗？
+哪里的……都一样吗？
 [Dialog]
 [delay(time=1)]
 [stopmusic(fadetime=2)]
@@ -292,7 +292,7 @@
 [charslot(slot="m",name="avg_1024_hbisc2_1#1$1")]
 [name="芙蓉"]小炎熔，你回来了。周围邻居怎么样？
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
-[name="炎熔"]邻居？我不是去借辣椒粉的吗......
+[name="炎熔"]邻居？我不是去借辣椒粉的吗……
 [charslot(slot="m",name="avg_1024_hbisc2_1#1$1")]
 [name="芙蓉"]观察了一圈，你还放心吗？没和别人吵起来吧？
 [charslot(slot="m",name="char_1011_purgatory_1#1")]
@@ -304,7 +304,7 @@
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1")]
 [name="芙蓉"]小炎熔？你在找什么？门外那些小家伙是你新交的朋友吗？你还是那么会逗小朋友——
 [charslot(slot="m",name="avg_1024_hbisc2_1#3$1")]
-[name="芙蓉"]咦，带着一大包东西......出门了？
+[name="芙蓉"]咦，带着一大包东西……出门了？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -320,7 +320,7 @@
 [PlaySound(key="$d_avg_firemagic", volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_240")]
-[name="西奥"]哇！火！我是说魔、魔鬼操纵火焰......烧断了树干！报告，魔鬼在用大量的树枝搭建一个可疑的巨大的东西。
+[name="西奥"]哇！火！我是说魔、魔鬼操纵火焰……烧断了树干！报告，魔鬼在用大量的树枝搭建一个可疑的巨大的东西。
 [charslot(slot="m",name="avg_npc_661_1#1$1")]
 [name="伊尔莎"]什么巨大的东西，说清楚！
 [dialog]
@@ -328,9 +328,9 @@
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_240")]
-[name="西奥"]我看不懂！报告，魔鬼现在抖开了一张白色床单......不对，是白色巫术材料，将它展开在树枝上，请求情报人员分析！
+[name="西奥"]我看不懂！报告，魔鬼现在抖开了一张白色床单……不对，是白色巫术材料，将它展开在树枝上，请求情报人员分析！
 [charslot(slot="m",name="avg_npc_700_1#1$1")]
-[name="萝丝"]情报人员到！唔，依我看，这一定是......某种危险的祭坛。
+[name="萝丝"]情报人员到！唔，依我看，这一定是……某种危险的祭坛。
 [charslot(slot="m",name="avg_npc_700_1#1$1")]
 [name="萝丝"]没错，以树枝支撑帷幕，看，她把倒下的树干推过来了，那是用来放置祭品的祭品台。
 [charslot(slot="m",name="avg_npc_240")]
@@ -340,7 +340,7 @@
 [charslot(slot="m",name="avg_npc_661_1#1$1")]
 [name="伊尔莎"]胆、胆小鬼！我们得看好她，保护我们的村子！
 [charslot(slot="m",name="avg_npc_700_1#1$1")]
-[name="萝丝"]慢着！魔鬼拿出了新东西！一种机械装置，好像是个......投影仪？不对，一定是用来施放巫术的装置！
+[name="萝丝"]慢着！魔鬼拿出了新东西！一种机械装置，好像是个……投影仪？不对，一定是用来施放巫术的装置！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -367,7 +367,7 @@
 [charslot]
 [name="小孩们"]快看！英雄来了！
 [charslot(slot="m",name="avg_npc_240")]
-[name="西奥"]咦，打大怪兽的大英雄长得是不是和那个魔鬼......不对，和那个人......一模一样？
+[name="西奥"]咦，打大怪兽的大英雄长得是不是和那个魔鬼……不对，和那个人……一模一样？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -400,11 +400,11 @@
 [charslot(slot="m",name="avg_npc_240")]
 [name="西奥"]英雄是不会逃的，看，她要发射火焰了！
 [charslot(slot="m",name="avg_npc_700_1#1$1")]
-[name="萝丝"]嘿......你们两个，她、她呢？
+[name="萝丝"]嘿……你们两个，她、她呢？
 [charslot(slot="m",name="avg_npc_661_1#1$1")]
 [name="伊尔莎"]啊啊啊大怪兽要追上来了！
 [charslot(slot="m",name="avg_npc_700_1#1$1")]
-[name="萝丝"]嘿！嘿！她、她不见啦！那个人，我们的邻居......
+[name="萝丝"]嘿！嘿！她、她不见啦！那个人，我们的邻居……
 [charslot(slot="m",name="avg_npc_240")]
 [name="西奥"]啊！那个人，她刚刚还坐在这里的，去哪里了？
 [dialog]
@@ -414,9 +414,9 @@
 [delay(time=1.2)]
 炎熔原本坐着的地方不知何时已空无一人。突然，一条火焰从他们的身后袭来，射向了那块床单做的幕布。孩子们尖叫起来。
 [charslot(slot="m",name="avg_npc_700_1#1$1")]
-[name="萝丝"]我说，这......这不会真的是祭坛吧，我们被骗上来了！
+[name="萝丝"]我说，这……这不会真的是祭坛吧，我们被骗上来了！
 [charslot(slot="m",name="avg_npc_661_1#1$1")]
-[name="伊尔莎"]快跑......快......啊！
+[name="伊尔莎"]快跑……快……啊！
 [dialog]
 [charslot]
 但孩子们却止住了脚步，被眼前的场景惊得忘了言语。
@@ -434,27 +434,27 @@
 [charslot(slot="m",name="avg_npc_700_1#1$1")]
 [name="萝丝"]你的战斗服真好看，我是说，真帅！
 [charslot(slot="m",name="avg_npc_661_1#1$1")]
-[name="伊尔莎"]英雄英雄，我先问的，先回答我——啊！......妈妈？
+[name="伊尔莎"]英雄英雄，我先问的，先回答我——啊！……妈妈？
 [dialog]
 [charslot]
 当电影在火焰中落幕，孩子们才察觉到自己的家长早已在不远处紧张地盯着他们。家长们上前，不由分说地将他们的孩子往家里拽。
 [charslot(slot="m",name="avg_npc_243")]
 [name="伊尔莎的母亲"]伊尔莎，跟你说过不准偷跑出来的，你今晚好好在房间里反省。
 [charslot(slot="m",name="avg_npc_661_1#1$1")]
-[name="伊尔莎"]别拽我呀妈妈，我跟你说，刚才我看到了很厉害的......
+[name="伊尔莎"]别拽我呀妈妈，我跟你说，刚才我看到了很厉害的……
 [charslot(slot="m",name="avg_npc_243")]
 [name="伊尔莎的母亲"]不许说了。
 [charslot(slot="m",name="avg_npc_2050_1#1$1")]
-[name="炎熔"]......
+[name="炎熔"]……
 [charslot(slot="m",name="avg_npc_2050_1#1$1")]
-[name="炎熔"]跑这么快，我又不比你们多一对獠牙、一双翅膀......
+[name="炎熔"]跑这么快，我又不比你们多一对獠牙、一双翅膀……
 [charslot(slot="m",name="avg_npc_2050_1#1$1")]
 [name="炎熔"]算了，跑光了也就清净了。省得哄小孩子，吵吵闹闹烦死人。
 [dialog]
 [charslot]
 [delay(time=2)]
-[name="炎熔"]这是......？
-[name="炎熔"]......
+[name="炎熔"]这是……？
+[name="炎熔"]……
 [dialog]
 [charslot]
 在伊尔莎原本坐着的地方，静静地放着一瓶辣椒粉。炎熔愣了片刻，想抬头喊出感谢，但那些人早已走得不见了踪影。

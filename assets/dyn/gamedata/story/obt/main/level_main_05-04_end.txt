@@ -4,14 +4,14 @@
 [Delay(time=1)]
 [Character(name="char_136_hsguma")]
 [name="星熊"]  所有整合运动我都逮住了。根本没人知道具体的指令，刚他们说——
-[name="星熊"]  ......
+[name="星熊"]  ……
 [name="星熊"]  老陈？看什么呢，这么入迷。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  这里以前是不是大学道？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
 [name="星熊"]  嗯？是啊。后来改了名字。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]  ......这似乎是我家。
+[name="陈"]  ……这似乎是我家。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.7,block=true)]
@@ -28,9 +28,9 @@
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  贵族？他们是，我不是。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
-[name="星熊"]  但你这屋邸摆在这......该怎么称呼？
+[name="星熊"]  但你这屋邸摆在这……该怎么称呼？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
-[name="陈"]  哼，陈府......
+[name="陈"]  哼，陈府……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.7,block=true)]
 [Image]
@@ -83,7 +83,7 @@
 [Character(name="char_010_chen_1#1")]
 [Delay(time=2)]
 [Character(name="char_136_hsguma")]
-[name="星熊"]  ......
+[name="星熊"]  ……
 [name="星熊"]  又沉浸在自己的小世界里了。
 [name="星熊"]  老陈，门口等你，走的时候叫我。
 [stopmusic(fadetime=1)]
@@ -105,10 +105,10 @@
 [Character]
 [Blocker(a=0, fadetime=1, block=true)]
 [Character(name="char_010_chen_1#1")]
-[name="陈"]  ......
+[name="陈"]  ……
 [name="陈"]  居然一直有在打扫。
 [name="陈"]  哼，一直空着这个房间留给我，真够宽容的，还是说觉得我是丧门星？
-[name="陈"]  等等，照片，对，照片......
+[name="陈"]  等等，照片，对，照片……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2,block=true)]
@@ -130,11 +130,11 @@
 [Blocker(a=0, fadetime=0.3, block=true)]
 [CameraEffect(effect="Grayscale", fadetime=18, amount=0, block=false)]
 [name="陈"]  在这。
-[name="陈"]  我还以为已经丢了，这么早的照片......
-[name="陈"]  不对......他们难道在找这个？
+[name="陈"]  我还以为已经丢了，这么早的照片……
+[name="陈"]  不对……他们难道在找这个？
 [name="陈"]  怎么回事，整合运动究竟在做什么？难道你的大脑也出问题了吗？
 [name="陈"]  我一定会帮你，但你在想什么？为什么是现在，为什么是这里？
-[name="陈"]  呵......也是。你不会回答我。
+[name="陈"]  呵……也是。你不会回答我。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2,block=true)]
 [Image]

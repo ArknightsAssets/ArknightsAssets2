@@ -17,7 +17,7 @@
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075",fadetime=0.7,focus=1)]
 [characteraction(name="left", type="move", xpos=50, fadetime=0.5, block=false)]
 [delay(time=0.7)]
-[name="特米米"]真......真的吗？
+[name="特米米"]真……真的吗？
 [dialog]
 [characteraction(name="left", type="move", xpos=450, fadetime=2, block=false)]
 [delay(time=2)]
@@ -30,7 +30,7 @@
 [Character(name="avg_npc_572_1#8$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]放心吧，很可爱。
 [Character(name="avg_npc_572_1#7$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]呼，那就好，我可不想再被笑话尾巴又粗了......依娜姆不去挑挑看泳衣吗？
+[name="特米米"]呼，那就好，我可不想再被笑话尾巴又粗了……依娜姆不去挑挑看泳衣吗？
 [Character(name="avg_npc_572_1#7$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]我就算了。我倒是对刚才那个帮裁缝打下手的金属脑袋更感兴趣。
 [Dialog]
@@ -49,7 +49,7 @@
 [character(fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]杜林的技术吗......
+[name="依娜姆"]杜林的技术吗……
 [Dialog]
 [character]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -73,7 +73,7 @@
 [delay(time=0.51)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=0.51)]
-[name="依娜姆"]喂特米米，这个叫极境的......真的靠得住吗？
+[name="依娜姆"]喂特米米，这个叫极境的……真的靠得住吗？
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=1)]
 [multiline(name="特米米")]呃，极境先生关键时候还是很厉害的，
 [Character(name="avg_npc_572_1#6$1", name2="avg_npc_075", focus=1)]
@@ -87,7 +87,7 @@
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]真没想到，我们居然有机会来到建在地下的杜林城市。
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]嗯，这或许是让嘉维尔的名字在杜林人里也传播开的大好机会......
+[name="特米米"]嗯，这或许是让嘉维尔的名字在杜林人里也传播开的大好机会……
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]你这次休假，居然没拉着嘉维尔、祖玛玛和克玛尔一起回来吗？
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=1)]
@@ -95,11 +95,11 @@
 [Character(name="avg_npc_572_1#3$1", name2="avg_npc_075", focus=1)]
 [multiline(name="特米米")]嘉维尔最近实在是太累了，让人操心！
 [Character(name="avg_npc_572_1#6$1", name2="avg_npc_075", focus=1)]
-[multiline(name="特米米",end=true)]真希望她能不要这么勉强自己......
+[multiline(name="特米米",end=true)]真希望她能不要这么勉强自己……
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=1)]
 [name="特米米"]我走之前给她们留了信，把你们发现斯第奇先生的事，还有斯第奇先生说的话都写下来了。
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]要是她们能借着这个机会回阿卡胡拉休息一下就好了......
+[name="特米米"]要是她们能借着这个机会回阿卡胡拉休息一下就好了……
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]那两个家伙，还有你，当初二话不说就让我当了这里的大酋长，也该回来看看我勉为其难了这么久的成果吧。
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=2)]
@@ -119,7 +119,7 @@
 [Character(name="char_401_elysm_na_1#3", name2="avg_npc_574_1$1", focus=1)]
 [name="极境"]干杯！
 [Character(name="char_401_elysm_na_1#3", name2="avg_npc_574_1$1", focus=1)]
-[name="极境"]这香气，是暴雨过后的雨林，地下溶洞中苔藓的味道......!
+[name="极境"]这香气，是暴雨过后的雨林，地下溶洞中苔藓的味道……!
 [Character(name="char_401_elysm_na_1#3", name2="avg_npc_574_1$1", focus=2)]
 [name="大醉的杜林人"]啊抱歉，是木头杯子有点发霉了。
 [Dialog]
@@ -133,7 +133,7 @@
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=1)]
 [name="特米米"]不过，依娜姆，你还没和我说过，在哪遇到斯第奇先生的呢。
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]唔......这就说来话长了。
+[name="依娜姆"]唔……这就说来话长了。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -164,7 +164,7 @@
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=1)]
 [name="不再兴奋的阿达克利斯人"] 我一开始还以为那是一整支商队！
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=2)]
-[name="唉声叹气的阿达克利斯人"]特米米她从小就是这样没错啦，总喜欢收集一些乱七八糟的东西......
+[name="唉声叹气的阿达克利斯人"]特米米她从小就是这样没错啦，总喜欢收集一些乱七八糟的东西……
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=2)]
 [name="唉声叹气的阿达克利斯人"]不过，她去罗德岛的这几年，是不是有点变本加厉了？
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=1)]
@@ -186,11 +186,11 @@
 [Character(name="avg_4054_malist_1#6$1")]
 [name="？？？"]我一定是疯了才上来找罪受。先是那一串七拐八绕的洞窟，然后又是这么一片鬼地方！
 [Character(name="avg_4054_malist_1#6$1")]
-[name="？？？"]可地心那老家伙也实在是太烦了，每天就是堵着门唠唠叨叨......啧，这些讨厌的藤蔓！这该死的太阳！
+[name="？？？"]可地心那老家伙也实在是太烦了，每天就是堵着门唠唠叨叨……啧，这些讨厌的藤蔓！这该死的太阳！
 [Character(name="avg_4054_malist_1#6$1")]
 [name="？？？"]果然人造光源要比这玩意好得多！
 [Character(name="avg_4054_malist_1#5$1")]
-[name="？？？"]......
+[name="？？？"]……
 [Character(name="avg_4054_malist_1#7$1")]
 [name="？？？"]好渴，困了。
 [Character(name="avg_4054_malist_1#7$1")]
@@ -216,9 +216,9 @@
 [Character(name="avg_npc_070")]
 [name="阿达克利斯人"] 这人长得好奇怪，阿卡胡拉还有这样的人？是谁家走失的孩子吗？
 [Character(name="avg_npc_070")]
-[name="阿达克利斯人"] 不是粗尾巴，也不是细尾巴......
+[name="阿达克利斯人"] 不是粗尾巴，也不是细尾巴……
 [Character(name="avg_4054_malist_1#1$1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"] 也不是黎博利或者斐迪亚，不，等等，难道你是......
+[name="依娜姆"] 也不是黎博利或者斐迪亚，不，等等，难道你是……
 [Character(name="avg_4054_malist_1#1$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"] 你是杜林人吧？
 [Character(name="avg_npc_070")]
@@ -264,9 +264,9 @@
 [Character(name="avg_npc_070")]
 [name="阿达克利斯人"] 嗯？又停住了？
 [Character(name="avg_4054_malist_1#1$1")]
-[name="成年的小杜林"]我说......
+[name="成年的小杜林"]我说……
 [Character(name="avg_4054_malist_1#5$1")]
-[name="成年的小杜林"]......咳，我说，如果不太介意的话，地上人......
+[name="成年的小杜林"]……咳，我说，如果不太介意的话，地上人……
 [Character(name="avg_4054_malist_1#1$1")]
 [name="成年的小杜林"]能给口水喝吗？
 [Dialog]
@@ -283,7 +283,7 @@
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]起码当时这位斯第奇是这么声称的。
 [Character(name="char_401_elysm_na_1#1")]
-[multiline(name="极境")]看看我们的周围！这漂亮的城市，哪有......
+[multiline(name="极境")]看看我们的周围！这漂亮的城市，哪有……
 [Character(name="char_401_elysm_na_1#3")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [multiline(name="极境",end=true)]嗝儿！哪有一点有麻烦的样子？
@@ -302,15 +302,15 @@
 [Character(name="char_401_elysm_na_1#6")]
 [multiline(name="极境",end=true)]你就这么答应了？
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]虽然斯第奇极力渲染了一场危机......其实我主要还是为了满足一下自己的好奇心，顺便看看和我们地下的邻居有没有生意可做。
+[name="依娜姆"]虽然斯第奇极力渲染了一场危机……其实我主要还是为了满足一下自己的好奇心，顺便看看和我们地下的邻居有没有生意可做。
 [Character(name="avg_npc_572_1#2$1", name2="avg_npc_075", focus=1)]
 [name="特米米"]好功利！
 [Character(name="avg_npc_572_1#2$1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]阿卡胡拉要想摆脱野蛮的状态，现在可是什么都缺啊。听说杜林族的冶炼和制造技术都很厉害，要是能帮他们这个忙，换上一两样......
+[name="依娜姆"]阿卡胡拉要想摆脱野蛮的状态，现在可是什么都缺啊。听说杜林族的冶炼和制造技术都很厉害，要是能帮他们这个忙，换上一两样……
 [Character(name="avg_npc_572_1#2$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]你们也不用再为搞到了点报废品就兴奋半天了。
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]依娜姆......你居然真的在好好当大酋长啊！我还以为你会天天去城里买东西，然后把钱都花光。
+[name="特米米"]依娜姆……你居然真的在好好当大酋长啊！我还以为你会天天去城里买东西，然后把钱都花光。
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]你这孩子，平日里就是这么看我的？
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=2)]
@@ -326,7 +326,7 @@
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]比如说，和杜林人的技术合作。
 [Character(name="avg_npc_572_1#5$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]唔，开始听不懂了......反正对我来说，遇到困难就用法术！法术不行就用法杖敲！
+[name="特米米"]唔，开始听不懂了……反正对我来说，遇到困难就用法术！法术不行就用法杖敲！
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=1)]
 [name="特米米"]这就是我们“嘉维尔意志”的生活方式！
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=2)]
@@ -344,13 +344,13 @@
 [Character(name="char_401_elysm_na_1#1")]
 [name="极境"]说起来，是不是有个吵吵闹闹的小个子消失好久了？藏到哪里去玩了吗？
 [Character(name="avg_npc_572_1#2$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]好像是哎......
+[name="特米米"]好像是哎……
 [Character(name="avg_npc_572_1#2$1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]大概是去做准备了吧？
 [Character(name="avg_npc_572_1#2$1", name2="avg_npc_075", focus=2)]
-[name="依娜姆"]唔，不过，既然大滑梯就在眼前......先放松一下也没什么问题吧？
+[name="依娜姆"]唔，不过，既然大滑梯就在眼前……先放松一下也没什么问题吧？
 [Character(name="avg_npc_572_1#1$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]我、我听罗德岛上的炎国干员说过一个词！叫......叫什么“客随主便”......来着？
+[name="特米米"]我、我听罗德岛上的炎国干员说过一个词！叫……叫什么“客随主便”……来着？
 [Character(name="avg_npc_572_1#4$1", name2="avg_npc_075", focus=1)]
 [name="特米米"]大概的意思就是，既然主人不在，客人就可以随便了。
 [Character(name="char_401_elysm_na_1#3")]
@@ -358,7 +358,7 @@
 [Character(name="char_401_elysm_na_1#5")]
 [name="极境"]朋友们，我们来比比谁先到大滑梯脚下！
 [Character(name="avg_npc_572_1#2$1", name2="avg_npc_075", focus=1)]
-[name="特米米"]......极境先生，适应杜林人生活的速度，还真是快呢......
+[name="特米米"]……极境先生，适应杜林人生活的速度，还真是快呢……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -376,7 +376,7 @@
 [Character(name="avg_4054_malist_1#6$1")]
 [name="斯第奇·画布"]才走了一个月，际崖城真是又丑了不少。唉！我就不该回来！
 [Character(name="avg_4054_malist_1#7$1")]
-[name="斯第奇·画布"]那几个傻乎乎的地上人呢？啧，只要他们能修出不至于塌掉的铁路桥，我的标准也不是不能放低一点......
+[name="斯第奇·画布"]那几个傻乎乎的地上人呢？啧，只要他们能修出不至于塌掉的铁路桥，我的标准也不是不能放低一点……
 [Dialog]
 [Character(name="char_empty", name2="avg_4054_malist_1#7$1")]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -388,19 +388,19 @@
 [Character(name="avg_npc_564_1#5$1", name2="avg_4054_malist_1#7$1",focus=1)]
 [name="杜林老人"]斯第奇？你真的回来了！我听说有个不会喝酒的杜林在际崖城里乱跑，就猜到是你！
 [Character(name="avg_npc_564_1#5$1", name2="avg_4054_malist_1#7$1",focus=2)]
-[name="斯第奇·画布"]耶奇·地心......你还真是阴魂不散。
+[name="斯第奇·画布"]耶奇·地心……你还真是阴魂不散。
 [Character(name="avg_npc_564_1#8$1", name2="avg_4054_malist_1#7$1",focus=1)]
 [name="耶奇·地心"]你这段时间到底跑到哪里去了？我到处找你，就快拼着老命去塌方的山洞那里看看了！
 [Character(name="avg_npc_564_1#8$1", name2="avg_4054_malist_1#1$1",focus=2)]
 [name="斯第奇·画布"]你这条老命可硬得很，倒是我，差点就死了。
 [Character(name="avg_npc_564_1#5$1", name2="avg_4054_malist_1#1$1",focus=1)]
-[name="耶奇·地心"]难道......你去了地上？！
+[name="耶奇·地心"]难道……你去了地上？！
 [Character(name="avg_npc_564_1#5$1", name2="avg_4054_malist_1#1$1",focus=2)]
 [name="斯第奇·画布"]怎么，不可以吗？
 [Character(name="avg_npc_564_1#5$1", name2="avg_4054_malist_1#1$1",focus=1)]
 [name="耶奇·地心"]斯第奇，我真是没想到。
 [Character(name="avg_npc_564_1#4$1", name2="avg_4054_malist_1#1$1",focus=1)]
-[name="耶奇·地心"]你、你好大的胆子，你居然......
+[name="耶奇·地心"]你、你好大的胆子，你居然……
 [Character(name="avg_npc_564_1#3$1", name2="avg_4054_malist_1#1$1",focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="耶奇·地心"]居然这么有出息！快，让我看看你带回来了什么稀奇玩意！
@@ -409,7 +409,7 @@
 [Character(name="avg_npc_564_1#3$1", name2="avg_4054_malist_1#1$1",focus=1)]
 [name="耶奇·地心"]总给我带了点礼物吧！远方的矿石标本？地上特有的酿酒植物？难道是最新的《奇谈怪论》？！图书馆里的那一批都过期好久了。
 [Character(name="avg_npc_564_1#3$1", name2="avg_4054_malist_1#5$1",focus=2)]
-[name="斯第奇·画布"]不是，呃，怎么说呢......
+[name="斯第奇·画布"]不是，呃，怎么说呢……
 [Character(name="avg_npc_564_1#3$1", name2="avg_4054_malist_1#7$1",focus=2)]
 [name="斯第奇·画布"]我带了几个人回来。
 [Character(name="avg_npc_564_1#5$1", name2="avg_4054_malist_1#7$1",focus=1)]
@@ -425,11 +425,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_4055_bgsnow_1#1$1")]
-[name="思考的鲁珀"]“于是，她选择了......”
+[name="思考的鲁珀"]“于是，她选择了……”
 [Character(name="avg_4055_bgsnow_1#1$1")]
 [name="思考的鲁珀"]“她选择了老卡尔蜜酿！”
 [Character(name="avg_4055_bgsnow_1#9$1")]
-[name="思考的鲁珀"]唔，不太好，是不是产品进入得太慢了？得稍微改一下......
+[name="思考的鲁珀"]唔，不太好，是不是产品进入得太慢了？得稍微改一下……
 [Character(name="avg_4055_bgsnow_1#5$1")]
 [name="思考的鲁珀"]“比划算更划算，比疯狂还疯狂！”
 [name="思考的鲁珀"]“如果你想找到一片让人尽情享受的土地，一段可以肆意玩乐的时间，当然，还有一口安抚灵魂的蜜酒——”

@@ -50,7 +50,7 @@
 [name="史尔特尔"]  为了一份普通的雪糕跑来跑去，不顾周围的人吵吵嚷嚷，一直到长大成人也都是这样。
 [name="史尔特尔"]  这样也幸福？
 [Character(name="char_350_surtr_1#6",name2="char_219_meteo_1",focus=2)]
-[name="陨星"]  ......你是不是生气了。
+[name="陨星"]  ……你是不是生气了。
 [Character(name="char_350_surtr_1#3",name2="char_219_meteo_1",focus=1)]
 [name="史尔特尔"]  我怎么会因为被这些小孩子不顾别人胡乱跑过扬起灰尘发脾气。
 [Character(name="char_350_surtr_1#3",name2="char_219_meteo_1",focus=2)]
@@ -87,9 +87,9 @@
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"]   村子的问题看起来并没有牵扯到天灾和矿石病，但是也要小心行事。
 [Character(name="char_219_meteo_1")]
-[name="陨星"]  收到，不过......
+[name="陨星"]  收到，不过……
 [Character(name="char_350_surtr_1")]
-[name="史尔特尔"]  ......
+[name="史尔特尔"]  ……
 [Character(name="char_219_meteo_1")]
 [name="陨星"]  史尔特尔也要一起？这次任务没有这么困难吧。
 [Character(name="char_350_surtr_1")]
@@ -99,7 +99,7 @@
 [Character(name="char_350_surtr_1")]
 [name="史尔特尔"]  我不会成为累赘，不用在意我就行。
 [Character(name="char_219_meteo_1")]
-[name="陨星"]  ......
+[name="陨星"]  ……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -130,34 +130,34 @@
 [PlaySound(key="$d_gen_walk_n")]
 [delay(time=2)]
 [Character(name="char_219_meteo_1")]
-[name="陨星"]  ......
+[name="陨星"]  ……
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
-[name="史尔特尔"]  ......
+[name="史尔特尔"]  ……
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
 [name="陨星"]  所以，你对别人也太不客气了吧。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1#6",focus=2)]
 [name="史尔特尔"]  只不过说说事实而已。
 [Character(name="char_219_meteo_1")]
-[name="陨星"]  唔......唔......
+[name="陨星"]  唔……唔……
 [name="陨星"]  （好尴尬啊。）
 [name="陨星"]  （虽然早就听说史尔特尔很难相处了，但是没想到根本找不到话说。）
 [Character(name="char_350_surtr_1")]
-[name="史尔特尔"]  ......（记录）
+[name="史尔特尔"]  ……（记录）
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
 [name="陨星"]  你是在记录村子的情况吗。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
 [name="史尔特尔"]  并不是。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
-[name="陨星"]  那是......
+[name="陨星"]  那是……
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
-[name="史尔特尔"]  ......
+[name="史尔特尔"]  ……
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
-[name="陨星"]  ............
+[name="陨星"]  …………
 [stopmusic(fadetime=2)]
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
-[name="史尔特尔"]  ......你难道不知道吗，我还以为我的档案大家都能看到。
+[name="史尔特尔"]  ……你难道不知道吗，我还以为我的档案大家都能看到。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
-[name="陨星"]  看过确实是看过，只是......
+[name="陨星"]  看过确实是看过，只是……
 [Character(name="char_350_surtr_1")]
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.4)]
 史尔特尔，档案中提到了这个孩子。
@@ -181,7 +181,7 @@
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
 [name="陨星"]  不如一会儿问问村民们好了，说不定你印象中的村子是几年前的样子？现在已经改建过了？
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
-[name="史尔特尔"]  ......可能吧。
+[name="史尔特尔"]  ……可能吧。
 [Character]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -197,13 +197,13 @@
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
 [name="史尔特尔"]  大可不必，我自己就可以。
 [Character(name="char_219_meteo_1")]
-[name="陨星"]  ......
+[name="陨星"]  ……
 [Character(name="char_350_surtr_1")]
-[name="史尔特尔"]  ......
+[name="史尔特尔"]  ……
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
-[name="陨星"]  ......找不到过去找不到家的感觉，我也大概有所了解。
+[name="陨星"]  ……找不到过去找不到家的感觉，我也大概有所了解。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
-[name="史尔特尔"]  ......
+[name="史尔特尔"]  ……
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
 [name="陨星"]  为了萨卡兹的地位，为了萨卡兹的家，我与其他不少同伴一起，也在一直尝试努力。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
@@ -214,7 +214,7 @@
 [name="陨星"]  但是，在一个人看着未知的前方寻找着什么的时候，注意不到身边别的事物可不行。
 [name="陨星"]  这是阿米娅让我理解到的。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
-[name="史尔特尔"]  ......
+[name="史尔特尔"]  ……
 [Character(name="avg_npc_006")]
 [name="村长"]  不好意思两位久等了，我们现在就出发吧！
 [name="村长"]  我已经准备好了！
@@ -227,13 +227,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_219_meteo_1")]
-[name="陨星"]  这里就是......
+[name="陨星"]  这里就是……
 [Character(name="avg_npc_006")]
 [name="村长"]  是的，这里就是塌方的位置了。两位千万小心脚下。
 [name="村长"]  挖掘口就在此，之前因为塌方导致周边地层下陷，现在这一带已经全部封住了。
 [name="村长"]  这个洞口本来也是跟邻村的通道，闭塞了之后也没办法跟邻村进行物资交互了。
 [Character(name="char_350_surtr_1#5")]
-[name="史尔特尔"]  ......！
+[name="史尔特尔"]  ……！
 [Character(name="char_219_meteo_1")]
 [name="陨星"]  史尔特尔？
 [Character(name="char_350_surtr_1#5")]
@@ -258,7 +258,7 @@
 [name="村长"]  你们想去邻村吗？
 [name="村长"]  如果道路开放之后，应该就能很快联络上他们了。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
-[name="陨星"]  那实在是太好了......史尔特尔？
+[name="陨星"]  那实在是太好了……史尔特尔？
 [Character(name="char_350_surtr_1#5")]
 [name="史尔特尔"]  我可不准备等那么长的时间了。
 [stopmusic(fadetime=1)]
@@ -307,7 +307,7 @@
 深入矿井中，机械开采的痕迹清晰可见。
 道路蜿蜒向前，仿佛指引着史尔特尔前进。
 [Character(name="char_350_surtr_1")]
-[name="史尔特尔"]  ......这里就是通往邻村的道路吧。
+[name="史尔特尔"]  ……这里就是通往邻村的道路吧。
 [Dialog]
 [PlaySound(key="$d_sp_ballista")]
 [Blocker(a=1, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
@@ -330,7 +330,7 @@
 [Character]
 [Dialog]
 [Character(name="char_350_surtr_1#5")]
-[name="史尔特尔"]  这是......
+[name="史尔特尔"]  这是……
 [Character]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -377,7 +377,7 @@
 [name="史尔特尔"]  没想到我也会有因为分心被源石虫偷袭的一天。
 [name="史尔特尔"]  啧。
 [Character(name="char_350_surtr_1#5")]
-[name="史尔特尔"]  这，这是......
+[name="史尔特尔"]  这，这是……
 [name="史尔特尔"]  在矿坑下面，还有另一个地下大空洞？
 [Character]
 [Dialog]
@@ -388,7 +388,7 @@
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_350_surtr_1")]
-[name="史尔特尔"]  大空洞里面的这是，城市遗迹吗......
+[name="史尔特尔"]  大空洞里面的这是，城市遗迹吗……
 [Character]
 [Dialog]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -447,7 +447,7 @@
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
 [name="史尔特尔"]  大概吧。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
-[name="陨星"]  ......我以前也遇到过这样的事情。
+[name="陨星"]  ……我以前也遇到过这样的事情。
 [name="陨星"]  在寻找目标的路上，总会在接近目标的时候遇到各种失败。
 [name="陨星"]  不过我也是依靠了身边的人，至少才能让我坚持到现在。
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
@@ -458,7 +458,7 @@
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=2)]
 [name="史尔特尔"]  所以你的意思是，我也可以依靠你吗？
 [Character(name="char_219_meteo_1",name2="char_350_surtr_1",focus=1)]
-[name="陨星"]  呃，也不是说不是这个意思......
+[name="陨星"]  呃，也不是说不是这个意思……
 [Character(name="avg_npc_006")]
 [name="村长"]  两位！我已经通知过村里其他人了！
 [name="村长"]  正式的探查队已经在准备了！如果真如小姑娘你所说，那么现在矿坑就可以开始准备恢复工作了。
@@ -470,10 +470,10 @@
 [name="村长"]  如果不介意的话，今天就留在村里吧。
 [name="村长"]  让我们好好招待你们一次！
 [Character(name="char_219_meteo_1",name2="avg_npc_006",focus=1)]
-[name="陨星"]  这......
+[name="陨星"]  这……
 [Character(name="char_350_surtr_1")]
 [name="史尔特尔"]  我们还得赶快回去，看来是没办法接受招待了。
-[name="史尔特尔"]  不过......
+[name="史尔特尔"]  不过……
 [name="史尔特尔"]  能给我一份雪糕吗？
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

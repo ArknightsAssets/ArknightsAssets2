@@ -37,12 +37,12 @@
 [CameraShake(duration=0.5, xstrength=20, ystrength=22, vibrato=50, randomness=90, fadeout=true, block=false)]
 [delay(time=2)]
 [theater(mode=false)]
-[name="锏"]......你是萨尔贡宫廷的人？
+[name="锏"]……你是萨尔贡宫廷的人？
 [dialog]
 [character]
 [delay(time=0.1)]
 [Character(name="avg_npc_252")]
-[name="Sharp"]......上一份工作。
+[name="Sharp"]……上一份工作。
 [name="Sharp"]想不到你能认出萨尔贡的剑术。
 [dialog]
 [characteraction(name="middle", type="move", xpos=140, fadetime=0.05,block=false)]
@@ -226,12 +226,12 @@
 [name="希瓦艾什家战士B"]大长老倒下后，现在整个蔓珠院已经完全听圣女大人的了。
 [name="希瓦艾什家战士B"]而山下，恩希欧迪斯老爷也在掌控全局。
 [Character(name="avg_npc_283_1#1$1",name2="avg_npc_283_1#1$1",focus=1)]
-[name="希瓦艾什家战士A"]......
+[name="希瓦艾什家战士A"]……
 [name="希瓦艾什家战士A"]你这么一说，还真是。山上，是圣女大人，山下，是恩希欧迪斯老爷。
 [Character(name="avg_npc_283_1#1$1",name2="avg_npc_283_1#1$1",focus=2)]
 [name="希瓦艾什家战士B"]用你的话说就是，这下我完全不知道事情会变成什么样了。
 [Character(name="avg_npc_283_1#1$1",name2="avg_npc_283_1#1$1",focus=1)]
-[name="希瓦艾什家战士A"]......我们做下人的，想这些也没什么用。
+[name="希瓦艾什家战士A"]……我们做下人的，想这些也没什么用。
 [Character(name="avg_npc_283_1#1$1",name2="avg_npc_283_1#1$1",focus=2)]
 [name="希瓦艾什家战士B"]是啊，想这些又有什么用呢。
 [name="希瓦艾什家战士B"]再转两圈吧，说不定等一会儿我们也要被喊下山了。
@@ -242,7 +242,7 @@
 [Dialog]
 [Character(name="avgnew_173_slchan_1#8$1",fadetime=1)]
 [Delay(time=1.5)]
-[name="恩希亚"]......姐姐。
+[name="恩希亚"]……姐姐。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Character]
@@ -266,7 +266,7 @@
 [Character(name="avg_npc_262_1#1$1")]
 [name="休露丝"]哼，轻轻松松。
 [Character(name="avg_npc_283_1#1$1")]
-[name="布朗陶家战士"]不愧是休露丝夫人，真是有您风格的做法......
+[name="布朗陶家战士"]不愧是休露丝夫人，真是有您风格的做法……
 [Character(name="avg_npc_262_1#7$1")]
 [name="休露丝"]你什么意思？！
 [Character(name="avg_npc_283_1#1$1")]
@@ -286,7 +286,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playsound(key="$d_avg_snowstormflp", channel="wind", loop=true)]
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=1)]
-[name="恩雅"]......雅儿。
+[name="恩雅"]……雅儿。
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=2)]
 [name="雅儿"]我在，圣女大人。
 [Character(name="avg_174_slbell_1#3$1",name2="avg_npc_250_1#1$1",focus=1)]
@@ -297,17 +297,17 @@
 [name="恩雅"]我从其他人口中听说，这个人似乎就是恩希欧迪斯请来的罗德岛贵客，人们都叫他博士。
 [name="恩雅"]同时，也是现在站在阿克托斯那边，与恩希欧迪斯对抗的人。
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#7$1",focus=2)]
-[name="雅儿"]......瞒不过圣女大人。
+[name="雅儿"]……瞒不过圣女大人。
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#7$1",focus=1)]
 [name="恩雅"]你是怎么认识他的？
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=2)]
 [name="雅儿"]下山帮您送信时，偶然认识的。
 [Character(name="avg_174_slbell_1#3$1",name2="avg_npc_250_1#1$1",focus=1)]
-[name="恩雅"]......我就当是这么一回事吧。
+[name="恩雅"]……我就当是这么一回事吧。
 [Character(name="avg_174_slbell_1#3$1",name2="avg_npc_250_1#1$1",focus=2)]
 [name="雅儿"]您怎么忽然提起这个人？
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=1)]
-[name="恩雅"]......
+[name="恩雅"]……
 [Character(name="avg_174_slbell_1#10$1",name2="avg_npc_250_1#1$1",focus=1)]
 [name="恩雅"]我想见一见他。
 [Character(name="avg_174_slbell_1#10$1",name2="avg_npc_250_1#1$1",focus=2)]
@@ -317,12 +317,12 @@
 [Character(name="avg_174_slbell_1#8$1",name2="avg_npc_250_1#1$1",focus=1)]
 [name="恩雅"]我想要知道他的看法。
 [Character(name="avg_174_slbell_1#8$1",name2="avg_npc_250_1#2$1",focus=2)]
-[name="雅儿"]......
+[name="雅儿"]……
 [Character(name="avg_174_slbell_1#8$1",name2="avg_npc_250_1#2$1",focus=1)]
 [name="恩雅"]我已经不再怀疑自己想要做什么，但我害怕我决定得有些太晚。
 [name="恩雅"]我需要争取一些东西。
 [Character(name="avg_174_slbell_1#8$1",name2="avg_npc_250_1#7$1",focus=2)]
-[name="雅儿"]关于这一点......您倒是不必担心。
+[name="雅儿"]关于这一点……您倒是不必担心。
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#7$1",focus=1)]
 [name="恩雅"]为什么？
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=2)]
@@ -338,7 +338,7 @@
 [Character(name="avgnew_173_slchan_1#5$1",fadetime=1)]
 [name="恩希亚"]姐姐！
 [Character(name="avg_174_slbell_1#10$1")]
-[name="恩雅"]恩希亚......看来我终于出现幻觉了。
+[name="恩雅"]恩希亚……看来我终于出现幻觉了。
 [Character(name="avgnew_173_slchan_1#4$1")]
 [name="恩希亚"]哎呀，姐姐，我不是幻觉，我真的是你的妹妹恩希亚！
 [Character(name="avg_174_slbell_1#5$1")]
@@ -346,7 +346,7 @@
 [Character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]是我呀，姐姐，不信你摸摸。
 [Character(name="avg_174_slbell_1#5$1")]
-[name="恩雅"]......！！
+[name="恩雅"]……！！
 [Dialog]
 [Character]
 [Delay(time=2)]
@@ -355,7 +355,7 @@
 而不等她的手碰到恩希亚，恩希亚已经一头扎进了她的怀里。
 她立刻确认了，怀中的人，确实是自己最亲爱的妹妹。
 [Character(name="avg_174_slbell_1#2$1",name2="avgnew_173_slchan_1#1$1",focus=1)]
-[name="恩雅"]......
+[name="恩雅"]……
 [Character(name="avg_174_slbell_1#2$1",name2="avgnew_173_slchan_1#1$1",focus=1)]
 [name="恩雅"]真的是你，恩希亚。真的是你。
 [Character(name="avg_174_slbell_1#2$1",name2="avgnew_173_slchan_1#5$1",focus=2)]
@@ -367,8 +367,8 @@
 [name="恩雅"]你的病怎么样了？
 [name="恩雅"]叫罗德岛的地方是个怎样的地方？
 [Character(name="avg_174_slbell_1#4$1",name2="avgnew_173_slchan_1#1$1",focus=2)]
-[name="恩希亚"]哎呀，姐姐，你这些问题不都在信上问过了嘛......
-[name="恩希亚"]你听我说......
+[name="恩希亚"]哎呀，姐姐，你这些问题不都在信上问过了嘛……
+[name="恩希亚"]你听我说……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [stopmusic(fadetime=3)]
@@ -394,12 +394,12 @@ Sharp倒退了几步，微微吐了一口气。
 速度与力量，每个战士都应当具备的素质。
 锏没有除此以外的东西，但她显然也不需要除此以外的东西。
 当一个人拥有凌驾于绝大多数人的力量与速度时，他为什么还需要别的东西？
-所幸......Sharp能够成为精英干员，也是因为这两样东西。
+所幸……Sharp能够成为精英干员，也是因为这两样东西。
 [Dialog]
 [Character(name="avg_npc_252")]
-[name="Sharp"]......
+[name="Sharp"]……
 [Character(name="avg_npc_257_1#1$1")]
-[name="锏"]......
+[name="锏"]……
 [Character(name="avg_npc_252")]
 [name="Sharp"]你很信任恩希欧迪斯。
 [Character(name="avg_npc_257_1#2$1")]
@@ -412,7 +412,7 @@ Sharp倒退了几步，微微吐了一口气。
 [Character(name="avg_npc_252")]
 [name="Sharp"]我会确保我做的工作是我喜欢的工作。
 [Character(name="avg_npc_257_1#1$1")]
-[name="锏"]......我不喜欢卡西米尔，那里太嘈杂，人也太聒噪。
+[name="锏"]……我不喜欢卡西米尔，那里太嘈杂，人也太聒噪。
 [name="锏"]我原以为我也不会喜欢谢拉格。
 [Character(name="avg_npc_257_1#8$1")]
 [name="锏"]但是，谢拉格不错。
@@ -449,18 +449,18 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Character(name="avg_174_slbell_1#1$1",name2="avgnew_173_slchan_1#1$1",focus=1)]
 [name="恩雅"]必要的时候？
 [Character(name="avg_174_slbell_1#1$1",name2="avgnew_173_slchan_1#7$1",focus=2)]
-[name="恩希亚"]......博士说，老哥他可能会对姐姐你做不好的事。
+[name="恩希亚"]……博士说，老哥他可能会对姐姐你做不好的事。
 [Character(name="avg_174_slbell_1#7$1",name2="avgnew_173_slchan_1#7$1",focus=1)]
-[name="恩雅"]......
+[name="恩雅"]……
 [Character(name="avg_174_slbell_1#7$1",name2="avgnew_173_slchan_1#7$1",focus=2)]
-[name="恩希亚"]我......
+[name="恩希亚"]我……
 [name="恩希亚"]姐姐，我是这么想的。
 [name="恩希亚"]老哥他有自己的想法，我拦不住他。
-[name="恩希亚"]但是如果老哥的想法最后会伤害到你......
+[name="恩希亚"]但是如果老哥的想法最后会伤害到你……
 [Character(name="avg_174_slbell_1#7$1",name2="avgnew_173_slchan_1#8$1",focus=2)]
 [name="恩希亚"]那我拼了命也会阻止他。
 [Character(name="avg_174_slbell_1#8$1",name2="avgnew_173_slchan_1#8$1",focus=1)]
-[name="恩雅"]......
+[name="恩雅"]……
 [Dialog]
 [Character]
 恩雅忽然明白了那个博士为什么要将妹妹送到自己的身边。
@@ -505,35 +505,35 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
 [Character(name="avg_npc_263_1#1$1")]
-[name="尤卡坦"]......
+[name="尤卡坦"]……
 [name="尤卡坦"]（外面很安静，但那两个看守应该还在。）
-[name="尤卡坦"]（窗户......从这个角度要想不被发现，得先把外面的护卫引走。）
-[name="尤卡坦"]（巡逻的路线......每天会有五次经过这附近，应该很快就要过来了。）
+[name="尤卡坦"]（窗户……从这个角度要想不被发现，得先把外面的护卫引走。）
+[name="尤卡坦"]（巡逻的路线……每天会有五次经过这附近，应该很快就要过来了。）
 [Dialog]
 [characteraction(name="middle", type="move", xpos=50, fadetime=0.9,block=true)]
 [Delay(time=1.5)]
 [characteraction(name="middle", type="move", xpos=-50, fadetime=0.9,block=true)]
 [Delay(time=1.5)]
 [Character(name="avg_npc_263_1#4$1")]
-[name="尤卡坦"]（不行，不能强行破坏锁，但如果能撬开......）
+[name="尤卡坦"]（不行，不能强行破坏锁，但如果能撬开……）
 [Character(name="avg_npc_263_1#1$1")]
-[name="尤卡坦"]（......应该还有机会。）
+[name="尤卡坦"]（……应该还有机会。）
 [Character]
 [Dialog]
 [Delay(time=0.51)]
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
-[name="年轻的护卫"]......恩希欧迪斯大人......这次一定......
+[name="年轻的护卫"]……恩希欧迪斯大人……这次一定……
 [Character(name="avg_npc_263_1#1$1")]
 [name="尤卡坦"]（——来了！）
 [Character]
-[name="年轻的护卫"]三家......冲突看来免不了......但......
-[name="年长的护卫"]......布朗陶家的......烧......休露丝夫人......
+[name="年轻的护卫"]三家……冲突看来免不了……但……
+[name="年长的护卫"]……布朗陶家的……烧……休露丝夫人……
 [Character(name="avg_npc_263_1#5$1")]
-[name="尤卡坦"]（露丝......？！）
-[name="尤卡坦"]（露丝，露丝怎么了......？难道出了什么事？！）
+[name="尤卡坦"]（露丝……？！）
+[name="尤卡坦"]（露丝，露丝怎么了……？难道出了什么事？！）
 [name="尤卡坦"]（可恶，还是太远了，听不清楚。）
 [Character(name="avg_npc_263_1#6$1")]
-[name="尤卡坦"]（......不，一定没事的。我得先找办法离开这里，然后去找露丝和大夫人......）
+[name="尤卡坦"]（……不，一定没事的。我得先找办法离开这里，然后去找露丝和大夫人……）
 [Dialog]
 [Character]
 [Delay(time=0.51)]
@@ -546,7 +546,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [name="希瓦艾什家战士"]快拦住他们——咕。
 [Character(name="avg_npc_263_1#2$1")]
 [name="尤卡坦"]——？！
-[name="尤卡坦"]（从门口传来的声音，发生了什么......）
+[name="尤卡坦"]（从门口传来的声音，发生了什么……）
 [Dialog]
 [Character]
 [Delay(time=0.51)]
@@ -559,16 +559,16 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Character(name="avg_npc_262_1#7$1")]
 [name="休露丝"]尤卡坦，你有没有事？！
 [Character(name="avg_npc_263_1#3$1")]
-[name="尤卡坦"]露丝？！你怎么会在这......
+[name="尤卡坦"]露丝？！你怎么会在这……
 [Character(name="avg_npc_262_1#8$1")]
 [name="休露丝"]我怎么会在这里？别说傻话了，当然是因为你在这啊！
 [name="休露丝"]其他人都靠不住，只有靠我来救你了！
 [Character(name="avg_npc_263_1#5$1")]
 [name="尤卡坦"]但是这太危险了！
 [Character(name="avg_npc_263_1#3$1")]
-[name="尤卡坦"]露丝，你带了多少人来？你、你可以不用亲自过来的，我绝不想你因为我而冒险......！
+[name="尤卡坦"]露丝，你带了多少人来？你、你可以不用亲自过来的，我绝不想你因为我而冒险……！
 [Character(name="avg_npc_262_1#2$1")]
-[name="休露丝"]......
+[name="休露丝"]……
 [name="休露丝"]尤卡坦。
 [Character(name="avg_npc_262_1#7$1")]
 [name="休露丝"]你再多说一句，我就揍你了。
@@ -578,25 +578,25 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [name="休露丝"]听好了！你可以为我冒多大的风险，那我对你，就也同样。
 [name="休露丝"]听好了，不许忘记！
 [Character(name="avg_npc_262_1#6$1")]
-[name="休露丝"]......不许再把我一个人丢下了。
+[name="休露丝"]……不许再把我一个人丢下了。
 [Character(name="avg_npc_263_1#4$1")]
-[name="尤卡坦"]露丝......
+[name="尤卡坦"]露丝……
 [Character(name="avg_npc_263_1#1$1")]
 [name="尤卡坦"]你知道我不会这么做的。
 [Character(name="avg_npc_262_1#10$1")]
 [name="休露丝"]哼，我当然知道！
-[name="休露丝"]好了，你没事我就放心了......现在嘛，我们还有点其他事情，我答应了菈塔托丝，在救到你之后还要顺便完成另一个任务。
+[name="休露丝"]好了，你没事我就放心了……现在嘛，我们还有点其他事情，我答应了菈塔托丝，在救到你之后还要顺便完成另一个任务。
 [Character(name="avg_npc_263_1#2$1")]
 [name="尤卡坦"]任务？
 [Character(name="avg_npc_283_1#1$1")]
 [name="布朗陶家战士"]休露丝夫人，希瓦艾什家的魏斯带人杀过来了。
 [Character(name="avg_npc_262_1#7$1")]
 [name="休露丝"]你看，这就来了。具体的等下慢慢给你说，总之，我们的任务就是给希瓦艾什找些麻烦。
-[name="休露丝"]还有......我还想去找个人，哎，这个之后再说！
+[name="休露丝"]还有……我还想去找个人，哎，这个之后再说！
 [Character(name="avg_npc_262_1#9$1")]
-[name="休露丝"]情况算不上太好，那个魏斯不算好对付......但你会帮我的对吧，尤卡坦？
+[name="休露丝"]情况算不上太好，那个魏斯不算好对付……但你会帮我的对吧，尤卡坦？
 [Character(name="avg_npc_263_1#6$1")]
-[name="尤卡坦"]......
+[name="尤卡坦"]……
 [Character(name="avg_npc_263_1#8$1")]
 [name="尤卡坦"]当然。只要你有需要，我就会一直在。
 [Dialog]
@@ -619,7 +619,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Character(name="avg_npc_283_1#1$1")]
 [name="佩尔罗契家战士"]老爷，我们快要被包围了！
 [Character(name="avg_npc_254_1#2$1")]
-[name="阿克托斯"]......哼，看来靠冲的只能冲到这里了吗。
+[name="阿克托斯"]……哼，看来靠冲的只能冲到这里了吗。
 [Character(name="avg_199_yak_1#1$1")]
 [name="角峰"]阿克托斯老爷，请投降吧。
 [Character(name="avg_npc_254_1#1$1")]
@@ -641,24 +641,24 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [dialog]
 [Delay(time=1)]
 [Character(name="avg_npc_254_1#7$1",name2="avg_199_yak_1#1$1",focus=2)]
-[name="角峰"]......
+[name="角峰"]……
 [Character(name="avg_npc_254_1#7$1",name2="avg_199_yak_1#1$1",focus=1)]
 [name="阿克托斯"]投降？
 [name="阿克托斯"]不可能。
 [Delay(time=1)]
 [Character(name="avg_npc_254_1#7$1",name2="avg_199_yak_1#6$1",focus=2)]
-[name="角峰"]将阿克托斯老爷抓起来......尽量留活口。
+[name="角峰"]将阿克托斯老爷抓起来……尽量留活口。
 [Character]
 [Dialog]
 [PlaySound(key="$d_avg_snowcrwdmarch", volume=1)]
 [Character(name="avg_npc_275",name2="avg_npc_275",fadetime=1)]
 [Delay(time=1.5)]
 [Character(name="avg_npc_275",name2="avg_npc_275")]
-[name="“山雪鬼”"]......
+[name="“山雪鬼”"]……
 [Character(name="avg_npc_254_1#8$1")]
 [name="阿克托斯"]来吧，希瓦艾什家的杂碎们，谁来和我一战？！
 [Character(name="avg_npc_275")]
-[name="“山雪鬼”"]......？！
+[name="“山雪鬼”"]……？！
 [Dialog]
 [PlaySound(key="$e_skill_skulsrsword",volume=1)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=10, randomness=90, fadeout=true, block=false)]
@@ -672,7 +672,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Character(name="avg_422_aurora_1#1$1",fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_199_yak_1#4$1")]
-[name="角峰"]......极光？！
+[name="角峰"]……极光？！
 [name="角峰"]难道说——
 [Dialog]
 [Character(name="avg_199_yak_1#4$1",focus=-1)]
@@ -680,7 +680,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Predicate(references="1;2;3")]
 [Character(name="avg_199_yak_1#4$1")]
 [name="角峰"]博士——？！
-[name="角峰"]锏不是......
+[name="角峰"]锏不是……
 [Character(name="avg_npc_254_1#10$1")]
 [name="阿克托斯"]博士，你可算来了！
 [Dialog]
@@ -744,7 +744,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Image]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Character(name="avg_npc_275")]
-[name="“山雪鬼”"]......
+[name="“山雪鬼”"]……
 [Character(name="avg_npc_283_1#1$1")]
 [name="希瓦艾什家战士"]圣女大人，您要干什么？！
 [Character(name="avg_174_slbell_1#8$1")]
@@ -765,7 +765,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [Delay(time=1)]
 [Character(name="avgnew_173_slchan_1#3$1")]
-[name="恩希亚"]姐姐......好厉害。
+[name="恩希亚"]姐姐……好厉害。
 [Character(name="avg_174_slbell_1#1$1")]
 [name="恩雅"]雅儿，雅儿。
 [Character(name="avg_npc_250_1#1$1")]
@@ -790,7 +790,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [PlaySound(key="$d_avg_snowbootwalk")]
 [Character(name="avg_npc_250_1#2$1",fadetime=1)]
 [delay(time=2)]
-[name="雅儿"]......
+[name="雅儿"]……
 [playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.4)]
 [Character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]其实，每一次的圣女选拔，我都会扮成侍女，在暗中观察这一批接受试炼的女孩。
@@ -804,7 +804,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [name="雅儿"]你很有意思，恩雅。
 [Character(name="avg_npc_250_1#4$1")]
 [name="雅儿"]因为你不是为了成为圣女而来的，你是因为愤怒和失望。
-[name="雅儿"]当你顶着风雪走在圣山的山道上，当你即使精疲力尽也不愿意放弃的时候，你脑中所想的......
+[name="雅儿"]当你顶着风雪走在圣山的山道上，当你即使精疲力尽也不愿意放弃的时候，你脑中所想的……
 [name="雅儿"]不是成为圣女，不是成为耶拉冈德的代理人，不是为谢拉格人谋福祉。
 [Character(name="avg_npc_250_1#2$1")]
 [name="雅儿"]你想的，是对你哥哥的失望，是对另外两大家族的厌恶，是你要成为圣女吓他们所有人一跳的愤怒。
@@ -855,7 +855,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Delay(time=1)]
 [Character(name="avg_npc_261_1#6$1")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="瓦莱丝"]唔......
+[name="瓦莱丝"]唔……
 [Dialog]
 [Character]
 [Character(name="avg_npc_260_1#6$1",name2="avg_npc_261_1#6$1",focus=1)]
@@ -920,9 +920,9 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.2, block=true)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=3, block=true)]
 [Character(name="avg_npc_260_1#3$1")]
-[name="古罗"]......那是什么？
+[name="古罗"]……那是什么？
 [Character(name="avg_npc_261_1#5$1")]
-[name="瓦莱丝"]乌云......散了？
+[name="瓦莱丝"]乌云……散了？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=3, block=true)]
@@ -940,14 +940,14 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [characteraction(name="left", type="move", xpos=-100, power=0, times=1, fadetime=0.1,block=true)]
 [Delay(time=2)]
 [Character(name="avg_198_blackd_1#9$1",name2="avg_npc_263_1#5$1",focus=2)]
-[name="尤卡坦"]......
+[name="尤卡坦"]……
 [Character(name="avg_198_blackd_1#9$1",name2="avg_npc_263_1#5$1",focus=1)]
 [name="魏斯"]啧，真是顽强，我小看你了。
 [name="魏斯"]但是，即使你们打败我也没有任何意义。
 [name="魏斯"]你们是无法阻止老爷的。
 [Character(name="avg_198_blackd_1#9$1",name2="avg_npc_263_1#3$1",focus=2)]
-[name="尤卡坦"]......我不在乎。
-[name="尤卡坦"]一直以来，夫人......菈塔托丝姐姐对谢拉格有自己的想法。
+[name="尤卡坦"]……我不在乎。
+[name="尤卡坦"]一直以来，夫人……菈塔托丝姐姐对谢拉格有自己的想法。
 [name="尤卡坦"]她也想要人们往前走，希望能让人们过上好日子。
 [name="尤卡坦"]只是，她没有力量。
 [name="尤卡坦"]于是，她成了你们口中那个诡计多端的菈塔托丝。
@@ -955,16 +955,16 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [name="尤卡坦"]也许在你们看来，姐姐只是一个绊脚石。
 [name="尤卡坦"]但是在我眼中，她永远是我最敬爱的姐姐！
 [Character(name="avg_npc_262_1#5$1")]
-[name="休露丝"]尤卡坦......
+[name="休露丝"]尤卡坦……
 [Character(name="avg_198_blackd_1#7$1",name2="avg_npc_263_1#5$1",focus=1)]
-[name="魏斯"]......
+[name="魏斯"]……
 [Character(name="avg_198_blackd_1#9$1",name2="avg_npc_263_1#5$1",focus=1)]
 [name="魏斯"]我对你们也没有个人恩怨，只要你们愿意放弃，我可以保证你们的安全。
 [Character(name="avg_198_blackd_1#9$1",name2="avg_npc_263_1#5$1",focus=2)]
 [name="尤卡坦"]但是，我不会让我和露丝成为恩希欧迪斯与大夫人谈判的筹码。
 [name="尤卡坦"]希瓦艾什家的魏斯，闪开，不然，我会杀了你。
 [Character(name="avg_198_blackd_1#9$1",name2="avg_npc_263_1#5$1",focus=1)]
-[name="魏斯"]......这句话应该是我来说，布朗陶家的尤卡坦。
+[name="魏斯"]……这句话应该是我来说，布朗陶家的尤卡坦。
 [name="魏斯"]今天，你必须留在这里。
 [Character(name="avg_npc_262_1#8$1")]
 [name="休露丝"]尤卡坦，加油啊！
@@ -974,7 +974,7 @@ Sharp也卸下手中的盾丢在一边，双手握住了手中的刀。
 [Blocker(a=0, r=255, g=255, b=255, fadetime=3, block=true)]
 [Delay(time=0.51)]
 [Character(name="avg_npc_262_1#4$1")]
-[name="休露丝"]嗯......？
+[name="休露丝"]嗯……？
 [name="休露丝"]圣山那边，乌云怎么裂开了？！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -1003,14 +1003,14 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [name="Sharp"]找到一个好的雇主并不容易，至少这份工作我很在乎。
 [name="Sharp"]你呢，你从一开始就知道我是来拖延你的，而现在，你并不沮丧。
 [Character(name="avg_npc_257_1#2$1")]
-[name="锏"]......
+[name="锏"]……
 [name="锏"]我也有些好奇，即使你拦住我，你们能做到什么。
 [Character(name="avg_npc_252")]
 [name="Sharp"]看来，恩希欧迪斯的保镖并不像传闻中那样只为他扫平一切敌人。
 [name="Sharp"]人们只知道是恩希欧迪斯买下了黑骑士，却没想过，这同样也是黑骑士承认了恩希欧迪斯。
 [name="Sharp"]你和恩希欧迪斯同样骄傲。
 [Character(name="avg_npc_257_1#8$1")]
-[name="锏"]......我会记住你的名字，Sharp。
+[name="锏"]……我会记住你的名字，Sharp。
 [Character(name="avg_npc_252")]
 [name="Sharp"]你大可以不记住我，但你可以记住博士的名字。
 [Character(name="avg_npc_257_1#7$1")]
@@ -1026,9 +1026,9 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1.5, block=true)]
 [PlaySound(key="$d_avg_snowrun", volume=1)]
 [Character(name="avg_npc_254_1#5$1")]
-[name="阿克托斯"]......
+[name="阿克托斯"]……
 [Character(name="avg_172_svrash_1#8$1")]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [Character(name="avg_npc_254_1#8$1")]
 [name="阿克托斯"]战士们，列阵。
 [Character(name="avg_npc_284_1#1$1",name2="avg_npc_284_1#1$1")]
@@ -1041,7 +1041,7 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [Character(name="avg_npc_275",name2="avg_npc_275")]
 [name="“山雪鬼”"]——！
 [Character(name="avg_npc_283_1#1$1",name2="avg_npc_283_1#1$1")]
-[name="希瓦艾什家战士们"]......！
+[name="希瓦艾什家战士们"]……！
 [Dialog]
 [Character]
 [Delay(time=0.51)]
@@ -1082,7 +1082,7 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 天上的乌云像是在为她开路一般，缓缓向两边散开。
 穿过乌云的光照在圣女行走的道路上，一时间，竟让人产生错觉，圣女正从天上走来。
 又或者说，这并非错觉。
-神迹......
+神迹……
 这是神迹。
 这是神迹！！！
 在这一刻，所有战士的心中都只有一个想法。
@@ -1101,13 +1101,13 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [character(name="avg_npc_250_1#1$1",name2="avg_npc_269",focus=2)]
 [name="侍女"]是。
 [Character]
-[name="大长老"]......
+[name="大长老"]……
 [character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]说起来，正殿虽然经过了许多次修缮，但它的年纪，可能也没有比祂小多少。
 [character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]大长老这个名头，也差不多。
 [character]
-[name="大长老"]......
+[name="大长老"]……
 [character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]不会有人否认，是蔓珠院的存在才让谢拉格以团结的姿态存续到今天。
 [character(name="avg_npc_250_1#1$1")]
@@ -1128,10 +1128,10 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [playsound(key="$d_avg_snowstormflp",channel="wind", loop=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Character(name="avg_npc_261_1#5$1")]
-[name="瓦莱丝"]......怎么会。
+[name="瓦莱丝"]……怎么会。
 [Character(name="avg_npc_260_1#3$1")]
-[name="古罗"]......那是什么？
-[name="古罗"]那难道是，神迹......
+[name="古罗"]……那是什么？
+[name="古罗"]那难道是，神迹……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -1148,9 +1148,9 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [Character(fadetime=1)]
 [Delay(time=1.5)]
 [Character(name="avg_npc_262_1#4$1",name2="avg_npc_263_1#2$1",focus=1)]
-[name="休露丝"]发生了......什么？
+[name="休露丝"]发生了……什么？
 [Character(name="avg_npc_262_1#4$1",name2="avg_npc_263_1#2$1",focus=2)]
-[name="尤卡坦"]这......难道是耶拉冈德降下的神迹。
+[name="尤卡坦"]这……难道是耶拉冈德降下的神迹。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -1159,9 +1159,9 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [Background(image="24_g7_thoroughfare",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_253_1#4$1")]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [Character(name="avg_npc_253_1#9$1")]
-[name="菈塔托丝"]谢拉格......这下会变成什么样子呢......
+[name="菈塔托丝"]谢拉格……这下会变成什么样子呢……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -1170,14 +1170,14 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [Background(image="24_g12_mountpath",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_252", name2="avg_npc_257_1#9$1",focus=2)]
-[name="锏"]......真刺眼。
+[name="锏"]……真刺眼。
 [name="锏"]我有些好奇，这也在你那个博士的计划之内吗？
 [Character(name="avg_npc_252", name2="avg_npc_257_1#9$1",focus=1)]
 [name="Sharp"]我也不知道。
-[name="Sharp"]老实说，如果这确实在博士的计划内，或者哪怕他至少预料到了这样的可能性......
+[name="Sharp"]老实说，如果这确实在博士的计划内，或者哪怕他至少预料到了这样的可能性……
 [name="Sharp"]就算干员们普遍喜欢宣称博士无所不能，但是这也太过夸张了。
 [Character(name="avg_npc_252", name2="avg_npc_257_1#6$1",focus=2)]
-[name="锏"]......
+[name="锏"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -1185,19 +1185,19 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [Background(image="24_g12_mountpath",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [character(name="avgnew_173_slchan_1#4$1")]
-[name="恩希亚"]姐姐，我怕......
+[name="恩希亚"]姐姐，我怕……
 [character(name="avg_174_slbell_1#1$1")]
 [name="恩雅"]别怕，恩希亚。
 [character(name="avg_174_slbell_1#11$1")]
 [name="恩雅"]姐姐会保护你。
 [character(name="avg_174_slbell_1#8$1")]
-[name="恩雅"]姐姐......会保护谢拉格。
+[name="恩雅"]姐姐……会保护谢拉格。
 山道上的所有士兵，在这一刻都放下了武器。
 自己毕生信仰的雪山之神已经显现了神迹，在祂面前，一切的斗争都显得那么可笑。
 [Character(name="avg_npc_254_1#2$1")]
-[name="阿克托斯"]......
+[name="阿克托斯"]……
 [Character(name="avg_npc_254_1#1$1")]
-[name="阿克托斯"]......佩尔罗契家家主，阿克托斯·佩尔罗契，向祂的代理人，圣女大人，献上最诚挚的祝福。
+[name="阿克托斯"]……佩尔罗契家家主，阿克托斯·佩尔罗契，向祂的代理人，圣女大人，献上最诚挚的祝福。
 [Dialog]
 [Character]
 [PlaySound(key="$d_avg_kneelsnow_s", volume=1)]
@@ -1205,7 +1205,7 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [PlaySound(key="$d_avg_crwdkneelsnow", volume=1)]
 在场所有佩尔罗契家的战士，也随着他的动作尽数跪下。
 [character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]......恩希欧迪斯，你现在，后悔吗？
+[name="诺希斯"]……恩希欧迪斯，你现在，后悔吗？
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]你指什么？
 [character(name="avg_206_gnosis_1#1$1")]
@@ -1217,7 +1217,7 @@ Sharp转身，看着缓缓将双锏收回腰间的锏。
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]在过去，确实是这样。
 [Character(name="avg_172_svrash_1#10$1")]
-[name="恩希欧迪斯"]但是在今天......未必。
+[name="恩希欧迪斯"]但是在今天……未必。
 [dialog]
 [character(fadetime=1.5)]
 [PlaySound(key="$d_avg_snowbootwalk")]

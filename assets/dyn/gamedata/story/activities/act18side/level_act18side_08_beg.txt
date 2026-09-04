@@ -10,8 +10,8 @@
 [Character(name="avg_npc_497_1#1$1")]
 [name="满心期待的观众"]加油，我会在观众席上给你鼓劲的！
 [Character(name="avg_npc_496_1#1$1")]
-[name="惴惴不安的乐手"]可我......虽然一直练到今天，可还是有点没信心......
-[name="惴惴不安的乐手"]还有那个预言，说是合奏，会不会就是我......
+[name="惴惴不安的乐手"]可我……虽然一直练到今天，可还是有点没信心……
+[name="惴惴不安的乐手"]还有那个预言，说是合奏，会不会就是我……
 [Character(name="avg_npc_497_1#1$1")]
 [name="满心期待的观众"]哎呀，别怕，别怕！昨晚受影响的人都得到了救治，今天也肯定没关系的！
 [Character(name="avg_npc_493_1#1$1")]
@@ -20,13 +20,13 @@
 [Character(name="avg_npc_492_1#1$1")]
 [name="附庸风雅的贵族"]听组织者说，昨天晚上的源石虫骚动似乎也波及到了他，但他并未取消今天的出场预定。
 [Character(name="avg_npc_493_1#1$1")]
-[name="挑剔的评论家"]哼......也好。
+[name="挑剔的评论家"]哼……也好。
 [Character(name="avg_npc_496_1#1$1")]
 [name="礼貌的感染者"]请大家先进场吧，车尔尼先生随后就到。
 [Character(name="avg_npc_493_1#1$1")]
 [name="挑剔的评论家"]你可没骗人吧？该不会等我们进了音乐厅，你们就把门一关，再宣布车尔尼先生不能来了——
 [Character(name="avg_npc_496_1#1$1")]
-[name="礼貌的感染者"]请您放心，这种情况绝不会发生。车尔尼先生只是偶感风寒，很快就会到达夕照厅......
+[name="礼貌的感染者"]请您放心，这种情况绝不会发生。车尔尼先生只是偶感风寒，很快就会到达夕照厅……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -38,11 +38,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_486_1#7$1")]
-[name="别格勒"]那个老家伙......我就说资料怎么可能会不翼而飞。
+[name="别格勒"]那个老家伙……我就说资料怎么可能会不翼而飞。
 [name="别格勒"]对他的处置先延后。资料并不重要，重要的是对尘世之音的研究本身。
 [Character(name="avg_npc_486_1#4$1")]
 [name="别格勒"]——他要去音乐厅？
-[name="别格勒"]算了......让他去吧。
+[name="别格勒"]算了……让他去吧。
 [Dialog]
 [PlaySound(key="$d_avg_telephone", volume=1)]
 [delay(time=1)]
@@ -66,20 +66,20 @@
 [character(name="avg_npc_486_1#7$1",name2="avg_npc_484_1#6$1",focus=2)]
 [name="格特鲁德"]他们和这个话题紧密相关。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_484_1#6$1",focus=1)]
-[name="别格勒"]......
+[name="别格勒"]……
 [character(name="avg_npc_486_1#2$1",name2="avg_npc_484_1#6$1",focus=1)]
 [name="别格勒"]你的父亲，十五年前，为尘世之音的研究提供庇护，在被我们发现后，他想要供出背后的人，却在那之前被灭口。
 [name="别格勒"]如果你知情，那你的嫌疑又加重了一层，斯特罗洛伯爵。
 [character(name="avg_npc_486_1#2$1",name2="avg_npc_484_1#6$1",focus=2)]
 [name="格特鲁德"]难道你觉得我在掩盖这件事吗？
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_484_1#6$1",focus=1)]
-[name="别格勒"]......
+[name="别格勒"]……
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_484_1#12$1",focus=2)]
 [name="格特鲁德"]我对父亲的看法也是随时间变化的。
 [name="格特鲁德"]我小时候觉得，父亲是世界上最恐怖的人，他的意志是绝对的，谁也不能改变他的决定。
-[name="格特鲁德"]喜欢乱跑乱跳，父亲就关我的禁闭；喜欢在吃饭时说话，父亲就撤掉我的晚饭，强迫我对着墙说上一个小时......
+[name="格特鲁德"]喜欢乱跑乱跳，父亲就关我的禁闭；喜欢在吃饭时说话，父亲就撤掉我的晚饭，强迫我对着墙说上一个小时……
 [name="格特鲁德"]后来，我年岁渐长，对父亲的敬畏有增无减。我亲眼见识了那些小贵族对斯特罗洛伯爵的谄媚，和伯爵大人对他们的不屑一顾。
-[name="格特鲁德"]就连巫王的特使来到斯特罗洛的高塔里，也必须轻声细语，不像在地面上那样颐指气使......
+[name="格特鲁德"]就连巫王的特使来到斯特罗洛的高塔里，也必须轻声细语，不像在地面上那样颐指气使……
 [name="格特鲁德"]这就是斯特罗洛家，我们的领主，那位选帝侯，曾经最为器重的家族。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_484_1#8$1",focus=2)]
 [name="格特鲁德"]可这一切，都随着巫王的陨落而发生了改变。
@@ -99,7 +99,7 @@
 [character(name="avg_4047_pianst_1#4$1",name2="avg_1024_hbisc2_1#5$1",focus=1)]
 [name="车尔尼"]但你看起来不像是要阻止我的样子。
 [character(name="avg_4047_pianst_1#4$1",name2="avg_1024_hbisc2_1#2$1",focus=2)]
-[name="芙蓉"]......我不希望您燃烧生命创作的乐曲蒙尘。
+[name="芙蓉"]……我不希望您燃烧生命创作的乐曲蒙尘。
 [character(name="avg_4047_pianst_1#8$1",name2="avg_1024_hbisc2_1#2$1",focus=1)]
 [name="车尔尼"]看来你也学会了一些变通。
 [character(name="avg_4047_pianst_1#8$1",name2="avg_1024_hbisc2_1#7$1",focus=2)]
@@ -144,7 +144,7 @@
 [name="别格勒"]而且，斯特罗洛伯爵，不要忘记了，现在是我在审问你，而不是在和你做交易。
 [name="别格勒"]我会回答你的唯一原因，是我们确实没有查出你哥哥的死因。
 [character(name="avg_npc_486_1#7$1",name2="avg_npc_484_1#4$1",focus=2)]
-[name="格特鲁德"]......嗯？
+[name="格特鲁德"]……嗯？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -172,7 +172,7 @@
 [character(name="avg_npc_497_1#1$1",name2="avg_npc_499_1#1$1",focus=1)]
 [name="激动的夕照区居民"]太好了！
 [Character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]咳......
+[name="车尔尼"]咳……
 [Character(name="avg_1024_hbisc2_1#4$1")]
 [name="芙蓉"]别逞强了，车尔尼先生。
 [Dialog]
@@ -193,7 +193,7 @@
 这是他自己的战斗。
 [dialog]
 [delay(time=1.5)]
-[name="车尔尼"]......对了。
+[name="车尔尼"]……对了。
 [name="芙蓉"]嗯？
 [name="车尔尼"]我想到了，新曲子的名字。
 [name="车尔尼"]就叫——
@@ -243,14 +243,14 @@
 [character(name="avg_npc_486_1#7$1",name2="avg_npc_484_1#6$1",focus=2)]
 [name="格特鲁德"]这些演奏和他的演奏相比，简直就是云泥之别。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_484_1#6$1",focus=1)]
-[name="别格勒"]......
+[name="别格勒"]……
 [name="别格勒"]从刚才起，你就一直在转移话题。
 [name="别格勒"]你到底想干什么？
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_484_1#11$1",focus=2)]
 [name="格特鲁德"]哦，瞧我，一聊到车尔尼就有些没完没了。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_484_1#10$1",focus=2)]
 [name="格特鲁德"]我身边的人以为我厌恶他，而他身边的人知道他厌恶我，这可悲的信息差，让我一直缺少一个聊他的对象。
-[name="格特鲁德"]说到哪里了来着......对了，我那位哥哥。
+[name="格特鲁德"]说到哪里了来着……对了，我那位哥哥。
 [name="格特鲁德"]唉，这个话题实在不如车尔尼有意思。
 [dialog]
 [delay(time=1)]
@@ -260,7 +260,7 @@
 [multiline(name="格特鲁德",end=true)]毕竟，他是我杀的。
 [stopmusic(fadetime=0.5)]
 [character(name="avg_npc_486_1#4$1",name2="avg_npc_484_1#7$1",focus=1)]
-[name="别格勒"]......？！
+[name="别格勒"]……？！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -274,16 +274,16 @@
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#11$2",fadetime=0.7)]
 [delay(time=1)]
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#11$2",focus=2)]
-[name="黑键"]呼......你感觉怎么样？
+[name="黑键"]呼……你感觉怎么样？
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#11$2",focus=1)]
-[name="白垩"]......我觉得我们的配合已经非常到位了。
+[name="白垩"]……我觉得我们的配合已经非常到位了。
 [name="白垩"]这首曲子虽然是为我们两个而作，但也带着非常强烈的车尔尼先生的色彩，我觉得一点也不逊色于《晨暮》。
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#11$2",focus=1)]
-[name="白垩"]甚至只用了一个晚上......他实在太了不起了。
+[name="白垩"]甚至只用了一个晚上……他实在太了不起了。
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#11$2",focus=2)]
 [name="黑键"]创作是漫长积累的一次迸发，我觉得他大概只是找到了一个契机。
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#11$2",focus=1)]
-[name="白垩"]......
+[name="白垩"]……
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#3$2",focus=2)]
 [name="黑键"]干什么？
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#3$2",focus=1)]
@@ -303,17 +303,17 @@
 [character(name="avg_npc_482_1#12$2",name2="avg_4046_ebnhlz_1#11$2",focus=1)]
 [name="白垩"]对了，黑键，在你看来，我这一身礼服合身吗？我没有穿过这么昂贵的衣服，不知道会不会出错。
 [character(name="avg_npc_482_1#12$2",name2="avg_4046_ebnhlz_1#11$2",focus=2)]
-[name="黑键"]......很合身。
+[name="黑键"]……很合身。
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#11$2",focus=1)]
 [name="白垩"]那就好。
 [character(name="avg_npc_482_1#12$2",name2="avg_4046_ebnhlz_1#11$2",focus=1)]
 [name="白垩"]对了，黑键，还有一件事。
 [character(name="avg_npc_482_1#12$2",name2="avg_4046_ebnhlz_1#7$2",focus=2)]
-[name="黑键"]你今天怎么格外絮叨......
+[name="黑键"]你今天怎么格外絮叨……
 [character(name="avg_npc_482_1#5$2",name2="avg_4046_ebnhlz_1#7$2",focus=1)]
 [name="白垩"]你是说我平时也很絮叨？
 [character(name="avg_npc_482_1#5$2",name2="avg_4046_ebnhlz_1#7$2",focus=2)]
-[name="黑键"]......有一点。
+[name="黑键"]……有一点。
 [character(name="avg_npc_482_1#5$2",name2="avg_4046_ebnhlz_1#7$2",focus=1)]
 [name="白垩"]忍耐一下吧，这说不定是我们最后一次合奏了呢。
 [character(name="avg_npc_482_1#5$2",name2="avg_4046_ebnhlz_1#3$2",focus=2)]
@@ -329,14 +329,14 @@
 [character(name="avg_npc_482_1#1$2",name2="avg_4046_ebnhlz_1#9$2",focus=1)]
 [name="白垩"]但我们已经是朋友了，我猜你想说这个。
 [character(name="avg_npc_482_1#1$2",name2="avg_4046_ebnhlz_1#9$2",focus=2)]
-[name="黑键"]......嗯。
+[name="黑键"]……嗯。
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#9$2",focus=1)]
 [name="白垩"]即使是朋友之间，也是要分别的。
 [name="白垩"]或许这次离别，会很长很长。
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#9$2",focus=1)]
 [name="白垩"]但你记得我说过的话吗？我们可以互相赠送一些礼物留作纪念。
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#6$2",focus=2)]
-[name="黑键"]......我送你一颗骰子吧。
+[name="黑键"]……我送你一颗骰子吧。
 [character(name="avg_npc_482_1#3$2",name2="avg_4046_ebnhlz_1#6$2",focus=1)]
 [name="白垩"]那不是你的武器吗？缺了一颗还能用吗？
 [character(name="avg_npc_482_1#3$2",name2="avg_4046_ebnhlz_1#6$2",focus=2)]
@@ -344,13 +344,13 @@
 [character(name="avg_npc_482_1#5$2",name2="avg_4046_ebnhlz_1#6$2",focus=1)]
 [name="白垩"]那就算了吧。像我之前说的，一枚硬币，钻一个孔，我觉得就挺好的。
 [character(name="avg_npc_482_1#5$2",name2="avg_4046_ebnhlz_1#6$2",focus=2)]
-[name="黑键"]......那你呢？你打算送我什么？
+[name="黑键"]……那你呢？你打算送我什么？
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#6$2",focus=1)]
 [name="白垩"]我还在想呢。
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#11$2",focus=2)]
 [name="黑键"]你可以慢慢想，只要今天能够顺利进行，我们还有时间。
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#11$2",focus=1)]
-[name="白垩"]......是啊，我们还有时间。
+[name="白垩"]……是啊，我们还有时间。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -376,7 +376,7 @@
 [name="格特鲁德"]可他太无能了，他什么也做不好，还差点因为一些纰漏将他背后的人捅了出去。
 [name="格特鲁德"]与其让他死在那些早就对他不满的人手里，还不如让他成为你接替他上位的敲门砖，你难道不这么觉得？
 [character(name="avg_npc_486_1#4$1",name2="avg_npc_484_1#12$1",focus=1)]
-[name="别格勒"]......你们背后的人，究竟是谁？
+[name="别格勒"]……你们背后的人，究竟是谁？
 [character(name="avg_npc_486_1#4$1",name2="avg_npc_484_1#6$1",focus=2)]
 [name="格特鲁德"]天哪，密探先生，你知道吗，我比你还想知道。
 [name="格特鲁德"]那就足以让我坐在这里和你谈交易了。
@@ -405,7 +405,7 @@
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]黑键，不要忘了，最早坚持这么做的人是谁。
 [character(name="avg_npc_482_1#9$2",name2="avg_4046_ebnhlz_1#6$2",focus=2)]
-[name="黑键"]......
+[name="黑键"]……
 [name="黑键"]既然你都这么说了，那我就不客气了。
 [name="黑键"]我们两个已经把你写好的曲子练得很熟了，如果你这个创造者因为身体原因而发挥不好，那是你自己的责任。
 [Character(name="avg_4047_pianst_1#8$1")]
@@ -416,13 +416,13 @@
 [name="白垩"]好了，既然车尔尼先生也到了，我们赶紧准备上台吧！
 [name="白垩"]无论是为了我们自己，还是为了观众，今天，我们都要做到最好。
 [character(name="avg_npc_482_1#10$2",name2="avg_4046_ebnhlz_1#3$2",focus=2)]
-[name="黑键"]白垩，我还是觉得，你今天好像......格外兴奋？
+[name="黑键"]白垩，我还是觉得，你今天好像……格外兴奋？
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#3$2",focus=1)]
 [name="白垩"]是吗？
-[name="白垩"]或许是，我第一次感受到了......
+[name="白垩"]或许是，我第一次感受到了……
 [name="白垩"]所谓的“活着的价值”吧。
 [character(name="avg_npc_482_1#11$2",name2="avg_4046_ebnhlz_1#11$2",focus=2)]
-[name="黑键"]......搞不懂你。
+[name="黑键"]……搞不懂你。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(name="avg_npc_496_1#1$1",fadetime=1)]
@@ -501,11 +501,11 @@
 [Character(name="avg_npc_484_1#10$1")]
 [name="格特鲁德"]他们开始演奏了。
 [name="格特鲁德"]车尔尼，我就知道，你不会令我失望的，你会找出帮助他们两个的办法。
-[name="格特鲁德"]听啊，这首新曲......那些听众怎么会明白，这个开头竟然来自巫王？
+[name="格特鲁德"]听啊，这首新曲……那些听众怎么会明白，这个开头竟然来自巫王？
 [name="格特鲁德"]他们当然不会明白，因为，这已经是属于你的曲子了。
 [Character(name="avg_npc_484_1#3$1")]
-[name="格特鲁德"]......？
-[name="格特鲁德"]啊，这个旋律......我明白了。
+[name="格特鲁德"]……？
+[name="格特鲁德"]啊，这个旋律……我明白了。
 [name="格特鲁德"]你打算将两段尘世之音都扯出来。这很勇敢。
 [Character(name="avg_npc_484_1#7$1")]
 [name="格特鲁德"]可是，扯出来之后你又打算怎么办呢，难道你打算让自己成为那个容器？
@@ -606,8 +606,8 @@
 [Character(name="avg_npc_490_1#2$1")]
 [name="？？？"]在绝望的深处发出的尖笑声，同样动人。
 [Character(name="avg_npc_490_1#5$1")]
-[name="？？？"]至于你，我曾经的学生......
-[name="？？？"]我在教你如何用提琴说话时，就听到了你命运的主题......那是何其残忍的旋律啊。
+[name="？？？"]至于你，我曾经的学生……
+[name="？？？"]我在教你如何用提琴说话时，就听到了你命运的主题……那是何其残忍的旋律啊。
 [name="？？？"]可我从未想过，你竟然能将其发展成如此辉煌的乐段。
 [Character(name="avg_npc_490_1#8$1")]
 [name="？？？"]向你们致敬，我熟悉或不熟悉的人们。
@@ -624,7 +624,7 @@
 [Character(name="avg_npc_484_1#6$1")]
 [name="格特鲁德"]尘世之音的计划其实是我重启的，密探先生。
 [Character(name="avg_npc_486_1#4$1")]
-[name="别格勒"]......就凭你？
+[name="别格勒"]……就凭你？
 [Character(name="avg_npc_484_1#12$1")]
 [name="格特鲁德"]首先，尘世之音太过稀有，而且，在那个计划之后，尘世之音必然处于你们的控制之下。
 [name="格特鲁德"]其次，过去的研究已经证明，如果和巫王毫无血缘关系，一个人根本无法承受住那样的实验。
@@ -636,7 +636,7 @@
 [name="格特鲁德"]而我，在意识到哥哥的无能会为整个家族招来真正的杀身之祸后，不得不采取了行动。
 [name="格特鲁德"]但即便如此，我依然没有找到能向那些人体现我的价值的方法。
 [Character(name="avg_npc_484_1#6$1")]
-[name="格特鲁德"]音乐、法术、金钱、权力，甚至我的身体......都没有用。
+[name="格特鲁德"]音乐、法术、金钱、权力，甚至我的身体……都没有用。
 [Character(name="avg_npc_484_1#2$1")]
 [name="格特鲁德"]最终，我在父亲的故纸堆里发现了这个被尘封的计划。
 [name="格特鲁德"]这个计划的重启让我获得了喘息的机会，他们开始觉得我或许能做点什么了。
@@ -651,7 +651,7 @@
 [Character(name="avg_npc_484_1#7$1")]
 [name="格特鲁德"]如果你现在去音乐厅走一走，或许还能发现一些你早就在怀疑的对象呢。
 [Character(name="avg_npc_486_1#4$1")]
-[name="别格勒"]......从下水道中的人体实验场，到尘世之音的计划书，都是你故意让我和黑键发现的？
+[name="别格勒"]……从下水道中的人体实验场，到尘世之音的计划书，都是你故意让我和黑键发现的？
 [Character(name="avg_npc_484_1#9$1")]
 [name="格特鲁德"]其实那原本只是为你们密探准备的，乌提卡伯爵会去找你确实出乎我的意料。
 [Character(name="avg_npc_486_1#7$1")]
@@ -692,9 +692,9 @@
 这座音乐厅本身已经成为了一座兵器。
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_4047_pianst_1#1$1")]
-[name="车尔尼"]格特鲁德，为什么你要做到这一步......
+[name="车尔尼"]格特鲁德，为什么你要做到这一步……
 [Character(name="avg_npc_482_1#7$2")]
-[name="白垩"]车尔尼先生，再这样下去......
+[name="白垩"]车尔尼先生，再这样下去……
 [Character(name="avg_4047_pianst_1#3$1")]
 [name="车尔尼"]别停！
 [name="车尔尼"]在音乐厅的干扰下，尘世之音已经变得紊乱了。
@@ -716,11 +716,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_496_1#1$1")]
-[name="礼貌的感染者"]这种不安的感觉，还有压抑的源石技艺运用，究竟是怎么回事......
+[name="礼貌的感染者"]这种不安的感觉，还有压抑的源石技艺运用，究竟是怎么回事……
 [character(name="avg_1024_hbisc2_1#5$1")]
 [name="芙蓉"]喂！
 [Character(name="avg_npc_496_1#1$1")]
-[name="礼貌的感染者"]你是罗德岛的......
+[name="礼貌的感染者"]你是罗德岛的……
 [character(name="avg_1024_hbisc2_1#5$1")]
 [name="芙蓉"]快点开始疏散音乐厅里的人！
 [Character(name="avg_npc_496_1#1$1")]
@@ -765,7 +765,7 @@
 [Character(name="avg_npc_484_1#10$1")]
 [name="格特鲁德"]就这么简单。
 [Character(name="avg_npc_486_1#3$1")]
-[name="别格勒"]这......怎么可能？这个计划......甚至不能算得上是计划！
+[name="别格勒"]这……怎么可能？这个计划……甚至不能算得上是计划！
 [Character(name="avg_npc_484_1#8$1")]
 [name="格特鲁德"]因为从一开始，我的计划就失败了！
 [Character(name="avg_npc_484_1#13$1")]
@@ -785,7 +785,7 @@
 [name="格特鲁德"]我拿不出成果就要面临被灭口的命运，凭什么他们可以活下去，我就不能？
 [name="格特鲁德"]我不在乎巫王，不在乎双子女皇，我只是想要活下去！
 [Character(name="avg_npc_484_1#6$1")]
-[name="格特鲁德"]我一开始，只是想活下去而已啊......
+[name="格特鲁德"]我一开始，只是想活下去而已啊……
 [Dialog]
 [musicvolume(volume=0.2, fadetime=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -796,7 +796,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=2)]
 [Character(name="avg_4046_ebnhlz_1#2$2")]
-[name="黑键"]......
+[name="黑键"]……
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
 来到维谢海姆后，黑键逐渐多了一些想做的事。
 他想要在夕照区多走走，看看这个充满活力的社区。
@@ -810,7 +810,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="avg_4046_ebnhlz_1#8$2")]
-[name="黑键"]......
+[name="黑键"]……
 [dialog]
 [delay(time=1)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -900,7 +900,7 @@
 [Delay(time=1)]
 [CameraShake(duration=1, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_npc_496_1#1$1")]
-[name="礼貌的感染者"]咕......
+[name="礼貌的感染者"]咕……
 [Dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [characteraction(name="middle", type="move", ypos=-50, fadetime=2,block=true)]
@@ -927,9 +927,9 @@
 [Character(name="avg_4047_pianst_1#3$1")]
 [name="车尔尼"]别这么做！
 [Character(name="avg_4046_ebnhlz_1#10$2")]
-[name="黑键"]（哪怕只是为你们争取一点时间也好......）
+[name="黑键"]（哪怕只是为你们争取一点时间也好……）
 [Character(name="avg_npc_482_1#7$2")]
-[name="白垩"]......
+[name="白垩"]……
 [Character(name="avg_npc_482_1#7$2")]
 [dialog]
 [delay(time=1)]
@@ -947,7 +947,7 @@
 [delay(time=1)]
 [Dialog]
 [Character(name="avg_npc_482_1#11$2")]
-[name="白垩"]......
+[name="白垩"]……
 [Dialog]
 [delay(time=1)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -975,7 +975,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="格特鲁德"]——？！
 [Character(name="avg_npc_484_1#8$1")]
-[name="格特鲁德"]大提琴......是白垩，他也要这么做？！
+[name="格特鲁德"]大提琴……是白垩，他也要这么做？！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -986,14 +986,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [Character(name="avg_4047_pianst_1#4$1")]
-[name="车尔尼"]白垩，连你也......！
+[name="车尔尼"]白垩，连你也……！
 [Character(name="avg_npc_482_1#11$2")]
 [name="白垩"]车尔尼先生燃烧生命创作出的曲子，怎么能这样被践踏呢？
 [name="白垩"]再说，我是这首曲子的终结，由我来做这样的事正合适，不是吗？
 [Character(name="avg_4047_pianst_1#4$1")]
 [name="车尔尼"]你知道你在做什么吗？！
 [Character(name="avg_4046_ebnhlz_1#3$2")]
-[name="黑键"]......！
+[name="黑键"]……！
 [Character(name="avg_npc_482_1#10$2")]
 [name="白垩"]黑键，不要停下，然后，跟上我的节奏就好。
 [Character(name="avg_4046_ebnhlz_1#3$2")]
@@ -1005,7 +1005,7 @@
 [Character(name="avg_npc_482_1#1$2")]
 [name="白垩"]相信我，黑键、车尔尼先生，我会处理好的。
 [Character(name="avg_4046_ebnhlz_1#9$2")]
-[name="黑键"]我......
+[name="黑键"]我……
 [Character(name="avg_4046_ebnhlz_1#6$2")]
 [name="黑键"]（我相信你。）
 [Dialog]
@@ -1017,9 +1017,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=0.51)]
 [character(name="avg_1024_hbisc2_1#3$1")]
-[name="芙蓉"]曲子......恢复正常了？
+[name="芙蓉"]曲子……恢复正常了？
 [character(name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]不、不对！是白垩他......
+[name="芙蓉"]不、不对！是白垩他……
 [Dialog]
 [playsound(key="$rungeneral")]
 [characteraction(name="middle", type="move", xpos=-100, fadetime=2,block=false)]
@@ -1027,7 +1027,7 @@
 [character(fadetime=1)]
 [delay(time=2)]
 [Character(name="avg_npc_491_1#1$1")]
-[name="高塔术师"]大人，这个女感染者看起来不太寻常，您看......
+[name="高塔术师"]大人，这个女感染者看起来不太寻常，您看……
 [Character(name="avg_npc_493_1#1$1")]
 [name="沉稳的贵族"]无妨，只是个平民而已，欣赏音乐更重要。
 [name="沉稳的贵族"]听，到了这里，又恢复了正常。
@@ -1057,11 +1057,11 @@
 良久，观众席上才渐渐响起掌声，掌声越来越热烈。
 然而，在席卷整个音乐厅之前，掌声被惊恐的尖叫声打断了。
 [Character(name="avg_4046_ebnhlz_1#11$2")]
-[name="黑键"]结束了......白垩，你做到了！
+[name="黑键"]结束了……白垩，你做到了！
 [Dialog]
 [character]
 [delay(time=0.51)]
-[name="白垩"]不，还有，要做的事呢......
+[name="白垩"]不，还有，要做的事呢……
 [Character(name="avg_4046_ebnhlz_1#4$2")]
 [name="黑键"]白垩，你怎么了——你的身体？！
 [Dialog]
@@ -1073,21 +1073,21 @@
 [Character(name="avg_4047_pianst_1#4$1")]
 [name="车尔尼"]你——
 [character(name="avg_1024_hbisc2_1#3$1")]
-[name="芙蓉"]白垩，你的身体......
+[name="芙蓉"]白垩，你的身体……
 [character(name="avg_npc_483_1#3$1")]
 [name="白垩"]抱歉，车尔尼先生，芙蓉小姐。
 [name="白垩"]我有许多话想和你们说，但看起来，现在不是时候。
 [name="白垩"]带我去吧，黑键，趁我还能压制自己。
 [character(name="avg_npc_483_1#1$1")]
-[name="白垩"]我脑海里的旋律......越来越响了......
+[name="白垩"]我脑海里的旋律……越来越响了……
 [character(name="avg_npc_483_1#4$1")]
-[name="白垩"]两段旋律在......拉锯，在我的脑子里......
+[name="白垩"]两段旋律在……拉锯，在我的脑子里……
 [name="白垩"]快，黑键，带我出去。
-[name="白垩"]音乐厅在同时强化那两段旋律，我已经快要撑不住了......
+[name="白垩"]音乐厅在同时强化那两段旋律，我已经快要撑不住了……
 [Character(name="avg_4046_ebnhlz_1#6$2")]
 [name="黑键"]我知道了！
 [Character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]黑键，你......
+[name="车尔尼"]黑键，你……
 [Character(name="avg_4046_ebnhlz_1#1$2")]
 [name="黑键"]白垩就交给我。
 [character(name="avg_1024_hbisc2_1#4$1")]
@@ -1106,10 +1106,10 @@
 看到舞台上发生的异变，音乐厅里的人们开始逃离。
 惊慌的叫声此起彼伏，其中还夹杂着芙蓉和车尔尼的喊声，而这些对此时的黑键来说，都只是噪音，他的眼中只有音乐厅外的广场。
 [name="黑键"]你从一开始就打算这么做？
-[name="白垩"]怎么会呢......
+[name="白垩"]怎么会呢……
 [name="白垩"]我只是，有一种预感。
 [name="黑键"]预感？！我说你今天怎么这么开朗，结果是因为这样的预感？！
-[name="白垩"]不，不......能和你还有车尔尼先生一起演奏，我真的很开心。
+[name="白垩"]不，不……能和你还有车尔尼先生一起演奏，我真的很开心。
 [name="白垩"]这是我人生中第一次这么开心。
 [name="黑键"]那就别做这种事啊！
 [name="黑键"]开心的事还有那么多——
@@ -1117,13 +1117,13 @@
 [name="黑键"]所以就该是你吗？！
 [name="黑键"]你一天好日子也没过过，可我早就过够了，也应该轮到你了啊！
 [name="白垩"]抱歉，黑键。
-[name="黑键"]道什么歉......有什么好道歉的！
+[name="黑键"]道什么歉……有什么好道歉的！
 [name="白垩"]我现在的样子，一定很难看吧。
-[name="白垩"]一定把你为我定制的衣服都搞破了，这么贵的衣服......
+[name="白垩"]一定把你为我定制的衣服都搞破了，这么贵的衣服……
 [name="黑键"]别说了！你要是喜欢的话，你想要多少我都给你买！
 [name="白垩"]对不起——
-[name="黑键"]你这个......
-[name="黑键"]这个......骗子。
+[name="黑键"]你这个……
+[name="黑键"]这个……骗子。
 [name="黑键"]我现在很生气，白垩。
 [name="黑键"]我真的很生气！
 白垩虚弱得无法抬头，但他听得出黑键的哭腔。
@@ -1139,11 +1139,11 @@
 [character(name="avg_npc_496_1#1$1",name2="avg_npc_497_1#1$1",focus=1)]
 [name="惊慌的感染者"]到底是怎么了？出什么事了？
 [character(name="avg_npc_496_1#1$1",name2="avg_npc_497_1#1$1",focus=2)]
-[name="坚强的感染者"]不知道......可车尔尼先生都说了音乐会暂停，芙蓉那小姑娘又那么拼命地催我们走......
+[name="坚强的感染者"]不知道……可车尔尼先生都说了音乐会暂停，芙蓉那小姑娘又那么拼命地催我们走……
 [name="坚强的感染者"]没事的，我们会没事的。
 [character(name="avg_npc_496_1#1$1",name2="avg_npc_497_1#1$1",focus=1)]
-[name="惊慌的感染者"]可天突然阴下来了，会不会真的发生什么灾难......
-[name="惊慌的感染者"]你想，那个预言说了，合奏......
+[name="惊慌的感染者"]可天突然阴下来了，会不会真的发生什么灾难……
+[name="惊慌的感染者"]你想，那个预言说了，合奏……
 [character(name="avg_npc_496_1#1$1",name2="avg_npc_497_1#1$1",focus=2)]
 [name="坚强的感染者"]没事的，没事的。那个预言还说芙蓉是恶魔呢。
 [dialog]
@@ -1165,18 +1165,18 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=0.51)]
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#1$1",focus=1)]
-[name="黑键"]......我们到了。
+[name="黑键"]……我们到了。
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#1$1",focus=2)]
-[name="白垩"]......
+[name="白垩"]……
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#1$1",focus=1)]
 [name="黑键"]好点了吗？
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#1$1",focus=2)]
-[name="白垩"]没......
-[name="白垩"]我只是......强行把那种感觉压制住了。
+[name="白垩"]没……
+[name="白垩"]我只是……强行把那种感觉压制住了。
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#1$1",focus=1)]
 [name="黑键"]现在需要我怎么做，尽管告诉我——
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#3$1",focus=2)]
-[name="白垩"]我想......问你几个问题。
+[name="白垩"]我想……问你几个问题。
 [character(name="avg_4046_ebnhlz_1#13$2",name2="avg_npc_483_1#3$1",focus=1)]
 [name="黑键"]问！问多少都可以！
 [character(name="avg_4046_ebnhlz_1#13$2",name2="avg_npc_483_1#3$1",focus=2)]
@@ -1188,19 +1188,19 @@
 [name="黑键"]但遇到你之后我才发现，过去我只是在无病呻吟罢了。
 [character(name="avg_4046_ebnhlz_1#1$2",name2="avg_npc_483_1#2$1",focus=2)]
 [name="白垩"]这不是你的错。
-[name="白垩"]他们限制了你的自由，蒙上了你的眼睛，堵上了你的耳朵......这不是你的错。
+[name="白垩"]他们限制了你的自由，蒙上了你的眼睛，堵上了你的耳朵……这不是你的错。
 [character(name="avg_4046_ebnhlz_1#1$2",name2="avg_npc_483_1#3$1",focus=2)]
 [name="白垩"]那么，你觉得我的命运悲惨吗？
 [character(name="avg_4046_ebnhlz_1#13$2",name2="avg_npc_483_1#3$1",focus=1)]
 [name="黑键"]第一次接触到你的生活时，我确实被吓到了。
-[name="黑键"]但我渐渐发现，你的生活并不悲惨，反而很......充实。
+[name="黑键"]但我渐渐发现，你的生活并不悲惨，反而很……充实。
 [character(name="avg_4046_ebnhlz_1#13$2",name2="avg_npc_483_1#3$1",focus=2)]
 [name="白垩"]啊，那真是太好了。
 [character(name="avg_4046_ebnhlz_1#13$2",name2="avg_npc_483_1#4$1",focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="白垩"]咳、呕......
+[name="白垩"]咳、呕……
 [character(name="avg_4046_ebnhlz_1#4$2",name2="avg_npc_483_1#4$1",focus=1)]
-[name="黑键"]白垩，你......
+[name="黑键"]白垩，你……
 [character(name="avg_4046_ebnhlz_1#4$2",name2="avg_npc_483_1#4$1",focus=2)]
 [name="白垩"]我已经快要压制不住了，但是，听我说完，黑键。
 [name="白垩"]尘世之音铺成的乐曲在我脑内盘桓，巫王残留的力量在我体内嘶吼，残酷的念头正在我的胸中翻腾，它们逼迫我向命运低头。
@@ -1213,7 +1213,7 @@
 [name="白垩"]我不否认，尘世之音给我们带来了数不清的痛苦。
 [name="白垩"]我不否认，受尽侮辱和轻蔑的伯爵生涯实属不幸。
 [name="白垩"]我不否认，我朝不保夕的流浪经历的确可称悲惨。
-[name="白垩"]但我不同意......我决不同意，用这些词，定义我的人生。
+[name="白垩"]但我不同意……我决不同意，用这些词，定义我的人生。
 [name="白垩"]爷爷带着我这样一个累赘流浪了十几年，这十几年里，我过得很贫穷，我甚至无法和爷爷之外的任何人建立太深的联系。
 [character(name="avg_4046_ebnhlz_1#4$2",name2="avg_npc_483_1#3$1",focus=2)]
 [name="白垩"]但，只要我付出善意，我也能感受到他们的善意。
@@ -1224,9 +1224,9 @@
 [name="白垩"]当我们要诅咒自己的命运时，我们不能忘记这一点！
 [name="白垩"]我们重新相遇，重新成为朋友，并且在舞台上完成了一次完美的合奏！
 [name="白垩"]我们难道不幸运吗？
-[name="白垩"]我们已经太幸运了......还有比我们更幸运的人吗？没有了，再也没有了！
+[name="白垩"]我们已经太幸运了……还有比我们更幸运的人吗？没有了，再也没有了！
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#2$1",focus=1)]
-[name="黑键"]......我明白，我明白。
+[name="黑键"]……我明白，我明白。
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#3$1",focus=2)]
 [name="白垩"]不，你还不明白！
 [dialog]
@@ -1252,9 +1252,9 @@
 [character(name="avg_4046_ebnhlz_1#6$2",name2="avg_npc_483_1#2$1",focus=2)]
 [name="白垩"]用上你的一切手段，战胜我，别让我毁灭这里的一切，明白了吗？
 [character(name="avg_4046_ebnhlz_1#13$2",name2="avg_npc_483_1#2$1",focus=1)]
-[name="黑键"]......我知道了。
+[name="黑键"]……我知道了。
 [character(name="avg_4046_ebnhlz_1#13$2",name2="avg_npc_483_1#3$1",focus=2)]
-[name="白垩"]你现在的眼神......真不错。
+[name="白垩"]你现在的眼神……真不错。
 [Dialog]
 [character(fadetime=1.5)]
 [delay(time=3)]

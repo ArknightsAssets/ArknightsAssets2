@@ -6,7 +6,7 @@
 [Background(image="bg_corridor",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
-[Decision(options="......米娅", values="1")]
+[Decision(options="……米娅", values="1")]
 [Predicate(references="1")]
 [Decision(options="阿米娅。", values="1")]
 [Predicate(references="1")]
@@ -19,7 +19,7 @@
 [name="阿米娅"]  博士，你看，这里有一份内部的调岗申请。
 [name="阿米娅"]  申请人是，娜塔莉娅·罗斯托娃。
 [name="阿米娅"]  意向是从后勤部门调往前线。
-[Decision(options="是乌萨斯自治团的......;......;呃，是谁来着？", values="1;2;3")]
+[Decision(options="是乌萨斯自治团的……;……;呃，是谁来着？", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  是的，她是唯一一个在后勤部门工作的自治团成员。
@@ -36,27 +36,27 @@
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  博士你还记得吧，凛冬她们之所以能够成为干员，是因为她们本人的要求。
 [name="阿米娅"]  我一开始其实是很反对的。
-[Decision(options="毕竟她们才刚被救出来没多久......;......;我相信你的判断。", values="1;2;3")]
+[Decision(options="毕竟她们才刚被救出来没多久……;……;我相信你的判断。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  是的。原本，即使是她们本人的意向，我也会说服凯尔希医生否决掉的。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]  只是......
+[name="阿米娅"]  只是……
 [Predicate(references="2")]
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  她们有定期接受心理方面的辅导，从报告来看，她们虽然有一定的阴影，但总体是健康的。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]  只是......
+[name="阿米娅"]  只是……
 [Predicate(references="3")]
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  谢谢博士。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]  但是......
+[name="阿米娅"]  但是……
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#4")]
 [name="阿米娅"]  我不知道该怎么说比较好。
-[name="阿米娅"]  ......博士，你可以去看一看娜塔莉娅小姐吗？
-[Decision(options="好。;......;好麻烦。", values="1;2;3")]
+[name="阿米娅"]  ……博士，你可以去看一看娜塔莉娅小姐吗？
+[Decision(options="好。;……;好麻烦。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  那就拜托博士你了。
@@ -78,7 +78,7 @@
 [Character(name="char_115_headbr_9",fadetime=1,block=true)]
 [delay(time=1)]
 [name="凛冬"]  喂，博士。
-[Decision(options="有什么事吗？;......;嘿，凛冬。", values="1;2;3")]
+[Decision(options="有什么事吗？;……;嘿，凛冬。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_115_headbr_9")]
 [name="凛冬"]  没事，我只是看到你叫你一声。
@@ -98,7 +98,7 @@
 [delay(time=1)]
 [name="临光"]  凛冬，我说过，出发前不要随便走动。
 [Character(name="char_115_headbr_9", name2="char_148_nearl_1",focus=1)]
-[name="凛冬"]  ......
+[name="凛冬"]  ……
 [Character(name="char_148_nearl_1")]
 [name="临光"]  午安，博士。
 [name="临光"]  好了，凛冬，快回休息室去，该出发了。
@@ -121,11 +121,11 @@
 [Predicate(references="1")]
 [Character(name="char_148_nearl_1")]
 [name="临光"]  嗯？
-[name="临光"]  嗯......首先正如你刚才看到的，不服管教，目无尊长。
+[name="临光"]  嗯……首先正如你刚才看到的，不服管教，目无尊长。
 [name="临光"]  而且，作为战士，在这个年纪，往往不知道自己在和什么战斗，也不知道自己该为什么战斗，这很正常。
 [name="临光"]  但在她身上这一点尤为明显。
 [name="临光"]  她有着很重的迷茫，我不知道那是什么，但这是一个很不好的现象，是我接下来要重点纠正她的地方。
-[Decision(options="你是说，她只是看上去很凶狠？;......;唉，我还挺想跟她搞好关系的。", values="1;2;3")]
+[Decision(options="你是说，她只是看上去很凶狠？;……;唉，我还挺想跟她搞好关系的。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_148_nearl_1")]
 [name="临光"]  没错。外露的暴力是一种保护壳。
@@ -153,7 +153,7 @@
 [Character(name="char_196_sunbr_1#2",fadetime=1,block=true)]
 [delay(time=1)]
 [name="古米"]  咦，是博士！
-[Decision(options="中午好，古米。;......;咦，是古米！", values="1;2;3")]
+[Decision(options="中午好，古米。;……;咦，是古米！", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_196_sunbr_1#2")]
 [name="古米"]  博士中午好！
@@ -198,13 +198,13 @@
 [name="古米"]  各位不要急，都有份的！
 [Character(name="char_181_flower_1")]
 [name="调香师"]  古米真是个有活力的孩子，对吧，博士？
-[Decision(options="确实。;......;确实！", values="1;2;3")]
+[Decision(options="确实。;……;确实！", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_181_flower_1")]
 [name="调香师"]  有一次她在我的工作室里睡着了，说了一些梦话，让我稍微有些担心。
 [name="调香师"]  不过现在看到她已经开始融入罗德岛了，这样我就稍微放心了。
 [name="调香师"]  虽然或许没有办法马上变好，但是慢慢地，一定会好起来吧。
-[Decision(options="她说了什么梦话？;......;如果是这样就好了。", values="1;2;3")]
+[Decision(options="她说了什么梦话？;……;如果是这样就好了。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_181_flower_1")]
 [name="调香师"]  哎呀，博士，有时候直接并不是好事哦？
@@ -229,7 +229,7 @@
 [Character(name="char_195_glassb_2",fadetime=1,block=true)]
 [delay(time=1)]
 [name="真理"]  博士，您好。
-[Decision(options="中午好，真理。;......;今天的菜怎么样，真理？", values="1;2;3")]
+[Decision(options="中午好，真理。;……;今天的菜怎么样，真理？", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_195_glassb_2")]
 [name="真理"]  在食堂遇到博士这还是第一次呢。
@@ -238,7 +238,7 @@
 [name="真理"]  博士，你好像在思考什么事情，我建议你不要站在食堂门口思考。
 [Predicate(references="3")]
 [Character(name="char_195_glassb_2#2")]
-[name="真理"]  嗯......饭稍微有些硬，汤的话我觉得甜味有些太过了，不过菜色我相当喜欢。
+[name="真理"]  嗯……饭稍微有些硬，汤的话我觉得甜味有些太过了，不过菜色我相当喜欢。
 [Predicate(references="1;2;3")]
 [Character(name="char_195_glassb_2")]
 [name="真理"]  那么，博士，如果没有什么事的话，我先离开了。
@@ -248,7 +248,7 @@
 [Character(name="char_195_glassb_2")]
 [name="真理"]  是的，海帕提娅老师的历史课。
 [name="真理"]  在经过一段时间的尝试后，我发现海帕提娅老师讲授的历史对我是最有帮助的。
-[Decision(options="我可以帮你吗？;......;我也很懂历史！", values="1;2;3")]
+[Decision(options="我可以帮你吗？;……;我也很懂历史！", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_195_glassb_2")]
 [name="真理"]  唔，不。
@@ -269,7 +269,7 @@
 [Decision(options="你知道娜塔莉娅在哪里吗？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_195_glassb_2")]
-[name="真理"]  娜塔莉娅......您在找她吗？
+[name="真理"]  娜塔莉娅……您在找她吗？
 [name="真理"]  古米告诉我，她也想要成为前线干员，虽然我不知道申请有没有通过，不过以我对她的了解，她应该已经在为此做准备了。
 [Dialog]
 [Character]
@@ -293,7 +293,7 @@
 [name="烈夏"]  谁让你非要用这么大的家伙的。
 [name="烈夏"]  这是你在切尔诺伯格里找到的东西吧，扔掉换把更趁手的怎么样？
 [Character(name="char_194_rosali_1",name2="char_197_poca_1",focus=2)]
-[name="娜塔莉娅"]  呼，呼......这叫纪念。
+[name="娜塔莉娅"]  呼，呼……这叫纪念。
 [Character(name="char_194_rosali_1",name2="char_197_poca_1",focus=1)]
 [name="烈夏"]  好吧，那你可要努力啦。
 [Dialog]
@@ -303,7 +303,7 @@
 [Character(name="char_194_rosali_1",name2="char_197_poca_1",focus=1)]
 [name="烈夏"]  娜塔莉娅，我感觉你步子都迈不动啦，还是休息一会儿比较好哦。
 [Character(name="char_194_rosali_1",name2="char_197_poca_1#2",focus=2)]
-[name="娜塔莉娅"]  我还能坚持......
+[name="娜塔莉娅"]  我还能坚持……
 [Character(name="char_197_poca_1#2")]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="娜塔莉娅"]  呀啊！
@@ -314,14 +314,14 @@
 [Dialog]
 [Character(name="char_197_poca_1#2",fadetime=1,block=true)]
 [delay(time=1)]
-[name="娜塔莉娅"]  嘶......呼......对不起，我会加油的。
+[name="娜塔莉娅"]  嘶……呼……对不起，我会加油的。
 [Character(name="char_130_doberm_ex",name2="char_197_poca_1#2",focus=1)]
 [name="杜宾"]  但你的意志力比我想的要强很多，不错。
 [name="杜宾"]  你如果能坚持过这一轮训练，即使不成为干员，也会对你有好处。
 [Character(name="char_130_doberm_ex",name2="char_197_poca_1",focus=2)]
 [name="娜塔莉娅"]  谢谢您的夸奖。
 [Character(name="char_130_doberm_ex",name2="char_197_poca_1",focus=1)]
-[name="杜宾"]  嗯......嗯？
+[name="杜宾"]  嗯……嗯？
 [name="杜宾"]  你先休息一下吧。
 [Character(name="char_130_doberm_ex",name2="char_197_poca_1",focus=2)]
 [name="娜塔莉娅"]  是！
@@ -339,7 +339,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  博士，午休时间你该好好休息，这里不是你需要来的地方。
-[Decision(options="午安，杜宾教官。;......;我不能来吗？", values="1;2;3")]
+[Decision(options="午安，杜宾教官。;……;我不能来吗？", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  午安，博士。
@@ -358,7 +358,7 @@
 [name="杜宾"]  你还记得吧，凛冬、古米、真理、烈夏——
 [name="杜宾"]  好吧，烈夏这丫头比较例外，在战斗这方面，她确实不需要太担心。
 [name="杜宾"]  总之，这四个小姑娘申请的时候，阿米娅甚至想要强行不让她们通过的，只不过不知道为什么中途她改了主意。
-[name="杜宾"]  结果现在又来一个，她不在意我才觉得奇怪......
+[name="杜宾"]  结果现在又来一个，她不在意我才觉得奇怪……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -374,9 +374,9 @@
 [Character]
 [name="格瑞斯教官"]  娜塔莉娅，你应该再休息一会儿，锻炼最重要的是恢复，一味地死磕只会让你的身体垮掉。
 [Character(name="char_197_poca_1")]
-[name="娜塔莉娅"]  谢谢你，格瑞斯教官，不过我觉得我还能再坚持一下......
+[name="娜塔莉娅"]  谢谢你，格瑞斯教官，不过我觉得我还能再坚持一下……
 [Character]
-[name="格瑞斯教官"]  哎，你别怕杜宾，她虽然看起来很凶......
+[name="格瑞斯教官"]  哎，你别怕杜宾，她虽然看起来很凶……
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  格瑞斯，我听得到。
 [Character]
@@ -384,14 +384,14 @@
 [Character(name="char_197_poca_1")]
 [name="娜塔莉娅"]  嗯，总之请放心吧，撑不住的时候我会休息的。
 [Character]
-[name="格瑞斯教官"]  好吧......
+[name="格瑞斯教官"]  好吧……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  你觉得她怎么样？
-[Decision(options="她看起来很坚定。;......;她好拼命啊。", values="1;2;3")]
+[Decision(options="她看起来很坚定。;……;她好拼命啊。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  在你看来她很坚定吗？我不这么认为。
@@ -404,7 +404,7 @@
 [Predicate(references="3")]
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  她确实很拼命，老实说，她出乎了我的意料。
-[name="杜宾"]  一个能够拼命锻炼自己的贵族大小姐......呵。
+[name="杜宾"]  一个能够拼命锻炼自己的贵族大小姐……呵。
 [Predicate(references="1;2;3")]
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  我其实能够理解阿米娅不想让她们上战场的心情。
@@ -427,18 +427,18 @@
 [Decision(options="阿米娅是不是从凛冬她们身上看到了什么？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]  ......是的，这也是我对她们比较关注的一个原因。
+[name="阿米娅"]  ……是的，这也是我对她们比较关注的一个原因。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]  抱歉，博士，我之前......不太确定我是不是该把这个告诉别人。
+[name="阿米娅"]  抱歉，博士，我之前……不太确定我是不是该把这个告诉别人。
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  博士，你知道我的能力，当一个人拥有非常强烈的情感，并且指向我的时候，我是能够感受到对方的情感的。
 [name="阿米娅"]  如果不是指向我却足够强烈的话，我不会有很明显的感觉，但我还是能感受到一些。
-[name="阿米娅"]  而凛冬她们，我......很难说。
+[name="阿米娅"]  而凛冬她们，我……很难说。
 [name="阿米娅"]  她们的状况不太一样。
 [name="阿米娅"]  某一些瞬间，一些对我们来说很普通、平常的瞬间，我却会在其中感觉到她们庞大的情感。
 [name="阿米娅"]  当然，她们之间的情感都不一样，但也有一些共通的地方。
 [name="阿米娅"]  如果一定要我给我感受到的情感取个名字，我想，可能应该是无助吧。
-[name="阿米娅"]  她们没有那么悲伤，没有那么痛苦，没有那么愤怒，没有那么绝望......
+[name="阿米娅"]  她们没有那么悲伤，没有那么痛苦，没有那么愤怒，没有那么绝望……
 [name="阿米娅"]  我不知道这样形容对不对，就好像，好像有一堵无形的墙。
 [name="阿米娅"]  平时的时候，这堵墙看不见、摸不着，但当她们想要前进时就会挡住她们，让她们原地踏步。
 [Decision(options="我们可以为她们做些什么吗？", values="1")]
@@ -450,9 +450,9 @@
 [name="阿米娅"]  每个干员在登记档案时，她们愿意告诉我们的东西，就是我们“可以”了解的她们的一切了。
 [name="阿米娅"]  她们也许对我们隐瞒了什么，但如果是这样，我们就更没有理由一定要弄清。
 [name="阿米娅"]  当然，对罗德岛不利的事肯定不算在内啦，但我觉得至少凛冬她们肯定和这类事情无关。
-[name="阿米娅"]  而且......
+[name="阿米娅"]  而且……
 [name="阿米娅"]  我不觉得我们突然的帮助能够真的帮到她们。
-[Decision(options="擅自提供帮助是自我满足。;......;可以试试直接去问她们。", values="1;2;3")]
+[Decision(options="擅自提供帮助是自我满足。;……;可以试试直接去问她们。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#3")]
 [name="阿米娅"]  嗯，我也是这么想的。
@@ -481,14 +481,14 @@
 [name="阿米娅"]  但我没有办法，我不知道别的办法。
 [name="阿米娅"]  我能做的，只有尊重她们的选择，并且以我的，罗德岛的方法去保护她们。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]  其实就连这么去思考，我都觉得自己有些傲慢呢......
-[Decision(options="罗德岛不是温室，你能这么想已足够了。;......;那就和每个人都成为朋友吧。", values="1;2;3")]
+[name="阿米娅"]  其实就连这么去思考，我都觉得自己有些傲慢呢……
+[Decision(options="罗德岛不是温室，你能这么想已足够了。;……;那就和每个人都成为朋友吧。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1")]
 [name="阿米娅"]  嗯，但我总是希望能多做一些。
 [Predicate(references="2")]
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]  博士，怎么样才能治疗一个人，或者该不该去治疗她......从物理的角度来说，是很少需要考虑的事。
+[name="阿米娅"]  博士，怎么样才能治疗一个人，或者该不该去治疗她……从物理的角度来说，是很少需要考虑的事。
 [name="阿米娅"]  但是，精神层面的治疗，这就会变成一个困难的问题。
 [name="阿米娅"]  现在的我，只能给出这样模糊的答案。
 [Predicate(references="3")]
@@ -508,11 +508,11 @@
 [name="阿米娅"]  嗯，至少，我们已经在做了。
 [Character(name="char_002_amiya_1#2")]
 [name="阿米娅"]  谢谢你，博士。
-[name="阿米娅"]  明明是别人的事，感觉我却被博士安慰和鼓励了，感觉有些不好意思呢......
+[name="阿米娅"]  明明是别人的事，感觉我却被博士安慰和鼓励了，感觉有些不好意思呢……
 [name="阿米娅"]  那么，这一次，我也同意娜塔莉娅小姐的申请吧。
 [Character(name="char_002_amiya_1#3")]
 [name="阿米娅"]  希望有一天，她们愿意对我们敞开心扉。希望有一天，我们能够帮到她们。
-[name="阿米娅"]  希望有一天......罗德岛能成为她们的新家。
+[name="阿米娅"]  希望有一天……罗德岛能成为她们的新家。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
 [Image]

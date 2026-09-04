@@ -12,11 +12,11 @@
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="温和的贵族"] 多么美妙的夜晚，华灯衬得您容貌都更艳丽几分！快进来，他们正要弹一首好曲。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="美丽的贵族"] 哦，多谢......
+[name="美丽的贵族"] 哦，多谢……
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
 [name="美丽的贵族"] 您真是，专程出门来迎接，我哪当得起呢。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
-[name="温和的贵族"] 瞧这话说的，我可是发自真心地称赞，我敢打赌，那边弹钢琴的小伙子一瞧见您，保准连谱子都记不住了......
+[name="温和的贵族"] 瞧这话说的，我可是发自真心地称赞，我敢打赌，那边弹钢琴的小伙子一瞧见您，保准连谱子都记不住了……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(name="char_empty")]
@@ -40,7 +40,7 @@
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="温和的贵族"] 那位女士是帕萨多，我们摄影协会的一个成员，她非常喜欢最近刚崭露头角的摄影师——稀音。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="美丽的贵族"] 稀音？噢，是那位可爱的小姐！我前几日也欣赏过她的作品，那些画面时常让我觉得心旷神怡，能从其中感受到生命的喜悦......
+[name="美丽的贵族"] 稀音？噢，是那位可爱的小姐！我前几日也欣赏过她的作品，那些画面时常让我觉得心旷神怡，能从其中感受到生命的喜悦……
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="温和的贵族"] 是这样的，是这样的！
 [name="温和的贵族"] 一位可爱的摄影师小姐，她的名字之前从未在宴会之中出现过，却接连获得了众多奖项，谁会不想对她有更多的了解呢？
@@ -58,9 +58,9 @@
 [musicvolume(volume=0.4, fadetime=1)]
 [PlaySound(key="$doorknockquite")]
 [delay(time=1)]
-[name="？？？"]您好，是稀音小姐吗？我是之前来过信的那位......
+[name="？？？"]您好，是稀音小姐吗？我是之前来过信的那位……
 [Character(name="char_336_Scene_1",name2="avg_npc_145", focus=1)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="char_336_Scene_1",name2="avg_npc_145", focus=2)]
 [name="镜头"]哔哔！哔哔！
 [dialog]
@@ -97,25 +97,25 @@
 [name="温和的贵族"]我们协会有很多人都想找机会向您学习，也了解到了您不久后还有一次拍摄计划，想拍摄一部记录您创作过程的纪录片。
 [name="温和的贵族"]所以冒昧打扰，能否让我们跟随稀音小姐，观摩一下您这样一位对摄影有独到理解的摄影师，是如何拍出背后蕴含深刻含义的影像的？
 [name="温和的贵族"]毕竟您也知道，很多人很难找到自己想做的事，也有很多人找到了之后，不知道应该如何再精进一步，去达到自己理想中的状态。
-[name="温和的贵族"]能参与一次实地摄影，对于很多新人来讲是一段非常宝贵的经历，他们能跟您这样有经验的前辈学到很多......
-[name="温和的贵族"]......
-[name="温和的贵族"]......呃，稀音小姐？
+[name="温和的贵族"]能参与一次实地摄影，对于很多新人来讲是一段非常宝贵的经历，他们能跟您这样有经验的前辈学到很多……
+[name="温和的贵族"]……
+[name="温和的贵族"]……呃，稀音小姐？
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=1)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="avg_npc_145")]
 [name="镜头"]哔哔！
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]啊、啊......？
+[name="温和的贵族"]啊、啊……？
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=1)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=1)]
-[name="稀音"]......嗯。
+[name="稀音"]……嗯。
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=1)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="avg_npc_145")]
 [name="镜头"]哔哔！哔哔！
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]啊、啊，好的！稀音小姐这是同意了？非常感谢，那么，您的行程是......？
+[name="温和的贵族"]啊、啊，好的！稀音小姐这是同意了？非常感谢，那么，您的行程是……？
 [Dialog]
 [character]
 [delay(time=1)]
@@ -138,11 +138,11 @@
 [character(fadetime=1)]
 [Delay(time=1)]
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]这、战场废墟？稀音小姐......
+[name="温和的贵族"]这、战场废墟？稀音小姐……
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=1)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]......
+[name="温和的贵族"]……
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
 [name="温和的贵族"]嗯、好、好，届时我们会给稀音小姐提供一份我们参加人员的名单。您还有什么要求吗？
 [Character(name="avg_npc_145")]
@@ -162,7 +162,7 @@
 [delay(time=1)]
 [dialog]
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]啊......
+[name="温和的贵族"]啊……
 [playsound(key="$d_avg_scroll")]
 [delay(time=1)]
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
@@ -170,21 +170,21 @@
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
 [name="温和的贵族"]好的好的，稀音小姐的要求我明白了，我也会传达清楚的。
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]那么，我先......？
+[name="温和的贵族"]那么，我先……？
 [Character(name="avg_npc_145")]
 [name="镜头"]哔哔！
 [Character(name="avg_npc_145")]
 [name="M.P.M一号"]嘀——嘀——
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=1)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=1)]
-[name="稀音"]......嗯。
+[name="稀音"]……嗯。
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]......
+[name="温和的贵族"]……
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
 [name="温和的贵族"]期待我们下次见面的日子，稀音小姐。再会。
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
-[name="温和的贵族"]（和之前想的完全不一样，而且这个人......是怎么回事，完全不动的，她......）
+[name="温和的贵族"]（和之前想的完全不一样，而且这个人……是怎么回事，完全不动的，她……）
 [Character(name="char_336_Scene_1",name2="avg_npc_176", focus=2)]
 [name="温和的贵族"]（算了，有她这个新人获奖者的名声在，不可能砸的。）
 [Dialog]
@@ -198,19 +198,19 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_145",name2="char_336_Scene_1", focus=2)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="avg_npc_145",name2="char_336_Scene_1", focus=1)]
 [name="镜头"]哔哔！
 [Character(name="avg_npc_145",name2="char_336_Scene_1", focus=2)]
-[multiline(name="稀音")] ......
+[multiline(name="稀音")] ……
 [multiline(name="稀音",delay=0.2)] 是这里
-[multiline(name="稀音")] ......
+[multiline(name="稀音")] ……
 [multiline(name="稀音",delay=0.2)] 很遗憾
-[multiline(name="稀音")] ......
+[multiline(name="稀音")] ……
 [multiline(name="稀音",delay=0.2)] 真正的
-[multiline(name="稀音")] ......
+[multiline(name="稀音")] ……
 [multiline(name="稀音",delay=0.2)] 不能去
-[multiline(name="稀音")] ......
+[multiline(name="稀音")] ……
 [dialog]
 [character(name="avg_npc_145",name2="char_336_Scene_1")]
 [PlaySound(key="$skill_flash", volume=1)]
@@ -265,18 +265,18 @@
 [character(fadetime=1)]
 [delay(time=1.5)]
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="美丽的贵族"] ......
+[name="美丽的贵族"] ……
 [name="美丽的贵族"] 他们走远了，那我们？
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="温和的贵族"] 好了，我们该走了。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="美丽的贵族"] 应该再待一会儿才行......
+[name="美丽的贵族"] 应该再待一会儿才行……
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="温和的贵族"] 这种地方，拿在手里，贴在墙上，才最有欣赏的意义。亲临其境，反而会失去背后的感受。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="温和的贵族"] 车已经来了，我们走吧。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="美丽的贵族"] ......
+[name="美丽的贵族"] ……
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -288,7 +288,7 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_npc_145",name2="char_336_Scene_1", focus=2)]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="avg_npc_145",name2="char_336_Scene_1", focus=1)]
 [name="镜头"]哔哔！
 [Character(name="avg_npc_243")]
@@ -314,7 +314,7 @@
 [name="急躁的拍摄人员"]“年轻人都喜欢往这种地方钻，好显摆自己思想的深度。”
 [name="急躁的拍摄人员"]“最多不过三天，她必然会走。”
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]......这种话我觉得不太好吧。
+[name="平和的拍摄人员"]……这种话我觉得不太好吧。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]这片子我还觉得拍不下去呢。
 [Character(name="avg_npc_243")]
@@ -371,7 +371,7 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]听听我的，多长长见识，以后不会被这种人骗！
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]是这样吗......
+[name="平和的拍摄人员"]是这样吗……
 [Character(name="avg_npc_243")]
 [name="帕萨多"]那我先去了。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
@@ -391,9 +391,9 @@
 [playsound(key="$d_avg_devicebeep")]
 [delay(time=1)]
 [Character(name="avg_npc_243")]
-[name="帕萨多"]“战场对于每个人来讲都有其不同的意义，我并不清楚这些废墟和残架让稀音小姐看到了什么，只是......”
+[name="帕萨多"]“战场对于每个人来讲都有其不同的意义，我并不清楚这些废墟和残架让稀音小姐看到了什么，只是……”
 [Character(name="avg_npc_243")]
-[name="帕萨多"]那些话不应该在这里说......
+[name="帕萨多"]那些话不应该在这里说……
 [Character(name="avg_npc_243")]
 [name="帕萨多"]“所有的拍摄都刚刚开始，我期待这次自己能拍出不错的纪录片。”
 [Dialog]
@@ -411,7 +411,7 @@
 [name="平和的拍摄人员"]“午餐时间到了，我们原本以为稀音小姐会停下工作回我们的帐篷那里用餐，我们的食物储备都放在那里。”
 [Character(name="avg_npc_242")]
 [name="平和的拍摄人员"]“但是并没有，她似乎随身带了速食食品，然后简单地解决了一下午餐。”
-[name="平和的拍摄人员"]“嗯......我把这些都记录下来，或许对我们更加了解她有很大的帮助。”
+[name="平和的拍摄人员"]“嗯……我把这些都记录下来，或许对我们更加了解她有很大的帮助。”
 [Character(name="avg_npc_243")]
 [name="帕萨多"]你们要不先回去吃，吃完了回来替我。现在稀音小姐正在拍那个弹坑，我想把这段拍下来。
 [Character(name="avg_npc_242")]
@@ -459,7 +459,7 @@
 [Delay(time=3)]
 [musicvolume(volume=0.4, fadetime=3)]
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]......这几天我都没有睡好，早晨起来头好痛。
+[name="平和的拍摄人员"]……这几天我都没有睡好，早晨起来头好痛。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]起那么早干什么，拍的素材又不会变，就是她什么话都不说地拍照。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
@@ -495,7 +495,7 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]玻利瓦尔来的。跑这里来参加摄影协会给贵族干活，听说这次要拍的是战场就主动来了，是看这个活是他们亲自指定的，想捞好处吧。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]......背后说人不好，我们别说了吧。
+[name="平和的拍摄人员"]……背后说人不好，我们别说了吧。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]这算什么，这种人知道自己肯定会被别人在背后说，你不说她还觉得奇怪呢。
 [dialog]
@@ -506,11 +506,11 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]“摄影竟然也是这样一份好活儿了，那我拍这个纪录片能赚多少工钱？”
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]这些话不能说的吧......？
+[name="平和的拍摄人员"]这些话不能说的吧……？
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]哈，反正素材剪辑也是我干又不是你，我心里有数。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]行吧......
+[name="平和的拍摄人员"]行吧……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -525,7 +525,7 @@
 [Character(name="avg_npc_243")]
 [name="帕萨多"]稀音小姐，今天要不回营地吃饭？我们早上烧了点热水，可以做点热的东西吃。
 [Character(name="char_336_Scene_1")]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]喂！
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
@@ -533,7 +533,7 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]她那些机器人能给她把事情都做好，你先关心你自己吧！
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]......哎，别生气。
+[name="平和的拍摄人员"]……哎，别生气。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
 [name="平和的拍摄人员"]我再去多烧点就行了，热水肯定用不完的。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
@@ -545,7 +545,7 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]这人拍完可是名利双收啊，你能拿到什么，还烧水。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]别说了，这就是我们的工作，我......
+[name="平和的拍摄人员"]别说了，这就是我们的工作，我……
 [Character(name="avg_npc_243")]
 [name="帕萨多"]我去烧。
 [dialog]
@@ -555,7 +555,7 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]瞧这人多会做事啊？！
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]别吵架啊......
+[name="平和的拍摄人员"]别吵架啊……
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]我是在教你！
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
@@ -565,7 +565,7 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]别傻了！
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]那、那我们也可以去拍自己喜欢的啊......
+[name="平和的拍摄人员"]那、那我们也可以去拍自己喜欢的啊……
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
 [name="平和的拍摄人员"]就像稀音小姐那样，拍自己想拍的不就好——
 [characteraction(name="left", type="jump", xpos=150, power=0, times=1, fadetime=0.3,block=true)]
@@ -585,12 +585,12 @@
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=1)]
 [name="急躁的拍摄人员"]你不值得我教。这个片子也不值得我浪费时间。
 [Character(name="avg_npc_242",name2="avg_npc_242", focus=2)]
-[name="平和的拍摄人员"]我......
+[name="平和的拍摄人员"]我……
 [dialog]
 [character]
 [delay(time=1)]
 [Character(name="avg_npc_145",name2="char_336_Scene_1", focus=2)]
-[name="稀音"]......
+[name="稀音"]……
 [characteraction(name="left", type="move", xpos=200, fadetime=1,block=false)]
 [Delay(time=1)]
 [characteraction(name="left", type="move", xpos=-400, fadetime=2.5,block=true)]
@@ -618,36 +618,36 @@
 [Character(name="avg_npc_242")]
 [name="平和的拍摄人员"]“今天斯特离开了。”
 [Character(name="avg_npc_242")]
-[name="平和的拍摄人员"]“他似乎对这场拍摄有很多想法......或者不只是这场拍摄。”
+[name="平和的拍摄人员"]“他似乎对这场拍摄有很多想法……或者不只是这场拍摄。”
 [Character(name="avg_npc_242")]
 [name="平和的拍摄人员"]“我还不能走，我需要把这份工作做完。也许和他说的一样，我确实只要能在这里面表达出一点我想要传达的思想，就会很开心。”
 [Character(name="avg_npc_242")]
-[name="平和的拍摄人员"]“我无法像稀音小姐他们那样拍出完全属于自己的作品，但我也确实不......”
+[name="平和的拍摄人员"]“我无法像稀音小姐他们那样拍出完全属于自己的作品，但我也确实不……”
 [Character(name="avg_npc_242")]
-[name="平和的拍摄人员"]不对，这些话不应该记录在这里，要把它们删了......
+[name="平和的拍摄人员"]不对，这些话不应该记录在这里，要把它们删了……
 [Character(name="avg_npc_242")]
 [name="平和的拍摄人员"]“从这些日子的拍摄来看，稀音小姐似乎钟爱在最振奋人心的时候记录下那一时刻的场景。”
 [Character(name="avg_npc_242")]
 [name="平和的拍摄人员"]“战场废墟本身就有很多值得挖掘的地方，而且这里的条件比想象中的还要艰难，我也是第一次来这种地方。”
 [Character(name="avg_npc_242")]
-[name="平和的拍摄人员"]“现在拍摄人员减少了，我在担心......”
+[name="平和的拍摄人员"]“现在拍摄人员减少了，我在担心……”
 [Character(name="avg_npc_242")]
 [name="平和的拍摄人员"]哦，你回来了？来录一点吧。
 [Character(name="avg_npc_243")]
 [name="帕萨多"]斯特走了？
 [Character(name="avg_npc_242")]
-[name="平和的拍摄人员"]......嗯。
+[name="平和的拍摄人员"]……嗯。
 [Character(name="avg_npc_243")]
 [name="帕萨多"]他从一开始就不喜欢这次拍摄。
 [Character(name="avg_npc_242")]
-[name="平和的拍摄人员"]我在想......这次的拍摄还能继续下去吗？
+[name="平和的拍摄人员"]我在想……这次的拍摄还能继续下去吗？
 [Character(name="avg_npc_243")]
-[name="帕萨多"]......
+[name="帕萨多"]……
 [dialog]
 [playsound(key="$d_avg_devicebeep")]
 [delay(time=1)]
 [Character(name="avg_npc_243")]
-[name="帕萨多"]“我拍到了自己想要的战场废墟影像。和亲身所经历的不同......我也不希望它们是相同的，我试图了解一场战争。”
+[name="帕萨多"]“我拍到了自己想要的战场废墟影像。和亲身所经历的不同……我也不希望它们是相同的，我试图了解一场战争。”
 [Character(name="avg_npc_243")]
 [name="帕萨多"]“拍摄稀音小姐的这段日子，我能体会到她是真心地为表现这片废墟而努力着。”
 [Character(name="avg_npc_243")]
@@ -683,7 +683,7 @@
 [Delay(time=2)]
 [Character(name="avg_npc_145",name2="char_336_Scene_1", fadetime=0.7)]
 [delay(time=0.7)]
-[name="稀音"]......
+[name="稀音"]……
 [character(name="avg_npc_145",name2="char_336_Scene_1")]
 [PlaySound(key="$skill_flash", volume=1)]
 [characteraction(name="left",type="jump",power=30,times=1,duration=0.5,block=false)]
@@ -728,7 +728,7 @@
 [Character(name="avg_npc_243")]
 [name="帕萨多"]“我也拍摄够了能做出纪录片的素材，我——”
 [Character(name="char_336_Scene_1")]
-[name="稀音"]......
+[name="稀音"]……
 [Character(name="avg_npc_243")]
 [name="帕萨多"]——嗯，稀音小姐？
 [Character(name="avg_npc_145")]
@@ -741,12 +741,12 @@
 [Character(name="avg_npc_243")]
 [name="帕萨多"]唔，坐下说吧，稀音小姐。
 [Character(name="char_336_Scene_1")]
-[name="稀音"]......
+[name="稀音"]……
 [dialog]
 [character(fadetime=0.5)]
 [delay(time=1.2)]
 [Character(name="avg_npc_243")]
-[name="帕萨多"]稀音小姐看到战场会想到什么？文明和野蛮的相互倾轧，历史洪流的涌动，还是......一些最基础的，失去了生命的人？
+[name="帕萨多"]稀音小姐看到战场会想到什么？文明和野蛮的相互倾轧，历史洪流的涌动，还是……一些最基础的，失去了生命的人？
 [Character(name="avg_npc_243")]
 [name="帕萨多"]我来拍战场，是因为战争曾夺去了我的一切。
 [Character(name="avg_npc_243")]

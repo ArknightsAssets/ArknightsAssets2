@@ -28,7 +28,7 @@
 [delay(time=1)]
 可转瞬间，一切狂暴的景象都完全静滞了。
 因为她睁开了眼，看到了那个弱小的生灵。
-[name="？？？"]（未知语言）连接......不稳定。
+[name="？？？"]（未知语言）连接……不稳定。
 [name="？？？"]（未知语言）是你？
 [dialog]
 [StopSound(channel="sea", fadetime=2)]
@@ -41,12 +41,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [name="冷静的声音"]（未知语言）你们的行为让我很意外。
-[name="冷静的声音"]（未知语言）......“特蕾西娅”“特雷西斯”。
+[name="冷静的声音"]（未知语言）……“特蕾西娅”“特雷西斯”。
 特雷西斯对于眼前的空间毫无认知，或许只是另一种死亡前的幻觉——
 直到他听到了可以被他理解的熟悉语言。
 [name="冷静的声音"]嗯，不过或许这本就是那个人期望见到的结果？
 [name="冷静的声音"]你们的意图就和你们的语言一般可以被轻易洞悉。
-[name="冷静的声音"]泰拉的演变进程的确给我带来了很多的惊喜......但很可惜。
+[name="冷静的声音"]泰拉的演变进程的确给我带来了很多的惊喜……但很可惜。
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot = "m", name = "avg_npc_1297_1#1$1", duration = 1.5, isblock=true)]
@@ -55,7 +55,7 @@
 [name="特雷西斯"]那又为何躲着不敢见我？
 [dialog]
 [charslot]
-他若有所思，轻轻挥动着手中的长剑，引导杂乱的信息流划过纯白的空间......
+他若有所思，轻轻挥动着手中的长剑，引导杂乱的信息流划过纯白的空间……
 [dialog]
 [PlaySound(key="$d_avg_phntsmbrek", volume=1)]
 [PlaySound(key="$d_avg_phntsmglsbrek", volume=1)]
@@ -75,14 +75,14 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="普瑞赛斯"]......你们的确在我的项目里非法搭建了后门，还屏蔽了我的部分权限。
+[name="普瑞赛斯"]……你们的确在我的项目里非法搭建了后门，还屏蔽了我的部分权限。
 [name="普瑞赛斯"]数据告诉我，我正在失去这一枚源石。我的维护目前看来收效甚微。
 [name="普瑞赛斯"]应该称赞你们，贸然的举动起到了效果。
 眼前这个轻声言语失败的人并没有给特雷西斯带来任何实质上的压迫感。
 但这反倒让他更加警惕。
 [name="特雷西斯"]你傲慢的态度让我想到了另外一个人。
 [name="特雷西斯"]那个人的确欺骗了我，来自上一个时代的恶灵，并不是只有一人。
-[name="普瑞赛斯"]Dr.{@nickname}......看来你们已经见过面了。
+[name="普瑞赛斯"]Dr.{@nickname}……看来你们已经见过面了。
 [name="普瑞赛斯"]那我也来做一下自我介绍好了。
 [name="普瑞赛斯"]普瑞赛斯，语言学家，Dr.{@nickname}的合作伙伴。
 特雷西斯不在乎普瑞赛斯是谁。
@@ -94,7 +94,7 @@
 [Delay(time=2)]
 [name="普瑞赛斯"]你急于对抗毫无认知的现实，特雷西斯。
 [name="普瑞赛斯"]当初与{@nickname}在卡兹戴尔边境合谋时，你表现得冷静得多。
-[name="特雷西斯"]你在监视......
+[name="特雷西斯"]你在监视……
 [name="普瑞赛斯"]监视？不。
 [name="普瑞赛斯"]我早就没有观察一个新诞文明演化历程的精力和热情了。
 [name="普瑞赛斯"]只是刚刚检查了源石里新增的数据，顺便确认了些我感兴趣的信息。
@@ -105,9 +105,9 @@
 [name="特雷西斯"]你认为源石无可撼动，可她打开了通往这里的道路，也从这里解放了众魂。
 [name="特雷西斯"]作为反抗者，她不是第一个，我也不会是最后一个。总会有人站到你面前——
 [name="特雷西斯"]直到再也没有人可以玩弄萨卡兹的命运。
-[name="普瑞赛斯"]“命运”......你依然认为，源石站在你们文明命运的对立面？
-[name="普瑞赛斯"]如果你真的了解你们族群的历史，那你是否疑惑过......为什么你们会演化成与我们相近的模样？
-[name="特雷西斯"]......
+[name="普瑞赛斯"]“命运”……你依然认为，源石站在你们文明命运的对立面？
+[name="普瑞赛斯"]如果你真的了解你们族群的历史，那你是否疑惑过……为什么你们会演化成与我们相近的模样？
+[name="特雷西斯"]……
 [name="普瑞赛斯"]很遗憾，你仍然对你所对抗的事物一无所知。
 [dialog]
 [Image(image="60_i23", screenadapt="coverall", xScale=1.05, yScale=1.05, fadetime=2)]
@@ -116,18 +116,18 @@
 构成这里的本质，与特蕾西娅所编织的高塔并无不同——被重构的信息。
 特蕾西娅已经将钥匙留给了他，他有把握能结束眼下这诡异的局面。
 [name="普瑞赛斯"]看来你注意到了。
-[name="特雷西斯"]......你并非实体，我们依旧还在那片海洋之中。
+[name="特雷西斯"]……你并非实体，我们依旧还在那片海洋之中。
 [name="普瑞赛斯"]虚与实在源石的语言中并不存在截然相反的定义。
 [name="普瑞赛斯"]创造这门语言之初，我希望它能解读我们用尽一切资源都难以解答的终极问题——
 [name="普瑞赛斯"]“祂”。
-[name="普瑞赛斯"]{@nickname}也曾对这片大地上的物种抱有期许......用源石指引它们演化与寻找希望，赠与它们面对祂，甚至是跨过祂的机会。
+[name="普瑞赛斯"]{@nickname}也曾对这片大地上的物种抱有期许……用源石指引它们演化与寻找希望，赠与它们面对祂，甚至是跨过祂的机会。
 [name="普瑞赛斯"]可惜事实是，它们终究会经历绝望。
 [name="普瑞赛斯"]“提卡兹”，你们本不在计划之中，却意外成为了对源石污染最为严重的物种。
 [name="普瑞赛斯"]你站在这里，连我都不得不赞叹你们的勇气。
-[name="特雷西斯"]“意外”......这就是你对我们命运的总结？
+[name="特雷西斯"]“意外”……这就是你对我们命运的总结？
 [name="特雷西斯"]你们的确很像，普瑞赛斯。
 [name="特雷西斯"]将被你们肆意玩弄的命运称作希望的馈赠，将绵延万年的苦痛视为理所应当的牺牲。
-[name="特雷西斯"]......但至少，{@nickname}比你更加坦诚。
+[name="特雷西斯"]……但至少，{@nickname}比你更加坦诚。
 [dialog]
 [PlaySound(key="$d_avg_swrdgnlght", volume=1)]
 [PlaySound(key="$d_avg_tswordlight", volume=1)]
@@ -146,7 +146,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="特雷西斯"]......没有变化？
+[name="特雷西斯"]……没有变化？
 [charslot]
 特雷西斯闭上了眼，抬起了手中剑。
 [charslot(slot = "m", name = "avg_npc_1718_1#1$1")]
@@ -213,7 +213,7 @@
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_1297_1#1$1")]
 [name="特雷西斯"]你并非静滞了一切。
-[name="特雷西斯"]你想要拖延时间，又或者只是为了嘲弄一个可悲种族的挣扎......
+[name="特雷西斯"]你想要拖延时间，又或者只是为了嘲弄一个可悲种族的挣扎……
 [charslot(slot = "m", name = "avg_npc_1297_1#4$1")]
 [name="特雷西斯"]随便你，普瑞赛斯。
 [dialog]
@@ -237,7 +237,7 @@
 [Delay(time=0.5)]
 [PlaySound(key="$d_avg_mnwtrfll", volume=0.4, loop=true, channel="mn")]
 金色的海水彻底冲破了苍白的墙壁，疯狂地涌入这片仿佛没有边际的白色空间。
-浪潮迅速吞噬摧毁着目之所及的一切，却唯独被普瑞赛斯的身体挡住，切割......
+浪潮迅速吞噬摧毁着目之所及的一切，却唯独被普瑞赛斯的身体挡住，切割……
 就像一道彗星的黑色尾巴，在狂暴的浪涌中留下了最后一块宁静的地块。
 [charslot(slot = "m", name = "avg_npc_1297_1#1$1")]
 [name="特雷西斯"]你和这枚源石的联系正在减弱，你在消散。
@@ -304,16 +304,16 @@
 [curtain(direction = 2,fillfrom = 0.5,fillto = 0, grad = true, fadetime=4)]
 [curtain(direction = 6,fillfrom = 0.5,fillto = 0, grad = true, fadetime=4)]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=2, block=true)]
-[Sticker(id="st1", multi = true, text="异常代码识别......识别失败。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n路径推演......推演失败。",block = true)]
+[Sticker(id="st1", multi = true, text="异常代码识别……识别失败。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n路径推演……推演失败。",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n——重启底层运算区域——",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n危机等级评估中...... ",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n危机等级评估中…… ",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n重复。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [name="伊万杰利斯塔十一世"]本来还在想，除了找到接任者，我这个教宗剩下的工作只有给孩子们发糖果了。
-[name="伊万杰利斯塔十一世"]......
+[name="伊万杰利斯塔十一世"]……
 [name="伊万杰利斯塔十一世"]你，从未给予过这样的启示。
 [dialog]
 [StopSound(channel="a", fadetime=2)]
@@ -332,16 +332,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Blocker(a=0.8, r=0, g=0, b=0, fadetime=1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
-[name="“保存者”"]（未知语言）数据涌入......源石......
+[name="“保存者”"]（未知语言）数据涌入……源石……
 [name="“保存者”"]（未知语言）是警告，还是又一缕希望消散的余音？
-[name="“保存者”"]（未知语言）同胞，你在何处，又遭遇了什么......？
+[name="“保存者”"]（未知语言）同胞，你在何处，又遭遇了什么……？
 [dialog]
 [PlaySound(key="$d_avg_openftstpwalk", volume=1)]
 [Delay(time=3)]
 [PlaySound(key="$d_avg_energybody", volume=1)]
 [Background(image="38_g8_storage", screenadapt="coverall", fadetime=1)]
 [Delay(time=1.5)]
-[name="“保存者”"]......
+[name="“保存者”"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -353,7 +353,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_npc_1116_1#6$1", duration=1.5, isblock=true)]
-[name="巫王"]......
+[name="巫王"]……
 [dialog]
 [charslot(slot = "m", focus="n")]
 风掠过王座，君王的目光从疆域外的混沌深处移开。
@@ -361,7 +361,7 @@
 [name="巫王"]秩序之外的乐声，何以存于我的帕维永，我的莱塔尼亚？
 [name="巫王"]万物始源的痕迹？
 [charslot(slot = "m", name = "avg_npc_1116_1#7$1")]
-[name="巫王"]......
+[name="巫王"]……
 [dialog]
 [StopSound(channel="f", fadetime=2)]
 [stopmusic(fadetime=2)]
@@ -375,7 +375,7 @@
 普瑞赛斯的身形彻底被金色信息浪涌冲散，消失无踪。
 而信息之海更加肆意地冲刷着特雷西斯。
 他的思维变得浑浊，他的身躯开始皲裂。
-信息的浪涌带走了他伤口中涌出的鲜血，源石的结晶在他的每一个细胞中蔓延生长......
+信息的浪涌带走了他伤口中涌出的鲜血，源石的结晶在他的每一个细胞中蔓延生长……
 [dialog]
 [StopSound(channel="mn", fadetime=2)]
 [PlaySound(key="$d_avg_underwtr", volume=1, loop=true, channel="c")]
@@ -403,7 +403,7 @@
 他甚至不再能听到自己的心跳。这里只剩他一人。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1724_1#1$1", duration=1.5, isblock=true)]
-[name="特雷西斯"]......
+[name="特雷西斯"]……
 [dialog]
 [charslot(duration=1.5, isblock=true)]
 这里已经不再有停留的意义。
@@ -412,20 +412,20 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
-虚空中的菱形越发黯淡，破碎......
+虚空中的菱形越发黯淡，破碎……
 普瑞赛斯刚刚清醒的意志开始重新陷入休眠。
 源石的扩散远远没有达到她的预期，而今，她更是意外地失去了部分源石的权限。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1718_1#2$1", duration=1, isblock=true)]
 [delay(time=0.5)]
 [name="普瑞赛斯"]两个泰拉人，一个被忽视的脆弱种族。
-[name="普瑞赛斯"]我想，我开始理解为何你如此在意他们了......{@nickname}。
+[name="普瑞赛斯"]我想，我开始理解为何你如此在意他们了……{@nickname}。
 [dialog]
 [charslot(duration=2, isblock=true)]
-在她意识重归沉寂的最后时刻，她将目光投向了那片名为“泰拉”的大地......
+在她意识重归沉寂的最后时刻，她将目光投向了那片名为“泰拉”的大地……
 她看到了被称为“博士”的人在卡特斯和AMa-10的陪同下走入通往地底王座厅的黝黑通道——
 她看到了那座名为“伦蒂尼姆”的城市正在战火中哀嚎——
-......她看到了死亡——
+……她看到了死亡——
 一位正在崩解的卡特斯，她的信息正融入这片内化宇宙的信息之海——
 然后，她伸出了手。
 [dialog]
@@ -446,7 +446,7 @@
 [charslot(slot = "m", name = "avg_npc_1725_1#1$1")]
 [name="屈光者"]（未知语言）旅客，你不想念你的家乡吗？
 [charslot(slot = "m", name = "avg_npc_1719_1#10$1")]
-[name="希尔达"]......
+[name="希尔达"]……
 [charslot]
 “想念”。
 ——卡特斯生活在这艘承载着神人的舰船上时，她回答过这个问题许多次。
@@ -463,13 +463,13 @@
 他们不会改变。
 他们只是数据的再现。
 [charslot(slot = "m", name = "avg_npc_1719_1#3$1")]
-[name="希尔达"]......
+[name="希尔达"]……
 [charslot(slot = "m", name = "avg_npc_1719_1#1$1")]
 [name="希尔达"]（未知语言）好。
 [charslot(slot = "m", focus="n")]
 卡特斯望着舷窗外的深空，她心中默数着，三十秒之后，恒星的光芒会再次照亮破碎行星的表面。
 [charslot(slot = "m", name = "avg_npc_1719_1#9$1")]
-[name="希尔达"]明明见过很多次，但还是忍不住惊叹......
+[name="希尔达"]明明见过很多次，但还是忍不住惊叹……
 [name="希尔达"]生命和死亡同时出现——
 [charslot]
 这是她从未在那片大地上见过的景象，可她并不希望她的同胞看到这幅景象。
@@ -507,7 +507,7 @@
 [name="普瑞赛斯"]你可以留下，继续学习那些你所渴望的知识，去解答你自己内心的疑惑。
 [name="普瑞赛斯"]或者，我可以送你回家。
 [charslot(slot = "m", name = "avg_npc_1719_1#6$1")]
-[name="希尔达"]......回家？回到泰拉？！
+[name="希尔达"]……回家？回到泰拉？！
 [charslot(slot = "m", name = "avg_npc_1718_1#1$1")]
 [name="普瑞赛斯"]但那意味着你可能会彻底失去解答内心困惑的机会。
 [name="普瑞赛斯"]你也会发现自己与曾经的同胞截然不同，那会使你更加痛苦。
@@ -532,9 +532,9 @@
 [PlaySound(key="$d_avg_snowstormflp", volume=0, loop=true, channel="sn")]
 [SoundVolume(volume=1, channel="sn",fadetime=4)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=4, block=true)]
-[Decision(options="......这里......", values="1")]
+[Decision(options="……这里……", values="1")]
 [Predicate(references="1")]
-[Decision(options="......不是Abyss......", values="1")]
+[Decision(options="……不是Abyss……", values="1")]
 [Predicate(references="1")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$char_Mon3tr")]
@@ -550,7 +550,7 @@
 [dialog]
 [bgeffect(name="$eb_originiumrain",fade = true, fadetime = 2,layer=1)]
 [Delay(time=3)]
-[Decision(options="黑色的......雨？", values="1")]
+[Decision(options="黑色的……雨？", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_003_kalts_1#6$1")]
 [name="凯尔希"]不，是巨量的源石粉尘，做好防护。
@@ -566,7 +566,7 @@
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#10$3")]
 [name="阿米娅"]凯尔希医生，我们的脚下！
-[name="阿米娅"]整个甲板正在快速结晶化，这样下去......
+[name="阿米娅"]整个甲板正在快速结晶化，这样下去……
 [charslot]
 黑色的源石粉尘在甲板上堆积，细小的源石晶簇如同野草般生长。
 甚至是在你目之所及的大地上，它们都在以肉眼可见的速度蔓延开去。阳光中，它们闪耀着迷人的光泽。
@@ -575,7 +575,7 @@
 [charslot(slot = "m", name = "avg_1037_amiya3_1#10$3")]
 [multiline(name="阿米娅")]好的！
 [charslot(slot = "m", name = "avg_1037_amiya3_1#4$3")]
-[multiline(name="阿米娅",end=true)]不......不行！所有通讯都失效了——
+[multiline(name="阿米娅",end=true)]不……不行！所有通讯都失效了——
 [dialog]
 [charslot]
 [Decision(options="太安静了。", values="1")]
@@ -586,7 +586,7 @@
 [Predicate(references="1")]
 你低头看向脚下已经完全被源石覆盖的甲板，上面只倒映着你的影子。
 [dialog]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#5$3")]
 [name="阿米娅"]博士——
@@ -594,7 +594,7 @@
 [charslot]
 你转过头，却发现凯尔希震惊的表情。
 [dialog]
-[Decision(options="......凯尔希？", values="1")]
+[Decision(options="……凯尔希？", values="1")]
 [Predicate(references="1")]
 [charslot]
 [StopSound(channel="sn", fadetime=2)]
@@ -636,7 +636,7 @@
 你所能看到的所有色彩开始重新聚合，如同一道泛着彩虹光晕的白色幕布缓缓降了下来。
 那是一种纯粹的，没有沾染杂质的白色，温柔地披在了甲板上那一簇源石结晶上——
 [dialog]
-[Decision(options="结晶......", values="1")]
+[Decision(options="结晶……", values="1")]
 [Predicate(references="1")]
 [PlaySound(key="$d_avg_crystalmagic_grow", volume=1)]
 [Image(image="60_i24_4", screenadapt="coverall", fadetime=3)]
@@ -651,7 +651,7 @@
 黑色的结晶正从她的腿上缓缓退开，而白色的光已为她披上了外衣。
 白与黑的天地，以及——
 [dialog]
-[Decision(options="......;普瑞赛斯。", values="1;2")]
+[Decision(options="……;普瑞赛斯。", values="1;2")]
 [Predicate(references="1;2")]
 她远眺着这片于她而言早已陌生的大地。
 [dialog]

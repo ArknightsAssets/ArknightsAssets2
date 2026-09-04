@@ -106,9 +106,9 @@
 [charslot(slot="l",name="avg_npc_699_1#1$1",focus="r")]
 [name="领头的打手"]盯紧她，别让她跑了！
 [charslot(slot="l",name="avg_npc_699_1#1$1",focus="l")]
-[name="慌张的打手"]她......她好像没有要躲的意思。
+[name="慌张的打手"]她……她好像没有要躲的意思。
 [charslot(slot="r",name="avg_npc_698_1#1$1",focus="r")]
-[name="领头的打手"]......让其他人都聚过来！
+[name="领头的打手"]……让其他人都聚过来！
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -123,7 +123,7 @@
 [Delay(time=1)]
 狭窄的胡同里，一群凶神恶煞的打手，正将提着琴盒的少女团团围住。
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
-[name="领头的打手"]又见面了......海铃。
+[name="领头的打手"]又见面了……海铃。
 [name="领头的打手"]呵，我一开始还在想，你这种高手，怎么没有一个家族把你纳入麾下。
 [name="领头的打手"]我们家族遭难后，四处打听，才知道你原来是个臭名昭著的“叛徒”。
 [name="领头的打手"]你前后换过十几个名字，在各个家族间来回接活。
@@ -134,33 +134,33 @@
 [CameraShake(duration=0.3, xstrength=12, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="领头的打手"]所以你就把我们的机密告诉了对家？！
 [charslot(slot="m",name="avg_4186_tmoris_1#12$3",focus="m")]
-[name="八幡海铃"]......我不懂你在说什么。
+[name="八幡海铃"]……我不懂你在说什么。
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
 [name="领头的打手"]*哥伦比亚粗口*，别装傻了！自从你来过后，我们的人就不断遭到暗算！
 [name="领头的打手"]亏我和老大当时那么信任你，还邀请你加入我们！
 [charslot(slot="m",name="avg_4186_tmoris_1#7$3",focus="m")]
-[name="八幡海铃"]弗朗西斯，我不记得我有做过什么对不起你们的事......
+[name="八幡海铃"]弗朗西斯，我不记得我有做过什么对不起你们的事……
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
 [name="弗朗西斯"]哼，是你亏欠的人实在太多，想都想不起来了吧？！
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="弗朗西斯"]老大死了，大家都死了，几百号人现在只剩我们十几个了！
 [charslot(slot="m",name="avg_4186_tmoris_1#7$3",focus="m")]
-[name="八幡海铃"]......什么意思？
+[name="八幡海铃"]……什么意思？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
 [name="弗朗西斯"]我们一帮兄弟好不容易从哥伦比亚漂泊到这鬼地方，全栽在你一个人手上了！
 [charslot(slot="m",name="avg_4186_tmoris_1#7$3",focus="m")]
-[name="八幡海铃"]我......
+[name="八幡海铃"]我……
 [charslot(slot="m",name="avg_npc_699_1#1$1",focus="m")]
 [name="愤怒的打手"]别跟她废话了，我们这么多人在这，今天必须给她个教训！
 [charslot(slot="m",name="avg_4186_tmoris_1#12$3",focus="m")]
-[name="八幡海铃"]我不想和你们起冲突......
+[name="八幡海铃"]我不想和你们起冲突……
 [Dialog]
 [charslot]
 虽然海铃努力想要通过言语平息冲突，但对方逼近的脚步没有丝毫停下的意思——
 她不得不放下了拿在手上的琴盒。
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
-[name="弗朗西斯"]所有人......跟我上！
+[name="弗朗西斯"]所有人……跟我上！
 [Dialog]
 [PlaySound(key="$d_avg_swordexsheath", volume=1)]
 [PlaySound(key="$d_avg_attack_ready",volume=0.6,delay=0.7)]
@@ -179,7 +179,7 @@
 [Delay(time=1)]
 [name="好心的老妇人"]小姐，不要再往前走了。
 [name="好心的老妇人"]那边刚发生了点事，你一个人去不安全。赶紧绕路吧。
-[name="戴着帽子的少女"]......谢谢提醒。
+[name="戴着帽子的少女"]……谢谢提醒。
 少女并没有理会路人的劝告，而是朝她说的方向继续走去。
 [Dialog]
 [PlaySound(key="$d_avg_shallowswalk",volume=1)]
@@ -201,10 +201,10 @@
 [charslot(slot="m",name="avg_4182_oblvns_1#2$3",duration=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4182_oblvns_1#2$3",focus="m")]
-[name="丰川祥子"]......
-[name="丰川祥子"]海铃......你在哪里？
+[name="丰川祥子"]……
+[name="丰川祥子"]海铃……你在哪里？
 [charslot(slot="m",name="avg_4182_oblvns_1#2$3",focus="n")]
-[name="？？？"]你在......找海铃吗？
+[name="？？？"]你在……找海铃吗？
 [Dialog]
 [charslot(slot="m",name="avg_4182_oblvns_1#2$3",focus="m")]
 [Delay(time=1)]
@@ -236,7 +236,7 @@
 [PlaySound(key="$d_avg_papertear", volume=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4186_tmoris_1#7$3",focus="m")]
-[name="八幡海铃"]......嗯？
+[name="八幡海铃"]……嗯？
 [Dialog]
 [charslot]
 海铃再次确认了一遍——这封信里什么都没有。
@@ -277,8 +277,8 @@
 [charslot(slot="m",name="avg_4186_tmoris_1#7$3",focus="n")]
 [name="苍老的声音"]我想——邀请你加入我的家族。
 [charslot(slot="m",name="avg_4186_tmoris_1#6$3",focus="m")]
-[name="八幡海铃"]......
-[name="八幡海铃"]你说......什么？
+[name="八幡海铃"]……
+[name="八幡海铃"]你说……什么？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -302,35 +302,35 @@
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
 [name="丰川祥子"]你明明那么怕她，为什么还要跟过来？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
-[name="弗朗西斯"]你不是家族成员，当然不懂！我必须......替大家报仇雪恨！
+[name="弗朗西斯"]你不是家族成员，当然不懂！我必须……替大家报仇雪恨！
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
 [name="丰川祥子"]你们和海铃之间到底发生过什么事，她那么不可饶恕吗？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
-[name="弗朗西斯"]你如果经历过这种“背叛”，一定也不会原谅她......
+[name="弗朗西斯"]你如果经历过这种“背叛”，一定也不会原谅她……
 [name="弗朗西斯"]我们家族大部分成员都是从哥伦比亚拓荒区逃难至此的普通人，缺少人脉和资源，所以经常会遭到各种本地帮派的挤对。
 [name="弗朗西斯"]这种情况持续了很多年，直到有一天，老大花重金请来了一个打手。
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
 [name="丰川祥子"]那个人是海铃？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
 [name="弗朗西斯"]嗯。雇佣她以后，我们度过了很长一段时间的安稳日子。
-[name="弗朗西斯"]那段日子真的很美好，再也不用担心据点突然被人偷袭，也不用担心有人上门来找麻烦......
+[name="弗朗西斯"]那段日子真的很美好，再也不用担心据点突然被人偷袭，也不用担心有人上门来找麻烦……
 [name="弗朗西斯"]但我们邀请她加入我们家族时，她却拒绝了，而且第二天她整个人还直接消失了。
 [name="弗朗西斯"]正当我们觉得疑惑的时候，不知道谁引来的对家打手，偷袭了我们的据点。
-[name="弗朗西斯"]那场面我至今都不愿回想......实在太惨了！
+[name="弗朗西斯"]那场面我至今都不愿回想……实在太惨了！
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
 [name="丰川祥子"]你觉得是海铃出卖了你们？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
 [name="弗朗西斯"]除了她还能是谁，哪有这么巧合的事情？！
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="m")]
-[name="丰川祥子"]......我不相信海铃会做出这种背信弃义的事。
+[name="丰川祥子"]……我不相信海铃会做出这种背信弃义的事。
 [name="丰川祥子"]我认识的海铃，和你说的一样，能力强大，令人安心。
 [name="丰川祥子"]而且会对自己加入的组织尽职尽责。
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
-[name="弗朗西斯"]可是，事实就摆在我面前......
+[name="弗朗西斯"]可是，事实就摆在我面前……
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
 [name="丰川祥子"]你有在那帮偷袭你的人中，看见她的身影吗？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
-[name="弗朗西斯"]......没有。
+[name="弗朗西斯"]……没有。
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
 [name="丰川祥子"]那你还记得那些偷袭者的面貌吗？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
@@ -339,10 +339,10 @@
 [charslot]
 祥子深吸了一口气，将手伸向了口袋里的防身武器。
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
-[name="丰川祥子"]如果......是有人故意离间你们呢？
-[name="丰川祥子"]如果......是有人一直在监视海铃呢？
+[name="丰川祥子"]如果……是有人故意离间你们呢？
+[name="丰川祥子"]如果……是有人一直在监视海铃呢？
 [charslot(slot="m",name="avg_npc_698_1#1$1",focus="m")]
-[name="弗朗西斯"]......你这是什么意思？
+[name="弗朗西斯"]……你这是什么意思？
 [Dialog]
 [charslot]
 [stopmusic(fadetime=2)]

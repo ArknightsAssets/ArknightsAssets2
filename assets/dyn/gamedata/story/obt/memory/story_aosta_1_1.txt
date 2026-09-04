@@ -70,11 +70,11 @@
 [name="医疗干员"]柏喙小姐基本上只主动去找人做衣服，梓兰小姐基本上是提供一些穿搭经验，你要是开个小摊，就是独一份呀！
 [Dialog]
 [Character(name="avg_346_aosta_1#2$1")]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [Character(name="avg_346_aosta_1#2$1",name2="avg_npc_088",focus=2)]
 [name="术师干员"]不过看你的表情，你是不是还没和她们说过话？
 [Character(name="avg_346_aosta_1#3$1",name2="avg_npc_088",focus=1)]
-[name="奥斯塔"]嗯......是的。说实在的，你们都是听了贾维的话才来找我的，但我其实还没想过要给其他干员做衣服挂件这些事情。
+[name="奥斯塔"]嗯……是的。说实在的，你们都是听了贾维的话才来找我的，但我其实还没想过要给其他干员做衣服挂件这些事情。
 [name="奥斯塔"]我也还不认识你说的这两位干员。
 [Character(name="avg_346_aosta_1#3$1",name2="avg_npc_088",focus=2)]
 [name="术师干员"]我就这么一提啦~不过柏喙和梓兰小姐她们都是很好相处的人，你要是想和她们聊聊，肯定不会有问题的。
@@ -130,7 +130,7 @@
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]您好，我是奥斯塔，今天也一起来上课。
 [Character(name="char_278_orchid_1#6")]
-[name="梓兰"]“您”？不用这么礼貌啦。你比我组里的人看起来顺眼多了，和他们待久了，有点不敢相信罗德岛上还有这样的好孩子......啊。
+[name="梓兰"]“您”？不用这么礼貌啦。你比我组里的人看起来顺眼多了，和他们待久了，有点不敢相信罗德岛上还有这样的好孩子……啊。
 [Character(name="avg_npc_090")]
 [name="认真的干员"]真好，我还以为只有我一个男干员呢！
 [Character(name="char_278_orchid_1#6")]
@@ -143,21 +143,21 @@
 [Delay(time=1)]
 整个仓库逐渐充满了小声但热烈的讨论，所有人都沉浸在缝纫的世界里。
 [Character(name="avg_346_aosta_1#1$1")]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [Character(name="avg_346_aosta_1#2$1")]
 [name="奥斯塔"]（呃，现在就去问肯定不太好。）
 [StopSound(channel="a", fadetime=2)]
 [name="奥斯塔"]（他们看起来都互相认识，我要不要过去融入一下话题？）
-[name="奥斯塔"]（柏喙干员和梓兰干员......源石结晶......啊。）
+[name="奥斯塔"]（柏喙干员和梓兰干员……源石结晶……啊。）
 [Character(name="avg_346_aosta_1#3$1")]
-[name="奥斯塔"]（她们二位也得了矿石病啊......）
+[name="奥斯塔"]（她们二位也得了矿石病啊……）
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]（看上去都好开心，是因为找到了自己喜欢做的事吗？）
 [Character(name="avg_346_aosta_1#2$1")]
-[name="奥斯塔"]（这个仓库......里面放满了柏喙干员的材料啊，怪不得那个干员也建议我申请一下。）
-[name="奥斯塔"]......
+[name="奥斯塔"]（这个仓库……里面放满了柏喙干员的材料啊，怪不得那个干员也建议我申请一下。）
+[name="奥斯塔"]……
 [Character(name="avg_346_aosta_1#1$1")]
-[name="奥斯塔"]嗯......
+[name="奥斯塔"]嗯……
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -168,10 +168,10 @@
 [Character]
 柏喙和梓兰已经全身心地投入到讨论中去，无暇分心。
 [Character(name="avg_346_aosta_1#1$1",name2="avg_npc_090",focus=1)]
-[name="奥斯塔"]......哦，好的，让我来看一下。
+[name="奥斯塔"]……哦，好的，让我来看一下。
 [name="奥斯塔"]是图片上这种样式的吗？
 [Character(name="avg_346_aosta_1#3$1",name2="avg_npc_090",focus=1)]
-[name="奥斯塔"]我明白了......这种编法有些复杂，如果有那种固定编织的工作台......
+[name="奥斯塔"]我明白了……这种编法有些复杂，如果有那种固定编织的工作台……
 [Character(name="avg_346_aosta_1#3$1",name2="avg_npc_090",focus=2)]
 [name="认真的干员"]是这种吗？在这里有。
 [Character(name="avg_346_aosta_1#1$1",name2="avg_npc_090",focus=1)]
@@ -180,14 +180,14 @@
 [name="认真的干员"]嗯，谢谢。
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [Character(name="avg_346_aosta_1#2$1",name2="avg_npc_090",focus=1)]
-[name="奥斯塔"]......你说用这种毛线会不会光泽度更好一点？
+[name="奥斯塔"]……你说用这种毛线会不会光泽度更好一点？
 [Character(name="avg_346_aosta_1#2$1",name2="avg_npc_090",focus=2)]
 [name="认真的干员"]唔，灯照上去确实会比原来这条看上去温润一些，她应该会喜欢。
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [Character(name="avg_346_aosta_1#2$1",name2="avg_npc_090",focus=1)]
-[name="奥斯塔"]......还有这种，在毛线里穿上这些碎粒，会增加一些......说不出来，但更加精致了。
+[name="奥斯塔"]……还有这种，在毛线里穿上这些碎粒，会增加一些……说不出来，但更加精致了。
 [Character(name="avg_346_aosta_1#2$1",name2="avg_npc_090",focus=2)]
-[name="认真的干员"]我看看......
+[name="认真的干员"]我看看……
 [Dialog]
 [Delay(time=1)]
 [name="认真的干员"]哇哦，你叫奥斯塔对吗，你接不接单？
@@ -199,7 +199,7 @@
 [Character(name="avg_346_aosta_1#1$1",name2="avg_npc_090",focus=1)]
 [name="奥斯塔"]不要紧，缝一下就好了。
 [Character(name="avg_346_aosta_1#2$1",name2="avg_npc_090",focus=1)]
-[name="奥斯塔"]那个，请问针在哪里......？
+[name="奥斯塔"]那个，请问针在哪里……？
 [Character(name="char_278_orchid_1#1")]
 [name="梓兰"]在你背后，柜子抽屉拉开——第三层？或者第四层！
 [Character(name="char_252_bibeak_1#1")]
@@ -207,7 +207,7 @@
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]谢谢，我只用一下针线就好了。
 [PlaySound(key="$d_avg_clothmovement",volume=0.4)]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [Dialog]
 [Character(name="avg_346_aosta_1#1$1",name2="char_empty")]
 [PlaySound(key="$d_gen_walk_n", volume=1,loop=true,channel="b")]
@@ -230,9 +230,9 @@
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]赶紧过来，你这个口子太不雅观了，我给你缝上。
 [Character(name="avg_346_aosta_1#2$1")]
-[name="奥斯塔"]线呢？这里还剩一卷......这是白的还是黑的？好脏，你是带着它在泥里开派对了吗？
+[name="奥斯塔"]线呢？这里还剩一卷……这是白的还是黑的？好脏，你是带着它在泥里开派对了吗？
 [Character(name="char_349_chiave#1")]
-[name="贾维"]嗯......花的？看不出来，你管他呢，能用就行！
+[name="贾维"]嗯……花的？看不出来，你管他呢，能用就行！
 [Character(name="char_356_broca#3")]
 [name="布洛卡"]别忘了，做完这个活，我们回去后还要去买布料，做点新的衣服。
 [Character(name="avg_346_aosta_1#1$1")]
@@ -271,9 +271,9 @@
 [Character(name="avg_346_aosta_1#1$1",name2="avg_npc_090",focus=1)]
 [name="奥斯塔"]没事，破了一点点，也不流血了，我抹一下就行了。
 [Character(name="char_278_orchid_1#3")]
-[name="梓兰"]被划破了吗？等下，我这里......果然有！随身带的创可贴，备了好几个呢，因为不知道什么时候在哪里就能用到。
+[name="梓兰"]被划破了吗？等下，我这里……果然有！随身带的创可贴，备了好几个呢，因为不知道什么时候在哪里就能用到。
 [Character(name="avg_346_aosta_1#1$1",name2="char_278_orchid_1#5",focus=2)]
-[name="梓兰"]把胳膊伸出来。我自己还备了个小医疗箱，就害怕谁哪天磕碰了，可以救个急......我怎么这么熟练？
+[name="梓兰"]把胳膊伸出来。我自己还备了个小医疗箱，就害怕谁哪天磕碰了，可以救个急……我怎么这么熟练？
 [name="梓兰"]算了，过来吧。
 [Character(name="avg_346_aosta_1#2$1",name2="char_278_orchid_1#5",focus=1)]
 [name="奥斯塔"]其实不用——
@@ -286,25 +286,25 @@
 [Character(name="avg_346_aosta_1#1$1",name2="char_278_orchid_1#6",focus=2)]
 [name="梓兰"]好好消毒。
 [Character(name="avg_346_aosta_1#1$1",name2="char_278_orchid_1#6",focus=1)]
-[name="奥斯塔"]......好。
+[name="奥斯塔"]……好。
 [Character(name="char_252_bibeak_1#1")]
 [name="柏喙"]噗。
 [Character(name="avg_346_aosta_1#2$1",name2="char_278_orchid_1#1",focus=2)]
 [name="梓兰"]就算伤口只有一点点，被钉子划破了也是要消毒的，万一上面有锈之类的东西，感染了可是大问题。
 [Character(name="avg_346_aosta_1#2$1",name2="char_278_orchid_1#3",focus=2)]
-[name="梓兰"]......哦哦？你这个表情我好像在谁脸上看到过，你是不是想说这点小伤不算什么之类的话？
+[name="梓兰"]……哦哦？你这个表情我好像在谁脸上看到过，你是不是想说这点小伤不算什么之类的话？
 [name="梓兰"]以前不管怎么样都是以前，现在你在罗德岛上。
 [Character(name="avg_346_aosta_1#2$1",name2="char_278_orchid_1#6",focus=2)]
 [name="梓兰"]有条件了当然就要把条件运用到最好，对吧？
 [Character(name="avg_346_aosta_1#1$1",name2="char_278_orchid_1#6",focus=1)]
-[name="奥斯塔"]嗯......贴好了，谢谢。
+[name="奥斯塔"]嗯……贴好了，谢谢。
 [name="奥斯塔"]我继续做吧。
 [Character(name="avg_npc_090")]
 [name="认真的干员"]剩下的我来吧？我在旁边已经看得差不多了，而且本来就是我要送给别人的礼物，你衣服和胳膊都破了，我还拜托你继续做，说不过去。
 [name="认真的干员"]不过真的很谢谢你！帮了我这么大一个忙，下次你出任务我也跟着，结束后我给你买件新的外套！
 [name="认真的干员"]嘿嘿，我从小都想这么干，等我有能力自己挣钱，一定要买什么礼物好好感谢身边帮了我的人，你这个兄弟我交上了！
 [Character(name="avg_346_aosta_1#2$1")]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -320,13 +320,13 @@
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]你们小时候有没有想过长大了以后要成为什么？
 [Character(name="char_349_chiave#4")]
-[name="贾维"]还有这种事？我想的是什么......成为家族老大？
+[name="贾维"]还有这种事？我想的是什么……成为家族老大？
 [Character(name="char_356_broca#2")]
-[name="布洛卡"]......没想过。
+[name="布洛卡"]……没想过。
 [Character(name="avg_346_aosta_1#1$1")]
-[name="奥斯塔"]我之前......
+[name="奥斯塔"]我之前……
 [Character(name="avg_346_aosta_1#2$1")]
-[name="奥斯塔"]在拿起武器之前，在父亲让我跟随他之前......
+[name="奥斯塔"]在拿起武器之前，在父亲让我跟随他之前……
 [name="奥斯塔"]我想成为一名公务员，过那种安稳的生活。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -344,13 +344,13 @@
 [name="梓兰"]想遮住身上的源石啊，放心，这样一搭配就什么都看不出来了。
 [name="梓兰"]不过我最近也在想，我为什么要把它一直藏着呢？
 [Character(name="char_278_orchid_1#6",name2="char_252_bibeak_1#1",focus=2)]
-[name="柏喙"]我也这样想过......
+[name="柏喙"]我也这样想过……
 [Dialog]
 [Character(name="avg_346_aosta_1#1$1")]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [name="奥斯塔"]还是我来把它编完吧。
 [name="奥斯塔"]（啊，本来还想跟她们聊聊的。）
-[name="奥斯塔"]（......现在看来，不去聊也没什么问题了？）
+[name="奥斯塔"]（……现在看来，不去聊也没什么问题了？）
 [Dialog]
 [Character(name="avg_346_aosta_1#3$1")]
 [Delay(time=1)]
@@ -358,9 +358,9 @@
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]（我好像一直没能想清楚这件事情。）
 [Character(name="avg_346_aosta_1#6$1")]
-[name="奥斯塔"]呼......
+[name="奥斯塔"]呼……
 [Character(name="avg_npc_090")]
-[name="认真的干员"]奥斯塔......？
+[name="认真的干员"]奥斯塔……？
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]唔，不好意思，走了一下神。
 [Dialog]
@@ -389,7 +389,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_346_aosta_1#1$1",name2="char_empty")]
 [characteraction(name="left", type="move", xpos=200, fadetime=0, block=true)]
-[name="奥斯塔"]......这些布料......刚才他们几个硬塞给我的。
+[name="奥斯塔"]……这些布料……刚才他们几个硬塞给我的。
 [Dialog]
 [playsound(key="$d_gen_walk_n", loop=true, channel="c")]
 [Characteraction(name="left", type="move", xpos=-55, fadetime=1.8,block=true)]
@@ -401,12 +401,12 @@
 [Characteraction(name="left", type="move", xpos=-55, fadetime=1.8,block=true)]
 [Delay(time=1)]
 [StopSound(channel="d", fadetime=1)]
-[name="奥斯塔"]还有刚才柏喙说的......她想让我也多一点尝试，她自己走出来了以后觉得走出来很好......
+[name="奥斯塔"]还有刚才柏喙说的……她想让我也多一点尝试，她自己走出来了以后觉得走出来很好……
 [Dialog]
 [playsound(key="$d_gen_walk_n", loop=true, channel="e")]
 [Characteraction(name="left", type="move", xpos=-55, fadetime=1.8,block=true)]
 [StopSound(channel="e", fadetime=1)]
-[name="奥斯塔"]嗯......
+[name="奥斯塔"]嗯……
 [Dialog]
 [Delay(time=1)]
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#4",fadetime=0.5)]
@@ -422,7 +422,7 @@
 [Character(name="avg_346_aosta_1#5$1",name2="char_349_chiave#1",focus=2)]
 [name="贾维"]嘿嘿！猜猜我刚才干了什么！！
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#1",focus=1)]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [name="奥斯塔"]没兴趣。
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#4",focus=2)]
 [name="贾维"]小爷我刚才可是——技压群雄！
@@ -442,7 +442,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="贾维"]罗德岛第一届嘴里塞小圆饼大赛，二十六个！谁还能强过小爷我？
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#4",focus=1)]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [name="奥斯塔"]居然有人和你一起疯，食堂阿姨也没打死你？真是命大。
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#1",focus=2)]
 [characteraction(name="right", type="move", xpos=-50, fadetime=0,block=true)]
@@ -458,7 +458,7 @@
 [name="奥斯塔"]你可以是个起点。
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#3",focus=2)]
 [characteraction(name="right", type="move", xpos=-50, fadetime=0,block=true)]
-[name="贾维"]......
+[name="贾维"]……
 [name="贾维"]别以为我听不出来你在损我！
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#1",focus=2)]
 [characteraction(name="right", type="move", xpos=-50, fadetime=0,block=true)]
@@ -467,7 +467,7 @@
 [characteraction(name="right", type="move", xpos=-50, fadetime=0,block=true)]
 [name="贾维"]哈哈哈哈哈，冠军！
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#4",focus=1)]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [Character(name="avg_346_aosta_1#1$1",name2="char_349_chiave#4")]
 [characteraction(name="right", type="move", xpos=-50, fadetime=0,block=true)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -487,17 +487,17 @@
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]这是什么东西？
 [Character(name="char_356_broca#2")]
-[name="布洛卡"]......哇哦。
+[name="布洛卡"]……哇哦。
 [Character(name="char_349_chiave#4")]
 [name="贾维"]看不出来吗？小爷我痛击家族手下的英勇场景！
 [Character(name="avg_346_aosta_1#1$1")]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [Character(name="char_349_chiave#3")]
 [name="贾维"]哎，笑一下嘛！至于吗？不就是又被追着打，咱们这样的次数还少吗？等他们追来了再跑不就行了！
 [Character(name="char_349_chiave#1")]
 [name="贾维"]车都在这里，想那么多干什么！
 [Character(name="avg_346_aosta_1#1$1")]
-[name="奥斯塔"]......嗯。
+[name="奥斯塔"]……嗯。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -507,11 +507,11 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_346_aosta_1#1$1")]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [Character(name="avg_346_aosta_1#6$1")]
-[name="奥斯塔"]呼......
+[name="奥斯塔"]呼……
 [Character(name="avg_346_aosta_1#6$1")]
-[name="奥斯塔"]这里真的是安全得......不像样。
+[name="奥斯塔"]这里真的是安全得……不像样。
 奥斯塔手里仍旧是那几卷布料样品，它们沉重但柔软，很温暖。
 他看着贾维跑远的身影，飞起来的头发丝里都写满了开心，不再是以前苦中作乐的样子。
 [Character(name="avg_346_aosta_1#7$1")]
@@ -533,7 +533,7 @@
 [Character(name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]好的。
 [Character(name="avg_346_aosta_1#3$1")]
-[name="奥斯塔"]......
+[name="奥斯塔"]……
 [Character(name="avg_346_aosta_1#7$1")]
 [name="奥斯塔"]博士，我能在舰内开一家DIY室吗？
 [Dialog]

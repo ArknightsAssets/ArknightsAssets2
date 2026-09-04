@@ -12,7 +12,7 @@
 [PlaySound(key="$d_avg_erthshkng")]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_2100_1#10$1",focus="m")]
-[name="宝巫迦"]唔......
+[name="宝巫迦"]唔……
 [charslot(slot="m",name="avg_npc_2100_1#10$1",focus="m")]
 [name="宝巫迦"]为什么，吾的身体到底怎么了——
 [dialog]
@@ -47,7 +47,7 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#5$2",focus="m")]
 [name="梓兰"]宝巫迦，你的身体怎么了？
 [charslot(slot="m",name="avg_npc_2100_1#10$1",focus="m")]
-[name="宝巫迦"]吾......不知道，只是，吾能感觉到，有一股无比邪恶的能量在牵引着吾的身体......
+[name="宝巫迦"]吾……不知道，只是，吾能感觉到，有一股无比邪恶的能量在牵引着吾的身体……
 [charslot(slot="m",name="avg_1049_catap2_1#1$2",focus="m")]
 [name="空爆"]放心吧，这里交给你空爆姐姐就好了！
 [charslot(slot="m",name="avg_1049_catap2_1#3$2",focus="m")]
@@ -144,14 +144,14 @@
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
 [name="宝巫迦"]放心，“异兽”彻底死了。
 [charslot(slot="m",name="avg_1048_orchd2_1#9$2",focus="m")]
-[name="梓兰"]宝巫迦，你......
+[name="梓兰"]宝巫迦，你……
 [PlayMusic(key="$calm_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]吾的身体没事了。吾能感觉到，刚才一直牵引着吾的某种东西消失了。
 [charslot(slot="m",name="avg_1048_orchd2_1#4$2",focus="m")]
 [name="梓兰"]那究竟是什么？
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
-[name="宝巫迦"]吾......不知道。
+[name="宝巫迦"]吾……不知道。
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]不过，至少两位可以放心，吾等已经完成了对“异兽”的狩猎。接下来，吾会按照传统，将两位送回家乡。
 [dialog]
@@ -193,7 +193,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]月见夜，你要让两位“异兽猎人”以为吾国不知感恩吗？
 [charslot(slot="m",name="avg_npc_2101_1#6$1",focus="m")]
-[name="月见夜"]......换作以往，听说“异兽”被狩猎，泡影国的人们或许会欢欣鼓舞。
+[name="月见夜"]……换作以往，听说“异兽”被狩猎，泡影国的人们或许会欢欣鼓舞。
 [charslot(slot="m",name="avg_npc_2101_1#6$1",focus="m")]
 [name="月见夜"]但现在，“雷之主”的影响还未消去，不是举办祭典的时候。
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
@@ -217,7 +217,7 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#6$2",focus="m")]
 [name="梓兰"]不过，这样就可以了吗？
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]......是的，这样就可以了。
+[name="宝巫迦"]……是的，这样就可以了。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -313,9 +313,9 @@
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_1049_catap2_1#7$2",focus="m")]
 [playMusic(intro="$plot_intro", key="$plot_loop", volume=0.6)]
-[name="空爆"]这家伙......长得像牙兽，但又根本不是牙兽......到底是怎么回事？！
+[name="空爆"]这家伙……长得像牙兽，但又根本不是牙兽……到底是怎么回事？！
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]咒鬼......为什么咒鬼会出现在这里？！
+[name="宝巫迦"]咒鬼……为什么咒鬼会出现在这里？！
 [charslot(slot="m",name="avg_1049_catap2_1#8$2",focus="m")]
 [name="空爆"]咒鬼？！
 [dialog]
@@ -325,15 +325,15 @@
 [Delay(time=1)]
 [name="梓兰"]月见夜，到底怎么回事？！
 [charslot(slot="m",name="avg_npc_2101_1#10$1",focus="m")]
-[name="月见夜"]咒鬼是禁忌......
+[name="月见夜"]咒鬼是禁忌……
 [charslot(slot="m",name="avg_npc_2101_1#10$1",focus="m")]
 [name="月见夜"]在泡影国的历史上，曾经发生过一次巨大的灾难，在那次灾难之中，被“诅咒”侵染的狼群毁灭了曾经的泡影国。
 [charslot(slot="m",name="avg_npc_2101_1#10$1",focus="m")]
 [name="月见夜"]这些被“诅咒”侵染的狼，正是咒鬼。
 [charslot(slot="m",name="avg_npc_2101_1#10$1",focus="m")]
-[name="月见夜"]从那次灾难中幸存下来的先祖们，在重新建立了泡影国之后，将周边的狼狩猎殆尽......
+[name="月见夜"]从那次灾难中幸存下来的先祖们，在重新建立了泡影国之后，将周边的狼狩猎殆尽……
 [charslot(slot="m",name="avg_1048_orchd2_1#4$2",focus="m")]
-[name="梓兰"]狼......你是说牙兽？
+[name="梓兰"]狼……你是说牙兽？
 [dialog]
 [charslot]
 [dialog]
@@ -349,7 +349,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
 [name="宝巫迦"]有什么东西在阻止它关上！
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
-[name="宝巫迦"]这些咒鬼......它们的存在就预示着灾祸，难道是吾将它们召来——
+[name="宝巫迦"]这些咒鬼……它们的存在就预示着灾祸，难道是吾将它们召来——
 [charslot(slot="m",name="avg_1048_orchd2_1#5$2",focus="m")]
 [name="梓兰"]别慌神，这不是你的错，宝巫迦！
 [charslot(slot="m",name="avg_npc_2101_1#10$1",focus="m")]
@@ -367,7 +367,7 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#5$2",focus="m")]
 [name="梓兰"]这家伙，难道说是它影响了“御轮”？！
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]“雷之主”，难道是你......你一直都在等待着这一刻吗？
+[name="宝巫迦"]“雷之主”，难道是你……你一直都在等待着这一刻吗？
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
 [name="宝巫迦"]你之所以没有来干扰吾的狩猎，是因为你一直都在等待吾启动“御轮”的这一刻，是吗？！
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
@@ -394,7 +394,7 @@
 [PlaySound(key="$MHR_cat_voice2", volume=1)]
 [name="政宗"]这是警报喵！
 [charslot(slot="m",name="avg_npc_2101_1#2$1",focus="m")]
-[name="月见夜"]这是狩猎团的紧急警报......平时是不会敲响这道警报的，除非——
+[name="月见夜"]这是狩猎团的紧急警报……平时是不会敲响这道警报的，除非——
 [dialog]
 [charslot]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -418,13 +418,13 @@
 [PlaySound(key="$rungeneral", volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_1048_orchd2_1#9$2",focus="m")]
-[name="梓兰"]这家伙，不仅拦住了我们回家的路，还从门里召唤了兽群......但是，为什么它会——
+[name="梓兰"]这家伙，不仅拦住了我们回家的路，还从门里召唤了兽群……但是，为什么它会——
 [charslot(slot="m",name="avg_1049_catap2_1#9$2",focus="m")]
 [name="空爆"]管不了这些了，擒贼先擒王！
 [charslot(slot="m",name="avg_1049_catap2_1#9$2",focus="m")]
 [name="空爆"]“雷之主”是这些野兽的首领对吧？宝巫迦，我们现在立刻杀到它面前，把它解决掉吧！
 [charslot(slot="m",name="avg_npc_2100_1#11$1",focus="m")]
-[name="宝巫迦"]吾......
+[name="宝巫迦"]吾……
 [charslot(slot="m",name="avg_1049_catap2_1#6$2",focus="m")]
 [name="空爆"]宝巫迦？
 [dialog]
@@ -455,7 +455,7 @@
 [charslot(slot="m",name="avg_npc_2101_1#10$1",focus="m")]
 [name="月见夜"]然而，“雷之主”既然已经成为这次灾难的源头，陛下想要讨伐它，我也不好阻拦。
 [charslot(slot="m",name="avg_npc_2101_1#9$1",focus="m")]
-[name="月见夜"]但是......
+[name="月见夜"]但是……
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]不用说了。
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]

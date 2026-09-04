@@ -58,11 +58,11 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_786_1#1$2",duration=0.5)]
 [delay(time=1)]
-[name="山海众首领"]......锤很沉，但不够快。
+[name="山海众首领"]……锤很沉，但不够快。
 [charslot(slot="m",name="avg_npc_789_1#5$1")]
 [name="孟铁衣"]很沉就够了，很沉就能砸断你的刀，再砸烂你的脑袋！
 [charslot(slot="m",name="avg_npc_786_1#1$2")]
-[name="山海众首领"]......
+[name="山海众首领"]……
 [charslot(slot="m",name="avg_npc_789_1#5$1")]
 [name="孟铁衣"]不不不，我原本为你们设计了更好的死法。我本应该在这间仓库里埋满炸药，天灾来的时候，用你们山海众的命为玉门祭旗！
 [name="孟铁衣"]当然，包括我自己。
@@ -90,7 +90,7 @@
 [name="孟铁衣"]当初你们是如何混进玉门，如何乔装成武人骗取守军信任，如何到处作乱，玉门又是如何变成今天的样子！
 [name="孟铁衣"]记性，未免太差！
 [charslot(slot="m",name="avg_npc_786_1#2$2")]
-[name="山海众首领"]......
+[name="山海众首领"]……
 [charslot(slot="m",name="avg_npc_789_1#5$1")]
 [name="孟铁衣"]你们这帮宵小出现在城里的第一天，我就认出来了。
 [CameraShake(duration=0.7, xstrength=30, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -105,7 +105,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=false)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_789_1#5$1")]
-[name="孟铁衣"]可惜啊可惜，一点意外，满盘皆输......
+[name="孟铁衣"]可惜啊可惜，一点意外，满盘皆输……
 [name="孟铁衣"]但幸好，我还有这把锤！
 [Dialog]
 [PlaySound(key="$d_avg_twohandedblunt")]
@@ -120,12 +120,12 @@
 仓库里光线昏暗，林雨霞手上的玻璃剑刃反而越发透明。
 山海众似乎对她精妙的源石技艺有些忌惮，没有一拥而上，而是彼此配合，慢慢缩小着包围。
 [charslot(slot="m",name="avg_4080_lin_1#12$1")]
-[name="林雨霞"]（这样一伙人，居然能在城市里神出鬼没这么久不被发现......）
-[name="林雨霞"]（不是民间的武术流派，也不是哪国的军方格斗术，但狠辣凌厉，而且远近分工，配合默契......究竟是什么来历？）
+[name="林雨霞"]（这样一伙人，居然能在城市里神出鬼没这么久不被发现……）
+[name="林雨霞"]（不是民间的武术流派，也不是哪国的军方格斗术，但狠辣凌厉，而且远近分工，配合默契……究竟是什么来历？）
 [charslot(slot="m",name="avg_4080_lin_1#9$1")]
-[name="林雨霞"]（如果是陈的剑，大概更适合对付这些家伙......）
+[name="林雨霞"]（如果是陈的剑，大概更适合对付这些家伙……）
 [charslot(slot="m",name="avg_4080_lin_1#2$1")]
-[name="林雨霞"]（瞎想什么......当务之急是要想办法尽快脱身，把真的数据带出去。）
+[name="林雨霞"]（瞎想什么……当务之急是要想办法尽快脱身，把真的数据带出去。）
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_296_1#5$1",posfrom = "0,0", posto = "100,150",duration = 0,isblock=true)]
@@ -134,17 +134,17 @@
 [name="杜遥夜"]喂，我来帮忙！
 [charslot]
 [charslot(slot="m",name="avg_4080_lin_1#6$1")]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [name="林雨霞"]你不该还留在这儿。
 [charslot(slot="m",name="avg_npc_296_1#6$1")]
 [name="杜遥夜"]刚把大小齐送出去，听到这边有打斗声——果然又是这伙人。
 [charslot(slot="m",name="avg_4080_lin_1#7$1")]
-[name="林雨霞"]你的朋友......
+[name="林雨霞"]你的朋友……
 [charslot(slot="m",name="avg_npc_296_1#1$1")]
 [name="杜遥夜"]他们没事。
 [name="杜遥夜"]队伍里的信使和守军也没事——孟铁衣把他们软禁了起来，但没伤害他们。
 [charslot(slot="m",name="avg_4080_lin_1#7$1")]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [charslot(slot="m",name="avg_npc_296_1#9$1")]
 [name="杜遥夜"]别这么看着我，我没说原谅你了。收拾完这帮人，我还是会找你算账。
 [charslot(slot="m",name="avg_4080_lin_1#12$1")]
@@ -161,7 +161,7 @@
 [charslot(slot="m",focus="n")]
 [name="杜遥夜"]姓孟的你不许这么叫我！
 [charslot(slot="m",name="avg_npc_789_1#10$1")]
-[name="孟铁衣"]......
+[name="孟铁衣"]……
 [name="孟铁衣"]看来你已经知道了。
 [charslot(slot="m",name="avg_npc_786_1#1$2")]
 [name="山海众首领"]走神？
@@ -183,7 +183,7 @@
 [delay(time=1)]
 [name="杜遥夜"]我凭什么闭嘴？
 [charslot(slot="m",name="avg_npc_789_1#3$1")]
-[name="孟铁衣"]不是说你......
+[name="孟铁衣"]不是说你……
 [charslot(slot="m",name="avg_npc_789_1#10$1")]
 [name="孟铁衣"]总之，没事就好。
 [charslot(slot="m",name="avg_npc_789_1#5$1")]
@@ -206,16 +206,16 @@
 [PlaySound(key="$d_avg_axeimp")]
 [PlaySound(key="$swordtsing3",delay=0.4)]
 [delay(time=1)]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [name="杜遥夜"]你凭什么，用这种好像很解脱的语气跟我说话？
 [name="杜遥夜"]因为没有人真的丧命，因为一切还在你的掌握之中？
 [name="杜遥夜"]既然一开始就要演一场信使被杀的戏，何必答应我让大小齐加入队伍？
 [name="杜遥夜"]拿别人的性命做局，枉城里那么多兄弟拿你当最德高望重的前辈！
 [charslot]
 [charslot(slot="m",name="avg_npc_789_1#10$1")]
-[name="孟铁衣"]说实话，我不是没有动摇过......
+[name="孟铁衣"]说实话，我不是没有动摇过……
 [charslot(slot="m",name="avg_npc_789_1#6$1")]
-[name="孟铁衣"]但你兴冲冲地找上门，说要开玉门第一家现代物流公司，一边拍着胸脯大讲规划，一边让我不用看你爹郑清钺的面子......
+[name="孟铁衣"]但你兴冲冲地找上门，说要开玉门第一家现代物流公司，一边拍着胸脯大讲规划，一边让我不用看你爹郑清钺的面子……
 [charslot(slot="m",name="avg_npc_789_1#1$1")]
 [name="孟铁衣"]多少让人怀念年轻的岁月！
 [Dialog]
@@ -262,7 +262,7 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_789_1#6$1",duration=1)]
 [delay(time=2)]
-[name="孟铁衣"]......
+[name="孟铁衣"]……
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.5, block=true)]
 [charslot(slot="m",name="avg_4080_lin_1#4$1")]
@@ -298,9 +298,9 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="杜遥夜"]孟叔——！
 [charslot(slot="m",name="avg_npc_789_1#8$1")]
-[name="孟铁衣"]行裕物流是个好主意......
+[name="孟铁衣"]行裕物流是个好主意……
 [charslot(slot="m",name="avg_npc_789_1#4$1")]
-[name="孟铁衣"]总不能，看着好苗子折在我眼前......
+[name="孟铁衣"]总不能，看着好苗子折在我眼前……
 [Dialog]
 [PlaySound(key="$bodyfalldown1")]
 [charslot(slot ="m", afrom = 1, ato = 0, posfrom = "0,0", posto = "0,-50",duration = 0.5)]
@@ -308,7 +308,7 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_296_1#3$1",duration=0.5)]
 [Delay(time=1)]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [charslot(duration=0.5)]
 你有没有想过，你口中的江湖还在，只是变了个样子。
 [stopmusic(fadetime=2)]
@@ -329,7 +329,7 @@
 [charslot(slot="m",name="avg_4080_lin_1#8$1")]
 [name="林雨霞"]既然护送信使的任务是个局，那行裕物流等于还没有真正开张。
 [charslot(slot="m",name="avg_npc_296_1#6$1")]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [charslot(slot="m",name="avg_4080_lin_1#8$1")]
 [name="林雨霞"]不知道如果我委托行裕物流送件东西，杜小姐愿不愿意接？
 [charslot(slot="m",name="avg_npc_296_1#9$1")]
@@ -351,7 +351,7 @@
 [name="林雨霞"]但总要有一个人把数据送出去。
 [name="林雨霞"]这个女人的武功深不可测，连孟铁衣也死了。
 [charslot(slot="m",name="avg_npc_296_1#6$1")]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [charslot(slot="m",name="avg_4080_lin_1#8$1")]
 [name="林雨霞"]凭我的源石技艺，或许能拖住他们，为你创造几秒钟的机会。
 [charslot(slot="m",name="avg_npc_296_1#9$1")]
@@ -364,7 +364,7 @@
 [charslot(slot="m",name="avg_4080_lin_1#1$1")]
 [name="林雨霞"]你要是觉得自己有办法拖住他们，咱们俩换也行。
 [charslot(slot="m",name="avg_npc_296_1#3$1")]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [charslot(slot="m",name="avg_4080_lin_1#7$1")]
 [name="林雨霞"]拿你朋友的事骗你，对不起。
 [charslot(slot="m",name="avg_npc_296_1#6$1")]
@@ -430,7 +430,7 @@
 [Dialog]
 [charslot(slot="m",name="avg_4078_bdhkgt_1#8$1",duration=0.5)]
 [delay(time=1)]
-[name="截云"]（约定的时间马上就到了......）
+[name="截云"]（约定的时间马上就到了……）
 [dialog]
 [charslot]
 [CameraShake(duration=0.5, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -447,7 +447,7 @@
 [charslot(slot="m",name="avg_npc_793_1#1$1")]
 [name="山海众头目"]你背上的剑，与我们的计划无关，但藏有岁兽十二分之一意识的物件，有人很感兴趣。
 [charslot(slot="m",name="avg_4078_bdhkgt_1#6$1")]
-[name="截云"]岁兽？你说什么......？
+[name="截云"]岁兽？你说什么……？
 [charslot(slot="m",name="avg_npc_793_1#1$1")]
 [name="山海众头目"]你看起来一无所知。那就更不配拿着这把剑。
 [name="山海众头目"]交出来。
@@ -480,9 +480,9 @@
 [delay(time=3)]
 [charslot]
 [charslot(slot="m",name="avg_npc_793_1#1$1")]
-[name="山海众头目"]脑后的黑色光环......你是阿纳萨？
+[name="山海众头目"]脑后的黑色光环……你是阿纳萨？
 [charslot(slot="m",name="avg_4078_bdhkgt_1#7$2")]
-[name="截云"]是又怎样......
+[name="截云"]是又怎样……
 [charslot(slot="m",name="avg_npc_793_1#1$1")]
 [name="山海众头目"]一个阿纳萨，居然和炎国移动城市里的人打成一片，可笑。
 [name="山海众头目"]你忘了自己的出身？忘了你族人的遭遇？在荒野上吃苦受难，为了温饱四处流浪的时候，炎国几时帮过你们？
@@ -491,7 +491,7 @@
 [charslot(slot="m",name="avg_4078_bdhkgt_1#7$2")]
 [name="截云"]我只看到，你们在城市里到处干坏事。
 [charslot(slot="m",name="avg_npc_793_1#1$1")]
-[name="山海众头目"]......愚不可及的东西。
+[name="山海众头目"]……愚不可及的东西。
 [stopmusic(fadetime=1)]
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -506,7 +506,7 @@
 [charslot(slot="m",name="avg_4080_lin_1#9$1")]
 [name="林雨霞"]（连魏长官和爸联手都赢不了的敌人，我不可能是她的对手。）
 [charslot(slot="m",name="avg_4080_lin_1#13$1")]
-[name="林雨霞"]（但至少要再拖她一会，给杜遥夜争取更多脱身的时间......）
+[name="林雨霞"]（但至少要再拖她一会，给杜遥夜争取更多脱身的时间……）
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_786_1#1$2",duration=0.5)]
@@ -529,7 +529,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 忽略力量悬殊的抢攻，只是找死。
 到头来，用了那么多“手段”，逼出一个孟铁衣，拿到了天灾数据。
-自己应该能算是......做了件好事？
+自己应该能算是……做了件好事？
 算吧。
 [PlaySound(key="$d_avg_glassbroken")]
 玻璃剑刃一寸寸崩坏，长刀已经落在她的眉心。
@@ -578,7 +578,7 @@
 [delay(time=0.5)]
 [Background(image="bg_warehouse",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [charslot(slot="m",name="avg_npc_790_1#1$1")]
 [name="陈"]你怎么知道我会来？
 [charslot(slot="m",name="avg_4080_lin_1#6$1")]
@@ -598,7 +598,7 @@
 [charslot(slot="m",name="avg_4080_lin_1#9$1")]
 [name="林雨霞"]其实是听说魏长官遭遇了刺杀？
 [charslot(slot="m",name="avg_npc_790_1#7$1")]
-[name="陈"]......
+[name="陈"]……
 [charslot(slot="m",name="avg_npc_790_1#6$1")]
 [name="陈"]有空啰嗦，不如先给我解释解释，这里到底什么情况？
 [charslot(duration=0.5)]
@@ -635,7 +635,7 @@
 都是一样的道理，偏偏经历了才懂。
 [PlaySound(key="$rungeneral",delay=0.5)]
 [charslot(slot="m",name="avg_npc_296_1#6$1",duration=0.5)]
-[name="杜遥夜"]（快一点，快一点......）
+[name="杜遥夜"]（快一点，快一点……）
 [name="杜遥夜"]（已经能看到城门了！）
 [Dialog]
 [PlaySound(key="$d_avg_arrowshot")]
@@ -681,13 +681,13 @@
 [charslot(slot = "m",posfrom = "0,0", posto = "0,-50",duration = 0)]
 [charslot(slot = "m",posfrom = "0,-50", posto = "0,0",duration = 1)]
 [delay(time=1)]
-[name="杜遥夜"]你......
+[name="杜遥夜"]你……
 [charslot(slot = "m", name = "avg_243_waaifu_1#1$1")]
 [name="槐琥"]我是追着另一拨坏人过来的。
 [charslot(slot = "m", name = "avg_243_waaifu_1#7$1")]
-[name="槐琥"]昨晚铸剑坊，我赶到的时候看到你被官兵带走了......你现在......？
+[name="槐琥"]昨晚铸剑坊，我赶到的时候看到你被官兵带走了……你现在……？
 [charslot(slot="m",name="avg_npc_296_1#7$1")]
-[name="杜遥夜"]别再提了......
+[name="杜遥夜"]别再提了……
 [charslot(slot="m",name="avg_npc_296_1#6$1")]
 [name="杜遥夜"]帮我一把，先解决掉这些人。
 [charslot(slot = "m", name = "avg_243_waaifu_1#1$1")]
@@ -716,10 +716,10 @@
 [charslot(slot="m",name="avg_npc_787_1#7$1",duration=1.5)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_296_1#9$1")]
-[name="杜遥夜"]你是......昨晚救左乐的人......
+[name="杜遥夜"]你是……昨晚救左乐的人……
 [name="杜遥夜"]帮我。我有很重要的东西要交给平祟侯。
 [charslot(slot="m",name="avg_npc_787_1#11$1")]
-[name="仇白"]......
+[name="仇白"]……
 [charslot(slot="m",name="avg_npc_787_1#5$1")]
 [name="仇白"]平祟侯在外城城楼镇守。你的箭伤很重，还跑得动吗？
 [charslot(slot="m",name="avg_npc_296_1#6$1")]
@@ -727,7 +727,7 @@
 [charslot(slot="m",name="avg_npc_787_1#1$1")]
 [name="仇白"]那好，这里交给我们。
 [charslot(slot="m",name="avg_npc_296_1#6$1")]
-[name="杜遥夜"]对了，你们的林特使一个人在仓库对付那个坏女人......
+[name="杜遥夜"]对了，你们的林特使一个人在仓库对付那个坏女人……
 [name="杜遥夜"]去帮她。
 [charslot(slot = "m", name = "avg_243_waaifu_1#7$1")]
 [name="槐琥"]雨霞姐！
@@ -741,7 +741,7 @@
 [delay(time=1)]
 [charslot]
 [charslot(slot="m",name="avg_npc_794_1#1$1")]
-[name="凶狠的山海众成员"]......
+[name="凶狠的山海众成员"]……
 [charslot(slot="m",name="avg_npc_787_1#7$1")]
 [name="仇白"]三番两次当街行凶，山海众未免太嚣张了。
 [Dialog]
@@ -749,7 +749,7 @@
 [playsound(key="$d_gen_walk_n",volume=0.7)]
 [charslot(slot="m",name="avg_npc_786_1#1$2",duration=1)]
 [Delay(time=2)]
-[name="山海众首领"]......
+[name="山海众首领"]……
 [charslot(slot="m",name="avg_npc_794_1#1$1")]
 [name="凶狠的山海众成员"]先生。
 [charslot(slot="m",name="avg_npc_786_1#1$2")]
@@ -765,7 +765,7 @@
 [name="山海众首领"]要拦我？那你这次可不能再躲我的刀了。
 [charslot(slot = "m", name = "avg_243_waaifu_1#10$1")]
 [name="槐琥"]她就是杜小姐刚刚说的坏女人？
-[name="槐琥"]她追过来了，那雨霞姐她......
+[name="槐琥"]她追过来了，那雨霞姐她……
 [charslot]
 [name="？？？"]我没事。
 [dialog]
@@ -776,11 +776,11 @@
 [name="林雨霞"]总算赶上了。
 [charslot]
 [charslot(slot = "m", name = "avg_243_waaifu_1#7$1")]
-[name="槐琥"]雨霞姐......这位是，陈警司？！
+[name="槐琥"]雨霞姐……这位是，陈警司？！
 [charslot]
 [charslot(slot="l",name="avg_4080_lin_1#12$1",focus="n")]
 [charslot(slot="r",name="avg_npc_790_1#6$1",focus="r")]
-[name="陈"]......
+[name="陈"]……
 [charslot(slot="l",name="avg_4080_lin_1#12$1",focus="l")]
 [name="林雨霞"]是的你没看错。杜遥夜呢？
 [charslot]
@@ -791,7 +791,7 @@
 [charslot(slot="m",name="avg_4080_lin_1#13$1")]
 [name="林雨霞"]拦住这个人。
 [charslot(slot="m",name="avg_npc_786_1#2$2")]
-[name="山海众首领"]......
+[name="山海众首领"]……
 [charslot(slot="m",name="avg_npc_786_1#1$2")]
 [name="山海众首领"]真是无聊。
 [name="山海众首领"]多少年来，你们好像从来没有变过，从来不懂得敬畏力量。
@@ -815,7 +815,7 @@
 [charslot]
 [delay(time=1)]
 [playMusic(intro="$m_bat_bitw2_intro",key="$m_bat_bitw2_loop", volume=0.6)]
-秋夜......？
+秋夜……？
 [Dialog]
 [Image(image="35_i05",block=false,xScale=1.1, yScale=1.1,screenadapt="coverall")]
 [ImageTween(xScaleFrom=1.1, yScaleFrom=1.1,xScaleTo=1, yScaleTo=1,  duration=15, block=false)]

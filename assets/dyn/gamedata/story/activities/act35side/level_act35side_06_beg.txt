@@ -23,14 +23,14 @@
 [playsound(key="$d_avg_paper1",volume=1)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#2$1")]
-[name="佩佩"]......
+[name="佩佩"]……
 [charslot(slot = "m", focus="n")]
 [name="？？？"]姐姐，下午太阳这么好，出去玩啊！
 [dialog]
 [charslot(slot = "m", name = "avg_4058_pepe_1#2$1")]
 [playsound(key="$d_avg_paper2",volume=1)]
 [delay(time=1)]
-[name="佩佩"]......
+[name="佩佩"]……
 [charslot(slot = "m", focus="n")]
 [name="？？？"]姐姐，你不会打算钻在这堆落灰的莎草纸卷里一辈子吧？
 [dialog]
@@ -39,7 +39,7 @@
 [delay(time=0.5)]
 [playsound(key="$d_avg_paper2",volume=1)]
 [delay(time=1)]
-[name="佩佩"]......
+[name="佩佩"]……
 [charslot(slot = "m", focus="n")]
 [name="？？？"]姐姐，我去请求父亲了，他说他会考虑让我成为黄金之城的史官。
 [dialog]
@@ -48,7 +48,7 @@
 [playsound(key="$d_avg_paper2",volume=1)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#8$1")]
-[name="佩佩"]......
+[name="佩佩"]……
 [charslot(slot = "m", focus="n")]
 [name="？？？"]姐姐，做个帕夏也很好，放弃吧。
 [dialog]
@@ -94,7 +94,7 @@
 [charslot(slot = "l", name = "avg_4058_pepe_1#12$1", focus="l")]
 [name="佩佩"]我不知道啊。
 [charslot(slot = "r", name = "avg_npc_1478_1#6$1", focus="r")]
-[multiline(name="梅捷缇克缇")]你这个闷起头来做事的性子真的是......
+[multiline(name="梅捷缇克缇")]你这个闷起头来做事的性子真的是……
 [charslot(slot = "r", name = "avg_npc_1478_1#2$1", focus="r")]
 [multiline(name="梅捷缇克缇",end=true)]算了，我也不知道该说什么了。
 [dialog]
@@ -110,9 +110,9 @@
 [name="电台广播"]有大量金属构装的人偶走上街头，从居民家中抢夺大量宝石后离开。
 [name="电台广播"]据悉，已有众多市民向城市护卫队报告，护卫队队长表示正在追查中。
 [charslot(slot = "m", name = "avg_4058_pepe_1#8$1")]
-[name="佩佩"]金属人偶......？
+[name="佩佩"]金属人偶……？
 [charslot]
-[name="电台广播"]据目击者透露，他曾于昨夜目睹这些金属构装人偶从本市博物馆中逃出......
+[name="电台广播"]据目击者透露，他曾于昨夜目睹这些金属构装人偶从本市博物馆中逃出……
 [dialog]
 [StopSound(channel="o", fadetime=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -120,7 +120,7 @@
 [charslot(slot = "l", name = "avg_4058_pepe_1#9$1", focus="l")]
 [name="佩佩"]什么？！
 [charslot(slot = "r", name = "avg_npc_1478_1#1$1", focus="r")]
-[name="梅捷缇克缇"]那个......我想说的，她都说了。
+[name="梅捷缇克缇"]那个……我想说的，她都说了。
 [name="梅捷缇克缇"]阿娜特说，博物馆的工作人员跟随着构装体的踪迹，最后找到了大巴扎。
 [charslot(slot = "l", name = "avg_4058_pepe_1#8$1", focus="l")]
 [name="佩佩"]是祖拜尔做的吗？
@@ -139,14 +139,14 @@
 [charslot(slot = "l", posfrom="0,0", posto="-200,0", afrom=1, ato=0, duration=0.5, isblock=true)]
 [delay(time=1.5)]
 [charslot(slot = "r", name = "avg_npc_1478_1#2$1")]
-[name="梅捷缇克缇"]呼......
+[name="梅捷缇克缇"]呼……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_oldtvelectricity", volume=0, loop=true, channel="o")]
 [SoundVolume(volume=1, channel="o", fadetime=2)]
 [name="电台广播"]呃，慢着，本台插播一条急讯。
 [name="电台广播"]有市民发现家中取水器内流出的水变得浑浊，其中掺杂大量泥沙。
-[name="电台广播"]护卫队方面称，他们正在紧急组织人力排查城市老地下水通道，由于通道情况复杂，可能仍然需要时间......
+[name="电台广播"]护卫队方面称，他们正在紧急组织人力排查城市老地下水通道，由于通道情况复杂，可能仍然需要时间……
 [charslot(slot = "m", name = "avg_npc_1478_1#5$1")]
 [name="梅捷缇克缇"]啊，这又是什么情况？
 [dialog]
@@ -162,9 +162,9 @@
 [Delay(time=1)]
 [PlaySound(key="$d_avg_fsmummy", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1479_1#1$1", duration=1.5, isblock=true)]
-[name="祖拜尔"]......某人已经给我讲述过这里的故事。
+[name="祖拜尔"]……某人已经给我讲述过这里的故事。
 [name="祖拜尔"]宝石繁荣了大巴扎，与香料、绸缎、工艺品一同源源不断地为这里带来财富。
-[name="祖拜尔"]借由宝石交易所，借由这些有着特殊源石回路的宝石，米纳特哈玛仪成为镶嵌在沙海中的一颗晨星......
+[name="祖拜尔"]借由宝石交易所，借由这些有着特殊源石回路的宝石，米纳特哈玛仪成为镶嵌在沙海中的一颗晨星……
 [dialog]
 [PlaySound(key="$d_avg_bellshake", volume=1)]
 [charslot(duration=1.5, isblock=true)]
@@ -183,7 +183,7 @@
 [charslot(slot = "m", name = "avg_4140_lasher_1#3$1")]
 [name="拉恕尔"]“即便河水干涸，城市被掩埋在黄沙之下，它也不会褪色。”
 [charslot(slot = "m", name = "avg_npc_1479_1#3$1")]
-[name="祖拜尔"]......“不会褪色”，是的。就如同你我手中流过的每一颗宝石。
+[name="祖拜尔"]……“不会褪色”，是的。就如同你我手中流过的每一颗宝石。
 [name="祖拜尔"]只不过，不是河水干涸，黄沙掩埋了昔日的城市。
 [name="祖拜尔"]而是洪水毁去了那伟大建筑的顶端，黄沙深处掩埋的辉煌成了千年的秘密。
 [dialog]
@@ -198,7 +198,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [name="祖拜尔"]每一次日升月落，都是一个小轮回的重新演绎。
-[name="祖拜尔"]短暂的一天是如此，漫长的一生是如此......
+[name="祖拜尔"]短暂的一天是如此，漫长的一生是如此……
 [name="祖拜尔"]城市的枯荣，帝国的盛衰，大地的终始，亦是如此。
 [name="拉恕尔"]我想，虽然壁画只能记载下万古之中的一瞬，但这一瞬同样会一遍遍轮回重演，这就是它的价值。
 [name="祖拜尔"]沙阿命人绘制这些壁画，并不是为了自己的名在轮回中留存。
@@ -223,13 +223,13 @@
 [charslot(slot = "m", name = "avg_npc_1479_1#3$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="祖拜尔"]“第四颗代表肝脏，我们清醒着进入夜晚，为了职责与义务。”......感谢你归还的宝石，让我回忆起更多往事。
+[name="祖拜尔"]“第四颗代表肝脏，我们清醒着进入夜晚，为了职责与义务。”……感谢你归还的宝石，让我回忆起更多往事。
 [name="祖拜尔"]最初，成千上万的能工巧匠来到一片荒芜的米纳特哈玛仪。
 [name="祖拜尔"]上至奇伟的黄金机关迷宫，下至手工雕琢的源石回路宝石，工匠们创造了一切，然后将它们埋入黄沙。
 [name="祖拜尔"]后世的人们大都相信，在耗尽心血的作业之后，所有的工匠也都被埋葬在了他们的造物身边。
 [name="祖拜尔"]但实际上，仍有一些工匠隐居在米纳特哈玛仪西南的一处村落，世代保守着“宝库入口在何地”的秘密。
 [charslot(slot = "m", name = "avg_4140_lasher_1#2$1")]
-[name="拉恕尔"]......
+[name="拉恕尔"]……
 [charslot(slot = "m", name = "avg_npc_1479_1#2$1")]
 [name="祖拜尔"]该你来说了，年轻人。
 [name="祖拜尔"]接下来的事情，便与你的家族有关了。
@@ -239,17 +239,17 @@
 蒸腾着。炙烤着。煎熬着。
 [dialog]
 [charslot(slot = "m", name = "avg_4140_lasher_1#2$1", duration=1, isblock=true)]
-[name="拉恕尔"]......三百年前，许多帕夏王酋集结的军队找到了那个村子。
+[name="拉恕尔"]……三百年前，许多帕夏王酋集结的军队找到了那个村子。
 [name="拉恕尔"]他们向村民们逼问宝库的入口，坚持守密的人都被砍去了双手。
 [name="拉恕尔"]因为不忍村民们继续受害，一位失去双手的宝石工匠主动找上王酋军，提出要为他们引路。
 [name="拉恕尔"]在宝库前，他见证了王酋军与宝库守护者的激战，看到守护者虽然被打败，但没有他的法术，宝库的大门便不会开启。
 [name="拉恕尔"]愤怒的王酋军剖开了守护者的胸膛，刮下了他身体内外镶嵌的每一颗宝石。
 [name="拉恕尔"]尽管那位告密的工匠用尽所知的技术，指导自己年幼的孩子去修复守护者的身躯，但守护者终究没有醒来。
-[name="拉恕尔"]......然后，米纳特哈玛仪的大巴扎立起了一架天平。那个工匠的孩子在成人之后安葬了守护者，又设立了一间宝石交易所。
+[name="拉恕尔"]……然后，米纳特哈玛仪的大巴扎立起了一架天平。那个工匠的孩子在成人之后安葬了守护者，又设立了一间宝石交易所。
 [name="拉恕尔"]从那以后，他的后人一直在这里等待。
 [name="拉恕尔"]每一代先祖都竭尽所能，让米纳特哈玛仪的宝石贸易更加繁荣。
-[name="拉恕尔"]百年千年，终有一日，人们能淘尽萨尔贡的黄沙，宝石会聚在这座城市......
-[name="拉恕尔"]......我能够将它们还给您。
+[name="拉恕尔"]百年千年，终有一日，人们能淘尽萨尔贡的黄沙，宝石会聚在这座城市……
+[name="拉恕尔"]……我能够将它们还给您。
 [dialog]
 [PlaySound(key="$d_avg_bellshake", volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -273,7 +273,7 @@
 [Delay(time=1.5)]
 在守护者悲悯的注视中，监管人不禁颤抖。
 为他即将吐露的话语。
-[name="祖拜尔"]......多么漫长的时光啊。
+[name="祖拜尔"]……多么漫长的时光啊。
 [name="祖拜尔"]你们自由了。
 [dialog]
 [stopmusic(fadetime=3)]
@@ -292,7 +292,7 @@
 [charslot(slot = "m", name = "avg_npc_1479_1#2$1")]
 [name="祖拜尔"]过去数百年，我有失于自己的职责，但如今我已重返人世，我将同这座城市一起，赎还我们欠下的时光。
 [charslot(slot = "m", name = "avg_npc_1482_1#1$1")]
-[name="米奥"]......
+[name="米奥"]……
 [charslot(slot = "m", name = "avg_npc_1479_1#4$1")]
 [name="祖拜尔"]与此同时，我还有一个请求，希望二位能够答应。
 [name="祖拜尔"]如果那位梦魇当真是哈兰杜汗的后裔，我将应沙阿之诺，为她打开宝库。

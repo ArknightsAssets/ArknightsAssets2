@@ -28,13 +28,13 @@
 [charslot(slot = "r", name = "avg_107_liskam_1#1$1", focus="r")]
 [name="雷蛇"]如果你觉得太冷，随时可以去那边临时搭的帐篷里烤烤火。
 [charslot(slot = "l", name = "avg_106_franka_1#10$1", focus="l")]
-[name="芙兰卡"]可如果我不是觉得冷，而是......害怕呢？
+[name="芙兰卡"]可如果我不是觉得冷，而是……害怕呢？
 [charslot(slot = "r", name = "avg_107_liskam_1#1$1", focus="r")]
 [name="雷蛇"]害怕什么？
 [charslot(slot = "l", name = "avg_106_franka_1#4$1", focus="l")]
-[name="芙兰卡"]我不知道，我只是......不知道达维镇的事到底会怎么收场。
+[name="芙兰卡"]我不知道，我只是……不知道达维镇的事到底会怎么收场。
 [charslot(slot = "r", name = "avg_107_liskam_1#4$1", focus="r")]
-[name="雷蛇"]......
+[name="雷蛇"]……
 [dialog]
 雷蛇略显焦躁地把通讯器贴到耳边。
 [dialog]
@@ -56,32 +56,32 @@
 [charslot(slot = "r", name = "avg_1034_jesca2_1#1$1", focus="n")]
 [name="罗拉"]杰西卡，不再烤一会儿火了吗？
 [charslot(slot = "r", name = "avg_1034_jesca2_1#14$1", focus="r")]
-[name="杰西卡"]不了......天马上就要黑了，无论如何都会觉得冷的。
+[name="杰西卡"]不了……天马上就要黑了，无论如何都会觉得冷的。
 [dialog]
 [PlaySound(key="$d_avg_wind", volume=1)]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_4105_almond_1#11$1", focus="l")]
 [name="罗拉"]杰西卡，你也别太担心，虽然银行确实让人生气，但本舰马上就要来了。
 [charslot(slot = "r", name = "avg_1034_jesca2_1#14$1", focus="r")]
-[name="杰西卡"]......
+[name="杰西卡"]……
 [charslot(slot = "l", name = "avg_4105_almond_1#11$1", focus="l")]
 [name="罗拉"]老板可不会让银行那些家伙骑到我们头上来。
 [charslot(slot = "r", name = "avg_1034_jesca2_1#1$1", focus="r")]
-[name="杰西卡"]......老板？哪个老板？
+[name="杰西卡"]……老板？哪个老板？
 [charslot(slot = "l", name = "avg_4105_almond_1#1$1", focus="l")]
 [name="罗拉"]还能有哪个老板，克里夫先生啊！
 [charslot(slot = "r", name = "avg_1034_jesca2_1#1$1", focus="r")]
-[name="杰西卡"]他......
+[name="杰西卡"]他……
 [charslot(slot = "r", name = "avg_1034_jesca2_1#14$1", focus="r")]
-[name="杰西卡"]我也说不好，毕竟......说到底克里夫先生是个生意人。
+[name="杰西卡"]我也说不好，毕竟……说到底克里夫先生是个生意人。
 [dialog]
 [charslot]
 杰西卡沉默着看向平台的方向，手习惯性地伸进口袋，摩挲着其中的子弹。
 [charslot(slot = "r", name = "avg_1034_jesca2_1#1$1", focus="n")]
 [charslot(slot = "l", name = "avg_4105_almond_1#2$1", focus="l")]
-[name="罗拉"]嗯......？
+[name="罗拉"]嗯……？
 [charslot(slot = "l", name = "avg_4105_almond_1#7$1", focus="l")]
-[name="罗拉"]......杰西卡，你看那里，是不是有火光......
+[name="罗拉"]……杰西卡，你看那里，是不是有火光……
 [charslot(slot = "r", name = "avg_1034_jesca2_1#1$1", focus="r")]
 [name="杰西卡"]哪里？
 [charslot(slot = "l", name = "avg_4105_almond_1#7$1", focus="l")]
@@ -90,7 +90,7 @@
 [PlayMusic(intro="$corrosion_intro", key="$corrosion_loop", volume=0.6)]
 [delay(time=1.5)]
 [charslot(slot = "l", name = "avg_4105_almond_1#6$1", focus="l")]
-[name="罗拉"]等等，不对，起火点不止一个......这、这究竟......
+[name="罗拉"]等等，不对，起火点不止一个……这、这究竟……
 [dialog]
 [StopSound(channel="a", fadetime=2)]
 [charslot(slot = "r", name = "avg_1034_jesca2_1#1$1", focus="r")]
@@ -113,7 +113,7 @@
 [PlaySound(key="$transmission")]
 [delay(time=2)]
 [charslot(slot = "r", focus="n")]
-[name="通讯音"]......小队，黑钢......舰预计将在......后到达......
+[name="通讯音"]……小队，黑钢……舰预计将在……后到达……
 [charslot(slot = "r", name = "avg_107_liskam_1#3$1", focus="r")]
 [name="雷蛇"]收到。
 [charslot(slot = "r", name = "avg_107_liskam_1#1$1", focus="r")]
@@ -123,12 +123,12 @@
 [charslot(slot = "r", name = "avg_107_liskam_1#1$1", focus="n")]
 [name="杰西卡"]队长，地块上有数个起火点，不知道出了什么问题，我得去看看！
 [charslot(slot = "l", name = "avg_106_franka_1#5$1", focus="l")]
-[name="芙兰卡"]怎么偏偏是这种时候......但我们已经收到了本舰发来的信号，巴伦基地离我们已经不远了——
+[name="芙兰卡"]怎么偏偏是这种时候……但我们已经收到了本舰发来的信号，巴伦基地离我们已经不远了——
 [dialog]
 [charslot(slot = "l", name = "avg_106_franka_1#6$1", focus="l")]
 [name="芙兰卡"]杰西卡——杰西卡！你到底要去哪？！队长，怎么办？
 [charslot(slot = "r", name = "avg_107_liskam_1#1$1", focus="r" )]
-[name="雷蛇"]让她去吧......我们继续接驳任务。
+[name="雷蛇"]让她去吧……我们继续接驳任务。
 [dialog]
 [musicvolume(volume=0.2, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -144,14 +144,14 @@
 [Delay(time=1)]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1038_1#7$1",  posfrom="0,-20", posto="0,0", duration=1, isblock=true)]
-[name="迈尔斯"]......什么声音啊，大晚上的......
+[name="迈尔斯"]……什么声音啊，大晚上的……
 [dialog]
 [PlaySound(key="$gavel1", volume=0.5)]
 [Delay(time=0.5)]
 [PlaySound(key="$gavel2", volume=0.5)]
 [Delay(time=2.5)]
 [charslot(slot = "m", name = "avg_npc_1038_1#10$1")]
-[name="迈尔斯"]哪里来的动静......
+[name="迈尔斯"]哪里来的动静……
 [dialog]
 [PlaySound(key="$gavel1", volume=1)]
 [Delay(time=0.5)]
@@ -189,7 +189,7 @@
 [PlaySound(key="$d_avg_gunload", volume=0.4)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1", posfrom="0,-20", posto="0,0", duration=1, isblock=true)]
-[name="伍德洛"]......
+[name="伍德洛"]……
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1", focus="n")]
 伍德洛将枕头下的铳械摸出，凝神细听从楼下传来的响动。
@@ -208,11 +208,11 @@
 [curtain(direction = 2,fillfrom = 1,fillto = 0,fadetime=0.5)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1035_1#6$1")]
-[name="里昂"]呕......难受死了。
-[name="里昂"]早知道......就不喝那么多了。
-[name="里昂"]困死了，就地躺倒算了......这样明早肯定就在街边冻硬实了......
+[name="里昂"]呕……难受死了。
+[name="里昂"]早知道……就不喝那么多了。
+[name="里昂"]困死了，就地躺倒算了……这样明早肯定就在街边冻硬实了……
 [charslot(slot = "m", name = "avg_npc_1035_1#2$1")]
-[name="里昂"]唉......
+[name="里昂"]唉……
 [dialog]
 [charslot]
 [StopSound(channel="a", fadetime=2)]
@@ -226,7 +226,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1035_1#10$1")]
-[name="里昂"]什么声音......怎么回事......？
+[name="里昂"]什么声音……怎么回事……？
 [dialog]
 [StopSound(channel="c", fadetime=1)]
 [SoundVolume(volume=0, channel="e",fadetime=2)]
@@ -247,15 +247,15 @@
 [charslot(slot = "m", name = "avg_npc_1038_1#5$1")]
 [name="迈尔斯"]这怎么回事？！
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
-[name="黑钢工程小队成员"]老、老伯你快走，这里......唔、这些人突然闯了进来......又砸又抢......
+[name="黑钢工程小队成员"]老、老伯你快走，这里……唔、这些人突然闯了进来……又砸又抢……
 [charslot(slot = "m", name = "avg_npc_1038_1#5$1")]
-[name="迈尔斯"]......什么人？
+[name="迈尔斯"]……什么人？
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
-[name="冷漠的混混"]呵......原来是你啊，老爷子。
+[name="冷漠的混混"]呵……原来是你啊，老爷子。
 [charslot(slot = "m", name = "avg_npc_1038_1#6$1")]
-[name="迈尔斯"]你是当时雪地上的......
+[name="迈尔斯"]你是当时雪地上的……
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
-[name="冷漠的混混"]我命很大的......老爷子，嘘，千万不要声张，会引来其他人的。
+[name="冷漠的混混"]我命很大的……老爷子，嘘，千万不要声张，会引来其他人的。
 [name="冷漠的混混"]老爷子，当时你很幸运，从我手中逃过一劫，不知道现在还有没有这个运气了。
 [charslot(slot = "m", name = "avg_npc_1045_1#1$1")]
 [name="黑钢工程小队成员"]老伯，快走！你一个人对付不了的！
@@ -283,23 +283,23 @@
 [charslot(slot = "m", name = "avg_npc_1034_1#1$1")]
 [name="伍德洛"]海伦娜，怎么回事？我以为等我下楼，这里已经躺满你打倒的人了。
 [charslot(slot = "m", name = "avg_4104_coldst_1#6$1")]
-[name="海伦娜"]......他们这次胆子大了不少，大概是真疯了。
+[name="海伦娜"]……他们这次胆子大了不少，大概是真疯了。
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
 [name="蛮横的混混"]二位别自顾自说悄悄话啊，有什么好消息不如讲出来一起分享一下。
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1")]
-[name="伍德洛"]真是不知天高地厚的崽子......
+[name="伍德洛"]真是不知天高地厚的崽子……
 [dialog]
 [PlaySound(key="$d_avg_gunload", volume=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
-[name="蛮横的混混"]老家伙，那些子弹一定很珍贵吧，珍贵到......你连一个六发的弹巢都没有装满。
+[name="蛮横的混混"]老家伙，那些子弹一定很珍贵吧，珍贵到……你连一个六发的弹巢都没有装满。
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1")]
 [name="伍德洛"]你想说什么？
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
 [name="蛮横的混混"]想想也是，这地块上供你用的材料也没有几样啊。
 [name="蛮横的混混"]要不然，这么多年了，你天天拿着那把铳，怎么几乎没听说过你给谁来上一梭子呢？
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1")]
-[name="伍德洛"]......
+[name="伍德洛"]……
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
 [name="蛮横的混混"]兄弟们，先把这两个老家伙放倒，然后就当这里是自己家，看上什么就拿吧。
 [dialog]
@@ -346,11 +346,11 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "l", name = "avg_npc_1035_1#1$1", posfrom="-300,0", posto="-100,0", duration=2, isblock=true)]
 [charslot(slot = "l", name = "avg_npc_1035_1#7$1", focus="l", posfrom="-100,0", posto="-100,0", duration=0, isblock=true)]
-[name="里昂"]你们这些人，干......干什么！
+[name="里昂"]你们这些人，干……干什么！
 [charslot(slot = "m", focus="m")]
 [name="作乱的混混"]醉鬼，让开。
 [charslot(slot = "l", name = "avg_npc_1035_1#7$1", focus="l", posfrom="-100,0", posto="-100,0", duration=0, isblock=true)]
-[name="里昂"]谁、谁让你在......在这里闹事的，呃......
+[name="里昂"]谁、谁让你在……在这里闹事的，呃……
 [charslot(slot = "m", focus="m")]
 [name="作乱的混混"]大叔，我再请你喝一瓶，你好好睡一觉。
 [dialog]
@@ -387,25 +387,25 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [PlaySound(key="$rungeneral", volume=1)]
 [charslot(slot = "r", name = "avg_npc_005", posfrom="300,0", posto="-100,-20", duration=0.8, isblock=true)]
-[name="落魄的店主"]里昂，你还好吗......我先扶你起来？
+[name="落魄的店主"]里昂，你还好吗……我先扶你起来？
 [dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot = "r", name = "avg_npc_005", posfrom="-100,-20", posto="-100,0", afrom=1, ato=1, duration=1)]
 [charslot(slot = "l", name = "avg_npc_1035_1#2$1", posfrom="100,-40", posto="100,0", duration=1, isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "r", name = "avg_npc_005", posfrom="-100,0", posto="-100,0", afrom=1, ato=1, duration=0, focus="r",isblock=true)]
-[name="落魄的店主"]啧，这群小崽子下手真狠，你脸上全是血......
+[name="落魄的店主"]啧，这群小崽子下手真狠，你脸上全是血……
 [dialog]
 [charslot(slot = "l", name = "avg_npc_1035_1#2$1", posfrom="100,0", posto="0,0", afrom=1, ato=1, duration=1.5)]
 [charslot(slot = "r", name = "avg_npc_005", posfrom="-100,0", posto="-50,0", afrom=1, ato=1, duration=1)]
 [delay(time=2)]
 [charslot(slot = "l", name = "avg_npc_1035_1#1$1", focus="l")]
-[name="里昂"]我没事......就是头晕......
+[name="里昂"]我没事……就是头晕……
 [dialog]
 [charslot(slot = "l", name = "avg_npc_1035_1#5$1", focus="l")]
-[name="里昂"]你这店里面怎么也被砸成这样......他们不光砸了橱窗？
+[name="里昂"]你这店里面怎么也被砸成这样……他们不光砸了橱窗？
 [charslot(slot = "r", name = "avg_npc_005", posfrom="-100,0", posto="-50,0", afrom=1, ato=1, duration=0, focus="r")]
-[name="落魄的店主"]何止是橱窗......他们几乎把我抢干净了。
+[name="落魄的店主"]何止是橱窗……他们几乎把我抢干净了。
 [charslot(slot = "l", name = "avg_npc_1035_1#1$1", focus="l")]
 [name="里昂"]今晚到底怎么了？
 [dialog]
@@ -433,7 +433,7 @@
 [PlaySound(key="$gavel1", volume=1)]
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_npc_1044_1#1$1", focus="r")]
-[name="冷漠的混混"]烦死人了，这地方又狭窄，障碍物又多，根本施展不开......
+[name="冷漠的混混"]烦死人了，这地方又狭窄，障碍物又多，根本施展不开……
 [charslot(slot = "l", name = "avg_npc_1044_1#1$1", focus="l")]
 [name="狡诈的混混"]所以别他妈到处乱窜了，老不死的！
 [dialog]
@@ -442,7 +442,7 @@
 [PlaySound(key="$gavel2", volume=1)]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_npc_1044_1#1$1", focus="n")]
-[name="迈尔斯"]唔......
+[name="迈尔斯"]唔……
 [charslot(slot = "r", name = "avg_npc_1044_1#1$1", focus="r")]
 [name="冷漠的混混"]你这个腿脚，居然还能避开这一下，真是小瞧你了。看看运气能眷顾你到什么时候。
 [dialog]
@@ -457,11 +457,11 @@
 [name="冷漠的混混"]你能死在这破地方也挺好，和你很配。
 [dialog]
 [charslot]
-[name="迈尔斯"]呼......呼......
+[name="迈尔斯"]呼……呼……
 [dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1038_1#7$1", posfrom="0,0", posto="0,20", duration=2, isblock=true)]
-[name="迈尔斯"]（就再来一下......坚持住，你这把老骨头，能行的......一定能行。）
+[name="迈尔斯"]（就再来一下……坚持住，你这把老骨头，能行的……一定能行。）
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
@@ -472,7 +472,7 @@
 [charslot(slot = "m", action="zoom", poszoom = "0.5,0.5", scale=1.05, duration = 2, isblock=true)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1038_1#4$1")]
-[name="迈尔斯"]想得美......
+[name="迈尔斯"]想得美……
 [dialog]
 [Blocker(a=0, r=255,g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255,g=255, b=255, fadetime=0.03, block=true)]
@@ -488,7 +488,7 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1044_1#1$1", focus="l")]
 [charslot(slot = "r", name = "avg_npc_1044_1#1$1", focus="n")]
-[name="狡诈的混混"]这是什么......蒸汽？！
+[name="狡诈的混混"]这是什么……蒸汽？！
 [dialog]
 [PlaySound(key="$d_avg_steamburst", volume=1)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -502,7 +502,7 @@
 [charslot(slot = "m", name = "avg_npc_1038_1#1$1", duration=1, isblock=true)]
 [charslot(slot = "m", name = "avg_npc_1038_1#4$1")]
 [name="迈尔斯"]你说的没错，这破地方可是我的家啊，当然和我很配。
-[name="迈尔斯"]呼......没人可以在我家闹事......
+[name="迈尔斯"]呼……没人可以在我家闹事……
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1044_1#1$1")]
@@ -518,7 +518,7 @@
 [charslot(slot = "r", posfrom="0,0", posto="0,-100", afrom=1, ato=0, duration=1, isblock=true)]
 [delay(time=1)]
 [charslot]
-[name="冷漠的混混"]呃......
+[name="冷漠的混混"]呃……
 [charslot(slot = "m", name = "avg_npc_1038_1#4$1")]
 [name="迈尔斯"]都是自找的。
 [dialog]
@@ -534,16 +534,16 @@
 [Delay(time=1)]
 [name="伍德洛"]没错。我的弹巢确实不满，为了让它们能在我的铳里击发，我也确实花了不少功夫。
 [charslot(slot = "m", name = "avg_npc_1034_1#2$1")]
-[name="伍德洛"]所以......我不会把子弹用在你们身上，太不值了。
+[name="伍德洛"]所以……我不会把子弹用在你们身上，太不值了。
 [dialog]
 [charslot]
 将手铳收回腰间的皮套，老人解开了袖扣，将袖子挽高露出手臂。
 [charslot(slot = "m", name = "avg_4104_coldst_1#9$1")]
-[name="海伦娜"]不是吧，伍迪......都这把年纪了。
+[name="海伦娜"]不是吧，伍迪……都这把年纪了。
 [charslot(slot = "m", name = "avg_npc_1034_1#8$1")]
 [name="伍德洛"]你有多长时间没看我用绳圈了？
 [charslot(slot = "m", name = "avg_4104_coldst_1#9$1")]
-[name="海伦娜"]从你把地块外面那些牧兽都卖给商队换物资......大概三四年了？
+[name="海伦娜"]从你把地块外面那些牧兽都卖给商队换物资……大概三四年了？
 [charslot(slot = "m", name = "avg_npc_1034_1#8$1")]
 [name="伍德洛"]不错，才三四年。
 [charslot(slot = "m", name = "avg_npc_1034_1#1$1")]
@@ -551,13 +551,13 @@
 [charslot(slot = "m", name = "avg_4104_coldst_1#1$1")]
 [name="海伦娜"]嗯，交给我吧。
 [charslot(slot = "m", name = "avg_npc_1034_1#1$1")]
-[name="伍德洛"]快点的好......离天亮还早，能再倒头睡一觉。
+[name="伍德洛"]快点的好……离天亮还早，能再倒头睡一觉。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_throwrope", volume=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1034_1#1$1")]
-[name="伍德洛"]很可惜，附近没有几棵树能把你们吊起来，不过房檐下......也不是不行。
+[name="伍德洛"]很可惜，附近没有几棵树能把你们吊起来，不过房檐下……也不是不行。
 [dialog]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1")]
@@ -578,21 +578,21 @@
 [charslot(slot = "l", name = "avg_npc_1035_1#1$1", focus="l")]
 [name="里昂"]你们最近都听说了什么？今晚到底怎么了？
 [charslot(slot = "r", name = "avg_npc_005", focus="r")]
-[name="落魄的店主"]我就剩这些绷带了，不够缠的，你先拿着捂在脑袋上吧......要不然血淋淋的。
+[name="落魄的店主"]我就剩这些绷带了，不够缠的，你先拿着捂在脑袋上吧……要不然血淋淋的。
 [charslot(slot = "l", name = "avg_npc_1035_1#1$1", focus="l")]
 [name="里昂"]没事，你说你的。
 [charslot(slot = "r", name = "avg_npc_005", focus="r")]
 [name="落魄的店主"]最初是从地块东边传来的消息，你也知道，不务正业的小流氓都聚在那里。
-[name="落魄的店主"]说是镇子里有很多人都觉得，反正怎么也还不上银行的钱，不如......
+[name="落魄的店主"]说是镇子里有很多人都觉得，反正怎么也还不上银行的钱，不如……
 [charslot(slot = "l", name = "avg_npc_1035_1#10$1", focus="l")]
 [name="里昂"]不如什么？
 [charslot(slot = "r", name = "avg_npc_005", focus="r")]
-[name="落魄的店主"]不如狠狠抢一笔......逃去拓荒地重新开始......
-[name="落魄的店主"]你也看见了，刚刚他们跟疯了一样，到处打人、砸店、抢劫......
+[name="落魄的店主"]不如狠狠抢一笔……逃去拓荒地重新开始……
+[name="落魄的店主"]你也看见了，刚刚他们跟疯了一样，到处打人、砸店、抢劫……
 [musicvolume(volume=0.6, fadetime=2)]
-[name="落魄的店主"]等等，里昂，快来看，那是......你家的方向......
+[name="落魄的店主"]等等，里昂，快来看，那是……你家的方向……
 [charslot(slot = "l", name = "avg_npc_1035_1#4$1", focus="l")]
-[name="里昂"]......该死！
+[name="里昂"]……该死！
 [dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [charslot(slot = "l", name = "avg_npc_1035_1#4$1", afrom=1, ato=0, duration= 1, isblock=true)]
@@ -610,13 +610,13 @@
 [delay(time=2)]
 [charslot(slot = "l", name = "avg_npc_1039_1#8$1", focus="l")]
 [charslot(slot = "r", name = "avg_npc_1041_1#1$1", focus="n")]
-[name="西尔维娅"]经理，我、我......听起来外面的情况不太好......
+[name="西尔维娅"]经理，我、我……听起来外面的情况不太好……
 [charslot(slot = "r", name = "avg_npc_1041_1#1$1", focus="r")]
 [name="银行经理"]你大可放心，西尔维娅，在这间银行里，我们每一个人的安全都有保障。
 [name="银行经理"]他们确实是些无药可救的家伙，只有在我们面前，才不得不变成懂得分寸的人。
 [name="银行经理"]如果你实在害怕，可以干脆睡一觉。一觉醒来之后，他们就再也不会出现在你的视野里了。
 [charslot(slot = "l", name = "avg_npc_1039_1#8$1", focus="l")]
-[name="西尔维娅"]您这是......什么意思？
+[name="西尔维娅"]您这是……什么意思？
 [charslot(slot = "r", name = "avg_npc_1041_1#1$1", focus="r")]
 [name="银行经理"]其他人没告诉你吗？我们的合作伙伴即将到来，这些家伙马上就要没用了。
 [name="银行经理"]所以，他们主动提出临走前带点土特产再出发，我们也没理由不默许。
@@ -624,7 +624,7 @@
 [charslot(slot = "r", name = "avg_npc_1041_1#1$1", focus="n")]
 [name="银行员工"]经理，我们收到通讯了，是来自黑钢的！他们的本舰提前到达了！
 [charslot(slot = "r", name = "avg_npc_1041_1#1$1", focus="r")]
-[name="银行经理"]啧，不光来了，还来得早了一些......
+[name="银行经理"]啧，不光来了，还来得早了一些……
 [name="银行经理"]不过，对我们来说，都是一样的。
 [dialog]
 [curtain(direction = 2,fillfrom = 0,fillto = 1,fadetime=0.5)]
@@ -637,7 +637,7 @@
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1")]
 [name="伍德洛"]看来上次去找你，你还是没记住教训。
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
-[name="蛮横的混混"]妈的......呸，每次都说是教训，都说是警告，你哪次动过真格的啊！
+[name="蛮横的混混"]妈的……呸，每次都说是教训，都说是警告，你哪次动过真格的啊！
 [dialog]
 [charslot]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -653,8 +653,8 @@
 [charslot(slot = "m", name = "avg_npc_1034_1#1$1")]
 [name="伍德洛"]自己选下一处吧，左脚还是左手？
 [charslot(slot = "m", name = "avg_npc_1044_1#1$1")]
-[name="蛮横的混混"]你根本不知道......就算逃过了我们......逃过了今天......还会有别人......
-[name="蛮横的混混"]你们一个都别想逃......
+[name="蛮横的混混"]你根本不知道……就算逃过了我们……逃过了今天……还会有别人……
+[name="蛮横的混混"]你们一个都别想逃……
 [dialog]
 [Blocker(a=0, r=255,g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255,g=255, b=255, fadetime=0.03, block=true)]
@@ -669,7 +669,7 @@
 [name="伍德洛"]与其操心我们，不如先想想自己吧。
 [dialog]
 [charslot]
-[name="蛮横的混混"]......
+[name="蛮横的混混"]……
 [dialog]
 [PlaySound(key="$d_avg_shipwhistle", volume=0.4, loop=true, channel="b")]
 [StopSound(channel="b", fadetime=5)]
@@ -732,23 +732,23 @@
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_1034_jesca2_1#3$1")]
 [name="杰西卡"]里昂先生？！
-[name="杰西卡"]你没在里面啊......
+[name="杰西卡"]你没在里面啊……
 [charslot(slot = "m", name = "avg_npc_1035_1#9$1")]
 [name="里昂"]我看到了，杰西卡，看到了。
 [charslot(slot = "m", name = "avg_npc_1043_1#1$1")]
-[name="无措的地块居民"]里昂先生，这孩子一直说要进火场去找你......
+[name="无措的地块居民"]里昂先生，这孩子一直说要进火场去找你……
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$1")]
-[name="杰西卡"]我、我以为你......
+[name="杰西卡"]我、我以为你……
 [charslot(slot = "m", name = "avg_npc_1035_1#9$1")]
-[name="里昂"]......孩子，你别哭了，我还活得好好的呢。
+[name="里昂"]……孩子，你别哭了，我还活得好好的呢。
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$1")]
-[name="杰西卡"]可你、你的房子......
+[name="杰西卡"]可你、你的房子……
 [charslot(slot = "m", name = "avg_npc_1035_1#9$1")]
-[name="里昂"]没事的......没事......我可以去海伦娜那里住。
+[name="里昂"]没事的……没事……我可以去海伦娜那里住。
 [charslot(slot = "m", name = "avg_npc_1035_1#2$1")]
-[name="里昂"]正好，家里只有我一个人，天天望着空荡荡的墙壁，心里也难受......烧了也好。
+[name="里昂"]正好，家里只有我一个人，天天望着空荡荡的墙壁，心里也难受……烧了也好。
 [charslot(slot = "m", name = "avg_npc_1035_1#9$1")]
-[name="里昂"]以后就......再也不惦记了。
+[name="里昂"]以后就……再也不惦记了。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_wind", volume=1)]
@@ -759,13 +759,13 @@
 [charslot(slot = "m", name = "avg_npc_1035_1#5$1")]
 [name="里昂"]是什么声音？
 [charslot(slot = "m", name = "avg_1034_jesca2_1#3$1")]
-[name="杰西卡"]......
+[name="杰西卡"]……
 [charslot(slot = "m", name = "avg_1034_jesca2_1#7$1")]
-[name="杰西卡"]怎么办......怎么办......
+[name="杰西卡"]怎么办……怎么办……
 [charslot(slot = "m", name = "avg_npc_1035_1#5$1")]
-[name="里昂"]怎么办？我都说了，烧了就烧了......
+[name="里昂"]怎么办？我都说了，烧了就烧了……
 [charslot(slot = "m", name = "avg_1034_jesca2_1#6$1")]
-[name="杰西卡"]怎么办，怎么办，怎么办......
+[name="杰西卡"]怎么办，怎么办，怎么办……
 [charslot(slot = "m", name = "avg_npc_1035_1#6$1")]
 [name="里昂"]不是，杰西卡，什么怎么办？到底出什么事了？
 [dialog]
@@ -804,7 +804,7 @@
 [PlaySound(key="$d_avg_collapse", volume=1)]
 [Delay(time=4)]
 [charslot(slot = "r", name = "avg_npc_1045_1#1$1", focus="r")]
-[name="黑钢资深干员"]......看来我们终于快要到了。
+[name="黑钢资深干员"]……看来我们终于快要到了。
 [dialog]
 [SoundVolume(volume=1, channel="f",fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -856,9 +856,9 @@
 [charslot(slot = "m", name = "avg_npc_1034_1#6$1", focus="n")]
 将目光从远处的舰船上收回，伍德洛看到地上的男人早已不见踪影，只留下一行长长的血迹。
 [charslot(slot = "m", name = "avg_npc_1034_1#6$1")]
-[name="伍德洛"]呵......刚刚应该先冲他的脚来颗子弹的。
+[name="伍德洛"]呵……刚刚应该先冲他的脚来颗子弹的。
 [charslot(slot = "m", name = "avg_npc_1034_1#10$1")]
-[name="伍德洛"]妈的......
+[name="伍德洛"]妈的……
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

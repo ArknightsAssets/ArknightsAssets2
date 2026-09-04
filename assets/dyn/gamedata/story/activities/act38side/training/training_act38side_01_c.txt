@@ -18,7 +18,7 @@
 [Delay(time=5)]
 [Battle.Pause]
 
-[popupdialog(dialogHead="$avatar_texas", dialogY="$f_lower_dialog_pos_y")]啧，餐车会占用<@tu.kw>3</>个<@tu.kw>阻挡数</>。只能先让它溜过去了......
+[popupdialog(dialogHead="$avatar_texas", dialogY="$f_lower_dialog_pos_y")]啧，餐车会占用<@tu.kw>3</>个<@tu.kw>阻挡数</>。只能先让它溜过去了……
 
 
 [Battle.Pause(pause=false)]

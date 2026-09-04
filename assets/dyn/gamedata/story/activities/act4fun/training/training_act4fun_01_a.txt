@@ -6,7 +6,7 @@
 
 [Tutorial(protectTime=0.5, dialogHead="$avatar_cammou", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
 想找直播素材，从自己的见闻入手一定没错。我曾经去过的卡西米尔大骑士领就是一个永远不缺素材的地方。
-[PopupDialog(dialogHead="$avatar_ulika")] 大骑士领......听说有很多帅哥，是真的吗？
+[PopupDialog(dialogHead="$avatar_ulika")] 大骑士领……听说有很多帅哥，是真的吗？
 [Battle.Pause(pause=false)]
 [Delay(time=1)]
 [Battle.Pause(pause=true)]
@@ -50,7 +50,7 @@
 [Battle.Pause(pause=true)]
 
 [PopupDialog(dialogHead="$avatar_cammou")] 你拍到的人是竞技骑士，虽然装甲看起来很拉风，但是太常见了，很难说这样的素材会引发什么样的反应。
-[PopupDialog(dialogHead="$avatar_ulika")] 那岂不是要专门挑名人拍？我哪有那样的资源啊......
+[PopupDialog(dialogHead="$avatar_ulika")] 那岂不是要专门挑名人拍？我哪有那样的资源啊……
 [PopupDialog(dialogHead="$avatar_cammou")] 别灰心，名人也有上街闲逛的时候嘛。
 
 

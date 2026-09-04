@@ -34,7 +34,7 @@
 [playsound(key="$d_avg_daggerexsheath")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4025_aprot2_1#6$1")]
-[name="沉渊"]......
+[name="沉渊"]……
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
 [name="沉渊"]我还是做不到。
 [Dialog]
@@ -48,27 +48,27 @@
 [charslot(slot="m",name="avg_4025_aprot2_1#3$1",focus="m")]
 [name="沉渊"]闭嘴！别让我后悔！
 [charslot(slot="m",name="avg_npc_701_1#1$1",focus="m")]
-[name="悲伤的男性"]......
+[name="悲伤的男性"]……
 [charslot(slot="m",name="avg_4025_aprot2_1#4$1",focus="m")]
-[name="沉渊"]我不该心软......
-[name="沉渊"]......那我该如何？
+[name="沉渊"]我不该心软……
+[name="沉渊"]……那我该如何？
 [name="沉渊"]我应该现在就杀了你，割下你的头，带回领主面前。
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1",focus="m")]
-[name="沉渊"]然后忍辱负重，等待复仇时机......
+[name="沉渊"]然后忍辱负重，等待复仇时机……
 [name="沉渊"]不，这不对。
-[name="沉渊"]......拿着这个。
+[name="沉渊"]……拿着这个。
 [Dialog]
 [playsound(key="$d_avg_clothmovement")]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_701_1#1$1",focus="m")]
-[name="悲伤的男性"]这是，你的匕首......
+[name="悲伤的男性"]这是，你的匕首……
 [charslot(slot="m",name="avg_4025_aprot2_1#2$1",focus="m")]
 [name="沉渊"]给你，你走吧。
 [charslot(slot="m",name="avg_npc_701_1#1$1",focus="m")]
 [name="悲伤的男性"]可是，沉渊！
 [name="悲伤的男性"]放走了我，你要怎么办？
 [charslot(slot="m",name="avg_4025_aprot2_1#4$1",focus="m")]
-[name="沉渊"]我......
+[name="沉渊"]我……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -116,14 +116,14 @@
 [charslot(slot="r",name="avg_4025_aprot2_1#9$1",focus="r")]
 [name="沉渊"]平静一点也很好。
 [charslot(slot="r",name="avg_4025_aprot2_1#1$1",focus="r")]
-[name="沉渊"]我倒是希望不要出任何意外......
+[name="沉渊"]我倒是希望不要出任何意外……
 [charslot(slot="l",name="avg_npc_012",focus="l")]
 [name="罗德岛干员"]你的理想是隐居嘛。我知道。
 [name="罗德岛干员"]对了，沉渊。
 [name="罗德岛干员"]我这有件礼物要给你。
 [stopmusic(fadetime=1.5)]
 [charslot(slot="r",name="avg_4025_aprot2_1#4$1",focus="r")]
-[name="沉渊"]礼物？是什么......
+[name="沉渊"]礼物？是什么……
 [Dialog]
 [charslot]
 [playsound(key="$bodyfalldown1")]
@@ -140,10 +140,10 @@
 [name="罗德岛干员"]我把这家伙的武器也一起带回来了。
 [name="罗德岛干员"]这原本是你的，对吧？
 [charslot(slot="r",name="avg_4025_aprot2_1#4$1",focus="r")]
-[name="沉渊"]为......什么......
+[name="沉渊"]为……什么……
 [charslot(slot="l",name="avg_npc_012",focus="l")]
 [name="罗德岛干员"]被你一时心软放走的人。
-[name="罗德岛干员"]在你以为自己已经逃离过去的时候，忽然以这种形式出现......
+[name="罗德岛干员"]在你以为自己已经逃离过去的时候，忽然以这种形式出现……
 [name="罗德岛干员"]沉渊，你当时不杀掉他是正确的选择。
 [charslot(slot="r",name="avg_4025_aprot2_1#5$1",focus="r")]
 [name="沉渊"]正确的，选择？
@@ -151,7 +151,7 @@
 [name="罗德岛干员"]这让这出戏更精彩。
 [name="罗德岛干员"]怎么，沉渊，这不正是你为剧团完成的剧本吗？
 [charslot(slot="r",name="avg_4025_aprot2_1#5$1",focus="r")]
-[name="沉渊"]剧本......？
+[name="沉渊"]剧本……？
 [charslot(slot="r",name="avg_4025_aprot2_1#3$1",focus="r")]
 [name="沉渊"]不，不是的！
 [name="沉渊"]我已经和剧团没关系了，我早就逃出来了！
@@ -167,15 +167,15 @@
 [Delay(time=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
-[name="沉渊"]不......
+[name="沉渊"]不……
 [charslot(slot="m",name="avg_4025_aprot2_1#6$1")]
-[name="沉渊"]这是我自己的选择......
+[name="沉渊"]这是我自己的选择……
 [charslot(slot="m",name="avg_npc_701_1#1$1")]
 [name="悲伤的男性"]什么选择？
 [name="悲伤的男性"]沉渊，你在说什么？
 [charslot(slot="m",name="avg_4025_aprot2_1#6$1")]
-[name="沉渊"]......这是......我自己的......
-[name="沉渊"]......
+[name="沉渊"]……这是……我自己的……
+[name="沉渊"]……
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
 [name="沉渊"]我没能动手杀了你，这是正确的？
 [charslot(slot="m",name="avg_npc_701_1#1$1")]
@@ -186,9 +186,9 @@
 [name="沉渊"]不！
 [name="沉渊"]没有什么安排，你不该死在这个时候！
 [name="沉渊"]快走！我和你一起！
-[name="沉渊"]我们都能逃出去，这次只要小心一点......只要躲起来，不被抓到......
+[name="沉渊"]我们都能逃出去，这次只要小心一点……只要躲起来，不被抓到……
 [charslot(slot="m",name="avg_npc_701_1#1$1")]
-[name="悲伤的男性"]......
+[name="悲伤的男性"]……
 [name="悲伤的男性"]沉渊，你冷静一点。
 [name="悲伤的男性"]我跑不掉的。最后还能见到你，已经够了。
 [Dialog]
@@ -206,19 +206,19 @@
 [playsound(key="$bodyfalldown1")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
-[name="沉渊"]......骗人的吧？
+[name="沉渊"]……骗人的吧？
 [Dialog]
 [charslot]
-[name="不再说话的男性"]......
+[name="不再说话的男性"]……
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
 [name="沉渊"]别演了，起来！
 [name="沉渊"]快起来！再不走就来不及了！
 [Dialog]
 [charslot]
-[name="不再说话的男性"]......
+[name="不再说话的男性"]……
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
-[name="沉渊"]......你为什么不说话？
-[name="沉渊"]......
+[name="沉渊"]……你为什么不说话？
+[name="沉渊"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=1, block=true)]
@@ -230,7 +230,7 @@
 [name="悲伤的男性"]沉渊，我们已经没有别的路可走。
 [name="悲伤的男性"]杀了我，把我的脑袋带回去。
 [charslot(slot="m",name="avg_4025_aprot2_1#7$1")]
-[name="沉渊"]......
+[name="沉渊"]……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_701_1#1$1")]
@@ -247,17 +247,17 @@
 [name="沉渊"]像这样，把匕首送入你的心脏，然后看你一点点死去？
 [charslot(slot="m",name="avg_npc_701_1#1$1")]
 [name="悲伤的男性"]对，没错，就是这样。
-[name="悲伤的男性"]沉渊，你的选择是正确的......
+[name="悲伤的男性"]沉渊，你的选择是正确的……
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
 [name="沉渊"]是吗？
-[name="沉渊"]可是......这真的是我的选择吗？
+[name="沉渊"]可是……这真的是我的选择吗？
 [Dialog]
 [Delay(time=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Subtitle(text="什么是选择？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="什么是你？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“沉渊”的一切都由剧团塑造，你期冀寻找的所谓“自我”......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“沉渊”的一切都由剧团塑造，你期冀寻找的所谓“自我”……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="真的存在吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Dialog]
@@ -276,7 +276,7 @@
 [Blocker(a=0, r=255, g=0, b=0, fadetime=1, block=true)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
-[name="沉渊"]哈......哈哈......
+[name="沉渊"]哈……哈哈……
 [name="沉渊"]你会死，我知道你会死。
 [name="沉渊"]你的头颅注定会离开脖颈，我只希望它不必落在灰尘里。
 [name="沉渊"]所以这一次，这一次我会亲手割下你的头。
@@ -292,12 +292,12 @@
 [name="头颅"]你当然逃不掉。
 [name="头颅"]沉渊，就算你藏得再好，也躲不过那些看着你的眼睛。
 [charslot(slot="m",name="avg_4025_aprot2_1#4$1")]
-[name="沉渊"]......是谁在看着我？
+[name="沉渊"]……是谁在看着我？
 [Dialog]
 [charslot]
 [name="头颅"]当然是观众们。
 [charslot(slot="m",name="avg_4025_aprot2_1#4$1")]
-[name="沉渊"]观众......观众？
+[name="沉渊"]观众……观众？
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
 [name="沉渊"]我演砸了，他们只会想要除掉我，为什么还要看着我？！
 [Dialog]
@@ -306,16 +306,16 @@
 [name="头颅"]你我都知道，这正是艺术的魅力所在。
 [name="头颅"]好的戏剧，好的演员，理应能够调动他人的情绪，不是吗？
 [charslot(slot="m",name="avg_4025_aprot2_1#3$1")]
-[name="沉渊"]不......不是这样，不应该是这样！
+[name="沉渊"]不……不是这样，不应该是这样！
 [name="沉渊"]放过你是我自己的选择，不是他们的安排！
 [Dialog]
 [charslot]
-[name="头颅"]如果你真的能肯定......
+[name="头颅"]如果你真的能肯定……
 [name="头颅"]为什么你还一直走不出这场噩梦？
 [name="头颅"]为什么你明明已经逃离，却还会反复重现那一天？
 [name="头颅"]为什么你要尝试各种可能，要将我从那副身躯上割下，带在身边？
 [charslot(slot="m",name="avg_4025_aprot2_1#5$1")]
-[name="沉渊"]我......
+[name="沉渊"]我……
 [Dialog]
 [charslot]
 [name="头颅"]沉渊，你在恐惧。
@@ -326,7 +326,7 @@
 [name="头颅"]你不喜欢别人的目光落在你身上，因为你在担忧，这里根本就不存在一个“真实的自己”。
 [name="头颅"]我说对了吗？
 [charslot(slot="m",name="avg_4025_aprot2_1#6$1")]
-[name="沉渊"]......
+[name="沉渊"]……
 [name="沉渊"]闭上你的嘴。
 [Dialog]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -366,7 +366,7 @@
 [name="破碎的头颅"]那么，我问你。
 [name="破碎的头颅"]你不是沉渊，你是谁？
 [charslot(slot="m",name="avg_4025_aprot2_1#6$1")]
-[name="？？？"]我是......
+[name="？？？"]我是……
 [charslot(slot="m",name="avg_4025_aprot2_1#3$1")]
 [name="？？？"]我，是——
 [Dialog]
@@ -382,32 +382,32 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_012",focus="l")]
-[name="罗德岛干员"]......落？
+[name="罗德岛干员"]……落？
 [name="罗德岛干员"]暮落？
 [charslot(slot="r",name="avg_4025_aprot2_1#4$1",focus="r")]
 [name="暮落"]——！
 [charslot(slot="r",name="avg_4025_aprot2_1#5$1",focus="r")]
-[name="暮落"]我......我在。
+[name="暮落"]我……我在。
 [charslot(slot="r",name="avg_4025_aprot2_1#1$1",focus="r")]
-[name="暮落"]抱歉，我有点走神了......出什么事了吗？
+[name="暮落"]抱歉，我有点走神了……出什么事了吗？
 [charslot(slot="l",name="avg_npc_012",focus="l")]
 [name="罗德岛干员"]你发什么呆呢？
-[name="罗德岛干员"]没什么事，就是我刚刚好像听到你和人说话......结果过来一看，你就站在这发呆。
+[name="罗德岛干员"]没什么事，就是我刚刚好像听到你和人说话……结果过来一看，你就站在这发呆。
 [charslot(slot="r",name="avg_4025_aprot2_1#1$1",focus="r")]
-[name="暮落"]......你听错了，这里只有我一个人。
+[name="暮落"]……你听错了，这里只有我一个人。
 [name="暮落"]没有其他人。
 [charslot(slot="l",name="avg_npc_012",focus="l")]
 [name="罗德岛干员"]嗯？那可能是我耳朵出问题了。
 [name="罗德岛干员"]对了，■■。
 [charslot(slot="r",name="avg_4025_aprot2_1#4$1",focus="r")]
-[name="■■"]......你喊我什么？
+[name="■■"]……你喊我什么？
 [charslot(slot="l",name="avg_npc_012",focus="l")]
 [name="罗德岛干员"]啊？■■啊。
 [name="罗德岛干员"]怎么了，这不是你的代号吗？
 [name="罗德岛干员"]哎，不说那些，你看——
 [name="罗德岛干员"]我这有件礼物要给你。
 [charslot(slot="r",name="avg_4025_aprot2_1#4$1",focus="r")]
-[name="■■"]......
+[name="■■"]……
 [name="■■"]礼物？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

@@ -15,13 +15,13 @@
 [name="空"]德克萨斯。
 [Character(name="char_101_sora_1#4")]
 [name="空"]萨尔瓦多雷·德克萨斯。我该如何面对你？我该相信你吗？
-[name="空"]你是一个叙拉古人，他们说，你从骨子里就浸透了暴力与野心。你和你的家族会彻底吞噬这里......吞噬哥伦比亚。
-[name="空"]你在我面前所表现出来的，是真正的你吗？你看上去明明那么优雅，那么得体......
+[name="空"]你是一个叙拉古人，他们说，你从骨子里就浸透了暴力与野心。你和你的家族会彻底吞噬这里……吞噬哥伦比亚。
+[name="空"]你在我面前所表现出来的，是真正的你吗？你看上去明明那么优雅，那么得体……
 [name="空"]可是，我也看见过你挥拳的样子，指缝间流淌下鲜血，你的对手再也无法发出一声詈骂。
 [name="空"]哪一边是真正的你，萨尔瓦多雷？
 [name="空"]会不会有一天，你最终意识到这两者无法相容？会不会有一天，你身后的血迹终将追上你？
 [name="空"]到那时，你会做何选择？
-[name="空"]到那时......你还会留在我的身边吗？
+[name="空"]到那时……你还会留在我的身边吗？
 [Dialog]
 [bgEffect(layer = 1)]
 [PlaySound(key="$d_avg_spotlightc", volume=1)]
@@ -45,7 +45,7 @@
 [name="空"]欸？
 [name="空"]他对歌舞剧十分了解，给了我很好的指导，我还以为是剧团的重要人物呢。
 [Character(name="avg_npc_685_1#8$1")]
-[name="贝纳尔多"]......没有印象。不过，对于歌舞剧有心得的人数不胜数，或许他也只是其中之一吧。
+[name="贝纳尔多"]……没有印象。不过，对于歌舞剧有心得的人数不胜数，或许他也只是其中之一吧。
 [name="贝纳尔多"]比起这个，空小姐，我有一个在见到你的简历时就产生了的疑问，不知道你能不能为我解惑？
 [Character(name="char_101_sora_1#1")]
 [name="空"]可以呀。
@@ -56,14 +56,14 @@
 [name="贝纳尔多"]这意味着你的野心并不局限于龙门。
 [name="贝纳尔多"]是什么让你如此努力？
 [Character(name="char_101_sora_1#5")]
-[name="空"]......原因，有很多吧。
+[name="空"]……原因，有很多吧。
 [name="空"]但是最开始，我的想法其实也没有很复杂，我只是希望，能够追上一个人而已。
 [Character(name="avg_npc_685_1#8$1")]
 [name="贝纳尔多"]哦？
 [Character(name="char_101_sora_1#5")]
 [name="空"]嘿，就像这个剧本里写的一样。
 [Character(name="char_101_sora_1#4")]
-[name="空"]每当她偶尔看向天空，看向门外，看向空旷的街道时，她的眼神......
+[name="空"]每当她偶尔看向天空，看向门外，看向空旷的街道时，她的眼神……
 [name="空"]让我觉得，她总有一天会离开我们，离开龙门。
 [name="空"]“到那时，你会做何选择？”
 [StopMusic(fadetime=2)]
@@ -78,7 +78,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Dialog]
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1")]
 [characteraction(name="left", type="move", xpos=100, fadetime=0.7, block=false)]
@@ -95,7 +95,7 @@
 [Character]
 [Character(name="avg_npc_698_1#1$1",name2="char_empty")]
 [characteraction(name="left", type="move", xpos=200, fadetime=0, block=false)]
-[name="贝洛内家护卫"]你是什么......
+[name="贝洛内家护卫"]你是什么……
 [Dialog]
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_683_1#1$1",fadetime=0.3)]
 [characteraction(name="right", type="move", xpos=300, fadetime=0, block=true)]
@@ -115,7 +115,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.1, block=false)]
 [Delay(time=2)]
 [Character(name="avg_npc_698_1#1$1")]
-[name="贝洛内家护卫"]噫......！
+[name="贝洛内家护卫"]噫……！
 [Character(name="avg_1028_texas2_1#7$2",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]真是不解风情，你说是吧，德克萨斯。
 [Character(name="avg_1028_texas2_1#7$2",name2="avg_npc_683_1#9$1",focus=1)]
@@ -131,7 +131,7 @@
 [Character(name="avg_1028_texas2_1#7$2",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]所以，你要吃千层酥吗？
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",fadetime=1,focus=1)]
-[name="德克萨斯"]......给我一块。
+[name="德克萨斯"]……给我一块。
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]哈，这就对了！
 [name="拉普兰德"]德克萨斯，不，在叙拉古，是不是叫你切利尼娜更合适？
@@ -148,7 +148,7 @@
 [name="拉普兰德"]但是，叙拉古的雨是用来冲刷血迹的。
 [name="拉普兰德"]只有你这样，拿着剑招摇过市却根本不打算用的人，才会担心生锈的问题。
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [name="德克萨斯"]你为什么会在这里？
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]很简单啊，因为你在这里。
@@ -159,7 +159,7 @@
 [name="拉普兰德"]七年五个月。
 [Character(name="avg_1028_texas2_1#8$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]德克萨斯家的天之骄子，已经有七年多没有再踏上叙拉古的土地了。
-[name="拉普兰德"]我还记得，你被你爷爷送回叙拉古作为质子，在萨卢佐家，你也住过一段时间......
+[name="拉普兰德"]我还记得，你被你爷爷送回叙拉古作为质子，在萨卢佐家，你也住过一段时间……
 [name="拉普兰德"]很短，但我们相处得很开心，不是吗？
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=1)]
 [name="德克萨斯"]如果你管那叫“相处”的话。
@@ -175,14 +175,14 @@
 [name="拉普兰德"]你背叛了德克萨斯，主动成了离群的狼。
 [name="拉普兰德"]你甚至抛弃了德克萨斯留在哥伦比亚的一切，为什么在龙门却依然以德克萨斯自居？
 [Character(name="avg_1028_texas2_1#8$1",name2="avg_npc_683_1#9$1",focus=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=1)]
 [name="德克萨斯"]这不关你的事。
 [name="德克萨斯"]拉普兰德。
 [name="德克萨斯"]我没有任何留在叙拉古的打算。
 [name="德克萨斯"]我会回龙门，有人在等我。
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#8$1",focus=2)]
-[name="拉普兰德"]......
+[name="拉普兰德"]……
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]可以啊，我会帮你的。
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=1)]
@@ -206,7 +206,7 @@
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]还是说，你真的打算乖乖当贝洛内的宠物？
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Dialog]
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=-1)]
 [StopMusic(fadetime=2)]
@@ -265,7 +265,7 @@
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_1028_texas2_1#7$1")]
-[name="德克萨斯"]......果然。
+[name="德克萨斯"]……果然。
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=1,g=1, b=1, fadetime=0.3, block=true)]
@@ -295,7 +295,7 @@
 [ImageTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=0.88, yScaleTo=0.88,xTo=-50, duration=60, block=false)]
 [name="德克萨斯"]谁派你们来的。
 [name="杀手"]你不需要知道。
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 但她并不担心。
 她了解叙拉古，她知道这样的事永无止境。
 她只觉得有些空虚，连她自己也没有预料到的空虚，因为——
@@ -352,9 +352,9 @@
 [Character(name="avg_4065_judge_1#9$1",name2="avg_npc_693_1#1$1",focus=1)]
 [name="拉维妮娅"]不用，我就在这里等着就好。
 [Character(name="avg_4065_judge_1#9$1",name2="avg_npc_693_1#1$1",focus=2)]
-[name="洗车工"]......
+[name="洗车工"]……
 [Character(name="avg_4065_judge_1#9$1",name2="avg_npc_693_1#1$1",focus=1)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [Character(name="avg_4065_judge_1#9$1",name2="avg_npc_693_1#1$1",focus=2)]
 [name="洗车工"]法官小姐，我听说，法官可是很吃香的。
 [name="洗车工"]开豪车，上电视，市长都要礼让几分。
@@ -372,7 +372,7 @@
 [name="洗车工"]我昨天在大街上遇到他们，他们都避开了我。
 [name="洗车工"]我从没想过，在叙拉古还有像你这么公正的法官。
 [Character(name="avg_4065_judge_1#8$1",name2="avg_npc_693_1#1$1",focus=1)]
-[name="拉维妮娅"]公正......他们只是在害怕我背后的人罢了。
+[name="拉维妮娅"]公正……他们只是在害怕我背后的人罢了。
 [Character(name="avg_4065_judge_1#8$1",name2="avg_npc_693_1#1$1",focus=2)]
 [name="洗车工"]但是，你就算有着贝洛内家的背景，却依然处罚了依附于贝洛内家的家族。
 [name="洗车工"]西西里夫人在叙拉古，意味着公正，我不知道有多少代表她老人家意志的法官真的在做维护公正的事。
@@ -386,7 +386,7 @@
 [Character(name="avg_4065_judge_1#4$1",name2="avg_npc_693_1#4$1",focus=1)]
 [name="拉维妮娅"]怎么，你也有烦恼？
 [Character(name="avg_4065_judge_1#4$1",name2="avg_npc_693_1#6$1",focus=2)]
-[name="洗车工"]......烦恼，说不上。
+[name="洗车工"]……烦恼，说不上。
 [name="洗车工"]其实，对我来说，这份工作是一种消磨时间。
 [Character(name="avg_4065_judge_1#4$1",name2="avg_npc_693_1#4$1",focus=2)]
 [name="洗车工"]虽然我不怎么富有，但我也不怎么需要钱。
@@ -394,7 +394,7 @@
 [Character(name="avg_4065_judge_1#4$1",name2="avg_npc_693_1#1$1",focus=2)]
 [name="洗车工"]法官小姐，你平时，都是怎么消磨时间的？
 [Character(name="avg_4065_judge_1#8$1",name2="avg_npc_693_1#1$1",focus=1)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [Dialog]
 [Character(name="avg_4065_judge_1#8$1",focus=-1)]
 [playsound(key="$phonevibration")]
@@ -405,7 +405,7 @@
 [Delay(time=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_4065_judge_1#3$1")]
-[name="拉维妮娅"]什么？！卡拉奇部长被......
+[name="拉维妮娅"]什么？！卡拉奇部长被……
 [Character(name="avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]我知道了，我立刻过去。
 [Dialog]
@@ -519,10 +519,10 @@
 [Delay(time=1)]
 [Character(name="avg_npc_541_1#5$1",fadetime=0.3)]
 [Delay(time=0.5)]
-[name="卡彭"]啧......还以为只是个少爷，没想到还挺难对付......
+[name="卡彭"]啧……还以为只是个少爷，没想到还挺难对付……
 [Character(name="avg_427_vigil_1#7$1",name2="char_empty")]
 [characteraction(name="left", type="move", xpos=200, fadetime=0,block=false)]
-[name="莱昂图索"]......啧，对方很难缠，卢比奥，退下。
+[name="莱昂图索"]……啧，对方很难缠，卢比奥，退下。
 [Dialog]
 [characteraction(name="right", type="move", xpos=200, fadetime=0,block=false)]
 [Character(name="avg_427_vigil_1#7$1",name2="avg_npc_031",fadetime=0.2)]
@@ -671,7 +671,7 @@
 [Character]
 [Character(name="avg_npc_542_1#4$1",fadetime=0.5)]
 [Delay(time=0.5)]
-[name="甘比诺"]我像是这么容易死的吗？啧，没想到这就遇到正主了......
+[name="甘比诺"]我像是这么容易死的吗？啧，没想到这就遇到正主了……
 [Character(name="avg_npc_541_1#8$1")]
 [name="卡彭"]别废话了。
 [Character(name="avg_npc_541_1#1$1")]
@@ -692,31 +692,31 @@
 [PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
 [Character(name="avg_1028_texas2_1#8$1",name2="char_empty",fadetime=0.5)]
 [Delay(time=1)]
-[name="德克萨斯"]我记得他们两个......
+[name="德克萨斯"]我记得他们两个……
 [Dialog]
 [Character(name="avg_1028_texas2_1#8$1",name2="avg_427_vigil_1#2$1",fadetime=1)]
 [Delay(time=1)]
 [Character(name="avg_1028_texas2_1#8$1",name2="avg_427_vigil_1#2$1",focus=2)]
-[name="莱昂图索"]咳咳、咳咳......
+[name="莱昂图索"]咳咳、咳咳……
 [Character(name="avg_1028_texas2_1#8$1",name2="avg_427_vigil_1#1$1",focus=2)]
-[name="莱昂图索"]人......都撤退了？
+[name="莱昂图索"]人……都撤退了？
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_427_vigil_1#1$1",focus=1)]
 [name="德克萨斯"]没事吧。
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_427_vigil_1#2$1",focus=2)]
 [characteraction(name="right", type="shake", power=10, times=100, fadetime=0.5, block=true)]
-[name="莱昂图索"]没......嘶......
+[name="莱昂图索"]没……嘶……
 [Character(name="avg_1028_texas2_1#5$1",name2="avg_427_vigil_1#2$1",focus=1)]
 [name="德克萨斯"]你受伤了，别动，这样很容易失血。
 [name="德克萨斯"]我已经联络了支援，他们很快就到。
 [Character(name="avg_1028_texas2_1#5$1",name2="avg_427_vigil_1#6$1",focus=2)]
-[name="莱昂图索"]我没事，可怎么会......
+[name="莱昂图索"]我没事，可怎么会……
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_427_vigil_1#6$1",focus=1)]
 [name="德克萨斯"]今天这场宴会有多少人知道？
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_427_vigil_1#5$1",focus=2)]
-[name="莱昂图索"]你的意思是......
+[name="莱昂图索"]你的意思是……
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_427_vigil_1#1$1",focus=2)]
 [name="莱昂图索"]确实，这种有组织有规模的袭击，不可能没有预谋。
-[name="莱昂图索"]但我现在的身份是公开的，想要知道我的行踪没有那么困难......
+[name="莱昂图索"]但我现在的身份是公开的，想要知道我的行踪没有那么困难……
 [name="莱昂图索"]总之，还好你来得够及时。
 [Character(name="avg_1028_texas2_1#2$1",name2="avg_427_vigil_1#1$1",focus=1)]
 [name="德克萨斯"]卡拉奇死了。
@@ -726,17 +726,17 @@
 [Character(name="avg_npc_695_1#3$1")]
 [name="瓦拉赫"]*哥伦比亚俚语*，什么？！
 [Character(name="avg_npc_689_1#3$1")]
-[name="卢比奥"]卡拉奇......死了？
+[name="卢比奥"]卡拉奇……死了？
 [Character(name="avg_1028_texas2_1#7$1",name2="avg_427_vigil_1#5$1",focus=1)]
 [name="德克萨斯"]汽车炸弹，在卡拉奇路过的时候精准引爆，威力很大。
 [name="德克萨斯"]卡拉奇和离他较近的三名护卫当场死亡。
 [Character(name="avg_1028_texas2_1#6$1",name2="avg_427_vigil_1#5$1",focus=1)]
-[name="德克萨斯"]......根据现场的残骸，甚至没有送医的必要。
+[name="德克萨斯"]……根据现场的残骸，甚至没有送医的必要。
 [name="德克萨斯"]抱歉。
 [Character(name="avg_1028_texas2_1#6$1",name2="avg_427_vigil_1#6$1",focus=2)]
-[name="莱昂图索"]......
+[name="莱昂图索"]……
 [Character(name="avg_1028_texas2_1#6$1",name2="avg_427_vigil_1#2$1",focus=2)]
-[name="莱昂图索"]袭击我们的人与杀死卡拉奇部长的毫无疑问是同一批人，他们到底是什么目的......
+[name="莱昂图索"]袭击我们的人与杀死卡拉奇部长的毫无疑问是同一批人，他们到底是什么目的……
 [Dialog]
 [Character(fadetime=0.5)]
 [playsound(key="$d_avg_drivestop", loop=true, channel="bgs")]
@@ -750,7 +750,7 @@
 [Character(name="avg_427_vigil_1#1$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="莱昂图索"]你怎么来了？这里还有这么多法庭的车——
 [Character(name="avg_427_vigil_1#1$1",name2="avg_4065_judge_1#1$1",focus=2)]
-[name="拉维妮娅"]......贝洛内把她请来了，你该早些告诉我的。
+[name="拉维妮娅"]……贝洛内把她请来了，你该早些告诉我的。
 [Dialog]
 [Character(name="avg_427_vigil_1#1$1",name2="avg_4065_judge_1#1$1")]
 [playsound(key="$d_avg_shallowswalk", loop=true, channel="bgs")]
@@ -772,7 +772,7 @@
 [Delay(time=2)]
 德克萨斯没有反抗，她看懂了这位法官的眼神。
 [Character(name="avg_4065_judge_1#1$1")]
-[name="拉维妮娅"]另外......
+[name="拉维妮娅"]另外……
 [Character(name="avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]各位长官以及家族的成员们，卡拉奇部长对于沃尔西尼的重要性不言而喻。
 [name="拉维妮娅"]各位所受到的袭击会在卡拉奇案中合并调查。
@@ -784,7 +784,7 @@
 [Character(name="avg_4065_judge_1#2$1")]
 [name="拉维妮娅"]当然。
 [Character(name="avg_427_vigil_1#7$1")]
-[name="莱昂图索"]......我知道了。
+[name="莱昂图索"]……我知道了。
 [StopMusic(fadetime=3)]
 [Character(name="avg_427_vigil_1#2$1")]
 一连串事情的发生，让莱昂图索感到了些许疲惫。

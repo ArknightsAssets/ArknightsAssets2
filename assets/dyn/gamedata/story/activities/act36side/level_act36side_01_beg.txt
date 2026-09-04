@@ -6,7 +6,7 @@
 [Delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]	
-[name="法琳"]哥......快逃！
+[name="法琳"]哥……快逃！
 [Dialog]
 [PlaySound(key="$d_avg_magicreverse",volume=1)]
 [Background(image="bg_white",fadetime=1.5,screenadapt="coverall")]
@@ -51,7 +51,7 @@
 [charslot(duration=0.5)]
 [Delay(time=1)]
 [Delay(time=2)]
-[Subtitle(text="但是在我们慢慢深入，以为一切顺利时，好像又陷入了新的困境......", x=300, y=550, alignment="center", size=24, delay=0.04, width=750)]
+[Subtitle(text="但是在我们慢慢深入，以为一切顺利时，好像又陷入了新的困境……", x=300, y=550, alignment="center", size=24, delay=0.04, width=750)]
 [subtitle]
 [stopmusic(fadetime=1.5)]
 [curtain(direction = 0,fillfrom = 0.25,fillto = 0.5, fadetime=1.5,a=1)]
@@ -74,7 +74,7 @@
 [Dialog]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4142_laios_1#13$1",focus="m")]
-[name="莱欧斯"]啊，是梦......
+[name="莱欧斯"]啊，是梦……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_4141_marcil_1#7$1",focus="m")]
@@ -83,9 +83,9 @@
 [charslot(slot="m",name="avg_4141_marcil_1#9$1",focus="m")]
 [name="玛露西尔"]你精神怎么样，有觉得头晕吗？
 [charslot(slot="m",name="avg_4142_laios_1#13$1",focus="m")]
-[name="莱欧斯"]头倒是不怎么晕......但突然感觉有点饿了。
+[name="莱欧斯"]头倒是不怎么晕……但突然感觉有点饿了。
 [charslot(slot="m",name="avg_4142_laios_1#1$1",focus="m")]
-[name="莱欧斯"]这里是......？
+[name="莱欧斯"]这里是……？
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_amb_forestnight_loop",volume=0.5,channel="1",loop=true,fadetime=1.5)]
@@ -97,7 +97,7 @@
 [stopsound(channel="1",fadetime=1.5)]
 [charslot(slot="m",name="avg_4142_laios_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="莱欧斯"]天空，太阳，树林......还有......
+[name="莱欧斯"]天空，太阳，树林……还有……
 [charslot(slot="m",name="avg_4141_marcil_1#11$1",focus="m")]
 [name="玛露西尔"]这里看起来很像是迷宫的外面，但不论是我、森西还是齐尔查克，都觉得这里不是任何我们见过的地方。
 [Dialog]
@@ -110,9 +110,9 @@
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.2, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_4141_marcil_1#9$1",focus="m")]
-[name="玛露西尔"]而且你看，还是没有反应......我都试了好几次了，微小精灵一点都不回应我。
+[name="玛露西尔"]而且你看，还是没有反应……我都试了好几次了，微小精灵一点都不回应我。
 [charslot(slot="m",name="avg_4142_laios_1#1$1",focus="m")]
-[multiline(name="莱欧斯")]真是少见......
+[multiline(name="莱欧斯")]真是少见……
 [charslot(slot="m",name="avg_4142_laios_1#16$1",focus="m")]
 [multiline(name="莱欧斯",end=true)]森西？你在干什么？
 [Dialog]
@@ -124,7 +124,7 @@
 [charslot(slot="m",name="avg_4143_sensi_1#1$1",focus="m")]
 [name="森西"]老夫在调查这里的土质。
 [charslot(slot="m",name="avg_4143_sensi_1#3$1",focus="m")]
-[name="森西"]你们看，这里的土壤湿润、色深，在掌心揉搓变热之后有臭味，说明里面含有大量腐殖质......
+[name="森西"]你们看，这里的土壤湿润、色深，在掌心揉搓变热之后有臭味，说明里面含有大量腐殖质……
 [charslot(slot="m",name="avg_4141_marcil_1#5$1",focus="m")]
 [name="玛露西尔"]也就是说？
 [Dialog]
@@ -163,9 +163,9 @@
 [charslot(slot="m",name="avg_4143_sensi_1#1$1",focus="m")]
 [name="森西"]从一层到五层，老夫从来没见过，也从来没听说过有人发现过这样的地方。
 [charslot(slot="m",name="avg_4141_marcil_1#9$1",focus="m")]
-[name="玛露西尔"]......也就是说......
+[name="玛露西尔"]……也就是说……
 [charslot(slot="m",name="avg_4142_laios_1#7$1",focus="m")]
-[name="莱欧斯"]也就是说......？
+[name="莱欧斯"]也就是说……？
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_4144_chilc_1#7$1",focus="all")]
@@ -180,7 +180,7 @@
 [charslot(slot="m",name="avg_4143_sensi_1#1$1",focus="m")]
 [name="森西"]天上飞过去的鸟都是从来没见过的品种，很奇怪，与其说是另一个区域，这里甚至更像是另一个空间。
 [charslot(slot="m",name="avg_4141_marcil_1#9$1",focus="m")]
-[name="玛露西尔"]这里有没有可能就像是......活画里那样？我们被带到了一个像画中世界一样的新地方？
+[name="玛露西尔"]这里有没有可能就像是……活画里那样？我们被带到了一个像画中世界一样的新地方？
 [charslot(slot="m",name="avg_4142_laios_1#9$1",focus="m")]
 [name="莱欧斯"]也就是说，我们会遇到未知的魔物？
 [charslot(slot="m",name="avg_4142_laios_1#10$1",focus="m")]
@@ -191,9 +191,9 @@
 [charslot(slot="m",name="avg_4141_marcil_1#11$1",focus="m")]
 [name="玛露西尔"]而且有一件事很重要，我刚刚尝试了很多次，但在这里我只能使用一些简单的魔法。
 [charslot(slot="m",name="avg_4142_laios_1#16$1",focus="m")]
-[name="莱欧斯"]......这确实是一个很严肃的问题......
+[name="莱欧斯"]……这确实是一个很严肃的问题……
 [charslot(slot="m",name="avg_4143_sensi_1#3$1",focus="m")]
-[name="森西"]而且......
+[name="森西"]而且……
 [charslot(slot="m",name="avg_4142_laios_1#8$1",focus="m")]
 [name="莱欧斯"]而且？
 [charslot(slot="m",name="avg_4143_sensi_1#3$1",focus="m")]
@@ -231,7 +231,7 @@
 [charslot(slot="m",name="avg_4141_marcil_1#13$1",duration=1.5)]
 [Delay(time=2)]
 [name="玛露西尔"]到了这么陌生的环境，我们得多加小心啊。
-[name="玛露西尔"]没人知道这个木屋里是什么，万一是某种新的有敌意的亚人......
+[name="玛露西尔"]没人知道这个木屋里是什么，万一是某种新的有敌意的亚人……
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_4143_sensi_1#1$1",focus="m")]
@@ -239,7 +239,7 @@
 [charslot(slot="r",name="avg_4142_laios_1#1$1",focus="m")]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4144_chilc_1#11$1",focus="m")]
-[multiline(name="齐尔查克")]我建议让我先......
+[multiline(name="齐尔查克")]我建议让我先……
 [stopmusic(fadetime=1.5)]
 [PlaySound(key="$runsand",volume=0.3)]
 [charslot(slot="l",posfrom="0,0",posto="100,0",focus="m",duration=1)]
@@ -276,7 +276,7 @@
 [charslot(slot="r",name="avg_4142_laios_1#8$1",focus="r")]
 [name="莱欧斯"]（低声）剑助？
 [charslot(slot="r",name="avg_4142_laios_1#16$1",focus="r")]
-[name="莱欧斯"]（剑助会对附近的魔物有反应，难道说......）
+[name="莱欧斯"]（剑助会对附近的魔物有反应，难道说……）
 [Dialog]
 [charslot]
 [PlaySound(key="$runsand",volume=1)]
@@ -329,7 +329,7 @@
 [charslot(slot="m",name="avg_4141_marcil_1#22$1",focus="m")]
 [name="玛露西尔"]我没事，感谢你的关心。
 [charslot(slot="m",name="avg_4143_sensi_1#1$1",focus="m")]
-[name="森西"]嗯......壳很硬，没想到这种生物竟然覆盖着这样的矿质外壳，真少见。
+[name="森西"]嗯……壳很硬，没想到这种生物竟然覆盖着这样的矿质外壳，真少见。
 [charslot(slot="m",name="avg_4142_laios_1#8$1",focus="m")]
 [name="莱欧斯"]那、那别的部分呢！
 [charslot(slot="m",name="avg_4143_sensi_1#7$1",focus="m")]
@@ -350,11 +350,11 @@
 [charslot(slot="m",name="avg_4143_sensi_1#1$1",focus="m")]
 [name="森西"]这种伏地生活的动物，多半靠食用腐殖质维生，一般都会携带很多病菌和寄生虫，直接上手触摸的话说不定会被感染。
 [charslot(slot="m",name="avg_4142_laios_1#1$1",focus="m")]
-[name="莱欧斯"]确实......
+[name="莱欧斯"]确实……
 [Dialog]
 [charslot(slot = "m", action="shake",random=true, power=5, times=10,duration=0.3,isblock=true)]
 [charslot(slot="m",name="avg_4142_laios_1#8$1",focus="m")]
-[name="莱欧斯"]（嗯？......剑助？我们不都已经发现这些虫子了吗？难道还有什么危险......）
+[name="莱欧斯"]（嗯？……剑助？我们不都已经发现这些虫子了吗？难道还有什么危险……）
 [Dialog]
 [charslot]
 [stopmusic(fadetime=1.5)]
@@ -365,7 +365,7 @@
 [charslot]
 [PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4142_laios_1#3$1",focus="m")]
-[name="莱欧斯"]......等等！这附近的石头全都“活”过来了！
+[name="莱欧斯"]……等等！这附近的石头全都“活”过来了！
 [charslot(slot="m",name="avg_4141_marcil_1#4$1",focus="m")]
 [name="玛露西尔"]既然如此，只能试着一起解决掉！
 [Dialog]
@@ -380,10 +380,10 @@
 [charslot(duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4141_marcil_1#13$1",focus="m")]
-[name="玛露西尔"]哈，哈......这招怎么样？
+[name="玛露西尔"]哈，哈……这招怎么样？
 [charslot(slot="m",name="avg_4143_sensi_1#4$1",focus="m")]
 [name="森西"]小心！
-[name="森西"]有各种各样的品种！有的还会吐出液体！小心......液体似乎有腐蚀性！
+[name="森西"]有各种各样的品种！有的还会吐出液体！小心……液体似乎有腐蚀性！
 [charslot(slot="m",name="avg_4142_laios_1#8$1",focus="m")]
 [name="莱欧斯"]居然、居然还会喷出腐蚀性液体！
 [charslot(slot="m",name="avg_4141_marcil_1#12$1",focus="m")]
@@ -406,10 +406,10 @@
 [charslot(slot="m",posfrom="0,0",posto="200,0",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4141_marcil_1#7$1",focus="m")]
-[name="玛露西尔"]......呃......？
+[name="玛露西尔"]……呃……？
 [Dialog]
 [charslot(slot="l",name="avg_npc_010",focus="l")]
-[name="？？？"]......
+[name="？？？"]……
 [Dialog]
 [Delay(time=0.5)]
 [PlaySound(key="$e_atk_saw_n_1", volume=0.7,channel="3")]
@@ -452,7 +452,7 @@
 [name="玛露西尔"]我才不会向兽人道歉！而且不用魔法，怎么赶走石头虫啊！
 [name="莱欧斯"]这里果然是没来过的区域！好多新奇的东西！
 [name="齐尔查克"]还有森西，我自己会跑，你放我下来！欸欸欸——
-[name="莱欧斯"]我没在任何书上见过，看起来挺酷的......
+[name="莱欧斯"]我没在任何书上见过，看起来挺酷的……
 [name="齐尔查克"]莱欧斯！！！
 [Dialog]
 [PlaySound(key="$e_atk_saw_n_2", volume=0.7,channel="1")]

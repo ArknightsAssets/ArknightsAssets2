@@ -7,7 +7,7 @@
 [playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_071", name2="char_187_ccheal_1#1", focus=1)]
-[name="阿达克利斯人A"]  噫，这、这招死亡大风车......还有这个发夹......你、你难道是嘉维尔！
+[name="阿达克利斯人A"]  噫，这、这招死亡大风车……还有这个发夹……你、你难道是嘉维尔！
 [Character(name="avg_npc_071", name2="char_187_ccheal_1#3", focus=2)]
 [name="嘉维尔"]  正是我！
 [Character(name="avg_npc_071")]
@@ -32,7 +32,7 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  是啊，以前的我会这样。
 [name="嘉维尔"]  不过，我现在觉得他们还挺可爱的，对吧，博士。
-[Decision(options="虽然听不懂，不过确实。;......;暴揍他们的你比较不可爱。",values="1;2;3")]
+[Decision(options="虽然听不懂，不过确实。;……;暴揍他们的你比较不可爱。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  虽然由我来说可能比较奇怪，不过这里都是些头脑简单的家伙。
@@ -47,7 +47,7 @@
 [name="嘉维尔"]  这叫怎么说来着，对了，一码归一码！
 [Predicate(references="1;2;3")]
 [Character(name="char_411_tomimi_1")]
-[name="特米米"]  嘉维尔......真的和以前不一样了呢。
+[name="特米米"]  嘉维尔……真的和以前不一样了呢。
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  嗯？等等，特米米，你这丫头。
 [Character(name="char_187_ccheal_1#2", name2="char_411_tomimi_1#2", focus=2)]
@@ -62,7 +62,7 @@
 [name="嘉维尔"]  你该不会也是粗尾巴那一边的吧？
 [Character(name="char_187_ccheal_1#2", name2="char_411_tomimi_1#4", focus=2)]
 [name="特米米"]  没有没有，我也不是自己想它才变这么粗的呀！
-[name="特米米"]  呜呜，我也想要嘉维尔一样的细尾巴......
+[name="特米米"]  呜呜，我也想要嘉维尔一样的细尾巴……
 [Character(name="char_187_ccheal_1#2", name2="char_411_tomimi_1#4", focus=1)]
 [name="嘉维尔"]  这样啊，啧啧，真是个可怜的孩子。
 [name="嘉维尔"]  不过，刚才战斗的时候看了看，你的源石技艺变得挺厉害了啊。
@@ -71,7 +71,7 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=1)]
 [name="嘉维尔"]  是啊，来我们罗德岛做个干员应该都没问题了。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=2)]
-[name="特米米"]  干......员？
+[name="特米米"]  干……员？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=1)]
 [name="嘉维尔"]  干员就是呃，反正就是干活的，比如我就是医疗干员。
 [name="嘉维尔"]  我记得我走的时候你还在巫医那里学习吧。
@@ -80,11 +80,11 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=1)]
 [name="嘉维尔"]  为了我？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=2)]
-[name="特米米"]  啊......唔，我是说，为了嘉维尔回来的时候能够帮上忙！就像刚才那样！
+[name="特米米"]  啊……唔，我是说，为了嘉维尔回来的时候能够帮上忙！就像刚才那样！
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=1)]
 [name="嘉维尔"]  好吧，那你确实帮上了忙。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=2)]
-[name="特米米"]  诶嘿嘿......被嘉维尔夸奖了。
+[name="特米米"]  诶嘿嘿……被嘉维尔夸奖了。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=1)]
 [name="嘉维尔"]  好了，总而言之，继续前进吧，我记得神庙就在前面不远了吧？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=2)]
@@ -97,7 +97,7 @@
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=1)]
 [name="阿达克利斯人A"]  森蚺绝对是大酋长啊，他们部族这么厉害。
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=2)]
-[name="阿达克利斯人B"]  是啊，而且她自己也很强，以前不都说除了嘉维尔，就是森蚺了，现在嘉维尔不在......
+[name="阿达克利斯人B"]  是啊，而且她自己也很强，以前不都说除了嘉维尔，就是森蚺了，现在嘉维尔不在……
 [Character(name="avg_npc_070", name2="avg_npc_072", focus=2)]
 [name="阿达克利斯人C"]  喂，看那边！
 [Character(name="avg_npc_070", name2="avg_npc_072", focus=1)]
@@ -120,7 +120,7 @@
 [Character(name="avg_npc_070", name2="avg_npc_072", focus=1)]
 [name="阿达克利斯人B"]  不行，依娜姆大姐最讨厌人多了，不过你们要是有什么想要的，可以问我！
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=1)]
-[name="阿达克利斯人A"]  好啊！......喂，看那边。
+[name="阿达克利斯人A"]  好啊！……喂，看那边。
 [Character(name="avg_npc_071", name2="avg_npc_072", focus=2)]
 [name="阿达克利斯人C"]  那个，难道是嘉维尔！
 [Character(name="avg_npc_070", name2="avg_npc_072", focus=1)]
@@ -144,16 +144,16 @@
 [name="阿达克利斯人A"]  而且嘉维尔不在，大酋长肯定是祖玛玛！
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=2)]
 [name="阿达克利斯人B"]  我就是要见证祖玛玛当上酋长的那一刻啊！
-[name="阿达克利斯人B"]  可恶，我不该不听祖玛玛的话......嗯？弟弟，看那边！
+[name="阿达克利斯人B"]  可恶，我不该不听祖玛玛的话……嗯？弟弟，看那边！
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=1)]
-[name="阿达克利斯人A"]  不是吧，那个人是......嘉维尔？！
+[name="阿达克利斯人A"]  不是吧，那个人是……嘉维尔？！
 [name="阿达克利斯人A"]  她难道回来争大酋长了？
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=2)]
-[name="阿达克利斯人B"]  ......弟弟，抱歉，这下看来我必须去看祭典了。
+[name="阿达克利斯人B"]  ……弟弟，抱歉，这下看来我必须去看祭典了。
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=1)]
 [name="阿达克利斯人A"]  嗯，哥哥，这下确实不看不行了呢。
 [Character(name="char_411_tomimi_1")]
-[name="特米米"]  咦，那两个人，好像是森蚺部族的......
+[name="特米米"]  咦，那两个人，好像是森蚺部族的……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -169,12 +169,12 @@
 [Character]
 [name="阿达克利斯人们"]  嘉维尔，嘉维尔，嘉维尔！
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
-[name="嘉维尔"]  真是群热闹的家伙......我们还是走快点吧。
+[name="嘉维尔"]  真是群热闹的家伙……我们还是走快点吧。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=2)]
 [name="特米米"]  嗯，毕竟大家都很喜欢祭典呢，也都很喜欢嘉维尔呢！
 [name="特米米"]  啊，嘉维尔，看前面那块板子。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=1)]
-[name="嘉维尔"]  我看看，啧，写的什么破字......哦，就是写的“玛维索提亚”。
+[name="嘉维尔"]  我看看，啧，写的什么破字……哦，就是写的“玛维索提亚”。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#2", focus=2)]
 [name="特米米"]  我们到了。
 [stopmusic(fadetime=3)]
@@ -187,11 +187,11 @@
 [delay(time=2)]
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  咦，这里怎么会有音乐？
-[name="嘉维尔"]  而且这音乐怎么有些耳熟......
+[name="嘉维尔"]  而且这音乐怎么有些耳熟……
 [name="嘉维尔"]  喂，博士，这不是AUS的歌吗！
 [Dialog]
 [PlaySound(key="$livecrowd", volume=0.4, loop=false, channel="people")]
-[Decision(options="确实。;......;是吗？", values="1;2;3")]
+[Decision(options="确实。;……;是吗？", values="1;2;3")]
 [Predicate(references="1")]
 [name="嘉维尔"]  是吧。
 [name="嘉维尔"]  虽然我不太懂，但是听其他人偶尔放也有印象。
@@ -211,7 +211,7 @@
 [name="嘉维尔"]  哈？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  然后她们就被请求留在这里进行了相当长一段时间的演出，而且演出的地点基本都是在神庙那里。
-[name="特米米"]  我也有听过一次，确实是很厉害很好听的音乐呢......而且能感觉到很厉害的法术技巧。
+[name="特米米"]  我也有听过一次，确实是很厉害很好听的音乐呢……而且能感觉到很厉害的法术技巧。
 [name="特米米"]  在那之后，许多提亚卡乌就爱上了这种音乐。
 [name="特米米"]  然后有一天，她们就又忽然消失了，大家都说她们是回到先祖的怀抱去了。
 [name="特米米"]  不过我知道她们只是和嘉维尔你一样离开了。

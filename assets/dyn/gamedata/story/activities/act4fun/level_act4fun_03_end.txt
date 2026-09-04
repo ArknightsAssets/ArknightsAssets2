@@ -18,7 +18,7 @@
 [delay(time=1)]
 [name="主播U"]今天我们来看经典电影《魂断拉特兰》！据说讲的是一位作家和萨科塔少年的故事！
 [charslot(slot="m",name="avg_4091_ulika_1#2$1",focus="m")]
-[name="主播U"]这洁白庄严的建筑风格......一定是在拉特兰实景拍摄的吧！
+[name="主播U"]这洁白庄严的建筑风格……一定是在拉特兰实景拍摄的吧！
 [charslot(slot="m",name="avg_4091_ulika_1#7$1",focus="m")]
 [name="主播U"]导演对作家和少年之间关系的微妙——微妙什么来着，忘了，我看看——不！不是看看！我绝对没在念稿！
 [dialog]
@@ -55,7 +55,7 @@
 [delay(time=1)]
 [name="主播U"]今天来做吃播！主播以前也去过好多地方，见过无数美食，这次带大家品尝的是这款全新上市的雨林蘑菇味麻辣咸香沙虫腿！
 [charslot(slot="m",name="avg_4091_ulika_1#1$1",focus="m")]
-[name="主播U"]“还唱不唱歌了”......感觉也已经唱了一段时间，大家的反响——呃，没什么。
+[name="主播U"]“还唱不唱歌了”……感觉也已经唱了一段时间，大家的反响——呃，没什么。
 [charslot(slot="m",name="avg_4091_ulika_1#3$1",focus="m")]
 [name="主播U"]不提那些，来，观众先吃！好了吗？我这就来尝一尝——
 [charslot(slot="m",name="avg_4091_ulika_1#4$1",focus="m")]
@@ -78,17 +78,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_4091_ulika_1#4$1",focus="m",duration=1)]
 [delay(time=1)]
-[name="主播U"]唉，昨天吐了好久，现在胃还难受......
+[name="主播U"]唉，昨天吐了好久，现在胃还难受……
 [charslot(slot="m",name="avg_4091_ulika_1#11$1",focus="m")]
 [name="主播U"]换了这么多直播形式，为什么观众反而越来越少了呢？难道是对我本人有意见？
 [name="主播U"]肯定是他们的问题，他们根本不会欣赏主播U！
 [charslot(slot="m",name="avg_4091_ulika_1#10$1",focus="m")]
-[name="主播U"]不过，还是让我研究研究......他们平时是在哪里议论的？
+[name="主播U"]不过，还是让我研究研究……他们平时是在哪里议论的？
 [name="主播U"]应该是这个论坛没错吧。
 [dialog]
 [playsound(key="$keyboard")]
 [delay(time=1)]
-[name="主播U"]注册新用户......用户名......ERK......
+[name="主播U"]注册新用户……用户名……ERK……
 [Dialog]
 [Delay(time=1)]
 [stopmusic(fadetime=2)]
@@ -143,7 +143,7 @@
 “我，我只是听别的朋友说的，我不知道这个是假的啊，我也就是想跟粉丝们分享分享，我也不是故意的！”
 “我道歉还不行吗，对不起我真的不是故意的，应该是那些后来传播的人的错。”
 “我真的认识到错误了，实在是非常对不起！”
-“......”
+“……”
 “那，那我赔了钱，唱片公司还能考虑考虑我吗？”
 [Dialog]
 [hideitem]

@@ -15,7 +15,7 @@
 [Sticker(id="st1", multi = true, text="\n我仍记得他被从我隔壁牢房带离之前，最后说的话。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="“在任何困难的年月，只要一位自豪的维多利亚人回到那里，就能重新感受到严冬不长，春天将近。”", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n“......朋友，只要回到那里。”",block = true)]
+[Sticker(id="st1", multi = true, text="\n“……朋友，只要回到那里。”",block = true)]
 [Sticker(id="st1")]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -39,7 +39,7 @@
 [dialog]
 [PlaySound(key="$d_avg_soup", volume=1)]
 [delay(time=2)]
-[name="饥饿的佣兵"]“汤”......这东西就是清水里漂了点菜梗和肉片。
+[name="饥饿的佣兵"]“汤”……这东西就是清水里漂了点菜梗和肉片。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]说到底都是他们的问题！
 [charslot(slot="r",name="avg_npc_053",focus="r")]
@@ -51,12 +51,12 @@
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]我开始后悔没跟W那个疯女人走了。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
-[name="困倦的佣兵"]算了......跟她走也未必有什么好下场。
+[name="困倦的佣兵"]算了……跟她走也未必有什么好下场。
 [dialog]
 [PlaySound(key="$d_avg_paper1")]
 [Delay(time=2)]
 [charslot(slot="l",name="avg_npc_054",focus="l")]
-[name="饥饿的佣兵"]这些，还有那些......都是什么书？
+[name="饥饿的佣兵"]这些，还有那些……都是什么书？
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]没兴趣，说不定是折扣目录。
 [charslot(slot="l",name="avg_npc_054",focus="l")]
@@ -66,14 +66,14 @@
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]不过，我从没见过一个上了年纪的人哭成那样，你刚才看到了吗？他的绣花衣襟都被鼻涕粘在一起了。
 [charslot(slot="l",name="avg_npc_054",focus="l")]
-[name="饥饿的佣兵"]......
+[name="饥饿的佣兵"]……
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]喂，傻愣着干嘛！去多给我拿几本过来，火又要灭了。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]你在干什么？
 [charslot(slot="l",name="avg_npc_054",focus="l")]
 [PlaySound(key="$book_close", volume=1)]
-[name="饥饿的佣兵"]呃......看书。
+[name="饥饿的佣兵"]呃……看书。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]啥，“看”？你就不认字！这些还都是维多利亚字！
 [charslot(slot="l",name="avg_npc_054",focus="l")]
@@ -81,19 +81,19 @@
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]我猜是姘头。有没有点更带劲的？
 [charslot(slot="l",name="avg_npc_054",focus="l")]
-[name="饥饿的佣兵"]没了，剩下的图都很无聊......这些东西光一本就有足足几百页，这里有多少本？
+[name="饥饿的佣兵"]没了，剩下的图都很无聊……这些东西光一本就有足足几百页，这里有多少本？
 [charslot(slot="l",name="avg_npc_054",focus="l")]
-[name="饥饿的佣兵"]那边还有些比较薄的，那里面每行写不了几个字就要转向下一行......到底维多利亚人在里面写了些什么东西？
+[name="饥饿的佣兵"]那边还有些比较薄的，那里面每行写不了几个字就要转向下一行……到底维多利亚人在里面写了些什么东西？
 [charslot(slot="l",name="avg_npc_054",focus="l")]
 [name="饥饿的佣兵"]这片大地上真的有那么多值得被写成书的东西吗？
 [charslot(slot="l",name="avg_npc_054",focus="l")]
-[name="饥饿的佣兵"]这本，这本，还有那本......还用这么好的玻璃柜，还分了这么多类别？
+[name="饥饿的佣兵"]这本，这本，还有那本……还用这么好的玻璃柜，还分了这么多类别？
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]还有一种可能，维多利亚人有钱到愿意把厕纸都订在一起。
 [charslot(slot="l",name="avg_npc_054",focus="l")]
 [name="饥饿的佣兵"]哈，说不定。
 [charslot(slot="l",name="avg_npc_054",focus="l")]
-[name="饥饿的佣兵"]我们为什么没有自己的书？这些被翻得卷了边的玩意儿......
+[name="饥饿的佣兵"]我们为什么没有自己的书？这些被翻得卷了边的玩意儿……
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]搞不好真的有呢，听说巫妖不就是一群把自己关在图书馆里的神经病。关了很多很多年，从不露面。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
@@ -105,13 +105,13 @@
 [charslot(slot="l",name="avg_npc_054",focus="l")]
 [name="饥饿的佣兵"]一千年前，我们用刀杀人，现在，我们有了些效率更高的武器。
 [charslot(slot="l",name="avg_npc_054",focus="l")]
-[name="饥饿的佣兵"]也许再过一千年，我们可以飘在天上，用......我不知道，云和星星？继续杀来杀去。
+[name="饥饿的佣兵"]也许再过一千年，我们可以飘在天上，用……我不知道，云和星星？继续杀来杀去。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]你说，要是我们能在月亮上建房子，种地吃饭，以后是不是就不用这么打了？或者什么更大的事发生，大家就不想着打仗了？
 [charslot(slot="l",name="avg_npc_054",focus="l")]
 [name="饥饿的佣兵"]哈哈。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
-[name="困倦的佣兵"]......唉。
+[name="困倦的佣兵"]……唉。
 [charslot(slot="r",name="avg_npc_053",focus="r")]
 [name="困倦的佣兵"]（呵欠）算了，该烧下一本了。
 [Dialog]
@@ -138,13 +138,13 @@
 [charslot(slot="r",name="avg_npc_222",focus="r")]
 [name="红酒报资深编辑"]或者滚回乡下去。你的实习期还有几个月？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="红酒报实习记者"]我、我很抱歉，先生，我只是......想要写得严谨点。
+[name="红酒报实习记者"]我、我很抱歉，先生，我只是……想要写得严谨点。
 [charslot(slot="r",name="avg_npc_222",focus="r")]
 [name="红酒报资深编辑"]“严谨”？我要的不是天灾学论文，我要的是我们在集团内的发行量永远压《四城竞技报》一头！
 [charslot(slot="r",name="avg_npc_222",focus="r")]
 [name="红酒报资深编辑"]如果你是个路过报亭的上班族，或者城际网络的新闻订户，你会为了一篇叫“维多利亚在天灾学方面取得重大进展”的文章付钱吗？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="红酒报实习记者"]可是，“萨卡兹毁灭维多利亚！”这标题，是不是有些......
+[name="红酒报实习记者"]可是，“萨卡兹毁灭维多利亚！”这标题，是不是有些……
 [charslot(slot="r",name="avg_npc_222",focus="r")]
 [name="红酒报资深编辑"]你以为我们的读者想要的是真相？就连《中央新闻报》的那些精英订户们要的也不是“真相”。
 [charslot(slot="r",name="avg_npc_222",focus="r")]
@@ -161,7 +161,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="红酒报资深编辑"]什么？！
 [charslot(slot="r",name="avg_npc_222",focus="r")]
-[name="红酒报资深编辑"]......新来的，送版样的车走了多久了？
+[name="红酒报资深编辑"]……新来的，送版样的车走了多久了？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="红酒报实习记者"]半个小时，难、难道是维多利亚那边又来了新消息？
 [charslot(slot="r",name="avg_npc_222",focus="r")]
@@ -177,7 +177,7 @@
 [charslot(slot="r",name="avg_npc_222",focus="r")]
 [name="红酒报资深编辑"]该向商业联合会证明哪里才是玫瑰报业最重要的编辑部了。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="红酒报实习记者"]那维多利亚和碎片大厦的事情......
+[name="红酒报实习记者"]那维多利亚和碎片大厦的事情……
 [charslot(slot="r",name="avg_npc_222",focus="r")]
 [name="红酒报资深编辑"]没人在乎了，小子，泰拉每天发生那么多事——
 [charslot(slot="r",name="avg_npc_222",focus="r")]
@@ -187,7 +187,7 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="红酒报实习记者"]好、好的！
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="红酒报实习记者"]说起来，先生，放在以前，这附近总有些魔族佬黑车司机......
+[name="红酒报实习记者"]说起来，先生，放在以前，这附近总有些魔族佬黑车司机……
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="红酒报实习记者"]最近是不是很少看见他们了？
 [Dialog]
@@ -197,7 +197,7 @@
 [Sticker(id="st1", multi = true, text="萨卡兹的历史就是战争史本身，这是一项可悲的事实，我忠于它。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n但我仍试图向他们证明，发生在我们身上的这些事情，除了杀戮之外，仍有东西值得被铭记，值得被思考。",block = true)]
 [Sticker(id="st1", multi = true, text="\n这片大地上，有机会被郑重写下的事情本就屈指可数。",block = true)]
-[Sticker(id="st1", multi = true, text="\n可是，就算我记录下这些往事......",block = true)]
+[Sticker(id="st1", multi = true, text="\n可是，就算我记录下这些往事……",block = true)]
 [Sticker(id="st1")]
 [dialog]
 [delay(time=1)]
@@ -217,19 +217,19 @@
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="商队头领"]哪家佣兵队能把全部东西都吃下来？他们疯了？就算是太阳谷工业也不可能买下那么多——
 [charslot(slot="l",name="avg_npc_163",focus="l")]
-[name="商队头领"]......是王酋？
+[name="商队头领"]……是王酋？
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="商队头领"]又是哪个倒霉蛋王酋要挨宰了，透露一点，我们好绕着走。
 [charslot(slot="r",name="avg_npc_164",focus="r")]
-[name="黑市商人"]不，不是王酋。他们很神秘，我说不好......
+[name="黑市商人"]不，不是王酋。他们很神秘，我说不好……
 [charslot(slot="r",name="avg_npc_164",focus="r")]
-[name="黑市商人"]（小声）可能是......帕夏。而且，不止一位。
+[name="黑市商人"]（小声）可能是……帕夏。而且，不止一位。
 [charslot(slot="r",name="avg_npc_164",focus="r")]
 [name="黑市商人"]甚至是——
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="商队头领"]你在说什么胡话？帕夏会来黑市扫货？还不止一位？
 [charslot(slot="l",name="avg_npc_163",focus="l")]
-[name="商队头领"]这不可能，他们有自己的渠道，而且......不止一位帕夏，大规模收购武器？你知道这意味着什么吗？
+[name="商队头领"]这不可能，他们有自己的渠道，而且……不止一位帕夏，大规模收购武器？你知道这意味着什么吗？
 [charslot(slot="r",name="avg_npc_164",focus="r")]
 [name="黑市商人"]我也就是瞎猜。
 [charslot(slot="r",name="avg_npc_164",focus="r")]
@@ -237,7 +237,7 @@
 [charslot(slot="r",name="avg_npc_164",focus="r")]
 [name="黑市商人"]可是，在萨尔贡，谁能这么完美地包揽这一切？
 [charslot(slot="l",name="avg_npc_163",focus="l")]
-[name="商队头领"]......
+[name="商队头领"]……
 [charslot]
 [name="？？？"]喂，老板。
 [dialog]
@@ -265,9 +265,9 @@
 [charslot(slot="r",name="avg_npc_164",focus="r")]
 [name="黑市商人"]谁知道，我向来搞不清这帮魔族佬在想什么。可能只是看腻了沙子和雨林，想换个生活环境。
 [charslot(slot="l",name="avg_npc_163",focus="l")]
-[name="商队头领"]......但愿吧。
+[name="商队头领"]……但愿吧。
 [charslot(slot="l",name="avg_npc_163",focus="l")]
-[name="商队头领"]我总觉得......好多事情比以前复杂了不知道多少倍，我通通都搞不清。
+[name="商队头领"]我总觉得……好多事情比以前复杂了不知道多少倍，我通通都搞不清。
 [charslot(slot="l",name="avg_npc_163",focus="l")]
 [name="商队头领"]——该死，我爷爷那一辈好像只用考虑哪里的小角跳兽最蠢，比较适合当作全家的晚饭，他们那时候是不是没这么多破事？
 [charslot(slot="r",name="avg_npc_164",focus="r")]
@@ -281,12 +281,12 @@
 [charslot]
 [PlaySound(key="$d_avg_penrustle")]
 [Sticker(id="st1", multi = true, text="就算我记述下这些，记述下我们的方言、我们的食谱。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n记述下农妇的一首诗，运输队长酒醉后的大话；记述下战壕里的爱情，废墟里的涂鸦......", block = true)]
+[Sticker(id="st1", multi = true, text="\n记述下农妇的一首诗，运输队长酒醉后的大话；记述下战壕里的爱情，废墟里的涂鸦……", block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="这些东西，在痛苦面前，仍旧不值一提。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n它们甚至成了某种嘲讽，它们似乎在告诉我的读者（如果有的话），我们该用暴力夺回这些。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="这不是我的本意，可我......也无权为他们提供结论。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="这不是我的本意，可我……也无权为他们提供结论。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Delay(time=1)]
 [dialog]
@@ -310,13 +310,13 @@
 [charslot(slot="l",name="avg_npc_867_1#1$1",focus="l")]
 [name="戴着礼帽的人"]他因叛国罪而被处决。
 [charslot(slot="r",name="avg_npc_242",focus="r")]
-[name="焦急的村民"]叛、叛国？你......是什么人？
+[name="焦急的村民"]叛、叛国？你……是什么人？
 [charslot(slot="l",name="avg_npc_867_1#1$1",focus="l")]
 [name="戴着礼帽的人"]配合我的工作，我们彼此都更省事。请你和我谈谈这位亚瑟·莫里森。
 [charslot(slot="r",name="avg_npc_242",focus="r")]
 [name="焦急的村民"]我、我们完全不熟悉，只是因为他是附近唯一一个会跑伦蒂尼姆的邮政信使，我女儿又在伦蒂尼姆上大学，我们才偶尔打一点交道。
 [charslot(slot="r",name="avg_npc_242",focus="r")]
-[name="焦急的村民"]他居然叛国了......他投靠了萨卡兹？我女儿在信里和我说过，伦蒂尼姆现在到处都是萨卡兹。
+[name="焦急的村民"]他居然叛国了……他投靠了萨卡兹？我女儿在信里和我说过，伦蒂尼姆现在到处都是萨卡兹。
 [charslot(slot="r",name="avg_npc_242",focus="r")]
 [name="焦急的村民"]那小混蛋，我早就知道他不是好人！居然和魔族佬勾搭在一起，他活该！
 [charslot(slot="l",name="avg_npc_867_1#1$1",focus="l")]
@@ -324,7 +324,7 @@
 [charslot(slot="l",name="avg_npc_867_1#1$1",focus="l")]
 [name="戴着礼帽的人"]我们确信，亚瑟·莫里森为乌萨斯服务。
 [charslot(slot="r",name="avg_npc_242",focus="r")]
-[name="焦急的村民"]乌萨斯？可，可是......
+[name="焦急的村民"]乌萨斯？可，可是……
 [charslot(slot="l",name="avg_npc_867_1#1$1",focus="l")]
 [name="戴着礼帽的人"]而你，是他的同事，威斯里·罗特先生。
 [charslot(slot="r",name="avg_npc_242",focus="r")]
@@ -368,7 +368,7 @@
 [name="戴着礼帽的人"]如果你坚持的话，我可以卸掉你的另一只胳膊。
 [name="戴着礼帽的人"]别浪费我的时间，你的所有反抗都没有意义。
 [charslot(slot="m",name="avg_npc_242",focus="m")]
-[name="焦急的村民"]......所以，那些传言是真的。
+[name="焦急的村民"]……所以，那些传言是真的。
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="焦急的村民"]乌萨斯人告诉我的是真的！伦蒂尼姆被正式占领了，这一个月，我没收到哪怕一条从伦蒂尼姆来的消息，连传言都没有。
 [charslot(slot="m",name="avg_npc_242",focus="m")]
@@ -399,20 +399,20 @@
 [CameraShake(duration=1, xstrength=0, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_bone_rub")]
 [name="焦急的村民"]咕——呃呃——
-[name="焦急的村民"]唔......
+[name="焦急的村民"]唔……
 [charslot]
 黑色的长矛从他的身体里喷涌而出。
 眼前的男人抽搐着伸出双手，想要祓除破胸的恐惧。
 他的手，在触达那种邪秽的一瞬间，就已扭曲凋零。
 [dialog]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="嘶......", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
+[Sticker(id="st1", multi = true, text="嘶……", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
 [Sticker(id="st1")]
 粗重的呼吸从远方传来，让人脊背生寒。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="戴着礼帽的人"]......
+[name="戴着礼帽的人"]……
 [dialog]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
@@ -421,7 +421,7 @@
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="戴着礼帽的人"]关闭所有通讯，十五分钟后，如果我没有主动发起联络，马上放弃这个镇子。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="戴着礼帽的人"]......但愿我不会溺死在这片花香里。
+[name="戴着礼帽的人"]……但愿我不会溺死在这片花香里。
 [dialog]
 [charslot]
 [dialog]
@@ -432,7 +432,7 @@
 [Dialog]
 [delay(time=1)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="嘶......呼......", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
+[Sticker(id="st1", multi = true, text="嘶……呼……", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
 [Sticker(id="st1")]
 [delay(time=1)]
 [Sticker(id="st1", multi = true, text="11，29，1。【密语】。", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
@@ -448,7 +448,7 @@
 有多近？心跳声像是响雷，黑色的呼吸抓挠着他的脊背，周遭万籁俱寂。
 [Dialog]
 [delay(time=1)]
-[Sticker(id="st1", multi = true, text="嘶......", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
+[Sticker(id="st1", multi = true, text="嘶……", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
 [Sticker(id="st1")]
 [Dialog]
 [delay(time=1)]
@@ -465,7 +465,7 @@
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="戴着礼帽的人"]（高卢语）我明白了。我们不曾见过。
 [charslot(slot="m",name="avg_npc_077",focus="m",bstart=0.2,bend=0.7)]
-[name="？？？"]呼......
+[name="？？？"]呼……
 [dialog]
 [delay(time=0.2)]
 [charslot(slot="m",name="avg_npc_077",focus="m",bstart=0.2,bend=0.7,afrom=1,ato=0,duration=2)]
@@ -473,7 +473,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="戴着礼帽的人"]......他走了。
+[name="戴着礼帽的人"]……他走了。
 [dialog]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
@@ -490,7 +490,7 @@
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="戴着礼帽的人"]但我们的任何行动都可能会促成这种统一的达成。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="戴着礼帽的人"]他们还没有拿定主意，但那个帝国......恐怕，最终会下定决心的。
+[name="戴着礼帽的人"]他们还没有拿定主意，但那个帝国……恐怕，最终会下定决心的。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -498,7 +498,7 @@
 [PlaySound(key="$d_avg_penrustle")]
 [Sticker(id="st1", multi = true, text="是不是，我的这些工作也成了柴薪的一部分，萨卡兹的所有生活，除了被点燃，没有其他的意义？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n那我为什么还要记录，那我为什么还要书写？",block = true)]
-[Sticker(id="st1", multi = true, text="\n我的战争史里除了那一次又一次的毁灭......",block = true)]
+[Sticker(id="st1", multi = true, text="\n我的战争史里除了那一次又一次的毁灭……",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="我更想记述下，每个士兵在战斗过后，望向卡兹戴尔时所唱的歌。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
@@ -512,25 +512,25 @@
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_393_1#7$1",focus="m",duration=1)]
 [delay(time=1)]
-[name="赫德雷"]左后方，三辆车，十五人以上。他们跟了我们很久，但......很谨慎。
+[name="赫德雷"]左后方，三辆车，十五人以上。他们跟了我们很久，但……很谨慎。
 [name="赫德雷"]迄今为止，只是跟着。
 [charslot(slot="m",name="avg_4087_ines_1#2$1",focus="m")]
 [name="伊内丝"]你可以让W打方向盘掉个头，说不定他们很乐意跟你问个好，再送你些伦蒂尼姆的纪念品。
 [charslot(slot="m",name="avg_npc_393_1#1$1",focus="m")]
 [name="赫德雷"]纪念品？他们手上捏着的那一大团源石技艺？
 [name="赫德雷"]之前挨的那几下已经够我受的了。
-[name="赫德雷"]这些佣兵的行动很奇怪，与其说是在猎杀我们，不如说......是在驱赶我们。
+[name="赫德雷"]这些佣兵的行动很奇怪，与其说是在猎杀我们，不如说……是在驱赶我们。
 [name="赫德雷"]他们希望我们远离伦蒂尼姆。
 [charslot(slot="m",name="avg_npc_412_1#1$1",focus="m")]
 [name="W"]咱们高高在上的曼弗雷德将军为了保你的命，还真是煞费苦心啊。你俩真不是拜把子兄弟？
 [name="W"]不如接受他的好意，回卡兹戴尔教贫民窟的小鬼们识字？
 [charslot(slot="m",name="avg_npc_393_1#2$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="m",name="avg_npc_412_1#4$1",focus="m")]
 [name="W"]说到底，是谁把你从军事委员会的大牢里放出来的？我捡到你的时候，你可都已经在伦蒂尼姆的城墙外面散步了。
 [charslot(slot="m",name="avg_npc_393_1#7$1",focus="m")]
 [name="赫德雷"]我的牢房有一段时间无人看守。我原以为是个陷阱，但现在看来，也许更糟。
-[name="赫德雷"]相比于用这么迂回的办法，暗示我去做某些麻烦的事......我倒宁愿简单点，要我的命。
+[name="赫德雷"]相比于用这么迂回的办法，暗示我去做某些麻烦的事……我倒宁愿简单点，要我的命。
 [name="赫德雷"]更何况，我们还不清楚，这些“麻烦事”到底是什么。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]那就躲开它。
@@ -594,19 +594,19 @@
 [playMusic(intro="$plot_intro", key="$plot_loop", volume=0.6)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
-[name="伊内丝"]......
+[name="伊内丝"]……
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]真该庆幸，我们都还完整。
 [charslot(slot="m",name="avg_npc_412_1#1$1",focus="m")]
 [name="W"]怎么样，我确实记得。
 [charslot(slot="m",name="avg_npc_412_1#1$1",focus="m")]
-[name="W"]有几枚爆炸了的......唔，也许是，那个词怎么说的来着？“地质运动”导致的。
+[name="W"]有几枚爆炸了的……唔，也许是，那个词怎么说的来着？“地质运动”导致的。
 [charslot(slot="m",name="avg_4087_ines_1#10$1",focus="m")]
 [name="伊内丝"]那些人没跟上来，我们确实应该甩开他们了。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]我们需要更多情报，最好尽快和罗德岛合流，阿斯卡纶和博士现在都在温德米尔的军舰上。
 [charslot(slot="m",name="avg_4087_ines_1#8$1",focus="m")]
-[name="伊内丝"]有些事情，让我很......不安。
+[name="伊内丝"]有些事情，让我很……不安。
 [charslot(slot="m",name="avg_npc_393_1#3$1",focus="m")]
 [name="赫德雷"]你看见了什么？
 [charslot(slot="m",name="avg_4087_ines_1#2$1",focus="m")]
@@ -614,7 +614,7 @@
 [charslot(slot="m",name="avg_npc_393_1#7$1",focus="m")]
 [name="赫德雷"]你们都见过了这一位“博士”。现在是罗德岛的博士。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
-[name="伊内丝"]......我还不能给你一个直接的结论，但某种意义上，那位博士确实变得“软弱”了。
+[name="伊内丝"]……我还不能给你一个直接的结论，但某种意义上，那位博士确实变得“软弱”了。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]这里的软弱并不是一个贬义词。但也许我们现在不那么需要一个“软弱的博士”。
 [charslot(slot="m",name="avg_npc_412_1#4$1",focus="m")]
@@ -627,9 +627,9 @@
 [name="赫德雷"]W。
 [name="赫德雷"]你在这片战场里行走了这么久，有什么想法？
 [charslot(slot="m",name="avg_npc_412_1#1$1",focus="m")]
-[name="W"]......哈哈。我不过是像虫子一样被赶来赶去，组织不了任何像样的军事行动，只能近距离观赏现代社会最神奇的一场围城战......
+[name="W"]……哈哈。我不过是像虫子一样被赶来赶去，组织不了任何像样的军事行动，只能近距离观赏现代社会最神奇的一场围城战……
 [charslot(slot="m",name="avg_npc_412_1#7$1",focus="m")]
-[name="W"]......哈。哼。
+[name="W"]……哈。哼。
 [charslot(slot="m",name="avg_npc_412_1#8$1",focus="m")]
 [name="W"]混乱。
 [charslot(slot="m",name="avg_npc_412_1#8$1",focus="m")]
@@ -639,15 +639,15 @@
 [charslot(slot="m",name="avg_npc_412_1#6$1",focus="m")]
 [name="W"]但幕后黑手是特雷西斯。所以，这只可能是被精心设计的混乱。
 [charslot(slot="m",name="avg_npc_412_1#6$1",focus="m")]
-[name="W"]他现在根本没考虑什么战略上的乱七八糟的事，他只是......搭好了舞台。
+[name="W"]他现在根本没考虑什么战略上的乱七八糟的事，他只是……搭好了舞台。
 [charslot(slot="m",name="avg_npc_393_1#1$1",focus="m")]
 [name="赫德雷"]——然后等待。
 [charslot(slot="m",name="avg_npc_393_1#2$1",focus="m")]
-[name="赫德雷"]至于等待的是什么......我不想去猜了。
+[name="赫德雷"]至于等待的是什么……我不想去猜了。
 [charslot(slot="m",name="avg_npc_393_1#1$1",focus="m")]
 [name="赫德雷"]我们不能脑袋空空地去见博士和凯尔希医生，然后指望他们给我们下达什么指令。在巴别塔，我们已经吃过苦头了。
 [charslot(slot="m",name="avg_npc_393_1#1$1",focus="m")]
-[name="赫德雷"]必须掌握主动权，有一个......也许以我们的身份接触起来更方便的信源。
+[name="赫德雷"]必须掌握主动权，有一个……也许以我们的身份接触起来更方便的信源。
 [charslot(slot="m",name="avg_npc_412_1#4$1",focus="m")]
 [name="W"]什么身份？可怜虫？
 [charslot(slot="m",name="avg_npc_393_1#1$1",focus="m")]

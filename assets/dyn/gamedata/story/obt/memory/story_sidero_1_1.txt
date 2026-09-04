@@ -55,7 +55,7 @@
 [Character(name="char_260_durnar_1",fadetime=1,block=true)]
 [delay(time=1)]
 [name="坚雷"]  唉？
-[name="坚雷"]  你好......
+[name="坚雷"]  你好……
 [Character(name="char_381_bubble_1", name2="char_260_durnar_1", focus=1)]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="泡泡"]  放开我，放——开——我——
@@ -65,7 +65,7 @@
 [name="铸铁"]  您不是应该和杜宾小姐出任务了吗？
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
 [name="坚雷"]  这个嘛。
-[name="坚雷"]  因为一些个人原因......没能去成，嗯。
+[name="坚雷"]  因为一些个人原因……没能去成，嗯。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
 [name="铸铁"]  那能请您帮助我训练一下吗，最近——
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
@@ -83,7 +83,7 @@
 [Character(name="char_381_bubble_1", name2="char_260_durnar_1", focus=2)]
 [name="坚雷"]  泡泡，你还想在博士那本子上多一笔吗！
 [Character(name="char_381_bubble_1", name2="char_260_durnar_1", focus=1)]
-[name="泡泡"]  唔......
+[name="泡泡"]  唔……
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
 [name="铸铁"]  有什么我能帮忙的吗？
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
@@ -99,14 +99,14 @@
 [name="坚雷"]  是玩游戏，对，玩游戏的时候。
 [name="坚雷"]  你应该知道，泡泡一来劲就喜欢乱跑。
 [name="坚雷"]  刚刚要是没拉住她，旁边这堵隔墙马上就消失。
-[name="坚雷"]  嗯......
+[name="坚雷"]  嗯……
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
 [name="铸铁"]  嗯？
 [Character(name="char_381_bubble_1", name2="char_260_durnar_1", focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="泡泡"]  唔唔唔唔！
 [Character(name="char_381_bubble_1", name2="char_260_durnar_1", focus=2)]
-[name="坚雷"]  ......
+[name="坚雷"]  ……
 [Character(name="char_260_durnar_1")]
 [name="坚雷"]  ！
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
@@ -117,7 +117,7 @@
 [name="坚雷"]  你看，泡泡这么精神，正巧需要发散一下。
 [name="坚雷"]  而铸铁小姐也需要陪练吧。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
-[name="铸铁"]  话是没错......
+[name="铸铁"]  话是没错……
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
 [name="坚雷"]  如果是力量训练的话，泡泡绝对是最佳的对手。
 [name="坚雷"]  单纯比力量，教官团都不是她的对手啊。
@@ -138,7 +138,7 @@
 [name="坚雷"]  那么，泡泡今天就交给你了。
 [name="坚雷"]  尽情地训练去吧！
 [Character(name="char_381_bubble_1", name2="char_260_durnar_1", focus=1)]
-[name="泡泡"]  ......
+[name="泡泡"]  ……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [name="铸铁"]  你好泡泡，我们一起去锻炼吧。
@@ -176,7 +176,7 @@
 [Character(name="char_260_durnar_1",fadetime=1,block=true)]
 [delay(time=1)]
 [name="坚雷"]  祝你们训练愉快啊！
-[name="坚雷"]  ......
+[name="坚雷"]  ……
 [name="坚雷"]  呼，一口气处理了两个大麻烦。
 [name="坚雷"]  铸铁对泡泡，效果到底怎么样呢？
 [Dialog]
@@ -256,7 +256,7 @@
 [delay(time=1.1)]
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
 [name="泡泡"]  这里应该差不多了。
-[name="泡泡"]  嗯......
+[name="泡泡"]  嗯……
 [name="泡泡"]  再远一点。
 [characteraction(name="right", type="move", xpos=25, ypos=0,fadetime=1, block=true)]
 [delay(time=1.1)]
@@ -289,7 +289,7 @@
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [characteraction(name="left", type="move", xpos=150, times=1, fadetime=0.5, block=false)]
 [delay(time=0.5)]
-[name="铸铁"]  唔呃......
+[name="铸铁"]  唔呃……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
 [name="泡泡"]  论力量泡泡是不会输的！
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
@@ -398,10 +398,10 @@
 [Character(name="char_333_sidero_1",fadetime=1,block=true)]
 [delay(time=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="铸铁"]  啊，哈......哈......
+[name="铸铁"]  啊，哈……哈……
 [name="铸铁"]  教官说的没错，力量对抗上，泡泡的确是个可敬的对手。
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
-[name="泡泡"]  输掉了......
+[name="泡泡"]  输掉了……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="泡泡"]  丰蹄姐姐你怎么力气那么大！
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
@@ -413,10 +413,10 @@
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [name="铸铁"]  可能是方法不对。
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
-[name="泡泡"]  嗯......
+[name="泡泡"]  嗯……
 [name="泡泡"]  姐姐有没有小刻的火神大姐强？
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
-[name="铸铁"]  火神......应该没有。
+[name="铸铁"]  火神……应该没有。
 [name="铸铁"]  在米诺斯，没人会愿意和铁匠为敌。
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
 [name="泡泡"]  但姐姐也很强了。
@@ -459,18 +459,18 @@
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Character(name="char_381_bubble_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="泡泡"]  丰蹄姐姐，我，我没有力气了......
+[name="泡泡"]  丰蹄姐姐，我，我没有力气了……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [name="铸铁"]  你在说什么呢，越是这种时候，越能锻炼自己。
 [name="铸铁"]  现在才是展现意志的时候！
 [name="铸铁"]  再来！
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
-[name="泡泡"]  还要，还要再来吗......
+[name="泡泡"]  还要，还要再来吗……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [name="铸铁"]  伟大的战士可不会在训练场里倒下。
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
-[name="泡泡"]  那，我来了......
-[name="泡泡"]  嘿......
+[name="泡泡"]  那，我来了……
+[name="泡泡"]  嘿……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1")]
 [delay(time=0.1)]
 [characteraction(name="right", type="jump", xpos=-100, power=0, times=1, fadetime=0.1, block=true)]
@@ -487,16 +487,16 @@
 [PlaySound(key="$bodyfalldown1",volume=0.6)] 
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
 [name="泡泡"]  真的，动不了了。
-[name="泡泡"]  呃......
+[name="泡泡"]  呃……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [name="铸铁"]  真是遗憾，看来你在耐力上还需要更多的锻炼。
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
-[name="泡泡"]  好累，我要回宿舍睡觉......
+[name="泡泡"]  好累，我要回宿舍睡觉……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [name="铸铁"]  不可以。
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="泡泡"]  唉......为什么......
+[name="泡泡"]  唉……为什么……
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [name="铸铁"]  坚雷小姐让我看管你一整天，我有这个责任。
 [name="铸铁"]  现在就睡觉的话，刚刚的练习就全白费了。
@@ -509,7 +509,7 @@
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=1)]
 [name="铸铁"]  有时间哭，不如来多对抗一下吧。
 [Character(name="char_333_sidero_1", name2="char_381_bubble_1", focus=2)]
-[name="泡泡"]  呜呜......
+[name="泡泡"]  呜呜……
 [characteraction(name="right", type="move", xpos=20, ypos=0,fadetime=1, block=true)]
 [delay(time=1.1)]
 [characteraction(name="right", type="move", xpos=20, ypos=0,fadetime=1, block=true)]
@@ -532,9 +532,9 @@
 [characteraction(name="middle", type="move", xpos=300, fadetime=0.7,block=false)]
 [Character(fadetime=0.5)]
 [delay(time=2)]
-......
+……
 [dialog]
-[name="监控摄像头"]  ......
+[name="监控摄像头"]  ……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -552,10 +552,10 @@
 [Character(name="char_333_sidero_1")]
 [characteraction(name="middle", type="move", xpos=-10, ypos=0,fadetime=1, block=true)]
 [delay(time=2)]
-[name="铸铁"]  跟丢了啊......
+[name="铸铁"]  跟丢了啊……
 [name="铸铁"]  从体力和耐力上来说，我应该是有优势的。
 [name="铸铁"]  为什么总是会跟丢呢？
-[name="铸铁"]  嗯......
+[name="铸铁"]  嗯……
 [name="铸铁"]  看来三十节相关课程还是不够，要找教官们再着重训练一下追踪这方面的技术。
 [Character(name="char_333_sidero_1")]
 [Dialog]
@@ -589,9 +589,9 @@
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1", focus=2)]
 [name="铃兰"]  没，没有呢。
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1", focus=1)]
-[name="铸铁"]  奇怪，这里是墙角，怎么会突然消失呢......
+[name="铸铁"]  奇怪，这里是墙角，怎么会突然消失呢……
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1#5", focus=2)]
-[name="铃兰"]  也许是，爬通风管道走掉了吧，哈哈......
+[name="铃兰"]  也许是，爬通风管道走掉了吧，哈哈……
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1#5", focus=1)]
 [name="铸铁"]  从体型上来说，的确有可能。
 [Character(name="char_381_bubble_1")]
@@ -635,12 +635,12 @@
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1", focus=2)]
 [name="铃兰"]  没有的事！
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1", focus=1)]
-[name="铸铁"]  嗯......
+[name="铸铁"]  嗯……
 [name="铸铁"]  果然是这样啊。
 [Character(name="char_358_lisa_1", name2="char_381_bubble_1", focus=2)]
 [name="泡泡"]  （是什么啊，她看到我了吗！）
 [Character(name="char_358_lisa_1", name2="char_381_bubble_1", focus=1)]
-[name="铃兰"]  （她是不是误解了什么啊......）
+[name="铃兰"]  （她是不是误解了什么啊……）
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1", focus=1)]
 [name="铸铁"]  我理解你的心情，我老家那里想给自己省一点小钱不去看医生结果病死的人实在是太多了。
 [name="铸铁"]  你那么小，不应该受这种罪。
@@ -648,7 +648,7 @@
 [Character(name="char_358_lisa_1", name2="char_381_bubble_1", focus=2)]
 [name="泡泡"]  （她在说什么？）
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1#3", focus=2)]
-[name="铃兰"]  真的，没有事情，而且罗德岛对干员的初步问诊是免费的......咿呀！
+[name="铃兰"]  真的，没有事情，而且罗德岛对干员的初步问诊是免费的……咿呀！
 [Character(name="char_333_sidero_1", name2="char_358_lisa_1#3", focus=1)]
 [characteraction(name="left", type="move", xpos=180, times=1, fadetime=0.5, block=false)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
@@ -691,20 +691,20 @@
 [delay(time=1)]
 [name="坚雷"]  所以泡泡最后，消失了？
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
-[name="铸铁"]  是的......
-[name="铸铁"]  把铃兰小姐送到医务室去以后怎么找都没找到她，只好来找您了......
+[name="铸铁"]  是的……
+[name="铸铁"]  把铃兰小姐送到医务室去以后怎么找都没找到她，只好来找您了……
 [name="铸铁"]  都是我的错，是我没有看住她，抱歉，坚雷教官！
 [name="铸铁"]  请您惩罚我吧！
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
-[name="坚雷"]  不，不至于......
+[name="坚雷"]  不，不至于……
 [name="坚雷"]  泡泡的话，现在应该在宿舍里休息吧，我和宿管确认过了。
 [name="坚雷"]  宿管说难得看到这样乖巧的泡泡，这里也有你一份功劳，辛苦辛苦。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
-[name="铸铁"]  哈......
+[name="铸铁"]  哈……
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
 [name="坚雷"]  谢谢你今天的付出，要是没事的话，你也赶紧回去休息吧。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
-[name="铸铁"]  ......
+[name="铸铁"]  ……
 [name="铸铁"]  教官，其实我还有一点疑惑的地方。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
 [name="坚雷"]  嗯，请说。
@@ -716,7 +716,7 @@
 [name="铸铁"]  我觉得自己这一方面特别欠缺，在追踪其他人的时候总是失手。
 [name="铸铁"]  我是不是，做得还不够好？
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
-[name="坚雷"]  呃......
+[name="坚雷"]  呃……
 [name="坚雷"]  那些只是，例外。对，例外。
 [name="坚雷"]  毕竟现实生活环境和战场还是有区别的，我想你在战场上的追踪能力绝——对没有问题。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
@@ -743,7 +743,7 @@
 [dialog]
 [delay(time=2)]
 [Character(name="char_260_durnar_1")]
-[name="坚雷"]  ......
+[name="坚雷"]  ……
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [name="坚雷"]  关于这件事，你怎么看，杜宾教官？
 [name="坚雷"]  她好像已经发现一点征兆了。
@@ -764,7 +764,7 @@
 [name="坚雷"]  宿管说，泡泡回去除了洗澡一直窝在宿舍里，连饭都是请室友带的。
 [name="坚雷"]  这一段时间内想必她听到“铸铁”这两个字就要打寒颤吧。
 [Character(name="char_260_durnar_1", name2="char_130_doberm_ex", focus=2)]
-[name="杜宾"]  ......
+[name="杜宾"]  ……
 [Character(name="char_333_sidero_1")]
 [name="铸铁"]  教官您是在叫我吗？
 [Character(name="char_260_durnar_1", name2="char_130_doberm_ex#3")]
@@ -776,7 +776,7 @@
 [Character(name="char_333_sidero_1", name2="char_130_doberm_ex", focus=1)]
 [name="铸铁"]  杜宾教官您也在啊，外勤任务这么快就结束了吗。
 [Character(name="char_333_sidero_1", name2="char_130_doberm_ex", focus=2)]
-[name="杜宾"]  嗯......只是到主舰周边物色合适的场地。
+[name="杜宾"]  嗯……只是到主舰周边物色合适的场地。
 [Character(name="char_333_sidero_1", name2="char_130_doberm_ex", focus=1)]
 [name="铸铁"]  那可太好了，其实我是想询问一下，课程可不可以从明天就开始。
 [Character(name="char_333_sidero_1", name2="char_130_doberm_ex#3", focus=2)]
@@ -822,7 +822,7 @@
 [Character(name="char_260_durnar_1", name2="char_130_doberm_ex#3", focus=1)]
 [name="坚雷"]  （小声）就这一次，信我！
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
-[name="铸铁"]  您的意思......是？
+[name="铸铁"]  您的意思……是？
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
 [name="坚雷"]  我知道你有时会担任博士的护卫，博士也时常会从你身边溜走。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
@@ -836,11 +836,11 @@
 [name="坚雷"]  你不觉得，博士最近身体不太好吗？睡眠不是很充足，饮食也不规律，好像还有些轻——微的慢性病症。
 [name="坚雷"]  与其继续精进战斗方面的技巧，让博士健康起来，难道不是一种更好的选择吗？
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
-[name="铸铁"]  我......
+[name="铸铁"]  我……
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=2)]
 [name="坚雷"]  你可以好好思考一下我的建议，晚安，铸铁。
 [Character(name="char_333_sidero_1", name2="char_260_durnar_1", focus=1)]
-[name="铸铁"]  晚安......教官......
+[name="铸铁"]  晚安……教官……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [characteraction(name="left", type="move", xpos=-300, fadetime=0.8,block=false)]
@@ -877,14 +877,14 @@
 [Background(image="bg_trainingcom",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(name="char_333_sidero_1")]
-[name="铸铁"]  ......
+[name="铸铁"]  ……
 [name="铸铁"]  教官说得对。
-[name="铸铁"]  我......
+[name="铸铁"]  我……
 [name="铸铁"]  我以为博士只需要一个，护卫。
 [name="铸铁"]  不，是我理解错了。
 [name="铸铁"]  我以为护卫只需要保证雇主的人身安全就好。
 [name="铸铁"]  我能做到更多的，可我却连想都没想。
-[name="铸铁"]  啊......
+[name="铸铁"]  啊……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="铸铁"]  会长小姐原来是这个意思吗！
 [name="铸铁"]  我虽然对吃没什么要求，但吃得好一些的确会让生活质量提高许多。
@@ -892,7 +892,7 @@
 [name="铸铁"]  真不应该。
 [name="铸铁"]  博士，也是这样想的吧。
 [name="铸铁"]  只是不好意思和愚钝的我说而已。
-[name="铸铁"]  ......
+[name="铸铁"]  ……
 [name="铸铁"]  我决定了。
 [name="铸铁"]  我要拯救博士。
 [Dialog]

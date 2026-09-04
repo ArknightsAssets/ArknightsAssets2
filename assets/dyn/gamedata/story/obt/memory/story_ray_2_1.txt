@@ -22,7 +22,7 @@
 [name="“巨兽”"]既然你难得跑到这里来，俺还有一个小问题。
 [name="“巨兽”"]就当俺是那个“巨兽”，就是你要找的那束光吧——
 [name="“巨兽”"]你跑了这么远，是希望俺帮你做什么呢？
-[name="莱伊"]我......
+[name="莱伊"]我……
 [Dialog]
 [stopmusic(fadetime=3)]
 [image]
@@ -33,11 +33,11 @@
 [PlaySound(key="$rungeneral", volume=1)]
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1",duration=2)]
 [delay(time=2.5)]
-[name="阿兰娜"]你好，请问......你们有看到莱伊吗？
+[name="阿兰娜"]你好，请问……你们有看到莱伊吗？
 [charslot(slot = "m", name = "avg_npc_972_1#1$1")]
 [name="热情的后勤干员"]莱伊小姐？我刚才看见她了！
 [charslot(slot = "m", name = "avg_npc_972_1#1$1")]
-[name="热情的后勤干员"]我刚给她打好饭菜，她就一边端着饭盒吃饭一边走了......
+[name="热情的后勤干员"]我刚给她打好饭菜，她就一边端着饭盒吃饭一边走了……
 [charslot(slot = "m", name = "avg_npc_972_1#1$1")]
 [name="热情的后勤干员"]当时她好像在追着一个毛茸茸的影子，应该是她的沙地兽吧？
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
@@ -50,15 +50,15 @@
 [Background(image="bg_rhodesupperdeck",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]请问......呼......呼......请问你见过莱伊吗？
+[name="阿兰娜"]请问……呼……呼……请问你见过莱伊吗？
 [charslot(slot = "m", name = "avg_npc_090")]
-[name="疑惑的人事干员"]我今天倒是见到了她好几次......我正奇怪呢。
+[name="疑惑的人事干员"]我今天倒是见到了她好几次……我正奇怪呢。
 [charslot(slot = "m", name = "avg_npc_090")]
 [name="疑惑的人事干员"]我上午坐班的时候，看见她出现在那个拐角好多次，而且走路的速度越来越快。
 [charslot(slot = "m", name = "avg_npc_090")]
-[name="疑惑的人事干员"]这么说来，阿兰娜你好像也出现了很多次......
+[name="疑惑的人事干员"]这么说来，阿兰娜你好像也出现了很多次……
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]因......因为我在找她！
+[name="阿兰娜"]因……因为我在找她！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -67,11 +67,11 @@
 [Background(image="bg_corridor",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]呼......呼......呼......
+[name="阿兰娜"]呼……呼……呼……
 [charslot(slot = "m", name = "avg_npc_088")]
-[name="担忧的医疗干员"]阿、阿兰娜小姐......请问你还好吗？
+[name="担忧的医疗干员"]阿、阿兰娜小姐……请问你还好吗？
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]没、没事......
+[name="阿兰娜"]没、没事……
 [charslot]
 [name="？？？"]喂。
 [charslot(slot = "m", name = "avg_4178_alanna_1#8$1")]
@@ -83,15 +83,15 @@
 [delay(time=2.5)]
 [name="莱伊"]怎么了？我刚才听整条船的人说你在找我，所以我过来了。
 [charslot(slot = "m", name = "avg_4178_alanna_1#6$1")]
-[name="阿兰娜"]是啊......我找你找了一整个上午，几乎都要把这艘船翻过来了！
+[name="阿兰娜"]是啊……我找你找了一整个上午，几乎都要把这艘船翻过来了！
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
-[name="莱伊"]......抱歉，我一直在遛沙地兽。
+[name="莱伊"]……抱歉，我一直在遛沙地兽。
 [charslot(slot = "M", name = "AVG_NPC_1188_1#3$1",focus="M")]
 [name="小沙地兽"]（虚弱地瘫倒）
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]......
+[name="阿兰娜"]……
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]是不是我的错觉......这只沙地兽是不是大了一圈？
+[name="阿兰娜"]是不是我的错觉……这只沙地兽是不是大了一圈？
 [charslot(slot = "M", name = "AVG_NPC_1188_1#3$1",focus="M")]
 [name="大沙地兽？"]嗷？
 [charslot(slot = "m", name = "avg_4117_ray_1#10$1",focus="m")]
@@ -99,7 +99,7 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]结果回来的时候，沙地兽就变成球了。
 [charslot(slot = "m", name = "avg_4178_alanna_1#4$1")]
-[name="阿兰娜"]呃......
+[name="阿兰娜"]呃……
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
 [name="莱伊"]所以，我现在一有空就带它出来散步。
 [dialog]
@@ -107,11 +107,11 @@
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 莱伊突然像是想起了什么，在自己的上衣口袋里翻找起来。
 [charslot(slot = "m", name = "avg_4117_ray_1#11$1",focus="m")]
-[name="莱伊"]这个月的分期......不够。
+[name="莱伊"]这个月的分期……不够。
 [charslot(slot = "m", name = "avg_4117_ray_1#11$1",focus="m")]
-[name="莱伊"]这是我的饭卡，你先拿去，就当......利息。
+[name="莱伊"]这是我的饭卡，你先拿去，就当……利息。
 [charslot(slot = "m", name = "avg_4178_alanna_1#3$1")]
-[name="阿兰娜"]你怎么还在惦记这事，我不是为了讨债来的......我就是好久没在内部论坛看到你的“轶事”了，想亲自过来看看你的近况。
+[name="阿兰娜"]你怎么还在惦记这事，我不是为了讨债来的……我就是好久没在内部论坛看到你的“轶事”了，想亲自过来看看你的近况。
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
 [name="莱伊"]嗯，最近没有安全违规，也不需要签保证书。
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
@@ -147,16 +147,16 @@
 [charslot]
 两人一兽从沙箱和门之间仅有的缝隙穿过，终于在床边有了一丝落脚的地方。
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]这个沙箱什么时候又变大了一号......也是难为你每天这样进进出出了。
+[name="阿兰娜"]这个沙箱什么时候又变大了一号……也是难为你每天这样进进出出了。
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]嗷嗷需要更大的空间，我只需要睡觉的地方。
 [dialog]
 [charslot]
 两人并排坐在床边，一起看着沙地兽在沙箱里大口喝水。
 [charslot(slot = "m", name = "avg_4178_alanna_1#3$1")]
-[name="阿兰娜"]......
+[name="阿兰娜"]……
 [charslot(slot = "m", name = "avg_4178_alanna_1#3$1")]
-[name="阿兰娜"]我记得它之前一直都躲在那个石头的角落里......没想到它现在已经不怕我了。
+[name="阿兰娜"]我记得它之前一直都躲在那个石头的角落里……没想到它现在已经不怕我了。
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]这里的人，不凶。上次嗷嗷撞坏靶子，杜宾教官没骂，最后是我们一起修好的。
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
@@ -176,12 +176,12 @@
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
 [name="阿兰娜"]所以啊，你也别总想着还钱了。现在生活稳定下来了，你可以好好筹划一下以后的日子。
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
-[name="阿兰娜"]给沙地兽弄好窝以后，也给自己添点东西，不要像现在这样节俭......
+[name="阿兰娜"]给沙地兽弄好窝以后，也给自己添点东西，不要像现在这样节俭……
 [dialog]
 [charslot]
 就在阿兰娜环视莱伊的宿舍时，她注意到天花板上有一幅海报。
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
-[name="阿兰娜"]这是......“拓荒”？
+[name="阿兰娜"]这是……“拓荒”？
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
 [name="莱伊"]哥伦比亚的旧海报。上次出任务，我从街边小贩那收来的。
 [dialog]
@@ -199,7 +199,7 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]等攒够钱，就租一辆载具，去哥伦比亚的荒原里找那些驮兽。
 [charslot(slot = "m", name = "avg_4178_alanna_1#4$1")]
-[name="阿兰娜"]......莱伊，你还在想着那群会跳舞的驮兽？
+[name="阿兰娜"]……莱伊，你还在想着那群会跳舞的驮兽？
 [charslot(slot = "m", name = "avg_4117_ray_1#10$1",focus="m")]
 [name="莱伊"]嗯，还有那束光。
 [charslot(slot = "m", name = "avg_4178_alanna_1#3$1")]
@@ -207,7 +207,7 @@
 [charslot(slot = "m", name = "avg_4178_alanna_1#3$1")]
 [name="阿兰娜"]你要去找那些不一定存在的驮兽，就会失去现在安稳的生活。
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
-[name="莱伊"]......我不知道。
+[name="莱伊"]……我不知道。
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]可那束光，见过一次后，就再也忘不掉了。就像沙地兽在沙漠里永远都要找水。
 [charslot(slot = "m", name = "avg_4178_alanna_1#4$1")]
@@ -217,16 +217,16 @@
 [charslot(slot = "m", name = "avg_4178_alanna_1#4$1")]
 [name="阿兰娜"]莱伊，难道你不喜欢这里吗？
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
-[name="莱伊"]不......我很喜欢这里，这里比我之前待过的任何一个地方都要好。
+[name="莱伊"]不……我很喜欢这里，这里比我之前待过的任何一个地方都要好。
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
 [name="阿兰娜"]是啊，你的沙地兽也很喜欢这里吧——
 [charslot(slot = "m", name = "avg_4178_alanna_1#8$1")]
 [stopmusic(fadetime=2)]
-[name="阿兰娜"]等等，你的沙地兽呢？刚才还在那的......
+[name="阿兰娜"]等等，你的沙地兽呢？刚才还在那的……
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
-[name="莱伊"]它喝完水，应该是出去了......
+[name="莱伊"]它喝完水，应该是出去了……
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]我刚刚把门关上了啊......
+[name="阿兰娜"]我刚刚把门关上了啊……
 [charslot(slot = "m", name = "avg_4117_ray_1#3$1",focus="m")]
 [name="莱伊"]——！
 [dialog]
@@ -243,25 +243,25 @@
 [PlaySound(key="$d_avg_crowdrun", volume=1)]
 [delay(time=3)]
 [name="着急的干员"]你们有看见莱伊小姐的沙地兽吗？！
-[name="慌张的干员"]没有啊，它平时不都是跟着莱伊小姐......怎、怎么了，走丢了吗？
+[name="慌张的干员"]没有啊，它平时不都是跟着莱伊小姐……怎、怎么了，走丢了吗？
 [name="热心的干员"]赶紧帮忙找找吧！
 [dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1",duration=1)]
 [delay(time=2)]
-[name="阿兰娜"]监控有死角，没法知道它还在不在船上......
+[name="阿兰娜"]监控有死角，没法知道它还在不在船上……
 [charslot(slot = "m", name = "avg_4117_ray_1#2$1",focus="m")]
 [name="莱伊"]我去借一辆载具，回头去追！
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
 [name="阿兰娜"]不行！从它跑丢到现在的时间里，罗德岛已经开出去很远了！
 [charslot(slot = "m", name = "avg_4117_ray_1#2$1",focus="m")]
-[name="莱伊"]不，我必须要找到它......
+[name="莱伊"]不，我必须要找到它……
 [dialog]
 [charslot]
 [name="通讯器里的声音"]阿兰娜小姐，阿兰娜小姐！有干员反映甲板吊桥上好像吊着什么东西。
 [name="通讯器里的声音"]我看你离那边很近，可以拜托你去检修一下吗？
 [charslot(slot = "m", name = "avg_4117_ray_1#3$1",focus="m")]
-[name="莱伊"]甲板吊桥......
+[name="莱伊"]甲板吊桥……
 [charslot(slot = "m", name = "avg_4178_alanna_1#7$1")]
 [name="阿兰娜"]好、好的！
 [dialog]
@@ -273,8 +273,8 @@
 [Delay(time=3)]
 [Background(image="49_g14_rhodesdeck_d",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="阿兰娜"]呃......唔！
-[name="阿兰娜"]你......你，你过来点！
+[name="阿兰娜"]呃……唔！
+[name="阿兰娜"]你……你，你过来点！
 [dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [PlaySound(key="$bodyfalldown3", volume=0.6)]
@@ -282,12 +282,12 @@
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1",duration=1)]
 [delay(time=1)]
-[name="阿兰娜"]呼，呼......累死我了......
+[name="阿兰娜"]呼，呼……累死我了……
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
-[name="阿兰娜"]我的天，它居然能跑到这么高的地方来，胖成这样居然还这么能爬......
+[name="阿兰娜"]我的天，它居然能跑到这么高的地方来，胖成这样居然还这么能爬……
 [playMusic(key="$saferoom_loop", volume=0.6)]
 [charslot(slot = "M", name = "AVG_NPC_1188_1#3$1",focus="M")]
-[name="大沙地兽"]（害怕的叫声）嗷......！
+[name="大沙地兽"]（害怕的叫声）嗷……！
 [dialog]
 [charslot]
 沙地兽扑到了莱伊的怀里，用自己的绒毛在莱伊手上蹭来蹭去。
@@ -318,13 +318,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
-[name="莱伊"]......
+[name="莱伊"]……
 [charslot(slot = "m", name = "avg_4178_alanna_1#8$1")]
 [name="阿兰娜"]哇，怎么突然就开始打雷了？！
 [charslot(slot = "m", name = "avg_4178_alanna_1#8$1")]
 [name="阿兰娜"]怎么了，莱伊？
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
-[name="莱伊"]......嗷嗷突然跑到高处，是有原因的。
+[name="莱伊"]……嗷嗷突然跑到高处，是有原因的。
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
 [name="阿兰娜"]嗯？
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
@@ -334,25 +334,25 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]即使罗德岛有遮雨的屋顶，也没有天敌，它还是会这么做。
 [charslot(slot = "m", name = "avg_4178_alanna_1#4$1")]
-[name="阿兰娜"]可我之前听说，经过精心养护，沙地兽其实可以在室内长期生活，不用再回到荒漠里去......
+[name="阿兰娜"]可我之前听说，经过精心养护，沙地兽其实可以在室内长期生活，不用再回到荒漠里去……
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
 [name="莱伊"]能养，可它总是想要回到那里，吹吹荒野的风。
 [charslot(slot = "M", name = "AVG_NPC_1188_1#3$1",focus="M")]
 [name="大沙地兽"]（精神的叫声）嗷！
 [charslot(slot = "m", name = "avg_4178_alanna_1#4$1")]
-[name="阿兰娜"]我知道了......莱伊，你还想念着荒野的日子，对吧？
+[name="阿兰娜"]我知道了……莱伊，你还想念着荒野的日子，对吧？
 [charslot(slot = "m", name = "avg_4117_ray_1#4$1",focus="m")]
-[name="莱伊"]......你懂？
+[name="莱伊"]……你懂？
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
 [name="阿兰娜"]我当然不懂啦！我哪知道那束光对你来说到底意味着什么，还有你一直念叨的那群驮兽。
 [charslot(slot = "m", name = "avg_4178_alanna_1#3$1")]
-[name="阿兰娜"]......但我知道那种心里有个念想的感觉。
+[name="阿兰娜"]……但我知道那种心里有个念想的感觉。
 [charslot(slot = "m", name = "avg_4178_alanna_1#3$1")]
 [name="阿兰娜"]就像我现在虽然在工程部做得很好，但还是会偶尔想起以前当司机时看到的那些美丽的风景。
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
 [name="阿兰娜"]既然想去，那就去吧。
 [charslot(slot = "m", name = "avg_4117_ray_1#8$1",focus="m")]
-[name="莱伊"]......谢谢你，兰娜。
+[name="莱伊"]……谢谢你，兰娜。
 [charslot(slot = "m", name = "avg_4117_ray_1#8$1",focus="m")]
 [name="莱伊"]不管是为了嗷嗷，还是为了我，谢谢你。
 [charslot(slot = "M", name = "AVG_NPC_1188_1#3$1",focus="M")]
@@ -397,7 +397,7 @@
 [charslot(slot = "M", name = "AVG_NPC_090")]
 [name="严谨的干员"]感谢你主动承接这个任务，说真的，帮了大忙了。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
-[name="莱伊"]......小事。
+[name="莱伊"]……小事。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -419,7 +419,7 @@
 [charslot(slot = "m", name = "AVG_4081_WARMY_1#1$2",duration=1)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4117_ray_1#4$1",focus="m")]
-[name="莱伊"]......小锅盖？
+[name="莱伊"]……小锅盖？
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
 [name="阿兰娜"]她听我说你要出远门了，非要请假过来送送你。
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
@@ -437,7 +437,7 @@
 [charslot(slot = "m", name = "avg_4178_alanna_1#5$1")]
 [name="阿兰娜"]我都说了不用还啦——！
 [charslot(slot = "m", name = "avg_4178_alanna_1#1$1")]
-[name="阿兰娜"]噗......
+[name="阿兰娜"]噗……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -470,11 +470,11 @@
 [charslot(slot = "m", name = "avg_4178_alanna_1#8$1")]
 [name="阿兰娜"]（大声）有没有一种可能，也许你已经找到了那束光呢？
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
-[name="莱伊"]......
+[name="莱伊"]……
 [charslot(slot = "m", name = "avg_4178_alanna_1#8$1")]
 [name="阿兰娜"]（大声）也许在你的生命中，你已经又见过了那束光，只是你记不清了，所以才意识不到！
 [charslot(slot = "m", name = "avg_4117_ray_1#10$1",focus="m")]
-[name="莱伊"]......
+[name="莱伊"]……
 [charslot(slot = "m", name = "avg_4117_ray_1#2$1",focus="m")]
 [name="莱伊"]（更大声）光是追寻本身——已经很有趣了！
 [Dialog]

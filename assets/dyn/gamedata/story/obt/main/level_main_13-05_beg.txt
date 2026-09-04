@@ -49,10 +49,10 @@
 [charslot(slot="m",name="avg_4110_delphn_1#8$1",focus="m")]
 [name="戴菲恩"]从战场环境看，广场的东、北两面都被卡慕河包围，东面的渡口还被萨卡兹把控，南面那边成片的火光应该就是萨卡兹的军营。
 [name="戴菲恩"]而他们已经在市政楼内坚守了超过两周。
-[name="戴菲恩"]要是笔记情况属实，至少两天前，随着沟通市政楼和北面河对岸居民区的唯一一座剩余桥梁被萨卡兹袭击......
+[name="戴菲恩"]要是笔记情况属实，至少两天前，随着沟通市政楼和北面河对岸居民区的唯一一座剩余桥梁被萨卡兹袭击……
 [name="戴菲恩"]最坏的情况下，他们很有可能已经失去了所有的补给来源。
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
-[name="摩根"]......弹尽粮绝。
+[name="摩根"]……弹尽粮绝。
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -73,23 +73,23 @@
 [name="推进之王"]你应该也清楚，这支队伍里，只有我们最适合这个任务。
 [name="推进之王"]我们是罗德岛的干员，熟悉以小队为编组的特种作战任务。我们还是诺伯特区的混混，知道怎么偷偷摸摸进去，悄无声息离开。
 [charslot(slot="m",name="avgnew_112_siege_1#2$1",focus="m")]
-[name="推进之王"]还有几个士兵和市民自愿跟了上来，他们也想要支援那支曾声名远扬的“风暴突击队”，但我们不能带走太多人......
+[name="推进之王"]还有几个士兵和市民自愿跟了上来，他们也想要支援那支曾声名远扬的“风暴突击队”，但我们不能带走太多人……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]希勒少尉走后，我们不能无视队伍防卫空虚的事实。
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="我没怎么听维娜接下来的说辞。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n这是“灰礼帽”恶劣的玩笑吗？还是......这就是战场上的常态？",block = true)]
-[Sticker(id="st1", multi = true, text="\n求救讯号，救与不救，还有救一些人总要牺牲一些人的......规律。",block = true)]
+[Sticker(id="st1", multi = true, text="\n这是“灰礼帽”恶劣的玩笑吗？还是……这就是战场上的常态？",block = true)]
+[Sticker(id="st1", multi = true, text="\n求救讯号，救与不救，还有救一些人总要牺牲一些人的……规律。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
-[name="推进之王"]戴菲恩......我知道你在想什么。
+[name="推进之王"]戴菲恩……我知道你在想什么。
 [name="推进之王"]这又是个掺杂了个人感情的行动，但我不能无视那个求援信号。
 [name="推进之王"]而且，他们都是出色的战士。只要他们活着，就会是好帮手的。
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
-[name="戴菲恩"]......好。我相信你的判断。
+[name="戴菲恩"]……好。我相信你的判断。
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]戴菲恩，你和这几位战士留在外面，我们需要外围岗哨。
 [name="推进之王"]一旦失去我们的信号，你立刻带他们撤离。
@@ -125,7 +125,7 @@
 [CharacterCutin(widgetID="3",fadetime=0.2,block=false)]
 [delay(time=0.3)]
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#10$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
-[name="推进之王"]摩根吸引另外一个人注意，我和汉娜同时动手......准备......动手！
+[name="推进之王"]摩根吸引另外一个人注意，我和汉娜同时动手……准备……动手！
 [Dialog]
 [CharacterCutin(widgetID="1",fadetime=0.2,block=false)]
 [delay(time=0.3)]
@@ -133,7 +133,7 @@
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="我看到窗口的灯熄灭了。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n......顺利吗？",block = true)]
+[Sticker(id="st1", multi = true, text="\n……顺利吗？",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -142,12 +142,12 @@
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="等等......羽兽？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="等等……羽兽？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n一只漆黑的羽兽飞掠出渡口的小屋，盘旋于渡口上空一周，直奔萨卡兹军营的方向而去。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_4110_delphn_1#3$1",focus="m")]
-[name="戴菲恩"]......维娜！
+[name="戴菲恩"]……维娜！
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_runstop")]
@@ -166,14 +166,14 @@
 [name="达格达"]汉娜，你吓到它了！这是军用羽兽！
 [Dialog]
 [CharacterCutin(widgetID="3", name="avg_155_tiger_1#2$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.2, offsetx=300, width=200, block=true)]
-[name="因陀罗"]老子也没注意到嘛......
+[name="因陀罗"]老子也没注意到嘛……
 [Dialog]
 [CharacterCutin(widgetID="3",fadetime=0.2,block=false)]
 [CharacterCutin(widgetID="4",fadetime=0.2,block=false)]
 [delay(time=0.3)]
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#1$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
 [name="推进之王"]我们开始向市政楼靠拢，沿途没有萨卡兹的踪迹。
-[name="推进之王"]广场上有很多尸体，天色太黑无法辨认身份......准备进入市政楼......
+[name="推进之王"]广场上有很多尸体，天色太黑无法辨认身份……准备进入市政楼……
 [Dialog]
 [CharacterCutin(widgetID="1",fadetime=0.2,block=false)]
 [delay(time=0.3)]
@@ -187,7 +187,7 @@
 [Dialog]
 [charslot]
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#2$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
-[name="推进之王"]收到，嗯......
+[name="推进之王"]收到，嗯……
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#1$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
 [name="推进之王"]入口全被木板封死了。
 [Dialog]
@@ -199,11 +199,11 @@
 [CharacterCutin(widgetID="5",fadetime=0.2,block=false)]
 [delay(time=0.3)]
 [charslot(slot="m",name="avg_4110_delphn_1#9$1",focus="m")]
-[name="戴菲恩"]太好了......有看到号角小姐的部队吗？
+[name="戴菲恩"]太好了……有看到号角小姐的部队吗？
 [Dialog]
 [charslot]
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#1$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
-[multiline(name="推进之王")]暂时没有......
+[multiline(name="推进之王")]暂时没有……
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#10$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
 [multiline(name="推进之王")]停！有动静！所有人关闭通讯，窗口有未知身份的弩手在楼内侦察对岸居民区，看我手势。
 [Dialog]
@@ -243,7 +243,7 @@
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="她们暴露了？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n等等，楼顶有人站在月亮前招手？那是......维娜吗？",block = true)]
+[Sticker(id="st1", multi = true, text="\n等等，楼顶有人站在月亮前招手？那是……维娜吗？",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -299,7 +299,7 @@
 [name="号角"]*嘈杂的通讯声*
 [name="号角"]这是我们全票通过后的决定。
 [CharacterCutin(widgetID="6", name="avg_npc_229_1#6", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
-[name="号角"]包括了......Misery先生。感谢他。
+[name="号角"]包括了……Misery先生。感谢他。
 [Dialog]
 [CharacterCutin(widgetID="1",fadetime=0.2,block=false)]
 [CharacterCutin(widgetID="6",fadetime=0.2,block=false)]
@@ -316,7 +316,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#1$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0.2, offsetx=0, width=200, block=true)]
-[name="推进之王"]那么......
+[name="推进之王"]那么……
 [name="推进之王"]既然你们选择孤注一掷，我有个更大胆的计划也许你想听听。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -336,10 +336,10 @@
 [Sticker(id="st1", multi = true, text="\n当然，有些人称之为，鲁莽。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="但我依然期待，期待她能坚持走到那一步，期待她能在地狱里找到一条离开的路。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n我必须......如此相信。我才能从那个地狱里走出来。",block = true)]
+[Sticker(id="st1", multi = true, text="\n我必须……如此相信。我才能从那个地狱里走出来。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="我甚至没法去想那天的事。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n戴菲恩......戴菲恩，先专注眼前。",block = true)]
+[Sticker(id="st1", multi = true, text="\n戴菲恩……戴菲恩，先专注眼前。",block = true)]
 [Sticker(id="st1", multi = true, text="\n哨戒任务已结束，该去和她们会合了。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -353,7 +353,7 @@
 [musicvolume(volume=0.6, fadetime=1)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
-[name="推进之王"]天快亮了......我们的准备工作到什么地步了？
+[name="推进之王"]天快亮了……我们的准备工作到什么地步了？
 [charslot(slot="m",name="avg_npc_405_1#1$1",focus="m")]
 [name="摩根"]内部门窗加固很顺利，周围的暗哨Misery先生也清理得很干净。
 [Dialog]
@@ -388,12 +388,12 @@
 [charslot(slot="r",name="avgnew_112_siege_1#1$1",focus="r")]
 [name="推进之王"]那只是根铁条。
 [charslot(slot="l",name="avg_npc_229_1#5",focus="l")]
-[name="号角"]铁、铁条，你就这么称呼维多利亚的国剑......
+[name="号角"]铁、铁条，你就这么称呼维多利亚的国剑……
 [charslot(slot="r",name="avgnew_112_siege_1#9$1",focus="r")]
 [name="推进之王"]别想着诸王之息了，这话会让你们失望，但它带不来什么奇迹。
 [name="推进之王"]我们能依靠的只有自己。
 [charslot(slot="r",name="avgnew_112_siege_1#1$1",focus="r")]
-[name="推进之王"]但......哪怕只是我们自己，也足够了。
+[name="推进之王"]但……哪怕只是我们自己，也足够了。
 [charslot(slot="l",name="avg_npc_229_1#1",focus="l")]
 [name="号角"]是啊。
 [name="号角"]你们的支援已经证明了这一点。
@@ -402,7 +402,7 @@
 [charslot(slot="l",name="avg_npc_229_1#6",focus="l")]
 [name="号角"]推进之王，你可以向我们证明这一点。
 [charslot(slot="r",name="avgnew_112_siege_1#1$1",focus="r")]
-[name="推进之王"]......好。
+[name="推进之王"]……好。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -416,7 +416,7 @@
 [Delay(time=0.5)]
 [charslot(slot="m",name="avgnew_112_siege_1#1$2",focus="m")]
 [name="推进之王"]我们的队伍大多不是专业战斗人员，占据高点做好防御射击就行。
-[name="推进之王"]那些漏进来的萨卡兹......我们几个作为突击手必须以最快的速度清理掉。
+[name="推进之王"]那些漏进来的萨卡兹……我们几个作为突击手必须以最快的速度清理掉。
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
 [name="戴菲恩"]号角小姐的部队会继续留守桥口防御阵地部署桥头轰炸区。
 [name="戴菲恩"]他们会按原计划继续阻止萨卡兹强行突破大桥的尝试。
@@ -482,7 +482,7 @@
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="巡逻队伍倒地的第一时间，萨卡兹军营上空的警报开始尖啸。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n时间没有留给我思考的余地......保卫战，开始了。",block = true)]
+[Sticker(id="st1", multi = true, text="\n时间没有留给我思考的余地……保卫战，开始了。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -500,7 +500,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_053",focus="m")]
-[multiline(name="萨卡兹雇佣兵")]更多的兄弟会踩着我的尸体撕碎你们，*萨卡兹粗口*......
+[multiline(name="萨卡兹雇佣兵")]更多的兄弟会踩着我的尸体撕碎你们，*萨卡兹粗口*……
 [PlaySound(key="$e_skill_skulsrsword", volume=0.4)]
 [playsound(key="$p_imp_sword_n", volume=0.7, delay=0.2)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -515,7 +515,7 @@
 [charslot(slot="m",name="avg_npc_053",posfrom="0,0",posto="0,-20",duration=1,isblock=false)]
 [charslot(slot="m",name="avg_npc_053",afrom=1,ato=0,duration=0.5)]
 [Delay(time=0.3)]
-[multiline(name="萨卡兹雇佣兵")]呃......
+[multiline(name="萨卡兹雇佣兵")]呃……
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -565,7 +565,7 @@
 [CharacterCutin(widgetID="3",fadetime=0.2,block=false)]
 [delay(time=0.3)]
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#1$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
-[name="推进之王"]那就好，昨天来不及支援达格达的意外不能再发生了......
+[name="推进之王"]那就好，昨天来不及支援达格达的意外不能再发生了……
 [Dialog]
 [CharacterCutin(widgetID="1",fadetime=0.2,block=false)]
 [delay(time=0.3)]
@@ -576,7 +576,7 @@
 [charslot]
 [delay(time=0.2)]
 [CharacterCutin(widgetID="2", name="avg_npc_405_1#6$1", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=0, width=200, block=true)]
-[name="摩根"]......醒了，但不方便移动。
+[name="摩根"]……醒了，但不方便移动。
 [name="摩根"]她太拼命了，我尽量照顾她。
 [Dialog]
 [CharacterCutin(widgetID="2",fadetime=0.2,block=false)]
@@ -654,18 +654,18 @@
 [charslot(slot="m",name="avg_npc_396_1#8$1",focus="m")]
 [name="达格达"]你终于醒了，戴菲恩。
 [charslot(slot="m",name="avg_4110_delphn_1#5$1",focus="m")]
-[name="戴菲恩"]我......头很痛......
+[name="戴菲恩"]我……头很痛……
 [charslot(slot="m",name="avg_npc_396_1#9$1",focus="m")]
-[name="达格达"]你昨天在外面救人时没有来得及撤退，他们的移动战争祭坛的试射波及了你的位置......
+[name="达格达"]你昨天在外面救人时没有来得及撤退，他们的移动战争祭坛的试射波及了你的位置……
 [charslot(slot="m",name="avg_4110_delphn_1#11$1",focus="m")]
-[name="戴菲恩"]......昨天？......移动......战争祭坛？本呢？
+[name="戴菲恩"]……昨天？……移动……战争祭坛？本呢？
 [charslot(slot="m",name="avg_npc_396_1#8$1",focus="m")]
 [name="达格达"]哈，看来我们两个人都错过了很多东西——
 [charslot(slot="m",name="avg_npc_396_1#2$1",focus="m")]
 [charslot(slot = "l", action="shake",random=true, power=5, times=60,duration=0.3)]
 [name="达格达"]——嘶，我的背还是很痛，摩根的缝补手艺真不太行。本还活着。
 [charslot(slot="m",name="avg_4110_delphn_1#11$1",focus="m")]
-[name="戴菲恩"]谁......把我带回来的？
+[name="戴菲恩"]谁……把我带回来的？
 [charslot(slot="m",name="avg_npc_396_1#1$1",focus="m")]
 [name="达格达"]汉娜，她当时发现你还留在外面，就第一时间从三楼的窗户跳了出去把你拖回室内。
 [name="达格达"]她也是刚醒，已经赶去支援维娜了。
@@ -673,14 +673,14 @@
 [charslot]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4110_delphn_1#11$1",focus="m")]
-[name="戴菲恩"]他们......都是这次受伤的人？
+[name="戴菲恩"]他们……都是这次受伤的人？
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [charslot(duration=1)]
 [Delay(time=2.5)]
 我从堆满伤员的地下通道走过，几十双沾满血污的眼睛正向我示意。
 [charslot(slot="m",name="avg_npc_396_1#9$1",focus="m")]
-[name="达格达"]现在的情况很糟糕......我们得赶紧了。
+[name="达格达"]现在的情况很糟糕……我们得赶紧了。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -729,7 +729,7 @@
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#1$2", style="cutin",fadestyle= "horiz_expand_center", fadetime=0, offsetx=300, width=200, block=true)]
 [name="推进之王"]知道这些就够了，我去顶层找机会，只有从高位才有机会接近到巫术核心。
 [name="推进之王"]Misery先生，你能在祭坛启动时帮我延缓炮手一小会儿吗？哪怕只有一秒？
-[name="Misery"]......我答应你。
+[name="Misery"]……我答应你。
 [Dialog]
 [PlaySound(key="$transmission",volume=1)]
 [CharacterCutin(widgetID="7",fadetime=0.5,block=false)]
@@ -748,16 +748,16 @@
 [charslot]
 [Sticker(id="st1", multi = true, text="我愣在了通往二层的楼梯口。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="我花了一些时间才敢相信，左侧外墙完全塌掉的建筑就是我们驻守超过......也许五天的市政楼。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我花了一些时间才敢相信，左侧外墙完全塌掉的建筑就是我们驻守超过……也许五天的市政楼。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n不再需要窗户和瞭望口，广场就如此突兀地向我展露了它的惨烈细节。",block = true)]
 [Sticker(id="st1", multi = true, text="\n黎明的晖光中，废墟中的移动战争祭坛支架拱卫的红色结晶妖异闪耀，它的金属骨架反射着不祥的光。",block = true)]
 [Sticker(id="st1", multi = true, text="\n它好像在呢喃着：直视鲜血，直视凋零，直视死亡。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="这就是妈妈始终在做的事情......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="这就是妈妈始终在做的事情……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Dialog]
 [delay(time=1)]
-[Sticker(id="st1", multi = true, text="......而这是这些天我唯一一次想起她。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……而这是这些天我唯一一次想起她。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -774,7 +774,7 @@
 [charslot(slot="m",name="avgnew_112_siege_1#1$2",focus="m")]
 [name="推进之王"]戴菲恩，达格达，欢迎回来。
 [charslot(slot="m",name="avg_4110_delphn_1#8$1",focus="m")]
-[name="戴菲恩"]萨卡兹......已经大规模装备了这种武器？
+[name="戴菲恩"]萨卡兹……已经大规模装备了这种武器？
 [charslot(slot="m",name="avg_npc_235",focus="m")]
 [name="Misery"]我不这么想，这应该也是军事委员会在维多利亚蛰伏期间实验出的新东西，设计依旧很简陋。
 [name="Misery"]戴菲恩小姐，你醒了，你状态看上去不差。
@@ -789,7 +789,7 @@
 [name="因陀罗"]嘿，举手之劳。
 [charslot(slot="m",name="avgnew_112_siege_1#1$2",focus="m")]
 [name="推进之王"]大伙儿，听着，我想彻底干掉那些移动祭坛，我还需要你们帮我一个忙。
-[name="推进之王"]我需要诱饵，我需要有人留在这诱导那些该死的东西开炮......
+[name="推进之王"]我需要诱饵，我需要有人留在这诱导那些该死的东西开炮……
 [charslot(slot="m",name="avg_155_tiger_1#1$1",focus="m")]
 [name="因陀罗"]听上去像我能干的活。
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
@@ -798,16 +798,16 @@
 [name="戴菲恩"]这不是随便逞能的时候，那东西的恐怖，我才最有话语权。
 [name="戴菲恩"]摩根，你的手还没有恢复。我去配合汉娜。
 [charslot(slot="m",name="avgnew_112_siege_1#1$2",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [name="推进之王"]我还需要一个人随时待命，一旦我没有成功，必须要立马接替我攻击核心，Misery先生能为我们争取的时间不多。
 [charslot(slot="m",name="avg_npc_396_1#9$1",focus="m")]
 [name="达格达"]我来。
 [charslot(slot="m",name="avg_npc_405_1#2$1",focus="m")]
 [name="摩根"]我呢，维娜？
 [charslot(slot="m",name="avgnew_112_siege_1#12$2",focus="m")]
-[name="推进之王"]摩根......我也需要你随时关注他们的动向。
+[name="推进之王"]摩根……我也需要你随时关注他们的动向。
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
-[name="摩根"]......
+[name="摩根"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -933,7 +933,7 @@
 [Delay(time=0.2)]
 [musicvolume(volume=0.6, fadetime=1)]
 [charslot(slot="m",name="avg_npc_405_1#11$1",focus="m")]
-[name="摩根"]这不可能......维娜！
+[name="摩根"]这不可能……维娜！
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -946,7 +946,7 @@
 [CameraShake(duration=0.5, xstrength=15,ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_4110_delphn_1#5$1",focus="m")]
-[name="戴菲恩"]咳......咳......
+[name="戴菲恩"]咳……咳……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -995,7 +995,7 @@
 [charslot(slot="m",name="avg_4110_delphn_1#3$1",focus="m")]
 [name="戴菲恩"]摩根，趴下！
 [charslot(slot="m",name="avg_npc_405_1#9$1",focus="m")]
-[name="摩根"]唔......
+[name="摩根"]唔……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -1043,11 +1043,11 @@
 [name="？？？"]她晕倒了！该死，溅出来的金属碎片扎进她胸口了！谁来帮我一把！
 [name="？？？"]把她带回来！别让源石粉尘进入伤口！
 [name="？？？"]那些萨卡兹想撤退！
-[name="？？？"]汉娜，看......看那边！
+[name="？？？"]汉娜，看……看那边！
 [name="？？？"]战舰？真的有援军！那是高多汀公爵的旗帜？
-[name="？？？"]结......结束了......
+[name="？？？"]结……结束了……
 [name="？？？"]结束了！我们*维多利亚粗口*守下来了！太好了！
-[name="？？？"]本！本！快看，我们有救了！本？本......
+[name="？？？"]本！本！快看，我们有救了！本？本……
 [name="？？？"]那些*维多利亚粗口*魔族佬想跑，冲！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -1062,11 +1062,11 @@
 [delay(time=1)]
 [PlaySound(key="$d_avg_penrustle")]
 [Sticker(id="st1", multi = true, text="“我们活下来了。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n纪念七位牺牲的英雄......",block = true)]
+[Sticker(id="st1", multi = true, text="\n纪念七位牺牲的英雄……",block = true)]
 [Sticker(id="st1", multi = true, text="\n阿比盖尔，诺伯特区平民出身；亚历山卓娜，切特雷镇平民出身；",block = true)]
 [Sticker(id="st1", multi = true, text="\n亨德森，奥克特里格区军人出身；本蒂勒，丽茵卡登军人出身；",block = true)]
 [Sticker(id="st1", multi = true, text="\n无名，无法辨别身份；",block = true)]
-[Sticker(id="st1", multi = true, text="\n无名，无法辨别身份......",block = true)]
+[Sticker(id="st1", multi = true, text="\n无名，无法辨别身份……",block = true)]
 [Sticker(id="st1", multi = true, text="\n无名，无法（字迹扭曲难以识别，未写完）”",block = true)]
 [Sticker(id="st1")]
 [Dialog]

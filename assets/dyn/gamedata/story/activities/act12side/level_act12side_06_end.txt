@@ -41,7 +41,7 @@
 [name="林雨霞"]输？不可能。
 [name="林雨霞"]你先去吧，好久没做类似的事了，我要做一些准备。
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#5",focus=1)]
-[name="陈"]......好。
+[name="陈"]……好。
 [dialog]
 [characteraction(name="left", type="move", xpos=-300, fadetime=2,block=false)]
 [character(name="char_empty",name2="avg_npc_196_1#1",fadetime=0.5)]
@@ -63,9 +63,9 @@
 [name="林雨霞"]但是，我也有我的方法。
 [name="林雨霞"]这么多沙子应该足够了。
 [character(name="avg_npc_196_1#7")]
-[name="林雨霞"]陈晖洁的位置......正好。
+[name="林雨霞"]陈晖洁的位置……正好。
 [character(name="avg_npc_196_1#5")]
-[name="林雨霞"]呼......走！
+[name="林雨霞"]呼……走！
 [Dialog]
 [delay(time=0.7)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -101,7 +101,7 @@
 [delay(time=0.51)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="D.D.D."]这、这是......
+[name="D.D.D."]这、这是……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="D.D.D."]林女侠居然真的在海面上“走”了起来！
 [Character(name="avg_npc_198_1#5")]
@@ -147,7 +147,7 @@
 [Blocker(a=0, r=0,g=0, b=0, fadetime=1, block=true)]
 [name="埃内斯托"]喂，不是吧，这都能赢，真的假的，这未免也太犯规了吧。
 [character(name="avg_486_espumo_1#5")]
-[name="埃内斯托"]哈哈，哈哈哈哈......
+[name="埃内斯托"]哈哈，哈哈哈哈……
 [character(name="avg_486_espumo_1#2")]
 [name="埃内斯托"]这下，该怎么办好呢。
 [Dialog]

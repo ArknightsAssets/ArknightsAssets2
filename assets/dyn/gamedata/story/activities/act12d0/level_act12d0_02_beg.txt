@@ -22,8 +22,8 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  不过现在有很多部族都搬进了雨林哦。
 [Character(name="char_187_ccheal_1")]
-[name="嘉维尔"]  是这样吗？......啊，博士，你醒了，昨晚睡的还好吗？
-[Decision(options="还好。;......;我精神超好。",values="1;2;3")]
+[name="嘉维尔"]  是这样吗？……啊，博士，你醒了，昨晚睡的还好吗？
+[Decision(options="还好。;……;我精神超好。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  适应力不错啊，博士，还以为你肯定受不了在这种环境下露宿。
@@ -41,26 +41,26 @@
 [Dialog]
 [Character]
 [Character(name="char_411_tomimi_1")]
-[name="特米米"]  ......嘉维尔居然在照顾人。
+[name="特米米"]  ……嘉维尔居然在照顾人。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
-[name="特米米"]  嘉、嘉维尔，我也没睡好......
+[name="特米米"]  嘉、嘉维尔，我也没睡好……
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  哈？你这样还能算是阿达克利斯？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
-[name="特米米"]  阿达克利斯......呜呜，嘉维尔果然已经忘了我们原本的名字了......
+[name="特米米"]  阿达克利斯……呜呜，嘉维尔果然已经忘了我们原本的名字了……
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  嗯？哦，我都忘了。是提亚卡乌才对。
 [name="嘉维尔"]  自从离开这里后，提亚卡乌这个词好久没用过了。博士，你也记一下，在我们这里，是不按种族区分自己的。
-[name="嘉维尔"]  从种族上区分的话，我想想啊，我是阿达克利斯，祖玛玛那家伙是斐迪亚，还有黎博利......嗯，大概有这三种吧。
+[name="嘉维尔"]  从种族上区分的话，我想想啊，我是阿达克利斯，祖玛玛那家伙是斐迪亚，还有黎博利……嗯，大概有这三种吧。
 [name="嘉维尔"]  不过在这里，我们都自称提亚卡乌，在我们的语言中是“骁勇善战的人”的意思。
 [name="嘉维尔"]  然后，虽然感觉你应该用不着，不过我们自己称呼这里是叫做阿卡胡拉，在我们的语言中是“茂林丛生之地”的意思。
 [name="嘉维尔"]  好了，别哭哭啼啼的，把你的手下也都叫起来，该出发了。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#5", focus=2)]
-[name="特米米"]  呜呜呜......
+[name="特米米"]  呜呜呜……
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#5", focus=2)]
 [name="特米米"]  罗德岛，博士。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#5", focus=1)]
-[name="嘉维尔"]  哦，对了，公司的意思就是......
+[name="嘉维尔"]  哦，对了，公司的意思就是……
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  啊，我知道的，因为嘉维尔离开后，我有在了解外面的信息！
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
@@ -69,7 +69,7 @@
 [name="特米米"]  嗯，这可是外面非常流行的装扮呢！
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  我不懂时尚，是这样吗，博士？
-[Decision(options="在杂志上看到过。;......;我不知道。",values="1;2;3")]
+[Decision(options="在杂志上看到过。;……;我不知道。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_411_tomimi_1")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -85,7 +85,7 @@
 [name="嘉维尔"]  对了，特米米，先给博士介绍一下我们这里吧。我离开了这么久，也不知道有没有变化。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=2)]
 [name="特米米"]  好的！
-[name="特米米"]  唔，让我想想，要给外面的人讲的话......对了，要从部族开始呢。
+[name="特米米"]  唔，让我想想，要给外面的人讲的话……对了，要从部族开始呢。
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -118,7 +118,7 @@
 [Image(fadetime=0)]
 [Blocker(a=0, fadetime=1, block=true)]
 [delay(time=0.5)]
-[Decision(options="上一任大酋长......？", values="1")]
+[Decision(options="上一任大酋长……？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_411_tomimi_1#2")]
 [name="特米米"]  唔？这在我们这里是很常见的。
@@ -185,13 +185,13 @@
 [name="嘉维尔"]  是啊，我现在在外面有要做的事。
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  对吧，博士？
-[Decision(options="嗯。;......;你也可以留下来。",values="1;2;3")]
+[Decision(options="嗯。;……;你也可以留下来。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_411_tomimi_1#5")]
-[name="特米米"]  这样啊......
+[name="特米米"]  这样啊……
 [Predicate(references="2")]
 [Character(name="char_285_medic2_1")]
-[name="Lancet-2"]  唔，该说嘉维尔是直接好呢，还是残忍好呢......
+[name="Lancet-2"]  唔，该说嘉维尔是直接好呢，还是残忍好呢……
 [Predicate(references="3")]
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  嘿，有一天我会回到这里的，但不是现在。

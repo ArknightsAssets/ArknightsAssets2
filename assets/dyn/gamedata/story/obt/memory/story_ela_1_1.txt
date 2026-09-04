@@ -11,17 +11,17 @@
 [Delay(time=2)]
 [PlaySound(key="$d_avg_paper2",channel="1")]
 [Delay(time=0.5)]
-[name="艾拉"]“到那时，我们就会与其他三座移动城市对接，这样的联合同时也是‘卡西米尔骑士特别锦标赛’的前奏”......
+[name="艾拉"]“到那时，我们就会与其他三座移动城市对接，这样的联合同时也是‘卡西米尔骑士特别锦标赛’的前奏”……
 [name="艾拉"]看来我来得不太是时候。
 [Dialog]
 [charslot]
 地面很湿，似乎刚刚下过雨。
 艾拉仰头看向阴沉的天空，却看不清遮掩太阳的究竟是尚未散去的乌云，是密密麻麻的高楼大厦，还是亮得宛如午夜的外墙广告。
 [charslot(slot="m",name="avg_4123_ela_1#1$1")]
-[name="艾拉"]“就算您不巧在赛期外来到这里，我们的景点与商业设施也一定能让您满载而归。”让我看看......
-[name="艾拉"]“斯沃玛食品公司总部之旅”“斯沃玛乐园”“斯沃玛第一商店”“斯沃玛全产品线品鉴之夜”......
+[name="艾拉"]“就算您不巧在赛期外来到这里，我们的景点与商业设施也一定能让您满载而归。”让我看看……
+[name="艾拉"]“斯沃玛食品公司总部之旅”“斯沃玛乐园”“斯沃玛第一商店”“斯沃玛全产品线品鉴之夜”……
 [charslot(slot="m",name="avg_4123_ela_1#7$1")]
-[name="艾拉"]......里面还夹着两张斯沃玛的八五折优惠券。
+[name="艾拉"]……里面还夹着两张斯沃玛的八五折优惠券。
 [name="艾拉"]总该有些别的地方可去吧——
 [Dialog]
 [PlaySound(key="$d_avg_paper2",channel="1")]
@@ -46,7 +46,7 @@
 [name="艾拉"]自从离开多索雷斯，我再没见过他。
 [charslot(slot="m",name="avg_npc_222")]
 [name="不起眼的男性"]尽管如此，还是希望您能帮我们个忙。他不负责任地消失之后，在卡西米尔还有相当大的一笔财产无人处置。
-[name="不起眼的男性"]而作为他在多索雷斯的相关人士，您的证言可以协助我们在分割中占据有利地位，同时也可以替您自己......
+[name="不起眼的男性"]而作为他在多索雷斯的相关人士，您的证言可以协助我们在分割中占据有利地位，同时也可以替您自己……
 [charslot(slot="m",name="avg_4123_ela_1#6$1")]
 [name="艾拉"]换一笔钱？
 [charslot(slot="m",name="avg_npc_222")]
@@ -63,7 +63,7 @@
 艾拉大步甩开一身黑衣的男性，坐上一辆刚刚停在两人身边等生意的出租车。
 她走得太快，那本斯沃玛出版的旅游宣传册掉在路上的水坑里，湿得一塌糊涂，还把水坑染成了刺目的粉色。
 [charslot(slot="m",name="avg_npc_222")]
-[name="不起眼的男性"]......既然不想掺和这些，那您到底为什么要来卡西米尔呢？
+[name="不起眼的男性"]……既然不想掺和这些，那您到底为什么要来卡西米尔呢？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -75,7 +75,7 @@
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4123_ela_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="艾拉"]还好，酒店离城市入口不远......
+[name="艾拉"]还好，酒店离城市入口不远……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n",channel="2")]
@@ -85,7 +85,7 @@
 [charslot(duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4123_ela_1#1$1")]
-[name="艾拉"]......
+[name="艾拉"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_crwddiscuss_outside",channel="1",loop=true)]
@@ -115,7 +115,7 @@
 [charslot(duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4123_ela_1#1$1")]
-[name="艾拉"]......还在跟着。
+[name="艾拉"]……还在跟着。
 [name="艾拉"]再往前似乎是条僻静的小巷？正好。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",channel="2")]
@@ -132,7 +132,7 @@
 [charslot(slot="m",name="avg_npc_218",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4123_ela_1#6$1")]
-[name="艾拉"]......这下可没法说是巧合了。
+[name="艾拉"]……这下可没法说是巧合了。
 [name="艾拉"]（小声）这是改装后的第一枚雷鸣地雷，别谢我。
 [charslot(slot="m",name="avg_npc_218")]
 [name="跟踪者"]别反抗，这样你还能少吃点苦头。
@@ -168,11 +168,11 @@
 [PlaySound(key="$d_avg_clothmovement",channel="2")]
 [charslot(slot="m",name="avg_npc_223",duration=1.5)]
 [delay(time=2)]
-[name="记者模样的人"]唔......
+[name="记者模样的人"]唔……
 [charslot(slot="m",name="avg_4123_ela_1#1$1")]
 [name="艾拉"]你醒了。
 [charslot(slot="m",name="avg_npc_223")]
-[name="记者模样的人"]我没想到您能一个人摆平那家伙......他哪去了？
+[name="记者模样的人"]我没想到您能一个人摆平那家伙……他哪去了？
 [charslot(slot="m",name="avg_4123_ela_1#1$1")]
 [name="艾拉"]踉踉跄跄地跑了。你倒在这儿，我没法去追他。你叫什么名字？
 [charslot(slot="m",name="avg_npc_223")]
@@ -180,7 +180,7 @@
 [charslot(slot="m",name="avg_4123_ela_1#3$1")]
 [name="艾拉"]艾拉。
 [charslot(slot="m",name="avg_npc_223")]
-[name="拉法尔"]这个名字我好像有点印象......雷内尔在多索雷斯的保镖？
+[name="拉法尔"]这个名字我好像有点印象……雷内尔在多索雷斯的保镖？
 [charslot(slot="m",name="avg_4123_ela_1#7$1")]
 [name="艾拉"]这家伙名气居然还不小。
 [charslot(slot="m",name="avg_npc_223")]
@@ -265,7 +265,7 @@
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4123_ela_1#6$1")]
 [name="艾拉"]现在你该跟我解释一下了——
-[name="艾拉"]人......不见了？
+[name="艾拉"]人……不见了？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -320,11 +320,11 @@
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
 [name="艾拉"]原来你也在跟踪我？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]我——好吧，我承认，对不起。毕竟你曾经给那个雷内尔当过保镖，我想再怎么说肯定也有新闻价值......
+[name="拉法尔"]我——好吧，我承认，对不起。毕竟你曾经给那个雷内尔当过保镖，我想再怎么说肯定也有新闻价值……
 [charslot(slot="r",name="avg_4123_ela_1#7$1",focus="r")]
 [name="艾拉"]然后看到我出交通事故，就来“见义勇为”，好让我愿意开口？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]......抱歉。
+[name="拉法尔"]……抱歉。
 [Dialog]
 [charslot(slot="r",posfrom="0,0",posto="50,0",duration=1,isblock=true)]
 [charslot(slot="l",name="avg_npc_223",focus="l")]
@@ -343,7 +343,7 @@
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
 [name="艾拉"]杀心？原来卡西米尔是随随便便就能杀人的地方？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]当然不是，可对这些有钱有势的人物来说......他们一招手，有的是白手套愿意干脏活。
+[name="拉法尔"]当然不是，可对这些有钱有势的人物来说……他们一招手，有的是白手套愿意干脏活。
 [charslot(slot="r",name="avg_4123_ela_1#7$1",focus="r")]
 [name="艾拉"]多谢你的信息，对我很有帮助。再见。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
@@ -359,15 +359,15 @@
 [charslot(slot="r",name="avg_4123_ela_1#7$1",focus="r")]
 [name="艾拉"]还不够。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]加上一名记者就足够了......我直接问吧，你愿不愿意和我一起让那老家伙吃点苦头？
+[name="拉法尔"]加上一名记者就足够了……我直接问吧，你愿不愿意和我一起让那老家伙吃点苦头？
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
-[name="艾拉"]......
+[name="艾拉"]……
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]你也给雷内尔当过保镖？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]我是认真的，我被博格丹那老东西害惨了。
 [name="拉法尔"]我原本是玫瑰报业下面一家报社的部门总监，博格丹五年前策划了一场艺术展，效果一塌糊涂，可媒体上净是吹捧。
-[name="拉法尔"]我觉得有人公布真相就能让公众发现那场艺术展办得有多糟糕，于是连夜写了一篇批驳的稿子......
+[name="拉法尔"]我觉得有人公布真相就能让公众发现那场艺术展办得有多糟糕，于是连夜写了一篇批驳的稿子……
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
 [name="艾拉"]没发出去？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
@@ -377,7 +377,7 @@
 [PlaySound(key="$d_avg_paper2",channel="1")]
 [Delay(time=1.5)]
 [charslot(slot="r",name="avg_4123_ela_1#10$1",focus="r")]
-[name="艾拉"]......唔，确实骂得蛮狠的。
+[name="艾拉"]……唔，确实骂得蛮狠的。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]结果一个月之后我收到通知，博格丹反复要求报社开了我这个刺头，在社长的力保之下，我被暂时下放到一线避避风头，一直避到现在。
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
@@ -407,7 +407,7 @@
 [delay(time=1)]
 [charslot(slot="l",name="avg_npc_223",focus="r")]
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
-[name="艾拉"]......真的是那个人和那辆车。
+[name="艾拉"]……真的是那个人和那辆车。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]等司机下了车，我去撬锁，你帮我望风。
 [Dialog]
@@ -447,14 +447,14 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]这是什么？
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
-[name="艾拉"]支票......科瓦尔斯基的签名？
+[name="艾拉"]支票……科瓦尔斯基的签名？
 [name="艾拉"]拉法尔，你运气可真够好的啊。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]那、那当然。
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]不知道好运气能眷顾你多久呢？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]这......哈哈。
+[name="拉法尔"]这……哈哈。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -469,7 +469,7 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]看到你刚进城时利诱你的那个人了吗？
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
-[name="艾拉"]我在挨个辨认......
+[name="艾拉"]我在挨个辨认……
 [Dialog]
 [PlaySound(key="$phone",channel="2")]
 [Delay(time=0.5)]
@@ -483,12 +483,12 @@
 [charslot(slot="l",name="avg_npc_223",focus="none")]
 [name="电话那头的声音"]里尔借了我一点。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]......
+[name="拉法尔"]……
 [name="拉法尔"]我现在很忙，我也没有钱。
 [charslot(slot="l",name="avg_npc_223",focus="none")]
 [name="电话那头的声音"]可你之前还说很快就会有的——
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
-[name="艾拉"]有了，就是那个......看起来和你穿差不多衣服的家伙。上班族。
+[name="艾拉"]有了，就是那个……看起来和你穿差不多衣服的家伙。上班族。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]看到了。
 [Dialog]
@@ -500,7 +500,7 @@
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
 [name="艾拉"]你女儿？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]哈......是啊，我女儿。每天都要赌骑士竞技，我不给钱她就去借。
+[name="拉法尔"]哈……是啊，我女儿。每天都要赌骑士竞技，我不给钱她就去借。
 [name="拉法尔"]闲聊结束，这次换我们跟踪他了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -512,7 +512,7 @@
 [Delay(time=1.5)]
 [charslot(slot="l",name="avg_npc_223",focus="r")]
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
-[name="艾拉"]我们现在的证据是......
+[name="艾拉"]我们现在的证据是……
 [name="艾拉"]一张车辆内部不明装置的照片，一张在小巷子发现的支票，一张跟我搭话的人进科瓦尔斯基家的照片。
 [charslot(slot="r",name="avg_4123_ela_1#7$1",focus="r")]
 [name="艾拉"]我很怀疑这些东西该怎么做所谓的“把柄”。
@@ -520,7 +520,7 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]艾拉小姐，稿子不只可以发出去，还可以引而不发，证据也一样。
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
-[name="艾拉"]......
+[name="艾拉"]……
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]你还不明白？
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
@@ -548,13 +548,13 @@
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]你不是一直想从我这儿问雷内尔的事情吗？正好，一位叫米沃什的先生在多索雷斯跟我讲过雷内尔父母的一些故事。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]米沃什......雷内尔的贴身秘书？
+[name="拉法尔"]米沃什……雷内尔的贴身秘书？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 拉法尔的眼睛在一瞬间亮了起来，但那点光芒很快又被厚厚的眼镜片遮住。
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]看，你还是感兴趣的。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]这......我不觉得这两位身上真有什么能打击到博格丹的东西，就算是那个米沃什讲的也不行。
+[name="拉法尔"]这……我不觉得这两位身上真有什么能打击到博格丹的东西，就算是那个米沃什讲的也不行。
 [name="拉法尔"]斯特凡和阿莉琪娅伉俪情深，根本没什么故事可言。
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]米沃什的版本和你说的可不一样。
@@ -569,7 +569,7 @@
 但在“言语攻击”“经济控制”这样的词面前，“伉俪情深”无论如何都显得苍白而可笑。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="l")]
-[name="拉法尔"]天啊......那雷内尔呢？他明明一直表现得很尊敬自己的父亲！
+[name="拉法尔"]天啊……那雷内尔呢？他明明一直表现得很尊敬自己的父亲！
 [charslot(slot="r",name="avg_4123_ela_1#8$1",focus="r")]
 [name="艾拉"]雷内尔对他虚伪父亲的憎恨已经炽烈到扭曲，否则他也不可能主动炸毁自己建起的克里斯达尔艺术馆。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
@@ -582,18 +582,18 @@
 [name="拉法尔"]艾拉小姐，你怎么开这种玩笑？我绝对不是——
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
 [name="艾拉"]好了，拉法尔先生，收收你的演技吧。
-[name="艾拉"]之前发生的一切，偶遇、跟踪、手到擒来的证据......尽管都很可疑，但它们也可以是巧合。
+[name="艾拉"]之前发生的一切，偶遇、跟踪、手到擒来的证据……尽管都很可疑，但它们也可以是巧合。
 [name="艾拉"]可是刚才，你说你要敲诈博格丹·科瓦尔斯基。
 [name="艾拉"]在你说自己被他几句话就毁了前程之后，在一个警察和法院明显可以被收买的地方，你要让我敲诈他。
 [charslot(slot="r",name="avg_4123_ela_1#4$1",focus="r")]
 [name="艾拉"]先生，醒醒，我不是卡西米尔人，你才是！
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]我......这......
+[name="拉法尔"]我……这……
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
 [name="艾拉"]为什么要做这种几乎一定会失败的尝试？
 [name="艾拉"]因为你只需要让我背上敲诈的嫌疑就行了，到那时，警察和法院就会是博格丹的朋友。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="拉法尔"]我也是被逼无奈......你之前也听过我打电话，我需要钱......
+[name="拉法尔"]我也是被逼无奈……你之前也听过我打电话，我需要钱……
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
 [name="艾拉"]我还应该相信你说的话吗？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
@@ -614,7 +614,7 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]反击？斯特凡和阿莉琪娅的事确实是个大新闻，但和博格丹有什么关系？
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
-[name="艾拉"]如果阿莉琪娅的那尊雕塑是在控制、威胁、暴力和谎言之下完成的，那博格丹持有的其他艺术品......
+[name="艾拉"]如果阿莉琪娅的那尊雕塑是在控制、威胁、暴力和谎言之下完成的，那博格丹持有的其他艺术品……
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]*卡西米尔粗口*！
 [charslot(slot="r",name="avg_4123_ela_1#6$1",focus="r")]
@@ -627,9 +627,9 @@
 [Delay(time=0.8)]
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 他哆哆嗦嗦地从耳朵后面取下那支烟，掏出打火机点上，深深吸了一大口，脸色苍白。
-[name="拉法尔"]抱歉到底还是抽了这支烟。但我得说，艾拉小姐，我得说......
-[name="拉法尔"]也许我不是全卡西米尔的记者中第一个知道这件事的，甚至我都未必是第一个想把这件事公之于众的......
-[name="拉法尔"]但我已经和惊天的真相站在帷幔的同一侧了。没准在我之前已经有几百个人站在这里，他们都死无全尸......
+[name="拉法尔"]抱歉到底还是抽了这支烟。但我得说，艾拉小姐，我得说……
+[name="拉法尔"]也许我不是全卡西米尔的记者中第一个知道这件事的，甚至我都未必是第一个想把这件事公之于众的……
+[name="拉法尔"]但我已经和惊天的真相站在帷幔的同一侧了。没准在我之前已经有几百个人站在这里，他们都死无全尸……
 [name="拉法尔"]但是去他的吧！现在我才是那个要把帷幔一撕两半的人！
 [Dialog]
 [stopmusic(fadetime=1.5)]
@@ -643,14 +643,14 @@
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_523_1#1$1",focus="m")]
 [name="谦恭的秘书"]愚蠢的博格丹·科瓦尔斯基直接威胁了您的生命安全，您无论采取何种自救手段都属合理。
-[name="谦恭的秘书"]加之罗德岛现阶段是卡西米尔重要的客人......商业联合会对博格丹没什么可说的。他觊觎的东西永远不可能属于他。
+[name="谦恭的秘书"]加之罗德岛现阶段是卡西米尔重要的客人……商业联合会对博格丹没什么可说的。他觊觎的东西永远不可能属于他。
 [charslot(slot="m",name="avg_4123_ela_1#1$1",focus="m")]
 [name="艾拉"]我知道了。
 [charslot(slot="m",name="avg_npc_523_1#1$1",focus="m")]
 [name="谦恭的秘书"]那么，请您也务必遵守我们之间的君子协定。
 [charslot(slot="m",name="avg_4123_ela_1#6$1",focus="m")]
 [name="艾拉"]哈，你们觉得我有违反的余地吗？
-[name="艾拉"]你们在科瓦尔斯基家族专版问世的前两个小时内控制了所有相关人士，又禁止报社开天窗，要求他们在一个小时之内出一份替代版......
+[name="艾拉"]你们在科瓦尔斯基家族专版问世的前两个小时内控制了所有相关人士，又禁止报社开天窗，要求他们在一个小时之内出一份替代版……
 [name="艾拉"]卡西米尔真是给我上了一课。
 [charslot(slot="m",name="avg_npc_523_1#1$1",focus="m")]
 [name="谦恭的秘书"]您也给我们上了一课。您刚来卡西米尔没一个月就搅起了一场暗处的风暴，险些毁了一个产业。
@@ -670,7 +670,7 @@
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="l")]
 [name="拉法尔"]艾拉！你还好吧？
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
-[name="艾拉"]因为一些未曾想到的关系，我被超规格优待了......这就是商业联合会给你安排的新的工作地点？做什么的？
+[name="艾拉"]因为一些未曾想到的关系，我被超规格优待了……这就是商业联合会给你安排的新的工作地点？做什么的？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 拉法尔的嘴唇动了动，看了看自己领子下面——那里好像有什么东西在闪——然后给自己点了一支烟。
 [name="拉法尔"]我在做，咳，报纸出版前的内容审核。
@@ -690,14 +690,14 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]（自嘲的微笑）甚至还有富余让她买头等的好座位。她现在是那边的大客户了。
 [charslot(slot="r",name="avg_4123_ela_1#3$1",focus="r")]
-[name="艾拉"]......真的坏透了。
+[name="艾拉"]……真的坏透了。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]坏透了，但一切都在慢慢变好。
 [charslot(slot="r",name="avg_4123_ela_1#1$1",focus="r")]
 [name="艾拉"]这又是什么意思？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]意思就是说，卡西米尔永远都是这个样子，变的只有我自己。
-[name="拉法尔"]他们愿意付我很多很多的钱，而拿钱的条件就是......安分。
+[name="拉法尔"]他们愿意付我很多很多的钱，而拿钱的条件就是……安分。
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement",channel="2")]
 [charslot(slot="l",posfrom="0,0",posto="5,0",duration=1,isblock=true)]
@@ -709,20 +709,20 @@
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]看到了吧？这可是高科技新产品，和我之前想都不敢想的工资一样，都是帮助我安分的法宝。
-[name="拉法尔"]这件法宝我不敢摆脱，而另一件......我觉得我很快就不想摆脱了。
+[name="拉法尔"]这件法宝我不敢摆脱，而另一件……我觉得我很快就不想摆脱了。
 [charslot(slot="r",name="avg_4123_ela_1#7$1",focus="r")]
-[name="艾拉"]......
+[name="艾拉"]……
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="拉法尔"]人的意志和理想是会被消磨的，等磨损到什么都不剩，那时一切就都好起来了，我就是模范卡西米尔公民了，和我女儿一样。
 [Dialog]
 [charslot]
 拉法尔匆匆把烟碾灭，坐回长长一列工位中去。
-艾拉扫了一眼，那一整列的人做的工作似乎都和拉法尔一样。其中有的人满脸烦躁，有的人已经麻木，还有的人不安分地四处张望......
+艾拉扫了一眼，那一整列的人做的工作似乎都和拉法尔一样。其中有的人满脸烦躁，有的人已经麻木，还有的人不安分地四处张望……
 很难说这里有多少人曾经大叫过“去他的吧”，也许只有一个正在对她挤眼睛的拉法尔，也许所有人都那么喊过。
 艾拉回给拉法尔一个鼓励的眼神，然后扫了一眼手里的《红酒报》。
 [charslot(slot="m",name="avg_4123_ela_1#1$1",focus="m")]
 [multiline(name="艾拉")]佐菲娅
-[multiline(name="艾拉",delay=0.3)]......
+[multiline(name="艾拉",delay=0.3)]……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_4123_ela_1#5$1",focus="m")]
 [multiline(name="艾拉",delay=0.1,end=true)]佐菲娅？！
@@ -752,11 +752,11 @@
 [charslot(slot="m",name="avg_4123_ela_1#1$1",focus="m")]
 [name="艾拉"]哪位？
 [charslot(slot="m",name="avg_4123_ela_1#1$1",focus="none")]
-[name="电话里的声音"]我是阵风骑士团的经纪人，想和您聊聊您有没有意愿投身骑士竞技......
+[name="电话里的声音"]我是阵风骑士团的经纪人，想和您聊聊您有没有意愿投身骑士竞技……
 [charslot(slot="m",name="avg_4123_ela_1#6$1",focus="m")]
 [name="艾拉"]下一步是不是让我交一笔报名费？
 [charslot(slot="m",name="avg_4123_ela_1#6$1",focus="none")]
-[name="电话里的声音"]您千万别误会——欸，您亲自来说？好的......
+[name="电话里的声音"]您千万别误会——欸，您亲自来说？好的……
 [name="电话里的声音"]艾拉小姐，我是阵风骑士团的主要赞助人，博格丹·科瓦尔斯基在商业上的主要竞争对手。
 [name="电话里的声音"]在为您庆幸的同时，我们也注意到您在脱险过程中不凡的身手和判断力——
 [Dialog]
@@ -785,7 +785,7 @@
 [charslot(slot="m",name="avg_4123_ela_1#1$1",focus="m")]
 [name="艾拉"]看来这次是骑士竞技了，嗯？
 [charslot(slot="m",name="avg_4123_ela_1#8$1",focus="m")]
-[name="艾拉"]骑士之国的骑士竞技......卡西米尔，博格丹这一轮就算不分胜负，我们是时候开始第二轮了。
+[name="艾拉"]骑士之国的骑士竞技……卡西米尔，博格丹这一轮就算不分胜负，我们是时候开始第二轮了。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

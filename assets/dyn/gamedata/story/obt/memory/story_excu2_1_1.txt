@@ -9,7 +9,7 @@
 [delay(time=2)] 
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",duration=1)]
 [Delay(time=1.5)]
-[name="送葬人"]......过程中一名同行干员脚踝处轻度扭伤，任务目标已被擒获，丢失的药物也已悉数追回。
+[name="送葬人"]……过程中一名同行干员脚踝处轻度扭伤，任务目标已被擒获，丢失的药物也已悉数追回。
 [name="送葬人"]这就是此次合作任务的所有情况。除此之外，上级希望我代为转达他的感激，感谢诸位对拉特兰在外公民的照顾。
 [name="送葬人"]以及在罗德岛于拉特兰城外停泊期间，我们随时欢迎博士的到访，届时公证所将热情周到地招待你。
 [Dialog]
@@ -20,7 +20,7 @@
 [name="送葬人"]好的，我会将你的回答汇报给他。如果你没有其他事情，我就先行离开了。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
-[Decision(options="......稍等下，费德里科。", values="1")]
+[Decision(options="……稍等下，费德里科。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]你还有其他任务要指派吗，博士？
@@ -29,7 +29,7 @@
 [Decision(options="最近有很多小病患病情逐渐稳定。;医疗部打算办一个派对庆祝此事。;他们刚刚发来短讯，让我穿得有意思些。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
-[name="送葬人"]“有意思”......描述过于模糊，是否有更详细的形容？
+[name="送葬人"]“有意思”……描述过于模糊，是否有更详细的形容？
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
 [Decision(options="他们可能认为我的服饰颜色太单调。;我身上或许需要更多的颜色。", values="1;2")]
@@ -52,14 +52,14 @@
 [name="送葬人"]这套服装是公证所发放的工作制服，并不是我的搭配。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
-[Decision(options="那你平时......？", values="1")]
+[Decision(options="那你平时……？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]也穿这套。
 [name="送葬人"]我有七套一模一样的制服，无论日常还是工作都可以穿着。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]你的面部显示出些许失望，博士。
@@ -83,13 +83,13 @@
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="后勤干员"]送葬人先生已经坐在那里有一会儿了，是我的错觉还是怎么的，他有动过吗？
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
-[name="工程干员"]我拿测距尺比过了，一厘米也没有动过。很少有萨科塔这么安静......
+[name="工程干员"]我拿测距尺比过了，一厘米也没有动过。很少有萨科塔这么安静……
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
-[name="后勤干员"]你刚入职......你不知道......
+[name="后勤干员"]你刚入职……你不知道……
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
 [name="工程干员"]知道什么？
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
-[name="后勤干员"]一个在逃的犯人，两处隐秘的地雷，三个巨大的破洞，还有......无数个漏水的夜晚。
+[name="后勤干员"]一个在逃的犯人，两处隐秘的地雷，三个巨大的破洞，还有……无数个漏水的夜晚。
 [Dialog]
 [charslot]
 [name="？？？"]咳咳，你们两个怎么回事？工作时间被我抓到说同事坏话是要扣工资的哦。
@@ -98,11 +98,11 @@
 [charslot(slot="m",name="avg_npc_411_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="后勤干员"]呃......可露希尔小姐，你怎么在这里？
+[name="后勤干员"]呃……可露希尔小姐，你怎么在这里？
 [charslot(slot="m",name="avg_npc_411_1#1$1",focus="m")]
 [name="可露希尔"]别紧张，我是来找博士的啦，他从昨天就在思索派对要戴什么颜色的帽子，不知道现在是不是还在苦恼。
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]......
+[name="送葬人"]……
 [charslot(slot="m",name="avg_npc_411_1#6$1",focus="m")]
 [name="可露希尔"]那个萨科塔坐在那里是不打算走了吗？罗德岛这么大，他就不能换个地方发呆吗？
 [Dialog]
@@ -124,13 +124,13 @@
 [name="送葬人"]血魔可露希尔，罗德岛总工程师，危险等级，一年前由极危调整为低危。
 [name="送葬人"]无需特殊行动。
 [charslot(slot="r",name="avg_npc_411_1#6$1",focus="r")]
-[name="可露希尔"]（小声）......怎么有种被看轻了的感觉。
+[name="可露希尔"]（小声）……怎么有种被看轻了的感觉。
 [charslot(slot="r",name="avg_npc_411_1#8$1",focus="r")]
 [name="可露希尔"]你就非得杵在这里发呆吗，萨科塔？
 [charslot(slot="l",name="avg_1032_excu2_1#1$1",focus="l")]
 [name="送葬人"]我只是在思考到底该是顶什么颜色的派对帽。
 [charslot(slot="r",name="avg_npc_411_1#5$1",focus="r")]
-[name="可露希尔"]什么，博士居然问了你这个问题？嗯......快速回答！我现在身上有什么颜色？
+[name="可露希尔"]什么，博士居然问了你这个问题？嗯……快速回答！我现在身上有什么颜色？
 [charslot(slot="l",name="avg_1032_excu2_1#1$1",focus="l")]
 [name="送葬人"]多为黑色与红色。
 [name="送葬人"]但你的提问并不能解答我的疑惑，这无法帮助我确定帽子的最佳颜色。
@@ -139,14 +139,14 @@
 [charslot(slot="r",name="avg_npc_411_1#7$1",focus="r")]
 [name="可露希尔"]我可以给你优惠哦。
 [charslot(slot="l",name="avg_1032_excu2_1#2$1",focus="l")]
-[name="送葬人"]可行度极低，现有的技术很难满足在人脑内安设机械构件的条件，更何况......
+[name="送葬人"]可行度极低，现有的技术很难满足在人脑内安设机械构件的条件，更何况……
 [charslot(slot="r",name="avg_npc_411_1#1$1",focus="r")]
 [name="可露希尔"]什么？
 [charslot(slot="l",name="avg_1032_excu2_1#1$1",focus="l")]
 [name="送葬人"]你在开颅手术方面的经验也不足以让人信任。
 [name="送葬人"]血魔可露希尔，可信赖程度调整为极低，其言语不可信程度调整为极高。
 [charslot(slot="r",name="avg_npc_411_1#6$1",focus="r")]
-[name="可露希尔"]......抱歉抱歉，算我错了，不该逗你的。
+[name="可露希尔"]……抱歉抱歉，算我错了，不该逗你的。
 [Dialog]
 [charslot(slot="r",name="avg_npc_411_1#1$1",focus="all")]
 [Delay(time=0.3)]
@@ -161,9 +161,9 @@
 [Dialog]
 [charslot(slot="l",name="avg_1032_excu2_1#1$1",focus="l")]
 [Delay(time=1.5)]
-[name="送葬人"]......谢谢。
+[name="送葬人"]……谢谢。
 [charslot(slot="r",name="avg_npc_411_1#7$1",focus="r")]
-[name="可露希尔"]现在那些关于我的词条能否......修改一下？
+[name="可露希尔"]现在那些关于我的词条能否……修改一下？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -256,7 +256,7 @@
 [name="送葬人"]为了理解他人情绪，我曾专门研究过图形形状的视觉气质，很多事例都表明，人们下意识选择的图形与自身的心理倾向息息相关。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
-[Decision(options="哦，有意思......展开讲讲？", values="5")]
+[Decision(options="哦，有意思……展开讲讲？", values="5")]
 [Predicate(references="5")]
 [charslot(slot="m",name="avg_1032_excu2_1#2$1",focus="m")]
 [name="送葬人"]从充满秩序与平衡的图形排布推导，画家在创作时应带着安宁平和的情绪。
@@ -264,7 +264,7 @@
 [Dialog]
 [Predicate(references="3;4;5")]
 [charslot]
-[name="惆怅的小干员"]博士......那个......
+[name="惆怅的小干员"]博士……那个……
 [name="惆怅的小干员"]唔，感觉我的眼睛被这幅画里面的蓝颜料狂轰滥炸了。
 [name="活泼的小干员"]这家伙作画时的情绪一定很激动吧。
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
@@ -313,7 +313,7 @@
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]我来这里是为了补充一些关于颜色的知识。
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
-[name="教宗骑士"]嗯，颜色相关的知识......您找我就对了，我讲的绝对够您用了。
+[name="教宗骑士"]嗯，颜色相关的知识……您找我就对了，我讲的绝对够您用了。
 [Dialog]
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="none")]
 [Decision(options="您这么一说，我也很感兴趣。;望您不吝赐教。", values="1;2")]
@@ -323,7 +323,7 @@
 [name="教宗骑士"]比如红色，它向人们传递出的信息总是极富刺激性，通常情况下代表着兴奋、激情与热烈的情感。
 [name="教宗骑士"]不过我很少会在画作中使用这个颜色，您也知道，圣徒阁下，我向来是个温文尔雅的人。
 [charslot(slot="m",name="avg_1032_excu2_1#10$1",focus="m")]
-[name="送葬人"]在五年前您曾......
+[name="送葬人"]在五年前您曾……
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
 [name="教宗骑士"]（大声）现在我要说我最喜欢的颜色了，圣徒阁下。
 [Dialog]
@@ -335,14 +335,14 @@
 [name="送葬人"]我注意到，您的画作中大面积使用了蓝色颜料，您很喜欢蓝色。
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
 [name="教宗骑士"]您的观察力非常敏锐，蓝色所代表的宁静、理智与深邃是我一生的追求。
-[name="教宗骑士"]除此之外，它还可以帮助人们安定情绪，让他们感到平静与安宁......等等，那边怎么有闪光灯？
+[name="教宗骑士"]除此之外，它还可以帮助人们安定情绪，让他们感到平静与安宁……等等，那边怎么有闪光灯？
 [name="教宗骑士"]喂，小崽子，你他妈干什么呢！
 [name="教宗骑士"]就说你呢，别扭头乱看！谁允许你把闪光灯打开的！离我的画远点！再远点！！
-[name="教宗骑士"]好了，我们刚刚说到哪里了......
+[name="教宗骑士"]好了，我们刚刚说到哪里了……
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]蓝色会让人感到平静与安宁。
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
-[name="教宗骑士"]是啊，蓝色......我灵魂栖息的地方、永恒的象征......多么美丽的颜色啊。
+[name="教宗骑士"]是啊，蓝色……我灵魂栖息的地方、永恒的象征……多么美丽的颜色啊。
 [Dialog]
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="none")]
 [name="展会工作人员"]西蒙尼先生，不好意思打扰了，您能过来下吗？有些急事我们得告知您。
@@ -387,12 +387,12 @@
 [Decision(options="西蒙尼先生？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
-[name="教宗骑士"]呃，把耳朵靠过来，圣徒阁下......
+[name="教宗骑士"]呃，把耳朵靠过来，圣徒阁下……
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]......
+[name="送葬人"]……
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="none")]
 [Decision(options="发生什么了？", values="1")]
@@ -422,13 +422,13 @@
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
 [name="展会工作人员"]昨天大教堂发生了一起持铳斗殴事件，我们以为嫌犯留下的爆炸物已经清理干净了。
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]......
+[name="送葬人"]……
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="none")]
 [name="展会工作人员"]您有办法吗，圣徒阁下？
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
 [name="送葬人"]我判断即使炸弹在这里爆炸也不会有人员伤亡。
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="none")]
-[name="展会工作人员"]但是......整个展厅都在上面啊，那些画作......
+[name="展会工作人员"]但是……整个展厅都在上面啊，那些画作……
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]明白，增加任务目标，保护展览的画作。
 [Dialog]
@@ -459,7 +459,7 @@
 [Dialog]
 [playsound(key="$d_avg_clothmovement")]
 [Delay(time=1.5)]
-[name="送葬人"]安设完毕，倒数计时......十、九、八、七......
+[name="送葬人"]安设完毕，倒数计时……十、九、八、七……
 [Dialog]
 [Charslot(slot="m",posfrom="0,0",posto="50,0",duration=1.5)]
 [charslot(slot="m",afrom=1,ato=0,duration=1)]
@@ -498,12 +498,12 @@
 [charslot(slot="m",name="avg_1032_excu2_1#1$1")]
 [name="送葬人"]危险已经解除，展会可以继续进行。
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
-[name="展会工作人员"]......圣徒阁下，您快离开吧，再晚......就来不及了。
+[name="展会工作人员"]……圣徒阁下，您快离开吧，再晚……就来不及了。
 [charslot(slot="m",name="avg_1032_excu2_1#9$1",focus="m")]
-[name="送葬人"]你似乎有些担忧，恐惧......和遗憾。
+[name="送葬人"]你似乎有些担忧，恐惧……和遗憾。
 [name="送葬人"]与我预期中的对达成任务目标的情绪反馈差别极大，请进一步解释。
 [charslot(slot="m",name="avg_1032_excu2_1#9$1",focus="none")]
-[name="展会工作人员"]您当时抱着炸弹离开得太快，我没能告诉您，本次活动最重要的展品其实是......
+[name="展会工作人员"]您当时抱着炸弹离开得太快，我没能告诉您，本次活动最重要的展品其实是……
 [Dialog]
 [charslot]
 [playsound(key="$rungeneral")]
@@ -520,24 +520,24 @@
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]很抱歉损坏您的画作，我会重新评估任务的完成情况，事后我会根据您的损失给予赔偿。
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
-[name="教宗骑士"]......赔偿，你以为我花费在穹顶上的心血是金钱能够弥补的吗？
+[name="教宗骑士"]……赔偿，你以为我花费在穹顶上的心血是金钱能够弥补的吗？
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]若您需要，我可以代为复原，一笔都不会差。
 [name="送葬人"]展厅里的每个角落我都仔细观察过，包括穹顶，上面的画作仍然留存在我的记忆中，复现并非难题。
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
 [name="教宗骑士"]小子，你刚刚这句话对我来说近乎羞辱。
 [name="教宗骑士"]就算你能复现我当时的笔触，但我在落笔时心中澎湃的激情与脑内涌现的灵感呢？你又该如何复现？
-[name="教宗骑士"]“一笔都不会差”......当真是不知深浅的蠢话。
+[name="教宗骑士"]“一笔都不会差”……当真是不知深浅的蠢话。
 [name="教宗骑士"]哼，你皱着眉头做什么？是不赞同我对你的评价吗，圣徒阁下？
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
 [name="送葬人"]不，我在思索其他补救措施。
 [name="送葬人"]我正试图从记忆中的画作推导出您当时所怀的心情。
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
 [name="教宗骑士"]就算你推导出来又有什么用呢？它早已随着我当时的记忆一同变得模糊，随着穹顶的坍塌一同碎成瓦砾。
-[name="教宗骑士"]现在剩下的......只有窟窿里的天空了。
+[name="教宗骑士"]现在剩下的……只有窟窿里的天空了。
 [charslot(slot="m",name="avg_1032_excu2_1#5$1",focus="m")]
 [stopmusic(fadetime=1)]
-[name="送葬人"]天空......
+[name="送葬人"]天空……
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#5$1",focus="m")]
 执行者仰起头看向穹顶，阳光从窟窿中轻柔地洒下。
@@ -551,16 +551,16 @@
 [Decision(options="这几天下暴雨，我都没仔细瞧过这里的蓝天。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#10$1",focus="m")]
-[name="送葬人"]......博士，你应该带着小干员们回到舰船上了。
+[name="送葬人"]……博士，你应该带着小干员们回到舰船上了。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#10$1",focus="none")]
 [Decision(options="我将小干员们安置在了附近的办事处，不用担心。;小干员们很安全，我有些担心所以回来看看。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
-[name="送葬人"]很抱歉，未能保证你这次的拜访顺利进行......我需要制定新的计划。
+[name="送葬人"]很抱歉，未能保证你这次的拜访顺利进行……我需要制定新的计划。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
-[Decision(options="嘘......看天空......费德里科。", values="1")]
+[Decision(options="嘘……看天空……费德里科。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#10$1",focus="m")]
 [Delay(time=1.5)]
@@ -585,7 +585,7 @@
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]我认为若是提前一天抵达，这些孩子的生存概率将大幅提升。
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]......
+[name="送葬人"]……
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="none")]
 [Decision(options="你受伤了吗？;你的肩膀怎么了？", values="1;2")]
@@ -594,7 +594,7 @@
 [name="送葬人"]在肩胛部位有一处伤口。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#2$1",focus="none")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Decision(options="你手里拿着什么，费德里科？", values="2")]
 [Predicate(references="2")]
@@ -632,10 +632,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2.5, block=true)]
 [Delay(time=2)]
 [name="展会工作人员A"]雨能停真好啊，天空被乌云遮住那么多天，我感觉自己的身心都要发霉了。
-[name="展会工作人员B"]这阳光好暖和......好想就地躺倒，什么也不做，就这样晒晒太阳。
-[name="展会工作人员A"]感觉之前因为阴雨天而生出的不快一扫而空了......
+[name="展会工作人员B"]这阳光好暖和……好想就地躺倒，什么也不做，就这样晒晒太阳。
+[name="展会工作人员A"]感觉之前因为阴雨天而生出的不快一扫而空了……
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
-[name="教宗骑士"]......
+[name="教宗骑士"]……
 [Dialog]
 [Charslot]
 [name="展会工作人员B"]看，连西蒙尼先生都沉醉在这阳光中了。
@@ -647,7 +647,7 @@
 经过几天暴雨的洗刷，此刻的天空好像晕染着某种青色颜料。
 风把颜料铺开，由远及近，从深到浅，让色彩反复叠加、交融，最后把天空染成一种似蓝似绿的美丽颜色。
 在场的人们纷纷抬头看向天空，神色陶醉，一种甜美静谧的感觉充盈在他们的胸口。
-很快，这种情绪蔓延至街道，路人放缓脚步，食客停下刀叉......
+很快，这种情绪蔓延至街道，路人放缓脚步，食客停下刀叉……
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",duration=1)]
 [Delay(time=1.5)]
@@ -672,13 +672,13 @@
 [name="送葬人"]周日，天气晴，天空颜色为罕见的蓝绿色，其色彩介于蔚蓝色与浅蓝色之间。
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
 [name="送葬人"]观察得知，看到这种蓝色的人瞳孔放大，嘴角与眼角上扬，说明有愉悦畅快的情绪产生。
-[name="送葬人"]这种特殊的蓝色与人们的积极情绪是否强相关......我需要更多信息。
+[name="送葬人"]这种特殊的蓝色与人们的积极情绪是否强相关……我需要更多信息。
 [charslot(slot="m",name="avg_npc_358_1#1$1",focus="m")]
-[name="教宗骑士"]唉......快停下吧，小子，别在那里喃喃自语了。
+[name="教宗骑士"]唉……快停下吧，小子，别在那里喃喃自语了。
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
-[name="送葬人"]......明白。
+[name="送葬人"]……明白。
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]............
+[name="送葬人"]…………
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="none")]
 [Decision(options="（拍拍他的肩）;（与他对视）;（什么也不做）", values="1;2;3")]
@@ -692,7 +692,7 @@
 [Decision(options="我只是希望你能陪我看一会儿天空。", values="5")]
 [Predicate(references="2")]
 [charslot(slot="m",name="avg_1032_excu2_1#9$1",focus="m")]
-[name="送葬人"]......博士，你想说什么？
+[name="送葬人"]……博士，你想说什么？
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#9$1",focus="none")]
 [Decision(options="不用记住那么多，费德里科。", values="6")]
@@ -719,15 +719,15 @@
 [Decision(options="费德里科？费德里科？或许我们该走了。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]......
+[name="送葬人"]……
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
-[name="送葬人"]博士......我们在这里站了多久？
+[name="送葬人"]博士……我们在这里站了多久？
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
 [Decision(options="一个半小时。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]一个半小时......不，我刚才对时间流逝的感受并没有那么漫长。
+[name="送葬人"]一个半小时……不，我刚才对时间流逝的感受并没有那么漫长。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="none")]
 [Decision(options="展会工作人员都下班了，这里只剩我们两个。;看看你的手表好了，机器总不会骗人的。", values="1;2")]
@@ -735,10 +735,10 @@
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
 [name="送葬人"]核实，实际度过时间为一小时三十七分十六秒，与大脑感知存在极大误差。
 [charslot(slot="m",name="avg_1032_excu2_1#3$1",focus="m")]
-[name="送葬人"]......时间感知失真。
+[name="送葬人"]……时间感知失真。
 [charslot(slot="m",name="avg_1032_excu2_1#9$1",focus="m")]
-[name="送葬人"]......从未有过。
-[name="送葬人"]......
+[name="送葬人"]……从未有过。
+[name="送葬人"]……
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#9$1",focus="none")]
 [Decision(options="你还好吗？;你的脸色非常差。", values="1;2")]
@@ -750,7 +750,7 @@
 [Decision(options="发生什么了？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#4$1",focus="m")]
-[name="送葬人"]存在相当大的可能性......这种罕见的蓝色对我来说是致病因素，我需要确认这对之后的任务是否会造成影响。
+[name="送葬人"]存在相当大的可能性……这种罕见的蓝色对我来说是致病因素，我需要确认这对之后的任务是否会造成影响。
 [Dialog]
 [stopmusic(fadetime=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -773,13 +773,13 @@
 [Decision(options="对了，可露希尔刚才发来短讯。", values="3")]
 [Predicate(references="3")]
 [charslot(slot="m",name="avg_1032_excu2_1#4$1",focus="m")]
-[name="送葬人"]......
+[name="送葬人"]……
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#4$1",focus="none")]
 [Decision(options="让你一会儿去工程部找她。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1032_excu2_1#4$1",focus="m")]
-[name="送葬人"]......好的。
+[name="送葬人"]……好的。
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]你这是在挑选胸花吗？
 [Dialog]
@@ -793,14 +793,14 @@
 [Decision(options="但这次是为了纪念一位刚刚去世的学者。;天蓝色？但我要去的是一场葬礼啊。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1032_excu2_1#6$1",focus="m")]
-[name="送葬人"]......
+[name="送葬人"]……
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]明白，类似场合天蓝色并不适用。
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="m")]
 [name="送葬人"]谢谢你，博士，如果没有别的任务，请允许我离开。
 [Dialog]
 [charslot(slot="m",name="avg_1032_excu2_1#1$1",focus="none")]
-[Decision(options="回见，费德里科。;......期待下次会面。", values="1;2")]
+[Decision(options="回见，费德里科。;……期待下次会面。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",posfrom="0,0",posto="50,0",duration=1.5,isblock=true)]
 [charslot(slot="m",name="avg_1032_excu2_1#10$1",posfrom="50,0",posto="50,0",focus="m")]
@@ -822,7 +822,7 @@
 [charslot(slot="m",posfrom="50,0",posto="100,0",duration=1.5,isblock=false)]
 [Charslot(slot="m",afrom=1,ato=0,duration=1)]
 [Delay(time=2)]
-[Decision(options="外套......它不一直都是深蓝色吗？;......扑哧......", values="1;2")]
+[Decision(options="外套……它不一直都是深蓝色吗？;……扑哧……", values="1;2")]
 [Predicate(references="1;2")]
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

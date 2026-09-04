@@ -23,9 +23,9 @@
 [charslot(slot="m",name="avg_npc_240",duration=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="提奥"]......嗯？
-[name="提奥"]好多人......
-[name="提奥"]抱歉！呃......请让一让——
+[name="提奥"]……嗯？
+[name="提奥"]好多人……
+[name="提奥"]抱歉！呃……请让一让——
 [Dialog]
 [PlaySound(key="$d_avg_clothmovementsp", volume=1)]
 [CameraShake(duration=0.7, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -36,9 +36,9 @@
 [charslot(slot="m",name="avg_npc_1687_1#1$1",focus="m")]
 [name="急切的居民"]——米林顿街我也去过了，早就什么也没有了！虽然店门都开着，但货架全是空的，连个袋子都没剩下！
 [name="急切的居民"]克拉马那家伙说这边有库存，我才跑了五条街过来——结果还是连根羽兽毛都看不见！
-[name="急切的居民"]我还不如回去拿上弩，翻出岗哨去，到黑林里打点猎，兴许还能在饿死之前见点真正的荤腥......
+[name="急切的居民"]我还不如回去拿上弩，翻出岗哨去，到黑林里打点猎，兴许还能在饿死之前见点真正的荤腥……
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="提奥"]......什么？
+[name="提奥"]……什么？
 [charslot(slot="m",name="avg_npc_1689_1#1$1",focus="m")]
 [name="愤怒的居民"]我看你是真饿糊涂了，去黑林才真的是去送死！
 [charslot(slot="m",name="avg_npc_1687_1#1$1",focus="m")]
@@ -72,13 +72,13 @@
 [charslot(slot="m",name="avg_npc_240",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="提奥"]（小声）好像是这些店里的粮食供应断了......
-[name="提奥"]（小声）虽然我给库林先生囤了一些土豆，但可能还是不够......
+[name="提奥"]（小声）好像是这些店里的粮食供应断了……
+[name="提奥"]（小声）虽然我给库林先生囤了一些土豆，但可能还是不够……
 [name="提奥"]（小声）这里人太多了，还是走另一条路吧。
-[name="提奥"]（小声）还有好多人都拿着武器......
-[name="提奥"]（小声）他们是想围剿维多利亚间谍吗？城里没有粮食......跟维多利亚人也有关系吗？
-[name="提奥"]（小声）但我......
-[name="提奥"]（小声）我......
+[name="提奥"]（小声）还有好多人都拿着武器……
+[name="提奥"]（小声）他们是想围剿维多利亚间谍吗？城里没有粮食……跟维多利亚人也有关系吗？
+[name="提奥"]（小声）但我……
+[name="提奥"]（小声）我……
 [Dialog]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_240",focus="m")]
@@ -98,7 +98,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_240",focus="m")]
-[name="提奥"]......你看，提奥，没人找你的麻烦。
+[name="提奥"]……你看，提奥，没人找你的麻烦。
 [name="提奥"]库林先生肯定还在忙红龙雕像的事，等他回过神来，其他店里肯定也什么都不剩了。
 [name="提奥"]我得帮忙。
 [Dialog]
@@ -121,14 +121,14 @@
 [name="友善的居民"]那你自己怎么办？还有涅梅丝，她会不会没得吃？
 [name="友善的居民"]比起把粮食都给我们，你不如跟那些人一起去抓维多利亚间谍。要不然没法从根本上解决问题，是不是？
 [charslot(slot="m",name="avg_npc_1697_1#9$1",focus="m")]
-[multiline(name="库林")] ......我会去的，也麻烦你这样告诉其他人。
+[multiline(name="库林")] ……我会去的，也麻烦你这样告诉其他人。
 [charslot(slot="m",name="avg_npc_1697_1#10$1",focus="m")]
 [multiline(name="库林")]这些东西你们也先拿着。
 [name="库林"]涅梅丝在领袖的身边，为你们吃些苦也是应该的。
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]那我......那我就不跟你客气了！
+[name="友善的居民"]那我……那我就不跟你客气了！
 [charslot(slot="m",name="avg_npc_1686_1#1$1",focus="m")]
-[name="阴沉的居民"]......库林，你肯定还有别的存粮，是不是？
+[name="阴沉的居民"]……库林，你肯定还有别的存粮，是不是？
 [name="阴沉的居民"]而且，你怎么知道粮食会断供？是不是涅梅丝提前跟你说了什么——
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
 [name="友善的居民"]罗里，你说什么呢！
@@ -137,7 +137,7 @@
 [charslot(slot="m",name="avg_npc_1686_1#1$1",focus="m")]
 [name="阴沉的居民"]有谁能证明你或者涅梅丝不是间谍？你们合起伙来养大了一个维多利亚人的孩子！
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
-[name="库林"]......滚。
+[name="库林"]……滚。
 [charslot(slot="m",name="avg_npc_1686_1#1$1",focus="m")]
 [name="阴沉的居民"]我凭什么滚？你心虚什么？你——
 [Dialog]
@@ -195,7 +195,7 @@
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
 [name="友善的居民"]天哪，出血了！罗里，你怎么能对同胞动刀？！
 [charslot(slot="m",name="avg_npc_1686_1#1$1",focus="m")]
-[name="阴沉的居民"]......我、我——
+[name="阴沉的居民"]……我、我——
 [Dialog]
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [delay(time=0.2)]
@@ -215,9 +215,9 @@
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
 [name="友善的居民"]还、还得是你啊，库林。
 [charslot(slot="m",name="avg_npc_1697_1#10$1",focus="m")]
-[name="库林"]......
+[name="库林"]……
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]罗里的状态不太对，我跟上去瞧瞧......自从他收藏的那些古董在战争中被一把火烧了之后，他就一直疯疯癫癫的。
+[name="友善的居民"]罗里的状态不太对，我跟上去瞧瞧……自从他收藏的那些古董在战争中被一把火烧了之后，他就一直疯疯癫癫的。
 [name="友善的居民"]至于他的刀——他的刀你就收起来吧，库林。别再还给他了。
 [Dialog]
 [PlaySound(key="$d_avg_footstep_stonestep",volume=0.6,channel="wstep",loop=false)]
@@ -225,11 +225,11 @@
 [charslot(duration=1)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
-[name="焦急的居民"]库林，我......唉......
+[name="焦急的居民"]库林，我……唉……
 [charslot(slot="m",name="avg_npc_1697_1#10$1",focus="m")]
 [name="库林"]伤口不深，过来，我先帮你止血。粮食的事，等涅梅丝回来，我请她想想办法。
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
-[name="焦急的居民"]我知道......嘶......我知道，你是真的把自己有的都拿出来了。
+[name="焦急的居民"]我知道……嘶……我知道，你是真的把自己有的都拿出来了。
 [multiline(name="焦急的居民")]你也就是看上去凶巴巴的——
 [charslot(slot = "m", action="shake",random=true, power=5, times=60,duration=0.3)]
 [multiline(name="焦急的居民")]嘶！
@@ -257,7 +257,7 @@
 [charslot(slot="m",name="avg_npc_1692_1#5$1",focus="m")]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
-[name="涅梅丝"]......地上怎么有血？
+[name="涅梅丝"]……地上怎么有血？
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [name="库林"]罗里失控砍伤了人。
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
@@ -265,7 +265,7 @@
 [charslot(slot="m",name="avg_npc_1697_1#9$1",focus="m")]
 [name="库林"]提奥一早就出去了——
 [charslot(slot="m",name="avg_npc_1697_1#5$1",focus="m")]
-[name="库林"]......糟了！
+[name="库林"]……糟了！
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
 [multiline(name="涅梅丝")]你——
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
@@ -274,19 +274,19 @@
 [name="库林"]城里现在怎么样了？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]到处都在传是维多利亚人破坏了农业地块，纳斯尔纱已经快炸锅了。
-[name="涅梅丝"]我知道，你之前给提奥出了一次头之后没人敢欺负他，你才放心他到处跑。可这次......不一样。
+[name="涅梅丝"]我知道，你之前给提奥出了一次头之后没人敢欺负他，你才放心他到处跑。可这次……不一样。
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [name="库林"]那我现在去找他——
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
 [name="涅梅丝"]那你的雕像还来得及吗？
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
-[multiline(name="库林")]雕像得在夏末节前完工，时间只剩一点点了......
+[multiline(name="库林")]雕像得在夏末节前完工，时间只剩一点点了……
 [charslot(slot="m",name="avg_npc_1697_1#4$1",focus="m")]
 [multiline(name="库林")]该死，该死！
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]提奥的事我会去管。你就专心做好手头的事吧。
 [charslot(slot="m",name="avg_npc_1697_1#2$1",focus="m")]
-[name="库林"]......
+[name="库林"]……
 [charslot(slot="m",name="avg_npc_1697_1#10$1",focus="m")]
 [name="库林"]嗯。
 [Dialog]
@@ -301,7 +301,7 @@
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
 [name="涅梅丝"]看见提奥了吗？
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]提奥？那孩子又跑到哪里偷懒去了？库林太惯着他了，你真该说说他......
+[name="友善的居民"]提奥？那孩子又跑到哪里偷懒去了？库林太惯着他了，你真该说说他……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)] 
 [charslot]
@@ -325,11 +325,11 @@
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
 [name="涅梅丝"]看见过提奥吗？
 [charslot(slot="m",name="avg_npc_1687_1#1$1",focus="m")]
-[name="沉默的居民"]......
+[name="沉默的居民"]……
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
 [name="涅梅丝"]你还好吗？
 [charslot(slot="m",name="avg_npc_1687_1#1$1",focus="m")]
-[name="沉默的居民"]......我？我还好，就是太饿了。怎么了？你刚才说什么？
+[name="沉默的居民"]……我？我还好，就是太饿了。怎么了？你刚才说什么？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)] 
 [charslot]
@@ -340,7 +340,7 @@
 [charslot(slot="m",name="avg_npc_1689_1#1$1",focus="m")]
 [name="愤怒的居民"]你来得正好！涅梅丝，提奥那小子最近没什么可疑行为吧？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]......没有，他忙还忙不过来呢。
+[name="涅梅丝"]……没有，他忙还忙不过来呢。
 [charslot(slot="m",name="avg_npc_1689_1#1$1",focus="m")]
 [name="愤怒的居民"]哼，他最好是。
 [Dialog]
@@ -371,7 +371,7 @@
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]抱歉，“歌唱家”先生，我实在没时间和您叙旧了——对了，您能帮我个忙吗？库林的学徒提奥失踪了，您能帮我找找他吗？
 [charslot(slot="m",name="avg_npc_247",focus="m")]
-[name="“歌唱家”"]这......我爱莫能助。
+[name="“歌唱家”"]这……我爱莫能助。
 [charslot(slot="m",name="avg_npc_247",focus="m")]
 [name="“歌唱家”"]城里人现在提起维多利亚人恨不得扒了他们的皮，你又何苦为了一个维多利亚小孩四处奔忙呢？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
@@ -381,14 +381,14 @@
 [charslot(slot="m",name="avg_npc_1692_1#5$1",focus="m")]
 [name="涅梅丝"]啧！
 [charslot(slot="m",name="avg_npc_247",focus="m")]
-[name="“歌唱家”"]唉，您也真是......抱歉，我先失陪了。
+[name="“歌唱家”"]唉，您也真是……抱歉，我先失陪了。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [charslot(duration=1)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]......
-[name="涅梅丝"]这下......
+[name="涅梅丝"]……
+[name="涅梅丝"]这下……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_runstop", volume=1)]
@@ -396,7 +396,7 @@
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_1694_1#11$1",focus="m")]
 [name="拉芙希妮"]涅梅丝，是你吗？
-[name="拉芙希妮"]终于找到你了......城里到底出什么事了？
+[name="拉芙希妮"]终于找到你了……城里到底出什么事了？
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

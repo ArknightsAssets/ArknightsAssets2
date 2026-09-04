@@ -9,7 +9,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1970_1#1$1", duration=1, isblock=true)]
-[name="年轻的矿工"]不要......不......
+[name="年轻的矿工"]不要……不……
 [dialog]
 [Blocker(a=0, r=255,g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255,g=255, b=255, fadetime=0.03, block=true)]
@@ -26,7 +26,7 @@
 在她很快就不再动弹的身体旁边，另一个人弹动着双脚，试图将自己推离这片危险的区域。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", name = "avg_npc_1969_1#1$1")]
-[name="恐惧的矿工"]怪、怪物......！
+[name="恐惧的矿工"]怪、怪物……！
 [dialog]
 [PlaySound(key="$d_avg_wtchkgopenftstp", volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -63,7 +63,7 @@
 [Delay(time=1)]
 [name="“皇帝的利刃”"]你想要站着死去。
 [charslot(slot = "m", focus="n")]
-[name="？？？"]不......我不会死......
+[name="？？？"]不……我不会死……
 [name="？？？"]不会死在这里。
 [charslot(slot = "m", name = "avg_npc_077")]
 [name="“皇帝的利刃”"]不错的期许。
@@ -74,8 +74,8 @@
 [charslot(slot = "m", name = "avg_npc_1964_1#1$1", bstart=0.2,bend=0.7, duration=1.5, isblock=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_077")]
-[name="“皇帝的利刃”"]......
-[name="“皇帝的利刃”"]那是......？
+[name="“皇帝的利刃”"]……
+[name="“皇帝的利刃”"]那是……？
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1976_1#1$1", bstart=0.2,bend=0.7, duration=1.5)]
@@ -99,7 +99,7 @@
 [name="？？？"]跟在我身后！
 [charslot]
 [charslot(slot = "m", name = "avg_npc_077")]
-[name="“皇帝的利刃”"]愚蠢......
+[name="“皇帝的利刃”"]愚蠢……
 [charslot]
 你能感到身后的热源，灼烧感仿佛滚烫的炉火在身上蔓延。那些使你血液沸腾的，也使你双眼清明，他们高喊你的名字，将你向前推去。
 在这坚实的簇拥之下，你一跃而起，对准那黑色身躯上状似胸腔的位置——
@@ -125,17 +125,17 @@
 [Delay(time=1)]
 [name="？？？"]——死——
 [name="“皇帝的利刃”"]——
-[name="“皇帝的利刃”"]呵......
+[name="“皇帝的利刃”"]呵……
 没有血滴落的声音。没有抽搐的反应。
 只是刀刃的阻力在一点点变小，直至完全消失。
 [dialog]
 [Image(image="66_i01", screenadapt="coverall", fadetime=3)]
 [ImageTween(xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=1, yScaleTo=1, duration=20, block=false)]
 [Delay(time=2)]
-[name="“皇帝的利刃”"]原来......原来......
-[name="“皇帝的利刃”"]......“迦弗里伊尔”——
+[name="“皇帝的利刃”"]原来……原来……
+[name="“皇帝的利刃”"]……“迦弗里伊尔”——
 最后一个音节说出口，原本被黑影撑起的制服突然像脱了力一般，再无反抗的痕迹。
-[name="？？？"]......
+[name="？？？"]……
 你终结了这个怪物。以勇气，以果决，以胆魄。
 以不存在的“友人”的支持。
 [dialog]
@@ -151,7 +151,7 @@
 [bgeffect(name="$eb_dim_openeye",layer=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[Subtitle(text="呼......呼......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="呼……呼……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="双手好沉。这是哪里？", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -159,7 +159,7 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="......谁？", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……谁？", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [SoundVolume(volume=0.6, channel="at",fadetime=2)]
@@ -168,8 +168,8 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="杀死了谁？这些黑色的......雪......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="不，还不够。死了一个挡路的，也还有这些到处都是的、恼人的雪......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="杀死了谁？这些黑色的……雪……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="不，还不够。死了一个挡路的，也还有这些到处都是的、恼人的雪……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="怎么也不会停下的雪。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -194,7 +194,7 @@
 [delay(time=1)]
 [name="军人？"]雷尔金！
 [charslot(slot = "m", focus="n")]
-[name="？？？"]我是......
+[name="？？？"]我是……
 [name="矿工"]雷尔金！雷尔金！
 人群如潮水一般涌向你。他们将你托起，又将你拉下。这种失重的感觉，你从前也曾有过。
 人群欢呼，人群吵嚷。震耳欲聋的回响中，绝不应出现在这里的人喊出你的名字。
@@ -211,7 +211,7 @@
 [curtain]
 你闭上眼睛，随他的话语回到那片森林中。一支边防驻军，一次有去无回的任务。
 现在，你不在那里。
-[name="？？？"]赢了......
+[name="？？？"]赢了……
 [name="？？？"]我们赢了。
 [dialog]
 [PlaySound(key="$d_avg_atmosphere_horror", volume=0, loop=true, channel="at")]
@@ -225,7 +225,7 @@
 升起又坠落的瞬间，你看向远处那团仍未散尽的黑尘。
 [dialog]
 [StopSound(channel="at", fadetime=2)]
-[name="“黑色的雪”"]......
+[name="“黑色的雪”"]……
 黑色的尘烟，如同无数条细小蜿蜒的根须，从那制服的每一个孔隙中钻出，贪婪地缠绕着、覆盖着、吸附着，直到将其完全包覆。
 在黑烟的包裹下，那制服渐渐又显现出人形，仿佛——
 [dialog]

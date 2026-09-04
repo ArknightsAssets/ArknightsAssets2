@@ -22,14 +22,14 @@
 [charslot]
 [bgeffect(name="$eb_light",x=-9,y=-67,layer=1)]
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
-[name="宝巫迦"]还差......一点。
+[name="宝巫迦"]还差……一点。
 [bgeffect]
 [charslot]
 她正在用自己的力量与“雷之主”对抗，双方互不相让。
-但是，这一点......就是咫尺天涯。
+但是，这一点……就是咫尺天涯。
 [bgeffect(name="$eb_light",x=-9,y=-67,layer=1)]
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
-[name="宝巫迦"]......身为巫女，身为国主，吾早就做好了准备。
+[name="宝巫迦"]……身为巫女，身为国主，吾早就做好了准备。
 [bgeffect]
 [charslot]
 为了弥补这最后一点的差距，只需要付出生命的代价就好了。
@@ -39,14 +39,14 @@
 [name="宝巫迦"]母亲，请保佑吾。
 [charslot]
 [bgeffect]
-只要是为了泡影国，为了使命，为了责任......
+只要是为了泡影国，为了使命，为了责任……
 即使不为了这些，哪怕只是为了让梓兰小姐和空爆小姐返回自己的家园。
 这也是值得的。
 [bgeffect(name="$eb_light",x=-9,y=-67,layer=1)]
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[multiline(name="宝巫迦")]吾一定要......
+[multiline(name="宝巫迦")]吾一定要……
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
-[multiline(name="宝巫迦")]杀死“雷之主”......
+[multiline(name="宝巫迦")]杀死“雷之主”……
 [charslot]
 [bgeffect]
 宝巫迦摘下眼罩，她的右眼开始闪烁起耀眼的光芒。
@@ -66,14 +66,14 @@
 [charslot(slot="r",name="avg_npc_2100_1#4$1",focus="r")]
 [name="宝巫迦"]你们不该来的，这样做的话，吾就功亏一篑了！
 [charslot(slot="l",name="avg_1048_orchd2_1#9$2",focus="l")]
-[name="梓兰"]......
+[name="梓兰"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_knockhead_cartoon", volume=0.4)]
 [CameraShake(duration=0.4, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2100_1#11$1",focus="m")]
-[name="宝巫迦"]好痛......
+[name="宝巫迦"]好痛……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -87,18 +87,18 @@
 [Delay(time=1)]
 “雷之主”缓缓站起，它高大的身姿投下的阴影笼罩了几人。
 但是，梓兰和空爆丝毫没有后退的意思。
-[name="宝巫迦"]......为什么？
+[name="宝巫迦"]……为什么？
 [name="梓兰"]我和空爆的身边，确实有一个和你长得一模一样的孩子。
-[name="梓兰"]......你们长得很像，但是性格却完全相反。
+[name="梓兰"]……你们长得很像，但是性格却完全相反。
 [name="梓兰"]我把她——泡普卡当妹妹看待。她很胆小，也缺乏主见，如果没有人拉着她前进的话，她能在原地一个人待到大地毁灭。
 [name="梓兰"]但是，我只是她在罗德岛期间的队长，我无法一辈子当她的队长。
 [name="梓兰"]她总要学着自立。
-[name="梓兰"]我并不想要求她一定要成为什么样的人......但她至少要学会去思考，自己想要成为什么样的人。
+[name="梓兰"]我并不想要求她一定要成为什么样的人……但她至少要学会去思考，自己想要成为什么样的人。
 [name="梓兰"]而你，你很独立自主，也有行动力，你知道自己想要什么。
 [name="梓兰"]我确实有过一个念头——要是泡普卡能向你靠近一点就好了。
 [name="梓兰"]但我很快就打消了这个想法。因为宝巫迦是宝巫迦，泡普卡是泡普卡。
 [name="梓兰"]至少现在，我希望你能向她靠近一点——学会依靠别人一些。
-[name="宝巫迦"]你们......
+[name="宝巫迦"]你们……
 [name="梓兰"]下次，你再那样自顾自地走开，我可要更用力地敲你的头了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -112,7 +112,7 @@
 [Delay(time=1)]
 [charslot(slot="l",name="avg_1048_orchd2_1#1$2",focus="r")]
 [charslot(slot="r",name="avg_npc_2100_1#4$1",focus="r")]
-[name="宝巫迦"]吾......没错。
+[name="宝巫迦"]吾……没错。
 [charslot(slot="r",name="avg_npc_2100_1#11$1",focus="r")]
 [name="宝巫迦"]就算你们不来，吾也可以完成自己的使命。
 [Dialog]
@@ -138,7 +138,7 @@
 [PlaySound(key="$MHR_cat_voice3", volume=1)]
 [name="政宗"]梓兰，空爆，先带陛下撤离这里喵！
 [charslot(slot="m",name="avg_1048_orchd2_1#8$2",focus="m")]
-[name="梓兰"]......不。
+[name="梓兰"]……不。
 [charslot(slot="m",name="avg_4215_buddyC_1#1$4",focus="m")]
 [PlaySound(key="$MHR_cat_voice2", volume=1)]
 [name="政宗"]为什喵？！
@@ -170,7 +170,7 @@
 [charslot(slot="m",name="avg_1049_catap2_1#7$2",focus="m")]
 [name="空爆"]它在帮我们？
 [charslot(slot="m",name="avg_1048_orchd2_1#6$2",focus="m")]
-[name="梓兰"]它身上冒出的黑气少了许多......或许，和宝巫迦的战斗让它清醒了。
+[name="梓兰"]它身上冒出的黑气少了许多……或许，和宝巫迦的战斗让它清醒了。
 [charslot(slot="m",name="avg_1049_catap2_1#6$2",focus="m")]
 [name="空爆"]对哦，如果它真的不是什么坏家伙，而且身上又有前代陛下的力量，它会觉得这些咒鬼才是真正的威胁好像也是正常的事。
 [charslot(slot="m",name="avg_4215_buddyC_1#1$6",focus="m")]
@@ -181,9 +181,9 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#9$2",focus="m")]
 [name="梓兰"]她说，不要对抗“雷之主”，要利用它的力量。
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]......什么？！
+[name="宝巫迦"]……什么？！
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
-[name="宝巫迦"]这怎么可能！母亲有什么理由......
+[name="宝巫迦"]这怎么可能！母亲有什么理由……
 [name="宝巫迦"]况且，就算是这样，“雷之主”伤害了月见夜，而且掀起了兽潮！
 [charslot]
 [Dialog]
@@ -236,19 +236,19 @@
 [charslot(slot="m",name="avg_1049_catap2_1#6$2",focus="m")]
 [name="空爆"]等等，难道我看到的，不是“雷之主”带着咒鬼把你击倒，是它救了你之后，在那里用巫女的力量净化那些咒鬼？！
 [charslot(slot="m",name="avg_npc_2101_1#6$1",focus="m")]
-[name="月见夜"]我恐怕......是这样的。
+[name="月见夜"]我恐怕……是这样的。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]等到醒来后，我得知陛下的去向，立刻就动身想来告诉您这件事。
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
 [name="宝巫迦"]难道，母亲真的是将力量托付给了“雷之主”？
-[name="宝巫迦"]......但这样并非解释不通。
-[name="宝巫迦"]如果说，“雷之主”本就不是“诅咒”的传播者，而是受害者......
-[name="宝巫迦"]如果说，母亲知道，“雷之主”一直在凭借本能捕食被“诅咒”感染的野兽......
+[name="宝巫迦"]……但这样并非解释不通。
+[name="宝巫迦"]如果说，“雷之主”本就不是“诅咒”的传播者，而是受害者……
+[name="宝巫迦"]如果说，母亲知道，“雷之主”一直在凭借本能捕食被“诅咒”感染的野兽……
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]而它之所以一直吸收“诅咒”也能活下来，是因为，母亲将力量给了它......
-[name="宝巫迦"]那么，吾等过去见到的“雷之主”，就不是灾难引发者，它只是受到灾难吸引，才会出现在那里......
+[name="宝巫迦"]而它之所以一直吸收“诅咒”也能活下来，是因为，母亲将力量给了它……
+[name="宝巫迦"]那么，吾等过去见到的“雷之主”，就不是灾难引发者，它只是受到灾难吸引，才会出现在那里……
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[multiline(name="宝巫迦")]真正的罪魁祸首......
+[multiline(name="宝巫迦")]真正的罪魁祸首……
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
 [multiline(name="宝巫迦")]是“诅咒”，或者说，是“御轮”？！
 [charslot(slot="m",name="avg_1049_catap2_1#6$2",focus="m")]
@@ -258,9 +258,9 @@
 [name="义经"]（警惕的低吼）
 [charslot(slot="m",name="avg_4215_buddyC_1#1$2",focus="m")]
 [PlaySound(key="$MHR_cat_voice1", volume=1)]
-[name="政宗"]没错......咒鬼看起来也在向“御轮”靠近喵。
+[name="政宗"]没错……咒鬼看起来也在向“御轮”靠近喵。
 [charslot(slot="m",name="avg_4215_buddyC_1#1$3",focus="m")]
-[name="政宗"]虽然不知道它们想干什么，但肯定不是什么好事喵......
+[name="政宗"]虽然不知道它们想干什么，但肯定不是什么好事喵……
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]无论如何，若要彻底启动“御轮”，吾的力量都是不够的，吾需要“雷之主”身上属于母亲的那一部分力量。
 [charslot(slot="m",name="avg_1049_catap2_1#1$2",focus="m")]
@@ -272,7 +272,7 @@
 [charslot(slot="m",name="avg_1049_catap2_1#5$2",focus="m")]
 [name="空爆"]野兽也有本能，至少知道谁对自己威胁最大，不然也不会逮着咒鬼杀，对吧？
 [charslot(slot="m",name="avg_1048_orchd2_1#8$2",focus="m")]
-[name="梓兰"]......有道理。
+[name="梓兰"]……有道理。
 [charslot(slot="m",name="avg_1048_orchd2_1#6$2",focus="m")]
 [name="梓兰"]就算它听不懂我们的话，只要它知道什么威胁最大，自然就是我们的帮手。
 [charslot(slot="m",name="avg_1049_catap2_1#4$2",focus="m")]
@@ -286,7 +286,7 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#10$2",focus="m")]
 [name="梓兰"]你们一个是将军，一个是国主，看我干什么？
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
-[name="宝巫迦"]吾......虽然依然相信自己的做法没有错，但是，吾必须承认，你的方法或许更好。
+[name="宝巫迦"]吾……虽然依然相信自己的做法没有错，但是，吾必须承认，你的方法或许更好。
 [charslot(slot="m",name="avg_npc_2100_1#3$1",focus="m")]
 [name="宝巫迦"]眼下，你能做出比吾更加正确的判断。
 [charslot(slot="m",name="avg_npc_2101_1#5$1",focus="m")]
@@ -294,13 +294,13 @@
 [charslot(slot="m",name="avg_npc_2103_1#1$1",focus="m")]
 [name="斑弥罗"]如果不是空爆的武器，我也开发不出这台“斑弥罗特制击龙枪”，你指哪儿，我打哪儿！
 [charslot(slot="m",name="avg_1049_catap2_1#14$2",focus="m")]
-[name="空爆"]呃......原来那个东西真的有用啊！我还以为单纯逗我们玩的呢！
+[name="空爆"]呃……原来那个东西真的有用啊！我还以为单纯逗我们玩的呢！
 [charslot(slot="m",name="avg_npc_2103_1#1$1",focus="m")]
 [name="斑弥罗"]当然有！我说过多少次了，我可是正经的发明家！
 [charslot(slot="m",name="avg_1049_catap2_1#5$2",focus="m")]
 [name="空爆"]那你至少改一改你命名的品味吧！
 [charslot(slot="m",name="avg_1048_orchd2_1#4$2",focus="m")]
-[name="梓兰"]......
+[name="梓兰"]……
 [charslot(slot="m",name="avg_1049_catap2_1#1$2",focus="m")]
 [name="空爆"]梓兰姐，下令吧。
 [charslot(slot="m",name="avg_1048_orchd2_1#7$2",focus="m")]
@@ -339,9 +339,9 @@
 [name="宝巫迦"]吾在。
 [name="梓兰"]你的任务是——
 [name="梓兰"]不要留下遗憾。
-[name="宝巫迦"]......吾知道了。
+[name="宝巫迦"]……吾知道了。
 [name="梓兰"]这次任务十分危险，希望你们量力而行。
-[name="梓兰"]成功之后......请你们吃烤肉。
+[name="梓兰"]成功之后……请你们吃烤肉。
 [name="空爆"]好寒酸啊，梓兰姐！
 [name="梓兰"]不满意就换个队长去吧。
 [name="空爆"]那还是不要了，嘿嘿。

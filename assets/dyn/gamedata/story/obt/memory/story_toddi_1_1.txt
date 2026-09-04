@@ -9,7 +9,7 @@
 [Delay(time=1)]
 [Character(name="avg_363_toddi_1#7$1",fadetime=0.5,block=true)]
 [Delay(time=0.51)]
-[name="熔泉"]......哈......哈......
+[name="熔泉"]……哈……哈……
 [Dialog]
 [Character(name="avg_npc_053",name2="char_416_zumama_1#2",fadetime=0.5,block=true)]
 [delay(time=1)]
@@ -24,7 +24,7 @@
 [characteraction(name="right", type="jump", xpos=100, power=5, times=1, fadetime=1,block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_053",name2="char_416_zumama_1#2",focus=2)]
-[name="森蚺"]......呼......呼......
+[name="森蚺"]……呼……呼……
 [Character(name="avg_363_toddi_1#7$1")]
 [name="熔泉"]左边！
 [Character(name="avg_npc_053",name2="char_416_zumama_1#2",focus=2)]
@@ -69,30 +69,30 @@
 [delay(time=2)]
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#2",focus=1)]
-[name="熔泉"]......你挡我炮位了。
+[name="熔泉"]……你挡我炮位了。
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#2",focus=1)]
 [name="熔泉"]斐迪亚，还活着吗？
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#2",focus=2)]
-[name="森蚺"]......咳咳......
+[name="森蚺"]……咳咳……
 [name="森蚺"]说真的，我从没打过这么难受的架。
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#2",focus=1)]
 [name="熔泉"]你这个大家伙还蛮结实的嘛。嗯，应该只是被爆炸波及了，看起来没什么大损伤。
 [name="熔泉"]也许破城矢的装药量可以再提高两成？
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#2",focus=2)]
 [name="森蚺"]那我绝对不会再和你出任务了。
-[name="森蚺"]嗯......三号关节的液压系统不太稳定，这笔维修费你帮我出。
+[name="森蚺"]嗯……三号关节的液压系统不太稳定，这笔维修费你帮我出。
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#2",focus=1)]
 [name="熔泉"]不能怪我，你的机甲真的很影响视野，也真的很适合被攻城弩来一下。
 [name="熔泉"]有机会真得试试，应该打得穿吧？
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#1",focus=2)]
-[name="森蚺"]......赌上提亚卡乌的名誉，下次你部门内的武器预算申请，我一定投反对票。
+[name="森蚺"]……赌上提亚卡乌的名誉，下次你部门内的武器预算申请，我一定投反对票。
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#1",focus=1)]
 [name="熔泉"]开什么玩笑，你懂不懂攻城武器的重要性？！
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#1",focus=2)]
 [name="森蚺"]师父说了，罗德岛不会装备任何攻城武器。这不符合我们的中立原则。
 [name="森蚺"]不过，你这个大弓箭，也算不得攻城武器就是了。
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#1",focus=1)]
-[name="熔泉"]什......？！便携攻城弩也是攻城弩！
+[name="熔泉"]什……？！便携攻城弩也是攻城弩！
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#6",focus=2)]
 [name="森蚺"]这弓箭连引擎都没有。
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#6",focus=1)]
@@ -100,7 +100,7 @@
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#1",focus=2)]
 [name="森蚺"]我部落里的弓箭就是有引擎的。
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#1",focus=1)]
-[name="熔泉"]......想打架吗，斐迪亚？
+[name="熔泉"]……想打架吗，斐迪亚？
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#1",focus=2)]
 [name="森蚺"]我叫祖玛玛。
 [Character(name="avg_npc_053")]
@@ -129,26 +129,26 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(name="avg_npc_008",fadetime=1,block=true)]
 [delay(time=3)]
-[name="荒地人"]那个......打扰一下？
+[name="荒地人"]那个……打扰一下？
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#1",focus=1)]
 [name="熔泉"]嫌命长吗？我们这里忙着呢。
 [PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
 [Character(name="avg_npc_008")]
 [name="荒地人"]二位就是罗德岛吧？
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#4",focus=2)]
-[name="森蚺"]您是......？
+[name="森蚺"]您是……？
 [Character(name="avg_npc_008")]
 [name="荒地人"]啊，顺便提醒你们一下，那架弩炮的右侧扭力系统应该是在刚刚的战斗中磨损了，继续使用的话会对精确度有点影响。
 [Character(name="avg_363_toddi_1#4$1",name2="char_416_zumama_1#4",focus=1)]
 [name="熔泉"]啧！
 [Character(name="avg_npc_008")]
-[name="荒地人"]那边的......呃......黄色拖拉机？
+[name="荒地人"]那边的……呃……黄色拖拉机？
 [Character(name="avg_363_toddi_1#4$1",name2="char_416_zumama_1#1",focus=2)]
 [name="森蚺"]你可以叫她暴躁铁皮。
 [Character(name="avg_npc_008")]
 [name="荒地人"]最好看看冷却系统的状况，再拖下去引擎会有异响的。
 [Character(name="avg_363_toddi_1#4$1",name2="char_416_zumama_1#6",focus=2)]
-[name="森蚺"]......真的！谢谢你，呃......
+[name="森蚺"]……真的！谢谢你，呃……
 [Character(name="avg_npc_008")]
 [name="荒地人"]你可以叫我老乔，初次见面，罗德岛。
 [name="老乔"]我是这次任务的委托人。
@@ -161,14 +161,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_008")]
-[name="老乔"]你们的行动编组......只有两个人？
+[name="老乔"]你们的行动编组……只有两个人？
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#1",focus=1)]
 [name="熔泉"]不信任我们的专业能力吗？
 [Character(name="avg_npc_008")]
-[name="老乔"]怎么会，你们可是慑砂推荐的。罗德岛的名字......在荒地人中也不算陌生。
-[name="老乔"]只是，再怎么说，两个人也......
+[name="老乔"]怎么会，你们可是慑砂推荐的。罗德岛的名字……在荒地人中也不算陌生。
+[name="老乔"]只是，再怎么说，两个人也……
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#1",focus=2)]
-[name="森蚺"]哈哈......的确是出了一些意外......
+[name="森蚺"]哈哈……的确是出了一些意外……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -193,21 +193,21 @@
 [name="森蚺"]呼，刚刚装完车。
 [name="森蚺"]暴躁铁皮状态良好，之前和师父做了一次全面升级，现在驾驶位坐起来舒服多了。
 [Character(name="char_empty",name2="char_416_zumama_1#4",focus=-1)]
-[name="煌"]啊，这次行动的确没看到那只奇怪的黎博利......
+[name="煌"]啊，这次行动的确没看到那只奇怪的黎博利……
 [Character(name="char_empty",name2="char_416_zumama_1#4",focus=2)]
 [name="森蚺"]大祭司爷爷说不能总靠他来驾驶，这毕竟是我的机甲。
 [Character(name="char_empty",name2="char_416_zumama_1#4",focus=-1)]
-[name="煌"]你来开我反倒更放心一点......熔泉，攻城弩状态正常吗？
+[name="煌"]你来开我反倒更放心一点……熔泉，攻城弩状态正常吗？
 [Character(name="char_empty",name2="avg_363_toddi_1#1$1",focus=2)]
 [name="熔泉"]我说，听博士说有个废弃地块可以打，我才来的。
 [Character(name="char_empty",name2="avg_363_toddi_1#7$1",focus=2)]
 [name="熔泉"]结果，居然是个营救任务？！
 [Character(name="char_empty",name2="avg_363_toddi_1#7$1",focus=-1)]
-[name="煌"]......现在才反应过来？
+[name="煌"]……现在才反应过来？
 [Character(name="char_empty",name2="avg_363_toddi_1#7$1",focus=2)]
 [name="熔泉"]哈——我可是为了这次任务，熬了三个大夜，特别赶制了一批超重型破城矢！结果居然是营救在废弃地块里的荒地人？！
 [Character(name="char_empty",name2="avg_363_toddi_1#7$1",focus=-1)]
-[name="煌"]熔泉......下次行动前好好看看任务简报呗？
+[name="煌"]熔泉……下次行动前好好看看任务简报呗？
 [name="煌"]因为有敌人已经占领地块并凭借工事反击的可能，我才向博士申请指派你们几个有攻坚能力的干员来的，以防万一嘛。
 [Character(name="char_empty",name2="char_416_zumama_1#1",focus=2)]
 [name="森蚺"]就算面对的是废弃地块，可那毕竟曾经是移动城市的一部分，准备好重武器总是没错的。
@@ -223,7 +223,7 @@
 [Blocker(a=0.2, r=0.9, g=0.8, b=0.7, fadetime=2, block=true)]
 [delay(time=1)]
 [Character(name="char_empty",name2="avg_363_toddi_1#1$1",focus=-1)]
-[name="煌"]我们在前面的坎宁路口集合，从西南方向......
+[name="煌"]我们在前面的坎宁路口集合，从西南方向……
 [Dialog]
 [CharacterCutin(widgetID="2",block=true)]
 [delay(time=0.51)]
@@ -231,14 +231,14 @@
 [CharacterCutin(widgetID="3", name="avg_npc_012", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=-300, width=200, block=true)]
 [name="外勤干员"]打断一下，煌大姐，你有没有觉得能见度有点低？
 [Character(name="char_empty",name2="avg_363_toddi_1#1$1",focus=2)]
-[name="熔泉"]风声......
+[name="熔泉"]风声……
 [PlayMusic(intro="$calamity_intro", key="$calamity_loop", volume=0.4,fadetime=2)]
 [Character(name="char_empty",name2="avg_363_toddi_1#1$1",focus=-1)]
 [name="外勤干员"]前方天气有异常！
 [Character(name="char_empty",name2="char_416_zumama_1#2",focus=2)]
 [name="森蚺"]我们这辆车也看到尘云了！
 [Character(name="char_empty",name2="avg_363_toddi_1#6$1",focus=2)]
-[name="熔泉"]这......这聚集速度！快上车！
+[name="熔泉"]这……这聚集速度！快上车！
 [Character(name="char_empty",name2="avg_363_toddi_1#6$1",focus=-1)]
 [name="外勤干员"]收到本舰发来的联络，前方雷沙暴正在急速形成中！本舰会帮我们导航！
 [Dialog]
@@ -251,23 +251,23 @@
 [Character(name="char_empty",name2="avg_363_toddi_1#6$1",focus=-1)]
 [name="煌"]不行，你们的速度还是太慢了！抛弃你们的装备！
 [Character(name="char_empty",name2="avg_363_toddi_1#1$1",focus=2)]
-[name="熔泉"]......
+[name="熔泉"]……
 [Character(name="char_empty",name2="char_416_zumama_1#1",focus=2)]
-[name="森蚺"]......
+[name="森蚺"]……
 [Character(name="char_empty",name2="char_416_zumama_1#1",focus=-1)]
 [name="煌"]没时间了，抛弃装备！
 [Character(name="char_empty",name2="avg_363_toddi_1#4$1",focus=2)]
 [name="熔泉"]说实话，我没信心能从可露希尔那再批下一架攻城弩的预算。
 [Character(name="char_empty",name2="char_416_zumama_1#4",focus=2)]
-[name="森蚺"]......暴躁铁皮上周才做的保养。
+[name="森蚺"]……暴躁铁皮上周才做的保养。
 [Character(name="char_empty",name2="char_416_zumama_1#4",focus=-1)]
-[name="煌"]能......（滋滋）回答......（滋滋）......抛......本舰（滋滋）......
+[name="煌"]能……（滋滋）回答……（滋滋）……抛……本舰（滋滋）……
 [Character(name="char_empty",name2="avg_363_toddi_1#4$1",focus=2)]
 [name="熔泉"]导力系统调教起来很麻烦的。
 [Character(name="char_empty",name2="char_416_zumama_1#4",focus=2)]
 [name="森蚺"]工程部的干员们花了那么多心血才改进的机型。
 [Character(name="char_empty",name2="char_416_zumama_1#4",focus=-1)]
-[name="煌"]......舰......
+[name="煌"]……舰……
 [Dialog]
 [PlaySound(key="$transmission",volume=0.6)]
 [CharacterCutin(widgetID="4",fadetime=0.5,block=true)]
@@ -310,7 +310,7 @@
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#4",focus=1)]
 [name="熔泉"]我有提示落点，你自己躲得太慢了。
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#1",focus=2)]
-[name="森蚺"]你......
+[name="森蚺"]你……
 [Character(name="avg_npc_008")]
 [name="老乔"]二位，我们到了。
 [name="老乔"]到得有些晚了。
@@ -335,9 +335,9 @@
 [Character(name="avg_npc_329_1$1",name2="avg_npc_006",focus=1)]
 [name="荒地人A"]大人，我们没做任何伤天害理的事情啊！呃啊！
 [Character(name="avg_npc_329_1$1",name2="avg_npc_006",focus=2)]
-[name="荒地人B"]救......救命！我的孩子还在里面！
+[name="荒地人B"]救……救命！我的孩子还在里面！
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#2",focus=2)]
-[name="森蚺"]这些混蛋......!
+[name="森蚺"]这些混蛋……!
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#2",focus=1)]
 [name="熔泉"]能看得出体表源石结晶，基本都是感染者。注意，敌方也有火炮类武器。
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#2",focus=2)]
@@ -425,13 +425,13 @@
 [Character(name="avg_363_toddi_1#1$1",name2="avg_npc_053",focus=2)]
 [name="沙蜥帮队长"]哈！红发娘们，你那大弓箭太危险了，老子接管了！现在站在那里别动！
 [Character(name="avg_363_toddi_1#1$1",name2="avg_npc_053",focus=1)]
-[name="熔泉"]......真麻烦啊......
+[name="熔泉"]……真麻烦啊……
 [Character(name="avg_363_toddi_1#1$1",name2="avg_npc_053",focus=2)]
 [name="沙蜥帮队长"]你听好了，不管你们是谁，那帮荒地杂种是怎么联系到你们的。我们清扫掉那帮垃圾是合法合规的！
 [Character(name="avg_363_toddi_1#1$1",name2="avg_npc_053",focus=1)]
 [name="熔泉"]出示一下合同看看？
 [Character(name="avg_363_toddi_1#1$1",name2="avg_npc_053",focus=2)]
-[name="沙蜥帮队长"]......嘿，你看，我们并不是荒野暴徒，我们是资源回收从业者，是资源，就有价值，就值得被利用，比如这里的零件和废铁。
+[name="沙蜥帮队长"]……嘿，你看，我们并不是荒野暴徒，我们是资源回收从业者，是资源，就有价值，就值得被利用，比如这里的零件和废铁。
 [name="沙蜥帮队长"]至于不能被归为资源的那部分，很遗憾，我们就进行适当的处理。我对这帮荒地杂种并没有个人好恶，但这就是规矩。
 [name="沙蜥帮队长"]“回收利用是文明的本质”，这是我们公司的口号，贴在办公室墙上的。
 [Character(name="avg_363_toddi_1#1$1",name2="avg_npc_053",focus=1)]
@@ -539,11 +539,11 @@
 [Character(name="char_017_homura_3#8",name2="avg_npc_008",focus=1)]
 [name="煌"]都结束了？
 [Character(name="char_017_homura_3#8",name2="avg_npc_008",focus=2)]
-[name="老乔"]嗯，跑了一部分。不过，他们说的帕夏和约翰老妈的协议......？
+[name="老乔"]嗯，跑了一部分。不过，他们说的帕夏和约翰老妈的协议……？
 [Character(name="char_017_homura_3#10",name2="avg_npc_008",focus=1)]
-[name="煌"]约翰老妈不会承认的。不过这帮荒地人也得尽快转移，有几个感染者的病情不太乐观啊......
+[name="煌"]约翰老妈不会承认的。不过这帮荒地人也得尽快转移，有几个感染者的病情不太乐观啊……
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#5",focus=2)]
-[name="森蚺"]熔泉，刚才还挺险的，还好......
+[name="森蚺"]熔泉，刚才还挺险的，还好……
 [Dialog]
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#5")]
 [Delay(time=0.51)]
@@ -557,9 +557,9 @@
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#2",focus=2)]
 [name="森蚺"]你干嘛！
 [Character(name="char_017_homura_3#8",name2="avg_npc_008",focus=2)]
-[name="老乔"]啊，这攻城弩的弦轴稳定器被切掉了，大概是拖拉机入场的时候......
+[name="老乔"]啊，这攻城弩的弦轴稳定器被切掉了，大概是拖拉机入场的时候……
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#6",focus=2)]
-[name="森蚺"]......啊？
+[name="森蚺"]……啊？
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#6",focus=1)]
 [name="熔泉"]这一拳，你给我老实受着！
 [Character(name="avg_363_toddi_1#7$1",name2="char_416_zumama_1#2",focus=2)]
@@ -569,7 +569,7 @@
 [Character(name="char_017_homura_3#8",name2="avg_npc_008",focus=2)]
 [name="老乔"]不用管吗？
 [Character(name="char_017_homura_3#10",name2="avg_npc_008",focus=1)]
-[name="煌"]......唉。
+[name="煌"]……唉。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -579,7 +579,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_008")]
-[name="老乔"]呃......熔泉小姐，我手上的材料就只能修到这个程度了，调校可能还需要你自己来。
+[name="老乔"]呃……熔泉小姐，我手上的材料就只能修到这个程度了，调校可能还需要你自己来。
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#5",focus=1)]
 [name="熔泉"]足够了。
 [Character(name="avg_npc_008")]
@@ -593,20 +593,20 @@
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#5",focus=2)]
 [name="森蚺"]了解。
 [Character(name="avg_npc_008")]
-[name="老乔"]......
+[name="老乔"]……
 [name="老乔"]现在这种气氛，我真的很尴尬。
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#1",focus=1)]
-[name="熔泉"]......你们那些荒地人，真的不去附近的罗德岛医疗点吗？他们有的人病得很重。
+[name="熔泉"]……你们那些荒地人，真的不去附近的罗德岛医疗点吗？他们有的人病得很重。
 [Character(name="avg_npc_008")]
 [name="老乔"]这就是我们的生活方式，尘归尘，土归土，既然来到了荒野，那归于荒野就是注定的结局。
 [name="老乔"]死在矿石病手里，和死在土匪手里没什么区别。
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#3",focus=2)]
-[name="森蚺"]你们就没有向往过......移动城市上的文明吗？
+[name="森蚺"]你们就没有向往过……移动城市上的文明吗？
 [Character(name="avg_npc_008")]
-[name="老乔"]......哈，文明。
+[name="老乔"]……哈，文明。
 [name="老乔"]我们这些荒地人，本身就是被它抛下的人，回不去的。
 [Character(name="avg_363_toddi_1#1$1",name2="char_416_zumama_1#4",focus=2)]
-[name="森蚺"]看你的工匠手艺，你究竟......
+[name="森蚺"]看你的工匠手艺，你究竟……
 [Character(name="avg_npc_008")]
 [name="老乔"]别问，别打探荒地人以前的生活。
 [name="老乔"]这个聚落帮过我一次，我按规矩回报他们一次，仅此而已。
@@ -616,7 +616,7 @@
 [name="老乔"]我也该告辞了，谢谢你们搭我一程。
 [name="老乔"]嘿，红发姑娘。
 [Character(name="avg_363_toddi_1#6$1",name2="char_416_zumama_1#4",focus=1)]
-[name="熔泉"]......
+[name="熔泉"]……
 [Character(name="avg_npc_008")]
 [name="老乔"]身手不错。
 [Dialog]
@@ -629,8 +629,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [name="森蚺"]回来了。
-[name="熔泉"]......是啊，回来了。
-[name="森蚺"]登上罗德岛不会有感觉，但从这个角度看过去......
+[name="熔泉"]……是啊，回来了。
+[name="森蚺"]登上罗德岛不会有感觉，但从这个角度看过去……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -641,7 +641,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=0.51)]
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#5",focus=2)]
-[name="森蚺"]......真是奇迹啊。
+[name="森蚺"]……真是奇迹啊。
 [name="森蚺"]我在萨尔贡的丛林中长大，从未接触过什么机械之类的东西。大家用拳头也能生活得很好。有一天，我偶然看见一座移动城市驶过。
 [name="森蚺"]在那个清晨，那个灰蒙蒙的影子，遥远的轰鸣，我一辈子也不会忘，那是文明和进步的声音。
 [name="森蚺"]而我们，现在竟然就在其中一座上生活着！
@@ -656,25 +656,25 @@
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#5",focus=1)]
 [name="熔泉"]你说，我如果在这个距离开一炮，重型破城矢能刺穿罗德岛的外层装甲吗？
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#1",focus=2)]
-[name="森蚺"]......
+[name="森蚺"]……
 [name="森蚺"]熔泉，如果你以后还想从师父那里拿经费的话，我建议你不要尝试。
 [Character(name="avg_363_toddi_1#2$1",name2="char_416_zumama_1#1",focus=1)]
 [name="熔泉"]无聊。
-[name="熔泉"]......我出生在维多利亚，一个萨尔贡的瓦伊凡移民家庭，说起来我们算同乡。我妈妈偶尔还会做几道萨尔贡菜，似是而非吧。
+[name="熔泉"]……我出生在维多利亚，一个萨尔贡的瓦伊凡移民家庭，说起来我们算同乡。我妈妈偶尔还会做几道萨尔贡菜，似是而非吧。
 [Character(name="avg_363_toddi_1#2$1",name2="char_416_zumama_1#1",focus=2)]
 [name="森蚺"]短蕉果烤鳞肉？
 [Character(name="avg_363_toddi_1#2$1",name2="char_416_zumama_1#1",focus=1)]
-[name="熔泉"]没那么正宗，只是些红椒茶之类的......
-[name="熔泉"]瓦伊凡在维多利亚立足并不容易，要不然去参军，要不然就想办法融入当地，我家办了个工厂，生产一些......滑轮。
+[name="熔泉"]没那么正宗，只是些红椒茶之类的……
+[name="熔泉"]瓦伊凡在维多利亚立足并不容易，要不然去参军，要不然就想办法融入当地，我家办了个工厂，生产一些……滑轮。
 [name="熔泉"]没什么技术含量，弄些废铁，回炉重铸，保持好温度，最后浇成圆的，谁都能干。
 [name="熔泉"]直到，我祖父买来了一台机床。不知道他从哪倒腾来的旧型号二手货，巨大，笨重，用了不知道多少年。
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#1",focus=1)]
-[name="熔泉"]你能想象它第一次启动的样子吗？当然惨不忍睹，可是，那巨大的噪声和震颤，那些陈旧的机械结构打开......我听不到自己的心跳了。
+[name="熔泉"]你能想象它第一次启动的样子吗？当然惨不忍睹，可是，那巨大的噪声和震颤，那些陈旧的机械结构打开……我听不到自己的心跳了。
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#5",focus=2)]
 [name="森蚺"]比打架爽快，对吧？
 [Character(name="avg_363_toddi_1#3$1",name2="char_416_zumama_1#5",focus=1)]
 [name="熔泉"]一点没错。
-[name="熔泉"]你刚才说文明与进步......我们从不管机床叫“文明”。
+[name="熔泉"]你刚才说文明与进步……我们从不管机床叫“文明”。
 [name="熔泉"]它只是能让我们活得更好一点罢了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -707,7 +707,7 @@
 [Character(name="char_187_ccheal_1#5")]
 [name="嘉维尔"]她刚刚还在和我说她把暴躁铁皮升级成狂躁铁皮了，走走走，今天我休假！你们尽情打，有我呢，别怕受伤！
 [Character(name="char_416_zumama_1#3")]
-[name="森蚺"]......唉。
+[name="森蚺"]……唉。
 [Dialog]
 [stopmusic(fadetime=3)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]

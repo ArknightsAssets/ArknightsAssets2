@@ -31,7 +31,7 @@
 [charslot(slot = "l", name = "avg_npc_1210_1#1$1", focus="l")]
 [name="马特奥"]哦，还有，记得收缴那些老爷们的终端。
 [charslot(slot = "r", focus="r")]
-[name="带队的军官"]那他们身上的财物，我们是不是也......
+[name="带队的军官"]那他们身上的财物，我们是不是也……
 [charslot(slot = "l", name = "avg_npc_1210_1#9$1", focus="l")]
 [name="马特奥"]哼，你倒是很懂啊。
 [charslot(slot = "l", name = "avg_npc_1210_1#9$1", focus="l")]
@@ -52,7 +52,7 @@
 [charslot(slot = "l", name = "avg_npc_1210_1#9$1", focus="l")]
 [name="马特奥"]不对，按照你们这种文化人的调调，我该问你，“美吗”？
 [charslot(slot = "r", name = "avg_npc_1211_1#8$1", focus="r")]
-[name="雷内尔"]......
+[name="雷内尔"]……
 [charslot(slot = "l", name = "avg_npc_1210_1#1$1", focus="l")]
 [name="马特奥"]打算沉默了？别以为保持沉默就能保你平安。
 [name="马特奥"]不过话又说回来，也确实没什么需要你说的。你只要在这里老老实实坐着，扮演好恐怖袭击受害人就够了。
@@ -79,7 +79,7 @@
 [charslot(slot = "m", name = "avg_npc_1210_1#7$1")]
 [name="马特奥"]怎么了？有人闹起来了？
 [charslot(slot = "m", name = "avg_npc_1271_1#1$1")]
-[name="带队的军官"]不，其实......
+[name="带队的军官"]不，其实……
 [name="带队的军官"]我们还是到房间里说吧。
 [dialog]
 [StopSound(channel="a", fadetime=2)]
@@ -99,7 +99,7 @@
 [charslot(slot = "m", name = "avg_4123_ela_1#1$1")]
 [name="艾拉"]这不是雷内尔的风格。假如他真的知道你们要来，他也许会暴怒，也许会兴奋，但绝对不会像你说的那样一躲了之。
 [charslot(slot = "m", name = "avg_npc_1212_1#8$1")]
-[name="特克诺"]那这......
+[name="特克诺"]那这……
 [dialog]
 [charslot]
 [PlaySound(key="$transmission", volume=1)]
@@ -128,12 +128,12 @@
 [charslot(slot = "m", name = "avg_282_catap_1#5$1")]
 [multiline(name="空爆")]源石爆炸物？
 [charslot(slot = "m", name = "avg_282_catap_1#1$1")]
-[multiline(name="空爆",end=true)]这......啊哈哈......
+[multiline(name="空爆",end=true)]这……啊哈哈……
 [charslot(slot = "m", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_486_espumo_1#3", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
 [name="龙舌兰"]阿莱塔，你笑得我心慌。你现在到底在哪？
 [charslot(slot = "m", name = "avg_282_catap_1#1$1")]
-[name="空爆"]所有人，我，艾拉他们，特克诺，迪亚兹，街头艺术社区的人......所有人都在艺术馆前面的广场上。
+[name="空爆"]所有人，我，艾拉他们，特克诺，迪亚兹，街头艺术社区的人……所有人都在艺术馆前面的广场上。
 [charslot(slot = "m", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_486_espumo_1#7", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
 [name="龙舌兰"]那你们还不赶快走？
@@ -142,7 +142,7 @@
 [name="空爆"]埃内斯托，你为什么知道得这么清楚？你现在在哪里？
 [charslot(slot = "m", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_486_espumo_1#3", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
-[name="龙舌兰"]......
+[name="龙舌兰"]……
 [charslot(slot = "m", name = "avg_282_catap_1#2$1")]
 [name="空爆"]好，我知道了。现在把你知道的所有信息都告诉我吧，埃内斯托。
 [charslot(slot = "m", focus="n")]
@@ -165,17 +165,17 @@
 [name="马特奥"]饭桶！
 [name="马特奥"]我还让你告诉那些人别把艺术品弄坏了，你倒是先给我打碎一个！
 [charslot(slot = "m", name = "avg_npc_1271_1#1$1")]
-[name="带队的军官"]上尉，这件事您先听我说完！那个打碎的陶瓶里面有......有......
-[name="带队的军官"]......源石爆炸物。
+[name="带队的军官"]上尉，这件事您先听我说完！那个打碎的陶瓶里面有……有……
+[name="带队的军官"]……源石爆炸物。
 [charslot(slot = "m", name = "avg_npc_1210_1#10$1")]
 [name="马特奥"]源石爆炸物？
 [charslot(slot = "m", name = "avg_npc_1271_1#1$1")]
 [name="带队的军官"]而且，不止——不止这一枚炸弹！
-[name="带队的军官"]属下刚刚上楼的时候，发现楼梯间里的墙面不太对劲，好像是新补过的，按说不应该这样......
+[name="带队的军官"]属下刚刚上楼的时候，发现楼梯间里的墙面不太对劲，好像是新补过的，按说不应该这样……
 [charslot(slot = "m", name = "avg_npc_1210_1#10$1")]
 [name="马特奥"]你就把墙打破了？里面也有炸弹？
 [charslot(slot = "m", name = "avg_npc_1271_1#1$1")]
-[name="带队的军官"]不是炸弹，而是......控制炸药起爆的节点。也就是说，起爆地点不止一处，炸药的量可能比我想象的还要多。
+[name="带队的军官"]不是炸弹，而是……控制炸药起爆的节点。也就是说，起爆地点不止一处，炸药的量可能比我想象的还要多。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1210_1#7$1")]
 [delay(time=0.8)]
@@ -202,7 +202,7 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
-[name="马特奥"]呼......
+[name="马特奥"]呼……
 [charslot(slot = "r", name = "avg_npc_1271_1#1$1", focus="r")]
 [name="带队的军官"]上尉，那些东西会把整个艺术馆夷平的！而且我们甚至不知道那些东西到底怎么起爆，是人工操控的还是定时的！
 [name="带队的军官"]我们抓紧时间把现有的东西装车，把那些阔佬的钱拿走，这事就这么算了吧！
@@ -221,9 +221,9 @@
 [charslot(slot = "l", name = "avg_npc_1210_1#10$1", focus="l")]
 [name="马特奥"]土匪？
 [charslot(slot = "r", name = "avg_npc_1271_1#1$1", focus="r")]
-[name="带队的军官"]我......我只是随口一说，但我们真没必要用命陪着雷内尔发疯啊。
+[name="带队的军官"]我……我只是随口一说，但我们真没必要用命陪着雷内尔发疯啊。
 [charslot(slot = "l", name = "avg_npc_1210_1#10$1", focus="l")]
-[name="马特奥"]......
+[name="马特奥"]……
 [charslot(slot = "l", name = "avg_npc_1210_1#1$1", focus="l")]
 [name="马特奥"]行，我知道了。还有谁知道这件事？
 [charslot(slot = "r", name = "avg_npc_1271_1#1$1", focus="r")]
@@ -256,7 +256,7 @@
 [delay(time=1)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1210_1#10$1", duration=1, isblock=true)]
-[name="马特奥"]小子，在这么多钻营，这么多布置，下了这么多决心，断了这么多后路之后......去当土匪？
+[name="马特奥"]小子，在这么多钻营，这么多布置，下了这么多决心，断了这么多后路之后……去当土匪？
 [charslot(slot = "m", name = "avg_npc_1210_1#3$1")]
 [name="马特奥"]我早就没有回头的机会了。
 [charslot(slot = "m", name = "avg_npc_1210_1#7$1")]
@@ -273,10 +273,10 @@
 [charslot(slot = "m", name = "avg_282_catap_1#10$1")]
 [name="空爆"]布设炸弹的雷内尔和控制人群的上尉好像都不知道对方要做什么，反正埃内斯托是这么说的。
 [charslot(slot = "m", name = "avg_4124_iana_1#6$1")]
-[name="双月"]......两个疯子。
+[name="双月"]……两个疯子。
 [charslot(slot = "m", name = "avg_4123_ela_1#6$1")]
 [name="艾拉"]这两个人确实很疯。我们必须按最坏的可能做准备，一切以被卷入事件的人质优先。
-[name="艾拉"]商议一下具体的行动方案。我方人员总共五名，双月、医生、导火索、我，还有罗德岛的空爆......
+[name="艾拉"]商议一下具体的行动方案。我方人员总共五名，双月、医生、导火索、我，还有罗德岛的空爆……
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -289,7 +289,7 @@
 [charslot(slot = "m", name = "avg_npc_1214_1#7$1")]
 [name="迪亚兹"]再说，既然艺术馆里困着的不光雷内尔那个混球，也不光那群投资客，还有那么多普通人，我没理由不去。
 [charslot(slot = "m", name = "avg_npc_1212_1#6$1")]
-[name="特克诺"]老爹......
+[name="特克诺"]老爹……
 [charslot(slot = "m", name = "avg_npc_1214_1#1$1")]
 [name="迪亚兹"]不用劝我，我是一定要去的。
 [charslot(slot = "m", name = "avg_npc_1212_1#7$1")]
@@ -322,7 +322,7 @@
 [name="社区画家"]屁滚尿流有什么好看的。我要看的是雷内尔买来的那些艺术品。
 [name="社区画家"]我原以为那些东西只有给雷内尔交门票钱才能看，现在可不一样，我们是去救人的——
 [charslot(slot = "m", name = "avg_npc_033")]
-[name="社区居民"]你、你、你要是这么说......
+[name="社区居民"]你、你、你要是这么说……
 [dialog]
 [playsound(key="$d_avg_paper1",volume=1)]
 [delay(time=0.5)]
@@ -331,18 +331,18 @@
 [charslot(slot = "m", name = "avg_npc_001")]
 [name="社区小贩"]你突然掏雷内尔的传单干什么？
 [charslot(slot = "m", name = "avg_npc_033")]
-[name="社区居民"]......这个。
+[name="社区居民"]……这个。
 [name="社区居民"]克里斯达尔艺术馆二号展厅展品第14号。萨尔贡占领米诺斯前夜，米诺斯一个无名诗人的手稿。
-[name="社区居民"]这么美的诗，这么珍贵的手稿，怎么就被雷内尔买了下来......
+[name="社区居民"]这么美的诗，这么珍贵的手稿，怎么就被雷内尔买了下来……
 [name="社区居民"]我甚至为了这首诗专门学了米诺斯语！我现在就背给你们听——
 [charslot(slot = "m", name = "avg_npc_498_1#1$1")]
 [name="社区画家"]打住，你背了我也听不懂。
 [charslot(slot = "m", name = "avg_npc_033")]
-[name="社区居民"]呜......
+[name="社区居民"]呜……
 [charslot(slot = "m", name = "avg_npc_498_1#1$1")]
 [name="社区画家"]唉，你怎么就哭起来了？
 [charslot(slot = "m", name = "avg_npc_033")]
-[name="社区居民"]一想到那个诗人的坎坷命运，再想想这份手稿，再想想我自己，我、我......
+[name="社区居民"]一想到那个诗人的坎坷命运，再想想这份手稿，再想想我自己，我、我……
 [name="社区居民"]所以我要去，就算看到手稿的同时炸弹爆炸也值了，我必须去！！
 [dialog]
 [charslot(slot = "m", name = "avg_4123_ela_1#1$1")]
@@ -364,7 +364,7 @@
 [name="艾拉"]我们是这方面的专业人士，龙舌兰先生。
 [charslot(slot = "l", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_486_espumo_1#2", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
-[name="龙舌兰"]......
+[name="龙舌兰"]……
 [charslot(slot = "r", name = "avg_4123_ela_1#1$1")]
 [name="艾拉"]空爆说你被困在艺术馆东侧三楼的一间暗室里，里面全是源石爆炸物。楼下闹哄哄的，应该关了不少人，对吗？
 [charslot(slot = "l", focus="n")]
@@ -374,7 +374,7 @@
 [name="艾拉"]里面有没有上尉的人？他们发现炸弹了吗？
 [charslot(slot = "l", focus="n")]
 [CharacterCutin(widgetID="1", name="avg_486_espumo_1#3", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
-[name="龙舌兰"]人应该有，但太嘈杂，我听不清......等等——
+[name="龙舌兰"]人应该有，但太嘈杂，我听不清……等等——
 [dialog]
 [PlaySound(key="$transmission", volume=1)]
 [CharacterCutin(widgetID="1", name="char_empty", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=-300, width=200, block=true)]
@@ -397,9 +397,9 @@
 [charslot]
 [Delay(time=1)]
 [name="空爆"]（小声）我说，这么小的东西，真的能炸到里面那些人吗？
-[name="空爆"]（小声）艺术馆的玻璃幕墙也就算了，这栋仓库楼可是被马特奥当作在艺术馆外围的指挥节点的，墙体说不定也加固过了......
+[name="空爆"]（小声）艺术馆的玻璃幕墙也就算了，这栋仓库楼可是被马特奥当作在艺术馆外围的指挥节点的，墙体说不定也加固过了……
 [name="导火索"]（小声）当然能。
-[name="空爆"]（小声）可......就算你正用绳索挂在二楼外面，也是在墙外啊......不是应该砸破窗户，把这东西丢进去吗？
+[name="空爆"]（小声）可……就算你正用绳索挂在二楼外面，也是在墙外啊……不是应该砸破窗户，把这东西丢进去吗？
 [dialog]
 [PlaySound(key="$d_avg_fastener", volume=1)]
 [Delay(time=0.5)]
@@ -415,7 +415,7 @@
 [delay(time=0.5)]
 [PlaySound(key="$grenade_launcher_shot", volume=0.15,channel="5")]
 [delay(time=0.5)]
-[name="掩体背后的声音"]好像是......咚、咚、咚？
+[name="掩体背后的声音"]好像是……咚、咚、咚？
 [name="掩体背后的声音"]明明是五声咚吧。
 [name="掩体背后的声音"]三声。
 [name="掩体背后的声音"]管他是三声还是五声，反正我们可以守着这些掩体直到我们老死，那些家伙只能在广场上傻站着——
@@ -463,7 +463,7 @@
 [PlaySound(key="$transmission", volume=1)]
 [Delay(time=1.5)]
 [name="导火索"]空爆，我们也该动起来了。
-[name="空爆"]那些人......不是应该已经被爆炸放倒了吗？
+[name="空爆"]那些人……不是应该已经被爆炸放倒了吗？
 [name="导火索"]永远别把你的敌人当傻瓜，就算他们真的是傻瓜也不行。
 [dialog]
 [PlaySound(key="$d_avg_hgateburst", volume=1)]
@@ -472,7 +472,7 @@
 [PlaySound(key="$d_avg_warfireamb_loop", volume=1, loop=true, channel="w")]
 [Delay(time=2)]
 [name="远处的军人们"]敌袭，敌袭！
-[name="空爆"]你......难道是什么天才？
+[name="空爆"]你……难道是什么天才？
 [name="导火索"]哪有什么天才。我有的不过是训练，侦察，队友间的配合，再加一点点技术。
 [name="导火索"]就这么简单。
 [dialog]

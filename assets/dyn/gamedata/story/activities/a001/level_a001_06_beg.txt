@@ -6,7 +6,7 @@
 [Delay(time=1)]
 [name="大鲍勃"]   几年之前，我们成了感染者。
 [name="大鲍勃"]   我们躲躲藏藏，平稳的生活一夜之间就变成了奢侈。
-[name="大鲍勃"]   原本，我们以为整合运动能使我们的生活有所改观，可......
+[name="大鲍勃"]   原本，我们以为整合运动能使我们的生活有所改观，可……
 [name="大鲍勃"]   仍旧没有一家店肯卖给我们面包，没有任何地方能容纳我们落脚。
 [name="大鲍勃"]   所以我和兄弟们离开了那里，四处流浪，直到听说了宝藏的消息，来到了这里。
 [name="大鲍勃"]   只要这次，只要我们能夺下这份宝藏——
@@ -24,7 +24,7 @@
 [CameraShake(duration=0.6, xstrength=5, ystrength=8, vibrato=30, randomness=90, block=true)]
 [name="整合运动"]   呜啊！
 [Character(name="avg_npc_010#2")]
-[name="大鲍勃"]   ......
+[name="大鲍勃"]   ……
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
@@ -39,7 +39,7 @@
 [Blocker(a=0, r=0, g=0, b=0, block=true)]
 [Image(image="ac1_6",x=-100, y=0, xScale=1.2, yScale=1.2, fadetime=1,screenadapt="coverall")]
 [ImageTween(xFrom=-100, yFrom=0, xTo=0, yTo=0, xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1.2, yScaleTo=1.2, duration=40, block=false)]
-[name="大鲍勃"]   如果一定要和你为敌，斯卡蒂......今天我们会死战到底。
+[name="大鲍勃"]   如果一定要和你为敌，斯卡蒂……今天我们会死战到底。
 [name="斯卡蒂"]   所以这种人就是格拉尼你找来的同伴？
 [Character(name="avg_npc_010#2",name2="char_220_grani#5",focus=2)]
 [name="格拉尼"]   你们拿了宝藏，那滴水村怎么办？
@@ -48,7 +48,7 @@
 [name="大鲍勃"]   虽然我认识你没多久，但我知道你是什么样的人。
 [name="大鲍勃"]   你跟你身边那个怪物不一样，你没把我们感染者当成外人。
 [Character]
-[name="格拉尼"]   (我觉得斯卡蒂也只是一视同仁地把我们全都干掉而已，她大概也没把谁当成外人吧......)
+[name="格拉尼"]   (我觉得斯卡蒂也只是一视同仁地把我们全都干掉而已，她大概也没把谁当成外人吧……)
 [Character(name="avg_npc_010#2",name2="char_220_grani#5",focus=1)]
 [name="大鲍勃"]   格拉尼，告诉我可萝尔在哪里！
 [name="大鲍勃"]   你知道这些宝藏对我们意味着什么！
@@ -69,7 +69,7 @@
 [Character(name="char_263_skadi#2")]
 [Delay(time=0.5)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=30, fadeout=true, block=true)]
-[name="斯卡蒂"]   我真的受够了......格拉尼，可萝尔在哪？
+[name="斯卡蒂"]   我真的受够了……格拉尼，可萝尔在哪？
 [Character(name="avg_npc_010#2",name2="char_220_grani#5",focus=2)]
 [name="格拉尼"]   可萝尔只是想保护这个村子。她其实也不在乎宝藏。
 [Character(name="avg_npc_010#2",name2="char_220_grani#5",focus=1)]
@@ -126,7 +126,7 @@
 [name="可萝尔"]   欸？！
 [Dialog]
 [Character(name="char_263_skadi#2")]
-[name="斯卡蒂"]   ......啧！
+[name="斯卡蒂"]   ……啧！
 [Dialog]
 [Character(name="avg_npc_010#2")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=30, fadeout=true, block=true)]
@@ -139,8 +139,8 @@
 [Dialog]
 [Blocker(a=0.3, r=0.95, g=0.95, b=0.95, fadetime=2)]
 [Character(name="avg_npc_010#2")]
-[name="大鲍勃"]   哈......哈......
-[name="大鲍勃"]   我们......早就没有回头路了!
+[name="大鲍勃"]   哈……哈……
+[name="大鲍勃"]   我们……早就没有回头路了!
 [Character(name="char_220_grani#5")]
 [name="格拉尼"]   诶？可萝尔！
 [PlayMusic(intro="$indust_intro", key="$indust_loop", volume=0.6, crossfade=1.5)]
@@ -161,7 +161,7 @@
 [name="格拉尼"]   斯卡蒂。
 [name="格拉尼"]   你不关心宝藏。而且，你也不想伤害可萝尔小姐。
 [Character(name="char_263_skadi#2",name2="char_220_grani#3",focus=1)]
-[name="斯卡蒂"]   ......
+[name="斯卡蒂"]   ……
 [Character(name="char_263_skadi#2",name2="char_220_grani#3",focus=2)]
 [name="格拉尼"]   否则，在爆炸的那一瞬间，你就会出手掳走她并抢走宝藏，而不是保护她了吧。
 [Character(name="char_263_skadi#2",name2="char_220_grani#3",focus=1)]
@@ -170,7 +170,7 @@
 [name="格拉尼"]   早说出来不就好了！
 [name="格拉尼"]   实话说，强装坏人也很累吧？坦率一点也好嘛。
 [Character(name="char_263_skadi#2",name2="char_220_grani#3",focus=1)]
-[name="斯卡蒂"]   我不想让其他人卷进我的......任务里。
+[name="斯卡蒂"]   我不想让其他人卷进我的……任务里。
 [name="斯卡蒂"]   但这次的任务目标对我而言，真的很重要。
 [Character(name="char_263_skadi#2",name2="char_220_grani#3",focus=2)]
 [name="格拉尼"]   那当然，我知道。虽然我们任务不同，但方向是一致的不是吗？

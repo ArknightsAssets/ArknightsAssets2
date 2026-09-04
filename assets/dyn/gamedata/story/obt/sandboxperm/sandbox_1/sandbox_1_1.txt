@@ -49,9 +49,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [delay(time=1.5)]
 [charslot]
-[name="光影中的声音"]......你......来了。
+[name="光影中的声音"]……你……来了。
 [Dialog]
-[name="佩佩"]吾主......
+[name="佩佩"]吾主……
 [name="佩佩"]请您饶恕我对此清净之地的冒犯。
 [charslot]
 [name="光影中的声音"]你遵守约定，来到此地寻找我。
@@ -74,7 +74,7 @@
 [name="佩佩"]抱歉，旅人，此次与你们结伴的旅程结束了，很高兴能认识你们。如果有机会，希望能够再与你们同行。
 [dialog]
 [charslot(slot="m",name="avg_npc_1200_1#1$1",focus="r")]
-[Decision(options="那份笔记......", values="1")]
+[Decision(options="那份笔记……", values="1")]
 [Predicate(references="1")]
 [Decision(options="你是故意留在神庙里的？", values="1")]
 [Predicate(references="1")]

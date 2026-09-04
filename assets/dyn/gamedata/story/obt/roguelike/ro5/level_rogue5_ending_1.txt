@@ -98,19 +98,19 @@
 [Dialog]
 [Delay(time=1)]
 [name="易"]梁，接下来由你来招呼这几位客人吧。
-[name="梁"]好嘞......
+[name="梁"]好嘞……
 [Dialog]
 [Image(image="pic_rogue_5_47_1",screenadapt="coverall",fadetime=1.5,block=true)]
 [Delay(time=1)]
 [name="梁"]那我就先在此恭贺各位行仪完满了。
-[name="左乐"]这就......结束了？你们明明没有使出——
+[name="左乐"]这就……结束了？你们明明没有使出——
 [name="梁"]那是当然，左秉烛。这是行仪，而非生死较量。
 [name="梁"]从这里往下看，你们应当看得清楚。
 [name="梁"]四方天师都在收阵，游园开放处的伥怪们全数退避回景物中，园内掌灯与引烛的师傅们已经开始善后了。
 [name="梁"]今年这一场为大炎而设的仪式，到此便已落幕。
-[name="左乐"]......
+[name="左乐"]……
 [name="云青萍"]左乐兄难道还期待在这里拾一把上古神器，而后踏云登天，在半空中与巨兽晦影决一死战？
-[name="左乐"]这倒......也没有......
+[name="左乐"]这倒……也没有……
 [name="左乐"]我本以为那山祠内才应当是最后行仪的场所。
 [name="梁"]历来行仪，最后都是在此处，有祠堂做见证，显得正式些，百灶的官人们也好安心。
 [name="梁"]等你们收完印信，便可下山交差了。
@@ -119,7 +119,7 @@
 [name="云青萍"]我只是个临时秉烛人，两位决定吧。
 [name="左乐"]这里论辈分和官职都是“麟少卿”最大，由她领受最好。
 [name="梁"]领受这信物用不着三辞三让，麟天师，就由你收下吧。
-[name="麟青砚"]......好。
+[name="麟青砚"]……好。
 梁将易的玉尺恭敬地递送给眼前的天师，待麟青砚以对等的礼仪接过后，便缓缓飘回了易身边。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -134,14 +134,14 @@
 [charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
 [name="麟青砚"]这一遭多有得罪，还望梁先生与易工部海涵。
 [charslot(slot="m",name="avg_npc_1869_1#4$1",focus="m")]
-[multiline(name="易")]易工部......？
+[multiline(name="易")]易工部……？
 [charslot(slot="m",name="avg_npc_1869_1#1$1",focus="m")]
-[multiline(name="易")]哈哈哈......倒是少有人这样称呼我。
+[multiline(name="易")]哈哈哈……倒是少有人这样称呼我。
 [name="易"]工部的差事都是梁负责的，我也没出什么力。
 [charslot(slot="m",name="avg_1043_leizi2_1#14$1",focus="m")]
 [name="麟青砚"]临下山前，晚辈还有一问，不知易先生可否作答。
 [charslot(slot="m",name="avg_npc_1869_1#11$1",focus="m")]
-[name="易"]如果是园子由来、我还有几把尺子、是不是每年都要给朝廷送这些尺子，或者工部找我做什么差事一类的还是算了吧......
+[name="易"]如果是园子由来、我还有几把尺子、是不是每年都要给朝廷送这些尺子，或者工部找我做什么差事一类的还是算了吧……
 [charslot(slot="m",name="avg_4121_zuole_1#7$1",focus="m")]
 [name="左乐"]（失落）
 [charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
@@ -164,7 +164,7 @@
 [name="易"]可现在呢，界园一点点向外开放，此处的行仪一年比一年轻松。
 [name="易"]或许有一天，即便是常人，也能来你我站立的这处山巅，观览百灶全景吧。
 [charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
-[name="麟青砚"]......晚辈受教。
+[name="麟青砚"]……晚辈受教。
 [charslot(slot="m",name="avg_npc_1869_1#1$1",focus="m")]
 [name="易"]需要梁送你们下山吗？
 [charslot(slot="m",name="avg_1043_leizi2_1#1$1",focus="m")]
@@ -180,7 +180,7 @@
 [charslot(slot="m",name="avg_npc_1869_1#10$1",focus="m")]
 [name="易"]不知道麟天师可否割爱呢，我想我的剑谱收藏里，正缺这一把神兵——
 [charslot(slot="m",name="avg_1043_leizi2_1#12$1",focus="m")]
-[name="麟青砚"]......晚辈告辞！
+[name="麟青砚"]……晚辈告辞！
 [Dialog]
 [PlaySound(key="$d_avg_footstep_stonestep",volume=0.6,channel="step",loop=false)]
 [stopsound(channel="step",fadetime=3)]
@@ -199,7 +199,7 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1869_1#4$1",focus="m")]
 [name="易"]哎，等等，价钱可以再谈谈啊——
-[name="易"]我真的可以开个好筹码，听听再走也无妨嘛......
+[name="易"]我真的可以开个好筹码，听听再走也无妨嘛……
 [charslot(slot = "m", name = "avg_npc_1870_1#1$1",focus="m")]
 [name="梁"]左秉烛那把也是左家的传承，你怎么不要。
 [charslot(slot="m",name="avg_npc_1869_1#2$1",focus="m")]
@@ -218,8 +218,8 @@
 [charslot(duration=1)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1869_1#8$1",focus="m")]
-[name="易"]......
-[name="易"]那我也走了......
+[name="易"]……
+[name="易"]那我也走了……
 [Dialog]
 [charslot]
 易的目光稍有迷茫，无法喊出口的名字最终化成了一声“姐姐”。

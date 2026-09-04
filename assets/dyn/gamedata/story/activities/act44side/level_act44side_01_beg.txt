@@ -10,7 +10,7 @@
 [dialog]
 [PlaySound(key="$dooropenquite", volume=1)]
 [Delay(time=1.5)]
-[name="星熊"]......
+[name="星熊"]……
 [name="刑警"]已经半夜了，你从下午进入御机就在躲我们的人，一口吃的也没混到，肯定饿了吧。
 [name="星熊"]（点头）
 [name="刑警"]那先吃饭吧。东国的炸肉排饭。
@@ -30,7 +30,7 @@
 [name="星熊"]（闷头扒饭）
 [name="刑警"]看你这副样子，到底有多长时间没吃过家乡菜了？
 [name="星熊"]（往嘴里塞肉排）
-[name="刑警"]......算了，你先吃。
+[name="刑警"]……算了，你先吃。
 [PlaySound(key="$d_avg_humaneat", volume=1)]
 [name="星熊"]（咯吱咯吱地嚼卷心菜）
 [PlaySound(key="$d_avg_drinkswllw", volume=1)] 
@@ -62,7 +62,7 @@
 [charslot(slot = "right", name = "avg_npc_1898_1#1$1",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]......刑警先生。
+[name="星熊"]……刑警先生。
 [charslot(slot = "right", name = "avg_npc_1898_1#1$1",focus="r")]
 [name="刑警"]我姓惟任。
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
@@ -89,7 +89,7 @@
 [charslot(slot = "left", name = "avg_136_hsguma_1#11$1",focus="l")]
 [name="星熊"]警察最懂警察。
 [charslot(slot = "right", name = "avg_npc_1898_1#1$1",focus="r")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [stopmusic(fadetime=2)]
 [playsound(key="$d_avg_paper2")]
 [Dialog]
@@ -152,17 +152,17 @@
 [charslot(slot = "right", name = "avg_npc_1645_1#4$1",focus="r")]
 [name="文月"]也是。那还有什么事能让星熊督察烦心？
 [charslot(slot = "left", name = "avg_136_hsguma_1#9$1",focus="l")]
-[name="星熊"]......难道都写在我脸上了？
+[name="星熊"]……难道都写在我脸上了？
 [charslot(slot = "right", name = "avg_npc_1645_1#4$1",focus="r")]
 [name="文月"]倒也没有。
 [name="文月"]不过，若是反反复复将油门踩到底，心情却总也无法平复，那就不该一个人憋着。
 [name="文月"]偏偏小陈和诗怀雅都不在，只好由我这个同乡来越俎代庖了。
 [charslot(slot = "left", name = "avg_136_hsguma_1#5$1",focus="l")]
-[name="星熊"]同乡......是吗？
+[name="星熊"]同乡……是吗？
 [charslot(slot = "right", name = "avg_npc_1645_1#4$1",focus="r")]
 [name="文月"]没错，同乡。
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]真是瞒不过夫人。我最近收到了一封信......
+[name="星熊"]真是瞒不过夫人。我最近收到了一封信……
 [Dialog]
 [PlaySound(key="$d_avg_paper1", volume=1)]
 [charslot(duration=1)]
@@ -193,12 +193,12 @@
 [charslot(slot = "right", name = "avg_npc_1645_1#1$1",focus="r")]
 [name="文月"]既然如此，在锻冶町“即将不存”的时候回去一趟，难道不是应有之义？
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]......实话说，当年我来龙门时，想过在这里长居，想过混不下去之后去其他地方，甚至像离开东国一样离开大炎，唯独没想过回去。
+[name="星熊"]……实话说，当年我来龙门时，想过在这里长居，想过混不下去之后去其他地方，甚至像离开东国一样离开大炎，唯独没想过回去。
 [name="星熊"]二十年过去，我都不知道御机现在成了什么样子，比起回去，不如来这里骑车，完事再去街边吃一碟炒粉来得安心。
 [charslot(slot = "right", name = "avg_npc_1645_1#4$1",focus="r")]
 [name="文月"]理由不是已经来了吗？一场葬礼，正好回家看看。
 [charslot(slot = "left", name = "avg_136_hsguma_1#5$1",focus="l")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "right", name = "avg_npc_1645_1#1$1",focus="r")]
 [name="文月"]你自愿成为龙门最坚固的盾，为此奋不顾身，彦吾、我、林，还有你那些朋友们，我们都看在眼里。
 [name="文月"]但你本不应局限于此。
@@ -212,7 +212,7 @@
 [charslot(slot = "right", name = "avg_npc_1645_1#1$1",focus="r")]
 [name="文月"]哪怕你压抑着的那些东西已经永远不能解决，就算只是回去看看，去和尚在人世的人聊一聊，总归也是好的。
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]......是。
+[name="星熊"]……是。
 [charslot(slot = "right", name = "avg_npc_1645_1#4$1",focus="r")]
 [name="文月"]还有，回来时记得给我带几包东国的甜酱油煎饼。
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
@@ -247,7 +247,7 @@
 [charslot(slot = "left", name = "avg_136_hsguma_1#12$1",focus="l")]
 [name="星熊"]我当然敢。
 [charslot(slot = "right", name = "avg_npc_1898_1#7$1",focus="r")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [charslot(slot = "right", name = "avg_npc_1898_1#2$1",focus="r")]
 [name="惟任刑警"]既然不重要，那你就在这里待满二十四小时再走。
 [name="惟任刑警"]反正警局现在也清闲，每天打来的报警电话没几个是真有事。
@@ -256,7 +256,7 @@
 [charslot(slot = "right", name = "avg_npc_1898_1#1$1",focus="r")]
 [name="惟任刑警"]报告自己发现了怪谈的线索，让我们去查个究竟。
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]......怪谈？
+[name="星熊"]……怪谈？
 [charslot(slot = "right", name = "avg_npc_1898_1#1$1",focus="r")]
 [name="惟任刑警"]哈，看来你倒是真有许多年没回过御机了。
 [name="惟任刑警"]警察局现在根本没个警察局的样子，那些无聊人士早就把我们当成了灵务局——
@@ -272,7 +272,7 @@
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1915_1#1$1",duration=1)]
 [delay(time=1.5)]
-[name="值班警察"]外面有人找，是......三船先生。
+[name="值班警察"]外面有人找，是……三船先生。
 [charslot]
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1898_1#2$1",focus="r")]
@@ -286,7 +286,7 @@
 [name="惟任刑警"]你拖得住他？你还没跟他说三句话，他就会给别人打电话，然后电话就会打到我们这儿。
 [charslot]
 [charslot(slot="m",name="avg_npc_1915_1#1$1")]
-[name="值班警察"]......
+[name="值班警察"]……
 [charslot]
 [charslot(slot = "left", name = "avg_136_hsguma_1#2$1",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1898_1#2$1",focus="r")]
@@ -310,7 +310,7 @@
 [charslot(slot="m",name="avg_npc_1896_1#1$1")]
 [name="三船"]不如你也来叫一声如何，惟任刑警？
 [charslot(slot="m",name="avg_npc_1898_1#2$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [charslot(slot="m",name="avg_npc_1896_1#1$1")]
 [name="三船"]对的，识时务是好事。
 [charslot(slot="m",name="avg_136_hsguma_1#2$1")]
@@ -334,11 +334,11 @@
 [charslot(slot="m",name="avg_npc_1915_1#1$1")]
 [name="值班警察"]惟任先生！
 [charslot(slot="m",name="avg_npc_1898_1#1$1")]
-[name="惟任刑警"]......放他们走。
+[name="惟任刑警"]……放他们走。
 [charslot]
 [charslot(slot="l",name="avg_136_hsguma_1#2$1",focus="l")]
 [charslot(slot="r",name="avg_npc_1896_1#6$1",focus="l")]
-[name="星熊"]......金兵卫，铁斋叔派你来接我？
+[name="星熊"]……金兵卫，铁斋叔派你来接我？
 [charslot(slot="r",name="avg_npc_1896_1#1$1",focus="r")]
 [name="三船"]整个金石会都等着你回来呢。走吧，别和这帮子警察纠缠了。
 [dialog]
@@ -385,7 +385,7 @@
 [name="三船"]二十年来，金石会可曾发出过任何将你“破门”或者“绝缘”的通告？从来没有。
 [name="三船"]别的不说，直到现在，开大会的时候，老爷子左手边位置一直都是空着的。你一直是整个金石会的若头。接班人。
 [charslot(slot="l",name="avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]那你......？
+[name="星熊"]那你……？
 [charslot(slot="r",name="avg_npc_1896_1#9$1",focus="r")]
 [name="三船"]若头补佐而已。
 [name="三船"]千万别觉得老爷子糊涂。他这么做，所有人都是服气的。
@@ -394,7 +394,7 @@
 [name="三船"]在那之后，你又把我们这些人摘了出去，自己一个人担负了杀人的重责，远遁龙门，才让金石会得以存续。
 [name="三船"]你为我们做出了这么大的牺牲，我们要是一转头就把你抛弃掉，那我们还算人吗？
 [charslot(slot="l",name="avg_136_hsguma_1#2$1",focus="l")]
-[name="星熊"]......别这么说。
+[name="星熊"]……别这么说。
 [charslot(slot="r",name="avg_npc_1896_1#1$1",focus="r")]
 [name="三船"]这都是清清楚楚的事实，我怎么能不这么说？
 [charslot(slot="l",name="avg_136_hsguma_1#2$1",focus="l")]
@@ -403,7 +403,7 @@
 [charslot(slot="r",name="avg_npc_1896_1#5$1",focus="r")]
 [name="三船"]葬礼？！
 [charslot(slot="r",name="avg_npc_1896_1#4$1",focus="r")]
-[name="三船"]葬礼......不，那怎么会是一场葬礼呢？
+[name="三船"]葬礼……不，那怎么会是一场葬礼呢？
 [charslot(slot="r",name="avg_npc_1896_1#6$1",focus="r")]
 [name="三船"]鬼姐，这下我们真没时间在街上东游西逛了。我们赶紧回锻冶町，赶紧找到他，把事情讲清楚。
 [charslot(duration=0.5)]

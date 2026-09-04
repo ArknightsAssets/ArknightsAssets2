@@ -3,16 +3,16 @@
 [PlayMusic(intro="$mist_loop", key="$mist_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Delay(time=1)]
 [Character(name="char_002_amiya_1", name2="char_010_chen_1", focus=1)]
-[name="阿米娅"]   事已至此......我们已经没有别的选择。如果陈长官拒绝——
+[name="阿米娅"]   事已至此……我们已经没有别的选择。如果陈长官拒绝——
 [name="阿米娅"]   那么罗德岛就会单方面出动。
 [name="阿米娅"]   况且这一行为，并不破坏罗德岛与龙门之间的协约。
 [Character(name="char_002_amiya_1", name2="char_010_chen_1", focus=2)]
 [name="陈"]   近卫局当然会去。
 [Character(name="char_002_amiya_1", name2="char_010_chen_1", focus=1)]
-[name="阿米娅"]   ......是，是吗......
-[name="阿米娅"]   ......
+[name="阿米娅"]   ……是，是吗……
+[name="阿米娅"]   ……
 [name="阿米娅"]   那我代表罗德岛感谢陈长官——
-[name="阿米娅"]   我知道，感染者对于龙门而言......
+[name="阿米娅"]   我知道，感染者对于龙门而言……
 [Character(name="char_002_amiya_1", name2="char_010_chen_1", focus=2)]
 [name="陈"]   这是小事。
 [name="陈"]   只不过，我对于近卫局各个小队是否能突入分城内部还有一定的疑虑。
@@ -20,8 +20,8 @@
 [name="陈"]   如果可能的话，我们一定会帮助你。
 [name="陈"]   但近卫局依然会以处理整合运动这一任务为最优先。
 [Character(name="char_002_amiya_1", name2="char_010_chen_1", focus=1)]
-[name="阿米娅"]   这样......这样就够了。
-[name="阿米娅"]   ......谢谢你，陈长官。
+[name="阿米娅"]   这样……这样就够了。
+[name="阿米娅"]   ……谢谢你，陈长官。
 [Character(name="char_002_amiya_1", name2="char_010_chen_1", focus=2)]
 [name="陈"]   抱歉，我有自己的使命。
 [name="陈"]   设备另一头的那个医生，听到了吗？
@@ -37,7 +37,7 @@
 [name="凯尔希"]   只不过陨星他们所在的地方，我们无法深入，无能为力。
 [name="凯尔希"]   这要靠你了。
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]   只有陨星她们吗......
+[name="阿米娅"]   只有陨星她们吗……
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   我明白了。我会去找她们的。
 [Character(name="char_002_amiya_1", focus=-1)]
@@ -63,7 +63,7 @@
 [name="阿米娅"]   好的。
 [Background(fadetime=1, block=true)]
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]   你们一定要平安无事......
+[name="阿米娅"]   你们一定要平安无事……
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]

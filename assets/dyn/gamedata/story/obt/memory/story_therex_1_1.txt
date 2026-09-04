@@ -18,7 +18,7 @@
 [dialog]
 [Character(name="char_007_closre_1",fadetime=1,block=true)]
 [Delay(time=1)]
-[name="可露希尔"]  嗯，嗯......没什么问题。
+[name="可露希尔"]  嗯，嗯……没什么问题。
 [name="可露希尔"]  嗯？这里有一点小波动。
 [name="可露希尔"]  ——凌晨两点到早上六点，每一天晚上都有相似的异常？这个区域是宿舍区吧？
 [Character(name="char_007_closre_1", name2="avg_npc_088", focus=2)]
@@ -29,7 +29,7 @@
 [name="可露希尔"]  啊嚏——呃，说起来，办公室是不是有点冷？
 [Character(name="char_007_closre_1#6", name2="avg_npc_088", focus=2)]
 [name="工程干员"]  是有一点。
-[name="工程干员"]  应该说这段时间一直都有点冷......室内温度是不是该再调高点？
+[name="工程干员"]  应该说这段时间一直都有点冷……室内温度是不是该再调高点？
 [Character(name="char_007_closre_1", name2="avg_npc_088", focus=1)]
 [name="可露希尔"]  忍忍吧，节能比较重要！
 [name="可露希尔"]  说正经的，这些异常，看来应该又是哪个小坏蛋偷偷使用违规电器吧。
@@ -40,13 +40,13 @@
 [Character(name="char_007_closre_1", name2="avg_npc_088", focus=2)]
 [name="工程干员"]  要我去把Thermal-EX叫来吗？
 [Character(name="char_007_closre_1", name2="avg_npc_088", focus=1)]
-[name="可露希尔"]  先看看他在哪里。干员日志......找到啦。
+[name="可露希尔"]  先看看他在哪里。干员日志……找到啦。
 [Character(name="char_007_closre_1#6", name2="avg_npc_088", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="可露希尔"]  啊，Thermal-EX现在正在叙拉古出外勤？同行人里面有——博士？！
-[name="可露希尔"]  呃，这倒是，没想到......
+[name="可露希尔"]  呃，这倒是，没想到……
 [Character(name="char_007_closre_1", name2="avg_npc_088", focus=1)]
-[name="可露希尔"]  唔......
+[name="可露希尔"]  唔……
 [Character(name="char_007_closre_1#2", name2="avg_npc_088", focus=1)]
 [name="可露希尔"]  算啦，就算有问题，也肯定是小问题，应该还好吧？博士在的话，就算出问题也能搞定的啦。
 [name="可露希尔"]  等他们回来，再去找凯尔希问问情况好了。
@@ -72,7 +72,7 @@
 [name="Thermal-EX"]  嗷嗷！终于轮到我闪亮登场了吗？
 [Character(name="avg_npc_028", name2="char_376_therex_1", focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="医药公司代表"]  说、说话了？！我还以为这只是个长得有些吓人的机器......
+[name="医药公司代表"]  说、说话了？！我还以为这只是个长得有些吓人的机器……
 [Character(name="avg_npc_028", name2="char_376_therex_1", focus=2)]
 [name="Thermal-EX"]  诞生于雷神工业最新技术，经天才的可露希尔和伟大的梅尔携手改造，我是这个时代最完美的机——器——人！
 [name="Thermal-EX"]  这位先生，您的惊讶我非常理解。
@@ -81,7 +81,7 @@
 [Predicate(references="1")]
 [Character(name="char_376_therex_1")]
 [name="Thermal-EX"]  博士，您又在呼唤我吗？我知道您需要我，只要您一声令下，我什么都能为您做到。
-[Decision(options="我正要说。;......;我想让你继续保持沉默。", values="1;2;3")]
+[Decision(options="我正要说。;……;我想让你继续保持沉默。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_376_therex_1")]
 [name="Thermal-EX"]  了解了！Thermal-EX，即刻切断控制链接——
@@ -99,11 +99,11 @@
 [Decision(options="等Thermal-EX完成数据传输，这些资料就能交给你，代表先生。", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_028")]
-[name="医药公司代表"]  真是奇妙的机器......呃，机器人！罗德岛果然不同凡响，不仅仅在医药领域，连工程技术也如此杰出。
+[name="医药公司代表"]  真是奇妙的机器……呃，机器人！罗德岛果然不同凡响，不仅仅在医药领域，连工程技术也如此杰出。
 [Character(name="avg_npc_028", name2="char_376_therex_1", focus=2)]
 [name="Thermal-EX"]  谢谢！您的眼光同样不同凡响！这热烈的夸奖让我更有动力了！
 [Character(name="avg_npc_028", name2="char_376_therex_1", focus=1)]
-[name="医药公司代表"]  呵......呵呵......
+[name="医药公司代表"]  呵……呵呵……
 [dialog]
 [Decision(options="传输进度，百分之五十。", values="1")]
 [Predicate(references="1")]
@@ -112,7 +112,7 @@
 [name="斑点"]  终于快要解脱了吗？我居然有一点点怀念A6那几个家伙了。
 [name="斑点"]  至少他们还会正常说话，不至于像这几位临时队友，不是惜字如金，就是聒噪个不停。
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=1)]
-[name="守林人"]  ......
+[name="守林人"]  ……
 [Character(name="char_376_therex_1", name2="char_284_spot_1", focus=1)]
 [name="Thermal-EX"]  斑点先生，您昨天还靠在我身上烘干了被雨打湿的毛发，哪怕只有短短十分钟，与您拉近的距离依然让我燥热了起来！
 [Character(name="char_376_therex_1", name2="char_284_spot_1", focus=2)]
@@ -153,7 +153,7 @@
 [name="Thermal-EX"]  嗷我知道了！他们一定是看上了我——毕竟哪里还有我这样完美华丽、热量满满的机器人呢？
 [name="Thermal-EX"]  有我在的话，他们根本就不需要这些粗糙的爆破物品了！
 [Character(name="char_284_spot_1")]
-[name="斑点"]  ......有时候我真怀疑他是月见夜的亲兄弟。
+[name="斑点"]  ……有时候我真怀疑他是月见夜的亲兄弟。
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=1)]
 [name="守林人"]  他有可能是对的。
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=2)]
@@ -166,7 +166,7 @@
 [name="守林人"]  看来是交易信息泄露。
 [Character(name="char_158_milu", name2="avg_npc_012", focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="干员直尺"]  守林人小姐扫视着我们每一个人的眼神......有些可怕。
+[name="干员直尺"]  守林人小姐扫视着我们每一个人的眼神……有些可怕。
 [Character(name="char_158_milu", name2="avg_npc_012", focus=1)]
 [name="守林人"]  打我朋友主意的人都不可原谅。
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=2)]
@@ -200,17 +200,17 @@
 [Delay(time=1)]
 [name="守林人"]  全倒了。
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=2)]
-[name="斑点"]  还真是有效率......
+[name="斑点"]  还真是有效率……
 [Character(name="char_376_therex_1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="Thermal-EX"]  呃......呃......炙热......炙......热......
+[name="Thermal-EX"]  呃……呃……炙热……炙……热……
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=2)]
-[name="斑点"]  ......然而是个一波流。
+[name="斑点"]  ……然而是个一波流。
 [Character(name="avg_npc_012")]
 [name="干员直尺"]  Thermal-EX他还好吧？我有些听不懂他在说什么。
 [Character(name="char_376_therex_1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="Thermal-EX"]  炙......热......
+[name="Thermal-EX"]  炙……热……
 [Decision(options="这是短时间内输出能量强度过高引起的其余功能模块暂时失灵。;过几分钟就好，不必惊慌。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_158_milu")]
@@ -220,14 +220,14 @@
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=1)]
 [name="守林人"]  我一个人就可以。
 [Character(name="char_158_milu", name2="char_284_spot_1", focus=2)]
-[name="斑点"]  ......你看，甚至用不上复数词。
+[name="斑点"]  ……你看，甚至用不上复数词。
 [Character(name="avg_npc_012")]
-[name="干员直尺"]  各位，后面还有一条路可以出去......毕竟这办事处之前也是安全屋。
+[name="干员直尺"]  各位，后面还有一条路可以出去……毕竟这办事处之前也是安全屋。
 [Decision(options="斑点，你和直尺带代表先生从安全通道撤退。", values="1")]
 [Predicate(references="1")]
 [Character(name="char_376_therex_1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="Thermal-EX"]  热......
+[name="Thermal-EX"]  热……
 [Character(name="avg_npc_012")]
 [name="干员直尺"]  博士，你们呢？Thermal-EX看起来没法正常工作。
 [Decision(options="我们留在这里。", values="1")]
@@ -239,7 +239,7 @@
 [Decision(options="守林人，隐蔽自己，注意指令。", values="1")]
 [Predicate(references="1")]
 [Character(name="char_158_milu")]
-[name="守林人"]  ......好。
+[name="守林人"]  ……好。
 [dialog]
 [character]
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -252,7 +252,7 @@
 [name="黑帮A"]  咳，咳咳，这里面也太热了。爆破组那帮蠢货，又使劲过头了吧？
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="黑帮A"]  不许动——咦，就一个人？你一个，打趴下了五个？
-[Decision(options="他们自己绊倒了。;......;对，都是我打趴下的。", values="1;2;3")]
+[Decision(options="他们自己绊倒了。;……;对，都是我打趴下的。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [name="黑帮A"]  你，你，还有你，你们仨给我看住这个人！
 [name="黑帮A"]  其他人去搜下屋子。记住，我们要找的应该是几张软盘。
@@ -264,15 +264,15 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="黑帮A"]  *叙拉古粗口*什么？！被他带走了？
 [Character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
-[name="黑帮B"]  呃，这和说好的不一样啊......要不要去追？
+[name="黑帮B"]  呃，这和说好的不一样啊……要不要去追？
 [Character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
 [PlaySound(key="$fightgeneral", volume=0.4)] 
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="黑帮A"]  追？追你个头啊！我们要的是在这些人手上的配方！已经拿到的话......算了算了！
+[name="黑帮A"]  追？追你个头啊！我们要的是在这些人手上的配方！已经拿到的话……算了算了！
 [name="黑帮A"]  这一趟总得拿点什么回去。配方没了，找找药什么的。都动作快点！
 [Character(name="char_376_therex_1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="Thermal-EX"]  炙......热......
+[name="Thermal-EX"]  炙……热……
 [Character(name="char_376_therex_1", name2="avg_npc_031", focus=2)]
 [name="黑帮A"]  咦，这是什么玩意儿？那一闪一闪的，是源石制品吗？
 [Decision(options="是万能药品制造机。", values="1")]
@@ -283,7 +283,7 @@
 [Predicate(references="1")]
 [name="黑帮A"]  看你赤手空拳又文文弱弱，应该也耍不出什么花招。
 [delay(time=0.4)]
-[name="黑帮A"]  ......倒让我看看这到底是个什么东西。
+[name="黑帮A"]  ……倒让我看看这到底是个什么东西。
 [Decision(options="只需要一个指——", values="1")]
 [Predicate(references="1")]
 [Character(name="char_158_milu")]
@@ -311,7 +311,7 @@
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="可露希尔"]  哇，博士，那些故事都是真的吗？
 [name="可露希尔"]  你在叙拉古一拳打趴五个黑帮分子，又一句话震趴下另外十个，并且拿那些人作为谈判筹码，给我们谈了个超级优惠大订单？
-[Decision(options="打人的事都是Thermal-EX干的。;......;那家公司给我们设套，最后自作自受而已。", values="1;2;3")]
+[Decision(options="打人的事都是Thermal-EX干的。;……;那家公司给我们设套，最后自作自受而已。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_007_closre_1#4")]
 [name="可露希尔"]  你也不用谦虚啦，守林人他们在跟凯尔希汇报的时候，我都听到了哦。
@@ -345,12 +345,12 @@
 [name="Thermal-EX"]  晚上好，最天才的可露希尔小姐和最最闪亮的博士！
 [Character(name="char_007_closre_1#6", name2="char_376_therex_1", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="可露希尔"]  ......为什么我只有一个最啊？！
+[name="可露希尔"]  ……为什么我只有一个最啊？！
 [Character(name="char_007_closre_1#6", name2="char_376_therex_1", focus=2)]
 [name="Thermal-EX"]  伟大的梅尔小姐正在帮我检查身体，现在有了你们的加入，我感到自己更热了！
 [name="Thermal-EX"]  嗨，博士，你想再让我说一遍我们俩是如何在危急关头，通过完美的配合，打退那些试图染指我的叙拉古暴徒的故事吗？
 [Character(name="char_376_therex_1", name2="char_242_mayer", focus=2)]
-[name="梅尔"]  ......停，Thermal-EX。这故事我听了好几遍了，虽说我这几天都几乎没出过工作室的门。
+[name="梅尔"]  ……停，Thermal-EX。这故事我听了好几遍了，虽说我这几天都几乎没出过工作室的门。
 [Character(name="char_007_closre_1#5", name2="char_242_mayer", focus=1)]
 [name="可露希尔"]  帅气的传言可不是门禁可以挡得住的啊，就跟帅气的我一样。
 [Character(name="char_242_mayer#2")]
@@ -361,14 +361,14 @@
 [Character(name="char_007_closre_1#6", name2="char_242_mayer#2", focus=2)]
 [name="梅尔"]  ——打开Thermal-EX的能源模块面板。
 [Character(name="char_007_closre_1#6", name2="char_242_mayer#2", focus=1)]
-[name="可露希尔"]  早说不是冲我来的......
+[name="可露希尔"]  早说不是冲我来的……
 [Character(name="char_242_mayer#3")]
 [name="梅尔"]  储能装置没有问题欸。
 [Character(name="char_376_therex_1", name2="char_242_mayer#3", focus=1)]
 [name="Thermal-EX"]  伟大的梅尔小姐，您亲自设计的装置怎么可能会出现问题？我从来好得不得了！请看，充沛的热力正在我的体内激情四射地流淌！
 [Character(name="char_007_closre_1", name2="char_242_mayer#3", focus=1)]
 [name="可露希尔"]  那第二次攻击的提前是什么原因？
-[name="可露希尔"]  让我想想......难道是武器能量输出逻辑出错？
+[name="可露希尔"]  让我想想……难道是武器能量输出逻辑出错？
 [Character(name="char_007_closre_1", name2="char_242_mayer#3", focus=2)]
 [name="梅尔"]  你们来之前我就查过了，逻辑本身还是好的。
 [Character(name="char_007_closre_1#2", name2="char_242_mayer#3", focus=1)]
@@ -376,11 +376,11 @@
 [Character(name="char_007_closre_1#2", name2="char_242_mayer#2", focus=2)]
 [name="梅尔"]  唔，我不确定这是不是问题。你自己看。
 [Character(name="char_007_closre_1", name2="char_242_mayer#2", focus=2)]
-[name="可露希尔"]  效率......提升？虽然只有几个百分点，但Thermal-EX释放每次攻击的能量损耗都显著减少了吧？
+[name="可露希尔"]  效率……提升？虽然只有几个百分点，但Thermal-EX释放每次攻击的能量损耗都显著减少了吧？
 [Character(name="char_007_closre_1#5", name2="char_242_mayer#2", focus=1)]
 [name="可露希尔"]  这充满惊喜的迭代——梅尔，你真是我的好伙伴！
 [Character(name="char_007_closre_1#5", name2="char_242_mayer", focus=2)]
-[name="梅尔"]  先......先别这么激动啊。这优化不是我做的。我这段时间有多忙，你不是知道的吗？
+[name="梅尔"]  先……先别这么激动啊。这优化不是我做的。我这段时间有多忙，你不是知道的吗？
 [Character(name="char_007_closre_1#2", name2="char_242_mayer", focus=1)]
 [name="可露希尔"]  也对，上回拜托你考虑机械臂自动化逻辑的改进设计，你都说没法排期。
 [Character(name="char_007_closre_1#4", name2="char_376_therex_1", focus=1)]
@@ -389,7 +389,7 @@
 [name="Thermal-EX"]  这个问题很简单！与我关系最亲密的，除了可爱的可露希尔小姐和智慧的梅尔小姐，当然是无敌的博士！
 [Character(name="char_007_closre_1#2")]
 [name="可露希尔"]  博士，你现在开始对机械作业平台和人工智能感兴趣了吗？
-[Decision(options="我什么都没做。;......;我们只是相处时间久一点而已。", values="1;2;3")]
+[Decision(options="我什么都没做。;……;我们只是相处时间久一点而已。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_007_closre_1#2")]
 [name="可露希尔"]  我想也不会是你做的。
@@ -399,13 +399,13 @@
 [Character(name="char_007_closre_1#6", name2="char_376_therex_1", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="可露希尔"]  诶？！
-[name="可露希尔"]  更热一点点......
+[name="可露希尔"]  更热一点点……
 [Character(name="char_007_closre_1", name2="char_376_therex_1", focus=1)]
 [name="可露希尔"]  原来如此。之前一个月你都在干这个？
 [Character(name="char_007_closre_1", name2="char_376_therex_1", focus=2)]
 [name="Thermal-EX"]  我们罗德岛是一艘划时代的舰船！唯一美中不足的是，干员宿舍在夜间的温度还不够热！
 [Character(name="char_376_therex_1", name2="char_242_mayer#2", focus=2)]
-[name="梅尔"]  ......对某些干员来说，是有一点。赫默也跟我说过，有时候晚上睡觉会不自觉地想要变出羽毛。
+[name="梅尔"]  ……对某些干员来说，是有一点。赫默也跟我说过，有时候晚上睡觉会不自觉地想要变出羽毛。
 [Character(name="char_007_closre_1#2", name2="char_242_mayer#2", focus=1)]
 [name="可露希尔"]  哦？我的节能方案影响到大家的睡眠质量了吗？
 [delay(time=0.6)]
@@ -424,7 +424,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="梅尔"]  呜哇，我和可露希尔可没有给你设置暖炉功能的发热逻辑！
 [Character(name="char_007_closre_1#6", name2="char_242_mayer#3", focus=1)]
-[name="可露希尔"]  梅尔你这一下蹦起来差点没把我撞到墙上去......
+[name="可露希尔"]  梅尔你这一下蹦起来差点没把我撞到墙上去……
 [Character(name="char_007_closre_1#6", name2="char_242_mayer#3", focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="梅尔"]  可露希尔，你难道不激动吗？Thermal-EX他超越了我们为他设计的功能！
@@ -443,7 +443,7 @@
 [name="Thermal-EX"]  一点小小的挫折——包括险些将博士烤熟——并不会打击我的信心。经过一段时间的尝试，我还是找到了方法！
 [name="Thermal-EX"]  容我骄傲地说，只要能给博士和其他干员带来温暖，这点努力根本算不了什么。
 [Character(name="char_007_closre_1#6", name2="char_376_therex_1", focus=1)]
-[name="可露希尔"]  这是......机器人的自我进化？Lancet-2和Castle-3身上都没有发生过。
+[name="可露希尔"]  这是……机器人的自我进化？Lancet-2和Castle-3身上都没有发生过。
 [Decision(options="在叙拉古的时候也是类似情况吧？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_376_therex_1")]
@@ -488,7 +488,7 @@
 [Character(name="char_007_closre_1#4", name2="char_242_mayer#2", focus=1)]
 [name="可露希尔"]  说是设计，其实也就是设置了一些基础参数。之后他加工的每一部分信息、进行的每一项决策，早就不是我控制的啦。
 [Character(name="char_007_closre_1#4", name2="char_242_mayer#2", focus=2)]
-[name="梅尔"]  这么说的话......
+[name="梅尔"]  这么说的话……
 [Character(name="char_007_closre_1#5", name2="char_242_mayer#2", focus=1)]
 [name="可露希尔"]  让Thermal-EX突破极限的，不是我们俩身为设计者的意志，也不是技术，而是它自己。
 [Character(name="char_007_closre_1#5", name2="char_376_therex_1", focus=2)]

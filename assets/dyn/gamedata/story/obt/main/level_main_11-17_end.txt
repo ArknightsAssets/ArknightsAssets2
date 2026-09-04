@@ -32,17 +32,17 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
-可是为什么......
+可是为什么……
 为什么在砍向他们的异族的刀剑之后，藏匿着同胞的身影？
 战友们逐一倒下。
-最后只剩下他一个。他是......最后的蒸汽骑士。
+最后只剩下他一个。他是……最后的蒸汽骑士。
 他不能再倒下。他倒下了，蒸汽骑士就倒下了。
 维多利亚仍需要他，他必须履行自己的职责。
 没有医药，没关系，盔甲会填补他的血肉。
 没有食物，没关系，黑暗之中总有一些窸窸窣窣的小动物爬过。
 没有照明，没关系，那把剑能带给他唯一的光辉。
 他还没有死。蒸汽骑士没有死。他们依然在守护维多利亚。
-然而......
+然而……
 什么是维多利亚？
 我向国王宣誓，向人民许诺，向大地致敬。
 我坚守过无数漫长黑夜，却不知该往何处寻找一生效忠的属于维多利亚的光明。
@@ -89,7 +89,7 @@
 [Character(fadetime=0.5)]
 [Delay(time=1)]
 [character(name="avg_npc_407_1#6$2")]
-[name="推进之王"]你......你还听得到吗，骑士？
+[name="推进之王"]你……你还听得到吗，骑士？
 [name="推进之王"]我无权命令你。
 [name="推进之王"]我恳请你，恳请你让我们带走这把剑。
 [name="推进之王"]这与我的身份无关。
@@ -154,7 +154,7 @@
 [character(name="avg_npc_396_1#5$1")]
 [name="达格达"]他、他的动作变快了！
 [character(name="avg_npc_396_1#2$1")]
-[name="达格达"]我们抵挡不住......
+[name="达格达"]我们抵挡不住……
 [Dialog]
 [Character]
 [PlaySound(key="$e_imp_stmwpn_n", volume=1)]
@@ -175,7 +175,7 @@
 [stopmusic(fadetime=2)]
 [delay(time=2)]
 [character(name="avg_npc_397_1#7$1",fadetime=0.3)]
-[name="阿勒黛"] ......亚历山德莉娜殿下。
+[name="阿勒黛"] ……亚历山德莉娜殿下。
 [playMusic(intro="$dignified_intro",key="$dignified_loop", volume=0.4)]
 [name="阿勒黛"]你还记得那天，我们第一次相见的那天。
 [name="阿勒黛"]我们本该多聊聊的，你带着那把剑，出现在了公爵府中。
@@ -188,11 +188,11 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="阿勒黛"]那是一个......非常美丽的午后。
-[name="阿勒黛"]音乐萦绕在庭院，鲜花毫无顾忌地绽放，人们一边跳舞一边谈论明天，一切都饱含着希望......
+[name="阿勒黛"]那是一个……非常美丽的午后。
+[name="阿勒黛"]音乐萦绕在庭院，鲜花毫无顾忌地绽放，人们一边跳舞一边谈论明天，一切都饱含着希望……
 [name="阿勒黛"]那时，我还能毫无顾忌地夸口，自己一定能成为蒸汽骑士。
-[name="阿勒黛"]而光辉......洒在剑身上......也洒在你的身上。
-[name="阿勒黛"]他们都说......那个下午是一个奇迹。
+[name="阿勒黛"]而光辉……洒在剑身上……也洒在你的身上。
+[name="阿勒黛"]他们都说……那个下午是一个奇迹。
 她在奔跑。
 刚刚修剪过的草坪踩上去又刺又痒。园丁吉姆乐呵呵地站在灌木丛边上傻笑。艾尔希在背后追着她，提醒她慢一些慢一些。
 可她急着奔向那些新开的花。那可是金色的，在阳光下闪闪发光，就和坎伯兰的家徽一样。
@@ -259,13 +259,13 @@
 [character(name="avg_npc_407_1#6$2")]
 [name="推进之王"]怎么回事？
 [character(name="avg_npc_396_1#1$1")]
-[name="达格达"]这风......
+[name="达格达"]这风……
 [Character]
 狂风骤起，将她们卷向门外。
 [playsound(key="$smallearthquake")]
 [CameraShake(duration=-1, xstrength=15, ystrength=10, vibrato=10, randomness=90, fadeout=true, block=false)]
 推进之王看到一张威严的面孔砸在脚边。然后是下一张。四周的诸王石像正在逐一倒塌。
-碎石们挡在她的面前，也挡住了不远处的蒸汽骑士......和另一个人。
+碎石们挡在她的面前，也挡住了不远处的蒸汽骑士……和另一个人。
 推进之王立刻反应了过来。
 [CameraShake(duration=2, xstrength=20, ystrength=10, vibrato=10, randomness=90, fadeout=true, block=false)]
 [character(name="avg_npc_407_1#3$2")]
@@ -280,10 +280,10 @@
 [ImageTween(yTo=0, duration=3, block=false)]
 [Image(image="32_i13", y=0, xScale=1.2, yScale=1.2, fadetime=1)]
 [ImageTween(xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=0.85, yScaleTo=0.85, duration=20, block=false)]
-[name="阿勒黛"]原谅我......
+[name="阿勒黛"]原谅我……
 她的嘴唇动了动。
 推进之王知道阿勒黛在呼唤她。
-维娜......还是殿下？
+维娜……还是殿下？
 推进之王不知道。
 也许永远都不会知道了。
 那最后一个音节彻底淹没在了碎石堆中。
@@ -297,7 +297,7 @@
 [Background(image="bg_black",screenadapt="coverall",fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="阿勒黛"]让我面对你吧，我的梦魇......
+[name="阿勒黛"]让我面对你吧，我的梦魇……
 [name="阿勒黛"]我的希望。
 [Dialog]
 [Delay(time=1)]
@@ -333,13 +333,13 @@
 [PlaySound(key="$d_gen_walk_n")]
 [character(name="avg_npc_407_1#6$2",fadetime=1)]
 [delay(time=1)]
-[name="推进之王"]......就是你们吗？在阿勒黛身后的人？
+[name="推进之王"]……就是你们吗？在阿勒黛身后的人？
 [name="推进之王"]不，不是你们，懦弱的公爵可不敢亲自在这里露面。
 [Character]
 [name="？？？"]阿勒黛失败了，亚历山德莉娜获得了诸王之息。
 [name="？？？"]这件事终究还是无聊了起来。
 [character(name="avg_npc_407_1#6$2")]
-[name="推进之王"]......
+[name="推进之王"]……
 [name="推进之王"]好吧，你们也行。
 [name="推进之王"]你们必须——
 [StopMusic(fadetime=3)]
@@ -407,12 +407,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#1$1",focus=1)]
-[name="戈尔丁"]......结束了。
+[name="戈尔丁"]……结束了。
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#1$1",focus=2)]
 [name="茉莉"]太棒了，戈尔丁女士，演出非常成功。
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#1$1",focus=1)]
 [name="戈尔丁"]这是大家辛苦一年多的成果。
-[name="戈尔丁"]要是城内的局势不那么紧张，海蒂也能看到就好了......
+[name="戈尔丁"]要是城内的局势不那么紧张，海蒂也能看到就好了……
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#1$1",focus=2)]
 [name="茉莉"]就是因为这么紧张，这出戏才格外有意义嘛。
 [name="茉莉"]您看，孩子们多高兴——
@@ -428,7 +428,7 @@
 [name="天真的孩子"]别跑！
 [Character(name="avg_npc_240",name2="avg_npc_661_1#1$1",focus=1)]
 [name="顽皮的孩子"]哼，逃吧，逃吧，我会追着你，伟大的维多利亚会追着你！
-[name="顽皮的孩子"]踏过山谷，踏过河流，轰隆隆，轰隆隆......
+[name="顽皮的孩子"]踏过山谷，踏过河流，轰隆隆，轰隆隆……
 [name="顽皮的孩子"]碾碎它们！把血液从它们身体里挤出来！
 [name="顽皮的孩子"]该死，你们全都该死！我会追上你，杀死你！
 [Character(name="avg_npc_240",name2="avg_npc_661_1#1$1",focus=2)]
@@ -440,34 +440,34 @@
 [Character(name="avg_npc_240",name2="avg_npc_661_1#1$1",focus=1)]
 [name="顽皮的孩子"]不投降也没关系，因为我会追上你！
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#4$1",focus=2)]
-[name="茉莉"]快停下，戈尔丁女士亲手做的“蒸汽甲胄”都快被你弄坏了......
+[name="茉莉"]快停下，戈尔丁女士亲手做的“蒸汽甲胄”都快被你弄坏了……
 [Character(name="avg_npc_647_1#10$1",name2="avg_npc_657_1#4$1",focus=1)]
-[name="戈尔丁"]......
-[name="戈尔丁"]他们......
+[name="戈尔丁"]……
+[name="戈尔丁"]他们……
 [Character(name="avg_npc_647_1#10$1",name2="avg_npc_657_1#1$1",focus=2)]
 [name="茉莉"]戈尔丁女士，别生气。他们只是在做游戏。
 [Character(name="avg_npc_647_1#7$1",name2="avg_npc_657_1#1$1",focus=1)]
-[name="戈尔丁"]游戏......吗？
+[name="戈尔丁"]游戏……吗？
 [Character(name="avg_npc_647_1#7$1",name2="avg_npc_657_1#1$1",focus=2)]
 [name="茉莉"]是啊，女士，我们的舞台剧已经演完了。
 [Character(name="avg_npc_647_1#5$1",name2="avg_npc_657_1#1$1",focus=1)]
-[name="戈尔丁"]......“把血液从它们身体里挤出来”？
-[name="戈尔丁"]这是......萨卡兹......
+[name="戈尔丁"]……“把血液从它们身体里挤出来”？
+[name="戈尔丁"]这是……萨卡兹……
 [Character]
 填满了书店的血红色再度浮上眼前。
 这一次，她甚至没有力气干呕。
 [Character(name="avg_npc_647_1#5$1",name2="avg_npc_657_1#6$1",focus=2)]
 [name="茉莉"]这很正常，女士。
-[name="茉莉"]毕竟......我们正处在一场战争中。
+[name="茉莉"]毕竟……我们正处在一场战争中。
 [name="茉莉"]城里的萨卡兹最近总在到处抓人，手段还很残暴。孩子们可能看见了，就下意识地模仿了萨卡兹的行为。
 [Character(name="avg_npc_647_1#2$1",name2="avg_npc_657_1#6$1",focus=1)]
-[name="戈尔丁"]......
+[name="戈尔丁"]……
 [Character(name="avg_npc_647_1#1$1",name2="avg_npc_657_1#6$1",focus=1)]
 [name="戈尔丁"]茉莉，你知道吗？
 [Character(name="avg_npc_647_1#5$1",name2="avg_npc_657_1#6$1",focus=1)]
-[name="戈尔丁"]许多高卢遗民......都对蒸汽骑士心怀恐惧。
+[name="戈尔丁"]许多高卢遗民……都对蒸汽骑士心怀恐惧。
 [name="戈尔丁"]经历过那场战争的人，永远都不会忘掉那一夜突然出现在窗外的喷气声。
-[name="戈尔丁"]但是......我期盼着蒸汽骑士对孩子们而言，可以不仅是一件用以夺走他人性命的武器。
+[name="戈尔丁"]但是……我期盼着蒸汽骑士对孩子们而言，可以不仅是一件用以夺走他人性命的武器。
 [Character(name="avg_npc_647_1#7$1",name2="avg_npc_657_1#6$1",focus=1)]
 [name="戈尔丁"]我期盼着他们扮演蒸汽骑士这个角色的时候，能在他身上寄托一些美好的希望。
 [name="戈尔丁"]我曾以为这种对抗能赢。
@@ -475,20 +475,20 @@
 戈尔丁望着孩子们追逐打闹的身影。
 泡沫制作而成的蒸汽骑士的甲胄掉落到了地上。她想要把它捡起来，伸出去的手却仿佛被烫了一下。
 [Character(name="avg_npc_647_1#7$1")]
-[name="戈尔丁"]我总以为自己在教导孩子们......
+[name="戈尔丁"]我总以为自己在教导孩子们……
 [name="戈尔丁"]直到这一刻，我才发觉是孩子们教会了我。
 [Character(name="avg_npc_647_1#2$1")]
-[name="戈尔丁"]这就是......孩子们的演出的结尾。一个真正的结尾。
+[name="戈尔丁"]这就是……孩子们的演出的结尾。一个真正的结尾。
 [Character(name="avg_npc_647_1#7$1")]
-[name="戈尔丁"]在如此巨大的时代面前，我们能做的......
+[name="戈尔丁"]在如此巨大的时代面前，我们能做的……
 [name="戈尔丁"]我们所做的，或许毫无意义。
 [name="戈尔丁"]书本中的教育遥远且模糊，而时代——
 [name="戈尔丁"]没有人能摆脱它的形塑。
 [name="戈尔丁"]若时代属于鲜血、暴力与战争。
-[name="戈尔丁"]他们......我们的孩子们，谁也无法幸免。
+[name="戈尔丁"]他们……我们的孩子们，谁也无法幸免。
 [name="戈尔丁"]他们便属于鲜血、暴力与战争。
 [Character(name="avg_npc_647_1#5$1")]
-[name="戈尔丁"]我......我该怎么......
+[name="戈尔丁"]我……我该怎么……
 [name="戈尔丁"]我怎么可能妄图对抗它？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

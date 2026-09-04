@@ -7,7 +7,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Character(name="avg_lolxh_4067_1#8$1",blackstart=0.05,blackend=0.35,fadetime=1)]
 [Delay(time=1.2)]
-[name="小黑"]师父？这儿好黑啊......我怎么什么也看不见......
+[name="小黑"]师父？这儿好黑啊……我怎么什么也看不见……
 [Character(name="avg_lolxh_4067_1#8$1",blackstart=0.05,blackend=0.35,focus=-1)]
 [name="无限"]别担心，我在这里。
 [Character(name="avg_lolxh_4067_1#4$1",blackstart=0.05,blackend=0.35,focus=1)]
@@ -16,11 +16,11 @@
 [name="无限"]小黑，感知自然灵质，不能仅仅只靠五感。
 [name="无限"]暂时封闭你的视觉，是为了帮助你更进一步地感受周围金属的存在。
 [Character(name="avg_lolxh_4067_1#8$1",blackstart=0.05,blackend=0.35,focus=1)]
-[name="小黑"]唔，什么也看不到，好难啊......
+[name="小黑"]唔，什么也看不到，好难啊……
 [Character(name="avg_lolxh_4067_1#8$1",blackstart=0.05,blackend=0.35,focus=-1)]
 [name="无限"]我的口袋里装了一只金属球，你可以感知到多少？
 [Character(name="avg_lolxh_4067_1#6$1",blackstart=0.05,blackend=0.35,focus=1)]
-[name="小黑"]嗯......很模糊，但是可以感知到！
+[name="小黑"]嗯……很模糊，但是可以感知到！
 [Character(name="avg_lolxh_4067_1#6$1",blackstart=0.05,blackend=0.35,focus=-1)]
 [name="无限"]那好，我要带着它在你周围走动，你需要靠感知金属球来判断我的位置，放心，不会离你太远。
 [Character(name="avg_lolxh_4067_1#10$1",blackstart=0.05,blackend=0.35,focus=1)]
@@ -28,7 +28,7 @@
 [Character(name="avg_lolxh_4067_1#10$1",blackstart=0.05,blackend=0.35,focus=-1)]
 [name="无限"]不用着急，我们慢慢来。现在，你来捉我吧。
 [Character(name="avg_lolxh_4067_1#1$1",blackstart=0.05,blackend=0.35,focus=1)]
-[name="小黑"]......好，嗯......好像是在左边？
+[name="小黑"]……好，嗯……好像是在左边？
 [Dialog]
 [Character(fadetime=1)]
 [playsound(key="$d_avg_snowfootstep", volume=1)]
@@ -45,7 +45,7 @@
 [Character(name="avg_lolxh_4067_1#4$1",blackstart=0.05,blackend=0.35)]
 [name="小黑"]师父？！不对，不在这里。
 [Character(name="avg_lolxh_4067_1#6$1",blackstart=0.05,blackend=0.35)]
-[name="小黑"]（我得静下心来，嗯......有了！）
+[name="小黑"]（我得静下心来，嗯……有了！）
 [Dialog]
 [Character(fadetime=1)]
 [playsound(key="$d_avg_snowfootstep", volume=1)]
@@ -55,12 +55,12 @@
 [Character(name="avg_lolxh_4067_1#5$1",blackstart=0.05,blackend=0.35)]
 [name="小黑"]可恶，还是弄错了。
 [Character(name="avg_lolxh_4067_1#8$1",blackstart=0.05,blackend=0.35)]
-[name="小黑"]师父，你在哪里啊？！这也太难了......我好像做不到啊。
+[name="小黑"]师父，你在哪里啊？！这也太难了……我好像做不到啊。
 [Dialog]
 [Character(fadetime=1.5)]
 [Delay(time=0.6)]
-[name="小黑"]师父，你说句话啊......
-[name="小黑"]师父，你在哪里......？
+[name="小黑"]师父，你说句话啊……
+[name="小黑"]师父，你在哪里……？
 [name="小黑"]师父？！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -83,7 +83,7 @@
 [Delay(time=1)]
 [playsound(key="$d_avg_clothmovement", volume=1)]
 [Delay(time=1)]
-[name="小白"]（打哈欠）......小黑，你怎么了，做噩梦了吗？
+[name="小白"]（打哈欠）……小黑，你怎么了，做噩梦了吗？
 [Character(name="avg_npc_596_1#4$1")]
 [name="小黑"]喵。
 [Dialog]
@@ -106,7 +106,7 @@
 [characteraction(name="left", type="jump" ,xpos=15,power=5, times=2, fadetime=0.51,block=true)]
 [name="小黑"]（舔舔小白的手）咪呜。
 [Character(name="avg_npc_597_1#10$1",fadetime=0.1)]
-[name="小白"]我在......没事......呼......
+[name="小白"]我在……没事……呼……
 [Dialog]
 [Delay(time=0.7)]
 [Character(name="avg_npc_597_1#4$1")]
@@ -137,9 +137,9 @@
 [Character(name="avg_npc_596_1#5$1")]
 [name="小黑"]嗯，得抓紧时间找到回去的办法。
 [Character(name="avg_npc_596_1#1$1")]
-[name="小黑"]差不多也该回去睡了......不过，这里是哪里啊？
+[name="小黑"]差不多也该回去睡了……不过，这里是哪里啊？
 [Character(name="avg_npc_596_1#6$1")]
-[name="小黑"]我是不是......迷路了？
+[name="小黑"]我是不是……迷路了？
 [Dialog]
 [Character(name="avg_npc_596_1#1$1")]
 [Dialog]
@@ -175,7 +175,7 @@
 [characteraction(name="middle", type="move", xpos=-200, fadetime=1.2, block=false)]
 [Character(name="avg_npc_596_1#6$1",fadetime=1)]
 [delay(time=2)]
-[name="小黑"]呼......哈......累死了。
+[name="小黑"]呼……哈……累死了。
 [name="小黑"]可这里好像就是原来的地方？！
 [Character(name="avg_npc_596_1#4$1")]
 [name="小黑"]这艘舰船太大了，根本找不到回去的路啊。
@@ -214,9 +214,9 @@
 [Delay(time=1.1)]
 [name="小黑"]声音好像是从这个房间里传出来的。
 [Character(name="avg_lolxh_4067_1#8$1")]
-[name="小黑"]嗯？这里不是干员们平时训练的地方吗？那是......府先生？
+[name="小黑"]嗯？这里不是干员们平时训练的地方吗？那是……府先生？
 [Character(name="avg_lolxh_4067_1#5$1")]
-[name="小黑"]不是......府先生不穿那样的衣服。
+[name="小黑"]不是……府先生不穿那样的衣服。
 [Dialog]
 [character]
 [Delay(time=0.4)]
@@ -254,7 +254,7 @@
 [Character(name="avg_lolxh_4067_1#1$1")]
 [name="小黑"]不知道我和他谁比较强。
 [Character(name="char_264_Mountain_1#7")]
-[name="山"]（晃晃耳朵）嗯......
+[name="山"]（晃晃耳朵）嗯……
 [Character(name="char_264_Mountain_1#9")]
 [name="山"]（停止挥拳）谁？！
 [Dialog]
@@ -271,7 +271,7 @@
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]我也是这里的干员。
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=2)]
-[name="山"]这么小就成为了干员吗？难以置信......你都能做些什么？
+[name="山"]这么小就成为了干员吗？难以置信……你都能做些什么？
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]不要小瞧我，我很厉害的，不信的话，我可以和你比试一下。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#7",focus=2)]
@@ -279,11 +279,11 @@
 [Character(name="avg_lolxh_4067_1#5$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]不用你收住，你可以尽全力！
 [Character(name="avg_lolxh_4067_1#5$1", name2="char_264_Mountain_1#8",focus=2)]
-[name="山"]这样......不好吧，看起来是我一个大人欺负一个小孩子。
+[name="山"]这样……不好吧，看起来是我一个大人欺负一个小孩子。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#8",focus=1)]
 [name="小黑"]（摆开架势）你不试试，怎么知道呢？
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#7",focus=2)]
-[name="山"]（他的姿势很标准，下盘也很稳，看起来像是有些实力......算了，就当是陪小孩子训练吧。）
+[name="山"]（他的姿势很标准，下盘也很稳，看起来像是有些实力……算了，就当是陪小孩子训练吧。）
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#7",focus=2)]
 [name="山"]那小朋友，你可千万当心。
 [Character(name="avg_lolxh_4067_1#9$1", name2="char_264_Mountain_1#7",focus=1)]
@@ -326,12 +326,12 @@
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]哈哈哈，看来我对舰船上干员的实力认识得还不够深刻啊。对了，小朋友，你怎么这个时候来这里？
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]我睡不着，就出来走走，走着走着......就迷路了，不知道怎么才能回宿舍。
+[name="小黑"]我睡不着，就出来走走，走着走着……就迷路了，不知道怎么才能回宿舍。
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]你是刚刚来到罗德岛吧，的确，这地方面积大分区又复杂，认路是有些困难。
 [name="山"]小孩子在这个年纪不正是爱困的时候吗？
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]我......我只是在想一些事情。
+[name="小黑"]我……我只是在想一些事情。
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#7",focus=2)]
 [name="山"]（原来现在的孩子这么小就有这么多的心事了吗？）
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=2)]
@@ -339,7 +339,7 @@
 [Dialog]
 [Delay(time=0.51)]
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#7",focus=2)]
-[name="山"]嗯......？
+[name="山"]嗯……？
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]怎么了？
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#7",focus=2)]
@@ -351,7 +351,7 @@
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]那换别的呢？
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#8",focus=2)]
-[name="山"]这副纽扣我一直很珍惜，它们对我来说挺特殊的，我的父亲很喜欢在外衣上搭配这种纽扣......丢了就太可惜了。
+[name="山"]这副纽扣我一直很珍惜，它们对我来说挺特殊的，我的父亲很喜欢在外衣上搭配这种纽扣……丢了就太可惜了。
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]我还是先送你回去吧，之后再到白天去过的地方找找。
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#11",focus=1)]
@@ -359,13 +359,13 @@
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]嗯，看到它们会让我想起父亲。
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]那......你的纽扣是金属的吗？
+[name="小黑"]那……你的纽扣是金属的吗？
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=2)]
 [name="山"]是的。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]我来帮你找！我能够感知金属，这种金属纽扣，如果离得不远，我可以确定它的位置。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#8",focus=2)]
-[name="山"]居然还有这样的源石技艺......小朋友，你还是先回去休息吧，明天我要是找不到再来麻烦你，如何？
+[name="山"]居然还有这样的源石技艺……小朋友，你还是先回去休息吧，明天我要是找不到再来麻烦你，如何？
 [Character(name="avg_lolxh_4067_1#3$1", name2="char_264_Mountain_1#8",focus=1)]
 [name="小黑"]没关系，我的精神头还很足，回去也睡不着。
 [Character(name="avg_lolxh_4067_1#3$1", name2="char_264_Mountain_1#11",focus=2)]
@@ -395,7 +395,7 @@
 [Character(name="avg_lolxh_4067_1#6$1", name2="char_264_Mountain_1#7",focus=1)]
 [Delay(time=1.7)]
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=1)]
-[name="小黑"]嗯......好像是有一个圆圆小小的东西。
+[name="小黑"]嗯……好像是有一个圆圆小小的东西。
 [Dialog]
 [characteraction(name="left", type="move", ypos=-50, fadetime=0.7,block=true)]
 [playsound(key="$d_avg_clothmovement")]
@@ -407,9 +407,9 @@
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]不是纽扣，是一枚硬币。你要吗？
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=2)]
-[name="山"]是一种游戏币啊......你还有感知到其他类似的金属吗？
+[name="山"]是一种游戏币啊……你还有感知到其他类似的金属吗？
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#7",focus=1)]
-[name="小黑"]......没有了，抱歉。
+[name="小黑"]……没有了，抱歉。
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]没关系，看来不在这里。对了小黑，有玩过这里的游戏吗？后勤部门为干员们采购了很多游戏卡带和光碟。
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#11",focus=1)]
@@ -417,17 +417,17 @@
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#8",focus=2)]
 [name="山"]呃，我现在不怎么喜欢玩游戏了，如果来这里，多半只是为了借些书看。
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#8",focus=1)]
-[name="小黑"]......我也不怎么看书，上面的字我都不认识几个。
+[name="小黑"]……我也不怎么看书，上面的字我都不认识几个。
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]那你想看吗？
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]想！但是......
+[name="小黑"]想！但是……
 [Dialog]
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=2)]
 [Delay(time=0.51)]
 [characteraction(name="right",type="move",xpos=30,fadetime=1,block=false)]
 [Delay(time=1.1)]
-[name="山"]我记得这里有些画册，用于儿童开蒙......在这里，找到了，给。
+[name="山"]我记得这里有些画册，用于儿童开蒙……在这里，找到了，给。
 [Dialog]
 [characteraction(name="right",type="move",xpos=-30,fadetime=1,block=false)]
 [Delay(time=1.1)]
@@ -436,7 +436,7 @@
 [playsound(key="$d_avg_paper1",volume=0.8)]
 [Delay(time=0.51)]	
 [Character(name="avg_lolxh_4067_1#4$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]这上面都是些画？谢谢你......
+[name="小黑"]这上面都是些画？谢谢你……
 [Character(name="avg_lolxh_4067_1#4$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]只要你认真阅读，无论是文字还是图画，都能让你收获许多。
 [name="山"]好了，走吧，拿好书，我们再去莱娜小姐的庭院看看吧，我中午帮她搬过货物。
@@ -449,15 +449,15 @@
 [character(name="avg_478_kirara_1",fadetime=1.5)]
 [playsound(key="$d_avg_clothmovement")]
 [Delay(time=2)]
-[name="绮良"]......走了吗？夜里来玩就是为了避免碰到其他人，没想到还是会有人来。
-[name="绮良"]他们应该不会再回来了吧......
+[name="绮良"]……走了吗？夜里来玩就是为了避免碰到其他人，没想到还是会有人来。
+[name="绮良"]他们应该不会再回来了吧……
 [character(name="avg_478_kirara_1#7")]
-[name="绮良"]好了，接着存档继续玩吧，我看看......携带装备，这一关清小怪适合用弓箭，但是最终战却更适合用近战武器，怎么选呢？
+[name="绮良"]好了，接着存档继续玩吧，我看看……携带装备，这一关清小怪适合用弓箭，但是最终战却更适合用近战武器，怎么选呢？
 [Dialog]
 [Delay(time=1.5)]
 [character(name="avg_478_kirara_1")]
 [name="绮良"]（放下手柄）
-[name="绮良"]或许......刚刚他们进来的时候我应该试着上去打个招呼。
+[name="绮良"]或许……刚刚他们进来的时候我应该试着上去打个招呼。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -478,7 +478,7 @@
 [Dialog]
 [Delay(time=0.6)]
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]嗯......走吧，我们接着去找你的纽扣，这里没有，或许在下一个地方。
+[name="小黑"]嗯……走吧，我们接着去找你的纽扣，这里没有，或许在下一个地方。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]小黑，不着急，你很喜欢这里对吗？我们可以再看一会儿的。
 [Character(name="avg_lolxh_4067_1#4$1", name2="char_264_Mountain_1#11",focus=1)]
@@ -494,7 +494,7 @@
 [delay(time=1.5)]
 [name="炎客"]（朝小黑瞥了一眼）
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#7",focus=2)]
-[name="山"]应该是莱娜小姐请来这里帮忙采摘鲜花的干员吧......毕竟昙花只在夜晚开放。
+[name="山"]应该是莱娜小姐请来这里帮忙采摘鲜花的干员吧……毕竟昙花只在夜晚开放。
 [Character(name="avg_lolxh_4067_1#4$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]原来如此，怪不得他带了那么长的刀，割起来一定很利落。
 [Character(name="avg_lolxh_4067_1#6$1", name2="char_264_Mountain_1#7",focus=1)]
@@ -512,25 +512,25 @@
 [Character(name="char_131_flameb_5#2")]
 [name="炎客"]随便你们，别来打扰我就好。
 [Character(name="avg_lolxh_4067_1#5$1", name2="char_131_flameb_5#2",focus=1)]
-[name="小黑"]这么远应该打扰不到你工作吧......
+[name="小黑"]这么远应该打扰不到你工作吧……
 [Character(name="avg_lolxh_4067_1#5$1", name2="char_131_flameb_5#2",focus=2)]
 [name="炎客"]错了，我并非在工作。
 [Character(name="avg_lolxh_4067_1#5$1", name2="char_131_flameb_5#1",focus=2)]
 [name="炎客"]我在等待生命即将湮灭的那一刹那所显露的绝美景致，眨眨眼便有可能错过，所以我必须全神贯注。
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_131_flameb_5#1",focus=1)]
-[name="小黑"]我......没有听懂。
+[name="小黑"]我……没有听懂。
 [Character(name="char_264_Mountain_1#7")]
 [name="山"]我想他的意思是昙花的花期只有几个小时，如果不抓紧欣赏，很快就会凋谢。
 [Character(name="avg_lolxh_4067_1#8$1")]
 [name="小黑"]这花只开这么一会儿吗？那我不吃了，看看就好。
 [Character(name="char_131_flameb_5#2")]
-[name="炎客"]（摇头）啧，小孩子......
+[name="炎客"]（摇头）啧，小孩子……
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
 [Character(fadetime=1)]
 [delay(time=1.5)]
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=1)]
-[name="小黑"]这个人......刀法应该很厉害吧？
+[name="小黑"]这个人……刀法应该很厉害吧？
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]哈哈哈，想和他切磋？但是千万不要在这里，莱娜小姐可不会乐意见到有人在她的庭院里过招。
 [Character(name="avg_lolxh_4067_1#5$1", name2="char_264_Mountain_1#11",focus=1)]
@@ -568,23 +568,23 @@
 [Character(name="char_264_Mountain_1#11", name2="char_199_yak_1#5",focus=2)]
 [name="角峰"]客气了。
 [Character(name="avg_lolxh_4067_1#8$1")]
-[name="小黑"]山，那个......我刚刚感知了，里面并没有金属。
+[name="小黑"]山，那个……我刚刚感知了，里面并没有金属。
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#7",focus=2)]
 [name="山"]是这样吗？可这是我白天最后一个去过的地方，之后我便待在训练室一直到遇见你。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]我们要不要从头再找一遍，一定会找到的。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#11",focus=2)]
-[name="山"]不必麻烦了，小黑，我送你回宿舍吧......这么晚了，小孩子睡不够可是会长不高的。
+[name="山"]不必麻烦了，小黑，我送你回宿舍吧……这么晚了，小孩子睡不够可是会长不高的。
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=1)]
 [name="小黑"]那纽扣呢，你不找了吗？
 [Character(name="avg_lolxh_4067_1#8$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]嗯，或许是被别人捡走了吧，我明天发个寻物启事看看吧。
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]对不起......没能帮到你。
+[name="小黑"]对不起……没能帮到你。
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]你愿意帮忙，我已经很感激了。
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]......
+[name="小黑"]……
 [Character(name="char_199_yak_1#3")]
 [name="角峰"]怎么了，没有找到吗？
 [Character(name="char_264_Mountain_1#11", name2="char_199_yak_1#3",focus=1)]
@@ -592,7 +592,7 @@
 [Character(name="char_199_yak_1#5")]
 [name="角峰"]小黑，我这里有些从家乡带的糖果，你拿去吃吧，不要伤心了。
 [Character(name="avg_lolxh_4067_1#10$1")]
-[name="小黑"]谢谢你，角峰先生......
+[name="小黑"]谢谢你，角峰先生……
 [Dialog]
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11")]
 [delay(time=0.51)]
@@ -619,15 +619,15 @@
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]小黑，你想学识字吗？我可以抽出时间来教你，最近任务排得并不满。
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]好......
+[name="小黑"]好……
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]角峰先生给你的糖你尝过了吗，味道如何？
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]我还没有吃......
+[name="小黑"]我还没有吃……
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]小黑，你不要太沮丧了，只是一个小小的纽扣，没关系的。
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]但对你来说它不是很重要吗......
+[name="小黑"]但对你来说它不是很重要吗……
 [Dialog]
 [character]
 [Delay(time=1)]
@@ -644,7 +644,7 @@
 [Character(name="avg_lolxh_4067_1#4$1", name2="avg_141_nights_1#1$1",focus=2)]
 [name="夜烟"]是我的帽子，它好不容易安静下来，你可不要打扰它哦。
 [Character(name="avg_lolxh_4067_1#8$1", name2="avg_141_nights_1#1$1",focus=1)]
-[name="小黑"]（这个姐姐......讲话怪怪的。）
+[name="小黑"]（这个姐姐……讲话怪怪的。）
 [Dialog]
 [Character(name="avg_141_nights_1#1$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.35, block=true)]
@@ -662,7 +662,7 @@
 [name="夜烟"]好了，大块头，小菲林，我得走了，再待下去我就要讲更多疯疯癫癫的话了。
 [Character(name="avg_lolxh_4067_1#7$1")]
 [name="小黑"]（突然拧起眉头）
-[name="小黑"]（等等，她身上......没错，是在她身上！）
+[name="小黑"]（等等，她身上……没错，是在她身上！）
 [Character(name="avg_lolxh_4067_1#9$1")]
 [name="小黑"]姐姐，你可以先不要走吗？
 [Character(name="avg_lolxh_4067_1#9$1", name2="avg_141_nights_1#1$1",focus=2)]
@@ -688,7 +688,7 @@
 [Character(name="char_264_Mountain_1#8")]
 [name="山"]呃，是的。夜烟小姐，为什么我的纽扣会在你那里？
 [Character(name="char_264_Mountain_1#8", name2="avg_141_nights_1#10$1",focus=2)]
-[name="夜烟"]呜喵......被发现了。
+[name="夜烟"]呜喵……被发现了。
 [Character(name="char_264_Mountain_1#7", name2="avg_141_nights_1#10$1",focus=1)]
 [name="山"]夜烟小姐，我身上明明有更值钱的东西，你为什么非要偷一枚铜纽扣？
 [Character(name="char_264_Mountain_1#7", name2="avg_141_nights_1#1$1",focus=2)]
@@ -698,7 +698,7 @@
 [Character(name="char_264_Mountain_1#7", name2="avg_141_nights_1#1$1",focus=1)]
 [name="山"]是这样的，我的父亲生前最喜欢的就是这种纽扣，加上如今市面上很难买到，所以这纽扣对我来说，确实意义非凡。
 [Character(name="char_264_Mountain_1#7", name2="avg_141_nights_1#2$1",focus=2)]
-[name="夜烟"]抱歉，我不知道它是这么贵重的东西......我无意伤害你，大块头。
+[name="夜烟"]抱歉，我不知道它是这么贵重的东西……我无意伤害你，大块头。
 [Character(name="char_264_Mountain_1#7", name2="avg_141_nights_1#1$1",focus=2)]
 [name="夜烟"]你要是之后有需要帮忙的地方，可以来找我？就当是弥补这一次的错误吧。
 [Character(name="char_264_Mountain_1#7", name2="avg_141_nights_1#1$1",focus=1)]
@@ -767,7 +767,7 @@
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#11",focus=1)]
 [name="小黑"]没关系，明天没有很重要的事。
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]......
+[name="小黑"]……
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]今晚为什么睡不着，现在能和我说说了吗？
 [Character(name="avg_lolxh_4067_1#10$1", name2="char_264_Mountain_1#11",focus=1)]
@@ -779,7 +779,7 @@
 [name="山"]即使他不在了，这样的感觉依然很好。
 [name="山"]或许，你也可以试试，做一些你师父做过的事情，这会让你好受些。
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]师父做过的事......
+[name="小黑"]师父做过的事……
 [Dialog]
 [stopmusic(fadetime=0.5)]
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#11",focus=-1)]
@@ -859,7 +859,7 @@
 [character]
 [name="医疗干员B"]都已经准备好了，我来扶住他。
 [Character(name="avg_298_sussu_1#1")]
-[name="苏苏洛"]......
+[name="苏苏洛"]……
 [Dialog]
 [playsound(key="$d_avg_cloakmovement")]
 [Delay(time=1.5)]
@@ -883,7 +883,7 @@
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#7",focus=2)]
 [name="山"]小黑，你怎么不走了。
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#7",focus=1)]
-[name="小黑"]那个姐姐......好厉害啊。
+[name="小黑"]那个姐姐……好厉害啊。
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#7",focus=2)]
 [name="山"]是啊，这些医疗干员，一直是罗德岛的骄傲。
 [Character(name="avg_lolxh_4067_1#1$1", name2="char_264_Mountain_1#7",focus=1)]
@@ -894,9 +894,9 @@
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]听起来，像是我师父做的事情。他会帮助那些无家可归的妖精，也会去追捕那些做了坏事的妖精。
 [Character(name="avg_lolxh_4067_1#7$1", name2="char_264_Mountain_1#11",focus=2)]
-[name="山"]妖精？......不过，这样不是很好吗？小黑你要做的事情，正是你师父做过的事情。你感觉如何？
+[name="山"]妖精？……不过，这样不是很好吗？小黑你要做的事情，正是你师父做过的事情。你感觉如何？
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]......很开心，也很自豪，可以和师父做一样的事情。
+[name="小黑"]……很开心，也很自豪，可以和师父做一样的事情。
 [Character(name="avg_lolxh_4067_1#2$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]正是如此。
 [name="山"]你现在心情好点了吗？
@@ -940,24 +940,24 @@
 [Character(name="avg_npc_596_1#6$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]（那是谁？啊，忘记了山没有见过我这个形态。）
 [Character(name="avg_npc_596_1#1$1", name2="char_264_Mountain_1#7",focus=1)]
-[name="小黑"]喵......
+[name="小黑"]喵……
 [Character(name="avg_npc_596_1#1$1", name2="char_264_Mountain_1#7",focus=2)]
 [name="山"]你身上有小黑的气味，难道是你认识他？
 [Character(name="avg_npc_596_1#6$1", name2="char_264_Mountain_1#7",focus=1)]
-[name="小黑"]（暂时就让他先这么认为吧......）
+[name="小黑"]（暂时就让他先这么认为吧……）
 [Character(name="avg_npc_596_1#1$1", name2="char_264_Mountain_1#7",focus=1)]
 [name="小黑"]喵嗷——
 [Character(name="avg_npc_596_1#1$1", name2="char_264_Mountain_1#11",focus=2)]
 [name="山"]怎么，你也想看这本书吗？哈哈，来吧，靠过来，一起看。
 [Character(name="avg_npc_596_1#1$1", name2="char_264_Mountain_1#11",focus=1)]
-[name="小黑"]咪呜......
+[name="小黑"]咪呜……
 [Dialog]
 [characteraction(name="left", type="jump", xpos=200, times=3, fadetime=0.8, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_596_1#1$1",fadetime=0.5)]
 [delay(time=0.51)]
 [Character(name="avg_npc_596_1#4$1")]
-[name="小黑"]（上面的字都看不懂......）
+[name="小黑"]（上面的字都看不懂……）
 [Dialog]
 [playsound(key="$d_avg_paper1",volume=0.8)]
 [Delay(time=0.51)]
@@ -966,11 +966,11 @@
 [Dialog]
 [playsound(key="$d_avg_paper1",volume=0.8)]
 [Delay(time=0.51)]
-[name="小黑"]（好困啊......）
+[name="小黑"]（好困啊……）
 [Dialog]
 [character(fadetime=0.8)]
 [Delay(time=1)]
-[name="小黑"]呼......
+[name="小黑"]呼……
 [Character(name="char_264_Mountain_1#11")]
 [name="山"]居然趴在我肩膀睡着了，这小家伙，算了，翻书的动作轻些吧。
 [Dialog]

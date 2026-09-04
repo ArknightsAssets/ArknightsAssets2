@@ -86,9 +86,9 @@
 [name="归乡雇佣兵"]你今天话挺多啊，不用去工地上抢活儿干了？
 [charslot(slot = "l", name = "avg_npc_932_1#1$1",focus="l")]
 [name="干瘦的萨卡兹男性"]还去啥啊，昨晚上那么响亮的动静，你没听到？这——么大一颗石头，就正好砸在工地上！
-[name="干瘦的萨卡兹男性"]现在去上工，还得先把那颗大石头运走，整平地面......拿一样的粮食花几倍力气，傻子才去呢！对了，你这么早出门干嘛去？
+[name="干瘦的萨卡兹男性"]现在去上工，还得先把那颗大石头运走，整平地面……拿一样的粮食花几倍力气，傻子才去呢！对了，你这么早出门干嘛去？
 [charslot(slot = "r", name = "avg_npc_054",focus="r")]
-[name="归乡雇佣兵"]......
+[name="归乡雇佣兵"]……
 [name="归乡雇佣兵"]没事，我溜达会儿。
 [charslot(slot = "l", name = "avg_npc_932_1#1$1",focus="l")]
 [name="干瘦的萨卡兹男性"]哦，那你可别往南边儿底下去，那边正乱呢。
@@ -136,7 +136,7 @@
 [charslot(slot = "l", name = "avg_npc_932_1#1$1",focus="l")]
 [name="干瘦的萨卡兹男性"]大、大哥！老大！嘿嘿，您慢慢溜达着，我先去拉破烂了。
 [charslot(slot = "r", name = "avg_npc_054",focus="r")]
-[name="归乡雇佣兵"]这次就饶你一命......卖破烂的钱回头分我一半。
+[name="归乡雇佣兵"]这次就饶你一命……卖破烂的钱回头分我一半。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [charslot(slot="r",afrom=1,ato=0,duration=1)]
@@ -169,13 +169,13 @@
 [Delay(time=1)]
 [charslot(slot="r",name="avg_npc_869_1#9$1",focus="r")]
 [name="埃芒加德"]给，把这个挂在身上。
-[name="埃芒加德"]这里面有专门的巫妖术式，可以感应到附近的死魂灵碎片，距离足够近的话，还会发出警报声......到时候你就知道了。
+[name="埃芒加德"]这里面有专门的巫妖术式，可以感应到附近的死魂灵碎片，距离足够近的话，还会发出警报声……到时候你就知道了。
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
 [name="妮芙"]这个小盒子看起来有点像是那些佣兵会用的通讯器。
 [charslot(slot="r",name="avg_npc_869_1#1$1",focus="r")]
 [name="埃芒加德"]有这个就不错了，本来打算用废纸折一个壳子的。
 [charslot(slot="l",name="avg_4146_nymph_1#9$1",focus="l")]
-[multiline(name="妮芙")]可是，埃米，我怎么觉得这东西比起一张藏宝地图也没严肃到哪儿去......
+[multiline(name="妮芙")]可是，埃米，我怎么觉得这东西比起一张藏宝地图也没严肃到哪儿去……
 [charslot(slot="l",name="avg_4146_nymph_1#7$1",focus="l")]
 [multiline(name="妮芙")]哎呀，我开玩笑的！别拿走呀！
 [charslot(slot="r",name="avg_npc_869_1#1$1",focus="r")]
@@ -187,7 +187,7 @@
 [charslot(slot="l",name="avg_4146_nymph_1#5$1",focus="l")]
 [name="妮芙"]谁、谁说的呀？卡兹戴尔一共就没几个笞心魔，我也只是帮朋友做点力所能及的事罢了。
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
-[name="妮芙"]你快回去忙你的工作吧，我......我也该出发了！
+[name="妮芙"]你快回去忙你的工作吧，我……我也该出发了！
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -206,9 +206,9 @@
 [charslot(slot = "r", name = "avg_npc_1455_1#1$1",focus="r")]
 [name="独居的老人"]就是这里，就是这里。
 [charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="l")]
-[name="妮芙"]可是埃米给我的探测装置一点反应都没有......老奶奶，您还记得那颗流星是什么样子吗？
+[name="妮芙"]可是埃米给我的探测装置一点反应都没有……老奶奶，您还记得那颗流星是什么样子吗？
 [charslot(slot = "r", name = "avg_npc_1455_1#1$1",focus="r")]
-[name="独居的老人"]有的是圆圆的，有的是坑坑洼洼的......
+[name="独居的老人"]有的是圆圆的，有的是坑坑洼洼的……
 [charslot(slot="l",name="avg_4146_nymph_1#7$1",focus="l")]
 [name="妮芙"]居然不止一颗吗？
 [charslot(slot = "r", name = "avg_npc_1455_1#1$1",focus="r")]
@@ -216,7 +216,7 @@
 [charslot(slot="l",name="avg_4146_nymph_1#7$1",focus="l")]
 [name="妮芙"]什么？
 [charslot(slot = "r", name = "avg_npc_1455_1#1$1",focus="r")]
-[name="独居的老人"]连皮一起吃，也香，软乎乎的，嘴唇一抿......
+[name="独居的老人"]连皮一起吃，也香，软乎乎的，嘴唇一抿……
 [charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="l")]
 [name="妮芙"]老奶奶，您在说什么呀？
 [charslot(slot = "r", name = "avg_npc_1455_1#1$1",focus="r")]
@@ -226,7 +226,7 @@
 [charslot(slot = "r", name = "avg_npc_1455_1#1$1",focus="r")]
 [name="独居的老人"]盐巴？昨晚没放盐巴啊。
 [charslot(slot="l",name="avg_4146_nymph_1#4$1",focus="l")]
-[multiline(name="妮芙")]算了......来都来了，不如找这些佣兵问问。
+[multiline(name="妮芙")]算了……来都来了，不如找这些佣兵问问。
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
 [multiline(name="妮芙")]您歇着吧，老奶奶。我下次带点烤土豆来看望您。
 [charslot(slot = "r", name = "avg_npc_1455_1#1$1",focus="r")]
@@ -237,7 +237,7 @@
 那些从前线撤退回来的雇佣兵们就被安排住在这里。院子的角落里放着一些简易的烤炉，炉膛里的灰堆尚未完全熄灭。
 [Dialog]
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]您好......请问有人在吗？
+[name="妮芙"]您好……请问有人在吗？
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",duration=1)]
@@ -250,14 +250,14 @@
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="l")]
 [name="妮芙"]什、什么？
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
-[name="悠闲的路人"]最后一袋烤土豆已经被我买走了，明天再来吧......
+[name="悠闲的路人"]最后一袋烤土豆已经被我买走了，明天再来吧……
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
 [name="妮芙"]我不是来买烤土豆的！
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
 [name="悠闲的路人"]我们见过两次，不过那还是城里打仗的时候，你应该不记得了。
 [name="悠闲的路人"]另外，这些烤土豆的味道的确不错，要我分你半个吗？
 [charslot(slot="l",name="avg_4146_nymph_1#15$1",focus="l")]
-[name="妮芙"]不用了......我其实是来找昨晚掉下来的流星的。
+[name="妮芙"]不用了……我其实是来找昨晚掉下来的流星的。
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
 [name="悠闲的路人"]你也对那个铁疙瘩感兴趣？嗯，那坨东西已经不在这儿了。
 [name="悠闲的路人"]断角帮的那群刺头在老兵之家没占到便宜，就撺掇其他几个帮派把铁疙瘩运到断角帮自己的地盘上重新谈判。
@@ -265,7 +265,7 @@
 [name="悠闲的路人"]胡闹了一早上，结果房顶上的大窟窿还是没人去补。
 [charslot(slot="l",name="avg_4146_nymph_1#2$1",focus="l")]
 [charslot(slot = "l", action="shake",random=true, power=5, times=80,duration=0.5,focus="l")]
-[name="妮芙"]你说，有好几个帮派？他们不会都碰了那块......铁疙瘩吧？
+[name="妮芙"]你说，有好几个帮派？他们不会都碰了那块……铁疙瘩吧？
 [charslot(slot="r",name="avg_4147_mitm_1#7$1",focus="r")]
 [name="悠闲的路人"]几十上百个人，差不多都上手摸过一遍吧。有些爱动歪脑筋的，还想用指甲从上面抠点异铁碴子下来，也不嫌寒碜。
 [charslot(slot="r",name="avg_4147_mitm_1#5$1",focus="r")]
@@ -275,24 +275,24 @@
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
 [name="悠闲的路人"]快拿着吧，别客气了。
 [charslot(slot="l",name="avg_4146_nymph_1#7$1",focus="l")]
-[name="妮芙"]谢谢......你说，他们这么兴师动众，就为了抢一块混着铁碴子的石头，是不是有点......不正常？
+[name="妮芙"]谢谢……你说，他们这么兴师动众，就为了抢一块混着铁碴子的石头，是不是有点……不正常？
 [charslot(slot="r",name="avg_4147_mitm_1#10$1",focus="r")]
 [name="悠闲的路人"]你也这么觉得？尤其是断角帮的那些小年轻，几乎是寸步不离那坨铁疙瘩，跟中了邪一样。
-[name="悠闲的路人"]......你知道是怎么回事吗？
+[name="悠闲的路人"]……你知道是怎么回事吗？
 [charslot(slot="l",name="avg_4146_nymph_1#14$1",focus="l")]
-[name="妮芙"]这个，我想想......
+[name="妮芙"]这个，我想想……
 [charslot(slot="r",name="avg_4147_mitm_1#3$1",focus="r")]
 [name="悠闲的路人"]也是，你怎么会知道呢？你又不住在这边。
 [charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="l")]
-[name="妮芙"]我这几年的确很少来这片街区了，也不太熟悉路......可以问一下断角帮的地盘要怎么走吗？
+[name="妮芙"]我这几年的确很少来这片街区了，也不太熟悉路……可以问一下断角帮的地盘要怎么走吗？
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
 [name="悠闲的路人"]往前走到头，右拐，一直走到火烧尾巴路口，就是从前有几棵樱桃树的地方。到那里你就能看见了。
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
 [name="妮芙"]谢谢你！对了，我还不知道你的名字呢。
 [charslot(slot="r",name="avg_4147_mitm_1#7$1",focus="r")]
-[multiline(name="悠闲的路人")]这里的人都叫我......
+[multiline(name="悠闲的路人")]这里的人都叫我……
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
-[multiline(name="悠闲的路人")]嗯，你叫我珀耳就行......
+[multiline(name="悠闲的路人")]嗯，你叫我珀耳就行……
 [charslot(slot="l",name="avg_4146_nymph_1#9$1",focus="l")]
 [name="妮芙"]我叫妮芙！
 [Dialog]
@@ -319,7 +319,7 @@
 年轻的萨卡兹用尾巴提着购物袋，慢慢悠悠地朝窄巷中走去，一点也看不出赶时间的样子。
 [Dialog]
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]火烧尾巴路口......樱桃树？印象中有这个地方，可是那几棵樱桃树不是在内战前就被砍掉了吗？
+[name="妮芙"]火烧尾巴路口……樱桃树？印象中有这个地方，可是那几棵樱桃树不是在内战前就被砍掉了吗？
 [Dialog]
 [charslot]
 [musicvolume(volume=0.3, fadetime=1)]
@@ -351,14 +351,14 @@
 [name="归乡雇佣兵"]是了，拐过这个转角，就是家了。以前她总守在这里，被她抓住我偷跑到街上，少不了挨顿打。
 [name="归乡雇佣兵"]不过，就算找到了，又能怎么样呢？好几年没回来过了，人也早就没了。估计屋子也被别人占了去。
 [name="归乡雇佣兵"]我对人家说，这里以前是我家，人家会怎么想？哈，这大傻子。难道你还想住回来？
-[name="归乡雇佣兵"]......能看一眼，也就够了吧。
+[name="归乡雇佣兵"]……能看一眼，也就够了吧。
 [name="归乡雇佣兵"]转过这个拐角，看一眼，然后就走。找点吃的填填肚子，又混过一天。就这样吧。
 [Dialog]
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [charslot(slot="m",name="avg_npc_054",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_054",focus="m")]
-[name="归乡雇佣兵"]......
+[name="归乡雇佣兵"]……
 [name="归乡雇佣兵"]不是，我家呢？
 [name="归乡雇佣兵"]怎么就剩下一堵墙了？屋顶呢？
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -391,7 +391,7 @@
 [Dialog]
 [charslot]
 [name="顽皮的孩童"]断角帮的都这么喊。穿你身上这种外套的，从“外面”回来的，都是卖脑袋的。
-[name="顽皮的孩童"]不过教我认字的姐姐不让我这么喊，她说......
+[name="顽皮的孩童"]不过教我认字的姐姐不让我这么喊，她说……
 [charslot(slot="m",name="avg_npc_054",focus="m")]
 [name="归乡雇佣兵"]小孩，告诉我，断角帮的人在哪？
 [Dialog]
@@ -438,7 +438,7 @@
 [name="断角帮新人"]唉，看你这可怜样。你想进去也不是不行，明天给我留三个烤土豆，听见没？我可是不会付账的。
 [charslot(slot="m",name="avg_npc_053",focus="m")]
 [name="严肃的雇佣兵"]行。你有种。
-[name="严肃的雇佣兵"]我会给你多放料的......看你有没有那个胆子吃。
+[name="严肃的雇佣兵"]我会给你多放料的……看你有没有那个胆子吃。
 [Dialog]
 [PlaySound(key="$d_avg_walkfast", volume=0.7)]
 [charslot(duration=1)]
@@ -449,14 +449,14 @@
 [name="断角帮新人"]喂！站住！让你跟着进去了吗？
 [name="断角帮新人"]还往哪看呢？说的就是你！
 [charslot(slot="m",name="avg_4146_nymph_1#13$1",focus="m")]
-[name="妮芙"]欸？我吗？我是来旁听的......
+[name="妮芙"]欸？我吗？我是来旁听的……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_unsheathe",volume=1)]
 [Delay(time=1)]
 [name="断角帮新人"]赶紧滚！这里不是你该来的地方，看见这是啥了吗？
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]这是......烧火棍？
+[name="妮芙"]这是……烧火棍？
 [Dialog]
 [charslot]
 [name="断角帮新人"]这是刀！用角磨成的刀！很锋利的！
@@ -466,7 +466,7 @@
 [CameraShake(duration=1, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]嘶！疼不疼呀？好端端的干嘛要戳自己手指呢？我这里有止血贴，你快拿去贴上......
+[name="妮芙"]嘶！疼不疼呀？好端端的干嘛要戳自己手指呢？我这里有止血贴，你快拿去贴上……
 [Dialog]
 [charslot]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -482,12 +482,12 @@
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
 [name="妮芙"]应该就是这个地方了，可是该怎么进去呢？
 [charslot(slot="m",name="avg_4146_nymph_1#14$1",focus="m")]
-[name="妮芙"]之前只是听说断角帮里都是些不守规矩的年轻人，现在看来......
+[name="妮芙"]之前只是听说断角帮里都是些不守规矩的年轻人，现在看来……
 [charslot(slot="m",name="avg_4146_nymph_1#2$1",focus="m")]
 [name="妮芙"]快想想，妮芙，脑子里的名字们转一转，有没有能帮上忙的？
-[name="妮芙"]这个不行，这个也不行，这个倒是能在帮派大会里说上话，不过她好像已经不在卡兹戴尔了......
+[name="妮芙"]这个不行，这个也不行，这个倒是能在帮派大会里说上话，不过她好像已经不在卡兹戴尔了……
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]......这个呢？顾问先生，这片街区的大小帮派都得遵守他的规矩，他绝对能帮上忙！只是，我从来没见过他，也不知道他住在哪里。
+[name="妮芙"]……这个呢？顾问先生，这片街区的大小帮派都得遵守他的规矩，他绝对能帮上忙！只是，我从来没见过他，也不知道他住在哪里。
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
 [name="妮芙"]干脆就在这里等着好了，帮派大会一直都是他来主持，他肯定会从这里经过的，嗯！
 [Dialog]
@@ -529,7 +529,7 @@
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
 [name="妮芙"]哦，我也是想碰碰运气，看看能不能等到顾问先生。断角帮的人不让我进去，但跟着顾问先生一起，他肯定不敢拦的。
 [charslot(slot="r",name="avg_4147_mitm_1#7$1",focus="r")]
-[name="珀耳"]那倒也不一定......你认识顾问吗？
+[name="珀耳"]那倒也不一定……你认识顾问吗？
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
 [name="妮芙"]之前有托人联系过他，不过一直没收到回复。
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
@@ -543,13 +543,13 @@
 [charslot(slot="r",name="avg_4147_mitm_1#10$1",focus="r")]
 [name="珀耳"]大熔炉？
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
-[name="妮芙"]是的！你也看到了吗？昨晚的烟花......
+[name="妮芙"]是的！你也看到了吗？昨晚的烟花……
 [charslot(slot="r",name="avg_4147_mitm_1#10$1",focus="r")]
-[name="珀耳"]昨晚的烟花就是从大熔炉里飞出来的。可当时大熔炉里应该正在进行安抚仪式，难道真是......死魂灵？但为什么来的是你？那些巫妖呢？
+[name="珀耳"]昨晚的烟花就是从大熔炉里飞出来的。可当时大熔炉里应该正在进行安抚仪式，难道真是……死魂灵？但为什么来的是你？那些巫妖呢？
 [charslot(slot="l",name="avg_4146_nymph_1#7$1",focus="l")]
 [name="妮芙"]欸？你都知道？
 [charslot(slot="r",name="avg_4147_mitm_1#3$1",focus="r")]
-[name="珀耳"]唉，运气真差，我还以为那种奇怪的感觉是我的错觉......怎么又是最坏的情况啊。
+[name="珀耳"]唉，运气真差，我还以为那种奇怪的感觉是我的错觉……怎么又是最坏的情况啊。
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
 [name="珀耳"]妮芙，你刚才一直在这里对吧？你总共听到大铁桶被敲响了几次？
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
@@ -557,15 +557,15 @@
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
 [name="珀耳"]帮派大会已经开始了。今天不该花那么长时间去买菜的。
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
-[name="妮芙"]珀耳先生，其实我觉得现在也还来得及，他们应该还是会等顾问先生来主持......
+[name="妮芙"]珀耳先生，其实我觉得现在也还来得及，他们应该还是会等顾问先生来主持……
 [charslot(slot="r",name="avg_4147_mitm_1#1$1",focus="r")]
 [name="珀耳"]有道理，没有顾问主持的帮派大会，和关起门来打架没什么区别。
 [charslot(slot="r",name="avg_4147_mitm_1#9$1",focus="r")]
-[multiline(name="珀耳")]呼......
+[multiline(name="珀耳")]呼……
 [charslot(slot="r",name="avg_4147_mitm_1#8$1",focus="r")]
 [multiline(name="珀耳")]也不知道你今天的运气该算是好还是不好。妮芙，跟着我，我们去把这个麻烦事解决掉吧。
 [charslot(slot="l",name="avg_4146_nymph_1#7$1",focus="l")]
-[name="妮芙"]欸？不对，等一下！你大概还没弄清这是怎么回事......
+[name="妮芙"]欸？不对，等一下！你大概还没弄清这是怎么回事……
 [charslot(slot="r",name="avg_4147_mitm_1#8$1",focus="r")]
 [name="珀耳"]没关系，我们边走边说。我先讲一下我的推测，有不对的地方你可以随时纠正我。
 [Dialog]
@@ -626,7 +626,7 @@
 [charslot(slot="m",name="avg_npc_933_1#1$1",focus="m")]
 [name="断角帮老大"]这个笞心魔是谁？
 [charslot(slot="m",name="avg_4146_nymph_1#13$1",focus="m")]
-[multiline(name="妮芙")]啊，各位请不用在意我，我只是来......
+[multiline(name="妮芙")]啊，各位请不用在意我，我只是来……
 [charslot(slot="m",name="avg_4146_nymph_1#5$1",focus="m")]
 [multiline(name="妮芙")]我是顾问老大的助理！帮他做会议记录的。
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
@@ -634,7 +634,7 @@
 [charslot(slot="m",name="avg_4147_mitm_1#8$1",focus="m")]
 [name="珀耳"]哎呀，差点忘记你不识字了。
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
-[name="珀耳"]既然人都到齐了，大会就开始吧。除非......谁还有别的要紧事？
+[name="珀耳"]既然人都到齐了，大会就开始吧。除非……谁还有别的要紧事？
 [charslot(slot="m",name="avg_npc_935_1#1$1",focus="m")]
 [name="沉稳的女性"]没有，我们都没有。赶紧开始吧，顾问老大，这块铁疙瘩到底怎么分，大家都等着您来定夺呢。
 [Dialog]
@@ -648,7 +648,7 @@
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
 [name="珀耳"]异铁含量倒是不低。是这个吗？
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]应该是的......
+[name="妮芙"]应该是的……
 [charslot(slot="m",name="avg_4146_nymph_1#14$1",focus="m")]
 [name="妮芙"]（小声）可埃米不是说探测装置会响的吗，怎么还没动静？
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
@@ -667,11 +667,11 @@
 [name="珀耳"]没听明白吗？源石碎片非常不稳定，你觉得他会冒着炸炉子的风险来收货吗？
 [name="珀耳"]而且，你们别忘了昨晚的烟花是从哪来的。要是被上头那些人逮住了，无论是军事委员会——
 [charslot(slot="m",name="avg_npc_053",focus="m")]
-[name="严肃的雇佣兵"]......
+[name="严肃的雇佣兵"]……
 [charslot(slot="m",name="avg_4147_mitm_1#3$1",focus="m")]
 [name="珀耳"]还是那些对你们意见很大的巫妖——
 [charslot(slot="m",name="avg_npc_933_1#1$1",focus="m")]
-[name="断角帮老大"]......
+[name="断角帮老大"]……
 [charslot(slot="m",name="avg_4147_mitm_1#6$1",focus="m")]
 [name="珀耳"]你们都知道会是什么下场。你们自己遭殃了不要紧，不要害得街坊邻居们都饿肚子。
 [charslot(slot="m",name="avg_npc_935_1#1$1",focus="m")]
@@ -680,7 +680,7 @@
 [name="珀耳"]黑姐，你还是太急了，异铁都还没炼出来呢。再说，卡兹戴尔城里没有，不代表外面也找不到，是不是？
 [name="珀耳"]那些走私贩子的胆子比命大，就算价钱可能会被狠狠压一压，可只要他们肯收，总比烂在你们手里强吧。
 [charslot(slot="m",name="avg_npc_935_1#1$1",focus="m")]
-[name="沉稳的女性"]压价......会压多少？
+[name="沉稳的女性"]压价……会压多少？
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
 [name="珀耳"]那我怎么知道？我又不做这桩生意。顾问的职责向来如此，我告诉你们怎么分最公平，但我不会上手去切的。
 [charslot(slot="m",name="avg_npc_933_1#1$1",focus="m")]
@@ -705,12 +705,12 @@
 [multiline(name="珀耳")]我只给你们提供建议，听不听是你们的事。
 [name="珀耳"]我倒是认识几个走私的老板，但让人家收下这种烫手货色，还是要费点面子的。
 [charslot(slot="m",name="avg_npc_935_1#1$1",focus="m")]
-[name="沉稳的女性"]顾问老大，我替巴库给您赔个不是，他年纪太小......
+[name="沉稳的女性"]顾问老大，我替巴库给您赔个不是，他年纪太小……
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
 [name="珀耳"]黑姐，我年纪也不大。
 [name="珀耳"]我知道有几个人从来都不服我，觉得我能爬到今天这个位置全是靠运气。不过，没关系。
 [charslot(slot="m",name="avg_npc_935_1#1$1",focus="m")]
-[name="沉稳的女性"]大伙喊您一声老大，自然是心甘情愿的。吃饱饭的肚子不会骗人，只有那些贪心不足的蠢蛋......
+[name="沉稳的女性"]大伙喊您一声老大，自然是心甘情愿的。吃饱饭的肚子不会骗人，只有那些贪心不足的蠢蛋……
 [musicvolume(volume=0, fadetime=1)]
 [Dialog]
 [charslot]
@@ -750,21 +750,21 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_933_1#1$1",focus="m")]
-[name="断角帮老大"]顾问老大，按你的规矩，在这间屋子里偷东西的贼可是要砍掉一只手的......笞心魔，你更喜欢左手还是右手？
+[name="断角帮老大"]顾问老大，按你的规矩，在这间屋子里偷东西的贼可是要砍掉一只手的……笞心魔，你更喜欢左手还是右手？
 [charslot(slot="m",name="avg_4147_mitm_1#6$1",focus="m")]
-[name="珀耳"]偷什么偷？是我让她去......测量一下这块破石头的异铁含量。
+[name="珀耳"]偷什么偷？是我让她去……测量一下这块破石头的异铁含量。
 [charslot(slot="m",name="avg_4146_nymph_1#5$1",focus="m")]
 [name="妮芙"]啊，没错，异铁纯度好高，瞧！我这检测器都报警了。
 [charslot(slot="m",name="avg_4147_mitm_1#6$1",focus="m")]
 [name="珀耳"]怎么毛手毛脚的，我招你当助理可不是要让你给我吓出心脏病的。
 [charslot(slot="m",name="avg_4146_nymph_1#10$1",focus="m")]
-[name="妮芙"]对......对不起。
+[name="妮芙"]对……对不起。
 [charslot(slot="m",name="avg_npc_933_1#1$1",focus="m")]
 [name="断角帮老大"]我怎么就那么不相信呢，“顾问老大”？你不会觉得我们断角帮平时没有盯着你吧？
-[name="断角帮老大"]你偏帮这些卖脑袋的也就算了，大家怎么说也都是拿命换粮食的。可你勾搭上住高楼的就不像话了吧......
+[name="断角帮老大"]你偏帮这些卖脑袋的也就算了，大家怎么说也都是拿命换粮食的。可你勾搭上住高楼的就不像话了吧……
 [name="断角帮老大"]这笞心魔小姑娘一身漂亮衣服，怎么可能给你当助理？
 [charslot(slot="m",name="avg_4146_nymph_1#10$1",focus="m")]
-[name="妮芙"]这些衣服都是我爸爸妈妈留下来的旧衣服，我只是裁剪了一下......
+[name="妮芙"]这些衣服都是我爸爸妈妈留下来的旧衣服，我只是裁剪了一下……
 [charslot(slot="m",name="avg_4147_mitm_1#6$1",focus="m")]
 [name="珀耳"]这和我们今天讨论的问题无关吧，各位。眼下对你们更重要的，不是怎么把这块铁疙瘩换成粮食再分掉吗？
 [name="珀耳"]不如这样，我叫几个愿意翻城墙的老板先把粮食拉来，把这定时炸弹一样的铁疙瘩带走，你们再慢慢商量粮食怎么分，如何？
@@ -789,7 +789,7 @@
 [charslot(slot="m",name="avg_4147_mitm_1#6$1",focus="m")]
 [name="珀耳"]进了口袋的才是自己的，你们这样永远也争不出个结果，断角帮既然这么想要这个铁疙瘩，就给你们好了。
 [charslot(slot="m",name="avg_npc_053",focus="m")]
-[name="严肃的雇佣兵"]顾问老大......
+[name="严肃的雇佣兵"]顾问老大……
 [charslot(slot="m",name="avg_4147_mitm_1#6$1",focus="m")]
 [name="珀耳"]让我说完。后续若有因断角帮处理不当引起的各类损失，巴库自己承担。
 [charslot(slot="m",name="avg_npc_933_1#1$1",focus="m")]
@@ -804,7 +804,7 @@
 [charslot(slot="m",name="avg_npc_935_1#1$1",focus="m")]
 [name="沉稳的女性"]顾问老大，那这碴子能抵多少粮食和异铁？这该怎么算？
 [charslot(slot="m",name="avg_4146_nymph_1#13$1",focus="m")]
-[name="妮芙"]这个，我有主意......可以根据异铁的纯度来换算含量，不过刚才检测的时候被打断了，我要重新检测一下。
+[name="妮芙"]这个，我有主意……可以根据异铁的纯度来换算含量，不过刚才检测的时候被打断了，我要重新检测一下。
 [name="妮芙"]最好是取下一小块样本带回去检测。
 [Dialog]
 [charslot(duration=0.7)]
@@ -816,7 +816,7 @@
 妮芙身侧的手提箱缓缓开启，将那灰暗的碎片吸入。在手提箱关闭的咔哒声中，屋内的所有人都不由自主地看向窗户。
 窗外的天气依旧阴沉，光线却似乎变得更加刺眼，也更加温暖。
 [charslot(slot="m",name="avg_4146_nymph_1#4$1",focus="m")]
-[name="妮芙"]呼......完成了。
+[name="妮芙"]呼……完成了。
 [Dialog]
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
 [playsound(key="$d_avg_papertear",volume=1)]
@@ -828,7 +828,7 @@
 [charslot(slot="m",name="avg_npc_053",focus="m")]
 [name="严肃的雇佣兵"]顾问老大，我们都按您的要求写在纸上了，您收好。
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
-[name="珀耳"]没其他事了吧？那就散了，各自回去过日子去......
+[name="珀耳"]没其他事了吧？那就散了，各自回去过日子去……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -844,29 +844,29 @@
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
-[name="妮芙"]顾问先生......多谢你，帮我解决了这么大一个麻烦。
+[name="妮芙"]顾问先生……多谢你，帮我解决了这么大一个麻烦。
 [charslot(slot="m",name="avg_4147_mitm_1#8$1",focus="m")]
-[name="珀耳"]嗐......没多大事。那位巫妖小姐也算和我有缘，举手之劳嘛。
+[name="珀耳"]嗐……没多大事。那位巫妖小姐也算和我有缘，举手之劳嘛。
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
-[name="珀耳"]还有，你还是叫我珀耳吧......妮芙小姐。
+[name="珀耳"]还有，你还是叫我珀耳吧……妮芙小姐。
 [charslot(slot="m",name="avg_4146_nymph_1#13$1",focus="m")]
-[name="妮芙"]实在没想到......原来传说中的顾问，居然这么......年轻。
+[name="妮芙"]实在没想到……原来传说中的顾问，居然这么……年轻。
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]不过，珀耳先生......你刚才为了替我解围，答应给这里的居民物资——你真的拿得出这么多粮食和异铁吗？
+[name="妮芙"]不过，珀耳先生……你刚才为了替我解围，答应给这里的居民物资——你真的拿得出这么多粮食和异铁吗？
 [charslot(slot="m",name="avg_4147_mitm_1#8$1",focus="m")]
-[name="珀耳"]这些年还是攒了一点的，可能，或许不太够？果然还是得先下手去多捡一点烟花碴子......
+[name="珀耳"]这些年还是攒了一点的，可能，或许不太够？果然还是得先下手去多捡一点烟花碴子……
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
 [name="妮芙"]你背上，好像都湿透了。
 [charslot(slot="m",name="avg_4147_mitm_1#8$1",focus="m")]
 [name="珀耳"]哦，是吗？今天这个天气还真是闷热啊，哈哈。
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]珀耳先生......你难道，很害怕？
+[name="妮芙"]珀耳先生……你难道，很害怕？
 [Dialog]
 [musicvolume(volume=0.3, fadetime=1)]
 [charslot(slot="m",name="avg_4147_mitm_1#8$1",focus="m")]
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [Delay(time=1)]
-[name="珀耳"]我......
+[name="珀耳"]我……
 [Dialog]
 [focusout(duration=0.5, type="bg", from=0, to=1, block=true)]
 [Background(image="bg_black",screenadapt="coverall",fadetime=1.5,block=false)]
@@ -890,30 +890,30 @@
 [charslot(slot="m",name="avg_4146_nymph_1#7$1",focus="m")]
 [name="妮芙"]冷静！冷静一点珀耳先生！我们现在已经安全了！
 [charslot(slot="m",name="avg_4147_mitm_1#10$1",focus="m")]
-[name="珀耳"]......你都看到了？
+[name="珀耳"]……你都看到了？
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]看到什么......？
+[name="妮芙"]看到什么……？
 [charslot(slot="m",name="avg_4147_mitm_1#10$1",focus="m")]
-[name="珀耳"]笞心魔都有的那种本事，可以读心什么的......你该不会已经？！
+[name="珀耳"]笞心魔都有的那种本事，可以读心什么的……你该不会已经？！
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
-[name="妮芙"]你放心好啦，我没有看你的内心！为什么每个人都会对笞心魔的能力有奇奇怪怪的误解啊......
+[name="妮芙"]你放心好啦，我没有看你的内心！为什么每个人都会对笞心魔的能力有奇奇怪怪的误解啊……
 [charslot(slot="m",name="avg_4146_nymph_1#5$1",focus="m")]
-[name="妮芙"]不过，我确实会对别人内心的“恐惧”更加敏感一点......但是施展这个法术很费心力的！而且你以为我真的想看吗？
+[name="妮芙"]不过，我确实会对别人内心的“恐惧”更加敏感一点……但是施展这个法术很费心力的！而且你以为我真的想看吗？
 [charslot(slot="m",name="avg_4147_mitm_1#10$1",focus="m")]
-[name="珀耳"]也是，在卡兹戴尔能看到的......估计都不是什么令人愉快的东西。
+[name="珀耳"]也是，在卡兹戴尔能看到的……估计都不是什么令人愉快的东西。
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
 [name="珀耳"]不说这个了，你要的东西拿到了吗？
 [charslot(slot="m",name="avg_4146_nymph_1#3$1",focus="m")]
 [name="妮芙"]已经收起来了，绝对没问题，你看！
 [charslot(slot="m",name="avg_4147_mitm_1#5$1",focus="m")]
-[name="珀耳"]就这么小一块吗？不过看起来......确实很独特。
+[name="珀耳"]就这么小一块吗？不过看起来……确实很独特。
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
 [name="妮芙"]这一块被包在一大坨异铁中间，所以探测装置才一直没反应。
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
 [name="珀耳"]这下你应该可以回去交差了吧？
 [charslot(slot="m",name="avg_4146_nymph_1#14$1",focus="m")]
 [name="妮芙"]这才刚开始呢！
-[name="妮芙"]按埃米......我的巫妖朋友说的，城里现在至少还有四五块儿呢。剩下的都不知道去哪儿找，我打算找个消息灵通的先问问......
+[name="妮芙"]按埃米……我的巫妖朋友说的，城里现在至少还有四五块儿呢。剩下的都不知道去哪儿找，我打算找个消息灵通的先问问……
 [charslot(slot="m",name="avg_4146_nymph_1#13$1",focus="m")]
 [name="妮芙"]对哦！你不就是这一片消息最灵通的吗！你肯定知道些什么对不对，“顾问”先生？
 [charslot(slot="m",name="avg_4147_mitm_1#1$1",focus="m")]
@@ -922,9 +922,9 @@
 [name="妮芙"]那就够了！总比我满城乱逛瞎碰运气好多啦！
 [name="妮芙"]如果你愿意帮我找剩下的碎片，我可以说服那些偷懒的巫妖，让他们报销你这次要分出去的粮食和异铁！
 [charslot(slot="m",name="avg_4146_nymph_1#9$1",focus="m")]
-[name="妮芙"]嗯......粮食可能不太好弄，但异铁肯定没问题。大熔炉每次检修都要换下来好多零件呢！
+[name="妮芙"]嗯……粮食可能不太好弄，但异铁肯定没问题。大熔炉每次检修都要换下来好多零件呢！
 [charslot(slot="m",name="avg_4147_mitm_1#7$1",focus="m")]
-[multiline(name="珀耳")]这么说似乎也不是不行......
+[multiline(name="珀耳")]这么说似乎也不是不行……
 [PlaySound(key="$d_avg_clothmovementsp", volume=1)]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1)]

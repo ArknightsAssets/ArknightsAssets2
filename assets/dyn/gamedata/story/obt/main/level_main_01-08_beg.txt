@@ -6,19 +6,19 @@
 [Delay(time=0.3)]
 [Character(name="char_148_nearl_1#3")]
 [name="临光"]   阿米娅，带博士离开。
-[name="临光"]   ......立刻！
+[name="临光"]   ……立刻！
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]   不行！我不能......
+[name="阿米娅"]   不行！我不能……
 [Character(name="char_002_amiya_1#4", name2="char_148_nearl_1#3", focus=2)]
-[name="临光"]   你也感觉到了！她......再这样下去，整个救援队都会葬送在这里！
-[name="临光"]   那个塔露拉......
+[name="临光"]   你也感觉到了！她……再这样下去，整个救援队都会葬送在这里！
+[name="临光"]   那个塔露拉……
 [name="临光"]   她是活生生的怪物！阿米娅！
 [Character(name="char_002_amiya_1#7", name2="char_148_nearl_1#3", focus=1)]
 [name="阿米娅"]   我们一起战斗的话，不会有问题的！
 [Character(name="char_002_amiya_1#7", name2="char_148_nearl_1#3", focus=2)]
 [name="临光"]   那博士呢？你能保证博士的安全吗？
 [Character(name="char_002_amiya_1#4", name2="char_148_nearl_1#3", focus=1)]
-[name="阿米娅"]   ......唔......
+[name="阿米娅"]   ……唔……
 [Character(name="char_148_nearl_1#3")]
 [name="临光"]   E4小队，我们留在这里断后！
 [name="临光"]   一定要让阿米娅和Dr.{@nickname}，以及各个医疗小组安全撤离！
@@ -32,7 +32,7 @@
 [name="临光"]   你难道没看到吗，她周围的东西，都在融化！
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   我不会留下你们独自战斗的。
-[name="阿米娅"]   罗德岛......绝不会丢下你们的！
+[name="阿米娅"]   罗德岛……绝不会丢下你们的！
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]   阿米娅，时间宝贵！你必须撤退！
 [Character(name="char_014_riope")]
@@ -58,15 +58,15 @@
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.3, block=true)]
 [Blocker(a=0, fadetime=3, block=true)]
 [Character(name="char_148_nearl_1#3")]
-[name="临光"]   ——？热量......在......她手里......聚集？
+[name="临光"]   ——？热量……在……她手里……聚集？
 [Character(name="char_013_riop")]
-[name="近卫干员"]   她周身的景象......扭曲了？
+[name="近卫干员"]   她周身的景象……扭曲了？
 [Character(name="char_148_nearl_1#3")]
-[name="临光"]   不，那是她......加热了周围的空气！
+[name="临光"]   不，那是她……加热了周围的空气！
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]   小心，她将要使用的法术......
-[name="阿米娅"]   不对......不对！临光！！快回来！！
-[name="阿米娅"]   那不是......那个法术会把你——
+[name="阿米娅"]   小心，她将要使用的法术……
+[name="阿米娅"]   不对……不对！临光！！快回来！！
+[name="阿米娅"]   那不是……那个法术会把你——
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -77,7 +77,7 @@
 [Dialog]
 [Character(fadetime=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="临光"]   呜呃......！
+[name="临光"]   呜呃……！
 [Dialog]
 [Character]
 [Character(name="char_011_talula_1",block=true)]
@@ -94,20 +94,20 @@
 [Blocker(a=0.1, fadetime=2, block=false)]
 [delay(time=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="临光"]   哈，哈......
+[name="临光"]   哈，哈……
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]   临光！
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="临光"]   咳......退后！我不要紧......
-[name="临光"]   只不过是......有点烫而已......
+[name="临光"]   咳……退后！我不要紧……
+[name="临光"]   只不过是……有点烫而已……
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]   说什么......不要紧？
+[name="杜宾"]   说什么……不要紧？
 [name="杜宾"]   全身的铠甲没有一块是完好的，究竟哪里不要紧了？！
 [name="杜宾"]   你不能再与她战斗了！
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
 [name="临光"]   我说了——退后！
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]   临光！你这倔脾气......！
+[name="杜宾"]   临光！你这倔脾气……！
 [Dialog]
 [Character(fadetime=1)]
 [Character(name="char_011_talula_1",block=true)]
@@ -129,16 +129,16 @@
 [Blocker(a=0.1, fadetime=2, block=false)]
 [delay(time=1)]
 [Character(name="char_148_nearl_1#3")]
-[name="临光"]   咳，咳......又是什么把戏！
+[name="临光"]   咳，咳……又是什么把戏！
 [Character(name="char_148_nearl_1#3",name2="char_014_riope",focus=2)]
-[name="Ace"]   ......不可见的火扫过了我们的头顶。
-[name="Ace"]   后撤。整个街区都在融化......
+[name="Ace"]   ……不可见的火扫过了我们的头顶。
+[name="Ace"]   后撤。整个街区都在融化……
 [name="Ace"]   别做无谓的牺牲！
 [Character(name="char_148_nearl_1#3",name2="char_014_riope",focus=1)]
-[name="临光"]   ......
+[name="临光"]   ……
 [name="临光"]   我是在和什么东西战斗？
 [Character(name="char_148_nearl_1#3",name2="char_014_riope",focus=2)]
-[name="Ace"]   必须干扰她施术的过程......
+[name="Ace"]   必须干扰她施术的过程……
 [name="Ace"]   狙击干员！瞄准目标敌人！
 [Blocker(a=1, r=0, g=0, b=0, block=true)]
 [Dialog]
@@ -182,18 +182,18 @@
 [Background(image="bg_cher_8", width=1, height=1, fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, block=true)]
 [Character(name="char_016_medic")]
-[name="医疗干员"]   怎么......回事？
-[name="医疗干员"]   为什么整个广场......都被烧焦了？
-[name="医疗干员"]   刚刚......发生了......什么......？
-[name="医疗干员"]   呼......呼吸......好烫......我......
+[name="医疗干员"]   怎么……回事？
+[name="医疗干员"]   为什么整个广场……都被烧焦了？
+[name="医疗干员"]   刚刚……发生了……什么……？
+[name="医疗干员"]   呼……呼吸……好烫……我……
 [Character(name="char_013_riop")]
-[name="近卫干员"]   石块，弩箭，弓矢......
+[name="近卫干员"]   石块，弩箭，弓矢……
 [name="近卫干员"]   都没了。
-[name="近卫干员"]   一瞬间......她周围的所有事物，全都都被燃烧殆尽......
+[name="近卫干员"]   一瞬间……她周围的所有事物，全都都被燃烧殆尽……
 [Character(name="char_011_talula_1")]
 [name="塔露拉"]   你们具备解放者该有的韧性。
 [Character(name="char_013_riop")]
-[name="近卫干员"]   ......连渣滓都没剩下。
+[name="近卫干员"]   ……连渣滓都没剩下。
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=1)]
 [name="临光"]   阿米娅。你很清楚。
 [Character(name="char_148_nearl_1#3",name2="char_002_amiya_1#7",focus=2)]
@@ -203,7 +203,7 @@
 [Character(name="char_011_talula_1")]
 [name="塔露拉"]   ——但我厌烦了。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]   ......
+[name="阿米娅"]   ……
 [Character(name="char_148_nearl_1#3")]
 [name="临光"]   阿米娅！！
 [PlaySound(key="$d_gen_thunders_amb", volume=0.3)]
@@ -225,8 +225,8 @@
 [Character(fadetime=0)]
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]   糟了！！
-[name="杜宾"]   走，走......快走！！
-[name="杜宾"]   那种热量和规模......不行，不行！
+[name="杜宾"]   走，走……快走！！
+[name="杜宾"]   那种热量和规模……不行，不行！
 [name="杜宾"]   保护阿米娅和博士！快！！
 [Character(name="char_148_nearl_1#3")]
 [name="临光"]   来不及了——！
@@ -251,20 +251,20 @@
 [Blocker(a=0.8, r=0, g=0, b=0, fadetime=0.1, block=true)]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.1, block=true)]
 [Character(name="char_016_medic")]
-[name="医疗干员"]   ......
-[name="医疗干员"]   ......嗯？？？
+[name="医疗干员"]   ……
+[name="医疗干员"]   ……嗯？？？
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
-[name="医疗干员"]   阿......阿米娅？
+[name="医疗干员"]   阿……阿米娅？
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   不会让你伤害他们的。
 [Delay=1]
 [Character(name="char_011_talula_1")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Image(image="bg_1_reflect",fadetime=0,screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="char_002_amiya_1#9")]
-[name="阿米娅"]   我不会......允许你这么做的！
+[name="阿米娅"]   我不会……允许你这么做的！
 [PlayMusic(intro="$m_bat_game02_intro", key="$m_bat_game02_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Dialog]
 [CameraShake(duration=6, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
@@ -328,8 +328,8 @@
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.2, block=false)]
-[name="阿米娅"]   咕......
-[name="阿米娅"]   必须......让大家......！
+[name="阿米娅"]   咕……
+[name="阿米娅"]   必须……让大家……！
 [CameraShake(duration=6, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
@@ -351,17 +351,17 @@
 [Character(name="char_148_nearl_1#8")]
 [Delay=1]
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]   阿米娅她一个人......挡下了敌人的法术......？
+[name="杜宾"]   阿米娅她一个人……挡下了敌人的法术……？
 [Character(name="char_148_nearl_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="临光"]   不行......那力量太庞大了......！
-[name="临光"]   哪怕是阿米娅......
+[name="临光"]   不行……那力量太庞大了……！
+[name="临光"]   哪怕是阿米娅……
 [name="临光"]   哪怕是阿米娅也撑不了多久的！
 [Character(name="char_016_medic")]
 [name="医疗干员"]   阿米娅！
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]   没问题......我没问题......
+[name="阿米娅"]   没问题……我没问题……
 [name="阿米娅"]   我没问题的——！
-[name="阿米娅"]   我要......我必须......保护你们！
+[name="阿米娅"]   我要……我必须……保护你们！
 [Dialog]
 [Character(fadetime=1)]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.5)]
@@ -376,37 +376,37 @@
 [Blocker(a=0, fadetime=2, block=true)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, block=false)]
 [Character(name="char_016_medic")]
-[name="医疗干员"]   黑色......将敌人的法术封在了广场上......
+[name="医疗干员"]   黑色……将敌人的法术封在了广场上……
 [Character(name="char_002_amiya_1#9")]
-[name="阿米娅"]   唔......唔啊......呃......！
+[name="阿米娅"]   唔……唔啊……呃……！
 [Character(name="char_013_riop")]
-[name="近卫干员"]   阿米娅......她，她设下的屏障，在燃烧！
+[name="近卫干员"]   阿米娅……她，她设下的屏障，在燃烧！
 [Character(name="char_130_doberm_ex",name2="char_002_amiya_1#9",focus=1)]
 [name="杜宾"]   阿米娅，不可以！！那样的话，你的戒指——！
 [Character(name="char_130_doberm_ex",name2="char_002_amiya_1#4",focus=2)]
-[name="阿米娅"]   哪怕......虽然......
+[name="阿米娅"]   哪怕……虽然……
 [name="阿米娅"]   博士，对不起——
-[name="阿米娅"]   哪怕会带来灾难，哪怕我会......！
+[name="阿米娅"]   哪怕会带来灾难，哪怕我会……！
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]   我也不能......再看着重要的人......
+[name="阿米娅"]   我也不能……再看着重要的人……
 [Character(name="char_011_talula_1")]
 [name="塔露拉"]   呵————
 [name="塔露拉"]   很好。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]   啊......啊啊......！！
+[name="阿米娅"]   啊……啊啊……！！
 [Character(name="char_148_nearl_1#3")]
 [name="临光"]   阿米娅！
-[name="临光"]   可恶......再这样下去，阿米娅会......！
+[name="临光"]   可恶……再这样下去，阿米娅会……！
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=1)]
 [name="杜宾"]   你要干什么？
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=2)]
 [name="临光"]   去毁掉那个龙女的法术！
 [Character(name="char_130_doberm_ex",name2="char_148_nearl_1#3",focus=1)]
-[name="杜宾"]   你......
+[name="杜宾"]   你……
 [Character(name="char_148_nearl_1#3")]
 [name="临光"]   ——“卡西米尔的光芒啊，耀骑士将为你奉献自身——”
 [Character(name="char_130_doberm_ex")]
-[name="杜宾"]   博士！快走！我们会帮助阿米娅的，你必须......
+[name="杜宾"]   博士！快走！我们会帮助阿米娅的，你必须……
 [Character(name="char_011_talula_1")]
 [name="塔露拉"]   ————！
 [Dialog]
@@ -469,16 +469,16 @@
 [Character(name="char_014_riope")]
 [name="Ace"]   杜宾，带他们先走，我一会儿就跟上。
 [Character(name="char_130_doberm_ex")]
-[name="杜宾"]   ......Ace......
+[name="杜宾"]   ……Ace……
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]   Ace......不......Ace......！
-[name="阿米娅"]   一定......要............
+[name="阿米娅"]   Ace……不……Ace……！
+[name="阿米娅"]   一定……要…………
 [Character(fadetime=1.5)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [name="Ace"]   ——
 [name="Ace"]   抱歉，Dr.{@nickname}，你可能不记得我了。
 [name="Ace"]   但我记得你，也知道你是怎样的人。
-[name="Ace"]   ......总有一天，你要和阿米娅一起共同面对这片残酷的大地。
+[name="Ace"]   ……总有一天，你要和阿米娅一起共同面对这片残酷的大地。
 [name="Ace"]   所以，保护好她，博士。
 [name="Ace"]   走吧。
 [name="Ace"]   祝你们前路无阻。

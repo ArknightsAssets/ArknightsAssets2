@@ -17,8 +17,8 @@
 [name="黑"]这东西还在动！
 [character(name="char_457_blitz_1#4", name2="char_456_ash_1#2",focus=1)]
 [name="闪击"]炸弹部署完了，我们得撤了！
-[name="闪击"]它......好像在重生？
-[name="闪击"] 这东西......到底算什么生物？
+[name="闪击"]它……好像在重生？
+[name="闪击"] 这东西……到底算什么生物？
 [character(name="char_457_blitz_1#4", name2="char_456_ash_1#2",focus=2)]
 [name="灰烬"]不管它是什么，这东西都不应该存在于这个世界上。
 [character(name="char_457_blitz_1#4", name2="char_456_ash_1#2",focus=1)]
@@ -64,7 +64,7 @@
 [name="战车"]我没子弹了。
 [name="战车"]巡林者？
 [character(name="char_503_rang#2")]
-[name="巡林者"]我还在......
+[name="巡林者"]我还在……
 [character]
 [dialog]
 [delay(time=1)]
@@ -78,7 +78,7 @@
 [character(name="char_503_rang#2",name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]你的情况看起来可不太好。
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=1)]
-[name="巡林者"]老了，老了......呼......
+[name="巡林者"]老了，老了……呼……
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]你的手怎么了？
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=1)]
@@ -90,8 +90,8 @@
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]没有。
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=1)]
-[name="巡林者"]哈哈哈......
-[name="巡林者"]老夫也没想到我们能坚持这么久......不过也快到极限了。
+[name="巡林者"]哈哈哈……
+[name="巡林者"]老夫也没想到我们能坚持这么久……不过也快到极限了。
 [Dialog]
 [Character]
 [Delay(time=1)]
@@ -109,7 +109,7 @@
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]弄一面盾牌，我其实早想这么试试了。
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=1)]
-[name="巡林者"]哈哈哈......
+[name="巡林者"]哈哈哈……
 [character(name="char_503_rang")]
 [name="巡林者"]这就像是回到了过去，那些有关荣耀的美好时光。
 [name="巡林者"]年轻的巡林者们集结在镇子的入口。
@@ -121,7 +121,7 @@
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]因为他不想忘记那些倒下的人？
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=1)]
-[name="巡林者"]哈哈哈......也许是这样。
+[name="巡林者"]哈哈哈……也许是这样。
 [name="巡林者"]很荣幸和你并肩作战，亚历山大。
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]我也很荣幸，巡林者。
@@ -135,7 +135,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [delay(time=1)]
 [character(name="char_503_rang")]
-[name="巡林者"]等等......那是什么。
+[name="巡林者"]等等……那是什么。
 [Dialog]
 [Character]
 [stopmusic(fadetime=1)]
@@ -152,7 +152,7 @@
 [delay(time=1)]
 [character(name="char_503_rang")]
 [name="巡林者"]是援军！哈哈哈哈哈哈！我们得救了！
-[name="巡林者"]这个手法......是那个年轻人吧。
+[name="巡林者"]这个手法……是那个年轻人吧。
 [Dialog]
 [character]
 [Delay(time=1)]

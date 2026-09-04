@@ -14,7 +14,7 @@
 [Tutorial(focusX=40, focusY=-30, focusWidth=150, focusHeight=150, \
           animStyle="Highlight", focusStyle="HighlightCircle", black=0.5, \
           protectTime=0.5, dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
-啊，敌方选手很快就要进入我负责防守的目标点了——我的目标生命值就要归零了......
+啊，敌方选手很快就要进入我负责防守的目标点了——我的目标生命值就要归零了……
 
 [Battle.Pause(pause=false)]
 [Delay(time=3)]

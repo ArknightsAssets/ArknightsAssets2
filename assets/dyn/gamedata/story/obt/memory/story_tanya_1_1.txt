@@ -7,10 +7,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
 “我们的安全？为什么？那些恶心的实验又是什么？”
-“你们中，有人的亲人，甚至已经因此死去......这就是第一集团军无可洗刷的罪行！”
+“你们中，有人的亲人，甚至已经因此死去……这就是第一集团军无可洗刷的罪行！”
 “瑭雅，你说的怪病就是这么来的？”
-“......是的......我最小的妹妹，妮娜，你们许多人见过她，还有人抱过她......她离开了我们！”
-“......或许你们并没有意识到，如果我们再不行动......那么这种不幸，随时都有可能降临到我们每一个人头上！”
+“……是的……我最小的妹妹，妮娜，你们许多人见过她，还有人抱过她……她离开了我们！”
+“……或许你们并没有意识到，如果我们再不行动……那么这种不幸，随时都有可能降临到我们每一个人头上！”
 [Dialog]
 [StopSound(channel="inside",fadetime=1.5)]
 [Subtitle(text="“为了所有人的明天，跟我走，离开这座坟墓！”", x=260, y=350, alignment="center", size=30, delay=0.04, width=800)]
@@ -29,12 +29,12 @@
 [charslot(slot="r",name="avg_npc_2225_1#1$1",focus="r")]
 [name="图林"]瑭雅，我们的演讲起效了！现在得赶紧帮助他们从这座城里撤出去！
 [charslot(slot="r",name="avg_npc_2225_1#11$1",focus="r")]
-[name="图林"]瑭雅，你还好吗？你看起来有点恍惚......
+[name="图林"]瑭雅，你还好吗？你看起来有点恍惚……
 [charslot(slot="l",name="avg_4225_tanya_1#12$1",focus="l")]
 [name="瑭雅"]我——
 [charslot]
 [name="急迫的居民"]瑭雅！你说，我们该逃到哪里去？我们还能逃到哪里去？
-[name="惊恐的居民"]我的父亲，他瘫痪了......我一个人搬不动他！瑭雅！
+[name="惊恐的居民"]我的父亲，他瘫痪了……我一个人搬不动他！瑭雅！
 [Dialog]
 [PlaySound(key="$d_avg_tinnitus", volume=1)]
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
@@ -47,7 +47,7 @@
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
 [name="瑭雅"]我——
 [charslot(slot="m",name="avg_npc_2226_1#1$1",bstart=0.2,bend=0.7,focus="m")]
-[name="虚弱的居民"]瑭雅......
+[name="虚弱的居民"]瑭雅……
 [Dialog]
 [PlaySound(key="$d_avg_viscousbandage", volume=1)]
 [charslot(slot="m",name="avg_npc_2226_1#1$1",bstart=0.2,bend=0.7,afrom=1, ato=0,duration=1.5,focus="m")]
@@ -63,11 +63,11 @@
 [charslot(slot="l",name="avg_4225_tanya_1#4$1",focus="l")]
 [name="瑭雅"]马克，别怕，我扶着你！
 [charslot(slot="r",name="avg_npc_2226_1#1$1",bstart=0.2,bend=0.7,focus="r")]
-[name="虚弱的居民"]我......到底该......怎么办？
-[name="虚弱的居民"]我真该早点、早点......相信你的，瑭雅，可我当时......太害怕了！
-[name="虚弱的居民"]可就算那样，就算，我不害怕了......我还是会死，对吗？
+[name="虚弱的居民"]我……到底该……怎么办？
+[name="虚弱的居民"]我真该早点、早点……相信你的，瑭雅，可我当时……太害怕了！
+[name="虚弱的居民"]可就算那样，就算，我不害怕了……我还是会死，对吗？
 [charslot(slot="l",name="avg_4225_tanya_1#5$1",focus="l")]
-[name="瑭雅"]马克，我......这种事——
+[name="瑭雅"]马克，我……这种事——
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=40, randomness=90, fadeout=true, block=false)]
 [charslot(slot="r",name="avg_npc_2226_1#1$1",bstart=0.2,bend=0.7,focus="r")]
 [name="虚弱的居民"]我不想死！
@@ -86,8 +86,8 @@
 [charslot(slot="l",name="avg_4225_tanya_1#12$1",focus="l")]
 [name="瑭雅"]不。
 [charslot(slot="l",name="avg_4225_tanya_1#12$1",focus="n")]
-[name="“马克”"]你为什么，要我去替你照顾......照顾妮娜？
-[name="“马克”"]我原本，也能像你一样......活下去。
+[name="“马克”"]你为什么，要我去替你照顾……照顾妮娜？
+[name="“马克”"]我原本，也能像你一样……活下去。
 [Dialog]
 [charslot]
 [focusout(duration=0, type="bg", from=1, to=0, block=true)]
@@ -104,7 +104,7 @@
 [charslot(slot="r",name="avg_npc_2225_1#1$1",focus="r")]
 [name="图林"]你过呼吸了。
 [charslot(slot="l",name="avg_4225_tanya_1#6$1",focus="l")]
-[name="瑭雅"]我......没事，图林。
+[name="瑭雅"]我……没事，图林。
 [charslot(slot="l",name="avg_4225_tanya_1#12$1",focus="l")]
 [name="瑭雅"]我先去清洗一下，然后再去帮大家疏散出城。
 [Dialog]
@@ -116,9 +116,9 @@
 [Dialog]
 她拧开水龙头，用力地搓洗自己的双手和脸，直至皮肤上传来的疼痛感逼迫她停下。
 纳杰日达医生曾将她对污染物的偏执和强迫性反应称为“洁癖”，但瑭雅知道自己其实并不怕脏。
-她真正恐惧的是......
+她真正恐惧的是……
 [charslot(slot="m",name="avg_4225_tanya_1#2$1",focus="m")]
-[name="瑭雅"]......停下。
+[name="瑭雅"]……停下。
 [name="瑭雅"]你该去救其他人了，瑭雅。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -131,7 +131,7 @@
 [PlaySound(key="$d_avg_knockdoorfast", volume=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
-[name="迷茫的男人"]发生......什么事了？
+[name="迷茫的男人"]发生……什么事了？
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="m")]
 [name="瑭雅"]集团军的人要毁掉泽尔格勒，不能再待在这里了。尽快收拾东西，我带你们去疏散集合点！
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="n")]
@@ -148,11 +148,11 @@
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="m")]
 [name="瑭雅"]集团军的人要毁掉泽尔格勒，不能再待在这里了。带上行李，跟我走！
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="n")]
-[name="犹豫的女性"]我听见了你们的演讲，我明白了......
+[name="犹豫的女性"]我听见了你们的演讲，我明白了……
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="m")]
 [name="瑭雅"]把拿不动的行李都给我，我来背！
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="n")]
-[name="犹豫的女性"]谢谢......
+[name="犹豫的女性"]谢谢……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
@@ -170,7 +170,7 @@
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
 [name="瑭雅"]孩子，你家的大人呢？
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="n")]
-[name="和家人失散的女孩"]妈妈，爸爸......我在街上......好多人，我找不到——
+[name="和家人失散的女孩"]妈妈，爸爸……我在街上……好多人，我找不到——
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
 [name="瑭雅"]爬到我背上来，孩子。我背你到疏散点去，找到你的爸妈后我会告诉他们！
 [Dialog]
@@ -187,14 +187,14 @@
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
 [charslot(slot="m",posfrom="60,-20", posto="60,-150",afrom=1, ato=0,duration=1.5,focus="m")]
 [Delay(time=1.6)]
-[name="和家人失散的女孩"]啊！好痛！瑭雅姐姐，你摔到我了......
+[name="和家人失散的女孩"]啊！好痛！瑭雅姐姐，你摔到我了……
 [name="和家人失散的女孩"]你的腿一直在抖，你的背也湿透了！
 [name="瑭雅"]抱歉，孩子，你尽量抓紧我！
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot="m",posfrom="60,-150", posto="60,0",afrom=0, ato=1,duration=1.5,focus="m")]
 [Delay(time=2)]
-[name="瑭雅"]（自言自语）坚持住，你还有力气，你还能救更多人出去......
+[name="瑭雅"]（自言自语）坚持住，你还有力气，你还能救更多人出去……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -206,7 +206,7 @@
 [Delay(time=2)]
 [name="瑭雅"]路基娜女士！路基娜女士！
 [charslot(slot="m",name="avg_npc_093",focus="m")]
-[name="路基娜"]啊！来了......
+[name="路基娜"]啊！来了……
 [charslot]
 [Dialog]
 [Delay(time=1)]
@@ -221,11 +221,11 @@
 [charslot(slot="m",name="avg_npc_093#4",focus="m")]
 [name="路基娜"]天哪！瑭雅，你已经把你的弟弟妹妹们送出去了吗？
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
-[name="瑭雅"]没有。我拜托了其他人去带他们离开。我没顾得上回自己家......
+[name="瑭雅"]没有。我拜托了其他人去带他们离开。我没顾得上回自己家……
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
 [name="瑭雅"]我已经敲开了几十扇房门，帮着几十个家庭疏散出城，我还有很多扇门要去敲。
 [charslot(slot="m",name="avg_npc_093#5",focus="m")]
-[name="路基娜"]好吧好吧，我明白了，我得去收拾我的行李......
+[name="路基娜"]好吧好吧，我明白了，我得去收拾我的行李……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",afrom=1, ato=0,duration=1.5,focus="m")]
@@ -233,19 +233,19 @@
 [charslot]
 [PlaySound(key="$d_avg_rummagething_loop",loop=true,volume=1,channel="fanzhao")]
 [name="路基娜"]我结婚时置办的裙子，虽然穿不上了，可还是崭新的呢！
-[name="路基娜"]我的那些镀银的餐具，还一次都没用过！一，二，三，四......五套都在，呼，还好还好。
+[name="路基娜"]我的那些镀银的餐具，还一次都没用过！一，二，三，四……五套都在，呼，还好还好。
 [name="路基娜"]还有相片，我怎么能不带上相片呢？它们被我收拾得整整齐齐的，这些都得带上。
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
-[name="瑭雅"]只带生活必需品就可以了......请您再快一点可以吗？这里离疏散集合点还有一段路要走。
+[name="瑭雅"]只带生活必需品就可以了……请您再快一点可以吗？这里离疏散集合点还有一段路要走。
 [charslot]
 [name="路基娜"]可是，我在这屋子里住了大半辈子，这里的东西没有一件是没用的。
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
 [name="瑭雅"]那就只带最有价值的几件走，太沉了我也拿不动。
 [charslot]
 [StopSound(channel="fanzhao", fadetime=1)]
-[name="路基娜"]最有价值，最有价值......哎呀，我怎么能把那对金耳环忘了呢！
+[name="路基娜"]最有价值，最有价值……哎呀，我怎么能把那对金耳环忘了呢！
 [name="路基娜"]那可是我先生送我的第一件礼物，虽然只是用铜跟锌做的假金子，但对我来说就是最有价值的。
-[name="路基娜"]我把它们藏在哪里了？这可得好好找找......
+[name="路基娜"]我把它们藏在哪里了？这可得好好找找……
 [Dialog]
 [Background(image="73_g3_exurbroom",xScale=1.2, yScale=1.2, fadetime=1, screenadapt="coverall")]
 [PlaySound(key="$dooropenquite", volume=1)]
@@ -267,7 +267,7 @@
 [Background(image="73_g3_exurbroom",xScale=1, yScale=1, fadetime=1, screenadapt="coverall")]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
-[name="瑭雅"]......不行，路基娜女士，我没办法在这里空耗着。您先收拾行李吧，我把这条街上剩下的人家都疏散完就回来接您。
+[name="瑭雅"]……不行，路基娜女士，我没办法在这里空耗着。您先收拾行李吧，我把这条街上剩下的人家都疏散完就回来接您。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",afrom=1, ato=0,duration=1.5,focus="m")]
@@ -297,7 +297,7 @@
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="n")]
 卧室门紧锁着。没有半点动静。
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
-[name="瑭雅"]该死......
+[name="瑭雅"]该死……
 [Dialog]
 [PlaySound(key="$d_avg_punchwindow",volume=0.8)]
 [CameraShake(duration=0.3, xstrength=25, ystrength=25, vibrato=30, randomness=75, fadeout=true, block=false)]
@@ -319,7 +319,7 @@
 [focusout(duration=1.5, type="bg", from=0, to=1, block=true)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4225_tanya_1#5$1",focus="m")]
-[name="瑭雅"]求您了......把门打开。
+[name="瑭雅"]求您了……把门打开。
 [Dialog]
 [stopmusic(fadetime=2)]
 [charslot(slot="l",name="avg_npc_2227_1#6$1",afrom=0, ato=1,bstart=0.2,bend=0.7,duration=1.5,focus="l")]
@@ -340,11 +340,11 @@
 [Delay(time=2)]
 [playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="n")]
-[name="瑭雅"]我想撞开这扇门......父亲。
+[name="瑭雅"]我想撞开这扇门……父亲。
 [charslot(slot="l",action="zoom",name="avg_npc_2227_1#7$1",poszoom = "0.5,0.6",bstart=0.2,bend=0.7,scale=1.8,focus="l",duration=0)]
 [name="“父亲”"]哦不不，小瑭雅，我们的游戏规则不是这样的。
 [charslot(slot="l",action="zoom",name="avg_npc_2227_1#7$1",poszoom = "0.5,0.6",bstart=0.2,bend=0.7,scale=1.8,focus="l",duration=0)]
-[name="“父亲”"]你看，你得先穿好防护服，带上水管......
+[name="“父亲”"]你看，你得先穿好防护服，带上水管……
 [charslot(slot="l",action="zoom",name="avg_npc_2227_1#7$1",poszoom = "0.5,0.6",bstart=0.2,bend=0.7,scale=1.8,focus="n",duration=0)]
 [name="“小瑭雅”"]就像爸爸上班时那样？
 [charslot(slot="l",action="zoom",name="avg_npc_2227_1#1$1",poszoom = "0.5,0.6",bstart=0.2,bend=0.7,scale=1.8,focus="l",duration=0)]
@@ -361,7 +361,7 @@
 [Background(image="73_g3_exurbroom",screenadapt="coverall",fadetime=2.5,block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="m")]
-[name="瑭雅"]爸爸......
+[name="瑭雅"]爸爸……
 [charslot(slot="l",name="avg_npc_2227_1#1$1",bstart=0.2,bend=0.7,focus="l")]
 [name="“父亲”"]你长大了，瑭雅。你的个子快要比我还高了。
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
@@ -369,22 +369,22 @@
 [charslot(slot="l",name="avg_npc_2227_1#3$1",bstart=0.2,bend=0.7,focus="l")]
 [name="“父亲”"]（叹气）是啊，抱歉。
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
-[name="瑭雅"]你留下来的那些消防员的装备，还在家里......它们会留在泽尔格勒，而我会离开。
+[name="瑭雅"]你留下来的那些消防员的装备，还在家里……它们会留在泽尔格勒，而我会离开。
 [charslot(slot="l",name="avg_npc_2227_1#1$1",bstart=0.2,bend=0.7,focus="l")]
 [name="“父亲”"]没关系，它们更像是一种符号。在火场里，那些偷工减料的“防护服”其实起不到多大的作用。
 [name="“父亲”"]每位孤身赴险的消防员，最终能倚仗的，只有内心的勇气，无论是天生的，还是强撑出来的。
 [charslot(slot="m",name="avg_4225_tanya_1#8$1",focus="m")]
-[name="瑭雅"]你还活着时，从没跟我说过这些......或者说，你根本不愿意和其他人说话。
+[name="瑭雅"]你还活着时，从没跟我说过这些……或者说，你根本不愿意和其他人说话。
 [charslot(slot="m",name="avg_4225_tanya_1#5$1",focus="m")]
 [name="瑭雅"]所以，我一直都想问你，为什么要和妈妈一起搬到泽尔格勒的工地上？为什么选择当一名连自身安全都没办法保障的消防员？
 [charslot(slot="l",name="avg_npc_2227_1#3$1",bstart=0.2,bend=0.7,focus="l")]
 [name="“父亲”"]小瑭雅，在你出生之前，我和你妈妈就做了许多决定。也许我因此欠你许多声抱歉。
-[name="“父亲”"]但说起这一切的原因，我想应该是......
+[name="“父亲”"]但说起这一切的原因，我想应该是……
 [charslot(slot="l",name="avg_npc_2227_1#6$1",bstart=0.2,bend=0.7,focus="l")]
 [name="“父亲”"]我决定做一个勇敢的人。
 [name="“父亲”"]现在，我看见了你，我发现你也是一样。
 [charslot(slot="m",name="avg_4225_tanya_1#2$1",focus="m")]
-[name="瑭雅"]......是吗......
+[name="瑭雅"]……是吗……
 [charslot(slot="l",name="avg_npc_2227_1#1$1",bstart=0.2,bend=0.7,focus="l")]
 [name="“父亲”"]让我来帮你吧，瑭雅。
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
@@ -409,8 +409,8 @@
 路基娜女士躺在翻倒的梯凳旁，摔破的额角淌出黏稠的血，顶柜上的鞋盒散落一地。
 她的右手紧握成拳，里面明显攥着什么。
 瑭雅闭上眼。她知道路基娜女士死也不肯松开的那只手里，到底攥着什么。
-[name="瑭雅"]......你找到那对耳环了。
-[name="瑭雅"]我来晚了。我不该......离开的。
+[name="瑭雅"]……你找到那对耳环了。
+[name="瑭雅"]我来晚了。我不该……离开的。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -420,7 +420,7 @@
 [Delay(time=1)]
 [name="感激的居民"]发生什么事了，瑭雅？你怎么满脸是汗？
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
-[name="瑭雅"]......
+[name="瑭雅"]……
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -430,7 +430,7 @@
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
 [name="感激的居民"]你说的是，疏散出城？集合点？那地方在哪里？
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
-[name="瑭雅"]......
+[name="瑭雅"]……
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -440,7 +440,7 @@
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
 [name="感激的居民"]好，我知道该怎么走了，谢谢你！
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
-[name="瑭雅"]......
+[name="瑭雅"]……
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
 [name="焦急的居民"]出什么事了吗？为什么这么用力地敲门？
 [Dialog]
@@ -449,14 +449,14 @@
 [Sticker(id="st3",duration=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
-[name="焦急的居民"]原来如此，我明白了......你的脸色不太对劲，你还好吗？
+[name="焦急的居民"]原来如此，我明白了……你的脸色不太对劲，你还好吗？
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Sticker(id="st4", multi = true, text="“就算你一直在那里等她......”", x=190,y=490, alignment="right", size=35, delay=0.04, width=900,duration=1.3,block = true)]
+[Sticker(id="st4", multi = true, text="“就算你一直在那里等她……”", x=190,y=490, alignment="right", size=35, delay=0.04, width=900,duration=1.3,block = true)]
 [Sticker(id="st4",duration=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="n")]
-[name="焦急的居民"]没事就好。我们这就出发。保重......瑭雅。
+[name="焦急的居民"]没事就好。我们这就出发。保重……瑭雅。
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Sticker(id="st4", multi = true, text="“你已经做了能做到的一切，瑭雅。”", x=190,y=360, alignment="center", size=33, delay=0.04, width=900,duration=1.3,block = true)]
@@ -481,23 +481,23 @@
 [Delay(time=2)]
 [name="“母亲”"]啊，你提前回来了，小瑭雅？
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="m")]
-[name="瑭雅"]......
+[name="瑭雅"]……
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
 [name="瑭雅"]妈妈。
 [charslot(slot="m",name="avg_npc_2228_1#1$1",focus="m")]
 [name="“母亲”"]今天我换班调休，就想着在家里煲点汤，你来得正好呀，这锅汤马上就好了。
 [name="“母亲”"]等你喝完，我就带你去工地上逛一逛，让你看看妈妈平时是怎么操作混凝土搅拌机的，好不好？
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
-[name="瑭雅"]你工作的工地......已经没了。那里变成了一栋楼。
+[name="瑭雅"]你工作的工地……已经没了。那里变成了一栋楼。
 [charslot(slot="m",name="avg_npc_2228_1#4$1",focus="m")]
 [multiline(name="“母亲”")]是吗？那还真是可惜。
 [charslot(slot="m",name="avg_npc_2228_1#1$1",focus="m")]
 [multiline(name="“母亲”")]不过没关系，今天的天气不错，我们就算只是晒晒太阳，也很好呀。
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="m")]
-[name="瑭雅"]妈妈，你不会......累吗？
+[name="瑭雅"]妈妈，你不会……累吗？
 [charslot(slot="m",name="avg_npc_2228_1#1$1",focus="m")]
 [name="“母亲”"]工地上的活儿当然不轻松，可回到家里，我才不想变成个扫兴鬼。
-[name="“母亲”"]再说，看看这些花朵，看看这阳光，看看我的宝贝孩子们，看看这锅放多了盐的汤......
+[name="“母亲”"]再说，看看这些花朵，看看这阳光，看看我的宝贝孩子们，看看这锅放多了盐的汤……
 [name="“母亲”"]小瑭雅，我们必须要从生活里找出那些美好的东西，才能说服自己坚持下去，大家不都是这样的吗？
 [charslot]
 [Dialog]
@@ -514,23 +514,23 @@
 [charslot(slot="r",name="avg_npc_2227_1#4$1",focus="r")]
 [name="“父亲”"]啊，小瑭雅，你又比我先到家。
 [charslot(slot="r",name="avg_npc_2227_1#6$1",focus="r")]
-[name="“父亲”"]看起来，你很累，有很多烦恼，还有很多忧心的事情......
+[name="“父亲”"]看起来，你很累，有很多烦恼，还有很多忧心的事情……
 [charslot(slot="l",name="avg_npc_2228_1#3$1",focus="l")]
 [name="“母亲”"]为什么不和我们讲一讲呢？
 [charslot]
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="m")]
-[name="瑭雅"]你们......有没有闻到，一股奇怪的味道？
+[name="瑭雅"]你们……有没有闻到，一股奇怪的味道？
 [charslot]
 [charslot(slot="l",name="avg_npc_2228_1#4$1",focus="l")]
 [charslot(slot="r",name="avg_npc_2227_1#6$1",focus="n")]
-[name="“母亲”"]啊，恐怕是......
+[name="“母亲”"]啊，恐怕是……
 [charslot]
 [charslot(slot="m",name="avg_4225_tanya_1#8$1",focus="m")]
 [name="瑭雅"]不，妈妈，你经常会在玉米浓汤里放错调料，但我闻到的，不是那种味道。
 [charslot]
 [charslot(slot="l",name="avg_npc_2228_1#4$1",focus="n")]
 [charslot(slot="r",name="avg_npc_2227_1#4$1",focus="r")]
-[name="“父亲”"]难道是玛莎或者格里沙或者达莉娅或者妮娜......
+[name="“父亲”"]难道是玛莎或者格里沙或者达莉娅或者妮娜……
 [charslot]
 [charslot(slot="m",name="avg_4225_tanya_1#2$1",focus="m")]
 [name="瑭雅"]不，也不是尿布和奶粉的味道。
@@ -539,11 +539,11 @@
 [charslot(slot="r",name="avg_npc_2227_1#3$1",focus="r")]
 [name="“父亲”"]会不会是你忧虑过度了，瑭雅？
 [charslot(slot="l",name="avg_npc_2228_1#3$1",focus="l")]
-[name="“母亲”"]孩子......听着，我真的很抱歉，我和你的爸爸离开了你。一直以来，你不得不独自面对很多事情。
+[name="“母亲”"]孩子……听着，我真的很抱歉，我和你的爸爸离开了你。一直以来，你不得不独自面对很多事情。
 [name="“母亲”"]但现在，我和你的爸爸都在这里。如果你想说什么，就说吧。
 [charslot]
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
-[name="瑭雅"]我闻到的......是尸体发臭的味道。
+[name="瑭雅"]我闻到的……是尸体发臭的味道。
 [name="瑭雅"]纳杰日达医生说，人死后几小时，尸体就会开始发臭。
 [charslot]
 [charslot(slot="l",name="avg_npc_2228_1#3$1",focus="n")]
@@ -551,19 +551,19 @@
 [name="“父亲”"]不要再苛责自己了，小瑭雅。路基娜的死不是你的过错。你没办法照顾到所有人，你只是一个凡人。
 [charslot]
 [charslot(slot="m",name="avg_4225_tanya_1#1$1",focus="m")]
-[name="瑭雅"]我不是说路基娜女士，我是说......你们。
+[name="瑭雅"]我不是说路基娜女士，我是说……你们。
 [charslot(slot="m",name="avg_4225_tanya_1#2$1",focus="m")]
 [name="瑭雅"]爸爸妈妈，你们已经死了。
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
 [multiline(name="瑭雅")]工地不在了，消防队被裁撤了，我们住过的房子被拆掉了，
 [charslot(slot="m",name="avg_4225_tanya_1#5$1",focus="m")]
-[multiline(name="瑭雅")]就连妮娜......
+[multiline(name="瑭雅")]就连妮娜……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=40, randomness=90, fadeout=true, block=false)]
 [name="瑭雅"]就连妮娜也死了！
 [charslot]
 [charslot(slot="l",name="avg_npc_2228_1#3$1",focus="n")]
 [charslot(slot="r",name="avg_npc_2227_1#3$1",focus="r")]
-[name="“父亲”"]......
+[name="“父亲”"]……
 [charslot]
 [charslot(slot="m",name="avg_4225_tanya_1#5$1",focus="m")]
 [name="瑭雅"]爸爸。我记忆中的爸爸，那个勇敢的消防员，他不怕火，也不怕死。可他老了，变成了一个酒鬼，变成了一个喜怒无常的疯子。
@@ -572,7 +572,7 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_2228_1#3$1",focus="l")]
 [charslot(slot="r",name="avg_npc_2227_1#3$1",focus="n")]
-[name="“母亲”"]......
+[name="“母亲”"]……
 [charslot]
 [charslot(slot="m",name="avg_4225_tanya_1#5$1",focus="m")]
 [name="瑭雅"]妈妈。我记忆中的妈妈永远是那样温柔、强壮，永远是那么善良。她教会了我和每一个弟弟妹妹，要用一颗善良包容的心去对待他人。
@@ -588,10 +588,10 @@
 [charslot(slot="r",name="avg_npc_2227_1#3$1")]
 [CameraEffect(effect="Grayscale",fadetime=1.5,amount=0.8, keep=true)]
 [Delay(time=2)]
-[name="瑭雅"]你们......早就死了。
+[name="瑭雅"]你们……早就死了。
 瑭雅眼前的身影开始摇晃，变得模糊，似乎有消失的迹象。
 瑭雅没有去挽留，即便那些鲜活的记忆，早已成为她内心所有勇敢、正直、坚强和同理心的根源。
-[name="“母亲”&“父亲”"]不，孩子......
+[name="“母亲”&“父亲”"]不，孩子……
 [Dialog]
 [charslot(slot="l",afrom=1, ato=0,duration=1.5)]
 [charslot(slot="r",afrom=1, ato=0,duration=1.5)]
@@ -619,9 +619,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
-[name="瑭雅"]我的手上......为什么多出来了这么多伤口？
-[name="瑭雅"]我的胸口为什么这么痛......
-[name="瑭雅"]还有多少户人家需要疏散......
+[name="瑭雅"]我的手上……为什么多出来了这么多伤口？
+[name="瑭雅"]我的胸口为什么这么痛……
+[name="瑭雅"]还有多少户人家需要疏散……
 [charslot]
 [Dialog]
 [PlaySound(key="$d_avg_tinnitus", volume=1)]
@@ -632,19 +632,19 @@
 瑭雅回过神，发现自己正站在石墙边，面对一排人去楼空的居民楼。
 她感到天旋地转，脚下的道路就像面团一样柔软，稍稍一动，身上的每个关节都隐约发出酸涩的摩擦声。
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
-[name="瑭雅"]不要再去想了，那只是......幻觉。现在不是时候......真不是时候。
-[name="瑭雅"]我还得，继续......
+[name="瑭雅"]不要再去想了，那只是……幻觉。现在不是时候……真不是时候。
+[name="瑭雅"]我还得，继续……
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="n")]
 [name="？？？"]（虚弱的咳嗽声）
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="m")]
-[name="瑭雅"]......妮娜？！
+[name="瑭雅"]……妮娜？！
 [charslot]
 一个黑影摇晃着从巷道的角落里站了起来，不怀好意地看向她。
 [Dialog]
 [PlaySound(key="$d_avg_viscousbandage", volume=1)]
 [charslot(slot="m",name="avg_npc_2226_1#1$1",bstart=0.2,bend=0.7,afrom=0, ato=1,duration=1.5,focus="m")]
 [Delay(time=2)]
-[name="“妮娜”"]瑭雅......姐姐？
+[name="“妮娜”"]瑭雅……姐姐？
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="m")]
 [name="瑭雅"]不，你不是妮娜！
 [charslot(slot="m",name="avg_4225_tanya_1#3$1",focus="m")]
@@ -669,7 +669,7 @@
 [Dialog]
 [charslot(slot="l",name="avg_npc_093",bstart=0.2,bend=0.7,afrom=0, ato=1,duration=1.5,focus="l")]
 [Delay(time=2)]
-[name="“路基娜”"]我是所有因你而死的人，瑭雅。认识这张脸吗？你才刚刚见过她，可怜的路基娜女士......
+[name="“路基娜”"]我是所有因你而死的人，瑭雅。认识这张脸吗？你才刚刚见过她，可怜的路基娜女士……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=40, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",action="zoom",poszoom = "0.5,0.6",scale=1.2,duration=0,name="avg_4225_tanya_1#3$1",focus="m")]
 [name="瑭雅"]滚开！你这个疯子！
@@ -678,7 +678,7 @@
 [Delay(time=1.1)]
 [name="“路基娜”"]你到底要我站住，还是滚开？我们之中，到底谁更像疯子？
 [charslot(slot="m",action="zoom",poszoom = "0.5,0.6",scale=1.2,duration=0,name="avg_4225_tanya_1#7$1",focus="m")]
-[name="瑭雅"]你只不过是我的幻觉......
+[name="瑭雅"]你只不过是我的幻觉……
 [Dialog]
 [charslot(slot="r",name="avg_npc_2226_1#1$1",bstart=0.2,bend=0.7,afrom=0, ato=1,duration=1,focus="l")]
 [Delay(time=1.5)]
@@ -689,7 +689,7 @@
 [charslot(slot="l",action="zoom",poszoom = "0.5,0.6",scale=1.6,name="avg_npc_2234_1#1$1",bstart=0.2,bend=0.7,afrom=1, ato=0,posfrom="0,0", posto="100,0",duration=0)]
 [charslot(slot="l",afrom=0, ato=1,duration=1,focus="l")]
 [Delay(time=1.1)]
-[name="“妮娜”"]看看你的妹妹，她本该长大的......我本该长到这么高的，姐姐。
+[name="“妮娜”"]看看你的妹妹，她本该长大的……我本该长到这么高的，姐姐。
 [name="“妮娜”"]你以为你在救人，但你其实是在害死他们。离开泽尔格勒，他们不会感谢你，只会怪罪你！
 [name="“妮娜”"]“我们的房子呢？”“我们的面包呢？”“瑭雅，帮帮我们！”哦，可怜的瑭雅，你究竟能帮到谁？
 [charslot(slot="m",action="zoom",poszoom = "0.5,0.6",scale=1.2,duration=0,name="avg_4225_tanya_1#7$1",focus="n")]
@@ -730,11 +730,11 @@
 [stopsound(channel="1",fadetime=1.5)]
 [delay(time=2)]
 [name="瑭雅"]该死！你躲到哪里去了！
-[name="瑭雅"]这是路基娜女士的家......你为什么要带我来这里？！
+[name="瑭雅"]这是路基娜女士的家……你为什么要带我来这里？！
 [charslot(slot="m",name="avg_4225_tanya_1#3$1",focus="m")]
 [name="瑭雅"]你为什么一定要否定我？为什么要羞辱我？！
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="m")]
-[name="瑭雅"]......柜子，窗帘......我发现你了。
+[name="瑭雅"]……柜子，窗帘……我发现你了。
 [Dialog]
 [PlaySound(key="$d_avg_cutrope", volume=1,channel="cut1")]
 [Delay(time=0.1)]
@@ -755,9 +755,9 @@
 一个趁着城中混乱不堪，潜入各家各户偷走遗留之物的窃贼，发现了路基娜女士的尸体，掰开了她早已僵硬的手，强行取走了那对耳环。
 [charslot(slot="l",name="avg_4225_tanya_1#7$1",focus="l")]
 [charslot(slot="r",name="avg_npc_2166_1#1$1",focus="l")]
-[name="瑭雅"]你为什么......
+[name="瑭雅"]你为什么……
 [charslot(slot="l",name="avg_4225_tanya_1#12$1",focus="l")]
-[name="瑭雅"]不，我想不通......
+[name="瑭雅"]不，我想不通……
 [charslot(slot="r",name="avg_npc_2166_1#1$1",focus="r")]
 [name="窃贼"]我可以解释！我偷来的东西可以分你一半！
 [name="窃贼"]求求你别杀我！
@@ -773,12 +773,12 @@
 为什么有人如此愚蠢，连即将到来的灭顶之灾也无法看清，甚至毫不在乎？
 不然的话，他为什么会在这种时候，仍然热衷于去那些废物堆里翻找，去别人家里偷窃，甚至乐在其中？
 他难道不清楚那些被污染的物件，也许会要了他的命？
-纵然他愚蠢不堪，可为什么......
+纵然他愚蠢不堪，可为什么……
 他要如此残忍、自私、卑劣地，从一具尸体手中抢走一对假的金耳环？
 [Dialog]
 [focusout(duration=1.5, type="bg", from=1, to=0, block=true)]
 [Delay(time=1.5)]
-[multiline(name="窃贼")]你......不要过来——
+[multiline(name="窃贼")]你……不要过来——
 [PlaySound(key="$d_avg_punch", volume=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=70, fadeout=true, block=false)]
 [multiline(name="窃贼")]啊！
@@ -789,10 +789,10 @@
 [focusout(duration=0.5, type="bg", from=0, to=0.2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4225_tanya_1#12$1",focus="n")]
-[name="“窃贼”"]哈哈......哈哈哈！
+[name="“窃贼”"]哈哈……哈哈哈！
 [name="“窃贼”"]连你的愤怒，都是这么软弱无力。
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="m")]
-[name="瑭雅"]你说......什么？
+[name="瑭雅"]你说……什么？
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="n")]
 [name="“窃贼”"]你如此热衷于鼓动大家逃离，究其原因，不过是你怕死吧？
 [name="“窃贼”"]你所谓的洁癖也是，你根本不在乎弄脏自己，你只是怕死。
@@ -808,7 +808,7 @@
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="n")]
 [name="“窃贼”"]你杀不死我，我和你的爸爸妈妈妹妹一样，我早就死了！
 [name="“窃贼”"]凭什么你还活着？凭什么？！
-[name="“窃贼”"]你才是最卑劣的那一个，你为了活下去，无所不用其极......
+[name="“窃贼”"]你才是最卑劣的那一个，你为了活下去，无所不用其极……
 [name="“窃贼”"]甚至连你用来号召其他人的名号，都不属于你，你从整合运动那里偷来了这个名字！
 [name="“窃贼”"]你哪里像个整合运动了？你连演讲都比不过别人！那个图林都比你更像真正的整合运动！
 [name="“窃贼”"]你才是最大的窃贼！
@@ -822,7 +822,7 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4225_tanya_1#7$1",focus="n")]
 [name="“窃贼”"]你用这个名头，号召别人替你送死，很光荣吗？
-[name="“窃贼”"]想通了这一切之后，你又打算怎么做呢......杀了我，然后自杀？
+[name="“窃贼”"]想通了这一切之后，你又打算怎么做呢……杀了我，然后自杀？
 [name="“窃贼”"]哈哈哈哈哈！
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -840,7 +840,7 @@
 [PlaySound(key="$d_avg_punch02", volume=1,channel="punch4")]
 [Delay(time=0.5)]
 瑭雅已经看不清眼前的一切，她只是机械地挥出拳头，痛殴着那个幽灵，试图让它闭上嘴，或是让自己的思维停止崩溃。
-“杀了它，然后......”
+“杀了它，然后……”
 [charslot(slot="m",name="avg_npc_2225_1#9$1",focus="m")]
 [name="？？？"]住手！
 [Dialog]
@@ -850,28 +850,28 @@
 [charslot(slot="m",name="avg_npc_2225_1#9$1",focus="m")]
 [name="图林"]他快被你打死了！
 [charslot(slot="m",name="avg_4225_tanya_1#13$1",focus="m")]
-[name="瑭雅"]......什么......
+[name="瑭雅"]……什么……
 [charslot]
 眼前没有那个漆黑的幽灵，只有一个鼻青脸肿、说不出话来的年轻人。
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4225_tanya_1#5$1",focus="m")]
-[name="瑭雅"]我都做了......什么......
+[name="瑭雅"]我都做了……什么……
 [charslot(slot="m",name="avg_npc_2225_1#1$1",focus="m")]
 [name="图林"]像这种趁火打劫的蠢货固然可恶，但你也不该这么做！
 [charslot(slot="m",name="avg_npc_2225_1#6$1",focus="m")]
 [name="图林"]想想你的那些口号，想想——想想你用过的“整合运动”这个名字！你现在必须清醒过来！
 [charslot(slot="m",name="avg_4225_tanya_1#5$1",focus="m")]
-[name="瑭雅"]可是......
+[name="瑭雅"]可是……
 [charslot(slot="m",name="avg_npc_2225_1#9$1",focus="m")]
 [name="图林"]他做的事情是邪恶的，但真正的罪恶并不仅仅在于他。
 [charslot(slot="m",name="avg_4225_tanya_1#8$1",focus="m")]
-[name="瑭雅"]真正的罪恶......要怪那些把我们教导得如此愚蠢而自私的人，是吗？
+[name="瑭雅"]真正的罪恶……要怪那些把我们教导得如此愚蠢而自私的人，是吗？
 [name="瑭雅"]是躲在那面墙后面操纵这一切的人，对吗？
 [charslot(slot="m",name="avg_npc_2225_1#9$1",focus="m")]
 [name="图林"]不仅在墙后面，也在军舰里面，在皇宫里面。
 [name="图林"]赶紧收拾干净吧，我们的疏散任务还没有完成。
 [charslot(slot="m",name="avg_4225_tanya_1#2$1",focus="m")]
-[name="瑭雅"]......
+[name="瑭雅"]……
 [charslot]
 [Dialog]
 [Delay(time=1.5)]
@@ -885,17 +885,17 @@
 瑭雅看见那个漆黑的幽灵藏匿在那些血液中，她低下头，确认自己真的想通了。
 于是她从衣兜里掏出绷带，开始为那个窃贼包扎。
 [charslot(slot="m",name="avg_4225_tanya_1#2$1",focus="m")]
-[name="瑭雅"]抱歉......
+[name="瑭雅"]抱歉……
 [charslot(slot="m",name="avg_4225_tanya_1#9$1",focus="m")]
 [name="瑭雅"]我还是决定，要活下去。
 [charslot]
 那个漆黑的幽灵似乎在她说出这句话的时候突然烟消云散了。
 她眼前的一切和脑中的图景从未如此清晰。
 [charslot(slot="m",name="avg_4225_tanya_1#8$1",focus="m")]
-[name="瑭雅"]昨天，昨天的昨天......都已经死了。
+[name="瑭雅"]昨天，昨天的昨天……都已经死了。
 [charslot(slot="m",name="avg_4225_tanya_1#2$1",focus="m")]
 [name="瑭雅"]可我还是要活着。
-[name="瑭雅"]我还是要......救人。
+[name="瑭雅"]我还是要……救人。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]

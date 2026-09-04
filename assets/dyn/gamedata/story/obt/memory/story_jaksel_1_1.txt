@@ -36,12 +36,12 @@
 [name="急切的记者"]你好！麻烦看下这边可以吗？
 [name="急切的记者"]你对此事不做任何回应是代表了官方的态度吗？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="m",name="avg_npc_523_1#1$1",focus="m")]
 [name="无礼的记者"]请不要回避我们的镜头。
 [name="无礼的记者"]你在此之前是否对此事知情呢？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]我......
+[name="杰克"]我……
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]杰克警官。
 [name="独立记者"]事实已经摆在了这里，请正面回答！
@@ -90,8 +90,8 @@
 [PlaySound(key="$bodyfalldown2",volume=1,delay=0.5)]
 [delay(time=1)]
 [charslot(slot="l",name="avg_347_jaksel_1#2$1",focus="none")]
-[name="罗德岛干员"]......
-[name="罗德岛干员"]杰克干员，你是不是有点太兴奋了......
+[name="罗德岛干员"]……
+[name="罗德岛干员"]杰克干员，你是不是有点太兴奋了……
 [charslot(slot="l",name="avg_347_jaksel_1#4$1",focus="l")]
 [name="杰克"]对不起对不起，你没事吧！
 [name="杰克"]有没有受伤！
@@ -106,7 +106,7 @@
 [name="罗德岛干员"]我没事，不过你自己倒是小心一点。
 [name="罗德岛干员"]作为即将接受表彰的救人英雄，可别在会议开始前弄伤自己了。
 [charslot(slot="l",name="avg_347_jaksel_1#3$1",focus="l")]
-[name="杰克"]嘿嘿......
+[name="杰克"]嘿嘿……
 [Dialog]
 [charslot(slot = "l",posfrom="260,0",posto="0,0",duration=1.5,isblock=true)]
 [charslot(slot="r",name="avg_npc_012",focus="r")]
@@ -120,7 +120,7 @@
 [charslot(slot="l",name="avg_347_jaksel_1#9$1",focus="l")]
 [name="杰克"]你看！这样就好了！
 [charslot(slot="r",name="avg_npc_012",focus="r")]
-[name="罗德岛干员"]......
+[name="罗德岛干员"]……
 [name="罗德岛干员"]你这是又跑哪里去了？
 [charslot(slot="l",name="avg_347_jaksel_1#9$1",focus="l")]
 [name="杰克"]嘿嘿，其实我刚刚偷偷去了一趟会场，看见好多人都在那边忙碌。
@@ -129,14 +129,14 @@
 [name="罗德岛干员"]你还帮忙一起干活去了？
 [charslot(slot="l",name="avg_347_jaksel_1#9$1",focus="l")]
 [name="杰克"]对啊！真的是特别沉！
-[name="杰克"]而且啊......那个时候我站在台子上，就突然想起以前父亲每次参加授勋仪式的时候。
+[name="杰克"]而且啊……那个时候我站在台子上，就突然想起以前父亲每次参加授勋仪式的时候。
 [name="杰克"]我坐在下面看着他，周围的人都在鼓掌，但我会比他们拍得都响！
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]所以父亲肯定能找到我坐的位置，就算他一脸严肃，也会偷偷地对我微笑一下......
+[name="杰克"]所以父亲肯定能找到我坐的位置，就算他一脸严肃，也会偷偷地对我微笑一下……
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]杰克，怎么了？
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]这次是我要站在上面......
+[name="杰克"]这次是我要站在上面……
 [name="杰克"]可惜他在外执行任务，没有办法赶到现场。
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]那他也一定会为你感到骄傲。
@@ -160,15 +160,15 @@
 [charslot(slot="r",name="avg_npc_223",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="r",name="avg_npc_223",focus="r")]
-[name="政府官员"]在那天如此紧急和危险的情况下，能够义无反顾地勇敢冲进现场并救出了那么多人......
+[name="政府官员"]在那天如此紧急和危险的情况下，能够义无反顾地勇敢冲进现场并救出了那么多人……
 [name="政府官员"]真的是令人钦佩，杰克警官。
 [charslot(slot="l",name="avg_347_jaksel_1#1$1",focus="l")]
-[name="杰克"]啊，其实我以前只是辅警......
+[name="杰克"]啊，其实我以前只是辅警……
 [charslot(slot="r",name="avg_npc_223",focus="r")]
 [name="政府官员"]没有关系，你的情况我们已经和罗德岛沟通过了。
 [name="政府官员"]包括你的矿石病问题。
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]嗯......
+[name="杰克"]嗯……
 [charslot(slot="r",name="avg_npc_223",focus="r")]
 [name="政府官员"]在矿石病方面，罗德岛提供了相应的检测结果，没有错吧？
 [Dialog]
@@ -188,11 +188,11 @@
 [name="政府官员"]年轻警官，休假外出偶遇突发险情，救人过程中不幸意外感染矿石病。
 [name="政府官员"]我们会这样对外解释。
 [charslot(slot="l",name="avg_347_jaksel_1#5$1",focus="l")]
-[name="杰克"]可如果这样的话......
+[name="杰克"]可如果这样的话……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_012",focus="m")]
-[name="罗德岛干员"]......
+[name="罗德岛干员"]……
 [name="罗德岛干员"]这只是最坏的一个可能性，当然我们不希望有任何的意外发生。
 [Dialog]
 [charslot]
@@ -201,12 +201,12 @@
 [name="政府官员"]不管怎样，我们都认为你是我们哥伦比亚警察队伍里光荣的一员。
 [name="政府官员"]就像你的父亲一样。
 [charslot(slot="l",name="avg_347_jaksel_1#5$1",focus="l")]
-[name="杰克"]唔......我还比不上我的父亲，他才是真正的警官。
+[name="杰克"]唔……我还比不上我的父亲，他才是真正的警官。
 [charslot(slot="r",name="avg_npc_223",focus="r")]
 [name="政府官员"]那对你来说，这不是一次绝佳的机会吗？
 [name="政府官员"]向你父亲证明自己也可以成为像他一样的英雄。
 [charslot(slot="l",name="avg_347_jaksel_1#5$1",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="r",name="avg_npc_223",focus="r")]
 [name="政府官员"]这份文件给你。
 [Dialog]
@@ -215,18 +215,18 @@
 [PlaySound(key="$d_avg_paper1")]
 [delay(time=1)]
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]“请问你在冲进现场的那一刻，有想过自己的家人吗......”
-[name="杰克"]“听说你的父亲也是一名警察，所以他在事后是怎么评价你的行为的......”
-[name="杰克"]“请问你的身体恢复得如何，会影响之后的工作和生活吗......”
+[name="杰克"]“请问你在冲进现场的那一刻，有想过自己的家人吗……”
+[name="杰克"]“听说你的父亲也是一名警察，所以他在事后是怎么评价你的行为的……”
+[name="杰克"]“请问你的身体恢复得如何，会影响之后的工作和生活吗……”
 [name="杰克"]所有的内容都要按照这个上面的说法去回答吗？
 [charslot(slot="l",name="avg_347_jaksel_1#5$1",focus="l")]
-[name="杰克"]可是......
+[name="杰克"]可是……
 [charslot(slot="r",name="avg_npc_223",focus="r")]
-[name="政府官员"]我知道你有疑问，不过......
+[name="政府官员"]我知道你有疑问，不过……
 [name="政府官员"]以最好的形象出现在媒体公众面前，才不会让你父亲失望。
 [name="政府官员"]你说对不对，杰克警官？
 [charslot(slot="l",name="avg_347_jaksel_1#5$1",focus="l")]
-[name="杰克"]警官......
+[name="杰克"]警官……
 [charslot(slot="r",name="avg_npc_223",focus="r")]
 [name="政府官员"]对，杰克警官。
 [name="政府官员"]这就是你的身份。
@@ -234,7 +234,7 @@
 [name="政府官员"]也是你个人的荣誉。
 [name="政府官员"]更是你父亲的荣耀。
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="l",name="avg_347_jaksel_1#1$1",focus="l")]
 [name="杰克"]我知道了！
 [name="杰克"]啊，我这就去收拾一下。
@@ -259,32 +259,32 @@
 [charslot(slot="r",name="avg_npc_012",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="l",name="avg_347_jaksel_1#1$1",focus="l")]
-[name="杰克"]唔......脸上应该没有脏东西了吧？
+[name="杰克"]唔……脸上应该没有脏东西了吧？
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]杰克，我需要提醒你一件事。
 [name="罗德岛干员"]政府那边实际上并没有向罗德岛提出正式将你重新聘回警队的要求。
 [name="罗德岛干员"]所以无论他刚刚怎么说，很有可能只是出于一些宣传上的需要。
 [charslot(slot="l",name="avg_347_jaksel_1#1$1",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [name="杰克"]我衣服怎么样？后面呢？
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]都挺好的。
 [name="罗德岛干员"]杰克，你听到我说的了吗？你现在太紧张了。
 [charslot(slot="l",name="avg_347_jaksel_1#5$1",focus="l")]
-[name="杰克"]嗯......可这的确会是我第一次站在台上。
-[name="杰克"]不知道为什么......
+[name="杰克"]嗯……可这的确会是我第一次站在台上。
+[name="杰克"]不知道为什么……
 [name="杰克"]我总觉得父亲一定会坐在台下。
 [name="杰克"]万一我真的说错了话或者做错了什么怎么办！他肯定一眼就能发现。
 [name="杰克"]可底下坐着那么多人，而我看不到他在哪里。
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]我不知道父亲那时会是什么表情......
+[name="杰克"]我不知道父亲那时会是什么表情……
 [name="杰克"]他会很失望吗？
 [charslot(slot="r",name="avg_npc_012",focus="r")]
-[name="罗德岛干员"]......
+[name="罗德岛干员"]……
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
 [name="杰克"]我知道，我现在还配不上警官这个称呼。
-[name="杰克"]所以就算不能回到警队也没有关系......
-[name="杰克"]......
+[name="杰克"]所以就算不能回到警队也没有关系……
+[name="杰克"]……
 [charslot(slot="l",name="avg_347_jaksel_1#1$1",focus="l")]
 [name="杰克"]把那份文件给我吧！
 [name="杰克"]我还是想做到最好，就像父亲坐在那里一样！
@@ -297,7 +297,7 @@
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]你好？是杰克警官吗？工作人员告诉我你在这里。
 [name="独立记者"]不好意思打扰到你们，不过我想试试能不能在会议开始前，对你做一个简短的独家采访。可以吗？
-[name="独立记者"]哦对了，这是我的证件，我是......
+[name="独立记者"]哦对了，这是我的证件，我是……
 [charslot(slot="m",name="avg_npc_012",focus="m")]
 [name="罗德岛干员"]抱歉，我们现在还有点事情要处理。
 [name="罗德岛干员"]等下在会上，会有留给记者的提问时间。
@@ -314,7 +314,7 @@
 [name="杰克"]对不起！
 [name="杰克"]等下会在会上认真回答你的问题的！
 [charslot(slot="m",name="avg_npc_242",focus="m")]
-[name="独立记者"]......
+[name="独立记者"]……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -327,14 +327,14 @@
 [Delay(time=0.5)]
 [name="杰克"]（我给所有人都讲过我父亲的故事，他很厉害！无论是抓坏人还是救人，没有任何事情能难倒他。）
 [name="杰克"]（媒体上关于父亲的报道也是如此，他就是警队的模范！不过父亲却不喜欢我把关于他的报道和照片带在身边。）
-[name="杰克"]（那些父亲帮助过的人我大多都认识......）
+[name="杰克"]（那些父亲帮助过的人我大多都认识……）
 [name="杰克"]（他们总是会来拜访父亲，然后对我说，希望我成为和父亲一样的警察。这个时候父亲总是会说我还只是个辅警，还有很多东西要学。）
 [name="杰克"]（说起来，我也从来没有真正见到过他得到的那些奖章，不知道父亲为什么不带回家里。）
 [name="杰克"]（所以今天这枚奖章，应该会是我们家里面，摆放的第一枚奖章！）
 [Dialog]
 [delay(time=1)]
 [name="获救者代表"]杰克警官！是吧？
-[name="杰克"]呃......
+[name="杰克"]呃……
 [name="获救者代表"]就是你！我肯定不会认错！
 [name="获救者代表"]不过你肯定认不出我来了！那天我们所有人都是熏了一脸的灰，哈哈哈。
 [name="杰克"]啊！原来是你！
@@ -343,7 +343,7 @@
 [name="杰克"]不行！我来推你！
 [name="获救者代表"]哈哈，那好吧。
 [name="获救者代表"]谢谢你，杰克警官。
-[name="杰克"]嘿嘿......
+[name="杰克"]嘿嘿……
 [name="杰克"]嗯！
 [Dialog]
 [musicvolume(volume=0.3, fadetime=1.5)]
@@ -381,7 +381,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.3, block=true)]
 [Delay(time=1)]
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
@@ -391,7 +391,7 @@
 [charslot]
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
 [charslot(slot="r",name="avg_npc_177",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="all")]
 [Delay(time=0.2)]
@@ -409,7 +409,7 @@
 [charslot]
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
 [charslot(slot="r",name="avg_npc_177",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
@@ -418,7 +418,7 @@
 [charslot]
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
 [charslot(slot="r",name="avg_npc_177",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
@@ -428,7 +428,7 @@
 [charslot]
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
 [charslot(slot="r",name="avg_npc_177",focus="l")]
-[name="杰克"]我......
+[name="杰克"]我……
 [charslot(slot="r",name="avg_npc_177",focus="r")]
 [name="市长"]哈哈哈，杰克警官刚刚经历了这么大一场事故，也是作为新人第一次接受表彰，有些紧张也是可以理解的。
 [name="市长"]大家一个问题一个问题地来，不要着急。
@@ -437,13 +437,13 @@
 [charslot(slot="l",name="avg_347_jaksel_1#1$1",focus="l")]
 [name="杰克"]嗯，我虽然那个时候还小，但我记得很清楚！
 [name="杰克"]那也是很多年前了，父亲还是这里地方警局的一名普通警察。
-[name="杰克"]那次是他在执勤的时候......
+[name="杰克"]那次是他在执勤的时候……
 [Dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="父亲......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="如果他此刻就坐在台下......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="父亲……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="如果他此刻就坐在台下……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
@@ -452,29 +452,29 @@
 [charslot(slot="m",name="avg_347_jaksel_1#1$1",focus="m")]
 [name="杰克"]嗯！
 [name="杰克"]我觉得我做的事情，只是出于一名警察的责任。
-[name="杰克"]我没有时间，而且当时的情况......也不允许我有任何的犹豫，毕竟哪怕只是多拖延一分一秒，对于里面的被困者都是非常危险的。
-[name="杰克"]在冲进现场的那一瞬间......
-[name="杰克"]我也的确想起过我的父亲，但更多是想到他对我的鼓励......和期许。
+[name="杰克"]我没有时间，而且当时的情况……也不允许我有任何的犹豫，毕竟哪怕只是多拖延一分一秒，对于里面的被困者都是非常危险的。
+[name="杰克"]在冲进现场的那一瞬间……
+[name="杰克"]我也的确想起过我的父亲，但更多是想到他对我的鼓励……和期许。
 [name="杰克"]这让我更加坚定，一定要把被困者救出来。
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
 [name="急切的记者"]既然你提到了你的父亲，那请问他知道你所做的事情之后，是如何评价的呢？
 [charslot(slot="m",name="avg_347_jaksel_1#1$1",focus="m")]
-[name="杰克"]我的父亲作为警察，此刻依旧奋斗在岗位上......
+[name="杰克"]我的父亲作为警察，此刻依旧奋斗在岗位上……
 [name="杰克"]我很遗憾他不能亲自来到现场。
 [name="杰克"]但我想，他一定会为我感到骄傲和自豪。
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
 [name="急切的记者"]所以请问这是你加入警队的原因吗？
 [name="急切的记者"]成为一名警察去帮助别人，去向你父亲证明自己。
 [charslot(slot="m",name="avg_347_jaksel_1#1$1",focus="m")]
-[name="杰克"]其实......
+[name="杰克"]其实……
 [name="杰克"]我并不是因为加入了警队才会去帮助其他人。
-[name="杰克"]就像我的父亲，他......
+[name="杰克"]就像我的父亲，他……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_177",duration=0.5)]
 [delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_177",focus="m")]
-[name="市长"]咳咳......
+[name="市长"]咳咳……
 [Dialog]
 [charslot]
 [name="获救者代表"]哦哦。
@@ -489,7 +489,7 @@
 [Delay(time=0.6)]
 [Dialog]
 [charslot]
-[name="获救者代表"]我想说，无论是杰克警官，还是她的父亲，在我们的警察队伍里能有这样的精神传承和延续......
+[name="获救者代表"]我想说，无论是杰克警官，还是她的父亲，在我们的警察队伍里能有这样的精神传承和延续……
 [name="获救者代表"]对于像我这样的普通民众来说，是非常有安全感的事情。
 [name="获救者代表"]也感谢市长先生今天能邀请我出席这样一个场合，让我能够当面向我的救命恩人表达感谢。
 [charslot(slot="m",name="avg_npc_177",focus="m")]
@@ -505,7 +505,7 @@
 [charslot(slot="m",name="avg_npc_524_1#1$1",focus="m")]
 [name="急切的记者"]杰克警官，麻烦靠近一点拍一张合影可以吗？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [PlaySound(key="$d_avg_fastener",volume=0.5)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -515,7 +515,7 @@
 [charslot(slot="m",name="avg_npc_523_1#1$1",focus="m")]
 [name="无礼的记者"]警官，麻烦你笑一下。
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [PlaySound(key="$d_avg_fastener",volume=0.5)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -570,33 +570,33 @@
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]你还好吗？
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]我......我不知道！
+[name="杰克"]我……我不知道！
 [name="杰克"]所以本来就应该是这样的吗？
-[name="杰克"]父亲他也需要这样去做吗？按照他们的要求......
+[name="杰克"]父亲他也需要这样去做吗？按照他们的要求……
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]杰克，这只是一次宣传。
 [name="罗德岛干员"]他们给你额外强加的身份，他们让你回答的内容，都只是他们需要的宣传。
 [name="罗德岛干员"]但是其实你并不需要这些去证明什么，罗德岛上的每一个人都知道你是一个热心善良的人。
 [name="罗德岛干员"]大家也知道你的父亲是毋庸置疑的英雄。
-[name="罗德岛干员"]如果你真的......无法接受，你可以选择现在离开。
+[name="罗德岛干员"]如果你真的……无法接受，你可以选择现在离开。
 [name="罗德岛干员"]后续的事情会由罗德岛来处理。
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [name="杰克"]不行！我不会就这么离开。
 [name="杰克"]我在意的不是宣传或者这些荣誉。
-[name="杰克"]我......我可以去做！真的！
+[name="杰克"]我……我可以去做！真的！
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]那你在意的是什么？
 [charslot(slot="l",name="avg_347_jaksel_1#5$1",focus="l")]
 [name="杰克"]“成为一名真正的警察，成为我的孩子和市民的榜样。”
-[name="杰克"]所有我在台下听到的那些话......
-[name="杰克"]他真的......是这样想的吗？他真的是想对我说这些吗？
+[name="杰克"]所有我在台下听到的那些话……
+[name="杰克"]他真的……是这样想的吗？他真的是想对我说这些吗？
 [charslot(slot="r",name="avg_npc_012",focus="r")]
-[name="罗德岛干员"]既然如此......
+[name="罗德岛干员"]既然如此……
 [name="罗德岛干员"]你救了人，这是事实。
 [name="罗德岛干员"]那无论他们怎么安排，这枚勋章都理应颁发给你。
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]嗯......
+[name="杰克"]嗯……
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]回去吗？
 [charslot(slot="l",name="avg_347_jaksel_1#1$1",focus="l")]
@@ -611,8 +611,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.1)]
 [charslot(slot="m",name="avg_npc_177",focus="m")]
-[name="市长"]我代表全体政府官员，警队的全体成员......
-[name="市长"]还有全体获救者及其家属......
+[name="市长"]我代表全体政府官员，警队的全体成员……
+[name="市长"]还有全体获救者及其家属……
 [name="市长"]向在此次事故搜救中表现突出的杰克警官，授予杰出英勇勋章。
 [name="市长"]希望你继续努力，作为政府和警察的杰出代表，继续为本市市民做出贡献。
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
@@ -637,12 +637,12 @@
 [name="独立记者"]杰克警官。
 [name="独立记者"]作为那天唯一冲进现场的当事人，你是否认识这张照片上的人？
 [charslot(slot="m",name="avg_347_jaksel_1#4$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]回答我的问题。
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
 [name="杰克"]这两个人，他们在现场已经遇难。
-[name="杰克"]我试着救过他们......
+[name="杰克"]我试着救过他们……
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]那你到底救出来了几个人？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
@@ -668,7 +668,7 @@
 [name="政府官员"]你！
 [name="政府官员"]杰克警官，抓住他！
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [name="杰克"]不，你继续说。
 [Dialog]
 [charslot(slot="m",name="avg_npc_242",focus="m")]
@@ -698,7 +698,7 @@
 [charslot(slot="m",name="avg_347_jaksel_1#4$1",focus="m")]
 [name="杰克"]什么？！
 [charslot(slot="m",name="avg_347_jaksel_1#4$1",focus="none")]
-[name="获救者代表"]我只是......
+[name="获救者代表"]我只是……
 [CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="获救者代表"]我家里人没有出事！你为什么要逼问我这些！
 [charslot(slot="m",name="avg_347_jaksel_1#4$1",focus="m")]
@@ -709,7 +709,7 @@
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]因为你身边的这个人是个被开除的警察，这是他之前的档案记录。
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]可是很奇怪，我居然没有找到杰克警官之前任何的警队记录。
 [name="独立记者"]没有投诉，没有表彰，没有加班？
@@ -717,12 +717,12 @@
 [name="独立记者"]哦，对了。你父亲是英雄啊，那如果英雄的女儿也是英雄呢？
 [name="独立记者"]这么棒的宣传素材，哈哈哈！为了市长先生的选票和愈发糟糕的政府形象。
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]我......
+[name="杰克"]我……
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]我承认你的父亲的确是一名优秀的警察。
 [name="独立记者"]可你真的是吗？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]你真的，是警官吗？
 [Dialog]
@@ -738,12 +738,12 @@
 [name="急切的记者"]杰克警官！
 [name="急切的记者"]你对此事不做任何回应是代表了某种官方的态度吗？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="m",name="avg_npc_523_1#1$1",focus="m")]
 [name="无礼的记者"]请不要回避我们的镜头。
 [name="无礼的记者"]你在此之前是否对此事知情呢？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]我......
+[name="杰克"]我……
 [Dialog]
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="none")]
 [PlaySound(key="$transmission",volume=0.6)]
@@ -760,7 +760,7 @@
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="政府官员"]抓住他！
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -791,7 +791,7 @@
 [name="独立记者"]难道不是吗？
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
 [name="杰克"]我很清楚，那天的事故绝对不是伪造的。
-[name="杰克"]我救出来的人......那些在现场不幸遇难的人......
+[name="杰克"]我救出来的人……那些在现场不幸遇难的人……
 [name="杰克"]这绝不可能是假的。
 [name="杰克"]所以真正的获救者在哪里？
 [charslot(slot="m",name="avg_npc_242",focus="m")]
@@ -803,10 +803,10 @@
 [name="独立记者"]你不是该问问安排了这一切的人吗？
 [Dialog]
 [charslot]
-[name="获救者代表"]......
+[name="获救者代表"]……
 [name="获救者代表"]我什么也不知道，不要问我！
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [charslot(slot="m",name="avg_347_jaksel_1#6$1",focus="m")]
 [name="杰克"]市长先生，这一切到底是怎么回事！
 [charslot(slot="m",name="avg_npc_177",focus="m")]
@@ -814,7 +814,7 @@
 [name="市长"]你已经越界了，这不是你该管的事情。
 [name="市长"]请注意你的身份，你代表的是本市的警察，也代表了你的父亲！ 
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -828,11 +828,11 @@
 [name="记者"]您好，请问您当时为什么会冲进去救人？面对那么多歹徒，您会害怕吗？ 
 [name="记者"]我听说有人指责正是因为您的鲁莽行动，才导致了之后歹徒的残忍暴行以及对被害者的伤害，请问您作何回应。 
 [name="记者"]我听说您的孩子也是一名警察，请问如果是您被困在里面，您会希望她也采取和您一样的行动吗？ 
-[name="父亲"]...... 
+[name="父亲"]…… 
 [name="父亲"]其实我觉得这样的提问完全没有必要，甚至去报道这件事都完全没有必要。 
-[name="父亲"]但是如果不得不做回应的话...... 
+[name="父亲"]但是如果不得不做回应的话…… 
 [name="父亲"]既然我能做到的话，那就不能见死不救。 
-[name="杰克"]...... 
+[name="杰克"]…… 
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -845,7 +845,7 @@
 [musicvolume(volume=0.6, fadetime=1)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
-[name="杰克"]......
+[name="杰克"]……
 [name="杰克"]可我不是警官，我的父亲才是。
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="独立记者"]所以你承认了？
@@ -857,13 +857,13 @@
 [name="杰克"]我救了他们，他们应该出现在这里，但是现在他们不见了？
 [name="杰克"]他们到底在哪里？！
 [charslot(slot="m",name="avg_npc_242",focus="m")]
-[name="独立记者"]......
+[name="独立记者"]……
 [Dialog]
 [charslot]
-[name="获救者代表"]......
+[name="获救者代表"]……
 [charslot(slot="m",name="avg_347_jaksel_1#10$1",focus="m")]
 [name="杰克"]市长先生。
-[name="杰克"]回答我的问题，不然的话......
+[name="杰克"]回答我的问题，不然的话……
 [charslot(slot="m",name="avg_npc_177",focus="m")]
 [name="市长"]你敢！
 [charslot(slot="m",name="avg_347_jaksel_1#6$1",focus="m")]
@@ -885,7 +885,7 @@
 [name="杰克"]咦，是在这里吗？
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]我查过了，那四名获救的人的确是在这里。
-[name="罗德岛干员"]因为他们都在那场事故里感染了矿石病，所以......
+[name="罗德岛干员"]因为他们都在那场事故里感染了矿石病，所以……
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
 [name="杰克"]所以哪怕是在哥伦比亚，政府也不希望他们出现在公共场合。
 [charslot(slot="r",name="avg_npc_012",focus="r")]
@@ -897,14 +897,14 @@
 [name="罗德岛干员"]不管怎么样，他们都能编造出合理的说辞。
 [name="罗德岛干员"]只不过这一次，你恰好是最合适的素材。
 [charslot(slot="l",name="avg_347_jaksel_1#10$1",focus="l")]
-[name="杰克"]......
+[name="杰克"]……
 [name="杰克"]他们会没事吗？
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]在后续和当地政府的医疗合作中，我们会争取为他们安排治疗的。
 [name="罗德岛干员"]虽然这次这么一闹，可能会有点困难。
 [charslot(slot="l",name="avg_347_jaksel_1#4$1",focus="l")]
 [name="杰克"]啊！对不起！
-[name="杰克"]我当时......
+[name="杰克"]我当时……
 [charslot(slot="r",name="avg_npc_012",focus="r")]
 [name="罗德岛干员"]这不是你的错。
 [name="罗德岛干员"]实话说，刚刚被派驻到哥伦比亚的这个地方，然后就在这么危险的事故中，奋不顾身救出四个人。

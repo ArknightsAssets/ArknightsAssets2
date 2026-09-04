@@ -20,16 +20,16 @@
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=1)]
 [name="？？？"]真慢。你们这些贵族，做什么事都拖拖拉拉的，烦死了。
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=2)]
-[name="野心勃勃的男爵"]......是我招待不周，请容许我向您致以最真诚的歉意。
+[name="野心勃勃的男爵"]……是我招待不周，请容许我向您致以最真诚的歉意。
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=1)]
 [name="？？？"]还是省省吧。今天到底能来几个人？
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=2)]
-[name="野心勃勃的男爵"]整个小丘郡的有识之士都收到了邀请，包括我们最近广受欢迎的大诗人，西莫·威廉姆斯......
+[name="野心勃勃的男爵"]整个小丘郡的有识之士都收到了邀请，包括我们最近广受欢迎的大诗人，西莫·威廉姆斯……
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=1)]
 [name="？？？"]诗人？听起来就没劲。你答应要找的贵族和商人呢？
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=2)]
-[name="野心勃勃的男爵"]当然......当然，他们也会来。
-[name="野心勃勃的男爵"]比如南部地区纺织品产业的领头人波莱爵士，获得过麦考伊奖的巴希尔医生，还有拥有十数家钢铁厂的埃文斯先生......
+[name="野心勃勃的男爵"]当然……当然，他们也会来。
+[name="野心勃勃的男爵"]比如南部地区纺织品产业的领头人波莱爵士，获得过麦考伊奖的巴希尔医生，还有拥有十数家钢铁厂的埃文斯先生……
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=1)]
 [name="？？？"]哦？你说的这些人，尤其是最后那个，他们都确定会来？
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=2)]
@@ -47,7 +47,7 @@
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=2)]
 [name="野心勃勃的男爵"]咳，请允许我问最后一个问题——那位最尊贵的女士，她有没有哪怕一丝可能性也会莅临现场？
 [Character(name="avg_npc_233_1",blackstart=0.2,blackend=0.7, name2="avg_npc_177", focus=1)]
-[name="？？？"]......这不是你能问的问题。快滚吧。
+[name="？？？"]……这不是你能问的问题。快滚吧。
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [characteraction(name="right", type="move", xpos=300, fadetime=2,block=false)]
@@ -104,7 +104,7 @@
 [Character(name="avg_npc_233_1#1",name2="avg_npc_228_1#7",focus=2)]
 [name="阿赫茉妮"]什么时候——轮到你替领袖做决定了？
 [Character(name="avg_npc_233_1#1",name2="avg_npc_228_1#7",focus=1)]
-[name="蔓德拉"]......
+[name="蔓德拉"]……
 [Character(name="avg_npc_233_1#2",name2="avg_npc_228_1#7",focus=1)]
 [name="蔓德拉"]啧——
 [dialog]
@@ -129,7 +129,7 @@
 [Character(name="avg_npc_233_1#2",name2="avg_npc_228_1#1",focus=2)]
 [name="阿赫茉妮"]有人查到了这个地方。今天晚上的集会，来的恐怕不止是你请来的那些小朋友。
 [Character(name="avg_npc_233_1#1",name2="avg_npc_228_1#1",focus=1)]
-[name="蔓德拉"]......军队里的人？
+[name="蔓德拉"]……军队里的人？
 [Character(name="avg_npc_233_1#1",name2="avg_npc_228_1#1",focus=2)]
 [name="阿赫茉妮"]差不多。哎呀，说不定还有我的熟人呢。
 [Character(name="avg_npc_233_1#7",name2="avg_npc_228_1#1",focus=1)]
@@ -139,7 +139,7 @@
 [Character(name="avg_npc_233_1#1",name2="avg_npc_228_1#6",focus=2)]
 [name="阿赫茉妮"]该走了，我们还有别的事要做。这里交给她，说不定马上就会有一场好戏。
 [Character(name="avg_npc_233_1#6",name2="avg_npc_228_1#6",focus=1)]
-[name="蔓德拉"]呵呵......我开始幻想这间讨人厌的屋子碎裂成渣的样子了。
+[name="蔓德拉"]呵呵……我开始幻想这间讨人厌的屋子碎裂成渣的样子了。
 [dialog]
 [character]
 [Dialog]
@@ -155,7 +155,7 @@
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",fadetime=0.7)]
 [delay(time=0.7)]
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=2)]
-[name="风笛"]队长，没想到我们混进来这么容易。我还以为......
+[name="风笛"]队长，没想到我们混进来这么容易。我还以为……
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=1)]
 [name="号角"]要想办法潜入？那也不是不行。只不过，走正门的话，找人说话会更方便。
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#4",focus=2)]
@@ -181,7 +181,7 @@
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#2",focus=2)]
 [name="风笛"]队长，今天来这里集会的人，他们都是鬼魂部队的支持者吗？
 [Character(name="avg_npc_229_1#2",name2="avg_222_bpipe_1#2",focus=1)]
-[name="号角"]......我看未必。
+[name="号角"]……我看未必。
 [Dialog]
 [character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -204,7 +204,7 @@
 [Character(name="avg_npc_177")]
 [name="野心勃勃的男爵"]正是如此。在我眼里，你就和莱塔尼亚最伟大的音乐家一样，有机会改变一个时代！
 [Character(name="avg_npc_239")]
-[name="诗人威廉姆斯"]哈哈......您的话太夸张了。
+[name="诗人威廉姆斯"]哈哈……您的话太夸张了。
 [Character(name="avg_npc_177")]
 [name="野心勃勃的男爵"]只要你愿意，整个维多利亚的出版商大门都愿意为你敞开，大家都等着把你的作品翻译成不同的文字。
 [Character(name="avg_npc_177")]
@@ -219,15 +219,15 @@
 [Character(name="avg_npc_177")]
 [name="野心勃勃的男爵"]啊哈，是啊，我们的同胞，他们想找到一份体面的工作可不容易，我听说他们在厂里辛苦劳作一周，只能得到这么点铸币。
 [Character(name="avg_npc_239")]
-[name="诗人威廉姆斯"]......而其他出身的维多利亚工人，能在你的厂里赚到两倍。
+[name="诗人威廉姆斯"]……而其他出身的维多利亚工人，能在你的厂里赚到两倍。
 [Character(name="avg_npc_176")]
-[name="贪婪的商人"]咳咳......
+[name="贪婪的商人"]咳咳……
 [Character(name="avg_npc_176")]
 [name="贪婪的商人"]容我不合时宜地说一句——想让强邻们认可我们，可没那么容易吧？
 [name="贪婪的商人"]诸位请想一想，光靠音乐和诗歌，莱塔尼亚如何能成为今日的莱塔尼亚？
 [Character(name="avg_npc_176")]
 [name="贪婪的商人"]正如莱塔尼亚有令人生畏的术师——
-[name="贪婪的商人"]我们塔拉人若想得到更多国家的认可，还是要依靠更加实际的力量，比如一些来自远方朋友的......技术支持。
+[name="贪婪的商人"]我们塔拉人若想得到更多国家的认可，还是要依靠更加实际的力量，比如一些来自远方朋友的……技术支持。
 [Character(name="avg_npc_176")]
 [name="贪婪的商人"]而我恰好有那么一点获得赞助的渠道，我很乐意借这机会与男爵阁下的朋友们分享。
 [Character(name="avg_npc_177")]
@@ -235,7 +235,7 @@
 [Character(name="avg_npc_176")]
 [name="贪婪的商人"]如此看来，我与在座诸位都一样，我们都在渴望着一个全新的时代——那么，我们为何不为这共同的梦想举杯呢？
 [Character(name="avg_npc_175")]
-[name="附庸风雅的女贵族"]真是一个令人振奋的夜晚......奇怪，威廉姆斯先生到哪里去了？
+[name="附庸风雅的女贵族"]真是一个令人振奋的夜晚……奇怪，威廉姆斯先生到哪里去了？
 [dialog]
 [character]
 [Dialog]
@@ -259,7 +259,7 @@
 [Character(name="avg_npc_229_1#6")]
 [name="号角"]类似场合总是会过快地消耗人的精力。您是不是也觉得有些疲惫？
 [Character(name="avg_npc_239")]
-[name="诗人威廉姆斯"]哈哈......被发现了。要不是查尔斯——我是说男爵大人的邀请实在太过热情，我还是更偏好在自家壁炉旁的阅读之夜。
+[name="诗人威廉姆斯"]哈哈……被发现了。要不是查尔斯——我是说男爵大人的邀请实在太过热情，我还是更偏好在自家壁炉旁的阅读之夜。
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]谁又不是呢？我打赌每个愿意参加这类活动的人，都是迫于生计。
 [Character(name="avg_npc_239")]
@@ -317,7 +317,7 @@
 [Character(name="avg_npc_239")]
 [name="诗人威廉姆斯"]“思想有什么用？你在土里种下一根羽毛，想象它长成一只羽兽。”
 [Character(name="avg_npc_229_1#6")]
-[name="号角"]......出自您出版的第一本诗集，是我特别喜欢的句子。
+[name="号角"]……出自您出版的第一本诗集，是我特别喜欢的句子。
 [Character(name="avg_npc_239")]
 [name="诗人威廉姆斯"]这就是我对这个问题的回答。
 [Character(name="avg_npc_239")]
@@ -350,13 +350,13 @@
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=2)]
 [name="风笛"]他们本来不该在军营应付驻军吗？你要求他们每半个小时都要发一次信。我们刚刚动身的时候，大提琴还跟我抱怨这任务太无聊。
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=1)]
-[name="号角"]......
+[name="号角"]……
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=2)]
-[name="风笛"]而且......你觉不觉得周围有点太安静了？
+[name="风笛"]而且……你觉不觉得周围有点太安静了？
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=2)]
 [name="风笛"]我在窗口守着，本来能看见广场上人来人往。可是突然之间，好像发生了什么事，人们都跑开了。
 [Character(name="avg_npc_229_1#2",name2="avg_222_bpipe_1#5",focus=1)]
-[name="号角"]难道说，之前跟踪我们的是驻军的人......
+[name="号角"]难道说，之前跟踪我们的是驻军的人……
 [stopmusic(fadetime=1)]
 [dialog]
 [character]
@@ -372,15 +372,15 @@
 [Character(name="avg_npc_175")]
 [name="附庸风雅的女贵族"]天呐，怎么回事？为什么突然会冒出来这么多士兵？
 [Character(name="avg_npc_175")]
-[name="附庸风雅的女贵族"]竟然胆敢用武器指着我......你们了解我们的身份吗？
+[name="附庸风雅的女贵族"]竟然胆敢用武器指着我……你们了解我们的身份吗？
 [Character(name="avg_npc_176")]
 [name="贪婪的商人"]是谁，谁把秘密传出去的？！
-[name="贪婪的商人"]该死......得快点离开这里！
+[name="贪婪的商人"]该死……得快点离开这里！
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"]（快，快去通知蔓德拉女士，就说我们有麻烦了......）
+[name="野心勃勃的男爵"]（快，快去通知蔓德拉女士，就说我们有麻烦了……）
 [name="野心勃勃的男爵"]（什么？！你说他们全都走了？什么时候的事？一个小时之前？！）
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="野心勃勃的男爵"]（你这个废物......！）
+[name="野心勃勃的男爵"]（你这个废物……！）
 [dialog]
 [character]
 [character(name="avg_npc_241",fadetime=1)]

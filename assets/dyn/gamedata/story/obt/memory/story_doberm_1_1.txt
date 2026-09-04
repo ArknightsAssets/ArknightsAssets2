@@ -9,13 +9,13 @@
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [delay(time=1)]
 [name="旧日的亲信"]情况就是这样，上校。
-[name="旧日的亲信"]一把大火把种植园烧了个精光，没人知道是谁点的火。看门的士兵？军阀的眼线？也可能是哥伦比亚人顺手扔了个烟头......我不确定。
+[name="旧日的亲信"]一把大火把种植园烧了个精光，没人知道是谁点的火。看门的士兵？军阀的眼线？也可能是哥伦比亚人顺手扔了个烟头……我不确定。
 [name="旧日的亲信"]没人去管那家伙的尸体。大人物们正忙着抢占北边的地块，谁还有空搭理他。
-[name="旧日的亲信"]......通缉？哦，底下确实有人嚷着要扒了你的皮，但上面可没这意思。
+[name="旧日的亲信"]……通缉？哦，底下确实有人嚷着要扒了你的皮，但上面可没这意思。
 [name="旧日的亲信"]汉科要拿他们的命去跟联合政府做买卖，你替他们解决了这个大麻烦，他们感谢你还来不及。
-[name="旧日的亲信"]......我没在抱怨，上校。我只是......
+[name="旧日的亲信"]……我没在抱怨，上校。我只是……
 [name="旧日的亲信"]（良久的沉默）
-[name="旧日的亲信"]长官，这次电讯后，我们就各走各的吧。那家伙确实配不上一声“将军”，但他有句话说得没错......“你要找的玻利瓦尔不在这里。”
+[name="旧日的亲信"]长官，这次电讯后，我们就各走各的吧。那家伙确实配不上一声“将军”，但他有句话说得没错……“你要找的玻利瓦尔不在这里。”
 [name="旧日的亲信"]但我的玻利瓦尔就在这里。
 [Dialog]
 [PlaySound(key="$transmission", volume=1)]
@@ -45,7 +45,7 @@
 [name="山民"]嚯，荒山野岭的，怎么还凭空冒出了个大活人。
 [name="山民"]喂，丫头，你也是逃难过来的？西边又打起来了？
 [charslot(slot="m",name="char_130_doberm_ex#1",focus="m")]
-[name="杜宾"]（......难民？）
+[name="杜宾"]（……难民？）
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="山民"]当真是没个消停，这次占上风的又是谁？
 [charslot(slot="m",name="char_130_doberm_ex#3",focus="m")]
@@ -53,9 +53,9 @@
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="山民"]是吗？我瞧你这身形，套上军装应该挺合适。
 [charslot(slot="m",name="char_130_doberm_ex#2",focus="m")]
-[name="杜宾"]......先生，请问附近有什么可以歇脚的地方吗？
+[name="杜宾"]……先生，请问附近有什么可以歇脚的地方吗？
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
-[name="山民"]歇脚啊......
+[name="山民"]歇脚啊……
 [charslot]
 浑浊的泥水沾湿了循兽的毛发，但老人不以为意，径直将他的小玻利揽进了怀里，像抱起一个幼小的婴儿。
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
@@ -92,7 +92,7 @@
 [Delay(time=1.5)]
 有别于山谷的原始空阔，这间修道院里明显还残留着人工琢刻的痕迹。
 但它或许已经荒废了许久。石阶碎裂，回廊残损，楼宇间的窗框空着，像一双双失明的眼睛。
-[name="杜宾"]这些是......？
+[name="杜宾"]这些是……？
 奇怪的是，就在这一片冷清里，数以千计的半人高灰白色石雕静默地矗立在黑绿色的荒草间。
 [name="杜宾"]（不是常见的伊比利亚样式，那这些雕像是？）
 她抚过一座座冰冷的石雕。每尊雕塑截然不同，却无一例外，都穿着最寻常的玻利瓦尔平民服饰。
@@ -120,7 +120,7 @@
 老人皱起眉头，像是在努力翻找一段也许存在过的记忆。
 [name="朴实的老人"]不对，不对，我们确实从未见过。你怕是让这山里的瘴气给魇住了，陌生的丫头。
 [charslot(slot="m",name="char_130_doberm_ex#3",focus="m")]
-[name="杜宾"]（他手里的东西是......铁锤和斧头？）
+[name="杜宾"]（他手里的东西是……铁锤和斧头？）
 [name="杜宾"]（警惕地后退）
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="朴实的老人"]哦，你在害怕这玩意儿？
@@ -134,9 +134,9 @@
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="朴实的老人"]修士？哈哈哈哈哈！你看这些石雕，我该信什么？
 [charslot(slot="m",name="char_130_doberm_ex#3",focus="m")]
-[name="杜宾"]......我还想请教，这些石雕是？
+[name="杜宾"]……我还想请教，这些石雕是？
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
-[name="守院人"]别想太多，我就一破看门的。祖上当年为了混口饭吃，许诺了要世代守着这院子。至于这些石雕......
+[name="守院人"]别想太多，我就一破看门的。祖上当年为了混口饭吃，许诺了要世代守着这院子。至于这些石雕……
 他顿了顿，目光扫过那片灰白色的低矮石林。
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="守院人"]他们都是从这山里离开的人。
@@ -153,21 +153,21 @@
 [name="守院人"]看这尊，忘了是哪辈祖宗塑的。说是这山里走出去的第一个年轻人，后来当了军官，发了大财，移民去了伊比利亚，就再没回来。
 [name="守院人"]这尊，我爹那辈塑的。看这长相，美吧？山里出了名的美人。成年后跟着过路的士兵走了，也再没回来。
 [name="守院人"]哦，这尊是我塑的。这家伙打小就吵着闹着要当什么探险家。十五年前下了场暴雨，水位疯涨，他就撑着一片大叶子，顺着河水走了。
-[name="守院人"]还有这尊......嘿哟，这尊难搞，花了我四年多才......
+[name="守院人"]还有这尊……嘿哟，这尊难搞，花了我四年多才……
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
 [name="杜宾"]这些石像雕的，都只是从这山里出去的普通人？
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]嗯，有什么问题？不好看？
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]不，它们很美。我只是有些意外......您和您的祖辈，竟然会为这么多的普通人塑像。
+[name="杜宾"]不，它们很美。我只是有些意外……您和您的祖辈，竟然会为这么多的普通人塑像。
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]你这话倒让我不明白了。不为他们塑，我该为谁塑？
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
-[name="杜宾"]我以为......石像都是为那些伟大的人而塑。就像米诺斯传说里的英雄、拉特兰和伊比利亚人信仰里的圣贤......
+[name="杜宾"]我以为……石像都是为那些伟大的人而塑。就像米诺斯传说里的英雄、拉特兰和伊比利亚人信仰里的圣贤……
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
-[name="守院人"]“伟大的人”......呵，你怎么定义“伟大”？在你看来，谁是伟大的人？
+[name="守院人"]“伟大的人”……呵，你怎么定义“伟大”？在你看来，谁是伟大的人？
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]......
+[name="杜宾"]……
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]答不上来？
 [charslot]
@@ -204,20 +204,20 @@
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="l")]
-[name="守院人"]喂......虽说是我这个老东西强求你留下来给个答案，但你下手之前还是多想想吧，这都浪费了多少块石头了？
+[name="守院人"]喂……虽说是我这个老东西强求你留下来给个答案，但你下手之前还是多想想吧，这都浪费了多少块石头了？
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
 [name="杜宾"]是我的问题，抱歉。
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]你先前雕的这是？
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]......
+[name="杜宾"]……
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]这么难开口？
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
 [name="杜宾"]是我过去追随过的几位将军。
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]他们分属不同的势力，但都是打仗的好手。其中一位叫汉科......他曾是个伟大的人。
-[name="杜宾"]他带领我们的军队跨过了内河，离拉乌尼达就只剩下一步......离理想中的玻利瓦尔就只剩下一步。
+[name="杜宾"]他们分属不同的势力，但都是打仗的好手。其中一位叫汉科……他曾是个伟大的人。
+[name="杜宾"]他带领我们的军队跨过了内河，离拉乌尼达就只剩下一步……离理想中的玻利瓦尔就只剩下一步。
 [charslot(slot="r",name="char_130_doberm_ex#4",focus="r")]
 [name="杜宾"]但他最后选择了妥协。他不该把追随过他的士兵，全都送回到他们所憎恨的种植园。
 [name="杜宾"]在哥伦比亚人的威逼利诱和玻利瓦尔人的互相猜忌下，他最终背叛了我们——将军们最终都选择了背叛。
@@ -257,13 +257,13 @@
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
 [name="杜宾"]我不知道。但我想，玻利瓦尔的历史上一定存在过他的雕像，只是因为战火，它们都被毁掉了。
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
-[name="守院人"]是谁毁掉了他的雕像？伊比利亚人、莱塔尼亚人、哥伦比亚人......还是你所谓的“真正玻利瓦尔人”？
+[name="守院人"]是谁毁掉了他的雕像？伊比利亚人、莱塔尼亚人、哥伦比亚人……还是你所谓的“真正玻利瓦尔人”？
 [charslot(slot="r",name="char_130_doberm_ex#4",focus="r")]
-[name="杜宾"]......我不知道。
+[name="杜宾"]……我不知道。
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]那你该去伊比利亚找找，说不定那里还保存着关于他的画片和书籍。
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]......
+[name="杜宾"]……
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]但是吧——
 [name="守院人"]把一个伊比利亚人奉为玻利瓦尔的英雄，你不觉得有些奇怪？
@@ -273,7 +273,7 @@
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]也别这么惊讶，只是我个人的小小疑惑。
 [name="守院人"]按你之前说的——伟大的人，一定得是信守承诺、能团结起玻利瓦尔的大英雄。那这位“征服者”德莱昂，怕是头几个就该被筛掉的。
-[name="守院人"]一个从伊比利亚跑来的殖民者......呵，他踏上这片土地时，心里装的是赤金、荣誉和丰饶的宝藏，可不是什么“玻利瓦尔的未来”。
+[name="守院人"]一个从伊比利亚跑来的殖民者……呵，他踏上这片土地时，心里装的是赤金、荣誉和丰饶的宝藏，可不是什么“玻利瓦尔的未来”。
 [name="守院人"]他所做的事和后来者们有什么不同？他只是早了几百年，做了别人几百年后，会对这片土地做的事。
 [name="守院人"]一个从伊比利亚逃跑的“赌徒”，能被称为最初的玻利瓦尔人吗？能算是玻利瓦尔的英雄吗？
 [charslot(slot="r",name="char_130_doberm_ex#4",focus="r")]
@@ -293,7 +293,7 @@
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Subtitle(text="你其实不是找不到伟大的人。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="你只是不敢承认......在这片土地上，从来没有过你想象中那样完美无缺的“伟大的人”。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="你只是不敢承认……在这片土地上，从来没有过你想象中那样完美无缺的“伟大的人”。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle]
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -321,7 +321,7 @@
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [Delay(time=1.5)]
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
-[name="杜宾"]......？！
+[name="杜宾"]……？！
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="n")]
 那张皱皱巴巴的脸，那副眉眼，那抿紧的嘴角——竟与守院人本人一模一样。
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
@@ -331,19 +331,19 @@
 [charslot(slot="l",name="char_130_doberm_ex#1",focus="l")]
 [name="杜宾"]您要离开这里了？
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
-[name="守院人"]离开？呵呵，我这一把老骨头了，出去了喂给谁？喂给你说的黑流、猎犬......还是那没完没了的战场？
+[name="守院人"]离开？呵呵，我这一把老骨头了，出去了喂给谁？喂给你说的黑流、猎犬……还是那没完没了的战场？
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
 [name="杜宾"]那您为什么要为自己塑像？您不是说，这些石像都是为离开这座山的人而立的？
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
 [name="守院人"]是啊。可你一直说伟大的人就该有座塑像，所以我想了想，总觉得该给自己也留一座。
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
-[name="杜宾"]您认为......自己算是伟大的人？
+[name="杜宾"]您认为……自己算是伟大的人？
 [charslot]
 老人没有立刻回答。他伸手拂去了“自己”肩头的石屑。
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="n")]
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
 [name="守院人"]我在这山里活了七十多年，见过瘟疫，见过兵祸，也见过一场连续下了四年的雨，河水涨到把半个山谷都淹没了。
-[name="守院人"]我爹娘死在玉米地里。我的两个兄弟，一个被骗去当了矿工，再也没回来......
+[name="守院人"]我爹娘死在玉米地里。我的两个兄弟，一个被骗去当了矿工，再也没回来……
 [name="守院人"]另一个跟着所谓的玻利瓦尔解放势力走了。后来听送货的说，那家伙的尸体被挂在山下小镇的石墙上晾了三天。
 [name="守院人"]我熬啊熬，熬到连看门的循兽们都死光了，山里的东西全都在孤独中归于寂静。
 [name="守院人"]——但最后，唯独我活了下来。
@@ -351,7 +351,7 @@
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
 [name="守院人"]我能在玻利瓦尔这片被诅咒的土地上活下来，我就已经算是个“伟大的人”了，不是吗？
 [charslot(slot="l",name="char_130_doberm_ex#1",focus="l")]
-[name="杜宾"]......
+[name="杜宾"]……
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
 [name="守院人"]你四处寻找那些完美的、不背叛抗争的、不背叛你想象中的玻利瓦尔的英雄，你往前找了几百年，找到了几个？
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
@@ -360,7 +360,7 @@
 [PlaySound(key="$d_avg_stnecrve",volume=1)]
 [Delay(time=1)]
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
-[name="守院人"]如果你找不到你心里“伟大的人”的样子......
+[name="守院人"]如果你找不到你心里“伟大的人”的样子……
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
 [name="守院人"]那你何不就用你自己的样子？
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
@@ -375,20 +375,20 @@
 杜宾张了张嘴，却发不出声音。有话堵在了心口，沉甸甸的。
 片刻之后，她才缓缓开口，声音低哑——
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
-[name="杜宾"]我......
+[name="杜宾"]我……
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
 [name="杜宾"]我试过。跟随各路将军的时候，我以为自己正在靠近理想的答案。
-[name="杜宾"]可每一次，每一次当我们快要看到曙光的时候，他们就会转身离去......妥协，出卖，背叛——用最冠冕堂皇的理由，把所有人都推回泥潭！
+[name="杜宾"]可每一次，每一次当我们快要看到曙光的时候，他们就会转身离去……妥协，出卖，背叛——用最冠冕堂皇的理由，把所有人都推回泥潭！
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
 [name="杜宾"]我只能眼睁睁地看着，什么都无法改变。
 [charslot(slot="r",name="avg_npc_1254_1#1$1",focus="r")]
-[name="守院人"]......
+[name="守院人"]……
 [charslot(slot="l",name="char_130_doberm_ex#3",focus="l")]
 [name="杜宾"]到最后，连我自己也学会了妥协，出卖，和背叛！
 她攥紧铁锤的手微微发抖。
 [charslot(slot="l",name="char_130_doberm_ex#1",focus="l")]
 [name="杜宾"]我顺着军衔往上爬，在疯涨的河水里拼命不让自己沉下去。
-[name="杜宾"]我试着守住自己的信念，守住身边几个人的命，耗尽力气......但到了最后，只发现自己离“玻利瓦尔”越来越远。
+[name="杜宾"]我试着守住自己的信念，守住身边几个人的命，耗尽力气……但到了最后，只发现自己离“玻利瓦尔”越来越远。
 [charslot(slot="l",name="char_130_doberm_ex#4",focus="l")]
 [name="杜宾"]我拿什么去变成“伟大的人”？“伟大的人”不该是这样——
 [Dialog]
@@ -418,13 +418,13 @@
 冷冽的月光爬过窗棂，像一把钝了的刀子，割起肉来缓慢却令人清醒。
 杜宾躺在木床上，翻来覆去，始终找不到一个能安放自己的位置。
 [name="杜宾"]（闭眼）
-黑暗中浮现出一张张脸——汉科的、其他将军的......那些她曾经仰望、追随，最后亲眼看着其坠落的身影。
+黑暗中浮现出一张张脸——汉科的、其他将军的……那些她曾经仰望、追随，最后亲眼看着其坠落的身影。
 [name="杜宾"]（咬牙）
 每一张脸都面目模糊。
 她伸出手，想在空气中描摹出些许轮廓。
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="刻不出......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="刻不出……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="刻不出“伟大的人”的样子。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="也许从来就没有那种人。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="你想要的玻利瓦尔根本就不存在！", x=300, y=370, alignment="center", size=28, delay=0.04, width=700)]
@@ -437,7 +437,7 @@
 [PlaySound(key="$doorknockquite", volume=1)]
 [delay(time=1)]
 [name="守院人"]还没睡？
-[name="杜宾"]......嗯。
+[name="杜宾"]……嗯。
 [name="守院人"]我能进来吗？
 杜宾沉默了片刻，起身拉开门闩。
 [Dialog]
@@ -475,11 +475,11 @@
 [name="守院人"]我像你这么大的时候也这样——看着一堆石头，总想刻出些和祖辈们不同的玩意。但越想，越是一锤都落不下。
 [name="守院人"]后来我想通了。为什么不刻“伟大的人”？为什么要刻离开的人？我们找不着，我们就把见过的每一个离开的人全都刻出来。
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
-[name="杜宾"]......？
+[name="杜宾"]……？
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
-[name="守院人"]一个一个地刻。一百个，一千个......只要数量足够多，这千千万万的石像里，也许就会有一个人成为“伟大的人”。
+[name="守院人"]一个一个地刻。一百个，一千个……只要数量足够多，这千千万万的石像里，也许就会有一个人成为“伟大的人”。
 [charslot(slot="r",name="char_130_doberm_ex#4",focus="r")]
-[name="杜宾"]您这是在安慰我......
+[name="杜宾"]您这是在安慰我……
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]如果能安慰到你的话。
 老人抬起头，望向窗外那片黑沉沉的石雕林。
@@ -492,11 +492,11 @@
 [charslot(slot="r",name="char_130_doberm_ex#4",focus="l")]
 [name="守院人"]你不说话，我也知道你在想什么。
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]......
+[name="杜宾"]……
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]你觉得自己用刀、用命去争取过了，但最终一切都是徒劳，对吗？
 [charslot(slot="r",name="char_130_doberm_ex#4",focus="r")]
-[name="杜宾"]......是。
+[name="杜宾"]……是。
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
 [name="守院人"]那你就甘心这样了？
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
@@ -509,9 +509,9 @@
 [delay(time=2)]
 [name="守院人"]离开吧。你不属于这座山。
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
-[name="杜宾"]......什么？
+[name="杜宾"]……什么？
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
-[name="守院人"]你该走了。离开这座山，走出这片土地。去伊比利亚，去莱塔尼亚，去哥伦比亚......
+[name="守院人"]你该走了。离开这座山，走出这片土地。去伊比利亚，去莱塔尼亚，去哥伦比亚……
 [name="守院人"]去玻利瓦尔以外的地方——这片大地如此广阔，总会有你想象中的“伟大的人”。
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
 [name="杜宾"]可我——
@@ -534,7 +534,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_1254_1#1$1",focus="l")]
-[name="守院人"]你留在这里，只能一天天地看着这些石头出神，一天天想不出答案......那还不如出去走走。
+[name="守院人"]你留在这里，只能一天天地看着这些石头出神，一天天想不出答案……那还不如出去走走。
 [Dialog]
 [PlaySound(key="$dooropenquite", volume=1)]
 [charslot(slot="l",name="avg_npc_1254_1#1$1",afrom=1, ato=0,duration=1.5)]
@@ -576,7 +576,7 @@
 汉科站在真正玻利瓦尔人和联合政府的旗帜下，直直地看着她。
 将军的眼里没有愧疚，没有愤怒，只有一种怪异的平静。
 仿佛他从未说过那些关于玻利瓦尔的豪言壮语。
-仿佛那些跨过内河的夜晚，那些倒在猎犬尖牙下的战士，那些被他亲手埋进土里的名字......通通都未曾存在过。
+仿佛那些跨过内河的夜晚，那些倒在猎犬尖牙下的战士，那些被他亲手埋进土里的名字……通通都未曾存在过。
 [name="杜宾"]（紧握匕首）
 [Dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=70, fadeout=true, block=false)]
@@ -600,7 +600,7 @@
 她以为那一刻会有什么得到解脱。愤怒、屈辱、不甘——在强烈的情绪鼓动下，总该有一些东西得到释放。
 可什么都没有。
 只有窒息。只有河水漫过头顶。
-无边无际的河水漫过头顶......
+无边无际的河水漫过头顶……
 [Dialog]
 [stopsound(channel="water",fadetime=1.5)]
 [Delay(time=2.5)]
@@ -619,7 +619,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [PlaySound(key="$d_avg_grass", volume=1)]
 [Delay(time=2)]
-[name="杜宾"]......嗯？
+[name="杜宾"]……嗯？
 杜宾睁开眼，首先看到的是一片灰蒙蒙的天。雾气低垂，压在蜿蜒起伏的山脊线上，像一件被洗得发白的老旧军用大氅。
 [name="年迈的循兽"]（发出奇怪的声音）
 [Dialog]
@@ -636,7 +636,7 @@
 [charslot(slot="m",name="avg_npc_602_1#1$1",focus="n")]
 [name="杜宾"]循兽？这里怎么会有循兽？
 [charslot(slot="m",name="avg_npc_602_1#1$1",focus="n")]
-[name="杜宾"]......我这是在？
+[name="杜宾"]……我这是在？
 [charslot]
 这里不是修道院。
 没有残损的回廊，没有碎裂的石阶，也没有那扇吱呀作响的木门。她的身下是一片荒草疯长的原野，露水打湿了她的衣摆和皮靴。
@@ -651,7 +651,7 @@
 [Delay(time=2)]
 杜宾站起身。
 [charslot(slot="m",name="char_130_doberm_ex#1",focus="m")]
-[name="杜宾"]嗯？这东西是......一把铁锤？
+[name="杜宾"]嗯？这东西是……一把铁锤？
 [charslot(slot="m",name="char_130_doberm_ex#1",focus="n")]
 那的确是一把铁锤，只是两端都生了锈，被人随意地扔在了地里。
 [charslot(slot="m",name="char_130_doberm_ex#1",focus="n")]
@@ -675,7 +675,7 @@
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="山民"]啥？
 [charslot(slot="m",name="char_130_doberm_ex#3",focus="m")]
-[name="杜宾"]......对不起，我还是找不到。
+[name="杜宾"]……对不起，我还是找不到。
 [charslot]
 猎户抱着循兽，一脸茫然地看着她。
 [charslot(slot="m",name="char_130_doberm_ex#4",focus="m")]
@@ -685,15 +685,15 @@
 [charslot]
 猎人挠了挠头。
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
-[name="山民"]那个......丫头，你怕是让这山里的瘴气给魇住了吧？
+[name="山民"]那个……丫头，你怕是让这山里的瘴气给魇住了吧？
 [charslot(slot="m",name="char_130_doberm_ex#3",focus="m")]
 [name="杜宾"]什么？
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
-[name="山民"]我就一打猎的，早上起来发现家里的老玻利跑了，追了一路追到了这儿......我可不认识你啊。
+[name="山民"]我就一打猎的，早上起来发现家里的老玻利跑了，追了一路追到了这儿……我可不认识你啊。
 [charslot]
 杜宾一时语塞，转头看向那些无脸的石像。
 [charslot(slot="m",name="char_130_doberm_ex#1",focus="m")]
-[name="杜宾"]那这些石像......这间修道院......
+[name="杜宾"]那这些石像……这间修道院……
 [charslot]
 猎户顺着她的目光看过去，突然笑出了声。那笑声相当粗粝，像石头和石头在摩擦。
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
@@ -703,18 +703,18 @@
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="山民"]我小时候也猜过，这东西会不会是什么值钱的艺术品。
 [name="山民"]但我听我爷爷说，他们那一辈就已经用它们来做磨盘，做食槽，做垒墙的垫脚石了。
-[name="山民"]现在也就剩下这么一片，立在这儿没人管。嘿哟，这山里就剩下几户人家了，谁还来管这个哦......
+[name="山民"]现在也就剩下这么一片，立在这儿没人管。嘿哟，这山里就剩下几户人家了，谁还来管这个哦……
 [charslot]
 她觉得胸口有什么东西在往下沉。
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="山民"]不过你刚才有一句话，倒是说对了。
 [charslot(slot="m",name="char_130_doberm_ex#3",focus="m")]
-[name="杜宾"]......？
+[name="杜宾"]……？
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
 [name="山民"]去玻利瓦尔以外的地方找找吧。
 老人把怀里的循兽抱紧了些，转头朝雾里走去。
 [charslot(slot="m",name="avg_npc_1254_1#1$1",focus="m")]
-[name="山民"]这片土地上的“伟大的人”......我反正是没见过的。
+[name="山民"]这片土地上的“伟大的人”……我反正是没见过的。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_1254_1#1$1",afrom=1, ato=0,duration=1.5)]

@@ -6,7 +6,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=2)]
-[Sticker(id="st1", multi = true, text="维娜、汉娜、贝尔德、我......我们敞着衣服，在大马路上迎着风走。", x=300, y=220,alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="维娜、汉娜、贝尔德、我……我们敞着衣服，在大马路上迎着风走。", x=300, y=220,alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n大瓦数的源石灯整夜都不睡，诺伯特区的出入境关口张大了嘴巴，将数不清的货物吞进去或者吐出来。",block = true)]
 [Sticker(id="st1", multi = true, text="\n过磅员忙得患上了腱鞘炎，卸货工肩膀上的老茧一天比一天厚，越厚他越踏实。",block = true)]
 [Sticker(id="st1")]
@@ -78,7 +78,7 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_242")]
-[name="帮派分子A"]格拉斯哥帮......好像听过......
+[name="帮派分子A"]格拉斯哥帮……好像听过……
 [name="帮派分子A"]总之有心了。
 [Dialog]
 [charslot]
@@ -94,17 +94,17 @@
 [PlaySound(key="$rungeneral",volume=1)]
 [charslot(slot="m",name="avg_npc_002",duration=1)]
 [Delay(time=1.5)]
-[name="报信的帮派分子"]那个，呼——让我喘口气......
+[name="报信的帮派分子"]那个，呼——让我喘口气……
 [charslot(slot="m",name="avg_npc_421_1#1$1")]
 [name="帮派分子B"]条子怎么说？
 [charslot(slot="m",name="avg_npc_002")]
 [name="报信的帮派分子"]扣了咱们几个兄弟，还说等老大从医院出来，直接去一趟警局，配合调查。
 [name="报信的帮派分子"]“诺伯特区的帮派分子跑到萨迪恩区的工厂闹事，属于跨城区恶性事件，必须严肃处理，首恶分子加重处罚。”
-[name="报信的帮派分子"]......反正是这么个意思。
+[name="报信的帮派分子"]……反正是这么个意思。
 [charslot(slot="m",name="avg_npc_421_1#1$1")]
 [name="帮派分子B"]那，伤了老大的那个崽子呢？
 [charslot(slot="m",name="avg_npc_002")]
-[name="报信的帮派分子"]......
+[name="报信的帮派分子"]……
 [name="报信的帮派分子"]条子罚了那家伙一点钱，就放他回去了。
 [charslot(slot="m",name="avg_npc_242")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -182,7 +182,7 @@
 [charslot(slot="r",name="avg_155_tiger_1#3$1",focus="r")]
 [name="因陀罗"]你偷偷往里面加了那个什么“佐味胶囊”，我都发现了，懒得揭穿你。
 [charslot(slot="l",name="avg_npc_405_1#8$1",focus="l")]
-[name="摩根"]哈哈......
+[name="摩根"]哈哈……
 [Dialog]
 [charslot(slot="r",name="avg_155_tiger_1#8$1")]
 [Delay(time=0.5)]
@@ -222,7 +222,7 @@
 [name="疲惫的工人"]端上来的时候，多撒点面包碎。
 [charslot(slot="l",name="avg_npc_006",focus="l")]
 [name="忧愁的工人"]可能我那个信封还是太薄了吧，入不了萨迪恩区劳工所那些老爷们的眼。
-[name="忧愁的工人"]......但那已经是我大半年的积蓄了。
+[name="忧愁的工人"]……但那已经是我大半年的积蓄了。
 [charslot(slot="r",name="avg_npc_001",focus="r")]
 [name="疲惫的工人"]别想了，今天我请客。
 [charslot(slot="l",name="avg_npc_006",focus="l")]
@@ -239,28 +239,28 @@
 [charslot(slot="l",name="avg_npc_006",focus="l")]
 [name="忧愁的工人"]还是得接着想办法，看能不能搭上线，直接迁到萨迪恩区。不然每天都跨城区上工，也太麻烦了。
 [charslot(slot="r",name="avg_npc_001",focus="r")]
-[name="疲惫的工人"]说的是啊......
+[name="疲惫的工人"]说的是啊……
 [name="疲惫的工人"]唉，诺伯特区的人，现在反而需要跑到萨迪恩区的工厂和物流码头讨生活，放在十年前，谁敢相信会发生这样的事。
 [charslot(slot="l",name="avg_npc_006",focus="l")]
 [name="忧愁的工人"]没办法，谁叫不景气的是咱们呢。
-[name="忧愁的工人"]以前，咱们拥有伦蒂尼姆最大和最多的物流集散点，是伦蒂尼姆的大门。可自从萨迪恩区的轻工业发展起来，变化大家都看在眼里......
-[name="忧愁的工人"]纺织品、玻璃工艺品、罐头、电器......人家建了越来越多的工厂，能生产越来越多的东西。
+[name="忧愁的工人"]以前，咱们拥有伦蒂尼姆最大和最多的物流集散点，是伦蒂尼姆的大门。可自从萨迪恩区的轻工业发展起来，变化大家都看在眼里……
+[name="忧愁的工人"]纺织品、玻璃工艺品、罐头、电器……人家建了越来越多的工厂，能生产越来越多的东西。
 [name="忧愁的工人"]紧跟着建了更大和更多的物流集散点，诺伯特区就肉眼可见地不行了。
 [name="忧愁的工人"]这两年，街上只有两种东西在增多，一种是无所事事的年轻人，这个帮那个派的，成天在录像厅、桌球室和酒吧这些地方打转。
-[name="忧愁的工人"]一种是济贫院。但治标不治本，诺伯特区有多少人在靠领政府的失业救济金过日子......伦蒂尼姆已经不再愿意多管我们。
+[name="忧愁的工人"]一种是济贫院。但治标不治本，诺伯特区有多少人在靠领政府的失业救济金过日子……伦蒂尼姆已经不再愿意多管我们。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
-[name="摩根"]......
+[name="摩根"]……
 [Dialog]
 [charslot]
 摩根突然想到了被自己撕掉的那页“摩根回忆录”，啤酒滑下喉咙，很多事从脑子里翻了上来。
-那些接驳车和卸货车、那些服装店、那些杂志摊......那些来来往往笑得很满足的人。
+那些接驳车和卸货车、那些服装店、那些杂志摊……那些来来往往笑得很满足的人。
 日落街酒店的门童从早到晚地忙碌着，连水都喝不上一口。
 来自维多利亚各地，甚至莱塔尼亚、卡西米尔的货商和上流人物络绎不绝地办理入住。
 那是整个伦蒂尼姆的门脸。
 如今呢，如今？
-......
+……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement",volume=1)]
 [Delay(time=1)]
@@ -277,9 +277,9 @@
 [charslot(slot="l",name="avg_npc_006",focus="l")]
 [name="忧愁的工人"]明儿我想再去一趟劳工所，你跟我一起吧。听我的，快点迁去萨迪恩区。
 [charslot(slot="r",name="avg_npc_001",focus="r")]
-[name="疲惫的工人"]我还是......
+[name="疲惫的工人"]我还是……
 [charslot(slot="l",name="avg_npc_006",focus="l")]
-[name="忧愁的工人"]我知道你在想什么，谁舍得呢？但这里，说不定哪天就被伦蒂尼姆扔掉了......
+[name="忧愁的工人"]我知道你在想什么，谁舍得呢？但这里，说不定哪天就被伦蒂尼姆扔掉了……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot = "left",afrom = 1, ato = 0,duration = 1, end = true)]
@@ -290,7 +290,7 @@
 [charslot(slot="l",name="avg_npc_405_1#7$1",focus="l")]
 [name="摩根"]汉娜，刚刚那两个人，你有没有印象？
 [charslot(slot="l",name="avg_npc_405_1#12$1",focus="l")]
-[name="摩根"]他们以前在物流码头当过磅员，土生土长的诺伯特人。我小的时候，可羡慕他们的工作了......
+[name="摩根"]他们以前在物流码头当过磅员，土生土长的诺伯特人。我小的时候，可羡慕他们的工作了……
 [charslot(slot="r",name="avg_155_tiger_1#10$1",focus="r")]
 [name="因陀罗"]如果诺伯特区的人都不管诺伯特区，说不定哪天，真像这两人说的一样，它真的会被伦蒂尼姆扔出去。
 [charslot(slot="r",name="avg_155_tiger_1#9$1",focus="r")]
@@ -301,7 +301,7 @@
 [name="摩根"]但光靠打一场架，解决不了咱们现在的问题。
 [name="摩根"]放心，我最近一直在琢磨这件事情。
 [charslot(slot="r",name="avg_155_tiger_1#6$1",focus="r")]
-[name="因陀罗"]......
+[name="因陀罗"]……
 [name="因陀罗"]但愿你说的是真的。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -337,7 +337,7 @@
 [charslot(slot = "m", name = "avg_155_tiger_1#9$1")]
 [name="因陀罗"]维娜，你今天把大家叫过来，说有任务要布置，什么任务？终于要去替黎恩老大讨回公道了吗？这可都半个月了。
 [charslot(slot = "m", name = "avgnew_112_siege_1#2$1")]
-[name="推进之王"]......
+[name="推进之王"]……
 [charslot(slot = "m", name = "avgnew_112_siege_1#6$1")]
 [name="推进之王"]别急。
 [Dialog]
@@ -355,7 +355,7 @@
 [name="因陀罗"]当时不是还群情激奋，要一把火把对方的工厂给点了吗？
 [charslot(slot = "m", name = "avg_npc_863_1#7$1")]
 [name="贝尔德"]他们确实折腾了两回，叫好了人，但还没出诺伯特区，就被拦了下来，后来只能不了了之。
-[name="贝尔德"]这周，萨迪恩区的劳工所在诺伯特区加招了一批工人，我看了看名单，里面就有“黎恩兄弟”的几个头目......
+[name="贝尔德"]这周，萨迪恩区的劳工所在诺伯特区加招了一批工人，我看了看名单，里面就有“黎恩兄弟”的几个头目……
 [name="贝尔德"]“黎恩兄弟”现在没人能掌控大局，只能散伙。
 [charslot(slot = "m", name = "avg_155_tiger_1#9$1")]
 [CameraShake(duration=0.5, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -366,7 +366,7 @@
 [name="推进之王"]“黎恩兄弟”以前罩着附近最大的几个库房，收仓储生意的保护费，能养活几百号人。
 [name="推进之王"]但现在诺伯特区几个市场都冷冷清清的，他们很难维持下去。
 [charslot(slot = "m", name = "avg_155_tiger_1#2$1")]
-[name="因陀罗"]......
+[name="因陀罗"]……
 [charslot(slot = "m", name = "avg_npc_863_1#7$1")]
 [name="贝尔德"]维娜，其他人都叫过来了，在外面。
 [charslot(slot = "m", name = "avgnew_112_siege_1#1$1")]
@@ -389,13 +389,13 @@
 [name="因陀罗"]我们为什么要这么做？
 [charslot(slot = "m", name = "avg_npc_863_1#8$1")]
 [name="贝尔德"]汉娜，路上再跟你解释，两三句话说不清楚。收拾一下出发吧，今天要跑很多地方。
-[name="贝尔德"]不只是“黎恩兄弟”的仓库，录像厅、桌球厅、饮冰室、饭店......诺伯特区半数的场子，咱们都要去踩一遍。
+[name="贝尔德"]不只是“黎恩兄弟”的仓库，录像厅、桌球厅、饮冰室、饭店……诺伯特区半数的场子，咱们都要去踩一遍。
 [name="贝尔德"]你的拳头，今天可有的忙了。
 [charslot(slot = "m", name = "avg_155_tiger_1#9$1")]
 [name="因陀罗"]诺伯特区的帮派虽然都没有特别大，但大家从来都是各自照看好自己的地盘，井水不犯河水，遇到事情一致对外。
 [name="因陀罗"]所以其他城区的人从来不敢惹我们。
 [charslot(slot = "m", name = "avg_155_tiger_1#2$1")]
-[name="因陀罗"]维娜她毕竟不是诺伯特区的人，才来几年。贝尔德，你和摩根，我们从小在这里长大，怎么能同意这么做......对了，摩根呢？
+[name="因陀罗"]维娜她毕竟不是诺伯特区的人，才来几年。贝尔德，你和摩根，我们从小在这里长大，怎么能同意这么做……对了，摩根呢？
 [name="因陀罗"]今天怎么没见到她？她知道这件事吗？
 [charslot(slot = "m", name = "avgnew_112_siege_1#2$1")]
 [name="推进之王"]汉娜，这就是摩根拟定的计划。
@@ -417,7 +417,7 @@
 [Delay(time=2.5)]
 [charslot(slot = "l", name = "avg_npc_416_1#1$1")]
 [name="警惕的男人"]我来了，出来吧，就我一个人。
-[name="警惕的男人"]你是谁啊......鬼鬼祟祟的，还把信封绑在石头上扔进来，我窗户都破了。
+[name="警惕的男人"]你是谁啊……鬼鬼祟祟的，还把信封绑在石头上扔进来，我窗户都破了。
 [name="警惕的男人"]字写得真丑。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -437,7 +437,7 @@
 [charslot(slot="r",name="avg_npc_405_1#10$1",focus="r")]
 [name="摩根"]叫呗。你不是已经看过我写给你的信了。
 [charslot(slot = "l", name = "avg_npc_416_1#1$1",focus="l")]
-[name="警惕的男人"]你......
+[name="警惕的男人"]你……
 [charslot(slot="r",name="avg_npc_405_1#1$1",focus="r")]
 [name="摩根"]你该庆幸来的是我，而不是我的朋友，我是来找你“谈谈”的，谈不拢我才会用到这把刀，放心。
 [name="摩根"]再确认一下，萨迪恩区罗米纺织厂的伯尼，我没找错人吧？
@@ -451,15 +451,15 @@
 [name="摩根"]你说那些没盖章的货品清单和写着你名字的结算单据吗？
 [name="摩根"]挺好查的。我花了半个月，就把你这大半年的记录都搜集全了。
 [charslot(slot="r",name="avg_npc_405_1#1$1",focus="r")]
-[name="摩根"]盗版录像带、未加工的香料、法术发生装置、源石器械......这在萨迪恩区可都是严格管控的东西，就这么被你带了进来，啧啧。
-[name="摩根"]伯尼先生，如果你们纺织厂的老板罗米发现工头在利用他工厂的物流渠道干走私生意......
+[name="摩根"]盗版录像带、未加工的香料、法术发生装置、源石器械……这在萨迪恩区可都是严格管控的东西，就这么被你带了进来，啧啧。
+[name="摩根"]伯尼先生，如果你们纺织厂的老板罗米发现工头在利用他工厂的物流渠道干走私生意……
 [name="摩根"]他是会打断你的腿，还是把你交给条子，让条子打断你的腿？
 [charslot(slot = "l", name = "avg_npc_416_1#1$1",focus="l")]
-[name="警惕的走私客"]......你到底想怎么样？
+[name="警惕的走私客"]……你到底想怎么样？
 [charslot(slot="r",name="avg_npc_405_1#5$1",focus="r")]
 [name="摩根"]半个月前，你就是在这里和黎恩老大起了冲突，把他搞成了重伤，不会忘记了吧？
 [charslot(slot = "l", name = "avg_npc_416_1#1$1",focus="l")]
-[name="警惕的走私客"]......
+[name="警惕的走私客"]……
 [charslot(slot="r",name="avg_npc_405_1#5$1",focus="r")]
 [name="摩根"]人家现在还在医院躺着，你不应该去道个歉吗？还有，该付的赔偿，连一便士也不能少。
 [charslot(slot = "l", name = "avg_npc_416_1#1$1",focus="l")]
@@ -501,7 +501,7 @@
 他抬头看，年轻的菲林居高临下地瞪着他，对方牙齿很白，但表情可不怎么好看。
 [charslot(slot = "l", name = "avg_npc_416_1#1$1",focus="l")]
 [name="警惕的走私客"]嘶——
-[name="警惕的走私客"]光盯着你拿刀的那只手了......
+[name="警惕的走私客"]光盯着你拿刀的那只手了……
 [charslot(slot="r",name="avg_npc_405_1#1$1",focus="r")]
 [name="摩根"]萨迪恩区这么厉害，你为什么还要通过诺伯特区的路子走私这些货呢？绕这么大一圈。
 [name="摩根"]萨迪恩区的关口审查很严格吧，有些东西，偏偏只能从我们这个已经衰落的老物流区才能进入伦蒂尼姆，是不是也很有意思？
@@ -509,7 +509,7 @@
 [name="摩根"]这两年，诺伯特区这些大大小小的帮派，只能勉强混日子。但以后，诺伯特区所有的场子，都归我们格拉斯哥帮罩着。
 [name="摩根"]你要是还想做这个生意，就给我夹紧尾巴，别太狂了。
 [charslot(slot = "l", name = "avg_npc_416_1#1$1",focus="l")]
-[name="警惕的走私客"]......
+[name="警惕的走私客"]……
 [charslot(slot="r",name="avg_npc_405_1#5$1",focus="r")]
 [name="摩根"]走了。明天之前，如果你没出现在医院，你知道后果。
 [Dialog]
@@ -522,7 +522,7 @@
 [name="摩根"]现在的萨迪恩区确实很热闹，那么多烟囱、那么多工人，很多人都羡慕你们的生活。
 [name="摩根"]可是，伯尼先生，你去过奥克特里格区吗？
 [charslot(slot="r",name="avg_npc_405_1#7$1",focus="r")]
-[name="摩根"]如果你看过那些贵族的庄园和宅邸，你会发现，那里面的道路可能比萨迪恩区的主干道还要宽阔......
+[name="摩根"]如果你看过那些贵族的庄园和宅邸，你会发现，那里面的道路可能比萨迪恩区的主干道还要宽阔……
 [name="摩根"]他们身上的衣服永远干净，他们不需要上工，更不需要走私盗版录像带，但他们可以在比你身后的厂房面积更大的花园里喝下午茶。
 [charslot(slot="r",name="avg_npc_405_1#5$1",focus="r")]
 [name="摩根"]对他们来说，萨迪恩区也好，诺伯特区也好，可能完全没有区别。
@@ -538,7 +538,7 @@
 [charslot(slot = "r", afrom = "1", ato = "0",duration = 1)]
 [Delay(time=1.5)]
 [charslot(slot = "l", name = "avg_npc_416_1#1$1",focus="l")]
-[name="警惕的走私客"]......
+[name="警惕的走私客"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -562,7 +562,7 @@
 [charslot(slot = "m", name = "avg_155_tiger_1#6$1")]
 [name="因陀罗"]救命，别吹了。
 [charslot(slot = "m", name = "avg_npc_863_1#5$1")]
-[name="贝尔德"]哈哈哈哈......
+[name="贝尔德"]哈哈哈哈……
 [charslot(slot="m",name="avg_npc_405_1#1$1")]
 [name="摩根"]你们这边怎么样？
 [charslot(slot = "m", name = "avg_npc_863_1#5$1")]
@@ -578,12 +578,12 @@
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_405_1#6$1")]
 [Delay(time=1.5)]
-[name="摩根"]维娜，我其实一直想问你一个问题......伦蒂尼姆，到底是谁的伦蒂尼姆？
+[name="摩根"]维娜，我其实一直想问你一个问题……伦蒂尼姆，到底是谁的伦蒂尼姆？
 [name="摩根"]如果少掉一块两块地方，伦蒂尼姆其实不会有什么变化，那我们这些家伙，到底算什么？
 [name="摩根"]诺伯特区，可能真的会被伦蒂尼姆彻底扔掉，对吧？
 [charslot(slot="m",name="avgnew_112_siege_1#9$1")]
-[name="推进之王"]......
-[name="推进之王"]摩根，说实话，我很难回答这个问题。伦蒂尼姆，乃至维多利亚......我也需要寻找这些问题的答案。
+[name="推进之王"]……
+[name="推进之王"]摩根，说实话，我很难回答这个问题。伦蒂尼姆，乃至维多利亚……我也需要寻找这些问题的答案。
 [charslot(slot="m",name="avgnew_112_siege_1#1$1")]
 [name="推进之王"]但我现在是格拉斯哥帮的一员，那我自然也是诺伯特区的一员。
 [name="推进之王"]我没法承诺什么，但如果真有那么一天，我不会看着它就那么发生。
@@ -616,7 +616,7 @@
 [charslot(slot = "m", name = "avg_155_tiger_1#2$1")]
 [name="因陀罗"]不过话说回来，摩根，你这次的计划，为什么不提前跟我说？
 [charslot(slot="m",name="avg_npc_405_1#10$1")]
-[name="摩根"]傻汉娜，你那个塞满了肌肉的脑袋......能理解得了吗？
+[name="摩根"]傻汉娜，你那个塞满了肌肉的脑袋……能理解得了吗？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]

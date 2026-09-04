@@ -13,7 +13,7 @@
 [delay(time=0.51)]
 [characteraction(name="middle", type="move", xpos=-200, fadetime=1, block=false)]
 [Character(name="avg_421_laplum_1#1",fadetime=0.7)]
-[name="拉菲艾拉"]......
+[name="拉菲艾拉"]……
 [dialog]
 [delay(time=0.51)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -26,7 +26,7 @@
 [delay(time=0.51)]
 [characteraction(name="middle", type="move", xpos=-200, fadetime=1, block=false)]
 [Character(name="avg_npc_196_1#1",fadetime=0.7)]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [dialog]
 [delay(time=0.51)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -45,7 +45,7 @@
 [delay(time=0.51)]
 [characteraction(name="middle", type="move", xpos=-200, fadetime=1, block=false)]
 [Character(name="avg_421_laplum_1#1",fadetime=0.7)]
-[name="拉菲艾拉"]......
+[name="拉菲艾拉"]……
 [Character(name="avg_421_laplum_1#5",fadetime=0.7)]
 [dialog]
 [delay(time=0.51)]
@@ -63,7 +63,7 @@
 [Character(name="avg_npc_196_1#1")]
 [name="林雨霞"]（还是说，这一带有什么她要掩人耳目才能进去的地方？）
 [Character(name="avg_npc_196_1#5")]
-[name="林雨霞"]（......算了，先去找陈晖洁吧。）
+[name="林雨霞"]（……算了，先去找陈晖洁吧。）
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -76,7 +76,7 @@
 [name="D.D.D."]首先，由我来宣布出线队伍名单。
 [name="D.D.D."]本次大奖赛的第一轮比赛中，一共有十五支队伍出线。
 [name="D.D.D."]鼠胆龙威队，当之无愧的最大热门。
-[name="D.D.D."]灰羽队、吃豆人队、甜蜜夏日队、商务合作请致电5453-46235队......
+[name="D.D.D."]灰羽队、吃豆人队、甜蜜夏日队、商务合作请致电5453-46235队……
 [dialog]
 [stopmusic(fadetime=1)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
@@ -171,7 +171,7 @@
 [character(name="avg_npc_203_1#4",name2="avg_npc_197_1#5",focus=2)]
 [name="诗怀雅"]但真的是这样吗？
 [character(name="avg_npc_203_1#2",name2="avg_npc_197_1#5",focus=1)]
-[name="星熊"]嗯......我觉得Missy你有点大惊小怪。
+[name="星熊"]嗯……我觉得Missy你有点大惊小怪。
 [character(name="avg_npc_203_1#2",name2="avg_npc_197_1#4",focus=2)]
 [name="诗怀雅"]你说什么？！
 [character(name="avg_npc_203_1#5",name2="avg_npc_197_1#4",focus=1)]
@@ -225,7 +225,7 @@
 [name="诗怀雅"]全玻利瓦尔，无论是联合政府、辛嘉斯、真正玻利瓦尔人，那些大人物们统统都要向多索雷斯购买这些。
 [name="诗怀雅"]别说在玻利瓦尔了，我家里也经常能看到玻利瓦尔产的龙舌兰和咖啡，虽然我不记得出产地，不过这里工厂的商标我一定见过。
 [character(name="avg_npc_203_1#5",name2="avg_npc_197_1#6",focus=1)]
-[name="星熊"]而且守卫们装备精良，精气神也很饱满......
+[name="星熊"]而且守卫们装备精良，精气神也很饱满……
 [name="星熊"]也就是说，在娱乐业和旅游业之外，这座城市还牢牢掌握着让所有人都无法忽视的奢侈品产业。
 [name="星熊"]我明白你的意思了，这座城市表面混乱，实际上根基是非常稳固的，它完全有潜力变成龙门那样有条不紊的城市。
 [name="星熊"]有意思，我也开始感兴趣了。
@@ -274,8 +274,8 @@
 [character(name="avg_1013_spchen_1#1",name2="char_empty",fadetime=0.3)]
 [delay(time=1)]
 [character(name="avg_1013_spchen_1#4",name2="char_empty",fadetime=0.3)]
-[name="陈"]......
-[name="陈"]（绿色的头发，角......星熊？）
+[name="陈"]……
+[name="陈"]（绿色的头发，角……星熊？）
 [dialog]
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_1013_spchen_1#4",name2="avg_npc_196_1#1",fadetime=1)]
@@ -312,7 +312,7 @@
 [character(name="avg_npc_207")]
 [name="赌场老板"]大姐头，您怎么来了？
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#1",focus=1)]
-[name="陈"]......
+[name="陈"]……
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#5",focus=2)]
 [name="林雨霞"]让别人都离远点，我和她有事要谈。
 [character]
@@ -333,7 +333,7 @@
 [name="林雨霞"]比赛里我跟踪了一支队伍，他们借着比赛在那片居民区里安装了不少炸弹。
 [name="林雨霞"]从他们的对话来判断，至少还有三到四支队伍在做同样的事。
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#1",focus=1)]
-[name="陈"]你刚才不是说......
+[name="陈"]你刚才不是说……
 [name="陈"]哦，你怀疑埃内斯托。
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#1",focus=2)]
 [name="林雨霞"]你就不怀疑？
@@ -344,7 +344,7 @@
 [name="林雨霞"]我一个人没法确定太多，但至少有一枚炸弹现在就在我的包里。
 [name="林雨霞"]你要摸摸看吗？
 [character(name="avg_1013_spchen_1#2",name2="avg_npc_196_1#1",focus=1)]
-[name="陈"]......免了。
+[name="陈"]……免了。
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#1",focus=1)]
 [name="陈"]哪支队伍？
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#5",focus=2)]
@@ -354,7 +354,7 @@
 [character(name="avg_1013_spchen_1#4",name2="avg_npc_196_1#1",focus=2)]
 [name="林雨霞"]我也没想到。
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#1",focus=1)]
-[name="陈"]......也就是说，他们在有组织、有计划地进行某项计划。
+[name="陈"]……也就是说，他们在有组织、有计划地进行某项计划。
 [name="陈"]而且连炸弹都用上了，那已经不是普通的计划了。
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#1",focus=2)]
 [name="林雨霞"]你打算怎么做？
@@ -369,7 +369,7 @@
 [name="林雨霞"]而坎黛拉女士作为这里的市长，纵容着这一切的发生。
 [name="林雨霞"]这样的城市，这样的人，真的值得你去帮助吗？
 [character(name="avg_1013_spchen_1#2",name2="avg_npc_196_1#1",focus=1)]
-[name="陈"]......如果你想说，你因此就认同安装炸弹的那伙人，那我们可以再打一场，这次没有点到为止。
+[name="陈"]……如果你想说，你因此就认同安装炸弹的那伙人，那我们可以再打一场，这次没有点到为止。
 [character(name="avg_1013_spchen_1#2",name2="avg_npc_196_1#1",focus=2)]
 [name="林雨霞"]恰恰相反，陈晖洁。
 [name="林雨霞"]我并不那么在乎这座城市是什么样，会变成什么样。
@@ -407,9 +407,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [character(name="avg_1013_spchen_1#7",name2="avg_npc_196_1#5",focus=1)]
-[name="陈"]......
+[name="陈"]……
 [character(name="avg_1013_spchen_1#7",name2="avg_npc_196_1#5",focus=2)]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [dialog]
 [character(name="avg_1013_spchen_1#7",name2="avg_npc_196_1#5")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -458,7 +458,7 @@
 [character(name="avg_1013_spchen_1#2",name2="avg_npc_196_1#1",focus=1)]
 [name="陈"]可以。
 [character(name="avg_1013_spchen_1#2",name2="avg_npc_196_1#1",focus=2)]
-[name="林雨霞"]......想不到有一天会和你合作。
+[name="林雨霞"]……想不到有一天会和你合作。
 [character(name="avg_1013_spchen_1#1",name2="avg_npc_196_1#1",focus=1)]
 [name="陈"]这是我要说的话。
 [Dialog]
@@ -472,7 +472,7 @@
 [playMusic(intro="$mist_intro", key="$mist_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
-[name="埃内斯托"]拳头不够大，挺直着腰又能给谁看......呵。
+[name="埃内斯托"]拳头不够大，挺直着腰又能给谁看……呵。
 [dialog]
 [character]
 [playsound(key="$doorknockquite")]
@@ -505,7 +505,7 @@
 [name="埃内斯托"]我骂的是那些不知道轻重的蠢材。
 [name="埃内斯托"]这座城市是很娱乐，但如果只有娱乐，又怎么可能在玻利瓦尔站稳脚跟。
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#3",focus=2)]
-[name="拉菲艾拉"]但你这不还是在说我呆吗......
+[name="拉菲艾拉"]但你这不还是在说我呆吗……
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#3",focus=1)]
 [name="埃内斯托"]你难道不呆吗，我亲爱的妹妹。
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#5",focus=2)]
@@ -517,7 +517,7 @@
 [name="拉菲艾拉"]我不确定，就是有这种感觉。
 [character(name="avg_486_espumo_1#2",name2="avg_421_laplum_1#5",focus=1)]
 [name="埃内斯托"]我会通知参赛组的人，让他们平时也小心一点。
-[name="埃内斯托"]......算了，这帮人任务之外跟住在这里的人也没什么区别，反倒不容易被查到点什么。
+[name="埃内斯托"]……算了，这帮人任务之外跟住在这里的人也没什么区别，反倒不容易被查到点什么。
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#5",focus=1)]
 [name="埃内斯托"]总之，任务完成得如何？
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#1",focus=2)]
@@ -527,13 +527,13 @@
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#1",focus=2)]
 [name="拉菲艾拉"]中间遇到了一次你队友里的紫发的那个，按你说的没有和她正面冲突，绕开了。
 [character(name="avg_486_espumo_1#7",name2="avg_421_laplum_1#1",focus=1)]
-[name="埃内斯托"]......她的反应呢？
+[name="埃内斯托"]……她的反应呢？
 [character(name="avg_486_espumo_1#7",name2="avg_421_laplum_1#1",focus=2)]
 [name="拉菲艾拉"]她也没和我们纠缠。
 [character(name="avg_486_espumo_1#2",name2="avg_421_laplum_1#1",focus=1)]
-[name="埃内斯托"]她没来找我，看来她确实没有发觉......
+[name="埃内斯托"]她没来找我，看来她确实没有发觉……
 [name="埃内斯托"]不，不能保证这一点，她比陈小姐明显更加不信任我，也有发现了而刻意对我隐瞒的可能性。
-[name="埃内斯托"]但是即使发现了，她也暂时无法轻举妄动......
+[name="埃内斯托"]但是即使发现了，她也暂时无法轻举妄动……
 [character(name="avg_486_espumo_1#4",name2="avg_421_laplum_1#1",focus=1)]
 [name="埃内斯托"]唉，这两位不肯一起行动，我没法一次盯着两个真是麻烦。
 [character]
@@ -582,7 +582,7 @@
 [name="埃内斯托"]不。
 [name="埃内斯托"]第一，要付出的代价可能有点高。
 [character(name="avg_486_espumo_1#2",name2="avg_421_laplum_1#1",focus=1)]
-[name="埃内斯托"]第二......她们是好人。
+[name="埃内斯托"]第二……她们是好人。
 [delay(time=1)]
 [character(name="avg_486_espumo_1#2",name2="avg_421_laplum_1#2",focus=2)]
 [name="拉菲艾拉"]好人？
@@ -611,15 +611,15 @@
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#1",focus=1)]
 [name="埃内斯托"]说起来，拉菲艾拉，你也在这座城市生活了几年，你知道多索雷斯这个名字的来历吗？
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#2",focus=2)]
-[name="拉菲艾拉"]嗯？我还真没有听说过......不过，既然是双日城，是指两个太阳吧。
+[name="拉菲艾拉"]嗯？我还真没有听说过……不过，既然是双日城，是指两个太阳吧。
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#2",focus=1)]
 [name="埃内斯托"]没错。那你再猜猜，是哪两个太阳？
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#3",focus=2)]
-[name="拉菲艾拉"]嗯......天上的太阳？
+[name="拉菲艾拉"]嗯……天上的太阳？
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#3",focus=1)]
 [name="埃内斯托"]这个太明显了，我们抬头就能看到。
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#3",focus=2)]
-[name="拉菲艾拉"]第二个......水里的太阳？
+[name="拉菲艾拉"]第二个……水里的太阳？
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#3",focus=1)]
 [name="埃内斯托"]不错啊，我还以为你猜不到。
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#3",focus=1)]
@@ -633,7 +633,7 @@
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#2",focus=1)]
 [name="埃内斯托"]没错，你再猜猜看，第三个太阳是什么？
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#2",focus=2)]
-[name="拉菲艾拉"]第三个......
+[name="拉菲艾拉"]第三个……
 [name="拉菲艾拉"]难道是指市长自己？
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#2",focus=1)]
 [name="埃内斯托"]哈哈哈，确实也有这种说法，坎黛拉女士就像这座城市的太阳一样，这座城市之所以能够存在，完全就是因为有她在。
@@ -649,12 +649,12 @@
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#2",focus=1)]
 [name="埃内斯托"]答案其实很简单，就在你爸爸的船上。
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#5",focus=2)]
-[name="拉菲艾拉"]那是我的养父，是你的爸爸才对好不好......诶，难道是那座很可爱的纯金雕像？
+[name="拉菲艾拉"]那是我的养父，是你的爸爸才对好不好……诶，难道是那座很可爱的纯金雕像？
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#5",focus=1)]
 [name="埃内斯托"]哈哈，没错。那就是这座城市的第三个太阳。
 [name="埃内斯托"]据说，其他人好说歹说才把坎黛拉女士给劝住了。
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#1",focus=2)]
-[name="拉菲艾拉"]......
+[name="拉菲艾拉"]……
 [name="拉菲艾拉"]有点没劲。
 [character(name="avg_486_espumo_1#6",name2="avg_421_laplum_1#1",focus=1)]
 [name="埃内斯托"]这座城市又有什么有劲的东西呢。
@@ -670,7 +670,7 @@
 [character(name="avg_486_espumo_1#1",name2="avg_421_laplum_1#1",focus=2)]
 [name="拉菲艾拉"]不知道。我一直以为你不会的。
 [character(name="avg_486_espumo_1#6",name2="avg_421_laplum_1#1",focus=1)]
-[name="埃内斯托"]......唉，你的直觉总是很准。
+[name="埃内斯托"]……唉，你的直觉总是很准。
 [character(name="avg_486_espumo_1#6",name2="avg_421_laplum_1#3",focus=2)]
 [name="拉菲艾拉"]你刚刚还说我呆呢。
 [character(name="avg_486_espumo_1#5",name2="avg_421_laplum_1#3",focus=1)]

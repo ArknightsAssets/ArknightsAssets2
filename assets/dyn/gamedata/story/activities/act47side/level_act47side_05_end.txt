@@ -12,7 +12,7 @@
 [PlaySound(key="$d_avg_mouse", volume=1)]
 [delay(time=0.3)]
 [name="父亲"]树林里，一只沙地兽吸引了我的注意，我的常识告诉我，这种小型生物只会出现在荒野。
-[name="父亲"]它受了惊吓，往灌木丛里逃窜，好奇心驱使我向前追去，扒开荆棘和藤蔓，我的眼前出现了意想不到的景象......
+[name="父亲"]它受了惊吓，往灌木丛里逃窜，好奇心驱使我向前追去，扒开荆棘和藤蔓，我的眼前出现了意想不到的景象……
 [dialog]
 [PlaySound(key="$d_avg_hidehaystack", volume=1)]
 [delay(time=2)]
@@ -27,10 +27,10 @@
 [focusout(type="bg", id="51_g13_seabornnest", from=0.8, to=0.7, duration=1, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [name="女儿"]嗯！
-[name="女儿"]好大一片沙漠和天空，它们接在一起的地方是粉色的，跟课本里的插图完全不一样，而且......
+[name="女儿"]好大一片沙漠和天空，它们接在一起的地方是粉色的，跟课本里的插图完全不一样，而且……
 [name="女儿"]闻起来甜甜的。
 [name="父亲"]哈哈，那是你妈妈在烤小蛋糕，一会儿就能开饭啦。
-[name="女儿"]爸爸，你再讲一遍去东部荒原探险的故事好不好？唔......不，还是讲飘浮在天上的城市吧。
+[name="女儿"]爸爸，你再讲一遍去东部荒原探险的故事好不好？唔……不，还是讲飘浮在天上的城市吧。
 [name="父亲"]别着急孩子，奇妙的经历数不胜数，我们还有很多时间。
 [name="父亲"]等小费妮长大，小脚迈得更利索了，会见到我看到过的一切的。我向你保证。
 [dialog]
@@ -57,7 +57,7 @@
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
 [name="费尔南"]然后一事无成，被邻居嘲笑，到了晚年只能给镇上的小孩编瞎话吗？
 [charslot(slot = "l", name = "avg_4214_cairn_1#10$1",focus="l")]
-[name="费尔南"]我相信过你的故事——会飞的循兽、飘浮的城市、金粉色的骸骨荒原......它们现在依旧是我珍贵的回忆。
+[name="费尔南"]我相信过你的故事——会飞的循兽、飘浮的城市、金粉色的骸骨荒原……它们现在依旧是我珍贵的回忆。
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
 [name="费尔南"]但你太相信自己的故事了。
 [dialog]
@@ -80,12 +80,12 @@
 [name="费尔南"]太感谢了。虽然旅行社的成员只有我一个，但也算是顺利起步了！
 [dialog]
 [charslot]
-[name="工作人员"]一个？我记得您提交的名单上还有一位成员的名字啊，好像是......
+[name="工作人员"]一个？我记得您提交的名单上还有一位成员的名字啊，好像是……
 [charslot(slot = "m", name = "avg_4214_cairn_1#3$1")]
 [name="费尔南"]马丁·伯恩，我老爹的名字，他去年就过世啦。
 [dialog]
 [charslot]
-[name="工作人员"]抱歉......
+[name="工作人员"]抱歉……
 [charslot(slot = "m", name = "avg_4214_cairn_1#7$1")]
 [name="费尔南"]不用道歉，要不是他，我也不会下定决心开一家属于自己的旅行社。
 [charslot(slot = "m", name = "avg_4214_cairn_1#3$1")]
@@ -94,7 +94,7 @@
 [charslot]
 [name="工作人员"]您的父亲会很欣慰的。对了，您制定好开业后的第一条旅游路线了吗？我可以向您推荐几个热门景点。
 [charslot(slot = "m", name = "avg_4214_cairn_1#4$1")]
-[name="费尔南"]唔......有没有从来没人去过的地方？
+[name="费尔南"]唔……有没有从来没人去过的地方？
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -110,7 +110,7 @@
 [charslot(slot = "l", name = "avg_4214_cairn_1#4$1",focus="l")]
 [name="费尔南"]“螺旋桨天堂”是这趟旅程的目的地，我想提前看看未来的景象，而我的客人想实现一个模糊的心愿。
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
-[name="费尔南"]娜斯提主任，我真的不是故意跟莱茵作对......客人的状况不佳，我只能从同为女妖的您身上搜集线索，我——
+[name="费尔南"]娜斯提主任，我真的不是故意跟莱茵作对……客人的状况不佳，我只能从同为女妖的您身上搜集线索，我——
 [charslot(slot = "r", name = "avg_4212_nasti_1#1$1",focus="r")]
 [name="娜斯提"]不用向我道歉，费尔南小姐。我不是来兴师问罪的，我只是想知道你和你的客人的来历。
 [charslot(slot = "r", name = "avg_4212_nasti_1#1$1",focus="r")]
@@ -120,9 +120,9 @@
 [charslot(slot = "r", name = "avg_4212_nasti_1#2$1",focus="r")]
 [name="娜斯提"]审判会比你想象的来得更快。
 [charslot(slot = "r", name = "avg_4212_nasti_1#5$1",focus="r")]
-[name="娜斯提"]请你尽可能简短地告诉我那名女妖客人的情况。你们在哪里相识，为什么会来这里，以及......她的身体状况如何？
+[name="娜斯提"]请你尽可能简短地告诉我那名女妖客人的情况。你们在哪里相识，为什么会来这里，以及……她的身体状况如何？
 [charslot(slot = "l", name = "avg_4214_cairn_1#4$1",focus="l")]
-[name="费尔南"]我记得那是两个月前，在骸骨荒原......
+[name="费尔南"]我记得那是两个月前，在骸骨荒原……
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -136,22 +136,22 @@
 [charslot(slot = "m", name = "avg_4214_cairn_1#10$1",posfrom="-150,0",posto="0,0", duration=1.5, isblock=true)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_4214_cairn_1#10$1")]
-[name="费尔南"]呼......晚上真冷，沙子黑乎乎的，跟老爹说的完全不一样嘛......
+[name="费尔南"]呼……晚上真冷，沙子黑乎乎的，跟老爹说的完全不一样嘛……
 [charslot(slot = "m", name = "avg_4214_cairn_1#4$1")]
 [name="费尔南"]骸骨荒原的外围也没有传说中那么吓人啊，什么剔骨的风沙、冤魂的嘶鸣，我这不是好好的？
 [charslot(slot = "m", name = "avg_4214_cairn_1#5$1")]
-[name="费尔南"]等等，那个山坡上的影子是什么？别真的是冤魂吧......
+[name="费尔南"]等等，那个山坡上的影子是什么？别真的是冤魂吧……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2035_1#9$1",duration=0.8,isblock=true)]
-[name="虚弱的女妖"]这就是......哥伦比亚？
+[name="虚弱的女妖"]这就是……哥伦比亚？
 [charslot(slot = "m", name = "avg_npc_2035_1#1$1")]
 [name="虚弱的女妖"]“引路”。
 [dialog]
 [PlaySound(key="$d_avg_magic_2",channel="magic", volume=1)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2035_1#1$1")]
-[name="虚弱的女妖"]引......咳......引路......
+[name="虚弱的女妖"]引……咳……引路……
 [dialog]
 [PlaySound(key="$d_avg_magic_2",channel="magic", volume=1)]
 [delay(time=0.7)]
@@ -173,35 +173,35 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_npc_2035_1#9$1")]
-[name="虚弱的女妖"]我在......河谷？
+[name="虚弱的女妖"]我在……河谷？
 [charslot(slot = "m", name = "avg_npc_2035_1#4$1")]
-[name="虚弱的女妖"]不......我还没见到她，别为我哀悼，我不该栖脚......
+[name="虚弱的女妖"]不……我还没见到她，别为我哀悼，我不该栖脚……
 [charslot(slot = "m", name = "avg_4214_cairn_1#8$1")]
 [name="费尔南"]女士，请冷静一点，您还记得自己的名字吗？
 [charslot(slot = "m", name = "avg_npc_2035_1#1$1")]
-[name="虚弱的女妖"]不......
+[name="虚弱的女妖"]不……
 [charslot(slot = "m", name = "avg_4214_cairn_1#5$1")]
 [name="费尔南"]您要去哪儿？
 [charslot(slot = "m", name = "avg_npc_2035_1#1$1")]
-[name="虚弱的女妖"]我......
+[name="虚弱的女妖"]我……
 [charslot(slot = "m", name = "avg_4214_cairn_1#8$1")]
 [name="费尔南"]您现在位于哥伦比亚的骸骨荒原，您还记得您是来做什么的吗？
 [charslot(slot = "m", name = "avg_npc_2035_1#9$1")]
-[name="虚弱的女妖"]荒原......？
+[name="虚弱的女妖"]荒原……？
 [charslot(slot = "m", name = "avg_npc_2035_1#1$1")]
-[name="虚弱的女妖"]不对......她不在这儿......
+[name="虚弱的女妖"]不对……她不在这儿……
 [charslot(slot = "m", name = "avg_4214_cairn_1#3$1")]
 [name="费尔南"]您要去找什么？我说不定可以帮您。加入费尔南旅行团，实现所有不可能的心愿，价格公道，童叟无欺。
 [charslot(slot = "m", name = "avg_4214_cairn_1#5$1")]
-[name="费尔南"]我老爹常说还没实现就意味着还有希望，我老爹还说......女士？女士！
+[name="费尔南"]我老爹常说还没实现就意味着还有希望，我老爹还说……女士？女士！
 [charslot(slot = "m",focus="n")]
-[name="虚弱的女妖"]......
+[name="虚弱的女妖"]……
 [charslot(slot = "m", name = "avg_4214_cairn_1#4$1",focus="m")]
-[name="费尔南"]哦，晕过去了。头上有羽角......这位女妖到底想去找什么，怎么会在骸骨荒原迷路？
+[name="费尔南"]哦，晕过去了。头上有羽角……这位女妖到底想去找什么，怎么会在骸骨荒原迷路？
 [charslot(slot = "m", name = "avg_4214_cairn_1#8$1")]
-[name="费尔南"]嗯？怎么会有凭空飘浮的符号，这是哪个地区的语言？还有这些金色的纹路，它们托着薄薄的叶片......这是她的源石技艺？
+[name="费尔南"]嗯？怎么会有凭空飘浮的符号，这是哪个地区的语言？还有这些金色的纹路，它们托着薄薄的叶片……这是她的源石技艺？
 [charslot(slot = "m", name = "avg_4214_cairn_1#8$1")]
-[name="费尔南"]叶尖在移动......它指的是，特区的方向？
+[name="费尔南"]叶尖在移动……它指的是，特区的方向？
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -217,35 +217,35 @@
 [charslot(slot = "r", name = "avg_4212_nasti_1#8$1",focus="r")]
 [name="娜斯提"]你无法阻止时间。
 [charslot(slot = "l", name = "avg_4214_cairn_1#5$1",focus="l")]
-[name="费尔南"]您是说客人的症状只是因为年迈？可她的记忆......
+[name="费尔南"]您是说客人的症状只是因为年迈？可她的记忆……
 [charslot(slot = "r", name = "avg_4212_nasti_1#2$1",focus="r")]
 [name="娜斯提"]这种症状我在河谷见过，它每次出现都与死亡相伴。
 [charslot(slot = "r", name = "avg_4212_nasti_1#2$1",focus="r")]
-[name="娜斯提"]如果一位已经开始遗忘的女妖出现在这里，那或许......
+[name="娜斯提"]如果一位已经开始遗忘的女妖出现在这里，那或许……
 [charslot(slot = "r", name = "avg_4212_nasti_1#12$1",focus="r")]
 [name="娜斯提"]是她脑海里最后剩下的执念，占据了她的全部理智。
 [charslot(slot = "l", name = "avg_4214_cairn_1#5$1",focus="l")]
-[name="费尔南"]等等，您的意思是......
+[name="费尔南"]等等，您的意思是……
 [charslot(slot = "r", name = "avg_4212_nasti_1#12$1",focus="r")]
 [name="娜斯提"]你想替她完成的，是她的遗愿。
 [charslot(slot = "l", name = "avg_4214_cairn_1#10$1",focus="l")]
-[name="费尔南"]......
+[name="费尔南"]……
 [charslot(slot = "l", name = "avg_4214_cairn_1#10$1",focus="l")]
 [name="费尔南"]那位女士千里迢迢来到哥伦比亚，甚至在风沙肆虐的骸骨荒原徒步赶路，就是为了实现人生中的最后一个愿望？
 [charslot(slot = "l", name = "avg_4214_cairn_1#9$1",focus="l")]
 [name="费尔南"]她想找的究竟是什么？一件陈年旧物、一段往事的真相，还是一个她很在乎的人？
 [charslot(slot = "r", name = "avg_4212_nasti_1#12$1",focus="r")]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [charslot(slot = "l", name = "avg_4214_cairn_1#5$1",focus="l")]
-[name="费尔南"]我明白了......
+[name="费尔南"]我明白了……
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
 [name="费尔南"]现在这个时间点园区的警卫都在找您，莱茵需要给园区所有人一个说法。
 [charslot(slot = "l", name = "avg_4214_cairn_1#7$1",focus="l")]
-[name="费尔南"]这场推迟的听证会对您而言无比重要，但您却来找一个只见过几面的导游，询问她客人的情况......
+[name="费尔南"]这场推迟的听证会对您而言无比重要，但您却来找一个只见过几面的导游，询问她客人的情况……
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
 [name="费尔南"]除非您知道那位女士在找谁，或者说——
 [charslot(slot = "l", name = "avg_4214_cairn_1#9$1",focus="l")]
-[name="费尔南"]娜斯提主任，她跋涉千里来到哥伦比亚就是为了......您？
+[name="费尔南"]娜斯提主任，她跋涉千里来到哥伦比亚就是为了……您？
 [charslot(slot = "r", name = "avg_4212_nasti_1#4$1",focus="r")]
 [name="娜斯提"]谢谢你照顾我的母亲，费尔南小姐。
 [charslot(slot = "l", name = "avg_4214_cairn_1#6$1",focus="l")]
@@ -265,7 +265,7 @@
 [charslot(slot = "r", name = "avg_4212_nasti_1#1$1")]
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",isblock=true)]
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
-[name="费尔南"]再给我们几分钟，警卫先生......不对，这身制服——你们不是高登长官的人。
+[name="费尔南"]再给我们几分钟，警卫先生……不对，这身制服——你们不是高登长官的人。
 [charslot(slot = "r", name = "avg_4212_nasti_1#1$1",focus="r")]
 [name="娜斯提"]梅兰德下属的应急管理监督协会？你们的新制服还是老样式。
 [dialog]
@@ -278,7 +278,7 @@
 [charslot(slot = "r", name = "avg_4212_nasti_1#1$1")]
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",isblock=true)]
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
-[name="费尔南"]调查已经结束了......那为什么听证会还没有开始？我们都等了七个小时了！
+[name="费尔南"]调查已经结束了……那为什么听证会还没有开始？我们都等了七个小时了！
 [charslot(slot = "r", name = "avg_4212_nasti_1#2$1",focus="r")]
 [name="娜斯提"]听证会延迟，但审判已经开始了。
 [dialog]
@@ -291,7 +291,7 @@
 [charslot(slot = "l", name = "avg_npc_2046_1#1$1",afrom=1, ato=0, duration=1.5, isblock=true)]
 [charslot]
 [charslot(slot = "m", name = "avg_4214_cairn_1#9$1")]
-[name="费尔南"]......
+[name="费尔南"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -303,19 +303,19 @@
 [Delay(time=1)]
 [playMusic(intro="$ponder_intro",key="$ponder_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_2038_1#6$1")]
-[name="科学顾问"]......
+[name="科学顾问"]……
 [dialog]
 [charslot]
 [charslot(slot = "r", name = "avg_npc_2042_1#8$1",posfrom="50,0",posto="50,0",duration=0)]
 [charslot(slot = "l", name = "avg_npc_2034_1#4$1",isblock=true)]
 [charslot(slot = "l", name = "avg_npc_2034_1#4$1",focus="l")]
-[name="高登"]......
+[name="高登"]……
 [charslot(slot = "r", name = "avg_npc_2042_1#8$1",focus="r")]
 [name="古斯塔夫"]科学家不善言辞也就罢了，你也哑巴了？
 [charslot(slot = "l", name = "avg_npc_2034_1#9$1",focus="l")]
 [name="高登"]当时我被选入晋升预备名单，第二天您就从总局调了一个同级的官员过来。
 [charslot(slot = "l", name = "avg_npc_2034_1#4$1",focus="l")]
-[name="高登"]他年轻、优秀......让所有候选人躁动不安，我们争先恐后地开始向您证明，自己才是最合适的人选。
+[name="高登"]他年轻、优秀……让所有候选人躁动不安，我们争先恐后地开始向您证明，自己才是最合适的人选。
 [charslot(slot = "l", name = "avg_npc_2034_1#1$1",focus="l")]
 [name="高登"]似曾相识不是吗？
 [charslot(slot = "r", name = "avg_npc_2042_1#1$1",focus="r")]
@@ -329,7 +329,7 @@
 [charslot(slot = "r", name = "avg_npc_2042_1#1$1",focus="r")]
 [name="古斯塔夫"]而那个人，一定会是你吗？
 [charslot(slot = "l", name = "avg_npc_2034_1#9$1",focus="l")]
-[name="高登"]......
+[name="高登"]……
 [dialog]
 [charslot]
 高登紧盯着古斯塔夫身后的库兰塔。萨弗拉尾部的短棘根根竖起，张扬地翕动着，他在警戒。
@@ -349,23 +349,23 @@
 [charslot(slot = "r", name = "avg_npc_2038_1#6$1",focus="r")]
 [name="科学顾问"]不对，浮空种植单元作为空中电缆，轻便、可移动性强才契合其应用场景。
 [charslot(slot = "r", name = "avg_npc_2038_1#2$1",focus="r")]
-[name="科学顾问"]刚刚还看到了什么来着......树内部的启动器上有双重卡槽，是空的？
+[name="科学顾问"]刚刚还看到了什么来着……树内部的启动器上有双重卡槽，是空的？
 [charslot(slot = "l", name = "avg_npc_2034_1#1$1",focus="l")]
 [name="高登"]我猜测——
 [charslot(slot = "r", name = "avg_npc_2038_1#1$1",focus="r")]
 [name="科学顾问"]啊，谁都能猜得出来，它们在等两把“钥匙”。
 [charslot(slot = "l", name = "avg_npc_2034_1#9$1",focus="l")]
-[name="高登"]......
+[name="高登"]……
 [charslot(slot = "r", name = "avg_npc_2038_1#2$1",focus="r")]
-[name="科学顾问"]看来，在莱茵生命的第二个科室主任到来之前，装置树不会正式启动。不对，除非又有人在无人知情的情况下溜进园区......
+[name="科学顾问"]看来，在莱茵生命的第二个科室主任到来之前，装置树不会正式启动。不对，除非又有人在无人知情的情况下溜进园区……
 [charslot(slot = "l", name = "avg_npc_2034_1#9$1",focus="l")]
-[name="高登"]你什么意思......
+[name="高登"]你什么意思……
 [charslot(slot = "r", name = "avg_npc_2038_1#1$1",focus="r")]
 [name="科学顾问"]古斯塔夫先生，人们或许会因为外观和莱茵的名头对这件装置进行揣测，但我认为它只是一棵会飞的“树”。
 [charslot(slot = "l", name = "avg_npc_2034_1#9$1",focus="l")]
 [name="高登"]你说完了？现在我们面临的问题，可不是帮莱茵写论文。
 [charslot(slot = "l", name = "avg_npc_2034_1#7$1",focus="l")]
-[name="高登"]听证会推迟确实给了我们时间，但娜斯提为何隐瞒树的存在、费尔南是怎么混进来的，还有我的小生意......都需要合理的解释。
+[name="高登"]听证会推迟确实给了我们时间，但娜斯提为何隐瞒树的存在、费尔南是怎么混进来的，还有我的小生意……都需要合理的解释。
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2042_1#8$1")]
@@ -398,21 +398,21 @@
 [PlaySound(key="$d_avg_crwddiscuss_inside", volume=0.5)]
 [name="公司代表"]啧，后面挤什么！
 [charslot(slot = "m", name = "avg_npc_2041_1#4$1")]
-[name="雅斯彭"]请、请让我过去，我想向柜台的工作人员问一些问题......
+[name="雅斯彭"]请、请让我过去，我想向柜台的工作人员问一些问题……
 [charslot]
 [name="公司代表"]她们也不知道听证会到底要拖到什么时候，别瞎费劲了。
 [charslot(slot = "m", name = "avg_npc_2041_1#5$1")]
-[name="雅斯彭"]我就想知道自己应不应该主动参与调查......
+[name="雅斯彭"]我就想知道自己应不应该主动参与调查……
 [charslot]
 [name="公司代表"]哥们儿，我们也着急。除非你是事故的元凶或是涉案人员，不然谁都没办法推动听证会的流程啊。
 [charslot(slot = "m", name = "avg_npc_2041_1#5$1")]
-[name="雅斯彭"]这......
+[name="雅斯彭"]这……
 [charslot]
 [name="公司代表"]看你这副着急上火的样子，你也是借了“天空贷”来的吧？
 [charslot(slot = "m", name = "avg_npc_2041_1#2$1")]
-[name="雅斯彭"]是的......在我的家乡，像我一样的杂货商足足有六个。我们每天无所事事，用风滚草的朝向赌酒，直到两年前......
+[name="雅斯彭"]是的……在我的家乡，像我一样的杂货商足足有六个。我们每天无所事事，用风滚草的朝向赌酒，直到两年前……
 [charslot(slot = "m", name = "avg_npc_2041_1#2$1")]
-[name="雅斯彭"]天空、星荚、没有源石困扰的生活、哥伦比亚崭新的开拓区......电视和报纸上出现的全是我听不懂的东西，但那晚我确实看到了那束光。
+[name="雅斯彭"]天空、星荚、没有源石困扰的生活、哥伦比亚崭新的开拓区……电视和报纸上出现的全是我听不懂的东西，但那晚我确实看到了那束光。
 [charslot(slot = "m", name = "avg_npc_2041_1#1$1")]
 [name="雅斯彭"]我像着了迷一样，卖掉店铺，离开妻子，借下巨额的高利贷，踏入“螺旋桨天堂”，再也没回去过。
 [charslot]
@@ -427,7 +427,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2041_1#1$1")]
-[name="雅斯彭"]我可以......我可以熬过这次听证会......
+[name="雅斯彭"]我可以……我可以熬过这次听证会……
 [charslot(slot = "m", name = "avg_npc_2041_1#1$2")]
 [name="雅斯彭"]就算被审判、入狱，我也要把展品和“幸运瘤兽”这个名字留在“螺旋桨天堂”，留在所有人都看得见的地方。
 [charslot(slot = "m", name = "avg_npc_2041_1#1$2")]
@@ -443,7 +443,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [playMusic(intro="$mist_intro", key="$mist_loop", volume=0.6)]
-[name="梅希亚"]前辈从来不会迟到......是被游行的人挡住了路，还是迷路了？
+[name="梅希亚"]前辈从来不会迟到……是被游行的人挡住了路，还是迷路了？
 [dialog]
 [charslot(slot = "l",focus="n")]
 [name="？？？"]“螺旋桨天堂”的上下结构确实复杂，但要是把园区看作一个巨大的蓝卡坞摄影棚，那就好理解了。
@@ -477,11 +477,11 @@
 [charslot(slot = "r", name = "avg_4151_tinman_1#8$1",focus="r")]
 [name="锡人"]古斯塔夫想跟我们合作的意图很明显，他已经在派人处理莱茵的装置。至于他手下的人，他打算亲自教导。
 [charslot(slot = "l", name = "avg_npc_2037_1#1$1",focus="l")]
-[name="梅希亚"]那......现在应该只差一场安抚人心的听证会了？
+[name="梅希亚"]那……现在应该只差一场安抚人心的听证会了？
 [charslot(slot = "r", name = "avg_4151_tinman_1#8$1",focus="r")]
 [name="锡人"]你也在疑惑听证会的时间安排，对吗？
 [charslot(slot = "l", name = "avg_npc_2037_1#7$1",focus="l")]
-[name="梅希亚"]前辈，拖延不像是梅兰德的作风......
+[name="梅希亚"]前辈，拖延不像是梅兰德的作风……
 [charslot(slot = "r", name = "avg_4151_tinman_1#3$1",focus="r")]
 [name="锡人"]哈哈，你什么时候也变得这么心急了？事情总要慢慢处理，调查可不是我们唯一的职责。
 [charslot(slot = "r", name = "avg_4151_tinman_1#1$1",focus="r")]

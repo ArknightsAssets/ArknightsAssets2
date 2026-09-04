@@ -7,12 +7,12 @@
 [playsound(key="$beach", volume=0.7, channel="B",loop=true)]
 [Blocker(a=0, fadetime=1, block=true)]
 [Character(name="char_348_ceylon_4#9")]
-[name="锡兰"]   ......可以陪我逛逛吗，博士。
+[name="锡兰"]   ……可以陪我逛逛吗，博士。
 [Decision(options="我有些担心你。",values="1")]
 [Predicate(references="1")]
 [Character(name="char_348_ceylon_4#9")]
 [name="锡兰"]   博士，你知道吗，我小的时候，这片沙滩没有这么多人的。我很喜欢一个人在那里堆沙子城堡。
-[name="锡兰"]   ......这座城市在我父亲的治理下，每一年都在变得更好。
+[name="锡兰"]   ……这座城市在我父亲的治理下，每一年都在变得更好。
 [name="锡兰"]   我和我的父亲，该怎么说呢，话并不多。
 [name="锡兰"]   我一直在想，是不是比起跟我多说说话，城市和赚钱对他才更重要。
 [name="锡兰"]   母亲在生我的时候就去世了，我有时候也会想是不是因为这样，他才不喜欢我。
@@ -36,11 +36,11 @@
 [Character(name="char_348_ceylon_4#4",name2="char_340_shwaz_2#3",focus=1)]
 [name="锡兰"]   不是有你在吗，难道你会让我身处危险吗？
 [Character(name="char_348_ceylon_4#4",name2="char_340_shwaz_2#3",focus=2)]
-[name="黑"]   ......那自然是肯定不会的。
+[name="黑"]   ……那自然是肯定不会的。
 [Character(name="char_348_ceylon_4#6",name2="char_340_shwaz_2#3",focus=1)]
 [name="锡兰"]   那还有什么问题？我们走！
 [Character(name="char_348_ceylon_4#6",name2="char_340_shwaz_2#3",focus=2)]
-[name="黑"]   ......那么，请您绝对不要离开我的视线。
+[name="黑"]   ……那么，请您绝对不要离开我的视线。
 [Dialog]
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_sunnytown_1",screenadapt="coverall",block=true)]
@@ -59,7 +59,7 @@
 [name="男市民"]   快点，这批装饰是今晚的LIVE要用到的。
 [name="男市民"]   要是赶不上了可就麻烦了！
 [Character(name="char_348_ceylon_4#5")]
-[name="锡兰"]   啊，那个人......
+[name="锡兰"]   啊，那个人……
 [Character(name="char_348_ceylon_4#4")]
 [name="锡兰"]   没记错的话，是第二大道那家“知更鸟咖啡店”的店主爷爷的孙子。
 [name="锡兰"]   那里是我以前常去的地方，店主爷爷很和蔼。店里装饰着他去世的妻子奇幻的花和盆栽，放着他们以前一起喜欢的音乐。
@@ -79,9 +79,9 @@
 [Character(name="char_348_ceylon_4#8",name2="char_340_shwaz_2#3",focus=1)]
 [name="锡兰"]   那是什么，很痛吗？
 [Character(name="char_348_ceylon_4#8",name2="char_340_shwaz_2#3",focus=2)]
-[name="黑"]   ......不会很痛，但是，会死。
+[name="黑"]   ……不会很痛，但是，会死。
 [name="黑"]   这种病是治不了的，小姐。
-[name="黑"]   而且......
+[name="黑"]   而且……
 [Character(name="char_348_ceylon_4#3",name2="char_340_shwaz_2#3",focus=1)]
 [name="锡兰"]   我偏要把它治好！
 [name="锡兰"]   哼，你等着吧！将来有一天，我会把它给打败，然后把黑从它手里抢回来。
@@ -122,7 +122,7 @@
 [Decision(options="我也不知道。;她说不定也有苦衷。",values="1;2")]
 [Predicate(references="1")]
 [Character(name="char_348_ceylon_4#5")]
-[name="锡兰"]   ......呼。是啊，博士又怎么会知道呢。
+[name="锡兰"]   ……呼。是啊，博士又怎么会知道呢。
 [Predicate(references="2")]
 [Character(name="char_348_ceylon_4#9")]
 [name="锡兰"]   有什么苦衷，连我也不能告诉吗？
@@ -131,7 +131,7 @@
 [Character(name="char_348_ceylon_4#9")]
 [name="锡兰"]   博士，你说，我应该放弃吗？
 [Dialog]
-[Decision(options="我很难就这件事给你答案......",values="3")]
+[Decision(options="我很难就这件事给你答案……",values="3")]
 [Predicate(references="3")]
 [Decision(options="但是我知道的是，你也是研究源石的学者。",values="4")]
 [Predicate(references="4")]
@@ -151,14 +151,14 @@
 [Blocker(a=1, initr=2, r=0, g=0, b=0, fadetime=1, block=true)]
 [largebg(imagegroup="bg_beach_1/bg_beach_2", solidwidth="920/920", solidheight=720,x=-180)]
 [Blocker(a=0, fadetime=1, block=true)]
-[Decision(options="这片大地也许很糟......",values="5")]
+[Decision(options="这片大地也许很糟……",values="5")]
 [Predicate(references="5")]
 [Decision(options="但你做的一切，并不是徒劳的。",values="6")]
 [Predicate(references="6")]
 [Decision(options="相信你自己的选择。",values="7")]
 [Predicate(references="7")]
 [Character(name="char_348_ceylon_4#2")]
-[name="锡兰"]   ......呼。你说得对，博士。
+[name="锡兰"]   ……呼。你说得对，博士。
 [name="锡兰"]   不愧是前辈，我在这方面看来要学习的还有许多呢。
 [Character(name="char_348_ceylon_4#4")]
 [name="锡兰"]   看来我要做的，不是坐在这里胡思乱想，而是取证。

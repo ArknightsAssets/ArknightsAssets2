@@ -12,16 +12,16 @@
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1719_1#2$1",duration=1)]
 [delay(time=1.5)]
-[name="困惑的人"]......钟声吗？为什么会从所有的方向同时响起？
+[name="困惑的人"]……钟声吗？为什么会从所有的方向同时响起？
 [charslot(slot = "m", focus = "n")]
 她的声音很小，没能在四周的墙壁上激起一丝回音。
 每当那浓雾般的光芒到来，墙壁上都会出现许多细密的小孔，轻轻张合呼吸。等到光芒消失，墙壁又会变得洁白而沉默。
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
-[name="困惑的人"]那道光......和主教爷爷描述的圣城的光很不一样......
+[name="困惑的人"]那道光……和主教爷爷描述的圣城的光很不一样……
 [charslot]
 [name="冰冷的声音"]（未知语言）那是模拟出的F型光谱。
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
-[name="困惑的人"]我能听到你......我该怎么找到你？
+[name="困惑的人"]我能听到你……我该怎么找到你？
 [charslot(slot = "m", focus = "n")]
 她的指尖接触到了墙面，那是一种温暖、柔软的感觉，仿佛是与另一根手指的指尖相碰。
 于是她将整个手掌放了上去，贴紧墙壁表面上细腻的纹理。
@@ -46,7 +46,7 @@
 其肢体表面折射出不同于金属的晦暗光泽，灵活地将诸多发光的碎片按不同的规律排列，那些碎片的颜色也随之变换。
 可是女孩注意到，“神明”的头顶，并没有光环。那半空中的巨物无视了她的存在，决然地掠过。
 [charslot(slot="m",name="avg_npc_1719_1#9$1")]
-[name="困惑的人"]......？！
+[name="困惑的人"]……？！
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -100,13 +100,13 @@
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="机械的生命"]（未知语言）无需恐惧，我正在解析你的思维频段，并上传到安塞塔。
 [name="机械的生命"]足够使用。语言。你。
-[name="机械的生命"]......尚未向量化，推测，判断。语言，临时调用。需要，共振。
+[name="机械的生命"]……尚未向量化，推测，判断。语言，临时调用。需要，共振。
 [charslot(slot="m",name="avg_npc_1719_1#5$1")]
-[name="困惑的人"]我......听不太懂。您能听懂我说的话吗？
+[name="困惑的人"]我……听不太懂。您能听懂我说的话吗？
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="机械的生命"]显然。
 [charslot(slot="m",name="avg_npc_1719_1#9$1")]
-[name="困惑的人"]——那您是......“神明”吗？
+[name="困惑的人"]——那您是……“神明”吗？
 [charslot(slot = "m", focus = "n")]
 卡特斯紧张地问出了此刻她脑海中最渴望得到答案的问题。
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
@@ -117,10 +117,10 @@
 [name="机械的生命"]否定，神。
 [name="机械的生命"]神，并非，必需。
 [charslot(slot="m",name="avg_npc_1719_1#9$1")]
-[name="困惑的人"]......？！
+[name="困惑的人"]……？！
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
 [name="困惑的人"]如果您不是神明，那么是谁拯救了我？我为什么会来到这里？
-[name="困惑的人"]......或者这里是死后的国度吗？您是来指引我继续前行的人吗？
+[name="困惑的人"]……或者这里是死后的国度吗？您是来指引我继续前行的人吗？
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="机械的生命"]问题。太多。
 [name="机械的生命"]缺少，共振。沟通效率，太差。
@@ -130,7 +130,7 @@
 [stopmusic(fadetime=2)]
 [charslot(duration=1)]
 [Delay(time=1)]
-自称“屈光者”的生命用肢体在空中划出一个窗口，并将这扇窗推到最近的一面墙壁上。舷窗模拟出的景象缓缓淡去......
+自称“屈光者”的生命用肢体在空中划出一个窗口，并将这扇窗推到最近的一面墙壁上。舷窗模拟出的景象缓缓淡去……
 不知从何处涌出的幽光填满了整扇窗，图像逐渐清晰，卡特斯女孩向“窗外”望去——
 [backgroundTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=1.2, yScaleTo=1.2, duration=5, yTo=-50,block=false,xTo=100)]
 [Dialog]
@@ -152,8 +152,8 @@
 卡特斯和屈光者就在这圈环上，乘着无帆的巨船在死寂中航行。
 [name="屈光者"]我们看到。航行。打捞。
 [name="屈光者"]你，颤抖。恐惧？
-[name="困惑的人"]远处的那些，闪烁着的，像眼睛一样的......真的很吓人。
-[name="困惑的人"]它们就像是星星，可是给我的感觉却很陌生。它们太多、太近......太亮了。
+[name="困惑的人"]远处的那些，闪烁着的，像眼睛一样的……真的很吓人。
+[name="困惑的人"]它们就像是星星，可是给我的感觉却很陌生。它们太多、太近……太亮了。
 [name="困惑的人"]您不会感到害怕吗？
 [name="屈光者"]恐惧并非必需。
 [name="屈光者"]恐惧，太局限，不足以，描述。
@@ -166,10 +166,10 @@
 死去的行星依旧围绕着它旋转，而附着于星环上的巨船，不得不一次次迎接它的照耀与悲号，周而复始。
 [name="屈光者"]看到，确认？
 [name="屈光者"]只有，坟墓，没有，“圣城”。
-[name="屈光者"]只有，周期，只有，定律。没有......“神明”。
+[name="屈光者"]只有，周期，只有，定律。没有……“神明”。
 [name="屈光者"]宇宙。欢迎。
 [name="屈光者"]旅者。名字。你？
-[name="困惑的人"]......
+[name="困惑的人"]……
 [name="困惑的人"]希尔达。
 “我也不知道从什么时候起，修士们捉弄打趣我的戏称成为了我的名字。”
 [dialog]
@@ -180,8 +180,8 @@
 [image]
 [Background(image="bg_black",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[Sticker(id="st1", multi = true, text="......", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [PlaySound(key="$d_avg_kalimbapizz",volume=0.8)]
 [Blocker(a=0.3, r=0,g=0.2,b=0, fadetime=0.7, block=true)]
@@ -208,17 +208,17 @@
 [Subtitle(text="伦蒂尼姆尘埃落定，但维多利亚的和平机会渺茫。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="我们还有多少时间？PRTS，我知道你在听。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="我需要你尽一切可能重建对罗德岛中层待规划区摇篮进程的监视。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="并且......准备向可露希尔开放我的权限层级。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="并且……准备向可露希尔开放我的权限层级。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="声纹口令——Abyss。谢谢。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="我还有很多事情要做......我还有多少事情可以做？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="我还有很多事情要做……我还有多少事情可以做？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle]
 [StopSound(channel="o", fadetime=1)]
 [dialog]
 [curtain(direction = 0,fillfrom = 0.15,fillto = 0, fadetime=1.5)]
 [curtain(direction = 4,fillfrom = 0.15,fillto = 0, fadetime=1.5)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
-[Sticker(id="st1", multi = true, text="项目播放完毕。访问记录清除中......", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n3......2......1......记录已清理。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="项目播放完毕。访问记录清除中……", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n3……2……1……记录已清理。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n管理员，是否解锁下一项权限记录？", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n操作已确认。即将播放下一项记录——", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
@@ -316,7 +316,7 @@
 [charslot(slot="l",name="avg_4178_alanna_1#1$1",focus="l")]
 [name="阿兰娜"]（嘘——当然，我可是偷偷看过可露希尔的图纸。）
 [charslot(slot="r",name="avg_4081_warmy_1#11$2",focus="r")]
-[name="温米"]而且......
+[name="温米"]而且……
 [charslot(slot="l",name="avg_4178_alanna_1#1$1",focus="l")]
 [name="阿兰娜"]而且？
 [charslot(slot="r",name="avg_4081_warmy_1#1$2",focus="r")]
@@ -335,7 +335,7 @@
 [name="古米"]很多准备要启程去各地增援的干员都收到了。
 [name="古米"]“旅行时得吃饱”，小刻是这么向我强调的。
 [charslot(slot="m",name="char_196_sunbr_1#4")]
-[name="古米"]......就是不知道她分给其他人之前，自己会不会不知不觉吃掉一大半。
+[name="古米"]……就是不知道她分给其他人之前，自己会不会不知不觉吃掉一大半。
 [charslot(slot="m",name="char_196_sunbr_1#2")]
 [name="古米"]我和火神小姐他们约好尽快再加紧烤制一批，争取以小刻的名义让出外勤任务的干员们都能分到。
 [charslot(slot="m",name="char_195_glassb_2#2")]
@@ -347,18 +347,18 @@
 [charslot(slot="m",name="avg_194_leto_1#14$1")]
 [name="烈夏"]——？！
 [charslot(slot="m",name="avg_194_leto_1#3$1")]
-[name="烈夏"]嘿嘿，反正只要等我们到了地方，你把欠我的蜂蜜饮料补给我......
+[name="烈夏"]嘿嘿，反正只要等我们到了地方，你把欠我的蜂蜜饮料补给我……
 [charslot(slot="m",name="avg_194_leto_1#1$1")]
 [name="烈夏"]那我随时听候冬将军吩咐！
 [charslot(slot="m",name="char_115_headbr_9#3")]
-[name="凛冬"]啊，头疼......这种要和人打交道的任务果然还是应该交给娜塔莉娅......
+[name="凛冬"]啊，头疼……这种要和人打交道的任务果然还是应该交给娜塔莉娅……
 [charslot(slot="m",name="char_195_glassb_2#2")]
 [name="真理"]早露也分身乏术呀，她也要和阿米娅商量很多具体的行动事宜嘛。
 [name="真理"]我们这趟远门会麻烦些，毕竟目的地是——
 [charslot(slot="m",name="char_195_glassb_2#1")]
 [name="真理"]（乌萨斯语）“乌萨斯”。
 [charslot(slot="m",name="char_115_headbr_9#1")]
-[name="凛冬"]......
+[name="凛冬"]……
 [charslot(slot="m",name="char_195_glassb_2#1")]
 [name="真理"]还是说你担心搞不定，才把和阿米娅商量的事情扔给早露？
 [charslot(slot="m",name="char_115_headbr_9#5")]
@@ -373,7 +373,7 @@
 [name="古米"]连小刻都被火神小姐抓住在食堂外面乖乖帮忙。
 [name="古米"]不用担心我，凛冬姐。她想要让照顾过她的干员离开家也能吃得饱饱的，我也这么想。
 [charslot(slot="m",name="char_115_headbr_9#1")]
-[name="凛冬"]......我们也去帮忙。
+[name="凛冬"]……我们也去帮忙。
 [name="凛冬"]反正娜塔莉娅也还得花点时间——
 [charslot]
 [name="？？？"]要帮忙？那再算我一个。
@@ -388,7 +388,7 @@
 [name="坚雷"]我从博士那看到了你们的申请，就自作主张申请和你们同行了——以“监护人”的身份。
 [name="坚雷"]说实话，博士很放心不下就这么让你们回去。我也放心不下。
 [charslot(slot="m",name="char_196_sunbr_1#2")]
-[name="古米"]凛冬姐......？
+[name="古米"]凛冬姐……？
 [charslot(slot="m",name="char_115_headbr_9#7")]
 [name="凛冬"]当然欢迎！
 [Dialog]
@@ -412,7 +412,7 @@
 [name="阿米娅"]她直接闯到了博士的办公室，保证保护你们每个人平安回到罗德岛。
 [name="阿米娅"]就像当初一样。
 [charslot(slot = "right", name = "char_197_poca_1#3",focus="r")]
-[name="早露"]......
+[name="早露"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -439,7 +439,7 @@
 [Decision(options="评估结果显示你们没有完全准备好。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="char_115_headbr_9#3")]
-[name="凛冬"]......
+[name="凛冬"]……
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="你们有其他外勤任务的可选项。;要帮罗德岛，从来不止一个选择。", values="1;2")]
@@ -448,7 +448,7 @@
 [name="凛冬"]我们每个人或多或少都还是会害怕回去，但我们逃不开那个地方。
 [name="凛冬"]这不是所谓的“自我疗愈的归乡之旅”，这是我们自认足够适合执行乌萨斯相关行动后，深思熟虑的志愿申请。
 [name="凛冬"]我们认可的家早就是罗德岛了。
-[name="凛冬"]所以我保证，我会带她们无恙地回来......回家。
+[name="凛冬"]所以我保证，我会带她们无恙地回来……回家。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -515,16 +515,16 @@
 [charslot(slot="m",name="avg_194_leto_1#8$1")]
 [name="烈夏"]想起来有些破烂得扔给某个人。我们能顺道去一趟谢拉格吗，索尼娅？
 [charslot(slot="m",name="char_115_headbr_9#7")]
-[name="凛冬"]......行吧，我去给博士申报我们的行程——
+[name="凛冬"]……行吧，我去给博士申报我们的行程——
 [charslot]
 [name="坚定的声音"]各位，请问，我能和你们一起去乌萨斯行动吗？
 [dialog]
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_405_absin_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="苦艾"]抱歉，虽然我的提议有点唐突......
+[name="苦艾"]抱歉，虽然我的提议有点唐突……
 [charslot(slot="m",name="avg_405_absin_1#9$1")]
-[name="苦艾"]但是我......
+[name="苦艾"]但是我……
 [charslot]
 [dialog]
 [charslot(slot = "left", name = "avg_1037_amiya3_1#8$2",duration = 1)]
@@ -607,12 +607,12 @@
 [charslot(slot = "m", name = "char_345_folnic_1#1")]
 [name="亚叶"]好的，老师。
 [charslot(slot = "m", name = "char_345_folnic_1#4")]
-[name="亚叶"]那伦蒂尼姆......？
+[name="亚叶"]那伦蒂尼姆……？
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]通知海蒂暂时推迟回舰述职的安排。伦蒂尼姆议会恢复外交渠道之后，核心圈国家的消息也在重新向那里汇集。
 [name="凯尔希"]海蒂经营至今的情报网络非常重要，这也是我安排你增援的目的。
 [charslot(slot = "m", name = "char_345_folnic_1#4")]
-[name="亚叶"]......所以真实情况并没有很乐观？我会额外注意的。
+[name="亚叶"]……所以真实情况并没有很乐观？我会额外注意的。
 [charslot(slot = "m", name = "avg_003_kalts_1#11$1")]
 [name="凯尔希"]亚叶，放松你自己。
 [charslot(slot = "m", name = "char_345_folnic_1#4")]
@@ -621,16 +621,16 @@
 [name="凯尔希"]你总是习惯把自己绷得太紧。
 [name="凯尔希"]我看过你的任务日程，太紧太满，我帮你删减了一些。
 [charslot(slot = "m", name = "char_345_folnic_1#2")]
-[name="亚叶"]......
+[name="亚叶"]……
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]试着不要去思考你惧怕的事物，更不要试图强行让自己去掌控惧怕的事物。
-[name="凯尔希"]亚叶，我从不期望从你身上看到你的母亲......或是我自己。
+[name="凯尔希"]亚叶，我从不期望从你身上看到你的母亲……或是我自己。
 [name="凯尔希"]我并不赞同鼓励经历过痛苦的人忘记仇恨、忘记暴力，追求一个更好的时代所需要的，绝非放弃。
 [name="凯尔希"]试着放慢脚步，亚叶。将想要更好地掌控生活的焦躁施加于自身，无疑是徒劳的自我折磨。
 [name="凯尔希"]去维多利亚的路程还很长，但我需要你记住你刚刚进入这个房间时的笑容。
 [name="凯尔希"]这是我唯一留给你的要求。
 [charslot(slot = "m", name = "char_345_folnic_1#2")]
-[name="亚叶"]......
+[name="亚叶"]……
 [charslot(slot = "m", name = "char_345_folnic_1#1")]
 [name="亚叶"]老师，我记住了。
 [name="亚叶"]送您的纪念品到时候我就按自己的心意选了。
@@ -651,10 +651,10 @@
 [charslot(slot = "m", name = "char_144_red_7#1",duration=1,posfrom = "150,0", posto = "0,0",duration = 1)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "char_144_red_7#1")]
-[name="红"]......红担心凯尔希生气。
+[name="红"]……红担心凯尔希生气。
 [charslot(slot = "m", name = "char_144_red_7#4")]
-[name="红"]凯尔希让红不要为叙拉古的事情难受......红也让凯尔希难受了——
-[name="红"]红这一次不想离开罗德岛，红怕凯尔希不同意......
+[name="红"]凯尔希让红不要为叙拉古的事情难受……红也让凯尔希难受了——
+[name="红"]红这一次不想离开罗德岛，红怕凯尔希不同意……
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]我没准备给S.W.E.E.P.发布调令，红。
 [charslot(slot = "m", name = "char_144_red_7#7")]
@@ -662,7 +662,7 @@
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]留在本舰随时待命就行，阿斯卡纶的命令很快就会到。
 [charslot(slot = "m", name = "char_144_red_7#6")]
-[name="红"]......那收到命令之前，红可以就待在凯尔希身边吗？
+[name="红"]……那收到命令之前，红可以就待在凯尔希身边吗？
 [charslot(slot = "m", name = "avg_003_kalts_1#11$1")]
 [name="凯尔希"]可以，你不是早就到了吗？
 [charslot(slot = "m", name = "char_144_red_7#3")]
@@ -677,10 +677,10 @@
 [charslot(slot="m",name="avg_230_savage_1#8$1",duration=1)]
 [delay(time=2)]
 [name="暴行"]这些金萝卜罐头是吉姆阿姨和老妈特意准备的，让我送给同事们。
-[name="暴行"]抱、抱歉，可能有点太多了......是不是应该先存在厨房？
+[name="暴行"]抱、抱歉，可能有点太多了……是不是应该先存在厨房？
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="小山一样高的罐头堆......", values="1")]
+[Decision(options="小山一样高的罐头堆……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_230_savage_1#9$1")]
 [name="暴行"]留给你了。
@@ -691,7 +691,7 @@
 [Decision(options="你刚刚不是说特意为同事准备的吗？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_230_savage_1#4$1")]
-[name="暴行"]呃，呃......没区别！
+[name="暴行"]呃，呃……没区别！
 [charslot(slot="m",name="avg_230_savage_1#8$1")]
 [name="暴行"]反正都是我的东西，我来决定它们的用途。
 [name="暴行"]博士，到时候辛苦你帮忙送给其他同事了。小温米的出发时间很紧，我实在来不及了。
@@ -702,7 +702,7 @@
 [Decision(options="看上去好像一样。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_230_savage_1#10$1")]
-[name="暴行"]——你......当然不一样！
+[name="暴行"]——你……当然不一样！
 [charslot(slot="m",name="avg_230_savage_1#7$1")]
 [name="暴行"]对哦，这次出发我也得带上三十罐。
 [dialog]
@@ -722,7 +722,7 @@
 [Decision(options="时间过得真快啊。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_230_savage_1#8$1")]
-[name="暴行"]好在大家似乎都没什么变化嘛——嗯，阿米娅从卡兹戴尔回来后倒是成长了很多......
+[name="暴行"]好在大家似乎都没什么变化嘛——嗯，阿米娅从卡兹戴尔回来后倒是成长了很多……
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="也请照顾好温米和莱伊小姐。;请保重好自己。", values="1;2")]
@@ -759,28 +759,28 @@
 [delay(time=2)]
 [charslot(slot = "left", name = "avg_1024_hbisc2_1#4$1",focus="l")]
 [name="芙蓉"]我突然想起来，之前准备的医疗药品和养护手册都还没有分发到大家手里， 没有专门提醒的话，肯定有人会忘记的。
-[name="芙蓉"]这次外出的时间这么长，大家会不会记得按时吃饭按时吃药呢......
+[name="芙蓉"]这次外出的时间这么长，大家会不会记得按时吃饭按时吃药呢……
 [charslot(slot = "right", name = "char_1011_purgatory_1#1",focus="r")]
 [name="炎熔"]其他医疗干员会负责的，你惦记这个干嘛。
 [charslot(slot = "left", name = "avg_1024_hbisc2_1#1$1",focus="l")]
-[name="芙蓉"]可是很多时候，大家就是顾不上照顾好自己，小炎熔你自己不也总是忘记带我给你准备的食物吗......
+[name="芙蓉"]可是很多时候，大家就是顾不上照顾好自己，小炎熔你自己不也总是忘记带我给你准备的食物吗……
 [charslot(slot = "right", name = "char_1011_purgatory_1#4",focus="r")]
-[name="炎熔"]我那是......算了。
+[name="炎熔"]我那是……算了。
 [charslot(slot = "left", name = "avg_1024_hbisc2_1#7$1",focus="l")]
-[name="芙蓉"]还有A1小队里其他的人......队长要去执行的任务很危险，克洛丝也要自己一个人去很远的地方，她们都能行吗......
+[name="芙蓉"]还有A1小队里其他的人……队长要去执行的任务很危险，克洛丝也要自己一个人去很远的地方，她们都能行吗……
 [charslot(slot = "right", name = "char_1011_purgatory_1#5",focus="r")]
-[name="炎熔"]啊......我受够了！！能不能不要总把别人当小孩啊！
+[name="炎熔"]啊……我受够了！！能不能不要总把别人当小孩啊！
 [name="炎熔"]都过去这么久了，谁还会是长不大的小屁孩啊！
 [charslot(slot = "left", name = "avg_1024_hbisc2_1#8$1",focus="l")]
-[name="芙蓉"]我知道......我明白的......
+[name="芙蓉"]我知道……我明白的……
 [charslot(slot = "left", name = "avg_1024_hbisc2_1#4$1",focus="l")]
-[name="芙蓉"]我就是觉得，突然要离开这么多年和大家朝夕相处的地方，还不知道什么时候才能回来......
+[name="芙蓉"]我就是觉得，突然要离开这么多年和大家朝夕相处的地方，还不知道什么时候才能回来……
 [charslot(slot = "left", name = "avg_1024_hbisc2_1#2$1",focus="l")]
-[name="芙蓉"]心里有点，空落落的......
+[name="芙蓉"]心里有点，空落落的……
 [charslot(slot = "right", name = "char_1011_purgatory_1#1",focus="r")]
-[name="炎熔"]......
+[name="炎熔"]……
 [charslot(slot = "right", name = "char_1011_purgatory_1#4",focus="r")]
-[name="炎熔"]......放心吧，我们会回来的。
+[name="炎熔"]……放心吧，我们会回来的。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -791,8 +791,8 @@
 [name="炎熔"]罗德岛现在需要解决一些麻烦，我愿意相信博士和凯尔希医生，还有阿米娅，问题一定会处理好的。
 [name="炎熔"]我们只要执行好自己的任务，耐心等待就好了。
 [name="炎熔"]罗德岛就是我们的家，我们才不会失去她。无论什么情况，我们都会回来的。
-[name="炎熔"]......总有一天。
-[name="芙蓉"]嗯......
+[name="炎熔"]……总有一天。
+[name="芙蓉"]嗯……
 [name="芙蓉"]大家还会在一起的。
 [stopmusic(fadetime=2)]
 [Dialog]
@@ -814,17 +814,17 @@
 [name="华法琳"]新药物会放大你对疼痛的感知，不过我会给你搭配更大剂量的镇痛剂，别担心。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
 [name="平静的感染者"]嗯。
-[name="平静的感染者"]其他床位......又空了一些？
+[name="平静的感染者"]其他床位……又空了一些？
 [charslot(slot = "right", name = "avg_171_bldsk_1#1$1",focus="r")]
 [name="华法琳"]昨天离开的。不用担心，他们只是暂时被转运到其他地方接受更有针对性的治疗方案。
 [name="华法琳"]对了，有几个人给你留了纸条，就在你的床头柜里。
-[name="华法琳"]......你的症状很特殊，不适合变更治疗环境，留在这里接受我的观察是最好的选择。
+[name="华法琳"]……你的症状很特殊，不适合变更治疗环境，留在这里接受我的观察是最好的选择。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
 [name="平静的感染者"]嗯。谢谢。
 [charslot(slot = "right", name = "avg_171_bldsk_1#1$1",focus="r")]
 [name="华法琳"]克洛伊，你在看什么？
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
-[name="克洛伊"]天花板上，有几个小圆点，一直在转圈......看着很令人安心。
+[name="克洛伊"]天花板上，有几个小圆点，一直在转圈……看着很令人安心。
 [charslot(slot = "right", name = "avg_171_bldsk_1#1$1",focus="r")]
 [name="华法琳"]结晶还在干扰你的视觉系统。我已经把剥离视网膜附近的结晶列为下次手术的目标。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
@@ -834,16 +834,16 @@
 [charslot(slot = "right", name = "avg_171_bldsk_1#1$1",focus="r")]
 [name="华法琳"]是你跟我提到过的，你家乡的那座钟楼吗？
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
-[name="克洛伊"]不止一座......我一直在尝试修复它们。修复了很多次，可最后还是毁在了炮火下——
+[name="克洛伊"]不止一座……我一直在尝试修复它们。修复了很多次，可最后还是毁在了炮火下——
 [charslot(slot = "right", name = "avg_171_bldsk_1#9$1",focus="r")]
 [name="华法琳"]替你从驻派维多利亚的干员那里打听过，那座镇子已经重新修缮过了。当地人替你修好了那口钟。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
-[name="克洛伊"]真好......钟声响起，生活就还在继续，很令人安心，不是吗？
+[name="克洛伊"]真好……钟声响起，生活就还在继续，很令人安心，不是吗？
 [charslot(slot = "m", focus = "n")]
 华法琳最后一遍确认了各项仪器的读数，随后向输液装置中注入了调配好的药物。
 仪器的蜂鸣声、输液泵运转的噪音和克洛伊偶尔的痛苦喘息混杂在一起。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
-[name="克洛伊"]......华法琳医生，这三年来，我们已经尝试过多少种药了？
+[name="克洛伊"]……华法琳医生，这三年来，我们已经尝试过多少种药了？
 [charslot(slot = "right", name = "avg_171_bldsk_1#9$1",focus="r")]
 [name="华法琳"]这个交给我操心。你的各项身体指标变化都趋于平稳，这才是更重要的。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
@@ -851,14 +851,14 @@
 [charslot(slot = "m", focus = "n")]
 克洛伊努力调动面部肌肉，可那些附着在肌肤上的微小尖刺却扭曲了她的表情。伤口绽裂开，鲜艳的血珠沁出。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
-[name="克洛伊"]（苦笑）你看......连一个微笑，它都不允许我做到。
+[name="克洛伊"]（苦笑）你看……连一个微笑，它都不允许我做到。
 [charslot(slot = "right", name = "avg_171_bldsk_1#1$1",focus="r")]
 [name="华法琳"]作为医生，我不能向你保证什么结果。我只能向你承诺，罗德岛的每一位医疗干员，都会竭尽所能地治疗你。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
 [name="克洛伊"]谢谢你，华法琳医生。
-[name="克洛伊"]我只是......有点想念家乡了。
+[name="克洛伊"]我只是……有点想念家乡了。
 [charslot(slot = "right", name = "avg_171_bldsk_1#1$1",focus="r")]
-[name="华法琳"]......
+[name="华法琳"]……
 [StopSound(channel="bgs", fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -882,9 +882,9 @@
 [charslot(slot = "left",focus="l")]
 [name="Touch"]但是那些源石的确以一种无法预料到的方式维持着病人的生命。
 [name="Touch"]她体内的部分器官已经完全结晶化了，但它们的运转效率却比过往已有的案例都更加高效、稳定。
-[name="Touch"]我尚未判断出这种病征产生的原因，可就数据而言，感染程度越深，她似乎......越健康，也越痛苦。
+[name="Touch"]我尚未判断出这种病征产生的原因，可就数据而言，感染程度越深，她似乎……越健康，也越痛苦。
 [charslot(slot = "right", name = "avg_171_bldsk_1#1$1",focus="r")]
-[name="华法琳"]这是前所未有的病例，或许是矿石病的新变化，如果在治疗方法上能有所突破......
+[name="华法琳"]这是前所未有的病例，或许是矿石病的新变化，如果在治疗方法上能有所突破……
 [charslot(slot = "right", name = "avg_171_bldsk_1#8$1",focus="r")]
 [name="华法琳"]这些从维多利亚救回来的人也许真能为罗德岛带来些奇迹。
 [Dialog]

@@ -27,7 +27,7 @@
 [delay(time=2.5)]
 [name="奉行A"]等等，你们听见了什么没有？
 [name="奉行B"]什么？
-[name="奉行A"]......好像，有什么在屋顶？
+[name="奉行A"]……好像，有什么在屋顶？
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_sand_lp", volume=0.3)]
@@ -205,11 +205,11 @@
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_002",duration=2)]
 [Delay(time=2.5)]
-[name="善谈的信使"]这......
+[name="善谈的信使"]这……
 [Dialog]
 [charslot(slot="m",posfrom="0,0", posto="50,0",duration=1.5,isblock=true)]
 [charslot(slot="m",posfrom="50,0", posto="0,0",duration=1.5,isblock=true)]
-[name="善谈的信使"]（这走廊怎么看都一样啊，这......不会真迷路了吧。）
+[name="善谈的信使"]（这走廊怎么看都一样啊，这……不会真迷路了吧。）
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
@@ -221,7 +221,7 @@
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_002",duration=2)]
 [Delay(time=2.5)]
-[name="善谈的信使"]不对，这里连个人都没有了，我是怎么绕过来的......
+[name="善谈的信使"]不对，这里连个人都没有了，我是怎么绕过来的……
 [Dialog]
 [charslot(slot="m",name="avg_npc_002",focus="none")]
 [name="？？？"]你是要去把货物送到可露希尔的存储间吗？
@@ -237,7 +237,7 @@
 [charslot(slot="m",name="avg_npc_002",focus="m")]
 [name="善谈的信使"]这么年轻，那可真是失礼了，能麻烦你告诉我该怎么走吗？
 [charslot(slot="m",name="char_337_utage_story_1#1",focus="m")]
-[name="宴"]没问题啊，只需要......
+[name="宴"]没问题啊，只需要……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=0.6)]
 [Delay(time=1)]
@@ -250,7 +250,7 @@
 [charslot(slot="m",name="char_337_utage_story_1#1",focus="m")]
 [name="宴"]我每次都是自己拿的，看看这里写的——“宴”“彩妆系列”。怎么，你担心里面有源石炸弹吗？不然我拆开给你看看？
 [charslot(slot="m",name="avg_npc_002",focus="m")]
-[name="善谈的信使"]......那倒不用，主要是，流程......就......
+[name="善谈的信使"]……那倒不用，主要是，流程……就……
 [charslot(slot="m",name="char_337_utage_story_1#1",focus="m")]
 [name="宴"]你看你背后，往回走到前面第三扇门再往后，二十米远的那个拐弯处，然后再右拐然后走左手边的通道，直走三十米就到了。
 [name="宴"]快走吧快走吧，我也要去训练了，拜拜。
@@ -262,7 +262,7 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_002",focus="m")]
 [name="善谈的信使"]欸欸，你别——
-[name="善谈的信使"]这就是罗德岛的干员吗......真随性啊。
+[name="善谈的信使"]这就是罗德岛的干员吗……真随性啊。
 [name="善谈的信使"]一会儿货送过去的时候，我也跟安检的人员说一声吧，就说这个叫宴的干员拿走了一件货物。
 [name="善谈的信使"]赶快赶快。
 [Dialog]
@@ -355,12 +355,12 @@
 [Delay(time=2)]
 [name="罗德岛货物管理员"]如今，那城池早已消亡，但是听说鵺切家还暗中存在着。
 [name="罗德岛货物管理员"]他们被现在的某个东国大家族收入麾下，一直履行着家族的职责——斩杀掉主上眼中的“鵺”。
-[name="罗德岛货物管理员"]我听说的就是这样的......版本了。
+[name="罗德岛货物管理员"]我听说的就是这样的……版本了。
 [charslot(slot="m",name="avg_npc_498_1#1$1",focus="m")]
 [name="好奇的信使"]差别如此之大，这可真有意思。
 [Dialog]
 [charslot]
-[Decision(options="你们聊的话题真有趣。;......;还有后续吗？", values="1;2;3")]
+[Decision(options="你们聊的话题真有趣。;……;还有后续吗？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_972_1#1$1",focus="m")]
 [name="罗德岛货物管理员"]博士！你什么时候来的！
@@ -430,7 +430,7 @@
 [name="罗德岛近卫干员"]博士您请小心，我们正在调查监控，这段时间请跟我们待在一起，以免真的有什么危险发生。
 [Dialog]
 [charslot(slot="m",name="avg_npc_012",focus="none")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Decision(options="（观察一下走廊的状况）", values="1")]
 [Predicate(references="1")]
@@ -440,12 +440,12 @@
 [name="好奇的信使"]一个成年人，不至于真就这么不见了吧？
 [Dialog]
 [charslot]
-[Decision(options="这是......", values="1")]
+[Decision(options="这是……", values="1")]
 [Predicate(references="1")]
 在那车货物的一侧，博士蹲下身子，好像闻到了一丝淡淡的气味。
 那是很微小的，甜甜的气味。
 [Dialog]
-[Decision(options="难道是......", values="1")]
+[Decision(options="难道是……", values="1")]
 [Predicate(references="1")]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
@@ -457,7 +457,7 @@
 [Blocker(a=0, r=0,g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [charslot(slot="m",name="char_337_utage_story_1#4",focus="m")]
-[name="宴"]（真是不省心啊......麻烦死了。）
+[name="宴"]（真是不省心啊……麻烦死了。）
 [Dialog]
 [charslot]
 这样抱怨着，宴看了眼怀里抱着的小纸盒子，上面有些摔过的痕迹。
@@ -530,7 +530,7 @@
 [Decision(options="将他送去休息室，让他好好缓缓吧。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_012",focus="m")]
-[name="罗德岛近卫干员"]啊，这......万一他——
+[name="罗德岛近卫干员"]啊，这……万一他——
 [name="罗德岛近卫干员"]这怎么看都很蹊跷——
 [Dialog]
 [charslot(slot="m",name="avg_npc_012",focus="none")]
@@ -539,7 +539,7 @@
 [Decision(options="这里我都检查过了，没有什么其他人的痕迹了。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_012",focus="m")]
-[name="罗德岛近卫干员"]......既然博士您都这样说了，那我们就先带他去休息室。
+[name="罗德岛近卫干员"]……既然博士您都这样说了，那我们就先带他去休息室。
 [Dialog]
 [charslot(slot="m",name="avg_npc_012",focus="none")]
 [Decision(options="让这里的其他干员也都离开吧。", values="1")]
@@ -555,7 +555,7 @@
 [Delay(time=2)]
 [charslot(slot="m",name="char_337_utage_story_1#1",focus="m")]
 [name="宴"]接下来的话，我只说一次哦~啊，反正你们也会录下来，无所谓无所谓。
-[name="宴"]......咳咳。
+[name="宴"]……咳咳。
 [charslot(slot="m",name="char_337_utage_story_1#5",focus="m")]
 [name="宴"]我真的好~~喜欢我现在的生活，我好喜欢跟我的朋友们一起玩~罗德岛上一切都挺好的，比以前的老宅好多了。
 [name="宴"]啊，训练我不喜欢，所以我好~~喜欢旷掉训练的感觉。
@@ -601,11 +601,11 @@
 [name="宴"]你这是什么？哇啊，是新到的杂志吗？
 [name="宴"]真是的，可别撇下我一个人看啊！
 [charslot(slot="m",name="avg_478_kirara_1#7",focus="m")]
-[name="绮良"]哪有......我才刚收到的。
+[name="绮良"]哪有……我才刚收到的。
 [charslot(slot="m",name="char_337_utage_story_1#5",focus="m")]
 [name="宴"]不管了不管了，我们走吧。去你的房间，让我给你试试我新买的彩妆！
 [charslot(slot="m",name="avg_478_kirara_1#1",focus="m")]
-[name="绮良"]又、又来吗......
+[name="绮良"]又、又来吗……
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

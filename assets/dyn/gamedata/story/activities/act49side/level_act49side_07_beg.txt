@@ -19,16 +19,16 @@
 [Subtitle(text="我们一家人聚少离多。", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="大哥大姐依旧在戍边，二姐协助修订了《炎律》后正打算移住丹燕，黍长居大荒，绩游历四海，易遍访山川，年还是那样到处游戏。", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="方弟据说已经出了大炎地界，小夕还是不肯从自己的画卷里出来，幺弟的饭店倒是红红火火，几十年如一日。", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="至于二哥......", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="他将自己锁在一间古寺里，为了精进“棋艺”，就这样枯坐了二十年......", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="......他到底什么时候，才愿意与我再见一面呢？", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="至于二哥……", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="他将自己锁在一间古寺里，为了精进“棋艺”，就这样枯坐了二十年……", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……他到底什么时候，才愿意与我再见一面呢？", x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [dialog]
 [charslot(slot="m",name="avg_npc_2125_1#9$1",duration=1)]
 [delay(time=2)]
-[name="颉"]......
+[name="颉"]……
 [dialog]
 [charslot]m
 [charslot(slot="m",name="avg_npc_2127_1#1$2",duration=0.5)]
@@ -37,30 +37,30 @@
 [charslot(slot="m",name="avg_npc_2125_1#1$1")]
 [name="颉"]偷闲被你捉住了。
 [charslot(slot="m",name="avg_npc_2127_1#3$2")]
-[name="椿"]......你偷闲也没问题的。那本地方志我校过一遍，有问题的地方都圈出来了。你还要再看一下吗？
+[name="椿"]……你偷闲也没问题的。那本地方志我校过一遍，有问题的地方都圈出来了。你还要再看一下吗？
 [dialog]
 [playsound(key="$book_close")]
 [charslot(slot="m",name="avg_npc_2125_1#3$1")]
 [delay(time=1)]
-[name="颉"]咦？真奇怪，这本书是什么时候......
+[name="颉"]咦？真奇怪，这本书是什么时候……
 [charslot(slot="m",name="avg_npc_2127_1#13$2")]
-[name="椿"]唉......你得空还是多歇歇吧，人都要糊涂了。这些年，我几乎是看着你工作的时间一点一点增多，睡觉的时间一点一点变少......
-[name="椿"]各移动城市的地方志、建城史，上代真龙的实录，学宫古代史部分的教材......这么多书，我只是帮你整理，有时候都觉得累得慌。
+[name="椿"]唉……你得空还是多歇歇吧，人都要糊涂了。这些年，我几乎是看着你工作的时间一点一点增多，睡觉的时间一点一点变少……
+[name="椿"]各移动城市的地方志、建城史，上代真龙的实录，学宫古代史部分的教材……这么多书，我只是帮你整理，有时候都觉得累得慌。
 [name="椿"]真奇怪，我听说工部给年的委托越来越少，黍在大荒城的任务也没那么繁重了。
-[name="椿"]但好像唯独是你，身上的担子始终卸不下......
+[name="椿"]但好像唯独是你，身上的担子始终卸不下……
 [charslot(slot="m",name="avg_npc_2125_1#4$1")]
-[name="颉"]......
+[name="颉"]……
 [charslot(slot="m",name="avg_npc_2127_1#5$2")]
 [name="椿"]颉？
 [charslot(slot="m",name="avg_npc_2125_1#5$1")]
-[name="颉"]嗯......？
+[name="颉"]嗯……？
 [charslot(slot="m",name="avg_npc_2125_1#1$1")]
 [name="颉"]抱歉，刚刚有点走神了。
-[name="颉"]椿，今天的确是有点累了，我想先把这些工作放一放......
+[name="颉"]椿，今天的确是有点累了，我想先把这些工作放一放……
 [charslot(slot="m",name="avg_npc_2127_1#3$2")]
 [name="椿"]好呀。要不，我们去街上转转？
 [charslot(slot="m",name="avg_npc_2125_1#4$1")]
-[name="颉"]......不了。今天不知为何，有点心神不宁。你先去吧。
+[name="颉"]……不了。今天不知为何，有点心神不宁。你先去吧。
 [charslot(slot="m",name="avg_npc_2125_1#1$1")]
 [name="颉"]若是有什么有意思的东西，别忘了帮我也带一点。
 [stopmusic(fadetime=2)]
@@ -76,15 +76,15 @@
 [delay(time=1)]
 [name="严肃的炎国官员"]椿秉烛。
 [charslot(slot="m",name="avg_npc_2127_1#1$2")]
-[name="椿"]是我。您找我是......
+[name="椿"]是我。您找我是……
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
 [name="严肃的炎国官员"]有封要紧的信带给您。
 [charslot(slot="m",name="avg_npc_2127_1#1$2")]
-[name="椿"]您......给我带信？谁寄来的？
+[name="椿"]您……给我带信？谁寄来的？
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
 [name="严肃的炎国官员"]不知是谁给司岁台寄了封信，监正阅后大惊失色，将这封信转呈陛下，同时也抄送给各位直接接触代理人的秉烛人。
 [charslot(slot="m",name="avg_npc_2127_1#5$2")]
-[name="椿"]这里面是......？
+[name="椿"]这里面是……？
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
 [name="严肃的炎国官员"]我也不知。监正只说让各位先做好准备，不要轻举妄动。
 [dialog]
@@ -92,26 +92,26 @@
 [delay(time=2.5)]
 [charslot]
 [charslot(slot="m",name="avg_npc_2127_1#11$2")]
-[name="椿"]这里面说的是......
+[name="椿"]这里面说的是……
 [dialog]
 [PlaySound(key="$d_avg_paper1")]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Sticker(id="st1", multi = true, text="■■年，出世。", x=300,y=220, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n■■年，与朔相搏，毁坏黎民生计无算。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......", x=300,y=330, alignment="center", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……", x=300,y=330, alignment="center", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1",duration=0.5)]
 [delay(time=1)]
 [Sticker(id="st1", multi = true, text="■■年，包庇同族，构陷官吏，使人蒙不白之冤。", x=300,y=220, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n■■年，躲避司岁台监视，与其余代理人私会。数月之后，司岁台失火，主犯成谜。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n■■年，谎称诛杀矩兽，实则包庇，坐视其离开大炎。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......", x=300,y=330, alignment="center", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……", x=300,y=330, alignment="center", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1",duration=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot(slot="m",name="avg_npc_2127_1#10$2")]
-[name="椿"]陷害官吏、私会、失火、包庇巨兽......
-[name="椿"]这说的是......
+[name="椿"]陷害官吏、私会、失火、包庇巨兽……
+[name="椿"]这说的是……
 [charslot(slot="m",name="avg_npc_2127_1#11$2")]
-[name="椿"]......望？
+[name="椿"]……望？
 [name="椿"]这真的是望做过的事？可为什么司岁台的记录没有这些？！
 [dialog]
 [charslot]
@@ -174,7 +174,7 @@
 惊恐的秉烛人已经无暇分辨到底是谁在向自己搭话。
 [name="？？？"]可当她的力量无限膨胀时，她也会变的。她会成为祂。
 [charslot(slot="m",name="avg_npc_2127_1#5$2")]
-[name="椿"]祂......？
+[name="椿"]祂……？
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_2127_1#1$2",duration=1,bstart=0.2,bend=0.6)]
@@ -183,9 +183,9 @@
 [name="？？？"]她在向你求助，她不想变成那副模样。
 [name="？？？"]大炎在向你求助，大炎不可接受这样的结局。
 [name="？？？"]成为比岁兽本身，都更加强大、更加恐怖的力量，她没法不这么做。
-[name="？？？"]你得帮她，只有你能帮助她......
+[name="？？？"]你得帮她，只有你能帮助她……
 [charslot(slot="m",name="avg_npc_2127_1#5$2")]
-[name="椿"]可我......不能......
+[name="椿"]可我……不能……
 [charslot(slot="m",name="avg_npc_2127_1#1$2",bstart=0.2,bend=0.6)]
 [name="？？？"]你会做出那个对所有人都好的选择的。
 [dialog]
@@ -196,7 +196,7 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2127_1#13$2",duration=0.5)]
 [delay(time=1)]
-[name="椿"]对所有人都好的......选择......？
+[name="椿"]对所有人都好的……选择……？
 [name="椿"]等等，刚刚跟我搭话的究竟是谁？！
 [charslot(slot = "m", focus = "n")]
 只有那些话语的回响在她耳边轰鸣，久久不散。
@@ -220,7 +220,7 @@
 [playMusic(intro="$loneliness_intro",key="$loneliness_loop", volume=0.6)]
 年轻的官员缓步走入这座辉煌的宫殿，这是她第一次踏足此处。
 那位九五至尊之人此刻却并不在皇位上，而是站在靠近窗边的位置，望着窗外连绵的雨幕。
-[name="真龙"]......你应该知道，太师昨日去世了。
+[name="真龙"]……你应该知道，太师昨日去世了。
 [name="真龙"]他是你的老师，也是我的老师。
 [name="真龙"]他临终前向我举荐过你，说你是他最得意的学生，“可以重任相托”。
 [name="真龙"]有些话，我来不及问他，便只好来问问你。
@@ -232,22 +232,22 @@
 [name="学识渊博的女性"]陛下，臣以为，我一人没有评判陛下的资格。
 [name="学识渊博的女性"]若我是安居于移动城市中衣食无忧的富贾，称颂陛下英明无双，这样的赞词能否算得上忠言？
 [name="学识渊博的女性"]若我是家人死于劳役的普通百姓，怒责陛下昏庸暴戾，政令一无是处，这样的批评又可算得上公正？
-[name="学识渊博的女性"]臣反而想询问陛下......
+[name="学识渊博的女性"]臣反而想询问陛下……
 [name="学识渊博的女性"]陛下真正在意的，到底是后世的评价，还是别的什么东西？
 [name="真龙"]你倒是会说话。
 [name="真龙"]好，那就不让你评判对错，你就代替你的老师，再给我一句谏言吧。
-[name="学识渊博的女性"]老师他曾说过一句话，臣自以为终身受用......
+[name="学识渊博的女性"]老师他曾说过一句话，臣自以为终身受用……
 [name="学识渊博的女性"]“世事诡随，谨致良知。”
 [name="学识渊博的女性"]寻常百姓的一生尚且难以在世事纷纭中寻得一个公正的评价，何况是陛下您？
 [name="学识渊博的女性"]这世上不存在可以评判陛下功过的法度，但陛下心中一定有衡量得失的良知。
-[name="真龙"]谨致良知......
+[name="真龙"]谨致良知……
 [name="真龙"]如果我心中的良知告诉我，我事事皆无过错，那又当如何？
 [name="学识渊博的女性"]那陛下今天，也不会召见我了。
 [name="学识渊博的女性"]只是想提醒陛下，炎国的百姓，他们不认识陛下，却能够看到陛下。
 [name="学识渊博的女性"]但陛下在这座禁城中，想要看清百姓，继而看清自己的得失，那就要多花一番功夫了。
-[name="真龙"]......这番话，我也记下了。
-[name="真龙"]如果我还有下一个二十年......我都会记着的。
-[name="真龙"]太师对他的学生的评价，不为偏颇......明日起，先去礼部报道吧。
+[name="真龙"]……这番话，我也记下了。
+[name="真龙"]如果我还有下一个二十年……我都会记着的。
+[name="真龙"]太师对他的学生的评价，不为偏颇……明日起，先去礼部报道吧。
 [name="学识渊博的女性"]谢陛下。
 [dialog]
 [playsound(key="$d_gen_walk_n", loop=true, channel="bgs")]
@@ -256,9 +256,9 @@
 [delay(time=2.5)]
 疲惫的真龙踱步回了皇位边，他的桌案上呈着一份罪状。
 司岁台送来的罪状。
-[name="真龙"]世事诡随，谨致良知......
-[name="真龙"]生年不满百，常怀......千岁忧。
-[name="真龙"]功过得失，自可交给后人评论......但大炎的顽疾，绝不可留待后世。
+[name="真龙"]世事诡随，谨致良知……
+[name="真龙"]生年不满百，常怀……千岁忧。
+[name="真龙"]功过得失，自可交给后人评论……但大炎的顽疾，绝不可留待后世。
 [name="真龙"]来人。
 [dialog]
 [charslot(slot="m",name="avg_npc_1634_1#1$1",duration=0.5)]
@@ -266,7 +266,7 @@
 [name="禁军"]在。
 [charslot]
 [name="真龙"]叫军队即刻就位。
-[name="真龙"]......准备开启岁陵。 
+[name="真龙"]……准备开启岁陵。 
 [stopmusic(fadetime=2)]
 [Dialog]
 [StopSound(channel="r", fadetime=2)]
@@ -285,7 +285,7 @@
 [dialog]
 [charslot(slot="m",name="avg_2027_wang_1#1$2",duration=1)]
 [delay(time=2)]
-[name="望"]......
+[name="望"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -294,8 +294,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [name="真龙"]你看庭中那株银杏，是今年春天刚种下的苗。
 [name="真龙"]几天前，工部尚书在这里立下过军令状，在银杏树挂果之前，他定然让百灶改建为完整的移动城市。
-[name="真龙"]二十年......我也给你二十年的时间。
-......
+[name="真龙"]二十年……我也给你二十年的时间。
+……
 [name="真龙"]近乎无限的寿命让你们傲慢，你们大概是忘了，寻常人一生，又能有几个二十年？
 [name="真龙"]炎国等不起，我也不愿再等。
 [Dialog]
@@ -305,7 +305,7 @@
 [CameraEffect(effect="Grayscale", fadetime=0, amount=0, block=true)]
 [Background(image="bg_yanshabbyroom",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="望"]......何必催促？
+[name="望"]……何必催促？
 [name="望"]我早有此意。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -325,7 +325,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [name="朔"]若你真计算出了一条行得通的路，那就告诉我，我情愿和你同去，胜算还大一些。
 [name="朔"]只要你告诉我，你究竟有几成胜算。我可以任你差遣，哪怕要我的命我也绝无怨言。
-[name="朔"]......可你知道自己在做什么吗？
+[name="朔"]……可你知道自己在做什么吗？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -335,7 +335,7 @@
 这本是无解的死局。
 分身如何战胜整体？“自己”如何能杀死“自己”而后幸存？
 但是他看到了那唯一的出路，对他们所有人而言的出路。
-由自己......取而代之。
+由自己……取而代之。
 [Dialog]
 [PlaySound(key="$flashback", volume=0.7)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -360,8 +360,8 @@
 这一局，无论如何输不得——
 [dialog]
 [charslot(slot="m",name="avg_2027_wang_1#11$2")]
-[name="望"]......久违了。
-[name="望"]傲慢的......无动于衷的......“我”。
+[name="望"]……久违了。
+[name="望"]傲慢的……无动于衷的……“我”。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -369,17 +369,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 终于回到这座阔别千年的幽暗的墓室，过往的无数种情绪一一涌上心间。
-愤怒，不甘，屈辱......
+愤怒，不甘，屈辱……
 [stopmusic(fadetime=1)]
 当他真正踏足这里的瞬间，他突然感受到了一种深入骨髓的寒意。
 [dialog]
 [playMusic(intro="$m_act31side_bat2_intro",key="$m_act31side_bat2_loop", volume=0.6)]
 [charslot(slot="m",name="avg_2027_wang_1#6$2",duration=0.5)]
 [delay(time=1)]
-[name="望"]不......不对！
+[name="望"]不……不对！
 [charslot(slot = "m", focus = "n")]
 这怎么可能？这绝无可能！
-你......为何已经醒来？
+你……为何已经醒来？
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_2129_1#1$1",duration=1)]

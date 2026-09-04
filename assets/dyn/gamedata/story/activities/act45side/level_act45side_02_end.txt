@@ -69,7 +69,7 @@
 [name="忙碌的保安"]无关人士都往外面站，不要拥挤！
 [name="忙碌的保安"]*龙门粗口*，人太多了，根本管不过来啊！
 [charslot(slot="m",name="avg_npc_033",focus="m")]
-[name="激动的粉丝"]空小姐......若麦小姐！我爱你们啊！！
+[name="激动的粉丝"]空小姐……若麦小姐！我爱你们啊！！
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.6)]
 [charslot(duration=1)]
@@ -87,10 +87,10 @@
 [charslot(duration=1)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]......这里已经完全一团乱了。
+[name="丰川祥子"]……这里已经完全一团乱了。
 [name="丰川祥子"]人实在太多了。
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="m")]
-[name="丰川祥子"]......完全没有混进去的可能。
+[name="丰川祥子"]……完全没有混进去的可能。
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="n")]
 [name="？？？"]小姑娘，想进场看大明星吗？
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
@@ -99,23 +99,23 @@
 [name="奇怪的男人"]你喜欢哪个？空，还是若麦？
 [name="奇怪的男人"]我有办法带你进去，亲眼见到本人哦。
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
-[name="丰川祥子"]......你为什么要帮我？
+[name="丰川祥子"]……你为什么要帮我？
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]哎，别这么紧张嘛~
-[name="奇怪的男人"]我要价也不高......喏，这个数。
+[name="奇怪的男人"]我要价也不高……喏，这个数。
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
-[name="丰川祥子"]......我给不起。
+[name="丰川祥子"]……我给不起。
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]哎，这价格已经很低了啊！你可别想着再砍一刀！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]就算你这么说......
+[name="丰川祥子"]就算你这么说……
 [Dialog]
 [PlaySound(key="$d_avg_pcket", volume=1)]
 [delay(time=1)]
-[name="丰川祥子"]（虽然这个男人看着就很可疑，但是现在也没什么别的更好的办法了，如果错过这次机会......）
+[name="丰川祥子"]（虽然这个男人看着就很可疑，但是现在也没什么别的更好的办法了，如果错过这次机会……）
 [name="丰川祥子"]（只能先相信他了。）
 [name="丰川祥子"]（翻找口袋）
-[name="丰川祥子"]一共只有这么多......这是我身上全部的钱，你看行不行？
+[name="丰川祥子"]一共只有这么多……这是我身上全部的钱，你看行不行？
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]也成！跟我来吧！
 [Dialog]
@@ -136,7 +136,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]员工专用通道......？
+[name="丰川祥子"]员工专用通道……？
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]嗯，咱们就从这里进。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
@@ -152,7 +152,7 @@
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]我和你说了我有办法啦！你到底想不想见到明星？
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
-[name="奇怪的男人"]（小声）*龙门粗口*，声音太大了......
+[name="奇怪的男人"]（小声）*龙门粗口*，声音太大了……
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -174,7 +174,7 @@
 [name="奇怪的男人"]不是跟你说让你守着备用器材随时待命吗？
 [name="奇怪的男人"]别想着当助理就能偷懒，待会道具组临时需要备用器材咋办？！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]才多大年纪啊，就想着偷懒不干活？
 [charslot(slot="m",name="avg_npc_020",focus="m")]
@@ -182,21 +182,21 @@
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]还傻站着干什么啊？快去会场啊！
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
-[name="丰川祥子"]......我知道了。
+[name="丰川祥子"]……我知道了。
 [Dialog]
 [charslot(slot="m",posfrom="0,0",posto="-100,0",afrom=1,ato=0,duration=1)]
 [Delay(time=1.5)]
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_020",focus="m")]
-[name="巡逻的保安"]小姑娘，会场在那边......
+[name="巡逻的保安"]小姑娘，会场在那边……
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
 [name="奇怪的男人"]你别告诉她！
 [name="奇怪的男人"]我就等着她找不到再跑回来求我！因为她耽误时间而造成的损失，全部从她工资里扣！
 [charslot(slot="m",name="avg_npc_020",focus="m")]
 [name="巡逻的保安"]小姑娘，工作加油啊！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",posfrom="-100,0",posto="-100,0",duration=0)]
-[name="丰川祥子"]好......好的。
+[name="丰川祥子"]好……好的。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_305_1#1$1",focus="m")]
@@ -215,7 +215,7 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_020",focus="m")]
-[name="巡逻的保安"]唉——这年头，还真是什么活都不好干啊......
+[name="巡逻的保安"]唉——这年头，还真是什么活都不好干啊……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
@@ -243,20 +243,20 @@
 [charslot(slot="m",name="avg_201_moeshd_1#2$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="可颂"]啊——头都要大了！根本忙不过来！
-[name="可颂"]若麦的人气怎么这么高！走到哪都有这么多喜欢她的人......
+[name="可颂"]若麦的人气怎么这么高！走到哪都有这么多喜欢她的人……
 [charslot(slot="m",name="avg_npc_329_1#1$1",focus="m")]
-[name="企鹅物流员工"]若麦小姐这样，一定也很累吧......
+[name="企鹅物流员工"]若麦小姐这样，一定也很累吧……
 [name="企鹅物流员工"]我看着空小姐每天起早贪黑地训练，为了回应粉丝们的爱意而四处奔波。晚上见到她时，她从来都是满脸的疲惫。
-[name="企鹅物流员工"]若麦小姐一出道就迅速走红，现在除了做主播，还要演戏、上综艺节目......
-[name="企鹅物流员工"]以前还能看到她发练鼓的视频，现在已经很久没看到了......
+[name="企鹅物流员工"]若麦小姐一出道就迅速走红，现在除了做主播，还要演戏、上综艺节目……
+[name="企鹅物流员工"]以前还能看到她发练鼓的视频，现在已经很久没看到了……
 [charslot(slot="m",name="avg_201_moeshd_1#1$1",focus="m")]
 [name="可颂"]你很喜欢她，对吧？
 [charslot(slot="m",name="avg_npc_329_1#1$1",focus="m")]
-[name="企鹅物流员工"]嗯......我最开始会对架子鼓感兴趣，就是因为看了她的视频。
+[name="企鹅物流员工"]嗯……我最开始会对架子鼓感兴趣，就是因为看了她的视频。
 [name="企鹅物流员工"]偶尔坚持不下去的时候，还会去看她以前的那些视频。
 [name="企鹅物流员工"]不知道现在的她，还会不会像《少女鼓手》里那样开心地玩音乐呢？
 [charslot(slot="m",name="avg_201_moeshd_1#13$1",focus="m")]
-[name="可颂"]......
+[name="可颂"]……
 [charslot(slot="m",name="avg_npc_329_1#1$1",focus="m")]
 [name="企鹅物流员工"]啊！对不起，自顾自说了很多。
 [name="企鹅物流员工"]现在还是工作时间，保证空小姐的安全最重要！我们还是继续盯监控吧！
@@ -268,7 +268,7 @@
 [PlaySound(key="$d_avg_aircraftalarm", volume=0.5)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_201_moeshd_1#5$1",focus="m")]
-[name="可颂"]不会吧......
+[name="可颂"]不会吧……
 [charslot(slot="m",name="avg_201_moeshd_1#11$1",focus="m")]
 [name="可颂"]快去看看A区那两个可疑的人，准备无人机！
 [Dialog]
@@ -290,7 +290,7 @@
 狭长的走廊里，两个人像着了魔一样飞奔，而他们身后是数十架攻击型无人机。
 [charslot(slot="l",name="avg_npc_305_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_4182_oblvns_1#9$2",focus="r")]
-[name="丰川祥子"]我就不该......不该信你！！
+[name="丰川祥子"]我就不该……不该信你！！
 [charslot(slot="l",name="avg_npc_305_1#1$1",focus="l")]
 [name="奇怪的男人"]真是怪了！之前带人这么溜进来都没问题啊！
 [name="奇怪的男人"]这些监控和无人机什么时候有的？！
@@ -319,7 +319,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=1)]
 [name="奇怪的男人"]（奇怪的声音）
-[name="奇怪的男人"]嘻嘻嘻嘻嘻......哈哈哈哈哈哈！！
+[name="奇怪的男人"]嘻嘻嘻嘻嘻……哈哈哈哈哈哈！！
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
 [name="丰川祥子"]——！
 [Dialog]
@@ -379,7 +379,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
-[name="丰川祥子"]......可恶！
+[name="丰川祥子"]……可恶！
 [Dialog]
 [charslot]
 祥子感到自己脚下的地板开始莫名变得柔软，她和前方大门的距离被无限地拉长，奔跑与噩梦一样无休无止。
@@ -412,7 +412,7 @@
 [Delay(time=0.5)]
 “接下来，请欣赏人偶为您带来的表演——”
 [charslot(slot="m",name="avg_4185_amoris_1#1$4",focus="n")]
-[name="通讯器里的声音"]......完美。
+[name="通讯器里的声音"]……完美。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -426,7 +426,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="char_101_sora_1#3",focus="m")]
-[name="空"]好、好厉害......
+[name="空"]好、好厉害……
 [Dialog]
 [charslot]
 [name="主持人"]这就是天生的表演奇才啊！！
@@ -435,11 +435,11 @@
 [name="祐天寺若麦"]每天晚上对着例片，在镜子前一遍又一遍练习，尝试理解人偶的想法。
 [Dialog]
 [charslot]
-[name="主持人"]理解人偶？听起来有点奇怪呢，哈哈......
+[name="主持人"]理解人偶？听起来有点奇怪呢，哈哈……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]若麦小姐能演绎成这样，一定付出了非常多的汗水吧！
 [charslot(slot="m",name="avg_4185_amoris_1#1$3",focus="m")]
-[name="祐天寺若麦"]......因为我常常会觉得自己缺乏才能嘛。
+[name="祐天寺若麦"]……因为我常常会觉得自己缺乏才能嘛。
 [charslot(slot="m",name="avg_4185_amoris_1#7$3",focus="m")]
 [name="祐天寺若麦"]身边的大家都有着非凡的能力。
 [Dialog]
@@ -474,15 +474,15 @@
 [charslot(slot="m",name="avg_4185_amoris_1#1$3",focus="m")]
 [name="祐天寺若麦"]有些人天生含着金汤匙，早早就作为童星成名。
 [name="祐天寺若麦"]有些人即使坠入谷底，却依然散发着耀眼的光芒。
-[name="祐天寺若麦"]我得奔跑到力竭，才能勉强追赶上她们......
+[name="祐天寺若麦"]我得奔跑到力竭，才能勉强追赶上她们……
 [charslot(slot="m",name="avg_4185_amoris_1#8$3",focus="m")]
 [name="祐天寺若麦"]我的这些小聪明，在她们面前实在是一无是处啊。
 [name="祐天寺若麦"]所以面对那些喜欢我的人，我唯有付出几倍几十倍的努力，才能回应他们对我这个天赋平平之人的垂青。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
-[name="空"]若麦小姐......你已经非常优秀了。
+[name="空"]若麦小姐……你已经非常优秀了。
 [name="空"]我相信在座的所有人，都和我一样——大家都深爱着你。
 [charslot(slot="m",name="avg_4185_amoris_1#6$3",focus="m")]
-[name="祐天寺若麦"]嗯......谢谢大家。
+[name="祐天寺若麦"]嗯……谢谢大家。
 [Dialog]
 [charslot]
 [name="主持人"]实在是让人感动啊。很有幸，今天能邀请到两位如此出色的嘉宾，与大家共度这一段欢乐的时光。
@@ -550,8 +550,8 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1.5, block=true)]
 [delay(time=4)]
 夜晚肆意的冷风，依然无法让人清醒地思考此时发生的一切。
-[name="祐天寺若麦"]......欸？
-[name="丰川祥子"]......
+[name="祐天寺若麦"]……欸？
+[name="丰川祥子"]……
 [name="主持人"]发、发生什么了？
 [name="空"]若麦小姐？！
 [name="可颂"]保护好空！若麦被嫌疑人掠走了，我现在去追她们！
@@ -564,7 +564,7 @@
 [name="丰川祥子"]这是哪门子的美梦？
 [name="丰川祥子"]失去鼓，失去伙伴，失去自己。就算得到再多人的喜欢，那还是你的梦吗？
 [name="丰川祥子"]那个爱耍聪明、从不饶人的祐天寺，到底跑哪去了？
-[name="祐天寺若麦"]可是、可是......
+[name="祐天寺若麦"]可是、可是……
 [name="丰川祥子"]若麦，梦该醒了。
 [Dialog]
 [stopmusic(fadetime=3)]

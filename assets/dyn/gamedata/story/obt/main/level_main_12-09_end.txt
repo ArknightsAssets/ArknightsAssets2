@@ -74,10 +74,10 @@
 [CharacterCutin(widgetID="2", name="avg_npc_412_1#7$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=300, width=200, block=true)]
 [name="W"]当然，我可不会放过让别人欠我人情的机会。
 [name="W"]不过，搬轮椅要另外收费，你多欠我一次。
-[name="闪灵"]......好。
+[name="闪灵"]……好。
 [CharacterCutin(widgetID="2", name="avg_npc_412_1#4$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=300, width=200, block=true)]
 [name="W"]说起来，你和那女的什么关系？把残疾人拖进伦蒂尼姆可不是个好主意。
-[name="闪灵"]她是我的......
+[name="闪灵"]她是我的……
 [name="闪灵"]不，我是她的罪恶。
 [Dialog]
 [musicvolume(volume=0.3, fadetime=2)]
@@ -93,7 +93,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]......一座通讯站？
+[name="阿米娅"]……一座通讯站？
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
 [name="戴菲恩"]我们需要把我们的存在广播出去。
 [Dialog]
@@ -119,7 +119,7 @@
 [name="戴菲恩"]它在一家酒店里。这家酒店在诺伯特区衰落之前，是伦蒂尼姆最好的住处之一。
 [name="戴菲恩"]为了满足各个国家旅客的要求，他们给酒店装上了一台功率十分强劲的信号收发装置。
 [charslot(slot="m",name="avg_npc_866_1#8$1",focus="m")]
-[name="戴菲恩"]那里现在从外面看已经被落石堵死了，但如果我们能找到进去的路，并且使用那里残存的设备，应该......
+[name="戴菲恩"]那里现在从外面看已经被落石堵死了，但如果我们能找到进去的路，并且使用那里残存的设备，应该……
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]这会是个十分危险的行动，按你刚刚的描述，就算那座可怜的通讯站依然可以运行，恐怕发出的信号也无法实现加密。
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
@@ -130,11 +130,11 @@
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
 [name="戴菲恩"]我们只能赌那些公爵们不想背上坐视一场屠杀发生的恶名。
 [charslot(slot="m",name="avg_npc_866_1#8$1",focus="m")]
-[name="戴菲恩"]并且，我相信......会有大公爵挺身而出的，终究他们也不想看到一个沦为废墟的维多利亚。
+[name="戴菲恩"]并且，我相信……会有大公爵挺身而出的，终究他们也不想看到一个沦为废墟的维多利亚。
 [charslot(slot="m",name="avg_4087_ines_1#3$1",focus="m")]
 [name="伊内丝"]比如那位温德米尔公爵？
 [charslot(slot="m",name="avg_npc_866_1#5$1",focus="m")]
-[name="戴菲恩"]......
+[name="戴菲恩"]……
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
 [name="戴菲恩"]也许她会是其中之一。
 [charslot(slot="m",name="avg_4087_ines_1#4$1",focus="m")]
@@ -153,7 +153,7 @@
 [charslot(slot="m",name="avg_npc_394_1#21$1",focus="m")]
 [name="阿米娅"]是的。
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
-[name="阿米娅"]如果我们能更进一步，让封锁区里剩下的物资能够更好地分配给有需要的人......也许我们坚持的时间还能更长。
+[name="阿米娅"]如果我们能更进一步，让封锁区里剩下的物资能够更好地分配给有需要的人……也许我们坚持的时间还能更长。
 [charslot(slot="m",name="avg_npc_394_1#19$1",focus="m")]
 [name="阿米娅"]正如您之前说的，重新建立起已经崩塌的信任。
 [charslot(slot="m",name="avg_4087_ines_1#4$1",focus="m")]
@@ -197,9 +197,9 @@
 [charslot(slot="l",name="avg_npc_866_1#6$1",focus="l")]
 [name="戴菲恩"]原来的一切就能回来吗？
 [name="戴菲恩"]“尊严”，看看我们吧！卡铎尔！
-[name="戴菲恩"]我们都清楚......自己干了什么！
+[name="戴菲恩"]我们都清楚……自己干了什么！
 [charslot(slot="r",name="avg_npc_862_1#2$1",focus="r")]
-[name="卡铎尔"]......
+[name="卡铎尔"]……
 [name="卡铎尔"]我——
 [Dialog]
 [charslot]
@@ -244,13 +244,13 @@
 然而这次，它不再是在暗巷中短暂炸响，不再伴随着忐忑或犹豫，遮掩或伪装。
 烟尘中，一辆行李车正在街道上缓缓滑动，它或许曾经属于某家酒店，用来搬运远道而来的客人们携带的大小提箱。
 如今，它却被爆炸的余波推出烟尘，它成了这一刻所有人目光聚集的焦点，所有人炽烈的渴望。
-那辆行李车上，竟载满了物资。一箱箱罐头，干净的水，粗糙而甜美的干粮......
+那辆行李车上，竟载满了物资。一箱箱罐头，干净的水，粗糙而甜美的干粮……
 [Dialog]
 [charslot(slot="m",name="avg_npc_863_1#4$1",focus="m")]
-[name="贝尔德"]那是......
+[name="贝尔德"]那是……
 [Dialog]
 [charslot]
-她的声音含混不清，她察觉到自己......无法移开眼睛。
+她的声音含混不清，她察觉到自己……无法移开眼睛。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -272,11 +272,11 @@
 [charslot(slot = "r", action="jump",posfrom="-100,0",posto="30,0",power=10,times=2,afrom=1,ato=1,duration=0.3,isblock=false)]
 [delay(time=1)]
 [charslot(slot="l",name="avg_npc_416_1#1$1",focus="l")]
-[name="绝望的暴徒"]我......我需要这些食物，给我滚开！
+[name="绝望的暴徒"]我……我需要这些食物，给我滚开！
 [charslot(slot="r",name="avg_npc_417_1#1$1",focus="r")]
 [name="激动的暴徒"]该躲开的是你，该死的，我不想找你的麻烦，你吃不了那么多！
 [charslot(slot="l",name="avg_npc_416_1#1$1",focus="l")]
-[name="绝望的暴徒"]你可以分我一点，哪怕是几块面包都足够了......
+[name="绝望的暴徒"]你可以分我一点，哪怕是几块面包都足够了……
 [charslot(slot="r",name="avg_npc_417_1#1$1",focus="r")]
 [CameraShake(duration=0.3, xstrength=12, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="激动的暴徒"]先把你的手从那堆东西上放下来！
@@ -312,7 +312,7 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_863_1#7$2",focus="m")]
 [name="贝尔德"]别过去，现在别。
-[name="贝尔德"]他们听不进你说的话，我们没有......
+[name="贝尔德"]他们听不进你说的话，我们没有……
 [Dialog]
 [musicvolume(volume=0.3, fadetime=1)]
 [PlaySound(key="$d_avg_clothmovementsp", volume=0.7)]
@@ -343,7 +343,7 @@
 她看着眼前的这些人，这些人也都死死地盯着她。
 [Dialog]
 [charslot(slot="m",name="avg_npc_417_1#1$1",focus="m")]
-[name="激动的暴徒"]推进之王......
+[name="激动的暴徒"]推进之王……
 [name="激动的暴徒"]你为什么会在这里？你想干什么？
 [charslot(slot="m",name="avgnew_112_siege_1#1$2",focus="m")]
 [name="推进之王"]我认得你，阿勒杰，你家的三个小子还好吗？
@@ -400,25 +400,25 @@
 [charslot(slot="m",name="avg_npc_405_1#11$1",focus="m")]
 [name="摩根"]阿斯兰王的后裔，亚历山德莉娜·维娜·维多利亚殿下，带着诸王之息回来了！
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
-[name="绝望的暴徒"]维多利亚......推进之王，原来你姓维多利亚？！
-[name="绝望的暴徒"]那把剑......诸王之息？
-[name="绝望的暴徒"]可是......
-[name="绝望的暴徒"]我早就怀疑过......你不是普通的菲林。
+[name="绝望的暴徒"]维多利亚……推进之王，原来你姓维多利亚？！
+[name="绝望的暴徒"]那把剑……诸王之息？
+[name="绝望的暴徒"]可是……
+[name="绝望的暴徒"]我早就怀疑过……你不是普通的菲林。
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
-[name="戴菲恩"]......
+[name="戴菲恩"]……
 [name="戴菲恩"]遵照殿下的要求，大公爵们的部队已经在前往这里的路上了。
 [charslot(slot="m",name="avg_npc_866_1#10$1",focus="m")]
 [name="戴菲恩"]那帮萨卡兹拦不住他们，就算加上那艘船也不行！我们现在有救了！
 [charslot(slot="m",name="avgnew_112_siege_1#5$2",focus="m")]
-[name="推进之王"]戴菲恩，连你也......
+[name="推进之王"]戴菲恩，连你也……
 [charslot(slot="m",name="avg_npc_862_1#12$1",focus="m")]
 [name="卡铎尔"]殿下？
-[name="卡铎尔"]推进之王......你*维多利亚粗口*是个王室？
+[name="卡铎尔"]推进之王……你*维多利亚粗口*是个王室？
 [charslot(slot="m",name="avg_npc_862_1#6$1",focus="m")]
-[name="卡铎尔"]哈哈哈......
+[name="卡铎尔"]哈哈哈……
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
 [name="绝望的暴徒"]大公爵，他们终于——
-[name="绝望的暴徒"]推进之王......不，亚历山德莉娜殿下，我得......
+[name="绝望的暴徒"]推进之王……不，亚历山德莉娜殿下，我得……
 [Dialog]
 [charslot(slot="m",name="avg_npc_416_1#1$1",afrom=1,ato=0,duration=0.2)]
 [Delay(time=0.5)]
@@ -433,11 +433,11 @@
 [name="激动的暴徒"]呃呃——
 [charslot(duration=0)]
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......矿石病的急性症状。
+[name="阿米娅"]……矿石病的急性症状。
 [name="阿米娅"]我马上准备抑制剂注射，他的状况很糟。
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
 [name="摩根"]看到了吗，我们还有药品！我们只需要再坚持一下——
-[name="摩根"]......真的，我们只需要再坚持一下。
+[name="摩根"]……真的，我们只需要再坚持一下。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

@@ -25,7 +25,7 @@
 [charslot(slot = "l", name = "avg_npc_399_1#1$1", focus="l")]
 [name="紧张的私兵"]你呢，你是怎么落到她手上的？
 [charslot(slot = "r", name = "avg_npc_399_1#1$1", focus="r")]
-[name="不满的私兵"]......她用弩顶着我的脑袋。
+[name="不满的私兵"]……她用弩顶着我的脑袋。
 [name="不满的私兵"]我以前就认识她，她那个时候可没这么——
 [Dialog]
 [musicvolume(volume=0.3, fadetime=1)]
@@ -70,10 +70,10 @@
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_1342_1#1$1",focus="m")]
 [name="“铣痕”"]有的人会给自己宠物的耳朵上打孔，来证明它的归属。
-[name="“铣痕”"]当然，人不是宠物。但......某些方面也都一样，对吧？
+[name="“铣痕”"]当然，人不是宠物。但……某些方面也都一样，对吧？
 [Dialog]
 [charslot]
-[name="恐惧的私兵"]我......
+[name="恐惧的私兵"]我……
 [charslot(slot = "m", name = "avg_npc_1342_1#6$1",focus="m")]
 [name="“铣痕”"]现在，爬起来，给我一个结论。
 [name="“铣痕”"]我让你们干的事情怎么样了？
@@ -89,11 +89,11 @@
 [charslot(slot = "m", name = "avg_npc_1342_1#6$1",focus="m")]
 [name="“铣痕”"]我只要结论。
 [charslot(slot = "m", name = "avg_npc_399_1#1$1", focus="m")]
-[name="恐惧的私兵"]从“灰礼帽”残留的信息，和偶尔能拦截到的通讯来看，确实有一支叫“典范军”的队伍成立了，领导人很可能就是您说的那位......
+[name="恐惧的私兵"]从“灰礼帽”残留的信息，和偶尔能拦截到的通讯来看，确实有一支叫“典范军”的队伍成立了，领导人很可能就是您说的那位……
 [name="恐惧的私兵"]“维娜”小姐。
-[name="恐惧的私兵"]他们似乎正在前往......银石崖前线。
+[name="恐惧的私兵"]他们似乎正在前往……银石崖前线。
 [charslot(slot = "m", name = "avg_npc_1342_1#7$1",focus="m")]
-[name="“铣痕”"]......银石崖。他们居然还真的留在了战场上。
+[name="“铣痕”"]……银石崖。他们居然还真的留在了战场上。
 [charslot(slot = "m", name = "avg_npc_1342_1#1$1",focus="m")]
 [name="“铣痕”"]继续。有什么新的消息随时通知我。
 [charslot(slot = "m", name = "avg_npc_399_1#1$1", focus="m")]
@@ -152,7 +152,7 @@
 [charslot(slot = "m", name = "avg_4088_hodrer_1#1$1", duration=1)]
 [Delay(time=2.5)]
 [charslot(slot = "m", name = "avg_4088_hodrer_1#1$1", focus="m")]
-[name="赫德雷"]......厄尔苏拉。
+[name="赫德雷"]……厄尔苏拉。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_ironchaindrop",volume=0.6)]
@@ -173,7 +173,7 @@
 [name="厄尔苏拉"]别说梦话。
 [name="厄尔苏拉"]我早就拒绝过你，你要是觉得我被你们俘虏就能改变立场，那你就太瞧不起我了。
 [charslot(slot = "m", name = "avg_4088_hodrer_1#8$1", focus="m")]
-[name="赫德雷"]......三条命。
+[name="赫德雷"]……三条命。
 [charslot(slot = "m", name = "avg_npc_1067_1#10$1", focus="m")]
 [name="厄尔苏拉"]嗯？
 [charslot(slot = "m", name = "avg_4088_hodrer_1#2$1", focus="m")]
@@ -197,7 +197,7 @@
 [name="厄尔苏拉"]别说了。你那些正确的理论我都听腻了。
 [charslot(slot = "m", name = "avg_npc_1067_1#1$1", focus="m")]
 [name="厄尔苏拉"]别想用漂亮话买我的命，老朋友。这没比钱强上多少。
-[name="厄尔苏拉"]雇佣兵是没有立场......但你和我，早就不只是雇佣兵了。
+[name="厄尔苏拉"]雇佣兵是没有立场……但你和我，早就不只是雇佣兵了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -217,13 +217,13 @@
 [charslot(slot = "l", name = "avg_npc_412_1#1$1",focus="l")]
 [name="W"]你就这个反应？我还以为放他们两个单独相处，你会狠狠吃醋来着。
 [charslot(slot = "r", name = "avg_4087_ines_1#9$1",focus="r")]
-[name="伊内丝"]......W。
+[name="伊内丝"]……W。
 [charslot(slot = "l", name = "avg_npc_412_1#3$1",focus="l")]
 [name="W"]别再盯着我的影子反复欣赏了，伊内丝，我烦得很。
-[name="W"]小兔子和维多利亚人走了好久了吧......也不知道他们那边怎么样了。
+[name="W"]小兔子和维多利亚人走了好久了吧……也不知道他们那边怎么样了。
 [name="W"]这骨头架子还在装死，特雷西斯搞出来的浮夸天灾又阴魂不散，也不知道曼弗雷德是不是下一秒就会蹦出来。
 [charslot(slot = "l", name = "avg_npc_412_1#6$1",focus="l")]
-[name="W"]啊......本来炸死特雷西斯的机会都近在眼前了！
+[name="W"]啊……本来炸死特雷西斯的机会都近在眼前了！
 [charslot(slot = "r", name = "avg_4087_ines_1#1$1",focus="r")]
 [name="伊内丝"]W，我知道你还在因为特蕾西娅的事躁动。可你最好确保你的炸弹脑袋冷静下来，我们现在要准备的事还有很多。
 [charslot(slot = "l", name = "avg_npc_412_1#11$1",focus="l")]
@@ -237,7 +237,7 @@
 [Delay(time=2)]
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_1336_1#1$1", focus="m")]
-[name="W小队成员"]W，有些状况......
+[name="W小队成员"]W，有些状况……
 [charslot(slot = "m", name = "avg_npc_412_1#13$1",focus="m")]
 [name="W"]说。
 [charslot(slot = "m", name = "avg_npc_1336_1#1$1", focus="m")]
@@ -264,7 +264,7 @@
 [charslot(slot = "m", name = "avg_4087_ines_1#9$1",focus="m")]
 [name="伊内丝"]冷静点！万一是敌人分散我们战斗力的陷阱——
 [charslot(slot = "m", name = "avg_npc_412_1#5$1",focus="m")]
-[name="W"]我讨厌陷入被动......我主动出击，就算是陷阱，也可以先用炸弹炸得他们现身。
+[name="W"]我讨厌陷入被动……我主动出击，就算是陷阱，也可以先用炸弹炸得他们现身。
 [name="W"]给我半天时间，要是我没回来，那就一定是遇到了难对付的家伙，其他人不要再追过来，全力防守。
 [name="W"]要是期间收到了阿米娅的通讯，也不用管我，你们立即启动脊椎。
 [charslot(slot = "m", name = "avg_npc_412_1#8$1",focus="m")]
@@ -295,7 +295,7 @@
 [name="W"]这里要真的是王庭军的秘密基地，我们掉下来的第一时间就会有两百个血魔和食腐者围过来唱咒术歌。
 [name="W"]按之前可露希尔给的消息，我们大概是在伦蒂尼姆西边的荒山里，离老家伙们的正面战场还远得很呢。
 [charslot(slot = "r", name = "avg_npc_412_1#6$1",focus="r")]
-[multiline(name="W")]但是话说回来，总觉得有一股......（嗅闻）......
+[multiline(name="W")]但是话说回来，总觉得有一股……（嗅闻）……
 [charslot(slot = "r", name = "avg_npc_412_1#8$1",focus="r")]
 [multiline(name="W")]有人待过的老旧到发霉的味道。
 [name="W"]我讨厌古老的东西，但赫德雷一定会喜欢。
@@ -309,30 +309,30 @@
 [charslot(slot = "r", name = "avg_npc_412_1#13$1",focus="r")]
 [name="W"]说什么胡话？我们一路过来什么时候用炸弹了？
 [charslot(slot = "l", name = "avg_npc_1336_1#1$1", focus="l")]
-[name="W小队成员"]墙壁上这些灼痕......？
+[name="W小队成员"]墙壁上这些灼痕……？
 [charslot(slot = "r", name = "avg_npc_412_1#12$1",focus="r")]
-[name="W"]啊......？
-[name="W"]奇怪，能把石头烧成这样，但又没有法术的痕迹？这是在做什么......
+[name="W"]啊……？
+[name="W"]奇怪，能把石头烧成这样，但又没有法术的痕迹？这是在做什么……
 [charslot(slot = "l", name = "avg_npc_1336_1#1$1", focus="l")]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="W小队成员"]听到了吗？！
 [charslot(slot = "r", name = "avg_npc_412_1#12$1",focus="r")]
 [name="W"]一惊一乍干什么？
 [charslot(slot = "l", name = "avg_npc_1336_1#1$1", focus="l")]
-[name="W小队成员"]打铁......我听到了有人在打铁——这里有人！
+[name="W小队成员"]打铁……我听到了有人在打铁——这里有人！
 [Dialog]
 [charslot(slot = "r", name = "avg_npc_412_1#12$1",focus="all")]
 [Delay(time=1.5)]
 [charslot(slot = "r", name = "avg_npc_412_1#13$1",focus="r")]
-[name="W"]说什么胡话......
+[name="W"]说什么胡话……
 [name="W"]少在那吓唬自己，这里明明半个人影都没有。
 [charslot(slot = "l", name = "avg_npc_1336_1#1$1", focus="l")]
-[name="W小队成员"]W......我们还要往里面走吗？我感觉有点不太对劲。
+[name="W小队成员"]W……我们还要往里面走吗？我感觉有点不太对劲。
 [charslot(slot = "r", name = "avg_npc_412_1#1$1",focus="r")]
 [name="W"]废话，我们出来是干什么的。
 [name="W"]跟着我的那些姑娘小子们身上用的都是上等货，我还没富裕到眼睁睁看着那些装备烂在地下。
 [charslot(slot = "l", name = "avg_npc_1336_1#1$1", focus="l")]
-[name="W小队成员"]你有没有听说过一个萨卡兹的传说......在奎隆都还没有出生的时候，萨卡兹曾经跟红龙——
+[name="W小队成员"]你有没有听说过一个萨卡兹的传说……在奎隆都还没有出生的时候，萨卡兹曾经跟红龙——
 [charslot(slot = "r", name = "avg_npc_412_1#1$1",focus="r")]
 [name="W"]闭嘴。
 [name="W"]上历史课的有赫德雷一个就够了，再多说一句，我就先把你扔到前面——
@@ -340,9 +340,9 @@
 [charslot(slot = "r", name = "avg_npc_412_1#5$1",focus="r")]
 [name="W"]——！
 [charslot(slot = "l", name = "avg_npc_1336_1#1$1", focus="l")]
-[name="W小队成员"]怎么了......？
+[name="W小队成员"]怎么了……？
 [charslot(slot = "r", name = "avg_npc_412_1#5$1",focus="r")]
-[name="W"]有股血的味道......但不是萨卡兹的血。
+[name="W"]有股血的味道……但不是萨卡兹的血。
 [multiline(name="W")]是不久前才留下的——
 [playMusic(intro="$plot_intro", key="$plot_loop", volume=0.6)]
 [charslot(slot = "r", name = "avg_npc_412_1#11$1",focus="r")]

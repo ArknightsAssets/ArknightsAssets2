@@ -24,7 +24,7 @@
 [name="主教"]而同样的恩赐，最后也会给予你的故交们，只要她们能同你一样，放下过去为敌时的狭见。
 [name="主教"]使你们团聚，这是第一步。理解你们，这是第二步。而到最后，你们也会理解我。
 [character(name="avg_474_gladiia_1#1",blackstart=0.3,blackend=0.5)]
-[name="歌蕾蒂娅"]......
+[name="歌蕾蒂娅"]……
 [name="歌蕾蒂娅"]如果你能适当地减少一些废话，我们共事起来还能更融洽。
 [character(name="avg_npc_184",blackstart=0.2,blackend=0.35)]
 [name="主教"]我也可以说一些会使你高兴的。你的故交——清醒的那个，她已经到了。
@@ -86,12 +86,12 @@
 [Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]他们呀，他们平时就在这里。
 [character(name="avg_npc_178")]
-[name="男性居民"]一百三十、一百三十一、一百三十二......
+[name="男性居民"]一百三十、一百三十一、一百三十二……
 [Character(name="avg_npc_180#3")]
 [name="安妮塔"]嗨，砖头，今天过得好吗？
 [character(name="avg_npc_178")]
-[name="男性居民"]......
-[name="男性居民"]一，二，三......
+[name="男性居民"]……
+[name="男性居民"]一，二，三……
 [Character(name="avg_npc_180#2")]
 [name="安妮塔"]抱歉啦！
 [Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=1)]
@@ -108,15 +108,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=2)]
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]......
+[name="男性居民A"]……
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
-[name="男性居民B"]......
+[name="男性居民B"]……
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]嗨，铁皮。嗨，墙灰。你们醒啦！
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]（摸箱子）
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
-[name="男性居民B"]痛......
+[name="男性居民B"]痛……
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]喂，木框。你又把这个外面的人带到家里。
 [Character(name="avg_npc_180#2")]
@@ -126,26 +126,26 @@
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]长凳都挺喜欢她的，对不对啊，小长凳？
 [character]
-[name="幼年居民"]呜......嗷......
+[name="幼年居民"]呜……嗷……
 [Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]别、别咬！歌手的裙子都要被咬坏啦！
 [Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#5",focus=2)]
 [name="斯卡蒂"]咳。
-[name="斯卡蒂"]......倒还不会坏。
+[name="斯卡蒂"]……倒还不会坏。
 [Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]沾满了口水，就没这么漂亮了。
 [character]
-[name="幼年居民"]嗷，嗷嗷......
+[name="幼年居民"]嗷，嗷嗷……
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]这孩子真的很喜欢你，歌手。
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]你们瞧，长凳也想让她留下来。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]你在盘算的事。别以为，我不知道。
 [Character(name="avg_npc_180#4")]
-[name="安妮塔"]呃......
+[name="安妮塔"]呃……
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]不会有，好结果。
 [Character(name="avg_npc_180#2")]
@@ -164,7 +164,7 @@
 [delay(time=2)]
 [PlayMusic(intro="$m_dia_street_intro", key="$m_dia_street_loop", volume=0.4)]
 [Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="安妮塔"]呼......总算走啦。
+[name="安妮塔"]呼……总算走啦。
 [name="安妮塔"]歌手，你不用怕。铁皮就是这样的人。他看着很凶，但也不会真的对我做什么。
 [Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]哦？
@@ -181,7 +181,7 @@
 [name="斯卡蒂"]你在叹气。
 [Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]这个桶空啦。盘子也是空的。
-[name="安妮塔"]让我想想......或许床底下还有一些吃的。
+[name="安妮塔"]让我想想……或许床底下还有一些吃的。
 [Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]这里，床？
 [Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=1)]
@@ -200,11 +200,11 @@
 [name="安妮塔"]料子不大够用，还得去城南好好翻翻，或许还有些埋更深的没被拿走。
 [name="安妮塔"]马上天就要变冷了，我得加快些。
 [character]
-[name="幼年居民"]......
+[name="幼年居民"]……
 [Character(name="avg_npc_180#2")]
 [name="安妮塔"]不，不行，长凳，你不能动这个衣服！这是要给佩特拉奶奶的，她咳嗽越来越厉害了。
 [character]
-[name="幼年居民"]......
+[name="幼年居民"]……
 [Character(name="avg_npc_180#2")]
 [name="安妮塔"]这也不行！给我松手啦！
 [dialog]
@@ -214,20 +214,20 @@
 [name="安妮塔"]说了多少次，不是木框，是画框啦！
 [name="安妮塔"]还有，这个也不能吃，就算给你也没用呀！
 [Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=2)]
-[name="斯卡蒂"]木框......画框？
+[name="斯卡蒂"]木框……画框？
 [Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]你听到他们这么叫我了？
 [Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]我只知道你叫安妮塔。
 [Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
-[name="安妮塔"]安妮塔是我自己起的......我从佩特拉奶奶的故事里听来的，那个女孩儿和你一样，很会唱歌。是不是比木框好听多了？
+[name="安妮塔"]安妮塔是我自己起的……我从佩特拉奶奶的故事里听来的，那个女孩儿和你一样，很会唱歌。是不是比木框好听多了？
 [name="安妮塔"]我们这里的人，大多没有名字。什么顺嘴喊什么。砖头总在数砖块，铁皮家外面围着铁皮栅栏。
 [name="安妮塔"]他们叫我木框。因为佩特拉奶奶是从这块画框下面找到我的。
 [Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]你说过自己的母亲。
 [Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]她没把我交给其他人，她够勇敢了。在我出生的时候，我们这里没有孩子，孩子活不下去。
-[name="安妮塔"]那年头没人敢惹佩特拉奶奶......她把吃的分给我。你别看她现在身体不好，她是这城里顶顶厉害的人哩。
+[name="安妮塔"]那年头没人敢惹佩特拉奶奶……她把吃的分给我。你别看她现在身体不好，她是这城里顶顶厉害的人哩。
 [Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
 [name="斯卡蒂"]哦？
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
@@ -238,7 +238,7 @@
 [name="安妮塔"]现在好多啦。那个教士教会了我们如何活下去。你看长凳，还有那边几个孩子。我想我们这里也能渐渐变得热闹起来。
 [dialog]
 [character]
-[name="幼年居民"]啊啊......啊......
+[name="幼年居民"]啊啊……啊……
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]只要别乱拿我的东西，你就还是个好孩子，是不是啊，小长凳？
 [name="安妮塔"]别的被拿走了都没关系。晚上睡觉的时候，我把这盒子藏好。他们不知道怎么找。
@@ -250,13 +250,13 @@
 [name="安妮塔"]你是客人，佩特拉奶奶教过我，我们要好好招待客人。
 [name="安妮塔"]有了，我就记得有。看吧，这儿还剩下一条鳞。
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
-[name="斯卡蒂"]这气味......
+[name="斯卡蒂"]这气味……
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]是半个月前的，还挺新鲜哩。
-[name="安妮塔"]掰一下，这一半......给长凳。嘿，长凳，这里还有吃的！
+[name="安妮塔"]掰一下，这一半……给长凳。嘿，长凳，这里还有吃的！
 [character]
 [dialog]
-[name="幼年居民"]啊......啊啊......（吞咽）
+[name="幼年居民"]啊……啊啊……（吞咽）
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
 [name="安妮塔"]好了，这一半给你，你吃完把骨头剩下，我还能煮上一锅汤。
 [Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
@@ -293,7 +293,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [character(name="avg_1012_skadiSP_1#7")]
-[name="斯卡蒂"]......还跟着。
+[name="斯卡蒂"]……还跟着。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -330,7 +330,7 @@
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]铁皮，我们不能来。海边，不许来。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]......这没有意义。我们，阻止她。
+[name="男性居民A"]……这没有意义。我们，阻止她。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]阻止她？难道我们打得过她？
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
@@ -348,7 +348,7 @@
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]就算知道，又能怎样？
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
-[name="男性居民B"]......我不知道。铁皮，你说的，我都不知道。我不懂。
+[name="男性居民B"]……我不知道。铁皮，你说的，我都不知道。我不懂。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]过去，我们最远走到过哪里？
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
@@ -360,7 +360,7 @@
 [name="男性居民B"]我那时候，饿晕了。
 [name="男性居民B"]你说，要再走一段路。你要，推推运气。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]......是碰碰运气。
+[name="男性居民A"]……是碰碰运气。
 [name="男性居民A"]啧，你总是，话都说不明白。教士教了你那么多年。你都学不会。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]嘿嘿，铁皮，有你。你能明白。
@@ -379,11 +379,11 @@
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]你吓到我了。你那时候就这么说。我不知道你在说什么。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]后来......教士来了。他来了，我才感到了变化。我们都有了变化。
+[name="男性居民A"]后来……教士来了。他来了，我才感到了变化。我们都有了变化。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]教士，好的生活。他说我们能有。他说的是真的。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]是真的。因为......这是真理。他给我们看见的。
+[name="男性居民A"]是真的。因为……这是真理。他给我们看见的。
 [name="男性居民A"]因为教士，我活了下来。我们都活了下来。这样，很好。
 [name="男性居民A"]那条线，没有人能跨过。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
@@ -392,20 +392,20 @@
 [name="男性居民A"]所有的线。就像木框做的陷阱。外面来的，都拦住。
 [name="男性居民A"]我们也不要出去。这就是最好的。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
-[name="男性居民B"]铁皮......你的脚，快要沾到水！
+[name="男性居民B"]铁皮……你的脚，快要沾到水！
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]水......是的。我不要过去。
-[name="男性居民A"]就算跨过去了......跨过去了，那里可能也什么都没有。
+[name="男性居民A"]水……是的。我不要过去。
+[name="男性居民A"]就算跨过去了……跨过去了，那里可能也什么都没有。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
-[name="男性居民B"]呼......铁皮，你总算停下了脚步。你刚刚吓坏我了。
+[name="男性居民B"]呼……铁皮，你总算停下了脚步。你刚刚吓坏我了。
 [name="男性居民B"]你别像那样，问这么多问题。你一直问，跟木框差不多。她从来都是怪人，教士也说她不对，不是吗？
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]提问......帮不了我们。
+[name="男性居民A"]提问……帮不了我们。
 [name="男性居民A"]只有答案才有意义。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]你好厉害，铁皮。教士说的话，就你记得最牢。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
-[name="男性居民A"]......
+[name="男性居民A"]……
 [name="男性居民A"]看，她一直在海边走。
 [dialog]
 [characteraction(name="left", type="move", xpos=-100, fadetime=0.3, block=true)]
@@ -416,14 +416,14 @@
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]她回不来了。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
-[name="男性居民B"]那......那倒是很好。
+[name="男性居民B"]那……那倒是很好。
 [name="男性居民B"]我想要她那个大箱子，里面肯定有很多吃的。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]箱子不在。她带走了。
-[name="男性居民A"]只有这个......这个，她放在了石头上。我不知道这是什么。
+[name="男性居民A"]只有这个……这个，她放在了石头上。我不知道这是什么。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]她一直拿着，应该是好东西吧？
-[name="男性居民B"]我能不能......能不能咬一口，铁皮？我真的好饿。
+[name="男性居民B"]我能不能……能不能咬一口，铁皮？我真的好饿。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]（叮咚）
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
@@ -468,7 +468,7 @@
 [character]
 [delay(time=1)]
 [character(name="avg_npc_178")]
-[name="男性居民A"]......
+[name="男性居民A"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [characteraction(name="middle", type="jump", power=5,times=1, fadetime=0.3,block=true)]
@@ -482,7 +482,7 @@
 [character(name="avg_npc_178")]
 [name="男性居民A"]过来又怎样？像刚才一样，你把我们都打趴下？
 [character(name="avg_1012_skadiSP_1#1")]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [character(name="avg_npc_178")]
 [name="男性居民A"]海里有东西，对不对？
 [character(name="avg_1012_skadiSP_1#1")]
@@ -501,7 +501,7 @@
 [name="男性居民B"]啊啊啊——
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]墙灰！
-[name="男性居民A"]这石头......她的动作，真快。
+[name="男性居民A"]这石头……她的动作，真快。
 [character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
 [name="男性居民B"]这是我的嘴发出来的声音吗？铁皮，我叫出了声。我的心脏怦怦跳。我是不是也生病了？
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
@@ -510,7 +510,7 @@
 [name="男性居民B"]那样我会死吗？
 [character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
 [name="男性居民A"]下回试试就知道了。现在烂掉的是别的东西。我没见过这种。
-[name="男性居民A"]它怎么......还会动？！
+[name="男性居民A"]它怎么……还会动？！
 [character(name="avg_1012_skadiSP_1#1")]
 [name="斯卡蒂"]逃吧，回城去。动作要快。
 [name="斯卡蒂"]——记得把我的琴留下。

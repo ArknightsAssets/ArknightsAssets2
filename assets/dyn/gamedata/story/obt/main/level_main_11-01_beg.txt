@@ -17,12 +17,12 @@
 [CameraEffect(effect="Grayscale", fadetime=1, amount=0, block=true)]
 [delay(time=1)]
 [Dialog]
-[name="低沉的声音"] 陛下......我刚刚收到消息，那两名可怜的议员已经死在狱中。
+[name="低沉的声音"] 陛下……我刚刚收到消息，那两名可怜的议员已经死在狱中。
 [name="激昂的声音"]这是他们应得的下场。是时候让议会明白，他们该服务的对象是维多利亚，而不是拼命向他们兜里塞金币的大商人。
 [name="低沉的声音"] 我理解您的急切。然而，有人担忧，您对法院的施压吓坏了许多原本还在观望的议员，他们接下来也许会举措失当。
 [name="激昂的声音"] 他们就该感到恐惧！这会让他们更好地认清自己的位置。
 [name="激昂的声音"] 接连而来的战争消耗着我们的祖先世代积累的财富，却将某些贪婪的羽鹫喂养得脑满肠肥。
-[name="低沉的声音"] 我并非想劝您退让，可要是能慢一些......
+[name="低沉的声音"] 我并非想劝您退让，可要是能慢一些……
 [name="激昂的声音"] 慢一些！羽鹫从来不懂得适可而止。你怎么不劝它们抢食的时候慢一些？
 [name="激昂的声音"] 倘若我们不继续推行新的税收政策，到了敌人想要扑上来撕扯维多利亚的血肉的时候，就连佣兵都会离我们而去！
 [name="低沉的声音"] 只要是神志清醒，又有着廉耻之心的将士，都会站在您身边。
@@ -55,27 +55,27 @@
 [name="维多利亚军官"] 王宫地下遭到了入侵，诸王之息下落不明。
 [dialog]
 [character]
-[name="低沉的声音"] ......什么？
+[name="低沉的声音"] ……什么？
 [character(name="avg_npc_408_1#1$1")]
-[name="维多利亚军官"] 并且......亚历山德莉娜殿下也下落不明。
+[name="维多利亚军官"] 并且……亚历山德莉娜殿下也下落不明。
 [character(name="avg_npc_408_1#1$1")]
-[name="维多利亚军官"] 卫队已经封锁了相关区域，搜索也在进行中，可暂时还没有线索......
+[name="维多利亚军官"] 卫队已经封锁了相关区域，搜索也在进行中，可暂时还没有线索……
 [dialog]
 [character]
 [name="低沉的声音"] 在现在这么敏感的局势下，亚历山德莉娜殿下和国剑一起失踪？
-[name="低沉的声音"] 不，任何贵族都还不至于如此明目张胆，可......
-[name="低沉的声音"] 陛下，请您放心，我会亲自负责这件事，我马上就......
+[name="低沉的声音"] 不，任何贵族都还不至于如此明目张胆，可……
+[name="低沉的声音"] 陛下，请您放心，我会亲自负责这件事，我马上就……
 [name="激昂的声音"] 不必慌张，我的老朋友。亚历山德莉娜有她的老师相伴，我相信没有人能威胁她的安全。
-[name="低沉的声音"] 老师？您是说......
+[name="低沉的声音"] 老师？您是说……
 [name="激昂的声音"] 他对亚历山德莉娜很好，我甚至不记得他曾对我展露过同等程度的关切。
 [name="激昂的声音"] 至于我们的诸王之息，无论它在何处，都会尽到它的本分。
-[name="低沉的声音"] 您的意思是......国剑的本分？
+[name="低沉的声音"] 您的意思是……国剑的本分？
 [name="激昂的声音"] 呵，在被那些老学究反复研究之前，被具有德行的君王持握在手，才是国剑的意义。
 [name="激昂的声音"] 我们都期待着那一天的到来。
-[name="低沉的声音"] ......
+[name="低沉的声音"] ……
 [name="低沉的声音"] 我明白了。
 [name="激昂的声音"] 罗伯特，为了我们各自的女儿。
-[name="低沉的声音"] 是，陛下......也为了维多利亚。
+[name="低沉的声音"] 是，陛下……也为了维多利亚。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -99,9 +99,9 @@
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#7$1", focus=2)]
 [name="阿勒黛"] 我不要他陪我！
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#7$1", focus=1)]
-[name="侍女艾尔希"]那您急着去见他是为了......
+[name="侍女艾尔希"]那您急着去见他是为了……
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=2)]
-[name="阿勒黛"] 我......我要同他说清楚，我不想去约克郡。
+[name="阿勒黛"] 我……我要同他说清楚，我不想去约克郡。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=1)]
 [name="侍女艾尔希"]您不喜欢乡下吗？那里的庄园比这里的宅子要宽敞得多，您以前可喜欢那片草地了，还总是拉着佃户的孩子一块儿玩板球。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#8$1", focus=2)]
@@ -115,19 +115,19 @@
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=2)]
 [name="阿勒黛"] 艾尔希，爸爸在躲着我。他要赶我走，这到底是为什么呀？是因为我总要他教我练剑，还是我高卢语总学不好，所以他生气了？
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=1)]
-[name="侍女艾尔希"]阿勒黛小姐，或许我不该说下面的话......
+[name="侍女艾尔希"]阿勒黛小姐，或许我不该说下面的话……
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#2$1", focus=2)]
 [name="阿勒黛"] 这里没有礼仪老师，我才不管你该说什么又不该说什么呢。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#2$1", focus=1)]
-[name="侍女艾尔希"]......我只能说说自己看见的。
+[name="侍女艾尔希"]……我只能说说自己看见的。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#2$1", focus=1)]
 [name="侍女艾尔希"]小姐，公爵大人很爱您。不管他做了什么决定，他都是为了您与夫人好。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=2)]
 [name="阿勒黛"] 为了我好的话，他就更不应该把我送走。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#10$1", focus=2)]
-[name="阿勒黛"] 我......我会想他的。很想很想。
+[name="阿勒黛"] 我……我会想他的。很想很想。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#10$1", focus=1)]
-[name="侍女艾尔希"]哈哈......瞧您，怎么不好意思了起来？
+[name="侍女艾尔希"]哈哈……瞧您，怎么不好意思了起来？
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#8$1", focus=2)]
 [name="阿勒黛"] 因为只有小孩子才这么说话！
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=2)]
@@ -152,7 +152,7 @@
 [Character(name="avg_npc_663_1#1$1", name2="char_empty", focus=1)]
 [name="侍女艾尔希"]唉，真是拿您没办法。
 [Character(name="avg_npc_663_1#1$1", name2="char_empty", focus=1)]
-[name="侍女艾尔希"]千万小心您的裙子，阿勒黛小姐......等晚宴开始，您还得觐见陛下啊！
+[name="侍女艾尔希"]千万小心您的裙子，阿勒黛小姐……等晚宴开始，您还得觐见陛下啊！
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -168,29 +168,29 @@
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 您见到那位查尔斯·林奇了吗？
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="贵族女士"]新受封的蒸汽骑士......以他的年纪，是多么了不起的成就。今天一定有许多人是冲着他来的。
+[name="贵族女士"]新受封的蒸汽骑士……以他的年纪，是多么了不起的成就。今天一定有许多人是冲着他来的。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 可惜他没有待多久就匆匆离开了。我听说所有驻扎在伦蒂尼姆的蒸汽骑士都同时收到了调令。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="贵族女士"]......这一回是萨尔贡还是莱塔尼亚？
+[name="贵族女士"]……这一回是萨尔贡还是莱塔尼亚？
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
 [name="贵族女士"]天佑维多利亚，可别再打仗了，每结束一场战争，我就得多卖掉几幅祖父留下来的画。物价涨得太快啦。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 这一次是来自议会的直接调令。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="贵族女士"]......议会？
+[name="贵族女士"]……议会？
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="贵族女士"]哦，当然......蒸汽骑士本就隶属于议会。您的消息总是那么灵通。
+[name="贵族女士"]哦，当然……蒸汽骑士本就隶属于议会。您的消息总是那么灵通。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 掌握更多信息才能更好地投资，特别是在如今。这可不仅仅是赚来或者亏掉多少镑的问题。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 我们在决定这个国家的未来，正因如此，才得多认识些有识之士。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
-[name="贵族男士"] 林奇少校......
+[name="贵族男士"] 林奇少校……
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
 [name="贵族女士"]该称他为查尔斯爵士了。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
-[name="贵族男士"] ......查尔斯爵士是一位正直勤勉的好骑士，他忠诚于我们的国家，忠诚于维多利亚。
+[name="贵族男士"] ……查尔斯爵士是一位正直勤勉的好骑士，他忠诚于我们的国家，忠诚于维多利亚。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 他在北部边境领的高速战舰上驻守了近十年，立下战功无数，眼下还这么年轻，就已经被拔擢为蒸汽骑士，真是前途不可限量啊。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
@@ -204,7 +204,7 @@
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 不不不，我可不敢。只是有查尔斯爵士珠玉在侧，某些靠着祖上荣耀维系至今的人，就相形见绌啦——
 [Character(name="avg_npc_655_1#7$1")]
-[name="阿勒黛"]  ......
+[name="阿勒黛"]  ……
 [dialog]
 [dialog]
 [Dialog]
@@ -225,9 +225,9 @@
 [Delay(time=0.7)]
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.4)]
 [Character(name="avg_npc_655_1#7$1", name2="avg_npc_176", focus=2)]
-[name="贵族男士"] 哎呦......这是谁家的孩子？怎么在宴会厅里横冲直撞的？万一惊扰到陛下与公爵大人，可是要被抓起来的！
+[name="贵族男士"] 哎呦……这是谁家的孩子？怎么在宴会厅里横冲直撞的？万一惊扰到陛下与公爵大人，可是要被抓起来的！
 [Character(name="avg_npc_175")]
-[name="贵族女士"]这身裙装......还有发色......理查德，她是......
+[name="贵族女士"]这身裙装……还有发色……理查德，她是……
 [Character(name="avg_npc_655_1#4$1")]
 [name="阿勒黛"] 坎伯兰一家才不是只会谄媚！
 [Character(name="avg_npc_655_1#4$1")]
@@ -235,7 +235,7 @@
 [Character(name="avg_npc_663_1#1$1")]
 [name="侍女艾尔希"] 阿勒黛小姐！
 [Character(name="avg_npc_663_1#1$1")]
-[name="侍女艾尔希"] 万分抱歉，勋爵大人，玛莎女士......小姐只是身体不适，无意对客人们失礼。我本该带她去休息，这是我的过失。
+[name="侍女艾尔希"] 万分抱歉，勋爵大人，玛莎女士……小姐只是身体不适，无意对客人们失礼。我本该带她去休息，这是我的过失。
 [Character(name="avg_npc_655_1#7$1")]
 [name="阿勒黛"] 艾尔希，这怎么会是你的过失？！
 [Character(name="avg_npc_655_1#4$1")]
@@ -243,11 +243,11 @@
 [Character(name="avg_npc_655_1#7$1")]
 [name="阿勒黛"] 我也会像我的先祖一样，成为伟大的蒸汽骑士的！
 [Character(name="avg_npc_655_1#4$1")]
-[name="阿勒黛"] 等我长大了......我，我会证明给你们所有人看！
+[name="阿勒黛"] 等我长大了……我，我会证明给你们所有人看！
 [Character(name="avg_npc_663_1#1$1")]
 [name="侍女艾尔希"] 小姐！
 [Character(name="avg_npc_655_1#7$1")]
-[name="阿勒黛"] ......
+[name="阿勒黛"] ……
 [Character(name="avg_npc_655_1#7$1")]
 [name="阿勒黛"] 打扰了。
 [dialog]
@@ -265,9 +265,9 @@
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
 [name="贵族女士"]我们的这位阿勒黛小姐倒是个心直口快的好孩子。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
-[name="贵族男士"] 呵呵......本以为要到晚宴的时候才有机会见到阿勒黛小姐，我们也很幸运，是不是啊，玛莎？
+[name="贵族男士"] 呵呵……本以为要到晚宴的时候才有机会见到阿勒黛小姐，我们也很幸运，是不是啊，玛莎？
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
-[name="贵族男士"] 孩子们总是有天真无邪的资本的。可不管是谁......
+[name="贵族男士"] 孩子们总是有天真无邪的资本的。可不管是谁……
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"] 都得学着长大。
 [dialog]
@@ -290,11 +290,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [name="阿勒黛"] 他们都忘了，您才是最厉害的蒸汽骑士！
-[name="阿勒黛"] 可是，父亲教导我，真正勇敢的人不怕牺牲，更不怕被遗忘......所以我不该与他们争辩的。
-[name="阿勒黛"] 我真想快点长大......然后也成为一名最光荣的蒸汽骑士，把我们的敌人通通打败！
+[name="阿勒黛"] 可是，父亲教导我，真正勇敢的人不怕牺牲，更不怕被遗忘……所以我不该与他们争辩的。
+[name="阿勒黛"] 我真想快点长大……然后也成为一名最光荣的蒸汽骑士，把我们的敌人通通打败！
 [name="阿勒黛"] 我会让那些说坎伯兰家坏话的人一个个都羞得抬不起头来！
 [name="阿勒黛"] 大概我是做不到您那么厉害啦。不过，要是我能有二分之一，不，三分之二个您这么厉害，也就满足了。
-[name="阿勒黛"] 唔，不过父亲说过，身为坎伯兰家族的人，必须得拥有最高远的目标！那么......
+[name="阿勒黛"] 唔，不过父亲说过，身为坎伯兰家族的人，必须得拥有最高远的目标！那么……
 [name="阿勒黛"] 您会督促我的，是吗？当然，我也不会输给您！
 [dialog]
 [stopmusic(fadetime=1)]
@@ -303,7 +303,7 @@
 [playsound(key="$d_gen_walk_n",volume=0.4)]
 [delay(time=1)]
 [Character(name="avg_npc_655_1#5$1")]
-[name="阿勒黛"] （......有人来了？！）
+[name="阿勒黛"] （……有人来了？！）
 [name="阿勒黛"] （是艾尔希吗？）
 [dialog]
 [character]
@@ -320,7 +320,7 @@
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
 [name="面目模糊的军官"] 时间紧迫，机会难得，我们必须确认一些事。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
-[name="看不清脸的商人"]......你确定这里很安全？
+[name="看不清脸的商人"]……你确定这里很安全？
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
 [name="面目模糊的军官"]这个角落很偏僻。其他宾客都还在宴会厅，没人注意到我们离开。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=-1)]
@@ -351,11 +351,11 @@
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
 [name="看不清脸的商人"]那还剩下皇家卫队。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
-[name="面目模糊的军官"]阅兵场......
+[name="面目模糊的军官"]阅兵场……
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
-[name="面目模糊的军官"]......控制住全部塔楼骑士......关键是掌握城防军......
+[name="面目模糊的军官"]……控制住全部塔楼骑士……关键是掌握城防军……
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
-[name="面目模糊的军官"]......有些大公爵早已厌烦了......
+[name="面目模糊的军官"]……有些大公爵早已厌烦了……
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=-1)]
 阿勒黛的脸贴着冰凉的甲胄，可是汗水还是不断滑过她的额头。
 保持一动不动变得很困难，外加还要控制呼吸的幅度。两个影子发出来的声音渐渐飘远，又突然来到跟前。
@@ -363,7 +363,7 @@
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
 [name="看不清脸的商人"]这铁玩意儿一直在这里吗？
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
-[name="面目模糊的军官"]......初代蒸汽骑士的甲胄。
+[name="面目模糊的军官"]……初代蒸汽骑士的甲胄。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
 [name="看不清脸的商人"]初代？！两百多年了，它也能算个古董了吧？肯定能卖个好价钱。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
@@ -377,11 +377,11 @@
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
 [name="看不清脸的商人"]有高卢血统的人明明是你，没想到你比我更喜欢念叨这些大贵族的英勇事迹。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
-[name="面目模糊的军官"]......我只是对称得上英雄的人们保有最基本的敬意。
+[name="面目模糊的军官"]……我只是对称得上英雄的人们保有最基本的敬意。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
 [name="面目模糊的军官"]英雄的遗物不该被你这种眼光打量。就算哪天这座公爵府都化成了灰，坎伯兰一家也不会舍得变卖这具甲胄。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
-[name="看不清脸的商人"]哈......该死的贵族的荣誉感，对吧？在我看来毫无意义。
+[name="看不清脸的商人"]哈……该死的贵族的荣誉感，对吧？在我看来毫无意义。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
 [name="看不清脸的商人"]他大可以和其他大公爵一样作壁上观。无论城内名义上的统治者是谁，大公爵的权力都暂时不会受到损害。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
@@ -403,9 +403,9 @@
 [dialog]
 [character]
 [stopsound(channel="slide", fadetime=3)]
-[name="维多利亚军官"]王宫地下......入侵者......
-[name="维多利亚军官"]剑......失窃......
-[name="维多利亚军官"]封锁奥克特里格区的主要街道......不得进出......
+[name="维多利亚军官"]王宫地下……入侵者……
+[name="维多利亚军官"]剑……失窃……
+[name="维多利亚军官"]封锁奥克特里格区的主要街道……不得进出……
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
 [name="看不清脸的商人"]你听到下面在说什么了吗？
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
@@ -415,7 +415,7 @@
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
 [name="面目模糊的军官"]陛下的卫队全部出动了。
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
-[name="看不清脸的商人"]难道他们知道我们在这里会面......大人，我们该怎么办？
+[name="看不清脸的商人"]难道他们知道我们在这里会面……大人，我们该怎么办？
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=-1)]
 前面传来了一点轻微的响动，像是有人轻轻叹了口气。
 阿勒黛的心怦怦直跳。

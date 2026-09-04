@@ -8,7 +8,7 @@
 [playMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
 [Character(name="avg_npc_200")]
 [name="工作人员"]咦，节目的内部线路怎么接不上了？
-[name="工作人员"]这是......被占用了？
+[name="工作人员"]这是……被占用了？
 [dialog]
 [Character]
 [stopmusic(fadetime=1)]
@@ -54,7 +54,7 @@
 [Background(image="bg_20_G06",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_1013_spchen_1",name2="avg_486_espumo_1",focus=1)]
-[name="陈"]......
+[name="陈"]……
 [name="陈"]所以你的父亲才是这一切的主谋。
 [name="陈"]当你发现我们有可能察觉到什么的时候，你选择将我们的注意力转移到你的身上。
 [name="陈"]这样，即使我们真的发现了什么，你也为你背后的人争取了时间。
@@ -105,7 +105,7 @@
 [Character(name="avg_npc_198_1#1",name2="avg_npc_207",focus=2)]
 [name="护卫"]坎黛拉女士，城内和郊区出现了多股不明势力正在引发混乱。
 [Character(name="avg_npc_198_1#2",name2="avg_npc_207",focus=1)]
-[name="坎黛拉"]......啧啧，来这招啊，我的老潘乔。
+[name="坎黛拉"]……啧啧，来这招啊，我的老潘乔。
 [Character(name="avg_npc_198_1#2",name2="avg_npc_207",focus=2)]
 [name="护卫"]坎黛拉女士，请前往安全的地方避难。
 [Character(name="avg_npc_198_1#4",name2="avg_npc_207",focus=1)]
@@ -149,7 +149,7 @@
 [Character(name="avg_npc_203_1",name2="avg_npc_197_1#2",focus=1)]
 [name="星熊"]好吧，我只能说，我不反对。
 [Character(name="avg_npc_203_1#5",name2="avg_npc_197_1#2",focus=1)]
-[name="星熊"]罗德岛......啧，铸铁刚好去买饮料了，我去看看。
+[name="星熊"]罗德岛……啧，铸铁刚好去买饮料了，我去看看。
 [Character(name="avg_npc_203_1#5",name2="avg_npc_197_1#5",focus=2)]
 [name="诗怀雅"]而且她们两个现在还在船上呢，我怎么可能放心走啊！
 [Character(name="avg_npc_203_1",name2="avg_npc_197_1#5",focus=1)]
@@ -165,15 +165,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_194")]
-[name="游客A？"]......
+[name="游客A？"]……
 [Character(name="avg_npc_195")]
-[name="游客B？"]......
+[name="游客B？"]……
 [Character(name="avg_npc_206_1#4")]
 [name="铸铁"]啧，居然趁我双手拿饮料的时候偷袭。
 [Character(name="avg_npc_206_1#6")]
 [name="铸铁"]（没想到居然会发生这样的事。）
 [name="铸铁"]（对方看起来是有组织的，沙滩上已经陷入了混乱。）
-[name="铸铁"]（现在武器也不在手边，难以施展，先去和星熊她们汇合......）
+[name="铸铁"]（现在武器也不在手边，难以施展，先去和星熊她们汇合……）
 [Character(name="avg_npc_194",name2="avg_npc_195",focus=1)]
 [name="游客A？"]一起上。
 [Character(name="avg_npc_194",name2="avg_npc_195",focus=2)]
@@ -257,9 +257,9 @@
 [Character(name="avg_npc_203_1#4",name2="avg_npc_206_1#4",focus=2)]
 [name="铸铁"]怎么？
 [Character(name="avg_npc_203_1#4",name2="avg_npc_206_1#4",focus=1)]
-[name="星熊"]那边有一伙人，他们没有在后退......
+[name="星熊"]那边有一伙人，他们没有在后退……
 [Character(name="avg_npc_203_1#4",name2="avg_npc_206_1#6",focus=2)]
-[name="铸铁"]他们的方向是......市长那边？！
+[name="铸铁"]他们的方向是……市长那边？！
 [Character(name="avg_npc_203_1#6",name2="avg_npc_206_1#6",focus=1)]
 [name="星熊"]走，铸铁，拦住他们！
 [Dialog]

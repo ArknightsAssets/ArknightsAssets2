@@ -15,7 +15,7 @@
 [name="凯尔希"]我没有看出和之前有任何区别。
 [name="特蕾西娅"]正是如此。
 [name="特蕾西娅"]它自枯萎中诞生，转眼便如此茁壮——
-[name="特蕾西娅"]唉，要是你也能亲眼看到这个诞生在源石上的奇迹有多好......
+[name="特蕾西娅"]唉，要是你也能亲眼看到这个诞生在源石上的奇迹有多好……
 [Dialog]
 [Delay(time=1)]
 这片自源石上诞生的花圃，凝聚了特蕾西娅太多的心血。
@@ -25,12 +25,12 @@
 [name="凯尔希"]巴别塔还有很多事等着你这位议长处理，但连今天的全体会议你都缺席了。
 [name="特蕾西娅"]现在不光有凯尔希医生在，还有博士能帮忙，我偶尔稍稍偷懒算不上什么大事，不是吗？
 [name="凯尔希"]我了解你，特蕾西娅。在大事上，你从不开玩笑。
-[name="特蕾西娅"]凯尔希......
+[name="特蕾西娅"]凯尔希……
 [name="凯尔希"]嗯？
 [name="特蕾西娅"]博士有向你谈起过自己的看法吗？
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]没有。我不知道你听到了些什么，但想必博士并没有完全支持你的想法。
-[name="特蕾西娅"]......我不会放弃，凯尔希。
+[name="特蕾西娅"]……我不会放弃，凯尔希。
 [name="特蕾西娅"]如果这就是解决如今萨卡兹困境的办法，我会去找特雷西斯。
 [name="特蕾西娅"]我会将这条路展示给所有的萨卡兹看，我们并非只有于仇恨中无尽轮回这唯一的宿命。
 [name="凯尔希"]特蕾西娅——
@@ -39,9 +39,9 @@
 [name="特蕾西娅"]如果我在这条道路上走向不可控的未来，请拉住我。
 [name="特蕾西娅"]我知道你能做到，尽管你总是对许多事缄默不言。
 [name="凯尔希"]如果真想实现你所期待的那个未来，我们仍需要争取博士的支持。
-[name="凯尔希"]在利用源石这件事上，博士......不可替代。
-[name="凯尔希"]但不论最后结果如何......
-[name="凯尔希"]......我保证，那时我会在你身边。
+[name="凯尔希"]在利用源石这件事上，博士……不可替代。
+[name="凯尔希"]但不论最后结果如何……
+[name="凯尔希"]……我保证，那时我会在你身边。
 [Dialog]
 [stopmusic(fadetime=3)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -71,9 +71,9 @@
 [Dialog]
 [charslot]
 大风在你的耳边呼啸，你能透过破碎的舷窗看到下方的碎片大厦和满目疮痍的战场。
-接连不断的剧烈爆炸随时都会将你甩出去，而现在拉住你的人......是W。
+接连不断的剧烈爆炸随时都会将你甩出去，而现在拉住你的人……是W。
 [Dialog]
-[Decision(options="......;......", values="1;2")]
+[Decision(options="……;……", values="1;2")]
 [Predicate(references="1;2")]
 你很少见到如此严肃的W。
 [Dialog]
@@ -83,14 +83,14 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
 [name="W"]我在考虑一件很重要的事，Mon3tr，现在别惹我。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
-[name="W"]......
-[name="W"]......
+[name="W"]……
+[name="W"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#15$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [name="W"]虽然老女人不靠谱，但她从不会拿你冒险。
 [name="W"]既然这么危险的登舰任务她都坚持带上你——
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
-[name="W"]......想要见到殿下，想要停下这艘破船，一定用得上你。
+[name="W"]……想要见到殿下，想要停下这艘破船，一定用得上你。
 [name="W"]*萨卡兹粗口*。只能暂时放过你了。
 [name="W"]上来吧。
 [Dialog]
@@ -100,7 +100,7 @@
 [stopSound(channel="bgs", fadetime=2.5)]
 [delay(time=2.5)]
 [Dialog]
-[Decision(options="......谢谢。;刚才——", values="1;2")]
+[Decision(options="……谢谢。;刚才——", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
 [name="W"]刚才什么也没有发生。
@@ -108,7 +108,7 @@
 [name="W"]接下来怎么走？
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="n")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Decision(options="我还能听到我背后炸弹的响声。", values="1")]
 [Predicate(references="1")]
@@ -124,7 +124,7 @@
 [name="W"]给你都是浪费，小怪物。
 [name="W"]赶紧想想该怎么走，空心罐头。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
-[name="W"]剩下的时间不多，这破船眼看就要撞上外面那个怪东西......
+[name="W"]剩下的时间不多，这破船眼看就要撞上外面那个怪东西……
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
 [name="W"]要死也得见到殿下之后再死。
 [Dialog]
@@ -135,10 +135,10 @@
 [name="W"]哦？我都留你一命了，难道不是比平常更情绪稳定吗？
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#13$1",focus="n")]
-[Decision(options="......是因为要见到特蕾西娅了吗？;......是因为担心赫德雷和伊内丝吗？;......是因为第一次和我单独相处吗？", values="1;2;3")]
+[Decision(options="……是因为要见到特蕾西娅了吗？;……是因为担心赫德雷和伊内丝吗？;……是因为第一次和我单独相处吗？", values="1;2;3")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1035_wisdel_1#6$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
 [name="W"]我现在既要给老女人当保姆带孩子，还要考虑怎么弄掉那个核心。
 [name="W"]我没工夫陪你玩问答游戏。
@@ -149,7 +149,7 @@
 [name="W"]她会处理好的。
 [Predicate(references="3")]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
-[name="W"]......不要试图挑衅我。
+[name="W"]……不要试图挑衅我。
 [name="W"]如果不是现在，我可以保证你根本没机会问这个问题。
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
@@ -187,9 +187,9 @@
 [name="W"]对了，你刚想说什么来着？
 [name="W"]等等，你不会是特意来告诉我殿下现在在哪吧？
 [charslot(slot="m",name="avg_npc_1340_1#1$1",focus="m")]
-[multiline(name="船舱中的影子")]......
-[multiline(name="船舱中的影子")]......
-[multiline(name="船舱中的影子")]......
+[multiline(name="船舱中的影子")]……
+[multiline(name="船舱中的影子")]……
+[multiline(name="船舱中的影子")]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_planeshake", volume=0.7)]
@@ -203,24 +203,24 @@
 [name="Mon3tr"]（紧张地把你的衣服钩住）
 [Dialog]
 [charslot]
-[Decision(options="飞空艇......在发怒？;死魂灵......在发怒？", values="1;2")]
+[Decision(options="飞空艇……在发怒？;死魂灵……在发怒？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#6$1",focus="m")]
-[name="W"]唔，看来它也不怎么有理性嘛......
+[name="W"]唔，看来它也不怎么有理性嘛……
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
 [name="W"]你能不能趁现在找到这艘破船上能量波动最明显的地方？
 [name="W"]那里应该就是它的核心。
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="n")]
-[Decision(options="......;......我不会这招。", values="1;2")]
+[Decision(options="……;……我不会这招。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="npc_10002",focus="m")]
 [name="Mon3tr"]（嘲笑地看着W）
 [Dialog]
 [charslot]
-[Decision(options="......等等，我还有一个办法。", values="1")]
+[Decision(options="……等等，我还有一个办法。", values="1")]
 [Predicate(references="1")]
 [Decision(options="也许我能算出源石浓度变化最明显的方位！", values="1")]
 [Predicate(references="1")]
@@ -229,9 +229,9 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_1035_wisdel_1#4$1",focus="m")]
 [name="W"]那就赶紧！这怪家伙的耐心显然比我想的还要差！
-[multiline(name="W")]它看上去可没那么懂礼貌，等着你算完......
+[multiline(name="W")]它看上去可没那么懂礼貌，等着你算完……
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
-[multiline(name="W")]嘶......
+[multiline(name="W")]嘶……
 [charslot(slot="m",name="avg_1035_wisdel_1#13$1",focus="m")]
 [name="W"]喂，黑影怪，客人给你家送点礼，应该不过分吧？
 [charslot(slot="m",name="avg_1035_wisdel_1#7$1",focus="m")]
@@ -280,10 +280,10 @@
 [Dialog]
 [Decision(options="我有点看不清——;我的头有点晕——", values="1;2")]
 [Predicate(references="1;2")]
-[name="W"]快......到......
+[name="W"]快……到……
 [Dialog]
 [PlaySound(key="$d_avg_tinnitus",volume=1)]
-[Decision(options="我的耳朵好像有点......听不清......", values="1")]
+[Decision(options="我的耳朵好像有点……听不清……", values="1")]
 [Predicate(references="1")]
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -307,7 +307,7 @@
 [name="W"]让你白白受苦真是抱歉。
 [Dialog]
 [charslot]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="npc_10002",focus="m")]
 [playsound(key="$char_Mon3tr",volume=0.6)]
@@ -317,28 +317,28 @@
 [name="W"]小心点你的爪子，他的小身板可比不上你。
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#1$1",focus="n")]
-[Decision(options="Mon3tr，我没事，可以放我下来了......", values="1")]
+[Decision(options="Mon3tr，我没事，可以放我下来了……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1035_wisdel_1#11$1",focus="m")]
 [name="W"]你“脸色”看起来真差。呵，不用在我面前装出这副样子。
 [name="W"]这点小事，我可不信你扛不住。
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#11$1",focus="n")]
-[Decision(options="我在担心凯尔希......;如果阿米娅也遭遇了这些......", values="1;2")]
+[Decision(options="我在担心凯尔希……;如果阿米娅也遭遇了这些……", values="1;2")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1035_wisdel_1#11$1",focus="m")]
 [name="W"]我可不记得老女人有这么脆弱，她——
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
-[name="W"]（虽然已经不怎么大喘气了，但好像她的伤的确没有痊愈......这小怪物还被送过来了......）
+[name="W"]（虽然已经不怎么大喘气了，但好像她的伤的确没有痊愈……这小怪物还被送过来了……）
 [charslot(slot="m",name="npc_10002",focus="m")]
 [PlaySound(key="$Mon3tr_n")]
 [name="Mon3tr"]（低落的鸣叫）
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
 [name="W"]别喊了，让人心烦。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
-[name="W"]你还能活蹦乱跳，老女人就不会有事......
+[name="W"]你还能活蹦乱跳，老女人就不会有事……
 [Predicate(references="2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#11$1",focus="m")]
 [name="W"]听伊内丝说，小兔子在诺伯特区已经对抗过一次这鬼东西。
@@ -360,7 +360,7 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#8$1",focus="n")]
 W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 [charslot(slot="m",name="avg_1035_wisdel_1#8$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
 [name="W"]走吧，没时间旅游了。
 [Dialog]
@@ -368,16 +368,16 @@ W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 你来到了窗边，看到了下方的战场。
 诸王之息发出的金色光芒仍在天空闪烁，维多利亚的反攻此刻应该正在进行吧？
 [Dialog]
-[Decision(options="维多利亚的反攻已经开始了。;希望罗德岛的各位能够帮上忙......", values="1;2")]
+[Decision(options="维多利亚的反攻已经开始了。;希望罗德岛的各位能够帮上忙……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
 [name="W"]那下面现在就是地狱，不用看了。
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="n")]
-[Decision(options="你刚刚......在为战场悲伤？", values="1")]
+[Decision(options="你刚刚……在为战场悲伤？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
-[name="W"]......死的萨卡兹够多了。
+[name="W"]……死的萨卡兹够多了。
 [name="W"]跟上。
 [name="W"]我有很多事，想要问问殿下。
 [stopmusic(fadetime=1)]
@@ -385,7 +385,7 @@ W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 [name="Mon3tr"]（警惕地张望）
 [Dialog]
 [charslot]
-[Decision(options="......Mon3tr？", values="1")]
+[Decision(options="……Mon3tr？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="npc_10002",focus="m")]
 [PlaySound(key="$p_skill_Mon3trburst", volume=0.4)]
@@ -447,7 +447,7 @@ W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 [delay(time=1)]
 从背后传来的冲击是如此强烈，以至于让你狠狠地跌出黑暗，撞向地面。
 [Dialog]
-[Decision(options="......好痛！;......我背后的炸弹？！", values="1;2")]
+[Decision(options="……好痛！;……我背后的炸弹？！", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#1$1",focus="m")]
 [name="W"]怎么样，能定位的新型推进装置，还不错吧？我都说过了，爆炸只是附加功能。
@@ -469,7 +469,7 @@ W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 [charslot(slot="m",name="avg_npc_1307_1#1$1",bstart=0.2,bend=0.7,duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1307_1#1$1",bstart=0.2,bend=0.7,focus="m")]
-[name="？？？"]......
+[name="？？？"]……
 [name="？？？"]你还是没有什么变化，W。
 [charslot(slot="m",name="avg_1035_wisdel_1#5$1",focus="m")]
 [name="W"]——？
@@ -486,7 +486,7 @@ W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 [name="飞空艇的“幽灵”"]还有你，“博士”。
 [Dialog]
 [charslot]
-[Decision(options="你......是活着的人。", values="1")]
+[Decision(options="你……是活着的人。", values="1")]
 [Predicate(references="1")]
 [Decision(options="我应该见过你吗？", values="1")]
 [Predicate(references="1")]
@@ -495,7 +495,7 @@ W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 [charslot(slot="m",name="avg_1035_wisdel_1#6$1",focus="m")]
 [delay(time=1)]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -507,8 +507,8 @@ W走在长廊上，不经意透过玻璃望向窗外，愣神了片刻。
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
-她想起了那扇破碎的大门，那个染血的标记......
-还有那些躲藏在面罩之下的......凶手。
+她想起了那扇破碎的大门，那个染血的标记……
+还有那些躲藏在面罩之下的……凶手。
 他们夺走了特蕾西娅的生命。
 那个特蕾西娅。
 [Dialog]

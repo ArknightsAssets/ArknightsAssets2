@@ -8,11 +8,11 @@
 [playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
 [Character(name="avg_npc_170_1#2",fadetime=1,block=true)]
 [Delay(time=1)]
-[name="文森特伯爵"]  啊，凯尔希修士，您总算来了。呃，您这身打扮......
+[name="文森特伯爵"]  啊，凯尔希修士，您总算来了。呃，您这身打扮……
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_170_1#2", focus=1)]
 [name="凯尔希"]  您的邀请令我深感荣幸，但事出突然，修道院没法为我准备一身合适的礼服。只从仓库里翻出了这样一身，希望您不要介意。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_170_1#3", focus=2)]
-[name="文森特伯爵"]  唔，我自然不会介意，不如说您的这身打扮十分的......十分的英姿飒爽。
+[name="文森特伯爵"]  唔，我自然不会介意，不如说您的这身打扮十分的……十分的英姿飒爽。
 [Character(name="avg_npc_170_1", name2="avg_npc_169_1", focus=1)]
 [name="文森特伯爵"]  海蒂也别站着了，快，这位是凯尔希修士，打声招呼，然后快进屋吧。
 [Character(name="avg_npc_169_1#2", name2="char_003_kaltsn08_1", focus=1)]
@@ -104,7 +104,7 @@
 [Delay(time=1)]
 [name="凯尔希"]  晚上好，各位尊贵的客人，请允许我向各位报以最诚挚的问候。
 [Character(name="avg_npc_175")]
-[name="欢快的女贵族"]  什么！您这副面容......居然是位淑女吗，真是太可惜了......
+[name="欢快的女贵族"]  什么！您这副面容……居然是位淑女吗，真是太可惜了……
 [Character(name="avg_npc_176")]
 [name="微醺的商人"]  我看这没什么可惜的吧。凯尔希修士，晚上好。
 [Character(name="avg_npc_177")]
@@ -112,7 +112,7 @@
 [Character(name="char_003_kaltsn08_1")]
 [name="凯尔希"]  对于伯爵夫人而言，那可不是一件轻松的事情。
 [Character(name="avg_npc_175", name2="char_003_kaltsn08_1", focus=1)]
-[name="欢快的女贵族"]  快和我们说说您来自何处吧，萨科塔以外的拉特兰修士可不常见，哎呀，何况您这么......有魅力。
+[name="欢快的女贵族"]  快和我们说说您来自何处吧，萨科塔以外的拉特兰修士可不常见，哎呀，何况您这么……有魅力。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_176", focus=2)]
 [name="微醺的商人"]  美丽的小姐，您来自哪里？又要去何方？
 [Character(name="avg_npc_175", name2="avg_npc_176", focus=1)]
@@ -128,7 +128,7 @@
 [Character(name="avg_npc_177")]
 [name="附庸风雅的男人"]  那再好不过了。佣人！请把我带来的那瓶红酒拿来，我想和伯爵还有这位修士好好聊上一聊！
 [Character(name="avg_npc_175", name2="avg_npc_177", focus=1)]
-[name="欢快的女贵族"]  你这自大狂可别想霸占我们的晚宴，我们就不能一起聊点有趣的事情吗？比如伦蒂尼姆的那场时装秀......
+[name="欢快的女贵族"]  你这自大狂可别想霸占我们的晚宴，我们就不能一起聊点有趣的事情吗？比如伦蒂尼姆的那场时装秀……
 [Character(name="avg_npc_177", name2="avg_npc_176", focus=2)]
 [name="微醺的商人"]  我都可以，各位大人，只要让我在这歇会脚就好啦。就当让我长长见识。
 [Character(name="avg_npc_175", name2="avg_npc_176", focus=1)]
@@ -145,15 +145,15 @@
 [Character(name="avg_npc_176")]
 [name="微醺的商人"]  海蒂！你怎么来了！
 [Character(name="avg_npc_177")]
-[name="附庸风雅的男人"]  小海蒂，你今天穿得可漂亮......这个混账汤姆森呀，只有在孩子这方面，我怕是这辈子都比不上他咯。
+[name="附庸风雅的男人"]  小海蒂，你今天穿得可漂亮……这个混账汤姆森呀，只有在孩子这方面，我怕是这辈子都比不上他咯。
 [Character(name="avg_npc_170_1#2")]
 [name="文森特伯爵"]  喂，海蒂可还没到喝酒的年龄，你们可别顺手就把酒杯给她了，佣人，为她倒一杯奶油苏打吧。
 [Character(name="avg_npc_170_1#2", name2="avg_npc_169_1#5", focus=2)]
 [name="海蒂"]  别老把我当小孩子，文森特叔叔。
 [Character(name="avg_npc_170_1#4", name2="avg_npc_169_1#5", focus=1)]
-[name="文森特伯爵"]  但你确实不能喝酒。你父亲还特地叮嘱过我，毕竟你正在这个年龄呢......
+[name="文森特伯爵"]  但你确实不能喝酒。你父亲还特地叮嘱过我，毕竟你正在这个年龄呢……
 [Character(name="avg_npc_170_1#4", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  呜呶......
+[name="海蒂"]  呜呶……
 [Character(name="avg_npc_170_1#2", name2="avg_npc_169_1", focus=1)]
 [name="文森特伯爵"]  好吧，好吧，那劳烦把奶油苏打换成姜汁啤酒吧。
 [Character(name="avg_npc_170_1#2", name2="avg_npc_169_1#5", focus=2)]
@@ -165,16 +165,16 @@
 [Character(name="avg_npc_175", name2="avg_npc_176", focus=1)]
 [name="欢快的女贵族"]  可没有父亲辈的想看着女儿这么快长大呀，我当年不也是吗，只是想买些珠宝，就被父亲大声训斥。
 [Character(name="avg_npc_169_1#4")]
-[name="海蒂"]  就算不让我喝酒，至少，让我参加宴会吧？我看......我就坐这儿吧！
+[name="海蒂"]  就算不让我喝酒，至少，让我参加宴会吧？我看……我就坐这儿吧！
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=2)]
 [name="凯尔希"]  这是我的荣幸，海蒂小姐，我帮您拿帽子。
 [Character(name="avg_npc_169_1#2", name2="char_003_kaltsn08_1", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="海蒂"]  啊......不、不用，我戴着就好......
+[name="海蒂"]  啊……不、不用，我戴着就好……
 [Character(name="avg_npc_170_1", name2="avg_npc_169_1#2", focus=1)]
 [name="文森特伯爵"]  好了，海蒂，别忘了你今天本来就是偷偷溜过来的，一会你要老老实实上楼睡觉。
 [Character(name="avg_npc_170_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  呜......
+[name="海蒂"]  呜……
 [character]
 [Character(name="avg_npc_169_1", name2="avg_npc_177", focus=2)]
 [name="附庸风雅的男人"]  您打扮得很像您的母亲，孩子。
@@ -182,22 +182,22 @@
 [name="欢快的女贵族"]  但现在——
 [Character(name="avg_npc_169_1#5")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="海蒂"]  呜......！！
+[name="海蒂"]  呜……！！
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=1)]
-[name="海蒂"]  ......凯尔希修士，您也觉得我还是个孩子吗？
+[name="海蒂"]  ……凯尔希修士，您也觉得我还是个孩子吗？
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=2)]
 [name="凯尔希"]  对您而言，这又有什么关系呢。
 [name="凯尔希"]  我来为您倒酒吧，您的姜汁啤酒。
 [Character(name="avg_npc_169_1#2", name2="char_003_kaltsn08_1", focus=1)]
 [name="海蒂"]  ————
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=1)]
-[name="海蒂"]  谢、谢谢......
+[name="海蒂"]  谢、谢谢……
 [Character(name="avg_npc_170_1#3", name2="avg_npc_169_1", focus=1)]
 [name="文森特伯爵"]  还满意吗？
 [Character(name="avg_npc_170_1#3", name2="avg_npc_169_1#3", focus=2)]
 [delay(time=0.4)]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=true)]
-[name="海蒂"]  ......其实也挺好喝的。
+[name="海蒂"]  ……其实也挺好喝的。
 [Character(name="avg_npc_175")]
 [name="欢快的女贵族"]  哎呀，姜汁啤酒不是没有酒精的吗？怎么脸都红啦？
 [Character(name="avg_npc_175", name2="avg_npc_170_1", focus=2)]
@@ -212,7 +212,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.4)]
 [Character(name="avg_npc_169_1#4")]
-[name="海蒂"]  ......
+[name="海蒂"]  ……
 [characteraction(name="middle", type="move", xpos=20, ypos=0,fadetime=1, block=true)]
 [delay(time=1.1)]
 [characteraction(name="middle", type="move", xpos=40, ypos=0,fadetime=1, block=true)]
@@ -221,21 +221,21 @@
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_177", focus=2)]
 [name="附庸风雅的男人"]  您说的太对了！莱塔尼亚的艺术造诣令人心向神往，但那些莱塔尼亚人太过恃才自傲，他们有什么瞧不起我们的资本！
 [Character(name="avg_npc_175", name2="avg_npc_177", focus=1)]
-[name="欢快的女贵族"]  莱塔尼亚，哦，莱塔尼亚的变故可太多啦......我从小听着巫王的故事长大，谁知道等我打算去那儿旅行，孪生女皇居然解决了那位巫王！
+[name="欢快的女贵族"]  莱塔尼亚，哦，莱塔尼亚的变故可太多啦……我从小听着巫王的故事长大，谁知道等我打算去那儿旅行，孪生女皇居然解决了那位巫王！
 [Character(name="avg_npc_177", name2="avg_npc_176", focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="微醺的商人"]  哪有明知巫王恐怖还要去旅行的......
+[name="微醺的商人"]  哪有明知巫王恐怖还要去旅行的……
 [Character(name="char_003_kaltsn08_1")]
 [name="凯尔希"]  与那些年少登基的帝王不同，巫王年近半百才成为皇帝，却持续对莱塔尼亚进行了漫长的统治。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_177", focus=2)]
 [name="附庸风雅的男人"]  毫无疑问，巫王是这片大地上最强大的术师，他将自己变成了一个怪物！
 [Character(name="avg_npc_175", name2="avg_npc_177", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="欢快的女贵族"]  就像那些可怕的故事里描写的一样，他的角都扭曲成诡异的形状，散发着奇异的能量......
+[name="欢快的女贵族"]  就像那些可怕的故事里描写的一样，他的角都扭曲成诡异的形状，散发着奇异的能量……
 [Character(name="avg_npc_177", name2="avg_npc_176", focus=2)]
 [name="微醺的商人"]  喔，我可从没在报纸上见过巫王的模样，嗝，抱歉，这酒真不错。不过我倒是在报纸上见过孪生女皇的照片。一个金灿灿的，一个黑漆漆的。
 [Character(name="avg_npc_169_1#5")]
-[name="海蒂"]  ............
+[name="海蒂"]  …………
 [characteraction(name="middle", type="move", xpos=-20, ypos=0,fadetime=1, block=true)]
 [delay(time=1.1)]
 [characteraction(name="middle", type="move", xpos=-40, ypos=0,fadetime=1, block=true)]
@@ -258,7 +258,7 @@
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_170_1#3", focus=2)]
 [name="文森特伯爵"]  哈哈，凯尔希，我就说过，我这都是一帮很好的朋友，您看，您多受欢迎。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_176", focus=2)]
-[name="微醺的商人"]  其实我有个年龄和您差不多的女儿，整天只知道挥霍我辛苦赚来的金币......要是能学学您多好哟。
+[name="微醺的商人"]  其实我有个年龄和您差不多的女儿，整天只知道挥霍我辛苦赚来的金币……要是能学学您多好哟。
 [Character(name="avg_npc_175", name2="char_003_kaltsn08_1", focus=1)]
 [name="欢快的女贵族"]  今晚能认识您，真让人开心，请问您还是单身吗，小凯尔希？
 [Character(name="avg_npc_169_1#5")]
@@ -271,14 +271,14 @@
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_170_1", focus=2)]
 [name="文森特伯爵"]  唔。
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=1)]
-[name="海蒂"]  ......凯尔希修士......您、请问您去过乌萨斯吗？
+[name="海蒂"]  ……凯尔希修士……您、请问您去过乌萨斯吗？
 [Character(name="avg_npc_177")]
 [name="附庸风雅的男人"]  哦，那个满是叛乱与暴力的国度。
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=2)]
 [name="凯尔希"]  我在游学期间，曾在圣骏堡待过一段时日，您对乌萨斯感到好奇吗？
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=1)]
 [name="海蒂"]  是的！
-[name="海蒂"]  爸爸曾经给我看过几本书，是一位乌萨斯作者写的......
+[name="海蒂"]  爸爸曾经给我看过几本书，是一位乌萨斯作者写的……
 [Character(name="avg_npc_177")]
 [name="附庸风雅的男人"]  乌萨斯只有两种艺术，哗众取宠的玩闹，或是真正的永恒的伟大。
 [Character(name="avg_npc_175", name2="avg_npc_177", focus=1)]
@@ -290,18 +290,18 @@
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=2)]
 [name="凯尔希"]  您的父亲受伤了？
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=1)]
-[name="海蒂"]  ......是的，他的膝盖碎了，却迟迟拖延着手术，落下了病根。
+[name="海蒂"]  ……是的，他的膝盖碎了，却迟迟拖延着手术，落下了病根。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_170_1#4", focus=2)]
 [name="文森特伯爵"]  我提醒过他，唉，也不知道去年发生了什么。他一身是伤地跑回来，只说遭到劫匪，跌下了山崖，别的怎么都不肯多说。
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=2)]
-[name="凯尔希"]  ......您想去乌萨斯吗？海蒂小姐？
+[name="凯尔希"]  ……您想去乌萨斯吗？海蒂小姐？
 [Character(name="avg_npc_170_1#4", name2="avg_npc_169_1#4", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="文森特伯爵"]  这可不行！乌萨斯前任皇帝的死亡与叛乱对那个国家影响深远，就算你要去那儿学习，也得过几年再说！
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=1)]
-[name="海蒂"]  我只是提一提......您对那个国家是什么印象呢？
+[name="海蒂"]  我只是提一提……您对那个国家是什么印象呢？
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=2)]
-[name="凯尔希"]  ......讲个故事吧。
+[name="凯尔希"]  ……讲个故事吧。
 [name="凯尔希"]  传闻乌萨斯第六集团军，因为一瓶伏特加而灰飞烟灭。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_177", focus=2)]
 [name="附庸风雅的男人"]  这传闻听起来可不太靠谱。
@@ -318,25 +318,25 @@
 [Character(name="avg_npc_175", name2="avg_npc_170_1", focus=1)]
 [name="欢快的女贵族"]  他们就这么打起来了吗？
 [Character(name="char_003_kaltsn08_1")]
-[name="凯尔希"]  ......如果这么简单，那就不会被称作大叛乱了。
+[name="凯尔希"]  ……如果这么简单，那就不会被称作大叛乱了。
 [name="凯尔希"]  始终驻守边疆，权力范围和影响力不在乌萨斯腹地的第四集团军突然倒戈向帝国议会，并主动撇清了与第六集团军“叛徒”们的关联。
 [name="凯尔希"]  在处决掉几个准备好的替罪羊后，旧贵族的手上仅仅剩下第六集团军与第八集团军两张底牌。
 [name="凯尔希"]  次年冬天，第四集团军及背后的贵族故技重施，同样向皇帝投诚。
 [name="凯尔希"]  那么，孤注一掷的第六集团军最后遭遇了什么，可想而知。
 [name="凯尔希"]  而这一切的起因——很简单，我们都知道了。就只是一个军痞喝醉了酒，用手里的伏特加酒瓶伤害到了一位年轻的贵族。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_170_1", focus=2)]
-[name="文森特伯爵"]  ......精彩的故事，凯尔希修士，而我敢保证，这段故事与真相相去无几。
+[name="文森特伯爵"]  ……精彩的故事，凯尔希修士，而我敢保证，这段故事与真相相去无几。
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=2)]
 [name="凯尔希"]  海蒂，我不会告诉您“这就是乌萨斯”。大地上的任何文明，都值得您亲眼确认，它们该被欣赏，也必须被思考。
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=1)]
-[name="海蒂"]  ......
+[name="海蒂"]  ……
 [Character(name="avg_npc_169_1#4", name2="char_003_kaltsn08_1", focus=2)]
 [name="凯尔希"]  从您欣赏的那个乌萨斯里，您看到了什么？
 [name="凯尔希"]  也许是农田瓦舍，也许是英雄豪杰，也许是圣骏堡歌剧院里的悲欢离合。但我看到的，是大叛乱的余波，是一个摇摇欲坠的时代。
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=1)]
-[name="海蒂"]  ......维多利亚也会有这样的时代吗？
+[name="海蒂"]  ……维多利亚也会有这样的时代吗？
 [Character(name="avg_npc_169_1", name2="char_003_kaltsn08_1", focus=2)]
-[name="凯尔希"]  ......我不做保证，海蒂小姐。
+[name="凯尔希"]  ……我不做保证，海蒂小姐。
 [Character(name="avg_npc_170_1#2", name2="avg_npc_169_1", focus=1)]
 [name="文森特伯爵"]  怎么会呢！瞧你这孩子，凯尔希修士说了点乌萨斯的故事，你就害怕啦？
 [Character(name="avg_npc_170_1", name2="avg_npc_169_1", focus=1)]
@@ -351,11 +351,11 @@
 [Character(name="avg_npc_170_1", name2="avg_npc_177", focus=2)]
 [name="附庸风雅的男人"]  您见到哪位大贵族了吗？
 [Character(name="avg_npc_170_1")]
-[name="文森特伯爵"]  说来荣幸，其实在路途中，诺曼底公爵曾亲自邀请我前往他的旗舰共赴晚宴......
+[name="文森特伯爵"]  说来荣幸，其实在路途中，诺曼底公爵曾亲自邀请我前往他的旗舰共赴晚宴……
 [Character(name="avg_npc_170_1", name2="avg_npc_177", focus=2)]
-[name="附庸风雅的男人"]  什么！你竟然能忍到今天才告诉我们这件事......！
+[name="附庸风雅的男人"]  什么！你竟然能忍到今天才告诉我们这件事……！
 [Character(name="avg_npc_175", name2="avg_npc_170_1", focus=1)]
-[name="欢快的女贵族"]  哎呀，那可是诺曼底公爵......他向来讨厌莱塔尼亚人，他和女皇之声的使节发生冲突了吗？
+[name="欢快的女贵族"]  哎呀，那可是诺曼底公爵……他向来讨厌莱塔尼亚人，他和女皇之声的使节发生冲突了吗？
 [Character(name="avg_npc_170_1")]
 [name="文森特伯爵"]  没有，但据公爵阁下的仆人所说，那晚公爵从未正眼瞧过一次那些貌美优雅的使节。
 [Character(name="avg_npc_170_1", name2="avg_npc_177", focus=2)]
@@ -363,14 +363,14 @@
 [name="附庸风雅的男人"]  乌萨斯装模作样的大公没有几十也有几百——好吧，也许没那么多，但他们确实有些泛滥，容我直说，还有些无能。
 [Character(name="avg_npc_170_1", name2="avg_npc_177", focus=1)]
 [name="文森特伯爵"]  这是一种傲慢，但我得说，每一个见识过伦蒂尼姆风貌的人，都会这么说。
-[name="文森特伯爵"]  我相信诺曼底公爵只靠一己之力，就能让莱塔尼亚那些利欲熏心的激进分子安分个几十年。更别提我们可不止一位大公爵......
+[name="文森特伯爵"]  我相信诺曼底公爵只靠一己之力，就能让莱塔尼亚那些利欲熏心的激进分子安分个几十年。更别提我们可不止一位大公爵……
 [Character(name="avg_npc_169_1#4")]
-[name="海蒂"]  ......
+[name="海蒂"]  ……
 [delay(time=1)]
 [Character(name="avg_npc_170_1", name2="avg_npc_169_1#4", focus=1)]
 [name="文森特伯爵"]  海蒂，你累了吗？
 [Character(name="avg_npc_170_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  嗯？没有......我还在想凯尔希修士说的话，我能和凯尔希修士单独聊聊吗？
+[name="海蒂"]  嗯？没有……我还在想凯尔希修士说的话，我能和凯尔希修士单独聊聊吗？
 [Character(name="avg_npc_177")]
 [name="附庸风雅的男人"]  哦，伦蒂尼姆的话题要是没了凯尔希，可就无趣许多了。
 [Character(name="char_003_kaltsn08_1")]
@@ -389,29 +389,29 @@
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=1)]
 [name="凯尔希"]  让您感到无趣了吗？海蒂小姐？
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#2", focus=2)]
-[name="海蒂"]  欸？啊......不，没有，还好吧。
+[name="海蒂"]  欸？啊……不，没有，还好吧。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#4", focus=2)]
-[name="海蒂"]  ......
-[name="海蒂"]  好吧......呃，只是，我以为我们会聊更多的诗歌话题或者小麦的收成，而不是......
+[name="海蒂"]  ……
+[name="海蒂"]  好吧……呃，只是，我以为我们会聊更多的诗歌话题或者小麦的收成，而不是……
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#4", focus=1)]
 [name="凯尔希"]  无聊的别国政治？
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  呃，哈哈......
+[name="海蒂"]  呃，哈哈……
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=1)]
 [name="凯尔希"]  这也是这场宴会的意义。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  ......我看得出来，您也觉得有些无趣了，不是吗？
+[name="海蒂"]  ……我看得出来，您也觉得有些无趣了，不是吗？
 [name="海蒂"]  其实您懂得更多，那些围着文森特叔叔唧唧喳喳的人，您其实是看不上的，对不对？
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=1)]
-[name="凯尔希"]  您似乎对我有一些误解......
+[name="凯尔希"]  您似乎对我有一些误解……
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#3", focus=2)]
 [name="海蒂"]  哈哈，我们今晚才认识嘛，您说得对，凯尔希修士。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#3", focus=1)]
 [name="凯尔希"]  您可以叫我凯尔希。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  那，凯尔希......能陪我逛逛吗？
+[name="海蒂"]  那，凯尔希……能陪我逛逛吗？
 [name="海蒂"]  再过一会，文森特叔叔就要把我撵到阁楼上啦。我可不想这么早就睡觉。
-[name="海蒂"]  外面的雪似乎变大了，您介意吗......？
+[name="海蒂"]  外面的雪似乎变大了，您介意吗……？
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=1)]
 [name="凯尔希"]  ——不会，让我陪您一道吧。
 [stopmusic(fadetime=1)]
@@ -428,26 +428,26 @@
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#3", focus=1)]
 [name="凯尔希"]  这几年都没有这么大的雪。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  ......我喜欢雪，凯尔希，我也喜欢我的家乡。
+[name="海蒂"]  ……我喜欢雪，凯尔希，我也喜欢我的家乡。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=1)]
-[name="凯尔希"]  ......我知道。
+[name="凯尔希"]  ……我知道。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  呼......真冷。
+[name="海蒂"]  呼……真冷。
 [name="海蒂"]  大家都躲在温暖的壁炉边呢。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=1)]
 [name="凯尔希"]  嗯。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=2)]
-[name="海蒂"]  ......
+[name="海蒂"]  ……
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#3", focus=2)]
-[name="海蒂"]  现在只有我们两个人啦，凯尔希......嘿嘿，凯尔希。
+[name="海蒂"]  现在只有我们两个人啦，凯尔希……嘿嘿，凯尔希。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=2)]
 [name="海蒂"]  ——想和您独处真的很难欸。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1", focus=1)]
-[name="凯尔希"]  你还年轻......海蒂。
+[name="凯尔希"]  你还年轻……海蒂。
 [name="凯尔希"]  你的父亲不该这么简单把你卷进来。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#4", focus=2)]
 [name="海蒂"]  但这是我的愿望，凯尔希。我希望能做点什么，而不是真的和个孩子一样，躲在温室里眺望窗外。
-[name="海蒂"]  ......您说真当冬天来临的时候，维多利亚的哪一棵栎树能免于风雪？那既然如此，我们应该早作准备。
+[name="海蒂"]  ……您说真当冬天来临的时候，维多利亚的哪一棵栎树能免于风雪？那既然如此，我们应该早作准备。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#4", focus=1)]
 [name="凯尔希"]  你和你的父亲很像。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#2", focus=2)]
@@ -455,11 +455,11 @@
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#2", focus=1)]
 [name="凯尔希"]  就当是吧。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#3", focus=2)]
-[name="海蒂"]  ......嘿嘿......啊，这附近不会有人过来，所以......
+[name="海蒂"]  ……嘿嘿……啊，这附近不会有人过来，所以……
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#4", focus=2)]
 [name="海蒂"]  只有现在，我才能把这些信交给您。
 [Character(name="char_003_kaltsn08_1", name2="avg_npc_169_1#4", focus=1)]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [name="凯尔希"]  你父亲挑选的情报人员从不迟到，他们是维多利亚最好的信使，工人和各界的有志之士——除了这一次。
 [name="凯尔希"]  遇到什么麻烦了？
 [dialog]

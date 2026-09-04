@@ -30,22 +30,22 @@
 [Character(name="char_441_lotus_1#4",name2="avg_npc_133")]
 [Delay(time=0.6)]
 [Character(name="char_441_lotus_1#4",name2="avg_npc_133",focus=2)]
-[name="囚犯A"]......
+[name="囚犯A"]……
 [Character(name="char_441_lotus_1#4",name2="avg_npc_133",focus=1)]
 [name="杜玛"]安东尼，对不起。
-[name="杜玛"]我在医务室等你，没想到这个人忽然带着一些囚犯进来了......
+[name="杜玛"]我在医务室等你，没想到这个人忽然带着一些囚犯进来了……
 [Character(name="char_214_kafka_1#5")]
-[name="卡夫卡"]杜玛......
+[name="卡夫卡"]杜玛……
 [Character(name="avg_npc_137#5")]
 [name="杰斯顿"]如此阴森的地方，怎么能让这样一位美丽的小姐孤单地在这里等待呢？
 [name="杰斯顿"]所以我就稍微保护了一下她。
 [Character(name="char_451_robin#3")]
-[name="罗宾"]杰斯顿先生......
+[name="罗宾"]杰斯顿先生……
 [Character(name="avg_npc_137#6")]
 [name="杰斯顿"]啊，罗宾小姐，你似乎失败了，真是令人遗憾。
 [name="杰斯顿"]还是说，你根本没有执行刺杀？
 [Character(name="char_451_robin#6",name2="char_264_Mountain_1#6",focus=1)]
-[name="罗宾"]我......
+[name="罗宾"]我……
 [Character(name="char_451_robin#6",name2="char_264_Mountain_1#6",focus=2)]
 [name="安东尼"]她失败了，你的手下伤不了我。
 [Character(name="avg_npc_137#9")]
@@ -60,14 +60,14 @@
 [Character]
 [delay(time=0.6)]
 [Character(name="char_214_kafka_1#4",fadetime=0.5,block=true)]
-[name="卡夫卡"]......
+[name="卡夫卡"]……
 [Character(name="avg_npc_137#5")]
 [name="杰斯顿"]卡夫卡小姐，请你乖乖地站在那里不要动。
 [name="杰斯顿"]你似乎十分擅长浑水摸鱼，希望你不要擅自做一些会伤到杜玛小姐的事。
 [Character(name="char_214_kafka_1#4")]
 [name="卡夫卡"]嘁。
 [Character(name="char_264_Mountain_1#1")]
-[name="安东尼"]......
+[name="安东尼"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [characteraction(name="middle", type="jump", power=5,times=1, fadetime=0.3,block=true)]
@@ -114,13 +114,13 @@
 [name="杰斯顿"]我并不在乎你在刚才与安东尼先生达成了怎样的协议，又发生了怎样的心境转变。
 [name="杰斯顿"]如果你想获得那笔钱，如果你想救你的父亲，那么，这是你最后，也是最好的机会。
 [Character(name="char_451_robin#6")]
-[name="罗宾"]......
-[name="罗宾"]我......
+[name="罗宾"]……
+[name="罗宾"]我……
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]你在犹豫什么？是安东尼对你许诺了什么空头支票？还是事到如今你心软了？
 [name="杰斯顿"]这是你唯一的机会了，罗宾小姐。
 [Character(name="char_451_robin#6")]
-[name="罗宾"]我，我......
+[name="罗宾"]我，我……
 [Character(name="avg_npc_137#6")]
 [name="杰斯顿"]想想你的父亲，想想你变得一团糟的生活，想想你的未来，想想你的愿望。
 [name="杰斯顿"]如果我是你，我不会犹豫。
@@ -154,12 +154,12 @@
 [name="杰斯顿"]五。
 [name="杰斯顿"]罗宾小姐，你父亲的手术费还差许多，而安东尼先生现在身无分文。
 [Character(name="char_451_robin#6")]
-[name="罗宾"]安东尼，我......
+[name="罗宾"]安东尼，我……
 [Character(name="avg_npc_137#6")]
 [name="杰斯顿"]四。
 [name="杰斯顿"]安东尼先生，你的父母因为在监狱中受到排挤，过得非常不好。
 [Character(name="char_264_Mountain_1#3")]
-[name="安东尼"]......父亲，母亲。
+[name="安东尼"]……父亲，母亲。
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]三。
 [dialog]
@@ -171,12 +171,12 @@
 [CameraShake(duration=0.6, xstrength=40, ystrength=0, vibrato=30, randomness=20, fadeout=true, block=true)]
 [name="囚犯A"]哼！
 [Character(name="char_441_lotus_1#4",name2="avg_npc_133",focus=1)]
-[name="杜玛"]咕......
+[name="杜玛"]咕……
 [Character(name="char_441_lotus_1#4",name2="avg_npc_133",focus=2)]
 [name="囚犯A"]臭女人，趁我不注意居然想自杀。
 [Character(name="char_441_lotus_1#4",name2="avg_npc_133",focus=1)]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
-[name="杜玛"]罗......宾......不要......
+[name="杜玛"]罗……宾……不要……
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]没想到杜玛小姐比我想的还要刚烈，真是一位可敬的女士。
 [name="杰斯顿"]真是可惜，事情没有如她所愿。
@@ -186,14 +186,14 @@
 [Character(name="avg_npc_137#6")]
 [name="杰斯顿"]你现在的表情真棒，安东尼先生，真棒。
 [Character(name="char_264_Mountain_1#6")]
-[name="安东尼"]......
+[name="安东尼"]……
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]我很好奇，是什么让你如此坚定？
 [name="杰斯顿"]难道你认为你的死能换来我善待剩下的人？
 [name="杰斯顿"]原则于你真的有这么重要？
 [name="杰斯顿"]还是说，你还留有后手？
 [Character(name="char_264_Mountain_1#1")]
-[name="安东尼"]......我在这座监狱里，做过许多违背我原则的事。
+[name="安东尼"]……我在这座监狱里，做过许多违背我原则的事。
 [name="安东尼"]对这群狱卒曲意逢迎，帮巴顿站台，打不想打的人，过不想过的生活。
 [name="安东尼"]这与原则无关。
 [name="安东尼"]这与我有关。
@@ -212,7 +212,7 @@
 [Character(name="char_264_Mountain_1#6")]
 [name="安东尼"]即使这会葬送我的性命。
 [Character(name="char_451_robin#6")]
-[name="罗宾"]安东尼......
+[name="罗宾"]安东尼……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -238,7 +238,7 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="罗宾"]安东尼......
+[name="罗宾"]安东尼……
 [Character(name="avg_npc_137#7")]
 [name="杰斯顿"]真是遗憾。
 [name="杰斯顿"]那么，二。
@@ -323,7 +323,7 @@
 [PlaySound(key="$p_imp_sword_n", volume=1)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [Delay(time=0.7)]
-[name="囚犯B"]......呃啊......
+[name="囚犯B"]……呃啊……
 [CameraShake(duration=1, xstrength=3, ystrength=3, vibrato=10, randomness=90, fadeout=true, block=false)]
 [Character(name="char_empty",name2="char_214_kafka_1#4",focus=1, fadetime=0.7)]
 [PlaySound(key="$bodyfalldown1", volume=1)]
@@ -366,16 +366,16 @@
 [Character(name="char_451_robin#2")]
 [name="罗宾"]爸爸变成今天那样虽然确实是西蒙家一夜之间覆灭导致的，但是在那之后他的一蹶不振是他自己的责任。
 [name="罗宾"]我一直是知道这一点的，我只是不愿意去承认。
-[name="罗宾"]而我自己......也确实不想这么做。
+[name="罗宾"]而我自己……也确实不想这么做。
 [name="罗宾"]安东尼向我许诺了他逃出去后也会帮我父亲的医药费想办法。
 [name="罗宾"]但其实这无所谓。
 [name="罗宾"]我已经决定了不刺杀安东尼，即使安东尼不帮我，我也会想别的办法。
-[name="罗宾"]而如果因为我这么做导致了来不及医治爸爸的病，那我......
+[name="罗宾"]而如果因为我这么做导致了来不及医治爸爸的病，那我……
 [name="罗宾"]那我会自杀，去地下向他道歉，告诉他，是女儿没用。
 [CameraShake(duration=0.5, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="罗宾"]这就是我的选择。
 [Character(name="avg_npc_137#7")]
-[name="杰斯顿"]......
+[name="杰斯顿"]……
 [name="杰斯顿"]漂亮，实在是漂亮。
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]真是令人感动的觉悟，罗宾小姐。
@@ -421,7 +421,7 @@
 [Image(image="avg_ac15_8_2",xScale=1, yScale=1, fadetime=1)]
 [delay(time=1)]
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="安东尼"]呃......啊......
+[name="安东尼"]呃……啊……
 [PlaySound(key="$enemy_dead_n")]
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="卡夫卡"]呜哇！
@@ -431,7 +431,7 @@
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=0.7)]
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="安东尼"]没......事......
+[name="安东尼"]没……事……
 [name="杰斯顿"]你们该不会忘了自己身上还戴着枷锁吧？
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
@@ -462,7 +462,7 @@
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]你看，你也无法反驳我，不是吗？
 [Character(name="char_264_Mountain_1#6")]
-[name="安东尼"]嘶......我不得不承认，罗宾......如果帮你......会更好。
+[name="安东尼"]嘶……我不得不承认，罗宾……如果帮你……会更好。
 [name="安东尼"]但是，她没有。
 [name="安东尼"]这，就，够，了。
 [CameraShake(duration=0.5, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -475,11 +475,11 @@
 [Character(name="char_451_robin#2")]
 [name="罗宾"]安东尼，我来帮你！
 [Character(name="char_214_kafka_1#5")]
-[name="卡夫卡"]啧，我可没有安东尼那样的力气啊......
+[name="卡夫卡"]啧，我可没有安东尼那样的力气啊……
 [dialog]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=70, fadeout=false, block=false)]
 [Character(name="char_214_kafka_1#2")]
-[name="卡夫卡"]咦......你们当心，他的手......
+[name="卡夫卡"]咦……你们当心，他的手……
 [name="卡夫卡"]他的手，变黑了！
 [Character]
 [dialog]
@@ -500,7 +500,7 @@
 [Blocker(a=0, r=255,g=255, b=255, fadetime=0.6, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_137#7")]
-[name="杰斯顿"]而一想到这一幕能由我亲自来打碎......
+[name="杰斯顿"]而一想到这一幕能由我亲自来打碎……
 [dialog]
 [delay(time=0.51)]
 [PlaySound(key="$sheildimpact", volume=0.6)]

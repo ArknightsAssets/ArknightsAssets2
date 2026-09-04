@@ -29,7 +29,7 @@
 [Character(name="avg_npc_032",name2="avg_npc_021",focus=1)]
 [name="路人B"]（小声）快闭嘴吧，这小子一脸苦相一看就是又被开了。
 [Character(name="avg_npc_032",name2="avg_npc_021",focus=2)]
-[name="路人A"]（小声）又？这都第几次了......唉，这是厚道人啊，就是不会变通。
+[name="路人A"]（小声）又？这都第几次了……唉，这是厚道人啊，就是不会变通。
 [name="路人A"]（小声）这年头啊，还是机灵点儿的人吃得开。
 [Character(name="avg_npc_032",name2="avg_npc_021",focus=1)]
 [name="路人B"]（小声）可不是，这世道千变万变的，人啊，不跟着变，就废了。
@@ -40,7 +40,7 @@
 [StopSound(channel="bgs", fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_226_hmau_1#11$1")]
-[name="吽"]......
+[name="吽"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -55,19 +55,19 @@
 [name="前老板"]为了走这批货，我走了多少门路？托了多少关系？
 [name="前老板"]你倒好，一句来路不明就捅了出去！大少爷，你可真是正义凛然啊！
 [Character(name="avg_226_hmau_1#9$1")]
-[name="吽"]老板......这批东西它很危险，一旦卖给黑帮，后果不堪——
+[name="吽"]老板……这批东西它很危险，一旦卖给黑帮，后果不堪——
 [Character]
 [name="前老板"]我管那些！真金白银我不管，我管那些！我呸，你算什么东西，来教我做事！
 [Character(name="avg_226_hmau_1#6$1")]
-[name="吽"]可是......
+[name="吽"]可是……
 [Character]
 [name="前老板"]可是什么？没有可是，你赶紧给我滚，我再也不想看到你。
 [Character(name="avg_226_hmau_1#7$1")]
-[name="吽"]对、对不起，老板，我就是......
+[name="吽"]对、对不起，老板，我就是……
 [Character]
 [name="前老板"]滚滚滚！你和你老爹就是一路货色，你活该，你老爹破产也是他活该！
 [Character(name="avg_226_hmau_1#8$1")]
-[name="吽"]老板，你怎么能这么说，这事扯不上我爸......
+[name="吽"]老板，你怎么能这么说，这事扯不上我爸……
 [Character]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="前老板"]快滚啊！
@@ -82,9 +82,9 @@
 [Character(name="avg_226_hmau_1#11$1")]
 [name="吽"]（咕噜噜——）
 [Character(name="avg_226_hmau_1#7$1")]
-[name="吽"]（唉......先去吃点东西吧。吃完试着再找份其他的活儿干吧。）
+[name="吽"]（唉……先去吃点东西吧。吃完试着再找份其他的活儿干吧。）
 [Character]
-[name="街边广告"]靓仔靓女走过路过不要错过，小店新开业八折优惠，正宗尚蜀风味小面欢迎大家来品尝。靓仔靓女走过路过不要错过......
+[name="街边广告"]靓仔靓女走过路过不要错过，小店新开业八折优惠，正宗尚蜀风味小面欢迎大家来品尝。靓仔靓女走过路过不要错过……
 [Character(name="avg_226_hmau_1#11$1")]
 [name="吽"]（摸摸口袋里的钱包）
 [Character(name="avg_226_hmau_1#10$1")]
@@ -115,7 +115,7 @@
 [Character(name="avg_npc_033")]
 [name="面馆老板"]（撇撇嘴）啧，行吧，拿号过去排着吧。
 [Character(name="avg_226_hmau_1#9$1")]
-[name="吽"]......谢谢。
+[name="吽"]……谢谢。
 [Dialog]
 [Character]
 [Delay(time=1)]
@@ -162,7 +162,7 @@
 [Character(name="avg_322_lmlee_1#10$1")]
 [name="老鲤"]哈哈，好好。
 [Character(name="avg_226_hmau_1#6$1")]
-[name="吽"]老板，那我的素面什么时候......
+[name="吽"]老板，那我的素面什么时候……
 [Character(name="avg_npc_033")]
 [name="面馆老板"]哎呦，我说你急什么，煮面不要花时间的啊。
 [Character(name="avg_226_hmau_1#6$1")]
@@ -183,13 +183,13 @@
 [Character(name="avg_226_hmau_1#5$1",name2="avg_322_lmlee_1#10$1",focus=2)]
 [name="老鲤"]哈哈，客气客气。
 [Character(name="avg_226_hmau_1#11$1")]
-[name="吽"]呼......
+[name="吽"]呼……
 [Character(name="avg_226_hmau_1#7$1")]
 [name="吽"]（算了，再等等吧。）
 [Character(name="avg_226_hmau_1#5$1")]
 [name="吽"]（这店里装修很别致，原来这就是尚蜀风格啊。）
 [Character(name="avg_226_hmau_1#7$1")]
-[name="吽"]（小时候老爸总说要带我去尚蜀吃最正宗的尚蜀美食......嗐，他都不在了，想这些有什么用。）
+[name="吽"]（小时候老爸总说要带我去尚蜀吃最正宗的尚蜀美食……嗐，他都不在了，想这些有什么用。）
 [Dialog]
 [Character]
 [Character(name="avg_npc_305_1#1$1",fadetime=0.5)]
@@ -212,7 +212,7 @@
 [StopMusic(fadetime=2)]
 [name="吽"]（嗯，那个人左顾右盼地想干什么呢？）
 [Character(name="avg_226_hmau_1#9$1")]
-[name="吽"]（纸包，他怀里揣着个纸包做什么......等等，他是不是把什么东西丢进碗里去了？）
+[name="吽"]（纸包，他怀里揣着个纸包做什么……等等，他是不是把什么东西丢进碗里去了？）
 [Character(name="avg_226_hmau_1#8$1")]
 [name="吽"]这位先生，你这是在做什——
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -294,7 +294,7 @@
 [Blocker(a=0,fadetime=0.2, block=true)]
 闻言，吽抓了抓头顶的绒毛，从里面捉出一个脆硬的物事，摊开手来一看，一只油亮的大黑虫窝在掌心里面。
 [Character(name="avg_226_hmau_1#9$1",name2="avg_322_lmlee_1#10$1",focus=1)]
-[name="吽"]......
+[name="吽"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -324,7 +324,7 @@
 [characteraction(name="right", type="move", ypos=30, fadetime=0.5,block=true)]
 [name="混混"]想得美，闹到这个地步，我岂是一碗面钱就能打发得了？
 [Character(name="avg_npc_305_1#1$1",name2="avg_npc_033",focus=2)]
-[name="面馆老板"]那您——先松手，我、我快上不来气了......
+[name="面馆老板"]那您——先松手，我、我快上不来气了……
 [Character(name="avg_npc_305_1#1$1",name2="avg_npc_033",focus=1)]
 [name="混混"]你——
 [Character(name="avg_226_hmau_1#8$1")]
@@ -370,16 +370,16 @@
 [Delay(time=1)]
 [Character(name="avg_226_hmau_1#6$1",name2="avg_npc_305_1#1$1",focus=1)]
 [name="吽"]你别哭了好吗？搞得好像是我在欺负你一样。
-[name="吽"]（唉，刚刚气急手脚重了些，这人应该不会有事吧......）
+[name="吽"]（唉，刚刚气急手脚重了些，这人应该不会有事吧……）
 [name="吽"]你这伤，要紧吗？
 [Character(name="avg_226_hmau_1#6$1",name2="avg_npc_305_1#1$1",focus=2)]
 [name="混混"]（哎呦，他哪来的好心还问我伤势，不会是在试探我会不会碰他瓷吧？）
 [Character(name="avg_226_hmau_1#9$1",name2="avg_npc_305_1#1$1",focus=1)]
-[name="吽"]你......不要紧吧？
+[name="吽"]你……不要紧吧？
 [Character(name="avg_226_hmau_1#9$1",name2="avg_npc_305_1#1$1",focus=2)]
 [name="混混"]不要紧，我的伤不要紧，都、都是小弟我自己不小心撞的，和您没有关系。
 [Character(name="avg_226_hmau_1#5$1",name2="avg_npc_305_1#1$1",focus=1)]
-[name="吽"]啊，撞的？难道不是我刚刚......
+[name="吽"]啊，撞的？难道不是我刚刚……
 [Character(name="avg_226_hmau_1#5$1",name2="avg_npc_305_1#1$1",focus=2)]
 [name="混混"]没有没有，大哥多虑了，都是小弟我不长眼睛，是我活该，哈哈哈。
 [name="混混"]大哥，我、我还有事，先告辞！
@@ -389,7 +389,7 @@
 [Character(name="avg_226_hmau_1#5$1",name2="char_empty")]
 [Delay(time=1)]
 [Character(name="avg_226_hmau_1#6$1",name2="char_empty",focus=1)]
-[name="吽"]哎，你这一瘸一拐的......走慢点啊。
+[name="吽"]哎，你这一瘸一拐的……走慢点啊。
 [Dialog]
 [Character(name="avg_226_hmau_1#6$1",name2="avg_npc_033",fadetime=1)]
 [characteraction(name="right", type="move", xpos=-80, fadetime=0.8,block=true)]
@@ -405,7 +405,7 @@
 [Character(name="avg_226_hmau_1#6$1",name2="avg_npc_033",focus=1)]
 [name="吽"]（咕噜噜——）
 [Character(name="avg_226_hmau_1#7$1",name2="avg_npc_033",focus=1)]
-[name="吽"]老板，那个......我的面？
+[name="吽"]老板，那个……我的面？
 [Character(name="avg_npc_033")]
 [name="面馆老板"]看我这记性，您坐一会儿，马上就给您端过来。
 [PlaySound(key="$rungeneral", volume=1)]
@@ -421,45 +421,45 @@
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]先生，您家里是有个女儿吗？
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#10$1",focus=2)]
-[name="老鲤"]不是......唉，也算是我女儿吧。
+[name="老鲤"]不是……唉，也算是我女儿吧。
 [Character(name="avg_226_hmau_1#1$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]哈哈，这是也不是的怎么说？
 [Character(name="avg_226_hmau_1#1$1",name2="avg_322_lmlee_1#10$1",focus=2)]
-[name="老鲤"]难说清，说不清......对了，小兄弟，我看你身手不错，是师从何处啊？
+[name="老鲤"]难说清，说不清……对了，小兄弟，我看你身手不错，是师从何处啊？
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]您过奖了，只是从家父那里学了些粗浅功夫，不足挂齿。
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#10$1",focus=2)]
-[name="老鲤"]我记得几年前龙门有家保全公司的老板也使这手擒拿功夫，姓什么来着......看我这脑子，一时半会儿也想不起了。
+[name="老鲤"]我记得几年前龙门有家保全公司的老板也使这手擒拿功夫，姓什么来着……看我这脑子，一时半会儿也想不起了。
 [Character(name="avg_226_hmau_1#1$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]姓高，正是家父。
 [StopMusic(fadetime=3)]
 [Character(name="avg_226_hmau_1#1$1",name2="avg_322_lmlee_1#10$1",focus=2)]
 [name="老鲤"]嗯，是他啊，令尊可还好？
 [Character(name="avg_226_hmau_1#9$1",name2="avg_322_lmlee_1#10$1",focus=1)]
-[name="吽"]去年年末......故去了。
+[name="吽"]去年年末……故去了。
 [Character(name="avg_226_hmau_1#9$1",name2="avg_322_lmlee_1#6$1",focus=2)]
 [name="老鲤"]节哀。
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#6$1",focus=1)]
 [name="吽"]都是过去的事，谢谢您。
 [Dialog]
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#6$1")]
-......
+……
 [Character(name="avg_npc_033")]
 [playsound(key="$d_avg_glassclink",volume=0.5)]
 [playsound(key="$d_avg_chess",delay=1)]
 [name="面馆老板"]小哥，您的面来了，清汤寡水的，我给您加了几勺荤的浇头。
 [Character(name="avg_226_hmau_1#10$1")]
-[name="吽"]这......谢谢老板了。
+[name="吽"]这……谢谢老板了。
 [name="吽"]（掰开筷子）
 [playMusic(intro="$darkalley_intro", key="$darkalley_loop", volume=0.4)]
 [Character(name="avg_226_hmau_1#10$1",name2="avg_npc_033",focus=2)]
-[name="面馆老板"]小哥啊......
+[name="面馆老板"]小哥啊……
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=1)]
 [name="吽"]（放下筷子）老板，您是还有话要说吗？直说就是了。
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=2)]
 [name="面馆老板"]小哥，你也知道，这条街上租金高，生意不好做。
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=1)]
-[name="吽"]嗯，我清楚的......
+[name="吽"]嗯，我清楚的……
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=2)]
 [name="面馆老板"]虽说啊，您赶走那无赖是帮了我大忙，可您刚刚行如电步如风的，可损坏了店里不少物件。
 [name="面馆老板"]我们啊，还是得各算各的，您帮了我是一码事，这碗面我就请您吃了。
@@ -468,21 +468,21 @@
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=2)]
 [name="面馆老板"]这坏了的东西，您看看，怎么赔？
 [Character(name="avg_226_hmau_1#8$1",name2="avg_npc_033",focus=1)]
-[name="吽"]（握紧拳头）老板，我刚刚是为了帮你才......
+[name="吽"]（握紧拳头）老板，我刚刚是为了帮你才……
 [Character(name="avg_226_hmau_1#8$1",name2="avg_npc_033",focus=2)]
 [name="面馆老板"]哎呦，你捏起个拳头干什么？
 [Characteraction(name="right", type="jump", power=30, times=2, fadetime=0.5,block=false)]
 [name="面馆老板"]要打人啊？那我看你和那无赖也没有什么差别嘛，仗着自己拳脚功夫好就胡作非为。
 [Character(name="avg_226_hmau_1#7$1",name2="avg_npc_033",focus=1)]
-[name="吽"]不是......我没那个意思......
+[name="吽"]不是……我没那个意思……
 [Character(name="avg_226_hmau_1#7$1",name2="avg_npc_033",focus=2)]
 [name="面馆老板"]那就赔钱！
 [Character(name="avg_226_hmau_1#6$1",name2="avg_npc_033",focus=1)]
-[name="吽"]老板，你不能这样咄咄逼人，这样不行......不好的。
+[name="吽"]老板，你不能这样咄咄逼人，这样不行……不好的。
 [Character(name="avg_226_hmau_1#6$1",name2="avg_npc_033",focus=2)]
 [name="面馆老板"]什么好不好，行不行，损坏别人财物照价赔偿，这是天经，这是地义，这是公理。
 [Character(name="avg_226_hmau_1#7$1",name2="avg_npc_033",focus=1)]
-[name="吽"]我......
+[name="吽"]我……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -504,9 +504,9 @@
 [Character]
 [name="病重的男人"]你又开始念叨了不是，我就是说说，得得得，帮我削个苹果吧。
 [Character(name="avg_226_hmau_1#1$1")]
-[name="吽"]哎，好......
+[name="吽"]哎，好……
 [Character]
-[name="病重的男人"]你......最近工作怎么样啊，老李他是不是说你了？
+[name="病重的男人"]你……最近工作怎么样啊，老李他是不是说你了？
 [Character(name="avg_226_hmau_1#10$1")]
 [name="吽"]爸，没有的事，李伯伯挺好的，说我干活认真。
 [Character]
@@ -537,7 +537,7 @@
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=1)]
 [name="吽"]（松开拳头）
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=1)]
-[name="吽"]......老板，我身上钱不剩几个，能不能留在店里做帮工来还？
+[name="吽"]……老板，我身上钱不剩几个，能不能留在店里做帮工来还？
 [Character(name="avg_226_hmau_1#11$1",name2="avg_npc_033",focus=2)]
 [name="面馆老板"]哼，也成，我捡一个打白工的也不亏，看你这膀子力气，洗碗肯定干净。先说好，我可不包你吃住。
 [Dialog]
@@ -552,12 +552,12 @@
 [Character(name="avg_322_lmlee_1#1$1",name2="avg_npc_033",focus=1)]
 [name="老鲤"]不着急，我可以等等，就是不知道你能不能等了。
 [Character(name="avg_322_lmlee_1#1$1",name2="avg_npc_033",focus=2)]
-[name="面馆老板"]您这......那我可得仔细听听客人您的高见了。
+[name="面馆老板"]您这……那我可得仔细听听客人您的高见了。
 [Character(name="avg_322_lmlee_1#10$1",name2="avg_npc_033",focus=1)]
 [name="老鲤"]刚刚坐下吃饭的时候，我数了数你这消防设施的数量，数了三遍，将将三个。
 [Character(name="avg_322_lmlee_1#8$1",name2="avg_npc_033",focus=1)]
 [name="老鲤"]但我没记错的话，上个月出台的消防法规好像规定了，这么大的店面，里面的消防设施应该不少于六个，少一个，罚五千。
-[name="老鲤"]我算算，一共是......啊，正好一万五。
+[name="老鲤"]我算算，一共是……啊，正好一万五。
 [Character(name="avg_322_lmlee_1#10$1",name2="avg_npc_033",focus=1)]
 [name="老鲤"]啧，最近消防局查得严啊，一个投诉电话打过去，立马就要飞奔着赶来了，不知道老板您有没有时间去搞这少了的三个设施。
 [name="老鲤"]唉，不好办啊。
@@ -573,7 +573,7 @@
 [name="面馆老板"]嘶——你！
 [name="面馆老板"]呸，算我倒霉！傻大个，既然有人给你出头了，还杵着干什么？还不快滚！
 [Character(name="avg_226_hmau_1#9$1")]
-[name="吽"]......
+[name="吽"]……
 [Character(name="avg_322_lmlee_1#1$1")]
 [name="老鲤"]小兄弟，既然老板都这么说了，走吧。
 [Dialog]
@@ -620,12 +620,12 @@
 [Character(name="avg_226_hmau_1#11$1",name2="avg_322_lmlee_1#4$1",focus=2)]
 [name="老鲤"]哦，你还有其他话要说？
 [Character(name="avg_226_hmau_1#7$1",name2="avg_322_lmlee_1#4$1",focus=1)]
-[name="吽"]先生您，能不能......能不能教教我？
+[name="吽"]先生您，能不能……能不能教教我？
 [Character(name="avg_226_hmau_1#7$1",name2="avg_322_lmlee_1#10$1",focus=2)]
 [name="老鲤"]教你？小兄弟说笑话了，我又有什么可以教你的？
 [Character(name="avg_226_hmau_1#9$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]先生，从前、从前我深信世上是非对错分明如观火。
-[name="吽"]可如今......想起遭遇过的事，反而觉得更像是墙上灯影，看不真切。
+[name="吽"]可如今……想起遭遇过的事，反而觉得更像是墙上灯影，看不真切。
 [Character(name="avg_226_hmau_1#9$1",name2="avg_322_lmlee_1#10$1",focus=2)]
 [name="老鲤"]哦，怎么说？
 [Character(name="avg_226_hmau_1#7$1",name2="avg_322_lmlee_1#10$1",focus=1)]
@@ -635,23 +635,23 @@
 [Character(name="avg_226_hmau_1#9$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]那既然如此，公理在何处，道义又在何处呢？
 [Character(name="avg_226_hmau_1#8$1",name2="avg_322_lmlee_1#10$1",focus=1)]
-[name="吽"]先生......把您会的都教给我吧，我不想撞得头破血流，但我更不想低头。
+[name="吽"]先生……把您会的都教给我吧，我不想撞得头破血流，但我更不想低头。
 [Character(name="avg_226_hmau_1#8$1",name2="avg_322_lmlee_1#10$1",focus=2)]
 [name="老鲤"]小兄弟，你岁数还小，困惑多些很正常。
-[name="老鲤"]可你问的这些，我没法教你......
+[name="老鲤"]可你问的这些，我没法教你……
 [name="老鲤"]我，也只是这千千万万人中的一个啊。
 [Character(name="avg_226_hmau_1#8$1",name2="avg_322_lmlee_1#10$1",focus=1)]
-[name="吽"]先生，我......！
+[name="吽"]先生，我……！
 [Character(name="avg_226_hmau_1#6$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]（咕噜噜——）
 [Character(name="avg_226_hmau_1#6$1",name2="avg_322_lmlee_1#10$1",focus=2)]
-[name="老鲤"]......但或许，我可以教你些别的东西，比如炒一碗蛋炒饭，咸淡适宜，粒粒分明。
+[name="老鲤"]……但或许，我可以教你些别的东西，比如炒一碗蛋炒饭，咸淡适宜，粒粒分明。
 [Character(name="avg_226_hmau_1#5$1",name2="avg_322_lmlee_1#10$1",focus=1)]
 [name="吽"]啊，蛋炒饭？
 [Character(name="avg_226_hmau_1#5$1",name2="avg_322_lmlee_1#10$1",focus=2)]
 [name="老鲤"]没错，怎样，想学吗？
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#10$1",focus=1)]
-[name="吽"]我......谢谢先生愿意赐教。
+[name="吽"]我……谢谢先生愿意赐教。
 [Character(name="avg_226_hmau_1#10$1",name2="avg_322_lmlee_1#9$1",focus=2)]
 [name="老鲤"]哈哈，那就快走吧，这个时候去市场，还买得到新鲜的小葱和蛋。
 [Dialog]

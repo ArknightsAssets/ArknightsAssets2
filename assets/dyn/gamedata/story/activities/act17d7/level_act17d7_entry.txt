@@ -9,7 +9,7 @@
 [CameraShake(duration=2, xstrength=8, ystrength=8, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$livecrowd", volume=0.4, loop=false, channel="people")]
 欢迎来到玛尔特服饰冠名——freestyle星期四，《Loyal to the beats！》说唱之夜！
-欢迎本期擂主岸湾霸王流行巨头，我们的大————帝！他将再度迎来新的挑战者......他们是——
+欢迎本期擂主岸湾霸王流行巨头，我们的大————帝！他将再度迎来新的挑战者……他们是——
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_105_emper",fadetime=2,block=true)]
@@ -34,17 +34,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_185_frncat_1")]
 [name="激动的歌迷"]   大帝先生！是真的大帝先生在说话！
-[name="激动的歌迷"]   我没在做梦吧？我、我、结束后我能去要个签名吗......
+[name="激动的歌迷"]   我没在做梦吧？我、我、结束后我能去要个签名吗……
 [Character(name="char_284_spot_1")]
 [name="歌迷？"]   喂，小心，别憋气，呼吸，呼吸——
 [Character(name="char_185_frncat_1",name2="char_284_spot_1",focus=1)]
-[name="激动的歌迷"]   呼......哈......
+[name="激动的歌迷"]   呼……哈……
 [Character(name="char_185_frncat_1",name2="char_284_spot_1",focus=2)]
 [name="歌迷？"]   真没问题？我总觉得台上那位巨星可能会干点什么离谱的事。
 [Character(name="char_130_doberm_ex")]
 [name="热情的歌迷"]   别担心，那就是大帝的舞台。就算他真的安排一场爆炸，那也是舞台的一部分！
 [Character(name="char_284_spot_1")]
-[name="歌迷？"]   真的假的......
+[name="歌迷？"]   真的假的……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -110,19 +110,19 @@
 [Character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_185_frncat_1")]
-[name="激动的歌迷"]   那是......是最近有名的新人歌手！
+[name="激动的歌迷"]   那是……是最近有名的新人歌手！
 [Character(name="char_284_spot_1")]
 [name="歌迷？"]   嗯？我好像在屏幕上见过那个后面出来的家伙，这期擂台竟然来了这么多大腕？
 [Character(name="char_185_frncat_1")]
 [name="激动的歌迷"]   天啊，他们好像准备要开始了！大帝要唱了？！
 [Character(name="char_130_doberm_ex")]
-[name="热情的歌迷"]   看来这次来现场真是来对了......走，我们过去看看！
+[name="热情的歌迷"]   看来这次来现场真是来对了……走，我们过去看看！
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_105_emper")]
-[name="大帝"]   ......
+[name="大帝"]   ……
 [name="大帝"]   很好。做得不错。
 [name="大帝"]   狂妄到向我提出挑战的人有很多，但愿你们和那些人会有一些不同，别太扫我的兴！
 [name="大帝"]   说吧，你们要怎么挑战，是一起上还是一个一个来，我不介意多花点时间。
@@ -133,7 +133,7 @@
 [Character(name="char_105_emper")]
 [name="大帝"]   等等，我想到了一个好主意！机会难得，不如我们增加点难度，这样才有意思！
 [Character(name="avg_npc_030")]
-[name="主持人"]   大帝先生需要什么，我们立刻安排......
+[name="主持人"]   大帝先生需要什么，我们立刻安排……
 [Character(name="char_105_emper")]
 [name="大帝"]   不用。没那么麻烦。
 [Dialog]
@@ -150,7 +150,7 @@
 [Character(name="avg_npc_034#3")]
 [name="“沙炫风”"]   哼，狂妄。
 [Character(name="char_185_frncat_1")]
-[name="激动的歌迷"]  这......我们真的可以吗......
+[name="激动的歌迷"]  这……我们真的可以吗……
 [Character(name="char_105_emper")]
 [name="大帝"]   放轻松，来多加点打击的伴奏，其他的都交给我，你们把这鼓砸了都行，账算在我头上。
 [name="大帝"]   不管是什么调子，最后都只会成为我旋律的一部分！

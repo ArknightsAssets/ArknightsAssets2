@@ -18,7 +18,7 @@
 [Character(name="avg_npc_021", name2="avg_npc_022", focus=2)]
 [name="游客B"]  真的有那么厉害吗？我当时在旅馆里睡觉，还以为楼上有个胖子在跳绳呢。
 [Character(name="avg_npc_021", name2="avg_npc_022", focus=1)]
-[name="游客A"]  ......真不知道该说你运气好还是不好。
+[name="游客A"]  ……真不知道该说你运气好还是不好。
 [Character(name="avg_npc_021", name2="avg_npc_022", focus=2)]
 [name="游客B"]  不过，发生了这么大的事，感觉好像街上的人也没怎么少，我还以为整座城市一下就冷清了。
 [Character(name="avg_npc_021", name2="avg_npc_022", focus=1)]
@@ -29,7 +29,7 @@
 [dialog]
 [Character(name="char_340_shwaz_2#2",fadetime=1,block=true)]
 [Delay(time=1)]
-[name="黑"]  ......
+[name="黑"]  ……
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
 [name="保镖A"]  头儿，你找我？
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
@@ -44,18 +44,18 @@
 [name="黑"]  我在局里也只是留了一个位置，那里没什么东西，老爷会安排人帮我交接。
 [name="黑"]  和你说足够了。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
-[name="查理"]  ......头儿，别啊，你又不是没出过个把月的远门，怎么这次就忽然撂挑子了。
+[name="查理"]  ……头儿，别啊，你又不是没出过个把月的远门，怎么这次就忽然撂挑子了。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
 [name="黑"]  这次不一样，这次我要陪小姐去个很远的地方，很长时间都不会回来了，我已经向老爷引荐了你。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
-[name="查理"]  ......局长这么大的位置，我当不起的啊。
+[name="查理"]  ……局长这么大的位置，我当不起的啊。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
 [name="黑"]  局里这么多人，一半草包，一半不懂变通，只有你我还算信得过。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
 [name="查理"]  那我也没有头儿你这么能打啊。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
 [name="黑"]  我教给你们的东西，对付普通佣兵团问题不是很大。
-[name="黑"]  至于你们应付不了的......这么多年，和老爷扯上关系的人中，我只见过前阵子那位老先生。
+[name="黑"]  至于你们应付不了的……这么多年，和老爷扯上关系的人中，我只见过前阵子那位老先生。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
 [name="查理"]  啊，那个老头儿确实，强得离谱。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
@@ -84,7 +84,7 @@
 [name="查理"]  毕竟头儿你不是要出远门了，您老走之前，我还想多听您两句教诲呢。
 [name="查理"]  而且作为您的接班人，我总也要见一见赫尔曼老爷。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#5", focus=2)]
-[name="黑"]  ......
+[name="黑"]  ……
 [delay(time=0.5)]
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [characteraction(name="right", type="move", xpos=300, fadetime=1,block=false)]
@@ -117,7 +117,7 @@
 [Character(name="avg_npc_021", name2="avg_npc_022", focus=2)]
 [name="游客B"]  对对，啧啧，我还说他多半不是什么好东西，没想到为了汐斯塔付出这么多，是我看走眼了啊。
 [Character(name="char_340_shwaz_2")]
-[name="黑"]  ......
+[name="黑"]  ……
 [Character(name="avg_npc_020", name2="char_340_shwaz_2", focus=1)]
 [name="查理"]  啧啧，明明是我们把克洛宁关起来了，结果对外还要这么宣传他，感觉还挺不爽的。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2", focus=2)]
@@ -125,7 +125,7 @@
 [Character(name="avg_npc_020", name2="char_340_shwaz_2", focus=1)]
 [name="查理"]  是啊，但是头儿你也不爽的吧，虽然我不知道具体发生了什么，不过听说他可把小姐和你搞得很惨。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
-[name="黑"]  ......少听些谣言。
+[name="黑"]  ……少听些谣言。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
 [name="查理"]  行行，换个话题，头儿，你这次要去哪儿啊？
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
@@ -181,7 +181,7 @@
 [Character(name="avg_npc_020", name2="char_340_shwaz_2", focus=1)]
 [name="查理"]  我知道，打个比方嘛。但是说真的，头儿，这件事只有头儿你能做到，因为你明明和老爷小姐非亲非故，却只有他们作为牵挂。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#5", focus=2)]
-[name="黑"]  ......老爷和小姐就是我的家人。
+[name="黑"]  ……老爷和小姐就是我的家人。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#5", focus=1)]
 [name="查理"]  不是，头儿，你没明白我的意思。
 [name="查理"]  我是说，不说老爷，如果把我老婆的命和我的命摆在一起让我选，我都会犹豫。
@@ -191,13 +191,13 @@
 [Character(name="avg_npc_020", name2="char_340_shwaz_2", focus=1)]
 [name="查理"]  你不会。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#3", focus=2)]
-[name="黑"]  ......
+[name="黑"]  ……
 [Character(name="avg_npc_020", name2="char_340_shwaz_2", focus=2)]
 [name="黑"]  我恐怕确实不会。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2", focus=1)]
 [name="查理"]  对吧。对头儿你来说，只有帮老爷或者小姐做事，或者在等待帮他们做事的路上。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
-[name="黑"]  ......这不关你事。
+[name="黑"]  ……这不关你事。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
 [name="查理"]  哈，没错。是不关我事，我可没资格说对错，就随便聊聊，您就说我感觉的对不对吧。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
@@ -208,7 +208,7 @@
 [Background(image="bg_offce",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [PlaySound(key="$doorknockquite", volume=0.6)]
-[name="秘书"]  市长，我们接下来的行程要去豪斯先生的晚宴......
+[name="秘书"]  市长，我们接下来的行程要去豪斯先生的晚宴……
 [Character(name="avg_npc_024")]
 [name="赫尔曼"]  推掉。刚才艾娃女士的邀请你忘了吗？分清优先级。
 [Character(name="avg_npc_024", focus=-1)]
@@ -248,7 +248,7 @@
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=2)]
 [name="黑"]  汐斯塔就交给你了。
 [Character(name="avg_npc_020", name2="char_340_shwaz_2#2", focus=1)]
-[name="查理"]  ......好。
+[name="查理"]  ……好。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Character]
@@ -294,7 +294,7 @@
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  你这不是要走了吗？
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......老爷是不希望我走吗？
+[name="黑"]  ……老爷是不希望我走吗？
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  不，恰恰相反。
 [name="赫尔曼"]  黑啊，这些年，一直有一个问题困扰着我。
@@ -303,12 +303,12 @@
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  是你的未来。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......我应该没有什么需要您操心的事情。
+[name="黑"]  ……我应该没有什么需要您操心的事情。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  正因为如此，黑，正因为如此。
 [name="赫尔曼"]  我经常会觉得，你就像是我的第三只手臂一样得心应手，想要的时候会出现，不需要的时候也不用操心。
 [Character(name="char_340_shwaz_2#5",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......刚才，查理也说了类似的事情。
+[name="黑"]  ……刚才，查理也说了类似的事情。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=1)]
 [name="黑"]  这是我选择的，老爷，我认为这没有什么不好的。
 [name="黑"]  是您给了我现在的生活，即使您赶我走，我也不会走的。
@@ -318,7 +318,7 @@
 [name="赫尔曼"]  唉。
 [name="赫尔曼"]  我一直把你当另一个亲女儿看待，黑。
 [Character(name="char_340_shwaz_2#3",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......是。
+[name="黑"]  ……是。
 [Character(name="char_340_shwaz_2#3",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  我在和那些大人物们聊天时，他们经常会抱怨，说想为了孩子好，结果孩子却总是不想走上自己为他们设计的道路。
 [name="赫尔曼"]  这种时候，我总是想，我倒好，一个女儿虽然关系不好但是算得上他们口中的大家闺秀，一个女儿完全不需要操心。
@@ -333,14 +333,14 @@
 [name="赫尔曼"]  但我没告诉那位博士，我心里的汐斯塔没了。
 [name="赫尔曼"]  我和芭芭拉约定的汐斯塔，我为她建造的汐斯塔终究要被我抛弃了。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=1)]
-[name="黑"]  这也是......没有办法的事。
+[name="黑"]  这也是……没有办法的事。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  不，他应该是有办法的，他怎么能没办法？
 [name="赫尔曼"]  芭芭拉去世后，我将建设这座城市作为目标，为了这个目标，我什么事都做了。
 [name="赫尔曼"]  现在却因为这样一个简单的理由要抛弃它。
 [name="赫尔曼"]  我是不能接受的，黑。
 [Character(name="char_340_shwaz_2#3",name2="avg_npc_024",focus=1)]
-[name="黑"]  老爷......
+[name="黑"]  老爷……
 [Character(name="char_340_shwaz_2#3",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  我这几天甚至有一个念头。
 [name="赫尔曼"]  既然我不能解决它，那么至少让它解决我，否则我这辈子恐怕都不能安生。
@@ -351,7 +351,7 @@
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  哈哈哈，放心，我既然会说出来，那说明我就不会这么去做了。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......为了小姐，您也不能这么做。
+[name="黑"]  ……为了小姐，您也不能这么做。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  这你就错了。
 [name="赫尔曼"]  如果说我还有一个不能死的理由，那应该是你，黑。
@@ -365,7 +365,7 @@
 [name="赫尔曼"]  只有最腐朽的老头子会将子女拴在身边，希望他们能够永远处在自己的掌控下。
 [name="赫尔曼"]  而我，我宁愿我死的时候你们正在忙于自己的事业，根本没有空来看我。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=1)]
-[name="黑"]  我的事业......
+[name="黑"]  我的事业……
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  你的事业不能是锡兰的事业。
 [name="赫尔曼"]  这片大地上没有这种道理，黑。
@@ -385,7 +385,7 @@
 [name="赫尔曼"]  他们或许会欢迎我的女儿加入，但你不同，黑。
 [name="赫尔曼"]  你知道为什么吗？
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......因为我是跟着小姐去的？
+[name="黑"]  ……因为我是跟着小姐去的？
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  没错，无论什么公司，需要的总是服从命令的人。而你，过去却不是为他们服务的。
 [name="赫尔曼"]  你一定会首先为了锡兰那丫头做事，然后才会服从他们。
@@ -397,22 +397,22 @@
 [name="赫尔曼"]  你是以我另一个女儿的身份去寻找一份新的工作。
 [name="赫尔曼"]  我要你要去寻找你自己的事业，这个事业可以和锡兰或者我有关，但不能是锡兰，也不能是我。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=1)]
-[name="黑"]  我......
+[name="黑"]  我……
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  对锡兰来说，她一直在维多利亚生活，从这次的事情来看，她已经学会了自立。
 [name="赫尔曼"]  但你还没有，黑。
 [name="赫尔曼"]  在这一点上，你可不如她。
 [name="赫尔曼"]  你还没有真正离开过这个家去做一件属于你的事。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=1)]
-[name="黑"]  我有......去复仇......
+[name="黑"]  我有……去复仇……
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  那是你的过去，而不是你的未来。
 [name="赫尔曼"]  所以这一次，才是你真正踏出家门的时候。
 [name="赫尔曼"]  明白了吗？
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=1)]
-[name="黑"]  那......我还能回来吗？
+[name="黑"]  那……我还能回来吗？
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
-[name="赫尔曼"]  ......
+[name="赫尔曼"]  ……
 [Character(fadetime=1,block=true)]
 [dialog]
 [stopmusic(fadetime=1)]
@@ -423,7 +423,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [name="黑"]  老爷，我杀死那些仇人后，还能回来吗？
 [Character(name="avg_npc_024")]
-[name="赫尔曼"]  ......
+[name="赫尔曼"]  ……
 [name="赫尔曼"]  当然可以。
 [stopmusic(fadetime=1)]
 [Dialog]
@@ -443,18 +443,18 @@
 [characteraction(name="right", type="move", xpos=100, ypos=0,fadetime=1, block=true)]
 [delay(time=1.5)]
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
-[name="赫尔曼"]  虽然我也没有冷血到不让自己的女儿进家门......
+[name="赫尔曼"]  虽然我也没有冷血到不让自己的女儿进家门……
 [name="赫尔曼"]  你要是不认真去做这件事，我可能某天就会在这片沙滩上自我了断了。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=1)]
-[name="黑"]  您不要用这种话来威胁我......
+[name="黑"]  您不要用这种话来威胁我……
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  但这确实是我唯一称得上是心事的事了。
 [Character(name="char_340_shwaz_2#5",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......我尽力。
+[name="黑"]  ……我尽力。
 [Character(name="char_340_shwaz_2#5",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  不是尽力，要是你找不到，回来不准你进家门。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......好。
+[name="黑"]  ……好。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  这就对了。
 [Character(name="char_340_shwaz_2",name2="avg_npc_024",focus=-1)]
@@ -485,13 +485,13 @@
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=1)]
 [name="黑"]  好。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
-[name="赫尔曼"]  ......黑啊。
+[name="赫尔曼"]  ……黑啊。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=1)]
 [name="黑"]  我在。
 [Character(name="char_340_shwaz_2#2",name2="avg_npc_024",focus=2)]
 [name="赫尔曼"]  好好活着。
 [Character(name="char_340_shwaz_2#5",name2="avg_npc_024",focus=1)]
-[name="黑"]  ......好。
+[name="黑"]  ……好。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

@@ -21,7 +21,7 @@
 [Background(image="bg_warehouse", screenadapt="coverall", block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=1)]
-[Decision(options="保持冷静！;......;都不要慌张！", values="1;2;3")]
+[Decision(options="保持冷静！;……;都不要慌张！", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [dialog]
 [charslot]
@@ -69,7 +69,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [dialog]
-[Decision(options="......;......你？;你......不是阿米娅！", values="1;2;3")]
+[Decision(options="……;……你？;你……不是阿米娅！", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [dialog]
 [charslot]
@@ -79,26 +79,26 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [dialog]
 [charslot]
-[Decision(options="变形者......", values="1")]
+[Decision(options="变形者……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#1$1",bstart=0.2,bend=0.7,focus="m")]
-[name="阿米娅？"]......为什么？
+[name="阿米娅？"]……为什么？
 [name="阿米娅？"]“魔王”，应该是什么样子？
 [dialog]
 [PlaySound(key="$d_avg_humanchange")]
 [charslot(slot="m",name="avg_npc_426_1#6$1",focus="m",duration=2)]
 [delay(time=2)]
-[name="变形者集群"]......
+[name="变形者集群"]……
 [dialog]
 [charslot(slot="m",name="avg_npc_426_1#6$1",focus="n")]
-[Decision(options="你不再是过去那个你了。;......;我听到了Logos的骨哨声。", values="1;2;3")]
+[Decision(options="你不再是过去那个你了。;……;我听到了Logos的骨哨声。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_426_1#2$1",focus="m")]
 [name="变形者集群"]众魂依然拒斥了我们。
 [charslot(slot="m",name="avg_npc_426_1#2$1",focus="m")]
-[name="变形者集群"]但......变化已经发生，我们的另一部分......已经离我们而去。
+[name="变形者集群"]但……变化已经发生，我们的另一部分……已经离我们而去。
 [charslot(slot="m",name="avg_npc_426_1#2$1",focus="m")]
-[name="变形者集群"]我们需要做出选择......我们不可停滞不前。
+[name="变形者集群"]我们需要做出选择……我们不可停滞不前。
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -123,15 +123,15 @@
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]博士！
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
-[name="变形者集群"]......“魔王”。
+[name="变形者集群"]……“魔王”。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]我们刚才试图扮演你，但是失败了。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......新的变形者。
+[name="阿米娅"]……新的变形者。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]这就是你的选择？你决定真正与我们为敌。
 [charslot(slot="m",name="avg_npc_426_1#4$1",focus="m")]
-[name="变形者集群"]......我们只是做出尝试。
+[name="变形者集群"]……我们只是做出尝试。
 [dialog]
 [dialog]
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
@@ -150,7 +150,7 @@
 [charslot(slot="m",name="avg_npc_426_1#4$1",focus="m")]
 [name="变形者集群"]我们的路到底通向哪里？
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
-[name="阿米娅"]......我曾经询问上一位变形者我该怎么做。他告诉我，我需跨越所有的犹豫和迷茫。
+[name="阿米娅"]……我曾经询问上一位变形者我该怎么做。他告诉我，我需跨越所有的犹豫和迷茫。
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
 [name="阿米娅"]既然新生的你仍称呼我为“魔王”，那么——
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
@@ -158,13 +158,13 @@
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="她总是笑着陪在你身边，这让你偶尔会忘记，她是无可置疑的“魔王”。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n黑色的法术涌动着，你突然发现......阿米娅的身姿甚至称得上威严。",block = true)]
+[Sticker(id="st1", multi = true, text="\n黑色的法术涌动着，你突然发现……阿米娅的身姿甚至称得上威严。",block = true)]
 [Sticker(id="st1")]
 [charslot]
 [Sticker(id="st1", multi = true, text="但你的心中仍有隐约的不安。你的直觉告诉你，这绝不是一次简单的袭击。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n在短暂的接触中，你就已经知道，温德米尔公爵这位常年驻守在边境的女士，并不是位可被低估的对手。",block = true)]
 [Sticker(id="st1", multi = true, text="\n她为了营救自己的女儿，让这艘旗舰与其他护航舰队暂时脱节，这确实称得上是一个机会。",block = true)]
-[Sticker(id="st1", multi = true, text="\n但其他护航舰队的距离并不远，进攻一艘公爵座驾带来的战术优势也有限，除非......这是一次斩首行动。",block = true)]
+[Sticker(id="st1", multi = true, text="\n但其他护航舰队的距离并不远，进攻一艘公爵座驾带来的战术优势也有限，除非……这是一次斩首行动。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="不，单纯杀死一位公爵只会让她的士兵更加愤怒，特雷西斯的布置绝不仅限于此。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n更何况，这艘船上，不仅有公爵的精锐护卫，还有你们。",block = true)]
@@ -264,7 +264,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="r",name="avg_npc_425_1#1$1")]
 [charslot(slot="l",name="avg_npc_425_1#1$1")]
-[name="赦罪师直属卫兵"]......
+[name="赦罪师直属卫兵"]……
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="这些赦罪师的卫兵，阻隔了任何胆敢投向这里的目光。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
@@ -300,7 +300,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_394_1#12$1",focus="m")]
-[name="阿米娅"]别打博士的......主意！
+[name="阿米娅"]别打博士的……主意！
 [dialog]
 [charslot]
 [CameraShake(duration=1, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -322,7 +322,7 @@
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]变形者阁下，那个讨厌的女人就快追过来了，后续就交给您了。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
-[name="变形者集群"]......好吧。
+[name="变形者集群"]……好吧。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]也许，她能砥砺我们。
 [dialog]
@@ -334,12 +334,12 @@
 [CameraShake(duration=2, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_rockfall")]
 [Sticker(id="st1", multi = true, text="\n蓝发的赦罪师抱起阿米娅，你身边的舰体轰然破碎，土石的阶梯悬起，外面，峡谷的岩壁张开巨口。",block = true)]
-[Sticker(id="st1", multi = true, text="\n你见过这种法术。但她明显不是......石翼魔。",block = true)]
+[Sticker(id="st1", multi = true, text="\n你见过这种法术。但她明显不是……石翼魔。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [dialog]
 [charslot]
-[name="阿米娅"]博......士......
+[name="阿米娅"]博……士……
 [dialog]
 [charslot]
 [Decision(options="阿米娅！", values="1")]
@@ -374,12 +374,12 @@
 [Sticker(id="st1", multi = true, text="\n所有人都不厌其烦地警告你，你的身体不适宜战斗。你十足羸弱，连实习干员最初级的体能训练都无法完成。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="凯尔希一度希望你留在战场的后方，仅仅作为一名指挥官为前线下达指令。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n可是凯尔希......同样身体单薄的她，挺身挡在了特雷西斯之前。那一道深深的伤口，仍历历在目。",block = true)]
+[Sticker(id="st1", multi = true, text="\n可是凯尔希……同样身体单薄的她，挺身挡在了特雷西斯之前。那一道深深的伤口，仍历历在目。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="是啊，你应该等待在原地，阿斯卡纶还需要些时间，等到战斗结束，你们可以从头制定对阿米娅的营救计划。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n如同一个冷静的指挥官应该做的那样，接受那些已不可挽回的局面。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="可是......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="可是……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n你感觉到耳鸣。",block = true)]
 [Sticker(id="st1", multi = true, text="\n阿米娅是你的伙伴，你的家人。",block = true)]
 [Sticker(id="st1", multi = true, text="\n你所有的理性与感性，你所有的过往与回忆都在啸叫。",block = true)]
@@ -419,7 +419,7 @@
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="那些笑容，那些泪水，那些艰难的时刻，那些......短暂的欢庆。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="那些笑容，那些泪水，那些艰难的时刻，那些……短暂的欢庆。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n舰体上的裂口就在你的身边。",block = true)]
 [Sticker(id="st1", multi = true, text="\n石质的阶梯已经在碎裂。",block = true)]
 [Sticker(id="st1")]
@@ -490,7 +490,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [playMusic(intro="$mist_intro", key="$mist_loop", volume=0.6,fadetime=3)]
 [delay(time=2)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [dialog]
 [charslot]
@@ -499,7 +499,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [dialog]
-[Decision(options="这......是什么地方......这些石像......", values="1")]
+[Decision(options="这……是什么地方……这些石像……", values="1")]
 [Predicate(references="1")]
 [dialog]
 [charslot]
@@ -514,7 +514,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [dialog]
-[Decision(options="它们......全都栩栩如生......;萨卡兹种族的石像？", values="1;2")]
+[Decision(options="它们……全都栩栩如生……;萨卡兹种族的石像？", values="1;2")]
 [Predicate(references="1;2")]
 [name="？？？"]很顽强，“博士”，我很敬佩你。
 [dialog]
@@ -534,7 +534,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=4, block=true)]
 [delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_653_1#8$1",focus="m",duration=1)]
 [delay(time=2)]
@@ -543,16 +543,16 @@
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]如此孱弱的身体，是如何跟随我来到这里的？我尝试检查你的身体，但是一无所获。
 [charslot(slot="m",name="avg_npc_653_1#2$1",focus="m")]
-[name="萨卢斯"]不......也不是一无所获。
+[name="萨卢斯"]不……也不是一无所获。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
-[name="萨卢斯"]你的构造......很特殊。和我所知的所有样本都不一样，我想要研究你。
+[name="萨卢斯"]你的构造……很特殊。和我所知的所有样本都不一样，我想要研究你。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]“仔细研究”。可惜这里很久之前就被首领废弃了，实验设施不完整，我不想损坏你这么珍贵的实验体。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
-[name="萨卢斯"]还是得带回伦蒂尼姆吗？可是特雷西斯好像对你格外关注......
+[name="萨卢斯"]还是得带回伦蒂尼姆吗？可是特雷西斯好像对你格外关注……
 [dialog]
 [charslot]
-[Decision(options="阿米娅......", values="1")]
+[Decision(options="阿米娅……", values="1")]
 [Predicate(references="1")]
 [dialog]
 [charslot]
@@ -595,14 +595,14 @@
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [PlaySound(key="$d_gen_walk_n")]
 [Sticker(id="st1", multi = true, text="她在向你走来，她在接近你。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n你活动了下藏在背后的手，也许......",block = true)]
+[Sticker(id="st1", multi = true, text="\n你活动了下藏在背后的手，也许……",block = true)]
 [Sticker(id="st1", multi = true, text="\n你的手中只有一枚慌乱中捡起的，勉强算得上锋利的石块。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="理智正在斥责你，它告诉你，这毫无用处。如果你是煌，或者阿斯卡纶，哪怕是泡普卡，也许都有丁点机会。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n你有些后悔。但更多的是坚决。",block = true)]
 [Sticker(id="st1", multi = true, text="\n手中的疼痛让你保持着清醒。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="耐心，等她更近一点......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="耐心，等她更近一点……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=1)]
@@ -621,7 +621,7 @@
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]任何东西都换不来这次机会，都换不来我们数千年的追寻。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
-[name="萨卢斯"]那么......既然她能把王冠强行戴上这个小兔子的脑袋——
+[name="萨卢斯"]那么……既然她能把王冠强行戴上这个小兔子的脑袋——
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]它也应该能被抽取出来才对呀。
 [dialog]
@@ -707,9 +707,9 @@
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.1, block=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_653_1#3$1",focus="m")]
-[name="萨卢斯"]......什么？什么力量能这么彻底地排斥赦罪师的......
+[name="萨卢斯"]……什么？什么力量能这么彻底地排斥赦罪师的……
 [charslot(slot="m",name="avg_npc_653_1#3$1",focus="m")]
-[name="萨卢斯"]是“魔王”......？可她的精神应该受到了巨大的限制......
+[name="萨卢斯"]是“魔王”……？可她的精神应该受到了巨大的限制……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -729,17 +729,17 @@
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]她在潜意识中依然选择保护你，呵。
 [charslot(slot="m",name="avg_npc_653_1#3$1",focus="m")]
-[name="萨卢斯"]......等等。不仅如此？
+[name="萨卢斯"]……等等。不仅如此？
 [charslot(slot="m",name="avg_npc_653_1#3$1",focus="m")]
-[name="萨卢斯"]她和王冠的联系在加深......？
+[name="萨卢斯"]她和王冠的联系在加深……？
 [Dialog]
 [charslot]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
-[Sticker(id="st1", multi = true, text="“......头顶黑冠......将......生灵......回忆。”", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="“……头顶黑冠……将……生灵……回忆。”", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="那是阿米娅的声音吗？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n你有一种强烈的预感。",block = true)]
-[Sticker(id="st1", multi = true, text="\n她......正在远离你。更加彻底地——",block = true)]
+[Sticker(id="st1", multi = true, text="\n她……正在远离你。更加彻底地——",block = true)]
 [Sticker(id="st1")]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -844,7 +844,7 @@
 [dialog]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m",duration=1)]
 [delay(time=2)]
-[name="Logos"]血魔的法术......你们对自己的......“血脉”摆弄到了何种地步？
+[name="Logos"]血魔的法术……你们对自己的……“血脉”摆弄到了何种地步？
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]无法想象，你们是使徒闪灵的血亲。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
@@ -861,7 +861,7 @@
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]听说如今的女妖之主相当叛逆，我真该再小心一点。
 [charslot(slot="m",name="avg_npc_395_1#1$1")]
-[name="阿斯卡纶"]......你比我们预计的更危险。
+[name="阿斯卡纶"]……你比我们预计的更危险。
 [charslot(slot="m",name="avg_npc_395_1#1$1")]
 [name="阿斯卡纶"]没有审讯的余力，情况紧急，杀了她，离开。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
@@ -940,7 +940,7 @@
 [Decision(options="阿米娅的情况怎么样？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......她还在昏迷。“受困于众魂”，尽管赦罪师表露出类似含义，但......
+[name="Logos"]……她还在昏迷。“受困于众魂”，尽管赦罪师表露出类似含义，但……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]至少，她性命无碍。
 [charslot]
@@ -960,9 +960,9 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]让她逃了。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]土石，鲜血，还有......女妖之啸。
+[name="Logos"]土石，鲜血，还有……女妖之啸。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]这就是赦罪师所期望的萨卡兹的模样？执迷于......所谓的血统和巫术？
+[name="Logos"]这就是赦罪师所期望的萨卡兹的模样？执迷于……所谓的血统和巫术？
 [dialog]
 [charslot]
 [Decision(options="他们的目标是“魔王”。", values="1")]
@@ -970,17 +970,17 @@
 [Decision(options="我们必须尽快转告凯尔希和闪灵。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]......等等。
+[name="Logos"]……等等。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]这些氤氲的水汽......
+[name="Logos"]这些氤氲的水汽……
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]......不可能。博士，小心些。我们未必离开了敌人的陷阱。
+[name="Logos"]……不可能。博士，小心些。我们未必离开了敌人的陷阱。
 [dialog]
 [charslot]
 [Decision(options="怎么了？;很少见你的脸色变化。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]这里......不是维多利亚。
+[name="Logos"]这里……不是维多利亚。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]这里是女妖的河谷。
 [Dialog]

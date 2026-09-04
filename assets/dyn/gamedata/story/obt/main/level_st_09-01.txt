@@ -56,7 +56,7 @@
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]按照作战计划，等我信号，你来突入。现在，继续前进。
 [Character(name="avg_npc_229_1#1")]
-[name="号角"]五、四、三......
+[name="号角"]五、四、三……
 [Character(name="avg_npc_229_1#7")]
 [name="号角"]准备——
 [dialog]
@@ -83,17 +83,17 @@
 [Character(name="avg_npc_242")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0.2, r=255, g=255, b=255, fadetime=0.05, block=true)]
-[name="慌张的青年"]咳咳咳......怎、怎么回事？突然好大的烟！
+[name="慌张的青年"]咳咳咳……怎、怎么回事？突然好大的烟！
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Character(name="avg_npc_229_1#7")]
 [name="号角"]不许动！待在原地，举起双手！
 [Character(name="avg_npc_242")]
-[name="慌张的青年"]我、我......你们是......维多利亚士兵？
+[name="慌张的青年"]我、我……你们是……维多利亚士兵？
 [Character(name="avg_222_bpipe_1#2")]
 [name="风笛"]为什么你这样称呼我们？你不也是维多利亚人吗？
 [Character(name="avg_npc_242")]
-[name="慌张的青年"]呃......
+[name="慌张的青年"]呃……
 [Dialog]
 [characteraction(name="middle", type="move", xpos=30, fadetime=0.5,block=false)]
 [delay(time=0.51)]
@@ -161,18 +161,18 @@
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=2)]
 [name="风笛"]啊！虚惊一场嘛。
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=1)]
-[name="号角"]......目标呢？
+[name="号角"]……目标呢？
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#3",focus=2)]
 [name="风笛"]不好意思，撞得有点狠。他一时半会站不起来了。
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#3",focus=1)]
-[name="号角"]那这些箱子里......
+[name="号角"]那这些箱子里……
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#5",focus=2)]
 [name="风笛"]我看看啊，全都是土豆和胡萝卜，还有花椰菜哎！被我压坏了。好可惜，看起来都挺好吃的。
 [Character(name="avg_npc_229_1#5",name2="avg_222_bpipe_1#5",focus=1)]
-[name="号角"]......
+[name="号角"]……
 [name="号角"]不要放松警惕。
 [Character(name="avg_npc_229_1#5",name2="avg_222_bpipe_1#2",focus=2)]
-[name="风笛"]这排，这排，还有这排......都一样。队长，这仓库里全是果蔬粮食啊。
+[name="风笛"]这排，这排，还有这排……都一样。队长，这仓库里全是果蔬粮食啊。
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#2",focus=1)]
 [name="号角"]三角铁，注意周围有没有其他人靠近。
 [name="号角"]双簧管，你和风笛一起搜查仓库。有发现随时给信号。
@@ -184,7 +184,7 @@
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$bodyfalldown3", volume=1)]
 [delay(time=1)]
-[name="慌张的青年"]唔呃......
+[name="慌张的青年"]唔呃……
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]现在，先生，麻烦你回答几个问题。
 [Character(name="avg_npc_242")]
@@ -192,19 +192,19 @@
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]你是小丘郡的居民？
 [Character(name="avg_npc_242")]
-[name="慌张的青年"]是......
+[name="慌张的青年"]是……
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]你听说过鬼魂部队么？
 [Character(name="avg_npc_242")]
-[name="慌张的青年"]鬼......什么？呵、呵呵......部队说的不就是你们这些当兵的吗？
+[name="慌张的青年"]鬼……什么？呵、呵呵……部队说的不就是你们这些当兵的吗？
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="慌张的青年"]把洛瑞、朱利亚和克里斯他们抓走......现在是不是、是不是也轮到我了？
+[name="慌张的青年"]把洛瑞、朱利亚和克里斯他们抓走……现在是不是、是不是也轮到我了？
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]请你冷静一些。
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]听好。有人看到，昨天半夜有一批源石制品被送进了这个仓库。而如今它们不在这里。你需要对此作出解释。
 [Character(name="avg_npc_242")]
-[name="慌张的青年"]解释？你们真想要这个，而不是直接吊死我？我、我......呸。
+[name="慌张的青年"]解释？你们真想要这个，而不是直接吊死我？我、我……呸。
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#4",focus=2)]
 [characteraction(name="right", type="jump", power=10, times=2, fadetime=0.51,block=true)]
 [name="风笛"]嘿！你怎么乱吐唾沫？也太不注意卫生了吧！
@@ -216,7 +216,7 @@
 [name="号角"]好。
 [name="号角"]带走他。他一定知道些什么，只是还不愿意开口。
 [Character(name="avg_npc_242")]
-[name="慌张的青年"]我就说......你们都一样！费尽心思地找我们的错处，折磨我们......你们这些维多利亚的吃人恶兽！
+[name="慌张的青年"]我就说……你们都一样！费尽心思地找我们的错处，折磨我们……你们这些维多利亚的吃人恶兽！
 [Character(name="avg_npc_229_1#1",name2="avg_222_bpipe_1#7",focus=2)]
 [name="风笛"]啊？又来？他觉得把一个维多利亚同胞叫作维多利亚人算是种辱骂吗？真是搞不明白。
 [dialog]
@@ -252,7 +252,7 @@
 [Character(name="avg_npc_241",name2="char_empty",fadetime=0.5)]
 [delay(time=0.51)]
 [Character(name="avg_npc_241",name2="avg_npc_241")]
-[name="维多利亚士兵"]......
+[name="维多利亚士兵"]……
 [Character(name="avg_npc_229_1#2",name2="avg_222_bpipe_1#5",focus=2)]
 [name="风笛"]（队长，我们被包围了。）
 [Character(name="avg_npc_229_1#2",name2="avg_222_bpipe_1#5",focus=1)]
@@ -270,7 +270,7 @@
 [delay(time=2)]
 [name="号角"]丽塔·斯卡曼德罗斯，第七前线步兵营，第二风暴突击队队长。
 [Character(name="avg_npc_238")]
-[name="？？？"]你好，斯卡曼......斯卡曼德罗斯中尉。
+[name="？？？"]你好，斯卡曼……斯卡曼德罗斯中尉。
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]我的名字不算好记。您可以叫我号角，上尉。
 [Character(name="avg_npc_238")]
@@ -282,11 +282,11 @@
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]那您应当能理解事件的严重性。一批数量不少的非法源石制品，两个月前就被人从军用运输路线上窃走，最后消失在这一带。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]咳......
+[name="凯利上尉"]咳……
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]不需要我来提醒您，上尉，这么多武器，加上周边各郡近期失窃的那些，如果全部落到不法分子的手里，受到威胁的可远不止小丘郡。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]......好，谢谢你说这些。我明白。
+[name="凯利上尉"]……好，谢谢你说这些。我明白。
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]我们也很感谢您的配合。
 [Character(name="avg_npc_238")]
@@ -294,15 +294,15 @@
 [Character(name="avg_npc_248")]
 [name="副官希尔"]长官。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]把这个年轻人......这个可疑分子抓回军营。
+[name="凯利上尉"]把这个年轻人……这个可疑分子抓回军营。
 [Character(name="avg_222_bpipe_1#6")]
 [name="风笛"]啊？这人是我们好不容易找到的线索！
 [Character(name="avg_npc_248")]
 [name="副官希尔"]长官，她的矛在妨碍我执行任务。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]呃......
+[name="凯利上尉"]呃……
 [Character(name="avg_npc_229_1#7")]
-[name="号角"]......
+[name="号角"]……
 [dialog]
 [character]
 [Character(name="avg_npc_229_1#2")]
@@ -315,12 +315,12 @@
 [character]
 凯利上尉从口袋里掏出一块手帕，擦了擦额上的汗。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]很高兴你想通了，中尉。你与这位年轻的瓦伊凡女士，还有其他诸位......
+[name="凯利上尉"]很高兴你想通了，中尉。你与这位年轻的瓦伊凡女士，还有其他诸位……
 [name="凯利上尉"]咳咳，你们一路从伦蒂尼姆赶过来，想必路途艰辛，累得不轻。
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]这是我们身为维多利亚军人的职责。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]是啊，没错。接下来，如果你们还想在小丘郡活动的话......
+[name="凯利上尉"]是啊，没错。接下来，如果你们还想在小丘郡活动的话……
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]我们必须继续追查源石制品失窃案，这是来自伦蒂尼姆的命令。我想汉密尔顿上校也会理解。
 [Character(name="avg_npc_238")]
@@ -334,18 +334,18 @@
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]他们没有违反规定。
 [Character(name="avg_222_bpipe_1#4")]
-[name="风笛"]唉......好吧。
+[name="风笛"]唉……好吧。
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]上尉，人是你们的了。按照规定，我们也可以参与审讯——希望您还记得。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]哈、哈哈......这确实符合规定。
+[name="凯利上尉"]哈、哈哈……这确实符合规定。
 [Character(name="avg_npc_248",name2="avg_npc_242",focus=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="慌张的青年"]不、不要......放开我！不要抓我！
+[name="慌张的青年"]不、不要……放开我！不要抓我！
 [Character(name="avg_npc_248",name2="avg_npc_242",focus=1)]
-[name="副官希尔"]呵......
+[name="副官希尔"]呵……
 [Character(name="avg_npc_248",name2="avg_npc_242",focus=2)]
-[name="慌张的青年"]救我......救救我！我什么都没干......我不知道......
+[name="慌张的青年"]救我……救救我！我什么都没干……我不知道……
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="慌张的青年"]啊啊啊！
 [dialog]
@@ -361,17 +361,17 @@
 [character(name="avg_npc_248",name2="char_empty",fadetime=0.5)]
 [delay(time=1)]
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]希尔......
+[name="凯利上尉"]希尔……
 [Character(name="avg_npc_248")]
 [name="副官希尔"]这些塔拉渣滓总是这么聒噪。
 [Character(name="avg_npc_238")]
-[name="凯利上尉"]......带走吧。
+[name="凯利上尉"]……带走吧。
 [Character(name="avg_222_bpipe_1#4")]
 [name="风笛"]欸欸，这人怎么这样啊！
 [Character(name="avg_222_bpipe_1#4")]
-[name="风笛"]（队长，我觉得......那个年轻菲林在向我们求救。他很害怕跟他们走。）
+[name="风笛"]（队长，我觉得……那个年轻菲林在向我们求救。他很害怕跟他们走。）
 [Character(name="avg_npc_229_1#1")]
-[name="号角"]（......）
+[name="号角"]（……）
 [Character(name="avg_npc_229_1#1")]
 [name="号角"]（三角铁？）
 [Character(name="avg_npc_229_1#1",focus=-1)]
@@ -381,11 +381,11 @@
 [Character(name="avg_npc_229_1#1",focus=-1)]
 [name="三角铁"]好。队长，需要向驻军通报吗？
 [Character(name="avg_npc_229_1#1")]
-[name="号角"]......
+[name="号角"]……
 [Character(name="avg_npc_229_1#2")]
 [name="号角"]不用。
 [Character(name="avg_npc_229_1#2")]
-[name="号角"]......注意保护自己。
+[name="号角"]……注意保护自己。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

@@ -16,7 +16,7 @@
 [charslot]
 [name="孑"]老板，刺身都是刚切的，新鲜得很，鳞丸都是手打的，筋道得很，可以后面排队。
 [charslot(slot = "m", name = "avg_272_strong_1#4$1", posfrom = "0,-100", posto = "0,0",duration = 1)]
-[multiline(name="孑")]老......
+[multiline(name="孑")]老……
 [StopSound(channel="a", fadetime=1)]
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
 [multiline(name="孑",end=true)]槐琥？
@@ -28,35 +28,35 @@
 [charslot(slot = "m", name = "avg_243_waaifu_1#2$1")]
 [name="槐琥"]这个点码头都是要下班回家的工人，生意能有景区的好做？
 [charslot(slot = "m", name = "avg_272_strong_1#4$1")]
-[name="孑"]......
+[name="孑"]……
 [charslot(slot = "m", name = "avg_243_waaifu_1#4$1")]
 [name="槐琥"]算了，你也快收摊了吧。我等你一会，一起回去？
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
-[name="孑"]这......倒也不用......
+[name="孑"]这……倒也不用……
 [charslot(slot = "m", name = "avg_243_waaifu_1#1$1")]
 [name="槐琥"]咦，怎么了？
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
-[name="孑"]没、没什么。对了，槐琥......我正好有事情要和你说。
+[name="孑"]没、没什么。对了，槐琥……我正好有事情要和你说。
 [dialog]
 [charslot(slot = "m", name = "avg_272_strong_1#4$1")]
 [delay(time=1.5)]
-[name="孑"]其实，我给你准备了一些毕业礼物......
+[name="孑"]其实，我给你准备了一些毕业礼物……
 [charslot(slot = "m", name = "avg_243_waaifu_1#7$1")]
 [name="槐琥"]毕业礼物？现在？
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
 [name="孑"]你之后有空，可以去我家一趟。门口的地垫下面有备用钥匙。
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
-[name="孑"]卧室里有个大箱子，东西都在里面，还有一些我想写给你的话......
+[name="孑"]卧室里有个大箱子，东西都在里面，还有一些我想写给你的话……
 [charslot(slot = "m", name = "avg_272_strong_1#4$1")]
 [name="孑"]本来早就准备好了，但你毕业后又是去尚蜀又是去玉门的，没几天在龙门，没什么机会送给你。
 [charslot(slot = "m", name = "avg_272_strong_1#4$1")]
-[name="孑"]你一定要记得去取......
+[name="孑"]你一定要记得去取……
 [charslot(slot = "m", name = "avg_243_waaifu_1#2$1")]
-[name="槐琥"]虽然该说谢谢你......可是这也太奇怪了，哪有送人礼物还让人自己去取的？
+[name="槐琥"]虽然该说谢谢你……可是这也太奇怪了，哪有送人礼物还让人自己去取的？
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
-[name="孑"]说的也是......对了，周六不是你生日吗？我请你看电影吧，到时候我把生日礼物一起带过去。
+[name="孑"]说的也是……对了，周六不是你生日吗？我请你看电影吧，到时候我把生日礼物一起带过去。
 [charslot(slot = "m", name = "avg_272_strong_1#4$1")]
-[name="孑"]你赶快回去休息吧，我们明天一早还是在那家商场见......不见不散！
+[name="孑"]你赶快回去休息吧，我们明天一早还是在那家商场见……不见不散！
 [stopmusic(fadetime=1)]
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="？？？"]咳咳，老板。
@@ -70,7 +70,7 @@
 [charslot(duration=2)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_243_waaifu_1#5$1")]
-[name="槐琥"]......
+[name="槐琥"]……
 [charslot(slot = "m", name = "avg_243_waaifu_1#6$1")]
 [name="槐琥"]好吧。
 [dialog]
@@ -101,7 +101,7 @@
 [name="孑"]阿威，别开玩笑了。
 [name="孑"]我不想让她掺和到这件事里头。
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
-[name="阿威"]好吧......你还是不放心。
+[name="阿威"]好吧……你还是不放心。
 [name="阿威"]信不过我？都跟你说了，上下游都打点好了，只要这批货今晚能顺利从码头进来，明天早上就会消失在贫民窟，出不了什么事。
 [name="阿威"]往面前这条江里撒上一把石灰，黑灯瞎火的，谁会注意水面上那点气泡呢？
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="l")]
@@ -122,7 +122,7 @@
 [delay(time=1)]
 [name="阿威"]让那些船和咱们打打招呼。
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
-[name="孑"]......你信不过我？
+[name="孑"]……你信不过我？
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]两码事，孑。让我看看。
 [dialog]
@@ -132,7 +132,7 @@
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]码头最左边那艘船，让它眨两下眼睛。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]......
+[name="孑"]……
 [dialog]
 [charslot(slot = "m", focus="none")]
 [PlaySound(key="$transmission", volume=1)]
@@ -165,7 +165,7 @@
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
 [name="孑"]小嵇，不好意思，帮下手。
 [charslot]
-[name="？？？"]听到了......大晚上的出港......孑哥，我在你那赊的账可就清了哦。
+[name="？？？"]听到了……大晚上的出港……孑哥，我在你那赊的账可就清了哦。
 [dialog]
 [PlaySound(key="$d_avg_flag", volume=1)]
 [delay(time=2.5)]
@@ -225,10 +225,10 @@
 [charslot(slot = "l", name = "avg_272_strong_1#4$1", focus="l")]
 [name="孑"]真是你！你什么时候回来的？你是怎么找到我的？咱们得有、得有十多年没见了吧？你当年离开龙门后去了哪儿？
 [charslot(slot = "m", name = "avg_npc_080", focus="m")]
-[name="阿威"]我刚回来就来找你了。至于怎么找到的......
+[name="阿威"]我刚回来就来找你了。至于怎么找到的……
 [name="阿威"]你别忘了自己之前一个人单挑本地两大帮派，在龙门可是有头有脸的人物了。“不苟言笑的鳞丸话事人”“冷面的孑”什么的。
 [charslot(slot = "l", name = "avg_272_strong_1#2$1", focus="l")]
-[name="孑"]那是个意外......你就别开我玩笑了。
+[name="孑"]那是个意外……你就别开我玩笑了。
 [dialog]
 [charslot]
 男人拿起那个修剪过的易拉罐，路灯在罐身上扑出隐隐的光晕。
@@ -248,13 +248,13 @@
 [charslot(slot = "l", name = "avg_272_strong_1#2$1", focus="l")]
 [name="孑"]是啊，咱们两家挨着，咱俩老是被拿来比，但邻居们都夸你，说你一定会有大出息，反正我可羡慕了。
 [charslot(slot = "l", name = "avg_272_strong_1#4$1", focus="l")]
-[name="孑"]不像我......脑子转得慢，就只能跟着董阿伯学做鳞丸。
+[name="孑"]不像我……脑子转得慢，就只能跟着董阿伯学做鳞丸。
 [charslot(slot = "l", name = "avg_272_strong_1#2$1", focus="l")]
 [name="孑"]对了，你这次回来，还走吗？
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="阿威"]不走了。
 [charslot(slot = "l", name = "avg_272_strong_1#4$1", focus="l")]
-[name="孑"]太好了！你家的房子，我一直有帮忙收拾，挺干净的，重新添置点家具和生活用品就能住进去......
+[name="孑"]太好了！你家的房子，我一直有帮忙收拾，挺干净的，重新添置点家具和生活用品就能住进去……
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="阿威"]嗯。孑，那你得帮我。
 [charslot(slot = "l", name = "avg_272_strong_1#2$1", focus="l")]
@@ -277,7 +277,7 @@
 [name="阿威"]没人知道，我们布置了很久，保证神不知鬼不觉的。
 [name="阿威"]再说了，风险和回报是成正比的。孑，我知道你和水运码头的人很熟。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]......
+[name="孑"]……
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]我离开十多年，龙门对我来说，已经“人生地不熟”了，我需要钱，需要这么一单“生意”，才能回来站稳脚跟。孑，只有你能帮我。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
@@ -296,18 +296,18 @@
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="阿威"]话说回来，孑，你是怎么突然想通了的？
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="l")]
-[name="孑"]......
+[name="孑"]……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_trainwhistle", volume=1)]
 [delay(time=2.5)]
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="none")]
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
-[name="阿威"]十点十分......船要进码头了。
+[name="阿威"]十点十分……船要进码头了。
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="l")]
 [name="孑"]接货的人手呢？早点让他们到码头边准备吧，我们只有十五分钟。
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
-[name="阿威"]......
+[name="阿威"]……
 [name="阿威"]别慌，再等等。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -332,7 +332,7 @@
 [charslot(slot = "r", focus="l")]
 [name="星熊"]鼠王，最近已经不怎么去街上散步了吧？
 [charslot(slot = "r", focus="r")]
-[name="近卫局成员"]听说玉门之行，鼠王受了重伤。你是说......
+[name="近卫局成员"]听说玉门之行，鼠王受了重伤。你是说……
 [charslot(slot = "r", focus="l")]
 [name="星熊"]林雨霞已经不打算去维多利亚了，但她想要成为“紫色的林”，我想应该没那么顺利。
 [name="星熊"]总有些乱操心的家伙，想要替老人家考查他的女儿够不够格坐那把椅子。
@@ -373,9 +373,9 @@
 [name="阿威"]当然。这么大的生意呢，想分一杯羹的帮派可不少。
 [name="阿威"]孑，你看起来很紧张。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]......
+[name="孑"]……
 [charslot(slot = "m", name = "avg_npc_080")]
-[name="阿威"]......
+[name="阿威"]……
 [name="阿威"]你在这儿盯着，我过去看看。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
 [name="孑"]好。
@@ -388,7 +388,7 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]欸......阿威，船在那边，你怎么往码头外面走？
+[name="孑"]欸……阿威，船在那边，你怎么往码头外面走？
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -413,7 +413,7 @@
 [name="近卫局成员"]警官，他们的头儿看起来想溜之大吉！
 [name="近卫局成员"]想得美！
 [charslot(slot = "l", focus="l")]
-[name="星熊"]等等！那人应该只是在试探......
+[name="星熊"]等等！那人应该只是在试探……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_080", duration=1)]
@@ -426,7 +426,7 @@
 [charslot(slot = "m", action="jump", posto="-20,0", power=20, times=1, duration=0.5)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_080")]
-[name="阿威"]......
+[name="阿威"]……
 [Dialog]
 [PlayMusic(intro="$tense_intro", key="$tense_loop", volume=0.6)]
 [charslot(slot = "r", name = "char_015_lmg", duration = 0.5)]
@@ -493,15 +493,15 @@
 [charslot(slot = "m", name = "avg_272_strong_1#3$1", duration=1, isblock=true)]
 [name="孑"]别、别跑了，再跑肺要炸了。
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
-[name="孑"]前面已经没路了......死胡同。
+[name="孑"]前面已经没路了……死胡同。
 [charslot(slot = "m", name = "avg_npc_080")]
-[name="阿威"]......
+[name="阿威"]……
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
 [name="孑"]阿威。
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]你出卖我。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]我......
+[name="孑"]我……
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]我有了好路子，第一时间就想到找你一起。
 [name="阿威"]我知道你看起来有多凶，胆子就有多小，是个老好人，只想做做水产生意，卖卖鳞丸。我理解。拒绝了也就拒绝了，没什么。
@@ -509,7 +509,7 @@
 [name="阿威"]我们从来没有对彼此藏过私，你连董阿伯教的刀功都会跟我分享，我们更没有对彼此撒过谎。
 [name="阿威"]但这次，你从一开始就骗了我。
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
-[name="孑"]阿威，你、你先听我说......
+[name="孑"]阿威，你、你先听我说……
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]你是其他帮派的卧底，还是近卫局的卧底？
 [dialog]
@@ -533,7 +533,7 @@
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
 [name="孑"]如果只是那样，最好不过了。
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#2")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]过来给你提个醒，叉烧帮和卤水帮的那几个头目快放出来了。
 [name="星熊"]虽然只是些乌合之众，但毕竟是帮派分子。你坏过他们的事，让他们在龙门帮派里丢了脸，这帮家伙保不齐会找你的麻烦。
@@ -556,17 +556,17 @@
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]有没有出现什么可疑的人，或者，发生什么可疑的事情？
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]可疑......
+[name="孑"]可疑……
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]打听船只，打听物流管控政策，打听安全检查的程序什么的。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]警官，出了什么事？那个码头是龙门最大的水产品集散地，要是出点状况，水产市场那边大半摊位都没法开张，大伙儿的生意......
+[name="孑"]警官，出了什么事？那个码头是龙门最大的水产品集散地，要是出点状况，水产市场那边大半摊位都没法开张，大伙儿的生意……
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]别紧张，我也只是猜测。
 [name="星熊"]根据线报，有人准备向贫民窟贩运一批违禁药物。
-[name="星熊"]近卫局得到消息有些迟了，那批货物估计已经到了龙门。关口、绕城公路、码头......我们正在盘查所有的物流渠道。
+[name="星熊"]近卫局得到消息有些迟了，那批货物估计已经到了龙门。关口、绕城公路、码头……我们正在盘查所有的物流渠道。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]（他还说什么神不知鬼不觉......）
+[name="孑"]（他还说什么神不知鬼不觉……）
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#3")]
 [name="星熊"]什么？
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
@@ -586,7 +586,7 @@
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]这批货物被审查部门列为特级违禁品，和叉烧帮那些家伙从武器上拆解源石装置出售牟利的行为，性质完全不一样。
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
-[name="星熊"]你要是知道什么......你有我的号码。
+[name="星熊"]你要是知道什么……你有我的号码。
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#5")]
 [name="星熊"]那我就先走了，谢谢你的鳞丸。
 [dialog]
@@ -595,7 +595,7 @@
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
 [delay(time=1.5)]
-[name="孑"]......
+[name="孑"]……
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
 [name="孑"]星熊警官，您留步。
 [dialog]
@@ -608,7 +608,7 @@
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]所以是你主动向近卫局告发我，然后做了他们的卧底？
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
-[name="孑"]我是为了......
+[name="孑"]我是为了……
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="阿威"]完了，这单生意，我十多年的积蓄都砸了进去，全完了！
 [name="阿威"]好啊，真好。
@@ -625,11 +625,11 @@
 [charslot(slot = "l", name = "avg_272_strong_1#1$1",afrom=0, ato=1, duration = 0.5, isblock=true)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_080", focus="m")]
-[name="阿威"]......
+[name="阿威"]……
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="l")]
 [name="孑"]阿威，我不能让你就这么走了。
 [charslot(slot = "m", name = "avg_npc_080", focus="m")]
-[name="阿威"]......
+[name="阿威"]……
 [name="阿威"]你还要干什么？立了头功还不够，还要把主犯捉拿归案？
 [name="阿威"]他们最后会给你颁发“优秀市民”奖吗？
 [dialog]
@@ -642,7 +642,7 @@
 [charslot(slot = "m", name = "avg_npc_080", focus="m")]
 [name="阿威"]孑，让开。
 [charslot(slot = "l", name = "avg_272_strong_1#3$1", focus="l")]
-[name="孑"]你的计划已经失败了，本地那些收货的黑帮不会放过你的，他们心狠手辣......
+[name="孑"]你的计划已经失败了，本地那些收货的黑帮不会放过你的，他们心狠手辣……
 [charslot(slot = "m", name = "avg_npc_080", focus="m")]
 [name="阿威"]所以我要马上离开龙门。
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="l")]
@@ -652,7 +652,7 @@
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="l")]
 [name="孑"]你的武器，刚刚在码头的时候，我已经偷偷拿走了。
 [charslot(slot = "m", name = "avg_npc_080", focus="m")]
-[name="阿威"]......
+[name="阿威"]……
 [charslot(slot = "l", name = "avg_272_strong_1#1$1", focus="l")]
 [name="孑"]你还记不记得，小时候我们没有过隔夜仇，因为每次闹矛盾，到最后都可以用同一个方式来解决。
 [charslot(slot = "l", name = "avg_272_strong_1#3$1", focus="l")]
@@ -678,17 +678,17 @@
 [charslot(slot = "m", name = "char_136_hsguma_ns_1")]
 [name="星熊"]没错。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]大概是......什么样的？
+[name="孑"]大概是……什么样的？
 [charslot(slot = "m", name = "char_136_hsguma_ns_1")]
 [name="星熊"]上次那些家伙，只是想要倒卖粗制滥造的源石制品，而且半路上就被你搅黄了，加上认罪态度良好，最后都从轻处理了。
 [name="星熊"]即便如此，几个头目也被判了两年监禁。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]......
+[name="孑"]……
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]但这次，如果我们的情报无误，他们走私的是特级致幻药物，名义上是很难搞到的“止疼药”和“镇静剂”，见效奇快。
 [name="星熊"]但不会配备使用说明书，也就不会告知使用者后遗症——里面含有的微量源石提纯物会加速矿石病的恶化。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]这、这......这是黑心钱哪。
+[name="孑"]这、这……这是黑心钱哪。
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]这种药物会让患者产生严重的药物依赖。
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#2")]
@@ -697,11 +697,11 @@
 [name="星熊"]所以这类走私一直是近卫局严查的对象，哪怕是帮派分子，也极少碰这类生意。
 [name="星熊"]首恶分子，再怎么样，也要在铁窗内度过余生。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]这么严重的罪责......
+[name="孑"]这么严重的罪责……
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
 [name="孑"]那“既遂”和“未遂”在刑罚上会有差别吗？主动投案呢？会不会从轻发落？
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#3")]
-[name="星熊"]你从哪儿学到的这些词......
+[name="星熊"]你从哪儿学到的这些词……
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
 [name="孑"]警官，您、您先告诉我。
 [dialog]
@@ -710,7 +710,7 @@
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
 [name="星熊"]但哪怕他侥幸逃走，只要在近卫局留下了记录，终生都将不被允许进入龙门。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]再也不能回到龙门......
+[name="孑"]再也不能回到龙门……
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#2")]
 [name="星熊"]好了，孑，你的问题我都回答了。
 [charslot(slot = "m", name = "char_136_hsguma_ns_1#4")]
@@ -759,8 +759,8 @@
 闷响声有规律地响起，两个男人在小巷的深处交换拳头。
 像是某种愚蠢的回合制游戏。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]以前的你会拿易拉罐做天线，拿易拉罐做蚊香盘，拿易拉罐做土通讯终端......
-[name="孑"]你是“易拉罐魔术师”，你是我的偶像，你那么聪明那么有出息......
+[name="孑"]以前的你会拿易拉罐做天线，拿易拉罐做蚊香盘，拿易拉罐做土通讯终端……
+[name="孑"]你是“易拉罐魔术师”，你是我的偶像，你那么聪明那么有出息……
 [charslot(slot = "m", name = "avg_272_strong_1#3$1")]
 [name="孑"]你不应该走这样的路！
 [dialog]
@@ -779,8 +779,8 @@
 [charslot(slot = "m", action="jump", posto="150,0", power=20, times=1, duration=0.5)]
 [Delay(time=2)]
 [name="阿威"]你晓不晓得我当年为什么突然离开了龙门？你只听说我们家突然遭受变故，但具体发生了什么，一无所知吧？
-[name="阿威"]一次可笑的帮派火并，两拨人因为抢地盘大打出手，逼得上面派人清理现场......
-[name="阿威"]我父母真的只是碰巧经过啊，我们家和那两拨人都没有关系。凭什么就......
+[name="阿威"]一次可笑的帮派火并，两拨人因为抢地盘大打出手，逼得上面派人清理现场……
+[name="阿威"]我父母真的只是碰巧经过啊，我们家和那两拨人都没有关系。凭什么就……
 [name="阿威"]你猜猜当时是谁负责清理现场？为什么我连和你的最后一面都没有见就离开了龙门？
 [dialog]
 [PlaySound(key="$rungeneral", volume=1, loop=true, channel="a")]
@@ -797,7 +797,7 @@
 [charslot(slot = "m", action="jump", posto="-150,0", power=20, times=1, duration=0.5)]
 [Delay(time=2)]
 [charslot(slot = "m", focus="m")]
-[name="孑"]......董阿伯。
+[name="孑"]……董阿伯。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_080", focus="m")]
 [name="阿威"]什么*龙门粗口*的“易拉罐魔术师”！
@@ -841,14 +841,14 @@
 [name="孑"]不一定要有很多钱，不一定要有很高的地位。
 [dialog]
 [Delay(time=1.5)]
-[name="孑"]为什么非要说龙门变了？贫民窟、码头、公园、水产市场......这里有这么多人，他们都没想着去害人，他们一直都在努力地讨生活。
+[name="孑"]为什么非要说龙门变了？贫民窟、码头、公园、水产市场……这里有这么多人，他们都没想着去害人，他们一直都在努力地讨生活。
 [name="孑"]你那么有出息，你凭什么不可以？
 [name="孑"]我也可以帮你的。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_080")]
-[name="阿威"]......
+[name="阿威"]……
 [charslot]
-[name="孑"]我累了，我、我说不动了......
+[name="孑"]我累了，我、我说不动了……
 [dialog]
 [PlaySound(key="$d_avg_clothmovement",volume=1)] 
 [Delay(time=2)]
@@ -920,13 +920,13 @@
 [charslot(slot="r",name="avg_4080_lin_1#10$1",focus="r")]
 [name="林雨霞"]辛苦了，鬼姐。
 [charslot(slot = "l", name = "char_136_hsguma_ns_1",focus="l")]
-[name="星熊"]你那边......
+[name="星熊"]你那边……
 [charslot(slot="r",name="avg_4080_lin_1#12$1",focus="r")]
 [name="林雨霞"]截断了上游，不等于下游没有罪责。贫民窟等着分销的那些家伙，我手里早就有了一份名单。来见你之前，我刚刚一一拜访过他们。
 [charslot(slot="r",name="avg_4080_lin_1#10$1",focus="r")]
 [name="林雨霞"]打扫房间之类的家务事，就不麻烦近卫局了。
 [charslot(slot = "l", name = "char_136_hsguma_ns_1#4",focus="l")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "l", name = "char_136_hsguma_ns_1#5",focus="l")]
 [name="星熊"]不愧是“紫色的林”。
 [charslot(slot="r",name="avg_4080_lin_1#2$1",focus="r")]
@@ -944,9 +944,9 @@
 [charslot(slot="r",name="avg_4080_lin_1#11$1",focus="r")]
 [name="林雨霞"]这种级别的致幻药物，除了贫民窟，龙门愿意接手的势力也不会少。能在最开始全部收掉，当然最保险不过。
 [charslot(slot="r",name="avg_4080_lin_1#7$1",focus="r")]
-[name="林雨霞"]但孑毕竟是个普通人。爸不希望董阿伯这个年纪......
+[name="林雨霞"]但孑毕竟是个普通人。爸不希望董阿伯这个年纪……
 [charslot(slot = "l", name = "char_136_hsguma_ns_1#5",focus="l")]
-[name="星熊"]我明白，这次情况特殊......近卫局会保护好自己的线人，请放心。
+[name="星熊"]我明白，这次情况特殊……近卫局会保护好自己的线人，请放心。
 [dialog]
 [delay(time=1.5)]
 [charslot(slot = "l", name = "char_136_hsguma_ns_1",focus="l")]
@@ -982,7 +982,7 @@
 [charslot(slot = "m", name = "avg_243_waaifu_1#1$1")]
 [name="槐琥"]对了，星熊警官让你休息好之后去趟近卫局做一下笔录。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]......好。
+[name="孑"]……好。
 [charslot(slot = "m", name = "avg_243_waaifu_1#2$1")]
 [name="槐琥"]你说你逞什么英雄？
 [name="槐琥"]还卧底，这次的走私犯可都是货真价实的狠角色，你还以为是上次叉烧帮那些小混混啊，有个近卫局成员都在抓捕的过程中受伤了。
@@ -991,19 +991,19 @@
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
 [name="孑"]我知道。
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]（所以才不想连累......）
+[name="孑"]（所以才不想连累……）
 [charslot(slot = "m", name = "avg_243_waaifu_1#2$1")]
 [name="槐琥"]你在嘀咕什么？
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]没什么......对了，你不是去帮鲤先生做事了吗，怎么会到这儿来？
+[name="孑"]没什么……对了，你不是去帮鲤先生做事了吗，怎么会到这儿来？
 [charslot(slot = "m", name = "avg_243_waaifu_1#5$1")]
 [name="槐琥"]你刚刚胡言乱语的，我总觉得不对劲。
 [charslot(slot = "m", name = "avg_243_waaifu_1#1$1")]
 [name="槐琥"]我还没问你呢，你之前说要给我的毕业礼物，还有什么写的话，到底是什么意思？
 [charslot(slot = "m", name = "avg_272_strong_1#1$1")]
-[name="孑"]我确实是给你准备了毕业礼物来着......
+[name="孑"]我确实是给你准备了毕业礼物来着……
 [charslot(slot = "m", name = "avg_272_strong_1#2$1")]
-[name="孑"]你怎么就认定是胡言乱语了......
+[name="孑"]你怎么就认定是胡言乱语了……
 [charslot(slot = "m", name = "avg_243_waaifu_1#9$1")]
 [name="槐琥"]我指的不是毕业礼物，是生日。
 [charslot(slot = "m", name = "avg_243_waaifu_1#4$1")]

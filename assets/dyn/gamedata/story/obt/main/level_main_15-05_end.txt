@@ -14,10 +14,10 @@
 [name="阿米娅"]博士，Mantra女士她们也已经回到了本舰。
 [charslot(slot="r",name="avg_1037_amiya3_1#6$2",focus="r")]
 [name="阿米娅"]你的猜测没错，的确有人在针对我们的任务。
-[name="阿米娅"]......这个仪器......就来自阿戈尔？
+[name="阿米娅"]……这个仪器……就来自阿戈尔？
 [charslot]
 [charslot(slot="m",name="avg_npc_1401_1#1$1",focus="n")]
-[name="损坏的“小帮手”"]......
+[name="损坏的“小帮手”"]……
 [charslot]
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_1037_amiya3_1#1$2",focus="r")]
@@ -45,10 +45,10 @@
 [name="阿米娅"]凯尔希医生，我清楚部分执政官并非完全认可克莱门莎的理念，但这能说明不同地区同时发生的意外都是阿戈尔所为吗？
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
 [name="凯尔希"]不，我更倾向于有人利用了阿戈尔内部的矛盾。
-[name="凯尔希"]靠近伊比利亚边境的“陆巡队”，雷姆必拓交接的开采舰，卡兹戴尔边境的佣兵......
+[name="凯尔希"]靠近伊比利亚边境的“陆巡队”，雷姆必拓交接的开采舰，卡兹戴尔边境的佣兵……
 [name="凯尔希"]对方的行动布置涉及范围之广，对罗德岛机密任务了解之深，都足以说明始作俑者绝非阿戈尔。
 [charslot(slot="r",name="avg_1037_amiya3_1#6$2",focus="r")]
-[name="阿米娅"]......但罗德岛内部不可能有人叛变。
+[name="阿米娅"]……但罗德岛内部不可能有人叛变。
 [dialog]
 [charslot(slot="m",focus="n")]
 [Decision(options="我也并不相信。", values="1")]
@@ -57,7 +57,7 @@
 [name="凯尔希"]博士，除我们之外，你认为罗德岛上还有其他人能做到这一点吗？
 [dialog]
 [charslot(slot="m",focus="n")]
-[Decision(options="......;没有人。", values="1;2")]
+[Decision(options="……;没有人。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
 [name="凯尔希"]是啊，没有人。
@@ -83,7 +83,7 @@
 [name="阿米娅"]我想要试试。
 [Predicate(references="2")]
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
-[name="凯尔希"]......在局势尚未明朗的当下，我也无法提出更加行之有效的手段。
+[name="凯尔希"]……在局势尚未明朗的当下，我也无法提出更加行之有效的手段。
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
 [name="凯尔希"]但贸然深入“文明的存续”，结果并不一定完全如我们所愿，博士。
 [Predicate(references="1;2")]
@@ -100,7 +100,7 @@
 [Decision(options="“文明的存续”能否连接我的思维？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="r",name="avg_1037_amiya3_1#6$2",focus="r")]
-[name="阿米娅"]......博士，这太危险了，没人做过这种事！我同意凯尔希医生的意见，你不应冒险。
+[name="阿米娅"]……博士，这太危险了，没人做过这种事！我同意凯尔希医生的意见，你不应冒险。
 [charslot(slot="m",focus="n")]
 凯尔希想起了那位挚友曾经的经历，那是她并不愿意去回想的经历。
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
@@ -108,16 +108,16 @@
 [charslot(slot="l",name="avg_003_kalts_1#2$1",focus="l")]
 [name="凯尔希"]她做到过。
 [charslot(slot="r",name="avg_1037_amiya3_1#5$2",focus="r")]
-[name="阿米娅"]......？！
+[name="阿米娅"]……？！
 [dialog]
 [charslot(slot="m",focus="n")]
-[Decision(options="......;特蕾西娅。", values="1;2")]
+[Decision(options="……;特蕾西娅。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="l",name="avg_003_kalts_1#5$1",focus="l")]
 [name="凯尔希"]博士，你的思维极其复杂。这其中的风险不仅来自于你自身，阿米娅同样可能面对完全未知的冲击。
 [name="凯尔希"]我不会赞同这个荒唐的决定。
 [charslot(slot="r",name="avg_1037_amiya3_1#1$2",focus="r")]
-[name="阿米娅"]凯尔希医生......
+[name="阿米娅"]凯尔希医生……
 [charslot(slot="l",name="avg_003_kalts_1#5$1",focus="l")]
 [name="凯尔希"]阿米娅，这是我的意见。我无法干涉你和博士对于这件事的最终判断，但我希望你们理解我的态度。
 [dialog]
@@ -129,7 +129,7 @@
 [Decision(options="阿米娅，我可以完全向你敞开我的思维。;不必强求直接成功，我们可以多尝试几次。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="r",name="avg_1037_amiya3_1#1$2",focus="r")]
-[name="阿米娅"]可凯尔希医生......
+[name="阿米娅"]可凯尔希医生……
 [dialog]
 [charslot(slot="m",focus="n")]
 [Decision(options="结束之后，我们一起去找她道歉。;她反对的并非这个计划本身。", values="1;2")]
@@ -178,12 +178,12 @@
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
 [name="凯尔希"]是的，想必阿米娅和博士已经开始准备深入“文明的存续”。
 [name="凯尔希"]我不会强制干涉阿米娅的决定，她已经足够成熟到作出最正确的判断。
-[name="凯尔希"]博士......博士也已经大不一样。
+[name="凯尔希"]博士……博士也已经大不一样。
 [name="凯尔希"]也许是我的内心依旧保留了一丝侥幸。也许，这一次的结局真的会不一样。
 [charslot(slot="r",name="npc_10002",focus="r")]
 [name="Mon3tr"]（低落地俯身）
 [charslot(slot="l",name="avg_003_kalts_1#1$1",focus="l")]
-[name="凯尔希"]......的确，理智仍在不断警告我。
+[name="凯尔希"]……的确，理智仍在不断警告我。
 [name="凯尔希"]借助“文明的存续”再次触碰博士的思维绝非稳妥的决定，但阿米娅是对的，留给我们选择的余地并不多。
 [playsound(key="$Mon3tr_n")]
 [charslot(slot="r",name="npc_10002",focus="r")]
@@ -204,7 +204,7 @@
 [Delay(time=3)]
 Mon3tr能感知到凯尔希此时哪怕最细微的情绪。
 自凯尔希再度苏醒以来，Mon3tr便从未离开过她的身边。
-Mon3tr是她的同行者，是她亲自引导的共生体......更是她自己。
+Mon3tr是她的同行者，是她亲自引导的共生体……更是她自己。
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -227,13 +227,13 @@ Mon3tr是她的同行者，是她亲自引导的共生体......更是她自己�
 [name="Mon3tr"]（困惑地挪动）
 [name="Mon3tr"]（尾巴缠上凯尔希）
 [name="凯尔希"]我需要保护阿米娅和博士。
-[name="凯尔希"]保护真正的变数......那是连我都无法完全看清的未来。
+[name="凯尔希"]保护真正的变数……那是连我都无法完全看清的未来。
 [name="凯尔希"]我也曾与“文明的存续”有过沟通，但终究无法突破自我的限制。
 [name="凯尔希"]但阿米娅可以，我和特蕾西娅都很清楚。
-[name="凯尔希"]我确信她可以从那些庞杂的信息中找到关键点，有特蕾西娅的祝福......她可以做到。
+[name="凯尔希"]我确信她可以从那些庞杂的信息中找到关键点，有特蕾西娅的祝福……她可以做到。
 [name="凯尔希"]毕竟，她可是阿米娅。我亲眼看着成长起来的领袖。
 [name="凯尔希"]沿着我过去的足迹，她或许能找到那个人留下的只言片语。
-[name="凯尔希"]在源石尚未成形的过去，在那个天才们争相与整个时代雄辩的年代，那些以歌颂并拯救生命为起点的奇思妙想从未消失......
+[name="凯尔希"]在源石尚未成形的过去，在那个天才们争相与整个时代雄辩的年代，那些以歌颂并拯救生命为起点的奇思妙想从未消失……
 [name="凯尔希"]希望从未断绝，Mon3tr，泰拉依旧有机会延续那渺茫的可能性——
 [playsound(key="$Mon3tr_n")]
 [name="Mon3tr"]（激动的吼叫）
@@ -246,7 +246,7 @@ Mon3tr是她的同行者，是她亲自引导的共生体......更是她自己�
 [name="Mon3tr"]（兴奋的嘶吼）
 [name="凯尔希"]来吧，Mon3tr，眼下我们的工作还有很多。
 [name="凯尔希"]若威胁真正降临，我得确保罗德岛成为泰拉对抗危机的最前哨。
-[name="凯尔希"]......我会是你们最后的保险。
+[name="凯尔希"]……我会是你们最后的保险。
 [Dialog]
 [Delay(time=1)]
 [StopSound(channel="c", fadetime=2)]

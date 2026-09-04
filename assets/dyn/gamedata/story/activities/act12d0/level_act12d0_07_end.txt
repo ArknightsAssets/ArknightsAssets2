@@ -28,31 +28,31 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="char_2013_cerber_1")]
 [name="刻俄柏"]  啊，是嘉维尔！还有大家！
-[Decision(options="早上好。;......;（爆栗）",values="1;2;3")]
+[Decision(options="早上好。;……;（爆栗）",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_2013_cerber_1")]
 [name="刻俄柏"]  诶嘿嘿，博士早上好。
 [Predicate(references="2")]
 [Character(name="char_2013_cerber_1")]
 [name="刻俄柏"]  唔，博士的脸色有点可怕，是我做错了什么吗？
-[name="刻俄柏"]  博士不要生气好不好......
+[name="刻俄柏"]  博士不要生气好不好……
 [Predicate(references="3")]
 [Character(name="char_2013_cerber_1")]
 [name="刻俄柏"]  呜呜呜，头好痛，博士。
-[name="刻俄柏"]  为什么突然敲我的头呀......
+[name="刻俄柏"]  为什么突然敲我的头呀……
 [Predicate(references="1;2;3")]
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=1)]
 [name="嘉维尔"]  精神看起来至少恢复正常了。
 [name="嘉维尔"]  小刻，你还记得你怎么来到这里的吗？
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=2)]
-[name="刻俄柏"]  ......唔，忘了！
+[name="刻俄柏"]  ……唔，忘了！
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=1)]
 [name="嘉维尔"]  好吧。
 [name="嘉维尔"]  来，你先躺下，我给你看看身体还有没有出问题，还有下次别乱跑了。
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=2)]
 [name="刻俄柏"]  好~咦，这里是哪里啊？
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=1)]
-[name="嘉维尔"]  这里是......啧，不知道怎么给你解释，反正躺好就对了！
+[name="嘉维尔"]  这里是……啧，不知道怎么给你解释，反正躺好就对了！
 [Character(name="char_187_ccheal_1", name2="char_2013_cerber_1",focus=2)]
 [name="刻俄柏"]  哦——
 [Dialog]
@@ -64,7 +64,7 @@
 [Character(name="char_187_ccheal_1#2", name2="char_416_zumama_1#2", focus=1)]
 [name="嘉维尔"]  啧，给你解释也很麻烦，总之你先等等。
 [Character(name="char_187_ccheal_1#2", name2="char_416_zumama_1#2", focus=2)]
-[name="森蚺"]  ......
+[name="森蚺"]  ……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -99,7 +99,7 @@
 [Character(name="char_187_ccheal_1#4", name2="char_416_zumama_1", focus=2)]
 [name="森蚺"]  是。
 [Character(name="char_187_ccheal_1#4", name2="char_416_zumama_1", focus=1)]
-[name="嘉维尔"]  ......啧。
+[name="嘉维尔"]  ……啧。
 [Dialog]
 [Character]
 [PlaySound(key="$fightgeneral")] 
@@ -136,8 +136,8 @@
 [stopmusic(fadetime=2)]
 [Character(name="char_187_ccheal_1#2", name2="avg_npc_070", focus=1)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="嘉维尔"]  这么重要的事......！
-[Decision(options="你自己说的，矿石病在这里不被重视。;......;你确实没问。",values="1;2;3")]
+[name="嘉维尔"]  这么重要的事……！
+[Decision(options="你自己说的，矿石病在这里不被重视。;……;你确实没问。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  啧，好吧。
@@ -149,15 +149,15 @@
 [name="嘉维尔"]  啧，博士，连你也拆我的台！
 [Predicate(references="1;2;3")]
 [Character(name="char_416_zumama_1")]
-[name="森蚺"]  而且......
+[name="森蚺"]  而且……
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  喂，你干嘛突然脱衣服？
-[name="嘉维尔"]  嗯？！你的身体......
+[name="嘉维尔"]  嗯？！你的身体……
 [Character(name="char_187_ccheal_1#2", name2="char_416_zumama_1", focus=2)]
 [name="森蚺"]  我从小就一直在矿区里到处跑，会得石头病也是很正常的事。
 [name="森蚺"]  但是，我也敢说，没有人比我更了解矿区里哪里有那种会让人得病的矿石。
 [Character(name="char_187_ccheal_1#3", name2="char_416_zumama_1", focus=1)]
-[name="嘉维尔"]  ......
+[name="嘉维尔"]  ……
 [name="嘉维尔"]  这样啊。
 [name="嘉维尔"]  好吧，那是我错怪你了，抱歉哈，祖玛玛。
 [Character(name="char_187_ccheal_1#3", name2="char_416_zumama_1#5", focus=2)]
@@ -168,7 +168,7 @@
 [Character(name="char_337_utage_summer_1#3", name2="char_201_moeshd_summer", focus=2)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="可颂"]  别期待这种事啦！
-[Decision(options="嘉维尔不是那种人。;......;可惜。",values="1;2;3")]
+[Decision(options="嘉维尔不是那种人。;……;可惜。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_187_ccheal_1", name2="char_416_zumama_1", focus=1)]
 [name="嘉维尔"]  那我们来聊聊另一件事吧。
@@ -207,11 +207,11 @@
 [Character]
 [name="大祭司"]  嗨，你们好！
 [Character(name="char_416_zumama_1#6")]
-[name="森蚺"]  ......大祭司，你怎么这就把大丑开出来了。
+[name="森蚺"]  ……大祭司，你怎么这就把大丑开出来了。
 [Character]
 [name="大祭司"]  什么，不是要和嘉维尔动手吗？不用吗？不用我就开回去了，我还要测试引擎呢。
 [Character(name="char_416_zumama_1")]
-[name="森蚺"]  ......要，但不是现在，我还有话要说。
+[name="森蚺"]  ……要，但不是现在，我还有话要说。
 [Character]
 [name="大祭司"]  噢，好吧，那你先说，要打了喊我！
 [Character(name="char_416_zumama_1")]

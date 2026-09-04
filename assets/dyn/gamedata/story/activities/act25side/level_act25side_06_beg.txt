@@ -11,7 +11,7 @@
 [Delay(time=1.5)]
 [PlaySound(key="$d_avg_grass")]
 [Delay(time=1)]
-花......好漂亮呀。
+花……好漂亮呀。
 你又来看我了吗？今天的花我不认识，你能不能教我怎么拼？
 [dialog]
 [charslot(slot="m",name="avg_npc_894_1#1$1",duration=1.5,bstart=0.9,bend=1,afrom=0,ato=0.7)]
@@ -40,7 +40,7 @@
 [CameraShake(duration=0.5, xstrength=25, ystrength=6, vibrato=5, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_clothmovement",volume=0.5)]
 [Delay(time=1.5)]
-像......这样吗？
+像……这样吗？
 [name="熟悉的影子"]是的，孩子。你做得很好。你以后还会做得更好。
 以后？是不是长大以后？我也会长得跟你一样高，一样有力气，变成很厉害的科学家？
 [name="熟悉的影子"]不，你会比我更厉害，厉害得多。
@@ -54,14 +54,14 @@
 他们说那里有一座很好看的植物园，就和你念的那些童话故事书里写的一样，你每次带来抚养院的花都是从那里采的。
 [name="熟悉的影子"]是的。
 [name="熟悉的影子"]进过那座植物园的，都会变成最被命运宠爱的孩子。
-走廊的尽头是......
+走廊的尽头是……
 [dialog]
 [MusicVolume(volume=0.2, fadetime=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Subtitle(text="迷迭香，迷迭香！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="这扇门为什么打不开了？缪尔赛思，能不能想想办法，我们得跟上去！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="迷迭香......Rosmontis。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="迷迭香……Rosmontis。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="不要过去，至少不要一个人过去。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -69,7 +69,7 @@
 [Delay(time=0.5)]
 迷迭香。
 Rosmontis是谁？
-纳西莎......又是谁？
+纳西莎……又是谁？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -220,7 +220,7 @@ Rosmontis是谁？
 [name="霍尔海雅"]要不然，先杀掉你吧？
 [name="霍尔海雅"]杀掉你的话，是不是就能拖更长时间？
 [charslot(slot="m",name="avg_npc_899_1#7$1",focus="m")]
-[name="布莱克"]你......叛徒！
+[name="布莱克"]你……叛徒！
 [charslot(slot="m",name="avg_npc_536_1#1$1")]
 [name="霍尔海雅"]叛徒？我们之前就是敌人，我背叛了谁？
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
@@ -231,9 +231,9 @@ Rosmontis是谁？
 [charslot(slot="m",name="avg_npc_536_1#3$1")]
 [name="霍尔海雅"]我是不是早该这么做了？你可是险些杀死我们敬爱的副总统的人，拿下你的头颅，说不定副总统先生还会给我一个额外赦免。
 [charslot(slot="m",name="avg_npc_899_1#2$1",focus="m")]
-[name="布莱克"]各单位......注意......
+[name="布莱克"]各单位……注意……
 [charslot(slot="m",name="avg_npc_899_1#3$1",focus="m")]
-[name="布莱克"]全力......进攻！
+[name="布莱克"]全力……进攻！
 [musicvolume(volume=0.3, fadetime=1)]
 [charslot(slot="m",name="avg_npc_536_1#1$1")]
 [name="霍尔海雅"]你想当烈士。
@@ -350,7 +350,7 @@ Rosmontis是谁？
 [charslot(slot = "m", action="shake",random=true, power=20, times=100,isblock=true,duration=0.5)]
 [delay(time=0.5)]
 [charslot(slot = "m",name="avg_npc_536_1#9$1",focus="m")]
-[name="霍尔海雅"]别误会，我只是......好奇。
+[name="霍尔海雅"]别误会，我只是……好奇。
 [name="霍尔海雅"]我知道千万种死法，横亘成百上千年的历史。可我自己只能体验一次死亡——
 [charslot(slot = "m",name="avg_npc_536_1#9$1",focus="m")]
 [name="霍尔海雅"]一个突兀的句号，分隔了累积的记忆与书写未来的可能性。那会是什么感觉呢？
@@ -421,22 +421,22 @@ Rosmontis是谁？
 [delay(time=1.5)]
 [name="霍尔海雅"]哎呀，我输了呢。
 [name="霍尔海雅"]就这样吧，塞雷娅。在这里干脆利落地杀掉我。或者没那么干脆也可以。反正只有一次机会，我愿意再多体验一会这特别的滋味。
-[name="塞雷娅"]......
-[name="塞雷娅"]真是个......疯子。
+[name="塞雷娅"]……
+[name="塞雷娅"]真是个……疯子。
 [name="霍尔海雅"]那你呢？你该不会依然认定自己的所作所为全部发自理性吧？
 [name="霍尔海雅"]塞雷娅，你总想更高效地制止灾难发生，那你已经站在门口了，为什么不和军方合作？
 [name="塞雷娅"]军队才是最常把灾难扩大化的人。
 [name="霍尔海雅"]那梅兰德呢？
 [name="霍尔海雅"]在过去五年里，梅兰德始终是你坚定的盟友。他们做出了与军方合作的判断。
-[name="霍尔海雅"]哦，对了......还有那个可爱的黎博利。
+[name="霍尔海雅"]哦，对了……还有那个可爱的黎博利。
 [name="霍尔海雅"]褐色的小鸟，她是那样地富有道德感和同情心。我刚刚还在军方的飞行器里看见她了呢。
-[name="塞雷娅"]......
+[name="塞雷娅"]……
 [name="霍尔海雅"]这样的表情原来也会出现在你的脸上。
-[name="霍尔海雅"]你的手越来越无力了。所有事情都在脱离掌控，就连自己的心也一样......类似感受对像你这样的人来说，是不是特别陌生？
+[name="霍尔海雅"]你的手越来越无力了。所有事情都在脱离掌控，就连自己的心也一样……类似感受对像你这样的人来说，是不是特别陌生？
 [name="塞雷娅"]你的挑衅毫无意义。
 [name="霍尔海雅"]啧啧，可怜的塞雷娅，你的眼睛，你的手，你全身上下都不是这么说的。
 [name="霍尔海雅"]你真的不想立刻马上现在就飞奔到那边的实验室去吗？
-[name="霍尔海雅"]说不定......已经迟了哦？
+[name="霍尔海雅"]说不定……已经迟了哦？
 [Dialog]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=1.5, block=true)]
 [charslot]
@@ -466,10 +466,10 @@ Rosmontis是谁？
 [delay(time=1)]
 [charslot(slot = "m",name="avg_npc_536_1#1$1",duration=0.5)]
 [delay(time=0.5)]
-[name="霍尔海雅"]......
-[name="霍尔海雅"]实验室那边的门被攻破了......怎么会？
+[name="霍尔海雅"]……
+[name="霍尔海雅"]实验室那边的门被攻破了……怎么会？
 [charslot(slot = "m",name="avg_npc_536_1#11$1")]
-[name="霍尔海雅"]洛肯那家伙......！
+[name="霍尔海雅"]洛肯那家伙……！
 [charslot(slot = "m",name="avg_npc_536_1#1$1")]
 [name="霍尔海雅"]算了，时间差不多也到了。
 [name="霍尔海雅"]就让任务到此为止吧。
@@ -494,16 +494,16 @@ Rosmontis是谁？
 [name="迷迭香"]嗯。我差不多快想起来了。
 [name="迷迭香"]你曾经对我很好很好，但你突然变得很坏很坏。
 [name="洛肯"]对不起，孩子，对不起。
-[name="洛肯"]我承诺过你......我想给你一个无限美好的未来。
+[name="洛肯"]我承诺过你……我想给你一个无限美好的未来。
 [name="洛肯"]你和你的哥哥们，你们本该成为最完美的生命。
 [name="洛肯"]你们将重新定义源石技艺。你们将摆脱天赋的限制，不再受矿石病侵扰。
-[name="洛肯"]是的，你们......不，我们本该一起战胜命运本身。
+[name="洛肯"]是的，你们……不，我们本该一起战胜命运本身。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="洛肯"]为什么？为什么我没能做到？是我毁掉了我们双方！
 [name="迷迭香"]你哭了？为什么要哭？
 [name="迷迭香"]眼泪滴到了手上。很咸的味道。很痛苦。
 [name="迷迭香"]过去你也哭过，就在我面前。
-[name="迷迭香"]那一天......不，我不要想起来。
+[name="迷迭香"]那一天……不，我不要想起来。
 [name="迷迭香"]我不想要你留在我的回忆里。忘记是痛苦的，但想起你更痛苦。
 [name="洛肯"]不要忘记。
 [name="洛肯"]记住我。求你记住我。我就是那个罪人。
@@ -520,22 +520,22 @@ Rosmontis是谁？
 [Background(image="38_g5_rhinelab_indoor",screenadapt="coverall")]
 [charslot(slot = "m",name="avg_391_rosmon_1#2$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="迷迭香"]不......不......
-[name="迷迭香"]哥哥们......
-[name="迷迭香"]为什么......为什么？为什么！回忆在涌上来，我的头好疼......好疼好疼......好冷！
+[name="迷迭香"]不……不……
+[name="迷迭香"]哥哥们……
+[name="迷迭香"]为什么……为什么？为什么！回忆在涌上来，我的头好疼……好疼好疼……好冷！
 [charslot(slot = "m",name="avg_npc_894_1#10$1")]
 [name="洛肯"]抓住我。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="洛肯"]抓住我的脖颈。用你的双手，掐住它。感受到这跳动的血管了吗？血是暖和的，你不会再冷了！
 [charslot(slot = "m",name="avg_391_rosmon_1#5$1")]
-[name="迷迭香"]血......怎么会是暖和的？
+[name="迷迭香"]血……怎么会是暖和的？
 [name="迷迭香"]它比冰还冷，比水还要让人窒息。
 [charslot(slot = "m",name="avg_391_rosmon_1#6$1")]
 [name="迷迭香"]是你。
 [name="迷迭香"]全是你。
 [name="迷迭香"]你夺走了我的生活，还有我的哥哥们。
 [charslot(slot = "m",name="avg_391_rosmon_1#10$1")]
-[name="迷迭香"]你把我变成了......变成了......
+[name="迷迭香"]你把我变成了……变成了……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=false)]
 [dialog]
@@ -553,11 +553,11 @@ Rosmontis是谁？
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [name="洛肯"]那就杀了我吧。毁灭我朽坏的身体，碾碎我罪恶的灵魂，来祭奠你失去的一切。
 [charslot(slot = "m",name="avg_391_rosmon_1#5$1")]
-[name="迷迭香"]杀掉你......
+[name="迷迭香"]杀掉你……
 [name="迷迭香"]杀掉你，这所有的罪恶就会消失吗？
 [name="迷迭香"]人们不会再被你们夺取本该有的生活，都能和自己爱的人在一起？
 [charslot(slot = "m",name="avg_npc_894_1#1$1")]
-[name="洛肯"]......我不能再欺骗你。
+[name="洛肯"]……我不能再欺骗你。
 [name="洛肯"]但至少，我罪有应得。
 [dialog]
 [charslot(slot = "m",focus="n")]
@@ -566,12 +566,12 @@ Rosmontis是谁？
 [charslot(slot = "m",name="avg_npc_894_1#1$1")]
 [name="洛肯"]时间不多了，很快我们就会迎来很多打扰者。
 [charslot(slot = "m",name="avg_391_rosmon_1#5$1")]
-[name="迷迭香"]......
+[name="迷迭香"]……
 [dialog]
 [delay(time=1)]
 [charslot(slot = "m",name="avg_391_rosmon_1#6$1")]
 [name="迷迭香"]我去见他们。
-[name="迷迭香"]我不允许任何人......挡住正确的路。
+[name="迷迭香"]我不允许任何人……挡住正确的路。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -594,7 +594,7 @@ Rosmontis是谁？
 [name="缪尔赛思"]洛肯那老家伙锁了门！这栋建筑的结构太特殊了，就跟迷宫差不多，一看就是娜斯提的杰作。
 [name="缪尔赛思"]我们已经尝试了十几分钟了，压根搞不明白他们到底在哪里。
 [charslot(slot = "m",name="avg_249_mlyss_1#8$1")]
-[name="缪尔赛思"]虽然我也很担心小猫......但洛肯那种病恹恹的科学家，大概动不了她吧？
+[name="缪尔赛思"]虽然我也很担心小猫……但洛肯那种病恹恹的科学家，大概动不了她吧？
 [Dialog]
 [charslot(slot="m",focus="n")]
 [Decision(options="他想找回迷迭香的记忆。;他想挑起迷迭香的愤怒。", values="1;2")]
@@ -608,9 +608,9 @@ Rosmontis是谁？
 [charslot(slot = "m",name="avg_249_mlyss_1#11$1")]
 [name="缪尔赛思"]他是终于失心疯了吗？我早听说过在监狱里待久了，人的精神都会变得很不正常的！
 [charslot(slot = "m",name="avg_249_mlyss_1#8$1")]
-[name="缪尔赛思"]可是......唔，我不知道这样说好不好，洛肯曾经那样对待过小猫，她也是有理由愤怒的吧？
+[name="缪尔赛思"]可是……唔，我不知道这样说好不好，洛肯曾经那样对待过小猫，她也是有理由愤怒的吧？
 [name="缪尔赛思"]我看到伊芙芙的实验记录的时候，也很生气很生气，气到想过一口气把那个废墟淹掉欸。
-[name="缪尔赛思"]怎么说洛肯也算是恶有恶报吧。假设，只是假设啊，迷迭香真的考虑复仇的话，呃......我搞不清楚该以什么立场阻止......
+[name="缪尔赛思"]怎么说洛肯也算是恶有恶报吧。假设，只是假设啊，迷迭香真的考虑复仇的话，呃……我搞不清楚该以什么立场阻止……
 [Dialog]
 [charslot(slot="m",focus="n")]
 [Decision(options="我只是不希望洛肯得逞。;我只是想看着迷迭香做想做的事。", values="1;2")]
@@ -620,7 +620,7 @@ Rosmontis是谁？
 [Decision(options="我想陪伴我的家人。;我想帮助我的干员。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m",name="avg_249_mlyss_1#11$1")]
-[multiline(name="缪尔赛思")]那我们只能抓紧时......
+[multiline(name="缪尔赛思")]那我们只能抓紧时……
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.03, block=true)]
 [PlaySound(key="$char_emp",volume=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -649,11 +649,11 @@ Rosmontis是谁？
 [name="缪尔赛思"]我是被震糊涂了吗？博士，我怎么好像听见了伊芙芙的声音？
 [charslot(slot = "m",focus="n")]
 [name="动力甲士兵"]快点，跟上我！
-[name="动力甲士兵？"]......
+[name="动力甲士兵？"]……
 [name="动力甲士兵"]你怎么回事？行动这么慢，没训练几天的新兵蛋子吗？！
-[name="动力甲士兵？"]你才......新兵蛋子！
+[name="动力甲士兵？"]你才……新兵蛋子！
 [charslot(slot = "m",name="avg_249_mlyss_1#8$1")]
-[name="缪尔赛思"]越听越像......
+[name="缪尔赛思"]越听越像……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot="m",name="avg_npc_526_1#1$1")]
@@ -673,7 +673,7 @@ Rosmontis是谁？
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_526_1#1$1")]
-[name="动力甲士兵？"]呼......原来是这么用的？不行，太难用了，还不如我的火......
+[name="动力甲士兵？"]呼……原来是这么用的？不行，太难用了，还不如我的火……
 [dialog]
 [charslot(slot="m",focus="n")]
 [Decision(options="伊芙利特。;真的是你。", values="1;2")]
@@ -696,18 +696,18 @@ Rosmontis是谁？
 [name="伊芙利特"]什么都难不倒天才的本大爷！
 [dialog]
 [charslot(slot="m",focus="n")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_895_1#9$1")]
 [name="伊芙利特"]好吧，博士，这是塞雷娅改造过的，天才的是塞雷娅啦。具体细节你之后问她吧，她就在这附近。
 [charslot(slot="m",name="avg_249_mlyss_1#4$1")]
-[name="缪尔赛思"]......
+[name="缪尔赛思"]……
 [charslot(slot="m",name="avg_249_mlyss_1#2$1")]
-[name="缪尔赛思"]塞雷娅......也来了？
+[name="缪尔赛思"]塞雷娅……也来了？
 [charslot(slot="m",name="avg_npc_895_1#9$1")]
 [name="伊芙利特"]她要是能批准我单独行动就好了，我巴不得呢！不过缪缪，你为什么看起来不太高兴？
 [charslot(slot="m",name="avg_249_mlyss_1#8$1")]
-[name="缪尔赛思"]我不......
+[name="缪尔赛思"]我不……
 [dialog]
 [playsound(key="$d_avg_mecharun", loop=true, channel="bgs",volume=0.5)]
 [CameraShake(duration=1, xstrength=20, ystrength=10, vibrato=35, randomness=90, fadeout=true, block=false)]
@@ -715,7 +715,7 @@ Rosmontis是谁？
 [charslot(slot="m",focus="n")]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_249_mlyss_1#11$1")]
-[name="缪尔赛思"]等等，是迷迭香消失的方向......动力甲去那边了？！
+[name="缪尔赛思"]等等，是迷迭香消失的方向……动力甲去那边了？！
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -734,9 +734,9 @@ Rosmontis是谁？
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_526_1#1$1")]
 [name="动力甲士兵"]发现敌人——呃，是一名少女。传感器显示，实验室更深处还有一位老人。
-[name="动力甲士兵"]是否继续前......等等！
+[name="动力甲士兵"]是否继续前……等等！
 [charslot(slot="m",name="avg_391_rosmon_1#1$2")]
-[name="迷迭香"]......
+[name="迷迭香"]……
 [charslot(slot="m",name="avg_npc_526_1#1$1")]
 [name="动力甲士兵"]飘浮在空中的巨型武器！
 [name="动力甲士兵"]发现高威胁目标，进攻！
@@ -758,8 +758,8 @@ Rosmontis是谁？
 [charslot(slot="m",name="avg_391_rosmon_1#1$2",duration = 0.3)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
 [delay(time=1)]
-[name="迷迭香"]你是......士兵。
-[name="迷迭香"]冷冰冰的外衣......触摸不到温度，也感受不到情绪。
+[name="迷迭香"]你是……士兵。
+[name="迷迭香"]冷冰冰的外衣……触摸不到温度，也感受不到情绪。
 [name="迷迭香"]你们准备和坏人作战吗？你们和所有被伤害的人站在一起吗？
 [charslot(slot="m",name="avg_npc_526_1#1$1")]
 [name="动力甲士兵"]报告，目标疑似未登记的危险实验产物！

@@ -14,7 +14,7 @@
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_132")]
-[name="A区囚犯"]咕，可恶......
+[name="A区囚犯"]咕，可恶……
 [CameraShake(duration=1, xstrength=3, ystrength=3, vibrato=10, randomness=90, fadeout=true, block=false)]
 [Character(fadetime=1)]
 [PlaySound(key="$bodyfalldown1", volume=1)]
@@ -106,10 +106,10 @@
 [name="卡夫卡"]嘁，也太看不起我卡夫卡了。
 [name="卡夫卡"]不过，感染者和非感染者之间的矛盾果然在这里也存在啊。
 [name="卡夫卡"]而且不仅存在，还变成了一种超级扭曲的样子。
-[name="卡夫卡"]虽然在外面也见过不少事了，但是这样的场景我也还是第一次见到诶......要是赫默看了肯定会受不了吧。
+[name="卡夫卡"]虽然在外面也见过不少事了，但是这样的场景我也还是第一次见到诶……要是赫默看了肯定会受不了吧。
 [name="卡夫卡"]不过我可就不一样了，嘿嘿。
 [name="卡夫卡"]场面越混乱我越喜欢。
-[name="卡夫卡"]你们打你们的，让我看看有没有油水可以让我蹭一蹭，也好给后面的事情做点准备......
+[name="卡夫卡"]你们打你们的，让我看看有没有油水可以让我蹭一蹭，也好给后面的事情做点准备……
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1,block=false)]
 [Character(fadetime=0.6)]
@@ -131,14 +131,14 @@
 [characteraction(name="left", type="move", xpos=400, ypos=0,fadetime=1, block=false)]
 [PlaySound(key="$rungeneral", volume=1)]
 [Delay(time=1.5)]
-[name="卡夫卡"]这里怎么有一只袜子......
+[name="卡夫卡"]这里怎么有一只袜子……
 [Dialog]
 [Delay(time=1)]
 [characteraction(name="left", type="move", xpos=-200, ypos=0,fadetime=0.6, block=false)]
 [PlaySound(key="$rungeneral", volume=1)]
 [Delay(time=1.5)]
-[name="卡夫卡"]不愧是官方的监狱，该做的还是做了的嘛，没有什么直接能用的东西啊......
-[name="卡夫卡"]不过......
+[name="卡夫卡"]不愧是官方的监狱，该做的还是做了的嘛，没有什么直接能用的东西啊……
+[name="卡夫卡"]不过……
 [Dialog]
 [Character]
 [musicvolume(volume=0.4)]
@@ -160,13 +160,13 @@
 [Character(name="char_451_robin#6", name2="avg_npc_133", focus=1)]
 [name="？？？"]呀！
 [Character(name="char_451_robin#6", name2="avg_npc_133", focus=2)]
-[name="B区囚犯"]让我抓到个落单的，嘿嘿嘿......
+[name="B区囚犯"]让我抓到个落单的，嘿嘿嘿……
 [Character(name="char_214_kafka_1#2")]
 [name="卡夫卡"]哎呀，那个女孩子有危险！
-[name="卡夫卡"]女孩子还是要去帮一把......
+[name="卡夫卡"]女孩子还是要去帮一把……
 [Dialog]
 [Character(name="char_451_robin#6", name2="avg_npc_133", focus=1)]
-[name="？？？"]......
+[name="？？？"]……
 [Dialog]
 [Delay(time=0.6)]
 [Character(name="char_451_robin#2", name2="avg_npc_133")]
@@ -176,7 +176,7 @@
 [Delay(time=0.51)]
 [characteraction(name="right", type="move", xpos=-60, fadetime=0.5,block=true)]
 [Delay(time=1.2)]
-[name="B区囚犯"]嘿嘿......
+[name="B区囚犯"]嘿嘿……
 [Dialog]
 [PlaySound(key="$tokenset", volume=1)]
 [delay(time=1)]
@@ -194,7 +194,7 @@
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [Delay(time=2)]
 [Character(name="char_214_kafka_1#2")]
-[name="卡夫卡"]咦，这个女孩子好像也藏了一手的样子，有趣有趣......
+[name="卡夫卡"]咦，这个女孩子好像也藏了一手的样子，有趣有趣……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character]
@@ -226,7 +226,7 @@
 [Character(name="avg_npc_135#1")]
 [name="巴顿"]唉，我都说过几次了，这里是监狱，不是你们的战场。
 [name="巴顿"]你们应该在这里好好劳动，好好表现自己，这样在外面的亲朋好友们才能早日见到你们，是不是？
-[name="巴顿"]我说这些也是为了你们好......
+[name="巴顿"]我说这些也是为了你们好……
 [Dialog]
 [Delay(time=1)]
 [playMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
@@ -247,7 +247,7 @@
 [name="B区囚犯A"]尤其现在是监狱停靠在城市的时期，典狱长是不在的，他就搞得跟自己是这座监狱的主人一样。
 [name="B区囚犯A"]蠢货一个。
 [name="B区囚犯A"]不过你说是不是每次都这样，那也不是。
-[name="B区囚犯A"]也有好几次是打上头了收不住......倒不如说收不住了才比较正常，今天这样说停就停才比较少见。
+[name="B区囚犯A"]也有好几次是打上头了收不住……倒不如说收不住了才比较正常，今天这样说停就停才比较少见。
 [name="B区囚犯A"]反正收不住的时候，巴顿一般就会搬出他的救兵。
 [Character(name="char_214_kafka_1#4", name2="avg_npc_133",focus=1)]
 [name="卡夫卡"]救兵？
@@ -259,13 +259,13 @@
 [Character(name="char_264_Mountain_1#5",fadetime=1)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Delay(time=2)]
-[name="？？？"]......
+[name="？？？"]……
 [Character(name="char_214_kafka_1#2", name2="avg_npc_133",focus=1)]
 [name="卡夫卡"]安东尼？！
 [Character(name="char_214_kafka_1#2", name2="avg_npc_133",focus=2)]
 [name="B区囚犯A"]看来你真的认得他。
 [Character(name="char_214_kafka_1#4", name2="avg_npc_133",focus=1)]
-[name="卡夫卡"]虽然我只看过他穿正服的样子......
+[name="卡夫卡"]虽然我只看过他穿正服的样子……
 [Dialog]
 [Character(name="char_264_Mountain_1#5")]
 [Delay(time=1)]
@@ -304,7 +304,7 @@
 [Character(name="avg_npc_135#3")]
 [name="巴顿"]我们州立曼斯菲尔德监狱，可是首都特批的试点监狱，将来是要作为榜样推广给其他州的。
 [Character(name="avg_npc_133")]
-[name="B区囚犯B"]啧，大家都是囚犯当什么榜样啊......
+[name="B区囚犯B"]啧，大家都是囚犯当什么榜样啊……
 [Character(name="avg_npc_135#1")]
 [name="巴顿"]总而言之，希望你们能够为自己想一想，也为我想一想！
 [name="巴顿"]走吧，安东尼，今天你有一个小时的读书时间。
@@ -320,7 +320,7 @@
 [name="卡夫卡"]算是吧。
 [name="卡夫卡"]我想跟他商量一件事，当然，肯定是不能被狱警知道的那种。  
 [Character(name="char_214_kafka_1#4", name2="avg_npc_133",focus=2)]
-[name="B区囚犯A"]放心，我懂的。你想和他说些悄悄话的话，倒也不是没有机会......
+[name="B区囚犯A"]放心，我懂的。你想和他说些悄悄话的话，倒也不是没有机会……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [Character]

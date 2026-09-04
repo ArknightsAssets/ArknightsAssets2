@@ -10,33 +10,33 @@
 [Delay(time=1)]
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot = "m", name = "avg_npc_536_1#3$1")]
 [name="霍尔海雅"]你的表情很有意思。
 [dialog]
 [charslot(slot = "m", focus="none")]
-[Decision(options="（她的尾巴缠上来了喔。）;......;（该让Mon3tr出场了吧！凯尔希！）",values="1;2;3")]
+[Decision(options="（她的尾巴缠上来了喔。）;……;（该让Mon3tr出场了吧！凯尔希！）",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
-[name="凯尔希"]......放开博士吧。
+[name="凯尔希"]……放开博士吧。
 [name="凯尔希"]你可以去找你想要的东西，如果那真的能解决你的疑惑。
 [charslot(slot = "m", name = "avg_npc_536_1#3$1")]
-[name="霍尔海雅"]......嗯哼......
+[name="霍尔海雅"]……嗯哼……
 [charslot(slot = "m", name = "avg_npc_536_1#1$1")]
-[name="霍尔海雅"]......什么？就这样？
+[name="霍尔海雅"]……什么？就这样？
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]我们保证不会对你的行动做出任何反应。
 [charslot(slot = "m", name = "avg_npc_536_1#10$1")]
-[name="霍尔海雅"]......看塞雷娅和锡人对你的态度，我还以为你是个很危险的人物，怎么？
+[name="霍尔海雅"]……看塞雷娅和锡人对你的态度，我还以为你是个很危险的人物，怎么？
 [name="霍尔海雅"]你的弱小是真的吗？你表露出的神态可不像一个真的没有反抗能力的人。
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]任君想象。
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]但你明白，为了博士的安全，我不会以身犯险。
 [charslot(slot = "m", name = "avg_npc_536_1#11$1")]
-[name="霍尔海雅"]......似乎是这样。
+[name="霍尔海雅"]……似乎是这样。
 [charslot(slot = "m", name = "avg_npc_536_1#3$1")]
-[name="霍尔海雅"]既然已经和梅兰德基金会撕破了脸皮，少几个敌人也是好事......克丽斯腾的计划已经启动，自由活动的时间想必也不多了。
+[name="霍尔海雅"]既然已经和梅兰德基金会撕破了脸皮，少几个敌人也是好事……克丽斯腾的计划已经启动，自由活动的时间想必也不多了。
 [name="霍尔海雅"]话就说到这里，在特区过激的反应开始之前——
 [dialog]
 [delay(time=1)]
@@ -57,19 +57,19 @@
 [PlaySound(key="$d_avg_cavewaterdrop", volume=0.6, loop=true, channel="a")]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_900_1#1$1", duration=1.5, isblock=true)]
-[name="锡人"]......唉，确实。总不能真的让特区陷入危险，我们要加快控制事态的速度了。
+[name="锡人"]……唉，确实。总不能真的让特区陷入危险，我们要加快控制事态的速度了。
 [name="锡人"]既然是梅兰德基金会的叛徒，确实不该让外人解决，凯尔希勋爵。
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]你没有那么愚钝，你是故意放纵霍尔海雅的，想借机行事。
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
-[name="锡人"]......哦，你猜到我会顺着叛徒追过来？被勋爵利用了一把，真是令人怀念的事情。
-[name="锡人"]谈不上故意放纵，派到克丽斯腾身边的特工们接二连三地叛变，不禁让我产生了自我怀疑......做检讨可是要花时间的。
+[name="锡人"]……哦，你猜到我会顺着叛徒追过来？被勋爵利用了一把，真是令人怀念的事情。
+[name="锡人"]谈不上故意放纵，派到克丽斯腾身边的特工们接二连三地叛变，不禁让我产生了自我怀疑……做检讨可是要花时间的。
 [name="锡人"]那么，事关二位性命，勋爵您是不是有些太托大了？如果放出您漆黑的仆从，擒住她也不是什么难事。
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
-[name="凯尔希"]......“这里”没有办法使用任何武器。
+[name="凯尔希"]……“这里”没有办法使用任何武器。
 [name="凯尔希"]我们已经在“正上方”了。
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
-[name="锡人"]......您这一句话已经足以引起梅兰德基金会相当程度的重视，凯尔希勋爵，除非您在故弄玄虚。
+[name="锡人"]……您这一句话已经足以引起梅兰德基金会相当程度的重视，凯尔希勋爵，除非您在故弄玄虚。
 [dialog]
 [PlaySound(key="$d_avg_windmagic", volume=1)]
 [bgeffect(name="$eb_windburst",layer=1)]
@@ -80,7 +80,7 @@
 [delay(time=2)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "l", name = "avg_npc_536_1#3$1", posfrom="-300,0", posto="200,0", duration=2, isblock=true)]
-[name="霍尔海雅"]真是......意料之外，锡人。您有几副身体？
+[name="霍尔海雅"]真是……意料之外，锡人。您有几副身体？
 [name="霍尔海雅"]您的可怜的金属脑袋不是被我扔在洛肯那里了吗？
 [charslot(slot = "l", name = "avg_npc_536_1#10$1")]
 [name="霍尔海雅"]这次您会放过我吗？还是说，我得再杀您一次，才能从梅兰德基金会的控制下逃脱？
@@ -96,7 +96,7 @@
 [delay(time=0.5)]
 [charslot(slot = "m", action="shake", power=8, times=100, isblock=true, duration=0.5)]
 [charslot(slot = "m", name = "avg_npc_536_1#1$1")]
-[name="霍尔海雅"]唔......！
+[name="霍尔海雅"]唔……！
 [charslot(slot = "m", name = "avg_npc_536_1#11$1")]
 [name="霍尔海雅"]（视野在变黑？他对我的眼睛——不，是精神上——四肢动不了——）
 [dialog]
@@ -108,7 +108,7 @@
 [delay(time=1)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
-[name="锡人"]......看来法术在这里还是有用的。
+[name="锡人"]……看来法术在这里还是有用的。
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]源石技艺不在对“武器”的检测范围内。
 [name="凯尔希"]况且即使是以一位死魂灵全部的力量，也无法对其重要的部分造成丝毫损伤。
@@ -121,7 +121,7 @@
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]所以您还有什么没有告诉梅兰德基金会的？
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]无论是作为哥伦比亚人还是作为萨卡兹，都不足以让我与您同行？
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
@@ -129,7 +129,7 @@
 [name="凯尔希"]那位莱茵生命的总辖，已经是个意外了。
 [dialog]
 [charslot(slot = "m", focus="none")]
-[Decision(options="......我？",values="1")]
+[Decision(options="……我？",values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]这恐怕不是您说了算的。除开我在梅兰德基金会的职责，我也对这片曾是古老家乡的土地兴趣浓厚。
@@ -138,8 +138,8 @@
 [PlaySound(key="$transmission", volume=1)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
-[name="锡人"]——是我。是的，霍尔海雅已经被法术控制住，随时......什么？
-[name="锡人"]......总统先生本人？
+[name="锡人"]——是我。是的，霍尔海雅已经被法术控制住，随时……什么？
+[name="锡人"]……总统先生本人？
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_536_1#1$1", posfrom="0,-100", posto="0,-40", duration=1.5)]
@@ -153,7 +153,7 @@
 [Blocker(a=0, r=0,g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_536_1#2$1")]
-[name="霍尔海雅"]哈......哈......看来你的法术不是那么牢固，我的好上司。
+[name="霍尔海雅"]哈……哈……看来你的法术不是那么牢固，我的好上司。
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]唔。看来我小看霍尔海雅了。事情我明白了，我当然服从命令。
 [name="锡人"]一会见。
@@ -163,20 +163,20 @@
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]是不是生疏了呢，你竟然能靠蛮力挣脱这套巫术？百年前，寻常的征战骑士可都动弹不得。
 [charslot(slot = "m", name = "avg_npc_536_1#1$1")]
-[name="霍尔海雅"]刚才的发音，那是萨卡兹的......巫术？你......究竟是什么种族？
+[name="霍尔海雅"]刚才的发音，那是萨卡兹的……巫术？你……究竟是什么种族？
 [charslot(slot = "m", name = "avg_npc_536_1#11$1")]
-[name="霍尔海雅"]我明明确认过......
+[name="霍尔海雅"]我明明确认过……
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]多在意种族啊，霍尔海雅。你真可悲。
 [charslot(slot = "m", name = "avg_npc_536_1#11$1")]
-[name="霍尔海雅"]......
+[name="霍尔海雅"]……
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]我倒是更奇怪，我已经是这副模样了，你怎么还能把我当成掉了脑袋就会死的寻常人呢。
 [charslot(slot = "m", name = "avg_npc_536_1#10$1")]
 [name="霍尔海雅"]嗯，说的也是。那么碾碎的话，您还能组装起自己吗？
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]霍尔海雅我来处理，你们走吧。
-[name="锡人"]总统先生亲自下令，要求无条件协助抵达此坐标的罗德岛一行。真是奇怪......总统先生什么时候知道得这么清楚......
+[name="锡人"]总统先生亲自下令，要求无条件协助抵达此坐标的罗德岛一行。真是奇怪……总统先生什么时候知道得这么清楚……
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]那么作为萨卡兹的你呢？
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
@@ -184,38 +184,38 @@
 [name="锡人"]当然，也“只是”为萨卡兹而战的时间更长些。
 [name="锡人"]请快点吧。之后，希望您能把愿意说的部分都告诉我。
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
-[name="凯尔希"]......我向你保证。
+[name="凯尔希"]……我向你保证。
 [name="凯尔希"]走吧，博士。
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(duration=1.5, isblock=true)]
 [charslot(slot = "m", name = "avg_npc_536_1#1$1")]
-[name="霍尔海雅"]......你可真容易放下你的欲望。真相对你来说不重要吗？
+[name="霍尔海雅"]……你可真容易放下你的欲望。真相对你来说不重要吗？
 [name="霍尔海雅"]你不想陪着他们下去看看你那“古老的家乡”？
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]在任务中对任务对象产生贪恋，甚至不惜背叛国家也要将重要技术私吞，没能教育好部下，是我的耻辱。
 [name="锡人"]你对我这副躯体的破坏，还不能让我从过于漫长的平静中感到愤怒。
 [name="锡人"]但作为你的上司和梅兰德基金会的负责人，我建议你束手就擒，争取宽大处理。
 [charslot(slot = "m", name = "avg_npc_536_1#11$1")]
-[name="霍尔海雅"]嘁，老怪物......你在生命中失去过多少东西？你真的还有对职责的感知吗？
+[name="霍尔海雅"]嘁，老怪物……你在生命中失去过多少东西？你真的还有对职责的感知吗？
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]我曾用过不少法术手段来避免冗长的岁月对我的灵魂造成创伤，但不完全有效。
 [name="锡人"]只从结果来看，我是很负责的。死亡会替我作证。
 [charslot(slot = "m", name = "avg_npc_536_1#3$1")]
 [name="霍尔海雅"]不。我会战胜你，我会得到我要的一切。
-[name="霍尔海雅"]我会证明我是我自己，如果这意味着要杀死你，杀死梅兰德基金会，甚至是......被你杀死，我都会去尝试的。
+[name="霍尔海雅"]我会证明我是我自己，如果这意味着要杀死你，杀死梅兰德基金会，甚至是……被你杀死，我都会去尝试的。
 [charslot(slot = "m", name = "avg_npc_536_1#2$1")]
-[name="霍尔海雅"]呵，为自己而战原来如此令人热血沸腾......我究竟为什么曾经要把复兴古老血脉放在首位？
+[name="霍尔海雅"]呵，为自己而战原来如此令人热血沸腾……我究竟为什么曾经要把复兴古老血脉放在首位？
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
-[name="锡人"]......你所传承的记忆分量是多少代人的来着，霍尔海雅？
+[name="锡人"]……你所传承的记忆分量是多少代人的来着，霍尔海雅？
 [charslot(slot = "m", name = "avg_npc_536_1#3$1")]
-[name="霍尔海雅"]......
+[name="霍尔海雅"]……
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]三百年？还是五百年？
 [name="锡人"]足够长了。那是一座城市从新建到毁灭的时间，或是一个王朝从兴起到衰落的时间。
-[name="锡人"]可对我而言......不过是一次噩梦惊醒所需的时间。
+[name="锡人"]可对我而言……不过是一次噩梦惊醒所需的时间。
 [charslot(slot = "m", name = "avg_npc_536_1#10$1")]
-[name="霍尔海雅"]......大言不惭......
+[name="霍尔海雅"]……大言不惭……
 [charslot(slot = "m", name = "avg_npc_900_1#1$1")]
 [name="锡人"]不，实际上——
 [name="锡人"]你苦恼的时间和可歌可泣的家族历史，都比不过我合金手指上的一丝划痕，幼兽。
@@ -240,7 +240,7 @@
 她的视野再度变得漆黑，有了经验，她迅速抛弃了视觉，并尝试用法术包裹身体，延伸肢体的触觉。
 就算在身经百战的梅兰德特工之中，她也算出类拔萃的天才。羽蛇的记忆不只是负担，还使她成为了一个天生就经验丰富的战士。
 她身体的每个部分都是凶器，她的头脑清晰无比，她的法术狡黠迅敏。
-但这一次......
+但这一次……
 但这一次，霍尔海雅开始感到一丝恐惧在蔓延。
 一种刺痛感从耳膜开始深入，钻入大脑，霍尔海雅痛苦地捂住耳朵，尽管此时万籁无声。
 洞窟的景色开始变化，更加深沉的黑暗从锡人的脚底弥漫开来。
@@ -306,7 +306,7 @@
 [name="斐尔迪南"]发动机在着火！
 [StopSound(channel="c", fadetime=2)]
 [charslot(slot = "l", name = "avg_npc_896_1#1$1", focus="l")]
-[name="塞雷娅"]功率损耗......问题不大。
+[name="塞雷娅"]功率损耗……问题不大。
 [charslot(slot = "r", name = "avg_npc_890_1#4$1", focus="r")]
 [name="斐尔迪南"]那东西看起来快炸了，你和我说问题不大？！
 [charslot(slot = "l", name = "avg_npc_896_1#10$1", focus="l")]
@@ -372,11 +372,11 @@
 [charslot(slot = "l", name = "avg_npc_896_1#1$1", focus="l")]
 [name="塞雷娅"]我来控制，把拉杆松开。
 [charslot(slot = "r", name = "avg_npc_890_1#1$1", focus="r")]
-[name="斐尔迪南"]......
+[name="斐尔迪南"]……
 [charslot(slot = "l", name = "avg_npc_896_1#10$1", focus="l")]
 [name="塞雷娅"]松开拉杆，斐尔迪南。
 [charslot(slot = "r", name = "avg_npc_890_1#5$1", focus="r")]
-[name="斐尔迪南"]咳，咳咳......
+[name="斐尔迪南"]咳，咳咳……
 [dialog]
 [charslot(slot = "r", posfrom="-350,0", posto="0,0", duration=1)]
 [delay(time=1.5)]
@@ -446,7 +446,7 @@
 [name="塞雷娅"]别拽着安全带了，斐尔迪南。
 [name="塞雷娅"]你如果想把莱茵生命从悬崖边拉回来，就做给我看。
 [charslot(slot = "r", name = "avg_npc_890_1#8$1", focus="r")]
-[name="斐尔迪南"]......
+[name="斐尔迪南"]……
 [charslot(slot = "r", name = "avg_npc_890_1#8$1", focus="r")]
 [name="斐尔迪南"]我不是你防卫科的下属，塞雷娅，你也不再是防卫科的主任了。
 [name="斐尔迪南"]别对我用这种口吻说话。
@@ -455,7 +455,7 @@
 [charslot(slot = "r", name = "avg_npc_890_1#8$1", focus="r")]
 [name="斐尔迪南"]我很好！
 [charslot(slot = "r", name = "avg_npc_890_1#8$1", focus="r")]
-[name="斐尔迪南"]......但你得扶我一把！
+[name="斐尔迪南"]……但你得扶我一把！
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -468,22 +468,22 @@
 [delay(time=1)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_890_1#5$1", duration=1.5, isblock=true)]
-[name="斐尔迪南"]这种感觉，很奇怪......我们真的在空中？
-[name="斐尔迪南"]“星荚”几乎就在我们的头顶......
+[name="斐尔迪南"]这种感觉，很奇怪……我们真的在空中？
+[name="斐尔迪南"]“星荚”几乎就在我们的头顶……
 [charslot(slot = "m", name = "avg_npc_896_1#1$1")]
 [name="塞雷娅"]还离得很远，斐尔迪南，刚才飞行器高度表的读数是5037米，阻隔层离我们还有千米距离。
 [charslot(slot = "m", name = "avg_npc_890_1#5$1")]
-[name="斐尔迪南"]......你看起来一点都不感叹。
+[name="斐尔迪南"]……你看起来一点都不感叹。
 [charslot(slot = "m", name = "avg_npc_890_1#1$1")]
 [name="斐尔迪南"]哼，也是，你大学期间就学过驾驶飞行器。
 [charslot(slot = "m", name = "avg_npc_890_1#1$1")]
-[name="斐尔迪南"]军方居然还以为这是个超级武器。这些设备，这些监控装置和读数表......娜斯提把这里建成了整个特里蒙最好的实验室。
+[name="斐尔迪南"]军方居然还以为这是个超级武器。这些设备，这些监控装置和读数表……娜斯提把这里建成了整个特里蒙最好的实验室。
 [charslot(slot = "m", name = "avg_npc_890_1#7$1")]
 [name="斐尔迪南"]还是，这只是某个伟大实验的第一步？
-[name="斐尔迪南"]那魔族佬......她到底对我藏了多少东西？我原来还以为她参与得没这么深。
+[name="斐尔迪南"]那魔族佬……她到底对我藏了多少东西？我原来还以为她参与得没这么深。
 [charslot(slot = "m", name = "avg_npc_890_1#6$1")]
-[name="斐尔迪南"]......等等，塞雷娅，我看到军方的运输机了，他们比我们预想的要来得快。
-[name="斐尔迪南"]他们正在接近，应该很快就能完成登陆，我们得在他们全面接管这里之前......
+[name="斐尔迪南"]……等等，塞雷娅，我看到军方的运输机了，他们比我们预想的要来得快。
+[name="斐尔迪南"]他们正在接近，应该很快就能完成登陆，我们得在他们全面接管这里之前……
 [dialog]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_890_1#5$1")]
@@ -491,7 +491,7 @@
 [charslot]
 男人转过头，发现前防卫科主任已经往环形走廊的深处走去。
 [charslot(slot = "m", name = "avg_npc_890_1#5$1")]
-[name="斐尔迪南"]......
+[name="斐尔迪南"]……
 [charslot(slot = "m", name = "avg_npc_890_1#1$1")]
 [name="斐尔迪南"]好吧，好吧。
 [name="斐尔迪南"]等我回去，一定要跟雅拉好好谈谈。
@@ -506,10 +506,10 @@
 [PlaySound(key="$d_avg_cavewaterdrop", volume=1, loop=true, channel="a")]
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [dialog]
 [charslot(slot = "m", focus="none")]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(duration=1.5, isblock=true)]
@@ -526,7 +526,7 @@
 [Predicate(references="1;2;3")]
 [name="凯尔希"]博士。
 [name="凯尔希"]我的表现也许稍有失态，但这是别的原因。我相信我们的前面没有太多危险，不必紧张。
-[name="凯尔希"]只不过......
+[name="凯尔希"]只不过……
 [name="凯尔希"]过去你曾问过我许多问题，我都没有正面回答你。
 [name="凯尔希"]也许今天，你可以得到答案。
 [dialog]
@@ -541,14 +541,14 @@
 [playMusic(intro="$mist_intro", key="$mist_loop", volume=0.6)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=4, block=true)]
 [charslot(slot = "m", focus="none")]
-[Decision(options="这是——石棺？！;......！;这么多？怎么可能......？",values="1;2;3")]
+[Decision(options="这是——石棺？！;……！;这么多？怎么可能……？",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]早在塞雷娅与我有所接触，提及克丽斯腾的时候，我就设想过她会不择手段地做到这件事。
 [name="凯尔希"]莽撞地尝试航天飞行的危险是人们所预想不到的，即使是塞雷娅也不知晓全貌。
 [name="凯尔希"]直到特里蒙事变，白面鸮干员与赫默干员被卷入一场看似毫无关系的事件——
 [name="凯尔希"]可哪怕那时，在猜测到她试图再次对天空发起挑战的时候——我承认，我也并没有料想到今天的局面。
-[name="凯尔希"]随着事态的发展，随着我们亲眼目睹了能量井的规模，聚焦发生器的升空，还有......洛肯·威廉姆斯正在尝试的研究。
+[name="凯尔希"]随着事态的发展，随着我们亲眼目睹了能量井的规模，聚焦发生器的升空，还有……洛肯·威廉姆斯正在尝试的研究。
 [name="凯尔希"]随后我才后知后觉地意识到，莱茵生命的总辖，克丽斯腾·莱特想要做的事情本不可能实现。有什么外力帮助了她，极大地影响了她。
 [name="凯尔希"]借用军方的资金和人脉，继续着父母留下的研究，年轻的天才靠莱茵生命的外壳欺骗了所有的人，直接指向了她人生中最固执的期望。
 [dialog]
@@ -566,39 +566,39 @@
 [name="凯尔希"]但这些，克丽斯腾都选择了交由后人。
 [charslot(slot = "m", name = "char_003_kalts_1#3")]
 [name="凯尔希"]她根本没有从利益的角度想过这个问题——无论是她个人的利益，还是所有人的利益。就连可能带来的危机都被她忽视。
-[name="凯尔希"]......是否还有一种可能，那个从小失去父母，在质疑与谩骂中长大的克丽斯腾，只是为了向世人证明这个真相，仅此而已？
+[name="凯尔希"]……是否还有一种可能，那个从小失去父母，在质疑与谩骂中长大的克丽斯腾，只是为了向世人证明这个真相，仅此而已？
 [dialog]
 [Predicate(references="2")]
 [charslot(slot = "m", name = "char_003_kalts_1#3")]
-[name="凯尔希"]......这也许正是塞雷娅所想的，作为克丽斯腾的昔日同窗，作为她理想的第一位支持者......
-[name="凯尔希"]无论克丽斯腾·莱特有着怎样凄苦的过去、怎样纯粹的理想，哪怕很多事情并非她亲手所为......
+[name="凯尔希"]……这也许正是塞雷娅所想的，作为克丽斯腾的昔日同窗，作为她理想的第一位支持者……
+[name="凯尔希"]无论克丽斯腾·莱特有着怎样凄苦的过去、怎样纯粹的理想，哪怕很多事情并非她亲手所为……
 [name="凯尔希"]她都没有权利逃避这些责任。
 [name="凯尔希"]想想伊芙利特干员和赫默干员的遭遇吧，莱茵生命的总辖是自私的，这毫无疑问。
-[name="凯尔希"]塞雷娅希望她承担起这些责任，塞雷娅想劝她将始终凝望着天空的眼眸看向莱茵生命里一个个具体的人......
+[name="凯尔希"]塞雷娅希望她承担起这些责任，塞雷娅想劝她将始终凝望着天空的眼眸看向莱茵生命里一个个具体的人……
 [name="凯尔希"]也许塞雷娅本该是第一个替克丽斯腾承担理想的人，只不过在莱茵生命，在道德与伦理的分歧之下，一切都失控了。
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [name="凯尔希"]无论如何，塞雷娅和我都慢了一步。
 [name="凯尔希"]以目前泰拉的源石技术而言，想要撕毁天空，需要全泰拉一个漫长时间区间内的总电力。
 [name="凯尔希"]这也只是纯粹的数字上的比对。根本没有人能将如此庞大的能量汇于一点，更鲜有手段能够将其顺利向天空输出。
-[name="凯尔希"]但是......在切尔诺伯格核心城，围绕着一座石棺，发生过许多事情。你还记得吗？
+[name="凯尔希"]但是……在切尔诺伯格核心城，围绕着一座石棺，发生过许多事情。你还记得吗？
 [dialog]
 [charslot(slot = "m", focus="none")]
-[Decision(options="我不会忘记。;......;我不能忘记。",values="1;2;3")]
+[Decision(options="我不会忘记。;……;我不能忘记。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
-[name="凯尔希"]彼时乌萨斯粗浅的研究就足以从石棺中取得相当可观的能源，那么眼前的......足以完成克丽斯腾癫狂的理想。
+[name="凯尔希"]彼时乌萨斯粗浅的研究就足以从石棺中取得相当可观的能源，那么眼前的……足以完成克丽斯腾癫狂的理想。
 [name="凯尔希"]至少她没有选择与军方或梅兰德基金会共享这一情报。这样的利益足以让国家机器失去理智，也确实足够让他们迅速成为新的霸主。
 [dialog]
 [charslot(slot = "m", focus="none")]
-[Decision(options="......这里究竟是什么地方？;克丽斯腾是怎么找到这儿的？;这些石棺......",values="1;2;3")]
+[Decision(options="……这里究竟是什么地方？;克丽斯腾是怎么找到这儿的？;这些石棺……",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [stopmusic(fadetime=2)]
 [PlaySound(key="$d_avg_collapse", volume=1)]
 [CameraShake(duration=-1, xstrength=10, ystrength=25, vibrato=50, randomness=90, fadeout=false, block=false)]
 [delay(time=2)]
 [charslot(slot = "m", focus="none")]
-[Decision(options="怎么了？;有什么......？",values="1;2")]
+[Decision(options="怎么了？;有什么……？",values="1;2")]
 [Predicate(references="1;2")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=4, block=true)]
@@ -607,7 +607,7 @@
 [CameraShake(duration=0.01, xstrength=0, ystrength=0, vibrato=0, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", name = "char_003_kalts_1#1")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=3, block=true)]
-[name="凯尔希"]......Dr.{@nickname}。
+[name="凯尔希"]……Dr.{@nickname}。
 [name="凯尔希"]记住我说的话。如果可以的话，在接下来的时间里，回忆那些在罗德岛的过往。
 [name="凯尔希"]不要动摇。
 [dialog]
@@ -624,8 +624,8 @@
 阿米娅握着你的手，你什么也记不得，你被卷进切尔诺伯格的漩涡，那是一切的开始。
 [dialog]
 [delay(time=1.5)]
-时间已经过了很久......但有什么，有什么更悠久的情绪弥漫在迷雾似的记忆中。
-令你悲伤，令你怀念，令你不安......它属于你，却又令你避之不及。
+时间已经过了很久……但有什么，有什么更悠久的情绪弥漫在迷雾似的记忆中。
+令你悲伤，令你怀念，令你不安……它属于你，却又令你避之不及。
 [dialog]
 [stopmusic(fadetime=2)]
 [delay(time=1)]
@@ -644,17 +644,17 @@
 [dialog]
 [PlaySound(key="$d_avg_energybody", volume=1)]
 [delay(time=2)]
-[name="？？？"]（未知语言）......不可思议。
-[name="？？？"]（未知语言）在如此......如此漫长的时间后，我竟然还能亲眼看见......一位同僚......和他的仆从。
-[name="？？？"]（未知语言）确实是......太不可思议了......
+[name="？？？"]（未知语言）……不可思议。
+[name="？？？"]（未知语言）在如此……如此漫长的时间后，我竟然还能亲眼看见……一位同僚……和他的仆从。
+[name="？？？"]（未知语言）确实是……太不可思议了……
 [dialog]
-[Decision(options="你用的语言......为什么我听得懂？",values="1")]
+[Decision(options="你用的语言……为什么我听得懂？",values="1")]
 [Predicate(references="1")]
 [Decision(options="你是谁？！",values="1")]
 [Predicate(references="1")]
 [name="？？？"]（未知语言）我是谁？
 [name="？？？"]（标准的哥伦比亚语）我是谁？
-[name="？？？"]......你为何要用泰拉的语言？你不知道我的存在？
+[name="？？？"]……你为何要用泰拉的语言？你不知道我的存在？
 [name="？？？"]发生了什么？替他回答我，仆从。AMa-10。
 [dialog]
 [delay(time=1)]

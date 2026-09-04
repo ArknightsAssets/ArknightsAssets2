@@ -12,10 +12,10 @@
 [PlaySound(key="$d_avg_snowbootwalk", volume=1, loop=true, channel="bse")]
 [character(name="avg_172_svrash_1#1$1",fadetime=1.5)]
 [delay(time=2)]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [character(name="avg_172_svrash_1#1$1",name2="avg_199_yak_1#6$1",focus=2)]
 [name="角峰"]老爷，喝口热水吧。
-[name="角峰"]从昨天开始您就滴水未进，走了这一路，之后还要参加狩猎，这......
+[name="角峰"]从昨天开始您就滴水未进，走了这一路，之后还要参加狩猎，这……
 [character(name="avg_172_svrash_1#1$1",name2="avg_199_yak_1#6$1",focus=1)]
 [name="恩希欧迪斯"]不必了。
 [character(name="avg_172_svrash_1#1$1",name2="avg_199_yak_1#1$1",focus=2)]
@@ -32,7 +32,7 @@
 [delay(time=2)]
 [character(name="char_empty",name2="avg_199_yak_1#2$1",fadetime=0.7,focus=2)]
 [delay(time=0.7)]
-[name="角峰"]......
+[name="角峰"]……
 [dialog]
 [PlaySound(key="$d_avg_snowbootwalk")]
 [character(name="avg_198_blackd_1#6$1",name2="avg_199_yak_1#2$1",fadetime=1.5,focus=1)]
@@ -40,16 +40,16 @@
 [name="魏斯"]别再说了，角峰大哥。
 [name="魏斯"]老爷的脾气你应该最清楚，明知老爷肯定不会接受，又何必这样？
 [character(name="avg_198_blackd_1#6$1",name2="avg_199_yak_1#1$1",focus=2)]
-[name="角峰"]......至少我得试试。
-[name="角峰"]老爷他......太冒险了。
+[name="角峰"]……至少我得试试。
+[name="角峰"]老爷他……太冒险了。
 [character(name="avg_198_blackd_1#8$1",name2="avg_199_yak_1#1$1",focus=1)]
 [name="魏斯"]风险与机遇并存，一直不都是这么过来的？
 [name="魏斯"]我们只需要听老爷的。
 [PlaySound(key="$d_avg_snowstormflp", volume=1, loop=true, channel="bse")]
 [character(name="avg_198_blackd_1#8$1",name2="avg_199_yak_1#1$1",focus=2)]
-[name="角峰"]......
+[name="角峰"]……
 [character(name="avg_198_blackd_1#8$1",name2="avg_199_yak_1#1$1",focus=1)]
-[name="魏斯"]呼......
+[name="魏斯"]呼……
 [character(name="avg_198_blackd_1#5$1",name2="avg_199_yak_1#1$1",focus=1)]
 [name="魏斯"]真冷。这雪是不是越来越大了？
 [StopSound(channel="bse", fadetime=1)]
@@ -88,7 +88,7 @@
 [character(name="avg_npc_253_1#8$1",name2="avg_npc_254_1#3$1",focus=1)]
 [name="菈塔托丝"]阿克托斯，逞口舌之快对我们都没有好处。在当下，我们两家之间才是最牢固的盟友关系。
 [character(name="avg_npc_253_1#8$1",name2="avg_npc_254_1#2$1",focus=2)]
-[name="阿克托斯"]......
+[name="阿克托斯"]……
 [character(name="avg_npc_253_1#8$1",name2="avg_npc_254_1#1$1",focus=2)]
 [name="阿克托斯"]逞口舌之快的恐怕不是我，菈塔托丝。
 [name="阿克托斯"]我不喜欢你和恩希欧迪斯的那种弯弯绕绕，我一向只看行动。
@@ -100,7 +100,7 @@
 [character(name="avg_npc_253_1#1$1",name2="avg_npc_254_1#9$1",focus=2)]
 [name="阿克托斯"]还是说，你知道主谋是谁？
 [character(name="avg_npc_253_1#1$1",name2="avg_npc_254_1#9$1",focus=1)]
-[name="菈塔托丝"]......我要是说我知道呢？
+[name="菈塔托丝"]……我要是说我知道呢？
 [character(name="avg_npc_253_1#1$1",name2="avg_npc_254_1#5$1",focus=2)]
 [name="阿克托斯"]——此话当真？
 [character(name="avg_npc_253_1#1$1",name2="avg_npc_254_1#5$1",focus=1)]
@@ -117,7 +117,7 @@
 [character(name="avg_npc_262_1#8$1")]
 [name="休露丝"]莫希，莫希！
 [character(name="avg_npc_262_1#8$1")]
-[name="休露丝"]人呢，跑哪儿去了......？！
+[name="休露丝"]人呢，跑哪儿去了……？！
 [Dialog]
 [Character(name="avg_npc_262_1#8$1", name2="char_empty")]
 [PlaySound(key="$rungeneral", volume=0.6)]
@@ -131,30 +131,30 @@
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_255_1#1$1",focus=1)]
 [name="休露丝"]我找没找你，这还用问吗？！
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#1$1",focus=1)]
-[name="休露丝"]平时你不是挺机灵的，怎么偏偏在这种时候瞎跑！我明明说了这次狩猎一定要好好准备......算了，你准备得怎么样了？
+[name="休露丝"]平时你不是挺机灵的，怎么偏偏在这种时候瞎跑！我明明说了这次狩猎一定要好好准备……算了，你准备得怎么样了？
 [name="休露丝"]我可实话和你说了，莫希，你是我手下最可靠的战士。
 [name="休露丝"]这次我能不能给布朗陶家争光，让菈塔托丝那个臭女人没话可说，可全都看你的表现了！
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#8$1",focus=2)]
-[name="莫希"]......
-[name="莫希"]夫人，恕我直言......
+[name="莫希"]……
+[name="莫希"]夫人，恕我直言……
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_255_1#8$1",focus=1)]
 [name="休露丝"]你有什么想说的就说，别扭扭捏捏的！
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_255_1#1$1",focus=2)]
 [name="莫希"]是。
 [name="莫希"]属下认为，夫人若是真的有心在这次仪式上有所表现，令菈塔托丝夫人对您刮目相看，只将目光放在狩猎上，或许还有所不足。
 [character(name="avg_npc_262_1#2$1",name2="avg_npc_255_1#1$1",focus=1)]
-[name="休露丝"]这我也知道......但除此之外还能怎么办？
+[name="休露丝"]这我也知道……但除此之外还能怎么办？
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#1$1",focus=1)]
 [name="休露丝"]菈塔托丝那女人总会把一切都想好，半点空间也不给我留。哼，就算我承认她比我聪明一点点好了。
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_255_1#1$1",focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="休露丝"]但我也......我也不是个废物！
+[name="休露丝"]但我也……我也不是个废物！
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#1$1",focus=1)]
 [name="休露丝"]所以这次不管怎么样，你都一定要给我大出风头，莫希！
 [name="休露丝"]让我们一起压一压菈塔托丝那个臭女人的气焰，我一定要让她好好瞧瞧我的厉害！
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#1$1",focus=2)]
-[name="莫希"]......
-[name="莫希"]......我明白您对布朗陶家的心意，夫人。
+[name="莫希"]……
+[name="莫希"]……我明白您对布朗陶家的心意，夫人。
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#6$1",focus=2)]
 [name="莫希"]既然如此，您就更不能只盯着狩猎本身来考虑这次的行动了。
 [character(name="avg_npc_262_1#2$1",name2="avg_npc_255_1#6$1",focus=1)]
@@ -164,19 +164,19 @@
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#3$1",focus=1)]
 [name="休露丝"]你这说的什么废话，我不信你还能信谁？
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#2$1",focus=2)]
-[name="莫希"]......
+[name="莫希"]……
 [character(name="avg_npc_262_1#7$1",name2="avg_npc_255_1#1$1",focus=2)]
-[name="莫希"]感谢您的信任，夫人。那么就请将此事交给我吧，我有一些想法......但需要见机行事，目前我还不能妄下结论。
+[name="莫希"]感谢您的信任，夫人。那么就请将此事交给我吧，我有一些想法……但需要见机行事，目前我还不能妄下结论。
 [name="莫希"]以及夫人，为了行动能够顺利，此事最好也不要对尤卡坦老爷提及。
 [character(name="avg_npc_262_1#4$1",name2="avg_npc_255_1#1$1",focus=1)]
 [name="休露丝"]连尤卡坦也不行？
 [character(name="avg_npc_262_1#6$1",name2="avg_npc_255_1#1$1",focus=1)]
-[name="休露丝"]也对，那家伙总是当我是个小姑娘一样拦着我做事，还和菈塔托丝告密，别以为我不知道......
+[name="休露丝"]也对，那家伙总是当我是个小姑娘一样拦着我做事，还和菈塔托丝告密，别以为我不知道……
 [character(name="avg_npc_262_1#1$1",name2="avg_npc_255_1#1$1",focus=1)]
 [name="休露丝"]那就全都交给你了，莫希！一定不要让我失望！
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_255_1#6$1",focus=2)]
-[name="莫希"]当然，请您放心......
-[name="莫希"]......届时，属下一定会让您大出风头。
+[name="莫希"]当然，请您放心……
+[name="莫希"]……届时，属下一定会让您大出风头。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -209,13 +209,13 @@
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=1)]
 [name="恩雅"]从图里卡姆出发，步行来到喀兰圣山，确实是辛苦了。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=1)]
-[name="恩雅"]但......希望您真的能够找到正确的道路。
+[name="恩雅"]但……希望您真的能够找到正确的道路。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=2)]
 [name="恩希欧迪斯"]有圣女大人的这句祝福，前路已然明朗。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#2$1",focus=2)]
 [name="恩希欧迪斯"]正如此刻，我正朝耶拉冈德的教诲而去。
 [character(name="avg_174_slbell_1#8$1",name2="avg_172_svrash_1#2$1",focus=1)]
-[name="恩雅"]......
+[name="恩雅"]……
 [name="恩雅"]您的口才当真出众，恩希欧迪斯大人。
 [character(name="avg_174_slbell_1#8$1",name2="avg_172_svrash_1#1$1",focus=2)]
 [name="恩希欧迪斯"]过誉了。
@@ -229,23 +229,23 @@
 [name="恩雅"]大长老在做祭拜的准备，我就出来迎接您了。
 [name="恩雅"]这次圣猎，我将遵循耶拉冈德的旨意，与各位共进退，完成这场仪式。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#5$1",focus=2)]
-[name="恩希欧迪斯"]您是说......您要亲自进入猎场？
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]您是说……您要亲自进入猎场？
+[name="恩希欧迪斯"]……
 [character(name="avg_174_slbell_1#8$1",name2="avg_172_svrash_1#5$1",focus=1)]
 [name="恩雅"]怎么，恩希欧迪斯大人也认为我的决定过于轻率吗？
 [character(name="avg_174_slbell_1#8$1",name2="avg_172_svrash_1#1$1",focus=2)]
-[name="恩希欧迪斯"]......绝无此意。
+[name="恩希欧迪斯"]……绝无此意。
 [name="恩希欧迪斯"]我只是感慨——看来圣女大人已逐渐有了身为三大家族统领者的自觉。这是谢拉格之幸。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=1)]
 [name="恩雅"]只是做我分内之事。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=2)]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=1)]
-[name="恩雅"]......
+[name="恩雅"]……
 [character(name="avg_npc_269")]
-[name="侍女"]圣女大人，恩希欧迪斯大人，圣猎即将开始，请尽快移步......
+[name="侍女"]圣女大人，恩希欧迪斯大人，圣猎即将开始，请尽快移步……
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=1)]
-[name="恩雅"]......时候是差不多了。
+[name="恩雅"]……时候是差不多了。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#1$1",focus=1)]
 [name="恩雅"]请随我来吧，恩希欧迪斯大人。
 [character(name="avg_174_slbell_1#1$1",name2="avg_172_svrash_1#10$1",focus=2)]
@@ -257,7 +257,7 @@
 [StopSound(channel="bse", fadetime=1)]
 [character(name="avg_174_slbell_1#1$1",fadetime=1.5)]
 [delay(time=1.5)]
-[name="恩雅"]......
+[name="恩雅"]……
 [name="恩雅"]恩希欧迪斯大人。
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]有何吩咐？
@@ -265,11 +265,11 @@
 [name="恩雅"]不论您的路是否走对，谢拉格总有它自己的方向。
 [name="恩雅"]没有人能够替所有耶拉冈德的子民做决定。
 [character(name="avg_172_svrash_1#9$1")]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]您所言......亦正是我所想。
+[name="恩希欧迪斯"]您所言……亦正是我所想。
 [character(name="avg_172_svrash_1#9$1")]
-[name="恩希欧迪斯"]功过是非自有他人评判。事到如今，义理俱成，我断无退却之理。我之所为......
+[name="恩希欧迪斯"]功过是非自有他人评判。事到如今，义理俱成，我断无退却之理。我之所为……
 [name="恩希欧迪斯"]——不过尽人事罢了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -301,7 +301,7 @@
 [character(name="avg_174_slbell_1#1$1")]
 [name="恩雅"]愿信仰归于耶拉冈德，繁荣归于谢拉格。
 [character(name="avg_npc_258_1#1$1")]
-[name="大长老"]......愿信仰归于耶拉冈德，繁荣归于谢拉格。
+[name="大长老"]……愿信仰归于耶拉冈德，繁荣归于谢拉格。
 [Character]
 [name="三家家主"]愿信仰归于耶拉冈德，繁荣归于谢拉格。
 [Character]

@@ -31,7 +31,7 @@
 [charslot]
 [PlayMusic(intro="$normal02_intro", key="$normal02_loop", volume=0.6)]
 [charslot(slot = "l", name = "avg_npc_1914_1#1$1", duration=1, isblock=true)]
-[name="疲惫的警察"]......
+[name="疲惫的警察"]……
 [dialog]
 [PlaySound(key="$rungeneral", volume=1, loop=true, channel="r")]
 [StopSound(channel="r", fadetime=1)]
@@ -40,15 +40,15 @@
 [charslot(slot = "r", name = "avg_npc_1915_1#1$1", focus="r")]
 [name="泄气的警察"]别傻站着，这帮亡命徒还没嫌疑人有分寸！
 [charslot(slot = "l", name = "avg_npc_1914_1#1$1", focus="l")]
-[name="疲惫的警察"]......我累了。
+[name="疲惫的警察"]……我累了。
 [charslot(slot = "r", name = "avg_npc_1915_1#1$1", focus="r")]
 [name="泄气的警察"]谁不累？
 [charslot(slot = "l", name = "avg_npc_1914_1#1$1", focus="l")]
 [name="疲惫的警察"]我是说，我真的累了。
 [name="疲惫的警察"]跟一帮社会渣滓一起，一群人抓一个人，还*东国粗口*抓不到。
 [name="疲惫的警察"]她连我们的一根头发都不愿意碰，倒在她那刀鞘下的才是真正的渣滓，每个人屁股上都不缺案底。
-[name="疲惫的警察"]她把他们一个个打趴下，我们却和社会渣滓一起对付她......
-[name="疲惫的警察"]可恶......该死！
+[name="疲惫的警察"]她把他们一个个打趴下，我们却和社会渣滓一起对付她……
+[name="疲惫的警察"]可恶……该死！
 [name="疲惫的警察"]惟任那家伙只知道一句“会好的”，我从入职到现在已经干了快十年，肩上的章也快换了，真的好了吗？好个——
 [charslot(slot = "r", focus="n")]
 [name="张狂的忍者"]条子，躲开！
@@ -111,7 +111,7 @@
 [name="重复播放的广播"]古今东西，无所不包，林贡斯百货♪
 [charslot(slot = "m", name = "avg_npc_1908_1#1$1")]
 [name="拉客的店员"]时候还早，进来喝一杯吧！像您这样豪爽的鬼族，最适合本店新进的精酿黑啤——
-[name="拉客的店员"]如果您是古典派，我们也有珍藏的芋烧酒......
+[name="拉客的店员"]如果您是古典派，我们也有珍藏的芋烧酒……
 [dialog]
 [charslot]
 [StopSound(channel="cr", fadetime=2)]
@@ -129,7 +129,7 @@
 [charslot(slot = "m", focus="n")]
 [name="打扮入时的男人"]等等，您是“金石会的青鬼”？
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#4$1")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "m", focus="n")]
 [name="打扮入时的男人"]我能问下萌萌香小姐去哪里了吗？
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
@@ -158,7 +158,7 @@
 [charslot(slot = "r", name = "avg_1044_hsgma2_1#2$1", posfrom="200,0", posto="0,0", duration=1.5, isblock=true)]
 [Delay(time=0.5)]
 [charslot(slot = "l", name = "avg_npc_1908_1#1$1", focus="l")]
-[name="拉客的店员"]那个，“青鬼”小姐，本店只是个卖酒的......
+[name="拉客的店员"]那个，“青鬼”小姐，本店只是个卖酒的……
 [charslot(slot = "r", name = "avg_1044_hsgma2_1#2$1", focus="r")]
 [name="星熊"]“燃岛黑”，打包带走。
 [charslot(slot = "l", name = "avg_npc_1908_1#1$1", focus="l")]
@@ -209,15 +209,15 @@
 [PlaySound(key="$d_avg_drinkswllw", volume=1)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#3$1")]
-[name="星熊"]嘶......卖这么贵，度数又这么高的酒，也这么单薄吗？
+[name="星熊"]嘶……卖这么贵，度数又这么高的酒，也这么单薄吗？
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
 [name="星熊"]铁斋叔，我这次回御机和人喝酒，一次是在老宅祭奠父亲，一次就是现在。
 [name="星熊"]那些追着怪谈跑的人一定觉得合适极了，“青鬼”就该跟死人一起喝酒。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#1$1")]
-[name="星熊"]怪谈......哈，怪谈。
+[name="星熊"]怪谈……哈，怪谈。
 [name="星熊"]我在东国的故事，在我不明真相，却认定了对错，一脚踏出去之后，就已经结束了。
 [name="星熊"]那真的是最蠢的事情。哪怕我活了下来，后来老陈也面临差不多的抉择，而她也活了下来，我仍然这么觉得。
-[name="星熊"]......说起陈晖洁，铁斋叔，你该和她认识认识的。
+[name="星熊"]……说起陈晖洁，铁斋叔，你该和她认识认识的。
 [name="星熊"]她当得起侠这个字。炎国也好，东国也罢，只要“侠”这个字还这么写，一人挟剑，立于万军之前，那就是侠。
 [dialog]
 [PlaySound(key="$d_avg_drinkswllw", volume=1)]
@@ -232,9 +232,9 @@
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#11$1")]
 [name="星熊"]哈哈，别说是你，这话我自己听着都觉得别扭。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#10$1")]
-[name="星熊"]但怕......就是怕。
-[name="星熊"]把自己的生死置之度外，于我而言没什么难的，可其他人呢？我要保护的人呢？我的......
-[name="星熊"]......家呢？
+[name="星熊"]但怕……就是怕。
+[name="星熊"]把自己的生死置之度外，于我而言没什么难的，可其他人呢？我要保护的人呢？我的……
+[name="星熊"]……家呢？
 [name="星熊"]说实话，事到如今，我该立刻启程回龙门。
 [name="星熊"]龙门近卫局的人在东国背了命案，此事非同小可。Missy自然不用说了，林先生，文月夫人，甚至魏先生，怕不是都要为我劳神。
 [name="星熊"]他们不会弃我于不顾。我明白他们是什么样的人，他们也明白我。
@@ -247,16 +247,16 @@
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
 [name="星熊"]或者，让这把刀出鞘，彻底沦为一个鬼。杀人鬼。
-[name="星熊"]杀了金兵卫，杀了敢跟着他向我拔刀的混混，杀了敢拦我的警察......
+[name="星熊"]杀了金兵卫，杀了敢跟着他向我拔刀的混混，杀了敢拦我的警察……
 [name="星熊"]最终成为雨夜游荡在御机街头的灾祸，成为彻彻底底的怪物，成为真正的怪谈。
-[name="星熊"]解恨，痛快，顺应潮流，拥抱时势，去当狂欢中最耀眼的疯子，然后正中他的......
+[name="星熊"]解恨，痛快，顺应潮流，拥抱时势，去当狂欢中最耀眼的疯子，然后正中他的……
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#10$1")]
 [name="星熊"]不，御机所有人的下怀。
-[name="星熊"]......无路可走。走什么路，做什么事，全都是错。
+[name="星熊"]……无路可走。走什么路，做什么事，全都是错。
 [dialog]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#10$1")]
 [Delay(time=1.5)]
-[name="星熊"]酒......这就快喝干了？
+[name="星熊"]酒……这就快喝干了？
 [charslot(slot = "m", focus="n")]
 [name="？？？"]星熊小姐海量。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -269,7 +269,7 @@
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1", duration=1.5, isblock=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
-[name="星熊"]......你的手下呢？
+[name="星熊"]……你的手下呢？
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
 [name="惟任刑警"]就我一个人。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
@@ -287,15 +287,15 @@
 [charslot]
 警察自顾自地盘腿坐下，从口袋里摸出个小玻璃杯。
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
-[name="惟任刑警"]......啧，好烈的酒。
+[name="惟任刑警"]……啧，好烈的酒。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#1$1")]
 [name="星熊"]打算晓之以理，动之以情，让我乖乖跟着你进局子，好完成上司给你的任务？
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
-[name="惟任刑警"]......然后把你弄出御机，让你老老实实回龙门。
+[name="惟任刑警"]……然后把你弄出御机，让你老老实实回龙门。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
 [name="星熊"]这时候不听你上司的了？
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [name="惟任刑警"]你以为我为什么在你刚进御机的时候就派人逮你？
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#5$1")]
 [name="星熊"]二十年前在龙门犯下要案的黑道高层重返龙门，换成我，我也会去逮住他好好问个清楚的。
@@ -317,13 +317,13 @@
 [name="惟任刑警"]真亏你忘得了啊。
 [name="惟任刑警"]当年死在你们金石会手里的那个议员候选人，他也姓惟任。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#10$1")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "m", name = "avg_npc_1898_1#7$1")]
 [name="惟任刑警"]这拳是替我叔叔打的。
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
 [name="惟任刑警"]如果不是你为了黑道的*东国粗口*侠义把罪名强行担在自己身上，他的事也不会沉寂这么多年。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#4$1")]
-[name="星熊"]......抱歉。
+[name="星熊"]……抱歉。
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
 [name="惟任刑警"]道歉早就没用了。我现在拿三船无计可施。
 [name="惟任刑警"]那家伙早就傍上了一位炙手可热的议员。不然你以为，光凭一个黑道的身份，他就敢在警察局呼来喝去？
@@ -331,7 +331,7 @@
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
 [name="星熊"]然后，铁斋叔的死会成为青鬼和凶宅怪谈的最后一个注脚，一切都会像当年一样不了了之，是吗，“灵务局”的惟任刑警？
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
 [name="星熊"]你嘴上说不让他称心如意，可你做的事不就是在帮他吗？
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
@@ -353,7 +353,7 @@
 [name="惟任刑警"]现在轮到你回答我了。
 [name="惟任刑警"]你是打算帮我还清我这辈子都未必还得清的贷款呢，还是有比议员更大的势力，能彻底扳倒三船？
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#4$1")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
 [name="惟任刑警"]我已经在尽我所能帮你了。别不识好歹，青鬼。
 [dialog]
@@ -364,11 +364,11 @@
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
 [name="惟任刑警"]跟我走。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
-[name="星熊"]......不行。
+[name="星熊"]……不行。
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
 [name="惟任刑警"]给我个你不能走的理由。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#5$1")]
-[name="星熊"]我......
+[name="星熊"]我……
 [dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -386,14 +386,14 @@
 [PlaySound(key="$d_avg_oldtvelectricity", volume=1, loop=true, channel="o")]
 [StopSound(channel="o", fadetime=6)]
 [delay(time=1)]
-[name="？？？"]......熊！
+[name="？？？"]……熊！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
 [name="星熊"]谁？
 [charslot(slot = "m", name = "avg_npc_1898_1#6$1")]
 [name="惟任刑警"]什么谁？你在说什么？
 [charslot(slot = "m", focus="n")]
-[name="？？？"]......星熊！
+[name="？？？"]……星熊！
 [name="？？？"]幽灵小姐！！
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#9$1")]
 [name="星熊"]是萌萌香？！
@@ -403,7 +403,7 @@
 [charslot(slot = "m", focus="n")]
 [name="萌萌香的声音"]我在这里！
 [charslot(slot = "m", name = "avg_npc_1898_1#6$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
 [name="星熊"]这边！
 [dialog]
@@ -426,7 +426,7 @@
 [name="星熊"]你怎么——
 [dialog]
 [charslot]
-......你怎么被关在了电视里？
+……你怎么被关在了电视里？
 这句话星熊和惟任刑警都没问出口。
 两人面前，一家门脸根本看不出主营业务，连开没开业都不知道的小店外，摆着一台破破烂烂的电视。
 披头散发的萌萌香在里面朝着星熊大叫。
@@ -453,9 +453,9 @@
 [charslot(slot = "m", name = "avg_npc_1918_1#8$1")]
 [name="萌萌香"]我看不见你，但我听见你说话了！
 [charslot(slot = "m", name = "avg_npc_1918_1#21$1")]
-[name="萌萌香"]太好了，真的太好了......我以为一切都已经没救了......
+[name="萌萌香"]太好了，真的太好了……我以为一切都已经没救了……
 [charslot(slot = "m", name = "avg_npc_1918_1#22$1")]
-[name="萌萌香"]呜呜......
+[name="萌萌香"]呜呜……
 [charslot(slot = "m", focus="n")]
 [name="星熊"]你先别哭，你到底在哪？这台电视现在放的是什么地方的事情？
 [charslot(slot = "m", name = "avg_npc_1918_1#22$1")]
@@ -486,7 +486,7 @@
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
 [name="星熊"]惟任。
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#4$1")]
 [name="星熊"]铁斋叔刚死，我的心很乱。我忘了一些事情。这是我不对。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
@@ -499,9 +499,9 @@
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
 [name="惟任刑警"]我们会尽量保证那两个人的生命安全——
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
-[name="星熊"]凶宅的受害者，铁斋叔，前几天被砍倒在锻冶町的金兵卫的手下......你们有哪次做到过吗？
+[name="星熊"]凶宅的受害者，铁斋叔，前几天被砍倒在锻冶町的金兵卫的手下……你们有哪次做到过吗？
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [dialog]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -541,15 +541,15 @@
 她忽然完全没来由地闻到汐斯塔的海风味。
 维多利亚原野上潮湿的草垛味。
 龙门下城区食肆的香味。
-......锻冶町愈发浓烈的，只有老宅子才有的木料的气息。
+……锻冶町愈发浓烈的，只有老宅子才有的木料的气息。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
-[name="星熊"]......
+[name="星熊"]……
 [name="星熊"]你说得对。
 [charslot(slot = "m", name = "avg_npc_1898_1#7$1")]
 [name="惟任刑警"]知道我说得对，那就赶紧——
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#4$1")]
 [name="星熊"]我是说，“龙门近卫局会帮我把事情摆平”那句，你说得对。
-[name="星熊"]我之前好像有点太瞻前顾后......或者说，太怕给朋友们添麻烦了。
+[name="星熊"]我之前好像有点太瞻前顾后……或者说，太怕给朋友们添麻烦了。
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
 [name="惟任刑警"]你什么意思？
 [charslot]
@@ -564,13 +564,13 @@
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#3$1")]
 [name="星熊"]如果我就这么灰溜溜地回了龙门，Missy大概会气到住院，林雨霞呢，我这辈子都别想在她面前抬起头来。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#1$1")]
-[name="星熊"]至于老陈......我还等着用重铸好的般若跟赤霄打一架呢。总不能空着手回去吧。
+[name="星熊"]至于老陈……我还等着用重铸好的般若跟赤霄打一架呢。总不能空着手回去吧。
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
 [name="惟任刑警"]你就不怕这把刀出鞘之后，你又像二十年前那样后悔一生吗？！
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#5$1")]
 [name="星熊"]铁斋叔说般若中其实融着僧院的秘法，可我心性不足，压不住鬼族血脉中的狂性。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
-[name="星熊"]不过，心性、秘法......你不觉得这些都太虚无缥缈了吗，惟任？
+[name="星熊"]不过，心性、秘法……你不觉得这些都太虚无缥缈了吗，惟任？
 [name="星熊"]二十年前若是真有秘法，事情会变成什么样，我不知道，我也不关心。但此时此刻，我不需要什么秘法。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#1$1")]
 [name="星熊"]只要这绑带还被我握在手里，星熊就决不会沦为只知杀戮的恶鬼。
@@ -583,9 +583,9 @@
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#1$1")]
 [name="星熊"]我答应过萌萌香，就这么简单。
 [charslot(slot = "m", name = "avg_npc_1898_1#1$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
-[name="星熊"]哦，还有，既然要去救人......我多半会和三船碰上。就算碰不上，我也会去找他的。我有事要问他。
+[name="星熊"]哦，还有，既然要去救人……我多半会和三船碰上。就算碰不上，我也会去找他的。我有事要问他。
 [charslot]
 从警察深陷的眼窝和浓重的黑眼圈中间，星熊分明看见一束锐利的光。
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
@@ -593,7 +593,7 @@
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
 [name="星熊"]我不想打，但多半逃不掉。
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
-[name="惟任刑警"]......
+[name="惟任刑警"]……
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
 [name="惟任刑警"]帮我在那家伙身上留个口子。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
@@ -605,7 +605,7 @@
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
 [name="惟任刑警"]最后重复一次，我可是警察啊。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#1$1")]
-[name="星熊"]......
+[name="星熊"]……
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
 [name="惟任刑警"]我先回警局了。
 [name="惟任刑警"]只要不出人命，从上面来的压力，我会尽量顶住。

@@ -26,10 +26,10 @@
 [charslot(slot="m",name="avg_npc_1619_1#4$1")]
 [name="莫不服"]咳咳咳——！
 [charslot(slot="m",name="avg_npc_1619_1#5$1")]
-[name="莫不服"]你......走......不用管我！
+[name="莫不服"]你……走……不用管我！
 [charslot(slot = "m", name = "avg_1040_blaze2_1#9$1")]
 [name="煌"]捂住口鼻，别说话！
-[name="煌"]这一招可能用得不是很熟练......试试吧。
+[name="煌"]这一招可能用得不是很熟练……试试吧。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#2$1")]
 [name="煌"]麻烦低下头。
 [dialog]
@@ -56,8 +56,8 @@
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1619_1#1$1",duration=0.5)]
 [Delay(time=0.5)]
-[name="莫不服"]竟然有这样的本事......你难道是......
-[name="莫不服"]......多谢。
+[name="莫不服"]竟然有这样的本事……你难道是……
+[name="莫不服"]……多谢。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#1$1")]
 [multiline(name="煌")]不客气——
 [charslot(slot = "m", name = "avg_1040_blaze2_1#2$1")]
@@ -95,22 +95,22 @@
 [dialog]
 [charslot(slot="m",name="avg_npc_1612_1#16$1",duration=0.5)]
 [Delay(time=1)]
-[name="麟青砚"]......没事吧？
+[name="麟青砚"]……没事吧？
 [charslot(slot = "m", name = "avg_1040_blaze2_1#11$1")]
 [name="煌"]惊蛰？！你怎么会在这？
 [charslot(slot="m",name="avg_npc_1612_1#2$1")]
-[name="麟青砚"]......我是不是该问问，你又为什么会出现在这里？
+[name="麟青砚"]……我是不是该问问，你又为什么会出现在这里？
 [charslot(slot = "m", name = "avg_1040_blaze2_1#8$1")]
-[name="煌"]我......
+[name="煌"]我……
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
-[name="麟青砚"]回头再和你算账......
+[name="麟青砚"]回头再和你算账……
 [charslot(slot="m",name="avg_npc_1612_1#3$1")]
-[name="麟青砚"]上个月，鼎丰楼的火，是不是也是这样......？
+[name="麟青砚"]上个月，鼎丰楼的火，是不是也是这样……？
 [charslot(slot = "m", focus = "n")]
 麟青砚环顾四周，后厨的厨师们早已乱作一团。而她的目光很快锁定了一个戴着面具的身影。
 那人似乎对上了她的视线，随即转身消失在人群中。
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
-[name="麟青砚"]......！
+[name="麟青砚"]……！
 [name="麟青砚"]煌，留在这里，保护好莫不服！
 [dialog]
 [charslot(slot = "m",posfrom = "0,0", posto = "250,0",duration = 0.5,afrom=1,ato=0)]
@@ -119,11 +119,11 @@
 [charslot(slot = "m", name = "avg_1040_blaze2_1#11$1")]
 [name="煌"]哎！你上哪去？
 [charslot(slot = "m", name = "avg_1040_blaze2_1#9$1")]
-[name="煌"]咳咳......这烟，呛死我了。
+[name="煌"]咳咳……这烟，呛死我了。
 [charslot(slot="m",name="avg_npc_1619_1#4$1")]
-[name="莫不服"]咳咳咳......那边的立柱上有拉闸......
+[name="莫不服"]咳咳咳……那边的立柱上有拉闸……
 [charslot(slot = "m", name = "avg_1040_blaze2_1#8$1")]
-[name="煌"]这......这么多......到底该拉哪个......
+[name="煌"]这……这么多……到底该拉哪个……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -142,28 +142,28 @@
 [name="麟青砚"]你再动一下，下一道雷就会落在你头上。
 [name="麟青砚"]回答我的问题。
 [charslot(slot = "m", focus = "n")]
-[name="戴面具的人"]......
+[name="戴面具的人"]……
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
 [name="麟青砚"]为什么要在鼎丰楼纵火？你的目标是莫不服，还是其他人？
 [name="麟青砚"]之前闹出的几次风波，也是你的手笔吧？
-[name="麟青砚"]还有......卷牍库？
+[name="麟青砚"]还有……卷牍库？
 [charslot(slot = "m", focus = "n")]
-[name="戴面具的人"]......
+[name="戴面具的人"]……
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
-[name="麟青砚"]三番五次地闹出动静，你......还有你的同党，一定意有所指——为什么？
+[name="麟青砚"]三番五次地闹出动静，你……还有你的同党，一定意有所指——为什么？
 [charslot(slot = "m", focus = "n")]
-[name="戴面具的人"]......
+[name="戴面具的人"]……
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
 [name="麟青砚"]不肯说？那我就带你回大理寺再慢慢审——
 [charslot(slot = "m", focus = "n")]
-[name="戴面具的人"]......麟少卿既然问出了这样的问题，心里难道没有答案？
+[name="戴面具的人"]……麟少卿既然问出了这样的问题，心里难道没有答案？
 [name="戴面具的人"]麟少卿到底是看不到真相，还是因为不敢看，才假装看不到？
 [charslot(slot="m",name="avg_npc_1612_1#10$1")]
 [name="麟青砚"]什——
 [charslot(slot = "m", focus = "n")]
 [name="戴面具的人"]大理寺是个好地方，不过我现在还不想去。
 [name="戴面具的人"]另外，你意志不坚的时候，手里的雷霆，没那么可怕。
-[name="戴面具的人"]......你该清醒一下了。
+[name="戴面具的人"]……你该清醒一下了。
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
 [name="麟青砚"]等等——
 [stopmusic(fadetime=2)]
@@ -183,7 +183,7 @@
 [charslot(slot = "m", name = "avg_1040_blaze2_1#9$1")]
 [name="煌"]你没事吧？
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
-[name="麟青砚"]......该死。
+[name="麟青砚"]……该死。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -194,16 +194,16 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1635_1#1$1",duration=0.5)]
 [delay(time=1)]
-[name="慌张的厨师"]客人都已经安顿好了，只是有几个人受了惊，好在没人受伤......
-[name="慌张的厨师"]我们已经报案了，官府的人应该马上就会到......
+[name="慌张的厨师"]客人都已经安顿好了，只是有几个人受了惊，好在没人受伤……
+[name="慌张的厨师"]我们已经报案了，官府的人应该马上就会到……
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
 [name="莫不服"]官府的人，这边不是已经有一位了吗？
 [charslot(slot="m",name="avg_npc_1612_1#3$1")]
-[name="麟青砚"]......
+[name="麟青砚"]……
 [charslot(slot = "m", name = "avg_npc_1635_1#1$1")]
-[name="慌张的厨师"]总厨......您......
+[name="慌张的厨师"]总厨……您……
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
-[name="莫不服"]我没事......多亏了这位姑娘。
+[name="莫不服"]我没事……多亏了这位姑娘。
 [name="莫不服"]这里也没你们什么事了，都回去吧。
 [dialog]
 [playsound(key="$d_gen_walk_n")]
@@ -217,38 +217,38 @@
 [name="莫不服"]这位大人，和这位姑娘认识？
 [charslot(slot = "m", name = "avg_1040_blaze2_1#2$1")]
 [name="煌"]她是我朋友来着。
-[name="煌"]莫大厨，她在调查一桩很重要的案子，能不能麻烦您，尽量回答一下她的问题......？
+[name="煌"]莫大厨，她在调查一桩很重要的案子，能不能麻烦您，尽量回答一下她的问题……？
 [charslot(slot="m",name="avg_npc_1619_1#2$1")]
-[name="莫不服"]哼......我莫某人不喜欢官府的事，但也不喜欢欠人情。今天被你救了一命，这人情是无论如何也还不清了。
+[name="莫不服"]哼……我莫某人不喜欢官府的事，但也不喜欢欠人情。今天被你救了一命，这人情是无论如何也还不清了。
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
 [name="莫不服"]好了。有什么问题，就请问吧。
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
 [name="麟青砚"]我想在您的饭店里找一位厨师，他是一桩案子的证人。
 [name="麟青砚"]十年前，他应该在刑部死狱大牢里，给那里的死刑犯做“断头饭”。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#2$1")]
-[name="煌"]专门做断头饭的厨师......也能通过鼎丰楼的考核吗？
+[name="煌"]专门做断头饭的厨师……也能通过鼎丰楼的考核吗？
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
 [name="麟青砚"]鼎丰楼每年都要在百珍宴上为百官准备菜肴，所以每一位厨师的履历必须清晰明了。
 [name="麟青砚"]我想，这个厨师应该不难找到。
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
-[name="莫不服"]......大人想叫我怎么回答？
+[name="莫不服"]……大人想叫我怎么回答？
 [charslot(slot="m",name="avg_npc_1619_1#5$1")]
 [name="莫不服"]先是酒楼无端起火，再是说我们有厨师给人做断头饭。我这鼎丰楼还要不要开下去了？
 [charslot(slot="m",name="avg_npc_1612_1#2$1")]
 [name="麟青砚"]我体谅先生的难处，所以选在这样私密的场合来向您讨教。
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
-[name="莫不服"]......罢了，都是自己做过的事，没什么不能承认的。
+[name="莫不服"]……罢了，都是自己做过的事，没什么不能承认的。
 [name="莫不服"]大人要找的那个厨子，死狱大牢里那个叫莫小六的厨师，就是莫某人。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#11$1")]
 [name="煌"]啊？！
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
-[name="麟青砚"]果然......
+[name="麟青砚"]果然……
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
 [name="莫不服"]做断头饭也不是什么见不得人的活，王侯将相要吃饭，贩夫走卒也要吃饭。
 [name="莫不服"]我这手厨艺，就是在死狱大牢里，给天南地北的死刑犯做断头饭练出来的。
 [name="莫不服"]我之所以改名隐藏身份，也只是不想给这家饭店带来麻烦罢了。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#2$1")]
-[name="煌"]我开始......有些佩服您了。
+[name="煌"]我开始……有些佩服您了。
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
 [name="麟青砚"]我想问您，是否还记得，十年前，有一个被打入大牢，名叫“顾筌”的人？
 [name="麟青砚"]如果不记得这个名字的话，您应该还记得，几十年来，唯一一个，被打入死狱，却又被放出去的人。
@@ -258,26 +258,26 @@
 [charslot(slot = "m", name = "avg_1040_blaze2_1#10$1")]
 [name="煌"]等一下！你说我爸？我爸为什么会是死刑犯？
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
-[name="麟青砚"]......煌！
+[name="麟青砚"]……煌！
 [charslot(slot="m",name="avg_npc_1619_1#7$1")]
 [name="莫不服"]你说顾筌？他是你的父亲？
 [charslot(slot = "m", name = "avg_1040_blaze2_1#12$1")]
-[name="煌"]对......
+[name="煌"]对……
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
-[name="麟青砚"]您还记得他......
+[name="麟青砚"]您还记得他……
 [charslot(slot="m",name="avg_npc_1619_1#3$1")]
-[name="莫不服"]记得......太记得了。
+[name="莫不服"]记得……太记得了。
 [name="莫不服"]我在大牢里做了那么多年断头饭，见过无数穷凶极恶之徒、奸佞宵小之辈。那些犯人，临行前吃饭的眼神，大抵都是一个样。
 [name="莫不服"]可我从来没有在那座大牢里见过，眼神那样干净的人。
 [name="莫不服"]他和别的犯人不一样，从进入大牢的第一天起，他就从来没有哭天喊地，也没有委屈叫冤过。
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
 [name="莫不服"]当时连我都很奇怪，像这样的人，怎么会出现在死狱里。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#12$1")]
-[name="煌"]我爸他......怎么会......
+[name="煌"]我爸他……怎么会……
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
 [name="麟青砚"]那您是否知道，顾筌当时，是犯了什么罪才被打入死狱？
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
-[name="莫不服"]当时不知道......
+[name="莫不服"]当时不知道……
 [charslot(slot="m",name="avg_npc_1612_1#2$1")]
 [name="麟青砚"]当时？
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
@@ -285,41 +285,41 @@
 [name="莫不服"]我才知道，当年顾筌在百珍宴上，也向真龙献过一道菜。正巧，就是这位姑娘刚才抽到的，“天下一白”。
 [name="莫不服"]但是，他还在那盘菜旁边放上了一个白面馒头，馒头中间，夹着一块红色的腐乳。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#11$1")]
-[name="煌"]这是......什么意思？为什么献了这样一道菜，就要被打入大牢？
+[name="煌"]这是……什么意思？为什么献了这样一道菜，就要被打入大牢？
 [charslot(slot="m",name="avg_npc_1612_1#3$1")]
-[name="麟青砚"]......
+[name="麟青砚"]……
 [charslot(slot = "m", name = "avg_1040_blaze2_1#8$1")]
 [name="煌"]麟青砚，你为什么不说话？
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
-[name="莫不服"]......你的家人给你讲过太师的事，但没和你讲过她最终的下场？
+[name="莫不服"]……你的家人给你讲过太师的事，但没和你讲过她最终的下场？
 [charslot(slot = "m", name = "avg_1040_blaze2_1#13$1")]
-[name="煌"]她的......下场？
+[name="煌"]她的……下场？
 [charslot(slot="m",name="avg_npc_1612_1#4$1")]
-[name="麟青砚"]......
+[name="麟青砚"]……
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
-[name="麟青砚"]四十年前，太师密谋刺杀前任真龙，事败后自尽，其党羽也被彻查，多达数千人......
+[name="麟青砚"]四十年前，太师密谋刺杀前任真龙，事败后自尽，其党羽也被彻查，多达数千人……
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
 [name="莫不服"]顾筌在百珍宴上献上的那道菜，就是意在给叛臣平反，惹得真龙大怒。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#10$1")]
-[name="煌"]不可能......我爸和我讲过很多次，太师一辈子为国为民，心怀天下，怎么可能是谋逆的叛臣？！
+[name="煌"]不可能……我爸和我讲过很多次，太师一辈子为国为民，心怀天下，怎么可能是谋逆的叛臣？！
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
-[name="麟青砚"]......史书上的确是这样写的。
+[name="麟青砚"]……史书上的确是这样写的。
 [charslot(slot = "m", name = "avg_1040_blaze2_1#10$1")]
 [name="煌"]史书上写的就是真的吗？！
 [name="煌"]麟青砚，要是史书上全是真的，你又在查什么？！
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
-[name="麟青砚"]......
+[name="麟青砚"]……
 [charslot(slot = "m", name = "avg_1040_blaze2_1#9$1")]
-[name="煌"]而且......而且我爸后来也没有真的被杀对不对？那不就证明朝堂之上，还是有人相信太师和我爸是清白的吗！
+[name="煌"]而且……而且我爸后来也没有真的被杀对不对？那不就证明朝堂之上，还是有人相信太师和我爸是清白的吗！
 [charslot(slot="m",name="avg_npc_1612_1#13$1")]
 [name="麟青砚"]这的确是疑点，如果顾筌真的是为太师案入狱，那后来他又为何会被放出来？
 [charslot(slot="m",name="avg_npc_1619_1#3$1")]
-[name="莫不服"]这也是让我印象深刻的事......顾筌入狱以后，有两个人见了他，这两个人，我碰巧都认识......
+[name="莫不服"]这也是让我印象深刻的事……顾筌入狱以后，有两个人见了他，这两个人，我碰巧都认识……
 [charslot(slot="m",name="avg_npc_1619_1#1$1")]
 [name="莫不服"]一个是来给他送饭的人，是当时的大理寺少卿虞澄。
-[name="莫不服"]另一个是带他出去的人......前任礼部尚书，宁述。
+[name="莫不服"]另一个是带他出去的人……前任礼部尚书，宁述。
 [charslot(slot="m",name="avg_npc_1612_1#10$1")]
-[name="麟青砚"]什么......？！
+[name="麟青砚"]什么……？！
 [charslot]
 [name="门外的声音"]快！跟上！立刻包围现场！
 [dialog]
@@ -329,7 +329,7 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_1612_1#16$1")]
-[name="麟青砚"]该死......偏偏这个时候......？！
+[name="麟青砚"]该死……偏偏这个时候……？！
 [charslot]
 [dialog]
 [playsound(key="$d_gen_walk_n")]
@@ -337,7 +337,7 @@
 [delay(time=2)]
 [name="谌彻"]真巧，麟少卿的动作倒是快我一步了。
 [charslot(slot="m",name="avg_npc_1612_1#1$1")]
-[name="麟青砚"]......前脚刚到，的确是巧。
+[name="麟青砚"]……前脚刚到，的确是巧。
 [charslot(slot="m",name="avg_npc_1613_1#1$1")]
 [name="谌彻"]大理寺调查鼎丰楼失火一案，请所有人配合。
 [name="谌彻"]麟青砚，还有旁边这位姑娘，都和我走一趟吧。

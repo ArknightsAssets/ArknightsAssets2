@@ -9,9 +9,9 @@
 [Blocker(a=0, r=0,g=0, b=0, fadetime=2, block=true)]
 [name="PRTS"]     1097年4月1日。第二季度文献调查，第122条记录。
 [Dialog]
-[Decision(options="......（呵欠）",values="1")]
+[Decision(options="……（呵欠）",values="1")]
 [Predicate(references="1")]
-[Decision(options="我想休息一下。;接下来......",values="1;2")]
+[Decision(options="我想休息一下。;接下来……",values="1;2")]
 [Predicate(references="1")]
 [name="PRTS"]     您刚开始工作，现在还不能休息。
 [Predicate(references="1;2")]
@@ -31,8 +31,8 @@
 [Image]
 [Background(image="bg_black",screenadapt="coverall",block=true)]
 [Blocker(a=0, fadetime=1, block=true)]
-[name="PRTS"]     现在解开固定条，扫描当中的内容。开始扫描......
-[name="PRTS"]     ......
+[name="PRTS"]     现在解开固定条，扫描当中的内容。开始扫描……
+[name="PRTS"]     ……
 [name="PRTS"]     总体上来说，是一本讲述古国“阿加门”的历史故事的书籍。
 [name="PRTS"]     书中有诸多修改的痕迹，其中比较值得注意的是，这一页。
 [Dialog]
@@ -41,7 +41,7 @@
 [Character(fadetime=0)]
 [Image(image="avg_book2",x=0, y=0, xScale=1, yScale=1, fadetime=0)]
 [Blocker(a=0, fadetime=2, block=false)]
-[name="PRTS"]     这一页左边写着的是......“这是阿加门！！！” 阿加门是史料记载中的一个古国。
+[name="PRTS"]     这一页左边写着的是……“这是阿加门！！！” 阿加门是史料记载中的一个古国。
 [name="PRTS"]     而右边，看上去是一个古人留下的，用于隐藏特殊信息的图形纹章，用现代扫描技术甚至可以读出隐藏的信息。
 [Dialog]
 [Decision(options="哇，古代人怎么可能会这么懂？",values="1")]
@@ -56,7 +56,7 @@
 [name="PRTS"]     第一批次时代制式法杖的设计师们是一批出来创业的系统软件工程师。
 [name="PRTS"]     顺带一提，电子抽水马桶和城际终端彩票刮刮乐也是他们基于古代编码技术的发明。 
 [Dialog]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [name="PRTS"]     总之，我已经将所有信息传递至数据库。大致记载着古阿加门王国，一个关于执行正义的惩罚者的故事。
 [name="PRTS"]     接下来剩余的信息需要博士扫描这个纹章来解开了。

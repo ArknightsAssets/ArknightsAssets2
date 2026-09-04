@@ -9,11 +9,11 @@
 [ImageTween(xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=0.9, yScaleTo=0.9,yTo=0,xTo=0, duration=45, block=false)]
 [CameraShake(duration=-1, xstrength=5, ystrength=5, vibrato=40, randomness=90, block=false)]
 [name="达格达"]推进之王，快看前面！
-[name="达格达"]这难道是......
+[name="达格达"]这难道是……
 [Dialog]
 [playMusic(intro="$stmkgt_02_intro", key="$stmkgt_02_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="推进之王"]......蒸汽甲胄。
+[name="推进之王"]……蒸汽甲胄。
 [Dialog]
 [PlaySound(key="$e_atk_stmkgt_h",volume=0.5)]
 [Delay(time=2)]
@@ -130,7 +130,7 @@
 [PlaySound(key="$d_sp_ballista",volume=0.5)]
 [name="维多利亚雇佣兵"]我们怎么可能战胜我们的骄傲，我们的荣光，我们的已经被背叛过一次的英雄？
 [name="维多利亚雇佣兵"]我们不可能战胜他。
-[name="维多利亚雇佣兵"]这是......维多利亚的蒸汽骑士。
+[name="维多利亚雇佣兵"]这是……维多利亚的蒸汽骑士。
 [Dialog]
 [Character]
 [PlaySound(key="$d_avg_steamrelease")]
@@ -151,7 +151,7 @@
 [PlaySound(key="$d_avg_steamrelease",volume=0.3,delay=1)]
 [Delay(time=1)]
 [character(name="avg_npc_405_1#2$1",name2="avg_155_tiger_1#10$1",focus=1)]
-[name="摩根"]这是......什么声音？
+[name="摩根"]这是……什么声音？
 [character(name="avg_npc_405_1#2$1",name2="avg_155_tiger_1#10$1",focus=2)]
 [name="因陀罗"]喷气声。
 [character(name="avg_npc_405_1#9$1",name2="avg_155_tiger_1#10$1",focus=1)]
@@ -163,12 +163,12 @@
 [name="因陀罗"]摩根，我们的队伍里有蒸汽骑士了！
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#1$1",focus=1)]
 [name="摩根"]伦蒂尼姆真的还有蒸汽骑士？他们就在这里？
-[name="摩根"]他们是在守着诸王长眠之所，守着......诸王之息吗？
+[name="摩根"]他们是在守着诸王长眠之所，守着……诸王之息吗？
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#1$1",focus=2)]
 [name="因陀罗"]哈哈，管他们之前在干什么呢！
 [name="因陀罗"]维娜可是他们的王！
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#5$1",focus=2)]
-[name="因陀罗"]等我们和蒸汽骑士一起冲到地面上，那些萨卡兹一定......一定......呃，摩根，你的表情为什么看起来这么奇怪？
+[name="因陀罗"]等我们和蒸汽骑士一起冲到地面上，那些萨卡兹一定……一定……呃，摩根，你的表情为什么看起来这么奇怪？
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#5$1",focus=1)]
 [name="摩根"]维娜准备把诸王之息带出来。
 [character(name="avg_npc_405_1#7$1",name2="avg_155_tiger_1#5$1",focus=1)]
@@ -176,7 +176,7 @@
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#5$1",focus=1)]
 [name="摩根"]萨卡兹占领城市他们没有出现，萨卡兹接管工厂他们没有出现，萨卡兹一把火烧了贵族们的宅子，他们也没有出现。
 [name="摩根"]他们到底在想什么？
-[name="摩根"]今天，他们会与......诸王长眠之所的闯入者站在同一边吗？
+[name="摩根"]今天，他们会与……诸王长眠之所的闯入者站在同一边吗？
 [Dialog]
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#5$1",focus=3)]
 [PlaySound(key="$d_gen_walk_n",volume=0.7,channel="a", loop=true)]
@@ -191,8 +191,8 @@
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#5$1",focus=1)]
 [name="摩根"]等等，是谁？！
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#9$1",focus=2)]
-[name="因陀罗"]......摩根，握紧武器。
-[name="因陀罗"]他们......很强。他们一直潜伏在我们周围。
+[name="因陀罗"]……摩根，握紧武器。
+[name="因陀罗"]他们……很强。他们一直潜伏在我们周围。
 [character(name="avg_npc_405_1#5$1",name2="avg_155_tiger_1#1$1",focus=2)]
 [name="因陀罗"]嘿嘿，不错，有点意思了。
 [character]
@@ -204,7 +204,7 @@
 [name="？？？"]啧，变数已经够多了，那喷气声居然在伦蒂尼姆再度响起。
 [name="？？？"]公爵大人要是知道还有蒸汽骑士幸存，她会作何感想？
 [name="？？？"]她会不安吗？还是欣慰于那些以荣光为氅的英雄们再度归来？
-[name="？？？"]呵，荣光......
+[name="？？？"]呵，荣光……
 [name="？？？"]先让我们解决这几个混混吧，别让她们妨碍阿勒黛。
 [StopMusic(fadetime=2)]
 [Dialog]
@@ -218,31 +218,31 @@
 [character(name="avg_npc_651_1#1$1")]
 [name="“蒸汽甲胄”"]（沉闷的喷气声）
 [character(name="avg_npc_407_1#4$2")]
-[name="推进之王"]......蒸汽骑士。
-[name="推进之王"]四年过去了......蒸汽骑士之中，竟然还有幸存者？
+[name="推进之王"]……蒸汽骑士。
+[name="推进之王"]四年过去了……蒸汽骑士之中，竟然还有幸存者？
 [character(name="avg_npc_396_1#9$1")]
-[name="达格达"]那些伤痕......明明都是致命伤，萨卡兹的长钉几乎摧毁了每一具甲胄的核心，里面的人也没有生还的可能......
+[name="达格达"]那些伤痕……明明都是致命伤，萨卡兹的长钉几乎摧毁了每一具甲胄的核心，里面的人也没有生还的可能……
 [name="达格达"]而且，没有王室钥匙，没人能进出诸王长眠之所。
 [character(name="avg_npc_396_1#2$1")]
-[name="达格达"]他就这样，被关在这幽暗的地下，整整四年......
+[name="达格达"]他就这样，被关在这幽暗的地下，整整四年……
 [name="达格达"]即便他当时侥幸逃过一劫，他又是怎么在这个地方活下来的？
 [character(name="avg_npc_407_1#7$2")]
-[name="推进之王"]......
+[name="推进之王"]……
 [character(name="avg_npc_396_1#2$1")]
-[name="达格达"]盔甲之下的那个人......如今的他会是什么样子？
+[name="达格达"]盔甲之下的那个人……如今的他会是什么样子？
 [PlaySound(key="$d_avg_steamrelease")]
 [character(name="avg_npc_651_1#1$1")]
 [name="“蒸汽甲胄”"]（沉闷的喷气声）
 [character(name="avg_npc_397_1#4$1")]
-[name="阿勒黛"]......
+[name="阿勒黛"]……
 [character(name="avg_npc_397_1#7$1")]
-[name="阿勒黛"]......你是......谁？
+[name="阿勒黛"]……你是……谁？
 [character(name="avg_npc_397_1#5$1")]
-[name="阿勒黛"]不......你是......什么？
+[name="阿勒黛"]不……你是……什么？
 火光自甲胄的头盔中亮起。
 阿勒黛感觉到，一道冰冷的视线正在注视着自己。
 注视着在场的所有人。
-火光......
+火光……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.5, block=true)]
 [CameraEffect(effect="Grayscale", fadetime=0, keep=true, initamount=0, amount=0.7, block=true)]
@@ -264,12 +264,12 @@
 他又回来了，他就站在自己面前。
 阿勒黛无法抑制自己的颤抖。
 [character(name="avg_npc_397_1#5$1")]
-[name="阿勒黛"]你是......来清算这一切的吗？
+[name="阿勒黛"]你是……来清算这一切的吗？
 [PlaySound(key="$d_avg_steamrelease")]
 [character(name="avg_npc_651_1#1$1")]
 [name="“蒸汽甲胄”"]（沉闷的喷气声）
 [character(name="avg_npc_407_1#4$2")]
-[name="推进之王"]......
+[name="推进之王"]……
 [character(name="avg_npc_407_1#3$2")]
 [name="推进之王"]阿勒黛！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -296,7 +296,7 @@
 [name="推进之王"]我们并非敌人。
 [Dialog]
 [CameraShake(duration=2, xstrength=10, ystrength=8, vibrato=40, randomness=90, fadeout=true, block=false)]
-[name="“蒸汽甲胄”"]......
+[name="“蒸汽甲胄”"]……
 [Dialog]
 [Image(image="32_i12", xScale=1.4, yScale=1.4,y=0,x=-100, fadetime=1,block=false)]
 [ImageTween(xScaleFrom=1.4, yScaleFrom=1.4, xScaleTo=1, yScaleTo=1,xTo=0, yTo=-80, duration=45, block=false)]
@@ -334,7 +334,7 @@
 [character(name="avg_npc_396_1#5$1")]
 [name="达格达"]推进之王，快躲开！
 [name="达格达"]蒸汽骑士怎么会攻击你？
-[name="达格达"]他难道看不出来......
+[name="达格达"]他难道看不出来……
 [character(name="avg_4062_totter_1#1$1")]
 [name="铅踝"]趴下——！
 [Dialog]
@@ -354,9 +354,9 @@
 [characteraction(name="middle", type="move", ypos=-50, fadetime=0,block=false)]
 [characteraction(name="middle", type="move", ypos=50, fadetime=0.5,block=false)]
 [Delay(time=0.5)]
-[name="达格达"]唔呃......哈......
+[name="达格达"]唔呃……哈……
 [character(name="avg_4062_totter_1#4$1")]
-[name="铅踝"]那把剑......火焰组成的刀刃。
+[name="铅踝"]那把剑……火焰组成的刀刃。
 [name="铅踝"]别被它碰到！
 [Dialog]
 [Character]
@@ -371,7 +371,7 @@
 [Delay(time=1.5)]
 [character(name="avg_npc_399_1#1$1")]
 [name="维多利亚雇佣兵"]疯了，它疯了！我们根本就不可能拦住它！
-[name="维多利亚雇佣兵"]快撤吧，离开这里......离开......
+[name="维多利亚雇佣兵"]快撤吧，离开这里……离开……
 [Dialog]
 [PlaySound(key="$e_imp_stmwpn_n", volume=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -407,15 +407,15 @@
 [Character(fadetime=0.5)]
 [Delay(time=1)]
 [character(name="avg_4062_totter_1#7$1")]
-[name="铅踝"]......
+[name="铅踝"]……
 [character(name="avg_4062_totter_1#9$1")]
 [name="铅踝"]要不了多久，他就能把我们全都干掉。
 [character(name="avg_npc_407_1#6$2")]
 [name="推进之王"]带着你的人冲出去吧。
 [character(name="avg_4062_totter_1#11$1")]
-[name="铅踝"]......
+[name="铅踝"]……
 [character(name="avg_npc_397_1#6$1")]
-[name="阿勒黛"]......照维娜说的做。
+[name="阿勒黛"]……照维娜说的做。
 [character(name="avg_4062_totter_1#1$1")]
 [name="铅踝"]那么，任务取消。
 [name="铅踝"]骑士小姐，看来我的退休计划要延迟了。
@@ -432,7 +432,7 @@
 [name="推进之王"]你理应将他们的故事带回阳光下。
 [character(name="avg_npc_396_1#7$1")]
 [name="达格达"]这是属于我们所有人的故事，推进之王。
-[name="达格达"]......它应该由我们每一个人诉说。
+[name="达格达"]……它应该由我们每一个人诉说。
 [character(name="avg_npc_396_1#9$1")]
 [name="达格达"]阿勒黛，我不知道你在发什么疯。
 [name="达格达"]说实话，你曾是我崇敬的那种人。我原以为，你够得上骑士的荣耀。不，你甚至是我想象中的那种“骑士的标杆”。
@@ -440,26 +440,26 @@
 [character(name="avg_npc_396_1#2$1")]
 [name="达格达"]你可是永远高洁的坎伯兰！
 [character(name="avg_npc_397_1#7$1")]
-[name="阿勒黛"]......
+[name="阿勒黛"]……
 [character(name="avg_npc_397_1#5$1")]
 [name="阿勒黛"]没有什么永远高洁，达格达。
 [character(name="avg_npc_396_1#2$1")]
 [name="达格达"]但我们依然并肩作战过，不是吗？
 [name="达格达"]这里也有你的故事，阿勒黛。
-[name="达格达"]......如果你仍然愿意回来。
+[name="达格达"]……如果你仍然愿意回来。
 [character(name="avg_npc_397_1#5$1")]
-[name="阿勒黛"]......已经不可能了，不是吗？
+[name="阿勒黛"]……已经不可能了，不是吗？
 [character(name="avg_npc_396_1#1$1")]
 [name="达格达"]也许，这取决于你。
-[name="达格达"]不过，我们现在......还是先面对眼前的骑士吧。
+[name="达格达"]不过，我们现在……还是先面对眼前的骑士吧。
 [name="达格达"]骑士间的战斗要公平且荣耀，这是我的导师教给我的。
-[name="达格达"]鉴于对手是这么一位遍洒荣光的英雄......
+[name="达格达"]鉴于对手是这么一位遍洒荣光的英雄……
 [character(name="avg_npc_407_1#6$2",name2="avg_npc_396_1#1$1",focus=2)]
 [name="达格达"]殿下，请允许我同您并肩。
 [character(name="avg_npc_407_1#6$2",name2="avg_npc_396_1#1$1",focus=1)]
-[name="推进之王"]......当然。
+[name="推进之王"]……当然。
 [character(name="avg_npc_397_1#7$1")]
-[name="阿勒黛"]战斗......与他战斗？
+[name="阿勒黛"]战斗……与他战斗？
 [character(name="avg_npc_397_1#5$1")]
 [name="阿勒黛"]一个可悲的，丑陋的，欺骗了一切的叛徒。
 [name="阿勒黛"]怎么敢于挑战命运？
@@ -469,7 +469,7 @@
 [character(name="avg_npc_397_1#5$1")]
 [name="阿勒黛"]她的死正应该是这个故事的结束。
 [name="阿勒黛"]她理应被剥夺一切，她甚至连仅剩的使命都无法完成。
-[name="阿勒黛"]维娜......我......
+[name="阿勒黛"]维娜……我……
 [character(name="avg_npc_407_1#3$2")]
 [name="推进之王"]我不想听到你再提起“使命”这个词了，阿勒黛。
 [name="推进之王"]抬起头来，阿勒黛·坎伯兰。没有什么是我的使命，也没有什么是你的使命。
@@ -478,7 +478,7 @@
 [name="推进之王"]这不是你的该死的使命，阿勒黛，如果你想这么做，你就去做。
 [name="推进之王"]但别把这个词挂在嘴边了。
 [character(name="avg_npc_397_1#4$1")]
-[name="阿勒黛"]......
+[name="阿勒黛"]……
 [Dialog]
 [PlaySound(key="$d_avg_steamrelease")]
 [character(name="avg_npc_651_1#1$1")]

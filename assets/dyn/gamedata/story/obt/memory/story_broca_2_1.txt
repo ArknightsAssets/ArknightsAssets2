@@ -10,11 +10,11 @@
 [Delay(time=2)]
 [PlaySound(key="$d_avg_crwddiscuss_inside", channel="slide", loop=true, volume=0.4)]
 [charslot(slot="m",name="avg_349_chiave_1#2$1")]
-[name="贾维"]......
+[name="贾维"]……
 [charslot(slot="m",name="avg_356_broca_1#2$1")]
-[name="布洛卡"]......
+[name="布洛卡"]……
 [charslot(slot="m",name="avg_349_chiave_1#8$1")]
-[name="贾维"]......奥斯塔，最近有什么好玩的事情吗？
+[name="贾维"]……奥斯塔，最近有什么好玩的事情吗？
 [charslot(slot="m",name="avg_349_chiave_1#2$1")]
 [name="贾维"]哦，不对，奥斯塔出外勤去了。
 [charslot(slot="m",name="avg_349_chiave_1#5$1")]
@@ -26,11 +26,11 @@
 [charslot(slot="m",name="avg_356_broca_1#9$1")]
 [name="布洛卡"]嗯。
 [charslot(slot="m",name="avg_349_chiave_1#8$1")]
-[name="贾维"]......布洛卡，今天星期几？
+[name="贾维"]……布洛卡，今天星期几？
 [charslot(slot="m",name="avg_356_broca_1#8$1")]
 [name="布洛卡"]星期二。
 [charslot(slot="m",name="avg_349_chiave_1#8$1")]
-[name="贾维"]......
+[name="贾维"]……
 [charslot(slot="m",name="avg_356_broca_1#1$1")]
 [name="布洛卡"]我吃完了，先回去了。
 [dialog]
@@ -87,7 +87,7 @@
 [charslot]
 [name="通讯提示音"]干员布洛卡，工程部发来联络，希望你立刻前往工程部一趟。
 [charslot(slot="m",name="avg_356_broca_1#5$1")]
-[name="布洛卡"]工程部......？难道是我之前问的材料有着落了？
+[name="布洛卡"]工程部……？难道是我之前问的材料有着落了？
 [charslot(slot="m",name="avg_356_broca_1#9$1")]
 [name="布洛卡"]去看一眼吧。
 [dialog]
@@ -135,7 +135,7 @@
 [delay(time=2)]
 [charslot(slot="m",name="avg_356_broca_1#1$1",duration=1)]
 [delay(time=2)]
-[name="布洛卡"]我就知道......
+[name="布洛卡"]我就知道……
 [charslot(slot="m",name="avg_356_broca_1#1$1")]
 [CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="布洛卡"]你——！
@@ -151,7 +151,7 @@
 [charslot(slot="m",name="avg_349_chiave_1#1$1")]
 [name="贾维"]我还以为你这几天把自己关在房间里是在背着兄弟干什么见不得人的事呢。
 [charslot(slot="m",name="avg_356_broca_1#1$1")]
-[name="布洛卡"]我也没有特意想瞒着你，只是最近有了很多新的改造想法......
+[name="布洛卡"]我也没有特意想瞒着你，只是最近有了很多新的改造想法……
 [charslot(slot="m",name="avg_356_broca_1#1$1")]
 [name="布洛卡"]这把电钻一路跟着我从叙拉古来到这里，它就跟我的另一条手臂一样。
 [charslot(slot="m",name="avg_356_broca_1#1$1")]
@@ -223,15 +223,15 @@
 [Background(image="bg_room_2",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_356_broca_1#9$1")]
-[name="布洛卡"]......
+[name="布洛卡"]……
 [charslot(slot="m",name="avg_356_broca_1#9$1")]
 [name="布洛卡"]继续吧。
 [charslot(slot="m",name="avg_356_broca_1#2$1")]
-[name="布洛卡"]......
+[name="布洛卡"]……
 [charslot(slot="m",name="avg_356_broca_1#2$1")]
-[name="布洛卡"]............
+[name="布洛卡"]…………
 [charslot(slot="m",name="avg_356_broca_1#2$1")]
-[name="布洛卡"]..................
+[name="布洛卡"]………………
 [charslot(slot="m",name="avg_356_broca_1#4$1")]
 [name="布洛卡"]可恶啊，都怪贾维这个混蛋。
 [charslot(slot="m",name="avg_356_broca_1#4$1")]
@@ -308,7 +308,7 @@
 当然，今天的他还有一个目的。
 他换了十几条通道，特意走错了八道闸门，分别在六个活动室逗留了一会儿，最终才来到这里。
 [charslot(slot="m",name="avg_356_broca_1#8$1")]
-[name="布洛卡"]......但愿贾维那家伙不会找过来。
+[name="布洛卡"]……但愿贾维那家伙不会找过来。
 [charslot]
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
@@ -319,7 +319,7 @@
 有只手敲了敲他的肩膀。
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_356_broca_1#1$1")]
-[name="布洛卡"]......
+[name="布洛卡"]……
 [charslot(slot="m",name="avg_356_broca_1#1$1")]
 [name="布洛卡"]为什么，贾维。
 [charslot]
@@ -351,13 +351,13 @@
 [charslot(slot="m",name="avg_356_broca_1#2$1")]
 [name="布洛卡"]要不是你是我兄弟，我绝对现在就把你丢下甲板。
 [charslot(slot="m",name="avg_356_broca_1#2$1")]
-[name="布洛卡"]好吧......因为我觉得这些创意本身都没有什么了不起的，就跟小时候随便涂涂画画一样。
+[name="布洛卡"]好吧……因为我觉得这些创意本身都没有什么了不起的，就跟小时候随便涂涂画画一样。
 [charslot(slot="m",name="avg_356_broca_1#8$1")]
 [name="布洛卡"]它们没必要让别人知道，我一个人搞着玩就行了。
 [charslot(slot="m",name="avg_356_broca_1#8$1")]
 [name="布洛卡"]好了，现在你知道了。
 [charslot(slot="m",name="avg_349_chiave_1#2$1")]
-[name="贾维"]......
+[name="贾维"]……
 [charslot(slot="m",name="avg_349_chiave_1#2$1")]
 [name="贾维"]搞了半天，原来是这样啊。
 [charslot(slot="m",name="avg_349_chiave_1#1$1")]
@@ -367,7 +367,7 @@
 [charslot(slot="m",name="avg_349_chiave_1#1$1")]
 [name="贾维"]所以，你也要对自己有信心才行啊。
 [charslot(slot="m",name="avg_356_broca_1#7$1")]
-[name="布洛卡"]......倒也不是这么一回事。不过，你这家伙难得说点人话，还是谢谢了。
+[name="布洛卡"]……倒也不是这么一回事。不过，你这家伙难得说点人话，还是谢谢了。
 [charslot(slot="m",name="avg_349_chiave_1#7$1")]
 [stopmusic(fadetime=2)]
 [name="贾维"]我还没说完呢。
@@ -384,7 +384,7 @@
 [charslot(duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_356_broca_1#5$1")]
-[name="布洛卡"]......等，不是......
+[name="布洛卡"]……等，不是……
 [charslot(slot="m",name="avg_356_broca_1#4$1")]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="布洛卡"]贾维，你给我站住，我要杀了你！
@@ -516,7 +516,7 @@
 [charslot(slot="m",name="avg_356_broca_1#4$1")]
 [name="布洛卡"]我是认真的。
 [charslot(slot="m",name="avg_349_chiave_1#6$1")]
-[name="贾维"]......哈，好！
+[name="贾维"]……哈，好！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -584,12 +584,12 @@
 [charslot(slot="m",name="avg_349_chiave_1#7$1")]
 [name="贾维"]你呢，你已经不需要我的帮助了吗？你不需要兄弟了，是吗？
 [charslot(slot="m",name="avg_356_broca_1#4$1")]
-[name="布洛卡"]......我当然也把你和奥斯塔当成最好的兄弟。
+[name="布洛卡"]……我当然也把你和奥斯塔当成最好的兄弟。
 [charslot(slot="m",name="avg_349_chiave_1#7$1")]
 [CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="贾维"]如果你还把我和奥斯塔当作兄弟，那就应该拉上我们两个一起解决问题！
 [charslot]
-[name="远处的奥斯塔"]别算上我......算了。
+[name="远处的奥斯塔"]别算上我……算了。
 [charslot(slot="m",name="avg_356_broca_1#4$1")]
 [name="布洛卡"]但是这和是不是兄弟压根没有关系！
 [charslot(slot="m",name="avg_356_broca_1#4$1")]
@@ -628,13 +628,13 @@
 [stopmusic(fadetime=2)]
 [name="贾维"]怎么回事，我的肚子——
 [charslot(slot="m",name="avg_349_chiave_1#10$1")]
-[name="贾维"]嘶......我的肚子，好痛。
+[name="贾维"]嘶……我的肚子，好痛。
 [charslot]
 [charslot(slot="l",name="avg_346_aosta_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_349_chiave_1#10$1",focus="r")]
 [name="贾维"]奥斯塔，你算计我——
 [charslot(slot="l",name="avg_346_aosta_1#6$1",focus="l")]
-[name="奥斯塔"]......抱歉，贾维。
+[name="奥斯塔"]……抱歉，贾维。
 [stopSound(channel="slide", fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -652,11 +652,11 @@
 [charslot(slot="m",name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]他还问我，自己最近是不是哪里得罪你了。
 [charslot(slot="m",name="avg_356_broca_1#2$1")]
-[name="布洛卡"]......唉。
+[name="布洛卡"]……唉。
 [charslot(slot="m",name="avg_356_broca_1#8$1")]
 [name="布洛卡"]我知道他是真心想帮我。
 [charslot(slot="m",name="avg_356_broca_1#8$1")]
-[name="布洛卡"]但是......
+[name="布洛卡"]但是……
 [charslot(slot="m",name="avg_346_aosta_1#7$1")]
 [name="奥斯塔"]他就是这样的人，把自己的一切都毫无保留地展现给身边的人，永远不会理解，有的人是需要一些私人空间的。
 [charslot(slot="m",name="avg_346_aosta_1#7$1")]
@@ -678,7 +678,7 @@
 工程部的一角，贾维虚弱地躺在长椅上，捂着肚子看着天花板，给人感觉他正经历着前所未有的迷茫。
 奥斯塔则拿着一个袋子坐在他的旁边。
 [charslot(slot="m",name="avg_349_chiave_1#8$1")]
-[name="贾维"]......
+[name="贾维"]……
 [charslot(slot="m",name="avg_346_aosta_1#1$1")]
 [name="奥斯塔"]布洛卡去医疗部给你开了点胃药，吃下这个，明天应该就能好。
 [charslot(slot="m",name="avg_349_chiave_1#2$1")]
@@ -698,7 +698,7 @@
 [charslot(slot="m",name="avg_346_aosta_1#6$1")]
 [name="奥斯塔"]有吧。
 [charslot(slot="m",name="avg_349_chiave_1#3$1")]
-[name="贾维"]......
+[name="贾维"]……
 [charslot(slot="m",name="avg_349_chiave_1#3$1")]
 [name="贾维"]那我该怎么办？难道我必须接受这件事吗？
 [charslot(slot="m",name="avg_346_aosta_1#6$1")]

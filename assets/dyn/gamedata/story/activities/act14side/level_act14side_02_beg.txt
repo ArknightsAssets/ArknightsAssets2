@@ -24,7 +24,7 @@
 [character(name="avg_npc_280_1#1$1")]
 [name="邻居"]我爸这不就来劲了。
 [character(name="avg_422_aurora_1#4$1")]
-[name="极光"]啊......佐尔叔一直都反对恩希欧迪斯老爷的开放政策呢......
+[name="极光"]啊……佐尔叔一直都反对恩希欧迪斯老爷的开放政策呢……
 [character(name="avg_npc_280_1#1$1")]
 [name="邻居"]可不是嘛，当年我们一家是为了我弟和我的工作从北边搬过来。
 [character(name="avg_npc_280_1#1$1")]
@@ -44,7 +44,7 @@
 [character(name="avg_npc_280_1#1$1")]
 [name="邻居"]要是圣女大人来管谢拉格，恩希欧迪斯老爷估计讨不了好吧。
 [character(name="avg_422_aurora_1#3$1")]
-[name="极光"]......也是。
+[name="极光"]……也是。
 [character(name="avg_npc_280_1#1$1")]
 [name="邻居"]不过，这也是好事。
 [character(name="avg_npc_280_1#1$1")]
@@ -52,7 +52,7 @@
 [character(name="avg_npc_280_1#1$1")]
 [name="邻居"]上次议会之后很多人都觉得怕是要打起来了。
 [character(name="avg_422_aurora_1#1$1")]
-[name="极光"]......是呢，没想到这次恩希欧迪斯老爷居然让步了，而且是让圣女大人来掌权。
+[name="极光"]……是呢，没想到这次恩希欧迪斯老爷居然让步了，而且是让圣女大人来掌权。
 [character(name="avg_npc_280_1#1$1")]
 [name="邻居"]对啊，不过要我说，早该这么办了，虽然我不讨厌恩希欧迪斯老爷的开放政策，毕竟我们家也跟着赚了不少钱。
 [character(name="avg_npc_280_1#1$1")]
@@ -62,7 +62,7 @@
 [character(name="avg_npc_280_1#1$1")]
 [name="邻居"]大概也就你哥那种老顽固反对了。
 [character(name="avg_422_aurora_1#4$1")]
-[name="极光"]我哥......
+[name="极光"]我哥……
 [Dialog]
 [musicvolume(volume=0.2, fadetime=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -119,7 +119,7 @@
 [CharacterCutin(widgetID="1",block=true)]
 [delay(time=1)]
 [character(name="avg_422_aurora_1#4$1")]
-[name="极光"]......先去和队长会合吧。
+[name="极光"]……先去和队长会合吧。
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -183,13 +183,13 @@
 [Decision(options="这里很安宁。;信仰很虔诚。;落后。", values="1;2;3")]
 [Predicate(references="1")]
 [character(name="avg_npc_251")]
-[name="耶拉"]安宁......是啊，这里已经安宁了一千多年了。
+[name="耶拉"]安宁……是啊，这里已经安宁了一千多年了。
 [character(name="avg_npc_251")]
 [name="耶拉"]安宁也意味着停滞。
 [character(name="avg_npc_251")]
 [name="耶拉"]谢拉格的人们太过习惯于这种状态，以至于他们不在乎外面在发生什么，也不感兴趣。
 [character(name="avg_npc_251")]
-[name="耶拉"]这应该是一件好事，但最近，我又觉得......唉......
+[name="耶拉"]这应该是一件好事，但最近，我又觉得……唉……
 [Predicate(references="2")]
 [character(name="avg_npc_251")]
 [name="耶拉"]毕竟对耶拉冈德的信仰是将这片土地上的人们凝聚在一起的根本。
@@ -202,12 +202,12 @@
 [character(name="avg_npc_251")]
 [name="耶拉"]明明是用自己的双手去耕耘得来的收获，却要在事后感激神明的慷慨。
 [character(name="avg_npc_251")]
-[name="耶拉"]明明真正做出了选择，付出了努力的，应该是每个人自己......
+[name="耶拉"]明明真正做出了选择，付出了努力的，应该是每个人自己……
 [Predicate(references="3")]
 [character(name="avg_npc_251")]
 [name="耶拉"]真直接。
 [character(name="avg_npc_251")]
-[name="耶拉"]不过，像你这样来自外面......按新说法，“外国”的人，大多都抱着这样的看法。
+[name="耶拉"]不过，像你这样来自外面……按新说法，“外国”的人，大多都抱着这样的看法。
 [character(name="avg_npc_251")]
 [name="耶拉"]外面的人们早已发展出了许多能够让人偷懒，或者说，省力的技术。
 [character(name="avg_npc_251")]
@@ -251,7 +251,7 @@
 [Decision(options="所以，你知道些什么？", values="1")]
 [Predicate(references="1")]
 [character(name="avg_npc_251")]
-[name="耶拉"]我......
+[name="耶拉"]我……
 [character(name="avg_npc_251")]
 [name="耶拉"]我有一个朋友。
 [character(name="avg_npc_251")]
@@ -278,7 +278,7 @@
 [name="耶拉"]告诉我，外乡人，你的到来，意味着什么？
 [dialog]
 [character(name="avg_npc_251",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Decision(options="说起来，你可以先帮我一个忙。", values="1")]
 [Predicate(references="1")]
@@ -295,7 +295,7 @@
 [Subtitle(text="展信佳。\n恩希亚，听说你回到了谢拉格，姐姐很开心。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="虽然姐姐不能下山来见你，但听到你健康安全的消息，姐姐心里就比什么都要高兴。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="听说这一次，帮你治疗矿石病的人也随你一起来了谢拉格，有机会的话，姐姐真想当面向他们道谢。\n他们拯救了我的妹妹，理应获得来自耶拉冈德的祝福。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
-[Subtitle(text="要记得去向其他家的人问好，报告你平安的消息，早睡早起，也不要忘了每天两次向耶拉冈德的祷告，还有，不准爬山......", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="要记得去向其他家的人问好，报告你平安的消息，早睡早起，也不要忘了每天两次向耶拉冈德的祷告，还有，不准爬山……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="好吧，我想，你一定嫌姐姐啰嗦了，姐姐就不唠叨了。\n祝你这一次回家玩得开心，恩希亚。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="姐姐会在耶拉冈德面前为你祈福的。\n另：要是你也能给姐姐写回信就更好了。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -309,7 +309,7 @@
 [character(name="avg_npc_250_1#1$1",name2="avgnew_173_slchan_1#7$1",focus=2)]
 [name="恩希亚"]不过抱歉，我暂时没有办法给姐姐回信，我现在要准备别的事情。
 [character(name="avg_npc_250_1#1$1",name2="avgnew_173_slchan_1#7$1",focus=1)]
-[name="雅儿"]看你旁边的包......你打算出门？
+[name="雅儿"]看你旁边的包……你打算出门？
 [character(name="avg_npc_250_1#1$1",name2="avgnew_173_slchan_1#8$1",focus=2)]
 [name="恩希亚"]是的。
 [character(name="avg_npc_250_1#1$1",name2="avgnew_173_slchan_1#8$1",focus=1)]
@@ -365,7 +365,7 @@
 [character(name="avg_npc_252",name2="avg_422_aurora_1#2$1",focus=1)]
 [name="Sharp"]详细说说矿区和谷地的敏感原因。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=2)]
-[name="极光"]嗯......要是手边有地图的话会方便一些。
+[name="极光"]嗯……要是手边有地图的话会方便一些。
 [Image(image="24_i01", fadetime=2, xScale=1.3, yScale=1.3)]
 [ImageTween(image="24_i01", tiled=true, xScaleTo=1.0, yScaleTo=1.0, duration=25, block=false)]
 [name="极光"]谢拉格的地形不算很复杂，也没有很细致的划分。
@@ -373,7 +373,7 @@
 [name="极光"]溪地和平原，以及大半的湖区是北边的佩尔罗契家的。
 [name="极光"]西边的布朗陶家领地以林地为主，以及小部分湖区。
 [name="极光"]希瓦艾什家则主要是山区、谷地和矿区，湖区的部分几乎可以忽略不计。
-[name="极光"]而谷地和矿区......其实已经能够代表将近一半的希瓦艾什家的领地。
+[name="极光"]而谷地和矿区……其实已经能够代表将近一半的希瓦艾什家的领地。
 [name="极光"]其中，矿区一直以来都是希瓦艾什家非常重要的领地，因为整个谢拉格用的矿石几乎都是这里产出的。
 [name="极光"]而谷地则是近年发展起来的。
 [name="极光"]原本，谷地是一块非常贫瘠的土地，连村庄也没有几个，一直被认为是一块没有用的土地。
@@ -399,7 +399,7 @@
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=2)]
 [name="极光"]这种可能性很高，但是，喀兰贸易与罗德岛的关系并不差，博士应当也是因为有这层关系才会接受邀请。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#4$1",focus=2)]
-[name="极光"]我暂时想不到恩希欧迪斯老爷要陷害博士的理由......
+[name="极光"]我暂时想不到恩希欧迪斯老爷要陷害博士的理由……
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=2)]
 [name="极光"]现在怎么办？联络凯尔希医生？
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=1)]
@@ -407,23 +407,23 @@
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=1)]
 [name="Sharp"]（长叹一口气）
 [character(name="avg_npc_252",name2="avg_422_aurora_1#2$1",focus=2)]
-[name="极光"]队长......？
+[name="极光"]队长……？
 [character(name="avg_npc_252",name2="avg_422_aurora_1#2$1",focus=1)]
 [name="Sharp"]我观察了一段时间，博士目前的驻留地防备力量并不强。
 [name="Sharp"]佩尔罗契家的宅邸大概有卫兵两百人，训练和武器都不及外界正规军，靠突然袭击可以突破。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#2$1",focus=1)]
 [name="Sharp"]周围的地形我也做过确认，另一个方案是渗透进入，不过这需要在多处提前做好爆破准备。
-[name="Sharp"]在进入和撤离时都需要制造爆炸来吸引注意力，有几处墙面结构可以......
+[name="Sharp"]在进入和撤离时都需要制造爆炸来吸引注意力，有几处墙面结构可以……
 [character(name="avg_npc_252",name2="avg_422_aurora_1#7$1",focus=2)]
 [name="极光"]等一下！队长！
 [character(name="avg_npc_252",name2="avg_422_aurora_1#7$1",focus=1)]
 [name="Sharp"]嗯？
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=2)]
-[name="极光"]我觉得......事情还不会发展到那一步才对。
+[name="极光"]我觉得……事情还不会发展到那一步才对。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=1)]
 [name="Sharp"]无论发生什么事，都要保证博士的安全，这是我的第一要务。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=2)]
-[name="极光"]......这个我同意，但是......
+[name="极光"]……这个我同意，但是……
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=2)]
 [name="极光"]临近大典，我们在佩尔罗契家族的领地动武，那罗德岛恐怕会成为喀兰圣山之敌。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=2)]
@@ -433,9 +433,9 @@
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=1)]
 [name="Sharp"]我们都希望事情不要发展到这一步，但你也知道，这不取决于我们，我要对博士和罗德岛负责。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#4$1",focus=2)]
-[name="极光"]我总觉得......恩希欧迪斯老爷可能有自己的想法。
+[name="极光"]我总觉得……恩希欧迪斯老爷可能有自己的想法。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=2)]
-[name="极光"]既然选择了将计就计，想必博士早就察觉到了端倪，而且已经准备好应对手段了吧......
+[name="极光"]既然选择了将计就计，想必博士早就察觉到了端倪，而且已经准备好应对手段了吧……
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=1)]
 [name="Sharp"]我从来都不会质疑博士的能力，我相信他。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=1)]
@@ -449,7 +449,7 @@
 [character(name="avg_npc_252",name2="avg_422_aurora_1#2$1",focus=1)]
 [name="Sharp"]你很尊敬恩希欧迪斯。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#9$1",focus=2)]
-[name="极光"]......是的。没有恩希欧迪斯老爷，我是不可能走出谢拉格，接触外面的一切的。
+[name="极光"]……是的。没有恩希欧迪斯老爷，我是不可能走出谢拉格，接触外面的一切的。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#9$1",focus=1)]
 [name="Sharp"]我可以理解。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#9$1",focus=1)]
@@ -457,13 +457,13 @@
 [character(name="avg_npc_252",name2="avg_422_aurora_1#9$1",focus=1)]
 [name="Sharp"]如果觉得做不到，你现在可以回去，我不会责怪你。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=2)]
-[name="极光"]......但我同时也是罗德岛的一员。
+[name="极光"]……但我同时也是罗德岛的一员。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#5$1",focus=1)]
 [name="Sharp"]记住你现在说的话。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#1$1",focus=2)]
 [name="极光"]是。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#4$1",focus=2)]
-[name="极光"]但是......我们也要提防崖心他们吗？
+[name="极光"]但是……我们也要提防崖心他们吗？
 [character(name="avg_npc_252",name2="avg_422_aurora_1#4$1",focus=1)]
 [name="Sharp"]我相信崖心，但我不信任恩希亚·希瓦艾什。
 [character(name="avg_npc_252",name2="avg_422_aurora_1#4$1",focus=1)]
@@ -481,14 +481,14 @@
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.03, block=true)]
 [PlaySound(key="$knifegore", volume=1)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
-[name="Sharp"]......（斩击）
+[name="Sharp"]……（斩击）
 [dialog]
 [character]
 一瞬间，坚钢的长刀划过了空气，停在了少女颈部的毫厘之外。
 [character(name="avg_npc_252",name2="avg_npc_250_1#7$1",focus=2)]
 [name="雅儿"]哇，这个刀法，很少见哦。
 [character(name="avg_npc_252",name2="avg_npc_250_1#7$1",focus=1)]
-[name="Sharp"]......什么人？
+[name="Sharp"]……什么人？
 [character(name="avg_npc_252",name2="avg_npc_250_1#7$1",focus=2)]
 [name="雅儿"]那个，没有必要对刚见面的普通少女这么凶恶吧。
 [character(name="avg_npc_252",name2="avg_npc_250_1#7$1",focus=1)]

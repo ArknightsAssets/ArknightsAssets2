@@ -9,7 +9,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
-[name="阿米娅"]......弑君者小姐，我很抱歉，罗德岛不会批准你前往乌萨斯。
+[name="阿米娅"]……弑君者小姐，我很抱歉，罗德岛不会批准你前往乌萨斯。
 [charslot(slot="m",name="avg_1502_crosly_1#5$1",focus="m")]
 [name="弑君者"]为什么？
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
@@ -29,7 +29,7 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]没有错。凯尔希医生给你留了一段录音。
 [charslot(slot="m",name="avg_1502_crosly_1#7$1",focus="m")]
-[name="弑君者"]......
+[name="弑君者"]……
 [charslot]
 [dialog]
 [PlaySound(key="$d_avg_filmprojection")]
@@ -44,7 +44,7 @@
 [charslot]
 [name="凯尔希的录音"]你会说，你要成为那个弑君之人。可你的刀刃又要挥向谁？
 刀刃挥向谁？
-已经被政治洪流淹没的贵族，那台冰冷的石棺，又或者是......你。
+已经被政治洪流淹没的贵族，那台冰冷的石棺，又或者是……你。
 [charslot]
 [name="凯尔希的录音"]如果你只是想要一个有关这一切的答案，等我回来，我会告诉你我能告诉你的一切。
 [charslot]
@@ -62,7 +62,7 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]但我向你保证，只要凯尔希医生返回——
 [charslot(slot="m",name="avg_1502_crosly_1#7$1",focus="m")]
-[name="弑君者"]......够了！
+[name="弑君者"]……够了！
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -88,7 +88,7 @@
 [charslot]
 [name="卡车司机A"]对！柳德米拉，别生闷气了。为了那种人生气不值得。来，接着！
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]谢了，老乔......这苹果挺脆。
+[name="柳德米拉"]谢了，老乔……这苹果挺脆。
 [charslot]
 [name="卡车司机A"]那当然，刚从农场那些人手里换来的。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
@@ -129,11 +129,11 @@
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
 [name="伊雷妮"]拿去。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]这是......《运输保障署特别合伙人协议》？
+[name="柳德米拉"]这是……《运输保障署特别合伙人协议》？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]“......根据协议，运输保障署为乙方柳德米拉·伊里尼奇娜提供在新沃尔西尼的住所，以及身份证明......”
+[name="柳德米拉"]“……根据协议，运输保障署为乙方柳德米拉·伊里尼奇娜提供在新沃尔西尼的住所，以及身份证明……”
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]你......
+[name="柳德米拉"]你……
 [charslot(slot = "m", name = "avg_npc_1542_1#4$1")]
 [name="伊雷妮"]我知道你的情况特殊。但上次你说要走时，我就在想这件事。
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
@@ -143,24 +143,24 @@
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
 [name="伊雷妮"]我想让你留下来。不是作为什么外派干员，而是作为我们的家人。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
-[name="柳德米拉"]家人......
+[name="柳德米拉"]家人……
 [charslot(slot = "m", name = "avg_npc_1542_1#6$1")]
-[name="伊雷妮"]你还在犹豫什么？还是......
+[name="伊雷妮"]你还在犹豫什么？还是……
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]这太诱人了。
 [dialog]
 [charslot]
 一个合法的身份，一群单纯热情的伙伴，一个没有政治阴谋和源石技艺轰炸的角落。
 如果签了字，我就能理所当然地留在这里。
-我可以告诉自己，是为了保护伊雷妮，是为了帮助运输保障署对抗家族......这是一个多么完美的、正义的理由。
+我可以告诉自己，是为了保护伊雷妮，是为了帮助运输保障署对抗家族……这是一个多么完美的、正义的理由。
 那样，我就再也不用去想乌萨斯的风雪，不用去想凯尔希那个该死的问题了。
 而且，我和伊雷妮说过，我会一直看着她。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
 [name="伊雷妮"]柳德米拉？
 [charslot(slot="m",name="avg_1502_crosly_1#9$1",focus="m")]
-[name="柳德米拉"]......伊雷妮，谢谢你。真的。
+[name="柳德米拉"]……伊雷妮，谢谢你。真的。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
-[name="柳德米拉"]但这份合同太重了。我......我得考虑考虑。
+[name="柳德米拉"]但这份合同太重了。我……我得考虑考虑。
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
 [name="伊雷妮"]没关系！我知道这对你来说是大事。合同你先拿着，什么时候想通了，随时来找我签字。
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
@@ -176,7 +176,7 @@
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]老乔刚才和我说过了。怎么？
 [charslot(slot = "m", name = "avg_npc_1542_1#7$1")]
-[name="伊雷妮"]该怎么说呢......其实我对他们不是很放心。
+[name="伊雷妮"]该怎么说呢……其实我对他们不是很放心。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]什么意思？
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
@@ -184,7 +184,7 @@
 [charslot(slot = "m", name = "avg_npc_1542_1#4$1")]
 [name="伊雷妮"]但里面有些人给我的感觉有些像你。我想让你去探一探他们。
 [charslot(slot="m",name="avg_1502_crosly_1#5$1",focus="m")]
-[name="柳德米拉"]像我？......好。
+[name="柳德米拉"]像我？……好。
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [charslot]
@@ -197,7 +197,7 @@
 [delay(time=2)]
 [name="柳德米拉"]让我看看，清单上都是些生活物资，看起来没有问题。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]至于货物本身......唔，也没问题。
+[name="柳德米拉"]至于货物本身……唔，也没问题。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]交货地点在这里吗？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
@@ -219,7 +219,7 @@
 [charslot(slot = "m", name = "avg_npc_328_1$1",duration=2)]
 [delay(time=3.5)]
 [charslot(slot="m",name="avg_1502_crosly_1#4$1",focus="m")]
-[name="柳德米拉"]......雷德，为什么你会？难道——
+[name="柳德米拉"]……雷德，为什么你会？难道——
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
 [name="雷德"]这是我要问的问题。
 [charslot]
@@ -227,17 +227,17 @@
 [charslot(slot="r",name="avg_1502_crosly_1#4$1",focus="all")]
 [name="雷德/柳德米拉"]柳德米拉，你把运输保障署的人怎么了？！/说，雷德，你把这家杂货铺的人怎么了？！
 [charslot(slot = "l", name = "avg_npc_328_1$1",focus="l")]
-[name="雷德"]......
+[name="雷德"]……
 [charslot(slot="r",name="avg_1502_crosly_1#7$1",focus="r")]
-[name="柳德米拉"]......
+[name="柳德米拉"]……
 [charslot(slot = "l", name = "avg_npc_328_1$1",focus="l")]
 [name="雷德"]你是送货的司机？
 [charslot(slot="r",name="avg_1502_crosly_1#4$1",focus="r")]
 [name="柳德米拉"]你是交货对象？
 [charslot(slot = "l", name = "avg_npc_328_1$1",focus="l")]
-[name="雷德"]......
+[name="雷德"]……
 [charslot(slot="r",name="avg_1502_crosly_1#1$1",focus="r")]
-[name="柳德米拉"]......
+[name="柳德米拉"]……
 [charslot]
 [dialog]
 [playMusic(key="$calm_loop", volume=0.6)]
@@ -246,7 +246,7 @@
 [PlaySound(key="$d_avg_clothmovement")]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
-[name="雷德"]这批货物......没错。
+[name="雷德"]这批货物……没错。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]我来帮你。
 [charslot]
@@ -264,7 +264,7 @@
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
 [name="雷德"]看来你的省亲之旅很顺利，九知道会高兴的。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
-[name="柳德米拉"]九......农庄是怎么回事？
+[name="柳德米拉"]九……农庄是怎么回事？
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
 [name="雷德"]就是农庄。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
@@ -280,7 +280,7 @@
 [charslot(slot="m",name="avg_1502_crosly_1#6$1",focus="m")]
 [name="柳德米拉"]塔露拉呢？
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
-[name="雷德"]......算了，不告诉你估计又要打一场。她也在，九看着她。
+[name="雷德"]……算了，不告诉你估计又要打一场。她也在，九看着她。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
 [name="柳德米拉"]你们准备物资难道是要——
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
@@ -294,13 +294,13 @@
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
 [name="雷德"]你会到处说你过去是整合运动的人吗，柳德米拉？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]......
+[name="柳德米拉"]……
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
 [name="雷德"]我们只是一群生活在乌萨斯边境农庄的农民，我没有说一句谎话。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]你们......为什么......？
+[name="柳德米拉"]你们……为什么……？
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
-[name="雷德"]......
+[name="雷德"]……
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
 [name="柳德米拉"]雷德，你什么意思？
 [charslot]
@@ -326,7 +326,7 @@
 [charslot]
 [dialog]
 九和塔露拉，如果我答应回到她们身边，一定能进入乌萨斯。
-而且，塔露拉......我曾经多少次懊悔于我没有更多地观察她，没有更早发现她的堕落。
+而且，塔露拉……我曾经多少次懊悔于我没有更多地观察她，没有更早发现她的堕落。
 这是个机会。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
@@ -351,7 +351,7 @@
 [charslot(slot="m",name="avg_1502_crosly_1#7$1",focus="m")]
 [name="柳德米拉"]等等！雷德！
 [charslot(slot="m",name="avg_1502_crosly_1#7$1",focus="m")]
-[name="柳德米拉"]混蛋......
+[name="柳德米拉"]混蛋……
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -367,7 +367,7 @@
 她一直花钱租着这间房间，房间里一尘不染，和老师死去前一样。
 她拿出了通往乌萨斯的旧地图，又拿出了伊雷妮给的那份合同，最后，是雷德签署的收据单。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
-[name="柳德米拉"]老师......你说过，我不应该回到乌萨斯报仇，我的力量还太弱，我的觉悟也还不够。
+[name="柳德米拉"]老师……你说过，我不应该回到乌萨斯报仇，我的力量还太弱，我的觉悟也还不够。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
 [name="柳德米拉"]但是，究竟怎么样才算拥有足够的力量和觉悟？
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
@@ -383,7 +383,7 @@
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]柳德米拉，你总是在半路跳上一辆已经开动的车。
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
-[name="柳德米拉？"]整合运动的车，罗德岛的车，互助会的车......
+[name="柳德米拉？"]整合运动的车，罗德岛的车，互助会的车……
 [charslot(slot="m",name="avg_1502_crosly_1#8$1",focus="m")]
 [name="柳德米拉"]闭嘴！我为了那些目标流过血！
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
@@ -407,13 +407,13 @@
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]回忆一下。你上一次要去乌萨斯时，老师是什么表情？
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
-[name="柳德米拉"]她......她在笑。
+[name="柳德米拉"]她……她在笑。
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]她在笑你天真。
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]她说：“柳德米拉，杀死一个皇帝，其实比杀一只羽兽难不了多少。只要他流血，他就会死。”
 [charslot(slot="m",name="avg_1502_crosly_1#3$1",focus="m")]
-[name="柳德米拉"]“......但是，杀了他之后呢？”
+[name="柳德米拉"]“……但是，杀了他之后呢？”
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]对。杀了他之后呢？
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
@@ -421,7 +421,7 @@
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]那些流出来的血，能填补你心里的洞吗？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]我......
+[name="柳德米拉"]我……
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]你从不想这些。你只管“杀”。
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
@@ -433,7 +433,7 @@
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]你把自己简化成了一把刀，因为刀不需要思考未来。
 [charslot(slot="m",name="avg_1502_crosly_1#6$1",focus="m")]
-[name="柳德米拉"]......所以我才会迷茫。
+[name="柳德米拉"]……所以我才会迷茫。
 [charslot(slot="m",name="char_1502_crowns",bstart=0.2,bend=0.7,focus="m")]
 [name="柳德米拉？"]没错。我知道，一旦踏上那片冻土，我无法只是关注所谓的真相，我也无法只是去研究所的废墟前哭一场。
 [charslot(slot="m",name="avg_1502_crosly_1#6$1",focus="m")]
@@ -451,7 +451,7 @@
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]我不是希望它们能够为我提供庇护，我希望它们能够帮助我，共同抵御那片冻土上的风雪。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]但是......我明明已经知道答案是什么。
+[name="柳德米拉"]但是……我明明已经知道答案是什么。
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [charslot]
@@ -479,9 +479,9 @@
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]我要回乌萨斯。
 [charslot(slot = "m", name = "avg_npc_1542_1#5$1")]
-[name="伊雷妮"]现在？可是......北边很冷的。
+[name="伊雷妮"]现在？可是……北边很冷的。
 [charslot(slot = "m", name = "avg_npc_1542_1#7$1")]
-[name="伊雷妮"]是不是......是不是我们哪里做得不好？还是说农庄那帮人——
+[name="伊雷妮"]是不是……是不是我们哪里做得不好？还是说农庄那帮人——
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]都不是。
 [charslot(slot = "m", name = "avg_npc_1542_1#7$1")]
@@ -491,17 +491,17 @@
 [charslot(slot="m",name="avg_1502_crosly_1#9$1",focus="m")]
 [name="柳德米拉"]你和另一个人的经历都在告诉我，想要做到什么，必须自己去做，必须从头开始。
 [charslot(slot = "m", name = "avg_npc_1542_1#7$1")]
-[name="伊雷妮"]......这会很难。
+[name="伊雷妮"]……这会很难。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]所以我一直在逃避。
 [charslot(slot = "m", name = "avg_npc_1542_1#3$1")]
-[name="伊雷妮"]......但你一定要去，对吗？
+[name="伊雷妮"]……但你一定要去，对吗？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]一定要去。
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
 [name="伊雷妮"]好。拦着想回家的瑞柏巴，不是朋友该做的事。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]但你听着，柳德米拉。不管你在那边找到了什么，或者没找到什么......
+[name="伊雷妮"]但你听着，柳德米拉。不管你在那边找到了什么，或者没找到什么……
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
 [name="伊雷妮"]如果累了，运输保障署的大门永远不锁。那个合同，我给你留着。
 [charslot(slot="m",name="avg_1502_crosly_1#10$1",focus="m")]
@@ -521,15 +521,15 @@
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]“苏茜杂货铺”是怎么回事？
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
-[name="雷德"]......一个朋友的名字。
+[name="雷德"]……一个朋友的名字。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]你也和以前不太一样了。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
 [name="柳德米拉"]这一车货，我帮你们送到边境线。
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
-[name="雷德"]......为什么？
+[name="雷德"]……为什么？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",focus="m")]
-[name="柳德米拉"]就当是付给你们的车费。也当是......还清我之前欠整合运动的最后一点人情。
+[name="柳德米拉"]就当是付给你们的车费。也当是……还清我之前欠整合运动的最后一点人情。
 [charslot(slot = "m", name = "avg_npc_328_1$1")]
 [name="雷德"]好。
 [charslot(slot = "m", name = "avg_npc_328_1$1")]

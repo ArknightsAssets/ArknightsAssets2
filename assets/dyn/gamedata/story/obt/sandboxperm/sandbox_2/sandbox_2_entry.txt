@@ -15,7 +15,7 @@
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m",duration=2)]
 [delay(time=3)]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#12$1")]
-[name="阿米娅"]可露希尔小姐！很快就不忙了，这个会议已经快结束了......
+[name="阿米娅"]可露希尔小姐！很快就不忙了，这个会议已经快结束了……
 [charslot(slot = "m", name = "avg_1037_amiya3_1#10$1")]
 [name="阿米娅"]啊，博士，你还好吗？
 [dialog]
@@ -39,7 +39,7 @@
 [Decision(options="（力竭地闭上了眼睛）", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#10$1")]
-[name="阿米娅"]博士......？
+[name="阿米娅"]博士……？
 [dialog]
 [charslot]
 [Decision(options="没事，我在这里坐一会就好。;我已经没什么要补充的了，凯尔希还有什么要说的吗？", values="1;2")]
@@ -63,7 +63,7 @@
 [name="凯尔希"]我刚才说我要去倒一杯水。
 [dialog]
 [charslot]
-[Decision(options="我还以为......;......;（掩饰地咳嗽）", values="1;2;3")]
+[Decision(options="我还以为……;……;（掩饰地咳嗽）", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Decision(options="（立刻坐直身子以示状态良好）;凯尔希，接下来的事情交给我吧，你好好休息。;你今天已经处理很多工作了，先去休息吧，凯尔希。", values="1;2;3")]
 [Predicate(references="1;2;3")]
@@ -73,7 +73,7 @@
 [name="凯尔希"]不过博士，自从我们再见面以后，这样的话你已经说了很多遍了。
 [dialog]
 [charslot]
-[Decision(options="......是吗......;我没有意识到......", values="1;2")]
+[Decision(options="……是吗……;我没有意识到……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_1052_kalts2_1#1$1")]
 [name="凯尔希"]不用担心我，博士。
@@ -90,7 +90,7 @@
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
 [name="可露希尔"]我们在医疗区建立了一套自己的药物生产线，还在住院部的外面造了一个小花园，现在天气好的话，病人们可以直接在那里晒晒太阳。
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
-[name="可露希尔"]生活区呢按照本舰的样子建了食堂、疗养庭院......我们还建了全新的宿舍楼，住宿环境比原先好了不少，干员们都很喜欢。
+[name="可露希尔"]生活区呢按照本舰的样子建了食堂、疗养庭院……我们还建了全新的宿舍楼，住宿环境比原先好了不少，干员们都很喜欢。
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
 [name="可露希尔"]我们又多收购了一个地块作为港口，工程区也重新规划了产线，以后不论是能源物资还是武器，都会比原先充裕不少。
 [charslot(slot="m",name="avg_4228_closur_1#3$1",focus="m")]
@@ -119,7 +119,7 @@
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
 [name="可露希尔"]咳咳，没事不重要！给，凯尔希，这是重建罗德岛的任务报告，现在，你就听我详细地汇报一遍吧。
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
-[name="可露希尔"]那个时候，我们......
+[name="可露希尔"]那个时候，我们……
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=4, block=true)]

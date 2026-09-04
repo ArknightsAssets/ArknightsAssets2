@@ -15,7 +15,7 @@
 [Blocker(a=0, fadetime=2, block=true)]
 [CameraEffect(effect="Grayscale", fadetime=18, amount=0, block=false)]
 [Delay(time=2)]
-[name="模糊的声音"]   ......抱歉......
+[name="模糊的声音"]   ……抱歉……
 [name="模糊的声音"]   又让你受苦了。
 [dialog]
 [Blocker(a=1, fadetime=2, block=true)]
@@ -24,10 +24,10 @@
 [subtitle]
 [Image(image="avg_0_2",x=-100, y=-50,xScale=1.3, yScale=1.3, fadetime=2,block=true)]
 [Blocker(a=0, afrom=1, rfrom=0, gfrom=0, bfrom=0, fadetime=2, block=true)]
-[name="？？？"]   ......
-[name="？？？"]   博士......
+[name="？？？"]   ……
+[name="？？？"]   博士……
 [Blocker(a=0, fadetime=2, block=false)]
-[name="？？？"]   ......手！
+[name="？？？"]   ……手！
 [name="？？？"]   抓紧我的手！！
 [Image(image="avg_0_1",x=-100, y=-50,xScale=1.3, yScale=1.3, fadetime=4)]
 [Delay(time=2)]
@@ -53,7 +53,7 @@
 [Image(image="avg_1_1",x=0, y=-50, xScale=1.2, yScale=1.2, fadetime=1)]
 [ImageTween(xFrom=0, yFrom=-50, xTo=0, yTo=0, xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1, yScaleTo=1, duration=10, block=false)]
 [Blocker(a=0,  fadetime=1, block=true)]
-[name="？？？"]  哼，逃跑......
+[name="？？？"]  哼，逃跑……
 [name="？？？"]  又能逃到哪里？
 [name="？？？"]  去，撕碎他们。
 [dialog]
@@ -155,7 +155,7 @@
 [name="陈"]   感染者更会如此。
 [name="陈"]   力量使人疯狂，欲望使人堕落。
 [name="陈"]   像癌症一样，一点点侵蚀着所有美好的事物。
-[name="阿米娅"]   ......
+[name="阿米娅"]   ……
 [dialog]
 [Delay(time=1)]
 [name="陈"]   如果你想留着，就留着吧。
@@ -200,9 +200,9 @@
 [Blocker(a=0, fadetime=3, block=false)]
 [Delay(time=1)]
 [name="陈"]   ——我已经安全了。
-[name="陈"]   但......
-[name="陈"]   ......
-[name="陈"]   ......整合运动已经攻占了近卫局的一处重要设施，正在强行打开贫民区与外城的通路。
+[name="陈"]   但……
+[name="陈"]   ……
+[name="陈"]   ……整合运动已经攻占了近卫局的一处重要设施，正在强行打开贫民区与外城的通路。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2,block=true)]
 [image]
@@ -338,9 +338,9 @@
 [Blocker(a=0, fadetime=0.6, block=false)]
 [Character]
 [ImageTween(xFrom=0, yFrom=0, xTo=-20, yTo=0, xScale=1.1, yScale=1.1,  duration=10, block=false)]
-[name="灰喉"]  ......只有你一个？
+[name="灰喉"]  ……只有你一个？
 [Character(name="char_1508_Faust_1#1")]
-[name="浮士德"]  ......
+[name="浮士德"]  ……
 [Character(name="char_367_swllow_1#4",name2="char_1508_Faust_1#1",focus=1)]
 [name="灰喉"]  别回头。再动一下，我就射击！
 [Dialog]
@@ -356,7 +356,7 @@
 [Blocker(a=0, fadetime=3, block=true)]
 [Character]
 [ImageTween(xFrom=0, yFrom=0, xTo=-30, yTo=0, xScale=1.1, yScale=1.1, duration=10, block=false)]
-[name="霜星"]  是的。你们现在......要与我战斗。
+[name="霜星"]  是的。你们现在……要与我战斗。
 [name="霜星"]  你死我活。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -429,7 +429,7 @@
 [Image(image="avg_7_12",x=0, y=-50, xScale=1, yScale=1, fadetime=0)]
 [ImageTween(x=0, yFrom=-50,yTo=0,xScaleFrom=1, yScaleFrom=1, xScaleTo=0.87, yScaleTo=0.87, duration=20, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="？？？"]  ......
+[name="？？？"]  ……
 [name="罗德岛近卫干员？"]  许久不见，阿米娅，凯尔希医生。
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -439,7 +439,7 @@
 [Blocker(a=0, fadetime=1.5, block=false)]
 [Character]
 [ImageTween(xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=1, yScaleTo=1, duration=15, block=false)]
-[name="迷迭香"] 啊......啊......！
+[name="迷迭香"] 啊……啊……！
 [Character]
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=1, block=true)]
@@ -455,7 +455,7 @@
 [Character]
 [name="凯尔希"]  非自然的生物，大多出自美学。
 [name="凯尔希"]  但是，别被外表欺骗，无论它有多美，它都是周遭这一切惨状的元凶。
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [name="凯尔希"]  它在唱歌。
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=1, block=true)]
@@ -466,7 +466,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 温迪戈的动作，戛然而止。
 似乎有什么从他头盔中悄然滴落。
-......
+……
 一分钟过去了。
 在这漫长的一分钟里，除了移动城市的隆隆声外，你什么也听不见。
 [Dialog]
@@ -548,14 +548,14 @@
 [Image(image="bg_8_babel3",x=0, y=0, xScale=1, yScale=1, fadetime=0)]
 [Blocker(a=0, fadetime=3, block=false)]
 [Character]
-[name="阿米娅"]  博士......
+[name="阿米娅"]  博士……
 [name="阿米娅"]  不想说话吗？
-[name="阿米娅"]  ......我明白的。在这些时间里发生太多事了。
-[name="阿米娅"]  但是，有博士在这里，我很......我很开心。
+[name="阿米娅"]  ……我明白的。在这些时间里发生太多事了。
+[name="阿米娅"]  但是，有博士在这里，我很……我很开心。
 [name="阿米娅"]  有些事情我们一个人是做不到的。
-[name="阿米娅"]  罗德岛......无论前方是什么样的阴霾等着我们，罗德岛也会继续前行。
-[name="阿米娅"]  并且，无论这片大地上还有多少冰冷的故事......
-[name="阿米娅"]  ......我也相信博士的心是温暖的。
+[name="阿米娅"]  罗德岛……无论前方是什么样的阴霾等着我们，罗德岛也会继续前行。
+[name="阿米娅"]  并且，无论这片大地上还有多少冰冷的故事……
+[name="阿米娅"]  ……我也相信博士的心是温暖的。
 [name="阿米娅"]  欢迎回家，博士。
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]

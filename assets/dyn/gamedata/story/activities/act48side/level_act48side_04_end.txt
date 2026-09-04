@@ -10,13 +10,13 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_4166_varkis_1#1$1",duration=1)]
 [Delay(time=2)]
-[name="赞索斯"]萨尔贡大使的房间......这就是百年前被夺走的那件文物？
+[name="赞索斯"]萨尔贡大使的房间……这就是百年前被夺走的那件文物？
 [Dialog]
 [charslot(slot="m",name="avg_4166_varkis_1#1$1",focus="none")]
 高大的米诺斯人注视着眼前的巨大木箱，拉响船桨上的马达，那件带有利齿、陪伴他渡河的工具变成了武器，精准地挑开了锁扣。
 他郑重地用双手抬起木箱封盖，早该回归家乡的、属于英雄克瑞斯拉的乐器，被完好地包裹在防尘布中。
 [charslot(slot="m",name="avg_4166_varkis_1#3$1",focus="m")]
-[name="赞索斯"]克瑞斯拉使用过的竖琴，怎么能流落到萨尔贡人之手，又被当作交易的筹码，假惺惺地装在这种虚伪、沉闷的木箱里......
+[name="赞索斯"]克瑞斯拉使用过的竖琴，怎么能流落到萨尔贡人之手，又被当作交易的筹码，假惺惺地装在这种虚伪、沉闷的木箱里……
 [charslot(slot="m",name="avg_4166_varkis_1#3$1",focus="none")]
 [name="帕拉斯"]把琴放下吧，赞索斯。
 [Dialog]
@@ -41,13 +41,13 @@
 [charslot]
 [charslot(slot="l",name="avgnew_482_pallas_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_4056_titi_1#11$2",focus="r")]
-[name="缇缇"]......
-[name="缇缇"]赞索斯先生，您让您的学生撞毁旅店后厨，引发火灾，自己趁乱进入旅店想要偷走涉及两国外交的文物......这并不明智。
+[name="缇缇"]……
+[name="缇缇"]赞索斯先生，您让您的学生撞毁旅店后厨，引发火灾，自己趁乱进入旅店想要偷走涉及两国外交的文物……这并不明智。
 [name="缇缇"]旅店外的巷子里挤满了人，现在您根本不可能带着如此巨大的竖琴离开。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_4166_varkis_1#14$1",focus="m")]
-[name="赞索斯"]......
+[name="赞索斯"]……
 [Dialog]
 [PlaySound(key="$rungeneral")]
 [charslot(slot="m",posfrom="0,0",posto="-200,0",afrom=1,ato=0,duration=1.5)]
@@ -64,7 +64,7 @@
 [charslot(slot="r",name="avg_4056_titi_1#3$2",focus="r")]
 [name="缇缇"]跳窗逃脱？这里可是四楼！
 [charslot(slot="l",name="avgnew_482_pallas_1#16$1",focus="l")]
-[name="帕拉斯"]不，你房间的正下方就是旅店后厨，撞向一楼的船只不仅是掩护还是接应......他早就想好了。
+[name="帕拉斯"]不，你房间的正下方就是旅店后厨，撞向一楼的船只不仅是掩护还是接应……他早就想好了。
 [name="帕拉斯"]现在从旅店正门追赶一定来不及，倒不如——
 [charslot(slot="r",name="avg_4056_titi_1#10$2",focus="r")]
 [name="缇缇"]你送我一程？
@@ -82,11 +82,11 @@
 [charslot(slot="m",name="avg_npc_2070_1#6$1",duration=1.5)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_2088_1#1$1",focus="m")]
-[name="治安官"]执笔人先生，火势已基本得到控制，至于旅店的损失......
+[name="治安官"]执笔人先生，火势已基本得到控制，至于旅店的损失……
 [charslot(slot="m",name="avg_npc_2070_1#6$1",focus="m")]
 [name="赫卡德墨"]受灾的问题，我会根据流程上报理事官办公室，后厨的损失我已跟旅店老板私了。
 [charslot(slot="m",name="avg_npc_2088_1#1$1",focus="m")]
-[name="治安官"]辛苦了，我们会在这里驻守一段时间，以防有人借机行不法之事，比如......
+[name="治安官"]辛苦了，我们会在这里驻守一段时间，以防有人借机行不法之事，比如……
 [charslot(slot="m",name="avg_npc_2070_1#6$1",focus="m")]
 [name="赫卡德墨"]嗯？您怎么突然不说话了？
 [charslot(slot="m",name="avg_npc_2088_1#1$1",focus="m")]
@@ -107,9 +107,9 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_2088_1#1$1",focus="m")]
 [name="治安官"]那是渡口的赞索斯和萨尔贡的大使小姐？
-[name="治安官"]赞索斯身上背着的巨大包裹是什么......难不成......
+[name="治安官"]赞索斯身上背着的巨大包裹是什么……难不成……
 [charslot(slot="m",name="avg_npc_2070_1#9$1",focus="m")]
-[name="赫卡德墨"]......
+[name="赫卡德墨"]……
 [name="赫卡德墨"]治安官阁下，被您言中了，看来确实有人趁乱行不法之事。
 [charslot(slot="m",name="avg_npc_2088_1#1$1",focus="m")]
 [name="治安官"]我明白了。搜查队，封锁现场，扣押肇事船只；巡逻队，立刻跟上梅捷缇克缇小姐，追捕赞索斯！
@@ -155,13 +155,13 @@
 [delay(time=2.5)]
 [charslot(slot="l",name="avg_npc_2087_1#1$1",focus="l")]
 [name="工匠代表"]欸？这不是赞索斯先生嘛，怎么这么急。
-[name="工匠代表"]后面追着的......是缇缇小姐？
+[name="工匠代表"]后面追着的……是缇缇小姐？
 [Dialog]
 [charslot]
 [PlaySound(key="$rungeneral")]
 [charslot(slot="m",name="avg_4056_titi_1#5$2",duration=1.5)]
 [delay(time=2.5)]
-[name="缇缇"]嗨，法尼斯！呼......麻烦让让！
+[name="缇缇"]嗨，法尼斯！呼……麻烦让让！
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_2087_1#1$1",focus="l")]
@@ -190,7 +190,7 @@
 [PlaySound(key="$rungeneral")]
 [charslot(slot="m",name="avg_4166_varkis_1#1$1",posfrom="100,0",posto="0,0",duration=1.5,focus="m")]
 [delay(time=2.5)]
-[name="赞索斯"]这萨尔贡人跟得真紧......
+[name="赞索斯"]这萨尔贡人跟得真紧……
 [name="赞索斯"]但也就到此为止了。
 [charslot(slot="m",name="avg_4166_varkis_1#1$1",focus="none")]
 [name="缇缇"]赞索斯先生，前面是入河口，真的不能再跑了！
@@ -208,7 +208,7 @@
 [delay(time=2.5)]
 [name="缇缇"]赞索斯先生！
 [charslot(slot="m",name="avg_4056_titi_1#2$2",focus="m")]
-[name="缇缇"]不，水声不对......码头下面还藏了一艘小船？他不是临时起意，他是下定了决心要把竖琴带走......
+[name="缇缇"]不，水声不对……码头下面还藏了一艘小船？他不是临时起意，他是下定了决心要把竖琴带走……
 [name="缇缇"]不行。您不能走——
 [Dialog]
 [PlaySound(key="$rungeneral")]
@@ -220,10 +220,10 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = false, fadetime=0.3, block=true)]
 被源石技艺操控着的衣带向赞索斯扛着的巨大包裹飞去。
 丰蹄战士下意识向后一躲，将竖琴放在船尾，灵活的衣带转而缠住他的手臂，缇缇借着惯性顺势跃到小船之上。
-[name="缇缇"]赞索斯先生！唔......好晕......
+[name="缇缇"]赞索斯先生！唔……好晕……
 [name="缇缇"]我们是不是有什么误会？我们可以说清楚，先从船上下去如何？
 [name="赞索斯"]我与萨尔贡人无话可说。
-[name="缇缇"]那只能对不起了......
+[name="缇缇"]那只能对不起了……
 [Dialog]
 [PlaySound(key="$d_avg_bowstring_tightened")]
 [CameraShake(duration=2.5, xstrength=10, vibrato=30, randomness=30, fadeout=true, block=false)]
@@ -320,7 +320,7 @@
 [charslot(slot="r",name="avg_4166_varkis_1#1$2",duration=1.5)]
 [delay(time=2)]
 [charslot(slot="r",name="avg_4166_varkis_1#1$2",focus="r")]
-[name="赞索斯"]......
+[name="赞索斯"]……
 [name="赞索斯"]吕刻伊昂，你本就不会开船，理事官的执笔人赫卡德墨都能替你担保。明明可以全身而退，为什么偏来陪我蹚浑水？
 [charslot(slot="l",name="avg_npc_2069_1#8$1",focus="l")]
 [name="吕刻伊昂"]赞索斯老师，您派我在船上为您打掩护，就是深知我不会撒谎。
@@ -328,7 +328,7 @@
 [charslot(slot="l",name="avg_npc_2069_1#1$1",focus="l")]
 [name="吕刻伊昂"]况且，我并不认为您做了一件荒唐的事。
 [charslot(slot="r",name="avg_4166_varkis_1#1$2",focus="r")]
-[name="赞索斯"]......
+[name="赞索斯"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot]
@@ -341,7 +341,7 @@
 [name="贝赫努"]萨尔贡与米诺斯建交后首次文化交流的文物被盗，追回途中还受到损伤，这两件事放在莱塔尼亚或者叙拉古，早就成了开战的理由了！
 [charslot(slot="r",name="avg_4056_titi_1#5$2",focus="r")]
 [name="缇缇"]我检查了琴身，所幸没出什么问题，只是底座上出现了一道裂纹，只要做个填充再补上色，很快就能修好。
-[name="缇缇"]照理应该保留痕迹，但......此事情况特殊，几日后就是交换仪式，我可以尽量修复，让它看起来与原本无异。
+[name="缇缇"]照理应该保留痕迹，但……此事情况特殊，几日后就是交换仪式，我可以尽量修复，让它看起来与原本无异。
 [charslot(slot="l",name="avg_npc_2077_1#6$1",focus="l")]
 [name="贝赫努"]呵，好歹你祖上也是萨尔贡贵族，怎么这点政治嗅觉都没有？
 [name="贝赫努"]今天竖琴损坏一事完完全全是米诺斯人的过错，何不借此严惩两个罪犯，树立萨尔贡的威信，然后——
@@ -351,7 +351,7 @@
 [name="缇缇"]但今时不同往日，赫里帕夏让我们带着英雄的竖琴出使米诺斯，不是为了耀武扬威，而是为了修复两国关系。
 [name="缇缇"]我们作为萨尔贡的使节，最重要的是顺利完成交换仪式，个人的执念和追求并不重要，不是吗？
 [charslot(slot="l",name="avg_npc_2077_1#6$1",focus="l")]
-[name="贝赫努"]......
+[name="贝赫努"]……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

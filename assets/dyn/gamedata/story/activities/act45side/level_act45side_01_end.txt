@@ -30,15 +30,15 @@
 [charslot(slot="m",name="avg_npc_1942_1#18$1",focus="m")]
 [name="？？？"]欢迎来到梦城堡，我是这里的现任主人，莫菲丝。
 [charslot(slot="m",name="avg_4182_oblvns_1#9$1",focus="m")]
-[name="丰川祥子"]梦城堡......的主人......不对，你做了什么？！
+[name="丰川祥子"]梦城堡……的主人……不对，你做了什么？！
 [charslot(slot="m",name="avg_npc_1942_1#20$1",focus="m")]
 [name="莫菲丝"]和你梦里演的一样啊？只不过是让你们做了一个梦罢了。
 [charslot(slot="m",name="avg_npc_1942_1#17$1",focus="m")]
 [name="莫菲丝"]唉——不过你的梦实在太无趣了，尽是些无聊的东西。
 [charslot(slot="m",name="avg_npc_1942_1#16$1",focus="m")]
-[name="莫菲丝"]（小声）还有那两个......讨厌的家伙。
+[name="莫菲丝"]（小声）还有那两个……讨厌的家伙。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$1",focus="m")]
-[name="丰川祥子"]你认识爱丽丝......还有贝娜？
+[name="丰川祥子"]你认识爱丽丝……还有贝娜？
 [charslot(slot="m",name="avg_npc_1942_1#17$1",focus="m")]
 [name="莫菲丝"]不熟。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$1",focus="m")]
@@ -72,14 +72,14 @@
 [charslot(slot="m",name="avg_npc_1942_1#20$1",focus="m")]
 [name="莫菲丝"]那个家伙没有和你说过吗？了解孩子们的过去，也是塑造梦境很重要的一部分。
 [charslot(slot="m",name="avg_npc_1942_1#18$1",focus="m")]
-[name="莫菲丝"]但你确实是个例外......
+[name="莫菲丝"]但你确实是个例外……
 [name="莫菲丝"]明明经历了那么多无法忘却的事情，脑子却还是一如既往地清醒。
 [name="莫菲丝"]为了弥补这个小小的遗憾，我愿意为你重新塑造一个美梦。正好我们现在面对面，你可以和我说说——
 [charslot(slot="m",name="avg_4182_oblvns_1#9$1",focus="m")]
 [name="丰川祥子"]沉溺在梦境和过往的痛苦中，都是懦弱的表现。
 [charslot(slot="m",name="avg_npc_1942_1#20$1",focus="m")]
 [name="莫菲丝"]呵，你还真是嘴硬！
-[name="莫菲丝"]如果按照你说的，没法直面现实的人全都是懦夫的话......
+[name="莫菲丝"]如果按照你说的，没法直面现实的人全都是懦夫的话……
 [charslot(slot="m",name="avg_npc_1942_1#18$1",focus="m")]
 [name="莫菲丝"]那这样的人，真的很多呢。
 [stopmusic(fadetime=1.5)]
@@ -97,9 +97,9 @@
 帷幕渐渐拉开，座椅从台下缓缓升起。
 而座椅上坐着的，是祥子再熟悉不过的人。
 [playMusic(key="$darkness_03_loop", volume=0.6)]
-[name="丰川祥子"]初华......睦？
-[name="丰川祥子"]祐天寺......还有八幡？
-[name="丰川祥子"]......大家怎么都睡着了？
+[name="丰川祥子"]初华……睦？
+[name="丰川祥子"]祐天寺……还有八幡？
+[name="丰川祥子"]……大家怎么都睡着了？
 周围的一切如舞台布景一般。
 沉睡的少女们，就是巨大布景中安眠的人偶。
 无声，无息。
@@ -113,7 +113,7 @@
 [name="莫菲丝"]在我为你们塑造的梦境里有什么不好？
 [name="莫菲丝"]罗德岛的朋友们都相信你，这样不好吗？没有任何你不想看到的别离，你也不用隐藏自己 。
 [name="莫菲丝"]看看她们，难道你要说她们都是懦夫吗？
-[name="丰川祥子"]既然我有办法从你的梦中醒来，她们也一定可以......
+[name="丰川祥子"]既然我有办法从你的梦中醒来，她们也一定可以……
 [Dialog]
 [PlaySound(key="$d_avg_strngspllstght", volume=1, loop=true, channel="s")]
 [StopSound(channel="s", fadetime=3)]
@@ -122,30 +122,30 @@
 无法控制身体的紧张感瞬间侵占了她的思维，她努力地想要保持冷静。
 然而，紧绷的丝线将她身上一切微弱的抖动毫无保留地放大。
 [name="莫菲丝"]你这嘴硬的家伙，就不能承认梦境是美好的吗！
-[name="丰川祥子"]你......
+[name="丰川祥子"]你……
 祥子努力想办法让自己的呼吸变得平顺。
-[name="丰川祥子"]你......似乎对自己的能力很自信。
+[name="丰川祥子"]你……似乎对自己的能力很自信。
 [name="丰川祥子"]也许在我之前，你的梦境从没有被人打破过。
 [name="莫菲丝"]当然！我本来就是这个城堡里最擅长造梦的仙女。
 [name="莫菲丝"]你的苏醒，只不过是一个意外。再来一次肯定就没问题了！
 祥子清楚地看到，莫菲丝说出最后那几个字时，表情是咬牙切齿的，可转眼间，她的表情又变得无比天真灿烂。
-[name="莫菲丝"]嗯......丰川祥子，对吧？
+[name="莫菲丝"]嗯……丰川祥子，对吧？
 [name="莫菲丝"]既然你这么自信，那我就跟你打个赌！
-[name="丰川祥子"]......打赌？
+[name="丰川祥子"]……打赌？
 [name="莫菲丝"]嗯！绝对公平的打赌哦！
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 眼前的对手越是露出孩童般的微笑，就越显得无比危险。
 [name="莫菲丝"]哈哈，很简单！
 虽然那孩子绕着舞台转着圈，但祥子很清楚她肯定一直在盯着自己。并且，黑暗中还有无数双眼睛也在紧盯着自己。
 [name="莫菲丝"]我会邀请你进入她们每一个人的梦境，给你唤醒她们的机会。
 [name="莫菲丝"]你可以认识她们，了解她们，看看她们到底在梦境中过着怎样的生活。如果你能让她们像你一样醒来，我就让你们离开。
 [name="莫菲丝"]如果你失败了，那么她们就得永远留在梦境里！
-[name="丰川祥子"]......我会把她们都叫醒的。
+[name="丰川祥子"]……我会把她们都叫醒的。
 [name="丰川祥子"]Ave{@nbs}Mujica缺少了任何一个人，我都不会离开。
 [name="丰川祥子"]她们每个人都是我挑选出来的、最好的成员。我不会让她们任何一个人受你的摆布。
 [name="莫菲丝"]哈哈，那可不一定。如果你失败了，你也得重新进入我为你造的梦境。
 [name="莫菲丝"]这次你一定不会再醒过来的。我会让你忘记以前的一切痛苦，自愿活在里面。
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [name="莫菲丝"]怎么样？还是说，你想收回之前说的那些大话了？
 [name="丰川祥子"]就算我现在拒绝，你也不可能放我走吧？
 [name="莫菲丝"]哈哈！你倒是挺聪明嘛！
@@ -206,7 +206,7 @@
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
 [name="丰川祥子"]我从梦境里出来了？
-[name="丰川祥子"]不对......
+[name="丰川祥子"]不对……
 [Dialog]
 [charslot]
 [PlayMusic(intro="$nightoflongmen_intro", key="$nightoflongmen_loop", volume=0.6)]
@@ -217,14 +217,14 @@
 [charslot(slot="m",name="avg_npc_033", focus="m")]
 [name="干练的快递员"]你好！你的货——人不在家？那我放门口可以吗？
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
-[name="丰川祥子"]现代的建筑，动物的耳朵......这里究竟是哪里？
+[name="丰川祥子"]现代的建筑，动物的耳朵……这里究竟是哪里？
 [Dialog]
 [charslot]
 名为“鳞丸”的小吃包装上，印着“龙门传统手作”。
 行人搭乘的载具涂着硕大的“龙门交通”标志，从眼前疾驰而过。
 干练的小哥衣服上的公司名称，同样以“龙门”开头。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
-[name="丰川祥子"]龙门......这里究竟是谁的梦境？
+[name="丰川祥子"]龙门……这里究竟是谁的梦境？
 [Dialog]
 [charslot]
 一个熟悉的声音从祥子头顶上传来——
@@ -305,13 +305,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
-[name="丰川祥子"]怎么梦里全是她的广告......
+[name="丰川祥子"]怎么梦里全是她的广告……
 [charslot(slot="m",name="avg_npc_033", focus="m")]
 [name="激动的粉丝"]我要疯了啊啊啊啊！！！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
-[name="丰川祥子"]呃......！
+[name="丰川祥子"]呃……！
 [charslot(slot="m",name="avg_npc_033", focus="m")]
-[name="激动的粉丝"]若麦她......她也太可爱了吧！
+[name="激动的粉丝"]若麦她……她也太可爱了吧！
 [name="激动的粉丝"]每个表情、每个动作、每句话，都在撩拨我的心弦啊！
 [charslot(slot="m",name="avg_npc_032", focus="m")]
 [name="心动的粉丝"]真的、真的能变得和若麦一样漂亮吗？！
@@ -319,12 +319,12 @@
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
 [name="丰川祥子"]这里堵得水泄不通，不会都是来看她的吧？
 [charslot(slot="m",name="avg_npc_1638_1#1$1", focus="m")]
-[name="年迈的粉丝"]当然......若麦，就和自己的女儿一样可爱啊......
-[multiline(name="年迈的粉丝")]呵呵呵呵呵......
+[name="年迈的粉丝"]当然……若麦，就和自己的女儿一样可爱啊……
+[multiline(name="年迈的粉丝")]呵呵呵呵呵……
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[multiline(name="年迈的粉丝")]咳咳咳咳咳......
+[multiline(name="年迈的粉丝")]咳咳咳咳咳……
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2", focus="m")]
-[name="丰川祥子"]......您没事吧！
+[name="丰川祥子"]……您没事吧！
 [charslot(slot="m",name="avg_npc_033", focus="m")]
 [name="激动的粉丝"]若麦，若麦！我看见她了！！
 [charslot(slot="m",name="avg_npc_032", focus="m")]
@@ -337,7 +337,7 @@
 [Delay(time=2.5)]
 [charslot]
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2", focus="m")]
-[name="丰川祥子"]哎，等等！请不要推挤......！
+[name="丰川祥子"]哎，等等！请不要推挤……！
 [name="丰川祥子"]祐天寺——！！
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -350,7 +350,7 @@
 [PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
-[name="莫菲丝"]哈哈哈哈哈哈......没想到一开始就这么狼狈啊，太有意思啦！
+[name="莫菲丝"]哈哈哈哈哈哈……没想到一开始就这么狼狈啊，太有意思啦！
 [charslot(slot="m",name="avg_npc_1937_1#3$1", focus="m")]
 [PlaySound(key="$d_avg_yingying_ked_1", volume=1)]
 [name="卡尔顿们"]（欢快的哼唧声）
@@ -359,13 +359,13 @@
 [charslot(slot="m",name="avg_npc_1942_1#8$1",focus="m")]
 [name="莫菲丝"]嗯？
 [charslot(slot="m",name="avg_npc_1938_1#1$1", focus="m")]
-[name="沃尔夫"]没、没必要......她、她，赢、赢不了......
+[name="沃尔夫"]没、没必要……她、她，赢、赢不了……
 [charslot(slot="m",name="avg_npc_1942_1#17$1",focus="m")]
 [name="莫菲丝"]话都讲不清楚，你就没必要想这种问题了。
 [charslot(slot="m",name="avg_npc_1938_1#1$1", focus="m")]
-[name="沃尔夫"]......
+[name="沃尔夫"]……
 [charslot(slot="m",name="avg_npc_1942_1#18$1",focus="m")]
-[name="莫菲丝"]在她进入梦境的这段时间里......我一定能找到失误的原因。
+[name="莫菲丝"]在她进入梦境的这段时间里……我一定能找到失误的原因。
 [name="莫菲丝"]我就是这座城堡里最有天赋的造梦师。
 [Dialog]
 [charslot]

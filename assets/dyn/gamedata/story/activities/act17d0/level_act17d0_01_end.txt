@@ -29,17 +29,17 @@
 [PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.4)]
 [delay(time=1)]
 [Character(name="char_503_rang")]
-[name="巡林者"]这是地洞？......奇怪。
+[name="巡林者"]这是地洞？……奇怪。
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]这些怪物，看起来像是沙地兽。
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
 [name="雷蛇"]长成这样的沙地兽？两米多长？
 [Character(name="char_503_rang")]
-[name="巡林者"]......老夫在荒地里过了大半辈子，可没有见过会挖洞的沙地兽。
+[name="巡林者"]……老夫在荒地里过了大半辈子，可没有见过会挖洞的沙地兽。
 [Character(name="avg_npc_166")]
-[name="黑"]......这些动物，身上都有源石结晶。
+[name="黑"]……这些动物，身上都有源石结晶。
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
-[name="雷蛇"]......嗯......
+[name="雷蛇"]……嗯……
 [name="雷蛇"]会不会是源石污染导致的生物变异？
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]这附近没有移动城市，没有工厂，没有矿山，怎么会有源石污染。
@@ -50,7 +50,7 @@
 [name="芙兰卡"]天灾能摧毁一座城市，但野生动物几乎不会受到影响——
 [name="芙兰卡"]——这片大地的淘汰是无情的，一个物种如果做不到以自己的方式与源石共生，就不可能延续到现在。
 [Character(name="avg_npc_166")]
-[name="黑"]原来如此......我能想象。就像最常见的源石虫那样，体表外壳吸收了所有源石成分，内部的软体部分却完全纯净没有污染。
+[name="黑"]原来如此……我能想象。就像最常见的源石虫那样，体表外壳吸收了所有源石成分，内部的软体部分却完全纯净没有污染。
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
 [name="雷蛇"]说回来，PRTS的记录里有过类似案例吗？
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
@@ -59,7 +59,7 @@
 [name="巡林者"]沙地兽是很胆小的生物，源石变异也不该如此剧烈地改变这一点。除非被法术影响，否则它们不会展现出攻击性。
 [name="巡林者"]保持警戒，不要松懈。
 [Character(name="avg_npc_166")]
-[name="黑"]......法术？术师？我只希望这趟远路不要再节外生枝。
+[name="黑"]……法术？术师？我只希望这趟远路不要再节外生枝。
 [Character(name="char_503_rang")]
 [name="巡林者"]不用想太多，继续按照原定安排前进。
 [Character(name="avg_npc_166")]
@@ -72,7 +72,7 @@
 [CameraShake(duration=1, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [delay(time=1)]
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
-[name="雷蛇"]这是......罗德岛的紧急求援信号？
+[name="雷蛇"]这是……罗德岛的紧急求援信号？
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]是其他罗德岛的外勤队伍？
 [Dialog]
@@ -80,8 +80,8 @@
 [delay(time=1)]
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [delay(time=1)]
-[name="？？？"]......谢天谢......终于有人回应了！
-[name="？？？"]......救......救命......请求支援......
+[name="？？？"]……谢天谢……终于有人回应了！
+[name="？？？"]……救……救命……请求支援……
 [Dialog]
 [Character]
 [delay(time=1)]
@@ -91,9 +91,9 @@
 [Dialog]
 [Character]
 [delay(time=1)]
-[name="？？？"]这里是......长泉......瞭望塔33......
-[name="？？？"]......暴徒......正在......
-[name="？？？"]......他们进来了！
+[name="？？？"]这里是……长泉……瞭望塔33……
+[name="？？？"]……暴徒……正在……
+[name="？？？"]……他们进来了！
 [Dialog]
 [Character(name="char_503_rang")]
 [name="巡林者"]冷静一点！干员，出什么事了！
@@ -102,7 +102,7 @@
 [Dialog]
 [Character]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="？？？"]......救命......救......啊......
+[name="？？？"]……救命……救……啊……
 [Dialog]
 [stopmusic]
 [PlaySound(key="$transmission", volume=1)]
@@ -113,7 +113,7 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
-[name="雷蛇"]......
+[name="雷蛇"]……
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]这可麻烦了。
 [Dialog]
@@ -127,14 +127,14 @@
 [Character(name="avg_npc_155_1#1")]
 [name="芙兰卡"]安全屋？任务报告上没说过这附近还有安全屋啊。
 [Character(name="char_503_rang")]
-[name="巡林者"]......嗯......
+[name="巡林者"]……嗯……
 [name="巡林者"]罗德岛确实会在一些偏僻的区域安插隐蔽安全屋，用于特殊外勤任务。
 [Character(name="avg_npc_166")]
 [name="黑"]但是我们不知道瞭望塔33在哪里。
 [Character(name="char_503_rang")]
-[name="巡林者"]长泉......长泉......
+[name="巡林者"]长泉……长泉……
 [name="巡林者"]这个名字，老夫有点印象，让我看看地图。
-[name="巡林者"]嗯......
+[name="巡林者"]嗯……
 [name="巡林者"]应该是这里，沿着喇叭山向东走20公里就能看到另一个峡谷，峡谷附近确实有过一个小镇。
 [name="巡林者"]当年小镇里有一口井，是这附近少数可靠的水源。
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
@@ -144,12 +144,12 @@
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
 [name="雷蛇"]也可以连夜赶往费坤，尝试联络办事处，寻求支援。
 [Character(name="char_503_rang")]
-[name="巡林者"]......恐怕安全屋的那位干员坚持不了这么久。
+[name="巡林者"]……恐怕安全屋的那位干员坚持不了这么久。
 [name="巡林者"]你们继续前往费坤，想办法寻找支援。
 [name="巡林者"]我去长泉看看情况。这片地方老夫很熟悉，一个人行动也比较灵活。
 [name="巡林者"]如果情况太糟糕，我会去费坤与你们会合。
 [Character(name="avg_npc_156_1#1")]
-[name="雷蛇"]这......
+[name="雷蛇"]这……
 [Dialog]
 [Character]
 [Character(name="avg_npc_166", name2="char_503_rang",focus=1)]
@@ -162,7 +162,7 @@
 [Character(name="avg_npc_156_1#1")]
 [name="雷蛇"]我也建议整队一起行动，状况不对我们也可以互相照应，掩护彼此撤离。
 [Character(name="char_503_rang")]
-[name="巡林者"]......嗯......
+[name="巡林者"]……嗯……
 [name="巡林者"]你们说的有道理。
 [name="巡林者"]这次老夫还是听你们的。我这一把年纪，确实也不该像年轻时那样孤身犯险了。
 [Dialog]
@@ -240,7 +240,7 @@
 [Character(name="avg_npc_157_1#1")]
 [name="列维"]把尸体带过来，我让你看一点有趣的。
 [Character(name="avg_npc_158_1#1")]
-[name="德鲁奇"]......
+[name="德鲁奇"]……
 [Dialog]
 [Character]
 [name="佣兵"]老大，这可有悖巴耶勒王酋的大戒律啊，这老东西是要坑你。
@@ -250,7 +250,7 @@
 [name="列维"]我不知道长生军是什么鬼东西，但是你可以对我的科研成果再抱一些信心。
 [Dialog]
 [Character]
-[name="佣兵"]老大，我觉得......
+[name="佣兵"]老大，我觉得……
 [Character(name="avg_npc_158_1#1")]
 [name="德鲁奇"]闭嘴！
 [name="德鲁奇"]老家伙，你听好了。
@@ -307,11 +307,11 @@
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="avg_npc_157_1#3",fadetime=1)]
 [delay(time=2)]
-[name="列维"]（俄语）源石......
+[name="列维"]（俄语）源石……
 [name="列维"]（俄语）这个世界上竟然还有如此伟大的存在。
 [name="列维"]（俄语）这些愚昧的本地人居然畏惧这种力量带来的进化。
 [name="列维"]（俄语）但是，噢，当然，他们也应当畏惧。
-[name="列维"]（俄语）愚者畏惧未知，愚者畏惧力量，愚者畏惧进步......
+[name="列维"]（俄语）愚者畏惧未知，愚者畏惧力量，愚者畏惧进步……
 [Character(name="avg_npc_157_1#1")]
 [name="列维"]（俄语）愚蠢啊，愚蠢。
 [Dialog]

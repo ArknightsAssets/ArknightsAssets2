@@ -11,13 +11,13 @@
 [charslot(slot="m",name = "avg_4229_aphris_1#1$1",bstart=0.2,bend=0.7,duration=1)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$1",bstart=0.2,bend=0.7,focus="m")]
-[name="？？？"]这就是最后一次了......
+[name="？？？"]这就是最后一次了……
 [name="？？？"]也许这一切都只是徒劳，哪怕一万次将你置于那个岔路口，你都会做出同样的选择。
 [name="？？？"]我很抱歉。我须得承认，我自以为完备的计划并不完美，而你，正是这份失误的受害者。
-[name="？？？"]抱歉，我无法挽回......我于此所做的一切努力仅仅是重拾起你的名字，这个名字会永远留在这片树海。
-[name="？？？"]......你希望我如何看待你，你又会如何看待自己？
+[name="？？？"]抱歉，我无法挽回……我于此所做的一切努力仅仅是重拾起你的名字，这个名字会永远留在这片树海。
+[name="？？？"]……你希望我如何看待你，你又会如何看待自己？
 [name="？？？"]一个无法归乡的玻利瓦尔人，一个永远将他人护在身后的战士，一个理想主义者？
-[name="？？？"]请回答我......
+[name="？？？"]请回答我……
 [name="？？？"]■■■。
 [Dialog]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -33,13 +33,13 @@
 [charslot(slot ="l", action="shake", power=6, times=40, duration=0.3,focus="l")]
 [name="米格鲁"]——我在！
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
-[name="杜宾"]......
+[name="杜宾"]……
 [charslot(slot="l",name="avg_npc_2321_1#9$2",focus="l")]
 [name="米格鲁"]抱歉杜宾教官！我刚才没有走神——
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
 [name="杜宾"]不用这么紧张，米格鲁。现在不是任务或训练时间，我也不是以教官的身份来找你聊天的。
 [charslot(slot="r",name="char_130_doberm_ex#2",focus="r")]
-[name="杜宾"]现在，你可以只把我当做是一个......玻利瓦尔人。
+[name="杜宾"]现在，你可以只把我当做是一个……玻利瓦尔人。
 [charslot(slot="l",name="avg_npc_2321_1#9$2",focus="l")]
 [name="米格鲁"]杜宾教官，您是想和我讨论，接下来的任务吗？
 [Dialog]
@@ -49,29 +49,29 @@
 [name="杜宾"]抱歉，白天的时候是我表述得不够清楚。
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
 [name="杜宾"]当时与你和克洛丝说起玻利瓦尔的救援任务，我的本意是和你们探讨任务的可行性，而非指派。
-[name="杜宾"]也就是说......你们完全有拒绝参与这次任务的权利。
+[name="杜宾"]也就是说……你们完全有拒绝参与这次任务的权利。
 [charslot(slot="l",name="avg_npc_2321_1#3$2",focus="l")]
 [name="米格鲁"]不，我很清楚您的意思，克洛丝也是。参与这次的任务，是A1小队当下仍在本舰的两人一致决定的。
-[name="米格鲁"]其实......就算没有龙舌兰干员向我们发出的救援请求，得知玻利瓦尔的消息后，我也衷心希望，自己能够做些什么。
+[name="米格鲁"]其实……就算没有龙舌兰干员向我们发出的救援请求，得知玻利瓦尔的消息后，我也衷心希望，自己能够做些什么。
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
-[name="杜宾"]可是......
+[name="杜宾"]可是……
 [charslot(slot="l",name="avg_npc_2321_1#3$2",focus="l")]
 [name="米格鲁"]杜宾教官，您不希望我们参与这一次的任务吗？
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
-[name="杜宾"]这不是一个简单的问题......
+[name="杜宾"]这不是一个简单的问题……
 [name="杜宾"]这次救援行动固然符合罗德岛的理念，但是结合具体的现实情况，对比任务风险和预期取得的成果，我无法坚决地为任务投下赞成票。
-[name="杜宾"]更何况......米格鲁，你在玻利瓦尔生活的时间很短，对吗？
+[name="杜宾"]更何况……米格鲁，你在玻利瓦尔生活的时间很短，对吗？
 [charslot(slot="l",name="avg_npc_2321_1#5$2",focus="l")]
 [name="米格鲁"]嗯，小时候父母去世后我就跑去哥伦比亚了，我也是在哥伦比亚认识克洛丝和芬的。
 [charslot(slot="r",name="char_130_doberm_ex#1",focus="r")]
 [name="杜宾"]你对玻利瓦尔的记忆很淡薄，你大概不会记得那是一片怎样的泥淖。
 [name="杜宾"]我见过太多的理想被现实和利益浇灭，单纯的善意被仇恨裹挟、毁灭。
 [name="杜宾"]我没有立场阻止你们，但是更没有办法告诉你们，为此次任务冒险是值得的。
-[name="杜宾"]我只想请你再仔细思考......
+[name="杜宾"]我只想请你再仔细思考……
 [charslot(slot="l",name="avg_npc_2321_1#3$2",focus="l")]
 [name="米格鲁"]可是，如果不是迫不得已，您一定会参与到这次任务中的，不是吗？
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]米格鲁......
+[name="杜宾"]米格鲁……
 [charslot(slot="l",name="avg_npc_2321_1#2$2",focus="l")]
 [name="米格鲁"]我记得您说过，您在玻利瓦尔的军队中有些麻烦的过去，我也理解您的身份不方便和真正玻利瓦尔人共同行动。
 [name="米格鲁"]所以，就由我们代替您去吧。
@@ -82,17 +82,17 @@
 [charslot(slot="l",name="avg_npc_2321_1#2$2",focus="l")]
 [name="米格鲁"]应该是我们要谢谢您才对。我们一定会好好表现，不会让您失望的！
 [charslot(slot="r",name="char_130_doberm_ex#2",focus="r")]
-[name="杜宾"]你们都是令我骄傲的学员......
+[name="杜宾"]你们都是令我骄傲的学员……
 [name="杜宾"]等你回来以后，我会很荣幸出席你的精英干员晋升仪式的。
 [name="杜宾"]一定保护好自己，米格鲁。
 [charslot(slot="l",name="avg_npc_2321_1#7$2",focus="l")]
-[name="米格鲁"]您这么说......我真的会不好意思的......嘿嘿。
+[name="米格鲁"]您这么说……我真的会不好意思的……嘿嘿。
 [charslot(slot="l",name="avg_npc_2321_1#2$2",focus="l")]
 [name="米格鲁"]放心吧杜宾教官，我一定会和往常一样，保护好大家的！
-[name="米格鲁"]对了，杜宾教官，我可以问您一个问题吗......
+[name="米格鲁"]对了，杜宾教官，我可以问您一个问题吗……
 [name="米格鲁"]您为罗德岛战斗了这么长时间，为什么会拒绝成为精英干员的邀请？
 [charslot(slot="r",name="char_130_doberm_ex#3",focus="r")]
-[name="杜宾"]......
+[name="杜宾"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -157,7 +157,7 @@
 [interlude(channel = 3, switch = true)]
 [charslot(slot="r",name="avg_npc_2321_1#3$1",focus="n")]
 [name="克洛丝"]多索雷斯的信使昨天来过，只是说了龙舌兰干员对罗德岛的帮助表示感谢，增援部队已经在路上了。
-[name="克洛丝"]但是为了保留一定力量与联合政府维持“谈判”，他也没有办法提供太多帮助。也算是意料之中吧......
+[name="克洛丝"]但是为了保留一定力量与联合政府维持“谈判”，他也没有办法提供太多帮助。也算是意料之中吧……
 [name="克洛丝"]不过，他倒是提到了另一个或许能够打破局面的可能，你还记得异客干员提过的，哥伦比亚的大型武器项目吗？
 [charslot(slot="r",name="avg_npc_2321_1#9$1",focus="r")]
 [interlude(channel = 3, switch = false)]
@@ -168,7 +168,7 @@
 [name="克洛丝"]如果能有更多发现，或许就能对军方的活动进行掣肘。更深入的，就不方便在这里说啦。
 [charslot(slot="r",name="avg_npc_2321_1#5$1",focus="r")]
 [interlude(channel = 3, switch = false)]
-[name="米格鲁"]希望玻利瓦尔能够早日恢复安宁......
+[name="米格鲁"]希望玻利瓦尔能够早日恢复安宁……
 [interlude(channel = 3, switch = true)]
 [charslot(slot="r",name="avg_npc_2321_1#5$1",focus="n")]
 [name="克洛丝"]对了，你和那边的真正玻利瓦尔人士兵们相处得怎么样？他们愿意配合你的行动吗？
@@ -196,9 +196,9 @@
 [interlude(channel = 3, clear = true)]
 [delay(time=1.5)]
 [charslot(slot="r",name="avg_npc_2321_1#5$1",focus="r")]
-[name="米格鲁"]再见......
+[name="米格鲁"]再见……
 [charslot(slot="r",name="avg_npc_2321_1#5$1",focus="n")]
-[name="年老的声音"]咳......
+[name="年老的声音"]咳……
 [charslot(slot="r",name="avg_npc_2321_1#6$1",focus="r")]
 [multiline(name="米格鲁")]啊，马丁先生！
 [charslot(slot="r",name="avg_npc_2321_1#3$1",focus="r")]
@@ -231,9 +231,9 @@
 [delay(time=1)]
 老人的眼里闪过浑浊的光。他摇了摇头，从缀满补丁的灰色大衣中摸出一根草烟。
 [charslot(slot="r",name="avg_npc_2321_1#3$1",focus="r")]
-[name="米格鲁"]马丁先生......在您看来，在这种时候，玻利瓦尔人的身份，真的还有那么重要么？
+[name="米格鲁"]马丁先生……在您看来，在这种时候，玻利瓦尔人的身份，真的还有那么重要么？
 [charslot(slot="l",name="avg_npc_005",focus="l")]
-[name="马丁"]“玻利瓦尔人”......这个名字是一个项圈，它让你不得自由，但也告诉了你该怎样活着。
+[name="马丁"]“玻利瓦尔人”……这个名字是一个项圈，它让你不得自由，但也告诉了你该怎样活着。
 [name="马丁"]但是对于你们，你们这些没有被这片土地诅咒过的人来说，还有机会。
 [name="马丁"]所以，走吧。带上你的同伴一起走。
 [charslot(slot="r",name="avg_npc_2321_1#3$1",focus="r")]
@@ -241,25 +241,25 @@
 [charslot(slot="l",name="avg_npc_005",focus="l")]
 [name="马丁"]可那又怎么样？
 [charslot(slot="r",name="avg_npc_2321_1#3$1",focus="r")]
-[name="米格鲁"]我的信念，不允许我放弃任务逃走......
+[name="米格鲁"]我的信念，不允许我放弃任务逃走……
 [charslot(slot="l",name="avg_npc_005",focus="l")]
 [name="马丁"]可那又怎么样？
 [charslot(slot="r",name="avg_npc_2321_1#9$1",focus="r")]
-[name="米格鲁"]......
+[name="米格鲁"]……
 [charslot(slot="l",name="avg_npc_005",focus="l")]
 [name="马丁"]也许你可以在这里救下三五个人，收获几句感谢或几枚奖章，但很快，那些人转眼又会死在另一个地方。
 [name="马丁"]如果你决定把种子撒在板结的土地里，那就不要对它怀有希望。
 [charslot(slot="r",name="avg_npc_2321_1#3$1",focus="r")]
-[name="米格鲁"]马丁先生，我可以理解您对玻利瓦尔的失望......可是，我也有自己不能离开的理由。
+[name="米格鲁"]马丁先生，我可以理解您对玻利瓦尔的失望……可是，我也有自己不能离开的理由。
 [name="米格鲁"]我不是玻利瓦尔人，也不是哥伦比亚人，但我很清楚，自己是在为理想而战。
 [charslot(slot="r",name="avg_npc_2321_1#5$1",focus="r")]
 [name="米格鲁"]一直以来，我的同伴，我的老师，都做着一样的事。我坚信我们的理想没有错。
 [charslot(slot="l",name="avg_npc_005",focus="l")]
-[name="马丁"]真不幸......在你这个年纪，你的理想还没有背叛你。
+[name="马丁"]真不幸……在你这个年纪，你的理想还没有背叛你。
 [charslot(slot="r",name="avg_npc_2321_1#11$1",focus="r")]
-[name="米格鲁"]......
+[name="米格鲁"]……
 [charslot(slot="l",name="avg_npc_005",focus="l")]
-[name="马丁"]我以为我给你讲的那些故事能让你明白......那些看上去高尚的、神圣的、值得用生命换取的东西，从不宣誓对谁效忠。
+[name="马丁"]我以为我给你讲的那些故事能让你明白……那些看上去高尚的、神圣的、值得用生命换取的东西，从不宣誓对谁效忠。
 [name="马丁"]尤其是在这片被诅咒的土地上。
 [dialog]
 [charslot]
@@ -277,13 +277,13 @@
 即便被报道为“行军”，这场撤离行动的主体仍不过是一群被浪潮卷入的普通人。
 他们本该躺在阳光下——即便这个夏天格外炎热，他们本该享受玻利瓦尔漫长的雨季后，难能可贵的“和平”的夏天。
 [charslot(slot="m",name="avg_npc_2321_1#11$1",focus="m")]
-[name="米格鲁"]人们突破了封锁，联合政府绞杀多索雷斯的计划没有奏效......
-[name="米格鲁"]但然后呢？到了南方，渡过内河......然后呢？
+[name="米格鲁"]人们突破了封锁，联合政府绞杀多索雷斯的计划没有奏效……
+[name="米格鲁"]但然后呢？到了南方，渡过内河……然后呢？
 [dialog]
 [charslot(slot="m",name="avg_npc_2321_1#11$1",focus="n")]
 然后，等待人们的会是什么？
 [charslot(slot="m",name="avg_npc_2321_1#10$1",focus="m")]
-[name="米格鲁"]......
+[name="米格鲁"]……
 [dialog]
 [charslot]
 [Delay(time=0.3)]
@@ -305,10 +305,10 @@
 [name="麻木的男人"]（奇怪的呻吟）
 男人瘫坐在人群中央，眼神空洞，却仍将脸色惨白的女子紧紧搂在怀中。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="市民A"]这是这几天遇到的第十例了......医生，这一片河谷里真的有不少猎犬病患者。
+[name="市民A"]这是这几天遇到的第十例了……医生，这一片河谷里真的有不少猎犬病患者。
 [name="市民A"]可是为什么？猎犬病不是只会出现在更偏南的种植园里吗？
 [charslot(slot="m",name="avg_npc_002",focus="m")]
-[name="市民B"]或是被猎犬咬伤......别忘了，联合政府的军队可能就在附近。
+[name="市民B"]或是被猎犬咬伤……别忘了，联合政府的军队可能就在附近。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_crowdtalk_fear",volume=0, channel="dis", loop=true)]
@@ -332,7 +332,7 @@
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_2321_1#5$1",focus="m")]
 [name="米格鲁"]这些伤口都是人为造成的。
-[name="米格鲁"]（但为什么？治疗？不对......这就像是一种计数方式。）
+[name="米格鲁"]（但为什么？治疗？不对……这就像是一种计数方式。）
 [Dialog]
 [charslot]
 太过残忍的计数方式。
@@ -349,7 +349,7 @@
 [charslot]
 [StopSound(channel="dis", fadetime=2)]
 [Delay(time=1)]
-[name="麻木的男人"]（微弱）特科马......特科马......
+[name="麻木的男人"]（微弱）特科马……特科马……
 [charslot(slot="m",name="avg_npc_2321_1#6$1",focus="m")]
 [name="米格鲁"]？！
 [charslot(slot="m",name="avg_npc_001",focus="m")]
@@ -358,7 +358,7 @@
 [name="米格鲁"]先生，您能听见我说话吗？请放心，您已经安全了。我是一名医生，我这就为您紧急处理伤——
 [Dialog]
 [charslot]
-[name="麻木的男人"]......医生？
+[name="麻木的男人"]……医生？
 [name="麻木的男人"]啊啊啊啊啊！医生！
 [Dialog]
 [charslot(slot="m",name="avg_npc_2321_1#9$1",focus="m")]
@@ -375,7 +375,7 @@
 [name="市民B"]这家伙怎么回事？
 [Dialog]
 [charslot]
-[name="麻木的男人"]我不要见医生，我不要见医生！......就是你们......你们这些人面兽心的混蛋！
+[name="麻木的男人"]我不要见医生，我不要见医生！……就是你们……你们这些人面兽心的混蛋！
 [name="麻木的男人"]是你们把我们关进黑房子，是你们要我们跪在地里，是你们用黑泥塞满我们的嘴——是你们在杀人！
 [charslot(slot="m",name="avg_npc_001",focus="m")]
 [name="市民A"]天啦，哥们儿，你在说啥？
@@ -399,11 +399,11 @@
 [charslot(slot="m",name="avg_npc_006",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_006",focus="m")]
-[name="麻木的男人"]......
+[name="麻木的男人"]……
 [charslot(slot="m",name="avg_npc_2321_1#11$1",focus="m")]
 [name="米格鲁"]先生，您看清楚了，我不是他们。
 [charslot(slot="m",name="avg_npc_006",focus="m")]
-[name="麻木的男人"]你不是他们？......哈哈，你不是他们？！
+[name="麻木的男人"]你不是他们？……哈哈，你不是他们？！
 [name="麻木的男人"]哈哈哈哈哈！我终于逃出来了，我终于逃出来了！
 [CameraShake(duration=0.5, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="麻木的男人"]胡安！埃玛！你们看到了吗，我逃出来了！我逃出了那个鬼地方！哈哈哈哈哈！
@@ -412,12 +412,12 @@
 癫狂的男人面向山谷的另一侧。在那个方向，双月低垂。
 男人嘟囔着发出呓语，翕动的嘴唇不断颤抖，像两瓣刚被剖开的鳞。
 [charslot(slot="m",name="avg_npc_006",focus="m")]
-[name="麻木的男人"]特科马......特科马......
+[name="麻木的男人"]特科马……特科马……
 [charslot(slot="m",name="avg_4234_pedro_1#11$2",focus="m")]
 [name="执勤的士兵"]（皱眉）
 [charslot(slot="m",name="avg_npc_006",focus="m")]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20,vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="麻木的男人"]不要抓我回特科马......不要抓我回特科马！
+[name="麻木的男人"]不要抓我回特科马……不要抓我回特科马！
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -442,26 +442,26 @@
 [name="国防部调查员"]我们能够理解您对科研环境的要求，不过请放心，国防部绝对会竭尽全力为您提供安全的研发环境——即便是在黑流树海。
 [name="国防部调查员"]别忘了，我们可是搭上了一整座种植园，才让您摆脱了本土的监管。
 [charslot(slot="l",name="avg_4229_aphris_1#5$2",focus="l")]
-[name="洛伦茨"]一座种植园......还有一位被调换成尸体、作为“死去的我”的庄园主......
+[name="洛伦茨"]一座种植园……还有一位被调换成尸体、作为“死去的我”的庄园主……
 [charslot(slot="l",name="avg_4229_aphris_1#13$2",focus="l")]
 [name="洛伦茨"]听说那女孩和我长得真的很像，是这样吗？
 [charslot(slot="r",name="avg_npc_1259_1#1$1",focus="r")]
 [name="国防部调查员"]足以以假乱真，您不必为此担忧。
 [charslot(slot="l",name="avg_4229_aphris_1#5$2",focus="l")]
-[name="洛伦茨"]唔......我只是在想，那样一位和我外貌相似的女孩，此前有着什么样的人生呢？
+[name="洛伦茨"]唔……我只是在想，那样一位和我外貌相似的女孩，此前有着什么样的人生呢？
 [name="洛伦茨"]如果她能选择的话，应该是不会乐意作为别人的替身而死的。
 [charslot(slot="l",name="avg_4229_aphris_1#9$2",focus="l")]
 [name="洛伦茨"]如果能选择的话，许多人都不会想要来到这座小镇的。
 [charslot(slot="r",name="avg_npc_1259_1#1$1",focus="r")]
 [name="国防部调查员"]女士，我们体谅您的心情，我可以给您十五分钟的时间在这里整理情绪，之后我们就必须出发了。
-[name="国防部调查员"]......必须要赶在梅兰德基金会的特工来之前。
+[name="国防部调查员"]……必须要赶在梅兰德基金会的特工来之前。
 [charslot(slot="l",name="avg_4229_aphris_1#9$2",focus="l")]
 [name="洛伦茨"]想必国防部已经做好彻底站在梅兰德对面的打算了？这可真令人担忧。
 [charslot(slot="r",name="avg_npc_1259_1#1$1",focus="r")]
 [name="国防部调查员"]这就不是需要您操心的事了。就算梅兰德的特工查到这座小镇，他们最终也只会收获一片废墟。请放心吧。
 [charslot(slot="l",name="avg_4229_aphris_1#13$2",focus="l")]
 [name="洛伦茨"]你们将所有赌注都押在了我的这一项小小的研究上，难道就不担心，这一次的结果和十六年前并无二致？
-[name="洛伦茨"]十六年前......第一次实验前，你们是否也是这样相信我的父亲？
+[name="洛伦茨"]十六年前……第一次实验前，你们是否也是这样相信我的父亲？
 [charslot(slot="r",name="avg_npc_1259_1#1$1",focus="r")]
 [name="国防部调查员"]闲聊就到此为止吧。事到如今，我们需要您集中全部精力在研究上。
 [name="国防部调查员"]如果您的进度不乐观，有些大人物会很不高兴的。
@@ -469,7 +469,7 @@
 [name="洛伦茨"]我也只能承诺会竭尽全力了。毕竟，我只是一个连餐费都需要国防部施舍的小小研究员。
 [charslot(slot="r",name="avg_npc_1259_1#1$1",focus="r")]
 [name="国防部调查员"]我并无指责您的意思，女士。
-[name="国防部调查员"]我们只是希望......您在这里为我们准备的盛宴，能媲美十六年前的那场爆炸......能媲美特里蒙上空的那道闪光。
+[name="国防部调查员"]我们只是希望……您在这里为我们准备的盛宴，能媲美十六年前的那场爆炸……能媲美特里蒙上空的那道闪光。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -483,7 +483,7 @@
 [PlaySound(key="$d_avg_attack_ready", volume=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2321_1#9$1",focus="m")]
-[name="米格鲁"]请等一下！你们......这是要去做什么？
+[name="米格鲁"]请等一下！你们……这是要去做什么？
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
 [name="真正玻利瓦尔人士兵A"]是你啊，医生。
 [name="真正玻利瓦尔人士兵A"]我们已经查清楚了，特科马小镇就在离这里二十公里的地方，那里还关着数百号我们的同胞。他们都是联合政府人体实验的受害者。
@@ -508,7 +508,7 @@
 [StopSound(channel="c", fadetime=2.5)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2321_1#8$1",focus="m")]
-[name="米格鲁"]各位......请冷静一点。
+[name="米格鲁"]各位……请冷静一点。
 [name="米格鲁"]我们现在对这座名为特科马的小镇几乎一无所知，不知道那里有多少守军，也不知道内部的情况。救援行动根本无从开展。
 [name="米格鲁"]我们的物资和武器本来就十分有限，各位都是撤离队伍中少有的有作战能力的人员，你们当中任何一位的牺牲，都是整支队伍的损失。
 [Dialog]
@@ -516,7 +516,7 @@
 [delay(time=1)]
 她将自己的盾握得很紧。
 [charslot(slot="m",name="avg_npc_2321_1#3$1",focus="m")]
-[name="米格鲁"]队伍中还有很多人......大家都想活下去，西南部还有很多人在等我们，我们不能——
+[name="米格鲁"]队伍中还有很多人……大家都想活下去，西南部还有很多人在等我们，我们不能——
 [Dialog]
 [charslot]
 [name="坚定的声音"]可我们不愿意这样活下去。
@@ -540,7 +540,7 @@
 [charslot(slot = "m", name = "avg_npc_002",bstart=0.2,bend=0.7,focus="m")]
 [name="？？？"]谁要是不想战斗到底，我们就先杀了他！
 [charslot(slot="m",name="avg_npc_2321_1#9$1",focus="m")]
-[name="米格鲁"]大家......
+[name="米格鲁"]大家……
 [Dialog]
 [charslot]
 [StopSound(channel="c", fadetime=2.5)]
@@ -597,28 +597,28 @@
 [name="米格鲁"]啊，是您！抱歉，我还不知道您的名字。
 [name="执勤的士兵"]“佩德洛”，很常见的名字。
 [name="米格鲁"]您好，佩德洛先生。
-[name="佩德洛"]你......你这是打算......
-[name="佩德洛"]......和他们去救人？
+[name="佩德洛"]你……你这是打算……
+[name="佩德洛"]……和他们去救人？
 米格鲁没有回答。她只是用紫色的缎带一遍又一遍地擦拭着自己的盾牌。
-[name="米格鲁"]......特科马小镇离这里有二十公里，如果救援行动顺利的话，去参与行动的人还有可能跟上大部队。
-[name="米格鲁"]如果我能和大家一起行动的话，也许更多人就有机会活下来，这支队伍的更多人，都会更有机会活下来......
+[name="米格鲁"]……特科马小镇离这里有二十公里，如果救援行动顺利的话，去参与行动的人还有可能跟上大部队。
+[name="米格鲁"]如果我能和大家一起行动的话，也许更多人就有机会活下来，这支队伍的更多人，都会更有机会活下来……
 [name="佩德洛"]你不怕死？
-[name="米格鲁"]欸？......佩德洛先生这么直接的吗？
-[name="佩德洛"]你应该清楚这场救援行动的危险性......
+[name="米格鲁"]欸？……佩德洛先生这么直接的吗？
+[name="佩德洛"]你应该清楚这场救援行动的危险性……
 [name="佩德洛"]他们都说：“你不是一个真正的玻利瓦尔人。”
-[name="米格鲁"]......
+[name="米格鲁"]……
 [name="米格鲁"]先生，我只是有一个一直没能得到解答的疑惑——
-[name="米格鲁"]这支队伍的名字，叫“真正玻利瓦尔人”......
+[name="米格鲁"]这支队伍的名字，叫“真正玻利瓦尔人”……
 [name="米格鲁"]那么，谁又是“虚假”的玻利瓦尔人呢？
-[name="佩德洛"]......
-[name="米格鲁"]哥伦比亚人，莱塔尼亚人......为什么就因为一个身份，我们就要对和我们一样的普通人扬起刀？
+[name="佩德洛"]……
+[name="米格鲁"]哥伦比亚人，莱塔尼亚人……为什么就因为一个身份，我们就要对和我们一样的普通人扬起刀？
 [name="米格鲁"]这片土地上唯一“真正”发生的事，难道不是我们都在受伤吗？
 [name="佩德洛"]你想了很多。
 [name="米格鲁"]那佩德洛先生呢？您看起来很年轻，为什么会加入“真正玻利瓦尔人”？
-[name="佩德洛"]为了活着......
-[name="米格鲁"]......
+[name="佩德洛"]为了活着……
+[name="米格鲁"]……
 [name="佩德洛"]抱歉，这可能不是你想要的答案。但现实就是，对很多生长在这里的人来说，“活着”本身，就已经很累了。
-[name="佩德洛"]至于“为一个身份而死”......我想，这是这群疲惫的人所能做的唯一一件，能确认自己“活着的意义”的事。
+[name="佩德洛"]至于“为一个身份而死”……我想，这是这群疲惫的人所能做的唯一一件，能确认自己“活着的意义”的事。
 [Dialog]
 [image(fadetime=1.5)]
 [Delay(time=2)]
@@ -626,7 +626,7 @@
 [charslot(slot="m",name="avg_4234_pedro_1#2$2",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4234_pedro_1#2$2",focus="m")]
-[name="佩德洛"]......抱歉，这可能不是你想要的答案。
+[name="佩德洛"]……抱歉，这可能不是你想要的答案。
 [Dialog]
 [StopSound(channel="a", fadetime=2)]
 [playsound(key="$d_avg_walkmeadow",volume=1)]
@@ -644,7 +644,7 @@
 [Delay(time=2)]
 [bgeffect(name="$eb_rain",layer=1)]
 [Delay(time=1)]
-[name="收音机"]......滋滋，长久的高温天有望得到缓和......玻利瓦尔将迎来入夏后的第一场雨......
+[name="收音机"]……滋滋，长久的高温天有望得到缓和……玻利瓦尔将迎来入夏后的第一场雨……
 [Dialog]
 [PlaySound(key="$d_avg_mouse",volume=1)]
 [charslot(slot="m",name="avg_npc_602_1#1$1",posfrom="200,0",posto="0,0",afrom=0,ato=1,duration=1,isblock=true)]
@@ -656,8 +656,8 @@
 [name="稚嫩的声音"]骗人，这种地方怎么会有循兽！
 [name="稚嫩的声音"]怎么不会有？玻利瓦尔遍地都是循兽！
 [name="稚嫩的声音"]胡说！循兽全都跑出了玻利瓦尔！
-[name="细微的声音"]你们俩别吵了......快把收音机收起来，士兵叔叔不让我们用收音机。
-[name="细微的声音"]......快睡吧，大家都睡了。
+[name="细微的声音"]你们俩别吵了……快把收音机收起来，士兵叔叔不让我们用收音机。
+[name="细微的声音"]……快睡吧，大家都睡了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2.5, block=true)]
@@ -668,23 +668,23 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playsound(key="$transmission", volume=0.4)]
 [Delay(time=1)]
-[name="米格鲁"]（唔......这个时候？电讯？......是克洛丝？）
+[name="米格鲁"]（唔……这个时候？电讯？……是克洛丝？）
 [Dialog]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
 [name="米格鲁"]喂，克洛丝？
-[name="通讯声"]......
-[name="通讯声"]............
+[name="通讯声"]……
+[name="通讯声"]…………
 [name="米格鲁"]喂？您好？
 [name="通讯声"]你想好了？
 [name="米格鲁"]欸？
 [name="通讯声"]我是问，你真的想好了吗？
-[name="米格鲁"]......啊，是你，这个时间......
-[name="米格鲁"]这个时间......我......我猜到会是你。
+[name="米格鲁"]……啊，是你，这个时间……
+[name="米格鲁"]这个时间……我……我猜到会是你。
 [name="米格鲁"]也许是因为最近做了许多梦，我知道你一定会来阻拦我的。
-[name="米格鲁"]但是对不起......我必须要去，我是不会让路的。
-[name="米格鲁"]对不起，我不能眼睁睁地看着......
-[name="通讯声"]......我没有办法阻止你。
+[name="米格鲁"]但是对不起……我必须要去，我是不会让路的。
+[name="米格鲁"]对不起，我不能眼睁睁地看着……
+[name="通讯声"]……我没有办法阻止你。
 [name="通讯声"]对不起。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -706,12 +706,12 @@
 [charslot(slot="m",name="avg_npc_002",focus="m")]
 [name="市民B"]你眼睛好，快看看那是什么？
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="市民A"]那是......一座小镇？那就是特科马？它居然是这个样子？
+[name="市民A"]那是……一座小镇？那就是特科马？它居然是这个样子？
 [Dialog]
 [charslot]
 远远地，人们已经能隐约看见小镇的轮廓，它似乎并没有想象中那般恐怖。
 被大雨淋湿后的落日余晖散在纤薄的云层里。夕阳给这座罪恶的小镇披上了一层柔和的纱衣。它是那般祥和，甚至有些优雅。
-白色的城墙，尖顶的钟楼，菱形的小塔......若不细看，它仿佛和任何一座玻利瓦尔的中部城市都没有区别。
+白色的城墙，尖顶的钟楼，菱形的小塔……若不细看，它仿佛和任何一座玻利瓦尔的中部城市都没有区别。
 [charslot(slot="m",name="avg_npc_2321_1#6$1",focus="m")]
 [name="米格鲁"]特科马居然是这个样子。
 [Dialog]
@@ -755,7 +755,7 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_002",focus="m")]
-[name="市民B"]三十一，三十二......这栋楼里应该还有伤员！
+[name="市民B"]三十一，三十二……这栋楼里应该还有伤员！
 [charslot(slot="m",name="avg_npc_001",focus="m")]
 [name="市民A"]奇怪。除了进入镇子时遇上了两队联合政府士兵，怎么之后就一个人影都没看着？
 [charslot(slot="m",name="avg_npc_002",focus="m")]
@@ -797,13 +797,13 @@
 [charslot(duration=1)]
 [Delay(time=1.5)]
 [name="米格鲁"]我们不会再伤害你，但我也无法救你。这是一些应急的药物，希望你不会太痛苦。
-[name="联合政府士兵"]谢......谢谢......
-[name="联合政府士兵"]可是你们......不该，来这......他们知道，你们要来......
+[name="联合政府士兵"]谢……谢谢……
+[name="联合政府士兵"]可是你们……不该，来这……他们知道，你们要来……
 [name="米格鲁"]什么意思？谁知道我们要来？
-[name="联合政府士兵"]他们放出病人......引来玻利瓦尔人，把脏水......泼给你们......
-[name="联合政府士兵"]那些畜生......我被咬了......我已经活不了了......
-[name="联合政府士兵"]长官让我留下来......我只能......
-[name="联合政府士兵"]......开门......
+[name="联合政府士兵"]他们放出病人……引来玻利瓦尔人，把脏水……泼给你们……
+[name="联合政府士兵"]那些畜生……我被咬了……我已经活不了了……
+[name="联合政府士兵"]长官让我留下来……我只能……
+[name="联合政府士兵"]……开门……
 [name="米格鲁"]——！
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement_heavy2", volume=0.8)]
@@ -859,7 +859,7 @@
 [PlaySound(key="$d_avg_crowdrun",volume=0.6)]
 [Delay(time=2.5)]
 队伍开始溃散。
-可追赶他们的何止是无数条猎犬？那些被黑流吞噬的同胞，那些高高扬起的鞭子，那些被串在种植园尖锐的篱笆上的人头......
+可追赶他们的何止是无数条猎犬？那些被黑流吞噬的同胞，那些高高扬起的鞭子，那些被串在种植园尖锐的篱笆上的人头……
 噩梦毫不讲理，噩梦追了上来。
 [Dialog]
 [charslot(slot="m",name="avg_npc_001",focus="m")]
@@ -874,7 +874,7 @@
 [charslot(slot="l",name="avg_npc_2321_1#8$1",duration=0.5)]
 [delay(time=0.7)]
 [charslot(slot="l",name="avg_npc_2321_1#8$1",focus="n")]
-[name="市民A"]你，是你......医生，是你......
+[name="市民A"]你，是你……医生，是你……
 [Dialog]
 [charslot(slot="l",name="avg_npc_2321_1#8$1",focus="l")]
 [delay(time=0.3)]
@@ -882,14 +882,14 @@
 [charslot(duration=0.5)]
 [delay(time=0.7)]
 [name="米格鲁"]站起来，跑！
-[name="市民A"]这么多猎犬，我们跑不掉......我们跑不掉啊！
+[name="市民A"]这么多猎犬，我们跑不掉……我们跑不掉啊！
 [name="米格鲁"]什么都不要管，一直跑！
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_horn",volume=0.6)]
 [delay(time=2)]
 [name="？？？"]举起武器！玻利瓦尔人！
-[name="米格鲁"]......谁？
+[name="米格鲁"]……谁？
 [Dialog]
 [charslot]
 粗野、冷漠、毫不留情的命令。
@@ -901,17 +901,17 @@
 [name="？？？"]举起武器！玻利瓦尔人！
 命令逐渐演变成口号。
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
-[name="真正玻利瓦尔人士兵A"]对，对......光是逃跑是行不通的......举起武器！玻利瓦尔人！
+[name="真正玻利瓦尔人士兵A"]对，对……光是逃跑是行不通的……举起武器！玻利瓦尔人！
 [Dialog]
 [charslot]
-[name="米格鲁"]（低声）举起武器，玻利瓦尔人......
+[name="米格鲁"]（低声）举起武器，玻利瓦尔人……
 [Dialog]
 [charslot(slot="m",name="avg_npc_2321_1#8$1",duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_2321_1#8$1",focus="n")]
-[name="市民A"]......医生？
+[name="市民A"]……医生？
 [charslot(slot="m",name="avg_npc_2321_1#8$1",focus="m")]
-[name="米格鲁"]感谢您一直叫我“医生”。但其实，像芙蓉和华法琳小姐那样靠谱的人才能被称为“医生”吧......
+[name="米格鲁"]感谢您一直叫我“医生”。但其实，像芙蓉和华法琳小姐那样靠谱的人才能被称为“医生”吧……
 [name="米格鲁"]比起药物和绷带，果然，我还是更适合用盾牌保护大家！
 [Dialog]
 [PlaySound(key="$d_avg_sldrrng", volume=1)]
@@ -948,10 +948,10 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
 [delay(time=0.3)]
 [charslot(slot="m",name="avg_npc_2321_1#4$1",focus="m")]
-[name="米格鲁"]......哈！
+[name="米格鲁"]……哈！
 [name="米格鲁"]还愣着做什么？跑啊！
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
-[name="真正玻利瓦尔人士兵A"]你......
+[name="真正玻利瓦尔人士兵A"]你……
 [Dialog]
 [charslot]
 [delay(time=0.2)]
@@ -973,21 +973,21 @@
 [charslot(slot="m",name="avg_npc_005",focus="m")]
 [name="马丁"]跑！
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
-[name="真正玻利瓦尔人士兵A"]可、可是......
+[name="真正玻利瓦尔人士兵A"]可、可是……
 [charslot(slot="m",name="avg_npc_005",focus="m")]
 [name="马丁"]会打架的！掩护队伍撤离！其他碍事的家伙通通给我滚蛋！
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
-[name="真正玻利瓦尔人士兵A"]我......我......
+[name="真正玻利瓦尔人士兵A"]我……我……
 [charslot(slot="m",name="avg_npc_2321_1#4$1",focus="m")]
 [name="米格鲁"]镇外或许有其他队伍！他们还在等你的消息！一定要把真相带出去！
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
-[name="真正玻利瓦尔人士兵A"]我......嗯！
+[name="真正玻利瓦尔人士兵A"]我……嗯！
 [Dialog]
 [PlaySound(key="$runsand", volume=1)]
 [charslot(duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2321_1#8$1",focus="m")]
-[name="米格鲁"]然后就是......
+[name="米格鲁"]然后就是……
 [charslot(slot="m",name="avg_npc_2321_1#11$1",focus="m")]
 [name="米格鲁"]马丁先生？！您的腿已经——
 [Dialog]
@@ -1133,7 +1133,7 @@
 [PlaySound(key="$d_avg_stkmyer", volume=1)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
 [delay(time=1.5)]
-[name="洛伦茨"]保护程序被触发了，这也意味着......
+[name="洛伦茨"]保护程序被触发了，这也意味着……
 地平线屏住呼吸。
 太阳落山了。
 [Dialog]

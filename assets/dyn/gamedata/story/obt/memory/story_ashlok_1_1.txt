@@ -40,7 +40,7 @@
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]格蕾纳蒂，现在就是机会。
 [charslot(slot="r",name="avg_npc_123#1",focus="r")]
-[name="格蕾纳蒂"]......
+[name="格蕾纳蒂"]……
 [Dialog]
 [PlaySound(key="$explolarge1", volume=0.6)]
 [PlaySound(key="$d_avg_runstop", volume=1,delay=0.2)]
@@ -87,12 +87,12 @@
 [charslot(slot="r",name="avg_npc_220",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_221",focus="l")]
-[name="乔伊"]上啊！砍他肩甲和护肘之间的缝隙......漂亮！
+[name="乔伊"]上啊！砍他肩甲和护肘之间的缝隙……漂亮！
 [charslot(slot="r",name="avg_npc_220",focus="r")]
 [name="罗伯特"]小点声，乔伊。你把大家的视线都吸引过来了。
 [charslot(slot="l",name="avg_npc_221",focus="l")]
 [name="乔伊"]在酒吧里看转播还有低调的道理？我就是支持感染者把对面的贵族老爷打趴下！
-[name="乔伊"]呃......你们知道我没有指桑骂槐对吧，格蕾纳蒂，阿贝特？
+[name="乔伊"]呃……你们知道我没有指桑骂槐对吧，格蕾纳蒂，阿贝特？
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_218",focus="m")]
@@ -107,7 +107,7 @@
 [name="乔伊"]可以啊，没想到每天看报真有用处。
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]当然。
-[name="阿贝特"]唉......我认输，格蕾纳蒂。你看上去可不止“小时候随便下过几局”的水平。
+[name="阿贝特"]唉……我认输，格蕾纳蒂。你看上去可不止“小时候随便下过几局”的水平。
 [charslot(slot="m",name="avg_npc_123#7",focus="m")]
 [name="格蕾纳蒂"]我有很多无所事事的表亲。
 [name="格蕾纳蒂"]要不是太想保下那枚骑士，你或许还有胜算。
@@ -123,13 +123,13 @@
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
 [name="格蕾纳蒂"]是我。
 [charslot(slot="m",name="avg_npc_222",focus="m")]
-[name="记者"]我是《红酒报》的记者，前几天向您的临时住所寄了采访信，但似乎出了一些小问题......
+[name="记者"]我是《红酒报》的记者，前几天向您的临时住所寄了采访信，但似乎出了一些小问题……
 [name="记者"]我个人十分看好您在赛场上的表现，并认为您有足够的实力冲击骑士锦标赛。
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
 [name="格蕾纳蒂"]谢谢。
 [charslot(slot="m",name="avg_npc_222",focus="m")]
 [name="记者"]我想除了竞技表现之外，观众们对于您私下的生活也会很感兴趣。
-[name="记者"]包括您常来的这家酒吧，您日常是如何训练的，还有......卡利斯卡家族将您驱逐的始末。
+[name="记者"]包括您常来的这家酒吧，您日常是如何训练的，还有……卡利斯卡家族将您驱逐的始末。
 [charslot(slot="m",name="avg_npc_123#4",focus="m")]
 [name="格蕾纳蒂"]我的个人生活并没有你想象的那么精彩。
 [charslot(slot="m",name="avg_npc_222",focus="m")]
@@ -145,7 +145,7 @@
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_221",focus="m")]
 [name="乔伊"]我太感动了，小格蕾竟然为了我们拒绝《红酒报》的采访。
-[name="乔伊"]不幸感染、家族决裂、独赴大骑士领......炒作悲情戏码可比火炮轰鸣更容易获得关注。
+[name="乔伊"]不幸感染、家族决裂、独赴大骑士领……炒作悲情戏码可比火炮轰鸣更容易获得关注。
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]那些油墨纸张不是我们的竞技场，乔伊。寻求捷径会让一名骑士失去最初珍视的那些东西。
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
@@ -160,7 +160,7 @@
 [CameraShake(duration=0.5, xstrength=25, ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_221",focus="m")]
-[name="乔伊"]哎哟！你干什......咳，我是说没认出你是他的损失，阿贝特。
+[name="乔伊"]哎哟！你干什……咳，我是说没认出你是他的损失，阿贝特。
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]哈哈哈，没被无良记者缠上是我的幸运。感谢高洁清廉的伯雷斯瓦夫家，虽然没能留下丰厚的家产，但为后辈省去了不少麻烦。
 [name="阿贝特"]我们继续下棋吧，格蕾纳蒂。
@@ -194,7 +194,7 @@
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]注意你的护甲，这个距离发射火炮可能伤到自己。
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
-[name="格蕾纳蒂"]......
+[name="格蕾纳蒂"]……
 [Dialog]
 [PlaySound(key="$grenade_launcher_shot", volume=1)]
 [delay(time=0.5)]
@@ -214,11 +214,11 @@
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]对你来说远距离作战确实更具优势，让我想想我应该怎么解决这个棘手的问题。
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
-[name="格蕾纳蒂"]......
+[name="格蕾纳蒂"]……
 [charslot(slot="m",name="avg_npc_218",focus="m")]
-[name="阿贝特"]......
+[name="阿贝特"]……
 [name="阿贝特"]对局的时候你真的一句话都不说啊，格蕾纳蒂。
-[name="阿贝特"]既然如此......
+[name="阿贝特"]既然如此……
 [Dialog]
 [playsound(key="$d_avg_Qinggong")]
 [charslot(duration=0.3)]
@@ -230,7 +230,7 @@
 [PlaySound(key="$d_avg_ejectempaty",channel="2",delay=0.4)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_123#5",focus="m")]
-[name="格蕾纳蒂"]我的弹匣......空了。
+[name="格蕾纳蒂"]我的弹匣……空了。
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]抱歉，既然无法解决，只能让你犯一犯“老毛病”了。
 [charslot(slot="m",name="avg_npc_221",focus="m")]
@@ -244,7 +244,7 @@
 [charslot(slot="m",name="avg_npc_123#3",focus="m")]
 [name="格蕾纳蒂"]咳，我会出加固费用。
 [charslot(slot="m",name="avg_npc_123#4",focus="m")]
-[name="格蕾纳蒂"]......等上周的比赛奖金到账之后。
+[name="格蕾纳蒂"]……等上周的比赛奖金到账之后。
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]这种程度的破损一会儿用废砖和合成胶就能修补。我家庭院抵押出去之前就用这种方法修整，花销不会太多。
 [name="阿贝特"]不过开工前我们需要先接待一下这位被火炮声吸引来的小客人。
@@ -254,12 +254,12 @@
 [charslot(slot="m",name="avg_npc_045_nn_1#1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_045_nn_1#1",focus="m")]
-[name="感染者女孩"]灰、灰毫骑士......只是想问能不能给我签个名。我看过您所有的比赛......
-[name="感染者女孩"]啊，大部分其实是听的收音机转播......我不想打扰你们训练，要不我还是——
+[name="感染者女孩"]灰、灰毫骑士……只是想问能不能给我签个名。我看过您所有的比赛……
+[name="感染者女孩"]啊，大部分其实是听的收音机转播……我不想打扰你们训练，要不我还是——
 [charslot(slot="m",name="avg_npc_123#7",focus="m")]
 [name="格蕾纳蒂"]不打扰。
 [charslot(slot="m",name="avg_npc_221",focus="m")]
-[name="乔伊"]......
+[name="乔伊"]……
 [charslot(slot="m",name="avg_npc_123#7",focus="m")]
 [name="格蕾纳蒂"]告诉我你的名字。
 [charslot(slot="m",name="avg_npc_045_nn_1#1",focus="m")]
@@ -271,11 +271,11 @@
 [charslot(slot="m",name="avg_npc_123#7",focus="m")]
 [name="格蕾纳蒂"]签好了，感谢你的支持。
 [charslot(slot="m",name="avg_npc_045_nn_1#1",focus="m")]
-[name="感染者女孩"]......
+[name="感染者女孩"]……
 [charslot(slot="m",name="avg_npc_123#7",focus="m")]
 [name="格蕾纳蒂"]还有什么事？
 [charslot(slot="m",name="avg_npc_218",focus="m")]
-[name="阿贝特"]唉......
+[name="阿贝特"]唉……
 [Dialog]
 [charslot]
 [delay(time=0.5)]
@@ -289,23 +289,23 @@
 [name="戴安"]因、因为火炮很帅！我的朋友总说刺剑更像骑士的武器，明明盾和火炮也很厉害！
 [name="戴安"]而且那些黑衣服的人袭击聚集区的时候，她挡在所有人前面，保护了我和爸爸妈妈！
 [charslot(slot="r",name="avg_npc_045_nn_1#1",focus="r")]
-[name="戴安"]还有、还有......我的个子也很小。
+[name="戴安"]还有、还有……我的个子也很小。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_123#4",focus="m")]
-[name="格蕾纳蒂"]呃......
+[name="格蕾纳蒂"]呃……
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [charslot(slot="r",name="avg_npc_045_nn_1#1",focus="l")]
 [name="阿贝特"]既然你是如此忠实的粉丝，我想灰毫骑士一定不会拒绝送你一枚火炮的弹壳。
 [charslot(slot="r",name="avg_npc_045_nn_1#3",focus="r")]
-[name="戴安"]......！
+[name="戴安"]……！
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_123#7",focus="m")]
 [name="格蕾纳蒂"]拿去吧。
-[name="格蕾纳蒂"]如果以后还想要签名，可以再来这里找我。只是......小心一些，不要被训练的骑士伤到。
+[name="格蕾纳蒂"]如果以后还想要签名，可以再来这里找我。只是……小心一些，不要被训练的骑士伤到。
 [charslot(slot="m",name="avg_npc_045_nn_1#2",focus="m")]
 [name="戴安"]谢谢您！我一定会再来的，比赛加油！
 [Dialog]
@@ -356,7 +356,7 @@
 [playsound(key="$d_avg_paper2",volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_218",focus="m")]
-[name="阿贝特"]......
+[name="阿贝特"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -389,7 +389,7 @@
 [charslot(slot="m",name="avg_npc_221",focus="m")]
 [name="乔伊"]哈！你是不是也嫉妒他了，罗布！
 [charslot(slot="m",name="avg_npc_220",focus="m")]
-[name="罗伯特"]我没有......
+[name="罗伯特"]我没有……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)] 
 [charslot]
@@ -414,9 +414,9 @@
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]多谢关心，先生，之前忙于打理家业，实在无暇赴宴。
 [charslot(slot="m",name="avg_npc_219",focus="m")]
-[name="贵族骑士"]下次叫你的管家来取请帖吧......哦，万分抱歉，我忘记伯雷斯瓦夫家已经没有仆从，只能麻烦阿贝特少爷亲自去我的随从那里领了。
+[name="贵族骑士"]下次叫你的管家来取请帖吧……哦，万分抱歉，我忘记伯雷斯瓦夫家已经没有仆从，只能麻烦阿贝特少爷亲自去我的随从那里领了。
 [charslot(slot="m",name="avg_npc_218",focus="m")]
-[name="阿贝特"]......多谢您的体谅。
+[name="阿贝特"]……多谢您的体谅。
 [Dialog]
 [charslot(slot="m",name="avg_npc_219",focus="m")]
 [delay(time=0.2)]
@@ -439,7 +439,7 @@
 [charslot(slot="r",name="avg_npc_220",focus="r")]
 [name="罗伯特"]他最近多了很多商业邀请赛，好长时间没跟我们一起训练了。
 [charslot(slot="l",name="avg_npc_221",focus="l")]
-[name="乔伊"]那个是《红酒报》的记者，你们说阿贝特是不是......
+[name="乔伊"]那个是《红酒报》的记者，你们说阿贝特是不是……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
@@ -452,9 +452,9 @@
 [charslot(slot="l",name="avg_npc_221",focus="l")]
 [name="乔伊"]喝酒去吧！格蕾纳蒂都说没事，那肯定没事。说不定阿贝特只是累了呢。
 [charslot(slot="r",name="avg_npc_220",focus="r")]
-[name="罗伯特"]唉......也是，真出了事我们又能帮上什么忙呢？
+[name="罗伯特"]唉……也是，真出了事我们又能帮上什么忙呢？
 [charslot(slot="l",name="avg_npc_221",focus="l")]
-[name="乔伊"]我说你什么时候能不这么消极......
+[name="乔伊"]我说你什么时候能不这么消极……
 [Dialog]
 [charslot(slot="l",name="avg_npc_221",focus="all")]
 [delay(time=0.2)]
@@ -474,8 +474,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_222",focus="m")]
-[name="记者"]......那么就按照我们说定的那样，伯雷斯瓦夫少爷，合约任何时候都能生效。
-[name="记者"]不过，不用我建议您也知道，越重要的比赛越有看头，比如......
+[name="记者"]……那么就按照我们说定的那样，伯雷斯瓦夫少爷，合约任何时候都能生效。
+[name="记者"]不过，不用我建议您也知道，越重要的比赛越有看头，比如……
 [charslot(slot="m",name="avg_npc_218",focus="m")]
 [name="阿贝特"]我充分信任商业联合会给出的协议，只是还需要做些准备。
 [Dialog]
@@ -505,7 +505,7 @@
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
 [name="格蕾纳蒂"]但这意味着你要对自己做一些傻事。
 [charslot(slot="m",name="avg_npc_218",focus="m")]
-[name="阿贝特"]......
+[name="阿贝特"]……
 [name="阿贝特"]我突然想起来，父母将家族交予我后，我还没有邀请过任何朋友到伯雷斯瓦夫家宅做客。
 [name="阿贝特"]灰毫骑士，你愿意成为我的第一位访客吗？
 [Dialog]
@@ -532,7 +532,7 @@
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]可我累了，格蕾纳蒂。
 [charslot(slot="r",name="avg_npc_123#1",focus="r")]
-[name="格蕾纳蒂"]......
+[name="格蕾纳蒂"]……
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]即使参加再多比赛，也不如一篇报道更具影响力，这座被赎回的庭院就是证据。
 [charslot(slot="r",name="avg_npc_123#1",focus="r")]
@@ -542,7 +542,7 @@
 [name="阿贝特"]选拔赛最后一轮，我们之间的对局——
 [name="阿贝特"]灰毫骑士，我想让你在那场比赛里了结我的生命。
 [charslot(slot="r",name="avg_npc_123#5",focus="r")]
-[name="格蕾纳蒂"]......！
+[name="格蕾纳蒂"]……！
 [name="格蕾纳蒂"]你疯了！你拿自己的命跟商业联合会做交易？
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]他们能完成我的理想，为伯雷斯瓦夫家族带来光辉。
@@ -551,18 +551,18 @@
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]我接到了银行寄来的破产通知书。
 [charslot(slot="r",name="avg_npc_123#1",focus="r")]
-[name="格蕾纳蒂"]什么......
+[name="格蕾纳蒂"]什么……
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]没有时间了。那些支持者只能带来微乎其微的安慰，但家族衰落是我无法回避的事实。
 [name="阿贝特"]读报是我从小养成的习惯，除了收集选手情报之外，我也会确认有关自己的报道，有关伯雷斯瓦夫家的报道。
 [charslot(slot="r",name="avg_npc_123#1",focus="r")]
-[name="格蕾纳蒂"]......为什么要在意那些虚名？
+[name="格蕾纳蒂"]……为什么要在意那些虚名？
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]因为我的家人待我不薄，因为我认可代代传承的骑士准则，我不想让家族的期待和坚守在我身上消失，哪怕是虚名，我也愿意背负。
 [name="阿贝特"]仔细想想，格蕾纳蒂。
 [name="阿贝特"]即使卡利斯卡将你驱逐，所有人都认为你怨恨自己的家族，可是卡利斯卡中难道没有任何一个令你崇拜，或善待过你的人？
 [charslot(slot="r",name="avg_npc_123#3",focus="r")]
-[name="格蕾纳蒂"]......
+[name="格蕾纳蒂"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -592,7 +592,7 @@
 [name="阿贝特"]我想为这些人做些什么。
 [name="阿贝特"]我并不害怕献出生命，但我害怕哪天站在报摊前看到《古老的骑士之家殁于最后的继承人——阿贝特·伯雷斯瓦夫之手》之类的报道。
 [name="阿贝特"]我更害怕连这条新闻都不为人知。
-[name="阿贝特"]格蕾纳蒂，我的骑士朋友，如果由你为一切画上句号......
+[name="阿贝特"]格蕾纳蒂，我的骑士朋友，如果由你为一切画上句号……
 [charslot(slot="r",name="avg_npc_123#1",focus="r")]
 [name="格蕾纳蒂"]不。
 [charslot(slot="l",name="avg_npc_218",focus="l")]
@@ -608,12 +608,12 @@
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]你为什么还拿着那门火炮？
 [charslot(slot="r",name="avg_npc_123#2",focus="r")]
-[name="格蕾纳蒂"]......
+[name="格蕾纳蒂"]……
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]你无法回答这个问题，那么你应当理解我。
 [name="阿贝特"]如果你拒绝我的挑战，我依旧会在正式赛中寻求谢幕。
 [charslot(slot="r",name="avg_npc_123#2",focus="r")]
-[name="格蕾纳蒂"]你不该以生命为代价......
+[name="格蕾纳蒂"]你不该以生命为代价……
 [charslot(slot="l",name="avg_npc_218",focus="l")]
 [name="阿贝特"]我明白。但事到如今，这是我能开出的最高价码了。
 [Dialog]
@@ -647,14 +647,14 @@
 [name="比赛解说"]哇！这下的威力可不小！我猜很多观众都跟我一样好奇，体格矮小的灰毫骑士究竟经受了怎样的训练，才能如此轻松地举起这面重盾。
 [name="比赛解说"]饶是熟谙古典剑术的贵族后裔，也无法抵御感染者骑士从地下竞技场千锤百炼得来的战斗技巧！
 [name="比赛解说"]伯雷斯瓦夫家的骑士倒地不起，那让我们用最热烈的欢呼声恭喜——
-[name="比赛解说"]等等......是不是我眼花了......我们背负着骑士信条和家族荣耀的伯雷斯瓦夫之子重新站了起来！
+[name="比赛解说"]等等……是不是我眼花了……我们背负着骑士信条和家族荣耀的伯雷斯瓦夫之子重新站了起来！
 [Dialog]
 [PlaySound(key="$d_avg_cheer_street", volume=0.8)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_218",duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_218",focus="m")]
-[name="阿贝特"]咳咳......太轻了，还是太轻了。
+[name="阿贝特"]咳咳……太轻了，还是太轻了。
 [name="阿贝特"]你想逃避本应做出的选择，你和那些无能的贵族一样轻视我的决心吗？
 [name="阿贝特"]你明明知道我为了什么样的理想奋斗至今，现在却冷硬地拦在我与唾手可得的荣光之间，而我只央求你做一件事——
 [name="阿贝特"]用你的火炮！格蕾纳蒂·卡利斯卡！
@@ -686,13 +686,13 @@
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="少爷，您真的要成为竞技骑士......哎，您不用把那几位远亲的话放在心上，家族的盛衰兴废并非你我所能改变的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="少爷，您真的要成为竞技骑士……哎，您不用把那几位远亲的话放在心上，家族的盛衰兴废并非你我所能改变的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_218",focus="m")]
-[name="阿贝特"]哈......哈......让大家看看......
-[name="阿贝特"]让大家看看伯雷斯瓦夫家还有心系骑士荣耀的高洁之士......让大家看看他最后的结局，让他为家族点起一枚将息的烛火......
+[name="阿贝特"]哈……哈……让大家看看……
+[name="阿贝特"]让大家看看伯雷斯瓦夫家还有心系骑士荣耀的高洁之士……让大家看看他最后的结局，让他为家族点起一枚将息的烛火……
 [Dialog]
 [PlaySound(key="$d_avg_bldwhoosh", volume=1)]
 [CameraShake(duration=0.5, xstrength=15,ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -707,18 +707,18 @@
 [charslot(duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
-[name="格蕾纳蒂"]......
+[name="格蕾纳蒂"]……
 [Dialog]
 [playsound(key="$d_avg_gunequip",volume=0.9)]
 [delay(time=1)]
 沉默的骑士架起自己的武器，将炮口对准了力竭的朋友。
 [Dialog]
 [charslot]
-[name="阿贝特"]终于......格蕾纳蒂......我知道你没那么狠心，你会完成我们的约定。哈......哈......你从未拒绝过朋友的请求。
+[name="阿贝特"]终于……格蕾纳蒂……我知道你没那么狠心，你会完成我们的约定。哈……哈……你从未拒绝过朋友的请求。
 [Dialog]
 [playsound(key="$d_avg_ejectempaty",volume=1)]
 [delay(time=1)]
-[name="阿贝特"]......怎么回事......
+[name="阿贝特"]……怎么回事……
 [charslot(slot="m",name="avg_npc_123#3",focus="m")]
 [name="格蕾纳蒂"]我的弹匣空了。
 [Dialog]
@@ -730,14 +730,14 @@
 [name="格蕾纳蒂"]向我挥砍的时候你在想些什么？是古老的骑士信念，还是为家族献身的自我感动？
 [Dialog]
 [charslot]
-[name="阿贝特"]......
+[name="阿贝特"]……
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
 [name="格蕾纳蒂"]我想到了那个问题的答案。
 [name="格蕾纳蒂"]祖母传授的火炮术确实属于卡利斯卡，或许我难以舍弃这一部分，但我可以选择将炮筒对准新的敌人。
 [name="格蕾纳蒂"]这是我的信念，而非家族的。
 [Dialog]
 [charslot]
-[name="阿贝特"]格蕾纳蒂......
+[name="阿贝特"]格蕾纳蒂……
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
 [name="格蕾纳蒂"]你已经无法起身了，阿贝特。胜负已定。
 [name="格蕾纳蒂"]跟你的头条和家族荣耀说再见，然后——
@@ -752,8 +752,8 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=0.5)]
-[Subtitle(text="......没落贵族的对决！骑士精神的挽歌！伯雷斯瓦夫家最后的继承者，与卡利斯卡林业被驱逐的家族成员，为骑士竞技选拔赛最后一轮呈现前所未有的巅峰对局！伯雷斯瓦夫之子面对火炮丝毫不惧，而灰毫骑士也展现出与冷酷外表不符的仁慈之心......", x=300, y=270, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="伯雷斯瓦夫家族之子抱着必死的决心上演了竞技骑士生涯的最后一场比赛......啊，当然，上述评论只是夸张的修辞。我们并不崇尚血腥、暴力、戏剧化的结局这类低俗的事物，而是信仰纯粹的竞技精神。", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……没落贵族的对决！骑士精神的挽歌！伯雷斯瓦夫家最后的继承者，与卡利斯卡林业被驱逐的家族成员，为骑士竞技选拔赛最后一轮呈现前所未有的巅峰对局！伯雷斯瓦夫之子面对火炮丝毫不惧，而灰毫骑士也展现出与冷酷外表不符的仁慈之心……", x=300, y=270, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="伯雷斯瓦夫家族之子抱着必死的决心上演了竞技骑士生涯的最后一场比赛……啊，当然，上述评论只是夸张的修辞。我们并不崇尚血腥、暴力、戏剧化的结局这类低俗的事物，而是信仰纯粹的竞技精神。", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="阿贝特·伯雷斯瓦夫先生退役和家族破产的消息实属令人遗憾。不过据我所知，为了表达敬意，商业联合会的多家企业主动提出资助伯雷斯瓦夫宅邸的修缮翻新工作，并为卧病在床的阿贝特先生本人提供了慷慨的休养金。", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Sticker(id="st1",multi = true, text="在大骑士领，创造出精彩对局的竞技骑士总能获得善报。",  x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
@@ -773,9 +773,9 @@
 [charslot(slot="m",name="avg_npc_002",focus="m")]
 [name="报摊小贩"]年轻人，你盯着这头条看半天了，买还是不买啊？
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
-[name="格蕾纳蒂"]......买。
+[name="格蕾纳蒂"]……买。
 [charslot(slot="m",name="avg_npc_002",focus="m")]
-[name="报摊小贩"]好嘞！要不要多带一本副刊？更多不为人知的八卦秘辛全在这里......
+[name="报摊小贩"]好嘞！要不要多带一本副刊？更多不为人知的八卦秘辛全在这里……
 [charslot(slot="m",name="avg_npc_123#1",focus="m")]
 [name="格蕾纳蒂"]探病还是别带那种刺激神经的小道消息比较好。
 [charslot(slot="m",name="avg_npc_002",focus="m")]
@@ -793,7 +793,7 @@
 [charslot]
 [name="？？？"]那感染者和感染者抱团取暖是不是听起来就合理多啦？
 [charslot(slot="m",name="avg_npc_002",focus="m")]
-[name="报摊小贩"]那确实......
+[name="报摊小贩"]那确实……
 [name="报摊小贩"]哎，刚刚没看见您，真是不好意思。
 [Dialog]
 [charslot]
@@ -808,7 +808,7 @@
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_002",focus="m")]
 [name="报摊小贩"]今天的销量还不错，收摊了再去竞技场赌一把！
-[name="报摊小贩"]不过......大骑士领什么时候有那么多札拉克了？
+[name="报摊小贩"]不过……大骑士领什么时候有那么多札拉克了？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

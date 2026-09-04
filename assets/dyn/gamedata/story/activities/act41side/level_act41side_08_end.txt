@@ -15,13 +15,13 @@
 [charslot(slot="m",name="avg_450_necras_1#13$1",focus="m")]
 [name="爱布拉娜"]我知道了。
 [charslot(slot="m",name="avg_npc_723_1#1$1",focus="m")]
-[name="“校官”"]他专门挑了人员已经开拔，“领袖”已经启程前往小丘郡的时候告发，这样就既不用得罪“雄辩家”他们，又不能算知情不报......
+[name="“校官”"]他专门挑了人员已经开拔，“领袖”已经启程前往小丘郡的时候告发，这样就既不用得罪“雄辩家”他们，又不能算知情不报……
 [name="“校官”"]我们拿他怎么办？
 [charslot(slot="m",name="avg_450_necras_1#13$1",focus="m")]
 [name="爱布拉娜"]深池本来也不需要他去做眼线。没人指望他来干这个。
 [charslot(slot="m",name="avg_npc_723_1#2$1",focus="m")]
 [name="“校官”"]非常抱歉，这是我的失职，我以为他们只是在按照命令向小丘郡进发，没想到他们竟敢挟持拉芙希妮。
-[name="“校官”"]趁他们还没走远，现在出发，我们还追得上......
+[name="“校官”"]趁他们还没走远，现在出发，我们还追得上……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n")]
@@ -51,7 +51,7 @@
 [charslot(slot="m",name="avg_450_necras_1#1$1",focus="m")]
 [name="爱布拉娜"]妹妹？
 [charslot(slot="m",name="avg_npc_228_1#7",focus="m")]
-[name="阿赫茉妮"]......
+[name="阿赫茉妮"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -79,7 +79,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]我只是......不懂。
+[name="拉芙希妮"]我只是……不懂。
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
 [name="拉芙希妮"]你究竟要什么？
 [name="拉芙希妮"]你欺骗我，欺骗所有人，就为了一座城市为你陪葬？为了什么？为了成为下一个盖尔王传说？
@@ -91,21 +91,21 @@
 [charslot(slot="m",name="avg_1020_reed2_1#4$1",focus="m")]
 [name="拉芙希妮"]我一直相信，我们要实现的是同一个梦想。为什么此时此刻，我们的梦已经完全两样了呢？
 [charslot(slot="m",name="avg_1020_reed2_1#7$1",focus="m")]
-[name="拉芙希妮"]难道对你而言，梦想也会在你追逐权力的路上变成令人厌倦的无聊把戏，就像......
+[name="拉芙希妮"]难道对你而言，梦想也会在你追逐权力的路上变成令人厌倦的无聊把戏，就像……
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]就像小丘郡那时的......拉芙希妮一样吗？
+[name="拉芙希妮"]就像小丘郡那时的……拉芙希妮一样吗？
 [charslot(slot="m",name="avg_450_necras_1#13$1",focus="m")]
 [name="爱布拉娜"]小丘郡？
 [name="爱布拉娜"]那时我在你眼中看到的不是回归的渴望，而是解脱，不是吗？
 [charslot(slot="m",name="avg_1020_reed2_1#7$1",focus="m")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot="m",name="avg_450_necras_1#6$1",focus="m")]
 [name="爱布拉娜"]至于我，是啊，小丘郡那时，我的确已经厌倦了。
-[name="爱布拉娜"]我可以用火将一切熔成想要的形状，却唯独只有镜中的影子......
+[name="爱布拉娜"]我可以用火将一切熔成想要的形状，却唯独只有镜中的影子……
 [charslot(slot="m",name="avg_450_necras_1#15$1",focus="m")]
 [name="爱布拉娜"]无论我燃起多大的火焰，她都不会有分毫改变。
 [charslot(slot="m",name="avg_1020_reed2_1#7$1",focus="m")]
-[name="拉芙希妮"]......因为你从未直接用火焰去灼烧她。
+[name="拉芙希妮"]……因为你从未直接用火焰去灼烧她。
 [charslot(slot="m",name="avg_450_necras_1#15$1",focus="m")]
 [name="爱布拉娜"]因为我从未直接用火焰去灼烧你。
 [charslot(slot="m",name="avg_450_necras_1#13$1",focus="m")]
@@ -123,8 +123,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [name="爱布拉娜"]——你呢，拉芙希妮？你想要什么呢？
 [name="爱布拉娜"]你的血脉与教养让你高尚，这是好事，可你要是一无所求，我又该在身边留什么样的位置给你呢？
-[name="爱布拉娜"]说吧，这可是雪夜里的愿望......多么大的野心，我都允许。
-[name="拉芙希妮"]......
+[name="爱布拉娜"]说吧，这可是雪夜里的愿望……多么大的野心，我都允许。
+[name="拉芙希妮"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -135,12 +135,12 @@
 [Delay(time=1)]
 [bgeffect(name="$eb_deathburning",layer = 1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="拉芙希妮"]你的确并未用火焰灼烧我，因为你有更合用的工具，恐惧、责任、愧疚、同情......
+[name="拉芙希妮"]你的确并未用火焰灼烧我，因为你有更合用的工具，恐惧、责任、愧疚、同情……
 [name="拉芙希妮"]你从未直接要求我改变什么，但你已经无数次间接地这么做了。
 [charslot(slot="m",name="avg_450_necras_1#1$1",focus="m")]
 [name="爱布拉娜"]我的影响毫无作用，我的厌倦却得到了回报，很讽刺，不是吗？
 [charslot(slot="m",name="avg_1020_reed2_1#7$1",focus="m")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot="m",name="avg_450_necras_1#16$1",focus="m")]
 [name="爱布拉娜"]无论如何，你终于愿意回来，愿意拥抱真实的生活，这就够了。
 [charslot(slot="m",name="avg_1020_reed2_1#7$1",focus="m")]
@@ -148,7 +148,7 @@
 [charslot(slot="m",name="avg_450_necras_1#1$1",focus="m")]
 [name="爱布拉娜"]不是吗？故事、诗歌、传说，你觉得这才是你和我值得享有的生活？
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]......我知道，我一直觉得愧疚，我恨自己不能为你分担那些痛苦。
+[name="拉芙希妮"]……我知道，我一直觉得愧疚，我恨自己不能为你分担那些痛苦。
 [name="拉芙希妮"]是我的逃避让你一个人背起全部，让它们将你塑造成了如今的样子——
 [charslot(slot="m",name="avg_450_necras_1#13$1",focus="m")]
 [name="爱布拉娜"]不，拉芙希妮。
@@ -159,15 +159,15 @@
 [name="爱布拉娜"]为什么你会觉得，阴谋、权欲、战争，是它们将我塑造成形呢？
 [name="爱布拉娜"]我从未被它们改变，是它们碰巧长成了能让我得心应手地挥舞的样子，仅此而已。
 [charslot(slot="m",name="avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot="m",name="avg_450_necras_1#16$1",focus="m")]
-[name="爱布拉娜"]些微的权力决定一个人的生死，更多的权力决定一支军队的存亡，滔天的权力决定一个国家的兴衰......
+[name="爱布拉娜"]些微的权力决定一个人的生死，更多的权力决定一支军队的存亡，滔天的权力决定一个国家的兴衰……
 [name="爱布拉娜"]而权力终有尽头。
 [charslot(slot="m",name="avg_450_necras_1#1$1",focus="m")]
 [name="爱布拉娜"]诗人们很早就知道这件事，你也该明白的，不是吗，拉芙希妮？
 [name="爱布拉娜"]死亡平等地嘲弄所有人，为一切权欲熏心的人设置了命定的终点，在那一刻把他们一生的追求狠狠夺走，毫不留情。
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]你明知道这是一条没有结果的路，为什么还要......？
+[name="拉芙希妮"]你明知道这是一条没有结果的路，为什么还要……？
 [Dialog]
 [charslot]
 爱布拉娜在后退，钢铁铸成的巨龙骸骨在后退。
@@ -176,7 +176,7 @@
 [charslot(slot="m",name="avg_450_necras_1#16$1",focus="m")]
 [name="爱布拉娜"]很好，你至少已经学会了离开我之后的生活所需要的最基础的东西。
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]......残忍？
+[name="拉芙希妮"]……残忍？
 [charslot(slot="m",name="avg_450_necras_1#1$1",focus="m")]
 [name="爱布拉娜"]坚决。
 [name="爱布拉娜"]既然认定了这条路就是自己的生活，那就往前走，再别想着回头。
@@ -185,7 +185,7 @@
 [charslot(slot="m",name="avg_450_necras_1#13$1",focus="m")]
 [name="爱布拉娜"]让我把最后的话说完，拉芙希妮。
 [charslot(slot="m",name="avg_450_necras_1#16$1",focus="m")]
-[name="爱布拉娜"]死亡将所有人嘲弄......而我，将嘲弄死亡。
+[name="爱布拉娜"]死亡将所有人嘲弄……而我，将嘲弄死亡。
 [charslot(slot="m",name="avg_450_necras_1#1$1",focus="m")]
 [name="爱布拉娜"]祝福我吧，拉芙希妮，因为这场伟大的冒险终于就要启程。
 [Dialog]
@@ -229,11 +229,11 @@
 在消散前最后一刻，爱布拉娜缓缓用手臂环住拉芙希妮。
 [Dialog]
 [charslot(slot="r",name="avg_npc_1685_1#3$1",focus="r")]
-[name="爱布拉娜"]永别了......直到死亡让我们重逢。
+[name="爱布拉娜"]永别了……直到死亡让我们重逢。
 [charslot(slot="r",name="avg_npc_1685_1#8$1",focus="r")]
 [name="爱布拉娜"]希望你喜欢我给你的临别赠礼。
 [charslot(slot="l",name="avg_npc_1684_1#2$1",focus="l")]
-[name="拉芙希妮"]临别......赠礼？
+[name="拉芙希妮"]临别……赠礼？
 [Dialog]
 [charslot(slot="l",name="avg_npc_1684_1#2$1",focus="all")]
 [Delay(time=3.5)]
@@ -280,12 +280,12 @@
 [Background(image="38_g21_skystarry_r2",screenadapt="coverall")]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="拉芙希妮"]一个奇迹，一个我为了塔拉，不得不承受下来的奇迹......
+[name="拉芙希妮"]一个奇迹，一个我为了塔拉，不得不承受下来的奇迹……
 [name="拉芙希妮"]这就是你给我准备的临别赠礼吗，姐姐？
 爱布拉娜已然彻底死去，爱布拉娜无法回答。
 拉芙希妮试图回想刚刚那个拥抱，其中究竟多少是被满足的期许，多少是一点点温情，又有多少是冰冷无情的算计。
 又或许，对爱布拉娜而言，这些东西本就密不可分。
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [name="拉芙希妮"]你说得对，爱布拉娜。
 [name="拉芙希妮"]如果这就是你最终的目的，如果你非要将这顶浸染了血的王冠戴在我的头顶，那么，没错。
 [name="拉芙希妮"]永别了。
@@ -305,13 +305,13 @@
 她的表情被烈焰模糊，她的身形却坚实如大地上延续不息的生命。
 一步，一步。
 她的双足踏过尚余紫色的棺椁，木制的灵柩化作灰烬，其中没有任何人的尸体，只有领袖一直在用的那杆喷吐火焰的枪。
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 人群屏住呼吸，广场安静如临盆的产房之外，或是埋上了最后一铲土的墓地之中。
 唯有火焰跳动不息。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="我可以原谅你对我做过的一切，爱布拉娜，只有这份临别赠礼......我永远不会原谅。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="我可以原谅你对我做过的一切，爱布拉娜，只有这份临别赠礼……我永远不会原谅。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="从过去到现在，你的名字将与无数建立了塔拉的名字一起沉入遗忘的深渊。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="塔拉的红龙只会是拉芙希妮·都柏林。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -319,14 +319,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [name="拉芙希妮"]我回来了。
 [name="拉芙希妮"]带领你们反抗维多利亚，争得独立与自由的红龙——
-[name="拉芙希妮"]拉芙希妮·都柏林......从死亡的深渊归来了。
+[name="拉芙希妮"]拉芙希妮·都柏林……从死亡的深渊归来了。
 [name="拉芙希妮"]我为了消解你们焚身的烈焰而死，而你们为我哀悼的泪雨浇灭了火焰，让我从死亡的深渊中归来。
 [name="拉芙希妮"]这一次，我不会再驱策你们死去。
 [name="拉芙希妮"]伟大的事业已然完成，再没有什么东西应当让无数塔拉人献出自己的生命，却只留下残垣和哭声。
 [name="拉芙希妮"]我希望，我衷心希望，每一个塔拉人都能收敛自己的火，那从奴役中来，从压榨中来，从屈辱中来的，千百年从未熄灭的悲伤的火。
 [name="拉芙希妮"]我不需要你们将它遗忘，我只是希望，你们能像先祖曾做的那样，将那火焰变成一盏灯。
-[name="拉芙希妮"]一盏首先温暖自己，然后......
-[name="拉芙希妮"]替我们所有人照亮前路，让我们能在故土真正开始欢笑，开始歌唱，开始生活的......
+[name="拉芙希妮"]一盏首先温暖自己，然后……
+[name="拉芙希妮"]替我们所有人照亮前路，让我们能在故土真正开始欢笑，开始歌唱，开始生活的……
 [name="拉芙希妮"]明亮的，温柔的灯。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -342,17 +342,17 @@
 人们还在细细咀嚼红龙话中的意味，某个再普通不过的纳斯尔纱居民突然痛呼出声。
 [charslot(slot="m",name="avg_npc_1687_1#2$1",focus="m")]
 [name="敏感的居民"]好痛！为什么我手上的烧伤突然痛起来了？
-[name="敏感的居民"]等等，你们身上源石灯的颜色......
+[name="敏感的居民"]等等，你们身上源石灯的颜色……
 [name="敏感的居民"]连我身上的源石灯的颜色也变了？
 [charslot(slot="m",name="avg_npc_1692_1#1$1",focus="m")]
 [name="涅梅丝"]这就是红龙希望你们能够提在手中，温暖自己、照亮前路的灯。
 [name="涅梅丝"]紫色的火焰只属于死者，而我们在不知不觉中让自己的火焰被太多的死亡和失去染成了紫色。
 [charslot(slot="m",name="avg_npc_1692_1#2$1",focus="m")]
-[name="涅梅丝"]可我们却错将那火认成祝福，放任自己也被拖进死亡的深渊......
+[name="涅梅丝"]可我们却错将那火认成祝福，放任自己也被拖进死亡的深渊……
 [charslot(slot="m",name="avg_npc_1692_1#8$1",focus="m")]
 [name="涅梅丝"]若是今晚红龙没有杀死自己，或者我们没能为她还火，到了现在，所有人都会死去，变成被死亡驱动的行尸。
 [charslot(slot="m",name="avg_npc_1687_1#2$1",focus="m")]
-[name="敏感的居民"]为了熄灭我们身上的死火，这就是你刚刚说的......红龙杀死自己的理由？
+[name="敏感的居民"]为了熄灭我们身上的死火，这就是你刚刚说的……红龙杀死自己的理由？
 [Dialog]
 [charslot]
 [stopmusic(fadetime=2)]
@@ -394,9 +394,9 @@
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
 [name="拉芙希妮"]布莉吉，你接下来要去哪里？
 [charslot(slot="m",name="avg_4177_brigid_1#10$1",focus="m")]
-[name="布莉吉"]......我也没什么地方可去吧。也就是接着帮助大家传信，预报天灾......
+[name="布莉吉"]……我也没什么地方可去吧。也就是接着帮助大家传信，预报天灾……
 [charslot(slot="m",name="avg_4177_brigid_1#9$1",focus="m")]
-[name="布莉吉"]然后，渐渐被更有效率的......那个词怎么说的来着......“天灾信使”？给取代吧。
+[name="布莉吉"]然后，渐渐被更有效率的……那个词怎么说的来着……“天灾信使”？给取代吧。
 [charslot(slot="m",name="avg_4177_brigid_1#1$1",focus="m")]
 [name="布莉吉"]毕竟我的族人也越来越少了，这份工作有人能接手，我还挺高兴的。
 [charslot(slot="m",name="avg_1020_reed2_1#9$1",focus="m")]
@@ -407,7 +407,7 @@
 [name="拉芙希妮"]一家医药公司，一群很好的人。你要找的是他们的总部，一艘陆行舰。
 [name="拉芙希妮"]我明天会写一封信给他们，请你帮我送去吧。你会喜欢那里的。
 [charslot(slot="m",name="avg_1020_reed2_1#10$1",focus="m")]
-[name="拉芙希妮"]至于今晚......你就先在堡垒里睡一晚。雨这么大，就别在广场上搭帐篷了。
+[name="拉芙希妮"]至于今晚……你就先在堡垒里睡一晚。雨这么大，就别在广场上搭帐篷了。
 [name="拉芙希妮"]我们先去堡垒门口吧。
 [Dialog]
 [charslot]
@@ -421,7 +421,7 @@
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
 [name="拉芙希妮"]广场上还有人吗？
 [charslot(slot="m",name="avg_4177_brigid_1#9$1",focus="m")]
-[name="布莉吉"]......
+[name="布莉吉"]……
 [name="布莉吉"]是那位看不见的弟兄，他和我打了个赌。
 [charslot(slot="m",name="avg_1020_reed2_1#8$1",focus="m")]
 [name="拉芙希妮"]看不见？
@@ -430,7 +430,7 @@
 [charslot(slot="m",name="avg_4177_brigid_1#3$1",focus="m")]
 [name="布莉吉"]他是个很别扭的家伙，他一定不喜欢被人看见，这才总是神出鬼没。
 [charslot(slot="m",name="avg_1020_reed2_1#9$1",focus="m")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -440,7 +440,7 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1690_1#1$1",afrom=0,ato=0.5,focus="m",duration=1.5)]
 [Delay(time=2.5)]
-[name="“放逐王”"]......哈。
+[name="“放逐王”"]……哈。
 [Dialog]
 [SoundVolume(volume=0,channel="r", fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -465,7 +465,7 @@
 是的，是的。因为艾里尔从前总是让步的那个，他总会答应的。
 于是最后，他说，好啊，你要是走，那就再也不要回来。
 而后，自己终究还是离开王城，岁月流转，艾里尔在王城中过得并不快意。
-听说，失去了半个宫廷的人手，艾里尔甚至不是被维多利亚人，而是被操着维多利亚口音的塔拉贵族所掌控......
+听说，失去了半个宫廷的人手，艾里尔甚至不是被维多利亚人，而是被操着维多利亚口音的塔拉贵族所掌控……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -477,27 +477,27 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1690_1#10$1",afrom=0,ato=0.5,focus="m")]
-[name="“放逐王”"]......
+[name="“放逐王”"]……
 [name="“放逐王”"]愿赌服输，拉布雷德。
 [charslot(slot="m",name="avg_npc_1690_1#4$1",afrom=0.5,ato=0.5,focus="m")]
 [name="“放逐王”"]哪怕你再眷恋那座王城，探亲的时间也已经够长了。
 [name="“放逐王”"]更别说现在你只是一个被火映照出的可悲的影子。伙计，总还有自己的路要走呢，别再像当年那样食言了。
 [name="“放逐王”"]对，对，像这样，把紫色的火从那道贯穿胸膛的伤口中取出来——
 [charslot(slot="m",name="avg_npc_1690_1#10$1",afrom=0.5,ato=0.5,focus="m")]
-[name="“放逐王”"]呜、呃......
-[name="“放逐王”"]呃——然后，把它还回去，还给那条已经和你走上了同一条路的红龙......
+[name="“放逐王”"]呜、呃……
+[name="“放逐王”"]呃——然后，把它还回去，还给那条已经和你走上了同一条路的红龙……
 [Dialog]
 [charslot]
 放逐王的表情因痛苦扭曲，却仍一点一点地把手伸向红龙骨骸的眼眶。
 [charslot(slot="m",name="avg_npc_1690_1#9$1",afrom=0.5,ato=0.5,focus="m")]
-[name="“放逐王”"]咳、咳，呃啊啊啊......
-[name="“放逐王”"]让我们看看，艾里尔，是你的剑......
+[name="“放逐王”"]咳、咳，呃啊啊啊……
+[name="“放逐王”"]让我们看看，艾里尔，是你的剑……
 [Dialog]
 [charslot]
 幻影也会感到痛苦，会因痛苦而哭泣吗？还是说这只是雨水滴穿自己逐渐透明的躯体？
 他已经分辨不清了。
 [charslot(slot="m",name="avg_npc_1690_1#5$1",afrom=0.5,ato=0.5,focus="m")]
-[name="“放逐王”"]......还是你这位好后裔的火焰——
+[name="“放逐王”"]……还是你这位好后裔的火焰——
 [Dialog]
 [charslot(duration=1.5)]
 [Delay(time=2)]

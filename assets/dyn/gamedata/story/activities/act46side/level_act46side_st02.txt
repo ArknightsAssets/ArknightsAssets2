@@ -15,7 +15,7 @@
 [charslot(slot="m",name="avg_npc_2010_1#12$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_2010_1#12$1",focus="m")]
-[name="恩雅"]茱安娜......你不必跟着我。
+[name="恩雅"]茱安娜……你不必跟着我。
 [name="恩雅"]你所做的一切，我感激不尽。
 [name="恩雅"]但是，我出发前也和你说过，“圣巡”必须独身一人完成，甚至与你对话已经是破例。
 [charslot(slot="m",name="avg_4211_snhunt_1#1$2",focus="m")]
@@ -28,14 +28,14 @@
 [charslot(slot="m",name="avg_4211_snhunt_1#3$2",focus="m")]
 [name="茱安娜"]您去哪里我都要跟着，我知道这个就行了。
 [charslot(slot="m",name="avg_npc_2010_1#12$1",focus="m")]
-[name="恩雅"]但......我要去找耶拉冈德。
+[name="恩雅"]但……我要去找耶拉冈德。
 [charslot(slot="m",name="avg_4211_snhunt_1#5$2",focus="m")]
 [name="茱安娜"]啊？
 [charslot(slot="m",name="avg_4211_snhunt_1#9$2",focus="m")]
-[name="茱安娜"]找祂......祂消失了吗？！
+[name="茱安娜"]找祂……祂消失了吗？！
 [charslot(slot="m",name="avg_npc_2010_1#12$1",focus="m")]
-[name="恩雅"]我不知道......但除非祂能再临，否则谢拉格还会面临像上次那般的灾厄。
-[name="恩雅"]到那时候，有人会失去生命，更多的人会失去信念......
+[name="恩雅"]我不知道……但除非祂能再临，否则谢拉格还会面临像上次那般的灾厄。
+[name="恩雅"]到那时候，有人会失去生命，更多的人会失去信念……
 [name="恩雅"]现在，我要先回到蔓珠院，在典籍中寻找新的方向，这一点要先瞒着其他人。
 [charslot(slot="m",name="avg_4211_snhunt_1#11$2",focus="m")]
 [name="茱安娜"]那我也要跟着您，您放心，要是有人发现了您的踪迹，我就帮您赶走——
@@ -48,7 +48,7 @@
 [charslot]
 往裂云兽的方向看去，远处前往蔓珠院的山道上挤满了穿着黯淡的人。
 [charslot(slot="m",name="avg_npc_2010_1#2$1",focus="m")]
-[name="恩雅"]这是......有重要的人去世了。
+[name="恩雅"]这是……有重要的人去世了。
 [charslot(slot="m",name="avg_4211_snhunt_1#9$2",focus="m")]
 [name="茱安娜"]那会是谁？
 [Dialog]
@@ -57,7 +57,7 @@
 [charslot(slot="m",name="avg_4211_snhunt_1#10$2",focus="m")]
 [name="茱安娜"]恩雅，你还好吗？
 [charslot(slot="m",name="avg_npc_2010_1#12$1",focus="m")]
-[name="恩雅"]......我们慢点走，避开人群。
+[name="恩雅"]……我们慢点走，避开人群。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -74,7 +74,7 @@
 聚在庭院里的家族成员与修士们默默低头，布朗陶的领民也自发围在院外，这位以生命守护谢拉格的家主，让他们骄傲，也让他们悲恸。
 大雪随风飘来，积在一杆杆黑伞之上。伞柄稍一抖动，雪花如瀑落下，而伞下的布朗陶贵族也长叹了一口气。
 [charslot(slot="m",name="avg_npc_272_1#1$1",focus="m")]
-[name="布朗陶男贵族"]所以，大夫人的遗体......
+[name="布朗陶男贵族"]所以，大夫人的遗体……
 [charslot(slot="m",name="avg_npc_274_1#1$1",focus="m")]
 [name="布朗陶女贵族"]火势太凶，他们把残骸翻了个遍，一无所获。
 [name="布朗陶女贵族"]我听说，今天棺材里放着的，是她平日里的常服，以及一点从现场取得的灰烬。
@@ -86,10 +86,10 @@
 [charslot(slot="m",name="avg_npc_262_1#6$1",duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_272_1#1$1",focus="m")]
-[name="布朗陶男贵族"]啊，二夫人......
-[name="布朗陶男贵族"]......对不起，是我失言了。
+[name="布朗陶男贵族"]啊，二夫人……
+[name="布朗陶男贵族"]……对不起，是我失言了。
 [charslot(slot="m",name="avg_npc_262_1#9$1",focus="m")]
-[name="休露丝"]......
+[name="休露丝"]……
 [Dialog]
 [PlaySound(key="$d_avg_footstep_stonestep",volume=0.6,channel="step",loop=false)]
 [stopsound(channel="step",fadetime=2)]
@@ -109,9 +109,9 @@
 [stopsound(fadetime=2, channel="nw")]
 [delay(time=1.5)]
 [charslot(slot="l",name="avg_npc_262_1#6$1",focus="l")]
-[name="休露丝"]尤卡坦......
+[name="休露丝"]尤卡坦……
 [charslot(slot="r",name="avg_npc_263_1#4$1",focus="r")]
-[name="尤卡坦"]露丝，我......
+[name="尤卡坦"]露丝，我……
 [charslot(slot="l",name="avg_npc_262_1#6$1",focus="l")]
 [name="休露丝"]辛苦你了。
 [Dialog]
@@ -119,45 +119,45 @@
 颂歌唱罢，万籁渐息，众人一同注视着休露丝。
 她第一次理解菈塔托丝那不得不佩戴的面具，责任的重量，绝非软弱者的肩背可以担负。
 [charslot(slot="m",name="avg_npc_262_1#6$1",focus="m")]
-[name="休露丝"]......
+[name="休露丝"]……
 [name="休露丝"]感谢大家来到这里，与我一同悼念，菈塔托丝·布朗陶夫人。
-[name="休露丝"]她不仅仅是我的姐姐，是布朗陶家的卫士，也是耶拉冈德忠实的孩子......
-[name="休露丝"]智慧为她带来勇气，她曾对我说，她会保护我和这里的一切......最艰难的日子里，她依然相信谢拉格会有充满希望的明天。
+[name="休露丝"]她不仅仅是我的姐姐，是布朗陶家的卫士，也是耶拉冈德忠实的孩子……
+[name="休露丝"]智慧为她带来勇气，她曾对我说，她会保护我和这里的一切……最艰难的日子里，她依然相信谢拉格会有充满希望的明天。
 [name="休露丝"]于她而言，她没有辜负祖父的嘱托，在生命的最后一刻都在为布朗陶而奉献，至死不渝。
-[name="休露丝"]于我而言......我失去了最重要的亲人，直到今天才如梦初醒般体会到她所有的苦衷，却再也不能向她诉说。
-[name="休露丝"]相信在场的人都会和我一样，铭记她的音容、她的牺牲、她对谢拉格和布朗陶......对家人的，深沉的爱。
+[name="休露丝"]于我而言……我失去了最重要的亲人，直到今天才如梦初醒般体会到她所有的苦衷，却再也不能向她诉说。
+[name="休露丝"]相信在场的人都会和我一样，铭记她的音容、她的牺牲、她对谢拉格和布朗陶……对家人的，深沉的爱。
 [charslot(slot="m",name="avg_npc_262_1#2$1",focus="m")]
-[name="休露丝"]......相信各位也会和我一样铭记在心——是谁破坏了美好，是谁给我们烙下无法愈合的伤痕。
-[name="休露丝"]“短暂的一生如昼将尽，终在永恒之所与祂同行”......
+[name="休露丝"]……相信各位也会和我一样铭记在心——是谁破坏了美好，是谁给我们烙下无法愈合的伤痕。
+[name="休露丝"]“短暂的一生如昼将尽，终在永恒之所与祂同行”……
 [name="休露丝"]耶拉冈德在上。
 [Dialog]
 [charslot]
 “耶拉冈德在上”，此起彼伏。众人随着休露丝，一同行起跪礼。
-在灾厄席卷一切的时代，耶拉冈德仍会给予每一个谢拉格人平和、安谧......
+在灾厄席卷一切的时代，耶拉冈德仍会给予每一个谢拉格人平和、安谧……
 当所有人起身后，两人从人群中走出——阿克托斯与角峰，他们抱着洁白的花束，缓缓迈向灵柩。
 [charslot(slot="m",name="avg_npc_254_1#14$1",focus="m")]
-[name="阿克托斯"]节哀，休露丝......
+[name="阿克托斯"]节哀，休露丝……
 [charslot(slot="m",name="avg_npc_254_1#6$1",focus="m")]
 [name="阿克托斯"]菈塔托丝因我而死，我永远不会忘！
 [charslot(slot="m",name="avg_npc_262_1#6$1",focus="m")]
 [name="休露丝"]谢谢你，阿克托斯。
 [name="休露丝"]我只希望这对于我们两家来说都是一个残酷的教训，我们都该搞清楚，谁才是真正的敌人。
 [charslot(slot="m",name="avg_npc_254_1#14$1",focus="m")]
-[name="阿克托斯"]我......
+[name="阿克托斯"]我……
 [Dialog]
 [charslot]
 [delay(time=0.2)]
 [charslot(slot="m",name="avg_199_yak_1#10$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_199_yak_1#10$1",focus="m")]
-[name="角峰"]休露丝大人......
+[name="角峰"]休露丝大人……
 [charslot(slot="m",name="avg_199_yak_1#1$1",focus="m")]
 [name="角峰"]恩希欧迪斯大人为不能出席仪式而愧疚，派我前来表达歉意与哀思，他会在合适的时间亲自登门问候。节哀顺变，休露丝大人。
 [charslot(slot="m",name="avg_npc_254_1#1$1",focus="m")]
 [name="阿克托斯"]那家伙忙到这个地步了？
 [charslot(slot="m",name="avg_npc_262_1#6$1",focus="m")]
 [name="休露丝"]谢谢，我能理解，恩希欧迪斯为谢拉格付出的心血，布朗陶家始终看在眼里。
-[name="休露丝"]......继续仪式吧，我想，今天二位都有话想对我说。
+[name="休露丝"]……继续仪式吧，我想，今天二位都有话想对我说。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -186,7 +186,7 @@
 [name="阿克托斯"]和维多利亚人的谈判一问你们就是满嘴搪塞，到现在也没个结果，反倒是让这帮人在光天化日之下实施恐怖袭击。
 [name="阿克托斯"]你们到底对维多利亚人是个什么态度，背后到底计划着什么，让恩希欧迪斯当着休露丝的面解释清楚了，再谈间谍的事也不迟。
 [charslot(slot="m",name="avg_199_yak_1#6$1",focus="m")]
-[name="角峰"]阿克托斯大人......请您停止无端的猜测，我已经非常克制了。
+[name="角峰"]阿克托斯大人……请您停止无端的猜测，我已经非常克制了。
 [name="角峰"]被袭击的不只是您和菈塔托丝大人，我们恩希亚小姐也险遭不幸，我只恨没能亲自抓捕袭击者。
 [charslot(slot="m",name="avg_npc_254_1#1$1",focus="m")]
 [name="阿克托斯"]好啊，既然你也这么想，那就好办了。
@@ -194,9 +194,9 @@
 [name="阿克托斯"]全体谢拉格人公审那几个维多利亚佬，再由布朗陶家出人亲手处决。
 [name="阿克托斯"]让整片大地都知道，我们对谢拉格的敌人绝不手软。
 [charslot(slot="m",name="avg_199_yak_1#6$1",focus="m")]
-[name="角峰"]......太鲁莽了！
+[name="角峰"]……太鲁莽了！
 [charslot(slot="m",name="avg_npc_262_1#2$1",focus="m")]
-[name="休露丝"]......
+[name="休露丝"]……
 [charslot(slot="m",name="avg_npc_262_1#5$1",focus="m")]
 [name="休露丝"]我们之前审过一轮，他们的嘴非常严，即便是公审也得不到什么结果。
 [name="休露丝"]反而我很担心，他们会在公审途中说出什么妖言惑众的话来，谢拉格如今人心飘摇，不能冒这个风险。
@@ -205,7 +205,7 @@
 [charslot(slot="m",name="avg_npc_254_1#8$1",focus="m")]
 [name="阿克托斯"]刚才葬礼上，就该好好告慰菈塔托丝，把他们拎出来直接毙了！
 [charslot(slot="m",name="avg_npc_262_1#7$1",focus="m")]
-[name="休露丝"]阿克托斯......我也和你一样，想为姐姐复仇，但目前还有套出情报的可能，不能任着性子动手。
+[name="休露丝"]阿克托斯……我也和你一样，想为姐姐复仇，但目前还有套出情报的可能，不能任着性子动手。
 [charslot(slot="m",name="avg_199_yak_1#6$1",focus="m")]
 [name="角峰"]休露丝大人说得没错，还是由——
 [Dialog]
@@ -217,7 +217,7 @@
 [charslot]
 [name="布朗陶佣人"]三位大人，抱歉打扰了，这位蔓珠院派来的修士有要事商议。
 [charslot(slot="m",name="avg_npc_262_1#7$1",focus="m")]
-[name="休露丝"]......上一次“蔓珠院派来的人”导致阿克托斯和恩希亚遭到刺杀。
+[name="休露丝"]……上一次“蔓珠院派来的人”导致阿克托斯和恩希亚遭到刺杀。
 [name="休露丝"]我应该如何确认你的身份，修士？
 [charslot(slot="m",name="avg_npc_268",focus="m")]
 [name="蔓珠院使者"]不必多虑，阿克托斯大人认得我。
@@ -250,13 +250,13 @@
 [charslot(slot="m",name="avg_npc_262_1#5$1",focus="m")]
 [name="休露丝"]角峰先生，不要激动。
 [charslot(slot="m",name="avg_npc_262_1#9$1",focus="m")]
-[name="休露丝"]......
+[name="休露丝"]……
 [charslot(slot="m",name="avg_npc_262_1#1$1",focus="m")]
 [name="休露丝"]布朗陶家同意履行要求，烦请修士明日差人前来，将间谍押送蔓珠院。
 [charslot(slot="m",name="avg_npc_254_1#4$1",focus="m")]
 [name="阿克托斯"]休露丝？
 [charslot(slot="m",name="avg_npc_262_1#1$1",focus="m")]
-[name="休露丝"]我理解你们二位的善意，但现在比以往更需要放下三方争执......蔓珠院能够从中协调，再好不过了。
+[name="休露丝"]我理解你们二位的善意，但现在比以往更需要放下三方争执……蔓珠院能够从中协调，再好不过了。
 [charslot(slot="m",name="avg_npc_268",focus="m")]
 [name="蔓珠院使者"]二夫人雅量，蔓珠院会为布朗陶祈福的。
 [name="蔓珠院使者"]耶拉冈德在上。
@@ -280,7 +280,7 @@
 [charslot(slot="r",name="avg_172_svrash_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_172_svrash_1#1$1",focus="r")]
-[name="恩希欧迪斯"]......看起来，有人已经沉不住气了。
+[name="恩希欧迪斯"]……看起来，有人已经沉不住气了。
 [name="恩希欧迪斯"]圣女离开后，蔓珠院内部的动作越来越多了。
 [charslot(slot="l",name="avg_4116_blkkgt_1#1$1",focus="l")]
 [name="锏"]我意外的是，菈塔托丝能做到这个份上。
@@ -289,12 +289,12 @@
 [name="恩希欧迪斯"]足够宏大的一幕，能让更多人看到维多利亚的行为。
 [name="恩希欧迪斯"]另一方面，既然维多利亚人试图点燃她与其他各家的战火，那么她独自承受结果，也是为布朗陶家洗脱嫌疑的最高效方法。
 [charslot(slot="r",name="avg_172_svrash_1#9$1",focus="r")]
-[name="恩希欧迪斯"]但是还不够......我们要把握菈塔托丝争取来的宝贵时机。
+[name="恩希欧迪斯"]但是还不够……我们要把握菈塔托丝争取来的宝贵时机。
 [charslot(slot="l",name="avg_4116_blkkgt_1#10$1",focus="l")]
-[name="锏"]......你为什么不亲自参加菈塔托丝的葬礼？
+[name="锏"]……你为什么不亲自参加菈塔托丝的葬礼？
 [charslot(slot="r",name="avg_172_svrash_1#5$1",focus="r")]
-[name="恩希欧迪斯"]......我应该要避免和其他族长的直接冲突，尤其是在公开场合。
-[name="恩希欧迪斯"]所以，恩雅那边......
+[name="恩希欧迪斯"]……我应该要避免和其他族长的直接冲突，尤其是在公开场合。
+[name="恩希欧迪斯"]所以，恩雅那边……
 [charslot(slot="l",name="avg_4116_blkkgt_1#11$1",focus="l")]
 [name="锏"]她受了轻伤，没有大碍，维多利亚的刺客也悉数解决了。
 [name="锏"]恩雅说，她有一个需要隐秘执行的新计划。清理完我们留下的痕迹后，她便劝说我回来。
@@ -304,7 +304,7 @@
 [charslot(slot="l",name="avg_4116_blkkgt_1#1$1",focus="l")]
 [name="锏"]我同样如此判断。
 [charslot(slot="r",name="avg_172_svrash_1#5$1",focus="r")]
-[name="恩希欧迪斯"]......也好，接下来，我的身边非常需要能够信任的人。
+[name="恩希欧迪斯"]……也好，接下来，我的身边非常需要能够信任的人。
 [name="恩希欧迪斯"]真正的麻烦，还是来了。
 [Dialog]
 [PlaySound(key="$d_avg_wadmoney", volume=1)]
@@ -315,7 +315,7 @@
 [charslot(slot="l",name="avg_4116_blkkgt_1#10$1",focus="l")]
 [name="锏"]谁写的？信？
 [charslot(slot="r",name="avg_172_svrash_1#5$1",focus="r")]
-[name="恩希欧迪斯"]嗯......
+[name="恩希欧迪斯"]嗯……
 [charslot(slot="r",name="avg_172_svrash_1#9$1",focus="r")]
 [name="恩希欧迪斯"]更像是一封战书。
 [Dialog]
@@ -338,7 +338,7 @@
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="天灾降临后，维多利亚的立场依然不变，我们乐见谢拉格的发展，敬重谢拉格的信仰。我也相信，希瓦艾什与谢拉格，没有任何时刻比当下更需要帮助。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n而我，会向你伸出援手。", alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="关于现在与喀兰贸易的合作，我可以接受如下提议：由我们双方共同出资、管理、组建特别办事处，并在城市中心建立相关基金会实体。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n维多利亚不但会在旧例的基础上加码，以提供设备和无息贷款的形式向谢拉格注资，还可以共享更多的工业技术，以支持谢拉格未来的发展。",block = true)]
@@ -351,7 +351,7 @@
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="我很期待，开斯特家族的血脉，会为我们带来何种连结？", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n我也愈发好奇，如今的谢拉格，是否成为了如你所想的模样？",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……",block = true)]
 [Sticker(id="st1")]
 [delay(time=1)]
 [Dialog]

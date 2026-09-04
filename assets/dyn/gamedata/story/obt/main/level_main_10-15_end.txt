@@ -84,10 +84,10 @@
 [CameraShake(duration=0.4, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [character(name="avg_npc_229_1#4")]
-[name="号角"]......罗本？
+[name="号角"]……罗本？
 [character(name="avg_npc_414_1#1$1")]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="罗本"]哈......哈......从这里倒下去的话......不过就是......回到......回到......回到伦蒂尼姆的土地上。
+[name="罗本"]哈……哈……从这里倒下去的话……不过就是……回到……回到……回到伦蒂尼姆的土地上。
 [dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [characteraction(name="middle", type="move", ypos=-200, fadetime=2,block=true)]
@@ -96,7 +96,7 @@
 [dialog]
 [character]
 [character(name="avg_npc_229_1#7")]
-[name="号角"]......
+[name="号角"]……
 [character(name="avg_npc_229_1#8")]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="号角"]萨卡兹！！！
@@ -112,7 +112,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.25, block=true)]
 [CameraShake(duration=0.8, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [character(name="avg_npc_404_1#1$1")]
-[name="曼弗雷德"]......一次性把剩下的弹药全部打了出来？
+[name="曼弗雷德"]……一次性把剩下的弹药全部打了出来？
 [name="曼弗雷德"]干得不错。你第一次让我停下了脚步。
 [name="曼弗雷德"]但在这之后，你已经无计可施。
 [name="曼弗雷德"]在看到同伴们一个个死去之后，你也丧失斗志了吗，白狼？
@@ -122,7 +122,7 @@
 [StopSound(channel="bgs", fadetime=4)]
 [PlaySound(key="$d_gen_heartbeat", volume=0.4)]
 [character(name="avg_npc_229_1#1",blackstart=0.12,blackend=0.25,fadetime=1)]
-[name="号角"]......
+[name="号角"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -156,7 +156,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [PlayMusic(intro="$kazimierz2_1_intro", key="$kazimierz2_1_loop", volume=0.4)]
-[name="号角"]萨卡兹......只要你们占着我们的城市一天，我就始终有战斗的理由。
+[name="号角"]萨卡兹……只要你们占着我们的城市一天，我就始终有战斗的理由。
 [name="号角"]在想要打倒你这一点上，我和每一个维多利亚人一样。
 [dialog]
 [character(name="avg_npc_404_1#6$1")]
@@ -164,14 +164,14 @@
 [character(name="avg_npc_229_1#2")]
 [name="号角"]我还有剑。
 [character(name="avg_npc_404_1#4$1")]
-[name="曼弗雷德"]这把剑......呵，也只是一把普通的剑。
+[name="曼弗雷德"]这把剑……呵，也只是一把普通的剑。
 [character(name="avg_npc_404_1#2$1")]
 [name="曼弗雷德"]你拿着这样的剑就想与我战斗？
 [character(name="avg_npc_229_1#2")]
-[name="号角"]哈......不要小瞧它，也不要小瞧我。
+[name="号角"]哈……不要小瞧它，也不要小瞧我。
 [character(name="avg_npc_229_1#1")]
-[name="号角"]你惦记着的......蒸汽骑士......
-[name="号角"]在脱下维多利亚为他们打造的甲胄以后......
+[name="号角"]你惦记着的……蒸汽骑士……
+[name="号角"]在脱下维多利亚为他们打造的甲胄以后……
 [character(name="avg_npc_229_1#7")]
 [name="号角"]他们也只是——
 [dialog]
@@ -198,17 +198,17 @@
 [Delay(time=2)]
 [character(name="avg_npc_402_1#5$1",fadetime=1.5)]
 [delay(time=2)]
-[name="费斯特"]我们居然......进来了？这墙为什么变得这么软......
+[name="费斯特"]我们居然……进来了？这墙为什么变得这么软……
 [character(name="avg_npc_411_1#6$1")]
 [name="可露希尔"]没错啊，刚刚那个瞬间，我还以为我的脑袋会在伦蒂尼姆的城墙上开花啊！
 [Character(name="avg_npc_235", name2="avg_npc_394_1#8$1", focus=2)]
 [name="阿米娅"]是Misery的源石技艺，他不会让你受伤的。
 [Character(name="avg_npc_235", name2="avg_npc_394_1#8$1", focus=1)]
-[name="Misery"]嗯......凯尔希跟我说，你的大脑是罗德岛的重要资产。
+[name="Misery"]嗯……凯尔希跟我说，你的大脑是罗德岛的重要资产。
 [character(name="avg_npc_411_1#5$1")]
 [name="可露希尔"]我的手也不便宜啊！
 [character(name="avg_npc_411_1#6$1")]
-[name="可露希尔"]有了这一趟，我再也不嚷嚷着要搭你便车了......蹭你的源石技艺，还不如让煌抱着我蹦来蹦去更舒服！
+[name="可露希尔"]有了这一趟，我再也不嚷嚷着要搭你便车了……蹭你的源石技艺，还不如让煌抱着我蹦来蹦去更舒服！
 [character(name="avg_npc_411_1#1$1")]
 [name="可露希尔"]你说是不是啊，博士？
 [dialog]
@@ -220,22 +220,22 @@
 [Decision(options="Misery最好休息一会。", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_235", name2="avg_npc_394_1#2$1", focus=2)]
-[name="阿米娅"]是的，Misery，我看得很清楚......曼弗雷德那一剑，差点就刺中你了。
+[name="阿米娅"]是的，Misery，我看得很清楚……曼弗雷德那一剑，差点就刺中你了。
 [Character(name="avg_npc_235", name2="avg_npc_394_1#2$1", focus=1)]
 [name="Misery"]那只是他无可奈何下的一击。
 [name="Misery"]你成功挑起了他的怒火，这让他忽视了我的靠近。我还以为我骗不了他第二次。
 [Character(name="avg_npc_235", name2="avg_npc_394_1#18$1", focus=2)]
-[name="阿米娅"]我并不是有意......
+[name="阿米娅"]我并不是有意……
 [name="阿米娅"]当他质问我的时候，我确实感到了他的愤怒。那怒火是冲我而来的。
 [Character(name="avg_npc_235", name2="avg_npc_394_1#18$1", focus=1)]
-[name="Misery"]如果曼弗雷德用上全力，靠他们几个人，拖不了多久。我最好......咳咳咳......
+[name="Misery"]如果曼弗雷德用上全力，靠他们几个人，拖不了多久。我最好……咳咳咳……
 [Character(name="avg_npc_235", name2="avg_npc_394_1#15$1", focus=2)]
 [name="阿米娅"]Misery，我知道你想去帮那位维多利亚军官，但像今天这样连续使用大规模的物质转换源石技艺，对你的身体损耗太大了。
 [Character(name="avg_npc_235", name2="avg_npc_394_1#15$1", focus=1)]
-[name="Misery"]......放心吧，阿米娅。
-[name="Misery"]我一时半会还死不掉。而且，我答应了凯尔希......
+[name="Misery"]……放心吧，阿米娅。
+[name="Misery"]我一时半会还死不掉。而且，我答应了凯尔希……
 [Character(name="avg_npc_235", name2="avg_npc_394_1#14$1", focus=2)]
-[name="阿米娅"]你们这些精英干员......答应凯尔希医生的事还少吗？
+[name="阿米娅"]你们这些精英干员……答应凯尔希医生的事还少吗？
 [Character(name="avg_npc_235", name2="avg_npc_394_1#18$1", focus=2)]
 [name="阿米娅"]给自己注射应急药剂。伦蒂尼姆的战斗才刚刚开始，我不想再发现你跑到没人看得见的地方，把几乎吐出来的血一口一口地咽下去。
 [Character(name="avg_npc_235", name2="avg_npc_394_1#18$1", focus=1)]
@@ -253,7 +253,7 @@
 [Decision(options="可露希尔，我们去装炸弹。", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_394_1#7$1")]
-[name="阿米娅"]嗯，Misery帮我们找到了伦蒂尼姆城防系统的弱点......我们必须毁掉这间控制室。
+[name="阿米娅"]嗯，Misery帮我们找到了伦蒂尼姆城防系统的弱点……我们必须毁掉这间控制室。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -267,9 +267,9 @@
 [character(name="avg_npc_404_1#4$1")]
 [name="曼弗雷德"]速度很快——白狼，这才是你的本来面目吗？
 [character(name="avg_npc_404_1#1$1")]
-[name="曼弗雷德"]这样凶猛的尖牙与利爪，却被维多利亚的贵族礼仪驯化......这真的值得吗？
+[name="曼弗雷德"]这样凶猛的尖牙与利爪，却被维多利亚的贵族礼仪驯化……这真的值得吗？
 [character(name="avg_npc_229_1#7")]
-[name="号角"]......萨卡兹，你此刻的样貌，难道不曾被所谓的文明包装过？
+[name="号角"]……萨卡兹，你此刻的样貌，难道不曾被所谓的文明包装过？
 [name="号角"]我听说你们以前可不是这副模样。
 [Dialog]
 [character]
@@ -309,7 +309,7 @@
 [PlaySound(key="$swordtsing3", volume=0.9)]
 [CameraShake(duration=100, xstrength=30, ystrength=5, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
-[name="曼弗雷德"]你知道他们是谁吗？你知不知道那个领头的卡特斯......
+[name="曼弗雷德"]你知道他们是谁吗？你知不知道那个领头的卡特斯……
 [delay(time=1)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=false)]
@@ -319,7 +319,7 @@
 [characteraction(name="left", type="move", xpos=-300, power=0, times=1, fadetime=0.2, block=true)]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1)]
-[name="号角"]......我只知道，他们能阻止你。
+[name="号角"]……我只知道，他们能阻止你。
 [dialog]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=false)]
@@ -341,23 +341,23 @@
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [delay(time=1)]
 [Character(name="avg_npc_229_1#9", name2="avg_npc_404_1#1$1",focus=2)]
-[name="曼弗雷德"]白狼，万一今天你们真的能成功......那你会亲眼看见伦蒂尼姆的高墙塌下一角。
+[name="曼弗雷德"]白狼，万一今天你们真的能成功……那你会亲眼看见伦蒂尼姆的高墙塌下一角。
 [name="曼弗雷德"]这是你想见到的吗？永不陷落的伦蒂尼姆，可能从此神话不再——
 [Character(name="avg_npc_229_1#9", name2="avg_npc_404_1#1$1",focus=1)]
-[name="号角"]......从此吗？
+[name="号角"]……从此吗？
 [Character(name="avg_npc_229_1#2", name2="avg_npc_404_1#1$1",focus=1)]
-[name="号角"]既然你能站在这里，那么......伦蒂尼姆的未曾陷落，就仅仅只是一个自欺的笑话。
+[name="号角"]既然你能站在这里，那么……伦蒂尼姆的未曾陷落，就仅仅只是一个自欺的笑话。
 [Character(name="avg_npc_229_1#2", name2="avg_npc_404_1#2$1",focus=2)]
 [name="曼弗雷德"]该死！要是让外面那些大公爵注意到——
 [Character(name="avg_npc_229_1#1", name2="avg_npc_404_1#2$1",focus=1)]
 [name="号角"]你知道吗？你的脸上终于出现了一丝惊慌。
 [name="号角"]这就说明我的决定是正确的。
 [Character(name="avg_npc_229_1#1", name2="avg_npc_404_1#2$1",focus=1)]
-[name="号角"]假如这面高墙......存在的意义仅仅是挡住城内维多利亚人的惨叫，那它早就失去了最初的意义。
+[name="号角"]假如这面高墙……存在的意义仅仅是挡住城内维多利亚人的惨叫，那它早就失去了最初的意义。
 [Character(name="avg_npc_229_1#7", name2="avg_npc_404_1#2$1",focus=1)]
 [name="号角"]就该让那些大公爵听一听！
 [Character(name="avg_npc_229_1#8", name2="avg_npc_404_1#2$1",focus=1)]
-[name="号角"]听一听......我们的同胞是如何在你们的屠戮下哭嚎的！
+[name="号角"]听一听……我们的同胞是如何在你们的屠戮下哭嚎的！
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -384,13 +384,13 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [character(name="avg_npc_418_1#1$1")]
-[name="伦蒂尼姆市民"]我们......我们还有多久能出去？
+[name="伦蒂尼姆市民"]我们……我们还有多久能出去？
 [dialog]
 [CameraShake(duration=1, xstrength=50, ystrength=50, vibrato=60, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$b_char_rockexplo", volume=1)]
 [PlaySound(key="$d_avg_rockfall", volume=0.8)]
 [delay(time=2)]
-[name="伦蒂尼姆市民"]呜......这通道是不是快完全塌了......我们会不会都死在这里？
+[name="伦蒂尼姆市民"]呜……这通道是不是快完全塌了……我们会不会都死在这里？
 [character(name="avg_npc_400_1#8$1")]
 [name="海蒂"]别看脚下，也别回头。
 [character(name="avg_npc_400_1#2$1")]
@@ -398,7 +398,7 @@
 [character(name="avg_npc_400_1#9$1")]
 [name="海蒂"]信号灯还亮着。这是我们的战士为我们点亮的希望。
 [character(name="avg_npc_400_1#10$1")]
-[name="海蒂"]等那点灯光慢慢变亮......我们就能重新看见伦蒂尼姆的日光。
+[name="海蒂"]等那点灯光慢慢变亮……我们就能重新看见伦蒂尼姆的日光。
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -429,7 +429,7 @@
 [name="自救军战士"]萨卡兹的火力太强了——
 [name="自救军战士"]洛洛，我们根本无法靠近列车。
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#8$1", focus=2)]
-[name="洛洛"]......
+[name="洛洛"]……
 [Dialog]
 [PlaySound(key="$d_sp_ballista", volume=1)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -442,10 +442,10 @@
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [delay(time=1)]
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#8$1", focus=1)]
-[name="自救军战士"]炮轰也还没有停下来......下面的人还坚持得住吗？我们还有多少时间？
-[name="自救军战士"]指挥官他们也没了消息......
+[name="自救军战士"]炮轰也还没有停下来……下面的人还坚持得住吗？我们还有多少时间？
+[name="自救军战士"]指挥官他们也没了消息……
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#2$1", focus=2)]
-[name="洛洛"]我......我相信我的家人。
+[name="洛洛"]我……我相信我的家人。
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#10$1", focus=2)]
 [name="洛洛"]这是支撑我走到这里的唯一理由。
 [Dialog]
@@ -464,8 +464,8 @@
 [character(name="avg_155_tiger_1#9$1", name2="avg_npc_405_1#4$1", focus=1)]
 [name="因陀罗"]混蛋，怎么都甩不掉！
 [character(name="avg_155_tiger_1#9$1", name2="avg_npc_405_1#4$1", focus=2)]
-[name="摩根"]不......他刚才的速度你们都看见了吧？
-[name="摩根"]他像故意放慢了脚步，硬是......硬是看我们逃了这么久......
+[name="摩根"]不……他刚才的速度你们都看见了吧？
+[name="摩根"]他像故意放慢了脚步，硬是……硬是看我们逃了这么久……
 [character(name="avg_155_tiger_1#6$1", name2="avg_npc_405_1#4$1", focus=1)]
 [name="因陀罗"]这是什么变态啊？
 [dialog]
@@ -473,23 +473,23 @@
 [playsound(key="$d_avg_blood",volume=0.7)]
 [character(name="avg_npc_410_1#1$1",fadetime=1.5)]
 [delay(time=2)]
-[name="？？？"]嗯......听听你们的呼吸声与心跳声。你们终于跑累了吗？
+[name="？？？"]嗯……听听你们的呼吸声与心跳声。你们终于跑累了吗？
 [character(name="avg_npc_407_1#6$2")]
-[name="推进之王"]这就是......萨卡兹的荣耀吗？
+[name="推进之王"]这就是……萨卡兹的荣耀吗？
 [name="推进之王"]这根本称不上一场战斗。
 [character(name="avg_npc_410_1#5$1")]
-[name="？？？"]......战斗？
+[name="？？？"]……战斗？
 [name="？？？"]你对我有些误解。
 [name="？？？"]既然“魔王”不在，那么这里就根本没有与我匹配的对手。
 [name="？？？"]你会与一群肉兽谈论荣耀吗？在你明知道狩猎它们只能带来一些感官刺激，最终它们只配作为一道前菜出现在晚餐饭桌上的前提下？
 [character(name="avg_npc_407_1#6$2")]
-[name="推进之王"]你把我们......当成猎物？
-[name="推进之王"]即便你是萨卡兹，这种为了个人喜好而大肆杀戮的行径，也未免太野蛮了......
+[name="推进之王"]你把我们……当成猎物？
+[name="推进之王"]即便你是萨卡兹，这种为了个人喜好而大肆杀戮的行径，也未免太野蛮了……
 [character(name="avg_npc_410_1#2$1")]
 [name="？？？"]不要以你们所理解的文明揣度我。这对我而言是最可怕的污蔑。
 [character(name="avg_npc_410_1#8$1")]
 [name="？？？"]在肮脏的瓦砾把你们砸成肉末之前，试着反抗我吧。
-[name="？？？"]我会借由你们的鲜血记录你们临死前的思绪......所有的恐惧，不甘，愤怒......让它们尽情地涌向我！
+[name="？？？"]我会借由你们的鲜血记录你们临死前的思绪……所有的恐惧，不甘，愤怒……让它们尽情地涌向我！
 [dialog]
 [Blocker(a=0, r=255, g=0, b=0, fadetime=0, block=true)]
 [playsound(key="$d_avg_blood")]
@@ -506,11 +506,11 @@
 [name="摩根"]维娜！
 [character(name="avg_npc_407_1#1$2")]
 [name="推进之王"]摩根，你也退下。
-[name="推进之王"]唔......
+[name="推进之王"]唔……
 [character(name="avg_npc_401_1#4$1")]
 [name="克洛维希娅"]你要挡在我们所有人面前，与他对抗？
 [character(name="avg_npc_407_1#1$2")]
-[name="推进之王"]......是的。
+[name="推进之王"]……是的。
 [character(name="avg_npc_401_1#7$1")]
 [name="克洛维希娅"]你不是他的对手。
 [character(name="avg_npc_407_1#1$2")]
@@ -518,19 +518,19 @@
 [character(name="avg_npc_401_1#5$1")]
 [name="克洛维希娅"]就算你会被他瞬间撕碎，血肉变成这管道里最不起眼的一摊污迹，你也不准备转身逃走？
 [character(name="avg_npc_407_1#8$2")]
-[name="推进之王"]除非......你们能跑得比我快一些。
+[name="推进之王"]除非……你们能跑得比我快一些。
 [character(name="avg_npc_401_1#4$1")]
 [name="克洛维希娅"]为什么？
 [character(name="avg_npc_407_1#8$2")]
-[name="推进之王"]因为......
+[name="推进之王"]因为……
 [name="推进之王"]不为什么。我只是想这样做。
 [character(name="avg_npc_407_1#2$2")]
 [name="推进之王"]在我们头顶的城市朝我们倒下来的那一刻，我想做最先拥抱它的那一个。
 [character(name="avg_npc_401_1#7$1")]
-[name="克洛维希娅"]这样的话......
+[name="克洛维希娅"]这样的话……
 [character(name="avg_npc_407_1#1$2")]
 管道里的信号灯似乎亮了一些。
-是眼花吗？为什么伦蒂尼姆的地下会有星光？不......即使是在地面上，他们也有多久没有见到阴云背后的星星了？
+是眼花吗？为什么伦蒂尼姆的地下会有星光？不……即使是在地面上，他们也有多久没有见到阴云背后的星星了？
 [character(name="avg_npc_407_1#2$2")]
 推进之王眨了眨眼睛。
 [character(name="avg_npc_407_1#1$2")]
@@ -586,7 +586,7 @@
 [character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",fadetime=1.5)]
 [delay(time=2)]
 [Character(name="avg_npc_394_1#2$1")]
-[name="阿米娅"]唔......
+[name="阿米娅"]唔……
 [dialog]
 [PlaySound(key="$b_char_defboost", volume=0.6)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
@@ -595,7 +595,7 @@
 [CameraShake(duration=0.4, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [character(name="avg_npc_411_1#4$1")]
-[name="可露希尔"]阿米娅！糟了，他们人怎么来得越来越多......是不是Misery去晚了，他们没拖住曼弗雷德？
+[name="可露希尔"]阿米娅！糟了，他们人怎么来得越来越多……是不是Misery去晚了，他们没拖住曼弗雷德？
 [Character(name="avg_npc_394_1#7$1")]
 [name="阿米娅"]我来拦住他们，你们先走！
 [name="阿米娅"]博士，把引爆器给我——
@@ -611,7 +611,7 @@
 [Decision(options="不。", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_394_1#11$1")]
-[name="阿米娅"]博士，我们不能再等了，无论是自救军的战士、维多利亚的士兵，还是海蒂小姐与推进之王小姐......
+[name="阿米娅"]博士，我们不能再等了，无论是自救军的战士、维多利亚的士兵，还是海蒂小姐与推进之王小姐……
 [Character(name="avg_npc_394_1#18$1")]
 [name="阿米娅"]还有每一个正在遭受炮轰的维多利亚人，大家都等不了了！
 [dialog]
@@ -629,7 +629,7 @@
 [Predicate(references="1")]
 [delay(time=0.5)] 
 [Character(name="avg_npc_394_1#15$1")]
-[name="阿米娅"]博士......！
+[name="阿米娅"]博士……！
 [dialog]
 [CameraShake(duration=4, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
@@ -650,7 +650,7 @@
 [PlaySound(key="$d_sp_ballista")]
 [character]
 [character(name="avg_npc_419_1#1$1")]
-[name="萨卡兹战士"]咳咳......铺天盖地的黑色线条......什么都看不见了！
+[name="萨卡兹战士"]咳咳……铺天盖地的黑色线条……什么都看不见了！
 [Character(name="avg_npc_394_1#12$1")]
 [name="阿米娅"]就是现在！
 [dialog]
@@ -670,30 +670,30 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="阿米娅"]博士，您为什么......要挡在我面前？
+[name="阿米娅"]博士，您为什么……要挡在我面前？
 [dialog]
 [delay(time=0.51)]
 [Subtitle(text="因为我想这样做。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
-[name="阿米娅"]我已经......已经不是那个脆弱的小孩子了......
+[name="阿米娅"]我已经……已经不是那个脆弱的小孩子了……
 [name="阿米娅"]我不会再拖博士的后腿。我能抵挡住这些法术和烈焰。
 [dialog]
 [delay(time=1)]
 [Subtitle(text="我知道。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="阿米娅如今很厉害。可能比我厉害得多。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="但是无论给我多少次选择的机会......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="无论我们面对的是德拉克的火焰，还是这些爆炸的火光......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="但是无论给我多少次选择的机会……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="无论我们面对的是德拉克的火焰，还是这些爆炸的火光……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="我都想这样做。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=0.51)]
-[name="阿米娅"]博士......
+[name="阿米娅"]博士……
 [dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [playsound(key="$bodyfalldown2")]
-[name="费斯特"]呼......捞到你们了！
+[name="费斯特"]呼……捞到你们了！
 [name="费斯特"]博士，原来你让我提前挂在你腰上的六根滑索是这时候用的？
-[name="费斯特"]虽然会行动不便吧......算了，反正你平时也跑不了多快......
+[name="费斯特"]虽然会行动不便吧……算了，反正你平时也跑不了多快……
 [name="可露希尔"]无人机，起飞！
 [dialog]
 [ImageTween(xScaleFrom=1.3, yScaleFrom=1.3, xScaleTo=1, yScaleTo=1, fadetime=1,duration=15)]
@@ -734,7 +734,7 @@
 [character(name="avg_npc_404_1#2$1")]
 [name="曼弗雷德"]控制室——！
 [character(name="avg_npc_229_1#4")]
-[name="号角"]他们......做到了......
+[name="号角"]他们……做到了……
 [dialog]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -744,36 +744,36 @@
 [CameraShake(duration=-1, xstrength=2, ystrength=2, vibrato=30, randomness=90)]
 [delay(time=1)]
 [character(name="avg_npc_229_1#9")]
-[name="号角"]唔......
+[name="号角"]唔……
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [delay(time=0.51)]
 [character(name="avg_npc_404_1#10$1")]
-[name="曼弗雷德"]你......你早就没有力气了？你甚至都没法再挥剑......
-[name="曼弗雷德"]你竟然......就只是竭尽全力地站着而已。
+[name="曼弗雷德"]你……你早就没有力气了？你甚至都没法再挥剑……
+[name="曼弗雷德"]你竟然……就只是竭尽全力地站着而已。
 [name="曼弗雷德"]换作别人，你受的这些伤早就够他昏死十次了！
 [character(name="avg_npc_229_1")]
-[name="号角"]......这才发现？迟了。
+[name="号角"]……这才发现？迟了。
 [character(name="avg_npc_404_1#6$1")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [character(name="avg_npc_419_1#1$1")]
 [PlaySound(key="$b_char_rockexplo", volume=1)]
 [name="萨卡兹战士"]将军，控制室的爆炸影响了防御炮，炮台连着这一小块墙体结构都遭到了严重破坏——
 [name="萨卡兹战士"]再不走的话，我们都会摔下去！
 [character(name="avg_npc_404_1#7$1")]
-[name="曼弗雷德"]......通知所有人，撤退！
+[name="曼弗雷德"]……通知所有人，撤退！
 [character(name="avg_npc_419_1#1$1")]
-[name="萨卡兹战士"]那这个士兵......
+[name="萨卡兹战士"]那这个士兵……
 [character(name="avg_npc_404_1#10$1")]
-[name="曼弗雷德"]......我已经击败了她，但要击倒她，却要再花一些工夫。
+[name="曼弗雷德"]……我已经击败了她，但要击倒她，却要再花一些工夫。
 [name="曼弗雷德"]而这里已不值得我搭上这些时间。
 [character(name="avg_npc_229_1#9")]
-[name="号角"]哈......哈哈......
+[name="号角"]哈……哈哈……
 [character(name="avg_npc_404_1#1$1")]
 [name="曼弗雷德"]维多利亚的白狼，你是个可敬的对手。
 [character(name="avg_npc_404_1#4$1")]
 [name="曼弗雷德"]要是你还能活着走下这面城墙的话——
 [character(name="avg_npc_404_1#5$1")]
-[name="曼弗雷德"]下一次见面，我会用我的剑为你送去......配得上你的英勇的死亡。
+[name="曼弗雷德"]下一次见面，我会用我的剑为你送去……配得上你的英勇的死亡。
 [dialog]
 [playsound(key="$d_gen_walk_n")]
 [character(fadetime=1.5)]
@@ -785,7 +785,7 @@
 [Background(image="bg_black",screenadapt="coverall")]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="号角"]下一次......
+[name="号角"]下一次……
 [playsound(key="$smallearthquake", volume=1)]
 [stopmusic(fadetime=3)]
 [delay(time=1)]
@@ -796,9 +796,9 @@
 [delay(time=1)]
 伦蒂尼姆的城墙正在塌陷。
 她也在不断下落。
-[name="号角"]我......我做到了。
-[name="号角"]直到......你们离开之前......
-[name="号角"]......我都没有倒下。
+[name="号角"]我……我做到了。
+[name="号角"]直到……你们离开之前……
+[name="号角"]……我都没有倒下。
 血液的流失让她几乎失去了最后一点知觉。
 但她的身体像是变成了剑与盾的一部分，比铁还硬，除非被打碎，否则绝不弯折。
 维多利亚打造出来的武器，依旧驻在伦蒂尼姆的城墙上。
@@ -806,9 +806,9 @@
 直到城墙一角砸向伦蒂尼姆的地面——
 她也会回到生养她的土地上。
 [stopmusic(fadetime=1)]
-[name="号角"]这面墙......到底有多高？
-[name="号角"]为什么我好像......
-......在往上飞？
+[name="号角"]这面墙……到底有多高？
+[name="号角"]为什么我好像……
+……在往上飞？
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -842,16 +842,16 @@
 [soundvolume(channel="bgs",volume=0.4,fadetime=1)]
 [playMusic(intro="$newhope02_intro", key="$newhope02_loop", volume=0.4)]
 [delay(time=2)]
-[name="号角"]......罗本？
-[name="号角"]你......没......
+[name="号角"]……罗本？
+[name="号角"]你……没……
 [name="罗本"]是的，我没死！我运气好，摔下去的时候抓住了外墙结构，然后又被Misery先生救了！
 [name="Misery"]来吧，士兵，你的仗还没有打完。
-[name="号角"]......你们啊，就真的不打算让我休息一会吗？
+[name="号角"]……你们啊，就真的不打算让我休息一会吗？
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="罗本"]不行！
 [name="罗本"]号角，你别闭眼睛，别忘了，你的士兵还在这里！你不能倒下！
-[name="号角"]罗本，你变得就和......和我的某个队员一样吵闹。
-[name="号角"]算了......我从来就拿你们没办法。
+[name="号角"]罗本，你变得就和……和我的某个队员一样吵闹。
+[name="号角"]算了……我从来就拿你们没办法。
 [StopSound(channel="bgs", fadetime=4)]
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
@@ -879,7 +879,7 @@
 [character(name="avg_155_tiger_1#5$1", name2="avg_npc_405_1#4$1",fadetime=0.7)]
 [delay(time=0.7)]
 [character(name="avg_155_tiger_1#5$1", name2="avg_npc_405_1#4$1", focus=2)]
-[name="摩根"]......这震动？
+[name="摩根"]……这震动？
 [character(name="avg_155_tiger_1#5$1", name2="avg_npc_405_1#4$1", focus=1)]
 [name="因陀罗"]地下结构终于被大炮轰塌了吗？
 [character(name="avg_155_tiger_1#5$1", name2="avg_npc_405_1#5$1", focus=2)]
@@ -888,20 +888,20 @@
 [character(name="avg_155_tiger_1#5$1", name2="avg_npc_405_1#1$1", focus=2)]
 [name="摩根"]维娜，你做了什么？
 [character(name="avg_npc_407_1#1$2")]
-[name="推进之王"]......我找到了一条可以走的路。
+[name="推进之王"]……我找到了一条可以走的路。
 [character(name="avg_npc_398_1#1$1")]
-[name="自救军战士"]这截通道......在往上移动？
+[name="自救军战士"]这截通道……在往上移动？
 [name="自救军战士"]怎么会这样，我们在这里待了这么长时间，根本就不知道还有这样的机关啊？
 [character(name="avg_npc_401_1#10$1")]
-[name="克洛维希娅"]......总有一些“本地人”，知道的会比其他本地人更多一些。
+[name="克洛维希娅"]……总有一些“本地人”，知道的会比其他本地人更多一些。
 [character(name="avg_npc_407_1#9$2")]
-[name="推进之王"]......
+[name="推进之王"]……
 [character(name="avg_155_tiger_1#8$1")]
-[name="因陀罗"]那个怪物......
+[name="因陀罗"]那个怪物……
 [character(name="avg_155_tiger_1#2$1")]
 [name="因陀罗"]它还会不会追上来？
 [character(name="avg_npc_407_1#7$2")]
-[name="推进之王"]......会。
+[name="推进之王"]……会。
 [character(name="avg_npc_407_1#6$2")]
 [name="推进之王"]但也许不是今天。
 [dialog]
@@ -913,21 +913,21 @@
 [Blocker(a=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [name="？？？"]竟然找到了新的逃跑方向？
-[name="？？？"]啊......难怪，难怪。
-[name="？？？"]这个气味......是那个菲林散发出来的吗？
-[name="？？？"]不......所谓王族不过是为了巩固权位而生造出来的谎言，与这个国家的文明一样可笑。
+[name="？？？"]啊……难怪，难怪。
+[name="？？？"]这个气味……是那个菲林散发出来的吗？
+[name="？？？"]不……所谓王族不过是为了巩固权位而生造出来的谎言，与这个国家的文明一样可笑。
 [name="？？？"]就算她是那个逃跑的小狮子，她的血液味道也不会和其他菲林有任何差别。
-[name="？？？"]那这个截然不同的味道......
+[name="？？？"]那这个截然不同的味道……
 [name="？？？"]有趣。
 [name="？？？"]特雷西斯知道这件事吗？
 你不会有机会追上去确认的。
 [name="？？？"]哦？
-[name="？？？"]我记得你是谁。你是那个......特雷西斯身边的小学徒。就算你的老师站在这里，他也未必能轻松拦下我。
+[name="？？？"]我记得你是谁。你是那个……特雷西斯身边的小学徒。就算你的老师站在这里，他也未必能轻松拦下我。
 他已经没有资格再当我的老师。
 [name="？？？"]嗯？
-[name="？？？"]这个咒术的气息......你也来了吗，小女妖？我还以为你正在城里与我的随从们玩游戏。
+[name="？？？"]这个咒术的气息……你也来了吗，小女妖？我还以为你正在城里与我的随从们玩游戏。
 区区学艺不精的施术者，他们还不足以绊住我的脚步。
-[name="？？？"]唉......这下难办了。
+[name="？？？"]唉……这下难办了。
 [name="？？？"]这即将坍塌的地下通道可不是什么王庭聚首的好地方。
 他眼里是不是完全没有我？就因为我既没有跟特雷西斯学过本事，也没什么高贵的血液吗？
 这啰里啰嗦的老头子真的惹恼了我。我要用一百颗炸弹给他开一个欢送晚会，你们没意见吧？
@@ -955,27 +955,27 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [character(name="avg_npc_404_1#1$1")]
-[name="曼弗雷德"]......汇报情况。
+[name="曼弗雷德"]……汇报情况。
 [character(name="avg_npc_419_1#1$1")]
 [name="萨卡兹战士"]罗德岛的人从控制室跳了出去，有那个卡特斯在，我们没办法成功狙击——
 [character(name="avg_npc_404_1#6$1")]
 [name="曼弗雷德"]地下通道的反抗军呢？
 [character(name="avg_npc_419_1#1$1")]
-[name="萨卡兹战士"]呃，我们侦测到下面发生了爆炸......大君还没回来。
+[name="萨卡兹战士"]呃，我们侦测到下面发生了爆炸……大君还没回来。
 [character(name="avg_npc_404_1#10$1")]
 [name="曼弗雷德"]赫德雷在哪里？
 [character(name="avg_npc_419_1#1$1")]
 [name="萨卡兹战士"]他受了重伤，目前正昏迷不醒。
 [character(name="avg_npc_404_1#7$1")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [character(name="avg_npc_404_1#3$1")]
-[name="曼弗雷德"]聚集剩下的人手，一队人立刻检查城防系统，汇报损失。我们随时要做好启动更多防御炮......甚至主炮的准备。
+[name="曼弗雷德"]聚集剩下的人手，一队人立刻检查城防系统，汇报损失。我们随时要做好启动更多防御炮……甚至主炮的准备。
 [character(name="avg_npc_404_1#2$1")]
 [name="曼弗雷德"]剩下的人，包围车站。活下来的反抗军一定会从那里走。
 [character(name="avg_npc_419_1#1$1")]
-[name="萨卡兹战士"]有......有斥候回报，他们发觉有另一拨人正在迅速靠近车站......
+[name="萨卡兹战士"]有……有斥候回报，他们发觉有另一拨人正在迅速靠近车站……
 [character(name="avg_npc_404_1#2$1")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [dialog]
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_npc_404_1#2$1",focus=-1)]
@@ -997,13 +997,13 @@
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#10$1", focus=1)]
 [name="自救军战士"]洛洛，快看城墙方向——
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#10$1", focus=2)]
-[name="洛洛"]城防炮......被关闭了？
+[name="洛洛"]城防炮……被关闭了？
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#3$1", focus=2)]
 [name="洛洛"]发信号！
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#3$1", focus=1)]
 [name="自救军战士"]来了，大家都上来了！
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#3$1", focus=1)]
-[name="自救军战士"]但是萨卡兹......都在往这里涌！
+[name="自救军战士"]但是萨卡兹……都在往这里涌！
 [dialog]
 [character]
 [playsound(key="$d_gen_soldiersrun")]
@@ -1041,14 +1041,14 @@
 [character(fadetime=0.5)]
 [delay(time=1)]
 [character(name="avg_4040_rockr_1#5$1")]
-[name="洛洛"]......是援军？
+[name="洛洛"]……是援军？
 [dialog]
 [stopmusic(fadetime=1)]
 [delay(time=1)]
 [playMusic(intro="$frontline_intro", key="$frontline_loop", volume=0.4)]
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#5$1", focus=1)]
 [name="自救军战士"]有一支队伍从北面冲破了萨卡兹士兵的封锁！
-[name="自救军战士"]他们......他们是谁叫来的？
+[name="自救军战士"]他们……他们是谁叫来的？
 [name="自救军战士"]难道我们之前派出去向中央城区求援的信使还有活下来的？
 [dialog]
 [character]
@@ -1064,9 +1064,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.25, block=true)]
 [CameraShake(duration=0.4, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#5$1", focus=1)]
-[name="自救军战士"]他们动起手来......好像要有经验得多......
+[name="自救军战士"]他们动起手来……好像要有经验得多……
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#5$1", focus=2)]
-[name="洛洛"]那是......那是罗德岛干员？
+[name="洛洛"]那是……那是罗德岛干员？
 [dialog]
 [character]
 [playsound(key="$d_gen_walk_n")]
@@ -1083,7 +1083,7 @@
 [PlaySound(key="$d_avg_arrow_rain", volume=1)]
 [delay(time=0.51)]
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#7$1", focus=2)]
-[name="洛洛"]......孟塔古？
+[name="洛洛"]……孟塔古？
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#7$1", focus=1)]
 [name="自救军战士"]这名字听起来好耳熟，是不是什么上过报纸的贵族？
 [character(name="avg_npc_398_1#1$1", name2="avg_4040_rockr_1#10$1", focus=2)]
@@ -1112,11 +1112,11 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [character(name="avg_npc_418_1#1$1")]
-[name="伦蒂尼姆市民"]呜哇......海蒂女士，我们上来了......
+[name="伦蒂尼姆市民"]呜哇……海蒂女士，我们上来了……
 [character(name="avg_npc_400_1#12$1",name2="avg_npc_401_1#10$1", focus=1)]
 [name="海蒂"]嗯，我说过的，我们的战士不会让我们失望。
 [character(name="avg_npc_400_1#12$1",name2="avg_npc_401_1#10$1", focus=2)]
-[name="克洛维希娅"]......是她的人。
+[name="克洛维希娅"]……是她的人。
 [character(name="avg_npc_400_1#9$1",name2="avg_npc_401_1#10$1", focus=1)]
 [name="海蒂"]我们的信使成功联络上了她？
 [character(name="avg_npc_400_1#9$1",name2="avg_npc_401_1#10$1", focus=2)]
@@ -1125,9 +1125,9 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="因陀罗"]达格达！快看，是达格达！
 [character(name="avg_npc_405_1#4$1")]
-[name="摩根"]那家伙......
+[name="摩根"]那家伙……
 [character(name="avg_npc_407_1#1$2")]
-[name="推进之王"]......嗯。
+[name="推进之王"]……嗯。
 [character(name="avg_npc_396_1#5$1")]
 人群中的达格达也看见了她们。
 [character(name="avg_npc_396_1#9$1")]
@@ -1145,33 +1145,33 @@
 [PlaySound(key="$rungeneral", volume=0.9)]
 [character(name="avg_npc_396_1#4$1",fadetime=1.5)]
 [delay(time=2)]
-[name="达格达"]我......我很怕自己迟到。
+[name="达格达"]我……我很怕自己迟到。
 [character(name="avg_npc_407_1#8$2")]
 [name="推进之王"]不，你没有迟到。
 [name="推进之王"]对我们来说，你什么时候回来，都不算迟到。
 [character(name="avg_155_tiger_1#9$1")]
-[name="因陀罗"]混蛋，你......你走的时候那么干脆，我都来不及揍你！
+[name="因陀罗"]混蛋，你……你走的时候那么干脆，我都来不及揍你！
 [character(name="avg_npc_396_1#8$1")]
-[name="达格达"]嗯......现在揍也不算太晚。
+[name="达格达"]嗯……现在揍也不算太晚。
 [character(name="avg_npc_405_1#1$1")]
 [name="摩根"]哎，维娜，你知道她会回来的吧？
 [character(name="avg_npc_407_1#8$2")]
-[name="推进之王"]......我知道。
+[name="推进之王"]……我知道。
 [character(name="avg_npc_405_1#7$1")]
 [name="摩根"]你们瞒着因陀罗我能理解，不到像这样的最后关头，她可能都没法接受贵族雇佣兵的援手。
 [character(name="avg_155_tiger_1#7$1")]
 [name="因陀罗"]比起埋怨我，先一起把这些敌人解决了啊！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [character(name="avg_npc_405_1#8$1")]
-[name="摩根"]......我又没停下来！
+[name="摩根"]……我又没停下来！
 [character(name="avg_npc_405_1#5$1")]
-[name="摩根"]维娜，我还没说完......你们起码告诉我一声！
+[name="摩根"]维娜，我还没说完……你们起码告诉我一声！
 [character(name="avg_npc_405_1#7$1")]
 [name="摩根"]唉，你们害得我就连在被追杀的时候，都还惦记着达格达会不会又去了哪个犄角旮旯，准备着和萨卡兹同归于尽！
 [character(name="avg_npc_407_1#5$2")]
-[name="推进之王"]抱歉，摩根......
+[name="推进之王"]抱歉，摩根……
 [character(name="avg_npc_396_1#9$1")]
-[name="达格达"]......以后都不会了。我发誓。
+[name="达格达"]……以后都不会了。我发誓。
 [character(name="avg_npc_407_1#8$2")]
 [name="推进之王"]推进之王小组，全体集合。
 [name="推进之王"]只要等到博士他们回来，我们就能一起离开这里。
@@ -1192,7 +1192,7 @@
 [delay(time=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="克洛维希娅"]阿米娅？
-[name="克洛维希娅"]你们居然是从天上......
+[name="克洛维希娅"]你们居然是从天上……
 [Dialog]
 [Character]
 [PlaySound(key="$d_avg_snowstormflp")]
@@ -1219,7 +1219,7 @@
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [Character(name="avg_npc_402_1#1$1",name2="avg_npc_411_1#3$1",fadetime=0.7)]
 [character(name="avg_npc_402_1#1$1", name2="avg_npc_411_1#3$1",focus=1)]
-[name="费斯特"]我们......我们居然真的回来了？
+[name="费斯特"]我们……我们居然真的回来了？
 [character(name="avg_npc_402_1#11$1", name2="avg_npc_411_1#3$1",focus=1)]
 [name="费斯特"]洛洛——
 [name="费斯特"]指挥官，洛洛有没有事？大家都撤出来了吗？
@@ -1227,15 +1227,15 @@
 [name="克洛维希娅"]活下来的人比我们预想的要多。
 [name="克洛维希娅"]这多亏了你，费斯特，还有你带来的罗德岛的大家。
 [character(name="avg_npc_402_1#3$1")]
-[name="费斯特"]哈......老比尔，你看到了吗？
+[name="费斯特"]哈……老比尔，你看到了吗？
 [character(name="avg_npc_402_1#5$1")]
-[name="费斯特"]我......
+[name="费斯特"]我……
 [character(name="avg_npc_402_1#5$1",focus=-1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="洛洛"]不，别想偷懒晕过去！战斗还没结束！
 [name="洛洛"]还能动就赶紧来动力室帮我！
 [character(name="avg_npc_407_1#6$2")]
-[name="推进之王"]......还有萨卡兹士兵在追过来。
+[name="推进之王"]……还有萨卡兹士兵在追过来。
 [Character(name="avg_npc_394_1#4$1")]
 [name="阿米娅"]他们已经没什么能做的了。
 [name="阿米娅"]因为我们会在这里挡住他们。
@@ -1271,7 +1271,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [dialog]
 [delay(time=2)]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [dialog]
 [Subtitle(text="阿米娅？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -1279,11 +1279,11 @@
 [Subtitle(text="阿米娅，列车发动了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
-[Subtitle(text="阿米娅......你在看什么?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="阿米娅……你在看什么?", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
-[name="阿米娅"]我......
-[name="阿米娅"]............
+[name="阿米娅"]我……
+[name="阿米娅"]…………
 卡特斯女孩没有回答你。她的身体一动不动，似乎连呼吸都停止了。
 你知道她很震惊。她从未像此刻这样，不加掩饰地将强烈的情绪展露在干员们面前。
 [dialog]

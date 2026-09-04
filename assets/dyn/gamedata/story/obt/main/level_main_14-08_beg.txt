@@ -26,7 +26,7 @@
 [charslot(duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]呼......嗬......
+[name="阿米娅"]呼……嗬……
 [charslot(slot="m",name="avg_npc_394_1#12$1",focus="m")]
 [name="阿米娅"]还有一个。
 [dialog]
@@ -56,7 +56,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......残忍。
+[name="阿米娅"]……残忍。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]你总是这样到处播撒过剩的同理心，就和特蕾西娅一样。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
@@ -67,7 +67,7 @@
 [name="萨卢斯"]你是不是也被她骗了过去——“博士”？
 [dialog]
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="none")]
-[Decision(options="......;我不知道你在说什么。;我对此一无所知。", values="1;2;3")]
+[Decision(options="……;我不知道你在说什么。;我对此一无所知。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]真可怜呀，你什么都不记得了。
@@ -80,7 +80,7 @@
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]奎萨图什塔的野心会给萨卡兹带来更深重的伤害，特蕾西娅小姐不可能放任他篡夺“魔王”。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
-[name="萨卢斯"]......小兔子，别说这种不痛不痒的空话了。
+[name="萨卢斯"]……小兔子，别说这种不痛不痒的空话了。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]随便问一个卡兹戴尔街头的普通人都知道，对萨卡兹而言，魔王的离去才是更深重的灾难。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
@@ -98,7 +98,7 @@
 [name="赦罪师的“奇美拉”"]（嘶鸣）
 [charslot]
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
-[name="阿米娅"]他们的痛苦......
+[name="阿米娅"]他们的痛苦……
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
 [name="阿米娅"]这些情感，也是被巫术灌注和操控的吗？
 [dialog]
@@ -128,10 +128,10 @@
 [Blocker(a=0.8, r=1, g=1, b=1, fadetime=0.1, block=true)]
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
-[Decision(options="阿米娅，源石活性的变化......非常迅速！", values="1")]
+[Decision(options="阿米娅，源石活性的变化……非常迅速！", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]博士，不......不用担心......
+[name="阿米娅"]博士，不……不用担心……
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]赦罪师的巫术，我会习惯。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
@@ -140,7 +140,7 @@
 [name="阿米娅"]我能清晰感觉到自己和“魔王”的联系。它并没有离开我。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="阿米娅"]咳......咳咳......
+[name="阿米娅"]咳……咳咳……
 [dialog]
 [charslot]
 [PlaySound(key="$p_skill_chimera", volume=1)]
@@ -152,7 +152,7 @@
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_394_1#17$1",focus="m")]
-[name="阿米娅"]只是......有一点点痛罢了。
+[name="阿米娅"]只是……有一点点痛罢了。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]徒劳而已。去吧，那个人已经没有价值了。
 [dialog]
@@ -229,7 +229,7 @@
 离你最近的奇美拉也一样。庞大的身躯轰然倒地，源石粉尘四处飞溅，相互摩擦碰撞，炸成一片夺目的金色。
 与计算结果一致，在巫术能量的激发下，周围的源石到了崩毁的临界点。
 [dialog]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")] 
 许多细小的结晶落到你的面罩上。
 你看着它们，没有丝毫负面感受。
@@ -249,7 +249,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [name="萨卢斯"]——！
 [charslot(slot="m",name="avg_npc_653_1#3$1",focus="m")]
-[name="萨卢斯"]我的手和脚......
+[name="萨卢斯"]我的手和脚……
 [charslot(slot="m",name="avg_npc_653_1#5$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=12, ystrength=10, vibrato=30, randomness=90, fadeout=true,block=false)]
 [name="萨卢斯"]女妖！！
@@ -271,7 +271,7 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]摆弄皮毛，却对如何编织韵律一无所知。
 [charslot(slot="m",name="avg_npc_653_1#6$1",focus="m")]
-[name="萨卢斯"]......
+[name="萨卢斯"]……
 [dialog]
 [charslot]
 [Decision(options="阿米娅。;是时候了。", values="1;2")]
@@ -298,11 +298,11 @@
 你忍不住看向蓝发赦罪师的面庞。
 所有的情绪都褪去了，她近乎平静地接受了这致命一击。
 [charslot(slot="m",name="avg_npc_653_1#2$1",focus="m")]
-[name="萨卢斯"]啊......这就是......
+[name="萨卢斯"]啊……这就是……
 [charslot(slot="m",name="avg_npc_653_1#2$1",focus="m")]
 [name="萨卢斯"]魔王对我的宣判。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]你......
+[name="阿米娅"]你……
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
 [name="萨卢斯"]别误会，我很努力地想活下去的。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
@@ -312,7 +312,7 @@
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]你甘愿为了奎萨图什塔的野心牺牲。
 [charslot(slot="m",name="avg_npc_653_1#1$1",focus="m")]
-[name="萨卢斯"]他是我们的......父亲，我们的起源，我们无法违抗的唯一。
+[name="萨卢斯"]他是我们的……父亲，我们的起源，我们无法违抗的唯一。
 [charslot(slot="m",name="avg_npc_653_1#10$1",focus="m")]
 [name="萨卢斯"]我真的好讨厌奎萨辛娜。我也讨厌你。
 [charslot(slot="m",name="avg_npc_653_1#10$1",focus="m")]
@@ -320,7 +320,7 @@
 [charslot(slot="m",name="avg_npc_653_1#5$1",focus="m")]
 [name="萨卢斯"]阿米娅——
 [charslot(slot="m",name="avg_npc_653_1#5$1",focus="m")]
-[name="萨卢斯"]我们难道不都是......被寄托了希望的奇美拉？
+[name="萨卢斯"]我们难道不都是……被寄托了希望的奇美拉？
 [stopmusic(fadetime=1.5)]
 [dialog]
 [charslot(duration=0.7)]
@@ -333,7 +333,7 @@
 [Blocker(a=0.2, r=1,g=0.2, b=0.2, fadetime=0.5, block=true)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_394_1#12$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]“蔽障”。
 [dialog]
@@ -374,7 +374,7 @@
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]博士，虽然我能理解你刚才的计划，但这太冒险了。
 [charslot(slot="m",name="avg_npc_394_1#6$1",focus="m")]
-[name="阿米娅"]我不能赞同你的做法。下次你还要这么做的话，我......呃，我会生气的。
+[name="阿米娅"]我不能赞同你的做法。下次你还要这么做的话，我……呃，我会生气的。
 [dialog]
 [charslot]
 [Decision(options="我会注意的。", values="1")]
@@ -411,7 +411,7 @@
 [charslot(slot="m",name="avg_003_kalts_1#3$1",focus="m")]
 [name="凯尔希"]奎萨图什塔，杜卡雷，还有特雷西斯，他们最终的目的可能各不相同，但目前都指向了同一个方向。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[multiline(name="凯尔希")]萨卡兹从来都深受源石的影响。我有些担心，这影响正在被刻意导向......
+[multiline(name="凯尔希")]萨卡兹从来都深受源石的影响。我有些担心，这影响正在被刻意导向……
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="m")]
 [multiline(name="凯尔希")]或者不受控制地走向更深的层次。
 [Dialog]
@@ -423,13 +423,13 @@
 [playMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_394_1#8$1",focus="m")]
-[name="阿米娅"]呜......嗯，这样就好了。
+[name="阿米娅"]呜……嗯，这样就好了。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]你的身体状况稳定了下来。Logos说，赦罪师遗留的巫术也已经全部清除。
 [charslot(slot="m",name="avg_npc_394_1#8$1",focus="m")]
 [name="阿米娅"]谢谢。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[name="凯尔希"]......至少三枚戒指出现了裂痕。
+[name="凯尔希"]……至少三枚戒指出现了裂痕。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]只是一些战斗损伤，没什么大碍的。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
@@ -437,7 +437,7 @@
 [charslot(slot="m",name="avg_003_kalts_1#14$1",focus="m")]
 [name="凯尔希"]从指挥塔之战开始，你是否就一直背负着过多的情感与回忆？
 [charslot(slot="m",name="avg_npc_394_1#3$1",focus="m")]
-[name="阿米娅"]嗯......
+[name="阿米娅"]嗯……
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]它们从未离开过你。是你自己的精神在撕裂这些戒指，任何器具都无法承受这么庞大的情绪洪流。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
@@ -445,7 +445,7 @@
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]这些情感最初是有人强加给我的。后来，是我选择了走近，触碰，感受。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
-[name="阿米娅"]说一点都不难受......是撒谎。我不想对任何人撒谎，也不想欺骗自己，当作这些痛苦不存在。
+[name="阿米娅"]说一点都不难受……是撒谎。我不想对任何人撒谎，也不想欺骗自己，当作这些痛苦不存在。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]但我适应得差不多了。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
@@ -453,7 +453,7 @@
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]阿米娅，我建议加固这些戒指。
 [charslot(slot="m",name="avg_npc_394_1#10$1",focus="m")]
-[name="阿米娅"]......不。
+[name="阿米娅"]……不。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]我需要更强的力量，来救更多的人。我跟您说过许多次，这就是我的愿望。
 [Dialog]
@@ -496,15 +496,15 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]我曾见过几支雷姆必拓的商队，我知道，那些温和胆小的卡特斯在直面萨卡兹的时候，很难克制本能的恐惧。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]或许是天性使然，又或许是她被......教得很好。阿米娅并无区分萨卡兹与他族的意识。她自然地用温柔关爱所有人。
+[name="Logos"]或许是天性使然，又或许是她被……教得很好。阿米娅并无区分萨卡兹与他族的意识。她自然地用温柔关爱所有人。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]因此，得知特蕾西娅殿下选择阿米娅作为自己的继承人时，我并无丝毫意外。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="none")]
 [dialog]
-[Decision(options="即便你是王庭之主......;你也支持阿米娅继承“魔王”。", values="1;2")]
+[Decision(options="即便你是王庭之主……;你也支持阿米娅继承“魔王”。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......对我而言，这绝非抉择中最为艰难的部分。
+[name="Logos"]……对我而言，这绝非抉择中最为艰难的部分。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]博士，方才我遇到了几位故人。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
@@ -517,19 +517,19 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]一些巴别塔成员不赞成放弃战争。他们和一部分萨卡兹战士站在一起，认为我们应当复仇，应当回到卡兹戴尔夺回权柄。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]更有甚者......
+[name="Logos"]更有甚者……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="none")]
 [Decision(options="他们主张杀了阿米娅。;他们想对凯尔希动手。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......本属于魔王的队伍将彻底背离卡兹戴尔。
+[name="Logos"]……本属于魔王的队伍将彻底背离卡兹戴尔。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]他们认定，这是一种卑劣的偷窃，一场可鄙的背叛。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]而凯尔希医生和其余不是萨卡兹的巴别塔成员，是作此谋划的罪魁祸首。
 [dialog]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="none")]
-[Decision(options="......;他们都曾是追随特蕾西娅的战士。;他们都曾是巴别塔的人。", values="1;2;3")]
+[Decision(options="……;他们都曾是追随特蕾西娅的战士。;他们都曾是巴别塔的人。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]他们中的相当一部分都相信着特蕾西娅殿下，甚至愿意为她和巴别塔的理想付出生命。
@@ -544,7 +544,7 @@
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]那场叛乱之后，雇佣兵和萨卡兹战士几乎都选择了离去，巴别塔正式成员中，也仅有少数选择留下。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]巴别塔不复存在，凯尔希医生禁止......任何人提起“魔王”。
+[name="Logos"]巴别塔不复存在，凯尔希医生禁止……任何人提起“魔王”。
 [dialog]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="none")]
 [Decision(options="你呢？;你为什么留在了罗德岛？", values="1;2")]
@@ -556,7 +556,7 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]临行前，Scout拉着我，说他跟Misery替我准备了一个欢送会。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]我说喝酒不在考虑范围内，刚换好的衣服不想弄脏。结果我发现，他们是找我......刷漆。
+[name="Logos"]我说喝酒不在考虑范围内，刚换好的衣服不想弄脏。结果我发现，他们是找我……刷漆。
 [dialog]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="none")]
 [Decision(options="刷漆？;没想到是搞装修。", values="1;2")]
@@ -590,7 +590,7 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]Ace听了，立刻问Scout要了五天的酒钱。Scout原本猜我会在河谷逗留超过一周。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]而Misery......他从兜里掏出一条“欢迎”的彩带，替换了原先开玩笑悬挂的“欢送”那条。
+[name="Logos"]而Misery……他从兜里掏出一条“欢迎”的彩带，替换了原先开玩笑悬挂的“欢送”那条。
 [dialog]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="none")]
 [Decision(options="真热闹啊。;你们是真正的好朋友。", values="1;2")]
@@ -600,21 +600,21 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]但我始终清楚，我的决定并无差错。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]......博士。
+[name="Logos"]……博士。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]自你从切尔诺伯格归来，我也并未询问过你。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]你已无过去记忆，因何愿意留在如今的罗德岛，又因何甘愿涉险，深入眼前险境？
 [dialog]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="none")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [stopmusic(fadetime=1.5)]
 [charslot]
 [PlaySound(key="$rungeneral", volume=0.9)]
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m",duration=2)]
 [delay(time=1)]
-[name="“老财”"]女妖阁下......Logos先生！前、前面的路突然断了！
+[name="“老财”"]女妖阁下……Logos先生！前、前面的路突然断了！
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="“老财”"]医生和魔王殿下让您尽快——
 [Dialog]
@@ -627,7 +627,7 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]新生的裂谷。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="“老财”"]这么大一条缝，是突然之间冒出来的。那个蓝头发的赦罪师就是从这走的，我们的路走得没错。现在就......
+[name="“老财”"]这么大一条缝，是突然之间冒出来的。那个蓝头发的赦罪师就是从这走的，我们的路走得没错。现在就……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]源石对地形的改变频率越来越高，严重程度也在加剧。
 [charslot(slot="m",name="avg_npc_1072_1#2$1",focus="m")]
@@ -635,7 +635,7 @@
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]阿米娅，你应当也能。
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]地面......在颤动。
+[name="阿米娅"]地面……在颤动。
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
 [name="阿米娅"]萨卡兹的情感正和源石激烈地共鸣。他们的愤怒凝聚在一起，如同风暴一样，牵动着大地。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
@@ -659,7 +659,7 @@
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]可那只是暂时的。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......战争的循环，永无止境。
+[name="Logos"]……战争的循环，永无止境。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

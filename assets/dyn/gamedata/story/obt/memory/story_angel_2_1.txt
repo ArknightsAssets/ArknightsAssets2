@@ -60,7 +60,7 @@
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_103_angel_1#1$1",fadetime=1.5)]
 [delay(time=2)]
-[multiline(name="能天使")]喂，德克萨斯，你不是在送货吗，怎么忽然把我喊过来......
+[multiline(name="能天使")]喂，德克萨斯，你不是在送货吗，怎么忽然把我喊过来……
 [Character(name="avg_103_angel_1#4$1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [multiline(name="能天使")]欸？！
@@ -83,7 +83,7 @@
 [Character(name="avg_213_mostma_1#10$2")]
 [name="莫斯提马"] 小乐，你不会也打算动手吧？
 [Character(name="avg_103_angel_1#1$1")]
-[name="能天使"]......
+[name="能天使"]……
 [Character(name="avg_103_angel_1#6$1")]
 [name="能天使"]为什么不呢？
 [Character(name="avg_103_angel_1#6$1")]
@@ -93,7 +93,7 @@
 [Character(name="avg_103_angel_1#6$1")]
 [name="能天使"]来玩吧，莫斯提马。
 [Character(name="avg_213_mostma_1#1$2")]
-[name="莫斯提马"] ......
+[name="莫斯提马"] ……
 [PlaySound(key="$d_avg_clothmovement", volume=0.7)]
 [Character(name="avg_213_mostma_1#1$1",fadetime=0.7)]
 [delay(time=1)]
@@ -107,7 +107,7 @@
 [Character(name="avg_213_mostma_1#10$1")]
 [name="莫斯提马"] 放心，戒律不保护堕天使。
 [Character(name="avg_103_angel_1#5$1")]
-[multiline(name="能天使")]哦......
+[multiline(name="能天使")]哦……
 [Character(name="avg_103_angel_1#2$1")]
 [multiline(name="能天使")]不对，在市区怎么用铳啊！你也不准用你的那个法术！
 [Character(name="avg_213_mostma_1#9$1")]
@@ -145,7 +145,7 @@
 [character]
 [name="远处的莫斯提马"]小乐，你这招我早就习惯了。
 [Character(name="avg_103_angel_1#1$1")]
-[name="能天使"]果然是莫斯提马啊......
+[name="能天使"]果然是莫斯提马啊……
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]德克萨斯，你吃过饭了吧？
 [Character(name="char_102_texas_1#1")]
@@ -209,7 +209,7 @@
 [Character(name="avg_213_mostma_1#2$1")]
 [name="莫斯提马"] 你想从我这里知道什么？
 [Character(name="char_201_moeshd#3")]
-[name="可颂"]嗯......比起想从你这里知道什么，我更想告诉你一些什么。
+[name="可颂"]嗯……比起想从你这里知道什么，我更想告诉你一些什么。
 [Character(name="char_201_moeshd#2")]
 [name="可颂"]从一开始的找你，到后来的等你，能天使可是在龙门待了好些年了。
 [Character(name="char_201_moeshd#2")]
@@ -219,7 +219,7 @@
 [Character(name="char_201_moeshd#5")]
 [name="可颂"]只是，毕竟也过了这么久了，你总得给她一个说法吧。
 [Character(name="avg_213_mostma_1#9$1")]
-[name="莫斯提马"] ......
+[name="莫斯提马"] ……
 [Character(name="avg_213_mostma_1#1$1")]
 [delay(time=1)]
 [PlaySound(key="$d_avg_bldwhoosh", volume=1)]
@@ -267,7 +267,7 @@
 [Character(name="char_101_sora_1#3")]
 [name="空"] 欸？临时换了场地？
 [Character(name="char_101_sora_1#3")]
-[name="空"] 不是吧......
+[name="空"] 不是吧……
 [Character(name="char_101_sora_1#4")]
 [name="空"] 我这边在下雨，现在可赶不过去啊！
 [Character(name="char_101_sora_1#3")]
@@ -281,9 +281,9 @@
 [character]
 [Character(name="char_101_sora_1#2")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="空"] 可恶，因为我咖位小就欺负我......
+[name="空"] 可恶，因为我咖位小就欺负我……
 [Character(name="char_101_sora_1#4")]
-[name="空"] 就算打车过去也来不及吧，现在打电话给德克萨斯估计也来不及了，怎么办，难道真的要放弃吗......
+[name="空"] 就算打车过去也来不及吧，现在打电话给德克萨斯估计也来不及了，怎么办，难道真的要放弃吗……
 [Dialog]
 [Character(name="char_101_sora_1#4", name2="char_empty")]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -295,13 +295,13 @@
 [Character(name="char_101_sora_1#4",name2="avg_213_mostma_1#1$1",focus=2)]
 [name="莫斯提马"] 你是空，对吧？
 [Character(name="char_101_sora_1#3",name2="avg_213_mostma_1#1$1",focus=1)]
-[name="空"] 欸，啊，是的，你是......
+[name="空"] 欸，啊，是的，你是……
 [Character(name="char_101_sora_1#3",name2="avg_213_mostma_1#1$1",focus=1)]
-[name="空"]  等等，头上有角的蓝发萨科塔......你是能天使一直在找的莫斯提马？！
+[name="空"]  等等，头上有角的蓝发萨科塔……你是能天使一直在找的莫斯提马？！
 [Character(name="char_101_sora_1#3",name2="avg_213_mostma_1#5$1",focus=2)]
 [name="莫斯提马"]  没错。
 [Character(name="char_101_sora_1#3",name2="avg_213_mostma_1#5$1",focus=1)]
-[name="空"]  要快点告诉能天使才行......
+[name="空"]  要快点告诉能天使才行……
 [Character(name="char_101_sora_1#3",name2="avg_213_mostma_1#1$1",focus=2)]
 [name="莫斯提马"]  你不是在赶时间吗？
 [Character(name="char_101_sora_1#3",name2="avg_213_mostma_1#1$1",focus=1)]
@@ -349,15 +349,15 @@
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#1$1",focus=1)]
 [name="空"] 居然比预计的时间还要早十分钟。
 [Character(name="char_101_sora_1#5",name2="avg_213_mostma_1#1$1",focus=1)]
-[name="空"] 真是太谢谢你了，莫斯提马......前辈。
+[name="空"] 真是太谢谢你了，莫斯提马……前辈。
 [Character(name="char_101_sora_1#5",name2="avg_213_mostma_1#5$1",focus=2)]
 [name="莫斯提马"]  不用这么拘谨。
 [Character(name="char_101_sora_1#5",name2="avg_213_mostma_1#5$1",focus=1)]
-[name="空"] 不过，你为什么会忽然出现在我面前......
+[name="空"] 不过，你为什么会忽然出现在我面前……
 [Character(name="char_101_sora_1#5",name2="avg_213_mostma_1#5$1",focus=1)]
 [name="空"] 你不是一直都在躲着能天使吗？
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=2)]
-[name="莫斯提马"]  嗯......
+[name="莫斯提马"]  嗯……
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=1)]
 [name="空"] 停，如果你有想说的话，那就去告诉她，而不是告诉我。
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=2)]
@@ -367,13 +367,13 @@
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#1$1",focus=2)]
 [name="莫斯提马"]  如果是我能回答的问题的话。
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#1$1",focus=1)]
-[name="空"] 我想知道，萨科塔......真的都像能天使那样无忧无虑吗？
+[name="空"] 我想知道，萨科塔……真的都像能天使那样无忧无虑吗？
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#4$1",focus=2)]
 [name="莫斯提马"]  嗯？
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=2)]
 [name="莫斯提马"]  从结论上来说，大部分萨科塔确实如此。
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=1)]
-[name="空"] 哈......好吧。
+[name="空"] 哈……好吧。
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=1)]
 [name="空"] 我的职业是偶像，虽然这样说不太好，但偶像最重要的功课之一，就是揣摩人心。
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=1)]
@@ -391,7 +391,7 @@
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=1)]
 [name="空"] 然后，那天德克萨斯有别的事要做，于是接应她的是我。
 [Character(name="char_101_sora_1#1",name2="avg_213_mostma_1#10$1",focus=1)]
-[name="空"] 原本我以为不会出什么事，结果......
+[name="空"] 原本我以为不会出什么事，结果……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -418,13 +418,13 @@
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]空，你懂的可真多啊。
 [Character(name="char_101_sora_1#6")]
-[multiline(name="空")]这也是德克萨斯教给我的......
+[multiline(name="空")]这也是德克萨斯教给我的……
 [Character(name="char_101_sora_1#3")]
 [multiline(name="空")]哎呀，现在不是说这些的时候，我们要想想办法！
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]有什么比较好的方法吗？
 [Character(name="char_101_sora_1#1")]
-[name="空"] 最简单的方法就是把骗你的那个帮派头目揪出来，让他出面解决事情，但这就相当于要面对一整个帮派，哪有这么简单......
+[name="空"] 最简单的方法就是把骗你的那个帮派头目揪出来，让他出面解决事情，但这就相当于要面对一整个帮派，哪有这么简单……
 [Character(name="avg_103_angel_1#6$1")]
 [name="能天使"]试试这个吧。
 [Character(name="char_101_sora_1#2")]
@@ -436,19 +436,19 @@
 [character(name="char_102_texas_1#1",fadetime=1.5)]
 [delay(time=2)]
 [Character(name="char_101_sora_1#3")]
-[name="空"] 德克萨斯，你怎么......
+[name="空"] 德克萨斯，你怎么……
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 听到了风声，赶了过来。
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 你还好吗？
 [Character(name="char_101_sora_1#4")]
-[name="空"] 嗯，但是情况......
+[name="空"] 嗯，但是情况……
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 你刚才说你要试试，你觉得你做得到吗？
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]不知道，但既然错在我，我会尽力去做。
 [Character(name="char_102_texas_1#1")]
-[name="德克萨斯"] ......跟我来。
+[name="德克萨斯"] ……跟我来。
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]好。
 [stopmusic(fadetime=1)]
@@ -537,7 +537,7 @@
 [character(fadetime=1.5)]
 [delay(time=2)]
 [Character(name="char_102_texas_1#1")]
-[name="德克萨斯"] ......
+[name="德克萨斯"] ……
 [Character(name="avg_213_mostma_1#10$1")]
 [name="莫斯提马"] 所以，你不打算动手？
 [Character(name="char_102_texas_1#1")]
@@ -567,7 +567,7 @@
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 将过去寄托于某个人和执着于某段过去的感觉，出于一些并不让人愉快的原因，我很了解。
 [Character(name="char_102_texas_1#1")]
-[name="德克萨斯"] 而你......
+[name="德克萨斯"] 而你……
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 对现在的她来说，你所代表的她追逐的某一段过去，只会扰乱她的生活。
 [Character(name="avg_213_mostma_1#5$1")]
@@ -577,7 +577,7 @@
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 或者成为一个永远无法追上的背影。
 [Character(name="avg_213_mostma_1#10$1")]
-[name="莫斯提马"] ......小乐真是交到了好朋友啊。
+[name="莫斯提马"] ……小乐真是交到了好朋友啊。
 [dialog]
 [character]
 [playsound(key="$d_gen_walk_n")]
@@ -647,21 +647,21 @@
 [character(fadetime=1.5)]
 [delay(time=2)]
 [Character(name="avg_103_angel_1#7$1")]
-[name="能天使"]啊......有点累了。
+[name="能天使"]啊……有点累了。
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 要吃巧克力吗？
 [Character(name="avg_103_angel_1#1$1")]
-[name="能天使"]要。莫斯提马，你要......
+[name="能天使"]要。莫斯提马，你要……
 [Character(name="avg_103_angel_1#4$1")]
 [name="能天使"]咦，莫斯提马人呢？
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 看来，她刚才趁着混乱离开了。
 [Character(name="avg_103_angel_1#8$1")]
-[name="能天使"]欸，难道说......
+[name="能天使"]欸，难道说……
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 这里有封信，看起来是给你的。
 [Character(name="avg_103_angel_1#1$1")]
-[name="能天使"]给我的？咦，难道是她......
+[name="能天使"]给我的？咦，难道是她……
 [Character(name="avg_103_angel_1#4$1")]
 [name="能天使"]不对，是姐姐寄给我的！
 [dialog]
@@ -679,7 +679,7 @@
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]不过现在这样的情况应该算她亲手交给我了吧？
 [Character(name="char_102_texas_1#1")]
-[name="德克萨斯"] ......
+[name="德克萨斯"] ……
 [Character(name="char_102_texas_1#1")]
 [name="德克萨斯"] 先看一看信的内容吧。
 [dialog]
@@ -687,7 +687,7 @@
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [playsound(key="$d_avg_paper1",volume=0.8)]
-[Subtitle(text="......", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="我一直在思考，站在一个姐姐的立场，如何向你讲述那段过去。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="这并不仅仅是因为事关拉特兰的机密，更是因为我也好，莫斯提马也好，对这件事的感受都和这件事带给人的直观感受不一样。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="我们并不愤怒，但如果无法告诉你，那我们该如何平息你的愤怒和焦急？", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
@@ -698,12 +698,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [Character(name="avg_103_angel_1#1$1")]
-[name="能天使"]我怎么会怪姐姐呢......
+[name="能天使"]我怎么会怪姐姐呢……
 [dialog]
 [Character(fadetime=0.5)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[Subtitle(text="......", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="我曾经一度希望，这个秘密永远不会被发掘，我希望那个人永远不会出现。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="但现在，我已经意识到，这只是我不切实际的妄想。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="我已经决定进入教皇厅工作，而之所以告诉你这些，是因为——", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
@@ -719,7 +719,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [Character(name="avg_103_angel_1#9$1")]
-[name="能天使"]......
+[name="能天使"]……
 [Character(name="char_102_texas_1#3")]
 [name="德克萨斯"] 你的姐姐是个不错的人。
 [Character(name="avg_103_angel_1#1$1")]
@@ -748,7 +748,7 @@
 [Character(name="char_101_sora_1#6")]
 [name="空"] 老板把那个讨厌的经理解决了，然后我就过来了。
 [Character(name="avg_103_angel_1#1$1")]
-[name="能天使"]老板，难道说......
+[name="能天使"]老板，难道说……
 [Character(name="char_105_emper")]
 [name="大帝"]没错，因为今天是个值得纪念的好日子，所以我决定举办派对！
 [Character(name="char_201_moeshd#2")]
@@ -762,12 +762,12 @@
 [Character(name="char_101_sora_1#1")]
 [name="空"] 这个好像还不错。
 [Character(name="avg_103_angel_1#8$1")]
-[name="能天使"]但是莫斯提马......
+[name="能天使"]但是莫斯提马……
 [Character(name="avg_213_mostma_1#5$1")]
 [name="莫斯提马"] 叫我吗？
 [Character(name="avg_103_angel_1#4$1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="能天使"]欸！你不是......
+[name="能天使"]欸！你不是……
 [Character(name="avg_213_mostma_1#10$1")]
 [name="莫斯提马"] 中途去了一趟洗手间而已。
 [Character(name="avg_213_mostma_1#10$1")]
@@ -853,7 +853,7 @@
 [Character(name="avg_213_mostma_1#10$1")]
 [name="莫斯提马"] 我来吧。
 [Character(name="avg_103_angel_1#9$1")]
-[name="能天使"]......
+[name="能天使"]……
 [Character(name="avg_103_angel_1#9$1")]
 [name="能天使"]（看，姐姐，这就是我现在拥有的生活了。）
 [Character(name="avg_103_angel_1#9$1")]

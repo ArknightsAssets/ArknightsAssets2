@@ -17,25 +17,25 @@
 [name="星极"]（揉眼睛）
 [Characteraction(name="middle",type="move",xpos=-2,fadetime=0.5,isblock=true)]
 [Characteraction(name="middle",type="move",xpos=2,fadetime=0.5,isblock=true)]
-[name="星极"]如果我没记错的话......
+[name="星极"]如果我没记错的话……
 [Dialog]
 [PlaySound(key="$d_avg_paper2", volume=1)]
 [Delay(time=0.5)]
 [Character(name="avg_274_Astesia_1#2")]
 [name="星极"]根据书上的记载，今晚星象会很稳定，星体也很明显。
-[name="星极"]但愿今晚能有所收获......吧......
+[name="星极"]但愿今晚能有所收获……吧……
 [name="星极"]（不经意地揉眼睛）
 [Characteraction(name="middle",type="move",xpos=-2,fadetime=0.5,isblock=true)]
 [Characteraction(name="middle",type="move",xpos=2,fadetime=0.5,isblock=true)]
 [name="星极"]近期的星象测算结果和占星研究协会公布的数据相差太多了。
-[name="星极"]父亲他......一定对这件事很不满意。
+[name="星极"]父亲他……一定对这件事很不满意。
 [name="星极"]给父亲的回信还是再缓一段时间比较稳妥。
-[name="星极"]......
-[name="星极"]矿石病......矿石病......
+[name="星极"]……
+[name="星极"]矿石病……矿石病……
 [name="星极"]（不经意地揉眼角）
 [Characteraction(name="middle",type="move",xpos=-2,fadetime=0.5,isblock=true)]
 [Characteraction(name="middle",type="move",xpos=2,fadetime=0.5,isblock=true)]
-[name="星极"]唉......
+[name="星极"]唉……
 [Dialog]
 [PlaySound(key="$d_avg_paper2", volume=1)]
 [Delay(time=0.5)]
@@ -46,8 +46,8 @@
 [Characteraction(name="middle",type="move",xpos=-2,fadetime=0.5,isblock=true)]
 [Characteraction(name="middle",type="move",xpos=2,fadetime=0.5,isblock=true)]
 [Character(name="avg_274_Astesia_1#2")]
-[name="星极"]呵啊......
-[name="星极"]眼睛好痒......
+[name="星极"]呵啊……
+[name="星极"]眼睛好痒……
 [Dialog]
 [Character]
 [PlaySound(key="$dooropenquite", volume=1)]
@@ -63,9 +63,9 @@
 [Character(name="avg_135_halo_1#7$1",name2="avg_274_Astesia_1#5",focus=1)]
 [name="星源"]眼睛里全是血丝，怎么还有血点？！
 [Character(name="avg_135_halo_1#7$1",name2="avg_274_Astesia_1#2",focus=2)]
-[name="星极"]很快就会好的......
+[name="星极"]很快就会好的……
 [Character(name="avg_135_halo_1#3$1",name2="avg_274_Astesia_1#2",focus=1)]
-[name="星源"]眼睑里还有肿块......
+[name="星源"]眼睑里还有肿块……
 [name="星源"]人的自愈能力可不包括修复这种损伤。
 [Character(name="avg_135_halo_1#9$1",name2="avg_274_Astesia_1#2",focus=1)]
 [name="星源"]我现在就带你去医疗部。
@@ -75,7 +75,7 @@
 [name="星源"]你就别管星星不星星的了。它们就算掉下来也不能治好你的眼睛。
 [name="星源"]跟我走。
 [Character(name="avg_135_halo_1#9$1",name2="avg_274_Astesia_1#5",focus=2)]
-[name="星极"]等，等等......
+[name="星极"]等，等等……
 [Dialog]
 [Character(name="avg_135_halo_1#9$1",name2="avg_274_Astesia_1#5")]
 [characteraction(name="left",type="move",xpos=150,fadetime=1.2,isblock=true)]
@@ -96,18 +96,18 @@
 [name="亚叶"]细菌感染，双眼急性化脓性炎症。
 [name="亚叶"]不是特别严重，现在安排手术切除后上药，很快就能康复。
 [Character(name="avg_274_Astesia_1#1",name2="char_345_folnic_1#1",focus=1)]
-[name="星极"]呼......
+[name="星极"]呼……
 [Character(name="avg_274_Astesia_1#1",name2="char_345_folnic_1#1",focus=2)]
 [name="亚叶"]手术后三十六小时不能视物，保险起见最好在医疗部留观。
 [Character(name="avg_274_Astesia_1#5",name2="char_345_folnic_1#1",focus=1)]
-[name="星极"]......
+[name="星极"]……
 [name="星极"]手术，可以延迟吗？
 [Character(name="avg_135_halo_1#9$1")]
 [name="星源"]医生，这件事我拿主意。
 [Character(name="char_345_folnic_1#1")]
 [name="亚叶"]家属和患者先得出一个结论吧。
 [Character(name="avg_274_Astesia_1#1",name2="avg_135_halo_1#9$1",focus=1)]
-[name="星极"]吉妮......
+[name="星极"]吉妮……
 [Character(name="avg_274_Astesia_1#1",name2="avg_135_halo_1#9$1",focus=2)]
 [name="星源"]这件事没得商量。
 [name="星源"]我了解你的理由，也明白这对你来说很重要。
@@ -116,13 +116,13 @@
 [name="星源"]这件事没得商量。
 [name="星源"]你知道我更关心什么。
 [Character(name="avg_274_Astesia_1#2",name2="avg_135_halo_1#11$1",focus=1)]
-[name="星极"]......
+[name="星极"]……
 [Character(name="avg_274_Astesia_1#2",name2="avg_135_halo_1#9$1",focus=2)]
 [name="星源"]我姐姐同意了，麻烦安排手术吧。
 [Character(name="char_345_folnic_1#1")]
 [name="亚叶"]星极干员，我需要你的口头确认。
 [Character(name="avg_274_Astesia_1#2")]
-[name="星极"]（小声）嗯......
+[name="星极"]（小声）嗯……
 [Character(name="char_345_folnic_1#1")]
 [name="亚叶"]家属先在这份告知书上签字。
 [Character(name="avg_135_halo_1#11$1")]
@@ -148,7 +148,7 @@
 [Delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]	
-[name="星极"]......
+[name="星极"]……
 [Character(name="char_345_folnic_1#1")]
 [name="亚叶"]手术本身没有什么难度，请放轻松。
 [name="亚叶"]根据手术前交流，我们会为你准备全身麻醉，没有问题吧。
@@ -164,19 +164,19 @@
 [Dialog]
 [Character]
 [name="星极"]一。
-[name="星极"]二......
+[name="星极"]二……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="星极"]......
+[name="星极"]……
 [Dialog]
 [Delay(time=3)]
 [playMusic(intro="$distressed_intro", key="$distressed_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 不知过了多久
 [Character(name="char_345_folnic_1#1")]
-[name="亚叶"]......
-[name="亚叶"]......说话吗？
+[name="亚叶"]……
+[name="亚叶"]……说话吗？
 [name="亚叶"]听到的话请动一下手指。
 [Dialog]
 [Character]
@@ -219,7 +219,7 @@
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [Delay(time=2)]
-[name="？"]我也不知道我会对这个美甲油过敏啊......好痒......
+[name="？"]我也不知道我会对这个美甲油过敏啊……好痒……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Delay(time=1.5)]
@@ -228,7 +228,7 @@
 她心中扬起了些许不安。
 如果在平日里，她或许能给这些受苦的人带去点安慰。
 可现在呢，她自己也是瘫倒床头的病患。
-[name="星极"]......
+[name="星极"]……
 病床在走廊上缓缓停下，调整方向，进入一间病房。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -242,16 +242,16 @@
 再次确认病患无恙后，他们匆匆离去。
 病房门被关上，医疗部的吵闹声瞬间离开了星极的脑袋。
 一片寂静。
-[name="星极"]吉妮......
+[name="星极"]吉妮……
 随着麻药药效褪去，她开口发声，呼唤自己的妹妹。
-[name="星极"]吉妮......你在吗......
+[name="星极"]吉妮……你在吗……
 无人回应。
 [name="星极"]有人吗？
 这片空间中，只有她的声响。
 一股无力感涌上心头。
 曾几何时，她是个为众人指引方向的星象学家。
 然而现在，她既不能为他人预示方向，也无法看清自己的前路。
-就从源石扎根于身体的那一刻开始......
+就从源石扎根于身体的那一刻开始……
 群星沉默不语。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -259,7 +259,7 @@
 [Background(image="bg_black",screenadapt="showall")]
 [Delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-......
+……
 [Dialog]
 [Character(name="avg_274_Astesia_1#2",fadetime=1.5)]
 [Delay(time=2)]
@@ -267,7 +267,7 @@
 她也还记得，父亲对于自己感染的态度。
 “隐含着喜悦的关切”。
 所以当他发现自己的女儿没能借助感染一跃成为更加优秀的占星术师，反而变得一事无成时，他毫不掩饰自己的失望。
-......
+……
 [Character(name="avg_274_Astesia_1#5")]
 或许，当自己躲在安全屋内担惊受怕，看着妹妹独自一人面对源石泄露的实验室时，星辰就已不愿眷顾这怯懦的人了。
 星空收起了垂怜，取而代之的，是源石的反光。
@@ -275,10 +275,10 @@
 [Dialog]
 [Character(fadetime=1.5)]
 [Delay(time=2.5)]
-[name="？？？"]（轻声）姐......
+[name="？？？"]（轻声）姐……
 [stopmusic(fadetime=1)]
 [name="？？？"]（轻声）你还好吗？
-[name="星极"]......吉妮？
+[name="星极"]……吉妮？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -292,12 +292,12 @@
 [name="星源"]嗯，我在呢。
 [name="星源"]医疗部这里办暂住手续太麻烦了，为了给你找个安静的单间和他们吵了好久。
 [Character(name="avg_135_halo_1#1$1",focus=-1)]
-[name="星极"]单间......你又乱花钱了。
+[name="星极"]单间……你又乱花钱了。
 [Character(name="avg_135_halo_1#10$1")]
 [name="星源"]也没有啦，只是稍微从设备费里匀了一些出来。
 [name="星源"]怎么了？手上全是汗。
 [Character(name="avg_135_halo_1#10$1",focus=-1)]
-[name="星极"]不......没事......
+[name="星极"]不……没事……
 [Character(name="avg_135_halo_1#1$1")]
 [name="星源"]眼睛舒服点了吗？
 [Character(name="avg_135_halo_1#1$1",focus=-1)]
@@ -307,7 +307,7 @@
 [Character(name="avg_135_halo_1#4$1")]
 [name="星源"]唉，你不是总喜欢叫我注意休息早睡早起，怎么自己还搞成这样。
 [Character(name="avg_135_halo_1#4$1",focus=-1)]
-[name="星极"]......
+[name="星极"]……
 [Character(name="avg_135_halo_1#4$1")]
 [name="星源"]还在想今晚观星的事吗？
 [Character(name="avg_135_halo_1#4$1",focus=-1)]
@@ -318,19 +318,19 @@
 [name="星极"]不会了，只是想想。
 [name="星极"]眼睛更重要，我听你的。
 [Character(name="avg_135_halo_1#3$1")]
-[name="星源"]唔......嗯，那就好。
+[name="星源"]唔……嗯，那就好。
 [name="星源"]就算你看了，父亲那儿也不会给你什么好反馈吧。
 [Character(name="avg_135_halo_1#3$1",focus=-1)]
 [name="星极"]你怎么——
 [Character(name="avg_135_halo_1#8$1")]
 [name="星源"]我看了你这几个月的观测记录和结论阐述，好像和协会的出入比较大。
 [Character(name="avg_135_halo_1#8$1",focus=-1)]
-[name="星极"]你......
+[name="星极"]你……
 [Character(name="avg_135_halo_1#4$1")]
 [name="星源"]我是在找你身份证件去办手续的时候瞥到了。
 [name="星源"]文件就放在桌上，也没遮掩起来嘛。
 [Character(name="avg_135_halo_1#4$1",focus=-1)]
-[name="星极"]自那以后我就再没能给父亲和协会提供正确的数据推断，他会斥责我也是理所应当的事......
+[name="星极"]自那以后我就再没能给父亲和协会提供正确的数据推断，他会斥责我也是理所应当的事……
 [Character(name="avg_135_halo_1#3$1")]
 [name="星源"]其实我根据你的数据结果推算了一遍。
 [name="星源"]姐姐你的结论一直都是对的。
@@ -361,9 +361,9 @@
 [Character(name="avg_135_halo_1#1$1")]
 [name="星源"]你也该明白父亲不总是对的了。不要他们质疑你就觉得自己错了，好吗？
 [Character(name="avg_135_halo_1#12$1")]
-[name="星源"]（小声）虽然我也没这个立场给别人说这种话......
+[name="星源"]（小声）虽然我也没这个立场给别人说这种话……
 [Character(name="avg_135_halo_1#1$1")]
-[name="星源"]咳嗯，总之，等你病好了，我来帮你解决它，要是有必要的话......一起回家应付父亲也不是不可以。怎么样？
+[name="星源"]咳嗯，总之，等你病好了，我来帮你解决它，要是有必要的话……一起回家应付父亲也不是不可以。怎么样？
 [Character(name="avg_135_halo_1#1$1",focus=-1)]
 [name="星极"]吉妮，让我握握你的手。
 [Character(name="avg_135_halo_1#10$1")]
@@ -478,7 +478,7 @@
 [name="星极"]虽然这么说很惭愧，但我妹妹切了太多水果，一个人吃不完。
 [Character(name="char_345_folnic_1#4")]
 [name="亚叶"]就寝时间快到了，你是今天最后的病患。
-[name="亚叶"]我可以......在这里待一刻钟。
+[name="亚叶"]我可以……在这里待一刻钟。
 [Dialog]
 [Character]
 [name="星极"]谢谢您，医生，我床旁应该有把椅子。
@@ -490,7 +490,7 @@
 [Character(name="char_345_folnic_1#4",focus=-1)]
 [name="星极"]不瞒您说，我们姐妹俩一直都喜欢吃这个。
 [Character(name="char_345_folnic_1#4")]
-[name="亚叶"]......
+[name="亚叶"]……
 [name="亚叶"]其实，我有一个疑问，可能会冒犯到你。
 [Character(name="char_345_folnic_1#4",focus=-1)]
 [name="星极"]您说吧。
@@ -506,7 +506,7 @@
 [name="星极"]在那时候，他们会希望通过一种自己所不了解的神通来驱散迷茫。这就是我认知中，学习这门技艺的意图。
 [name="星极"]您也会有迷茫的时候，不是吗，亚叶医生？
 [Character(name="char_345_folnic_1#4")]
-[name="亚叶"]......你不会理解的。
+[name="亚叶"]……你不会理解的。
 [Character(name="char_345_folnic_1#4",focus=-1)]
 [name="星极"]您知道吗，今晚夜空中最明亮的星座代表着乌萨斯。
 [Character(name="char_345_folnic_1#4")]
@@ -515,7 +515,7 @@
 [name="星极"]我确实无法理解您内心的痛苦，但通过非科学的手段，我还是可以知晓一些原委。
 [name="星极"]我无法宽慰您，对于您来说，那只是毫无意义的嘲弄。
 [Character(name="char_345_folnic_1#2")]
-[name="亚叶"]哈......
+[name="亚叶"]哈……
 [Character(name="char_345_folnic_1#1")]
 [name="亚叶"]如果你能从医的话，星极干员，你绝对是一位心理学大师。
 [Character(name="char_345_folnic_1#1",focus=-1)]
@@ -576,7 +576,7 @@
 [name="特米米"]你还好吗，看上去伤得很严重，是被谁打到眼睛流血了吗？
 [Dialog]
 [Character]
-[name="星极"]没有那么严重......只是感染了细菌，很快就能好。
+[name="星极"]没有那么严重……只是感染了细菌，很快就能好。
 [name="星极"]话说回来，能帮我看看床头有没有牙刷杯子毛巾之类的东西吗？
 [Character(name="char_411_tomimi_1#3")]
 [name="特米米"]有的。
@@ -588,7 +588,7 @@
 [name="星极"]那可能得麻烦你帮我拿一下——然后带我去卫生间了。
 [Character(name="char_411_tomimi_1#3")]
 [name="特米米"]没问题！
-[name="特米米"]慢慢走......
+[name="特米米"]慢慢走……
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -615,18 +615,18 @@
 [Character(name="char_411_tomimi_1#3")]
 [name="特米米"]还有还有，柏喙小姐也愿意教我怎么做衣服了，等我学会了，我就可以给所有人做好看的衣服了。
 [Character(name="char_411_tomimi_1#4")]
-[name="特米米"]......
+[name="特米米"]……
 [name="特米米"]星极姐姐，你怎么不说话呀？
 [Character(name="char_411_tomimi_1#4",focus=-1)]
 [name="星极"]（吐出漱口水）
-[name="星极"]呼......
+[name="星极"]呼……
 [name="星极"]我听着呢。
 [name="星极"]（洗毛巾）
 [name="星极"]你做得很好，特米米。
 [Character(name="char_411_tomimi_1#6")]
 [name="特米米"]嘿嘿，多亏了星极姐姐给我出的点子，最近感觉多了许多想做的和能做的事。
 [Character(name="char_411_tomimi_1#6",focus=-1)]
-[name="星极"]想做和能做的事吗......哼哼~
+[name="星极"]想做和能做的事吗……哼哼~
 [name="星极"]（仔细擦拭脸庞）
 [Character(name="char_411_tomimi_1#1")]
 [name="特米米"]但是，也是因为这些好事情聚在一起，反而碰上了一些麻烦。
@@ -638,7 +638,7 @@
 [name="特米米"]啊，好的。
 [Character(name="char_411_tomimi_1#1")]
 [name="特米米"]星极姐姐当心。
-[name="特米米"]注意脚下......
+[name="特米米"]注意脚下……
 [Dialog]
 [character]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -647,7 +647,7 @@
 [name="特米米"]到了。
 [Character(name="char_411_tomimi_1#3",focus=-1)]
 [name="星极"]嘿。
-[name="星极"]呼......
+[name="星极"]呼……
 [name="星极"]坐吧，特米米。
 [Character(name="char_411_tomimi_1#6")]
 [name="特米米"]我已经坐着了。
@@ -656,18 +656,18 @@
 [Character(name="char_411_tomimi_1#5")]
 [name="特米米"]是这样的。
 [name="特米米"]因为要想怎么照顾宝贝、要给嘉维尔帮忙、要去柏喙小姐那里做衣服，还有其他事情。
-[name="特米米"]最近觉得时间有些不够用了......
+[name="特米米"]最近觉得时间有些不够用了……
 [Character(name="char_411_tomimi_1#5",focus=-1)]
-[name="星极"]所以你是想......放弃什么吗？
+[name="星极"]所以你是想……放弃什么吗？
 [Character(name="char_411_tomimi_1#5")]
 [name="特米米"]我确实是有考虑过，可能是自己喜欢的太多了，待在罗德岛也有许多兴趣以外必须要做的事情。
-[name="特米米"]可能是，可以，把一些好玩的事延后的......
+[name="特米米"]可能是，可以，把一些好玩的事延后的……
 [Character(name="char_411_tomimi_1#5",focus=-1)]
 [name="星极"]会不甘心吧。
 [Character(name="char_411_tomimi_1#2")]
 [name="特米米"]是这样的，星极姐姐，就是这样的！
 [Character(name="char_411_tomimi_1#4")]
-[name="特米米"]但怎么做才能都顾上，我也没什么头绪......
+[name="特米米"]但怎么做才能都顾上，我也没什么头绪……
 [Character(name="char_411_tomimi_1#4",focus=-1)]
 [name="星极"]想要兼顾是人之常情，有些机会错过了就不会回来，没有什么好自责的。
 [Character(name="char_411_tomimi_1#6")]
@@ -684,7 +684,7 @@
 [name="星极"]那需要自己的意志，以及千百倍的努力。
 [name="星极"]不过我想，你是能做到的，对吧？
 [Character(name="char_411_tomimi_1#3")]
-[name="特米米"]嗯......嗯！
+[name="特米米"]嗯……嗯！
 [Character(name="char_411_tomimi_1#3",focus=-1)]
 [name="星极"]明天下午你会去书摊吗？
 [Character(name="char_411_tomimi_1#1")]
@@ -710,21 +710,21 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(name="avg_135_halo_1#7$1",fadetime=1)]
 [Delay(time=2)]
-[name="星源"]哈啊......刚刚那是姐姐你的朋友吗？
+[name="星源"]哈啊……刚刚那是姐姐你的朋友吗？
 [Character(name="avg_135_halo_1#7$1",focus=-1)]
 [name="星极"]嗯。
 [Character(name="avg_135_halo_1#10$1")]
-[name="星源"]嗯......
+[name="星源"]嗯……
 [name="星源"]脸都洗完了？
 [Character(name="avg_135_halo_1#10$1",focus=-1)]
 [name="星极"]嗯~
 [Character(name="avg_135_halo_1#4$1")]
-[name="星源"]你应该看不见吧......
+[name="星源"]你应该看不见吧……
 [Character(name="avg_135_halo_1#4$1",focus=-1)]
 [name="星极"]有人做我的眼睛。
 [Character(name="avg_135_halo_1#1$1")]
 [name="星源"]也是，明明只过了一天，来探视你的人都要在门口排队了。
-[name="星源"]哼......
+[name="星源"]哼……
 [Dialog]
 [Delay(time=0.5)]
 [Character(name="avg_135_halo_1#2$1")]
@@ -739,7 +739,7 @@
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]	
-......
+……
 今晚的太阳已然落下，辛劳了一天的星源在姐姐身旁睡去。
 星极则在即将迎来光明的期待中，安然享受黑暗带来的宁静。
 [Dialog]
@@ -753,7 +753,7 @@
 [PlaySound(key="$dooropenquite", volume=1)]
 [Character(name="char_345_folnic_1#1",fadetime=1)]
 [Delay(time=2)]	
-[name="亚叶"]星......
+[name="亚叶"]星……
 [Dialog]
 [Delay(time=0.5)]
 [name="亚叶"]（轻声）眼睛没有异样吧，星极干员。
@@ -781,8 +781,8 @@
 [Character(name="avg_274_Astesia_1#7",name2="char_345_folnic_1#1",focus=1)]
 [name="星极"]（轻声）谢谢。
 [Character(name="avg_274_Astesia_1#7",name2="char_345_folnic_1#4",focus=2)]
-[name="亚叶"]（轻声）......过两天，周末休假的时候，如果有时间，我想和你聊一下。
-[name="亚叶"]（轻声）......我可能需要一个心理医生。
+[name="亚叶"]（轻声）……过两天，周末休假的时候，如果有时间，我想和你聊一下。
+[name="亚叶"]（轻声）……我可能需要一个心理医生。
 [Character(name="avg_274_Astesia_1#7",name2="char_345_folnic_1#4",focus=1)]
 [name="星极"]（轻声）随时欢迎，晚安，亚叶医生。
 [Character(name="avg_274_Astesia_1#7",name2="char_345_folnic_1#1",focus=2)]

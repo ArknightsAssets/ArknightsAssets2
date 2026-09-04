@@ -35,14 +35,14 @@
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#1$1",focus=1)]
 [name="莫兰"]好，我会注意的。
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#1$1",focus=2)]
-[name="苇草"]......凯莉睡着了？
+[name="苇草"]……凯莉睡着了？
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#1$1",focus=1)]
 [name="莫兰"]是，应该只是睡了，不是昏迷，我能感觉到她的呼吸还很平稳。睡着能让她少受一些痛苦。
 [Character(name="avg_npc_728_1#3$1",name2="avg_1020_reed2_1#1$1",focus=1)]
-[name="莫兰"]......但我还是怕，再不停下来处理凯莉的伤势的话，她撑不过去。
+[name="莫兰"]……但我还是怕，再不停下来处理凯莉的伤势的话，她撑不过去。
 [Character(name="avg_npc_728_1#3$1",name2="avg_1020_reed2_1#12$1",focus=2)]
 [name="苇草"]嗯。
-[name="苇草"]......你们，失望吗？
+[name="苇草"]……你们，失望吗？
 [Character(name="avg_npc_728_1#6$1",name2="avg_1020_reed2_1#12$1",focus=1)]
 [name="莫兰"]不会的。你不是说过了吗？我们现在不得不和一些深池士兵战斗，是因为他们不想要第二位“领袖”。
 [name="莫兰"]但他们还有更大的目标，不会一直追捕我们的。
@@ -50,7 +50,7 @@
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#12$1",focus=1)]
 [name="莫兰"]不过在那之后呢？你还没有告诉过我们你的想法。
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#12$1",focus=2)]
-[name="苇草"]......
+[name="苇草"]……
 [name="苇草"]我还没有把握，抱歉。
 [name="苇草"]对了，废墟深处，也许有源石晶簇少一些的地方，我想去看看，能不能找到一个暂时的藏身处。
 [Dialog]
@@ -60,19 +60,19 @@
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#9$1",focus=1)]
 [name="莫兰"]可那个方向，是不是有人在？
 [Character(name="avg_npc_728_1#3$1",name2="avg_1020_reed2_1#9$1",focus=1)]
-[name="莫兰"]虽然看上去只是普通人，可我们应该也要躲开。就像你之前说的一样，这种地方有人出没，太异常了，一定要小心......
+[name="莫兰"]虽然看上去只是普通人，可我们应该也要躲开。就像你之前说的一样，这种地方有人出没，太异常了，一定要小心……
 [Character(name="avg_npc_728_1#3$1",name2="avg_1020_reed2_1#6$1",focus=2)]
-[name="苇草"]......
+[name="苇草"]……
 [Character(name="avg_npc_728_1#3$1",name2="avg_1020_reed2_1#12$1",focus=2)]
-[name="苇草"]......不用。
+[name="苇草"]……不用。
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#12$1",focus=1)]
-[name="莫兰"]......你看起来很害怕。怎么了？
+[name="莫兰"]……你看起来很害怕。怎么了？
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#1$1",focus=2)]
 [name="苇草"]没关系，不用担心我。
 [Dialog]
 [Character(fadetime=0)]
 [Character(name="avg_1020_reed2_1#2$1")]
-[name="苇草"]（......她来过这里？在这附近？）
+[name="苇草"]（……她来过这里？在这附近？）
 [Character(name="avg_npc_242")]
 [name="塔拉流民"]哎，那边的人，走路的样子是不是有些奇怪？
 [Character(name="avg_1020_reed2_1#7$1")]
@@ -108,16 +108,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [PlaySound(key="$d_avg_walk_stage")]
-[name="苇草"]这里光线很暗，沿着石阶往下走的时候，小心裸露的碎晶簇......莫兰，你背着凯莉方便行动吗？
+[name="苇草"]这里光线很暗，沿着石阶往下走的时候，小心裸露的碎晶簇……莫兰，你背着凯莉方便行动吗？
 [name="莫兰"]我没问题。只要你的火一直燃着，我看得见东西。
 [name="苇草"]好。我们尽量往深处走，别发出太大声音。
 [Dialog]
 [delay(time=1)]
 [name="苇草"]——
-[name="莫兰"]这是......
+[name="莫兰"]这是……
 [Dialog]
 [Delay(time=0.7)]
-......盖尔王的王城？
+……盖尔王的王城？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -144,27 +144,27 @@
 [Character(name="avg_npc_242")]
 [name="塔拉流民"]这得是多久以前的东西了？五百年？一千年？
 [Character(name="avg_npc_728_1#1$1")]
-[name="莫兰"]嘘......不要把凯莉吵醒了。
+[name="莫兰"]嘘……不要把凯莉吵醒了。
 [Character(name="avg_npc_242")]
-[name="塔拉流民"]抱歉......我只是有点惊讶，不对，太惊讶了。
-[name="塔拉流民"]说真的，虽然我们年年演的戏目都会讲不同的盖尔王故事，我也知道我们是塔拉王国子民的后代，所以被叫做塔拉人......
+[name="塔拉流民"]抱歉……我只是有点惊讶，不对，太惊讶了。
+[name="塔拉流民"]说真的，虽然我们年年演的戏目都会讲不同的盖尔王故事，我也知道我们是塔拉王国子民的后代，所以被叫做塔拉人……
 [Character(name="avg_npc_728_1#1$1")]
-[name="莫兰"]......但以前没有人相信，这一切竟然真的存在。
+[name="莫兰"]……但以前没有人相信，这一切竟然真的存在。
 [Character(name="avg_npc_728_1#3$1")]
-[name="莫兰"]甚至还有传说里，熔融了所有塔拉战士的武器、颠覆了王朝命运的熔炉......
+[name="莫兰"]甚至还有传说里，熔融了所有塔拉战士的武器、颠覆了王朝命运的熔炉……
 [Character(name="avg_npc_728_1#1$1")]
-[name="莫兰"]......很久以前，我遇到过一个四处寻找吟游诗人的城里人。
+[name="莫兰"]……很久以前，我遇到过一个四处寻找吟游诗人的城里人。
 [name="莫兰"]他对我说过，传说虽然有许多是后人编造，但那些故事里，一定留下了历史的痕迹。
 [Dialog]
 [Character(fadetime=0)]
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#11$1",focus=1)]
 [name="莫兰"]苇草，你一定知道很多，是不是？
 [Character(name="avg_npc_728_1#1$1",name2="avg_1020_reed2_1#11$1",focus=2)]
-[name="苇草"]......
+[name="苇草"]……
 [Character(name="avg_npc_728_1#4$1",name2="avg_1020_reed2_1#11$1",focus=1)]
 [name="莫兰"]你不喜欢这里吗？我们进来后，你就一直不说话。
 [Character(name="avg_npc_728_1#4$1",name2="avg_1020_reed2_1#1$1",focus=2)]
-[name="苇草"]......或许是吧。
+[name="苇草"]……或许是吧。
 [name="苇草"]很小的时候，我就经常读着塔拉的传奇故事，直到入睡。
 [name="苇草"]为维多利亚王室写作的人也好，想要留存塔拉文明的人也好，他们总是写，“德拉克的天性是争斗”。
 [Dialog]
@@ -175,7 +175,7 @@
 [Character(name="avg_1020_reed2_1#13$1")]
 [name="苇草"]塔拉的历史，充满了这样的故事。德拉克的王城里，遍布阴谋与鲜血。
 [Character(name="avg_1020_reed2_1#2$1")]
-[name="苇草"]比起憧憬和幻想，我......害怕这里。
+[name="苇草"]比起憧憬和幻想，我……害怕这里。
 [Dialog]
 [Character(name="avg_1020_reed2_1#2$1",focus=-1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -186,7 +186,7 @@
 [delay(time=1.5)]
 [Character(name="avg_1020_reed2_1#1$1")]
 [delay(time=0.5)]
-[name="苇草"]......不过，天灾留下的晶簇，这里几乎看不见。
+[name="苇草"]……不过，天灾留下的晶簇，这里几乎看不见。
 [name="苇草"]在这里休息，应该是安全的。
 [Character(name="avg_npc_242")]
 [name="塔拉流民"]那就好。来，莫兰，我帮你把凯莉放下。
@@ -217,39 +217,39 @@
 [PlaySound(key="$d_avg_cloakmovement", volume=0.7)]
 [Delay(time=1.5)]
 [Character(name="avg_1020_reed2_1#6$1")]
-[name="苇草"]......
+[name="苇草"]……
 [Dialog]
 [Character]
 苇草听见轻微的响动。
 她收回了想要触摸眼前生锈设备的手。
 [Dialog]
 [Character(name="avg_1020_reed2_1#6$1")]
-[name="苇草"]它是......活着的？
+[name="苇草"]它是……活着的？
 [Dialog]
 [character(fadetime=0.5)]
 [Delay(time=1)]
 [charslot(slot = "middle", name = "avg_226_weed_1#7", afrom =0, ato = 0.8,duration =1, end = true)]
 [Delay(time=1)]
-[name="拉芙希妮"]它只不过是，谁都可以驱动的东西......有人把它重新点燃了，你为什么要觉得奇怪？
+[name="拉芙希妮"]它只不过是，谁都可以驱动的东西……有人把它重新点燃了，你为什么要觉得奇怪？
 [Character(name="avg_1020_reed2_1#1$1")]
-[name="苇草"]......嗯，她来过了，不奇怪。
+[name="苇草"]……嗯，她来过了，不奇怪。
 [Dialog]
 [character]
 透过孔隙，她看到了紫色的火焰。
 [Dialog]
 [charslot(slot="middle",name="avg_1020_reed2_1#7$1")]
-[name="苇草"]这里是曾经的王城，她一定会来......也一定会发出嘲笑声吧？传说中的君王，留下的东西，就只是这些而已。
+[name="苇草"]这里是曾经的王城，她一定会来……也一定会发出嘲笑声吧？传说中的君王，留下的东西，就只是这些而已。
 [name="苇草"]这里燃起了她的火焰，所以附近才会有那么多不得安息的死者。
 [name="苇草"]那只是，在附近迷路渴死的流浪者，无缘无故地被死亡的火焰唤起。
 [charslot(slot = "middle", name = "avg_226_weed_1#1", afrom =0, ato = 0.8,duration =0, end = true)]
-[name="拉芙希妮"]不......别靠近。
+[name="拉芙希妮"]不……别靠近。
 [name="拉芙希妮"]你也害怕那簇火吧？
 [charslot(slot="middle",name="avg_1020_reed2_1#2$1")]
-[name="苇草"]......
+[name="苇草"]……
 [charslot(slot = "middle", name = "avg_226_weed_1#1", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="拉芙希妮"]我看得到，你想熄灭它。
 [charslot(slot="middle",name="avg_1020_reed2_1#2$1")]
-[name="苇草"]......嗯，它会给许多人带去痛苦。
+[name="苇草"]……嗯，它会给许多人带去痛苦。
 [charslot(slot = "middle", name = "avg_226_weed_1#1", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="拉芙希妮"]可你真要这么做的话，我不会让你过去。
 [name="拉芙希妮"]她点燃了深池的火。你知道，你没办法再燃起同样的火焰。
@@ -257,7 +257,7 @@
 [charslot(slot = "middle", name = "avg_226_weed_1#7", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="拉芙希妮"]这些，你做不到。
 [charslot(slot="middle",name="avg_1020_reed2_1#1$1")]
-[name="苇草"]不......我做得到。
+[name="苇草"]不……我做得到。
 [charslot(slot="middle",name="avg_1020_reed2_1#7$1")]
 [name="苇草"]我不信，那些牺牲都是必要的，也绝不会相信，塔拉人要得救，只有她的那一种方法可行。
 [charslot(slot = "middle", name = "avg_226_weed_1#1", afrom =0, ato = 0.8,duration =0, end = true)]
@@ -273,22 +273,22 @@
 [charslot(slot = "middle", name = "avg_226_weed_1#1", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="拉芙希妮"]而你，你终究没有伸手拉起任何人。
 [charslot(slot="middle",name="avg_1020_reed2_1#2$1")]
-[name="苇草"]......
+[name="苇草"]……
 [charslot(slot="middle",name="avg_1020_reed2_1#12$1")]
 [name="苇草"]嗯，如果我能够向她伸出手，也许，事情会变得不一样。
-[name="苇草"]如果她真的得救，那她本该知道，除了像那天的纵火者那样，拥有为非作歹的权力......她还有许多路可以走。
+[name="苇草"]如果她真的得救，那她本该知道，除了像那天的纵火者那样，拥有为非作歹的权力……她还有许多路可以走。
 [charslot(slot = "middle", name = "avg_226_weed_1#1", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="拉芙希妮"]可实际上，你连自己的力量都害怕，只能让别人来操纵它。
-[name="拉芙希妮"]......所以，连姐姐都对你失望了，更不用说其他人。
+[name="拉芙希妮"]……所以，连姐姐都对你失望了，更不用说其他人。
 [charslot(slot="middle",name="avg_1020_reed2_1#7$1")]
-[name="苇草"]......不，你这么说，不对。你说的都是已经过去的事。
+[name="苇草"]……不，你这么说，不对。你说的都是已经过去的事。
 [charslot(slot="middle",name="avg_1020_reed2_1#1$1")]
 [name="苇草"]现在的我，已经握住过他人的手了。
 [name="苇草"]我不能说，是我拉起了他们，但他们想要前行的话，我的火，可以烧出道路。哪怕那条路，是他们牵着我走。
-[name="苇草"]她......如果她能看到这一切，她不会失望的。
+[name="苇草"]她……如果她能看到这一切，她不会失望的。
 [charslot(slot = "middle", name = "avg_226_weed_1#1", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="“领袖”"]你只是，偶然有了同伴。
-[name="“领袖”"]在他们面前，你表现得能战斗、演说、号召大家......你假装自己有力。
+[name="“领袖”"]在他们面前，你表现得能战斗、演说、号召大家……你假装自己有力。
 [name="“领袖”"]可你其实只是在模仿她。
 [name="“领袖”"]你只能，成为她的影子。任何手段，她都可以用到极致，而你比她，多出来太多犹豫和软弱。
 [Dialog]
@@ -318,19 +318,19 @@
 [Delay(time=1)]
 [Dialog]
 [charslot(slot="middle",name="avg_1020_reed2_1#1$1")]
-[name="苇草"]......我不后悔。
+[name="苇草"]……我不后悔。
 [name="苇草"]过去，我一直觉得她是对的。
-[name="苇草"]“为了最终建成塔拉人理想的国度，我们的生命都可以作为燃料，投入火中......”
+[name="苇草"]“为了最终建成塔拉人理想的国度，我们的生命都可以作为燃料，投入火中……”
 [name="苇草"]在她身边，我一直是这么说的。
 [charslot(slot="middle",name="avg_1020_reed2_1#2$1")]
-[name="苇草"]......可燃料烧尽之后，她的国度里，还剩下谁？
-[name="苇草"]我犹豫过，反思过，逃避过......
+[name="苇草"]……可燃料烧尽之后，她的国度里，还剩下谁？
+[name="苇草"]我犹豫过，反思过，逃避过……
 [charslot(slot="middle",name="avg_1020_reed2_1#7$1")]
 [name="苇草"]我不后悔。
 [name="苇草"]我逃到了这里，见过了她看不到的人与事。我想说的，一定与她不同。
 [name="苇草"]所以，我也不会再害怕想起她。
 [charslot(slot="middle",name="avg_1020_reed2_1#4$1")]
-[name="苇草"]我绝不会......困在自己的影子里！
+[name="苇草"]我绝不会……困在自己的影子里！
 [charslot(slot = "middle", name = "avg_226_weed_1#7", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="“领袖”"]认出这座王城时，你不是正在害怕吗？
 [name="“领袖”"]我想，你无法回答你的“同伴”你们将去哪里，但心里早已备好答案。
@@ -355,16 +355,16 @@
 苇草想起那场大火里走向她们的死者。
 [Dialog]
 [Character(name="avg_226_weed_1#2")]
-[name="拉芙希妮"]......快停下......
+[name="拉芙希妮"]……快停下……
 [Dialog]
 [character]
 他们伤痕累累，面目全非，眼中却仍然燃烧着渴望。
 他们完成了对维多利亚军官的复仇，走向为他们燃起火焰的人。
 [Dialog]
 [Character(name="avg_226_weed_1#2")]
-[name="拉芙希妮"]不要再向前走了......
+[name="拉芙希妮"]不要再向前走了……
 [Character(name="avg_226_weed_1#1")]
-[name="拉芙希妮"]你们应该......得到安息！
+[name="拉芙希妮"]你们应该……得到安息！
 [Dialog]
 [character]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -381,8 +381,8 @@
 [Dialog]
 [delay(time=0.5)]
 [Character(name="avg_226_weed_1#2")]
-[name="拉芙希妮"]......对不起，姐姐。对不起......
-[name="拉芙希妮"]我，不是有意破坏你的法术......
+[name="拉芙希妮"]……对不起，姐姐。对不起……
+[name="拉芙希妮"]我，不是有意破坏你的法术……
 [Dialog]
 [Character(fadetime=0)]
 [Character(name="avg_npc_722_1#1$1",fadetime=0.7,block=true)]

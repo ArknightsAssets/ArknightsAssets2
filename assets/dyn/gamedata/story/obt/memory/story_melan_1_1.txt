@@ -31,7 +31,7 @@
 [Character(name="avg_npc_012",fadetime=1,block=true)]
 [delay(time=1)]
 [name="后勤干员"]  这么晚了，怎么训练场的灯还亮着？
-[name="后勤干员"]  还有人在训练？呜哇......也太拼了。
+[name="后勤干员"]  还有人在训练？呜哇……也太拼了。
 [Dialog]
 [Character]
 [Character(name="char_208_melan_1",fadetime=1,block=true)]
@@ -39,24 +39,24 @@
 [Character(name="char_208_melan_1",name2="avg_npc_012",focus=2)]
 [name="后勤干员"]  啊，玫兰莎小姐，晚上好！今天也辛苦了！
 [Character(name="char_208_melan_1",name2="avg_npc_012",focus=1)]
-[name="玫兰莎"]  ......你好。
+[name="玫兰莎"]  ……你好。
 [Character(name="char_208_melan_1",name2="avg_npc_012",focus=2)]
 [name="后勤干员"]  是训练刚结束吗？都这个点了，最近预备小组训练结束得是不是越来越晚了？
 [name="后勤干员"]  大家有干劲是好事，但是也要多注意身体啊。
 [Character(name="char_208_melan_1#2",name2="avg_npc_012",focus=1)]
-[name="玫兰莎"]  啊，呃，谢谢......
+[name="玫兰莎"]  啊，呃，谢谢……
 [Character(name="char_208_melan_1#4",name2="avg_npc_012",focus=1)]
 [name="玫兰莎"]  没关系的，法伦教官在帮我控制训练量，不会有事的。
 [Character(name="char_208_melan_1#4",name2="avg_npc_012",focus=2)]
 [name="后勤干员"]  这样啊。对了，玫兰莎小姐吃晚饭了吗？
 [Character(name="char_208_melan_1",name2="avg_npc_012",focus=1)]
-[name="玫兰莎"]  还没有......但是没有关系，请不用担心我......
+[name="玫兰莎"]  还没有……但是没有关系，请不用担心我……
 [Character(name="char_208_melan_1",name2="avg_npc_012",focus=2)]
 [name="后勤干员"]  别这么说嘛，一日三餐可是头等大事！
 [name="后勤干员"]  有点麻烦了，这个点食堂可能已经没剩什么熟食，要想吃口热的，估计只能自己做点。
 [name="后勤干员"]  玫兰莎小姐会做吗？啊，要不然我来帮忙吧？
 [Character(name="char_208_melan_1#2",name2="avg_npc_012",focus=1)]
-[name="玫兰莎"]  我......
+[name="玫兰莎"]  我……
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [Dialog]
@@ -78,7 +78,7 @@
 [Character(name="avg_npc_012",name2="char_130_doberm_ex",focus=2)]
 [name="杜宾"]  提醒一下，宾斯刚刚还在找你。
 [Character(name="avg_npc_012",name2="char_130_doberm_ex#3",focus=1)]
-[name="后勤干员"]  呃！我还有工作要做，就不打扰几位了，我这就走......！
+[name="后勤干员"]  呃！我还有工作要做，就不打扰几位了，我这就走……！
 [Character(name="avg_npc_012")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="后勤干员"]  求求各位千万别和主任提起我来过！
@@ -87,13 +87,13 @@
 [Character(fadetime=1,block=true)]
 [Delay(time=2)]
 [Character(name="char_130_doberm_ex#4")]
-[name="杜宾"]  ......
+[name="杜宾"]  ……
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#4",focus=1)]
 [name="芙兰卡"]  哈哈哈哈，你们罗德岛的人还是这么有意思。
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#4",focus=2)]
-[name="杜宾"]  丢人，这家伙还是老样子......见笑了。
+[name="杜宾"]  丢人，这家伙还是老样子……见笑了。
 [Character(name="char_208_melan_1",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]  玫兰莎，科林没做什么没礼貌的事吧？他这个人不坏，就是油嘴滑舌了点......如果觉得烦，就别理他。
+[name="杜宾"]  玫兰莎，科林没做什么没礼貌的事吧？他这个人不坏，就是油嘴滑舌了点……如果觉得烦，就别理他。
 [Character(name="char_208_melan_1",name2="char_130_doberm_ex",focus=1)]
 [name="玫兰莎"]  不、不会，科林先生很亲切。
 [Character(name="char_208_melan_1",name2="char_130_doberm_ex",focus=2)]
@@ -103,7 +103,7 @@
 [Character(name="char_208_melan_1#4",name2="char_106_franka_1",focus=1)]
 [name="玫兰莎"]  哎，哎？
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#4",focus=2)]
-[name="杜宾"]  ......你别这么笑。
+[name="杜宾"]  ……你别这么笑。
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=1)]
 [name="芙兰卡"]  嗯？
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#3",focus=2)]
@@ -113,9 +113,9 @@
 [Character(name="char_208_melan_1",name2="char_106_franka_1",focus=2)]
 [name="芙兰卡"]  教官小姐真严格，是不是？小玫，她平时也是这么管着你们的？
 [Character(name="char_208_melan_1#2",name2="char_106_franka_1",focus=1)]
-[name="玫兰莎"]  小、小玫？这个......不是的，杜宾教官人很好。
+[name="玫兰莎"]  小、小玫？这个……不是的，杜宾教官人很好。
 [Character(name="char_208_melan_1#4",name2="char_106_franka_1",focus=1)]
-[name="玫兰莎"]  虽然严格，但都是为了我们着想......
+[name="玫兰莎"]  虽然严格，但都是为了我们着想……
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=1)]
 [name="芙兰卡"]  你听听，在夸你呢。这不是人望很不错嘛，你现在是不是在心里偷着乐？
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#4",focus=2)]
@@ -130,7 +130,7 @@
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=1)]
 [name="芙兰卡"]  问问又不亏，万一说了呢？
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#4",focus=2)]
-[name="杜宾"]  ......
+[name="杜宾"]  ……
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#4",focus=1)]
 [name="芙兰卡"]  放心啦，我只是好奇。对于黑钢这样规模的组织来说，罗德岛就算再多培养几支预备队伍，也完全不算是什么威胁。
 [name="芙兰卡"]  毕竟比起外部的合作方，大家都更倾向于培养属于自己的班底嘛，我懂我懂。
@@ -138,28 +138,28 @@
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=2)]
 [name="杜宾"]  嗯？
 [Character(name="char_208_melan_1",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]  ......玫兰莎，怎么了，你有什么想说的吗？
+[name="杜宾"]  ……玫兰莎，怎么了，你有什么想说的吗？
 [Character(name="char_208_melan_1#3",name2="char_130_doberm_ex",focus=1)]
-[name="玫兰莎"]  那个，教官......
-[name="玫兰莎"]  我......
+[name="玫兰莎"]  那个，教官……
+[name="玫兰莎"]  我……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
 [Background(image="bg_canteen",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="char_208_melan_1#2")]
-[name="玫兰莎"]  连面包都已经没有了吗......？
+[name="玫兰莎"]  连面包都已经没有了吗……？
 [Character(name="char_208_melan_1#3")]
 [name="玫兰莎"]  （今天果然是有一点太晚了吧，也没办法。）
 [Character(name="char_208_melan_1")]
-[name="玫兰莎"]  （工作人员都不在，也不能因为这种事情就去麻烦别人......算了，今晚就先忍一忍，回去早点睡吧。）
+[name="玫兰莎"]  （工作人员都不在，也不能因为这种事情就去麻烦别人……算了，今晚就先忍一忍，回去早点睡吧。）
 [Dialog]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=20, randomness=30, fadeout=true, block=false)]
 [Character(name="char_208_melan_1#2")]
 [delay(time=1)]
 [Character(name="char_208_melan_1#4")]
 [characteraction(name="middle", type="move", xpos=200, ypos=0,fadetime=4, block=false)]
-[name="玫兰莎"]  唉......
+[name="玫兰莎"]  唉……
 [delay(time=0.6)]
 [Character(name="char_empty", name2="char_208_melan_1#4")]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -178,7 +178,7 @@
 [name="卡缇"]  哇！！
 [name="卡缇"]  哇哇哇，什么，怎么了！？吓我一跳！
 [Character(name="char_209_ardign", name2="char_208_melan_1", focus=2)]
-[name="玫兰莎"]  呃......啊，梅莉，是你啊。
+[name="玫兰莎"]  呃……啊，梅莉，是你啊。
 [Character(name="char_209_ardign", name2="char_208_melan_1", focus=1)]
 [name="卡缇"]  欸嘿嘿，是我哦~
 [name="卡缇"]  玫兰莎在这里干什么呢？晚餐供应的时间已经结束了哦？
@@ -189,11 +189,11 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="卡缇"]  ——啊！！完蛋了，史都华德还说要保密来着！
 [Character(name="char_209_ardign", name2="char_208_melan_1#3", focus=2)]
-[name="玫兰莎"]  ......
+[name="玫兰莎"]  ……
 [Character(name="char_209_ardign", name2="char_208_melan_1#3", focus=1)]
 [name="卡缇"]  哎呀算了说都说出来了，这种高兴的事情根本藏不住嘛！所以是真的吗？如果是真的就好了！
 [Character(name="char_209_ardign", name2="char_208_melan_1#3", focus=2)]
-[name="玫兰莎"]  我......梅莉，你觉得我真的可以吗？
+[name="玫兰莎"]  我……梅莉，你觉得我真的可以吗？
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -203,33 +203,33 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.4)]
 [Character(name="char_208_melan_1#3")]
-[name="玫兰莎"]  教官，我认为......我不能胜任A4预备小队队长这个职位。
+[name="玫兰莎"]  教官，我认为……我不能胜任A4预备小队队长这个职位。
 [Character(name="char_208_melan_1#4")]
-[name="玫兰莎"]  非常抱歉......
+[name="玫兰莎"]  非常抱歉……
 [Character(name="char_208_melan_1")]
 [name="玫兰莎"]  请法伦老师和教官重新，重新考虑人选。
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=1)]
 [name="芙兰卡"]  嚯哟，这我没想到。
 [name="芙兰卡"]  这丫头说自己不行。怎么样，你觉得呢？
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#3",focus=2)]
-[name="杜宾"]  ......
+[name="杜宾"]  ……
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#3",focus=1)]
 [name="芙兰卡"]  别不说话啊，你们正经人都这么闷的吗？
 [Character(name="char_208_melan_1",name2="char_106_franka_1",focus=2)]
 [name="芙兰卡"]  哎，小玫，那你认为谁适合当你们的小队长？
 [Character(name="char_208_melan_1#3",name2="char_106_franka_1",focus=1)]
-[name="玫兰莎"]  ......相比起我，史都华德考虑事情更全面.
+[name="玫兰莎"]  ……相比起我，史都华德考虑事情更全面.
 [name="玫兰莎"]  之前的模拟战我们有三处失误，是史都华德在背后补全，才拿到了最后的好成绩，大家都很信赖他。
 [name="玫兰莎"]  安赛尔他总是关注我们的身体状况，常常大家还什么都没说，他就已经能判断出我们的状态，并且已经准备好对应的措施。
 [name="玫兰莎"]  安德切尔，呃，虽然我仍然还是不太懂他在想什么，但当我们需要火力时，安德切尔总能察觉每个队友的需要，从最合适的位置发起攻击。
-[name="玫兰莎"]  梅莉......卡缇她心思活泼，但也不缺谨慎，在战斗时她会留意保护小队里的其他成员，我们的队形很多时候都围绕卡缇展开。
+[name="玫兰莎"]  梅莉……卡缇她心思活泼，但也不缺谨慎，在战斗时她会留意保护小队里的其他成员，我们的队形很多时候都围绕卡缇展开。
 [Character(name="char_208_melan_1",name2="char_106_franka_1",focus=1)]
 [name="玫兰莎"]  我认为他们之中不论是谁，都会很适合担任队长！
 [Character(name="char_208_melan_1",name2="char_130_doberm_ex#4",focus=2)]
-[name="杜宾"]  ......
+[name="杜宾"]  ……
 [Character(name="char_208_melan_1",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]  你知道你现在说的这些，已经都是......
-[name="杜宾"]  ......算了。有些东西不该由我来提醒。
+[name="杜宾"]  你知道你现在说的这些，已经都是……
+[name="杜宾"]  ……算了。有些东西不该由我来提醒。
 [Character(name="char_208_melan_1",name2="char_130_doberm_ex#3",focus=2)]
 [name="杜宾"]  总之，我暂时不会收回任命，我们有自己的判断。
 [Character(name="char_208_melan_1#5",name2="char_130_doberm_ex#3",focus=1)]
@@ -242,7 +242,7 @@
 [Character(name="char_208_melan_1#5",name2="char_130_doberm_ex#3",focus=2)]
 [name="杜宾"]  干员玫兰莎，你为什么坚持要成为前线干员？
 [Character(name="char_208_melan_1#2",name2="char_130_doberm_ex#3",focus=1)]
-[name="玫兰莎"]  我......
+[name="玫兰莎"]  我……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Character]
@@ -255,7 +255,7 @@
 但会流血的战场不是。
 我为什么要走上战场？
 为什么要选择面对这样的风险，承受这样的重压？
-我想要的......
+我想要的……
 我想要的是什么？
 [stopmusic(fadetime=1)]
 [Dialog]
@@ -265,7 +265,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.4)]
 [Character(name="char_209_ardign", name2="char_208_melan_1#3", focus=2)]
-[name="玫兰莎"]  梅莉，我......我是不是不适合成为干员？
+[name="玫兰莎"]  梅莉，我……我是不是不适合成为干员？
 [Character(name="char_209_ardign", name2="char_208_melan_1#3", focus=1)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [PlaySound(key="$fightgeneral")] 
@@ -279,7 +279,7 @@
 [name="卡缇"]  现在重点不是桌子啦！！
 [name="卡缇"]  哪里不适合了，玫兰莎不要说自己不好！玫兰莎明明是最好最好的！
 [Character(name="char_209_ardign", name2="char_208_melan_1#3", focus=2)]
-[name="玫兰莎"]  别这样说，我没有你夸的这么好......
+[name="玫兰莎"]  别这样说，我没有你夸的这么好……
 [Character(name="char_209_ardign", name2="char_208_melan_1#3", focus=1)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="卡缇"]  哼哼！不许反驳！我宣布玫兰莎根本不了解自己，我比玫兰莎更了解玫兰莎！不许你说自己不好！
@@ -296,33 +296,33 @@
 [name="卡缇"]  啊，虽然最后一句是假的，但是玫兰莎超级超级好绝对是真的哦！
 [name="卡缇"]  还有什么要反驳的吗~
 [Character(name="char_209_ardign", name2="char_208_melan_1#4", focus=2)]
-[name="玫兰莎"]  ......
+[name="玫兰莎"]  ……
 [Character(name="char_209_ardign", name2="char_208_melan_1#4", focus=1)]
 [name="卡缇"]  没有就好！我们才没有人会觉得玫兰莎不适合当队长呢！
 [name="卡缇"]  但是，最重要的是，玫兰莎自己是怎么想的呢？
 [Character(name="char_209_ardign", name2="char_208_melan_1#2", focus=2)]
-[name="玫兰莎"]  我的想法......
+[name="玫兰莎"]  我的想法……
 [Dialog]
 [Character(name="char_208_melan_1#3")]
 我真的可以吗？
 我有这样的能力，能回应所有人的期盼吗？
 [Dialog]
 [Character(name="char_208_melan_1#4")]
-[name="玫兰莎"]  我、我可能不够好，可能还有很多地方需要学习......
+[name="玫兰莎"]  我、我可能不够好，可能还有很多地方需要学习……
 [Dialog]
-抛开其他人的想法，我自己......我自己是怎么想的？
+抛开其他人的想法，我自己……我自己是怎么想的？
 我想要的是什么？
 [Dialog]
 [Character(name="char_209_ardign", name2="char_208_melan_1#5", focus=2)]
-[name="玫兰莎"]  我想要有能力保护别人。而不是只能被爸爸妈妈保护，连和家人联络都做不到......
+[name="玫兰莎"]  我想要有能力保护别人。而不是只能被爸爸妈妈保护，连和家人联络都做不到……
 [name="玫兰莎"]  我会努力的！我希望自己能成为一个合格的队长，和大家一起努力。
 [Character(name="char_209_ardign", name2="char_208_melan_1#4", focus=2)]
-[name="玫兰莎"]  梅莉，我......可以吗？
+[name="玫兰莎"]  梅莉，我……可以吗？
 [Character(name="char_209_ardign", name2="char_208_melan_1#4", focus=1)]
 [name="卡缇"]  当然啦！
 [name="卡缇"]  我们不是一直都在一起加油吗！
 [Character(name="char_209_ardign", name2="char_208_melan_1#6", focus=2)]
-[name="玫兰莎"]  ......嗯，谢谢你，梅莉。
+[name="玫兰莎"]  ……嗯，谢谢你，梅莉。
 [Character(name="char_209_ardign", name2="char_208_melan_1#6", focus=1)]
 [name="卡缇"]  嗯嗯！
 [name="卡缇"]  嘿嘿，太好了，玫兰莎你终于笑了！
@@ -335,7 +335,7 @@
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Character(name="char_211_adnach_1#6",fadetime=1,block=true)]
 [delay(time=1)]
-[name="安德切尔"]  嗯......看样子应该是已经没问题了吧？
+[name="安德切尔"]  嗯……看样子应该是已经没问题了吧？
 [Character(name="char_211_adnach_1", name2="char_210_stward_1", focus=1)]
 [name="安德切尔"]  她们在冷冻箱里找到速冻食品了，她们开始加热速冻食品了！史都华德，现在该怎么做，我这些小点心还要送过去吗？
 [Character(name="char_211_adnach_1", name2="char_212_ansel_1", focus=2)]
@@ -345,11 +345,11 @@
 [Character(name="char_212_ansel_1", name2="char_210_stward_1#6", focus=2)]
 [name="史都华德"]  我还是头一次看到玫兰莎小姐笑得这么开心。
 [Character(name="char_211_adnach_1#3", name2="char_210_stward_1#6", focus=1)]
-[name="安德切尔"]  可是......
+[name="安德切尔"]  可是……
 [Character(name="char_211_adnach_1#3", name2="char_212_ansel_1", focus=2)]
 [name="安赛尔"]  史都华德说得对，现在出去也太不解风情了。
 [Character(name="char_211_adnach_1#3", name2="char_212_ansel_1", focus=1)]
-[name="安德切尔"]  可是，按照卡缇小姐那样的操作方式......
+[name="安德切尔"]  可是，按照卡缇小姐那样的操作方式……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character]
@@ -358,7 +358,7 @@
 [Character(name="char_209_ardign", name2="char_208_melan_1", focus=1)]
 [name="卡缇"]  呜哇！怎么回事，这个东西怎么不动啊？
 [Character(name="char_209_ardign", name2="char_208_melan_1#2", focus=2)]
-[name="玫兰莎"]  这个是......加热按钮吗？好像是接触不良，是不是不该这样转......
+[name="玫兰莎"]  这个是……加热按钮吗？好像是接触不良，是不是不该这样转……
 [Character(name="char_209_ardign", name2="char_208_melan_1#2", focus=1)]
 [name="卡缇"]  没问题没问题，我知道该怎么处理，大致上所有机器都是这样的！
 [Character(name="char_209_ardign")]
@@ -370,7 +370,7 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Character(name="char_211_adnach_1#3")]
-[name="安德切尔"]  ......她这样，加热装置会坏掉的。
+[name="安德切尔"]  ……她这样，加热装置会坏掉的。
 [Character(name="char_211_adnach_1#3", name2="char_210_stward_1#4", focus=2)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=60, fadeout=true, block=false)]
 [name="史都华德"]  这种事情拜托你下一次早点说！！
@@ -380,7 +380,7 @@
 [Character(name="char_211_adnach_1#6", name2="char_210_stward_1#6", focus=1)]
 [name="安德切尔"]  啊哈哈，来不及了，完蛋了。
 [Character(name="char_212_ansel_1")]
-[name="安赛尔"]  ......哎。你们闹归闹，不要受伤了啊。
+[name="安赛尔"]  ……哎。你们闹归闹，不要受伤了啊。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -388,11 +388,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="char_130_doberm_ex#4",fadetime=1,block=true)]
 [delay(time=1)]
-[name="杜宾"]  ......
+[name="杜宾"]  ……
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex#4",focus=1)]
 [name="芙兰卡"]  头痛？
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]  ......有一点。
+[name="杜宾"]  ……有一点。
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=1)]
 [name="芙兰卡"]  因为手下的小队又多了一笔毁坏厨房器具的账单？还是因为那个害羞的小队长？
 [Character(name="char_106_franka_1",name2="char_130_doberm_ex",focus=2)]

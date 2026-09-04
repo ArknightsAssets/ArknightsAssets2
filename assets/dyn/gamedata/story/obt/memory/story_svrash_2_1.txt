@@ -45,7 +45,7 @@
 [name="恩希欧迪斯"]  这也是瓦尔顿子爵虽然反感感染者，却同意了我向你们委托的理由之一。
 [name="恩希欧迪斯"]  他非常担心是自己过去的行为遭到了反噬，因此，他不惜用上一切手段。
 [dialog]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [Dialog]
 [Character]
@@ -54,7 +54,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2.5, block=true)]
 [Character(name="char_003_kalts_1#2",fadetime=1,block=true)]
 [delay(time=1.5)]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [Character(name="char_003_kalts_1",fadetime=1,block=true)]
 [name="凯尔希"]  塞克郡的领主，瓦尔顿子爵，他的女儿被一群感染者绑架，对方提出要子爵在二十日内交出十万镑的赎金，否则就撕票。
 [name="凯尔希"]  这位子爵希望我们能够找到他女儿的所在地，并进行营救。
@@ -77,7 +77,7 @@
 [dialog]
 [Predicate(references="2")]
 [Character(name="char_003_kalts_1")]
-[name="凯尔希"]  在我们需要的时刻恰好出现的蛋糕......我很难相信存在这样的巧合。
+[name="凯尔希"]  在我们需要的时刻恰好出现的蛋糕……我很难相信存在这样的巧合。
 [name="凯尔希"]  不过，我也承认，即使将恩希欧迪斯考虑在内，这份委托依然十分诱人。
 [dialog]
 [Predicate(references="3")]
@@ -90,7 +90,7 @@
 [name="凯尔希"]  事实上，应当避讳这一点的是他，而非我们，可他却没有避讳。
 [name="凯尔希"]  除了理解为对你的信任，我想不出别的解释。
 [dialog]
-[Decision(options="信任......;（耸肩）;你就别揶揄我了。",values="1;2;3")]
+[Decision(options="信任……;（耸肩）;你就别揶揄我了。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_003_kalts_1#4")]
 [name="凯尔希"]  你的谢拉格之旅确实赢得了他的“信任”，不是吗？
@@ -132,14 +132,14 @@
 [name="术师干员"]  然后这张，是我拍到的他们的首领。
 [dialog]
 [Character(name="avg_npc_088",name2="avg_172_svrash_1#4$1",focus=2)]
-[name="恩希欧迪斯"]  ......嗯？
+[name="恩希欧迪斯"]  ……嗯？
 [Character(name="avg_npc_088",name2="avg_172_svrash_1#4$1",focus=1)]
 [name="术师干员"]  怎么了？
 [Character(name="avg_npc_088",name2="avg_172_svrash_1#4$1",focus=2)]
-[name="恩希欧迪斯"]  ......原来如此，是这么一回事......吗？
+[name="恩希欧迪斯"]  ……原来如此，是这么一回事……吗？
 [dialog]
 [Character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]  ......博士，我有个不情之请。
+[name="恩希欧迪斯"]  ……博士，我有个不情之请。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -159,9 +159,9 @@
 [Character(name="avg_npc_008",name2="avg_npc_007",focus=1)]
 [name="？？？"]  人都要饿死了，还管畜生？
 [Character(name="avg_npc_008",name2="avg_npc_007",focus=2)]
-[name="感染者手下"]  ......唉。
+[name="感染者手下"]  ……唉。
 [Character(name="avg_npc_008",name2="avg_npc_007",focus=1)]
-[name="？？？"]  ......再忍一忍，等我们拿到这笔钱，就搞个新身份，然后去别的城市过好日子。
+[name="？？？"]  ……再忍一忍，等我们拿到这笔钱，就搞个新身份，然后去别的城市过好日子。
 [Character(name="avg_npc_008",name2="avg_npc_007",focus=2)]
 [name="感染者手下"]  我知道了。
 [Character(name="avg_npc_243")]
@@ -171,7 +171,7 @@
 [name="感染者哥哥"]  还有，我跟你说了，别离我们太近，急着想感染矿石病吗？滚远点。
 [Character(name="avg_npc_243",name2="avg_npc_008",focus=1)]
 [stopmusic(fadetime=1)]
-[name="贵族妹妹"]  嗯......
+[name="贵族妹妹"]  嗯……
 [dialog]
 [character]
 [Character(name="avg_172_svrash_1#1$1",fadetime=1,block=true)]
@@ -186,13 +186,13 @@
 [Character(name="avg_npc_007")]
 [name="感染者手下"]  我们不欢迎你，快滚，再不滚就别怪我动手了！
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=1)]
-[name="贵族妹妹"]  恩希欧迪斯哥哥......
+[name="贵族妹妹"]  恩希欧迪斯哥哥……
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  卡尔，不请我们进去吗？
 [Character(name="avg_npc_008",name2="avg_npc_007",focus=1)]
-[name="感染者哥哥"]  ......退下，让他过来。
+[name="感染者哥哥"]  ……退下，让他过来。
 [Character(name="avg_npc_008",name2="avg_npc_007",focus=2)]
-[name="感染者手下"]  可是......
+[name="感染者手下"]  可是……
 [Character(name="avg_npc_008",name2="avg_npc_007",focus=1)]
 [name="感染者哥哥"]  你打不过他的。
 [Character(name="avg_172_svrash_1#1$1")]
@@ -208,39 +208,39 @@
 [name="感染者哥哥"]  听好了，恩希欧迪斯，我没兴趣和你扯些贵族车轱辘话，我早就不玩那一套了。
 [name="感染者哥哥"]  我现在只关心，你是怎么找到这里的，你和这个莫名其妙的兜帽人，你们好像只有两个人，你们来干什么！
 [Character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]  ......我听说你死于感染者暴乱，看来那件事另有隐情。
+[name="恩希欧迪斯"]  ……我听说你死于感染者暴乱，看来那件事另有隐情。
 [Character(name="avg_npc_008")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="感染者哥哥"]  你听不懂我说话吗？！
 [Character(name="avg_172_svrash_1#9$1")]
 [name="恩希欧迪斯"]  只是有些好奇而已。
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#9$1",focus=1)]
-[name="贵族妹妹"]  恩希欧迪斯哥哥，如果是父亲请你来的......请你回去吧。
+[name="贵族妹妹"]  恩希欧迪斯哥哥，如果是父亲请你来的……请你回去吧。
 [name="贵族妹妹"]  我是不会跟你走的。
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=2)]
 [name="恩希欧迪斯"]  凯特，这起绑架，是你和卡尔共同策划的，对吗？
 [name="恩希欧迪斯"]  并且，如果我没猜错的话，提出这项建议的，不是卡尔，是你。
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=1)]
-[name="贵族妹妹"]  ......是的。
-[name="贵族妹妹"]  哥哥变成感染者后，这些年来过得非常不好，我一直在暗中想要帮助哥哥和他的朋友们，但是光靠我一个人做不到......
+[name="贵族妹妹"]  ……是的。
+[name="贵族妹妹"]  哥哥变成感染者后，这些年来过得非常不好，我一直在暗中想要帮助哥哥和他的朋友们，但是光靠我一个人做不到……
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=2)]
 [name="恩希欧迪斯"]  所以你提出让你哥哥绑架你，勒索你们的父亲。
 [name="恩希欧迪斯"]  瓦尔顿子爵那么宠爱你，他会伤心的。
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=1)]
-[name="贵族妹妹"]  我知道......我也不希望父亲难过，但是，把哥哥害成这样......
+[name="贵族妹妹"]  我知道……我也不希望父亲难过，但是，把哥哥害成这样……
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  住嘴，凯特！
 [Character(name="avg_npc_243")]
-[name="贵族妹妹"]  ......对不起，哥哥，我不该提的。
+[name="贵族妹妹"]  ……对不起，哥哥，我不该提的。
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  无论如何，恩希欧迪斯，如果你们是来当老不死的说客的，我建议你们直接滚。
 [name="感染者哥哥"]  如果你是想来带走凯特的，那最好问一问我的兄弟们。
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  不用紧张，二位，我虽然确实接受了你父亲的委托，但我现在是以个人的身份来到这里的。
 [name="恩希欧迪斯"]  这位则是我的朋友，叫他博士就好。
-[name="恩希欧迪斯"]  ......而我来，是为了帮助你。
+[name="恩希欧迪斯"]  ……而我来，是为了帮助你。
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  帮助，啊，帮助，施舍，俯视。不如还是用你最喜欢的词汇吧，应该是......交易，对，交易。
+[name="感染者哥哥"]  帮助，啊，帮助，施舍，俯视。不如还是用你最喜欢的词汇吧，应该是……交易，对，交易。
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  你可以按照你喜欢的方式理解。
 [Character(name="avg_npc_008")]
@@ -252,7 +252,7 @@
 [name="恩希欧迪斯"]  这要视我们接下来的交谈内容而定。
 [name="恩希欧迪斯"]  首先，我可以向你保证，这里接下来将发生的一切，瓦尔顿子爵不会知道。
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  啊......除了凯特以外，真是不知道有多久没人这么正经地跟我说话了。
+[name="感染者哥哥"]  啊……除了凯特以外，真是不知道有多久没人这么正经地跟我说话了。
 [name="感染者哥哥"]  即使这些话是从你嘴里说出来，我居然也会感到有些怀念。
 [name="感染者哥哥"]  首先，我感谢你愿意以你的方式尊重我，虽然我一点也没感到被尊重，恩希欧迪斯。
 [name="感染者哥哥"]  当你堂而皇之地走入这里，以你那种浑然天成的姿态和我说话时，我就已经知道，你帮不了我。
@@ -310,7 +310,7 @@
 [name="感染者哥哥"]  我的死讯货真价实，恩希欧迪斯。
 [name="感染者哥哥"]  名叫卡尔·开斯特的人，七年前就死了。
 [Character(name="avg_172_svrash_1#9$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  你看，你又露出了这种表情。
 [name="感染者哥哥"]  恩希欧迪斯，你以为，就算我拿到了赎金又能怎么样？
@@ -328,9 +328,9 @@
 [name="感染者哥哥"]  但是，他们至少有能力帮我，因为他们知道我和在这里拼命活下去的人是怎么回事。
 [name="感染者哥哥"]  而你不知道。
 [Character(name="avg_npc_243")]
-[name="贵族妹妹"]  哥哥......
+[name="贵族妹妹"]  哥哥……
 [Character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  所以说，恩希欧迪斯，你要么现在把我杀了，把凯特带回去找老不死的领赏。
 [name="感染者哥哥"]  要么，就请回吧，你把这一切告诉老不死的也没关系。有什么关系？
@@ -344,10 +344,10 @@
 [Background(image="bg_outcounty",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Character(name="avg_172_svrash_1#6$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [delay(time=0.51)]
 [dialog]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  博士，我有一个问题。
@@ -358,7 +358,7 @@
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  也就是说，我往常的表现在他面前并不管用。
 [Character(name="avg_172_svrash_1#4$1")]
-[name="恩希欧迪斯"]  ......嗯？
+[name="恩希欧迪斯"]  ……嗯？
 [delay(time=0.51)]
 [dialog]
 [character]
@@ -377,13 +377,13 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_172_svrash_1#4$1")]
-[name="恩希欧迪斯"]  那是......卡尔？
-[name="恩希欧迪斯"]  他一个人要去......那是城区的方向？
+[name="恩希欧迪斯"]  那是……卡尔？
+[name="恩希欧迪斯"]  他一个人要去……那是城区的方向？
 [dialog]
-[Decision(options="......跟上。;他的表情......",values="1;2")]
+[Decision(options="……跟上。;他的表情……",values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_172_svrash_1#8$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [stopmusic(fadetime=1)]
 [Dialog]
 [Character]
@@ -403,9 +403,9 @@
 [name="感染者哥哥"]  我找遍了所有地方才找到您这里，都说您是大善人，您就看我可怜，帮我这一次吧。
 [name="感染者哥哥"]  您看我身上有什么东西，您想要的，随便拿。
 [name="感染者哥哥"]  或者我在您这里打工行不行？我一定不会让别人看出我是感染者的！
-[name="感染者哥哥"]  求求您了......求求您了......行行好吧......
+[name="感染者哥哥"]  求求您了……求求您了……行行好吧……
 [Character(name="avg_npc_242")]
-[name="商人"]  ......行了行了，看你的穷酸样，身上哪有值钱的东西？
+[name="商人"]  ……行了行了，看你的穷酸样，身上哪有值钱的东西？
 [name="商人"]  进来吧，再让你嚎下去，我真怕卫兵等会儿就过来了。
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  谢谢您，谢谢您！
@@ -425,7 +425,7 @@
 [dialog]
 [CharacterCutin(widgetID="1",block=true)]
 [Character(name="avg_172_svrash_1#9$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [dialog]
 [Decision(options="意外吗？",values="1")]
 [Predicate(references="1")]
@@ -435,26 +435,26 @@
 [Character(name="avg_172_svrash_1#9$1")]
 [name="恩希欧迪斯"]  现在，我有些理解，为什么他说我无法帮助他。
 [Character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]  ......凯特，你打算跟我们到什么时候？
+[name="恩希欧迪斯"]  ……凯特，你打算跟我们到什么时候？
 [dialog]
 [character]
 [Character(name="avg_npc_243",fadetime=1,block=true)]
 [PlaySound(key="$d_gen_walk_n",volume=0.8)]
 [delay(time=1.5)]
-[name="贵族妹妹"]  对不起......
+[name="贵族妹妹"]  对不起……
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=2)]
 [name="恩希欧迪斯"]  你知道这些吗？
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=1)]
 [name="贵族妹妹"]  是的，我知道，但我什么都做不了。
 [name="贵族妹妹"]  如果我现在上去，哥哥只会让我滚。
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#6$1",focus=2)]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#6$1",focus=1)]
-[name="贵族妹妹"]  恩希欧迪斯哥哥，我知道这么说很无耻，但是，我......我想请您帮助哥哥！
+[name="贵族妹妹"]  恩希欧迪斯哥哥，我知道这么说很无耻，但是，我……我想请您帮助哥哥！
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=2)]
 [name="恩希欧迪斯"]  卡尔拒绝了我的帮助。
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=1)]
-[name="贵族妹妹"]  如果哥哥只是想要赎金的话，我不会冒险溜出来和您见面......我不想让他误会。
+[name="贵族妹妹"]  如果哥哥只是想要赎金的话，我不会冒险溜出来和您见面……我不想让他误会。
 [name="贵族妹妹"]  但是，您是值得依赖的人，我没有别的人可以依赖，只能拜托您了！
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#1$1",focus=2)]
 [name="恩希欧迪斯"]  我会尽我所能。
@@ -466,30 +466,30 @@
 [name="贵族妹妹"]  我是过了两年才偶然在贫民窟找到他。
 [name="贵族妹妹"]  他的脾气从过去的急躁变成了现在的暴躁，但他给我感觉最大的变化是——
 [name="贵族妹妹"]  他虽然活着，但是又好像没有在活着。
-[name="贵族妹妹"]  抱歉，我不知道该怎么形容......
+[name="贵族妹妹"]  抱歉，我不知道该怎么形容……
 [name="贵族妹妹"]  为了他的感染者朋友，他在贫民窟打了许多架，把自己打得遍体鳞伤，但他一点也不在乎。
 [name="贵族妹妹"]  像刚才那样，只要是为了别人，不管多么要他低声下气的事他都会去做。
 [name="贵族妹妹"]  但他唯独不在乎他自己。
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#5$1",focus=2)]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#5$1",focus=1)]
-[name="贵族妹妹"]  这一次的绑架也是，哥哥他其实......
+[name="贵族妹妹"]  这一次的绑架也是，哥哥他其实……
 [dialog]
 [Character(name="avg_npc_243",name2="avg_172_svrash_1#5$1",focus=-1)]
 [Decision(options="他从一开始，就没打算要赎金。;他想要用自己的命去做些什么，对吗？",values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_243")]
-[name="贵族妹妹"]  是的......
+[name="贵族妹妹"]  是的……
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  ......凯特？
+[name="感染者哥哥"]  ……凯特？
 [Character(name="avg_npc_243")]
-[name="贵族妹妹"]  啊，糟了，哥哥......
+[name="贵族妹妹"]  啊，糟了，哥哥……
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  还有恩希欧迪斯和兜帽人......你、你们都看到了？
+[name="感染者哥哥"]  还有恩希欧迪斯和兜帽人……你、你们都看到了？
 [Character(name="avg_npc_243",name2="avg_npc_008",focus=2)]
 [name="感染者哥哥"]  凯特，是你带他们来的吗？
 [Character(name="avg_npc_243",name2="avg_npc_008",focus=1)]
-[name="贵族妹妹"]  不是的，哥哥......
+[name="贵族妹妹"]  不是的，哥哥……
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  是我跟踪了你，卡尔。
 [Character(name="avg_npc_008")]
@@ -499,7 +499,7 @@
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  我说过，恩希欧迪斯，你帮不了我。
 [Character(name="avg_172_svrash_1#8$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  你就应该继续坐在你的云端俯视着一切，我这样可怜的存在不应该激起你的任何感想。
 [name="感染者哥哥"]  这样，我会好过一点，你也会好过一点。
@@ -509,27 +509,27 @@
 [Character(fadetime=0.6,block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_243")]
-[name="贵族妹妹"]  ......嗯。
+[name="贵族妹妹"]  ……嗯。
 [name="贵族妹妹"]  抱歉，恩希欧迪斯哥哥。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=0.6)]
 [Character(fadetime=1,block=true)]
 [Delay(time=2)]
 [Character(name="avg_172_svrash_1#9$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="char_013_riop")]
 [name="近卫干员"]  博士，我把你要的东西带来了。
 [dialog]
 [Decision(options="谢谢。",values="1")]
 [Predicate(references="1")]
 [Character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [dialog]
 [character]
 [Decision(options="你怎么看？",values="1")]
 [Predicate(references="1")]
 [Character(name="char_013_riop")]
-[name="近卫干员"]  ......
+[name="近卫干员"]  ……
 [delay(time=0.51)]
 [name="近卫干员"]  欸，博士，您是在问我吗？
 [dialog]
@@ -548,10 +548,10 @@
 [name="近卫干员"]  而这种手段带来的结果除了让他流落街头，还让他的父亲开始了对感染者进一步的压迫。
 [name="近卫干员"]  这一直是他的一个心结。
 [name="近卫干员"]  所以我想，他真正想做的事，是在拿到赎金之后了。
-[name="近卫干员"]  至于他具体会做什么......普通人的命都算不上什么贵重的东西，何况咱们感染者的命。
+[name="近卫干员"]  至于他具体会做什么……普通人的命都算不上什么贵重的东西，何况咱们感染者的命。
 [name="近卫干员"]  真要拿来用，无非是自杀，或者杀别人了。
 [Character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [dialog]
 [Decision(options="走吧。",values="1")]
 [Predicate(references="1")]
@@ -561,7 +561,7 @@
 [Decision(options="我认路。",values="1")]
 [Predicate(references="1")]
 [Character(name="avg_172_svrash_1#9$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  既然如此，看来我们要在这里先告别了。
 [name="恩希欧迪斯"]  有一点，我要向你表达歉意。
@@ -576,7 +576,7 @@
 [Decision(options="对我来说，很重要。;我会慎重挑选每一个合作伙伴。",values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]  ......那么，恐怕我也应该给出我的答案了。
+[name="恩希欧迪斯"]  ……那么，恐怕我也应该给出我的答案了。
 [dialog]
 [Decision(options="罗德岛会坚持罗德岛的做法。",values="1")]
 [Predicate(references="1")]
@@ -588,7 +588,7 @@
 [Decision(options="恩希欧迪斯，你用什么，换他的命？",values="1")]
 [Predicate(references="1")]
 [Character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2.5, block=true)]
@@ -600,14 +600,14 @@
 [Background(image="bg_desert_1",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  ......博士，老实说，我到现在都觉得不可思议，你居然是那个救助感染者的罗德岛的人。
+[name="感染者哥哥"]  ……博士，老实说，我到现在都觉得不可思议，你居然是那个救助感染者的罗德岛的人。
 [name="感染者哥哥"]  我一直以为你们只是个传说。
 [name="感染者哥哥"]  我更想不到的是，你们居然会和恩希欧迪斯走在一起。
 [dialog]
 [Decision(options="人生总是很奇妙。;莫名其妙就认识了。",values="1;2")]
 [Predicate(references="1")]
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  ......哈哈，是啊，人生总是很奇妙。
+[name="感染者哥哥"]  ……哈哈，是啊，人生总是很奇妙。
 [Predicate(references="2")]
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  恩希欧迪斯这人啊，我当年是真的讨厌他。
@@ -616,9 +616,9 @@
 [Predicate(references="1;2")]
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  别的不说，我愿意相信你，博士。
-[name="感染者哥哥"]  所以，要是等一会儿我出了什么事......凯特还有我这帮弟兄，就麻烦你照顾了。
+[name="感染者哥哥"]  所以，要是等一会儿我出了什么事……凯特还有我这帮弟兄，就麻烦你照顾了。
 [dialog]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [character]
 [Character(name="avg_172_svrash_1#1$1",fadetime=1,block=true)]
@@ -631,16 +631,16 @@
 [name="恩希欧迪斯"]  你难道真的以为，瓦尔顿子爵会冒着风险来到这样的荒郊野岭和你交易？
 [Character(name="avg_npc_008")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="感染者哥哥"]  ......你说什么？！
+[name="感染者哥哥"]  ……你说什么？！
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  子爵已经授权我作为他的代理人来和你交易。
 [Character(name="avg_npc_008")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="感染者哥哥"]  他......这可是他的亲生女儿，他怎么能，他怎么会，他怎么敢！
+[name="感染者哥哥"]  他……这可是他的亲生女儿，他怎么能，他怎么会，他怎么敢！
 [Character(name="avg_172_svrash_1#3$1")]
 [name="恩希欧迪斯"]  是你绑架了子爵的女儿，现在，你又有什么资格来评价子爵的决定？
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  好......好，好！太好了！
+[name="感染者哥哥"]  好……好，好！太好了！
 [name="感染者哥哥"]  既然这样，来人，把人质带上来！
 [dialog]
 [character]
@@ -648,7 +648,7 @@
 [delay(time=1)]
 [Character(name="avg_npc_243",fadetime=1,block=true)]
 [delay(time=1.5)]
-[name="贵族妹妹"]  哥......
+[name="贵族妹妹"]  哥……
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  一手交钱，一手交人。
 [name="感染者哥哥"]  你的人走到中间，把箱子放下之后，我们再放人。
@@ -678,7 +678,7 @@
 [name="感染者哥哥"]  去吧，凯特。
 [name="感染者哥哥"]  （低声）回你该回的地方。
 [Character(name="avg_npc_243")]
-[name="贵族妹妹"]  哥哥......呜......
+[name="贵族妹妹"]  哥哥……呜……
 [Dialog]
 [Character(name="char_empty", name2="avg_172_svrash_1#1$1")]
 [PlaySound(key="$rungeneral", volume=0.6)]
@@ -729,7 +729,7 @@
 [dialog]
 [character]
 [Character(name="avg_npc_088")]
-[name="术师干员"]  对一名子爵的卫兵出手会惹上许多麻烦......但是，难道我们就这么看着吗？
+[name="术师干员"]  对一名子爵的卫兵出手会惹上许多麻烦……但是，难道我们就这么看着吗？
 [dialog]
 [character]
 [Decision(options="确保他们的安全。",values="1")]
@@ -746,9 +746,9 @@
 [Character(name="avg_npc_008")]
 [name="感染者哥哥"]  钱得交到他们手上才行啊。而且，就他们这点水平，我怕真先让他们跑了，现在就是你押着他们上来威胁我了。
 [Character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]  交给他们......也就是说，你一开始就没打算活着离开这里，对吗？
+[name="恩希欧迪斯"]  交给他们……也就是说，你一开始就没打算活着离开这里，对吗？
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  ......
+[name="感染者哥哥"]  ……
 [name="感染者哥哥"]  活着？
 [name="感染者哥哥"]  怎么才算活着，恩希欧迪斯？
 [name="感染者哥哥"]  是心跳的时候算活着吗？
@@ -763,7 +763,7 @@
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  既然你拒绝了我的帮助，我只能选择以我的方式来解决问题。
 [Character(name="avg_npc_008")]
-[name="感染者哥哥"]  ......哈哈，说的也是，你就是这样的人。
+[name="感染者哥哥"]  ……哈哈，说的也是，你就是这样的人。
 [Character(name="avg_172_svrash_1#9$1")]
 [name="恩希欧迪斯"]  另外，有一点你可以放心，子爵已经知道了。
 [Character(name="avg_172_svrash_1#2$1")]
@@ -812,15 +812,15 @@
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=1)]
 [name="恩希欧迪斯"]  你醒了。
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=2)]
-[name="感染者哥哥"]  恩希欧迪斯，你，我为什么......
-[name="感染者哥哥"]  ......
+[name="感染者哥哥"]  恩希欧迪斯，你，我为什么……
+[name="感染者哥哥"]  ……
 [name="感染者哥哥"]  你为什么没有杀了我？是在可怜我吗？
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=1)]
 [name="恩希欧迪斯"]  卡尔，当你说我无法帮助你的时候，你实际上是在说，我不理解感染者的处境。
 [Character(name="avg_172_svrash_1#2$1",name2="avg_npc_008", focus=1)]
 [name="恩希欧迪斯"]  我必须承认，事实确实如此。
 [Character(name="avg_172_svrash_1#9$1",name2="avg_npc_008", focus=1)]
-[name="恩希欧迪斯"]  ......在我返回子爵身边时，博士问了我一个问题。
+[name="恩希欧迪斯"]  ……在我返回子爵身边时，博士问了我一个问题。
 [name="恩希欧迪斯"]  我用什么来换你的命？
 [name="恩希欧迪斯"]  我想了很久，我不希望用复仇、希望、未来之类的词语来回答这个问题。
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=1)]
@@ -834,18 +834,18 @@
 [name="恩希欧迪斯"]  接下来，他们会前往我在附近一座城市的分公司，在那里开始新的生活。
 [name="恩希欧迪斯"]  你也一样。当然，如果你有别的想法，我会尊重你的意见。
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=2)]
-[name="感染者哥哥"]  ......他们，没死？
+[name="感染者哥哥"]  ……他们，没死？
 [Character(name="avg_172_svrash_1#2$1",name2="avg_npc_008", focus=1)]
 [name="恩希欧迪斯"]  追捕他们的是我的人。
 [Character(name="avg_172_svrash_1#2$1",name2="avg_npc_008", focus=2)]
-[name="感染者哥哥"]  ......哈，哈哈......你这家伙，真的是，傲慢。
+[name="感染者哥哥"]  ……哈，哈哈……你这家伙，真的是，傲慢。
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=1)]
 [name="恩希欧迪斯"]  我不否认。
-[name="恩希欧迪斯"]  子爵方面你不用担心，只是你的妹妹......我很遗憾，你恐怕必须与她分开。
+[name="恩希欧迪斯"]  子爵方面你不用担心，只是你的妹妹……我很遗憾，你恐怕必须与她分开。
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=2)]
-[name="感染者哥哥"]  ......就算我不接受你的安排，我也不会去见她。
+[name="感染者哥哥"]  ……就算我不接受你的安排，我也不会去见她。
 [name="感染者哥哥"]  就这么忘了我这个哥哥最好。
-[name="感染者哥哥"]  总之，让我......想一想。
+[name="感染者哥哥"]  总之，让我……想一想。
 [Character(name="avg_172_svrash_1#1$1",name2="avg_npc_008", focus=1)]
 [name="恩希欧迪斯"]  现在开始，你有的是时间。
 [dialog]
@@ -860,7 +860,7 @@
 [Character(name="avg_172_svrash_1#1$1",fadetime=1,block=true)]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [delay(time=2)]
-[name="恩希欧迪斯"]  ......博士。
+[name="恩希欧迪斯"]  ……博士。
 [dialog]
 [Decision(options="我配合得还不错吧。;你应该感谢我。",values="1;2")]
 [Predicate(references="1")]
@@ -913,7 +913,7 @@
 这似乎是一份临时干员合作申请，干员的代号叫作银灰。
 恩希欧迪斯。
 [dialog]
-[Decision(options="这怎么可能？！;......;他......",values="1;2;3")]
+[Decision(options="这怎么可能？！;……;他……",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"]  昨天他就到了。
@@ -926,7 +926,7 @@
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"]  他现在正在会客室等你，正好，由你来带他参观罗德岛吧。
 [dialog]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [Dialog]
 [Character]
@@ -975,7 +975,7 @@
 [Decision(options="有话直说。;你到底想干什么？",values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  我想和你交个朋友，{@nickname}。
 [dialog]
@@ -1029,17 +1029,17 @@
 [Decision(options="角峰与讯使。",values="1")]
 [Predicate(references="1")]
 [Character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]  马特洪与魏斯......我信任他们，我也将许多事务交给他们处理。
+[name="恩希欧迪斯"]  马特洪与魏斯……我信任他们，我也将许多事务交给他们处理。
 [name="恩希欧迪斯"]  我并不会说是上下级的关系让我与他们产生隔阂，只是以现实来说，我们之间是托付与被托付的关系，难以成为互相分享的关系。
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  如你所见。
 [name="恩希欧迪斯"]  我可以与你提到的每一个人分享我的某一部分。
 [name="恩希欧迪斯"]  但因为不同的原因，我无法与他们分享一切，正如他们也无法与我分享他们的一切。
 [dialog]
-[Decision(options="你将他们划分得太过仔细。;......因为他们都与谢拉格有关。",values="1;2")]
+[Decision(options="你将他们划分得太过仔细。;……因为他们都与谢拉格有关。",values="1;2")]
 [Predicate(references="1")]
 [Character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]  ......这并非我本人所愿。
+[name="恩希欧迪斯"]  ……这并非我本人所愿。
 [name="恩希欧迪斯"]  就好像没有人在那一年问我愿不愿意成为家主那样。
 [Character(name="avg_172_svrash_1#9$1")]
 [name="恩希欧迪斯"]  我已经习惯于衡量每一个接触到的人的价值，为他们设计好他们在我前进道路上的位置。
@@ -1054,7 +1054,7 @@
 [name="恩希欧迪斯"]  但是，当我需要一个客观的视角来评判与分享有关我的一切时，就会发现，我缺少这个视角。
 [Predicate(references="1;2")]
 [Character(name="avg_172_svrash_1#9$1")]
-[name="恩希欧迪斯"]  ......
+[name="恩希欧迪斯"]  ……
 [name="恩希欧迪斯"]  我的父母意外去世的那一年，恩雅和恩希亚还很小。
 [name="恩希欧迪斯"]  家主的重任自然而然地来到了我的肩上，为了妹妹，也为了家族，我咬牙撑起了希瓦艾什家。
 [name="恩希欧迪斯"]  在做了几年家主之后，我意识到，如果我只是在谢拉格当这个家主，那么一切都不会改变。
@@ -1077,7 +1077,7 @@
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  博士，看来我们在揶揄他人的品味上也有一些共通之处。
 [name="恩希欧迪斯"]  我不会说我没有感到过疲惫，只是，我从来不是不懂得放松的重要性的人。
-[name="恩希欧迪斯"]  如果我只是因为需要一个倾诉对象而来到这里......那我恐怕没有资格成为你的朋友。
+[name="恩希欧迪斯"]  如果我只是因为需要一个倾诉对象而来到这里……那我恐怕没有资格成为你的朋友。
 [dialog]
 [Predicate(references="2")]
 [Character(name="avg_172_svrash_1#1$1")]
@@ -1111,7 +1111,7 @@
 [name="恩希欧迪斯"]  所以我成为了银灰。
 [name="恩希欧迪斯"]  或者，有一个更加单纯的理由，朋友之间需要偶尔见一见，不是吗？
 [dialog]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]  我已经习惯于用交易来处理与他人的交往，一方付出价值，另一方付出同等的价值，各不相欠。
@@ -1135,10 +1135,10 @@
 [name="恩希欧迪斯"]  好了，博士，你应当还有带我参观舰内设施的任务。
 [name="恩希欧迪斯"]  接下来我们可以边走边说。
 [Dialog]
-[Decision(options="没问题。;好吧。;唉......",values="1;2;3")]
+[Decision(options="没问题。;好吧。;唉……",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]  ......以及，博士。
+[name="恩希欧迪斯"]  ……以及，博士。
 [Character(name="avg_172_svrash_1#2$1")]
 [name="恩希欧迪斯"]  我承认，这一次我的做法有些唐突，或许给你带来了一些困扰。
 [Character(name="avg_172_svrash_1#1$1")]

@@ -32,13 +32,13 @@
 [name="公司代表"]你爱怎么着怎么着吧，我也不急在这一时。
 [name="公司代表"]铁路废线快两年，你是最后一个签补偿金清算合同的。
 [Character(name="avg_npc_020",name2="avg_npc_081",focus=2)]
-[name="憔悴的工人"]......五八，五九，六十。
+[name="憔悴的工人"]……五八，五九，六十。
 [Character(name="avg_npc_020",name2="avg_npc_081",focus=1)]
 [name="公司代表"]（长长的叹息声）
 [name="公司代表"]这事总算是结了。
 [name="公司代表"]合同你签好了，钱你也点清了，现在你和公司没关系了。出去吧。
 [Character(name="avg_npc_020",name2="avg_npc_081",focus=2)]
-[name="憔悴的工人"]......
+[name="憔悴的工人"]……
 [Character(name="avg_npc_020",name2="avg_npc_081",focus=1)]
 [name="公司代表"]我们马上下班，你还磨蹭什么？
 [Character(name="avg_npc_020",name2="avg_npc_081",focus=2)]
@@ -54,8 +54,8 @@
 [Character(name="avg_npc_020",name2="avg_npc_081",focus=2)]
 [name="憔悴的工人"]公司向你许诺的是什么？
 [Character(name="avg_npc_020",name2="avg_npc_081",focus=1)]
-[name="公司代表"]......
-[name="公司代表"]......出去，算我求你，出去。
+[name="公司代表"]……
+[name="公司代表"]……出去，算我求你，出去。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -81,7 +81,7 @@
 [character(name="avg_npc_081",focus=-1)]
 [name="劫匪"]我知道你刚得了一笔钱。拿出来。
 [character(name="avg_npc_081",focus=1)]
-[name="憔悴的工人"]......
+[name="憔悴的工人"]……
 [character(name="avg_npc_081",focus=-1)]
 [name="劫匪"]别磨蹭。
 [character(name="avg_npc_081",focus=1)]
@@ -99,9 +99,9 @@
 [character(name="avg_npc_081",focus=-1)]
 [name="劫匪"]别废话了！
 [name="劫匪"]我数到三，要钱还是要命，你想好了。
-[name="劫匪"]一......二......
-[name="劫匪"]......
-[name="劫匪"]............三！
+[name="劫匪"]一……二……
+[name="劫匪"]……
+[name="劫匪"]…………三！
 [character(name="avg_npc_081",focus=-1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="劫匪"]我已经数到三了，你别逼我！
@@ -175,14 +175,14 @@
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.4)]
 [character(name="avg_4040_rockr_1#8$1",fadetime=1.5)]
 [delay(time=2)]
-[name="罗谢尔"]......爸爸。
+[name="罗谢尔"]……爸爸。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
 [name="憔悴的工人"]怎么这么晚才回家？
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
-[name="罗谢尔"]我听邻居说......
-[name="罗谢尔"]说你被......抢了。
+[name="罗谢尔"]我听邻居说……
+[name="罗谢尔"]说你被……抢了。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
-[name="憔悴的工人"]......
+[name="憔悴的工人"]……
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
 [name="罗谢尔"]是真的吗？
 [Dialog]
@@ -192,7 +192,7 @@
 [name="罗谢尔"]我刚刚到他们说的地方去，那里已经一个人都没有了。
 [name="罗谢尔"]是谁抢了你？
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#3$1",focus=1)]
-[name="憔悴的工人"]......
+[name="憔悴的工人"]……
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#10$1",focus=2)]
 [name="罗谢尔"]其他区的劫匪不会到我们这儿来的，一定是轻工业区的人，不会错的。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#3$1",focus=2)]
@@ -217,7 +217,7 @@
 罗谢尔打了个寒噤。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#4$1",focus=1)]
 [name="憔悴的工人"]他身体实在太糟，现在这种时候，也没人愿意借他钱，他才不得不抢。
-[name="憔悴的工人"]大家都是工友，他只是一时糊涂。等到光景好起来......
+[name="憔悴的工人"]大家都是工友，他只是一时糊涂。等到光景好起来……
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
 [name="罗谢尔"]真的会有那一天吗？
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
@@ -229,18 +229,18 @@
 [name="憔悴的工人"]不光机务段，其实整个轻工业区的人都是一家人。
 [name="憔悴的工人"]他一定会还的。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
-[name="罗谢尔"]可是......
+[name="罗谢尔"]可是……
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
 [name="憔悴的工人"]怎么，信不过爸爸？
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
 [name="罗谢尔"]不，不是不信，是今天下午，克拉克阿姨来央求我们借一点吃的，他们家揭不开锅了。
 [name="罗谢尔"]他们家有五个孩子的，你知道。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
-[name="憔悴的工人"]......我知道。
+[name="憔悴的工人"]……我知道。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
-[name="罗谢尔"]我以为你晚上会带补偿金回来，就把一整条面包......全给他们了。
+[name="罗谢尔"]我以为你晚上会带补偿金回来，就把一整条面包……全给他们了。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
-[name="憔悴的工人"]......
+[name="憔悴的工人"]……
 [Dialog]
 [Character]
 两人相对无言。
@@ -250,11 +250,11 @@
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#1$1",focus=1)]
 [name="憔悴的工人"]这么大的风雪，别跑这一趟了。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
-[name="罗谢尔"]......
+[name="罗谢尔"]……
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
 [name="憔悴的工人"]我明天再去街上转转，看看有没有厂子还要锅炉工。实在不行，我还可以做力工活。
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=2)]
-[name="罗谢尔"]可你的腰......
+[name="罗谢尔"]可你的腰……
 [character(name="avg_npc_081",name2="avg_4040_rockr_1#8$1",focus=1)]
 [name="憔悴的工人"]没事。哪个工人没点小伤小病？我这已经算好的了。
 [name="憔悴的工人"]不用担心我，早点睡吧。
@@ -277,7 +277,7 @@
 [character(name="avg_4040_rockr_1#5$1")]
 [name="洛洛"]我来了——罗伯逊叔叔？！
 [Character]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [character(name="avg_npc_398_1#1$1")]
 [name="自救军成员"]罗伯逊先生，还能站起来吗？
 [Character]
@@ -291,7 +291,7 @@
 [character(name="avg_4040_rockr_1#1$1")]
 [name="洛洛"]罗伯逊叔叔，您还看到其他受伤的人了吗？
 [Character]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [character(name="avg_4040_rockr_1#1$1")]
 [name="洛洛"]罗伯逊叔叔？
 [Character]
@@ -332,7 +332,7 @@
 [name="洛洛"]（深呼吸）
 [character(name="avg_4040_rockr_1#1$1",name2="avg_npc_398_1#1$1",focus=1)]
 [name="洛洛"]你去照顾那些伤得轻的人吧，我们的药还有，省着点用就行。
-[name="洛洛"]我去照顾罗伯逊叔叔，他的情况......不太好。
+[name="洛洛"]我去照顾罗伯逊叔叔，他的情况……不太好。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -346,17 +346,17 @@
 [name="洛洛"]罗伯逊叔叔，这是下午的药。
 [name="洛洛"]能坐起来吗？
 [Character]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]罗伯逊叔叔？
 [Character]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]罗伯逊叔叔，该吃药了——
 [character(name="avg_4040_rockr_1#5$1")]
 [name="洛洛"]等等，上午的药你也没吃？
 [Character]
-[name="罗伯逊"]照顾我......干什么？
+[name="罗伯逊"]照顾我……干什么？
 [character(name="avg_4040_rockr_1#1$1")]
 [name="洛洛"]嗯？
 [character(name="avg_4040_rockr_1#12$1")]
@@ -370,18 +370,18 @@
 [playsound(key="$d_avg_clothmovement")]
 [delay(time=1)]
 罗伯逊的手紧紧抓住床单，但洛洛并未看见。
-[name="罗伯逊"]......人。
+[name="罗伯逊"]……人。
 [character(name="avg_4040_rockr_1#1$1")]
 [name="洛洛"]你说什么？
 [Character]
-[name="罗伯逊"]换......人。
+[name="罗伯逊"]换……人。
 [character(name="avg_4040_rockr_1#5$1")]
 [name="洛洛"]换、换人？
 [name="洛洛"]你是说，换个人照顾你？
 [Character]
 [name="罗伯逊"]（点头）
 [character(name="avg_4040_rockr_1#11$1")]
-[name="洛洛"]......
+[name="洛洛"]……
 [name="洛洛"]没关系的。
 [character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]我这就去叫其他人来照顾你，但请你一定把药吃了，好吗？
@@ -390,7 +390,7 @@
 [character(name="avg_4040_rockr_1#1$1")]
 [name="洛洛"]罗伯逊叔叔！
 [Character]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [name="罗伯逊"]（极轻微地点头）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -404,7 +404,7 @@
 [name="洛洛"]伤都好得差不多了，今天应该都可以回家。
 [name="洛洛"]他们一走，我们也就该转移了。
 [character(name="avg_4040_rockr_1#12$1",name2="avg_npc_398_1#1$1",focus=2)]
-[name="自救军成员"]......是啊。
+[name="自救军成员"]……是啊。
 [name="自救军成员"]对了，刚才罗伯逊一直在敲床。
 [name="自救军成员"]我给他端水送饭拿药他都摇头，也不是要上厕所。他病得说不出话，只是一个劲儿地敲床。
 [name="自救军成员"]我猜他是要你过去。
@@ -437,9 +437,9 @@
 [character]
 [name="罗伯逊"]（轻轻拍了拍床）
 [Character(name="avg_4040_rockr_1#8$1")]
-[name="洛洛"]要我......坐在床边？
+[name="洛洛"]要我……坐在床边？
 [character]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [Dialog]
 [Delay(time=0.51)]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
@@ -450,9 +450,9 @@
 [name="洛洛"]罗伯逊叔叔，我在这里。
 [name="洛洛"]听说你现在已经在按时吃药了。
 [Character(name="avg_4040_rockr_1#12$1",focus=-1)]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [Character(name="avg_4040_rockr_1#12$1")]
-[name="洛洛"]这是好事呀。只有这样，你的伤才能好得......
+[name="洛洛"]这是好事呀。只有这样，你的伤才能好得……
 [Character(name="avg_4040_rockr_1#12$1",focus=-1)]
 罗伯逊的喉咙里发出含混的声响，不成话语，意思却很明确。
 [Character(name="avg_4040_rockr_1#5$1")]
@@ -460,12 +460,12 @@
 [Character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]要不然，我们聊聊以前的事吧。
 [Character(name="avg_4040_rockr_1#12$1",focus=-1)]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [Character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]以前爸爸还在的时候，他常跟我说，铁路是轻工业区的血管。
-[name="洛洛"]原料从铁路源源不断地运进工业区，进入车间和厂房，变成产品，再由铁路运出工业区，进入整个伦蒂尼姆，整个维多利亚......
+[name="洛洛"]原料从铁路源源不断地运进工业区，进入车间和厂房，变成产品，再由铁路运出工业区，进入整个伦蒂尼姆，整个维多利亚……
 [Character(name="avg_4040_rockr_1#11$1")]
-[name="洛洛"]商品是血管中流淌的血液，而铁路工人则是组成铁路的......组成铁路的......那个词是——
+[name="洛洛"]商品是血管中流淌的血液，而铁路工人则是组成铁路的……组成铁路的……那个词是——
 [Character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]对了，细胞。
 [Character(name="avg_4040_rockr_1#6$1")]
@@ -479,21 +479,21 @@
 [Character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]后来，火车经过时，我一想到这些话，就觉得火车声不但不吵，反而像自己的心跳声一样，听着听着就能静下心来。
 [Character(name="avg_4040_rockr_1#6$1")]
-[name="洛洛"]咣当，咣当......
+[name="洛洛"]咣当，咣当……
 [Dialog]
 [character]
 洛洛轻轻模仿着火车的声音，罗伯逊安静地听着。
 [Character(name="avg_4040_rockr_1#8$1")]
-[name="洛洛"]再后来，轻工业区的工厂一家接一家地关停，连铁路也废了线......
+[name="洛洛"]再后来，轻工业区的工厂一家接一家地关停，连铁路也废了线……
 [Character(name="avg_4040_rockr_1#8$1",focus=-1)]
 [name="罗伯逊"]（吸气声）
-[name="罗伯逊"]——咳、咳......
+[name="罗伯逊"]——咳、咳……
 [Character(name="avg_4040_rockr_1#4$1")]
 [name="洛洛"]罗伯逊叔叔？！
 [Character(name="avg_4040_rockr_1#8$1")]
-[name="洛洛"]对不起，我说着说着就......
+[name="洛洛"]对不起，我说着说着就……
 [Character(name="avg_4040_rockr_1#8$1",focus=-1)]
-[name="罗伯逊"]......
+[name="罗伯逊"]……
 [Character(name="avg_4040_rockr_1#12$1")]
 [name="洛洛"]不说伤心事了。
 [name="洛洛"]对了，你看！
@@ -529,8 +529,8 @@
 等胸口的痉挛稍微缓解一点，罗伯逊费力地抬起刚刚用来敲床的那只手，在怀中摸索起来。
 摸索了许久，他最终掏出一个小塑料袋，里面是装得满满当当的钱。
 [Character(name="avg_4040_rockr_1#8$1")]
-[name="洛洛"]钱......？
-[name="洛洛"]是......给我的？
+[name="洛洛"]钱……？
+[name="洛洛"]是……给我的？
 [Character(name="avg_4040_rockr_1#8$1",focus=-1)]
 [CameraShake(duration=1.5, xstrength=0, ystrength=25, vibrato=1, randomness=0, fadeout=true, block=true)]
 [name="罗伯逊"]（点头）
@@ -556,14 +556,14 @@
 [Delay(time=1)]
 他缓了口气，再次把手伸入怀中，这次掏出来的，是一个污迹斑斑的信封。
 [Character(name="avg_4040_rockr_1#5$1")]
-[name="洛洛"]信封......信？
+[name="洛洛"]信封……信？
 [Character(name="avg_4040_rockr_1#8$1")]
 [name="洛洛"]没问题，信我一定带到，只是这个钱——
 [Character(name="avg_4040_rockr_1#8$1",focus=-1)]
 [CameraShake(duration=0.8, xstrength=5, ystrength=5, vibrato=30, randomness=90, fadeout=false, block=true)]
 [name="罗伯逊"]（用力敲击床板）
 [Character(name="avg_4040_rockr_1#8$1")]
-[name="洛洛"]......你不是这个意思？
+[name="洛洛"]……你不是这个意思？
 [Dialog]
 [PlaySound(key="$d_avg_paper1", volume=1)]
 [Delay(time=0.51)]
@@ -577,7 +577,7 @@
 那绝对不是公司发补偿金时该有的面额，只有一个便士一个便士攒起来的钱才会是这样。
 这就是罗伯逊被萨卡兹打伤最初的，也最根本的原因。
 [Character(name="avg_4040_rockr_1#9$1")]
-[name="洛洛"]罗伯逊......叔叔？
+[name="洛洛"]罗伯逊……叔叔？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.7, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -603,10 +603,10 @@
 [character(name="avg_npc_001",name2="avg_npc_005",fadetime=1.5)]
 [Delay(time=2)]
 [character(name="avg_npc_001",name2="avg_npc_005",focus=1)]
-[name="缄默的工人"]......
-[name="缄默的工人"]那是......什么？
+[name="缄默的工人"]……
+[name="缄默的工人"]那是……什么？
 [character(name="avg_npc_001",name2="avg_npc_005",focus=2)]
-[name="苍老的工人"]......无人机？
+[name="苍老的工人"]……无人机？
 [Dialog]
 [character]
 一架东拼西凑的无人机迎面朝他们飞来。
@@ -654,7 +654,7 @@
 [Character(name="avg_npc_053", name2="avg_npc_054",focus=1)]
 [name="萨卡兹士兵"]报告，一个人都没有，连东西都没了，我们只找到了这个。
 [Character(name="avg_npc_053", name2="avg_npc_054",focus=2)]
-[name="萨卡兹头目"]......工业零件的盒子？就这么放在桌上？
+[name="萨卡兹头目"]……工业零件的盒子？就这么放在桌上？
 [name="萨卡兹头目"]你，射它一箭，看看有什么鬼。
 [Character(name="avg_npc_053", name2="avg_npc_054",focus=1)]
 [name="萨卡兹士兵"]是！

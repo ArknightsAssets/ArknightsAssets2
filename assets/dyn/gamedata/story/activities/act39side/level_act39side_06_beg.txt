@@ -12,9 +12,9 @@
 [charslot(slot = "r", name = "avg_4163_rosesa_1#8$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_4163_rosesa_1#8$1",focus="r")]
-[name="帕斯卡拉"]（小声）难以置信，那女人竟然愿意放我们离开......本来以为修复失败后，我们都会被五花大绑交给审判庭。
+[name="帕斯卡拉"]（小声）难以置信，那女人竟然愿意放我们离开……本来以为修复失败后，我们都会被五花大绑交给审判庭。
 [charslot(slot = "l", name = "avg_npc_450_1#11$1",focus="l")]
-[name="极境"]（小声）嘘......
+[name="极境"]（小声）嘘……
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1581_1#1$1",duration=0.7)]
@@ -28,7 +28,7 @@
 [charslot(slot = "r", name = "avg_npc_1577_1#4$1",focus="r")]
 [name="伊西多"]我知道，是你为我们承受了船员们的愤怒，也是你保下了帕斯卡拉。
 [charslot(slot = "r", name = "avg_npc_1577_1#1$1",focus="r")]
-[name="伊西多"]......或许你也可以和我们一起走。
+[name="伊西多"]……或许你也可以和我们一起走。
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_450_1#11$1",focus="m")]
@@ -36,15 +36,15 @@
 [charslot(slot = "m", name = "avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]快走吧。你们之前不是吵着要跑吗？现在有机会了，怎么还不动身？
 [charslot(slot = "m", name = "avg_npc_1577_1#4$1",focus="m")]
-[name="伊西多"]......
+[name="伊西多"]……
 [charslot(slot = "m", name = "avg_npc_1581_1#10$1",focus="m")]
 [name="胡安娜"]我是船队的首领，我不会抛下我的船员。这是我向科鲁兹立下的誓言，这一辈子我都不会违背它。
 [charslot(slot = "m", name = "avg_npc_1577_1#4$1",focus="m")]
-[name="伊西多"]胡安娜女士，有样东西......我得还给你。
+[name="伊西多"]胡安娜女士，有样东西……我得还给你。
 [charslot(slot = "m", name = "avg_npc_1581_1#10$1",focus="m")]
 [name="胡安娜"]那身衣服和剑你留着吧，就当是给你的酬劳。
 [charslot(slot = "m", name = "avg_npc_1577_1#1$1",focus="m")]
-[name="伊西多"]不是那些......
+[name="伊西多"]不是那些……
 [charslot(slot = "m", name = "avg_npc_1581_1#5$1",focus="m")]
 [name="胡安娜"]那是？
 [Dialog]
@@ -60,68 +60,68 @@
 [HideItem(fadetime=0.5)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1581_1#5$1",focus="m")]
-[name="胡安娜"]罗盘？不......
-[name="胡安娜"]不......我不明白，如果它还安然无恙，那炼金工坊里那些残骸是......？
+[name="胡安娜"]罗盘？不……
+[name="胡安娜"]不……我不明白，如果它还安然无恙，那炼金工坊里那些残骸是……？
 [charslot(slot = "m", name = "avg_npc_1581_1#6$1",focus="m")]
 [name="胡安娜"]如果你没在修复罗盘，那这段时间你到底在做什么？！
 [charslot(slot = "m", name = "avg_npc_1577_1#6$1",focus="m")]
-[name="伊西多"]......
+[name="伊西多"]……
 [charslot(slot = "m", name = "avg_npc_1581_1#4$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="胡安娜"]说话啊！
 [charslot(slot = "m", name = "avg_npc_1577_1#1$1",focus="m")]
-[name="伊西多"]实验里毁掉的那个罗盘......是我尝试着复制出来的。真品......我没动。
+[name="伊西多"]实验里毁掉的那个罗盘……是我尝试着复制出来的。真品……我没动。
 [charslot(slot = "m", name = "avg_npc_450_1#9$1",focus="m")]
-[name="极境"]呼......
+[name="极境"]呼……
 [charslot(slot = "m", name = "avg_4163_rosesa_1#15$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="帕斯卡拉"]什么？！我怎么不知道......什么时候的事情？
+[name="帕斯卡拉"]什么？！我怎么不知道……什么时候的事情？
 [charslot(slot = "m", name = "avg_npc_1577_1#1$1",focus="m")]
-[name="伊西多"]我没告诉任何人......
+[name="伊西多"]我没告诉任何人……
 [charslot(slot = "m", name = "avg_npc_1581_1#6$1",focus="m")]
 [name="胡安娜"]我不明白，你这么做的理由是什么？！
 [charslot(slot = "m", name = "avg_npc_1577_1#1$1",focus="m")]
-[name="伊西多"]罗盘上搭载的心相原质......结构远比我想象的复杂。如果我不能完美地将它复制出来，那说明我很可能仍然没能理解它的本质。
+[name="伊西多"]罗盘上搭载的心相原质……结构远比我想象的复杂。如果我不能完美地将它复制出来，那说明我很可能仍然没能理解它的本质。
 [name="伊西多"]这种情况下贸然去操作真正的心相原质，几乎只可能失败。
 [charslot(slot = "m", name = "avg_npc_1577_1#7$1",focus="m")]
-[name="伊西多"]但我不能失败。你的期望，整支船队的关注，极境和帕斯卡拉的命运......都在我身上。
+[name="伊西多"]但我不能失败。你的期望，整支船队的关注，极境和帕斯卡拉的命运……都在我身上。
 [name="伊西多"]后来，我总忍不住去想，如果注定失败，至少我该有办法把损失降到最低。
 [name="伊西多"]所以我一直在试图复制心相原质。假如事实证明我没有能力理解心相原质，你们至少还可以带着真品，去找下一位炼金术师。
 [name="伊西多"]我还省出了一部分材料，不至于让船队弹尽粮绝。
 [charslot(slot = "m", name = "avg_npc_1577_1#4$1",focus="m")]
-[name="伊西多"]我、我......
+[name="伊西多"]我、我……
 [name="伊西多"]对不起，我确实想尽了办法。
 [charslot(slot = "m", name = "avg_npc_1581_1#6$1",focus="m")]
-[name="胡安娜"]伊西多......你觉得这样就算是尽了全力吗？
+[name="胡安娜"]伊西多……你觉得这样就算是尽了全力吗？
 [charslot(slot = "m", name = "avg_npc_1577_1#4$1",focus="m")]
-[name="伊西多"]我算过，失败的概率超过百分之八十七......这是我能想到的最保险的办法。
+[name="伊西多"]我算过，失败的概率超过百分之八十七……这是我能想到的最保险的办法。
 [charslot(slot = "m", name = "avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]失败并不足以让人畏惧，纵然成功的几率只有万分之一，我也会孤注一掷，倾尽所有去赌一个机会。
 [charslot(slot = "m", name = "avg_npc_1577_1#1$1",focus="m")]
 [name="伊西多"]这是赌博，不是实验。
 [charslot(slot = "m", name = "avg_npc_1581_1#11$1",focus="m")]
-[name="胡安娜"]哈......比起成功的概率，我们拥有第二次机会的概率才更为渺茫。
+[name="胡安娜"]哈……比起成功的概率，我们拥有第二次机会的概率才更为渺茫。
 [name="胡安娜"]告诉我，我们的人生到底是赌博，还是实验？
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [charslot(duration=1)]
 [Delay(time=2.5)]
 [charslot(slot = "m", name = "avg_npc_1577_1#7$1",focus="m")]
-[name="伊西多"]......
+[name="伊西多"]……
 [charslot(slot = "m", name = "avg_npc_450_1#1$1",focus="m")]
 [name="极境"]温蒂一会儿会来接我离开，你打算和我们一起走吗？
 [charslot(slot = "m", name = "avg_npc_1577_1#7$1",focus="m")]
-[name="伊西多"]......我的旅途还没有结束。
+[name="伊西多"]……我的旅途还没有结束。
 [charslot(slot = "m", name = "avg_npc_1577_1#1$1",focus="m")]
 [name="伊西多"]我会继续下去。
 [charslot(slot = "m", name = "avg_npc_450_1#1$1",focus="m")]
 [name="极境"]你呢，帕斯卡拉？和我一起走吗？
 [charslot(slot = "m", name = "avg_4163_rosesa_1#11$1",focus="m")]
-[name="帕斯卡拉"]我......
+[name="帕斯卡拉"]我……
 [charslot(slot = "m", name = "avg_npc_450_1#11$1",focus="m")]
-[name="极境"]走吧，至少我能想办法带你离开这里......
+[name="极境"]走吧，至少我能想办法带你离开这里……
 [charslot(slot = "m", name = "avg_4163_rosesa_1#10$1",focus="m")]
-[name="帕斯卡拉"]好......伊西多，你保重。
+[name="帕斯卡拉"]好……伊西多，你保重。
 [charslot(slot = "m", name = "avg_npc_450_1#1$1",focus="m")]
 [name="极境"]保重。
 [charslot(slot = "m", name = "avg_npc_1577_1#1$1",focus="m")]
@@ -142,21 +142,21 @@
 [charslot(slot = "r", name = "avg_npc_1587_1#1$1",focus="r")]
 [name="习武教士"]西尔弗阁下。
 [charslot(slot = "l", name = "avg_npc_1583_1#2$1",focus="l")]
-[name="西尔弗"]你愿意留下，这很好，很好......
+[name="西尔弗"]你愿意留下，这很好，很好……
 [charslot(slot = "r", name = "avg_npc_1587_1#1$1",focus="r")]
 [name="习武教士"]您忘了？我腿一直不利索，去不了。
 [charslot(slot = "l", name = "avg_npc_1583_1#1$1",focus="l")]
-[name="西尔弗"]......我没忘。你是之前第二次围剿的时候受的伤吧？
+[name="西尔弗"]……我没忘。你是之前第二次围剿的时候受的伤吧？
 [charslot(slot = "r", name = "avg_npc_1587_1#1$1",focus="r")]
-[name="习武教士"]......您就是忘了。我这腿伤是行刑那天落下的，当初是您给我处理的伤口。结果伤口最后还是感染了。
+[name="习武教士"]……您就是忘了。我这腿伤是行刑那天落下的，当初是您给我处理的伤口。结果伤口最后还是感染了。
 [charslot(slot = "l", name = "avg_npc_1583_1#1$1",focus="l")]
-[name="西尔弗"]......
+[name="西尔弗"]……
 [charslot(slot = "l", name = "avg_npc_1583_1#3$1",focus="l")]
-[name="西尔弗"]假如，我是说假如......我当初医术没有这么差，治好了你的腿。你现在会和我们一起去吗？
+[name="西尔弗"]假如，我是说假如……我当初医术没有这么差，治好了你的腿。你现在会和我们一起去吗？
 [charslot(slot = "r", name = "avg_npc_1587_1#1$1",focus="r")]
 [name="习武教士"]当然了。
 [charslot(slot = "l", name = "avg_npc_1583_1#1$1",focus="l")]
-[name="西尔弗"]......我知道了。
+[name="西尔弗"]……我知道了。
 [Dialog]
 [charslot(slot = "r", name = "avg_npc_1587_1#1$1",focus="r")]
 [Delay(time=0.2)]
@@ -164,12 +164,12 @@
 [charslot(slot = "r", afrom=1, ato=0, duration=1, focus="r")]
 [Delay(time=2.5)]
 [charslot(slot = "l", name = "avg_npc_1583_1#4$1",focus="l")]
-[name="西尔弗"]......
+[name="西尔弗"]……
 [Dialog]
 [charslot(slot = "r", name = "avg_npc_1582_1#1$1",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot = "r", name = "avg_npc_1582_1#1$1",focus="r")]
-[name="安纳斯塔西奥"]......
+[name="安纳斯塔西奥"]……
 [Dialog]
 [PlaySound(key="$d_avg_sandwnd", volume=0, loop=true, channel="s")]
 [SoundVolume(volume=1, channel="s", fadetime=1.5)]
@@ -177,7 +177,7 @@
 [charslot(slot = "r", name = "avg_npc_1582_1#1$1",focus="r")]
 [name="安纳斯塔西奥"]你和他说了什么？我们该出发了。
 [charslot(slot = "l", name = "avg_npc_1583_1#1$1",focus="l")]
-[name="西尔弗"]安纳斯塔西奥先生......
+[name="西尔弗"]安纳斯塔西奥先生……
 [charslot(slot = "r", name = "avg_npc_1582_1#1$1",focus="r")]
 [name="安纳斯塔西奥"]嗯？
 [charslot(slot = "l", name = "avg_npc_1583_1#6$1",focus="l")]
@@ -200,11 +200,11 @@
 [charslot(slot = "m", name = "avg_npc_1580_1#6$1",focus="m")]
 [name="蒂奇"]夫人，您去哪里了？
 [charslot(slot = "m", name = "avg_npc_1581_1#9$1",focus="m")]
-[name="胡安娜"]......才去把那几个小家伙送出去了。
+[name="胡安娜"]……才去把那几个小家伙送出去了。
 [charslot(slot = "m", name = "avg_npc_1580_1#1$1",focus="m")]
 [name="蒂奇"]您吩咐的事情我都已经准备好了。
 [charslot(slot = "m", name = "avg_npc_1581_1#7$1",focus="m")]
-[name="胡安娜"]这几天，你......先带着手下和宝宝在盐漠里躲一躲吧。
+[name="胡安娜"]这几天，你……先带着手下和宝宝在盐漠里躲一躲吧。
 [charslot(slot = "m", name = "avg_npc_1580_1#1$1",focus="m")]
 [name="蒂奇"]我不会留您一个人在这里。
 [charslot(slot = "m", name = "avg_npc_1581_1#7$1",focus="m")]
@@ -245,8 +245,8 @@
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1592_1#1$1",focus="m")]
 [charslot(slot = "m", action="shake",random=true, power=5, times=40,duration=0.5)]
-[name="困倦的船员"]啊......哈......
-[name="困倦的船员"]早知道晚上不多喝那两盆咸鳞汁了......
+[name="困倦的船员"]啊……哈……
+[name="困倦的船员"]早知道晚上不多喝那两盆咸鳞汁了……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_clothtrailground", volume=1)]
@@ -290,23 +290,23 @@
 [charslot(slot = "m", name = "avg_npc_1579_1#1$2",duration=1)]
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_1579_1#1$2",focus="m")]
-[name="哈维尔"]......只有你一个人，女士。
+[name="哈维尔"]……只有你一个人，女士。
 [charslot(slot = "m", name = "avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]如你所见，是的。
 [charslot(slot = "m", name = "avg_npc_1579_1#9$2",focus="m")]
-[name="哈维尔"]你身边不该连一个护卫的人都没有......
+[name="哈维尔"]你身边不该连一个护卫的人都没有……
 [charslot(slot = "m", name = "avg_npc_1581_1#1$1",focus="m")]
-[multiline(name="胡安娜")]或许，那个本该护卫我的人就在这里......
+[multiline(name="胡安娜")]或许，那个本该护卫我的人就在这里……
 [charslot(slot = "m", name = "avg_npc_1581_1#2$1",focus="m")]
 [multiline(name="胡安娜")]就在这里，拿一把我为他打造的刀，指着我。
 [charslot(slot = "m", name = "avg_npc_1581_1#1$1",focus="m")]
 [name="胡安娜"]现在，如你所愿，杀了我，整支船队由你接管。
 [charslot(slot = "m", name = "avg_npc_1579_1#9$2",focus="m")]
-[name="哈维尔"]......
+[name="哈维尔"]……
 [charslot(slot = "m", name = "avg_npc_1579_1#1$2",focus="m")]
 [name="哈维尔"]胡安娜已经就擒，看好她，别伤了她。
 [charslot(slot = "m", name = "avg_npc_1581_1#10$1",focus="m")]
-[name="胡安娜"]......真是可笑。
+[name="胡安娜"]……真是可笑。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -322,7 +322,7 @@
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1592_1#1$1",focus="m")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="愤怒的船员"]你们是怎么找来的？......是哪个鳞屎喂大的混账背叛了我们？
+[name="愤怒的船员"]你们是怎么找来的？……是哪个鳞屎喂大的混账背叛了我们？
 [charslot(slot = "m", name = "avg_npc_1587_1#1$1",focus="m")]
 [name="习武教士"]死到临头还想着寻仇，恶徒！
 [Dialog]
@@ -358,7 +358,7 @@
 [name="安纳斯塔西奥"]如何，问出罗盘的线索了吗？
 [charslot(slot = "m", name = "avg_npc_1587_1#1$1",focus="m")]
 [name="习武教士"]执裁官大人，这都只是些喽啰，话都说不利索的那种。
-[name="习武教士"]要找到罗盘，我们还需再深入这伙强盗的据点......
+[name="习武教士"]要找到罗盘，我们还需再深入这伙强盗的据点……
 [charslot(slot = "m", name = "avg_npc_1582_1#7$1",focus="m")]
 [name="安纳斯塔西奥"]没有我的指令不要停下来，沿途的一切焚烧干净。
 [name="安纳斯塔西奥"]这些用来作孽的肮脏之物，没有留存的价值。
@@ -380,14 +380,14 @@
 异常的声响将伊西多扯出他的思绪，唤停了他的脚步。
 转过头，他看见远处有什么东西朦朦胧胧地照亮了黑夜。
 [charslot(slot = "m", name = "avg_npc_1577_1#3$1",focus="m")]
-[name="伊西多"]那是......
+[name="伊西多"]那是……
 [Dialog]
 [charslot]
 [Delay(time=1)]
 那是冲天的火光。
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1577_1#5$1",focus="m")]
-[name="伊西多"]不......
+[name="伊西多"]不……
 [Dialog]
 [charslot]
 [Delay(time=1)]
@@ -395,7 +395,7 @@
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1577_1#5$1",focus="m")]
 [name="伊西多"]怎么会这样？
-[name="伊西多"]我......
+[name="伊西多"]我……
 [Dialog]
 [PlaySound(key="$runsand", volume=1)]
 [charslot(duration=0.5)]
@@ -434,9 +434,9 @@
 [charslot(slot = "m", name = "avg_npc_1582_1#7$1",focus="m")]
 [name="安纳斯塔西奥"]罗盘对我有没有用，不是你能说的，强盗。
 [charslot(slot = "m", name = "avg_npc_1579_1#9$2",focus="m")]
-[name="哈维尔"]是是......对不起。
+[name="哈维尔"]是是……对不起。
 [charslot(slot = "m", name = "avg_npc_1582_1#7$1",focus="m")]
-[name="安纳斯塔西奥"]我守了那罗盘将近十年，我杀了每一个试图染指它的人......
+[name="安纳斯塔西奥"]我守了那罗盘将近十年，我杀了每一个试图染指它的人……
 [name="安纳斯塔西奥"]就算它真的化为齑粉，我也要亲眼见证。
 [charslot(slot = "m", name = "avg_npc_1582_1#9$1",focus="m")]
 [name="安纳斯塔西奥"]你们的首领在哪里？
@@ -446,7 +446,7 @@
 [name="安纳斯塔西奥"]你和西尔弗的协议，与我无关。
 [name="安纳斯塔西奥"]那个女人带着罗盘逃走了，是不是？那套炼金失败的说法只是借口，是不是？
 [charslot(slot = "m", name = "avg_npc_1582_1#3$1",focus="m")]
-[name="安纳斯塔西奥"]谎言......为了保护那个女人，为了你自己的欲望，是不是？你也该被——
+[name="安纳斯塔西奥"]谎言……为了保护那个女人，为了你自己的欲望，是不是？你也该被——
 [charslot(slot = "m", name = "avg_npc_1579_1#6$2",focus="m")]
 [name="哈维尔"]我没骗你。罗盘早就不在胡安娜手上了，她要一只已经毁掉的罗盘毫无意义。
 [name="哈维尔"]你该找的只有那个炼金小子和他的工坊。
@@ -455,11 +455,11 @@
 [charslot(slot = "m", name = "avg_npc_1579_1#1$2",focus="m")]
 [name="哈维尔"]那边后排的第二个帐篷，地上有暗门，炼金工坊就在那底下。
 [charslot(slot = "m", name = "avg_npc_1582_1#8$1",focus="m")]
-[name="安纳斯塔西奥"]......谎言。
+[name="安纳斯塔西奥"]……谎言。
 [charslot(slot = "m", name = "avg_npc_1582_1#9$1",focus="m")]
 [name="安纳斯塔西奥"]别逼我现在杀了你。
 [charslot(slot = "m", name = "avg_npc_1579_1#9$2",focus="m")]
-[name="哈维尔"]......
+[name="哈维尔"]……
 [Dialog]
 [musicvolume(volume=0.3, fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -476,13 +476,13 @@
 [charslot(slot = "r", name = "avg_npc_1587_1#1$1",focus="r")]
 [name="习武教士"]老实点！别乱动！
 [charslot(slot = "l", name = "avg_npc_1591_1#1$1",focus="l")]
-[name="窘迫的船员"]那个......你们说的是真的吗？只要找到那枚罗盘，我们都能获得赦免？
-[name="窘迫的船员"]鉴于我们投降得这么快......我们的赦免是不是也应该适当放宽些条件？
+[name="窘迫的船员"]那个……你们说的是真的吗？只要找到那枚罗盘，我们都能获得赦免？
+[name="窘迫的船员"]鉴于我们投降得这么快……我们的赦免是不是也应该适当放宽些条件？
 [charslot(slot = "r", name = "avg_npc_1587_1#1$1",focus="r")]
-[name="习武教士"]......
+[name="习武教士"]……
 [name="习武教士"]蠢货。
 [charslot(slot = "l", name = "avg_npc_1591_1#1$1",focus="l")]
-[name="窘迫的船员"]好吧......
+[name="窘迫的船员"]好吧……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

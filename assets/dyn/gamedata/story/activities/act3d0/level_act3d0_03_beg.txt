@@ -3,7 +3,7 @@
 [Background(image="bg_sunnytown_2",screenadapt="coverall", fadetime=1,block=true)]
 [Delay(time=1)]
 [Character(name="char_340_shwaz_2#2",name2="char_348_ceylon_4#8",focus=1)]
-[name="黑"]   ......
+[name="黑"]   ……
 [Character(name="char_340_shwaz_2#2",name2="char_348_ceylon_4#8",focus=2)]
 [name="锡兰"]   黑？！
 [Character(name="char_340_shwaz_2#2",name2="char_348_ceylon_4#8",focus=1)]
@@ -39,7 +39,7 @@
 [Delay(time=1)]
 [name="？？？"]   博士，走，这里先交给我。
 [Character(name="char_348_ceylon_4#8")]
-[name="锡兰"]   欸？！你，你是......！
+[name="锡兰"]   欸？！你，你是……！
 [Decision(options="锡兰，我们先走！",values="1")]
 [Predicate(references="1")]
 [Dialog]
@@ -52,8 +52,8 @@
 [playsound(key="$runsand", volume=0.7)]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="char_348_ceylon_4#5")]
-[name="锡兰"]   等一下，哈，哈......博士，我好累......
-[Decision(options="终于......到了沙滩......;我也......跑不动了......",values="1;2")]
+[name="锡兰"]   等一下，哈，哈……博士，我好累……
+[Decision(options="终于……到了沙滩……;我也……跑不动了……",values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_020")]
 [name="保镖"]   大小姐，请跟我们回去吧。
@@ -77,7 +77,7 @@
 [Character(name="avg_npc_020")]
 [name="保镖A"]   啧，只是一个臭小鬼，给她点颜色瞧瞧！
 [Character(name="char_134_ifrit_summer_1")]
-[name="伊芙利特"]   我正愁无聊呢，嘿嘿......
+[name="伊芙利特"]   我正愁无聊呢，嘿嘿……
 [Character(name="char_348_ceylon_4#8")]
 [name="锡兰"]   博士，你的脸色怎么变得比刚才还差？
 [Decision(options="伊芙利特，下手别太重！！;把他们衣服烧光差不多了。",values="1;2")]

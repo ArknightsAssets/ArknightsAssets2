@@ -24,13 +24,13 @@
 [ImageTween(yFrom=0, yTo=0,xScaleFrom=1, yScaleFrom=1, xScaleTo=1.1, yScaleTo=1.1, duration=40, block=false)]
 [name="孩子"] 爸爸！！
 [name="哨兵"] 怎么回事！快走，快跑啊！
-[name="老人"] 儿子，我的儿子！你这畜生......感染的牲口！！
-[name="老人"] 啊！！火太大了，火太大了！咳，咳，唔......
-[name="老人"] 混蛋！！！我死也不会......我诅咒你！！我诅咒你！！！皇帝在上，惩罚这些该死的感染者吧！！
+[name="老人"] 儿子，我的儿子！你这畜生……感染的牲口！！
+[name="老人"] 啊！！火太大了，火太大了！咳，咳，唔……
+[name="老人"] 混蛋！！！我死也不会……我诅咒你！！我诅咒你！！！皇帝在上，惩罚这些该死的感染者吧！！
 [Dialog]
 [delay(time=1)]
-[name="塔露拉"] ......
-[name="塔露拉"] 啊......啊......
+[name="塔露拉"] ……
+[name="塔露拉"] 啊……啊……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Image(fadetime=0)]
@@ -41,7 +41,7 @@
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[Subtitle(text="你一旦认同我，一旦你理解了我，一旦你明白你处在怎样一片大地上......", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
+[Subtitle(text="你一旦认同我，一旦你理解了我，一旦你明白你处在怎样一片大地上……", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 [Subtitle]
 [Subtitle(text="乌萨斯的未来将自此握在你手中。", x=200, y=360, alignment="left", size=24, delay=0.04, width=1280)]
 [Subtitle]

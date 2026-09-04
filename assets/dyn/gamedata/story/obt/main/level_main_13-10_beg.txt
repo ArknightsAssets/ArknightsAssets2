@@ -23,7 +23,7 @@
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="直到他们的到来。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="我曾无比恐慌，恐慌自己的生活将被打破......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我曾无比恐慌，恐慌自己的生活将被打破……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n但那个萨卡兹下了命令，我的工作依然是留在这里，留在温室。",block = true)]
 [Sticker(id="st1", multi = true, text="\n我依然是小镇的园丁。",block = true)]
 [Sticker(id="st1")]
@@ -57,17 +57,17 @@
 [name="疲惫的市民"]最近那些魔族佬像是要给谁展示功绩，死了命地催大伙日夜赶工，可也没看到有啥大人物来呀？
 [name="疲惫的市民"]你运气真好，被人分配了个好差事，不用遭这些罪。
 [charslot(slot="r",name="avg_494_vendla_1#6$1",focus="r")]
-[name="玛格达尔"]......
+[name="玛格达尔"]……
 [charslot(slot="l",name="avg_npc_417_1#1$1",focus="l")]
 [name="疲惫的市民"]没想到大伙咬咬牙，居然只用了不到一个月就建成了这些奇迹！
 [name="疲惫的市民"]我打赌，这东西要是放以前，准会被那些伦蒂尼姆的贵族老爷们全搬进博物馆！
 [charslot(slot="r",name="avg_494_vendla_1#5$1",focus="r")]
-[name="玛格达尔"]汉克，你明明之前很讨厌这份工作......
+[name="玛格达尔"]汉克，你明明之前很讨厌这份工作……
 [charslot(slot="l",name="avg_npc_417_1#1$1",focus="l")]
-[name="疲惫的市民"]......玛格达尔，世道变了。
+[name="疲惫的市民"]……玛格达尔，世道变了。
 [name="疲惫的市民"]（你也得学着讨好那个萨卡兹军官，这对你没有坏处，孩子。）
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
-[name="玛格达尔"]......谢谢你的建议，汉克，我会考虑的。
+[name="玛格达尔"]……谢谢你的建议，汉克，我会考虑的。
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -92,7 +92,7 @@
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
 [name="烦躁的市民"]又来？
 [name="烦躁的市民"]最近这些炮声怎么越来越近了？
-[name="烦躁的市民"]我听说不止一伙人想要占领我们布伦特伍德镇，可万一真打起来又是乌烟瘴气，唉......
+[name="烦躁的市民"]我听说不止一伙人想要占领我们布伦特伍德镇，可万一真打起来又是乌烟瘴气，唉……
 [name="烦躁的市民"]现在这样大家都和和气气不好吗？只求别影响了我们的工期！
 [Dialog]
 [charslot]
@@ -105,7 +105,7 @@
 [name="维多利亚少年"]玛格达尔姐姐，可算找到你了！
 [name="维多利亚少年"]那个经常去你家的魔族佬在带人砸你的温室！
 [charslot(slot="m",name="avg_494_vendla_1#4$1",focus="m")]
-[name="玛格达尔"]什么......
+[name="玛格达尔"]什么……
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
 [charslot(duration=1)]
@@ -147,7 +147,7 @@
 [charslot(slot="m",name="avg_494_vendla_1#4$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_494_vendla_1#4$1",focus="m")]
-[name="玛格达尔"]我的温室......！
+[name="玛格达尔"]我的温室……！
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
 [name="玛格达尔"]不要——
 [Dialog]
@@ -174,7 +174,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="黑土埋葬了它们。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n雏菊，玫瑰，蓝铃花......",block = true)]
+[Sticker(id="st1", multi = true, text="\n雏菊，玫瑰，蓝铃花……",block = true)]
 [Sticker(id="st1", multi = true, text="\n它们的根茎被无情地踩在脚下碾碎。",block = true)]
 [Sticker(id="st1", multi = true, text="\n还有那些向阳勃发的新芽。",block = true)]
 [Sticker(id="st1")]
@@ -204,7 +204,7 @@
 [charslot(slot="m",name="avg_494_vendla_1#7$1",posfrom="0,0",posto="20,0",duration=0,focus="m")]
 [Delay(time=0.1)]
 [charslot(slot="m",name="avg_494_vendla_1#7$1",focus="m")]
-[name="玛格达尔"]......
+[name="玛格达尔"]……
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -218,7 +218,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="温室里最后的一株新芽被掐碎了。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n祖父，明年的农事节上再也不会有鲜花了......",block = true)]
+[Sticker(id="st1", multi = true, text="\n祖父，明年的农事节上再也不会有鲜花了……",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -228,7 +228,7 @@
 [charslot(slot="m",name="avg_494_vendla_1#7$1",focus="m")]
 [name="玛格达尔"]放开我。
 [charslot(slot="r",name="avg_npc_419_1#1$1",focus="r")]
-[name="王庭军尉官"]......
+[name="王庭军尉官"]……
 [charslot(slot="m",name="avg_494_vendla_1#7$1",focus="m")]
 [name="玛格达尔"]我很冷静。
 [Dialog]
@@ -259,14 +259,14 @@
 [Delay(time=3.5)]
 [playMusic(intro="$distressed_intro", key="$distressed_loop", volume=0.4)]
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]......
+[name="玛格达尔"]……
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="王庭军尉官"]别动，你的手指需要包扎。
 [name="王庭军尉官"]我拦不下他们。
-[name="王庭军尉官"]我在前线......发生了些事。
+[name="王庭军尉官"]我在前线……发生了些事。
 [name="王庭军尉官"]马上会有另一个人来接替我的职位，他对小镇，呃，另有安排。
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]......
+[name="玛格达尔"]……
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="王庭军尉官"]布伦特伍德入口西边两百米左右的水泥工事有一处缺口，是那些附近游荡的游击队刚炸出来的。
 [name="王庭军尉官"]他们不会放弃这个机会，所以我们要在明天早上五点修复那个缺口。
@@ -282,17 +282,17 @@
 [name="王庭军尉官"]如果你对那个缺口好奇，今晚带上这些玫瑰穿过我们的营地，这是最安全的路径。
 [name="王庭军尉官"]要是有人拦你，就说你在替我送订单。
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]......
+[name="玛格达尔"]……
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="王庭军尉官"]当然，如果能顺道放一束花在我的营帐，我会很开心。
 [name="王庭军尉官"]有些东西不该被摧毁，“园丁”。
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
 [name="玛格达尔"]“园丁”不是我的名字，萨卡兹，我的名字是玛格达尔。
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
-[name="王庭军尉官"]......
+[name="王庭军尉官"]……
 [name="王庭军尉官"]呵，那就重新认识一下，我的名字是“锹子”。
 [charslot(slot="m",name="avg_494_vendla_1#5$1",focus="m")]
-[name="玛格达尔"]......“锹子”？
+[name="玛格达尔"]……“锹子”？
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="王庭军尉官"]记住，玛格达尔，时间不等人。
 [Dialog]
@@ -323,7 +323,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
-[name="玛格达尔"]他的营帐应该是这个方向......得赶紧把花送过去。
+[name="玛格达尔"]他的营帐应该是这个方向……得赶紧把花送过去。
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -351,20 +351,20 @@
 [charslot(slot = "l", action="shake",random=true, power=5, times=60,duration=0.3)]
 [charslot(slot="l",name="avg_npc_1069_1#4$1",focus="l")]
 [name="芙蕾达"]玛格达尔！
-[multiline(name="芙蕾达")]......宵禁时间你拿着花要去哪？
+[multiline(name="芙蕾达")]……宵禁时间你拿着花要去哪？
 [charslot(slot="l",name="avg_npc_1069_1#6$1",focus="l")]
 [multiline(name="芙蕾达")]这边是军营方向，快离开！
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
-[name="玛格达尔"]我......没事，只是想出来走走。
+[name="玛格达尔"]我……没事，只是想出来走走。
 [charslot(slot="r",name="avg_494_vendla_1#9$1",focus="r")]
 [name="玛格达尔"]对了，听汉克说今天是你的生日，生日快乐！威尔在我这为你订了花，但一直没有来取。
 [name="玛格达尔"]如果你见到威尔，记得提醒他。
 [charslot(slot="l",name="avg_npc_1069_1#5$1",focus="l")]
-[name="芙蕾达"]......
+[name="芙蕾达"]……
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
 [name="玛格达尔"]芙蕾达？
 [charslot(slot="l",name="avg_npc_1069_1#5$1",focus="l")]
-[name="芙蕾达"]......
+[name="芙蕾达"]……
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
 [name="玛格达尔"]你怎么不说话？
 [charslot(slot="l",name="avg_npc_1069_1#1$1",focus="l")]
@@ -380,32 +380,32 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="r",name="avg_494_vendla_1#4$1",focus="r")]
-[name="玛格达尔"]啊......这些花？
+[name="玛格达尔"]啊……这些花？
 [charslot(slot="l",name="avg_npc_1069_1#1$1",focus="l")]
-[name="芙蕾达"]......是威尔放这悼念我父亲的。这间仓库我一直锁着，只有威尔想偷偷喝酒的时候我才会把钥匙借他。
+[name="芙蕾达"]……是威尔放这悼念我父亲的。这间仓库我一直锁着，只有威尔想偷偷喝酒的时候我才会把钥匙借他。
 [charslot(slot="r",name="avg_494_vendla_1#4$1",focus="r")]
-[name="玛格达尔"]这门礼炮，这是韦斯特先生为农事节特意准备的？真是壮观......
+[name="玛格达尔"]这门礼炮，这是韦斯特先生为农事节特意准备的？真是壮观……
 [charslot(slot="l",name="avg_npc_1069_1#5$1",focus="l")]
-[name="芙蕾达"]......我对不起威尔。
+[name="芙蕾达"]……我对不起威尔。
 [charslot(slot="r",name="avg_494_vendla_1#5$1",focus="r")]
 [name="玛格达尔"]威尔出什么事了吗？
 [charslot(slot="l",name="avg_npc_1069_1#5$1",focus="l")]
 [name="芙蕾达"]刚刚在萨卡兹的军营里，威尔被那些魔族佬留下了。
-[name="芙蕾达"]他今天提前找到我想准备惊喜。但知道我要进军营汇报施工进度后，他不放心，就自告奋勇护送我去军营......
+[name="芙蕾达"]他今天提前找到我想准备惊喜。但知道我要进军营汇报施工进度后，他不放心，就自告奋勇护送我去军营……
 [charslot(slot="r",name="avg_494_vendla_1#8$1",focus="r")]
-[name="玛格达尔"]可那些萨卡兹没有道理留下威尔......他们从来没这么干过......
+[name="玛格达尔"]可那些萨卡兹没有道理留下威尔……他们从来没这么干过……
 [charslot(slot="l",name="avg_npc_1069_1#5$1",focus="l")]
-[name="芙蕾达"]我不知道......我很害怕，我不敢拒绝他们扣下威尔的要求......
+[name="芙蕾达"]我不知道……我很害怕，我不敢拒绝他们扣下威尔的要求……
 [name="芙蕾达"]明明我什么都听他们的了。我完成了他们交代的所有要求，为什么还要留下威尔！
-[name="芙蕾达"]为什么......玛格达尔，我真的做错了吗......
+[name="芙蕾达"]为什么……玛格达尔，我真的做错了吗……
 [charslot(slot="r",name="avg_494_vendla_1#1$1",focus="r")]
 [name="玛格达尔"]芙蕾达，也许，也许他们只是留下威尔想问些什么。
 [charslot(slot="r",name="avg_494_vendla_1#9$1",focus="r")]
 [name="玛格达尔"]往好的地方想想，他们还需要威尔继续为他们卖力呢！
 [charslot(slot="l",name="avg_npc_1069_1#5$1",focus="l")]
-[name="芙蕾达"]......
+[name="芙蕾达"]……
 [charslot(slot="l",name="avg_npc_1069_1#1$1",focus="l")]
-[name="芙蕾达"]是的......那些鬼东西还差一点才建完，他们一定也需要威尔！
+[name="芙蕾达"]是的……那些鬼东西还差一点才建完，他们一定也需要威尔！
 [charslot(slot="l",name="avg_npc_1069_1#8$1",focus="l")]
 [name="芙蕾达"]我要守在军营门口，等着威尔出来。
 [charslot]
@@ -428,11 +428,11 @@
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [charslot(slot="l",name="avg_npc_1069_1#4$1",focus="r")]
 [charslot(slot="r",name="avg_494_vendla_1#5$1",focus="r")]
-[name="玛格达尔"]......？
+[name="玛格达尔"]……？
 [charslot(slot="l",name="avg_npc_1069_1#1$1",focus="l")]
-[name="芙蕾达"]......？
+[name="芙蕾达"]……？
 [charslot(slot="r",name="avg_494_vendla_1#5$1",focus="r")]
-[name="玛格达尔"]芙蕾达......你看到了吗？
+[name="玛格达尔"]芙蕾达……你看到了吗？
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -456,7 +456,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="l",name="avg_npc_1069_1#10$1",focus="l")]
 [charslot(slot="r",name="avg_494_vendla_1#5$1",focus="l")]
-[name="芙蕾达"]它刚才......在看着我们？
+[name="芙蕾达"]它刚才……在看着我们？
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

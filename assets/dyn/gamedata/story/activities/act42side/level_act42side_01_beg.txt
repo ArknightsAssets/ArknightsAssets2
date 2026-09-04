@@ -13,14 +13,14 @@
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="重复警告。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n危机。",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......危机等级......评估中......",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n不可知......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……危机等级……评估中……",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n不可知……",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n解除锁定。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="底层运算区域锁定解除。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n推演算力已突破上限。",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n拉特兰......爆发。",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n拉特兰……爆发。",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
@@ -40,7 +40,7 @@
 [charslot(slot="m",name="avg_npc_361_1#6$1",focus="m")]
 [name="薇尔丽芙"]哎呀，终于能喘口气了。
 [charslot(slot="m",name="avg_npc_361_1#7$1",focus="m")]
-[name="薇尔丽芙"]这辈子都没有说过这么多的话，一想到明天又要再说一辈子的话......
+[name="薇尔丽芙"]这辈子都没有说过这么多的话，一想到明天又要再说一辈子的话……
 [Dialog]
 [charslot]
 [name="？？？"]哈哈，要不我们交换一下工作？
@@ -62,7 +62,7 @@
 [name="薇尔丽芙"]好在议长很识时务地把他们训斥得哑口无言，态度好到我都要怀疑关于她的奇妙传闻是怎么来的了。
 [name="薇尔丽芙"]卡兹戴尔使节团的主要发言人是那位名叫弗莱蒙特的巫妖，可惜您没看见那场面——
 [charslot(slot="m",name="avg_npc_361_1#2$1",focus="m")]
-[name="薇尔丽芙"]整整三小时的外交辩论，从政治到律法，从信仰到生死，他一个人和第一厅、第六厅的十七位枢机激烈地“交换意见”......
+[name="薇尔丽芙"]整整三小时的外交辩论，从政治到律法，从信仰到生死，他一个人和第一厅、第六厅的十七位枢机激烈地“交换意见”……
 [name="薇尔丽芙"]结束之后，口干舌燥的枢机们围着甜品机海饮番石榴汁。
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
 [name="帕特里奇昂"]这样有活力的老家伙，真是令人神往啊！
@@ -75,13 +75,13 @@
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
 [name="帕特里奇昂"]想想两年前，万国峰会应者寥寥，绝大多数人都认为所谓的“拉特兰主张”只是一纸空泛的解经。
 [name="帕特里奇昂"]当时，伊维格娜德女皇拒绝了我们的邀请，而这次，她主动请求参加万国峰会。
-[name="帕特里奇昂"]甚至已经沉寂许久的赫琳玛特女皇也现身了，这次将一同到访拉特兰......
+[name="帕特里奇昂"]甚至已经沉寂许久的赫琳玛特女皇也现身了，这次将一同到访拉特兰……
 [charslot(slot="m",name="avg_npc_361_1#6$1",focus="m")]
 [name="薇尔丽芙"]莱塔尼亚的诚意很足啊。
 [name="薇尔丽芙"]帕特里奇昂阁下，我们是否可以认为，第二届万国峰会已经取得了预期中的成功？
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
 [name="帕特里奇昂"]远超预期，薇尔丽芙枢机。
-[name="帕特里奇昂"]目前为止，哥伦比亚、乌萨斯、炎国，甚至是远海的阿戈尔......该来的都来了。
+[name="帕特里奇昂"]目前为止，哥伦比亚、乌萨斯、炎国，甚至是远海的阿戈尔……该来的都来了。
 [charslot(slot="m",name="avg_npc_361_1#2$1",focus="m")]
 [name="薇尔丽芙"]感觉像在做梦。
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
@@ -89,9 +89,9 @@
 [name="帕特里奇昂"]启示中的灾异已经临近，萨米冰盖上的黑雪、莱塔尼亚上空的罅隙，甚至冲击海岸的狂潮，都是在呼应它必然的降临。
 [name="帕特里奇昂"]灾异当头，任何人都会渴望秩序——拉特兰的秩序。
 [charslot(slot="m",name="avg_npc_361_1#1$1",focus="m")]
-[name="薇尔丽芙"]您说得是。只不过，哪怕做了这么久的准备，这场面也还是让我感到......陌生。
+[name="薇尔丽芙"]您说得是。只不过，哪怕做了这么久的准备，这场面也还是让我感到……陌生。
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
-[name="帕特里奇昂"]你尚且如此，其他人就更不必说了。哪怕启蒙时就在布道中无数次听过拉特兰为应对启示中的灾异所铺设的道路......
+[name="帕特里奇昂"]你尚且如此，其他人就更不必说了。哪怕启蒙时就在布道中无数次听过拉特兰为应对启示中的灾异所铺设的道路……
 [name="帕特里奇昂"]真到了亲自迎接它所导向的结果时，也还是会有所犹疑。
 [charslot(slot="m",name="avg_npc_361_1#7$1",focus="m")]
 [name="薇尔丽芙"]您自己呢？
@@ -102,11 +102,11 @@
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
 [name="帕特里奇昂"]是啊。我老到连仙人掌挞都嚼不动啦，协助举办这届峰会恐怕就是我能为拉特兰做的最后一件事了。
 [charslot(slot="m",name="avg_npc_361_1#2$1",focus="m")]
-[name="薇尔丽芙"]阁下，我觉得这是您口味太过奇异的缘故。您说的那种......仙人掌挞，恐怕我也很难咬动。
+[name="薇尔丽芙"]阁下，我觉得这是您口味太过奇异的缘故。您说的那种……仙人掌挞，恐怕我也很难咬动。
 [charslot(slot="m",name="avg_npc_361_1#6$1",focus="m")]
 [name="薇尔丽芙"]您不会不知道，冷餐会上的仙人掌挞都是专门为您订制的吧？毕竟拉特兰城没有第二个人痴迷这种怪东西了。
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
-[name="帕特里奇昂"]怎么可能？仙人掌挞是一个甜品鉴赏造诣极高的老朋友倾情推荐的......呃，他叫什么来着......
+[name="帕特里奇昂"]怎么可能？仙人掌挞是一个甜品鉴赏造诣极高的老朋友倾情推荐的……呃，他叫什么来着……
 [name="帕特里奇昂"]算了，言归正传。
 [name="帕特里奇昂"]既然还有人心存疑虑，之后将在育婴圣堂举办的那场仪式就至关重要。
 [name="帕特里奇昂"]我们需要以最有力的方式向所有人展示，拉特兰能带来怎样的可能性。
@@ -114,13 +114,13 @@
 [name="薇尔丽芙"]明白。我马上交接第七厅的工作，万国峰会接下来的这段时间，我会前往圣堂，确保仪式顺利进行。
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
 [name="帕特里奇昂"]倒也不用那么急。
-[name="帕特里奇昂"]哈哈，算了。嘴上有再多抱怨，真行动起来又都是急性子......年轻人还真是相像。
+[name="帕特里奇昂"]哈哈，算了。嘴上有再多抱怨，真行动起来又都是急性子……年轻人还真是相像。
 [charslot(slot="m",name="avg_npc_361_1#5$1",focus="m")]
 [name="薇尔丽芙"]您想起了您的“小菲”吧？
 [charslot(slot="m",name="avg_npc_361_1#6$1",focus="m")]
 [name="薇尔丽芙"]根据任务调遣记录——她已经回来了？
 [charslot(slot="m",name="avg_4194_rmixer_1#1$1",focus="m")]
-[name="帕特里奇昂"]是啊，明天是我们的家庭聚会......希望小菲喜欢我准备的礼物。
+[name="帕特里奇昂"]是啊，明天是我们的家庭聚会……希望小菲喜欢我准备的礼物。
 [Dialog]
 [stopmusic(fadetime=2)]
 [PlaySound(key="$d_avg_aircraftalarm", volume=0.2, loop=true, channel="1")]
@@ -140,7 +140,7 @@
 [playsound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_1811_1#3$2",duration=1.5)]
 [Delay(time=2)]
-[name="蕾缪安"]育婴圣堂......
+[name="蕾缪安"]育婴圣堂……
 [name="蕾缪安"]真是壮美的奇迹。
 [Dialog]
 [charslot(slot="m",posfrom="0,0",posto="-200,0",duration=1.5,focus="m")]
@@ -163,7 +163,7 @@
 [name="帕特里奇昂"]你刚刚上任，可能还不太清楚。紧急调度可以无视任何部门的任何安排。
 [charslot(slot="m",name="avg_npc_1811_1#1$2",posfrom="-200,0",posto="-200,0",focus="m")]
 [interlude(channel = 3, type = 3, slot = "m", switch = false, pfrom = "235,0", pto="235,0", name = "avg_4194_rmixer_1#1$1", duration = 0)]
-[name="蕾缪安"]紧急调度......这是来自哪里的判断？有文件可以参考吗？
+[name="蕾缪安"]紧急调度……这是来自哪里的判断？有文件可以参考吗？
 [charslot(slot="m",name="avg_npc_1811_1#1$2",posfrom="-200,0",posto="-200,0",focus="none")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_4194_rmixer_1#1$1", duration = 0)]
 [name="帕特里奇昂"]情况紧急与否从来都是不言自明，无需任何人来做额外的判断。
@@ -176,16 +176,16 @@
 [name="蕾缪安"]明白。
 [charslot(slot="m",name="avg_npc_1811_1#8$2",posfrom="-200,0",posto="-200,0",focus="none")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_4194_rmixer_1#1$1", duration = 0)]
-[name="帕特里奇昂"]......蕾缪安。
+[name="帕特里奇昂"]……蕾缪安。
 [charslot(slot="m",name="avg_npc_1811_1#8$2",posfrom="-200,0",posto="-200,0",focus="m")]
 [interlude(channel = 3, type = 3, slot = "m", switch = false, pfrom = "235,0", pto="235,0", name = "avg_4194_rmixer_1#1$1", duration = 0)]
 [name="蕾缪安"]还有什么情况需要我知悉？
 [charslot(slot="m",name="avg_npc_1811_1#8$2",posfrom="-200,0",posto="-200,0",focus="none")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_4194_rmixer_1#1$1", duration = 0)]
-[name="帕特里奇昂"]本来想祝你上任快乐的......就留到明天聚会上再说吧。
+[name="帕特里奇昂"]本来想祝你上任快乐的……就留到明天聚会上再说吧。
 [charslot(slot="m",name="avg_npc_1811_1#11$2",posfrom="-200,0",posto="-200,0",focus="m")]
 [interlude(channel = 3, type = 3, slot = "m", switch = false, pfrom = "235,0", pto="235,0", name = "avg_4194_rmixer_1#1$1", duration = 0)]
-[name="蕾缪安"]聚会，您能到吗？大家都知道您临近退休反倒越来越忙，而您又......
+[name="蕾缪安"]聚会，您能到吗？大家都知道您临近退休反倒越来越忙，而您又……
 [charslot(slot="m",name="avg_npc_1811_1#11$2",posfrom="-200,0",posto="-200,0",focus="none")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_4194_rmixer_1#1$1", duration = 0)]
 [name="帕特里奇昂"]而我又偏偏永远以公务为重？这我倒没法否认。
@@ -212,7 +212,7 @@
 [charslot(slot="m",name="avg_npc_1811_1#14$2",focus="m")]
 [name="蕾缪安"]我已经在育婴圣堂这边了，但临时有事，就不进去了。
 [charslot(slot="m",name="avg_npc_1811_1#14$2",focus="none")]
-[name="？？？"]......
+[name="？？？"]……
 [charslot(slot="m",name="avg_npc_1811_1#11$2",focus="m")]
 [name="蕾缪安"]你说什么了吗，我没听清欸。干嘛那么小声，你也不是小气的人吧？
 [Dialog]
@@ -224,9 +224,9 @@
 [Background(image="bg_black",screenadapt="showall")]
 [Delay(time=0.5)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0.5, block=true)]
-[name="？？？"]（......你误会了，蕾缪安。）
+[name="？？？"]（……你误会了，蕾缪安。）
 [name="？？？"]（我没事。只是现在情况特殊，我得藏起来不被人发现，没法大声说话。）
-[name="蕾缪安"]......
+[name="蕾缪安"]……
 [name="蕾缪安"]那我们直接在菲亚梅塔家的聚会上见吧。
 [name="？？？"]（好。）
 [name="？？？"]（注意安全。）
@@ -258,7 +258,7 @@
 [name="骄傲的小孩"]肯定在这里，虽然他压低了声音，但瞒不过我的耳朵！
 [charslot(slot="r",name="avg_npc_1801_1#1$2",focus="r")]
 [name="倔强的小孩"]不用你说，我也猜到了！
-[name="倔强的小孩"]窗帘后面没有，柱子后面没有......
+[name="倔强的小孩"]窗帘后面没有，柱子后面没有……
 [name="倔强的小孩"]“这个柜子只有半人高，他那么大的个子肯定没法往里藏”——他一定觉得我们会这么想！
 [charslot(slot="l",name="avg_npc_1802_1#1$2",focus="l")]
 [name="骄傲的小孩"]笨笨的！
@@ -273,7 +273,7 @@
 [charslot(slot="m",name="avg_npc_1800_1#1$1",afrom=0,ato=1,duration=1)]
 [charslot(slot="m",posfrom="-50,0",posto="0,0",duration=2)]
 [Delay(time=3)]
-[name="安多恩"]......
+[name="安多恩"]……
 [charslot(slot="m",name="avg_npc_1800_1#11$1",focus="m")]
 [name="安多恩"]好吧好吧，愿赌服输——今天的自由活动时间延长三十分钟！
 [Dialog]
@@ -302,9 +302,9 @@
 [delay(time=3.5)]
 [charslot(slot="m",name="avg_npc_1785_1#1$1",focus="m")]
 [name="保育员"]前辈，您从来都不会拒绝孩子们吗？
-[name="保育员"]想必就是这样，孩子们才如此信任您、依赖您......
+[name="保育员"]想必就是这样，孩子们才如此信任您、依赖您……
 [name="保育员"]您看，几周前他们还对这座陌生的圣堂感到无比恐惧，就连帮他们换件衣服他们都要挣扎到脱力。
-[name="保育员"]现在他们已经把这里当作自己家了......您功不可没，安多恩前辈。
+[name="保育员"]现在他们已经把这里当作自己家了……您功不可没，安多恩前辈。
 [charslot(slot="m",name="avg_npc_1800_1#12$1",focus="m")]
 [name="安多恩"]我确实没做什么，只是陪在他们身边罢了。
 [charslot(slot="m",name="avg_npc_1785_1#1$1",focus="m")]
@@ -316,11 +316,11 @@
 [charslot(slot="m",name="avg_npc_1800_1#6$1",focus="m")]
 [name="安多恩"]等到她顺利分娩再赞叹奇迹也不迟。在此期间，我会尽我所能地继续照顾她。
 [charslot(slot="m",name="avg_npc_1785_1#1$1",focus="m")]
-[name="保育员"]......我有些理解牧首对您的看重了，安多恩前辈。由您来负责降生仪式上最重要的接生工作，确实令人安心。
+[name="保育员"]……我有些理解牧首对您的看重了，安多恩前辈。由您来负责降生仪式上最重要的接生工作，确实令人安心。
 [name="保育员"]如果降生仪式一切顺利，育婴圣堂就将全面投入使用，届时，泰拉的每一位新生儿都将接受圣城的庇护与赐福。
 [name="保育员"]那时，我们才算是真正创造了奇迹，对吧？
 [charslot(slot="m",name="avg_npc_1800_1#10$1",focus="m")]
-[name="安多恩"]但愿如此......但愿如此。
+[name="安多恩"]但愿如此……但愿如此。
 [charslot(slot="m",name="avg_npc_1785_1#1$1",focus="m")]
 [name="保育员"]好了，我不多打扰前辈了。吉赛尔和洛米雅还等着您呢。
 [Dialog]
@@ -329,7 +329,7 @@
 [Delay(time=2)]
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_npc_1800_1#1$1",focus="m")]
-[name="安多恩"]......
+[name="安多恩"]……
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
@@ -344,7 +344,7 @@
 [playsound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_1811_1#8$2",duration=1.5)]
 [Delay(time=2)]
-[name="蕾缪安"]真安静啊......
+[name="蕾缪安"]真安静啊……
 [Dialog]
 [charslot]
 头顶光环的队列在街道上延伸，无人驻足，也无人喧闹。
@@ -379,7 +379,7 @@
 [curtain(direction = 4,fillfrom = 0.1,fillto = 0, fadetime=1.5)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1811_1#6$2",focus="m")]
-[name="蕾缪安"]......
+[name="蕾缪安"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [CameraShake(duration=2.5, xstrength=20,ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]

@@ -17,7 +17,7 @@
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]那骨灰呢，骨灰应该可以吧？
 [charslot(slot="m",name="avg_348_ceylon_1#10$1",focus="m")]
-[name="锡兰"]......即使是骨灰，也需要经过特殊处理，确认无风险之后才能被取出。
+[name="锡兰"]……即使是骨灰，也需要经过特殊处理，确认无风险之后才能被取出。
 [charslot(slot="m",name="avg_348_ceylon_1#10$1",focus="m")]
 [name="锡兰"]办事处刚建立没多久，这方面的设施功能还很不完善。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
@@ -25,7 +25,7 @@
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
 [name="锡兰"]就算我现在立刻提出申请，从本舰审批到器材运到，至少也需要半年时间吧。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......你知道这有多残忍吗？
+[name="沙漏"]……你知道这有多残忍吗？
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]我身为她的主治医师和唯一的亲友，却没能在最后一刻守在她身边。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
@@ -37,11 +37,11 @@
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
 [name="锡兰"]拜托你，别让我为难，沙漏。
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
-[name="锡兰"]这些规定每一条你都知道来由，甚至其中有一些是我们一起制定的......
+[name="锡兰"]这些规定每一条你都知道来由，甚至其中有一些是我们一起制定的……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]主任，我为罗德岛工作了一年，这是我唯一的请求......
+[name="沙漏"]主任，我为罗德岛工作了一年，这是我唯一的请求……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]我没法在她活着的时候陪她去旅行，至少在她死后......我想带着她的骨灰出去走一走。
+[name="沙漏"]我没法在她活着的时候陪她去旅行，至少在她死后……我想带着她的骨灰出去走一走。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]这是她最后的愿望。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
@@ -50,11 +50,11 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="沙漏"]医生就必须扼杀自己的私情吗？！
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
-[name="锡兰"]别逼我和你吵架，沙漏......
+[name="锡兰"]别逼我和你吵架，沙漏……
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
 [name="锡兰"]我知道你很难过，我也——
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]如果未来，黑小姐也迎来了这一天......
+[name="沙漏"]如果未来，黑小姐也迎来了这一天……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="沙漏"]你也能像现在这样用规定来说服自己吗？！
@@ -68,19 +68,19 @@
 [name="通讯终端提示声"]遗体处理即将开始。
 [name="通讯终端提示声"]请负责人认证识别码后进入焚化室开始处理。
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
-[name="锡兰"]唉......
+[name="锡兰"]唉……
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
 [name="锡兰"]所有的遗体处理都要由办事处的主任，也就是我经手。
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
 [name="锡兰"]如果你愿意的话，这次我可以破例交给你。
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
-[name="锡兰"]我能做的......只有这样了。
+[name="锡兰"]我能做的……只有这样了。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......不了。
+[name="沙漏"]……不了。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]我没有在她生命的最后一刻见到她，也没法实现她的愿望，我没有脸去见她。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......好吧。
+[name="锡兰"]……好吧。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -94,7 +94,7 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m",duration=1)]
 [delay(time=2)]
-[name="锡兰"]......
+[name="锡兰"]……
 [dialog]
 [charslot]
 换上了全套防护装备的锡兰，熟练地拉过躺着迪丽雅遗体的推车，向着焚化设备推去。
@@ -103,7 +103,7 @@
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="“如果未来，黑小姐也迎来了这一天......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“如果未来，黑小姐也迎来了这一天……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“你也能像现在这样用规定来说服自己吗？！”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -128,7 +128,7 @@
 她将推车上的遗体推入焚化设备中。
 沉默片刻，她按下了按钮。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......晚安。
+[name="锡兰"]……晚安。
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -137,9 +137,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......
+[name="沙漏"]……
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......你在看什么？
+[name="锡兰"]……你在看什么？
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]海。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
@@ -147,7 +147,7 @@
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]她一直想去旅行，总说等到存够了钱就去，但最后也没去成。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]你......
+[name="锡兰"]你……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]我已经冷静下来了，刚才很抱歉。
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
@@ -161,11 +161,11 @@
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]即使没有她的骨灰，葬礼也会照常举行，我今天只是想最后争取一下。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......抱歉。
+[name="锡兰"]……抱歉。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]你没有任何需要说抱歉的地方，我知道你也很难过。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]只是......人在这种时候，总是会没那么理智。
+[name="沙漏"]只是……人在这种时候，总是会没那么理智。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]你会来参加葬礼吗？
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
@@ -192,7 +192,7 @@
 [charslot]
 [name="葬礼司仪"]咳咳，出于一些特殊原因，蕾娜塔女士不方便露面，我们将通过广播的形式播放她的悼词。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......咦？
+[name="锡兰"]……咦？
 [charslot]
 [name="沙漏的声音"]在我痛恨着周遭的一切，想要让大海带走自己时，我在海边遇到了正在跳舞卖艺的迪丽雅。
 [charslot]
@@ -208,9 +208,9 @@
 [charslot]
 [name="沙漏的声音"]但是，在我不知道第几次从梦中惊醒却意识到她已不在时，我发现，我做不到。
 [charslot]
-[name="沙漏的声音"]我是那么地想要再次见到她......
+[name="沙漏的声音"]我是那么地想要再次见到她……
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......
+[name="锡兰"]……
 [dialog]
 [charslot]
 锡兰感到格外地伤感，她无法想象如果有一天，轮到自己经历这一切，自己能否承受得住。
@@ -218,17 +218,17 @@
 然而，光是在无数个夜晚中那些不可遏制的幻想所带来的惶恐，足以在此时与沙漏所描绘的痛苦重合，撬开她本就脆弱的心防。
 她想见到沙漏，她想和沙漏聊一聊。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]司仪先生，请问，沙漏......蕾娜塔女士她现在在哪？
+[name="锡兰"]司仪先生，请问，沙漏……蕾娜塔女士她现在在哪？
 [charslot]
-[name="葬礼司仪"]这......
+[name="葬礼司仪"]这……
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]怎么了？
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]我是她的上司，您可以信任我。
 [charslot]
-[name="葬礼司仪"]......好吧。她刚才将录音交给我之后就不知道去哪儿了。
+[name="葬礼司仪"]……好吧。她刚才将录音交给我之后就不知道去哪儿了。
 [charslot(slot="m",name="avg_348_ceylon_1#7$1",focus="m")]
-[name="锡兰"]......什么？
+[name="锡兰"]……什么？
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -239,7 +239,7 @@
 [PlaySound(key="$dooropenquite", volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......我来了，迪丽雅。
+[name="沙漏"]……我来了，迪丽雅。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]结果，我还是骗了主任。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
@@ -271,7 +271,7 @@
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]对不起，迪丽雅。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]对不起......
+[name="沙漏"]对不起……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -286,7 +286,7 @@
 [charslot]
 [name="办事处干员"]咦，主任，你不是刚刚才让沙漏过来取走迪丽雅女士的骨灰吗？
 [charslot(slot="m",name="avg_348_ceylon_1#10$1",focus="m")]
-[name="锡兰"]......
+[name="锡兰"]……
 [charslot(slot="m",name="avg_348_ceylon_1#10$1",focus="m")]
 [name="锡兰"]她现在人呢？
 [charslot]
@@ -304,11 +304,11 @@
 [charslot]
 [name="办事处干员"]沙漏没带走迪丽雅女士的骨灰啊？
 [charslot(slot="m",name="avg_348_ceylon_1#7$1",focus="m")]
-[name="锡兰"]什么......？
+[name="锡兰"]什么……？
 [charslot]
 [name="办事处干员"]是的，看起来她甚至没有打开过柜子。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......我马上回来。
+[name="锡兰"]……我马上回来。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -350,13 +350,13 @@
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]我以前也常来这里玩，一下子就听出来了。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......对不起，主任。
+[name="沙漏"]……对不起，主任。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]我在你参加葬礼的时候，偷偷用了你的许可证。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]这种小事......好吧，这确实不算小事。但是，为什么？
+[name="锡兰"]这种小事……好吧，这确实不算小事。但是，为什么？
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......
+[name="沙漏"]……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]主任，你觉得，怎样才算是为挚爱之人的离世做好了准备？
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
@@ -388,7 +388,7 @@
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]我又怎么可能做好准备呢？
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
-[name="锡兰"]......
+[name="锡兰"]……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_clothmovement")]
@@ -421,9 +421,9 @@
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
 [name="锡兰"]我刚才在葬礼上，光是听你说的那些就已经受不了了。
 [charslot(slot="m",name="avg_348_ceylon_1#11$1",focus="m")]
-[name="锡兰"]如果黑离开我的那一天真的到来......我大概只会比你更疯狂。
+[name="锡兰"]如果黑离开我的那一天真的到来……我大概只会比你更疯狂。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]曾经的我又何尝不是呢......
+[name="沙漏"]曾经的我又何尝不是呢……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]在真正面对死亡带来的离别之前，我们每个人都是一样的。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
@@ -437,15 +437,15 @@
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
 [name="锡兰"]如果你真的带走了她的骨灰，你打算去哪？
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]我......会和她的骨灰一起去旅行。
+[name="沙漏"]我……会和她的骨灰一起去旅行。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]我想和她一起走一遍我们曾经走过的土地。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]我想带着她的骨灰前往我们还没来得及一起去的地方。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]但是......这也只是我的一厢情愿而已。
+[name="沙漏"]但是……这也只是我的一厢情愿而已。
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
-[name="锡兰"]......去吧。
+[name="锡兰"]……去吧。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]欸？
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
@@ -469,7 +469,7 @@
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
 [name="锡兰"]但是，除此之外，我也会让他们配合你，你想去什么地方祭奠迪丽雅都是你的自由。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......已经没有意义了。
+[name="沙漏"]……已经没有意义了。
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
 [name="锡兰"]我们错了，但是——我们真的错了吗？
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
@@ -477,25 +477,25 @@
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
 [name="锡兰"]那么，那个人留下的痕迹，我想，是唯一能够让我们稍微填补残缺的方法。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......
+[name="沙漏"]……
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]......抱歉，看起来好像理解你一样地说了这样一些话。
+[name="锡兰"]……抱歉，看起来好像理解你一样地说了这样一些话。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]我们的立场不同，状况也不同，我没有资格命令你做任何事。我只是在想，未来，如果属于我的那一天也终于到来了......
+[name="锡兰"]我们的立场不同，状况也不同，我没有资格命令你做任何事。我只是在想，未来，如果属于我的那一天也终于到来了……
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]我一定也会和你一样，去重走每一个我们曾经共同留下痕迹的地方，在那些地方大哭一场。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]等我哭完了，嗓子哑了，泪流干了，我再去想别的事情。
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
-[name="锡兰"]如果连这样都没有办法......
+[name="锡兰"]如果连这样都没有办法……
 [charslot(slot="m",name="avg_348_ceylon_1#1$1",focus="m")]
 [name="锡兰"]到时候，我们再来聊一聊吧。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]......嗯。
+[name="沙漏"]……嗯。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]谢谢你，主任。
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
-[name="沙漏"]我不保证我能像你说的那样坚强......
+[name="沙漏"]我不保证我能像你说的那样坚强……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="沙漏"]但是，我可以试试。
 [dialog]
@@ -549,7 +549,7 @@
 [delay(time=2)]
 [name="门外的锡兰"]再来一次！
 [charslot(slot="m",name="char_016_medic",focus="m")]
-[name="Medic"]......好吧。
+[name="Medic"]……好吧。
 [charslot(slot="m",name="char_016_medic",focus="m")]
 [name="Medic"]咳咳。不过，黑，你也不用太担心，针对你的情况，我们有一个更好的解决方法。
 [charslot(slot="m",name="char_016_medic",focus="m")]
@@ -566,7 +566,7 @@
 [charslot(duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_340_shwaz_1#6$1",focus="m")]
-[name="黑"]呃，小姐......你不是要在新汐斯塔大展拳脚吗？
+[name="黑"]呃，小姐……你不是要在新汐斯塔大展拳脚吗？
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
 [name="锡兰"]我和父亲聊了聊，他同意在一些事情上给罗德岛开绿灯。
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
@@ -576,7 +576,7 @@
 [charslot(slot="m",name="avg_348_ceylon_1#3$1",focus="m")]
 [name="锡兰"]你刚才绝对在想怎么对我隐瞒病情吧？
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
-[name="黑"]那倒是......没有。反正你总会知道的。
+[name="黑"]那倒是……没有。反正你总会知道的。
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
 [name="锡兰"]哼，这还差不多。
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
@@ -590,13 +590,13 @@
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
 [name="锡兰"]但我还从来没有去过。
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
-[name="黑"]那里......没留下什么东西。
+[name="黑"]那里……没留下什么东西。
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
 [name="锡兰"]但我们可以在那里留下些什么。
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
 [name="锡兰"]而且，虽然我知道你当佣兵时的经历，但你还没说过你的童年呢。
 [charslot(slot="m",name="avg_340_shwaz_1#12$1",focus="m")]
-[name="黑"]......怎么了，小姐，这么突然。
+[name="黑"]……怎么了，小姐，这么突然。
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]
 [name="锡兰"]我只是忽然觉得，你看着我长大，对我的一切都了如指掌。
 [charslot(slot="m",name="avg_348_ceylon_1#4$1",focus="m")]

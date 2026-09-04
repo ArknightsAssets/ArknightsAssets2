@@ -80,7 +80,7 @@
 [CameraShake(duration=1, xstrength=15, ystrength=15, vibrato=30, randomness=60, fadeout=true, block=false)]
 [name="村民"]明明是信任你们，才按你们说的去做的，为什么！为什么我丈夫会死！你们要怎么赔，要怎么赔！！
 [Character(name="avg_npc_141#1",name2="char_1011_purgatory_1#4",focus=2)]
-[name="炎熔"]......先离开这里再说。
+[name="炎熔"]……先离开这里再说。
 [Dialog]
 [Character(name="avg_npc_141#1",name2="char_1011_purgatory_1")]
 [delay(time=1)]
@@ -189,7 +189,7 @@
 [Character(name="avg_npc_143#2",name2="avg_npc_143#2",focus=2)]
 [name="墨魉"]嘎！！
 [Character(name="char_1011_purgatory_1#5")]
-[name="炎熔"]它们到底是从哪里冒出来的......！
+[name="炎熔"]它们到底是从哪里冒出来的……！
 [name="炎熔"]不行，这个数量，根本不可能全部拦得住——
 [Dialog]
 [Character(name="avg_npc_143#2",name2="char_empty")]
@@ -200,7 +200,7 @@
 [Character(name="avg_npc_143#2",name2="char_362_Saga#6")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.3, block=true)]
 [Dialog]
-[name="墨魉"]嘎......？
+[name="墨魉"]嘎……？
 [Dialog]
 [characteraction(name="left", type="move", xpos=-100,ypos=50, fadetime=1, block=true)]
 [Character(name="char_empty", name2="char_362_Saga#5",fadetime=0.5)]
@@ -210,10 +210,10 @@
 [Character(name="char_1011_purgatory_1#5",name2="char_362_Saga#5")]
 [delay(time=0.51)]
 [Character(name="char_1011_purgatory_1#5",name2="char_362_Saga#4",focus=2)]
-[name="嵯峨"]虽是画中物，倒也不必如此赶尽杀绝......此般景象，看得直教人捶胸顿足。
+[name="嵯峨"]虽是画中物，倒也不必如此赶尽杀绝……此般景象，看得直教人捶胸顿足。
 [name="嵯峨"]炎熔施主，这里有小僧看着，快去带他人避难。
 [Character(name="char_1011_purgatory_1#4",name2="char_362_Saga#4",focus=1)]
-[name="炎熔"]你......
+[name="炎熔"]你……
 [Character(name="char_1011_purgatory_1#4",name2="char_362_Saga#4",focus=2)]
 [name="嵯峨"]无需担心小僧，小僧在此地游历数载，虽对未来之事有了种种念想，忧虑不定——
 [Dialog]
@@ -221,7 +221,7 @@
 [name="嵯峨"]——但小僧未有一刻，对身前之事有分毫惘然。
 [name="嵯峨"]此地，交给小僧罢。
 [Character(name="char_1011_purgatory_1#1",name2="char_362_Saga#5",focus=1)]
-[name="炎熔"]......嗯。继续往东边走，你结束了找我们汇合。
+[name="炎熔"]……嗯。继续往东边走，你结束了找我们汇合。
 [Character(name="char_1011_purgatory_1#1",name2="char_362_Saga#5",focus=2)]
 [name="嵯峨"]明白！
 [Dialog]
@@ -284,8 +284,8 @@
 [Character(name="char_455_nothing_1#5")]
 [name="乌有"]这玩意就会嘎嘎嘎地叫，这么能追你怎么不吐几句人话呢！？
 [Character]
-[name="墨魉"]嘎......
-[name="墨魉"]......别......跑......
+[name="墨魉"]嘎……
+[name="墨魉"]……别……跑……
 [Character(name="char_455_nothing_1#3")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true,block=false)]
 [name="乌有"]哎呀妈呀，我就说着玩的，不必如此，大可不必如此呀——！
@@ -306,7 +306,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.3, block=true)]
 [delay(time=1)]
 [Character(name="char_455_nothing_1#3",name2="avg_npc_141#1",focus=2)]
-[name="村民"]你、你是那个算命的......？其他两位英雄在哪儿呢？
+[name="村民"]你、你是那个算命的……？其他两位英雄在哪儿呢？
 [name="村民"]你身后，身后！
 [Character(name="avg_npc_143#2", name2="avg_npc_143#2")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -318,7 +318,7 @@
 [Character(name="char_455_nothing_1#3",name2="avg_npc_141#1",focus=2)]
 [name="村民"]你把它们引开，引开啊！
 [Character(name="char_455_nothing_1#3",name2="avg_npc_141#1",focus=1)]
-[name="乌有"]我......我也......
+[name="乌有"]我……我也……
 [Dialog]
 [character]
 [delay(time=0.7)]
@@ -330,7 +330,7 @@
 [character]
 [delay(time=0.7)]
 [Character(name="char_455_nothing_1#1")]
-[name="乌有"]......
+[name="乌有"]……
 [Character(name="char_455_nothing_1#1",name2="avg_npc_141#1",focus=2)]
 [name="村民"]哎哟，快别哭了！别哭！丫头，别哭了！
 [name="村民"]啊！那些东西看过来了！你快去啊，你快去——
@@ -353,7 +353,7 @@
 [Character(name="char_empty", name2="char_455_nothing_1#5",fadetime=0.5)]
 [delay(time=2)]
 [Character(name2="avg_npc_141#1")]
-[name="村民"]欸......？
+[name="村民"]欸……？
 [name="村民"]用、用扇子？
 [Dialog]
 [character]
@@ -361,7 +361,7 @@
 [Character(name="char_455_nothing_1#5")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=70, fadeout=true, block=false)]
 [playMusic(intro="$dontmaketrouble_intro", key="$dontmaketrouble_loop", volume=0.4)]
-[name="乌有"]......你们躲远点。
+[name="乌有"]……你们躲远点。
 [Dialog]
 [delay(time=1)]
 [character]
@@ -380,7 +380,7 @@
 [Character(name="char_empty", name2="char_455_nothing_1#5",fadetime=0.5)]
 [delay(time=2)]
 [Character(name2="avg_npc_141#1")]
-[name="村民"]一招就......！？
+[name="村民"]一招就……！？
 [Dialog]
 [character]
 [delay(time=1)]
@@ -396,10 +396,10 @@
 [Character(name="char_empty", name2="char_455_nothing_1#5",fadetime=0.5)]
 [delay(time=2)]
 [Character(name="char_455_nothing_1#5",name2="avg_npc_141#2",focus=2)]
-[name="村民"]厉、厉害......
+[name="村民"]厉、厉害……
 [stopmusic(fadetime=1)]
 [Character(name="char_455_nothing_1#5",name2="avg_npc_141#2",focus=1)]
-[name="乌有"]......
+[name="乌有"]……
 [Dialog]
 [PlayMusic(intro="$longmenbat_intro", key="$longmenbat_loop", volume=0.4)]
 [Character(name="char_455_nothing_1#3",name2="avg_npc_141#2",focus=1)]
@@ -422,7 +422,7 @@
 [delay(time=0.7)]
 [characteraction(name="left", type="move", xpos=-400,fadetime=1,block=true)]
 [Character(name="char_empty",name2="char_455_nothing_1#3",fadetime=0.5)]
-[name="墨魉"]嘎嗷......
+[name="墨魉"]嘎嗷……
 [delay(time=1)]
 [Character(name="char_empty",name2="char_455_nothing_1#3",focus=2)]
 [name="乌有"]！？
@@ -435,9 +435,9 @@
 [name="克洛丝"]哎呀，虽然拳脚功夫不错，但小乌有你从来没有在这种情况下救人的经验吧？
 [name="克洛丝"]只解决眼前的敌人而不注意全方位的动静，迟早会吃亏的哦。
 [Character(name="char_455_nothing_1#3",name2="avg_npc_144#1",focus=1)]
-[name="乌有"]啊、啊哈哈......刚才可真险呐！多亏了恩人，我才能安然无恙呀。
+[name="乌有"]啊、啊哈哈……刚才可真险呐！多亏了恩人，我才能安然无恙呀。
 [Character(name="char_455_nothing_1#3",name2="avg_npc_144#1",focus=2)]
-[name="克洛丝"]......好啦，赶紧带着剩下的人避难去吧。
+[name="克洛丝"]……好啦，赶紧带着剩下的人避难去吧。
 [Character(name="char_455_nothing_1#3",name2="avg_npc_144#1",focus=1)]
 [name="乌有"]呃，恩人您？
 [Character(name="char_455_nothing_1#3",name2="avg_npc_144#1",focus=2)]
@@ -445,7 +445,7 @@
 [Character(name="char_455_nothing_1",name2="avg_npc_144#1",focus=1)]
 [name="乌有"]（就这身手，脚步轻就能解释得了吗！？）
 [Character(name="avg_npc_144#1")]
-[name="克洛丝"]之后......该怎么迅速削减这些墨魉的数量呢......
+[name="克洛丝"]之后……该怎么迅速削减这些墨魉的数量呢……
 [Dialog]
 [character]
 [delay(time=1)]
@@ -476,7 +476,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1.5)]
 [Character(name="char_1011_purgatory_1#1", name2="char_empty")]
-[name="炎熔"]......
+[name="炎熔"]……
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#1",fadetime=1)]
@@ -484,25 +484,25 @@
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#1", focus=2)]
 [name="克洛丝"]小炎熔。
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#1", focus=1)]
-[name="炎熔"]......帮我确定附近所有敌人的分布范围。
+[name="炎熔"]……帮我确定附近所有敌人的分布范围。
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#3", focus=2)]
 [name="克洛丝"]这么大阵仗？
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#3", focus=1)]
-[name="炎熔"]本来担心波及到周遭的建筑，一直不怎么敢随便用法术......
-[name="炎熔"]......但敌人太多了，这样慢吞吞对付下去，受害者数量恐怕难以估量。
+[name="炎熔"]本来担心波及到周遭的建筑，一直不怎么敢随便用法术……
+[name="炎熔"]……但敌人太多了，这样慢吞吞对付下去，受害者数量恐怕难以估量。
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#1", focus=2)]
 [name="克洛丝"]明白，特殊时期特殊手段嘛。
 [name="克洛丝"]我去找个高处，你就安心施法吧。
 [name="克洛丝"]所有超出法术范围的敌人我都会帮忙解决的，保证一个不落。
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#1", focus=1)]
 [name="炎熔"]好。
-[name="炎熔"]之后的任务报告我来提交......毕竟罗德岛该帮助的，不止是感染者。
+[name="炎熔"]之后的任务报告我来提交……毕竟罗德岛该帮助的，不止是感染者。
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#5", focus=2)]
-[name="克洛丝"]感染者......？
+[name="克洛丝"]感染者……？
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#5", focus=1)]
 [name="炎熔"]怎么了吗？
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#5", focus=2)]
-[name="克洛丝"]嗯......没什么，在此之前，小炎熔。
+[name="克洛丝"]嗯……没什么，在此之前，小炎熔。
 [name="克洛丝"]你有看到煮伞先生吗？
 [Character(name="char_1011_purgatory_1#1", name2="avg_npc_144#5")]
 [Dialog]

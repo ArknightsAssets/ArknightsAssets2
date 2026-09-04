@@ -12,7 +12,7 @@
 [Subtitle(text="他平日里，就像任何一个贫民区的普通人一样。哪怕他从你身边走过，你也未必能认出他来。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="但你永远不会知道，你见到的某个路人就是他的耳目；也不会知道，他会在某个角落，随手除掉某个不知好歹、敢于违逆他的人。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="他就是龙门的影子，贫民区的化身。", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
-[Subtitle(text="也有很多人坚信，这不只是一个传说......", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="也有很多人坚信，这不只是一个传说……", x=300, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
 [Dialog]
@@ -23,10 +23,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [name="？？？"] 就是他？你确定没认错？这可不是闹着玩的。
 [name="？？？"] 盯了有一阵了，和传出来的消息一模一样，绝对错不了。
-[name="？？？"] 嘶......看起来的确不太好惹的样子。
+[name="？？？"] 嘶……看起来的确不太好惹的样子。
 [name="？？？"] 怎么办，真要动手？
-[name="？？？"] 丢的这批货至关重要，由不得我们选......暗号是什么？
-[name="？？？"] 我记得，是......
+[name="？？？"] 丢的这批货至关重要，由不得我们选……暗号是什么？
+[name="？？？"] 我记得，是……
 [dialog]
 [delay(time=1.5)]
 [playsound(key="$d_gen_walk_n")]
@@ -38,18 +38,18 @@
 [name="孑"] 小姐，您的麻辣鳞丸。
 [character(name="avg_npc_032")]
 [name="女游客"] 哇，闻着就好香，老板，给你钱。
-[name="女游客"] 唔唔......真不错，不愧是在百大民间美食攻略里特别推荐的鳞丸。
+[name="女游客"] 唔唔……真不错，不愧是在百大民间美食攻略里特别推荐的鳞丸。
 [character(name="avg_272_strong_1#3$1")]
 [name="孑"] 等一下！
 [character(name="avg_npc_032")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="女游客"] 咦？！
-[name="女游客"] 怎......怎么了？
+[name="女游客"] 怎……怎么了？
 [character(name="avg_272_strong_1#4$1")]
 [name="孑"] 钱给多了，喏，找您钱。
 [character(name="avg_npc_032")]
-[name="女游客"] 谢......谢谢......
-[name="女游客"] 我......我可以走了吗？
+[name="女游客"] 谢……谢谢……
+[name="女游客"] 我……我可以走了吗？
 [character(name="avg_272_strong_1#1$1")]
 [name="孑"] 啊，还有事吗？
 [character(name="avg_npc_032")]
@@ -61,8 +61,8 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [character(name="avg_272_strong_1#1$1")]
-[name="孑"] 好像又吓到客人了......
-[name="孑"] 我说错什么了吗......？
+[name="孑"] 好像又吓到客人了……
+[name="孑"] 我说错什么了吗……？
 [character(name="avg_npc_034")]
 [name="鼠王"] 呵呵，这几天好像都是你在出摊啊，老董他人呢？
 [character(name="avg_272_strong_1#1$1")]
@@ -86,7 +86,7 @@
 [character(name="avg_272_strong_1#4$1")]
 [name="孑"] 嗯，我记清楚了，三个咖喱，一个菌汤。
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
-[name="凶狠的叉烧帮成员"] ......
+[name="凶狠的叉烧帮成员"] ……
 [name="凶狠的叉烧帮成员"] （怎么回事？！你不是说这是暗号吗？）
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
@@ -105,10 +105,10 @@
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] （啧，真麻烦。）
 [character(name="avg_272_strong_1#1$1")]
-[name="孑"] 这位老板......？
+[name="孑"] 这位老板……？
 [name="孑"] 您的鳞丸还要吗？
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
-[name="精明的叉烧帮成员"] 我......我......
+[name="精明的叉烧帮成员"] 我……我……
 [character(name="avg_272_strong_1#2$1")]
 [name="孑"] 您要是不确定要啥口味的，我给您挑两个，您先尝尝——
 [dialog]
@@ -137,7 +137,7 @@
 [character(fadetime=1.5)]
 [delay(time=2)] 
 [character(name="avg_npc_034")]
-[name="鼠王"] ......有意思。
+[name="鼠王"] ……有意思。
 [stopmusic(fadetime=1)]
 [Dialog]
 [Character]
@@ -147,16 +147,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [character(name="avg_272_strong_1#1$1",fadetime=1.5)]
 [delay(time=2)]
-[name="孑"] ......
-[name="孑"] 呜......
-[name="孑"] 头好痛......
+[name="孑"] ……
+[name="孑"] 呜……
+[name="孑"] 头好痛……
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 这是怎么回事......？这是哪？
+[name="孑"] 这是怎么回事……？这是哪？
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 哟，你醒了。先喝杯水吧。
 [character(name="avg_272_strong_1#3$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="孑"] 谢——怎么回事，你们是谁......我怎么被绑起来了......？
+[name="孑"] 谢——怎么回事，你们是谁……我怎么被绑起来了……？
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 对您这样的大人物，用这种手段也是迫不得已。之前一直不知道卤水帮是您的人，多有得罪了。
 [name="凶狠的叉烧帮成员"] 但是话说回来，这次抢我们的货到底是卤水帮不对在先。您看，是不是该给个说法？
@@ -167,7 +167,7 @@
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
 [name="精明的叉烧帮成员"] （懂了，“鳞”是黑话，他意思是说，货被谁拿到就该归谁。）
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
-[name="凶狠的叉烧帮成员"] 咳咳......行，您说的也不是没有道理。
+[name="凶狠的叉烧帮成员"] 咳咳……行，您说的也不是没有道理。
 [name="凶狠的叉烧帮成员"] 但干这行也有这行的规矩，这批货的生意一直是我们叉烧帮在做，您突然要加进来，是不是该先和我们有个商量？
 [character(name="avg_272_strong_1#3$1")]
 [name="孑"] 我开水产摊这么久了，怎么从来没见过你们？
@@ -176,11 +176,11 @@
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
 [name="精明的叉烧帮成员"] （他意思是说，他混得比我们早，我们才是后来的。）
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
-[name="凶狠的叉烧帮成员"] ......是，我们当然知道，您在整个龙门也是有头有脸的人物。我们敬重您的地位，所以才和您商量。
+[name="凶狠的叉烧帮成员"] ……是，我们当然知道，您在整个龙门也是有头有脸的人物。我们敬重您的地位，所以才和您商量。
 [name="凶狠的叉烧帮成员"] 您要想做生意，我们可以谈，但是您抢去的那批货，对我们叉烧帮也很重要，大家和气生财，您就把东西还给我们吧。
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 在龙门......有头有脸？
-[name="孑"] 那个......你们好像是找错人了，能不能放我走啊......
+[name="孑"] 在龙门……有头有脸？
+[name="孑"] 那个……你们好像是找错人了，能不能放我走啊……
 [dialog]
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [PlaySound(key="$bottlebroken")]
@@ -189,7 +189,7 @@
 [name="凶狠的叉烧帮成员"] 喂，别敬酒不吃吃罚酒！
 [name="凶狠的叉烧帮成员"] 我们看在你的面子上和你好好说话。你也别以为我们叉烧帮是好糊弄的！
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 我实在不知道你们在说什么......
+[name="孑"] 我实在不知道你们在说什么……
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 还在这装傻？呵，把东西拿出来。
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
@@ -199,12 +199,12 @@
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
 [name="精明的叉烧帮成员"] 别以为我们不知道，这是你们卤水帮的职业杀手，也是暗中保护你的护卫。
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 什......
+[name="孑"] 什……
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 上个月月底那天，她来你这买了鳞丸，第二天，卤水帮的对头就被人抄了家，说是一个使古怪功夫的菲林干的。
 [name="凶狠的叉烧帮成员"] 你还说她不是受你的指使？
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 槐琥小姐，怎么偏偏在那个时候去行侠仗义......
+[name="孑"] 槐琥小姐，怎么偏偏在那个时候去行侠仗义……
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
 [name="精明的叉烧帮成员"] 还有这张呢？
 [character(name="avg_272_strong_1#3$1")]
@@ -214,12 +214,12 @@
 [name="凶狠的叉烧帮成员"] 我们的人可不止一次在那家鳞丸摊附近看到过鬼姐。
 [name="凶狠的叉烧帮成员"] 你倒是解释解释，近卫局特别任务组的督察，为什么会对一个卖鳞丸的小贩感兴趣？
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 那也是个误会......
+[name="孑"] 那也是个误会……
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 哼，别以为卤水帮替身的把戏能瞒过我们。
 [name="凶狠的叉烧帮成员"] 承认吧，你们卤水帮明面上的老大不过是个傀儡，真正的老大，是你！
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] ......
+[name="孑"] ……
 [name="孑"] （我还是先别说话了。）
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 不说话，看来是没的谈了？	
@@ -235,7 +235,7 @@
 [name="？？？"] 叉烧帮刚送信过来，说头儿在他们手里。
 [name="？？？"] 给了我们一个地址，让我们今晚带货物去换人。
 [name="？？？"] 他妈的，果然是他们！把大伙都叫上，找叉烧帮算账去！
-[name="？？？"] 那我们要带货物吗......？
+[name="？？？"] 那我们要带货物吗……？
 [name="？？？"] 带个屁！当我们卤水帮好欺负？抄家伙！和他们拼了！
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -246,7 +246,7 @@
 [name="凶狠的叉烧帮成员"] 考虑得怎么样，“老大”？
 [name="凶狠的叉烧帮成员"] 信已经送到了你们卤水帮手里。现在交出货物，我们还能和平解决，等一会儿打起来撕破脸，可就不太好收场了。
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 你们怎么还送了信过去，万一对面真的派人过来可怎么办......
+[name="孑"] 你们怎么还送了信过去，万一对面真的派人过来可怎么办……
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 好家伙，事到如今还敢威胁我们？！
 [character(name="avg_272_strong_1#3$1")]
@@ -259,14 +259,14 @@
 [name="精明的叉烧帮成员"] （不是你说这次要秘密行动的？！）
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] （谁能想到他真的什么都不说？！）
-[name="凶狠的叉烧帮成员"] （......罢了，你先看好他，最好能逼他把东西交出来。我去多叫几个兄弟来。）
+[name="凶狠的叉烧帮成员"] （……罢了，你先看好他，最好能逼他把东西交出来。我去多叫几个兄弟来。）
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [characteraction(name="right", type="move", xpos=300, fadetime=2,block=false)]
 [character(name="avg_npc_031",name2="char_empty",fadetime=0.5)]
 [delay(time=2)]
 [character(name="avg_npc_031")]
-[name="精明的叉烧帮成员"] 咳咳......
+[name="精明的叉烧帮成员"] 咳咳……
 [name="精明的叉烧帮成员"] 考虑得怎么样，“老大”？
 [name="精明的叉烧帮成员"] 识相点，现在交出货物，我们和平解决，一会儿要是打起来撕破脸，可就真的不好收场了！
 [character(name="avg_272_strong_1#3$1")]
@@ -279,7 +279,7 @@
 [character(name="avg_npc_031")]
 [name="精明的叉烧帮成员"] 别装了，谁不知道这东西有多危险？敢在近卫局眼皮底下和我们抢这生意，不就是想赚笔大的嘛。
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] ......那个，现在就剩你一个人了对吧？
+[name="孑"] ……那个，现在就剩你一个人了对吧？
 [character(name="avg_272_strong_1#1$1")]
 [name="孑"] 哎，好吧，我告诉你东西到底藏在哪了。
 [character(name="avg_npc_031")]
@@ -307,10 +307,10 @@
 [character]
 [character(name="avg_272_strong_1#1$1")]
 [name="孑"] 董阿伯说得对，用脑袋撞人有时候比拳头还好使。
-[name="孑"] 这绳子绑得真紧......不好意思，这把刀先借我用用，有机会再还你吧。
+[name="孑"] 这绳子绑得真紧……不好意思，这把刀先借我用用，有机会再还你吧。
 [name="孑"] 虽然不知道你们到底要找谁又要找什么东西，可是你们真的找错人了，我真的不是什么老大。
-[name="孑"] 唉，说了你们也不听，我还是先走吧......
-[name="孑"] 呜，头好痛......
+[name="孑"] 唉，说了你们也不听，我还是先走吧……
+[name="孑"] 呜，头好痛……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Background(image="bg_lmstreet_2",screenadapt="coverall")]
@@ -320,7 +320,7 @@
 [name="？？？"] 看那边，有一个拿着刀的人从楼里走出来了，应该就是叉烧帮接头的人吧。
 [name="？？？"] 等一下，你们看那个人，是不是有些面熟？
 [name="？？？"] 我想起来了！他就是那个伪装成水产贩子的顶级杀手。我上次亲眼见他用一把刮鳞刀砍翻了二十个人！
-[name="？？？"] 没想到他居然是叉烧帮的人，这下可不好办了......
+[name="？？？"] 没想到他居然是叉烧帮的人，这下可不好办了……
 [name="？？？"] 先别急，过去问问再说。
 [dialog]
 [stopmusic(fadetime=1)]
@@ -328,8 +328,8 @@
 [PlaySound(key="$rungeneral", volume=1)]
 [character(name="avg_272_strong_1#1$1",fadetime=1.5)]
 [delay(time=2)]
-[name="孑"] 没人追出来，应该甩掉了吧......
-[name="孑"] 唉......大过年的，摊都没收呢，这都是什么事啊......
+[name="孑"] 没人追出来，应该甩掉了吧……
+[name="孑"] 唉……大过年的，摊都没收呢，这都是什么事啊……
 [dialog]
 [character]
 [character(name="avg_npc_033",fadetime=1.5)]
@@ -344,9 +344,9 @@
 [name="孑"] （刚那几个人，说他们是叉烧帮的来着。）
 [name="孑"] 啊对，这就是叉烧帮的地方。
 [character(name="avg_npc_033")]
-[name="？？？"] ......
+[name="？？？"] ……
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] ......
+[name="孑"] ……
 [playMusic(intro="$longmenbat_intro", key="$longmenbat_loop", volume=0.4)]
 [character(name="avg_npc_033")]
 [name="凶恶的卤水帮成员"] 抓住他！
@@ -373,12 +373,12 @@
 [character(name="avg_npc_033")]
 [name="愤怒的卤水帮成员"] 竟然一下子就把二哥打倒了，不愧是叉烧帮第一杀手！
 [character(name="avg_272_strong_1#3$1")]
-[name="孑"] 怎么还有这个版本......
+[name="孑"] 怎么还有这个版本……
 [character(name="avg_npc_033")]
 [name="愤怒的卤水帮成员"] 别怕！我们这么多人，压都能压死他！
 [name="愤怒的卤水帮成员"] 大家跟我上，救出老大！
 [character(name="avg_272_strong_1#1$1")]
-[name="孑"] 这......现在还是先跑路比较好吧......
+[name="孑"] 这……现在还是先跑路比较好吧……
 [Dialog]
 [delay(time=0.7)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -442,8 +442,8 @@
 [delay(time=0.51)]
 [PlaySound(key="$fightgeneral", volume=1)]
 [character(name="avg_272_strong_1#1$1")]
-[name="孑"] 这，唉......我还是先回去收摊吧。
-[name="孑"] 可是，他们说的“货”，到底是什么......
+[name="孑"] 这，唉……我还是先回去收摊吧。
+[name="孑"] 可是，他们说的“货”，到底是什么……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Background(image="bg_lungmen_n",screenadapt="coverall")]
@@ -464,10 +464,10 @@
 [name="王阿伯"] 别开玩笑了，就在这码头，一天到晚打架的人比买鳞的人还多，你问的是哪一次？
 [Character(name="avg_272_strong_1#2$1", name2="avg_npc_005", focus=1)]
 [name="孑"] 不是一般的路人打架，是那种，一看就是很坏的两伙人打架。
-[name="孑"] 哎，这么说也不对......阿伯，最近您在码头上见过什么生面孔吗？
+[name="孑"] 哎，这么说也不对……阿伯，最近您在码头上见过什么生面孔吗？
 [Character(name="avg_272_strong_1#2$1", name2="avg_npc_005", focus=2)]
 [name="王阿伯"] 嗐，这么大的码头，每天人来人往的，我哪能记得清？
-[name="王阿伯"] ......欸，不过你这么一说，我好像有点印象。
+[name="王阿伯"] ……欸，不过你这么一说，我好像有点印象。
 [name="王阿伯"] 我记得上个月有一阵子，每天傍晚的时候都有人运一批箱子到码头。
 [name="王阿伯"] 要是一般送货的人我也不会在意，但是那批箱子都用黑色的布裹得严严实实，看起来还蛮奇怪的。
 [Character(name="avg_272_strong_1#1$1", name2="avg_npc_005", focus=1)]
@@ -476,20 +476,20 @@
 [name="王阿伯"] 那会儿我正忙着收摊呢，哪有功夫记这个。你当谁都像你小子一样，记性那么好？
 [Character(name="avg_272_strong_1#1$1", name2="avg_npc_005", focus=1)]
 [name="孑"] （看来叉烧帮说的就是这批货物。）
-[name="孑"] （他们到底在谋划什么......？）	
+[name="孑"] （他们到底在谋划什么……？）	
 [Character(name="avg_272_strong_1#1$1", name2="avg_npc_005", focus=2)]
 [name="王阿伯"] 哎哟，刚都没注意，看你脸上这伤，又打架了吧。
 [name="王阿伯"] 接着，拿冰块敷一下吧。
 [Character(name="avg_272_strong_1#4$1", name2="avg_npc_005", focus=1)]
-[name="孑"] 谢谢......
+[name="孑"] 谢谢……
 [Character(name="avg_272_strong_1#4$1", name2="avg_npc_005", focus=2)]
 [name="王阿伯"] 你这孩子，明明看着挺老实，怎么总见你身上挂着伤。
 [Character(name="avg_272_strong_1#2$1", name2="avg_npc_005", focus=1)]
-[name="孑"] 这......其实我也不想的......
+[name="孑"] 这……其实我也不想的……
 [Character(name="avg_272_strong_1#2$1", name2="avg_npc_005", focus=2)]
 [name="王阿伯"] 这么些年了，我也算了解你小子。心眼好，性子又直，见不得半点不公道。所以才总是和那些混混起冲突。
 [Character(name="avg_272_strong_1#2$1", name2="avg_npc_005", focus=1)]
-[name="孑"] 不是阿伯，那些其实都是误会......
+[name="孑"] 不是阿伯，那些其实都是误会……
 [Character(name="avg_272_strong_1#2$1", name2="avg_npc_005", focus=2)]
 [name="王阿伯"] 我知道你是个好孩子，但你也要保护好自己。出了事自然有该管事的人，不该惹的人你千万不要惹，明白不？
 [Character(name="avg_272_strong_1#4$1", name2="avg_npc_005", focus=1)]
@@ -503,8 +503,8 @@
 [playmusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
 [character(name="avg_npc_033")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="受伤的卤水帮成员"] 该死的叉烧帮，还挺能打......
-[name="受伤的卤水帮成员"] 其他人也真是......怎么都跑得那么快。都跑哪去了......
+[name="受伤的卤水帮成员"] 该死的叉烧帮，还挺能打……
+[name="受伤的卤水帮成员"] 其他人也真是……怎么都跑得那么快。都跑哪去了……
 [Character]
 [name="？？？"] 还好，看起来剩了一个没跑掉啊。
 [dialog]
@@ -512,13 +512,13 @@
 [character(name="avg_272_strong_1#1$1",fadetime=1.5)]
 [delay(time=2)]
 [character(name="avg_npc_033")]
-[name="受伤的卤水帮成员"] 是......是你！
+[name="受伤的卤水帮成员"] 是……是你！
 [character(name="avg_272_strong_1#1$1")]
 [name="孑"] 对，是我。
 [name="孑"] 叉烧帮第一杀手。
 [character(name="avg_npc_033")]
 [name="受伤的卤水帮成员"] 噫！
-[name="受伤的卤水帮成员"] 饶命......饶命！
+[name="受伤的卤水帮成员"] 饶命……饶命！
 [character(name="avg_272_strong_1#1$1")]
 [name="孑"] 刚才的事我姑且不和你计较。
 [name="孑"] 但你仔细听好了，接下来的问题，我只问一遍，如果回答不能让我满意——
@@ -535,13 +535,13 @@
 [character(name="avg_272_strong_1#3$1")]
 [name="孑"] 卤水帮抢我们的东西是有什么打算？准备卖给谁？
 [character(name="avg_npc_033")]
-[name="受伤的卤水帮成员"] 我不知道......
+[name="受伤的卤水帮成员"] 我不知道……
 [character(name="avg_272_strong_1#3$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="孑"] 还说不知道？！
 [character(name="avg_npc_033")]
 [name="受伤的卤水帮成员"] 我真的不知道！
-[name="受伤的卤水帮成员"] 我、我入伙还不到两个月......帮里的那些机密，我真的是一点都不知道！
+[name="受伤的卤水帮成员"] 我、我入伙还不到两个月……帮里的那些机密，我真的是一点都不知道！
 [character(name="avg_272_strong_1#3$1")]
 [name="孑"] 那你知道些什么！
 [character(name="avg_npc_033")]
@@ -552,11 +552,11 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="孑"] 然后呢？
 [character(name="avg_npc_033")]
-[name="受伤的卤水帮成员"] 然后，然后直到今天，听说收到叉烧帮的信，我只是以为要打架了，才跟着其他人来的，别的什么我是真的不知道了......
+[name="受伤的卤水帮成员"] 然后，然后直到今天，听说收到叉烧帮的信，我只是以为要打架了，才跟着其他人来的，别的什么我是真的不知道了……
 [character(name="avg_272_strong_1#1$1")]
-[name="孑"] （嗯......好像确实问不出什么东西了。）
+[name="孑"] （嗯……好像确实问不出什么东西了。）
 [name="孑"] 咳，告诉你，你们老大就在我们叉烧帮手里。
-[name="孑"] 去告诉你们老大，不对......告诉你们帮里现在能管事的人。
+[name="孑"] 去告诉你们老大，不对……告诉你们帮里现在能管事的人。
 [character(name="avg_272_strong_1#3$1")]
 [name="孑"] 再给你们一次和谈的机会，今晚零点，带着从我们叉烧帮抢的东西，在码头等我们。
 [name="孑"] 这次要是再看不到你们卤水帮的诚意，我们就真的要撕票了！
@@ -570,10 +570,10 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [character(name="avg_272_strong_1#1$1")]
-[name="孑"] 呼......
+[name="孑"] 呼……
 [name="孑"] 看样子，他应该是相信了吧。
 [name="孑"] 演坏人，好难。
-[name="孑"] 冷静，冷静......接下来是......
+[name="孑"] 冷静，冷静……接下来是……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -601,15 +601,15 @@
 [name="孑"] 呵，该夸你们观察力不错，竟然能发现我的真实身份。
 [name="孑"] 没错，我就是卤水帮的老大。
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
-[name="凶狠的叉烧帮成员"] 果然......你、你想怎么样？
+[name="凶狠的叉烧帮成员"] 果然……你、你想怎么样？
 [character(name="avg_272_strong_1#2$1")]
 [name="孑"] 很简单，卤水帮抢叉烧帮的东西，我会如数归还。但叉烧帮绑架我这件事，我也要一个说法。
 [name="孑"] 今晚零点，卤水帮会带着东西在码头等着你们。同样的，我要叉烧帮上下所有人全部到场。
 [name="孑"] 该还的东西我会还，可丢掉的面子，我也会找回来。
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
-[name="精明的叉烧帮成员"] （怎么办，这东西我们还敢要吗......）
+[name="精明的叉烧帮成员"] （怎么办，这东西我们还敢要吗……）
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
-[name="凶狠的叉烧帮成员"] （等、等等......他只有一个人，刚才能打晕他一次，说不定......）
+[name="凶狠的叉烧帮成员"] （等、等等……他只有一个人，刚才能打晕他一次，说不定……）
 [dialog]
 [character]
 [playsound(key="$d_gen_walk_n")]
@@ -617,7 +617,7 @@
 [delay(time=2)]
 [name="槐琥"] 我看谁敢妄动！
 [character(name="avg_npc_031")]
-[name="精明的叉烧帮成员"] 她......她就是那个菲林女杀手！真的是她！
+[name="精明的叉烧帮成员"] 她……她就是那个菲林女杀手！真的是她！
 [character(name="char_243_waaifu_1#3", name2="avg_272_strong_1#3$1", focus=2)]
 [name="孑"] 呵，刚才我大意被你们偷袭得逞了一回，你们还有胆子干第二次？！
 [name="孑"] 看起来，你们是真的不清楚，你们到底是在和什么人打交道。
@@ -644,7 +644,7 @@
 [playsound(key="$d_avg_rockfall")]
 [delay(time=1)]
 [character(name="avg_npc_031")]
-[name="精明的叉烧帮成员"] 一拳就......把墙打穿了！
+[name="精明的叉烧帮成员"] 一拳就……把墙打穿了！
 [character(name="avg_272_strong_1#3$1")]
 [name="孑"] 两小时后，我在码头等着你们。要是见不到叉烧帮的人，后果自负！
 [dialog]
@@ -652,7 +652,7 @@
 [character(fadetime=1.5)]
 [delay(time=2)] 
 [character(name="avg_npc_031", name2="avg_npc_031", focus=1)]
-[name="精明的叉烧帮成员"] 现在该怎么办......？
+[name="精明的叉烧帮成员"] 现在该怎么办……？
 [character(name="avg_npc_031", name2="avg_npc_031", focus=2)]
 [name="凶狠的叉烧帮成员"] 还能怎么办，该来的躲不了，我们去就是！
 [Dialog]
@@ -668,7 +668,7 @@
 [character(name="char_243_waaifu_1", name2="avg_272_strong_1#1$1", focus=1)]
 [name="槐琥"] 你还没告诉我呢，为什么专门叫我来陪你演这出戏？
 [character(name="char_243_waaifu_1", name2="avg_272_strong_1#1$1", focus=2)]
-[name="孑"] 呼......到这里应该差不多了。
+[name="孑"] 呼……到这里应该差不多了。
 [name="孑"] 唉，说实话，其实到现在我也不完全清楚到底是怎么一回事。
 [name="孑"] 总之先谢谢你了，下次请你吃鳞丸。
 [character(name="char_243_waaifu_1", name2="avg_272_strong_1#1$1", focus=1)]
@@ -679,7 +679,7 @@
 [character(name="char_243_waaifu_1#4", name2="avg_272_strong_1#1$1", focus=1)]
 [name="槐琥"] 你不会真的有什么秘密身份吧？
 [character(name="char_243_waaifu_1#4", name2="avg_272_strong_1#2$1", focus=2)]
-[name="孑"] 你就别调侃我了......
+[name="孑"] 你就别调侃我了……
 [name="孑"] 哎，我还是先去码头吧，等到零点，应该一切都清楚了。
 [stopmusic(fadetime=1)]
 [Dialog]
@@ -732,17 +732,17 @@
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#1$1", focus=1)]
 [name="星熊"] 就是你报的警吧。
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#2$1", focus=2)]
-[name="孑"] 对，是我......
+[name="孑"] 对，是我……
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#2$1", focus=1)]
 [name="星熊"] 能不能说说，你是怎么知道这两伙人今晚在码头有交易的？
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#1$1", focus=2)]
-[name="孑"] 这个，解释起来，好复杂......
+[name="孑"] 这个，解释起来，好复杂……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#1$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#1$1", focus=2)]
-[name="孑"] 还有好多事情我到现在也没弄明白，但大概情况就是这样......您能相信吗？
+[name="孑"] 还有好多事情我到现在也没弄明白，但大概情况就是这样……您能相信吗？
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#1$1", focus=1)]
 [name="星熊"] 哈哈哈，不用紧张，其实这件案子，近卫局也跟了一段时间了。
 [name="星熊"] 告诉你也无妨。其实在之前那场动乱后，好多武器遗落在龙门街头。近卫局已经尽力回收了，但还是有不少被叉烧帮这些人捡去了。
@@ -757,16 +757,16 @@
 [character(name="char_136_hsguma_ns_1#3", name2="avg_272_strong_1#1$1", focus=1)]
 [name="星熊"] 哎哎，但话说回来，下次可不许再干这么危险的事了。
 [character(name="char_136_hsguma_ns_1#3", name2="avg_272_strong_1#1$1", focus=2)]
-[name="孑"] 原来是这样，我总算是明白了......
+[name="孑"] 原来是这样，我总算是明白了……
 [name="孑"] 警官，要是没什么事，我能走了吗？
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#1$1", focus=1)]
 [name="星熊"] 稍等一下。
 [name="星熊"] 实不相瞒，我也关注你好久了。我觉得凭你的本事，只在龙门当一个小摊商贩实在是有些屈才了。
 [name="星熊"] 我知道有份更适合你的差事，你要不要考虑一下？
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#2$1", focus=2)]
-[name="孑"] 这......谢谢您的好意，警官。
+[name="孑"] 这……谢谢您的好意，警官。
 [name="孑"] 可是，龙门需要您这样的警官，也需要水产贩子，没什么屈不屈才的。
-[name="孑"] 哎，我嘴笨，总之，我觉得现在没什么不好......
+[name="孑"] 哎，我嘴笨，总之，我觉得现在没什么不好……
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#2$1", focus=1)]
 [name="星熊"] 哈哈，我明白。行，我当然尊重你的选择。不过要是什么时候改了主意，随时可以来找我。
 [character(name="char_136_hsguma_ns_1#5", name2="avg_272_strong_1#2$1", focus=2)]

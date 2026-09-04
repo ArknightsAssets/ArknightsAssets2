@@ -54,13 +54,13 @@
 [charslot(slot="r",name="avg_npc_2166_1#1$1",focus="l")]
 [name="“十六勇士”暴徒A"]那帮小鬼撑不住了，集中火力对付那个拿盾牌的沃尔珀！
 [charslot(slot="r",focus="r")]
-[name="“十六勇士”暴徒B"]竟敢拿着老大的库存对付我们......找死！
+[name="“十六勇士”暴徒B"]竟敢拿着老大的库存对付我们……找死！
 [charslot]
 [charslot(slot="m",name="avg_npc_2167_1#1$1")]
 [name="“十六勇士”暴徒C"]为格罗莫夫报仇！
 [charslot]
 [playsound(key="$d_avg_riot", loop=true, channel="bgs")]
-报仇的喊声如山呼海啸，暴徒如潮水般涌来......
+报仇的喊声如山呼海啸，暴徒如潮水般涌来……
 [Dialog]
 [StopSound(channel="bgs", fadetime=1.5)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -72,10 +72,10 @@
 [charslot(slot="m",name="avg_npc_2181_1#1$1")]
 [name="焦虑的学生"]可他们留存的火力超乎想象，如果还获得了外面的补给，我们——
 [charslot(slot="m",name="avg_1051_headb2_1#1$2")]
-[name="凛冬"]沉住气......相信你的同伴。
+[name="凛冬"]沉住气……相信你的同伴。
 [name="凛冬"]我跟随过这片大地上最出色的战术指挥者，我们一定会活着离开这里。
 [charslot(slot="m",name="avg_npc_2181_1#1$1")]
-[name="焦虑的学生"]......是！
+[name="焦虑的学生"]……是！
 [charslot]
 [playsound(key="$d_avg_snowrun", loop=true, channel="bgs")]
 [StopSound(channel="bgs", fadetime=2)]
@@ -180,7 +180,7 @@
 [charslot(slot="m",name="avg_1051_headb2_1#2$2")]
 [name="凛冬"]（小声）干得好，夏将军，一会儿再见。
 [charslot(slot="m",name="avg_194_leto_1#8$1")]
-[name="烈夏"]......
+[name="烈夏"]……
 [charslot(slot="m",name="avg_1051_headb2_1#9$2")]
 [name="凛冬"]同学们跟我冲！
 [name="凛冬"]胜利就在前方，不要懈怠——
@@ -195,7 +195,7 @@
 [charslot(slot="m",name="avg_1051_headb2_1#9$2")]
 [name="凛冬"]别怕，我马上过去帮你们！
 [charslot(slot="m",name="avg_1051_headb2_1#6$2")]
-[name="凛冬"]......欸？
+[name="凛冬"]……欸？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -206,7 +206,7 @@
 [charslot]
 [name="？？？"]不要逞强，烈夏姐。
 [charslot(slot="m",name="avg_194_leto_1#6$1")]
-[name="烈夏"]嘁，几处擦伤罢了......等等！
+[name="烈夏"]嘁，几处擦伤罢了……等等！
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_196_sunbr_1#3$1",duration=0.5)]
@@ -234,16 +234,16 @@
 [name="乌萨斯市民们"]乌拉——
 [charslot]
 [charslot(slot="m",name="avg_4223_botany_1#10$1")]
-[name="伯塔尼"]反抗巴普洛维奇，反抗压迫的，从来不只有我们......
+[name="伯塔尼"]反抗巴普洛维奇，反抗压迫的，从来不只有我们……
 [dialog]
 [charslot]
 [playsound(key="$d_avg_explosion_stone",volume=0.5)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1051_headb2_1#9$2")]
-[name="凛冬"]爆炸声？从敌人后方那边传来的......一定是无缚者同盟在那里战斗。
+[name="凛冬"]爆炸声？从敌人后方那边传来的……一定是无缚者同盟在那里战斗。
 [charslot(slot="m",name="avg_1051_headb2_1#7$2")]
-[name="凛冬"]......安托沙他们在流血！同学们，前进！
+[name="凛冬"]……安托沙他们在流血！同学们，前进！
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -263,7 +263,7 @@
 [name="安保队长"]枢密官大人，无论如何都该后撤了！
 [name="安保队长"]再这样下去我们会被俘虏的！
 [charslot(slot="m",name="avg_npc_2158_1#8$2")]
-[name="巴普洛维奇"]......放一把火断后，回到城墙上。
+[name="巴普洛维奇"]……放一把火断后，回到城墙上。
 [name="巴普洛维奇"]公爵，不，乌萨斯会救我们的，我得尽量拖到最后。
 [name="巴普洛维奇"]实在不行，就和这些小毛头同归于尽！
 [Dialog]
@@ -272,17 +272,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_2179_1#1$1")]
-[name="勇敢的学生"]......我刚才去看了一圈，能够确定余下的敌人都撤到了城墙上。
+[name="勇敢的学生"]……我刚才去看了一圈，能够确定余下的敌人都撤到了城墙上。
 [charslot(slot="m",name="avg_194_leto_1#1$1")]
 [name="烈夏"]索尼娅！我来了，顺便说一句，后方的炸药大家也都一起搬过来了，正好能派上用场。
 [charslot(slot="m",name="avg_npc_2178_1#1$1")]
 [name="谨慎的学生"]可城墙很坚固，而且我们要先去灭火，顺便收集他们没带走的炸药。
 [charslot(slot="m",name="avg_npc_2179_1#1$1")]
-[name="勇敢的学生"]太花时间了......
+[name="勇敢的学生"]太花时间了……
 [charslot(slot="m",name="avg_194_leto_1#1$1")]
 [name="烈夏"]那就先灭火再谈别的，看我——
 [charslot(slot="m",name="avg_4223_botany_1#9$1")]
-[name="伯塔尼"]......索尼娅？
+[name="伯塔尼"]……索尼娅？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -295,13 +295,13 @@
 [charslot(slot="m",name="avg_npc_2158_1#8$2")]
 [name="巴普洛维奇"]你，你为什么不进来？
 [charslot(slot = "m", focus = "n")]
-[name="安保队长"]大人......我知道您的决心。
+[name="安保队长"]大人……我知道您的决心。
 [name="安保队长"]但城墙很坚固，他们也还没闯进来。
 [name="安保队长"]所以能不能先把火柴放下？至少别让它对着引线——
 [charslot(slot="m",name="avg_npc_2158_1#5$2")]
 [name="巴普洛维奇"]绝不！
 [charslot(slot="m",name="avg_npc_2158_1#8$2")]
-[name="巴普洛维奇"]......那个上尉带来的人呢？
+[name="巴普洛维奇"]……那个上尉带来的人呢？
 [charslot(slot = "m", focus = "n")]
 [name="安保队长"]他们好像也陷入了苦战，好久没传来消息了。
 [name="安保队长"]大人，不能再等了，按下那个通讯器按钮，呼叫火力增援吧！
@@ -312,7 +312,7 @@
 [PlaySound(key="$d_avg_metalhammerhit",volume=0.5)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2158_1#8$2")]
-[name="巴普洛维奇"]......这是什么声音？他们在干什么？
+[name="巴普洛维奇"]……这是什么声音？他们在干什么？
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -342,15 +342,15 @@
 失去了氧气的供给，那团原本不可一世的火舌在这一秒出现了窒息般的停滞，随即被腾起的烟尘死死压灭。
 [playMusic(key="$finalrush_loop", volume=0.6)]
 [charslot(slot="m",name="avg_1051_headb2_1#4$2")]
-[name="凛冬"]原来，是这样......
+[name="凛冬"]原来，是这样……
 [PlaySound(key="$d_avg_walkmeadow",volume=0.7)]
 [charslot(duration=1)]
 她迈出一步，鞋子踩在曾经的火海、现在的焦炭之上。
 [PlaySound(key="$d_avg_metalhammerhit",volume=0.7)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
-一下、两下......飞溅的火星落在她的发梢和肩头，她在燃烧的大地上不断捶打着，仿佛在锻造一条本不存在的道路。
+一下、两下……飞溅的火星落在她的发梢和肩头，她在燃烧的大地上不断捶打着，仿佛在锻造一条本不存在的道路。
 [charslot(slot="m",name="avg_npc_2178_1#1$1")]
-[name="谨慎的学生"]把雕像往城墙那边推倒，或许能把门砸开......
+[name="谨慎的学生"]把雕像往城墙那边推倒，或许能把门砸开……
 [charslot]
 人们不由自主地跟在她的身后，而这条火焰铸就的道路的尽头——
 [dialog]
@@ -363,7 +363,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 巨大的伊戈尔大帝的雕像就矗立在那里——几乎像是倚靠在封锁区的大门口，眺望圣骏堡的最后一隅，也俯视着拖着锤斧的她。
 年轻的领袖走向了一千年前的巨人，夕阳为石头雕像戴上黄金冠冕——这位凝结着创造与苦难的历程的皇帝，正居高临下。
-她握紧了手中的锤斧，每一声呼吸都仿佛轰鸣的炉火......
+她握紧了手中的锤斧，每一声呼吸都仿佛轰鸣的炉火……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot]
@@ -384,7 +384,7 @@
 [Delay(time=1)]
 她抬起手臂——为了那些囚禁在喉咙里的声音。坚不可摧的大理石底座崩裂出一道狰狞的伤疤。
 [charslot(slot="m",name="avg_npc_2179_1#1$1")]
-[name="勇敢的学生"]......
+[name="勇敢的学生"]……
 [name="勇敢的学生"]大家跟着索尼娅一起上！
 [name="勇敢的学生"]砸烂它、推倒它！圣骏堡就在我们眼前！
 [charslot(slot="m",name="avg_npc_2182_1#1$1")]
@@ -400,7 +400,7 @@
 [charslot(slot="m",name="avg_npc_2182_1#1$1")]
 [name="坚定的学生"]费佳，别愣着，来搭把手！
 [charslot(slot="m",name="avg_npc_2155_1#1$1")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [charslot(slot = "m", focus = "n")]
 他望着曾经巍峨挺拔、如今瑟瑟发抖的雕像，心脏随着每一声砸击而震动。
 他的手不由得也抚在了石雕之上，年轻人的呼喊在他耳边四起，紧挨着的臂膀摩擦着，隐隐传来体温。
@@ -418,7 +418,7 @@
 [charslot(slot="m",name="avg_npc_2158_1#4$2")]
 [Background(image="bg_ltroom",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="巴普洛维奇"]......
+[name="巴普洛维奇"]……
 [charslot(slot = "m", focus = "n")]
 [name="安保队长"]枢密官大人！
 [charslot(slot="m",name="avg_npc_2158_1#10$2")]
@@ -450,7 +450,7 @@
 [name="学生的声音"]抓住他们，让他们为自己的罪行付出代价！
 [name="学生的声音"]为了乌萨斯！
 伊戈尔的剑摔落在城墙上，石头铸就的权柄至此粉身碎骨。
-伊戈尔的拳头砸碎了枷锁，一个人影跨过废墟，接着是十个，百个......
+伊戈尔的拳头砸碎了枷锁，一个人影跨过废墟，接着是十个，百个……
 他们的脑海中，回荡着昨夜凛冬的呼喊。
 [Dialog]
 [Image(image="72_i16",screenadapt="coverall",fadetime=1.5,xScale=1.3,yScale=1.3,x=-100,block=true,y=100)]
@@ -461,11 +461,11 @@
 [Image(image="72_i12",screenadapt="coverall",fadetime=1.5,xScale=1.3,yScale=1.3,y=-80,x=-150)]
 [ImageTween(  duration=40, block=false,xScaleFrom=1.3, yScaleFrom=1.3, xScaleTo=1, yScaleTo=1,xTo=0,yTo=0)]
 [delay(time=5)]
-[name="凛冬"]......他们告诉你我，去做一个庸常的人吧。
+[name="凛冬"]……他们告诉你我，去做一个庸常的人吧。
 [name="凛冬"]他们是不是说过——只需割掉舌头，就能咀嚼涂满黄油的面包？
 [name="凛冬"]只需剜掉膝盖，就能换取一纸赦令？
 [name="凛冬"]只需接一杯同伴的鲜血，就能擦亮自己的门楣与勋章？
-[name="凛冬"]这是多么简单的道路，去当历史中的尘埃、供养大地的枯草......
+[name="凛冬"]这是多么简单的道路，去当历史中的尘埃、供养大地的枯草……
 [name="凛冬"]但是，“不”，我们回答。
 [name="凛冬"]我们选择善良与诚实，选择风暴与苦难。因为我们在守护自己，守护每一个应当拥有未来的人。
 [name="凛冬"]来吧，最后一次——
@@ -485,15 +485,15 @@
 [playMusic(intro="$darkness02_intro",key="$darkness02_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_2166_1#1$1",duration=1)]
 [Delay(time=1.5)]
-[name="“十六勇士”暴徒"]......我那一队，只有我一个人走了出来，其他人都——
+[name="“十六勇士”暴徒"]……我那一队，只有我一个人走了出来，其他人都——
 [name="“十六勇士”暴徒"]（啜泣）
 [charslot(slot="m",name="avg_npc_2172_1#1$1")]
-[name="不耐烦的贵族"]这已经是第四个讲战斗过程的证人了......怎么说的都一样呢？
+[name="不耐烦的贵族"]这已经是第四个讲战斗过程的证人了……怎么说的都一样呢？
 [charslot(slot="m",name="avg_npc_2171_1#1$1")]
 [name="思考的贵族"]不要指望巴普洛维奇找来的混混，等上尉那边的士兵来了或许会好不少。
 [charslot(slot="m",name="avg_npc_2168_1#1$1")]
 [name="仲裁人"]控制情绪，先生，听证会还需要了解一些细节。
-[name="仲裁人"]鉴于......契切林上尉已经光荣殉国，但事先调查的时候，你说你了解上尉的具体战斗事迹。
+[name="仲裁人"]鉴于……契切林上尉已经光荣殉国，但事先调查的时候，你说你了解上尉的具体战斗事迹。
 [charslot(slot="m",name="avg_npc_2166_1#1$1")]
 [name="“十六勇士”暴徒"]是的。
 [name="“十六勇士”暴徒"]他们，他们杀死了所有反贼，但最后大多数人都死于城墙倒塌与爆炸——
@@ -504,7 +504,7 @@
 [name="乌克西克"]骗子！
 [name="乌克西克"]你们什么都没看到，凭什么这么说！
 [charslot(slot="m",name="avg_npc_2168_1#1$1")]
-[name="仲裁人"]......警察，带这个孩子离开。
+[name="仲裁人"]……警察，带这个孩子离开。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -518,11 +518,11 @@
 [Delay(time=1)]
 [name="烈夏"]冬将军，行李都清点好了，我们得尽早离开。
 [charslot(slot="m",name="avg_1051_headb2_1#12$2")]
-[name="凛冬"]这次......有多少伤员？
+[name="凛冬"]这次……有多少伤员？
 [charslot(slot="m",name="avg_194_leto_1#7$1")]
-[name="烈夏"]医疗组还在统计......不是所有人都撑到了现在。
+[name="烈夏"]医疗组还在统计……不是所有人都撑到了现在。
 [charslot(slot="m",name="avg_1051_headb2_1#11$2")]
-[name="凛冬"]......
+[name="凛冬"]……
 [charslot(slot="m",name="avg_1051_headb2_1#1$2")]
 [name="凛冬"]无缚者同盟呢？
 [dialog]
@@ -530,13 +530,13 @@
 [PlaySound(key="$d_gen_walk_n", volume=0.7)]
 [charslot(slot="m",name="avg_npc_2157_1#11$2",duration=1)]
 [Delay(time=2)]
-[name="安托沙"]......
+[name="安托沙"]……
 [name="安托沙"]索尼娅，罗莎琳。
 [charslot(slot="m",name="avg_194_leto_1#6$1")]
 [name="烈夏"]安托沙？
 [name="烈夏"]怎么只有你？
 [charslot(slot="m",name="avg_npc_2157_1#2$2")]
-[name="安托沙"]......我们突袭了后方，遇上一队乌萨斯军警。
+[name="安托沙"]……我们突袭了后方，遇上一队乌萨斯军警。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -556,12 +556,12 @@
 [delay(time=1)]
 [name="马特维"]来，拿着这个，捂住胸口，你不会有事的。
 [charslot(slot="m",name="avg_npc_2182_1#1$1")]
-[name="神色坚定的女生"]唔......
-[name="神色坚定的女生"]已经过了这么久吗，马特维......天好黑......
+[name="神色坚定的女生"]唔……
+[name="神色坚定的女生"]已经过了这么久吗，马特维……天好黑……
 [charslot(slot = "m", focus = "n")]
 冬风吹过，泥浆凝固在她年轻的脸庞上。
 [charslot(slot="m",name="avg_npc_2160_1#4$1")]
-[name="马特维"]......嗯。
+[name="马特维"]……嗯。
 [name="马特维"]他们装备精良，不能再这么打下去了，安——
 [charslot(slot="m",name="avg_npc_2160_1#6$1")]
 [name="马特维"]回来！安托沙！
@@ -604,65 +604,65 @@
 [Background(image="72_g6_blockcamp",screenadapt="coverall")]
 [charslot(slot="m",name="avg_npc_2157_1#5$2")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="安托沙"]无缚者，打倒了他们每一个人......
+[name="安托沙"]无缚者，打倒了他们每一个人……
 [charslot(slot="m",name="avg_1051_headb2_1#1$2")]
 [name="凛冬"]那，马特维他——
 [charslot(slot="m",name="avg_npc_2157_1#11$2")]
-[name="安托沙"]......
+[name="安托沙"]……
 [charslot(slot="m",name="avg_194_leto_1#2$1")]
-[name="烈夏"]不......不可能......
+[name="烈夏"]不……不可能……
 [charslot(slot="m",name="avg_1051_headb2_1#12$2")]
-[name="凛冬"]......
-[name="凛冬"]我们能活下来，每个人都欠了他，欠了你们许多......
+[name="凛冬"]……
+[name="凛冬"]我们能活下来，每个人都欠了他，欠了你们许多……
 [name="凛冬"]离开之前，我会找到他和其他人，向他们好好告别的，安托沙，我——
 [charslot(slot="m",name="avg_npc_2157_1#11$2")]
 [name="安托沙"]不要。不要再说了。
 [charslot(slot="m",name="avg_npc_2157_1#1$2")]
-[name="安托沙"]......你还需要做一件事。
+[name="安托沙"]……你还需要做一件事。
 [name="安托沙"]打败我。
 [charslot(slot="m",name="avg_194_leto_1#14$1")]
 [name="烈夏"]什么？！
 [charslot(slot="m",name="avg_npc_2157_1#1$2")]
 [name="安托沙"]索尼娅，为了走出那扇大门，你杀了巴普洛维奇。
-[name="安托沙"]因为你知道他有罪，他是迫害卡托加区所有人的凶手......
+[name="安托沙"]因为你知道他有罪，他是迫害卡托加区所有人的凶手……
 [charslot(slot="m",name="avg_npc_2157_1#7$2")]
 [name="安托沙"]那么你为什么看不见帕夫洛的罪、乌萨斯贵族的罪呢？
 [name="安托沙"]像他这样的人，那些有过之无不及的乌萨斯贵族，还有所谓的“皇帝”费奥多尔，在这个烂透了的地方飞扬跋扈。
-[name="安托沙"]然后他们就看着，看着普通人的血泪流淌......他们以腐肉为生，心安理得。
+[name="安托沙"]然后他们就看着，看着普通人的血泪流淌……他们以腐肉为生，心安理得。
 [name="安托沙"]想想废墟下的“枢密官大人”，他可悲的人生，终于在死亡的时候回馈给了所有被压迫的人。
 [name="安托沙"]他们的毁灭本身就能带来我所要的答案，带给乌萨斯从头至尾的毁灭。
 [charslot(slot="m",name="avg_1051_headb2_1#1$2")]
 [name="凛冬"]你是在审视每一个个体，用他们的身份来作为处刑的依据。
 [name="凛冬"]而摧毁只是一种手段，有的时候它或许有用处，但如果它不能团结起更多的人，那么一切都没有意义。
 [charslot(slot="m",name="avg_npc_2157_1#7$2")]
-[name="安托沙"]又是这种审时度势......
+[name="安托沙"]又是这种审时度势……
 [name="安托沙"]你留下他们，留下腐朽的思想与路径，迟早有一天，他们那“更好的生活”会收买你的朋友，收买你的后继者。
 [charslot(slot="m",name="avg_1051_headb2_1#9$2")]
 [name="凛冬"]因此，你觉得依靠杀戮与摧毁，就能在一夜之间遏制那些思想，铲除一切不公？
 [name="凛冬"]为了一个没有到来的预言，我们不去成为一个保护自己的团体，而是任凭各自的纯粹心灵，去迎接乌萨斯的火炮与战舰？
 [charslot(slot="m",name="avg_npc_2157_1#1$2")]
-[name="安托沙"]......不必多说了，索尼娅。
-[name="安托沙"]你是什么时候，学会了说教......决斗吧......
+[name="安托沙"]……不必多说了，索尼娅。
+[name="安托沙"]你是什么时候，学会了说教……决斗吧……
 [charslot(slot="m",name="avg_1051_headb2_1#11$2")]
 [name="凛冬"]你受了很重的伤。
 [charslot(slot="m",name="avg_npc_2157_1#1$2")]
 [name="安托沙"]如果你还在幻想新的秩序，那就从我的尸体上，走出你的路。
 [charslot(slot="m",name="avg_1051_headb2_1#1$2")]
 [name="凛冬"]不。
-[name="凛冬"]安托沙，你是觉得只有如此才能达到自己的理想......
+[name="凛冬"]安托沙，你是觉得只有如此才能达到自己的理想……
 [name="凛冬"]还是因为，目睹同伴们在你的面前牺牲，所以你决心追求一场诗意的死亡？
 [charslot(slot="m",name="avg_npc_2157_1#6$2")]
-[name="安托沙"]......
+[name="安托沙"]……
 [charslot(slot="m",name="avg_1051_headb2_1#1$2")]
-[name="凛冬"]我能理解，此时此刻你不愿独活......可是安托沙——
+[name="凛冬"]我能理解，此时此刻你不愿独活……可是安托沙——
 [charslot(slot="m",name="avg_1051_headb2_1#9$2")]
 [name="凛冬"]从始至终，你都在夸大毁灭的价值，你自以为只要我杀了你就是在为某种未来奠基。
 [name="凛冬"]我不会认同这种愚蠢的愿景，葬送性命绝不可能为理想增色。
-[name="凛冬"]我必须要去找到他们了......
+[name="凛冬"]我必须要去找到他们了……
 [charslot(slot="m",name="avg_npc_2157_1#7$2")]
 [name="安托沙"]等等，索尼娅，你不能走——
 [charslot(slot="m",name="avg_194_leto_1#13$1")]
-[name="烈夏"]......站住！
+[name="烈夏"]……站住！
 [charslot(slot="m",name="avg_194_leto_1#9$1")]
 [name="烈夏"]你以为只有你一个人为无缚者难过吗？
 [charslot(slot="m",name="avg_npc_2157_1#8$2")]
@@ -677,14 +677,14 @@
 [ImageTween(  duration=30, block=false,xScaleFrom=1.3, yScaleFrom=1.3, xScaleTo=1, yScaleTo=1,yTo=0)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=2)]
-[name="烈夏"]不要再伤害他们了......
+[name="烈夏"]不要再伤害他们了……
 [name="烈夏"]到此为止吧，安托沙。
-[name="烈夏"]你的理想，或许再加上你自己......
+[name="烈夏"]你的理想，或许再加上你自己……
 [name="烈夏"]就是他们所有人牺牲的意义。
-[name="安托沙"]......
+[name="安托沙"]……
 像是铁锈的气味又翻涌上了嘴角，他今天第二次品尝到了这种充满悔恨的滋味。
 [name="乌克西克"]你们，你们在干什么？让我进去！
-[name="乌克西克"]罗莎琳？为什么会这样......
+[name="乌克西克"]罗莎琳？为什么会这样……
 [name="烈夏"]这是最快的方式。
 [name="烈夏"]我们也需要时间，去埋葬一些朋友。
 [Dialog]
@@ -699,17 +699,17 @@
 [charslot(slot = "right", name = "avg_npc_2157_1#11$2",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "right", name = "avg_npc_2157_1#11$2",focus="r")]
-[name="安托沙"]乌克西克......
+[name="安托沙"]乌克西克……
 [charslot(slot = "left", name = "avg_4224_turdus_1#3$1",focus="l")]
 [name="乌克西克"]安托沙，我在这里！
-[name="乌克西克"]怎么流了这么多血？我马上给你包扎......
+[name="乌克西克"]怎么流了这么多血？我马上给你包扎……
 [charslot(slot = "right", name = "avg_npc_2157_1#3$2",focus="r")]
-[name="安托沙"]你还不知道......
+[name="安托沙"]你还不知道……
 [charslot(slot = "left", name = "avg_4224_turdus_1#9$1",focus="l")]
 [name="乌克西克"]不知道什么？
-[name="乌克西克"]......我醒来的时候就在索尼娅的营地里了，听他们说，是马特维昨晚把我送过来的。
+[name="乌克西克"]……我醒来的时候就在索尼娅的营地里了，听他们说，是马特维昨晚把我送过来的。
 [charslot(slot = "right", name = "avg_npc_2157_1#11$2",focus="r")]
-[name="安托沙"]......
+[name="安托沙"]……
 [name="安托沙"]那些信，还在你的包里吗？
 [stopmusic(fadetime=2)]
 [Dialog]
@@ -731,7 +731,7 @@
 [charslot(slot="m",name="avg_npc_2155_1#1$1")]
 [name="费奥多尔"]“反贼”，说的是谁？
 [charslot(slot="m",name="avg_npc_2171_1#1$1")]
-[name="慌张的贵族"]您的意思是......
+[name="慌张的贵族"]您的意思是……
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1984_1#1$1",duration=0.5)]
@@ -757,11 +757,11 @@
 [delay(time=3)]
 [name="费奥多尔"]维特，告诉我。
 [name="费奥多尔"]坚持了二十多年，那片火海就是我们的成果吗？
-[name="费奥多尔"]为什么，会是这种成果......
-[name="维特"]......
+[name="费奥多尔"]为什么，会是这种成果……
+[name="维特"]……
 [name="侍从"]议长大人，陛下如果这么走回去，会让那些市民都看到这副打扮的！
 [name="维特"]让他走吧。
-[name="维特"]这是陛下的愿望......
+[name="维特"]这是陛下的愿望……
 费奥多尔在这座城市住了数十年，却是第一次在这条街道上行走。
 雪花从他脸上划过——无论落在废墟还是皇宫，都是同样地冰冷。
 [Dialog]

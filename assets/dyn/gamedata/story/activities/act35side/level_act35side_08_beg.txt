@@ -62,7 +62,7 @@
 [name="娜仁图亚"]这一切都跟你无关。你转投我手下，是我有魅力。
 [name="娜仁图亚"]阿西姆那老家伙为此怨恨我，到处说我的坏话，是他小气。
 [charslot(slot = "m", name = "avg_4138_narant_1#5$1")]
-[name="娜仁图亚"]最后嫉妒我的人凑到一起，给我设圈套使绊子......就怪我运气好，太招金子喜爱也太招人喜爱吧。
+[name="娜仁图亚"]最后嫉妒我的人凑到一起，给我设圈套使绊子……就怪我运气好，太招金子喜爱也太招人喜爱吧。
 [charslot(slot = "m", name = "avg_npc_165")]
 [name="犹疑的前沙盗"]可是，娜仁图亚，我担心的是你。
 [name="犹疑的前沙盗"]你要这样行囊空空地走进沙漠，如果找不到水源也遇不到野兽，该怎么办？
@@ -78,7 +78,7 @@
 然后，她缓缓瞪大了眼睛，解下兽皮袋，翻过来抖了抖。
 几粒沙子落进了无边的大漠之中。
 [charslot(slot = "m", name = "avg_4138_narant_1#4$1")]
-[name="娜仁图亚"]奇怪，我不记得自己遇到过乞丐或者流浪汉......
+[name="娜仁图亚"]奇怪，我不记得自己遇到过乞丐或者流浪汉……
 [name="娜仁图亚"]倒是隐隐约约记得，遇到了不少有钱人？
 [charslot(slot = "m", name = "avg_npc_165")]
 [name="犹疑的前沙盗"]娜仁图亚，我想了想，应该把我寻找水源的秘诀教给你。
@@ -104,19 +104,19 @@
 [name="娜仁图亚"]——我的刀呢？我的匕首呢？我储备的麻痹毒剂和孢子瓶呢？
 [charslot(slot = "m", name = "avg_npc_1485_1#3$2")]
 [name="阿雅妮"]唉，娜仁图亚，我担心的确实是你总想招揽新的手下。
-[name="阿雅妮"]你独自出发，如果遇到的是能立刻给你帮忙的手下，那的确很好，但大多数时候，其实是像我和阿雅吉那样被你救......
+[name="阿雅妮"]你独自出发，如果遇到的是能立刻给你帮忙的手下，那的确很好，但大多数时候，其实是像我和阿雅吉那样被你救……
 [charslot(slot = "m", name = "avg_4138_narant_1#10$1")]
 [name="娜仁图亚"]“独自出发”？你们不跟我一起去那座“辉煌之城”了？
 [charslot(slot = "m", name = "avg_npc_1485_1#3$2")]
 [name="阿雅妮"]所以我和阿雅吉去雨林的伐木场干了两个月的活，把攒起来的金币全部丢进了一条据说会流到辉煌之城的河里。
-[name="阿雅妮"]但愿你能在河水漫上来的时候捡到它们，但愿你的天途能更加顺利......
+[name="阿雅妮"]但愿你能在河水漫上来的时候捡到它们，但愿你的天途能更加顺利……
 [charslot(slot = "m", name = "avg_4138_narant_1#1$1")]
 [name="娜仁图亚"]好，我也喜欢这份祝福，虽然雨林在河的下游。
 [dialog]
 [PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4138_narant_1#12$1")]
-[name="娜仁图亚"]......等等。
+[name="娜仁图亚"]……等等。
 [name="娜仁图亚"]天途？
 [charslot(slot = "m", name = "avg_npc_1484_1#2$2")]
 [name="阿雅吉"]是的，天途。
@@ -125,9 +125,9 @@
 [charslot(slot = "m", name = "avg_4138_narant_1#10$1")]
 [name="娜仁图亚"]没有啊，什么时候的事？
 [charslot(slot = "m", name = "avg_4138_narant_1#4$1")]
-[name="娜仁图亚"]......现在我的确是“孤身一人，除父母所赠予的武器之外身无一物”......
+[name="娜仁图亚"]……现在我的确是“孤身一人，除父母所赠予的武器之外身无一物”……
 [charslot(slot = "m", name = "avg_4138_narant_1#8$1")]
-[name="娜仁图亚"]......那我还是不去辉煌之城了。不去了！
+[name="娜仁图亚"]……那我还是不去辉煌之城了。不去了！
 [dialog]
 [PlaySound(key="$d_avg_fssand", volume=1)]
 [charslot(duration=1.5, isblock=true)]
@@ -151,7 +151,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 刹那间，黄沙中立起高墙，刺眼的阳光仿佛被抹除一块。
-[name="娜仁图亚"]......我的驮兽呢？我的帐篷呢？
+[name="娜仁图亚"]……我的驮兽呢？我的帐篷呢？
 娜仁图亚揉了揉眼睛。
 仿佛陷入自己制造的梦魇，她的视野逐渐收窄，只剩下一条笔直向前的路。
 [dialog]
@@ -216,13 +216,13 @@
 [charslot(slot = "r", name = "avg_4138_narant_1#11$1", focus="r")]
 [name="娜仁图亚"]难怪我在梦里感觉头有点疼，还有个声音“呜呜”地跟我说话。我没破相吧？
 [charslot(slot = "l", name = "avg_npc_1477_1#1$1", focus="l")]
-[name="阿斯帕齐娅"]......没有。
+[name="阿斯帕齐娅"]……没有。
 [charslot(slot = "r", name = "avg_4138_narant_1#3$1", focus="r")]
 [name="娜仁图亚"]那就好。
 [charslot(slot = "r", name = "avg_4138_narant_1#2$1", focus="r")]
 [name="娜仁图亚"]你是怎么赶走那只循兽的？我在梦里跟它大喊大叫了半天都没说服它。
 [charslot(slot = "l", name = "avg_npc_1477_1#3$1", focus="l")]
-[name="阿斯帕齐娅"]......
+[name="阿斯帕齐娅"]……
 [name="阿斯帕齐娅"]考虑到情况紧急，我直接使用了暴力手段。
 [charslot(slot = "r", name = "avg_4138_narant_1#5$1", focus="r")]
 [name="娜仁图亚"]哎，我怎么没想到？有时候还是刀子好用！
@@ -230,21 +230,21 @@
 [charslot(slot = "r", name = "avg_4138_narant_1#2$1", focus="r")]
 [name="娜仁图亚"]我说错了，不是手下。
 [charslot(slot = "l", name = "avg_npc_1477_1#1$1", focus="l")]
-[name="阿斯帕齐娅"]......我们还是快走吧。这些金属人偶随时可能再动起来，这里并不安全。
+[name="阿斯帕齐娅"]……我们还是快走吧。这些金属人偶随时可能再动起来，这里并不安全。
 [charslot(slot = "r", name = "avg_4138_narant_1#1$1", focus="r")]
 [name="娜仁图亚"]对我来说倒是挺安全的。
 [charslot(slot = "r", name = "avg_4138_narant_1#1$1", focus="r")]
-[name="娜仁图亚"]唉，河中的神灵明明给了我见义勇为展示自我的机会，我怎么就在大街上睡着了呢......？
+[name="娜仁图亚"]唉，河中的神灵明明给了我见义勇为展示自我的机会，我怎么就在大街上睡着了呢……？
 [charslot(slot = "r", name = "avg_4138_narant_1#5$1", focus="r")]
 [name="娜仁图亚"]还做了个好梦。
 [charslot(slot = "l", name = "avg_npc_1477_1#4$1", focus="l")]
-[name="阿斯帕齐娅"]......街上一片混乱，你躺在沙子里，还......做了个好梦？
+[name="阿斯帕齐娅"]……街上一片混乱，你躺在沙子里，还……做了个好梦？
 [charslot(slot = "r", name = "avg_4138_narant_1#5$1", focus="r")]
 [name="娜仁图亚"]是啊，我梦见了自己的启程仪式，很热闹，连大家打的拍子都格外整齐。
 [charslot(slot = "r", name = "avg_4138_narant_1#1$1", focus="r")]
 [name="娜仁图亚"]我当初说准备来米纳特哈玛仪的时候，要是以前的手下真的那么支持我，那该多好啊！
 [charslot(slot = "l", name = "avg_npc_1477_1#1$1", focus="l")]
-[name="阿斯帕齐娅"]......
+[name="阿斯帕齐娅"]……
 [name="阿斯帕齐娅"]你离开旅馆之后，我和阿雅吉阿雅妮聊了一会儿。
 [charslot(slot = "r", name = "avg_4138_narant_1#1$1", focus="r")]
 [name="娜仁图亚"]她们是不是也跟你说，大部分人都觉得我在做白日梦？
@@ -253,7 +253,7 @@
 [charslot(slot = "r", name = "avg_4138_narant_1#7$1", focus="r")]
 [name="娜仁图亚"]但是啊，反正梦总要醒，为什么不梦个最好的？
 [charslot(slot = "l", name = "avg_npc_1477_1#8$1", focus="l")]
-[name="阿斯帕齐娅"]......噗。
+[name="阿斯帕齐娅"]……噗。
 [name="阿斯帕齐娅"]或许我们都还有很多对方不了解的事情。
 [name="阿斯帕齐娅"]很高兴得知你平安无事。
 [dialog]
@@ -309,35 +309,35 @@
 [charslot(slot = "l", name = "avg_4139_papyrs_1#5$2", focus="l")]
 [name="阿娜特"]——谁？
 [charslot(slot = "l", name = "avg_4139_papyrs_1#4$2", focus="l")]
-[name="阿娜特"]缇缇，你刚才说话了吗......？我有点耳鸣......
+[name="阿娜特"]缇缇，你刚才说话了吗……？我有点耳鸣……
 [charslot(slot = "r", name = "avg_npc_1478_1#6$1", focus="r")]
 [name="梅捷缇克缇"]我没有。
-[name="梅捷缇克缇"]......而且我也听到了。
+[name="梅捷缇克缇"]……而且我也听到了。
 [charslot(slot = "l", name = "avg_4139_papyrs_1#6$2", focus="l")]
 [name="阿娜特"]呃。不是吧。
 [name="阿娜特"]这些文物会说话？
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="阿娜特"]呜哇......它们之前为什么不说啊？！
+[name="阿娜特"]呜哇……它们之前为什么不说啊？！
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_fsmetal", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1488_1#1$1", duration=1.5, isblock=true)]
-[name="宝石构装体"]......
+[name="宝石构装体"]……
 [name="宝石构装体"]永恒的守护者，请回答，请回答，请回答。
 [charslot(slot = "m", name = "avg_npc_1478_1#6$1")]
 [name="梅捷缇克缇"]回答什么？
 [charslot(slot = "m", name = "avg_npc_1488_1#1$1")]
-[name="宝石构装体"]......
+[name="宝石构装体"]……
 [name="宝石构装体"]他教行船的外乡人从这里开始下地行走，他用黄金佩刀的军队保护访客冒进的好奇心。
 [name="宝石构装体"]他杯中的甘甜与苦涩皆从过客囊中榨取，他脚下的沙粒埋着遥远西北的骨片与焦石。
 [name="宝石构装体"]提醒我，他在世间留下的“名”。
 [charslot]
 [charslot(slot = "r", name = "avg_npc_1478_1#1$1", focus="n")]
 [charslot(slot = "l", name = "avg_4139_papyrs_1#9$2", focus="l")]
-[name="阿娜特"]......
+[name="阿娜特"]……
 [charslot(slot = "r", name = "avg_npc_1478_1#3$1", focus="r")]
-[name="梅捷缇克缇"]......
-[name="梅捷缇克缇"]......阿娜特。
+[name="梅捷缇克缇"]……
+[name="梅捷缇克缇"]……阿娜特。
 [name="梅捷缇克缇"]我觉得它们并不算“会说话”，至少不算能沟通。
 [name="梅捷缇克缇"]它们只是会提出谜题——就像你开保险库的时候要输入密码一样。
 [charslot(slot = "l", name = "avg_4139_papyrs_1#9$2", focus="l")]
@@ -357,10 +357,10 @@
 [name="梅捷缇克缇"]——等等，阿娜特，冷静一点！
 [name="梅捷缇克缇"]你还能联系上博物馆员工吗？
 [charslot(slot = "l", name = "avg_4139_papyrs_1#6$2", focus="l")]
-[name="阿娜特"]怎、怎么了......？
+[name="阿娜特"]怎、怎么了……？
 [charslot(slot = "r", name = "avg_npc_1478_1#6$1", focus="r")]
 [name="梅捷缇克缇"]我觉得，说不定这是关于历史的谜题。
-[name="梅捷缇克缇"]我记得......你不是最喜欢那本《大地巡旅》了吗？书在哪里？
+[name="梅捷缇克缇"]我记得……你不是最喜欢那本《大地巡旅》了吗？书在哪里？
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -377,11 +377,11 @@
 [charslot(slot = "r", name = "avg_npc_1478_1#1$1", focus="r")]
 [name="梅捷缇克缇"]给。
 [charslot(slot = "l", name = "avg_4139_papyrs_1#7$2", focus="l")]
-[name="阿娜特"]......你问的是贝亚德帕夏，他同意了开拓伊比利亚—萨尔贡—玻利瓦尔商道，继而引进了玻利瓦尔的甘蔗与咖啡豆。
+[name="阿娜特"]……你问的是贝亚德帕夏，他同意了开拓伊比利亚—萨尔贡—玻利瓦尔商道，继而引进了玻利瓦尔的甘蔗与咖啡豆。
 [dialog]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_4139_papyrs_1#1$2", focus="l")]
-[multiline(name="阿娜特")]“与大地之脓疮共生，纤小的头颅串在皮革腰带上齐声哀鸣”......
+[multiline(name="阿娜特")]“与大地之脓疮共生，纤小的头颅串在皮革腰带上齐声哀鸣”……
 [multiline(name="阿娜特", end=true)]根据标签，应该在六十二页。
 [dialog]
 [playsound(key="$d_avg_paper1",volume=1)]
@@ -389,18 +389,18 @@
 [charslot(slot = "l", name = "avg_4139_papyrs_1#7$2", focus="l")]
 [name="阿娜特"]是沙地兽。六世纪时萨尔贡北部曾有捕猎沙地兽的风潮。
 [name="阿娜特"]以前馆藏中用成串沙地兽头颅制成的驱邪装饰，一向被我们认为是无端的自然崇拜。
-[name="阿娜特"]但......见证过历史的你们其实一直都知道，捕猎沙地兽的起因是高浓度活性源石环境引起的少量沙地兽变异，对吗？
+[name="阿娜特"]但……见证过历史的你们其实一直都知道，捕猎沙地兽的起因是高浓度活性源石环境引起的少量沙地兽变异，对吗？
 [name="阿娜特"]好了，下一位构装体，下一个问题，请。
 [charslot(slot = "l", name = "avg_4139_papyrs_1#4$2", focus="l")]
-[multiline(name="阿娜特")]“湖底的遗迹，先祖繁衍百代的子嗣，子嗣斩断先祖的头颅”......
+[multiline(name="阿娜特")]“湖底的遗迹，先祖繁衍百代的子嗣，子嗣斩断先祖的头颅”……
 [charslot(slot = "l", name = "avg_4139_papyrs_1#7$2", focus="l")]
 [multiline(name="阿娜特", end=true)]这个不用找标签了，我记得就在第一百页。
 [charslot(slot = "r", name = "avg_npc_1478_1#3$1", focus="r")]
-[name="梅捷缇克缇"]......那是考古中的一个谜题，一个千年前古代聚落的住民被集体处决，发掘出的刑具却使用了近代的合金材料。
+[name="梅捷缇克缇"]……那是考古中的一个谜题，一个千年前古代聚落的住民被集体处决，发掘出的刑具却使用了近代的合金材料。
 [charslot(slot = "r", name = "avg_npc_1478_1#6$1", focus="r")]
 [name="梅捷缇克缇"]但答案就写在这里。几乎无人亲眼见过的一个种族，匹特拉姆，自古以来就传承着独特的冶炼锻造技术。
 [charslot(slot = "l", name = "avg_4139_papyrs_1#7$2", focus="l")]
-[name="阿娜特"]好，下一题......
+[name="阿娜特"]好，下一题……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_gemprocess", volume=0, loop=true, channel="ge")]
@@ -414,7 +414,7 @@
 “你只要坚持讲自己觉得正确的事情，阿娜特。”
 [charslot(slot = "l", name = "avg_4139_papyrs_1#1$2", focus="n")]
 [charslot(slot = "r", name = "avg_npc_1478_1#6$1", focus="r")]
-[name="梅捷缇克缇"]......唔，这是个受忌讳的说法，但萨卡兹的确曾经踏足萨尔贡。我们至今不知道古老的诅咒留存在多少历史注脚里。
+[name="梅捷缇克缇"]……唔，这是个受忌讳的说法，但萨卡兹的确曾经踏足萨尔贡。我们至今不知道古老的诅咒留存在多少历史注脚里。
 [charslot(slot = "l", name = "avg_4139_papyrs_1#1$2", focus="l")]
 [name="阿娜特"]对了，缇缇，这也是你给我的启发。
 [charslot(slot = "r", name = "avg_npc_1478_1#1$1", focus="r")]
@@ -431,7 +431,7 @@
 [charslot(slot = "r", name = "avg_npc_1478_1#1$1", focus="r")]
 [name="梅捷缇克缇"]说起来，要是有这样一个机会，你想像祖拜尔那样长生，亲眼见证更久远的历史吗？
 [charslot(slot = "l", name = "avg_4139_papyrs_1#3$2", focus="l")]
-[name="阿娜特"]......
+[name="阿娜特"]……
 [name="阿娜特"]其实我一直在想，这些构装体在通过历史问答来认证，我们是不是有资格控制它们的那个人。
 [name="阿娜特"]那么，是哪句话触发了它们的认证模式？
 [charslot(slot = "l", name = "avg_4139_papyrs_1#9$2", focus="l")]
@@ -444,8 +444,8 @@
 [PlaySound(key="$d_avg_reedmarshes", volume=0, loop=true, channel="r")]
 [SoundVolume(volume=1, channel="r",fadetime=4)]
 [Delay(time=2)]
-[name="佩佩"]好黑......这是在哪里？
-[name="佩佩"]我......在那只怪兽的肚子里......
+[name="佩佩"]好黑……这是在哪里？
+[name="佩佩"]我……在那只怪兽的肚子里……
 [dialog]
 [StopSound(channel="r", fadetime=2)]
 [PlaySound(key="$d_avg_snowstormflp", volume=0, loop=true, channel="s")]
@@ -458,25 +458,25 @@
 [BackgroundTween(xScaleFrom=1.05, xScaleTo=1, yScaleFrom=1.05, yScaleTo=1, duration=10,ease="OutQuad",block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=2)]
-[name="佩佩"]风的声音......
-[name="佩佩"]唔......前面是......
+[name="佩佩"]风的声音……
+[name="佩佩"]唔……前面是……
 [dialog]
 [StopSound(channel="s", fadetime=2)]
 [PlaySound(key="$leaveshake", volume=1)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#2$1", duration=1, isblock=true)]
-[name="佩佩"]沙漠中的湖泊......？
+[name="佩佩"]沙漠中的湖泊……？
 [dialog]
 [charslot]
 在金黄的沙漠中，一片碧绿色的湖泊正躺在中央，微风轻轻拂动岸边的棕榈树，发出佩佩方才听到的树叶摩挲声。
 一个男孩半截身子潜入水中，片刻后，他忽地坐起身，手里攥紧一条漂亮的金色鳞。
 他捧着鳞，小心翼翼地向佩佩走来。
 [charslot(slot = "m", name = "avg_4058_pepe_1#4$1")]
-[name="佩佩"]那个......小朋友，请问你知道......
+[name="佩佩"]那个……小朋友，请问你知道……
 [charslot(slot = "m", focus="n")]
 [name="稚嫩的男孩"]姐姐，看我捉到了什么！
 [charslot(slot = "m", name = "avg_4058_pepe_1#8$1")]
 [name="佩佩"]姐姐，谁是你姐姐？
-[name="佩佩"]你......你在瞎说什么？
+[name="佩佩"]你……你在瞎说什么？
 [charslot(slot = "m", focus="n")]
 [name="稚嫩的男孩"]父亲说，他打算将母亲埋在这里，埋在她的故乡。
 [name="稚嫩的男孩"]他还会为她修建一座漂亮的坟墓，有漂亮的水池，种满莲花。
@@ -484,26 +484,26 @@
 [charslot(slot = "m", name = "avg_4058_pepe_1#8$1")]
 [name="佩佩"]这和我有什么关系吗？
 [charslot(slot = "m", focus="n")]
-[name="稚嫩的男孩"]姐姐......
+[name="稚嫩的男孩"]姐姐……
 [charslot(slot = "m", name = "avg_4058_pepe_1#3$2")]
 [name="佩佩"]不要再叫我姐姐了！我弟弟不长你这样！
 [charslot(slot = "m", focus="n")]
-[name="稚嫩的男孩"]父亲......他的征伐仍然要继续，他不会因为母亲的离开停下脚步。
+[name="稚嫩的男孩"]父亲……他的征伐仍然要继续，他不会因为母亲的离开停下脚步。
 [name="稚嫩的男孩"]他问我们，是要留在这里的行宫还是跟着他继续往东方行进。
 [charslot(slot = "m", name = "avg_4058_pepe_1#12$2")]
-[name="佩佩"]呃......小朋友，你在说什么？我是一点也听不懂。
+[name="佩佩"]呃……小朋友，你在说什么？我是一点也听不懂。
 [charslot(slot = "m", focus="n")]
 [name="稚嫩的男孩"]我想要同父亲一起抵达东方，去见识、去征服更加遥远的土地。
 [name="稚嫩的男孩"]和我一起走吧，姐姐，带上你的莎草纸卷与灯芯草笔，你会遇到很多很多值得记述的东西，我会像父亲一样，成就一番伟业。
 [name="稚嫩的男孩"]我会成为你笔下的主人公！
 [name="稚嫩的男孩"]和我一起走吧，姐姐！
 [charslot(slot = "m", name = "avg_4058_pepe_1#12$2")]
-[name="佩佩"]那个，小朋友，容我婉拒......
+[name="佩佩"]那个，小朋友，容我婉拒……
 [charslot(slot = "m", focus="n")]
-[name="温柔的女孩"]嗯......
+[name="温柔的女孩"]嗯……
 [name="温柔的女孩"]我会与你一同跟随父亲，祖拜尔。
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$1")]
-[name="佩佩"]谁......？
+[name="佩佩"]谁……？
 [dialog]
 [charslot]
 佩佩回过头去，看到一个女孩手持白色的莲花，额头上的莲花金饰在阳光下闪闪发光。

@@ -7,7 +7,7 @@
 [Background(image="60_g8_rhodeslowerdeck_origin",screenadapt="coverall")]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Sticker(id="st1", multi = true, text="“生命”这一概念如此空泛，却又对我们充满了致命的吸引力。", x=250,y=250, alignment="center", duration=1, size=24, delay=0.04, width=800)]
-[Sticker(id="st1", multi = true, text="\n\n我们已经习惯了将所有与我们拥有类似思考模式的个体视为生命，仅仅因为“他们有多么地像我们”......", block = true)]
+[Sticker(id="st1", multi = true, text="\n\n我们已经习惯了将所有与我们拥有类似思考模式的个体视为生命，仅仅因为“他们有多么地像我们”……", block = true)]
 [Sticker(id="st1", multi = true, text="\n\n仅仅是因为我们都会为了生存下去，不惜一切代价地与死亡做抗争。", block = true)]
 [Sticker(id="st1", duration=1, block = false)]
 [delay(time=1)]
@@ -64,7 +64,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [interlude(channel = 3, switch = true, type = 3, slot = "m", pfrom = "-250,0", pto="-250,0", name = "avg_npc_1723_1#1$1", duration = 0)]
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "r", name = "avg_npc_167", focus="r")]
-[name="Stormeye"]地形在我出手的瞬间发生了变化，障碍物刚好消失，命中敌方......
+[name="Stormeye"]地形在我出手的瞬间发生了变化，障碍物刚好消失，命中敌方……
 [name="Stormeye"]可露希尔，你怎么做到的？！
 [charslot(slot = "r", focus="n")]
 [interlude(channel = 3, switch = true, type = 3, slot = "m", pfrom = "-250,0", pto="-250,0", name = "avg_npc_1723_1#9$1", duration = 0)]
@@ -103,7 +103,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Sticker(id="st1", multi = true, text="\n\n于是，遵循同一思考模式的生命前赴后继地加入那希望渺茫的队伍中。", block = true)]
 [Sticker(id="st1", duration=0.5, block = false)]
 [delay(time=0.5)]
-[Sticker(id="st2", multi = true, text="可在真正的神明面前，也许......", x=250,y=250, alignment="center", duration=1, size=24, delay=0.04, width=800)]
+[Sticker(id="st2", multi = true, text="可在真正的神明面前，也许……", x=250,y=250, alignment="center", duration=1, size=24, delay=0.04, width=800)]
 [Sticker(id="st2", multi = true, text="\n\n我们所有的抗争在祂看来，就像自然界最微不足道的变化。", block = true)]
 [Sticker(id="st2", multi = true, text="\n\n也许，祂甚至从未注意到我们。", block = true)]
 [Sticker(id="st2", duration=0.5, block = false)]
@@ -152,7 +152,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Sticker(id="st1", duration=0.5, block = false)]
 [delay(time=0.5)]
 [Sticker(id="st2", multi = true, text="我对生命的奇迹倾注了太多的爱，以至于我愈发清晰地看到了我们无法摒弃的软弱和缺陷。", x=250,y=300, alignment="center", duration=1, size=24, delay=0.04, width=800)]
-[Sticker(id="st2", multi = true, text="\n\n我又该如何去相信我爱的每一个人？相信......你？", block = true)]
+[Sticker(id="st2", multi = true, text="\n\n我又该如何去相信我爱的每一个人？相信……你？", block = true)]
 [Sticker(id="st2", duration=0.5, block = false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -168,12 +168,12 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [delay(time=0.5)]
 [name="可露希尔"]在算了！在算了！
 [name="可露希尔"]ZOOT正在同时处理很庞大的信息，给她一点时间！
-[name="可露希尔"]6，5，4，3，2......1！
+[name="可露希尔"]6，5，4，3，2……1！
 [interlude(channel = 3, switch = true, type = 3, slot = "m", pfrom = "0,0", pto="0,0", name = "avg_npc_1723_1#7$1", duration = 0)]
 [name="可露希尔"]Mechanist，抬头！
 [interlude(channel = 3, clear = true)]
 [charslot(slot="m", name="avg_npc_521_1#1$1")]
-[name="Mechanist"]......？
+[name="Mechanist"]……？
 [dialog]
 [CameraShake(duration=5, xstrength=5, ystrength=5, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_rockfall", volume=1)]
@@ -209,7 +209,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Sticker(id="st1", multi = true, text="我无法准确地估算我们下一次的重逢会是何时——", x=250,y=250, alignment="center", duration=1, size=24, delay=0.04, width=800)]
 [Sticker(id="st1", multi = true, text="\n\n但我很确定，那时我们必然已经失去了如今我们所拥有的一切。", block = true)]
 [Sticker(id="st1", multi = true, text="\n\n没有生命永远不会陨落，也没有逝去的人能在时间的尽头重聚。", block = true)]
-[Sticker(id="st1", multi = true, text="\n\n但我仍然希望，那时我能见到你......{@nickname}。", block = true)]
+[Sticker(id="st1", multi = true, text="\n\n但我仍然希望，那时我能见到你……{@nickname}。", block = true)]
 [Sticker(id="st1", duration=2, block = false)]
 [SoundVolume(volume=0.8, channel="en", fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -252,7 +252,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
-激射而出的光束在把源石结晶体围拢成的包围圈撕裂开一个巨大的口子后，继续向着远处扫射过去......击倒了越来越多的源石结晶体——
+激射而出的光束在把源石结晶体围拢成的包围圈撕裂开一个巨大的口子后，继续向着远处扫射过去……击倒了越来越多的源石结晶体——
 但突然，它被某种力量挡住了。
 [dialog]
 [PlaySound(key="$d_avg_metallicclick", volume=1)]
@@ -286,10 +286,10 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [charslot(slot = "m", name = "avg_4133_logos_1#1$1")]
 [name="Logos"]咒言随行。
 [charslot(slot = "m", name = "avg_npc_521_1#1$1")]
-[name="Mechanist"]那......就是石棺？就一直被隐藏在本舰内？
+[name="Mechanist"]那……就是石棺？就一直被隐藏在本舰内？
 [Dialog]
 [charslot]
-[Decision(options="我初次醒来的地方......", values="1")]
+[Decision(options="我初次醒来的地方……", values="1")]
 [Predicate(references="1")]
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [interlude(maskid = "group_interclude_vertical_common" ,size = "290,760",tsfrom="0,1", tsto ="1,1",tsduration = 0.5, switch = true, style = 0,offset = "0,0", channel = 3)]
@@ -303,7 +303,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [name="Touch"]按照Raidian的说法来看，她的状态可不怎么乐观。
 [charslot(slot = "m", name = "avg_npc_1730_1#7$1")]
 [name="Raidian"]Dr.{@nickname}，我们需要尽快让她离开那里。
-[name="Raidian"]再拖延下去，我担心......她的安全。
+[name="Raidian"]再拖延下去，我担心……她的安全。
 [charslot(slot = "m", name = "avg_npc_1310_1#1$1")]
 [name="Pith"]不能妄动，我们并不清楚凯尔希与石棺的情况。
 [name="Pith"]根据当初的作战纪录，在切尔诺伯格时也有人接触了石棺，最后却产生了我们都没预料到的变故。
@@ -316,7 +316,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 你毫不迟疑地向石棺走去。
 [dialog]
 [delay(time=1)]
-你触碰到了冰冷的石棺，它......在回应你。
+你触碰到了冰冷的石棺，它……在回应你。
 不，是凯尔希在回应你。
 [dialog]
 [Decision(options="接下来我们还得一起继续向前呢。", values="1")]
@@ -326,12 +326,12 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [StopSound(channel="sn", fadetime=3)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#10$3")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [name="阿米娅"]凯尔希医生，你——
 [charslot]
 [PlayMusic(intro="$warm_intro", key="$warm_loop", volume=0.6)]
-[name="虚弱的声音"]......你们来得很及时。
-[name="虚弱的声音"]罗德岛......怎么样了......
+[name="虚弱的声音"]……你们来得很及时。
+[name="虚弱的声音"]罗德岛……怎么样了……
 [dialog]
 你向石棺中的人伸出了手。
 [dialog]
@@ -345,7 +345,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_003_kalts_1#4$1", duration=1.5, isblock=true)]
 [delay(time=0.5)]
-[name="凯尔希"]不必在意我......
+[name="凯尔希"]不必在意我……
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]借助石棺介入PRTS很困难，但意料之外的是，我收到了一份礼物。
 [name="凯尔希"]关于PRTS和普瑞赛斯的更多情报，我会马上共享给你们。
@@ -385,7 +385,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Decision(options="罗德岛会共同面对威胁。", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_003_kalts_1#2$1")]
-[name="凯尔希"]......这次的结果，也许的确会不一样。
+[name="凯尔希"]……这次的结果，也许的确会不一样。
 [charslot(slot = "m", name = "avg_003_kalts_1#5$1")]
 [name="凯尔希"]我通过石棺保留了部分权限，我来打开一条通路。
 [charslot]
@@ -436,7 +436,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Sticker(id="st1", duration=3, block = false)]
 [PlaySound(key="$d_avg_machinedeath", volume=1)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
-[name="可露希尔"]“零号油罐”......谢谢你。
+[name="可露希尔"]“零号油罐”……谢谢你。
 [name="可露希尔"]本舰也终于停下了。
 [dialog]
 [charslot]
@@ -448,7 +448,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_003_kalts_1#5$1")]
 [name="凯尔希"]Mon3tr，护住博士。
-[name="凯尔希"]接下来你所有的行动都可以视博士的状况自行判断。从未知敌人的威胁中保护博士......
+[name="凯尔希"]接下来你所有的行动都可以视博士的状况自行判断。从未知敌人的威胁中保护博士……
 [name="凯尔希"]也需要你在博士自身出现任何异样时，限制博士。
 [charslot(slot="m",name="npc_10002")]
 [playsound(key="$char_Mon3tr",volume=1)]
@@ -458,7 +458,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [name="凯尔希"]一旦我们进入Abyss，我们对于现实的一切认知都有可能受到冲击。
 [name="凯尔希"]危险随时会发生，但你和博士的安危永远是最高优先级。那个最终的威胁，只有你们才能应对。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3")]
-[name="阿米娅"]嗯......我会小心。
+[name="阿米娅"]嗯……我会小心。
 [dialog]
 [charslot]
 [Decision(options="有其他需要我注意的事情吗？", values="1")]
@@ -501,7 +501,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [name="Mon3tr"]（不安的低吼）
 [dialog]
 [charslot]
-[Decision(options="凯尔希......", values="2")]
+[Decision(options="凯尔希……", values="2")]
 [Predicate(references="2")]
 [Decision(options="请相信，我和罗德岛与你同在。", values="2")]
 [Predicate(references="2")]
@@ -520,17 +520,17 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [name="凯尔希"]Abyss堪称整个泰拉隐蔽程度和安全等级最高的区域之一，目前只有一个人有权限打开这里。
 你感受到了凯尔希的眼光聚焦在了你的身上。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3")]
-[name="阿米娅"]......博士？
+[name="阿米娅"]……博士？
 [dialog]
 [charslot]
-[Decision(options="......如果需要我的话。;我不会退缩。", values="1;2")]
+[Decision(options="……如果需要我的话。;我不会退缩。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]十七年前，当“罗德岛”号终于被我找到的时候，其大部分结构都在漫长的岁月里被侵蚀破坏。
 [name="凯尔希"]唯有处于核心位置的Abyss和其周边的区域保存依旧完好。
 [name="凯尔希"]依托于Abyss中的未知能源，PRTS也依旧在正常运转，并成为了后来我们所依仗的指挥系统的底层框架。
 [charslot(slot = "m", name = "avg_003_kalts_1#2$1")]
-[name="凯尔希"]可Abyss，从未再有人开启过，至今已经有......万余年。
+[name="凯尔希"]可Abyss，从未再有人开启过，至今已经有……万余年。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -541,7 +541,7 @@ Stormeye虽然很疑惑，但依旧毫不犹豫地连续射出了两箭。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [name="凯尔希"]直到三年前，当“阿喃那”彻底降临的时候，我开始意识到危机降临的速度已经超出了我的预计。
 [name="凯尔希"]那一场混乱，我们中的许多人都曾亲历。遗憾与悲痛令我们至今记忆犹新。
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 阿斯卡纶沉默地举起了袖刃，时刻戒备着任何可能突发的危机。
 Raidian感知到了阿斯卡纶的微妙异常，习惯性利用源石技艺安抚了阿斯卡纶，还有在场的每一位同僚。
 [name="凯尔希"]三年来，我们不断加强本舰的防御，数次演练如何应对试图从内部瓦解罗德岛的威胁。
@@ -570,13 +570,13 @@ Logos的骨笔在空中轻挥，言辞自他口中而出，庇佑随后便到。
 [name="阿米娅"]其中的石棺中极有可能休眠着一位名为“普瑞赛斯”的个体。
 [name="凯尔希"]如果普瑞赛斯醒来，我需要你们集全力以最快速度抹除她。
 [dialog]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [name="凯尔希"]这会是我们避免意外的最好办法，Dr.{@nickname}。
-[name="凯尔希"]刚刚苏醒之时会是她最虚弱的时刻......适应现如今的环境也需要一些时间。
-[name="阿米娅"]博士......？
+[name="凯尔希"]刚刚苏醒之时会是她最虚弱的时刻……适应现如今的环境也需要一些时间。
+[name="阿米娅"]博士……？
 你触碰到了面前的墙，奇异的触感让你心跳加速。
-你有一种直觉。这个地方在等待着你，或者说......这里本就是为你而存在。
+你有一种直觉。这个地方在等待着你，或者说……这里本就是为你而存在。
 墙在颤抖。你似乎还听到了警报声，它几乎要刺破你的耳膜。
 你产生了刹那的恍惚，那刺耳的声音来自现在，还是来自过去？
 [name="阿米娅"]Abyss正在发生变化！
@@ -617,8 +617,8 @@ Logos的骨笔在空中轻挥，言辞自他口中而出，庇佑随后便到。
 [Background]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Sticker(id="st1", multi = true, text="......Dr.{@nickname}......", x=250,y=300, alignment="center", duration=1, size=24, delay=0.04, width=800)]
-[Sticker(id="st1", multi = true, text="\n\n......没想到现在不想松手的会是我。", block = true)]
+[Sticker(id="st1", multi = true, text="……Dr.{@nickname}……", x=250,y=300, alignment="center", duration=1, size=24, delay=0.04, width=800)]
+[Sticker(id="st1", multi = true, text="\n\n……没想到现在不想松手的会是我。", block = true)]
 [Sticker(id="st1", duration=0.5, block = false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Sticker(id="st2", text="<color=#888888>凯尔希</color>", hidelog=true, x=170, y=158, alignment="center", duration=0.01, size=28, delay=0, width=750, block = false)]
@@ -681,7 +681,7 @@ Mantra的声音也在你的心中响起——
 [Sticker(id="st7", multi = true, text="博士，我可以先行进入确认情况——", x=380, y=160, alignment="center", size=24, delay=0.04, width=550)]
 [Sticker(id="st6", block=false)]
 [Sticker(id="st7", block=false)]
-[Decision(options="不，我有一种预感......", values="1")]
+[Decision(options="不，我有一种预感……", values="1")]
 [Predicate(references="1")]
 [Decision(options="这里没有任何威胁。", values="1")]
 [Predicate(references="1")]

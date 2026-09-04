@@ -17,7 +17,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot = "m", name = "avg_npc_969_1#1$1",duration=2)]
 [delay(time=2)]
-[name="艾尔启"]远见所见的未来......在我眼前。
+[name="艾尔启"]远见所见的未来……在我眼前。
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(duration=1)]
@@ -35,7 +35,7 @@
 [charslot]
 [charslot(slot = "m", name = "avg_2012_typhon_1#9$1",duration=1)]
 [delay(time=1)]
-[name="提丰"]......
+[name="提丰"]……
 [dialog]
 [charslot]
 与所有人一样，提丰注视着那个背影。
@@ -65,15 +65,15 @@
 [name="艾尔启"]快离开吧。
 那一瞬间，提丰就知道了她接下来要说什么，因为几乎永远神色悲哀的独眼巨人，此刻却面带微笑。
 “这就是我的命运。”
-[name="艾尔启"]你啊，我不知道命运的女儿，愿你能......
-[name="艾尔启"]......自诩自由地活下去。
+[name="艾尔启"]你啊，我不知道命运的女儿，愿你能……
+[name="艾尔启"]……自诩自由地活下去。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Background]
 [delay(time=1)]
 [Dialog]
-......不。
+……不。
 不！
 我不相信！
 我不相信是今天！
@@ -113,11 +113,11 @@
 在他们附近的雪地里，提丰低着头，四处搜寻。
 她想捡到一团坚实的、带有兽角印记的小雪球。
 [charslot(slot = "m", name = "avg_2012_typhon_1#4$1")]
-[name="提丰"]......找不到了。
+[name="提丰"]……找不到了。
 [charslot(slot = "m", name = "avg_2012_typhon_1#4$1")]
 [name="提丰"]真奇怪，老妈妈来过的话，明明应该留下祝福的。
 [charslot(slot = "m", name = "avg_2012_typhon_1#4$1")]
-[name="提丰"]艾尔启......你说呢？
+[name="提丰"]艾尔启……你说呢？
 [charslot(slot = "m", name = "avg_npc_969_1#1$1")]
 她不愿意承认那只巨大的角兽已经长久离去，但艾尔启只是缓缓地摇了摇头。
 [charslot]

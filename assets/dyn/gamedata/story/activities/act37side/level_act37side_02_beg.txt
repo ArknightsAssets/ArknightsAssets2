@@ -38,21 +38,21 @@
 [charslot(slot="m",name="avg_1019_siege2_1#8$2",focus="m")]
 [name="维娜"]只是对它印象深刻而已，谈不上喜欢。
 [name="维娜"]小时候我睡不着的时候，我的养父母喜欢在我床边为我哼这首歌。
-[name="维娜"]我一度把它当做某种摇篮曲，直到他们去世后很久，我才反应过来对他们而言......“我是谁”。
+[name="维娜"]我一度把它当做某种摇篮曲，直到他们去世后很久，我才反应过来对他们而言……“我是谁”。
 [name="维娜"]那天我才突然发现，我对这首歌很陌生。但没办法，估计我一辈子没法忘掉这首歌的旋律了。
 [dialog]
 [charslot(slot="m",name="avg_1019_siege2_1#8$2",focus="n")]
-[Decision(options="那你还记得他吗？那位......",values="1")]
+[Decision(options="那你还记得他吗？那位……",values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1019_siege2_1#7$2",focus="m")]
-[name="维娜"]那位国王？我对他并不熟悉。至于那个和我血缘上极为亲近的家人......
+[name="维娜"]那位国王？我对他并不熟悉。至于那个和我血缘上极为亲近的家人……
 [charslot(slot="m",name="avg_1019_siege2_1#8$2",focus="m")]
 [name="维娜"]博士，我没必要对你撒谎，我也曾试图补全记忆中那个已经支离破碎的父亲形象。
 [name="维娜"]但我再次亲眼见到他时，从他身上却找不到一点亲近的感觉。
 [name="维娜"]他是国王，我是混街头的。除了都姓“维多利亚”之外，我们没有任何共同点了。
 [charslot(slot="m",name="avg_1019_siege2_1#1$2",focus="m")]
 [name="维娜"]比起他，眼下有更重要的事需要我动脑子。
-[name="维娜"]博士，刚才那些公爵们的话你听到了，伦蒂尼姆......我的家乡随时可能被他们视作弃子。
+[name="维娜"]博士，刚才那些公爵们的话你听到了，伦蒂尼姆……我的家乡随时可能被他们视作弃子。
 [name="维娜"]当初凯尔希医生把你从切尔诺伯格救回来，找我定下了回到维多利亚的计划时，我也没想到会变成现在这样。
 [name="维娜"]但我已经做不到撒手不管了。
 [dialog]
@@ -70,7 +70,7 @@
 [name="维娜"]我们都回到了家，战争也结束了，现在该我去听听他们的声音了。
 [dialog]
 [charslot(slot="m",name="avg_1019_siege2_1#9$2",focus="n")]
-[Decision(options="维娜......",values="1")]
+[Decision(options="维娜……",values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1019_siege2_1#8$2",focus="m")]
 [name="维娜"]怎么了，博士？
@@ -79,10 +79,10 @@
 [Decision(options="未来，你做出的某些决定，或许罗德岛不会认同。;或许罗德岛未来做出的某些决定，你并不会认可。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1019_siege2_1#1$2",focus="m")]
-[name="维娜"]......我知道。
+[name="维娜"]……我知道。
 [name="维娜"]就像你们坚持协助维什戴尔领着剩下的萨卡兹撤离，我们中的很多人都并不接受。
 [charslot(slot="m",name="avg_1019_siege2_1#5$2",focus="m")]
-[name="维娜"]但我很清楚，这场仗不能继续下去了。我......我们失去的人，已经够多了。
+[name="维娜"]但我很清楚，这场仗不能继续下去了。我……我们失去的人，已经够多了。
 [charslot(slot="m",name="avg_1019_siege2_1#1$2",focus="m")]
 [name="维娜"]况且，萨卡兹的警告我们都收到了。
 [name="维娜"]所有公爵舰队愿意在他们撤军时按兵不动，不就是因为收到加急消息——
@@ -110,7 +110,7 @@
 [Sticker(id="st1", text="但你们也无法左右萨卡兹必然走向的未来。此战之后，双方均被烙上难以愈合的伤痕。", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
 [Sticker(id="st1", duration=1,block = false)]
 [delay(time=1)]
-[Sticker(id="st2", text="如那位年轻的萨卡兹摄政王所愿，萨卡兹终于再一次被具体的仇恨团结起来，他们也获得了属于他们的源石......", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
+[Sticker(id="st2", text="如那位年轻的萨卡兹摄政王所愿，萨卡兹终于再一次被具体的仇恨团结起来，他们也获得了属于他们的源石……", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
 [Sticker(id="st2", duration=1,block = false)]
 [delay(time=1)]
 [Sticker(id="st3", text="而仇恨，终归只有一个终点。等到了那时，你又会站在何处？", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
@@ -129,10 +129,10 @@
 而此刻，他黑色的眼眸中映下了你的影子。
 [dialog]
 [charslot(slot="m",name="avg_1019_siege2_1#4$2",focus="m")]
-[name="维娜"]......老师？！
+[name="维娜"]……老师？！
 [dialog]
 [charslot]
-[Decision(options="......;......这是你第一次在我面前现身。", values="1;2")]
+[Decision(options="……;……这是你第一次在我面前现身。", values="1;2")]
 [Predicate(references="1;2")]
 [dialog]
 [charslot(slot = "m", name = "avg_npc_656_1#1$1",focus="m")]
@@ -159,7 +159,7 @@
 [Sticker(id="st1", text="我并非在意于此。维多利亚，自有其兴衰更迭的宿命，我无意干预。", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=740)]
 [Sticker(id="st1", duration=1,block = false)]
 [delay(time=1)]
-[Sticker(id="st2", text="但你们引她走向了直面这片大地宿命的道路......一条希望渺茫的道路。", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
+[Sticker(id="st2", text="但你们引她走向了直面这片大地宿命的道路……一条希望渺茫的道路。", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
 [Sticker(id="st2", duration=1,block = false)]
 [delay(time=1)]
 [Sticker(id="st3", text="我本应履行与故人的约定，陪伴她走到生命的终点，但如今，我亦无法保证自身——", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
@@ -169,7 +169,7 @@
 [delay(time=0.5)]
 [dialog]
 [charslot(slot = "m", name = "avg_npc_656_1#1$1",focus="n")]
-[Decision(options="......我们会避免牵扯更多的人。",values="1")]
+[Decision(options="……我们会避免牵扯更多的人。",values="1")]
 [Predicate(references="1")]
 [dialog]
 [charslot(slot = "m", name = "avg_npc_656_1#1$1",focus="m")]
@@ -193,11 +193,11 @@
 [delay(time=0.5)]
 [dialog]
 [charslot(slot="m",name="avg_1019_siege2_1#10$2",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [dialog]
 [charslot(slot = "m", name = "avg_npc_656_1#5$1",focus="m")]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=1, block=true)]
-[Sticker(id="st1", text="......维娜，我已教会你关于生存的一切，但我无法指导你如何成为他人的希望——", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
+[Sticker(id="st1", text="……维娜，我已教会你关于生存的一切，但我无法指导你如何成为他人的希望——", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
 [Sticker(id="st1", duration=1,block = false)]
 [delay(time=1)]
 [Sticker(id="st2", text="但你眼前之人可以。", x=300, y=370, alignment="center", size=24, delay=0, duration=1, width=700)]
@@ -259,14 +259,14 @@
 [charslot(slot="r",name="avg_4110_delphn_1#9$1",focus="r")]
 [name="戴菲恩"]处理好了，号角紧急从营地拉了一批还在实习的城防军过来。
 [charslot(slot="l",name="avg_1019_siege2_1#8$1",focus="l")]
-[name="维娜"]......没出乱子，太好了。
+[name="维娜"]……没出乱子，太好了。
 [charslot(slot="r",name="avg_4110_delphn_1#1$1",focus="r")]
 [name="戴菲恩"]两边示威人群里都有那些士兵的家属或是战友，劝说的效果好得惊人。唉，那些如今还在替“铣痕”说话的人，实在是昏了头。
 [charslot(slot="l",name="avg_1019_siege2_1#8$1",focus="l")]
 [name="维娜"]不怪他们，的确是议会食言在先。我们的药物供应确实出了问题，她的那些药，的确给了一部分人活下去的希望。
 [charslot(slot="r",name="avg_4110_delphn_1#1$1",focus="r")]
 [name="戴菲恩"]可那说到底，也不过是安慰剂。
-[name="戴菲恩"]维娜，刚开始我还以为你调城防军过来，是为了......
+[name="戴菲恩"]维娜，刚开始我还以为你调城防军过来，是为了……
 [charslot(slot="l",name="avg_1019_siege2_1#8$1",focus="l")]
 [name="维娜"]暴力驱逐他们？用暴力压迫无辜同胞是最懦弱也最低效的手段——
 [dialog]
@@ -279,7 +279,7 @@
 [charslot(slot="l",name="avg_1019_siege2_1#8$1",focus="l")]
 [name="维娜"]别打趣我，要演好这个角色我还差得远。不过好在有很多值得信任的人帮我。
 [charslot(slot="l",name="avg_1019_siege2_1#7$1",focus="l")]
-[name="维娜"]老师，博士，还有你......很多很多人。
+[name="维娜"]老师，博士，还有你……很多很多人。
 [dialog]
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [Delay(time=1)]
@@ -287,17 +287,17 @@
 [charslot(slot="l",name="avg_1019_siege2_1#8$1",focus="l")]
 [name="维娜"]如果不是你的探子和罗德岛同事分享的情报，我也只能抓瞎乱来。
 [charslot(slot="r",name="avg_4110_delphn_1#11$1",focus="r")]
-[name="戴菲恩"]不过，“铣痕”那边......
+[name="戴菲恩"]不过，“铣痕”那边……
 [charslot(slot="l",name="avg_1019_siege2_1#2$1",focus="l")]
-[name="维娜"]贩卖来历不明的危险药物，放高利贷，以死亡威胁市民......还有勾结萨卡兹......
+[name="维娜"]贩卖来历不明的危险药物，放高利贷，以死亡威胁市民……还有勾结萨卡兹……
 [charslot(slot="l",name="avg_1019_siege2_1#1$1",focus="l")]
 [name="维娜"]所有的证据都放在我的抽屉里，全都确认无假。不可能因为有些人从她那得到了好处就放任她乱来。
 [charslot(slot="r",name="avg_4110_delphn_1#5$1",focus="r")]
-[name="戴菲恩"]维娜，阿勒黛她......
+[name="戴菲恩"]维娜，阿勒黛她……
 [charslot(slot="l",name="avg_1019_siege2_1#1$1",focus="l")]
 [name="维娜"]这不是关乎她一个人的事，戴菲恩。
 [name="维娜"]那场灾难之后，所有人都不愿意这份难得的安宁被任何人打破。
-[name="维娜"]......议会向市民许诺了安全，而我知道什么是应该做的。
+[name="维娜"]……议会向市民许诺了安全，而我知道什么是应该做的。
 [charslot(slot="r",name="avg_4110_delphn_1#9$1",focus="r")]
 [name="戴菲恩"]好，我们一位老朋友那有她的线索，你或许会感兴趣。
 [dialog]
@@ -312,9 +312,9 @@
 [name="戴菲恩"]对了，我还是慎重考虑了博士留给我的建议。
 [name="戴菲恩"]等最近这些麻烦事处理完，我就回一趟温德米尔领，取一些本就属于我的东西。
 [name="维娜"]要花上多久？
-[name="戴菲恩"]不清楚。但博士说得对，想要帮上你，我需要妈妈留下的东西......尽管妈妈刚刚去世时，我也曾抗拒过。
+[name="戴菲恩"]不清楚。但博士说得对，想要帮上你，我需要妈妈留下的东西……尽管妈妈刚刚去世时，我也曾抗拒过。
 [name="维娜"]谢谢你。
-[name="戴菲恩"]这也是为了我自己。维多利亚，温德米尔领，丽茵卡登，我必须亲自去看看妈妈在乎的东西......
+[name="戴菲恩"]这也是为了我自己。维多利亚，温德米尔领，丽茵卡登，我必须亲自去看看妈妈在乎的东西……
 [name="戴菲恩"]只有这样，我才能离她更近一点。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -330,25 +330,25 @@
 [charslot(slot="r",name="avg_npc_423_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
-[name="受伤的典范军士兵"]长官......请允许我现在还是称呼你为长官，我，我没想到你会来见我！
+[name="受伤的典范军士兵"]长官……请允许我现在还是称呼你为长官，我，我没想到你会来见我！
 [name="受伤的典范军士兵"]是我递过去的申请通过了吗？！
 [charslot(slot="l",name="avg_npc_229_1#2",focus="l")]
 [name="号角"]沃克，我听说了皮特他们把你从示威现场劝回来后的事，我想——
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
-[name="沃克"]......所以你不是为了那件事来找我。其实我每天都有听广播，长官。
+[name="沃克"]……所以你不是为了那件事来找我。其实我每天都有听广播，长官。
 [name="沃克"]我知道你负责重组的城防军终于参加了交接城防炮的仪式，也知道城外的附属训练地块刚刚竣工。
-[name="沃克"]我特意出城去看了那个地方，训练设施很齐全。我都能想象出自己在那训练的样子......
+[name="沃克"]我特意出城去看了那个地方，训练设施很齐全。我都能想象出自己在那训练的样子……
 [charslot(slot="l",name="avg_npc_229_1#5",focus="l")]
 [name="号角"]抱歉，沃克，我没法同意你加入城防军的申请。
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
-[name="沃克"]......
+[name="沃克"]……
 [name="沃克"]好。如果是我现在还达不到城防军的标准，我会继续——
 [charslot(slot="l",name="avg_npc_229_1#5",focus="l")]
 [name="号角"]你很清楚你的身体状况，继续服役和训练只会伤害你自己。
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
 [name="沃克"]可我的病情已经控制住了，我有在吃药，身上那些石子已经很久没有让我感觉到疼了！我已经在复健——
 [charslot(slot="l",name="avg_npc_229_1#5",focus="l")]
-[name="号角"]“铣痕”的药，对吧？我们分析过成分，那是......
+[name="号角"]“铣痕”的药，对吧？我们分析过成分，那是……
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
 [name="沃克"]有点止痛能力的安慰剂，我知道。
 [name="沃克"]但我们现在都需要这个，议会配发的药物已经不够了，不是吗，长官？
@@ -371,7 +371,7 @@
 [Sticker(id="st1")]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
 [Sticker(id="st1", multi = true, text="<i>我兴奋地说，回家，我会回“揍歪下巴”拳馆，和汉娜、维娜、达格达一起。你也可以回家呀！</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n<i>可那个孩子告诉我......</i>",block = true)]
+[Sticker(id="st1", multi = true, text="\n<i>可那个孩子告诉我……</i>",block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>“我没有家了，我只有你们。”</i>",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -386,7 +386,7 @@
 [charslot(slot="m",name="avg_npc_405_1#12$1",focus="m")]
 [name="摩根"]维娜她们到了，我们该下楼了。
 [charslot(slot="m",name="avg_npc_423_1#1$1",focus="m")]
-[name="沃克"]维娜......议长阁下？她也是为了我来的？是因为示威的事？
+[name="沃克"]维娜……议长阁下？她也是为了我来的？是因为示威的事？
 [name="沃克"]所以长官，你来找我，只是为了看住我？
 [charslot(slot="m",name="avg_npc_405_1#12$1",focus="m")]
 [name="摩根"]她是知道维娜要来才主动过来帮你的，我们都是。
@@ -424,11 +424,11 @@
 [charslot(slot="l",name="avg_1019_siege2_1#1$1",focus="l")]
 [name="维娜"]那碎片大厦核心的技术回收工作人选有结论了吗？
 [charslot(slot="r",name="avg_4110_delphn_1#1$1",focus="r")]
-[name="戴菲恩"]已经拟定了初步名单。但其中一些技术人员和学者的背调还在进行，这些人背后都有......他们的影子。
+[name="戴菲恩"]已经拟定了初步名单。但其中一些技术人员和学者的背调还在进行，这些人背后都有……他们的影子。
 [charslot(slot="l",name="avg_1019_siege2_1#1$1",focus="l")]
 [name="维娜"]我知道他们是谁，那几位大公爵都已经联系过我。如果名单没有大问题，我们只管睁一只眼闭一只眼。
 [charslot(slot="l",name="avg_1019_siege2_1#8$1",focus="l")]
-[name="维娜"]......我倒真希望他们能从里面那堆破烂里找到点有价值的东西，这对维多利亚是件好事。
+[name="维娜"]……我倒真希望他们能从里面那堆破烂里找到点有价值的东西，这对维多利亚是件好事。
 [charslot(slot="r",name="avg_4110_delphn_1#9$1",focus="r")]
 [name="戴菲恩"]哼，要是他们真能争起来，对我们又何尝不是好事呢？
 [Dialog]
@@ -439,7 +439,7 @@
 [charslot(slot="m",name="avg_npc_229_1#6",focus="m")]
 [name="号角"]维娜，戴菲恩。
 [charslot(slot="m",name="avg_4110_delphn_1#11$1",focus="m")]
-[name="戴菲恩"]号角小姐？我以为你在......
+[name="戴菲恩"]号角小姐？我以为你在……
 [charslot(slot="m",name="avg_npc_229_1#6",focus="m")]
 [name="号角"]我刚好过来看看之前的老伙计。
 [name="号角"]不用在意我，我正准备回去验收风笛带着那些实习城防军训练的成果呢。
@@ -453,11 +453,11 @@
 [charslot(slot="m",name="avg_npc_405_1#1$1",focus="m")]
 [name="摩根"]维娜！维娜！你绝对猜不到我和沃克聊了什么，从切特雷镇和我们一起来的戴维斯夫妇的孩子出生了——
 [charslot(slot="m",name="avg_1019_siege2_1#5$1",focus="m")]
-[name="维娜"]......摩根，我知道你们为什么在这。
-[name="维娜"]沃克和示威的事，议会那边会讨论出个结果。我......不该插手这件事。
+[name="维娜"]……摩根，我知道你们为什么在这。
+[name="维娜"]沃克和示威的事，议会那边会讨论出个结果。我……不该插手这件事。
 [name="维娜"]我只是想来聊聊“铣痕”的下落。
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
-[name="摩根"]......
+[name="摩根"]……
 [charslot(slot="m",name="avg_npc_423_1#1$1",focus="m")]
 [name="沃克"]谢谢你们，但不必让议长阁下为难了。
 [name="沃克"]我相信议会，我认识里面的很多人，他们都是些顶好的人。
@@ -465,7 +465,7 @@
 [name="戴菲恩"]议会没有你想象中那么单纯，有人想要看到事态扩大。
 [name="戴菲恩"]但越快解决“铣痕”的事，对你们就越好。
 [charslot(slot="m",name="avg_npc_423_1#1$1",focus="m")]
-[name="沃克"]......
+[name="沃克"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -479,7 +479,7 @@
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=2, block=true)]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
 [Sticker(id="st1", multi = true, text="<i>那位曾经和我们一起冲锋突入城内的士兵就站在夕阳里，接受着我们的“审问”。</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n<i>我们所有人都清楚，维娜可以影响议会......只要她想。</i>",block = true)]
+[Sticker(id="st1", multi = true, text="\n<i>我们所有人都清楚，维娜可以影响议会……只要她想。</i>",block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>也是从那天起，我突然真正意识到，维娜早已经不再只属于格拉斯哥帮。</i>",block = true)]
 [Sticker(id="st1")]
 [playsound(key="$d_avg_paper1",volume=1)]
@@ -502,7 +502,7 @@
 [PlaySound(key="$d_avg_penrustle", volume=1)]
 [Sticker(id="st1", multi = true, text="<i>我们到家了，可并不是一切都按照我们预想的那样发展。</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>我很怕，回归即是告别——</i>",block = true)]
-[Sticker(id="st1", multi = true, text="\n<i>我很怕......我们会失去维娜。</i>",block = true)]
+[Sticker(id="st1", multi = true, text="\n<i>我很怕……我们会失去维娜。</i>",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=2)]
@@ -515,10 +515,10 @@
 [Subtitle(text="“工厂在欢迎我们？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“城、城里真的还有很多人活着！！”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“你们为什么还要拦着我们？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“抱歉......这是公爵的命令。在他们得出结论前，典范军不能再擅自行动了。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“抱歉……这是公爵的命令。在他们得出结论前，典范军不能再擅自行动了。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“为什么你的弩要对着我？！”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“我们刚刚不还在并肩作战吗？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“......我们该怎么办，城里的人好像在......示威？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“……我们该怎么办，城里的人好像在……示威？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
@@ -538,26 +538,26 @@
 [PlaySound(key="$d_avg_erthshkng", volume=1, loop=true, channel="e")]
 [delay(time=2)]
 城市在发怒。
-[name="摩根"]维娜，那些拦着我们的联军队伍在......后撤？
+[name="摩根"]维娜，那些拦着我们的联军队伍在……后撤？
 [name="因陀罗"]怎么突然那些工厂都启动了？情报里不是说，萨卡兹暂时戒严了城内吗？！
-[name="达格达"]......我记得这些工厂。城里这些位置，我死都不会忘掉。
+[name="达格达"]……我记得这些工厂。城里这些位置，我死都不会忘掉。
 [name="达格达"]那里，约克街的“米尔斯工业”！那边，斯科特街的“科波拉食品厂”！还有那！
-[name="达格达"]“康思莱德”“汉金”“南华克货运”......
-[name="达格达"]（哽咽）维娜，我，我以为它们都......
+[name="达格达"]“康思莱德”“汉金”“南华克货运”……
+[name="达格达"]（哽咽）维娜，我，我以为它们都……
 [dialog]
 沉寂的，废弃的，被萨卡兹征用的，还有战战兢兢地运转着的。
 全城的工厂都几乎在同一时间全力开动，那些从城墙外战场上仓促撤回城内的萨卡兹根本无暇顾及。
 喷涌而出的蒸汽是钢铁机械的鼻息，工厂在怒吼。
-[name="摩根"]这是......怎么了？
+[name="摩根"]这是……怎么了？
 [name="维娜"]他们在帮我们。伦蒂尼姆在帮我们。
 [name="联军士兵"]别耽误了，继续前进吧，典范军的诸位，到了该结束一切的时候了。
 [name="联军士兵"]联军第六纵队第十步兵团中尉黛安·韦伯命令小队全体成员放下武器，护送典范军队伍继续推进！
 [name="维娜"]你要违抗公爵们的命令？
-[name="黛安"]我是一名士兵，但更是出生在这的伦蒂尼姆人......这里也是我的家。
+[name="黛安"]我是一名士兵，但更是出生在这的伦蒂尼姆人……这里也是我的家。
 [name="黛安"]多说无益，走吧。推进之王，坚持住，我们还得继续并肩作战呢。
 [name="黛安"]为了夺回属于我们自己的东西！
 第一支公爵联军的队伍放下了手中的弩，随后越来越多的队伍让出了一条道路。
-[name="维娜"]......典范军，继续前进！！
+[name="维娜"]……典范军，继续前进！！
 [dialog]
 [PlaySound(key="$d_avg_armywalking", volume=0.8)]
 [delay(time=2)]
@@ -585,7 +585,7 @@
 [name="珀茜瓦尔"]配合不错，凯瑟琳女士。试着相信我们的人，大家都是好手。
 [name="珀茜瓦尔"]九他们也正在重启其他工厂，很快，整座城市都会沸腾起来了。
 [charslot(slot="m",name="avg_4162_cathy_1#4$1",focus="m")]
-[name="凯瑟琳"]......费斯特，你们也回来了吗？
+[name="凯瑟琳"]……费斯特，你们也回来了吗？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -600,8 +600,8 @@
 [name="海蒂"]启动了吗？
 [charslot(slot="m",name="avg_npc_012",focus="m")]
 [name="近卫干员"]启动了！按照博士的部署，其他几座工厂也已经恢复运转了！
-[name="近卫干员"]不过，除了市民，还有其他人在帮我们......他们自称是——
-[name="近卫干员"]整合运动......
+[name="近卫干员"]不过，除了市民，还有其他人在帮我们……他们自称是——
+[name="近卫干员"]整合运动……
 [Dialog]
 [dialog]
 [StopSound(channel="machine", fadetime=2)]
@@ -618,7 +618,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=0.5)]
 [charslot(slot="l",name="avg_npc_1068_1#1$1",focus="l")]
-[name="高多汀公爵"]......这座城市如此有活力的样子，真是很多年没有见过了。
+[name="高多汀公爵"]……这座城市如此有活力的样子，真是很多年没有见过了。
 [name="高多汀公爵"]我刚刚收到通讯，不少联军队伍主动为典范军让出了一条路。
 [name="高多汀公爵"]这可不是我们的命令。这次试探的结果，阁下您还满意吗？
 [charslot(slot="r",name="avg_npc_726_1#1$1",focus="r")]
@@ -651,7 +651,7 @@
 [charslot(duration=0.7)]
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_1342_1#1$1",bstart=0.2,bend=0.7,focus="m")]
-[name="？？？"]......
+[name="？？？"]……
 [name="？？？"]欢迎回家，维娜。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -675,17 +675,17 @@
 [name="维娜"]是，这里是议长办公室。
 [name="维娜"]放心，沃克没事。议会不至于为了这件事难为他，不过也麻烦提醒他最近注意安全。
 [name="维娜"]谁知道那些盯着我们的人会不会对他也不利。
-[name="维娜"]还有......你们那边进度如何？
+[name="维娜"]还有……你们那边进度如何？
 [dialog]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1019_siege2_1#8$1",focus="m")]
-[name="维娜"]......好。
+[name="维娜"]……好。
 [dialog]
 [charslot(slot="m",name="avg_1019_siege2_1#8$1",focus="n")]
 [playsound(key="$transmission", volume=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_1019_siege2_1#9$1",focus="m")]
-[name="维娜"]我们终于快找到你了......
+[name="维娜"]我们终于快找到你了……
 [charslot(slot="m",name="avg_1019_siege2_1#8$1",focus="m")]
 [name="维娜"]阿勒黛。
 [Dialog]

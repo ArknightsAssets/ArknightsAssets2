@@ -13,19 +13,19 @@
 [name="阿芙朵嘉"]谢谢。
 [name="阿芙朵嘉"]还有，克罗绮，我建议你，以后还是少喝点酒比较好。
 [name="克罗绮·砖石"]啊哈哈，抱歉抱歉。但是，你看，结果来说不是还挺好吗？
-[name="阿芙朵嘉"]我是看不出有哪里好了......
+[name="阿芙朵嘉"]我是看不出有哪里好了……
 [name="阿芙朵嘉"]唉，我还是找个地方换衣服吧。
 然后，两人也注意到了斯第奇的醒来。
 [name="阿芙朵嘉"]唉，早上好，斯第奇。
 [name="斯第奇·画布"]我怎么了？
 [name="阿芙朵嘉"]你还记得你是怎么昏倒的吗？
-[name="斯第奇·画布"]我开着船，然后老耶奇跳了过来，然后......嘶......
+[name="斯第奇·画布"]我开着船，然后老耶奇跳了过来，然后……嘶……
 [name="阿芙朵嘉"]然后船失控了，冲上了岸，把你们两个甩了出来。
 [name="斯第奇·画布"]耶奇大师呢？
 [name="阿芙朵嘉"]耶奇大师比你先醒来，已经带着极境先进去勘测了。
 [name="斯第奇·画布"]对了，还有船上的装备！
 [PlaySound(key="$e_atk_saw_n_2",volume=0.2)]
-[name="阿芙朵嘉"]放在船上的那些设备基本都损坏了，勘测设备......已经让黛柯绮加紧制造了。
+[name="阿芙朵嘉"]放在船上的那些设备基本都损坏了，勘测设备……已经让黛柯绮加紧制造了。
 [name="阿芙朵嘉"]开凿设备倒是不用了。
 [PlaySound(key="$e_atk_saw_n_2",volume=0.2,delay=1)]
 [name="斯第奇·画布"]为什么？
@@ -63,7 +63,7 @@
 [Delay(time=2)]
 [Character(fadetime=0)]
 [Character(name="avg_4054_malist_1#7$1")]
-[name="斯第奇·画布"]嘉维尔，你在干什么啊......
+[name="斯第奇·画布"]嘉维尔，你在干什么啊……
 [Dialog]
 [Character(fadetime=0)]
 [PlaySound(key="$e_atk_saw_n_1")]
@@ -100,7 +100,7 @@
 [name="嘉维尔"]哦，极境，你怎么回来得这么快？
 [stopmusic(fadetime=3)]
 [Character(name="avg_npc_571_1#11$1",name2="avg_1026_gvial2_1#5$1",focus=1)]
-[name="极境"]......
+[name="极境"]……
 [Character(name="avg_npc_571_1#11$1",name2="avg_1026_gvial2_1#9$1",focus=2)]
 [name="嘉维尔"]发生了什么，耶奇大师呢？
 [Character(name="avg_npc_571_1#12$1",name2="avg_1026_gvial2_1#9$1",focus=1)]
@@ -143,7 +143,7 @@
 [name="极境"]有没有可能是之前的大地震导致它被扯到了这里？听说之后也发生过几次小的余震。
 [name="极境"]毕竟这矿脉看起来确实够突兀的。
 [Character(name="avg_npc_564_1#6$1")]
-[name="耶奇·地心"]不是没有可能......
+[name="耶奇·地心"]不是没有可能……
 [Character(name="avg_npc_564_1#4$1")]
 [name="耶奇·地心"]对，没错！它很有可能是被之前的那场地震牵扯到这里来的！
 [Character(name="avg_npc_564_1#8$1")]
@@ -151,13 +151,13 @@
 [Character(name="avg_npc_564_1#7$1")]
 [name="耶奇·地心"]而我们却因为穹顶的源石检测设施一直坏着，直到现在才发现这个问题吗——
 [Character(name="avg_4054_malist_1#5$1")]
-[name="斯第奇·画布"]我......
+[name="斯第奇·画布"]我……
 [Character(name="avg_npc_564_1#8$1")]
 [name="耶奇·地心"]斯第奇，别慌，这不怪你。
 [name="耶奇·地心"]这是我们全际崖城居民的决定。
 [Character(name="avg_npc_564_1#9$1")]
-[name="耶奇·地心"]只是......
-[name="耶奇·地心"]我们刚才走过的距离连半公里都不一定有，在这个距离下，一条完整的活性源石矿脉爆发的话......
+[name="耶奇·地心"]只是……
+[name="耶奇·地心"]我们刚才走过的距离连半公里都不一定有，在这个距离下，一条完整的活性源石矿脉爆发的话……
 [Character(name="avg_npc_564_1#8$1")]
 [name="耶奇·地心"]际崖城绝无幸免可能。
 [dialog]
@@ -191,7 +191,7 @@
 [name="懒散的杜林人"]这么一说，好像确实听耶奇大师说过这样的事情。
 [name="懒散的杜林人"]既然如此，那也没办法了。
 [Character(name="avg_npc_075")]
-[name="依娜姆"]你们......不会觉得建造“大水坑”是一个错误的决定吗？
+[name="依娜姆"]你们……不会觉得建造“大水坑”是一个错误的决定吗？
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=1)]
 [name="懒散的杜林人"]为什么？我们愿意接受这个结果。
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=2)]
@@ -200,14 +200,14 @@
 [name="冷静的杜林人"]我们是在理解并接受了这个潜在危机之后，才决定建造“大水坑”的。
 [name="冷静的杜林人"]现在，我们只是在承担我们选择的后果而已。
 [Character(name="avg_npc_075")]
-[name="依娜姆"]......
+[name="依娜姆"]……
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=1)]
 [name="懒散的杜林人"]对，地上人，你没有任何为我们感到可惜的必要。
 [name="懒散的杜林人"]换个方式想，我们至少度过了一个漫长的夏天，不是吗？
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=2)]
 [name="冷静的杜林人"]我完全同意。
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=1)]
-[name="懒散的杜林人"]不过，撤离啊......我还没想好我要留下什么呢，你想好了吗？
+[name="懒散的杜林人"]不过，撤离啊……我还没想好我要留下什么呢，你想好了吗？
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=2)]
 [name="冷静的杜林人"]我可不像你，我如今的房屋就是我当下最想要也是最满意的设计。
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=1)]
@@ -217,7 +217,7 @@
 [Character(name="avg_npc_573_1#1$1",name2="avg_npc_575_1#1$1",focus=1)]
 [name="懒散的杜林人"]没兴趣，我还是选七号烈酒。
 [Character(name="avg_npc_075")]
-[name="依娜姆"]原以为杜林人只是一群不比头顶上的阿达克利斯聪明多少的傻瓜......看来好像并不是这样。
+[name="依娜姆"]原以为杜林人只是一群不比头顶上的阿达克利斯聪明多少的傻瓜……看来好像并不是这样。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -226,7 +226,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_564_1#7$1",name2="char_empty")]
-[name="耶奇·地心"]唉......
+[name="耶奇·地心"]唉……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=0.7)]
 [Character(name="avg_npc_564_1#7$1",name2="avg_4055_bgsnow_1#1$1")]
@@ -256,12 +256,12 @@
 [name="耶奇·地心"]但是，现在隧道里已经遍布了源石，要顺利地通过隧道是非常困难的！
 [name="耶奇·地心"]际崖城现在有几十万的居民，要小心翼翼地通过那条宽度顶多也只能容纳二十个人并肩前进的隧道，要花多少时间你难道不明白吗？！
 [Character(name="avg_1026_gvial2_1#5$1")]
-[name="嘉维尔"]喂......你们怎么吵起来了。
+[name="嘉维尔"]喂……你们怎么吵起来了。
 [Character(name="avg_4055_bgsnow_1#8$1")]
 [name="阿芙朵嘉"]嘉维尔，我等一下再和你说。耶奇大师，难道您有更好的办法吗？
 [Character(name="avg_npc_564_1#8$1",name2="avg_4055_bgsnow_1#8$1",focus=1)]
 [name="耶奇·地心"]我认为我们现在应该立刻往源石矿脉的反方向进行挖掘。
-[name="耶奇·地心"]在挖出一个足够容纳所有人的小型避难所后，再往回封闭道路，只要我们挖得够深......
+[name="耶奇·地心"]在挖出一个足够容纳所有人的小型避难所后，再往回封闭道路，只要我们挖得够深……
 [Character(name="avg_npc_564_1#8$1",name2="avg_4055_bgsnow_1#8$1",focus=2)]
 [name="阿芙朵嘉"]建造容纳这座城市里的几十万人的避难所，即使是依靠际崖城的科技，要在短时间内完成也是非常困难的事。
 [name="阿芙朵嘉"]而且，几十万人接下来一段时间的生活起居又要如何解决？！
@@ -273,26 +273,26 @@
 [Character(name="avg_npc_564_1#8$1",name2="avg_4055_bgsnow_1#3$1",focus=2)]
 [name="阿芙朵嘉"]我们接下来就要面临慢性死亡的局面了！
 [Character(name="avg_npc_564_1#7$1",name2="avg_4055_bgsnow_1#3$1",focus=1)]
-[name="耶奇·地心"]唔，你说的确实有道理，但我还是认为......
+[name="耶奇·地心"]唔，你说的确实有道理，但我还是认为……
 [Character(name="avg_npc_564_1#7$1",name2="avg_4055_bgsnow_1#3$1",focus=2)]
 [name="阿芙朵嘉"]我当然明白这么做的危险性，但是这已经是眼下最好的办法了！
 [stopmusic(fadetime=1.5)]
 [Character(name="avg_1026_gvial2_1#9$1")]
-[name="嘉维尔"]......我说，阿芙朵嘉。
+[name="嘉维尔"]……我说，阿芙朵嘉。
 [Character(name="avg_4055_bgsnow_1#3$1")]
 [name="阿芙朵嘉"]如果不是什么重要的事，可以等一下再说吗，嘉维尔？
 [Character(name="avg_1026_gvial2_1#6$1")]
 [name="嘉维尔"]虽然我也不想打扰你们，但是——
 [playMusic(intro="$newhope02_intro",key="$newhope02_loop", volume=0.4)]
-[name="嘉维尔"]既然那条隧道走不通了......
+[name="嘉维尔"]既然那条隧道走不通了……
 [name="嘉维尔"]那剩下的办法应该只有修一修特米米提过的那台超方便大升降梯一号，所有杜林人上地面来我们部族生活一段时间了吧？
 [name="嘉维尔"]这个法子有什么问题吗，值得你们吵这么久？
 [Character(name="avg_4055_bgsnow_1#4$1")]
-[name="阿芙朵嘉"]前往......地面？
+[name="阿芙朵嘉"]前往……地面？
 [Character(name="avg_1026_gvial2_1#2$1")]
 [name="嘉维尔"]对啊。
 [Character(name="avg_1026_gvial2_1#6$1")]
-[name="嘉维尔"]呃，你们......难道就没有考虑过前往地面吗？
+[name="嘉维尔"]呃，你们……难道就没有考虑过前往地面吗？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

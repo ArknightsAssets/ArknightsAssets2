@@ -19,25 +19,25 @@
 [dialog]
 [delay(time=0.7)]
 [Character(name="char_007_closre_1#6")]
-[name="可露希尔"]  ......没发霉吧？
+[name="可露希尔"]  ……没发霉吧？
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=1)]
 [name="后勤干员"]  呃。应该没有吧，应该。
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=2)]
-[name="可露希尔"]  唉，已经被这鬼天气困在这里好几天啦......也不知道会耽误多久后续的航程......唔，这味道......
+[name="可露希尔"]  唉，已经被这鬼天气困在这里好几天啦……也不知道会耽误多久后续的航程……唔，这味道……
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=1)]
-[name="后勤干员"]  毕竟是天灾诱发的大雾天气......万一迎头撞上天灾的余波可就麻烦大了。
+[name="后勤干员"]  毕竟是天灾诱发的大雾天气……万一迎头撞上天灾的余波可就麻烦大了。
 [name="后勤干员"]  昨夜的环境源石监测报告我需要现在提交吗？
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=2)]
 [name="可露希尔"]  凯尔希呢，她还在手术室吗？
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=1)]
 [name="后勤干员"]  是的，从昨晚进行到现在。
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=2)]
-[name="可露希尔"]  ......那就，先不着急。
+[name="可露希尔"]  ……那就，先不着急。
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=1)]
 [name="后勤干员"]  好。
 [name="后勤干员"]  还有什么我能帮得上忙的事情吗？
 [Character(name="avg_npc_088",name2="char_007_closre_1#2",focus=2)]
-[name="可露希尔"]  嗯......我想想啊，要不然帮我把这些健康餐都吃掉？说真的，这玩意味道有点诡异。
+[name="可露希尔"]  嗯……我想想啊，要不然帮我把这些健康餐都吃掉？说真的，这玩意味道有点诡异。
 [Character(name="avg_npc_088",name2="char_007_closre_1#2",focus=1)]
 [CameraShake(duration=1, xstrength=0, ystrength=5, vibrato=10, randomness=10, fadeout=true, block=false)]
 [name="后勤干员"]  欸？！这么多都要我、我来吃吗？
@@ -49,22 +49,22 @@
 [PlaySound(key="$d_avg_devicebeep",delay=0.4,volume=1)]
 [PlaySound(key="$d_avg_devicebeep",delay=0.6,channel="BSE",volume=1)]
 [delay(time=2)]
-[name="可露希尔"]  ......嗯？
+[name="可露希尔"]  ……嗯？
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=1)]
 [name="后勤干员"]  怎么了吗？
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=2)]
 [name="可露希尔"]  新、新邮件？在这荒地？
 [name="可露希尔"]  这附近有城镇或者信使驿站之类的吗？
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=1)]
-[name="后勤干员"]  不......如果有的话，两三天前就该联系上了......
+[name="后勤干员"]  不……如果有的话，两三天前就该联系上了……
 [Character(name="avg_npc_088",name2="char_007_closre_1",focus=2)]
-[name="可露希尔"]  真是奇怪，我看看......
+[name="可露希尔"]  真是奇怪，我看看……
 [dialog]
 [PlaySound(key="$transmission",volume=0.6)]
 [delay(time=1.5)]
 [Character(name="char_007_closre_1#4")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="可露希尔"]  发件人是，Dijkstra......怎么是这家伙！？他不是在哥伦比亚吗？
+[name="可露希尔"]  发件人是，Dijkstra……怎么是这家伙！？他不是在哥伦比亚吗？
 [Dialog]
 [Character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -86,20 +86,20 @@
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="char_003_kalts_1",fadetime=1)]
 [delay(time=1)]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [name="凯尔希"]  急性病灶剥离成功。
 [name="凯尔希"]  保持输液。
 [Character(name="char_016_medic")]
 [name="医疗干员"]  好的！
 [Character(name="char_003_kalts_1",name2="char_016_medic",focus=1)]
-[name="凯尔希"]  创面清理完成......
+[name="凯尔希"]  创面清理完成……
 [name="凯尔希"]  等等，确认一下患者体征。
 [Character(name="char_003_kalts_1",name2="char_016_medic",focus=2)]
-[name="医疗干员"]  好的......！
+[name="医疗干员"]  好的……！
 [dialog]
 [delay(time=1)]
 [PlaySound(key="$d_avg_medicalbeep",volume=0.6)]
-[name="医疗干员"]  医生！患者心率异常......体温、体温在降低！
+[name="医疗干员"]  医生！患者心率异常……体温、体温在降低！
 [Character(name="char_003_kalts_1",name2="char_016_medic",focus=1)]
 [name="凯尔希"]  不要慌。
 [name="凯尔希"]  调整内外压，立刻注射干预。
@@ -107,7 +107,7 @@
 [Character(name="char_003_kalts_1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]  好的！
 [Character(name="char_003_kalts_1")]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [Dialog]
 [Character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -131,16 +131,16 @@
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [Character(name="char_017_homura_3#4",fadetime=1.5,block=true)]
 [delay(time=1.5)]
-[name="煌"]  ......哟，各位，该换班了。
+[name="煌"]  ……哟，各位，该换班了。
 [Character(name="avg_npc_012",name2="char_017_homura_3#4",focus=1)]
 [name="近卫干员"]  煌小姐！
 [Character(name="avg_npc_012",name2="char_017_homura_3#4",focus=2)]
 [name="煌"]  有什么情况吗？
 [Character(name="avg_npc_012",name2="char_017_homura_3#4",focus=1)]
 [name="近卫干员"]  完全没有——虽然是这么说，但是这个能见度下，我们能信任的也只有监控设备了。
-[name="近卫干员"]  就算是负责瞭望的那几位狙击干员，这种天气，可能也什么都看不见吧......
+[name="近卫干员"]  就算是负责瞭望的那几位狙击干员，这种天气，可能也什么都看不见吧……
 [Character(name="avg_npc_012",name2="char_017_homura_3#4",focus=2)]
-[name="煌"]  唉，说的也是啊，连日大雾，真让人提不起干劲......
+[name="煌"]  唉，说的也是啊，连日大雾，真让人提不起干劲……
 [name="煌"]  要是Stormeye晚上半个月出发，这种大雾应该难不倒他。可惜了！
 [name="煌"]  不过这已经是停止前进的第几天了？要真有什么事，早就该发生啦。
 [name="煌"]  现在，你们先去好好休息吧。
@@ -177,8 +177,8 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_007_closre_1")]
-[name="可露希尔"]  ......感染者组织？
-[name="可露希尔"]  唔......这家伙也会和感染者扯上关系吗......
+[name="可露希尔"]  ……感染者组织？
+[name="可露希尔"]  唔……这家伙也会和感染者扯上关系吗……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -201,7 +201,7 @@
 [delay(time=1)]
 [Character(name="char_007_closre_1#6")]
 [stopmusic(fadetime=2)]
-[name="可露希尔"]  ......没了？
+[name="可露希尔"]  ……没了？
 [name="可露希尔"]  怎么这就没了，等等，什么现在——
 [Dialog]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -210,7 +210,7 @@
 [Character(name="char_007_closre_1#6")]
 [PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [name="可露希尔"]  呜哇！怎么回事？！
-[name="可露希尔"]  震动......是从下层传来的，这种程度的摇动——是爆炸？！
+[name="可露希尔"]  震动……是从下层传来的，这种程度的摇动——是爆炸？！
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -224,17 +224,17 @@
 [name="医疗干员"]  哇！什、什么动静？！
 [name="医疗干员"]  今天这场手术明明提前报备过，因为难度很大，所以需要绝对安静的！
 [Character(name="char_003_kalts_1#3")]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [Dialog]
 [Character(name="char_016_medic")]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
 [Character(name="char_016_medic")]
-[name="医疗干员"]  呃，这里是手术室......什么？
-[name="医疗干员"]  安全门被......！？舱室内干员都被困住了？啊？这......
+[name="医疗干员"]  呃，这里是手术室……什么？
+[name="医疗干员"]  安全门被……！？舱室内干员都被困住了？啊？这……
 [Character(name="char_003_kalts_1",name2="char_016_medic",focus=1)]
 [name="凯尔希"]  冷静。
-[name="凯尔希"]  ......通知还能通知到的干员，立刻赶往禁闭室。
+[name="凯尔希"]  ……通知还能通知到的干员，立刻赶往禁闭室。
 [name="凯尔希"]  以及，告诉煌，破坏一些船体设施也无妨。
 [Character(name="char_003_kalts_1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]  好、好的！
@@ -245,9 +245,9 @@
 [Character(name="char_016_medic")]
 [name="医疗干员"]  啊，非常抱歉！我立刻准备！
 [Character(name="char_003_kalts_1#3")]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [Character(name="char_003_kalts_1#2")]
-[name="凯尔希"]  ............
+[name="凯尔希"]  …………
 [Dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -269,24 +269,24 @@
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [Character(name="avg_npc_043_1#2",fadetime=1,block=true)]
 [delay(time=1)]
-[name="九"]  ......我原以为这会更困难。
+[name="九"]  ……我原以为这会更困难。
 [name="九"]  这似乎是我们第一次“正式见面”，整合运动的“领袖”。
 [Character]
-[name="？？？"]  ......
+[name="？？？"]  ……
 [Dialog]
 [Character(name="char_011_talula_1#3",fadetime=1,block=true)]
 [delay(time=1)]
-[name="塔露拉"]  你们......整合运动。
+[name="塔露拉"]  你们……整合运动。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
 [name="九"]  你似乎并不惊讶。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  我只是比谁都清楚，感染者的怒火绝不会轻易熄灭。
-[name="塔露拉"]  只是......
+[name="塔露拉"]  只是……
 [Character(name="avg_npc_080",name2="char_011_talula_1#3",focus=1)]
 [name="整合运动士兵"]  ——好久不见了，“领袖”。
 [Character(name="avg_npc_080",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  ——！
-[name="塔露拉"]  你是......！
+[name="塔露拉"]  你是……！
 [dialog]
 [Character(name="avg_npc_080",name2="char_011_talula_1#3")]
 [characteraction(name="left", type="move", xpos=100,ypos=0, fadetime=0.6,block=true)]
@@ -297,18 +297,18 @@
 [name="整合运动士兵"]  你不认得我了？哈，你当然不会认得我！我只不过是个无名小卒，只是个在切尔诺伯格时侥幸没被你害死的人！
 [name="整合运动士兵"]  但你，塔露拉，“领袖”！你这张脸，我绝不会忘记！
 [Character(name="avg_npc_080",name2="char_011_talula_1#3",focus=2)]
-[name="塔露拉"]  你是在我们的队伍路过那个被税官毁掉的村庄时加入的，你叫......瓦利亚。
+[name="塔露拉"]  你是在我们的队伍路过那个被税官毁掉的村庄时加入的，你叫……瓦利亚。
 [Character(name="avg_npc_080",name2="char_011_talula_1#3",focus=1)]
-[name="整合运动士兵"]  ......你甚至还记得我的名字。那列昂季，丹尼斯，还有阿尔谢尼呢，你还记得他们吗，你知道他们怎么样了吗？
+[name="整合运动士兵"]  ……你甚至还记得我的名字。那列昂季，丹尼斯，还有阿尔谢尼呢，你还记得他们吗，你知道他们怎么样了吗？
 [name="整合运动士兵"]  我会参与这次行动，就是为了要亲自问你——为什么你要那么做？！你凭什么这么做？！你怎么能背叛我们？！
 [Character(name="avg_npc_080",name2="char_011_talula_1#3",focus=2)]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......放开她的衣领吧。
+[name="九"]  ……放开她的衣领吧。
 [name="九"]  现在还不是时候，我们得先离开这里。
 [Character(name="avg_npc_080",name2="char_011_talula_1#3",focus=1)]
 [characteraction(name="left", type="move", xpos=100,ypos=0,fadetime=0.01,block=true)]
-[name="整合运动士兵"]  ......啧。
+[name="整合运动士兵"]  ……啧。
 [Dialog]
 [Character(name="avg_npc_080",name2="char_011_talula_1#3")]
 [characteraction(name="left", type="move", xpos=-100,ypos=0, fadetime=0.6,block=false)]
@@ -321,7 +321,7 @@
 [name="九"]  别忘了，最有权审判你，决定你的下场，听你的狡辩与诉说的——应当是那些因你而起，也因你而亡的感染者们。
 [name="九"]  塔露拉，你必须和我们走。
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -330,20 +330,20 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=1)]
-[name="后勤干员"]  可露希尔小姐！你还好吗？！刚刚那是......
+[name="后勤干员"]  可露希尔小姐！你还好吗？！刚刚那是……
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=2)]
-[name="可露希尔"]  ......开什么玩笑......
+[name="可露希尔"]  ……开什么玩笑……
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=1)]
 [name="后勤干员"]  可露希尔小姐？
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=2)]
 [name="可露希尔"]  开什么玩笑！！他本人一定就在这附近，他瘫痪了罗德岛的系统！？
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=2)]
-[name="可露希尔"]  监控......还有侦查系统......哈，真有你的......
+[name="可露希尔"]  监控……还有侦查系统……哈，真有你的……
 [Dialog]
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=1)]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
-[name="后勤干员"]  是后勤部门的通讯！部分干员遭到了......整、整合运动的袭击！
+[name="后勤干员"]  是后勤部门的通讯！部分干员遭到了……整、整合运动的袭击！
 [Character(name="avg_npc_088",name2="char_007_closre_1#6",focus=2)]
 [name="可露希尔"]  ——这，整合运动！？
 [name="可露希尔"]  不行不行不行——快！快去通知阿米娅，可能有人是冲着塔露拉来的，我会优先恢复防御系统，我们行动一定要快！
@@ -357,7 +357,7 @@
 [delay(time=1)]
 [Character(name="char_007_closre_1#6")]
 [name="可露希尔"]  这个时候怎么还有消息？！
-[name="可露希尔"]  哇......！我的操作屏被锁定了？！
+[name="可露希尔"]  哇……！我的操作屏被锁定了？！
 [dialog]
 [Character(name="char_007_closre_1#6",focus=-1)]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
@@ -369,21 +369,21 @@
 [name="可露希尔"]  Dijkstra——！
 [dialog]
 [Character(name="char_007_closre_1#6",focus=-1)]
-[name="Dijkstra"]  我得对你说一声抱歉，Closure。这次用你留在我这的手段偷袭是不怎么地道，不过......
+[name="Dijkstra"]  我得对你说一声抱歉，Closure。这次用你留在我这的手段偷袭是不怎么地道，不过……
 [name="Dijkstra"]  不过这件事，我可一点也不后悔，我从不做后悔的事，你知道的。
 [name="Dijkstra"]  当年你把这些技术雏形交给我的时候，你对我说，这是对付哥伦比亚现有网络程式最有效的办法，是你的最终手段。
-[name="Dijkstra"]  而这几天的秘密工作里，我发现，你确实没有骗我。罗德岛的安全系统和你交给我的逻辑高度相似......
+[name="Dijkstra"]  而这几天的秘密工作里，我发现，你确实没有骗我。罗德岛的安全系统和你交给我的逻辑高度相似……
 [name="Dijkstra"]  所以我利用了你的信赖，毫无疑问，但你有你的立场，我也有我的判断，对吧？
 [name="Dijkstra"]  我还记得当我认识那个身为“萨卡兹”的你的时候，我们是怎么成为朋友的。
-[name="Dijkstra"]  我仍然希望我们是朋友......或者像过去一样，是战友。
+[name="Dijkstra"]  我仍然希望我们是朋友……或者像过去一样，是战友。
 [name="Dijkstra"]  ——不过，Closure。
 [name="Dijkstra"]  在此之前，我是一个反抗者。我们从来都是反抗者。从来，都是。
 [Dialog]
 [PlaySound(key="$transmission",volume=0.6)]
 [delay(time=1)]
 [Character(name="char_007_closre_1#6")]
-[name="可露希尔"]  ......这家伙......冠冕堂皇的......！
-[name="可露希尔"]  不......现在不该管这个，通讯系统还能使用吗？
+[name="可露希尔"]  ……这家伙……冠冕堂皇的……！
+[name="可露希尔"]  不……现在不该管这个，通讯系统还能使用吗？
 [name="可露希尔"]  立刻通知全舰！
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -409,30 +409,30 @@
 [name="Guard"]  我曾经就在这条走廊上，第一次，见到您和其他精英干员们凯旋归来。
 [Character(name="char_017_homura_3#9")]
 [name="煌"]  ——
-[name="煌"]  Guard......？
+[name="煌"]  Guard……？
 [Character(name="char_017_homura_3#9",name2="avg_npc_059",focus=2)]
 [name="Guard"]  我犹豫过。当我得知袭击罗德岛的计划时，我当然犹豫过。
 [name="Guard"]  这不是给自己找借口。但我觉得，正因如此，我反而该来。该来背负这个责任，该来见证这个计划。
 [Character(name="char_017_homura_3#5",name2="avg_npc_059",focus=1)]
-[name="煌"]  “责任”......是吗？
+[name="煌"]  “责任”……是吗？
 [Character(name="char_017_homura_3#5",name2="avg_npc_059",focus=2)]
 [name="Guard"]  是的。出现在这里，我就没打算给自己找什么道德上的借口。
 [name="Guard"]  只要有任何一个干员这么想，那么我就确实是“叛徒”。
 [Character(name="char_017_homura_3#5",name2="avg_npc_059",focus=1)]
-[name="煌"]  ......那么作为整合运动的你，如今回到这里来又打算做什么？
+[name="煌"]  ……那么作为整合运动的你，如今回到这里来又打算做什么？
 [Character(name="char_017_homura_3#5",name2="avg_npc_059",focus=2)]
 [name="Guard"]  为数不多的幸存者离开了乌萨斯，我们游荡在无国界的荒野上。
-[name="Guard"]  先是哥伦比亚，然后是莱塔尼亚，然后是叙拉古，维多利亚......这些国家，这些地方，都有感染者的身影，都在尝试与我们建立联系。
+[name="Guard"]  先是哥伦比亚，然后是莱塔尼亚，然后是叙拉古，维多利亚……这些国家，这些地方，都有感染者的身影，都在尝试与我们建立联系。
 [name="Guard"]  整合运动点燃了一把火。从冻土，烧向整片大地。
-[name="Guard"]  可我们......我们要如何告诉那些曾因塔露拉而站起来的感染者们，因乌萨斯的整合运动而选择对抗命运的感染者们——
+[name="Guard"]  可我们……我们要如何告诉那些曾因塔露拉而站起来的感染者们，因乌萨斯的整合运动而选择对抗命运的感染者们——
 [name="Guard"]  如何告诉他们我们在切尔诺伯格遭到了怎样的失败？如何告诉他们整合运动不过是又一个被大国利用的弃子？
 [Character(name="char_017_homura_3#5",name2="avg_npc_059",focus=1)]
-[name="煌"]  ......
+[name="煌"]  ……
 [Character(name="char_017_homura_3#5",name2="avg_npc_059",focus=2)]
-[name="Guard"]  有太多不明所以的感染者在那场战争中失去了战友和同胞......
+[name="Guard"]  有太多不明所以的感染者在那场战争中失去了战友和同胞……
 [name="Guard"]  所以整合运动需要那个真相。需要“领袖”给出一个答复。
 [Character(name="avg_npc_059")]
-[name="Guard"]  然后......
+[name="Guard"]  然后……
 [stopmusic(fadetime=3)]
 [Character]
 [Dialog]
@@ -452,10 +452,10 @@
 [Character(name="avg_npc_054")]
 [name="游击队萨卡兹"]  当然。
 [name="游击队萨卡兹"]  听说W那个疯子后来和你们有什么牵连来着？随便吧。
-[name="游击队萨卡兹"]  大尉死后，也并非所有的游击队战士，都选择与整合运动分道扬镳......
+[name="游击队萨卡兹"]  大尉死后，也并非所有的游击队战士，都选择与整合运动分道扬镳……
 [name="游击队萨卡兹"]  把塔露拉交给我们。既然整合运动还没有消失，那她就该在我们手里。
 [Character(name="char_017_homura_3#5")]
-[name="煌"]  ......哈。
+[name="煌"]  ……哈。
 [name="煌"]  难道我们真打算靠嘴皮子说服对方吗？
 [Character(name="avg_npc_054")]
 [name="游击队萨卡兹"]  当然不。
@@ -540,7 +540,7 @@
 [delay(time=1)]
 [Character(name="avg_npc_043_1#2")]
 [PlaySound(key="$rungeneral", volume=0.6)]
-[name="九"]  ......好。一定要跟上，我们之后见。
+[name="九"]  ……好。一定要跟上，我们之后见。
 [name="九"]  确认路线！
 [Character(name="char_1002_nsabr_2",name2="avg_npc_043_1#2",focus=1)]
 [name="整合运动士兵"]  确认了，没问题！按计划从原路走就能顺利脱离！
@@ -555,7 +555,7 @@
 [Dialog]
 [name="？？？"]  站住！
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......
+[name="九"]  ……
 [character]
 [name="？？？"]  ——停下。你们不能离开。
 [Dialog]
@@ -568,7 +568,7 @@
 [playMusic(intro="$exciting_intro", key="$exciting_loop", volume=0.4)]
 [Blocker(a=0, fadetime=1.5, block=false)]
 [name="阿米娅"]  你们不能通过这里。
-[name="阿米娅"]  ......塔露拉，你不该踏出那个房间。
+[name="阿米娅"]  ……塔露拉，你不该踏出那个房间。
 [name="阿米娅"]  他们是——整合运动？他们是来救你的吗？
 [stopsound(channel="bse", fadetime=1)]
 [Dialog]
@@ -580,44 +580,44 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_bridge")]
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  罗德岛的领袖。用“救”这个字不太贴切，不过也无所谓了。
 [name="九"]  另外，希望你能明白一点，在跟我们走这件事上，她其实没得选。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]  ......不，她得留下。
+[name="阿米娅"]  ……不，她得留下。
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  乌萨斯和龙门有理由追捕塔露拉。罗德岛当然也有理由扣下她。
-[name="九"]  但塔露拉也必须给整合运动一个交代......给感染者一个交代。
+[name="九"]  但塔露拉也必须给整合运动一个交代……给感染者一个交代。
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]  ——那么，为什么你不愿信任罗德岛，等着塔露拉能够给出那个交代呢？
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  Guard也是用这样的说辞，让我们信任罗德岛。
-[name="九"]  而陈......龙门的陈警司也说过，她想要创造一个公平的条件，去审判她这样的感染者。
+[name="九"]  而陈……龙门的陈警司也说过，她想要创造一个公平的条件，去审判她这样的感染者。
 [name="九"]  可是，什么才是公平呢？
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]  ......
+[name="阿米娅"]  ……
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  切尔诺伯格和龙门，那么多的牺牲，那么多徒劳的死亡，纵使有千百种借口，她都难逃其咎。
-[name="九"]  只允许罗德岛去创造那个未来，等待那个未来，却不允许......遭到最深刻背叛的整合运动，有任何发言吗？
+[name="九"]  只允许罗德岛去创造那个未来，等待那个未来，却不允许……遭到最深刻背叛的整合运动，有任何发言吗？
 [name="九"]  罗德岛的领袖，回答我。
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]  那么，我们可以一起等待。
-[name="阿米娅"]  盾卫们愿意相信，罗德岛的干员们愿意相信......愿意相信我们终有一天能给出一个答案......
+[name="阿米娅"]  盾卫们愿意相信，罗德岛的干员们愿意相信……愿意相信我们终有一天能给出一个答案……
 [name="阿米娅"]  而眼下这样——用这样的暴力，从罗德岛的手中夺走她，又如何让人再相信整合运动？
 [name="阿米娅"]  我不想再让感染者们流血，不想再与整合运动为敌，你们又为什么——
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  就算我愿意等，也许还有别人愿意等——但“整合运动”是等不了的。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]  ......什么？
+[name="阿米娅"]  ……什么？
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......要说的就只有这些了。
+[name="九"]  ……要说的就只有这些了。
 [Character(name="char_1002_nsabr_2",name2="avg_npc_043_1#2",focus=1)]
 [name="整合运动士兵"]  九！快到时间了！不能和她纠缠下去！
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  走吧，塔露拉。
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="char_002_amiya_1#7")]
 [CameraShake(duration=1, xstrength=0, ystrength=5, vibrato=10, randomness=10, fadeout=true, block=false)]
 [name="阿米娅"]  等等，你们不可以走——
@@ -698,13 +698,13 @@
 [Delay(time=2)] 
 [Character(name="avg_npc_016",fadetime=1,block=true)]
 [delay(time=1)]
-[name="幻影弩手"]  ......
+[name="幻影弩手"]  ……
 [Character(name="char_017_homura_3#5")]
 [name="煌"]  等等——你们——？你们手里的那是？
 [Character(name="avg_npc_016")]
 [name="幻影弩手"]  队长的弩，你们保存得很好。
 [name="幻影弩手"]  感谢你们。
-[name="幻影弩手"]  但既然我们还选择站在这里，那这把弩......就还没到被当作遗物封存的时刻。
+[name="幻影弩手"]  但既然我们还选择站在这里，那这把弩……就还没到被当作遗物封存的时刻。
 [name="幻影弩手"]  全员，准备。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -719,12 +719,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=2)]
 [Character(name="char_1002_nsabr_2")]
-[name="整合运动战士"]  这只兔子......这么年轻，哪来的这股力量！？
+[name="整合运动战士"]  这只兔子……这么年轻，哪来的这股力量！？
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]  哈......哈......
-[name="阿米娅"]  让......开！
+[name="阿米娅"]  哈……哈……
+[name="阿米娅"]  让……开！
 [Character(name="char_1002_nsabr_2")]
-[name="整合运动战士"]  嘁......我也是做好了牺牲的觉悟才参加这次突袭的。
+[name="整合运动战士"]  嘁……我也是做好了牺牲的觉悟才参加这次突袭的。
 [name="整合运动战士"]  来吧，卡特斯。我见识过你们在核心城的战斗，说实话，我佩服你们。
 [name="整合运动战士"]  但这一次，我不能让步，哪怕今天还是会以感染者的死来收场。
 [Character(name="char_002_amiya_1#7")]
@@ -737,7 +737,7 @@
 [delay(time=1)]
 [name="阿米娅"]  ——！
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......花期到了。
+[name="九"]  ……花期到了。
 [Dialog]
 [PlaySound(key="$attackwarning", volume=1)]
 [CameraShake(duration=1, xstrength=10, ystrength=8, vibrato=20, randomness=90, fadeout=true, block=false)]
@@ -745,19 +745,19 @@
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [delay(time=1)]
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]  这、这是......花？什么时候——
+[name="阿米娅"]  这、这是……花？什么时候——
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  在这种时候，你还避开了他们的要害。
 [name="九"]  罗德岛的领袖，确实名副其实，不过，现在你还是睡一会吧。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]  ......不......
-[name="阿米娅"]  （你们......不能......）
+[name="阿米娅"]  ……不……
+[name="阿米娅"]  （你们……不能……）
 [Dialog]
 [PlaySound(key="$bodyfalldown1")] 
 [character(fadetime=0.5)]
 [delay(time=1)]
 [Character(name="char_1002_nsabr_2")]
-[name="整合运动战士"]  你的法术就没有什么更快生效的办法吗......算了，能拖多久？
+[name="整合运动战士"]  你的法术就没有什么更快生效的办法吗……算了，能拖多久？
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  足够了，让所有小队向当前坐标靠近，飞行器马上就——
 [Dialog]
@@ -768,7 +768,7 @@
 [Character(name="char_1002_nsabr_2")]
 [name="整合运动战士"]  等等！九！Dijkstra说监控里有什么东西在快速靠近！
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......难道还有别的干员......
+[name="九"]  ……难道还有别的干员……
 [Character(name="char_1002_nsabr_2")]
 [name="整合运动战士"]  不、不！那不是人类！
 [Dialog]
@@ -838,18 +838,18 @@
 [Character(name="char_011_talula_1#3",fadetime=1.5,block=true)]
 [delay(time=1)]
 [playMusic(intro="$towerfierce_intro", key="$towerfierce_loop", volume=0.4)]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [delay(time=1)]
 [Character(name="npc_10002")]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="Mon3tr"]  （挑衅的咆哮声）
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......你......
+[name="九"]  ……你……
 [Character(name="char_011_talula_1#3")]
 [name="塔露拉"]  沉默并不是一种回答，整合运动。
 [name="塔露拉"]  现在，这才是我的答复。不过，你说过我没有选择就是了。
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......
+[name="九"]  ……
 [Dialog]
 [character]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -870,16 +870,16 @@
 [Character(name="avg_npc_054")]
 [name="游击队萨卡兹"]  呃——该死！
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......最后三十秒。
+[name="九"]  ……最后三十秒。
 [character]
-[name="阿米娅"]  唔......嗯......
+[name="阿米娅"]  唔……嗯……
 [Character(name="npc_10002")]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="Mon3tr"]  （激昂的咆哮）
 [Character(name="avg_npc_054")]
 [name="游击队萨卡兹"]  它又冲着你们去了，九——
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......罗德岛。
+[name="塔露拉"]  ……罗德岛。
 [name="塔露拉"]  我并不打算说服任何人，也不打算强迫任何人接受我的想法。
 [name="塔露拉"]  只是，事情未了。
 [name="塔露拉"]  我会等着那一天来临，无论是她说的，还是你说的，我会等着所谓的审判来临。
@@ -913,8 +913,8 @@
 你挡在了阿米娅的身前。
 高温带来的窒息感让你片刻恍惚，但奔袭的焰苗仍旧绕过了你们二人。
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......放心吧，火绕过了她。
-[name="塔露拉"]  你们还会有更长的路要走，但愿......你们的心底没有阴霾。
+[name="塔露拉"]  ……放心吧，火绕过了她。
+[name="塔露拉"]  你们还会有更长的路要走，但愿……你们的心底没有阴霾。
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [character(fadetime=0.8)]
@@ -925,7 +925,7 @@
 [name="Guard"]  时间到了！九！等不了了！
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  我知道。
-[name="九"]  那么......后会有期，罗德岛。
+[name="九"]  那么……后会有期，罗德岛。
 [Dialog]
 [Decision(options="等等！", values="1")]
 [Predicate(references="1")]
@@ -956,10 +956,10 @@
 [stopsound(channel="bgs", fadetime=1)]
 [delay(time=1.5)]
 [Character(name="char_003_kalts_1#3")]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [dialog]
 [Character(name="char_003_kalts_1#3",focus=-1)]
-[Decision(options="没有......命中？;他们不见了。", values="1;2")]
+[Decision(options="没有……命中？;他们不见了。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_003_kalts_1#3")]
 [name="凯尔希"]  哥伦比亚标识的近地飞行器，他们始终在大雾天气等待着机会。
@@ -969,7 +969,7 @@
 [Decision(options="好的！", values="1")]
 [Predicate(references="1")]
 [Character(name="char_003_kalts_1#3")]
-[name="凯尔希"]  ......
+[name="凯尔希"]  ……
 [stopmusic(fadetime=4)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -980,13 +980,13 @@
 [PlayMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.6)]
 [Dialog]
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  那就是凯尔希。
 [name="九"]  听Guard说，只要包括凯尔希在内，连带精英干员有超过三名在场，我们的袭击就不可能成功。
 [name="九"]  所以今天，现在，是唯一的机会。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
-[name="塔露拉"]  ......你们准备了多久？
+[name="塔露拉"]  ……你们准备了多久？
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
 [name="九"]  很久。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
@@ -1000,30 +1000,30 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [character]
-[name="阿米娅"]  唔......
+[name="阿米娅"]  唔……
 [Dialog]
-[Decision(options="阿米娅还好吗？;......;阿米娅没事吧？", values="1;2;3")]
+[Decision(options="阿米娅还好吗？;……;阿米娅没事吧？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_003_kalts_1")]
-[name="凯尔希"]  别着急......只是睡着了而已。
-[name="凯尔希"]  但并不是单纯的源石技艺，可能是植物毒素......煌。
+[name="凯尔希"]  别着急……只是睡着了而已。
+[name="凯尔希"]  但并不是单纯的源石技艺，可能是植物毒素……煌。
 [Character(name="char_017_homura_3#10")]
-[name="煌"]  ......
+[name="煌"]  ……
 [dialog]
 [delay(time=1)]
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"]  把阿米娅抱进医疗室。
 [Character(name="char_017_homura_3#10")]
-[name="煌"]  ......嗯。
+[name="煌"]  ……嗯。
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"]  你也不必摆出这种自责的表情，那些萨卡兹也非泛泛之辈。
 [Character(name="char_017_homura_3#10")]
 [name="煌"]  可我还是让他们逃了。
 [Character(name="char_017_homura_3#6")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="煌"]  至少......至少如果能从Guard那家伙嘴里问出更多的事情——！
+[name="煌"]  至少……至少如果能从Guard那家伙嘴里问出更多的事情——！
 [Character(name="char_003_kalts_1")]
-[name="凯尔希"]  Guard......
+[name="凯尔希"]  Guard……
 [name="凯尔希"]  他们有备而来，而罗德岛，措手不及。
 [Dialog]
 [character]
@@ -1031,34 +1031,34 @@
 [Character(name="char_007_closre_1#6",fadetime=1.5,block=true)]
 [delay(time=1.5)]
 [name="可露希尔"]  各、各位！情况如——
-[name="可露希尔"]  阿、阿米娅......
+[name="可露希尔"]  阿、阿米娅……
 [Character(name="char_003_kalts_1",name2="char_007_closre_1#6",focus=1)]
 [name="凯尔希"]  先清点损失，安置伤员，剩下的话一会再说。
 [Character(name="char_003_kalts_1",name2="char_007_closre_1#6",focus=2)]
-[name="可露希尔"]  ......
-[name="可露希尔"]  要不是被那家伙摆了一道，这次袭击......是可以制止的。
-[name="可露希尔"]  可恶......！我明明是信任他才把那些——！
+[name="可露希尔"]  ……
+[name="可露希尔"]  要不是被那家伙摆了一道，这次袭击……是可以制止的。
+[name="可露希尔"]  可恶……！我明明是信任他才把那些——！
 [name="可露希尔"]  凯尔希医生！
 [Character(name="char_003_kalts_1",name2="char_007_closre_1#6",focus=1)]
 [name="凯尔希"]  我在听。
 [Character(name="char_003_kalts_1",name2="char_007_closre_1#6",focus=2)]
-[name="可露希尔"]  这艘船......我们的罗德岛，也许会更频繁地面对更直接的威胁，就像过去那样！
+[name="可露希尔"]  这艘船……我们的罗德岛，也许会更频繁地面对更直接的威胁，就像过去那样！
 [name="可露希尔"]  我需要立刻召开一次紧急会议。
 [Character(name="char_003_kalts_1",name2="char_007_closre_1#6",focus=1)]
-[name="凯尔希"]  ......离我们进入维多利亚的预定日期已经很近了。
+[name="凯尔希"]  ……离我们进入维多利亚的预定日期已经很近了。
 [name="凯尔希"]  你能调用的人手十分有限。
 [Character(name="char_003_kalts_1",name2="char_007_closre_1#6",focus=2)]
 [name="可露希尔"]  我知道。
 [Character(name="char_003_kalts_1")]
-[name="凯尔希"]  ......那么，博士。
-[name="凯尔希"]  劳烦先帮可露希尔这个忙吧。她是很少......露出这种眼神的。
+[name="凯尔希"]  ……那么，博士。
+[name="凯尔希"]  劳烦先帮可露希尔这个忙吧。她是很少……露出这种眼神的。
 [Dialog]
 [Character(name="char_003_kalts_1",focus=-1)]
-[Decision(options="嗯。;......;对不起，我也......", values="1;2;3")]
+[Decision(options="嗯。;……;对不起，我也……", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"]  至少你在最后挺身保护了阿米娅。
-[name="凯尔希"]  ......谢谢。
+[name="凯尔希"]  ……谢谢。
 [stopmusic(fadetime=4)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -1070,22 +1070,22 @@
 [delay(time=1)]
 [Dialog]
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......
+[name="九"]  ……
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
-[name="塔露拉"]  ......这是什么？
+[name="塔露拉"]  ……这是什么？
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
 [name="九"]  新的镣铐。
 [name="九"]  实时监控你的位置，以及，如果你再像刚才那样施放源石技艺，会有一些不好的结果。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
 [name="九"]  塔露拉，你是我们的囚犯。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  你何时成为的整合运动？龙门人。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
-[name="九"]  ......
+[name="九"]  ……
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  这片大地上的人注定会死，何况是感染者，更何况是我。
 [name="塔露拉"]  只是，感染者遭到的屈辱，被奴役者的怒火，还没有得到伸张。
@@ -1096,7 +1096,7 @@
 [name="塔露拉"]  那就等到同胞扯下旧时代的旗帜，将一切不公与强权燃烧殆尽，再把他们的灰烬撒在我的坟墓上吧。
 [name="塔露拉"]  我知道，在那之前，你们想得知真相。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
-[name="九"] ......也许你和陈真的很像。
+[name="九"] ……也许你和陈真的很像。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"] 你认识她。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
@@ -1111,37 +1111,37 @@
 [delay(time=1)]
 [Character(name="char_002_amiya_1#4",fadetime=1.5,block=true)]
 [delay(time=1.5)]
-[name="阿米娅"]  各位......抱歉，让大家担心了。
+[name="阿米娅"]  各位……抱歉，让大家担心了。
 [Character(name="char_002_amiya_1#4",name2="char_007_closre_1#6",focus=2)]
 [name="可露希尔"]  阿米娅！你没事了？
 [Character(name="char_002_amiya_1#4",name2="char_007_closre_1#6",focus=1)]
-[name="阿米娅"]  ......嗯。
-[name="阿米娅"]  我......没能拦住塔露拉。
+[name="阿米娅"]  ……嗯。
+[name="阿米娅"]  我……没能拦住塔露拉。
 [Character(name="char_003_kalts_1",name2="char_002_amiya_1#4",focus=1)]
-[name="凯尔希"]  整合运动在大雾和天灾的掩护下追踪了本舰至少十多天，而对方早就渗透进了系统......没有急于动手，故意等待着我们最松懈的时刻。
+[name="凯尔希"]  整合运动在大雾和天灾的掩护下追踪了本舰至少十多天，而对方早就渗透进了系统……没有急于动手，故意等待着我们最松懈的时刻。
 [name="凯尔希"]  我们会追回塔露拉，不过现在，让龙门和乌萨斯不再有理由追踪罗德岛本舰，也并非全是坏事。
 [name="凯尔希"]  离维多利亚越发近了，阿米娅。
 [Character(name="char_003_kalts_1",name2="char_002_amiya_1#4",focus=2)]
-[name="阿米娅"]  ......嗯。
+[name="阿米娅"]  ……嗯。
 [Character(name="char_002_amiya_1#4",name2="char_007_closre_1#6",focus=2)]
-[name="可露希尔"]  既然他能对我的系统下手......我也能确定他的位置。
+[name="可露希尔"]  既然他能对我的系统下手……我也能确定他的位置。
 [name="可露希尔"]  他来不及清理所有记录，这其中一定有他大意留下的线索，终端的产地，位置信息，伪造的手段——
 [name="可露希尔"]  走着瞧吧，我会找到他们的！
 [Dialog]
 [character]
-[Decision(options="抱歉，阿米娅。;......;我没能为你做到什么。", values="1;2;3")]
+[Decision(options="抱歉，阿米娅。;……;我没能为你做到什么。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#3")]
-[name="阿米娅"]  ......没关系的。
+[name="阿米娅"]  ……没关系的。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]  很不可思议......凯尔希医生，可露希尔小姐，博士。在这件事上，我总有一种感觉。
+[name="阿米娅"]  很不可思议……凯尔希医生，可露希尔小姐，博士。在这件事上，我总有一种感觉。
 [Dialog]
 [Character(name="char_002_amiya_1#4",focus=-1)]
-[Decision(options="什么？;......;很巧，我也有一种预感。", values="1;2;3")]
+[Decision(options="什么？;……;很巧，我也有一种预感。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"]  或许......有些事情就是注定会发生。或迟或早，我们总会要面对它。
-[name="阿米娅"]  我总觉得......
+[name="阿米娅"]  或许……有些事情就是注定会发生。或迟或早，我们总会要面对它。
+[name="阿米娅"]  我总觉得……
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]  这不会是结束。
 [name="阿米娅"]  ——我们还会再见面的，塔露拉。
@@ -1157,14 +1157,14 @@
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [Character(name="char_010_chen_1",fadetime=1.5,block=true)]
 [delay(time=1.5)]
-[name="陈"]  ......
+[name="陈"]  ……
 [Character(name="avg_222_bpipe_1")]
 [name="风笛"]  ——我找到能帮忙的信使啦，是我以前——
 [Character(name="avg_222_bpipe_1#8")]
 [name="风笛"]  陈陈？你在发呆吗？
 [Character(name="char_010_chen_1")]
-[name="陈"]  ......不是。
-[name="陈"]  只是，突然有种感觉......算了。
+[name="陈"]  ……不是。
+[name="陈"]  只是，突然有种感觉……算了。
 [Character(name="avg_222_bpipe_1")]
 [name="风笛"]  嗯？你们大炎人都这么敏感吗？这就是所谓的“天人感应”？
 [Character(name="char_010_chen_1")]
@@ -1172,7 +1172,7 @@
 [Character(name="avg_222_bpipe_1#2")]
 [name="风笛"]  诶！？真的可以吗？
 [Character(name="char_010_chen_1#7")]
-[name="陈"]  ......呵。
+[name="陈"]  ……呵。
 [name="陈"]  别傻了，该出发了。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -1189,8 +1189,8 @@
 真冷啊。
 有多久没有体会过这种温度了？
 是几个月，还是半年？一年？
-......
-在那之后......
+……
+在那之后……
 原来已经过去这么久了吗？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
@@ -1200,16 +1200,16 @@
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=1)]
 [name="幻影弩手"]  最想吊死塔露拉的人是我们。
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=2)]
-[name="整合运动战士"]  ......
+[name="整合运动战士"]  ……
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=1)]
-[name="幻影弩手"]  从雪原开始，到切尔诺伯格结束。这些年......一路走来的同胞，比任何人都无法接受她的背叛。
-[name="幻影弩手"]  她曾经......她......嘁。
-[name="幻影弩手"]  切尔诺伯格的事情我们并不知晓全貌......事有蹊跷，我们需要更有力的答复。
+[name="幻影弩手"]  从雪原开始，到切尔诺伯格结束。这些年……一路走来的同胞，比任何人都无法接受她的背叛。
+[name="幻影弩手"]  她曾经……她……嘁。
+[name="幻影弩手"]  切尔诺伯格的事情我们并不知晓全貌……事有蹊跷，我们需要更有力的答复。
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=2)]
 [name="整合运动战士"]  我们凭什么信任她！？
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=1)]
-[name="幻影弩手"]  ......交给九吧。
-[name="幻影弩手"]  队长他一定也不希望感染者们的士气跌入谷底......只有九在这件事上还比较冷静。
+[name="幻影弩手"]  ……交给九吧。
+[name="幻影弩手"]  队长他一定也不希望感染者们的士气跌入谷底……只有九在这件事上还比较冷静。
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=2)]
 [name="整合运动战士"]  她当然冷静！她是个半路入局的龙门人！她根本不懂整合——
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=1)]
@@ -1218,8 +1218,8 @@
 [name="幻影弩手"]  就是在那个罪大恶极的叛徒的瞩目下，从你脚下的这片冻土，走向整片大地的！
 [name="幻影弩手"]  你以为这件事真是个吊死她就能结束的背叛那么简单吗！？
 [Character(name="avg_npc_016",name2="char_1002_nsabr_1",focus=2)]
-[name="整合运动战士"]  我......抱歉。
-[name="整合运动战士"]  我......我去冷静一下。
+[name="整合运动战士"]  我……抱歉。
+[name="整合运动战士"]  我……我去冷静一下。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -1228,25 +1228,25 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  是伦蒂尼姆的感染者工人，他们在频繁地寻求外援，尝试与其他感染者建立联系。
-[name="九"]  维多利亚......他们也是因你而起的，塔露拉。更不要提，你还是一条......德拉克。
+[name="九"]  维多利亚……他们也是因你而起的，塔露拉。更不要提，你还是一条……德拉克。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
 [name="九"]  如你所说，你确实没有随随便便死去的权利。如果整片大地的整合运动都因你而揭竿而起，那么——
-[name="九"]  ——要么让所有的反抗都徒劳无功。要么......就只能成为噼啪作响的薪柴。
+[name="九"]  ——要么让所有的反抗都徒劳无功。要么……就只能成为噼啪作响的薪柴。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  所以，你们接下来的目的地是维多利亚。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
 [name="九"]  不止如此，塔露拉。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
 [name="九"]  难道你还想留在乌萨斯？
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  我还要找一个人。 
 [name="塔露拉"]  找一个我本该烧尽的人。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
-[name="九"]  ......谁?
+[name="九"]  ……谁?
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  一个自诩不死的恶神。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
@@ -1254,7 +1254,7 @@
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  反抗他。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=1)]
-[name="九"]  ......
+[name="九"]  ……
 [name="九"]  这个国家多么庞大？只有几个月的时间，这完全是在大海捞针。
 [Character(name="avg_npc_043_1#2",name2="char_011_talula_1#3",focus=2)]
 [name="塔露拉"]  足够了。
@@ -1268,22 +1268,22 @@
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_011_talula_1#3",fadetime=1,block=true)]
 [delay(time=1)]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  你忽然又这么沉默寡言。
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  只是......想到了一些事情。
+[name="塔露拉"]  只是……想到了一些事情。
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  就是这里，我们到了。
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......这里......
+[name="塔露拉"]  ……这里……
 [Character(name="avg_npc_043_1#2")]
 [stopmusic(fadetime=5)]
 [name="九"]  曾是整合运动的据点。
-[name="九"]  当然，是幸存者告诉我的，我并不知道当时是怎样一幅场景......
+[name="九"]  当然，是幸存者告诉我的，我并不知道当时是怎样一幅场景……
 [name="九"]  那你知道吗？你还记得吗？
 [Character(name="char_011_talula_1#4")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Dialog]
 [character]
 [PlayMusic(intro="$loneliness_intro", key="$loneliness_loop", volume=0.6)]
@@ -1293,14 +1293,14 @@
 他们的队伍艰难地行走，一点点壮大。战士们曾围在一起清唱一支歌，用只带一点点咸味的汤温暖各自从不被填满的胃部。
 而现在，在篝火曾被点燃的那块地方，只有几个不很规整的石土碑安静伫立。
 [Character(name="char_011_talula_1#4")]
-[name="塔露拉"]  那就是......
+[name="塔露拉"]  那就是……
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......衣冠冢。算是纪念碑。
+[name="九"]  ……衣冠冢。算是纪念碑。
 [name="九"]  是那次活下来的战士们建的。
 [name="九"]  无论生者对你如何评判，你的未来何去何从，首先，你都该回到这里。
 [name="九"]  你必须先审问你自己。
 [Character(name="char_011_talula_1#4")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_1011_wizard_1")]
 [name="整合运动术师"]  九，前方路线确认完毕。
@@ -1308,11 +1308,11 @@
 [Character(name="avg_npc_043_1#2")]
 [name="九"]  时间不多，让大家都再加把劲，争取比预定时间更早回到据点。
 [Character(name="char_1011_wizard_1")]
-[name="整合运动术师"]  好......
+[name="整合运动术师"]  好……
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......有什么事吗？
+[name="塔露拉"]  ……有什么事吗？
 [Character(name="char_1011_wizard_1")]
-[name="整合运动术师"]  ......我永远不会忘记你在切尔诺伯格和我们说过的话，塔露拉。
+[name="整合运动术师"]  ……我永远不会忘记你在切尔诺伯格和我们说过的话，塔露拉。
 [name="整合运动术师"]  我更不会忘记你在核心城的所作所为，每一件事，每一个决定，我要你挨个解释。
 [name="整合运动术师"]  你别想逃。
 [Dialog]
@@ -1320,19 +1320,19 @@
 [Character(fadetime=1,block=true)]
 [delay(time=2)]
 [Character(name="char_011_talula_1#3")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Character(name="avg_npc_043_1#2")]
-[name="九"]  ......你也听到了，现在这里并不安全。
+[name="九"]  ……你也听到了，现在这里并不安全。
 [name="九"]  我们会在前面等你，不过不能很久。
 [name="九"]  去吧。
 [name="九"]  去见证你曾践踏过的那些牺牲，把他们铭记在心，把他们永远刻在你的脑海里。
-[name="九"]  ......记住。
+[name="九"]  ……记住。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Character(fadetime=1,block=true)]
 [delay(time=2)]
 [Character(name="char_011_talula_1#4")]
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Character(fadetime=1,block=true)]
@@ -1348,8 +1348,8 @@
 [Blocker(a=0, fadetime=3, block=false)]
 [Character]
 [ImageTween(x=-20, yFrom=-30,yTo=70,xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1, yScaleTo=1, duration=40, block=false)]
-[name="塔露拉"]  ......
-[name="塔露拉"]  ............
+[name="塔露拉"]  ……
+[name="塔露拉"]  …………
 时间像是只过了一瞬，又像已经很久很久，久到一切似乎就此静止，久到随雪花落入泥土的情绪只有大地能够承载。
 从远处看，战士像是化为一座沉默的雕像，又似乎在风雪中长成了一棵树。
 她的根须深深扎入土壤，她的身影只露出雪面短短一截。在不可见的土壤之下，从德拉克身上流泻的庞大根基不断蔓延，缓缓沉淀。
@@ -1357,11 +1357,11 @@
 战士扬起脸，飘落的雪花落在她的面盘上，还未化开，就已干涸。
 雪其实早已经停了。北风竟破天荒地显露出些许温柔，云翳散尽，暖阳照拂。
 今天是冻原冬天里难得的好天气。
-[name="塔露拉"]  ......
+[name="塔露拉"]  ……
 [name="塔露拉"]  真冷啊。
 [name="塔露拉"]  我好像得一个人重新适应这温度了。
 [name="塔露拉"]  抱歉，不能耽搁太久，我该继续走了，我得去给很多人一个交代。
-[name="塔露拉"]  总有一天，我们都会跨过这场风雪，走到自己该到的终点......
+[name="塔露拉"]  总有一天，我们都会跨过这场风雪，走到自己该到的终点……
 [Dialog]
 [delay(time=2.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

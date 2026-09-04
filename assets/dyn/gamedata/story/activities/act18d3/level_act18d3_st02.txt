@@ -10,7 +10,7 @@
 [delay(time=2)]
 [name="大审判官"]凯尔希医生。请做出解释。
 [character(name="avg_1012_skadiSP_1#1")]
-[name="斯卡蒂"]......我就知道事情没那么容易。
+[name="斯卡蒂"]……我就知道事情没那么容易。
 [character(name="char_003_kalts_1")]
 [name="凯尔希"]比起伊比利亚人应该知道的那些，审判庭私藏的秘密已经太多了。
 [character(name="avg_npc_183#3")]
@@ -20,7 +20,7 @@
 [name="凯尔希"]深海教会已经渗透进了伊比利亚，在伊比利亚隐秘地扎根。
 [name="凯尔希"]利用你们和海洋曾经的联系，伊比利亚废弃的城市成了深海教会向陆地伸出触手的据点。
 [name="凯尔希"]他们阐释你们的经书，歪曲你们的观点，他们藏得很深，你们顾此失彼。
-[name="凯尔希"]......求救吧。再纠结国土和信仰间的浅薄纷争，我们就会错过最后的机会。
+[name="凯尔希"]……求救吧。再纠结国土和信仰间的浅薄纷争，我们就会错过最后的机会。
 [Dialog]
 [character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -45,7 +45,7 @@
 [name="凯尔希"]伊比利亚与其他国家不同。
 [name="凯尔希"]陆地上的他们醉心于自己的航道与权力，忽视了无限的可能，忽视了他们本可以探索，却盲目忽视的边界。
 [name="凯尔希"]你们的世界完整得多。你们既了解陆地，又知晓海洋，伊比利亚对自己身处的位置有着最基础的认知。
-[name="凯尔希"]这让你们在过去就已经领先了一大步立足于......
+[name="凯尔希"]这让你们在过去就已经领先了一大步立足于……
 [character(name="avg_npc_183#3")]
 [name="大审判官"]不必再说。
 [name="大审判官"]这些都过去了。城市的光辉散去，伊比利亚已经徒留废墟。
@@ -87,7 +87,7 @@
 [character(name="char_003_kalts_1")]
 [name="凯尔希"]你们还在。伊比利亚的人民依然还在。
 [character(name="char_003_kalts_1")]
-[name="凯尔希"]我相信，伊比利亚的人民即使一座城市也没剩下......
+[name="凯尔希"]我相信，伊比利亚的人民即使一座城市也没剩下……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -100,7 +100,7 @@
 [name="凯尔希"]傲慢与偏见已经毁掉了阿戈尔人，这片土地不能重蹈海洋深处居民的覆辙。
 [name="凯尔希"]如果伊比利亚也在这一场灾难的余波中倒下，这里将再没有人知道海洋的真实面貌与它威胁的可怕。
 [name="凯尔希"]就像冻原上百年一次的狩猎一样，现在的我们也在卫护人类的疆土，而不是一国的荣辱，无论我们面对的是否是海中怪物。
-[name="凯尔希"]并且，如果伊比利亚只是像现在这样苟延残喘......
+[name="凯尔希"]并且，如果伊比利亚只是像现在这样苟延残喘……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -139,14 +139,14 @@
 [name="歌蕾蒂娅"]你们回去。
 [name="歌蕾蒂娅"]凯尔希，就像我们说好的那样。我不在，就由你带领他们。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_474_gladiia_1#1",focus=1)]
-[name="斯卡蒂"]你......？
+[name="斯卡蒂"]你……？
 [name="斯卡蒂"]这是怎么回事？
 [dialog]
 [character]
 [PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.4)]
 [delay(time=1)]
 [character(name="char_003_kalts_1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]大审判官，我是否有这个资格？
 [name="凯尔希"]我可以代受审问。我可以梳理来龙去脉。你能得到你需要的信息。
 [name="凯尔希"]我能忍受伊比利亚的牢狱。
@@ -156,7 +156,7 @@
 [character(name="avg_1012_skadiSP_1#1",name2="avg_474_gladiia_1#1",focus=2)]
 [name="歌蕾蒂娅"]凯尔希女士？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_474_gladiia_1#1",focus=1)]
-[name="斯卡蒂"]......医生？
+[name="斯卡蒂"]……医生？
 [character(name="avg_npc_183#3")]
 [name="大审判官"]所以你希望我把这几个人驱逐出境？
 [character(name="char_003_kalts_1")]
@@ -187,13 +187,13 @@
 [character(name="char_143_ghost#2",name2="char_003_kalts_1",focus=1)]
 [name="幽灵鲨"]那你就没有什么话要对我说？这个机会可太难得了，对你也一样。
 [character(name="char_143_ghost#2",name2="char_003_kalts_1#2",focus=2)]
-[name="凯尔希"]嗯......
+[name="凯尔希"]嗯……
 [name="凯尔希"]我的建议不太适合你这样的猎手。
 [character(name="char_143_ghost#2",name2="char_003_kalts_1#2",focus=1)]
 [name="幽灵鲨"]嫌我性子急？
 [character(name="char_143_ghost#2",name2="char_003_kalts_1#2",focus=2)]
 [name="凯尔希"]不，那当然是因为你比我更清楚自己是什么状态。
-[name="凯尔希"]总之，我不知道你现在的状态能维持多久......但也许你已经不把这个当回事了。
+[name="凯尔希"]总之，我不知道你现在的状态能维持多久……但也许你已经不把这个当回事了。
 [character(name="char_143_ghost#2",name2="char_003_kalts_1#2",focus=1)]
 [name="幽灵鲨"]你怎么知道的？
 [character(name="char_143_ghost#2",name2="char_003_kalts_1",focus=2)]
@@ -210,7 +210,7 @@
 [name="凯尔希"]以前的你是这样的性子吗？
 [character(name="char_143_ghost#2",name2="char_003_kalts_1",focus=1)]
 [name="幽灵鲨"]算是吧，凯尔希女士。
-[name="幽灵鲨"]何况我总算有些老朋友在身边了，不再都是些我就算想讲话都不知道该对他们讲些什么的扑腾人了。你知道，他们连海藻都没见过......
+[name="幽灵鲨"]何况我总算有些老朋友在身边了，不再都是些我就算想讲话都不知道该对他们讲些什么的扑腾人了。你知道，他们连海藻都没见过……
 [character(name="char_143_ghost#2",name2="char_003_kalts_1",focus=2)]
 [name="凯尔希"]你可以教他们的。
 [name="凯尔希"]那里，你现在可以回去的那个地方，还有许多你的新朋友们。
@@ -236,7 +236,7 @@
 [character(name="avg_1012_skadiSP_1",name2="avg_474_gladiia_1#1",focus=2)]
 [name="歌蕾蒂娅"]走吧，猎人们。交给她了。她还算可以。
 [character(name="avg_1012_skadiSP_1",name2="avg_474_gladiia_1#1",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]等等，二队长，我还想和她说些话。
 [dialog]
 [character]
@@ -247,7 +247,7 @@
 [name="凯尔希"]还好，至少你联系了工程干员，让他们给了你这个箱子。他们立刻联系了我。
 [name="凯尔希"]你已经做得比以前好太多了。
 [character(name="avg_1012_skadiSP_1",name2="char_003_kalts_1",focus=1)]
-[name="斯卡蒂"]我没想到你真的会来帮助我......
+[name="斯卡蒂"]我没想到你真的会来帮助我……
 [character(name="avg_1012_skadiSP_1",name2="char_003_kalts_1",focus=2)]
 [name="凯尔希"]我说过的，“我言而有信”。无论你做什么。
 [name="凯尔希"]走吧，回去罗德岛，去享受一下假期。
@@ -264,11 +264,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [name="凯尔希"]我们都有力所不及的事情，甚至连Dr.{@nickname}也束手无策。
-[name="凯尔希"]我们拥有的技术尚不足以解决你的感染问题......你也不能。
+[name="凯尔希"]我们拥有的技术尚不足以解决你的感染问题……你也不能。
 [name="凯尔希"]但幽灵鲨，不能消灭它不意味着你没法战胜它。
 [name="凯尔希"]你不能消灭一个影子，但你可以与自己为友。
-[name="凯尔希"]斯卡蒂......
-[name="凯尔希"]你们的黑暗命运没有解法......但你们可以与它并驾齐驱。
+[name="凯尔希"]斯卡蒂……
+[name="凯尔希"]你们的黑暗命运没有解法……但你们可以与它并驾齐驱。
 [name="凯尔希"]也许只有你们能与它搏斗至末日。
 [dialog]
 [character]
@@ -284,19 +284,19 @@
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
 [name="斯卡蒂"]嗯。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=2)]
-[name="安妮塔"]咦，你的萨......萨克斯呢？
+[name="安妮塔"]咦，你的萨……萨克斯呢？
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
-[name="斯卡蒂"]......忘了。
+[name="斯卡蒂"]……忘了。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#4",focus=2)]
 [name="安妮塔"]哎，没关系，你一定是不小心弄丢在那里了。我会帮你找找。
 [name="安妮塔"]还有你的琴，你昨天把琴落下了，我替你收着呢。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#4",focus=1)]
 [name="斯卡蒂"]送给你了。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=2)]
-[name="安妮塔"]送给我......我们那个约定？这么说，你真的找到你的同伴啦？真好，歌手，我好高兴！
-[name="安妮塔"]只是......你看上去更累了，比昨天晚上还要累。你受伤了吗？
+[name="安妮塔"]送给我……我们那个约定？这么说，你真的找到你的同伴啦？真好，歌手，我好高兴！
+[name="安妮塔"]只是……你看上去更累了，比昨天晚上还要累。你受伤了吗？
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
-[name="斯卡蒂"]我......没事。只是脑子有点晕。
+[name="斯卡蒂"]我……没事。只是脑子有点晕。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=2)]
 [name="安妮塔"]那就好，你不在这里，我还担心你会有问题。
 [name="安妮塔"]刚才发生了很了不得的事情，你都看到了吗？轰地一声，又轰地一声，砰砰砰，轰隆轰隆——前面那个山抖个不停，突然就塌啦！
@@ -324,29 +324,29 @@
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#3",focus=1)]
 [name="斯卡蒂"]你在等我。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=2)]
-[name="审判官艾丽妮"]我就知道你还会回来一趟......我有话跟你说。
+[name="审判官艾丽妮"]我就知道你还会回来一趟……我有话跟你说。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=1)]
 [name="斯卡蒂"]还不放弃？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#4",focus=2)]
-[name="审判官艾丽妮"]什......你别这幅等着我打架的表情啊！我连剑都好好地放着没拔出来！
+[name="审判官艾丽妮"]什……你别这幅等着我打架的表情啊！我连剑都好好地放着没拔出来！
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=2)]
 [name="审判官艾丽妮"]我、我是想说，之前追着你不放，是我错了。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=1)]
 [name="斯卡蒂"]嗯？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=2)]
-[name="审判官艾丽妮"]别以为我是那种......做错了也不会道歉的人。虽然我是审判官......审判官犯错，才更需要反省。
+[name="审判官艾丽妮"]别以为我是那种……做错了也不会道歉的人。虽然我是审判官……审判官犯错，才更需要反省。
 [name="审判官艾丽妮"]你刚进城的时候，我一下就发现了你。我知道你是阿戈尔人，无论你打扮成什么样子。你太不一样了。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=2)]
-[name="审判官艾丽妮"]当时我......我很气愤。但是我也很激动。我以为我终于找到了问题的答案。邪恶的外来者、带来厄运的罪魁祸首——
-[name="审判官艾丽妮"]只要我把你揪出来，打败你......我就能纠正错误、解决问题。多么简单。
+[name="审判官艾丽妮"]当时我……我很气愤。但是我也很激动。我以为我终于找到了问题的答案。邪恶的外来者、带来厄运的罪魁祸首——
+[name="审判官艾丽妮"]只要我把你揪出来，打败你……我就能纠正错误、解决问题。多么简单。
 [name="审判官艾丽妮"]但我打不过你。就算我能打败你，又能改变什么呢？
 [name="审判官艾丽妮"]威胁着这座城市、威胁着伊比利亚的，不会是一个两个阿戈尔人。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_182#2",focus=1)]
-[name="斯卡蒂"]......你变化不小。
+[name="斯卡蒂"]……你变化不小。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_182#1",focus=2)]
-[name="审判官艾丽妮"]......那你功劳挺大。
+[name="审判官艾丽妮"]……那你功劳挺大。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=2)]
 [name="审判官艾丽妮"]我现在没办法再像过去那样思考。这里发生的事让我在某个时刻陷入了迷茫，甚至不确定自己该如何判断。
 [name="审判官艾丽妮"]我是审判官。我理应替伊比利亚抹除威胁，守护秩序。
@@ -355,26 +355,26 @@
 [name="审判官艾丽妮"]如果我想不明白，我就不知道挥剑的意义。我将会失去前进的方向，跟这些人一样，困在原地。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#1",focus=2)]
 [name="审判官艾丽妮"]后来——是你，你和这里的居民，你们让我看见了。
-[name="审判官艾丽妮"]这些人......我救不了他们。说来好笑，我是在明白这一点之后，才下定决心要保护他们。
+[name="审判官艾丽妮"]这些人……我救不了他们。说来好笑，我是在明白这一点之后，才下定决心要保护他们。
 [name="审判官艾丽妮"]至少在那一刻，这一刻，我知道什么是对的，什么是错的。
-[name="审判官艾丽妮"]而你，你做的是好事。你确实保护了这里......暂时。你做得比我好。
+[name="审判官艾丽妮"]而你，你做的是好事。你确实保护了这里……暂时。你做得比我好。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_182#1",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]你做的是对的。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_182#5",focus=2)]
 [name="审判官艾丽妮"]啊？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#5",focus=1)]
 [name="斯卡蒂"]我做过的事情和你一样。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=2)]
-[name="审判官艾丽妮"]说什么和我一样......算了，你安慰人的方式和你乔装打扮的技术一样差。
+[name="审判官艾丽妮"]说什么和我一样……算了，你安慰人的方式和你乔装打扮的技术一样差。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=1)]
 [name="斯卡蒂"]你需要安慰？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#3",focus=2)]
-[name="审判官艾丽妮"]你说什么......不。别想了。我用不上。
+[name="审判官艾丽妮"]你说什么……不。别想了。我用不上。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#3",focus=1)]
 [name="斯卡蒂"]嗯。我也一样。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=2)]
-[name="审判官艾丽妮"]......
+[name="审判官艾丽妮"]……
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#1",focus=2)]
 [name="审判官艾丽妮"]这么说，你要找的答案，找到了？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#1",focus=1)]
@@ -385,7 +385,7 @@
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#1",focus=2)]
 [name="审判官艾丽妮"]我要走了。我知道你也要走了，你仍能自由行动，一定是你们与长官达成了某项协定。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#5",focus=2)]
-[name="审判官艾丽妮"]那么......再见。
+[name="审判官艾丽妮"]那么……再见。
 [character(name="avg_npc_182#6")]
 [name="审判官艾丽妮"]只要我们仍在追寻同一个结果，我们说不定还会在途中再撞上。
 [dialog]
@@ -399,26 +399,26 @@
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
 [name="安妮塔"]咦，审判官走啦？好可惜，我还想让她看看我在做的东西哩。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
-[name="斯卡蒂"]......这是？
+[name="斯卡蒂"]……这是？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
 [name="安妮塔"]是歌手你教我的海藻酒呀！呃，是我做得不大对吗？剁得还不够碎？
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]太碎了。
 [character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
 [name="安妮塔"]咦咦咦？那我再试试，不要紧，吃的是没了，剩下的海藻还挺多，大不了再从壁炉叔那里拿一点。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
 [name="斯卡蒂"]你会做好的。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=2)]
-[name="安妮塔"]等做好了......唉，等做好了，歌手你早就走了吧？你过来，是不是就是要告诉我这个？你要走啦。
+[name="安妮塔"]等做好了……唉，等做好了，歌手你早就走了吧？你过来，是不是就是要告诉我这个？你要走啦。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
 [name="斯卡蒂"]嗯，我要离开了。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=2)]
 [name="安妮塔"]（下意识继续捣了好几下海藻）
 [name="安妮塔"]是，你是流浪歌手哩。到处走，只偶尔停下来。
-[name="安妮塔"]你还会回到这里吗？我......还有佩特拉奶奶，墙灰，我们都还想听你弹琴唱歌。
+[name="安妮塔"]你还会回到这里吗？我……还有佩特拉奶奶，墙灰，我们都还想听你弹琴唱歌。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]我会的。
 [name="斯卡蒂"]还有我的同伴，我们可以一起。
 [character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#3",focus=2)]
@@ -435,10 +435,10 @@
 [character(name="avg_1012_skadiSP_1#1",name2="char_empty",fadetime=1.5)]
 [delay(time=2)]
 [character(name="avg_1012_skadiSP_1#1")]
-[name="斯卡蒂"]......
-[name="斯卡蒂"]那个......罐子。
+[name="斯卡蒂"]……
+[name="斯卡蒂"]那个……罐子。
 [name="斯卡蒂"]红色贝壳。
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [name="斯卡蒂"]安妮塔！
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -468,7 +468,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [name="歌蕾蒂娅"]该死。
-[name="歌蕾蒂娅"]......该死！
+[name="歌蕾蒂娅"]……该死！
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -478,24 +478,24 @@
 歌蕾蒂娅用手摩挲着镜子中自己的面庞。
 [name="歌蕾蒂娅"]看看你。最后还不是变成个丑八怪。
 [name="歌蕾蒂娅"]你真该死在海沟里。这就是你想要的？你真该和其他人一起死在那里。你现在在这儿躲着，连呼吸都小心得很，连歌声都不敢让它们听见。
-[name="歌蕾蒂娅"]在一艘陆船的卫生间里埋怨自己的遭遇......连洋流都乘不上。在这等着自己变成又一只畜生。
+[name="歌蕾蒂娅"]在一艘陆船的卫生间里埋怨自己的遭遇……连洋流都乘不上。在这等着自己变成又一只畜生。
 [dialog]
 [Image(image="ac18_13_2",screenadapt="coverall", fadetime=1)]
 [delay(time=1.5)]
 [name="歌蕾蒂娅"]看看。这就是你。
-[name="歌蕾蒂娅"]太早了......太早了。
-[name="歌蕾蒂娅"]大船......得找到大船。
+[name="歌蕾蒂娅"]太早了……太早了。
+[name="歌蕾蒂娅"]大船……得找到大船。
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [Image]
-[Subtitle(text="海嗣竟然想从斯卡蒂那里得到答案......怪物们竟然想从凶手那里得到真相。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="海嗣竟然想从斯卡蒂那里得到答案……怪物们竟然想从凶手那里得到真相。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="也就是说，猎人们还有机会。也许是唯一的机会——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“它们的神没有神谕。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 在海浪滔天之前，在那些巨物呼唤它们的血脉之前，我们得把大海扼死在沉默里。它的子嗣们将对此一无所知。
 我们去毁灭它们的源头。
-只有这一个机会。即使这会带来灾难......阿戈尔也能得到喘息之机。
+只有这一个机会。即使这会带来灾难……阿戈尔也能得到喘息之机。
 我听不见阿戈尔。呵，像不像那些怪物得不到启示？
 但我们职责在身。深海猎人必须先其他人得到伊比利亚的秘密。
 ——无可匹敌却一夜消失的伊比利亚舰队中，那最后一艘巨舰。

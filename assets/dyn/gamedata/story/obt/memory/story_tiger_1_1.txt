@@ -41,7 +41,7 @@
 [name="因陀罗"]  你这拳头跟枕头没两样，软绵绵的，冻了两天的黑面包都比这个硬。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="杰克"]  唔......明明移动速度没有我快！
+[name="杰克"]  唔……明明移动速度没有我快！
 [Character(name="char_155_tiger_1",name2="char_347_jaksel_1")]
 [delay(time=0.1)]
 [characteraction(name="right", type="jump", xpos=-100, power=0, times=0.8, fadetime=0.1, block=true)]
@@ -55,7 +55,7 @@
 [dialog]
 [Delay(time=1)]
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
-[name="杰克"]  ......为什么就是打不到？！
+[name="杰克"]  ……为什么就是打不到？！
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [characteraction(name="left", type="move", xpos=180, times=1, fadetime=0.5, block=false)]
 [delay(time=0.5)]
@@ -75,7 +75,7 @@
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
-[name="杰克"]  爸爸教我的......格斗技巧......爸爸是很厉害的警察！
+[name="杰克"]  爸爸教我的……格斗技巧……爸爸是很厉害的警察！
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [name="因陀罗"]  哈？张口闭口爸爸，你还是小孩子吗？
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
@@ -130,9 +130,9 @@
 [Delay(time=0.2)]
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="杰克"]  （躲、躲不开......）
+[name="杰克"]  （躲、躲不开……）
 [characteraction(name="right", type="move", xpos=-90, times=1, fadetime=0.5, block=false)]
-[name="杰克"]  这攻击......角度好刁钻！这是什么拳法？
+[name="杰克"]  这攻击……角度好刁钻！这是什么拳法？
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [characteraction(name="left", type="move", xpos=50, times=1, fadetime=0.5, block=false)]
 [name="因陀罗"]  哈？拳法？老子打架靠的就不是什么拳法！
@@ -180,7 +180,7 @@
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [characteraction(name="right", type="jump", xpos=-110, times=0.5, fadetime=0.3, block=false)]
 [name="杰克"]  （啊，我的眼睛！差一点！好险！）
-[name="杰克"]  呼......呼......哈......
+[name="杰克"]  呼……呼……哈……
 [dialog]
 [Character(name="char_155_tiger_1",name2="char_347_jaksel_1")]
 [delay(time=0.1)]
@@ -195,7 +195,7 @@
 [Delay(time=0.5)]
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="杰克"]  （根本没有还手的机会......肚子上又挨了一下......）
+[name="杰克"]  （根本没有还手的机会……肚子上又挨了一下……）
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [characteraction(name="left", type="move", xpos=100, times=1, fadetime=0.5, block=false)]
 [name="因陀罗"]  没劲！太没劲了！
@@ -203,8 +203,8 @@
 [name="因陀罗"]  我打你，我是认真的。你，看上去把式不错，出手却老是磨磨唧唧。
 [name="因陀罗"]  小子，你听好了，刚刚那一拳头，你要冲着老子的鼻子来，鼻子，在这里！看到没？砰一下，血就飙出来了！
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
-[name="杰克"]  我......啊哈......
-[name="杰克"]  爸爸说过......我的拳头，应该只让敌人流血......
+[name="杰克"]  我……啊哈……
+[name="杰克"]  爸爸说过……我的拳头，应该只让敌人流血……
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [name="因陀罗"]  啊啊啊好烦啊！嗡嗡嗡的都是废话！
 [name="因陀罗"]  一点都不痛快！打架，就只是打架而已，为什么要想那么多？
@@ -221,14 +221,14 @@
 [delay(time=1)]
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="杰克"]  ......哈！
+[name="杰克"]  ……哈！
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [name="因陀罗"]  你这小子，倒是挺抗揍。
 [name="因陀罗"]  一般人挨了我好几下，早就哭着喊着求饶了吧？
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="杰克"]  我......我不会求饶。
-[name="杰克"]  你很厉害，但你也不能......小瞧我。
+[name="杰克"]  我……我不会求饶。
+[name="杰克"]  你很厉害，但你也不能……小瞧我。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [name="因陀罗"]  哟哟，这话不错，有点意思了。
 [name="因陀罗"]  看在你没逃走的份上，我就痛痛快快地让你——
@@ -246,14 +246,14 @@
 [Dialog]
 [Character(name="char_155_tiger_1", name2="char_130_doberm_ex#3", focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="因陀罗"]  ......挡下了我的拳头？
+[name="因陀罗"]  ……挡下了我的拳头？
 [name="因陀罗"]  这是什么东西？鞭子？你，不错嘛。
 [Character(name="char_130_doberm_ex#3", name2="char_347_jaksel_1", focus=2)]
-[name="杰克"]  杜宾老师......
+[name="杰克"]  杜宾老师……
 [Character(name="char_130_doberm_ex", name2="char_347_jaksel_1", focus=1)]
 [name="杜宾"]  杰克，你下去，让Lancet-2临时处理下身上的伤，然后去医务室报到。
 [Character(name="char_130_doberm_ex", name2="char_347_jaksel_1", focus=2)]
-[name="杰克"]  可是训练......
+[name="杰克"]  可是训练……
 [Character(name="char_130_doberm_ex", name2="char_347_jaksel_1", focus=1)]
 [name="杜宾"]  上午的训练课程允许你缺席。特殊情况，下不为例。
 [name="杜宾"]  另外，你记住，哪怕是在罗德岛，训练场就是战场，你眼前只有对手，没有朋友。在敌人面前，你的温柔全都是弱点。
@@ -261,7 +261,7 @@
 [Character(name="char_130_doberm_ex", name2="char_347_jaksel_1", focus=2)]
 [name="杰克"]  记住了，老师！
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
-[name="杰克"]  那个......因陀罗干员，谢谢你今天陪我练习！下次我一定会表现更好！
+[name="杰克"]  那个……因陀罗干员，谢谢你今天陪我练习！下次我一定会表现更好！
 [PlaySound(key="$rungeneral", volume=0.6)]
 [dialog]
 [characteraction(name="right", type="move", xpos=300, fadetime=2,block=false)]
@@ -283,7 +283,7 @@
 [Character(name="char_155_tiger_1", name2="char_130_doberm_ex", focus=1)]
 [name="因陀罗"]  过家家？你说打架是过家家？喂，没搞错吧，你知道我是怎么过来的嘛？
 [Character(name="char_155_tiger_1", name2="char_130_doberm_ex#4", focus=2)]
-[name="杜宾"]  ......因陀罗干员，你现在的行为在我看来非常幼稚。
+[name="杜宾"]  ……因陀罗干员，你现在的行为在我看来非常幼稚。
 [Character(name="char_155_tiger_1", name2="char_130_doberm_ex", focus=2)]
 [name="杜宾"]  你已经不是学生，不需要我来安排课程。但我还是想给你一些建议。
 [Character(name="char_155_tiger_1", name2="char_130_doberm_ex#3", focus=2)]
@@ -337,7 +337,7 @@
 [Character(name="char_155_tiger_1")]
 [PlaySound(key="$fightgeneral")] 
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="因陀罗"]  ......你就是来笑话我的吧？
+[name="因陀罗"]  ……你就是来笑话我的吧？
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  啧啧，你这么说，我可要伤心了。
 [name="摩根"]  说我关心你你不信，那就当成我替维娜来看看，你有没有给她惹麻烦吧。
@@ -347,39 +347,39 @@
 [name="摩根"]  别紧张嘛，我没去告状啊。
 [name="摩根"]  但是啊，我们现在在别人船上，你做的事情，哪一件不会落到她耳朵里？你以为她是谁啊？
 [Character(name="char_155_tiger_1")]
-[name="因陀罗"]  ......
+[name="因陀罗"]  ……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="因陀罗"]  嘁，这次是老子错了还不行吗！我自己去找主子。
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  好啦，别着急嘛。也来了好一阵了，罗德岛的人怎么样，你我都很清楚吧？维娜处境不错，我们都用不着过得太紧张。
 [Character(name="char_155_tiger_1")]
-[name="因陀罗"]  ......你说得对，我承认。
-[name="因陀罗"]  这里的人还不错。不像过去遇到的那样......要么太坏，要么太弱。
+[name="因陀罗"]  ……你说得对，我承认。
+[name="因陀罗"]  这里的人还不错。不像过去遇到的那样……要么太坏，要么太弱。
 [name="因陀罗"]  但不代表我非要喜欢这种生活。哼。
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  嘴上说着不喜欢，实际上还是不习惯吧？
 [Character(name="char_155_tiger_1")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
-[name="因陀罗"]  我......嘁，怎么可能习惯？
+[name="因陀罗"]  我……嘁，怎么可能习惯？
 [name="因陀罗"]  突然之间，不用每天躲来躲去，不会好几天找不到地方睡觉，也用不着睡着了还要担心有敌人靠近。
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  想想还真有点怀念呢，那时候你哪怕正睡着，听到些响动就要睁一下眼，还会对着空气挥好几下拳头。
 [Character(name="char_155_tiger_1")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=70, fadeout=true, block=false)]
-[name="因陀罗"]  ......是谁非要偷偷靠过来的？没给你揍出黑眼圈，算老子手下留情。
+[name="因陀罗"]  ……是谁非要偷偷靠过来的？没给你揍出黑眼圈，算老子手下留情。
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  哈哈，哈哈哈。
 [Character(name="char_155_tiger_1")]
 [name="因陀罗"]  不光能好好睡觉了，这地方还总有热乎的东西可以吃，也用不上害怕吃着吃着坐在对面的人就要掏家伙来偷袭。
 [name="因陀罗"]  离开伦蒂尼姆这么久，一路上哪里有过这种日子？
-[name="因陀罗"]  一、二、三......我已经整整十四天没有见过血，摩根，你说说看，你让我怎么习惯？
+[name="因陀罗"]  一、二、三……我已经整整十四天没有见过血，摩根，你说说看，你让我怎么习惯？
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  你瞧瞧，你说的这些，都说明维娜决定带着我们一起来罗德岛是对的。
 [name="摩根"]  我们需要的罗德岛都能给。不光是一张床，一点吃的。你呀，你总是对我说的这些没兴趣，但你心里都是明白的吧？
 [Character(name="char_155_tiger_1")]
 [name="因陀罗"]  是，我不需要知道敌人是谁，我只需要知道他们是敌人。我也能看清楚谁是真正的朋友，谁能真的帮到维娜。
 [name="因陀罗"]  我还没忘，我跟着她到这里是为了什么。我想看她拔剑。为了那一天，我因陀罗什么都能做。
-[name="因陀罗"]  但是......摩根，我最近好几次梦见留下的那帮臭小子。
+[name="因陀罗"]  但是……摩根，我最近好几次梦见留下的那帮臭小子。
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  我懂了，你其实是在担心那些家伙吧？
 [Character(name="char_155_tiger_1")]
@@ -388,11 +388,11 @@
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  真心话？
 [Character(name="char_155_tiger_1")]
-[name="因陀罗"]  ......
+[name="因陀罗"]  ……
 [delay(time=0.4)]
-[name="因陀罗"]  我不知道......
+[name="因陀罗"]  我不知道……
 [name="因陀罗"]  关键就是，老子什么都不知道！
-[name="因陀罗"]  我不知道她们过得怎么样，有没有受伤，有没有生病，有没有......别人来找她们麻烦，尤其是那些家伙。
+[name="因陀罗"]  我不知道她们过得怎么样，有没有受伤，有没有生病，有没有……别人来找她们麻烦，尤其是那些家伙。
 [name="因陀罗"]  我躺在这又软又干净的床上，我就忍不住想，她们呢，她们现在怎么样？
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  你比任何人都了解她们。这么多年了，我们熟悉彼此，如同熟悉自己的手足。
@@ -404,12 +404,12 @@
 [name="摩根"]  哈，当然记得。对了，那时候你也在我屁股后面。
 [Character(name="char_155_tiger_1")]
 [name="因陀罗"]  喂，能不能别打岔？就算我在你后面，也是你跑太快，老子是为了随时踢你屁股。
-[name="因陀罗"]  不管怎样，那时候......我们发过誓。不说能不能有好日子，但至少不管什么日子，每个人都有份。
-[name="因陀罗"]  可现在......现在......唉。
+[name="因陀罗"]  不管怎样，那时候……我们发过誓。不说能不能有好日子，但至少不管什么日子，每个人都有份。
+[name="因陀罗"]  可现在……现在……唉。
 [Character(name="char_154_morgan_1")]
 [name="摩根"]  别唉声叹气的了。跟着维娜走这么远，难道你后悔了？
 [Character(name="char_155_tiger_1")]
-[name="因陀罗"]  ......
+[name="因陀罗"]  ……
 [stopmusic(fadetime=1)]
 [Dialog]
 [Character]
@@ -425,7 +425,7 @@
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=2)]
 [name="推进之王"]  刚才我说的作战计划，你都听清楚了？
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=1)]
-[name="因陀罗"]  前半部分很明白，就是最后......维娜，你没说我完事之后应该去哪里。
+[name="因陀罗"]  前半部分很明白，就是最后……维娜，你没说我完事之后应该去哪里。
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=2)]
 [name="推进之王"]  这一部分，我想让你自己来选择。
 [name="推进之王"]  你可以来这个位置，与我会合。
@@ -433,7 +433,7 @@
 [name="推进之王"]  然后你需要带着她们迅速移动，之后该干什么干什么，不要再回到这里来，也不要再找我。
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="因陀罗"]  维娜......你？
+[name="因陀罗"]  维娜……你？
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=2)]
 [name="推进之王"]  是的，我必须离开了。
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=1)]
@@ -445,7 +445,7 @@
 [name="因陀罗"]  嘁，那群跟鼻涕一样甩不脱的混球！来一个我打跑一个，来一群我打跑一群！
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=2)]
 [name="推进之王"]  这已经不像打一架抢地盘那么简单。受伤的人正在变多。要不了多久，局势就会超出我们目前的力量能掌控的范畴。
-[name="推进之王"]  我们不能坐以待毙，在这之前......我必须把主动权握在手里。
+[name="推进之王"]  我们不能坐以待毙，在这之前……我必须把主动权握在手里。
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=1)]
 [name="因陀罗"]  行，摩根那家伙也这么说。
 [name="因陀罗"]  但是——我跟她不一样。我不想那么多有的没的。我只需要你告诉我，到这一天了吗？
@@ -460,9 +460,9 @@
 [name="推进之王"]  因陀罗，你是我最信任的朋友。我享受和你并肩的每一场战斗。但今天，请你明白，我绝对不是在命令你跟我走。
 [name="推进之王"]  因为我不确定自己什么时候才能回到这里。假如你决定跟着我，你也一样。从此往后，我们每天都可能在不同的地方流浪。
 [name="推进之王"]  之后会面临的一切，不用我说，你也能够想象。
-[name="推进之王"]  而且......你是我问的第一个人。毕竟在我加入格拉斯哥帮之前，你是她们的头领。我想你或许会更愿意为了她们而留下来。
+[name="推进之王"]  而且……你是我问的第一个人。毕竟在我加入格拉斯哥帮之前，你是她们的头领。我想你或许会更愿意为了她们而留下来。
 [Character(name="char_155_tiger_1", name2="char_112_seige_1", focus=1)]
-[name="因陀罗"]  ......
+[name="因陀罗"]  ……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="因陀罗"]  我说过了，这根本不是什么需要想的事情。
 [name="因陀罗"]  在我认你当主子的那一天，我就已经决定好了之后的每一天。
@@ -482,7 +482,7 @@
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Character(name="char_155_tiger_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="因陀罗"]  后悔......不可能。永远都不可能。
+[name="因陀罗"]  后悔……不可能。永远都不可能。
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="因陀罗"]  跟着主子，就是我这辈子做的最正确的决定！
 [Character(name="char_154_morgan_1")]
@@ -495,7 +495,7 @@
 [name="摩根"]  哈哈。
 [Character(name="char_155_tiger_1")]
 [PlaySound(key="$rungeneral", volume=0.6)]
-[name="因陀罗"]  老子......我......
+[name="因陀罗"]  老子……我……
 [Character(name="char_155_tiger_1")]
 [delay(time=1)]
 [Character(name="char_155_tiger_1")]
@@ -520,7 +520,7 @@
 [delay(time=0.5)]
 [Character(name="char_155_tiger_1")]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="因陀罗"]  ......憋在房间里的话，还是看哪哪都不顺眼！
+[name="因陀罗"]  ……憋在房间里的话，还是看哪哪都不顺眼！
 [name="因陀罗"]  好烦，好烦啊！
 [dialog]
 [Character(name="char_155_tiger_1", focus=-1)]
@@ -537,7 +537,7 @@
 [delay(time=1)]
 [name="杰克"]  是、是我，因陀罗干员。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
-[name="因陀罗"]  ......嗯？
+[name="因陀罗"]  ……嗯？
 [name="因陀罗"]  被揍成那样了居然还能站起来，你小子不错嘛。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [name="杰克"]  啊，是说这些伤吗？哈哈，没关系的啦，医生姐姐们都帮我处理过了。过去爸爸带我训练，偶尔我也会把自己搞得鼻青脸肿。
@@ -546,7 +546,7 @@
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [name="杰克"]  咦，报仇？没有的事啊，这些伤是因陀罗干员留下的，可是你不是在帮我训练吗？
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
-[name="因陀罗"]  ......
+[name="因陀罗"]  ……
 [name="因陀罗"]  你这小子，有点意思。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [name="杰克"]  嘿嘿，因陀罗干员是在夸奖我吗？那我可不可以请你下次再陪我训练？
@@ -556,28 +556,28 @@
 [name="杰克"]  刚才在医务室，我就在想，因陀罗干员的拳法——呃，不说拳法啦，打架，说打架吧！因陀罗干员打架真的好厉害！
 [name="杰克"]  我感受到了很多以前没学过的东西，我想向你好好学习！拜托啦！
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
-[name="因陀罗"]  ......你要向我学习？
+[name="因陀罗"]  ……你要向我学习？
 [delay(time=1)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="因陀罗"]  喂，你确定吗？刚刚才被揍成那样，你还敢找我？
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [name="杰克"]  被揍也是我自己实力不够，怪不了因陀罗干员啦。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
-[name="因陀罗"]  ......
+[name="因陀罗"]  ……
 [name="因陀罗"]  哈，这里的人，果然和外面的不一样。
-[name="因陀罗"]  那个拿鞭子的佩洛......
+[name="因陀罗"]  那个拿鞭子的佩洛……
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [name="杰克"]  嗯嗯，那是杜宾老师！她是我们的教官。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
-[name="因陀罗"]  叫啥都无所谓！......啧，你那是什么表情，行了，我知道了，杜宾是吧。
+[name="因陀罗"]  叫啥都无所谓！……啧，你那是什么表情，行了，我知道了，杜宾是吧。
 [name="因陀罗"]  那个杜宾，她说我要是准备好的话，还能回去。
-[name="因陀罗"]  ......那就去试试看吧。
+[name="因陀罗"]  ……那就去试试看吧。
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="杰克"]  哇，因陀罗干员答应我了？太棒啦！
 [Character(name="char_155_tiger_1", name2="char_347_jaksel_1", focus=1)]
 [name="因陀罗"]  哈，别高兴得太早，老子动起手来不会客气。
-[name="因陀罗"]  不过......哼，切磋是吧，不就是控制分寸嘛，简单得很。
+[name="因陀罗"]  不过……哼，切磋是吧，不就是控制分寸嘛，简单得很。
 [name="因陀罗"]  指点你这样的小家伙而已，才难不倒老子！
 [Dialog]
 [Character]

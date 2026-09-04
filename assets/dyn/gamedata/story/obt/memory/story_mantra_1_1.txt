@@ -14,7 +14,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=1)]  
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [dialog]
 [charslot]
 按理说我应该喜欢我的工作，或至少为能参与进来而感到自豪。但很遗憾，我对此其实没有明显的情感倾向。
@@ -45,19 +45,19 @@
 [delay(time=2)]
 我在桌面的笔记本上，在记录末尾接着写下一行：没有发现异常。
 [charslot]
-[name="扬声器里的声音"]......嘿。
+[name="扬声器里的声音"]……嘿。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]有什么异常吗？
 [charslot]
-[name="扬声器里的声音"]我们到底是在......监控谁？你知道吗？
+[name="扬声器里的声音"]我们到底是在……监控谁？你知道吗？
 负责跟踪和监视的特工不知道自己目标的具体身份，这很常见，一切都是为了避免他们将目标从抽象的任务变成具体的人。
 我当然不能去打破这一平衡。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [charslot]
 [name="扬声器里的声音"]说实在的，这么些天过去了，我不觉得她有什么好监视的。她摘了头巾以后，年纪看上去和我奶奶差不多大。
 [charslot]
-[name="扬声器里的声音"]她也没离开过公寓，就和所有腿脚不便的老人一样，连采购都需要旁人帮忙，怎么可能会有能耐去庇护感染者......
+[name="扬声器里的声音"]她也没离开过公寓，就和所有腿脚不便的老人一样，连采购都需要旁人帮忙，怎么可能会有能耐去庇护感染者……
 [charslot]
 [name="扬声器里的声音"]而且，她甚至从来都没说过话！有时候打手语，也全都是跟病人的交流。这样的人到底能对社会产生什么危害呢？
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
@@ -73,7 +73,7 @@
 访客05是萨尔贡人，既是监听目标的同乡，也是她最忠实的病人，部分时候还担任类似助手的角色。
 目标在乌萨斯活动期间，访客05是最常出入她公寓的非感染者之一。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]三点十分......
+[name="监听员"]三点十分……
 [charslot]
 往左右耳各戴上一只插在不同设备上的耳机之后，我调出凌晨三点到凌晨四点的音频文件，开始处理今天的工作。
 [Dialog]
@@ -88,7 +88,7 @@
 [playsound(key="$d_avg_devicebeep")]
 [delay(time=0.5)]
 [timersticker(x=935,y=80,width=300,size=45,time=9999)]
-......凌晨三点十一分，访客05进入公寓。
+……凌晨三点十一分，访客05进入公寓。
 [dialog]
 [charslot(slot="m",name="avg_npc_163",duration=1)]
 [delay(time=1)]
@@ -106,7 +106,7 @@
 [charslot]
 频率不同的头发摩擦声。
 [charslot(slot="m",name="avg_npc_163")]
-[name="“访客05”"]啊，我总是忘记我才是那个生了病的家伙，只能说还好不是矿石病......
+[name="“访客05”"]啊，我总是忘记我才是那个生了病的家伙，只能说还好不是矿石病……
 [charslot(slot="m",name="avg_npc_163")]
 [name="“访客05”"]而且因为有您的帮助，我已经感觉好多了。
 [charslot(slot="m",name="avg_npc_163")]
@@ -141,7 +141,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]现在的时间是......
+[name="监听员"]现在的时间是……
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]早上六点五十五分。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
@@ -167,7 +167,7 @@
 来访者疑似跛脚。
 [dialog]
 [charslot]
-[name="“访客？”"]唉......
+[name="“访客？”"]唉……
 总是以叹息开头，会早于预期时间抵达，且腿上有伤的访客。已记录在册，为访客74。
 [charslot]
 [name="“访客74”"]我这腿的毛病，只要一离了您，就总也不见好。
@@ -184,7 +184,7 @@
 [charslot]
 根据访客的回答推断，此处肢体摩擦声是目标在说：让我看看。
 [charslot]
-[name="“访客74”"]在这，还是在原来的地方，肿得越来越高了......
+[name="“访客74”"]在这，还是在原来的地方，肿得越来越高了……
 [charslot]
 [name="“访客74”"]我这腿，是不是没救了？
 [charslot(slot="m",name="avg_npc_1300_1#2$1")]
@@ -204,11 +204,11 @@
 [charslot]
 [name="“访客74”"]啊、啊。
 [charslot]
-[name="“访客74”"]原来是要冷敷......可现在是夏天，要到哪儿去找冰呢......
+[name="“访客74”"]原来是要冷敷……可现在是夏天，要到哪儿去找冰呢……
 [charslot]
 衣服摩擦声，从塑料盒子中取出东西的声音。衣服摩擦声。
 [charslot]
-[name="“访客74”"]这是......？
+[name="“访客74”"]这是……？
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
 [name="“目标”"]（手语）
 [charslot]
@@ -218,13 +218,13 @@
 [charslot]
 [name="“访客74”"]您有止疼药了？
 [charslot]
-[name="“访客74”"]可我——可我现在没钱买......
+[name="“访客74”"]可我——可我现在没钱买……
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
 [name="“目标”"]（摇头）
 [charslot]
-[name="“访客74”"]......谢谢，谢谢您！
+[name="“访客74”"]……谢谢，谢谢您！
 [charslot]
-[name="“访客74”"]真是太感谢了......
+[name="“访客74”"]真是太感谢了……
 [charslot]
 衣服摩擦声，轻重不一的脚步声。模糊的、重复的低语“谢谢”。
 开关门的声音。
@@ -237,13 +237,13 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-......
+……
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]访客74、访客12、访客45、访客07......
+[name="监听员"]访客74、访客12、访客45、访客07……
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]她的病人黏着性很高，复诊的频率也相对稳定，但新增的人员不多，应该都是口口相传介绍而来的。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......嗯？
+[name="监听员"]……嗯？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -261,7 +261,7 @@
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [delay(time=2)]
 衣服摩擦声，推测两人有所动作，但依然没有对话。
-......
+……
 沉默持续了二十七分钟，期间只有衣料和上半身肢体动作产生的摩擦声。
 推测他们仅使用手语对话，原因未知。
 打开塑料袋的声音，皮鞋走路声，开关门的声音。
@@ -277,18 +277,18 @@
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]按照以前的记录，下午一点以后是目标的休息时间。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [dialog]
 [playsound(key="$d_avg_paper1",volume=0.8)]
 [delay(time=1.2)]
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]非感染者......非感染者......全是非感染者。
+[name="监听员"]非感染者……非感染者……全是非感染者。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]提高监控等级已经两个多月了，目标的接触名录里还是只有非感染者。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]让一个住在贫民区里、无亲无故的边缘人消失很容易，要通过她来钓出藏匿的感染者却很难。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]一个......只需要一个。
+[name="监听员"]一个……只需要一个。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]我就能交差了。
 [dialog]
@@ -306,7 +306,7 @@
 [charslot]
 [name="扬声器里的声音"]你的推测是对的，她们全程使用手语对话。我翻译并默写了对话内容，你可以稍后前往资料室领取拷贝。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [charslot]
 [name="扬声器里的声音"]301？
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
@@ -320,7 +320,7 @@
 [charslot]
 [name="扬声器里的声音"]好，我会保持在线。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -334,7 +334,7 @@
 [delay(time=0.5)]
 [timersticker(x=935,y=80,width=300,size=45,time=9999)]
 [charslot]
-[name="“新访客”"]......
+[name="“新访客”"]……
 新的访客一开始背对监控方向，且戴着兜帽。
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
 [name="“目标”"]（手语）
@@ -353,13 +353,13 @@
 [charslot(slot="m",name="avg_npc_1982_1#1$1")]
 [name="“新访客”"]甚至没有地方能让人安眠，就算躺在我丈夫身边也只能睁着眼，直到天亮！
 [charslot(slot="m",name="avg_npc_1982_1#1$1")]
-[name="“新访客”"]我不知道那些一批又一批被换掉的佣人究竟受到谁的指使......新来的管家甚至知道我小时候最喜欢的云兽的名字！
+[name="“新访客”"]我不知道那些一批又一批被换掉的佣人究竟受到谁的指使……新来的管家甚至知道我小时候最喜欢的云兽的名字！
 [charslot(slot="m",name="avg_npc_1982_1#1$1")]
-[name="“新访客”"]连路边的乞丐都对我的行踪和喜好了如指掌，这太可怕了......
+[name="“新访客”"]连路边的乞丐都对我的行踪和喜好了如指掌，这太可怕了……
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
 [name="“目标”"]也许前者只是管家这一职业的本分。
 [charslot(slot="m",name="avg_npc_1982_1#1$1")]
-[name="“新访客”"]哼，说得轻巧......你永远都不知道那是什么样的感觉，无论做什么事都被盯着——
+[name="“新访客”"]哼，说得轻巧……你永远都不知道那是什么样的感觉，无论做什么事都被盯着——
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
 [name="“目标”"]至少我们现在是安全的，****。
 [charslot]
@@ -371,13 +371,13 @@
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
 [name="“目标”"]你的丈夫告诉了我。他相信我能宽慰你的心灵，使你不必总是如此紧张，认为到处都有看不见的耳朵和眼睛。
 [charslot(slot="m",name="avg_npc_1982_1#1$1")]
-[name="“新访客”"]......我不会说话的。无论是面对谁，我都不会说话。
+[name="“新访客”"]……我不会说话的。无论是面对谁，我都不会说话。
 [charslot(slot="m",name="avg_npc_1982_1#1$1")]
 [name="“新访客”"]这就是我对这个国家如今的看法，我不相信这里的任何人，包括他，也包括你。
 [charslot(slot="m",name="avg_npc_1982_1#1$1")]
 [name="“新访客”"]所以，还是让我们就这样“交谈”吧。
 [charslot]
-......
+……
 [Dialog]
 [timerclear(afrom=1,ato=0,duration=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -389,7 +389,7 @@
 [Delay(time=1)]
 之后都是新访客抱怨无处不在的监视，抱怨战争和穷人的内容。过程中目标给予了其适当的劝解和安慰，并礼貌地将对方送离公寓。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]你还在吗？
 [charslot]
@@ -399,12 +399,12 @@
 [charslot]
 [name="扬声器里的声音"]访客05，于凌晨三点十一分抵达。还有问题吗？
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......没问题了，谢谢你。
+[name="监听员"]……没问题了，谢谢你。
 [charslot]
 [dialog]
 三点十一分，而不是三点十分。他的认知来源于我的记录，而不是他的前任。
-一分钟，一个问题......又或是一次叹息。
-希望是我想多了。我必须尽快掌握目标与感染者接触的确切证据，或者......
+一分钟，一个问题……又或是一次叹息。
+希望是我想多了。我必须尽快掌握目标与感染者接触的确切证据，或者……
 我至少能先给出一点成果。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -416,9 +416,9 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1300_1#2$1",duration=1)]
 [delay(time=2)]
-[name="“目标”"]......
+[name="“目标”"]……
 [charslot(slot="m",name="avg_npc_1300_1#3$1")]
-[name="“目标”"]......
+[name="“目标”"]……
 [charslot(slot="m",name="avg_npc_163")]
 [name="“访客05”"]女士？
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
@@ -426,7 +426,7 @@
 [charslot]
 [dialog]
 [Blocker(a=0.7, r=0, g=0, b=0, fadetime=0.6, block=true)]
-[Subtitle(text="我只是听到......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="我只是听到……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [delay(time=0.8)]
@@ -470,7 +470,7 @@
 一个所有在我之前曾坐在这个位置上的监听员所得出过的结论：
 目标没有威胁，可以降低危险评级和监控等级。
 如果他们实在无法依靠自己的大脑理解，那也没关系。至少，对那位体面的“访客97”的检举也将是我在近期的工作成果之一。
-这能为我争取一些时间......也许。
+这能为我争取一些时间……也许。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -480,9 +480,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
-[name="“目标”"]......
+[name="“目标”"]……
 [charslot(slot="m",name="avg_npc_1300_1#2$1")]
-[name="“目标”"]......
+[name="“目标”"]……
 [charslot]
 目标一个人待着，“访客05”已经于一小时前离开。
 没有脚步声，也没有敲门声。只是毫无预兆地，频率不同的嗡鸣声开始在室内持续响起。
@@ -507,7 +507,7 @@
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]喂！
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]该死，他掉线了......
+[name="监听员"]该死，他掉线了……
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]声音断断续续的，时有时无——
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
@@ -525,17 +525,17 @@
 没错，这是军用识别码。
 我必须在声音消失之前把它解读出来，我必须在声音消失之前把它解读出来！
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]“苏......利......文......”
+[name="监听员"]“苏……利……文……”
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]一个人名......可能是感染者......？
+[name="监听员"]一个人名……可能是感染者……？
 [dialog]
 [charslot]
 我已经没有精力去意识到这同样也是我的名字了。
-直到......
+直到……
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]“你也在......”
+[name="监听员"]“你也在……”
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]“......被......”
+[name="监听员"]“……被……”
 [charslot]
 [dialog]
 [stopmusic(fadetime=2)]
@@ -547,20 +547,20 @@
 这句话像一道闪电一样击中了我的大脑。它出现得毫无缘由，就好像——
 就好像有人正在这里对我说话。
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [dialog]
 [charslot]
 监听着他人的人，自己也正在被听着。
 我无法描述自己理解这句话时的心情，因为那天杀的根本不重要。重要的是——
 声音停了，而扬声器里仍然死寂一片。
-我想到正在“维护”的升降梯，想到楼梯口比往常更多的宪兵......
+我想到正在“维护”的升降梯，想到楼梯口比往常更多的宪兵……
 这简直是最蹩脚的那种恐怖故事。
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_soldiersrun",volume=0.4)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]该死......该死该死该死！
+[name="监听员"]该死……该死该死该死！
 [charslot]
 [name="走廊上的声音"]逃兵——
 [charslot]
@@ -632,11 +632,11 @@
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]呼——
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]呼......
+[name="监听员"]呼……
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
 [name="监听员"]算了。你快跑吧，宪兵已经——
 [charslot(slot="m",name="avg_npc_1976_1#1$1")]
-[name="监听员"]......
+[name="监听员"]……
 [charslot]
 整个破落的、曾经充斥着各种声响的公寓之中，除了我话语的回音之外，什么也没有了。
 [Dialog]
@@ -682,13 +682,13 @@
 [charslot(slot="m",name="avg_npc_1296_1#7$1")]
 [multiline(name="特蕾西娅")]呀，我又发散了。
 [charslot(slot="m",name="avg_npc_1296_1#8$1")]
-[multiline(name="特蕾西娅")]先去休息吧，Mantra小姐。很抱歉，如今我们没有更多可以给大家调整状态的时间......
+[multiline(name="特蕾西娅")]先去休息吧，Mantra小姐。很抱歉，如今我们没有更多可以给大家调整状态的时间……
 [charslot(slot="m",name="avg_npc_1296_1#9$1")]
 [name="特蕾西娅"]毕竟，世间需要聆听与分辨的声音几乎无处不在。
 [charslot(slot="m",name="avg_npc_1296_1#9$1")]
-[name="特蕾西娅"]那些呼救的喊声......你也一定能够听见。
+[name="特蕾西娅"]那些呼救的喊声……你也一定能够听见。
 [charslot(slot="m",name="avg_npc_1300_1#1$1")]
-[name="Mantra"]......
+[name="Mantra"]……
 [charslot(slot="m",name="avg_npc_1300_1#2$1")]
 [name="Mantra"]（点头）
 [charslot]

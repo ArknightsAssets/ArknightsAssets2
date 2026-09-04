@@ -50,7 +50,7 @@
 [charslot(slot = "m", name = "avg_003_kalts_1#11$1")]
 [name="凯尔希"]这是庆祝你又一次大胜的庆典，难道我不该到场吗？
 [charslot(slot = "m", name = "avg_npc_048")]
-[name="博士"]你知道的，我很久没有......我们那时候，能庆祝的日子不多。
+[name="博士"]你知道的，我很久没有……我们那时候，能庆祝的日子不多。
 [name="博士"]该如何庆祝，我已经有些生疏了。
 [charslot(slot = "m", name = "avg_003_kalts_1#11$1")]
 [name="凯尔希"]没关系，你会慢慢熟悉的。巴别塔会成为一个新的开始。
@@ -66,13 +66,13 @@
 还有些个子很高的家伙，胆子很大，竟然直接将手放在博士的脑袋上狠狠揉了揉。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_048")]
-[name="博士"]......？
+[name="博士"]……？
 [charslot(slot = "m", name = "avg_npc_1311_1#1$1")]
-[name="Scout"]呃，我替手下的冒失向您道歉，博士，我刚想阻止他......
-[name="Scout"]但我的胳膊受伤了......根本来不及。
+[name="Scout"]呃，我替手下的冒失向您道歉，博士，我刚想阻止他……
+[name="Scout"]但我的胳膊受伤了……根本来不及。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_048")]
-[name="博士"]没关系......伤势如何？
+[name="博士"]没关系……伤势如何？
 [charslot(slot = "m", name = "avg_npc_1311_1#1$1")]
 [name="Scout"]恢复得不错。
 [charslot(slot = "m", focus="n")]
@@ -95,7 +95,7 @@
 [name="可露希尔"]这么多人，我还是第一次觉得这间指挥室这么小，要不要之后帮你扩建一下啊？外面可还有好多人提着好吃的赶过来呢。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1072_1#1$1")]
-[name="Logos"]博士，大家都在为您所带来的胜利而欢呼，但您看上去有些......不自在。
+[name="Logos"]博士，大家都在为您所带来的胜利而欢呼，但您看上去有些……不自在。
 [charslot(slot = "m", focus="n")]
 [name="博士"]我以为自己遮掩得不错。咳，只是在人群中觉得紧张。
 [dialog]
@@ -113,7 +113,7 @@
 [name="阿米娅"]你看，烤箱特别烫，还把我的手指烫了一个泡。
 [dialog]
 [charslot(slot = "m", focus="n")]
-[name="博士"]谢谢......呃！这没事吗？谁有烫伤膏......
+[name="博士"]谢谢……呃！这没事吗？谁有烫伤膏……
 [dialog]
 [delay(time=1)]
 一声轻轻的咳嗽响起，人群应声向两边散开。
@@ -153,8 +153,8 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_048", duration=1.5, isblock=true)]
 [name="博士"]调用影像功能。启用管理员权限加密。
-[name="博士"]影像编号<color=#FF4200>（0091_admin）</color>......添加主题：<color=#FF4200>（这是留给你的）</color>。
-[name="博士"]启动记录......开始录影。
+[name="博士"]影像编号<color=#FF4200>（0091_admin）</color>……添加主题：<color=#FF4200>（这是留给你的）</color>。
+[name="博士"]启动记录……开始录影。
 [dialog]
 [PlaySound(key="$d_avg_signlntrfrnc", volume=1)]
 [bgeffect(name="$eb_signalInterference", layer=0)]
@@ -162,20 +162,20 @@
 [bgeffect(name="$eb_oldtv", layer=1)]
 [PlaySound(key="$d_avg_oldtvelectricity", volume=1, loop=true, channel="o")]
 [delay(time=2)]
-[name="博士"]......
+[name="博士"]……
 [name="博士"]如果我没有坚持到你醒来，你会看到这段视频。
 [name="博士"]在一切尘埃落定之前，我会留在这里，留在最安全的地方。
-[name="博士"]在我做完所有的一切之后，我会在沉默中消失......
+[name="博士"]在我做完所有的一切之后，我会在沉默中消失……
 [name="博士"]消失在所有恨我的人面前。
-[name="博士"]......
+[name="博士"]……
 [name="博士"]我的心中时刻有一个声音提醒我，拷问我——“我是谁？”
 [name="博士"]是我们自身的守望者？还是后来文明的背叛者？
 [name="博士"]我已经无法认清我自己——
 [name="博士"]查看所有我留下的记录之后，你会得出一个答案。但至少此刻，我已不再犹豫自己该做什么。
-[name="博士"]......我......
+[name="博士"]……我……
 [name="博士"]当你醒来，我应该已经消失在你的过去，不会再出现在我们约定的未来。
-[name="博士"]所以我希望......
-[name="博士"]......记录暂停。删除刚才的所有内容。我......还需要一点时间。
+[name="博士"]所以我希望……
+[name="博士"]……记录暂停。删除刚才的所有内容。我……还需要一点时间。
 [dialog]
 [StopSound(channel="e", fadetime=1)]
 [StopSound(channel="o", fadetime=1)]
@@ -186,7 +186,7 @@
 [Background(image="bg_light",screenadapt="coverall")]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="特蕾西娅"]......
+[name="特蕾西娅"]……
 她没有犹豫，没有叹息，只是默默继续做着该做的事情。
 特蕾西娅越走越深，靠近了埋藏在更深处的回忆。
 [dialog]
@@ -199,7 +199,7 @@
 [SoundVolume(volume=0.6, channel="c",fadetime=2)]
 [Blocker(a=0.2, r=0.92, g=0.4, b=0.3, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_npc_1360_1#1$1")]
-[name="博士"]我需要你们联络最近的救援队！失事的运输队车辆上有雷姆必拓的标志，这是你们的队伍......
+[name="博士"]我需要你们联络最近的救援队！失事的运输队车辆上有雷姆必拓的标志，这是你们的队伍……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="博士"]我听到里面还有幸存者的声音！
 [dialog]
@@ -208,9 +208,9 @@
 [charslot(slot = "m", focus="n")]
 [name="通讯声"]滋——我们已经联系上，但是从最近的采矿地块赶到现场还需要时间。
 [name="通讯声"]听您的反馈，那里曾发生过抢劫案，我们同样要通知武装安保，让他们立刻出发。
-[name="？？？"]......唔......
+[name="？？？"]……唔……
 [charslot(slot = "m", name = "avg_npc_1360_1#1$1")]
-[name="博士"]......武装安保......但雷姆必拓对没有家庭支持的感染者......
+[name="博士"]……武装安保……但雷姆必拓对没有家庭支持的感染者……
 [name="博士"]啧——
 [dialog]
 [SoundVolume(volume=0.2, channel="c",fadetime=2)]
@@ -223,21 +223,21 @@
 [Image(image="49_i20_1", screenadapt="coverall", xScale=1.1, yScale=1.1, fadetime=0)]
 [ImageTween(xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=1, yScaleTo=1, duration=20, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
-[name="博士"]坚持一下......我现在就能把你拉出来......
-[name="？？？"]......你......
-[name="博士"]千万不要睡着......嘶......好孩子，把手伸过来。
+[name="博士"]坚持一下……我现在就能把你拉出来……
+[name="？？？"]……你……
+[name="博士"]千万不要睡着……嘶……好孩子，把手伸过来。
 [name="博士"]抓住！
-[name="？？？"]可......我......好累......
+[name="？？？"]可……我……好累……
 [name="博士"]你的名字是什么——
-[name="？？？"]......我——
-[name="？？？"]名字......？
+[name="？？？"]……我——
+[name="？？？"]名字……？
 [dialog]
 [Image(image="49_i20_2", screenadapt="coverall", fadetime=2)]
 [ImageTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=1.1, yScaleTo=1.1, duration=20, block=false)]
 [delay(time=1.5)]
-[name="？？？"]妈妈......叫我......阿米娅......
+[name="？？？"]妈妈……叫我……阿米娅……
 [name="博士"]阿米娅，坚持一下，抓紧我的手！
-[name="阿米娅"]我......抓住你了——
+[name="阿米娅"]我……抓住你了——
 [name="博士"]我不会放手——
 [dialog]
 [stopmusic(fadetime=3)]
@@ -247,9 +247,9 @@
 [image]
 记忆破碎。
 这里就是特蕾西娅的终点，博士记忆的终点——
-“特蕾西娅......”
-[name="特蕾西娅"]......
-[name="特蕾西娅"]不可能，明明所有的记忆都已经......
+“特蕾西娅……”
+[name="特蕾西娅"]……
+[name="特蕾西娅"]不可能，明明所有的记忆都已经……
 “特蕾西娅。”
 她循着声音，来到了一处虚无之前，声音从虚无之后传来。
 [name="特蕾西娅"]这里是哪里——
@@ -266,7 +266,7 @@
 [charslot(slot= "m", focus="n")]
 [name="？？？"]你终于走到了这里，我在等你。
 [charslot(slot= "m", name="avg_npc_1296_1#7$1")]
-[name="特蕾西娅"]博士......？
+[name="特蕾西娅"]博士……？
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1360_1#1$1", duration=1.5, isblock=true)]
@@ -274,21 +274,21 @@
 [name="？？？"]博士？
 [name="？？？"]很少有人会这么叫我，他们喜欢称呼我的团队代号——“预言家”。
 [charslot(slot= "m", name="avg_npc_1296_1#7$1")]
-[name="特蕾西娅"]......预言家......
+[name="特蕾西娅"]……预言家……
 [name="特蕾西娅"]所以，凯尔希信任的，其实是你。
 [charslot(slot = "m", name = "avg_npc_1360_1#1$1")]
 [name="预言家"]我很对不起凯尔希。但没办法，我确实深陷一个避无可避的阳谋之中。
 [name="预言家"]我一直在这里看着你，看着你为希望奔走，看着你为背叛而痛苦——
 [name="预言家"]就像看着曾经的我自己。
 [charslot(slot= "m", name="avg_npc_1296_1#6$1")]
-[name="特蕾西娅"]......抱歉。
+[name="特蕾西娅"]……抱歉。
 [charslot(slot= "m", name="avg_npc_1296_1#1$1")]
-[name="特蕾西娅"]现在的你只是博士情感燃烧后的残渣，我没办法在这样的情况下，单独保留下你的情感和记忆......
+[name="特蕾西娅"]现在的你只是博士情感燃烧后的残渣，我没办法在这样的情况下，单独保留下你的情感和记忆……
 [charslot(slot = "m", name = "avg_npc_1360_1#1$1")]
 [name="预言家"]你已经来到了终点，做你该做的吧。
 [name="预言家"]谢谢你相信我。
 [charslot(slot= "m", name="avg_npc_1296_1#8$1")]
-[name="特蕾西娅"]......也许有些迟了，不过，很高兴见到你。
+[name="特蕾西娅"]……也许有些迟了，不过，很高兴见到你。
 [charslot(slot = "m", name = "avg_npc_1360_1#1$1")]
 [name="预言家"]我也很高兴见到你，特蕾西娅。
 [dialog]
@@ -300,14 +300,14 @@
 [StopSound(channel="s", fadetime=2)]
 特蕾西娅牵住它，很快，丝线开始逐渐失去光泽，碎成粉末。
 [charslot(slot= "m", name="avg_npc_1296_1#8$1")]
-[name="特蕾西娅"]到了说再见的时候了......
-[name="特蕾西娅"]未来，我们还会再见的吧......
+[name="特蕾西娅"]到了说再见的时候了……
+[name="特蕾西娅"]未来，我们还会再见的吧……
 [charslot(slot= "m", name="avg_npc_1296_1#9$1")]
-[name="特蕾西娅"]凯尔希......阿米娅......
+[name="特蕾西娅"]凯尔希……阿米娅……
 [dialog]
 [delay(time=1.5)]
 [charslot(slot= "m", name="avg_npc_1296_1#8$1")]
-[name="特蕾西娅"]......{@nickname}。
+[name="特蕾西娅"]……{@nickname}。
 [dialog]
 [PlaySound(key="$d_avg_wind", volume=1)]
 [PlaySound(key="$d_avg_reedmarshes", volume=1, loop=true, channel="r")]
@@ -323,7 +323,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=4, block=true)]
 特蕾西娅松开了手中最后的线头，目睹它如星光般散开，消逝。
-她迈开步走去，走向了希望......
+她迈开步走去，走向了希望……
 走向了死亡。
 [dialog]
 [delay(time=2)]

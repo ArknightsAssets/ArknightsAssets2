@@ -81,7 +81,7 @@
 [Character(name="avg_npc_074", name2="char_416_zumama_1", focus=2)]
 [name="森蚺"]  但你唱歌很难听。
 [Character(name="avg_npc_074", name2="char_416_zumama_1", focus=1)]
-[name="大祭司"]  什么？！好吧，我还觉得我挺有歌唱天赋的......真遗憾！
+[name="大祭司"]  什么？！好吧，我还觉得我挺有歌唱天赋的……真遗憾！
 [name="大祭司"]  哦，对，或许是唱法的问题。
 [name="大祭司"]  嗯，没错，一定是这样，下次我要试试美声的唱法！
 [Dialog]
@@ -92,7 +92,7 @@
 [Character(name="avg_npc_073")]
 [name="阿达克利斯人"]  大酋长，有人冲进来了！
 [Character(name="avg_npc_073", name2="char_416_zumama_1#2", focus=2)]
-[name="森蚺"]  是嘉维尔吗？我......
+[name="森蚺"]  是嘉维尔吗？我……
 [Character(name="avg_npc_073", name2="char_416_zumama_1#2", focus=1)]
 [name="阿达克利斯人"]  不是！是一个带着很多武器的怪胎！
 [Character(name="char_416_zumama_1#6")]
@@ -158,7 +158,7 @@
 [name="煌"]  听动静，小刻应该已经在里面闹起来了。
 [Character(name="char_187_ccheal_1#3")]
 [name="嘉维尔"]  总之，先让她冷静下来吧！
-[Decision(options="小刻快停手！;......;小刻加油！",values="1;2;3")]
+[Decision(options="小刻快停手！;……;小刻加油！",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

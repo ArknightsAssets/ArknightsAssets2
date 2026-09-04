@@ -10,15 +10,15 @@
 [SoundVolume(volume=0.7, channel="bgs",fadetime=2)]
 [Delay(time=2)]
 [Sticker(id="st1", multi = true, text="检索到管理员权限。",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n休眠重启进程准备中，3......2......1......",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n休眠重启进程准备中，3……2……1……",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\nPRTS重启自检已完成——",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Delay(time=0.5)]
 [Sticker(id="st1", multi = true, text="<color=#ff0000>警告：检测到非法第三方嵌入程序。是否恢复至初始设置？</color>",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Delay(time=0.5)]
-[Sticker(id="st1", multi = true, text="管理员密钥思维信号认证通过，恢复中......",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n生命体征检测模块已启动，自动加载修复模块。修复中......",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="管理员密钥思维信号认证通过，恢复中……",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n生命体征检测模块已启动，自动加载修复模块。修复中……",x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n预计进度：",block = true)]
 [Sticker(id="st2", multi = true, text="■", hidelog=true, x=300, y=297, alignment="left", size=24, delay=0.04, width=700, duration=0.5, block = false)]
 [Delay(time=1)]
@@ -48,11 +48,11 @@
 [charslot]
 [Delay(time=2)]
 [Background(image="bg_ceo",screenadapt="coverall")]
-[name="？？？"]......
-[name="？？？"]博士......
+[name="？？？"]……
+[name="？？？"]博士……
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="......;......阿米娅？", values="1;2")]
+[Decision(options="……;……阿米娅？", values="1;2")]
 [Predicate(references="1;2")]
 [focusout(duration=3, type="bg", from=1, to=0)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -60,17 +60,17 @@
 [playMusic(intro="$warm_intro",key="$warm_loop", volume=0.6)]
 [charslot(slot="m",name="avg_1037_amiya3_1#8$2",duration=1)]
 [Delay(time=2)]
-[name="阿米娅"]博士，太好了......
+[name="阿米娅"]博士，太好了……
 [name="阿米娅"]你终于醒过来了。
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="醒过来？;......我昏迷了很久？", values="1;2")]
+[Decision(options="醒过来？;……我昏迷了很久？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1037_amiya3_1#1$2")]
 [name="阿米娅"]我们切断思维共享很突然，加上边界的信息冲击让我也很难维持稳定的状态，所以撤离过程算不上非常顺利。
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="阿米娅，你的状况如何？;阿米娅......我现在的情况如何？", values="1;2")]
+[Decision(options="阿米娅，你的状况如何？;阿米娅……我现在的情况如何？", values="1;2")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1037_amiya3_1#8$2")]
 [name="阿米娅"]我也刚刚完全恢复意识。
@@ -93,7 +93,7 @@
 [name="阿米娅"]凯尔希医生并不希望我们在深入“文明的存续”时遭遇任何意外。
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="她果然知道了......;我没有看到她——", values="1;2")]
+[Decision(options="她果然知道了……;我没有看到她——", values="1;2")]
 [Predicate(references="1;2")]
 [charslot]
 [name="接近的声音"]确定你们苏醒后的第一时间我就已经去安排思维基准线测试了。
@@ -106,7 +106,7 @@
 [name="凯尔希"]欢迎回来，博士。
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="你看上去......很疲惫。", values="1")]
+[Decision(options="你看上去……很疲惫。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]你们行动的时候，发生了些小插曲我必须要分心处理。稍后我会向你同步现在的情况。
@@ -127,7 +127,7 @@
 [name="凯尔希"]Dr.{@nickname}，现在请跟我来。
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="......;你，你在生气？", values="1;2")]
+[Decision(options="……;你，你在生气？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]阿米娅，你同样需要参加思维基准线测试。
@@ -143,10 +143,10 @@
 [name="凯尔希"]走吧。
 [dialog]
 [charslot]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1037_amiya3_1#10$2")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -181,7 +181,7 @@
 [name="凯尔希"]没有，听从我的指示就行。我需要先校准仪器，放松跟随我的指引，但不要迟疑。
 [name="凯尔希"]博士，请重复一遍你的名字。
 [dialog]
-[Decision(options="{@nickname}。;......{@nickname}？", values="1;2")]
+[Decision(options="{@nickname}。;……{@nickname}？", values="1;2")]
 [Predicate(references="1;2")]
 [Predicate(references="1")]
 [name="凯尔希"]很好，不错的开头。
@@ -190,11 +190,11 @@
 [Predicate(references="1;2")]
 [name="凯尔希"]看到我后方的时间仪表了吗？试着在心中默念计时，尽量和上面的数字跳动同步。
 [dialog]
-[Decision(options="（默数，感受时间流逝）;我不明白这样做的意义，凯尔希......", values="1;2")]
+[Decision(options="（默数，感受时间流逝）;我不明白这样做的意义，凯尔希……", values="1;2")]
 [Predicate(references="1;2")]
 [name="凯尔希"]这样可以帮助你强化现实认知。已经过去二十秒，有感受到任何不适吗？
 [dialog]
-[Decision(options="没有。;......说不上来。;仪器是出现了异常数值吗？", values="1;2;3")]
+[Decision(options="没有。;……说不上来。;仪器是出现了异常数值吗？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [name="凯尔希"]我们先继续校准。
 [name="凯尔希"]现在你能否在思维中继续感知到阿米娅的存在。
@@ -243,12 +243,12 @@
 [name="凯尔希"]我也相信以你的能力可以更敏锐地捕捉到我的想法，并加以伪装。
 [name="凯尔希"]你想要骗过这台原型机并不困难。
 [dialog]
-[Decision(options="那当然！;......呃，我们还在检查中吗，凯尔希？", values="1;2")]
+[Decision(options="那当然！;……呃，我们还在检查中吗，凯尔希？", values="1;2")]
 [Predicate(references="1;2")]
 [name="凯尔希"]Dr.{@nickname}，剩下的检查会很快自动完成，我有时间回答你的某些疑惑。
 [name="凯尔希"]但抱歉，部分问题我同样无法向你解答，你对此应当已经有清晰的认知。
 [dialog]
-[Decision(options="......“罗德岛”的来历？;为何你会提前预知我们行动的可能性？", values="1;2")]
+[Decision(options="……“罗德岛”的来历？;为何你会提前预知我们行动的可能性？", values="1;2")]
 [Predicate(references="1;2")]
 [Predicate(references="1")]
 [name="凯尔希"]如果你指的是这艘舰船，它所存在的时间比我经历的历史更加漫长。
@@ -258,7 +258,7 @@
 [name="凯尔希"]但我必须承认，对完全开发罗德岛，我仍然持绝对谨慎的态度。
 [Predicate(references="2")]
 [name="凯尔希"]你是指我在边界中留下的那些线索？我并不能保证解开那些线索的人是你们。
-[name="凯尔希"]我也并不具备预测任何尚未发生之事的能力，我如此准备另有原因......
+[name="凯尔希"]我也并不具备预测任何尚未发生之事的能力，我如此准备另有原因……
 [name="凯尔希"]受我尊敬的人演算了未来可能出现的种种情况，而我不会忘记那个人的话语。
 [name="凯尔希"]或许是我在潜移默化中也受到了影响。
 [Predicate(references="1;2")]
@@ -268,13 +268,13 @@
 [dialog]
 [Decision(options="你的紧张并非只是来自于当下晦暗不明的局势。", values="1")]
 [Predicate(references="1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [dialog]
 [Decision(options="我无法形容这种怪异的直觉。;我从未从你的身上感受到这种复杂的情绪。", values="1;2")]
 [Predicate(references="1;2")]
 [name="凯尔希"]接受检查的并不是我——
 你的身影倒映在透明的防护窗上，就像你与凯尔希还站在一起。
-你看向玻璃上的那个自己，却情不自禁地想起了边界里那个温柔对待身旁奇怪构造体的人......
+你看向玻璃上的那个自己，却情不自禁地想起了边界里那个温柔对待身旁奇怪构造体的人……
 你的目光下意识地转移到了凯尔希身上。
 [name="凯尔希"]你为什么这样看着我，Dr.{@nickname}？
 [dialog]
@@ -297,12 +297,12 @@
 [Decision(options="凯尔希，我还有一个疑问。", values="1")]
 [Predicate(references="1")]
 [dialog]
-[Decision(options="（未知语言）“或许那会是我们的祝福”......", values="1")]
+[Decision(options="（未知语言）“或许那会是我们的祝福”……", values="1")]
 [Predicate(references="1")]
 [dialog]
 [Decision(options="（未知语言）“还有最后馈赠的希望”。", values="1")]
 [Predicate(references="1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [dialog]
 [Decision(options="我无法理解这句话的意思。;我能感受到说话之人的善意。", values="1;2")]
 [Predicate(references="1;2")]
@@ -333,7 +333,7 @@
 源石晶体的尖角上，先出现了一段短短的弧线。
 弧线伸展为弧面，继而形成了一个绝对光滑的球体。
 那是用来观察这片空间的眼瞳，它只负责记录它看见的一切，负责做出决策的器官尚未完全从源石中脱离。
-直到......现在。
+直到……现在。
 [dialog]
 [PlaySound(key="$d_avg_icecrystlncrse")]
 [charslot(slot="m",name="avg_npc_1727_1#1$1",duration=1.5)]
@@ -446,12 +446,12 @@
 [charslot(slot="m",name="avg_npc_521_1#1$1",duration=0.5)]
 [Delay(time=1)]
 [name="Mechanist"]咳咳，幸亏有你的屏障。
-[name="Mechanist"]你确定刚才的源石回路是正确的吗？已经检查了三次，不应该失败啊......
+[name="Mechanist"]你确定刚才的源石回路是正确的吗？已经检查了三次，不应该失败啊……
 [charslot(slot="m",name="avg_4133_logos_1#1$1")]
 [name="Logos"]语义并无偏差，回路符合模拟。
 [name="Logos"]的确不应出现错误。
 [charslot(slot="m",name="avg_npc_521_1#1$1")]
-[name="Mechanist"]......呃，会不会还有一种可能，出错的不是我们？
+[name="Mechanist"]……呃，会不会还有一种可能，出错的不是我们？
 [charslot(slot="m",name="avg_4133_logos_1#1$1")]
 [name="Logos"]博士和凯尔希医生的蓝本也并无纰漏，咒言的模拟的确有效。
 [charslot(slot="m",name="avg_npc_521_1#1$1")]
@@ -497,7 +497,7 @@
 [name="Touch"]无妨，我会控制风险。
 [name="Touch"]Raidian，麻烦随时准备覆写源石回路，切断迷迭香的控制。
 [charslot(slot="m",name="avg_npc_1730_1#2$1")]
-[name="Raidian"]......唔，你们真的很不让人省心。
+[name="Raidian"]……唔，你们真的很不让人省心。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -545,20 +545,20 @@
 身边空无一人。
 [name="冰冷的声音"]（未知语言）你迷失了。
 [charslot(slot="m",name="avg_npc_1719_1#9$1")]
-[name="希尔达"]......？！
+[name="希尔达"]……？！
 [charslot(slot = "m", focus = "n")]
 [name="冰冷的声音"]（未知语言）这里很久没有来过新的客人。
 [name="冰冷的声音"]（未知语言）还是说，你就是那个沦为废墟的行星上最后的幸存者？
 [charslot(slot="m",name="avg_npc_1719_1#10$1")]
-[name="希尔达"]......是屈光者的声音？可为什么——
+[name="希尔达"]……是屈光者的声音？可为什么——
 [charslot(slot = "m", focus = "n")]
 [name="冰冷的声音"]（未知语言）无论如何，欢迎你的到来。
 [name="冰冷的声音"]（未知语言）请来见我。
 [charslot(slot="m",name="avg_npc_1719_1#10$1")]
-[name="希尔达"]......
+[name="希尔达"]……
 [charslot(slot = "m", focus = "n")]
 她记得这个场景。在崩解之后，她本应死去，但光却重新涌进了她的眼睛。
-她来到了这里，来到了神人的国度......一切又再次发生了。
+她来到了这里，来到了神人的国度……一切又再次发生了。
 [charslot(slot="m",name="avg_npc_1719_1#6$1")]
 [name="希尔达"]怎，怎么可能？
 [dialog]
@@ -568,12 +568,12 @@
 [playsound(key="$rungeneral",volume=0.6)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-穿梭在舰船之中，她再次与那位名为“屈光者”的存在相遇，还有那位在深空中孤独眺望死亡的幽灵......
+穿梭在舰船之中，她再次与那位名为“屈光者”的存在相遇，还有那位在深空中孤独眺望死亡的幽灵……
 而她在这里生活过的每一寸痕迹都消失了。
 [dialog]
 [charslot(slot="m",name="avg_npc_1719_1#6$1",duration=0.5)]
 [Delay(time=1)]
-[name="希尔达"]不......不......不......
+[name="希尔达"]不……不……不……
 [name="希尔达"]是我还在梦里吗？
 [charslot(slot = "m", focus = "n")]
 [name="温柔的声音"]这里不是梦。

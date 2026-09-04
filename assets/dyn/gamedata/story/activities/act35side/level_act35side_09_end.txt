@@ -15,17 +15,17 @@
 [dialog]
 [PlaySound(key="$d_avg_bellfall", volume=1)]
 [Delay(time=1.5)]
-[name="祖拜尔"]恭喜你，佩佩......
-[name="祖拜尔"]你做到了......
+[name="祖拜尔"]恭喜你，佩佩……
+[name="祖拜尔"]你做到了……
 [name="祖拜尔"]小时候玩捉迷藏就一直输给姐姐，想不到现在还会输给你。
 [dialog]
 [StopSound(channel="sa", fadetime=3)]
 [PlaySound(key="$d_avg_fssand", volume=1)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$3", duration=1.5, isblock=true)]
 [Delay(time=0.5)]
-[name="佩佩"]你胸口的宝石......
+[name="佩佩"]你胸口的宝石……
 [charslot(slot = "m", focus="n")]
-[name="祖拜尔"]......我想这次，应该没有什么修复的可能了。
+[name="祖拜尔"]……我想这次，应该没有什么修复的可能了。
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$3")]
 [name="佩佩"]如果宝石彻底碎掉，你会怎么样？
 [charslot(slot = "m", focus="n")]
@@ -33,7 +33,7 @@
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$3")]
 [name="佩佩"]你会死。
 [charslot(slot = "m", focus="n")]
-[name="祖拜尔"]对......我会死。
+[name="祖拜尔"]对……我会死。
 [dialog]
 [delay(time=1)]
 [charslot(slot = "m", focus="n")]
@@ -47,18 +47,18 @@
 [charslot(slot = "m", focus="n")]
 [name="祖拜尔"]不，那里存放着一些独属于我的东西。
 [name="祖拜尔"]在这里度过无数光阴，因为它们的存在，我的守护也不算是全然为了他人。
-[name="祖拜尔"]至少......有一些时日，它们是属于我的。
+[name="祖拜尔"]至少……有一些时日，它们是属于我的。
 [dialog]
 [PlaySound(key="$d_avg_axeimp", volume=0.6)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#2$1", duration=0.5)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#2$1")]
-[name="佩佩"]我扶你起来......
+[name="佩佩"]我扶你起来……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_bellshake", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1479_1#4$1", posfrom="0,-30", posto="0,0", duration=2, isblock=true)]
-[name="祖拜尔"]当心，佩佩，这副身躯很沉重，不过好在......我马上就要摆脱它了。
+[name="祖拜尔"]当心，佩佩，这副身躯很沉重，不过好在……我马上就要摆脱它了。
 [name="祖拜尔"]对，走到它的底下。
 [dialog]
 [PlaySound(key="$d_avg_fsmummy", volume=1)]
@@ -101,20 +101,20 @@
 [musicvolume(volume=0.6, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="娜仁图亚"]......嗯？
-[name="娜仁图亚"]怎么有种熟悉的感觉......好像又被循兽踩住脑袋了一样......
+[name="娜仁图亚"]……嗯？
+[name="娜仁图亚"]怎么有种熟悉的感觉……好像又被循兽踩住脑袋了一样……
 [name="娜仁图亚"]——嗯？！
 [dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot = "m", name = "avg_4138_narant_1#12$1", posfrom="0,-30", posto="0,0", duration=1, isblock=true)]
 [name="娜仁图亚"]喂，阿娜特，我在什么地方？阿斯帕齐娅，听得到吗？
 [charslot(slot = "m", name = "avg_4138_narant_1#3$1")]
-[name="娜仁图亚"]......通讯器摔坏了，不意外。
+[name="娜仁图亚"]……通讯器摔坏了，不意外。
 [charslot]
 她从一尊漆黑的循兽雕像下坐起身来。空旷的厅堂中回荡着水流落下的声音。
 一颗庞大的晶体倒悬在建筑穹顶上，随着它闪烁的光芒，厅堂中浮现出许多如同水中倒影般的人像。
 [charslot(slot = "m", name = "avg_4138_narant_1#2$1")]
-[name="娜仁图亚"]......这不是我那天晚上，在河边没追到的影子吗？
+[name="娜仁图亚"]……这不是我那天晚上，在河边没追到的影子吗？
 [name="娜仁图亚"]难道说，这座城市的人们，一年又一年，看到的就是这些影子？
 [charslot]
 [PlaySound(key="$d_avg_darkmagic", volume=0.7)]
@@ -122,10 +122,10 @@
 娜仁图亚似乎能辨认出对方赤红的头发，还能看出对方正居高临下地审视着坐在地上的自己。
 片刻之后，那个幻影转过身，走入了大厅尽头一道封闭的门。
 [charslot(slot = "m", name = "avg_4138_narant_1#1$1")]
-[name="娜仁图亚"]......你的头发挺红的，但我还是看到背影才觉得，你说不定是我认识的人。
+[name="娜仁图亚"]……你的头发挺红的，但我还是看到背影才觉得，你说不定是我认识的人。
 [name="娜仁图亚"]毕竟我见过的梦魇，个个都是头也不回地在自己的路上狂奔。
 [charslot(slot = "m", name = "avg_4138_narant_1#4$1")]
-[name="娜仁图亚"]那句话怎么说的来着？“但愿河水上涨时它们被需要的人捡到”......你们也是水涨起来的时候才会浮现的影子，是不是？
+[name="娜仁图亚"]那句话怎么说的来着？“但愿河水上涨时它们被需要的人捡到”……你们也是水涨起来的时候才会浮现的影子，是不是？
 [charslot(slot = "m", name = "avg_4138_narant_1#1$1")]
 [name="娜仁图亚"]好，现在我需要找到裂隙，我相信你一次。
 [dialog]
@@ -169,7 +169,7 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="娜仁图亚"]......不是吧，这就是我要堵的“缝隙”？
+[name="娜仁图亚"]……不是吧，这就是我要堵的“缝隙”？
 [dialog]
 [StopSound(channel="mn", fadetime=1)]
 [StopSound(channel="s", fadetime=1)]
@@ -184,10 +184,10 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=1)]
-[name="佩佩"]......
+[name="佩佩"]……
 [name="佩佩"]我从未想过在一颗巨大的宝石中间，有如此奇景。
 [name="祖拜尔"]你看到中间的台子了吗？有点难以分辨，但它确实在中央。
-[multiline(name="佩佩")]虽然这地方让人眼花缭乱，但我摸索着过去应该可以碰......
+[multiline(name="佩佩")]虽然这地方让人眼花缭乱，但我摸索着过去应该可以碰……
 [multiline(name="佩佩",end=true)]哎！
 [dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
@@ -199,9 +199,9 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#12$1", posfrom="0,-30", posto="0,0", duration=1, isblock=true)]
-[name="佩佩"]这台阶是一点也看不出来......
+[name="佩佩"]这台阶是一点也看不出来……
 [charslot(slot = "m", name = "avg_npc_1479_1#1$1")]
-[name="祖拜尔"]请务必小心......它还有三层台阶。
+[name="祖拜尔"]请务必小心……它还有三层台阶。
 [charslot(slot = "m", name = "avg_4058_pepe_1#2$1")]
 [name="佩佩"]我摸到台子了，上面有颗宝石，接下来我要做什么？
 [charslot(slot = "m", name = "avg_npc_1479_1#4$1")]
@@ -216,13 +216,13 @@
 [delay(time=2)]
 [SoundVolume(volume=0.4, channel="st",fadetime=4)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#4$1")]
-[name="佩佩"]有水漫进来了......
+[name="佩佩"]有水漫进来了……
 [charslot(slot = "m", name = "avg_npc_1479_1#4$1")]
 [name="祖拜尔"]宝库的结构已经被流沙破坏，估计是河水灌进来了。
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$1")]
 [name="佩佩"]很快这里就会被淹没的。
 [charslot(slot = "m", name = "avg_npc_1479_1#2$1")]
-[name="祖拜尔"]......就让河水把这里彻底冲刷而去吧......将宝石放入我的胸膛吧。
+[name="祖拜尔"]……就让河水把这里彻底冲刷而去吧……将宝石放入我的胸膛吧。
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$1")]
 [name="佩佩"]最后一颗宝石到底代表了什么？
 [charslot(slot = "m", name = "avg_npc_1479_1#2$1")]
@@ -235,11 +235,11 @@
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$1")]
 [name="佩佩"]你从来都是人类。
 [charslot(slot = "m", name = "avg_npc_1479_1#4$1")]
-[name="祖拜尔"]啊......谢谢......
+[name="祖拜尔"]啊……谢谢……
 [charslot(slot = "m", name = "avg_npc_1479_1#1$1")]
-[name="祖拜尔"]对了......事关黄金之城......一直想告诉你......
+[name="祖拜尔"]对了……事关黄金之城……一直想告诉你……
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$1")]
-[name="佩佩"]嗯，你说就是......
+[name="佩佩"]嗯，你说就是……
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1479_1#1$1")]
 [delay(time=0.5)]
@@ -254,7 +254,7 @@
 [SoundVolume(volume=0.8, channel="st",fadetime=2)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1479_1#2$1")]
-[name="祖拜尔"]算了......
+[name="祖拜尔"]算了……
 [dialog]
 [charslot(duration=1.5, isblock=true)]
 [delay(time=0.5)]
@@ -263,10 +263,10 @@
 [dialog]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4058_pepe_1#5$1")]
-[name="佩佩"]祖拜尔...... 
+[name="佩佩"]祖拜尔…… 
 [charslot(slot = "m", focus="n")]
 [name="祖拜尔"]佩佩，松手。
-[name="祖拜尔"]让我走吧......
+[name="祖拜尔"]让我走吧……
 [dialog]
 [StopSound(channel="st", fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -357,7 +357,7 @@
 梦魇敏捷地掷出刀扇，攀住拴在上面的绳索。
 如同优雅的舞者，她在空中来回摆荡，望着倾倒而下的金山。
 她放声大笑。
-[name="娜仁图亚"]虽然有点意外......但我就知道，我不是白日做梦，痴心妄想！
+[name="娜仁图亚"]虽然有点意外……但我就知道，我不是白日做梦，痴心妄想！
 [name="娜仁图亚"]我来到辉煌之城，我挣了一大笔钱——
 [name="娜仁图亚"]——不，古往今来，萨尔贡有几人能让金币真的如瀑布一样倾泻？
 [name="娜仁图亚"]我会记住这片黄金的沙海。我想要的，我就会得到。
@@ -393,11 +393,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 再见，祖拜尔。
-......对了，守护者身死，宝库当然也随之崩塌。
+……对了，守护者身死，宝库当然也随之崩塌。
 我陷在哪里了？
 你游走了，我又该怎么从这里游出去呢？
-[name="佩佩"]......
-[name="佩佩"]（不......行......）
+[name="佩佩"]……
+[name="佩佩"]（不……行……）
 水挤压着胸口，没过眼睛。仍在缓缓打着旋的水流不断将她往深处拖拽。
 [dialog]
 [bgeffect(name="$eb_dim_closeeye", layer=1)]
@@ -413,7 +413,7 @@
 [PlaySound(key="$d_avg_swimdeepsea", volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="佩佩"]（谢......）
+[name="佩佩"]（谢……）
 [name="？？？"]哈哈，运气果然还是站在我这边的。
 [name="？？？"]我总算捞到一件宝贝啦！
 [dialog]
@@ -437,25 +437,25 @@
 [name="阿娜特"]那也有可能只是堵住了！
 [charslot(slot="m", name="avg_npc_1478_1#9$1")]
 [name="梅捷缇克缇"]别担心，宝石构装体也不再活动了。
-[name="梅捷缇克缇"]源石回路没有释放任何能量的迹象......它也许不会再醒过来了。
+[name="梅捷缇克缇"]源石回路没有释放任何能量的迹象……它也许不会再醒过来了。
 [charslot(slot="m", name="avg_4139_papyrs_1#2$2")]
-[name="阿娜特"]......你还偷偷把你的小宠物带在身边了？
+[name="阿娜特"]……你还偷偷把你的小宠物带在身边了？
 [charslot(slot="m", name="avg_npc_1478_1#9$1")]
 [name="梅捷缇克缇"]我相信佩佩嘛。
 [charslot(slot="m", name="avg_4139_papyrs_1#10$2")]
-[name="阿娜特"]好吧，我们能做的也都做完了......
+[name="阿娜特"]好吧，我们能做的也都做完了……
 [charslot(slot="m", name="avg_npc_1477_1#2$1")]
 [name="阿斯帕齐娅"]目前城市的混乱状况的确得到了缓解，不过，没有人敢断定这次异常到此为止了。
 [charslot(slot="m", name="avg_4139_papyrs_1#1$2")]
 [name="阿娜特"]是啊，所有人的心都还悬着。
 [charslot(slot="m", name="avg_npc_1477_1#1$1")]
-[name="阿斯帕齐娅"]......
+[name="阿斯帕齐娅"]……
 [charslot(slot="m", name="avg_4139_papyrs_1#12$2")]
-[name="阿娜特"]......谢谢你的那位朋友。
-[name="阿娜特"]我保证，会把她和佩佩的事迹一起写进报告，让她们名扬辉煌之城，被写进本地的历史......
+[name="阿娜特"]……谢谢你的那位朋友。
+[name="阿娜特"]我保证，会把她和佩佩的事迹一起写进报告，让她们名扬辉煌之城，被写进本地的历史……
 [dialog]
 [PlaySound(key="$blooddrop", volume=1)]
-[name="？？？"]名扬辉煌之城不错，但是留在史书上......是不是最好等我死了再说？
+[name="？？？"]名扬辉煌之城不错，但是留在史书上……是不是最好等我死了再说？
 [charslot(slot="m", name="avg_npc_1477_1#4$1")]
 [name="阿斯帕齐娅"]娜仁图亚？！
 [dialog]
@@ -464,7 +464,7 @@
 [charslot(slot="m", name="avg_4138_narant_1#12$1", duration=1, isblock=true)]
 [name="娜仁图亚"]嘿，搭把手，扶着这丫头。
 [charslot(slot="m", name="avg_4139_papyrs_1#5$2")]
-[name="阿娜特"]......佩佩？
+[name="阿娜特"]……佩佩？
 [charslot(slot="m", name="avg_4138_narant_1#4$1")]
 [name="娜仁图亚"]要不是我向外游的时候遇上了她，她估计就交待在里面了。
 [charslot(slot="m", name="avg_4138_narant_1#2$1")]
@@ -473,11 +473,11 @@
 [charslot]
 [PlaySound(key="$d_avg_clothmovement", volume=0.4)]
 [charslot(slot="m", name="avg_4058_pepe_1#5$1", posfrom="0,-30", posto="0,0", duration=1.5, isblock=true)]
-[name="佩佩"]......
+[name="佩佩"]……
 [charslot(slot="m", name="avg_4139_papyrs_1#1$2")]
-[name="阿娜特"]你的脸色好差......
+[name="阿娜特"]你的脸色好差……
 [charslot(slot="m", name="avg_4058_pepe_1#5$1")]
-[name="佩佩"]祖拜尔他......
+[name="佩佩"]祖拜尔他……
 [dialog]
 [charslot]
 佩佩的视线移向了身边的水池。
@@ -523,12 +523,12 @@
 [Image(image="53_i11", screenadapt="coverall", xScale=1.05, yScale=1.05)]
 [ImageTween(xScaleFrom=1.05, yScaleFrom=1.05, xScaleTo=1, yScaleTo=1, duration=10, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="拉恕尔"]......那位库兰塔心中靠谱的手下是什么样的？
-[name="阿斯帕齐娅"]嗯......
+[name="拉恕尔"]……那位库兰塔心中靠谱的手下是什么样的？
+[name="阿斯帕齐娅"]嗯……
 [name="阿雅妮"]你看，我就说娜仁图亚不会有事嘛！她怎么放心把我们丢在这里！
 [name="阿雅吉"]阿雅妮，你坐下。
 [name="阿雅吉"]喷泉不牢固，我们两个一起站着肯定会倒，所以现在该我站起来了。
-[name="阿斯帕齐娅"]......可能是和她自己一样什么都不怕的人吧。
+[name="阿斯帕齐娅"]……可能是和她自己一样什么都不怕的人吧。
 [name="佩佩"]缇缇，你也来！
 [name="佩佩"]今天太阳正好，不是吗？
 [dialog]

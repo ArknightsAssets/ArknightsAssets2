@@ -6,15 +6,15 @@
 [Delay(time=1)]
 [PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-......阿勒黛，偷听可不是什么好习惯。听父亲的话。
+……阿勒黛，偷听可不是什么好习惯。听父亲的话。
 只有卑鄙小人才会躲在暗处谋划别人的生死。
 他们也许能以此牟利，但这种窃来的胜利必不会长久。
 [Character(name="avg_npc_655_1#6$1")]
-[name="阿勒黛"]（唔......他们都是卑鄙小人......）
+[name="阿勒黛"]（唔……他们都是卑鄙小人……）
 [Character(name="avg_npc_655_1#6$1")]
-[name="阿勒黛"]（爸爸......）
+[name="阿勒黛"]（爸爸……）
 她不想被抓个正着，尤其是被这些坏人抓住。这会让父亲失望，也会令坎伯兰之名蒙羞。
-要是她能爬到窗户外面去的话......
+要是她能爬到窗户外面去的话……
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -35,18 +35,18 @@
 [PlaySound(key="$book_close")]
 [delay(time=1)]
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=2)]
-[name="看不清脸的商人"]......你听见什么声音了吗？
+[name="看不清脸的商人"]……你听见什么声音了吗？
 [PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.4)]
 [Character(name="avg_npc_408_1#1$1",blackstart=0.2,blackend=0.7,name2="avg_npc_177",blackstart2=0.2,blackend2=0.7,focus=1)]
 [name="面目模糊的军官"]说不定是什么小动物。别多想了，这么窄的屋子怎么藏人？
 [Character(name="avg_npc_655_1#10$1")]
-[name="阿勒黛"]呼......
+[name="阿勒黛"]呼……
 [dialog]
 [character]
 她小心翼翼地蜷缩在阴影里。最忠诚的盟友——巨大的蒸汽甲胄替她打着掩护。
 她的手指触摸到了窗户的边缘，只要能翻窗出去，她就能躲开这两个人的视线，沿着水管爬下去。
 裙子已经脏了，艾尔希一定会不高兴的。
-但只要能不被抓住......
+但只要能不被抓住……
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=200, g=200, b=200, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -95,7 +95,7 @@
 [delay(time=1)]
 可是坎伯兰不会轻易低头。阿勒黛努力把头抬得很高很高，这才发现，最中间的那位竟然驮着一个人。
 那是一个比她还要稚嫩的孩子，穿着华贵的礼服，慵懒地坐在他宛若鎏金的背上。
-他口中衔着一柄剑，一柄......比孩子的身体还要大得多的剑。
+他口中衔着一柄剑，一柄……比孩子的身体还要大得多的剑。
 一个浑厚的声音在阿勒黛头顶响了起来。
 [dialog]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -130,13 +130,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_409_1#1$1")]
-[name="维多利亚军官"] 快看啊，那......那是......
+[name="维多利亚军官"] 快看啊，那……那是……
 [Character(name="avg_npc_409_1#1$1")]
 [name="维多利亚军官"] 亚历山德莉娜殿下！
 [Character(name="avg_npc_409_1#1$1")]
 [name="维多利亚军官"] 快去通报陛下，我们找到殿下了，她此刻就在花园内——
 [Character(name="avg_npc_409_1#1$1")]
-[name="维多利亚军官"] 等等，我没眼花吧？那不是......失踪的......
+[name="维多利亚军官"] 等等，我没眼花吧？那不是……失踪的……
 [Character(name="avg_npc_409_1#1$1")]
 [name="维多利亚军官"] 我们的殿下——她找到了诸王之息！
 [Character(name="avg_npc_409_1#1$1")]
@@ -149,14 +149,14 @@
 [character]
 [PlaySound(key="$d_avg_cheer_street", volume=1)]
 欢呼声瞬间在花园里爆发。
-军人、贵族、仆从......人们拥向花园，看向抱着王权象征的王女殿下。
+军人、贵族、仆从……人们拥向花园，看向抱着王权象征的王女殿下。
 这是何等的奇迹啊！
 [PlaySound(key="$d_avg_applause", volume=1)]
 热泪盈满了人们的眼眶，他们纷纷鼓起掌来。
 [dialog]
 [delay(time=1.5)]
 [Character(name="avg_npc_663_1#1$1")]
-[name="侍女艾尔希"]阿勒黛小姐......您怎么会在这里？
+[name="侍女艾尔希"]阿勒黛小姐……您怎么会在这里？
 [Dialog]
 [Character(name="char_empty", name2="avg_npc_655_1#1$1")]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -166,7 +166,7 @@
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#5$1",fadetime=0.7)]
 [delay(time=1.5)]
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#5$1", focus=2)]
-[name="阿勒黛"]......艾尔希。
+[name="阿勒黛"]……艾尔希。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#5$1", focus=2)]
 [name="阿勒黛"] 你也看不见他们吗？
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#5$1", focus=1)]
@@ -174,17 +174,17 @@
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#5$1", focus=1)]
 [name="侍女艾尔希"]殿下只有一个人在啊。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=2)]
-[name="阿勒黛"]不是的，是他们，金色的......
+[name="阿勒黛"]不是的，是他们，金色的……
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=2)]
 [name="阿勒黛"]他刚刚还在对我说话。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=1)]
-[name="侍女艾尔希"]您之前遇到了什么事吗？您的裙子为何这么脏......您没事吧？
+[name="侍女艾尔希"]您之前遇到了什么事吗？您的裙子为何这么脏……您没事吧？
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=2)]
-[name="阿勒黛"]我......不清楚。
+[name="阿勒黛"]我……不清楚。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=2)]
-[name="阿勒黛"]星星......星星落到了楼上的房间里。
+[name="阿勒黛"]星星……星星落到了楼上的房间里。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=2)]
-[name="阿勒黛"]蒸汽骑士......甲胄......打倒那些卑鄙之人！
+[name="阿勒黛"]蒸汽骑士……甲胄……打倒那些卑鄙之人！
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=1)]
 [name="侍女艾尔希"]我听不懂您说的话。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#10$1", focus=2)]
@@ -214,11 +214,11 @@
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"]奇迹与巧合最大的差别在于，奇迹不会毫无缘由地降临此时此地。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
-[name="贵族男士"]陛下的诞辰就快到了......我怎能不把这件神奇的事当成一种美妙的预示呢？
+[name="贵族男士"]陛下的诞辰就快到了……我怎能不把这件神奇的事当成一种美妙的预示呢？
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
 [name="贵族女士"]别这么说。这么一场自导自演的戏码，可叫人看得愉快。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
-[name="贵族女士"]我又想起几位公爵大人是怎么评价如今的陛下和坎伯兰公爵......
+[name="贵族女士"]我又想起几位公爵大人是怎么评价如今的陛下和坎伯兰公爵……
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=1)]
 [name="贵族男士"]到此为止吧，把所有忧虑都抛在脑后。宴会就要开始了。
 [Character(name="avg_npc_176", name2="avg_npc_175", focus=2)]
@@ -235,24 +235,24 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
-[name="激昂的声音"]......看来人们都注意到亚历山德莉娜的冒险之旅了。
-[name="低沉的声音"] 陛下......您早就知道殿下会进入地下空洞？
+[name="激昂的声音"]……看来人们都注意到亚历山德莉娜的冒险之旅了。
+[name="低沉的声音"] 陛下……您早就知道殿下会进入地下空洞？
 [name="激昂的声音"]这是一个好机会。我不在王宫里，恪尽职守的卫兵们就更容易去聊聊天，或者睡个懒觉，从而错过我们这位地下通道的小小闯入者了。
 [name="低沉的声音"] 原来这都是您的安排。
 [name="激昂的声音"]也有一半是那位大人的自由发挥。他偶尔喜欢在人类面前开一些无伤大雅的小玩笑。
 [name="低沉的声音"] 既然他愿意配合，是否意味着他也认为这是不得不做之事？
-[name="激昂的声音"]......伦蒂尼姆就快入夏了。这天闷得厉害，时不时下大雨。你也正在安排把阿勒黛和夫人提前送出城去吧？
-[name="低沉的声音"] 陛下！我绝对没有其他心思，我只是......
+[name="激昂的声音"]……伦蒂尼姆就快入夏了。这天闷得厉害，时不时下大雨。你也正在安排把阿勒黛和夫人提前送出城去吧？
+[name="低沉的声音"] 陛下！我绝对没有其他心思，我只是……
 [name="激昂的声音"]罗伯特，你很爱你的女儿，我也一样。
-[name="激昂的声音"]我们会为维多利亚的现在赌上一切，而她们才是维多利亚的未来。万一我们真的遭遇了失败......
+[name="激昂的声音"]我们会为维多利亚的现在赌上一切，而她们才是维多利亚的未来。万一我们真的遭遇了失败……
 [name="低沉的声音"] 不会的，陛下。我会用我的性命确保那最可怕的事情不会发生。
 [name="激昂的声音"]我对我们的前景充满勇气和信心。可这并不妨碍我为亚历山德莉娜规划了一条小小的后路。
 [name="激昂的声音"]她迟早是维多利亚的王，早些让她熟悉自己的城市，又有什么关系呢？
 [name="激昂的声音"]而且类似的闹剧对这个略显沉闷的下午来说，也不失为一种调剂。
 [name="激昂的声音"]人们的精神在压力之下更需要鼓舞。这就是我们相聚在这里的意义。
-[name="激昂的声音"]......
-[name="激昂的声音"]当然......我们都有了一些预感。所以才会做这些打算，是吧？
-[name="低沉的声音"] ......
+[name="激昂的声音"]……
+[name="激昂的声音"]当然……我们都有了一些预感。所以才会做这些打算，是吧？
+[name="低沉的声音"] ……
 [name="激昂的声音"]来吧，罗伯特。等喝完这一杯茶，我们也该下楼去了。
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
@@ -273,13 +273,13 @@
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=1)]
 [name="侍女艾尔希"]您难道不高兴吗？
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#8$1", focus=2)]
-[name="阿勒黛"]艾尔希......这样的日子会一直持续下去的吧？
+[name="阿勒黛"]艾尔希……这样的日子会一直持续下去的吧？
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#8$1", focus=2)]
-[name="阿勒黛"]我和你，还有爸爸，妈妈......是不是永远不会分开？
+[name="阿勒黛"]我和你，还有爸爸，妈妈……是不是永远不会分开？
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#8$1", focus=1)]
 [name="侍女艾尔希"]我不知道，阿勒黛小姐。但我相信没有什么是一成不变的，就像这花园里的花一样。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#6$1", focus=2)]
-[name="阿勒黛"]......
+[name="阿勒黛"]……
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=2)]
 [name="阿勒黛"]不是的，艾尔希，一定有东西不会变！
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=2)]
@@ -291,9 +291,9 @@
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=2)]
 [name="阿勒黛"]艾尔希，我保证，我会让你看见的！
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=1)]
-[name="侍女艾尔希"]小姐......
+[name="侍女艾尔希"]小姐……
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#9$1", focus=2)]
-[name="阿勒黛"]......我不会离开伦蒂尼姆。艾尔希，你也不准离开。
+[name="阿勒黛"]……我不会离开伦蒂尼姆。艾尔希，你也不准离开。
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#9$1", focus=2)]
 [name="阿勒黛"]我会告诉爸爸——
 [Character(name="avg_npc_663_1#1$1", name2="avg_npc_655_1#1$1", focus=2)]

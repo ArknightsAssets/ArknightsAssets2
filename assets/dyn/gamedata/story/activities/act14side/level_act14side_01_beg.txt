@@ -9,7 +9,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Subtitle(text="外力。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="一点微小的外力。只要这轻轻一推......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一点微小的外力。只要这轻轻一推……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="雪崩就会掩埋整个谢拉格，包括它所隐瞒的阴谋和发生过的一切。", x=300, y=350, alignment="center", size=24, delay=0.04, width=750)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -51,8 +51,8 @@
 [name="谢拉格商人"]您大老远跑到谢拉格出差，也不想回去没有什么好东西带给家人吧？
 [dialog]
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=1)]
-[name="出差的经理"]......
-[name="出差的经理"]......啧，好吧，我买了，给我的老婆孩子各买一块！
+[name="出差的经理"]……
+[name="出差的经理"]……啧，好吧，我买了，给我的老婆孩子各买一块！
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=2)]
 [name="谢拉格商人"]好嘞，就喜欢您这样豪爽的人！
 [dialog]
@@ -76,10 +76,10 @@
 [character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]我离开谢拉格的时候，还特意嘱咐过魏斯哥，要是有人爬上去了给我报个信呢。
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=2)]
-[name="谢拉格商人"]你怎么知道......
-[name="谢拉格商人"]等等，这个尾巴......您难道是恩希亚小姐？！
+[name="谢拉格商人"]你怎么知道……
+[name="谢拉格商人"]等等，这个尾巴……您难道是恩希亚小姐？！
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=1)]
-[name="出差的经理"]恩希亚......你、您是恩希欧迪斯先生的妹妹？！
+[name="出差的经理"]恩希亚……你、您是恩希欧迪斯先生的妹妹？！
 [character(name="avgnew_173_slchan_1#2$1")]
 [name="恩希亚"]嗯哼？
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=1)]
@@ -88,7 +88,7 @@
 [name="谢拉格商人"]哎呀，哈哈哈，听说恩希亚小姐自幼热爱登山，对于雪山的了解果然比我们普通人要强。
 [name="谢拉格商人"]我店里的这些货其实也是从山上的猎人那里进的，肯定是那些猎人骗了我。
 [name="谢拉格商人"]我之后就去找他们算账！
-[name="谢拉格商人"]至于这个护符......恩希亚小姐，您看？
+[name="谢拉格商人"]至于这个护符……恩希亚小姐，您看？
 [character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]这个护符有蔓珠院的赐福倒不假，没有谢拉格人胆敢伪造蔓珠院的印信冒犯耶拉冈德。
 [character(name="avgnew_173_slchan_1#1$1")]
@@ -96,7 +96,7 @@
 [character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]所以，卖便宜点就好啦。
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=2)]
-[name="谢拉格商人"]呼......既然如此，我这就把定价改成十镑！那，这位先生，您还买吗？
+[name="谢拉格商人"]呼……既然如此，我这就把定价改成十镑！那，这位先生，您还买吗？
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=1)]
 [name="出差的经理"]既然那位恩希欧迪斯先生的妹妹都这么说了，我肯定是相信的。
 [character(name="avg_npc_222",name2="avg_npc_278_1#1$1",focus=1)]
@@ -145,7 +145,7 @@
 [Predicate(references="1")]
 [name="？？？"]不想受冻的话，现在离开还不算晚。
 [dialog]
-[Decision(options="......？", values="1")]
+[Decision(options="……？", values="1")]
 [Predicate(references="1")]
 [character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]博士，你在发什么呆？
@@ -157,7 +157,7 @@
 [name="恩希亚"]嗯？可是你身边没有人啊。
 [dialog]
 [character(name="avgnew_173_slchan_1#3$1",focus=-1)]
-[Decision(options="......？", values="1")]
+[Decision(options="……？", values="1")]
 [Predicate(references="1")]
 [character(fadetime=0.5)]
 [delay(time=2)]
@@ -178,7 +178,7 @@
 [name="恩希亚"]博士，别发呆了，走了走了。
 [dialog]
 [character(name="avgnew_173_slchan_1#1$1",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [character(fadetime=0.5)]
 [PlaySound(key="$d_avg_snowbootwalk", volume=1, channel="doc")]
@@ -239,9 +239,9 @@
 [character(name="avg_198_blackd_1#1$1",name2="avg_199_yak_1#8$1",focus=2)]
 [name="角峰"]你那个同族的老朋友呢？我记得是叫莫希吧，有空一起吃顿饭吧。
 [character(name="avg_198_blackd_1#2$1",name2="avg_199_yak_1#8$1",focus=1)]
-[name="魏斯"]这个......
+[name="魏斯"]这个……
 [character(name="avg_198_blackd_1#8$1",name2="avg_199_yak_1#8$1",focus=1)]
-[name="魏斯"]......到时候再看情况吧。
+[name="魏斯"]……到时候再看情况吧。
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -253,7 +253,7 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [character(name="avg_npc_252")]
-[name="Sharp"]......
+[name="Sharp"]……
 [Character(name="char_empty",name2="avg_npc_252",focus=2)]
 [PlaySound(key="$transmission",volume=1)]
 [delay(time=1)]
@@ -280,11 +280,11 @@
 [Character(name="char_empty",name2="avg_npc_252",focus=2)]
 [name="Sharp"] 我不是问你这个。
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
-[name="极光"] ......？队长你让我出去逛逛不是让我去踩点的吗？
+[name="极光"] ……？队长你让我出去逛逛不是让我去踩点的吗？
 [Character(name="char_empty",name2="avg_npc_252",focus=2)]
 [name="Sharp"] 我是问，你很久没回谢拉格了，感觉如何？
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
-[name="极光"] 哦......
+[name="极光"] 哦……
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
 [name="极光"] 老实说，我觉得很不可思议。我通过希瓦艾什家的人才培养计划离开谢拉格时，也是从这里出发的。
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
@@ -312,15 +312,15 @@
 [Character(name="char_empty",name2="avg_npc_252",focus=2)]
 [name="Sharp"] 没什么比家人更重要。
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
-[name="极光"] 但是......
+[name="极光"] 但是……
 [Character(name="char_empty",name2="avg_npc_252",focus=2)]
 [name="Sharp"] 你既然都已经回到雪山了，正好是回家看看的机会，这也是博士的意思。
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
 [name="极光"] 博士也这么说？
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
-[name="极光"] ......我知道了，那就恭敬不如从命。
+[name="极光"] ……我知道了，那就恭敬不如从命。
 [Character(name="char_empty",name2="avg_npc_252",focus=-1)]
-[name="极光"] 至于博士那边......
+[name="极光"] 至于博士那边……
 [Character(name="char_empty",name2="avg_npc_252",focus=2)]
 [name="Sharp"] 有我跟着。
 [dialog]
@@ -366,7 +366,7 @@
 [name="恩希亚"]那边那座很陡峭的山峰，叫作马特洪峰，其实也是角峰名字的来源。
 [dialog]
 [delay(time=2)]
-......
+……
 恩希亚滔滔不绝地讲述着沿途的风景以及与谢拉格有关的一切。
 [dialog]
 [delay(time=2)]

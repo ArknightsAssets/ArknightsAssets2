@@ -52,7 +52,7 @@
 [charslot(slot = "right",focus="r")]
 [name="八卦的男佣"]怎么说，杜邦夫人还是把自己关在房间里不肯出来？
 [charslot(slot = "l",focus="l")]
-[name="忧心的女仆"]已经三天了，食物也没怎么动，再这样下去可怎么办......
+[name="忧心的女仆"]已经三天了，食物也没怎么动，再这样下去可怎么办……
 [charslot(slot = "right",focus="r")]
 [name="八卦的男佣"]照我说，夫人压根没必要这么纠结。
 [name="八卦的男佣"]作为杜邦家族的遗孤，维多利亚曾经最高贵的血脉的继承者，她优雅、知性，那三个人里，她选择谁作为伴侣都不为过。
@@ -83,12 +83,12 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1835_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="斯蒂芬"]唉......生硬刻板的演技。
+[name="斯蒂芬"]唉……生硬刻板的演技。
 [charslot(slot="m",name="avg_npc_1835_1#7$1")]
-[name="斯蒂芬"]（小声）本来也只是向观众传递信息的功能性戏份，不如整场砍掉，后续补几个更有象征意味的空镜......
+[name="斯蒂芬"]（小声）本来也只是向观众传递信息的功能性戏份，不如整场砍掉，后续补几个更有象征意味的空镜……
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
 [name="斯蒂芬"]（小声）但愿我们热爱干预导演工作的制片人女士不会为这种小事较真。
-[name="斯蒂芬"]你们下去吧，剧本临时有了一些“调整”......一会儿正式拍摄的时候不用来了。
+[name="斯蒂芬"]你们下去吧，剧本临时有了一些“调整”……一会儿正式拍摄的时候不用来了。
 [charslot]
 [charslot(slot = "left", name = "avg_npc_243",focus="r")]
 [charslot(slot = "right", name = "avg_npc_417_1#1$1",focus="r")]
@@ -105,18 +105,18 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_1835_1#5$1")]
-[name="斯蒂芬"]好了各位，还没到休息时间，闭嘴......闭嘴！
+[name="斯蒂芬"]好了各位，还没到休息时间，闭嘴……闭嘴！
 [Dialog]
 [StopSound(channel="bgs", fadetime=2)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1835_1#5$1")]
-[name="斯蒂芬"]我知道连续拍了两个月大家都很疲惫，现在移动地块又开出了主城区，没有赌场和商店街，自助酒吧的存货也难喝得要死......
+[name="斯蒂芬"]我知道连续拍了两个月大家都很疲惫，现在移动地块又开出了主城区，没有赌场和商店街，自助酒吧的存货也难喝得要死……
 [name="斯蒂芬"]但是！无论好坏都只剩下最后一周了，拍摄时间很宝贵，我的胶片也是。
-[name="斯蒂芬"]《杜邦夫人之死》，蓝卡坞近期少见的上个时代的悲剧题材，通过一位贵族女性的荒唐婚变来反映哥伦比亚时代交替的阵痛......
+[name="斯蒂芬"]《杜邦夫人之死》，蓝卡坞近期少见的上个时代的悲剧题材，通过一位贵族女性的荒唐婚变来反映哥伦比亚时代交替的阵痛……
 [name="斯蒂芬"]我不希望它最后上映时看起来只是拿来洗钱的垃圾！
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
 [name="斯蒂芬"]继续走戏。
-[name="斯蒂芬"]《杜邦夫人之死》，宅邸露台，第三场......米兰妮，迈克尔，到你们了。
+[name="斯蒂芬"]《杜邦夫人之死》，宅邸露台，第三场……米兰妮，迈克尔，到你们了。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -131,7 +131,7 @@
 [charslot(slot = "right", name = "avg_npc_1838_1#1$1",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "left", name = "avg_npc_1830_1#5$1",focus="l")]
-[name="米兰妮"]......
+[name="米兰妮"]……
 [charslot(slot = "right", name = "avg_npc_1838_1#1$1",focus="r")]
 [name="迈克尔"]米兰妮女士，怎么了？
 [charslot(slot = "left", name = "avg_npc_1830_1#5$1",focus="l")]
@@ -141,9 +141,9 @@
 [charslot(slot = "left", name = "avg_npc_1830_1#5$1",focus="l")]
 [name="米兰妮"]你觉得我在小题大做？
 [charslot(slot = "right", name = "avg_npc_1838_1#1$1",focus="r")]
-[name="迈克尔"]不敢不敢，您是曾与玛丽安娜女士齐名的女演员，在蓝卡坞红极一时......
+[name="迈克尔"]不敢不敢，您是曾与玛丽安娜女士齐名的女演员，在蓝卡坞红极一时……
 [charslot(slot = "left", name = "avg_npc_1830_1#5$1",focus="l")]
-[name="米兰妮"]资历、身份、规矩......你可以打心眼里鄙夷这套东西，但在片场的时候，你必须尊重它。
+[name="米兰妮"]资历、身份、规矩……你可以打心眼里鄙夷这套东西，但在片场的时候，你必须尊重它。
 [charslot(slot = "right", name = "avg_npc_1838_1#1$1",focus="r")]
 [name="迈克尔"]我向您道歉。
 [charslot]
@@ -192,7 +192,7 @@
 [charslot(slot = "r",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
 [charslot(slot = "right",focus="r")]
 [name="迈克尔"]我刚从战场归来，我与死亡擦肩而过。
-[name="迈克尔"]你知道吗，当那枚炮弹在我身侧炸开，当我的意识与我的身体同时腾空，当我几乎来到生命的最后时刻......
+[name="迈克尔"]你知道吗，当那枚炮弹在我身侧炸开，当我的意识与我的身体同时腾空，当我几乎来到生命的最后时刻……
 [charslot(slot = "right", name = "avg_npc_1838_1#1$1",focus="r",posfrom = "0,-60", posto = "0,-60")]
 [charslot(slot = "r",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
 [charslot(slot = "right",focus="r")]
@@ -201,15 +201,15 @@
 [charslot(slot = "left", name = "avg_npc_1830_1#5$1",focus="l",posfrom = "0,0", posto = "0,-70")]
 [charslot(slot = "l",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
 [charslot(slot = "right",focus="l")]
-[name="米兰妮"]......
+[name="米兰妮"]……
 [charslot(slot = "right", name = "avg_npc_1838_1#1$1",focus="r",posfrom = "0,-60", posto = "0,-60")]
 [charslot(slot = "r",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
 [charslot(slot = "right",focus="r")]
-[name="迈克尔"]......
+[name="迈克尔"]……
 [charslot(slot = "left", name = "avg_npc_1830_1#5$1",focus="l",posfrom = "0,0", posto = "0,-70")]
 [charslot(slot = "l",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
 [charslot(slot = "right",focus="l")]
-[name="米兰妮"]......
+[name="米兰妮"]……
 [charslot(slot = "right", name = "avg_npc_1838_1#6$1",focus="r",posfrom = "0,-60", posto = "0,-60")]
 [charslot(slot = "r",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
 [charslot(slot = "right",focus="r")]
@@ -227,7 +227,7 @@
 [charslot(slot = "l",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
 [charslot(slot = "right",focus="l")]
 [name="米兰妮"]一个军人会在描述自己的战场故事时挤眉弄眼吗？苍蝇都会被你刚刚的语调粘在地上动弹不得！
-[name="米兰妮"]我知道这两个月，你几乎把地块上所有的异性生物都骚扰了一遍，但是孩子，别把你在私生活里的作派带入镜头......
+[name="米兰妮"]我知道这两个月，你几乎把地块上所有的异性生物都骚扰了一遍，但是孩子，别把你在私生活里的作派带入镜头……
 [name="米兰妮"]并非谁都是那个金发蠢妞，会迷上你乱晃的耳朵和红尾巴。
 [Dialog]
 [focusout(duration=1, type="bg", from=0.3, to=0)]
@@ -238,7 +238,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_1839_1#3$1",duration=1)]
 [delay(time=1.5)]
-[name="玛丽昂"]金、金发蠢妞......
+[name="玛丽昂"]金、金发蠢妞……
 [charslot(slot="m",name="avg_npc_1835_1#7$1")]
 [name="斯蒂芬"]玛、玛丽昂，你什么时候来的？
 [charslot(slot="m",name="avg_npc_1839_1#6$1")]
@@ -247,7 +247,7 @@
 [charslot(slot="m",name="avg_npc_1835_1#7$1")]
 [name="斯蒂芬"]唉，没有没有。
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
-[name="斯蒂芬"]那我们继续......迈克尔，表演应该尽可能贴合人设，不然会显得极不真诚。
+[name="斯蒂芬"]那我们继续……迈克尔，表演应该尽可能贴合人设，不然会显得极不真诚。
 [name="斯蒂芬"]如果第二个洛克菲勒的告白不够真诚，我们就没法让观众相信杜邦夫人终于做出了这个不管谁来了都会纠结的决定。
 [name="斯蒂芬"]两位稍作休息吧，我们先试下一个调度。
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
@@ -271,7 +271,7 @@
 [charslot(slot="m",name="avg_npc_1843_1#9$1")]
 [name="阿布纳"]别太上纲上线，我的朋友。
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
-[name="斯蒂芬"]......
+[name="斯蒂芬"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -282,7 +282,7 @@
 [backgroundTween(xScaleFrom=1.3, yScaleFrom=1.3, xScaleTo=1.3, yScaleTo=1.3, duration=10, yFrom=30,yTo=80, xTo=0,block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="斯蒂芬"]杜邦夫人与第二个洛克菲勒的谈话声渐渐变小，与此同时，我们的镜头离开露台......
+[name="斯蒂芬"]杜邦夫人与第二个洛克菲勒的谈话声渐渐变小，与此同时，我们的镜头离开露台……
 [name="斯蒂芬"]随着台阶下移，扫过一幅幅肖像画、一尊尊古董花瓶，来到挂满酒红色窗帘的前厅。
 [name="斯蒂芬"]正在这时，前厅的门被打开了。
 [Dialog]
@@ -306,7 +306,7 @@
 [name="斯蒂芬"]救命啊，这是什么？幽灵？道具？我的幻觉，还是谁*蓝卡坞片场术语*养的宠物？
 [name="斯蒂芬"]没人知道放任这样一个不明生物闯进来会给拍摄现场带来多大的灾难吗！
 [charslot(slot="m",name="avg_4198_christ_1#1$1")]
-[name="神秘优雅的生物"]......
+[name="神秘优雅的生物"]……
 [Dialog]
 [charslot(slot="m",name="avg_4198_christ_1#2$1")]
 [charslot(slot = "m",posfrom = "0,0", posto = "-150,0",duration = 0.8,afrom=1,ato=0)]
@@ -341,7 +341,7 @@
 [StopSound(channel="bgs", fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
-神秘优雅的生物在摄影棚里穿梭，她经过满地的电线和种种精密器材，两条尾巴变换着动作，在人群中激起此起彼伏的声响......
+神秘优雅的生物在摄影棚里穿梭，她经过满地的电线和种种精密器材，两条尾巴变换着动作，在人群中激起此起彼伏的声响……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "left", name = "avg_4191_tippi_1#2$1",duration = 1,posfrom = "-100,0", posto = "-100,0")]
@@ -350,7 +350,7 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_1839_1#6$1")]
-[name="玛丽昂"]蒂比，别再画你的背景板了！还有那个道具组的实习生......
+[name="玛丽昂"]蒂比，别再画你的背景板了！还有那个道具组的实习生……
 [charslot]
 [charslot(slot = "left", name = "avg_4191_tippi_1#5$1",focus="l",posfrom = "-100,0", posto = "-100,0")]
 [charslot(slot = "right", name = "avg_npc_1831_1#1$1",focus="l",posfrom = "100,0", posto = "100,0")]
@@ -371,7 +371,7 @@
 [name="蒂比"]我能在喷绘街景的时候参考你的模样吗？
 [charslot(slot="m",name="avg_4198_christ_1#7$1",focus="m")]
 [playsound(key="$d_avg_MCcat_3")]
-[name="神秘优雅的生物"]喵......
+[name="神秘优雅的生物"]喵……
 [dialog]
 [charslot(slot = "left", name = "avg_4191_tippi_1#1$1",afrom=1,ato=0,duration=1)]
 [charslot(slot = "right", name = "avg_npc_1831_1#3$1",afrom=1,ato=0,duration=1)]
@@ -381,7 +381,7 @@
 [charslot(slot = "m",action="zoom", poszoom = "0.5,0.5", scale=1.2,duration = 2)]
 [focusout(duration=2, type="bg", from=0, to=1, block=false)]
 [backgroundTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=1.05, yScaleTo=1.05, duration=2, block=true)]
-莫伊拉情不自禁地弯下了腰，伸出了手，但对上那双幽蓝眸子的瞬间，她觉得自己的脑海一片空白......
+莫伊拉情不自禁地弯下了腰，伸出了手，但对上那双幽蓝眸子的瞬间，她觉得自己的脑海一片空白……
 [charslot(duration=0.5)]
 [stopmusic(fadetime=1)]
 下一个瞬间，对方消失在了摄影棚内。
@@ -390,14 +390,14 @@
 [backgroundTween(xScaleFrom=1.05, yScaleFrom=1.05, xScaleTo=1, yScaleTo=1, duration=0.5, block=true)]
 [charslot(slot = "left", name = "avg_4191_tippi_1#5$1",focus="l",posfrom = "-100,0", posto = "-100,0",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1831_1#3$1",focus="l",posfrom = "100,0", posto = "100,0",focus="r")]
-[name="莫伊拉"]......
+[name="莫伊拉"]……
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_crwddiscuss_outside", loop=true, channel="bgs",volume=0)]
 [SoundVolume(volume=0.4, channel="bgs",fadetime=2)]
 [charslot(slot="m",name="avg_npc_1835_1#1$1",duration=0.5)]
 [delay(time=1)]
-[name="斯蒂芬"]总算......
+[name="斯蒂芬"]总算……
 [charslot(slot="m",name="avg_npc_1839_1#1$1")]
 [name="玛丽昂"]岂有此理，你们就让它从自己眼前溜走了？
 [charslot(slot="m",name="avg_npc_1838_1#1$1")]
@@ -405,7 +405,7 @@
 [charslot(slot="m",name="avg_npc_1830_1#1$1")]
 [name="米兰妮"]玛丽昂小姐，得罪你的人是我，何必把怒气发泄在两个新人身上呢？
 [charslot(slot="m",name="avg_npc_1839_1#1$1")]
-[name="玛丽昂"]你......
+[name="玛丽昂"]你……
 [Dialog]
 [charslot]
 [StopSound(channel="bgs", fadetime=2)]
@@ -424,14 +424,14 @@
 [charslot(slot="m",name="avg_npc_1834_1#1$1")]
 [name="格蕾塔"]我没那么刻薄，斯蒂芬。更何况，刚刚那位小姐现身，意味着我们的拍摄会迎来一个重大惊喜。
 [charslot(slot="m",name="avg_npc_1835_1#7$1")]
-[name="斯蒂芬"]那位......小姐？
+[name="斯蒂芬"]那位……小姐？
 [name="斯蒂芬"]你清楚刚刚那个家伙的来历？
 [charslot(slot="m",name="avg_npc_1834_1#1$1")]
 [name="格蕾塔"]当然。
-[name="格蕾塔"]她是我请来的一位客人的同伴......她出现在这里，意味着那位客人终于做出了决定——
+[name="格蕾塔"]她是我请来的一位客人的同伴……她出现在这里，意味着那位客人终于做出了决定——
 [name="格蕾塔"]他将出演下一场的“信使”一角。
 [charslot(slot="m",name="avg_npc_1834_1#2$1")]
-[name="格蕾塔"]我说得没错吧......
+[name="格蕾塔"]我说得没错吧……
 [name="格蕾塔"]卢西恩？
 [Dialog]
 [charslot]
@@ -439,16 +439,16 @@
 [charslot(slot="m",name="avg_npc_1828_1#1$1",duration=1.5)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1828_1#2$1")]
-[name="卢西恩"]......如您所愿。
+[name="卢西恩"]……如您所愿。
 [name="卢西恩"]Miss.Christine是自由的，没有任何人能够干涉她的意愿与行动。
 [charslot(slot="m",name="avg_npc_1828_1#4$1")]
 [name="卢西恩"]所以，请允许我代为向各位致歉。
 [charslot(slot="m",name="avg_npc_1838_1#5$1")]
-[name="迈克尔"]等等，临时换演员合适吗？更何况是这么个来历不明的小白脸......
+[name="迈克尔"]等等，临时换演员合适吗？更何况是这么个来历不明的小白脸……
 [charslot(slot="m",name="avg_npc_1834_1#1$1")]
 [name="格蕾塔"]只是一个龙套角色而已，别那么紧张，英俊的迈克尔。
 [charslot(slot="m",name="avg_npc_1838_1#2$1")]
-[name="迈克尔"]......
+[name="迈克尔"]……
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
 [name="斯蒂芬"]格蕾塔之前已经跟我沟通过了。
 [charslot(slot="m",name="avg_npc_1838_1#2$1")]
@@ -464,7 +464,7 @@
 [charslot(slot="m",name="avg_npc_1828_1#11$1")]
 [name="卢西恩"]烂熟于心。
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
-[name="斯蒂芬"]那好......《杜邦夫人之死》，宅邸前厅，第四场，开始。
+[name="斯蒂芬"]那好……《杜邦夫人之死》，宅邸前厅，第四场，开始。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -495,7 +495,7 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1828_1#1$1")]
 [charslot(slot = "m",action="zoom", poszoom = "0.5,0.5", scale=1.07)]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [Dialog]
 [MusicVolume(volume=0, fadetime=2)]
 [charslot]
@@ -521,28 +521,28 @@
 [charslot(slot = "right", name = "avg_npc_1837_1#2$1",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "left", name = "avg_npc_1836_1#2$1",focus="l")]
-[name="谢莉"]呼......还好、还好赶上了......道尔顿来了......我找到他了！
+[name="谢莉"]呼……还好、还好赶上了……道尔顿来了……我找到他了！
 [charslot(slot = "right", name = "avg_npc_1837_1#2$1",focus="r")]
 [name="道尔顿"]（迷醉的眼神）
 [charslot(slot = "right", name = "avg_npc_1837_1#3$1",focus="r")]
 [name="道尔顿"]（畅快的酒嗝）
 [charslot(slot = "left", name = "avg_npc_1836_1#6$1",focus="l")]
 [name="谢莉"]我在候场区清点人数的时候就发现他不见了。
-[name="谢莉"]餐车、自助酒吧、外景地的休息区，所有有酒的地方都找过了......最后还是在路边的草丛里发现的他。
+[name="谢莉"]餐车、自助酒吧、外景地的休息区，所有有酒的地方都找过了……最后还是在路边的草丛里发现的他。
 [charslot(slot = "right", name = "avg_npc_1837_1#2$1",focus="r")]
-[name="道尔顿"]刀......我找到......刀了！
+[name="道尔顿"]刀……我找到……刀了！
 [charslot(slot = "left", name = "avg_npc_1836_1#1$1",focus="l")]
-[name="谢莉"]他说自己在找刀，信使杀死杜邦爵士的重要道具丢了，杜邦爵士“死”不成了......
+[name="谢莉"]他说自己在找刀，信使杀死杜邦爵士的重要道具丢了，杜邦爵士“死”不成了……
 [name="谢莉"]到底是谁让一个醉鬼去找道具刀？莫伊拉，你的组长呢？
 [charslot]
 [charslot(slot="m",name="avg_npc_1831_1#5$1")]
-[name="莫伊拉"]我、我不知道......
+[name="莫伊拉"]我、我不知道……
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
 [name="斯蒂芬"]算了吧，道具找回了就好。
 [name="斯蒂芬"]服装！快重新整理一下他的衣服！
 [name="斯蒂芬"]道尔顿你还记得自己下一场要演什么吗？
 [charslot(slot="m",name="avg_npc_1837_1#3$1")]
-[name="道尔顿"]当然......演尸体哈哈哈，我最熟了。
+[name="道尔顿"]当然……演尸体哈哈哈，我最熟了。
 [Dialog]
 [charslot(slot="m",name="avg_npc_1830_1#5$1")]
 [delay(time=1)]
@@ -557,10 +557,10 @@
 [name="道尔顿"]你、你知道什么？
 [charslot(slot="m",name="avg_npc_1830_1#5$1")]
 [name="米兰妮"]我一点都不好奇你到底经历了什么。只是，起码，在新人面前，保留那么一丝体面。
-[name="米兰妮"]......这也是蓝卡坞的规矩。
+[name="米兰妮"]……这也是蓝卡坞的规矩。
 [name="米兰妮"]今天和你对戏的，是一个第一次站在电影镜头前的新人。
 [charslot(slot="m",name="avg_npc_1837_1#1$1")]
-[name="道尔顿"]......
+[name="道尔顿"]……
 [name="道尔顿"]好好好。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -578,11 +578,11 @@
 [charslot(slot = "right", name = "avg_npc_1837_1#1$1",focus="r")]
 [name="道尔顿"]随便啦。
 [charslot(slot = "left", name = "avg_npc_1828_1#5$1",focus="l")]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [charslot(slot = "right", name = "avg_npc_1837_1#2$1",focus="r")]
 [name="道尔顿"]抱歉啊，好小伙，我不知道今天是你第一次拍戏。不过别担心，作为老前辈，哪怕喝醉了，带带你也是绰绰有余的。
-[name="道尔顿"]我跟你说，等下我因为你带来的消息太过令人绝望，所以准备杀你灭口......嗝......
-[name="道尔顿"]我们争夺两个来回，你夺过这把刀，向我挥来......喏，刀是很轻的可伸缩的假刀，血袋在我胸口的口袋里，压一下就破了。
+[name="道尔顿"]我跟你说，等下我因为你带来的消息太过令人绝望，所以准备杀你灭口……嗝……
+[name="道尔顿"]我们争夺两个来回，你夺过这把刀，向我挥来……喏，刀是很轻的可伸缩的假刀，血袋在我胸口的口袋里，压一下就破了。
 [name="道尔顿"]对了，千万别把注意力全放在“夺刀的时机”这种细节上，你会进不了角色的，明白了？
 [dialog]
 [stopmusic(fadetime=1.5)]
@@ -618,7 +618,7 @@
 [name="道尔顿"]不，我不能让你公开这封维多利亚皇室的公函。
 [name="道尔顿"]如果让别人知道所谓“杜邦家族的血脉”都是假的，无论是和哪个洛克菲勒，我妹妹的爱情都告吹了！
 [name="道尔顿"]那些财富，那些未来属于我的财富，我的下半生，就会像被扎破的气球一样，不复存在！
-[name="道尔顿"]孩子，转身离开，好吗？就当你从来没有来过......我给你钱，我会给你很多很多钱！
+[name="道尔顿"]孩子，转身离开，好吗？就当你从来没有来过……我给你钱，我会给你很多很多钱！
 [charslot(slot = "left", name = "avg_npc_1828_1#1$1",focus="l", poszoom = "0.5,0.5", scale=1.07,action="zoom")]
 [charslot(slot = "l",posfrom = "-20,-60", posto = "-20,-60",duration = 0)]
 [charslot(slot = "right",focus="l")]
@@ -650,7 +650,7 @@
 [charslot(slot = "r",action="zoom", poszoom = "0.5,0.5", scale=1.07,name = "avg_npc_1837_1#5$1")]
 [charslot(slot = "r",posfrom = "20,-60", posto = "20,-60",duration = 0)]
 [charslot(slot = "right",focus="r")]
-[name="道尔顿"]......
+[name="道尔顿"]……
 道尔顿看向年轻人的眼睛，他确信自己看到了痛苦和悲哀。
 他的酒意在一瞬间消失得无影无踪。
 他没有去记台词，台词已经迸出了齿关。
@@ -702,7 +702,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
 [name="卢西恩"]我说过，我只与真相有关，先生！
-[name="卢西恩"]维多利亚的贵族宅邸、高卢的战争遗址、拉特兰的大教堂、伊比利亚的海岸线......
+[name="卢西恩"]维多利亚的贵族宅邸、高卢的战争遗址、拉特兰的大教堂、伊比利亚的海岸线……
 [name="卢西恩"]我作为一个信使走遍泰拉的各个角落，传递缄默的死讯，也见证无数荒唐的悲剧——“杜邦家族”只是其中之一。
 [name="卢西恩"]我不为它们而来，但真相总会尽数展现在我眼前——
 [name="卢西恩"]这就是我可悲的宿命！
@@ -742,7 +742,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [image]
 [Delay(time=1)]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [Dialog]
 [Delay(time=1)]
 [StopSound(channel="c", fadetime=2)]
@@ -768,9 +768,9 @@
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
 [name="斯蒂芬"]听格蕾塔说，卢西恩以前供职于一个流浪剧团。
 [charslot(slot="m",name="avg_npc_1838_1#6$1")]
-[name="迈克尔"]舞台剧演员啊......
+[name="迈克尔"]舞台剧演员啊……
 [charslot(slot="m",name="avg_npc_1835_1#2$1")]
-[name="斯蒂芬"]说起来，倒是道尔顿给我的惊喜更大，我有好久没看过他这么有感染力的表演了......
+[name="斯蒂芬"]说起来，倒是道尔顿给我的惊喜更大，我有好久没看过他这么有感染力的表演了……
 [name="斯蒂芬"]道尔顿，起来吧，收工了！要是想喝酒，我晚上可以陪你喝，哈哈——
 [Dialog]
 [Delay(time=1.5)]
@@ -800,7 +800,7 @@
 [Dialog]
 [Delay(time=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="谢莉"]这是......真的血！
+[name="谢莉"]这是……真的血！
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

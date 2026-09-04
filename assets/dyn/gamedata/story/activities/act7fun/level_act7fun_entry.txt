@@ -64,7 +64,7 @@
 [Predicate(references="1")]
 [name="可露希尔"] 我本来设计的合体小车没时间完成被我放弃了啊！我冤枉！
 [dialog]
-[Decision(options="那到底是......", values="1")]
+[Decision(options="那到底是……", values="1")]
 [Predicate(references="1")]
 [name="？？？"]   从今天起，罗德岛就正式归我掌管了！
 [name="？？？"]   我才是罗德岛真正的老大！
@@ -90,7 +90,7 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2250_1#7$1",focus="r")]
 [charslot(slot = "r", name = "avg_npc_2251_1#5$1",focus="r")]
-[name="阿米娅？"]   博士，这样不会给博士惹麻烦吗？博士和博士都同样是博士，阿米娅希望博士能不置身于危险之中......
+[name="阿米娅？"]   博士，这样不会给博士惹麻烦吗？博士和博士都同样是博士，阿米娅希望博士能不置身于危险之中……
 [charslot(slot = "l", name = "avg_npc_2250_1#4$1",focus="l")]
 [name="博士？"]   阿米娅可真是好孩子，放心吧，不会有事的。
 [charslot]
@@ -99,7 +99,7 @@
 [charslot(slot = "m", name = "avg_npc_2253_1#4$1",focus="m")]
 [name="维什戴尔？"]   这么嗨的？
 [charslot(slot = "m", name = "avg_npc_2250_1#3$1",focus="m")]
-[name="博士？"]   那不至于，就让我来说说我的计划......
+[name="博士？"]   那不至于，就让我来说说我的计划……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=4, block=true)]

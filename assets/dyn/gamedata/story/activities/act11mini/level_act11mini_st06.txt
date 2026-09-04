@@ -24,11 +24,11 @@
 借着囚室外面的微光，他低声念着上面的话。
 [PlaySound(key="$d_avg_paper2")]
 [character(name="avg_npc_540_1#1$1")]
-[name="杰斯顿"] “请在监狱内安心蛰伏一段时间，切勿惹人关注，不要惹是生非......”
+[name="杰斯顿"] “请在监狱内安心蛰伏一段时间，切勿惹人关注，不要惹是生非……”
 [character(name="avg_npc_540_1#1$1")]
-[name="杰斯顿"] “您仍是沙滩伞公司的重要雇员，我们仍为您保留一切职位和待遇......”
+[name="杰斯顿"] “您仍是沙滩伞公司的重要雇员，我们仍为您保留一切职位和待遇……”
 [character(name="avg_npc_540_1#1$1")]
-[name="杰斯顿"] “只要您在监狱中表现良好，等到时机成熟，我们一定还您自由，并给予您加倍的补偿......”
+[name="杰斯顿"] “只要您在监狱中表现良好，等到时机成熟，我们一定还您自由，并给予您加倍的补偿……”
 [character(name="avg_npc_540_1#4$1")]
 [name="杰斯顿"] 哼。
 [character(name="avg_npc_540_1#10$1")]
@@ -46,7 +46,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [character(name="avg_npc_132")]
-[name="A区囚犯A"]*哥伦比亚俚语*，那么刺激的梦，居然被一泡尿给毁了......
+[name="A区囚犯A"]*哥伦比亚俚语*，那么刺激的梦，居然被一泡尿给毁了……
 [character(name="avg_npc_132")]
 [name="A区囚犯A"]哟，这不是杰斯顿吗，你又在熬夜写信了。
 [character(name="avg_npc_132")]
@@ -135,7 +135,7 @@
 [character(name="avg_npc_540_1#1$1")]
 [name="杰斯顿"] 如您所愿，狱警先生，毕竟此时此地，您才是掌握权力的人。
 [character(name="avg_npc_132")]
-[name="A区囚犯B"]......
+[name="A区囚犯B"]……
 [character(name="avg_npc_132")]
 [name="A区囚犯B"]呸，被人罚刷厕所，他还装起来了。
 [Dialog]
@@ -168,7 +168,7 @@
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=2)]
 [name="瑞克"]你不是撞到铁栅栏，是为我装病去的医务室吗？我都不知道怎么感谢你好了！
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]所以，我的病怎么样......？
+[name="瑞克"]所以，我的病怎么样……？
 [Character(name="avg_npc_540_1#10$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"] 那个医生难缠得要死，我花了一笔小钱才撬开他的嘴。
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
@@ -190,7 +190,7 @@
 [Character(name="avg_npc_540_1#4$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"] 不好意思，我不像你们这样粗俗，无法从这种低俗的暴力中得到什么快乐。
 [Character(name="avg_npc_540_1#4$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]杰斯顿，你还是去吧......
+[name="瑞克"]杰斯顿，你还是去吧……
 [character(name="avg_npc_132")]
 [name="A区囚犯C"]那边那个叫瑞克的，你才来几天？我告诉你，离这个人远点，他可不是什么善茬。
 [Character(name="avg_npc_540_1#4$1", name2="avg_npc_132",focus=2)]
@@ -226,7 +226,7 @@
 [dialog]
 [character]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="B区囚犯们"]哈哈哈哈哈哈......
+[name="B区囚犯们"]哈哈哈哈哈哈……
 [character(name="avg_npc_132")]
 [name="A区囚犯A"]（小声）杰斯顿，我听说你能和安东尼扳手腕，放倒这些人应该不在话下吧？
 [character(name="avg_npc_540_1#9$1")]
@@ -254,7 +254,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=0.6)]
 [musicvolume(volume=0.4, fadetime=1)]
-[name="杰斯顿"] ......
+[name="杰斯顿"] ……
 [character(name="avg_npc_132")]
 [name="A区囚犯B"]听见了吗，感染者渣滓们，杰斯顿说区区几个感染者，根本不够他打的！
 [stopmusic(fadetime=2)]
@@ -377,7 +377,7 @@
 [Dialog]
 [delay(time=0.51)]
 [Character(name="avg_npc_133")]
-[name="B区囚犯B"]*哥伦比亚俚语*，我感觉我骨折了......他就是块铁疙瘩，打他跟打钢板没区别！
+[name="B区囚犯B"]*哥伦比亚俚语*，我感觉我骨折了……他就是块铁疙瘩，打他跟打钢板没区别！
 [dialog]
 [character]
 [PlaySound(key="$rungeneral", volume=0.9)]
@@ -427,7 +427,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1)]
 [Character(name="avg_npc_132")]
-[name="A区囚犯A"]手腕生疼......
+[name="A区囚犯A"]手腕生疼……
 [character(name="avg_npc_540_1#1$1")]
 [name="杰斯顿"] 先生们，我没心情陪你们继续闹下去了。
 [character(name="avg_npc_540_1#1$1")]
@@ -435,7 +435,7 @@
 [character(name="avg_npc_540_1#5$1")]
 [name="杰斯顿"] 更何况，在斗殴中得到快乐，我真的不敢恭维这种品味。
 [character(name="avg_npc_540_1#1$1")]
-[name="杰斯顿"] 身为囚犯已经够可悲了，而缺乏最基本审美品味的囚犯......啧啧啧。
+[name="杰斯顿"] 身为囚犯已经够可悲了，而缺乏最基本审美品味的囚犯……啧啧啧。
 [Character(name="avg_npc_132", name2="avg_npc_133", focus=1)]
 [name="A区囚犯C"]*一连串哥伦比亚俚语*
 [Character(name="avg_npc_132", name2="avg_npc_133", focus=1)]
@@ -466,7 +466,7 @@
 [PlaySound(key="$sheildimpact", volume=0.8, delay=0.4, channel="slide2")]
 [Delay(time=1)]
 [Character(name="avg_npc_133", name2="avg_npc_133",focus=1)]
-[name="B区囚犯A"]......他不是A区的人请来帮场子的吗？他们自己打起来了？
+[name="B区囚犯A"]……他不是A区的人请来帮场子的吗？他们自己打起来了？
 [Character(name="avg_npc_133", name2="avg_npc_133",focus=2)]
 [name="B区囚犯B"]好像是。
 [Character(name="avg_npc_133", name2="avg_npc_133",focus=2)]
@@ -525,7 +525,7 @@
 [Character(name="avg_npc_134",name2="avg_npc_134",focus=2)]
 [name="狱警B"]说实话，我已经有点看腻了。
 [Character(name="avg_npc_134",name2="avg_npc_134",focus=2)]
-[name="狱警B"]这杰斯顿也真是硬得可以，别人连锯条都崩了好几根，他连道伤口都没有......
+[name="狱警B"]这杰斯顿也真是硬得可以，别人连锯条都崩了好几根，他连道伤口都没有……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -536,9 +536,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_132",name2="avg_npc_132")]
-[name="A区囚犯们"]呼......呼......
+[name="A区囚犯们"]呼……呼……
 [Character(name="avg_npc_133",name2="avg_npc_133")]
-[name="B区囚犯们"]哈......哈......
+[name="B区囚犯们"]哈……哈……
 [character(name="avg_npc_540_1#4$1")]
 [name="杰斯顿"] 虽然不是我的本意，不过从结果上看，你们似乎已经无力再战了？
 [character(name="avg_npc_540_1#5$1")]
@@ -574,7 +574,7 @@
 [Character(name="avg_npc_133")]
 [name="B区囚犯C"]我请你用你自己刷厕所的水洗个澡，你感觉如何啊？
 [character(name="avg_npc_540_1#7$1")]
-[name="杰斯顿"] ......
+[name="杰斯顿"] ……
 [Character(name="avg_npc_133")]
 [name="B区囚犯C"]你要干嘛？打我？来啊，你刚才不是还要我们冷静吗？
 [Dialog]
@@ -597,7 +597,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=0.6)]
 [musicvolume(volume=0.4, fadetime=1)]
-[name="杰斯顿"] ......我无意和你们这样的粗鄙之人过不去。
+[name="杰斯顿"] ……我无意和你们这样的粗鄙之人过不去。
 [Character(name="avg_npc_133")]
 [name="B区囚犯C"]软蛋！脓包！
 [character(name="avg_npc_540_1#10$1")]
@@ -609,7 +609,7 @@
 [character(fadetime=1.5)]
 [delay(time=2)]
 [Character(name="avg_npc_132",name2="avg_npc_132",focus=2)]
-[name="A区囚犯B"]我都有点佩服这个人了......
+[name="A区囚犯B"]我都有点佩服这个人了……
 [Character(name="avg_npc_132",name2="avg_npc_132",focus=1)]
 [name="A区囚犯A"]走走走，我们都要被你熏死了。
 [Character(name="avg_npc_133")]
@@ -651,7 +651,7 @@
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
 [name="瑞克"]杰斯顿？你怎么样，他们没伤到你——
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]呕......臭死了！
+[name="瑞克"]呕……臭死了！
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
 [name="瑞克"]他们对你做了什么？
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
@@ -661,11 +661,11 @@
 [Character(name="avg_npc_540_1#6$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]你有多余的囚服吗，借我一套。
 [Character(name="avg_npc_540_1#6$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]可我也只有一套换洗的......
+[name="瑞克"]可我也只有一套换洗的……
 [Character(name="avg_npc_540_1#9$1", name2="avg_npc_132",focus=1)]
-[name="杰斯顿"]......
+[name="杰斯顿"]……
 [Character(name="avg_npc_540_1#9$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]......杰斯顿？
+[name="瑞克"]……杰斯顿？
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]麻烦你回自己牢房等一会儿，我去擦个身子，洗洗衣服。
 [Dialog]
@@ -690,11 +690,11 @@
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
 [name="瑞克"]你穿的是湿衣服？
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]抱歉......我刚才不该那么吝啬，我把自己换洗的囚服给你带来了。
+[name="瑞克"]抱歉……我刚才不该那么吝啬，我把自己换洗的囚服给你带来了。
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
-[name="杰斯顿"]（这种天真的同情心......我已经等不及看这个蠢货读信之后的蠢脸了。）
+[name="杰斯顿"]（这种天真的同情心……我已经等不及看这个蠢货读信之后的蠢脸了。）
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
-[name="杰斯顿"]（他已经足够感激我了，接下来就是稍作引导，燃起他的仇恨......）
+[name="杰斯顿"]（他已经足够感激我了，接下来就是稍作引导，燃起他的仇恨……）
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]（真幸运啊，我短暂的入狱时光中还能有这么一个消遣。）
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=2)]
@@ -713,7 +713,7 @@
 [Character(name="avg_npc_540_1#2$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]医生亲口跟我说，再这样下去，你的预期寿命就不太乐观了。
 [Character(name="avg_npc_540_1#2$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]天啊，我的妻子，我七八岁的孩子，我害苦你们了，我真的是......
+[name="瑞克"]天啊，我的妻子，我七八岁的孩子，我害苦你们了，我真的是……
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]说到这个，医生不光给我看了你的检测报告，还把你妻子寄来的信给了我。
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
@@ -725,7 +725,7 @@
 [Character(name="avg_npc_540_1#4$1", name2="avg_npc_132",focus=2)]
 [name="瑞克"]谢天谢地，帕蒂给我来信，我就算死在这也值了！她说什么了？
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
-[name="杰斯顿"]这个嘛......你自己看吧。
+[name="杰斯顿"]这个嘛……你自己看吧。
 [Character(name="avg_npc_540_1#10$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]（但愿我上周熬夜模仿的笔迹和他老婆的足够相似。）
 [Character(name="avg_npc_540_1#10$1", name2="avg_npc_132",focus=2)]
@@ -745,13 +745,13 @@
 [Character(name="avg_npc_540_1#3$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]你——好好想想，是不是还有其他人叫这个名字？
 [Character(name="avg_npc_540_1#3$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]其他人，其他人......迪金森家的木匠，我入狱前刚死了老婆的那个？！
+[name="瑞克"]其他人，其他人……迪金森家的木匠，我入狱前刚死了老婆的那个？！
 [Character(name="avg_npc_540_1#3$1", name2="avg_npc_132",focus=2)]
 [name="瑞克"]我——我要当面找帕蒂对质！她怎么能因为这种事就抛下我，让我们的孩子管那个又老又瘸的木匠叫爸爸？！
 [Character(name="avg_npc_540_1#2$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]我很抱歉，瑞克。
 [Character(name="avg_npc_540_1#2$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]杰斯顿，我真是——我不知说什么好，如果不是你把这封信带给我......
+[name="瑞克"]杰斯顿，我真是——我不知说什么好，如果不是你把这封信带给我……
 [Character(name="avg_npc_540_1#4$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]瑞克，现在不是说谢谢的时候。
 [Character(name="avg_npc_540_1#4$1", name2="avg_npc_132",focus=2)]
@@ -763,9 +763,9 @@
 [Character(name="avg_npc_540_1#10$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]你进了监狱，成了她的负担，所以她宁可嫁给一个又老又瘸的家伙，也不愿继续留在深爱着她的你的身边。
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
-[name="杰斯顿"]如果你想复仇......
+[name="杰斯顿"]如果你想复仇……
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]复仇？不，我只是想当面问问帕蒂......
+[name="瑞克"]复仇？不，我只是想当面问问帕蒂……
 [Character(name="avg_npc_540_1#8$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]然后呢？你就打算这么放过她？就算你想放过她，难道你连自己的孩子都不要了？
 [Character(name="avg_npc_540_1#9$1", name2="avg_npc_132",focus=1)]
@@ -773,19 +773,19 @@
 [Character(name="avg_npc_540_1#7$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]帕蒂背叛了你，她还要教你的孩子学会如何背叛自己真正的父亲！难道你心中没有一丝愤怒吗？
 [Character(name="avg_npc_540_1#7$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]杰斯顿，求你别说了......
+[name="瑞克"]杰斯顿，求你别说了……
 [Character(name="avg_npc_540_1#10$1", name2="avg_npc_132",focus=1)]
-[name="杰斯顿"]（这个天真过头的傻瓜......看来我得说得更直白一点。）
+[name="杰斯顿"]（这个天真过头的傻瓜……看来我得说得更直白一点。）
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]（没问题的。就算告诉他我很快就能出去，这个蠢货也不会嫉妒，只会羡慕我。）
 [Character(name="avg_npc_540_1#9$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]现在我们只有一个选择，那就是把金钱和权力攥到自己的手里！
 [Character(name="avg_npc_540_1#9$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]金钱......和权力？这些东西怎么让我夺回自己的孩子？
+[name="瑞克"]金钱……和权力？这些东西怎么让我夺回自己的孩子？
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]有了金钱，你就可以交一笔保证金，通过假释离开这个鬼地方，从帕蒂手里把自己的孩子抢回来。
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]我要是有钱，一开始就不会被人陷害......
+[name="瑞克"]我要是有钱，一开始就不会被人陷害……
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]那就只剩权力了。
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
@@ -805,9 +805,9 @@
 [delay(time=1.5)]
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]真好啊......
+[name="瑞克"]真好啊……
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]杰斯顿，谢谢你，谢谢你愿意和我这样一个苦命人说话，帮我办事......
+[name="瑞克"]杰斯顿，谢谢你，谢谢你愿意和我这样一个苦命人说话，帮我办事……
 [Character(name="avg_npc_540_1#6$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]自信一点，瑞克。
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
@@ -815,11 +815,11 @@
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]不夸张地说，我属于前者，而你则是后者。
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=2)]
-[name="瑞克"]后者——有人愿意拉我一把......难道你愿意帮我出去？
+[name="瑞克"]后者——有人愿意拉我一把……难道你愿意帮我出去？
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_132",focus=1)]
 [name="杰斯顿"]没错。
 [Character(name="avg_npc_540_1#6$1", name2="avg_npc_132",focus=1)]
-[name="杰斯顿"]我打算把自己的一些关系介绍给你，让你也能和上面的那些人说上话，假以时日......
+[name="杰斯顿"]我打算把自己的一些关系介绍给你，让你也能和上面的那些人说上话，假以时日……
 [dialog]
 [stopmusic]
 [Character(name="avg_npc_540_1#6$1", name2="avg_npc_132",focus=-1)]
@@ -837,7 +837,7 @@
 [character(name="avg_npc_134")]
 [name="狱警A"]出去，有人找你。
 [Character(name="avg_npc_132")]
-[name="瑞克"]好的......
+[name="瑞克"]好的……
 [character(name="avg_npc_134")]
 [name="狱警A"]别磨磨蹭蹭的！你这个走了狗屎运的混蛋，你家里人筹到了足够的保证金，赶紧去办你的假释手续！
 [Character(name="avg_npc_132")]
@@ -845,7 +845,7 @@
 [Character(name="avg_npc_132")]
 [name="瑞克"]天啊——我——
 [Character(name="avg_npc_132")]
-[name="瑞克"]是谁......是谁给我筹的钱？我的父亲吗？
+[name="瑞克"]是谁……是谁给我筹的钱？我的父亲吗？
 [character(name="avg_npc_134")]
 [name="狱警A"]别问东问西的了，你到底还想不想出去！
 [Character(name="avg_npc_132")]
@@ -873,7 +873,7 @@
 [Character(name="avg_npc_540_1#8$1", name2="avg_npc_134",focus=2)]
 [name="狱警A"]别搞错了，这家伙真的只是运气好而已。他老婆好像是卖了房子还是怎么样，反正凑够了保证金，就这么回事。
 [Character(name="avg_npc_540_1#8$1", name2="avg_npc_134",focus=2)]
-[name="狱警A"]要说我们在其中起了什么作用......我们只是小小地拖延了一下办事手续而已。
+[name="狱警A"]要说我们在其中起了什么作用……我们只是小小地拖延了一下办事手续而已。
 [Character(name="avg_npc_540_1#11$1", name2="avg_npc_134",focus=1)]
 [name="杰斯顿"]拖延？
 [Character(name="avg_npc_540_1#11$1", name2="avg_npc_134",focus=2)]
@@ -917,7 +917,7 @@
 然后消退。
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_npc_540_1#9$1", name2="avg_npc_134",focus=1)]
-[name="杰斯顿"]......
+[name="杰斯顿"]……
 [Character(name="avg_npc_540_1#6$1", name2="avg_npc_134",focus=1)]
 [name="杰斯顿"]怎么会呢。
 [Character(name="avg_npc_540_1#6$1", name2="avg_npc_134",focus=1)]
@@ -929,11 +929,11 @@
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_134",focus=2)]
 [name="狱警A"]怎么，也有人给你交保证金？
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_134",focus=1)]
-[name="杰斯顿"]保证金......当然会有。
+[name="杰斯顿"]保证金……当然会有。
 [Character(name="avg_npc_540_1#5$1", name2="avg_npc_134",focus=2)]
 [name="狱警A"]那就更有趣了，既然有人给你交保证金，为什么你还没像那个瑞克一样走人呢？
 [Character(name="avg_npc_540_1#2$1", name2="avg_npc_134",focus=1)]
-[name="杰斯顿"]......
+[name="杰斯顿"]……
 [Character(name="avg_npc_540_1#4$1", name2="avg_npc_134",focus=1)]
 [name="杰斯顿"]浅薄。
 [Character(name="avg_npc_540_1#1$1", name2="avg_npc_134",focus=1)]
@@ -976,7 +976,7 @@
 [subtitle]
 [Subtitle(text="<i>我恳请您尽早让我离开这个地方，我害怕过久的牢狱生活会使我失去往日的锋利，不能再为您提供足够的价值。</i>", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
-[Subtitle(text="<i>您忠实的......</i>", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="<i>您忠实的……</i>", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [character(name="avg_npc_540_1#1$1",fadetime=1.5)]
@@ -989,9 +989,9 @@
 [Subtitle(text="“您最最谦卑的仆人，杰斯顿·威廉姆斯。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Character(name="avg_npc_540_1#10$1")]
-[name="杰斯顿"]这样......这样应该足够了。
+[name="杰斯顿"]这样……这样应该足够了。
 [Character(name="avg_npc_540_1#1$1")]
-[name="杰斯顿"]打起精神，杰斯顿，打起精神......你是沙滩伞公司连续五年的最佳员工，他们不会放弃你的。
+[name="杰斯顿"]打起精神，杰斯顿，打起精神……你是沙滩伞公司连续五年的最佳员工，他们不会放弃你的。
 [Character(name="avg_npc_540_1#1$1")]
 [name="杰斯顿"]他们不会放弃你的！
 [Character(name="avg_npc_540_1#1$1")]
@@ -1047,7 +1047,7 @@
 [dialog]
 [delay(time=1)]
 [Character(name="avg_npc_001", name2="avg_npc_006",focus=2)]
-[name="路人B"]......
+[name="路人B"]……
 [Character(name="avg_npc_001", name2="avg_npc_006",focus=2)]
 [name="路人B"]你这笑话讲得真不赖。
 [Character(name="avg_npc_001", name2="avg_npc_006",focus=1)]
@@ -1058,7 +1058,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="路人B"]哈哈哈哈！
 [Character(name="avg_npc_001", name2="avg_npc_006",focus=1)]
-[name="路人A"]哈哈哈......
+[name="路人A"]哈哈哈……
 [dialog]
 [character(fadetime=0.6)]
 [delay(time=0.7)]

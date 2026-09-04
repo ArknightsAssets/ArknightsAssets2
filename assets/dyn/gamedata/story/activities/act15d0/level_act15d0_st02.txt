@@ -7,9 +7,9 @@
 [ImageTween(xScaleFrom=1.7, yScaleFrom=1.7, xScaleTo=1.6, yScaleTo=1.6, duration=3, block=false)]
 [PlayMusic(intro="$nightoflongmen_intro", key="$nightoflongmen_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="缪尔赛思"]斐尔迪南......能量科主任。
-[name="赫默"]......是的。
-[name="缪尔赛思"]不过，比起这个，我更在意的是......
+[name="缪尔赛思"]斐尔迪南……能量科主任。
+[name="赫默"]……是的。
+[name="缪尔赛思"]不过，比起这个，我更在意的是……
 [dialog]
 [Delay(time=0.6)]
 [ImageTween(xTo=-320,yTo=200,duration=0.6, block=true)]
@@ -17,7 +17,7 @@
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="缪尔赛思"]为什么，塞雷娅，会，出现在，这里！
 [name="赫默"]这个问题正是我想问你的，为什么塞雷娅会出现在这里，缪尔赛思主任？
-[name="缪尔赛思"]......这个问题是什么意思？
+[name="缪尔赛思"]……这个问题是什么意思？
 [name="赫默"]塞雷娅是你在这次事件中的帮手，不是吗？确切地说，原本是你的帮手。
 [name="缪尔赛思"]哎呀，为什么你会这么想？
 [name="赫默"]在谈话开始时，我就一直在想你在这件事情中所处的位置。
@@ -85,8 +85,8 @@
 [name="赫默"]她原本是你的合作者，但她却违背了你们的协议。
 [name="缪尔赛思"]但是既然如此，你们的出现也应当是个意外，为什么她会将安东尼交给你？
 [name="缪尔赛思"]即使你们同样都和罗德岛有关系，但在这件事上如果真如你所说，她的立场应当完全与你对立，不是吗？
-[name="赫默"]......不。确实直到刚才，我也一直没有想明白，卡夫卡不可能是她的对手，理论上她应当才是最后的胜利者。
-[name="赫默"]而我们......并没有什么联系，她实在没有理由将安东尼交给我。
+[name="赫默"]……不。确实直到刚才，我也一直没有想明白，卡夫卡不可能是她的对手，理论上她应当才是最后的胜利者。
+[name="赫默"]而我们……并没有什么联系，她实在没有理由将安东尼交给我。
 [name="赫默"]但是现在我明白了。
 [dialog]
 [Delay(time=1)]
@@ -97,12 +97,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="char_108_silent_1#3", name2="char_249_muesys_1#6",focus=2)]
-[name="缪尔赛思"]......啊哈，原来如此，是为了骗过我吗。
+[name="缪尔赛思"]……啊哈，原来如此，是为了骗过我吗。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=1)]
 [name="赫默"]没错。
 [name="赫默"]接下来只是我的猜测。
 [Character(name="char_108_silent_1#3", name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]对她来说，在掌握......不，我不是很想用这个词......
+[name="赫默"]对她来说，在掌握……不，我不是很想用这个词……
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=1)]
 [name="赫默"]还是营救吧，在营救完安东尼后，她可以说是最后的赢家。
 [name="赫默"]对她来说，安东尼最好的去处，并不是来到你的手上，因为那会助长你的势力，所以她会做的事应该是将安东尼截下，由她自己掌控。
@@ -111,20 +111,20 @@
 [name="缪尔赛思"]所以她利用了在整个事件中直到最后才登场这一点，将自己完全地从这件事情中从台面上隐去。
 [name="缪尔赛思"]虽然我觉得她不会怕我和海德兄弟，不过，好吧，多一事不如少一事，是我我也会这么选。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=2)]
-[name="缪尔赛思"]而且，她在哥伦比亚应该确实还有事......算了，这和这件事应该无关。
+[name="缪尔赛思"]而且，她在哥伦比亚应该确实还有事……算了，这和这件事应该无关。
 [Character(name="char_108_silent_1#3", name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]她......算了，总之，我们的出现对她来说应当也是个意外，恐怕是她从卡夫卡那里大致了解了我们这边的情况后做出的判断吧。
+[name="赫默"]她……算了，总之，我们的出现对她来说应当也是个意外，恐怕是她从卡夫卡那里大致了解了我们这边的情况后做出的判断吧。
 [Dialog]
 [Character]
 [Delay(time=1)]
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#6",focus=2)]
-[name="缪尔赛思"]......真是漂亮的推理，赫默小姐。
+[name="缪尔赛思"]……真是漂亮的推理，赫默小姐。
 [name="缪尔赛思"]你猜的一点都不错，正是我告诉塞雷娅这件事的。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=2)]
 [name="缪尔赛思"]杰斯顿在那之后应该是被发现并不是真正的狱卒而被收监了，导致我这边也没有收到有关他的情报。
 [name="缪尔赛思"]我确实被塞雷娅摆了一道。唉，虽然我一开始就觉得塞雷娅不会乖乖把人交给我就是了。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......那你为什么还要找她帮忙？
+[name="赫默"]……那你为什么还要找她帮忙？
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#4",focus=2)]
 [name="缪尔赛思"]那当然是因为——
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=2)]
@@ -135,7 +135,7 @@
 [name="缪尔赛思"]我虽然是生态科主任，不过其实是很弱小的哦。
 [name="缪尔赛思"]你看，我现在不仅人被她抢走了，还要惨兮兮地想办法看能不能把人给要回来，应该没有别的主任像我一样了吧。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......所以，你来找我果然是想要我交出安东尼吗。
+[name="赫默"]……所以，你来找我果然是想要我交出安东尼吗。
 [stopmusic(fadetime=1)]
 [Dialog]
 [Delay(time=1)]
@@ -148,13 +148,13 @@
 [name="缪尔赛思"]放心，虽然我一开始确实是抱着这个想法，不过现在，我稍微改变了主意。
 [name="缪尔赛思"]首先，如果我没猜错的话，罗德岛和这次事件没有任何关联，跟你来的人，只是受你雇佣护卫你来到哥伦比亚采购一些器材，没错吧？
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#1",focus=1)]
-[name="赫默"]......没错，这是我的个人行为，我......欺骗了他们。
+[name="赫默"]……没错，这是我的个人行为，我……欺骗了他们。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#6",focus=2)]
 [name="缪尔赛思"]你确实不擅长说谎呢，赫默小姐。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#5",focus=2)]
 [name="缪尔赛思"]总之，我大概明白了。
 [name="缪尔赛思"]你的目的，应当也是让安东尼成为罗德岛的一员，或者至少被这家公司保护，这是你能够想到的最好的方法。
-[name="缪尔赛思"]而塞雷娅虽然想要截走安东尼这条线索，但是对她来说，且不说安东尼愿不愿意配合她的臭脾气......
+[name="缪尔赛思"]而塞雷娅虽然想要截走安东尼这条线索，但是对她来说，且不说安东尼愿不愿意配合她的臭脾气……
 [name="缪尔赛思"]即使安东尼愿意，对塞雷娅来说，他恐怕也只是一个麻烦。
 [name="缪尔赛思"]所以她选择让安东尼跟着你们加入罗德岛，这确实是一个不错的选择。
 [name="缪尔赛思"]倒不如说，对她来说，恐怕安东尼只要能够完成越狱，并且我和斐尔迪南没有如意对她来说已经足够了。
@@ -172,12 +172,12 @@
 [name="缪尔赛思"]虽然我也不清楚塞雷娅和罗德岛究竟建立了怎样的合作关系，但我多少了解过这家公司。
 [name="缪尔赛思"]我想如果我是那个罗德岛的首领，我不会介意接收安东尼。
 [Character(name="char_249_muesys_1#5", name2="char_242_mayer#1",focus=2)]
-[name="梅尔"]诶，我都要被绕晕了......
+[name="梅尔"]诶，我都要被绕晕了……
 [Character(name="char_249_muesys_1#1", name2="char_242_mayer#1", focus=1)]
 [name="缪尔赛思"]简单来说呢，就是塞雷娅从我手上抢走了原本我希望她交给我的东西。
 [name="缪尔赛思"]但她也没有就此据为己有，而是把它卖给了一家戒备森严的商店。
 [Character(name="char_249_muesys_1#1", name2="char_242_mayer#4", focus=2)]
-[name="梅尔"]啊，这样我就听懂了。不过......所以呢？
+[name="梅尔"]啊，这样我就听懂了。不过……所以呢？
 [Character(name="char_108_silent_1#4")]
 [name="赫默"]所以你希望目前在那家商店工作的我，能够和商店的主人交涉，将那样东西卖给你？
 [Character(name="char_249_muesys_1#1")]
@@ -192,9 +192,9 @@
 [Character(name="char_249_muesys_1#5")]
 [name="缪尔赛思"]甚至是一个挽回“炎魔”事件的机会。
 [Character(name="char_108_silent_1#4")]
-[name="赫默"]......
+[name="赫默"]……
 [Character(name="char_242_mayer#1")]
-[name="梅尔"]......诶，听起来怎么感觉像是在做坏事一样。
+[name="梅尔"]……诶，听起来怎么感觉像是在做坏事一样。
 [Character(name="char_249_muesys_1#5")]
 [name="缪尔赛思"]不要误会，梅尔小姐，这是交易。
 [Character(name="char_249_muesys_1#7")]
@@ -214,8 +214,8 @@
 [Character(name="char_108_silent_1#3",name2="char_242_mayer#1",focus=2)]
 [name="梅尔"]赫默，怎么办？
 [Character(name="char_108_silent_1#3")]
-[name="赫默"]......
-[name="赫默"]我......
+[name="赫默"]……
+[name="赫默"]我……
 [Dialog]
 [Delay(time=1)]
 [musicvolume(volume=0, fadetime=0.2)]
@@ -238,7 +238,7 @@
 [name="缪尔赛思"]难道不是吗？
 [Dialog]
 [Character(name="char_108_silent_1#4")]
-[name="赫默"]......我并不打算使用“这条线索”，缪尔赛思主任。
+[name="赫默"]……我并不打算使用“这条线索”，缪尔赛思主任。
 [Character(name="char_108_silent_1#3")]
 [name="赫默"]如果塞雷娅最后没有出场，而安东尼依然通过某种方式获救，并且与我和梅尔汇合，我或许也会建议他加入罗德岛。
 [name="赫默"]但这并不是因为我想要通过罗德岛保管他“这条线索”。
@@ -256,7 +256,7 @@
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#4",focus=2)]
 [name="缪尔赛思"]看来，交涉决裂了呢。
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#4",focus=1)]
-[name="赫默"]......很遗憾。
+[name="赫默"]……很遗憾。
 [name="赫默"]如果没有别的事，那么我们先走了。
 [dialog]
 [Character(name="char_108_silent_1#4", name2="char_249_muesys_1#4")]
@@ -277,14 +277,14 @@
 [Character]
 [Delay(time=1.5)]
 [musicvolume(volume=0.2, fadetime=0.5)]
-[name="安东尼"]......我在。
+[name="安东尼"]……我在。
 [Delay(time=0.51)]
 [Character(name="char_264_Mountain_1#7",fadetime=1.5)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Dialog]
 [Delay(time=4)]
 [Character(name="char_249_muesys_1#3")]
-[name="缪尔赛思"]你......你不是已经离开哥伦比亚了吗？！
+[name="缪尔赛思"]你……你不是已经离开哥伦比亚了吗？！
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="char_108_silent_1#4", name2="char_264_Mountain_1#7",focus=1)]
 [name="赫默"]离开的只是个幌子，安东尼还留在我们住的旅馆里，而我刚才把他叫了过来以防万一。
@@ -294,7 +294,7 @@
 [dialog]
 [Delay(time=1)]
 [Character(name="char_249_muesys_1#5")]
-[name="缪尔赛思"]......要喝一杯吗，安东尼先生？
+[name="缪尔赛思"]……要喝一杯吗，安东尼先生？
 [Character(name="char_264_Mountain_1#11")]
 [name="安东尼"]如果换一个场合，我会十分乐意与你一起喝一杯，缪尔赛思小姐。
 [Character(name="char_249_muesys_1#1")]
@@ -318,8 +318,8 @@
 [name="赫默"]站在你的立场上，你做了非常正确的事，我也认为你对我付出了足够多的善意。
 [name="赫默"]但是，很遗憾，我无法认同你的想法，仅此而已。
 [Character(name="char_249_muesys_1#4")]
-[name="缪尔赛思"]......
-[name="缪尔赛思"]总觉得好像不小心给自己树立了一个新的对手......
+[name="缪尔赛思"]……
+[name="缪尔赛思"]总觉得好像不小心给自己树立了一个新的对手……
 [Character(name="char_108_silent_1#4")]
 [name="赫默"]你刚才也提到了制衡能量科，莱茵生命内部究竟发生了什么？
 [Character(name="char_249_muesys_1#1")]
@@ -327,7 +327,7 @@
 [Character(name="char_249_muesys_1#5")]
 [name="缪尔赛思"]不过如果你不打算就此收手的话，总有一天你也会知道的吧。
 [Character(name="char_108_silent_1#3")]
-[name="赫默"]我......
+[name="赫默"]我……
 [dialog]
 [Delay(time=0.7)]
 [Character(name="char_249_muesys_1#1")]
@@ -347,12 +347,12 @@
 [name="缪尔赛思"]在西蒙公司与海德兄弟的竞争中，如果说西蒙公司就是纯粹的被害者，那是可笑的。
 [name="缪尔赛思"]双方都早有解决对方的打算，只是老史密斯棋差一着。
 [Character(name="char_108_silent_1#4")]
-[name="赫默"]......
+[name="赫默"]……
 [Character(name="char_249_muesys_1#7")]
 [name="缪尔赛思"]也就是说，如果老史密斯抢在海德兄弟前动手，那么今天全家蹲在堡垒山城里的就不是西蒙一家，而是海德兄弟一家。
 [name="缪尔赛思"]从这个角度来说，安东尼就真的只是一个受害者吗？
 [Character(name="char_108_silent_1#3")]
-[name="赫默"]但是......
+[name="赫默"]但是……
 [Character(name="char_249_muesys_1#5")]
 [name="缪尔赛思"]你觉得呢，安东尼？
 [Character(name="char_264_Mountain_1#7")]
@@ -367,7 +367,7 @@
 [name="缪尔赛思"]如果你想做正确的事，首先你要知道什么是正确的。其次，你要知道，并不是做正确的事就不需要付出代价。
 [Delay(time=1)]
 [Character(name="char_108_silent_1#4")]
-[name="赫默"]......感谢你的忠告。
+[name="赫默"]……感谢你的忠告。
 [Character(name="char_249_muesys_1#1")]
 [name="缪尔赛思"]那么，再会。
 [Dialog]
@@ -380,13 +380,13 @@
 [Character]
 [name="缪尔赛思"]对了对了，安东尼的事情我会就此收手，不会再做什么多余的事。
 [Character(name="char_108_silent_1#4")]
-[name="赫默"]居然能通过水说话......
+[name="赫默"]居然能通过水说话……
 [Character]
 [name="缪尔赛思"]说不定还会帮你们掩盖一些事情哦？感谢我吧。
 [name="缪尔赛思"]既然我没有被当成坏人，就让我们下次有机会再聊吧。
 [name="缪尔赛思"]安东尼先生，也祝你在罗德岛能够找到新的生活~
 [Character(name="char_264_Mountain_1#11")]
-[name="安东尼"]......感谢你的祝福，小姐。
+[name="安东尼"]……感谢你的祝福，小姐。
 [dialog]
 [Character]
 [Delay(time=2)]
@@ -410,7 +410,7 @@
 [Character(name="char_108_silent_1#5",name2="char_242_mayer#2",focus=2)]
 [name="梅尔"]诶，怎么了？
 [Character(name="char_108_silent_1#5",name2="char_242_mayer#2",focus=1)]
-[name="赫默"]我的双腿有些发软......
+[name="赫默"]我的双腿有些发软……
 [Character(name="char_108_silent_1#5",name2="char_242_mayer#2",focus=2)]
 [name="梅尔"]好哦。
 [dialog]
@@ -421,7 +421,7 @@
 [Delay(time=1.2)]
 [Character(name="char_108_silent_1#5",name2="char_242_mayer#2",focus=1)]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="赫默"]嘶......呼......
+[name="赫默"]嘶……呼……
 [Delay(time=1)]
 [name="赫默"]不愧是主任级别的人物，我差一点就要被她压得说不出话来了。
 [Character(name="char_264_Mountain_1#11",name2="char_108_silent_1#5",focus=1)]

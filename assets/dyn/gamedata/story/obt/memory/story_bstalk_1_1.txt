@@ -10,11 +10,11 @@
 [Character(name="avg_npc_534_1#1$1",name2="avg_npc_534_1#1$1",fadetime=0.5)]
 [Delay(time=1)]
 [Character(name="avg_npc_534_1#1$1",name2="avg_npc_534_1#1$1",focus=1)]
-[name="参赛者A"]哥，你说我要不就干脆回拓荒队算了......
+[name="参赛者A"]哥，你说我要不就干脆回拓荒队算了……
 [name="参赛者A"]咱们豢养的羽兽确实会帮助咱们捕捕猎之类的，但和大城市里面那些人喜好完全不符吧？
 [Character(name="avg_npc_534_1#1$1",name2="avg_npc_534_1#1$1",focus=2)]
 [name="参赛者B"]别这么说！
-[name="参赛者B"]你没试试怎么就知道肯定不行呢？万一他们就好这一口呢？你看那边那个姑娘......她都能带着一群磐蟹来参加，你慌什么！
+[name="参赛者B"]你没试试怎么就知道肯定不行呢？万一他们就好这一口呢？你看那边那个姑娘……她都能带着一群磐蟹来参加，你慌什么！
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_walk_n", volume=0.7)]
@@ -36,7 +36,7 @@
 [name="参赛者B"]哎哎哎我错啦——抱歉抱歉，只是想安慰安慰他，没想到被你听到了，对不住。
 [name="参赛者B"]但说真的，姑娘，用凶猛羽兽做噱头，确实能开辟一些全新的市场吧？
 [Character(name="avg_452_bstalk_1#1$1",name2="avg_npc_605_1#1$1",focus=1)]
-[name="豆苗"]嗯......我也不是特别清楚呢。
+[name="豆苗"]嗯……我也不是特别清楚呢。
 [name="豆苗"]但就和你说的一样，我都能带着磐蟹来参加，羽兽算是更常见的宠物了，说不定就能成功哦？
 [name="豆苗"]哼哼，而且我刚刚突然有了一个主意，你们要不要听听看？
 [name="豆苗"]你们要是想让节目出彩的话，跟我合作怎么样？我借给你们几只最强壮的小磐蟹，它们可以配合你们的羽兽，表演一出精彩的搏斗大戏！
@@ -146,8 +146,8 @@
 [Delay(time=2)]
 [Character(name="avg_npc_020",fadetime=1)]
 [Delay(time=1)]
-[name="主办方人员"]......
-[name="主办方人员"]嗯哼......
+[name="主办方人员"]……
+[name="主办方人员"]嗯哼……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(fadetime=0)]
@@ -178,13 +178,13 @@
 [Character(name="avg_452_bstalk_1#1$1",name2="avg_npc_020",focus=1)]
 [PlaySound(key="$d_avg_paper1")]
 [Delay(time=2)]
-[name="豆苗"]嗯嗯......
+[name="豆苗"]嗯嗯……
 [Character(name="avg_452_bstalk_1#1$1",name2="avg_npc_020",focus=2)]
 [name="主办方人员"]您提交的简历我们已经看了，在来之前，豆苗小姐不是有试图发售“豆苗牌精致宠物粮”吗？
 [Character(name="avg_452_bstalk_1#1$1",name2="avg_npc_020",focus=1)]
 [name="豆苗"]嗯，主办方觉得我做得如何？是不是还不错？
 [Character(name="avg_452_bstalk_1#1$1",name2="avg_npc_020",focus=2)]
-[name="主办方人员"]嗯嗯，虽然取得了一定的成绩......
+[name="主办方人员"]嗯嗯，虽然取得了一定的成绩……
 [name="主办方人员"]但还是太不够了！
 [Character(name="avg_452_bstalk_1#3$1",name2="avg_npc_020",focus=1)]
 [name="豆苗"]什么？！
@@ -201,7 +201,7 @@
 [name="主办方人员"]所以哪怕只是最细微的语调也不能够太过平淡，要吸引人，要让人燃起购买欲望！！
 [Character(name="avg_452_bstalk_1#3$1",name2="avg_npc_020",focus=1)]
 [name="豆苗"]哦哦——
-[name="豆苗"]......原来竟然是这样的吗？
+[name="豆苗"]……原来竟然是这样的吗？
 [Character(name="avg_452_bstalk_1#3$1",name2="avg_npc_020",focus=2)]
 [name="主办方人员"]咳咳！
 [name="主办方人员"]豆苗小姐，我们的审核分为很多种，有通过比赛晋级，有我们私下挖掘联络。您很幸运地属于第二种——可以直接登上表演舞台。
@@ -210,7 +210,7 @@
 [Character(name="avg_452_bstalk_1#4$1",name2="avg_npc_020",focus=1)]
 [name="豆苗"]嗯，你的提议很打动我呢。
 [Character(name="avg_452_bstalk_1#4$1",name2="avg_npc_020",focus=2)]
-[name="主办方人员"]那么豆苗小姐，我给您详细地确认一下合同的具体内容，比如说......
+[name="主办方人员"]那么豆苗小姐，我给您详细地确认一下合同的具体内容，比如说……
 [Dialog]
 [PlaySound(key="$d_avg_paper1")]
 [Delay(time=1)]
@@ -245,11 +245,11 @@
 [Delay(time=1)]
 [name="主办方"]你干什么去了，弄得身上这么臭？
 [Character(name="avg_npc_020")]
-[name="主办方人员"]噫......脏死了！
+[name="主办方人员"]噫……脏死了！
 [name="主办方人员"]还用说吗？那群刚抓来的磐蟹多多少少有些不听话了。
 [name="主办方人员"]最倔的几个已经被处理掉了，嘁，弄到身上了。现在剩下的好歹能听人的指令做事——我可必须要保证在演出结束后提供足够多的货源。
 [name="主办方人员"]至于那个小姑娘自己带来的，她看得太紧了，不过真的少了几个，我想她也看不出来什么。
-[name="主办方人员"]......不说了，我先去收拾一下自己，待会儿还要去找豆苗，好好夸夸她的小磐蟹呢。
+[name="主办方人员"]……不说了，我先去收拾一下自己，待会儿还要去找豆苗，好好夸夸她的小磐蟹呢。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(fadetime=0)]
@@ -270,14 +270,14 @@
 [Character(name="avg_452_bstalk_1#3$1",name2="avg_npc_605_1#1$1",focus=2)]
 [name="大力士"]（把钳子放在脸边横着比划）
 [Character(name="avg_452_bstalk_1#3$1",name2="avg_npc_605_1#1$1",focus=1)]
-[name="豆苗"]......什么？
+[name="豆苗"]……什么？
 [Character(name="avg_452_bstalk_1#2$1",name2="avg_npc_605_1#1$1",focus=1)]
-[name="豆苗"]你是说......你闻到了陌生同类的味道，但是是已经死去的同类？
+[name="豆苗"]你是说……你闻到了陌生同类的味道，但是是已经死去的同类？
 [Character(name="avg_452_bstalk_1#2$1",name2="avg_npc_605_1#1$1",focus=2)]
 [name="大力士"]（指向厂房的方向）
 [Character(name="avg_452_bstalk_1#5$1",name2="avg_npc_605_1#1$1",focus=1)]
 [name="豆苗"]就在厂房附近？
-[name="豆苗"]厂房后面确实有一个小房子，但那个不是仓库吗？之前路过几次，门上有锁，里面好像是箱子一类的东西......
+[name="豆苗"]厂房后面确实有一个小房子，但那个不是仓库吗？之前路过几次，门上有锁，里面好像是箱子一类的东西……
 [Character(name="avg_452_bstalk_1#5$1",name2="avg_npc_605_1#1$1",focus=2)]
 [name="大力士"]（用钳子指向自己）
 [Character(name="avg_452_bstalk_1#3$1",name2="avg_npc_605_1#1$1",focus=1)]
@@ -292,7 +292,7 @@
 [Character(name="avg_452_bstalk_1#5$1",name2="avg_npc_605_1#1$1",fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_452_bstalk_1#5$1",name2="avg_npc_605_1#1$1",focus=1)]
-[name="豆苗"]我明白了......我以为我好好地看住你们就不会出什么事，没想到他们居然去荒地里抓野生磐蟹开始训练。
+[name="豆苗"]我明白了……我以为我好好地看住你们就不会出什么事，没想到他们居然去荒地里抓野生磐蟹开始训练。
 [name="豆苗"]他们居然还杀掉了不听他们话的磐蟹！
 [name="豆苗"]大力士，我们一定要把它们救出来！
 [Dialog]
@@ -308,7 +308,7 @@
 [characteraction(name="right", type="move", xpos=-200, fadetime=1, block=false)]
 [Character(name="avg_452_bstalk_1#3$1",name2="char_empty",fadetime=0.5,focus=1)]
 [Delay(time=1)]
-[name="豆苗"]......啊，嗯，请问有什么事吗？
+[name="豆苗"]……啊，嗯，请问有什么事吗？
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="avg_452_bstalk_1#3$1",name2="avg_npc_020",fadetime=0.5)]
@@ -455,7 +455,7 @@
 [name="扭扭"]（更多的求助）
 [Character]
 [name="野生磐蟹"]！（原来隔壁树洞里走丢的孩子在那里！）
-[name="野生磐蟹"]咔。（等等......你看起来有些眼熟。）
+[name="野生磐蟹"]咔。（等等……你看起来有些眼熟。）
 [name="野生磐蟹"]咔咔？（你是不是之前住石头缝里大花家的儿子？）
 [Dialog]
 [Character(name="avg_npc_605_1#1$1")]
@@ -481,7 +481,7 @@
 [Character(name="avg_npc_605_1#1$1")]
 [name="豆豆"]（挥舞钳子）
 [Character(name="avg_452_bstalk_1#5$1")]
-[name="豆苗"]呼......那，我开门了！
+[name="豆苗"]呼……那，我开门了！
 [Dialog]
 [playsound(key="$d_gen_dooropen")]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -526,11 +526,11 @@
 但在此时，一件豆苗意料之外的事情发生了。
 大力士和扭扭没有停下，它们直直地爬上了舞台的最高层，并迎着风立起了自己的身子。
 [Character(name="avg_npc_020")]
-[name="主办方人员"]......喂？那是什么情况！磐蟹怎么跑到那边去了？
+[name="主办方人员"]……喂？那是什么情况！磐蟹怎么跑到那边去了？
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="主办方人员"]豆苗？管好你的磐蟹！
 [Character(name="avg_452_bstalk_1#3$1")]
-[name="豆苗"]嗯......嗯！
+[name="豆苗"]嗯……嗯！
 [Character]
 豆苗紧张地打出呼哨，询问磐蟹们的举动。
 大力士和扭扭转过了身子，面向舞台背后的荒地。
@@ -591,11 +591,11 @@
 [name="参赛者B"]呃呃，别、别钳我的脚——
 [Character(name="avg_452_bstalk_1#4$1")]
 [name="豆苗"]各位，不用害怕，小磐蟹们是来帮我们的！它们很温驯，不会伤人的！
-[name="豆苗"]呃，虽然野生的我不是很确定......
+[name="豆苗"]呃，虽然野生的我不是很确定……
 [Character]
 [name="数量增多的浑水摸鳞磐蟹"]（专心地吃高级饵食）
 [Character(name="avg_452_bstalk_1#1$1")]
-[name="豆苗"]......不管了，先跑，先跑——！
+[name="豆苗"]……不管了，先跑，先跑——！
 [name="豆苗"]我们逃出去再说——
 [Dialog]
 [characteraction(name="middle", type="move", xpos=200, fadetime=1.5,block=false)]
@@ -638,7 +638,7 @@
 [characteraction(name="left", type="move", xpos=-150, fadetime=0, block=false)]
 [characteraction(name="left", type="move", xpos=150, fadetime=1, block=false)]
 [Delay(time=1)]
-[name="豆苗"]小家伙们，呼......呼......有没有什么事？
+[name="豆苗"]小家伙们，呼……呼……有没有什么事？
 [name="豆苗"]有没有受伤？舞台倒下来的时候，有没有压到哪里？
 [Character(fadetime=0)]
 [Dialog]
@@ -652,11 +652,11 @@
 [PlaySound(key="$d_avg_pawfootstep_3")]
 [name="野生磐蟹"]（逐渐簇拥在豆苗身边）
 [Character(name="avg_452_bstalk_1#3$1")]
-[name="豆苗"]你们......是想跟着我吗？
+[name="豆苗"]你们……是想跟着我吗？
 [Character(name="avg_452_bstalk_1#3$1",focus=3)]
 [name="野生磐蟹"]（晃晃钳子）
 [Character(name="avg_452_bstalk_1#1$1")]
-[name="豆苗"]那......我工作的地方在罗德岛，我们一起去吧？
+[name="豆苗"]那……我工作的地方在罗德岛，我们一起去吧？
 [Character(name="avg_452_bstalk_1#4$1")]
 [name="豆苗"]在路上，我给你们讲讲我们的日常吧？
 [Character(fadetime=0)]

@@ -52,13 +52,13 @@
 [charslot(slot="r", name = "avg_npc_2042_1#8$1",focus="r",isblock=true)]
 [PlaySound(key="$d_avg_paper1", volume=1)]
 [delay(time=1.3)]
-[name="古斯塔夫"]一家新兴科技公司为了留在园区，紧急解决了检修时发现的工程缺陷......有什么问题？
+[name="古斯塔夫"]一家新兴科技公司为了留在园区，紧急解决了检修时发现的工程缺陷……有什么问题？
 [charslot(slot = "l", name = "avg_npc_2039_1#7$1",focus="l")]
 [name="斯凯"]“幸运瘤兽”根本没有通过工程复检，按规定在今天之内必须撤出园区。
 [charslot(slot = "l", name = "avg_npc_2039_1#3$1",focus="l")]
 [name="斯凯"]但就在刚才，我见到了他们的经理，发现困扰了他们数月之久的供能问题，已经被完全解决了。
 [charslot(slot="r", name = "avg_npc_2042_1#1$1",focus="r")]
-[name="古斯塔夫"]展会在即，死限、科学、奇迹......“薯片的经典口味”而已。
+[name="古斯塔夫"]展会在即，死限、科学、奇迹……“薯片的经典口味”而已。
 [charslot(slot = "l", name = "avg_npc_2039_1#7$1",focus="l")]
 [name="斯凯"]不，您看这一页——
 [charslot(slot = "l", name = "avg_npc_2039_1#7$1",focus="l")]
@@ -76,7 +76,7 @@
 [charslot(slot = "l", name = "avg_npc_2039_1#3$1",focus="l")]
 [name="斯凯"]普通的执行专员怎么可能让企业躲过莱茵的定期检查和不定期抽检，除非有人能操纵工程部的检修顺序。
 [charslot(slot = "l", name = "avg_npc_2039_1#7$1",focus="l")]
-[name="斯凯"]巧的是，娜斯提主任正好跟一位长官达成了协议......
+[name="斯凯"]巧的是，娜斯提主任正好跟一位长官达成了协议……
 [charslot(slot="r", name = "avg_npc_2042_1#1$1",focus="r")]
 [name="古斯塔夫"]高登·谭农。
 [charslot(slot = "l", name = "avg_npc_2039_1#7$1",focus="l")]
@@ -95,7 +95,7 @@
 [charslot(slot="r", name = "avg_npc_2042_1#1$1",focus="r")]
 [name="古斯塔夫"]我突然好奇一件事——你的上司知道这件事吗？
 [charslot(slot = "l", name = "avg_npc_2039_1#3$1",focus="l")]
-[name="斯凯"]如果娜斯提主任能有所作为，莱茵生命何至于现在......
+[name="斯凯"]如果娜斯提主任能有所作为，莱茵生命何至于现在……
 [charslot(slot="r", name = "avg_npc_2042_1#3$1",focus="r")]
 [name="古斯塔夫"]那就好。
 [charslot(slot = "l", name = "avg_npc_2039_1#5$1",focus="l")]
@@ -117,13 +117,13 @@
 [dialog]
 [charslot]
 [charslot(slot="m", name = "avg_npc_2042_1#2$1")]
-[name="古斯塔夫"]只有我才“有心也有力”对付高登......哈哈，有趣的说法。早年间他确实经常和我作对，但那只是年轻人的一时莽撞，正如你。
+[name="古斯塔夫"]只有我才“有心也有力”对付高登……哈哈，有趣的说法。早年间他确实经常和我作对，但那只是年轻人的一时莽撞，正如你。
 [charslot(slot="m", name = "avg_npc_2042_1#3$1")]
 [name="古斯塔夫"]而我教给他的第一条规矩就是：代表哥伦比亚时，我们永远是一体的。
 [charslot(slot = "l", name = "avg_npc_901_1#1$1",posfrom="-30,0",posto="-30,0",isblock=false)]
 [charslot(slot="r", name = "avg_npc_901_1#1$1",posfrom="30,0",posto="30,0",isblock=true)]
 [charslot(slot = "m", name = "avg_npc_2039_1#6$1",posfrom="0,-30",posto="0,-30",focus="m",isblock=true)]
-[name="斯凯"]你......！
+[name="斯凯"]你……！
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_paper2", volume=0.3)]
@@ -136,12 +136,12 @@
 [PlaySound(key="$phonevibration")]
 [delay(time=1.5)]
 [name="古斯塔夫"]哪位？
-[name="古斯塔夫"]......哈哈，这不是巧合吧？
+[name="古斯塔夫"]……哈哈，这不是巧合吧？
 斯凯被保镖们押着往外走，不知自己会被押进园区下层的监狱还是某个密室。
 恍惚间，他听到古斯塔夫接了个电话，想必老家伙正给高登通风报信。斯凯有些后悔没有把证据留给娜斯提主任。要是能回到生态园——
 [PlaySound(key="$d_avg_elevator_arrive", volume=0.8)]
 突然间，疼痛消失了。保镖们松开了手，将他赶进了离开云中餐厅的电梯。
-[name="斯凯"]......
+[name="斯凯"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -163,11 +163,11 @@
 [charslot(slot = "l", name = "avg_4214_cairn_1#3$1",focus="l")]
 [name="费尔南"]歇一会儿吧，奥克里，再说下去他们就会觉得只有死人的嘴才是最严的了。
 [charslot(slot = "r", name = "avg_npc_1000_1#3$1",focus="r")]
-[name="奥克里"]呜......
+[name="奥克里"]呜……
 [charslot(slot = "l", name = "avg_4214_cairn_1#1$1",focus="l")]
 [name="费尔南"]哎，怎么又哭起来了？放心，冷处理囚犯是常事。
 [charslot(slot = "r", name = "avg_npc_1000_1#3$1",focus="r")]
-[name="奥克里"]说得好像你经常被抓进牢里一样......
+[name="奥克里"]说得好像你经常被抓进牢里一样……
 [charslot(slot = "l", name = "avg_4214_cairn_1#2$1",focus="l")]
 [name="费尔南"]你以为我是从哪儿练得的口才？
 [charslot(slot = "l", name = "avg_4214_cairn_1#3$1",focus="l")]
@@ -177,13 +177,13 @@
 [charslot(slot = "l", name = "avg_4214_cairn_1#4$1",focus="l")]
 [name="费尔南"]你去过骸骨荒原吗？
 [charslot(slot = "r", name = "avg_npc_1000_1#3$1",focus="r")]
-[name="奥克里"]没有......听说那里的风沙能穿透最坚固的铁皮，探险家们会在遭遇风暴的一瞬被剔为骸骨。
+[name="奥克里"]没有……听说那里的风沙能穿透最坚固的铁皮，探险家们会在遭遇风暴的一瞬被剔为骸骨。
 [charslot(slot = "l", name = "avg_4214_cairn_1#7$1",focus="l")]
 [name="费尔南"]没错，所有导游都相信禁区之所以被称为禁区自有道理，没有一家旅行社会把它当作目的地。
 [charslot(slot = "l", name = "avg_4214_cairn_1#3$1",focus="l")]
 [name="费尔南"]但我不想凭一些道听途说就将它定义为“不可能”。
 [charslot(slot = "r", name = "avg_npc_1000_1#2$1",focus="r")]
-[name="奥克里"]你不会去了吧......那你还能毫发无伤地出来？
+[name="奥克里"]你不会去了吧……那你还能毫发无伤地出来？
 [charslot(slot = "l", name = "avg_4214_cairn_1#4$1",focus="l")]
 [name="费尔南"]那里就是一片灰色沙漠。
 [charslot(slot = "l", name = "avg_4214_cairn_1#4$1",focus="l")]
@@ -191,7 +191,7 @@
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
 [name="费尔南"]它确实危险，狂风肆虐的时候人无法分清脚下的是地面还是空洞，不过沙子的锐利程度远比不上刀片。
 [charslot(slot = "r", name = "avg_npc_1000_1#3$1",focus="r")]
-[name="奥克里"]不可思议......
+[name="奥克里"]不可思议……
 [charslot(slot = "l", name = "avg_4214_cairn_1#2$1",focus="l")]
 [name="费尔南"]“‘不可能’是人们为胆怯和懒惰找的借口。”——我爸常把这句话挂在嘴边。
 [charslot(slot = "l", name = "avg_4214_cairn_1#3$1",focus="l")]
@@ -199,7 +199,7 @@
 [charslot(slot = "r", name = "avg_npc_1000_1#1$1",focus="r")]
 [name="奥克里"]真羡慕你有这样支持你的父亲。
 [charslot(slot = "l", name = "avg_4214_cairn_1#3$1",focus="l")]
-[name="费尔南"]嗯，是啊......
+[name="费尔南"]嗯，是啊……
 [charslot(slot = "l", name = "avg_4214_cairn_1#3$1",focus="l")]
 [name="费尔南"]所以，打起精神来吧，奥克里。那名女妖客人和你的心愿我都会达成的，我们的旅途远没有结束。
 [dialog]
@@ -220,7 +220,7 @@
 [delay(time=2)]
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",posfrom="50,0",posto="40,0",focus="r")]
 [charslot(slot = "r", name = "avg_npc_1000_1#3$1",posfrom="50,0",posto="50,0",focus="r")]
-[name="奥克里"]......怎么回事？
+[name="奥克里"]……怎么回事？
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_901_1#1$1",isblock=true)]
@@ -238,7 +238,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2034_1#9$1")]
-[name="高登"]是，我明白......给您添麻烦了长官。
+[name="高登"]是，我明白……给您添麻烦了长官。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_ringoff_long", volume=1)]
@@ -252,7 +252,7 @@
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_2037_1#1$1",posfrom="-200,0", posto="0,0", duration=1.5, isblock=true)]
-[name="梅希亚"]高登长官......再给零五四投喂鳞粮，它就真的要撑得眼冒金星了......
+[name="梅希亚"]高登长官……再给零五四投喂鳞粮，它就真的要撑得眼冒金星了……
 [PlaySound(key="$d_avg_marshbubble", volume=1)]
 [charslot(slot = "m", name = "avg_npc_2040_1#1$1")]
 [name="太空鳞兽"]（吐泡泡）
@@ -265,19 +265,19 @@
 [PlaySound(key="$d_avg_groceriespaper", volume=0.2)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2037_1#5$1")]
-[name="梅希亚"]......
+[name="梅希亚"]……
 [charslot(slot = "m", name = "avg_npc_2034_1#4$1")]
-[name="高登"]一件顺心的事都没有。不仅没把碍事的莱茵彻底赶出园区，现在老狐狸和娜斯提的人还知道了我的生意......
+[name="高登"]一件顺心的事都没有。不仅没把碍事的莱茵彻底赶出园区，现在老狐狸和娜斯提的人还知道了我的生意……
 [charslot(slot = "m", name = "avg_npc_2034_1#7$1")]
 [name="高登"]更重要的是，我好不容易收集来的珍奇施术单元莫名其妙被两个混蛋毁了大半，里面有几件可是绝世孤品！
 [charslot(slot = "m", name = "avg_npc_2037_1#7$1")]
-[name="梅希亚"]施术单元......生意......
+[name="梅希亚"]施术单元……生意……
 [charslot(slot = "m", name = "avg_npc_2037_1#15$1")]
-[name="梅希亚"]长官，您之前没向我说明的那些空白的时间，其实都是在......走私？
+[name="梅希亚"]长官，您之前没向我说明的那些空白的时间，其实都是在……走私？
 [charslot(slot = "m", name = "avg_npc_2034_1#9$1")]
 [name="高登"]你认为帮助科技公司在天空占据一席之地，是违规行为？
 [charslot(slot = "m", name = "avg_npc_2037_1#5$1")]
-[name="梅希亚"]不，我不会多嘴。但......
+[name="梅希亚"]不，我不会多嘴。但……
 [charslot(slot = "m", name = "avg_npc_2037_1#6$1")]
 [name="梅希亚"]但您刚才派人带那两名闯入者过来，是打算处置他们吗？
 [charslot(slot = "m", name = "avg_npc_2034_1#1$1")]
@@ -287,19 +287,19 @@
 [charslot(slot = "m", name = "avg_npc_2037_1#1$1")]
 [name="梅希亚"]您想让他们帮您把违禁品运出去？
 [charslot(slot = "m", name = "avg_npc_2037_1#5$1")]
-[name="梅希亚"]可所有进出园区的物资都需要经过严格的审核，就算有您的加急许可，依旧会被抽查，而且......
+[name="梅希亚"]可所有进出园区的物资都需要经过严格的审核，就算有您的加急许可，依旧会被抽查，而且……
 [charslot(slot = "m", name = "avg_npc_2034_1#1$1")]
 [name="高登"]而且原本的物流渠道受到工程部改造影响，必须暂停使用一段日子，我可等不了那么久。
 [charslot(slot = "m", name = "avg_npc_2034_1#9$1")]
 [name="高登"]都怪娜斯提要搞什么能源系统改造，现在到处都是浮空种植单元和莱茵的人。
 [charslot(slot = "m", name = "avg_npc_2034_1#6$1")]
-[name="高登"]等等，莱茵......
+[name="高登"]等等，莱茵……
 [charslot(slot = "m", name = "avg_npc_2034_1#2$1")]
 [name="高登"]哈哈，好，既然你们堵了我的运输通道，那我也只能借用你们的了。
 [charslot(slot = "m", name = "avg_npc_2037_1#11$1")]
 [name="梅希亚"]您是说，莱茵生态园地下用来运输大型设备和基础建材的工程运输口？
 [charslot(slot = "m", name = "avg_npc_2034_1#1$1")]
-[name="高登"]没错，生态园被封锁，莱茵的地盘现在是最安全的掩护。老狐狸的动向我有把握，但娜斯提......
+[name="高登"]没错，生态园被封锁，莱茵的地盘现在是最安全的掩护。老狐狸的动向我有把握，但娜斯提……
 [charslot(slot = "m", name = "avg_npc_2037_1#14$1")]
 [name="梅希亚"]长官，只要您能保证那两位闯入者的安全，娜斯提主任可以交由我来处理。
 [charslot(slot = "m", name = "avg_npc_2034_1#3$1")]
@@ -327,7 +327,7 @@
 [charslot(slot = "r", name = "avg_npc_1000_1#2$1",focus="r",isblock=true)]
 [name="奥克里"]（小声）我们捣毁了长官的收藏室，他一定会向我们讨说法的！
 [charslot(slot = "l", name = "avg_4214_cairn_1#4$1",focus="l")]
-[name="费尔南"]（小声）要是能用钱抵，倒还直截了当，就怕跟我们谈“交易”......
+[name="费尔南"]（小声）要是能用钱抵，倒还直截了当，就怕跟我们谈“交易”……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_901_1#1$1",isblock=true)]
@@ -354,11 +354,11 @@
 [charslot(slot = "r", name = "avg_npc_2037_1#1$1",focus="r")]
 [name="梅希亚"]抱歉，高登长官似乎与您客人的失踪无关，我只能尽力帮您留意。
 [charslot(slot = "l", name = "avg_4214_cairn_1#9$1",focus="l")]
-[name="费尔南"]那位女妖究竟跑到哪里去了......
+[name="费尔南"]那位女妖究竟跑到哪里去了……
 [charslot(slot = "r", name = "avg_npc_2037_1#1$1",focus="r")]
 [name="梅希亚"]暂时忘了她吧。如果你们还想离开这个园区，进门之后请务必听从高登长官的命令。
 [charslot(slot = "l", name = "avg_4214_cairn_1#5$1",focus="l")]
-[name="费尔南"]......他到底要做什么？
+[name="费尔南"]……他到底要做什么？
 [charslot(slot = "r", name = "avg_npc_2037_1#6$1",focus="r")]
 [name="梅希亚"]他要跟你们谈一笔你们无法拒绝的“交易”。
 [stopmusic(fadetime=2)]
@@ -380,7 +380,7 @@
 任何阻碍都不该存在，无人有资格牵绊一项伟大的事业。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_2039_1#4$1", duration=1.5, isblock=true)]
-[name="斯凯"]我得把高登的秘密告诉主任，然后......再向她道歉。
+[name="斯凯"]我得把高登的秘密告诉主任，然后……再向她道歉。
 [dialog]
 [charslot]
 [playsound(key="$d_avg_chaoticfootstep_indoor", loop=true, channel="bgs",volume=0)]
@@ -417,7 +417,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2039_1#5$1",duration=0.8,isblock=true)]
-[name="斯凯"]凶着脸的小子......我？
+[name="斯凯"]凶着脸的小子……我？
 [dialog]
 [charslot]
 [PlaySound(key="$dooropenquite", volume=1)]
@@ -434,7 +434,7 @@
 [charslot(slot="l", name = "avg_npc_2039_1#12$1",focus="l",isblock=true)]
 [name="斯凯"]你是古斯塔夫身边的那个秘书？你来做什么！
 [charslot(slot="r",focus="r")]
-[name="行政秘书"]哦，原来你就是那个斯凯·杰格......
+[name="行政秘书"]哦，原来你就是那个斯凯·杰格……
 [charslot(slot="r",focus="r")]
 [name="行政秘书"]我跟娜斯提主任已经谈完了，先行一步。
 [dialog]
@@ -443,7 +443,7 @@
 [charslot(slot="r",afrom=1,ato=0,duration=0.8,isblock=true)]
 [delay(time=0.5)]
 [charslot(slot="l", name = "avg_npc_2039_1#3$1",focus="l")]
-[name="斯凯"]......
+[name="斯凯"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="r", name = "avg_4212_nasti_1#1$1",posfrom="200,0",posto="20,0",duration=1.8, isblock=true)]
@@ -462,11 +462,11 @@
 [charslot(slot="r", name = "avg_4212_nasti_1#1$1",focus="r")]
 [name="娜斯提"]是。
 [charslot(slot="l", name = "avg_npc_2039_1#8$1",focus="l")]
-[name="斯凯"]......
+[name="斯凯"]……
 [charslot(slot="r", name = "avg_4212_nasti_1#5$1",focus="r")]
 [name="娜斯提"]一会儿这里需要堆放整理完的实验器材，你要是还有力气就来搭把手。
 [charslot(slot="l", name = "avg_npc_2039_1#4$1",focus="l")]
-[name="斯凯"]主任......
+[name="斯凯"]主任……
 [charslot(slot="r", name = "avg_4212_nasti_1#1$1",focus="r")]
 [name="娜斯提"]嗯？
 [charslot(slot="l", name = "avg_npc_2039_1#4$1",focus="l")]
@@ -474,7 +474,7 @@
 [charslot(slot="l", name = "avg_npc_2039_1#4$1",focus="l")]
 [name="斯凯"]你的判断是准确的，到头来我自己也不过是阴沟里的鼷兽，只能理解伟大却不能变成其中的一部分。
 [charslot(slot="l", name = "avg_npc_2039_1#4$1",focus="l")]
-[name="斯凯"]被原谅，被拯救，受庇护......我与这满屋子的体验员一样，是被远远甩在后面的普通人，如果没有你的帮助，现在也不会留在这里。
+[name="斯凯"]被原谅，被拯救，受庇护……我与这满屋子的体验员一样，是被远远甩在后面的普通人，如果没有你的帮助，现在也不会留在这里。
 [charslot(slot="r", name = "avg_4212_nasti_1#8$1",focus="r")]
 [name="娜斯提"]我需要一批新的雇员，也需要一个助手，仅此而已。
 [charslot(slot="r", name = "avg_4212_nasti_1#1$1",focus="r")]
@@ -501,9 +501,9 @@
 [charslot(slot="r", name = "avg_4212_nasti_1#1$1",focus="r")]
 [name="娜斯提"]斯凯，为什么普通人就应当被甩在后面？
 [charslot(slot="l", name = "avg_npc_2039_1#7$1",focus="l")]
-[name="斯凯"]......
+[name="斯凯"]……
 [charslot(slot="l", name = "avg_npc_2039_1#7$1",focus="l")]
-[name="斯凯"]我从来不知道你......如此擅长演讲。
+[name="斯凯"]我从来不知道你……如此擅长演讲。
 [charslot(slot="r", name = "avg_4212_nasti_1#1$1",focus="r")]
 [name="娜斯提"]我只会陈述事实。发问，再解决，如此循环。
 [charslot(slot="r", name = "avg_4212_nasti_1#4$1",focus="r")]

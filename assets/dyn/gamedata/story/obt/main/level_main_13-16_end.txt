@@ -33,7 +33,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_649_1#8$1",focus="m")]
-[name="莱托中校"]......那只金杯相当有分量，你应该能拿那东西卖个好价钱，高卢艺术品的行情一直不错。
+[name="莱托中校"]……那只金杯相当有分量，你应该能拿那东西卖个好价钱，高卢艺术品的行情一直不错。
 [name="莱托中校"]哪怕只是把那东西熔了，当金子卖，也够你随便挑个城市，在最好的地段买上间公寓了。
 [Dialog]
 [playsound(key="$d_avg_key")]
@@ -43,7 +43,7 @@
 [name="莱托中校"]另去选个地方，重新开始生活吧。你可以把今年的这些事，仅仅当作偶然之间做的一场噩梦。
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
 [name="前城防军成员"]长官，是您在那帮萨卡兹追我的时候帮了我一把，是您把我藏在城防军的办公室里。
-[name="前城防军成员"]是我该感谢您，我早就不是城防军的成员了，也不是您的高卢同胞......
+[name="前城防军成员"]是我该感谢您，我早就不是城防军的成员了，也不是您的高卢同胞……
 [name="前城防军成员"]您没必要——
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
 [name="莱托中校"]拿去吧。
@@ -51,15 +51,15 @@
 [name="莱托中校"]在局势重新安稳下来之前，你最好继续躲在这里。
 [name="莱托中校"]军事委员会已经解除了城防军的武装，你现在在那些萨卡兹的眼里，和维多利亚的平民没什么区别。
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
-[name="前城防军成员"]可我们的战友们还在外面，他们有些，呃，不安分，我想把大家都救回来......
+[name="前城防军成员"]可我们的战友们还在外面，他们有些，呃，不安分，我想把大家都救回来……
 [charslot(slot="m",name="avg_npc_649_1#8$1",focus="m")]
 [name="莱托中校"]他们都被捕了。
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
-[name="前城防军成员"]......
+[name="前城防军成员"]……
 [charslot(slot="m",name="avg_npc_649_1#8$1",focus="m")]
 [name="莱托中校"]我亲手把他们抓起来交给了军事委员会。
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
-[name="前城防军成员"]你......
+[name="前城防军成员"]你……
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -69,16 +69,16 @@
 [Sticker(id="st1", multi = true, text="\n他在这里与我苟且偷生，他永远比不上那些反抗萨卡兹的战士们。",block = true)]
 [Sticker(id="st1", multi = true, text="\n永远也比不上。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n我比得上吗？",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="哈哈。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n我......不在乎。",block = true)]
+[Sticker(id="st1", multi = true, text="\n我……不在乎。",block = true)]
 [Sticker(id="st1", multi = true, text="\n我早就不在乎了。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
-[name="前城防军成员"]长官，您接下来......要去哪？
+[name="前城防军成员"]长官，您接下来……要去哪？
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
 [name="莱托中校"]我？
 [name="莱托中校"]血魔大君已经等了我很久了。
@@ -92,13 +92,13 @@
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
-[Sticker(id="st1", multi = true, text="......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n欢呼的维多利亚人......",block = true)]
+[Sticker(id="st1", multi = true, text="……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n欢呼的维多利亚人……",block = true)]
 [Sticker(id="st1", multi = true, text="\n我第一时间想到的竟然还是维多利亚会胜利。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="不，也许只是惯性使然。我当然希望特雷西斯会赢，这才是他承诺重建高卢的前提。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n我一切的牺牲，我一切的背叛，我一切再也无法被饶恕的罪孽，都是为了高卢。",block = true)]
-[Sticker(id="st1", multi = true, text="\n是啊，我是为了......高卢。",block = true)]
+[Sticker(id="st1", multi = true, text="\n是啊，我是为了……高卢。",block = true)]
 [Sticker(id="st1", multi = true, text="\n但愿如此。",block = true)]
 [Sticker(id="st1")]
 [Dialog]
@@ -121,7 +121,7 @@
 [Sticker(id="st1", multi = true, text="\n萨卡兹想把伦蒂尼姆加固成他们的堡垒，恐怕最终的决战就在眼前。",block = true)]
 [Sticker(id="st1", multi = true, text="\n他们打算固守这座维多利亚的首都？也许吧。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="队伍里有些人对我投来愤恨的目光，我认识他们，我们曾经......把酒言欢。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="队伍里有些人对我投来愤恨的目光，我认识他们，我们曾经……把酒言欢。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n没有人阻拦我，萨卡兹并不在乎我去往何处。",block = true)]
 [Sticker(id="st1", multi = true, text="\n被豢养的羽兽，就算打开笼门，它又能飞去哪儿？",block = true)]
 [Sticker(id="st1")]
@@ -155,27 +155,27 @@
 [delay(time=0.3)]
 [charslot(slot = "l", name = "avg_npc_401_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_npc_649_1#1$1",focus="r")]
-[name="莱托中校"]......
-[name="莱托中校"]嗯，我认出你了......你是，自救军的那个小领袖克洛维希娅？
+[name="莱托中校"]……
+[name="莱托中校"]嗯，我认出你了……你是，自救军的那个小领袖克洛维希娅？
 [charslot(slot="r",name="avg_npc_649_1#5$1",focus="r")]
 [name="莱托中校"]自救军的据点都已经被我们清剿干净，剩下的人也应该全部撤出了伦蒂尼姆，你为什么还在这里？
 [charslot(slot = "l", name = "avg_npc_401_1#1$1",focus="l")]
 [name="克洛维希娅"]多亏了城防军的手下留情，也多亏了开斯特的信守承诺。
 [name="克洛维希娅"]她的“灰礼帽”们确实保证了自救军顺利撤出这座将死的城市。
 [charslot(slot="r",name="avg_npc_649_1#8$1",focus="r")]
-[name="莱托中校"]开斯特公爵......
+[name="莱托中校"]开斯特公爵……
 [charslot(slot="r",name="avg_npc_649_1#1$1",focus="r")]
-[name="莱托中校"]......我早就对你的身份有所猜测，不过现在，不论你是哪位阁下的附庸或傀儡，我都不关心了。
+[name="莱托中校"]……我早就对你的身份有所猜测，不过现在，不论你是哪位阁下的附庸或傀儡，我都不关心了。
 [name="莱托中校"]我不知道你的本事到底有多大，但现在的伦蒂尼姆不适合一个造反的孩子到处游荡。
 [name="莱托中校"]回你之前躲着的地方吧，趁还没被萨卡兹们逮到，我可以当作没看见你。
 [charslot(slot = "l", name = "avg_npc_401_1#9$1",focus="l")]
-[name="克洛维希娅"]......莱托。
+[name="克洛维希娅"]……莱托。
 [name="克洛维希娅"]你躲在伦蒂尼姆已经够久了。
 [charslot(slot="r",name="avg_npc_649_1#8$1",focus="r")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [charslot(slot = "l", name = "avg_npc_401_1#1$1",focus="l")]
 [name="克洛维希娅"]我和自救军失散以后，尽可能快地在伦蒂尼姆内重新找到了行动的目标。
-[name="克洛维希娅"]我们也......遭到了背叛。我甚至还不清楚叛徒具体有哪些人。
+[name="克洛维希娅"]我们也……遭到了背叛。我甚至还不清楚叛徒具体有哪些人。
 [name="克洛维希娅"]但是我没有时间想这些，城内的情况远远超过了我们对“占领移动城市”的理解。
 [name="克洛维希娅"]现在发生的事，你在历史书上，找不到。
 [charslot(slot="r",name="avg_npc_649_1#1$1",focus="r")]
@@ -190,16 +190,16 @@
 [charslot(slot="r",name="avg_npc_649_1#1$1",focus="r")]
 [name="莱托中校"]公爵们呢？
 [charslot(slot = "l", name = "avg_npc_401_1#6$1",focus="l")]
-[name="克洛维希娅"]......公爵的军队。坚硬，宏伟，但是......
+[name="克洛维希娅"]……公爵的军队。坚硬，宏伟，但是……
 [charslot(slot = "l", name = "avg_npc_401_1#8$1",focus="l")]
 [name="克洛维希娅"]他们在地平线的那头。他们遥不可及。
 [charslot(slot="r",name="avg_npc_649_1#8$1",focus="r")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [charslot(slot = "l", name = "avg_npc_401_1#9$1",focus="l")]
 [name="克洛维希娅"]我猜测，你此时此刻，是不是心中怀着歉疚与悲哀，但又夹杂着一点点自豪？
 [name="克洛维希娅"]你觉得，你做了许多残忍的选择，但是现在，你的使命完成了。
 [charslot(slot="r",name="avg_npc_649_1#8$1",focus="r")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [charslot(slot = "l", name = "avg_npc_401_1#9$1",focus="l")]
 [name="克洛维希娅"]我猜测，你向特雷西斯提出了一个交易，而特雷西斯答应了，有关那些曾经属于高卢的移动城市。
 [name="克洛维希娅"]伦蒂尼姆太小，装不下萨卡兹的野心，他不过借着这里撩拨泰拉诸国蠢蠢欲动的心。
@@ -217,7 +217,7 @@
 [charslot(slot = "l", name = "avg_npc_401_1#1$1",focus="l")]
 [name="克洛维希娅"]——你真的相信吗，勒内·莱托？
 [charslot(slot="r",name="avg_npc_649_1#8$1",focus="r")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [charslot(slot="r",name="avg_npc_649_1#5$1",focus="r")]
 [name="莱托中校"]我还能相信什么呢？
 [name="莱托中校"]我已经承认我的懦弱了，你还需要我承认我的愚蠢，我的绝望，我的毫无意义？
@@ -227,13 +227,13 @@
 [name="克洛维希娅"]自救军，那些反抗萨卡兹，在维多利亚可笑的贵族之间挣扎求生的人，都还有一线生机。
 [name="克洛维希娅"]而你所奢求的所谓的“高卢”，可能也存在于那一线生机之中。
 [charslot(slot="r",name="avg_npc_649_1#6$1",focus="r")]
-[name="莱托中校"]......高卢啊，高卢。
+[name="莱托中校"]……高卢啊，高卢。
 [charslot(slot="r",name="avg_npc_649_1#1$1",focus="r")]
 [name="莱托中校"]看来，你是一位仍旧愿意抗争的人。
 [name="莱托中校"]对你们这样的人而言，就算是尘埃里的废墟，也能成为下一座壁垒的基石。
-[name="莱托中校"]你们都是这样的人，你，军事委员会......
+[name="莱托中校"]你们都是这样的人，你，军事委员会……
 [charslot(slot="r",name="avg_npc_649_1#6$1",focus="r")]
-[name="莱托中校"]你们如此强大，强大到能颠覆国家，操弄历史，更遑论......一两个我这样的人的命运。
+[name="莱托中校"]你们如此强大，强大到能颠覆国家，操弄历史，更遑论……一两个我这样的人的命运。
 [charslot(slot = "l", name = "avg_npc_401_1#1$1",focus="l")]
 [name="克洛维希娅"]停下你的自怨自艾吧，在地狱降临之前，我们还有很多可以做的事情。
 [name="克洛维希娅"]无论你当作赎罪还是当作另一次抗争的开始，我都无所谓。
@@ -242,7 +242,7 @@
 [name="莱托中校"]那么，了不起的人啊，你能告诉我——
 [name="莱托中校"]我该如何拯救自己吗？
 [charslot(slot = "l", name = "avg_npc_401_1#5$1",focus="l")]
-[name="克洛维希娅"]......
+[name="克洛维希娅"]……
 [charslot(slot="r",name="avg_npc_649_1#9$1",focus="r")]
 [name="莱托中校"]看吧，你也没有主意。
 [charslot(slot="r",name="avg_npc_649_1#1$1",focus="r")]
@@ -252,14 +252,14 @@
 [charslot(slot="r",name="avg_npc_649_1#1$1",focus="r")]
 [name="莱托中校"]是的。
 [charslot(slot = "l", name = "avg_npc_401_1#6$1",focus="l")]
-[name="克洛维希娅"]......那么我也不会祝福你。
+[name="克洛维希娅"]……那么我也不会祝福你。
 [name="克洛维希娅"]你背负着那么多人的死，我的同僚们的死，你却做出了令人不齿的决定。
 [charslot(slot = "l", name = "avg_npc_401_1#3$1",focus="l")]
 [name="克洛维希娅"]勒内·莱托！
 [charslot(slot="r",name="avg_npc_649_1#5$1",focus="r")]
 [name="莱托中校"]够了。快逃吧，萨卡兹就要来了。
 [charslot(slot="r",name="avg_npc_649_1#8$1",focus="r")]
-[name="莱托中校"]我还得......去告别呢。
+[name="莱托中校"]我还得……去告别呢。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -286,7 +286,7 @@
 [charslot(slot="m",name="avg_npc_649_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [Dialog]
 [Charslot]
 [charslot]
@@ -307,13 +307,13 @@
 [charslot(slot="r",name="avg_npc_081",action="zoom",poszoom="0.5,0.5",scale=0.95,duration=0,focus="m",bstart=0.2,bend=0.7,isblock=true)]
 [charslot(slot="r",afrom=0,ato=1,duration=1,focus="m",bstart=0.2,bend=0.7,isblock=true)]
 [charslot(slot="m",name="avg_npc_649_1#5$1",focus="n")]
-[name="？？？"]......你，的番，号！
+[name="？？？"]……你，的番，号！
 [charslot(slot="m",name="avg_npc_649_1#5$1",focus="m")]
 [name="莱托中校"]您顶在我腰间的木棍依然如此有力，长官。
 [charslot(slot="m",name="avg_npc_649_1#5$1",focus="n")]
-[name="？？？"]闭，嘴！报......出你的番号！士兵！
+[name="？？？"]闭，嘴！报……出你的番号！士兵！
 [charslot(slot="m",name="avg_npc_649_1#2$1",focus="m")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
 [name="莱托中校"]林贡斯青年近卫军第二近卫腾跃兵团，莱托下士！
 [Dialog]
@@ -343,7 +343,7 @@
 [charslot(slot="m",name="avg_npc_649_1#9$1",focus="m")]
 [name="莱托中校"]您见过，您只是忘了，长官。
 [charslot(slot="r",name="avg_npc_081",focus="r")]
-[name="昏聩的老人"]是吗......
+[name="昏聩的老人"]是吗……
 [name="昏聩的老人"]皇帝陛下，命，令我在这里养伤，但我，还是想知道，前线，的，战况。
 [name="昏聩的老人"]邪恶，的巫王被我们的舰队，摧毁了吗？
 [name="昏聩的老人"]我在电视里，看，到了维多利亚的大，大，大胡子公爵的军队！
@@ -352,7 +352,7 @@
 [name="莱托中校"]长官，伦蒂尼姆已经陷落了。
 [charslot(slot="r",name="avg_npc_081",focus="r")]
 [name="昏聩的老人"]好！
-[name="昏聩的老人"]我会被擢为......老，近卫军！你，还不到，时候！你，还需证明，自己！
+[name="昏聩的老人"]我会被擢为……老，近卫军！你，还不到，时候！你，还需证明，自己！
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -363,7 +363,7 @@
 [Sticker(id="st1", multi = true, text="\n挺到了高卢都已成了历史。",block = true)]
 [Sticker(id="st1", multi = true, text="\n挺到了伦蒂尼姆都已经将要走进坟墓。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n我在离开城防军的岗位前，下达的最后一项命令，是保证这座疗养院的安全。",block = true)]
 [Sticker(id="st1", multi = true, text="\n这是我在漫长的城防军服役期间，为我自己做的唯一一件事。",block = true)]
 [Sticker(id="st1")]
@@ -377,41 +377,41 @@
 [PlaySound(key="$d_avg_chairrub")]
 [charslot(duration=1)]
 [delay(time=1.5)]
-[name="昏聩的老人"]唔......
-[name="昏聩的老人"]酒很好，下士，唔......
+[name="昏聩的老人"]唔……
+[name="昏聩的老人"]酒很好，下士，唔……
 [name="昏聩的老人"]这林贡斯浸透我们的眼泪♪
 [name="昏聩的老人"]战场充满了苦与累♪
-[name="昏聩的老人"]......要判处侵略者死罪......♪
+[name="昏聩的老人"]……要判处侵略者死罪……♪
 [charslot(slot="m",name="avg_npc_649_1#9$1",focus="m")]
 [name="莱托中校"]您在唱这首歌的时候，就好像所有的病痛和衰老都不曾存在一般。
 [Dialog]
 [charslot]
-[name="昏聩的老人"]......我们的旗帜永远辉煌♪
+[name="昏聩的老人"]……我们的旗帜永远辉煌♪
 [Dialog]
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
 [name="莱托中校"]我从未见过林贡斯。
-[name="莱托中校"]您曾和我无数次说起那些华伟的殿堂，那些发达的路网......
+[name="莱托中校"]您曾和我无数次说起那些华伟的殿堂，那些发达的路网……
 [charslot(slot="m",name="avg_npc_649_1#8$1",focus="m")]
-[name="莱托中校"]......您还记得戈尔丁吗，那个很多年前，曾经和我一起来拜访您的女孩。
+[name="莱托中校"]……您还记得戈尔丁吗，那个很多年前，曾经和我一起来拜访您的女孩。
 [name="莱托中校"]她死了。
 [name="莱托中校"]她为这个残酷的，无法撼动的，沾满了鲜血的时代而死。
 [charslot(slot="m",name="avg_npc_649_1#6$1",focus="m")]
 [name="莱托中校"]而我，是造就这一切的凶手之一。
-[name="莱托中校"]我对她......我不知道。
+[name="莱托中校"]我对她……我不知道。
 [name="莱托中校"]但她已经离去了。她不在我的视野里，她不再看向我。
-[name="莱托中校"]我......很害怕，先生。
+[name="莱托中校"]我……很害怕，先生。
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
 [name="莱托中校"]有个叫阿米娅的孩子告诉我，我的所作所为都是因为懦弱。
 [name="莱托中校"]我曾向戈尔丁自白，我只是想在接踵而至的毁灭中活下来。
 [charslot(slot="m",name="avg_npc_649_1#8$1",focus="m")]
-[name="莱托中校"]但我仍然希望......
+[name="莱托中校"]但我仍然希望……
 [name="莱托中校"]哪怕只是借口，我也仍然希望——
-[name="莱托中校"]那片废墟中会有新的高卢人站起来......
+[name="莱托中校"]那片废墟中会有新的高卢人站起来……
 [charslot(slot="m",name="avg_npc_649_1#6$1",focus="m")]
 [name="莱托中校"]不，不对。
 [name="莱托中校"]我希望戈尔丁能继续教那些孩子，在阳光，和花香里。
 [name="莱托中校"]她的坚持真的很美。
-[name="莱托中校"]可我，可我却是那个......我......
+[name="莱托中校"]可我，可我却是那个……我……
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
 [name="莱托中校"]我已经做了我能做的一切。这很累，先生。
 [name="莱托中校"]您觉得我们还有未来吗？
@@ -422,8 +422,8 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n......",block = true)]
+[Sticker(id="st1", multi = true, text="……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n……",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="原来他早就睡着了。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n也好。",block = true)]
@@ -438,9 +438,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="我抽出我的佩剑。曾属于高卢人的剑。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n我想......也许让他在萨卡兹闯入这里以前，停留在梦里会更好。",block = true)]
+[Sticker(id="st1", multi = true, text="\n我想……也许让他在萨卡兹闯入这里以前，停留在梦里会更好。",block = true)]
 [Sticker(id="st1", multi = true, text="\n那起码会是一个灿烂的梦。",block = true)]
-[Sticker(id="st1", multi = true, text="\n......可我这样卑劣的人，岂敢伸手玷污——",block = true)]
+[Sticker(id="st1", multi = true, text="\n……可我这样卑劣的人，岂敢伸手玷污——",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -458,7 +458,7 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n已经老去的青年近卫军的血，溅满了我的双手。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -476,7 +476,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="统御鲜血的君主，血魔大君，他正静静望着维多利亚宫廷中华贵的装饰。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n他脸上的表情，甚至称得上......恬静。",block = true)]
+[Sticker(id="st1", multi = true, text="\n他脸上的表情，甚至称得上……恬静。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -500,7 +500,7 @@
 [name="血魔大君"]我会亲手开启仪式，赠予它最古老的诅咒，最悲哀的终局。
 [name="血魔大君"]我很快就要出发了。连我的族裔们都无此殊荣，你真该庆幸。
 [charslot(slot="m",name="avg_npc_649_1#8$1",focus="m")]
-[name="莱托中校"]......
+[name="莱托中校"]……
 [charslot(slot="m",name="avg_npc_649_1#1$1",focus="m")]
 [name="莱托中校"]大君，您知道。
 [name="莱托中校"]在我出生的时候，高卢的首都就已经被威灵顿公爵和他卑劣的同谋彻底毁灭了。
@@ -515,7 +515,7 @@
 [charslot(slot="m",name="avg_npc_410_1#7$1",focus="m")]
 [name="血魔大君"]这令你唏嘘？
 [charslot(slot="m",name="avg_npc_649_1#8$1",focus="m")]
-[name="莱托中校"]我只是......没有想到。
+[name="莱托中校"]我只是……没有想到。
 [charslot(slot="m",name="avg_npc_410_1#1$1",focus="m")]
 [name="血魔大君"]威灵顿公爵拆毁了林贡斯，瓜分了那些移动地块。呵，可笑又无趣的维多利亚人。
 [name="血魔大君"]你想亲手了结你的血仇吗？我赞许你的执着。
@@ -530,7 +530,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_410_1#5$1",focus="m")]
-[name="血魔大君"]啊......多可悲。
+[name="血魔大君"]啊……多可悲。
 [name="血魔大君"]卑鄙，善变，懦弱，自以为是。
 [name="血魔大君"]会因为恐惧祈求怜悯，又因为绝望而自取灭亡。
 [name="血魔大君"]可我还是很好奇，你啊，你啊。
@@ -549,7 +549,7 @@
 [name="莱托中校"]——
 [charslot(slot="m",name="avg_npc_410_1#7$1",focus="m")]
 [name="血魔大君"]你也许会想，这个萨卡兹是何等傲慢，对自己何等蔑视。
-[name="血魔大君"]恰恰相反......莱托。
+[name="血魔大君"]恰恰相反……莱托。
 [name="血魔大君"]因为我即将看见的事物，我对你，充满，怜爱。
 [name="血魔大君"]你的确愚蠢，卑劣，你该珍惜你的血。
 [name="血魔大君"]我本以为，它们能有些更有趣的用场。
@@ -559,15 +559,15 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="高卢人的剑......我竭尽全力摸索着。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="高卢人的剑……我竭尽全力摸索着。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n卑劣者的剑。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_410_1#5$1",focus="m")]
 [name="血魔大君"]可怜的人。再努力些，再挣扎些，你就快碰到剑柄了。
 [charslot(slot="m",name="avg_npc_649_1#7$1",focus="m")]
-[name="莱托中校"]......我......
-[name="莱托中校"]我......赐予......
+[name="莱托中校"]……我……
+[name="莱托中校"]我……赐予……
 [charslot(slot="m",name="avg_npc_410_1#1$1",focus="m")]
 [name="血魔大君"]你想说什么？
 [charslot(slot="m",name="avg_npc_649_1#7$1",focus="m")]

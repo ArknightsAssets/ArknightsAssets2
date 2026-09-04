@@ -31,13 +31,13 @@
 [predicate(references="7.1")]
 [name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]我不管你们看没看过，有没有理解，总而言之，它是一种石头制成的巨大圆盘。
 [name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]传说中有人曾经在一座沙岛上见过它。
-[decision(option1="传说......岛上......", value1="8.1")]
+[decision(option1="传说……岛上……", value1="8.1")]
 [predicate(references="8.1")]
 [decision(option1="好的，我们接受。", value1="9.1")]
 [predicate(references="9.1")]
 [decision(option1="我们该怎么称呼你？", value1="10.1")]
 [predicate(references="10.1")]
-[name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]嗯......
+[name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]嗯……
 [name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]就叫我佩佩吧。
 [withdraw(id="trap_471_tegmaus")]
 [withdraw(id="trap_467_ttuye")]
@@ -49,13 +49,13 @@
 [predicate(references="7.2")]
 [name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]我不管你们看没看过，有没有理解，总而言之，它是一种石头制成的巨大圆盘。
 [name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]传说中有人曾经在一座沙岛上见过它。
-[decision(option1="传说......岛上......", value1="11.1")]
+[decision(option1="传说……岛上……", value1="11.1")]
 [predicate(references="11.1")]
 [decision(option1="好的，我们接受。", value1="12.1")]
 [predicate(references="12.1")]
 [decision(option1="我们该怎么称呼你？", value1="13.1")]
 [predicate(references="13.1")]
-[name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]嗯......
+[name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]嗯……
 [name="？？？", avatarId="bavg_npc_001", isAvatarRight="FALSE"]就叫我佩佩吧。
 [withdraw(id="trap_471_tegmaus")]
 [withdraw(id="trap_467_ttuye")]

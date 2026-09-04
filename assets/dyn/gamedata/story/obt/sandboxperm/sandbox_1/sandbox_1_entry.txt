@@ -8,7 +8,7 @@
 [PlaySound(key="$d_avg_sandwnd", volume=0.6, loop=true, channel="wind")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=1)]
-[Decision(options="呼......呼......", values="1")]
+[Decision(options="呼……呼……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="char_416_zumama_1",focus="m")]
 [name="森蚺"]很热吗？你全身都在冒汗。
@@ -19,7 +19,7 @@
 [Decision(options="沙漠根本看不到尽头。;沙粒不断打在轮毂上。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="char_416_zumama_1",focus="m")]
-[name="森蚺"]幸运的话，我们晚上就能抵达传说中埃克卢穆伊绿洲附近的空地，要是......
+[name="森蚺"]幸运的话，我们晚上就能抵达传说中埃克卢穆伊绿洲附近的空地，要是……
 [charslot(slot="m",name="avg_402_tuye_1#11$1",focus="m")]
 [name="图耶"]要是不幸的话，它可能已经被风沙吞噬了，我们永远也找不到它。
 [charslot(slot="m",name="char_416_zumama_1",focus="m")]
@@ -32,14 +32,14 @@
 [name="森蚺"]或许这里的狂风与黄沙能告诉我们答案。
 [Dialog]
 [charslot]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="char_416_zumama_1#4",focus="m")]
 [name="森蚺"]咦，你一直盯着窗外在看什么？
 [Dialog]
 [charslot]
-[Decision(options="那、那是......", values="1")]
+[Decision(options="那、那是……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="char_416_zumama_1#6",focus="m")]
 [name="森蚺"]图耶，快停车！
@@ -57,7 +57,7 @@
 [charslot(slot="m",name="avg_402_tuye_1#6$1",focus="m")]
 [name="图耶"]先生，这片荒漠常有针蚤筑巢，非常危险，你怎么孤身一人在这里？
 [charslot]
-[name="受伤的旅人"]谢、谢谢你们......我、我在外出捕猎时碰上了沙尘暴......迷失了方向。
+[name="受伤的旅人"]谢、谢谢你们……我、我在外出捕猎时碰上了沙尘暴……迷失了方向。
 [charslot(slot="m",name="char_416_zumama_1",focus="m")]
 [name="森蚺"]你住在哪里？或许我们可以送你回去。
 [charslot]
@@ -65,7 +65,7 @@
 [charslot(slot="m",name="char_416_zumama_1",focus="m")]
 [name="森蚺"]拉布-阿拉契什图雨林？
 [charslot]
-[name="受伤的旅人"]什么雨林......这里的雨林很多，我也不知道你们说的是哪一片......
+[name="受伤的旅人"]什么雨林……这里的雨林很多，我也不知道你们说的是哪一片……
 [charslot(slot="m",name="avg_402_tuye_1#1$1",focus="m")]
 [name="图耶"]不管是不是同一片，在下一波沙尘刮起来前，我想我们该动身了。
 [Dialog]
@@ -93,16 +93,16 @@
 [charslot]
 [name="年老的族长"]本来那里只剩下我们自治，近些年，有人说阿尔萨兰埋着一些特殊的宝藏，附近的王酋就又带着军队来了。
 [charslot]
-[name="年老的族长"]他们四处劫掠，还将我们的同胞押往他们在南方的采矿场，很多人都在那里感染了致命的疾病，唉......
+[name="年老的族长"]他们四处劫掠，还将我们的同胞押往他们在南方的采矿场，很多人都在那里感染了致命的疾病，唉……
 [name="年老的族长"]所以我们被迫决定北上，迁居到这里。
 [charslot]
 [name="年老的族长"]现在哪还有什么“群狮旧座”，不过是一群流民聚集的地方罢了。
 [charslot(slot="m",name="char_416_zumama_1#4",focus="m")]
-[name="森蚺"]怪不得......这里会突然出现那么多矿石病患者。
+[name="森蚺"]怪不得……这里会突然出现那么多矿石病患者。
 [charslot(slot="m",name="avg_402_tuye_1#3$1",focus="m")]
-[name="图耶"]看来，除了恶劣的生存条件，对于我们这次行动的任务而言，王酋也是个大麻烦......
+[name="图耶"]看来，除了恶劣的生存条件，对于我们这次行动的任务而言，王酋也是个大麻烦……
 [charslot(slot="m",name="char_416_zumama_1#4",focus="m")]
-[name="森蚺"]......会有解决办法的。
+[name="森蚺"]……会有解决办法的。
 [charslot]
 [name="年老的族长"]不说这些了。你们所标记的位置离我们这里并不远，是这片雨林和绿洲附近的空地处。
 [name="年老的族长"]我们不会打扰你们的工作，如果你们有什么需要，可以来找我。
@@ -114,7 +114,7 @@
 [charslot(slot="m",name="avg_402_tuye_1#9$1",focus="m")]
 [name="图耶"]只要您能分享一些当地见闻，就算回报了。
 [charslot]
-[name="年老的族长"]......那你们可能要在这里待很长一段时间了，年轻人。
+[name="年老的族长"]……那你们可能要在这里待很长一段时间了，年轻人。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

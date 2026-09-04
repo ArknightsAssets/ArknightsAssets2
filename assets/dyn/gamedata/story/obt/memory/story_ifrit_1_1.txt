@@ -21,9 +21,9 @@
 [Character(name="avg_134_ifrit_1#3$1",name2="avg_108_silent_1#5$1",focus=1)]
 [name="伊芙利特"]医疗部说这两天要复查，不准我往外跑，博士也让我休息两天。
 [Character(name="avg_134_ifrit_1#2$1",name2="avg_108_silent_1#5$1",focus=1)]
-[name="伊芙利特"]赫默，你收拾这些行李干嘛......你要出远门吗？
+[name="伊芙利特"]赫默，你收拾这些行李干嘛……你要出远门吗？
 [Character(name="avg_134_ifrit_1#2$1",name2="avg_108_silent_1#1$1",focus=2)]
-[name="赫默"]......嗯。有事要出门一趟，可能会耗些时间。
+[name="赫默"]……嗯。有事要出门一趟，可能会耗些时间。
 [Character(name="avg_134_ifrit_1#2$1",name2="avg_108_silent_1#1$1",focus=1)]
 [name="伊芙利特"]你要去哪？就你一个人吗？
 [Character(name="avg_134_ifrit_1#5$1",name2="avg_108_silent_1#1$1",focus=1)]
@@ -33,18 +33,18 @@
 [name="赫默"]这次不能带你一起，伊芙利特。
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_108_silent_1#2$1",focus=1)]
 [name="伊芙利特"]为什么！
-[name="伊芙利特"]赫默，你是不是......是不是要回那里？
+[name="伊芙利特"]赫默，你是不是……是不是要回那里？
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_108_silent_1#6$1",focus=2)]
-[name="赫默"]......
+[name="赫默"]……
 [Character(name="avg_134_ifrit_1#7$1",name2="avg_108_silent_1#6$1",focus=1)]
-[name="伊芙利特"]我知道塞雷娅一直在查和那些白大褂有关的事！我知道赫默你也是，还有缪缪，她来找塞雷娅，也和那些讨厌的家伙有关......
+[name="伊芙利特"]我知道塞雷娅一直在查和那些白大褂有关的事！我知道赫默你也是，还有缪缪，她来找塞雷娅，也和那些讨厌的家伙有关……
 [name="伊芙利特"]虽然你们什么都不说，但我能猜得到！
 [Character(name="avg_134_ifrit_1#7$1",name2="avg_108_silent_1#6$1",focus=2)]
-[name="赫默"]......
+[name="赫默"]……
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_108_silent_1#6$1",focus=1)]
 [name="伊芙利特"]告诉我吧！赫默，我不是小孩子了！
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_108_silent_1#6$1",focus=2)]
-[name="赫默"]伊芙利特......
+[name="赫默"]伊芙利特……
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_108_silent_1#3$1",focus=2)]
 [name="赫默"]是啊，你已经不是孩子了。
 [Dialog]
@@ -60,7 +60,7 @@
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_108_silent_1#9$1",focus=1)]
 [name="伊芙利特"]你变瘦了，赫默。
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_108_silent_1#9$1",focus=2)]
-[name="赫默"]......是你长高，长大了，伊芙利特。
+[name="赫默"]……是你长高，长大了，伊芙利特。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -85,7 +85,7 @@
 [Subtitle(text="“很多事情，确实不该再瞒着你。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“我和塞雷娅，接下来要回哥伦比亚一趟。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“我们要做的事不仅与你当年的遭遇有关，还牵扯到更多事。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“伊芙利特，我希望你......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“伊芙利特，我希望你……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
 [Dialog]
@@ -97,7 +97,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="医疗干员"]......芙利特，伊芙利特？
+[name="医疗干员"]……芙利特，伊芙利特？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -113,10 +113,10 @@
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]你睡着了？可以起来了，检查已经完成了。
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=1)]
-[name="伊芙利特"]唔......
+[name="伊芙利特"]唔……
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]怎么了，是有哪里不舒服吗？
-[name="医疗干员"]赫默医生不在，我们也只是帮你做些基础检查，目前看来是没什么明显的问题......
+[name="医疗干员"]赫默医生不在，我们也只是帮你做些基础检查，目前看来是没什么明显的问题……
 [name="医疗干员"]要是不舒服，就一定要说出来！
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=-1)]
 伊芙利特并不打算同医疗干员多说，自她躺上手术台的那一天以来，肢体的疼痛如影随形，从未有所消解。
@@ -128,10 +128,10 @@
 [name="伊芙利特"]好啦，现在检查也做完了，我能走了吧？
 [Character(name="avg_134_ifrit_1#5$1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]啊，你等一下，我把这次的体检报告装好给你。
-[name="医疗干员"]......
+[name="医疗干员"]……
 [Character(name="avg_134_ifrit_1#2$1",name2="char_016_medic",focus=1)]
 [name="伊芙利特"]嗯？怎么了，报告呢？
-[name="伊芙利特"]哎等下，你这是什么表情，你、你别哭啊......！
+[name="伊芙利特"]哎等下，你这是什么表情，你、你别哭啊……！
 [Character(name="avg_134_ifrit_1#2$1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]我才没有哭！
 [Character(name="avg_134_ifrit_1#5$1",name2="char_016_medic",focus=1)]
@@ -139,9 +139,9 @@
 [Character(name="avg_134_ifrit_1#5$1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]伊芙利特！
 [name="医疗干员"]虽然、虽然你的详细资料只有赫默医生有权限调取，一直以来我只是辅助赫默医生，但我心里也清楚！
-[name="医疗干员"]这几年来，就连体表能看得见的源石结晶都更多了......
+[name="医疗干员"]这几年来，就连体表能看得见的源石结晶都更多了……
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=1)]
-[name="伊芙利特"]......
+[name="伊芙利特"]……
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]再这么下去你的病情会恶化得更快！你总说没事，但是怎么可能没事？
 [name="医疗干员"]伊芙利特，我建议你安心休养——
@@ -153,15 +153,15 @@
 [name="医疗干员"]可是！
 [Character(name="avg_134_ifrit_1#4$1",name2="char_016_medic",focus=1)]
 [name="伊芙利特"]没有可是！
-[name="伊芙利特"]......没有可是。虽然赫默很多事都没和我说太多，但我又不傻，自己的身体怎么样，我自己最清楚。
+[name="伊芙利特"]……没有可是。虽然赫默很多事都没和我说太多，但我又不傻，自己的身体怎么样，我自己最清楚。
 [Character(name="avg_134_ifrit_1#4$1",name2="char_016_medic",focus=2)]
-[name="医疗干员"]伊芙利特......
+[name="医疗干员"]伊芙利特……
 [Character(name="avg_134_ifrit_1#7$1",name2="char_016_medic",focus=1)]
 [name="伊芙利特"]就因为我清楚得很，所以才更不能什么都不做就这么干等着！
-[name="伊芙利特"]我可是要变得比塞雷娅还厉害才行！要是能那样，不管发生什么事，我都能帮得上忙......
+[name="伊芙利特"]我可是要变得比塞雷娅还厉害才行！要是能那样，不管发生什么事，我都能帮得上忙……
 [name="伊芙利特"]我没太多时间可以浪费了。
 [Character(name="avg_134_ifrit_1#7$1",name2="char_016_medic",focus=2)]
-[name="医疗干员"]......好吧，我知道了。
+[name="医疗干员"]……好吧，我知道了。
 [name="医疗干员"]我不会再劝你，相信你自己已经能做决定。
 [Dialog]
 [delay(time=1)]
@@ -170,11 +170,11 @@
 [Character(name="avg_134_ifrit_1#2$1",name2="char_016_medic",focus=1)]
 [name="伊芙利特"]哦？！又怎么了！
 [Character(name="avg_134_ifrit_1#2$1",name2="char_016_medic",focus=2)]
-[name="医疗干员"]该注意的地方我是不会松口的！你不能再像上次一样乱来了，一个人烧掉一整座赏金猎人营地，都伤成那样了还满脑子想着任务......
-[name="医疗干员"]要是这次你再满身是血被抬回来......哼哼！下个月你也别想出病房！
+[name="医疗干员"]该注意的地方我是不会松口的！你不能再像上次一样乱来了，一个人烧掉一整座赏金猎人营地，都伤成那样了还满脑子想着任务……
+[name="医疗干员"]要是这次你再满身是血被抬回来……哼哼！下个月你也别想出病房！
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=1)]
-[name="伊芙利特"]那不是没办法嘛......！我又不想的！
-[name="伊芙利特"]而且，这次我可是队长欸！这还是我头一次当队长呢......
+[name="伊芙利特"]那不是没办法嘛……！我又不想的！
+[name="伊芙利特"]而且，这次我可是队长欸！这还是我头一次当队长呢……
 [Character(name="avg_134_ifrit_1#1$1",name2="char_016_medic",focus=2)]
 [name="医疗干员"]队长怎么了？队长更要注意自己的身体了！
 [name="医疗干员"]这是止痛的药剂，你要出外勤，就多带上两瓶！
@@ -182,7 +182,7 @@
 [Character(name="avg_134_ifrit_1#6$1",name2="char_016_medic",focus=1)]
 [name="伊芙利特"]啧，知道了，真啰嗦。
 [Character(name="avg_134_ifrit_1#3$1",name2="char_016_medic",focus=1)]
-[name="伊芙利特"]......咳咳，不管怎么说，总而言之，谢了啊。
+[name="伊芙利特"]……咳咳，不管怎么说，总而言之，谢了啊。
 [name="伊芙利特"]你放心，我肯定没事的！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -192,7 +192,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)] 
-[Subtitle(text="“伊芙利特，我希望你......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“伊芙利特，我希望你……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
 一直到离开，赫默也没把这句话说完。
@@ -221,7 +221,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Character(name="char_388_mint_1#5")]
-[name="薄绿"]哇......没想到这里真的有这么大的山洞！
+[name="薄绿"]哇……没想到这里真的有这么大的山洞！
 [name="薄绿"]艾雅法拉前辈好厉害！和前辈推测的位置几乎完全一致耶！
 [name="薄绿"]啊，那边有一块好漂亮的石头！
 [Dialog]
@@ -231,19 +231,19 @@
 [delay(time=2)]
 [Character(name="char_344_beewax_1")]
 [name="蜜蜡"]这里好凉爽。
-[name="蜜蜡"]感觉会很适合午睡，这里靠上去冰冰的、凉凉的......
+[name="蜜蜡"]感觉会很适合午睡，这里靠上去冰冰的、凉凉的……
 [Dialog]
 [characteraction(name="middle", type="move", ypos=-25, fadetime=1.5,block=false)]
-[name="蜜蜡"]呼......
+[name="蜜蜡"]呼……
 [Dialog]
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_134_ifrit_1#2$1",name2="char_180_amgoat_1#1",focus=2)]
-[name="艾雅法拉"]嗯......奇怪，这个山洞的位置和规模，都和测算出的结果有一些偏差。
+[name="艾雅法拉"]嗯……奇怪，这个山洞的位置和规模，都和测算出的结果有一些偏差。
 [name="艾雅法拉"]虽然偏差值还在正常范围内，不过，稍微有点令人在意。
 [Character(name="avg_134_ifrit_1#2$1",name2="char_180_amgoat_1#5",focus=2)]
-[name="艾雅法拉"]这里的湿度有点偏高，还有泥土......总感觉并不紧实......
-[name="艾雅法拉"]内部的土壤也要测一下......哇！
+[name="艾雅法拉"]这里的湿度有点偏高，还有泥土……总感觉并不紧实……
+[name="艾雅法拉"]内部的土壤也要测一下……哇！
 [PlaySound(key="$bodyfalldown3", volume=1)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_134_ifrit_1#2$1",name2="char_180_amgoat_1#5",focus=1)]
@@ -251,14 +251,14 @@
 [Character(name="avg_134_ifrit_1#2$1",name2="char_180_amgoat_1#6",focus=2)]
 [name="艾雅法拉"]谢、谢谢你，伊芙利特。
 [Character(name="avg_134_ifrit_1#1$1",name2="char_180_amgoat_1#6",focus=1)]
-[name="伊芙利特"]你先站稳再说话......你刚刚是不是擦到了？手划破没？
+[name="伊芙利特"]你先站稳再说话……你刚刚是不是擦到了？手划破没？
 [Character(name="avg_134_ifrit_1#1$1",name2="char_180_amgoat_1#6",focus=2)]
 [name="艾雅法拉"]你别紧张，我没事的。
 [Character(name="avg_134_ifrit_1#6$1",name2="char_180_amgoat_1#6",focus=1)]
 [name="伊芙利特"]有没有事是我来判断，我是队长！
 [name="伊芙利特"]手，让我看看！
 [Character(name="avg_134_ifrit_1#6$1",name2="char_180_amgoat_1#3",focus=2)]
-[name="艾雅法拉"]真没事......
+[name="艾雅法拉"]真没事……
 [Dialog]
 [Character(name="avg_134_ifrit_1#6$1",name2="char_180_amgoat_1#3")]
 [characteraction(name="left", type="move", xpos=50, fadetime=1, block=true)]
@@ -266,7 +266,7 @@
 [PlaySound(key="$d_avg_clothmovement", volume=0.7)]
 [delay(time=1.5)]
 [Character(name="avg_134_ifrit_1#6$1",name2="char_180_amgoat_1#3",focus=1)]
-[name="伊芙利特"]嗯，还好......
+[name="伊芙利特"]嗯，还好……
 [Dialog]
 [Character(name="avg_134_ifrit_1#6$1",name2="char_180_amgoat_1#3")]
 [characteraction(name="left", type="move", xpos=-50, fadetime=1, block=true)]
@@ -274,7 +274,7 @@
 [Character(name="avg_134_ifrit_1#2$1",name2="char_180_amgoat_1#3",focus=1)]
 [name="伊芙利特"]喂，玩沙子的！你也是来护卫的，别偷懒！
 [Character(name="char_344_beewax_1")]
-[name="蜜蜡"]嗯......？啊，没关系的，就算摔倒也不会疼的，我有在注意。
+[name="蜜蜡"]嗯……？啊，没关系的，就算摔倒也不会疼的，我有在注意。
 [Dialog]
 [PlaySound(key="$d_avg_magic_2")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -282,10 +282,10 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="char_344_beewax_1")]
-[name="蜜蜡"]就像这样......我会接住艾雅法拉。
+[name="蜜蜡"]就像这样……我会接住艾雅法拉。
 [name="蜜蜡"]伊芙利特要一起来吗，这里凉凉的，很舒服哦。
 [Character(name="avg_134_ifrit_1#8$1",name2="char_180_amgoat_1#3",focus=1)]
-[name="伊芙利特"]......我就算了，你自己靠着吧。
+[name="伊芙利特"]……我就算了，你自己靠着吧。
 [Character(name="avg_134_ifrit_1#6$1",name2="char_180_amgoat_1#3",focus=1)]
 [name="伊芙利特"]这次任务就是探查这片洞窟及附近的地质是吧？那就抓紧时间——
 [Character(name="avg_134_ifrit_1#6$1",name2="char_180_amgoat_1#3",focus=-1)]
@@ -296,7 +296,7 @@
 [name="薄绿"]这里有好多漂亮的矿石！
 [name="薄绿"]伊芙利特！这里有一块特别适合你的，快来啊！
 [Character(name="avg_134_ifrit_1#8$1",name2="char_180_amgoat_1#3",focus=1)]
-[name="伊芙利特"]......
+[name="伊芙利特"]……
 [Character(name="avg_134_ifrit_1#4$1",name2="char_180_amgoat_1#3",focus=1)]
 [name="伊芙利特"]你也别玩了！快点干活！！
 [Dialog]
@@ -308,22 +308,22 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_134_ifrit_1#6$1")]
-[name="伊芙利特"]唉......
-[name="伊芙利特"]地质怎样我不懂，但这次队长是我，你们得听我指挥！你们的安全也由我负责......算我拜托你们，赶紧把工作做完行不？
+[name="伊芙利特"]唉……
+[name="伊芙利特"]地质怎样我不懂，但这次队长是我，你们得听我指挥！你们的安全也由我负责……算我拜托你们，赶紧把工作做完行不？
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]特别是你黑耳朵！没有本队长的允许不许再乱跑了！
 [Character(name="char_388_mint_1#1")]
 [name="薄绿"]是！保证听从队长命令！
 [name="薄绿"]对了，伊芙利特，这个给你！
 [Character(name="avg_134_ifrit_1#2$1")]
-[name="伊芙利特"]这什么东西......
+[name="伊芙利特"]这什么东西……
 [Character(name="char_388_mint_1#2")]
 [name="薄绿"]我在这边捡到的矿石，你看这个红色，是不是很适合你？
 [name="薄绿"]嘿嘿，送给你！
 [Character(name="avg_134_ifrit_1#8$1")]
-[name="伊芙利特"]哼......哼！不就是块石头......
+[name="伊芙利特"]哼……哼！不就是块石头……
 [Character(name="char_388_mint_1#5")]
-[name="薄绿"]你不喜欢吗？真的很衬你呀......
+[name="薄绿"]你不喜欢吗？真的很衬你呀……
 [Character(name="avg_134_ifrit_1#1$1")]
 [name="伊芙利特"]行、行了，我又没说不要！干嘛那副表情！
 [name="伊芙利特"]还不快拿来！
@@ -350,7 +350,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Character(name="char_388_mint_1#4")]
-[name="薄绿"]怎么感觉，有点冷起来了......
+[name="薄绿"]怎么感觉，有点冷起来了……
 [Character(name="avg_134_ifrit_1#1$1")]
 [name="伊芙利特"]我们还要再往里走吗？这洞穴到底有多深啊？
 [Character(name="char_180_amgoat_1#1")]
@@ -364,14 +364,14 @@
 [Character(name="avg_134_ifrit_1#2$1")]
 [name="伊芙利特"]能分析出啥？
 [Character(name="char_180_amgoat_1#1")]
-[name="艾雅法拉"]很多，我们这次主要是观察这里的地层是否稳定，还有要做和天灾相关的评估......
+[name="艾雅法拉"]很多，我们这次主要是观察这里的地层是否稳定，还有要做和天灾相关的评估……
 [Character(name="char_388_mint_1#1")]
 [name="薄绿"]说到这个，我也有一个在意的地方。
 [name="薄绿"]这一路上，地面上能看到不少碎裂的矿石，应该是从这边山体的裂隙掉落的。
-[name="薄绿"]好奇怪，正常情况下，应该不会产生这么多裂缝才对......
+[name="薄绿"]好奇怪，正常情况下，应该不会产生这么多裂缝才对……
 [Character(name="char_180_amgoat_1#1")]
 [name="艾雅法拉"]确实，不应该是这样。
-[name="艾雅法拉"]......
+[name="艾雅法拉"]……
 [name="艾雅法拉"]你说的裂缝，我想去看一看。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -382,11 +382,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_134_ifrit_1#8$1")]
-[name="伊芙利特"]......
-[name="伊芙利特"]呼......哈啊......
+[name="伊芙利特"]……
+[name="伊芙利特"]呼……哈啊……
 [Character(name="char_344_beewax_1")]
 [name="蜜蜡"]伊芙利特，你刚刚打了第十一个哈欠。
-[name="蜜蜡"]艾雅法拉和薄绿应该还要一段时间，如果你很困的话，可以来和我靠在一起......
+[name="蜜蜡"]艾雅法拉和薄绿应该还要一段时间，如果你很困的话，可以来和我靠在一起……
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]烦，都说了不要了！
 [name="伊芙利特"]这趟博士特地叮嘱我要照顾好你们几个，哼，小菜一碟，博士太小瞧我了！
@@ -395,16 +395,16 @@
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]你少瞎说，谁紧张了！
 [name="伊芙利特"]我这叫负责！负责懂吗！
-[name="伊芙利特"]我们俩都是护卫，你也给我精神点，到时候别拖后腿......
+[name="伊芙利特"]我们俩都是护卫，你也给我精神点，到时候别拖后腿……
 [Dialog]
 [CameraShake(duration=1, xstrength=30, ystrength=30, vibrato=60, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$smallearthquake", volume=0.7)]
 [delay(time=3)]
 [Character(name="avg_134_ifrit_1#2$1")]
-[name="伊芙利特"]......嗯？
+[name="伊芙利特"]……嗯？
 [name="伊芙利特"]你有没有听到什么声音？
 [Character(name="char_344_beewax_1")]
-[name="蜜蜡"]嗯......从刚刚起，就不是很安稳的感觉。
+[name="蜜蜡"]嗯……从刚刚起，就不是很安稳的感觉。
 [name="蜜蜡"]越来越接近了。
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]——出来了！
@@ -420,7 +420,7 @@
 [Delay(time=1)]
 [Character(name="char_180_amgoat_1#4")]
 [name="艾雅法拉"]这里的几个裂口太大了！这根本不可能是自然形成的！
-[name="艾雅法拉"]还有这个数据结果......
+[name="艾雅法拉"]还有这个数据结果……
 [name="艾雅法拉"]我知道了！是源石虫群！
 [name="艾雅法拉"]这里的矿石层比其他地方更疏松，是因为有数量可观的源石虫群在这里繁衍！
 [name="艾雅法拉"]还有偏低的温度和较高的湿度都可以从这个方向找到解释，从这个结果来看，这里、这里的岩层很可能已经变得非常不稳定了！
@@ -473,7 +473,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="avg_134_ifrit_1#4$1")]
-[name="伊芙利特"]啧，没完没了......烦死人了！
+[name="伊芙利特"]啧，没完没了……烦死人了！
 [name="伊芙利特"]这可是你们自找的——
 [Dialog]
 [PlaySound(key="$d_avg_magic_2")]
@@ -498,31 +498,31 @@
 [Delay(time=1)]
 [Character(name="char_388_mint_1#4")]
 [name="薄绿"]伊芙利特烧焦了一大群！但是数量还是很多！
-[name="薄绿"]啊！它们又追上来了！这种源石虫的习性就是这样......会一直追击入侵者！
+[name="薄绿"]啊！它们又追上来了！这种源石虫的习性就是这样……会一直追击入侵者！
 [Character(name="char_180_amgoat_1#4")]
-[name="艾雅法拉"]呼......哈......
+[name="艾雅法拉"]呼……哈……
 [Character(name="avg_134_ifrit_1#8$1")]
 [name="伊芙利特"]喂，慢吞吞的小羊！你还撑得住吗？不行就说，我扛着你走！
 [Character(name="char_180_amgoat_1#3")]
-[name="艾雅法拉"]慢吞吞......小、小羊？！是说我吗......？
+[name="艾雅法拉"]慢吞吞……小、小羊？！是说我吗……？
 [Character(name="avg_134_ifrit_1#8$1")]
 [name="伊芙利特"]除了你还有谁？
 [Character(name="char_180_amgoat_1#3")]
-[name="艾雅法拉"]我......咳咳，还好......
+[name="艾雅法拉"]我……咳咳，还好……
 [Character(name="char_344_beewax_1")]
-[name="蜜蜡"]我的沙土也没有办法阻拦太久......嗯，伤脑筋了......
+[name="蜜蜡"]我的沙土也没有办法阻拦太久……嗯，伤脑筋了……
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]混蛋，我受不了了！
 [name="伊芙利特"]让我来看看到底还能有多少虫子，来多少我就烧多少！
 [Character(name="char_180_amgoat_1#4")]
-[name="艾雅法拉"]哈......等一等，伊芙利特！
-[name="艾雅法拉"]别再用你的源石技艺了！这里的岩层结构不够稳定，而你的火焰......太强烈了。
+[name="艾雅法拉"]哈……等一等，伊芙利特！
+[name="艾雅法拉"]别再用你的源石技艺了！这里的岩层结构不够稳定，而你的火焰……太强烈了。
 [Character(name="avg_134_ifrit_1#2$1")]
 [name="伊芙利特"]会怎么样？
 [Character(name="char_180_amgoat_1#1")]
-[name="艾雅法拉"]如果不好好控制的话，很有可能......会导致坍塌！
+[name="艾雅法拉"]如果不好好控制的话，很有可能……会导致坍塌！
 [Character(name="avg_134_ifrit_1#7$1")]
-[name="伊芙利特"]......
+[name="伊芙利特"]……
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]一会你们先走，我留下来对付这些源石虫！
 [Character(name="char_180_amgoat_1#4")]
@@ -534,18 +534,18 @@
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]这次任务你们该听我的！
 [Character(name="char_180_amgoat_1#1")]
-[name="艾雅法拉"]可是......
+[name="艾雅法拉"]可是……
 [Character(name="avg_134_ifrit_1#3$1")]
 [name="伊芙利特"]干嘛，你们该不会以为我是要当什么电影里的孤胆英雄吧？哼，赫默自从看了几部那种片子，就天天和我骂里面的主角是傻子。
 [name="伊芙利特"]我才不当傻子！
 [name="伊芙利特"]既然岩层不能烧，那我就控制住不烧不就行了！
 [Character(name="char_388_mint_1#1")]
-[name="薄绿"]有......道理？但是伊芙利特，你能控制得住吗？
+[name="薄绿"]有……道理？但是伊芙利特，你能控制得住吗？
 [Character(name="avg_134_ifrit_1#3$1")]
-[name="伊芙利特"]我可以！我一定会做到......
+[name="伊芙利特"]我可以！我一定会做到……
 [name="伊芙利特"]相信我。我说了，你们的安全都由我负责！
 [Character(name="char_344_beewax_1")]
-[name="蜜蜡"]......嗯，好。我相信你。
+[name="蜜蜡"]……嗯，好。我相信你。
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [Character(fadetime=0.5)]
@@ -572,7 +572,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Character(name="avg_134_ifrit_1#3$1")]
-[name="伊芙利特"]......都走光了。
+[name="伊芙利特"]……都走光了。
 [name="伊芙利特"]哈，总算可以放开手脚烧个痛快！
 [Dialog]
 [PlayMusic(intro="$tense_intro", key="$tense_loop", volume=0.4)]
@@ -603,10 +603,10 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="avg_134_ifrit_1#7$1")]
-[name="伊芙利特"]......
+[name="伊芙利特"]……
 [Character(name="avg_134_ifrit_1#4$1")]
 [name="伊芙利特"]那又怎么样，我能保护她们！
-[name="伊芙利特"]我不会，再伤到我的同伴......我的、朋友......！
+[name="伊芙利特"]我不会，再伤到我的同伴……我的、朋友……！
 [Dialog]
 [PlaySound(key="$d_avg_originiumcastshort")]
 [delay(time=2)]
@@ -631,7 +631,7 @@
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=2)]
-[name="塞雷娅"]伊芙利特......
+[name="塞雷娅"]伊芙利特……
 [Dialog]
 [delay(time=1)]
 [name="塞雷娅"]对不起。
@@ -666,7 +666,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.3, block=true)]
 [Delay(time=1)]
 [Character(name="avg_134_ifrit_1#4$1")]
-[name="伊芙利特"]这些火不再听你的话乱来......它们会听我号令，它们属于我！
+[name="伊芙利特"]这些火不再听你的话乱来……它们会听我号令，它们属于我！
 [name="伊芙利特"]我迟早会彻底把你干掉！你就等着吧！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -683,10 +683,10 @@
 [Character(name="avg_134_ifrit_1#6$1",name2="avg_242_otter_1#3$1",focus=1)]
 [name="伊芙利特"]我又没受伤，真搞不懂有什么好检查的。
 [Character(name="char_016_medic")]
-[name="医疗干员"]火烧了一整个洞窟，还联合其他干员一起使用源石技艺，差点把洞口填平......
+[name="医疗干员"]火烧了一整个洞窟，还联合其他干员一起使用源石技艺，差点把洞口填平……
 [name="医疗干员"]你们哪里来的这么大的胆子！
 [Character(name="avg_134_ifrit_1#6$1",name2="avg_242_otter_1#3$1",focus=1)]
-[name="伊芙利特"]嘁，怎么连你都知道了......
+[name="伊芙利特"]嘁，怎么连你都知道了……
 [name="伊芙利特"]别让我知道到底是谁告的密，又没什么大不了的，有什么好到处说的啊！
 [Character(name="avg_134_ifrit_1#6$1",name2="avg_242_otter_1#4$1",focus=2)]
 [name="梅尔"]别这么说，听起来还是挺刺激的。
@@ -696,38 +696,38 @@
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_242_otter_1#4$1",focus=1)]
 [name="伊芙利特"]呃。
 [Character(name="char_016_medic")]
-[name="医疗干员"]你知道这有多危险吗！万一......万一......
+[name="医疗干员"]你知道这有多危险吗！万一……万一……
 [Character(name="avg_134_ifrit_1#8$1",name2="avg_242_otter_1#4$1",focus=1)]
 [name="伊芙利特"]这不是没事吗！你别老是念叨我，这次我特别小心了！
 [name="伊芙利特"]你说回来要来检查，我也来了，还要怎样！
 [Character(name="char_016_medic")]
-[name="医疗干员"]你啊......
+[name="医疗干员"]你啊……
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_242_otter_1#4$1",focus=1)]
 [name="伊芙利特"]所以别告诉赫默行吗！别告诉她！
 [Character(name="avg_134_ifrit_1#1$1",name2="avg_242_otter_1#4$1",focus=2)]
 [name="梅尔"]哦哟，现在倒是知道怕了？
 [Character(name="avg_134_ifrit_1#7$1",name2="avg_242_otter_1#4$1",focus=1)]
-[name="伊芙利特"]不是怕！我就是......那什么，不想让赫默担心而已。
+[name="伊芙利特"]不是怕！我就是……那什么，不想让赫默担心而已。
 [name="伊芙利特"]也不知道赫默什么时候能回来，要是塞雷娅也能一起回来就好了。
 [Character(name="avg_134_ifrit_1#7$1",name2="avg_242_otter_1#1$1",focus=2)]
-[name="梅尔"]嗯......她们嘛，事情解决了自然就会回来的。
+[name="梅尔"]嗯……她们嘛，事情解决了自然就会回来的。
 [Character(name="avg_134_ifrit_1#9$1",name2="avg_242_otter_1#1$1",focus=1)]
 [name="伊芙利特"]那——！
 [Character(name="avg_134_ifrit_1#9$1",name2="avg_242_otter_1#1$1",focus=2)]
 [name="梅尔"]先声明，别问我是什么事啊。我也不知道。
-[name="梅尔"]那一圈的破事我都懒得管，什么都不问才能保清净，我改装我的咪波都嫌时间不够，才不想管其他的......
+[name="梅尔"]那一圈的破事我都懒得管，什么都不问才能保清净，我改装我的咪波都嫌时间不够，才不想管其他的……
 [name="梅尔"]伊芙利特，这段时间你也听话一点，博士应该和你说了，接下来不许你再出去了吧？
 [Character(name="avg_134_ifrit_1#7$1",name2="avg_242_otter_1#1$1",focus=1)]
-[name="伊芙利特"]......说了。
+[name="伊芙利特"]……说了。
 [Character(name="char_016_medic")]
 [name="医疗干员"]再过几天，我们也要进入哥伦比亚了，到时候你可千万不能再乱来了！
 [Character(name="avg_134_ifrit_1#7$1",name2="avg_242_otter_1#1$1",focus=1)]
 [name="伊芙利特"]行了，知道啦！
-[name="伊芙利特"]赫默和我说了她要做的事......我不会给赫默还有塞雷娅她们添麻烦的。
+[name="伊芙利特"]赫默和我说了她要做的事……我不会给赫默还有塞雷娅她们添麻烦的。
 [Character(name="avg_134_ifrit_1#7$1",name2="avg_242_otter_1#4$1",focus=2)]
 [name="梅尔"]嗯嗯，看来你真的长大了。
 [Character(name="avg_134_ifrit_1#3$1",name2="avg_242_otter_1#4$1",focus=1)]
-[name="伊芙利特"]哼哼，等着瞧吧，总有一天......我会变得很可靠！
+[name="伊芙利特"]哼哼，等着瞧吧，总有一天……我会变得很可靠！
 [name="伊芙利特"]到时候，赫默也不会老是担心我，再有什么麻烦事，也会考虑让我帮忙！
 [Character(name="avg_134_ifrit_1#5$1",name2="avg_242_otter_1#4$1",focus=1)]
 [name="伊芙利特"]“伊芙利特，帮帮我们！”

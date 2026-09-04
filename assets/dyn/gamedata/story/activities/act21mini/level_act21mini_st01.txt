@@ -10,7 +10,7 @@
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$2",bstart=0.3,bend=0.6,duration=1.5)]
 [delay(time=2.5)]
 [name="？？？"]所以，这就是最后的故事了。
-[name="？？？"]我为这样的结局感到遗憾......对不起，你的遭遇，是我唯一遗憾的事。
+[name="？？？"]我为这样的结局感到遗憾……对不起，你的遭遇，是我唯一遗憾的事。
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$2",bstart=0.3,bend=0.6,focus="none")]
 [name="米格鲁"]没有关系，我并不会后悔自己的选择。
 [name="米格鲁"]我现在到底是在哪里？
@@ -18,11 +18,11 @@
 [name="？？？"]这里是容你的灵魂休憩的地方，你的意识暂时不会消散。
 [name="？？？"]只是你无论如何，再也不能离开这里了。
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$2",bstart=0.3,bend=0.6,focus="none")]
-[name="米格鲁"]再也不能......离开......
+[name="米格鲁"]再也不能……离开……
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$2",bstart=0.3,bend=0.6,focus="m")]
-[name="？？？"]我很抱歉......
+[name="？？？"]我很抱歉……
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$2",bstart=0.3,bend=0.6,focus="none")]
-[name="米格鲁"]......
+[name="米格鲁"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -34,21 +34,21 @@
 祂的血液化作溪流，让枯瘦的平原变得丰饶，无边无际。
 到底是什么把自己困在这里的呢？
 是这片土地上三百年的淫雨，还是持续了二十年的热病，又或是一整个夏天迟迟未醒的梦？
-......
+……
 [Dialog]
 [Delay(time=3)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=2)]
 [name="？？？"]谢谢你们帮忙。我一个人的话实在是没法把她背到这里来。
 [name="？？？"]好像有什么东西掉了？这个是她随身带着的证件吗？我看看。
-[name="？？？"]哥伦比亚警备队后备员，物流安保公司武装押运人员资质，吉莉安·阿兰达......照片上的人应该就是她。
+[name="？？？"]哥伦比亚警备队后备员，物流安保公司武装押运人员资质，吉莉安·阿兰达……照片上的人应该就是她。
 [name="？？？"]啊，你醒了，你还好吗？你好像做了噩梦，看起来很痛苦。
 [Dialog]
 [focusout(duration=3, type="bg", from=1, to=0, block=true)]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot = "m", name = "avg_npc_2321_1#3$2",duration=1.5)]
 [delay(time=2.5)]
-[name="吉莉安"]我还好，谢谢你。那个，不好意思，请问......
+[name="吉莉安"]我还好，谢谢你。那个，不好意思，请问……
 [Dialog]
 [charslot]
 这是个陌生的房间，少女发现自己躺在一张精美的沙发上，盖着轻柔却不失温暖的小毯子。
@@ -64,7 +64,7 @@
 [charslot(slot="r",name = "avg_4229_aphris_1#1$2",focus="r")]
 [name="？？？"]叫我洛伦茨就好。你是吉莉安小姐对吗？抱歉私自查看了一下你身上的证件。
 [charslot(slot="l",name= "avg_npc_2321_1#11$2",focus="l")]
-[name="吉莉安"]嗯......我想是的。老实说，我还有点混乱，感觉自己好像不知道怎么就倒下了。
+[name="吉莉安"]嗯……我想是的。老实说，我还有点混乱，感觉自己好像不知道怎么就倒下了。
 [charslot(slot="r",name = "avg_4229_aphris_1#1$2",focus="r")]
 [name="洛伦茨"]不要勉强自己，吉莉安小姐。你看起来状态不是很好，不如在我这里休息几天吧。
 [charslot(slot="l",name= "avg_npc_2321_1#9$2",focus="l")]
@@ -72,8 +72,8 @@
 [charslot(slot="r",name = "avg_4229_aphris_1#1$2",focus="r")]
 [name="洛伦茨"]吉莉安小姐有什么急事要走吗？
 [charslot(slot="l",name= "avg_npc_2321_1#9$2",focus="l")]
-[name="吉莉安"]这倒是没有......只是年初时我工作的物流公司突然就倒闭了，只好出来想办法碰碰运气找个工作。
-[name="吉莉安"]本来听说这两年联合政府的物流业发展得不错，可好像普遍又只收联合政府的公民，唉......
+[name="吉莉安"]这倒是没有……只是年初时我工作的物流公司突然就倒闭了，只好出来想办法碰碰运气找个工作。
+[name="吉莉安"]本来听说这两年联合政府的物流业发展得不错，可好像普遍又只收联合政府的公民，唉……
 [charslot(slot="r",name = "avg_4229_aphris_1#1$2",focus="r")]
 [name="洛伦茨"]吉莉安小姐没去索雷城试试吗？这两年还扩建改名叫多索雷斯了。
 [charslot(slot="l",name= "avg_npc_2321_1#5$2",focus="l")]
@@ -81,7 +81,7 @@
 [charslot(slot="r",name = "avg_4229_aphris_1#10$2",focus="r")]
 [name="洛伦茨"]那么，你有没有兴趣为我工作，运送一些货物呢，吉莉安小姐？
 [charslot(slot="l",name= "avg_npc_2321_1#9$2",focus="l")]
-[name="吉莉安"]为你工作是指......
+[name="吉莉安"]为你工作是指……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -211,7 +211,7 @@
 [charslot(slot="r",name= "avg_4229_aphris_1#15$2",focus="r")]
 [name="洛伦茨"]让你看到了一些不愉快的东西，吉莉安小姐。不过我猜，这比起由我为你组织语言说明要更有说服力一些。
 [charslot(slot="l",name= "avg_npc_2321_1#3$1",focus="l")]
-[name="吉莉安"]......
+[name="吉莉安"]……
 [charslot(slot="r",name= "avg_4229_aphris_1#8$2",focus="r")]
 [name="洛伦茨"]外面应该忙得差不多了，我还得去处理一下。你可以自便。
 [Dialog]
@@ -261,7 +261,7 @@
 [name="种植园工人"]埃玛？埃玛！你还好吗，埃玛！
 [Dialog]
 [charslot]
-[name="种植园工人"]......
+[name="种植园工人"]……
 [Dialog]
 [charslot(slot="m",name= "avg_npc_2324_1#1$1",focus="m")]
 [name="种植园工人"]埃玛？醒醒，别离开我们好吗，埃玛！
@@ -270,7 +270,7 @@
 [PlaySound(key="$rungeneral", volume=1)]
 [charslot(slot="m",name= "avg_npc_2321_1#11$1",duration=1.5)]
 [delay(time=2.5)]
-[name="吉莉安"]请问有什么我能帮忙的吗？她看上去不太好......
+[name="吉莉安"]请问有什么我能帮忙的吗？她看上去不太好……
 [charslot(slot="m",name= "avg_npc_2324_1#1$1",focus="m")]
 [name="种植园工人"]你是医生吗？
 [name="种植园工人"]哈哈，我当然看得出来，你不是。你什么也帮不了。
@@ -280,7 +280,7 @@
 [name="种植园工人"]不，你不明白。你走吧。
 [name="种植园工人"]埃玛？你不是说要赚够钱回家跟孩子一起换个地方碰碰运气，你怎么可以丢下她？
 [charslot(slot="m",name= "avg_npc_2321_1#9$1",focus="m")]
-[name="吉莉安"]别这样，我们现在送她去医院的话，或许还来得及......
+[name="吉莉安"]别这样，我们现在送她去医院的话，或许还来得及……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_armyboots_walk", volume=1)]
@@ -300,10 +300,10 @@
 [PlaySound(key="$d_gen_soldiersrun", volume=1)]
 [delay(time=3.5)]
 [charslot(slot="m",name= "avg_4229_aphris_1#15$2",focus="m")]
-[name="洛伦茨"]抱歉，埃玛。我会按先前的约定额外寄去一笔费用......
+[name="洛伦茨"]抱歉，埃玛。我会按先前的约定额外寄去一笔费用……
 [name="洛伦茨"]抱歉，胡安。我无能为力。
 [charslot(slot="m",name= "avg_npc_2324_1#1$1",focus="m")]
-[name="胡安"]你不用道歉，埃玛她也明白的......
+[name="胡安"]你不用道歉，埃玛她也明白的……
 [charslot(slot="m",name= "avg_npc_418_1#1$1",focus="m")]
 [name="种植园工人"]两位小姐，请回避吧，不要再刺激埃玛和胡安了。
 [Dialog]
@@ -346,10 +346,10 @@
 [charslot(slot="l",name= "avg_npc_2321_1#11$1",focus="l")]
 [name="吉莉安"]你是说，这些化肥有毒性？那为什么不让他们做防护措施？
 [charslot(slot="r",name= "avg_4229_aphris_1#15$2",focus="r")]
-[name="洛伦茨"]......我们能够想到的，哥伦比亚的技术人员都已经想过，试过了。数种防护方案对疾病的防治都没有效果。
+[name="洛伦茨"]……我们能够想到的，哥伦比亚的技术人员都已经想过，试过了。数种防护方案对疾病的防治都没有效果。
 [name="洛伦茨"]甚至连这种物质的增产原理和致病原理都无法探明。它甚至只在玻利瓦尔的土地上生效，也几乎只伤害照料那些植株的人。
 [charslot(slot="l",name= "avg_npc_2321_1#11$1",focus="l")]
-[name="吉莉安"]为什么？为什么会用这种根本没有掌握的东西......
+[name="吉莉安"]为什么？为什么会用这种根本没有掌握的东西……
 [charslot(slot="r",name= "avg_4229_aphris_1#5$2",focus="r")]
 [name="洛伦茨"]我以为吉莉安小姐对此应该也不陌生，我们难道真的了解源石和矿石病吗？
 [charslot(slot="l",name= "avg_npc_2321_1#4$1",focus="l")]
@@ -366,7 +366,7 @@
 [name="洛伦茨"]你或许无法想象，有多少流离失所的玻利瓦尔人可以为了让家人活下去，走进种植园拿命来交换酬劳。
 [name="洛伦茨"]甚至还有许多无依无靠，只是突然决定要在饿死之前赚一大笔挥霍一下，然后就去死的人。
 [charslot(slot="l",name= "avg_npc_2321_1#11$1",focus="l")]
-[name="吉莉安"]可这是不对的——我是说，你和他们都需要求救，需要被帮助，而不是，而不是......
+[name="吉莉安"]可这是不对的——我是说，你和他们都需要求救，需要被帮助，而不是，而不是……
 [charslot(slot="r",name= "avg_4229_aphris_1#11$2",focus="r")]
 [name="洛伦茨"]没有人会来。联合政府的种植园，与其使用的化肥是完全“合法合规”的。
 [name="洛伦茨"]联合政府声称，他们“无权”干涉人们在市场竞争中为了自己的合法利益选择使用高危化学制品的自由。
@@ -374,7 +374,7 @@
 [name="洛伦茨"]所以，请帮助我，吉莉安小姐。这也是我原本希望雇佣你做的，替我采购和运输那些补足差额的作物。
 [PlaySound(key="$d_avg_tinnitus_loop",channel="a",loop=true,volume=0)]
 [charslot(slot="l",name= "avg_npc_2321_1#9$1",focus="l")]
-[name="吉莉安"]不，可是......
+[name="吉莉安"]不，可是……
 [Dialog]
 [SoundVolume(volume=0.5, channel="a",fadetime=1)]
 [focusout(duration=2, type="bg", from=0, to=1, block=false)]
@@ -421,16 +421,16 @@
 [delay(time=2.5)]
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$2",bstart=0.3,bend=0.6,duration=1.5)]
 [delay(time=2.5)]
-[name="？？？"]不，还有一个可能，猎犬在这两年的数量增长惊人，她或许就是在外面被猎犬伤到才会......
+[name="？？？"]不，还有一个可能，猎犬在这两年的数量增长惊人，她或许就是在外面被猎犬伤到才会……
 [Dialog]
 [charslot(duration=1.5)]
 [delay(time=2.5)]
 [PlaySound(key="$d_avg_angrydog")]
 [delay(time=1.5)]
 ——有什么东西过来了？
-是猎犬......对，猎犬！
+是猎犬……对，猎犬！
 我怎么会忘了这件事，在我来的路上，无意中发现了那些正在装填炸药准备袭击这里的人。
-他们没能找到我，但我被他们的猎犬抓到了，然后......
+他们没能找到我，但我被他们的猎犬抓到了，然后……
 [Dialog]
 [Sticker(id="st1", multi = true, text="<color=#d41f1f>现在，猎犬要来了——</color>", x=300,y=300, alignment="center", size=24, delay=0.0001, width=700,duration=1.3,block = true)]
 [Sticker(id="st1",duration=1.3)]
@@ -450,7 +450,7 @@
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_2325_1#1$1",bstart=0.3,bend=0.6,duration=1.5)]
 [delay(time=2.5)]
-[name="？？？"]......
+[name="？？？"]……
 [Dialog]
 [charslot(duration=1.5)]
 [delay(time=2.5)]
@@ -476,7 +476,7 @@
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$2",bstart=0.3,bend=0.6,duration=1.5)]
 [delay(time=2.5)]
-[name="？？？"]唔......
+[name="？？？"]唔……
 [Dialog]
 [charslot(duration=1.5)]
 [delay(time=2.5)]
@@ -500,9 +500,9 @@
 [delay(time=2.5)]
 [name="吉莉安"]你们为什么要做这种事情？！
 [charslot(slot="m",name= "avg_npc_2324_1#1$1",focus="m")]
-[name="胡安"]埃玛，为什么会这样......我还没想好怎么和小贝拉说......
-[name="胡安"]我不敢带你回去见她，也不知道怎么开口讲，我可以当她的爸爸照顾她......
-[name="胡安"]可现在......你这不是，只剩下一条手臂了吗......我该怎么和她讲......
+[name="胡安"]埃玛，为什么会这样……我还没想好怎么和小贝拉说……
+[name="胡安"]我不敢带你回去见她，也不知道怎么开口讲，我可以当她的爸爸照顾她……
+[name="胡安"]可现在……你这不是，只剩下一条手臂了吗……我该怎么和她讲……
 [Dialog]
 [charslot]
 木板的焦煳味，烟草的焦煳味，脂肪的焦煳味。
@@ -510,7 +510,7 @@
 你也与我们一同前进。
 你会看见，真正的旗帜在飘扬。
 [charslot(slot="m",name= "avg_npc_2321_1#4$1",focus="m")]
-[name="吉莉安"]......你们这帮杀害同胞的凶手，凭什么在这里歌唱团结！
+[name="吉莉安"]……你们这帮杀害同胞的凶手，凭什么在这里歌唱团结！
 [charslot(slot="m",name= "avg_npc_2322_1#1$1",focus="m")]
 [name="真正玻利瓦尔人游击队员A"]同胞？假玻利瓦尔人当然不是我们的同胞，你也一样。
 [charslot(slot="m",name= "avg_npc_2323_1#1$1",focus="m")]
@@ -531,7 +531,7 @@
 [charslot(slot="m",name= "avg_npc_2322_1#1$1",focus="m")]
 [name="真正玻利瓦尔人游击队员A"]看来剩下的都是些不怕死和不想活的了。
 [charslot(slot="m",name= "avg_npc_2324_1#2$1",focus="m")]
-[name="胡安"]埃玛......
+[name="胡安"]埃玛……
 [charslot(slot="m",name= "avg_npc_2321_1#8$1",focus="m")]
 [name="吉莉安"]他们有什么错？他们想找一份能活下去的生计，难道错了吗？
 [charslot(slot="m",name= "avg_npc_2322_1#1$1",focus="m")]
@@ -566,7 +566,7 @@
 [name="真正玻利瓦尔人游击队员A"]还有我说，你还是别那样硬撑着了吧，何必呢。
 [name="真正玻利瓦尔人游击队员A"]怎么，就为了让一个哥伦比亚人和一个假玻利瓦尔人多喘两口气吗？
 [charslot(slot="m",name= "avg_4229_aphris_1#15$2",focus="m")]
-[name="洛伦茨"]吉莉安小姐，你不用......
+[name="洛伦茨"]吉莉安小姐，你不用……
 [charslot(slot="m",name= "avg_npc_2321_1#8$2",focus="m")]
 [name="吉莉安"]我不理解，救人难道是错的吗？让更多无辜的人活下去难道是错的吗？
 [charslot(slot="m",name= "avg_npc_2323_1#1$1",focus="m")]
@@ -586,23 +586,23 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name= "avg_4234_pedro_1#2$2",duration=1.5)]
 [delay(time=2.5)]
-[name="真正玻利瓦尔人游击队新兵"]......
+[name="真正玻利瓦尔人游击队新兵"]……
 [charslot(slot="m",name= "avg_4234_pedro_1#2$2",focus="none")]
 [name="洛伦茨"]哈哈，这大概就是，我的报应吧。我的腿被废墟卡住了，跑不掉了。
 [charslot(slot="m",name= "avg_4234_pedro_1#2$2",focus="none")]
 [name="洛伦茨"]就算你们容不下吉莉安小姐，但是，至少，至少救救胡安，放过他，他没有做错什么。
 [charslot(slot="m",name= "avg_npc_2324_1#2$1",focus="m")]
-[name="胡安"]我不走......埃玛，我得带埃玛走，可我带不走她......她被瓦砾压住了......
+[name="胡安"]我不走……埃玛，我得带埃玛走，可我带不走她……她被瓦砾压住了……
 [charslot(slot="m",name= "avg_4234_pedro_1#2$2",focus="m")]
 [name="真正玻利瓦尔人游击队新兵"]他似乎没有要走的意思。
 [charslot(slot="m",name= "avg_4234_pedro_1#2$2",focus="none")]
-[name="吉莉安"]别这样，胡安......埃玛不会希望你这样......
+[name="吉莉安"]别这样，胡安……埃玛不会希望你这样……
 [charslot(slot="m",name= "avg_npc_2324_1#2$1",focus="m")]
 [name="胡安"]我不要，我不走！
 [charslot(slot="m",name= "avg_npc_2324_1#2$1",focus="none")]
-[name="洛伦茨"]不，不要辜负埃玛，不要辜负吉莉安小姐......
+[name="洛伦茨"]不，不要辜负埃玛，不要辜负吉莉安小姐……
 [charslot(slot="m",name= "avg_npc_2324_1#2$1",focus="none")]
-[name="吉莉安"]你们这些家伙，要是还有点人性的话就救救......呃......
+[name="吉莉安"]你们这些家伙，要是还有点人性的话就救救……呃……
 [Dialog]
 [charslot]
 [PlaySound(key="$a_bat_buildingshaking_2", volume=1)]
@@ -636,8 +636,8 @@
 [CameraShake(duration=0.7, xstrength=30, ystrength=30, vibrato=15, randomness=90, fadeout=true, block=false)]
 [Delay(time=1)]
 [charslot]
-[name="洛伦茨"]谢谢你......
-[name="吉莉安"]......
+[name="洛伦茨"]谢谢你……
+[name="吉莉安"]……
 [charslot(slot="m",name= "avg_4234_pedro_1#4$2",focus="m")]
 [name="真正玻利瓦尔人游击队新兵"]我做不了更多，而且他就算活下来也未必会有什么好事等着他。
 [charslot(slot="m",name= "avg_npc_2323_1#1$1",focus="m")]
@@ -668,7 +668,7 @@
 [name="真正玻利瓦尔人游击队新兵"]所以那边的两个，现在已经都是死人了。我就算动手杀死她们，也不会让你们觉得有什么意思。
 [name="真正玻利瓦尔人游击队员B"]真是扫兴的玩意。新来的，你今天回去没有饭吃，还有，给我把厕所也扫了。
 [name="真正玻利瓦尔人游击队员A"]还想着等那帮联合政府的杂种都滚了才来，结果只有一群没劲的人跟事。早知道还不如打一架。
-[name="吉莉安"]......
+[name="吉莉安"]……
 [Dialog]
 [PlaySound(key="$d_avg_wolflordattack",channel="a")]
 [CameraShake(duration=3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]

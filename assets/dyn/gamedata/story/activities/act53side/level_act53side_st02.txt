@@ -8,21 +8,21 @@
 [playMusic(intro="$distressed_intro", key="$distressed_loop", volume=0.6)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [playsound(key="$d_avg_paper2")]
-[Sticker(id="st1", text="\n起初，那只是一种模糊的感觉，在我的信使工作出错的时候，我的法术失灵的时候，我有想说的话说不出口的时候......", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
+[Sticker(id="st1", text="\n起初，那只是一种模糊的感觉，在我的信使工作出错的时候，我的法术失灵的时候，我有想说的话说不出口的时候……", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st1", text="\n但很快，这种模糊的感觉就随着一件事，一件我恐怕永远无法忘记的事，变成了刺人的现实。", x=300,y=300, alignment="left", multi = true, size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st1", duration=0.5)]
 [Delay(time=1)]
 [Sticker(id="st1", text="\n罗德岛遭遇袭击，承载着我和许多人回忆的舰船被毁；一位极受爱戴的医生离去，那位医生对罗德岛的博士来说，是非常重要的人。", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
-[Sticker(id="st1", text="\n就算现在凯尔希医生已经回到我们身边，我仍然无数次想回到被要求离开罗德岛的那一天......", x=300,y=300, alignment="left", multi = true, size=24, delay=0.04, width=900,block = true)]
+[Sticker(id="st1", text="\n就算现在凯尔希医生已经回到我们身边，我仍然无数次想回到被要求离开罗德岛的那一天……", x=300,y=300, alignment="left", multi = true, size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st1", duration=0.5)]
 [Delay(time=1)]
 [Sticker(id="st1", text="\n选择留下，选择站在重要的人身边，选择去做让我自己不会留下遗憾的事。", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st1", text="\n我开始加倍刻苦地锻炼法术，却无论如何也做不到游刃有余，我加倍努力地完成信使的工作，却小错不断。", x=300,y=300, alignment="left", multi = true, size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st1", duration=0.5)]
 [Delay(time=1)]
-[Sticker(id="st1", text="\n我有很多很多想说的话，却不知道该如何开口......这个问题一直困扰着我。", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
+[Sticker(id="st1", text="\n我有很多很多想说的话，却不知道该如何开口……这个问题一直困扰着我。", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st1", text="\n我多想说服自己，我只是罗德岛一个普通患者兼见习术师，我只是一个不成熟的信使，我那些想说的话只是每个人脑子里都有的怪念头。", x=300,y=300, alignment="left", multi = true, size=24, delay=0.04, width=900,block = true)]
-[Sticker(id="st1", text="\n可我明明又不想这样。我讨厌这样。我觉得我本来可以做到更多，我可以飞到更高的地方......", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
+[Sticker(id="st1", text="\n可我明明又不想这样。我讨厌这样。我觉得我本来可以做到更多，我可以飞到更高的地方……", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st1", duration=1)]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -45,19 +45,19 @@
 [charslot(slot="r",name="avg_171_bldsk_1#9$1",focus="r")]
 [name="华法琳"]别这么拘谨。你的体检是我做的，我就来和你聊聊。
 [charslot(slot="l",name="avg_291_aglina_1#5$1",focus="l")]
-[name="安洁莉娜"]是......结果不乐观吗？
+[name="安洁莉娜"]是……结果不乐观吗？
 [charslot(slot="r",name="avg_171_bldsk_1#9$1",focus="r")]
 [name="华法琳"]恰恰相反，你的情况不算太糟，只要从现在开始干预，生存期和生存质量都是有保证的。
 [charslot(slot="l",name="avg_291_aglina_1#6$1",focus="l")]
-[name="安洁莉娜"]生存期......生存质量？
+[name="安洁莉娜"]生存期……生存质量？
 [charslot(slot="r",name="avg_171_bldsk_1#10$1",focus="r")]
-[name="华法琳"]啧，果然患者听了这种术语反应都不好......
+[name="华法琳"]啧，果然患者听了这种术语反应都不好……
 [Dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="她是说，你可以回归正常生活。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="l",name="avg_291_aglina_1#8$1",focus="l")]
-[name="安洁莉娜"]这位是......？
+[name="安洁莉娜"]这位是……？
 [charslot(slot="r",name="avg_171_bldsk_1#1$1",focus="r")]
 [name="华法琳"]博士？你不是正在和凯尔希她们开会吗？
 [Dialog]
@@ -66,7 +66,7 @@
 [Predicate(references="1;2")]
 [charslot(slot="r",name="avg_171_bldsk_1#7$1",focus="r")]
 [name="华法琳"]唉，行吧。我看看医疗部现在还有谁闲着，谁闲谁来给患者做宣教——
-[name="华法琳"]啧，都忙......
+[name="华法琳"]啧，都忙……
 [charslot(slot="l",name="avg_291_aglina_1#2$1",focus="l")]
 [name="安洁莉娜"]我没关系的！知道能回归正常生活就比什么都强了！
 [charslot(slot="r",name="avg_171_bldsk_1#1$1",focus="r")]
@@ -75,7 +75,7 @@
 [name="华法琳"]控制症状比控制感染加深简单，和逆转感染程度相比，控制感染加深又简单太多。
 [name="华法琳"]等我们研发出能逆转体细胞与源石融合程度的药物，那个时候，才算是真正在矿石病面前有了像样的武器。
 [charslot(slot="l",name="avg_291_aglina_1#2$1",focus="l")]
-[name="安洁莉娜"]为了那一天早点到来，我......可以帮忙吗？
+[name="安洁莉娜"]为了那一天早点到来，我……可以帮忙吗？
 [charslot(slot="r",name="avg_171_bldsk_1#9$1",focus="r")]
 [name="华法琳"]虽说行不行一般取决于人事部，但既然博士就在这儿，博士，你觉得呢？
 [Dialog]
@@ -103,35 +103,35 @@
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_171_bldsk_1#7$1",duration=0.5)]
 [Delay(time=1)]
-[name="华法琳"]......
+[name="华法琳"]……
 [Dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="上次见面，她的状况还很稳定。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_171_bldsk_1#10$1")]
-[name="华法琳"]因为急着开会，虽然宣教按流程做完了，但有关矿石病人施术的问题强调得还不够......
-[name="华法琳"]患者对感染者施术可能造成的后果没有概念，自告奋勇帮人搬东西，结果......激发的不是施术单元，而是自己体内的源石。
-[name="华法琳"]这样的事情以前在她身上发生过许多次，只是一直没有爆发，直到刚才......
+[name="华法琳"]因为急着开会，虽然宣教按流程做完了，但有关矿石病人施术的问题强调得还不够……
+[name="华法琳"]患者对感染者施术可能造成的后果没有概念，自告奋勇帮人搬东西，结果……激发的不是施术单元，而是自己体内的源石。
+[name="华法琳"]这样的事情以前在她身上发生过许多次，只是一直没有爆发，直到刚才……
 [charslot(slot="m",name="avg_171_bldsk_1#8$1")]
-[name="华法琳"]......是我的问题。
+[name="华法琳"]……是我的问题。
 [Dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="......不，是我催的你，我们都有责任。", values="1")]
+[Decision(options="……不，是我催的你，我们都有责任。", values="1")]
 [Predicate(references="1")]
 [charslot]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",duration=0.5)]
 [Delay(time=1)]
 [name="凯尔希"]现在不是抢着承担责任的时候。
 [charslot(slot="m",name="avg_171_bldsk_1#10$1")]
-[name="华法琳"]凯尔希医生......
+[name="华法琳"]凯尔希医生……
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]为了避免这样的问题再次发生，医疗部以后会严格考评患者宣教的完成程度。
 [charslot(slot="m",name="avg_171_bldsk_1#10$1")]
-[name="华法琳"]......嗯。
+[name="华法琳"]……嗯。
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]此外，我需要你评估一下患者预后。
 [charslot(slot="m",name="avg_171_bldsk_1#10$1")]
-[name="华法琳"]短期预后不良。患者体内的源石活性很高，尽管同化程度较轻，但稍有不慎......
+[name="华法琳"]短期预后不良。患者体内的源石活性很高，尽管同化程度较轻，但稍有不慎……
 [Dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="你是说只要挺过这关，她就能好起来？", values="1")]
@@ -151,7 +151,7 @@
 [Decision(options="可这位患者需要它。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
-[name="凯尔希"]......我赞同你的判断，但我们的时间很难谈得上充足。
+[name="凯尔希"]……我赞同你的判断，但我们的时间很难谈得上充足。
 [Dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="我会挤出时间。", values="1")]
@@ -177,7 +177,7 @@
 [name="凯尔希"]但我们绝不应该用模糊的话语给患者制造虚无缥缈的希望。
 [Dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="......抱歉。", values="1")]
+[Decision(options="……抱歉。", values="1")]
 [Predicate(references="1")]
 [stopmusic(fadetime=2)]
 [Dialog]
@@ -186,13 +186,13 @@
 [Delay(time=1)]
 我起先并不相信自己真的能好起来。
 上学时，我亲眼见过一个同学因病日渐虚弱。他是感染者的事实泄露时，家长们愤怒地冲到学校讨要说法。
-而我那时看着校园里的混乱，半是烦躁半是悲哀地想着，啊，果然是矿石病，怪不得他一天比一天衰弱，只能走向注定的结局......
+而我那时看着校园里的混乱，半是烦躁半是悲哀地想着，啊，果然是矿石病，怪不得他一天比一天衰弱，只能走向注定的结局……
 [Dialog]
 [Background(image="bg_rhodesinpatientcenter",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic( key="$calm_loop", volume=0.6)]
 [Delay(time=1)]
-......但我竟然真的好起来了。
+……但我竟然真的好起来了。
 几天后，我从危重病房转移到了住院中心的普通病房。
 腿部的结晶从入院前的一点点长到一眼可见，据说从此再也不可能消退了，可我其实并不那么在意。
 因为我住院时见过了结晶长在咽部的人如何失声。
@@ -246,14 +246,14 @@
 [Delay(time=0.25)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
-[name="安洁莉娜"]谢谢你......
+[name="安洁莉娜"]谢谢你……
 [name="Medic"]这不是我送的，是博士送的啦。
 [name="Medic"]采购部新进了一批新口味糖果，糖纸又很好看，博士就给医疗部的每个患者都送了些。
 [name="Medic"]还好我刚想起来你已经搬到了这边，不然就漏人啦，嘿嘿。
 [Dialog]
 [Image(image="76_i05_3",xScale=1, yScale=1,screenadapt="coverall",fadetime=1)]
 [Delay(time=1.5)]
-[name="安洁莉娜"]......嗯。
+[name="安洁莉娜"]……嗯。
 [Dialog]
 [PlaySound(key="$doorclosequite")] 
 [Delay(time=1.5)]
@@ -274,7 +274,7 @@ Medic离开之后，我剥开糖纸。
 [Delay(time=1)]
 [charslot(slot="m",name="char_187_ccheal_1#1",duration=1)]
 [Delay(time=1.5)]
-[name="嘉维尔"]......这不是完全不碍事了嘛！
+[name="嘉维尔"]……这不是完全不碍事了嘛！
 [name="嘉维尔"]你的症状已经完全缓解，感染也进入了稳定期。按我们感染者的标准来说，你已经算是好啦。
 [name="嘉维尔"]除了按时用药，以及不要擅自施术之外，医疗部对你没有更多限制了。作为庆祝，要不要来扳个手腕？
 [Dialog]
@@ -287,7 +287,7 @@ Medic离开之后，我剥开糖纸。
 [name="杜宾"]通过。
 [name="杜宾"]恭喜你，安洁莉娜干员，你的施术已经完全不会牵动体内的活性源石，换句话说，今后你可以自由施术了。
 [name="杜宾"]至于测试中磕磕绊绊的部分，重力操纵的确是相当罕见且有潜力的源石技艺，感到困难是正常的。
-[name="杜宾"]关于你今后的训练，我推荐咨询以下几位术师干员......
+[name="杜宾"]关于你今后的训练，我推荐咨询以下几位术师干员……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -307,7 +307,7 @@ Medic离开之后，我剥开糖纸。
 [PlaySound(key="$bodyfalldown3")]
 [name="可颂"]哎呀！
 [charslot(slot="m",name="char_201_moeshd#2")]
-[name="可颂"]嘿嘿，没关系没关系。等哪天有新人来就可以怂恿他跟安洁莉娜比赛举重了，到时候只要全押安洁莉娜......
+[name="可颂"]嘿嘿，没关系没关系。等哪天有新人来就可以怂恿他跟安洁莉娜比赛举重了，到时候只要全押安洁莉娜……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -331,9 +331,9 @@ Medic离开之后，我剥开糖纸。
 [name="莱恩哈特"]哈哈，没人从一生下来就能当源石技艺大师的。放宽心放宽心。
 [charslot(slot="m",name="char_373_lionhd#1")]
 [name="莱恩哈特"]看你对业务的熟悉程度，似乎不是第一次跟天灾信使出任务？
-[name="莱恩哈特"]唔，普罗旺斯啊......难怪你这么熟练，那个人很有责任心的。单论责任心，说不定比艾尔斯还强一些......
+[name="莱恩哈特"]唔，普罗旺斯啊……难怪你这么熟练，那个人很有责任心的。单论责任心，说不定比艾尔斯还强一些……
 [charslot(slot="m",name="char_373_lionhd#5")]
-[name="莱恩哈特"]我是不是还没跟你讲为什么这次艾尔斯留在本舰了？来来来，我跟你讲，事情还要从他宿舍的电源插座说起......
+[name="莱恩哈特"]我是不是还没跟你讲为什么这次艾尔斯留在本舰了？来来来，我跟你讲，事情还要从他宿舍的电源插座说起……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -341,11 +341,11 @@ Medic离开之后，我剥开糖纸。
 [Background(image="bg_0_rhodes3",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-设身处地为患者着想的医生，最先考虑学员需求的教官，无论感染与否都能一同欢笑的朋友，脾气各异却又各有所长的同事......
+设身处地为患者着想的医生，最先考虑学员需求的教官，无论感染与否都能一同欢笑的朋友，脾气各异却又各有所长的同事……
 我是信使安洁莉娜，罗德岛的信使，安心院安洁莉娜。
 只要想起这件事，哪怕在楼群间冰冷的风中穿行整夜，胸膛处也总会保留一丝暖意。
 罗德岛真的是个温暖得过分的地方，我想。
-罗德岛甚至愿意为了一个尚且不够格预警天灾的信使，一个严格意义上还处在实习状态的干员，去和难缠的家族接洽......
+罗德岛甚至愿意为了一个尚且不够格预警天灾的信使，一个严格意义上还处在实习状态的干员，去和难缠的家族接洽……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -359,7 +359,7 @@ Medic离开之后，我剥开糖纸。
 [playMusic(key="$saferoom_loop", volume=0.6)]
 [charslot(slot="m",name="avg_291_aglina_1#1$1",duration=1)]
 [delay(time=2)]
-[name="安洁莉娜"]......
+[name="安洁莉娜"]……
 [charslot(slot="m",name="avg_npc_973_1#1$1")]
 [name="罗德岛外勤干员"]怎么，好长时间不回家，紧张了？
 [charslot]
@@ -367,7 +367,7 @@ Medic离开之后，我剥开糖纸。
 我紧紧地攥着那个已经填满的本子——丽萨送给我的——好半天说不出话。
 天真的我既想亲手把那封解释我离家来龙去脉的信送到家门口的邮箱，却又始终无法下定与父母见面的决心。
 是博士提醒我，两件事不必一同完成。先告诉家人自己一切安好，比什么都更加重要。
-我听从了博士的建议，而父母的回信比我想象中来得更快......
+我听从了博士的建议，而父母的回信比我想象中来得更快……
 [charslot(slot="m",name="avg_291_aglina_1#1$1")]
 [name="安洁莉娜"]不，我只是在后悔，之前不该一直拖着这件事情。
 [charslot(slot="m",name="avg_291_aglina_1#1$1")]
@@ -395,7 +395,7 @@ Medic离开之后，我剥开糖纸。
 [PlaySound(key="$d_avg_bubble_cartoon_3")]
 [cgitem(image="cgitem_76_i07_1", style="cg",layer = 1,afrom = 0, ato = 1, aduration = 0.3,pfrom = "20,60",pto = "20,80",pduration = 0.6,sfrom = 0.8, sto = 0.9, sduration = 0.6,block=true)]
 [delay(time=1)]
-......我最终拾起一枚饱满的酸橙。
+……我最终拾起一枚饱满的酸橙。
 我不知道酸橙的寓意，我只是意识到自己唇间依稀的酸橙气味，又想起，那管唇膏是我从家里带出来的最后一支。
 它是我。爸爸妈妈会知道，它就是我。我回来了。
 [Dialog]
@@ -403,7 +403,7 @@ Medic离开之后，我剥开糖纸。
 [cgitem(image="cgitem_76_i07_1", style="cg",layer = 1,sfrom = 0.9, sto = 0.85, sduration = 5,pfrom = "20,80",pto = "20,77",pduration = 5)]
 是的，我回来了。
 我躲在门后，不敢看爸爸妈妈的表情，直到我听见妈妈喉咙中滚动着的低泣。
-我刚刚感染时，这样的声音常常在妈妈以为我睡下之后在家里回荡，而今那声音别无二致，其中传递的感情却只剩......
+我刚刚感染时，这样的声音常常在妈妈以为我睡下之后在家里回荡，而今那声音别无二致，其中传递的感情却只剩……
 [Dialog]
 [HidecgItem(fadetime=0.5)]
 [delay(time=1)]
@@ -415,8 +415,8 @@ Medic离开之后，我剥开糖纸。
 重逢的喜悦。
 我哭着，笑着，语无伦次地倾吐着歉意与思念。
 我其实听不清他们在说什么，但我知道，我们是一样的。
-久别后的重逢比这世上一切的宝物都更珍贵，它正在我们胸中搏动......
-......而这一切甚至完美到不是一场梦。
+久别后的重逢比这世上一切的宝物都更珍贵，它正在我们胸中搏动……
+……而这一切甚至完美到不是一场梦。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -426,26 +426,26 @@ Medic离开之后，我剥开糖纸。
 [Background(image="bg_bridge_2",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-而这一切......
+而这一切……
 虽然不是一场梦，却不知为何，迎来了梦醒的时刻。
 [Dialog]
 [playMusic(intro="$storyendjp_intro", key="$storyendjp_loop", volume=0.6)]
 [charslot(slot="m",name="avg_291_aglina_1#1$1",duration=1)]
 [delay(time=2)]
-[name="安洁莉娜"]所以......其实不能选择不出外勤？
+[name="安洁莉娜"]所以……其实不能选择不出外勤？
 [charslot(slot="m",name="avg_4228_closur_1#1$1")]
 [name="可露希尔"]你的心情我不是不理解啦，但这的确是为了各位干员的安全着想。
 [charslot(slot="m",name="avg_4228_closur_1#4$1")]
-[name="可露希尔"]你是罗德岛最信任的信使之一，只是......罗德岛确实需要处理一个很棘手的问题。
+[name="可露希尔"]你是罗德岛最信任的信使之一，只是……罗德岛确实需要处理一个很棘手的问题。
 [charslot(slot="m",name="avg_4228_closur_1#1$1")]
 [name="可露希尔"]而且，一旦真出了什么事，你也可以立刻将消息传递到罗德岛希望的地方。
 [charslot(slot="m",name="avg_291_aglina_1#5$1")]
-[name="安洁莉娜"]出了事之后......吗？
+[name="安洁莉娜"]出了事之后……吗？
 [charslot(slot="m",name="avg_4228_closur_1#15$1")]
-[name="可露希尔"]也不是一定会出事的啦！而且......这真的是为你的安全负责，真的没有别的意思。你别往心里去。
+[name="可露希尔"]也不是一定会出事的啦！而且……这真的是为你的安全负责，真的没有别的意思。你别往心里去。
 [charslot(slot="m",name="avg_291_aglina_1#2$1")]
-[name="安洁莉娜"]......嗯。
-[name="安洁莉娜"]那......我可以问一下，有哪些干员可以留在罗德岛上吗？
+[name="安洁莉娜"]……嗯。
+[name="安洁莉娜"]那……我可以问一下，有哪些干员可以留在罗德岛上吗？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -475,7 +475,7 @@ Medic离开之后，我剥开糖纸。
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1",bstart=0.2,bend=0.5)]
 [Delay(time=0.2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="可露希尔"]再就是凯尔希、华法琳、我......
+[name="可露希尔"]再就是凯尔希、华法琳、我……
 [charslot(slot = "m", focus = "n")]
 我深知自己无力与之比肩的人。
 [Dialog]
@@ -485,25 +485,25 @@ Medic离开之后，我剥开糖纸。
 [charslot(slot="m",name="avg_4228_closur_1#1$1")]
 [Background(image="bg_bridge_2",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="可露希尔"]......大概也就这么多人吧？这次的情况确实特殊，本舰忽然这么冷清，我也挺不习惯的。
+[name="可露希尔"]……大概也就这么多人吧？这次的情况确实特殊，本舰忽然这么冷清，我也挺不习惯的。
 [charslot(slot="m",name="avg_291_aglina_1#1$1")]
-[name="安洁莉娜"]那博士......
+[name="安洁莉娜"]那博士……
 [charslot(slot="m",name="avg_4228_closur_1#4$1")]
 [name="可露希尔"]唔，对，还有那家伙，当然也得在这里了。
 [charslot(slot="m",name="avg_291_aglina_1#5$1")]
-[name="安洁莉娜"]......也对。
+[name="安洁莉娜"]……也对。
 [charslot(slot="m",name="avg_4228_closur_1#1$1")]
 [name="可露希尔"]往好处想，这也算是一个改换心情的机会。再回家一趟，去叙拉古那边的办事处怎么样？
 [charslot(slot="m",name="avg_291_aglina_1#2$1")]
-[name="安洁莉娜"]不，罗德岛能让我和家人度过那段时间，我已经很开心了。这次......
-[name="安洁莉娜"]......就把我安排在离本舰最近的地方吧。
+[name="安洁莉娜"]不，罗德岛能让我和家人度过那段时间，我已经很开心了。这次……
+[name="安洁莉娜"]……就把我安排在离本舰最近的地方吧。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
 [Delay(time=1)]
 [Background(image="bg_trainingcom",screenadapt="coverall")]
 但罗德岛本舰被毁的消息传来时，我已经无能为力。
-我能做的不过是......弥补。
+我能做的不过是……弥补。
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -531,7 +531,7 @@ Medic离开之后，我剥开糖纸。
 就像现在，也许只要安洁莉娜全力以赴，她可以颠倒这座城镇的上与下、轻与重。
 也许她可以将水泥浇筑成血肉，将钢筋攒集成筋骨，将搏动的源石塞入胸膛，让风化的城镇恢复生机，让它站立在雷姆必拓的荒原中间。
 也许她可以让城镇将那些绝望的人托在掌心，哪怕他们决心赴死，也将他们带离那片即将被天灾蹂躏的禁区。
-也许在那之后，他们也会意识到自己的偏执，他们会像她一样，在绝望时看见朝自己伸出的手......
+也许在那之后，他们也会意识到自己的偏执，他们会像她一样，在绝望时看见朝自己伸出的手……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [charslot]
@@ -542,18 +542,18 @@ Medic离开之后，我剥开糖纸。
 [Dialog]
 [charslot(slot="m",name="avg_4235_thumpy_1#13$2",duration=1)]
 [delay(time=2)]
-[name="塔妮"]安洁......该走了。
+[name="塔妮"]安洁……该走了。
 [charslot(slot="m",name="avg_4235_thumpy_1#10$2")]
 [name="塔妮"]刚刚我陪着嘉辛塔去红砂镇入口处，守门的感染者说了很多很难听的话，最后差点动武。
-[name="塔妮"]那个人最后说......里面的感染者都已经准备好了武器，假如我们敢强闯进去，就让我们用生命“赎罪”......
+[name="塔妮"]那个人最后说……里面的感染者都已经准备好了武器，假如我们敢强闯进去，就让我们用生命“赎罪”……
 [charslot(slot="m",name="avg_4235_thumpy_1#5$2")]
 [name="塔妮"]乌露露刚刚带着回心转意的感染者们离开这里，她也一直在催我们赶紧动身。
-[name="塔妮"]安洁......？
+[name="塔妮"]安洁……？
 [charslot]
 [Dialog]
 [charslot(slot="m",name="avg_1015_aglna2_1#9$1",duration=1.5)]
 [delay(time=2)]
-[name="安洁莉娜"]......
+[name="安洁莉娜"]……
 [dialog]
 [charslot(duration=0.5)]
 [delay(time=1)]
@@ -564,10 +564,10 @@ Medic离开之后，我剥开糖纸。
 [charslot(slot = "r", action="jump",posto = "-350,30",power=50,times=1,duration = 2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot(duration=0.5)]
-[name="有袋鼷兽"]......
+[name="有袋鼷兽"]……
 [charslot(slot="m",name="avg_1015_aglna2_1#22$1")]
-[name="安洁莉娜"]......
-[name="安洁莉娜"]有袋......鼷兽？
+[name="安洁莉娜"]……
+[name="安洁莉娜"]有袋……鼷兽？
 [charslot(slot="m",name="avg_4235_thumpy_1#13$2")]
 [name="塔妮"]有袋鼷兽？这附近已经很危险了，它在哪里？
 [charslot]

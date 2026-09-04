@@ -14,10 +14,10 @@
 [Character(name="avg_npc_065")]
 [name="镇民A"]  塔佳娜！最后一个“留声机”被破坏了！我们没有手段对付那些巨人！
 [Character(name="avg_npc_068")]
-[name="镇民B"]  欸！那些暴徒开始烧房子了！该死，他们......火势在蔓延！
+[name="镇民B"]  欸！那些暴徒开始烧房子了！该死，他们……火势在蔓延！
 [name="镇民B"]  喂，塔佳娜，塞弗林呢！这种关键时候，他在哪里！？
 [Character(name="avg_npc_069#2")]
-[name="塔佳娜"]  塞弗林长官他......他受了伤，他正在休息......
+[name="塔佳娜"]  塞弗林长官他……他受了伤，他正在休息……
 [Character(name="avg_npc_065")]
 [name="镇民A"]  都什么时候了还休息！？我们可是冒着生命危险——
 [Character(name="avg_npc_068")]
@@ -46,13 +46,13 @@
 [name="镇民B"]  救——疼，疼啊——
 [name="镇民B"]  塔佳娜——救——我——
 [Character(name="avg_npc_069#2")]
-[name="塔佳娜"]  啊......啊啊......
+[name="塔佳娜"]  啊……啊啊……
 [Dialog]
 [Character]
 [Blocker(a=0.3, r=0, g=0, b=0, fadetime=1, block=true)]
 清晰的字句很快被单纯的惨叫遮掩。
 皮肤烤焦的味道，比任何恶劣的玩笑都要让人胆寒。
-被火焰包裹着的人逐渐失去形貌，只留下黑影似的肉体......
+被火焰包裹着的人逐渐失去形貌，只留下黑影似的肉体……
 焦黑的皮肤和血，他挣扎着开口——
 他很痛苦，他请求我帮助他。
 但是——
@@ -79,7 +79,7 @@
 [CameraShake(duration=2, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [Character(name="avg_npc_011#2",fadetime=1,block=true)]
 [delay(time=1)]
-[name="泥岩"]  ......
+[name="泥岩"]  ……
 [Character(name="avg_npc_011#2", name2="avg_npc_053",focus=2)]
 [name="萨卡兹战士"]  混乱。这座城镇从来都不是上下一心的，就像蛋糕，切成一块一块。
 [name="萨卡兹战士"]  现在，那最后的一块也将要变成一盘散沙，他们毫无力量。
@@ -91,9 +91,9 @@
 [name="泥岩"]  我们曾是厌倦了这种悲哀，而站在这里，不要忘了。
 [name="泥岩"]  不要试图自作主张。
 [Character(name="avg_npc_011#2", name2="avg_npc_053",focus=2)]
-[name="萨卡兹战士"]  ......当然。诶，你平时怎么不这么讲话呢？我只是抱怨抱怨。
+[name="萨卡兹战士"]  ……当然。诶，你平时怎么不这么讲话呢？我只是抱怨抱怨。
 [name="萨卡兹战士"]  抱怨我们等待隐忍了那么久，最后的结果也没什么变化，事情还是变得很糟糕。
-[name="萨卡兹战士"]  只是一点不甘心的......牢骚。
+[name="萨卡兹战士"]  只是一点不甘心的……牢骚。
 [Dialog]
 [stopmusic(fadetime=2)]
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -149,13 +149,13 @@
 [delay(time=1)]
 [Character(name="avg_npc_068")]
 [name="镇民"]  把、把他们给震飞了？
-[name="镇民"]  她周围的源石技艺反应变慢了？这是哪个国家的法术，书上没有教过......
+[name="镇民"]  她周围的源石技艺反应变慢了？这是哪个国家的法术，书上没有教过……
 [Character(name="char_358_lisa_1#2")]
 [name="铃兰"]  不要随便就决定别人的命运啊，罗德岛的前辈们，还有爸爸妈妈，大家都对我很好啊！
 [name="铃兰"]  还有你们！不要偷偷溜过去！
 [Character(name="avg_npc_067")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=false)]
-[name="武装的感染者"]  唔——！？身、身体......！
+[name="武装的感染者"]  唔——！？身、身体……！
 [Character(name="char_358_lisa_1#2")]
 [name="铃兰"]  唔——！
 [Character(name="char_358_lisa_1#2")]
@@ -169,26 +169,26 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#3",focus=1)]
-[name="灰喉"]  ......现在你打算怎么做？
+[name="灰喉"]  ……现在你打算怎么做？
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#3",focus=2)]
-[name="亚叶"]  毕德曼......罪魁祸首已经死了。
+[name="亚叶"]  毕德曼……罪魁祸首已经死了。
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#3",focus=1)]
-[name="灰喉"]  断崖和卡达回来之前，我们还没有确实的证据......
+[name="灰喉"]  断崖和卡达回来之前，我们还没有确实的证据……
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#4",focus=2)]
-[name="亚叶"]  ......那么真凶到底是谁？在我眼前发生的是什么？
+[name="亚叶"]  ……那么真凶到底是谁？在我眼前发生的是什么？
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#4",focus=1)]
 [name="灰喉"]  现在没空讨论这个问题，至少先镇压这场暴乱。
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#4",focus=2)]
-[name="亚叶"]  ......
+[name="亚叶"]  ……
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#4",focus=1)]
 [name="灰喉"]  ——亚叶？
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#4",focus=2)]
-[name="亚叶"]  我......我不知道该怎么做......
+[name="亚叶"]  我……我不知道该怎么做……
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#4",focus=1)]
-[name="灰喉"]  ......我理解。
-[name="灰喉"]  一个救治感染者的医师，却死在感染者暴乱之中的那种荒唐和无力感......
+[name="灰喉"]  ……我理解。
+[name="灰喉"]  一个救治感染者的医师，却死在感染者暴乱之中的那种荒唐和无力感……
 [Character(name="char_367_swllow_1")]
-[name="灰喉"]  我曾比任何人......都为之愤恨。
+[name="灰喉"]  我曾比任何人……都为之愤恨。
 [stopmusic(fadetime=3)]
 [Dialog]
 [Character]
@@ -259,7 +259,7 @@
 [Character(name="avg_npc_067")]
 [name="武装的感染者"]  ——有效果了！继续冲击防线！
 [Character(name="char_358_lisa_1#4")]
-[name="铃兰"]  ......可大家都是无辜的......感染者也不是自己乐意才......！
+[name="铃兰"]  ……可大家都是无辜的……感染者也不是自己乐意才……！
 [Character(name="avg_npc_067")]
 [name="武装的感染者"]  无辜？呸，我才不想取得同情，我们都不是无辜的。去他妈的吧。
 [name="武装的感染者"]  我们只是要活下去，哪怕让其他人活不下去，在活命这方面，没有人是搞慈善的！
@@ -301,10 +301,10 @@
 [Character(name="char_367_swllow_1")]
 [name="灰喉"]  ——亚叶？
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#3",focus=2)]
-[name="亚叶"]  ......整合运动。
+[name="亚叶"]  ……整合运动。
 [name="亚叶"]  我确实听见，人群之中有在高喊，整合运动解放了他们。
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#3",focus=1)]
-[name="灰喉"]  但他们不是......
+[name="灰喉"]  但他们不是……
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#5",focus=2)]
 [name="亚叶"]  不——！
 [name="亚叶"]  失去了主心骨，这场暴乱自会瓦解！
@@ -316,20 +316,20 @@
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#3",focus=1)]
 [name="灰喉"]  冷静点。
 [Character(name="char_367_swllow_1", name2="char_345_folnic_1#3",focus=2)]
-[name="亚叶"]  ......抱歉。
-[name="亚叶"]  这对你来说并不是第一次了，对我来说......也一样。
-[name="亚叶"]  我有点......不知所措。
-[name="亚叶"]  ......上吧，罗德岛要想办法阻止这场暴乱。
+[name="亚叶"]  ……抱歉。
+[name="亚叶"]  这对你来说并不是第一次了，对我来说……也一样。
+[name="亚叶"]  我有点……不知所措。
+[name="亚叶"]  ……上吧，罗德岛要想办法阻止这场暴乱。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_ltstreet2",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_011#2", name2="avg_npc_053",focus=2)]
-[name="萨卡兹战士"]  ......是罗德岛，你寄予厚望的，就是这几个孩子而已。
+[name="萨卡兹战士"]  ……是罗德岛，你寄予厚望的，就是这几个孩子而已。
 [name="萨卡兹战士"]  他们还不成熟，他们没来得及阻止这一切，已经晚了。
 [Character(name="avg_npc_011#2", name2="avg_npc_053",focus=1)]
-[name="泥岩"]  ......但他们，已是战士。
+[name="泥岩"]  ……但他们，已是战士。
 [Character(name="avg_npc_011#2", name2="avg_npc_053",focus=2)]
 [name="萨卡兹战士"]  嚯——？
 [Character(name="avg_npc_011#2")]

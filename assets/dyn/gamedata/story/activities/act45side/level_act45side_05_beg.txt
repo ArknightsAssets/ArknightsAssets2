@@ -34,7 +34,7 @@
 [PlaySound(key="$d_avg_drinkswllw", volume=0.6)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
-[name="丰川祥子"]喉咙没有那么痛了......
+[name="丰川祥子"]喉咙没有那么痛了……
 [charslot(slot="m",name="avg_4183_mortis_1#13$3",focus="m")]
 [name="若叶睦"]那就好。这个给你，雷姆必拓到处都是沙尘，水袋和护目镜是必需的。
 [Dialog]
@@ -45,8 +45,8 @@
 [charslot(slot="m",name="avg_4183_mortis_1#16$3",focus="m")]
 [name="若叶睦"]祥，你有点奇怪。是不是不舒服？
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]不，没什么......
-[name="丰川祥子"]睦，你......还记得我？
+[name="丰川祥子"]不，没什么……
+[name="丰川祥子"]睦，你……还记得我？
 [charslot(slot="m",name="avg_4183_mortis_1#14$3",focus="m")]
 [name="若叶睦"]当然。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
@@ -60,14 +60,14 @@
 这里阴暗潮湿，只有油灯和炉火提供着微弱的光亮。
 床与餐桌之间仅有一人宽的空隙，而从桌上水杯的数目来看，这里住着的绝不止睦一人。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]睦，你在这里......已经生活多长时间了？
+[name="丰川祥子"]睦，你在这里……已经生活多长时间了？
 [charslot(slot="m",name="avg_4183_mortis_1#13$3",focus="m")]
 [name="若叶睦"]一年，也许更久。在这里需要考虑的事很简单，时间的流逝也没有那么明显。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]不......你对时间没有任何感觉，是因为你身处在梦里。
-[name="丰川祥子"]睦，你为什么会做这样一个梦......
+[name="丰川祥子"]不……你对时间没有任何感觉，是因为你身处在梦里。
+[name="丰川祥子"]睦，你为什么会做这样一个梦……
 [charslot(slot="m",name="avg_4183_mortis_1#16$3",focus="m")]
-[name="若叶睦"]梦......？
+[name="若叶睦"]梦……？
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2",focus="m")]
 [name="丰川祥子"]睦，我有重要的事和你说。这里不是现实，我们现在应该——
 [Dialog]
@@ -82,9 +82,9 @@
 [CameraShake(duration=1, xstrength=12, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1.5)]
 一个身影从身后跑了进来，径直将睦扑倒在柔软的小床上。
-[name="若叶睦"]妈、妈妈，身上有灰，不要蹭......
+[name="若叶睦"]妈、妈妈，身上有灰，不要蹭……
 [name="？？？"]哎，都快一天没见了，让我抱抱怎么了嘛！
-[name="若叶睦"]有、有人......
+[name="若叶睦"]有、有人……
 [Dialog]
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [charslot(slot="l",name="avg_npc_1939_1#1$1",duration=1)]
@@ -96,14 +96,14 @@
 [name="睦的母亲"]啊，小祥在这呀！
 [name="睦的母亲"]你好久没来我们家了吧？
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]南小姐......
+[name="丰川祥子"]南小姐……
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
 [name="睦的母亲"]哎，怎么这么见外啦，叫“南”就行啦。
 [charslot(slot="m",name="avg_4183_mortis_1#13$3",focus="m")]
 [name="若叶睦"]嗯，我有时也会这么叫妈妈。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]......
-[name="丰川祥子"]睦，你和南小姐的关系什么时候这么好了......？
+[name="丰川祥子"]……
+[name="丰川祥子"]睦，你和南小姐的关系什么时候这么好了……？
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
@@ -118,7 +118,7 @@
 [name="睦的母亲"]嗯——小睦，你好棒！
 [name="睦的母亲"]（翻翻口袋）喏，这是我的。
 [charslot(slot="m",name="avg_4183_mortis_1#15$3",focus="m")]
-[name="若叶睦"]哇......妈妈，好厉害。
+[name="若叶睦"]哇……妈妈，好厉害。
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
 [name="睦的母亲"]哼哼，不知道为什么，今天找我修补衣服的人格外多哦！
 [name="睦的母亲"]你爸爸今天也很努力哦，在工地里忙活了一整天。我给他送午饭时，看他那副灰头土脸的样子实在不忍心，就特批他下工后去喝一小杯。
@@ -130,16 +130,16 @@
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
 [name="睦的母亲"]是呀！而且今天收入不错，不多吃点怎么行！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
 [name="睦的母亲"]小祥千万别客气！
 [charslot(slot="m",name="avg_4183_mortis_1#16$3",focus="m")]
 [name="若叶睦"]祥，怎么了？
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]不......没有......
+[name="丰川祥子"]不……没有……
 [Dialog]
 [charslot]
-眼前这个明显就不富裕的家，光秃秃的泥巴墙、微弱的油灯......
+眼前这个明显就不富裕的家，光秃秃的泥巴墙、微弱的油灯……
 为什么睦的梦里，会出现这些？
 [Dialog]
 [PlaySound(key="$doorknockquite", volume=1)]
@@ -149,7 +149,7 @@
 [charslot(slot="m",name="avg_4081_warmy_1#11$2",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4081_warmy_1#11$2",focus="m")]
-[name="温米"]小睦，还有南......这位是？
+[name="温米"]小睦，还有南……这位是？
 [charslot(slot="m",name="avg_4183_mortis_1#13$3",focus="m")]
 [name="若叶睦"]她是我从小认识的朋友，祥。
 [charslot(slot="m",name="avg_4081_warmy_1#4$2",focus="m")]
@@ -158,29 +158,29 @@
 [name="温米"]我来是想问问你们，要不要共进晚餐？
 [name="温米"]我做了很多份，你们要是乐意的话，就一起来吧。
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
-[name="睦的母亲"]......这怎么好意思呢？
+[name="睦的母亲"]……这怎么好意思呢？
 [charslot(slot="m",name="avg_4081_warmy_1#10$2",focus="m")]
-[name="温米"]我听你们的邻居说，你们家的烟囱好像几天都没动静了......
+[name="温米"]我听你们的邻居说，你们家的烟囱好像几天都没动静了……
 [charslot(slot="m",name="avg_4183_mortis_1#10$3",focus="m")]
-[name="若叶睦"]（摸摸肚子）唔......
+[name="若叶睦"]（摸摸肚子）唔……
 [charslot(slot="m",name="avg_4081_warmy_1#1$2",focus="m")]
 [name="温米"]而且，离上次聚会已经快一个月了吧？
 [name="温米"]大家都很想再听到小睦的演奏呢。
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
-[name="睦的母亲"]这样的话......小睦，你是怎么想的呢？
+[name="睦的母亲"]这样的话……小睦，你是怎么想的呢？
 [charslot(slot="m",name="avg_4183_mortis_1#5$3",focus="m")]
-[name="若叶睦"]我、我......我吗？
+[name="若叶睦"]我、我……我吗？
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
 [name="睦的母亲"]小祥肯定也很想听小睦的演奏吧？就算听了这么多次，还是百听不厌呢！
 [name="睦的母亲"]如果不介意的话，就在我们家办聚会吧！其实我们刚刚还在商量要请大家一起来吃饭呢。
 [charslot(slot="m",name="avg_4183_mortis_1#14$3",focus="m")]
 [name="若叶睦"]祥，你觉得呢？
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="m")]
-[name="丰川祥子"]我......
+[name="丰川祥子"]我……
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
-[name="丰川祥子"]我觉得......睦，由你自己来决定吧。
+[name="丰川祥子"]我觉得……睦，由你自己来决定吧。
 [charslot(slot="m",name="avg_4183_mortis_1#13$3",focus="m")]
-[name="若叶睦"]......嗯，那我愿意。
+[name="若叶睦"]……嗯，那我愿意。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -205,7 +205,7 @@
 [name="众人"]哦——祥子，你好！
 大家一齐看向坐在角落的祥子。
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
-[name="睦的母亲"]（举起酒杯）小祥......？
+[name="睦的母亲"]（举起酒杯）小祥……？
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
 [name="丰川祥子"]干、干杯。
 [Dialog]
@@ -224,11 +224,11 @@
 [charslot(slot="l",name="avg_4183_mortis_1#14$3",focus="l")]
 [name="若叶睦"]祥。
 [charslot(slot="r",name="avg_4182_oblvns_1#14$2",focus="r")]
-[name="丰川祥子"]睦......？
+[name="丰川祥子"]睦……？
 [charslot(slot="l",name="avg_4183_mortis_1#10$3",focus="l")]
-[name="若叶睦"]其实......我全部都知道。
+[name="若叶睦"]其实……我全部都知道。
 [charslot(slot="r",name="avg_4182_oblvns_1#6$2",focus="r")]
-[name="丰川祥子"]欸......？
+[name="丰川祥子"]欸……？
 [charslot(slot="l",name="avg_4183_mortis_1#10$3",focus="l")]
 [name="若叶睦"]这一切都是假的，南会对我这么温柔，都是假的。
 [charslot(slot="r",name="avg_4182_oblvns_1#6$2",focus="r")]
@@ -240,7 +240,7 @@
 [name="若叶睦"]一个告别的机会，然后再结束。
 [name="若叶睦"]至少在这里，我也想像你们一样，能自由地歌唱一次。
 [charslot(slot="r",name="avg_4182_oblvns_1#10$2",focus="r")]
-[name="丰川祥子"]睦......
+[name="丰川祥子"]睦……
 [Dialog]
 [PlaySound(key="$d_avg_walk_stage", volume=1,loop="false", channel="nw")]
 [stopsound(fadetime=2, channel="nw")]
@@ -257,7 +257,7 @@
 [charslot(slot="m",name="avg_4183_mortis_1#13$3",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4183_mortis_1#16$3",focus="m")]
-[name="若叶睦"]......大家好。
+[name="若叶睦"]……大家好。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_cheer_street", volume=1)]
@@ -271,7 +271,7 @@
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
 [name="睦的母亲"]怎么啦，小睦？有什么问题吗？
 [charslot(slot="m",name="avg_4183_mortis_1#16$3",focus="m")]
-[name="若叶睦"]......椅子。我的椅子。
+[name="若叶睦"]……椅子。我的椅子。
 [charslot(slot="m",name="avg_npc_1939_1#1$1",focus="m")]
 [name="睦的母亲"]给你准备好咯。喏，这个椅子，是你常用的那把吧？
 [Dialog]
@@ -292,7 +292,7 @@
 [Background(image="bg_black",screenadapt="coverall")]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[multiline(name="若叶睦")]接下来，请聆听......
+[multiline(name="若叶睦")]接下来，请聆听……
 [multiline(name="若叶睦")]《春日影》。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -319,7 +319,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [delay(time=1)]
-[name="丰川祥子"]睦，这也是你的愿望吗......
+[name="丰川祥子"]睦，这也是你的愿望吗……
 今天她有无数次机会拉睦离开这里，而且她相信睦一定会跟她走。
 可她始终不忍这么做。
 因为现在的睦，看上去像是发自内心地感到幸福。
@@ -338,7 +338,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [delay(time=1)]
 莫名的情绪笼罩在祥子的心头——
-是欣慰......还是不甘？抑或两者都有。
+是欣慰……还是不甘？抑或两者都有。
 现在的若叶睦，比和自己在一起时，要开心得多。
 睦就这么认真地，独自坐在椅子上，唱着熟悉的歌。
 [Dialog]

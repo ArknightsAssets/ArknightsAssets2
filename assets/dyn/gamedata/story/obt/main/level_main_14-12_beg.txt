@@ -23,14 +23,14 @@
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1297_1#1$1",focus="none")]
 [name="终端里的声音"]乌萨斯的皇帝拒绝接见我们的使者，他们依然将卡兹戴尔视作一个独立的敌方政权。
-[name="终端里的声音"]派往萨尔贡的使者还没有回信，莱塔尼亚的那位选帝侯表达了积极交流的意愿......
-[name="终端里的声音"]大公爵们在战场上那道金光出现之后，进攻意图十分明显。我们的外围阵线正在收缩......
+[name="终端里的声音"]派往萨尔贡的使者还没有回信，莱塔尼亚的那位选帝侯表达了积极交流的意愿……
+[name="终端里的声音"]大公爵们在战场上那道金光出现之后，进攻意图十分明显。我们的外围阵线正在收缩……
 [Dialog]
 [charslot]
 终端里的声音仍在忠实地为这场战争的主导者汇报着每一条战线的最新动向。
 战争的天平正微微摇晃，不愿屈服的人们将自己化作砝码，一次次渴望改变它倾斜的方向。
 [charslot(slot="m",name="avg_npc_1297_1#1$1",focus="m")]
-[name="特雷西斯"]......
+[name="特雷西斯"]……
 [dialog]
 [charslot]
 无论在什么时候，特雷西斯的背脊都永远笔挺，他早已不会让自己轻易感觉到疲惫。
@@ -40,15 +40,15 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_419_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="王庭军亲卫"]殿下，前线传来消息......维多利亚的国剑已激活，他们遏制了“阿喃那”的攻势。我们的战况吃紧。
+[name="王庭军亲卫"]殿下，前线传来消息……维多利亚的国剑已激活，他们遏制了“阿喃那”的攻势。我们的战况吃紧。
 [name="王庭军亲卫"]另一方面，曼弗雷德将军，也未能夺回“生命脊椎”。
 [charslot(slot="m",name="avg_npc_1297_1#1$1",focus="m")]
-[name="特雷西斯"]......
+[name="特雷西斯"]……
 [name="特雷西斯"]骸骨现在被谁掌控，最后的目击位置在哪里？
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="王庭军亲卫"]一支佣兵小队。赦罪师那边通报，上面应该还有那个名叫“罗德岛”的组织的核心成员。
 [charslot(slot="m",name="avg_npc_1297_1#2$1",focus="m")]
-[name="特雷西斯"]“罗德岛”......那个人，想必也在吧。
+[name="特雷西斯"]“罗德岛”……那个人，想必也在吧。
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=1,g=1, b=1, fadetime=1, block=true)]
@@ -65,13 +65,13 @@
 [Delay(time=1)]
 [Blocker(a=0, fadetime=2.5, block=true)]
 [Delay(time=2)]
-[name="特雷西斯"]......
+[name="特雷西斯"]……
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="王庭军亲卫"]将军，我们无法确定“生命脊椎”的下一步动向。它对飞空艇和碎片大厦都是威胁。
 [charslot(slot="m",name="avg_npc_1297_1#1$1",focus="m")]
 [name="特雷西斯"]无妨，相信特蕾西娅。
 [charslot(slot="m",name="avg_npc_1297_1#3$1",focus="m")]
-[name="特雷西斯"]如果他们敢靠近碎片大厦......
+[name="特雷西斯"]如果他们敢靠近碎片大厦……
 [charslot(slot="m",name="avg_npc_1297_1#2$1",focus="m")]
 [name="特雷西斯"]我的剑会赐予那个人我承诺过的审判。
 [Dialog]
@@ -82,7 +82,7 @@
 飞空艇漫长的盘旋与试探已经接近尾声，巫术的巨构又一次掠过碎片大厦的上空。
 他知道，这是最后一次了。
 [charslot(slot="m",name="avg_npc_1297_1#1$1",focus="m")]
-[name="特雷西斯"]......
+[name="特雷西斯"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -97,16 +97,16 @@
 航行的飞空艇之中，粉白长发的萨卡兹独自伫立在走廊里。
 她的视线终于从碎片大厦移开，她已不会再看见那个人的身影。
 特蕾西娅的目光投向飞空艇的阴影中，投向这片她已经看过无数次的大地。
-心碎和绝望仍在蔓延。这片大地如今的模样，与当年她离开卡兹戴尔的时候......有了分别吗？
+心碎和绝望仍在蔓延。这片大地如今的模样，与当年她离开卡兹戴尔的时候……有了分别吗？
 低沉的声音在她身边回荡，那是这艘船的主人。
 [Dialog]
 [charslot]
 [name="船舱中的影子"]特蕾西娅，我能感知到——那位“魔王”，仍在追逐我们。
 [charslot(slot="m",name="avg_npc_1296_1#2$1",focus="m")]
-[name="特蕾西娅"]......他们都不是轻言放弃的人。
+[name="特蕾西娅"]……他们都不是轻言放弃的人。
 [Dialog]
 [charslot]
-[name="船舱中的影子"]......呵。
+[name="船舱中的影子"]……呵。
 死魂灵不再言语，飞空艇开始了最后的提速。
 “原点”已经近在眼前。
 [Dialog]
@@ -140,7 +140,7 @@
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]那就相信他。
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
-[name="W"]......啧。他最好没搞错什么步骤。
+[name="W"]……啧。他最好没搞错什么步骤。
 [name="W"]我说，现在这个骨头架子也回到我们手里了，是不是该去执行最初的计划了？
 [name="W"]用这个塞满炸弹的大家伙，把碎片大厦和特雷西斯炸上天。
 [Dialog]
@@ -170,7 +170,7 @@
 [Decision(options="“阿喃那”的内部有什么？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#2$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#1$1",focus="m")]
 [name="W"]啧，兜帽人，她这意思是在杀死特雷西斯之前，需要先解决飞空艇。
 [name="W"]没错吧，老女人？
@@ -183,12 +183,12 @@
 [Decision(options="是谁在驾驶飞空艇？;特雷西斯还会相信谁？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#15$1",focus="m")]
-[name="W"]......哈？
+[name="W"]……哈？
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]我能感受得到......
-[name="阿米娅"]她......特蕾西娅小姐在那里，是吗？
+[name="阿米娅"]我能感受得到……
+[name="阿米娅"]她……特蕾西娅小姐在那里，是吗？
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......是的。
+[name="凯尔希"]……是的。
 [charslot(slot="m",name="avg_003_kalts_1#3$1",focus="m")]
 [name="凯尔希"]如果我们去追击飞空艇，接下来的战斗，毫无疑问会直面她。
 [name="凯尔希"]我们要做好——
@@ -197,22 +197,22 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#13$1",focus="m")]
 [name="W"]你想说，我们要做好杀了她的准备？
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[name="凯尔希"]......
-[name="凯尔希"]如果......这是必须的。
+[name="凯尔希"]……
+[name="凯尔希"]如果……这是必须的。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$1",focus="m")]
 [name="W"]真了不起。
 [name="W"]我还以为你和殿下关系还不错呢。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
 [name="W"]凯尔希，你是不是永远都在做这样的权衡？文明啦，大地啦——为了这些东西，你可以杀掉任何人。
-[name="W"]哪怕......她是特蕾西娅。
+[name="W"]哪怕……她是特蕾西娅。
 [charslot(slot="m",name="avg_003_kalts_1#4$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
 [name="W"]哼。
 [charslot(slot="m",name="avg_1035_wisdel_1#6$1",focus="m")]
 [name="W"]但我和你不一样，凯尔希。
 [name="W"]我会从众魂中救出殿下，我会结束这一切。如果你们不想做，那就我来做。
-[name="W"]等着瞧吧......等着瞧吧。
+[name="W"]等着瞧吧……等着瞧吧。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$1",focus="m")]
 [name="W"]不会再有一次背叛了。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
@@ -243,13 +243,13 @@
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]我相信博士，我也可以协助Logos先生。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]既然大家都同意这个计划，W......
+[name="凯尔希"]既然大家都同意这个计划，W……
 [Dialog]
 [charslot]
 [Decision(options="让“生命脊椎”漂流到飞空艇上方。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1035_wisdel_1#1$1",focus="m")]
-[name="W"]哈......搞得好像我怕了一样。
+[name="W"]哈……搞得好像我怕了一样。
 [name="W"]老骨头，醒醒，我们又要出发了！
 [name="W"]都抓好了！
 [Dialog]
@@ -299,7 +299,7 @@
 无数的巫术无人机已经升空，身着染血长袍的巫灵们腾空而起。
 他们皆已向骸骨所在的位置奔袭而来。
 [charslot(slot="m",name="avg_1035_wisdel_1#9$1",focus="m")]
-[name="W"]这些人的反应真是够快的！还真忍心啊......这骨头架子不是他们的宝贝吗？
+[name="W"]这些人的反应真是够快的！还真忍心啊……这骨头架子不是他们的宝贝吗？
 [name="W"]特雷西斯打算让我们跟骨头架子一起直接蒸发在这里？
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
 [name="阿米娅"]W小姐，还差一点，这个距离“生命脊椎”没有办法与飞空艇连接！
@@ -403,7 +403,7 @@
 [Decision(options="我知道了。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......你没有犹豫，也没有提问。
+[name="凯尔希"]……你没有犹豫，也没有提问。
 [Dialog]
 [charslot]
 [Decision(options="现在还不是时候，对吧。", values="1")]
@@ -428,7 +428,7 @@
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]抓紧它，博士。
 [charslot(slot="m",name="avg_003_kalts_1#4$1",focus="m")]
-[name="凯尔希"]有些东西......只有你才能掌控。你也许会是我们艰难时刻中最后的希望。
+[name="凯尔希"]有些东西……只有你才能掌控。你也许会是我们艰难时刻中最后的希望。
 [name="凯尔希"]就如同你曾经的样子。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -453,7 +453,7 @@ Logos的咒言与W的欢笑远远传进你的耳朵。爆炸声连绵不绝，�
 [name="阿米娅"]博士。
 [name="阿米娅"]我们到了。
 [charslot(slot="m",name="avg_1035_wisdel_1#6$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [name="W"]看来有个老家伙来找我们打招呼了。
 [name="W"]这艘船是只死魂灵，对吧？看来它不怎么愿意有人站在它的头皮上。
 [Dialog]
@@ -464,7 +464,7 @@ Logos的咒言与W的欢笑远远传进你的耳朵。爆炸声连绵不绝，�
 [charslot(slot="l",name="avg_npc_1340_1#1$1",duration=1.5)]
 [charslot(slot="r",name="avg_npc_1340_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="怪异的影子"]......
+[name="怪异的影子"]……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]

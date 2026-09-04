@@ -15,7 +15,7 @@
 [decision(option1="这半块圆盘是做什么的？", value1="4.1")]
 [predicate(references="4.1")]
 [playanim(id="trap_471_tegmaus", anim="Special_Begin", looporidle="Special_Loop", dir="RIGHT")]
-[name="佩佩", avatarId="bavg_npc_001", isAvatarRight="FALSE"]嗯......如果你们想继续探究的话，说不定要和我踏上一段更加危险的旅程哦。
+[name="佩佩", avatarId="bavg_npc_001", isAvatarRight="FALSE"]嗯……如果你们想继续探究的话，说不定要和我踏上一段更加危险的旅程哦。
 [decision(option1="它似乎还是“恸号”的来源？", value1="5.1")]
 [predicate(references="5.1")]
 [name="佩佩", avatarId="bavg_npc_001", isAvatarRight="FALSE"]我提醒你们，现在回去还来得及，下次追来的王酋军可就不止那一点了。

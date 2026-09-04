@@ -84,7 +84,7 @@
 [delay(time=1)]
 [Character(name="char_214_kafka_1#4", name2="char_264_Mountain_1#5",focus=1)]
 [name="卡夫卡"]虽然场面有点混乱，但是姑且跟你确认一下我们的计划！
-[name="卡夫卡"]我们像现在这样，趁打扫囚房的机会进来配合你放倒囚犯和狱警......
+[name="卡夫卡"]我们像现在这样，趁打扫囚房的机会进来配合你放倒囚犯和狱警……
 [Dialog]
 [Character(name="char_214_kafka_1#4", name2="char_264_Mountain_1#5")]
 [characteraction(name="left", type="exit",fadetime=0.5, block=true)]
@@ -199,11 +199,11 @@
 [Character(name="char_214_kafka_1#5", name2="char_264_Mountain_1#2",focus=1)]
 [name="卡夫卡"]嘿嘿，越狱这么好玩的事情，我当然要兴奋了!
 [Character(name="char_214_kafka_1#4", name2="char_264_Mountain_1#2",focus=1)]
-[name="卡夫卡"]不过......
+[name="卡夫卡"]不过……
 [Character(name="char_214_kafka_1#4", name2="char_264_Mountain_1#5",focus=2)]
 [name="安东尼"]对了，怎么没看到罗宾小姐？
 [Character(name="char_214_kafka_1#5", name2="char_264_Mountain_1#5",focus=1)]
-[name="卡夫卡"]......
+[name="卡夫卡"]……
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=2, block=true)]
@@ -232,15 +232,15 @@
 [Character]
 [Delay(time=1)]
 [Character(name="char_214_kafka_1#5")]
-[name="卡夫卡"]......
+[name="卡夫卡"]……
 [name="卡夫卡"]（怎么回事，罗宾怎么没来？）
 [Character(name="char_214_kafka_1#4",name2="avg_npc_132",focus=1)]
 [name="卡夫卡"]喂，A区的大哥，罗宾人呢？
 [Character(name="char_214_kafka_1#4",name2="avg_npc_132",focus=2)]
-[name="A区囚犯B"]B区的别跟我说话......哦，是卡夫卡啊。
+[name="A区囚犯B"]B区的别跟我说话……哦，是卡夫卡啊。
 [name="A区囚犯B"]不知道啊，刚才就没找到她，我就是顶替她来的。
 [Character(name="char_214_kafka_1#4",name2="avg_npc_132",focus=1)]
-[name="卡夫卡"]......
+[name="卡夫卡"]……
 [Character(name="avg_npc_134")]
 [name="狱警B"]行了，少废话。
 [name="狱警B"]A区的跟他，B区的跟我。
@@ -259,7 +259,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="char_214_kafka_1#4",name2="char_264_Mountain_1#6",focus=2)]
-[name="安东尼"]......事到如今，也没有回头的路了。
+[name="安东尼"]……事到如今，也没有回头的路了。
 [name="安东尼"]以后还能遇到她的话再向她道歉吧，走。
 [Character(name="char_214_kafka_1#4",name2="char_264_Mountain_1#6",focus=1)]
 [name="卡夫卡"]嗯。
@@ -280,11 +280,11 @@
 [PlaySound(key="$rungeneral", volume=0.6,delay=0.6,block=true)]
 [delay(time=1)]
 [Character(name="char_214_kafka_1#4",name2="char_264_Mountain_1#5",focus=1)]
-[name="卡夫卡"]这里就是主控室了啊......
+[name="卡夫卡"]这里就是主控室了啊……
 [Character(name="char_214_kafka_1#5",name2="char_264_Mountain_1#5",focus=1)]
 [name="卡夫卡"]呜哇，灰尘好多！
 [Character(name="char_214_kafka_1#5",name2="char_264_Mountain_1#6",focus=2)]
-[name="安东尼"]......
+[name="安东尼"]……
 [Character(name="char_214_kafka_1#5",name2="char_264_Mountain_1#4",focus=2)]
 [name="安东尼"]当心！
 [Character(name="char_214_kafka_1#5",name2="char_264_Mountain_1#4",focus=1)]
@@ -304,19 +304,19 @@
 [Character(name="char_451_robin#6",fadetime=1)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [delay(time=1)]
-[name="罗宾"]......
+[name="罗宾"]……
 [Character(name="char_214_kafka_1#5")]
 [name="卡夫卡"]罗宾？！为什么你会在这里？
 [Character(name="char_451_robin#6")]
 [name="罗宾"]我有备份的卡。
 [Character(name="char_214_kafka_1#5")]
-[name="卡夫卡"]备份？你什么时候......
+[name="卡夫卡"]备份？你什么时候……
 [Character(name="char_451_robin#6")]
-[name="罗宾"]......
+[name="罗宾"]……
 [Character(name="avg_npc_133", name2="avg_npc_133",focus=1)]
-[name="B区囚犯A"]......
+[name="B区囚犯A"]……
 [Character(name="avg_npc_133", name2="avg_npc_133",focus=2)]
-[name="B区囚犯B"]......
+[name="B区囚犯B"]……
 [Character(name="char_264_Mountain_1#6")]
 [name="安东尼"]退后。
 [Dialog]
@@ -324,7 +324,7 @@
 [delay(time=0.6)]
 [playMusic(intro="$dontmaketrouble_intro", key="$dontmaketrouble_loop", volume=0.4)]
 [Character(name="char_264_Mountain_1#6")]
-[name="安东尼"]......我们赶时间，现在没有说话的时间。
+[name="安东尼"]……我们赶时间，现在没有说话的时间。
 [Dialog]
 [delay(time=1)]
 [Character(name="char_264_Mountain_1#4")]

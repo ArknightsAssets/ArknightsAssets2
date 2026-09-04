@@ -22,10 +22,10 @@
 [Character(name="avg_npc_072",name2="avg_npc_073", focus=1)]
 [name="害羞的阿达克利斯人"] 瞧她的尾巴！
 [Character(name="avg_npc_072",name2="avg_npc_073",focus=2)]
-[name="直爽的阿达克利斯人"] 她的尾巴看起来好柔软......肉肉的但又很细长......尾巴尖好灵活......上面还有橘色的花纹？
+[name="直爽的阿达克利斯人"] 她的尾巴看起来好柔软……肉肉的但又很细长……尾巴尖好灵活……上面还有橘色的花纹？
 [Characteraction(name="right", type="jump",  power=20, times=1, fadetime=0.5, block=true)]
 [name="直爽的阿达克利斯人"] 看到了吗？她用尾巴提起了那么大一包东西？！还有那个门板，看起来也好重，她一只手就拿起来了？哇——
-[name="直爽的阿达克利斯人"] 她摔跤一定很厉害，她看起来一尾巴就能扫断一棵树，她、她......好美啊！
+[name="直爽的阿达克利斯人"] 她摔跤一定很厉害，她看起来一尾巴就能扫断一棵树，她、她……好美啊！
 [name="直爽的阿达克利斯人"] 我从来没见过这样的人，我要和她做朋友！
 [Dialog]
 [Character(name="avg_npc_072",name2="avg_npc_073")]
@@ -52,9 +52,9 @@
 [playsound(key="$swordtsing2", volume=0.3,delay=0.5)]
 [name="认真的阿达克利斯人"] 锯齿鳞牙锤，锯齿鳞骨刀！锋利的齿刃可以破开一切物品！
 [Character(name="avg_378_asbest_1#1$1")]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [Character(name="avg_npc_072")]
-[name="害羞的阿达克利斯人"]  （过来了过来了......！）
+[name="害羞的阿达克利斯人"]  （过来了过来了……！）
 [Dialog]
 [character]
 [Character(name="avg_378_asbest_1#1$1",fadetime=1)]
@@ -70,9 +70,9 @@
 [name="石棉"]  ？
 [name="石棉"]  我的尾巴？你在说啥？
 [Character(name="avg_378_asbest_1#4$1")]
-[name="石棉"]  ......姑奶奶忙得很，别挡道！
+[name="石棉"]  ……姑奶奶忙得很，别挡道！
 [Character(name="avg_npc_072")]
-[name="害羞的阿达克利斯人"]  （呜！好可怕......）
+[name="害羞的阿达克利斯人"]  （呜！好可怕……）
 [Character(name="avg_npc_073")]
 [name="直爽的阿达克利斯人"] 啊、等一下！
 [name="直爽的阿达克利斯人"] 你好凶啊，我说我喜欢你哎？
@@ -81,7 +81,7 @@
 [name="石棉"]  哈？你在说什么啊？
 [name="石棉"]  自己找点事去做，拉着你的朋友玩泥巴吧。
 [Character(name="avg_npc_072")]
-[name="害羞的阿达克利斯人"]  你会说我们这里的话哎？但怎么都是脏话啊......
+[name="害羞的阿达克利斯人"]  你会说我们这里的话哎？但怎么都是脏话啊……
 [Character(name="avg_npc_073")]
 [name="直爽的阿达克利斯人"] 我不玩泥巴！你小看我是不是，我已经不是孩子了！
 [character]
@@ -94,7 +94,7 @@
 [delay(time=0.6)]
 [StopSound(channel="bgs", fadetime=0)]
 [Character(name="avg_npc_073",name2="avg_378_asbest_1#1$1",focus=1)]
-[name="直爽的阿达克利斯人"] ......我们打一架！
+[name="直爽的阿达克利斯人"] ……我们打一架！
 [Character(name="avg_npc_073",name2="avg_378_asbest_1#7$1",focus=2)]
 [name="石棉"]  啧，你这人怎么回事？
 [Character(name="avg_npc_073",name2="avg_378_asbest_1#4$1")]
@@ -165,7 +165,7 @@
 [Background(image="bg_jungle_1",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)] 
 [Character(name="avg_378_asbest_1#1$1",fadetime=0.5)]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [character(fadetime=0.5)]
 [dialog]
 [delay(time=1)]
@@ -176,7 +176,7 @@
 [name="直爽的阿达克利斯人"] 快藏好，这个灌木能遮住咱们几个。
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Character(name="avg_npc_072", name2="avg_npc_073",focus=1)]
-[name="害羞的阿达克利斯人"]  你俩昨天还没打够吗，今天还要拉着我来看......
+[name="害羞的阿达克利斯人"]  你俩昨天还没打够吗，今天还要拉着我来看……
 [name="害羞的阿达克利斯人"]  你俩又是为什么？
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=2)]
 [name="快乐的阿达克利斯人"] 她买了不少东西，我当然要看看。
@@ -185,7 +185,7 @@
 [name="直爽的阿达克利斯人"] 不过她买了一堆东西，但又不住村子里，在这里搭棚子？
 [name="直爽的阿达克利斯人"] 但她倒是挺会选位置的，这棵树离河滩也不算太远，涨水了也淹不到，取水也方便。
 [Character(name="avg_378_asbest_1#1$1")]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [Character(name="avg_npc_072", name2="avg_npc_073",focus=1)]
 [name="害羞的阿达克利斯人"]  她、她抓了条好大的毛毛虫！！
 [name="害羞的阿达克利斯人"]  她把它炒了！！
@@ -195,16 +195,16 @@
 [Character(name="avg_npc_072", name2="avg_npc_073",focus=2)]
 [characteraction(name="right", type="move", ypos=-30, fadetime=0.7, block=true)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=10, randomness=30, fadeout=true, block=false)]
-[name="直爽的阿达克利斯人"] ......呕！
+[name="直爽的阿达克利斯人"] ……呕！
 [Character(name="avg_378_asbest_1#1$1")]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=2)]
 [name="快乐的阿达克利斯人"] 这人不简单啊，你看她在找石头煮汤。
 [name="快乐的阿达克利斯人"] 这可是只有咱们村的人才知道的！这种有咸味的石头，放进汤里可以增加鲜味，她从哪里学来的？昨天集市上没见有人给她说啊！
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=1)]
 [name="认真的阿达克利斯人"] 嗬，她还知道那个藤！还是你给我说的呢，嚼起来是酸甜味道的，我可喜欢了。
 [Character(name="avg_378_asbest_1#1$1")]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=1)]
 [name="认真的阿达克利斯人"] 喔，她要去抓鳞了？
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=2)]
@@ -222,7 +222,7 @@
 [name="快乐的阿达克利斯人"] 噗。
 [name="快乐的阿达克利斯人"] 走吧，我们去折点藤条吃~
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=1)]
-[name="认真的阿达克利斯人"] ......
+[name="认真的阿达克利斯人"] ……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -241,7 +241,7 @@
 [name="石棉"]  喂，我说你们几个以为我没看见吗，还要跟着我到什么时候？
 [name="石棉"]  你旁边那个呢，她掉水里被鳞吃了？
 [Character(name="avg_378_asbest_1#7$1", name2="avg_npc_072",focus=2)]
-[name="害羞的阿达克利斯人"]  不是的，她、她刚才看到你吃毛毛虫，她也想吃......
+[name="害羞的阿达克利斯人"]  不是的，她、她刚才看到你吃毛毛虫，她也想吃……
 [name="害羞的阿达克利斯人"]  她好像吃错虫了！
 [name="害羞的阿达克利斯人"]  我、你能来帮我们一下吗？
 [Character(name="avg_378_asbest_1#3$1", name2="avg_npc_072",focus=1)]
@@ -249,17 +249,17 @@
 [Character(name="avg_378_asbest_1#4$1", name2="avg_npc_072",focus=1)]
 [name="石棉"]  你们这都什么人啊？
 [Character(name="avg_378_asbest_1#4$1", name2="avg_npc_072",focus=2)]
-[name="害羞的阿达克利斯人"]  因为你吃了......
+[name="害羞的阿达克利斯人"]  因为你吃了……
 [Character(name="avg_378_asbest_1#7$1", name2="avg_npc_072",focus=1)]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [Character(name="avg_378_asbest_1#5$1", name2="avg_npc_072",focus=1)]
 [name="石棉"]  你知道她吃的是什么虫？吃了多少？
 [Character(name="avg_378_asbest_1#5$1", name2="avg_npc_072",focus=2)]
-[name="害羞的阿达克利斯人"]  不知道......但只吃了一点点。
+[name="害羞的阿达克利斯人"]  不知道……但只吃了一点点。
 [Character(name="avg_378_asbest_1#7$1", name2="avg_npc_072",focus=1)]
 [name="石棉"]  那她吐了吗？现在是醒着还是昏迷了？身上有没有出红肿斑点？
 [Character(name="avg_378_asbest_1#7$1", name2="avg_npc_072",focus=2)]
-[name="害羞的阿达克利斯人"]  呃......
+[name="害羞的阿达克利斯人"]  呃……
 [Character(name="avg_378_asbest_1#4$1", name2="avg_npc_072",focus=1)]
 [characteraction(name="left", type="jump", xpos=0, power=20, times=1, fadetime=0.3)]
 [name="石棉"]  算了！我自己看。
@@ -287,11 +287,11 @@
 [characteraction(name="right", type="move", xpos=100, fadetime=0, block=true)]
 [name="石棉"]  啧，再多喝水！然后，你们安静点，别一直在我旁边嗡嗡！
 [Character(name="avg_378_asbest_1#7$1", name2="avg_npc_072",focus=2)]
-[name="害羞的阿达克利斯人"]  ......
+[name="害羞的阿达克利斯人"]  ……
 [Character(name="avg_npc_070")]
-[name="快乐的阿达克利斯人"] ......
+[name="快乐的阿达克利斯人"] ……
 [Character(name="avg_npc_071")]
-[name="认真的阿达克利斯人"] ......
+[name="认真的阿达克利斯人"] ……
 [Character(name="avg_npc_070")]
 [name="快乐的阿达克利斯人"] 篝火好暖。
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=1)]
@@ -315,7 +315,7 @@
 [name="认真的阿达克利斯人"] 嘿！♪
 [Character(name="avg_378_asbest_1#7$1")]
 [name="石棉"]  ！
-[name="石棉"]  ......
+[name="石棉"]  ……
 [Character(name="avg_378_asbest_1#4$1")]
 [name="石棉"]  你们真的是姑奶奶我遇到的最离谱的一群人。
 [Character(name="avg_npc_071", name2="avg_npc_070",focus=2)]
@@ -329,7 +329,7 @@
 [Character(name="avg_npc_070")]
 [name="快乐的阿达克利斯人"] 你来我们这里干什么呀，你还买了我的东西，你要住在这里吗？
 [Character(name="avg_378_asbest_1#7$1")]
-[name="石棉"]  哈......我真的是......
+[name="石棉"]  哈……我真的是……
 [name="石棉"]  不住，我爬大瀑布。
 [Character(name="avg_npc_071")]
 [name="认真的阿达克利斯人"] 咦——说大话~从来没人能爬上去！
@@ -338,20 +338,20 @@
 [Character(name="avg_npc_071")]
 [name="认真的阿达克利斯人"] 那你为什么要爬瀑布？会死吧？而且爬上去干什么，上面会有更多的鳞吗？
 [Character(name="avg_378_asbest_1#1$1")]
-[name="石棉"]  ......看风景。
+[name="石棉"]  ……看风景。
 [Character(name="avg_npc_072")]
-[name="害羞的阿达克利斯人"]  看风景......？瀑布吗？不是这里到处都有的吗？
+[name="害羞的阿达克利斯人"]  看风景……？瀑布吗？不是这里到处都有的吗？
 [Character(name="avg_378_asbest_1#5$1")]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [name="石棉"]  刺激。爬瀑布很爽。
 [Character(name="avg_npc_070")]
-[name="快乐的阿达克利斯人"] 啊，刺激......？我们住在这里，找到吃的，活下去就好了，爬瀑布刺激吗？
+[name="快乐的阿达克利斯人"] 啊，刺激……？我们住在这里，找到吃的，活下去就好了，爬瀑布刺激吗？
 [Character(name="avg_npc_071")]
 [name="认真的阿达克利斯人"] 对啊，这里就是我们生活的地方，而且万一上面有一堆毒虫，你不就死了？这可不刺激啊！
 [Character(name="avg_npc_072")]
 [name="害羞的阿达克利斯人"]  是哎，会死的，你不要想不开啊！
 [Character(name="avg_378_asbest_1#7$1")]
-[name="石棉"]  哈......我......
+[name="石棉"]  哈……我……
 [Character(name="avg_npc_072")]
 [name="害羞的阿达克利斯人"]  你是不是前几天买东西把身上的钱都花光了，我们都看到你吃毛毛虫了，但你会抓鳞啊，只要你抓到很多，还是能赚钱的！
 [Character(name="avg_npc_071")]
@@ -394,13 +394,13 @@
 [characteraction(name="middle", type="move", ypos=80, fadetime=1, block=true)]
 [delay(time=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="直爽的阿达克利斯人"] ......呃！呜噗！呃呃呃！！
+[name="直爽的阿达克利斯人"] ……呃！呜噗！呃呃呃！！
 [Character(name="avg_378_asbest_1#1$1")]
 [name="石棉"]  哦！谢天谢地，她醒了，你们快带她走吧。
 [Character(name="avg_npc_072", name2="avg_npc_073",focus=1)]
 [name="害羞的阿达克利斯人"]  啊，你还好吗？
 [Character(name="avg_npc_072", name2="avg_npc_073",focus=2)]
-[name="直爽的阿达克利斯人"] 呕、呃、呜......
+[name="直爽的阿达克利斯人"] 呕、呃、呜……
 [dialog]
 [playsound(key="$bodyfalldown1",volume=0.5,delay=0.2)]
 [Delay(time=0.5)]
@@ -429,7 +429,7 @@
 [character(name="avg_378_asbest_1#1$1",fadetime=1)]
 [Delay(time=1)]
 [name="石棉"]  呃啊，醒了。
-[name="石棉"]  昨天可真累啊......趁他们几个还没来，赶紧走。
+[name="石棉"]  昨天可真累啊……趁他们几个还没来，赶紧走。
 [PlaySound(key="$d_avg_clothmovement",volume=0.5)]
 [Delay(time=1)]
 [name="石棉"]  东西全了，走了走了！
@@ -458,7 +458,7 @@
 [character(name="avg_378_asbest_1#7$1")]
 [name="石棉"]  （不行，这里的水流太大了，根本站不住！）
 [name="石棉"]  （树枝，那里有根树枝！）
-[name="石棉"]  （......很好，卡在这里了，很结实，顺着它爬过去应该能避开水流......）
+[name="石棉"]  （……很好，卡在这里了，很结实，顺着它爬过去应该能避开水流……）
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=15, randomness=15, fadeout=true, block=false)]
 [character(name="avg_378_asbest_1#3$1")]
 [name="石棉"]  嘿！
@@ -475,8 +475,8 @@
 [Blocker(a=0.2, r=1, g=1, b=1, fadetime=2, block=true)]
 [character(name="avg_378_asbest_1#5$1",fadetime=1)]
 [Delay(time=1)]
-[name="石棉"]  咳咳咳咳咳......！
-[name="石棉"]  呼、呼、差点没喘上气......咳、这水也太猛了......还好这里有个缝让我卡住。
+[name="石棉"]  咳咳咳咳咳……！
+[name="石棉"]  呼、呼、差点没喘上气……咳、这水也太猛了……还好这里有个缝让我卡住。
 [name="石棉"]  没死！就差一点了！
 [name="石棉"]  来了！
 [dialog]
@@ -502,9 +502,9 @@
 半个小时后
 [PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
 [character(name="avg_npc_072")]
-[name="害羞的阿达克利斯人"]  哈......哈......  
+[name="害羞的阿达克利斯人"]  哈……哈……  
 [character(name="avg_npc_073")]
-[name="直爽的阿达克利斯人"] 累死我了......
+[name="直爽的阿达克利斯人"] 累死我了……
 [character(name="avg_npc_070")]
 [name="快乐的阿达克利斯人"] 我看了一圈，没有毒虫，她不会死，可以放心了！哎，这里还有这种藤？哇，好多！这里长了好多！
 [name="快乐的阿达克利斯人"] 这上面是个好地方啊，这么难找的藤在这里有这么多！
@@ -516,7 +516,7 @@
 [name="直爽的阿达克利斯人"] 哎，那个，卡纳也给我说了，你们外乡人可能不喜欢打架，那天是我不对，不应该先打你。
 [name="直爽的阿达克利斯人"] 但你的尾巴真的很帅！
 [character(name="avg_378_asbest_1#5$1")]
-[name="石棉"]  呃......啰啰嗦嗦的！
+[name="石棉"]  呃……啰啰嗦嗦的！
 [name="石棉"]  都闭嘴看风景！
 [Dialog]
 [character]
@@ -534,11 +534,11 @@
 [name="石棉"]  喂——
 [Characteraction(name="middle", type="jump", xpos=0, power=30, times=1, fadetime=0.7,block=false)]
 [name="石棉"]  呜喂——！
-[name="石棉"]  哇......
+[name="石棉"]  哇……
 [character(name="avg_378_asbest_1#6$1")]
 [name="石棉"]  真美啊。 
 [character(name="avg_npc_071")]
-[name="认真的阿达克利斯人"] 真好啊......
+[name="认真的阿达克利斯人"] 真好啊……
 [name="认真的阿达克利斯人"] 我想唱歌。
 [name="认真的阿达克利斯人"] 我们把她围起来吧！手拉手，来，唱起来！
 [Dialog]
@@ -576,7 +576,7 @@
 [character(name="avg_378_asbest_1#5$1")]
 [name="石棉"]  啊。行吧。
 [character(name="avg_378_asbest_1#2$1")]
-[name="石棉"]  ......
+[name="石棉"]  ……
 [Dialog]
 [Characteraction(name="middle", type="jump", xpos=25,power=0,times=1, fadetime=0.5, block=true)]
 [Blocker(a=0,fadetime=0.5, block=true)]
@@ -587,7 +587,7 @@
 [Dialog]
 [CameraShake(duration=1, xstrength=50, ystrength=0, vibrato=3, randomness=70, fadeout=true, block=true)]
 [character(name="avg_378_asbest_1#4$1")]
-[name="石棉"]  ......别转了头晕！！
+[name="石棉"]  ……别转了头晕！！
 [Dialog]
 [stopsound(channel="bgs", fadetime=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -623,7 +623,7 @@
 [name="石棉"]  累死！
 [name="石棉"]  这群人也太能闹了，我宁愿爬十个瀑布。
 [character(name="avg_378_asbest_1#2$1")]
-[name="石棉"]  啊，这回的游记写什么好呢......
+[name="石棉"]  啊，这回的游记写什么好呢……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -640,9 +640,9 @@
 [character]
 [name="阿达克利斯人们"] ？
 [character(name="avg_npc_075")]
-[name="依娜姆"]  游记......就是在一个新地方的心情和见识的记录。
+[name="依娜姆"]  游记……就是在一个新地方的心情和见识的记录。
 [name="依娜姆"]  我路上看了看，她对风景的评判可真是刁钻啊，明明从瀑布上下来的时候高兴得很呢。
-[name="依娜姆"]  嗯......这上面是雷姆必拓语，我给你们翻译一下吧，我看那边宣传的可都是什么“石棉新增版块《当地人见闻》”，你们被写进去了哦！
+[name="依娜姆"]  嗯……这上面是雷姆必拓语，我给你们翻译一下吧，我看那边宣传的可都是什么“石棉新增版块《当地人见闻》”，你们被写进去了哦！
 [character]
 [CameraShake(duration=0.5, xstrength=10, ystrength=10, vibrato=20, randomness=90, fadeout=true, block=false)]
 [name="阿达克利斯人们"] 我们被写进书里了！

@@ -41,10 +41,10 @@
 [charslot(slot="r",name="avg_npc_2246_1#2$1",focus="r")]
 [name="希尔达"]我不去，阿纳托利。
 [charslot(slot="l",name="avg_npc_2235_1#9$1",focus="l")]
-[name="阿纳托利"]......连你也不听我的话了吗？
+[name="阿纳托利"]……连你也不听我的话了吗？
 [charslot(slot="r",name="avg_npc_2246_1#10$1",focus="r")]
 [name="希尔达"]不，不是的。我尊重你的权威，也尊重你的决定。可是，我们之前说的话，你都忘了吗？
-[name="希尔达"]你还是要回到你母亲的身边，甚至要把我先送走......
+[name="希尔达"]你还是要回到你母亲的身边，甚至要把我先送走……
 [name="希尔达"]如果我走了，那么，谁来保证你的安全呢？
 [charslot(slot="l",name="avg_npc_2235_1#4$1",focus="l")]
 [name="阿纳托利"]我有军舰，我有这些光荣的乌萨斯军人——他们还坚守在这里！虽然他们当中不乏懦弱之辈，拿来填线却也算合用。
@@ -52,22 +52,22 @@
 [name="阿纳托利"]虽然我现在躲在这里，但只要把那些逃命的虫豸都清除出泽尔格勒，我就能把它变回原来的样子！我能向母亲证明自己——
 [name="阿纳托利"]证明我没有辜负她的姓氏。
 [charslot(slot="r",name="avg_npc_2246_1#10$1",focus="r")]
-[name="希尔达"]阿纳托利......
+[name="希尔达"]阿纳托利……
 [charslot(slot="l",name="avg_npc_2235_1#3$1",focus="l")]
 [name="阿纳托利"]这里是战场，我没法一直看顾着你。虽然你也不能在我身边，但你的保护，难道不是一直都在生效吗？
 [charslot(slot="l",name="avg_npc_2235_1#3$1",focus="none")]
 少年脸上带着天真的笑容，指向自己身上那些金色的石头。不知不觉间，它们变得越来越多了。
 [charslot(slot="r",name="avg_npc_2246_1#10$1",focus="r")]
-[name="希尔达"]......
+[name="希尔达"]……
 [name="希尔达"]可是，阿纳托利。你要你的亲卫把我送回驻地，但你母亲却已经要从驻地开拔，前往边境了。
 [charslot(slot="l",name="avg_npc_2235_1#9$1",focus="l")]
-[name="阿纳托利"]......什么？
+[name="阿纳托利"]……什么？
 [charslot(slot="r",name="avg_npc_2246_1#10$1",focus="r")]
 [name="希尔达"]我说，斯韦特兰纳元帅，要完全放弃你和泽尔格勒，甚至连逗留在靠近泽尔格勒的驻地也不愿了。
 [name="希尔达"]阿纳托利，如果你现在和我一起走，还来得及——
-[name="希尔达"]还来得及赶上你母亲的舰队，还来得及......去得到一个答案。
+[name="希尔达"]还来得及赶上你母亲的舰队，还来得及……去得到一个答案。
 [charslot(slot="l",name="avg_npc_2235_1#9$1",focus="l")]
-[name="阿纳托利"]......
+[name="阿纳托利"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -87,7 +87,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(duration=2.5)]
 [Delay(time=3.5)]
-[name="阿纳托利"]......
+[name="阿纳托利"]……
 [charslot(slot="m",name="avg_npc_2231_1#7$1",focus="m")]
 [name="斯韦特兰纳"]是阿纳托利吧。
 [name="斯韦特兰纳"]我听出你的脚步声了。
@@ -103,14 +103,14 @@
 [charslot(slot="l",name="avg_npc_2231_1#1$1",focus="l")]
 [name="斯韦特兰纳"]你为何不遵守我下达的撤退的军令？
 [charslot(slot="r",name="avg_npc_2235_1#8$1",focus="r")]
-[name="阿纳托利"]我才要问您呢......母亲。
+[name="阿纳托利"]我才要问您呢……母亲。
 [charslot(slot="r",name="avg_npc_2235_1#9$1",focus="r")]
 [name="阿纳托利"]您为何要抛弃泽尔格勒？您已经将这座城市许诺给了我，又为何要将它丢给那些叛军！
 [charslot(slot="l",name="avg_npc_2231_1#3$1",focus="l")]
 [name="斯韦特兰纳"]我们已经从零号项目中得到了我们所需要的一切，相比之下那座城市本身已经不值一提。
 [name="斯韦特兰纳"]现在我们最要紧的事，是带着我们的研究成果撤离。
 [charslot(slot="r",name="avg_npc_2235_1#9$1",focus="r")]
-[name="阿纳托利"]我不敢相信......他们说的居然是真的......
+[name="阿纳托利"]我不敢相信……他们说的居然是真的……
 [charslot(slot="r",name="avg_npc_2235_1#8$1",focus="r")]
 [name="阿纳托利"]您居然，真的背叛了乌萨斯。
 [charslot(slot="l",name="avg_npc_2231_1#1$1",focus="l")]
@@ -124,10 +124,10 @@
 [charslot(slot="l",name="avg_npc_2231_1#7$1",focus="l")]
 [name="斯韦特兰纳"]够了，你的状态很不好。我会让其他人接手你的任务，回到你的房间休息吧。
 [charslot(slot="l",name="avg_npc_2231_1#3$1",focus="l")]
-[name="斯韦特兰纳"]阿纳托利......总有一天，我会把一切都托付给你，只是希望到那个时候......你不会像现在这样幼稚。
+[name="斯韦特兰纳"]阿纳托利……总有一天，我会把一切都托付给你，只是希望到那个时候……你不会像现在这样幼稚。
 [charslot(slot="r",name="avg_npc_2235_1#9$1",focus="r")]
-[name="阿纳托利"]我不明白......母亲，我已经不知道了，我到底是什么人？
-[name="阿纳托利"]我不是光荣的乌萨斯军人，我不是感染者，我不是血脉纯净的贵族，我甚至不确定自己是否还活着......
+[name="阿纳托利"]我不明白……母亲，我已经不知道了，我到底是什么人？
+[name="阿纳托利"]我不是光荣的乌萨斯军人，我不是感染者，我不是血脉纯净的贵族，我甚至不确定自己是否还活着……
 [charslot(slot="l",name="avg_npc_2231_1#5$1",focus="l")]
 [name="斯韦特兰纳"]够了！不要再胡说八道了——
 [Dialog]
@@ -136,17 +136,17 @@
 [Delay(time=2)]
 [charslot(slot="r",afrom=0,ato=0)]
 [charslot(slot="m",name="avg_npc_2235_1#10$1",posfrom="200,0",posto="200,0",focus="m")]
-[name="阿纳托利"]为什么......您永远这样轻视我......
+[name="阿纳托利"]为什么……您永远这样轻视我……
 [name="阿纳托利"]就因为我是——是您与那个该死的败将生下的孩子？
 [charslot(slot="l",name="avg_npc_2231_1#10$1",focus="l")]
-[name="斯韦特兰纳"]......不，阿纳托利。无论如何，我对你生气的原因，不会是你的血脉。
+[name="斯韦特兰纳"]……不，阿纳托利。无论如何，我对你生气的原因，不会是你的血脉。
 [name="斯韦特兰纳"]因为唯有这个，是你自身无论如何都不能选择的。
 [charslot(slot="m",name="avg_npc_2235_1#10$1",posfrom="200,0",posto="200,0",focus="m")]
 [name="阿纳托利"]可您没有否认我是他的血脉。
 [charslot(slot="l",name="avg_npc_2231_1#1$1",focus="l")]
 [name="斯韦特兰纳"]那重要吗？
 [charslot(slot="m",name="avg_npc_2235_1#10$1",posfrom="200,0",posto="200,0",focus="m")]
-[name="阿纳托利"]......不重要吗？
+[name="阿纳托利"]……不重要吗？
 [charslot(slot="l",name="avg_npc_2231_1#4$1",focus="l")]
 [name="斯韦特兰纳"]阿纳托利。
 [charslot(slot="m",name="avg_npc_2235_1#10$1",posfrom="200,0",posto="200,0",focus="m")]
@@ -172,9 +172,9 @@
 [name="阿纳托利"]解释您对我所有的放纵和利用，所有的溺爱和心不在焉？
 [name="阿纳托利"]您看我不是在看一个儿子，而是在看一样物品，是不是？因为是物品，所以不需要教养，因为是物品，所以可以被当作吸引视线的工具！
 [name="斯韦特兰纳"]咳、咳咳！
-[name="斯韦特兰纳"]不......不是——
-[name="阿纳托利"]......那我是什么呢，母亲？
-[name="阿纳托利"]最多也不过是某种随时可以抛弃的存在......对不对？
+[name="斯韦特兰纳"]不……不是——
+[name="阿纳托利"]……那我是什么呢，母亲？
+[name="阿纳托利"]最多也不过是某种随时可以抛弃的存在……对不对？
 [name="斯韦特兰纳"]托里卡，孩子——
 [name="阿纳托利"]您要把我逼疯了，母亲。
 [Dialog]
@@ -192,14 +192,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_2235_1#10$1",duration=1.5)]
 [Delay(time=1.5)]
-[name="阿纳托利"]瞧啊，您的血，竟然也是热的......
+[name="阿纳托利"]瞧啊，您的血，竟然也是热的……
 [charslot(slot="m",name="avg_npc_2235_1#10$1",focus="none")]
-[name="斯韦特兰纳"]嗬......嗬——
-[name="斯韦特兰纳"]......托里卡，不......
+[name="斯韦特兰纳"]嗬……嗬——
+[name="斯韦特兰纳"]……托里卡，不……
 [charslot(slot="m",name="avg_npc_2235_1#10$1",focus="m")]
-[name="阿纳托利"]为什么......
+[name="阿纳托利"]为什么……
 [name="阿纳托利"]为什么我不能只是您的儿子，只是一个能令您骄傲的孩子呢？
-[name="阿纳托利"]我不明白，为什么要有这么多......复杂的东西？
+[name="阿纳托利"]我不明白，为什么要有这么多……复杂的东西？
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(duration=2.5)]
@@ -221,7 +221,7 @@
 [charslot(slot="m",name="avg_4226_veen_1#7$1",focus="m")]
 [name="斯乔帕"]和现在的速度比起来，之前的行军简直就像是在郊游啊。
 [charslot(slot="m",name="avg_4226_veen_1#11$1",focus="m")]
-[name="斯乔帕"]这就是高速战舰......在战时情况下，其实也没办法做到真正的全速前进，只有现在——
+[name="斯乔帕"]这就是高速战舰……在战时情况下，其实也没办法做到真正的全速前进，只有现在——
 [name="斯乔帕"]让我来见识一下吧。
 [Dialog]
 [animtext(id = "at1", name = "group_location_stamp", style="avg_only_medium", pos = "-400,-200", block = false)]<p=2>距离护卫舰 120 公里，速度 30 公里/小时</>
@@ -231,12 +231,12 @@
 [PlaySound(key="$transmission", volume=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4226_veen_1#11$1",focus="none")]
-[name="通讯里的声音"]识别到不明攻击舰......
+[name="通讯里的声音"]识别到不明攻击舰……
 [charslot(slot="m",name="avg_4226_veen_1#11$1",focus="none")]
 [name="通讯里的声音"]这里是第四集团军指挥中心。请发送识别码。
-[name="通讯里的声音"]......可能是“利沃诺夫号”......
+[name="通讯里的声音"]……可能是“利沃诺夫号”……
 [charslot(slot="m",name="avg_4226_veen_1#7$1",focus="m")]
-[name="斯乔帕"]......
+[name="斯乔帕"]……
 [Dialog]
 [PlaySound(key="$transmission", volume=1)]
 [charslot(slot="m",name="avg_4226_veen_1#7$1",focus="none")]
@@ -253,7 +253,7 @@
 [charslot(slot="m",name="avg_4226_veen_1#7$1",focus="none")]
 [name="通讯里的声音"]不明攻击舰，你正高速接近第四集团军主力舰队护卫舰。发送识别码。
 [name="通讯里的声音"]这是第一次警告，请立刻发送识别码，以证明你方并无攻击意图，亦未受到挟持。
-[name="通讯里的声音"]......
+[name="通讯里的声音"]……
 [name="通讯里的声音"]目标没有减速。
 [name="通讯里的声音"]先通知甲板炮位待命。
 [name="通讯里的声音"]是的。
@@ -317,7 +317,7 @@
 [name="通讯里的声音"]不明攻击舰，你已进入短程攻击范围！
 [name="通讯里的声音"]开火，目标是逼停对面，不要直接轰毁整艘舰船。
 [charslot(slot="m",name="avg_4226_veen_1#11$1",focus="m")]
-[name="斯乔帕"]......
+[name="斯乔帕"]……
 [Dialog]
 [PlaySound(key="$d_avg_shipcannon",channel="cp3", volume=0.6)]
 [delay(time=0.5)]
@@ -342,7 +342,7 @@
 [CameraShake(duration=3, xstrength=10, ystrength=10, vibrato=90, randomness=90, fadeout=true, block=false)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_4226_veen_1#6$1",focus="none")]
-[name="通讯里的声音"]......该死，那明明就是“利沃诺夫号”——为什么还在加速？
+[name="通讯里的声音"]……该死，那明明就是“利沃诺夫号”——为什么还在加速？
 [name="通讯里的声音"]继续攻击！
 [Dialog]
 [PlaySound(key="$d_avg_shipcannon",channel="cp3", volume=0.6)]
@@ -387,15 +387,15 @@
 [Blocker(a=0.1, r=1, g=0, b=0, fadetime=2, block=true)]
 [PlaySound(key="$transmission", volume=1)]
 [charslot(slot="m",name="avg_4226_veen_1#1$1",focus="none")]
-[name="通讯里的声音"]......滋......
-[name="通讯里的声音"]......确认击中——
-[name="通讯里的声音"]确认速度......
-[name="通讯里的声音"]......
+[name="通讯里的声音"]……滋……
+[name="通讯里的声音"]……确认击中——
+[name="通讯里的声音"]确认速度……
+[name="通讯里的声音"]……
 [name="通讯里的声音"]这群天杀的亡命之徒！
 [name="叶甫根尼"]斯乔帕·拉辛，如果你现在停下鲁莽而不负责的行动，我可以对“谢钦”之前犯下的所有过错都既往不咎。
 [name="叶甫根尼"]带着你的队伍归队吧。
 [charslot(slot="m",name="avg_4226_veen_1#11$1",focus="m")]
-[name="斯乔帕"]啧......
+[name="斯乔帕"]啧……
 [name="斯乔帕"]有时候我是真羡慕你的教养，都被人骑到脸上了，还能端出一副好姿态来求和。
 [charslot(slot="m",name="avg_4226_veen_1#1$1",focus="m")]
 [name="斯乔帕"]不过你不用担心，我正是来把“利沃诺夫号”还给你的。
@@ -405,7 +405,7 @@
 [name="叶甫根尼"]你这该死的蠢货——
 [charslot(slot="m",name="avg_4226_veen_1#1$1",focus="m")]
 [name="斯乔帕"]刚才还说我是亡命之徒呢，现在又变成蠢货了。算了，让让你，我们就好聚好散吧。
-[name="斯乔帕"]对了，“利沃诺夫号”已经被锁定了行驶模式，就算是我也关不掉。所以，你最好是派你的亲卫队赶紧来帮你挡住这大家伙，不然......
+[name="斯乔帕"]对了，“利沃诺夫号”已经被锁定了行驶模式，就算是我也关不掉。所以，你最好是派你的亲卫队赶紧来帮你挡住这大家伙，不然……
 [charslot(slot="m",name="avg_4226_veen_1#10$1",focus="m")]
 [name="斯乔帕"]我也不知道最后会发生什么。
 [name="斯乔帕"]就这样。那么，再见了。
@@ -461,7 +461,7 @@
 [Delay(time=1.5)]
 [SoundVolume(volume=0.8,channel="wi", fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="斯乔帕"]哈......自己唱可真没劲啊！
+[name="斯乔帕"]哈……自己唱可真没劲啊！
 [name="斯乔帕"]老祖母在上，要我说，现在就该这么唱——
 [name="斯乔帕"]去他*乌萨斯粗口*的黑幕，去他*乌萨斯粗口*的死亡——
 [name="斯乔帕"]“维伊”——也没什么了不起！
@@ -486,27 +486,27 @@
 [playMusic(intro="$loneliness_intro",key="$loneliness_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="none")]
-[name="阿纳托利"]希尔达......你在这里。终于找到你了。
+[name="阿纳托利"]希尔达……你在这里。终于找到你了。
 [name="阿纳托利"]你为什么不等我——咳咳！
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="m")]
-[name="希尔达"]......我要离开了，阿纳托利。
+[name="希尔达"]……我要离开了，阿纳托利。
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="none")]
 [name="阿纳托利"]你说什么？
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="m")]
 [name="希尔达"]我说，我要离开了。我要去寻找我的同伴，先前，我将他们托付给了一群可靠的人。
-[name="希尔达"]而我本就应该继续尽力去帮助更多受苦的人......
+[name="希尔达"]而我本就应该继续尽力去帮助更多受苦的人……
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="none")]
 [name="阿纳托利"]那我呢？那我呢？！
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="m")]
 [name="希尔达"]和我一起吧，阿纳托利。
 [name="希尔达"]你在这里，是得不到任何拯救的。
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="none")]
-[name="阿纳托利"]哈......是啊，当然了！更不用说我还因为你和那个女人——因为你们的话——我刺杀了我的母亲！
+[name="阿纳托利"]哈……是啊，当然了！更不用说我还因为你和那个女人——因为你们的话——我刺杀了我的母亲！
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="m")]
 [name="希尔达"]不，不是因为这个。这是正确的事。
 [name="希尔达"]你母亲令你痛苦，也令城市陷入战火，使无数人流离失所。但你的行动，却会给之后的更多人带去生机。
 [charslot(slot="m",name="avg_npc_2246_1#2$1",focus="none")]
-[name="阿纳托利"]......什么？
+[name="阿纳托利"]……什么？
 [charslot(slot="m",name="avg_npc_2246_1#9$1",focus="m")]
 [name="希尔达"]你偿还了你的罪孽。你做得很好，阿纳托利。
 [Dialog]
@@ -518,20 +518,20 @@
 [CameraShake(duration=1, xstrength=10, ystrength=10, vibrato=90, randomness=90, fadeout=true, block=false)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2246_1#10$1",focus="m")]
-[name="希尔达"]阿纳托利......
+[name="希尔达"]阿纳托利……
 [Dialog]
 [charslot]
 等希尔达俯下身去，她才再一次得以仔细打量眼前少年的身体。
 黄色的石头几乎已经遍布他的全身，不断从布料下支起嶙峋的形状。
 他已经到极限了。
 [Dialog]
-[name="阿纳托利"]罢了......你到底怎么想的，都不重要了。只是......
+[name="阿纳托利"]罢了……你到底怎么想的，都不重要了。只是……
 [name="阿纳托利"]救我吧，再救我一次，希尔达。
-[name="阿纳托利"]你能做到，只有你能......
+[name="阿纳托利"]你能做到，只有你能……
 [charslot(slot="m",name="avg_npc_2246_1#10$1",focus="m")]
 [name="希尔达"]可我，已经不愿了。
 [charslot(slot="m",name="avg_npc_2246_1#10$1",focus="none")]
-[name="阿纳托利"]......希尔达？
+[name="阿纳托利"]……希尔达？
 [charslot(slot="m",name="avg_npc_2246_1#10$1",focus="m")]
 [name="希尔达"]如果这就是你的终局，那我愿意接受它。因为我不愿你继续投入这样痛苦的、毫无意义的人生。
 [name="希尔达"]所以，这一次，我不会再救你。
@@ -551,9 +551,9 @@
 [charslot(slot="l",name="avg_188_helage_1#3$1",focus="l")]
 [name="赫拉格"]已经快十点了。从九点半开始，陆续入场的都是贵族。
 [charslot(slot="l",name="avg_188_helage_1#9$1",focus="l")]
-[name="赫拉格"]即使多数都是我不认识的面孔......但他们的出场做派，丝毫没有掩饰的意思。
+[name="赫拉格"]即使多数都是我不认识的面孔……但他们的出场做派，丝毫没有掩饰的意思。
 [charslot(slot="r",name="avg_npc_1966_1#20$1",focus="r")]
-[name="阿洛伊泽"]......
+[name="阿洛伊泽"]……
 [charslot(slot="l",name="avg_188_helage_1#3$1",focus="l")]
 [name="赫拉格"]难道是更改了时间吗？
 [charslot(slot="r",name="avg_npc_1966_1#3$1",focus="r")]
@@ -570,16 +570,16 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_2162_1#1$1",duration=1.5)]
 [Delay(time=2.5)]
-[name="瓦西里"]......
+[name="瓦西里"]……
 [charslot(slot="m",name="avg_npc_2171_1#1$1",focus="m")]
 [name="忧心的贵族"]沃尔金娜公爵还没来吗？
 [charslot(slot="m",name="avg_npc_2162_1#3$1",focus="m")]
 [name="瓦西里"]中央集团军并未收到任何调令，首都卫戍军团对会议现场的兵力布置也尚在合理范围内。
 [name="瓦西里"]她也许只是又一次选择了旁观。
 [charslot(slot="m",name="avg_npc_2171_1#1$1",focus="m")]
-[name="忧心的贵族"]唉，也在意料之中。还有五分钟就要开始了......我们先进去吧，副议长阁下。
+[name="忧心的贵族"]唉，也在意料之中。还有五分钟就要开始了……我们先进去吧，副议长阁下。
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
-[name="瓦西里"]您先去吧，我还要在这里......等一个人。
+[name="瓦西里"]您先去吧，我还要在这里……等一个人。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -601,7 +601,7 @@
 [PlaySound(key="$d_avg_openftstpwalk", volume=1)]
 [charslot(slot="m",name="avg_npc_2155_1#1$2",duration=1.5)]
 [Delay(time=2.5)]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [Dialog]
 [PlaySound(key="$d_avg_openftstpwalk", volume=1)]
 [charslot(duration=1.5)]
@@ -613,7 +613,7 @@
 [name="费奥多尔"]确保他们的安全。
 [charslot(slot="m",name="avg_npc_1984_1#1$1",focus="m")]
 [name="维特"]（低声）会的。我们本就对这种情况有所预料，接下来，您只需要坚持将法案的推行变作定局即可。
-[name="维特"]（低声）投票......只是过场。
+[name="维特"]（低声）投票……只是过场。
 [Dialog]
 [charslot]
 费奥多尔点头，没再多说，与维特错身而过，独自向台上走去。
@@ -648,14 +648,14 @@
 [Delay(time=2.5)]
 [charslot]
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [charslot(slot="m",name="avg_npc_2155_1#2$2",focus="m")]
 [name="费奥多尔"]在你继续慷慨陈词之前，先回到你的座位上吧，小姐。
 [name="费奥多尔"]你挡着我的路了。
 [charslot(slot="m",name="avg_npc_2173_1#1$1",focus="m")]
 [name="年轻的贵族"]陛下——
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]而且既然你们自称能代表“公民”......
+[name="费奥多尔"]而且既然你们自称能代表“公民”……
 [name="费奥多尔"]那就仔细听听，我们伟大乌萨斯的公民们，如今到底更需要些什么吧。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -674,7 +674,7 @@
 [charslot(slot="m",name="avg_npc_1966_1#2$1",focus="m")]
 [name="阿洛伊泽"]你已经清楚地表达过一次，在远北，在炮轰的危机下。这一次，只是一群手无寸铁的人，在用他们的口舌作为武器相互攻讦。
 [charslot(slot="m",name="avg_npc_1966_1#1$1",focus="m")]
-[name="阿洛伊泽"]你要做的，依然是去揭开真相，去说出......
+[name="阿洛伊泽"]你要做的，依然是去揭开真相，去说出……
 [name="阿洛伊泽"]你们想说的话。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -687,7 +687,7 @@
 [charslot(slot="m",name="avg_npc_2171_1#1$1",focus="m")]
 [name="忧心的贵族"]等到您想等的人了吗，副议长阁下？
 [charslot(slot="m",name="avg_npc_2162_1#3$1",focus="m")]
-[name="瓦西里"]不，她没有来......
+[name="瓦西里"]不，她没有来……
 [charslot(slot="m",name="avg_npc_2171_1#1$1",focus="m")]
 [name="忧心的贵族"]那也许她就是不会来的。您也说了，可能她不过是又一次选择了旁观——
 [name="忧心的贵族"]啊，要开始了。
@@ -709,7 +709,7 @@
 [Delay(time=3.5)]
 [charslot(slot="m",name="avg_npc_2155_1#4$2",focus="m")]
 [SoundVolume(volume=0,channel="1", fadetime=2)]
-[name="费奥多尔"]......即使是这样，我依旧觉得太晚了。
+[name="费奥多尔"]……即使是这样，我依旧觉得太晚了。
 [charslot(slot="m",name="avg_npc_2155_1#2$2",focus="m")]
 [name="费奥多尔"]晚到“卡托加区事件”发生，晚到即使萨列夫格勒区分出能源到居民区，也已经无济于事。
 [name="费奥多尔"]这是一场绝无仅有的危机。它甚至不仅是当下的，而是一场如果得不到长效解决，就会将乌萨斯彻底从泰拉大地上抹除的危机。
@@ -719,35 +719,35 @@
 [charslot]
 一片寂静。一时间既没有人质疑，也没有人附和。
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]......它只是一个先行办法，会在之后的实操中逐渐调整和优化，但至少能先将我们的民众从冻毙在寒冬中的可能里拯救——
+[name="费奥多尔"]……它只是一个先行办法，会在之后的实操中逐渐调整和优化，但至少能先将我们的民众从冻毙在寒冬中的可能里拯救——
 [charslot(slot="m",name="avg_npc_1981_1#1$1",focus="m")]
 [name="不满的贵族"]陛下这是要把我们自己辛苦打拼和经营的所有产业都收归国有的意思吗？
 [charslot(slot="m",name="avg_npc_2171_1#1$1",focus="m")]
 [name="含蓄的贵族"]或者说，是要把能源，分发给听话的集团军？
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [name="费奥多尔"]如果我们的国家甚至活不过这个冬天，那么再多的产业，再广阔的疆土，也没有任何意义。
 [charslot(slot="m",name="avg_npc_1981_1#1$1",focus="m")]
 [name="不满的贵族"]您话都说到这份上了，为什么不直接宣读条例，然后开始投票呢？
 [name="不满的贵族"]还是说，您见到来的是我们这些老面孔，连该走的过场，都懒得走了？
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
-[name="瓦西里"]......
+[name="瓦西里"]……
 [charslot(slot="m",name="avg_npc_1982_1#1$1",focus="m")]
 [name="恭敬的近侍"]（低声）陛下，这是维特议长让我给您的。
-[name="恭敬的近侍"]（低声）是关于各区本来的代表......我们查到一些之前没有发现的——
+[name="恭敬的近侍"]（低声）是关于各区本来的代表……我们查到一些之前没有发现的——
 [Dialog]
 [charslot]
 费奥多尔低下头去，在看到手中纸页上的那些名字时，愣怔了一瞬。
 他拧眉，望向台下。
 窃窃私语的人们，脸上都挂着相似的、近乎讥嘲的表情。
 [charslot(slot="m",name="avg_npc_1982_1#1$1",focus="m")]
-[name="恭敬的近侍"]（低声）......抱歉，陛下，这是我们的失职。我们应该更早发现这些人都被替换了。
+[name="恭敬的近侍"]（低声）……抱歉，陛下，这是我们的失职。我们应该更早发现这些人都被替换了。
 [name="恭敬的近侍"]（低声）议长说，如果您想择日重新召开真正的公民大会，现在也仍有机会。
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [name="费奥多尔"]不。
 [charslot(slot="m",name="avg_npc_1982_1#1$1",focus="m")]
-[name="恭敬的近侍"]......我知道了。
+[name="恭敬的近侍"]……我知道了。
 [Dialog]
 [charslot(slot="m",afrom=1,ato=0,duration=1)]
 [charslot(slot="m",posfrom="0,0",posto="-100,0",duration=2.5)]
@@ -763,7 +763,7 @@
 [charslot(slot="m",name="avg_npc_2155_1#4$2",focus="m")]
 [name="费奥多尔"]可就在刚才，我才发现事实并非如此。
 [charslot(slot="m",name="avg_npc_2171_1#1$1",focus="m")]
-[name="忧心的贵族"]（小声）我们这样会不会太......
+[name="忧心的贵族"]（小声）我们这样会不会太……
 [charslot(slot="m",name="avg_npc_2162_1#4$1",focus="m")]
 [name="瓦西里"]这是必须的。
 [charslot(slot="m",name="avg_npc_2155_1#2$2",focus="m")]
@@ -772,7 +772,7 @@
 [charslot(slot="m",name="avg_npc_2155_1#4$2",focus="m")]
 [name="费奥多尔"]这下，一切就说得通了。
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]那些奇异的对答如流，那些轻而易举的妥协，还有那些刻意磨破了洞却并不在劳作通常会磨损位置的、不合身的衣裳......
+[name="费奥多尔"]那些奇异的对答如流，那些轻而易举的妥协，还有那些刻意磨破了洞却并不在劳作通常会磨损位置的、不合身的衣裳……
 [name="费奥多尔"]而我却没能在当时就意识到问题。
 [name="费奥多尔"]也许能被愚弄的人，本身就要拥有能被愚弄的资质才行。
 [Dialog]
@@ -804,7 +804,7 @@
 瓦西里没有转头，也没有回应身后投来的无数视线。
 他定定地看着台上的皇帝，似乎在等待他的决策。
 [charslot(slot="m",name="avg_npc_2155_1#6$2",focus="m")]
-[name="费奥多尔"]......你......
+[name="费奥多尔"]……你……
 [Dialog]
 [charslot]
 [SoundVolume(volume=0,channel="1", fadetime=1)]
@@ -820,7 +820,7 @@
 [charslot(slot="m",name="avg_npc_2162_1#4$1",focus="m")]
 [name="瓦西里"]她已经是成年人了。她会为自己的行为负责，不需要我的管教。
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]你是......阿洛伊泽·戈尔奇科娃。
+[name="费奥多尔"]你是……阿洛伊泽·戈尔奇科娃。
 [charslot(slot="m",name="avg_npc_1966_1#20$1",focus="m")]
 [name="阿洛伊泽"]正是。
 [charslot(slot="m",name="avg_npc_2155_1#2$2",focus="m")]
@@ -833,7 +833,7 @@
 [name="阿洛伊泽"]凭她是远北事件的幸存者，是本应出现在女大公听证会上，对她进行指认的证人。
 [name="阿洛伊泽"]也凭她的声音，是任何听过远北那次“广播”的人，都不会遗忘的声音。
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [charslot(slot="m",name="avg_npc_1966_1#6$1",focus="m")]
 [name="阿洛伊泽"]她和她幸存的矿工同伴，本应是奥多耶夫区的代表人。
 [charslot(slot="m",name="avg_npc_2155_1#2$2",focus="m")]
@@ -852,28 +852,28 @@
 [Delay(time=2.5)]
 [name="别乔克"]您、您好。我是，别——别乔克。我妈妈叫我，安雅。
 [name="别乔克"]我来自，远北中心，矿、矿区。
-[name="别乔克"]我想让，收治中心......所有人，都能，有温暖的，床铺。
+[name="别乔克"]我想让，收治中心……所有人，都能，有温暖的，床铺。
 [name="别乔克"]我想让，感染者，也能有，遮风挡雨的，地方。
 [name="别乔克"]我想、想让更多，像我们，一样的人，能平安渡过——
 [name="别乔克"]这个冬天。
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [charslot(slot="m",name="avg_4207_branch_1#10$1",focus="m")]
-[name="别乔克"]我想，投票给，嗯......
+[name="别乔克"]我想，投票给，嗯……
 [charslot(slot="m",name="avg_npc_2155_1#1$2",focus="m")]
-[name="费奥多尔"]......《冬季资源调配紧急法》？
+[name="费奥多尔"]……《冬季资源调配紧急法》？
 [charslot(slot="m",name="avg_4207_branch_1#7$1",focus="m")]
 [multiline(name="别乔克")]嗯，对！
 [charslot(slot="m",name="avg_4207_branch_1#10$1",focus="m")]
 [multiline(name="别乔克")]我想，投票。我想，让更多人，不会因为，寒冷，和病痛，死去。
 [name="别乔克"]我，可以吗？
 [charslot(slot="m",name="avg_npc_2155_1#9$2",focus="m")]
-[name="费奥多尔"]......
-[name="费奥多尔"]当然......
+[name="费奥多尔"]……
+[name="费奥多尔"]当然……
 [charslot(slot="m",name="avg_npc_2171_1#1$1",focus="m")]
 [name="含蓄的贵族"]“当然”吗，陛下？您要用什么，来向这个可怜的孩子保证呢？
 [name="含蓄的贵族"]您瞧。您眼中的那些“公民”其实完全不会治理国家，您让他们参与，本质上只是一种彰显自己仁德的怜悯，而不是真正的帮助。
-[name="含蓄的贵族"]就连这法案......最终大概也不过是慷他人之慨，解决不了乌萨斯如今面临的任何重大问题。
+[name="含蓄的贵族"]就连这法案……最终大概也不过是慷他人之慨，解决不了乌萨斯如今面临的任何重大问题。
 [charslot(slot="m",name="avg_npc_1981_1#1$1",focus="m")]
 [name="不满的贵族"]而且，这里难道是什么游乐场，或者是中学礼堂吗？随便什么人捏造了个身份走进来，都能对国家的前途命运大肆发愿了？
 [name="不满的贵族"]陛下，如果您要强行推行这个法案，那我们无话可说，只是您必须知道——
@@ -881,7 +881,7 @@
 [stopmusic(fadetime=2)]
 [name="费奥多尔"]我知道。
 [charslot(slot="m",name="avg_npc_1981_1#1$1",focus="m")]
-[name="不满的贵族"]......嗯？
+[name="不满的贵族"]……嗯？
 [charslot(slot="m",name="avg_npc_2155_1#4$2",focus="m")]
 [name="费奥多尔"]所有的后果，我都知道。
 [Dialog]
@@ -903,19 +903,19 @@
 [name="不满的贵族"]陛下！我必须提醒，您之后可能会为自己轻率的判断付出——
 [name="费奥多尔"]把他拉下去。
 [name="不满的贵族"]陛下！
-[name="瓦西里"]......
+[name="瓦西里"]……
 [name="不满的贵族"]戈尔奇科夫，你这个懦夫！我不会放过你和你该死的女儿——
 士兵很快将这位贵族“请”出了议会大厅，他的叫骂声却还久久盘旋在走廊上空。
 [name="费奥多尔"]如果有人赞同刚才那位的话，想追随他一同离去，那么现在就是时候了。
-[name="众人"]......
+[name="众人"]……
 [name="费奥多尔"]如果没有，那么，我就要宣布此次会议的结果了。
 [name="瓦西里"]陛下——
 [name="费奥多尔"]既然在场诸位，都认为，占据了乌萨斯人口百分之九十以上的民众，或者说，“公民”，他们都不配拥有自己的声音。
 [name="费奥多尔"]那么宣称自己能代表这些“公民”的现存议会，也就没有继续维持的必要了。
 [name="含蓄的贵族"]陛下，您难道要——
-[name="忧心的贵族"]天哪......
+[name="忧心的贵族"]天哪……
 [name="费奥多尔"]我在此宣布，《冬季资源调配紧急法》以一票之差决议通过，将立刻实行。
-[name="费奥多尔"]并且......我以乌萨斯皇帝，唯一君主的权力宣布......
+[name="费奥多尔"]并且……我以乌萨斯皇帝，唯一君主的权力宣布……
 [multiline(name="费奥多尔")]帝国议会，
 [PlaySound(key="$d_avg_bowl_smash", volume=0.5)]
 [Delay(time=1)]

@@ -7,9 +7,9 @@
 [PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
-[Subtitle(text="这样的灾，我们还要遇上多少次......？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="刚长出来的嫩苗、压弯的稻穗、硕果累累的枝头......一场天灾下来，只剩下一大片毫无生气的土地。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="蝗虫会啃食掉作物所有的茎叶，大旱、雪灾、低温、洪水，数不胜数......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="这样的灾，我们还要遇上多少次……？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="刚长出来的嫩苗、压弯的稻穗、硕果累累的枝头……一场天灾下来，只剩下一大片毫无生气的土地。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="蝗虫会啃食掉作物所有的茎叶，大旱、雪灾、低温、洪水，数不胜数……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="初春的一场霜冻差点要了大半新苗的命，我们不知守了多少天才保住剩下的一点。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="还要努力多久，才能让所有人都吃饱肚子？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -29,7 +29,7 @@
 雨飘飘洒洒停了下来，田间的积水却不见消退，渐渐没过了人的脚踝。
 [Dialog]
 [name="着急的农业天师"]怎么前面就下了这么一会雨，水都漫到这了？！
-[name="着急的农业天师"]水这么浑......该不会是连带上游的脏土一块冲过来了？再这么下去田全要被污染了！
+[name="着急的农业天师"]水这么浑……该不会是连带上游的脏土一块冲过来了？再这么下去田全要被污染了！
 [name="着急的农业天师"]*炎国粗口*工地上的在干嘛？快排水啊！
 [Dialog]
 [charslot]
@@ -57,9 +57,9 @@
 [charslot(slot="l",name="avg_npc_1245_1#1$1",focus="l")]
 [name="资深土木天师"]之前为什么没发现？！
 [charslot(slot="r",name="avg_npc_1246_1#1$1",focus="r")]
-[name="年轻的土木天师"]今年水位一直是正常的，之前也没有监测到异常的源石反应，源石活性变化怎么会这么不规律......
+[name="年轻的土木天师"]今年水位一直是正常的，之前也没有监测到异常的源石反应，源石活性变化怎么会这么不规律……
 [charslot(slot="l",name="avg_npc_1245_1#1$1",focus="l")]
-[name="资深土木天师"]见鬼的......偏偏还是汛期，水这么急。
+[name="资深土木天师"]见鬼的……偏偏还是汛期，水这么急。
 [name="资深土木天师"]水里面不知道还混着多少源石碎屑，被冲到田里庄稼就全完了，可能还会造成人员感染。
 [name="资深土木天师"]都小心点！大坝本身的裂口一时半会修不好，先分人去下游堵！
 [charslot(slot="r",name="avg_npc_1246_1#1$1",focus="r")]
@@ -87,7 +87,7 @@
 [name="焦急的农业天师"]这片可是试验田，要是被水淹了损失就大了！
 [name="焦急的农业天师"]哎！你的源石技艺不是玩沙子吗？加把劲啊！
 [charslot(slot="m",name="avg_npc_1248_1#1$1",focus="m")]
-[name="慌乱的农业天师"]你才是玩沙子的......我的源石技艺明明是分析土壤的！唉，试试！
+[name="慌乱的农业天师"]你才是玩沙子的……我的源石技艺明明是分析土壤的！唉，试试！
 [Dialog]
 [charslot]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0, block=true)]
@@ -103,9 +103,9 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_1248_1#1$1",focus="m")]
 [charslot(slot = "m", action="shake",random=true, power=5, times=30,duration=0.3)]
-[name="慌乱的农业天师"]有点......勉强......
+[name="慌乱的农业天师"]有点……勉强……
 [charslot(slot="m",name="avg_4121_zuole_1#4$2",focus="m")]
-[name="左乐"]......！
+[name="左乐"]……！
 [Dialog]
 [PlaySound(key="$d_avg_Qinggong", volume=1)]
 [charslot(duration=0.2)]
@@ -119,18 +119,18 @@
 [name="禾生"]你要做什么？！
 [name="禾生"]河水里混进去的泥沙里不知道有多少源石杂质，你是想被感染吗！
 [charslot(slot="m",name="avg_4121_zuole_1#4$2",focus="m")]
-[name="左乐"]保护百姓是我的职责......
+[name="左乐"]保护百姓是我的职责……
 [charslot(slot="m",name="avg_4119_wanqin_1#6$1",focus="m")]
 [name="禾生"]你凭什么觉得所有人都需要你保护？你和站在这里的人有什么不一样？
 [charslot(slot="m",name="avg_4121_zuole_1#10$2",focus="m")]
 [name="左乐"]我——
-[name="左乐"]......我还能帮上什么忙？
+[name="左乐"]……我还能帮上什么忙？
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
-[name="禾生"]刚才去调查过了，这是堰口水坝破坏导致的洪水......农田原有的排水系统已经超过负荷了。
-[name="禾生"]正是汛期，堰口一时半会也修不好，靠堵是堵不上的，再这样下去，损失只会越来越大......
-[name="禾生"]......听说你是信使，脚程快？
+[name="禾生"]刚才去调查过了，这是堰口水坝破坏导致的洪水……农田原有的排水系统已经超过负荷了。
+[name="禾生"]正是汛期，堰口一时半会也修不好，靠堵是堵不上的，再这样下去，损失只会越来越大……
+[name="禾生"]……听说你是信使，脚程快？
 [charslot(slot="m",name="avg_4121_zuole_1#10$2",focus="m")]
-[name="左乐"]还好......要我做什么？
+[name="左乐"]还好……要我做什么？
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
 [name="禾生"]这种时候大家都乱成一团，还是需要有人去现场组织。
 [Dialog]
@@ -139,10 +139,10 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
 [name="禾生"]拿着这张地图，去上面标注的这几号地块，找到那里负责的职农，让所有人做好地块移动的准备。
 [charslot(slot="m",name="avg_4121_zuole_1#10$2",focus="m")]
-[name="左乐"]你打算......？
+[name="左乐"]你打算……？
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
 [name="禾生"]大荒城的移动城市改建虽然只完成了一部分，但还是有一些基本的移动功能。
-[name="禾生"]在水坝修好前，改变大荒城地块排布，利用地块高低差，重新造一个排水系统出来......
+[name="禾生"]在水坝修好前，改变大荒城地块排布，利用地块高低差，重新造一个排水系统出来……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -170,7 +170,7 @@
 [name="资深土木天师"]退开！
 [name="资深土木天师"]你的那点源石技艺水平，在我这还不够看呢！
 [CameraShake(duration=0.3,xstrength=12, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="资深土木天师"]咳......咳......！
+[name="资深土木天师"]咳……咳……！
 [Dialog]
 [charslot]
 [musicvolume(volume=0, fadetime=1)]
@@ -183,7 +183,7 @@
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=1, block=true)]
 [name="年"]天有洪炉——
 [charslot(slot="m",name="avg_npc_1245_1#1$1",focus="m")]
-[name="资深土木天师"]年......！
+[name="资深土木天师"]年……！
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -191,10 +191,10 @@
 [charslot(slot="m",name="avgnew_2014_nian_1#3$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="m",name="avgnew_2014_nian_1#3$1",focus="m")]
-[name="年"]工厂那边还没忙完，怎么外边又是这么大娄子......
-[name="年"]但是看这洪水阵仗......也真难为你们撑这么久了。
+[name="年"]工厂那边还没忙完，怎么外边又是这么大娄子……
+[name="年"]但是看这洪水阵仗……也真难为你们撑这么久了。
 [charslot(slot="m",name="avg_npc_1245_1#1$1",focus="m")]
-[name="资深土木天师"]核心城之外的工程，不该让你插手......
+[name="资深土木天师"]核心城之外的工程，不该让你插手……
 [charslot(slot="m",name="avgnew_2014_nian_1#8$1",focus="m")]
 [name="年"]临时救个场也不算破坏规矩吧，你们干工程的怎么比司岁台还要迂腐。
 [charslot(slot="m",name="avgnew_2014_nian_1#7$1",focus="m")]
@@ -230,14 +230,14 @@
 [charslot(slot="r",name="avg_npc_1246_1#1$1",focus="r")]
 [name="土木天师"]你——
 [name="土木天师"]我记得你，你是常常跟在黍天师身边的那个天师学徒。
-[name="土木天师"]好......我就相信你。
+[name="土木天师"]好……我就相信你。
 [name="土木天师"]可是大荒城大大小小有几十块农业地块，重新排布地块多么复杂，至少也要好几个天师一整天的计算量，你一个人打算怎么做？
 [charslot(slot="l",name="avg_4119_wanqin_1#5$1",focus="l")]
 [name="禾生"]不用查了。这片田的地图都在我脑子里，我现在就能给出一个方案。
 [name="禾生"]听我指挥。
 [name="禾生"]甲申号地块，向东移动五格，乙未号地块，下沉五级。
 [charslot(slot="r",name="avg_npc_1246_1#1$1",focus="r")]
-[name="土木天师"]我......
+[name="土木天师"]我……
 [charslot(slot="l",name="avg_4119_wanqin_1#6$1",focus="l")]
 [name="禾生"]还愣着干嘛！快操作啊！
 [charslot(slot="r",name="avg_npc_1246_1#1$1",focus="r")]
@@ -254,7 +254,7 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1250_1#1$1",focus="m")]
 [name="慌张的职农"]怎么回事？地块在动！
-[name="慌张的职农"]水势，好像小一点了......
+[name="慌张的职农"]水势，好像小一点了……
 [charslot(slot="m",name="avg_4121_zuole_1#4$2",focus="m")]
 [name="左乐"]大家当心！地块正在移动，注意避险——
 [charslot(slot="m",name="avg_npc_1250_1#1$1",focus="m")]
@@ -267,7 +267,7 @@
 [name="云青萍"]我刚才见了禾生兄一面，他告知我他的打算。
 [name="云青萍"]河流是在大荒城的北面，如果想让积水从大荒城西北侧排到西南边谷地的话。需要移动的地块，大概也就是西侧的这几块了。
 [charslot(slot="m",name="avg_4121_zuole_1#6$2",focus="m")]
-[name="左乐"]我竟然完全没有想到......
+[name="左乐"]我竟然完全没有想到……
 [Dialog]
 [charslot]
 [delay(time=0.2)]
@@ -289,7 +289,7 @@
 [charslot(slot="m",name="avg_4122_grabds_1#7$1",focus="m")]
 [name="小满"]小烛台，小毛笔？是你们？大水牛呢？他没事吧！
 [charslot(slot="m",name="avg_4121_zuole_1#3$2",focus="m")]
-[multiline(name="左乐")]他......
+[multiline(name="左乐")]他……
 [charslot(slot="m",name="avg_4121_zuole_1#1$2",focus="m")]
 [multiline(name="左乐")]不用担心，他在安全的地方。
 [charslot(slot="m",name="avg_4122_grabds_1#9$1",focus="m")]
@@ -331,7 +331,7 @@
 [name="左乐"]你——
 [Dialog]
 [charslot]
-[name="遥远的女声"]竟然还要帮司岁台的人解决麻烦......听好了，就这一次，下不为例。
+[name="遥远的女声"]竟然还要帮司岁台的人解决麻烦……听好了，就这一次，下不为例。
 [Dialog]
 [PlaySound(key="$p_atk_ancientsword_s",volume=1)]
 [Blocker(a=0,r=255, g=255, b=255, fadetime=0, block=true)]
@@ -341,10 +341,10 @@
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_1249_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_npc_1250_1#1$1",focus="l")]
-[name="慌乱的职农"]我们这是在哪......？这是哪位天师的源石技艺，这么神通？
+[name="慌乱的职农"]我们这是在哪……？这是哪位天师的源石技艺，这么神通？
 [charslot(slot="r",name="avg_npc_1250_1#1$1",focus="r")]
 [name="惊讶的职农"]快看！
-[name="惊讶的职农"]天好像，要放晴了......
+[name="惊讶的职农"]天好像，要放晴了……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -356,11 +356,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_2025_shu_1#16$1",focus="m")]
-[name="黍"]唉......
+[name="黍"]唉……
 [name="黍"]大伙都已经拼得精疲力尽了，大荒城也经不起这么一遭了。
-[name="黍"]确实是意料之外的灾害，用这种办法破例帮大家一次，也是情有可原吧......
+[name="黍"]确实是意料之外的灾害，用这种办法破例帮大家一次，也是情有可原吧……
 [charslot(slot="m",name="avg_2025_shu_1#3$1",focus="m")]
-[name="黍"]呼......
+[name="黍"]呼……
 [charslot(slot="m",name="avg_2025_shu_1#1$1",focus="m")]
 [name="黍"]散去。
 [Dialog]
@@ -419,46 +419,46 @@
 [name="老乡长"]甲申至乙寅地块，都受到了污染。别的地块影响不大，但也要细细排查。
 [name="老乡长"]这些田里的庄稼全部收起来后就拿去处理掉，保守算，在原本就歉收的基础上，夏收的粮还要再少些。
 [charslot(slot="m",name="avg_npc_1241_1#7$1",focus="m")]
-[name="万侍郎"]都是百姓大半年的心血啊......今年的庄稼，足够完成预定的份额吗？
+[name="万侍郎"]都是百姓大半年的心血啊……今年的庄稼，足够完成预定的份额吗？
 [name="万侍郎"]会有多少百姓饿肚子？
 [charslot(slot="m",name="avg_npc_1240_1#1$1",focus="m")]
 [name="老乡长"]还够。毕竟是多少代人努力的结果。
 [charslot(slot="m",name="avg_npc_1240_1#8$1",focus="m")]
-[name="老乡长"]......只是，经不起再多变故了。
+[name="老乡长"]……只是，经不起再多变故了。
 [charslot(slot="m",name="avg_npc_298_1#1$1",focus="m")]
 [name="宁辞秋"]遭遇了这样的损失，已经不是大荒城内部的事。必须立即上书京城，整体协调炎国今年各地的粮食供给。
-[name="宁辞秋"]......离大荒城最近的玉门年初也遭受了天灾，修缮工作都还在进行中，抽调不出人手来支援。
+[name="宁辞秋"]……离大荒城最近的玉门年初也遭受了天灾，修缮工作都还在进行中，抽调不出人手来支援。
 [charslot(slot="m",name="avg_npc_1241_1#4$1",focus="m")]
 [name="万侍郎"]确实。按工部记录，这些年全国各地区的天灾密度都超过了过往数十年的平均值。
-[name="万侍郎"]真是多灾之年......
+[name="万侍郎"]真是多灾之年……
 [charslot(slot="m",name="avg_npc_1240_1#1$1",focus="m")]
 [name="老乡长"]大荒城已经是粮产重镇。再让其他城市来支援我们，没有这样的道理。
-[name="老乡长"]移动地块检修不是眼下最紧急的事，大荒城要优先为农粮要务负责。多少块眼看就要得出成果的试验田还没有搬迁到安全的地块上......
+[name="老乡长"]移动地块检修不是眼下最紧急的事，大荒城要优先为农粮要务负责。多少块眼看就要得出成果的试验田还没有搬迁到安全的地块上……
 [name="老乡长"]另外，十二楼五城的工程，进度需要放缓。之前抽调过去帮忙的天师，现在全部需要回来抢救剩下的耕地和粮食。
 [name="老乡长"]之后的夏种，已经万万耽误不得了。
 [charslot(slot="m",name="avg_npc_1241_1#3$1",focus="m")]
-[name="万侍郎"]......
+[name="万侍郎"]……
 [charslot(slot="m",name="avg_npc_1241_1#4$1",focus="m")]
 [name="万侍郎"]我体谅您这边的辛苦，但是延期十二楼五城建设的事，我们是否应该再商议一下？
 [name="万侍郎"]粮食固然重要，可十二楼五城同样是国防重事，朝廷安排秋天前竣工的期限，不是无端决定。其中利弊得失，还需要仔细权衡。
 [charslot(slot="m",name="avg_npc_1240_1#4$1",focus="m")]
-[name="老乡长"]好啊......你想得周到，你最好现在写份文书，派信使送去京城，拉尚书台好好开上十天的会，再回来给我们安排。
+[name="老乡长"]好啊……你想得周到，你最好现在写份文书，派信使送去京城，拉尚书台好好开上十天的会，再回来给我们安排。
 [name="老乡长"]粮食不是市场上的材料，少了千分之一的粮，不是粮价会涨千分之一。
 [name="老乡长"]是有千分之一的百姓会挨饿。
 [charslot(slot="m",name="avg_npc_1241_1#4$1",focus="m")]
 [name="万侍郎"]那打起仗来，又会有多少百姓流离失所？
 [name="万侍郎"]也别忘了，“十二楼五城”的起因到底是什么。
 [charslot(slot="m",name="avg_npc_1240_1#7$1",focus="m")]
-[name="老乡长"]......河对岸的......
+[name="老乡长"]……河对岸的……
 [charslot(slot="m",name="avg_npc_1241_1#4$1",focus="m")]
 [name="万侍郎"]您知道，不止如此。
 [name="万侍郎"]邪魔问题之外，更有——
 [charslot(slot="m",name="avg_npc_298_1#2$1",focus="m")]
 [name="宁辞秋"]二位。
 [charslot(slot="m",name="avg_npc_1241_1#4$1",focus="m")]
-[name="万侍郎"]......
+[name="万侍郎"]……
 [charslot(slot="m",name="avg_npc_1240_1#4$1",focus="m")]
-[name="老乡长"]......
+[name="老乡长"]……
 [charslot(slot="m",name="avg_npc_298_1#1$1",focus="m")]
 [name="宁辞秋"]这不是可以在此地讨论的话题。
 [name="宁辞秋"]慎言。
@@ -471,14 +471,14 @@
 [name="宁辞秋"]至于十二楼五城的工期，我以礼部名义再去天师府请示，兴许有天机阁的帮助，事情总还有周旋的余地。
 [name="宁辞秋"]若事后朝廷判断此事处理不当，大不了，我来担责。
 [charslot(slot="m",name="avg_npc_1241_1#6$1",focus="m")]
-[name="万侍郎"]......
+[name="万侍郎"]……
 [charslot(slot="m",name="avg_npc_1240_1#4$1",focus="m")]
 [name="老乡长"]算了吧，要问罪也该是问我，就说是我用刀架在这位侍郎大人脖子上逼他答应的。你还是上一边去。
 [charslot(slot="m",name="avg_npc_1241_1#4$1",focus="m")]
-[name="万侍郎"]......唉。事儿还没做，现在就开始分责，事儿是做不成的。
+[name="万侍郎"]……唉。事儿还没做，现在就开始分责，事儿是做不成的。
 [name="万侍郎"]事情要是出了疏漏，要承担后果的是无数大炎百姓。我们不过是其中微不足道的三个人罢了。
 [charslot(slot="m",name="avg_npc_1241_1#1$1",focus="m")]
-[name="万侍郎"]既然二位都坚持......我姑且，认可二位的判断。
+[name="万侍郎"]既然二位都坚持……我姑且，认可二位的判断。
 [name="万侍郎"]希望二位不要忘记刚才做出的承诺。
 [charslot(slot="m",name="avg_npc_1240_1#3$1",focus="m")]
 [name="老乡长"]嘁。
@@ -503,7 +503,7 @@
 [name="万侍郎"]二位——呃。
 [name="万侍郎"]唉。
 [charslot(slot="m",name="avg_npc_1241_1#1$1",focus="m")]
-[name="万侍郎"]......不过，现在至少祸害不到我工部头上。
+[name="万侍郎"]……不过，现在至少祸害不到我工部头上。
 [name="万侍郎"]但愿补给的物资，能及时到吧。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -517,16 +517,16 @@
 [Delay(time=0.5)]
 [PlaySound(key="$d_avg_footstep_stonestep",volume=0.6,channel="step",loop=false)]
 [stopsound(channel="step",fadetime=4)]
-咯啦啦啦啦......咯啦啦啦啦......
+咯啦啦啦啦……咯啦啦啦啦……
 小满有一脚没一脚地踢着田中的土块。
 土块歪歪扭扭地向前滚去，没有一个明确的方向，小满自己闷着头走着，手里甩着路旁摘的稗子草。
 [Dialog]
 [charslot(slot="m",name="avg_4122_grabds_1#8$1",focus="m")]
-[name="小满"]也不知道这次停电会停多久，天气这么热，绵绵他们心里又害怕，这样下去很容易又闹疫病......
-[name="小满"]饭也不吃觉也不睡，也不知道新搭的屋子他们住不住得惯，急死我了......
-[name="小满"]小禾也是，这几天吃饭都没看到他，他比驮兽还笨，不知道累了要休息的......
-[name="小满"]唉，总觉得天气一年比一年差，庄稼也长得不好......
-[name="小满"]神农真的不管这片地了吗......
+[name="小满"]也不知道这次停电会停多久，天气这么热，绵绵他们心里又害怕，这样下去很容易又闹疫病……
+[name="小满"]饭也不吃觉也不睡，也不知道新搭的屋子他们住不住得惯，急死我了……
+[name="小满"]小禾也是，这几天吃饭都没看到他，他比驮兽还笨，不知道累了要休息的……
+[name="小满"]唉，总觉得天气一年比一年差，庄稼也长得不好……
+[name="小满"]神农真的不管这片地了吗……
 [Dialog]
 [charslot]
 她把草叶在手指上缠了又缠，缠成一个圈，又揉成一个团。
@@ -581,19 +581,19 @@
 [charslot(slot="m",name="avg_2025_shu_1#8$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_2025_shu_1#8$1",focus="m")]
-[name="黍"]唉......
+[name="黍"]唉……
 [Dialog]
 [charslot]
 她的手轻轻拂过一株伏倒的禾苗，小苗像是得到了安抚一般，从泥浆中站直了身子。
 她闭上眼，河流流过她的头发，树木的根系如同掌纹。
 [charslot(slot="m",name="avg_2025_shu_1#3$1",focus="m")]
-[name="黍"]好像很多年前，也有一段时期，天灾像如今这么频繁......
-[name="黍"]......我没能帮上什么忙，就看到大片大片就要丰收的稻子全都倒在了地里，整片地只剩下了那么一小片，连半个口袋都没能装满。
+[name="黍"]好像很多年前，也有一段时期，天灾像如今这么频繁……
+[name="黍"]……我没能帮上什么忙，就看到大片大片就要丰收的稻子全都倒在了地里，整片地只剩下了那么一小片，连半个口袋都没能装满。
 [name="黍"]你满脸是泥，抱着袋子和我说，怕什么，一年一年的，总能种出结果。
 [charslot(slot="m",name="avg_2025_shu_1#16$1",focus="m")]
-[name="黍"]......那个时候，你的脸上好像还没有皱纹。
+[name="黍"]……那个时候，你的脸上好像还没有皱纹。
 [name="黍"]你也还不是什么“神农”。
-[name="黍"]怎么这么多年过去了，离当初的那些宏愿，还是那么远......？
+[name="黍"]怎么这么多年过去了，离当初的那些宏愿，还是那么远……？
 [Dialog]
 [charslot]
 脚下的大地上下起伏如同她的呼吸，像是在极深处藏着一颗火热的心脏，沉重缓慢地跳动着。
@@ -605,7 +605,7 @@
 这颗心脏上走来一串浅浅的脚步。
 [Dialog]
 [charslot(slot="m",name="avg_2025_shu_1#1$1",focus="m")]
-[name="黍"]嗯......？
+[name="黍"]嗯……？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -629,7 +629,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [Delay(time=2)]
 那人穿着一尘不染的轻薄华衫，风烟飘过万里，追在他身后。
-[name="黍"]......你回来了。
+[name="黍"]……你回来了。
 [Dialog]
 [Image(image="47_i06", fadetime=0, xScale=1.6, yScale=1.6,screenadapt="coverall",x=200,y=-100,fadetime=3)]
 [ImageTween(xTo=0, duration=30)]

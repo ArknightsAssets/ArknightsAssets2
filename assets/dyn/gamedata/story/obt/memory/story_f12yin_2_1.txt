@@ -47,7 +47,7 @@
 他记得那张脸，无比熟悉。
 [Dialog]
 [Character(name="avg_264_f12yin_1#4$1")]
-[name="安东尼"]瓦尔·海德......你的兄弟在哪里？
+[name="安东尼"]瓦尔·海德……你的兄弟在哪里？
 [Character(name="avg_264_f12yin_1#4$1",focus=-1)]
 [name="地上的头颅"]他在哪里？安东尼，他就在你的脚边啊。
 [Dialog]
@@ -57,12 +57,12 @@
 [name="扭曲的尸体"]为什么在颤抖呢，安东尼？你不应该为此感到愉悦吗？
 [name="扭曲的尸体"]这一天你一定期待了很久吧，手刃自己的仇敌，让鲜血浸满这里的每一寸土地。
 [Character(name="avg_264_f12yin_1#4$1")]
-[name="安东尼"]这......这都是我做的......？
+[name="安东尼"]这……这都是我做的……？
 [Character(name="avg_264_f12yin_1#4$1",focus=-1)]
 [name="扭曲的尸体"]是啊，为什么不笑一笑呢？这是多么美好的一天啊，安东尼。
 [name="地上的头颅"]你大仇得报了，安东尼，别哭丧着脸啊，桀桀桀。
 [Character(name="avg_264_f12yin_1#2$1")]
-[name="安东尼"]不......这一切都太迟了。
+[name="安东尼"]不……这一切都太迟了。
 [Character(name="avg_264_f12yin_1#2$1",focus=-1)]
 [name="地上的头颅"]哦，我的孩子，你来得太晚了，呜呜呜，我和你妈妈等不到你出狱了。
 [name="扭曲的尸体"]一切都已经来不及了，妈妈的宝贝安东尼，呜呜呜。
@@ -119,39 +119,39 @@
 [Character(name="avg_264_f12yin_1#8$1")]
 [name="安东尼"]呃——！
 [Character(name="avg_264_f12yin_1#7$1")]
-[name="安东尼"]呼......
+[name="安东尼"]呼……
 [Character(name="avg_264_f12yin_1#1$1")]
-[name="安东尼"]......那个梦又出现了......头好痛。
-[name="安东尼"]（捂脸）现在几点了......
+[name="安东尼"]……那个梦又出现了……头好痛。
+[name="安东尼"]（捂脸）现在几点了……
 [Dialog]
 [Character(name="avg_264_f12yin_1#1$1",focus=-1)]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
 [name="通讯终端"]干员山，晚上好，现在是凌晨四时二十四分，天气阴，室温二十六度。
 [Character(name="avg_264_f12yin_1#1$1")]
-[name="安东尼"]四点多了......才睡了三个小时。
-[name="安东尼"]......睡不着了，起来吧。
+[name="安东尼"]四点多了……才睡了三个小时。
+[name="安东尼"]……睡不着了，起来吧。
 [Dialog]
 [Character]
 [PlaySound(key="$d_avg_clothmovement", volume=0.7)]
 [delay(time=1.5)]
 [Character(name="avg_264_f12yin_1#1$1",fadetime=0.7,block=true)]
 [delay(time=1)]
-[name="安东尼"]出了这么多汗吗......连床单都浸湿了。
-[name="安东尼"]我得换条干净的床单，还有一只干净的枕头......
+[name="安东尼"]出了这么多汗吗……连床单都浸湿了。
+[name="安东尼"]我得换条干净的床单，还有一只干净的枕头……
 [Dialog]
 [Character(name="avg_264_f12yin_1#1$1",focus=-1)]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
 [name="通讯终端"]干员山，您有一条短讯已经抵达终端，请注意查收。
 [Character(name="avg_264_f12yin_1#1$1")]
-[name="安东尼"]......
+[name="安东尼"]……
 [Dialog]
 [character]
 [playsound(key="$d_avg_devicebeep")]
 [delay(time=1)]
 [name="通讯终端"]安东尼，你提到的那笔积蓄，伯父在堡垒山城为你留下的，我们已经找到了，足够我们东山再起。
-[name="通讯终端"]唉......你还在为伯父伯母的事而伤怀吗？
+[name="通讯终端"]唉……你还在为伯父伯母的事而伤怀吗？
 [name="通讯终端"]那不是你的错，你还在曼斯菲尔德的时候，海德兄弟就已经暗下杀手了。等我们得到消息，一切为时已晚。
 [name="通讯终端"]海德兄弟的行事风格向来是斩草除根，你能逃过一劫已经是万幸。
 [name="通讯终端"]为了获得你的消息，我们经历了重重困难，他们的耳目简直无处不在，该死！
@@ -160,13 +160,13 @@
 [PlaySound(key="$transmission",volume=0.6)]
 [delay(time=1.5)]
 [Character(name="avg_264_f12yin_1#8$1")]
-[name="安东尼"]克制......绝不能被暴力控制......冷静，安东尼。
+[name="安东尼"]克制……绝不能被暴力控制……冷静，安东尼。
 [characteraction(name="middle", type="shake", power=5, times=100, fadetime=0.5, block=false)]
 [name="安东尼"]（战栗不停）
 [Dialog]
 [delay(time=1)]
 [Character(name="avg_264_f12yin_1#8$1")]
-[name="安东尼"]......可恶。
+[name="安东尼"]……可恶。
 [Character(name="avg_264_f12yin_1#3$1")]
 [playsound(key="$sheildimpact",volume=0.7)]
 [playsound(key="$glass",volume=0.7,delay=0.4)]
@@ -205,7 +205,7 @@
 [Character(name="avg_264_f12yin_1#6$1",name2="avg_137_brownb_1#6$1",focus=1)]
 [name="安东尼"]（若有所思）
 [Character(name="avg_264_f12yin_1#6$1",name2="avg_137_brownb_1#1$1",focus=2)]
-[name="猎蜂"]（今天这家伙很明显不在状态啊......哼哼。）
+[name="猎蜂"]（今天这家伙很明显不在状态啊……哼哼。）
 [Dialog]
 [Character(name="avg_264_f12yin_1#6$1",name2="avg_137_brownb_1#1$1",focus=2)]
 [name="猎蜂"]大个子，给我专心点啊！
@@ -217,7 +217,7 @@
 [delay(time=0.3)]
 [Character(name="avg_264_f12yin_1#4$1",name2="avg_137_brownb_1#1$1",focus=1)]
 [name="安东尼"]什么？！
-[name="安东尼"]（好快的速度，霎时间就能突袭至眼前......算了，硬碰硬说不定会伤到她，还是防住头部吧。）
+[name="安东尼"]（好快的速度，霎时间就能突袭至眼前……算了，硬碰硬说不定会伤到她，还是防住头部吧。）
 [Character(name="avg_264_f12yin_1#4$1",name2="avg_137_brownb_1#1$1",focus=2)]
 [name="猎蜂"]嘿，这么大意可不行啊，大个子。
 [Dialog]
@@ -231,13 +231,13 @@
 [Character(name="avg_264_f12yin_1#4$1",name2="avg_137_brownb_1#1$1",focus=2)]
 [name="猎蜂"]太晚了，一切都已经来不及了。
 [Character(name="avg_264_f12yin_1#4$1",name2="avg_137_brownb_1#1$1",focus=1)]
-[name="安东尼"]呃......？
+[name="安东尼"]呃……？
 [Dialog]
 [musicvolume(volume=0.2, fadetime=1)]
 [Character(name="avg_264_f12yin_1#4$1",name2="avg_137_brownb_1#1$1",focus=-1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="一切都已经来不及了......呜呜呜。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一切都已经来不及了……呜呜呜。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [musicvolume(volume=0.4, fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -263,7 +263,7 @@
 [Character]
 [name="猎蜂"]啊！好痛！
 [Character(name="avg_264_f12yin_1#2$1")]
-[name="安东尼"]糟了......对不起，是我出拳太重了，舒拉小姐，你还好吗？！
+[name="安东尼"]糟了……对不起，是我出拳太重了，舒拉小姐，你还好吗？！
 [Character(name="avg_264_f12yin_1#2$1",focus=-1)]
 [name="猎蜂"]大个子，我可算看出来了，原来你以前和我对练的时候根本就没出全力啊。
 [Character(name="avg_264_f12yin_1#2$1")]
@@ -275,7 +275,7 @@
 [Character(name="avg_264_f12yin_1#1$1")]
 [name="安东尼"]来，我扶你去医务室，真的抱歉，是我刚刚走神，没有控制好力道。
 [Character(name="avg_264_f12yin_1#1$1",focus=-1)]
-[name="猎蜂"]......嗨，这有什么，训练嘛，难免受点小伤。
+[name="猎蜂"]……嗨，这有什么，训练嘛，难免受点小伤。
 [Dialog]
 [Character]
 [Delay(time=0.5)]
@@ -320,9 +320,9 @@
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#2",focus=1)]
 [name="安东尼"]别这样看我，杜玛。
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#4",focus=2)]
-[name="杜玛"]安东尼，你从来不是不知轻重的人啊......
+[name="杜玛"]安东尼，你从来不是不知轻重的人啊……
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#4",focus=1)]
-[name="安东尼"]......杜玛，你在监狱里见过我那种样子的，我以为你不会这么诧异。
+[name="安东尼"]……杜玛，你在监狱里见过我那种样子的，我以为你不会这么诧异。
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#4",focus=2)]
 [name="杜玛"]正是因为见识过，我才清楚，你不会随意向他人展露你的那一面。
 [name="杜玛"]你知道自己看起来很糟吗，安东尼？
@@ -332,9 +332,9 @@
 [Character(name="avg_264_f12yin_1#1$1", name2="char_441_lotus_1#4",focus=2)]
 [name="杜玛"]你以前不会做这样的梦，最近发生什么事了吗？
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#4",focus=1)]
-[name="安东尼"]从堡垒山城......传来了些坏消息。
+[name="安东尼"]从堡垒山城……传来了些坏消息。
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#1",focus=2)]
-[name="杜玛"]是你的父母......
+[name="杜玛"]是你的父母……
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#1",focus=1)]
 [name="安东尼"]你猜到了？
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#1",focus=2)]
@@ -343,7 +343,7 @@
 [name="安东尼"]我已经向人事部递交了辞呈，应该几天后就会离开，我在这里停留了太久，是时候回去直面一切了。
 [Character(name="avg_264_f12yin_1#1$1", name2="char_441_lotus_1#1",focus=2)]
 [name="杜玛"]从来到这里的第一天起，我就知道，迟早有那么一天，你会离开。
-[name="杜玛"]但偶尔，我还是会忍不住想，如果你能放下一切，就这么留下来......那该有多好。
+[name="杜玛"]但偶尔，我还是会忍不住想，如果你能放下一切，就这么留下来……那该有多好。
 [Character(name="avg_264_f12yin_1#1$1", name2="char_441_lotus_1#1",focus=1)]
 [name="安东尼"]杜玛，我想过。
 [name="安东尼"]我曾经痴心妄想过，在解救出我的父母后，就放弃向海德兄弟讨回一切，一家人在一起就够了。
@@ -355,7 +355,7 @@
 [name="安东尼"]所以，那是什么滋味？亲手夺取一个人的性命是什么样的滋味？
 [name="安东尼"]杜玛，你能告诉我吗？当你将药剂注射进死刑犯的血管，当你将尸体送进焚化炉炉膛燃烧，那到底是什么样的滋味？
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#1",focus=2)]
-[name="杜玛"]......刚开始会很痛苦，每次回想起那个场景，你都会呕吐、失眠，甚至出现幻觉。
+[name="杜玛"]……刚开始会很痛苦，每次回想起那个场景，你都会呕吐、失眠，甚至出现幻觉。
 [name="杜玛"]后来你会为自己辩解，一遍遍地告诉自己，是他们罪有应得，你夺走他们的性命是理所当然。
 [name="杜玛"]但到了某一天，当在你手下停止呼吸的人变得足够多时，你的内心会充满平静，你已经见惯死亡。
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#4",focus=2)]
@@ -363,10 +363,10 @@
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#4",focus=1)]
 [name="安东尼"]这会是个漫长的过程吗？
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#1",focus=2)]
-[name="杜玛"]是的，会很难熬......在这漫长的过程中，我会反复提醒自己这只是工作，可你呢，安东尼？
+[name="杜玛"]是的，会很难熬……在这漫长的过程中，我会反复提醒自己这只是工作，可你呢，安东尼？
 [name="杜玛"]你要怎么做才能度过这些煎熬的日子？
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#1",focus=1)]
-[name="安东尼"]......
+[name="安东尼"]……
 [Character(name="avg_264_f12yin_1#2$1", name2="char_441_lotus_1#4",focus=2)]
 [name="杜玛"]看来你还没想好如何面对，就已经决定面对。
 [name="杜玛"]安东尼，让我和你一起离开吧，我会帮助你。
@@ -384,33 +384,33 @@
 [Delay(time=1)]
 [name="猎蜂"]安、安东尼！
 [Character(name="avg_264_f12yin_1#9$1", name2="char_441_lotus_1#4")]
-[name="杜玛&安东尼"]......
+[name="杜玛&安东尼"]……
 [Character(name="avg_264_f12yin_1#9$1", name2="char_441_lotus_1#4",focus=1)]
 [name="安东尼"]舒拉小姐，你醒了？
 [Character(name="avg_137_brownb_1#11$1")]
-[name="猎蜂"]我......一直听说你有一瓶上好的威士忌。嘿嘿嘿，什么时候带来尝尝啊？
+[name="猎蜂"]我……一直听说你有一瓶上好的威士忌。嘿嘿嘿，什么时候带来尝尝啊？
 [Character(name="avg_137_brownb_1#10$1")]
 [name="猎蜂"]下周三怎么样？你、你没有任务，我、我也没有任务。
 [Character(name="avg_264_f12yin_1#1$1", name2="char_441_lotus_1#4",focus=1)]
 [name="安东尼"]呃？但是舒拉小姐，你现在受伤了，按理说短期内应该是不可以饮酒的。
 [Character(name="avg_137_brownb_1#6$1")]
-[name="猎蜂"]伤，伤......呜呜呜，对哦，我受伤了，不能喝酒了。
+[name="猎蜂"]伤，伤……呜呜呜，对哦，我受伤了，不能喝酒了。
 [Character(name="avg_137_brownb_1#7$1")]
-[name="猎蜂"]呜呜呜，怎么会这样......？我好难过。
+[name="猎蜂"]呜呜呜，怎么会这样……？我好难过。
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#4",focus=1)]
-[name="安东尼"]（她......真的还好吗？）
+[name="安东尼"]（她……真的还好吗？）
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#4",focus=2)]
 [name="杜玛"]（唉，应该是麻醉剂的效果。）
 [Character(name="avg_264_f12yin_1#7$1", name2="char_441_lotus_1#4",focus=1)]
 [name="安东尼"]（无奈地捏捏额头）
 [Character(name="avg_264_f12yin_1#7$1", name2="char_441_lotus_1#1",focus=2)]
-[name="杜玛"]安东尼......
+[name="杜玛"]安东尼……
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#1",focus=1)]
 [name="安东尼"]嗯？
 [Character(name="avg_264_f12yin_1#11$1", name2="char_441_lotus_1#1",focus=2)]
 [name="杜玛"]答应我，无论如何，千万不要不辞而别。
 [Character(name="avg_264_f12yin_1#9$1", name2="char_441_lotus_1#1",focus=1)]
-[name="安东尼"]......好。
+[name="安东尼"]……好。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -461,30 +461,30 @@
 [PlaySound(key="$d_avg_paper2", volume=1,delay=1)]
 [delay(time=1)]
 [Character(name="avg_264_f12yin_1#2$1")]
-[name="安东尼"]这些书......都留在图书室吧。
+[name="安东尼"]这些书……都留在图书室吧。
 [Dialog]
 [PlaySound(key="$clink",volume=0.6)]
 [PlaySound(key="$clink", volume=1, loop=false, channel="bottle",delay=0.1)]
 [delay(time=1)]
 [Character(name="avg_264_f12yin_1#2$1")]
-[name="安东尼"]这几瓶酒......到时候放在酒窖好了。
+[name="安东尼"]这几瓶酒……到时候放在酒窖好了。
 [Dialog]
 [PlaySound(key="$d_avg_open_box", volume=0.6)]
 [PlaySound(key="$d_avg_cardboard", volume=1,delay=0.3)]
 [delay(time=1)]
 [Character(name="avg_264_f12yin_1#9$1")]
-[name="安东尼"]......哈，差点都忘了，罗宾小姐借给我的动作电影合集，离开前得还给她才好。
-[name="安东尼"]还有卡夫卡送的树叶书签，这个小玩偶......应该是松果的圣诞节礼物吧。
+[name="安东尼"]……哈，差点都忘了，罗宾小姐借给我的动作电影合集，离开前得还给她才好。
+[name="安东尼"]还有卡夫卡送的树叶书签，这个小玩偶……应该是松果的圣诞节礼物吧。
 [name="安东尼"]怎么这抽屉里有这么多乱七八糟的小玩意？不打扫还真不知道。明天去见杜玛的时候送给医疗部的小病患好了。
 [Dialog]
 [delay(time=1)]
 [Character(name="avg_264_f12yin_1#1$1")]
-[name="安东尼"]屋子清理得差不多了，正好连行李一起收拾吧。衣服......带几件换洗的应该够了。
+[name="安东尼"]屋子清理得差不多了，正好连行李一起收拾吧。衣服……带几件换洗的应该够了。
 [Dialog]
 [PlaySound(key="$dooropenquite", volume=1)]
 [Delay(time=1)]
 [Character(name="avg_264_f12yin_1#4$1")]
-[name="安东尼"]......
+[name="安东尼"]……
 [Dialog]
 [character]
 他愣住了。
@@ -500,10 +500,10 @@
 [playsound(key="$d_avg_devicebeep")]
 [delay(time=1)]
 [name="通讯终端"]安东尼，一得到你决定出发的消息，我们便迅速为你安排好了前往堡垒山城的路线，接应的人会在提卡伦多等你。
-[name="通讯终端"]快回来吧，安东尼，你的父母，我的兄长......我们有好多笔帐要和海德兄弟算呢。
+[name="通讯终端"]快回来吧，安东尼，你的父母，我的兄长……我们有好多笔帐要和海德兄弟算呢。
 [Dialog]
 [Character(name="avg_264_f12yin_1#2$1")]
-[name="安东尼"]......
+[name="安东尼"]……
 [Dialog]
 [character]
 [PlaySound(key="$d_avg_cloakmovement", volume=0.7)]
@@ -513,7 +513,7 @@
 抚摸良久，他的手臂最终还是垂了下来。
 [Dialog]
 [Character(name="avg_264_f12yin_1#7$1")]
-[name="安东尼"]真是糊涂......早知道要离开，还置办它干什么。
+[name="安东尼"]真是糊涂……早知道要离开，还置办它干什么。
 [Character(name="avg_264_f12yin_1#1$1")]
 [name="安东尼"]糊涂透顶。
 [Dialog]
@@ -549,7 +549,7 @@
 [character(fadetime=0)]
 [Character(name="avg_264_f12yin_1#1$1")]
 [name="安东尼"]（看表）
-[name="安东尼"]不知道来不来得及......
+[name="安东尼"]不知道来不来得及……
 [Dialog]
 [character(fadetime=0)]
 [Character(name="avg_npc_093",fadetime=0.7,block=true)]
@@ -569,7 +569,7 @@
 [Character(name="avg_npc_093")]
 [name="老妇人"]坐下吧，别看我一把年纪，但手脚很麻利的，几分钟就好了。
 [Character(name="avg_264_f12yin_1#9$1")]
-[name="安东尼"]......好吧，那就麻烦您了，夫人。
+[name="安东尼"]……好吧，那就麻烦您了，夫人。
 [Character(name="avg_npc_093")]
 [name="老妇人"]你是杜玛医生的朋友，对吧？
 [Character(name="avg_264_f12yin_1#9$1")]
@@ -585,7 +585,7 @@
 [Character(name="avg_npc_093#5")]
 [name="老妇人"]你是杜玛医生的朋友，你应该知道吧？杜玛医生可能要离开了。昨天她告诉我，我的主治医生要换成赫默医生了。
 [Character(name="avg_264_f12yin_1#2$1")]
-[name="安东尼"]......是吗？太遗憾了。
+[name="安东尼"]……是吗？太遗憾了。
 [Character(name="avg_npc_093#5")]
 [name="老妇人"]唉，肯定是那些不长眼的病人背后说她古怪，才让她伤心了。要我说，杜玛医生耐心又细致，是位不可多得的好医生。
 [Character(name="avg_264_f12yin_1#9$1")]
@@ -595,7 +595,7 @@
 [Character(name="avg_264_f12yin_1#1$1")]
 [name="安东尼"]她看着温和，但骨子里很固执，只要打定主意，谁都无法改变。
 [Character(name="avg_npc_093")]
-[name="老妇人"]我躺在病床上，也不能为她做什么......帮她的朋友补补衣服，也算是报答了些她对我的照顾之情。
+[name="老妇人"]我躺在病床上，也不能为她做什么……帮她的朋友补补衣服，也算是报答了些她对我的照顾之情。
 [Dialog]
 [delay(time=1)]
 [Character(name="avg_npc_093")]
@@ -626,11 +626,11 @@
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#1$1",focus=1)]
 [name="安东尼"]不等了。
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#10$1",focus=2)]
-[name="赫默"]呃，你要一个人走吗？她不是说要和你一起......
+[name="赫默"]呃，你要一个人走吗？她不是说要和你一起……
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#10$1",focus=1)]
 [name="安东尼"]不，我今天来是向她告别的，要离开的从始至终只有我一个人。
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#1$1",focus=2)]
-[name="赫默"]我误会了，还以为是你要带她走......
+[name="赫默"]我误会了，还以为是你要带她走……
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#1$1",focus=1)]
 [name="安东尼"]不，她留在罗德岛就很好。况且，复仇是我自己的事，我绝不允许旁人被卷进来。
 [Character(name="avg_264_f12yin_1#9$1", name2="avg_108_silent_1#1$1",focus=1)]
@@ -642,17 +642,17 @@
 [Character(name="avg_264_f12yin_1#9$1", name2="avg_108_silent_1#1$1",focus=2)]
 [name="赫默"]只有一本书吗？
 [Character(name="avg_264_f12yin_1#9$1", name2="avg_108_silent_1#1$1",focus=1)]
-[name="安东尼"]......再加一句话吧，就说......
+[name="安东尼"]……再加一句话吧，就说……
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#1$1",focus=1)]
 [name="安东尼"]就说，这本书我还没有看完，请她代为保管。
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#1$1",focus=2)]
 [name="赫默"]那你什么时候来取？要告诉她吗？
 [Character(name="avg_264_f12yin_1#2$1", name2="avg_108_silent_1#1$1",focus=1)]
-[name="安东尼"]......
+[name="安东尼"]……
 [Character(name="avg_264_f12yin_1#2$1", name2="avg_108_silent_1#6$1",focus=2)]
 [name="赫默"]你知道沉默是一种更残酷的回答吗？
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#6$1",focus=1)]
-[name="安东尼"]赫默医生......珍重身体，我先走了。
+[name="安东尼"]赫默医生……珍重身体，我先走了。
 [Dialog]
 [Character(name="avg_264_f12yin_1#1$1", name2="avg_108_silent_1#6$1")]
 [delay(time=0.2)]
@@ -664,9 +664,9 @@
 [character(name="char_empty",name2="avg_108_silent_1#6$1")]
 [name="赫默"]安东尼！
 [character(name="char_empty",name2="avg_108_silent_1#5$1")]
-[name="赫默"]喂！安东尼......
+[name="赫默"]喂！安东尼……
 [character(name="char_empty",name2="avg_108_silent_1#6$1")]
-[name="赫默"]......唉。
+[name="赫默"]……唉。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]

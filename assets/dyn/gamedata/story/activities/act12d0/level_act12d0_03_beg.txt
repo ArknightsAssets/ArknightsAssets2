@@ -40,21 +40,21 @@
 [Character(fadetime=0)]
 [cameraEffect(effect="Grayscale", keep=true, amount=1, fadetime=0)]
 [Blocker(a=0, fadetime=1, block=true)]
-[name="阿达克利斯勇士"]  嘎哈......
+[name="阿达克利斯勇士"]  嘎哈……
 [Character(name="avg_npc_070")]
 [name="阿达克利斯冠军"]  荒野意志部族最强的家伙也不过如此！
 [Character(name="char_411_tomimi_1#2")]
-[name="特米米"]  好、好厉害......
+[name="特米米"]  好、好厉害……
 [Character]
 [name="阿达克利斯人A"]  啧，我们部族的勇士竟然被那么轻易地打败了。
 [name="阿达克利斯人B"]  我们一起上吧！
-[name="阿达克利斯人A"]  不行啊，比人数我们更加比不过......这一次只能放弃了吗......
+[name="阿达克利斯人A"]  不行啊，比人数我们更加比不过……这一次只能放弃了吗……
 [Character(name="avg_npc_070")]
 [name="阿达克利斯冠军"]  还有谁要来挑战！没有的话，就由我来挑战大酋长！
 [Character(name="char_187_ccheal_1#3")]
 [name="嘉维尔"]  我来！
 [Character(name="avg_npc_070")]
-[name="阿达克利斯冠军"]  你是......荒野意志部族的孤儿嘉维尔？
+[name="阿达克利斯冠军"]  你是……荒野意志部族的孤儿嘉维尔？
 [name="阿达克利斯冠军"]  我听说你在小辈里很能打，但是小鬼没有资格参加祭典，滚回家去再喝几年奶吧。
 [Character(name="char_187_ccheal_1#3")]
 [name="嘉维尔"]  哼，等你赢了我再说吧！
@@ -72,9 +72,9 @@
 [CameraShake(duration=0.2, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Character]
 [delay(time=1)]
-[name="阿达克利斯冠军"]  不、不可能......只是两拳就......
+[name="阿达克利斯冠军"]  不、不可能……只是两拳就……
 [Character(name="char_411_tomimi_1#2")]
-[name="特米米"]  嘉维尔，好厉害......
+[name="特米米"]  嘉维尔，好厉害……
 [Character(name="char_187_ccheal_1#5")]
 [name="嘉维尔"]  哼，也不过就这样嘛！
 [name="嘉维尔"]  还有谁来挑战！
@@ -97,8 +97,8 @@
 [name="嘉维尔"]  我想我的父母大概也就是这么随便死掉的吧。
 [name="嘉维尔"]  哎，不说这个，反正你只要知道，我从小就是被部族的人一起养大的。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#5", focus=2)]
-[name="特米米"]  嘉维尔......
-[Decision(options="辛苦你了。;......;至少你现在比谁都健康。",values="1;2;3")]
+[name="特米米"]  嘉维尔……
+[Decision(options="辛苦你了。;……;至少你现在比谁都健康。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  别这样，博士，搞得我好像很可怜一样。
@@ -115,14 +115,14 @@
 [Decision(options="所以那一次祭典的结果呢？",values="1")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1")]
-[name="嘉维尔"]  那一次啊......
+[name="嘉维尔"]  那一次啊……
 [playMusic(intro="$bat_Imfxingback_intro", key="$bat_Imfxingback_loop", volume=0.4)]
 [Character]
 [name="？？？"]  找到你了，可恶的赏金猎人！
 [Character(name="avg_npc_070")]
 [name="佩塔"]  什么人？！
 [Character(name="char_187_ccheal_1#2")]
-[name="嘉维尔"]  嗯？这个声音......
+[name="嘉维尔"]  嗯？这个声音……
 [character]
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -137,7 +137,7 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  诶，是啊？
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
-[name="嘉维尔"]  这孩子力气不小，估计是直接挣脱了......
+[name="嘉维尔"]  这孩子力气不小，估计是直接挣脱了……
 [Character(name="char_2013_cerber_1")]
 [name="刻俄柏"]  赏金猎人，把博士交出来！
 [name="刻俄柏"]  不然即使是追到大地的尽头我绝对不会放过你的！
@@ -151,12 +151,12 @@
 [character]
 [PlaySound(key="$livecrowd", volume=0.2, loop=false, channel="people")]
 [name="阿达克利斯人A"]  她把佩塔干掉了！
-[name="阿达克利斯人B"]  好像很厉害的样子......
+[name="阿达克利斯人B"]  好像很厉害的样子……
 [name="阿达克利斯人C"]  哪里来的怪胎？！哪个部族来的？！
 [name="阿达克利斯人A"]  不知道，根本听不懂她在说什么！
 [name="阿达克利斯人B"]  不管了，反正只要把她打败就行了吧？
 [Character(name="char_187_ccheal_1#3")]
-[name="嘉维尔"]  啧，这帮人把小刻当成新的挑战者了吗......
+[name="嘉维尔"]  啧，这帮人把小刻当成新的挑战者了吗……
 [Character(name="char_187_ccheal_1#3", name2="char_411_tomimi_1", focus=2)]
 [name="特米米"]  嘉维尔，要去帮忙吗？
 [Character(name="char_187_ccheal_1#3", name2="char_411_tomimi_1", focus=1)]

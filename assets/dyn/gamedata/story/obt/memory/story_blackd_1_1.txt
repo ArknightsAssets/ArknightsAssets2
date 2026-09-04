@@ -26,11 +26,11 @@
 [charslot(slot = "m", posfrom="0,0", posto="0,-30", afrom=1, ato=0, duration=0.5)]
 [Delay(time=1)]
 [name="魏斯"]从脚印的深浅来看，这一带的积雪比预计的要深一些。
-[name="魏斯"]前阵子这边有局部降雪，山体原本就比较陡峭，让雪堆积起来的话......
+[name="魏斯"]前阵子这边有局部降雪，山体原本就比较陡峭，让雪堆积起来的话……
 [dialog]
 [charslot(slot = "m", name = "avg_198_blackd_1#6$1", posfrom="0,-30", posto="0,0", duration=1, isblock=true)]
 [name="魏斯"]如果我没记错，老爷刚刚聘请的专家好像说过，未来几天可能会有强降雪。
-[name="魏斯"]这样的话......
+[name="魏斯"]这样的话……
 [dialog]
 [charslot]
 [PlaySound(key="$whistle_long", volume=1)]
@@ -40,12 +40,12 @@
 [Delay(time=0.5)]
 [name="敏捷的谢拉格战士"]队长，有什么事？
 [charslot(slot = "m", name = "avg_198_blackd_1#2$1")]
-[name="魏斯"]带一支队伍测量一下这边的积雪厚度，然后请专家看一下山体的坡度......
+[name="魏斯"]带一支队伍测量一下这边的积雪厚度，然后请专家看一下山体的坡度……
 [name="魏斯"]判断一下这里发生雪崩的可能性。
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
 [name="敏捷的谢拉格战士"]我明白了。
 [charslot(slot = "m", name = "avg_198_blackd_1#6$1")]
-[name="魏斯"]然后......等递完这个消息后，我再向老爷汇报吧。
+[name="魏斯"]然后……等递完这个消息后，我再向老爷汇报吧。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -81,7 +81,7 @@
 [StopSound(channel="s", fadetime=1.5)]
 [charslot(slot = "m", name = "avg_198_blackd_1#8$1", duration = 1.5, isblock=true)]
 [Delay(time=0.5)]
-[name="魏斯"]......
+[name="魏斯"]……
 [charslot(slot = "m", name = "avg_198_blackd_1#1$1")]
 [name="魏斯"]锏小姐。
 [charslot(slot="m", name="avg_4116_blkkgt_1#1$1")]
@@ -105,26 +105,26 @@
 [charslot(duration=1.5, isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "l", name = "avg_198_blackd_1#6$1")]
-[name="魏斯"]......
+[name="魏斯"]……
 [dialog]
 [PlaySound(key="$d_avg_snowbootwalk", volume=1, loop=true, channel="s")]
 [StopSound(channel="s", fadetime=1)]
 [charslot(slot = "r", name="avg_npc_272_1#1$1", posfrom="100,0", posto="0,0", duration=1, isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
-[name="年迈贵族"]......
-[name="年迈贵族"]......唉。
+[name="年迈贵族"]……
+[name="年迈贵族"]……唉。
 [name="年迈贵族"]早就听说，老爷身边这位油盐不进，今天算是见识到了。
 [charslot(slot = "l", name = "avg_198_blackd_1#6$1", focus="l")]
 [name="魏斯"]艾德文叔，您不该来的。
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
 [name="年迈贵族"]该来的，这个闭门羹啊，得吃了才能死心。
 [charslot(slot = "l", name = "avg_198_blackd_1#3$1", focus="l")]
-[name="魏斯"]......
+[name="魏斯"]……
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
 [name="年迈贵族"]正好，原本我就想和你聊聊。魏斯啊，借一步说话。
 [charslot(slot = "l", name = "avg_198_blackd_1#6$1", focus="l")]
-[name="魏斯"]......好。
+[name="魏斯"]……好。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -150,7 +150,7 @@
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
 [name="年迈贵族"]老爷带着她回来后，就把你原本的位置给抢走了，你心里当真就没有半点想法？
 [charslot(slot = "l", name = "avg_198_blackd_1#3$1", focus="l")]
-[name="魏斯"]我的想法......不重要，老爷的事业能够发展起来，我心中总是高兴的。
+[name="魏斯"]我的想法……不重要，老爷的事业能够发展起来，我心中总是高兴的。
 [charslot(slot = "l", name = "avg_198_blackd_1#6$1", focus="l")]
 [name="魏斯"]艾德文叔呢？听您的口气，您好像不太喜欢锏小姐。
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
@@ -170,7 +170,7 @@
 [name="年迈贵族"]他难道忘了在谢拉格还有你这样一个贴身侍卫？
 [name="年迈贵族"]把她带回来，你会怎么想？
 [charslot(slot = "l", name = "avg_198_blackd_1#9$1", focus="l")]
-[name="魏斯"]......
+[name="魏斯"]……
 [charslot(slot = "l", name = "avg_198_blackd_1#2$1", focus="l")]
 [name="魏斯"]我的想法并不重要。
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
@@ -207,7 +207,7 @@
 [name="魏斯"]您想拿锏小姐开刀？
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
 [name="年迈贵族"]老爷也好，他身边的那些年轻人也好，他们需要知道，谢拉格的主人还轮不到那群外来人来当。
-[name="年迈贵族"]而镇住一群羽兽最简单的方法，就是把出头的那一只......解决掉。
+[name="年迈贵族"]而镇住一群羽兽最简单的方法，就是把出头的那一只……解决掉。
 [dialog]
 [charslot(slot = "r", focus="n")]
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
@@ -221,14 +221,14 @@
 [charslot(slot = "m", name = "avg_198_blackd_1#6$1")]
 [name="魏斯"]专家怎么说？
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
-[name="敏捷的谢拉格战士"]这位......
+[name="敏捷的谢拉格战士"]这位……
 [charslot(slot = "m", name = "avg_198_blackd_1#6$1")]
 [name="魏斯"]他也是老爷信任的人，直接说就好。
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
 [name="敏捷的谢拉格战士"]好的。专家说你的判断是对的，那边的山体已经相当危险了。
 [name="敏捷的谢拉格战士"]如果未来还会降雪的话，发生雪崩的可能性很高。
 [charslot(slot = "m", name = "avg_198_blackd_1#3$1")]
-[name="魏斯"]......我倒希望是我错了。
+[name="魏斯"]……我倒希望是我错了。
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
 [name="敏捷的谢拉格战士"]能在这个阶段发现已经是不幸中的万幸了，得亏是队长你的经验丰富，不然就晚了。
 [charslot(slot = "m", name = "avg_198_blackd_1#6$1")]
@@ -236,7 +236,7 @@
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
 [name="敏捷的谢拉格战士"]这应该要立即向老爷汇报吧？
 [charslot(slot = "m", name = "avg_198_blackd_1#6$1")]
-[name="魏斯"]......这件事我去汇报就好，你们先继续观测吧。
+[name="魏斯"]……这件事我去汇报就好，你们先继续观测吧。
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
 [name="敏捷的谢拉格战士"]我知道了。
 [dialog]
@@ -245,7 +245,7 @@
 [delay(time=0.5)]
 [charslot(slot = "l", name = "avg_198_blackd_1#7$1", focus="l")]
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="n")]
-[name="魏斯"]......
+[name="魏斯"]……
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
 [name="年迈贵族"]看你的样子，你想到了什么，魏斯？
 [charslot(slot = "l", name = "avg_198_blackd_1#7$1", focus="l")]
@@ -257,18 +257,18 @@
 [charslot(slot = "l", name = "avg_198_blackd_1#6$1", focus="l")]
 [name="魏斯"]这样吧，我有一个主意。
 [name="魏斯"]您刚才也听到了，近期可能会发生一场雪崩。
-[name="魏斯"]我会请示老爷，让锏小姐在雪崩区域附近的地方练兵......
+[name="魏斯"]我会请示老爷，让锏小姐在雪崩区域附近的地方练兵……
 [name="魏斯"]等到雪崩发生时，再请求支援。
 [charslot(slot = "l", name = "avg_198_blackd_1#8$1", focus="l")]
 [name="魏斯"]届时，在雪崩中会发生什么，就谁也不知道了。
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
-[name="年迈贵族"]......啧啧，了不起。
+[name="年迈贵族"]……啧啧，了不起。
 [name="年迈贵族"]如果不是我也听到了你和你手下说的话，我都要怀疑你是不是早就准备好了。
 [name="年迈贵族"]不不，我明白了，你也早有此意，对吧？
 [name="年迈贵族"]是了，别人不知道，我是知道的，你这孩子心里傲得很。
 [name="年迈贵族"]怎么会甘心自己的位置被抢走呢。
 [charslot(slot = "l", name = "avg_198_blackd_1#6$1", focus="l")]
-[name="魏斯"]......
+[name="魏斯"]……
 [charslot(slot = "l", name = "avg_198_blackd_1#8$1", focus="l")]
 [name="魏斯"]是啊，我确实等您这样对希瓦艾什忠心耿耿的人很久了。
 [dialog]
@@ -359,7 +359,7 @@
 [name="魏斯"]唉，如果您的消息灵通一些，或许我还要费点力气。
 [name="魏斯"]结果，您就这样直接来了，倒显得我的一些布置多余了。
 [charslot(slot = "m", name="avg_npc_272_1#1$1")]
-[name="年迈贵族"]你......你算计我？
+[name="年迈贵族"]你……你算计我？
 [charslot(slot = "m", name = "avg_198_blackd_1#3$1")]
 [name="魏斯"]算计，说不上。
 [charslot(slot = "m", name = "avg_198_blackd_1#6$1")]
@@ -376,7 +376,7 @@
 [charslot(slot = "m", name="avg_npc_272_1#1$1")]
 [name="年迈贵族"]你把我喊到这里来，还不让我走，安的什么心难道还用我说吗？！
 [charslot(slot = "m", name = "avg_198_blackd_1#3$1")]
-[name="魏斯"]......
+[name="魏斯"]……
 [name="魏斯"]您以为，我把您喊到“耶拉冈德的翻身”即将覆盖之处是为了灭口。
 [charslot(slot = "m", name="avg_npc_272_1#1$1")]
 [name="年迈贵族"]难道不是吗？！你这小子，好狠毒的心啊！
@@ -450,7 +450,7 @@
 [charslot(slot = "m", name="avg_198_blackd_1#6$1")]
 [name="魏斯"]毕竟我们的人手不足。
 [charslot(slot="m", name="avg_4116_blkkgt_1#8$1")]
-[name="锏"]......呵，我还真有些好奇，你何必为了我大费周章？
+[name="锏"]……呵，我还真有些好奇，你何必为了我大费周章？
 [charslot(slot = "m", name="avg_198_blackd_1#2$1")]
 [name="魏斯"]小时候，我偶尔也会和角峰大哥吵架。
 [name="魏斯"]有的时候一赌气，我就会躲进山里。但是，最后肚子饿了，我总是会灰溜溜地回到家里，吃他做的饭。
@@ -460,7 +460,7 @@
 [name="魏斯"]也许外面的天地很大，但是，谢拉格并不大。无论白天在外面做了些什么，等到晚上，我们总是要在一张桌子上吃饭的。
 [name="魏斯"]那时候，如果彼此之间还有嫌隙，未免也太尴尬了。
 [charslot(slot="m", name="avg_4116_blkkgt_1#9$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot="m", name="avg_4116_blkkgt_1#8$1")]
 [name="锏"]你们都听到了。
 [name="锏"]列队，准备去救灾。
@@ -479,7 +479,7 @@
 [name="魏斯"]啊哈哈，我就当作是夸赞了。
 [charslot(slot="m", name="avg_4116_blkkgt_1#7$1")]
 [name="锏"]不过，你倒是提醒我了。
-[name="锏"]雪崩啊......
+[name="锏"]雪崩啊……
 [dialog]
 [PlaySound(key="$d_avg_snowbootwalk", volume=1, loop=true, channel="sn")]
 [StopSound(channel="sn", fadetime=1)]
@@ -498,14 +498,14 @@
 [charslot(slot = "m", name="avg_198_blackd_1#3$1")]
 [name="魏斯"]唔。
 [charslot(slot = "m", name="avg_198_blackd_1#8$1")]
-[name="魏斯"]那就......麻烦你了。
+[name="魏斯"]那就……麻烦你了。
 [name="魏斯"]锏姐。
 [charslot]
 锏没有回头，不过也没有反驳。
 [charslot(slot = "m", name="avg_198_blackd_1#8$1")]
 [name="魏斯"]哈哈。
 [charslot(slot = "m", name="avg_198_blackd_1#2$1")]
-[name="魏斯"]然后......该去解决另一个问题了。
+[name="魏斯"]然后……该去解决另一个问题了。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -525,7 +525,7 @@
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
 [name="敏捷的谢拉格战士"]那就好，只要她愿意帮忙做些什么，乡亲们一定会对她改观的。
 [charslot(slot = "m", name="avg_198_blackd_1#3$1")]
-[name="魏斯"]她不是不愿意，只是......她也需要一个契机。
+[name="魏斯"]她不是不愿意，只是……她也需要一个契机。
 [charslot(slot = "m", name="avg_198_blackd_1#2$1")]
 [name="魏斯"]艾德文叔呢？
 [charslot(slot = "m", name = "avg_npc_283_1#1$1")]
@@ -544,7 +544,7 @@
 [name="魏斯"]我知道您是这样的人，所以才会设这个局。
 [name="魏斯"]否则，您早就死在雪山上了。
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
-[name="年迈贵族"]......哼，我现在反倒是有些好奇你想做什么了。
+[name="年迈贵族"]……哼，我现在反倒是有些好奇你想做什么了。
 [name="年迈贵族"]从一开始，你就是在给锏创造舞台？
 [charslot(slot = "l", name="avg_198_blackd_1#8$1", focus="l")]
 [name="魏斯"]顺势而为罢了。
@@ -559,8 +559,8 @@
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
 [name="年迈贵族"]怪了，你不恨锏倒也罢了，居然还帮助她？她未必承你的情。
 [charslot(slot = "l", name="avg_198_blackd_1#6$1", focus="l")]
-[name="魏斯"]......一开始，我只是信任把她带回来的老爷而已，她确实是个不好相处的人。
-[name="魏斯"]但是，当你理解她的冷漠并不是敌意，而是不在乎，甚至是一种茫然的时候......
+[name="魏斯"]……一开始，我只是信任把她带回来的老爷而已，她确实是个不好相处的人。
+[name="魏斯"]但是，当你理解她的冷漠并不是敌意，而是不在乎，甚至是一种茫然的时候……
 [name="魏斯"]其实你是不会害怕她的。
 [charslot(slot = "l", name="avg_198_blackd_1#8$1", focus="l")]
 [name="魏斯"]您一定没有见过她在山野林间，偶尔被一些放牧的大叔拉着聊家常时，那副有些无奈却又选择了忍耐的样子。
@@ -568,13 +568,13 @@
 [name="魏斯"]如果她被谢拉格接纳的话，对谢拉格而言，对她而言，以及对老爷而言，我认为都是一件好事。
 [name="魏斯"]至于她承不承我的情，又有什么关系呢？
 [charslot(slot = "r", name="avg_npc_272_1#1$1", focus="r")]
-[name="年迈贵族"]......恩希欧迪斯知道你做了这些吗？
+[name="年迈贵族"]……恩希欧迪斯知道你做了这些吗？
 [charslot(slot = "l", name="avg_198_blackd_1#6$1", focus="l")]
 [name="魏斯"]为了实现自己的蓝图，老爷不得不采取一些雷霆手段。
 [name="魏斯"]许多反弹都在他的意料之内，只是，他的精力并不是无限的，无法一一应对。
 [charslot(slot = "l", name="avg_198_blackd_1#3$1", focus="l")]
 [name="魏斯"]我只是在力所能及的范围内为他分忧罢了。
-[name="魏斯"]至于老爷知不知道......实际上一点都不重要。
+[name="魏斯"]至于老爷知不知道……实际上一点都不重要。
 [charslot(slot = "l", name="avg_198_blackd_1#8$1", focus="l")]
 [name="魏斯"]跟我来吧，艾德文叔。
 [name="魏斯"]您马上就会知道，在老爷的眼里，从很久以前开始，就不再只有一个希瓦艾什家了。
@@ -663,7 +663,7 @@
 然而，人类的智慧终究还是起了作用。
 随着钢铁防线不断向后推移，冰雪洪流的冲击力终于还是被减弱了。
 防线被冲退的速度也在不断地放慢，直到最后，一辆卡车缓缓地停在了魏斯和老者面前十几米处。
-提前被引爆的雪崩......就这样被拦住了。
+提前被引爆的雪崩……就这样被拦住了。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.1, block=true)]
@@ -677,7 +677,7 @@
 [name="魏斯"]然而，在不远的将来，谢拉格人可以像您现在这样坐在这里，看着这样一场雪崩被我们的防线挡下。
 [name="魏斯"]您在过去能够想象这样的事吗？
 [charslot(slot = "m", name="avg_npc_272_1#1$1")]
-[name="年迈贵族"]......
+[name="年迈贵族"]……
 [charslot(slot = "m", name="avg_198_blackd_1#3$1")]
 [name="魏斯"]不，您不能。
 [name="魏斯"]我也不能。
@@ -696,7 +696,7 @@
 [charslot(slot = "m", name="avg_198_blackd_1#6$1")]
 [name="魏斯"]锏姐？！
 [name="魏斯"]你不是应该在协助居民撤退吗？
-[multiline(name="魏斯")]怎么从山上......
+[multiline(name="魏斯")]怎么从山上……
 [charslot(slot = "m", name="avg_198_blackd_1#5$1")]
 [multiline(name="魏斯",end=true)]等等，你背上的两位难道是——？！
 [charslot(slot = "m", name = "avg_4116_blkkgt_1#1$1")]
@@ -718,7 +718,7 @@
 [Delay(time=1.2)]
 [charslot]
 [charslot(slot = "m", name="avg_198_blackd_1#1$1")]
-[name="魏斯"]真是......太谢谢你了，锏姐。
+[name="魏斯"]真是……太谢谢你了，锏姐。
 [charslot(slot = "m", name = "avg_4116_blkkgt_1#8$1")]
 [name="锏"]雪崩，确实挺有意思。
 [name="锏"]我先回去了，下次也可以喊我。
@@ -731,17 +731,17 @@
 [charslot(duration=1.5, isblock=true)]
 [Delay(time=0.5)]
 [charslot(slot = "m", name="avg_npc_272_1#1$1")]
-[name="年迈贵族"]她......一个人冲进了雪崩里？！
+[name="年迈贵族"]她……一个人冲进了雪崩里？！
 [charslot(slot = "m", name="avg_198_blackd_1#3$1")]
-[name="魏斯"]......老实说，这也超出了我的预料。
+[name="魏斯"]……老实说，这也超出了我的预料。
 [charslot(slot = "m", name="avg_198_blackd_1#6$1")]
 [name="魏斯"]但我想，您应该明白了吧。
 [name="魏斯"]这些外乡人之所以能够骑在您的头上，是因为他们确实掌握了远超谢拉格想象的东西。
 [name="魏斯"]好好想想，艾德文叔。
-[name="魏斯"]您和您背后那些叔叔婶婶，是想要被这洪流给碾过去......
+[name="魏斯"]您和您背后那些叔叔婶婶，是想要被这洪流给碾过去……
 [name="魏斯"]还是坐在上面，看着曾经无法想象的事物被自己征服？
 [charslot(slot = "m", name="avg_npc_272_1#1$1")]
-[name="年迈贵族"]......
+[name="年迈贵族"]……
 [name="年迈贵族"]我们还有上车的权利吗？
 [charslot(slot = "m", name="avg_198_blackd_1#8$1")]
 [name="魏斯"]当然。
@@ -754,7 +754,7 @@
 [charslot(slot = "m", name="avg_198_blackd_1#8$1")]
 [name="魏斯"]您还不老，谢拉格还需要您。
 [charslot(slot = "m", name="avg_npc_272_1#1$1")]
-[name="年迈贵族"]......呵。我会回去想一想，和他们聊一聊。
+[name="年迈贵族"]……呵。我会回去想一想，和他们聊一聊。
 [charslot(slot = "m", name="avg_198_blackd_1#4$1")]
 [name="魏斯"]那就麻烦您了。
 [charslot]

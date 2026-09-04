@@ -71,7 +71,7 @@
 [name="近卫局成员"]就是自己老家镇子搬迁过一次，结果寄出去的信一直被退回邮局的那个大胡子。
 [name="近卫局成员"]你替他把好几十封信一口气送到，他收了回信之后高兴得直流眼泪。
 [charslot(slot="r",name="avg_4083_chimes_1#8$1",focus="r")]
-[name="铎铃"]哦，我想起来了......其实没什么的，都是举手之劳。
+[name="铎铃"]哦，我想起来了……其实没什么的，都是举手之劳。
 [charslot(slot="l",name="char_015_lmg",focus="l")]
 [name="近卫局成员"]那也得谢谢你。一路小心！
 [Dialog]
@@ -95,7 +95,7 @@
 [charslot(slot="l",name="avg_4083_chimes_1#1$1",focus="l")]
 [name="铎铃"]的确有信，不过是从龙门送来的津贴。
 [charslot(slot="r",name="avg_npc_140#2",focus="r")]
-[name="朴实的工人"]津贴啊......
+[name="朴实的工人"]津贴啊……
 [charslot(slot="l",name="avg_4083_chimes_1#5$1",focus="l")]
 [name="铎铃"]您好像不太高兴？
 [charslot(slot="r",name="avg_npc_140#2",focus="r")]
@@ -152,7 +152,7 @@
 [playMusic(key="$normal_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
-[name="急切的村民"]“见字......如面，我在龙门......”
+[name="急切的村民"]“见字……如面，我在龙门……”
 [name="急切的村民"]阿芳，你认识字，过来帮我看看这说的是啥。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -176,9 +176,9 @@
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
 [name="好奇的村民"]就是能录电视的那个？
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="m")]
-[name="铎铃"]呃......差不多？
+[name="铎铃"]呃……差不多？
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
-[name="好奇的村民"]那我可得好好捯饬捯饬......
+[name="好奇的村民"]那我可得好好捯饬捯饬……
 [Dialog]
 [charslot(slot="m",name="avg_4083_chimes_1#8$1",focus="m")]
 [Delay(time=2.5)]
@@ -189,7 +189,7 @@
 但只要家还在，人们就还是会写一封又一封。
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="m")]
 [name="铎铃"]对了，您知道石桥村怎么走吗？
-[name="铎铃"]我只知道它在北边，具体位置不太清楚......
+[name="铎铃"]我只知道它在北边，具体位置不太清楚……
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
 [name="好奇的村民"]石桥村？我没什么印象。我在村里帮你问问？
 [charslot(slot="m",name="avg_4083_chimes_1#8$1",focus="m")]
@@ -205,7 +205,7 @@
 [name="好奇的村民"]抱歉啊，我们也不太清楚。
 [name="好奇的村民"]不过据说边蹄村有个小伙子是从石桥村过去投靠亲戚的，他也许知道。
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="m")]
-[name="铎铃"]边蹄村......正好，我也有信要送到那去。
+[name="铎铃"]边蹄村……正好，我也有信要送到那去。
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
 [name="好奇的村民"]不多坐坐了？
 [charslot(slot="m",name="avg_4083_chimes_1#8$1",focus="m")]
@@ -236,7 +236,7 @@
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
-[name="热情的村民"]石桥村来的......你是说阿良？
+[name="热情的村民"]石桥村来的……你是说阿良？
 [name="热情的村民"]阿良，快来，有人找你问路！
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0,fadetime=2, block=true)]
@@ -245,17 +245,17 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [name="铎铃"]往北，过北坟村十多里后，有一棵好几个人才能合抱的枯树，从那里进山。
-[name="铎铃"]翻过去之后是一条人走出来的双岔路，向右一直走，走差不多一天......
+[name="铎铃"]翻过去之后是一条人走出来的双岔路，向右一直走，走差不多一天……
 [name="铎铃"]好，我记住了。
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
 [name="热情的村民"]这么复杂，真亏你记得住。
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="m")]
-[name="铎铃"]其实......向左走能走到我家乡的村子。
+[name="铎铃"]其实……向左走能走到我家乡的村子。
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
 [name="热情的村民"]我就说嘛，你这孩子看着就朴实，像我们山里出来的人。
 [name="热情的村民"]对了，你家那边怎么样，还好吗？
 [charslot(slot="m",name="avg_4083_chimes_1#3$1",focus="m")]
-[name="铎铃"]......已经荒了。大家都搬进城做工去了。
+[name="铎铃"]……已经荒了。大家都搬进城做工去了。
 [charslot(slot="m",name="avg_4083_chimes_1#3$1",focus="none")]
 [name="热情的村民"]唉，前几年年景不行，我们村也想过差不多的事，不过好歹挺过来了。你一路小心啊。
 [Dialog]
@@ -271,7 +271,7 @@
 [Delay(time=2)]
 [name="狡诈的男性"]两位，刚才那个信使——
 [name="热情的村民"]你找她有事？
-[name="狡诈的男性"]我也想去石桥村，刚刚远远听你们说该怎么过去，可是没听清......
+[name="狡诈的男性"]我也想去石桥村，刚刚远远听你们说该怎么过去，可是没听清……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -284,7 +284,7 @@
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [name="铎铃"]北坟村到了。
-[name="铎铃"]总共两封送到北坟村的信，还剩一封......就是要送去石桥村的那一封了。
+[name="铎铃"]总共两封送到北坟村的信，还剩一封……就是要送去石桥村的那一封了。
 [charslot(slot="m",name="avg_4083_chimes_1#5$1")]
 [name="铎铃"]那里怎么聚着好多人？
 [Dialog]
@@ -303,16 +303,16 @@
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4083_chimes_1#5$1")]
-[name="铎铃"]大家这是在......读公告？
+[name="铎铃"]大家这是在……读公告？
 [charslot(slot="m",name="avg_4083_chimes_1#5$1",focus="none")]
 [name="迫切的村民"]是啊，我们村终于要搬了。有个新建的移动地块在招工，说是负责建筑的人等地块建好之后，可以继续在城里负责维护。
 [name="迫切的村民"]这不，公告已经贴出来了，过几天就有车队来接我们了。
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",focus="m")]
-[name="铎铃"]那你们的信......
+[name="铎铃"]那你们的信……
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",focus="none")]
 [name="迫切的村民"]都给我吧，等大家各自回家了，我去把信给他们。多谢你这么多年一直给我们送信了。
 [charslot(slot="m",name="avg_4083_chimes_1#2$1",focus="m")]
-[name="铎铃"]......没关系的。
+[name="铎铃"]……没关系的。
 [charslot(slot="m",name="avg_4083_chimes_1#2$1",focus="none")]
 [name="迫切的村民"]欸，你怎么还往北走？
 [charslot(slot="m",name="avg_4083_chimes_1#7$1",focus="m")]
@@ -321,9 +321,9 @@
 [name="迫切的村民"]石桥村？
 [name="迫切的村民"]石桥村上个月就说要搬，现在那边还有没有人都不好说了。
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",focus="m")]
-[name="铎铃"]这......这消息确定吗？
+[name="铎铃"]这……这消息确定吗？
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",focus="none")]
-[name="迫切的村民"]他们要搬是板上钉钉的事，车队前几天也进山了。不过这几天我们没见有车队从山里出来......
+[name="迫切的村民"]他们要搬是板上钉钉的事，车队前几天也进山了。不过这几天我们没见有车队从山里出来……
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="m")]
 [name="铎铃"]那就还赶得上。
 [Dialog]
@@ -346,7 +346,7 @@
 [Delay(time=2)]
 夕阳西下，狭窄的道路两侧，群山绵延开去。
 向北十余里，我见到那棵枯树，转了几个弯走进山中，翻山越岭，一路走到这个岔路口。
-我当年是从这里出来的，但现在......
+我当年是从这里出来的，但现在……
 [Dialog]
 [playMusic(intro="$nervous_intro",key="$nervous_loop", volume=0.6)]
 [playsound(key="$d_gen_soldiersrun",volume=1)]
@@ -359,7 +359,7 @@
 [Delay(time=2.5)]
 [charslot]
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]......各位，你们挡路了。
+[name="铎铃"]……各位，你们挡路了。
 [charslot(slot="m",name="avg_npc_007")]
 [name="可疑的男性"]抱歉，我们是来收信的。
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
@@ -377,7 +377,7 @@
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]敢跟我们叫板，你翅膀硬了啊。
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]......我们见过？
+[name="铎铃"]……我们见过？
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]废话少说，这次老大不在，我们可不会手下留情！
 [Dialog]
@@ -392,7 +392,7 @@
 [Delay(time=0.5)]
 [playMusic(intro="$normal02_intro",key="$normal02_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_008")]
-[name="嚣张的劫匪"]架势学得倒不错，就是不知道你刀头到底见没见过血......
+[name="嚣张的劫匪"]架势学得倒不错，就是不知道你刀头到底见没见过血……
 [Dialog]
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
 [Delay(time=0.2)]
@@ -443,14 +443,14 @@
 [charslot(slot="m",name="avg_npc_007")]
 [name="狡诈的劫匪"]小妮子恁不懂事，一个破送信的罢了，拼什么命啊？
 [charslot(slot="m",name="avg_4083_chimes_1#4$1",focus="m")]
-[name="铎铃"]（喘息）......我没什么可跟你们说的。
+[name="铎铃"]（喘息）……我没什么可跟你们说的。
 [charslot(slot="m",name="avg_npc_007")]
-[name="狡诈的劫匪"]（小声）老哥，对面还挺难拿下，要不咱们......
+[name="狡诈的劫匪"]（小声）老哥，对面还挺难拿下，要不咱们……
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]（小声）哼，也只能这么着了。
 [name="嚣张的劫匪"]咱们各退一步好不好？我给你讲讲为什么我们要跟你过不去，你再好好想想跟我们拼命到底值不值。
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]......
+[name="铎铃"]……
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]你知道自己送的是谁的信吗？那是我们老大被抓之后寄出来的。
 [name="嚣张的劫匪"]老大的老家就在石桥村，那个村子早就快荒得没人了。要不是你之前到处打听石桥村怎么走，我们也不可能盯上你。
@@ -469,17 +469,17 @@
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]想起来了？
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]你们......就是我遇到的第一伙盗匪？蒙着我的眼睛，烧了我的信的那一伙？
+[name="铎铃"]你们……就是我遇到的第一伙盗匪？蒙着我的眼睛，烧了我的信的那一伙？
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]还能有谁。
 [name="嚣张的劫匪"]要不是老大不想惹麻烦，又看你一个没了家的小姑娘可怜，你以为杀个官差算多大点事？
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]可怜......有什么可怜的？
+[name="铎铃"]可怜……有什么可怜的？
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]哼，你以为我们为什么觉得你可怜？
 [name="嚣张的劫匪"]真正有能耐的大盗都在移动城市里干大买卖，我们要不是没了家，谁会来这种荒山野岭里劫道？
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]......
+[name="铎铃"]……
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]现在偏巧又是你给老大送这封信，咱们也算有缘。隔这么多年再见面，别闹得不好看。
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
@@ -487,7 +487,7 @@
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]你怎么听不懂人话呢？
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]......这把刀是我在被你们抢过之后才买的，别逼我真把它用在你们身上。
+[name="铎铃"]……这把刀是我在被你们抢过之后才买的，别逼我真把它用在你们身上。
 [charslot(slot="m",name="avg_npc_008")]
 [name="嚣张的劫匪"]行了，兄弟们，小妮子自己找死，这可不怪咱们。
 [Dialog]
@@ -565,9 +565,9 @@
 [Blocker(a=0, r=255,g=255, b=255, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_008")]
-[name="嚣张的劫匪"]反应倒快......
+[name="嚣张的劫匪"]反应倒快……
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]你们......最好赶紧走。那两个人没受致命伤，还能救得起来。
+[name="铎铃"]你们……最好赶紧走。那两个人没受致命伤，还能救得起来。
 [Dialog]
 [charslot]
 [playsound(key="$d_gen_walk_n",volume=1)]
@@ -581,7 +581,7 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]想......想都别想。
+[name="铎铃"]想……想都别想。
 [charslot(slot="m",name="avg_npc_007",focus="m")]
 [name="狡诈的劫匪"]你看你，说话都不稳了——
 [Dialog]
@@ -591,13 +591,13 @@
 [PlaySound(key="$d_avg_broadswordblood", volume=1)]
 [Blocker(a=0, r=255,g=255, b=255, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
-[name="狡诈的劫匪"]咕啊......
+[name="狡诈的劫匪"]咕啊……
 [Dialog]
 [playsound(key="$bodyfalldown1",volume=1)]
 [charslot(duration=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4083_chimes_1#6$1",focus="m")]
-[name="铎铃"]这一刀，砍的是，胳膊......下一刀就不一定了。
+[name="铎铃"]这一刀，砍的是，胳膊……下一刀就不一定了。
 [charslot(slot="m",name="avg_npc_008",focus="m")]
 [name="嚣张的劫匪"]不错，一个信使放倒了我们三个人。但你也就这样了。把刀放下吧。
 [name="嚣张的劫匪"]我说把刀放下！
@@ -624,9 +624,9 @@
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
 [name="风尘仆仆的男性"]你还好吗？
 [charslot(slot="l",name="avg_4083_chimes_1#2$1",focus="l")]
-[name="铎铃"]我......没事。你又是谁？
+[name="铎铃"]我……没事。你又是谁？
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
-[name="风尘仆仆的男性"]那封信......
+[name="风尘仆仆的男性"]那封信……
 [Dialog]
 [charslot(slot="l",name="avg_4083_chimes_1#5$1",focus="l")]
 [Delay(time=0.5)]
@@ -647,29 +647,29 @@
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
 [name="近卫局成员"]长话短说，希望你能配合我的工作，和我一起回龙门，等我们检查完这封信之后再把它寄出去。
 [charslot(slot="l",name="avg_4083_chimes_1#10$1",focus="l")]
-[name="铎铃"]这封信......到底怎么了？
+[name="铎铃"]这封信……到底怎么了？
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
 [name="近卫局成员"]这信是一名落网的盗匪头子寄出来的，他说这是他寄给石桥村母亲的家书。
 [name="近卫局成员"]我们查过了，他确实是石桥村人。顺便，他供出来的第一件案子就是劫了你。
 [charslot(slot="l",name="avg_4083_chimes_1#10$1",focus="l")]
-[name="铎铃"]......
+[name="铎铃"]……
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
 [name="近卫局成员"]这家伙从离家起就再没回去过，已经十多年了。考虑到他时日无多，我们也没多作干涉。
 [charslot(slot="l",name="avg_4083_chimes_1#10$1",focus="l")]
 [name="铎铃"]十几年没回过家？
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
-[name="近卫局成员"]他自己说是免得牵连家里人，实际原因......谁知道呢。
+[name="近卫局成员"]他自己说是免得牵连家里人，实际原因……谁知道呢。
 [name="近卫局成员"]不巧的是，差不多在你出城的同时，我们突然查出他还和其他的案子有关。
 [name="近卫局成员"]这样一来，我们就必须认真考虑这封信不是家书，而是在传递信息的可能性了。
 [charslot(slot="l",name="avg_4083_chimes_1#2$1",focus="l")]
-[name="铎铃"]可......我马上就要送到了。有没有可能是个误会，这真的只是一封普通的家书？
+[name="铎铃"]可……我马上就要送到了。有没有可能是个误会，这真的只是一封普通的家书？
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
 [name="近卫局成员"]我就是为了确认这个才一路追着你过来的。
 [charslot(slot="l",name="avg_4083_chimes_1#2$1",focus="l")]
-[name="铎铃"]警官先生，这里向右走是石桥村，向左走就是我的故乡......那里已经什么都没有了。
-[name="铎铃"]石桥村马上也要搬走了。我还知道我的家书该寄到哪里，可这个人......
+[name="铎铃"]警官先生，这里向右走是石桥村，向左走就是我的故乡……那里已经什么都没有了。
+[name="铎铃"]石桥村马上也要搬走了。我还知道我的家书该寄到哪里，可这个人……
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
-[name="近卫局成员"]......
+[name="近卫局成员"]……
 [charslot(slot="l",name="avg_4083_chimes_1#2$1",focus="l")]
 [name="铎铃"]不回龙门真的不行吗？
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
@@ -680,8 +680,8 @@
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
 [name="近卫局成员"]即使那家伙抢过你？
 [charslot(slot="l",name="avg_4083_chimes_1#2$1",focus="l")]
-[name="铎铃"]和案子没关系，只是......
-[name="铎铃"]一个十几年没回过家，而且再也回不去的人......我愿意相信他寄出的最后一封信只是一封普普通通的家书。
+[name="铎铃"]和案子没关系，只是……
+[name="铎铃"]一个十几年没回过家，而且再也回不去的人……我愿意相信他寄出的最后一封信只是一封普普通通的家书。
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
 [name="近卫局成员"]我知道了。
 [name="近卫局成员"]你那个摄像机能用吗？能用的话麻烦把检查的全过程拍下来，这样我们都好交差。
@@ -696,9 +696,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="r",name="avg_npc_799_1#1$1",focus="r")]
-[name="近卫局成员"]......好了。
+[name="近卫局成员"]……好了。
 [charslot(slot="l",name="avg_4083_chimes_1#2$1",focus="l")]
-[name="铎铃"]那......这封信到底是......
+[name="铎铃"]那……这封信到底是……
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_paper1",volume=1)]
@@ -725,11 +725,11 @@
 [playsound(key="$rungeneral",volume=1)]
 [charslot(slot="m",name="avg_4083_chimes_1#2$1",duration=1.5)]
 [Delay(time=3.5)]
-[name="铎铃"]呼、呼......赶上了......
+[name="铎铃"]呼、呼……赶上了……
 [charslot(slot="m",name="avg_4083_chimes_1#2$1",focus="none")]
 [name="车队首领"]姑娘，你是哪位？来给亲戚送行的吗？
 [charslot(slot="m",name="avg_4083_chimes_1#2$1")]
-[name="铎铃"]不，我是......信使，有一封从龙门寄到石桥村的信......
+[name="铎铃"]不，我是……信使，有一封从龙门寄到石桥村的信……
 [charslot(slot="m",name="avg_4083_chimes_1#2$1",focus="none")]
 [name="车队首领"]龙门？辛苦你了。给我看一眼信封，我问问已经上了车的人。
 [Dialog]
@@ -737,13 +737,13 @@
 [Delay(time=1.5)]
 [name="车队首领"]这下不巧了，这封信好像是给赵大娘的。
 [charslot(slot="m",name="avg_4083_chimes_1#10$1")]
-[name="铎铃"]......不巧？！
+[name="铎铃"]……不巧？！
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",focus="none")]
 [name="车队首领"]别，姑娘，你别慌，不是你想的那样。赵大娘没事，就是上了岁数，眼花耳背，人也糊涂了。
 [name="车队首领"]之前村里人和她说好了，车队一到大家就一起出发，可她现在怎么都不愿走，跟小孩子发脾气似的，说我们骗她。
 [name="车队首领"]你这封信，我不知道她还能不能读啊。
 [charslot(slot="m",name="avg_4083_chimes_1#2$1")]
-[name="铎铃"]......
+[name="铎铃"]……
 [charslot(slot="m",name="avg_4083_chimes_1#7$1")]
 [name="铎铃"]不管怎么说，我先把信交到赵大娘手上吧。
 [Dialog]
@@ -759,36 +759,36 @@
 [playsound(key="$dooropenquite",volume=1)]
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",duration=1.5)]
 [Delay(time=2.5)]
-[name="铎铃"]......大娘？
+[name="铎铃"]……大娘？
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",focus="none")]
 [name="昏聩的老人"]谁？谁来了？谁来我也不走！你们都来骗我！什么移动城市，什么电话，什么城际网络——都来骗我！
 [name="昏聩的老人"]你们就想像骗了二牙似的骗我也走，我不走！
 [charslot(slot="m",name="avg_4083_chimes_1#5$1")]
 [name="铎铃"]我不是来劝您走的，我是来送信的——
 [charslot(slot="m",name="avg_4083_chimes_1#5$1",focus="none")]
-[name="昏聩的老人"]不走！打死我也不走，我得在这儿等着......我不爱吃甜的！
+[name="昏聩的老人"]不走！打死我也不走，我得在这儿等着……我不爱吃甜的！
 [charslot(slot="m",name="avg_4083_chimes_1#10$1")]
-[name="铎铃"]......啊？
+[name="铎铃"]……啊？
 [charslot(slot="m",name="avg_4083_chimes_1#10$1",focus="none")]
 [name="昏聩的老人"]你是谁？你怎么进我家了？
 [charslot(slot="m",name="avg_4083_chimes_1#1$1")]
-[name="铎铃"]......大娘，我是个信使，我来给您送信。您的儿子——
+[name="铎铃"]……大娘，我是个信使，我来给您送信。您的儿子——
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
-[name="昏聩的老人"]我不认识字，被人骗了一辈子......认识又有什么用，二牙认识字，二牙也被骗......
+[name="昏聩的老人"]我不认识字，被人骗了一辈子……认识又有什么用，二牙认识字，二牙也被骗……
 [charslot(slot="m",name="avg_4083_chimes_1#1$1")]
 [name="铎铃"]这封信应该就是二牙寄给您的。
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
-[name="昏聩的老人"]信......二牙寄什么信，他从来不给我写信......什么信？
+[name="昏聩的老人"]信……二牙寄什么信，他从来不给我写信……什么信？
 [charslot(slot="m",name="avg_4083_chimes_1#1$1")]
 [name="铎铃"]那这样，我把他的信读给您听，好不好？
 [charslot(slot="m",name="avg_4083_chimes_1#1$1",focus="none")]
-[name="昏聩的老人"]听......听信？
+[name="昏聩的老人"]听……听信？
 [name="昏聩的老人"]听信。
 [Dialog]
 [charslot(slot="m",name="avg_4083_chimes_1#2$1")]
 [playsound(key="$d_avg_paper1",volume=1)]
 [Delay(time=2.5)]
-[name="铎铃"]“妈，对不起，十几年了，我没回过家，连一封信也没给你寄过......”
+[name="铎铃"]“妈，对不起，十几年了，我没回过家，连一封信也没给你寄过……”
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [charslot(duration=1.5)]

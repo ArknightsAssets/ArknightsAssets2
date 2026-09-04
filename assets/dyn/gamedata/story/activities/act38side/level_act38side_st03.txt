@@ -17,7 +17,7 @@
 [charslot(slot = "m", name = "avg_npc_1552_1#2$1", duration=1, isblock=true)]
 [name="诺埃米"]“吃饱了也要争最后一块”！披萨外送！
 [name="诺埃米"]这里有小南瓜甜椒、奶酪、薯条香肠、什锦、魔鬼辣椒，还有最最经典的番茄奶酪口味！
-[name="诺埃米"]大家先来吃饭吧，肚子空空干活会没有力气的。这一份给您，大帝......抱歉，我还是叫您顾问吧。
+[name="诺埃米"]大家先来吃饭吧，肚子空空干活会没有力气的。这一份给您，大帝……抱歉，我还是叫您顾问吧。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_humaneat", volume=1)]
@@ -36,7 +36,7 @@
 [charslot(slot = "m", name = "avg_npc_1552_1#2$1")]
 [name="诺埃米"]大帝顾问，那位边工作边唱歌的老师，不过来吃一点吗？
 [charslot(slot = "m", name = "char_105_emper")]
-[name="大帝"]......
+[name="大帝"]……
 [name="大帝"]喂，大嘴巴，快过来，这里有东西能堵住你的嘴。
 [dialog]
 [charslot]
@@ -44,7 +44,7 @@
 [charslot(slot = "m", name = "avg_npc_1429_1#1$1", posfrom="-50,80", posto="0,0", duration=1.5, isblock=true)]
 [delay(time=0.8)]
 [charslot(slot = "m", name = "char_105_emper")]
-[name="大帝"]一时间不知道该吐槽你这个随时随地都要高歌一曲的臭毛病，还是你的破锣嗓子，又或者你唱的歌本身......
+[name="大帝"]一时间不知道该吐槽你这个随时随地都要高歌一曲的臭毛病，还是你的破锣嗓子，又或者你唱的歌本身……
 [name="大帝"]这个调调是什么，你们在雨林里搭积木时的劳动号子？
 [charslot(slot = "m", name = "avg_npc_1429_1#4$1")]
 [name="大祭司"]不唱我开心不起来，干活没劲。
@@ -54,7 +54,7 @@
 [name="大帝"]你有卖力的理由，我没有。
 [name="大帝"]谁让你的花车在火场跟着遭了殃呢，啧，是屁股被烧掉了对吧？
 [charslot(slot = "m", name = "avg_npc_1429_1#4$1")]
-[name="大祭司"]......
+[name="大祭司"]……
 [dialog]
 [PlaySound(key="$d_avg_wing", volume=1)]
 [CameraShake(duration=1, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
@@ -80,7 +80,7 @@
 [charslot(slot = "m", name = "avg_npc_1552_1#1$1")]
 [name="诺埃米"]不、不行。
 [name="诺埃米"]虽然叙拉古关于野兽的传说有很多，但狼有特殊的意义。
-[name="诺埃米"]而且市政厅很早就宣传过花车的数量和原型，如果真的少了一辆，会引起不必要的恐慌的......
+[name="诺埃米"]而且市政厅很早就宣传过花车的数量和原型，如果真的少了一辆，会引起不必要的恐慌的……
 [charslot(slot = "m", name = "avg_npc_1429_1#1$1")]
 [multiline(name="大祭司")]其实吧——
 [charslot(slot = "m", name = "avg_npc_1429_1#4$1")]
@@ -97,22 +97,22 @@
 [charslot(slot = "m", name = "avg_npc_1552_1#2$1")]
 [name="诺埃米"]或许您听过我们的广告——“诺埃米披萨，让您吃饱了也要争最后一块！”
 [charslot(slot = "m", focus="n")]
-[name="大帝&大祭司"]......没有。
+[name="大帝&大祭司"]……没有。
 [charslot(slot = "m", name = "avg_npc_1552_1#1$1")]
-[name="诺埃米"]......
+[name="诺埃米"]……
 [name="诺埃米"]我们始终没攒够钱开第一家分店。
-[name="诺埃米"]虽然生意还不错，也没有客人敢逃单或者吃霸王餐，但给家族的保护费几乎就是我们全部的利润......
+[name="诺埃米"]虽然生意还不错，也没有客人敢逃单或者吃霸王餐，但给家族的保护费几乎就是我们全部的利润……
 [name="诺埃米"]所以听说新沃尔西尼警察学校招生，我就跑来了。当上警察了，说不定就可以保护店里。
 [charslot(slot = "m", name = "char_105_emper")]
-[name="大帝"]呃......
+[name="大帝"]呃……
 [charslot(slot = "m", name = "avg_npc_1552_1#1$1")]
-[name="诺埃米"]您是不是也想说我的想法很幼稚？其实当警察比开分店难多了，这几天也确实接二连三出了好多事情......
+[name="诺埃米"]您是不是也想说我的想法很幼稚？其实当警察比开分店难多了，这几天也确实接二连三出了好多事情……
 [charslot(slot = "m", name = "char_105_emper")]
 [name="大帝"]换个角度想问题，年轻人。
 [name="大帝"]你当了警察，起码可以改一句更有辨识度更能刺激消费的广告词——
 [name="大帝"]“诺埃米披萨，不好吃你把我铐起来！”
 [charslot(slot = "m", name = "avg_npc_1552_1#1$1")]
-[name="诺埃米"]啊......
+[name="诺埃米"]啊……
 [charslot(slot = "m", name = "avg_npc_1429_1#1$1")]
 [name="大祭司"]你让我想起我家祖玛玛了，年轻人总是想法很简单，也很有干劲。
 [charslot(slot = "m", name = "avg_npc_1429_1#4$1")]
@@ -136,7 +136,7 @@
 [charslot(slot = "m", name = "char_105_emper")]
 [name="大帝"]不过说真的，看着这蠢狼被烧得只剩一堆渣渣，真是没来由地解气。
 [charslot(slot = "m", name = "avg_npc_1552_1#1$1")]
-[name="诺埃米"]啊，那您......
+[name="诺埃米"]啊，那您……
 [charslot(slot = "m", name = "char_105_emper")]
 [name="大帝"]但我更讨厌派对被搞砸。
 [dialog]
@@ -159,7 +159,7 @@
 [charslot(slot = "l", name = "avg_npc_696_1#1$1", focus="l")]
 [name="惆怅的商人"]所以你放着晾在庭院里的食材不管，冲出去推啤酒车？
 [charslot(slot = "r", name = "avg_npc_701_1#1$1", focus="r")]
-[name="犟嘴的合伙人"]忙中出错......
+[name="犟嘴的合伙人"]忙中出错……
 [charslot(slot = "l", name = "avg_npc_696_1#1$1", focus="l")]
 [name="惆怅的商人"]啤酒车有智能恒温系统，又是封闭的，被雨淋了也没什么，结果你把它推了回来，害得我好不容易抢到的摊位被别人占了！
 [name="惆怅的商人"]现在，摊位没了，食材没了，这哪是什么狂欢节，分明是我的葬礼！
@@ -170,7 +170,7 @@
 [charslot]
 [StopSound(channel="n", fadetime=2)]
 [charslot(slot = "m", name = "avg_npc_692_1#3$1", duration=1.5, isblock=true)]
-[name="？？？"]Zzz，Zzz......
+[name="？？？"]Zzz，Zzz……
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
 [name="惆怅的商人"]原来您还没走啊！怎么吃完一支冰淇淋后还原地睡着了？
 [multiline(name="惆怅的商人")]神父，神父？
@@ -199,18 +199,18 @@
 [charslot(slot = "m", name = "avg_npc_692_1#3$1")]
 [name="阿格尼尔"]问题总会暴露的，问题也总有解决的办法。
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
-[name="惆怅的商人"]我记得城里没有建教堂......神父，您从哪儿来？
+[name="惆怅的商人"]我记得城里没有建教堂……神父，您从哪儿来？
 [charslot(slot = "m", name = "avg_npc_692_1#3$1")]
 [name="阿格尼尔"]蒙特卢佩。
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
-[name="惆怅的商人"]首都啊......好远。专门赶过来参加狂欢节吗？
+[name="惆怅的商人"]首都啊……好远。专门赶过来参加狂欢节吗？
 [charslot(slot = "m", name = "avg_npc_692_1#3$1")]
 [name="阿格尼尔"]受一个老朋友的委托，过来看看。她对这个活动有些在意。
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
 [name="惆怅的商人"]叙拉古确实好久没有哪座城市举行过这么盛大的活动了。
-[name="惆怅的商人"]同样是庆祝新生，隔壁莱塔尼亚的女皇庆典可是一年一次，而且听说都是万民齐聚，排场一次比一次大......
+[name="惆怅的商人"]同样是庆祝新生，隔壁莱塔尼亚的女皇庆典可是一年一次，而且听说都是万民齐聚，排场一次比一次大……
 [charslot(slot = "m", name = "avg_npc_692_1#3$1")]
-[name="阿格尼尔"]是啊，叙拉古好久没有哪座城市举行过这么盛大的活动了......
+[name="阿格尼尔"]是啊，叙拉古好久没有哪座城市举行过这么盛大的活动了……
 [name="阿格尼尔"]不要下雨才好，不然维持秩序可就难喽。
 [dialog]
 [stopmusic(fadetime=2)]
@@ -227,7 +227,7 @@
 [charslot(slot = "r", name = "avg_npc_1543_1#1$1", duration=1.5)]
 [Delay(time=2)]
 [charslot(slot = "r", name = "avg_npc_1543_1#1$1", focus="r")]
-[name="翁贝托"]......英格丽女士，你这是在？
+[name="翁贝托"]……英格丽女士，你这是在？
 [charslot(slot = "l", name = "avg_4026_vulpis_1#4$1", focus="l")]
 [name="英格丽"]这块布料应该没用了吧？我从废布箱里随手拿的，用来擦一下刀。
 [charslot(slot = "r", name = "avg_npc_1543_1#1$1", focus="r")]
@@ -256,7 +256,7 @@
 [charslot(slot = "r", name = "avg_npc_1543_1#1$1", focus="r")]
 [name="翁贝托"]好了，英格丽女士，我们也就此告别吧。
 [charslot(slot = "l", name = "avg_4026_vulpis_1#2$1", focus="l")]
-[name="英格丽"]......
+[name="英格丽"]……
 [charslot(slot = "r", name = "avg_npc_1543_1#1$1", focus="r")]
 [name="翁贝托"]其实你已经知道了，对吧？
 [charslot(slot = "l", name = "avg_4026_vulpis_1#2$1", focus="l")]
@@ -272,7 +272,7 @@
 [charslot(slot = "l", name = "avg_4026_vulpis_1#3$1", focus="l")]
 [name="英格丽"]倒也没错。
 [charslot(slot = "l", name = "avg_4026_vulpis_1#2$1", focus="l")]
-[name="英格丽"]......虽然还只是猜测，但也算是有了一些收获，所以我说你不用感谢我。
+[name="英格丽"]……虽然还只是猜测，但也算是有了一些收获，所以我说你不用感谢我。
 [charslot(slot = "r", name = "avg_npc_1543_1#1$1", focus="r")]
 [name="翁贝托"]你来到新沃尔西尼，留在德蒙塔诺，是为了换取当年的真相——具体是谁策划了那场刺杀，在那场城邦内乱中伤害了丽萨小姐。
 [name="翁贝托"]这是你和瓦古的约定，但既然你已经知道了答案，它也就没了继续的意义。
@@ -282,11 +282,11 @@
 [name="英格丽"]游戏还没有结束，所谓的“獠牙”还在城内，我和她们交过手，两个孩子，但身手都不弱。
 [name="英格丽"]我能找到她们，她们自然也能找到你。
 [charslot(slot = "l", name = "avg_4026_vulpis_1#7$1", focus="l")]
-[name="英格丽"]翁贝托，你老了病了，以你现在的身体状况......你会死。
+[name="英格丽"]翁贝托，你老了病了，以你现在的身体状况……你会死。
 [charslot(slot = "r", name = "avg_npc_1543_1#2$1", focus="r")]
 [name="翁贝托"]英格丽女士，那本来就是我快要走到的终点，你没法帮我避开它。
 [charslot(slot = "l", name = "avg_4026_vulpis_1#7$1", focus="l")]
-[name="英格丽"]......
+[name="英格丽"]……
 [charslot(slot = "r", name = "avg_npc_1543_1#2$1", focus="r")]
 [name="翁贝托"]起码今天晚上，我想安静地待一会儿。
 [dialog]
@@ -312,7 +312,7 @@
 [multiline(name="港口工人")]我们就先走了——
 [multiline(name="港口工人",end=true)]欸，新面孔，之前那个调度员呢？
 [charslot(slot = "r", name = "avg_npc_701_1#1$1", focus="r")]
-[name="调度员"]......半小时前刚换班，他这会儿估计正在排练呢。
+[name="调度员"]……半小时前刚换班，他这会儿估计正在排练呢。
 [charslot(slot = "l", name = "avg_npc_696_1#1$1", focus="l")]
 [name="港口工人"]啊？
 [charslot(slot = "r", name = "avg_npc_701_1#1$1", focus="r")]
@@ -348,9 +348,9 @@
 [charslot(slot = "r", name = "avg_npc_701_1#1$1", focus="r")]
 [name="“调度员”"]能一样？我在那里面演的是自己，再说随时能再拍一条，刚刚要是露馅，安东尼奥今晚的所有布置就都暴露了。
 [name="“调度员”"]今晚对你我，对整个威尼斯家族都很重要。
-[name="“调度员”"]等我们真正掌控了这座城市，安东尼奥会兑现他的诺言，支持你......怎么说的来着，重振西西里的荣光。
+[name="“调度员”"]等我们真正掌控了这座城市，安东尼奥会兑现他的诺言，支持你……怎么说的来着，重振西西里的荣光。
 [charslot(slot = "l", name = "avg_npc_542_1#1$1", focus="l")]
-[multiline(name="甘比诺")]我只希望自己不要和卡尔一个下场......
+[multiline(name="甘比诺")]我只希望自己不要和卡尔一个下场……
 [charslot(slot = "l", name = "avg_npc_542_1#6$1", focus="l")]
 [multiline(name="甘比诺",end=true)]我们的顶级乐手呢？
 [charslot(slot = "r", name = "avg_npc_701_1#1$1", focus="r")]
@@ -367,7 +367,7 @@
 [name="“调度员”"]安东尼奥那边呢？
 [charslot(slot = "l", name = "avg_npc_542_1#8$1", focus="l")]
 [name="甘比诺"]老板用得着我们操心吗？
-[name="甘比诺"]还有几个小时......享受今晚吧，新沃尔西尼人，享受真正的狂欢。
+[name="甘比诺"]还有几个小时……享受今晚吧，新沃尔西尼人，享受真正的狂欢。
 [SoundVolume(volume=1, channel="s",fadetime=2)]
 [stopmusic(fadetime=1)]
 [charslot(slot = "r", focus="n")]
@@ -428,7 +428,7 @@
 [charslot(slot = "m", name = "avg_npc_1564_1#1$1")]
 [name="拉普兰德"]嗯？
 [charslot(slot = "m", name = "avg_npc_542_1#7$1")]
-[name="甘比诺"]呃，我的意思是......
+[name="甘比诺"]呃，我的意思是……
 [charslot(slot = "m", name = "avg_npc_542_1#6$1")]
 [name="甘比诺"]小威尼斯已经把整个家族在新沃尔西尼一年的积累全部投了进来，事到如今，哪怕你要搞什么破坏，我也帮不上忙。
 [charslot(slot = "m", name = "avg_npc_1564_1#9$1")]
@@ -440,7 +440,7 @@
 [name="拉普兰德"]所以你都不用打死地上这个家伙的——手太快了！
 [name="拉普兰德"]下次注意，别那么急着表现自己还是一个坏种，难怪你的市民积分攒得没卡彭多呢。
 [charslot(slot = "m", name = "avg_npc_542_1#4$1")]
-[name="甘比诺"]......
+[name="甘比诺"]……
 [charslot(slot = "m", name = "avg_npc_542_1#4$1")]
 [multiline(name="甘比诺")]唉。
 [charslot(slot = "m", name = "avg_npc_542_1#1$1")]
@@ -452,7 +452,7 @@
 [charslot(slot = "m", name = "avg_npc_1564_1#9$1")]
 [name="拉普兰德"]一个礼盒。
 [charslot(slot = "m", name = "avg_npc_542_1#2$1")]
-[name="甘比诺"]......难道说，是那个小裁缝随身带着的——
+[name="甘比诺"]……难道说，是那个小裁缝随身带着的——
 [charslot(slot = "m", name = "avg_npc_1564_1#3$1")]
 [name="拉普兰德"]嗯哼。
 [name="拉普兰德"]另外，去多弄一些彩带气球和射灯什么的，快去！

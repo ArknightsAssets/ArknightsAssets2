@@ -10,7 +10,7 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
-[name="W"]宇宙......什么宇宙？
+[name="W"]宇宙……什么宇宙？
 [charslot(slot="m",name="avg_003_kalts_1#2$1",focus="m")]
 [name="凯尔希"]你们所熟知的语言中并不包括这个词语。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
@@ -24,9 +24,9 @@
 [name="W"]一、不知道什么原因，我们跟着飞空艇一头扎进了源石里面——天知道为什么小小的石头里面居然会有这么宽敞的地方。
 [name="W"]二、我们还没死，不知道以什么方式还活在源石内部的，“宇宙”里？
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="m")]
-[name="凯尔希"]......可以这么理解。
+[name="凯尔希"]……可以这么理解。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$2",focus="m")]
-[name="W"]......
+[name="W"]……
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
 [delay(time=0.5)]
@@ -37,7 +37,7 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#5$1",focus="m")]
 [name="阿米娅"]W小姐！
 [charslot(slot="m",name="avg_1037_amiya3_1#10$1",focus="m")]
-[name="阿米娅"]刚刚你扔出去的......呃，是炸弹？
+[name="阿米娅"]刚刚你扔出去的……呃，是炸弹？
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="W"]不然呢？
 [name="W"]我总得摸索一下。你就当炸弹是我的手好了。
@@ -61,33 +61,33 @@
 [charslot]
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
 [name="W"]——刚刚怎么回事？！
-[name="W"]就好像......有什么东西拽了我一把。
+[name="W"]就好像……有什么东西拽了我一把。
 [charslot(slot="m",name="avg_1035_wisdel_1#6$2",focus="m")]
 [name="W"]底下那黄色的东西是液态源石吗？炸弹炸到什么玩意了？
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]炸弹并未引爆，因为缺乏能量反应条件。
 [charslot(slot="m",name="avg_4133_logos_1#8$1",focus="m")]
 [name="Logos"]在这片源石海中，我完全感知不到源石。
-[name="Logos"]......或许可以理解，毕竟外部的源石皆是以与其他物质结合的形式存在，亦必须符合外部“宇宙”的规则。
+[name="Logos"]……或许可以理解，毕竟外部的源石皆是以与其他物质结合的形式存在，亦必须符合外部“宇宙”的规则。
 [name="Logos"]而此处的源石，即是规则本身。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$2",focus="m")]
 [name="W"]你这话还不如老女人说的好懂。
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]我们已进入另一套语法之中。
 [charslot(slot="m",name="avg_4133_logos_1#10$1",focus="m")]
-[name="Logos"]我能察觉到这片源石海洋中包含的......语言。浩瀚，磅礴，无边无际。我目前尚不能彻底解析。
+[name="Logos"]我能察觉到这片源石海洋中包含的……语言。浩瀚，磅礴，无边无际。我目前尚不能彻底解析。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]停下来，Logos。
-[name="凯尔希"]至少在此时此地，别再尝试去理解这“语言”。我们不能过多......扰动。
+[name="凯尔希"]至少在此时此地，别再尝试去理解这“语言”。我们不能过多……扰动。
 [name="凯尔希"]虽然我们很可能已在危险的注视之下，但这艘船被允许存在，就证明我们暂时是安全的。
 [Dialog]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="n")]
-[Decision(options="罗德岛？;船和源石海......", values="1;2")]
+[Decision(options="罗德岛？;船和源石海……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#14$1",focus="m")]
-[name="凯尔希"]这艘罗德岛......是因你而存在，Dr.{@nickname}。
+[name="凯尔希"]这艘罗德岛……是因你而存在，Dr.{@nickname}。
 [name="凯尔希"]我们本应被源石同化，成为这片海洋的一部分。是你救了我们。
-[name="凯尔希"]你修改......不，重新制定了部分规则。
+[name="凯尔希"]你修改……不，重新制定了部分规则。
 [name="凯尔希"]在你自己都没有察觉的情况下，你使用了那种“语言”。
 [Dialog]
 [charslot]
@@ -96,13 +96,13 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#6$2",focus="m")]
 [name="W"]哈？这个家伙还有这种能耐？你不会想告诉我，船上那些莫名其妙的场景，也都是这家伙的一场梦吧？
 [charslot(slot="m",name="avg_1035_wisdel_1#9$2",focus="m")]
-[name="W"]那“温暖人心”的幻想可真是......恶心。
+[name="W"]那“温暖人心”的幻想可真是……恶心。
 [Dialog]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$2",focus="n")]
-[Decision(options="......;我也并不喜欢。", values="1;2")]
+[Decision(options="……;我也并不喜欢。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1035_wisdel_1#11$2",focus="m")]
-[name="W"]......呵。
+[name="W"]……呵。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$2",focus="m")]
 [delay(time=0.5)]
 [Dialog]
@@ -117,25 +117,25 @@ W转过头去，略带思索地看向前方。
 罗德岛航行在金色的海洋上。水面看起来毫无涟漪，更像是一面纯金色的镜子。
 一个疑问突然击中了你——你们真的是在航行吗？
 [charslot(slot="m",name="avg_1037_amiya3_1#5$1",focus="m")]
-[name="阿米娅"]海面好像是静止的......所有东西都是。
+[name="阿米娅"]海面好像是静止的……所有东西都是。
 [charslot(slot="m",name="avg_1037_amiya3_1#3$1",focus="m")]
-[name="阿米娅"]太安静了，我什么都感觉不到。流动的情感，充实的记忆......全部消失了。
+[name="阿米娅"]太安静了，我什么都感觉不到。流动的情感，充实的记忆……全部消失了。
 [charslot(slot="m",name="avg_1037_amiya3_1#10$1",focus="m")]
-[name="阿米娅"]凯尔希医生，这里是源石内部，不是吗？源石明明吞吃了那么多东西......
-[name="阿米娅"]毁于天灾的城市，死于矿石病的人......所有生命存在过的痕迹，它们不该都在这片海洋里吗？
-[name="阿米娅"]为什么......这里什么都没有？
+[name="阿米娅"]凯尔希医生，这里是源石内部，不是吗？源石明明吞吃了那么多东西……
+[name="阿米娅"]毁于天灾的城市，死于矿石病的人……所有生命存在过的痕迹，它们不该都在这片海洋里吗？
+[name="阿米娅"]为什么……这里什么都没有？
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[name="凯尔希"]......
-[name="凯尔希"]因为这里是......尽头。
+[name="凯尔希"]……
+[name="凯尔希"]因为这里是……尽头。
 [name="凯尔希"]万物尽数被源石封存，无法改变，也不会毁灭的尽头。
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="W"]真棒啊，一个连死都不会死的“好”去处，拉特兰都没这么神圣。
 [name="W"]难怪船上没有萨卡兹。这么温馨甜蜜的好地方，怎么可能——容得下我们这种妖魔鬼怪？
 [charslot(slot="m",name="avg_1037_amiya3_1#5$1",focus="m")]
-[name="阿米娅"]......没有萨卡兹？
+[name="阿米娅"]……没有萨卡兹？
 [charslot(slot="m",name="avg_1037_amiya3_1#10$1",focus="m")]
-[name="阿米娅"]好像确实是这样......从刚才开始，除了W小姐和Logos先生，的确没有见到任何一个萨卡兹。
-[name="阿米娅"]萨卡兹......与源石紧密相连的萨卡兹，都去了哪里？
+[name="阿米娅"]好像确实是这样……从刚才开始，除了W小姐和Logos先生，的确没有见到任何一个萨卡兹。
+[name="阿米娅"]萨卡兹……与源石紧密相连的萨卡兹，都去了哪里？
 [stopmusic(fadetime=1)]
 [Dialog]
 [charslot]
@@ -144,10 +144,10 @@ W转过头去，略带思索地看向前方。
 [delay(time=2)]
 [StopSound(channel="e", fadetime=3)]
 [Dialog]
-[Decision(options="船撞上了什么......？;海面上有东西？！", values="1;2")]
+[Decision(options="船撞上了什么……？;海面上有东西？！", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_4133_logos_1#6$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [name="Logos"]“看见”。
 [Dialog]
 [charslot]
@@ -176,14 +176,14 @@ W转过头去，略带思索地看向前方。
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4133_logos_1#6$1",focus="m")]
 [name="Logos"]——行军。
-[name="Logos"]战争始终在继续，无论在外面的战场上，还是在这里......亦无论是活着，还是死去。
+[name="Logos"]战争始终在继续，无论在外面的战场上，还是在这里……亦无论是活着，还是死去。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_mgcbttlfld", volume=0, loop=true, channel="wisp")]
 [SoundVolume(volume=0.4, channel="wisp",fadetime=3)]
 [Delay(time=1.5)]
 水面上出现无数萨卡兹的影子。
-温迪戈，炎魔，食腐者，女妖......以及许多被时间磨灭的古老氏族。
+温迪戈，炎魔，食腐者，女妖……以及许多被时间磨灭的古老氏族。
 他们有的拿着棍棒长枪，有的拿着弓弩长剑，有的背靠巫术火炮。
 水面是静止的，而这些身影构成洪流，向前奔涌而去。
 冲锋。厮杀。
@@ -225,7 +225,7 @@ W转过头去，略带思索地看向前方。
 [charslot(slot="m",name="avg_1014_nearl2_1#7$1",focus="m")]
 [name="玛嘉烈"]闪灵？你怎么了！
 [charslot(slot="m",name="avgnew_147_shining_1#2$1",focus="m")]
-[name="闪灵"]......那扇门已经打开。
+[name="闪灵"]……那扇门已经打开。
 [name="闪灵"]死与生的距离，前所未有地近。
 [name="闪灵"]所有的萨卡兹，都能听见。
 [Dialog]
@@ -240,18 +240,18 @@ W转过头去，略带思索地看向前方。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4088_hodrer_1#4$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="m",name="avg_4087_ines_1#5$1",focus="m")]
 [multiline(name="伊内丝")]扛住这一轮冲击！飞空艇被源石吞噬，王庭术师暂时管不到这里！这是我们唯一的机会，脊椎的损伤太大了——
 [charslot(slot="m",name="avg_4087_ines_1#9$1",focus="m")]
 [multiline(name="伊内丝")]赫德雷？
 [charslot(slot="m",name="avg_4088_hodrer_1#6$1",focus="m")]
-[name="赫德雷"]我听见了......
+[name="赫德雷"]我听见了……
 [charslot(slot="m",name="avg_4087_ines_1#9$1",focus="m")]
 [name="伊内丝"]巨兽又对你说话了？说什么了？
 [charslot(slot="m",name="avg_4088_hodrer_1#6$1",focus="m")]
-[name="赫德雷"]不......是另外的声音......
-[name="赫德雷"]......我听见，历史中所有的战争，都在同时进行。
+[name="赫德雷"]不……是另外的声音……
+[name="赫德雷"]……我听见，历史中所有的战争，都在同时进行。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -265,16 +265,16 @@ W转过头去，略带思索地看向前方。
 [charslot(slot="m",name="avg_155_tiger_1#7$1",focus="m")]
 [name="因陀罗"]维娜，你看！伦蒂尼姆上面——那坨红色的玩意儿是不是又变大了？！
 [charslot(slot="m",name="avgnew_112_siege_1#10$2",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [charslot(slot="m",name="avg_npc_405_1#9$1",focus="m")]
 [name="摩根"]不仅变大了，而且红得发黑。
-[name="摩根"]就跟......整个天空都在变成源石一样......
+[name="摩根"]就跟……整个天空都在变成源石一样……
 [charslot(slot="m",name="avgnew_112_siege_1#10$2",focus="m")]
-[name="推进之王"]......风暴并没有真正止歇。
-[name="推进之王"]诸王之息覆盖不了更大的范围......萨卡兹会毁掉整座城市，甚至远远不止。
+[name="推进之王"]……风暴并没有真正止歇。
+[name="推进之王"]诸王之息覆盖不了更大的范围……萨卡兹会毁掉整座城市，甚至远远不止。
 [charslot(slot="m",name="avgnew_112_siege_1#2$2",focus="m")]
-[name="推进之王"]阿米娅......
-[name="推进之王"]......你们一定要赶上。
+[name="推进之王"]阿米娅……
+[name="推进之王"]……你们一定要赶上。
 [Dialog]
 [stopSound(channel="bat", fadetime=2)]
 [stopmusic(fadetime=2)]
@@ -287,8 +287,8 @@ W转过头去，略带思索地看向前方。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1037_amiya3_1#7$1",focus="m")]
-[name="阿米娅"]众魂......拦住了我们。
-[name="阿米娅"]在这个一切事物都因源石静止的地方，只有众魂，还在抗争......
+[name="阿米娅"]众魂……拦住了我们。
+[name="阿米娅"]在这个一切事物都因源石静止的地方，只有众魂，还在抗争……
 [Dialog]
 [charslot]
 所有人都听到了，回荡在金色海面上低沉的怒吼。
@@ -296,8 +296,8 @@ W转过头去，略带思索地看向前方。
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="W"]有意思，萨卡兹死掉的老英雄们就在眼前鞠躬尽瘁，“不得好死”说的就是这种情况吧。
 [charslot(slot="m",name="avg_1035_wisdel_1#14$2",focus="m")]
-[name="W"]可是他们为什么要拦在我们前面......？
-[name="W"]......
+[name="W"]可是他们为什么要拦在我们前面……？
+[name="W"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#6$2",focus="m")]
 [name="W"]我们前面这树根一样的东西，它看起来是不是很像一座塔？
 [Dialog]
@@ -318,14 +318,14 @@ W转过头去，略带思索地看向前方。
 [dialog]
 [largebgtween(duration =15,yFrom =1905, yTo = -393, block = false,ease="InOutCubic")]
 [delay(time=5)]
-[name="阿米娅"]......巴别塔。
-[name="凯尔希"]从一开始，飞空艇的目的地就是这里......
+[name="阿米娅"]……巴别塔。
+[name="凯尔希"]从一开始，飞空艇的目的地就是这里……
 [name="W"]她就在那座塔上，她在带领着萨卡兹众魂！
 [name="阿米娅"]是的，她在等我们。
-[name="阿米娅"]那座塔......是这片没有方向的海洋里，唯一的信标。
+[name="阿米娅"]那座塔……是这片没有方向的海洋里，唯一的信标。
 [name="阿米娅"]所有的答案，都在我们的起点。
-[name="阿米娅"]我们会登上巴别塔......走向她。
-[name="阿米娅"]然后......
+[name="阿米娅"]我们会登上巴别塔……走向她。
+[name="阿米娅"]然后……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -341,13 +341,13 @@ W转过头去，略带思索地看向前方。
 [name="阿米娅"]嗯？
 [charslot(slot="m",name="avg_1035_wisdel_1#12$2",focus="m")]
 [name="W"]我清醒得很。
-[name="W"]都走到这里了......我不可能搞不清楚自己想要什么。
+[name="W"]都走到这里了……我不可能搞不清楚自己想要什么。
 [charslot(slot="m",name="avg_1035_wisdel_1#13$2",focus="m")]
 [name="W"]那么多活人还在外头拼命呢，再不快点的话，我们马上就该在这里见到更多眼熟的英雄坯子了。
 [name="W"]老女人，让你的小怪物也出来干点活！
 [name="W"]过去的路不会很好走。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[name="凯尔希"]我......做不到。Mon3tr无法出现在这里，我也不希望引起一些不必要的注意。
+[name="凯尔希"]我……做不到。Mon3tr无法出现在这里，我也不希望引起一些不必要的注意。
 [charslot(slot="m",name="avg_1035_wisdel_1#6$2",focus="m")]
 [name="W"]——？！
 [name="W"]啧，又是些你不能说的理由吗？
@@ -356,7 +356,7 @@ W转过头去，略带思索地看向前方。
 [name="凯尔希"]我需要你让这艘舰船动起来。
 [Dialog]
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="n")]
-[Decision(options="我并没有真正掌过舵。;这里是甲板不是舰桥......", values="1;2")]
+[Decision(options="我并没有真正掌过舵。;这里是甲板不是舰桥……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]你并不需要。
@@ -372,7 +372,7 @@ W转过头去，略带思索地看向前方。
 [name="凯尔希"]坦诚地说，我对你是否应该找回这些知识，也仍有疑虑。
 [Dialog]
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="n")]
-[Decision(options="因为我曾经做过的事......",values="1")]
+[Decision(options="因为我曾经做过的事……",values="1")]
 [Predicate(references="1")]
 [Decision(options="我现在理解了。;你说过，你恨我。", values="1;2")]
 [Predicate(references="1;2")]
@@ -380,13 +380,13 @@ W转过头去，略带思索地看向前方。
 [name="凯尔希"]恨，痛苦，愤怒，我全都无法否认。
 [name="凯尔希"]在那一个时刻，我失去的并不只有特蕾西娅。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]还有......另一个我曾希望能够信任的人。
+[name="凯尔希"]还有……另一个我曾希望能够信任的人。
 [Dialog]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="n")]
-[Decision(options="......是我。;你感到失望。", values="1;2")]
+[Decision(options="……是我。;你感到失望。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#2$1",focus="m")]
-[name="凯尔希"]我很失望......对我自己。
+[name="凯尔希"]我很失望……对我自己。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]我并未完全察觉到你的“改变”。或者说，我所做的准备不足以扭转当时的结果。
 [name="凯尔希"]我们曾窥见过实现理想的曙光，而特蕾西娅仓促的离去熄灭了炬火。
@@ -396,9 +396,9 @@ W转过头去，略带思索地看向前方。
 [Decision(options="或许你的确不该再信任我。",values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="m")]
-[name="凯尔希"]......不。我理应信任你。
-[name="凯尔希"]我的确担心让你重拾与源石相关的回忆......会再度带来不可预料的改变。
-[name="凯尔希"]但你已一次又一次地向我，向阿米娅，向所有人证明......我担心的事并不会成真。
+[name="凯尔希"]……不。我理应信任你。
+[name="凯尔希"]我的确担心让你重拾与源石相关的回忆……会再度带来不可预料的改变。
+[name="凯尔希"]但你已一次又一次地向我，向阿米娅，向所有人证明……我担心的事并不会成真。
 [name="凯尔希"]我唯一能确定的是，我们是同行者。从切尔诺伯格到伦蒂尼姆，你的经历，你的情感，塑造了如今的你。
 [name="凯尔希"]就像此时此刻——
 [stopmusic(fadetime=3)]
@@ -410,7 +410,7 @@ W转过头去，略带思索地看向前方。
 [name="凯尔希"]我们的未来是何走向，罗德岛会驶向何方——将由你的意志决定。
 [Dialog]
 [charslot]
-[Decision(options="好。;......;我一直知道。",values="1;2;3")]
+[Decision(options="好。;……;我一直知道。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [playmusic(intro="$industv2_intro", key="$industv2_loop", volume=0.6)]
 [Decision(options="罗德岛——",values="1")]
@@ -446,7 +446,7 @@ W转过头去，略带思索地看向前方。
 [name="W"]这海怎么突然发起疯来？
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="m")]
 [name="凯尔希"]众魂正在影响周遭环境。
-[name="凯尔希"]内化宇宙......不再稳定。
+[name="凯尔希"]内化宇宙……不再稳定。
 [Dialog]
 [charslot]
 [Decision(options="罗德岛很难再往前了。;这些已故的萨卡兹正阻碍我们。", values="1;2")]
@@ -506,7 +506,7 @@ W的身影瞬间消失在惊涛骇浪之中。
 [charslot(duration=1)]
 [delay(time=2.5)]
 你们飞快地攀上垂落的塔底结构。
-出乎意料，那白色物体触感柔韧，仿佛......某种织物。
+出乎意料，那白色物体触感柔韧，仿佛……某种织物。
 [Dialog]
 [Decision(options="阿米娅——",values="1")]
 [Predicate(references="1")]
@@ -515,13 +515,13 @@ W的身影瞬间消失在惊涛骇浪之中。
 阿米娅轻轻地触碰那“根须”。
 刹那之间，无数双手自海里，自塔上，自虚空伸向她。
 [charslot(slot="m",name="avg_1037_amiya3_1#10$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="闭上眼睛吧，阿米娅。", x=300,y=300, alignment="center", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n闭上眼睛......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n闭上眼睛……",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="魔王鞭策他们，魔王驱使他们，魔王奴役他们。", x=300,y=300, alignment="center", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n魔王统御我们，魔王引领我们，魔王鼓舞我们。",block = true)]
@@ -532,7 +532,7 @@ W的身影瞬间消失在惊涛骇浪之中。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1037_amiya3_1#10$1",focus="m")]
-[name="阿米娅"]众魂......
+[name="阿米娅"]众魂……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_watermagic_2",volume=1)]
@@ -552,12 +552,12 @@ W的身影瞬间消失在惊涛骇浪之中。
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]去见特蕾西娅殿下。得到答案，跨越答案。
 [charslot(slot="m",name="avg_1037_amiya3_1#5$1",focus="m")]
-[name="阿米娅"]Logos先生......？
+[name="阿米娅"]Logos先生……？
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]我对殿下，亦有思念。
 [name="Logos"]但我们早已在多年前完成告别。
 [name="Logos"]当时巴别塔尚未隐没于大地，最初的同僚们下定决心，将以生命践行理想。殿下与我，皆不例外。
-[name="Logos"]而众魂的声音......我会回应。
+[name="Logos"]而众魂的声音……我会回应。
 [name="Logos"]自我第一次唱响挽歌，我便在等待此刻。
 [Dialog]
 [stopmusic(fadetime=2)]

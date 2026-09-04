@@ -27,10 +27,10 @@
 [Sticker(id="st2", duration=1)]
 [Delay(time=1)]
 [Sticker(id="st2", text="\n我现在在为罗德岛工作，你可能听过这个名字，他们是一家很好很好的医药公司，那里现在就是我的家，是我最重要的地方。", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
-[Sticker(id="st2", text="\n我只是有一个以前明明觉得很简单，现在却越来越不明白了的问题......", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
+[Sticker(id="st2", text="\n我只是有一个以前明明觉得很简单，现在却越来越不明白了的问题……", multi = true, x=200,y=260, alignment="left", size=24, delay=0.04, width=900,block = true)]
 [Sticker(id="st2", duration=1)]
 [Delay(time=1)]
-[Sticker(id="st3", text="\n对罗德岛而言，对这片大地而言，对信使安洁莉娜而言......", x=200,y=260, alignment="left", size=26, multi = true, delay=0.04, width=900,block=true)]
+[Sticker(id="st3", text="\n对罗德岛而言，对这片大地而言，对信使安洁莉娜而言……", x=200,y=260, alignment="left", size=26, multi = true, delay=0.04, width=900,block=true)]
 [Sticker(id="st3", text="\n我的位置究竟在哪里？", x=200,y=260, alignment="left", size=26, multi = true, delay=0.04, width=900,block=true)]
 [Sticker(id="st3", duration=1)]
 [Dialog]
@@ -66,7 +66,7 @@
 [StopSound(channel="m", fadetime=1)]
 [Delay(time=1.5)]
 [playMusic(intro="$farce_intro", key="$farce_loop", volume=0.6)]
-[name="？？？"]呼......呼......这车轮可陷得够深的啊......
+[name="？？？"]呼……呼……这车轮可陷得够深的啊……
 [name="？？？"]我要不还是下来帮您吧？
 [name="？？？"]不用不用，需要有个人控制方向盘，而且小姑娘你的源石技艺也能让越野车变得轻一点儿。
 [name="？？？"]可别小看下矿五年的老矿工！喝——！
@@ -107,10 +107,10 @@
 [name="好心的路人"]哈哈！还真让我想起了上个月矿井起火，逃生通道又被矿车卡住的时候。
 [name="好心的路人"]要是当时不拼命，我现在可就帮不了你，也没办法回家见刚出生的孩子啦。
 [charslot(slot = "m",focus="n")]
-[name="？？？"]呃......我遇到的问题跟您遇到的比起来，可小太多了......
+[name="？？？"]呃……我遇到的问题跟您遇到的比起来，可小太多了……
 [charslot(slot = "m",focus="m")]
 [name="好心的路人"]欸，话不能这么说。
-[name="好心的路人"]姑娘，你是要去大涌泉镇是不？那你就是我们的客人！你的困难就是我的困难，安......呃......你叫什么来着？
+[name="好心的路人"]姑娘，你是要去大涌泉镇是不？那你就是我们的客人！你的困难就是我的困难，安……呃……你叫什么来着？
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -150,23 +150,23 @@
 [charslot(slot = "l", focus="l")]
 [name="工程部干员"]近半年跑过雷姆必拓的信使我都问过了，没人拿到过那个包裹。
 [charslot(slot = "r", name = "avg_291_aglina_1#9$1",focus="r")]
-[name="安洁莉娜"]那......包裹是在分拣送寄的时候搞丢的？是我出了问题，所以才......
-[name="安洁莉娜"]......
+[name="安洁莉娜"]那……包裹是在分拣送寄的时候搞丢的？是我出了问题，所以才……
+[name="安洁莉娜"]……
 [charslot(slot = "l", focus="l")]
 [name="工程部干员"]哎呀，总部与泰拉各地的信件往来太多，货物流通量也大，搞错是难免的——使用预案就是准备预案的价值所在嘛！
 [charslot(slot = "r", name = "avg_291_aglina_1#8$1",focus="r")]
 [name="安洁莉娜"]预案？
 [charslot(slot = "l", focus="l")]
 [name="工程部干员"]就是让可露希尔做个一模一样的解密器啦。原来那个也不用担心，就是个解密插件，寄错了也不会有泄密风险。
-[name="工程部干员"]要不是你正好听到我在处理这件事，我都不会特地告诉你的啦......
+[name="工程部干员"]要不是你正好听到我在处理这件事，我都不会特地告诉你的啦……
 [charslot(slot = "r", name = "avg_291_aglina_1#2$1",focus="r")]
-[name="安洁莉娜"]那......这个解密器也要送到大涌泉镇，对吗？
+[name="安洁莉娜"]那……这个解密器也要送到大涌泉镇，对吗？
 [charslot(slot = "l", focus="l")]
 [name="工程部干员"]这倒是肯定的——
 [charslot(slot = "r", name = "avg_291_aglina_1#2$1",focus="r")]
 [name="安洁莉娜"]让我去送吧。
 [charslot(slot = "l", focus="l")]
-[name="工程部干员"]你最近不是刚跑了一趟哥伦比亚吗？而且外勤部的同事说你这一阵子一有空就泡在训练室里......
+[name="工程部干员"]你最近不是刚跑了一趟哥伦比亚吗？而且外勤部的同事说你这一阵子一有空就泡在训练室里……
 [name="工程部干员"]这真的只是个小问题，不用那么放在心上的。
 [charslot(slot = "r", name = "avg_291_aglina_1#1$1",focus="r")]
 [name="安洁莉娜"]可能的确有点小题大做，不过，为了不让问题发生第二次，亲手将包裹送到目的地，这也是信使的责任嘛。
@@ -180,9 +180,9 @@
 [charslot(slot = "r", name = "avg_291_aglina_1#2$1",focus="r")]
 [name="安洁莉娜"]太好了。
 [charslot(slot = "r", name = "avg_291_aglina_1#1$1",focus="r")]
-[name="安洁莉娜"]让我想想，这趟需要雷姆必拓的地图、活性源石粉尘防护装备......
+[name="安洁莉娜"]让我想想，这趟需要雷姆必拓的地图、活性源石粉尘防护装备……
 [charslot(slot = "r", name = "avg_291_aglina_1#1$1",focus="r")]
-[name="安洁莉娜"]还有还有！我听说雷姆必拓有适合全地形的运载车，这样一来，我自己的车是不是也要......
+[name="安洁莉娜"]还有还有！我听说雷姆必拓有适合全地形的运载车，这样一来，我自己的车是不是也要……
 [charslot(slot = "l", focus="l")]
 [name="工程部干员"]包在我身上！
 [stopmusic(fadetime=2)]
@@ -198,7 +198,7 @@
 [charslot(slot = "m", name = "avg_1015_aglna2_1#1$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]我这次来大涌泉镇是为了找罗德岛办事处负责数据分析的皮塔，您认识她吗？
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
-[name="好心的路人"]啊~安心院安洁莉娜......原来是安心院安洁莉娜！
+[name="好心的路人"]啊~安心院安洁莉娜……原来是安心院安洁莉娜！
 [charslot(slot = "m", name = "avg_1015_aglna2_1#2$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]皮塔小姐提起过我？
 [charslot(slot = "m", name = "avg_1015_aglna2_1#9$2",posfrom="50,0",posto="50,0")]
@@ -209,17 +209,17 @@
 [charslot(slot = "m", name = "avg_1015_aglna2_1#22$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]欸欸？
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
-[name="好心的路人"]对啊！安心院安洁莉娜......可爱，特别，跳出了常规的起名范式！
+[name="好心的路人"]对啊！安心院安洁莉娜……可爱，特别，跳出了常规的起名范式！
 [Dialog]
 [charslot(slot = "M", action="jump", posto="50,0", power=20, times=1, duration=0.5)]
 [delay(time=1)]
 [name="好心的路人"]今天能在零号公路上遇到你真是我天大的运气，你一定要给我们家刚出生的小提摩西起名！
 [charslot(slot = "m", name = "avg_1015_aglna2_1#15$2",posfrom="50,0",posto="50,0")]
-[name="安洁莉娜"]我以为......您家的小提摩西......就叫小提摩西？
+[name="安洁莉娜"]我以为……您家的小提摩西……就叫小提摩西？
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
 [name="好心的路人"]那只是个昵称罢了，起正式名在我们镇可是很重要的事！
 [name="好心的路人"]就拿我自己说吧，我叫巴尼特，上学的时候，班上除了我还有四个巴尼特。
-[name="巴尼特"]除此之外，还有两个巴尼蒂娜、三个巴尼提奥、三个巴尼松、一个巴尼二世、一个巴尼三世......还有十一个巴尼！
+[name="巴尼特"]除此之外，还有两个巴尼蒂娜、三个巴尼提奥、三个巴尼松、一个巴尼二世、一个巴尼三世……还有十一个巴尼！
 [charslot(slot = "m", name = "avg_1015_aglna2_1#11$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]为、为什么？
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
@@ -231,9 +231,9 @@
 [PlaySound(key="$d_avg_flipphone_close")]
 [name="巴尼特"]（关上终端）
 [charslot(slot = "m", name = "avg_1015_aglna2_1#1$2",posfrom="50,0",posto="50,0")]
-[name="安洁莉娜"]巴尼特先生发信息的速度......好快？
+[name="安洁莉娜"]巴尼特先生发信息的速度……好快？
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
-[name="巴尼特"]不是，是我一高兴就忘了，大断连之后只剩下原先的城际网络可以用了......
+[name="巴尼特"]不是，是我一高兴就忘了，大断连之后只剩下原先的城际网络可以用了……
 [charslot(slot = "m", name = "avg_1015_aglna2_1#2$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]大断连？
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
@@ -241,17 +241,17 @@
 [charslot(slot = "m", name = "avg_1015_aglna2_1#1$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]当然可以了，我还没有答谢您帮忙推车呢！不过您刚刚说的大断连是指——
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
-[name="巴尼特"]不是什么大事。话说回来，你这车真不赖，比运载车小巧却还能在这受过灾的公路上跑......这是适应全地形的改装车吧？
+[name="巴尼特"]不是什么大事。话说回来，你这车真不赖，比运载车小巧却还能在这受过灾的公路上跑……这是适应全地形的改装车吧？
 [charslot(slot = "m", name = "avg_1015_aglna2_1#1$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]是的。这次上路前，我在罗德岛工程部的朋友特地帮我改造了我平时开的越野车！
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
-[name="巴尼特"]安洁莉娜，我知道提这个要求可能有点过分。但我开了很多年车了，还熟悉去大涌泉镇的路，你......呃......你能不能......
+[name="巴尼特"]安洁莉娜，我知道提这个要求可能有点过分。但我开了很多年车了，还熟悉去大涌泉镇的路，你……呃……你能不能……
 [charslot(slot = "m", name = "avg_1015_aglna2_1#3$2",posfrom="50,0",posto="50,0")]
 [multiline(name="安洁莉娜")]让我猜猜——
 [charslot(slot = "m", name = "avg_1015_aglna2_1#21$2",posfrom="50,0",posto="50,0")]
 [multiline(name="安洁莉娜")]您是想说，让我把越野车借您开一段？
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
-[name="巴尼特"]嘿嘿......雷姆必拓的运载车虽然安全，但可没办法像你的车这样把顶棚敞开。在行驶的路上感受四面环绕的风......太浪漫了！
+[name="巴尼特"]嘿嘿……雷姆必拓的运载车虽然安全，但可没办法像你的车这样把顶棚敞开。在行驶的路上感受四面环绕的风……太浪漫了！
 [charslot(slot = "m", name = "avg_1015_aglna2_1#1$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]噗，您不用再解释了，没问题的。
 [charslot(slot = "m", name = "avg_npc_2355_1#1$1",posfrom="0,0",posto="0,0")]
@@ -335,11 +335,11 @@
 [name="巴尼特"]对啊。大涌泉镇是零号公路最北端的起点，而它的终点在几乎无人涉足的南境。
 [name="巴尼特"]也不知道当时为什么要把路修到那么偏僻的地方去。
 [charslot(slot = "r", name = "avg_1015_aglna2_1#2$2",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
-[name="安洁莉娜"]南境......罗德岛建立的源石浓度数据采集站就在那里......
+[name="安洁莉娜"]南境……罗德岛建立的源石浓度数据采集站就在那里……
 [charslot(slot = "l", focus="l")]
 [name="巴尼特"]在南境建东西？哟，那看来你们公司还挺厉害的。上一个在雷姆必拓各地建东西的还是纵贯红土公司。
 [charslot(slot = "r", name = "avg_1015_aglna2_1#1$2",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
-[name="安洁莉娜"]纵贯红土公司......我好像知道，他们就是雷姆必拓远程通讯技术的运营商？
+[name="安洁莉娜"]纵贯红土公司……我好像知道，他们就是雷姆必拓远程通讯技术的运营商？
 [charslot(slot = "l", focus="l")]
 [name="巴尼特"]是啊，去年夏天的时候他们到处建通讯塔，大涌泉镇里也有一座。
 [name="巴尼特"]一开始我们都不知道建那么高的通讯塔有什么用——其实到现在还有一些上了年纪的，或者不怎么出门的人不知道远程通讯的好处。
@@ -351,9 +351,9 @@
 [charslot(slot = "r", name = "avg_1015_aglna2_1#23$2",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
 [name="安洁莉娜"]对！您认识一个叫皮塔的人吗？她是罗德岛办事处的数据分析员。
 [charslot(slot = "l", focus="l")]
-[name="巴尼特"]唔......不认识。
+[name="巴尼特"]唔……不认识。
 [charslot(slot = "r", name = "avg_1015_aglna2_1#15$2",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
-[name="安洁莉娜"]好吧......谢谢您。
+[name="安洁莉娜"]好吧……谢谢您。
 [charslot(slot = "l", focus="l")]
 [name="巴尼特"]不过我能帮你准备一些冰镇胡萝卜汁。
 [charslot(slot = "r", name = "avg_1015_aglna2_1#1$2",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
@@ -361,9 +361,9 @@
 [charslot(slot = "l", focus="l")]
 [name="巴尼特"]不不不，我的意思是，镇上叫皮塔的没有一百也有五十，你一定会累得嗓子冒烟的。
 [charslot(slot = "r", name = "avg_1015_aglna2_1#7$2",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
-[name="安洁莉娜"]哈......
+[name="安洁莉娜"]哈……
 [charslot(slot = "l", focus="l")]
-[name="巴尼特"]不过我说不定可以找我的小侄女帮忙？她可是大涌泉镇里的金牌接线员......
+[name="巴尼特"]不过我说不定可以找我的小侄女帮忙？她可是大涌泉镇里的金牌接线员……
 [name="巴尼特"]先不提那些了——我们快要到了！安洁莉娜，你往远处看！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -383,13 +383,13 @@
 背靠高耸的红色山岩，一座洁白恬静的小镇出现在他们的眼前。
 摇晃的花朵和结满浆果的树丛填满了建筑与建筑之间的缝隙，热情地迎接每一个远道而来的家人和客人。
 红色的水车悠闲地转着，把晶莹剔透的蓝色湖水源源不断地运进身后的小镇，蒸腾的热气萦绕在两人的周围。
-[name="安洁莉娜"]这片湖是......温泉？
+[name="安洁莉娜"]这片湖是……温泉？
 [name="巴尼特"]哈哈哈哈，不然这里为什么要叫大涌泉镇呢？
 [name="巴尼特"]我们这没有什么矿产，但就是温泉多。无论春夏秋冬，跳下去就能洗个舒舒服服的热水澡。
 [StopSound(channel="w", fadetime=5)]
 [name="巴尼特"]也是借了温泉的风头，我们镇成了知名的疗养地，周围也开设了不少度假中心。
 [name="巴尼特"]要不是因为我家的孩子实在太多，光靠在镇上的收入负担不起，必须去矿场工作维生，我真想一辈子待在这个地方。
-[name="安洁莉娜"]是啊，它看上去是最完美的，家的样子......
+[name="安洁莉娜"]是啊，它看上去是最完美的，家的样子……
 [stopmusic(fadetime=2)]
 [name="巴尼特"]不过，它还是有一个缺点的。
 [Dialog]
@@ -409,9 +409,9 @@
 [ImageTween(xScaleTo=1,yScaleTo=1,xTo=0,yTo=0, duration=8,block=false)]
 一路秉持着安全驾驶规则的越野车，在雷姆必拓人的手下飞驰起来。
 风和速度不会过问车厢中的信件是不是想要检查一下自己的“安全带”是否牢固。
-它们慌乱地在空中飞舞着，阳光下，信封上的一个个名字都闪闪发亮......
+它们慌乱地在空中飞舞着，阳光下，信封上的一个个名字都闪闪发亮……
 难道还没有说出自己的“心意”，它们就会消失在这片荒野之中？
-所幸，它们可靠的信使恰巧能够追回一切......
+所幸，它们可靠的信使恰巧能够追回一切……
 [name="安洁莉娜"]等等——！
 [Dialog]
 [PlaySound(key="$d_avg_magic_5",volume=1)]
@@ -462,32 +462,32 @@
 [charslot(slot = "m",focus="n")]
 [name="梅拉"]不行，不行，那也太晚了！万一这次我或者罗克想不通，我们一气之下离婚，那可怎么办啊！
 [charslot(slot = "m", name = "avg_4235_thumpy_1#5$1",focus="m")]
-[name="塔妮"]......不可能的。
+[name="塔妮"]……不可能的。
 [charslot(slot = "m",focus="n")]
 [name="梅拉"]塔妮，再怎么样，我也是你小姨的亲哥哥的表姐啊，罗克也是你小姨的亲哥哥的表姐夫啊！
-[name="梅拉"]唉，现在想想，我们为什么要为点多少根蜡烛吵架呢？罗克说得也有道理，他奶奶过生日都没有点过这么多蜡烛......
-[name="梅拉"]可我就是想着，就算是十周年纪念日，我也想我们互相陪伴更久，二十年，三十年，一百年......
-[name="电话里男人的声音"]亲爱的......原来你是这么想的？
+[name="梅拉"]唉，现在想想，我们为什么要为点多少根蜡烛吵架呢？罗克说得也有道理，他奶奶过生日都没有点过这么多蜡烛……
+[name="梅拉"]可我就是想着，就算是十周年纪念日，我也想我们互相陪伴更久，二十年，三十年，一百年……
+[name="电话里男人的声音"]亲爱的……原来你是这么想的？
 [name="梅拉"]罗克？！塔妮，你、你是什么时候转接的线？
 [charslot(slot = "m", name = "avg_4235_thumpy_1#2$1",focus="m")]
 [name="塔妮"]（叹气）别问了，反正这样最能解决问题。
 [charslot(slot = "m",focus="n")]
 [name="罗克"]梅拉，不管怎样，我最亲爱的，你的想法我全都了解了。咱们就按你说的办，不点十根蜡烛，就点一百根！
-[name="梅拉"]好......
-[name="梅拉"]亲爱的，你辛苦了，你先挂电话吧......
-[name="罗克"]不，上次电话是我冲动挂掉的，这次你来吧......
+[name="梅拉"]好……
+[name="梅拉"]亲爱的，你辛苦了，你先挂电话吧……
+[name="罗克"]不，上次电话是我冲动挂掉的，这次你来吧……
 [charslot(slot = "m", name = "avg_4235_thumpy_1#12$1",focus="m")]
 [name="塔妮"]你们究竟有没有听我说话——
 [charslot(slot = "m",focus="n")]
-[name="梅拉"]不，你先挂......
-[name="罗克"]没事，你先......
+[name="梅拉"]不，你先挂……
+[name="罗克"]没事，你先……
 [charslot(slot = "m", name = "avg_4235_thumpy_1#12$1",focus="m")]
 [name="塔妮"]谢谢你们的来电，祝你们生活愉快！
 [Dialog]
 [PlaySound(key="$d_avg_telephone",volume=1)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#14$1",focus="m")]
-[name="塔妮"]唉，这样的日子什么时候才是个头啊......
+[name="塔妮"]唉，这样的日子什么时候才是个头啊……
 [stopmusic(fadetime=2)]
 [Dialog]
 [charslot]
@@ -512,25 +512,25 @@
 [interlude(channel = 3, switch = false)]
 [playMusic(key="$comedy_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#4$1",focus="m")]
-[name="塔妮"]......挺好的。 
+[name="塔妮"]……挺好的。 
 [charslot(slot = "m", focus="n")]
 [interlude(channel = 3, switch = true)]
 [name="巴尼特"]叔叔给你讲个有趣的事！
-[name="巴尼特"]这次在矿场我跟伙计们学了不少健身方法。我想着你的表妹出生了，我得陪她久一点，所以就从矿场徒步回家......
+[name="巴尼特"]这次在矿场我跟伙计们学了不少健身方法。我想着你的表妹出生了，我得陪她久一点，所以就从矿场徒步回家……
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#11$1",focus="m")]
 [name="塔妮"]巴尼特叔叔，这里是接线室。
 [charslot(slot = "m", focus="n")]
 [interlude(channel = 3, switch = true)]
 [name="巴尼特"]唉，你瞧我。不过我马上就讲到正事了，马上马上。
-[name="巴尼特"]反正就是，我在镇外遇上了一个陷车了的信使，名字很有趣的，是叫......呃......欸？你自己来？好好，没问题——
+[name="巴尼特"]反正就是，我在镇外遇上了一个陷车了的信使，名字很有趣的，是叫……呃……欸？你自己来？好好，没问题——
 [name="巴尼特"]时候确实也不早了，我也该回家了。有空记得帮我想想我家小提叫什么啊，拜托了！
 [Dialog]
 [interlude(channel = 3,type = 3, slot = "m", pfrom = "-220,0", pto="-600,0", duration=1)]
 [delay(time=1)]
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#5$1",focus="m")]
-[name="塔妮"]......
+[name="塔妮"]……
 [name="塔妮"]喂？还有人吗？
 [Dialog]
 [charslot(slot = "m", focus="n")]
@@ -557,7 +557,7 @@
 [name="塔妮"]大涌泉镇里全都是号称能缓解矿石病的疗养院和医疗机构。有什么别的信息吗？那个皮塔长什么样？住在哪个区域？
 [charslot(slot = "m", focus="n")]
 [interlude(channel = 3,type = 3, slot = "m",name = "avg_1015_aglna2_1#15$2",switch = true,pfrom = "-200,0", pto="-200,0", duration=0)]
-[name="安洁莉娜"]呃......我不太清楚......
+[name="安洁莉娜"]呃……我不太清楚……
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#5$1",focus="m")]
 [name="塔妮"]唉。
@@ -568,7 +568,7 @@
 [name="安洁莉娜"]塔妮小姐，我从巴尼特先生那里听说，最近好像有“大断连”这么一回事——
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#1$1",focus="m")]
-[name="塔妮"]......找到罗德岛的皮塔了。我帮你接过去。
+[name="塔妮"]……找到罗德岛的皮塔了。我帮你接过去。
 [interlude(channel = 3,type = 3, slot = "m",name = "avg_1015_aglna2_1#21$2", switch = true,pfrom = "-200,0", pto="-200,0", duration=0)]
 [name="安洁莉娜"]多谢你，塔妮小姐！
 [interlude(channel = 3, switch = false)]
@@ -580,19 +580,19 @@
 [delay(time=1)]
 [charslot(slot = "m",name = "avg_4235_thumpy_1#18$1",posfrom = "200,0",posto = "0,0",afrom=1,ato=1,duration=1)]
 [delay(time=1)]
-[name="塔妮"]呼......
+[name="塔妮"]呼……
 [charslot(slot = "m",name = "avg_4235_thumpy_1#11$1")]
-[name="塔妮"]......呃，我怎么又开始跺脚了。上次刚因为跺脚惹妈妈生气来着。
+[name="塔妮"]……呃，我怎么又开始跺脚了。上次刚因为跺脚惹妈妈生气来着。
 [charslot(slot = "m",name = "avg_4235_thumpy_1#6$1")]
 [name="塔妮"]但是都不要紧，过了今天我就十八岁了，可以跟交换机和接线室说再见了——
 [charslot(slot = "m",name = "avg_4235_thumpy_1#13$1")]
 [name="塔妮"]嗯？那个安洁莉娜不是说要接罗德岛的皮塔吗？插头明明插在“罗德岛的皮塔”这里，亮的怎么是“路障哥皮塔”？
-[name="塔妮"]怪了，让我听听......
+[name="塔妮"]怪了，让我听听……
 [charslot(slot = "m",focus="n")]
 [PlaySound(key="$transmission",volume=1)]
 [interlude(maskid = "group_interclude_square_common",char= "安洁莉娜", switch = true, style = 1,offset = "450,125", channel = 4)]
 [interlude(channel = 4, type = 3, slot = "m", switch = true, pfrom = "500,0", pto="500,-20",name="avg_1015_aglna2_1#1$2",duration = 0)]
-[name="安洁莉娜"]......对的，除了解密器，还有一批药物——
+[name="安洁莉娜"]……对的，除了解密器，还有一批药物——
 [dialog]
 [interlude(maskid = "group_interclude_square_common",char = "流里流气的男声", switch = true, style = 1,offset = "-450,125", channel = 3)]
 [interlude(channel = 3, type = 3, slot = "m", switch = true,duration = 0)]
@@ -601,12 +601,12 @@
 [interlude(channel = 4, type = 3, slot = "m", switch = true, pfrom = "500,-20", pto="500,-20",name="avg_1015_aglna2_1#15$2",duration = 0)]
 [interlude(channel = 3, switch = false)]
 [interlude(channel = 4, switch = true)]
-[name="安洁莉娜"]呃......好的？
+[name="安洁莉娜"]呃……好的？
 [dialog]
 [interlude(maskid = "group_interclude_square_common",char = "怪腔怪调的女声", switch = true, style = 1,offset = "-450,125", channel = 3)]
 [interlude(channel = 3, type = 3, slot = "m", switch = true,duration = 0)]
 [interlude(channel = 4, switch = false)]
-[name="怪腔怪调的女声"]*富有个性的怪叫声*，终~于来了，来了来了来了，勒柄嘘混，我的勒柄嘘混......
+[name="怪腔怪调的女声"]*富有个性的怪叫声*，终~于来了，来了来了来了，勒柄嘘混，我的勒柄嘘混……
 [interlude(channel = 3, switch = false)]
 [interlude(channel = 4, switch = true)]
 [interlude(channel = 4, type = 3, slot = "m", switch = true, pfrom = "500,-20", pto="500,-20",name="avg_1015_aglna2_1#22$2",duration = 0)]

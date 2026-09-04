@@ -19,7 +19,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="愤怒的武人"]我们守玉门城的时候，你小子还没摸过刀呢！
 [charslot(slot = "middle", name = "avg_npc_796_1#1$1")]
-[name="巡防营守军"]......
+[name="巡防营守军"]……
 [name="巡防营守军"]非常时期，请大家以大局为重。
 [charslot(slot = "middle", name = "avg_npc_799_1#1$1")]
 [name="愤怒的武人"]大局为重？
@@ -43,25 +43,25 @@
 [charslot(slot = "middle", name = "avg_npc_789_1#5$1", duration = 1)]
 [Delay(time=2)]
 [charslot(slot = "middle", name = "avg_npc_799_1#1$1")]
-[name="愤怒的武人"]坊主......
+[name="愤怒的武人"]坊主……
 [charslot(slot = "middle", name = "avg_npc_789_1#5$1")]
 [name="孟铁衣"]大老远就听到你们在这嚷嚷，这些当兵的兄弟也是奉了上头的命令，何必为难他们。
 [charslot(slot = "middle", name = "avg_npc_799_1#1$1")]
-[name="愤怒的武人"]这口气，我们咽不下......
+[name="愤怒的武人"]这口气，我们咽不下……
 [charslot(slot = "middle", name = "avg_npc_789_1#6$1")]
 [name="孟铁衣"]你们都是城里的老人了。
 [name="孟铁衣"]参与过几次守城的战斗，顶着天灾护送过几次信使，这玉门城的安定，有你们一份辛苦。
 [charslot(slot = "middle", name = "avg_npc_789_1#5$1")]
 [name="孟铁衣"]但平祟侯还在，宗师也还在，哪里轮得到你们靠资历摆谱？！
 [charslot(slot = "middle", name = "avg_npc_799_1#1$1")]
-[name="失落的武人"]坊主，你难道心里......
+[name="失落的武人"]坊主，你难道心里……
 [charslot(slot = "middle", name = "avg_npc_789_1#10$1")]
 [name="孟铁衣"]好汉不提当年勇，那点事，不拿出来说，也有人记得。记不得的，说了也没用。
 [name="孟铁衣"]先回去，别闹事。有我在，死去的兄弟们少不了说法。
 [charslot(slot = "middle", name = "avg_npc_796_1#1$1")]
-[name="巡防营守军"]......
+[name="巡防营守军"]……
 [charslot(slot = "middle", name = "avg_npc_799_1#1$1")]
-[name="失落的武人"]......知道了。
+[name="失落的武人"]……知道了。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=0.7)]
 [charslot(slot = "m", afrom = 1, ato = 0,duration = 1)]
@@ -73,7 +73,7 @@
 [name="孟铁衣"]是我管教无方，给大家伙添麻烦了。
 [charslot(slot = "right", name = "avg_npc_796_1#1$1", focus="r")]
 [name="巡防营守军"]不怪孟前辈。
-[name="巡防营守军"]那四位武行的兄弟......孟前辈节哀。
+[name="巡防营守军"]那四位武行的兄弟……孟前辈节哀。
 [charslot(slot = "left", name = "avg_npc_789_1#6$1",focus="l")]
 [name="孟铁衣"]他们的家人，我会负责照顾，不劳平祟侯费心。
 [charslot(slot = "left", name = "avg_npc_789_1#10$1",focus="l")]
@@ -81,7 +81,7 @@
 [charslot(slot = "right", name = "avg_npc_796_1#1$1", focus="r")]
 [name="巡防营守军"]事分轻重缓急，等捉拿了城中刺客，平祟侯一定会出兵清剿流寇。
 [charslot(slot = "left", name = "avg_npc_789_1#10$1",focus="l")]
-[name="孟铁衣"]好......“轻重缓急”，言之有理。
+[name="孟铁衣"]好……“轻重缓急”，言之有理。
 [charslot(slot = "left", name = "avg_npc_789_1#10$1",focus="l")]
 [name="孟铁衣"]我只是要平祟侯的一句话，不管这句话是什么，我都带去回复弟兄们。
 [charslot(slot = "left", name = "avg_npc_789_1#1$1",focus="l")]
@@ -106,16 +106,16 @@
 [charslot(slot = "left", name = "avg_243_waaifu_1#1$1",focus="n")]
 [charslot(slot = "right", name = "avg_npc_296_1#1$1",focus="r")]
 [name="杜遥夜"]其实四个人中，有两人都是独自生活。
-[name="杜遥夜"]至于另外两人，家属恰好都不在家，我们冒昧闯了进去......
+[name="杜遥夜"]至于另外两人，家属恰好都不在家，我们冒昧闯了进去……
 [charslot(slot = "left", name = "avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]有些奇怪，他们的家中一如往常......
+[name="槐琥"]有些奇怪，他们的家中一如往常……
 [charslot(slot = "right", name = "avg_npc_296_1#9$1",focus="r")]
-[name="杜遥夜"]也可能是家属正好外出不在......？
+[name="杜遥夜"]也可能是家属正好外出不在……？
 [charslot]
 [charslot(slot = "middle", name = "avg_4080_lin_1#6$1")]
 [name="林雨霞"]昨日信使队伍遇难的消息传回，已经过去了整整一天。
 [charslot(slot = "middle", name = "avg_4080_lin_1#9$1")]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot]
@@ -171,14 +171,14 @@
 [charslot]
 [charslot(slot = "left", name = "avg_243_waaifu_1#2$1",focus="l")]
 [charslot(slot = "right", name = "avg_npc_296_1#1$1",focus="n")]
-[name="槐琥"]是这个人......？
+[name="槐琥"]是这个人……？
 [charslot]
 [charslot(slot = "middle", name = "avg_4080_lin_1#1$1")]
 [name="林雨霞"]我和这人说几句话，你们等我一会儿。
 [charslot]
 [charslot(slot = "right", name = "avg_npc_296_1#7$1",focus="r")]
 [charslot(slot = "left", name = "avg_243_waaifu_1#1$1",focus="n")]
-[name="杜遥夜"]......好。
+[name="杜遥夜"]……好。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -218,13 +218,13 @@
 [charslot(slot = "m", afrom = 1, ato = 0,duration = 1)]
 [Delay(time=2)]
 [charslot(slot = "middle", name = "avg_4080_lin_1#9$1")]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [Dialog]
 [charslot]
 [charslot(slot = "middle", name = "avg_npc_296_1#1$1",duration =0.5)]
 [Delay(time=1)]
 [charslot(slot = "middle", name = "avg_npc_296_1#7$1")]
-[name="杜遥夜"]那个大块头，我在尚蜀见过......好像是肃政院的人。
+[name="杜遥夜"]那个大块头，我在尚蜀见过……好像是肃政院的人。
 [charslot(slot = "middle", name = "avg_npc_296_1#9$1")]
 [name="杜遥夜"]你到底还认识多少大官？
 [charslot(slot = "middle", name = "avg_4080_lin_1#1$1")]
@@ -267,7 +267,7 @@
 [PlaySound(key="$doorknockquite", volume=1)]
 [Delay(time=2)]
 [charslot(slot = "m",  name = "avg_npc_789_1#9$1",focus = "m")]
-[name="孟铁衣"]嗯......？
+[name="孟铁衣"]嗯……？
 [Dialog]
 [charslot(duration=0.3)]
 [PlaySound(key="$dooropenquite", volume=1)]
@@ -278,7 +278,7 @@
 [charslot(slot = "middle", name = "avg_npc_789_1#3$1")]
 [name="孟铁衣"]姑娘是不是找错了地方，这里是工坊，不是医馆。
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#8$1")]
-[name="异族装扮的少女"]我在找......一个故事里的地方......
+[name="异族装扮的少女"]我在找……一个故事里的地方……
 [charslot(slot = "middle", name = "avg_npc_789_1#9$1")]
 [name="孟铁衣"]一个伤得这么重的人，不该在城里乱跑。
 [name="孟铁衣"]虽然不愿意这么讲，但眼下城中戒严，一个身受刀伤的人突然出现在家门口。
@@ -287,16 +287,16 @@
 [charslot(slot = "middle", name = "avg_npc_789_1#9$1")]
 [name="孟铁衣"]我也不想多生事端，还是麻烦姑娘说明一下来历吧。
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#1$1")]
-[name="异族装扮的少女"]你......是不是叫孟铁衣？
+[name="异族装扮的少女"]你……是不是叫孟铁衣？
 [charslot(slot = "middle", name = "avg_npc_789_1#9$1")]
 [name="孟铁衣"]如今城里能直接叫出这个名字的年轻人，我总该有点印象。
 [name="孟铁衣"]可我却不认得你。
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#3$1")]
 [name="异族装扮的少女"]师父说过，在移动城市里，藏着一个工坊。工坊的主人，是一个本领高强的刀匠。
-[name="异族装扮的少女"]他会打造各种各样的武器和铠甲，也会做些有趣的小玩具送给城里的孩子......
+[name="异族装扮的少女"]他会打造各种各样的武器和铠甲，也会做些有趣的小玩具送给城里的孩子……
 [charslot(slot = "middle", name = "avg_npc_789_1#3$1")]
-[name="孟铁衣"]......
-[name="孟铁衣"]我一时都想不起来，还有谁会这么形容我这个老头子......
+[name="孟铁衣"]……
+[name="孟铁衣"]我一时都想不起来，还有谁会这么形容我这个老头子……
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#1$1")]
 [name="异族装扮的少女"]在工坊的院子里，种着一棵槐树。是你们一起从很远的地方移栽回来的。
 [Dialog]
@@ -315,11 +315,11 @@
 [Delay(time=2)]
 [name="朔"]到了这里，这一仗才算真正结束了。
 [charslot(slot = "m", focus = "none")]
-[name="左宣辽"]我们也有不少死伤......但至少二十年，这帮贼寇再难成什么气候。
+[name="左宣辽"]我们也有不少死伤……但至少二十年，这帮贼寇再难成什么气候。
 [charslot(slot = "middle", name = "avg_2024_chyue_1#10$1")]
 [name="朔"]听说古人远征大胜，会在最远处的山岩上刻录自己的战功。今天这一仗，也值得我们效仿古人遗风了。
 [charslot(slot = "m", focus = "none")]
-[name="左宣辽"]哈哈哈，倒是不错，但这附近都是沙漠，放眼过去也没什么能写字的地方......
+[name="左宣辽"]哈哈哈，倒是不错，但这附近都是沙漠，放眼过去也没什么能写字的地方……
 [charslot(slot = "middle", name = "avg_2024_chyue_1#11$1")]
 [name="朔"]只有这边孤零零的一棵树，那不如就——
 [charslot(slot = "m", focus = "none")]
@@ -335,13 +335,13 @@
 [name="朔"]（抚掌）
 [name="朔"]好，好。这主意不错。
 [charslot(slot = "m", focus = "none")]
-[name="孟铁衣"]你们是不是被太阳晒晕了头......此地离玉门城足足有一百里，你们是打算把这棵树扛回去？
+[name="孟铁衣"]你们是不是被太阳晒晕了头……此地离玉门城足足有一百里，你们是打算把这棵树扛回去？
 [charslot(slot = "middle", name = "avg_2024_chyue_1#10$1")]
 [name="朔"]这有何妨，来的时候那么多粮食和水都吃完了，回去的时候多带一棵树又怎么了？
 [name="朔"]左兄，铁衣兄弟，来搭把手。小心别挖断了树根。
 [Dialog]
 [charslot(slot = "m", afrom = 1, ato = 0,duration = 1)]
-......
+……
 [Dialog]
 [StopSound(channel="a", fadetime=1)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -350,9 +350,9 @@
 [CameraEffect(effect="Grayscale", fadetime=0, amount=0, block=true)]
 [charslot(slot = "middle", name = "avg_npc_789_1#3$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="孟铁衣"]......
+[name="孟铁衣"]……
 [charslot(slot = "middle", name = "avg_npc_789_1#10$1")]
-[name="孟铁衣"]你叫她师父......？
+[name="孟铁衣"]你叫她师父……？
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#1$1")]
 [name="异族装扮的少女"]师父在荒野上救了我和族人，教我们安家。
 [charslot(slot = "middle", name = "avg_npc_789_1#10$1")]
@@ -360,7 +360,7 @@
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#1$1")]
 [name="异族装扮的少女"]截云。
 [charslot(slot = "middle", name = "avg_npc_789_1#10$1")]
-[name="孟铁衣"]如果我没看错，你是阿纳萨......却有一个这么风雅的名字？
+[name="孟铁衣"]如果我没看错，你是阿纳萨……却有一个这么风雅的名字？
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#1$1")]
 [name="截云"]师父取的。
 [charslot(slot = "middle", name = "avg_npc_789_1#3$1")]
@@ -370,14 +370,14 @@
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#8$1")]
 [name="截云"]师父念得比你好，但她说的，也是这样的意思。
 [charslot(slot = "middle", name = "avg_npc_789_1#7$1")]
-[name="孟铁衣"]......哈哈，那是肯定的。
+[name="孟铁衣"]……哈哈，那是肯定的。
 [charslot(slot = "middle", name = "avg_npc_789_1#1$1")]
 [name="孟铁衣"]说起来，宗师的名字也是她取的。
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#7$1")]
 [name="截云"]那个薄情寡义的人！
 [charslot(slot = "middle", name = "avg_npc_789_1#9$1")]
-[name="孟铁衣"]这又是从何说起......
+[name="孟铁衣"]这又是从何说起……
 [charslot(slot = "middle", name = "avg_npc_789_1#3$1")]
 [name="孟铁衣"]等等，你身上这把剑。
 [charslot(slot = "middle", name = "avg_npc_789_1#9$1")]
@@ -407,11 +407,11 @@
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#2$1")]
 [name="截云"]嗯。师父的病很严重。
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#3$1")]
-[multiline(name="截云")]师父最后的心愿，就是再看一眼这把剑，我必须给她个交代......
+[multiline(name="截云")]师父最后的心愿，就是再看一眼这把剑，我必须给她个交代……
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#7$1")]
 [multiline(name="截云")]你也要抢吗？
 [charslot(slot = "middle", name = "avg_npc_789_1#6$1")]
-[name="孟铁衣"]......我当然不会。
+[name="孟铁衣"]……我当然不会。
 [Dialog]
 [playsound(key="$d_avg_wind")]
 [playsound(key="$d_avg_grass",delay=0.8)]
@@ -424,11 +424,11 @@
 [name="孟铁衣"]不，我是说，这座城接下来会很危险。
 [name="孟铁衣"]这座城接下来会迎接一个考验。但在那之前，我至少应该，把你送出去。
 [charslot(slot = "middle", name = "avg_npc_789_1#4$1")]
-[name="孟铁衣"]你的师父在等一个交代......我们这些人，都在等一个交代。
+[name="孟铁衣"]你的师父在等一个交代……我们这些人，都在等一个交代。
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#8$1")]
 [name="截云"]可是，要怎么出城？
 [charslot(slot = "middle", name = "avg_4078_bdhkgt_1#2$1")]
-[name="截云"]来的时候没有想过。城门也已经封了，硬闯的话......我受了伤。
+[name="截云"]来的时候没有想过。城门也已经封了，硬闯的话……我受了伤。
 [charslot]
 [playsound(key="$d_avg_wind")]
 [Effect(name="$e_sand",x = -500,y=-200,layer = 1)]
@@ -437,7 +437,7 @@
 沾着早春暮间的湿气，柔软。
 老人用手捻了捻。
 [charslot(slot = "middle", name = "avg_npc_789_1#6$1")]
-[name="孟铁衣"]......
+[name="孟铁衣"]……
 [charslot(slot = "middle", name = "avg_npc_789_1#10$1")]
 [name="孟铁衣"]我有办法。
 [Dialog]
@@ -460,7 +460,7 @@
 [charslot(slot = "m", name = "avg_npc_798_1#1$1")]
 [name="跑腿的路人"]医馆没有医生也没有伙计，只见到一个穿官服的公子哥，问我去干什么。
 [charslot(slot = "m", name = "avg_322_lmlee_1#10$1")]
-[name="老鲤"]那您怎么说......？
+[name="老鲤"]那您怎么说……？
 [charslot(slot = "m", name = "avg_npc_798_1#1$1")]
 [name="跑腿的路人"]就按你说的，“昨夜里商店货架倒了，家里人被砸破了脑袋，送来医馆的时候匆忙没带钱，现在把医药费补上”。
 [name="跑腿的路人"]那公子哥问完我这句话也就走了。不明白。
@@ -468,7 +468,7 @@
 [charslot(slot = "m", name = "avg_322_lmlee_1#10$1")]
 [name="老鲤"]您收下吧，一点辛苦费。
 [charslot(slot = "m", name = "avg_npc_798_1#1$1")]
-[name="跑腿的路人"]真奇怪，玉门的旅游季钱这么好赚了吗......
+[name="跑腿的路人"]真奇怪，玉门的旅游季钱这么好赚了吗……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=0.7)]
 [charslot(slot = "m", afrom = 1, ato = 0,posfrom = "0,0", posto = "200,0",duration = 1)]
@@ -479,9 +479,9 @@
 [charslot(slot = "m", name = "avg_npc_034#1")]
 [name="林"]知道鲤先生手眼通天，可现在竟然都忽悠到晚辈身上了？
 [charslot(slot = "m", name = "avg_322_lmlee_1#10$1")]
-[name="老鲤"]那位公子哪能算什么晚辈，他可是司岁台的秉烛人，我哪来的胆子去骗他......
+[name="老鲤"]那位公子哪能算什么晚辈，他可是司岁台的秉烛人，我哪来的胆子去骗他……
 [name="老鲤"]帮他排除一个错误答案罢了。
-[name="老鲤"]林先生这是......？
+[name="老鲤"]林先生这是……？
 [charslot(slot = "m", name = "avg_npc_034#1")]
 [name="林"]闲逛。
 [charslot(slot = "m", name = "avg_322_lmlee_1#10$1")]
@@ -503,8 +503,8 @@
 [name="林"]磨刀不误砍柴工。也是鲤先生值得信赖。
 [name="林"]鲤先生最终没能留在近卫局，魏彦吾还常常感慨来着。
 [charslot(slot = "m", name = "avg_322_lmlee_1#10$1")]
-[name="老鲤"]就别提了......
-[name="老鲤"]魏彦吾啊......从不放过任何一个能派上用场的人。
+[name="老鲤"]就别提了……
+[name="老鲤"]魏彦吾啊……从不放过任何一个能派上用场的人。
 [name="老鲤"]话说回来，林先生还是下定决心要让雨霞姑娘接您的班了？
 [charslot(slot = "m", name = "avg_npc_034#11")]
 [name="林"]这不该由我说了算。
@@ -524,8 +524,8 @@
 [Delay(time=2.5)]
 [charslot(slot = "m", name = "avg_322_lmlee_1#6$1",duration=0.5)]
 [Delay(time=1)]
-[name="老鲤"]槐天裴啊槐天裴，同样是父亲......
-[name="老鲤"]唉......
+[name="老鲤"]槐天裴啊槐天裴，同样是父亲……
+[name="老鲤"]唉……
 [dialog]
 [StopMusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -568,11 +568,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot = "left", name = "avg_npc_789_1#10$1",focus="n")]
 [charslot(slot = "r", name = "avg_4078_bdhkgt_1#1$1",focus="r")]
-[name="截云"]......
+[name="截云"]……
 [charslot(slot = "left", name = "avg_npc_789_1#10$1",focus="l")]
 [name="孟铁衣"]正常来讲，沙渠绝不会成为人通行的道路。
 [name="孟铁衣"]人如果跳进沙渠，可能会被轮机绞碎，也可能会被翻滚的黄沙淹没而窒息。
-[name="孟铁衣"]明天酉时，玉门行进速度降至最低，也将是沙渠运转最慢的时候......或许还有一丝可能。
+[name="孟铁衣"]明天酉时，玉门行进速度降至最低，也将是沙渠运转最慢的时候……或许还有一丝可能。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "r", name = "avg_4078_bdhkgt_1#5$1",focus="r")]
 [name="截云"]那也要试！我必须要出城。
@@ -581,7 +581,7 @@
 [charslot(slot = "r", name = "avg_4078_bdhkgt_1#7$1",focus="r")]
 [name="截云"]我可以。
 [charslot(slot = "left", name = "avg_npc_789_1#6$1",focus="l")]
-[name="孟铁衣"]......
+[name="孟铁衣"]……
 [charslot(slot = "r", name = "avg_4078_bdhkgt_1#7$1",focus="r")]
 [name="截云"]之前已经在医馆处理过了。
 [charslot(slot = "left", name = "avg_npc_789_1#10$1",focus="l")]
@@ -591,7 +591,7 @@
 [charslot(slot = "r", name = "avg_4078_bdhkgt_1#8$1",focus="r")]
 [name="截云"]来的路上，听说现在是这座城的将军亲自在城楼领兵布防。
 [charslot(slot = "left", name = "avg_npc_789_1#6$1",focus="l")]
-[name="孟铁衣"]看来......
+[name="孟铁衣"]看来……
 [name="孟铁衣"]该见不该见，终归是要见一面。
 [Dialog]
 [playsound(key="$d_gen_walk_n",volume=0.7)]
@@ -635,11 +635,11 @@
 [charslot(slot = "right", focus = "none")]
 [name="龙门暗桩"]您走之后不久，里面出来了一些铁匠打扮的人，拉着货物往别的地方去了。
 [name="龙门暗桩"]我尝试跟踪，但对面显然也是行家，察觉到有人跟着，很快就把我甩开了。
-[name="龙门暗桩"]我回过头再去查看仓库，里面东西已经被清得一干二净。虽然不知道这伙人在隐藏什么，但显然事有蹊跷......
+[name="龙门暗桩"]我回过头再去查看仓库，里面东西已经被清得一干二净。虽然不知道这伙人在隐藏什么，但显然事有蹊跷……
 [name="龙门暗桩"]小姐直觉没错，那个铸剑坊多半有问题。
 [charslot(slot = "m",  name = "avg_4080_lin_1#12$1",focus = "m")]
 [name="林雨霞"]恐怕现在已经打草惊蛇，而我们还没有找到关键证据。
-[name="林雨霞"]城头的乌云好像一天比一天厚，风里的沙子也越来越多了......
+[name="林雨霞"]城头的乌云好像一天比一天厚，风里的沙子也越来越多了……
 [charslot(slot = "middle", name = "avg_4080_lin_1#2$1")]
 [name="林雨霞"]事态紧急。既然有所怀疑，那就试探试探。
 [Dialog]

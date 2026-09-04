@@ -8,7 +8,7 @@
 [Character(name="char_451_robin#6")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1.5)]
-[name="罗宾"]我究竟该怎么做......
+[name="罗宾"]我究竟该怎么做……
 [Character(name="avg_npc_137#9",blackstart2=0.13,blackend2=0.25)]
 [name="狱警"]咳咳。
 [Character(name="char_451_robin#3",name2="avg_npc_137#9",blackstart2=0.13,blackend2=0.25,focus=1)]
@@ -21,15 +21,15 @@
 [Delay(time=1)]
 [playMusic(intro="$darkalley_intro", key="$darkalley_loop", volume=0.4)]
 [Character(name="char_451_robin#2",name2="avg_npc_137#9",blackstart2=0.13,blackend2=0.25,focus=1)]
-[name="罗宾"]......你是谁？！
+[name="罗宾"]……你是谁？！
 [Character(name="char_451_robin#2",name2="avg_npc_137#9",focus=2)]
 [name="狱警"]我的名字是杰斯顿，罗宾小姐。
 [Character(name="char_451_robin#2",name2="avg_npc_137#6",focus=2)]
 [name="杰斯顿"]别紧张，我和你一样，是接受委托潜入监狱刺杀安东尼的杀手之一。
 [Character(name="char_451_robin#2",name2="avg_npc_137#9",focus=2)]
-[name="杰斯顿"]而我恰好偶然听到了安东尼先生对你发出的越狱邀请......
+[name="杰斯顿"]而我恰好偶然听到了安东尼先生对你发出的越狱邀请……
 [Character(name="char_451_robin#2",name2="avg_npc_137#9",focus=1)]
-[name="罗宾"]......？！
+[name="罗宾"]……？！
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -42,7 +42,7 @@
 [Character(name="avg_npc_137#9")]
 [name="狱警"]安东尼先生，巴顿队长让我问你受的伤重不重。
 [Character(name="char_264_Mountain_1#5")]
-[name="安东尼"]......不重，让他再等一会儿，马上就好。
+[name="安东尼"]……不重，让他再等一会儿，马上就好。
 [Character(name="avg_npc_137#9")]
 [name="狱警"]好的，好的，没有问题。
 [Dialog]
@@ -92,11 +92,11 @@
 [name="杰斯顿"]你的父亲是那里的总经理，但就在他事业最巅峰的时候，黑云贸易却突然倒闭。
 [name="杰斯顿"]在那之后，他无论怎么努力，事业都没有起色，于是从此一蹶不振，开始酗酒，直到今天，躺在医院的病床上等待手术的医药费。
 [Character(name="char_451_robin#6",name2="avg_npc_137#9",focus=1)]
-[name="罗宾"]......
+[name="罗宾"]……
 [Character(name="char_451_robin#6",name2="avg_npc_137#9",focus=2)]
 [name="杰斯顿"]那么你知道是谁让黑云贸易倒闭的吗？
 [Character(name="char_451_robin#2",name2="avg_npc_137#9",focus=1)]
-[name="罗宾"]难道是......
+[name="罗宾"]难道是……
 [Character(name="avg_npc_137#6")]
 [name="杰斯顿"]没错，正是西蒙家族，而安东尼先生引以为傲的姓氏，也正是西蒙。
 [Character(name="avg_npc_137#9")]
@@ -121,7 +121,7 @@
 [name="杰斯顿"]当时，你的父亲是海德兄弟最得力的手下之一，黑云贸易的业绩也十分出色。
 [name="杰斯顿"]但就像西蒙家族一夜之间蒸发一般，黑云贸易在西蒙家族的垂死挣扎之下，也一夜之间消失了。
 [Character(name="char_451_robin#6",name2="avg_npc_137#9",focus=1)]
-[name="罗宾"]......
+[name="罗宾"]……
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]你的父亲当然想要东山再起，但是他的竞争对手们会给他机会吗？
 [name="杰斯顿"]不，不会的。
@@ -152,7 +152,7 @@
 [name="杰斯顿"]痛苦是平等的。
 [name="杰斯顿"]想想你父亲这些年悲惨的遭遇，你有足够的理由置他于死地，不是吗？
 [Character(name="char_451_robin#6")]
-[name="罗宾"]我......
+[name="罗宾"]我……
 [Character(name="avg_npc_137#9")]
 [name="杰斯顿"]而且，让我们来思考另一件事吧，罗宾小姐。
 [name="杰斯顿"]这件事更加现实。
@@ -167,7 +167,7 @@
 [name="杰斯顿"]你可以好好想想，罗宾小姐。
 [Character(name="char_451_robin#2")]
 [name="罗宾"]！
-[name="罗宾"]你是......
+[name="罗宾"]你是……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_hotel",screenadapt="coverall")]
@@ -187,13 +187,13 @@
 [musicvolume(volume=0.4,fadetime=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="罗宾"]你是......雇佣我的人？！
+[name="罗宾"]你是……雇佣我的人？！
 [Character(name="char_451_robin#2",name2="avg_npc_137#9",focus=2)]
 [name="杰斯顿"]是的，正是我。
 [name="杰斯顿"]我同情你的遭遇，但我了解过你的性格，知道你不愿意接受施舍，而我也并不喜欢施舍他人。
 [name="杰斯顿"]所以我为你准备了这样一笔交易。
 [Character(name="char_451_robin#3",name2="avg_npc_137#9",focus=1)]
-[name="罗宾"]......为什么你要告诉我这些？
+[name="罗宾"]……为什么你要告诉我这些？
 [Character(name="avg_npc_137#7")]
 [name="杰斯顿"]当然，我一开始并没有打算在现在接触你，只不过安东尼先生这一步棋把我逼了出来。
 [name="杰斯顿"]请容我再感慨一下，在这里生活下来之后，就连我都差一点被安东尼先生的气魄折服了。
@@ -205,7 +205,7 @@
 [name="杰斯顿"]你可以将过去的纠葛放在一边，只考虑这一个简单的问题——
 [name="杰斯顿"]是为了可能没有回报的同情心选择帮助他，还是为了我所许诺的利益协助我？
 [Character(name="char_451_robin#6")]
-[name="罗宾"]......
+[name="罗宾"]……
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -218,7 +218,7 @@
 [Character(name="char_441_lotus_1#4")]
 [name="杜玛"]罗宾小姐，你想好了吗？
 [Character(name="char_451_robin#6")]
-[name="罗宾"]......我加入。
+[name="罗宾"]……我加入。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [stopmusic]

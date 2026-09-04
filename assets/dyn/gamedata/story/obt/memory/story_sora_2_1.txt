@@ -14,14 +14,14 @@
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_031",focus="m")]
-[name="帮派成员"]......你到底是什么人？
+[name="帮派成员"]……你到底是什么人？
 [dialog]
 [charslot]
 [charslot(slot="m",name="char_102_texas_1#1",focus="m",duration=1)]
 [delay(time=2)]
 [name="德克萨斯"]企鹅物流。
 [charslot(slot="m",name="avg_npc_031",focus="m")]
-[name="帮派成员"]......原来是最近兴起的那家黑白通吃的物流公司。
+[name="帮派成员"]……原来是最近兴起的那家黑白通吃的物流公司。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]不想和你的同伴一样躺在地上的话，就滚。
 [charslot(slot="m",name="avg_npc_031",focus="m")]
@@ -37,7 +37,7 @@
 [dialog]
 [charslot]
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [dialog]
 [PlaySound(key="$transmission",volume=0.6)]
 [delay(time=1)] 
@@ -89,7 +89,7 @@
 [delay(time=1)] 
 [charslot]
 [charslot(slot="m",name="char_102_texas_1#2",focus="m")]
-[name="德克萨斯"]......按天算？
+[name="德克萨斯"]……按天算？
 [charslot(slot="m",name="char_102_texas_1#2",focus="m")]
 [name="德克萨斯"]算了。
 [dialog]
@@ -115,9 +115,9 @@
 [delay(time=2)]
 [name="空"]哎呀，把我的衣服都绑出褶子来了。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot(slot="m",name="char_101_sora_1#3",focus="m")]
-[name="空"]呼......这个先不提。
+[name="空"]呼……这个先不提。
 [charslot(slot="m",name="char_101_sora_1#3",focus="m")]
 [name="空"]你是来救我的，还是来杀我的？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -137,7 +137,7 @@
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
 [name="空"]我偶然偷听到了她们的通话。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]啊，对了，自我介绍一下，我是塞壬唱片的签约偶像，空。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -159,7 +159,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]我送你去演唱会的场地。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]等一下，如果我想请你送我去别的地方，你会同意吗？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -179,11 +179,11 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]没有。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......那些绑架犯果然把我的话筒搞坏了。
+[name="空"]……那些绑架犯果然把我的话筒搞坏了。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]能先送我去一家乐器行修一下吗？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]怎么了？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -197,7 +197,7 @@
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]这不重要吗？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [dialog]
 [charslot(duration=1)]
 [PlaySound(key="$d_gen_walk_n")]
@@ -280,7 +280,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [dialog]
 [charslot]
 [playsound(key="$d_avg_crowdrun")]
@@ -296,9 +296,9 @@
 [charslot]
 想起空之前说的话，德克萨斯下意识地捂住了耳朵。
 然后，她看到女孩从乐器行的二楼跳上旁边的露台，握住麦克风开始歌唱。
-[name="帮派成员A"]干掉那个女......唔......我的身体......
-[name="帮派成员B"]我的眼皮好沉......
-[name="帮派成员C"]好好听......我困了，晚安......
+[name="帮派成员A"]干掉那个女……唔……我的身体……
+[name="帮派成员B"]我的眼皮好沉……
+[name="帮派成员C"]好好听……我困了，晚安……
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=0.6)]
 [Delay(time=0.2)]
@@ -310,30 +310,30 @@
 德克萨斯感到心头一松，但她旋即意识到，这是歌曲的作用。
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="char_102_texas_1#4",focus="m")]
-[name="德克萨斯"]......唔......
+[name="德克萨斯"]……唔……
 [charslot(slot="m",name="char_102_texas_1#2",focus="m")]
-[name="德克萨斯"]......不对。
+[name="德克萨斯"]……不对。
 [dialog]
 [CameraShake(duration=0.5, xstrength=10, ystrength=0, vibrato=30, randomness=3, fadeout=true, block=true)]
 [delay(time=2)]
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
-[name="空"]小时候，有一次我在心情十分压抑的时候放声歌唱，结果，我的歌声也激起了其他孩子的怒火......
+[name="空"]小时候，有一次我在心情十分压抑的时候放声歌唱，结果，我的歌声也激起了其他孩子的怒火……
 [name="空"]那时起我就知道了自己有这样的能力。
 [name="空"]如果我心中有强烈的念头，并且我不去努力压制它，它就会通过我的歌声影响其他人，而我不能保证它能影响谁。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
 [name="空"]抱歉，德克萨斯小姐。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
-[name="空"]我知道你很厉害，所以之前才诱导你让你觉得......
+[name="空"]我知道你很厉害，所以之前才诱导你让你觉得……
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
 [name="空"]我的催眠曲捂住耳朵就能防住。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
 [name="空"]其实当然不是的。
 [charslot(slot="m",name="char_102_texas_1#2",focus="m")]
-[name="德克萨斯"]为......什么？
+[name="德克萨斯"]为……什么？
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
 [name="空"]为了能够逃离这一切。
 [charslot(slot="m",name="char_102_texas_1#2",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [dialog]
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [charslot(duration=1)]
@@ -359,7 +359,7 @@
 [charslot(slot="m",name="avg_npc_031",focus="m")]
 [name="阴险的帮派成员"]只不过这些蠢货以为对付一个小歌手不用那么麻烦而已，这下倒是正好把功劳让给我了。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
-[name="空"]......！
+[name="空"]……！
 [dialog]
 [charslot]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
@@ -370,7 +370,7 @@
 [charslot(slot="m",name="avg_npc_031",focus="m")]
 [name="阴险的帮派成员"]弩箭无眼，小姐，不想死的话，还是不要乱跑的好。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot(slot="m",name="avg_npc_031",focus="m")]
 [name="阴险的帮派成员"]不过也不用那么害怕，上面要你活着。
 [charslot(slot="m",name="avg_npc_031",focus="m")]
@@ -380,7 +380,7 @@
 [charslot(slot="m",name="avg_npc_031",focus="m")]
 [name="阴险的帮派成员"]你们这些温室里的花朵，想法真有趣。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
 [name="空"]你不会明白的。
 [charslot(slot="m",name="avg_npc_031",focus="m")]
@@ -390,13 +390,13 @@
 [charslot(slot="m",name="avg_npc_031",focus="m")]
 [name="阴险的帮派成员"]如果我是你，我就该后悔自己做出了这个决定。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
-[name="空"]......我承认我很蠢。
+[name="空"]……我承认我很蠢。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
 [name="空"]我一开始就预想过我会失败，但是，我小看了你们，亲手松开了自己的救命稻草。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
 [name="空"]失败的原因确实连我自己都觉得有点可笑。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
-[name="空"]但是......如果所谓的“好日子”，就是每天要唱被规定好的歌曲，说被规定好的话，完成被规定好的行程，露出被规定好的笑容——
+[name="空"]但是……如果所谓的“好日子”，就是每天要唱被规定好的歌曲，说被规定好的话，完成被规定好的行程，露出被规定好的笑容——
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
 [name="空"]那我情愿不要这样的好日子。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
@@ -408,7 +408,7 @@
 [charslot(slot="m",name="avg_npc_031",focus="m")]
 [name="阴险的帮派成员"]别担心，你接下来就过不上这种好日子了。
 [charslot(slot="m",name="char_101_sora_1#2",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot]
 [name="？？？"]这由不得你。
 [charslot(slot="m",name="avg_npc_031",focus="m")]
@@ -448,7 +448,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]到这里应该就行了。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]德克萨斯小姐......
+[name="空"]德克萨斯小姐……
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]你的催眠曲效果确实不错。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -458,7 +458,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]以前要随时绷紧神经注意周围，久而久之就习惯了。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......抱歉，德克萨斯小姐。
+[name="空"]……抱歉，德克萨斯小姐。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]你已经说过抱歉了。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
@@ -466,7 +466,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]既然你不后悔，那我也没有生气的必要。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
-[name="空"]......啊哈哈，你听到了。
+[name="空"]……啊哈哈，你听到了。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]而且，我也不觉得你的想法有什么问题。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
@@ -478,7 +478,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]无非就像你说的，你下次应该多做点准备。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]......唉，我要是早点听到有人像你这么说，说不定我就回心转意了。
+[name="空"]……唉，我要是早点听到有人像你这么说，说不定我就回心转意了。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]是吗？明明我是在鼓励你逃离。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
@@ -498,11 +498,11 @@
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
 [name="空"]其实我想要的就是这样一点东西。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
-[name="空"]只要有这样的一点东西......我就不会这么做了。
+[name="空"]只要有这样的一点东西……我就不会这么做了。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]时间不早了。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
-[name="空"]......是啊。
+[name="空"]……是啊。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]不过，在走之前，能陪我演一出歌剧吗，德克萨斯小姐？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -510,7 +510,7 @@
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]我来唱，你只需要提问就行了。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]而问题......你会知道的。
+[name="空"]而问题……你会知道的。
 [dialog]
 [charslot]
 空走到路灯下，握起话筒，并向德克萨斯伸出手，向她发出邀请。
@@ -634,13 +634,13 @@
 唯有明月与清风，以及德克萨斯作为听众。
 但空的脸上却洋溢着笑容。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]......谢谢你，德克萨斯小姐。
+[name="空"]……谢谢你，德克萨斯小姐。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]满足了我的愿望。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]送我去演唱会吧。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]不，我打算带你去的地方，是企鹅物流据点。
 [dialog]
@@ -652,7 +652,7 @@
 [PlaySound(key="$d_gen_dooropen", volume=0.7)]
 [delay(time=2)]
 [charslot(slot="m",name="char_101_sora_1#3",focus="m")]
-[name="空"]这里......
+[name="空"]这里……
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]企鹅物流的据点。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -664,7 +664,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]有事。不过问题不大。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]你为什么......要帮我？
+[name="空"]你为什么……要帮我？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]去年，我打算离开哥伦比亚，但是不知道去哪。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -676,7 +676,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]然后，企鹅物流就成立了。
 [charslot(slot="m",name="char_101_sora_1#3",focus="m")]
-[name="空"]......你是说，你和我一样，也想要逃离自己的过去？
+[name="空"]……你是说，你和我一样，也想要逃离自己的过去？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]逃离，说不上。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -690,7 +690,7 @@
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
 [name="空"]唉，照这么说，我们真该早点成为朋友。
 [charslot(slot="m",name="char_101_sora_1#5",focus="m")]
-[name="空"]这样的话，不仅你可以鼓励我......
+[name="空"]这样的话，不仅你可以鼓励我……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]我也可以鼓励你。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -704,7 +704,7 @@
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]不过，我们都已经互相说了一些自己过去的事，一般来讲，只有朋友才会这么做吧？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......确实。
+[name="德克萨斯"]……确实。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]那我们就算是朋友了，德克萨斯！
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
@@ -743,7 +743,7 @@
 [name="德克萨斯"]出了点状况，不送了。
 [interlude(channel = 3, switch = true)]
 [charslot(slot="l",name="char_102_texas_1#1",focus="n")]
-[name="大帝"]......
+[name="大帝"]……
 [dialog]
 [interlude(channel = 3, clear = true)]
 [charslot]
@@ -759,7 +759,7 @@
 [interlude(channel = 3, clear = true)]
 [charslot]
 [charslot(slot="m",name="char_101_sora_1#3",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot]
 [charslot(slot="l",name="char_102_texas_1#1",focus="n")]
 [interlude(maskid = "group_interclude_vertical_common" ,size = "260,760", style=0 ,switch = true, offset = "250,0", channel = 3,tsfrom = "0,1", tsto="1,1")]
@@ -830,7 +830,7 @@
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]嗯？
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]那个，大帝先生......
+[name="空"]那个，大帝先生……
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]德克萨斯，这就是你说的出了点状况吗？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -844,11 +844,11 @@
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]你想去吗？
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......不想。
+[name="空"]……不想。
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]那就不去。塞壬唱片那边，我自有办法。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]......谢谢你，大帝先生。
+[name="空"]……谢谢你，大帝先生。
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]好了，德克萨斯，去准备一下，我们要上台了。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -872,7 +872,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]下次。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
 [name="空"]德克萨斯，我可以问问，你当时是怎么离开的吗？
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
@@ -882,7 +882,7 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]我放了一把火，和一些人打了一架，告诉所有人，别来找我。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
 [name="空"]他们会听吗？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -918,11 +918,11 @@
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]到时候再说吧。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......就这样？
+[name="空"]……就这样？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]就这样。
 [charslot(slot="m",name="char_101_sora_1#4",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]噗嗤。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -950,11 +950,11 @@
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]我们的录音室离得很近，你应该知道。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]......您觉得我唱得怎么样？
+[name="空"]……您觉得我唱得怎么样？
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]我觉得，我可以把这首歌、这个舞台交给你。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]......谢谢！
+[name="空"]……谢谢！
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]我的要求只有一个。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
@@ -971,7 +971,7 @@
 [delay(time=3.5)]
 [name="客人A"]咦，这一场不该是大帝主唱吗？怎么换了个小姑娘？
 [name="客人B"]我好像认识她，她是塞壬唱片的空！
-[name="客人C"]她不是走元气路线的吗，怎么会出现在这里......？
+[name="客人C"]她不是走元气路线的吗，怎么会出现在这里……？
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]大家都很惊讶呢。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -979,7 +979,7 @@
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]我可是歌手，德克萨斯。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]以及......
+[name="空"]以及……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]德克萨斯，我改变主意了。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
@@ -1015,7 +1015,7 @@
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]嗯，这是我自己的事。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]......
+[name="空"]……
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]德克萨斯，谢谢你。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -1094,7 +1094,7 @@
 [charslot]
 [playmusic(intro="$path_intro", key="$path_loop", volume=0.6)]
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
-[name="空"]哼......哼，哼♫
+[name="空"]哼……哼，哼♫
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]德克萨斯，我之前录的新歌你听过了吗？
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
@@ -1104,7 +1104,7 @@
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
 [name="空"]你应该给我一些更具体的评价。
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
 [name="德克萨斯"]那我再多听一听吧。
 [charslot(slot="m",name="char_101_sora_1#1",focus="m")]
@@ -1130,13 +1130,13 @@
 [PlaySound(key="$rungeneral", volume=1)]
 [delay(time=2.5)]
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
-[name="大帝"]......
+[name="大帝"]……
 [charslot(slot="m",name="char_102_texas_1#1",focus="m")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot(slot="m",name="char_105_emper#1",focus="m")]
 [name="大帝"]你还是跟上去看看吧，德克萨斯。
 [charslot(slot="m",name="char_102_texas_1#2",focus="m")]
-[name="德克萨斯"]......好吧。
+[name="德克萨斯"]……好吧。
 [dialog]
 [charslot(duration=1)]
 [PlaySound(key="$d_gen_walk_n")]

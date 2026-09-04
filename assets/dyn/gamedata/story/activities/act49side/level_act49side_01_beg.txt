@@ -7,7 +7,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [playMusic(intro="$chenandwei_intro", key="$chenandwei_loop", volume=0.6)]
-[Subtitle(text="“晖洁......你的名字是陈晖洁。”", x=530, y=310, alignment="left", size=24, delay=0.04,  width=700)]
+[Subtitle(text="“晖洁……你的名字是陈晖洁。”", x=530, y=310, alignment="left", size=24, delay=0.04,  width=700)]
 [Subtitle(afrom=1,ato=0,duration=2)]
 [delay(time=1)]
 [Subtitle]
@@ -15,7 +15,7 @@
 [Subtitle(afrom=1,ato=0,duration=2)]
 [delay(time=1)]
 [Subtitle]
-[Subtitle(text="“小塔......是姐姐？”", x=510, y=520, alignment="left", size=25, delay=0.04, width=700)]
+[Subtitle(text="“小塔……是姐姐？”", x=510, y=520, alignment="left", size=25, delay=0.04, width=700)]
 [Subtitle(afrom=1,ato=0,duration=2)]
 [delay(time=1)]
 [Subtitle]
@@ -53,15 +53,15 @@
 [charslot(slot = "m", action="shake", power=3, times=30, duration=0.3, isblock=true)]
 [name="陈"]——！
 [charslot(slot = "m", name = "avg_1050_chen3_1#7$2")]  
-[name="陈"]......是雷声。  
+[name="陈"]……是雷声。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
 [name="魏彦吾"]只是雷声。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
 [name="魏彦吾"]已经是深秋了，要是拖到入冬，下了雪，路会很难走。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2")]
-[name="陈"]......哼。  
+[name="陈"]……哼。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
-[name="魏彦吾"]晖洁......你应当回去。  
+[name="魏彦吾"]晖洁……你应当回去。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
 [name="陈"]“回”？  
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
@@ -71,7 +71,7 @@
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
 [name="魏彦吾"]所以你应该明白，眼下的这些事，都与你无关。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2")]
-[name="陈"]真想感叹......你大概也是真的老了，舅舅。  
+[name="陈"]真想感叹……你大概也是真的老了，舅舅。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2")]
 [name="陈"]换作五年前的你，这会儿应该早已经和我动过手了。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
@@ -81,11 +81,11 @@
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
 [name="陈"]因为我还是信不过你。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2")]
-[name="陈"]你讲的那些事......关于那位太师，关于你的弟弟——我素未谋面的“另一位舅舅”，还有那位老真龙...... 
+[name="陈"]你讲的那些事……关于那位太师，关于你的弟弟——我素未谋面的“另一位舅舅”，还有那位老真龙…… 
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2")]
 [name="陈"]我没有权力对这些事评论什么。非要说的话，我倒是庆幸，最终不是由你来为炎国的许多事做决定。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#2")]
-[name="魏彦吾"]这一点我同样不否认......  
+[name="魏彦吾"]这一点我同样不否认……  
 [charslot(slot = "m", name = "avg_1050_chen3_1#7$2")]
 [name="陈"]我的确还是想知道你离开百灶时到底在想什么，母亲为什么也跟着你来到龙门，又为何留了下来。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2")]
@@ -99,13 +99,13 @@
 [charslot(slot = "m", name = "avg_1050_chen3_1#7$2")]
 [name="陈"]我们都省省吧。
 [charslot(slot = "m", name = "char_2005_weiyw_1#2")]  
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "m", name = "char_2005_weiyw_1#2")]
-[name="魏彦吾"]晖洁......你这些年——  
+[name="魏彦吾"]晖洁……你这些年——  
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2")]
 [name="陈"]一样，也没什么好说的。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#2")]
-[name="魏彦吾"]或许等到你愿意说的时候......  
+[name="魏彦吾"]或许等到你愿意说的时候……  
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_slmddrprn",volume=0, channel="f", loop=true)]
@@ -118,21 +118,21 @@
 [StopSound(channel="f", fadetime=1)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#4$2")]
-[name="陈"]......还是没有消息。  
+[name="陈"]……还是没有消息。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#2")]
 [name="魏彦吾"]那就已经是最好的消息。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
 [name="魏彦吾"]事已至此，我们没办法期待任何好的转机。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
-[name="陈"]你说，如果百灶城那边有任何异动......玉门就会立刻开战。 
+[name="陈"]你说，如果百灶城那边有任何异动……玉门就会立刻开战。 
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")] 
-[name="陈"]你所说的“岁兽”能造成的动乱，还有这一战的结果......无人可以确定。  
+[name="陈"]你所说的“岁兽”能造成的动乱，还有这一战的结果……无人可以确定。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
 [name="魏彦吾"]嗯。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2")]
-[name="陈"]这就是大炎隐藏了上千年的秘密......你们还真是一样。  
+[name="陈"]这就是大炎隐藏了上千年的秘密……你们还真是一样。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
-[name="魏彦吾"]......可是事有蹊跷。  
+[name="魏彦吾"]……可是事有蹊跷。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
 [name="魏彦吾"]当下情势已经万分紧急，可过去十日，玉门和百灶之间来往的信使不超过三班。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#4")]
@@ -143,7 +143,7 @@
 [delay(time=1)]
 [name="影卫"]魏公，有客。  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
-[name="魏彦吾"]这个时候......  
+[name="魏彦吾"]这个时候……  
 [charslot(slot = "m", name = "char_2005_weiyw_1#5")]
 [name="魏彦吾"]请进来就是。  
 [dialog]
@@ -152,22 +152,22 @@
 [delay(time=1)]
 [name="？？？"]魏公别来无恙。 
 [charslot(slot = "m", name = "char_2005_weiyw_1#2")] 
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "m", name = "char_2005_weiyw_1#1")]
 [name="魏彦吾"]太傅也安好。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#5$2")]
-[name="陈"]......！  
+[name="陈"]……！  
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2")]
-[name="陈"]您就是......炎国太傅？  
+[name="陈"]您就是……炎国太傅？  
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_301_1#1$1",duration=1)]
 [delay(time=1)]
-[name="太傅"]......  
+[name="太傅"]……  
 [charslot(slot = "m", name = "avg_npc_301_1#1$1")]
 [name="太傅"]我之前的确不知道，陈家小姐也在这里。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#7$2")]
-[name="陈"]您为何......  
+[name="陈"]您为何……  
 [dialog]
 [charslot]
 陈很确信自己从来没有见过这位老人。  
@@ -183,11 +183,11 @@
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
 [name="魏彦吾"]我没有不信任太傅的道理。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
-[name="魏彦吾"]之前是信使，今天是太傅亲自到这来......  
+[name="魏彦吾"]之前是信使，今天是太傅亲自到这来……  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]是有必须要和魏公说清的事。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
 [name="魏彦吾"]晖洁，回避。  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
@@ -195,18 +195,18 @@
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]一会要说的事，她最好也留下来听听。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2")]
-[name="陈"]......  
+[name="陈"]……  
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2")]
 [name="陈"]好。  
 [dialog]
 [charslot]
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="l")]
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l",isblock=true)]
-[name="魏彦吾"]如今百灶城中境况......  
+[name="魏彦吾"]如今百灶城中境况……  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]中秋后，陛下特准他进入岁陵，尝试平息岁兽之患。  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
@@ -222,7 +222,7 @@
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2")]
-[name="陈"]竟然......  
+[name="陈"]竟然……  
 [dialog]
 [avgdisplay(id = "1", style = "bg", name = "bg_black",afrom=0,ato=0.6,duration=2,slot = "bgover", layer = 1,isblock=true)]
 [delay(time=1)]
@@ -230,9 +230,9 @@
 [name="模糊的声音？"]“不知意欲何为”——这白胡子老头倒是会说话。
 [name="模糊的声音？"]上千年的血仇，这时候找上门，还能是来串门送礼的不成？
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2",focus="m")]
-[name="陈"]嗯......？  
+[name="陈"]嗯……？  
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2")]
-[name="陈"]你......说什么？  
+[name="陈"]你……说什么？  
 [dialog]
 [avgdisplay(id = "1",style = "bg",name = "bg_black",afrom=0.6,ato=0,duration=1,slot = "bgover", layer = 1,block=true)]
 [delay(time=1)]
@@ -242,7 +242,7 @@
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l",isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l",isblock=true)]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
 [name="魏彦吾"]这时候，应当已经有不少人力主开战了。  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
@@ -256,7 +256,7 @@
 [charslot(slot = "r", name = "avg_npc_301_1#2$1", focus="r")] 
 [name="太傅"]但依然还有我们不曾考虑过的手段。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
-[name="魏彦吾"]......！  
+[name="魏彦吾"]……！  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
 [name="魏彦吾"]太傅，告诉我，胞弟不曾想过要自己去开启“不反”——
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
@@ -264,7 +264,7 @@
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]如若大炎真到了不得已的时候，也只有他能行此事。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#4", focus="l")]
-[name="魏彦吾"]......简直荒唐！  
+[name="魏彦吾"]……简直荒唐！  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]魏公。  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
@@ -274,11 +274,11 @@
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]魏公应当明白。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#4", focus="l")]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "l", name = "char_2005_weiyw_1#4", focus="l")]
-[name="魏彦吾"]这些旧事......四十年的旧事，上千年的旧事......绝对不该以这种方式收场。  
+[name="魏彦吾"]这些旧事……四十年的旧事，上千年的旧事……绝对不该以这种方式收场。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#4", focus="l")]
-[name="魏彦吾"]......绝对不该，是由他去付出这个代价。  
+[name="魏彦吾"]……绝对不该，是由他去付出这个代价。  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]无人愿意见到那个最坏的局面，但绝不可自欺欺人。  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
@@ -292,7 +292,7 @@
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
 [name="陈"]我不明白，太傅说的“后手”是什么意思？  
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2")]
-[name="陈"]您刚刚说的这些事，和魏彦吾......有什么关系？  
+[name="陈"]您刚刚说的这些事，和魏彦吾……有什么关系？  
 [dialog]
 [avgdisplay(id = "1", style = "bg", name = "bg_black",afrom=0,ato=0.6,duration=2,slot = "bgover", layer = 1,isblock=true)]
 [delay(time=1)]
@@ -300,16 +300,16 @@
 [name="模糊的声音？"]这还听不明白？
 [name="模糊的声音？"]后手就是后手，事情办砸的时候该做的事就叫后手。
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2",focus="m")]
-[name="陈"]......什么......？  
+[name="陈"]……什么……？  
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2",focus="m")]
-[name="陈"]你们......这是在说什么？  
+[name="陈"]你们……这是在说什么？  
 [charslot(slot = "m", focus="n")]
 [name="模糊的声音？"]国不可一日无君，少了一位真龙，那自然得再补上一位真龙。
 [name="模糊的声音？"]父死子替，兄退弟进，几千年来都是这么传过来的。
 [name="模糊的声音？"]要是别人都不在了，这女娃自然也是要去当真龙的。
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#6$2",focus="m")]
-[name="陈"]......你们在胡说八道什么？！  
+[name="陈"]……你们在胡说八道什么？！  
 [dialog]
 [avgdisplay(id = "1",style = "bg",name = "bg_black",afrom=0.6,ato=0,duration=1,slot = "bgover", layer = 1,block=true)]
 [delay(time=1)]
@@ -318,17 +318,17 @@
 [charslot]
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [charslot(slot = "l", name = "char_2005_weiyw_1#4", focus="r",isblock=true)]
-[name="太傅"]......  
+[name="太傅"]……  
 [charslot(slot = "l", name = "char_2005_weiyw_1#4", focus="l")]
-[name="魏彦吾"]......晖洁！  
+[name="魏彦吾"]……晖洁！  
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
-[name="陈"]刚才的声音......  
+[name="陈"]刚才的声音……  
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2")]
-[name="陈"]你们......都没听到？  
+[name="陈"]你们……都没听到？  
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2")]
-[name="陈"]......我......  
+[name="陈"]……我……  
 [dialog]
 [charslot]
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
@@ -341,14 +341,14 @@
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]魏公，珍重。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
-[name="魏彦吾"]......我送太傅一程。  
+[name="魏彦吾"]……我送太傅一程。  
 [charslot(slot = "r", name = "avg_npc_301_1#1$1", focus="r")]
 [name="太傅"]不必。  
 [PlaySound(key="$d_avg_woodfloor_fts", volume=1)]
 [dialog]
 [charslot(slot = "r", afrom=1, ato=0, duration=1.5, isblock=true)]
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "r", name = "avg_1050_chen3_1#1$2",posfrom="150,0",posto="80,0",duration=1,isblock=true)]
@@ -357,27 +357,27 @@
 [charslot(slot = "r", name = "avg_1050_chen3_1#1$2", focus="r")]
 [name="陈"]他特意让我留在这里，但我一点也听不明白你们所说的。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
-[name="魏彦吾"]晖洁......  
+[name="魏彦吾"]晖洁……  
 [charslot(slot = "r", name = "avg_1050_chen3_1#11$2", focus="r")]
 [name="陈"]什么叫炎国很有可能马上要大动干戈，却让你做好准备？  
 [charslot(slot = "r", name = "avg_1050_chen3_1#11$2", focus="r")]
-[name="陈"]“不反”“巨兽”......你和这些事到底有什么联系？  
+[name="陈"]“不反”“巨兽”……你和这些事到底有什么联系？  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
 [name="魏彦吾"]晖洁。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
-[name="魏彦吾"]过去曾有许多错......有的是我亲自铸就，有的则是我无力阻止。  
+[name="魏彦吾"]过去曾有许多错……有的是我亲自铸就，有的则是我无力阻止。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
 [name="魏彦吾"]我唯一在坚持的，是不让那些已经无力改变的错，祸及你们。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
 [name="魏彦吾"]只因我从不曾怀疑，你能做到的比我们更多。  
 [charslot(slot = "r", name = "avg_1050_chen3_1#10$2", focus="r")]
-[name="陈"]......别在这时候说这些。  
+[name="陈"]……别在这时候说这些。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
 [name="魏彦吾"]还有一事。  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
-[name="魏彦吾"]塔露拉......  
+[name="魏彦吾"]塔露拉……  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
 [name="魏彦吾"]告诉我，你上一次见到塔露拉，她还好吗？  
 [charslot(slot = "r", name = "avg_1050_chen3_1#1$2", focus="r")]
@@ -387,23 +387,23 @@
 [charslot(slot = "r", name = "avg_1050_chen3_1#13$2", focus="r")]
 [name="陈"]文月姨不愿意见你永远当那个老顽固，她在意你的安危，我也不想——  
 [charslot(slot = "r", name = "avg_1050_chen3_1#13$2", focus="r")]
-[name="陈"]......如果你真的还在乎除了你自己之外的谁，就不要把他们全都抛在身后。  
+[name="陈"]……如果你真的还在乎除了你自己之外的谁，就不要把他们全都抛在身后。  
 [charslot(slot = "r", name = "avg_1050_chen3_1#13$2", focus="r")]
-[name="陈"]告诉我，舅舅......  
+[name="陈"]告诉我，舅舅……  
 [charslot(slot = "r", name = "avg_1050_chen3_1#13$2", focus="r")]
 [name="陈"]你到底准备做什么？  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "l", name = "char_2005_weiyw_1#5", focus="l")]
 [name="魏彦吾"]听上去，她活得应当还好，至少不坏。  
 [charslot(slot = "r", name = "avg_1050_chen3_1#11$2", focus="r")]
-[name="陈"]......不要那样轻飘飘地下评判！  
+[name="陈"]……不要那样轻飘飘地下评判！  
 [charslot(slot = "r", name = "avg_1050_chen3_1#14$2", focus="r")]
 [name="陈"]你还不知道她到底经历了什么牺牲，更不知道她最后——  
 [charslot(slot = "l", name = "char_2005_weiyw_1#2", focus="l")]
-[name="魏彦吾"]......  
+[name="魏彦吾"]……  
 [charslot(slot = "r", name = "avg_1050_chen3_1#1$2", focus="r")]
-[name="陈"]够了......  
+[name="陈"]够了……  
 [charslot(slot = "r", name = "avg_1050_chen3_1#1$2", focus="r")]
 [name="陈"]你要是乐意这样，一个劲自顾自地对过去的事伤感个没完，那也随你。  
 [charslot(slot = "r", name = "avg_1050_chen3_1#1$2", focus="r")]
@@ -422,7 +422,7 @@
 [Delay(time=1)]
 [playMusic(intro="$loneliness_intro", key="$loneliness_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2", duration=0.8)]
-[name="陈"]......  
+[name="陈"]……  
 [charslot(slot = "m",focus="n")]  
 细密的秋雨兀自缠绵，如同断续的思绪纠缠不休。  
 [dialog]
@@ -438,9 +438,9 @@
 [charslot(slot = "r", name = "char_010_chen_1#4",focus="r")]
 [CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[name="陈"]魏彦吾，我对你和你的城市，你这座金玉其外败絮其中的城市......  
+[name="陈"]魏彦吾，我对你和你的城市，你这座金玉其外败絮其中的城市……  
 [name="陈"]已经厌倦了。  
-[name="陈"]......  
+[name="陈"]……  
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -467,7 +467,7 @@
 [charslot(slot = "m", name = "avg_npc_1968_1#2$1")]
 [name="塔露拉"]如果你还愿意的话，也可以加入他们。  
 [charslot(slot = "m", name = "avg_npc_662_1#3$1")]
-[name="陈"]......我不放心你。  
+[name="陈"]……我不放心你。  
 [charslot(slot = "m", name = "avg_npc_1968_1#2$1")]
 [name="塔露拉"]你同样可以跟着我们。  
 [charslot(slot = "m", name = "avg_npc_1968_1#1$1")]
@@ -477,7 +477,7 @@
 [charslot(slot = "m", name = "avg_npc_1968_1#1$1")]
 [name="塔露拉"]晖洁。  
 [charslot(slot = "m", name = "avg_npc_1968_1#1$1")]
-[name="塔露拉"]我相信你说的，也许存在一个可以审判感染者......也可以收容所有感染者的地方。  
+[name="塔露拉"]我相信你说的，也许存在一个可以审判感染者……也可以收容所有感染者的地方。  
 [charslot(slot = "m", name = "avg_npc_1968_1#1$1")]
 [name="塔露拉"]但它不在这里，不在过去，不在现在。  
 [charslot(slot = "m", name = "avg_npc_1968_1#2$1")]
@@ -497,11 +497,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2")]  
-[name="陈"]我们是向前走了......然后呢？  
+[name="陈"]我们是向前走了……然后呢？  
 [charslot(slot = "m", name = "avg_1050_chen3_1#13$2")]  
-[name="陈"]过去的事到底是追了上来......还是我自己找了回去？呵，过去的事从来没有真的过去过。  
+[name="陈"]过去的事到底是追了上来……还是我自己找了回去？呵，过去的事从来没有真的过去过。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#13$2")]  
-[name="陈"]塔露拉，如果是你......如果是你看到这些事，又会怎么想？  
+[name="陈"]塔露拉，如果是你……如果是你看到这些事，又会怎么想？  
 [dialog]
 [avgdisplay(id = "1", style = "bg", name = "bg_black",afrom=0,ato=0.6,duration=2,slot = "bgover", layer = 1,isblock=true)]
 [delay(time=1)]
@@ -525,7 +525,7 @@
 [name="陈"]别再装神弄鬼！  
 [PlaySound(key="$d_avg_swordexsheath", volume=0.8)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")] 
-[name="陈"]......现身说话！  
+[name="陈"]……现身说话！  
 [dialog]
 [charslot(slot = "m",focus="n")] 
 不知何处传来的飘渺声音再度响起，这一次才听得真切。
@@ -584,7 +584,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.03, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#7$2")] 
-[name="陈"]真是见鬼......  
+[name="陈"]真是见鬼……  
 [dialog]
 [playMusic(intro="$suspenseful_intro",key="$suspenseful_loop", volume=0.6)]
 [playsound(key="$d_avg_crwddiscuss_outside", loop=true, channel="bgs",volume=0)]
@@ -593,7 +593,7 @@
 [charslot(slot = "m", name = "avg_1050_chen3_1#4$2")] 
 [name="陈"]什么声音？  
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")] 
-[name="陈"]......是驿馆那边？  
+[name="陈"]……是驿馆那边？  
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -606,7 +606,7 @@
 [Delay(time=1)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#1$2",posfrom="-100,0",posto="0,0",duration=1.5, isblock=true)] 
-[name="陈"]......？
+[name="陈"]……？
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_038",posfrom="-150,0",posto="-150,0",isblock=false)]
@@ -619,7 +619,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
-[name="陈"]你们都站在这里做什么......出什么事了？  
+[name="陈"]你们都站在这里做什么……出什么事了？  
 [dialog]
 [charslot(slot = "m", name = "avg_npc_038")]
 [name="影卫"]小姐最后一次见到魏公是什么时候？  
@@ -633,9 +633,9 @@
 [name="影卫"]两刻前，魏公屏退我等，自己一人在房中休息。  
 [name="影卫"]直到方才，店主送餐却发现房中无人。  
 [name="影卫"]我们搜遍了整个驿馆，也不见魏公的踪影。  
-[name="影卫"]魏公现在......下落不明。  
+[name="影卫"]魏公现在……下落不明。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
-[name="陈"]......  
+[name="陈"]……  
 [dialog]
 [charslot]
 没有留言。
@@ -643,7 +643,7 @@
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
 [name="陈"]这个人，竟然还能在你们眼皮底下溜走。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2")]
-[name="陈"]又一次......魏彦吾，又一次。  
+[name="陈"]又一次……魏彦吾，又一次。  
 [charslot(slot = "m", name = "avg_npc_038")]
 [name="影卫"]小姐，之前魏公收到当今真龙亲笔，邀他赴京。我等劝阻无果，只得相随前来。  
 [name="影卫"]姑且揣测，魏公现在已经前往京城。  
@@ -654,7 +654,7 @@
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
 [name="陈"]无论如何，他不辞而别总是事实。
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2")]
-[name="陈"]这次......我绝对会找到他。
+[name="陈"]这次……我绝对会找到他。
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

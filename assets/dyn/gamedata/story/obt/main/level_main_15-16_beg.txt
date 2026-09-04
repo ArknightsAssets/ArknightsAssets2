@@ -10,7 +10,7 @@
 [PlayMusic(key="$m_bat_act37d0d0_01_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-你尚且来不及思考刚刚发生的变故，凯尔希已经从你的视野中完全消失......
+你尚且来不及思考刚刚发生的变故，凯尔希已经从你的视野中完全消失……
 甲板上只留下那件外套。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$Mon3tr_n")]
@@ -59,7 +59,7 @@
 [Blocker(a=0.1, r=0, g=0, b=0, afrom=0.8, rfrom=1, gfrom=1, bfrom=1, fadetime=0.3, block=true)]
 [Blocker(a=0.1, r=0, g=0, b=0, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.3, block=true)]
 [Blocker(a=0.1, fadetime=2, block=true)]
-丝线从阿米娅的法杖上散开，试图阻拦普瑞赛斯前进的脚步......
+丝线从阿米娅的法杖上散开，试图阻拦普瑞赛斯前进的脚步……
 但地面上的源石总是能从刁钻的角度生长出来，内化阿米娅的所有法术。
 你能看出来阿米娅很吃力。
 眼前这个几乎无法抗衡的普瑞赛斯，还有凯尔希唯一留存下来的东西——
@@ -68,7 +68,7 @@
 [name="普瑞赛斯"]你想要救它？
 [dialog]
 [charslot(slot = "m", focus="n")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_npc_1718_1#8$1")]
 [name="普瑞赛斯"]我也想修好它，和你一样。
@@ -76,14 +76,14 @@
 [charslot]
 你依旧没有从刚刚的冲击中缓过来。
 面对眼前的威胁，你甚至没有悲伤的余力。
-普瑞赛斯，她还会有怎样的行动？你又该如何保护阿米娅......
+普瑞赛斯，她还会有怎样的行动？你又该如何保护阿米娅……
 而普瑞赛斯显然注意到了你的心思——
 [charslot(slot = "m", name = "avg_npc_1718_1#6$1")]
-[name="普瑞赛斯"]Dr.{@nickname}，你......为什么在害怕我？
+[name="普瑞赛斯"]Dr.{@nickname}，你……为什么在害怕我？
 [charslot]
 她与你愈发接近。
 [dialog]
-[Decision(options="（......想出办法。）;（快想出办法！）", values="1;2")]
+[Decision(options="（……想出办法。）;（快想出办法！）", values="1;2")]
 [Predicate(references="1;2")]
 你和阿米娅被脚下蔓延的源石完全限制，无法动弹。
 你第一次如此近距离地见到了她。
@@ -103,20 +103,20 @@
 [Decision(options="你究竟要做什么？！", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
-[name="凯尔希"]......保护你。
+[name="凯尔希"]……保护你。
 [name="凯尔希"]就像我承诺过的那样。
 [name="凯尔希"]我承诺过，我会保护阿米娅，也会保护你。
 [name="凯尔希"]我会保护你至你生命的最后一刻，博士。这是我的职责。
 [name="凯尔希"]但我不会停止恨你。我无力教育和批评迷迭香，因为我也害怕自己会忍不住报复你。
 [dialog]
 [charslot]
-[Decision(options="......你......", values="1")]
+[Decision(options="……你……", values="1")]
 [Predicate(references="1")]
 类似的场景，类似的话语，不同的情感与不同的时代在你记忆的空洞里架起了桥梁。
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot = "m", name = "avg_003_kalts_1#6$1")]
-[name="凯尔希"]你......想起了什么？
+[name="凯尔希"]你……想起了什么？
 [dialog]
 [PlaySound(key="$d_avg_humanchange", volume=1)]
 [delay(time=0.4)]
@@ -129,7 +129,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 “普瑞赛斯”。
 [dialog]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 不，这一次你先想起了她，想起了凯尔希。
 [dialog]
@@ -142,7 +142,7 @@
 [Image(image="avg_ac8mi_melancholic_kalts", screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 那位你信任的医生似乎还在这里。
-你想起了当你的思维在“文明的存续”中搜索凯尔希为你们留下的线索......
+你想起了当你的思维在“文明的存续”中搜索凯尔希为你们留下的线索……
 想起了当所有的关键被串联起来之后，凯尔希为你留下的那句话——
 “我从未忘记。”
 [dialog]
@@ -156,7 +156,7 @@
 [SoundVolume(volume=0.3, channel="d",fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [name="预言家"]（轻声的未知语言）无论你来自寰宇中哪一片区域，若是我的文明已然安眠，就请替我去看看我们留下的信标。
-[name="预言家"]（轻声的未知语言）或许那会是我们的祝福......还有最后馈赠的希望。
+[name="预言家"]（轻声的未知语言）或许那会是我们的祝福……还有最后馈赠的希望。
 如今你很确定，那个人的确跨越了时光的隔阂看着你。
 [dialog]
 [stopmusic(fadetime=1)]
@@ -170,7 +170,7 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[Decision(options="（那些公式......）;（那份馈赠......）", values="1;2")]
+[Decision(options="（那些公式……）;（那份馈赠……）", values="1;2")]
 [Predicate(references="1;2")]
 [StopSound(channel="d", fadetime=1)]
 [PlayMusic(key="$m_bat_theresa_loop", volume=0.6)]
@@ -178,7 +178,7 @@
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#5$3")]
 [name="阿米娅"]公式——？！
-[name="阿米娅"]凯尔希医生提到过，它能用于减少元信息在特殊媒介传输时的损耗......
+[name="阿米娅"]凯尔希医生提到过，它能用于减少元信息在特殊媒介传输时的损耗……
 [dialog]
 [charslot(slot = "m", focus="n")]
 [Decision(options="逆转它。", values="1")]
@@ -200,7 +200,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 没有时间犹豫，阿米娅已经做出了行动。
 你再一次与阿米娅共享了你的思维，你所研究的一切都重新在你的脑海中浮现。
-凭借着直觉和已有的研究成果，你开始尝试拆解那些公式，转译，然后逆转......
+凭借着直觉和已有的研究成果，你开始尝试拆解那些公式，转译，然后逆转……
 哪怕你清楚，那并不能达到完全的效果。但此时，你只能祈祷这样会有用——
 为了凯尔希。
 [dialog]
@@ -239,7 +239,7 @@
 [delay(time=0.2)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=3, block=true)]
 阿米娅的法术余波震开了试图封锁你们的源石。
-[name="普瑞赛斯"]这是......？
+[name="普瑞赛斯"]这是……？
 试图重新限制住你们的源石几乎无法继续向你们逼近，无数的棱面中倒映出了阿米娅的身影。
 [dialog]
 [Decision(options="奏效了？！", values="1")]
@@ -247,15 +247,15 @@
 [PlaySound(key="$d_avg_scrystalroad", volume=1, loop=true, channel="sc")]
 [delay(time=1.5)]
 [StopSound(channel="sc", fadetime=6)]
-[name="阿米娅"]......我在尽量坚持——
-[name="阿米娅"]但源石挤压过来的速度正在变快......
+[name="阿米娅"]……我在尽量坚持——
+[name="阿米娅"]但源石挤压过来的速度正在变快……
 [name="阿米娅"]我需要，更努力一点！我可以做到！
 你看到了阿米娅坚定的眼神，但你心中仍然有深深的忧虑。
 [name="普瑞赛斯"]你并不明白自己在摆弄什么样的力量。
 [dialog]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
-[name="阿米娅"]我的法术目前好像不光能挡住它们，也感知到了她的状态......
+[name="阿米娅"]我的法术目前好像不光能挡住它们，也感知到了她的状态……
 [name="阿米娅"]她没有我想象中那样不可战胜——
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -272,7 +272,7 @@
 [ImageTween(xFrom=-320, xTo=-380, duration=6, block=false)]
 [delay(time=1)]
 [name="普瑞赛斯"]我的确过早地醒来了，源石同化这颗星球的速度并未达到我的预期。
-[name="普瑞赛斯"]加之那两个泰拉人的莽撞行为，我没法如预期那样运用源石......
+[name="普瑞赛斯"]加之那两个泰拉人的莽撞行为，我没法如预期那样运用源石……
 [name="普瑞赛斯"]但这不代表你们如此草率地使用我们研发的技术就能改变既定的事实。
 [dialog]
 [Decision(options="阿米娅！", values="1")]
@@ -299,11 +299,11 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=2, block=true)]
 粉色的丝线从阿米娅法杖中迸发而出，在被源石封闭的空间中飞舞。
 但你能清楚地意识到，阿米娅正承受着巨大的压力。
-普瑞赛斯的身形也彻底被源石所遮挡......
+普瑞赛斯的身形也彻底被源石所遮挡……
 每一块源石的碎片中，每一个源石的棱面上，你们都能清晰地看到普瑞赛斯的眼睛。
-就像是......
+就像是……
 [dialog]
-[Decision(options="她......无处不在。", values="1")]
+[Decision(options="她……无处不在。", values="1")]
 [Predicate(references="1")]
 [name="阿米娅"]博士，特蕾西娅小姐正指引我怎样用更高的效率来施展这个全新的法术！
 [name="阿米娅"]我确信我已经暂时削弱了普瑞赛斯对源石的掌控，应该能够继续拖住她一段时间——
@@ -312,7 +312,7 @@
 [SoundVolume(volume=0.2, channel="a",fadetime=2)]
 [SoundVolume(volume=0.2, channel="sur",fadetime=2)]
 [name="Mantra"]博士，阿米娅，我们已进入Abyss，刚刚一瞬间源石对我们的干扰减弱了。
-[name="阿米娅"]......是刚才......
+[name="阿米娅"]……是刚才……
 [name="Mantra"]Raidian迅速重建了我们之间的联系，但情况棘手，我只能勉强用源石技艺来帮助Raidian完成沟通。
 [name="Mantra"]另外，她没有搜索到凯尔希医生的生物信号。
 [name="Mantra"]你们在哪？情况如何？
@@ -349,7 +349,7 @@
 [name="华法琳"]我的病人还在这，我会亲自带他们撤离。
 [name="华法琳"]不用担心我。
 [charslot(slot = "m", name = "avg_171_bldsk_1#10$1")]
-[name="华法琳"]（凯尔希，为什么没有听到你的消息......）
+[name="华法琳"]（凯尔希，为什么没有听到你的消息……）
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
@@ -377,11 +377,11 @@
 [name="可露希尔"]怎么没有听到她的动静？
 [dialog]
 [charslot(slot = "m", focus="n")]
-[Decision(options="......;她在全力帮助大家拖延时间。", values="1;2")]
+[Decision(options="……;她在全力帮助大家拖延时间。", values="1;2")]
 [Predicate(references="1;2")]
 [Decision(options="我和阿米娅也会坚持到最后一刻。", values="1")]
 [Predicate(references="1")]
-[Decision(options="罗德岛......", values="1")]
+[Decision(options="罗德岛……", values="1")]
 [Predicate(references="1")]
 [Decision(options="拜托你们了。", values="1")]
 [Predicate(references="1")]
@@ -437,15 +437,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.1, block=true)]
 [name="Logos"]——？
 [name="Mechanist"]怎么了，Logos？
-[name="Logos"]那并非我的光......
+[name="Logos"]那并非我的光……
 [dialog]
 [playMusic(intro="$lab_intro",key="$lab_loop", volume=0.6)]
 [cgitem(image="cgitem_60_i16", style="cg",sfrom = 1, sto = 1.5, sduration = 0.01, pfrom = "0,0",pto = "-55,-300", pduration = 0.01, rfrom=-11, rto=-11, rduration=0.1, afrom = 0, ato = 1, aduration = 0.5, layer = 1)]
 [Delay(time=2)]
 黑暗中，高悬的菱形光环微微晃动着。
 如同一只冰冷的眼睛俯瞰着在场的所有人。
-[name="阿斯卡纶"]戒备......
-[name="煌"]......是凯尔希医生提到的“普瑞赛斯”吗？
+[name="阿斯卡纶"]戒备……
+[name="煌"]……是凯尔希医生提到的“普瑞赛斯”吗？
 [name="Raidian"]恐怕不是。
 [name="Raidian"]我探测到突然出现了大量杂乱但熟悉的信号。
 [name="Raidian"]那些信号来自罗德岛本身。
@@ -459,12 +459,12 @@
 [Image(image="60_i16", screenadapt="coverall", xScale=1.2, yScale=1.2, y=-50, fadetime=0.5)]
 [ImageTween(xScaleFrom=1.2, yScaleFrom=1.2, xScaleTo=1, yScaleTo=1, yFrom=-50, yTo=0, duration=20, block=false)]
 [Delay(time=1)]
-[name="Misery"]这是......什么东西？
+[name="Misery"]这是……什么东西？
 庞大的机械构造物在无尽的白噪中缓缓浮现在了所有人的面前——
 构成其主体的部件，在场之人都很熟悉。
 可露希尔曾许多次向大家展示这些她对罗德岛不同模块改造时所用的部件，甚至一些特殊部件就出自精英干员之手。
 [name="Touch"]PRTS重组了罗德岛的设备作为武器。
-[name="Touch"]可......这些部件是从哪冒出来的？Abyss里明明没有......
+[name="Touch"]可……这些部件是从哪冒出来的？Abyss里明明没有……
 [name="阿斯卡纶"]源石。
 源石的晶簇不规则地遍布在这尊造型独特的机械上。
 它们不再仅仅吞噬，而是开始了创造。
@@ -482,7 +482,7 @@ Logos想起了内化宇宙中那座高塔，也想起了殿下。
 [Delay(time=1.5)]
 [name="迷迭香"]可以动手。
 此时，菱形的眼睛光芒更甚。
-由PRTS控制形成的拟态机械开始蓄积能量......
+由PRTS控制形成的拟态机械开始蓄积能量……
 [dialog]
 [PlaySound(key="$d_avg_energygather", volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

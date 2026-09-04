@@ -36,7 +36,7 @@
 [name="Lancet-2"]  唔，确切地说，对我来说，并没有“无聊”的概念呢。
 [name="Lancet-2"]  虽然我可以理解迪伦先生你现在的感情，可露希尔姐姐也经常会发出这样的感慨，以及通常这样的情况下她就会去做些奇怪的事。
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=2)]
-[name="迪伦"]  ......我不是第一次这么想了，Lancet-2，你和其他小车里面真的不是装了个人吗？
+[name="迪伦"]  ……我不是第一次这么想了，Lancet-2，你和其他小车里面真的不是装了个人吗？
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=1)]
 [name="Lancet-2"]  不是呢，我的里面是精密的电路结构，你要看吗？
 [name="Lancet-2"]  虽然由于我的性格预设是女性，所以对于向异性展现身体这件事，我可能会做出一些我自己都无法预想的额外行动。
@@ -52,7 +52,7 @@
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=2)]
 [name="迪伦"]  别啊，这样不就显得我更惨了。
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=1)]
-[name="Lancet-2"]  ......难道说，迪伦先生想看我的泳装吗？
+[name="Lancet-2"]  ……难道说，迪伦先生想看我的泳装吗？
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=2)]
 [name="迪伦"]  才不要啊！
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=1)]
@@ -69,7 +69,7 @@
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=1)]
 [name="Lancet-2"]  迪伦先生向往那样的生活吗？
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=2)]
-[name="迪伦"]  嗯？向往啊......虽然那几天确实很爽，不过真要我一直过那样的生活，我肯定是过不惯的。
+[name="迪伦"]  嗯？向往啊……虽然那几天确实很爽，不过真要我一直过那样的生活，我肯定是过不惯的。
 [name="迪伦"]  还是在驾驶舱里吃泡面，每天日夜颠倒的生活适合我。
 [Character(name="char_285_medic2_1", name2="avg_npc_012", focus=1)]
 [name="Lancet-2"]  这样可不行，迪伦先生，我来为你设计一套比较科学健康的作息表吧。
@@ -110,7 +110,7 @@
 [name="迪伦"]  嗯？让我看看。
 [delay(time=1)]
 [Character(name="avg_npc_012")]
-[name="迪伦"]  ......Lancet-2，看来我们有事做了。
+[name="迪伦"]  ……Lancet-2，看来我们有事做了。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]
 [Character]
@@ -139,11 +139,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_415_flint_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="燧石"]  ......
+[name="燧石"]  ……
 [Character(name="char_415_flint_1", name2="char_017_homura_summer", focus=2)]
 [name="煌"]  战意盎然啊，小姑娘。
 [Character(name="char_415_flint_1", name2="char_017_homura_summer", focus=1)]
-[name="燧石"]  ......
+[name="燧石"]  ……
 [Dialog]
 [Character(name="char_415_flint_1")]
 意识到语言不通的克玛尔没有说话，只是摆出一个架势。
@@ -161,7 +161,7 @@
 [Character(name="char_337_utage_summer_1#3", name2="char_201_moeshd_summer", focus=1)]
 [name="宴"]  真不知道打架有什么好玩的。
 [Character(name="char_337_utage_summer_1#3", name2="char_201_moeshd_summer", focus=2)]
-[name="可颂"]  ......你在战斗的时候可不是你说的这样哦，宴。
+[name="可颂"]  ……你在战斗的时候可不是你说的这样哦，宴。
 [Character(name="char_337_utage_summer_1", name2="char_201_moeshd_summer", focus=1)]
 [name="宴"]  啊哈哈，说的也是。
 [name="宴"]  话说，可颂你穿的不是泳装吧。
@@ -173,7 +173,7 @@
 [Character(name="char_337_utage_summer_1#2", name2="char_201_moeshd_summer", focus=2)]
 [name="可颂"]  是呢，我也是第一次来到这样的野外，感觉比想象的要有趣多了~
 [Character(name="char_337_utage_summer_1#4", name2="char_201_moeshd_summer", focus=1)]
-[name="宴"]  咦......
+[name="宴"]  咦……
 [Character(name="char_337_utage_summer_1#4", name2="char_201_moeshd_summer", focus=2)]
 [name="可颂"]  怎么了？
 [Character(name="char_337_utage_summer_1#4")]
@@ -191,7 +191,7 @@
 [ImageTween(xFrom=10, yFrom=0, xTo=-10, yTo=0, xScale=1.03, yScale=1.03, duration=30, block=false)]
 [Character(name="char_187_ccheal_summer_1")]
 [name="嘉维尔"]  博士，这座瀑布不错吧。
-[Decision(options="很不错。;......;一般般。",values="1;2;3")]
+[Decision(options="很不错。;……;一般般。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_summer_1")]
 [name="嘉维尔"]  哈哈，我以前也很喜欢来这里洗澡。
@@ -205,23 +205,23 @@
 [Character(name="char_187_ccheal_summer_1")]
 [name="嘉维尔"]  渡过这里，然后再走一段路，应该就要到祖玛玛的部族了。
 [name="嘉维尔"]  收到特米米的来信时，我可没有想到事情会变成这样。
-[name="嘉维尔"]  ......唉，博士，我这几天一直有一件事比较苦恼，我们也算交情不错了，我就问问你好了。
+[name="嘉维尔"]  ……唉，博士，我这几天一直有一件事比较苦恼，我们也算交情不错了，我就问问你好了。
 [Character(name="char_187_ccheal_summer_1")]
 [delay(time=1)]
-[name="嘉维尔"]  你觉得......
+[name="嘉维尔"]  你觉得……
 [name="宴"]  博——士——！
 [name="嘉维尔"]  怎么了？我正在和博士说话呢。
 [name="宴"]  看那边！
-[name="嘉维尔"]  那是......小刻？
+[name="嘉维尔"]  那是……小刻？
 [name="刻俄柏"]  找到啦，是蘑菇海洋！
 [name="刻俄柏"]  洗澡咯！
 [name="嘉维尔"]  看起来还没恢复神智的样子。
 [name="宴"]  但是她在水里打滚的样子好可爱哦。
 [name="嘉维尔"]  唉，这个傻孩子。
-[name="嘉维尔"]  干脆让她就这么玩一会儿好了......
+[name="嘉维尔"]  干脆让她就这么玩一会儿好了……
 [name="嘉维尔"]  比起这个，博士，我刚才要和你说的是——
 [name="嘉维尔"]  你觉得我的尾巴和以前比有没有变粗？
-[Decision(options="粗了。;......;没注意。",values="1;2;3")]
+[Decision(options="粗了。;……;没注意。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_summer_1")]
 [CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
@@ -242,7 +242,7 @@
 [Character]
 [Image]
 [Blocker(a=0, fadetime=2, block=true)]
-[Decision(options="你对祖玛玛没什么想法吗？;......;聊聊尾巴吧。",values="1;2;3")]
+[Decision(options="你对祖玛玛没什么想法吗？;……;聊聊尾巴吧。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_summer_1")]
 [name="嘉维尔"]  嗯？想法是什么意思？
@@ -290,7 +290,7 @@
 [Character(name="char_187_ccheal_summer_1")]
 [name="嘉维尔"]  呃，随你吧。
 [name="嘉维尔"]  总之，这下人就到齐了。
-[name="嘉维尔"]  我去让小刻清醒一下......
+[name="嘉维尔"]  我去让小刻清醒一下……
 [character]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="刻俄柏"]  休息结束！小刻要继续战斗了！
@@ -300,7 +300,7 @@
 [name="嘉维尔"]  什么？
 [name="嘉维尔"]  啧，大家快把衣服换好了！快追！
 [Character(name="char_411_tomimi_1#4")]
-[name="特米米"]  这个方向，好像是祖玛玛部族的方向......
+[name="特米米"]  这个方向，好像是祖玛玛部族的方向……
 [Character(name="char_337_utage_summer_1#4")]
 [name="宴"]  等一下！你换得这么快的吗？！
 [name="宴"]  等等我们啊！

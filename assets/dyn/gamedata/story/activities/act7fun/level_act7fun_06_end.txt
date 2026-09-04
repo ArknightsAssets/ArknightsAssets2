@@ -12,7 +12,7 @@
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2250_1#2$1",focus="m",duration=1)]
 [delay(time=2)]
-[name="博士？"]   不、不会吧，忙活了这么久......
+[name="博士？"]   不、不会吧，忙活了这么久……
 [charslot(slot = "m", name = "avg_npc_2250_1#5$1",focus="m")]
 [name="博士？"]   只把原型之手破坏了就结束了？这样的话，下次集成战略他们岂不是还有金酒之杯可以用吗？
 [charslot(slot = "m", name = "avg_npc_2251_1#5$1",focus="m")]
@@ -20,7 +20,7 @@
 [charslot(slot = "m", name = "avg_npc_2250_1#6$1",focus="m")]
 [name="博士？"]   我不甘心啊！明年开始的复刻也都只是一模一样地重复一遍而已啊！
 [charslot(slot = "m", name = "avg_npc_2252_1#2$1",focus="m")]
-[name="凯尔希？"]   ......你给我走。别为难阿米娅了。
+[name="凯尔希？"]   ……你给我走。别为难阿米娅了。
 [charslot(slot = "m", name = "avg_npc_2254_1#6$1",focus="m")]
 [name="银灰？"]  走吧走吧，这里太残酷了。我得去找个对我好点的妹妹。
 [dialog]
@@ -47,7 +47,7 @@
 [Decision(options="这到底是怎么回事？", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#7$1",focus="m")]
-[name="阿米娅"]   我也不知道，可能......是某种神奇的源石技艺吧。
+[name="阿米娅"]   我也不知道，可能……是某种神奇的源石技艺吧。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#16$1",focus="m")]
 [name="阿米娅"]   希望我们不会受到什么影响。
 [dialog]
@@ -75,11 +75,11 @@
 [charslot(slot = "l", name = "avg_npc_2255_1#3$1",focus="l")]
 [name="能天使？"]  事情就这么解决了？
 [charslot(slot = "r", name = "avg_npc_2256_1#4$1",focus="r")]
-[name="德克萨斯？"]  怎么还没完......
+[name="德克萨斯？"]  怎么还没完……
 [charslot(slot = "l", name = "avg_npc_2255_1#5$1",focus="l")]
 [name="能天使？"]  按照这个节奏，我们啥时候能动画化？应该能做个泡面番？
 [charslot(slot = "r", name = "avg_npc_2256_1#6$1",focus="r")]
-[name="德克萨斯？"]  ......你傻吗？
+[name="德克萨斯？"]  ……你傻吗？
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=4, block=true)]

@@ -5,7 +5,7 @@
 [Battle.UnlockFunction(mask="CHARACTER_INFO")]
 [Battle.UnlockFunction(mask="CHARACTER_MENU")]
 
-[PopupDialog(dialogHead="$avatar_myrrh")] 啊，是炮弹......
+[PopupDialog(dialogHead="$avatar_myrrh")] 啊，是炮弹……
 [Battle.EnsureMinSp(charId="char_381_bubble", sp=100)]
 
 

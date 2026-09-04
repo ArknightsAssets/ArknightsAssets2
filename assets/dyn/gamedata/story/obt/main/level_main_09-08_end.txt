@@ -35,7 +35,7 @@
 [delay(time=1)]
 [name="号角"]别逼我，否则的话，抵着你下巴的就不是我的盾了。
 [character(name="avg_npc_229_1#1",name2="avg_npc_248",focus=2)]
-[name="副官希尔"]咳、咳咳......要是您拔剑的话，您就是在袭击同僚......
+[name="副官希尔"]咳、咳咳……要是您拔剑的话，您就是在袭击同僚……
 [character(name="avg_npc_229_1#1",name2="avg_npc_248",focus=1)]
 [name="号角"]呵，同僚？
 [character(name="avg_npc_229_1#7",name2="avg_npc_248",focus=1)]
@@ -44,7 +44,7 @@
 [name="号角"]回答我！！！
 [character(name="avg_npc_229_1#7",name2="avg_npc_248",focus=2)]
 [name="副官希尔"]嘶——
-[name="副官希尔"]就算......您......在这里切断我的喉管......您也不能改变......上校的决定......
+[name="副官希尔"]就算……您……在这里切断我的喉管……您也不能改变……上校的决定……
 [character(name="avg_npc_229_1#1",name2="avg_npc_248",focus=1)]
 [name="号角"]是吗？
 [name="号角"]你真的没有听说过风暴突击队的战士能做到什么程度，是不是？
@@ -52,15 +52,15 @@
 [name="号角"]这里只有我一个。但是，我向你保证，你不会想知道我搞定你们需要花多少时间。
 [character(name="avg_npc_241")]
 [name="维多利亚士兵"]你、你放下武器！
-[name="维多利亚士兵"]不然的话，我......我们这就杀了她！
+[name="维多利亚士兵"]不然的话，我……我们这就杀了她！
 [character(name="avg_npc_229_1#4",name2="avg_npc_241",focus=1)]
-[name="号角"]......大提琴。
+[name="号角"]……大提琴。
 [character(name="avg_npc_229_1#1",name2="avg_npc_241",focus=1)]
-[name="号角"]......
+[name="号角"]……
 [character(name="avg_npc_241")]
 [name="维多利亚士兵"]我说真的！你敢动一下，我的弩立刻射穿她的脖子！
 [character(name="avg_npc_229_1#7",name2="avg_npc_241",focus=1)]
-[name="号角"]............
+[name="号角"]…………
 [character(name="avg_npc_229_1#1",name2="avg_npc_241",focus=1)]
 [name="号角"]好。
 [name="号角"]你们赢了。
@@ -74,7 +74,7 @@
 [name="维多利亚士兵"]制服她！快上，一起上，不能让她再碰到盾和剑！
 [delay(time=2)]
 [character(name="avg_npc_229_1#1")]
-[name="号角"]希尔......你告诉汉密尔顿......
+[name="号角"]希尔……你告诉汉密尔顿……
 [name="号角"]维多利亚以他为耻。
 [Dialog]
 [CameraShake(duration=0.3, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -83,7 +83,7 @@
 [character(name="char_empty",fadetime=1)]
 [delay(time=3)]
 [character(name="avg_npc_248")]
-[name="副官希尔"]......上校并不需要维多利亚的感激。
+[name="副官希尔"]……上校并不需要维多利亚的感激。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -114,7 +114,7 @@
 [character(name="avg_npc_245_1#1",name2="char_013_riop",focus=2)]
 [name="干员奥利弗"]您说的没错。唉，希望很快这座城市又能恢复往日的平静。
 [character(name="avg_npc_089")]
-[name="干员碎纸机"]......仓库里的药，清点结束。
+[name="干员碎纸机"]……仓库里的药，清点结束。
 [character(name="avg_npc_245_1#1")]
 [name="Outcast"]麻烦你们把这些药分一分，确保每个人都能带上足量的应急药品，直到大家顺利转移至最近的办事处。
 [character(name="avg_npc_089",name2="char_013_riop",focus=1)]
@@ -124,12 +124,12 @@
 [character(name="avg_npc_245_1#3",name2="avg_npc_089",focus=1)]
 [name="Outcast"]碎纸机，虽然你沉默依旧，但我看得出来，你有自己的想法。
 [character(name="avg_npc_245_1#3",name2="avg_npc_089",focus=2)]
-[name="干员碎纸机"]......城里的人们，需要药品。
+[name="干员碎纸机"]……城里的人们，需要药品。
 [character(name="avg_npc_245_1#1",name2="avg_npc_089",focus=1)]
 [name="Outcast"]刚好，我也这么认为。一旦战火蔓延开，各项基础补给都会告急，尤其是需要长期服用的矿石病镇痛和抑制药物。
 [name="Outcast"]我想你应该有附近医院的名单吧？
 [character(name="avg_npc_245_1#1",name2="avg_npc_089",focus=2)]
-[name="干员碎纸机"]......已经整理好了。
+[name="干员碎纸机"]……已经整理好了。
 [character(name="avg_npc_245_1#1",name2="avg_npc_089",focus=1)]
 [name="Outcast"]想办法给他们送过去。无论这些机构为谁服务，都要尽量送到。
 [name="Outcast"]对了，别忘记那些开在巷子里的小诊所，它们大多没有招牌，可我们相当多的当地朋友们全指望它们。
@@ -140,7 +140,7 @@
 [character(name="avg_npc_245_1#1",name2="char_013_riop",focus=2)]
 [name="干员奥利弗"]确实！原来您都想好了啊。可是我们谁负责去送呢？附近的人们都知道我们是罗德岛的人。
 [character(name="avg_479_sleach_1#6$1",name2="avg_npc_245_1#1",focus=1)]
-[name="简妮"]......我去。我会帮助碎纸机大哥打包药品，然后我来送药。
+[name="简妮"]……我去。我会帮助碎纸机大哥打包药品，然后我来送药。
 [character(name="avg_479_sleach_1#6$1",name2="avg_npc_245_1#1",focus=2)]
 [name="Outcast"]简，你好些了？
 [character(name="avg_479_sleach_1#1$1",name2="avg_npc_245_1#1",focus=1)]
@@ -197,7 +197,7 @@ Outcast说着，从身侧的武器袋中拔出了一把左轮手铳。
 [character(name="avg_479_sleach_1#4$1",name2="avg_npc_245_1#1",focus=1)]
 [name="简妮"]就像现在这样吗？
 [character(name="avg_479_sleach_1#5$1",name2="avg_npc_245_1#1",focus=1)]
-[name="简妮"]我也没想到小丘郡会变得这么不平静，明明几十个小时前，我们还聚在一起打牌喝茶......
+[name="简妮"]我也没想到小丘郡会变得这么不平静，明明几十个小时前，我们还聚在一起打牌喝茶……
 [character(name="avg_479_sleach_1#4$1",name2="avg_npc_245_1#6",focus=2)]
 [name="Outcast"]许多时候，局势就如同天色，总是瞬息万变。
 [character(name="avg_479_sleach_1#4$1",name2="avg_npc_245_1#1",focus=2)]
@@ -206,11 +206,11 @@ Outcast说着，从身侧的武器袋中拔出了一把左轮手铳。
 [character]
 [delay(time=1)]
 [character(name="avg_npc_089")]
-[name="干员碎纸机"]......女士，都准备好了。
+[name="干员碎纸机"]……女士，都准备好了。
 [character(name="avg_479_sleach_1#1$1")]
 [name="简妮"]朋友们，是时候说再见了。
 [character(name="char_013_riop")]
-[name="干员奥利弗"]小简妮......
+[name="干员奥利弗"]小简妮……
 [character(name="avg_479_sleach_1#7$1")]
 [name="简妮"]不必这么难过，奥利弗叔叔，我相信Outcast的话——我们一定还能再见面的！
 [character(name="avg_npc_089")]
@@ -223,9 +223,9 @@ Outcast说着，从身侧的武器袋中拔出了一把左轮手铳。
 [PlaySound(key="$d_gen_explo_n",volume=0.2)]
 [delay(time=1)]
 [character(name="avg_479_sleach_1#4$1")]
-[name="简妮"]唔......我是不是听见了雷声？
+[name="简妮"]唔……我是不是听见了雷声？
 [character(name="char_013_riop")]
-[name="干员碎纸机"]......马上就要下雨了。
+[name="干员碎纸机"]……马上就要下雨了。
 [character(name="avg_npc_245_1#5")]
 [name="Outcast"]不，这个声音不大对劲。简，你先别出门！
 [Dialog]
@@ -253,24 +253,24 @@ Outcast说着，从身侧的武器袋中拔出了一把左轮手铳。
 [playsound(key="$rungeneral")]
 [character(name="avg_222_bpipe_1#7",name2="avg_npc_242",fadetime=1.5,focus=1)]
 [delay(time=2)]
-[name="风笛"]您还在就好......是这样的，我要找信使，我们有重要的消息要传出城去！
+[name="风笛"]您还在就好……是这样的，我要找信使，我们有重要的消息要传出城去！
 [character(name="avg_222_bpipe_1#7",name2="avg_npc_242",focus=2)]
 [name="厨子麦克马丁"]好，我都明白。刚好，我也有东西要交给你。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=1)]
-[name="风笛"]欸？这是什么？一张......纸？
+[name="风笛"]欸？这是什么？一张……纸？
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=2)]
 [name="厨子麦克马丁"]是一名驻军军官——叫路易斯·凯利的那位，他刚刚交给我的。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=1)]
 [name="风笛"]凯利上尉？他怎么会跟你联络？
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=2)]
 [name="厨子麦克马丁"]放心，他压根不知道我是谁，只不过因为我是他最后撞见的人。
-[name="厨子麦克马丁"]我本来是去周围打探消息，毕竟我记得自己的老本行是吧......没想到我竟然遇上了驻军在抓他！
+[name="厨子麦克马丁"]我本来是去周围打探消息，毕竟我记得自己的老本行是吧……没想到我竟然遇上了驻军在抓他！
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=1)]
-[name="风笛"]抓......他？你的意思是，凯利上尉被自己人抓了？！
+[name="风笛"]抓……他？你的意思是，凯利上尉被自己人抓了？！
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=2)]
 [name="厨子麦克马丁"]他们说他窝藏矿石病人！可这不对啊，他儿子几个月前因为矿石病去世，城里的人都知道，他第一时间就上报了他儿子生病的消息！
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_242",focus=1)]
-[name="风笛"]这群人......拿这么悲惨的疾病当借口？太无耻了吧！
+[name="风笛"]这群人……拿这么悲惨的疾病当借口？太无耻了吧！
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_242",focus=2)]
 [name="厨子麦克马丁"]也不是一次两次了，对想把各种歧视摆上台面的人来说，矿石病真是一个特别好用的幌子。
 [name="厨子麦克马丁"]就像这次，驻军是为了清理内部塔拉出身的人。
@@ -294,7 +294,7 @@ Outcast说着，从身侧的武器袋中拔出了一把左轮手铳。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=2)]
 [name="信使麦克马丁"]别忘了，传递消息也是我们点灯人老本行的一部分。哎，我这总算能接点像样的任务了，我的手跟腿都在兴奋地发抖。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=1)]
-[name="风笛"]咦等下，外面有什么声音......
+[name="风笛"]咦等下，外面有什么声音……
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_242",focus=2)]
 [name="信使麦克马丁"]是在打雷吧？
 [character(name="avg_222_bpipe_1#7",name2="avg_npc_242",focus=1)]
@@ -330,7 +330,7 @@ Outcast说着，从身侧的武器袋中拔出了一把左轮手铳。
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [character(name="avg_222_bpipe_1#2")]
-[name="风笛"]这......这不是打雷！
+[name="风笛"]这……这不是打雷！
 [character(name="avg_222_bpipe_1#6")]
 [name="风笛"]不，厨子先生——
 [Dialog]

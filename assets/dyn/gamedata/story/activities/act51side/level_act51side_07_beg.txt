@@ -16,13 +16,13 @@
 [playMusic(intro="$path_intro",key="$path_loop", volume=0.6)]
 [PlaySound(key="$doorknockquite")]
 [name="弑君者"]坚雷女士，我来提交近期的报告——
-[name="弑君者"]......坚雷女士？
+[name="弑君者"]……坚雷女士？
 [dialog]
 [CameraShake(duration=0.3, fadeout=true, xstrength=5, ystrength=15, vibrato=10, randomness=90, block=false)]
 [PlaySound(key="$d_avg_heavyobject_putdown",volume=0.7)]
 [delay(time=1)]
 眼前只有一片混乱，看不出任何有人的踪迹。弑君者开始把面前的纸箱搬开，试图给自己清出一条道路来。
-[name="弑君者"]怎么还是这么乱......完全没地方下脚。
+[name="弑君者"]怎么还是这么乱……完全没地方下脚。
 [name="弑君者"]坚雷——
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
@@ -37,7 +37,7 @@
 [dialog]
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",duration=0.5)]
 [delay(time=1)]
-[name="弑君者"]......
+[name="弑君者"]……
 [charslot(slot="m",name="avg_1051_headb2_1#5$1")]
 [name="凛冬"]啊，是你。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
@@ -48,7 +48,7 @@
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
 [name="弑君者"]我的报告在这，麻烦你转交一下。
 [charslot(slot="m",name="avg_1051_headb2_1#1$1")]
-[name="凛冬"]......行。
+[name="凛冬"]……行。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
 [dialog]
 [playsound(key="$d_gen_walk_n", loop=true, channel="bgs")]
@@ -60,7 +60,7 @@
 [charslot]
 [name="弑君者"]还有什么事？
 [charslot(slot="m",name="avg_1051_headb2_1#10$1")]
-[name="凛冬"]呃......
+[name="凛冬"]呃……
 [charslot(slot="m",name="avg_1051_headb2_1#4$1")]
 [name="凛冬"]虽然你看上去好像不愿意跟我们说话，总是独来独往，但大家都是乌萨斯人，如今又都是罗德岛的干员。
 [charslot(slot="m",name="avg_1051_headb2_1#1$1")]
@@ -69,7 +69,7 @@
 [charslot]
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",duration=0.5)]
 [delay(time=1)]
-[name="弑君者"]......你们需要什么？
+[name="弑君者"]……你们需要什么？
 [charslot(slot="m",name="avg_1051_headb2_1#6$1")]
 [name="凛冬"]不是！我是想说，如果你有什么需要，是可以向办事处、向我们寻求帮助的，懂吗？没必要什么事都自己扛着。
 [charslot(slot="m",name="avg_1051_headb2_1#2$1")]
@@ -83,7 +83,7 @@
 [name="凛冬"]更重要的是，你和我们站在一起，现在又正是缺人的时候，这就够了。
 [name="凛冬"]所以，如果你需要帮助，不要忘了告诉我们。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
-[name="弑君者"]......
+[name="弑君者"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(duration=1)]
@@ -110,11 +110,11 @@
 [delay(time=1)]
 [name="被捕的工人"]柳德米拉！
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
-[name="弑君者"]......我正想去保释你。
+[name="弑君者"]……我正想去保释你。
 [charslot(slot="m",name="avg_npc_1979_1#1$1")]
 [name="被捕的工人"]那就感谢有人做好事，又给咱们省了一笔保释金吧！
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
-[name="弑君者"]你是怎么被放出来的？刚才的爆炸声又是......
+[name="弑君者"]你是怎么被放出来的？刚才的爆炸声又是……
 [charslot]
 [name="远处的声音"]——都逃跑——
 [name="远处的声音"]快追——！
@@ -122,7 +122,7 @@
 [name="被捕的工人"]圣骏堡嘛，这种事不稀奇。
 [name="被捕的工人"]还是先别说了，要是站这等那些草包警察过来，我就又得进去蹲着了。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
-[name="弑君者"]......先别回去，跟我走。我还有事要问你。
+[name="弑君者"]……先别回去，跟我走。我还有事要问你。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -141,11 +141,11 @@
 [charslot(slot = "right", name = "avg_1502_crosly_1#1$1",focus="r")]
 [name="弑君者"]不要以貌取人。你手上的货都卖完了吗？
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
-[name="被捕的工人"]还有一个人没跟我碰头，被抓走之前我就是在等他。奥多耶夫区的那个......叫什么来着？
+[name="被捕的工人"]还有一个人没跟我碰头，被抓走之前我就是在等他。奥多耶夫区的那个……叫什么来着？
 [charslot(slot = "right", name = "avg_1502_crosly_1#1$1",focus="r")]
 [name="弑君者"]鲁斯，理发师，住在第五大道，他家里有两个刚出生的孩子，妻子死于流感并发症。
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
-[name="被捕的工人"]对......对，是他。除了他之外，其他人我都已经交接好了。
+[name="被捕的工人"]对……对，是他。除了他之外，其他人我都已经交接好了。
 [charslot(slot = "right", name = "avg_1502_crosly_1#1$1",focus="r")]
 [name="弑君者"]能量转换器的钱他们都是怎么付的？
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
@@ -153,7 +153,7 @@
 [charslot(slot = "right", name = "avg_1502_crosly_1#1$1",focus="r")]
 [name="弑君者"]没错。
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
-[name="被捕的工人"]......原来你在考我！我有这么不可靠吗？
+[name="被捕的工人"]……原来你在考我！我有这么不可靠吗？
 [charslot(slot = "right", name = "avg_1502_crosly_1#1$1",focus="r")]
 [name="弑君者"]可靠的人一般不会让自己被抓进拘留所里。
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
@@ -164,9 +164,9 @@
 [name="弑君者"]不，我理解你们中有的人想多赚些钱的理由，但方法不该是去剥削比自己生活得更困难的人，这不是我选择分销时想看到的。
 [name="弑君者"]我有其他渠道，却选择和你们分销而不是独自经营，这样做是徒增风险，你们应该明白。
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
-[name="被捕的工人"]说真的，我到现在都不懂你为什么要做这么吃力不讨好的事......宁愿自己吃亏，也要给其他人提供便利。
+[name="被捕的工人"]说真的，我到现在都不懂你为什么要做这么吃力不讨好的事……宁愿自己吃亏，也要给其他人提供便利。
 [charslot(slot = "right", name = "avg_1502_crosly_1#3$1",focus="r")]
-[name="弑君者"]......
+[name="弑君者"]……
 [charslot(slot = "right", name = "avg_1502_crosly_1#1$1",focus="r")]
 [name="弑君者"]鲁斯那边我已经交接好了，但之后招揽新客户的事需要暂停一段时间，有消息我再通知你。
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
@@ -175,7 +175,7 @@
 [name="弑君者"]之前的储备还能支撑现有用户的需要，大概能维持两周左右，在这期间，我会想办法接上货源。
 [name="弑君者"]如果有新客户找上门来，小心辨认，用我给你的那些钱，能帮的话就帮一下，但不要告诉他们供应链的问题，以免引起恐慌。
 [charslot(slot = "left", name = "avg_npc_1979_1#1$1",focus="l")]
-[name="被捕的工人"]我当然是相信你的......有什么我能帮你的吗？
+[name="被捕的工人"]我当然是相信你的……有什么我能帮你的吗？
 [charslot(slot = "right", name = "avg_1502_crosly_1#1$1",focus="r")]
 [name="弑君者"]不用，这是我的责任。接下来我可能会出城几天，如果有人问起我的动向，你替我应付一下。
 [name="弑君者"]谢谢。
@@ -214,7 +214,7 @@
 [playMusic(intro="$darkness01_intro",key="$darkness01_loop", volume=0.6)]
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",duration=0.5)]
 [delay(time=1)]
-[name="弑君者"]......应该是这儿......
+[name="弑君者"]……应该是这儿……
 [charslot]
 [PlaySound(key="$d_avg_clothmovement")]
 弑君者蹲下身，抹去地上的积灰，一道用刀锋凿出来的印记逐渐清晰。
@@ -231,7 +231,7 @@
 [PlaySound(key="$transmission")]
 [name="弑君者"]能听见吗？
 [charslot(slot = "m", focus = "n")]
-......
+……
 [charslot(slot="l",name="avg_1502_crosly_1#1$1")]
 [name="弑君者"]喂？
 [dialog]
@@ -245,16 +245,16 @@
 [name="弑君者"]这是新的安全屋，已经确认过没有窃听器和监控摄像头。
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
 [charslot(slot = "m", focus = "n")]
-[name="？？？"]好，我时间有限......
+[name="？？？"]好，我时间有限……
 [interlude(channel = 3, type = 3, slot = "m", switch = false)]
 [charslot(slot="l",name="avg_1502_crosly_1#5$1",focus="l")]
-[name="弑君者"]......你还好吗？
+[name="弑君者"]……你还好吗？
 [charslot(slot = "m", focus = "n")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
-[name="？？？"]不太好，但这不重要。我们偷偷往圣骏堡转移能源这件事很可能已经被发现了，我暂时还没有受到处罚......
+[name="？？？"]不太好，但这不重要。我们偷偷往圣骏堡转移能源这件事很可能已经被发现了，我暂时还没有受到处罚……
 [interlude(channel = 3, type = 3, slot = "m", switch = false)]
 [charslot(slot="l",name="avg_1502_crosly_1#6$1",focus="l")]
-[name="弑君者"]......
+[name="弑君者"]……
 [charslot(slot = "m", focus = "n")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
 [name="？？？"]他们已经翻新了通讯基站，很可能下一步是新建能源管道，然后将原来的那条废弃。在这之前，我们必须做好两手准备。
@@ -269,17 +269,17 @@
 [name="？？？"]我听说这边已经有工人被抽调走了，圣骏堡没有任何相关消息吗？
 [interlude(channel = 3, type = 3, slot = "m", switch = false)]
 [charslot(slot="l",name="avg_1502_crosly_1#3$1",focus="l")]
-[name="弑君者"]没有，圣骏堡本身......有它的问题。
+[name="弑君者"]没有，圣骏堡本身……有它的问题。
 [charslot(slot = "m", focus = "n")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
 [name="？？？"]你是指之前提到过的那些学生——
 [interlude(channel = 3, type = 3, slot = "m", switch = false)]
 [charslot(slot="l",name="avg_1502_crosly_1#1$1",focus="l")]
-[name="弑君者"]就算矿脉枯竭的消息没能被封锁，你们正在研究的东西还是给了议会拖延的时间。加上第四集团军前不久也面临了自己内部的动乱......
+[name="弑君者"]就算矿脉枯竭的消息没能被封锁，你们正在研究的东西还是给了议会拖延的时间。加上第四集团军前不久也面临了自己内部的动乱……
 [name="弑君者"]贵族、军队、工人，这里暂时都没人轻举妄动，除了对这些背后的暗涌一无所知的学生。
 [charslot(slot = "m", focus = "n")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
-[name="？？？"]......
+[name="？？？"]……
 [interlude(channel = 3, type = 3, slot = "m", switch = false)]
 [charslot(slot="l",name="avg_1502_crosly_1#6$1",focus="l")]
 [name="弑君者"]啊，我不是在指责你。只是，如果你能告诉我更多关于你们正在研究的项目——
@@ -306,10 +306,10 @@
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
 [name="？？？"]试试吧，试试。如果你找到了，可以继续用这个频道尝试联络我。
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
-[name="？？？"]如果没有......那恐怕就只能等我找到机会，再主动联络你了。要是两周之后我还没有消息，你就销毁所有和我联络过的痕迹。
+[name="？？？"]如果没有……那恐怕就只能等我找到机会，再主动联络你了。要是两周之后我还没有消息，你就销毁所有和我联络过的痕迹。
 [interlude(channel = 3, type = 3, slot = "m", switch = false)]
 [charslot(slot="l",name="avg_1502_crosly_1#1$1",focus="l")]
-[name="弑君者"]......我们都先想想办法吧。
+[name="弑君者"]……我们都先想想办法吧。
 [name="弑君者"]保重。
 [charslot(slot = "m", focus = "n")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true)]
@@ -346,7 +346,7 @@
 [charslot(slot="m",name="avg_260_durnar_1#7$1")]
 [name="坚雷"]而且，这些也是让正在外面奔走，或暂时陷入困境的她们，没有后顾之忧的重要任务！
 [charslot(slot="m",name="avg_196_sunbr_1#15$1")]
-[name="古米"]这些都很重要，我明白。可如果我唯独在救凛冬姐这件事上帮不上忙......
+[name="古米"]这些都很重要，我明白。可如果我唯独在救凛冬姐这件事上帮不上忙……
 [charslot(slot="m",name="avg_196_sunbr_1#7$1")]
 [name="古米"]我不想这样。那天要不是我出了状况，凛冬姐也不会被抓走！
 [charslot(slot="m",name="avg_260_durnar_1#10$1")]
@@ -362,7 +362,7 @@
 [charslot(slot="m",name="avg_196_sunbr_1#9$1")]
 [name="古米"]凛冬姐被警察抓走了——咦，弑君者小姐！
 [charslot(slot="m",name="avg_1502_crosly_1#5$1")]
-[name="弑君者"]......可以直接叫我柳德米拉。你说凛冬被警察抓走了是什么意思？
+[name="弑君者"]……可以直接叫我柳德米拉。你说凛冬被警察抓走了是什么意思？
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -372,29 +372,29 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [playMusic(key="$darkness_03_loop", volume=0.6)]
-[name="弑君者"]......该死。我该早几天过来的。你们知道她现在在哪儿吗？我能帮什么忙？
+[name="弑君者"]……该死。我该早几天过来的。你们知道她现在在哪儿吗？我能帮什么忙？
 [charslot(slot="m",name="avg_260_durnar_1#3$1")]
 [name="坚雷"]凛冬在封锁区，救她的事我们已经在想办法了。
 [charslot(slot="m",name="avg_1502_crosly_1#5$1")]
 [name="弑君者"]封锁区？卡托加区？那地方基本已经是巴普洛维奇的独立王国了，你们——罗德岛在这其中能做什么？
 [charslot(slot="m",name="avg_196_sunbr_1#15$1")]
-[name="古米"]......
+[name="古米"]……
 [charslot(slot="m",name="avg_260_durnar_1#10$1")]
-[name="坚雷"]是乌萨斯学生自治团......是这些孩子们，自己在想办法救自己的同伴。
+[name="坚雷"]是乌萨斯学生自治团……是这些孩子们，自己在想办法救自己的同伴。
 [charslot(slot="m",name="avg_196_sunbr_1#15$1")]
-[name="古米"]可我没有帮上忙！凛冬姐是因为我才被抓进去的，我却什么也做不了......
+[name="古米"]可我没有帮上忙！凛冬姐是因为我才被抓进去的，我却什么也做不了……
 [charslot(slot="m",name="avg_1502_crosly_1#5$1")]
 [name="弑君者"]你们确定凛冬目前被关在封锁区里？
 [charslot(slot="m",name="avg_260_durnar_1#3$1")]
 [name="坚雷"]早露通过多方查证，确认了这点。她也已经通过某种渠道见过那位巴普洛维奇大人。
 [charslot(slot="m",name="avg_1502_crosly_1#3$1")]
-[name="弑君者"]但她也没办法把凛冬救出来......或者说，是凛冬自己不想走。
+[name="弑君者"]但她也没办法把凛冬救出来……或者说，是凛冬自己不想走。
 [charslot(slot="m",name="avg_196_sunbr_1#11$1")]
 [name="古米"]凛冬姐不想出来？
 [charslot(slot="m",name="avg_260_durnar_1#8$1")]
 [name="坚雷"]你为什么这么说——
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
-[name="弑君者"]......直觉。
+[name="弑君者"]……直觉。
 [name="弑君者"]办事处有没有更新型号的通讯器？独立搭建线路的那种，不走商用通讯基站。这几天我找了很多渠道，连黑市都没人出售。
 [charslot(slot="m",name="avg_260_durnar_1#9$1")]
 [name="坚雷"]这种东西听起来是只有各国军方，或者可露希尔那种喜欢自己瞎鼓捣的家伙才会有的。
@@ -416,7 +416,7 @@
 [charslot(slot="m",name="avg_1502_crosly_1#2$1")]
 [name="弑君者"]嘘。
 [charslot(slot="m",name="avg_260_durnar_1#2$1")]
-[name="坚雷"]......最近城里出现的便宜能源，原来是你在运作。
+[name="坚雷"]……最近城里出现的便宜能源，原来是你在运作。
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
 [name="弑君者"]还有很多人在帮忙。
 [charslot(slot="m",name="avg_260_durnar_1#3$1")]
@@ -426,7 +426,7 @@
 [charslot(slot="m",name="avg_260_durnar_1#7$1")]
 [name="坚雷"]你也小心，可别被发现了。
 [charslot(slot="m",name="avg_196_sunbr_1#21$1")]
-[name="古米"]（小声）通讯器......通讯器？
+[name="古米"]（小声）通讯器……通讯器？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
 [name="弑君者"]什么？
 [charslot(slot="m",name="avg_196_sunbr_1#9$1")]
@@ -436,7 +436,7 @@
 [charslot(slot="m",name="avg_1502_crosly_1#4$1")]
 [name="弑君者"]这个学生现在在哪儿？
 [charslot(slot="m",name="avg_196_sunbr_1#21$1")]
-[name="古米"]......我不知道。东西是凛冬姐借到的，可能只有她才知道那个人在哪儿了。
+[name="古米"]……我不知道。东西是凛冬姐借到的，可能只有她才知道那个人在哪儿了。
 [Dialog]
 [delay(time=2)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

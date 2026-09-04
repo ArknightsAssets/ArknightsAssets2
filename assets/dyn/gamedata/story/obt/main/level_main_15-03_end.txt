@@ -48,13 +48,13 @@
 [charslot(slot="m",name="avg_npc_1723_1#1$1")]
 [name="可露希尔"]——弗里斯顿先生，请再次自检，确认已经完全无法接收到PRTS的信号。
 [charslot(slot="m",name="avg_4093_frston_1#1$1")]
-[name="Friston-3"]......？
+[name="Friston-3"]……？
 [dialog]
 [PlaySound(key="$tokenset", volume=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4093_frston_1#1$1")]
 [name="Friston-3"]你应该庆幸没有出任何纰漏，我的确没法再连入到PRTS中。
-[name="Friston-3"]嗯......就像眼睛看不清了一样。这种感觉很微妙，我并不喜欢。
+[name="Friston-3"]嗯……就像眼睛看不清了一样。这种感觉很微妙，我并不喜欢。
 [charslot(slot="m",name="avg_npc_1723_1#9$1")]
 [name="可露希尔"]太好了！
 [charslot(slot="m",name="avg_4093_frston_1#4$1")]
@@ -66,7 +66,7 @@
 [name="Friston-3"]我拒绝假想如此高风险的操作，这与杀死我那些可爱的“同事”无异——
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_npc_1723_1#6$1")]
-[name="可露希尔"]如果......我们不得不这么做呢？
+[name="可露希尔"]如果……我们不得不这么做呢？
 [charslot(slot="m",name="avg_4093_frston_1#1$1")]
 [name="Friston-3"]请告知我你得出这种结论的理由。
 [name="Friston-3"]你们发现了什么？
@@ -85,7 +85,7 @@
 [charslot(slot="m",name="avg_npc_1723_1#4$1")]
 [name="可露希尔"]日志显示大部分报错都是同事们偶然操作失误引起的。
 [charslot(slot="m",name="avg_1037_amiya3_1#7$2")]
-[name="阿米娅"]......唔，又是这样吗？
+[name="阿米娅"]……唔，又是这样吗？
 [charslot(slot="m",name="avg_npc_1723_1#1$1")]
 [name="可露希尔"]无论如何，备用系统已经在抓紧部署了。
 [name="可露希尔"]按凯尔希的建议，新的独立终端指挥系统试用版重新更新了框架。我给它取了个名字，叫ZOOT。
@@ -106,14 +106,14 @@
 [name="可露希尔"]PRTS在罗德岛的日常运转中依旧无法替代，大量医疗数据和资源调配的演算都必须依赖它。
 [name="可露希尔"]但最大阻碍其实是如何搭建一个足够可靠的数据中心和能源中心来支持新指挥系统的运作。
 [name="可露希尔"]PRTS在这方面的潜力无可比拟，完成罗德岛海量的高精度演算需求的同时，它仍有余力。
-[name="可露希尔"]可惜实在弄不懂它的底层逻辑......哪怕完全模仿它设计的ZOOT也总是会在预料不到的奇怪地方报错。
+[name="可露希尔"]可惜实在弄不懂它的底层逻辑……哪怕完全模仿它设计的ZOOT也总是会在预料不到的奇怪地方报错。
 [charslot(slot="m",name="avg_1037_amiya3_1#1$2")]
 [name="阿米娅"]如果借助“阿喃那”呢？
 [name="阿米娅"]可露希尔小姐，我看到了你在我提交的报告上的批注和猜想。
 [charslot(slot="m",name="avg_npc_1723_1#1$1")]
 [name="可露希尔"]依照卡兹戴尔办事处对“阿喃那”的数据记录以及实验，理论上的确存在利用“阿喃那”作为数据和能源中心的可能。
 [charslot(slot="m",name="avg_npc_1723_1#4$1")]
-[name="可露希尔"]但......
+[name="可露希尔"]但……
 [dialog]
 [charslot(slot = "m", focus="n")]
 [Decision(options="同样具有风险。;我们尚不完全熟悉“阿喃那”。", values="1;2")]
@@ -128,7 +128,7 @@
 [Decision(options="去增援卡兹戴尔办事处的干员还习惯吗？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1037_amiya3_1#1$2")]
-[name="阿米娅"]刚去时大家的确很惊讶，他们大多惯常地认为那座城市会更......糟糕些。
+[name="阿米娅"]刚去时大家的确很惊讶，他们大多惯常地认为那座城市会更……糟糕些。
 [name="阿米娅"]不过干员们都习惯得很快，月见夜先生和我一起返回时甚至都还有点舍不得在那边新认识的朋友们。
 [charslot(slot="m",name="avg_npc_1723_1#1$1")]
 [name="可露希尔"]博士，我们如今还有必要继续向各地的办事处增派人手吗？
@@ -159,7 +159,7 @@
 [name="凯尔希"]这样能在减轻驻舰人员顾虑的同时提高大家应对突发情况的速度。
 [charslot(slot="m",name="avg_npc_1723_1#11$1")]
 [name="可露希尔"]呃，但我还是有点疑问，凯尔希。
-[name="可露希尔"]这意味着要拆解本舰绝大部分的结构......
+[name="可露希尔"]这意味着要拆解本舰绝大部分的结构……
 [charslot(slot="m",name="avg_1037_amiya3_1#1$2")]
 [name="阿米娅"]凯尔希医生，您决定加快本舰防卫布局的原因只是PRTS最近的异常吗？
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
@@ -172,13 +172,13 @@
 [charslot(slot="m",name="avg_npc_1723_1#11$1")]
 [name="可露希尔"]如果它不再受我们控制，又是根据谁的指令在运行？
 [charslot(slot="m",name="avg_1037_amiya3_1#6$2")]
-[name="阿米娅"]......您担心威胁来自内部？
+[name="阿米娅"]……您担心威胁来自内部？
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]阿米娅，这种可能性一直都存在。
 [charslot(slot="m",name="avg_npc_1723_1#4$1")]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [charslot(slot="m",name="avg_1037_amiya3_1#6$2")]
-[name="阿米娅"]......我相信您，凯尔希医生。
+[name="阿米娅"]……我相信您，凯尔希医生。
 [charslot(slot="m",name="avg_npc_1723_1#11$1")]
 [name="可露希尔"]呼，真是头疼呀。博士，你觉得呢？
 [dialog]
@@ -214,7 +214,7 @@
 [name="凯尔希"]我有一个冒险的想法。
 [Predicate(references="2")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
-[name="凯尔希"]......冒险的决定，但很合理。
+[name="凯尔希"]……冒险的决定，但很合理。
 [name="凯尔希"]通过克莱门莎和歌蕾蒂娅的私人渠道，我们甚至不必与阿戈尔官方建立联系。我可以确保这件事被低调地妥当安排。
 [name="凯尔希"]甚至我们能顺便展开技术交流，华法琳对此应该会很开心。
 [name="凯尔希"]博士，我赞同这个想法。
@@ -234,7 +234,7 @@
 [name="凯尔希"]只需要等到医疗中心恢复运作，剩下的病人就可以全部转移到阿戈尔。
 [charslot(slot="m",name="avg_npc_1723_1#1$1")]
 [name="可露希尔"]这件事就交给我吧，长途运送患者的保障载具已经可以投入使用了。
-[name="可露希尔"]此外，有关后勤部和工程部的转移安排......
+[name="可露希尔"]此外，有关后勤部和工程部的转移安排……
 [name="可露希尔"]我也征求了同事们的意见，大伙对暂时搬迁到卡兹戴尔都很有激情。
 [name="可露希尔"]很多人都是当年和我们一起挺过来的老伙计，重新回到卡兹戴尔对他们而言意味着很多事情。
 [charslot(slot="m",name="avg_1037_amiya3_1#1$2")]
@@ -273,20 +273,20 @@
 [charslot(slot="m",name="avg_npc_1723_1#1$1")]
 [name="可露希尔"]博士，其他还有一些辅助设施就交给我去和大伙对接吧。
 [charslot(slot="m",name="avg_npc_1723_1#6$1")]
-[name="可露希尔"]现在还剩最后一件麻烦事......
+[name="可露希尔"]现在还剩最后一件麻烦事……
 [charslot]
 众人看着面前被摊开的蓝图，指挥中心完全安静了下来。
 [charslot(slot="m",name="avg_npc_1723_1#6$1")]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [charslot(slot="m",name="avg_1037_amiya3_1#6$2")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]这里就是我们一切行动的关键。
 [charslot(slot="m",focus="n")]
 凯尔希指向蓝图中央的一片区域。
 [dialog]
 [charslot(slot = "m", focus="n")]
-[Decision(options="......Abyss......", values="1")]
+[Decision(options="……Abyss……", values="1")]
 [Predicate(references="1")]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -308,7 +308,7 @@ Abyss。
 [name="凯尔希"]如刚才所说，PRTS的异常要是有某种缘由，那Abyss必然牵涉其中。
 [name="凯尔希"]你认为我们应当如何处理这块区域，Dr.{@nickname}？
 [Dialog]
-[Decision(options="......;我也毫无头绪。", values="1;2")]
+[Decision(options="……;我也毫无头绪。", values="1;2")]
 [Predicate(references="1;2")]
 [dialog]
 [Decision(options="我需要前往这里进行调查。", values="1")]
@@ -322,7 +322,7 @@ Abyss。
 [name="凯尔希"]十五日。
 [name="凯尔希"]在此期间，我需要你配合我完成全面的身体数据检测和数据比对，Dr.{@nickname}。
 [Dialog]
-[Decision(options="......;我会配合。", values="1;2")]
+[Decision(options="……;我会配合。", values="1;2")]
 [Predicate(references="1;2")]
 [name="阿米娅"]凯尔希医生，Abyss里到底有什么？
 [name="凯尔希"]一切的起点，一切的终点。
@@ -335,7 +335,7 @@ Abyss。
 [Decision(options="凯尔希，我想先去Abyss那里看看。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#3$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot="m",focus="n")]
 凯尔希似乎明白了你的用意，随即轻轻点了点头。
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
@@ -364,7 +364,7 @@ Abyss。
 [Decision(options="按你所言，这是我最初从泰拉醒来的地方？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
-[name="凯尔希"]......物理层面上而言，的确如此。但你的情况要复杂得多。
+[name="凯尔希"]……物理层面上而言，的确如此。但你的情况要复杂得多。
 [name="凯尔希"]来到这里，你是否还能想起任何事情？
 [Dialog]
 [charslot(slot="m",focus="n")]
@@ -373,7 +373,7 @@ Abyss。
 凯尔希摇了摇头。
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]只是希望确认你的身体无恙。
-[name="凯尔希"]从伦蒂尼姆撤出之后，我们在特里蒙和弥利亚留姆的行动都不可避免地触及了这片大地的过往......你的过往。
+[name="凯尔希"]从伦蒂尼姆撤出之后，我们在特里蒙和弥利亚留姆的行动都不可避免地触及了这片大地的过往……你的过往。
 [Dialog]
 [charslot(slot="m",focus="n")]
 [Decision(options="我在源石内化宇宙中窥探到了我的使命。", values="1")]
@@ -408,7 +408,7 @@ Abyss。
 [Decision(options="她在这。;普瑞赛斯在这？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#5$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]这才是你选择让这场对话避开阿米娅和可露希尔的原因。
 [Dialog]
 [charslot(slot="m",focus="n")]
@@ -432,13 +432,13 @@ Abyss。
 [Decision(options="PRTS究竟发生了什么。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
-[name="凯尔希"]我们在内化宇宙的遭遇本就充满了疑点，而特蕾西娅与特雷西斯联手夺下那枚最初的源石后......
+[name="凯尔希"]我们在内化宇宙的遭遇本就充满了疑点，而特蕾西娅与特雷西斯联手夺下那枚最初的源石后……
 [name="凯尔希"]我心底便一直有一种最坏的猜想。
 [charslot(slot="m",name="avg_003_kalts_1#2$1")]
 [name="凯尔希"]或许在“阿喃那”降临的时刻，她已苏醒。
 [Dialog]
 [charslot(slot="m",focus="n")]
-[Decision(options="......？！", values="1")]
+[Decision(options="……？！", values="1")]
 [Predicate(references="1")]
 [Dialog]
 [charslot(slot="m",focus="n")]
@@ -468,7 +468,7 @@ Abyss。
 [Decision(options="我可以帮你做什么吗？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
-[name="凯尔希"]不......对于现在的你来说，接触这些若即若离的过去是一种沉重的负担，而我暂时也没有办法能帮你卸下这种负担。
+[name="凯尔希"]不……对于现在的你来说，接触这些若即若离的过去是一种沉重的负担，而我暂时也没有办法能帮你卸下这种负担。
 [name="凯尔希"]多去帮帮阿米娅和其他人吧，Abyss的问题就交给我来处理。
 [name="凯尔希"]如果你愿意相信我的话。
 [Dialog]
@@ -485,7 +485,7 @@ Abyss。
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1")]
 [name="凯尔希"]谢谢你的关心，{@nickname}。
-[name="凯尔希"]......我明白。
+[name="凯尔希"]……我明白。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -502,16 +502,16 @@ Abyss。
 [Subtitle(text="访问人：凯尔希", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="你好，凯尔希，我们又见面了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [Dialog]
 [Subtitle(text="你看上去需要我的帮助。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [name="凯尔希"]是的。
 [name="凯尔希"]请检索一份技术档案，关键词，“安眠桥”。
 [dialog]
-[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]你还在吗？
 [Dialog]
 [Subtitle(text="我在。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
@@ -519,21 +519,21 @@ Abyss。
 [Subtitle(text="你越界了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [name="凯尔希"]我知道。
-[name="凯尔希"]但我们需要它，“特蕾西娅”......
+[name="凯尔希"]但我们需要它，“特蕾西娅”……
 [name="凯尔希"]矿石病演变的速度正在加快，源石的威胁也在日益加深，罗德岛必须找到更有效的手段来应对。
 [Dialog]
-[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Subtitle(text="我理解你的理由，但我无法提供，你的请求违背了DWDB-221E的底层逻辑。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [Dialog]
-[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Subtitle(text="但我可以提供绕过限制的方法，凯尔希——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“深潜”。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -542,9 +542,9 @@ Abyss。
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1719_1#9$1")]
 [name="希尔达"]“宇宙”？“深潜”？
-[name="希尔达"]您所描述的，还有我所看到的......都太过超越想象。
+[name="希尔达"]您所描述的，还有我所看到的……都太过超越想象。
 [charslot(slot="m",name="avg_npc_1719_1#10$1")]
-[name="希尔达"]对这个国度，我有太多的疑问和想法，可......
+[name="希尔达"]对这个国度，我有太多的疑问和想法，可……
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="屈光者"]语言。无法描述。你的。无法解释。我的。
 [name="屈光者"]共性。思维。存在。
@@ -565,7 +565,7 @@ Abyss。
 庞大的仪器瞬间吸引了卡特斯的目光。
 她感觉到天旋地转，仪器扭曲了光，也扭曲了她的意识。
 在卡特斯的眼中，它时而以肉眼无法捕捉的速度旋转，时而却又完全静止。
-[name="希尔达"]不，它、它好像还是在动，很慢......很慢。
+[name="希尔达"]不，它、它好像还是在动，很慢……很慢。
 她不敢再直视那个似乎可以完全吞噬她意识的仪器，却也控制不住身体的倒下。
 [Dialog]
 [playsound(key="$d_avg_clothmovement")]
@@ -584,7 +584,7 @@ Abyss。
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1719_1#2$1",duration=1)]
 [Delay(time=2)]
-[name="希尔达"]......
+[name="希尔达"]……
 [Dialog]
 [charslot]
 [bgeffect(name="$eb_projection_die",layer=1)]
@@ -595,7 +595,7 @@ Abyss。
 [Subtitle(text="“死亡”  。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
-卡特斯瞬间听到了数种不同的音调......
+卡特斯瞬间听到了数种不同的音调……
 雷姆必拓语，乌萨斯语，维多利亚语，还有她从教士口中听闻过的高卢语。而更多的，是她从未听闻过的奇异音调。
 但她却诡异地理解了那个词语的含义——
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
@@ -603,13 +603,13 @@ Abyss。
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="屈光者"]（奇怪的音调）♫
 [charslot(slot="m",name="avg_npc_1719_1#9$1")]
-[name="希尔达"]我、我能听懂您的声音......为什么——
+[name="希尔达"]我、我能听懂您的声音……为什么——
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="屈光者"]思维可以被锚定，言语可以被破译。
 [name="屈光者"]语言是工具，是权利，也是重塑我们存在的元素之一。
 [name="屈光者"]安塞塔，是这一时间片中最为伟大的发明之一。我们抹除了语言的障碍，我们填补了文明的隔阂。
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
-[name="希尔达"]那个符号......
+[name="希尔达"]那个符号……
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="屈光者"]思维的锚，解释所有已知语言的元文字，也是解析未知语言的工具。
 [name="屈光者"]“死亡”。
@@ -620,27 +620,27 @@ Abyss。
 [Delay(time=5)]
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
 [name="希尔达"]“降生”。
-[name="希尔达"]这就是你们的交流方式......？
+[name="希尔达"]这就是你们的交流方式……？
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="屈光者"]声音的交流并不高效，但充满了趣味，反映我们的情绪。
 [name="屈光者"]许多人依旧固执地保留了这样的传统，加深互相的情感。
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
-[name="希尔达"]......我并不完全理解。
+[name="希尔达"]……我并不完全理解。
 [name="希尔达"]现在您能告诉我，这里是什么地方吗？
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="屈光者"]一艘在坟墓中打捞死亡的航船。
-[name="屈光者"]我们在被光照亮的废墟中寻找解答终极问题的答案......在同样的毁灭降临于我们的身上之前。
+[name="屈光者"]我们在被光照亮的废墟中寻找解答终极问题的答案……在同样的毁灭降临于我们的身上之前。
 [name="屈光者"]在“死亡”降临之前。
 [charslot(slot="m",name="avg_npc_1719_1#6$1")]
 [name="希尔达"]——？！
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
-[name="屈光者"]你所造访的地方，它的主人称呼它为......
+[name="屈光者"]你所造访的地方，它的主人称呼它为……
 [name="屈光者"]“罗德岛”。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [charslot]
 卡特斯感到困惑。
-她不再为所处环境的奇异而困惑，她困惑的是......
+她不再为所处环境的奇异而困惑，她困惑的是……
 神明，为什么会死去？
 [Dialog]
 [Delay(time=1)]

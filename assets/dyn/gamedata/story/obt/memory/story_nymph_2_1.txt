@@ -46,7 +46,7 @@
 [charslot(slot="m",name="avg_npc_1493_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="间谍"]......这是怎么了？我刚刚晕过去了？
+[name="间谍"]……这是怎么了？我刚刚晕过去了？
 [name="间谍"]不行，我必须得赶紧——跑！
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="n")]
@@ -71,7 +71,7 @@
 [name="妮芙"]哦！你是说，那些王酋军？
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]对，就是他们！我不过是撬开了那个王酋的宝库，带走了一样东西，他居然派人追杀我这么远！
-[name="间谍"]东西，东西......我拿走了什么东西来着？嘶，我的头——
+[name="间谍"]东西，东西……我拿走了什么东西来着？嘶，我的头——
 [charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="l")]
 [name="妮芙"]既然是冒险偷来的宝贝，一般人都会贴身藏起来吧？
 [Dialog]
@@ -81,13 +81,13 @@
 间谍一阵摸索，竟真的从身上掏出了一个精美的卷轴来。
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]一幅地图？我拼死从王酋宝库里偷出来的，竟然只是一幅地图？
-[name="间谍"]这上面......是军事布防？难怪他们穷追不舍。可是，谁派我来的？我到底是谁？
+[name="间谍"]这上面……是军事布防？难怪他们穷追不舍。可是，谁派我来的？我到底是谁？
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
 [name="妮芙"]别着急，慢慢想，你的头受了不轻的伤，我刚刚才替你包扎好。
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]萨卡兹，你还没说你到底是谁。
 [charslot(slot="l",name="avg_4146_nymph_1#4$1",focus="l")]
-[name="妮芙"]其实......
+[name="妮芙"]其实……
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
 [name="妮芙"]我是你的俘虏来着。因为觉得有点丢人，所以刚才一直没好意思说。
 [name="妮芙"]你在路上抓住了我，还把我的手用钥索捆起来了。
@@ -100,7 +100,7 @@
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]愚蠢！荒漠里有不少清泉，只是你们这些外来者不懂找到它们的办法！
 [name="间谍"]跟我走！
-[name="间谍"]......奇怪，自己的名字想不起来，那眼泉水的位置倒是记得清清楚楚。
+[name="间谍"]……奇怪，自己的名字想不起来，那眼泉水的位置倒是记得清清楚楚。
 [name="间谍"]（摸向自己额头的伤口）王酋养的那些废物，下手还真狠啊！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -113,7 +113,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
-[name="间谍"]呼......不用你搀扶我！没几步了。
+[name="间谍"]呼……不用你搀扶我！没几步了。
 [charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="l")]
 [name="妮芙"]我们已经朝着荒漠深处走了两个钟头了，这里真的会有水源吗？
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
@@ -133,7 +133,7 @@
 坑底的沙子是湿润的，粘在间谍的手指上。她炫耀般地朝妮芙举起手。
 [name="间谍"]我没记错！泉水就在这里。
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
-[name="妮芙"]这里有......泉水？
+[name="妮芙"]这里有……泉水？
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_sandftsingle",volume=0.4)]
@@ -152,7 +152,7 @@
 [Dialog]
 [charslot(slot="l",name="avg_4146_nymph_1#7$1",focus="l")]
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="l")]
-[name="妮芙"]我来萨尔贡也有一段时间了，可从来不知道荒漠里居然有这样古老的......地下泉？
+[name="妮芙"]我来萨尔贡也有一段时间了，可从来不知道荒漠里居然有这样古老的……地下泉？
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]你当然不会知道，这可是王酋们一直试图抹掉的故事。他们可不希望剿灭沙盗的正义行动被解读成一场持续了几百年的私仇报复。
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
@@ -168,7 +168,7 @@
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
 [name="妮芙"]可以跟我讲讲这眼泉水的故事吗？王酋和沙盗之间又有什么样的私仇呢？
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
-[name="间谍"]我不确定我还记得多少......
+[name="间谍"]我不确定我还记得多少……
 [Dialog]
 [playsound(key="$d_avg_hungry", volume=1)]
 [Delay(time=1.5)]
@@ -207,7 +207,7 @@
 [name="间谍"]争执的具体原因已没人记得，但两个共患难的好友就这样在泉水边拔刀相向，彼此结仇。
 [name="间谍"]这份仇恨被他们的后代继承，于是两个家族开始争夺那一眼清泉，即便他们早已不缺食物和水了。
 [charslot(slot="l",name="avg_4146_nymph_1#14$1",focus="l")]
-[name="妮芙"]他们已经忘记了仇恨的起点，却将那份仇恨的情感继承了下来......这听起来，有些熟悉。
+[name="妮芙"]他们已经忘记了仇恨的起点，却将那份仇恨的情感继承了下来……这听起来，有些熟悉。
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]哈，萨卡兹。
 [name="间谍"]几百年过去了，那眼清泉不断易主，也在不断萎缩。它早已不具备任何价值了，可人们还是为了它互相杀戮。
@@ -255,7 +255,7 @@
 [name="妮芙"]但你至少还记得她说过的话，不是吗？你还记得她比我年纪大些呢！
 [name="妮芙"]至少在她长大的过程中，你一直在她身边，对吗？
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
-[name="间谍"]我......不确定。
+[name="间谍"]我……不确定。
 [name="间谍"]你也有父母，如果有一天，你的父母不记得你了，你会生他们的气吗？
 [charslot(slot="l",name="avg_4146_nymph_1#1$1",focus="l")]
 [name="妮芙"]当然不会啦。其实，我的父母在我很小的时候就离开了我。
@@ -288,7 +288,7 @@
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]你走吧。跟着我只会被连累。
 [charslot(slot="l",name="avg_4146_nymph_1#17$1",focus="l")]
-[name="妮芙"]......你是认真的？
+[name="妮芙"]……你是认真的？
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="间谍"]走啊！！
 [Dialog]
@@ -322,11 +322,11 @@
 [Delay(time=1)]
 妮芙递出一个蓝色的文件夹。
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="间谍"]......这是什么？
+[name="间谍"]……这是什么？
 [charslot(slot="m",name="avg_4146_nymph_1#9$1",focus="m")]
 [name="妮芙"]这是一份标准格式的授权委托书，委托人是你，受托方是罗德岛。
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="间谍"]......罗德岛？你到底是什么人？
+[name="间谍"]……罗德岛？你到底是什么人？
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
 [name="妮芙"]在这份委托书上签字，罗德岛就可以介入，替你摆脱追杀。
 [name="妮芙"]抱歉，我撒了谎。我不是你的俘虏，我是罗德岛派驻萨尔贡的外勤干员。
@@ -352,7 +352,7 @@
 [charslot(slot="m",name="avg_4146_nymph_1#17$1",focus="m")]
 [name="妮芙"]你还在生我的气吗？
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="间谍"]我早就看出你不对劲了，比如你这一身漂亮衣服，还有那根法杖，还有那个手提箱，还有......
+[name="间谍"]我早就看出你不对劲了，比如你这一身漂亮衣服，还有那根法杖，还有那个手提箱，还有……
 [name="间谍"]还有你一口袋的巧克力和甜点！
 [charslot(slot="m",name="avg_4146_nymph_1#10$1",focus="m")]
 [name="妮芙"]好吧，我明白你意思了。
@@ -400,7 +400,7 @@
 [charslot(slot="l",name="avg_4146_nymph_1#13$1",focus="l")]
 [name="妮芙"]吃下这片药，它能缓解疼痛。
 [charslot(slot="l",name="avg_4146_nymph_1#10$1",focus="l")]
-[name="妮芙"]请不要拒绝......我可以帮你。
+[name="妮芙"]请不要拒绝……我可以帮你。
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
 [name="间谍"]为什么？因为我很惨，让你觉得可怜？还是因为你就是个天生的大善人，看见人就想帮忙？
 [name="间谍"]如果是后者，你为什么不去帮那些王酋军？如果是前者，我不需要别人可怜我！
@@ -546,7 +546,7 @@
 [name="齐提特-努库尔提"]滚开！带着你幼稚的幻想滚出我的营地！
 [name="齐提特-努库尔提"]再也不要回来！
 [charslot(slot="l",name="avg_npc_1495_1#1$1",focus="l")]
-[name="年轻的女性"]遵命......母亲。
+[name="年轻的女性"]遵命……母亲。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -569,11 +569,11 @@
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
-[multiline(name="齐提特-努库尔提")]不，孩子？怎么会是——你的手......
+[multiline(name="齐提特-努库尔提")]不，孩子？怎么会是——你的手……
 [CameraShake(duration=0.5, xstrength=12, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [multiline(name="齐提特-努库尔提")]他们对你做了什么？！
 [charslot(slot="l",name="avg_npc_165",focus="l")]
-[name="哭泣的沙盗"]那个混蛋装出一副仁明的模样，先是为她赐下制图学士的官职，赞赏她休战筑城的主张，又逼迫她画出我们的布防，她不肯......
+[name="哭泣的沙盗"]那个混蛋装出一副仁明的模样，先是为她赐下制图学士的官职，赞赏她休战筑城的主张，又逼迫她画出我们的布防，她不肯……
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="齐提特-努库尔提"]所以，他们杀了我的孩子！
 [name="齐提特-努库尔提"]不，不！孩子，你为什么这样愚蠢，竟劝说一个暴君选择和平！
@@ -629,7 +629,7 @@
 [charslot(slot="m",name="avg_npc_1493_1#1$1",duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="齐提特-努库尔提"]孩子......这竟是你最后留下的痕迹。
+[name="齐提特-努库尔提"]孩子……这竟是你最后留下的痕迹。
 [name="齐提特-努库尔提"]从始至终，我都仅仅是想找回它，保护好它。
 [name="齐提特-努库尔提"]抱歉啊，孩子，我以前从未仔细去看你画的那些图卷。
 [Dialog]
@@ -693,7 +693,7 @@
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
 [name="妮芙"]罗德岛会想办法阻止这一切。
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="齐提特-努库尔提"]......
+[name="齐提特-努库尔提"]……
 [charslot(slot="m",name="avg_4146_nymph_1#1$1",focus="m")]
 [name="妮芙"]先休息吧，你累了。
 [Dialog]
@@ -752,7 +752,7 @@
 [name="齐提特-努库尔提"]这些不是委托书？这是，什么？
 [name="齐提特-努库尔提"]病历？住院档案？什么玩意？
 [charslot(slot="l",name="avg_4146_nymph_1#10$1",focus="l")]
-[name="妮芙"]......
+[name="妮芙"]……
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
 [name="齐提特-努库尔提"]等等，病历上的名字，是我？
 [name="齐提特-努库尔提"]可这张照片上的老人又是谁？！
@@ -762,7 +762,7 @@
 [name="齐提特-努库尔提"]我怎么会这么老？不对，不对！
 [charslot(slot="l",name="avg_4146_nymph_1#10$1",focus="l")]
 [name="妮芙"]抱歉，齐提特-努库尔提，这就是我最后隐瞒你的事情了。
-[name="妮芙"]还记得那两棵消失不见的枯树和那片乱石滩吗......你的记忆是真实的，只是，距离它们存在的时候，已经过去几十年了。
+[name="妮芙"]还记得那两棵消失不见的枯树和那片乱石滩吗……你的记忆是真实的，只是，距离它们存在的时候，已经过去几十年了。
 [name="妮芙"]当年，你在交换俘虏的仪式上突然发难，你的沙盗同伴全军覆没，你从宝库里劫走了那份地图后，也被王酋的士兵抓捕。
 [charslot(slot="l",name="avg_4146_nymph_1#4$1",focus="l")]
 [name="妮芙"]你被王酋在地牢中关押了三十年，一直没说出沙盗幸存者们的避难所的位置。
@@ -779,7 +779,7 @@
 [name="妮芙"]我一直觉得，你最深的病灶，在心灵当中。
 [name="妮芙"]所以，在那天晚上你逃出病房之后，我跟了上来。我希望能在这一路上，帮助你消除心里的痛苦。
 [charslot(slot="r",name="avg_npc_1493_1#1$1",focus="r")]
-[name="齐提特-努库尔提"]......居然已经过去了，这么久。
+[name="齐提特-努库尔提"]……居然已经过去了，这么久。
 [name="齐提特-努库尔提"]我本来以为自己，还有补救和改变的机会。
 [name="齐提特-努库尔提"]哈哈，原来这一路上，根本没人跟在后面追杀我。一直都是我自己，不想放过自己。
 [name="齐提特-努库尔提"]所以，那些委托书，也都是假的。一切都说得通了。
@@ -797,7 +797,7 @@
 齐提特-努库尔提拿起笔，手不住地颤抖，她望向妮芙的眼睛——
 那双眼睛里同样蓄满了泪水，但妮芙还是努力递出鼓励的眼神。
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="齐提特-努库尔提"]你的第一份委托，我拒绝了；第二份，让我放下仇恨，释放关押的人质......我同意了。
+[name="齐提特-努库尔提"]你的第一份委托，我拒绝了；第二份，让我放下仇恨，释放关押的人质……我同意了。
 [name="齐提特-努库尔提"]这说明，至少我最后，还是做出了改变，对吗？
 [Dialog]
 [charslot]
@@ -809,7 +809,7 @@
 齐提特-努库尔提看着自己的孩子走近，与她长久地拥抱。
 孩子擦去了齐提特-努库尔提脸上的泪水，然后握紧了她的手。
 [charslot(slot="m",name="avg_npc_1493_1#1$1",focus="m")]
-[name="齐提特-努库尔提"]孩子......
+[name="齐提特-努库尔提"]孩子……
 [charslot(slot = "m", name = "avg_npc_1495_1#1$1", afrom =0, ato = 0.8,duration =0, end = true)]
 [name="年轻的女性"]妈妈，没关系的，没关系。
 [Dialog]

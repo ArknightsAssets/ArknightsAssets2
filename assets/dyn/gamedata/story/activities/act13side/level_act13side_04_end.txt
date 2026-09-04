@@ -14,7 +14,7 @@
 [delay(time=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="你是家族的耻辱......如果被其他贵族知道，你会成为别人攻击你父亲的道具。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="你是家族的耻辱……如果被其他贵族知道，你会成为别人攻击你父亲的道具。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=0.6)]
@@ -44,7 +44,7 @@
 [delay(time=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="多么可敬又可悲......你的贵族父亲，你那不知名的母亲，他们竟然都爱着你。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
+[Subtitle(text="多么可敬又可悲……你的贵族父亲，你那不知名的母亲，他们竟然都爱着你。", x=200, y=370, alignment="center", size=24, delay=0.04, width=900)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
@@ -83,18 +83,18 @@
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Character(name="avg_1014_nearl2_1#4$1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="玛嘉烈"]  ......唔。
+[name="玛嘉烈"]  ……唔。
 [Character(name="avg_1014_nearl2_1#1$1")]
-[name="玛嘉烈"]  烛火和......阴影。
+[name="玛嘉烈"]  烛火和……阴影。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  真令人惊奇......你似乎很懂得如何对法术现象进行归纳......
+[name="烛骑士"]  真令人惊奇……你似乎很懂得如何对法术现象进行归纳……
 [name="烛骑士"]  当房间里点燃一支蜡烛时，最吸引你目光的是那点烛光，而真正将你包裹的，是周遭所有器物的影子。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#2$1", focus=2)]
-[name="玛嘉烈"]  令人赞叹的技艺，薇薇安娜......我的光甚至无法......照亮你。
+[name="玛嘉烈"]  令人赞叹的技艺，薇薇安娜……我的光甚至无法……照亮你。
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#2$1", focus=1)]
-[name="烛骑士"]  ......抱歉。
+[name="烛骑士"]  ……抱歉。
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#4$1", focus=2)]
-[name="玛嘉烈"]  ......什么？
+[name="玛嘉烈"]  ……什么？
 [Character(name="avg_npc_215_1#2", name2="avg_1014_nearl2_1#4$1", focus=1)]
 [name="烛骑士"]  我想，按礼节来说，我也应该称呼您的名字，玛嘉烈小姐。
 [stopmusic(fadetime=1)]
@@ -126,53 +126,53 @@
 [Character(name="avg_npc_064_weapon_1#2")]
 [name="佐菲娅"]  玛莉娅？玛莉娅！
 [Character(name="avg_npc_064_weapon_1#5")]
-[name="佐菲娅"]  人呢......既不在酒吧那边，也不在家......
+[name="佐菲娅"]  人呢……既不在酒吧那边，也不在家……
 [Character(name="avg_npc_064_weapon_1#6")]
-[name="佐菲娅"]  ......
+[name="佐菲娅"]  ……
 [Character(name="avg_npc_064_weapon_1#5")]
-[name="佐菲娅"]  ......不对......
+[name="佐菲娅"]  ……不对……
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_storehouse",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_061#6")]
-[name="玛莉娅"]  唔......唔？
-[name="玛莉娅"]  我怎么......
+[name="玛莉娅"]  唔……唔？
+[name="玛莉娅"]  我怎么……
 [dialog]
 [character]
 [Character(name="char_204_platnm_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="白金"]  ......
+[name="白金"]  ……
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=1)]
-[name="玛莉娅"]  ......你......？你是那个......
+[name="玛莉娅"]  ……你……？你是那个……
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=2)]
 [name="白金"]  无胄盟。
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="玛莉娅"]  ......！
+[name="玛莉娅"]  ……！
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1#3", focus=2)]
-[name="白金"]  ......不，别这么紧张。
+[name="白金"]  ……不，别这么紧张。
 [name="白金"]  只要你安安静静待着，我们是不会把你怎么样的。
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1#8", focus=2)]
-[name="白金"]  毕竟，要是把临光一家最宝贝的小女儿伤着了......耀骑士和玛恩纳是不会袖手旁观的。
+[name="白金"]  毕竟，要是把临光一家最宝贝的小女儿伤着了……耀骑士和玛恩纳是不会袖手旁观的。
 [Character(name="avg_npc_061#6", name2="char_204_platnm_1#8", focus=1)]
-[name="玛莉娅"]  你们......想逼姐姐认输？
+[name="玛莉娅"]  你们……想逼姐姐认输？
 [Character(name="avg_npc_061#6", name2="char_204_platnm_1", focus=2)]
 [name="白金"]  差不多吧。
-[name="白金"]  ......你知道锈铜那件事吗？现在感染者们的舆论已经甚嚣尘上。
+[name="白金"]  ……你知道锈铜那件事吗？现在感染者们的舆论已经甚嚣尘上。
 [Character(name="avg_npc_061#6", name2="char_204_platnm_1#3", focus=2)]
-[name="白金"]  你能想象在这个情况下，耀骑士要是真的拿到了冠军......会让事情演变成什么样？
+[name="白金"]  你能想象在这个情况下，耀骑士要是真的拿到了冠军……会让事情演变成什么样？
 [Character(name="avg_npc_061#6", name2="char_204_platnm_1", focus=2)]
 [name="白金"]  只要你姐姐乖乖输给烛骑士，我们就不用面对那么多问题，这不是最轻松的选择吗？
 [Character(name="avg_npc_061#7", name2="char_204_platnm_1", focus=1)]
-[name="玛莉娅"]  ......
+[name="玛莉娅"]  ……
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=1)]
-[name="玛莉娅"]  姐姐她......不会认输的。
+[name="玛莉娅"]  姐姐她……不会认输的。
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1#6", focus=2)]
-[name="白金"]  ......
+[name="白金"]  ……
 [name="白金"]  你知道吗，玛莉娅·临光。
-[name="白金"]  卡西米尔......就像一座塔，从底层仰望那盘旋向上的楼梯的顶端，永远，望不见尽头。
+[name="白金"]  卡西米尔……就像一座塔，从底层仰望那盘旋向上的楼梯的顶端，永远，望不见尽头。
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -186,7 +186,7 @@
 [character]
 [Character(name="avg_npc_108#2",fadetime=1,block=true)]
 [delay(time=1)]
-[name="玛恩纳"]  ......你说玛莉娅，怎么了？
+[name="玛恩纳"]  ……你说玛莉娅，怎么了？
 [stopmusic(fadetime=1.5)]
 [Dialog]
 [character]
@@ -261,15 +261,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Character(name="avg_npc_212_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="发言人麦基"]  您为什么不试着自己写诗呢？看看您多受欢迎，我会为您联络出版商，以您的名气和才华......
+[name="发言人麦基"]  您为什么不试着自己写诗呢？看看您多受欢迎，我会为您联络出版商，以您的名气和才华……
 [Character(name="avg_npc_215_1#3", name2="avg_npc_212_1", focus=1)]
-[name="烛骑士"]  我吗......？我是......做不到的。
+[name="烛骑士"]  我吗……？我是……做不到的。
 [Character(name="avg_npc_215_1#3", name2="avg_npc_212_1", focus=2)]
-[name="发言人麦基"]  您又谦虚了......
+[name="发言人麦基"]  您又谦虚了……
 [Character(name="avg_npc_215_1#1", name2="avg_npc_212_1", focus=1)]
 [name="烛骑士"]  不，我这不是什么谦辞，麦基。
 [Character(name="avg_npc_215_1#5", name2="avg_npc_212_1", focus=1)]
-[name="烛骑士"]  ......我......
+[name="烛骑士"]  ……我……
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -315,16 +315,16 @@
 [Blocker(a=0, fadetime=1.5, block=false)]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  ......玛嘉烈。
+[name="烛骑士"]  ……玛嘉烈。
 [name="烛骑士"]  点燃一座雄伟的塔楼，人们能从多远处看见烟雾？
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#1$1", focus=2)]
 [name="玛嘉烈"]  火焰焚烧不去人们内心的矛盾。
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  ......
+[name="烛骑士"]  ……
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#1$1", focus=2)]
 [name="玛嘉烈"]  人们会从很远很远的地方看见黑烟。但也许那曾是他们的家，他们赖以生存的故乡。
 [Character(name="avg_npc_215_1#3", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  ......那我就更不明白了。
+[name="烛骑士"]  ……那我就更不明白了。
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#1$1", focus=1)]
 [name="烛骑士"]  你这样的骑士，如果不是抱着改变什么的心思回到卡西米尔，你的目的又是什么？
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#2$1", focus=2)]
@@ -334,24 +334,24 @@
 [name="玛嘉烈"]  我回到这里，只为了提醒卡西米尔的骑士们，提醒卡西米尔的每一个人——
 [name="玛嘉烈"]  ——提醒他们，他们早已忘却的荣耀。
 [Character(name="avg_npc_215_1#3", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  提醒？在现在这个卡西米尔......如何提醒？
+[name="烛骑士"]  提醒？在现在这个卡西米尔……如何提醒？
 [Character(name="avg_npc_215_1#3", name2="avg_1014_nearl2_1#1$1", focus=2)]
-[name="玛嘉烈"]  ......你想从我这里找到答案，但我觉得我未必有这个资格，这不是能靠简单的对话实现的。
+[name="玛嘉烈"]  ……你想从我这里找到答案，但我觉得我未必有这个资格，这不是能靠简单的对话实现的。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  呵呵......您的源石技艺会读心吗？
+[name="烛骑士"]  呵呵……您的源石技艺会读心吗？
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#6$1", focus=2)]
 [name="玛嘉烈"]  我只是越发意识到您的正直。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=2)]
-[name="玛嘉烈"]  ......以及，您问过我，在这几年的流浪之中，我见识过什么。
+[name="玛嘉烈"]  ……以及，您问过我，在这几年的流浪之中，我见识过什么。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#2$1", focus=2)]
 [name="玛嘉烈"]  我见识过，这片大地最深重的惨剧。
 [name="玛嘉烈"]  见识过感染者们垂危的挣扎，见识过巨大的城市在坠落的天灾中土崩瓦解。
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#2$1", focus=1)]
-[name="烛骑士"]  ......那就是你所见的苦难吗？你......所悲悯的这片土地？
+[name="烛骑士"]  ……那就是你所见的苦难吗？你……所悲悯的这片土地？
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#1$1", focus=2)]
 [name="玛嘉烈"]  我有优秀的伙伴。
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#2$1", focus=2)]
-[name="玛嘉烈"]  不，我想他们已经不只是优秀而已了，他们......闪烁着理想的光辉。
+[name="玛嘉烈"]  不，我想他们已经不只是优秀而已了，他们……闪烁着理想的光辉。
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#1$1", focus=2)]
 [name="玛嘉烈"]  我确实曾迷茫过，薇薇安娜。
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#1$1", focus=1)]
@@ -375,38 +375,38 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
 [Character(name="avg_npc_216")]
-[name="无胄盟成员"]  报告。白金大位......我们已经告知了骑士协会。
+[name="无胄盟成员"]  报告。白金大位……我们已经告知了骑士协会。
 [name="无胄盟成员"]  但是比赛还在进行。
 [Character(name="avg_npc_216", name2="char_204_platnm_1#3", focus=2)]
-[name="白金"]  ......但愿骑士协会动作快一点。不然，她的妹妹可能就要受点苦了。
+[name="白金"]  ……但愿骑士协会动作快一点。不然，她的妹妹可能就要受点苦了。
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1#3", focus=1)]
-[name="玛莉娅"]  ......我说过，姐姐不会认输的。
+[name="玛莉娅"]  ……我说过，姐姐不会认输的。
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=2)]
-[name="白金"]  无妨。等你姐姐看见你的手指被整齐地排列在临光家的门口......她就不会想要进行下一场比赛了。
+[name="白金"]  无妨。等你姐姐看见你的手指被整齐地排列在临光家的门口……她就不会想要进行下一场比赛了。
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=1)]
-[name="玛莉娅"]  ......
+[name="玛莉娅"]  ……
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1#4", focus=2)]
-[name="白金"]  ......反抗的眼神，你还真奇怪。不，你和你姐姐，都很奇怪。
+[name="白金"]  ……反抗的眼神，你还真奇怪。不，你和你姐姐，都很奇怪。
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=2)]
 [name="白金"]  就算是声名远扬的英雄家族，联合会在这座大骑士领有多少爪牙？
 [name="白金"]  耀骑士和玛恩纳，“两个人”，稍微强一点而已，能做什么？能在大骑士领杀死成百上千的杀手，还不用担负法律责任？
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1", focus=1)]
-[name="玛莉娅"]  我记得......你不是一个话多的女性来着，你在紧张吗？
+[name="玛莉娅"]  我记得……你不是一个话多的女性来着，你在紧张吗？
 [Character(name="avg_npc_061#5", name2="char_204_platnm_1#3", focus=2)]
-[name="白金"]  ......算是吧。
+[name="白金"]  ……算是吧。
 [Character(name="char_204_platnm_1#3")]
 [name="白金"]  毕竟以前我的工作，只要拉弓、瞄准、松手，目标只会在短暂的痛苦过后断气。
-[name="白金"]  但是最近的命令，又是对孩子出手，又是要和耀骑士扳手腕，唉......真不想工作......
+[name="白金"]  但是最近的命令，又是对孩子出手，又是要和耀骑士扳手腕，唉……真不想工作……
 [Character(name="char_204_platnm_1#2")]
 [name="白金"]  无胄盟最近，是不是有点下滑？
 [Character(name="avg_npc_216", name2="char_204_platnm_1#2", focus=1)]
-[name="无胄盟成员"]  ......报告！
+[name="无胄盟成员"]  ……报告！
 [Character(name="avg_npc_216", name2="char_204_platnm_1", focus=2)]
 [name="白金"]  耀骑士投降了吗？
 [Character(name="avg_npc_216", name2="char_204_platnm_1", focus=1)]
-[name="无胄盟成员"]  不、不是......刚才的定期联络，E7，E9没有回复......
+[name="无胄盟成员"]  不、不是……刚才的定期联络，E7，E9没有回复……
 [Character(name="avg_npc_216", name2="char_204_platnm_1#6", focus=2)]
-[name="白金"]  ......那还愣着做什么，准备好战斗啊。
+[name="白金"]  ……那还愣着做什么，准备好战斗啊。
 [dialog]
 [Character(name="avg_npc_216", name2="char_204_platnm_1", focus=-1)]
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -438,7 +438,7 @@
 [PlaySound(key="$e_atk_arrow_h")]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=0.6, xstrength=5, ystrength=8, vibrato=30, randomness=90, block=true)]
-[name="无胄盟成员"]  ——呃......
+[name="无胄盟成员"]  ——呃……
 [CameraShake(duration=1, xstrength=3, ystrength=3, vibrato=10, randomness=90, fadeout=true, block=false)]
 [Character(fadetime=1)]
 [PlaySound(key="$bodyfalldown1", volume=0.6)]
@@ -452,7 +452,7 @@
 [delay(time=2)]
 [name="“正义骑士号”"]  （大声的滴滴声）
 [Character(name="char_204_platnm_1#4")]
-[name="白金"]  ......这是什么？快递车？
+[name="白金"]  ……这是什么？快递车？
 [dialog]
 [character]
 [Character(name="avg_496_wdmane_1",fadetime=0.6)]
@@ -471,7 +471,7 @@
 [Character(name="avg_496_wdmane_1")]
 [name="艾沃娜"]  各位好啊，无胄盟的爪牙。
 [Character(name="char_204_platnm_1#5")]
-[name="白金"]  啧，感染者骑士吗......
+[name="白金"]  啧，感染者骑士吗……
 [dialog]
 [Character(name="char_204_platnm_1#6")]
 [Dialog]
@@ -486,7 +486,7 @@
 [Character(name="avg_496_wdmane_1#6")]
 [name="艾沃娜"]  玛莉娅·临光？你为什么在这里？
 [Character(name="avg_npc_061#4")]
-[name="玛莉娅"]  你、你是......
+[name="玛莉娅"]  你、你是……
 [dialog]
 [character]]
 [Blocker(a=1, r=1, g=1, b=1, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
@@ -518,7 +518,7 @@
 [Character(name="avg_npc_061#5", name2="avg_496_wdmane_1", focus=1)]
 [name="玛莉娅"]  ——不阻止他们的话，他们会继续阻挠姐姐的。
 [Character(name="char_204_platnm_1#6")]
-[name="白金"]  ......
+[name="白金"]  ……
 [Character(name="avg_npc_061#5", name2="avg_496_wdmane_1", focus=2)]
 [name="艾沃娜"]  嚯，真果断，我开始有点喜欢你了。
 [Character(name="avg_496_wdmane_1#10")]
@@ -554,7 +554,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Character(name="avg_npc_219")]
 [PlaySound(key="$d_gen_transmissionget", volume=0.6)]
-[name="卡西米尔骑士"]  向监正会通报......确认无胄盟和感染者骑士冲突，玛莉娅·临光也被带走了。
+[name="卡西米尔骑士"]  向监正会通报……确认无胄盟和感染者骑士冲突，玛莉娅·临光也被带走了。
 [name="卡西米尔骑士"]  确保耀骑士的赛程不被干扰就行，完毕。
 [PlaySound(key="$transmission", volume=0.6)]
 [Dialog]
@@ -577,20 +577,20 @@
 [Background(image="bg_23_G01",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#2$1", focus=2)]
-[name="玛嘉烈"]  呼......
-[name="玛嘉烈"]  ......了不起，薇薇安娜。
+[name="玛嘉烈"]  呼……
+[name="玛嘉烈"]  ……了不起，薇薇安娜。
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#1$1", focus=2)]
-[name="玛嘉烈"]  光与影......你编织出了一处不容踏足的领域。
+[name="玛嘉烈"]  光与影……你编织出了一处不容踏足的领域。
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  小小的烛火......能阻挡耀骑士这么长的时间，是我的荣幸。
+[name="烛骑士"]  小小的烛火……能阻挡耀骑士这么长的时间，是我的荣幸。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=1)]
 [name="烛骑士"]  但你似乎未尽全力，在担心你的家人吗？
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#5$1", focus=2)]
-[name="玛嘉烈"]  ......
+[name="玛嘉烈"]  ……
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#5$1", focus=1)]
 [name="烛骑士"]  你在做一件很矛盾的事情，玛嘉烈。
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#5$1", focus=1)]
-[name="烛骑士"]  你为自己有那样的同伴而自豪，但事实上，你为自己划定的道路......只会让你远离那些美好的伙伴。
+[name="烛骑士"]  你为自己有那样的同伴而自豪，但事实上，你为自己划定的道路……只会让你远离那些美好的伙伴。
 [name="烛骑士"]  也许迟早有一天，你的妹妹会在无胄盟的阴谋中遭遇不测，你所在的地方会受到商业联合会的层层阻挠——
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#7$1", focus=2)]
 [name="玛嘉烈"]  薇薇安娜。
@@ -609,9 +609,9 @@
 [Character(name="avg_npc_209_1#5", name2="avg_npc_208_1#4", focus=2)]
 [name="莫妮克"]  她要是连一个野鬃骑士都搞不定，趁早辞职吧。
 [Character(name="avg_npc_209_1#5", name2="avg_npc_208_1#2", focus=2)]
-[name="莫妮克"]  但是......我们怎么办？联合会已经明确要处理感染者......而且要我们尽快。
+[name="莫妮克"]  但是……我们怎么办？联合会已经明确要处理感染者……而且要我们尽快。
 [Character(name="avg_npc_209_1#2", name2="avg_npc_208_1#2", focus=1)]
-[name="罗伊"]  嗯......感染者确实是个麻烦。但我们也确实需要感染者继续引发骚乱......
+[name="罗伊"]  嗯……感染者确实是个麻烦。但我们也确实需要感染者继续引发骚乱……
 [Character(name="avg_npc_209_1#2", name2="avg_npc_208_1", focus=2)]
 [name="莫妮克"]  你出主意吧，表演大师。
 [Character(name="avg_npc_209_1", name2="avg_npc_208_1", focus=1)]
@@ -639,19 +639,19 @@
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_1014_nearl2_1#4$1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="玛嘉烈"]  ......呼......
+[name="玛嘉烈"]  ……呼……
 [Character(name="avg_1014_nearl2_1#1$1")]
 [name="玛嘉烈"]  原来如此，烛火熄灭的瞬间，才是你真正施法的时刻。
 [Character(name="avg_1014_nearl2_1#5$1")]
-[name="玛嘉烈"]  片刻的黑暗也能侵吞我的法术，烛光闪烁的每个瞬间......你是否在把整座赛场的光都侵吞其中？
+[name="玛嘉烈"]  片刻的黑暗也能侵吞我的法术，烛光闪烁的每个瞬间……你是否在把整座赛场的光都侵吞其中？
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#5$1", focus=1)]
-[name="烛骑士"]  了不起的观察力......至今还没有骑士在决斗中察觉到我法术的本质，这也是拜你那段流浪岁月所赐？
+[name="烛骑士"]  了不起的观察力……至今还没有骑士在决斗中察觉到我法术的本质，这也是拜你那段流浪岁月所赐？
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#2$1", focus=2)]
 [name="玛嘉烈"]  很遗憾，似乎至今，我仍旧没有真正触及到你。
 [Character(name="avg_npc_215_1#6", name2="avg_1014_nearl2_1#2$1", focus=1)]
-[name="烛骑士"]  ......我曾经无比讨厌这些......源石技艺。我的法术天赋越是卓越，就越是在提醒我的出身——
+[name="烛骑士"]  ……我曾经无比讨厌这些……源石技艺。我的法术天赋越是卓越，就越是在提醒我的出身——
 [Character(name="avg_npc_215_1#5", name2="avg_1014_nearl2_1#2$1", focus=1)]
-[name="烛骑士"]  也越发意识到......我的处境。
+[name="烛骑士"]  也越发意识到……我的处境。
 [Character(name="avg_npc_215_1#2", name2="avg_1014_nearl2_1#2$1", focus=1)]
 [name="烛骑士"]  告诉我吧，玛嘉烈·临光，耀骑士。每一位心怀信念的骑士都会对你感到好奇。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#2$1", focus=1)]
@@ -732,7 +732,7 @@
 [PlaySound(key="$fightgeneral")] 
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Character(name="avg_npc_216", name2="avg_npc_216", focus=0)]
-[name="无胄盟成员"]  呃......
+[name="无胄盟成员"]  呃……
 [CameraShake(duration=1, xstrength=3, ystrength=3, vibrato=10, randomness=90, fadeout=true, block=false)]
 [Character(fadetime=1)]
 [PlaySound(key="$bodyfalldown2", volume=0.6)]
@@ -750,8 +750,8 @@
 [Character(name="avg_npc_216", name2="avg_npc_107#2", focus=2)]
 [name="光头马丁"]  告诉你们吧，我们不怕你。
 [Character(name="avg_npc_216", name2="avg_npc_107#2", focus=1)]
-[name="无胄盟成员"]  ......你胆敢袭击无胄盟一次，无胄盟就可以无限次地猎杀你们......
-[name="无胄盟成员"]  也许是今天，也许是明天，也许是你们吃饭的时候，睡觉的时候，在面包上抹果酱的时候......你们无处可逃！
+[name="无胄盟成员"]  ……你胆敢袭击无胄盟一次，无胄盟就可以无限次地猎杀你们……
+[name="无胄盟成员"]  也许是今天，也许是明天，也许是你们吃饭的时候，睡觉的时候，在面包上抹果酱的时候……你们无处可逃！
 [Character(name="avg_npc_216", name2="avg_npc_120", focus=2)]
 [name="老骑士"]  多谢你的忠告，啐。
 [Character(name="avg_npc_216", name2="avg_npc_120#3", focus=2)]
@@ -767,7 +767,7 @@
 [Character(name="avg_npc_120#4")]
 [name="老骑士"]  哈！解气！
 [Character(name="avg_npc_107", name2="avg_npc_101#4", focus=2)]
-[name="老工匠"]  ......其他人似乎注意到这里了。马丁，你这店，恐怕要开不下去了啊。
+[name="老工匠"]  ……其他人似乎注意到这里了。马丁，你这店，恐怕要开不下去了啊。
 [Character(name="avg_npc_107", name2="avg_npc_101#4", focus=1)]
 [name="光头马丁"]  那还真是可惜。房租我可是预付了两年的。
 [dialog]
@@ -800,7 +800,7 @@
 [Dialog]
 [Delay(time=2)]
 [Character(name="avg_npc_107")]
-[name="光头马丁"]  ......好久没用过法术了，有点生疏。
+[name="光头马丁"]  ……好久没用过法术了，有点生疏。
 [Character(name="avg_npc_120#2")]
 [name="老骑士"]  啧，无胄盟什么时候招了这么多人！？联合会钱多得没处花吗？
 [Character(name="avg_npc_120#2", name2="avg_npc_101#2", focus=2)]
@@ -833,11 +833,11 @@
 [delay(time=0.2)]
 [Character(name="avg_npc_064_weapon_1#5",fadetime=1,block=true)]
 [delay(time=1)]
-[name="佐菲娅"]  你们......
+[name="佐菲娅"]  你们……
 [delay(time=0.2)]
 [Character(name="avg_npc_064_weapon_1#2")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="佐菲娅"]  ......你们把玛莉娅怎么了！
+[name="佐菲娅"]  ……你们把玛莉娅怎么了！
 [stopmusic(fadetime=1.5)]
 [Dialog]
 [character]
@@ -850,13 +850,13 @@
 随后，在观众们已经疲于从光芒中寻找两位骑士身影的那个刹那。
 模糊的球体——光芒、光晕，全部的光线，在顷刻间消失殆尽。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=2)]
-[name="玛嘉烈"]  哈......哈......
+[name="玛嘉烈"]  哈……哈……
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#6$1", focus=2)]
-[name="玛嘉烈"]  薇薇安娜，你真的......令人钦佩。
+[name="玛嘉烈"]  薇薇安娜，你真的……令人钦佩。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=2)]
-[name="玛嘉烈"]  看，我的光......都被你侵吞殆尽......呼。
+[name="玛嘉烈"]  看，我的光……都被你侵吞殆尽……呼。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  ......能让耀骑士感到疲惫，我十分荣幸。
+[name="烛骑士"]  ……能让耀骑士感到疲惫，我十分荣幸。
 [name="烛骑士"]  但似乎，您并不只是依赖那些绚烂的法术。
 [dialog]
 [character]
@@ -866,7 +866,7 @@
 [dialog]
 [Character(name="avg_npc_215_1#2")]
 [name="烛骑士"]  你切断了我的剑，看来，输的人是我。
-[name="烛骑士"]  ......烛骑士薇薇安娜·德罗斯特，认输。
+[name="烛骑士"]  ……烛骑士薇薇安娜·德罗斯特，认输。
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -885,24 +885,24 @@
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="观赛的骑士"]  什么！？烛骑士认输了！？我几个月的薪水啊！！
 [Character(name="avg_npc_217", name2="avg_npc_218", focus=2)]
-[name="欢呼的骑士"]  让你不听我的，虽然我也没赚多少......唉，这场比赛真是有损视力。
+[name="欢呼的骑士"]  让你不听我的，虽然我也没赚多少……唉，这场比赛真是有损视力。
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_23_G01",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#2$1", focus=2)]
-[name="玛嘉烈"]  ......吁......
+[name="玛嘉烈"]  ……吁……
 [delay(time=0.5)]
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#2$1", focus=1)]
-[name="烛骑士"]  ......所谓骑士，即是照亮整片大地的崇高者。
-[name="烛骑士"]  呵......
+[name="烛骑士"]  ……所谓骑士，即是照亮整片大地的崇高者。
+[name="烛骑士"]  呵……
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=2)]
 [name="玛嘉烈"]  薇薇安娜。
-[name="玛嘉烈"]  我不会去对你的出身——你的心结指指点点，但，你是我遇到的......最强大的骑士之一。
+[name="玛嘉烈"]  我不会去对你的出身——你的心结指指点点，但，你是我遇到的……最强大的骑士之一。
 [Character(name="avg_npc_215_1#2", name2="avg_1014_nearl2_1#1$1", focus=1)]
-[name="烛骑士"]  不......这就够了。
-[name="烛骑士"]  那些古典的骑士小说里......骑士们总是通过决斗来相互交心。
+[name="烛骑士"]  不……这就够了。
+[name="烛骑士"]  那些古典的骑士小说里……骑士们总是通过决斗来相互交心。
 [Character(name="avg_npc_215_1#1", name2="avg_1014_nearl2_1#1$1", focus=1)]
 [name="烛骑士"]  不过现实可没那么浪漫。今天，我只不过刚刚认识了你而已，玛嘉烈。
 [name="烛骑士"]  让我看看你今后会走到哪一步吧。
@@ -942,11 +942,11 @@
 [Character(name="avg_496_wdmane_1#9")]
 [name="艾沃娜"]  （——明明挡住了，还是差点握不住武器——这家伙——）
 [Character(name="char_204_platnm_1")]
-[name="白金"]  ......下一箭，我会贯穿你的双腿，让你无法再奔跑。
+[name="白金"]  ……下一箭，我会贯穿你的双腿，让你无法再奔跑。
 [name="白金"]  随后一箭，我会贯穿你的盔甲。
 [name="白金"]  最后一箭，将会穿过你的胸膛，这样你会痛苦片刻，随后死在潮湿的街道上。
 [Character(name="avg_496_wdmane_1")]
-[name="艾沃娜"]  ......哈，难怪索娜让我见到大位级的无胄盟，最好赶紧开溜......
+[name="艾沃娜"]  ……哈，难怪索娜让我见到大位级的无胄盟，最好赶紧开溜……
 [name="艾沃娜"]  你这么年轻就这么厉害，那在你之上的几个人，得是什么怪物？
 [Character(name="char_204_platnm_1")]
 [name="白金"]  你最好祈祷自己这辈子不会遇上他们——嗯？
@@ -962,7 +962,7 @@
 [Character(name="avg_4000_jnight_1#3")]
 [name="“正义骑士号”"]  （急促的滴滴声）
 [Character(name="avg_496_wdmane_1", name2="avg_4000_jnight_1#3", focus=1)]
-[name="艾沃娜"]  ......好吧正义号，既然你都这么说了，今天确实不是和无胄盟分出胜负的日子。
+[name="艾沃娜"]  ……好吧正义号，既然你都这么说了，今天确实不是和无胄盟分出胜负的日子。
 [name="艾沃娜"]  后会有期！白金大位！
 [dialog]
 [character]
@@ -976,37 +976,37 @@
 [delay(time=2.5)]
 [Character(name="char_204_platnm_1#5")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="白金"]  唔，咳咳......
-[name="白金"]  ......跑了。
-[name="白金"]  怎么这么喜欢用爆破物......！咳咳，到处都是灰......我才洗的头发......
+[name="白金"]  唔，咳咳……
+[name="白金"]  ……跑了。
+[name="白金"]  怎么这么喜欢用爆破物……！咳咳，到处都是灰……我才洗的头发……
 [Character(name="char_204_platnm_1#3")]
-[name="白金"]  ......唉，这下要怎么解释好呢......
+[name="白金"]  ……唉，这下要怎么解释好呢……
 [dialog]
 [Character(name="char_204_platnm_1#3",focus=-1)]
 [name="罗伊"]  不用解释了。
 [name="罗伊"]  我们看得一清二楚。
 [Character(name="char_204_platnm_1#5")]
-[name="白金"]  ......
+[name="白金"]  ……
 [dialog]
 [character]
 [character(name="avg_npc_208_1",name2="avg_npc_209_1",focus=0,fadetime=1.5)]
 [playsound(key="$d_gen_walk_n")]
 [delay(time=2.5)]
 [character(name="avg_npc_208_1")]
-[name="莫妮克"]  ......刚才的人，有不少不是红松骑士团的。
-[name="莫妮克"]  他们团结感染者的速度很快......大骑士领什么时候潜伏着这么多的感染者了？
+[name="莫妮克"]  ……刚才的人，有不少不是红松骑士团的。
+[name="莫妮克"]  他们团结感染者的速度很快……大骑士领什么时候潜伏着这么多的感染者了？
 [character(name="avg_npc_209_1#6")]
-[name="罗伊"]  要论责任的话，恐怕不靠谱的工程承包商占一半，天灾占一半......
-[name="罗伊"]  所以，零号地块才要发挥它的作用啊......啊。
+[name="罗伊"]  要论责任的话，恐怕不靠谱的工程承包商占一半，天灾占一半……
+[name="罗伊"]  所以，零号地块才要发挥它的作用啊……啊。
 [character(name="avg_npc_209_1")]
 [name="罗伊"]  小天马，有件事情要拜托你，麻烦你咯。
 [Character(name="char_204_platnm_1#5")]
-[name="白金"]  您只管说就是了......刚在上司面前搞砸了工作，我可不敢有任何异议。
+[name="白金"]  您只管说就是了……刚在上司面前搞砸了工作，我可不敢有任何异议。
 [character(name="avg_npc_209_1#2")]
 [name="罗伊"]  你去调查一下这家公司，他们和耀骑士有联系，而且现在就在零号地块。
-[name="罗伊"]  感染者事件由我们全盘接手......反正这家公司和耀骑士也有联系，也算你的工作范围之内吧。
+[name="罗伊"]  感染者事件由我们全盘接手……反正这家公司和耀骑士也有联系，也算你的工作范围之内吧。
 [Character(name="char_204_platnm_1#4")]
-[name="白金"]  ......罗德岛。
+[name="白金"]  ……罗德岛。
 [name="白金"]  只是调查？
 [character(name="avg_npc_209_1")]
 [name="罗伊"]  对方还主动接触了联合会呢，哎呀，看来这家境外企业也挺贪心的嘛。
@@ -1018,7 +1018,7 @@
 [character(name="avg_npc_208_1#3")]
 [name="莫妮克"]  你什么时候有过问青金事务的权力了？
 [Character(name="char_204_platnm_1#3")]
-[name="白金"]  不......不敢。
+[name="白金"]  不……不敢。
 [character(name="avg_npc_208_1#2")]
 [name="莫妮克"]  做好你自己的事情。
 [stopmusic(fadetime=1.5)]
@@ -1034,19 +1034,19 @@
 [Character(name="avg_npc_033")]
 [name="观众B"]  烛骑士！请看这里！呀——！
 [Character(name="avg_npc_215_1#1")]
-[name="烛骑士"]  ......
+[name="烛骑士"]  ……
 [delay(time=1)]
 [PlaySound(key="$d_gen_walk_n", volume=0.4)]
 [Character(name="avg_npc_215_1#1", name2="avg_npc_212_1", focus=2)]
-[name="发言人麦基"]  ......你看上去心情不错。
+[name="发言人麦基"]  ……你看上去心情不错。
 [Character(name="avg_npc_215_1#1", name2="avg_npc_212_1", focus=1)]
-[name="烛骑士"]  ......你知道吗，麦基。
+[name="烛骑士"]  ……你知道吗，麦基。
 [name="烛骑士"]  很多人都说，耀骑士被流放之后，就此跌落神坛，不再有最年轻的神话。
 [Character(name="avg_npc_215_1#2", name2="avg_npc_212_1", focus=1)]
 [name="烛骑士"]  被感染，被放逐，但时隔六年之后，我真正见到了她才明白，那些都是流言蜚语。
 [Character(name="avg_npc_215_1#1", name2="avg_npc_212_1", focus=1)]
-[name="烛骑士"]  她现在......
-[name="烛骑士"]  ......如日中天。
+[name="烛骑士"]  她现在……
+[name="烛骑士"]  ……如日中天。
 [Dialog]
 [character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -1054,19 +1054,19 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_211_1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="发言人马克维茨"]  呼......愉快的会面，{@nickname}博士。
+[name="发言人马克维茨"]  呼……愉快的会面，{@nickname}博士。
 [name="发言人马克维茨"]  我相信您得到了几位高管的青睐，他们都是商业联合会中不可或缺的角色。
 [dialog]
-[Decision(options="十分感谢，多亏了您。;......;我学到了许多东西。",values="1;2;3")]
+[Decision(options="十分感谢，多亏了您。;……;我学到了许多东西。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_211_1")]
-[name="发言人马克维茨"]  ......但我想，您想要的不光是一些口头上的利好关系，对吧？
-[name="发言人马克维茨"]  我真的很好奇......卡西米尔以外的国家，像您这样熟稔于商业战场的科学研究者很多吗？
+[name="发言人马克维茨"]  ……但我想，您想要的不光是一些口头上的利好关系，对吧？
+[name="发言人马克维茨"]  我真的很好奇……卡西米尔以外的国家，像您这样熟稔于商业战场的科学研究者很多吗？
 [dialog]
-[Decision(options="可能吧......;社会在发展，这是必须的。;我可能是独一无二的。",values="1;2;3")]
+[Decision(options="可能吧……;社会在发展，这是必须的。;我可能是独一无二的。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_211_1#9")]
-[name="发言人马克维茨"]  哈哈......
+[name="发言人马克维茨"]  哈哈……
 [dialog]
 [Dialog]
 [character]
@@ -1105,18 +1105,18 @@
 但你没有细品他复杂情绪的机会，他就像一只被鞭笞的驮兽。
 吃力地爬起身子，吃力地奔跑。
 [Character(name="avg_npc_220")]
-[name="感染者骑士"]  ......
+[name="感染者骑士"]  ……
 [dialog]
 [character]
 [PlaySound(key="$d_gen_walk_n", volume=0.4)]
 [delay(time=0.2)]
 [Character(name="avg_npc_216",fadetime=1,block=true)]
 [delay(time=1)]
-[name="无胄盟成员"]  ......发言人阁下，这位是？
+[name="无胄盟成员"]  ……发言人阁下，这位是？
 [Character(name="avg_npc_216", name2="avg_npc_211_1#8", focus=2)]
-[name="发言人马克维茨"]  刚才那是......
+[name="发言人马克维茨"]  刚才那是……
 [Character(name="avg_npc_216", name2="avg_npc_211_1#8", focus=1)]
-[name="无胄盟成员"]  ......一位非法感染者，如果您需要，稍后我们会将法律文件递交给您。
+[name="无胄盟成员"]  ……一位非法感染者，如果您需要，稍后我们会将法律文件递交给您。
 [name="无胄盟成员"]  请原谅，即使是发言人，如果您身边有外人，我也不能透露过多。
 [name="无胄盟成员"]  请您和您的朋友尽快避难，这附近发生了一些冲突。
 [dialog]
@@ -1125,22 +1125,22 @@
 [character(name="char_empty",name2="avg_npc_211_1",fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_npc_211_1#7")]
-[name="发言人马克维茨"]  ......抱歉，扫了您的兴吗？
-[name="发言人马克维茨"]  真是失礼......居然在晚宴结束后遇到这种事情......
+[name="发言人马克维茨"]  ……抱歉，扫了您的兴吗？
+[name="发言人马克维茨"]  真是失礼……居然在晚宴结束后遇到这种事情……
 [Character(name="avg_npc_211_1#6")]
-[name="发言人马克维茨"]  ......
+[name="发言人马克维茨"]  ……
 [delay(time=0.6)]
 [dialog]
 [Decision(options="您能帮助那个感染者吗？",values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_211_1#7")]
-[name="发言人马克维茨"]  我......
-[name="发言人马克维茨"]  ......我也许没这个权力......
+[name="发言人马克维茨"]  我……
+[name="发言人马克维茨"]  ……我也许没这个权力……
 [dialog]
 [Decision(options="为了我们之间的友谊。;为了罗德岛与您的友谊。;为了卡西米尔的进步。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_211_1#5")]
-[name="发言人马克维茨"]  ......
+[name="发言人马克维茨"]  ……
 [dialog]
 马克维茨无言地看向感染者骑士逃走的方向。
 那是一处小巷。能听见音乐的声响，能看见深夜餐馆中飘出的气浪。

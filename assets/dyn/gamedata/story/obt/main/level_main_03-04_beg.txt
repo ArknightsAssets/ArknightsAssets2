@@ -27,7 +27,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2,block=true)]
 [Character(fadetime=0)]
 [Delay(time=1.5)]
-[name="星熊"]   这个地形......
+[name="星熊"]   这个地形……
 [name="星熊"]   整合运动应该是有意识把我们引到这里来的。
 [dialog]
 [Character(fadetime=0)]
@@ -47,7 +47,7 @@
 [name="星熊"]   你自己也多加小心。
 [Character(name="char_103_angel_1")]
 [name="能天使"]   ——唔哦，刚才那阵风好大。
-[name="能天使"]   唔唔，可视好差，有点施展不开呢......
+[name="能天使"]   唔唔，可视好差，有点施展不开呢……
 [Character(name="char_106_franka_1", name2="char_107_liskam_1", focus=1)]
 [name="芙兰卡"]   不能再前进了。
 [Character(name="char_106_franka_1", name2="char_107_liskam_1", focus=2)]
@@ -89,14 +89,14 @@
 [Blocker(a=0, fadetime=1.5, block=false)]
 [delay(time=1)]
 [Character(name="char_1002_nsabr_2")]
-[name="整合运动成员"]   咳......快剑......？！
-[name="整合运动成员"]   怎么......会......
+[name="整合运动成员"]   咳……快剑……？！
+[name="整合运动成员"]   怎么……会……
 [Character(name="char_106_franka_1")]
 [name="芙兰卡"]   呵呵。
 [name="芙兰卡"]   以为躲在废墟下方，就能从脚底偷袭我们？
 [name="芙兰卡"]   未免也太小看我了吧？
 [Character(name="char_1002_nsabr_2")]
-[name="整合运动成员"]   ......黑钢......！
+[name="整合运动成员"]   ……黑钢……！
 [Dialog(fadetime=0)]
 [Character(fadetime=0)]
 [PlaySound(key="$d_gen_soldiersrun", volume=0.7)]
@@ -119,33 +119,33 @@
 [Character(name="char_102_texas_1")]
 [name="德克萨斯"]   ——
 [name="德克萨斯"]   整合运动跑了一小段距离之后，就在那里重整阵形了。
-[name="德克萨斯"]   他们好像......还牵了个什么出来。
+[name="德克萨斯"]   他们好像……还牵了个什么出来。
 [Character(name="char_002_amiya_1#6")]
 [name="阿米娅"]   ——
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   当心。
-[name="阿米娅"]   那个整合运动的暴徒......
+[name="阿米娅"]   那个整合运动的暴徒……
 [name="阿米娅"]   可不是普通的战斗人员！
-[name="阿米娅"]   整合运动这些家伙，怎么还和......
+[name="阿米娅"]   整合运动这些家伙，怎么还和……
 [Character(name="char_106_franka_1",name2="char_107_liskam_1",focus=1)]
-[name="芙兰卡"]   会不会是......
+[name="芙兰卡"]   会不会是……
 [Character(name="char_106_franka_1",name2="char_107_liskam_1",focus=2)]
 [name="雷蛇"]   和什么？
-[name="雷蛇"]   ......
-[name="雷蛇"]   确实，这个整合运动的成员，难道说，是魔......
+[name="雷蛇"]   ……
+[name="雷蛇"]   确实，这个整合运动的成员，难道说，是魔……
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]   难道说......
+[name="阿米娅"]   难道说……
 [Character(name="char_002_amiya_1#7",name2="char_107_liskam_1",focus=1)]
-[name="阿米娅"]   （雷蛇，我们正和近卫局共事，今天可能......不太适合讨论这样敏感的问题！）
+[name="阿米娅"]   （雷蛇，我们正和近卫局共事，今天可能……不太适合讨论这样敏感的问题！）
 [Character(name="char_002_amiya_1#7",name2="char_107_liskam_1",focus=2)]
 [name="雷蛇"]   （啊，明白。）
 [Character(name="char_002_amiya_1#7",name2="char_107_liskam_1",focus=1)]
 [name="阿米娅"]   （下次我会再和你谈谈我的猜想！）
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......唔哦。
+[name="德克萨斯"]   ……唔哦。
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   大家，请做好准备！
-[name="阿米娅"]   可能......会是场十分艰巨的战斗！
+[name="阿米娅"]   可能……会是场十分艰巨的战斗！
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(block=true)]

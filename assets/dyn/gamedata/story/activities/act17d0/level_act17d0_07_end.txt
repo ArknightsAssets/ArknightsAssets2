@@ -41,7 +41,7 @@
 [character(name="char_503_rang")]
 [name="巡林者"]雷蛇！小心身后！
 [character]
-[name="源石畸变体"]噶......
+[name="源石畸变体"]噶……
 [dialog]
 [Character(name="avg_npc_156_1#2",name2="char_empty",focus=1)]
 [name="雷蛇"]！！
@@ -85,11 +85,11 @@
 [Character(name="avg_npc_156_1#2",name2="avg_npc_155_1#1",enter="left",fadetime=1)]
 [delay(time=1)]
 [Character(name="avg_npc_156_1#2",name2="avg_npc_155_1#1",focus=2)]
-[name="芙兰卡"]你......快跑。
+[name="芙兰卡"]你……快跑。
 [Character(name="avg_npc_156_1#2",name2="avg_npc_155_1#1",focus=1)]
 [name="雷蛇"]你不要说话了！
 [Character(name="avg_npc_156_1#2",name2="avg_npc_155_1#1",focus=2)]
-[name="芙兰卡"]我的腿......你......你，别管我了。
+[name="芙兰卡"]我的腿……你……你，别管我了。
 [Character(name="avg_npc_156_1#2",name2="avg_npc_155_1#1",focus=1)]
 [name="雷蛇"]不要说蠢话！
 [dialog]
@@ -115,8 +115,8 @@
 [Character(name="avg_npc_156_1#1")]
 [name="雷蛇"]太好了！帮大忙了！
 [character(name="char_503_rang")]
-[name="巡林者"]准备引爆爆炸物......
-[name="巡林者"]三、二、一......
+[name="巡林者"]准备引爆爆炸物……
+[name="巡林者"]三、二、一……
 [dialog]
 [character]
 [delay(time=1)]
@@ -138,7 +138,7 @@
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=1)]
 [name="巡林者"]只是短暂被击退，用不了多久它们还会再来的。
 [character(name="char_458_rfrost_1#3")]
-[name="霜华"]它们......好像变少了一点？
+[name="霜华"]它们……好像变少了一点？
 [name="霜华"]“迎宾踏垫”已经用完了，我也没有子弹了。
 [character(name="char_458_rfrost_1#3",name2="char_459_tachak_1#2",focus=1)]
 [name="霜华"]亚历山大，接下来怎么办？
@@ -186,12 +186,12 @@
 [character(name="char_458_rfrost_1#4",name2="char_503_rang",focus=2)]
 [name="巡林者"]我会留下来的。
 [character(name="char_458_rfrost_1#3",name2="char_503_rang",focus=1)]
-[name="霜华"]老先生，怎么你也......
+[name="霜华"]老先生，怎么你也……
 [character(name="char_458_rfrost_1#3",name2="char_503_rang",focus=2)]
 [name="巡林者"]事情总归会变成这样，从你们决定留下来帮忙的时候，其实大家都预料到了。
 [name="巡林者"]我会留下来，和这位战士协助防守，如果情况太糟，我可以掩护他撤离。
 [character(name="char_458_rfrost_1#3",name2="char_503_rang",focus=1)]
-[name="霜华"]老先生......
+[name="霜华"]老先生……
 [stopmusic(fadetime=2)]
 [delay(time=1)]
 [dialog]
@@ -204,7 +204,7 @@
 [character(name="char_458_rfrost_1#3",name2="char_459_tachak_1#2",focus=1)]
 [name="霜华"]我自己试做的源石爆炸物，只剩下这两个了。
 [character(name="char_458_rfrost_1#3",name2="char_459_tachak_1#2",focus=2)]
-[name="战车"]......谢谢。
+[name="战车"]……谢谢。
 [character(name="char_458_rfrost_1#4")]
 [name="霜华"]活着！
 [dialog]
@@ -215,13 +215,13 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [character(name="char_459_tachak_1#2")]
-[name="战车"]......我不敢保证。
+[name="战车"]……我不敢保证。
 [dialog]
 [delay(time=1)]
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]你没和她说实话，你也没打算撤。
 [character(name="char_503_rang",name2="char_459_tachak_1#2",focus=1)]
-[name="巡林者"]哈哈哈......你就不要戳穿我这个老头子的小算盘了。
+[name="巡林者"]哈哈哈……你就不要戳穿我这个老头子的小算盘了。
 [name="巡林者"]你需要有人帮你顶住那些怪物。
 [dialog]
 [delay(time=1)]
@@ -233,7 +233,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [character(name="char_459_tachak_1#2")]
-[name="战车"]这是......
+[name="战车"]这是……
 [character(name="char_503_rang")]
 [name="巡林者"]据说是老领主的佩刀，我借来用了。
 [name="巡林者"]这把刀很好，老领主的品位很不错。

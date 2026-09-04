@@ -38,7 +38,7 @@
 [character(name="avg_npc_157_1#3")]
 [name="列维"]那么依据你以往的风格，你又要更新的玩具，难怪你的父亲不喜欢你。
 [character(name="avg_npc_158_1#1")]
-[name="德鲁奇"]少废话，我现在需要......
+[name="德鲁奇"]少废话，我现在需要……
 [character(name="avg_npc_157_1#3")]
 [name="列维"]你在和我说话么，先生？
 [name="列维"]那你至少要加上“请”这个字。
@@ -63,7 +63,7 @@
 [name="雇佣兵"]啊啊啊啊啊啊！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="雇佣兵"]这是什么！这是什么！
-[name="雇佣兵"]我的头！我的头要炸了......我的......
+[name="雇佣兵"]我的头！我的头要炸了……我的……
 [dialog]
 [CameraShake(duration=0.5, xstrength=40, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -85,11 +85,11 @@
 [delay(time=1)]
 [character(name="avg_npc_015",blackstart=0.14,blackend=0.4,name2="char_empty",fadetime=1)]
 [delay(time=1)]
-[name="畸变体感染者"]嘎......
+[name="畸变体感染者"]嘎……
 [dialog]
 [character(name="avg_npc_015",blackstart=0.14,blackend=0.4,name2="avg_npc_015",blackstart2=0.14,blackend2=0.4,fadetime=1)]
 [delay(time=1)]
-[name="畸变体感染者"]嗝......
+[name="畸变体感染者"]嗝……
 [dialog]
 [delay(time=1)]
 [character]
@@ -123,13 +123,13 @@
 [character]
 [delay(time=1)]
 [character(name="avg_npc_158_1#1")]
-[name="德鲁奇"]......你真是个无药可救的疯子。
+[name="德鲁奇"]……你真是个无药可救的疯子。
 [name="德鲁奇"]我可是图拉家族的人，我继承了图拉家族的神民血脉。
 [name="德鲁奇"]你敢在巴耶勒王酋的领土上谋杀贵族，你找死。
 [character(name="avg_npc_157_1#1")]
 [name="列维"]王酋？贵族？血脉？
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="列维"]哈哈......
+[name="列维"]哈哈……
 [delay(time=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="列维"]哈哈哈哈哈哈哈哈。
@@ -148,7 +148,7 @@
 [name="列维"]无能的废物。
 [name="列维"]就你这种卑劣愚蠢的坏东西，居然还自称“贵族”。
 [name="列维"]你有什么“高贵过人”的地方。
-[name="列维"]但也不用担心，我和你的腐朽观念很不一样......我是一位科学家，我追求的是客观存在的真理。
+[name="列维"]但也不用担心，我和你的腐朽观念很不一样……我是一位科学家，我追求的是客观存在的真理。
 [character(name="avg_npc_158_1#1")]
 [name="德鲁奇"]你想干什么？
 [character(name="avg_npc_157_1#3")]
@@ -162,7 +162,7 @@
 [name="列维"]叛徒？叛徒？
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [character(name="avg_npc_157_1#1")]
-[name="列维"]哈哈哈哈哈哈哈哈......
+[name="列维"]哈哈哈哈哈哈哈哈……
 [name="列维"]你向你的亲妹妹下黑手，背叛了自己的家人。你勾结外国的雇佣兵掠夺你父亲的财富，你背叛了生你养你的国家。
 [name="列维"]你居然还有脸面说我是叛徒？
 [character(name="avg_npc_158_1#1")]
@@ -195,7 +195,7 @@
 [Character(name="char_458_rfrost_1#1", name2="char_459_tachak_1#2",focus=2)]
 [name="战车"]我从领主的仓库里找到的，看起来还不错。
 [Character(name="char_458_rfrost_1#1", name2="char_459_tachak_1#2",focus=1)]
-[name="霜华"]......很适合你。
+[name="霜华"]……很适合你。
 [dialog]
 [character]
 [delay(time=1)]
@@ -215,14 +215,14 @@
 [character(name="avg_npc_159_1#1")]
 [name="皮加尔"]这台源石引擎你们是从哪儿搞来的？
 [Character(name="char_459_tachak_1#2")]
-[name="战车"]......这个......之前发生了很多事情，总之我们弄来了一辆车。
+[name="战车"]……这个……之前发生了很多事情，总之我们弄来了一辆车。
 [dialog]
 [character]
 [delay(time=1)]
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=1)]
-[name="雷蛇"]......这车可有点眼熟。
+[name="雷蛇"]……这车可有点眼熟。
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=2)]
-[name="芙兰卡"]......这辆车是不是我们丢的那辆？
+[name="芙兰卡"]……这辆车是不是我们丢的那辆？
 [character(name="char_503_rang")]
 [name="巡林者"]事到如今就不要计较这种小事了，哈。
 [dialog]
@@ -233,17 +233,17 @@
 [Character(name="char_459_tachak_1#2")]
 [name="战车"]我们抓住的那个雇佣兵基本上什么都招了，你弟弟制造怪物的工厂就在矿洞深处。我甚至觉得他可能还没放弃。
 [character(name="avg_npc_159_1#1")]
-[name="皮加尔"]原来如此......
+[name="皮加尔"]原来如此……
 [Character(name="char_459_tachak_1#2")]
 [name="战车"]我们在这里把怪物引出来，科恩就有机会带人下去把矿洞炸它个底朝天。
 [name="战车"]就这么简单。
 [Character(name="avg_npc_156_1#1")]
-[name="雷蛇"]听起来可是一点都不简单......
+[name="雷蛇"]听起来可是一点都不简单……
 [character(name="char_503_rang")]
 [name="巡林者"]这个计划听起来充满大量意外，而且一点都不严谨。
 [name="巡林者"]不过我喜欢这种计划，战斗就是唯一的解决方案。
 [Character(name="avg_npc_156_1#1")]
-[name="雷蛇"]既然巡林者老先生都这么说了......
+[name="雷蛇"]既然巡林者老先生都这么说了……
 [dialog]
 [character]
 [delay(time=1)]
@@ -251,7 +251,7 @@
 [name="战车"]好了，朋友们——各就各位。
 [name="战车"]如果这个计划起作用了，点燃源石引擎之后，必然会有大量的怪物冲上来。
 [name="战车"]这是一场苦战。
-[name="战车"]非常感谢罗德岛的各位......选择留下来帮忙。
+[name="战车"]非常感谢罗德岛的各位……选择留下来帮忙。
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=2)]
 [name="芙兰卡"]不用客气，清理污染生物也是我的本职工作了。
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=1)]
@@ -262,7 +262,7 @@
 [character]
 [delay(time=1)]
 [character(name="avg_npc_159_1#3")]
-[name="皮加尔"]......谢谢你们......我不知道该怎么向你们表达感谢......
+[name="皮加尔"]……谢谢你们……我不知道该怎么向你们表达感谢……
 [character(name="char_503_rang")]
 [name="巡林者"]道谢的话，还是留到后面再说吧。
 [Character(name="char_459_tachak_1#2")]
@@ -283,19 +283,19 @@
 [delay(time=1)]
 [PlayMusic(intro="$warchaos_intro", key="$warchaos_loop", volume=0.4)]
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=1)]
-[name="雷蛇"]来了......
+[name="雷蛇"]来了……
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=2)]
-[name="芙兰卡"]......
+[name="芙兰卡"]……
 [name="芙兰卡"]这也太多了？
 [character(name="char_458_rfrost_1#3")]
 [name="霜华"]这有多少只？上百只？
 [character(name="char_503_rang")]
-[name="巡林者"]不，可能不止......
+[name="巡林者"]不，可能不止……
 [dialog]
 [character]
 [delay(time=1)]
 [Character(name="char_459_tachak_1#2")]
-[name="战车"]不......还有更多在后面。
+[name="战车"]不……还有更多在后面。
 [name="战车"]只能希望科恩他们一切顺利。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

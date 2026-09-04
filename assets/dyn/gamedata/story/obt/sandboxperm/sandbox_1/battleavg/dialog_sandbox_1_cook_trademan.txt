@@ -3,7 +3,7 @@
 [name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]不如讲给我听听，我一定能为您排忧解难。
 [decision(option1="什么菜能讨大祭司欢心？", value1="1.1")]
 [predicate(references="1.1")]
-[name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]确实，老爷子这几天看起来闷闷不乐......
+[name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]确实，老爷子这几天看起来闷闷不乐……
 [decision(option1="你有什么想法吗？", value1="2.1")]
 [predicate(references="2.1")]
 [name="联络员", avatarId="trap_415_trademan", isAvatarRight="FALSE"]考虑到大祭司在雨林中生活了很多年，说不定他更偏好那些没有过多烹饪，保留食材原汁原味的菜肴。

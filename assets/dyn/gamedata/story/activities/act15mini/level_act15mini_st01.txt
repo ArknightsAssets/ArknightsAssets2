@@ -18,11 +18,11 @@
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]咳咳嗯——哥伦比亚比伦哥，乌萨斯卡特斯多索雷斯，厚罗烧！
 [charslot(slot = "m", focus="none")]
-[multiline(name="装置")]口令内容......
+[multiline(name="装置")]口令内容……
 [PlaySound(key="$d_avg_scan", volume=1)]
 [Delay(time=1.5)]
 [multiline(name="装置",end=true)]确认。Xорошо，哥伦比亚人。
-[multiline(name="装置")]发声人......
+[multiline(name="装置")]发声人……
 [PlaySound(key="$d_avg_scan", volume=1)]
 [Delay(time=1.5)]
 [multiline(name="装置",end=true)]确认。
@@ -66,8 +66,8 @@
 [charslot(slot = "m", posfrom="100,0", posto="0,0", duration=1.5)]
 [delay(time=3)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#10$1")]
-[name="麦哲伦"]玛丽老师的队伍大概带走了一、二、三......二十人份的生存物资？！
-[name="麦哲伦"]十五人却带了二十人份的东西......
+[name="麦哲伦"]玛丽老师的队伍大概带走了一、二、三……二十人份的生存物资？！
+[name="麦哲伦"]十五人却带了二十人份的东西……
 [dialog]
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
@@ -77,9 +77,9 @@
 [name="麦哲伦"]再让我看看——
 [dialog]
 [delay(time=1.5)]
-[name="麦哲伦"]结构......没有损伤。能源......不用补充。维生设备......还好，温度没有问题。
-[name="麦哲伦"]急救包没有使用迹象，门窗也都没有外部破坏的痕迹......
-[name="麦哲伦"]还有最后一项......
+[name="麦哲伦"]结构……没有损伤。能源……不用补充。维生设备……还好，温度没有问题。
+[name="麦哲伦"]急救包没有使用迹象，门窗也都没有外部破坏的痕迹……
+[name="麦哲伦"]还有最后一项……
 [PlaySound(key="$keyboard", volume=1)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#7$1")]
 [name="麦哲伦"]（操作科考站设备）
@@ -88,7 +88,7 @@
 [name="麦哲伦"]（确认沿途科考站回传的讯号）
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]一路上都是例行汇报，看来没遇上麻烦。
-[name="麦哲伦"]......
+[name="麦哲伦"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -137,7 +137,7 @@
 [charslot(slot = "r", name = "avg_npc_530_1#1$1", focus="r")]
 [name="科考科成员"]（轻声）探索协会那边已经在组织搜救队了，但你也知道，那帮人效率一直不怎么样。
 [charslot(slot = "r", name = "avg_npc_530_1#1$1", focus="r")]
-[name="科考科成员"]（轻声）主任他们......就只能先靠你了。
+[name="科考科成员"]（轻声）主任他们……就只能先靠你了。
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
 [name="麦哲伦"]（轻声）我知道了。
 [dialog]
@@ -156,7 +156,7 @@
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]也就是说他们还在一起。
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
-[name="麦哲伦"]或者......
+[name="麦哲伦"]或者……
 [dialog]
 [PlaySound(key="$transmission", volume=1)]
 [delay(time=1.5)]
@@ -171,14 +171,14 @@
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [delay(time=1)]
 [charslot(slot = "m", focus="none")]
-[name="？？？"]这里！@#￥比亚站......
-[name="？？？"]我们受￥！@%&，需要*......#￥！
+[name="？？？"]这里！@#￥比亚站……
+[name="？？？"]我们受￥！@%&，需要*……#￥！
 [name="？？？"]坐标——
 [charslot(slot = "m", name = "avg_248_mgllan_1#3$1")]
 [name="麦哲伦"]玛丽老师自己发送的讯号，也就是说他本人还在那里！
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]可是讯号转到这儿要花不少时间......
-[name="麦哲伦"]......
+[name="麦哲伦"]可是讯号转到这儿要花不少时间……
+[name="麦哲伦"]……
 [charslot(slot = "m", name = "avg_248_mgllan_1#2$1")]
 [name="麦哲伦"]（拍了拍自己的脸颊）
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
@@ -203,7 +203,7 @@
 [PlaySound(key="$d_avg_button", volume=1)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]（关闭操作台）
-[name="麦哲伦"]探索协会设立的基站和乌萨斯通用，还挺方便的，申请借道进入冰原的入境许可也容易多了......
+[name="麦哲伦"]探索协会设立的基站和乌萨斯通用，还挺方便的，申请借道进入冰原的入境许可也容易多了……
 [name="麦哲伦"]等乌萨斯的信使先生过来确认完文件就该出发了。
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
 [name="麦哲伦"]玛丽老师，您可别碰上什么大麻烦，我马上就来帮您。
@@ -211,7 +211,7 @@
 [PlaySound(key="$doorknockquite", volume=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#4$1")]
-[name="麦哲伦"]还真快......请您稍等一下，我马上来！
+[name="麦哲伦"]还真快……请您稍等一下，我马上来！
 [dialog]
 [charslot(slot = "m", posfrom="0,0", posto="200,0", duration=1, isblock=true)]
 [PlaySound(key="$transmission", volume=1)]
@@ -250,7 +250,7 @@
 [charslot(slot = "l", name = "avg_248_mgllan_1#8$1", focus="l")]
 [name="麦哲伦"]这些系统还没智能到您想象的那个程度呢，哈哈。
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
-[name="伊万"]和哥伦比亚人打交道，小心点不会错......
+[name="伊万"]和哥伦比亚人打交道，小心点不会错……
 [name="伊万"]当然，我相信您是个实在的人，不会给我们添麻烦。但谨慎起见，还是请您允许我拒绝您的邀请。
 [name="伊万"]那么，请出示文件。
 [dialog]
@@ -270,7 +270,7 @@
 [charslot(slot = "l", posfrom="100,0", posto="0,0", focus="l", duration=1, isblock=true)]
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
-[name="伊万"]嗯......入境许可......探险许可......探险路线确认书......地图绘制委托......
+[name="伊万"]嗯……入境许可……探险许可……探险路线确认书……地图绘制委托……
 [name="伊万"]很好，麦哲伦小姐，您的文件没有问题。
 [charslot(slot = "l", name = "avg_248_mgllan_1#2$1",  focus="l")]
 [name="麦哲伦"]呼——
@@ -279,7 +279,7 @@
 [name="伊万"]今年所有的冰原考察许可都被取消了。
 [charslot(slot = "l", name = "avg_248_mgllan_1#6$1", focus="l")]
 [name="麦哲伦"]啊？！
-[name="麦哲伦"]这，但是，文件应该都......
+[name="麦哲伦"]这，但是，文件应该都……
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="伊万"]您应该也不是第一次碰到这种事情了，请理解一下我们的苦衷。
 [charslot(slot = "l", name = "avg_248_mgllan_1#3$1", focus="l")]
@@ -301,7 +301,7 @@
 [name="麦哲伦"]我明白，我都明白，可官方救援队行动总得要时间准备，不是吗？
 [name="麦哲伦"]我也是个探险家，对冰原的情况还算熟悉，能早一天找到他们，之后的救援都会更方便些。
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
-[name="麦哲伦"]而且......
+[name="麦哲伦"]而且……
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="伊万"]我了解了。
 [name="伊万"]那么，您方便透露一下失踪人员的坐标吗？
@@ -344,16 +344,16 @@
 [PlaySound(key="$d_avg_ringoff", volume=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#10$1")]
-[name="麦哲伦"]伊万先生......
+[name="麦哲伦"]伊万先生……
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="伊万"]我和我的同僚们确认过了，抱歉，麦哲伦小姐，我们还是不能让您从这里去北边。
 [name="伊万"]前方都被军事管制了，即使是我也过不去。
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]这......
+[name="麦哲伦"]这……
 [charslot(slot = "m", name = "avg_npc_080")]
 [name="伊万"]但作为补偿，我会与您同行。只要是在乌萨斯境内，您想去哪里都可以，我以乌萨斯官方人员的身份，可以为您行个方便。
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]让我想想......
+[name="麦哲伦"]让我想想……
 [charslot(slot = "m", name = "avg_248_mgllan_1#4$1")]
 [name="麦哲伦"]对了，萨米！
 [name="麦哲伦"]走萨米进冰原的话，是不是就不会被封锁了？
@@ -413,7 +413,7 @@
 [charslot(slot = "r", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="r")]
 [name="“长官”"]你有疑问，士兵。
 [charslot(slot = "l", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="l")]
-[name="“士兵”"]是的长官，关于......我们的任务。
+[name="“士兵”"]是的长官，关于……我们的任务。
 [charslot(slot = "r", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="r")]
 [name="“长官”"]你对军队的安排有疑虑？
 [charslot(slot = "l", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="l")]
@@ -430,7 +430,7 @@
 [charslot(slot = "l", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="l")]
 [name="“士兵”"]是的，长官。
 [charslot(slot = "r", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="r")]
-[name="“长官”"]那么，在你家的土地上，驮兽们繁衍，拉车，在你父亲的意志下创造价值......
+[name="“长官”"]那么，在你家的土地上，驮兽们繁衍，拉车，在你父亲的意志下创造价值……
 [charslot(slot = "r", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="r")]
 [name="“长官”"]没有你父亲的驯养，它们自己会有这种想法吗？
 [charslot(slot = "l", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="l")]
@@ -444,7 +444,7 @@
 [name="“长官”"]而萨米，仍是一片荒林。
 [name="“长官”"]对于文明，萨米人毫无益处。
 [charslot(slot = "l", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="l")]
-[name="“士兵”"]......
+[name="“士兵”"]……
 [charslot(slot = "r", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="r")]
 [name="“长官”"]我相信一些萨米人经过适当的点拨能够理解乌萨斯的苦心。
 [name="“长官”"]我们为他们带去文明之火，他们应当感激涕零。
@@ -471,7 +471,7 @@
 [dialog]
 [charslot(slot = "r", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="none")]
 [charslot(slot = "l", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="l")]
-[name="“士兵”"]长官，您......
+[name="“士兵”"]长官，您……
 [charslot(slot = "r", name = "avg_npc_082", bstart=0.2,bend=0.7, focus="r")]
 [name="“长官”"]就算是不听劝的驮兽，你也不希望他们被饥饿的野兽生吞活剥吧。
 [name="“长官”"]全体都有，准备进攻邪魔。
@@ -524,15 +524,15 @@
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="伊万"]乌萨斯的边境哨所一般都会有驻军，然而萨米与乌萨斯边境，只有边防军定期巡逻而没有据点驻防。您知道是什么原因吗？
 [charslot(slot = "l", name = "avg_248_mgllan_1#10$1", focus="l")]
-[name="麦哲伦"]乌萨斯......是和萨米有什么矛盾吗？
+[name="麦哲伦"]乌萨斯……是和萨米有什么矛盾吗？
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="伊万"]矛盾？萨米人侵占乌萨斯的领土，袭击乌萨斯的士兵，只为了满足他们原始邪恶的念头。
 [name="伊万"]我们前面的哨所，曾经被萨米人无端霸占，乌萨斯好心帮助他们击退邪魔后才向他们提出抗议，希望能够收回领土。
 [name="伊万"]可他们却坚决不离开，还要伤害我们乌萨斯的军人。我们最后别无他法，只能动用武力驱逐他们。
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
-[name="麦哲伦"]是这样啊......
+[name="麦哲伦"]是这样啊……
 [charslot(slot = "l", name = "avg_248_mgllan_1#10$1", focus="l")]
-[name="麦哲伦"]（是这样......吗？）
+[name="麦哲伦"]（是这样……吗？）
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="伊万"]野蛮的萨米人为了复仇，派出了一个被我们叫作“女巫”的冤魂。
 [name="伊万"]她杀死了这座哨所里所有的乌萨斯士兵，而后一直在萨乌边境上游荡。
@@ -557,7 +557,7 @@
 [delay(time=4)]
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
 [charslot(slot = "m", name = "avg_341_sntlla_1#1$1", bstart=0.2,bend=0.7, duration=2, isblock=true)]
-[name="？？？"]......
+[name="？？？"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -573,7 +573,7 @@
 [playMusic(key="$normal_loop", volume=0)]
 [musicvolume(volume=0.6, fadetime=1)]
 [charslot(slot = "m", name = "avg_npc_962_1#1$1")]
-[name="萨米战士"]呼......太好了。
+[name="萨米战士"]呼……太好了。
 [name="萨米战士"]嘿，乌萨斯的朋友！你们那边的情况如何？！
 [dialog]
 [charslot]
@@ -599,7 +599,7 @@
 [name="萨米战士"]你们乌萨斯人真是古板，刚刚和邪魔打过一架，还想着什么军务军务的，你的弟兄们也累得够呛吧。
 [name="萨米战士"]到我们的营地里来，休息会，烤烤火吃点肉干再上路也不迟，朋友。
 [charslot(slot = "m", name = "avg_npc_082")]
-[name="乌萨斯军官"]那我们就......恭敬不如从命了，朋友。
+[name="乌萨斯军官"]那我们就……恭敬不如从命了，朋友。
 [charslot(slot = "m", name = "avg_npc_962_1#1$1")]
 [name="萨米战士"]哈哈哈哈，有什么好客气的。
 [name="萨米战士"]芙蕾雅，水呢？！
@@ -648,7 +648,7 @@
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="伊万"]这我并不清楚。
 [charslot(slot = "l", name = "avg_248_mgllan_1#10$1", focus="l")]
-[name="麦哲伦"]我可以......采些样本吗？
+[name="麦哲伦"]我可以……采些样本吗？
 [charslot(slot = "r", name = "avg_npc_080", focus="r")]
 [name="伊万"]请便。
 [dialog]
@@ -704,7 +704,7 @@
 [name="萨米战士"]我们在这片土地上生活了那么久，你就在这插了个旗子，凭什么说这里属于你们！
 [charslot(slot = "m", name = "avg_npc_082")]
 [name="乌萨斯军官"]因为我们来了，仅此而已。
-[name="乌萨斯军官"]哼......念在我们共同对抗过邪魔的情分上，我给你们两个选择，离开这里，或者成为乌萨斯的子民。
+[name="乌萨斯军官"]哼……念在我们共同对抗过邪魔的情分上，我给你们两个选择，离开这里，或者成为乌萨斯的子民。
 [name="乌萨斯军官"]你和你的族人都是优秀的战士，乌萨斯很乐意接纳你们。
 [name="乌萨斯军官"]当然，你们要讲乌萨斯语，穿乌萨斯的服饰，最重要的是，停止你们那骇人听闻的异端信仰。
 [charslot(slot = "m", name = "avg_npc_962_1#1$1")]
@@ -721,7 +721,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=0.5)]
 [charslot(slot = "m", action="shake", power=8, times=100, isblock=true, duration=0.5)]
-[name="萨米萨满"]呃呜......
+[name="萨米萨满"]呃呜……
 [dialog]
 [charslot(slot = "m", action="shake", power=4, times=40, isblock=true, duration=0.5)]
 [charslot(slot = "m", posfrom="0,0", posto="0,-50", duration=0.5)]
@@ -740,11 +740,11 @@
 [charslot(slot = "m", name = "avg_npc_082")]
 [name="乌萨斯军官"]不要做傻事，也不要想着抵抗。
 [charslot(slot = "m", name = "avg_npc_962_1#1$1")]
-[name="萨米战士"]......
+[name="萨米战士"]……
 [dialog]
 [PlaySound(key="$d_avg_deep_breath", volume=1)]
 [delay(time=2)]
-[name="萨米战士"]（萨米语）老树啊，请为我见证......
+[name="萨米战士"]（萨米语）老树啊，请为我见证……
 [dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_axeimp", volume=1)]
@@ -818,7 +818,7 @@
 [charslot(slot = "r", name = "avg_npc_080", afrom=1, ato=0, duration=1, isblock=true)]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
-[name="麦哲伦"]伊万先生......
+[name="麦哲伦"]伊万先生……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -829,29 +829,29 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#10$1")]
-[name="麦哲伦"]伊万先生在外头工作，我一个人躲在建筑里烤火，这样是不是不太合适......
+[name="麦哲伦"]伊万先生在外头工作，我一个人躲在建筑里烤火，这样是不是不太合适……
 [name="麦哲伦"]怎么说我也是个探险家，遇到困难怎么能让同伴一个人去面对呢？
-[name="麦哲伦"]......
+[name="麦哲伦"]……
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]我还是——
 [dialog]
 [PlaySound(key="$d_avg_snowstormflp", volume=1, loop=true, channel="a")]
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]好冷......
+[name="麦哲伦"]好冷……
 [name="麦哲伦"]（望向窗外）
-[name="麦哲伦"]呜呜，脸好疼......
+[name="麦哲伦"]呜呜，脸好疼……
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]风速越来越快了。
 [name="麦哲伦"]伊万先生，您要小心啊。
 [dialog]
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#4$1")]
-[name="麦哲伦"]......？
+[name="麦哲伦"]……？
 [dialog]
 [charslot(slot = "m", posfrom="0,0", posto="200,0", duration=1, isblock=true)]
 [charslot(slot = "m", name = "avg_248_mgllan_1#4$1")]
-[name="麦哲伦"]那是......
+[name="麦哲伦"]那是……
 [name="麦哲伦"]伊万先生？
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]不，不对，那是？！！
@@ -904,7 +904,7 @@
 [name="麦哲伦"]我热了些茶水你要喝吗？
 [charslot(slot = "r", name = "avg_341_sntlla_1#13$1", focus="r")]
 [name="寒檀"]那就谢谢你啦。
-[name="寒檀"]咕嘟......咕嘟......
+[name="寒檀"]咕嘟……咕嘟……
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]呼——
 [name="寒檀"]那么，你是要从萨米进冰原。
@@ -925,7 +925,7 @@
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
 [name="麦哲伦"]虽然我听说，萨米有些原始，还很可怕。
 [charslot(slot = "r", name = "avg_341_sntlla_1#11$1", focus="r")]
-[name="寒檀"]那个......那位乌萨斯信使是这么和你说的？
+[name="寒檀"]那个……那位乌萨斯信使是这么和你说的？
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
 [name="麦哲伦"]他还说这里会有女巫出没，会不由分说地袭击别人，要我小心。
 [charslot(slot = "r", name = "avg_341_sntlla_1#3$1", focus="r")]
@@ -933,7 +933,7 @@
 [charslot(slot = "r", name = "avg_341_sntlla_1#11$1", focus="r")]
 [name="寒檀"]你觉得，那个女巫是个什么样的人？
 [charslot(slot = "l", name = "avg_248_mgllan_1#5$1", focus="l")]
-[name="麦哲伦"]我觉得她......有点可怜，就像这棵树一样。
+[name="麦哲伦"]我觉得她……有点可怜，就像这棵树一样。
 [name="麦哲伦"]唉。伊万先生好像很厌恶萨米。
 [name="麦哲伦"]虽然他的用词听上去很中肯。
 [charslot(slot = "r", name = "avg_341_sntlla_1#9$1", focus="r")]
@@ -956,7 +956,7 @@
 [name="寒檀"]麦哲伦，待在这。
 [name="寒檀"]你在这里更安全。
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
-[name="麦哲伦"]好、好吧......
+[name="麦哲伦"]好、好吧……
 [name="麦哲伦"]路上小心，西蒙娜姐。
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]嗯。
@@ -978,9 +978,9 @@
 [StopSound(channel="a", fadetime=0.2)]
 [delay(time=1.5)]
 [charslot(slot = "l", name = "avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]又只剩下我一个人了......
-[name="麦哲伦"]伊万先生和西蒙娜姐要是遇上了，真的能好好相处吗......
-[name="麦哲伦"]唉......
+[name="麦哲伦"]又只剩下我一个人了……
+[name="麦哲伦"]伊万先生和西蒙娜姐要是遇上了，真的能好好相处吗……
+[name="麦哲伦"]唉……
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]您觉得呢，大树先生？
 [dialog]
@@ -989,7 +989,7 @@
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
 [name="麦哲伦"]我还是不太能够理解，为什么能够一起对抗敌人，却非得因为其他事兵戎相见呢？
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]合作......不全是正确的吗？
+[name="麦哲伦"]合作……不全是正确的吗？
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_reedmarshes", volume=0, loop=true, channel="b")]
@@ -1005,9 +1005,9 @@
 [charslot]
 挺立的枯树觉得这个问题不太好回答，于是它选择保持沉默。
 [charslot(slot = "m", name = "avg_248_mgllan_1#1$1")]
-[name="麦哲伦"]您说得对......这是个蠢问题......
+[name="麦哲伦"]您说得对……这是个蠢问题……
 [charslot(slot = "m", name = "avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]但是，可以的话，我还是希望......
+[name="麦哲伦"]但是，可以的话，我还是希望……
 [dialog]
 [charslot]
 [name="？？？"]我回来了。
@@ -1032,16 +1032,16 @@
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_341_sntlla_1#8$1", focus="r")]
 [name="寒檀"]乌萨斯的哨所不够坚固，这个规模的暴风雪，会把整栋建筑压溃。
-[name="寒檀"]我们或许也要......
+[name="寒檀"]我们或许也要……
 [charslot(slot = "l", name = "avg_248_mgllan_1#5$1", focus="l")]
-[name="麦哲伦"]......
-[name="麦哲伦"]能......再等一会吗，伊万先生是个很有经验的信使，我们也认识很久了，这样的暴风雪是不会困住他的。
+[name="麦哲伦"]……
+[name="麦哲伦"]能……再等一会吗，伊万先生是个很有经验的信使，我们也认识很久了，这样的暴风雪是不会困住他的。
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]如果你坚持的话，那我们就再等一会好了。
 [charslot(slot = "r", name = "avg_341_sntlla_1#12$1", focus="r")]
 [name="寒檀"]我去和老树报个平安。
 [charslot(slot = "l", name = "avg_248_mgllan_1#4$1", focus="l")]
-[name="麦哲伦"]老树......西蒙娜姐，你是，这一带的人？
+[name="麦哲伦"]老树……西蒙娜姐，你是，这一带的人？
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]我曾经的职责，就是护卫恒常的老树。
 [charslot(slot = "r", name = "avg_341_sntlla_1#3$1", focus="r")]
@@ -1050,9 +1050,9 @@
 [charslot(slot = "r", name = "avg_341_sntlla_1#9$1", focus="r")]
 [name="寒檀"]付出善意，收获恶意，这片大地就是如此行事。
 [charslot(slot = "l", name = "avg_248_mgllan_1#10$1", focus="l")]
-[name="麦哲伦"]......
+[name="麦哲伦"]……
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
-[name="麦哲伦"]所以，女巫......才会在这里游荡......
+[name="麦哲伦"]所以，女巫……才会在这里游荡……
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]或许是吧。
 [dialog]
@@ -1079,7 +1079,7 @@
 [PlaySound(key="$d_avg_penrustle", volume=1)]
 [delay(time=2)]
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
-[name="麦哲伦"]唔......这样应该就行了。
+[name="麦哲伦"]唔……这样应该就行了。
 [name="麦哲伦"]我要离开了，伊万先生。
 [name="麦哲伦"]再见。
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
@@ -1106,7 +1106,7 @@
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]只是略懂一些法术而已。
 [charslot(slot = "l", name = "avg_248_mgllan_1#1$1", focus="l")]
-[name="麦哲伦"]唔......你肩膀上的这个通讯器......总觉得在哪里见过......
+[name="麦哲伦"]唔……你肩膀上的这个通讯器……总觉得在哪里见过……
 [charslot(slot = "r", name = "avg_341_sntlla_1#12$1", focus="r")]
 [name="寒檀"]这个？这个是我从乌萨斯人那里买来的，效果不错。
 [name="寒檀"]你需要吗？
@@ -1115,11 +1115,11 @@
 [dialog]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_248_mgllan_1#5$1", focus="l")]
-[name="麦哲伦"]啊......西蒙娜姐？
+[name="麦哲伦"]啊……西蒙娜姐？
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]嗯？
 [charslot(slot = "l", name = "avg_248_mgllan_1#5$1", focus="l")]
-[name="麦哲伦"]有件事......我想和你道个歉......希望你不要生气......
+[name="麦哲伦"]有件事……我想和你道个歉……希望你不要生气……
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
 [name="寒檀"]说来听听。
 [charslot(slot = "l", name = "avg_248_mgllan_1#5$1", focus="l")]
@@ -1135,7 +1135,7 @@
 [charslot(slot = "l", name = "avg_248_mgllan_1#5$1", focus="l")]
 [name='麦哲伦']是的，请不要生气，我没有在树上乱刻乱画。
 [charslot(slot = "r", name = "avg_341_sntlla_1#11$1", focus="r")]
-[name='寒檀']能让我......看一下树皮吗？
+[name='寒檀']能让我……看一下树皮吗？
 [charslot(slot = "l", name = "avg_248_mgllan_1#4$1", focus="l")]
 [name='麦哲伦']欸？好，好的。
 [dialog]
@@ -1147,15 +1147,15 @@
 [charslot(slot = "r", name = "avg_341_sntlla_1#11$1", focus="r")]
 [name='寒檀']（尝试将两块树皮拼接在一起）
 [charslot(slot = "r", name = "avg_341_sntlla_1#11$1", focus="r")]
-[name='寒檀']（姬缇娅......）
+[name='寒檀']（姬缇娅……）
 [name='寒檀']（海丽儿？）
-[name='寒檀']（......）
+[name='寒檀']（……）
 [charslot(slot = "r", name = "avg_341_sntlla_1#12$1", focus="r")]
 [name='寒檀']（谢谢，谢谢您。）
 [charslot(slot = "l", name = "avg_248_mgllan_1#4$1", focus="l")]
 [name='麦哲伦']西蒙娜姐，怎么了？
 [charslot(slot = "r", name = "avg_341_sntlla_1#1$1", focus="r")]
-[name='寒檀']没事......
+[name='寒檀']没事……
 [name='寒檀']这两块树皮，你就留下吧，老树不会责怪你的。
 [charslot(slot = "l", name = "avg_248_mgllan_1#4$1", focus="l")]
 [name='麦哲伦']喔。

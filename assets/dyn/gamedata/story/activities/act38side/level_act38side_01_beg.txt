@@ -31,7 +31,7 @@
 [charslot(slot = "m", name = "avg_npc_1550_1#1$1")]
 [name="码头工人"]你车上装的货物，属于哪一家公司？这有什么听不懂的。
 [charslot(slot = "m", name = "avg_npc_698_1#1$1")]
-[name="家族成员"]哈哈......看起来，这位先生应该刚工作不久，还不懂规矩。
+[name="家族成员"]哈哈……看起来，这位先生应该刚工作不久，还不懂规矩。
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1, loop=true, channel="w")]
 [StopSound(channel="w", fadetime=1)]
@@ -43,7 +43,7 @@
 [name="家族成员"]没关系，我可以耐心地教你。这种时候，你应该恭敬地问：“您属于哪个家族？”
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1550_1#3$1")]
-[name="码头工人"]......
+[name="码头工人"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "r", name = "avg_npc_1542_1#1$1", posfrom="200,0", posto="50,0", duration=1.5)]
@@ -51,15 +51,15 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_698_1#1$1")]
-[name="家族成员"]你们......
+[name="家族成员"]你们……
 [charslot(slot = "m", name = "avg_npc_1542_1#8$1")]
 [name="伊雷妮"]抱歉先生，所属公司名称？
 [charslot(slot = "m", name = "avg_npc_698_1#1$1")]
-[name="家族成员"]......萨卢佐酒业。
+[name="家族成员"]……萨卢佐酒业。
 [charslot(slot = "m", name = "avg_npc_1542_1#4$1")]
-[name="伊雷妮"]嗯......行了，信息核对无误，可以通过。
+[name="伊雷妮"]嗯……行了，信息核对无误，可以通过。
 [charslot(slot = "m", name = "avg_npc_698_1#1$1")]
-[name="家族成员"]......
+[name="家族成员"]……
 [charslot(slot = "m", name = "avg_npc_1542_1#4$1")]
 [name="伊雷妮"]不要这样看着我，也不要带着老一套的思路在这里处理问题。看看关口上面的标志吧。
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
@@ -111,29 +111,29 @@
 [name="卡车司机B"]另外，定制的帐篷也到了，我们打算搭在靠西的出口。
 [name="卡车司机B"]空间大，雨棚、净水装置、烧烤架都有地方安置。那边也更安静，到时候新加入的伙计们也能适应得更快一些。
 [name="卡车司机B"]我还顺便添置了一块露天屏幕，以后大家伙在营地又多了个娱乐项目。
-[name="卡车司机B"]我改天去租一些蓝卡坞的超级大片......我知道你要说什么——记得不要黑帮电影。
+[name="卡车司机B"]我改天去租一些蓝卡坞的超级大片……我知道你要说什么——记得不要黑帮电影。
 [charslot(slot= "l", name= "avg_npc_1550_1#1$1", focus="l")]
 [name="卡车司机A"]对了，听说市政厅已经在着手建设新的安置区了？
 [charslot(slot= "r", name= "avg_npc_1561_1#1$1", focus="r")]
 [name="卡车司机B"]哈哈，那他们最好动作快一点，要不然到时候我可能都舍不得搬走了。
-[name="卡车司机B"]虽然现在卡车只能停在营地里，大家伙只能住在卡车上，拖家带口的有很多不方便......
+[name="卡车司机B"]虽然现在卡车只能停在营地里，大家伙只能住在卡车上，拖家带口的有很多不方便……
 [name="卡车司机B"]但起码再也不用受那些家族的人欺负。这些卡车真的属于我们，和大家伙一起守着它们，安心。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
-[name="伊雷妮"]......是啊。
+[name="伊雷妮"]……是啊。
 [name="伊雷妮"]有时候看看眼前的营地，谁敢相信一年前这里还只是一块荒地呢？
 [charslot(slot= "m", name= "avg_npc_1550_1#1$1")]
 [name="卡车司机A"]对了，头儿，你为什么一晚上没回来？
 [charslot(slot = "m", name = "avg_npc_1542_1#3$1")]
 [name="伊雷妮"]啊，被你们一打岔，差点忘了正事！
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]把几个城区的负责人都叫过来，山德罗、金特、索默尔......
+[name="伊雷妮"]把几个城区的负责人都叫过来，山德罗、金特、索默尔……
 [charslot(slot= "m", name= "avg_npc_1550_1#1$1")]
 [name="卡车司机A"]索默尔不在。
 [charslot(slot = "m", name = "avg_npc_1542_1#5$1")]
 [name="伊雷妮"]嗯？今天他不是休息吗？
 [charslot(slot = "m", name = "avg_npc_1542_1#7$1")]
-[name="伊雷妮"]都跟他说过好几次了，想给小古莉治病，想早点把她接到新沃尔西尼来，我能理解......
+[name="伊雷妮"]都跟他说过好几次了，想给小古莉治病，想早点把她接到新沃尔西尼来，我能理解……
 [name="伊雷妮"]小古莉也是我的妹妹，我会一起想办法，不要老给自己多加出车任务。
 [charslot(slot= "m", name= "avg_npc_1550_1#2$1")]
 [name="卡车司机A"]头儿，别生气，应、应该不是你想的这样。
@@ -142,7 +142,7 @@
 [charslot(slot= "m", name= "avg_npc_1561_1#1$1")]
 [name="卡车司机B"]倒霉蛋也不在，从昨天晚上开始就没怎么看见她。
 [charslot(slot = "m", name = "avg_npc_1542_1#4$1")]
-[name="伊雷妮"]奇怪。算了，让还在营地的人集合......我们得帮着拉维妮娅法官去查一些事情。
+[name="伊雷妮"]奇怪。算了，让还在营地的人集合……我们得帮着拉维妮娅法官去查一些事情。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -159,14 +159,14 @@
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot = "m", name = "avg_4065_judge_1#1$1", duration=1.5, isblock=true)]
-[name="拉维妮娅"]......有什么新的进展吗？
+[name="拉维妮娅"]……有什么新的进展吗？
 [charslot(slot = "m", name = "avg_npc_1553_1#1$2")]
 [name="警察"]这条路附近的监控坏了，我们没法搜集到关键的视频证据，只能做进一步的痕迹鉴定。
-[name="警察"]您看，这就是莱昂图索先生驾驶的私家车和那辆已经消失在现场的载具所留下的车辙印......
+[name="警察"]您看，这就是莱昂图索先生驾驶的私家车和那辆已经消失在现场的载具所留下的车辙印……
 [name="警察"]撞车的地方是一个拐角，虽然存在视觉盲区，但根据当时信号灯的情况，两辆车本不会相撞，可它们却几乎在同时发生了诡异的偏移——
 [name="警察"]随后，莱昂图索先生被撞，另一辆车逃离了现场。
 [charslot(slot = "m", name = "avg_4065_judge_1#8$1")]
-[name="拉维妮娅"]可能是意外交通事故，但也不排除......
+[name="拉维妮娅"]可能是意外交通事故，但也不排除……
 [charslot(slot = "m", name = "avg_npc_1553_1#1$2")]
 [name="警察"]是的。
 [charslot(slot = "m", name = "avg_4065_judge_1#1$1")]
@@ -174,12 +174,12 @@
 [charslot(slot = "m", name = "avg_npc_1553_1#1$2")]
 [name="警察"]和我们昨晚的判断一致——一辆重型厢式载具。
 [charslot(slot = "m", name = "avg_4065_judge_1#8$1")]
-[name="拉维妮娅"]嗯。货车、接驳车、消防车和特殊工程装置......这种体积的厢式载具在新沃尔西尼能出现的地方并不多。
+[name="拉维妮娅"]嗯。货车、接驳车、消防车和特殊工程装置……这种体积的厢式载具在新沃尔西尼能出现的地方并不多。
 [name="拉维妮娅"]我已经拜托伊雷妮帮我们一起去查了，在这方面，卡车司机们能找的线索比我们多。
 [charslot(slot = "m", name = "avg_npc_1553_1#1$2")]
-[name="警察"]拉维妮娅法官，莱昂图索先生他......
+[name="警察"]拉维妮娅法官，莱昂图索先生他……
 [charslot(slot = "m", name = "avg_4065_judge_1#7$1")]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -195,9 +195,9 @@
 [name="私人医生"]骨折和内出血的问题已经通过手术处理了，但是剧烈的脑震荡导致病人还没有办法恢复意识。
 [name="私人医生"]从某种意义上来说，伤者还不能算脱离了生命危险。
 [charslot(slot = "m", name = "avg_4065_judge_1#6$1")]
-[name="拉维妮娅"]他......他还能醒来吗？
+[name="拉维妮娅"]他……他还能醒来吗？
 [charslot(slot = "m", name = "avg_npc_697_1#1$1")]
-[name="私人医生"]从医生的角度，我不敢给出任何保证......但从一个新沃尔西尼市民的角度，我衷心希望莱昂图索先生能恢复健康，我们会尽全力。
+[name="私人医生"]从医生的角度，我不敢给出任何保证……但从一个新沃尔西尼市民的角度，我衷心希望莱昂图索先生能恢复健康，我们会尽全力。
 [name="私人医生"]祝你们好运，拉维妮娅法官。
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
@@ -209,7 +209,7 @@
 [charslot(slot = "m", name = "avg_4065_judge_1#7$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="拉维妮娅"]......他们还是动手了。
+[name="拉维妮娅"]……他们还是动手了。
 [charslot(slot = "m", name = "avg_npc_1553_1#1$2")]
 [name="警察"]拉维妮娅法官，您说，我们要不要先去找到那些和家族有关的人，先把他们通通抓起来，然后再——
 [charslot(slot = "m", name = "avg_4065_judge_1#15$1")]
@@ -221,7 +221,7 @@
 [name="拉维妮娅"]无论是谁，我们一定会把凶手找出来。他一定会受到审判。
 [dialog]
 [Delay(time=1)]
-[name="拉维妮娅"]会是谁......
+[name="拉维妮娅"]会是谁……
 [dialog]
 [musicvolume(volume=0.2, fadetime=2)]
 [PlaySound(key="$d_avg_humanchange", volume=1)]
@@ -237,7 +237,7 @@
 [name="拉维妮娅"]威尼斯？
 [name="拉维妮娅"]美第奇？
 [name="拉维妮娅"]雷欧帝？
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [dialog]
 [musicvolume(volume=0.6, fadetime=2)]
 [PlaySound(key="$d_avg_humanchange", volume=1)]
@@ -262,7 +262,7 @@
 [charslot(slot= "m", name= "avg_npc_1541_1#2$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="莱昂图索"]今晚，我答应了德米特里的饭局邀约......拉维妮娅，我不可能一直对他避而不见。
+[name="莱昂图索"]今晚，我答应了德米特里的饭局邀约……拉维妮娅，我不可能一直对他避而不见。
 [dialog]
 [musicvolume(volume=0.6, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -272,7 +272,7 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="拉维妮娅"]莱昂，这到底是为什么......
+[name="拉维妮娅"]莱昂，这到底是为什么……
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -290,7 +290,7 @@
 [name="安东尼奥"]没关系，忙你的就好。
 [name="安东尼奥"]你是第一次过来吧？
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1")]
-[name="啰嗦的护理师"]是、是的。卡尔说要不是您的专属护理师生病了，我......总之能有机会为您服务，是我的荣幸。
+[name="啰嗦的护理师"]是、是的。卡尔说要不是您的专属护理师生病了，我……总之能有机会为您服务，是我的荣幸。
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1", focus="n")]
 [name="安东尼奥"]别紧张，你的手艺确实很好。
 [PlaySound(key="$d_avg_groomingsoft", volume=1)]
@@ -303,14 +303,14 @@
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1", focus="n")]
 [name="安东尼奥"]当然。都这么用心了，我没有不满意的道理。
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1")]
-[name="啰嗦的护理师"]安东尼奥先生，原来您很和善啊，根本不像卡尔说的那么可怕......
+[name="啰嗦的护理师"]安东尼奥先生，原来您很和善啊，根本不像卡尔说的那么可怕……
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1", focus="n")]
 [name="安东尼奥"]我觉得这应该是有些什么误会，我只是一个生意人。谁会愿意和一个很可怕的人做生意呢？
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1")]
-[name="啰嗦的护理师"]哈哈......对啦，安东尼奥先生，您要不要给耳朵和尾巴做一次半永久定型？
+[name="啰嗦的护理师"]哈哈……对啦，安东尼奥先生，您要不要给耳朵和尾巴做一次半永久定型？
 [name="啰嗦的护理师"]这样它们的轮廓可以更立体，更好看，而且，别人就看不出您和鲁珀的区别——
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1", focus="n")]
-[name="安东尼奥"]哦......等一下。
+[name="安东尼奥"]哦……等一下。
 [dialog]
 [PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1", posfrom="0,0", posto="200,0", afrom=1, ato=1, duration=1)]
@@ -325,7 +325,7 @@
 [charslot(slot = "l", name = "avg_npc_1544_1#10$1", focus="l")]
 [name="安东尼奥"]喔喔喔，你的意思是，我作为一个卑贱的佩洛，不应该冒充高贵的鲁珀？
 [charslot(slot = "m", name = "avg_npc_1563_1#1$1", focus="m")]
-[name="啰嗦的护理师"]......
+[name="啰嗦的护理师"]……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_walkfast", volume=1)]
@@ -336,7 +336,7 @@
 [charslot(slot = "l", name = "avg_npc_1544_1#10$1", focus="n")]
 [charslot(slot = "r", name = "avg_npc_1563_1#1$1", focus="r")]
 [name="啰嗦的护理师"]卡尔？
-[name="啰嗦的护理师"]我......我只是想向安东尼奥先生介绍一下——
+[name="啰嗦的护理师"]我……我只是想向安东尼奥先生介绍一下——
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
 [name="家族成员"]够了，闭嘴！赶快出去！
@@ -348,7 +348,7 @@
 [delay(time=1.5)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]抱歉，安东尼奥......
+[name="家族成员"]抱歉，安东尼奥……
 [charslot(slot = "m", name = "avg_npc_1544_1#4$1")]
 [name="安东尼奥"]没事，没有关系。这不是你的错。
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
@@ -363,7 +363,7 @@
 [charslot]
 [PlaySound(key="$d_avg_walkfast", volume=0.6)]
 [delay(time=1.5)]
-[name="？？？"]这里是......
+[name="？？？"]这里是……
 [name="？？？"]放开我！你们为什么带我来这里？
 [name="甘比诺"]把嘴闭上，小子。
 [name="甘比诺"]再乱叫的话，我就把你的整张脸都揍得跟你的眼影一样花哨。
@@ -374,14 +374,14 @@
 [name="甘比诺"]老板，出事了。
 [name="甘比诺"]昨天晚上，港口区发生了一起车祸，莱昂图索被撞伤了。
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]代理市长......大新闻，不过这和我们有什么关系？
+[name="家族成员"]代理市长……大新闻，不过这和我们有什么关系？
 [charslot(slot = "m", name = "avg_npc_542_1#6$1")]
-[name="甘比诺"]......肇事的那辆车，就是帮我们运“轮胎”的。
+[name="甘比诺"]……肇事的那辆车，就是帮我们运“轮胎”的。
 [name="甘比诺"]我们还没来得及反应，车就跑了。
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]......
+[name="家族成员"]……
 [charslot(slot = "m", name = "avg_npc_1544_1#8$1")]
-[name="安东尼奥"]......
+[name="安东尼奥"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", posfrom="0,0", posto="200,0", afrom=1, ato=0, duration=1.5, isblock=true)]
@@ -394,7 +394,7 @@
 [PlaySound(key="$d_avg_winglssice", volume=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]安东尼奥，我们现在该......
+[name="家族成员"]安东尼奥，我们现在该……
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n")]
@@ -408,11 +408,11 @@
 [name="安东尼奥"]做得好。
 [name="安东尼奥"]接下来，按我说的去做。
 [name="安东尼奥"]首先，看住家里所有人。在这个时候，要是有人去了不该去的地方，或是出现在不合适的岗位，立刻带他来见我。
-[name="安东尼奥"]盯紧城里的其他家族，萨卢佐、美第奇、雷欧帝......这个时候，谁最着急，那就是谁动的手。
+[name="安东尼奥"]盯紧城里的其他家族，萨卢佐、美第奇、雷欧帝……这个时候，谁最着急，那就是谁动的手。
 [charslot(slot = "m", name = "avg_npc_1544_1#4$1")]
 [name="安东尼奥"]我倒是好奇，在这个时间点上，是谁急着掀了牌桌。
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]那肇事的车辆......我们难道不找了？
+[name="家族成员"]那肇事的车辆……我们难道不找了？
 [charslot(slot = "m", name = "avg_npc_1544_1#4$1")]
 [name="安东尼奥"]找，但别在明面上做过分的事。
 [name="安东尼奥"]只要不是卡车出了质量问题，开车的是谁，运的是什么货，和威尼斯载具公司又有什么关系呢？
@@ -431,14 +431,14 @@
 [charslot(duration=1.5, isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]安东尼奥，对、对不起，是我的疏忽......
+[name="家族成员"]安东尼奥，对、对不起，是我的疏忽……
 [charslot(slot = "m", name = "avg_npc_1544_1#4$1")]
 [name="安东尼奥"]谁也料想不到会发生这样的意外。
 [charslot(slot = "m", name = "avg_npc_1544_1#1$1")]
 [name="安东尼奥"]你很优秀，卡尔。你跟着老家主的时间比我久，蒙特卢佩半数的载具维修工厂都是你负责。
 [name="安东尼奥"]我要是你也难免会想，那个叫安东尼奥的佩洛如果不是仗着娶了老家主的女儿，凭什么能有那么多机会，甚至能独立负责新城市的业务。
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]我、我没有......
+[name="家族成员"]我、我没有……
 [charslot(slot = "m", name = "avg_npc_1544_1#8$1")]
 [name="安东尼奥"]听好，卡尔，不管是新沃尔西尼，还是其他任何一座城市，都要遵守规则。读不懂规则的人，是没有办法体面地走下牌桌的。
 [name="安东尼奥"]这句话是老家主告诉我的，现在我也告诉你。
@@ -452,15 +452,15 @@
 [charslot(slot = "m", name = "avg_npc_1544_1#4$1")]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1544_1#2$1")]
-[name="安东尼奥"]等一下......还有一件事。
+[name="安东尼奥"]等一下……还有一件事。
 [charslot(slot = "m", name = "avg_npc_1544_1#3$1")]
-[name="安东尼奥"]刚刚那位护理师......我很不喜欢。
+[name="安东尼奥"]刚刚那位护理师……我很不喜欢。
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
 [name="家族成员"]明白了，我这就去解雇他。
 [charslot(slot = "m", name = "avg_npc_1544_1#4$1")]
-[name="安东尼奥"]不不......我不是说不喜欢他的服务，我是说，这个人，我很不喜欢。
+[name="安东尼奥"]不不……我不是说不喜欢他的服务，我是说，这个人，我很不喜欢。
 [charslot(slot = "m", name = "avg_npc_1555_1#1$1")]
-[name="家族成员"]......明白了，您不会再看到他了。
+[name="家族成员"]……明白了，您不会再看到他了。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -478,16 +478,16 @@
 [charslot(slot = "r", name = "avg_npc_1542_1#2$1", focus="r")]
 [name="伊雷妮"]找到了吗？
 [charslot(slot = "l", name = "avg_npc_1550_1#1$1", focus="l")]
-[name="卡车司机"]没有......我们把几个停车点都找了一遍，没有发现看起来像是刚刚出过车祸的卡车。
-[name="卡车司机"]互助会名下有几千辆车，这几天几乎没有一辆闲着，要挨个查......查到狂欢节结束也查不完啊。
+[name="卡车司机"]没有……我们把几个停车点都找了一遍，没有发现看起来像是刚刚出过车祸的卡车。
+[name="卡车司机"]互助会名下有几千辆车，这几天几乎没有一辆闲着，要挨个查……查到狂欢节结束也查不完啊。
 [charslot(slot = "r", name = "avg_npc_1542_1#3$1", focus="r")]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [charslot(slot = "l", name = "avg_npc_1550_1#1$1", focus="l")]
-[name="卡车司机"]头儿，拉维妮娅法官让你帮忙找线索，你怎么反倒开始查咱们互助会了啊，搞得好像是咱们的人撞了代理市长一样......
+[name="卡车司机"]头儿，拉维妮娅法官让你帮忙找线索，你怎么反倒开始查咱们互助会了啊，搞得好像是咱们的人撞了代理市长一样……
 [charslot(slot = "r", name = "avg_npc_1542_1#2$1", focus="r")]
 [name="伊雷妮"]论起和“重型厢式载具”的关系，新沃尔西尼还有谁比我们更有说头呢？
 [charslot(slot = "l", name = "avg_npc_1550_1#1$1", focus="l")]
-[name="卡车司机"]多的是！还有载具工厂、检修站、新沃尔西尼货运港......
+[name="卡车司机"]多的是！还有载具工厂、检修站、新沃尔西尼货运港……
 [name="卡车司机"]而且从车祸时间来看，当时我们根本没有车从那个路口过！
 [charslot(slot = "r", name = "avg_npc_1542_1#2$1", focus="r")]
 [name="伊雷妮"]好了，彼得罗，我当然相信互助会的伙计们不会去干那样的事，只是图个心安。
@@ -495,13 +495,13 @@
 [charslot(slot = "r", name = "avg_npc_1542_1#1$1", focus="r")]
 [name="伊雷妮"]证明咱们和整件事没有关系，也算是给他们省了不少调查的功夫，能帮助警察早点破案，找到真正的凶手嘛！
 [charslot(slot = "l", name = "avg_npc_1550_1#2$1", focus="l")]
-[name="卡车司机"]也是......
+[name="卡车司机"]也是……
 [charslot(slot = "r", name = "avg_npc_1542_1#4$1", focus="r")]
 [name="伊雷妮"]对了，索默尔联系上了吗？南边的几个城区都是他在跑，让他去查能快一点。
 [charslot(slot = "l", name = "avg_npc_1550_1#1$1", focus="l")]
 [name="卡车司机"]还没有。
 [charslot(slot = "r", name = "avg_npc_1542_1#2$1", focus="r")]
-[name="伊雷妮"]奇怪......算了，先忙正事吧。
+[name="伊雷妮"]奇怪……算了，先忙正事吧。
 [charslot(slot = "l", name = "avg_npc_1550_1#1$1", focus="l")]
 [name="卡车司机"]那我们接着找去了。
 [dialog]
@@ -526,9 +526,9 @@
 [name="惶恐的卡车司机"]伊雷妮，是、是我。
 [charslot(slot = "r", name = "avg_npc_1542_1#6$1", focus="r")]
 [name="伊雷妮"]索默尔，你就在营地？
-[name="伊雷妮"]你没有听见我和彼得罗一直在找你吗，怎么不出来......
+[name="伊雷妮"]你没有听见我和彼得罗一直在找你吗，怎么不出来……
 [charslot(slot = "l", name = "avg_npc_1547_1#11$1", focus="l")]
-[name="索默尔"]我、我......
+[name="索默尔"]我、我……
 [dialog]
 [charslot(slot = "r", name = "avg_npc_1542_1#5$1", posfrom="0,0", posto="-50,0", afrom=1, ato=1, duration=0.6)]
 [Delay(time=1)]
@@ -536,12 +536,12 @@
 [name="伊雷妮"]你的衣服怎么破了，脸上这是——擦伤？
 [name="伊雷妮"]索默尔，发生了什么？
 [charslot(slot = "l", name = "avg_npc_1547_1#10$1", focus="l")]
-[name="索默尔"]......
-[name="索默尔"]昨天晚上......
+[name="索默尔"]……
+[name="索默尔"]昨天晚上……
 [charslot(slot = "r", name = "avg_npc_1542_1#5$1", focus="r")]
-[name="伊雷妮"]你不要告诉我，昨天晚上撞了莱昂图索先生的那辆载具......
+[name="伊雷妮"]你不要告诉我，昨天晚上撞了莱昂图索先生的那辆载具……
 [charslot(slot = "l", name = "avg_npc_1547_1#12$1", focus="l")]
-[name="索默尔"]......是、是我开的。
+[name="索默尔"]……是、是我开的。
 [dialog]
 [StopSound(channel="r", fadetime=2)]
 [StopSound(channel="s", fadetime=2)]

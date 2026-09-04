@@ -33,14 +33,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=1)]
 [Dialog]
-[name="推进之王"]戴菲恩，你......想加入我们吗？
-[name="推进之王"]温德米尔公爵的灵柩正在运往前来增援的高速军舰，一些难民很感激她，所以自发组织了护送灵柩离开的悼念仪式......
+[name="推进之王"]戴菲恩，你……想加入我们吗？
+[name="推进之王"]温德米尔公爵的灵柩正在运往前来增援的高速军舰，一些难民很感激她，所以自发组织了护送灵柩离开的悼念仪式……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="她一直看着她妈妈最后倒下的地方，尽管血迹早已清理干净。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="现在邀请她可能是个坏主意......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="现在邀请她可能是个坏主意……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n我已经开始后悔了。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -48,28 +48,28 @@
 [charslot(slot="m",name="avg_npc_866_1#6$1",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_866_1#6$1",focus="m")]
-[name="戴菲恩"]维娜小姐，能替我感谢大家吗？我......想在这再待一会儿。
+[name="戴菲恩"]维娜小姐，能替我感谢大家吗？我……想在这再待一会儿。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
 [name="推进之王"]刚才那些人和你说了什么？
 [charslot(slot="m",name="avg_npc_866_1#6$1",focus="m")]
-[name="戴菲恩"]......没什么，只是希望我先留在这“冷静一下”。
-[name="戴菲恩"]剑卫们登上了迟来的护航舰队，他们大都......在其余惊慌的贵族中保持了缄默。
+[name="戴菲恩"]……没什么，只是希望我先留在这“冷静一下”。
+[name="戴菲恩"]剑卫们登上了迟来的护航舰队，他们大都……在其余惊慌的贵族中保持了缄默。
 [charslot(slot="m",name="avg_npc_866_1#8$1",focus="m")]
-[name="戴菲恩"]......
-[name="戴菲恩"]只是，一瞬间的破绽，因为我想去救那个士兵......
-[name="戴菲恩"]血魔向我伸出了手，而无论这是不是一个显而易见的陷阱，妈妈她......都因此受了伤。
+[name="戴菲恩"]……
+[name="戴菲恩"]只是，一瞬间的破绽，因为我想去救那个士兵……
+[name="戴菲恩"]血魔向我伸出了手，而无论这是不是一个显而易见的陷阱，妈妈她……都因此受了伤。
 [name="戴菲恩"]阵型溃败，人员伤亡，剑卫从不保护他们的公爵，剑卫只为完成他们的目标——
-[name="戴菲恩"]——但他们面对的敌人，还是强大得......超乎想象。
-[name="戴菲恩"]......
+[name="戴菲恩"]——但他们面对的敌人，还是强大得……超乎想象。
+[name="戴菲恩"]……
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="推进之王"]戴菲恩......
+[name="推进之王"]戴菲恩……
 [charslot(slot="m",name="avg_npc_866_1#6$1",focus="m")]
-[name="戴菲恩"]参谋们认为，这场冒进的行动有着太多的“私人感情”。参谋团本就......不会支持这样的行动。
-[name="戴菲恩"]他们......觉得......我是导致母亲死亡的直接原因。
-[name="戴菲恩"]“英雄不该为软弱之人殉葬。”他们......
-[name="戴菲恩"]......说得没错。
+[name="戴菲恩"]参谋们认为，这场冒进的行动有着太多的“私人感情”。参谋团本就……不会支持这样的行动。
+[name="戴菲恩"]他们……觉得……我是导致母亲死亡的直接原因。
+[name="戴菲恩"]“英雄不该为软弱之人殉葬。”他们……
+[name="戴菲恩"]……说得没错。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [Dialog]
 [dialog]
 [charslot]
@@ -88,13 +88,13 @@
 [charslot(slot="l",name="avg_npc_866_1#1$1",focus="l")]
 [name="戴菲恩"]谢谢你，医生。
 [charslot(slot="r",name="avg_npc_1070_1#1$1",focus="r")]
-[name="希勒少尉"]我也得告辞了，参谋团要求所有部队都回去述职......
+[name="希勒少尉"]我也得告辞了，参谋团要求所有部队都回去述职……
 [name="希勒少尉"]我把一些属于您的东西也一并留下了。
-[name="希勒少尉"]这些本是公爵大人为您准备的礼物。当然，还有......她的配剑，您已经拿到了。
+[name="希勒少尉"]这些本是公爵大人为您准备的礼物。当然，还有……她的配剑，您已经拿到了。
 [name="希勒少尉"]也许我接下来的话会稍显冒昧，但我仍然希望，您能和我们一起回到“加拉瓦铁盾”。
 [name="希勒少尉"]不论那些长官对您说了什么，您依旧是“温德米尔公爵”爵位的继承人，任何人都无法改变。
 [charslot(slot="l",name="avg_npc_866_1#8$1",focus="l")]
-[name="戴菲恩"]......
+[name="戴菲恩"]……
 [charslot(slot="l",name="avg_npc_866_1#6$1",focus="l")]
 [name="戴菲恩"]我会考虑的，但现在，请让我独自安静一会儿吧。
 [Dialog]
@@ -113,18 +113,18 @@
 [charslot(slot="m",name="avg_155_tiger_1#8$1",focus="m")]
 [name="因陀罗"]他们接走了一批人，但还有很多留在这。
 [charslot(slot="m",name="avg_155_tiger_1#2$1",focus="m")]
-[name="因陀罗"]所以，呃，那位铁血母亲真的......
+[name="因陀罗"]所以，呃，那位铁血母亲真的……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]嗯。
-[name="推进之王"]......很讽刺，公爵把她的麾下培养得很好。
+[name="推进之王"]……很讽刺，公爵把她的麾下培养得很好。
 [name="推进之王"]哪怕此刻，温德米尔的参谋团依然在谋划着吻合计划的下一步行动。
 [charslot(slot="m",name="avgnew_112_siege_1#2$1",focus="m")]
-[name="推进之王"]但是......
+[name="推进之王"]但是……
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
 [name="摩根"]戴菲恩呢？
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="推进之王"]......这些功利的军官老爷们似乎打算抛弃她。
-[name="推进之王"]我不清楚，我甚至担心......他们会对戴菲恩做什么。她是“继承人”。
+[name="推进之王"]……这些功利的军官老爷们似乎打算抛弃她。
+[name="推进之王"]我不清楚，我甚至担心……他们会对戴菲恩做什么。她是“继承人”。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -133,24 +133,24 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="推进之王"]她......还没有准备好。
+[name="推进之王"]她……还没有准备好。
 [charslot(slot="m",name="avg_npc_396_1#1$1",focus="m")]
-[name="达格达"]......温德米尔公爵是铁腕领袖。她的剑卫，她的参谋团，从来都只为维多利亚整体的利益考虑。
-[multiline(name="达格达")]但她本人，却因为女儿......
+[name="达格达"]……温德米尔公爵是铁腕领袖。她的剑卫，她的参谋团，从来都只为维多利亚整体的利益考虑。
+[multiline(name="达格达")]但她本人，却因为女儿……
 [charslot(slot="m",name="avg_npc_396_1#3$1",focus="m")]
 [multiline(name="达格达")]做了一个值得钦佩，却又实在太过莽撞的决定。
 [charslot(slot="m",name="avg_155_tiger_1#6$1",focus="m")]
 [name="因陀罗"]可这么多人能活下来，不也因为这个决定？
 [charslot(slot="m",name="avg_npc_396_1#9$1",focus="m")]
 [name="达格达"]我没有不尊重她的意思！
-[name="达格达"]但是......这就意味着，戴菲恩会被温德米尔公爵，她的母亲，一手缔造出的力量给抛弃。
+[name="达格达"]但是……这就意味着，戴菲恩会被温德米尔公爵，她的母亲，一手缔造出的力量给抛弃。
 [charslot(slot="m",name="avg_155_tiger_1#2$1",focus="m")]
-[name="因陀罗"]啊......
+[name="因陀罗"]啊……
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
 [name="摩根"]那我们接下来怎么办？
 [name="摩根"]他们确实接走了一部分难民，难道我们真的能信他们？接下来的战斗跟着，呃，贵族混？
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
-[name="推进之王"]......他们没有带走所有人？
+[name="推进之王"]……他们没有带走所有人？
 [name="推进之王"]不对，就算人数众多，既然这一艘船能装得下，更多的高速战舰没道理——
 [stopmusic(fadetime=3)]
 [Dialog]
@@ -212,12 +212,12 @@
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="我抓住她的肩膀，她这才回过头来。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n没有想象之中的恼怒，惊恐，悲伤，我甚至一时间看不出什么......情感。",block = true)]
+[Sticker(id="st1", multi = true, text="\n没有想象之中的恼怒，惊恐，悲伤，我甚至一时间看不出什么……情感。",block = true)]
 [Sticker(id="st1", multi = true, text="\n唯有最平淡的失望，深邃到让人抓心挠肺的平静。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_866_1#8$1",focus="m")]
-[name="戴菲恩"]......他们走了。
+[name="戴菲恩"]……他们走了。
 [Dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -236,7 +236,7 @@
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_1070_1#4$1",focus="m")]
 [name="希勒少尉"]怎么回事？怎么回事？！
-[name="希勒少尉"]该死，这不符合军令！或许只是他们收到的指令有误......
+[name="希勒少尉"]该死，这不符合军令！或许只是他们收到的指令有误……
 [name="希勒少尉"]这艘船上还有几辆能动的步兵战车，我们需要尽快赶回“加拉瓦铁盾”确认！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -268,10 +268,10 @@
 [Sticker(id="st1", multi = true, text="那场血雨给我们衣服上留下的痕迹依旧提醒着所有人那次残酷的突袭。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="自我们离开温德米尔公爵的旗舰，已经过了数个小时。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n坏消息接二连三，我们在撤下战舰，清点人数的时候，发现......博士、阿米娅和阿斯卡纶不在他们之间。",block = true)]
-[Sticker(id="st1", multi = true, text="\n我们只来得及做一些简单的搜索，但一无所获......",block = true)]
+[Sticker(id="st1", multi = true, text="\n坏消息接二连三，我们在撤下战舰，清点人数的时候，发现……博士、阿米娅和阿斯卡纶不在他们之间。",block = true)]
+[Sticker(id="st1", multi = true, text="\n我们只来得及做一些简单的搜索，但一无所获……",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="我只能相信他们的实力，但，阿米娅......不知为何，我总想起她瘦削的肩膀。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我只能相信他们的实力，但，阿米娅……不知为何，我总想起她瘦削的肩膀。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n现在这支队伍里，“悲伤”或“无助”甚至成了最无暇被顾及的东西。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -281,15 +281,15 @@
 [charslot(slot="m",name="avg_npc_408_1#1$1",focus="m")]
 [name="维多利亚军官"]别磨蹭！
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
-[name="诺伯特难民"]我......我真的走不动了！
+[name="诺伯特难民"]我……我真的走不动了！
 [charslot(slot="m",name="avg_npc_408_1#1$1",focus="m")]
 [name="维多利亚军官"]你非得让我拿鞭子抽着你走吗？
 [CameraShake(duration=0.3, xstrength=8, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="维多利亚军官"]快点！跑起来，想活就跟上前面的战车！
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
-[name="诺伯特难民"]我......有点喘不上气......长官，我生过病......
+[name="诺伯特难民"]我……有点喘不上气……长官，我生过病……
 [charslot(slot="m",name="avg_npc_408_1#1$1",focus="m")]
-[name="维多利亚军官"]......
+[name="维多利亚军官"]……
 [name="维多利亚军官"]不能磨蹭，这不光关系到你能不能活命——
 [Dialog]
 [charslot(slot="m",name="avg_npc_408_1#1$1",focus="all")]
@@ -330,7 +330,7 @@
 [charslot(slot = "m", posfrom="-170,0", posto="-200,0", duration=0.5)]
 [Delay(time=1.5)]
 [charslot(slot="r",name="avgnew_112_siege_1#10$2",focus="r")]
-[name="推进之王"]......我只容忍你一次。
+[name="推进之王"]……我只容忍你一次。
 [name="推进之王"]你是温德米尔公爵下属的军人，别用你的行动玷污她的名号。
 [charslot(slot="m",name="avg_npc_408_1#1$1",focus="m")]
 [name="维多利亚军官"]我——
@@ -343,8 +343,8 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_408_1#1$1",focus="m")]
-[name="维多利亚军官"]抱歉......只是请别说出那个词，该死的！
-[name="维多利亚军官"]我好得很......我好得很！
+[name="维多利亚军官"]抱歉……只是请别说出那个词，该死的！
+[name="维多利亚军官"]我好得很……我好得很！
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -354,11 +354,11 @@
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
 [name="希勒少尉"]我要求过荒野行军的时候保持低调，小心把那些萨卡兹部队招惹过来。
 [charslot(slot="m",name="avg_npc_408_1#1$1",focus="m")]
-[name="维多利亚军官"]长官，我......
+[name="维多利亚军官"]长官，我……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]天色已经暗下来了，跟着你们狂奔的那些普通人需要扎营休息，少尉。
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
-[name="希勒少尉"]......否决，继续按照原定军事任务正常行军。
+[name="希勒少尉"]……否决，继续按照原定军事任务正常行军。
 [name="希勒少尉"]按照这个速度，我们在午夜就能抵达31号高地。
 [name="希勒少尉"]在那里我们就能和“加拉瓦铁盾”恢复通讯，只有和移动要塞恢复联系了，这支队伍才能真正安全。
 [name="希勒少尉"]如果等到天亮，这支队伍未必能在萨卡兹的部队面前——
@@ -366,7 +366,7 @@
 [name="推进之王"]你是这里暂时的指挥官，你是船医，也是这里军衔最高的人。
 [name="推进之王"]那么，你应该很清楚，我们在靠步行和仅仅几辆战车，追赶高速战舰。
 [charslot(slot="m",name="avg_npc_1070_1#2$1",focus="m")]
-[name="希勒少尉"]......
+[name="希勒少尉"]……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]少尉，我尊重你的判断，但我们甚至不知道那些高速军舰具体为什么离开。
 [name="推进之王"]那些军舰在当时没有响应你们的通讯，你又凭什么笃定，那座移动要塞会为我们敞开大门？
@@ -389,7 +389,7 @@
 [charslot(slot="l",name="avg_npc_408_1#1$1",posfrom="-300,0", posto="-50,0",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="l",name="avg_npc_408_1#1$1",focus="l")]
-[name="维多利亚军官"]长官......（低语）。
+[name="维多利亚军官"]长官……（低语）。
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -402,7 +402,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [stopmusic(fadetime=1.5)]
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
-[name="希勒少尉"]稍微放慢速度......
+[name="希勒少尉"]稍微放慢速度……
 [name="希勒少尉"]我们继续行军——
 [dialog]
 [charslot]
@@ -435,14 +435,14 @@
 [PlaySound(key="$d_avg_bonrcver")]
 [charslot(slot = "m", action="shake",random=true, power=5, times=60,duration=0.3)]
 [Delay(time=0.8)]
-[name="希勒少尉"]......呃......
+[name="希勒少尉"]……呃……
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="他复原下巴的动作很利落，看来没少处理这种事。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_1070_1#4$1",focus="m")]
-[name="希勒少尉"]......你在挑衅军人，混混头子。
+[name="希勒少尉"]……你在挑衅军人，混混头子。
 [name="希勒少尉"]按照维多利亚的军事法，我可以处决你。
 [name="希勒少尉"]你——
 [Dialog]
@@ -478,13 +478,13 @@
 [charslot(slot="m",name="avg_npc_1070_1#4$1",focus="m")]
 [name="希勒少尉"]所有人不许妄动！不许误伤平民！
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
-[name="希勒少尉"]他们叫你“推进之王”，是吗？有些传言，说你有什么显赫的身份......
+[name="希勒少尉"]他们叫你“推进之王”，是吗？有些传言，说你有什么显赫的身份……
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="推进之王"]我是个混混头子。格拉斯哥帮的......老大。
+[name="推进之王"]我是个混混头子。格拉斯哥帮的……老大。
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
-[name="希勒少尉"]行，我不在乎，但你听好了，我是效忠于温德米尔公爵的军人......
+[name="希勒少尉"]行，我不在乎，但你听好了，我是效忠于温德米尔公爵的军人……
 [charslot(slot="m",name="avg_npc_1070_1#4$1",focus="m")]
 [name="希勒少尉"]我的使命就是完成长官交给我的任务！
 [Dialog]
@@ -508,9 +508,9 @@
 [delay(time=0.3)]
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]我等你擦掉嘴角的血。
-[name="推进之王"]......放弃吧，你的手要脱臼了。
+[name="推进之王"]……放弃吧，你的手要脱臼了。
 [charslot(slot="m",name="avg_npc_1070_1#4$1",focus="m")]
-[name="希勒少尉"]为了保全大多数，我可以接受......牺牲。
+[name="希勒少尉"]为了保全大多数，我可以接受……牺牲。
 [Dialog]
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [delay(time=0.2)]
@@ -530,7 +530,7 @@
 [CameraShake(duration=0.3, xstrength=12, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="推进之王"]你真正睁眼看过你的队伍吗？！
 [charslot(slot="m",name="avg_npc_1070_1#2$1",focus="m")]
-[name="希勒少尉"]我......
+[name="希勒少尉"]我……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -540,13 +540,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [name="推进之王"]已经足够了。
-[name="推进之王"]我也想告诉他们，那些从诺伯特区的地狱爬出来的人......
-[name="推进之王"]......他们仍然有我罩着。还有人在乎他们。
+[name="推进之王"]我也想告诉他们，那些从诺伯特区的地狱爬出来的人……
+[name="推进之王"]……他们仍然有我罩着。还有人在乎他们。
 [name="推进之王"]拳头大的人更有理，这是街头的法则，少尉。
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
-[name="希勒少尉"]......
+[name="希勒少尉"]……
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]所以我现在告知你，他们会在这里扎营休息整顿，我们必须重新考虑之后的行动。
 [charslot(slot="m",name="avg_npc_1070_1#4$1",focus="m")]
@@ -568,7 +568,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avgnew_112_siege_1#8$1",focus="m")]
-[name="推进之王"]戴菲恩，这身衣服，那柄剑......
+[name="推进之王"]戴菲恩，这身衣服，那柄剑……
 [Dialog]
 [charslot]
 [delay(time=0.5)]
@@ -577,7 +577,7 @@
 [delay(time=2.5)]
 [playMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
-[name="戴菲恩"]这身衣服......对于我还是有些太大了。
+[name="戴菲恩"]这身衣服……对于我还是有些太大了。
 [name="戴菲恩"]但现在，我需要你们听听我的想法。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -597,7 +597,7 @@
 [charslot(slot="r",name="avgnew_112_siege_1#12$1",focus="r")]
 [name="推进之王"]你穿上了这身衣服。
 [charslot(slot="l",name="avg_4110_delphn_1#9$1",focus="l")]
-[name="戴菲恩"]......它所象征的东西，也许还能帮上一些人的忙。
+[name="戴菲恩"]……它所象征的东西，也许还能帮上一些人的忙。
 [Dialog]
 [charslot]
 [delay(time=0.2)]
@@ -606,11 +606,11 @@
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
 [name="希勒少尉"]戴菲恩小姐，我已经和我的士兵们交代完毕。在我回来之前，这些士兵的指挥权暂时由您接管。
-[name="希勒少尉"]......我依旧想最后邀请您一次，您是温德米尔公爵这个头衔的第一顺位继承人，无论如何，您都应该和我们一起——
+[name="希勒少尉"]……我依旧想最后邀请您一次，您是温德米尔公爵这个头衔的第一顺位继承人，无论如何，您都应该和我们一起——
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
 [name="戴菲恩"]抱歉，我必须留下。
 [name="戴菲恩"]这也是我对市民们的承诺，他们需要知道，维多利亚没有抛弃他们。
-[name="戴菲恩"]他们需要这份希望才能坚持下去......现在我们只能彼此信任，我们必须彼此信任。
+[name="戴菲恩"]他们需要这份希望才能坚持下去……现在我们只能彼此信任，我们必须彼此信任。
 [name="戴菲恩"]况且，如果护航舰队的离开只是一起误会，或是少数人的哗变，那么无论我在不在，“加拉瓦铁盾”都会迎接我们。
 [charslot(slot="m",name="avg_4110_delphn_1#8$1",focus="m")]
 [name="戴菲恩"]而如果不是呢？
@@ -621,24 +621,24 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
-[name="戴菲恩"]我的出现......会让事态更糟。起码你能活下去，对吧。
+[name="戴菲恩"]我的出现……会让事态更糟。起码你能活下去，对吧。
 [charslot(slot="m",name="avg_npc_1070_1#4$1",focus="m")]
 [name="希勒少尉"]您知道！我并不是苟且偷生的——
 [charslot(slot="m",name="avg_4110_delphn_1#7$1",focus="m")]
-[name="戴菲恩"]他们放了我一次，也许是出于对我母亲的尊重，也许是出于......一点恻隐之心。但他们不会给我第二次机会。
+[name="戴菲恩"]他们放了我一次，也许是出于对我母亲的尊重，也许是出于……一点恻隐之心。但他们不会给我第二次机会。
 [charslot(slot="m",name="avg_npc_1070_1#2$1",focus="m")]
-[name="希勒少尉"]......
+[name="希勒少尉"]……
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
 [name="希勒少尉"]我信任我的战友，以及长官对公爵的忠诚。
 [name="希勒少尉"]戴菲恩小姐，请收下我们的位置信标，我保证带回来好消息。
-[name="希勒少尉"]至于你......
+[name="希勒少尉"]至于你……
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="这个男人平静地注视着我，我捏紧拳头，防备着他猛地给我一下。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
-[name="希勒少尉"]......唉。你的拳头很硬，戴菲恩小姐就拜托你了。
+[name="希勒少尉"]……唉。你的拳头很硬，戴菲恩小姐就拜托你了。
 [charslot(slot="m",name="avgnew_112_siege_1#3$1",focus="m")]
 [name="推进之王"]放心，少尉。
 [Dialog]
@@ -663,7 +663,7 @@
 [name="达格达"]我不知道这是不是温德米尔公爵瞒着我们下达的命令，当时登舰期间的情况太混乱，也找不到命令的执行者。
 [name="达格达"]但就结果而言，只能说他们的登舰筛查做得“很到位”。如今队伍里的难民基本都没有感染的迹象。
 [charslot(slot="m",name="avg_npc_396_1#2$1",focus="m")]
-[name="达格达"]可眼下......
+[name="达格达"]可眼下……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -672,15 +672,15 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_396_1#2$1",focus="m")]
-[name="达格达"]在萨卡兹的巫术中作战的士兵们......很多都已经有了急性的感染症状。
+[name="达格达"]在萨卡兹的巫术中作战的士兵们……很多都已经有了急性的感染症状。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]这些军人们为了对抗萨卡兹而感染了矿石病，他们的同袍居然就这样毫无心理负担地抛弃他们了？
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
-[name="戴菲恩"]......这是军队里的传统。不只是维多利亚，卡西米尔、乌萨斯，乃至曾经的高卢都是如此。
+[name="戴菲恩"]……这是军队里的传统。不只是维多利亚，卡西米尔、乌萨斯，乃至曾经的高卢都是如此。
 [name="戴菲恩"]军营中不会接纳感染者，也许稍微有点良心的指挥官会把他们编进独立的编制中，然后派遣他们执行最危险的任务。
 [name="戴菲恩"]但对于一支军队，感染者和他们失控的源石技艺实在是太不稳定了。
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
-[name="推进之王"]......总该有人反抗过。
+[name="推进之王"]……总该有人反抗过。
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
 [name="戴菲恩"]但没有成功过。历史上的战争中军队的感染者比例其实并不算高，为了前线的稳定，这样的损耗是可被接受的。
 [name="戴菲恩"]皇家军事学院甚至直接把这一点写进了教材里。
@@ -724,12 +724,12 @@
 [charslot(slot="m",name="avg_4110_delphn_1#7$1",focus="m")]
 [name="戴菲恩"]你知道得是不是太快了？
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]......唔，这是我们的职责。您也算是......同行吧。
+[name="“灰礼帽”"]……唔，这是我们的职责。您也算是……同行吧。
 [charslot(slot="m",name="avg_4110_delphn_1#7$1",focus="m")]
 [name="戴菲恩"]你究竟是来做什么的？
 [name="戴菲恩"]你最好想清楚你接下来要说的话。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]......
+[name="“灰礼帽”"]……
 [name="“灰礼帽”"]向英雄献花，温德米尔小姐，并且带了一批口粮和弹药作为礼物。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]交换什么？
@@ -744,34 +744,34 @@
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]拉上你们那个该死的剑座，把那东西带去最前线，带去交火最密集、风暴最可能扫荡的地方。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]......
+[name="“灰礼帽”"]……
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]如果你们的盘算是把这把剑安稳留在后方，支起一个王公贵族们用来避暑喝茶的帐篷，那就给我滚开！
-[name="推进之王"]只要你们真的愿意把这东西带到前线，为维多利亚的战士、市民或者没了家园的可怜人遮风避雨......
-[name="推进之王"]而不论他们是铁匠的儿子还是老师的女儿，不论他们领着维多利亚的军饷还是握着自制的武器，都能得到它的荫庇......
+[name="推进之王"]只要你们真的愿意把这东西带到前线，为维多利亚的战士、市民或者没了家园的可怜人遮风避雨……
+[name="推进之王"]而不论他们是铁匠的儿子还是老师的女儿，不论他们领着维多利亚的军饷还是握着自制的武器，都能得到它的荫庇……
 [name="推进之王"]那我大可以把这根铁条交给你们。
 [name="推进之王"]带着剑座来见我，灰礼帽，在前线，我不会落后你哪怕一步，我承诺。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]......哎呀。
+[name="“灰礼帽”"]……哎呀。
 [name="“灰礼帽”"]这超出了我的权责范围，我毕竟只是个代办，最终的决定权在开斯特公爵阁下手里。
 [charslot(slot="m",name="avgnew_112_siege_1#7$1",focus="m")]
 [name="推进之王"]那就去找你的主人，从我亲爱的姑姑嘴里要出个结论再来见我！
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]亚历山德莉娜殿下，我会去争取的。
-[name="“灰礼帽”"]但......这只是个人的承诺。
+[name="“灰礼帽”"]但……这只是个人的承诺。
 [name="“灰礼帽”"]接下来的谈话不会被记录。只是些私人的，不是“灰礼帽”，而是萨福克爵士，贝林厄姆的私人看法。
 [name="“灰礼帽”"]殿下，有时候出现些新的声音也许不是坏事。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]你们已经收拢了一些感染的战士，呃，更多是平民啦，这......很好，但还不够。你需要一支“军队”，属于你的“军队”。
+[name="“灰礼帽”"]你们已经收拢了一些感染的战士，呃，更多是平民啦，这……很好，但还不够。你需要一支“军队”，属于你的“军队”。
 [name="“灰礼帽”"]能够让他们也得以容身的军队。
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
-[name="推进之王"]......你......
+[name="推进之王"]……你……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="这确实让我有些惊讶。可能这本身也是开斯特的某种伎俩......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="这确实让我有些惊讶。可能这本身也是开斯特的某种伎俩……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n他甚至在鼓动我建立一支整合运动。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -779,16 +779,16 @@
 [name="推进之王"]看来你真的关了身上的录音机。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]哈哈。关太长时间会让我的同事们起疑惑。
-[name="“灰礼帽”"]......我的奶奶，在四国战争期间因感染被处决......
-[name="“灰礼帽”"]她出门前，大笑着告诉我爸，因为打仗感染矿石病的概率不到百分之三。等我继承了爵位，去档案馆里翻那些资料的时候，才知道......
+[name="“灰礼帽”"]……我的奶奶，在四国战争期间因感染被处决……
+[name="“灰礼帽”"]她出门前，大笑着告诉我爸，因为打仗感染矿石病的概率不到百分之三。等我继承了爵位，去档案馆里翻那些资料的时候，才知道……
 [name="“灰礼帽”"]这个“百分之三”的统计数字，已经用了几百年。
-[name="“灰礼帽”"]......唉。现代战争，更多的源石机械，更复杂的源石法术。但百分之三，恒久不变。
+[name="“灰礼帽”"]……唉。现代战争，更多的源石机械，更复杂的源石法术。但百分之三，恒久不变。
 [name="“灰礼帽”"]你们也许注意不到，你们只能看到战场具体的一角。公爵们也注意不到，他们的目光放得太远太远，但是我很清楚。
 [name="“灰礼帽”"]维多利亚军队的感染问题很严重，从未有过的严重。
 [name="“灰礼帽”"]在之前与“文明国家”的冲突中，大家都很克制。
 [name="“灰礼帽”"]谁也不想让自己的军营里满是会爆炸的活体炸弹，或是收获一座沾满了源石粉末的脏城。
-[name="“灰礼帽”"]但是，现在......我们的对手是萨卡兹。
-[name="“灰礼帽”"]推进之王，如果你真的有意去做，那对你的声望，对我的前途，对......唉，甚至对我们的国家，也许都有好处。
+[name="“灰礼帽”"]但是，现在……我们的对手是萨卡兹。
+[name="“灰礼帽”"]推进之王，如果你真的有意去做，那对你的声望，对我的前途，对……唉，甚至对我们的国家，也许都有好处。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]感染者的事，我和我的同伴比你们更有数，就不劳您费心了。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
@@ -810,7 +810,7 @@
 [PlaySound(key="$transmission",volume=0.6)]
 [delay(time=1.5)]
 [charslot(slot="r",name="avgnew_112_siege_1#8$1",focus="r")]
-[name="推进之王"]这个声音......这是——
+[name="推进之王"]这个声音……这是——
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -820,8 +820,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Sticker(id="st1", multi = true, text="“滋滋——”", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="“需要......支援......切特雷镇......”", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n“包围......风暴突击队......”",block = true)]
+[Sticker(id="st1", multi = true, text="“需要……支援……切特雷镇……”", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="\n“包围……风暴突击队……”",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="“求援！”", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]

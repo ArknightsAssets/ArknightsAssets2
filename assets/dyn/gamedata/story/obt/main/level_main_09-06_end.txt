@@ -10,7 +10,7 @@
 [Character(name="avg_npc_229_1#7",fadetime=1,block=true)]
 [delay(time=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="号角"]  咳咳......
+[name="号角"]  咳咳……
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#7",focus=1)]
 [name="风笛"]  队长，你没事吧？
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#1",focus=2)]
@@ -18,22 +18,22 @@
 [Character(name="avg_222_bpipe_1#8",name2="avg_npc_229_1#1",focus=1)]
 [name="风笛"]  队长的反应比我更快，至少盾后这片大厅基本都是好的。
 [Character(name="avg_222_bpipe_1#8",name2="avg_npc_229_1#5",focus=2)]
-[name="号角"]  ......我护不住所有人。
+[name="号角"]  ……我护不住所有人。
 [Character(name="avg_222_bpipe_1#7",name2="avg_npc_229_1#5",focus=1)]
 [name="风笛"]  烟散得差不多了，我看到上校也只受了轻伤，他们正从另一个门撤退。
 [Character(name="avg_222_bpipe_1#7",name2="avg_npc_229_1#5",focus=2)]
-[name="号角"]  诗人......
+[name="号角"]  诗人……
 [Character(name="avg_222_bpipe_1#4",name2="avg_npc_229_1#5",focus=1)]
 [name="风笛"]  唉，他站得离炸弹太近了。
 [name="风笛"]  好可惜，不是每个人都能顶着刀刃替别人站出来的。他虽然是个诗人，但他有不输给优秀战士的勇气。
 [Character(name="avg_222_bpipe_1#4",name2="avg_npc_229_1#1",focus=2)]
-[name="号角"]  ......
+[name="号角"]  ……
 [name="号角"]  我多么希望他的死不是毫无意义。
 [name="号角"]  趁敌人还没打进来，风笛，疏散幸存者。
 [dialog]
 [delay(time=1)]
 [Character(name="avg_222_bpipe_1#4",name2="avg_npc_229_1#2",focus=2)]
-[name="号角"]  风笛......？
+[name="号角"]  风笛……？
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [character]
@@ -59,10 +59,10 @@
 [Background(image="bg_manorindoor",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_222_bpipe_1#7")]
-[name="风笛"]  ......
+[name="风笛"]  ……
 [Character(name="avg_222_bpipe_1#2")]
-[name="风笛"]  ............
-[name="风笛"]  我从来没见过......这样的火。
+[name="风笛"]  …………
+[name="风笛"]  我从来没见过……这样的火。
 [name="风笛"]  领头的术师，她是谁？
 [Character(name="avg_npc_229_1#7")]
 [name="号角"]  风笛，快走远一些！
@@ -84,11 +84,11 @@
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#1",focus=1)]
 [name="风笛"]  是，队长。
 [Character(name="avg_222_bpipe_1#5",name2="avg_npc_229_1#1",focus=1)]
-[name="风笛"]  我只是......
+[name="风笛"]  我只是……
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 帮我......快帮帮我......
+[name="野心勃勃的男爵"] 帮我……快帮帮我……
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 我的腿......好疼！
+[name="野心勃勃的男爵"] 我的腿……好疼！
 [Character(name="avg_npc_229_1#7")]
 [name="号角"] 救人要紧。先撤退。
 [Dialog]
@@ -123,43 +123,43 @@
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=1)]
 [name="风笛"] 敌人到处都是！
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#2",focus=2)]
-[name="号角"] ......以这个行军速度来看，鬼魂部队早就渗透进这座城市里了。
+[name="号角"] ……以这个行军速度来看，鬼魂部队早就渗透进这座城市里了。
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=1)]
-[name="风笛"] 十一区到十七区的沦陷速度太快了......难道说......这就是上校要去这些街区搜查的原因？！
+[name="风笛"] 十一区到十七区的沦陷速度太快了……难道说……这就是上校要去这些街区搜查的原因？！
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=2)]
-[name="号角"] ......
+[name="号角"] ……
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=2)]
 [name="号角"] 我们必须撤去第十区以南。驻军正在那个方位和鬼魂部队交战。
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 别、别去战场，先......先送我回到安全的地方躲一躲......不能让头领们发现我还活着......
+[name="野心勃勃的男爵"] 别、别去战场，先……先送我回到安全的地方躲一躲……不能让头领们发现我还活着……
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=1)]
 [name="风笛"] 送你回去？现在来看，你真的该被送进监狱！
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 轻一点......呜......疼......
+[name="野心勃勃的男爵"] 轻一点……呜……疼……
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 我......我给你们钱......我甚至可以送你们一个街区......只要你们......
+[name="野心勃勃的男爵"] 我……我给你们钱……我甚至可以送你们一个街区……只要你们……
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=1)]
-[name="风笛"] ......队长，我能不能用我的法子让他闭嘴？！
+[name="风笛"] ……队长，我能不能用我的法子让他闭嘴？！
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=2)]
 [name="号角"] 趁他醒着，多问几句。
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=2)]
 [name="号角"] 刚才那个领头的术师是谁？
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] ......那是......领袖......
+[name="野心勃勃的男爵"] ……那是……领袖……
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#4",focus=1)]
 [name="风笛"] 鬼魂部队的领袖？！
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#4",focus=1)]
-[name="风笛"] 她......到底是什么身份？
+[name="风笛"] 她……到底是什么身份？
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 我不知道......
+[name="野心勃勃的男爵"] 我不知道……
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#4",focus=1)]
 [name="风笛"] 你们不是一伙的吗？你什么都不知道就敢把人领进家门？！
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 她是......公爵的客......
+[name="野心勃勃的男爵"] 她是……公爵的客……
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#7",focus=2)]
-[name="号角"] ......公爵？哪一个？！
+[name="号角"] ……公爵？哪一个？！
 [Character(name="avg_npc_177")]
-[name="野心勃勃的男爵"] 我不能......
+[name="野心勃勃的男爵"] 我不能……
 [dialog]
 [PlaySound(key="$e_atk_arrow_h",volume=0.7)]
 [delay(time=0.7)]
@@ -181,9 +181,9 @@
 [dialog]
 [character]
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#1",focus=1)]
-[name="风笛"] 他......死了？
+[name="风笛"] 他……死了？
 [Character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#1",focus=1)]
-[name="风笛"] 鬼魂部队动的手......？
+[name="风笛"] 鬼魂部队动的手……？
 [Character(name="avg_npc_244")]
 [name="深池士兵"]——
 [dialog]
@@ -204,7 +204,7 @@
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=1)]
 [name="风笛"] 他们不是一伙的吗？鬼魂部队怎么专挑自己人下手？
 [Character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=2)]
-[name="号角"] ......先离开这里。
+[name="号角"] ……先离开这里。
 [StopSound(channel="bgs", fadetime=1)]
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
@@ -218,15 +218,15 @@
 [Character(name="avg_npc_244")]
 [name="深池士兵"]你，站住。
 [Character(name="avg_npc_090")]
-[name="干员威尔"]......
+[name="干员威尔"]……
 [Character(name="avg_npc_244")]
 [name="深池士兵"]你是什么人？躲在这里干什么？
 [Character(name="avg_npc_090")]
-[name="干员威尔"]我那个......我本来只是送个药......谁知你们打起来了。
+[name="干员威尔"]我那个……我本来只是送个药……谁知你们打起来了。
 [Character(name="avg_npc_244")]
 [name="深池士兵"]送药？给谁送？给维多利亚士兵？
 [Character(name="avg_npc_090")]
-[name="干员威尔"]我......呵呵......罗德岛的药，是给感染者用的，我们不关心病人的身份......
+[name="干员威尔"]我……呵呵……罗德岛的药，是给感染者用的，我们不关心病人的身份……
 [Character(name="avg_npc_244")]
 [name="深池士兵"]行迹可疑。
 [dialog]
@@ -244,7 +244,7 @@
 [dialog]
 [character]
 [Character(name="avg_npc_090")]
-[name="干员威尔"]啊......！
+[name="干员威尔"]啊……！
 [Character(name="avg_npc_245_1#1")]
 [name="Outcast"]没事了，威尔。
 [Character(name="avg_npc_090")]
@@ -253,7 +253,7 @@
 [Character(name="avg_npc_245_1#1")]
 [name="Outcast"]唉，你收到下午的通讯了吧？罗德岛将紧急停止在小丘郡的一切日常业务。
 [Character(name="avg_npc_090")]
-[name="干员威尔"]收是收到了，但......
+[name="干员威尔"]收是收到了，但……
 [Character(name="avg_npc_245_1#4")]
 [name="Outcast"]——想把剩下的药送完？
 [Character(name="avg_npc_245_1#6")]
@@ -267,7 +267,7 @@
 [Character(name="avg_npc_245_1#1")]
 [name="Outcast"]你赶紧回去吧。既然我在这里，我最优先要确保的，就是我们罗德岛的人，一个都不能少。
 [Character(name="avg_npc_090")]
-[name="干员威尔"]好的，女士......对了，我刚才在十七区附近还见到了简小姐......她......她经常来办事处，我们都当她半个罗德岛干员！
+[name="干员威尔"]好的，女士……对了，我刚才在十七区附近还见到了简小姐……她……她经常来办事处，我们都当她半个罗德岛干员！
 [Character(name="avg_npc_090")]
 [name="干员威尔"]她是维多利亚士兵，看这群暴徒的意思，他们不会放过她的！
 [Character(name="avg_npc_245_1#1")]
@@ -311,7 +311,7 @@
 [name="风笛"]  我对弩不是很在行，队长，我没在军队和学校里见过这个。这是我们的技术吗？
 [Character(name="avg_222_bpipe_1#7",name2="avg_npc_229_1#2",focus=2)]
 [name="号角"]  不是很像。
-[name="号角"]  风笛，我是不是遗漏了什么......我们是来调查源石制品失窃案的，对吧？
+[name="号角"]  风笛，我是不是遗漏了什么……我们是来调查源石制品失窃案的，对吧？
 [Character(name="avg_222_bpipe_1#5",name2="avg_npc_229_1#1",focus=1)]
 [name="风笛"]  是，毫无疑问，鬼魂部队想和我们正规军抗衡，就一定需要大量武器。
 [Character(name="avg_222_bpipe_1#5",name2="avg_npc_229_1#1",focus=2)]
@@ -345,7 +345,7 @@
 [Character(name="avg_npc_229_1#6",focus=-1)]
 [name="三角铁"]  哈哈，队长，有点困难。他们中的一半进了城，另一半仍然到处都是。
 [Character(name="avg_npc_229_1#1")]
-[name="号角"]  ......
+[name="号角"]  ……
 [Character(name="avg_npc_229_1#1",focus=-1)]
 [name="三角铁"]  队长，我们小组一致认为，我们应该继续最初的任务。
 [name="三角铁"]  我们查到了一辆运输车，你猜得没错，确实有人在利用农产品运输路线把这批源石制品运往某个地方。
@@ -358,14 +358,14 @@
 [Character(name="avg_npc_229_1#7")]
 [name="号角"]  这太冒险了！
 [Character(name="avg_npc_229_1#7",focus=-1)]
-[name="三角铁"]  哈哈......队长，你和风笛也要小心。
+[name="三角铁"]  哈哈……队长，你和风笛也要小心。
 [name="三角铁"]  三角铁，通讯完毕。
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
 [Character(name="avg_npc_229_1#1")]
-[name="号角"]  ......
+[name="号角"]  ……
 [name="号角"]  风笛，马上通知大提琴，我们这就回军营。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -374,9 +374,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [playsound(key="$transmission", volume=1)]
 [delay(time=1)]
-“......第三到第九城区失守......”
-“......市政厅、报社、玛丽医院同时遭到敌人攻击......”
-“......波莱男爵的夫人发来急电，她的丈夫于凌晨后失联，她请求驻军施以援手......”
+“……第三到第九城区失守……”
+“……市政厅、报社、玛丽医院同时遭到敌人攻击……”
+“……波莱男爵的夫人发来急电，她的丈夫于凌晨后失联，她请求驻军施以援手……”
 [dialog]
 [character]
 [name="号角"]  上校！我有话要说。
@@ -397,7 +397,7 @@
 [Character(name="avg_npc_229_1#1",name2="avg_npc_227_1#6",focus=1)]
 [name="号角"]  他们之前就藏在那里。而且，现在在城里的也不是全部，他们还有更多人。
 [Character(name="avg_npc_229_1#1",name2="avg_npc_227_1",focus=2)]
-[name="汉密尔顿上校"]  ......
+[name="汉密尔顿上校"]  ……
 [Character(name="avg_npc_229_1#1",name2="avg_npc_227_1#5",focus=2)]
 [name="汉密尔顿上校"]  我就知道。
 [Character(name="avg_npc_229_1#1",name2="avg_npc_227_1#5",focus=1)]
@@ -441,15 +441,15 @@
 [Character(name="avg_npc_227_1",name2="avg_npc_248",focus=2)]
 [name="副官希尔"]  我明白。
 [Character(name="avg_npc_227_1#1",name2="avg_npc_248",focus=1)]
-[name="汉密尔顿上校"]  ......被她这么一说，我倒是想到了。
+[name="汉密尔顿上校"]  ……被她这么一说，我倒是想到了。
 [Character(name="avg_npc_227_1#2",name2="avg_npc_248",focus=1)]
 [name="汉密尔顿上校"]  为什么我们昨夜在波顿家的行动会被敌人提前知道？！
 [Character(name="avg_npc_227_1#6",name2="avg_npc_248",focus=1)]
-[name="汉密尔顿上校"]  斯卡曼德罗斯......不，不会的。这人虽然和那类贵族一样天真又软弱，但她对帝国的忠诚很有保障。
+[name="汉密尔顿上校"]  斯卡曼德罗斯……不，不会的。这人虽然和那类贵族一样天真又软弱，但她对帝国的忠诚很有保障。
 [Character(name="avg_npc_227_1",name2="avg_npc_248",focus=2)]
-[name="副官希尔"]  ......
+[name="副官希尔"]  ……
 [Character(name="avg_npc_227_1#2")]
-[name="汉密尔顿上校"]  啧......看来渣滓终究是渣滓，卑劣的天性始终难改。
+[name="汉密尔顿上校"]  啧……看来渣滓终究是渣滓，卑劣的天性始终难改。
 [name="汉密尔顿上校"]  在这最后的几个小时里，还有件早该完成的事情必须完成。
 [Dialog]
 [Dialog]

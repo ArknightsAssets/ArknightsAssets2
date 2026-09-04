@@ -11,7 +11,7 @@
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_426_1#3$1",focus="m",duration=1)]
 [delay(time=1)]
-[name="变形者集群"]......
+[name="变形者集群"]……
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
 [name="Logos"]你在看什么？
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
@@ -48,7 +48,7 @@
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
 [name="Logos"]但你仍有未涉足的领域。
 [charslot(slot="m",name="avg_npc_426_1#6$1",focus="m")]
-[name="变形者集群"]......哦？
+[name="变形者集群"]……哦？
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
 [name="Logos"]这片大地上所有的事物都在演进，而你向来只是停留在原地，然后模仿出某个演进的结果。
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
@@ -60,15 +60,15 @@
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
 [name="Logos"]你已经猜到了。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
-[name="变形者集群"]......
+[name="变形者集群"]……
 [charslot(slot="m",name="avg_npc_426_1#8$1",focus="m")]
 [name="变形者集群"]报丧女妖，你无愧于你的名号。
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
 [name="Logos"]新生从灭亡中来。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
-[name="变形者集群"]是啊，我们确实从未尝试过......
+[name="变形者集群"]是啊，我们确实从未尝试过……
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
-[name="变形者集群"]......
+[name="变形者集群"]……
 [charslot(slot="m",name="avg_npc_426_1#4$1",focus="m")]
 [name="变形者集群"]离这里不远的地方，我们刚刚送别了一位朋友。
 [charslot(slot="m",name="avg_npc_426_1#4$1",focus="m")]
@@ -82,7 +82,7 @@
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]是我们未曾想过的一种勇气。
 [charslot(slot="m",name="avg_npc_426_1#8$1",focus="m")]
-[name="变形者集群"]好吧，好吧，女妖，我们承认......
+[name="变形者集群"]好吧，好吧，女妖，我们承认……
 [name="变形者集群"]我们确实开始跃跃欲试起来了。
 [charslot(slot="m",name="avg_npc_426_1#8$1",focus="m")]
 [name="变形者集群"]搞不好，这是你的无伤大雅的小小阴谋，为自己除去一个敌人的拙劣手段。
@@ -105,7 +105,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_426_1#9$1",focus="m",duration=1)]
 [delay(time=1)]
-[name="变形者集群"]......
+[name="变形者集群"]……
 [name="变形者集群"]你们很顽强，你们很勇敢，你们可以庆祝一下这场胜利。
 [dialog]
 [charslot(slot="m",name="avg_npc_426_1#9$1",focus="r")]
@@ -113,20 +113,20 @@
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]怎么，还不尽兴吗，罗德岛的博士？
-[name="变形者集群"]也许只是没有必要呢？也许我们比你最糟糕的估计......还要了解你们呢？
+[name="变形者集群"]也许只是没有必要呢？也许我们比你最糟糕的估计……还要了解你们呢？
 [dialog]
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="r")]
-[Decision(options="我相信罗德岛的安全系统。;......;难道罗德岛上也有你的分身？", values="1;2;3")]
+[Decision(options="我相信罗德岛的安全系统。;……;难道罗德岛上也有你的分身？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_426_1#8$1",focus="m")]
 [name="变形者集群"]哈哈，别那么紧张，博士。你们那艘船的登船检查，可没它看上去的那么简单。
 [name="变形者集群"]好了，再见吧，各位。
 [charslot(slot="m",name="avg_npc_395_1#6$1",focus="m")]
-[name="阿斯卡纶"]......你打算做什么？
+[name="阿斯卡纶"]……你打算做什么？
 [charslot(slot="m",name="avg_npc_426_1#4$1",focus="m")]
 [name="变形者集群"]我们这副残破的身躯还能做什么？
 [charslot(slot="m",name="avg_npc_426_1#4$1",focus="m")]
-[name="变形者集群"]我们停在原地......确实已经够久了。
+[name="变形者集群"]我们停在原地……确实已经够久了。
 [Dialog]
 [playsound(key="$d_avg_humanchange",volume=0.3)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -138,7 +138,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [name="变形者集群"]小小的异族魔王啊，你会前往哪里？
 [name="变形者集群"]你会把这些信任你的人，追随你的人，保护你的人带向何方？
-[name="变形者集群"]你会像博卓卡斯替说出的那个预言一样，奴役这片大地上的一切......
+[name="变形者集群"]你会像博卓卡斯替说出的那个预言一样，奴役这片大地上的一切……
 [name="变形者集群"]还是向我们证明，只是我们，被历史束缚得太深？
 [name="变形者集群"]“演进”，这是个狡猾的词汇，它仿佛预示着必然的进步，当然并非如此。
 [name="变形者集群"]但没关系，你会找到道路的，我们也一样。
@@ -150,17 +150,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]他消散了......
+[name="阿米娅"]他消散了……
 [charslot(slot="m",name="avg_npc_395_1#6$1",focus="m")]
 [name="阿斯卡纶"]不，变形者不会死去，他的另一个更加完整、更加强大的分身很可能就在附近。
 [charslot(slot="m",name="avg_npc_395_1#6$1",focus="m")]
-[name="阿斯卡纶"]这是他惯用的伎俩，让猎物放下戒心，再给予致命一击......
+[name="阿斯卡纶"]这是他惯用的伎俩，让猎物放下戒心，再给予致命一击……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_boneflute")]
 [delay(time=3)]
 [charslot(slot="m",name="avg_npc_395_1#4$1",focus="m")]
-[name="阿斯卡纶"]......骨哨声？这怎么可能？
+[name="阿斯卡纶"]……骨哨声？这怎么可能？
 [charslot(slot="m",name="avg_npc_395_1#4$1",focus="m")]
 [name="阿斯卡纶"]Logos视骨哨为旧王庭可悲的传统，他从来拒绝像他的那些前任一样吹响它。
 [charslot(slot="m",name="avg_npc_395_1#10$1",focus="m")]
@@ -168,7 +168,7 @@
 [charslot(slot="m",name="avg_npc_395_1#4$1",focus="m")]
 [name="阿斯卡纶"]——！
 [charslot(slot="m",name="avg_npc_395_1#4$1",focus="m")]
-[name="阿斯卡纶"]变形者的集群......在死去。
+[name="阿斯卡纶"]变形者的集群……在死去。
 [dialog]
 [charslot]
 [Subtitle(text="“挽歌已经响起，骨哨已经哀鸣。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
@@ -186,23 +186,23 @@
 [charslot(slot="m",name="avg_npc_055",focus="m")]
 [name="赦罪师"]自从这一位女妖之主践祚王庭，我们已经多久没有听过骨哨声了？
 [charslot(slot="m",name="avg_npc_062",focus="m")]
-[name="特雷西斯"]......
+[name="特雷西斯"]……
 [charslot(slot="m",name="avg_npc_062",focus="m")]
 [name="特雷西斯"]变形者死了。
 [charslot(slot="m",name="avg_npc_055",focus="m")]
-[name="赦罪师"]别担心，变形者阁下只是迎来了一次小小的挫折，他很快......
+[name="赦罪师"]别担心，变形者阁下只是迎来了一次小小的挫折，他很快……
 [charslot(slot="m",name="avg_npc_062",focus="m")]
 [name="特雷西斯"]不，我的意思是，所有的变形者在同一时刻凋零。
 [charslot(slot="m",name="avg_npc_062",focus="m")]
 [name="特雷西斯"]变形者死去了，最为恒久的王庭就此崩塌。
 [charslot(slot="m",name="avg_npc_062",focus="m")]
-[name="特雷西斯"]......哼，真有意思。
+[name="特雷西斯"]……哼，真有意思。
 [charslot(slot="m",name="avg_npc_062",focus="m")]
 [name="特雷西斯"]我想，他自己都没有想到，会是这个结果。
 [charslot(slot="m",name="avg_npc_062",focus="m")]
 [name="特雷西斯"]我该怎么形容？一次分裂？
 [charslot(slot="m",name="avg_npc_062",focus="m")]
-[name="特雷西斯"]......还是两个新生？
+[name="特雷西斯"]……还是两个新生？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(fadetime=0)]
@@ -212,7 +212,7 @@
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
 [name="凯尔希"]亘古统一的变形者已经不复存在。
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
 [name="凯尔希"]而两位初生的变形者，出现在了这个世间。
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
@@ -225,9 +225,9 @@
 [delay(time=1)]
 [name="可露希尔"]凯尔希，你的伤还没好，小心我向闪灵告状——
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
-[name="凯尔希"]......我已经基本没事了。
+[name="凯尔希"]……我已经基本没事了。
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
-[name="凯尔希"]也许很快，会有一位老朋友找上我们......不，现在是新朋友了。
+[name="凯尔希"]也许很快，会有一位老朋友找上我们……不，现在是新朋友了。
 [charslot(slot="m",name="avg_npc_411_1#12$1",focus="m")]
 [name="可露希尔"]我一点也不想见到你的任何一位老朋友或者新朋友。
 [charslot(slot="m",name="avg_npc_411_1#8$1",focus="m")]
@@ -237,21 +237,21 @@
 [charslot(slot="m",name="avg_npc_411_1#8$1",focus="m")]
 [name="可露希尔"]坏消息是——
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
-[name="凯尔希"]......我选好消息。
+[name="凯尔希"]……我选好消息。
 [charslot(slot="m",name="avg_npc_411_1#8$1",focus="m")]
-[name="可露希尔"]坏消息是我们在布伦特伍德没发现萨卡兹那条补给线的入口到底在哪，根本没有什么地下隧道之类的设施，但是又的确有检修通道......
+[name="可露希尔"]坏消息是我们在布伦特伍德没发现萨卡兹那条补给线的入口到底在哪，根本没有什么地下隧道之类的设施，但是又的确有检修通道……
 [charslot(slot="m",name="avg_npc_411_1#5$1",focus="m")]
-[name="可露希尔"]等等，你说......啊？？
+[name="可露希尔"]等等，你说……啊？？
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
 [name="凯尔希"]我说，我选好消息。
 [charslot(slot="m",name="avg_npc_411_1#4$1",focus="m")]
-[name="可露希尔"]啊，呃，我......
+[name="可露希尔"]啊，呃，我……
 [charslot(slot="m",name="avg_npc_411_1#4$1",focus="m")]
 [name="可露希尔"]闪灵——
 [charslot(slot="m",name="char_003_kalts_1",focus="m")]
 [name="凯尔希"]我偶尔也想听听好消息，可露希尔。
 [charslot(slot="m",name="avg_npc_411_1#5$1",focus="m")]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [charslot(slot="m",name="avg_npc_411_1#1$1",focus="m")]
 [name="可露希尔"]好消息是，我们收到博士的联络了。
 [Dialog]
@@ -268,15 +268,15 @@
 [charslot(slot="m",name="avg_npc_868_1#8$1",focus="m")]
 [name="温德米尔公爵"]我才要谢谢你们，罗德岛。
 [charslot(slot="m",name="avg_npc_868_1#8$1",focus="m")]
-[name="温德米尔公爵"]你们帮助诺伯特区的市民们躲过了一场灭顶之灾。虽然不是全部，但是......已经足够。
+[name="温德米尔公爵"]你们帮助诺伯特区的市民们躲过了一场灭顶之灾。虽然不是全部，但是……已经足够。
 [charslot(slot="m",name="avg_npc_868_1#8$1",focus="m")]
 [name="温德米尔公爵"]保护国民本应是我们这些肩负公爵之名的人应该干的事。
 [charslot(slot="m",name="avg_npc_868_1#9$1",focus="m")]
 [name="温德米尔公爵"]更何况，你们还救下了我的女儿。
 [charslot(slot="m",name="avg_npc_868_1#8$1",focus="m")]
-[name="温德米尔公爵"]......她刚刚在房间里大哭了一场。
+[name="温德米尔公爵"]……她刚刚在房间里大哭了一场。
 [charslot(slot="m",name="avg_npc_866_1#5$1",focus="m")]
-[name="戴菲恩"]妈妈！我只是......
+[name="戴菲恩"]妈妈！我只是……
 [charslot(slot="m",name="avg_npc_868_1#2$1",focus="m")]
 [name="温德米尔公爵"]这些日子，我能猜到你们经历了什么。
 [charslot(slot="m",name="avg_npc_868_1#1$1",focus="m")]
@@ -290,7 +290,7 @@
 [charslot(slot="m",name="avg_npc_868_1#7$1",focus="m")]
 [name="温德米尔公爵"]你可以称呼那为一场阴谋，我不否认，在蒸汽骑士的调令上我也签了字。
 [charslot(slot="m",name="avg_npc_868_1#7$1",focus="m")]
-[name="温德米尔公爵"]但......决定这个国家的未来，这就是我们的使命。
+[name="温德米尔公爵"]但……决定这个国家的未来，这就是我们的使命。
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
 [name="推进之王"]“使命”。
 [charslot(slot="m",name="avg_npc_868_1#6$1",focus="m")]
@@ -299,7 +299,7 @@
 [name="温德米尔公爵"]你知道我的称呼是什么意思。
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]当然。
-[name="推进之王"]我和达格达先失陪了，公爵阁下。现在......我更想和我的朋友们待在一起。
+[name="推进之王"]我和达格达先失陪了，公爵阁下。现在……我更想和我的朋友们待在一起。
 [charslot(slot="m",name="avg_npc_868_1#2$1",focus="m")]
 [name="温德米尔公爵"]请随意。
 [dialog]
@@ -311,13 +311,13 @@
 [charslot(duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_868_1#1$1",focus="m")]
-[name="温德米尔公爵"]接下来，罗德岛的博士，我想......我们无法回避你这位干员所携带的那样东西。
+[name="温德米尔公爵"]接下来，罗德岛的博士，我想……我们无法回避你这位干员所携带的那样东西。
 [dialog]
 [charslot(slot="m",name="avg_npc_868_1#1$1",focus="r")]
-[Decision(options="诸王之息。;......;只是旅游纪念品。", values="1;2;3")]
+[Decision(options="诸王之息。;……;只是旅游纪念品。", values="1;2;3")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_868_1#1$1",focus="m")]
-[name="温德米尔公爵"]......果然，我没有看错。
+[name="温德米尔公爵"]……果然，我没有看错。
 [Predicate(references="2")]
 [charslot(slot="m",name="avg_npc_868_1#1$1",focus="m")]
 [name="温德米尔公爵"]那是维多利亚的国剑，对吗？
@@ -346,13 +346,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
-[name="摩根"]......卡铎尔没有登船，他带着几个人离开了。
+[name="摩根"]……卡铎尔没有登船，他带着几个人离开了。
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
 [name="推进之王"]汉娜呢？
 [charslot(slot="m",name="avg_npc_405_1#3$1",focus="m")]
 [name="摩根"]她还在房间里，不愿意出来。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [name="推进之王"]再过一会儿，我们去给她送点吃的吧，在诺伯特区，她几乎没好好吃过饭。
 [charslot(slot="m",name="avg_npc_405_1#3$1",focus="m")]
 [name="摩根"]嗯。
@@ -368,27 +368,27 @@
 [name="摩根"]推进之王，你不需要它，对吧？我们都不需要它了。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
 [name="推进之王"]嗯。
-[name="推进之王"]我......
+[name="推进之王"]我……
 [charslot(slot="m",name="avg_npc_396_1#2$1",focus="m")]
-[name="达格达"]......推进之王，你怎么......你是在哭吗？
+[name="达格达"]……推进之王，你怎么……你是在哭吗？
 [charslot(slot="m",name="avgnew_112_siege_1#12$1",focus="m")]
-[name="推进之王"]我没有，我只是......
-[name="推进之王"]我只是......
+[name="推进之王"]我没有，我只是……
+[name="推进之王"]我只是……
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="推进之王"]......
+[name="推进之王"]……
 [dialog]
 [charslot]
 大滴的泪水顺着推进之王的脸颊滚下，摩根和达格达都愣住了，维娜从不流泪，这是所有人的共识。
 在高速战舰的甲板上，维多利亚的太阳仍在缓缓升起，扫去昨夜的阴霾，烤干昨夜的浓雾。
 而这个叫维娜的青年，正背对着太阳，无言地宣泄着自己的情感。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="推进之王"]我只是......被这些灰烬迷了眼睛。
+[name="推进之王"]我只是……被这些灰烬迷了眼睛。
 [charslot(slot="m",name="avg_npc_405_1#7$1",focus="m")]
 [name="摩根"]诺伯特区还会回来的，诺伯特区的人还在。
 [charslot(slot="m",name="avg_npc_405_1#7$1",focus="m")]
-[name="摩根"]我们的生活......也还会回来的。
+[name="摩根"]我们的生活……也还会回来的。
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
-[name="摩根"]我们只是......需要忍耐，只是需要再多一点忍耐。
+[name="摩根"]我们只是……需要忍耐，只是需要再多一点忍耐。
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
 [name="摩根"]维娜，我——
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]

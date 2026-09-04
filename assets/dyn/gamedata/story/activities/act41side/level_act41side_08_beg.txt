@@ -14,7 +14,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_1692_1#6$1",duration=1.5)]
 [Delay(time=2)]
-[name="涅梅丝"]哈，库林......我简直要嫉妒你了。
+[name="涅梅丝"]哈，库林……我简直要嫉妒你了。
 [name="涅梅丝"]那么大的一座雕像被你拖过来，人们就算在睡觉，也会被你吵到睡不着，出门来看热闹的。
 [charslot(slot="m",name="avg_npc_1692_1#2$1",focus="m")]
 [name="涅梅丝"]可我呢？库林，我呢？
@@ -25,7 +25,7 @@
 她抬头和雕像对视。跳动着紫火的眼眸不回答她。
 她回想起多年前和守灵人们一起在逝者灵前唱过的那些歌谣。来办葬礼的城里人也会和他们一起唱，尽管许多人唱了几句就开始忘词。
 [charslot(slot="m",name="avg_npc_1692_1#2$1",focus="m")]
-[name="涅梅丝"]......但愿你们还没把那些古老的歌谣忘干净，塔拉人。
+[name="涅梅丝"]……但愿你们还没把那些古老的歌谣忘干净，塔拉人。
 [charslot(slot="m",name="avg_npc_1692_1#7$1",focus="m")]
 [name="涅梅丝"]对了，红龙，我该用一首什么样的歌来昭告你的死亡呢？
 [name="涅梅丝"]不如来一曲亵渎的，《蒂姆·芬的守灵夜》，人们在你的葬礼上打作一团，连酒都洒在你身上，结果你闻着这酒香复活？
@@ -42,19 +42,19 @@
 [charslot]
 离群的守灵人嘶哑地唱着歌，拖着燃烧的棺椁，走向她烂熟于心的，纳斯尔纱的每一处曾有人居住的场所。
 她在每一间房前停留，确保紫色的火映在窗上，守灵人的挽歌传入室内。
-她越是歌唱，那火越是亲昵地搂紧她的身躯，越过她迟钝的知觉，让她每走一步都如同折磨......
+她越是歌唱，那火越是亲昵地搂紧她的身躯，越过她迟钝的知觉，让她每走一步都如同折磨……
 却同时让她听见从每一扇窗户里传出的，最细碎的声音。
 [Dialog]
 [CameraEffect(effect="Grayscale", amount=0.8, fadetime=1.5, keep=true)]
 [Background(image="59_g3_dragonsquare_d",screenadapt="coverall",fadetime=1.5)]
 [Delay(time=2)]
 [name="好奇的居民"]塔拉语培训班？基兰，这不可能不要钱的吧？
-[name="好奇的居民"]要是这个价......也不是不行，大不了少喝几顿酒呗。
+[name="好奇的居民"]要是这个价……也不是不行，大不了少喝几顿酒呗。
 [Dialog]
 [CameraEffect(effect="Grayscale", amount=0, fadetime=1.5, keep=true)]
 [Background(image="59_g4_dragonsquare_n",screenadapt="coverall",fadetime=1.5)]
 [Delay(time=2)]
-[name="烂醉的居民"]*维多利亚粗口*，基兰，我当年要是多帮帮你，你是不是就不至于被维多利亚人给抓去......
+[name="烂醉的居民"]*维多利亚粗口*，基兰，我当年要是多帮帮你，你是不是就不至于被维多利亚人给抓去……
 [name="烂醉的居民"]该死的黑雾，要是红龙再不把这东西赶走，那就我来！
 [charslot(slot="m",name="avg_npc_1692_1#2$1",focus="m")]
 [name="涅梅丝"]寒风在高山和丘陵间呼啸，乌云笼罩沼泽与山谷♪
@@ -64,7 +64,7 @@
 [charslot(duration=1.5)]
 [Delay(time=2.5)]
 [name="烂醉的居民"]谁？涅梅丝？大半夜的唱什么歌呢？
-[name="烂醉的居民"]她身后拖着的东西，烧得正旺的，又是什么......
+[name="烂醉的居民"]她身后拖着的东西，烧得正旺的，又是什么……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -75,13 +75,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [name="不舍的居民"]亲爱的，就算你想为塔拉人做些什么，也不用非要去参军吧？
-[name="不舍的居民"]......好吧，我会在家一直等你回来的，一直到我们赢得自由那天。
+[name="不舍的居民"]……好吧，我会在家一直等你回来的，一直到我们赢得自由那天。
 [Dialog]
 [CameraEffect(effect="Grayscale", amount=0, fadetime=1.5, keep=true)]
 [Background(image="59_g4_dragonsquare_n",screenadapt="coverall",fadetime=1.5)]
 [Delay(time=2)]
 [name="厌烦的居民"]终于安静了。一直念叨手疼，手疼，手疼，整条胳膊都没了，怎么会疼？喊疼就有药吗？
-[name="厌烦的居民"]我宁愿你别回来，宁愿你让我怀念一辈子，也别像现在这样......
+[name="厌烦的居民"]我宁愿你别回来，宁愿你让我怀念一辈子，也别像现在这样……
 [charslot(slot="m",name="avg_npc_1692_1#2$1",focus="m")]
 [name="涅梅丝"]我对他说：可敬的人儿，连我也说不清有多远的旅途♪
 [name="涅梅丝"]但如果你愿意，我会陪你走一段，通往金色原野的路♪
@@ -89,7 +89,7 @@
 [charslot]
 [stopmusic(fadetime=2.5)]
 [name="厌烦的居民"]这不是悼念死者的歌吗？
-[name="厌烦的居民"]那紫色的火......这首歌悼念的是？！
+[name="厌烦的居民"]那紫色的火……这首歌悼念的是？！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -124,14 +124,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [name="提奥"]涅梅丝小姐，战争结束之后，你要搬过来和库林先生一起住啊？
-[name="提奥"]真可惜，我还以为这样就有人代替我帮库林先生做饭了呢......
+[name="提奥"]真可惜，我还以为这样就有人代替我帮库林先生做饭了呢……
 [Dialog]
 [charslot(duration=1.5)]
 [CameraEffect(effect="Grayscale", amount=0, fadetime=1.5, keep=true)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1692_1#6$1",duration=1.5)]
 [Delay(time=2)]
-[name="涅梅丝"]也许拉芙希妮殿下回来之前，我最该做的事......其实是把工坊的门修好。
+[name="涅梅丝"]也许拉芙希妮殿下回来之前，我最该做的事……其实是把工坊的门修好。
 [name="涅梅丝"]（吸鼻子）
 [Dialog]
 [charslot(slot="l",name="avg_npc_1692_1#2$1",focus="all",posfrom="200,0",posto="200,0",duration=1.5)]
@@ -148,9 +148,9 @@
 [name="“放逐王”"]已经快被死亡蚕食殆尽的守灵人，她唱的歌又能唤醒谁呢？
 [name="“放逐王”"]甚至连自己都没能唤醒，不是吗？
 [charslot(slot="m",name="avg_npc_1690_1#5$1",focus="m")]
-[name="“放逐王”"]......
+[name="“放逐王”"]……
 [charslot(slot="m",name="avg_npc_1690_1#10$1",focus="m")]
-[name="“放逐王”"]无论如何，布莉吉，继承了我稀薄血脉的傻孩子......
+[name="“放逐王”"]无论如何，布莉吉，继承了我稀薄血脉的傻孩子……
 [name="“放逐王”"]别回来。
 [charslot(slot="m",name="avg_npc_1690_1#5$1",focus="m")]
 [name="“放逐王”"]这座城市不值得你为它死去。
@@ -170,7 +170,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_1692_1#6$1",duration=1.5)]
 [Delay(time=2.5)]
-[name="涅梅丝"]......
+[name="涅梅丝"]……
 [charslot(slot="m",name="avg_npc_1692_1#2$1",focus="m")]
 [name="涅梅丝"]清晨我走入黑林，呼唤迷雾♪
 [name="涅梅丝"]踏上通往战场的路途♪
@@ -188,29 +188,29 @@
 [PlaySound(key="$dooropenquite")]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1696_1#4$1",focus="m")]
-[name="濒死的居民"]涅梅丝......
+[name="濒死的居民"]涅梅丝……
 [charslot(slot="m",name="avg_npc_1692_1#5$1",focus="m")]
-[name="涅梅丝"]......艾玛！
+[name="涅梅丝"]……艾玛！
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]我几乎认不出来你了，你......还......
+[name="涅梅丝"]我几乎认不出来你了，你……还……
 [charslot(slot="m",name="avg_npc_1696_1#4$1",focus="m")]
 [name="濒死的居民"]我不好，涅梅丝。我已经快死了。我想躺在床上就这么停止呼吸。
 [name="濒死的居民"]我浑身上下的骨节都痛，喉咙里像有火在烧。我这几天总是看见已经不在了的人。
-[name="濒死的居民"]可我听见了你的歌，我看见了你在拖的棺材！我快病死了，所以我才敢出来......咳、咳！
+[name="濒死的居民"]可我听见了你的歌，我看见了你在拖的棺材！我快病死了，所以我才敢出来……咳、咳！
 [name="濒死的居民"]黑雾呢？
 [charslot(slot="m",name="avg_npc_1692_1#8$1",focus="m")]
 [name="涅梅丝"]也许在林中，也许在城内，也许已经到我们身后了。我不知道。我不关心。
 [charslot(slot="m",name="avg_npc_1696_1#4$1",focus="m")]
-[name="濒死的居民"]哈......哈......我也......不关心。
-[name="濒死的居民"]我只问你一个问题，涅梅丝......你回答之后，我就可以舒舒服服地死去，不再像这样活受罪——
-[name="濒死的居民"]（急促的呼吸声）那具灵柩里......躺的真的是我们的红龙吗？
+[name="濒死的居民"]哈……哈……我也……不关心。
+[name="濒死的居民"]我只问你一个问题，涅梅丝……你回答之后，我就可以舒舒服服地死去，不再像这样活受罪——
+[name="濒死的居民"]（急促的呼吸声）那具灵柩里……躺的真的是我们的红龙吗？
 [Dialog]
 [charslot]
 艾玛在自家门口的台阶上摇摇晃晃，好像随时会坍塌成一地薪柴，无望地燃起火焰，然后归于尘土。
 [charslot(slot="m",name="avg_npc_1692_1#2$1",focus="m")]
 [name="涅梅丝"]我亲自为红龙装殓了遗体。
 [charslot(slot="m",name="avg_npc_1696_1#4$1",focus="m")]
-[name="濒死的居民"]她到底为什么而死......
+[name="濒死的居民"]她到底为什么而死……
 [name="濒死的居民"]是谁杀了她？
 [name="濒死的居民"]是谁？！
 [Dialog]
@@ -218,15 +218,15 @@
 艾玛的声音虚弱却愤怒，空荡荡的，在街道上回响。
 是谁？！
 是谁？
-是谁......
+是谁……
 回声迟迟不散。
 涅梅丝回过头去，街道仍然空无一人，但她分明看见了回声的来源。
 一扇扇紧闭的门，一双双躲在门后，和艾玛一样布满血丝的眼睛。
 涅梅丝转头望向高耸的堡垒，那里一无所有。
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
-[name="涅梅丝"]你们......想的仍旧是......复仇？
+[name="涅梅丝"]你们……想的仍旧是……复仇？
 [charslot(slot="m",name="avg_npc_1696_1#4$1",focus="m")]
-[name="濒死的居民"]没错，只要还能动的人......
+[name="濒死的居民"]没错，只要还能动的人……
 [name="濒死的居民"]都要为红龙复仇。
 [Dialog]
 [charslot]
@@ -281,13 +281,13 @@
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.05, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2.5, block=true)]
 [charslot(slot="m",name="avg_1020_reed2_1#11$1",focus="m")]
-[name="拉芙希妮"]呼、呼......
+[name="拉芙希妮"]呼、呼……
 [Dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="一厢情愿......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="火焰非她所赐，却因她而起......红龙承诺的一切都因你失去......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一厢情愿……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="火焰非她所赐，却因她而起……红龙承诺的一切都因你失去……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -319,7 +319,7 @@
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="狂妄......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="狂妄……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -364,29 +364,29 @@
 巨大的雕像衬得下面两个渺小的人影宛如幽魂。
 可涅梅丝分明觉得，广场上不只一个孤零零的艾玛，而是挤挤挨挨站满了人，仿佛整个纳斯尔纱的人都来了似的。
 他们都在看，都在听，他们身上都亮着源石灯诡异的紫光。
-不，何止亮着紫光啊......他们自身就在燃烧。
+不，何止亮着紫光啊……他们自身就在燃烧。
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]杀死红龙的，是......
+[name="涅梅丝"]杀死红龙的，是……
 [Dialog]
 [charslot]
 涅梅丝知道，他们毫无改变，他们仍在等涅梅丝说出一个该诅咒的名字，然后毁灭它，或者毁灭他们自己。
 拉芙希妮？没人会相信红龙有两条的。
 那，还有谁？还有谁能杀死那条几乎把生死玩弄在掌间的红龙？
-......就说是黑雾算了，就说是维多利亚人算了，涅梅丝突然不可抑制地这么想着。
+……就说是黑雾算了，就说是维多利亚人算了，涅梅丝突然不可抑制地这么想着。
 “复仇”，这才对嘛。让这些疯子冲进黑雾吧，让他们为了那条红龙去死吧。
 让所有复仇的愿望都如愿以偿，让这座紫色的城市死去，既然它本就生于耻辱，那它就该在疯狂中死去。
 对，死去，让留在这里的人们死去，就像那些离开这里的人一样，走进迷雾——
-[name="遥远的声音"]......清晨我走入黑林，呼唤迷雾......
+[name="遥远的声音"]……清晨我走入黑林，呼唤迷雾……
 涅梅丝回头看向那座巨龙骸骨雕像，想起不久前那个充斥着迷乱和悲伤的傍晚。
 那个把雕像拖上广场的人，他当时在想什么？他心中唱的是什么歌？
 和仿佛几个世纪以前那天，自己和他救出提奥时教给他的这首歌，是一首吗？
 就在这时，她仅剩的一点理智从致死的怒火中抢出了那个答案。
 那个从故事一开始就飘飘荡荡延续至今的，关于红龙，关于姐妹，关于镜与影，关于生命和死亡的火焰的答案。
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]（哽咽）库林......
-[name="涅梅丝"]（哽咽）如果不是你......如果不是你连死都要保护这些人......
-[name="涅梅丝"]......
-[name="涅梅丝"]杀死红龙的不是别人，正是......红龙......
+[name="涅梅丝"]（哽咽）库林……
+[name="涅梅丝"]（哽咽）如果不是你……如果不是你连死都要保护这些人……
+[name="涅梅丝"]……
+[name="涅梅丝"]杀死红龙的不是别人，正是……红龙……
 [name="涅梅丝"]她自己。
 [Dialog]
 [charslot]
@@ -396,14 +396,14 @@
 [name="涅梅丝"]红龙杀死了她自己！
 [name="涅梅丝"]因为在无意中点燃了你们身上的火，为了不让你们被那火燃成灰烬，红龙自愿献出了自己的生命！
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]她为了保护你们而死，而你们......
+[name="涅梅丝"]她为了保护你们而死，而你们……
 [name="涅梅丝"]还要用一场没有结果的复仇，去让她用生命换来的一切都被毁掉吗？！
 [Dialog]
 [charslot]
 城市沉默，紫火摇曳，唯有城门口盘桓不去的黑雾躁动不安，仿佛在等待一只迟迟不肯踏入领地的猎物。
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]你说......红龙为了不让我们复仇......杀死了自己？！
-[name="濒死的居民"]那......我们怎么办？
+[name="濒死的居民"]你说……红龙为了不让我们复仇……杀死了自己？！
+[name="濒死的居民"]那……我们怎么办？
 [Dialog]
 [charslot]
 涅梅丝感到一阵眩晕。整座城市在同时向她发问。
@@ -413,26 +413,26 @@
 沉默，压抑，茫然。
 复仇被红龙以最强硬的方式否决，那悲伤又该朝何处去？
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]尼亚尔......我未出世的孩子......红龙......谁来告诉我......
+[name="濒死的居民"]尼亚尔……我未出世的孩子……红龙……谁来告诉我……
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]艾玛？
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
 [name="濒死的居民"]如果连复仇都做不到，我还能做什么？
-[name="濒死的居民"]我已经什么都没有了，战争已经让我什么都没有了......
-[name="濒死的居民"]我该怎么活下去？告诉我，尼亚尔......红龙......
+[name="濒死的居民"]我已经什么都没有了，战争已经让我什么都没有了……
+[name="濒死的居民"]我该怎么活下去？告诉我，尼亚尔……红龙……
 [name="濒死的居民"]随便哪个人都行，来告诉我，我到底该怎么活下去？
-[name="濒死的居民"]或者......我去......见你们？
+[name="濒死的居民"]或者……我去……见你们？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]艾玛，不行！
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]我不是已经......只有这条路可走了吗？
+[name="濒死的居民"]我不是已经……只有这条路可走了吗？
 [Dialog]
 [charslot]
 [name="逐渐接近的声音"]清晨我走入黑林，呼唤迷雾♪
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
 [name="濒死的居民"]尼亚尔，是你吗？你终于来了吗？
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]......！
+[name="涅梅丝"]……！
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n")]
@@ -454,13 +454,13 @@
 [name="濒死的居民"]我说了，别再唱这首歌！
 [name="濒死的居民"]——等等，“重新”？
 [charslot(slot="m",name="avg_npc_728_1#4$1",focus="m")]
-[name="莫兰"]......
+[name="莫兰"]……
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
-[name="莫兰"]我斗胆为这首歌续上了一节......
+[name="莫兰"]我斗胆为这首歌续上了一节……
 [charslot(slot="m",name="avg_npc_728_1#4$1",focus="m")]
-[name="莫兰"]因为我不愿让那些英勇的人们......只是离开我们，和我们永不相见，却又和我们一样，永远迷失在雾气之中。
+[name="莫兰"]因为我不愿让那些英勇的人们……只是离开我们，和我们永不相见，却又和我们一样，永远迷失在雾气之中。
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]......
+[name="濒死的居民"]……
 [Dialog]
 [charslot]
 我重新穿过黑林，拨开迷雾♪
@@ -468,30 +468,30 @@
 于是我一次又一次在梦里出发，在林中点起篝火♪
 不为重逢，只为照亮你走过的路，和雾中的水珠♪
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]......不为重逢，只为......照亮你走过的路......？
+[name="濒死的居民"]……不为重逢，只为……照亮你走过的路……？
 [Dialog]
 [charslot]
 一颗泪珠从艾玛的眼中流出，划过她蜡黄的脸庞。
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
-[name="莫兰"]把你的火，把红龙曾经赐予的祝福......还回去吧。
+[name="莫兰"]把你的火，把红龙曾经赐予的祝福……还回去吧。
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]还火......？
-[name="濒死的居民"]把这祝福......把我身上的火焰还给红龙，他们前行的路，就能被照亮吗？
+[name="濒死的居民"]还火……？
+[name="濒死的居民"]把这祝福……把我身上的火焰还给红龙，他们前行的路，就能被照亮吗？
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
 [name="莫兰"]把火还给红龙，那些徘徊着的逝者也将回归火中，得到安眠。
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]不，我不要，我只是......想再见尼亚尔一面......
+[name="濒死的居民"]不，我不要，我只是……想再见尼亚尔一面……
 [charslot(slot="m",name="avg_npc_728_1#4$1",focus="m")]
 [name="莫兰"]如果像这样死去，你们只会无数次在雾中擦肩而过。
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]那我该......怎么办？
+[name="濒死的居民"]那我该……怎么办？
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
 [name="莫兰"]活下去。
 [name="莫兰"]他自愿走入迷雾之中，只为了你不必也在雾中迷失。
 [charslot(slot="m",name="avg_npc_1696_1#5$1",focus="m")]
-[name="濒死的居民"]......
+[name="濒死的居民"]……
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
-[name="莫兰"]把火还给他，照亮他的路，然后，让时间流逝，让生活开始，当你的头发雪白，而他得知自己如愿以偿时......
+[name="莫兰"]把火还给他，照亮他的路，然后，让时间流逝，让生活开始，当你的头发雪白，而他得知自己如愿以偿时……
 [name="莫兰"]你们会再见的。
 [Dialog]
 [charslot]
@@ -512,7 +512,7 @@
 谈不上清澈，更遑论汹涌。那是流经数百年苦痛的历史，几乎就要断绝的，裹挟着尘土和鲜血的，咸苦的浊流。
 可唯其苦涩，唯其浑浊，才在无光的夜里，映出了这座城市真正的样貌。
 那些紧握着相片睡去的夜晚，被残肢的钝痛惊醒的清晨。
-那些无人再踏入的屋舍沦为残垣，侥幸归来的，却只看见散落一地的玩偶积满了灰......
+那些无人再踏入的屋舍沦为残垣，侥幸归来的，却只看见散落一地的玩偶积满了灰……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -525,7 +525,7 @@
 [PlaySound(key="$dooropenquite")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_1692_1#10$1",focus="m")]
-[name="涅梅丝"]门......开了？
+[name="涅梅丝"]门……开了？
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
 [name="莫兰"]门开了。
 [Dialog]
@@ -534,7 +534,7 @@
 有的人从家中带上了烛火，更多的人像艾玛一样从守灵人手中接过火焰。
 那火焰仍是紫色，却柔和起来，带上了一点点温度。
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]终于，终于......
+[name="涅梅丝"]终于，终于……
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
 [name="严肃的守灵人"]去把红龙的棺椁搬上雕像的底座吧，涅梅丝。
 [charslot(slot="m",name="avg_npc_1691_1#3$1",focus="m")]
@@ -542,7 +542,7 @@
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
 [name="严肃的守灵人"]涅梅丝，你第一个来吧。
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]我？这毕竟是红龙的葬礼，这......真的好吗？
+[name="涅梅丝"]我？这毕竟是红龙的葬礼，这……真的好吗？
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
 [name="严肃的守灵人"]这又何止是红龙的葬礼呢？
 [Dialog]
@@ -552,14 +552,14 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_1690_1#10$1",afrom=0,ato=0.5,focus="m",duration=1.5)]
 [Delay(time=2.5)]
-[name="“放逐王”"]......
+[name="“放逐王”"]……
 [name="“放逐王”"]这就算两清了，木头脑袋。
 [Dialog]
 [charslot(slot="m",afrom=0.5,ato=0,focus="m",duration=1.5)]
 [Delay(time=2.5)]
 涅梅丝从守灵人手里接过灯火，对着红龙雕塑下燃烧的棺椁鞠了一躬。
 [charslot(slot="m",name="avg_npc_1692_1#6$1",focus="m")]
-[name="涅梅丝"]......安息。
+[name="涅梅丝"]……安息。
 [Dialog]
 [charslot]
 涅梅丝刻意没提逝者的名字。她将灯火摆在棺前，再也遏制不住的眼泪砸在火中。
@@ -573,9 +573,9 @@
 [Delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 人们把手头的火摆在雕像旁边，把紫火还给那将火焰染上颜色的人。
-有的人沉默，有的人念着红龙的名字，更多的人口中念叨的，则是他们在战争中失去的最宝贵的东西......
+有的人沉默，有的人念着红龙的名字，更多的人口中念叨的，则是他们在战争中失去的最宝贵的东西……
 然后泪如雨下。
-被压抑的，被许诺的，被扭曲的，被煽动的......闪闪发光的虚饰被泪水洗去，露出的，唯有生活被碾成碎片的悲伤。
+被压抑的，被许诺的，被扭曲的，被煽动的……闪闪发光的虚饰被泪水洗去，露出的，唯有生活被碾成碎片的悲伤。
 粗糙，尖锐，浑浊，哽在喉间，直到此刻才能号泣出声的悲伤。
 泪雨汇入歌声的涓流，积在雕像周围，而雕像上熊熊的火焰又将泪水蒸腾，攀上天空，直到连广场后那座堡垒也被卷入火中。
 [Dialog]
@@ -589,15 +589,15 @@
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="拉芙希妮"]......
-[name="拉芙希妮"]我告诉过你，这......就是我的答案。
+[name="拉芙希妮"]……
+[name="拉芙希妮"]我告诉过你，这……就是我的答案。
 [Dialog]
 [charslot]
 黑雾沉默不语，良久，拉芙希妮才听见一声长叹。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="......这是你自己选的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……这是你自己选的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -623,8 +623,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 拉芙希妮从入城口一路走回红龙广场。所有还活着的人都已经聚在那尊熊熊燃烧的雕像之前。
 堡垒一侧已经被腾空的紫火彻底占据，无人能够靠近，反倒给了拉芙希妮空间。
-[name="拉芙希妮"]从这里......应该也算还火了吧。
-[name="拉芙希妮"]爱布拉娜，愿塔拉......永远不再需要你的火。
+[name="拉芙希妮"]从这里……应该也算还火了吧。
+[name="拉芙希妮"]爱布拉娜，愿塔拉……永远不再需要你的火。
 拉芙希妮的掌心冒出小小的火花。她不知道这是否合乎葬礼的传统，她只是本能地这么做了。
 那朵明黄色的火花飘飘摇摇地飞入紫色的烈火。拉芙希妮也像其他还了火的人一样，静静地站在那里。
 但火没有熄灭。
@@ -638,7 +638,7 @@
 她和巨龙四目相对。
 那是爱布拉娜的眼睛。
 [name="拉芙希妮"]还不死心吗，爱布拉娜？
-[name="拉芙希妮"]那好吧，我陪你......
+[name="拉芙希妮"]那好吧，我陪你……
 [name="拉芙希妮"]我最后陪你一次。
 拉芙希妮的枪尖闪动起明亮的火焰，而巨龙扇动双翼，冲向拉芙希妮。
 [Dialog]

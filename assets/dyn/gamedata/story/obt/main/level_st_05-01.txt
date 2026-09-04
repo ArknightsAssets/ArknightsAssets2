@@ -12,7 +12,7 @@
 [Character(name="char_empty",name2="char_002_amiya_1#1",focus=1)]
 [name="魏彦吾"]  那就好。
 [name="魏彦吾"]  抱歉，罗德岛的领袖。我可以冒险让近卫局深入腹地，却不能冒险让更多的玩家参与进游戏。
-[Decision(options="更多的玩家是指？;......什么意思？;场面已经够混乱了。", values="1;2;3")]
+[Decision(options="更多的玩家是指？;……什么意思？;场面已经够混乱了。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_empty",name2="char_002_amiya_1#1",focus=1)]
 [name="魏彦吾"]  Dr.{@nickname}——
@@ -85,7 +85,7 @@
 [name="魏彦吾"]  无论中途发生了什么。
 [name="魏彦吾"]  罗德岛的Dr.{@nickname}，上次我们见面时，我用同样的方式表达过同样的意思。
 [name="魏彦吾"]  你的选择不多。但至少你可以选择消灭敌人的方式。
-[Decision(options="我不信你和你的鬼话。;......;没有人会在被愚弄了之后依然笑脸迎人的。", values="1;2;3")]
+[Decision(options="我不信你和你的鬼话。;……;没有人会在被愚弄了之后依然笑脸迎人的。", values="1;2;3")]
 [Predicate(references="1")]
 [name="魏彦吾"]  那当然好。
 [name="魏彦吾"]  我们都该保持警醒，大敌当前时不该有人松懈。
@@ -118,11 +118,11 @@
 [CharacterCutin(widgetID="1",fadetime=0.5,block=true)]
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"]  煌，Dr.{@nickname}，我们走。
-[name="阿米娅"]  啊，对了陈长官，星熊警官呢？我为什么没在这看见她，她......没事吧？
+[name="阿米娅"]  啊，对了陈长官，星熊警官呢？我为什么没在这看见她，她……没事吧？
 [Character(name="char_002_amiya_1#1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  星熊她受了点伤，但没什么大碍。
 [Character(name="char_002_amiya_1#2",name2="char_010_chen_1#1",focus=1)]
-[name="阿米娅"]  这样啊......我知道了。
+[name="阿米娅"]  这样啊……我知道了。
 [name="阿米娅"]  陈长官，罗德岛也可以帮你检查一下伤势，做一些应急处理。
 [Character(name="char_002_amiya_1#2",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  不用了。
@@ -131,10 +131,10 @@
 [Character(name="char_002_amiya_1#1",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  我简单处理一下就行。
 [Character(name="char_002_amiya_1#1",name2="char_010_chen_1#1",focus=1)]
-[name="阿米娅"]  嗯......我就不勉强陈长官了，如果你这么坚持的话。
+[name="阿米娅"]  嗯……我就不勉强陈长官了，如果你这么坚持的话。
 [name="阿米娅"]  那，陈长官，一会儿见。
 [Character(name="char_010_chen_1#1")]
-[name="陈"]  ......
+[name="陈"]  ……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [Character]
@@ -182,7 +182,7 @@
 [CharacterCutin(widgetID="1",fadetime=0.5,block=true)]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="char_2005_weiyw_1",fadetime=1,block=true)]
-[name="魏彦吾"]  嗯......
+[name="魏彦吾"]  嗯……
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_2006_weiywfmzuki_1",name2="char_2005_weiyw_1",focus=1)]
 [name="文月"]  事情不是进行得很顺利吗，你怎么在这愁眉苦脸的？
@@ -210,7 +210,7 @@
 [name="文月"]  毕竟你亲口对我说过，如果二十年前我们输了，这座城市会改名换姓，成为乌萨斯征服史的另一条脚注。
 [name="文月"]  如果我们输了，坐在你现在的位置的不会是你，而是他。
 [Character(name="char_2006_weiywfmzuki_1",name2="char_2005_weiyw_1",focus=2)]
-[name="魏彦吾"]  ......
+[name="魏彦吾"]  ……
 [name="魏彦吾"]  科西切公爵。
 [Character(name="char_2006_weiywfmzuki_1",name2="char_2005_weiyw_1",focus=1)]
 [name="文月"]  哎，可怜的小塔，你能说小塔身上没有他的影子吗？

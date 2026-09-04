@@ -16,7 +16,7 @@
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="被挤到的百姓"]我的行李掉了，别挤别挤！
 [name="巡防营守军"]时间还够，请大家有秩序地撤离，不要惊慌，避免踩踏。
-[name="惊慌的孩子"]妈妈妈妈......
+[name="惊慌的孩子"]妈妈妈妈……
 [name="惊慌的孩子"]呜呜，我怕。
 [name="努力镇定的女性"]别怕，抓紧妈妈的手，别走丢了。
 [name="惊慌的孩子"]我们去哪儿啊？
@@ -37,12 +37,12 @@
 [charslot(slot = "right", name = "avg_npc_796_1#1$1",duration = 0.5)]
 [Delay(time=1)]
 [charslot(slot = "right", name = "avg_npc_796_1#1$1",focus="r")]
-[name="巡防营守军"]乖乖，好高......
+[name="巡防营守军"]乖乖，好高……
 [name="巡防营守军"]来到玉门三年，我还没看过屏风卫升起来呢。
 [charslot(slot = "left", name = "avg_npc_795_1#1$1",focus="l")]
 [name="千夫长"]少见多怪。
 [name="千夫长"]玉门基础墙体本来就高，加上城头架设了全套的源石防御工事，一般规模的天灾，需要启动屏风卫的次数很少，但也不是没有。
-[name="千夫长"]但这次为了避灾迁移半城的百姓，我入伍以来倒还没经历过......
+[name="千夫长"]但这次为了避灾迁移半城的百姓，我入伍以来倒还没经历过……
 [charslot(slot = "right", name = "avg_npc_796_1#1$1",focus="r")]
 [name="巡防营守军"]那，这天灾，得是什么级别，屏风卫都挡不住吗？
 [charslot]
@@ -53,7 +53,7 @@
 [charslot(slot = "right", name = "avg_npc_796_1#1$1",focus="n")]
 [name="千夫长"]怎么，你小子怕了？
 [charslot(slot = "right", name = "avg_npc_796_1#1$1",focus="r")]
-[name="巡防营守军"]......
+[name="巡防营守军"]……
 [charslot(slot = "left", name = "avg_npc_795_1#1$1",focus="l")]
 [name="千夫长"]别瞎想，坚守岗位。
 [name="千夫长"]把眼睛放亮些，那帮山海众还混在城里。现在正是人流密集，最容易出事的时候。
@@ -71,7 +71,7 @@
 [name="龙门暗桩"]老板，您怎么还不走啊？
 [name="龙门暗桩"]广播都放了好几遍，玉门快要撞上天灾了，城东的住户要在今天中午前搬到城西的避难点去。
 [charslot(slot = "right", name = "avg_npc_140#2",focus="r")]
-[name="掌柜"]听到啦，不急，不急。那天灾云还没到眼前呢，我得收拾收拾东西......
+[name="掌柜"]听到啦，不急，不急。那天灾云还没到眼前呢，我得收拾收拾东西……
 [name="掌柜"]嘿，找到了。
 [name="掌柜"]这一屋子桌椅板凳倒也罢了，这本菜谱可是命根子，不敢丢喽。
 [charslot(slot = "left", name = "avg_npc_033",focus="l")]
@@ -91,7 +91,7 @@
 [name="掌柜"]那倒不是。
 [name="掌柜"]老家在中原，本来是去龙门谋生计。有一次想往更北边的地方看看，就趁着城市对接的机会来了玉门。
 [name="掌柜"]当时弄丢了钱包，就留在这家客栈打工，一转眼，自己当掌柜都这么多年了。
-[name="掌柜"]房子算不上可惜......只要人还在，家就在。
+[name="掌柜"]房子算不上可惜……只要人还在，家就在。
 [charslot(slot = "left", name = "avg_npc_033",focus="l")]
 [name="龙门暗桩"]是这个理儿。
 [name="龙门暗桩"]唉，我陪您快点收拾吧。
@@ -108,7 +108,7 @@
 [dialog]
 [charslot(slot="m",name="avg_2023_ling_1#8$1",duration=1.5)]
 [delay(time=2)]
-[name="令"]呼......
+[name="令"]呼……
 [name="令"]左将军也有心情来旁观我大哥的比武？
 [charslot(slot="m",name="avg_npc_788_1#1$1")]
 [name="左宣辽"]抗灾事宜已经安排妥当。宗师想赶在天灾之前看看那人是否值得托付，我又怎能不来。
@@ -116,14 +116,14 @@
 [charslot(slot="m",name="avg_2023_ling_1#9$1")]
 [name="令"]你与我大哥几十年的袍泽情谊，哪怕是作为朋友，也不愿意相信他的选择？
 [charslot(slot="m",name="avg_npc_788_1#8$1")]
-[name="左宣辽"]......朋友。
+[name="左宣辽"]……朋友。
 [charslot(slot="m",name="avg_2023_ling_1#9$1")]
 [name="令"]唔。
 [charslot(slot="m",name="avg_npc_788_1#2$1")]
 [name="左宣辽"]我们同赴沙场，却谈不上生死与共。刀枪炮火伤不到你们，你们又怎能真正体会人的袍泽情谊？
 [name="左宣辽"]你们终究置身事外。
 [charslot(slot="m",name="avg_2023_ling_1#7$1")]
-[name="令"]......
+[name="令"]……
 [name="令"]“置身事外”？
 [charslot(slot="m",name="avg_2023_ling_1#1$1")]
 [name="令"]我贪个“逍遥”，你这样说我倒也罢了，可对于大哥他，未免有些不公。
@@ -136,7 +136,7 @@
 [charslot(slot="m",name="avg_2023_ling_1#7$1")]
 [name="令"]没想到，左将军也会这样坦诚。
 [charslot(slot="m",name="avg_2023_ling_1#1$1")]
-[name="令"]可你未免太看轻自己了......
+[name="令"]可你未免太看轻自己了……
 [charslot]
 左宣辽无言望向城外大漠，城下人影依稀，像是苍茫画卷上飞溅出了两点残墨。
 天地肃杀。
@@ -146,7 +146,7 @@
 [name="令"]看着这两人，你可曾想起那段峥嵘岁月？
 [name="令"]你说人兽有别，可你看看，偏偏此刻就有人在挑战这道沟壑屏障。这样的较量，难道不令人心潮澎湃吗？
 [charslot(slot="m",name="avg_npc_788_1#8$1")]
-[name="左宣辽"]......
+[name="左宣辽"]……
 [charslot(slot="m",name="avg_2023_ling_1#8$1")]
 [name="令"]别皱着眉头了。
 [name="令"]喝口酒？不如我们押个输赢。
@@ -185,7 +185,7 @@
 [charslot(slot="m",name="avg_npc_785_1#3$1",duration=0.3)]
 [name="槐天裴"]停停停。
 [charslot(slot="m",name="avg_2024_chyue_1#6$1")]
-[name="重岳"]......
+[name="重岳"]……
 [name="重岳"]这才第一合。
 [charslot(slot="m",name="avg_npc_785_1#11$1")]
 [name="槐天裴"]已经够了。
@@ -193,13 +193,13 @@
 [name="槐天裴"]但你收着劲，我也不能出全力。
 [name="槐天裴"]没意思，不痛快。
 [charslot(slot="m",name="avg_2024_chyue_1#6$1")]
-[name="重岳"]比武试招，点到即止......
+[name="重岳"]比武试招，点到即止……
 [charslot(slot="m",name="avg_npc_785_1#1$1")]
 [name="槐天裴"]谁跟你比武试招，哪儿来的点到即止，要打就要全力以赴地打！
 [charslot(slot="m",name="avg_npc_785_1#11$1")]
 [name="槐天裴"]天下武功，都是搏杀之术，哪一样不是在真正的生死历练中演化成型。你这话，不像是玉门擂台榜上第一名会说的。
 [charslot(slot="m",name="avg_2024_chyue_1#1$1")]
-[name="重岳"]在理。不过......
+[name="重岳"]在理。不过……
 [charslot(slot="m",name="avg_npc_785_1#8$1")]
 [name="槐天裴"]算了，知道你还有职责在身，真打起来难免束手束脚。
 [name="槐天裴"]你什么时候卸任？我们把这一场续上。
@@ -208,7 +208,7 @@
 [charslot(slot="m",name="avg_npc_785_1#11$1")]
 [name="槐天裴"]你说一个时间。
 [charslot(slot="m",name="avg_2024_chyue_1#1$1")]
-[name="重岳"]......短则三五年，长则十几年。
+[name="重岳"]……短则三五年，长则十几年。
 [charslot(slot="m",name="avg_npc_785_1#11$1")]
 [name="槐天裴"]好，那我等着。
 [name="槐天裴"]反正你就在这城里，我也不怕你跑了。
@@ -227,7 +227,7 @@
 [charslot(slot="m",name="avg_npc_785_1#9$1")]
 [name="槐天裴"]我无所谓，就怕你在全城人面前被我打趴下，面子上过不去。
 [charslot(slot="m",name="avg_2024_chyue_1#10$1")]
-[name="重岳"]哈哈......
+[name="重岳"]哈哈……
 [name="重岳"]说起来，已经有很多年，没人像你这样向我挑战了。
 [charslot(slot="m",name="avg_npc_785_1#9$1")]
 [name="槐天裴"]已经有很多年，没人像你这样值得我挑战了。
@@ -256,7 +256,7 @@
 [name="杜遥夜"]开玩笑，好歹我也是练过几年功夫的，身体素质没那么差。
 [name="杜遥夜"]再说了，伤可以再养，这种级别的打架要是错过了，我上哪儿再看去！
 [charslot(slot = "left", name = "avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]我看也没有什么了不起的......
+[name="槐琥"]我看也没有什么了不起的……
 [charslot(slot = "right", name = "avg_npc_296_1#8$1",focus="r")]
 [name="杜遥夜"]那个菲林大叔，就是你嘴里那个不靠谱的老爹吧？
 [name="杜遥夜"]不愧是父女，你和你爹还真是挺像的。
@@ -266,13 +266,13 @@
 [name="杜遥夜"]开打前的气势。
 [name="杜遥夜"]好家伙，像是要把人吃了。
 [charslot(slot = "left", name = "avg_243_waaifu_1#9$1",focus="l")]
-[name="槐琥"]哼......
+[name="槐琥"]哼……
 [charslot(slot = "right", name = "avg_npc_296_1#8$1",focus="r")]
 [name="杜遥夜"]不过传闻那位宗师的武功高到了匪夷所思的地步，这几年已经很少真的出手了。更夸张的说法是，天下近半数的武功是他发明的。
 [name="杜遥夜"]听说你爹昨晚还打败了那个坏女人？
 [name="杜遥夜"]那你猜猜，谁能赢？
 [charslot(slot = "left", name = "avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]......
+[name="槐琥"]……
 [charslot(slot = "right", name = "avg_npc_296_1#2$1",focus="r")]
 [name="杜遥夜"]不用问，你当然还是想让自己爹赢的吧。
 [charslot(slot = "left", name = "avg_243_waaifu_1#1$1",focus="l")]
@@ -288,7 +288,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_322_lmlee_1#4$1",focus="l")]
-[name="老鲤"]梁大人......
+[name="老鲤"]梁大人……
 [name="老鲤"]这种撸袖子抡胳膊的事情，梁大人竟然也会来凑热闹。
 [charslot(slot = "r", name = "avg_npc_295_1#7$1",focus="r")]
 [name="梁洵"]作为朋友，应该来看看。
@@ -298,7 +298,7 @@
 [name="老鲤"]一个痴人，在让别人知道自己是谁之前，要先给自己一个交代。
 [charslot(slot = "r", name = "avg_npc_295_1#1$1",focus="r")]
 [name="梁洵"]我们都要给自己一个交代。
-[name="梁洵"]你最近......
+[name="梁洵"]你最近……
 [charslot(slot = "l", name = "avg_322_lmlee_1#1$1",focus="l")]
 [name="老鲤"]本来是在专心找槐天裴，但又有些麻烦找了上来。
 [name="老鲤"]我干回侦探老本行，打听到了一些事情，也大概猜到了，你的打算。
@@ -311,7 +311,7 @@
 [charslot(slot = "l", name = "avg_322_lmlee_1#1$1",focus="l")]
 [name="老鲤"]那位宗师是令小姐的兄长，这件事在玉门并非人尽皆知。甚至该说是，秘密？
 [charslot(slot = "r", name = "avg_npc_295_1#1$1",focus="r")]
-[name="梁洵"]的确......
+[name="梁洵"]的确……
 [charslot(slot = "l", name = "avg_322_lmlee_1#8$1",focus="l")]
 [name="老鲤"]宗师丢的那把剑，找回来固然是当务之急，但更麻烦的是之后该如何处置。
 [name="老鲤"]梁大人不想让它留在玉门，或许是司岁台的意思，或许是作为玉门参知的考量。但偏偏那位平祟侯不愿意放手。
@@ -319,7 +319,7 @@
 [name="老鲤"]而你正好有一个武艺高强的结义兄弟，他正好就在城中。
 [name="老鲤"]为了让槐天裴和整件事情关联得更紧些，将那个盗剑的女孩子引到他所在的医馆，也只是顺势为之了。
 [charslot(slot = "r", name = "avg_npc_295_1#7$1",focus="r")]
-[name="梁洵"]......
+[name="梁洵"]……
 [charslot(slot = "l", name = "avg_322_lmlee_1#10$1",focus="l")]
 [name="老鲤"]从尚蜀到玉门，每次你都找老朋友来帮你解决问题，是不是太偷懒了一点？
 [charslot(slot = "r", name = "avg_npc_295_1#2$1",focus="r")]
@@ -328,18 +328,18 @@
 [name="老鲤"]有一个疑问。
 [name="老鲤"]这次，你是从什么时候开始，准备让槐天裴入局的？
 [charslot(slot = "r", name = "avg_npc_295_1#1$1",focus="r")]
-[name="梁洵"]......
+[name="梁洵"]……
 [charslot(slot = "l", name = "avg_322_lmlee_1#10$1",focus="l")]
 [name="老鲤"]算了，也不必告诉我。
 [charslot(slot = "l", name = "avg_322_lmlee_1#2$1",focus="l")]
-[name="老鲤"]唉......
+[name="老鲤"]唉……
 [charslot(slot = "l", name = "avg_322_lmlee_1#1$1",focus="l")]
 [name="老鲤"]不管你动了多少心思，挑战最强的高手，成为最强的高手，毕竟是他的夙愿。就算他回过头知道了你在推波助澜，指不定还会谢谢你。
 [charslot(slot = "r", name = "avg_npc_295_1#7$1",focus="r")]
 [name="梁洵"]我们都在努力做原本想做的事，哪怕世事总是不太如人意。
 [charslot(slot = "l", name = "avg_322_lmlee_1#8$1",focus="l")]
 [name="老鲤"]可能这些年过去，他才是离初心理想最近的那个。
-[name="老鲤"]“一辈子只做成一件事”，说说容易啊......
+[name="老鲤"]“一辈子只做成一件事”，说说容易啊……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -349,7 +349,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_npc_791_1#7$1",focus="l")]
-[name="录武官"]这位槐先生，竟然会带着伤来赴约......
+[name="录武官"]这位槐先生，竟然会带着伤来赴约……
 [charslot(slot = "r", name = "avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]他这样的人，别说受伤，哪怕只有一口气吊着，也会来比这一场。死了就死了。
 [charslot(slot = "l", name = "avg_npc_791_1#8$1",focus="l")]
@@ -359,18 +359,18 @@
 [charslot(slot = "r", name = "avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]这也算是一种执念吧。莫名其妙得很，你不理解也正常。
 [charslot(slot = "l", name = "avg_npc_791_1#8$1",focus="l")]
-[name="录武官"]就像师姐跟在老师身边......
+[name="录武官"]就像师姐跟在老师身边……
 [charslot(slot = "r", name = "avg_npc_787_1#12$1",focus="r")]
 [name="仇白"]有时候真不知道该说你呆，还是机灵。
 [charslot(slot = "l", name = "avg_npc_791_1#8$1",focus="l")]
-[name="录武官"]......
+[name="录武官"]……
 [name="录武官"]师姐，那我先下去了。
 [charslot(slot = "r", name = "avg_npc_787_1#1$1",focus="r")]
 [name="仇白"]好。这两人都是绝顶高手，他们的战斗恐怕会颠覆你录武簿大半的记录。
 [charslot(slot = "l", name = "avg_npc_791_1#8$1",focus="l")]
 [name="录武官"]我会尽可能记录得详细准确。
 [charslot(slot = "r", name = "avg_npc_787_1#1$1",focus="r")]
-[name="仇白"]......不要离他们太近，免得受伤。
+[name="仇白"]……不要离他们太近，免得受伤。
 [charslot(slot = "l", name = "avg_npc_791_1#9$1",focus="l")]
 [name="录武官"]知道了，师姐。
 [Dialog]
@@ -390,7 +390,7 @@
 [delay(time=1)]
 [name="仇白"]就在今天吧。
 [charslot(slot = "m", name = "avg_2024_chyue_1#1$1")]
-[name="重岳"]......
+[name="重岳"]……
 [name="重岳"]你准备好了？
 [charslot(slot = "m", name = "avg_npc_787_1#4$1")]
 [name="仇白"]听几个老兵说，玉门遭遇的劫难大大小小不下百次，但从没有过这么大的阵仗。
@@ -411,7 +411,7 @@
 [name="重岳"]嗯，不必多说。
 [name="重岳"]既然准备好了，那出剑便是。
 [charslot(slot = "m", name = "avg_npc_787_1#7$1")]
-[name="仇白"]......
+[name="仇白"]……
 [playsound(key="$d_avg_ftrub")]
 [charslot(slot ="m", afrom = 1, ato = 0,posfrom = "0,0", posto = "-100,0",duration = 0.5)]
 剑客后退一步，凝神，举剑。
@@ -455,7 +455,7 @@
 但剑客的表情却是释然的。
 [name="仇白"]这样就好。
 [name="仇白"]这一剑已经刺出去了。这一剑杀不了你。
-[name="重岳"]......嗯。
+[name="重岳"]……嗯。
 [name="仇白"]但我并非因为杀不了你才放下报仇的念头。
 [name="仇白"]只是“仇恨”早已不再值得我出剑。
 [dialog]
@@ -475,11 +475,11 @@
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_2024_chyue_1#1$1",focus="r")]
 [name="重岳"]看阁下的脚步，这三年来，想必武功又精进了许多。
-[name="重岳"]我们......
+[name="重岳"]我们……
 [charslot(slot = "l", name = "avg_npc_785_1#11$1",focus="l")]
 [name="槐天裴"]我们话说得太多了。
 [charslot(slot = "r", name = "avg_2024_chyue_1#9$1",focus="r")]
-[name="重岳"]我只是......
+[name="重岳"]我只是……
 [charslot(duration=0.5)]
 重岳收回了后半句话。
 对手身上还带着伤，多聊上几句，他就能多点时间来调匀呼吸。

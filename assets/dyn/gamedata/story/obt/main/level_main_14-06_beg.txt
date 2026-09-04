@@ -100,9 +100,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4087_ines_1#10$1",focus="m")]
-[name="伊内丝"]直属曼弗雷德的王庭军精锐部队......数量很多。
+[name="伊内丝"]直属曼弗雷德的王庭军精锐部队……数量很多。
 [name="伊内丝"]但好在没有重型火力，只是拖缓他们的行军速度的话，我还做得到。
-[name="伊内丝"]真的让赫德雷猜对了......
+[name="伊内丝"]真的让赫德雷猜对了……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -132,7 +132,7 @@
 [musicvolume(volume=0.6, fadetime=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
-[name="伊内丝"]赫德雷......这最好行得通。
+[name="伊内丝"]赫德雷……这最好行得通。
 [stopmusic(fadetime=1)]
 [Dialog]
 [charslot]
@@ -209,20 +209,20 @@
 阴影从食腐者的脚下暴起，刺向它主人的胸膛，却只是穿过了层层破败的布匹。
 影子的利刃被食腐者的束带紧紧缠住，直到破碎崩解。食腐者的刀已经抵在了伊内丝的喉间。
 [charslot(slot="l",name="avg_4087_ines_1#13$1",focus="l")]
-[name="伊内丝"]......
+[name="伊内丝"]……
 [charslot(slot="r",name="avg_npc_1333_1#3$1",focus="r")]
 [name="娜汀"]小聪明很多，作为战士的素养却不够，说到底，不过是业余的雇佣兵罢了。
 [name="娜汀"]庆幸吧，我并不认可血魔大君那些对待敌人的手段。
 [name="娜汀"]萨卡兹新的时代就要到来了。像你们这样误入迷途的雇佣兵，也应该有一次重新选择的权利。
 [name="娜汀"]你是这伙雇佣兵的领袖之一？我作为曼弗雷德将军的副官，一等旗尉娜汀，给你们一个投降的机会。
 [charslot(slot="l",name="avg_4087_ines_1#3$1",focus="l")]
-[name="伊内丝"]......呵。
+[name="伊内丝"]……呵。
 [charslot(slot="r",name="avg_npc_1333_1#3$1",focus="r")]
 [name="娜汀"]你看上去倒一点也不害怕？
 [charslot(slot="l",name="avg_4087_ines_1#3$1",focus="l")]
 [name="伊内丝"]怕你？一个第一次上战场的雏儿？
 [charslot(slot="r",name="avg_npc_1333_1#4$1",focus="r")]
-[name="娜汀"]你说什么......？
+[name="娜汀"]你说什么……？
 [stopmusic(fadetime=1.5)]
 [charslot(slot="l",name="avg_4087_ines_1#3$1",focus="l")]
 [name="伊内丝"]你看上去也太好懂了——因为王庭的身份，进入军事委员会里学过一些理论，出来以后就在军队里混到了一官半职。
@@ -325,7 +325,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.7, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_412_1#1$1",focus="m")]
-[name="W"]咳咳......挺结实的嘛烂木头。
+[name="W"]咳咳……挺结实的嘛烂木头。
 [name="W"]就算炸不死你，炸掉你收藏的这些宝贝也够让你心疼的了吧。
 [Dialog]
 [charslot]
@@ -416,31 +416,31 @@
 [name="赫德雷"]只是一些不知道作者的残稿，不值得将军留意。
 [charslot(slot="r",name="avg_npc_404_1#6$1",focus="r")]
 [name="曼弗雷德"]我记得你，老练的佣兵。
-[name="曼弗雷德"]你很喜欢看书？而且还是这种......充斥着对战争的消极态度的书。
+[name="曼弗雷德"]你很喜欢看书？而且还是这种……充斥着对战争的消极态度的书。
 [charslot(slot="l",name="avg_npc_047",focus="l")]
-[name="赫德雷"]我......
+[name="赫德雷"]我……
 [charslot(slot="r",name="avg_npc_404_1#1$1",focus="r")]
 [name="曼弗雷德"]不，不必找什么冠冕堂皇的说辞解释你的阅读兴趣。
 [name="曼弗雷德"]说实话，佣兵。假如你是书的作者，在这本书的最后，你会写下什么？
 [charslot(slot="l",name="avg_npc_047",focus="l")]
-[name="赫德雷"]......回家。
+[name="赫德雷"]……回家。
 [charslot(slot="r",name="avg_npc_404_1#6$1",focus="r")]
 [name="曼弗雷德"]不是战死沙场？
 [charslot(slot="l",name="avg_npc_047",focus="l")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="r",name="avg_npc_404_1#6$1",focus="r")]
 [name="曼弗雷德"]当一名战士处在战场上，他想到的不该只是自己的家。
 [charslot(slot="l",name="avg_npc_047",focus="l")]
 [name="赫德雷"]那他所想的，应该是哪些人的家园？
 [charslot(slot="r",name="avg_npc_404_1#8$1",focus="r")]
-[name="曼弗雷德"]......你很有同理心。
+[name="曼弗雷德"]……你很有同理心。
 [charslot(slot="l",name="avg_npc_047",focus="l")]
 [name="赫德雷"]属下失言。
 [charslot(slot="r",name="avg_npc_404_1#1$1",focus="r")]
 [name="曼弗雷德"]赫德雷，对一名作者来说，情感丰沛是必要的本性。
 [name="曼弗雷德"]但对一名军人来说，优柔寡断是最恶劣的品质。
 [charslot(slot="l",name="avg_npc_047",focus="l")]
-[name="赫德雷"]我明白......
+[name="赫德雷"]我明白……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -519,7 +519,7 @@
 [charslot(slot="l",name="avg_4132_ascln_1#5$1",focus="l")]
 [PlaySound(key="$d_avg_originiumcastshort",channel="cast",volume=0.7,loop=false)]
 [delay(time=0.3)]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [Dialog]
 [charslot(slot="l",name="avg_4132_ascln_1#5$1",focus="all")]
 [PlaySound(key="$d_avg_runstop", volume=1)]
@@ -565,22 +565,22 @@
 长剑贯穿了阿斯卡纶的肩膀。
 袖刃刺入了曼弗雷德的心脏。
 [charslot(slot="m",name="avg_npc_404_1#6$1",focus="m")]
-[name="曼弗雷德"]啊......
-[name="曼弗雷德"]你也算......兑现诺言......
+[name="曼弗雷德"]啊……
+[name="曼弗雷德"]你也算……兑现诺言……
 [charslot(slot="m",name="avg_4132_ascln_1#5$1",focus="m")]
 [name="阿斯卡纶"]我说过的。
 [charslot(slot="m",name="avg_npc_404_1#6$1",focus="m")]
-[name="曼弗雷德"]你要是......真的下定决心......我早已经死在你的手里。
+[name="曼弗雷德"]你要是……真的下定决心……我早已经死在你的手里。
 [charslot(slot="m",name="avg_4132_ascln_1#5$1",focus="m")]
 [name="阿斯卡纶"]其实我后悔过，我还是应该在你离开卡兹戴尔前的那晚杀了你。
 [charslot(slot="m",name="avg_4132_ascln_1#2$1",focus="m")]
-[name="阿斯卡纶"]......再见。
+[name="阿斯卡纶"]……再见。
 [Dialog]
 [charslot(slot="m",name="avg_4132_ascln_1#2$1",focus="n")]
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_4132_ascln_1#2$1",focus="m")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [Dialog]
 [charslot]
 [name="曼弗雷德？"]真可惜，我还以为你会更念旧情一点呢。
@@ -626,13 +626,13 @@
 [name="雇佣兵斥候"]南北两个方向的防线均已开始与王庭军交战。我们正在按计划缓慢收缩防线。
 [name="雇佣兵斥候"]目前战场情况均在计划之内。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]还好......
+[name="赫德雷"]还好……
 [name="赫德雷"]有没有曼弗雷德的踪迹？
 [charslot(slot="m",name="avg_npc_1306_1#1$1",focus="m")]
-[name="雇佣兵斥候"]没有发现......
+[name="雇佣兵斥候"]没有发现……
 [charslot(slot="m",name="avg_4088_hodrer_1#8$1",focus="m")]
 [name="赫德雷"]这样的场合，他不该只是稳坐后方指挥。
-[name="赫德雷"]......希望阿斯卡纶那边顺利。
+[name="赫德雷"]……希望阿斯卡纶那边顺利。
 [charslot(slot="m",name="avg_npc_1306_1#1$1",focus="m")]
 [name="雇佣兵斥候"]不，她不会回来了。
 [charslot(slot="m",name="avg_4088_hodrer_1#7$1",focus="m")]
@@ -676,9 +676,9 @@
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
 [name="曼弗雷德"]你果然在这里。
 [charslot(slot="m",name="avg_4088_hodrer_1#7$1",focus="m")]
-[name="赫德雷"]曼弗雷德......
+[name="赫德雷"]曼弗雷德……
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
-[name="曼弗雷德"]缓兵之计......你们真的以为，坚守住这具骸骨，就能给你们带来反败为胜的希望？
+[name="曼弗雷德"]缓兵之计……你们真的以为，坚守住这具骸骨，就能给你们带来反败为胜的希望？
 [Dialog]
 [charslot]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -710,11 +710,11 @@
 [name="赫德雷"]可悲，你又在让一批萨卡兹屠戮另一批萨卡兹，曼弗雷德。
 [name="赫德雷"]这样的“战争”你还没有打够吗？
 [charslot(slot="m",name="avg_npc_404_1#7$1",focus="m")]
-[name="曼弗雷德"]你真让我失望啊......
+[name="曼弗雷德"]你真让我失望啊……
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
 [name="曼弗雷德"]不是我在杀死他们，是你的幼稚在杀死他们！
 [name="曼弗雷德"]你早就应该离开。这不就是你一直渴望的吗？
-[name="曼弗雷德"]而现在，你的雇佣兵们死在这里，我的战士们也死在这里，仅仅是为了这样无意义的目的......内战的教训还不够惨痛吗！
+[name="曼弗雷德"]而现在，你的雇佣兵们死在这里，我的战士们也死在这里，仅仅是为了这样无意义的目的……内战的教训还不够惨痛吗！
 [charslot(slot="m",name="avg_4088_hodrer_1#3$1",focus="m")]
 [name="赫德雷"]正因为我们都看到过内战最终变成了什么样子，萨卡兹们才不该重蹈覆辙！
 [name="赫德雷"]内战已经让我们失去了一整代年轻人，你们却还想杀死更多？
@@ -749,10 +749,10 @@
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
 [name="曼弗雷德"]你明明已经看到了结果，却不愿承认。
 [charslot(slot="m",name="avg_4088_hodrer_1#7$1",focus="m")]
-[name="赫德雷"]仇恨与被仇恨......如果这就是军事委员会的目的，你们的目的明明已经达成了。
+[name="赫德雷"]仇恨与被仇恨……如果这就是军事委员会的目的，你们的目的明明已经达成了。
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
 [name="曼弗雷德"]你还不明白？正因为已经达成了，我才需要你从这里抽身而出！
-[name="曼弗雷德"]是的，内战让卡兹戴尔失去了一代人，苟活下来的那些，也变成了如今你我的模样......我们唯一会的生活方式，只是挥剑，杀人。
+[name="曼弗雷德"]是的，内战让卡兹戴尔失去了一代人，苟活下来的那些，也变成了如今你我的模样……我们唯一会的生活方式，只是挥剑，杀人。
 [name="曼弗雷德"]你想改变这一切，那你为什么还要留在这里？
 [name="曼弗雷德"]你能做的，你必须去做的，本来还有更多。
 [charslot(slot="m",name="avg_4088_hodrer_1#7$1",focus="m")]
@@ -789,7 +789,7 @@
 [name="曼弗雷德"]赫德雷，你太胆小了。
 [name="曼弗雷德"]你甚至连活下去的勇气都没有。
 [name="曼弗雷德"]这才是你最可耻的地方。
-[name="曼弗雷德"]这也是......最令我失望的地方。
+[name="曼弗雷德"]这也是……最令我失望的地方。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]

@@ -3,13 +3,13 @@
 [PlayMusic(intro="$cherimp_intro", key="$cherimp_loop", volume=0.8, crossfade=1, delay=0.5)]
 [Delay(time=1)]
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]   这里......倒下的都是些整合运动。
-[name="阿米娅"]   ......这个，伤口流出的血液冻成了冰渣，其他部分却很完好。
+[name="阿米娅"]   这里……倒下的都是些整合运动。
+[name="阿米娅"]   ……这个，伤口流出的血液冻成了冰渣，其他部分却很完好。
 [name="阿米娅"]   确实是霜叶的技巧。
 [name="阿米娅"]   ——那边的废墟，应该是爆炸导致的。
 [name="阿米娅"]   应该是陨星炸出来的没错。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]   （霜叶......杰西卡......陨星......她们，一定还......）
+[name="阿米娅"]   （霜叶……杰西卡……陨星……她们，一定还……）
 [Character(fadetime=0.6)]
 [CharacterCutin(widgetID="1", name="char_003_kalts_1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=0, width=200, block=true)]
 [name="凯尔希"]   阿米娅，各救援小队都已抵达罗德岛、
@@ -19,13 +19,13 @@
 [name="凯尔希"]   你要重视这点。
 [CharacterCutin(widgetID="1", fadetime=0.5, block=true)]
 [Character(name="char_002_amiya_1#6")]
-[name="阿米娅"]   ......冻伤？
+[name="阿米娅"]   ……冻伤？
 [Character(name="char_002_amiya_1#6", focus=-1)]
 [name="凯尔希"]   所有侦察小队都指出，分城中徘徊着一些特殊的整合运动成员。
 [name="凯尔希"]   他们有着特殊的作战方式，完全不像一般的整合运动成员那样盲目。
 [name="凯尔希"]   多加小心。
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]   我......我明白。
+[name="阿米娅"]   我……我明白。
 [Character(name="char_002_amiya_1", focus=-1)]
 [name="凯尔希"]   Dr.{@nickname}，你也明白吧？
 [Decision(options="明白。", values="1")]
@@ -34,7 +34,7 @@
 [name="凯尔希"]   我也要去做一些事情了。
 [name="凯尔希"]   阿米娅，就算Dr.{@nickname}很有用，也别太过依靠一个人。
 [Character(name="char_002_amiya_1")]
-[name="阿米娅"]   ......
+[name="阿米娅"]   ……
 [Character(name="char_002_amiya_1", focus=-1)]
 [name="凯尔希"]   还有，注意戒指。
 [Character(name="char_002_amiya_1")]
@@ -48,10 +48,10 @@
 [name="阿米娅"]   不知不觉中——
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   危险的野兽露出他们的利爪了。
-[Decision(options="整合运动在我们的背后。;我们的退路......被切断了。;这些感染者暴徒，似乎对我们有些想法呢。", values="1;2;3")]
+[Decision(options="整合运动在我们的背后。;我们的退路……被切断了。;这些感染者暴徒，似乎对我们有些想法呢。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#3")]
-[name="阿米娅"]   嗯......他们非常想要阻止我们撤退呢。
+[name="阿米娅"]   嗯……他们非常想要阻止我们撤退呢。
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   然而，我们来到这里的目的，从来都不是逃跑。
 [name="阿米娅"]   罗德岛，冲破他们的防线。

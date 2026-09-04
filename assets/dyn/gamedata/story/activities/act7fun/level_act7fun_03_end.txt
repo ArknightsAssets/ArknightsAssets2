@@ -6,7 +6,7 @@
 [Background(image="bg_corridor_4",screenadapt="coverall")]
 [PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
-一份粉色的小礼物放在桌子上，旁边的卡片上写着：“这是我准备了很久的礼物，请你收下♥......”
+一份粉色的小礼物放在桌子上，旁边的卡片上写着：“这是我准备了很久的礼物，请你收下♥……”
 [dialog]
 [charslot(slot = "m", name = "avg_doc_1#1",focus="all",duration=2)]
 [delay(time=2)]
@@ -133,7 +133,7 @@
 [charslot(slot = "l", name = "avg_npc_2255_1#1$1",focus="l")]
 [name="能天使？"]  这蛋糕虽然碎了但味道也还不错，做得还挺用心的。
 [charslot(slot = "r", name = "avg_npc_2256_1#6$1",focus="r")]
-[name="德克萨斯？"]  ......嗯。
+[name="德克萨斯？"]  ……嗯。
 [dialog]
 [charslot(slot = "l", name = "avg_npc_2255_1#1$1",focus="all")]
 [charslot(slot = "r", name = "avg_npc_2256_1#6$1",focus="all")]

@@ -26,22 +26,22 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
-[name="作家"]这就是结局了。真正的、并非断章的......
+[name="作家"]这就是结局了。真正的、并非断章的……
 [charslot(slot="m",name="avg_npc_1698_1#6$1",focus="m")]
-[name="作家"]......结局。
+[name="作家"]……结局。
 [charslot(slot="m",name="avg_npc_1698_1#6$1",focus="n")]
 [name="神秘的女性"]恭喜。您得到了真相。
 [charslot(slot="m",name="avg_npc_1698_1#6$1",focus="m")]
 [name="作家"]皆大欢喜，皆大欢喜！
-[name="作家"]这都是拜您所赐！来，干杯，喝完这杯酒，我就去把故事的结尾写下来发表出去......
+[name="作家"]这都是拜您所赐！来，干杯，喝完这杯酒，我就去把故事的结尾写下来发表出去……
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
-[name="作家"]呃......可能不太好发表，但，只要它已经完成了——
+[name="作家"]呃……可能不太好发表，但，只要它已经完成了——
 [Dialog]
 [charslot]
 [stopmusic(fadetime=2)]
 [Delay(time=1)]
-[name="神秘的女性"]葬礼，篝火，复活......您的确全都瞧见了。
-[name="神秘的女性"]我没想过，您居然有如此的勇气，在逃离之后又回到了纳斯尔纱......
+[name="神秘的女性"]葬礼，篝火，复活……您的确全都瞧见了。
+[name="神秘的女性"]我没想过，您居然有如此的勇气，在逃离之后又回到了纳斯尔纱……
 [name="神秘的女性"]“歌唱家”先生。
 [charslot(slot="m",name="avg_npc_1698_1#6$1",focus="m")]
 [name="“歌唱家”"]至少结局是好的，不是吗？爱布拉娜带着死去的人离开，再也没有回来。
@@ -52,7 +52,7 @@
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [Delay(time=2)]
 [Image(image="59_i12", screenadapt="coverall",fadetime=2, xScale=1.6, yScale=1.6,y=200,fadetime=2,block=false)]
-[name="神秘的女性"]真好啊......
+[name="神秘的女性"]真好啊……
 [Dialog]
 [Delay(time=1)]
 [playMusic(key="$darkness_03_loop", volume=0.6)]
@@ -69,16 +69,16 @@
 [Delay(time=3)]
 曾经的“歌唱家”狂乱地挥舞手臂，连酒都碰洒在桌上。
 [name="“歌唱家”"]你已经死了！你不该还活着，你已经被两次杀死，一次被枪尖，一次被火焰——你不该在这里！
-[name="“歌唱家”"]......
+[name="“歌唱家”"]……
 [Dialog]
 [Delay(time=1)]
-[name="“歌唱家”"]难道是我死了？哈哈，哈哈哈，别开玩笑了......死去的红龙，回你该回的地方去！
+[name="“歌唱家”"]难道是我死了？哈哈，哈哈哈，别开玩笑了……死去的红龙，回你该回的地方去！
 [name="“歌唱家”"]是的，一定是的，你在撒谎，你根本没有死，你杀了拉芙希妮，一切都是假象，一切都是谎言——
 [name="爱布拉娜"]要是果真如此，你的故事又该怎么办？
-[name="“歌唱家”"]我的......故事？
-[name="“歌唱家”"]......
+[name="“歌唱家”"]我的……故事？
+[name="“歌唱家”"]……
 [name="爱布拉娜"]唉，终于安静下来了。
-[name="“歌唱家”"]你不该还活着，不该还活着......
+[name="“歌唱家”"]你不该还活着，不该还活着……
 [name="爱布拉娜"]可死亡对我而言从来都不是沉眠。我驱策生命能做到的，驱策死亡亦然。
 [Dialog]
 [Image(fadetime=1.5)]
@@ -86,7 +86,7 @@
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]看在你终于讲完了故事的分上，“作家”，我可以告诉你，重要的唯有火焰。
 [charslot(slot="m",name="avg_npc_1698_1#3$1",focus="m")]
-[name="“歌唱家”"]......紫火。
+[name="“歌唱家”"]……紫火。
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]紫火，你故事中看似缥缈，却绝非虚构和粉饰的东西。
 [name="爱布拉娜"]我的确已在漫长的战争中将太多火焰分给他人，变得虚弱无力。
@@ -94,13 +94,13 @@
 [name="爱布拉娜"]但火会蔓延，火会吞噬，火会增殖自身。
 [name="爱布拉娜"]“加斯特里尔”号上与食腐者一战后，我迫切需要把那些火，那些我分出去，在原野上，在遗迹中，在人的心里增殖的火收归己身。
 [charslot(slot="m",name="avg_npc_1698_1#3$1",focus="m")]
-[name="“歌唱家”"]哈，简直就像在放高利贷一样......
+[name="“歌唱家”"]哈，简直就像在放高利贷一样……
 [charslot(slot="m",name="avg_450_necras_1#14$2",focus="m")]
 [name="爱布拉娜"]征收血税，这不是一位君王最基础的权力吗？
 [name="爱布拉娜"]所不同的是，凡俗的君王征收血税，充实他们的兵员，争夺最多不过几百年就离他们而去的领土和人民。
 [name="爱布拉娜"]而我征收血税，将其与红龙的火焰共同铺就路途，将生命与死亡连通，让困于生死之间的人将我仰望。
 [charslot(slot="m",name="avg_npc_1698_1#5$1",focus="m")]
-[name="“歌唱家”"]胡言乱语......
+[name="“歌唱家”"]胡言乱语……
 [charslot(slot="m",name="avg_450_necras_1#15$2",focus="m")]
 [name="爱布拉娜"]对你而言这的确像是胡言乱语，因为你无法理解，将足以焚尽一整个国度的死亡收归它们的主人，究竟会发生什么。
 [charslot(slot="m",name="avg_450_necras_1#6$2",focus="m")]
@@ -112,8 +112,8 @@
 [name="爱布拉娜"]那些自以为能将我塑造成型的，不过是碰巧长成了能让我得心应手地挥舞的样子而已。
 [name="爱布拉娜"]假如我真的沦为了那些东西的奴隶，怕是在见你的第一眼，就已经把你烧成灰烬了。
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
-[name="“歌唱家”"]......疯子！
-[name="“歌唱家”"]所以你才让威灵顿在黑林中驻扎，封锁了整个纳斯尔纱，甚至延续了宵禁。你从一开始......就没打算放纳斯尔纱一条生路！
+[name="“歌唱家”"]……疯子！
+[name="“歌唱家”"]所以你才让威灵顿在黑林中驻扎，封锁了整个纳斯尔纱，甚至延续了宵禁。你从一开始……就没打算放纳斯尔纱一条生路！
 [charslot(slot="m",name="avg_450_necras_1#15$2",focus="m")]
 [name="爱布拉娜"]多谢你愿意挑明这个令人不快的谜底。黑雾，威灵顿。
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
@@ -122,22 +122,22 @@
 [name="爱布拉娜"]宵禁一开始并无问题。那时纳斯尔纱城内的确还有几个维多利亚探子没有落网。
 [name="爱布拉娜"]拉芙希妮进入纳斯尔纱的时候，威灵顿公爵陡然加紧了对纳斯尔纱的封锁，因为他要杜绝两条红龙的消息走漏的一切可能。
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
-[name="“歌唱家”"]那些去而复返的粮食......
-[name="“歌唱家”"]哦，校官不仅是你最亲近的近侍，也是威灵顿的赤铁近卫队队长，他去讨要粮食，威灵顿还真的给了他这个面子......
+[name="“歌唱家”"]那些去而复返的粮食……
+[name="“歌唱家”"]哦，校官不仅是你最亲近的近侍，也是威灵顿的赤铁近卫队队长，他去讨要粮食，威灵顿还真的给了他这个面子……
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]到了拉芙希妮离开纳斯尔纱，去找守灵人的时候，威灵顿只是对她失望了，仅此而已。
 [name="爱布拉娜"]你确实得感谢拉芙希妮。如果不是失望的威灵顿放松了对纳斯尔纱的封锁，你绝无可能从黑林中逃脱。
 [charslot(slot="m",name="avg_450_necras_1#15$2",focus="m")]
-[multiline(name="爱布拉娜")]至于你讳莫如深的那场庆功会......
+[multiline(name="爱布拉娜")]至于你讳莫如深的那场庆功会……
 [charslot(slot="m",name="avg_450_necras_1#6$2",focus="m")]
 [multiline(name="爱布拉娜")]你该不会真的在记忆中将其美化成童话了吧？
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
-[name="“歌唱家”"]哈，怎么会......
+[name="“歌唱家”"]哈，怎么会……
 [name="“歌唱家”"]那些不愿像你说的一样就地放弃权力，被你以换个地方为名带走的深池们，他们最后到底怎么样了？
 [charslot(slot="m",name="avg_450_necras_1#14$2",focus="m")]
 [name="爱布拉娜"]用你喜欢的说法，“被黑雾吞噬了”。字面意思。
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
-[name="“歌唱家”"]......
+[name="“歌唱家”"]……
 [name="“歌唱家”"]但拉芙希妮仍然下定决心杀掉了你，威灵顿最后也没有听从你荒唐的命令！
 [name="“歌唱家”"]就当你那变异的紫火给你留下了一副躯壳好了，你现在又要做什么？驱使亡者的军队夺回塔拉吗？
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -169,25 +169,25 @@
 [charslot(slot="m",name="avg_npc_1337_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
-[name="严肃的近侍"]不，阁下......
+[name="严肃的近侍"]不，阁下……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_higheldshosfts", volume=0.6)]
 [charslot(slot="m",name="avg_npc_726_1#7$1",duration=1)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
-[name="严肃的近侍"]公爵阁下，请看这封信上面使用的印章，不存在于此前五十年的留存记录中......
+[name="严肃的近侍"]公爵阁下，请看这封信上面使用的印章，不存在于此前五十年的留存记录中……
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]塔拉？
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
-[name="严肃的近侍"]......
+[name="严肃的近侍"]……
 [Dialog]
 [charslot]
 开斯特公爵顺着近侍的双手望去。
 一枚从历史尘灰中被翻出的徽记停在信封的边缘。
 年轻人或许从未见过，饱经沧桑者或许已经遗忘，只有那些需要刻意留心历史种种的人能想起它的来处。
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
-[name="严肃的近侍"]我们无法确认这究竟是塔拉的徽记，还是......盖尔王的徽记......
+[name="严肃的近侍"]我们无法确认这究竟是塔拉的徽记，还是……盖尔王的徽记……
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]我不知道你还有兴趣作纹章学上的考察。
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
@@ -219,7 +219,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Subtitle(text="“此前来信俱知。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“搁置回复只为等待诸事落定，如今，时机成熟。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“自发信日起，以纳斯尔纱为首，灰山地以南地区，戒严政策已尽数解除......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“自发信日起，以纳斯尔纱为首，灰山地以南地区，戒严政策已尽数解除……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Delay(time=1)]
 [Dialog]
@@ -270,7 +270,7 @@
 [charslot(slot="m",name="avg_npc_1753_1#1$1",focus="m")]
 [name="酒馆老板"]那边那位女士，不来——
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]......
+[name="担忧的居民"]……
 [charslot(slot="m",name="avg_npc_1753_1#1$1",focus="m")]
 [name="酒馆老板"]是艾玛呀。
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
@@ -282,7 +282,7 @@
 [charslot(slot="m",name="avg_npc_1753_1#1$1",focus="m")]
 [name="酒馆老板"]虽然不知道去年你到底有多大神通才能把那么多粮食偷运出城，不过听说你在农业地块也算尽心了。这杯酒我请你。
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]多谢......
+[name="担忧的居民"]多谢……
 [Dialog]
 [charslot]
 [PlaySound(key="$clink")]
@@ -293,14 +293,14 @@
 [charslot(slot="m",name="avg_npc_1753_1#1$1",focus="m")]
 [name="酒馆老板"]敬塔拉。
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]敬......
+[name="担忧的居民"]敬……
 [Dialog]
 [charslot]
 艾玛一只手举着杯，另一只手伸进口袋，握紧了去年冬天失而复得的项链。
 她想起那个人把项链还给自己时说的话，于是也下意识地脱口而出。
 [Dialog]
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]......敬所有为塔拉失去生命的同胞。
+[name="担忧的居民"]……敬所有为塔拉失去生命的同胞。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -318,7 +318,7 @@
 [charslot(slot="m",name="avg_npc_728_1#6$1",focus="m")]
 [name="莫兰"]有机会的话，我会去的。
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
-[name="莫兰"]比起这个，你把我们送回纳斯尔纱，自己却不能留下......
+[name="莫兰"]比起这个，你把我们送回纳斯尔纱，自己却不能留下……
 [charslot(slot="m",name="avg_4177_brigid_1#9$1",focus="m")]
 [name="布莉吉"]没有不能。我只是这么选了，就像你们选择住进这里一样。
 [charslot(slot="m",name="avg_4177_brigid_1#1$1",focus="m")]
@@ -336,23 +336,23 @@
 [charslot(slot="m",name="avg_4177_brigid_1#9$1",focus="m")]
 [name="布莉吉"]校官，你好啊。
 [charslot(slot="m",name="avg_npc_728_1#2$1",focus="m")]
-[name="莫兰"]......
+[name="莫兰"]……
 [charslot(slot="m",name="avg_npc_723_1#4$1",focus="m")]
-[name="校官"]......
+[name="校官"]……
 [charslot(slot="m",name="avg_4177_brigid_1#11$1",focus="m")]
 [name="布莉吉"]你们认识？
 [charslot(slot="m",name="avg_npc_728_1#3$1",focus="m")]
 [name="莫兰"]不仅认识，而且有些过节。
 [name="莫兰"]你来做什么？城里应该没发生什么值得出动赤铁近卫队的事情。
 [charslot(slot="m",name="avg_npc_723_1#6$1",focus="m")]
-[name="校官"]休假，来纪念一些逝去的......卑劣，但毕竟和我一同战斗过的人。
+[name="校官"]休假，来纪念一些逝去的……卑劣，但毕竟和我一同战斗过的人。
 [charslot(slot="m",name="avg_npc_723_1#1$1",focus="m")]
 [name="校官"]要为你那些在流亡期间死去的同伴复仇的话，尽可以来试试。休假期间的私斗不算向军队发起挑衅。
 [charslot(slot="m",name="avg_npc_728_1#4$1",focus="m")]
-[name="莫兰"]......直接杀死塞尔蒙他们的，并不是你。
+[name="莫兰"]……直接杀死塞尔蒙他们的，并不是你。
 [name="莫兰"]我会一直记得你做过的事，但也只是铭记就够了。
 [charslot(slot="m",name="avg_npc_723_1#2$1",focus="m")]
-[name="校官"]是啊......
+[name="校官"]是啊……
 [charslot(slot="m",name="avg_npc_723_1#6$1",focus="m")]
 [name="校官"]若是能被人铭记，还有什么不够的呢？
 [Dialog]
@@ -362,7 +362,7 @@
 [Background(image="bg_black",screenadapt="coverall", block=true)]
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="“......五朔节，又称火焰节，原已濒临失传，不日将要重启。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“……五朔节，又称火焰节，原已濒临失传，不日将要重启。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“火焰传递的起点位于橡林郡。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Delay(time=1)]
@@ -381,7 +381,7 @@
 [name="涅梅丝"]您一直不说话，是紧张了吗？
 [charslot(slot="r",name="avg_1020_reed2_1#9$1",focus="r")]
 [name="拉芙希妮"]不，我只是在想，只在书中出现的那些描写，原来我们真的可以将其付诸现实。
-[name="拉芙希妮"]春季结束的那天，人们熄灭家中所有的火，聚集到一处再把火焰点起，在五月盛宴，在篝火的烟雾和灰烬的飘拂中......
+[name="拉芙希妮"]春季结束的那天，人们熄灭家中所有的火，聚集到一处再把火焰点起，在五月盛宴，在篝火的烟雾和灰烬的飘拂中……
 [name="拉芙希妮"]迎接新季节、新生活的到来。
 [charslot(slot="r",name="avg_1020_reed2_1#9$1",focus="n")]
 [name="提醒的声音"]拉芙希妮殿下，点火仪式会在几分钟之后开始——
@@ -389,9 +389,9 @@
 [name="涅梅丝"]好的，辛苦你，我们知道了。
 [charslot(slot="r",name="avg_1020_reed2_1#9$1",focus="r")]
 [name="拉芙希妮"]也许我只是等这一刻太久了。这感觉并不比做梦更加真实。
-[name="拉芙希妮"]涅梅丝，其实现在我很想唱歌。但在纳斯尔纱那时，你们已经代我唱过，所以......这次，就让我手中的火去唱吧。
+[name="拉芙希妮"]涅梅丝，其实现在我很想唱歌。但在纳斯尔纱那时，你们已经代我唱过，所以……这次，就让我手中的火去唱吧。
 [charslot(slot="l",name="avg_npc_1692_1#6$1",focus="l")]
-[name="涅梅丝"]对了，拉芙希妮殿下，还有一件事......关于爱布拉娜殿下——
+[name="涅梅丝"]对了，拉芙希妮殿下，还有一件事……关于爱布拉娜殿下——
 [charslot(slot="l",name="avg_npc_1692_1#6$1",focus="n")]
 [name="提醒的声音"]拉芙希妮殿下，时间到了！
 [charslot(slot="r",name="avg_1020_reed2_1#1$1",focus="r")]
@@ -415,10 +415,10 @@
 [name="拉芙希妮"]我复述这屈辱的历史，不是为了煽动仇恨，却只为了捍卫和平。
 [name="拉芙希妮"]如果用维多利亚语写出的诗歌能歌颂美好，那就去朗诵它。
 [name="拉芙希妮"]如果由塔拉语记述的传说能令人动容，那就去传唱它。
-[name="拉芙希妮"]我们铭记，因为我们要给生者以生活的尊严，予逝者以终将重逢的许诺......
-[name="拉芙希妮"]我们要在寒夜里......
+[name="拉芙希妮"]我们铭记，因为我们要给生者以生活的尊严，予逝者以终将重逢的许诺……
+[name="拉芙希妮"]我们要在寒夜里……
 [name="拉芙希妮"]拥有一簇温暖的火。
-[name="拉芙希妮"]因此，我，拉芙希妮·都柏林，塔拉唯一的德拉克后裔......
+[name="拉芙希妮"]因此，我，拉芙希妮·都柏林，塔拉唯一的德拉克后裔……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -427,7 +427,7 @@
 [Background(image="bg_black",screenadapt="coverall", block=true)]
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="“我将这象征新生的火点燃，愿它为你们所有人，无论是健在的，还是已逝的......愿它为你们照亮前路。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“我将这象征新生的火点燃，愿它为你们所有人，无论是健在的，还是已逝的……愿它为你们照亮前路。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Delay(time=1)]
 [Dialog]
@@ -441,18 +441,18 @@
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
 [name="严肃的近侍"]“随信附带移动城市出入境申请模板。”
-[name="严肃的近侍"]落款......“塔拉王国”。
+[name="严肃的近侍"]落款……“塔拉王国”。
 [Dialog]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
-[name="严肃的近侍"]公爵阁下，这......这简直大逆不道......
+[name="严肃的近侍"]公爵阁下，这……这简直大逆不道……
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]塔拉本就是维多利亚皇帝的冠冕之一，这封信从头到尾都未曾否认这一点。
 [name="开斯特公爵"]为了规避可能的冲突，那条红龙甚至亲自无限期推迟了不少人翘首以盼的“加冕仪式”。
 [charslot(slot="m",name="avg_npc_1337_1#1$1",focus="m")]
-[name="严肃的近侍"]可事实上......
+[name="严肃的近侍"]可事实上……
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
-[name="开斯特公爵"]事实是，举棋不定的宣称者，生于不义的勋贵团伙，包围首都的军队，还有熊熊燃烧的民意......这一切都已经平息。
+[name="开斯特公爵"]事实是，举棋不定的宣称者，生于不义的勋贵团伙，包围首都的军队，还有熊熊燃烧的民意……这一切都已经平息。
 [name="开斯特公爵"]现在他们口中讲述的，是数百年来，第一个可以自豪地讲给别人听的，新的“盖尔王传说”。
 [name="开斯特公爵"]短期来看，动荡的确被遏制在威灵顿自己的领地之内，可假以时日，这样的传说比任何动荡都更危险。
 [charslot(slot="m",name="avg_npc_726_1#2$1",focus="m")]
@@ -472,14 +472,14 @@
 [charslot(slot="r",name="avg_1020_reed2_1#3$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_1020_reed2_1#3$1",focus="r")]
-[name="拉芙希妮"]终于......呼......
+[name="拉芙希妮"]终于……呼……
 [charslot(slot="l",name="avg_npc_1692_1#9$1",focus="l")]
 [name="涅梅丝"]您做得很好，真的很好。
 [charslot(slot="r",name="avg_1020_reed2_1#9$1",focus="r")]
 [name="拉芙希妮"]多谢。
 [name="拉芙希妮"]对了，你在仪式前想说的爱布拉娜的事，究竟是什么？
 [charslot(slot="l",name="avg_npc_1692_1#6$1",focus="l")]
-[multiline(name="涅梅丝")]她的遗体还是没有找到。如果她真的尚未殒命，我担心总有一天......
+[multiline(name="涅梅丝")]她的遗体还是没有找到。如果她真的尚未殒命，我担心总有一天……
 [charslot(slot="l",name="avg_npc_1692_1#10$1",focus="l")]
 [multiline(name="涅梅丝")]关于红龙的复活，会诞生一个完全不同的故事。
 [charslot(slot="r",name="avg_1020_reed2_1#1$1",focus="r")]
@@ -490,27 +490,27 @@
 [name="拉芙希妮"]我明白了，你害怕爱布拉娜回来，将整个故事渲染成一场从头到尾由我发起的阴谋。
 [charslot(slot="l",name="avg_npc_1692_1#10$1",focus="l")]
 [name="涅梅丝"]而我们并非无懈可击。
-[name="涅梅丝"]我们都知道，那天晚上，您第一次杀死她之后，她的尸体就已经消失不见，我拖动的并非她的遗骸，只是一具空棺......
+[name="涅梅丝"]我们都知道，那天晚上，您第一次杀死她之后，她的尸体就已经消失不见，我拖动的并非她的遗骸，只是一具空棺……
 [charslot(slot="r",name="avg_1020_reed2_1#13$1",focus="r")]
 [name="拉芙希妮"]我知道。
 [charslot(slot="r",name="avg_1020_reed2_1#12$1",focus="r")]
 [name="拉芙希妮"]我还知道，是我用她枪里的最后一点余火点燃了那具棺椁。
 [name="拉芙希妮"]是我出城去找威灵顿，把我们的计划和盘托出，以此换取他的继续观望，让他推迟派军队进城。
-[name="拉芙希妮"]是我主动走进人们还给爱布拉娜的火焰，用生命的火将死火湮灭、替换......最终从明亮的火中走出。
+[name="拉芙希妮"]是我主动走进人们还给爱布拉娜的火焰，用生命的火将死火湮灭、替换……最终从明亮的火中走出。
 [charslot(slot="r",name="avg_1020_reed2_1#13$1",focus="r")]
 [name="拉芙希妮"]在纳斯尔纱堡垒的阳台上，我们不是已经计算清楚了吗？
 [name="拉芙希妮"]爱布拉娜留下的是一个必死的残局，这个残局只能用一场奇迹来拯救。
 [charslot(slot="l",name="avg_npc_1692_1#8$1",focus="l")]
-[name="涅梅丝"]一场......我们自导自演的奇迹。
+[name="涅梅丝"]一场……我们自导自演的奇迹。
 [charslot(slot="r",name="avg_1020_reed2_1#12$1",focus="r")]
 [name="拉芙希妮"]此时此刻，我倒宁愿把守灵人的归来视为奇迹。
-[name="拉芙希妮"]如果不是爱布拉娜唤醒了那位“放逐王”，如果不是布莉吉终于把那份跨越数百年的口信传到了守灵人的营地，如果不是莫兰的劝说......
+[name="拉芙希妮"]如果不是爱布拉娜唤醒了那位“放逐王”，如果不是布莉吉终于把那份跨越数百年的口信传到了守灵人的营地，如果不是莫兰的劝说……
 [name="拉芙希妮"]只凭我们两个，奇迹是不会发生的。
 [charslot(slot="l",name="avg_npc_1692_1#1$1",focus="l")]
-[name="涅梅丝"]......
+[name="涅梅丝"]……
 [charslot(slot="r",name="avg_1020_reed2_1#1$1",focus="r")]
 [name="拉芙希妮"]事已至此，我们又有什么好怕的呢？
-[name="拉芙希妮"]爱布拉娜堵死了所有能让我远离王座的路，那么，我只能在接下来的时日里，将自己奉献给塔拉......
+[name="拉芙希妮"]爱布拉娜堵死了所有能让我远离王座的路，那么，我只能在接下来的时日里，将自己奉献给塔拉……
 [name="拉芙希妮"]同时坦然地等待不知何时才会到来的审判。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -534,7 +534,7 @@
 [name="“歌唱家”"]你向他承诺过，你的谋划有益而无害！
 [charslot(slot="m",name="avg_450_necras_1#15$2",focus="m")]
 [name="爱布拉娜"]我只是在“加斯特里尔”号上向他承诺，只要拉芙希妮愿意回归，我就能扭转塔拉的航向。
-[name="爱布拉娜"]喷吐死火的红龙，充斥死者的鬼魂部队，双手沾满鲜血的深池......一切都将沉入黑暗，而塔拉人会团结在唯一的红龙之下。
+[name="爱布拉娜"]喷吐死火的红龙，充斥死者的鬼魂部队，双手沾满鲜血的深池……一切都将沉入黑暗，而塔拉人会团结在唯一的红龙之下。
 [name="爱布拉娜"]当然，公爵阁下并不知道纳斯尔纱的人注定会死，但我知道。
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]用一城注定死去的人，换取一个稳如磐石的塔拉，难道不是有益而无害？
@@ -544,7 +544,7 @@
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
 [name="爱布拉娜"]这件事出乎所有人的意料。
 [name="爱布拉娜"]为了他们的命，拉芙希妮握住她厌憎的权柄，选择创造一个和诗歌，和小说，和她高洁的品行完全不相称的奇迹。
-[name="爱布拉娜"]这是只有她能做到的事......这是连两三年前的她都不可能做到的事。你会从一开始就把奇迹放在天平上衡量吗？
+[name="爱布拉娜"]这是只有她能做到的事……这是连两三年前的她都不可能做到的事。你会从一开始就把奇迹放在天平上衡量吗？
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
 [name="“歌唱家”"]要是拉芙希妮失败了呢？！
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
@@ -555,11 +555,11 @@
 故事或多或少有其蓝本，此前支持作家写下那些字句的记忆就像涨潮的海水一样再度涌入脑海。
 当他企图挣扎逃离，才终于发觉自己并无那分开洪潮的伟力。
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
-[name="“歌唱家”"]嗬——呃！咳咳咳......
-[name="“歌唱家”"]......红龙......
+[name="“歌唱家”"]嗬——呃！咳咳咳……
+[name="“歌唱家”"]……红龙……
 [name="“歌唱家”"]你知道，你们早就知道！
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="“歌唱家”"]你、你们！你们差点毁了纳斯尔纱......你们甚至愚弄了整个塔拉！
+[name="“歌唱家”"]你、你们！你们差点毁了纳斯尔纱……你们甚至愚弄了整个塔拉！
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
 [name="爱布拉娜"]我必须纠正您，我只是在兑现我的承诺。言出必行难道不算是高尚的品德吗？
 [charslot(slot="m",name="avg_450_necras_1#16$2",focus="m")]
@@ -598,13 +598,13 @@
 尽管口中念念有词，他却只在上面留下几团漏墨的斑点，直到那些念念有词也终于失去了完整的音节。
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
 [charslot(slot = "m", action="shake",random=true, power=5, times=60,duration=0.5)]
-[name="“歌唱家”"]嗬......啊......呃——呃！！
+[name="“歌唱家”"]嗬……啊……呃——呃！！
 [Dialog]
 [charslot]
 作家闹得太凶，自己也醉醺醺的酒保终于从吧台后面出来，揪起作家的领子。
 [name="粗鲁的酒保"]你发什么疯？
 [charslot(slot="m",name="avg_npc_1698_1#4$1",focus="m")]
-[name="“歌唱家”"]呃！欸......哼！
+[name="“歌唱家”"]呃！欸……哼！
 [Dialog]
 [charslot]
 意识到自己已经说不出完整的词句，作家绝望地看向有些厌烦地旁观着的女人。
@@ -614,7 +614,7 @@
 [name="爱布拉娜"]也许是刚刚太激动，撞到了头，或是经历了一次短暂的中风？
 [name="爱布拉娜"]或者，仅仅是因为某些坚信着的东西刚刚忽然破灭了吧。
 [charslot(slot="m",name="avg_450_necras_1#15$2",focus="m")]
-[name="爱布拉娜"]那东西让你加入深池，让你在庆功会上留在原位，让你半路返回纳斯尔纱......
+[name="爱布拉娜"]那东西让你加入深池，让你在庆功会上留在原位，让你半路返回纳斯尔纱……
 [name="爱布拉娜"]但你也该醒醒了。
 [Dialog]
 [charslot]
@@ -647,7 +647,7 @@
 [PlayMusic(key="$calm_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1.5)]
-[Decision(options="所以，我该称呼你为......", values="1")]
+[Decision(options="所以，我该称呼你为……", values="1")]
 [Predicate(references="1")]
 [Dialog]
 [charslot(slot="m",name="avg_450_necras_1#13$2",duration=1)]
@@ -669,7 +669,7 @@
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
 [name="死芒"]哦，看来是我遗漏了，不是吗？
 [charslot(slot="m",name="avg_450_necras_1#6$2",focus="m")]
-[name="死芒"]预先从纳斯尔纱远道而来的私人信件，而后是从官方途径传达的只言片语......拉芙希妮做得越来越好了。
+[name="死芒"]预先从纳斯尔纱远道而来的私人信件，而后是从官方途径传达的只言片语……拉芙希妮做得越来越好了。
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
 [name="死芒"]想必她也已将我的境况向你全数告知，因为只有这样，你才敢独自与我对坐交谈，听完这个饱含影射的故事。
 [Dialog]
@@ -691,7 +691,7 @@
 [Predicate(references="1")]
 [Decision(options="就像你曾握在手里的一切一样。", values="1")]
 [Predicate(references="1")]
-[Decision(options="拥趸、死士、国度、高贵的地位......", values="1")]
+[Decision(options="拥趸、死士、国度、高贵的地位……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
 [name="死芒"]学者，生命短暂，而死亡要漫长得多。
@@ -719,7 +719,7 @@
 [Decision(options="我不明白你的意思。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_450_necras_1#13$2",focus="m")]
-[name="死芒"]呵......你终会明白的。
+[name="死芒"]呵……你终会明白的。
 [name="死芒"]当洪潮倾覆，死如夜般随行，只要我不嘲弄你们的灾难，你就会感激我的存在。
 [charslot(slot="m",name="avg_450_necras_1#1$2",focus="m")]
 [name="死芒"]而此时的我？

@@ -7,11 +7,11 @@
 [PlaySound(key="$rungeneral", volume=0.9)]
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
 [delay(time=2)]
-[name="惊恐的声音"]呃......呜......
-[name="慌乱的声音"]......您——请您冷......冷静！
+[name="惊恐的声音"]呃……呜……
+[name="慌乱的声音"]……您——请您冷……冷静！
 [name="慌乱的声音"]我们已经派人去找干员诺威尔了！所以，也许现在您可以先把那根针，从她太阳穴挪——
 [name="苍老的声音"]在他出现之前，我不会动。
-[name="苍老的声音"]但你们最好也不要轻举妄动，否则我不能保证那时候......
+[name="苍老的声音"]但你们最好也不要轻举妄动，否则我不能保证那时候……
 [name="苍老的声音"]我还能像现在这样，很好地控制自己的手。
 [Dialog]
 [charslot]
@@ -30,13 +30,13 @@
 [charslot]
 [name="镇定的老人"]诺威尔先生。
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
-[name="诺威尔"]是我。你是......？
+[name="诺威尔"]是我。你是……？
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="慌乱的干员"]埃尔洛奇卡先生，干员诺威尔已经到了，您先把针放下吧！
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]你叫埃尔洛奇卡？
 [charslot]
-[name="镇定的老人"]你不记得我......
+[name="镇定的老人"]你不记得我……
 [name="镇定的老人"]也对。我的模样已经和我们上次见面时有很大变化，你认不出也很正常。
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]抱歉，我的确不记得你，但你说要找我，我来了。所以，我用自己来交换你手里的人质，好吗？
@@ -46,7 +46,7 @@
 [name="镇定的老人"]你一个人过来，在离我两步的位置停下。然后我会放开她。
 [name="镇定的老人"]空手过来。
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="慌乱的干员"]诺威尔先生，请小心......
+[name="慌乱的干员"]诺威尔先生，请小心……
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]可以。
 [dialog]
@@ -79,7 +79,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......离开伦蒂尼姆之后，我经以前的顾客推荐，找到罗德岛本舰，加入了他们。
+[name="诺威尔"]……离开伦蒂尼姆之后，我经以前的顾客推荐，找到罗德岛本舰，加入了他们。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]罗德岛是一家制药公司，专精矿石病研究与治疗。他们在很多地方都设有办事处和医疗点，这就是我再次出现在这片土地上的原因。
 [dialog]
@@ -98,7 +98,7 @@
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]一个费尽心力想死却死不掉的人，开始把救人作为毕生事业。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]该死，你肯定在跟我开玩笑......
+[name="镇定的老人"]该死，你肯定在跟我开玩笑……
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]这不是玩笑，埃尔洛奇卡。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
@@ -106,7 +106,7 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]如果是这样，那就算先前你不用武器威胁那些小朋友，他们也会领你来找我的。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]......
+[name="镇定的老人"]……
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]还是说，你只是还和以前一样冲动，一样戏剧化。
 [charslot(slot="m",name="avg_npc_092")]
@@ -118,19 +118,19 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]在乌萨斯，治疗矿石病的医疗点为什么需要像杂耍班子一样随时流动，你应该比我更清楚。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]是啊，矿石病、纠察队、公民权利......老生常谈。但这些都不是我要说的。
+[name="镇定的老人"]是啊，矿石病、纠察队、公民权利……老生常谈。但这些都不是我要说的。
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]知道你在这里，我第一时间就赶过来了，却只看到你们的人在收拾东西准备离开。
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]入口那顶帐篷里，只有刚才被我挟持的那个孩子在忙活。她对我道歉，说现在暂时不收治病人，你们要搬去其他地方了。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......
+[name="诺威尔"]……
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]你说的对。我本来应该跟她说清我不是病人，问她这里有没有一个叫“诺威尔”的人，能不能带我去见他。
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]但我等不了了。
 [charslot(slot="m",name="avg_4173_nowell_1#5$2")]
-[name="诺威尔"]......难道你一直在找我？
+[name="诺威尔"]……难道你一直在找我？
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]哈。
 [charslot(slot="m",name="avg_npc_092")]
@@ -153,7 +153,7 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="愤怒的青年"]我要和他们在一起，即便是死——也死在一处！
 [charslot(slot="m",name="avg_4173_nowell_1#6$1")]
-[name="诺威尔"]......唉。
+[name="诺威尔"]……唉。
 [charslot(slot="m",name="avg_4173_nowell_1#6$1")]
 [name="诺威尔"]有什么用呢。
 [charslot(slot="m",name="avg_npc_081")]
@@ -161,7 +161,7 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]我说，你现在进去又有什么用？
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
-[name="诺威尔"]我让开，让你走进火里，和家人死在一起......最后谁也不会记得这里发生过什么。
+[name="诺威尔"]我让开，让你走进火里，和家人死在一起……最后谁也不会记得这里发生过什么。
 [charslot(slot="m",name="avg_npc_081")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="愤怒的青年"]那也好过只有我一个人苟活！我不是那样的懦夫！
@@ -172,15 +172,15 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]那在这场人为的惨剧之后，幸存者即使获罪，下场最坏也不过是被流放。
 [charslot(slot="m",name="avg_npc_081")]
-[name="愤怒的青年"]什......你到底在说什么？！
+[name="愤怒的青年"]什……你到底在说什么？！
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]我说得已经够明白了。他们牺牲了自己，为了保护你。
 [charslot(slot="m",name="avg_npc_081")]
-[name="愤怒的青年"]保护我？呵......哈哈哈哈哈！保护我！
+[name="愤怒的青年"]保护我？呵……哈哈哈哈哈！保护我！
 [charslot(slot="m",name="avg_npc_081")]
 [name="愤怒的青年"]不，不是！肯定是你，是你杀了他们，是吗？还说这是他们的选择，为了保护我——
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
-[name="诺威尔"]......埃尔洛奇卡，这是你的名字，嗯？
+[name="诺威尔"]……埃尔洛奇卡，这是你的名字，嗯？
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]你听好了，埃尔洛奇卡。我只是一名路过的配镜师，甚至不是个乌萨斯人，我从不打算主动介入你们的纷争。
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
@@ -190,12 +190,12 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]不，我以为你会更聪明一些。毕竟你看上去也不算年轻了，而冲动又戏剧化通常是年轻人的特权。
 [charslot(slot="m",name="avg_npc_081")]
-[name="愤怒的青年"]......哈。我知道是你——一定是你！
+[name="愤怒的青年"]……哈。我知道是你——一定是你！
 [charslot(slot="m",name="avg_npc_081")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="愤怒的青年"]因为如果真像你说的，你只是个小小的配镜师，那你又怎么会知道这么多？！
 [charslot(slot="m",name="avg_npc_081")]
-[name="愤怒的青年"]除非你本来就深入其中......
+[name="愤怒的青年"]除非你本来就深入其中……
 [charslot(slot="m",name="avg_npc_081")]
 [name="愤怒的青年"]对，对。一定是这样。
 [charslot(slot="m",name="avg_npc_081")]
@@ -223,7 +223,7 @@
 [charslot(slot="m",name="avg_4173_nowell_1#6$1")]
 [name="诺威尔"]因为，如果你真的能杀死我，那这份解脱，甚至算得上是最好的生日礼物了。
 [charslot(slot="m",name="avg_4173_nowell_1#6$1")]
-[name="诺威尔"]尽管我已经忘记我的生日......太久太久。
+[name="诺威尔"]尽管我已经忘记我的生日……太久太久。
 [charslot(slot="m",name="avg_npc_081")]
 [name="愤怒的青年"]你难道认为挑衅我能让自己的死相更好看些？
 [charslot(slot="m",name="avg_4173_nowell_1#6$1")]
@@ -251,13 +251,13 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="愤怒的青年"]为什么你就是不死？！
 [charslot]
-[name="诺威尔"]咳......呵。
+[name="诺威尔"]咳……呵。
 [name="诺威尔"]相信我，我试过，几乎所有办法。
 诺威尔吞下再度涌上喉头的鲜血。他知道再过片刻，自己身上那些伤口就会奇迹般地愈合。奇迹，当然。
 于是在片刻的静止后，他就伸手撑住自己，慢慢从雪地上爬起。
 疼痛仍在，只是从不留于表面。
 [charslot(slot="m",name="avg_npc_081")]
-[name="愤怒的青年"]......什么？
+[name="愤怒的青年"]……什么？
 [charslot(slot="m",name="avg_4173_nowell_1#8$1")]
 [name="诺威尔"]我见过许多类似的悲剧，在维多利亚，在莱塔尼亚，甚至在高卢。而发生在你身上的，只是比那些场面干净得多的翻版。
 [charslot(slot="m",name="avg_4173_nowell_1#8$1")]
@@ -267,7 +267,7 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]你就快站不稳了，埃尔洛奇卡，所以与其浪费最后一点力气，不如听我说完。
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
-[name="诺威尔"]我见过这些，是因为我受到了诅咒。我会一直活下去，除非找到一样我无论如何都不可能再拥有的东西......
+[name="诺威尔"]我见过这些，是因为我受到了诅咒。我会一直活下去，除非找到一样我无论如何都不可能再拥有的东西……
 [charslot(slot="m",name="avg_npc_081")]
 [name="愤怒的青年"]如果你真有这样神奇的体质，那还有什么东西是你找不到的？
 [charslot(slot="m",name="avg_4173_nowell_1#2$1")]
@@ -283,11 +283,11 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]你可以选，是走进火场里，还是用别的方法杀死自己。
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
-[name="诺威尔"]又或者，如果你仍然怪罪于我，想杀死我，那就活下去，然后......
+[name="诺威尔"]又或者，如果你仍然怪罪于我，想杀死我，那就活下去，然后……
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
 [name="诺威尔"]像我寻找那个凶手一样，来找我。
 [charslot(slot="m",name="avg_npc_081")]
-[name="愤怒的青年"]不，你不能......你不能走。
+[name="愤怒的青年"]不，你不能……你不能走。
 [charslot(slot="m",name="avg_npc_081")]
 [name="愤怒的青年"]如果你走了，我又要去哪里才能找到你？
 [charslot(slot="m",name="avg_4173_nowell_1#1$1")]
@@ -306,7 +306,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$dignified_intro", key="$dignified_loop",volume=0.6)]
 [charslot(slot="m",name="avg_4173_nowell_1#5$2")]
-[name="诺威尔"]这是......
+[name="诺威尔"]这是……
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]我说过，我会来找你。
 [charslot(slot="m",name="avg_npc_092")]
@@ -316,7 +316,7 @@
 诺威尔看向老人手中的东西。
 一副眼镜，镜片已经破碎，一侧的镜架几经修补，显然受到了岁月无情的洗礼，而另一侧的镜架却几乎光洁如新。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......你还留着它。
+[name="诺威尔"]……你还留着它。
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]当然。
 [charslot(slot="m",name="avg_4173_nowell_1#2$2")]
@@ -334,7 +334,7 @@
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]如果想象已经是我们渡过某些悲惨境遇的唯一途径，那这片大地上的多数人都不会缺乏这种能力。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......也对。只有想象，唯有想象......
+[name="诺威尔"]……也对。只有想象，唯有想象……
 [charslot(slot="m",name="avg_4173_nowell_1#5$2")]
 [name="诺威尔"]啊，你还打磨了它。
 [charslot(slot="m",name="avg_4173_nowell_1#5$2")]
@@ -360,11 +360,11 @@
 [charslot(slot="m",name="avg_4173_nowell_1#5$2")]
 [name="诺威尔"]什么？
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]如果我意识到，我几乎不能因为那场悲剧而去仇恨任何具体的人......且对那背后更庞大的东西也无能为力呢？
+[name="镇定的老人"]如果我意识到，我几乎不能因为那场悲剧而去仇恨任何具体的人……且对那背后更庞大的东西也无能为力呢？
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]我曾经和这片大地拥有一些联系，转眼间却又全部失去，甚至不能因此憎恨任何人。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......但你还是执着于寻找我，就像我曾经执着于......
+[name="诺威尔"]……但你还是执着于寻找我，就像我曾经执着于……
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]因为只有我活下来了，我看到困境，却无能为力。我就这样活着，却不算真的活着！
 [charslot(slot="m",name="avg_npc_092")]
@@ -376,15 +376,15 @@
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]你离开之后，我被抓住，流放到矿场，却幸运地在感染矿石病前被再次征召入伍。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]而在战场上，我又一次一次与死亡擦肩而过，无数次成为那个“幸运的家伙”......
+[name="镇定的老人"]而在战场上，我又一次一次与死亡擦肩而过，无数次成为那个“幸运的家伙”……
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]那时我就决定，一定要找到一种能杀死任何人的方法。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......
+[name="诺威尔"]……
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]现在你找到了，是吗？
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]是的，我觉得我......找到了。
+[name="镇定的老人"]是的，我觉得我……找到了。
 [Dialog]
 [charslot]
 老人眼中闪着与年龄不符的光亮。他目光灼灼，抓住诺威尔的双手，将一个玻璃瓶放到他手中。
@@ -401,19 +401,19 @@
 [Background(image="bg_ri_1",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="仔细的干员"]首字母顺序......埃尔洛奇卡......
+[name="仔细的干员"]首字母顺序……埃尔洛奇卡……
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]找到了！电子记录坏了，还好有文字留档。
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="仔细的干员"]军用背包......面包、水壶、两本书、四枚勋章、一张照片......
+[name="仔细的干员"]军用背包……面包、水壶、两本书、四枚勋章、一张照片……
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]灰色外套里有一副眼镜和——
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="仔细的干员"]......两个装着液体的玻璃瓶？
+[name="仔细的干员"]……两个装着液体的玻璃瓶？
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]玻璃瓶内容物呢？没有当场监督他饮用或者开瓶检查？
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="仔细的干员"]该死，没有......没有！他都能带进来麦秆那么粗的针了，谁知道玻璃瓶里会是什么东西！
+[name="仔细的干员"]该死，没有……没有！他都能带进来麦秆那么粗的针了，谁知道玻璃瓶里会是什么东西！
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]他现在——
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
@@ -444,12 +444,12 @@
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]诺威尔先生！你怎么样？！
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="仔细的干员"]发生什么事了？他为什么要打你？而且，他有没有拿出什么奇怪的东西......
+[name="仔细的干员"]发生什么事了？他为什么要打你？而且，他有没有拿出什么奇怪的东西……
 [Dialog]
 [charslot]
 医疗干员的注意力转向地面。那里，一个玻璃瓶被砸破在雪地里，液体的颜色很快消融，只留下一摊碎片和一块深色的印记。
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="仔细的干员"]......嗯？
+[name="仔细的干员"]……嗯？
 [Dialog]
 [charslot]
 等她再抬头，老人已经离开营地，身影消失在前方。
@@ -458,7 +458,7 @@
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]你们发生了冲突？你有哪里受伤了吗？
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......没有，没关系。
+[name="诺威尔"]……没有，没关系。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]我们——
 [charslot(slot="m",name="avg_4173_nowell_1#2$2")]
@@ -471,17 +471,17 @@
 [cameraEffect(effect="Grayscale", keep=true, amount=1, fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_4173_nowell_1#10$2")]
-[name="诺威尔"]......
+[name="诺威尔"]……
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]即使是你，面对这样的诱惑也需要考虑。
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]我能理解，只是留给你我的时间不多了。
 [charslot(slot="m",name="avg_4173_nowell_1#10$2")]
-[name="诺威尔"]不，我是在想......
+[name="诺威尔"]不，我是在想……
 [charslot(slot="m",name="avg_4173_nowell_1#10$2")]
 [name="诺威尔"]要怎么才能恰当地表达拒绝。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]......你已经不再渴望死亡了？
+[name="镇定的老人"]……你已经不再渴望死亡了？
 [charslot(slot="m",name="avg_4173_nowell_1#2$2")]
 [name="诺威尔"]每天我都比前一天更期盼它的到来。
 [charslot(slot="m",name="avg_npc_092")]
@@ -495,9 +495,9 @@
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]是。
 [charslot(slot="m",name="avg_4173_nowell_1#10$2")]
-[name="诺威尔"]......那如果我告诉你，你现在将那根针取出来扎进我的太阳穴，或刺穿我的颈动脉，也可以达到同样的效果呢？
+[name="诺威尔"]……那如果我告诉你，你现在将那根针取出来扎进我的太阳穴，或刺穿我的颈动脉，也可以达到同样的效果呢？
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]什......
+[name="镇定的老人"]什……
 [charslot(slot="m",name="avg_4173_nowell_1#2$2")]
 [name="诺威尔"]我已经不再是长生者了。
 [charslot(slot="m",name="avg_npc_092")]
@@ -505,9 +505,9 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]我已经见过了那个降下诅咒的家伙，找到了能杀死我的东西。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]如今我站在这里，做的这些救人的活计......一切都与这个事实相关。
+[name="诺威尔"]如今我站在这里，做的这些救人的活计……一切都与这个事实相关。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]......
+[name="镇定的老人"]……
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]所以，你想告诉我，你既完成了复仇，还在这里找到了幸福？
 [charslot(slot="m",name="avg_npc_092")]
@@ -515,19 +515,19 @@
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]你——
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]可以这样说，但重点是......
+[name="诺威尔"]可以这样说，但重点是……
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]重点是，死亡已经在向我走来的路上，埃尔洛奇卡。但如果你坚持要我现在就喝下这毒药，我也会照做。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]选择权在你。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]这不是在报答你，只是在杀死你......
+[name="镇定的老人"]这不是在报答你，只是在杀死你……
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]但发泄出来，你会好过很多。只是在医疗点搬离之前，我还有一副眼镜没有做完，是要给这里一个小女孩的，他们都叫她卡佳......
+[name="诺威尔"]但发泄出来，你会好过很多。只是在医疗点搬离之前，我还有一副眼镜没有做完，是要给这里一个小女孩的，他们都叫她卡佳……
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]等我做完眼镜，喝下毒药，或许你也可以帮我把眼镜带给她。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]......
+[name="镇定的老人"]……
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]我会留下遗书表明是自杀。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
@@ -536,7 +536,7 @@
 [name="镇定的老人"]哈——
 [charslot(slot="m",name="avg_npc_092")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="镇定的老人"]哈哈哈哈哈哈哈哈哈......！
+[name="镇定的老人"]哈哈哈哈哈哈哈哈哈……！
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]你认真的，诺威尔？你把我，一个无论动机如何都是来杀你的人，当成许愿池？
 [charslot(slot="m",name="avg_4173_nowell_1#3$2")]
@@ -566,9 +566,9 @@
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]随你怎么说，反正我永远不会知道答案。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]你为什么要......
+[name="诺威尔"]你为什么要……
 [charslot(slot="m",name="avg_4173_nowell_1#9$2")]
-[name="诺威尔"]......所以，不是留给“我们”的时间不多了，而是......你？
+[name="诺威尔"]……所以，不是留给“我们”的时间不多了，而是……你？
 [charslot(slot="m",name="avg_4173_nowell_1#9$2")]
 [name="诺威尔"]你知道自己时日无多了，是吗？你急于找到我，也是因为——
 [charslot(slot="m",name="avg_npc_092")]
@@ -578,7 +578,7 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]那不是荒谬，埃尔洛奇卡。那只是痛苦。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]痛苦曾是我们在生活里唯一能紧紧抓住的东西，真正荒谬的......是使人沦落至此的存在。
+[name="诺威尔"]痛苦曾是我们在生活里唯一能紧紧抓住的东西，真正荒谬的……是使人沦落至此的存在。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]承认痛苦存在并不可耻，如果我能帮助你——我还能为你做些什么？
 [charslot(slot="m",name="avg_npc_092")]
@@ -592,7 +592,7 @@
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
 [name="诺威尔"]你知道，救人是我如今的毕生事业。
 [charslot(slot="m",name="avg_npc_092")]
-[name="镇定的老人"]......哈。
+[name="镇定的老人"]……哈。
 [charslot(slot="m",name="avg_npc_092")]
 [name="镇定的老人"]那好，你站稳了。
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
@@ -627,11 +627,11 @@
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]诺威尔先生，诺威尔先生？
 [charslot(slot="m",name="avg_4173_nowell_1#5$2")]
-[name="诺威尔"]......嗯？
+[name="诺威尔"]……嗯？
 [charslot(slot="m",name="avg_4173_nowell_1#5$2")]
 [name="诺威尔"]啊，抱歉，我刚才可能走神了。你说了什么吗？
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="仔细的干员"]一会儿你得去做个全面检查，看看刚才那一拳有没有伤到肋骨之类的......
+[name="仔细的干员"]一会儿你得去做个全面检查，看看刚才那一拳有没有伤到肋骨之类的……
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]哦，对了，还有小卡佳的眼镜，是不是快做好了？我们明天早上就要搬去下一个城镇了。
 [charslot(slot="m",name="avg_4173_nowell_1#3$2")]
@@ -639,9 +639,9 @@
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="仔细的干员"]那我们先回帐篷里去？
 [charslot(slot="m",name="avg_4173_nowell_1#1$2")]
-[name="诺威尔"]......你先去吧，我没问题。你也知道，我受伤通常都恢复得很快。
+[name="诺威尔"]……你先去吧，我没问题。你也知道，我受伤通常都恢复得很快。
 [charslot(slot="m",name="avg_4173_nowell_1#3$2")]
-[name="诺威尔"]不过，谢谢你出来找我，只是现在我得收拾一下这些东西......这些玻璃碎片。
+[name="诺威尔"]不过，谢谢你出来找我，只是现在我得收拾一下这些东西……这些玻璃碎片。
 [charslot(slot="m",name="avg_4173_nowell_1#3$2")]
 [name="诺威尔"]免得因为它们都埋在雪里，被其他人或者驮兽踩到。
 [Dialog]

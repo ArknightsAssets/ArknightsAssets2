@@ -13,7 +13,7 @@
 我应当坐在飞行器驾驶座上，手中握着操纵杆，我要在工作中面对的对象理应是地形和乱流。
 而我现在手中正抓着半把全自动突击弩，我就连它的设备型号都是早上才听说的，就算只剩一半，它也还是沉得吓人。
 我手心里全是汗，如果我得面对一个战场，那这个战场不应该在地面上，更不应该是在这样的哥伦比亚暗巷里。
-如果我有得选，我希望自己的敌人不是......呃。
+如果我有得选，我希望自己的敌人不是……呃。
 [Character(name="char_017_homura_3#1")]
 [name="煌"] 迪伦，我腾不开手，帮我看看，这上面写着什么？
 [Character(name="char_017_homura_3#1",focus=-1)]
@@ -21,7 +21,7 @@
 [Character(name="char_017_homura_3#1")]
 [name="煌"] 是他先动手的。
 [Character(name="char_017_homura_3#1",focus=-1)]
-[name="迪伦"] 但是这个证件看起来......应该不是真的，这个做工也太差了。
+[name="迪伦"] 但是这个证件看起来……应该不是真的，这个做工也太差了。
 [Character(name="char_017_homura_3#1")]
 [name="煌"] 至少他的穿着打扮确实是那么回事，跟早晨楼顶上那几个差不多，比其他没准备制服的人像话多了。
 [name="煌"] 这个问题我一定得问第二次，哪里的警察会在问话的同时把全自动突击弩给开上？
@@ -39,29 +39,29 @@
 罗德岛还在赶往大骑士领的路上，我们就已经从空中穿过了整个西部荒地，整个西部荒地诶。
 根据计划，等到博士和阿米娅把事情谈妥，我们再原路飞回罗德岛本舰，大骑士领可能在这时还没完成城区组装。
 我只知道罗德岛受邀在卡西米尔骑士特别锦标赛期间进行访问，但不知道具体的时间和目的，不过，按理说，肯定是越早回去准备越好。
-如果不是时间紧迫，我还想请假在这座大都市待上几天......现在我是不想了。
+如果不是时间紧迫，我还想请假在这座大都市待上几天……现在我是不想了。
 [dialog]
 [Character(name="char_016_medic")]
-[name="医疗干员"] 我们......安全了吗？
+[name="医疗干员"] 我们……安全了吗？
 [Character(name="char_017_homura_3#1")]
 [name="煌"]不安全，直到离开提卡伦多之前都——甚至可能在离开哥伦比亚前都不安全。
 [name="煌"]帮我看一眼这人还有没有气，如果还有，那就最好让他接下来还能继续喘气。
 [Character(name="char_016_medic")]
-[name="医疗干员"] 我......呜，好的。
+[name="医疗干员"] 我……呜，好的。
 [Character(name="char_016_medic",focus=-1)]
 [name="迪伦"] 我是第一次见到这么厉害的自动弩，这种武器在哥伦比亚这么普及？
 [Character(name="char_017_homura_3#1")]
 [name="煌"] 这种全自动武器也算是哥伦比亚的特色了。
 [Character(name="char_017_homura_3#1",focus=-1)]
-[name="迪伦"] 不知道博士怎么样了......
+[name="迪伦"] 不知道博士怎么样了……
 [Character(name="char_017_homura_3#1")]
-[name="煌"] 袭击刚开始的时候博士和阿米娅就先行坐车离开了，也不知道可露希尔捣鼓的那套自动驾驶系统靠不靠谱......
+[name="煌"] 袭击刚开始的时候博士和阿米娅就先行坐车离开了，也不知道可露希尔捣鼓的那套自动驾驶系统靠不靠谱……
 [Character(name="char_017_homura_3#1",focus=-1)]
 [name="迪伦"] 我们这是被算计惨了，连博士和阿米娅都没料到。
 [Character(name="char_017_homura_3#1")]
-[name="煌"] 博士和阿米娅......他们也是人，偶尔也会有误判。
+[name="煌"] 博士和阿米娅……他们也是人，偶尔也会有误判。
 [Character(name="char_016_medic")]
-[name="医疗干员"] 他们占领了酒店，就这样抢走了我们留下的药物样品......
+[name="医疗干员"] 他们占领了酒店，就这样抢走了我们留下的药物样品……
 [Character(name="char_017_homura_3#1")]
 [name="煌"] 算了，先不管那些。
 [name="煌"] 我们得先想办法安全转移，得离开这个城市。
@@ -85,7 +85,7 @@
 [name="？？？"] 当你发现一切无法挽回，当你发现自己无能为力，当你面对走投无路的困境时。
 [name="？？？"] 希望足以逼疯一个至善之人。
 [dialog]
-[Decision(options="但是......", values="1")]
+[Decision(options="但是……", values="1")]
 [Predicate(references="1")]
 你想说什么，但是你发现无法控制自己的身体。
 你仿佛漂浮在虚空，眼前的一切如此熟悉，又如此遥远。这些记忆，属于你的一部分记忆，像是碎片一样，和你一起漂浮。
@@ -123,11 +123,11 @@
 在感受这个温暖的拥抱之前，背后岩石坚硬的触感与头部的阵痛依然在提醒着你，很多事情尚且没有结束。
 [dialog]
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"] 太好了！你醒了......我还在担心你要是醒不过来该怎么办......
+[name="阿米娅"] 太好了！你醒了……我还在担心你要是醒不过来该怎么办……
 [name="阿米娅"] 你还好吗？有没有什么地方不舒服？
 [dialog]
 [Character(name="char_002_amiya_1#4",focus=-1)]
-[Decision(options="没事......只是头有点痛。;......没有大碍。;我还没那么脆弱。", values="1;2;3")]
+[Decision(options="没事……只是头有点痛。;……没有大碍。;我还没那么脆弱。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#6")]
 [name="阿米娅"] 头痛？是撞到了吗？让我看一下喔。
@@ -138,7 +138,7 @@
 [dialog]
 [Predicate(references="3")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 博士......你还是要谨慎一点，你的身体状况可没那么好。
+[name="阿米娅"] 博士……你还是要谨慎一点，你的身体状况可没那么好。
 [dialog]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_208")]
@@ -146,7 +146,7 @@
 [name="坎诺特"] 精神层面上就不好说了。你刚才嘟囔着说了不少梦话，不过别担心，我没有仔细听。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="......您是？", values="1")]
+[Decision(options="……您是？", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 啊，忘记自我介绍了，真是不好意思。
@@ -155,10 +155,10 @@
 [name="坎诺特"] 实话说，朋友，刚才那个可真是太刺激了，这年头不是每天都能看到有人从悬崖上飞下来做源石技艺表演，非常优秀。 
 [dialog]
 [character]
-[Decision(options="悬崖上？我们之前......;......可露希尔的自动驾驶系统可能有点问题......", values="1;2")]
+[Decision(options="悬崖上？我们之前……;……可露希尔的自动驾驶系统可能有点问题……", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 这里应该是在哥伦比亚荒地......东侧荒地。
+[name="阿米娅"] 这里应该是在哥伦比亚荒地……东侧荒地。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 没错，小兔子，这里是加斯帕荒原，你们的运气还算不错。
 [Character(name="char_002_amiya_1#1")]
@@ -167,21 +167,21 @@
 [name="坎诺特"] 是啊，运气不错，你们要是再向南多开两公里，那边可是毒气沼泽区，车陷进去就真的别想出来了。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="不知道其他人怎么样了。;......;其他人呢？", values="1;2;3")]
+[Decision(options="不知道其他人怎么样了。;……;其他人呢？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 其他干员和我们分头行动了，我相信煌有办法保护他们......
+[name="阿米娅"] 其他干员和我们分头行动了，我相信煌有办法保护他们……
 [name="阿米娅"] 但是我们没办法和他们取得联系，也没办法和其它办事处取得联系。
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
 [Decision(options="等等，那通讯器呢？;等等，其他的补给呢？", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 全都放在“坏家伙”号上了......
+[name="阿米娅"] 全都放在“坏家伙”号上了……
 [name="阿米娅"] 不仅是通讯设备，我们连食物和水都没来得及带。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 听起来可是相当绝望啊，朋友？
-[name="坎诺特"] 不过办法总是有的，如果你不介意的话......
+[name="坎诺特"] 不过办法总是有的，如果你不介意的话……
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
 [Decision(options="眼下没什么好介意的。", values="1")]
@@ -204,7 +204,7 @@
 [name="坎诺特"] 说真的，哥伦比亚佣兵良莠不齐，但这前前后后有钱雇得起这种佣兵的人，用手指头都能数过来。
 [name="坎诺特"] 他们似乎对你很有兴趣啊，朋友，你是怎么得罪这些大企业家了？
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"] 果然是他们......
+[name="阿米娅"] 果然是他们……
 [dialog]
 [character]
 [MusicVolume(volume=0.2, fadetime=1)]
@@ -218,7 +218,7 @@
 [name="企业负责人"] 所以，阿米娅小姐，你们真的不考虑一下么？
 [name="企业负责人"] 在哥伦比亚，你们很难找到比我们约翰老妈更合适的合作方了，我们能够为罗德岛的药物销售提供相当优惠的条件。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 谢谢您的好意，但是......
+[name="阿米娅"] 谢谢您的好意，但是……
 [name="阿米娅"] 我们此行的目的仅限于技术交流，罗德岛目前还没有更深层商业合作的打算。
 [name="阿米娅"] 而且我们带来的这些矿石病镇痛剂还在试验中，它们只有技术验证意义，并不是完成品。
 [name="阿米娅"] 矿石病治疗的研究过程复杂又漫长，我们以后在这方面还有很多合作的机会。
@@ -234,7 +234,7 @@
 [Delay(time=1)]
 [MusicVolume(volume=0.4, fadetime=1)]
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"] 这件事从一开始就是设计好的......
+[name="阿米娅"] 这件事从一开始就是设计好的……
 [dialog]
 [Character(name="char_002_amiya_1#7",focus=-1)]
 [Decision(options="我们是不是应该先找警察？", values="1")]
@@ -244,13 +244,13 @@
 [name="坎诺特"] 约翰老妈是提卡伦多最大的地方企业，连警察局的局长都会把自己和企业老总的合影摆在桌子上来彰显身份，我建议你还是换个思路。
 [name="坎诺特"] 他们敢在城市里直接动手抢你们的东西，那说明打一开始就没把你们放在眼里。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"] 都是我的错......我太轻易相信他们的说辞了。
+[name="阿米娅"] 都是我的错……我太轻易相信他们的说辞了。
 [dialog]
 [Character(name="char_002_amiya_1#4",focus=-1)]
-[Decision(options="别这么想，没有人能预料到他们这么下作。;......;不，我也有责任，阿米娅。我应该想到的。", values="1;2;3")]
+[Decision(options="别这么想，没有人能预料到他们这么下作。;……;不，我也有责任，阿米娅。我应该想到的。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 古德......因......先生？
+[name="阿米娅"] 古德……因……先生？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 啊，有什么事呢，兔子小姐。
 [Character(name="char_002_amiya_1#1")]
@@ -270,7 +270,7 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 没有问题！我的朋友。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 博士......你怎么看？我们也可以想办法回到城里，和煌他们会合。
+[name="阿米娅"] 博士……你怎么看？我们也可以想办法回到城里，和煌他们会合。
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
 [Decision(options="风险太大了，看起来我们没得选。;这位先生似乎已经帮我们选择了，对吧？", values="1;2")]
@@ -279,7 +279,7 @@
 [name="坎诺特"] 话不能这么说，我们的生活总是有很多选择，当然，我们也总能从中挑出最优解。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="那希望我们在接下来的几天里......合作愉快？", values="1")]
+[Decision(options="那希望我们在接下来的几天里……合作愉快？", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 当然，我的朋友！
@@ -298,7 +298,7 @@
 五小时后
 [dialog]
 [Character(name="avg_npc_208")]
-[name="坎诺特"] ......就像我之前说的那样，荒地上最大的威胁并不是匪帮。我以前认识一个胆子非常大的本地人，他竟然......
+[name="坎诺特"] ……就像我之前说的那样，荒地上最大的威胁并不是匪帮。我以前认识一个胆子非常大的本地人，他竟然……
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 博士，给我手。
 [dialog]
@@ -316,7 +316,7 @@
 [name="阿米娅"] 这才是第二个啊，博士。
 [dialog]
 [Character(name="char_002_amiya_1#5",focus=-1)]
-[Decision(options="让我歇歇......让我歇歇......;（沉默，并大口喘气）;看来我平时有些疏于锻炼......", values="1;2;3")]
+[Decision(options="让我歇歇……让我歇歇……;（沉默，并大口喘气）;看来我平时有些疏于锻炼……", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#10")]
 [name="阿米娅"] 哈哈，博士你先坐这里吧。
@@ -325,7 +325,7 @@
 [Character(name="char_002_amiya_1#3")]
 [name="阿米娅"] 按博士的身体情况，可能不能走得这么急。
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 我们可以减慢速度，但是......
+[name="坎诺特"] 我们可以减慢速度，但是……
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 走慢一点会有什么问题吗？
 [Character(name="avg_npc_208")]
@@ -333,7 +333,7 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 如果我们放慢速度，就会不可避免地遭遇补给缺口。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 这样的话......坎诺特先生？
+[name="阿米娅"] 这样的话……坎诺特先生？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 嗯？
 [Character(name="char_002_amiya_1#1")]
@@ -353,23 +353,23 @@
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 这几种野菜，还有这种蘑菇，基本上都是可以吃的，只要煮熟了就行。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 这种......稍微有点毒性，不过也是能应急的。
+[name="阿米娅"] 这种……稍微有点毒性，不过也是能应急的。
 [Character(name="avg_npc_208")]
-[name="坎诺特"] ......你让我刮目相看了，兔子小姐。
+[name="坎诺特"] ……你让我刮目相看了，兔子小姐。
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 实话说，大部分生活在移动城市里的朋友......是不具备什么野外生存能力的，我知道的许多人终其一生不会踏足荒地。
+[name="坎诺特"] 实话说，大部分生活在移动城市里的朋友……是不具备什么野外生存能力的，我知道的许多人终其一生不会踏足荒地。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 你这也算是一把生存好手了，你是哪里人？雷姆必拓人？
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 如果是雷姆必拓人的话，那倒不奇怪了......
+[name="坎诺特"] 如果是雷姆必拓人的话，那倒不奇怪了……
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 这些其实都是博士教我的，几年前......
+[name="阿米娅"] 这些其实都是博士教我的，几年前……
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
 [Decision(options="啊？我？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] ......嗯。当时......
+[name="阿米娅"] ……嗯。当时……
 [dialog]
 [character]
 [delay(time=1)]
@@ -382,7 +382,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character]
-[name="小阿米娅"] 博士......这个能吃吗？
+[name="小阿米娅"] 博士……这个能吃吗？
 [name="博士"] 这几种野菜，还有这种蘑菇，基本上都是可以吃的，只要煮熟了就行。
 [Dialog]
 [character(fadetime=1)]
@@ -393,10 +393,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="char_002_amiya_1#3")]
-[name="阿米娅"] ......是一段，很艰苦，但是很开心的日子。
+[name="阿米娅"] ……是一段，很艰苦，但是很开心的日子。
 [dialog]
 [Character(name="char_002_amiya_1#3",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#3",focus=-1)]
 似乎有什么在你的脑内回溯，但又逐渐变得模糊。
@@ -405,7 +405,7 @@
 [name="阿米娅"] 博士？
 [dialog]
 [Character(name="char_002_amiya_1#2",focus=-1)]
-[Decision(options="我......是以前的事情吗？", values="1")]
+[Decision(options="我……是以前的事情吗？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 啊，没什么，确实是几年前的事情，想不起来也没关系。
@@ -416,12 +416,12 @@
 [name="坎诺特"] 咳咳，说起来，这个宿营地选得也很好。在这个位置即便生火，也不太容易被察觉。 
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="这附近有什么匪帮么？;......;会被谁发现？", values="1;2;3")]
+[Decision(options="这附近有什么匪帮么？;……;会被谁发现？", values="1;2;3")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"]匪帮，赏金猎人，数不清的锈锤组织，这片土地上可不缺麻烦。
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 锈锤......我之前听说过，是一群很凶恶的劫匪？
+[name="阿米娅"] 锈锤……我之前听说过，是一群很凶恶的劫匪？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 这个说法也不算太严谨。
 [Character(name="avg_npc_208")]
@@ -431,12 +431,12 @@
 [name="阿米娅"] 崇拜天灾？
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
-[Decision(options="追随天灾？真是疯狂。;......;萨卡兹？恶魔帮？", values="1;2;3")]
+[Decision(options="追随天灾？真是疯狂。;……;萨卡兹？恶魔帮？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 我以前听说，萨尔贡那边有一伙自称“阿达克利斯恶魔”的锈锤团伙，好像一直在找什么“头上长着巨角的阿达克利斯战神”。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 我之前听哥伦比亚来的干员讲，锈锤以前只是一些非常零散的小组织，这几年他们的数量越来越多了，从乌萨斯山区到哥伦比亚荒地......
+[name="阿米娅"] 我之前听哥伦比亚来的干员讲，锈锤以前只是一些非常零散的小组织，这几年他们的数量越来越多了，从乌萨斯山区到哥伦比亚荒地……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 天下不太平，朋友。
 [Character(name="avg_npc_208")]
@@ -461,7 +461,7 @@
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 坎诺特先生！
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 咳咳......我胡说的，不好意思，别当真。
+[name="坎诺特"] 咳咳……我胡说的，不好意思，别当真。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -520,22 +520,22 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 我是个诚信的人，我说过我没有仔细去听，就更加不会记下来。而且你只会嘟嘟哝哝的，其实听不太清。
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 不过......每天晚上，小兔子倒是一直很在意你的梦话。
+[name="坎诺特"] 不过……每天晚上，小兔子倒是一直很在意你的梦话。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 不要埋怨我多管闲事，不过这一路上聊下来，有的东西是很难不留下印象的。你是失忆了，还是怎么样？
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 啊，如果有什么隐情，就当我没问吧。这个问题确实不够礼貌，我也只是出于好奇。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="我......遇到了一些事故，失去了一部分记忆。", values="1")]
+[Decision(options="我……遇到了一些事故，失去了一部分记忆。", values="1")]
 [Predicate(references="1")]
-[Decision(options="......也许是大部分记忆。", values="1")]
+[Decision(options="……也许是大部分记忆。", values="1")]
 [Predicate(references="1")]
-[Decision(options="偶尔我会想起来一些......一丁点碎片。", values="1")]
+[Decision(options="偶尔我会想起来一些……一丁点碎片。", values="1")]
 [Predicate(references="1")]
 [Decision(options="好吧，不是偶尔，其实没几次。", values="1")]
 [Predicate(references="1")]
@@ -547,7 +547,7 @@
 [name="坎诺特"] 你只能从油漆遮盖的间隙中看到一点点内容，你也无法认清这些内容的全貌。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="这个描述很符合我的感受。我对自己......很陌生。;我甚至不确定你的这种比喻是否准确，我......不知道。", values="1;2")]
+[Decision(options="这个描述很符合我的感受。我对自己……很陌生。;我甚至不确定你的这种比喻是否准确，我……不知道。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 听起来真是一言难尽啊，朋友。
@@ -582,7 +582,7 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 顺带一说，小兔子醒了。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 博士......早上好。
+[name="阿米娅"] 博士……早上好。
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
 [Decision(options="早上好，阿米娅。 ", values="1")]
@@ -607,17 +607,17 @@
 [name="阿米娅"] 博士，你还好吗？
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
-[Decision(options="......我还好。 ", values="1")]
+[Decision(options="……我还好。 ", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#3")]
 [name="阿米娅"] 我记得那个时候，也是这样，我们在荒地上度过第一个夜晚，像这样看着太阳从地平线上升起来。
 [Character(name="char_002_amiya_1#3")]
-[name="阿米娅"] 那个时候你还问过我很多奇怪的问题......
+[name="阿米娅"] 那个时候你还问过我很多奇怪的问题……
 [Character(name="char_002_amiya_1#10")]
-[name="阿米娅"] 哈哈......明明是几年前的事情了，但是好像一切都才发生过。
+[name="阿米娅"] 哈哈……明明是几年前的事情了，但是好像一切都才发生过。
 [dialog]
 [Character(name="char_002_amiya_1#10",focus=-1)]
-[Decision(options="......对不起，阿米娅......我...... ", values="1")]
+[Decision(options="……对不起，阿米娅……我…… ", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#3")]
 [name="阿米娅"] 没有关系，博士。
@@ -649,18 +649,18 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 左数第三辆车就是这边的信使联络站了，你们可以在那边想办法联络你们的人，这边的信使收费还算划算。
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"] 可是......那边的屋子上面好像印着约翰老妈的标记，真的没有问题吗？
+[name="阿米娅"] 可是……那边的屋子上面好像印着约翰老妈的标记，真的没有问题吗？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 只要你们低调一点别惹麻烦，就不会有问题，这里可是信使站点，就算在哥伦比亚，也很少有企业会主动得罪信使。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 博士......你在这里等我一会儿，我没有你那么显眼，我去和信使联络站说。
+[name="阿米娅"] 博士……你在这里等我一会儿，我没有你那么显眼，我去和信使联络站说。
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 坎诺特先生，能再麻烦您陪一会儿博士吗？我马上回来。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 放心吧，小兔子，我很擅长从好奇目光里把人藏起来，不会有什么问题的。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 放轻松，朋友，看到那边的武装车辆了么，看到那几门反装甲弩炮了么？相信我，这里非常安全。
@@ -670,7 +670,7 @@
 [name="坎诺特"] 这是本地一家小作坊的特产，尝尝看。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="这是......啤酒？", values="1")]
+[Decision(options="这是……啤酒？", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 是，据说这座小酒庄的老板是一个感染者，没想到吧？即便是在哥伦比亚的拓荒者里，能做到这一步的人都很少。
@@ -687,10 +687,10 @@
 [dialog]
 [character]
 [MusicVolume(volume=0.2, fadetime=1)]
-[name="广播新闻"] ......发生在提卡伦多北区的武装冲突已经逐步平息，警方在现场发现了大量运用弩械交战的痕迹，但是没有抓到犯罪嫌疑人......
-[name="广播新闻"] 提卡伦多警方公布，此次冲突的其中一方为外国企业“罗德岛”的成员，本台尚不掌握该组织的具体情况......
-[name="广播新闻"] ......有消息人士指出，该外国企业与本地企业有一定的商业矛盾，但本地相关企业发言人拒绝就此发表评论。
-[name="广播新闻"] 警方认为，这可能是一场针对提卡伦多的恐怖袭击，有关此次武装冲突的具体细节还需要等待进一步调查......
+[name="广播新闻"] ……发生在提卡伦多北区的武装冲突已经逐步平息，警方在现场发现了大量运用弩械交战的痕迹，但是没有抓到犯罪嫌疑人……
+[name="广播新闻"] 提卡伦多警方公布，此次冲突的其中一方为外国企业“罗德岛”的成员，本台尚不掌握该组织的具体情况……
+[name="广播新闻"] ……有消息人士指出，该外国企业与本地企业有一定的商业矛盾，但本地相关企业发言人拒绝就此发表评论。
+[name="广播新闻"] 警方认为，这可能是一场针对提卡伦多的恐怖袭击，有关此次武装冲突的具体细节还需要等待进一步调查……
 [MusicVolume(volume=0.4, fadetime=1)]
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 博士。
@@ -699,14 +699,14 @@
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 信使联络站的人下午两点才上班，还得等一会儿。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 刚才的新闻......
+[name="阿米娅"] 刚才的新闻……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 听起来你们的人都成功撤出来了，这是好事啊。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 不过约翰老妈的人多半拿到了他们想要的东西。非常遗憾。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="我们是受害者，现在反倒变成被警察调查的对象了。;......;在阴谋风格方面，这里和卡西米尔还挺接近的。", values="1;2;3")]
+[Decision(options="我们是受害者，现在反倒变成被警察调查的对象了。;……;在阴谋风格方面，这里和卡西米尔还挺接近的。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 哈，这在哥伦比亚也算是常规操作，这群人动作很快，提前把屁股擦得非常干净。
@@ -719,7 +719,7 @@
 [Decision(options="但是，他们抢走一批半成品的镇痛剂样品，到底意义何在？;在此之前，万事通先生，你能为我解答他们大费周章的原因吗？", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 好吧......看来你是不再犹豫了。
+[name="坎诺特"] 好吧……看来你是不再犹豫了。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 你了解哥伦比亚的企业么，我的朋友？以前你和他们打过多少交道？
 [Character(name="char_002_amiya_1#1")]
@@ -740,18 +740,18 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [name="企业工作人员"] 下一位！
-[name="感染者"] 你......您好，请给我这个月的药。
-[name="企业工作人员"] 好的，让我看看......
+[name="感染者"] 你……您好，请给我这个月的药。
+[name="企业工作人员"] 好的，让我看看……
 [name="企业工作人员"] 戴夫先生是吧，啊，我看到您提交的申请了，您这个月的工作完成得非常好，这是您这个月的药物配给。
-[name="感染者戴夫"] 谢谢您......谢谢您......
-[name="感染者戴夫"] 那个，我能不能......预支下个月的药物补给？我太太的病情最近加重了，我需要......
+[name="感染者戴夫"] 谢谢您……谢谢您……
+[name="感染者戴夫"] 那个，我能不能……预支下个月的药物补给？我太太的病情最近加重了，我需要……
 [name="企业工作人员"] 戴夫先生，依据公司的管理规定，我们无法为您预支药物配给，希望您能理解。
 [name="企业工作人员"] 但是您知道的，我们始终有准备额外的药品进行市售，您可以直接在隔壁点位购买更多的矿石病抑制药。
-[name="感染者戴夫"] 可、可是......
+[name="感染者戴夫"] 可、可是……
 [name="企业工作人员"] 戴夫先生，企业规定，希望您能理解。
 [name="企业工作人员"] 下一位！
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 这......这是什么地方？
+[name="阿米娅"] 这……这是什么地方？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 嘘，小声一点，这里是约翰老妈的边境拓荒队办事处，你们别太暴露了。
 [Character(name="char_002_amiya_1#1")]
@@ -766,7 +766,7 @@
 [name="坎诺特"] 给，拿着。
 [Dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="固体液体分别包装，各占一半，这是他们发的药？;......;这......这根本就是......", values="1;2;3")]
+[Decision(options="固体液体分别包装，各占一半，这是他们发的药？;……;这……这根本就是……", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 这就是他们发给感染者的药，你是专家，应该不需要我来解释。
@@ -775,7 +775,7 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 当然不是，你比我清楚，这一半是止疼剂，另一半是营养液。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] ......为什么？
+[name="阿米娅"] ……为什么？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 不为什么，你不明白么？他们不需要卖真的抑制剂。
 [Character(name="avg_npc_208")]
@@ -785,16 +785,16 @@
 [name="坎诺特"] “抑制剂”在大地上原本就是个新概念，他们自然不会知情。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="......既然他们能造镇痛剂，也不需要真实的抑制剂。", values="1")]
+[Decision(options="……既然他们能造镇痛剂，也不需要真实的抑制剂。", values="1")]
 [Predicate(references="1")]
 [Decision(options="为什么还要觊觎罗德岛的技术？", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 哈哈哈哈......这个故事讲起来就更有趣了。
+[name="坎诺特"] 哈哈哈哈……这个故事讲起来就更有趣了。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 你知道么，约翰老妈在做大之前，只是个卖甜甜圈的连锁店，他们怎么可能掌握药物的生产技术。
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 他们所有的医药生产线全是从其他公司那采购来的，沙滩伞、塔山科技、莱茵生命......
+[name="坎诺特"] 他们所有的医药生产线全是从其他公司那采购来的，沙滩伞、塔山科技、莱茵生命……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 现在他们把镇痛剂当抑制药卖，赚这么多钱，你觉得其他医药公司能接受这件事吗？
 [Character(name="avg_npc_208")]
@@ -805,7 +805,7 @@
 [name="坎诺特"] 药效更好，镇痛作用更强，更多的人会相信这就是“矿石病抑制药”。
 [Character(name="char_002_amiya_1#7")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="阿米娅"] 这怎么可以！罗德岛的那批样品根本不是矿石病抑制剂，那些样品还没经过安全测试，可能有大量的副作用，我们还没有......
+[name="阿米娅"] 这怎么可以！罗德岛的那批样品根本不是矿石病抑制剂，那些样品还没经过安全测试，可能有大量的副作用，我们还没有……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 我来告诉你接下来会发生什么。
 [Character(name="avg_npc_208")]
@@ -837,7 +837,7 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 什么都不会改变，一切都是如此的合理，人们怀揣希望来到哥伦比亚，在希望中创造价值，在希望中死去。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"] 可是我们不能看着他们利用罗德岛去......
+[name="阿米娅"] 可是我们不能看着他们利用罗德岛去……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 你看，这就非常现实了。
 [Character(name="avg_npc_208")]
@@ -848,10 +848,10 @@
 [name="坎诺特"] 你们还是早点联系自己人，想办法回去吧。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="你说得对，坎诺特先生。;......;......我不想承认，但似乎，事实就在眼前。", values="1;2;3")]
+[Decision(options="你说得对，坎诺特先生。;……;……我不想承认，但似乎，事实就在眼前。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"] 博士......
+[name="阿米娅"] 博士……
 [dialog]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 我知道，怀揣希望是一件非常残酷的事情。
@@ -877,7 +877,7 @@
 [Decision(options="放弃了希望，我们经历的一切又有什么意义？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#6")]
-[name="阿米娅"] 博士......！
+[name="阿米娅"] 博士……！
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 喔！振奋人心的发言，朋友。
 [Character(name="avg_npc_208")]
@@ -930,7 +930,7 @@
 [Decision(options="怎么样了，阿米娅。", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 下次不要这样了！我真的......真的很担心你！
+[name="阿米娅"] 下次不要这样了！我真的……真的很担心你！
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 这一套把戏玩得可真好，我的朋友，很高明。
 [Character(name="avg_npc_208")]
@@ -939,12 +939,12 @@
 [name="坎诺特"] 不过我现在稍微有点害怕你了，我的朋友。
 [dialog]
 [Character(name="avg_npc_208",focus=-1)]
-[Decision(options="我当您是夸我了。;......没有大碍。;不瞒您说，醒来见到一个铁脑袋，我也挺害怕的。", values="1;2;3")]
+[Decision(options="我当您是夸我了。;……没有大碍。;不瞒您说，醒来见到一个铁脑袋，我也挺害怕的。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 我......我还是没有理解......发生了什么。
+[name="阿米娅"] 我……我还是没有理解……发生了什么。
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 简单说......我们这位聪明朋友主动向哥伦比亚边关管理局自首，说自己所属的企业向哥伦比亚走私了一批矿石病相关药物制品。
+[name="坎诺特"] 简单说……我们这位聪明朋友主动向哥伦比亚边关管理局自首，说自己所属的企业向哥伦比亚走私了一批矿石病相关药物制品。
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 如果你对哥伦比亚的法律有了解，就应该知道矿石病相关的药物是管理最为严格的医疗产品。
 [name="坎诺特"] 当年游说推行这条法律的企业为了垄断整个哥伦比亚的药物市场可是花了不少功夫。
@@ -953,7 +953,7 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 按照惯例，管理局的安全部队很快就会到场，扣押这场走私制品交易的所有物件。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 可是我们与他们的商务合作有完整的合同与申请报告，很容易查到......
+[name="阿米娅"] 可是我们与他们的商务合作有完整的合同与申请报告，很容易查到……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 哈哈哈哈，这就是重点。
 [Character(name="avg_npc_208")]
@@ -961,13 +961,13 @@
 [name="坎诺特"] 那么是什么样的情况才会让一个公司不留下任何交易的证据呢？
 [name="坎诺特"] 当然是见不得人的生意了。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 所以是哥伦比亚政府扣押了所有的样品......
+[name="阿米娅"] 所以是哥伦比亚政府扣押了所有的样品……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 按照法律，他们会销毁这些走私品，然后呢？就没有然后了。约翰老妈在这附近手眼遮天，但如果把范围扩大到整个哥伦比亚呢？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 哥伦比亚烟酒施术单元以及源石制品管理局，这名字真拗口，它们有的是能耐。它们虎视眈眈。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 我明白了......但这样一来，罗德岛岂不是变成了一家有案底的公司？
+[name="阿米娅"] 我明白了……但这样一来，罗德岛岂不是变成了一家有案底的公司？
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 哈哈哈，这里可是哥伦比亚，没有哪家公司的屁股能这么干净。
 [Character(name="avg_npc_208")]
@@ -977,18 +977,18 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 当然，你的博士还是在管理局的拘留室里待上了三天，这也算是代价了。
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 我很难评价这件事，博士......
+[name="阿米娅"] 我很难评价这件事，博士……
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 凯尔希医生会生气的。
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
-[Decision(options="她确实会生气，但按我对她的了解......;其实真要说，这些手段还是我向她学的。", values="1;2")]
+[Decision(options="她确实会生气，但按我对她的了解……;其实真要说，这些手段还是我向她学的。", values="1;2")]
 [Predicate(references="1;2")]
 [character]
 [playsound(key="$d_gen_walk_n")]
 [character(name="char_017_homura_3#10",fadetime=1.5)]
 [delay(time=2)]
-[name="煌"] 我可不敢当着凯尔希医生的面说这种话......
+[name="煌"] 我可不敢当着凯尔希医生的面说这种话……
 [dialog]
 [character(name="char_017_homura_3#10",focus=-1)]
 [Decision(options="啊，煌你们都在。", values="1")]
@@ -997,13 +997,13 @@
 大个子菲林干员正在一脸无奈地看着你。
 [dialog]
 [Character(name="char_017_homura_3#10")]
-[name="煌"] 博士，你这次闹得可真大......
-[name="煌"] 罚款金、额外赔付、拘留、哥伦比亚政府参与其中的不正当商业行为调查......
-[name="煌"] 虽然我也没搞懂你最后到底是怎么解决这件事的，我差一点都要直接联络凯尔希医生了......
+[name="煌"] 博士，你这次闹得可真大……
+[name="煌"] 罚款金、额外赔付、拘留、哥伦比亚政府参与其中的不正当商业行为调查……
+[name="煌"] 虽然我也没搞懂你最后到底是怎么解决这件事的，我差一点都要直接联络凯尔希医生了……
 [name="煌"] 你回去要怎么和凯尔希医生交代啊！
 [dialog]
 [Character(name="char_017_homura_3#10",focus=-1)]
-[Decision(options="办法......办法总会有的。;......;呃，求饶。", values="1;2;3")]
+[Decision(options="办法……办法总会有的。;……;呃，求饶。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 博士！下次请不要再这样冒险了，我们明明可以联络本舰等待支援的！
@@ -1011,17 +1011,17 @@
 [name="阿米娅"] 而且罗德岛遇到这种情况时其实有一套完整的应急方案。
 [dialog]
 [Character(name="char_002_amiya_1#1",focus=-1)]
-[Decision(options="......至少这趟荒地旅行挺开心的，不是么？", values="1")]
+[Decision(options="……至少这趟荒地旅行挺开心的，不是么？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#3")]
-[name="阿米娅"] 开心......是有一点......
+[name="阿米娅"] 开心……是有一点……
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"] 博士！不要岔开话题！
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"] 回去之后可要给凯尔希医生说实话，文书报告的部分我会帮你的。
 [dialog]
 [Character(name="char_002_amiya_1#7",focus=-1)]
-[Decision(options="......好。;......麻烦了。", values="1;2")]
+[Decision(options="……好。;……麻烦了。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 那么是时候道别了，我的朋友。
@@ -1036,7 +1036,7 @@
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 在那之前，祝你身体健康，我们后会有期。
 [Character(name="char_017_homura_3#5")]
-[name="煌"] 这人是谁啊......怎么感觉总是阴阳怪气的。
+[name="煌"] 这人是谁啊……怎么感觉总是阴阳怪气的。
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 博士？
 [dialog]
@@ -1044,7 +1044,7 @@
 [Decision(options="嗯？", values="1")]
 [Predicate(references="1")]
 [Character(name="char_002_amiya_1#1")]
-[name="阿米娅"] 有个问题我一直想问你......
+[name="阿米娅"] 有个问题我一直想问你……
 [Character(name="char_002_amiya_1#1")]
 [name="阿米娅"] 那个时候你说需要让坎诺特先生帮你一个小忙，具体是什么呢？
 [dialog]
@@ -1082,7 +1082,7 @@
 [Decision(options="坎诺特先生，我希望至少现在我们能坦诚一点。;这一路上，其实一直有人在暗处跟着我们，对吧？;如你所说，我们运气很好，但真的只是运气好么？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_208")]
-[name="坎诺特"] ......
+[name="坎诺特"] ……
 [Character(name="avg_npc_208",focus=-1)]
 你看到这个古怪的男人沉默了，你无法判断他在那厚重诡异的桶形头盔下的表情。但是这种沉默并不代表着愤怒与不满，你能感受到。
 [dialog]
@@ -1105,7 +1105,7 @@
 [Decision(options="你觉得这个交易如何？", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_208")]
-[name="坎诺特"] 哈哈哈......
+[name="坎诺特"] 哈哈哈……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 非常完美，朋友，成交。
 [dialog]
@@ -1123,7 +1123,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_208")]
-[name="坎诺特"] ......
+[name="坎诺特"] ……
 [Character(name="avg_npc_208")]
 [name="坎诺特"] 好了，你们可以出来了。
 [dialog]

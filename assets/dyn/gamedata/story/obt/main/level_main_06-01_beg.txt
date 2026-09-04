@@ -7,7 +7,7 @@
 埃里克勋爵与匹斯堡议会大学李尔兰·D教授于城邦史标准论刊（《我们从哪里来？》，44期）发表了合著论文。
 论文声称，据多具已风化遗骸的鉴定结果。
 萨尔贡四号填埋窟的考察已得出关键性结论，即感染者的隔离和处决无疑与实在法同源。
-......
+……
 综上所述，感染者受难的历史，自法律出现的时候就已经开始了。
 [Dialog]
 [Delay(time=2)]
@@ -70,8 +70,8 @@
 [Background(image="bg_uptown_2", width=1, height=1,screenadapt="coverall")]
 [PlayMusic(intro="$escape_intro", key="$escape_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Blocker(a=0, fadetime=1, block=true)]
-“......请各位市民注意......正在进行疏散演习......”
-“......没有随行动指示进行避难的市民，请锁紧门窗，拉好窗帘，不要随意走出家门......”
+“……请各位市民注意……正在进行疏散演习……”
+“……没有随行动指示进行避难的市民，请锁紧门窗，拉好窗帘，不要随意走出家门……”
 [name="？？？"]  吵死了。
 [name="？？？"]  把那个无人机射下来！
 [Dialog]
@@ -93,36 +93,36 @@
 [Character(name="avg_npc_016")]
 [name="幻影弩手"]  侦查小队三号也没消息了！
 [Character(name="char_1002_nsabr_1")]
-[name="整合运动成员"]  突，突击手的信号都消失了......
+[name="整合运动成员"]  突，突击手的信号都消失了……
 [name="整合运动成员"]  外围保障小队的联络通道在一个接一个地断线！
 [Character(name="char_1507_Mephisto_1#3")]
 [name="梅菲斯特"]  可恨，可恶！
-[name="梅菲斯特"]  这种侮辱......这是对整合运动的羞辱！
+[name="梅菲斯特"]  这种侮辱……这是对整合运动的羞辱！
 [name="梅菲斯特"]  怎么会这样，怎么会这样？该死的龙门，该死的龙门人！该死的非感染者！
 [Character(name="char_1508_Faust_1#1",name2="avg_npc_016",focus=2)]
 [name="幻影弩手"]  （我从没见过他这样，他似乎很不安。）
 [name="幻影弩手"]  （浮士德，我们还有机会撤离吗？）
 [Character(name="char_1508_Faust_1#1",name2="avg_npc_016",focus=1)]
-[name="浮士德"] ......
+[name="浮士德"] ……
 [name="浮士德"]  （我给你们创造空间。）
 [name="浮士德"]  （如果对手只有普通警力和龙门近卫局，以及罗德岛，我们一定能安全撤退。）
 [Character(name="char_1508_Faust_1#1",name2="avg_npc_016",focus=2)]
 [name="幻影弩手"]  （什么意思？你是说，除了这些还有别的？）
 [Character]
-[name="梅菲斯特"]  烦死了......烦死了！根本说不通！！
+[name="梅菲斯特"]  烦死了……烦死了！根本说不通！！
 [name="梅菲斯特"]  跟不上我指挥的队伍，我要怎么样才能赢？
 [Character(name="char_1508_Faust_1#1",name2="avg_npc_016",focus=1)]
 [name="浮士德"]  （有人在监视我们。这座城市里有其它东西。）
 [name="浮士德"]  （做好准备，为了生存。）
 [Character(name="char_1508_Faust_1#1",name2="avg_npc_016",focus=2)]
 [name="幻影弩手"]  （明白。）
-[name="幻影弩手"]  （......浮士德。）
+[name="幻影弩手"]  （……浮士德。）
 [Character(name="char_1508_Faust_1#1",name2="avg_npc_016",focus=1)]
 [name="浮士德"]  （嗯？）
 [Character(name="char_1508_Faust_1#1",name2="avg_npc_016",focus=2)]
 [name="幻影弩手"]  （我们相信你。）
 [Character(name="char_1508_Faust_1#1")]
-[name="浮士德"]  （......）
+[name="浮士德"]  （……）
 [Dialog]
 [stopmusic(fadetime=3)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
@@ -141,7 +141,7 @@
 [Delay(time=0.6)]
 [name="煌"]  这种事情居然也要感染者去做？罗德岛这回还真是接了个恶毒的活。
 [name="煌"]  龙门。哼，龙门，这么大的城市怎么可能没有自己对抗入侵势力的手段？
-[name="煌"]  让感染者协助普通人对抗感染者......
+[name="煌"]  让感染者协助普通人对抗感染者……
 [name="煌"]  算了，反正也不是第一次了。
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
@@ -172,10 +172,10 @@
 [Character(name="char_017_homura_3#4",fadetime=1,block=true)]
 [delay(time=2)]
 [Character(name="char_1002_nsabr_1")]
-[name="整合运动成员"]  什么......什么人！从天上掉下来了？！
-[name="整合运动成员"]  退后，都退后！她可能......她可能会飞行！
+[name="整合运动成员"]  什么……什么人！从天上掉下来了？！
+[name="整合运动成员"]  退后，都退后！她可能……她可能会飞行！
 [Character(name="char_017_homura_3#7")]
-[name="煌"]  ......这个真不会！
+[name="煌"]  ……这个真不会！
 [Character(name="char_015_lmg")]
 [name="警员"]  识别码！
 [Character(name="char_017_homura_3#4",name2="char_015_lmg",focus=1)]
@@ -200,7 +200,7 @@
 [name="煌"]  不管各位是抱着什么样的心态入侵他国城邦，我们都只以解除各位的武装为首要目的。
 [name="煌"]  不论各位对他人人身造成的伤害、损失以及事后的刑罚，至少，各位现在的抵抗没有任何意义。放下武器，你们还有机会。
 [Character(name="char_1002_nsabr_1")]
-[name="整合运动成员"]  啊？什么？你......
+[name="整合运动成员"]  啊？什么？你……
 [Character(name="char_017_homura_3#4")]
 [name="煌"]  同是感染者，给你们一条路选吧。
 [name="煌"]  立刻投降的话，我有资格抓你们去罗德岛，然后丢去个对感染者还算宽容的地方。
@@ -229,10 +229,10 @@
 [name="煌"]  要么这样吧，我不用电锯。
 [Character(name="char_017_homura_3#4")]
 [name="煌"]  抱歉，真不想对同胞动手的。
-[name="煌"]  ......龙门的天气好潮湿啊。
+[name="煌"]  ……龙门的天气好潮湿啊。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
-[name="整合运动成员"]  这只傻猫......在施术！她的身上在冒热气！
+[name="整合运动成员"]  这只傻猫……在施术！她的身上在冒热气！
 [Image(image="avg_6_6",x=0, y=0, xScale=1, yScale=1, fadetime=0)]
 [Blocker(a=0, fadetime=1.5, block=false)]
 [Character]

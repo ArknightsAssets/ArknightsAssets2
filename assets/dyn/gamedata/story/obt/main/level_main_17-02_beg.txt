@@ -15,12 +15,12 @@
 [delay(time=1.2)]
 [PlaySound(key="$d_avg_carriagebell",volume=1)]
 [delay(time=1)]
-[Decision(options="嘶......呼......;......好冷......", values="1;2")]
+[Decision(options="嘶……呼……;……好冷……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#16$1", duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_1037_amiya3_1#16$1",focus="m")]
-[name="阿米娅"]博士，你还是觉得冷吗......唉，我应该记得提醒你多添点衣服的。
+[name="阿米娅"]博士，你还是觉得冷吗……唉，我应该记得提醒你多添点衣服的。
 [Dialog]
 [charslot]
 阿米娅用力握住了你的指尖，尽管你能清楚地感受到，她的掌心也是冰凉的。
@@ -34,12 +34,12 @@
 [name="阿洛伊泽"]恰恰相反。陛下听说了罗德岛在远北矿区的事迹后，对罗德岛的勇气大加赞赏，非常想见见你们。
 [name="阿洛伊泽"]尤其在他听说了，罗德岛的领袖只是一个年纪轻轻的女孩之后。
 [charslot(slot="m",name="avg_1037_amiya3_1#16$1",focus="m")]
-[name="阿米娅"]不......实际上，我没有做到太多事......
+[name="阿米娅"]不……实际上，我没有做到太多事……
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]现在不是自谦的时候，你应该珍惜这份不错的初印象——这对接下来的会面很有帮助。
 [name="阿洛伊泽"]在见到陛下之前，有些关于圣骏堡的消息，有必要让你们知晓。
 [charslot(slot = "m", name = "avg_npc_1966_1#3$1", focus="m")]
-[name="阿洛伊泽"]首先......想必你们应该大概清楚，陛下召见你们的意图。
+[name="阿洛伊泽"]首先……想必你们应该大概清楚，陛下召见你们的意图。
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1966_1#3$1", focus="n")]
 [Decision(options="尽管那位陛下有仁慈之名——;他应该也不会无故允许我们接触对石棺的研究。", values="1;2")]
@@ -47,7 +47,7 @@
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
 [name="阿洛伊泽"]你们想要解开石棺更深层的秘密，乌萨斯同样如此。
 [name="阿洛伊泽"]所以我希望你们能够将这次接触，当作对双方而言都有利可言的合作。
-[multiline(name="阿洛伊泽")]你们应该也清楚，乌萨斯......
+[multiline(name="阿洛伊泽")]你们应该也清楚，乌萨斯……
 [charslot(slot = "m", name = "avg_npc_1966_1#3$1", focus="m")]
 [multiline(name="阿洛伊泽")]或者说圣骏堡，当下面临的最紧要的难题。
 [name="阿洛伊泽"]第四集团军的大军逼近圣骏堡已经两月有余，如今正与第二集团军在涅瓦湖东岸对峙，摩擦时有发生。
@@ -60,7 +60,7 @@
 [Decision(options="如果第四集团军的真实目的是对外开战——;他们此刻也应该在乌萨斯的国境线，而非圣骏堡城外。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
-[name="阿洛伊泽"]呵......任谁都知道这伙与盗匪无异的叛臣究竟想做什么。就目前来看，他们只是在想方设法对议会进行最低劣的攻击。
+[name="阿洛伊泽"]呵……任谁都知道这伙与盗匪无异的叛臣究竟想做什么。就目前来看，他们只是在想方设法对议会进行最低劣的攻击。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
 [name="阿洛伊泽"]在前段时间，第四集团军第一师溃败的次日，维特议长遭遇了一次刺杀。刺客的潜入方式和袭击手段与第四集团军有直接关联。
 [name="阿洛伊泽"]但奇怪的是，面临这样明显的挑衅，在场的内卫竟然没能将那刺客抓住或是击杀。
@@ -72,10 +72,10 @@
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]你说得对。在大部分人看来，摆在乌萨斯面前的无非是战争与和平两条路，可是两条路都不够有说服力，难以说服所有人。
 [charslot(slot = "m", name = "avg_npc_1966_1#3$1", focus="m")]
-[name="阿洛伊泽"]陛下依然怀着一丝希望......目前掌握在第一集团军手中的“石棺”。
+[name="阿洛伊泽"]陛下依然怀着一丝希望……目前掌握在第一集团军手中的“石棺”。
 [name="阿洛伊泽"]如果这项研究能够有所突破，或许真的能够解决乌萨斯的困局。荒唐的是，这看上去真的是乌萨斯最后一线希望了。
 [charslot(slot = "m", name = "avg_npc_1966_1#2$1", focus="m")]
-[name="阿洛伊泽"]可就算是这样......
+[name="阿洛伊泽"]可就算是这样……
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1966_1#2$1", focus="n")]
 [Decision(options="石棺的研究显然是不顺利的。;除了研究的进度之外，议会应该还面临着其他困难。", values="1;2")]
@@ -83,16 +83,16 @@
 [Decision(options="我们不是作为石棺研究的学者被邀请的。;我们是被议会，而非被第一集团军邀请的。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1966_1#2$1", focus="m")]
-[name="阿洛伊泽"]......你还是一贯地敏锐，Dr.{@nickname}。
+[name="阿洛伊泽"]……你还是一贯地敏锐，Dr.{@nickname}。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
 [name="阿洛伊泽"]不过我非常不建议你一会见到陛下的时候，把这份敏锐表现出来。
-[name="阿洛伊泽"]就现在的消息来看，第一集团军的确有所隐瞒......具体的情况，还是等陛下亲自告诉你吧。
+[name="阿洛伊泽"]就现在的消息来看，第一集团军的确有所隐瞒……具体的情况，还是等陛下亲自告诉你吧。
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="n")]
 [Decision(options="在你看来，那位陛下是什么样的人？", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
-[name="阿洛伊泽"]哈......哪怕是在这样私密的场合，你问我这样的问题，也会让人怀疑你心有不轨的。
+[name="阿洛伊泽"]哈……哪怕是在这样私密的场合，你问我这样的问题，也会让人怀疑你心有不轨的。
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="n")]
 [Decision(options="我只是想听听你的看法。;我只是想做好准备。", values="1;2")]
@@ -126,15 +126,15 @@
 [charslot(slot = "m", name = "avg_npc_2170_1#1$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot = "m", name = "avg_npc_2170_1#1$1", focus="m")]
-[name="警察"]......禁入......
+[name="警察"]……禁入……
 [name="警察"]前方禁入，都别围在这里了！
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2174_1#1$1", focus="m")]
-[name="担忧的市民"]老爷，瞧瞧我吧，我不是感染者！而且新的通行票——您瞧、您瞧！通行票，我们也是买了的，我们都是良好市民，可......
+[name="担忧的市民"]老爷，瞧瞧我吧，我不是感染者！而且新的通行票——您瞧、您瞧！通行票，我们也是买了的，我们都是良好市民，可……
 [name="担忧的市民"]可这些货物再不送进去，就要过期限了。到时候哪怕东西一点没坏，住在皇村里的那些老爷们也不会再要了，我们会赔得血本无归啊！
 [charslot(slot = "m", name = "avg_npc_2175_1#1$1", focus="m")]
-[name="哀愁的市民"]我们已经用不起暖气了，孩子却还卧病在床......老爷，求您行行好，就放我们过去吧——
+[name="哀愁的市民"]我们已经用不起暖气了，孩子却还卧病在床……老爷，求您行行好，就放我们过去吧——
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2170_1#1$1", posfrom="-150,0",posto="-150,0",focus="m")]
@@ -153,9 +153,9 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1", focus="m")]
-[name="阿洛伊泽"]......
+[name="阿洛伊泽"]……
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
-[name="阿米娅"]嗯？前面好像不能进......
+[name="阿米娅"]嗯？前面好像不能进……
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
 [name="阿洛伊泽"]你们先别离开载具，我去看看。
 [Dialog]
@@ -173,7 +173,7 @@
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2170_1#1$1", focus="m")]
-[name="警察"]......呃。
+[name="警察"]……呃。
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -200,7 +200,7 @@
 年轻的近卫军在对方面前展开了手中的纸卷。一个鲜红的印章盖在页面右下方。
 是皇帝的行政用章。
 [charslot(slot = "m", name = "avg_npc_2170_1#1$1", focus="m")]
-[name="警察"]这......
+[name="警察"]这……
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]我理解。如果这仍使你为难，那我们可以再等一小会儿。
 [charslot(slot = "m", name = "avg_npc_2170_1#1$1", focus="m")]
@@ -220,7 +220,7 @@
 [charslot(slot = "m", name = "avg_npc_1966_1#6$1", focus="m")]
 [name="阿洛伊泽"]记住了吗？
 [charslot(slot = "m", name = "avg_npc_2170_1#1$1", focus="m")]
-[name="警察"]......我记住了。
+[name="警察"]……我记住了。
 [name="警察"]请在此稍作等待，长官。
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1", focus="m")]
 [name="阿洛伊泽"]还有一件事。
@@ -242,7 +242,7 @@
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]通，当然通。但只是对于我们而言。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
-[name="阿洛伊泽"]珍惜机会......我们走吧。
+[name="阿洛伊泽"]珍惜机会……我们走吧。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -280,14 +280,14 @@
 [delay(time=3)]
 随着近侍离开的脚步声，你环视四周。
 这房间的陈设在一路走来所见的富丽风格当中，称得上是回归了简朴，但又无处不彰显着它主人特殊的身份。
-在白日里也要拉上的窗帘，毫不顾忌地点亮的数盏电灯，堆在推车上的齐整文书......以及桌角用黄金修补过的痕迹。
+在白日里也要拉上的窗帘，毫不顾忌地点亮的数盏电灯，堆在推车上的齐整文书……以及桌角用黄金修补过的痕迹。
 [Dialog]
 [Background(image="73_g14_prolocutoroffice",screenadapt="coverall",fadetime=1.5,block=true)]
 [delay(time=1)]
 [Decision(options="这个办公室应该挺经常被使用的。;你就直接这样带我们进来了？", values="1;2")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
-[name="阿洛伊泽"]......怎么看出来的？
+[name="阿洛伊泽"]……怎么看出来的？
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]为了安全起见，琥珀宫里还有很多相同陈设的房间，这大概也只是其中一个罢了。
 [name="阿洛伊泽"]最好不要乱猜。
@@ -307,7 +307,7 @@
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]我明白。
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
-[multiline(name="阿洛伊泽")]总之请拿出和上次一样的耐心吧。等陛下忙完......
+[multiline(name="阿洛伊泽")]总之请拿出和上次一样的耐心吧。等陛下忙完……
 [charslot(slot = "m", name = "avg_npc_1966_1#3$1", focus="m")]
 [multiline(name="阿洛伊泽")]那些让他焦头烂额的事情。
 [Dialog]
@@ -325,7 +325,7 @@
 [name="维特"]感谢你的服务，中尉。现在，让我单独和这两位客人谈谈吧。
 [name="维特"]对了，我已经见过你父亲了，他对连日忙碌的你表示担忧，希望如果你有空的话，还是回家看看吧。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
-[name="阿洛伊泽"]......谢谢您的关心，议长大人。
+[name="阿洛伊泽"]……谢谢您的关心，议长大人。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
 [name="阿洛伊泽"]那么，我先告辞了。
 [Dialog]
@@ -342,7 +342,7 @@
 [name="维特"]你好，远道而来的客人。感谢二位愿意抽出时间接受邀约。
 [Predicate(references="2")]
 [charslot(slot = "m", name = "avg_npc_1984_1#1$1", focus="m")]
-[name="维特"]嗯......看来我们都通过不同的方式了解过彼此。
+[name="维特"]嗯……看来我们都通过不同的方式了解过彼此。
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1984_1#2$1", focus="m")]
 [name="维特"]总之，请坐吧。
@@ -360,7 +360,7 @@
 [name="倨傲的军官"]尊敬的陛下，很荣幸今天由我来向您汇报，第一集团军关于“零号项目”的进度。
 [name="倨傲的军官"]元帅深知陛下如今正在为各种政务以及叛臣的动向忧虑不已，希望我今天带来的消息，可以拂去您心头的忧愁。
 [charslot(slot = "m", name = "avg_npc_2155_1#7$2", focus="m")]
-[name="费奥多尔"]......卜捷里娜元帅如今身在何处？
+[name="费奥多尔"]……卜捷里娜元帅如今身在何处？
 [charslot(slot = "m", name = "avg_npc_1977_1#1$1", focus="m")]
 [name="倨傲的军官"]正在驻地。
 [charslot(slot = "m", name = "avg_npc_2155_1#7$2", focus="m")]
@@ -383,8 +383,8 @@
 [charslot(slot = "m", name = "avg_npc_2169_1#1$1", focus="m")]
 [name="恼怒的近侍"]你！
 [charslot(slot = "m", name = "avg_npc_2155_1#1$2", focus="m")]
-[name="费奥多尔"]罢了......先继续吧，上尉。
-[name="费奥多尔"]我必须要说，圣骏堡为了零号项目已经投入了太多的资源，如果我仍然看不到任何有效的进展......
+[name="费奥多尔"]罢了……先继续吧，上尉。
+[name="费奥多尔"]我必须要说，圣骏堡为了零号项目已经投入了太多的资源，如果我仍然看不到任何有效的进展……
 [charslot(slot = "m", name = "avg_npc_2155_1#2$2", focus="m")]
 [name="费奥多尔"]我就要进行必要的问责了。
 [charslot(slot = "m", name = "avg_npc_1977_1#1$1", focus="m")]
@@ -409,7 +409,7 @@
 [charslot]
 你拉了拉阿米娅的衣角。
 [charslot(slot = "m", name = "avg_npc_1984_1#1$1", focus="m")]
-[name="维特"]......感染者，卡特斯，罗德岛的领导者。
+[name="维特"]……感染者，卡特斯，罗德岛的领导者。
 [charslot(slot = "m", name = "avg_npc_1984_1#2$1", focus="m")]
 [name="维特"]阿米娅小姐，对吧？
 [name="维特"]请不要误会，我并非在责问罗德岛的目的。
@@ -440,7 +440,7 @@
 [Decision(options="我们知道乌萨斯正在寻找凯尔希。", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_npc_1984_1#1$1", focus="m")]
-[multiline(name="维特")]“凯尔希”......
+[multiline(name="维特")]“凯尔希”……
 [charslot(slot = "m", name = "avg_npc_1984_1#3$1", focus="m")]
 [multiline(name="维特")]果然。也许我们的确应该抛弃那些繁文缛节。
 [Dialog]
@@ -471,7 +471,7 @@
 [name="维特"]看来你们也清楚，这是最快的方法。
 [name="维特"]说到这里，能否请二位告诉我，凯尔希，如今在何处？
 [charslot(slot="m",name="avg_1037_amiya3_1#7$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [charslot]
 [Decision(options="您为什么这样问？;您不相信中尉告诉您的消息。", values="1;2")]
@@ -487,7 +487,7 @@
 [name="维特"]我当然可以接受合作方保留一些自己的秘密，但前提是你们正面回答必要的疑问。
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
-[name="阿米娅"]凯尔希医生......她无法到场，议长阁下。
+[name="阿米娅"]凯尔希医生……她无法到场，议长阁下。
 [name="阿米娅"]而且，请原谅，但我们对这次合作同样怀有疑虑。
 [name="阿米娅"]我们也希望知道，乌萨斯如今对石棺的研究，是否会引发与切尔诺伯格一样的悲剧。
 [Dialog]
@@ -500,7 +500,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1977_1#1$1", focus="m")]
-[name="倨傲的军官"]......截至昨日，军情汇报如上。总的来说，第一集团军目前计划按兵不动，继续守卫西南地区。
+[name="倨傲的军官"]……截至昨日，军情汇报如上。总的来说，第一集团军目前计划按兵不动，继续守卫西南地区。
 [name="倨傲的军官"]为确认进度，我军已于数日前向中部荒野地区定点投放了利用零号项目能源驱动的炮弹样品。
 [name="倨傲的军官"]结果是，其对该地造成的毁灭性打击，立刻对第三集团军产生了威慑。
 [name="倨傲的军官"]毫不夸张地说，陛下，这武器将完全改变如今北线僵持的战局。
@@ -512,7 +512,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="恼怒的近侍"]那都是陛下的子民，和陛下的土地！
 [charslot(slot = "m", name = "avg_npc_2155_1#8$2", focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [charslot(slot = "m", name = "avg_npc_2155_1#2$2", focus="m")]
 [name="费奥多尔"]详细的报告呢？
 [charslot(slot = "m", name = "avg_npc_1977_1#1$1", focus="m")]
@@ -527,11 +527,11 @@
 费奥多尔反复审阅着这几页轻飘的纸张，任由时间在寂静中一分一秒地流逝。
 苦杏仁的气味始终萦绕在空旷的大殿之中。
 [charslot(slot = "m", name = "avg_npc_2169_1#1$1", focus="m")]
-[name="恼怒的近侍"]陛下......
+[name="恼怒的近侍"]陛下……
 [charslot(slot = "m", name = "avg_npc_2155_1#8$2", focus="m")]
 [name="费奥多尔"]（抬手示意）
 [charslot(slot = "m", name = "avg_npc_2155_1#1$2", focus="m")]
-[name="费奥多尔"]请转告你们的元帅，我对这份成果很满意。但对你们在报告中提出的要求——获取在切城散失的资料，和更多的能源支持......
+[name="费奥多尔"]请转告你们的元帅，我对这份成果很满意。但对你们在报告中提出的要求——获取在切城散失的资料，和更多的能源支持……
 [name="费奥多尔"]圣骏堡方面暂时无法提供。 
 [name="费奥多尔"]对于零号项目而言，研究如何稳定地获取石棺中的能源才是重中之重，这是未被切城研究所攻克的难题，也是乌萨斯如今最紧迫的需要。
 [charslot(slot = "m", name = "avg_npc_2155_1#7$2", focus="m")]
@@ -544,7 +544,7 @@
 [CameraShake(duration=0.4, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="恼怒的近侍"]放肆！！你怎敢这样同陛下讲话！
 [charslot(slot = "m", name = "avg_npc_2155_1#4$2", focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -554,7 +554,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
-[name="阿米娅"]我必须坦白，议长阁下。罗德岛的确拥有凯尔希医生对石棺的所有研究报告和相关资料......
+[name="阿米娅"]我必须坦白，议长阁下。罗德岛的确拥有凯尔希医生对石棺的所有研究报告和相关资料……
 [name="阿米娅"]但在展开合作之前，我们需要确保，罗德岛的安全可以得到保障。
 [Dialog]
 [charslot]
@@ -562,7 +562,7 @@
 [Predicate(references="1")]
 阿米娅侧头对你眨了眨眼。你意识到她有自己的安排，于是不再继续。
 [charslot(slot = "m", name = "avg_npc_1984_1#7$1", focus="m")]
-[name="维特"]这理应是一场公平的交换......当然。
+[name="维特"]这理应是一场公平的交换……当然。
 [charslot(slot = "m", name = "avg_npc_1984_1#1$1", focus="m")]
 [name="维特"]我为一个更加文明的乌萨斯，努力了许多年。至今都坚决地站在有着共同理想的陛下身旁，也是为了完成这个夙愿。
 [name="维特"]请你相信，我不会为了贪图一种简单的解决方式，就轻易放弃信条，放弃对自我的约束，尤其是当我们都有别的选择的时候。
@@ -577,7 +577,7 @@
 [charslot(slot = "m", name = "avg_npc_1984_1#4$1", focus="m")]
 [name="维特"]“借用”？
 [charslot(slot = "m", name = "avg_npc_1984_1#9$1", focus="m")]
-[name="维特"]到哪种程度？具体如何利用？又......为了什么？
+[name="维特"]到哪种程度？具体如何利用？又……为了什么？
 [Dialog]
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [PlaySound(key="$d_avg_pcket", volume=1)]
@@ -597,12 +597,12 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]它毕竟也属于凯尔希医生研究的一部分。
 [charslot(slot = "m", name = "avg_npc_1984_1#3$1", focus="m")]
-[name="维特"]......
+[name="维特"]……
 [Dialog]
 [PlaySound(key="$d_avg_paper2", volume=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1984_1#9$1", focus="m")]
-[name="维特"]所以......
+[name="维特"]所以……
 [name="维特"]你们所求，只是去寻找一个不知是否存在的解法。
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]也许它对其他人来说不重要，但至少对罗德岛来说，至关重要。
@@ -615,7 +615,7 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1",focus="m")]
 [name="阿米娅"]我们做好了准备。
 [charslot(slot = "m", name = "avg_npc_1984_1#7$1", focus="m")]
-[name="维特"]......
+[name="维特"]……
 [charslot(slot = "m", name = "avg_npc_1984_1#9$1", focus="m")]
 [name="维特"]说说吧，你们的准备是什么？
 [dialog]
@@ -639,21 +639,21 @@
 [Decision(options="阿米娅，你觉得呢？;Mon3tr你怎么看？;可露希尔你有什么主意？", values="1;2;3")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1037_amiya3_1#16$1",focus="m")]
-[name="阿米娅"]博士......如果是我来做决定的话，我不会希望石棺掌握在任何一个政权手中。
+[name="阿米娅"]博士……如果是我来做决定的话，我不会希望石棺掌握在任何一个政权手中。
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
-[name="阿米娅"]可是在乌萨斯源石正在枯竭的当下，还有许多人切实需要石棺带来的能源......
-[name="阿米娅"]我们也需要，石棺能带来的奇迹......
+[name="阿米娅"]可是在乌萨斯源石正在枯竭的当下，还有许多人切实需要石棺带来的能源……
+[name="阿米娅"]我们也需要，石棺能带来的奇迹……
 [Predicate(references="2")]
 [charslot(slot="m",name="avg_4179_monstr_1#1$1",focus="m")]
 [name="Mon3tr"]博士，说实话，我也不清楚。
 [charslot(slot="m",name="avg_4179_monstr_1#9$1",focus="m")]
 [name="Mon3tr"]我见证过发生在研究所的惨剧，没有人可以确保它不会再次发生。
-[name="Mon3tr"]但是，凯尔希当时选择对石棺进行封存，而非毁灭。她应该是还相信着......在某个适当的时候，石棺能为泰拉的人们所用。
+[name="Mon3tr"]但是，凯尔希当时选择对石棺进行封存，而非毁灭。她应该是还相信着……在某个适当的时候，石棺能为泰拉的人们所用。
 [Predicate(references="3")]
 [charslot(slot="m",name="avg_4228_closur_1#9$1",focus="m")]
 [name="可露希尔"]啊，问我的意见？
 [charslot(slot="m",name="avg_4228_closur_1#11$1",focus="m")]
-[name="可露希尔"]唔啊......和乌萨斯打交道真的很吓人啊。可是为了带回凯尔希，我们也必须冒一点险吧。
+[name="可露希尔"]唔啊……和乌萨斯打交道真的很吓人啊。可是为了带回凯尔希，我们也必须冒一点险吧。
 [charslot(slot="m",name="avg_4228_closur_1#4$1",focus="m")]
 [name="可露希尔"]也许，我可以再给这些资料上一道保险。我们可以先用资料达成和乌萨斯的合作条件，等到真的确定时机合适的时候，再给资料解锁呢？
 [Predicate(references="1;2;3")]
@@ -681,21 +681,21 @@
 [name="阿米娅"]作为交换的资料，会在我们提供的终端里分时间段开启，直到我们安全从泽尔格勒离开，才完全解锁。
 [name="阿米娅"]并且，罗德岛从泽尔格勒获悉的情报，也会与您共享。
 [charslot(slot = "m", name = "avg_npc_1984_1#4$1", focus="m")]
-[multiline(name="维特")]原来是这样......
+[multiline(name="维特")]原来是这样……
 [charslot(slot = "m", name = "avg_npc_1984_1#1$1", focus="m")]
 [multiline(name="维特")]你们的确早就准备好了。
 [name="维特"]而且听起来，你们也已经知道石棺如今的位置。
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]如果您同意交换，石棺的所在，应该本来也会包含在圣骏堡的许诺中？
-[name="阿米娅"]我们只是提前进行了一些调查......
+[name="阿米娅"]我们只是提前进行了一些调查……
 [charslot(slot = "m", name = "avg_npc_1984_1#3$1", focus="m")]
-[name="维特"]嗯......你们知道的很多，这的确省去了我解释的功夫。
+[name="维特"]嗯……你们知道的很多，这的确省去了我解释的功夫。
 [charslot(slot = "m", name = "avg_npc_1984_1#1$1", focus="m")]
 [name="维特"]可是你们掌握的情报也意味着不可控的风险，如果不是乌萨斯面临的情境格外紧迫，我不会考虑与你们合作。
 [name="维特"]罗德岛的客人，能否再回答我一个问题。
 [charslot(slot = "m", name = "avg_npc_1984_1#9$1", focus="m")]
 [name="维特"]凯尔希，这位神秘的学者，她不远万里来到乌萨斯，一手主导了石棺的研究与封闭。
-[name="维特"]她不是乌萨斯的臣民，也非乌萨斯的敌人......还有追随她走过的道路，来到这里的你们，名为罗德岛的医疗组织。
+[name="维特"]她不是乌萨斯的臣民，也非乌萨斯的敌人……还有追随她走过的道路，来到这里的你们，名为罗德岛的医疗组织。
 [name="维特"]你们的目的，究竟是什么？
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]您愿意相信，只是我们口头给出的解释？
@@ -710,7 +710,7 @@
 [Decision(options="这片大地上依然有人愿意为不囿于国别的正义而战。;这片大地上依然有人想为所有人保留一个未来。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1984_1#2$1", focus="m")]
-[name="维特"]嗯，这的确是......动人的说辞。
+[name="维特"]嗯，这的确是……动人的说辞。
 [dialog]
 [charslot]
 [PlaySound(key="$doorknockquite", volume=1)]
@@ -732,9 +732,9 @@
 [charslot(duration=0.7)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1984_1#6$1", focus="m")]
-[name="维特"]......我明白了。
+[name="维特"]……我明白了。
 [charslot(slot = "m", name = "avg_npc_1984_1#2$1", focus="m")]
-[name="维特"]在很早之前，乌萨斯就注意到了罗德岛的名字，也做过不少调查......
+[name="维特"]在很早之前，乌萨斯就注意到了罗德岛的名字，也做过不少调查……
 [name="维特"]罗德岛的所作所为为自己争取到了这一次合作的机会。
 [name="维特"]我会先代陛下写一张出入泽尔格勒的通行敕令，这是当下我唯一能为你们做的事情。
 [charslot(slot="m",name="avg_1037_amiya3_1#8$1",focus="m")]
@@ -755,7 +755,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2155_1#7$2", focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [Dialog]
 [charslot]
 费奥多尔沉默地再度看向手中的报告，已经忘记去控制自己喜怒不形于色。
@@ -763,7 +763,7 @@
 [charslot(slot = "m", name = "avg_npc_1982_1#1$1", focus="m")]
 [name="礼貌的近侍"]陛下，您在这里坐的时间很久了，要用点什么酒水吗？
 [charslot(slot = "m", name = "avg_npc_2155_1#4$2", focus="m")]
-[name="费奥多尔"]嗯......这里准备了什么酒？
+[name="费奥多尔"]嗯……这里准备了什么酒？
 [charslot(slot = "m", name = "avg_npc_1982_1#1$1", focus="m")]
 [name="礼貌的近侍"]塔曼的淡红酒。去年那里的葡萄品质不错。
 [charslot(slot = "m", name = "avg_npc_2155_1#2$2", focus="m")]
@@ -781,15 +781,15 @@
 [name="费奥多尔"]我这样说，并不是为了责备卜捷里娜元帅。对强大的追逐，几乎刻在了乌萨斯军人的骨血里。更何况这一成果的确对叛军造成了威慑。
 [name="费奥多尔"]但记得提醒卜捷里娜元帅，乌萨斯交给她的任务——强大的武力很必要，但仅靠强大的武力，帮不了饥寒交迫的子民。
 [charslot(slot = "m", name = "avg_npc_2155_1#1$2", focus="m")]
-[name="费奥多尔"]......我会维持对泽尔格勒的物资支持。
+[name="费奥多尔"]……我会维持对泽尔格勒的物资支持。
 [name="费奥多尔"]同样的，稍后我会命人从帝国能源科学研究院拨出几位院士，派往泽尔格勒，去协助你们开展零号项目在能源方向上的研究。
 [name="费奥多尔"]希望你们能尽快取得类似的进展。
 [charslot(slot = "m", name = "avg_npc_1977_1#1$1", focus="m")]
-[name="倨傲的军官"]......
+[name="倨傲的军官"]……
 [charslot(slot = "m", name = "avg_npc_2169_1#1$1", focus="m")]
 [name="恼怒的近侍"]哼。如今你的沉默又是因为什么呢？难道是对陛下心怀怨愤吗？
 [charslot(slot = "m", name = "avg_npc_1977_1#1$1", focus="m")]
-[name="倨傲的军官"]......第一集团军不会辜负您的信任。
+[name="倨傲的军官"]……第一集团军不会辜负您的信任。
 [charslot(slot = "m", name = "avg_npc_2155_1#4$2", focus="m")]
 [name="费奥多尔"]当然。
 [Dialog]
@@ -801,7 +801,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2155_1#4$2", focus="m")]
-[name="费奥多尔"]......
+[name="费奥多尔"]……
 [charslot(slot = "m", name = "avg_npc_2169_1#1$1", focus="m")]
 [name="恼怒的近侍"]陛下。
 [charslot(slot = "m", name = "avg_npc_2155_1#1$2", focus="m")]
@@ -810,7 +810,7 @@
 [name="恼怒的近侍"]也许已经结束了，他传来了消息，说明他那边已经得出了结果。
 [charslot(slot = "m", name = "avg_npc_2155_1#2$2", focus="m")]
 [PlaySound(key="$d_avg_chairrub", volume=1)]
-[name="费奥多尔"]事情很紧急，我应该尽快去见他，我必须......
+[name="费奥多尔"]事情很紧急，我应该尽快去见他，我必须……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement_heavy2", volume=0.8)]
 [CameraShake(duration=0.7, xstrength=10, ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -825,7 +825,7 @@
 [name="恼怒的近侍"]陛下，请恕我直言，我们还要这样忍耐多久？
 [Dialog]
 [charslot]
-[name="费奥多尔"]不......
+[name="费奥多尔"]不……
 [name="费奥多尔"]（低声）还没到时候。
 [charslot(slot = "m", name = "avg_npc_2169_1#1$1", focus="m")]
 [name="恼怒的近侍"]您说什么？
@@ -843,7 +843,7 @@
 [charslot(slot = "m", name = "avg_npc_2155_1#3$2", focus="m")]
 [name="费奥多尔"]算了。
 [charslot(slot = "m", name = "avg_npc_2155_1#1$2", focus="m")]
-[name="费奥多尔"]我记得还有人等在门外。是从......奥多耶夫区来的公民代表吗？先叫他们都进来吧，然后务必请他们不必拘束。
+[name="费奥多尔"]我记得还有人等在门外。是从……奥多耶夫区来的公民代表吗？先叫他们都进来吧，然后务必请他们不必拘束。
 [charslot(slot = "m", name = "avg_npc_2169_1#1$1", focus="m")]
 [name="恼怒的近侍"]也许您可以先歇息一会儿。他们都在外面，走廊里烧着暖气，多等一会儿也不会冻着的。
 [charslot(slot = "m", name = "avg_npc_2155_1#1$2", focus="m")]
@@ -861,7 +861,7 @@
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]哦，你们出来了。
-[name="阿洛伊泽"]和议长聊得如何？嗯......看你们的表情大概也能猜到了。
+[name="阿洛伊泽"]和议长聊得如何？嗯……看你们的表情大概也能猜到了。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_pcket", volume=1)]
@@ -877,9 +877,9 @@
 [charslot(slot = "l", name = "avg_4228_closur_1#1$1", posfrom="-150,0",posto="-150,0",duration=0.7)]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_4228_closur_1#1$1", focus="l")]
-[multiline(name="可露希尔")]我还从来没有见过乌萨斯的皇宫，也想来看看嘛......
+[multiline(name="可露希尔")]我还从来没有见过乌萨斯的皇宫，也想来看看嘛……
 [charslot(slot = "l", name = "avg_4228_closur_1#2$1", focus="l")]
-[multiline(name="可露希尔")]如果在这里放飞无人机的话，应该会被当作敌对行为吧......
+[multiline(name="可露希尔")]如果在这里放飞无人机的话，应该会被当作敌对行为吧……
 [Dialog]
 [charslot(slot = "m", name = "avg_4179_monstr_1#6$1", duration=0.7)]
 [delay(time=1)]
@@ -897,12 +897,12 @@
 [Decision(options="维特议长对我们没有敌意。;阿米娅表现得像是一位真正的外交家。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_1037_amiya3_1#16$1",focus="m")]
-[name="阿米娅"]博士......我刚才，还是很紧张的呀。
+[name="阿米娅"]博士……我刚才，还是很紧张的呀。
 [charslot(slot="m",name="avg_1037_amiya3_1#8$1",focus="m")]
 [name="阿米娅"]我们既然已经得到了许可，最好尽快动身了。
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]从个人意愿上我很乐意与你们同去，但不巧的是，我最近也有没法脱身的事。
-[name="阿洛伊泽"]只是姑且一提......你们离开后，还有足够的人手，留守圣骏堡的感染者收治中心吗？
+[name="阿洛伊泽"]只是姑且一提……你们离开后，还有足够的人手，留守圣骏堡的感染者收治中心吗？
 [Dialog]
 [charslot]
 [Decision(options="有人会威胁感染者矿工的安全？", values="1")]
@@ -910,7 +910,7 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]阿洛伊泽小姐，你承诺过在圣骏堡他们是安全的。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
-[name="阿洛伊泽"]从乌萨斯官方的立场上，他们的确是安全的。但就如我之前所说的......现在的圣骏堡，并不安宁。
+[name="阿洛伊泽"]从乌萨斯官方的立场上，他们的确是安全的。但就如我之前所说的……现在的圣骏堡，并不安宁。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
 [name="阿洛伊泽"]我会尽自己所能提供保障，但也建议你们，为可能发生的意外做好准备。
 [Dialog]
@@ -922,7 +922,7 @@
 [name="赫拉格"]有我在。
 [name="赫拉格"]我的身份不方便与博士一同前往泽尔格勒，为罗德岛的病人提供一份保障，自当效劳。
 [charslot(slot = "m", name = "avg_npc_1966_1#11$1", focus="m")]
-[multiline(name="阿洛伊泽")]啊......
+[multiline(name="阿洛伊泽")]啊……
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [multiline(name="阿洛伊泽")]我都忘了还有您，好，这下真是安心多了。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
@@ -940,9 +940,9 @@
 [Decision(options="这个人很危险？;这个人很强硬？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
-[name="阿洛伊泽"]如果你是在圣骏堡的上流圈子中询问他的风评，大概率得到的答案是......“疯癫”。
+[name="阿洛伊泽"]如果你是在圣骏堡的上流圈子中询问他的风评，大概率得到的答案是……“疯癫”。
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
-[name="阿洛伊泽"]从我听说的那些荒唐事迹来看，这个人绝不是合格的将领，甚至不是合格的军人......
+[name="阿洛伊泽"]从我听说的那些荒唐事迹来看，这个人绝不是合格的将领，甚至不是合格的军人……
 [name="阿洛伊泽"]但相应的，他的母亲，第一集团军的最高领袖卜捷里娜元帅，绝对是一位足够聪明的人。
 [name="阿洛伊泽"]她不可能不知道泽尔格勒的战略意义，此时此刻她做出这样的用人决定，很难让人相信只是为自己的孩子谋一份军功。
 [Dialog]
@@ -956,7 +956,7 @@
 [Decision(options="你说石棺是“麻烦”？;难道不是一种“希望”？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1966_1#20$1", focus="m")]
-[name="阿洛伊泽"]希望，麻烦......怎么不能“都是”呢。
+[name="阿洛伊泽"]希望，麻烦……怎么不能“都是”呢。
 [charslot(slot = "m", name = "avg_npc_1966_1#1$1", focus="m")]
 [name="阿洛伊泽"]作为一个局外人，也不能继续对种种风言道听途说了。
 [name="阿洛伊泽"]再一次，祝你们平安，博士。
@@ -982,7 +982,7 @@
 [charslot(slot = "m", name = "avg_npc_2246_1#8$1", duration=0.7)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2246_1#8$1", focus="m")]
-[name="希尔达"]......抱歉。
+[name="希尔达"]……抱歉。
 [charslot(slot = "m", name = "avg_npc_2235_1#1$1", focus="m")]
 [name="阿纳托利"]母亲让你来当我的保姆，是不是？
 [name="阿纳托利"]可瞧瞧你，一个孱弱的感染者。这决定难道不令人发笑吗？说不好，碰到危险的时候还需要我来保护你。
@@ -997,9 +997,9 @@
 [name="阿纳托利"]别管那些。我还有问题，你先回答我。
 [name="阿纳托利"]为什么这些石头没有从我的身体里和皮肤上消失，我却感受不到疼痛了？
 [charslot(slot = "m", name = "avg_npc_2235_1#4$1", focus="m")]
-[name="阿纳托利"]突然就不再疼了......这多奇怪呀。
+[name="阿纳托利"]突然就不再疼了……这多奇怪呀。
 [charslot(slot = "m", name = "avg_npc_2246_1#8$1", focus="m")]
-[name="希尔达"]因为我所做的，仅仅是抚去了痛苦，使我们免于总是忧虑死亡，从而消去对它的恐惧。人们起初会觉得恍惚，感觉这并非真实......
+[name="希尔达"]因为我所做的，仅仅是抚去了痛苦，使我们免于总是忧虑死亡，从而消去对它的恐惧。人们起初会觉得恍惚，感觉这并非真实……
 [charslot(slot = "m", name = "avg_npc_2235_1#9$1", focus="m")]
 [name="阿纳托利"]你把这样的赐福给了多少人？
 [charslot(slot = "m", name = "avg_npc_2246_1#1$1", focus="m")]
@@ -1009,7 +1009,7 @@
 [charslot(slot = "m", name = "avg_npc_2246_1#2$1", focus="m")]
 [name="希尔达"]也正是所有受苦的人。
 [charslot(slot = "m", name = "avg_npc_2235_1#6$1", focus="m")]
-[name="阿纳托利"]那难道所有人也都看到了吗？看到那金色的、无尽的河流......难道我其实并不特殊？
+[name="阿纳托利"]那难道所有人也都看到了吗？看到那金色的、无尽的河流……难道我其实并不特殊？
 [charslot(slot = "m", name = "avg_npc_2235_1#9$1", focus="m")]
 [name="阿纳托利"]你为什么要出现，宣称自己无法治愈矿石病却又消除了我的病痛？你让我看到的究竟是什么？
 [multiline(name="阿纳托利")]告诉我——
@@ -1022,20 +1022,20 @@
 少年突然转身，抓住希尔达瘦弱的肩膀。他捏得那样用力，仿佛只要如此就能从对方口中得到想要的答案。
 但希尔达并未立刻理解使他情绪陡然激动的缘由。
 [charslot(slot = "m", name = "avg_npc_2246_1#2$1", focus="m")]
-[name="希尔达"]您说......什么？
+[name="希尔达"]您说……什么？
 [charslot(slot = "m", name = "avg_npc_2235_1#6$1", focus="m")]
 [name="阿纳托利"]金色的、静止的河流！一望无际的河流，在你治愈我时，我看见的景象！
 [charslot(slot = "m", name = "avg_npc_2246_1#2$1", focus="m")]
 [name="希尔达"]您看见了——
 [charslot(slot = "m", name = "avg_npc_2235_1#4$1", focus="m")]
 [name="阿纳托利"]我只窥见了一眼，却是在一切肉体的疼痛从身上褪去的时刻，这一定意味着什么。
-[name="阿纳托利"]难道那就是你说的永恒之地吗？所有人都有资格前往那里吗？可如果是这样的话......
+[name="阿纳托利"]难道那就是你说的永恒之地吗？所有人都有资格前往那里吗？可如果是这样的话……
 [name="阿纳托利"]那所谓的永恒之地又和我们脚下这片大地有什么区别？
 [charslot(slot = "m", name = "avg_npc_2246_1#1$1", focus="m")]
 [name="希尔达"]我不确定您究竟看见了什么，但如果它使您感到平静，不再恐惧，不再怨恨，那也许，它就是属于您的永恒之地。
 [name="希尔达"]我很高兴您见到了它。
 [charslot(slot = "m", name = "avg_npc_2235_1#4$1", focus="m")]
-[name="阿纳托利"]......只是见过是不够的。
+[name="阿纳托利"]……只是见过是不够的。
 [charslot(slot = "m", name = "avg_npc_2235_1#9$1", focus="m")]
 [name="阿纳托利"]告诉我，我们要怎样才能抵达那里？
 [Dialog]
@@ -1046,9 +1046,9 @@
 [name="远处的声音"]——小将军——
 [name="远处的声音"]你们找到他了吗？
 [name="远处的声音"]该死，说是尽快启程，临了两个人都不见了——
-[name="远处的声音"]......好像在那边？你，过去看看。
+[name="远处的声音"]……好像在那边？你，过去看看。
 [charslot(slot = "m", name = "avg_npc_2235_1#5$1", focus="m")]
-[name="阿纳托利"]告诉我......
+[name="阿纳托利"]告诉我……
 [charslot(slot = "m", name = "avg_npc_2246_1#1$1", focus="m")]
 [name="希尔达"]好像有人在寻找我们。
 [name="希尔达"]让我们先启程吧，好吗？在路上，我会告诉您，关于您想知道的一切。
@@ -1066,7 +1066,7 @@
 [delay(time=2)]
 [name="殷勤的卫兵"]——这边就是集体住宅的内部，您的同伴大都也被安置在这里。虽然位于卫星城边缘，但相关设施都与城中是同样级别的完善。
 [name="殷勤的卫兵"]要不要进去看看？
-[name="希尔达"]当然。谢谢您为我指路......
+[name="希尔达"]当然。谢谢您为我指路……
 [Dialog]
 [PlaySound(key="$dooropenquite", volume=1)]
 [Background(image="73_g3_exurbroom",screenadapt="coverall", fadetime=1.5,block=true)]
@@ -1077,7 +1077,7 @@
 [charslot(slot = "m", name = "avg_npc_2246_1#3$1", focus="m")]
 [name="希尔达"]扎亚！所有人都在这里吗？
 [charslot(slot = "m", name = "avg_npc_2260_1#1$1", focus="m")]
-[name="友善的流民"]那些当兵的把我们赶进这栋楼里，还以为是什么地方，结果虽然看上去破破烂烂的，但却什么东西都有......
+[name="友善的流民"]那些当兵的把我们赶进这栋楼里，还以为是什么地方，结果虽然看上去破破烂烂的，但却什么东西都有……
 [name="友善的流民"]您别为我们担心！
 [charslot(slot = "m", name = "avg_npc_2246_1#1$1", focus="m")]
 [name="希尔达"]怎么可能不担心呢？
@@ -1099,7 +1099,7 @@
 [charslot(slot = "m", name = "avg_npc_2246_1#1$1", focus="m")]
 [name="希尔达"]也感谢您。
 [charslot(slot = "m", name = "avg_npc_2235_1#1$1", focus="m")]
-[name="阿纳托利"]......你根本不知道为什么需要感谢我，是不是？
+[name="阿纳托利"]……你根本不知道为什么需要感谢我，是不是？
 [charslot(slot = "m", name = "avg_npc_2246_1#1$1", focus="m")]
 [name="希尔达"]没有您的允许，我无法先来这里见这些同伴。
 [charslot(slot = "m", name = "avg_npc_2235_1#3$1", focus="m")]
@@ -1117,7 +1117,7 @@
 [charslot(slot = "r", name = "avg_npc_2246_1#9$1", focus="r")]
 [name="希尔达"]没错，永恒之地。就像在来的路上，我向您描绘的那样。
 [charslot(slot = "l", name = "avg_npc_2235_1#4$1", focus="l")]
-[name="阿纳托利"]“所有人都回归一致的安宁”......
+[name="阿纳托利"]“所有人都回归一致的安宁”……
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2260_1#1$1", focus="m")]
@@ -1130,9 +1130,9 @@
 [charslot(slot = "r", name = "avg_npc_2246_1#2$1", focus="r")]
 [name="希尔达"]他——
 [charslot(slot = "l", name = "avg_npc_2235_1#4$1", focus="l")]
-[name="阿纳托利"]......哼。
+[name="阿纳托利"]……哼。
 [charslot(slot = "r", name = "avg_npc_2246_1#1$1", focus="r")]
-[name="希尔达"]当然......他当然是我们的同伴。
+[name="希尔达"]当然……他当然是我们的同伴。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -1144,7 +1144,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_npc_2246_1#8$1", focus="r")]
-[name="希尔达"]......
+[name="希尔达"]……
 [charslot(slot = "l", name = "avg_npc_2260_1#1$1", focus="l")]
 [name="友善的流民"]我们什么时候能离开这里呢，女士？
 [charslot(slot = "r", name = "avg_npc_2246_1#2$1", focus="r")]
@@ -1152,7 +1152,7 @@
 [charslot(slot = "l", name = "avg_npc_2260_1#1$1", focus="l")]
 [name="友善的流民"]我是说，我们不可能就这么一直待在这里，对吧？虽然这儿要什么有什么，但外面还有更多感染者，都需要您的帮助。
 [charslot(slot = "r", name = "avg_npc_2246_1#8$1", focus="r")]
-[name="希尔达"]是的，我们当然不会一直留在这里，但现在......
+[name="希尔达"]是的，我们当然不会一直留在这里，但现在……
 [Dialog]
 [charslot]
 希尔达抬头望向外面走廊上少年瘦削的背影，指挥室中那浓重的血腥气似乎仍然萦绕在鼻尖。
@@ -1164,7 +1164,7 @@
 [name="友善的流民"]您是说——
 [charslot(slot = "r", name = "avg_npc_2246_1#2$1", focus="r")]
 [name="希尔达"]（低声）在我们能够安全离开之前，要麻烦你和扎亚了。
-[name="希尔达"]（低声）我必须看着这位......以防他冲动的本性，不仅伤害到自己，还波及到更多人。
+[name="希尔达"]（低声）我必须看着这位……以防他冲动的本性，不仅伤害到自己，还波及到更多人。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -1175,11 +1175,11 @@
 [PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
-[name="？？？"]......应该是，在这里......
+[name="？？？"]……应该是，在这里……
 [name="？？？"]停电的那几天我用这件外套裹住过妮娜，一定是这件外套上有什么问题，才让她身上长了奇怪的东西——
 [name="？？？"]可我只穿着它去给那些白大褂们洗过衣服——
-[name="？？？"]......
-[name="？？？"]不，我就该直接把它烧了。烧了就不会有问题了，就像处理被源石粉尘污染的东西那样......
+[name="？？？"]……
+[name="？？？"]不，我就该直接把它烧了。烧了就不会有问题了，就像处理被源石粉尘污染的东西那样……
 [name="？？？"]可上面这些绿色的光点，跟源石粉尘根本不一样——
 [Dialog]
 [playsound(key="$d_avg_button",volume=1)]
@@ -1197,16 +1197,16 @@
 [charslot(slot = "m", name = "avg_4225_tanya_1#1$2", duration=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_4225_tanya_1#1$2", focus="m")]
-[name="？？？"]不是......我不去......
+[name="？？？"]不是……我不去……
 [name="？？？"]妮娜还在诊所，我还有事。
 [charslot(slot = "m", name = "avg_npc_2228_1#6$1", focus="m")]
 [name="友善的工人"]哦、哦，那行。家人身体要紧。
 [charslot(slot = "m", name = "avg_npc_2228_1#7$1", focus="m")]
 [name="友善的工人"]不过，你自己是不是也生病了？从前就算有事，你一天也能干三份工，现在却放着油水多的活不做，真是稀奇。
 [charslot(slot = "m", name = "avg_4225_tanya_1#1$2", focus="m")]
-[name="？？？"]......不......
+[name="？？？"]……不……
 [name="？？？"]我得走了。你之后记得把洗衣服时穿的外套，多洗几遍，清洗干净，或者——
-[name="？？？"]或者干脆烧掉......
+[name="？？？"]或者干脆烧掉……
 [charslot(slot = "m", name = "avg_npc_2228_1#7$1", focus="m")]
 [name="友善的工人"]什么——
 [Dialog]
@@ -1216,8 +1216,8 @@
 [charslot(duration=0.7)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2228_1#7$1", focus="m")]
-[name="友善的工人"]......喂，什么意思啊！为啥要我烧掉衣服？
-[name="友善的工人"]自从城里感染者越来越多，这家伙也越来越奇怪了......
+[name="友善的工人"]……喂，什么意思啊！为啥要我烧掉衣服？
+[name="友善的工人"]自从城里感染者越来越多，这家伙也越来越奇怪了……
 [charslot(slot = "m", name = "avg_npc_2228_1#6$1", focus="m")]
 [name="友善的工人"]唉，不过，咱也管不着别人。
 [Dialog]

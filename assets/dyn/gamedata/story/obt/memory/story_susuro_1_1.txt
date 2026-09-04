@@ -27,7 +27,7 @@
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
 [name="办事处干员A"]浮空的？车？
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
-[name="办事处干员B"]那肯定不是车......具体的我也叫不上来名字。
+[name="办事处干员B"]那肯定不是车……具体的我也叫不上来名字。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
 [name="办事处干员A"]哦哦，是高塔的术师老爷们用的那种高级货，天上飘的那种？
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
@@ -35,7 +35,7 @@
 [name="办事处干员B"]哎呀你别猜了，我见得不多，也讲不太清，回头看到就懂了。
 [name="办事处干员B"]你这么闲，再检查一下车，回去的时间可就很紧了，别出岔子。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="办事处干员A"]行行行......你是老大，你说了算。
+[name="办事处干员A"]行行行……你是老大，你说了算。
 [dialog]
 [characteraction(name="left", type="move", xpos=-100, times=1, fadetime=0.5, block=false)]
 [Delay(time=0.51)]
@@ -61,8 +61,8 @@
 [characteraction(name="left", type="move", xpos=100, times=1, fadetime=0.5, block=false)]
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
 [delay(time=1)]
-[name="办事处干员A"]......
-[name="办事处干员A"]这载具......有点厉害啊，本舰还有这种东西，长见识了。
+[name="办事处干员A"]……
+[name="办事处干员A"]这载具……有点厉害啊，本舰还有这种东西，长见识了。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="办事处干员B"]行了，准备接人。
 [dialog]
@@ -79,13 +79,13 @@
 [character(name="char_016_medic")]
 [name="医疗干员"]（点头）
 [Character(name="avg_npc_090")]
-[name="办事处干员A"]......
+[name="办事处干员A"]……
 [Character(name="char_013_riop")]
 [name="办事处干员B"]你愣着干什么，打个招呼啊？
 [Character(name="avg_npc_090")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="办事处干员A"]哦！哦！对。
-[name="办事处干员A"]我是办事处的......司机......不对，我是本地办事处的干员，代号活塞。
+[name="办事处干员A"]我是办事处的……司机……不对，我是本地办事处的干员，代号活塞。
 [Character(name="char_013_riop", name2="avg_298_sussu_1",focus=1)]
 [name="菲勒加斯"]情况很复杂，我们时间紧急，各位先上车吧。
 [name="菲勒加斯"]关于这次突发事件的详细情况，我们打印了全套资料，就先在车上看吧。
@@ -93,7 +93,7 @@
 [name="苏苏洛"]好的，麻烦您了。
 [name="苏苏洛"]我们还携带了一些设备，也麻烦您搬到车上。
 [Character(name="avg_npc_090")]
-[name="活塞"]好......好的。
+[name="活塞"]好……好的。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -122,7 +122,7 @@
 [name="菲勒加斯"]什么时候养成的以貌取人的烂毛病？员工手册白看了？
 [name="菲勒加斯"]不懂就管住嘴，这位是真的本舰医疗部门精锐。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]好好好......我的错，我的错。
+[name="活塞"]好好好……我的错，我的错。
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=1)]
 [name="苏苏洛"]菲勒先生。
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=2)]
@@ -135,21 +135,21 @@
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=1)]
 [name="苏苏洛"]是天灾信使的工作失误么？
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=2)]
-[name="菲勒加斯"]目前来看......并不是。
+[name="菲勒加斯"]目前来看……并不是。
 [name="菲勒加斯"]这次针对天灾的撤离行动本来是没有任何问题的，至少从流程上没有遇到任何问题。
-[name="菲勒加斯"]唯一的问题是......谁都没想到天灾飓风的路径下有至少十片针蚤的大型巢穴。
-[name="菲勒加斯"]那个村子虽然提前开始了移动，但是上百只逃离天灾的针蚤直接冲到了迁徙的队伍里......
+[name="菲勒加斯"]唯一的问题是……谁都没想到天灾飓风的路径下有至少十片针蚤的大型巢穴。
+[name="菲勒加斯"]那个村子虽然提前开始了移动，但是上百只逃离天灾的针蚤直接冲到了迁徙的队伍里……
 [Character(name="char_016_medic", name2="char_013_riop",focus=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="医疗干员"]针蚤？就是那种一米多长的食肉虫子？
 [name="医疗干员"]上百只？？
 [Character(name="avg_298_sussu_1#6", name2="char_013_riop",focus=1)]
-[name="苏苏洛"]......我明白了......
+[name="苏苏洛"]……我明白了……
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=1)]
 [name="苏苏洛"]目前有伤亡数字吗？
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]莱塔尼亚官方信源还没有给出明确的数字。
-[name="菲勒加斯"]已经两天了，还没有得出结论......
+[name="菲勒加斯"]已经两天了，还没有得出结论……
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=1)]
 [name="苏苏洛"]说明伤亡人数暂时无法统计。
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=2)]
@@ -159,7 +159,7 @@
 [name="苏苏洛"]办事处储备的医疗物资还充足吗？处理针蚤毒素的解毒剂储量呢？手术设备保养状况如何？
 [name="苏苏洛"]当地其他医疗救护队的调动情况呢？我需要这些文件上没有收录的信息。
 [Character(name="avg_298_sussu_1", name2="avg_npc_090",focus=2)]
-[name="活塞"]这......
+[name="活塞"]这……
 [delay(time=0.51)]
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]医疗物资方面，暂且还算充沛。
@@ -170,9 +170,9 @@
 [name="菲勒加斯"]很多伤患没能撑到手术台上。
 [name="菲勒加斯"]办事处现在容纳了很多难民，情况非常不乐观。
 [name="菲勒加斯"]而且，在这样混乱的情况下，我们无法第一时间对人群进行区分。
-[name="菲勒加斯"]送来的病人里是有感染者的......而感染者逝世之后的情况......你明白我的意思。
+[name="菲勒加斯"]送来的病人里是有感染者的……而感染者逝世之后的情况……你明白我的意思。
 [Character(name="avg_298_sussu_1#6", name2="char_013_riop",focus=1)]
-[name="苏苏洛"]......我明白了。
+[name="苏苏洛"]……我明白了。
 [Character(name="avg_298_sussu_1#6", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]还有一段路程，你们先休息一下吧。
 [Dialog]
@@ -204,7 +204,7 @@
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
 [name="活塞"]开玩笑，那几个小姑娘都能去，我一个大老爷们怕什么。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
-[name="菲勒加斯"]......臭小子。
+[name="菲勒加斯"]……臭小子。
 [name="菲勒加斯"]行，没问题，回头可别说我没提醒你。
 [musicvolume(volume=0, fadetime=2)]
 [Dialog]
@@ -225,9 +225,9 @@
 [Character(fadetime=1,block=true)]
 [Delay(time=2)]
 [musicvolume(volume=0.4, fadetime=2)]
-[name="面目全非的伤患"]水......给我水......
+[name="面目全非的伤患"]水……给我水……
 [name="小孩"]爸爸！爸爸！
-[name="血肉模糊的伤患"]咳......咳......
+[name="血肉模糊的伤患"]咳……咳……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="本地医生"]过来一个人！这个感染者快不行了！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -238,21 +238,21 @@
 [dialog]
 [delay(time=1)]
 [Character(name="avg_npc_090")]
-[name="活塞"]......我的妈啊......这......
+[name="活塞"]……我的妈啊……这……
 [Character(name="avg_298_sussu_1", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]这比我想的还要惨。
 [name="菲勒加斯"]我前天来的时候，那边的大院子还是本地商会的货运站，现在已经被征用作为普通病患的收治区了。
 [name="菲勒加斯"]医生人手太过有限，只有伤势最重的人能优先在医疗室得到抢救。
 [Character(name="avg_298_sussu_1#3", name2="char_013_riop",focus=1)]
-[name="苏苏洛"]这些躺在地上的人......是什么情况？
+[name="苏苏洛"]这些躺在地上的人……是什么情况？
 [Character(name="avg_298_sussu_1#3", name2="char_013_riop",focus=2)]
-[name="菲勒加斯"]这些应该都是感染者，这座镇子比较小，没有感染者收容区，他们不能把感染者和普通人安置在一个地方......
+[name="菲勒加斯"]这些应该都是感染者，这座镇子比较小，没有感染者收容区，他们不能把感染者和普通人安置在一个地方……
 [Character(name="avg_298_sussu_1#5", name2="char_013_riop",focus=1)]
 [name="苏苏洛"]那也不能把他们就这么丢在广场上，菲勒干员，办事处的仓库能腾出多少空间？
 [Character(name="avg_298_sussu_1#5", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]我现在就安排把东西全搬出来，问题不大。
 [Character(name="avg_298_sussu_1#5", name2="char_013_riop",focus=1)]
-[name="苏苏洛"]我们还需要一个单独的空间容纳伤重的感染者，最好是能单独隔开......
+[name="苏苏洛"]我们还需要一个单独的空间容纳伤重的感染者，最好是能单独隔开……
 [Character(name="avg_298_sussu_1#5", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]那就只能把员工宿舍空出来了，这需要一点时间。
 [Character(name="avg_298_sussu_1#5", name2="char_013_riop",focus=1)]
@@ -302,13 +302,13 @@
 [name="本地医生"]他为了保护家里人，被针蚤咬掉了胳膊，送过来的时候已经失去意识了。
 [name="本地医生"]是感染者，不过病情还稳定。
 [Character(name="avg_298_sussu_1")]
-[name="苏苏洛"]......他的手呢？残肢还留着么？
+[name="苏苏洛"]……他的手呢？残肢还留着么？
 [Character(name="avg_298_sussu_1",focus=-1)]
 [name="本地医生"]（摇了摇头）
 [Character(name="avg_298_sussu_1")]
 [name="苏苏洛"]创面已经细菌感染了，左手也有肉眼可见的大面积溃烂，可能还得截掉一部分。
 [Character(name="avg_298_sussu_1",focus=-1)]
-[name="本地医生"]......这样岂不是两只手都要......
+[name="本地医生"]……这样岂不是两只手都要……
 [Character(name="avg_298_sussu_1")]
 [name="苏苏洛"]你去帮二组吧，这边交给我。
 [Character(name="avg_298_sussu_1",focus=-1)]
@@ -337,17 +337,17 @@
 三个小时后
 办事处医疗室内，重症伤患的手术依然没有停止。
 [dialog]
-[name="伤员"]医生......我是不是没救了......医生，你告诉我......
+[name="伤员"]医生……我是不是没救了……医生，你告诉我……
 [Character(name="avg_298_sussu_1")]
 [name="苏苏洛"]腔内出血较多，给血液吸引器换个瓶子。
 [Character(name="avg_298_sussu_1",focus=-1)]
-[name="伤员"]求求你......求求你医生，把这个戒指......带给我妻子，求求你......
+[name="伤员"]求求你……求求你医生，把这个戒指……带给我妻子，求求你……
 [Character(name="avg_298_sussu_1")]
 [name="苏苏洛"]你会活下来的，坚持住。
 [Character(name="avg_298_sussu_1#5")]
 [name="苏苏洛"]纱布用完了，再拿一点过来！
 [Character(name="avg_298_sussu_1#5",focus=-1)]
-[name="伤员"]别......别骗我，我知道......
+[name="伤员"]别……别骗我，我知道……
 [Character(name="avg_298_sussu_1")]
 [name="苏苏洛"]不要说话！你会活下来的，我保证！
 [name="苏苏洛"]帮忙按住这里，我来缝合。
@@ -383,7 +383,7 @@
 [PlaySound(key="$rungeneral", volume=1)]
 [delay(time=1)]
 [Character(name="avg_298_sussu_1#5",fadetime=0.3)]
-[name="苏苏洛"]......
+[name="苏苏洛"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -398,24 +398,24 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(fadetime=1,block=true)]
 [Delay(time=2)]
-[name="奄奄一息的伤患"]咳......呃......
+[name="奄奄一息的伤患"]咳……呃……
 [Character(name="avg_npc_090", name2="avg_298_sussu_1",focus=2)]
 [name="苏苏洛"]胸腹联合伤，腹部开放性外伤。 
 [name="苏苏洛"]推进去，优先处理，先切开他的食道与气管！
 [Character(name="avg_npc_090", name2="avg_298_sussu_1",focus=1)]
-[name="活塞"]......天哪......天哪......
-[name="活塞"]......这......
-[name="活塞"]......
+[name="活塞"]……天哪……天哪……
+[name="活塞"]……这……
+[name="活塞"]……
 [Character(name="avg_npc_090", name2="avg_298_sussu_1#5",focus=2)]
 [name="苏苏洛"]不要停下来！还有其他病人！
 [name="苏苏洛"]检查一下有没有脏器破损！看看有没有腹膜后的出血点！快！
 [Character(name="avg_npc_090", name2="avg_298_sussu_1#5",focus=1)]
-[name="活塞"]......我......我有点。
-[name="活塞"]对不起......我......我。
+[name="活塞"]……我……我有点。
+[name="活塞"]对不起……我……我。
 [Character(name="avg_npc_090", name2="avg_298_sussu_1#6",focus=2)]
 [name="苏苏洛"]没关系，辛苦了。你先去外面休息吧。
 [Character(name="avg_npc_090", name2="avg_298_sussu_1#6",focus=1)]
-[name="活塞"]谢谢......谢谢......
+[name="活塞"]谢谢……谢谢……
 [dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [characteraction(name="left", type="move", xpos=-300, fadetime=2,block=false)]
@@ -438,9 +438,9 @@
 [characteraction(name="middle", type="move", xpos=-200, fadetime=1, block=false)]
 [Character(name="avg_npc_090",fadetime=0.7)]
 [delay(time=2)]
-[name="活塞"]......太可怕了......
+[name="活塞"]……太可怕了……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="活塞"]呕............
+[name="活塞"]呕…………
 [dialog]
 [character]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -453,9 +453,9 @@
 [Character(fadetime=1,block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_090",fadetime=1)]
-[name="活塞"]......本舰的人，平时都要面对这种局面么。
+[name="活塞"]……本舰的人，平时都要面对这种局面么。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="活塞"]......呃......又来......呕......
+[name="活塞"]……呃……又来……呕……
 [Dialog]
 [character]
 [Delay(time=1)]
@@ -468,12 +468,12 @@
 [delay(time=2)]
 [name="菲勒加斯"]你还好吗？
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......还好，还好，我只是不太习惯这种......
+[name="活塞"]……还好，还好，我只是不太习惯这种……
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]给，毛巾，擦把脸。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]哎......
-[name="活塞"]......呃呕......有点丢人。没想到我是现场里第一个坚持不住的。
+[name="活塞"]哎……
+[name="活塞"]……呃呕……有点丢人。没想到我是现场里第一个坚持不住的。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]没事，你表现得还不错。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
@@ -481,17 +481,17 @@
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]你自告奋勇跑去帮忙，坚持了半天，你也不是专业的医疗干员，我本来预计你半个小时就扛不住了。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]那个小姑娘......不，那位医疗干员，还真是厉害。
+[name="活塞"]那个小姑娘……不，那位医疗干员，还真是厉害。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]哈，我之前怎么给你说的。他们是本舰的精锐。
 [name="菲勒加斯"]这位叫苏苏洛的医疗干员，是几年前帕勒莫事件的亲历者，不要小看她。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]帕勒莫事件？啊......就是当年那个轰动叙拉古的事件？
-[name="活塞"]是源石矿厂爆炸那次？我记得有很多平民急性感染，同时医疗准备不足导致急性感染者大量死亡......好像有半个城区濒临崩溃。
+[name="活塞"]帕勒莫事件？啊……就是当年那个轰动叙拉古的事件？
+[name="活塞"]是源石矿厂爆炸那次？我记得有很多平民急性感染，同时医疗准备不足导致急性感染者大量死亡……好像有半个城区濒临崩溃。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]那才是真正的人间地狱。想象一下，大量感染者急性发作，遍地都是已经开始崩解的感染者遗骸，漫天都是活性粉尘的恐怖景象。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......
+[name="活塞"]……
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]帕勒莫事件的很多亲历者都留下了严重的精神创伤。
 [name="菲勒加斯"]对这位医疗干员来说，今天的场面根本不算什么。
@@ -516,17 +516,17 @@
 [name="菲勒加斯"]你消停会。
 [name="菲勒加斯"]一会儿你又吐在里面，反而给她们添麻烦。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......也是喔。
+[name="活塞"]……也是喔。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]这么想帮忙，就去安置区看看有没有沟通工作，顺带也检查一下其他办事处的补给车有没有来。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......好，我这就去！
+[name="活塞"]……好，我这就去！
 [dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [characteraction(name="left", type="move", xpos=-300, fadetime=2,block=false)]
 [character(name="char_empty",name2="char_013_riop",fadetime=0.5)]
 [delay(time=2)]
-[name="菲勒加斯"]......哈，臭小子。
+[name="菲勒加斯"]……哈，臭小子。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -535,20 +535,20 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
-[name="本地医生"]呼......要命......
+[name="本地医生"]呼……要命……
 [Character(name="avg_npc_090",fadetime=0.5)]
 [name="活塞"]啊，医生，怎么样了？
 [Character(name="avg_npc_090",focus=-1)]
 [name="本地医生"]这次实在是多亏了你们，大部分伤患的情况现在都稳定了，接下来就看领主那边怎么做后续安排。
-[name="本地医生"]我以前还觉得你们根本就不是医疗公司，实在是......真的是......不好意思。
-[name="本地医生"]感谢你们，我感谢你们，我......我一时找不到更好的词，要不是你们的救援，伤亡人数和伴生灾害简直不可想象。
+[name="本地医生"]我以前还觉得你们根本就不是医疗公司，实在是……真的是……不好意思。
+[name="本地医生"]感谢你们，我感谢你们，我……我一时找不到更好的词，要不是你们的救援，伤亡人数和伴生灾害简直不可想象。
 [Character(name="avg_npc_090")]
-[name="活塞"]不......我只是个打杂......额......
+[name="活塞"]不……我只是个打杂……额……
 [name="活塞"]医疗干员呢？他们休息了？
 [Character(name="avg_npc_090",focus=-1)]
 [name="本地医生"]我也不太清楚他们去哪了，我还以为你们罗德岛的人会更清楚呢，我看你们的宿舍都拿来安置伤患了？
 [Character(name="avg_npc_090")]
-[name="活塞"]......知道了，你先早些休息吧。
+[name="活塞"]……知道了，你先早些休息吧。
 [Dialog]
 [character(fadetime=0.8)]
 [delay(time=2)]
@@ -566,7 +566,7 @@
 [character(name="avg_npc_090", name2="char_013_riop",fadetime=0.5)]
 [delay(time=0.51)]
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]老大，本部来的医......
+[name="活塞"]老大，本部来的医……
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]嘘，你小点声！
 [dialog]
@@ -595,7 +595,7 @@
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]有什么事，出去说。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......
+[name="活塞"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -605,7 +605,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]他们......算了，让他们歇着吧。
+[name="活塞"]他们……算了，让他们歇着吧。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]安置区怎么样了？
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
@@ -613,22 +613,22 @@
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]顺利就好。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......
-[name="活塞"]......
+[name="活塞"]……
+[name="活塞"]……
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]有什么想说的就直接说，别吞吞吐吐的。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]没什么......只是觉得......
+[name="活塞"]没什么……只是觉得……
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]想辞职了？
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]没，只是对罗德岛的这份工作加深了一点认识......大概吧，一点点。
+[name="活塞"]没，只是对罗德岛的这份工作加深了一点认识……大概吧，一点点。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
-[name="菲勒加斯"]哈哈哈......
+[name="菲勒加斯"]哈哈哈……
 [name="菲勒加斯"]有干劲是好事啊，既然你还有干劲，那现在就去清点一下医疗物资的消耗情况。
 [name="菲勒加斯"]做两份记录，一份给办事处留档，一份明早递交给本地政府。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......好，我这就去。
+[name="活塞"]……好，我这就去。
 [dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -657,14 +657,14 @@
 [character(name="char_016_medic")]
 [name="医疗干员"]这么多？
 [Character(name="avg_298_sussu_1")]
-[name="苏苏洛"]咳......这些是给凯尔希医生的书，这个是给嘉维尔医生的工艺品。
+[name="苏苏洛"]咳……这些是给凯尔希医生的书，这个是给嘉维尔医生的工艺品。
 [character(name="char_016_medic")]
 [name="医疗干员"]这是什么，零食？
 [Character(name="avg_298_sussu_1#7")]
-[name="苏苏洛"]那个是给博士的......小礼物。
+[name="苏苏洛"]那个是给博士的……小礼物。
 [Character(name="avg_npc_090")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="活塞"]博士？就是......那个博士？
+[name="活塞"]博士？就是……那个博士？
 [dialog]
 [character]
 [delay(time=1)]
@@ -681,16 +681,16 @@
 [character(fadetime=1)]
 [delay(time=2)]
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......
+[name="活塞"]……
 [name="活塞"]他们走了。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]好了，回去干活吧，还有一大堆报告要写。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]......嗯......
+[name="活塞"]……嗯……
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]怎么了？
 [Character(name="avg_npc_090", name2="char_013_riop",focus=1)]
-[name="活塞"]我是不是也该找个工作机会去罗德岛本舰看看呢......感觉都是些很奇妙的人。
+[name="活塞"]我是不是也该找个工作机会去罗德岛本舰看看呢……感觉都是些很奇妙的人。
 [Character(name="avg_npc_090", name2="char_013_riop",focus=2)]
 [name="菲勒加斯"]行啊，但是，先把自己手上的活儿干完再琢磨吧。
 [Dialog]

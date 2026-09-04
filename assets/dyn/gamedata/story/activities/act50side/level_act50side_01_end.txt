@@ -14,7 +14,7 @@
 [name="宝巫迦"]两位就请在这里等待吧。
 [name="宝巫迦"]前方就是熔火蜗集团出现的地点，这一次，交给吾来处理即可。
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
-[name="梓兰"]......真的不用我们帮忙？
+[name="梓兰"]……真的不用我们帮忙？
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
 [name="宝巫迦"]若是连这点麻烦都处理不了，吾又有何资格挑战“雷之主”呢？
 [Dialog]
@@ -24,16 +24,16 @@
 [charslot]
 [charslot(slot="l",name="avg_282_catap_1#1$1",focus="l")]
 [charslot(slot="r",name="char_278_orchid_1#2",focus="l")]
-[name="空爆"]......
+[name="空爆"]……
 [charslot(slot="r",name="char_278_orchid_1#2",focus="r")]
-[name="梓兰"]......
+[name="梓兰"]……
 [charslot(slot="l",name="avg_282_catap_1#11$1",focus="l")]
 [name="空爆"]梓兰姐，我真的有点迷糊了。
 [name="空爆"]难道那种发生在斑点看的漫画里的事真的发生在了我们身上？
 [charslot(slot="r",name="char_278_orchid_1#1",focus="r")]
-[name="梓兰"]......别急着下结论。
+[name="梓兰"]……别急着下结论。
 [charslot(slot="r",name="char_278_orchid_1#4",focus="r")]
-[name="梓兰"]十年一次的“试炼”“异兽”“异兽猎人”，还有那座跟这一切格格不入的“御轮”......这一切都有些刻意，你不觉得吗？
+[name="梓兰"]十年一次的“试炼”“异兽”“异兽猎人”，还有那座跟这一切格格不入的“御轮”……这一切都有些刻意，你不觉得吗？
 [charslot(slot="r",name="char_278_orchid_1#2",focus="r")]
 [name="梓兰"]还有泡普卡——
 [charslot(slot="l",name="avg_282_catap_1#7$1",focus="l")]
@@ -71,9 +71,9 @@
 [charslot(slot="r",name="char_278_orchid_1#5",focus="l")]
 [name="空爆"]嗯？
 [charslot(slot="l",name="avg_282_catap_1#7$1",focus="l")]
-[name="空爆"]欸......梓兰姐，你不觉得这家伙......有点眼熟吗？
+[name="空爆"]欸……梓兰姐，你不觉得这家伙……有点眼熟吗？
 [charslot(slot="r",name="char_278_orchid_1#3",focus="r")]
-[name="梓兰"]......大型源石虫？
+[name="梓兰"]……大型源石虫？
 [charslot(slot="l",name="avg_282_catap_1#4$1",focus="l")]
 [name="空爆"]哈，梓兰姐，我现在相信你说的这里是摄影棚这回事了！
 [name="空爆"]哪有这么巧的事！这里绝对有问题！
@@ -176,10 +176,10 @@
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.05, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
 [Delay(time=2)]
-[name="空爆"]那......那是什么？我从来没见过这种生物——
-[name="梓兰"]这家伙......难道就是“雷之主”？！
-[name="空爆"]居然只一击就把大型源石虫解决了......
-[name="“雷之主”"]......
+[name="空爆"]那……那是什么？我从来没见过这种生物——
+[name="梓兰"]这家伙……难道就是“雷之主”？！
+[name="空爆"]居然只一击就把大型源石虫解决了……
+[name="“雷之主”"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -230,7 +230,7 @@
 [name="“雷之主”"]（低沉的吼叫）
 [charslot]
 [charslot(slot="m",name="avg_282_catap_1#4$1",focus="m")]
-[name="空爆"]......不可能，这家伙居然毫发无损！
+[name="空爆"]……不可能，这家伙居然毫发无损！
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_2102_1#1$2",focus="m")]
@@ -254,7 +254,7 @@
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
 [name="梓兰"]空爆！
 [charslot(slot="m",name="char_278_orchid_1#5",focus="m")]
-[name="梓兰"]啧......法术用不了，至少——
+[name="梓兰"]啧……法术用不了，至少——
 [Dialog]
 [PlaySound(key="$d_avg_clothmovementsp")]
 [Delay(time=1)]
@@ -277,7 +277,7 @@
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]空爆，你太莽撞了！
 [charslot]
-[name="空爆"]抱歉，梓兰姐......
+[name="空爆"]抱歉，梓兰姐……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement",volume=1)]
 [charslot(slot="m",name="avg_282_catap_1#8$1",posfrom="0,-80",posto="0,0",afrom=0,ato=1,duration=1.5)]
@@ -287,15 +287,15 @@
 [name="空爆"]你刚才扔的是异臭弹吧？
 [charslot]
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
-[name="梓兰"]......之前逃跑的时候顺便捡了两颗，泡普卡说，对驱赶野兽有奇效，我就留了个心眼。
+[name="梓兰"]……之前逃跑的时候顺便捡了两颗，泡普卡说，对驱赶野兽有奇效，我就留了个心眼。
 [charslot(slot="m",name="avg_282_catap_1#3$1",focus="m")]
 [name="空爆"]不愧是梓兰姐！
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]不过，那就是“雷之主”啊......好厉害啊。
+[name="空爆"]不过，那就是“雷之主”啊……好厉害啊。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]下次再见到它，不准随便出手。
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]哦......
+[name="空爆"]哦……
 [Dialog]
 [charslot]
 [PlaySound(key="$rungeneral", volume=1,channel="2")]
@@ -314,13 +314,13 @@
 [charslot(slot="m",name="avg_282_catap_1#1$1",focus="m")]
 [name="空爆"]梓兰姐已经训过我啦。
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]幸好两位平安无事......
+[name="宝巫迦"]幸好两位平安无事……
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]吾已经将这一带的熔火蜗都清理掉了。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]找到“异兽”的踪迹了吗？
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]......没有。
+[name="宝巫迦"]……没有。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]宝巫迦，熔火蜗真的是这里的生物吗？
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
@@ -358,13 +358,13 @@
 [PlaySound(key="$d_avg_stnecrve", volume=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_282_catap_1#11$1",focus="m")]
-[name="空爆"]呃......他们在干什么？
+[name="空爆"]呃……他们在干什么？
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]熔火蜗平日生活在熔岩地带，很少成群出现，它的壳能够做成可以长时间燃烧的“火竹炭”。
 [charslot(slot="m",name="avg_npc_2106_1#1$1",focus="m")]
 [name="领头武士"]没错！这种“火竹炭”结实好用，但是熔火蜗太少见了，今天这一批的量，今年我们过冬都不用愁了。
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]那那边在兴高采烈砍竹子的又是为什么......？
+[name="空爆"]那那边在兴高采烈砍竹子的又是为什么……？
 [charslot(slot="m",name="avg_npc_2106_1#1$1",focus="m")]
 [name="领头武士"]我们平时就会用竹子来制作各种东西，而熔火蜗的温度比国内最大的炉子都要高，能够将这些竹子烤得无比坚硬。
 [name="领头武士"]这种熔火蜗烤好的竹子，我们称之为“烈竹”。
@@ -372,7 +372,7 @@
 [charslot(slot="m",name="avg_282_catap_1#3$1",focus="m")]
 [name="空爆"]有意思，我也来帮忙！
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]......只有靠“试炼”才能获得这么多吗？ 
+[name="梓兰"]……只有靠“试炼”才能获得这么多吗？ 
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]是的。
 [name="宝巫迦"]每十年一次的“试炼”中出现的“异兽”，以及它掀起的异变，会对周边的环境造成很大影响。
@@ -382,7 +382,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]狩地之兽，得天之赐，这正是泡影国的做法。
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
-[name="梓兰"]......
+[name="梓兰"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -395,7 +395,7 @@
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]将“试炼”造成的影响视作恩赐，甚至在生活上依靠这种恩赐，这未免太缺乏稳定性了。
 [charslot(slot="m",name="avg_282_catap_1#5$1",focus="m")]
-[name="空爆"]哦？这块烈竹的材质真不错，拿来做弹药的素材应该稳定性不错......
+[name="空爆"]哦？这块烈竹的材质真不错，拿来做弹药的素材应该稳定性不错……
 [charslot(slot="m",name="char_278_orchid_1#5",focus="m")]
 [name="梓兰"]而且，他们难道从来没有想过深究这一切的原因吗？
 [charslot(slot="m",name="avg_282_catap_1#9$1",focus="m")]
@@ -405,7 +405,7 @@
 [charslot(slot="m",name="avg_282_catap_1#3$1",focus="m")]
 [name="空爆"]我在听啊。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]......我不相信他们的这套说辞，我们要想办法搞清楚这里究竟是什么地方。
+[name="梓兰"]……我不相信他们的这套说辞，我们要想办法搞清楚这里究竟是什么地方。
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
 [name="空爆"]其实我觉得还挺说得通欸。
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]

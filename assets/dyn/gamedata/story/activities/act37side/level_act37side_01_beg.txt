@@ -19,7 +19,7 @@
 [charslot(slot="m",name="avg_npc_243",duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_243",focus="m")]
-[name="镇定的女士"]G12区......看上去废弃了段时间，连编号都看不清......是这吗？
+[name="镇定的女士"]G12区……看上去废弃了段时间，连编号都看不清……是这吗？
 [name="镇定的女士"]呼——千万别再撞上那些该死绝的魔族佬——
 [dialog]
 [charslot]
@@ -46,8 +46,8 @@
 [CameraShake(duration=1, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="镇定的女士"]放开我的手！
 [name="镇定的女士"]你们连对女士的基本尊重都没有吗？
-[name="镇定的女士"]米基·罗宾森，典范军的英雄......呃，“之一”，也就是我的先生，委托我来取药。
-[name="镇定的女士"]缓、缓解那些可怕黑石子病的药。我先生快走不了路了......
+[name="镇定的女士"]米基·罗宾森，典范军的英雄……呃，“之一”，也就是我的先生，委托我来取药。
+[name="镇定的女士"]缓、缓解那些可怕黑石子病的药。我先生快走不了路了……
 [dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_399_1#1$1",focus="r")]
@@ -66,7 +66,7 @@
 [name="谨慎的佣兵"]还有，想要治矿石病的药，去新建的疗养院里找，这事还是那位新任的议长大人承诺的。
 [charslot(slot="m",name="avg_npc_243",focus="m")]
 [name="镇定的女士"]——等等，我们确实没有其他办法了，那里的药根本不够分。
-[name="镇定的女士"]我知道这儿能拿到药，我丈夫他......
+[name="镇定的女士"]我知道这儿能拿到药，我丈夫他……
 [name="镇定的女士"]听着，我存了些值钱玩意儿在一个很安全的地方，都是那个坎伯兰公爵府上的好东西，以前公爵阁下赏我们的。只要能拿到药——
 [dialog]
 [charslot]
@@ -81,7 +81,7 @@
 [delay(time=1)]
 [name="终端里的声音"]把单子给她签字，让她明天来拿药。
 [charslot(slot="l",name="avg_npc_399_1#1$1",focus="l")]
-[name="谨慎的佣兵"]是，老大！可万一她没钱......
+[name="谨慎的佣兵"]是，老大！可万一她没钱……
 [charslot(slot="l",name="avg_npc_399_1#1$1",focus="n")]
 [name="终端里的声音"]那就老办法。
 [dialog]
@@ -89,7 +89,7 @@
 [PlaySound(key="$transmission")]
 [delay(time=2)]
 [charslot(slot="r",name="avg_npc_399_1#1$1",focus="r")]
-[name="疲惫的佣兵"]奇了怪了，老大好像从来没直接管过这档子事呀。呃，那我现在......？
+[name="疲惫的佣兵"]奇了怪了，老大好像从来没直接管过这档子事呀。呃，那我现在……？
 [charslot(slot="l",name="avg_npc_399_1#1$1",focus="l")]
 [name="谨慎的佣兵"]哼，给她合同。
 [dialog]
@@ -97,7 +97,7 @@
 [PlaySound(key="$d_avg_paper2", volume=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_243",focus="m")]
-[name="镇定的女士"]谢谢，谢——这上面的条款，他从来没提过有这么苛刻的条件！要是签了这东西，那我们......
+[name="镇定的女士"]谢谢，谢——这上面的条款，他从来没提过有这么苛刻的条件！要是签了这东西，那我们……
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
 [name="谨慎的佣兵"]会活得很好，至少在我们讨债之前。
 [name="谨慎的佣兵"]看来你那位英雄丈夫对自己的妻子不太坦诚。
@@ -149,7 +149,7 @@
 [PlaySound(key="$gavel2", volume=1)]
 [CameraShake(duration=1, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="摩根"]这些人真是胡说八道！
-[name="摩根"]他们明明就蹲守在疗养院的食堂，故意等我吃饭的时候凑上来套话......
+[name="摩根"]他们明明就蹲守在疗养院的食堂，故意等我吃饭的时候凑上来套话……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",duration=1)]
@@ -157,12 +157,12 @@
 [charslot(slot="m",name="avg_1019_siege2_1#8$1",focus="m")]
 [name="维娜"]然后你狠狠地揍了这帮人一顿。
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
-[name="摩根"]我以为......至少这样他们就不敢再随便乱报道......
+[name="摩根"]我以为……至少这样他们就不敢再随便乱报道……
 [name="摩根"]对不起。我没想过会影响到大家对你的看法——
 [charslot(slot="m",name="avg_1019_siege2_1#8$1",focus="m")]
 [name="维娜"]不，如果是我，我也会一脚把他们全踹出去。
 [charslot(slot="m",name="avg_npc_405_1#2$1",focus="m")]
-[name="摩根"]啊？可是......
+[name="摩根"]啊？可是……
 [charslot(slot="m",name="avg_1019_siege2_1#8$1",focus="m")]
 [name="维娜"]无论你在那些以满足自我臆想为生的消息贩子面前说什么，都不会改变他们早就盘算好的答案。
 [name="维娜"]反正没法让他们闭嘴，还不如直接点。
@@ -184,7 +184,7 @@
 [charslot(slot="m",name="avg_npc_405_1#2$1",focus="m")]
 [name="摩根"]呃——
 [charslot(slot="m",name="avg_1019_siege2_1#5$1",focus="m")]
-[name="维娜"]......这身衣服真碍事。是不是该找人再改改——
+[name="维娜"]……这身衣服真碍事。是不是该找人再改改——
 [Dialog]
 [charslot]
 [name="戴菲恩"]我确实认识一个不错的裁缝。
@@ -196,7 +196,7 @@
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
 [name="戴菲恩"]年轻时还给王室做过衣服，这次运气好活了下来。可惜现在没人敢找他干活。
 [charslot(slot="m",name="avg_1019_siege2_1#5$1",focus="m")]
-[name="维娜"]......也感染了？
+[name="维娜"]……也感染了？
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
 [name="戴菲恩"]嗯。
 [charslot(slot="m",name="avg_npc_405_1#3$1",focus="m")]
@@ -207,11 +207,11 @@
 [name="戴菲恩"]那个动手伤人的萨卡兹我们抓到了，人现在就扣在西涅塞德大堂的议会厅里。
 [name="戴菲恩"]我的初步判断是这事或许和那些在废弃地下工厂内活动的团伙脱不开干系。
 [charslot(slot="m",name="avg_1019_siege2_1#10$1",focus="m")]
-[name="维娜"]......“铣痕”。
+[name="维娜"]……“铣痕”。
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
 [name="戴菲恩"]至于背后是否还有诺曼底公爵那位继承人的手段——
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
-[multiline(name="维娜")]我会再和她......
+[multiline(name="维娜")]我会再和她……
 [charslot(slot="m",name="avg_1019_siege2_1#7$1",focus="m")]
 [multiline(name="维娜")]交涉。
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
@@ -220,9 +220,9 @@
 [charslot(slot="m",name="avg_4110_delphn_1#9$1",focus="m")]
 [name="戴菲恩"]你适应得很快，维娜。我相信现在的议会能解决这些事情，放心，我会协助你。
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
-[name="戴菲恩"]过去妈妈对我的训练本就是为了应对这样的场面......我不会让她丢脸。
+[name="戴菲恩"]过去妈妈对我的训练本就是为了应对这样的场面……我不会让她丢脸。
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
-[name="摩根"]......
+[name="摩根"]……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [charslot(duration=1)]
@@ -235,7 +235,7 @@
 [charslot]
 [name="门外的声音"]我先去议会厅等你们。
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [name="维娜"]她只是有些不太适应现在这种生活。我们都是。
 [charslot(slot="m",name="avg_1019_siege2_1#2$1",focus="m")]
 [name="维娜"]有些事，推进之王能做，但这个所谓的议长却做不得。
@@ -266,11 +266,11 @@
 [delay(time=1.5)]
 [Background(image="55_g8_siegeoffice",screenadapt="coverall",fadetime=1.5,block=true)]
 [delay(time=1)]
-她下意识地摸了摸身上的衣服，当典范军的“英雄领袖”披着这身王室旧铠走出圣王会西部大堂时......
+她下意识地摸了摸身上的衣服，当典范军的“英雄领袖”披着这身王室旧铠走出圣王会西部大堂时……
 她已在黎明时分扯下了卡兹戴尔军事委员会的旗帜，也看到了一个熟悉的身影与蒸汽骑士默默隐入了漫天的蒸汽之中。
 那一天，阿勒黛没有来见她，而是转身离去消失在满目疮痍的城市的阴影里。
 [charslot(slot="m",name="avg_1019_siege2_1#5$1",focus="m")]
-[name="维娜"]......走吧，该去议会厅了。
+[name="维娜"]……走吧，该去议会厅了。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -296,11 +296,11 @@
 [charslot(slot="r",name="avg_npc_659_1#1$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="r",name="avg_npc_659_1#1$1",focus="r")]
-[name="局促的议员"]（摩根老大......摩根老大......）
+[name="局促的议员"]（摩根老大……摩根老大……）
 [charslot(slot="l",name="avg_npc_405_1#2$1",focus="l")]
 [name="摩根"]欸？
 [charslot(slot="r",name="avg_npc_659_1#1$1",focus="r")]
-[name="局促的议员"]我不是故意打断你写东西，只是，只是......
+[name="局促的议员"]我不是故意打断你写东西，只是，只是……
 [name="局促的议员"]（巴纳比又迟到了，我想去找找他。我担心他又在哪醉倒了。）
 [charslot(slot="l",name="avg_npc_405_1#3$1",focus="l")]
 [multiline(name="摩根")]反正维娜还没到，想去就去呀，不用特意——
@@ -308,10 +308,10 @@
 [multiline(name="摩根")]等等！
 [name="摩根"]我想起来了，你上次也这么说，然后你俩整场会议都没回来。
 [charslot(slot="r",name="avg_npc_659_1#1$1",focus="r")]
-[name="局促的议员"]上、上次只是被关在外面了......
+[name="局促的议员"]上、上次只是被关在外面了……
 [name="局促的议员"]摩根老大，不瞒你说，我抱着工厂里那堆图纸都过了大半辈子了。
 [name="局促的议员"]要是让我参加质检评审会，随便什么零件的数据我都门儿清，没一个工头敢挑我的刺。
-[name="局促的议员"]可是坐这......还和那边那几个贵族老爷平起平坐，盯着这堆啥也看不懂的文件来管理这么大一个城市——
+[name="局促的议员"]可是坐这……还和那边那几个贵族老爷平起平坐，盯着这堆啥也看不懂的文件来管理这么大一个城市——
 [name="局促的议员"]（我这辈子管过最大的地儿也就我负责的那一个车间。唔，我心里真发怵。）
 [charslot(slot="l",name="avg_npc_405_1#4$1",focus="l")]
 [name="摩根"]有我们罩着，怕那些贵族混账干嘛？
@@ -327,7 +327,7 @@
 [charslot(slot="m",name="avg_npc_175",focus="m")]
 [name="雍容的议员"]天气不错，诸位安康。
 [charslot(slot="m",name="avg_npc_405_1#3$1",focus="m")]
-[name="摩根"]咳......你也安康。
+[name="摩根"]咳……你也安康。
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
 [name="局促的议员"]我们很好，我们很好。
 [Dialog]
@@ -352,9 +352,9 @@
 [Delay(time=1)]
 [stopsound(channel="ds", fadetime=2)]
 [charslot(slot="m",name="avg_npc_175",focus="m")]
-[name="雍容的议员"]议长阁下，您到......您这是？
+[name="雍容的议员"]议长阁下，您到……您这是？
 [charslot(slot="m",name="avg_npc_405_1#9$1",focus="m")]
-[name="摩根"]维娜！欸，你背着的那人......
+[name="摩根"]维娜！欸，你背着的那人……
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="局促的议员"]巴纳比！
@@ -365,7 +365,7 @@
 [charslot(slot = "m", action="shake",random=true, power=5, times=30,duration=0.7)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_248",focus="m")]
-[name="醉酒的议员"]克、克莱夫......
+[name="醉酒的议员"]克、克莱夫……
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="维娜"]戴菲恩，帮忙把他送到座位上吧。
 [Dialog]
@@ -386,19 +386,19 @@
 [name="醉酒的议员"]我是在等议长阁下！
 [name="醉酒的议员"]我有一、一整套能马上改善药物短缺问题的提案——
 [charslot(slot="m",name="avg_4110_delphn_1#7$1",focus="m")]
-[name="戴菲恩"]......那你应该正式呈文。我们改革议会颁布的这些规则，本就是为了约束我们自己。
+[name="戴菲恩"]……那你应该正式呈文。我们改革议会颁布的这些规则，本就是为了约束我们自己。
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
 [name="局促的议员"]戴菲恩阁下，巴纳比他不是故意耍浑，他和我说过很多次他的构想！
 [name="局促的议员"]他只是和我一样，一进了这鬼地方就浑身不得劲，就跟魂都被抽走了一样。不光话说不清，连砍魔族佬时不怕死的胆子都全没了。
-[name="局促的议员"]所以我才出了馊主意，说或许灌点酒就......就......
+[name="局促的议员"]所以我才出了馊主意，说或许灌点酒就……就……
 [charslot(slot="m",name="avg_npc_405_1#12$1",focus="m")]
 [name="摩根"]放心好了，维娜她才不会因为这个生气。
 [charslot(slot="m",name="avg_4110_delphn_1#9$1",focus="m")]
-[name="戴菲恩"]不用紧张，如今的新议会本就极为复杂。所有人都在观察，我们也都在适应和学习......包括议长阁下。
+[name="戴菲恩"]不用紧张，如今的新议会本就极为复杂。所有人都在观察，我们也都在适应和学习……包括议长阁下。
 [name="戴菲恩"]想要在战场之外赢那些对我们不怀好意的人，我们就不得不去学习他们的思考方式。
 [name="戴菲恩"]这个过程对大家来说，都不会轻松。你们已经做得够好了。
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
-[name="摩根"]......如果我们最后也变得像那些人一样了呢？
+[name="摩根"]……如果我们最后也变得像那些人一样了呢？
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
 [name="局促的议员"]我，我绝对不会，摩根老大！
 [charslot(slot="m",name="avg_npc_405_1#7$1",focus="m")]
@@ -406,7 +406,7 @@
 [charslot(slot="m",name="avg_4110_delphn_1#5$1",focus="m")]
 [name="戴菲恩"]我没法保证事情最终不会变成那样，摩根。没人敢保证。
 [charslot(slot="m",name="avg_npc_405_1#3$1",focus="m")]
-[name="摩根"]我相信维娜。汉娜和达格达也一样......不管你们怎么想。
+[name="摩根"]我相信维娜。汉娜和达格达也一样……不管你们怎么想。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -424,7 +424,7 @@
 [name="维娜"]无论是危险的萨卡兹，还是诸如“铣痕”等流窜在城内的佣兵，议会都在竭力予以解决。
 [name="维娜"]议会不会容忍任何威胁市民安全的恶意行为。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="萨卡兹凶手"]......你们想要审判我？
+[name="萨卡兹凶手"]……你们想要审判我？
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="维娜"]没有审判，萨卡兹。议会新通过的临时法案里已经明确了处置你的办法，临时法庭也已经审理通过。
 [name="维娜"]——以所有人都认同的方式。
@@ -433,18 +433,18 @@
 [charslot(slot="m",name="avg_1019_siege2_1#2$1",focus="m")]
 [name="维娜"]你重伤了一位善良的店主，为了一盘他本就准备留给你的面包。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="萨卡兹凶手"]......他还活着吗？
+[name="萨卡兹凶手"]……他还活着吗？
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="维娜"]活着。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="萨卡兹凶手"]好。你准备什么时候宰了我？
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
-[name="维娜"]......你当初真的应该跟着你的同族们一起离开。
+[name="维娜"]……你当初真的应该跟着你的同族们一起离开。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="萨卡兹凶手"]你还记得我？也是，毕竟在他们大撤军的时候，是你放了我。
 [name="萨卡兹凶手"]说起来，你还是我的救命恩人，典范军的头头。
 [charslot(slot="m",name="avg_1019_siege2_1#10$1",focus="m")]
-[name="维娜"]......你——
+[name="维娜"]……你——
 [Dialog]
 [charslot]
 [stopmusic(fadetime=2)]
@@ -520,30 +520,30 @@
 [name="因陀罗"]维娜，我不知道博士和你说了什么，但我们现在还来得及把他们全都揍垮！
 [name="因陀罗"]我们的人和从公爵那边联合过来的同伴都还在城墙下等着呢。只要——
 [name="戴菲恩"]汉娜，现在最需要冷静的是我们。
-[name="戴菲恩"]我比你们谁都更想要把这些人全都留在这里......但事实就是，我们做不到。
-[name="维娜"]......
+[name="戴菲恩"]我比你们谁都更想要把这些人全都留在这里……但事实就是，我们做不到。
+[name="维娜"]……
 [name="达格达"]大公爵们的主力舰队可都没后撤太远，戴菲恩。
 [name="摩根"]达格达说得对！他们哪怕再有什么小心思，只要我们真打起来，为了装装面子他们也得帮我们。
 [name="戴菲恩"]然后让好不容易活下来的这些人再去把命拼掉？
 [name="戴菲恩"]停战协议的公告所有人都已经看过了，现在不是逞一时爽快的时候。
-[name="摩根"]......
+[name="摩根"]……
 [name="因陀罗"]忍忍忍，放他妈的屁！
 [name="因陀罗"]老子就是忍不了！
-[name="因陀罗"]（哽咽）这么多人......这么多同伴......贝尔德......
+[name="因陀罗"]（哽咽）这么多人……这么多同伴……贝尔德……
 [dialog]
 [PlaySound(key="$d_avg_openftstprun", volume=1)]
 [delay(time=1.5)]
 因陀罗一刻也待不下去，她害怕自己会忍不住顺着城墙滑下去。
 害怕自己会忍不住，带着那些唇边都咬出血的同伴们冲出去——
-[name="维娜"]汉娜......
-[name="达格达"]她这段时间一直都在压抑自己......维娜，别担心，我去盯着她。
+[name="维娜"]汉娜……
+[name="达格达"]她这段时间一直都在压抑自己……维娜，别担心，我去盯着她。
 [name="达格达"]她只是嘴上说说，不是会干傻事的人。
 [name="摩根"]维娜，那些害死了贝尔德的萨卡兹，凭什么能这样大张旗鼓地离开？
-[name="维娜"]......
+[name="维娜"]……
 [name="戴菲恩"]这已经是博士和维什戴尔能争取到的最好结果了。
-[name="戴菲恩"]伦蒂尼姆遭不住再来一次战火的风险。死的人......够多了。
-[name="戴菲恩"]维娜......你最清楚。
-[name="维娜"]呵......通知典范军所有人不要轻易行动——
+[name="戴菲恩"]伦蒂尼姆遭不住再来一次战火的风险。死的人……够多了。
+[name="戴菲恩"]维娜……你最清楚。
+[name="维娜"]呵……通知典范军所有人不要轻易行动——
 [dialog]
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [delay(time=1)]
@@ -553,24 +553,24 @@
 [Predicate(references="1")]
 [Decision(options="他们想让我们旁听关于伦蒂尼姆的战后处置会议。",values="1")]
 [Predicate(references="1")]
-[name="维娜"]处置......就在那些萨卡兹从我们眼皮子底下全部撤完之前？
+[name="维娜"]处置……就在那些萨卡兹从我们眼皮子底下全部撤完之前？
 [CameraShake(duration=0.7, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="维娜"]他们就这么着急吗？
 [name="维娜"]——我不觉得现在这座城市还会听由他们摆弄。
 [dialog]
 [Decision(options="他们也很清楚这一点。;所以他们选中了你。", values="1;2")]
 [Predicate(references="1;2")]
-[name="维娜"]啧......
+[name="维娜"]啧……
 [dialog]
 [Decision(options="你可以拒绝，维娜。",values="1")]
 [Predicate(references="1")]
-[name="维娜"]......
+[name="维娜"]……
 [name="维娜"]博士，这里是我的家。
 [name="戴菲恩"]维娜，你决定了？
 [name="维娜"]从我们带领典范军的战友们率先突入城内的那一刻起，这件事不就已经注定了吗？
 [name="维娜"]他们很清楚，我也很清楚。
 [name="戴菲恩"]这不轻松，但我支持你的决定。
-[name="摩根"]......
+[name="摩根"]……
 [dialog]
 [Decision(options="那罗德岛会“出席”会议。;我们会站在你的身边。", values="1;2")]
 [Predicate(references="1;2")]
@@ -583,7 +583,7 @@
 [dialog]
 [playsound(key="$transmission")]
 [delay(time=2)]
-[name="维娜"]......回家也不总是一件轻松事，对吧？
+[name="维娜"]……回家也不总是一件轻松事，对吧？
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

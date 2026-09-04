@@ -1,6 +1,6 @@
 {
   "isTrimed": true,
-  "code": 560,
+  "code": 564,
   "aspects": {
     "ZONE_MAP": {
       "permanent_sub_2_zone1": {
@@ -35,14 +35,6 @@
         "resPath": "Retro/permanent_sidestory_32_The_Masses_Travels/zone_map_permanent_sidestory_32_zone2",
         "activity": "permanent_sidestory_32_the_masses_travels"
       },
-      "act43sre_zone1": {
-        "resPath": "Activity/[UC]act43sre/ZoneMaps/zone_map_act43sre_zone1",
-        "activity": "act43sre"
-      },
-      "act43sre_zone2": {
-        "resPath": "Activity/[UC]act43sre/ZoneMaps/zone_map_act43sre_zone2",
-        "activity": "act43sre"
-      },
       "permanent_sidestory_32_zone1": {
         "resPath": "Retro/permanent_sidestory_32_The_Masses_Travels/zone_map_permanent_sidestory_32_zone1",
         "activity": "permanent_sidestory_32_the_masses_travels"
@@ -50,10 +42,6 @@
       "permanent_sidestory_3_zone1": {
         "resPath": "Retro/permanent_sidestory_3_Code_Of_Brawl/zone_map_permanent_sidestory_3_zone1",
         "activity": "permanent_sidestory_3_code_of_brawl"
-      },
-      "act53side_zone1": {
-        "resPath": "Activity/[UC]act53side/ZoneMaps/zone_map_act53side_zone1",
-        "activity": "act53side"
       },
       "act44sre_zone1": {
         "resPath": "Activity/[UC]act44sre/ZoneMaps/zone_map_act44sre_zone1",
@@ -67,13 +55,9 @@
         "resPath": "Activity/[UC]act44sre/ZoneMaps/zone_map_act44sre_zone3",
         "activity": "act44sre"
       },
-      "act53side_zone3": {
-        "resPath": "Activity/[UC]act53side/ZoneMaps/zone_map_act53side_zone3",
-        "activity": "act53side"
-      },
-      "act53side_zone2": {
-        "resPath": "Activity/[UC]act53side/ZoneMaps/zone_map_act53side_zone2",
-        "activity": "act53side"
+      "act54side_zone1": {
+        "resPath": "Activity/[UC]act54side/ZoneMaps/zone_map_act54side_zone1",
+        "activity": "act54side"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -112,14 +96,6 @@
         "resPath": "Activity/[UC]act1arkhub/Prefabs/act1arkhub_template_shop",
         "activity": "act1arkhub"
       },
-      "templateshop_shop_act43sre": {
-        "resPath": "Activity/[UC]act43sre/Prefabs/act43sre_template_shop",
-        "activity": "act43sre"
-      },
-      "title_shop_act43sre": {
-        "resPath": "Activity/[UC]act43sre/Prefabs/act43sre_template_shop",
-        "activity": "act43sre"
-      },
       "templateshop_shop_act44sre": {
         "resPath": "Activity/[UC]act44sre/Prefabs/act44sre_template_shop",
         "activity": "act44sre"
@@ -128,22 +104,17 @@
         "resPath": "Activity/[UC]act44sre/Prefabs/act44sre_template_shop",
         "activity": "act44sre"
       },
-      "templateshop_shop_act53side": {
-        "resPath": "Activity/[UC]act53side/Prefabs/act53side_template_shop",
-        "activity": "act53side"
+      "templateshop_shop_act54side": {
+        "resPath": "Activity/[UC]act54side/Prefabs/act54side_template_shop",
+        "activity": "act54side"
       },
-      "title_shop_act53side": {
-        "resPath": "Activity/[UC]act53side/Prefabs/act53side_template_shop",
-        "activity": "act53side"
+      "title_shop_act54side": {
+        "resPath": "Activity/[UC]act54side/Prefabs/act54side_template_shop",
+        "activity": "act54side"
       }
     },
     "BATTLE": {},
-    "SQUAD_HOME_PLUGIN": {
-      "act53side": {
-        "resPath": "Activity/[UC]act53side/act53side_squad_plugin_view",
-        "activity": "act53side"
-      }
-    },
+    "SQUAD_HOME_PLUGIN": {},
     "HOME_TOPBAR": {},
     "HIDDEN_STAGE_TOAST": {
       "permanent_sidestory_15_dorothy's_vision": {
@@ -155,14 +126,6 @@
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
     "TEMPLATE_MISSION": {
-      "act43sre_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act43sre/Prefabs/act43sre_mission_view_holder",
-        "activity": "act43sre"
-      },
-      "act43sre_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act43sre/Prefabs/act43sre_mission_view_holder",
-        "activity": "act43sre"
-      },
       "act1arkhub_custom_mission_res_holder": {
         "resPath": "Activity/[UC]act1arkhub/Prefabs/act1arkhub_mission_view_holder",
         "activity": "act1arkhub"
@@ -179,13 +142,13 @@
         "resPath": "Activity/[UC]act44sre/Prefabs/act44sre_mission_view_holder",
         "activity": "act44sre"
       },
-      "act53side_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act53side/Prefabs/act53side_mission_view_holder",
-        "activity": "act53side"
+      "act54side_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act54side/Prefabs/act54side_mission_view_holder",
+        "activity": "act54side"
       },
-      "act53side_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act53side/Prefabs/act53side_mission_view_holder",
-        "activity": "act53side"
+      "act54side_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act54side/Prefabs/act54side_mission_view_holder",
+        "activity": "act54side"
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},

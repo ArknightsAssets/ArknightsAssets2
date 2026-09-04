@@ -10,11 +10,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
 [playsound(key="$d_avg_recorderglitch",volume=1)]
-[name="收音机"]......滋滋......《多索雷斯之声》......
-[name="收音机"]......多日连续高温让本市提前入夏，这也是多索雷斯气象记录史上最炎热的夏季，气象专家表示五天内气温将到达预测顶峰......
-[name="收音机"]......一周前，真正玻利瓦尔人现任领袖及其下属护卫队已抵达本市，坎黛拉·桑切斯市长尚未对此做出明确表态......
-[name="收音机"]......昨日，中央大道行道树起火事件已开始调查，未发现人为肇事痕迹......
-[name="收音机"]......这已是多索雷斯入夏以来发生的第三起植物自燃事件，该现象或与高温天气有关，请广大市民小心......
+[name="收音机"]……滋滋……《多索雷斯之声》……
+[name="收音机"]……多日连续高温让本市提前入夏，这也是多索雷斯气象记录史上最炎热的夏季，气象专家表示五天内气温将到达预测顶峰……
+[name="收音机"]……一周前，真正玻利瓦尔人现任领袖及其下属护卫队已抵达本市，坎黛拉·桑切斯市长尚未对此做出明确表态……
+[name="收音机"]……昨日，中央大道行道树起火事件已开始调查，未发现人为肇事痕迹……
+[name="收音机"]……这已是多索雷斯入夏以来发生的第三起植物自燃事件，该现象或与高温天气有关，请广大市民小心……
 [Dialog]
 [StopSound(channel="cica", fadetime=2)]
 [PlaySound(key="$d_avg_button")]
@@ -28,16 +28,16 @@
 [name="阿尔瓦"]噗——
 [name="阿尔瓦"]在我毕业论文写不出来的时候，这个笑话就没那么好笑了哦。
 [name="电话那头的声音"]你有没有考虑过，毕业以后要去哪里呢？
-[name="阿尔瓦"]还没有想好......我现在只想去一个没有这么热，也没有这么多植物的地方。
+[name="阿尔瓦"]还没有想好……我现在只想去一个没有这么热，也没有这么多植物的地方。
 [Dialog]
 [focusout(duration=1.5, type="bg", from=0, to=1, block=true)]
 [delay(time=1)]
 暑气在木屋的玻璃上凝成水珠，佩洛扯了扯自己的衣领子，这里闷得叫人喘不上气。
 窗台和货架上的植物摆放得井井有条，木桌似乎被人刻意清空，放上了显微镜和其他设备。
-桌面和她的手指上沾着湿润的泥土，它们来自附近那几株植物的花盆——兜兰、羽叶藤芋、刺桐......
+桌面和她的手指上沾着湿润的泥土，它们来自附近那几株植物的花盆——兜兰、羽叶藤芋、刺桐……
 阿尔瓦突然觉得有些奇怪——她一点儿都想不起来，自己为什么会认得这些植物。
-她也有些不记得......
-......自己到底是谁。
+她也有些不记得……
+……自己到底是谁。
 [Dialog]
 [PlaySound(key="$doorknockquite", volume=1)]
 [focusout(duration=0.7, type="bg", from=1, to=0, block=true)]
@@ -49,13 +49,13 @@
 [name="阿尔瓦"]知道了，马上就来！谢谢您，瑞吉纳婶婶。
 [Dialog]
 [charslot]
-[name="沉稳的女声"]小姐......您真的打算去见您那几个哥伦比亚的大学同学吗？
-[name="沉稳的女声"]现在街上很乱，我答应了您的父母，要在他们出差时照顾好您的生活......我真的不希望在您毕业前出什么岔子。
+[name="沉稳的女声"]小姐……您真的打算去见您那几个哥伦比亚的大学同学吗？
+[name="沉稳的女声"]现在街上很乱，我答应了您的父母，要在他们出差时照顾好您的生活……我真的不希望在您毕业前出什么岔子。
 [charslot(slot="m",name="avg_npc_2321_1#1$2",focus="m")]
 [name="阿尔瓦"]我会小心的瑞吉纳婶婶，但是爸爸妈妈也不会希望我当一个爽约的人不是吗？
 [Dialog]
 [charslot]
-[name="沉稳的女声"]好吧......答应我，一定要注意安全。
+[name="沉稳的女声"]好吧……答应我，一定要注意安全。
 [Dialog]
 [PlaySound(key="$d_avg_openftstpwalk", volume=1, loop=true, channel="o")]
 [StopSound(channel="o", fadetime=4)]
@@ -72,7 +72,7 @@
 [charslot(slot="m",name="avg_npc_2321_1#2$2",focus="m")]
 [name="阿尔瓦"]哈哈，也不差这几个小时嘛。我就是去喝一杯咖啡，回来后我们再继续，等着我！
 [charslot(slot="m",name="avg_npc_2321_1#2$2",focus="n")]
-[name="电话那头的声音"]......
+[name="电话那头的声音"]……
 [Dialog]
 [playsound(key="$transmission", volume=0.6)]
 [delay(time=1.5)]
@@ -104,7 +104,7 @@
 [charslot(slot="l",name="avg_1036_fang2_1#8$1",focus="l")]
 [name="卢西娅"]原来艾什莉小姐也需要提神，可这就奇怪了，我几乎没在实验室和图书馆里见过你啊？
 [charslot(slot="r",name="char_124_kroos_1#3",focus="r")]
-[name="艾什莉"]你怎么还在记恨我小组作业没帮忙的事啊，卢西娅......
+[name="艾什莉"]你怎么还在记恨我小组作业没帮忙的事啊，卢西娅……
 [charslot(slot="r",name="char_124_kroos_1#2",focus="r")]
 [name="艾什莉"]作为三人小队里唯一一个讨厌科研的人，我要申请庇护——阿尔瓦，帮帮我！
 [Dialog]
@@ -114,21 +114,21 @@
 [charslot(slot="m",name="avg_npc_2321_1#11$2",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_2321_1#11$2",focus="m")]
-[name="阿尔瓦"]呼......我......我来帮你......
+[name="阿尔瓦"]呼……我……我来帮你……
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",focus="m")]
 [name="卢西娅"]你今天只迟到了五分钟，稀奇。
 [charslot(slot="m",name="avg_npc_2321_1#11$2",focus="m")]
-[name="阿尔瓦"]对......对不起......来的路上堵车实在是太厉害，我最后只好跑过来了！
+[name="阿尔瓦"]对……对不起……来的路上堵车实在是太厉害，我最后只好跑过来了！
 [charslot(slot="m",name="avg_1036_fang2_1#8$1",focus="m")]
 [name="卢西娅"]好啦，喝点水，你看上去快晕倒了。
 [charslot(slot="m",name="avg_npc_2321_1#1$2",focus="m")]
-[name="阿尔瓦"]谢谢......
+[name="阿尔瓦"]谢谢……
 [Dialog]
 [PlaySound(key="$d_avg_drinkswllw")]
 [PlaySound(key="$d_avg_drinkswllw",loop=false,channel="1",delay=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
-[name="阿尔瓦"]呼......真奇怪，往年这个时候，多索雷斯不该热成这样的。
+[name="阿尔瓦"]呼……真奇怪，往年这个时候，多索雷斯不该热成这样的。
 [charslot(slot="m",name="char_124_kroos_1#1",focus="m")]
 [name="艾什莉"]你都这么多年没回来啦，还记得这里是什么样吗？
 [charslot(slot="m",name="avg_npc_2321_1#1$2",focus="m")]
@@ -136,14 +136,14 @@
 [charslot(slot="m",name="avg_1036_fang2_1#8$1",focus="m")]
 [name="卢西娅"]所以你还是决定毕业以后回玻利瓦尔，接手家里的生意？
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
-[name="阿尔瓦"]呃......说实话，我也没太考虑好。
+[name="阿尔瓦"]呃……说实话，我也没太考虑好。
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]爸爸当年从一个火车司机做起，打拼了这么多年才有了现在这些产业，可是......
+[name="阿尔瓦"]爸爸当年从一个火车司机做起，打拼了这么多年才有了现在这些产业，可是……
 [charslot(slot="m",name="avg_1036_fang2_1#10$1",focus="m")]
 [name="卢西娅"]可是说到底，你的研究才是你真正想做的事情吧？
-[name="卢西娅"]你真的不考虑留在哥伦比亚工作吗？大学里的研究水平更超前，你也不会受到......其他限制。
+[name="卢西娅"]你真的不考虑留在哥伦比亚工作吗？大学里的研究水平更超前，你也不会受到……其他限制。
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]限制......
+[name="阿尔瓦"]限制……
 [charslot(slot="m",name="char_124_kroos_1#1",focus="m")]
 [name="艾什莉"]欸，你们真的要在度假的时候考虑毕业前景吗？很破坏心情欸！你们看，我就一点都不担心。
 [charslot(slot="m",name="avg_1036_fang2_1#8$1",focus="m")]
@@ -153,7 +153,7 @@
 [name="艾什莉"]卢西娅不是也决定毕业之后回卡西米尔了嘛？
 [name="艾什莉"]唔，这样算来好像真的只有阿尔瓦你还没有做决定哦？
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]我......
+[name="阿尔瓦"]我……
 [Dialog]
 [charslot]
 [delay(time=0.3)]
@@ -171,9 +171,9 @@
 [charslot(slot="m",name="char_124_kroos_1#1",focus="m")]
 [name="艾什莉"]就在两条街开外？我有点好奇了。我们要不去“偶遇”一下这里的这位“大总统”？
 [charslot(slot="m",name="avg_1036_fang2_1#10$1",focus="m")]
-[name="卢西娅"]想什么呢......旅店戒备森严，怎么会让毫不相干的人溜进去。说起来，你知道大总统长什么样子吗，阿尔瓦？
+[name="卢西娅"]想什么呢……旅店戒备森严，怎么会让毫不相干的人溜进去。说起来，你知道大总统长什么样子吗，阿尔瓦？
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
-[name="阿尔瓦"]印象里，我好像在电视上见过......但不确定那只是他手下的一个发言人还是他本人。
+[name="阿尔瓦"]印象里，我好像在电视上见过……但不确定那只是他手下的一个发言人还是他本人。
 [charslot(slot="m",name="avg_1036_fang2_1#7$1",focus="m")]
 [name="卢西娅"]听说这位大总统非常得民心，在他上任后真正玻利瓦尔人军队的规模扩张了不少。
 [name="卢西娅"]我们点单的时候就连店老板都在说，玻利瓦尔可能真的要迎来和平了。
@@ -181,9 +181,9 @@
 [name="艾什莉"]唔，那为什么街对面的一些市民看上去还是有点紧张，和平不是好事吗？
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",focus="m")]
 [name="卢西娅"]当然是。
-[name="卢西娅"]可是没人知道，这些真正玻利瓦尔人带来的是什么样的和平......
+[name="卢西娅"]可是没人知道，这些真正玻利瓦尔人带来的是什么样的和平……
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -206,11 +206,11 @@
 [name="埃内斯托"]我可没有那么热衷于政治，坎黛拉女士。
 [name="埃内斯托"]直到现在，我也只是想找个阴凉的地方躲起来——就和您一样。
 [charslot(slot="l",name="avg_486_espumo_1#2",focus="l")]
-[name="埃内斯托"]您真的不打算应付一下那些堵在码头的记者了吗？恕我直言......您最近在报纸上的形象，可算不上好。
+[name="埃内斯托"]您真的不打算应付一下那些堵在码头的记者了吗？恕我直言……您最近在报纸上的形象，可算不上好。
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
 [name="坎黛拉"]“哥伦比亚人卑鄙的仆役”“将一己私欲置于国家利益之前的政客”“阻止玻利瓦尔统一的头号罪人”。
 [charslot(slot="r",name="avg_npc_198_1#4",focus="r")]
-[name="坎黛拉"]呵呵......这些罪名恐怕不是靠辩驳就能洗清的。
+[name="坎黛拉"]呵呵……这些罪名恐怕不是靠辩驳就能洗清的。
 [charslot(slot="l",name="avg_486_espumo_1#1",focus="l")]
 [name="埃内斯托"]现在绝大多数人都相信，您一直拖延联合统一的事宜是因为不甘将自己的城市拱手让人。
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
@@ -223,9 +223,9 @@
 [charslot(slot="r",name="avg_npc_198_1#5",focus="r")]
 [name="坎黛拉"]可听了这么多逸事，我脑中还是无法拼凑出大总统的形象。或者说，谁又能想象泰拉存在这么一个伟大的人物？
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
-[name="坎黛拉"]他到底是一个军事奇才？一个油滑的政客？一个傀儡？还是......一个符号？
+[name="坎黛拉"]他到底是一个军事奇才？一个油滑的政客？一个傀儡？还是……一个符号？
 [charslot(slot="l",name="avg_486_espumo_1#3",focus="l")]
-[name="埃内斯托"]您怀疑那位大总统......
+[name="埃内斯托"]您怀疑那位大总统……
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
 [name="坎黛拉"]我在怀疑，到底有没有人真正见过他。
 [name="坎黛拉"]我现在的处境的确不利，每一步都需要极为谨慎。就算是这样，多索雷斯也是我的城市，我可不打算糊里糊涂地把它交到别人手中。
@@ -234,12 +234,12 @@
 [charslot(slot="r",name="avg_npc_198_1#5",focus="r")]
 [name="坎黛拉"]你已经不是我的下属了，埃内斯托。你可以把这当作我对你的最后一个请求，如果你答应我，我也可以满足你的一个请求作为交换。
 [charslot(slot="l",name="avg_486_espumo_1#1",focus="l")]
-[name="埃内斯托"]哈哈，我可不敢求您什么事。如果非要说的话，我只想问问您......
+[name="埃内斯托"]哈哈，我可不敢求您什么事。如果非要说的话，我只想问问您……
 [name="埃内斯托"]在您看来，多索雷斯这座城市，还能否存在？
 [charslot(slot="r",name="avg_npc_198_1#5",focus="r")]
-[name="坎黛拉"]遗憾......我本来以为你会问我，你现在是否够格成为我的接班人。
+[name="坎黛拉"]遗憾……我本来以为你会问我，你现在是否够格成为我的接班人。
 [charslot(slot="l",name="avg_486_espumo_1#4",focus="l")]
-[name="埃内斯托"]......！
+[name="埃内斯托"]……！
 [charslot(slot="r",name="avg_npc_198_1#2",focus="r")]
 [name="坎黛拉"]这样虚无的问题我给不了你答案，这个请求我就当不作数了。
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
@@ -250,18 +250,18 @@
 [name="坎黛拉"]真正玻利瓦尔人进驻这座城市之后，无论和平与否，它都不会是我所期望的样子。我该去别处重新建立我的“多索雷斯”了。
 [name="坎黛拉"]不过，在正式签订联合统一合约之前，一切都没有定数。我是走是留，与你带回来的关于那位大总统的消息有关。
 [charslot(slot="l",name="avg_486_espumo_1#2",focus="l")]
-[name="埃内斯托"]......
+[name="埃内斯托"]……
 [name="埃内斯托"]您需要我做什么？
 [charslot(slot="r",name="avg_npc_198_1#4",focus="r")]
 [name="坎黛拉"]大总统先生自来到多索雷斯后就蛰居在旅馆，一直不曾露面。
 [name="坎黛拉"]我需要你将我的信送到大总统下榻的旅馆，里面包括即将举办的“解放庆典”邀请函以及联合统一涉及的诸多事项，务必让他亲手收下。
 [charslot(slot="l",name="avg_486_espumo_1#2",focus="l")]
-[name="埃内斯托"]如果那位总统不愿意见我......？
+[name="埃内斯托"]如果那位总统不愿意见我……？
 [charslot(slot="r",name="avg_npc_198_1#5",focus="r")]
 [name="坎黛拉"]我不知道真正玻利瓦尔人的总统会以什么样的理由拒绝见一个老军人的儿子。
 [name="坎黛拉"]如果他真的这样做了，人们反而可以想想，是不是该相信他是真心想为玻利瓦尔带来和平。
 [charslot(slot="l",name="avg_486_espumo_1#1",focus="l")]
-[name="埃内斯托"]......我明白了。
+[name="埃内斯托"]……我明白了。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -274,12 +274,12 @@
 [PlaySound(key="$d_gen_transmissionget",volume=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
-[name="阿尔瓦"]对，我试了。如果停止滴水降温，植物的温度还是会升高......
+[name="阿尔瓦"]对，我试了。如果停止滴水降温，植物的温度还是会升高……
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="n")]
 [name="电话那头的声音"]难办。
 [name="电话那头的声音"]或许我们应该采集已经发生自燃的植物样本作为研究对象。不过今天好像没有听到植物自燃的新闻？
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
-[name="阿尔瓦"]没有新闻也是好事......
+[name="阿尔瓦"]没有新闻也是好事……
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="n")]
 [name="电话那头的声音"]好事？
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
@@ -293,7 +293,7 @@
 [name="电话那头的声音"]已经被传染的植物尚不知情，在温度达到一定数值之后，无论它是否愿意都会化成一把大火。
 [name="电话那头的声音"]火苗连接着一片又一片的草木，变成一片绿色的、红色的海。
 [charslot(slot="m",name="avg_npc_2321_1#9$2",focus="m")]
-[name="阿尔瓦"]你在说什么啊......
+[name="阿尔瓦"]你在说什么啊……
 [Dialog]
 [charslot]
 [PlaySound(key="$doorknockquite")]
@@ -303,7 +303,7 @@
 [charslot(slot="m",name="avg_npc_2321_1#9$2",focus="n")]
 [name="电话那头的声音"]不要开门。
 [charslot(slot="m",name="avg_npc_2321_1#9$2",focus="m")]
-[name="阿尔瓦"]......什么？
+[name="阿尔瓦"]……什么？
 [Dialog]
 [charslot]
 [PlaySound(key="$doorknockquite", volume=1, loop=true, channel="kn")]
@@ -317,7 +317,7 @@
 [PlaySound(key="$dooropenquite",volume=1,delay=1.5)]
 [charslot(duration=0.7)]
 [delay(time=1.5)]
-[name="？？？"]见鬼，这温室还是这么热......
+[name="？？？"]见鬼，这温室还是这么热……
 [name="？？？"]你倒是变化不小，现在看上去简直像个哥伦比亚人了，阿尔瓦。
 [charslot(slot="m",name="avg_npc_2321_1#9$2",focus="m")]
 [name="阿尔瓦"]曼努埃尔？
@@ -338,7 +338,7 @@
 [charslot(slot="l",name="avg_npc_2321_1#6$2",focus="l")]
 [name="阿尔瓦"]为什么？！
 [charslot(slot="l",name="avg_npc_2321_1#9$2",focus="l")]
-[name="阿尔瓦"]你的爸爸......迪戈叔叔不是对我们说过，永远不要被卷入战争吗？
+[name="阿尔瓦"]你的爸爸……迪戈叔叔不是对我们说过，永远不要被卷入战争吗？
 [charslot(slot="r",name="avg_npc_2323_1#1$1",focus="r")]
 [name="曼努埃尔"]不要再提那个软弱的男人！
 [name="曼努埃尔"]他的战友用命换来了他的命，可他居然只是得出了要逃离战场的结论。我都替塞拉小姐不值！
@@ -346,12 +346,12 @@
 [charslot(slot="r",name="avg_npc_2323_1#1$1",focus="n")]
 阿尔瓦从她曾经的友人进屋时就注意到了他脸上的红色油彩，比阿尔瓦所知的要鲜艳得多。
 [charslot(slot="l",name="avg_npc_2321_1#9$2",focus="l")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [charslot(slot="r",name="avg_npc_2323_1#1$1",focus="r")]
 [name="曼努埃尔"]你那是什么眼神？在哥伦比亚待久了，你觉得这些事都和你无关了？
 [name="曼努埃尔"]你打算之后替联合政府工作？还是说不打算回玻利瓦尔了？
 [charslot(slot="l",name="avg_npc_2321_1#11$2",focus="l")]
-[name="阿尔瓦"]不......不是这样......
+[name="阿尔瓦"]不……不是这样……
 [charslot(slot="r",name="avg_npc_2323_1#1$1",focus="r")]
 [name="曼努埃尔"]我这次来，是看在你我曾是朋友的分上提醒你，你的家庭、你的学历、你研究的那些植物，都很危险，明白吗？
 [name="曼努埃尔"]它们让人看不清楚你到底会站哪边，但你只能选一条路。
@@ -364,7 +364,7 @@
 [charslot(slot="l",name="avg_npc_2321_1#6$2",focus="l")]
 [name="阿尔瓦"]等等，曼努埃尔！
 [charslot(slot="l",name="avg_npc_2321_1#9$2",focus="l")]
-[name="阿尔瓦"]在“解放”多索雷斯之后，你......你们之后会做什么？
+[name="阿尔瓦"]在“解放”多索雷斯之后，你……你们之后会做什么？
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_runstop", volume=1)]
@@ -379,7 +379,7 @@
 [charslot(duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -458,13 +458,13 @@
 [charslot(slot="r",name="avg_npc_193",focus="l")]
 [name="埃内斯托"]塔吉克叔叔，我听拉菲艾拉说，你们因私藏军火被关进了监狱？
 [charslot(slot="r",name="avg_npc_193",focus="r")]
-[name="塔吉克"]在大总统统一真正玻利瓦尔人内部时，坎黛拉就把我们放了出来。精明的女人......
+[name="塔吉克"]在大总统统一真正玻利瓦尔人内部时，坎黛拉就把我们放了出来。精明的女人……
 [name="塔吉克"]你还在替她做事？
 [charslot(slot="l",name="avg_486_espumo_1#1",focus="l")]
 [name="埃内斯托"]不。
 [name="埃内斯托"]我只是想向大总统确认，现在的真正玻利瓦尔人是否真的能给多索雷斯带来和平。
 [charslot(slot="r",name="avg_npc_193",focus="r")]
-[name="塔吉克"]......
+[name="塔吉克"]……
 [name="塔吉克"]你不会得到答案的。
 [charslot(slot="l",name="avg_486_espumo_1#4",focus="l")]
 [name="埃内斯托"]您不赞成真正玻利瓦尔人的做法？
@@ -473,7 +473,7 @@
 [name="塔吉克"]我依旧希望上校能重新回归真正玻利瓦尔人，这里应当是他的城市，我们的城市。
 [name="塔吉克"]我只是说，你不会从大总统那儿得到答案。
 [charslot(slot="l",name="avg_486_espumo_1#2",focus="l")]
-[name="埃内斯托"]......
+[name="埃内斯托"]……
 [charslot(slot="l",name="avg_486_espumo_1#1",focus="l")]
 [name="埃内斯托"]我明白了。
 [charslot(slot="r",name="avg_npc_193",focus="r")]
@@ -514,7 +514,7 @@
 埃内斯托将耳朵贴在发皱的墙纸上听——
 还是寂静。
 [charslot(slot="m",name="avg_486_espumo_1#4",focus="m")]
-[name="埃内斯托"]坎黛拉女士的怀疑是正确的。我该告诉她，还是......
+[name="埃内斯托"]坎黛拉女士的怀疑是正确的。我该告诉她，还是……
 [Dialog]
 [charslot]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -524,7 +524,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_486_espumo_1#4",focus="m")]
-[name="埃内斯托"]......
+[name="埃内斯托"]……
 [Dialog]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
@@ -545,9 +545,9 @@
 [delay(time=1)]
 [charslot(slot="l",name="avg_npc_201",focus="r")]
 [charslot(slot="r",name="avg_npc_202",focus="r")]
-[name="女性平民"]呼......我们距离解放庆典的现场还有多远？
+[name="女性平民"]呼……我们距离解放庆典的现场还有多远？
 [charslot(slot="l",name="avg_npc_201",focus="l")]
-[name="男性平民"]距离是不远，可这里的人实在太多了，旁边那名游客的汗都蹭到我身上了......
+[name="男性平民"]距离是不远，可这里的人实在太多了，旁边那名游客的汗都蹭到我身上了……
 [Dialog]
 [PlaySound(key="$d_gen_soldiersrun",volume=0.5)]
 [charslot(slot="l",name="avg_npc_2323_1#1$1",posfrom="-150,0", posto="-150,0",duration=1)]
@@ -575,7 +575,7 @@
 [charslot(slot="r",name="avg_npc_202",focus="r")]
 [name="女性平民"]好奇怪的礼炮声，解放庆典已经开始了吗？
 [charslot(slot="l",name="avg_npc_201",focus="l")]
-[name="男性平民"]不对......那好像是手铳的声音！我们赶紧——
+[name="男性平民"]不对……那好像是手铳的声音！我们赶紧——
 [Dialog]
 [charslot]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -598,7 +598,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
-[name="坎黛拉"]真正玻利瓦尔人的军队正在沙滩上集结，一片绿色的人造海......
+[name="坎黛拉"]真正玻利瓦尔人的军队正在沙滩上集结，一片绿色的人造海……
 [charslot(slot="l",name="avg_486_espumo_1#7",focus="l")]
 [name="埃内斯托"]大总统先生不会来了。
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
@@ -626,8 +626,8 @@
 [charslot(slot="r",name="avg_npc_198_1#3",focus="r")]
 [name="坎黛拉"]但这里，结束了。真正玻利瓦尔人只会将这里变成另一座战争据点，我没有兴趣做他们的垫脚石。
 [charslot(slot="l",name="avg_486_espumo_1#2",focus="l")]
-[name="埃内斯托"]......
-[name="埃内斯托"]坎黛拉女士，您说您只是给了多索雷斯人他们想要的东西，但如果我想让多索雷斯变成......我想要的样子呢？
+[name="埃内斯托"]……
+[name="埃内斯托"]坎黛拉女士，您说您只是给了多索雷斯人他们想要的东西，但如果我想让多索雷斯变成……我想要的样子呢？
 [charslot(slot="r",name="avg_npc_198_1#4",focus="r")]
 [name="坎黛拉"]那你就是一个比我更有野心的人。
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
@@ -647,11 +647,11 @@
 [charslot(slot="l",name="avg_486_espumo_1#7",focus="l")]
 [name="埃内斯托"]还差一口气。这也是我来找您的原因。
 [charslot(slot="r",name="avg_npc_198_1#1",focus="r")]
-[name="坎黛拉"]......
+[name="坎黛拉"]……
 [charslot(slot="l",name="avg_486_espumo_1#4",focus="l")]
 [name="埃内斯托"]您说过，在庆典结束之前，我还可以向您索要一份“礼物”，对吗？
 [charslot(slot="r",name="avg_npc_198_1#3",focus="r")]
-[name="坎黛拉"]哈......哈哈！
+[name="坎黛拉"]哈……哈哈！
 [charslot(slot="r",name="avg_npc_198_1#4",focus="r")]
 [name="坎黛拉"]真是我的好学生啊，埃内斯托。
 [Dialog]
@@ -704,7 +704,7 @@
 [charslot(slot="m",name="avg_npc_193",focus="m")]
 [name="塔吉克"]不，上校。这次的劫狱计划不是我们制定的，而是埃内斯托。
 [charslot(slot="m",name="avg_npc_192_1#4",focus="m")]
-[name="潘乔"]埃内斯托......
+[name="潘乔"]埃内斯托……
 [Dialog]
 [charslot]
 [name="？？？"]不可置信对吧？
@@ -725,7 +725,7 @@
 [charslot(slot="m",name="avg_486_espumo_1#1",focus="m")]
 [name="埃内斯托"]学了一些在不得不直面问题的时候，能行之有效的方法。
 [charslot(slot="m",name="avg_npc_192_1#1",focus="m")]
-[name="潘乔"]......你跟上次我见你的时候不一样了。
+[name="潘乔"]……你跟上次我见你的时候不一样了。
 [charslot(slot="m",name="avg_486_espumo_1#1",focus="m")]
 [name="埃内斯托"]是吗？
 [name="埃内斯托"]我倒是清楚自己依旧没有想明白未来要做的事，不过现在恐怕没有时间再挨老爹你的骂了。
@@ -741,7 +741,7 @@
 [charslot]
 潘乔探寻地看向埃内斯托握刀的惯用手，对方将手早早地藏在背后，潘乔看不清他的衣袖上是否真的沾着血渍。
 [charslot(slot="m",name="avg_npc_192_1#5",focus="m")]
-[name="潘乔"]......
+[name="潘乔"]……
 [charslot(slot="m",name="avg_npc_192_1#2",focus="m")]
 [name="潘乔"]我明白了。
 [charslot(slot="m",name="avg_486_espumo_1#7",focus="m")]
@@ -762,7 +762,7 @@
 [charslot(slot="m",name="avg_npc_192_1#7",focus="m")]
 [name="潘乔"]而且上校只有在军人的队伍里，才能算作一名上校，广播站只属于多索雷斯的新市长。
 [charslot(slot="m",name="avg_486_espumo_1#3",focus="m")]
-[name="埃内斯托"]......
+[name="埃内斯托"]……
 [charslot(slot="m",name="avg_486_espumo_1#2",focus="m")]
 [name="埃内斯托"]可我还没想清楚未来究竟要做什么。
 [name="埃内斯托"]我不能接受你的做法，也不想看到骄奢淫逸把一些好人变成无可救药的样子。
@@ -772,7 +772,7 @@
 [charslot(slot="m",name="avg_421_laplum_1#7",focus="m")]
 [name="拉菲艾拉"]（小声）爸爸，你还记得之前答应我的事吗？有些话你对我说，也要对哥哥说。
 [charslot(slot="m",name="avg_npc_192_1#5",focus="m")]
-[name="潘乔"]......
+[name="潘乔"]……
 [charslot(slot="m",name="avg_421_laplum_1#7",focus="m")]
 [name="拉菲艾拉"]（小声）快说呀。
 [charslot(slot="m",name="avg_npc_192_1#1",focus="m")]
@@ -783,7 +783,7 @@
 [charslot(slot="m",name="avg_npc_192_1#7",focus="m")]
 [name="潘乔"]去做你想做的吧。
 [charslot(slot="m",name="avg_486_espumo_1#3",focus="m")]
-[name="埃内斯托"]......
+[name="埃内斯托"]……
 [charslot(slot="m",name="avg_486_espumo_1#1",focus="m")]
 [name="埃内斯托"]谢谢你，老爹。
 [Dialog]
@@ -800,11 +800,11 @@
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
-[name="阿尔瓦"]十二种实验方案全都行不通，高温和湿度、油性分泌物、光合作用的生物能量......我们几乎考虑了所有可能。
+[name="阿尔瓦"]十二种实验方案全都行不通，高温和湿度、油性分泌物、光合作用的生物能量……我们几乎考虑了所有可能。
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="n")]
-[name="电话那头的声音"]我知道......我们失败了。
+[name="电话那头的声音"]我知道……我们失败了。
 [charslot(slot="m",name="avg_npc_2321_1#1$2",focus="m")]
-[name="阿尔瓦"]失败了？不......我们能想出办法来的。
+[name="阿尔瓦"]失败了？不……我们能想出办法来的。
 [name="阿尔瓦"]至少现在我们已经研发出了一套滴灌装置，虽然要手动调控滴灌速度，但有它的话至少可以保证持续降温。
 [charslot(slot="m",name="avg_npc_2321_1#1$2",focus="n")]
 [name="电话那头的声音"]如果这套装置能投入使用，还有像你一样的人能一直看着它的话，多索雷斯也许不会再发生第四起植物自燃事件了。
@@ -816,13 +816,13 @@
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="n")]
 [name="电话那头的声音"]至少现在我们先测试一下，好吗，阿尔瓦？
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]我......
+[name="阿尔瓦"]我……
 [dialog]
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="n")]
 [PlaySound(key="$d_avg_glass_break", volume=1)] 
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2321_1#9$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [dialog]
 [charslot]
 一块石头，砸碎了温室的玻璃。瑞吉纳婶婶在这一个月里，已经叫了五次维修工来处理这类荒唐的事情。
@@ -835,7 +835,7 @@
 [name="沉稳的女声"]小姐，您还好吗？您听到新闻了吗，真正玻利瓦尔人的大总统被刺杀了。
 [name="沉稳的女声"]不知道为什么温室的电话一直占线，您的朋友刚刚打电话来，说她们马上就要走了。
 [name="沉稳的女声"]多索雷斯的动乱很严重，各国政府都在派飞行器撤离民众。
-[name="沉稳的女声"]您最近千万别出门，也别往窗外看，街上......唉，街上......
+[name="沉稳的女声"]您最近千万别出门，也别往窗外看，街上……唉，街上……
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
 [name="阿尔瓦"]我知道了，瑞吉纳婶婶。
 [dialog]
@@ -844,28 +844,28 @@
 [StopSound(channel="o", fadetime=4)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="n")]
 [name="电话那头的声音"]瑞吉纳婶婶说得没错。
 [name="电话那头的声音"]阿尔瓦，我们可以开始测试了吗？
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="n")]
 [name="电话那头的声音"]阿尔瓦？
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [charslot(slot="m",name="avg_npc_2321_1#5$2",focus="n")]
 [name="电话那头的声音"]阿尔瓦。
 [name="电话那头的声音"]不要出门。
 [charslot(slot="m",name="avg_npc_2321_1#11$2",focus="m")]
-[name="阿尔瓦"]很抱歉......很抱歉我们的实验失败了。
+[name="阿尔瓦"]很抱歉……很抱歉我们的实验失败了。
 [name="阿尔瓦"]可能是因为我一直在研究的时候走神，一直想听窗外的声音。
 [name="阿尔瓦"]等我几个小时好吗？我只是想去跟我的朋友们道别。
 [charslot(slot="m",name="avg_npc_2321_1#11$2",focus="n")]
-[name="电话那头的声音"]......
+[name="电话那头的声音"]……
 [name="电话那头的声音"]你还是要选择这一条路。
 [charslot(slot="m",name="avg_npc_2321_1#11$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [name="阿尔瓦"]很快就回来。
 [dialog]
 [playsound(key="$transmission", volume=0.4)]
@@ -889,11 +889,11 @@
 [name="惊慌的平民"]快，快回家，不要被穿军装的人逮住，他们根本不在意你是哪里人。
 [name="绝望的平民"]到处都是士兵，我们走不掉的，走不掉的！
 [name="走失的孩子"]（哭泣）
-[name="愤怒的平民"]谁把自己的孩子都丢下了！不哭了，小可怜，先跟阿姨回家......会没事的。
+[name="愤怒的平民"]谁把自己的孩子都丢下了！不哭了，小可怜，先跟阿姨回家……会没事的。
 [name="走失的孩子"]（哭泣）
 [Dialog]
 [charslot(slot="m",name="avg_npc_2321_1#11$2",focus="m")]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(duration=1)]
@@ -909,23 +909,23 @@
 [charslot(slot="l",name="avg_npc_2323_1#1$1",focus="l")]
 [name="愤怒的士兵"]你刚刚说的是哥伦比亚语？
 [charslot(slot="r",name="avg_npc_202",focus="r")]
-[name="恐惧的平民"]我、我只是在给那个游客指路......
+[name="恐惧的平民"]我、我只是在给那个游客指路……
 [Dialog]
 [charslot(slot="l",name="avg_npc_2323_1#1$1",focus="l")]
 [PlaySound(key="$d_avg_drawswordlong")]
 [Delay(time=1)]
 [charslot(slot="r",name="avg_npc_202",focus="r")]
 [charslot(slot = "r", action="shake",random=true, power=5, times=60,duration=0.3,focus="r")]
-[name="恐惧的平民"]天啊！别、别拿刀对着我！我不是故意的......我不会再这么做了！
+[name="恐惧的平民"]天啊！别、别拿刀对着我！我不是故意的……我不会再这么做了！
 [charslot(slot="l",name="avg_npc_2323_1#1$1",focus="l")]
 [name="愤怒的士兵"]只是指路？
 [name="愤怒的士兵"]你的手表和项链是哥伦比亚的时髦货啊，怎么，打算移民吗？
 [charslot(slot="r",name="avg_npc_202",focus="r")]
-[name="恐惧的平民"]没有、没有......求求您了，让我回家吧！
+[name="恐惧的平民"]没有、没有……求求您了，让我回家吧！
 [charslot(slot="l",name="avg_npc_2323_1#1$1",focus="l")]
 [name="愤怒的士兵"]让你回家？然后为哥伦比亚花更多的钱，替联合政府的机构工作，然后对玻利瓦尔冷嘲热讽？！
 [charslot(slot="r",name="avg_npc_202",focus="r")]
-[name="恐惧的平民"]这里是我的家啊......我怎么会冷嘲热讽......求求您了......
+[name="恐惧的平民"]这里是我的家啊……我怎么会冷嘲热讽……求求您了……
 [Dialog]
 [charslot]
 [name="？？？"]放开她！
@@ -935,11 +935,11 @@
 [charslot(slot="m",name="avg_npc_2321_1#8$2",focus="m")]
 [name="阿尔瓦"]这就是你选择的“事业”，曼努埃尔。
 [charslot(slot="m",name="avg_npc_2323_1#1$1",focus="m")]
-[name="曼努埃尔"]阿尔瓦......
+[name="曼努埃尔"]阿尔瓦……
 [charslot(slot="m",name="avg_npc_2321_1#3$2",focus="m")]
 [name="阿尔瓦"]回家去吧，朋友。
 [charslot(slot="m",name="avg_npc_202",focus="m")]
-[name="恐惧的平民"]谢谢......谢谢您......
+[name="恐惧的平民"]谢谢……谢谢您……
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
 [charslot(duration=1)]
@@ -952,7 +952,7 @@
 [charslot(slot="l",name="avg_npc_2321_1#4$2",focus="l")]
 [name="阿尔瓦"]看看你身上溅到的血迹，你、你们都快被染成黑色了。
 [charslot(slot="r",name="avg_npc_2323_1#1$1",focus="r")]
-[name="曼努埃尔"]我......
+[name="曼努埃尔"]我……
 [charslot(slot="l",name="avg_npc_2321_1#8$2",focus="l")]
 [name="阿尔瓦"]你来找我的时候，我确实没法做出选择，我知道哥伦比亚更安全，玻利瓦尔的局势更复杂。如果可以，我只想永远躲在温室里研究花草。
 [name="阿尔瓦"]但窗外的尖叫声，士兵的手铳声，让我突然明白我无法做到心安理得地定居哥伦比亚，把家乡发生的一切当作收音机里听到的一条新闻。
@@ -965,14 +965,14 @@
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
 [name="冷酷的士官"]怎么回事？
 [charslot(slot="m",name="avg_npc_2323_1#1$1",focus="m")]
-[name="曼努埃尔"]长、长官......
+[name="曼努埃尔"]长、长官……
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
 [name="冷酷的士官"]她是你的朋友？
 [charslot(slot="m",name="avg_npc_2323_1#1$1",focus="m")]
 [name="曼努埃尔"]不不不长官，她就是我跟您说过的那个从哥伦比亚留学回来之后，完全不关心玻利瓦尔现状的人。
 [name="曼努埃尔"]我们怎么可能是朋友，我们早就绝交了呀！
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
-[name="冷酷的士官"]哥伦比亚留学回来......在大总统遇刺的前几天？
+[name="冷酷的士官"]哥伦比亚留学回来……在大总统遇刺的前几天？
 [charslot(slot="m",name="avg_npc_2323_1#1$1",focus="m")]
 [name="曼努埃尔"]您觉得她可疑？可——
 [charslot(slot="m",name="avg_npc_2322_1#1$1",focus="m")]
@@ -985,12 +985,12 @@
 士官扔给士兵一把手铳，士兵从没用过、甚至仔细看过这种武器。抓住铳柄的时候，他仿佛被烫到了一样。
 士官冰冷的眼神和多索雷斯灼人的烈日交替拷问着士兵，汗水浸透了他的制服。
 [charslot(slot="m",name="avg_npc_2323_1#1$1",focus="m")]
-[name="曼努埃尔"]我、我......
+[name="曼努埃尔"]我、我……
 [charslot(slot="m",name="avg_npc_2321_1#8$2",focus="m")]
 [name="阿尔瓦"]曼努埃尔？
 [charslot(slot="m",name="avg_npc_2323_1#1$1",focus="m")]
-[name="曼努埃尔"]......
-[name="曼努埃尔"]哈哈......哈......我不是软弱的人，我选对了，我选对了的呀......有什么好怕的。
+[name="曼努埃尔"]……
+[name="曼努埃尔"]哈哈……哈……我不是软弱的人，我选对了，我选对了的呀……有什么好怕的。
 [charslot(slot="m",name="avg_npc_2321_1#4$2",focus="m")]
 [name="阿尔瓦"]曼努埃尔！
 [Dialog]
@@ -1015,8 +1015,8 @@
 [charslot(slot="m",name="avg_1036_fang2_1#10$1",focus="m")]
 [name="卢西娅"]你听到什么声音了吗？
 [charslot(slot="m",name="char_124_kroos_1#3",focus="m")]
-[name="艾什莉"]又有人被射杀了......
-[name="艾什莉"]我不应该给瑞吉纳婶婶打电话的......万一瑞吉纳婶婶告诉阿尔瓦这个消息，以她的性格肯定会来给我们送行，说不定现在已经出门了......
+[name="艾什莉"]又有人被射杀了……
+[name="艾什莉"]我不应该给瑞吉纳婶婶打电话的……万一瑞吉纳婶婶告诉阿尔瓦这个消息，以她的性格肯定会来给我们送行，说不定现在已经出门了……
 [name="艾什莉"]不行，我要去找她。
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$1",bstart=0.2,bend=0.7,focus="m")]
 [name="？？？"]别去。
@@ -1047,11 +1047,11 @@
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",focus="m")]
 [name="卢西娅"]和平不会来得那么快的，艾什莉。
 [charslot(slot="m",name="char_124_kroos_1#3",focus="m")]
-[name="艾什莉"]......
+[name="艾什莉"]……
 [charslot(slot="m",name="avg_1036_fang2_1#7$1",focus="m")]
 [name="卢西娅"]我们走吧，或许瑞吉纳婶婶拦住了阿尔瓦或者根本没把我们的口信捎给她，毕竟这里太危险了。
 [charslot(slot="m",name="char_124_kroos_1#3",focus="m")]
-[name="艾什莉"]我明白，走吧......
+[name="艾什莉"]我明白，走吧……
 [Dialog]
 [PlaySound(key="$d_avg_openftstpwalk", volume=1, loop=true, channel="o")]
 [StopSound(channel="o", fadetime=2)]
@@ -1063,14 +1063,14 @@
 [charslot(duration=0.7)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4229_aphris_1#1$1",bstart=0.2,bend=0.7,focus="m")]
-[name="？？？"]......
+[name="？？？"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)] 
 [charslot]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
-[name="阿尔瓦"]......
+[name="阿尔瓦"]……
 阿尔瓦倒在多索雷斯的街道上。
 人们来来往往，有些士兵在欢呼这座城市的解放，有些市民因不用再受折磨喜极而泣。
 隔着人群她看到一对绿色的眼睛。
@@ -1085,7 +1085,7 @@
 她想起来了，这声音来自温室电话的另一端。
 她们曾花了几个日夜研究植物，她们已经成为了最亲近的朋友，也是那个人一而再、再而三地阻止自己走出房门。
 可那个人是谁？
-阿尔瓦的意识逐渐消散，她回想不起她们如何相识，甚至连那个人的声音都逐渐遗忘......
+阿尔瓦的意识逐渐消散，她回想不起她们如何相识，甚至连那个人的声音都逐渐遗忘……
 阿尔瓦永久地睡去了。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -1109,9 +1109,9 @@
 [delay(time=2.5)]
 滴灌装置随着主人的离去停止运作。火苗从植物的根茎开始，点燃整株幼苗，将温室变为火海。
 [playsound(key="$d_avg_recorderglitch",volume=1)]
-[name="收音机"]......滋滋......《多索雷斯之声》......
-[name="收音机"]......多日连续高温让本市提前入夏，这也是多索雷斯气象记录史上最炎热的夏季，气象专家表示今日气温已到达预测顶峰......
-[name="收音机"]......多索雷斯近期发生多起植物自燃事件，该现象或与......滋滋......有关，请广大市民小心......
+[name="收音机"]……滋滋……《多索雷斯之声》……
+[name="收音机"]……多日连续高温让本市提前入夏，这也是多索雷斯气象记录史上最炎热的夏季，气象专家表示今日气温已到达预测顶峰……
+[name="收音机"]……多索雷斯近期发生多起植物自燃事件，该现象或与……滋滋……有关，请广大市民小心……
 [Dialog]
 [StopSound(channel="a", fadetime=3.5)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

@@ -10,11 +10,11 @@
 [character(name="char_249_muesys_1#5")]
 [name="缪尔赛思"]你有多久没回来了，塞雷娅主任？
 [character(name="avg_npc_532_1#6$1")]
-[name="塞雷娅"]......嗯？
+[name="塞雷娅"]……嗯？
 [character(name="char_249_muesys_1#4")]
 [name="缪尔赛思"]走神了？
 [character(name="char_249_muesys_1#4")]
-[name="缪尔赛思"]真是难得啊......在想基地里的事？
+[name="缪尔赛思"]真是难得啊……在想基地里的事？
 [character(name="avg_npc_532_1#1$1")]
 [name="塞雷娅"]你还记得海顿一号实验室吗？
 [character(name="char_249_muesys_1#4")]
@@ -28,15 +28,15 @@
 [character(name="avg_npc_532_1#10$1")]
 [name="塞雷娅"]这意味着，稍有不慎，莱茵生命就会变成下一处废墟。
 [character(name="char_249_muesys_1#4")]
-[name="缪尔赛思"]要是真的失败了的话......斐尔迪南也会变成躺在废墟里的尸体吧？他的真实死因甚至不会出现在报纸上。
+[name="缪尔赛思"]要是真的失败了的话……斐尔迪南也会变成躺在废墟里的尸体吧？他的真实死因甚至不会出现在报纸上。
 [character(name="avg_npc_532_1#9$1")]
 [name="塞雷娅"]斐尔迪南没有退路了。这次实验，他只能成功。
 [character(name="char_249_muesys_1#4")]
-[name="缪尔赛思"]唔......
+[name="缪尔赛思"]唔……
 [character(name="char_249_muesys_1#4")]
 [name="缪尔赛思"]你是在担心赫默他们吗？
 [character(name="avg_npc_532_1#9$1")]
-[name="塞雷娅"]......
+[name="塞雷娅"]……
 [character(name="avg_npc_532_1#1$1")]
 [name="塞雷娅"]我是在分析风险。
 [character(name="char_249_muesys_1#5")]
@@ -65,7 +65,7 @@
 [name="缪尔赛思"]果然，这不是我的错觉。
 [Predicate(references="1;2;3")]
 [character(name="avg_npc_521_1#1$1")]
-[name="Mechanist"]......侦测到多具动力甲靠近的信号。
+[name="Mechanist"]……侦测到多具动力甲靠近的信号。
 [character(name="avg_npc_521_1#1$1")]
 [name="Mechanist"]博士，那位黎博利雇佣兵又追上来了。
 [character(name="avg_npc_532_1#8$1")]
@@ -89,11 +89,11 @@
 [Blocker(a=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [character(name="avg_npc_521_1#1$1")]
-[name="Mechanist"]......莱茵总部。
+[name="Mechanist"]……莱茵总部。
 [character(name="char_249_muesys_1#4")]
 [name="缪尔赛思"]最符合条件的还真是这里啊。
 [character(name="char_249_muesys_1#4")]
-[name="缪尔赛思"]在发现联络不上克丽斯腾之后，我去过她家，去过实验基地，还把她最常去的地方都找了个遍......
+[name="缪尔赛思"]在发现联络不上克丽斯腾之后，我去过她家，去过实验基地，还把她最常去的地方都找了个遍……
 [character(name="char_249_muesys_1#4")]
 [name="缪尔赛思"]所有莱茵职员都知道，总辖极少老老实实待在办公室里。
 [character(name="char_249_muesys_1#4")]
@@ -115,9 +115,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [PlayMusic(intro="$tense_intro", key="$tense_loop", volume=0.7, crossfade=1, delay=0.5)]
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]......抓住他们。
+[name="莱茵防卫科成员"]……抓住他们。
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]糟了......
+[name="桑尼"]糟了……
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]还愣着干什么？！
 [dialog]
@@ -130,7 +130,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
 [Delay(time=1)]
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]全体注意，实验区入口处出现异常情况，一名拓荒者和一名莱茵研究员......唔呃！
+[name="莱茵防卫科成员"]全体注意，实验区入口处出现异常情况，一名拓荒者和一名莱茵研究员……唔呃！
 [dialog]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=40, fadeout=true, block=false)]
 [PlaySound(key="$fightgeneral",volume=1)] 
@@ -141,9 +141,9 @@
 [character(fadetime=0.7)]
 [delay(time=1)]
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]到头来还是得动手伤人，我......
+[name="桑尼"]到头来还是得动手伤人，我……
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......正当防卫。我会为你作证。
+[name="埃琳娜"]……正当防卫。我会为你作证。
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]左边有紧急出口，我们往那里跑！先出去再说——
 [dialog]
@@ -169,7 +169,7 @@
 [character]
 [character(name="avg_1027_greyy2_1#7$2",fadetime=1)]
 [delay(time=1)]
-[name="格雷伊"]埃、埃琳娜小姐......
+[name="格雷伊"]埃、埃琳娜小姐……
 [character(name="avg_135_halo_1#7$1")]
 [name="埃琳娜"]我没有伤到你吧？
 [character(name="avg_1027_greyy2_1#9$2")]
@@ -181,7 +181,7 @@
 [delay(time=1)]
 [name="玛丽"]都不许动。
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]你是......
+[name="埃琳娜"]你是……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]特里蒙城警察局，玛丽·班纳。
 [character(name="avg_npc_527_1#1$1")]
@@ -189,7 +189,7 @@
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]嫌犯？
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]......玛丽。
+[name="桑尼"]……玛丽。
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]要逮到你可真不容易啊，对吧，“领队”先生？
 [character(name="avg_npc_527_1#5$1")]
@@ -204,11 +204,11 @@
 [character(name="avg_npc_528_1#1$1")]
 [name="莱茵防卫科成员"]抬起右手。
 [character(name="avg_npc_534_1#1$1")]
-[name="拓荒队成员"]......
+[name="拓荒队成员"]……
 [character(name="avg_npc_528_1#1$1")]
 [name="莱茵防卫科成员"]请抬起右手。
 [character(name="avg_108_silent_1#5$1")]
-[name="赫默"]......注射器？
+[name="赫默"]……注射器？
 [character(name="avg_108_silent_1#5$1")]
 [name="赫默"]等一下，你们打算做什么？
 [character(name="avg_npc_528_1#1$1")]
@@ -222,11 +222,11 @@
 [character(name="avg_128_plosis_1#1$1")]
 [name="白面鸮"]警告，流程与以往记录不符。
 [character(name="avg_108_silent_1#7$1")]
-[name="赫默"]你们的这种行为完全不符合规定......
+[name="赫默"]你们的这种行为完全不符合规定……
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]规定？我不需要一个......被逐出莱茵的研究员来教我什么是规定。
+[name="莱茵防卫科成员"]规定？我不需要一个……被逐出莱茵的研究员来教我什么是规定。
 [character(name="avg_108_silent_1#7$1")]
-[name="赫默"]唔......
+[name="赫默"]唔……
 [character]
 [name="多萝西"]那我呢？
 [dialog]
@@ -235,11 +235,11 @@
 [delay(time=1)]
 [name="多萝西"]我有没有资格要求你交出注射器？
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]弗兰克斯主任......
+[name="莱茵防卫科成员"]弗兰克斯主任……
 [character(name="avg_4048_doroth_1#3$1")]
 [name="多萝西"]我是359号基地的负责人。请立刻向我报告你们的行动目的。
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]......抱歉，主任。本基地的一切事务已由斐尔迪南主任接管。
+[name="莱茵防卫科成员"]……抱歉，主任。本基地的一切事务已由斐尔迪南主任接管。
 [character(name="avg_npc_528_1#1$1")]
 [name="莱茵防卫科成员"]没有他的命令，您也无权过问我们的行动。
 [character(name="avg_4048_doroth_1#3$1")]
@@ -252,17 +252,17 @@
 [PlaySound(key="$transmission", volume=0.9)]
 [delay(time=1)]
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]差不多够了......
+[name="莱茵防卫科成员"]差不多够了……
 [character(name="avg_npc_528_1#1$1")]
 [name="莱茵防卫科成员"]任务完成，全体撤退。
 [character(name="avg_108_silent_1#7$1")]
-[name="赫默"]......走了？
+[name="赫默"]……走了？
 [character(name="avg_128_plosis_1#1$1")]
 [name="白面鸮"]是的，防卫科的人正在飞速撤离基地。
 [character(name="avg_108_silent_1#7$1")]
-[name="赫默"]我本来以为他们要抓走拓荒者们......难道是我误解了斐尔迪南？
+[name="赫默"]我本来以为他们要抓走拓荒者们……难道是我误解了斐尔迪南？
 [character(name="avg_4048_doroth_1#1$1")]
-[name="多萝西"]斐尔迪南他......
+[name="多萝西"]斐尔迪南他……
 [character(name="avg_npc_534_1#1$1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=40, fadeout=true, block=false)]
 [name="拓荒队成员"]呃呃呃——！
@@ -276,26 +276,26 @@
 [character(name="avg_108_silent_1#4$1")]
 [name="赫默"]立刻实施救援！
 [character(name="avg_108_silent_1#5$1")]
-[name="赫默"]弗兰克斯主任，你知不知道该怎么应急处理......弗兰克斯主任？
+[name="赫默"]弗兰克斯主任，你知不知道该怎么应急处理……弗兰克斯主任？
 [character(name="avg_4048_doroth_1#1$1")]
-[name="多萝西"]......
+[name="多萝西"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [character(fadetime=0)]
 [Background(image="29_g4_corridor",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [character(name="avg_1027_greyy2_1#4$2")]
-[name="格雷伊"]女士，我还以为我们是来救桑尼先生的......
+[name="格雷伊"]女士，我还以为我们是来救桑尼先生的……
 [character(name="avg_npc_527_1#5$1")]
 [name="玛丽"]别以为那短短几句话就能让我改变看法！
 [character(name="avg_npc_535_1#1$1")]
-[name="桑尼"]......你收到我给你写的信了。
+[name="桑尼"]……你收到我给你写的信了。
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]博取同情的招数用过一次就没有效果了，罗马诺。
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]我只庆幸没让你逃出去，否则的话，我可不知道还会遇到什么“惊喜”。
 [character(name="avg_npc_535_1#8$1")]
-[name="桑尼"]你不相信我......
+[name="桑尼"]你不相信我……
 [character(name="avg_npc_527_1#5$1")]
 [name="玛丽"]我凭什么要相信你？！
 [character(name="avg_npc_527_1#1$1")]
@@ -303,19 +303,19 @@
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]然后你是怎么对我的？
 [character(name="avg_npc_535_1#8$1")]
-[name="桑尼"]我那时候快疯了，矿石病和保险费逼疯了我，我不得不......
+[name="桑尼"]我那时候快疯了，矿石病和保险费逼疯了我，我不得不……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]你打破了窗户，闯进我的房间，逼我把所有值钱的东西交给你——就为了那该死的保险费，你觉得交够了钱，他们就能让你回去当律师！
 [character(name="avg_npc_535_1#4$1")]
-[name="桑尼"]......
+[name="桑尼"]……
 [character(name="avg_npc_527_1#5$1")]
 [name="玛丽"]你知不知道奶奶受了多大惊吓，在那之后就一病不起？你还记不记得她有多喜欢你，从小对你比对我还要好？！
 [character(name="avg_npc_527_1#1$1")]
-[name="玛丽"]你又知不知道，在你因为害怕而匆匆一走了之后，我是怎么一边担心你被其他警察抓到，一边冒着丢工作的风险替你掩饰......
+[name="玛丽"]你又知不知道，在你因为害怕而匆匆一走了之后，我是怎么一边担心你被其他警察抓到，一边冒着丢工作的风险替你掩饰……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]你什么都不知道。
 [character(name="avg_npc_527_1#1$1")]
-[name="玛丽"]你就是个冷血自私的罪犯，我从来都不该对你心软......
+[name="玛丽"]你就是个冷血自私的罪犯，我从来都不该对你心软……
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]警长！
 [character(name="avg_135_halo_1#9$1")]
@@ -323,7 +323,7 @@
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]你在为这个绑架了你的人说情？
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]听我说，真正有问题的是莱茵生命......
+[name="埃琳娜"]听我说，真正有问题的是莱茵生命……
 [dialog]
 [character]
 [stopmusic(fadetime=3)]
@@ -331,11 +331,11 @@
 [CameraShake(duration=2, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=false)]
 [delay(time=2)]
 [character(name="avg_1027_greyy2_1#4$2")]
-[name="格雷伊"]这震动......
+[name="格雷伊"]这震动……
 [character(name="avg_npc_535_1#7$1")]
-[name="桑尼"]呃......是从里面传出来的？
+[name="桑尼"]呃……是从里面传出来的？
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......多萝西的实验室。
+[name="埃琳娜"]……多萝西的实验室。
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]跑！！！
 [Dialog]
@@ -348,11 +348,11 @@
 [CameraShake(duration=4, xstrength=10, ystrength=10, vibrato=20, randomness=30, fadeout=false)]
 [delay(time=2)]
 [character(name="avg_4048_doroth_1#1$1")]
-[name="多萝西"]真的......发生了......
+[name="多萝西"]真的……发生了……
 [character(name="avg_108_silent_1#7$1")]
-[name="赫默"]剧烈的震动......影响范围这么大......是天灾？
+[name="赫默"]剧烈的震动……影响范围这么大……是天灾？
 [character(name="avg_108_silent_1#7$1")]
-[name="赫默"]不，不是天灾，是实验室......
+[name="赫默"]不，不是天灾，是实验室……
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -375,7 +375,7 @@
 刹那间，一半楼层都已被吞吃殆尽。
 废墟之上，银白色将整个基地容纳入自己的怀抱。
 新生的庞然大物轻盈地转动着自己几何形的躯干，冷冷地注视着地面上的所有人。
-[name="多萝西"]......
+[name="多萝西"]……
 [dialog]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=false)]
@@ -384,7 +384,7 @@
 她知晓一切的原理，计算过所有的可能性。
 但她依然忘了呼吸，忘了眨眼，忘了脚下震颤的大地，以及周遭呼啸的狂风。
 她一直以来的梦想从一沓图纸、一句承诺变成了活生生的现实。
-[name="多萝西"]非常美丽......
+[name="多萝西"]非常美丽……
 但也异常恐怖。
 [playsound(key="$d_avg_rockfall", volume=0.6)]
 [playsound(key="$smallearthquake", volume=0.6)]
@@ -398,7 +398,7 @@
 [character(name="avg_108_silent_1#4$1")]
 [name="赫默"]快趴下——
 [character(name="avg_4048_doroth_1#4$1")]
-[name="多萝西"]......
+[name="多萝西"]……
 [character(name="avg_108_silent_1#4$1",name2="avg_4048_doroth_1#4$1")]
 [Dialog]
 [characteraction(name="left", type="jump", xpos=100, power=0, times=1, fadetime=0.1, block=true)]
@@ -421,13 +421,13 @@
 [Delay(time=2)]
 [character(name="avg_108_silent_1#4$1")]
 [CameraShake(duration=0.5, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="赫默"]你刚才站的位置非常危险......只差一点点，你就会被砖瓦砸伤！
+[name="赫默"]你刚才站的位置非常危险……只差一点点，你就会被砖瓦砸伤！
 [character(name="avg_4048_doroth_1#1$1")]
-[name="多萝西"]......来不及了。
+[name="多萝西"]……来不及了。
 [character(name="avg_108_silent_1#4$1")]
 [name="赫默"]什么来不及了？
 [character(name="avg_4048_doroth_1#2$1")]
-[name="多萝西"]医生，你没能真的阻止我。我的实验......还是成功了。
+[name="多萝西"]医生，你没能真的阻止我。我的实验……还是成功了。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [character(fadetime=0)]
@@ -438,17 +438,17 @@
 [character(name="avg_npc_522_1#6$1")]
 [name="斐尔迪南"]你很恐惧。
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]恐惧......呵呵，怎么会？多么震撼人心的成果啊！我、我衷心地为您......和弗兰克斯主任感到高兴。
+[name="莱茵防卫科成员"]恐惧……呵呵，怎么会？多么震撼人心的成果啊！我、我衷心地为您……和弗兰克斯主任感到高兴。
 [character(name="avg_npc_522_1#1$1")]
 [name="斐尔迪南"]你的牙齿正在打颤。
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]哈......哈哈......
+[name="莱茵防卫科成员"]哈……哈哈……
 [character(name="avg_npc_522_1#1$1")]
 [name="斐尔迪南"]很好。
 [character(name="avg_npc_522_1#1$1")]
 [name="斐尔迪南"]畏惧未知而庞大之物，这是弱小者的本能。
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]您说得对，在您的成果面前，我们的敌人......哥伦比亚的敌人都将感到恐惧，并为之颤抖！
+[name="莱茵防卫科成员"]您说得对，在您的成果面前，我们的敌人……哥伦比亚的敌人都将感到恐惧，并为之颤抖！
 [character(name="avg_npc_522_1#1$1")]
 [name="斐尔迪南"]威慑敌人？
 [character(name="avg_npc_522_1#1$1")]
@@ -458,7 +458,7 @@
 [character(name="avg_npc_522_1#1$1")]
 [name="斐尔迪南"]是时候进行下一个阶段的实验了。
 [character(name="avg_npc_528_1#1$1")]
-[name="莱茵防卫科成员"]......那会不会激怒它？基地里的人都会......
+[name="莱茵防卫科成员"]……那会不会激怒它？基地里的人都会……
 [character(name="avg_npc_522_1#6$1")]
 [name="斐尔迪南"]他们的付出是伟大的。
 [character(name="avg_npc_522_1#6$1")]
@@ -479,7 +479,7 @@
 [Background(image="29_g1_outdoorbase",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]这......是那些银色怪物？它们变得......如此巨大......
+[name="桑尼"]这……是那些银色怪物？它们变得……如此巨大……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]——
 [dialog]
@@ -514,11 +514,11 @@
 但它们并没有坠落。
 在银色光芒的包裹下，它们在同一个瞬间消失在了众人的视线里。
 [character(name="avg_npc_527_1#4$1")]
-[name="玛丽"]......这怪物会变魔术？
+[name="玛丽"]……这怪物会变魔术？
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]是分解。
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]好在它看起来很安静......
+[name="埃琳娜"]好在它看起来很安静……
 [dialog]
 [character]
 [delay(time=1)]
@@ -541,19 +541,19 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.25, block=true)]
 [delay(time=1)]
 [character(name="avg_npc_527_1#1$1")]
-[name="玛丽"]唔呃......那是能量炮？还是弩箭？从哪里发出来的......速度太快，连我都看不清楚......
+[name="玛丽"]唔呃……那是能量炮？还是弩箭？从哪里发出来的……速度太快，连我都看不清楚……
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]它的移动和攻击方式都无法用常理解释。
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]又或者......对它而言，移动和攻击根本就是一回事......
+[name="埃琳娜"]又或者……对它而言，移动和攻击根本就是一回事……
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]假设这真是......多萝西实验的最终完成品，那整个基地都被纳入了它的感知范围。
+[name="埃琳娜"]假设这真是……多萝西实验的最终完成品，那整个基地都被纳入了它的感知范围。
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]只要它产生了想法，它就能在瞬间改变自己认知域中的所有物体的物理性质......
+[name="埃琳娜"]只要它产生了想法，它就能在瞬间改变自己认知域中的所有物体的物理性质……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]换成好懂一点的说法，我们都成了一个发疯的小孩手里的橡皮泥，是吧？
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......差不多。
+[name="埃琳娜"]……差不多。
 [character(name="avg_135_halo_1#6$1")]
 [name="埃琳娜"]不要再攻击它，警长，否则的话，它会在几分钟内把整个基地夷为平地！
 [character]
@@ -570,19 +570,19 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [character(name="avg_135_halo_1#12$1")]
-[name="埃琳娜"]警长，你该不会......
+[name="埃琳娜"]警长，你该不会……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]我该不会还带着一批搭载大量爆破物的无人机？
 [character(name="avg_npc_527_1#5$1")]
 [name="玛丽"]怎么可能！
 [character(name="avg_1027_greyy2_1#7$2")]
-[name="格雷伊"]难道是那些莱茵生命的人......他们不会是来帮我们对付这个实验品的吧？
+[name="格雷伊"]难道是那些莱茵生命的人……他们不会是来帮我们对付这个实验品的吧？
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]当然不是。
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]你们还记得我刚才说的话吗？
 [character(name="avg_npc_535_1#7$1")]
-[name="桑尼"]......将整个基地夷为平地那部分？
+[name="桑尼"]……将整个基地夷为平地那部分？
 [character]
 [Dialog]
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -598,31 +598,31 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=1)]
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]已经开始了......
+[name="埃琳娜"]已经开始了……
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]是我眼花了吗？还是那辆吊车......变成了一个规则的球体？
+[name="桑尼"]是我眼花了吗？还是那辆吊车……变成了一个规则的球体？
 [character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]要不了多久，居住地也会遭殃！
 [character(name="avg_npc_527_1#4$1")]
-[name="玛丽"]该死，要是这个基地完蛋了，特里蒙......其他城市的人还都被蒙在鼓里。
+[name="玛丽"]该死，要是这个基地完蛋了，特里蒙……其他城市的人还都被蒙在鼓里。
 [character(name="avg_npc_527_1#5$1")]
 [name="玛丽"]他们不知道自己可能会在睡梦中被一群愚蠢科学家造出来的怪物揉成团！
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......
+[name="埃琳娜"]……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]我们必须马上离开这里。
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......消息。
+[name="埃琳娜"]……消息。
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]我们得把消息传出去。他早就想好了要走到这一步......
+[name="埃琳娜"]我们得把消息传出去。他早就想好了要走到这一步……
 [character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]到底谁要走到这一步？是多萝西·弗兰克斯指使的吗？
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]不，不是的。
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]——是一个骗了我很久，把我耍得团团转的人。
-[name="埃琳娜"]他想把你们拓荒者的遭遇......还有整个基地发生的事情全部抹消。
-[name="埃琳娜"]莱茵生命的人都有可能站在他那边......
+[name="埃琳娜"]他想把你们拓荒者的遭遇……还有整个基地发生的事情全部抹消。
+[name="埃琳娜"]莱茵生命的人都有可能站在他那边……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]警局大概也都被买通了。
 [character(name="avg_npc_535_1#11$1")]
@@ -630,13 +630,13 @@
 [character(name="avg_1027_greyy2_1#7$2")]
 [name="格雷伊"]埃琳娜小姐，您知道我们该把信息传给谁。
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......罗德岛。
+[name="埃琳娜"]……罗德岛。
 [character(name="avg_1027_greyy2_1#7$2")]
 [name="格雷伊"]我这就去找赫默医生。这将是我们本次行动最关键的任务。
 [character(name="avg_135_halo_1#6$1")]
-[name="埃琳娜"]那样的话， 你会被困在这里......你们甚至会有生命危险！
+[name="埃琳娜"]那样的话， 你会被困在这里……你们甚至会有生命危险！
 [character(name="avg_1027_greyy2_1#9$2")]
-[name="格雷伊"]......我相信博士，也相信您，埃琳娜小姐。
+[name="格雷伊"]……我相信博士，也相信您，埃琳娜小姐。
 [character(name="avg_1027_greyy2_1#9$2")]
 [name="格雷伊"]我们一定能做到。
 [dialog]
@@ -644,14 +644,14 @@
 [character(fadetime=1)]
 [delay(time=1.5)]
 [character(name="avg_135_halo_1#11$1")]
-[name="埃琳娜"]......相信我？
-[name="埃琳娜"]我能做的事......
+[name="埃琳娜"]……相信我？
+[name="埃琳娜"]我能做的事……
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]监控站......我得去监控站。
+[name="埃琳娜"]监控站……我得去监控站。
 [character(name="avg_npc_527_1#1$1")]
-[name="玛丽"]......需要搭车吗？
+[name="玛丽"]……需要搭车吗？
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]那边的载具......
+[name="埃琳娜"]那边的载具……
 [character(name="avg_npc_527_1#1$1")]
 [name="玛丽"]我问你们莱茵生命借的。
 [character(name="avg_npc_527_1#1$1")]
@@ -659,7 +659,7 @@
 [character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]能不能算我一个？
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]不管怎么说，警官，我还是你抓住的嫌犯......
+[name="桑尼"]不管怎么说，警官，我还是你抓住的嫌犯……
 [dialog]
 [character]
 玛丽没有回答，但是她向桑尼伸出了手。

@@ -81,7 +81,7 @@
 [Character(name="avg_npc_683_1#9$1")]
 [name="拉普兰德"]想要强行突破看起来不太现实啊。
 [Character(name="avg_npc_683_1#9$1")]
-[name="拉普兰德"]嗯......
+[name="拉普兰德"]嗯……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -90,7 +90,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_1028_texas2_1#2$1")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -107,7 +107,7 @@
 [Character(name="avg_npc_683_1#9$1")]
 [name="拉普兰德"]啊哈，有了。
 [Character(name="avg_npc_683_1#3$1")]
-[name="拉普兰德"]正面突破不行的话......那就造一条路出来。
+[name="拉普兰德"]正面突破不行的话……那就造一条路出来。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -140,7 +140,7 @@
 [playsound(key="$e_skill_skulsrsword",volume=0.7)]
 [Delay(time=1)]
 [Character(name="avg_npc_031")]
-[name="罗塞蒂家族成员"]咕......啊......
+[name="罗塞蒂家族成员"]咕……啊……
 [dialog]
 [playsound(key="$bodyfalldown1")]
 [character(fadetime=1)]
@@ -152,7 +152,7 @@
 [Character(name="avg_npc_698_1#1$1")]
 [name="贝洛内家族成员"]他们的准备很充分。
 [Character(name="avg_npc_690_1#8$1")]
-[name="德米特里"]不愧是罗塞蒂......
+[name="德米特里"]不愧是罗塞蒂……
 [Character(name="avg_npc_690_1#8$1")]
 [name="德米特里"]不过，我们从一开始就没有小看乔万娜。
 [Character(name="avg_npc_690_1#4$1")]
@@ -174,7 +174,7 @@
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [delay(time=3)]
 [Character(name="avg_npc_690_1#9$1")]
-[name="德米特里"]你是......瓦拉赫。
+[name="德米特里"]你是……瓦拉赫。
 [Character(name="avg_npc_695_1#1$1")]
 [name="瓦拉赫"]哼，早知道今天演的是这样一出好戏，我就不费劲去给首领拿酒了。
 [Character(name="avg_npc_690_1#1$1")]
@@ -239,12 +239,12 @@
 [character]
 [name="惊恐的观众"]你看那边！
 [Character(name="avg_npc_031")]
-[name="罗塞蒂家族成员"]咕......
+[name="罗塞蒂家族成员"]咕……
 [dialog]
 [character]
 [PlaySound(key="$bodyfalldown1")]
 [Delay(time=1)]
-[name="惊恐的观众"]难、难道说是家族仇杀......
+[name="惊恐的观众"]难、难道说是家族仇杀……
 [dialog]
 [PlaySound(key="$d_gen_soldiersrun",volume=1)]
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",fadetime=1)]
@@ -339,13 +339,13 @@
 [Character(name="avg_npc_692_1#1$1")]
 [name="？？？"]我看起来很老吗？
 [Character(name="avg_103_angel_1#9$1")]
-[name="能天使"]嗯......倒也没到那个地步。
+[name="能天使"]嗯……倒也没到那个地步。
 [Character(name="avg_npc_692_1#1$1")]
 [name="？？？"]看来，今天上演的，并不是《德克萨斯之死》，而是《罗塞蒂之殇》。
 [Character(name="avg_npc_692_1#1$1")]
 [name="？？？"]孩子，去避难吧。
 [Character(name="avg_103_angel_1#2$1")]
-[name="能天使"]......虽然我们也想这么做，但是，我们的朋友还在舞台上。
+[name="能天使"]……虽然我们也想这么做，但是，我们的朋友还在舞台上。
 [Character(name="avg_201_moeshd_1#7$1")]
 [name="可颂"]可舞台周围已经乱成一团了，我们直接冲过去太危险了！
 [Character(name="avg_103_angel_1#2$1")]
@@ -410,7 +410,7 @@
 [Character(name="avg_npc_687_1#1$1")]
 [name="乔万娜"]难得有个能好好观赏这场好戏的地方，我自然要尽兴才行。
 [Character(name="avg_npc_687_1#8$1")]
-[name="乔万娜"]空，你果然是她的朋友吗......
+[name="乔万娜"]空，你果然是她的朋友吗……
 [Character(name="avg_npc_687_1#8$1")]
 [name="乔万娜"]要从那里上来吗，切利尼娜？
 [Character(name="avg_npc_687_1#8$1")]
@@ -458,11 +458,11 @@
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1.2)]
 [Character(name="avg_npc_690_1#7$1")]
-[name="德米特里"]......呃。
+[name="德米特里"]……呃。
 [Character(name="avg_npc_695_1#1$1")]
 [name="瓦拉赫"]看来，叙拉古的好酒，也不过如此。
 [Character(name="avg_npc_690_1#4$1")]
-[name="德米特里"]哥伦比亚杂碎......少得意了。
+[name="德米特里"]哥伦比亚杂碎……少得意了。
 [dialog]
 [Character(name="avg_npc_690_1#7$1",name2="avg_npc_695_1#1$1")]
 [characteraction(name="left", type="move", xpos=160, fadetime=0.3,block=false)]
@@ -509,7 +509,7 @@
 [Character(name="avg_npc_031")]
 [name="罗塞蒂家族成员"]有人把看台炸了下来，切利尼娜直接去三楼了。
 [Character(name="avg_npc_695_1#1$1")]
-[name="瓦拉赫"]......
+[name="瓦拉赫"]……
 [Character(name="avg_npc_695_1#1$1")]
 [name="瓦拉赫"]给你五秒钟说遗言。
 [Character(name="avg_npc_690_1#1$1")]
@@ -541,7 +541,7 @@
 [Character(name="avg_npc_690_1#5$1")]
 [name="德米特里"]莱昂？！
 [Character(name="avg_npc_690_1#5$1")]
-[name="德米特里"]你......
+[name="德米特里"]你……
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]我会用我的方式顾全大局，德米特。
 [Character(name="avg_npc_695_1#1$1")]
@@ -583,7 +583,7 @@
 [Character(name="avg_npc_698_1#1$1")]
 [name="贝洛内家族成员"]而且，这不是你能够介入的事情。
 [Character(name="avg_4065_judge_1#1$1")]
-[name="拉维妮娅"]......我不想妨碍你们，现在，我也没有那个兴趣了。
+[name="拉维妮娅"]……我不想妨碍你们，现在，我也没有那个兴趣了。
 [Character(name="avg_4065_judge_1#1$1")]
 [name="拉维妮娅"]我在找人。
 [Character(name="avg_npc_698_1#1$1")]
@@ -593,11 +593,11 @@
 [Character(name="avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]你们只要别来妨碍我就可以了。
 [Character(name="avg_npc_698_1#1$1")]
-[name="贝洛内家族成员"]但是......
+[name="贝洛内家族成员"]但是……
 [Character(name="avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]我死在这里，也和贝洛内家族无关。
 [Character(name="avg_npc_698_1#1$1")]
-[name="贝洛内家族成员"]......请便。
+[name="贝洛内家族成员"]……请便。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -647,7 +647,7 @@
 [Character(name="avg_npc_693_1#3$1")]
 [name="洗车工"]拉维妮娅小姐。
 [Character(name="avg_npc_693_1#3$1")]
-[name="洗车工"]......你怎么会在这里？
+[name="洗车工"]……你怎么会在这里？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -664,7 +664,7 @@
 [Character(fadetime=0.5)]
 [Delay(time=1)]
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 拉普兰德开辟的“道路”十分有效，还有一小段路，她就可以见到她的老朋友。
 她微微呼出一口气。
 场面一片混乱，但她知道自己想做什么。
@@ -675,7 +675,7 @@
 [delay(time=2)]
 [name="瓦拉赫"]你果然来了，切利尼娜。
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Character(name="avg_npc_695_1#1$1")]
 [name="瓦拉赫"]你现在的眼神很好，让我感觉我像一个猎物。
 [Dialog]
@@ -707,7 +707,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_689_1#1$1")]
-[name="卢比奥"]这......总监阁下，这场混乱......也是演出的一环吗？
+[name="卢比奥"]这……总监阁下，这场混乱……也是演出的一环吗？
 [Character(name="avg_npc_685_1#1$1")]
 [name="贝纳尔多"]混乱？
 [Character(name="avg_npc_685_1#9$1")]
@@ -715,13 +715,13 @@
 [Character(name="avg_npc_685_1#1$1")]
 [name="贝纳尔多"]而接下来，正要渐入佳境。
 [Character(name="avg_npc_689_1#1$1")]
-[name="卢比奥"]......我懂了。
+[name="卢比奥"]……我懂了。
 [Character(name="avg_npc_689_1#1$1")]
 [name="卢比奥"]您领导的不愧是沃尔西尼最负盛名的剧团之一，这样别开生面的剧目我是头一次见到。
 [Character(name="avg_npc_685_1#9$1")]
 [name="贝纳尔多"]不过，接下来，是中场休息时间，现在，你可以说一说，你想从我这里获得什么了。
 [Character(name="avg_npc_689_1#1$1")]
-[name="卢比奥"]我想要的东西......不复杂。
+[name="卢比奥"]我想要的东西……不复杂。
 [Character(name="avg_npc_689_1#1$1")]
 [name="卢比奥"]卡拉奇死后，建设部部长的人选一直悬而未决。
 [Character(name="avg_npc_689_1#1$1")]
@@ -767,16 +767,16 @@
 [Character(fadetime=0.5)]
 [Delay(time=2)]
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [dialog]
 [PlaySound(key="$rungeneral", volume=0.6)]
 [character(fadetime=2)]
 [delay(time=3)]
 [Character(name="avg_npc_695_1#1$1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="瓦拉赫"]咳咳，咳，呕......
+[name="瓦拉赫"]咳咳，咳，呕……
 [Character(name="avg_npc_695_1#1$1")]
-[name="瓦拉赫"]这种时候还有力气手下留情......真是了不起。
+[name="瓦拉赫"]这种时候还有力气手下留情……真是了不起。
 [Character(name="avg_npc_695_1#1$1")]
 [name="瓦拉赫"]不动手吗，萨卢佐家的疯子。
 [dialog]
@@ -785,7 +785,7 @@
 [delay(time=1)]
 [name="拉普兰德"]我可不想和一个从一开始就没打算用全力的家伙进行无意义的厮杀。
 [Character(name="avg_npc_695_1#1$1")]
-[name="瓦拉赫"]......呵。
+[name="瓦拉赫"]……呵。
 [Character(name="avg_npc_683_1#3$1")]
 [name="拉普兰德"]你在等什么，你在期待什么？
 [Character(name="avg_npc_695_1#1$1")]

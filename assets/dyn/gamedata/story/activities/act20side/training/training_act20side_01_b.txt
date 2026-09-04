@@ -3,7 +3,7 @@
 [Battle.LockFunction(mask="SYSTEM_MENU_INTERACT")]
 [Battle.Pause]
 
-[PopupDialog(dialogHead="$avatar_stward")] 好像也有办法改变自走车的行驶方向，让自走车避开障碍。让我翻翻随车附赠的使用说明......
+[PopupDialog(dialogHead="$avatar_stward")] 好像也有办法改变自走车的行驶方向，让自走车避开障碍。让我翻翻随车附赠的使用说明……
 [PopupDialog(dialogHead="$avatar_ardign")] 史都华德，这个很简单的！只要自走车<@tu.kw>经过我方单位</>，就会<@tu.kw>沿着其部署方向行驶</>啦！
 
 [InputBlocker(blockInput=false)]

@@ -10,7 +10,7 @@
 [Predicate(references="1;2")]
 [name="赫拉格"]   不必担心。她的部下都只是些庸人。你们安全之后，撤退对我来说还算轻松。
 [name="赫拉格"]   只不过，关于这个保镖的身份，我有些猜测。
-[Decision(options="身份;难道说......",values="1;2")]
+[Decision(options="身份;难道说……",values="1;2")]
 [Predicate(references="1;2")]
 [name="赫拉格"]   哥伦比亚，菲林族，女性，银发、金瞳、黑弩。是杀手，也是佣兵。
 [name="赫拉格"]   杀手闻名于诸城是件可耻的事，但这些传闻实在是过于有名。
@@ -31,18 +31,18 @@
 [Character]
 [CameraShake(duration=1, xstrength=5, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=false)]
 （玻璃杯粉碎）
-[Decision(options="锡兰？！;你从什么时候......",values="1;2")]
+[Decision(options="锡兰？！;你从什么时候……",values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="char_188_helage_1")]
 [name="赫拉格"]   锡兰小姐，你不用躲着偷听。
 [Character(name="char_188_helage_1",name2="char_348_ceylon_4#8",focus=2)]
-[name="锡兰"]   我，我想给你们倒杯水......
+[name="锡兰"]   我，我想给你们倒杯水……
 [name="锡兰"]   赫拉格爷爷，那个佣兵，是从什么时候开始活动，又是在什么时候失踪的？
 [Character(name="char_188_helage_1",name2="char_348_ceylon_4#8",focus=1)]
 [name="赫拉格"]   她的事迹开始闻名，甚至在我还未退伍之时。
 [name="赫拉格"]   而她销声匿迹则是一年之前，随着那个家族的覆灭一起。
 [Character(name="char_188_helage_1",name2="char_348_ceylon_4#8",focus=2)]
-[name="锡兰"]   ......直到六年前，黑都在维多利亚照顾我的生活。
+[name="锡兰"]   ……直到六年前，黑都在维多利亚照顾我的生活。
 [name="锡兰"]   但是有一天，她忽然说爸爸需要她回去做事，就走了，只在每年圣诞节的时候来接我回家。
 [Character(name="char_188_helage_1",name2="char_348_ceylon_4#3",focus=2)]
 [name="锡兰"]   但、但是，她刚才只是态度不好，而且听了别人的命令，黑她怎么可能是那种杀人如麻的杀手！
@@ -56,7 +56,7 @@
 [name="赫拉格"]   如果火山的情报处理也有市政府参与，那么这件事我们未必应该插手。
 [name="赫拉格"]   锡兰小姐，你也应该看清事实。
 [Character(name="char_348_ceylon_4#9")]
-[name="锡兰"]   我......我需要冷静一下。
+[name="锡兰"]   我……我需要冷静一下。
 [Dialog]
 [Character(fadetime=1,block=true)]
 [PlaySound(key="$doorclosequite", volume=0.9)]

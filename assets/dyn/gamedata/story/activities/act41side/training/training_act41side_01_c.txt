@@ -10,7 +10,7 @@
 [popupdialog(dialogHead="$avatar_lava", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y", protectTime=0.5)]不好！我的视野被挡住了，找不到敌人，也<@tu.kw>发动不了攻击</>。
 [battle.lockfunction(mask="SYSTEM_MENU_INTERACT")]
 [inputblocker(blockInput=true, validWidth=40, validHeight=40, black=0, tileX=3, tileY=4)]
-[tutorial(focusWidth=100, focusHeight=100, animStyle="Click", focusStyle="HighlightCircle", protectTime=0.5, dialogHead="$avatar_lava", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y", waitForSignal="char_info", tileY=4, tileX=3, charId="char_121_lava")]让我看看......
+[tutorial(focusWidth=100, focusHeight=100, animStyle="Click", focusStyle="HighlightCircle", protectTime=0.5, dialogHead="$avatar_lava", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y", waitForSignal="char_info", tileY=4, tileX=3, charId="char_121_lava")]让我看看……
 [inputblocker(blockInput=false)]
 [tutorial(focusX=-133, focusY=23, focusWidth=126, focusHeight=275, animStyle="Highlight", focusStyle="HighlightRect", black="0.5", protectTime=0.5, dialogHead="$avatar_lava", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y", waitForSignal="any")]啧，我攻击不了处在这个位置的敌人。
 [inputblocker(blockInput=true)]

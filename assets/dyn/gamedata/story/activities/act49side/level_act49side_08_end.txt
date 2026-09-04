@@ -22,7 +22,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.1, block=true)]
 [delay(time=1)]
 [charslot(slot = "M", name = "avg_npc_2127_1#4$1",focus="m")]
-[name="椿"]......差点就划到书架了。  
+[name="椿"]……差点就划到书架了。  
 [charslot(slot = "M", name = "avg_npc_2127_1#1$1",focus="m")]
 [name="椿"]我不是武痴，没有观览赤霄剑招的兴趣。你这一剑若是真使出来，倒可惜了天镜阁这许多书。  
 [charslot(slot = "L", name = "avg_1050_chen3_1#11$2", focus="l")]
@@ -46,7 +46,7 @@
 [delay(time=0.8)]
 [name="莫佚"]该死，她怎么这么难对付，你们司岁台的头儿难道是靠拳脚选出来的？  
 [charslot(slot = "M", name = "avg_npc_1871_1#9$1",focus="m")]
-[name="莫佚"]那书怎么背的来着......想起来了——好得很，正好现在又是秋天...... 
+[name="莫佚"]那书怎么背的来着……想起来了——好得很，正好现在又是秋天…… 
 [charslot(slot = "M", name = "avg_npc_1871_1#3$1",focus="m")]
 [multiline(name="莫佚")]“金曰从革”，
 [charslot(slot="m",name="avg_npc_1871_1#4$1")]
@@ -58,7 +58,7 @@
 [Blocker(a=1, r=255, g=255, b=50, fadetime=0.3, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.2, block=true)]
 [charslot(slot = "M", name = "avg_npc_2127_1#10$1",focus="m")]
-[name="椿"]......想不到区区盗匪，涉猎倒还算广。  
+[name="椿"]……想不到区区盗匪，涉猎倒还算广。  
 [charslot(slot="m",name="avg_npc_1871_1#9$1")]
 [name="莫佚"]哼，论及阴阳五行之术，你这数典忘祖的家伙还未必比得过我。  
 [charslot(slot="m",name="avg_npc_1871_1#9$1")]
@@ -85,7 +85,7 @@
 [Blocker(a=0.8, r=1, g=1, b=1, fadetime=0.3, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.1, block=true)]
 莫佚居中，一道又一道利刃似的秋风从她周身转出，与那些藤蔓的手掌不断纠缠。  
-而司岁台监正仍是面带着淡漠与怅然，立在原地，仿佛眼前只不过是一场她懒得再看下去的闹剧......
+而司岁台监正仍是面带着淡漠与怅然，立在原地，仿佛眼前只不过是一场她懒得再看下去的闹剧……
 [dialog]
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2",posfrom="0,0",posto="50,0",duration=0.8, isblock=true)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#11$2",afrom=1, ato=1, posfrom="50,0",posto="100,0",duration=0.8, isblock=false)]
@@ -97,7 +97,7 @@
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1871_1#4$1")]
-[name="莫佚"]该死......要顶不住了！  
+[name="莫佚"]该死……要顶不住了！  
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4121_zuole_1#4$1",posfrom="0,0",posto="-150,0",duration=0.3, isblock=true)]
@@ -107,7 +107,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_1050_chen3_1#10$2")]
-[name="陈"]赤霄......！  
+[name="陈"]赤霄……！  
 [dialog]
 [PlaySound(key="$d_sp_chixiaobadao", volume=1)]
 [charslot(slot = "m", name = "avg_1050_chen3_1#6$2")]
@@ -131,7 +131,7 @@
 [PlaySound(key="$d_avg_hiddenweapon_hitshield", volume=1)]
 但紧接着，反而是从藤蔓上飞散的锋利枯叶朝三人飞去。  
 [PlaySound(key="$d_avg_tearfabric", volume=1)]
-莫佚忙不迭施术抵挡，枯叶仍然划破了三人的衣裳和包裹......
+莫佚忙不迭施术抵挡，枯叶仍然划破了三人的衣裳和包裹……
 [PlaySound(key="$d_avg_breezeblow_amb",volume=0, channel="f", loop=true)]
 [SoundVolume(volume=1, channel="f",fadetime=1)]
 [stopmusic(fadetime=2)]
@@ -140,22 +140,22 @@
 [playsound(key="$d_avg_jadestatue_fall")]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2127_1#1$1",isblock=true)]
-[name="椿"]这便是......界园里带出来的信物？  
+[name="椿"]这便是……界园里带出来的信物？  
 [charslot(slot="m",name="avg_npc_2127_1#4$1")]
-[name="椿"]......果然是伥。
+[name="椿"]……果然是伥。
 [dialog]
 [charslot]
 [bgeffect(name="$eb_tyndall",layer=2)]
 的确是伥。
-棋手从界园中截取了岁兽最狂妄的想象，将之蛀蚀一空，只留一个晶莹的外壳......
+棋手从界园中截取了岁兽最狂妄的想象，将之蛀蚀一空，只留一个晶莹的外壳……
 再将兄弟姐妹们参与的记忆注入其中，便得到了这只造物。
-那只小巧的伥质如琉璃，原本一动不动，摔在地上之后，身形却变得有些飘渺......
+那只小巧的伥质如琉璃，原本一动不动，摔在地上之后，身形却变得有些飘渺……
 而后，悠悠醒来。
-看样子，造物并未觉得疼痛，又或者，她来到了自己再熟悉不过的地方，回归的冲动压过了些微的疼痛......
+看样子，造物并未觉得疼痛，又或者，她来到了自己再熟悉不过的地方，回归的冲动压过了些微的疼痛……
 她终究懵懵懂懂地朝着那扇门的方向走去。
 [dialog]
 [charslot(slot="m",name="avg_npc_2127_1#5$1",isblock=true)]
-[name="椿"]那是......
+[name="椿"]那是……
 [charslot(slot="m",name="avg_npc_2127_1#13$1",isblock=true)]
 [name="椿"]怎么可能？！  
 [dialog]
@@ -203,7 +203,7 @@
 [focusout(duration=1.2, type="char", from=0.5, to=0, block=false)]
 [focusout(type="bg", id="70_g4_tjdiscussionroom", from=1, to=0.2, duration=1.2)]
 [delay(time=1.2)]
-那影子瞧不真切，只瞥得一袭淡墨色的长衣，像是被岁月浸透的、泛黄的宣纸，却仍残有旧书卷与干涸墨池的淡香......
+那影子瞧不真切，只瞥得一袭淡墨色的长衣，像是被岁月浸透的、泛黄的宣纸，却仍残有旧书卷与干涸墨池的淡香……
 [dialog]
 [charslot(slot = "m", name = "avg_npc_2125_1#1$1",afrom=0.8,ato=0.8,duration=2.2)]
 [delay(time=2.5)]
@@ -248,7 +248,7 @@
 [charslot(slot = "m",focus="n")]
 那影子微微俯身，似要去拾起案几上早已脆裂的书卷。
 又似要走往窗边，推开那扇封闭许久的窗，看看外头那株当年尚还年幼的桂花，今岁开了未曾。
-......可她的动作，终是停在了将成与未成之间，凝成一抹极其浅淡的怅惘，悬在黄昏里。
+……可她的动作，终是停在了将成与未成之间，凝成一抹极其浅淡的怅惘，悬在黄昏里。
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -276,16 +276,16 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-案台，桌椅，挂轴......这房间里的每一样物什，都在与那道影子同频呼吸。它们是她的故旧，她是它们不肯离去的理由。
+案台，桌椅，挂轴……这房间里的每一样物什，都在与那道影子同频呼吸。它们是她的故旧，她是它们不肯离去的理由。
 [dialog]
 [PlaySound(key="$d_avg_strongwind_dream", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_2125_1#8$1",afrom=0.8,ato=0,duration=2)]
 [Delay(time=2)]
-忽而穿堂风过，那伥再度睡下，影子便如一滴坠入清水的墨，烟也似的散晕干净，只留下真实的、寂静的尘影......
+忽而穿堂风过，那伥再度睡下，影子便如一滴坠入清水的墨，烟也似的散晕干净，只留下真实的、寂静的尘影……
 和一屋子空空荡荡的阳光。
-[name="椿"]是......
-[name="椿"]......她......
-[name="椿"]不对，她应该更高一些，她的头发是更深的墨色。她虽清瘦，但不该是这种样子......
+[name="椿"]是……
+[name="椿"]……她……
+[name="椿"]不对，她应该更高一些，她的头发是更深的墨色。她虽清瘦，但不该是这种样子……
 纵使有万般不愿，她也无法回答心中最直白的疑问。
 可那又能是谁呢？
 [Dialog]
@@ -310,12 +310,12 @@
 [charslot(slot = "m", name = "avg_npc_2126_1#10$1")]
 [name="均"]但你似乎，已经不再有话想与我说。  
 [charslot(slot = "m", name = "avg_npc_2127_1#5$1")]
-[name="椿"]......  
+[name="椿"]……  
 [playMusic(key="$midautumn", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_2127_1#13$1")]
-[name="椿"]真的是她......  
+[name="椿"]真的是她……  
 [charslot(slot = "m", name = "avg_npc_2127_1#13$1")]
-[name="椿"]没想到......这世上，还有属于她的不曾消失的痕迹......  
+[name="椿"]没想到……这世上，还有属于她的不曾消失的痕迹……  
 [charslot(slot = "m", name = "avg_npc_2126_1#13$1")]
 [name="均"]毫无疑问，这是那些年轻人从岁兽残识中带出的，关于她的一点生机。 
 [charslot(slot = "m", name = "avg_npc_2126_1#13$1")] 
@@ -323,9 +323,9 @@
 [charslot(slot = "m", name = "avg_npc_2126_1#2$1")]
 [name="均"]椿秉烛，事到如今，你是否还会笃信，在颉消失后，我们兄弟姐妹所做的一切，都是徒劳？  
 [charslot(slot = "m", name = "avg_npc_2127_1#13$1")]
-[name="椿"]如果......如果，你们还能从这世上找到她的踪迹。
+[name="椿"]如果……如果，你们还能从这世上找到她的踪迹。
 [charslot(slot = "m", name = "avg_npc_2127_1#13$1")]  
-[name="椿"]请告诉她......  
+[name="椿"]请告诉她……  
 [charslot(slot = "m", name = "avg_npc_2127_1#13$1",focus="n")]  
 年长的秉烛人逐渐声咽，最终只是一言不发地看着那间陈设如故的书房。  
 [dialog]
@@ -347,19 +347,19 @@
 [charslot(slot = "m", name = "avg_npc_2126_1#1$1")]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
-[name="均"]......我竟也没想到，二哥的念头竟偏执至此，又深切至此。  
+[name="均"]……我竟也没想到，二哥的念头竟偏执至此，又深切至此。  
 [charslot(slot = "m", name = "avg_1050_chen3_1#12$2")]
-[name="陈"]你是......在城门口时的那人？！  
+[name="陈"]你是……在城门口时的那人？！  
 [charslot(slot = "m", name = "avg_npc_2126_1#9$1")]
 [name="均"]真是巧，又见面了。  
 [charslot(slot = "m", name = "avg_npc_1871_1#1$1")]
-[name="莫佚"]您就是......均？    
+[name="莫佚"]您就是……均？    
 [charslot(slot = "m", name = "avg_npc_2126_1#9$1")]
 [name="均"]多谢各位帮忙守护她的信物。  
 [charslot(slot = "m", name = "avg_npc_1871_1#6$1")]
 [name="莫佚"]均小姐——不，均老师。  
 [charslot(slot = "m", name = "avg_npc_1871_1#6$1")]
-[name="莫佚"]我听说您与祖师曾为挚交，我也久仰您的大名......如今得以一见，晚辈深感荣幸。  
+[name="莫佚"]我听说您与祖师曾为挚交，我也久仰您的大名……如今得以一见，晚辈深感荣幸。  
 [charslot(slot = "m", name = "avg_npc_2126_1#13$1")]
 [name="均"]不要乱攀关系。那位老木匠去世时，我是否降世还不好说。
 [charslot(slot = "m", name = "avg_npc_2126_1#1$1")]
@@ -372,15 +372,15 @@
 [charslot]
 代理人甚至没有提高声调，可话语中自有一股不怒自威之感。  
 [charslot(slot = "m", name = "avg_npc_1871_1#13$1")]
-[name="莫佚"]......
+[name="莫佚"]……
 [charslot(slot = "m", name = "avg_npc_1871_1#13$1")]
-[name="莫佚"]久闻岁家二姐不近人情之大名，今天算是领教了...... 
+[name="莫佚"]久闻岁家二姐不近人情之大名，今天算是领教了…… 
 [charslot(slot = "m", name = "avg_npc_2126_1#1$1")]
 [name="均"]知错能改，犹未晚矣。  
 [charslot(slot = "m", name = "avg_npc_2126_1#8$1")]
 [name="均"]左乐。  
 [charslot(slot = "m", name = "avg_4121_zuole_1#1$1")]
-[name="左乐"]均学士......
+[name="左乐"]均学士……
 [charslot(slot = "m", name = "avg_npc_2126_1#9$1")]
 [name="均"]你一路将颉的这点生机从界园带了回来，感激之情，无以言表。  
 [charslot(slot = "m", name = "avg_npc_2126_1#9$1")]
@@ -388,15 +388,15 @@
 [charslot(slot = "m", name = "avg_4121_zuole_1#1$1")]
 [name="左乐"]您过奖了。这毕竟也是秉烛人分内之事。监正大人乱了方寸，不代表司岁台的烛火就此熄灭。
 [charslot(slot = "m", name = "avg_npc_2126_1#1$1")]
-[name="均"]她欲守大义，却又困于私情，自相矛盾，最终被执念压垮......今后你肩负重任时，可切勿重蹈覆辙。
+[name="均"]她欲守大义，却又困于私情，自相矛盾，最终被执念压垮……今后你肩负重任时，可切勿重蹈覆辙。
 [charslot(slot = "m", name = "avg_4121_zuole_1#10$1")]
-[name="左乐"]今后......我？
+[name="左乐"]今后……我？
 [charslot(slot = "m", name = "avg_npc_2126_1#10$1")]
 [name="均"]不过此时此刻，你到外面去，比留在这里看这些旧日遗物要更有用些。
 [charslot(slot = "m", name = "avg_npc_2126_1#1$1")] 
 [name="均"]别忘记将这位小姑娘也带到楼下去安睡。已经是深秋了，这地上太冷。  
 [charslot(slot = "m", name = "avg_4121_zuole_1#1$1")]
-[name="左乐"]......书刀一事，也希望均学士能妥善处理。
+[name="左乐"]……书刀一事，也希望均学士能妥善处理。
 [charslot(slot = "m", name = "avg_npc_2126_1#9$1")]
 [name="均"]这是自然。
 [charslot(slot = "m", name = "avg_npc_2126_1#1$1")]
@@ -410,15 +410,15 @@
 [charslot(slot = "m", name = "avg_npc_2126_1#2$1")]
 [name="均"]望有意引你们入局，让你们从界园取出此物，便是要你们将其送到这里好生将养，为她的归来做好准备。
 [charslot(slot = "m", name = "avg_npc_2126_1#21$1")]
-[name="均"]但......就当是我得见故人，情难自抑吧。
+[name="均"]但……就当是我得见故人，情难自抑吧。
 [charslot(slot = "m", name = "avg_npc_2126_1#21$1")]
 [name="均"]劳烦二位将此物送往岁陵附近，不为别的，只为前途未卜，我们一家都会在岁陵外聚首。
 [charslot(slot = "m", name = "avg_npc_2126_1#2$1")]
 [name="均"]我不知颉归来的那日能否到来，不过，既然望将其当作颉的基底，这次聚会，她也理当到场。
 [charslot(slot = "m", name = "avg_npc_2126_1#2$1")]
-[name="均"]望既然在陵中，我便不能不助他一臂之力，恐怕免不了兵戈厮杀，此物放在我身上并不妥帖，或许还会耽搁，所以......
+[name="均"]望既然在陵中，我便不能不助他一臂之力，恐怕免不了兵戈厮杀，此物放在我身上并不妥帖，或许还会耽搁，所以……
 [charslot(slot = "m", name = "avg_4121_zuole_1#1$1")]
-[name="左乐"]......  
+[name="左乐"]……  
 [charslot(slot = "m", name = "avg_npc_1871_1#1$1")]
 [name="莫佚"]交给我！  
 [dialog]
@@ -450,13 +450,13 @@
 [charslot(slot = "r", name = "avg_npc_2126_1#1$1",posfrom="120,0",posto="0,0",duration=1.5, block=true)]
 [delay(time=2)]
 [charslot(slot = "l", name = "avg_1050_chen3_1#1$2",focus="l",isblock=true)]
-[name="陈"]均小姐......
+[name="陈"]均小姐……
 [charslot(slot = "r", name = "avg_npc_2126_1#1$1",focus="r")]
 [name="均"]城门那里，你替我挡了一剑。就在刚刚，你又不由分说，替颉守卫她的遗存。
 [charslot(slot = "r", name = "avg_npc_2126_1#1$1",focus="r")]  
 [name="均"]对你来说，行侠仗义，已经是一种习惯？  
 [charslot(slot = "l", name = "avg_1050_chen3_1#10$2",focus="l")]
-[name="陈"]......是为公义。  
+[name="陈"]……是为公义。  
 [charslot(slot = "r", name = "avg_npc_2126_1#13$1",focus="r")]
 [name="均"]何谓公义？  
 [charslot(slot = "l", name = "avg_1050_chen3_1#11$2",focus="l")]
@@ -468,15 +468,15 @@
 [charslot(slot = "r", name = "avg_npc_2126_1#10$1",focus="r")]
 [name="均"]作为感染者，你自己的公义呢？  
 [charslot(slot = "l", name = "avg_1050_chen3_1#10$2",focus="l")]
-[name="陈"]......
+[name="陈"]……
 [charslot(slot = "l", name = "avg_1050_chen3_1#1$2",focus="l")]
-[name="陈"]我在旅途中见过太多苦难......这片大地对我而言，已经过于温柔。我的公义，理当为他人伸张。  
+[name="陈"]我在旅途中见过太多苦难……这片大地对我而言，已经过于温柔。我的公义，理当为他人伸张。  
 [charslot(slot = "r", name = "avg_npc_2126_1#9$1",focus="r")]
 [name="均"]好。  
 [charslot(slot = "r", name = "avg_npc_2126_1#9$1",focus="r")]
 [name="均"]你要的这些公义，我自己一个都没法帮你。但她的遗物，或许能帮上点忙。  
 [charslot(slot = "l", name = "avg_1050_chen3_1#5$2",focus="l")]
-[name="陈"]您是说......书刀？！  
+[name="陈"]您是说……书刀？！  
 [charslot(slot = "r", name = "avg_npc_2126_1#9$1",focus="r")]
 [name="均"]不必推辞。  
 [charslot(slot = "r", name = "avg_npc_2126_1#1$1",focus="r")]
@@ -503,9 +503,9 @@
 像是重温一出旧时的剧目一般，均缓步走过闭锁了百余年，未曾有丝毫变动的房间。  
 百年的光景无人打理，这里还是整饬如初。  
 [charslot(slot = "m", name = "avg_npc_2126_1#2$1")]
-[name="均"]......好久不见。  
+[name="均"]……好久不见。  
 [charslot(slot = "m", name = "avg_npc_2126_1#2$1")]
-[name="均"]书刀再次现世，却未能由你所驾驭，如果我所托非人，造成意外后果......
+[name="均"]书刀再次现世，却未能由你所驾驭，如果我所托非人，造成意外后果……
 [charslot(slot = "m", name = "avg_npc_2126_1#17$1")]
 [name="均"]我也会替你担负这份交予的责任。
 [dialog]
@@ -527,8 +527,8 @@
 [dialog]
 [Image(image="70_i04_1", screenadapt="coverall",fadetime=2)]
 [delay(time=2.2)]
-[name="均"]望你......不负所托。
-[name="陈"]......在所不辞。 
+[name="均"]望你……不负所托。
+[name="陈"]……在所不辞。 
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -562,11 +562,11 @@
 [charslot(slot = "m", name = "avg_1043_leizi2_1#9$1")]
 [name="麟青砚"]这些伥物，几乎是一瞬间涌出来的！  
 [charslot(slot = "m", name = "avg_4196_reckpr_1#2$1")]
-[name="云青萍"]邙山镇地方志记载......一百二十年前，那场岁兽引发的动乱，邙山镇也是这样伥物横行。  
+[name="云青萍"]邙山镇地方志记载……一百二十年前，那场岁兽引发的动乱，邙山镇也是这样伥物横行。  
 [charslot(slot = "m", name = "avg_4196_reckpr_1#7$1")]
-[name="云青萍"]难道现在，岁兽已经快要醒了......？  
+[name="云青萍"]难道现在，岁兽已经快要醒了……？  
 [charslot(slot = "m", name = "avg_npc_1238_1#5$1")]
-[name="“老天师”"]唉......头疼头疼，到底还是躲不过了啊。  
+[name="“老天师”"]唉……头疼头疼，到底还是躲不过了啊。  
 [charslot(slot = "m", name = "avg_npc_1238_1#5$1")]
 [name="“老天师”"]这个岁老二，怎么这么磨蹭。还得我帮你几次？  
 [charslot(slot = "m", name = "avg_npc_1238_1#2$1")]
@@ -578,9 +578,9 @@
 [charslot(slot = "m", name = "avg_npc_1238_1#5$1")]
 [name="“老天师”"]今天我们俩就守住这个山口，一只伥都不许放过去，听到没有？  
 [charslot(slot = "m", name = "avg_1043_leizi2_1#9$1")]
-[name="麟青砚"]......是！  
+[name="麟青砚"]……是！  
 [charslot(slot = "m", name = "avg_npc_1238_1#5$1")]
-[name="“老天师”"]有气无力的......  
+[name="“老天师”"]有气无力的……  
 [charslot(slot = "m", name = "avg_npc_1238_1#10$1")]
 [name="“老天师”"]精神点！就当今天是你的高级考校，事办成了，我亲自收你当徒弟，让你的师父倒过来喊你师祖！  
 [charslot(slot = "m", name = "avg_1043_leizi2_1#7$1")]
@@ -588,7 +588,7 @@
 [charslot(slot = "m", name = "avg_4196_reckpr_1#1$1")]
 [name="云青萍"]老前辈，还有什么是我能帮上忙的？  
 [charslot(slot = "m", name = "avg_npc_1238_1#2$1")]
-[name="“老天师”"]你还能帮上什么忙......  
+[name="“老天师”"]你还能帮上什么忙……  
 [charslot(slot = "m", name = "avg_npc_1238_1#10$1")]
 [name="“老天师”"]你就好好地把我今天这几手功夫记下来，回头让你老师看看，比起他的功夫如何。
 [charslot(slot = "m", name = "avg_npc_1238_1#5$1")]
@@ -620,7 +620,7 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1871_1#13$1",afrom=1,ato=1,posfrom="-80,0",posto="0,0",duration=1.5)]
 [delay(time=1.5)]
-[name="莫佚"]等......（喘气）咳咳......等一下......
+[name="莫佚"]等……（喘气）咳咳……等一下……
 [charslot(slot="m",name="avg_npc_1871_1#9$1")]
 [name="莫佚"]*来历不明的粗口*，你跑得也太快了！  
 [charslot(slot="m",name="avg_4121_zuole_1#1$1")]
@@ -632,11 +632,11 @@
 [charslot(slot="m",name="avg_npc_1871_1#9$1")]
 [name="莫佚"]你个呆子，只知道赶路，你就没想过我们赶到了岁陵，又该怎么进去？  
 [charslot(slot="m",name="avg_4121_zuole_1#1$1")]
-[name="左乐"]......当然是找把守岁陵的禁军说明情况，请他们放行......  
+[name="左乐"]……当然是找把守岁陵的禁军说明情况，请他们放行……  
 [charslot(slot="m",name="avg_npc_1871_1#3$1")]
-[name="莫佚"]好好好......那你又准备怎么和禁军解释，你手上的东西是从哪里来的？ 
+[name="莫佚"]好好好……那你又准备怎么和禁军解释，你手上的东西是从哪里来的？ 
 [charslot(slot="m",name="avg_4121_zuole_1#3$1")] 
-[name="左乐"]或者......再想办法溜进去......  
+[name="左乐"]或者……再想办法溜进去……  
 [charslot(slot="m",name="avg_npc_1871_1#1$1")]
 [name="莫佚"]我真是服了你个呆头蛇——  
 [charslot(slot="m",name="avg_4121_zuole_1#1$1")]
@@ -644,7 +644,7 @@
 [charslot(slot="m",name="avg_npc_1871_1#1$1")]
 [name="莫佚"]我们进不了岁陵，当然是找能进岁陵的人，帮我们把东西带进去啊。 
 [charslot(slot="m",name="avg_4121_zuole_1#3$1")] 
-[name="左乐"]你是说......  
+[name="左乐"]你是说……  
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")] 
 [multiline(name="左乐")]何人——
 [charslot(slot="m",name="avg_4121_zuole_1#5$1")]
@@ -661,7 +661,7 @@
 [charslot(slot = "m", name = "avg_npc_786_1#1$1")] 
 [name="睚"]交出来。  
 [charslot(slot="m",name="avg_npc_1871_1#13$1")]
-[name="莫佚"]......
+[name="莫佚"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -679,13 +679,13 @@
 [Delay(time=1)]
 [bgeffect(fade = true, fadetime = 1.5, layer=1, block=true)]
 [charslot(slot="m",name="avg_1050_chen3_1#1$1")]
-[name="陈"]禁城......就在前面。 
+[name="陈"]禁城……就在前面。 
 [charslot(slot="m",name="avg_1050_chen3_1#4$1")] 
 [name="陈"]如果太尉真要用魏彦吾的命做代价，至少也该重兵把守。
 [charslot(slot="m",name="avg_1050_chen3_1#1$1")] 
 [name="陈"]现在城中守军都在把守各个要冲，如果有大股动向不明的军队，应该不难找才对。
 [charslot(slot="m",name="avg_1050_chen3_1#5$1")] 
-[name="陈"]等等，前面那是......  
+[name="陈"]等等，前面那是……  
 [dialog]
 [charslot]
 陈停下了脚步。  

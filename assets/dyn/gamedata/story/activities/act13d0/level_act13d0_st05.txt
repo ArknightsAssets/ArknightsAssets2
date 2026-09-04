@@ -11,7 +11,7 @@
 [name="四月"]  呼，今天的任务出了一身汗。
 [name="四月"]  赶紧回宿舍洗个澡吧。
 [Character(name="char_365_aprl#2")]
-[name="四月"]  咦，那边的是......
+[name="四月"]  咦，那边的是……
 [Character(name="avg_npc_002")]
 [name="罗德岛信使"]  好了，信和每一份钱都确认完毕。
 [Character(name="char_212_ansel_1", name2="avg_npc_002", focus=1)]
@@ -21,7 +21,7 @@
 [name="罗德岛信使"]  不过你也有一段时间没有回去了吧？不考虑回去一趟吗？伯父见到我肯定又要让我催你回一趟雷姆必拓了。
 [name="罗德岛信使"]  虽然我也是一年都在外面跑的人没有资格说什么，不过多少信可都比不上你亲自回去。
 [Character(name="char_212_ansel_1", name2="avg_npc_002", focus=1)]
-[name="安赛尔"]  ......我知道，只是这边还有病人需要我。
+[name="安赛尔"]  ……我知道，只是这边还有病人需要我。
 [name="安赛尔"]  等空闲下来后，我会回去的。
 [Character(name="char_212_ansel_1", name2="avg_npc_002", focus=2)]
 [name="罗德岛信使"]  好吧，我想你在这方面也是能够把握住的，就不多说什么了。
@@ -38,9 +38,9 @@
 [Background(image="bg_corridor",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_212_ansel_1")]
-[name="安赛尔"]  大伯，对不起......
+[name="安赛尔"]  大伯，对不起……
 [Character(name="char_365_aprl#5")]
-[name="四月"]  ......
+[name="四月"]  ……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -49,7 +49,7 @@
 [Character(name="char_365_aprl")]
 [name="四月"]  原来罗德岛上也有信使。
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  你是......
+[name="安赛尔"]  你是……
 [Character(name="char_365_aprl#6", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  我是新加入的干员，代号是四月，叫我四月就好。
 [Character(name="char_365_aprl#6", name2="char_212_ansel_1", focus=2)]
@@ -72,7 +72,7 @@
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=2)]
 [name="安赛尔"]  啊哈哈，这方面果然容易被误解，其实不是的。
 [name="安赛尔"]  信使这个职业，因为与人直接接触比较少，而且本身就需要到处跑，因此即使成为感染者也是可以继续的。
-[name="安赛尔"]  或者说，大部分人根本不知道给自己送信寄信的是不是感染者......
+[name="安赛尔"]  或者说，大部分人根本不知道给自己送信寄信的是不是感染者……
 [name="安赛尔"]  总之，他们是可以继续在自己原本的活动范围内工作的，只要定期来到罗德岛接受治疗就好了。
 [Character(name="char_365_aprl#2", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  咦，但是这样不就等于在做自己的事吗？
@@ -82,7 +82,7 @@
 [name="安赛尔"]  但是像我这样，需要定期向家里寄信的人，就很难期待他们。
 [name="安赛尔"]  虽然实际上罗德岛上目前来自雷姆必拓的信使也很少就是了。
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=1)]
-[name="四月"]  这样啊，不过还是感觉没什么约束力......要是在我过去呆的公司，这种事情完全是无法想象的。
+[name="四月"]  这样啊，不过还是感觉没什么约束力……要是在我过去呆的公司，这种事情完全是无法想象的。
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=2)]
 [name="安赛尔"]  哪种事情？
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
@@ -110,21 +110,21 @@
 [name="四月"]  没有哦。
 [name="四月"]  我的父母在我小的时候就因为矿难去世了，我是被他们供职的公司抚养大的。
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=1)]
-[name="四月"]  在成年后我就成为了这家公司的猎人，虽然工资也不算高，不过也还算过得去，直到我感染了矿石病......
+[name="四月"]  在成年后我就成为了这家公司的猎人，虽然工资也不算高，不过也还算过得去，直到我感染了矿石病……
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  ......对不起。
+[name="安赛尔"]  ……对不起。
 [Character(name="char_365_aprl#6", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  没事啦。
 [Character(name="char_365_aprl#6", name2="char_212_ansel_1", focus=2)]
 [name="安赛尔"]  不过我记得雷姆必拓的公司对感染者的待遇并不差吧？
-[name="安赛尔"]  因为雷姆必拓的矿业很发达，这里的人比起其他国家的人本来接触矿石病的几率就要高不少......
+[name="安赛尔"]  因为雷姆必拓的矿业很发达，这里的人比起其他国家的人本来接触矿石病的几率就要高不少……
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  我一开始也是这么想的，但是实际体验下来我才知道我错了。
 [name="四月"]  他们表面上说得有各种福利，但其实暗中各种克扣，而且在知道你得了矿石病后，工作机会也会越来越少。
 [name="四月"]  像我这样一个人生活的矿石病患者，在那里是活不下去的。
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  竟然是这样......我都不知道。
-[name="安赛尔"]  难怪以前那些得了矿石病的工友有很多都不知道去哪里了......
+[name="安赛尔"]  竟然是这样……我都不知道。
+[name="安赛尔"]  难怪以前那些得了矿石病的工友有很多都不知道去哪里了……
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  反正，公司身份也注销了，租的房子也退了，雷姆必拓已经没有我的容身之所啦。
 [Character(name="char_365_aprl#6", name2="char_212_ansel_1", focus=1)]
@@ -139,7 +139,7 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="四月"]  啊，要是是什么秘密就不用告诉我了，我也不会跟别人说这件事的！
 [Character(name="char_365_aprl#2", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  ......
+[name="安赛尔"]  ……
 [name="安赛尔"]  四月，你吃过午饭了吗？
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  还没有，我刚任务回来，打算洗个澡再去的。
@@ -170,7 +170,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  ......虽然我嘴上总是说着见不到家人很遗憾，其实我是有些不想回去的。
+[name="安赛尔"]  ……虽然我嘴上总是说着见不到家人很遗憾，其实我是有些不想回去的。
 [Character(name="char_365_aprl#2", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  为什么？
 [Character(name="char_365_aprl#2", name2="char_212_ansel_1", focus=2)]
@@ -185,7 +185,7 @@
 [name="四月"]  所以你不想回去是因为大伯对你不好吗？
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
 [name="安赛尔"]  不是。伯父是一家小公司的经理，为人比较正经严肃，但是对我很好，他是真的把我当做自己的儿子看待的。
-[name="安赛尔"]  只是......
+[name="安赛尔"]  只是……
 [name="安赛尔"]  他并不希望我成为医生。
 [Character(name="char_365_aprl#2", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  啊。
@@ -223,11 +223,11 @@
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=2)]
 [name="安赛尔"]  只能说，各有各的烦恼吧。
 [name="安赛尔"]  我相信自己在做很好的事情，罗德岛的待遇也很好。
-[name="安赛尔"]  但这种事就......没有办法。
+[name="安赛尔"]  但这种事就……没有办法。
 [name="安赛尔"]  无论如何，我都没有办法解决大伯心中的遗憾。
 [name="安赛尔"]  我只能在自己的事业上更加努力，做到更好。
 [name="安赛尔"]  直到有一天我能够挺起胸膛说，“大伯你看，我救了很多人，我为解决矿石病做出了很多贡献。”
-[name="安赛尔"]  ......虽然大概到那时，我也只是能够有底气面对大伯而已了吧。
+[name="安赛尔"]  ……虽然大概到那时，我也只是能够有底气面对大伯而已了吧。
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  没想到安赛尔你看起来柔柔弱弱的，其实也想了不少诶。
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
@@ -239,12 +239,12 @@
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  所以说，安赛尔你其实还是想回去的吧？
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  ......是啊。
+[name="安赛尔"]  ……是啊。
 [name="安赛尔"]  虽然跟着罗德岛去各种地方开阔视野很好，但是不管怎么说，那里始终是我的家乡。
-[name="安赛尔"]  我还是会怀念巨大的烟囱，嘈杂的机器运转声，矿工们的喊号子声，吵闹的街道......
+[name="安赛尔"]  我还是会怀念巨大的烟囱，嘈杂的机器运转声，矿工们的喊号子声，吵闹的街道……
 [name="安赛尔"]  说不定未来有一天，我也会离开罗德岛，回到我的家乡，在那里做一名医生。
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=1)]
-[name="四月"]  这样啊......
+[name="四月"]  这样啊……
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=2)]
 [name="安赛尔"]  怎么了？
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
@@ -268,7 +268,7 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="四月"]  你敢信吗，公寓的设施也比较差，有时候洗澡洗一半居然能够突然没水！
 [Character(name="char_365_aprl#4", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  呃，那确实是不太好的回忆......
+[name="安赛尔"]  呃，那确实是不太好的回忆……
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  不过，当我真的去回想的时候，也会想起一些好事。
 [name="四月"]  公司虽然黑心，不过也照顾了我许多年，我不知道上层究竟是怎么想的，但我记得我去找公司的人问这件事时他们脸上不忍的表情。
@@ -293,7 +293,7 @@
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  那按照安赛尔你的说法，你觉得博士能够选择新的生活吗？
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
-[name="安赛尔"]  ......我觉得很难吧。
+[name="安赛尔"]  ……我觉得很难吧。
 [name="安赛尔"]  我不了解博士的过去，但阿米娅和凯尔希医生都知道他，很多人都知道他。
 [name="安赛尔"]  我想，博士也会有许多身不由己的时候吧。
 [name="安赛尔"]  所以或许是这样，即使是失忆了，我们依然很难摆脱自己的过去。
@@ -305,8 +305,8 @@
 [name="安赛尔"]  虽然我可以抛弃这种痕迹，但我还是选择了接纳。
 [name="安赛尔"]  那么，你呢？
 [Character(name="char_365_aprl#5", name2="char_212_ansel_1", focus=1)]
-[name="四月"]  我啊......
-[name="四月"]  嗯......
+[name="四月"]  我啊……
+[name="四月"]  嗯……
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=1)]
 [name="四月"]  不知道，我还没想好。
 [Character(name="char_365_aprl", name2="char_212_ansel_1", focus=2)]
@@ -374,14 +374,14 @@
 [name="四月"]  你去雷姆必拓的时候，能不能劳烦你去一座高楼的楼顶，帮我拍一下那里看到的风景？
 [Character(name="char_365_aprl", name2="avg_npc_002", focus=2)]
 [name="罗德岛信使"]  嗯？这个请求还真是奇怪。
-[name="罗德岛信使"]  ......不过听起来不是很麻烦，应该可以。
+[name="罗德岛信使"]  ……不过听起来不是很麻烦，应该可以。
 [Character(name="char_365_aprl#3", name2="avg_npc_002", focus=1)]
 [name="四月"]  好，那就麻烦你了！
 [Dialog]
 [Character]
 [Character(name="char_365_aprl")]
 [delay(time=1)]
-[name="四月"]  家乡，过去......原来我也没有自己想的那么不在乎。
+[name="四月"]  家乡，过去……原来我也没有自己想的那么不在乎。
 [name="四月"]  唔，不过，比起这个，我还是先去找那个叫克洛丝的人好了，比起回不回去，还是能不能找到放松的好地方比较现实！
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [Dialog]

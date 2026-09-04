@@ -14,9 +14,9 @@
 [charslot(slot="r",name="avg_322_lmlee_1#5$1",focus="r")]
 [name="老鲤"]左公子，这伙人不会轻易罢休。再打下去，咱俩能不能自保先不说，很难保证不会伤及百姓。
 [charslot(slot="l",name="avg_npc_297_1#6$1",focus="l")]
-[name="左乐"]......鲤先生，有什么主意？
+[name="左乐"]……鲤先生，有什么主意？
 [charslot(slot="r",name="avg_322_lmlee_1#1$1",focus="r")]
-[name="老鲤"]逃跑的办法倒是有，只怕后面会让你不好收场啊......
+[name="老鲤"]逃跑的办法倒是有，只怕后面会让你不好收场啊……
 [charslot(slot="l",name="avg_npc_297_1#4$1",focus="l")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="左乐"]等——
@@ -96,7 +96,7 @@
 [name="仇白"]还不退？
 [dialog]
 [charslot]
-[name="山海众成员"]......
+[name="山海众成员"]……
 [playsound(key="$d_avg_crowdrun",channel="run")]
 [soundvolume(channel="run",volume=0,fadetime=1)]
 [Dialog]
@@ -111,11 +111,11 @@
 [name="左乐"]（粗重的喘息）
 [charslot]
 [charslot(slot = "m", name = "avg_npc_297_1#5$1",focus="m")]
-[name="左乐"]仇、仇姐姐......好久不见。
+[name="左乐"]仇、仇姐姐……好久不见。
 [charslot(slot = "m", name = "avg_npc_787_1#11$1",focus="m")]
 [name="仇白"]是好久不见。你的武功怎么没什么长进？
 [charslot(slot = "m", name = "avg_npc_297_1#5$1",focus="m")]
-[name="左乐"]......
+[name="左乐"]……
 [charslot(slot = "m", name = "avg_npc_297_1#1$1",focus="m")]
 [name="左乐"]仇姐姐为何来此？
 [charslot(slot = "m", name = "avg_npc_787_1#1$1",focus="m")]
@@ -123,7 +123,7 @@
 [charslot(slot = "m", name = "avg_npc_787_1#11$1",focus="m")]
 [name="仇白"]旁边这位是？
 [charslot(slot = "m", name = "avg_npc_297_1#1$1",focus="m")]
-[name="左乐"]是在先前的任务中，认识的一位朋友......也是梁大人的故交。
+[name="左乐"]是在先前的任务中，认识的一位朋友……也是梁大人的故交。
 [charslot(slot = "m", name = "avg_npc_787_1#11$1",focus="m")]
 [name="仇白"]哪怕是梁大人的朋友，不是官差之身，也不该随意插手眼下的事。
 [charslot(slot="m",name="avg_322_lmlee_1#9$1",focus="m")]
@@ -133,7 +133,7 @@
 [charslot(slot = "m", name = "avg_npc_297_1#7$1",focus="m")]
 [name="左乐"]若不是鲤先生出手，在下恐怕已经性命有恙。只是，鲤先生真的是碰巧出现在这里？
 [charslot(slot="m",name="avg_322_lmlee_1#10$1",focus="m")]
-[name="老鲤"]我要说真是碰巧，司岁台愿意相信吗......
+[name="老鲤"]我要说真是碰巧，司岁台愿意相信吗……
 [charslot(slot = "m", name = "avg_npc_297_1#6$1",focus="m")]
 [name="左乐"]事关重大，勿要戏言。
 [charslot(slot="m",name="avg_322_lmlee_1#6$1",focus="m")]
@@ -149,7 +149,7 @@
 [charslot(slot="m",name="avg_322_lmlee_1#1$1",focus="m")]
 [name="老鲤"]如果左公子愿意多告诉我一点消息，或许我还能多帮上些忙。
 [charslot(slot = "m", name = "avg_npc_297_1#7$1",focus="m")]
-[name="左乐"]......
+[name="左乐"]……
 [charslot(slot = "m", name = "avg_npc_297_1#1$1",focus="m")]
 [name="左乐"]昨夜乱战中，我伤到了那刺客一刀，我本想以此为线索从医馆开始调查。
 [charslot(slot = "m", name = "avg_npc_297_1#1$1",focus="m")]
@@ -157,13 +157,13 @@
 [charslot(slot = "m", name = "avg_npc_297_1#1$1",focus="m")]
 [name="左乐"]我闯入之后，在屋内发现了纱布和血迹。那个男人神色慌张，匆匆跑走了。
 [charslot(slot="m",name="avg_322_lmlee_1#4$1",focus="m")]
-[name="老鲤"]在这玉门城中，还有人敢阻挠司岁台查案......？
+[name="老鲤"]在这玉门城中，还有人敢阻挠司岁台查案……？
 [charslot(slot = "m", name = "avg_npc_297_1#7$1",focus="m")]
 [name="左乐"]我也十分怀疑。虽然故意妨碍调查就足以构成罪名，但那人说话做事颠三倒四，也不像有预谋的样子。
 [charslot(slot="m",name="avg_322_lmlee_1#4$1",focus="m")]
 [name="老鲤"]左公子，是否方便把那人外貌说得再详细些？
 [charslot(slot = "m", name = "avg_npc_297_1#7$1",focus="m")]
-[name="左乐"]那怪人样貌......
+[name="左乐"]那怪人样貌……
 [dialog]
 [PlaySound(key="$flashback",volume=0.4)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -182,11 +182,11 @@
 [charslot(slot = "m", name = "avg_npc_297_1#1$1",focus="m")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
-[name="左乐"]是位菲林男性，年纪大概在四五十岁左右，身形健壮，而且......武功奇高。
+[name="左乐"]是位菲林男性，年纪大概在四五十岁左右，身形健壮，而且……武功奇高。
 [charslot(slot="m",name="avg_322_lmlee_1#4$1",focus="m")]
-[name="老鲤"]......
+[name="老鲤"]……
 [charslot(slot="m",name="avg_322_lmlee_1#4$1",focus="m")]
-[name="老鲤"]当真是他......？
+[name="老鲤"]当真是他……？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -215,9 +215,9 @@
 [charslot(slot="r",name="avg_npc_296_1#2$1",focus="r")]
 [name="杜遥夜"]说起来，既然咱们已经开始合作查案了，那你之后加入行裕物流，是不是就顺理成章了？
 [charslot(slot="l",name="avg_243_waaifu_1#7$1",focus="l")]
-[name="槐琥"]你还在惦记这件事啊......
+[name="槐琥"]你还在惦记这件事啊……
 [charslot(slot="l",name="avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]还有雨霞姐......这次的事，还真是牵扯了不少熟人进来。
+[name="槐琥"]还有雨霞姐……这次的事，还真是牵扯了不少熟人进来。
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
 [name="杜遥夜"]那位官差大小姐，原来就是鼠王的女儿。
 [charslot(slot="l",name="avg_243_waaifu_1#7$1",focus="l")]
@@ -227,7 +227,7 @@
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
 [name="杜遥夜"]我还以为你们都是龙门人，应该很熟来着。
 [charslot(slot="l",name="avg_243_waaifu_1#1$1",focus="l")]
-[name="槐琥"]龙门可不是什么小城镇啊......
+[name="槐琥"]龙门可不是什么小城镇啊……
 [charslot(slot="l",name="avg_243_waaifu_1#4$1",focus="l")]
 [name="槐琥"]因为事务所的工作，我偶尔会见到林先生，但对雨霞姐，更多只是听说吧。
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
@@ -239,7 +239,7 @@
 [charslot(slot="l",name="avg_243_waaifu_1#4$1",focus="l")]
 [name="槐琥"]但可以确认的一点是，龙门的安定离不开他。
 [charslot(slot="r",name="avg_npc_296_1#7$1",focus="r")]
-[name="杜遥夜"]听起来还真是位厉害角色......有这么一个爹，估计林小姐的生活也很麻烦吧。
+[name="杜遥夜"]听起来还真是位厉害角色……有这么一个爹，估计林小姐的生活也很麻烦吧。
 [charslot(slot="l",name="avg_243_waaifu_1#7$1",focus="l")]
 [name="槐琥"]为什么这么说？
 [charslot(slot="r",name="avg_npc_296_1#6$1",focus="r")]
@@ -255,7 +255,7 @@
 [charslot(slot="l",name="avg_243_waaifu_1#10$1",focus="l")]
 [name="槐琥"]他永远按照自己的心情喜好做事，想一出是一出，亲生的孩子托给别人照顾，不闻不问，一消失就是十几年。
 [charslot(slot="r",name="avg_npc_296_1#9$1",focus="r")]
-[name="杜遥夜"]你是说......
+[name="杜遥夜"]你是说……
 [charslot(slot="l",name="avg_243_waaifu_1#6$1",focus="l")]
 [name="槐琥"]算了，我现在也不想提他。
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
@@ -265,7 +265,7 @@
 [charslot(slot="l",name="avg_243_waaifu_1#2$1",focus="l")]
 [name="槐琥"]可是，如果他根本不愿意回来看看你做得有多好呢？
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
 [name="杜遥夜"]唔，就是这里了。
 [dialog]
@@ -296,15 +296,15 @@
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
 [name="杜遥夜"]牺牲的镖客是这家医馆医生的儿子，医生是本地人，经营这家医馆几十年了，父子两人相依为命。
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
-[name="杜遥夜"]信使队伍牺牲的消息昨天下午就传回了城里，医生应该已经知道了才对......
+[name="杜遥夜"]信使队伍牺牲的消息昨天下午就传回了城里，医生应该已经知道了才对……
 [charslot(slot="l",name="avg_243_waaifu_1#1$1",focus="l")]
 [name="槐琥"]但房间看起来没有任何异常，物品摆放工整，桌椅也擦得干干净净，角落的那两个袋子，应该是刚刚赶集买回来的日用品。
 [charslot(slot="l",name="avg_243_waaifu_1#1$1",focus="l")]
-[name="槐琥"]虽然不知道玉门的风俗什么样，但这屋子......看起来就像什么事都没有发生一样。
+[name="槐琥"]虽然不知道玉门的风俗什么样，但这屋子……看起来就像什么事都没有发生一样。
 [charslot(slot="l",name="avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]作为父亲，知道自己的孩子永远离世，会是什么反应呢......
+[name="槐琥"]作为父亲，知道自己的孩子永远离世，会是什么反应呢……
 [charslot(slot="r",name="avg_npc_296_1#3$1",focus="r")]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [dialog]
 [PlaySound(key="$flashback",volume=0.4)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -349,13 +349,13 @@
 [charslot(slot="l",name="avg_npc_033",focus="l")]
 [name="龙门暗桩"]大小姐，前面就是那个走私犯说的仓库了。
 [charslot(slot="l",name="avg_npc_033",focus="l")]
-[name="龙门暗桩"]奇怪......
+[name="龙门暗桩"]奇怪……
 [charslot(slot="r",name="avg_4080_lin_1#1$1",focus="r")]
 [name="林雨霞"]你知道这个地方？
 [charslot(slot="l",name="avg_npc_033",focus="l")]
 [name="龙门暗桩"]我之前暗访的时候，排查过城里的货运点，这个仓库，应该是城南铸剑坊用来囤放铁器和源石燃料的。
 [charslot(slot="l",name="avg_npc_033",focus="l")]
-[name="龙门暗桩"]从我查到的资料看，铸剑坊是城里有年头的招牌，不应该和这件事有关联......
+[name="龙门暗桩"]从我查到的资料看，铸剑坊是城里有年头的招牌，不应该和这件事有关联……
 [charslot(slot="l",name="avg_npc_033",focus="l")]
 [name="龙门暗桩"]个*龙门粗口*的，那家伙敢耍我们！
 [charslot(slot="r",name="avg_4080_lin_1#8$1",focus="r")]
@@ -380,7 +380,7 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [charslot(slot="m",name="avg_4080_lin_1#1$1",focus="m")]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [dialog]
 [charslot]
 [playsound(key="$d_gen_walk_n")]
@@ -391,7 +391,7 @@
 [charslot(slot="m",name="avg_4080_lin_1#1$1",focus="m")]
 [name="林雨霞"]这里不是石刻店的仓库吗？
 [charslot(slot="m",name="avg_npc_797_1#1$1",focus="m")]
-[name="仓库看守"]......
+[name="仓库看守"]……
 [charslot(slot="m",name="avg_4080_lin_1#1$1",focus="m")]
 [name="林雨霞"]我是来买石料的。
 [charslot(slot="m",name="avg_4080_lin_1#1$1",focus="m")]
@@ -413,7 +413,7 @@
 [charslot(slot="m",name="avg_4080_lin_1#6$1",focus="m")]
 [name="林雨霞"]那个带路的家伙还收了我的带路费呢！
 [charslot(slot="m",name="avg_npc_797_1#1$1",focus="m")]
-[name="仓库看守"]......
+[name="仓库看守"]……
 [charslot(slot="m",name="avg_4080_lin_1#7$1",focus="m")]
 [name="林雨霞"]真是不好意思，打扰了。
 [charslot(slot="m",name="avg_npc_797_1#1$1",focus="m")]

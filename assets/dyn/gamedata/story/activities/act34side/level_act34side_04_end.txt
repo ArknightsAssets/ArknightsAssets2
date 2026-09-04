@@ -24,7 +24,7 @@
 [name="布兰都斯"]抱歉，劳伦缇娜。
 [charslot(slot = "m", focus = "n")]
 [name="幽灵鲨"]您还是那么多愁善感。
-[name="幽灵鲨"]对了，按照老规矩......
+[name="幽灵鲨"]对了，按照老规矩……
 [charslot(slot="m",name="avg_npc_1381_1#8$1")]
 [name="布兰都斯"]在你的身旁点亮一根蜡烛，让我们的小美人鱼睡着时看起来别太苍白。我已经让他们准备好了。
 [charslot(slot = "m", focus = "n")]
@@ -50,7 +50,7 @@
 [name="歌蕾蒂娅"]布兰都斯，关于这场手术，你是否还有什么其他的事项需要交代？
 [name="歌蕾蒂娅"]没有的话，更多的话题就留在之后——关于这五年来，我们发生了怎样的变化，以及，你发生了怎样的变化。
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
-[name="布兰都斯"]......
+[name="布兰都斯"]……
 [charslot(slot="m",name="avg_npc_1401_1#1$1")]
 [name="“小帮手”"]请保持静止，休眠程序将在十秒后启动。
 [charslot(slot="m",name="avg_npc_1381_1#8$1")]
@@ -68,7 +68,7 @@
 [charslot(slot = "m", focus = "n")]
 [name="？？？"]中控层发现了异样，保险起见，您还是亲自确认一下。
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
-[name="布兰都斯"]......稍等，我给你们开门。
+[name="布兰都斯"]……稍等，我给你们开门。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -86,14 +86,14 @@
 [name="西昆妲"]没什么。
 [name="西昆妲"]图利娅的调查你既然已经参与，没有中途退出的道理。
 [charslot(slot = "left", name = "avg_4137_udflow_1#3$1",focus="l")]
-[name="西昆妲"]地面与穹顶的交界处......这里原本是行道珊瑚的试验田。
+[name="西昆妲"]地面与穹顶的交界处……这里原本是行道珊瑚的试验田。
 [charslot(slot = "left", name = "avg_4137_udflow_1#1$1",focus="l")]
 [name="西昆妲"]虽然比不上生态艺术创作所的专业环境，但相比私人房间内的小型水培箱，这里确实更适合藻类培育。
 [name="西昆妲"]或许是性格使然，又或者动机不纯，图利娅始终没有通过正规渠道申请过场地，她私自找到了这里。
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
-[name="艾丽妮"]图利娅......
+[name="艾丽妮"]图利娅……
 [charslot(slot = "left", name = "avg_4137_udflow_1#5$1",focus="l")]
-[name="西昆妲"]我们并不清楚具体的情况，里面是否是深海教会的藏身之所，图利娅又是否身处其中......总之，要小心。
+[name="西昆妲"]我们并不清楚具体的情况，里面是否是深海教会的藏身之所，图利娅又是否身处其中……总之，要小心。
 [name="西昆妲"]一队已经在附近的街区布防，对道路进行监视。艾丽妮，你跟着二队，从地面的道路突入。
 [name="西昆妲"]至于与穹顶夹层联通的这条路，交给我。
 [charslot(slot = "right", name = "avg_4009_irene_1#1$1",focus="r")]
@@ -118,9 +118,9 @@
 [name="海巡队队员"]西昆妲指挥官，你那边发生了什么，是否需要增援？
 [charslot(slot = "m", focus = "n")]
 有人挡在了她的面前，准确说，是她出现在了对方离开的路上。
-对方身处建筑夹角形成的阴影当中，全身上下与阴影同色，唯有那双眼睛，那双西昆妲再熟悉不过的眼睛......
+对方身处建筑夹角形成的阴影当中，全身上下与阴影同色，唯有那双眼睛，那双西昆妲再熟悉不过的眼睛……
 [charslot(slot = "m", name = "avg_4137_udflow_1#1$1")]
-[name="西昆妲"]......按照原计划行动。
+[name="西昆妲"]……按照原计划行动。
 [playsound(key="$transmission")]
 西昆妲掐断了通讯。
 [dialog]
@@ -128,9 +128,9 @@
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1",duration=1.5)]
 [delay(time=2)]
-[name="乌尔比安"]......
+[name="乌尔比安"]……
 [charslot(slot = "m", name = "avg_4137_udflow_1#1$1")]
-[name="西昆妲"]......好久不见，“老师”。
+[name="西昆妲"]……好久不见，“老师”。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -147,7 +147,7 @@
 [charslot]
 [playMusic(intro="$escape_intro",key="$escape_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_1381_1#5$1")]
-[name="布兰都斯"]......你们不是研究所的人。
+[name="布兰都斯"]……你们不是研究所的人。
 [charslot]
 [charslot(slot = "right",name = "avg_npc_1397_1#1$1", focus="r")]
 [charslot(slot = "left", name = "avg_npc_1392_1#1$1",focus="r")]
@@ -170,14 +170,14 @@
 [name="“研究员B”"]那么，我很疑惑，幸存的猎人才刚刚回到阿戈尔，您就要亲手将她们重新送上战场？
 [charslot]
 [charslot(slot="m",name="avg_npc_1381_1#5$1")]
-[name="布兰都斯"]不，你们这些人怎么会明白，我要做的，只是让她们不再受到伤害......
+[name="布兰都斯"]不，你们这些人怎么会明白，我要做的，只是让她们不再受到伤害……
 [charslot]
 [charslot(slot = "right",name = "avg_npc_1397_1#1$1", focus="l")]
 [charslot(slot = "left", name = "avg_npc_1392_1#1$1",focus="l")]
 [name="“研究员B”"]那为何不停止这台手术，阻止她们参与航道计划的作战？
 [charslot]
 [charslot(slot="m",name="avg_npc_1381_1#5$1")]
-[name="布兰都斯"]手术的所有设备都是自动运行的，我没法主动停止......
+[name="布兰都斯"]手术的所有设备都是自动运行的，我没法主动停止……
 [charslot]
 [charslot(slot = "right",name = "avg_npc_1397_1#1$1", focus="r")]
 [charslot(slot = "left", name = "avg_npc_1392_1#1$1",focus="r")]
@@ -188,7 +188,7 @@
 [charslot]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_npc_1381_1#6$1")]
-[name="布兰都斯"]住手！手术流程如果强行中断，猎人们会受到不可逆的损伤......
+[name="布兰都斯"]住手！手术流程如果强行中断，猎人们会受到不可逆的损伤……
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1392_1#1$1")]
@@ -225,21 +225,21 @@
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1")]
 [name="乌尔比安"]不要提无效的问题，西昆妲。
 [charslot(slot = "m", name = "avg_4137_udflow_1#1$1")]
-[name="西昆妲"]......
+[name="西昆妲"]……
 [name="西昆妲"]你也在调查图利娅，你发现了什么？
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1")]
 [name="乌尔比安"]那个数据员只是一个被牵连的普通人。她发现了她本不该发现的异常，尝试向相关人员示警，但没能成功。
 [name="乌尔比安"]你慢了一步，她的遭遇与她的过往无关。
 [name="乌尔比安"]城外的战斗，城内的异动，海巡队置身于航道计划之外，你注意到了足够多的异常，但同时也被如此轻易地干扰了视线。
 [charslot(slot = "m", name = "avg_4137_udflow_1#3$1")]
-[name="西昆妲"]你是说......卡西娅？
+[name="西昆妲"]你是说……卡西娅？
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1")]
 [name="乌尔比安"]嗯。
 [name="乌尔比安"]你原本是一个专注的人，也很敏锐。
 [name="乌尔比安"]所以当年你提出离开深海猎人研究所，加入海巡队时，我相信你的确经过了审慎的思考，选择了一个同样适合自己的领域。
 [name="乌尔比安"]至少，那不应该只是一次意气用事。
 [charslot(slot = "m", name = "avg_4137_udflow_1#1$1")]
-[name="西昆妲"]......五年的时间，除了这身装扮之外，你甚至连说话的方式都没怎么变。
+[name="西昆妲"]……五年的时间，除了这身装扮之外，你甚至连说话的方式都没怎么变。
 [name="西昆妲"]无论是研究员还是猎人，你从不拒绝学生们向你提问，但又从不回答在你看来错误的问题。
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1")]
 [name="乌尔比安"]没有无效的答案，决定答案价值的是问题本身。
@@ -248,7 +248,7 @@
 [name="西昆妲"]所以我的第一个问题并没有错——乌尔比安，你为什么出现在这里？
 [name="西昆妲"]这里是海巡队调查案件的现场，一个隐匿行踪的深海猎人，此时此刻应该放下手中的锚，表明自己的立场。
 [name="西昆妲"]歌蕾蒂娅她们已经作为有生力量参与航道计划的作战，你还活着，却选择以这样的方式回到弥利亚留姆。
-[name="西昆妲"]......我已经有充足的理由对你发起攻击。
+[name="西昆妲"]……我已经有充足的理由对你发起攻击。
 [charslot(slot="m",name="avg_4145_Ulpia_1#3$1")]
 [name="乌尔比安"]她们三人的回归只会让局势变得更加混乱。从图利娅的事情不难看出，所谓的航道计划早已千疮百孔。
 [name="乌尔比安"]阿戈尔并没有从深海猎人计划的失败中汲取任何教训。
@@ -274,7 +274,7 @@
 [playsound(key="$d_avg_walkfast",volume=0.6)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4137_udflow_1#1$1")]
-[name="西昆妲"]艾丽妮......
+[name="西昆妲"]艾丽妮……
 [dialog]
 [charslot(slot="m",name="avg_4145_Ulpia_1#1$1")]
 [delay(time=0.5)]
@@ -302,9 +302,9 @@
 [charslot(slot="m",name="avg_474_gladiia_1#1")]
 [name="歌蕾蒂娅"]不止我。
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
-[name="布兰都斯"]......
+[name="布兰都斯"]……
 [charslot(slot = "m",name = "avg_npc_1397_1#1$1")]
-[name="“研究员A”"]......
+[name="“研究员A”"]……
 [charslot(slot = "m", focus = "n")]
 [name="？？？"]你好，把你拎着那什么草的手慢慢地从顾问脖子上移开。
 [charslot(slot = "m",name = "avg_npc_1397_1#1$1")]
@@ -336,14 +336,14 @@
 [charslot(slot="m",name="char_263_skadi#3")]
 [name="斯卡蒂"]起码在海巡队来带走他们之前，死不了。
 [charslot(slot="m",name="avg_npc_1381_1#10$1")]
-[name="布兰都斯"]歌蕾蒂娅、劳伦缇娜、斯卡蒂......
+[name="布兰都斯"]歌蕾蒂娅、劳伦缇娜、斯卡蒂……
 [charslot]
 布兰都斯站在手术室的中央，深海猎人们跨过躺倒在地上的不速之客，向他走过来。
 深海猎人们没有放下武器。
 [charslot(slot="m",name="char_263_skadi#3")]
 [name="斯卡蒂"]顾问，你不想解释一下你在溶胶上做的手脚吗？
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
-[name="布兰都斯"]......
+[name="布兰都斯"]……
 [charslot(slot="m",name="avg_1023_ghost2_1#1$1")]
 [name="幽灵鲨"]唉，亲爱的顾问，我们当然没有未卜先知的能力。
 [name="幽灵鲨"]剑鱼从一开始就发现了蹊跷。
@@ -351,21 +351,21 @@
 [name="歌蕾蒂娅"]我们接受过起码上百次手术，躺在这些溶胶里的时间，可能比躺在床上的时间都要长。
 [name="歌蕾蒂娅"]你应该知道，哪怕手术没有让我们的身体恢复至应有的状态，我们依然会选择回到战场。
 [charslot(slot="m",name="avg_npc_1381_1#7$1")]
-[name="布兰都斯"]......
+[name="布兰都斯"]……
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
 [name="布兰都斯"]当初乌尔比安找到我的时候，我就说过，我只想让这个计划的参与者能够全身而退。
 [name="布兰都斯"]我希望那些来自各行各业的同胞最终能够回归原本的人生。
 [name="布兰都斯"]斯卡蒂可以继续享受她的漫游生活，一边敲打灯光阵列复杂的元件，一边拍下除了她自己之外没人能懂的海底影像。
 [charslot(slot="m",name="char_263_skadi#9")]
-[name="斯卡蒂"]......
+[name="斯卡蒂"]……
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
 [name="布兰都斯"]以劳伦缇娜的天资，或许她会成为形体艺术研究所新一代的翘楚。
-[name="布兰都斯"]我们将曼妙的星空投影在穹顶上，而她在斗智场里随流星起舞......
+[name="布兰都斯"]我们将曼妙的星空投影在穹顶上，而她在斗智场里随流星起舞……
 [name="布兰都斯"]或者，在每一座城市的街头巷尾竖起她的雕塑作品。
 [charslot(slot="m",name="avg_1023_ghost2_1#11$1")]
-[name="幽灵鲨"]......
+[name="幽灵鲨"]……
 [charslot(slot="m",name="avg_npc_1381_1#7$1")]
-[name="布兰都斯"]浮藻培育技术员弗拉维奥、作曲家诺娜、特种生物研究员卢妮娅，还有那个最年轻的科考舰队的舰长克里索......
+[name="布兰都斯"]浮藻培育技术员弗拉维奥、作曲家诺娜、特种生物研究员卢妮娅，还有那个最年轻的科考舰队的舰长克里索……
 [name="布兰都斯"]歌蕾蒂娅，你我都还记得那些猎人们的名字。我们已经经历了太多牺牲。
 [charslot(slot="m",name="avg_474_gladiia_1#5")]
 [name="歌蕾蒂娅"]这一套陈词滥调我已经从你口中听过许多次了。
@@ -379,13 +379,13 @@
 [name="布兰都斯"]我要做的事情不会变。
 [charslot(slot="m",name="avg_474_gladiia_1#1")]
 [name="歌蕾蒂娅"]你的清白并不重要。
-[name="歌蕾蒂娅"]我的意思是，这些渣滓选择在此时暴露自己，冒险阻止猎人们参与作战，甚至劫持作为武器技术顾问的你......
+[name="歌蕾蒂娅"]我的意思是，这些渣滓选择在此时暴露自己，冒险阻止猎人们参与作战，甚至劫持作为武器技术顾问的你……
 [name="歌蕾蒂娅"]恰好说明航道计划的部署是有效的。
 [name="歌蕾蒂娅"]布兰都斯，航道计划的武器技术顾问，收起你的小手段，替我们完成手术，然后回到你原本的岗位上。
 [name="歌蕾蒂娅"]按照克莱门莎的布置，一旦实现对第三十七号巢穴的定位，第Ⅳ级武器便会立刻对航道沿途的所有巢穴进行打击。
 [name="歌蕾蒂娅"]深海教会已经在做最后一搏，从刚刚那帮渣滓的话中不难猜出，他们的动作不会停下。
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
-[name="布兰都斯"]......
+[name="布兰都斯"]……
 [charslot(slot="m",name="avg_474_gladiia_1#5")]
 [name="歌蕾蒂娅"]布兰都斯，深海猎人计划已经不存在了，如果对旧情的记挂让你变得软弱，那么，忘记它。
 [charslot(slot="m",name="avg_npc_1381_1#1$1")]
@@ -422,28 +422,28 @@
 一只海嗣孤零零地游荡着，像是迷途的幽灵。
 它上身的触肢紧紧缠住一个透明的容器，剩下的部分摇摇晃晃地拖动身体朝水培箱的方向移动。
 [charslot(slot="m",name="avg_4009_irene_1#7$1")]
-[name="艾丽妮"]（这笨拙的姿势......）
+[name="艾丽妮"]（这笨拙的姿势……）
 [name="艾丽妮"]（它似乎还不太习惯这副躯体。）
 [charslot(slot="m",name="avg_4009_irene_1#7$1")]
 [multiline(name="艾丽妮")] 你是——
 [charslot(slot="m",name="avg_4009_irene_1#2$1")]
 [multiline(name="艾丽妮",end = true)] 图利娅？
 [charslot(slot="m",name="avg_npc_1388_1#1$1")]
-[multiline(name="海嗣",delay=0.08)]图——利——娅......
+[multiline(name="海嗣",delay=0.08)]图——利——娅……
 [charslot(slot="m",name="avg_4009_irene_1#7$1")]
-[name="艾丽妮"]你还能说话......你还保留着人类的意识，告诉我，你经历了什么？
+[name="艾丽妮"]你还能说话……你还保留着人类的意识，告诉我，你经历了什么？
 [charslot(slot="m",name="avg_npc_1388_1#1$1")]
-[name="海嗣"]离开......又回来......
-[name="海嗣"]数据。有人利用......航道，信号......
-[name="海嗣"]我告诉，她。但她......
+[name="海嗣"]离开……又回来……
+[name="海嗣"]数据。有人利用……航道，信号……
+[name="海嗣"]我告诉，她。但她……
 [charslot(slot="m",name="avg_4009_irene_1#7$1")]
 [name="艾丽妮"]谁？
 [charslot(slot="m",name="avg_npc_1388_1#1$1")]
-[name="海嗣"]海洋......掉进——海洋。
-[name="海嗣"]城市开走。你们、它们还在......这里......
+[name="海嗣"]海洋……掉进——海洋。
+[name="海嗣"]城市开走。你们、它们还在……这里……
 [name="海嗣"]呜，好远——
 [charslot(slot="m",name="avg_4009_irene_1#2$1")]
-[name="艾丽妮"]......
+[name="艾丽妮"]……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_walkfast")]
@@ -461,15 +461,15 @@
 [name="艾丽妮"]你是说，设施管理所的那位女性。
 [charslot(slot="m",name="avg_4137_udflow_1#5$1")]
 [name="西昆妲"]没错，卡西娅。等到处理完这里，海巡队会告知设施管理所，对她实施逮捕。
-[name="西昆妲"]图利娅偶然发现了信号系统的异常，她告诉了身边的朋友，或许就是卡西娅......她将自己直接暴露在了深海教会面前。
+[name="西昆妲"]图利娅偶然发现了信号系统的异常，她告诉了身边的朋友，或许就是卡西娅……她将自己直接暴露在了深海教会面前。
 [name="西昆妲"]她在深海教会的诱导与围堵下来到城市边缘，从边缘循环系统的排水口坠入海洋。
 [name="西昆妲"]还记得此前在城外，我们发现的生物组织碎片吗？不依靠任何装置跨越两个停泊点，这已经超越了人类的生理极限。
 [charslot(slot="m",name="avg_4137_udflow_1#10$1")]
-[name="西昆妲"]为了重新回到城市......
+[name="西昆妲"]为了重新回到城市……
 [charslot(slot="m",name="avg_4009_irene_1#7$1")]
 [name="艾丽妮"]她吃下了异种的血肉。
 [charslot(slot="m",name="avg_npc_1388_1#1$1")]
-[name="海嗣"]......
+[name="海嗣"]……
 [PlaySound(key="$d_avg_seabornf_weak")]
 [name="海嗣"]（模糊不清的低鸣）
 [charslot(slot="m",name="avg_4009_irene_1#1$1")]
@@ -477,7 +477,7 @@
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]植物营养液。
 [charslot(slot="m",name="avg_4009_irene_1#2$1")]
-[name="艾丽妮"]她的意识应该已经支离破碎，返回城市，难道只是为了......这些海藻？
+[name="艾丽妮"]她的意识应该已经支离破碎，返回城市，难道只是为了……这些海藻？
 [charslot(slot="m",name="avg_4137_udflow_1#3$1")]
 [name="西昆妲"]“这些原始藻类是整片海洋里最简单，却也最顽强的生命。”
 [name="西昆妲"]“不论明亮的浅海，还是无光的深渊，不论平滑的海床，还是断崖的夹缝，它们都在努力地舒展身躯。”
@@ -503,11 +503,11 @@
 [charslot(slot="m",name="avg_4009_irene_1#2$1")]
 [name="艾丽妮"]——
 [charslot(slot="m",name="avg_4137_udflow_1#3$1")]
-[name="西昆妲"]是的，我想......她看见了自己此刻的样子。
-[name="西昆妲"]......数据员，或许是个和海藻一样简单的人。
+[name="西昆妲"]是的，我想……她看见了自己此刻的样子。
+[name="西昆妲"]……数据员，或许是个和海藻一样简单的人。
 [name="西昆妲"]选择留下来，或许只是因为她知道，随生态艺术创作所迁去其他城市，并不能真正救下这些逐渐在海洋里失去容身之所的生命。
 [charslot(slot="m",name="avg_4137_udflow_1#10$1")]
-[name="西昆妲"]但现在......她自己成了那个污染源。
+[name="西昆妲"]但现在……她自己成了那个污染源。
 [dialog]
 [charslot(slot="m",name="avg_4009_irene_1#1$1")]
 [delay(time=1)]
@@ -533,7 +533,7 @@
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]你似乎对眼前的情形并不陌生。
 [charslot(slot="m",name="avg_4009_irene_1#7$1")]
-[name="艾丽妮"]......我曾经在一艘船上，听见过海嗣弹起一段破碎的歌。
+[name="艾丽妮"]……我曾经在一艘船上，听见过海嗣弹起一段破碎的歌。
 [charslot(slot="m",name="avg_4137_udflow_1#1$1")]
 [name="西昆妲"]艾丽妮，我为之前对你的轻视致歉。
 [name="西昆妲"]海洋与陆地相连，或许你没有经历过与海嗣的正面战争，但你见证过的那些变化与不曾变化的事物，同样残忍而厚重。
@@ -550,7 +550,7 @@
 [name="西昆妲"]她的旅程结束♪
 [name="西昆妲"]她的家乡近在眼前♪
 [charslot(slot="m",name="avg_4009_irene_1#2$1")]
-[name="艾丽妮"]这首歌......
+[name="艾丽妮"]这首歌……
 [charslot]
 [dialog]
 [stopmusic(fadetime=1)]

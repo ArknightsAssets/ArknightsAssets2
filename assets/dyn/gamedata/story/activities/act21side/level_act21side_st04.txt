@@ -15,7 +15,7 @@
 [name="柳德米拉"]唔，尾巴弄湿了。
 [name="柳德米拉"]还真是一点都没变。无论是这些脏兮兮的街，还是烦死人的雨。
 [name="柳德米拉"]不知道为什么，乌萨斯的雪能要人命，可还是这里的雨更让人不爽。
-[name="柳德米拉"]但愿老师家有吹风机......
+[name="柳德米拉"]但愿老师家有吹风机……
 [Dialog]
 [Character(fadetime=0.5)]
 [Delay(time=0.5)]
@@ -66,7 +66,7 @@
 有一股让她熟悉，又让她恐惧的气息正从阴影中浮现。
 穿着红色连帽衫，有着灰色头发的狼。
 [name="？？？"]真狼死了，红听了外婆的话。
-[name="柳德米拉"]......是你。
+[name="柳德米拉"]……是你。
 [Background(image="33_g8_srcroom",screenadapt="coverall")]
 [Dialog]
 [Image(fadetime=1.5)]
@@ -75,7 +75,7 @@
 [characteraction(name="left", type="move", xpos=-100, fadetime=0, block=false)]
 [Delay(time=1)]
 [Character(name="char_1502_crowns",name2="char_144_red_7#1",focus=1)]
-[name="柳德米拉"]你......做了什么......
+[name="柳德米拉"]你……做了什么……
 [Character(name="char_1502_crowns",name2="char_144_red_7#1",focus=2)]
 [name="红"]红是猎狼人，红听外婆的话。
 [name="红"]真狼死了，真狼没有反抗。
@@ -94,11 +94,11 @@
 [CameraShake(duration=0.5, xstrength=20, ystrength=10, vibrato=40, randomness=90, fadeout=false, block=false)]
 [name="柳德米拉"]我杀了你！
 [Character(name="char_144_red_7#1")]
-[name="红"]唔......红答应过凯尔希，只杀狼，你不是狼。
+[name="红"]唔……红答应过凯尔希，只杀狼，你不是狼。
 [Character(name="char_144_red_7#3")]
 [name="红"]原来如此，她是你的凯尔希吗？怪不得你身上有狼的气味。
 [Character(name="char_1502_crowns",blackstart=0.15,blackend=0.4)]
-[name="柳德米拉"]呼......呼......老师明明已经没办法再战斗了，你为什么还？！
+[name="柳德米拉"]呼……呼……老师明明已经没办法再战斗了，你为什么还？！
 [Character(name="char_144_red_7#1")]
 [name="红"]因为外婆告诉红，这就是游戏规则。
 [name="红"]现在，她出局啦。
@@ -127,7 +127,7 @@
 [CameraShake(duration=0.5, xstrength=20, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
 [playsound(key="$bodyfalldown2")]
 柳德米拉跪倒在地。
-[name="柳德米拉"]“吞下死难者的苦”......
+[name="柳德米拉"]“吞下死难者的苦”……
 [StopMusic(fadetime=3)]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -154,8 +154,8 @@
 [name="兴奋的观众"]没想到最后会是那样的结果。
 [name="兴奋的观众"]哎，你打不打算搬去新城市？
 [name="激动的观众"]看情况吧，不过，如果新城市也有卡特琳娜女士的作品，我应该会去吧。
-[name="激动的观众"]毕竟......家族不会入驻的城市，我长这么大都没敢想过。
-[name="兴奋的观众"]这么说起来......你知道吗？
+[name="激动的观众"]毕竟……家族不会入驻的城市，我长这么大都没敢想过。
+[name="兴奋的观众"]这么说起来……你知道吗？
 [name="兴奋的观众"]卡特琳娜女士好像在筹备一部新的作品。
 [name="激动的观众"]新的作品？
 [name="兴奋的观众"]对，这部作品光是标题，就已经足够吸引人了。
@@ -209,7 +209,7 @@
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]她对于叙拉古只能在她活着时维持和平毫无负担，叙拉古不需要未来。
 [Character(name="avg_427_vigil_1#7$1")]
-[name="莱昂图索"]该怎么说呢......西西里夫人，比起一个统治者，她似乎更像是一个旧时代的看守者。
+[name="莱昂图索"]该怎么说呢……西西里夫人，比起一个统治者，她似乎更像是一个旧时代的看守者。
 [Character(name="avg_427_vigil_1#7$1")]
 [name="莱昂图索"]她愿意给我机会，也只是因为，我给出的答案，让她认为或许可以尝试一下，仅此而已。
 [Character(name="avg_427_vigil_1#7$1")]
@@ -217,7 +217,7 @@
 [Dialog]
 [Delay(time=1)]
 [Character(name="avg_427_vigil_1#1$1")]
-[name="莱昂图索"]......哦，原本以为要挖个半天，没想到，比我想得要轻松一些。
+[name="莱昂图索"]……哦，原本以为要挖个半天，没想到，比我想得要轻松一些。
 [Dialog]
 [Character]
 墓穴的大小已经足够，剩下的，就是将棺木埋入其中。
@@ -234,7 +234,7 @@
 [playsound(key="$bodyfalldown3")]
 [Delay(time=1.5)]
 [Character(name="avg_427_vigil_1#7$1")]
-[name="莱昂图索"]德米特里，你......
+[name="莱昂图索"]德米特里，你……
 [Dialog]
 [Image(image="33_i07", xScale=1.05, yScale=1.05,x=-200, fadetime=1)]
 [ImageTween(duration=60,xTo=-150, block=false)]
@@ -243,11 +243,11 @@
 德米特里没有说话，他只是从自己外套的口袋里，掏出一样微微闪着银光的东西，丢入墓穴中。
 那是一块怀表。
 [Dialog]
-[Subtitle(text="这是首领......这是他曾经送我的怀表。", x=500, y=250, alignment="right", size=24, delay=0.04, width=700)]
+[Subtitle(text="这是首领……这是他曾经送我的怀表。", x=500, y=250, alignment="right", size=24, delay=0.04, width=700)]
 [subtitle]
 [Subtitle(text="现在，也算是物归原主了。", x=400, y=250, alignment="right", size=24, delay=0.04, width=700)]
 [subtitle]
-[Subtitle(text="......",x=250, y=350, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……",x=250, y=350, alignment="left", size=24, delay=0.04, width=700)]
 [subtitle]
 [Subtitle(text="你已经向我道过歉了，莱昂图索。", x=500, y=250, alignment="right", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -261,7 +261,7 @@
 [subtitle]
 [Subtitle(text="即使那在你看来，是落后的家族。", x=450, y=250, alignment="right", size=24, delay=0.04, width=700)]
 [subtitle]
-[Subtitle(text="......这样也好。", x=250, y=350, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……这样也好。", x=250, y=350, alignment="left", size=24, delay=0.04, width=700)]
 [subtitle]
 [Subtitle(text="你走的是一条荆棘之路。", x=400, y=250, alignment="right", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -303,21 +303,21 @@
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#6$1",fadetime=1)]
 [Delay(time=1)]
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#6$1",focus=2)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [name="拉维妮娅"]这些家具，大部分都用不上了吧。
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#6$1",focus=1)]
 [name="莱昂图索"]毕竟，贝洛内家族已经不复存在了。
-[name="莱昂图索"]绝大多数曾经的家族成员已经离开了这里，他们......任何人都很难接受来自自己领袖的背叛。
+[name="莱昂图索"]绝大多数曾经的家族成员已经离开了这里，他们……任何人都很难接受来自自己领袖的背叛。
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#5$1",focus=2)]
 [name="拉维妮娅"]贝纳尔多这个几乎已经站在家族统治最高点的人，却否定了家族的存在本身。
 [Character(name="avg_427_vigil_1#1$1",name2="avg_4065_judge_1#5$1",focus=1)]
 [name="莱昂图索"]也否定了很多我们曾视若珍宝的东西。
-[name="莱昂图索"]荣耀、信任、忠诚、为了家族的奉献......
+[name="莱昂图索"]荣耀、信任、忠诚、为了家族的奉献……
 [name="莱昂图索"]父亲曾教导每一位家族成员遵守这些规矩，到头来，他自己却从未相信过这些吗？
 [Character(name="avg_427_vigil_1#1$1",name2="avg_4065_judge_1#8$1",focus=2)]
-[name="拉维妮娅"]......我不知道。
+[name="拉维妮娅"]……我不知道。
 [name="拉维妮娅"]这几天，我时常在想。我有曾触及过那个真正的贝纳尔多·贝洛内吗？
-[name="拉维妮娅"]白日剧团的艺术总监是他的伪装，贝洛内家族老谋深算的领袖是他的伪装......
+[name="拉维妮娅"]白日剧团的艺术总监是他的伪装，贝洛内家族老谋深算的领袖是他的伪装……
 [name="拉维妮娅"]那么有没有可能，那个曾和我谈起他的理想，带着笑容，两眼放光的贝纳尔多也是他的伪装呢？
 [Character(name="avg_427_vigil_1#1$1",name2="avg_4065_judge_1#2$1",focus=2)]
 [name="拉维妮娅"]不重要了，已经不那么重要了。
@@ -326,15 +326,15 @@
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="莱昂图索"]或许吧。
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#1$1",focus=2)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="莱昂图索"]搬家的车很快就会来了。
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#1$1",focus=2)]
-[name="拉维妮娅"]......我知道了。
+[name="拉维妮娅"]……我知道了。
 [name="拉维妮娅"]这一切并不是徒劳无功，莱昂。
 [Character(name="avg_427_vigil_1#1$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="莱昂图索"]我知道。
-[name="莱昂图索"]我们会在新城区......不，现在是新城市了，建起些新的东西的。
+[name="莱昂图索"]我们会在新城区……不，现在是新城市了，建起些新的东西的。
 [Character(name="avg_427_vigil_1#7$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="莱昂图索"]叙拉古未曾出现过的，崭新的——
 [name="莱昂图索"]属于每个人的秩序。
@@ -362,7 +362,7 @@
 [Dialog]
 [Character(name="avg_npc_683_1#6$1",fadetime=0.5)]
 [Delay(time=0.5)]
-[name="拉普兰德"]哈......哈......
+[name="拉普兰德"]哈……哈……
 [Character(name="avg_npc_683_1#10$1")]
 [name="拉普兰德"]休息够了吗，扎罗。
 [Dialog]
@@ -370,7 +370,7 @@
 [Character(name="avg_npc_688_1#1$1",fadetime=1)]
 [Delay(time=1)]
 [Character(name="avg_npc_688_1#1$1")]
-[name="扎罗"]......
+[name="扎罗"]……
 [Character]
 扎罗与拉普兰德在荒野上战斗了三个月。
 期间，扎罗有无数次机会咬开这个狂人的脖子。

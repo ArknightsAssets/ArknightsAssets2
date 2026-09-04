@@ -10,9 +10,9 @@
 [Delay(time=1)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_2039_1#4$1", duration=1.5, isblock=true)]
-[name="斯凯"]......
+[name="斯凯"]……
 [charslot(slot = "m", name = "avg_npc_2039_1#4$1")]
-[name="斯凯"]优胜劣汰，园区准则......莱茵什么时候也被归到淘汰者的队伍里了？
+[name="斯凯"]优胜劣汰，园区准则……莱茵什么时候也被归到淘汰者的队伍里了？
 [dialog]
 [PlaySound(key="$d_avg_walkfast", volume=1)]
 [charslot(slot = "r", name = "avg_npc_2041_1#1$1", posfrom="300,0", posto="0,0", duration=1)]
@@ -25,28 +25,28 @@
 [charslot(slot = "r", afrom=1, ato=1, posfrom="0,0", posto="60,0", duration=1.5, isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "r",focus="r",isblock=true)]
-[name="雅斯彭"]抱歉......呃，斯凯先生？你怎么在这里！
+[name="雅斯彭"]抱歉……呃，斯凯先生？你怎么在这里！
 [charslot(slot = "m", name = "avg_npc_2039_1#3$1",focus="m")]
 [name="斯凯"]这话应该我来问吧？“幸运瘤兽”应该已经办完进驻资质注销手续了，你在这儿干嘛？
 [charslot(slot = "r", name = "avg_npc_2041_1#4$1",focus="r")]
-[name="雅斯彭"]我没有利用任何非法途径！在注销进驻资质前，我们靠自己解决了技术难题，实在太幸运了......
+[name="雅斯彭"]我没有利用任何非法途径！在注销进驻资质前，我们靠自己解决了技术难题，实在太幸运了……
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",focus="m")]
 [name="斯凯"]解决了？为什么没有人通报工程部？
 [charslot(slot = "r", name = "avg_npc_2041_1#5$1",focus="r")]
-[name="雅斯彭"]可能是事出突然，交接上出了问题......
+[name="雅斯彭"]可能是事出突然，交接上出了问题……
 [charslot(slot = "r", name = "avg_npc_2041_1#5$1",focus="r")]
 [name="雅斯彭"]再、再说了，刚刚高登长官都在广播里通报了——莱茵生命主导的工程检修全面暂停。
 [charslot(slot = "r", name = "avg_npc_2041_1#3$1",focus="r")]
 [name="雅斯彭"]现在，我也不需要向你汇报了吧？
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",focus="m")]
-[name="斯凯"]......
+[name="斯凯"]……
 [dialog]
 [PlaySound(key="$rungeneral")]
 [charslot(slot = "r", name = "avg_npc_2041_1#1$1",posfrom="70,0",posto="-30,0",afrom=1, ato=0, duration=0.8, isblock=true)]
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",focus="m")]
 [name="斯凯"]三天都没法解决的问题，突然就搞定了？
 [charslot(slot = "m", name = "avg_npc_2039_1#3$1",focus="m")]
-[name="斯凯"]幸运的“幸运瘤兽”吗......
+[name="斯凯"]幸运的“幸运瘤兽”吗……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
@@ -55,25 +55,25 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",focus="m")]
-[name="斯凯"]快点，读数，快点！他们的人指不定什么时候就回来了......
+[name="斯凯"]快点，读数，快点！他们的人指不定什么时候就回来了……
 [charslot(slot = "m", name = "avg_npc_2039_1#5$1",focus="m")]
-[name="斯凯"]......数据完全达标。不如说达标得有点太精准了，简直像是对着标准刻意调整过一样。
+[name="斯凯"]……数据完全达标。不如说达标得有点太精准了，简直像是对着标准刻意调整过一样。
 [charslot(slot = "m", name = "avg_npc_2039_1#5$1",focus="m")]
-[name="斯凯"]嗯？这几个......不是园区通用的螺丝型号吧？
+[name="斯凯"]嗯？这几个……不是园区通用的螺丝型号吧？
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",focus="m")]
-[name="斯凯"]拧不动。完全焊住了......整个核心动力装置都被封死了。
+[name="斯凯"]拧不动。完全焊住了……整个核心动力装置都被封死了。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_energywell", volume=0, loop=true, channel="en")]
 [SoundVolume(volume=0.5, channel="en",fadetime=2)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_2039_1#8$1",focus="m")]
-[name="斯凯"]......但我听也能听出来，园区允许使用的动力元件里，没有任何一个型号的能发出这种声响。
+[name="斯凯"]……但我听也能听出来，园区允许使用的动力元件里，没有任何一个型号的能发出这种声响。
 [stopsound(fadetime=2, channel="en")]
 [charslot(slot = "m", name = "avg_npc_2039_1#3$1",focus="m")]
 [name="斯凯"]他们是从哪搞来的这种不合规的奇怪元件？园区所有零件的采购权不是都归——
 [charslot(slot = "m", name = "avg_npc_2039_1#1$1",focus="m")]
-[name="斯凯"]哈......原来是这样，我还以为园区的准则真的是优胜劣汰。
+[name="斯凯"]哈……原来是这样，我还以为园区的准则真的是优胜劣汰。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_makephonecall")]
@@ -81,11 +81,11 @@
 [PlaySound(key="$d_avg_telephonebusy")]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",focus="m")]
-[name="斯凯"]......忙着帮那个混蛋整理莱茵的事故报告吗？
+[name="斯凯"]……忙着帮那个混蛋整理莱茵的事故报告吗？
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",focus="m")]
 [name="斯凯"]算了，就算上报给娜斯提主任，她也会质疑我没有证据。
 [charslot(slot = "m", name = "avg_npc_2039_1#3$1",focus="m")]
-[name="斯凯"]还有谁能帮我......
+[name="斯凯"]还有谁能帮我……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -144,17 +144,17 @@
 [charslot(slot="l", name = "avg_4212_nasti_1#4$1",focus="l")]
 [name="娜斯提"]那是因为我屏蔽了他的邮箱地址。
 [charslot(slot = "r", name = "char_249_muesys_1#2",focus="r")]
-[name="缪尔赛思"]咳......
+[name="缪尔赛思"]咳……
 [charslot(slot = "r", name = "char_249_muesys_1#1",focus="r")]
 [name="缪尔赛思"]在特里蒙郊外的地下，你偷偷帮着克丽斯腾实现她的梦想，现在终于轮到你自己了。
 [charslot(slot = "r", name = "char_249_muesys_1#7",focus="r")]
-[name="缪尔赛思"]娜斯提，你有没有想过......
+[name="缪尔赛思"]娜斯提，你有没有想过……
 [charslot(slot="l", name = "avg_4212_nasti_1#2$1",focus="l")]
 [name="娜斯提"]我不会回河谷。
 [charslot(slot="l", name = "avg_4212_nasti_1#2$1",focus="l")]
 [name="娜斯提"]河谷的安宁不属于一个残缺的女妖，也无法为她带来灵感。
 [charslot(slot = "r", name = "char_249_muesys_1#4",focus="r")]
-[name="缪尔赛思"]可是......
+[name="缪尔赛思"]可是……
 [dialog]
 [charslot(slot="l",focus="n")]
 [PlaySound(key="$d_avg_carhorn", volume=1)]
@@ -166,11 +166,11 @@
 [charslot(slot="l", name = "avg_4212_nasti_1#6$1",focus="l")]
 [name="娜斯提"]盆栽？
 [charslot(slot = "r", name = "char_249_muesys_1#1",focus="r")]
-[name="缪尔赛思"]它是我们生态科在荒漠挖到的，耐寒耐旱，跟你一样倔......就当是我送你的饯别礼吧。
+[name="缪尔赛思"]它是我们生态科在荒漠挖到的，耐寒耐旱，跟你一样倔……就当是我送你的饯别礼吧。
 [charslot(slot = "r", name = "char_249_muesys_1#1",focus="r")]
 [name="缪尔赛思"]不用放进生态箱，只要记得浇水就行，它会替我好好“监视”你的，说不定也会帮到你哦~
 [charslot(slot="l", name = "avg_4212_nasti_1#4$1",focus="l")]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [charslot(slot = "r", name = "char_249_muesys_1#1",focus="r")]
 [name="缪尔赛思"]作为回礼，你只要照顾好生态园和你自己，还有——
 [charslot(slot = "r", name = "char_249_muesys_1#5",focus="r")]
@@ -191,7 +191,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$m_dia_street_intro",key="$m_dia_street_loop", volume=0.6)]
 [charslot(slot = "l", name = "avg_4212_nasti_1#5$1",focus="l")]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [charslot(slot = "r", name = "avg_npc_529_1#1$1",focus="r")]
 [name="资深研究员"]主任，一楼生态箱内的枯枝已经全部清理好了，这盆盆栽是展区里唯一存活的植物。
 [charslot(slot = "l", name = "avg_4212_nasti_1#4$1",focus="l")]
@@ -220,7 +220,7 @@
 [charslot(slot = "r", name = "avg_npc_530_1#1$1",focus="r")]
 [name="地下研究员"]没有，我们一直在这里模拟实验环境。
 [charslot(slot = "l", name = "avg_4212_nasti_1#9$1",focus="l")]
-[name="娜斯提"]嗯，以防万一......
+[name="娜斯提"]嗯，以防万一……
 [charslot(slot = "l", name = "avg_4212_nasti_1#2$1",focus="l")]
 [name="娜斯提"]（萨卡兹语）显形。
 [dialog]
@@ -228,7 +228,7 @@
 [PlaySound(key="$d_avg_magic_1", volume=1)]
 [delay(time=0.8)]
 [charslot(slot = "m", name = "avg_4212_nasti_1#5$1")]
-[name="娜斯提"]没有其他人来过的痕迹......真的是意外？
+[name="娜斯提"]没有其他人来过的痕迹……真的是意外？
 [charslot(slot = "m", name = "avg_npc_530_1#1$1")]
 [name="地下研究员"]主任，枯死植株的所有数据已经整理成了分析报告，您现在要确认吗？
 [charslot(slot = "m", name = "avg_4212_nasti_1#1$1")]
@@ -241,7 +241,7 @@
 [delay(time=1)]
 [name="电子声"]娜斯提·鲁诺瑞伊，工程科主任，确认权限，已开启。
 [charslot(slot = "m", name = "avg_4212_nasti_1#1$1")]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [dialog]
 [stopmusic(fadetime=2)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -269,7 +269,7 @@
 [charslot(slot = "r", name = "avg_npc_901_1#1$1")]
 [charslot(slot = "l", name = "avg_npc_901_1#1$1", isblock=true)]
 [charslot(slot="l",focus="l")]
-[name="园区警卫A"]呃......
+[name="园区警卫A"]呃……
 [charslot(slot="r",focus="r")]
 [name="园区警卫B"]各位放心，我们只是受高登长官指示，模拟未来在影月上执行任务的情况。
 [charslot(slot="r",focus="r")]
@@ -285,7 +285,7 @@
 [delay(time=1.5)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_2044_1#1$1",posfrom="-200,0",charslot="0,0",duration=1.2, isblock=true)]
-[name="体验员"]原来真的是模拟演习......跟蓝卡坞大片《影月争霸》里的桥段一模一样！
+[name="体验员"]原来真的是模拟演习……跟蓝卡坞大片《影月争霸》里的桥段一模一样！
 [dialog]
 [charslot]
 [charslot(slot = "r", name = "avg_npc_1000_1#1$1", duration=0.5)]
@@ -295,7 +295,7 @@
 [charslot(slot = "r", name = "avg_npc_1000_1#1$1",focus="r")]
 [name="奥克里"]别打哈哈了，冒牌货。接下来我们应该往哪儿跑？
 [charslot(slot="l",name = "avg_4214_cairn_1#7$1", focus="l")]
-[name="费尔南"]飞天甜甜圈站的藏身之处不多，后面的环形廊道又容易被埋伏......
+[name="费尔南"]飞天甜甜圈站的藏身之处不多，后面的环形廊道又容易被埋伏……
 [charslot(slot = "r", name = "avg_npc_1000_1#2$1",focus="r")]
 [name="奥克里"]那我们难道出去送死？我俩可是签了旅行社合约的，你必须把我带出去！
 [charslot(slot="l",name = "avg_4214_cairn_1#3$1", focus="l")]
@@ -336,7 +336,7 @@
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_2044_1#1$1",isblock=true)]
 [name="体验员"]哦——这是在模拟电影高潮段落反派使用的空气炮？
-[name="体验员"]等等，这是源石火药的味道......
+[name="体验员"]等等，这是源石火药的味道……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_901_1#1$1",isblock=true)]
@@ -359,7 +359,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2034_1#7$1",isblock=true)]
-[name="高登"]一个两个都是废物！好不容易摁住了莱茵，又跑了一个不安分的导游......
+[name="高登"]一个两个都是废物！好不容易摁住了莱茵，又跑了一个不安分的导游……
 [charslot(slot = "m", name = "avg_npc_2034_1#7$1",isblock=true)]
 [name="高登"]要不是接下来还有生意要做，我一定亲自去把那个菲林逮回来。
 [charslot(slot = "m", name = "avg_npc_2040_1#1$1",isblock=true)]
@@ -385,7 +385,7 @@
 [charslot(slot = "m", name = "avg_npc_2034_1#9$1",isblock=true)]
 [name="高登"]我可不是七年前的毛头小子了。除非我把罪证送到他们面前，不然他们这辈子都不可能发现我的手段。
 [charslot(slot = "m", name = "avg_npc_2034_1#8$1",isblock=true)]
-[name="高登"]等到展会开始，上万件展品飞向天空，“秘密”“违规交易”......一切都不重要了。
+[name="高登"]等到展会开始，上万件展品飞向天空，“秘密”“违规交易”……一切都不重要了。
 [charslot(slot = "m", name = "avg_npc_2034_1#2$1",isblock=true)]
 [name="高登"]到时候所有人都会知道——不是莱茵，也不是特区政府，而是高登·谭农为“螺旋桨天堂”点了一把火。
 [dialog]
@@ -402,9 +402,9 @@
 [name="高登"]什么声音？
 [dialog]
 [charslot]
-[name="？？？"]别炸......底下......万一有人......
-[name="？？"]......花言巧语......！
-[name="？？？"]啊......！
+[name="？？？"]别炸……底下……万一有人……
+[name="？？"]……花言巧语……！
+[name="？？？"]啊……！
 [dialog]
 [PlaySound(key="$d_avg_cannon", volume=1)]
 [CameraShake(duration=8, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -427,8 +427,8 @@
 [name="费尔南"]（那群警卫真的说炸就炸啊！不对，这是哪里？为什么我的地图里没有标记这个地方？环形廊道还有暗门？）
 [name="费尔南"]（高登长官？怎么撞他铳口上了！这是他的圈套？可他为什么一脸惊讶地看着我，表情还那么僵硬？）
 [name="费尔南"]（墙上的东西，是展品？）
-[name="费尔南"]（不对！我当初被萨卡兹抓进黑市时，绝对在地摊上见过这种施术装置；还有那边的帽子，那不是萨尔贡墓室里长生军的标配吗......）
-[name="费尔南"]（嘶......我可能撞进不得了的地方了。现在装没看见，还来得及吗......）
+[name="费尔南"]（不对！我当初被萨卡兹抓进黑市时，绝对在地摊上见过这种施术装置；还有那边的帽子，那不是萨尔贡墓室里长生军的标配吗……）
+[name="费尔南"]（嘶……我可能撞进不得了的地方了。现在装没看见，还来得及吗……）
 [dialog]
 [curtain(direction = 0,fillfrom = 0.1,fillto = 0.2, fadetime=0.4, block=false)]
 [curtain(direction = 4,fillfrom = 0.5,fillto = 0.3, fadetime=0.4, block=true)]
@@ -437,7 +437,7 @@
 [name="高登"]（他妈的，自从这个冒牌讲解员闯进园区以来就没有一件好事！）
 [name="高登"]（她到底是莱茵的仇人，还是娜斯提派来的间谍？每次都破坏我的计划，生态园是一次，现在又是一次。）
 [name="高登"]（她在看什么？活性源石风暴的引导信标，还是长生军的巫术头盔？*哥伦比亚粗口*，她认出来了！）
-[name="高登"]（让这么一个人抓住我的把柄，指不定她会用这个消息去跟谁交易，要是娜斯提或者古斯塔夫知道了......）
+[name="高登"]（让这么一个人抓住我的把柄，指不定她会用这个消息去跟谁交易，要是娜斯提或者古斯塔夫知道了……）
 [dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -451,7 +451,7 @@
 两人的距离急速拉近，脑海里闪过的复杂念头全都消失，在撞击到来之前，两人只来得及说出一句话——
 [dialog]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=1, block=true)]
-[name="高登&费尔南"]完了......
+[name="高登&费尔南"]完了……
 [dialog]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=2, block=false)]
 [PlaySound(key="$d_avg_land_impact", volume=1, block=true)]

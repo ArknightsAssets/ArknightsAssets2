@@ -51,7 +51,7 @@
 [Decision(options="（移动棋子）", values="1")]
 [PlaySound(key="$d_avg_chess", volume=1, delay=0.5)]
 [Predicate(references="1")]
-[name="恩希欧迪斯"]......谷地一事，原本只是一手闲棋。
+[name="恩希欧迪斯"]……谷地一事，原本只是一手闲棋。
 [name="恩希欧迪斯"]我需要一个人引开佩尔罗契家的注意力，让我得以暗中调遣物资和人员。
 [name="恩希欧迪斯"]这个人若不是你，也会是别人。
 [name="恩希欧迪斯"]原本，事后我打算就此事向你致歉。
@@ -95,7 +95,7 @@
 [name="恩希欧迪斯"]有的时候，和意味着大胜，而有的时候，和则意味着大败。
 [Decision(options="对你来说，这样的结果是大胜，还是大败？", values="1")]
 [Predicate(references="1")]
-[name="恩希欧迪斯"]......对我来说，向来是若未取得大胜，就等同于大败。
+[name="恩希欧迪斯"]……对我来说，向来是若未取得大胜，就等同于大败。
 [name="恩希欧迪斯"]不过这一次，确实是例外。
 [name="恩希欧迪斯"]我的胜利毋庸置疑。
 [name="恩希欧迪斯"]但没想到的是，你为我的胜局开拓了另一种可能性。
@@ -154,10 +154,10 @@
 [Dialog]
 [Decision(options="你与圣女之间，并没有那么大的隔阂。", values="1")]
 [Predicate(references="1")]
-[name="恩希欧迪斯"]......但我们终究选了两条路。
+[name="恩希欧迪斯"]……但我们终究选了两条路。
 [name="恩希欧迪斯"]并且，这是我过去的选择带来的结果，我会为这个选择负责。
 [name="恩希欧迪斯"]而她也必须背负起她的选择，让谢拉格人在她的指导下而非我的策动下，走出这片凝滞。
-[name="恩希欧迪斯"]你向我、向谢拉格证明了你自己，也证明了......恩雅。
+[name="恩希欧迪斯"]你向我、向谢拉格证明了你自己，也证明了……恩雅。
 [Dialog]
 [Character]
 [Delay(time=0.51)]
@@ -212,7 +212,7 @@
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=2)]
 [name="雅儿"]圣女大人请说。
 [Character(name="avg_174_slbell_1#7$1",name2="avg_npc_250_1#1$1",focus=1)]
-[name="恩雅"]......我想知道，让我成为谢拉格的领导者，是祂的意思吗？
+[name="恩雅"]……我想知道，让我成为谢拉格的领导者，是祂的意思吗？
 [name="恩雅"]这一切都是祂的安排，我在这一连串的事件中产生的困惑，迷茫，和最后做出选择时的坚定——
 [name="恩雅"]都在祂的预料之中吗？
 [Dialog]
@@ -221,8 +221,8 @@
 她在害怕。
 她并不是在害怕自己的决定做错了，她所害怕的是，眼下的这一切，都不过只是神明的一场游戏。
 [Character(name="avg_174_slbell_1#7$1",name2="avg_npc_250_1#5$1",focus=2)]
-[name="雅儿"]......唯有这一点，我可以向您保证。
-[name="雅儿"]祂......从未想过要干涉您的意志，您的一切想法都出自您自身。
+[name="雅儿"]……唯有这一点，我可以向您保证。
+[name="雅儿"]祂……从未想过要干涉您的意志，您的一切想法都出自您自身。
 [Character(name="avg_174_slbell_1#7$1",name2="avg_npc_250_1#2$1",focus=2)]
 [name="雅儿"]说不定啊，人们对祂神迹的想象大多也都只出于自己的愿望与杜撰。
 [name="雅儿"]仅仅是在风雪中为人们开辟一片不受侵袭的土地，祂或许就已竭尽全力。
@@ -231,26 +231,26 @@
 [Character(name="avg_174_slbell_1#7$1",name2="avg_npc_250_1#7$1",focus=2)]
 [name="雅儿"]而您给出的答案，得到了祂的承认，仅此而已。
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#7$1",focus=1)]
-[name="恩雅"]......既然如此，可以帮我向祂请求一件事吗？
+[name="恩雅"]……既然如此，可以帮我向祂请求一件事吗？
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=2)]
 [name="雅儿"]您说说看。
 [Character(name="avg_174_slbell_1#10$1",name2="avg_npc_250_1#1$1",focus=1)]
 [name="恩雅"]请祂不要把你带走。
 [Character(name="avg_174_slbell_1#10$1",name2="avg_npc_250_1#8$1",focus=2)]
-[name="雅儿"]......欸？
+[name="雅儿"]……欸？
 [Character(name="avg_174_slbell_1#10$1",name2="avg_npc_250_1#8$1",focus=1)]
 [name="恩雅"]故事里通常不都是这样的吗。虽然我得到了答案，但代价却是失去了你。
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#8$1",focus=1)]
 [name="恩雅"]我不会随意向祂请求什么事情的，所以可以让你继续做我的侍女吗？
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#1$1",focus=2)]
-[name="雅儿"]......噗。
+[name="雅儿"]……噗。
 [Character(name="avg_174_slbell_1#1$1",name2="avg_npc_250_1#7$1",focus=2)]
 [name="雅儿"]哈哈哈，哈哈哈哈。
 [Character(name="avg_174_slbell_1#7$1",name2="avg_npc_250_1#7$1",focus=1)]
-[name="恩雅"]......
+[name="恩雅"]……
 [Character(name="avg_174_slbell_1#7$1",name2="avg_npc_250_1#1$1",focus=2)]
-[name="雅儿"]抱歉抱歉，我没想到您会提出这样可爱的要求......
-[name="雅儿"]不过......也是，圣女大人，既然如此，我们来约法三章吧。
+[name="雅儿"]抱歉抱歉，我没想到您会提出这样可爱的要求……
+[name="雅儿"]不过……也是，圣女大人，既然如此，我们来约法三章吧。
 [name="雅儿"]如果有一天，您不再坚持现在的理想，那么，我会离开您的身边。但是，在那之前，我将永远担任您的侍女长。
 [Character(name="avg_174_slbell_1#11$1",name2="avg_npc_250_1#1$1",focus=1)]
 [name="恩雅"]一言为定？
@@ -266,7 +266,7 @@
 [playMusic(intro="$storyendjp_intro", key="$storyendjp_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_206_gnosis_1#6$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -291,7 +291,7 @@
 [Character(name="avg_206_gnosis_1#2$1")]
 [name="诺希斯"]算了。
 [Character(name="avg_206_gnosis_1#8$1")]
-[name="诺希斯"]......我不在乎骂名，但如果每天都有人来我的研究所用石头砸窗户，终究令人烦躁。
+[name="诺希斯"]……我不在乎骂名，但如果每天都有人来我的研究所用石头砸窗户，终究令人烦躁。
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]而且，我也想见一见那位博士。
 [Character(name="avg_172_svrash_1#1$1")]
@@ -303,7 +303,7 @@
 [Character(name="avg_206_gnosis_1#2$1")]
 [name="诺希斯"]那么，我也想知道——一家似乎确实做到了抑制矿石病的公司，究竟拥有怎么样的技术实力。
 [Character(name="avg_172_svrash_1#12$1")]
-[name="恩希欧迪斯"]......诺希斯，你现在这副见猎心喜的样子，比你口中的我好不到哪里去。
+[name="恩希欧迪斯"]……诺希斯，你现在这副见猎心喜的样子，比你口中的我好不到哪里去。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -311,7 +311,7 @@
 [Background(image="24_g8_nobleroom",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_206_gnosis_1#8$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_npc_267_1#1$1")]
 [name="切斯特"]诺希斯，行李已经都打点好了，该出发了。
 [Character(name="avg_206_gnosis_1#1$1")]
@@ -319,7 +319,7 @@
 [Character(name="avg_npc_267_1#1$1")]
 [name="切斯特"]现在就出发吗？
 [Character(name="avg_206_gnosis_1#6$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_206_gnosis_1#7$1")]
 [name="诺希斯"]等等。
 [Dialog]
@@ -344,14 +344,14 @@
 [Dialog]
 [Character(name="avg_206_gnosis_1#6$1")]
 [delay(time=0.51)]
-[name="诺希斯"]......莫希？
+[name="诺希斯"]……莫希？
 [Dialog]
 朴素的房间中，一切都井然有序，唯独那个说话时总是会带着一丝阴沉的女孩不知所踪。
 他随即注意到，房间中央的桌子上，摆着一柄匕首。
 那是他过去送给莫希的匕首。
 [Dialog]
 [Character(name="avg_206_gnosis_1#5$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Dialog]
 [Character(fadetime=1.5)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -408,11 +408,11 @@
 [name="谢拉格商人"]那您今天想要什么，我这儿都免费！
 [name="谢拉格商人"]就当是为您送行了！
 [Character(name="avgnew_173_slchan_1#3$1")]
-[name="恩希亚"]这......
+[name="恩希亚"]这……
 [Character(name="avg_npc_278_1#1$1")]
 [name="谢拉格商人"]您就别客气啦，这是您应得的。
 [Character(name="avgnew_173_slchan_1#5$1")]
-[name="恩希亚"]......那我就不客气啦。
+[name="恩希亚"]……那我就不客气啦。
 [name="恩希亚"]我要这幅姐姐的画像，还有这幅刺绣，还有这个雕刻。
 [Character(name="avgnew_173_slchan_1#3$1")]
 [name="恩希亚"]咦，这幅画是——
@@ -424,12 +424,12 @@
 她一瞬间，停住了脚步。
 [Character(name="avg_npc_278_1#1$1")]
 [name="谢拉格商人"]啊，这幅画是描绘恩希欧迪斯老爷和圣女大人在谢拉格的未来上达成共识的景象。
-[name="谢拉格商人"]虽然我不知道是不是真的有这一幕存在，但是如今实质上治理谢拉格的无疑是恩希欧迪斯老爷与圣女大人......
+[name="谢拉格商人"]虽然我不知道是不是真的有这一幕存在，但是如今实质上治理谢拉格的无疑是恩希欧迪斯老爷与圣女大人……
 [name="谢拉格商人"]而大家都知道，二人是兄妹。
 [name="谢拉格商人"]那么，二人之间的关系一定是非常和谐的吧。
 [name="谢拉格商人"]您说说，是不是这么一回事？
 [Character(name="avgnew_173_slchan_1#7$1")]
-[name="恩希亚"]是呢......其他的话，我再看看......
+[name="恩希亚"]是呢……其他的话，我再看看……
 [Character(name="avgnew_173_slchan_1#10$1")]
 [name="恩希亚"]博士，你有什么想要的吗？
 [Dialog]
@@ -439,7 +439,7 @@
 [Character(name="avgnew_173_slchan_1#6$1")]
 [name="恩希亚"]好嘞！
 [Character(name="avg_npc_278_1#1$1")]
-[name="谢拉格商人"]呃......恩希亚小姐，虽说是免费，也请您手下留情啊。
+[name="谢拉格商人"]呃……恩希亚小姐，虽说是免费，也请您手下留情啊。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -447,19 +447,19 @@
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_198_blackd_1#7$1",name2="avg_199_yak_1#10$1",focus=1)]
-[name="魏斯"]......
+[name="魏斯"]……
 [Character(name="avg_198_blackd_1#7$1",name2="avg_199_yak_1#10$1",focus=2)]
-[name="角峰"]......博士。
+[name="角峰"]……博士。
 [name="角峰"]我们两个虽然有身为恩希欧迪斯老爷家臣的立场，但也确实是罗德岛的一员。
 [Character(name="avg_198_blackd_1#6$1",name2="avg_199_yak_1#10$1",focus=1)]
-[name="魏斯"]在许多事情上......很抱歉。
+[name="魏斯"]在许多事情上……很抱歉。
 [Character(name="avg_198_blackd_1#6$1",name2="avg_199_yak_1#5$1",focus=2)]
 [name="角峰"]我和讯使不会厚着脸皮奢求原谅，只希望能允许我们未来还能去罗德岛探望恩希亚小姐。
 [Character(name="avg_npc_252")]
-[name="Sharp"]......博士，怎么办？
+[name="Sharp"]……博士，怎么办？
 [Dialog]
 [Character(name="avg_198_blackd_1#7$1",name2="avg_199_yak_1#5$1",focus=-1)]
-[Decision(options="你们也不好做，可以理解。;......;我凑巧去佩尔罗契家做客，和你们有什么关系？", values="1;2;3")]
+[Decision(options="你们也不好做，可以理解。;……;我凑巧去佩尔罗契家做客，和你们有什么关系？", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="avg_npc_252")]
 [name="Sharp"]这件事确实情有可原，我会在报告里阐明。
@@ -475,7 +475,7 @@
 [name="Sharp"]我是不会帮你的。
 [Predicate(references="1;2;3")]
 [Character(name="avg_198_blackd_1#6$1",name2="avg_199_yak_1#8$1",focus=1)]
-[name="魏斯"]......谢谢你们，博士，Sharp队长。
+[name="魏斯"]……谢谢你们，博士，Sharp队长。
 [Character(name="avg_198_blackd_1#6$1",name2="avg_199_yak_1#8$1",focus=2)]
 [name="角峰"]谢谢你们。
 [Dialog]
@@ -491,26 +491,26 @@
 [Character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]杜宾教官！
 [Character(name="char_130_doberm_ex#3")]
-[name="杜宾"]圣女成为了谢拉格实质上的领袖，而恩希欧迪斯则获得了调用谢拉格大部分资源的权力......
+[name="杜宾"]圣女成为了谢拉格实质上的领袖，而恩希欧迪斯则获得了调用谢拉格大部分资源的权力……
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]博士，你应当听从我的忠告。
 [name="杜宾"]幸好，我没有在其他人的口中听到你的名字，看来，至少你们没有被卷入其中。
 [Character(name="avgnew_173_slchan_1#5$1")]
-[name="恩希亚"]呃......
+[name="恩希亚"]呃……
 [Character(name="avg_198_blackd_1#2$1")]
-[name="魏斯"]......
+[name="魏斯"]……
 [Character(name="avg_199_yak_1#2$1")]
-[name="角峰"]......
+[name="角峰"]……
 [Character(name="avg_422_aurora_1#4$1")]
-[name="极光"]......
+[name="极光"]……
 [Character(name="avg_npc_252")]
-[name="Sharp"]......
+[name="Sharp"]……
 [Dialog]
 [Character(name="char_130_doberm_ex",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Character(name="char_130_doberm_ex")]
-[name="杜宾"]......
+[name="杜宾"]……
 [Character(name="char_130_doberm_ex#4")]
 [name="杜宾"]看来，你们不仅被卷入其中了，恐怕还做了不少事。
 [name="杜宾"]我很期待看到你们的报告。
@@ -523,7 +523,7 @@
 [playMusic(intro="$storyendjp_intro", key="$storyendjp_loop", volume=0.4)]
 [Character(name="avgnew_173_slchan_1#7$1",fadetime=0.7)]
 [delay(time=0.7)]
-[name="恩希亚"]......
+[name="恩希亚"]……
 [name="恩希亚"]博士，你还记得刚才我们在那家店里看到的那幅画吗？
 [Dialog]
 [Character(name="avgnew_173_slchan_1#7$1",focus=-1)]
@@ -567,7 +567,7 @@
 [name="恩希亚"]总有一天，我要让老哥和姐姐之间的关系变回过去的样子。
 [Dialog]
 [Character(name="avgnew_173_slchan_1#8$1",focus=-1)]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Dialog]
 [PlaySound(key="$d_avg_snowbootwalk")]

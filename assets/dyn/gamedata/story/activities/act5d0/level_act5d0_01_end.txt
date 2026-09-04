@@ -12,21 +12,21 @@
 [Dialog]
 [Delay(time=1)]
 [Character(name="char_325_bison_1")]
-[name="拜松"]   这里就是企鹅物流的据点......
+[name="拜松"]   这里就是企鹅物流的据点……
 [name="拜松"]   （好乱，而且好暗。）
 [Character(name="char_102_texas_1",name2="char_325_bison_1#2",focus=1)]
 [name="德克萨斯"]   只是我们的据点之一，没怎么好好收拾，随意坐吧。
 [Character(name="char_102_texas_1",name2="char_325_bison_1",focus=2)]
-[name="拜松"]   啊，谢谢......我好像还没有正式向你们道谢，企鹅物流的各位。
+[name="拜松"]   啊，谢谢……我好像还没有正式向你们道谢，企鹅物流的各位。
 [Character(name="char_102_texas_1",name2="char_325_bison_1",focus=1)]
 [name="德克萨斯"]   只是工作，先做个自我介绍好了。
 [Character(name="char_325_bison_1#3")]
 [name="拜松"]   ——信使，代号拜松，来自龙门峯驰物流，受家父指教，前来贵司参观学习，请多关照。
-[name="拜松"]   关于我与大帝先生的合同内容，虽然之前已经确认过了，但还是......
+[name="拜松"]   关于我与大帝先生的合同内容，虽然之前已经确认过了，但还是……
 [Character(name="char_105_emper")]
 [name="大帝"]   慢着，我有个小问题，你那五大三粗的爹是怎么把你养得这么——
 [Character(name="char_102_texas_1#2")]
-[name="德克萨斯"]   ......老板。
+[name="德克萨斯"]   ……老板。
 [Character(name="char_105_emper")]
 [name="大帝"]   好，好，你继续。
 [Character(name="char_325_bison_1#4")]
@@ -47,11 +47,11 @@
 [Character(name="char_325_bison_1#2")]
 [name="拜松"]   （空？）
 [Character(name="char_325_bison_1#4")]
-[name="拜松"]   ......咳，当务之急是调查那些袭击我们的敌人，企鹅物流的各位有什么头绪吗？
+[name="拜松"]   ……咳，当务之急是调查那些袭击我们的敌人，企鹅物流的各位有什么头绪吗？
 [Character(name="char_325_bison_1#4",name2="char_103_angel_1#7",focus=2)]
 [name="能天使"]   头绪？不就是普通的业务纠纷吗？
 [Character(name="char_325_bison_1#2",name2="char_103_angel_1#7",focus=1)]
-[name="拜松"]   呃，业务纠纷......？
+[name="拜松"]   呃，业务纠纷……？
 [Dialog]
 [Character(name="char_105_emper")]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true)]
@@ -61,7 +61,7 @@
 [Character(name="char_102_texas_1",name2="char_105_emper",focus=1)]
 [name="德克萨斯"]   空来打扫过，可能那时候扔掉了吧。
 [Character(name="char_105_emper")]
-[name="大帝"]   啊，那我今天晚上会死的，不行，这可不行......
+[name="大帝"]   啊，那我今天晚上会死的，不行，这可不行……
 [name="大帝"]   啊，你继续，别在意。
 [Character(name="char_325_bison_1#4")]
 [name="拜松"]   首先我们应该明确敌人的目的——
@@ -79,13 +79,13 @@
 [name="大帝"]   啊，音乐，有了艺术的人生才不会无聊，赞美音乐，以及我自己！
 [name="大帝"]   拜松，接着说。
 [Character(name="char_325_bison_1#2")]
-[name="拜松"]   ......我、我说到哪了？
+[name="拜松"]   ……我、我说到哪了？
 [Character(name="char_325_bison_1#2",name2="char_105_emper",focus=2)]
 [name="大帝"]   他们的目的。
 [Character(name="char_325_bison_1#4",name2="char_105_emper",focus=1)]
 [name="拜松"]   对！他们的目的应该是我，也许，是为了挑拨贵司与我司的关系。
 [Character(name="char_325_bison_1#4",name2="char_105_emper",focus=2)]
-[name="大帝"]   什么啊，这点小事，还以为只是给之前的事情报仇......
+[name="大帝"]   什么啊，这点小事，还以为只是给之前的事情报仇……
 [Character(name="char_325_bison_1#4",name2="char_105_emper",focus=1)]
 [name="拜松"]   您有什么线索吗？
 [Character(name="char_102_texas_1",name2="char_105_emper",focus=2)]
@@ -95,12 +95,12 @@
 [Character(name="char_103_angel_1#7")]
 [name="能天使"]   唔，这种程度的打架每个月都会有个十七八次啦。信使不都是这样工作的吗？
 [Character(name="char_325_bison_1#2",name2="char_103_angel_1#7",focus=1)]
-[name="拜松"]   ......为什么？
-[name="拜松"]   信使不是应该更加隐秘一点，迅速一点......从来不是以武力为标准的啊。
+[name="拜松"]   ……为什么？
+[name="拜松"]   信使不是应该更加隐秘一点，迅速一点……从来不是以武力为标准的啊。
 [Character(name="char_325_bison_1#2",name2="char_103_angel_1#7",focus=2)]
 [name="能天使"]   是这样的吗？
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......我们明明是个物流公司，为什么总是被卷进帮派斗争里去？
+[name="德克萨斯"]   ……我们明明是个物流公司，为什么总是被卷进帮派斗争里去？
 [Character(name="char_105_emper")]
 [name="大帝"]   因为他们的品味太低，对自己生而为人的品位太低。
 [Character(name="char_201_moeshd")]
@@ -109,9 +109,9 @@
 [Character(name="char_103_angel_1#8")]
 [name="能天使"]   对嘛，这有什么问题吗？
 [Character(name="char_325_bison_1#4")]
-[name="拜松"]   ......？这真的没问题吗？
+[name="拜松"]   ……？这真的没问题吗？
 [Character(name="char_102_texas_1#2")]
-[name="德克萨斯"]   唉......
+[name="德克萨斯"]   唉……
 [Character(name="char_102_texas_1")]
 [name="德克萨斯"]   先等等。
 [name="德克萨斯"]   这里，是空留下的密码。
@@ -125,11 +125,11 @@
 [Character(name="char_103_angel_1#6",name2="char_102_texas_1",focus=2)]
 [name="德克萨斯"]   有巧克力的一面是长，尾巴是短，这是密码。
 [Character(name="char_325_bison_1#2")]
-[name="拜松"]   （这是什么独特的密码学......）
+[name="拜松"]   （这是什么独特的密码学……）
 [Character(name="char_201_moeshd#2")]
 [name="可颂"]   什么？那时候是当真的吗？不是玩笑？
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......我只是普通地记下了空的话。
+[name="德克萨斯"]   ……我只是普通地记下了空的话。
 [name="德克萨斯"]   “可疑分子”，唔，空可能追出去了。
 [Character(name="char_105_emper")]
 [name="大帝"]   随她去吧，已经到下班时间了。
@@ -142,7 +142,7 @@
 [Character(name="char_201_moeshd#5",name2="char_105_emper",focus=1)]
 [name="可颂"]   那算了！
 [Character(name="char_325_bison_1#4",name2="char_105_emper",focus=1)]
-[name="拜松"]   等等！那个......我们没有什么对策吗？
+[name="拜松"]   等等！那个……我们没有什么对策吗？
 [Character(name="char_325_bison_1#4",name2="char_105_emper",focus=2)]
 [name="大帝"]   不需要。
 [Character(name="char_325_bison_1#4",name2="char_105_emper",focus=1)]
@@ -150,21 +150,21 @@
 [Character(name="char_201_moeshd")]
 [name="可颂"]   走一步看一步呗。
 [Character(name="char_201_moeshd",name2="char_325_bison_1#4",focus=2)]
-[name="拜松"]   ......龙门近卫局不会介入吗？
+[name="拜松"]   ……龙门近卫局不会介入吗？
 [Character(name="char_103_angel_1#7")]
 [name="能天使"]   大概不会吧 ，他们应该都习惯了。
 [Character(name="char_325_bison_1",name2="char_103_angel_1#7",focus=1)]
-[name="拜松"]   呃......
+[name="拜松"]   呃……
 [Character(name="char_102_texas_1")]
 [name="德克萨斯"]   既来之则安之。
 [name="德克萨斯"]   但上个月发来的公物损害赔偿清单有点长，各自都稍微注意一点。
 [Character(name="char_325_bison_1")]
-[name="拜松"]   ......那，平时的工作呢？
+[name="拜松"]   ……那，平时的工作呢？
 [Character(name="char_103_angel_1#3")]
 [name="能天使"]   按照委托送货，然后打架。如果要打架的话，打架优先。
 [name="能天使"]   顺便一提，任何委托只过老板一手，至于谁来做，谁能抢到就算谁的！
 [Character(name="char_325_bison_1")]
-[name="拜松"]   ......
+[name="拜松"]   ……
 [Character(name="char_325_bison_1",name2="char_105_emper",focus=2)]
 [name="大帝"]   喂，叫拜松的小子，你爹把你托付给我们，哪怕只是暂时的，你也是企鹅物流的一员了，明白吗？
 [Character(name="char_325_bison_1",name2="char_105_emper",focus=1)]
@@ -176,7 +176,7 @@
 [Character(name="char_201_moeshd#4")]
 [name="可颂"]   我记得是“及时行乐”。
 [Character(name="char_105_emper")]
-[name="大帝"]   ......差不多。
+[name="大帝"]   ……差不多。
 [name="大帝"]   想要绑架你这样的公子哥的罪犯不在少数，按我们的规矩，来一个打一个，就这么简单。
 [name="大帝"]   ——等等，怎么感觉屁股怪怪的，我完美的人体工程学沙发椅下是不是有什么东西？
 [Character]
@@ -185,7 +185,7 @@
 [Character(name="char_105_emper")]
 [name="大帝"]   胡说，我怎么会蠢到把零食藏在这种——糖果盒？
 [Character]
-[name="能天使"]   就是糖果盒啊，上面还写着“维多利亚水果软糖”......
+[name="能天使"]   就是糖果盒啊，上面还写着“维多利亚水果软糖”……
 [Character(name="char_102_texas_1#4")]
 [name="德克萨斯"]   离远点能天使，那大概是个陷阱，别打开——
 [stopmusic(fadetime=0.5)]

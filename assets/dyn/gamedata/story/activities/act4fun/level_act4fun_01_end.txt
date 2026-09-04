@@ -72,7 +72,7 @@
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot]
-......
+……
 二人就这样聊了起来。
 主播U口若悬河，滔滔不绝，向工作人员夸耀自己的种种过人之处。
 而这些本来应该被归类为“自吹自擂”的东西，经主播U的口中讲出，不知为何，反而变得极具感染力。
@@ -88,11 +88,11 @@
 [delay(time=2)]
 [charslot(fadetime=0)]
 [charslot(slot="m",name="avg_4091_ulika_1#1$1",focus="r")]
-[name="工作人员"]真是的，正和U老师聊到有趣的地方，怎么老是有人来电话啊，打了十四五通了，真烦人......
+[name="工作人员"]真是的，正和U老师聊到有趣的地方，怎么老是有人来电话啊，打了十四五通了，真烦人……
 [charslot(slot="m",name="avg_4091_ulika_1#2$1",focus="m")]
 [name="主播U"]没关系的，你先接电话也可以，不碍事，我去给我们俩泡点茶喝。
 [charslot(fadetime=0)]
-[name="工作人员"]好的。唉，到底是哪个不长眼的......
+[name="工作人员"]好的。唉，到底是哪个不长眼的……
 [charslot(fadetime=0)]
 [name="工作人员"]喂？您好？
 [charslot(fadetime=0)]
@@ -103,7 +103,7 @@
 [charslot(slot="m",name="avg_4091_ulika_1#2$1",focus="r")]
 [name="工作人员"]（嘴唇蠕动）
 [charslot(slot="m",name="avg_4091_ulika_1#1$1",focus="m")]
-[name="主播U"]顺带一提，刚刚你那个问题我在泡茶的时候想了想，说实话，我的评价是......
+[name="主播U"]顺带一提，刚刚你那个问题我在泡茶的时候想了想，说实话，我的评价是……
 [charslot(slot="m",name="avg_4091_ulika_1#1$1",focus="r")]
 [name="工作人员"]（制止的目光）
 [dialog]

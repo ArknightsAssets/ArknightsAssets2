@@ -12,7 +12,7 @@
 [Subtitle(text="恩雅，我知道你可以做到。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="——如果我不想呢？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="——如果我失败了呢？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="所有的反驳和疑问，我一句都没有说出口。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="因为我知道他会怎么回答，他一定会说。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [delay(time=1)]
@@ -38,13 +38,13 @@
 [name="谢拉格平民A"]亲爱的，你快出来看，那是恩希欧迪斯老爷吗？
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_277_1#1$1",focus=2)]
 [name="谢拉格平民B"]怎么可能，明天就是上山圣猎的日子了，老爷这时候不准备给圣女的供奉，一早跑到领地来视察做什么？
-[name="谢拉格平民B"]......等等，这还真是恩希欧迪斯老爷！
+[name="谢拉格平民B"]……等等，这还真是恩希欧迪斯老爷！
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_277_1#1$1",focus=1)]
 [name="谢拉格平民A"]我听说，最早人们进圣山是不许骑驮兽的。
 [name="谢拉格平民A"]尤其是要去拜见圣女的人们，要从跨出自家门槛的第一步开始，双掌合十，眼不离地，低着头一路祈祷过去。
 [name="谢拉格平民A"]你看老爷现在的样子，莫不是他想效仿传统？
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_277_1#1$1",focus=2)]
-[name="谢拉格平民B"]是啊，是啊。我是听说过这种习俗，可老爷他......毕竟是老爷啊，竟然也要这么低着头一步一步走到圣山上面去。
+[name="谢拉格平民B"]是啊，是啊。我是听说过这种习俗，可老爷他……毕竟是老爷啊，竟然也要这么低着头一步一步走到圣山上面去。
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_277_1#1$1",focus=1)]
 [name="谢拉格平民A"]你在说什么呢，老爷也是耶拉冈德的子民啊，你难道也和佩尔罗契家的傻子一样，觉得他忘了本？
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_277_1#1$1",focus=2)]
@@ -95,7 +95,7 @@
 [character(name="avg_174_slbell_1#3$1",name2="avg_npc_250_1#1$1",focus=2)]
 [name="雅儿"]这么说来，明天圣猎时，您可要小心脚下。
 [character(name="avg_174_slbell_1#3$1",name2="avg_npc_250_1#6$1",focus=2)]
-[name="雅儿"]......大长老到了。
+[name="雅儿"]……大长老到了。
 [character(name="avg_174_slbell_1#10$1",name2="avg_npc_250_1#6$1",focus=1)]
 [name="恩雅"]唉，我需要小心的麻烦事多着呢。
 [Dialog]
@@ -161,7 +161,7 @@
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#8$1",focus=2)]
 [name="恩雅"]或许耶拉冈德需要圣女去传达祂的怒火。
 [character(name="avg_npc_258_1#3$1",name2="avg_174_slbell_1#8$1",focus=1)]
-[name="大长老"]......圣殿之上，切莫妄言。
+[name="大长老"]……圣殿之上，切莫妄言。
 [character(name="avg_npc_258_1#3$1",name2="avg_174_slbell_1#8$1",focus=2)]
 [name="恩雅"]另外，“勤劳者必将掌权，懒惰者必将受苦”。
 [name="恩雅"]我虽然知道三族交权于圣女，并非要圣女掌握实权。
@@ -187,10 +187,10 @@
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_278_1#1$1",focus=2)]
 [name="谢拉格平民D"]真要遵照传统的话，老爷这一路，确实要不吃不喝，不眠不休。
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_278_1#1$1",focus=1)]
-[name="谢拉格平民C"]可......已经一天了，爸。去圣山的路程，到我们这镇上才刚过半。
+[name="谢拉格平民C"]可……已经一天了，爸。去圣山的路程，到我们这镇上才刚过半。
 [name="谢拉格平民C"]而且前面出了镇子，天也要黑了，雪原上不知道会有什么危险。
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_278_1#1$1",focus=2)]
-[name="谢拉格平民D"]啊，老爷来了......
+[name="谢拉格平民D"]啊，老爷来了……
 [Dialog]
 [Character]
 [PlaySound(key="$d_avg_crwddiscuss_outside", volume=1)]
@@ -198,7 +198,7 @@
 听到脚步声的人们好奇地从窗口探出头，或者走出房门站在街道两侧。
 [character(name="avg_npc_280_1#1$1",name2="avg_npc_278_1#1$1",focus=1)]
 [name="谢拉格平民C"]爸。
-[name="谢拉格平民C"]要是不能给老爷送碗水喝......我想跟着他到圣山脚下。
+[name="谢拉格平民C"]要是不能给老爷送碗水喝……我想跟着他到圣山脚下。
 [name="谢拉格平民C"]老爷开工厂教我技术的时候，我就决定跟着他。现在老爷心诚，要去拜圣山，我更要跟着他。
 [Dialog]
 [Character]

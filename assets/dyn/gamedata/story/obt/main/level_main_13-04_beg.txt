@@ -51,7 +51,7 @@
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]这里的环境让人很不安，博士，我们之前还在一片密林中。
 [name="Logos"]随着雾气渐浓，我们眼前的景色已然迥异。
-[name="Logos"]一片......河谷。
+[name="Logos"]一片……河谷。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_doc_1#1",focus="m",duration=2)]
@@ -63,7 +63,7 @@
 [Sticker(id="st1")]
 [charslot]
 [Sticker(id="st1", multi = true, text="阿斯卡纶沉默地抱着还未醒来的阿米娅，走在前列。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n她和以往一样，一言不发。但我能察觉到，她如今的沉默，比以往......更加暗淡。",block = true)]
+[Sticker(id="st1", multi = true, text="\n她和以往一样，一言不发。但我能察觉到，她如今的沉默，比以往……更加暗淡。",block = true)]
 [Sticker(id="st1", multi = true, text="\n我还记得她与我匆忙会合的时候，那一闪而过的，我难以分辨的表情。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -116,11 +116,11 @@
 [delay(time=1)]
 [musicvolume(volume=1, fadetime=1)]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]......母亲。
+[name="Logos"]……母亲。
 [charslot(slot="m",name="avg_doc_1#1",focus="m")]
 Logos，怎么了？
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......没什么。
+[name="Logos"]……没什么。
 [name="Logos"]尝试直接撕裂这片景色吧，这有些风险，但却是最好的方法。
 [name="Logos"]我不知道离开这里是否安全，阿斯卡纶。
 [dialog]
@@ -191,33 +191,33 @@ Logos，怎么了？
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="m")]
 [name="女妖"]收好。
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="none")]
-[name="Logos"]这是......
+[name="Logos"]这是……
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="m")]
 [name="女妖"]你的骨哨，我为它调了律，加上了王庭的徽记。
 [charslot(slot="m",name="avg_npc_1071_1#9$1",focus="m")]
 [name="女妖"]当然，还有一个充满魔力的吻。
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="none")]
-[name="Logos"]......嗯。
+[name="Logos"]……嗯。
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="m")]
 [name="女妖"]只要骨哨声响起，所有萨卡兹都会知道，这是丧钟的意志。
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="none")]
-[name="Logos"]......
+[name="Logos"]……
 [name="Logos"]母亲，女妖之主应该做什么？
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="m")]
 [name="女妖"]做你认为必须做的。
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="none")]
-[name="Logos"]我曾和您谈起过我的那些......疯话。
+[name="Logos"]我曾和您谈起过我的那些……疯话。
 [name="Logos"]被束缚的萨卡兹没有出路，就如同您曾经送给我的编织项链，结果只有破碎一途。
 [name="Logos"]而束缚我们的，正是我们的身份，我们的所属。
 [name="Logos"]“王庭”，也许还有，“魔王”。
 [charslot(slot="m",name="avg_npc_1071_1#1$1",focus="m")]
-[name="女妖"]......
+[name="女妖"]……
 [charslot(slot="m",name="avg_npc_1071_1#1$1",focus="none")]
 [name="Logos"]可您还是把这个身份交给了我。
 [charslot(slot="m",name="avg_npc_1071_1#1$1",focus="m")]
 [name="女妖"]灭亡的终点一旦抵达，腐朽的躯骸就永不可能再度苏生。
 [charslot(slot="m",name="avg_npc_1071_1#2$1",focus="m")]
-[name="女妖"]但......这就是规律。
+[name="女妖"]但……这就是规律。
 [charslot(slot="m",name="avg_npc_1071_1#1$1",focus="m")]
 [name="女妖"]我们为一切鸣响丧钟，为他人，也为自己。
 [name="女妖"]但这是要肩负责任的。
@@ -234,13 +234,13 @@ Logos，怎么了？
 [Dialog]
 [playsound(key="$d_avg_boneflute")]
 [delay(time=3)]
-[name="Logos"]......呼。
+[name="Logos"]……呼。
 [charslot(slot="m",name="avg_npc_1071_1#9$1",focus="m")]
 [name="女妖"]哎呀，真不赖。
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="m")]
 [name="女妖"]小小的新的女妖之主啊，您第一首稚嫩的丧钟为谁而鸣？
 [charslot(slot="m",name="avg_npc_1071_1#8$1",focus="none")]
-[name="Logos"]......为我自己。
+[name="Logos"]……为我自己。
 [name="Logos"]为所有过去和未来将要腐朽的王庭。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -255,7 +255,7 @@ Logos，怎么了？
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="萨卡兹必须书写新的词句。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
@@ -292,7 +292,7 @@ Logos，怎么了？
 [playMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.6)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_395_1#10$1",focus="m")]
-[name="阿斯卡纶"]这是......
+[name="阿斯卡纶"]这是……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]血魔的巫术。
 [name="Logos"]但血魔无法营造出刚才的景观，恐怕还有别的存在在帮助他。
@@ -304,10 +304,10 @@ Logos，怎么了？
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]这里的回路并不完整，但是......有几个可被阅读的象征。
+[name="Logos"]这里的回路并不完整，但是……有几个可被阅读的象征。
 [name="Logos"]“纯化”。
-[name="Logos"]......它想对我们的血脉产生影响。对萨卡兹的血脉。
-[name="Logos"]这种术式......与萨卡兹的力量有关。
+[name="Logos"]……它想对我们的血脉产生影响。对萨卡兹的血脉。
+[name="Logos"]这种术式……与萨卡兹的力量有关。
 [charslot]
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -386,7 +386,7 @@ Logos，怎么了？
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_doc_1#1",focus="m")]
-你是......
+你是……
 [charslot]
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -394,11 +394,11 @@ Logos，怎么了？
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot = "m", name = "avg_4071_peper_1#8$1",focus="m")]
-[name="明椒"]呃......
+[name="明椒"]呃……
 [name="明椒"]你是那个，“博士”？我在海布里区的军工厂看见过你！
 [charslot(slot = "m", name = "avg_4071_peper_1#14$1",focus="m")]
 [name="明椒"]你怎么会在这里？
-[name="明椒"]还有一个昏迷的卡特斯，和......萨卡兹？
+[name="明椒"]还有一个昏迷的卡特斯，和……萨卡兹？
 [charslot(slot="m",name="avg_doc_1#1",focus="m")]
 在诺伯特区，你为难民们提供了物资。
 [charslot(slot = "m", name = "avg_4071_peper_1#11$1",focus="m")]
@@ -408,8 +408,8 @@ Logos，怎么了？
 [Dialog]
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_4071_peper_1#4$1",focus="m")]
-[name="明椒"]这位卡特斯小姐的状态好像不太好？你的胳膊也......
-[name="明椒"]你们，呃，你们跟萨卡兹在一起，应该......没什么问题吧？
+[name="明椒"]这位卡特斯小姐的状态好像不太好？你的胳膊也……
+[name="明椒"]你们，呃，你们跟萨卡兹在一起，应该……没什么问题吧？
 [Dialog]
 [charslot]
 [delay(time=0.2)]
@@ -423,7 +423,7 @@ Logos，怎么了？
 [charslot(slot="l",name="avg_npc_935_1#1$1",focus="l")]
 [name="疲惫的萨卡兹"]明椒，你怎么在跟那些鬼魂说话？
 [charslot(slot="r",name="avg_npc_054",focus="r")]
-[name="凶狠的萨卡兹"]一个......戴着兜帽的人，一只昏迷的兔子，还有个萨卡兹？
+[name="凶狠的萨卡兹"]一个……戴着兜帽的人，一只昏迷的兔子，还有个萨卡兹？
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4071_peper_1#11$1",focus="m")]
@@ -445,7 +445,7 @@ Logos，怎么了？
 [name="“司机”"]呜哇！
 [name="“司机”"]矿工，你也来瞧瞧，果然是真的！
 [charslot(slot="m",name="avg_npc_054",focus="m")]
-[name="“矿工”"]你......你这身衣服，挺值钱对吧？
+[name="“矿工”"]你……你这身衣服，挺值钱对吧？
 [Dialog]
 [charslot]
 [delay(time=0.2)]
@@ -462,7 +462,7 @@ Logos，怎么了？
 [Dialog]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="“老财”"]您好，哈哈......您也许在卡兹戴尔见过我，我的杂货店还算有点名气......
+[name="“老财”"]您好，哈哈……您也许在卡兹戴尔见过我，我的杂货店还算有点名气……
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="这个外号老财的男人搓着手，谄媚地看着我。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
@@ -470,25 +470,25 @@ Logos，怎么了？
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="“老财”"]您是......王庭的成员，对吧？我认得您这身衣服......您是，土石之子？
+[name="“老财”"]您是……王庭的成员，对吧？我认得您这身衣服……您是，土石之子？
 [charslot]
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n看来这家伙并不了解什么王庭。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......我是女妖。
+[name="Logos"]……我是女妖。
 [charslot(slot = "m", name = "avg_npc_935_1#1$1",focus="m")]
 [name="“司机”"]男性女妖？女妖不基本都是女性吗？
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]是的。
 [charslot(slot = "m", name = "avg_npc_935_1#1$1",focus="m")]
-[name="“司机”"]呼，我在卡西米尔可从来没听说过男女妖......呃，我是不是太失礼了......
+[name="“司机”"]呼，我在卡西米尔可从来没听说过男女妖……呃，我是不是太失礼了……
 [name="“司机”"]明椒，你居然认识这种大人物？！
 [charslot(slot = "m", name = "avg_4071_peper_1#15$1",focus="m")]
-[name="明椒"]......不、不算认识吧......
+[name="明椒"]……不、不算认识吧……
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]你们在运货？
 [dialog]
@@ -499,7 +499,7 @@ Logos，怎么了？
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]你们要把这些物资运去哪里？这些好像是仪式的材料？
 [charslot(slot = "m", name = "avg_4071_peper_1#12$1",focus="m")]
-[name="明椒"]呃......我不知道该怎么说，我们只是跟着路线图巡查，有些法阵会有点损坏，我们就要修好它们。
+[name="明椒"]呃……我不知道该怎么说，我们只是跟着路线图巡查，有些法阵会有点损坏，我们就要修好它们。
 [charslot(slot="m",name="avg_doc_1#1",focus="m")]
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -512,18 +512,18 @@ Logos，怎么了？
 [charslot(slot="m",name="avg_doc_1#1",focus="m")]
 尊贵的女妖大人，我们这样不可能活着穿越战场，求求你干脆让我们解脱吧。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="我马上理解了博士的想法，但......我真的很不熟悉做这种事。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我马上理解了博士的想法，但……我真的很不熟悉做这种事。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [name="Logos"]你们的运输队被我征用了。我们正在执行极其特殊的任务，却在路上遇到了袭击，你们的协助将会被我铭记。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="“老财”"]哈哈，能够为王庭成员服务是我们的荣幸，阁下！
-[name="“老财”"]就是......被报丧女妖铭记......总觉得不太吉利。能不能......
+[name="“老财”"]就是……被报丧女妖铭记……总觉得不太吉利。能不能……
 [Dialog]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [delay(time=0.2)]
@@ -542,19 +542,19 @@ Logos，怎么了？
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="“老财”"]哈哈，感谢老爷！
 [charslot(slot = "m", name = "avg_4071_peper_1#4$1",focus="m")]
-[name="明椒"]可我们的运输任务......
+[name="明椒"]可我们的运输任务……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]事后我会向你的上级说明。
 [charslot(slot="m",name="avg_npc_054",focus="m")]
 [name="“矿工”"]特殊任务？为什么会带着这两个异族人？
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......他们是我的俘虏。
+[name="Logos"]……他们是我的俘虏。
 [charslot(slot = "m", name = "avg_4071_peper_1#14$1",focus="m")]
-[name="明椒"]俘虏？可是，你们......
+[name="明椒"]俘虏？可是，你们……
 [charslot(slot = "m", name = "avg_4071_peper_1#15$1",focus="m")]
-[name="明椒"]......
+[name="明椒"]……
 [charslot(slot = "m", name = "avg_4071_peper_1#12$1",focus="m")]
-[name="明椒"]好吧......但结束之后，你们要和我一起去见曼弗雷德将军。
+[name="明椒"]好吧……但结束之后，你们要和我一起去见曼弗雷德将军。
 [name="明椒"]我们先去整理几个位置出来。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.9)]
@@ -574,12 +574,12 @@ Logos，想办法分一辆车给阿斯卡纶。
 [charslot(slot="m",name="avg_doc_1#1",focus="m")]
 可露希尔和自救军的队伍中没有合适的战斗人员，凯尔希受了伤，闪灵很强大，但赦罪师一定为她单独准备了手段。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......我明白了。
+[name="Logos"]……我明白了。
 [charslot(slot="m",name="avg_doc_1#1",focus="m")]
 阿米娅的状态恐怕不是药物所能治愈的，她现在更需要的，是在醒来之前，不再落入赦罪师们的视线之中。
 借助这支小队行动，反而会更安全。
 我会让阿斯卡纶支援凯尔希，这里有你在。
-况且......
+况且……
 [Dialog]
 [charslot]
 [delay(time=1)]
@@ -590,7 +590,7 @@ Logos，想办法分一辆车给阿斯卡纶。
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]这些结晶......不是简单的源石。
+[name="Logos"]这些结晶……不是简单的源石。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

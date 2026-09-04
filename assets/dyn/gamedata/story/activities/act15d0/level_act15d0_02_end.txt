@@ -7,7 +7,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
-[name="A区囚犯A"]疼疼疼......
+[name="A区囚犯A"]疼疼疼……
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
 [name="罗宾"]忍一忍，一下就好了。
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -24,7 +24,7 @@
 [Character(name="avg_npc_134")]
 [name="狱警"]啐。
 [Character(name="char_451_robin#3")]
-[name="罗宾"]......他说的应该是医务室吧，为什么会叫停尸间？
+[name="罗宾"]……他说的应该是医务室吧，为什么会叫停尸间？
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
 [name="A区囚犯A"]啊，那是因为这里的医务室和停尸间是连着的，而且医生和入殓师是一个人。
 [name="A区囚犯A"]那个人给人的感觉比较诡异，别说狱警，其实我们没事都不太愿意靠近那边。
@@ -42,7 +42,7 @@
 [name="？？？"]你需要帮忙吗？
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
 [name="A区囚犯A"]噫！杜玛小姐，你、你怎么来了。
-[name="A区囚犯A"]啊，我刚才都是瞎说的，那个......
+[name="A区囚犯A"]啊，我刚才都是瞎说的，那个……
 [Character(name="char_441_lotus_1#4")]
 [name="杜玛"]没事，我也不太在乎。
 [name="杜玛"]比起这个，要来医务室吗？
@@ -51,7 +51,7 @@
 [Character(name="avg_npc_132", name2="char_451_robin#5",focus=2)]
 [name="罗宾"]嗯，交给我就好。
 [Character(name="char_441_lotus_1#3")]
-[name="杜玛"]......你的包扎手法不错，那就交给你了。
+[name="杜玛"]……你的包扎手法不错，那就交给你了。
 [Character(name="avg_npc_132", name2="char_451_robin#5",focus=2)]
 [name="罗宾"]好。
 [Dialog]
@@ -66,11 +66,11 @@
 [Delay(time=3)]
 [musicvolume(volume=0.4, fadetime=2)]
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
-[name="A区囚犯A"]呼......
+[name="A区囚犯A"]呼……
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
 [name="罗宾"]你很怕她吗？
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
-[name="A区囚犯A"]害怕......不至于，毕竟杜玛小姐还是救了许多人的，但是她确实挺古怪的，就单纯的有些不想接近吧。
+[name="A区囚犯A"]害怕……不至于，毕竟杜玛小姐还是救了许多人的，但是她确实挺古怪的，就单纯的有些不想接近吧。
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
 [name="罗宾"]这样。
 [name="罗宾"]好了，你动一动手臂。
@@ -81,15 +81,15 @@
 [delay(time=0.51)]
 [CameraShake(duration=1, xstrength=30, vibrato=5, randomness=10, fadeout=true, block=false)]
 [Delay(time=2)]
-[name="A区囚犯A"]......呼，好多了。
+[name="A区囚犯A"]……呼，好多了。
 [name="A区囚犯A"]你这法子真灵啊，罗宾，你以前是做什么的？
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=2)]
-[name="罗宾"]我以前......是在私人安保公司做事的。
+[name="罗宾"]我以前……是在私人安保公司做事的。
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=1)]
 [name="A区囚犯A"]私人安保公司？那不是很赚钱吗？
 [name="A区囚犯A"]而且你性格也挺不错，我都想不出你这样的人会犯罪进监狱。
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=2)]
-[name="罗宾"]......我的爸爸失业后就一蹶不振，一直酗酒，肝出了很大的问题，医药费要很多钱，所以我就铤而走险......
+[name="罗宾"]……我的爸爸失业后就一蹶不振，一直酗酒，肝出了很大的问题，医药费要很多钱，所以我就铤而走险……
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=1)]
 [name="A区囚犯A"]这样啊，啧啧，看来你也不容易。
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
@@ -97,7 +97,7 @@
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
 [name="A区囚犯A"]我？嘿，我是做生意的，老婆勾结情夫想把我干掉吞并我的财产，结果最后关头被我反杀了，就这么简单。
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=2)]
-[name="罗宾"]......
+[name="罗宾"]……
 [Character]
 [Dialog]
 [Character(name="avg_npc_132")]
@@ -174,12 +174,12 @@
 [Character(name="char_empty",name2="avg_npc_132",fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_npc_132", name2="char_451_robin#2",focus=2)]
-[name="罗宾"]你怎么会有那个......
+[name="罗宾"]你怎么会有那个……
 [Character(name="avg_npc_132", name2="char_451_robin#2",focus=1)]
 [name="A区囚犯A"]嘿，在这里待久了，总是能搞到一些东西的。
 [name="A区囚犯A"]你要是想要的话，我也可以给你一点。
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
-[name="罗宾"]不用了，比起这个，进C区的囚犯呢......
+[name="罗宾"]不用了，比起这个，进C区的囚犯呢……
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
 [name="A区囚犯A"]哦，总之这里就是没什么工作人员嘛，但是卫生之类的总得有人搞不是。
 [name="A区囚犯A"]你总不会以为这帮狱警大爷会自己干活吧？
@@ -205,12 +205,12 @@
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
 [name="A区囚犯A"]因为他们最后都死在荒野上了。
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
-[name="罗宾"]......不能在停靠都市的时候越狱吗？
+[name="罗宾"]……不能在停靠都市的时候越狱吗？
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
 [name="A区囚犯A"]嘿，你都能想到，你以为其他人想不到？每次停靠城市的时候，所有狱警都会打起十二万分精神。
 [name="A区囚犯A"]就算是安东尼这样的人物也逃不出去的。
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=2)]
-[name="罗宾"]安东尼......
+[name="罗宾"]安东尼……
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=1)]
 [name="A区囚犯A"]嘿，不过要我说，他也根本不用逃出去。
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
@@ -220,15 +220,15 @@
 [name="A区囚犯A"]他虽然不闹事，但是实力和威信摆在那。
 [name="A区囚犯A"]你知不知道，地下那座图书馆就是他跟典狱长提议建立的？
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=2)]
-[name="罗宾"]这么厉害......
+[name="罗宾"]这么厉害……
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
-[name="A区囚犯A"]嘿，这话你可别到处说，不过其实我们私下都觉得，安东尼要是想要一直待在这座监狱的话......
+[name="A区囚犯A"]嘿，这话你可别到处说，不过其实我们私下都觉得，安东尼要是想要一直待在这座监狱的话……
 [name="A区囚犯A"]那就没典狱长什么事了，他才是这座监狱的主人。
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=2)]
-[name="罗宾"]......
+[name="罗宾"]……
 [name="A区囚犯A"]不过你说也是怪事，安东尼这样的人，怎么就来了监狱，还真就待了这么久什么事都没发生呢。
 [Character(name="avg_npc_132", name2="char_451_robin#6",focus=1)]
-[name="罗宾"]......
+[name="罗宾"]……
 [Dialog]
 [Character]
 [Delay(time=1)]
@@ -243,7 +243,7 @@
 [Character(name="avg_npc_132")]
 [name="A区囚犯A"]啊？没事了没事了，罗宾包扎得好，我好多了。
 [Character(name="avg_npc_136#1",blackstart=0.14,blackend=0.4,name2="char_451_robin#3",focus=1)]
-[name="狱警"]......
+[name="狱警"]……
 [Character(name="avg_npc_136#1",blackstart=0.14,blackend=0.4)]
 [name="狱警"]那就别磨蹭了。
 [Dialog]
@@ -251,7 +251,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Delay(time=2)]
 [Character(name="char_451_robin#3")]
-[name="罗宾"]（刚才，这个人看了我一眼......）
+[name="罗宾"]（刚才，这个人看了我一眼……）
 [Character(name="avg_npc_132", name2="char_451_robin#3",focus=1)]
 [name="A区囚犯A"]嘿，这个狱警居然关心了我一下，真是见鬼了。
 [name="A区囚犯A"]这次就先这样吧，有什么事可以再来找我。
@@ -270,7 +270,7 @@
 [Character(name="char_451_robin#2",fadetime=1)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Delay(time=1)]
-[name="罗宾"]......爸爸，安东尼看起来比我听说的还要棘手。
+[name="罗宾"]……爸爸，安东尼看起来比我听说的还要棘手。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Background(image="bg_hotel",screenadapt="coverall")]
@@ -289,12 +289,12 @@
 [name="？？？"]不错。尽管拿去医治你的父亲吧。
 [name="？？？"]当然，要是你想用来改善自己的生活也没有问题。不如说，我个人相当推荐这种方式。
 [Character(name="char_451_robin")]
-[name="罗宾"]......为什么要给我钱？
+[name="罗宾"]……为什么要给我钱？
 [Character]
 [name="？？？"]因为我很慷慨。
 [name="？？？"]不过，如果你想用来医治你的父亲的话，这笔钱恐怕是不够的。
 [Character(name="char_451_robin")]
-[name="罗宾"]......你要我做什么？
+[name="罗宾"]……你要我做什么？
 [Character]
 [name="？？？"]你很聪明，罗宾小姐，我喜欢和聪明人打交道。
 [name="？？？"]那我也开诚布公地说了，我需要你——
@@ -314,7 +314,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [name="罗宾"]我知道这很危险，也知道这样不好。
-[name="罗宾"]但是......为了你的病，我会努力的。
+[name="罗宾"]但是……为了你的病，我会努力的。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [stopmusic(fadetime=1)]

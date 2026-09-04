@@ -12,9 +12,9 @@
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1", posfrom="50,0",posto="50,0", duration=1.5)]
 [charslot(slot = "r", name = "avg_npc_1000_1#1$1", posfrom="50,0",posto="50,0",duration=1.5, isblock=true)]
 [charslot(slot = "l", name = "avg_4214_cairn_1#8$1",focus="l")]
-[name="费尔南"]怎么还没有到运输口？按照园区地图的指引，我们应该能看到建材安检闸机了啊......
+[name="费尔南"]怎么还没有到运输口？按照园区地图的指引，我们应该能看到建材安检闸机了啊……
 [charslot(slot = "r", name = "avg_npc_1000_1#3$1",focus="r")]
-[name="奥克里"]还、还要再往前吗？这里怎么一个人都没有，简直安静得过分......
+[name="奥克里"]还、还要再往前吗？这里怎么一个人都没有，简直安静得过分……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2034_1#9$1",isblock=true)]
@@ -29,17 +29,17 @@
 [charslot(slot = "r", name = "avg_npc_1000_1#2$1",focus="r",isblock=true)]
 [name="奥克里"]噫！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="奥克里"]是、是红色的液体......天花板在往下滴血，都滴到我脸上了！
+[name="奥克里"]是、是红色的液体……天花板在往下滴血，都滴到我脸上了！
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2034_1#7$1",isblock=true)]
-[name="高登"]那是管道的锈水......别逼我把你的嘴缝起来。
+[name="高登"]那是管道的锈水……别逼我把你的嘴缝起来。
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_4214_cairn_1#9$1", posfrom="50,0",posto="50,0")]
 [charslot(slot = "r", name = "avg_npc_1000_1#2$1", posfrom="50,0",posto="50,0",isblock=true)]
 [charslot(slot = "l", name = "avg_4214_cairn_1#9$1",focus="l")]
-[name="费尔南"]呃，长官，您刚刚说过，要是出现第四个人，就意味着我们暴露了对吧......？
+[name="费尔南"]呃，长官，您刚刚说过，要是出现第四个人，就意味着我们暴露了对吧……？
 [dialog]
 [charslot]
 [delay(time=0.5)]
@@ -55,7 +55,7 @@
 [charslot(slot = "l", name = "avg_4214_cairn_1#5$1",focus="l")]
 [name="费尔南"]唔，这人看上去有点眼熟？
 [charslot(slot = "r", name = "avg_npc_1000_1#2$1",focus="r")]
-[name="奥克里"]妈、妈呀......
+[name="奥克里"]妈、妈呀……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2034_1#5$1",isblock=true)]
@@ -70,7 +70,7 @@
 [delay(time=3)]
 [charslot(slot = "m", name = "avg_npc_2034_1#5$1",isblock=true)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="高登"]......
+[name="高登"]……
 [charslot(slot = "m", name = "avg_npc_2033_1#1$1",isblock=true)]
 [name="娜斯提？"]长官，请说明情况。
 [charslot(slot = "m", name = "avg_npc_2034_1#1$1",isblock=true)]
@@ -82,18 +82,18 @@
 [charslot(slot = "m", name = "avg_npc_2034_1#1$1",isblock=true)]
 [name="高登"]那场实验事故前后，讲解员来拜访过莱茵，带她来取证再正常不过。
 [charslot(slot = "m", name = "avg_npc_2034_1#3$1",isblock=true)]
-[name="高登"]至于预先不通知，是期望能确保调查结果的可信度，我完全有权做这样的判断......
+[name="高登"]至于预先不通知，是期望能确保调查结果的可信度，我完全有权做这样的判断……
 [dialog]
 [charslot]
 出发前，高登考虑过一切风险，甚至预演了被古斯塔夫盘问的情况。
 他知道梅希亚靠不住，也有信心镇住场面，但此刻，他身后粗重的尾巴却不由自主地拍打着地面，仿佛感知到了某种不受掌控的威胁。
 眼前的娜斯提紧盯着自己，好像想到了什么阴谋，诡异感和不安让高登攥紧了插在裤兜里的左手。
 [charslot(slot = "m", name = "avg_npc_2033_1#1$1",isblock=true)]
-[name="娜斯提？"]......
+[name="娜斯提？"]……
 [charslot(slot = "m", name = "avg_npc_2033_1#3$1",isblock=true)]
 [name="娜斯提？"]（唉，我只是让水分身躲在盆栽里，替娜斯提当个监控探头，她也没跟我说过园区长官这么难糊弄呀？）
 [charslot(slot = "m", name = "avg_npc_2033_1#3$1",isblock=true)]
-[name="娜斯提？"]（要是跟他吵上一晚上......也太累了！还是用我自己的办法吧。）
+[name="娜斯提？"]（要是跟他吵上一晚上……也太累了！还是用我自己的办法吧。）
 [charslot(slot = "m", name = "avg_npc_2033_1#2$1",isblock=true)]
 [name="娜斯提？"]咳咳！
 [dialog]
@@ -128,15 +128,15 @@
 [Delay(time=1.5)]
 从进入通道开始就在耳边滴答作响的水滴声一瞬间归于寂静，透明的水珠摆脱物理法则，凝滞在半空中。
 冰凉的触感从高登一行人的脚底传来，此时他们才发现通道里的积水不知何时漫过了脚面。
-[name="费尔南"]长、长官，快抬头！这......这还是娜斯提主任吗？
+[name="费尔南"]长、长官，快抬头！这……这还是娜斯提主任吗？
 眼前的景象令高登难以置信，无数水流汇入“娜斯提”的身体，簇拥着她越升越高，俯瞰三位强词夺理的入侵者。
-高登从未在任何施术单元上看到过类似的效果，倘若是女妖独有的巫术，它固然值得警惕，但更令高登感到恐惧的是......
+高登从未在任何施术单元上看到过类似的效果，倘若是女妖独有的巫术，它固然值得警惕，但更令高登感到恐惧的是……
 “娜斯提”突然凑到他跟前，露出了一副与这个名字的主人极度不符的可爱表情。
 [name="娜斯提？"]大地之上还真是没有新鲜事呢，长官。这些早就准备好的说辞，我在别的地方都听过一万遍啦。
 [name="娜斯提？"]比起这些，你不想讲讲这两个大箱子里面装的是什么吗？总不会是想偷偷塞给莱茵生命的礼物吧？现在可还没到圣诞节哦。
-[name="高登"]你......你到底是谁？
+[name="高登"]你……你到底是谁？
 [name="娜斯提？"]我？当然是几个小时前，刚刚被你们毁了生态园科研心血的工程科主任娜斯提呀~
-[name="高登"]她绝不可能用这种......活泼俏皮的口吻说话。还有，你到底为什么一直在敬礼？是施术的手势？
+[name="高登"]她绝不可能用这种……活泼俏皮的口吻说话。还有，你到底为什么一直在敬礼？是施术的手势？
 [name="娜斯提？"]哎呀，被你发现了。
 [name="高登"]呵，你骗不到我。不管你的源石技艺能做到什么程度，这里是莱茵的地下通道，任何后果都会由你们自己承担。
 [name="高登"]失去展会的实验成果还不够，你还想带着自己手下的人一起进监狱？
@@ -167,7 +167,7 @@
 [playMusic(intro="$ghosthunter_intro", key="$ghosthunter_loop", volume=0.6)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_4212_nasti_1#1$1",duration=1.5,isblock=true)]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [dialog]
 [charslot]
 走在“螺旋桨天堂”夜晚的街道上，娜斯提几乎感到有些恍惚。
@@ -196,7 +196,7 @@
 [SoundVolume(volume=0.8, channel="f",fadetime=1.5)]
 小娜斯提在河谷的林间穿行，拖着远超自己身形的口袋，一路捡起断裂的树枝往里塞。
 拂哀菈很忙，回到河谷的这半个月间，几乎每天都会有年轻女妖来找她解决问题，各种各样的问题。
-只在女妖们都睡去，河谷四下无人的时候，拂哀菈才有空牵着娜斯提的手，带她逛逛这个美丽的地方......
+只在女妖们都睡去，河谷四下无人的时候，拂哀菈才有空牵着娜斯提的手，带她逛逛这个美丽的地方……
 终于，小娜斯提决定自己动手搭建一个树屋。不过，一整个口袋的树枝还是太重了，她只能等拂哀菈来接自己。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -205,7 +205,7 @@
 [Background(image="68_g12_valleytree",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="年轻的女妖A"]亲爱的拂哀菈，雨季都过去这么久了，河谷也该再有一次划船比赛了吧？我们什么时候......
+[name="年轻的女妖A"]亲爱的拂哀菈，雨季都过去这么久了，河谷也该再有一次划船比赛了吧？我们什么时候……
 [dialog]
 [charslot(slot = "m", name = "avg_npc_2048_1#1$1", duration=1.5, isblock=true)]
 [Delay(time=0.5)]
@@ -215,7 +215,7 @@
 [charslot]
 [name="年轻的女妖B"]拂哀菈老师！有株雾芯果的藤蔓钻进我屋子里了，可以砍掉它吗？
 [charslot(slot = "m", name = "avg_npc_2048_1#6$1")]
-[name="拂哀菈"]不可以的，孩子。没有什么比雾芯果的瓤更适合用来擦拭羽角了......或许，你可以“引导”那株藤蔓往其他方向生长？
+[name="拂哀菈"]不可以的，孩子。没有什么比雾芯果的瓤更适合用来擦拭羽角了……或许，你可以“引导”那株藤蔓往其他方向生长？
 [charslot(slot = "m", name = "avg_npc_2048_1#1$1")]
 [name="拂哀菈"]正好，让我看看前阵子教你的咒言你练习得如何了。
 [charslot]
@@ -227,7 +227,7 @@
 [charslot(slot = "m", name = "avg_npc_2048_1#2$1")]
 [name="拂哀菈"]这不是好事吗？
 [charslot]
-[name="年轻的女妖C"]你教我挽歌，已经是半年之前的事了......我到现在还没有真的为谁唱过。下次能不能让我去，为那些同胞......
+[name="年轻的女妖C"]你教我挽歌，已经是半年之前的事了……我到现在还没有真的为谁唱过。下次能不能让我去，为那些同胞……
 [dialog]
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",posfrom="50,0",posto="50,0",duration=0)]
 [PlaySound(key="$d_avg_hidehaystack", volume=1)]
@@ -242,15 +242,15 @@
 [charslot(slot = "l", name = "avg_npc_1071_1#8$1",focus="l")]
 [name="菈玛莲"]你这两百年来为河谷所做的一切，足以让我这个所谓的“女妖之主”汗颜。
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
-[name="拂哀菈"]你知道的，只有多做些事情，我才能......稍稍心安。
+[name="拂哀菈"]你知道的，只有多做些事情，我才能……稍稍心安。
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
 [name="拂哀菈"]反倒是你，这次去觐见殿下时，又遭到刁难了吧？从我们隐居河谷之后，杜卡雷就再没给过女妖好脸色。
 [charslot(slot = "l", name = "avg_npc_1071_1#4$1",focus="l")]
-[name="菈玛莲"]他本来也不会给任何人好脸色。只是，殿下她......
+[name="菈玛莲"]他本来也不会给任何人好脸色。只是，殿下她……
 [charslot(slot = "l", name = "avg_npc_1071_1#3$1",focus="l")]
 [name="菈玛莲"]她向我展示了她探究源石本质的一点小小的成果。或许，她已经踏上了另一条更决绝的道路。
 [charslot(slot = "r", name = "avg_npc_2048_1#5$1",focus="r")]
-[name="拂哀菈"]......那我们呢？河谷呢？
+[name="拂哀菈"]……那我们呢？河谷呢？
 [charslot(slot = "l", name = "avg_npc_1071_1#2$1",focus="l")]
 [name="菈玛莲"]哪怕殿下真的已经改变了想法，河谷也不再与萨卡兹的未来有关。
 [charslot(slot = "l", name = "avg_npc_1071_1#1$1",focus="l")]
@@ -258,13 +258,13 @@
 [charslot(slot = "l", name = "avg_npc_1071_1#8$1",focus="l")]
 [name="菈玛莲"]前些日子，你不是才刚带了一个孩子回来吗？
 [charslot(slot = "r", name = "avg_npc_2048_1#4$1",focus="r")]
-[name="拂哀菈"]流落在外的同胞留下的孩子......五年前我就该找到她的。
+[name="拂哀菈"]流落在外的同胞留下的孩子……五年前我就该找到她的。
 [charslot(slot = "l", name = "avg_npc_1071_1#8$1",focus="l")]
-[name="菈玛莲"]这两天，小哀珐尼尔总缠着我问，什么时候能来看看这位陌生的姐姐......他对河谷之外的一切都还是那么好奇。
+[name="菈玛莲"]这两天，小哀珐尼尔总缠着我问，什么时候能来看看这位陌生的姐姐……他对河谷之外的一切都还是那么好奇。
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
-[name="拂哀菈"]那孩子......
+[name="拂哀菈"]那孩子……
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
-[name="拂哀菈"]请转告哀珐尼尔，娜斯提刚来河谷，她的胆子很小，还不适应......
+[name="拂哀菈"]请转告哀珐尼尔，娜斯提刚来河谷，她的胆子很小，还不适应……
 [dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -295,13 +295,13 @@
 [charslot(slot = "l", name = "avg_npc_2052_1#1$1",focus="l")]
 [name="娜斯提"]你明明每天晚上都会盯着那些东西看到很晚，每次表情都很难看，眉毛都拧在一起——
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
-[name="拂哀菈"]......娜斯提。
+[name="拂哀菈"]……娜斯提。
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
 [name="拂哀菈"]你喜欢这片河谷吗？
 [charslot(slot = "l", name = "avg_npc_2052_1#2$1",focus="l")]
 [name="娜斯提"]当然喜欢。
 [charslot(slot = "l", name = "avg_npc_2052_1#7$1",focus="l")]
-[name="娜斯提"]这儿的泥巴里没有血，房子里没有黑石头。不用打架，粮食够吃，从来没有人打扰......
+[name="娜斯提"]这儿的泥巴里没有血，房子里没有黑石头。不用打架，粮食够吃，从来没有人打扰……
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
 [name="拂哀菈"]你想留在这里吗？
 [charslot(slot = "l", name = "avg_npc_2052_1#2$1",focus="l")]
@@ -309,11 +309,11 @@
 [charslot(slot = "r", name = "avg_npc_2048_1#2$1",focus="r")]
 [name="拂哀菈"]建在哪里？选好了吗？
 [charslot(slot = "l", name = "avg_npc_2052_1#1$1",focus="l")]
-[name="娜斯提"]河谷深处是不是有一棵很大、很漂亮的树？你们管它叫......“栖脚树”？
+[name="娜斯提"]河谷深处是不是有一棵很大、很漂亮的树？你们管它叫……“栖脚树”？
 [charslot(slot = "r", name = "avg_npc_2048_1#1$1",focus="r")]
 [name="拂哀菈"]嗯。那是女妖最终的归宿。
 [charslot(slot = "l", name = "avg_npc_2052_1#3$1",focus="l")]
-[name="娜斯提"]大家都住在那边吧？虽然你还没带我去过......
+[name="娜斯提"]大家都住在那边吧？虽然你还没带我去过……
 [charslot(slot = "l", name = "avg_npc_2052_1#2$1",focus="l")]
 [name="娜斯提"]我也想离那里近一点。可以吗？
 [charslot(slot = "l", name = "avg_npc_2052_1#2$1",focus="l")]
@@ -381,7 +381,7 @@
 [charslot(slot = "r", name = "avg_npc_2037_1#6$1",focus="r")]
 [name="梅希亚"]应该只是附着了水精灵法术的小道具，没法真的做什么。
 [charslot(slot = "r", name = "avg_npc_2037_1#7$1",focus="r")]
-[name="梅希亚"]娜斯提给人的印象加上缪尔赛思的奇思妙想，再因地制宜地利用莱茵的地盘......确实让人意想不到，也难怪那几个人会被吓走。
+[name="梅希亚"]娜斯提给人的印象加上缪尔赛思的奇思妙想，再因地制宜地利用莱茵的地盘……确实让人意想不到，也难怪那几个人会被吓走。
 [charslot(slot = "l", name = "avg_npc_2046_1#1$1",focus="l")]
 [name="梅兰德特工"]那我们要随高登长官一起撤走吗？
 [charslot(slot = "r", name = "avg_npc_2037_1#11$1",focus="r")]
@@ -409,7 +409,7 @@
 [charslot(slot = "r", name = "avg_npc_2037_1#4$1",focus="r")]
 [name="梅希亚"]除非，它本质上只能由娜斯提完成。
 [charslot(slot = "l", name = "avg_npc_2046_1#1$1",focus="l")]
-[name="梅兰德特工"]梅希亚小姐，您的意思是......
+[name="梅兰德特工"]梅希亚小姐，您的意思是……
 [charslot(slot = "r", name = "avg_npc_2037_1#11$1",focus="r")]
 [name="梅希亚"]假如你家的盆栽突然枯死了——抱歉，只是假设——你的第一反应会是反反复复对着手表确认时间吗？
 [charslot(slot = "l", name = "avg_npc_2046_1#1$1",focus="l")]
@@ -421,7 +421,7 @@
 [charslot(slot = "r", name = "avg_npc_2037_1#1$1",focus="r")]
 [name="梅希亚"]所谓“事故”，恐怕只是这场枯萎在错误的时间被触发了。
 [charslot(slot = "l", name = "avg_npc_2046_1#1$1",focus="l")]
-[name="梅兰德特工"]所以，莱茵申报的项目内容——基于万星园的数据培育能够在高空条件下长期存活的植物品种......
+[name="梅兰德特工"]所以，莱茵申报的项目内容——基于万星园的数据培育能够在高空条件下长期存活的植物品种……
 [charslot(slot = "r", name = "avg_npc_2037_1#6$1",focus="r")]
 [name="梅希亚"]就只是个幌子。
 [charslot(slot = "r", name = "avg_npc_2037_1#1$1",focus="r")]
@@ -463,18 +463,18 @@
 [PlaySound(key="$d_avg_snowstormflp",volume=0, channel="f", loop=true)]
 [SoundVolume(volume=0.4, channel="f",fadetime=2)]
 [charslot(slot = "m", name = "avg_4212_nasti_1#1$1",duration=0.8, isblock=true)]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
-[name="拂哀菈"]......
+[name="拂哀菈"]……
 衰老的女妖站在街道尽头的阴影里，她等了很久，夜晚比她走过的三百多载岁月更漫长。
-终于，她看着那个熟悉的身影一点点向自己走近......
-比分别时长高了很多，结实了很多......
-眉眼有了不少变化......衣服是她看不明白的样式......
+终于，她看着那个熟悉的身影一点点向自己走近……
+比分别时长高了很多，结实了很多……
+眉眼有了不少变化……衣服是她看不明白的样式……
 有些不像了。
 [dialog]
 [PlaySound(key="$d_avg_tinnitus", volume=1)]
@@ -485,7 +485,7 @@
 [PlaySound(key="$d_avg_tinnitus", volume=0.6)]
 [Blocker(a=0.8, r=1, g=1, b=1, fadetime=0.6, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[name="拂哀菈"]娜......
+[name="拂哀菈"]娜……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
@@ -506,7 +506,7 @@
 [delay(time=1)]
 娜斯提将骨笔的碎片放在手心，并轻声念出独属于女妖的语言。
 咒言会分离出骨笔上并不属于她，却又似曾相识的气息，然后指引她找到其来源。
-没有风，但骨笔却开始晃动......一切很快就会有答案。
+没有风，但骨笔却开始晃动……一切很快就会有答案。
 可正在这时——
 [dialog]
 [stopsound(channel="f",fadetime=1)]
@@ -515,21 +515,21 @@
 [interlude(maskid = "group_interclude_vertical_common" ,size = "290,760",tsfrom="0,1", tsto ="1,1",tsduration = 0.5, switch = true, style = 0,offset = "-250,0", channel = 3)]
 [interlude(channel = 3, switch = true, type = 3, slot = "m", pfrom = "-250,0", pto="-250,0", name = "avg_npc_2033_1#3$1", duration = 0)]
 [charslot(slot="r",focus="n",isblock=true)]
-[name="娜斯提？"]娜......提，小心......
+[name="娜斯提？"]娜……提，小心……
 [playMusic(intro="$act19side_intro", key="$act19side_loop", volume=0.6)]
 [interlude(channel = 3, switch = false)]
 [charslot(slot = "r", name = "avg_4212_nasti_1#5$1",focus="r",isblock=true)]
 [name="娜斯提"]你那边是什么情况？
 [charslot(slot="r",focus="n",isblock=true)]
 [interlude(channel = 3, switch = true)]
-[name="娜斯提？"]还......有别人......
+[name="娜斯提？"]还……有别人……
 [dialog]
 [PlaySound(key="$transmission")]
 [interlude(channel = 3, clear = true,tsfrom="1,1", tsto ="0,1",tsduration = 0.5)]
 [Delay(time=1)]
 [interlude(channel = 3, clear = true)]
 [charslot(slot = "r", name = "avg_4212_nasti_1#2$1",focus="r",isblock=true)]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -539,21 +539,21 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2034_1#5$1", duration=0.8, isblock=true)]
-[name="高登"]呼......哈......
+[name="高登"]呼……哈……
 [charslot(slot = "m", name = "avg_4214_cairn_1#5$1", isblock=true)]
-[name="费尔南"]长、长官......别、别跑了......
+[name="费尔南"]长、长官……别、别跑了……
 [charslot(slot = "m", name = "avg_4214_cairn_1#9$1", isblock=true)]
-[name="费尔南"]我们好像迷路了......
+[name="费尔南"]我们好像迷路了……
 [charslot(slot = "m", name = "avg_npc_2034_1#6$1")]
-[name="高登"]我也发现了。莱茵实验区的地下空间竟然这么大，这违规了吧......
+[name="高登"]我也发现了。莱茵实验区的地下空间竟然这么大，这违规了吧……
 [charslot(slot = "m", name = "avg_npc_2034_1#6$1")]
-[name="高登"]一般来说，搞科研的在自己的实验区里藏了这么大一片空地......要么是有个大计划，要么是大计划已经烂尾了。
+[name="高登"]一般来说，搞科研的在自己的实验区里藏了这么大一片空地……要么是有个大计划，要么是大计划已经烂尾了。
 [charslot(slot = "m", name = "avg_npc_1000_1#2$1")]
-[name="奥克里"]长、长官，您有没有觉得，我们脚底下......
+[name="奥克里"]长、长官，您有没有觉得，我们脚底下……
 [charslot(slot = "m", name = "avg_4214_cairn_1#9$1")]
-[name="费尔南"]地面在开裂......
+[name="费尔南"]地面在开裂……
 [charslot(slot = "m", name = "avg_npc_2034_1#4$1")]
-[name="高登"]......那看来是第一种情况。
+[name="高登"]……那看来是第一种情况。
 [dialog]
 [charslot]
 [Effect(name="$e_sandfall_01",layer = 2)]
@@ -563,9 +563,9 @@
 [PlaySound(key="$d_avg_rockfall", volume=0.3)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_1000_1#2$1")]
-[name="奥克里"]谁、谁来救救我......
+[name="奥克里"]谁、谁来救救我……
 [charslot(slot = "m", name = "avg_4214_cairn_1#10$1", isblock=true)]
-[name="费尔南"]嘶......我们进来的门是什么时候关上的？
+[name="费尔南"]嘶……我们进来的门是什么时候关上的？
 [charslot(slot = "m", name = "avg_npc_2034_1#9$1")]
 [name="高登"]娜斯提，别是他妈的巨型导弹，行吗？
 [dialog]
@@ -574,7 +574,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 只眨眼间，地面就碎裂开来。高登宁愿相信它是用薄脆饼干铺就的，也不愿相信它是厚厚的一层水泥。
-他试图用尾巴钩住立柱，试图用手扒住墙壁，但最后他摸到的只有幽幽地散发着荧光的......一截树枝。
+他试图用尾巴钩住立柱，试图用手扒住墙壁，但最后他摸到的只有幽幽地散发着荧光的……一截树枝。
 [Background(image="68_g10_treeplatform_n", xScale=1.3, yScale=1.3, screenadapt="coverall")]
 [dialog]
 [BackgroundTween(image="68_g10_treeplatform_n", duration=5, yFrom=116, yTo=0)]
@@ -583,10 +583,10 @@
 [PlaySound(key="$d_avg_groundcrack_tree", volume=1)]
 在他的身下，由朽木与金铁共同构成的树冠从黑暗中舒展开来。
 披挂着幽光的巨木悄无声息地升上夜空，有如繁星倒涌。
-[name="高登"]这玩意......
+[name="高登"]这玩意……
 [name="高登"]有螺旋桨吗？有推进器吗？
-[name="高登"]不，不不......连引擎的动静都没有，它怎么可能......飞得起来？
-[name="高登"]娜斯提，莱茵生命......*哥伦比亚赞叹词*！
+[name="高登"]不，不不……连引擎的动静都没有，它怎么可能……飞得起来？
+[name="高登"]娜斯提，莱茵生命……*哥伦比亚赞叹词*！
 [dialog]
 [Delay(time=1)]
 [Blocker(a=0.1, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -598,7 +598,7 @@
 [name="高登"]他妈的，我把这些警卫教得这么敬业干嘛？大晚上的有个什么东西升上天，就一定得照一下看看吗？
 [charslot(slot = "m", name = "avg_4214_cairn_1#5$1",posfrom="50,0",posto="50,0",isblock=false)]
 [charslot(slot = "r", name = "avg_4214_cairn_1#5$1",bstart=0.9, bend=1, posfrom="-130,0", posto="-130,0", ato=0.5, aduration=0.1, focus="m",isCopy=true)]
-[name="费尔南"]长官，我们这算不算是......露馅了？
+[name="费尔南"]长官，我们这算不算是……露馅了？
 [charslot(slot = "r", name = "avg_npc_2034_1#9$1",bstart=0.9, bend=1, posfrom="-180,0", posto="-180,0", ato=0.5, aduration=0.1,  focus="m",isblock=true)]
 [charslot(slot = "m", name = "avg_npc_2034_1#9$1",posfrom="0,0",posto="0,0",isblock=true)]
 [name="高登"]这下整个园区醒着的人都看见咱们抱着两箱违禁品挂在树上了，我觉得算。
@@ -607,7 +607,7 @@
 [name="高登"]我现在对着下面喊我其实是刚刚查出了莱茵的危险实验产物，还有没有救？
 [charslot(slot = "m", name = "avg_npc_2034_1#7$1", isblock=false)]
 [charslot(slot = "r", name = "avg_npc_2034_1#7$1",bstart=0.9, bend=1, posfrom="-180,0", posto="-180,0", ato=0.5, aduration=0.1,focus="m")]
-[name="高登"]......不，不行。*哥伦比亚粗口*在我搞清楚这玩意是怎么飞起来的之前，不能让它毁了。
+[name="高登"]……不，不行。*哥伦比亚粗口*在我搞清楚这玩意是怎么飞起来的之前，不能让它毁了。
 [charslot(slot = "m", name = "avg_npc_2034_1#4$1", isblock=false)]
 [charslot(slot = "r", name = "avg_npc_2034_1#4$1",bstart=0.9, bend=1, posfrom="-180,0", posto="-180,0", ato=0.5, aduration=0.1,focus="m")]
 [name="高登"]这下是真的完了。
@@ -626,7 +626,7 @@
 [charslot(slot = "m", name = "avg_npc_2046_1#1$1",isblock=true)]
 [name="梅兰德特工"]发、发生了什么？
 [charslot(slot = "m", name = "avg_npc_2037_1#1$1",isblock=true)]
-[name="梅希亚"]看来，是我们这些外人的闯入，意外激活了什么......
+[name="梅希亚"]看来，是我们这些外人的闯入，意外激活了什么……
 [charslot(slot = "m", name = "avg_npc_2037_1#11$1",isblock=true)]
 [name="梅希亚"]不过现在，这座园区没有秘密了。
 [Dialog]
@@ -638,7 +638,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",isblock=true)]
-[name="斯凯"]娜斯提主任，这是又一个奇迹，还是......
+[name="斯凯"]娜斯提主任，这是又一个奇迹，还是……
 [charslot(slot = "m", name = "avg_npc_2039_1#7$1",isblock=true)]
 [name="斯凯"]奇迹的夭折？
 [Dialog]
@@ -652,7 +652,7 @@
 [charslot(slot = "m", name = "avg_4212_nasti_1#1$1",isblock=true)]
 [name="娜斯提"]不必说了，从我这个位置，都已经能看到了。
 [charslot(slot = "m", name = "avg_4212_nasti_1#1$1",isblock=true)]
-[name="娜斯提"]......我马上赶回去。
+[name="娜斯提"]……我马上赶回去。
 [dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -661,14 +661,14 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_npc_2035_1#1$1",duration=0.8, isblock=true)]
-[name="拂哀菈"]娜......
+[name="拂哀菈"]娜……
 [dialog]
 [charslot]
 衰老的女妖只是迟疑了一秒，便没能叫出那个名字。
 拂哀菈看着年轻女妖跑远，她顺着对方消失的方向看过去，视线的尽头，是一棵缓缓上升的、披挂着幽光的巨树。
 那树的根系似乎并不牢固，在夜空中被风吹得来回晃动，隔得太远，它们飘摇得像是芦苇，像是，命运。
 [charslot(slot = "m", name = "avg_npc_2035_1#1$1", isblock=true)]
-[name="拂哀菈"]天上的是......栖脚树......？
+[name="拂哀菈"]天上的是……栖脚树……？
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

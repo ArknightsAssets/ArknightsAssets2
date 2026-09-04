@@ -17,11 +17,11 @@
 [character(fadetime=1)]
 [Delay(time=2)]
 [Character(name="char_1011_purgatory_1#4")]
-[name="炎熔"]......自从留意到天色之后就意识到，这里真的是越往西边走越靠近黑夜呢......
+[name="炎熔"]……自从留意到天色之后就意识到，这里真的是越往西边走越靠近黑夜呢……
 [Character(name="char_455_nothing_1#6")]
 [name="乌有"]这么说的话，我们现在是“从正午走向黄昏”？还挺有诗意诶。
 [Character(name="char_1011_purgatory_1#4")]
-[name="炎熔"]......还是不对，这“白天到黑夜”的距离也太短了，我们才走了几步路？
+[name="炎熔"]……还是不对，这“白天到黑夜”的距离也太短了，我们才走了几步路？
 [Character(name="char_362_Saga#1")]
 [name="嵯峨"]画卷长短时有变化，各处景象光怪陆离，画中人为自己的天地寻了一份规矩，但说到底，也是假的。这也是在所难免的事情嘛。
 [Character(name="char_1011_purgatory_1#5")]
@@ -99,7 +99,7 @@
 [delay(time=1.51)]
 [character]
 [Character(name="char_362_Saga#5", name2="char_1011_purgatory_1#4",focus=2)]
-[name="炎熔"]......似乎还有不少来不及逃走的村民。
+[name="炎熔"]……似乎还有不少来不及逃走的村民。
 [Character(name="char_362_Saga#5", name2="char_1011_purgatory_1#4",focus=1)]
 [name="嵯峨"]可能是太过突然，反应不及——
 [Dialog]
@@ -124,7 +124,7 @@
 [Dialog]
 [character]
 [Character(name="avg_npc_143#2",name2="avg_npc_142#1")]
-[name="小女孩"]呜呜......呜啊啊......
+[name="小女孩"]呜呜……呜啊啊……
 [Dialog]
 [characteraction(name="left", type="move", xpos=100,fadetime=0.7,block=true)]
 [Delay(time=0.7)]
@@ -149,12 +149,12 @@
 [Character(name="avg_npc_142#1",name2="char_455_nothing_1#4",focus=2)]
 [name="乌有"]没受伤吧？
 [Character(name="avg_npc_142#1",name2="char_455_nothing_1#4",focus=1)]
-[name="小女孩"]呜呜呜......没......呜呜呜......
+[name="小女孩"]呜呜呜……没……呜呜呜……
 [Dialog]
 [character]
 [delay(time=0.6)]
 [Character(name="char_455_nothing_1#6",name2="char_1011_purgatory_1#1",focus=1)]
-[name="乌有"]刚才......刚才是不是有什么东西刺穿了那玩意的喉咙......？
+[name="乌有"]刚才……刚才是不是有什么东西刺穿了那玩意的喉咙……？
 [Character(name="char_455_nothing_1#6",name2="char_1011_purgatory_1#3",focus=2)]
 [name="炎熔"]是克洛丝，真是刁钻的角度。
 [Character(name="char_455_nothing_1#3",name2="char_1011_purgatory_1#3",focus=1)]
@@ -168,11 +168,11 @@
 [delay(time=0.6)]
 [Character(name="avg_npc_142#1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="小女孩"]呜呜......呜呜呜......
+[name="小女孩"]呜呜……呜呜呜……
 [Character(name="char_455_nothing_1#3",name2="char_1011_purgatory_1#1",focus=1)]
 [name="乌有"]但、但我们要带着这个小姑娘一起走？
 [Character(name="char_455_nothing_1#3",name2="char_1011_purgatory_1#4",focus=2)]
-[name="炎熔"]......你先带她离开这里，送去安全的地方，没问题吧？
+[name="炎熔"]……你先带她离开这里，送去安全的地方，没问题吧？
 [Character(name="char_455_nothing_1#6",name2="char_1011_purgatory_1#4",focus=1)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [characteraction(name="left", type="jump",power=40, fadetime=0.5,times=1,block=true)]
@@ -187,19 +187,19 @@
 [characteraction(name="left",type="jump",power=20,xpos=-100,fadetime=0.5,times=1,block=true)]
 [name="炎熔"]你可以先把孩子送去煮伞先生那里，然后再回来找我们。
 [Character(name="char_455_nothing_1#6",name2="char_1011_purgatory_1#1",focus=1)]
-[name="乌有"]啊哈哈......欸......好的，我会的，会的。
+[name="乌有"]啊哈哈……欸……好的，我会的，会的。
 [Dialog]
 [Character(name="avg_npc_142#1",name2="char_455_nothing_1#4",focus=2)]
 [name="乌有"]小妹妹，跟哥哥走好不好呀？
 [Character(name="avg_npc_142#1",name2="char_455_nothing_1#4",focus=1)]
-[name="小女孩"]呜......呜呜......叔叔，你看见我妈妈了吗......呜呜......
+[name="小女孩"]呜……呜呜……叔叔，你看见我妈妈了吗……呜呜……
 [Character(name="avg_npc_142#1",name2="char_455_nothing_1#4",focus=2)]
 [name="乌有"]哥哥带你去找妈妈好不好？
 [Character(name="avg_npc_142#1",name2="char_455_nothing_1#4",focus=1)]
-[name="小女孩"]呜......嗯......谢谢叔叔......
+[name="小女孩"]呜……嗯……谢谢叔叔……
 [Dialog]
 [Character(name="char_455_nothing_1#3",name2="char_1011_purgatory_1#1",focus=1)]
-[name="乌有"]......咳。恩人呐，那我，先走一步？
+[name="乌有"]……咳。恩人呐，那我，先走一步？
 [Character(name="char_455_nothing_1#3",name2="char_1011_purgatory_1#1",focus=2)]
 [name="炎熔"]嗯。
 [Dialog]
@@ -214,15 +214,15 @@
 [Background(image="bg_landscape",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1.5)]
-[name="说书人"]......
+[name="说书人"]……
 [Character(name="avg_npc_140#2")]
 [name="村民"]先生，只靠嵯峨和那三位英雄，打不打紧啊？
 [Character(name="avg_npc_138#4")]
-[name="说书人"]......
+[name="说书人"]……
 [Character(name="avg_npc_140#2")]
 [name="村民"]先生？
 [Character(name="avg_npc_138#4")]
-[name="说书人"]......无妨。
+[name="说书人"]……无妨。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [character(fadetime=1)]
@@ -290,7 +290,7 @@
 [character]
 [delay(time=0.7)]
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]......你还挺厉害的。
+[name="炎熔"]……你还挺厉害的。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]小僧自幼在寺庙长大，耳濡目染，稍微学了些刀法罢了。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
@@ -308,7 +308,7 @@
 [characteraction(name="left", type="move", xpos=-50,fadetime=0.6,block=true)]
 [delay(time=0.51)]
 [characteraction(name="left", type="move", xpos=-50,fadetime=0.6,block=true)]
-[name="墨魉"]嘎......嘎啊！
+[name="墨魉"]嘎……嘎啊！
 [Dialog]
 [delay(time=0.6)]
 [Character(name="avg_npc_143#1", name2="avg_npc_143#2")]
@@ -319,7 +319,7 @@
 [characteraction(name="right", type="exit", direction="left",block=true,fadetime=0.5)]
 [delay(time=1.5)]
 [Character(name="char_1011_purgatory_1")]
-[name="炎熔"]那些怪物已经开始怕你了......说起来，墨魉是有智慧的吗？
+[name="炎熔"]那些怪物已经开始怕你了……说起来，墨魉是有智慧的吗？
 [Dialog]
 [delay(time=1)]
 [Character(name="avg_npc_143#2", name2="char_empty")]
@@ -337,9 +337,9 @@
 [delay(time=1)]
 [Character(name="avg_npc_143#2", name2="char_362_Saga#4",focus=1)]
 [characteraction(name="left", type="jump",power=40, fadetime=1,times=3,block=true)]
-[name="墨魉"]嘎，嘎嘎啊，嘎啊嘎啊......
+[name="墨魉"]嘎，嘎嘎啊，嘎啊嘎啊……
 [Character(name="avg_npc_143#2", name2="char_362_Saga#4",focus=2)]
-[name="嵯峨"]嗯，嗯嗯，嗯......
+[name="嵯峨"]嗯，嗯嗯，嗯……
 [Character(name="char_1011_purgatory_1")]
 [name="炎熔"]喂！？你还能听懂这玩意说话的！？
 [Character(name="avg_npc_143#2", name2="char_362_Saga#4",focus=2)]
@@ -348,11 +348,11 @@
 [characteraction(name="left", type="jump",power=40, fadetime=1,times=3,block=true)]
 [name="墨魉"]嘎啊！
 [Character(name="char_1011_purgatory_1")]
-[name="炎熔"]......这样好吗？
+[name="炎熔"]……这样好吗？
 [Character(name="avg_npc_143#2", name2="char_362_Saga#1",focus=2)]
 [name="嵯峨"]没关系，小僧自有分寸。
 [Character(name="avg_npc_143#2", name2="char_362_Saga#1",focus=1)]
-[name="墨魉"]嘎......
+[name="墨魉"]嘎……
 [stopmusic(fadetime=1)]
 [Dialog]
 [Character(name="avg_npc_143#1", name2="char_362_Saga#1")]
@@ -362,11 +362,11 @@
 [PlayMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
 [delay(time=1)]
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]这附近安静些了......应该没有其他村民留在这里，现在我们可以谈谈了吗？
+[name="炎熔"]这附近安静些了……应该没有其他村民留在这里，现在我们可以谈谈了吗？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]炎熔施主好生严肃，莫非小僧做错了什么吗？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]这倒没有，只是你刚才说了......画卷？你似乎对这里很了解。
+[name="炎熔"]这倒没有，只是你刚才说了……画卷？你似乎对这里很了解。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]那可不，小僧在此地云游，也有段时间了。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
@@ -374,11 +374,11 @@
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]一幅画卷，能有多大？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]什么意思......我们在画里？
+[name="炎熔"]什么意思……我们在画里？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]正是如此。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]......到底什么意思？
+[name="炎熔"]……到底什么意思？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]啊，小僧明白了，几位施主和小僧一样，也是误入此中山河——
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
@@ -389,7 +389,7 @@
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
 [name="炎熔"]等、等等，什么意思，你也是来找“夕”的？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
-[name="嵯峨"]夕？小僧倒未曾听说过这个名讳......
+[name="嵯峨"]夕？小僧倒未曾听说过这个名讳……
 [name="嵯峨"]小僧寻的，是那位“一笔拙山起，何处话风流”的炎国画家。
 [name="嵯峨"]不过算算时日，怕那画家已经不在人世了，故而想去探访其故居，如此而已。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
@@ -401,21 +401,21 @@
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]天地人皆不合情理，炎熔施主，就没意识到吗？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]这我也知道，可为什么是画......？
+[name="炎熔"]这我也知道，可为什么是画……？
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
-[name="嵯峨"]小僧也难说明白，不过这婆山镇，已经是小僧游历的......大概百余幅画卷啦！至少自己身在何处，还是心知肚明的。
+[name="嵯峨"]小僧也难说明白，不过这婆山镇，已经是小僧游历的……大概百余幅画卷啦！至少自己身在何处，还是心知肚明的。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]可......那些人，是活生生的人，茶水有滋味，水果也能吃......
-[name="炎熔"]只是某种法术的结果吗？可如果这是法术的结果......这是什么样的......
+[name="炎熔"]可……那些人，是活生生的人，茶水有滋味，水果也能吃……
+[name="炎熔"]只是某种法术的结果吗？可如果这是法术的结果……这是什么样的……
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]这小僧可就毫无头绪了。要不是曾有幸一瞥这天地真实，小僧怕也意识不到自己身在何处吧。
 [name="嵯峨"]此处没有天灾所扰，各界生灵，都遵循着自己的规矩，自成方圆，妙不可言。小僧留在这里，未尝没有图个安心的意思。
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]这......
+[name="炎熔"]这……
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=1)]
-[name="嵯峨"]哈哈，看施主一脸困惑，也在所难免，小僧初见夕娥的时候，也是施主这般模样......
+[name="嵯峨"]哈哈，看施主一脸困惑，也在所难免，小僧初见夕娥的时候，也是施主这般模样……
 [Character(name="char_362_Saga#1", name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]慢着......你说见谁！？
+[name="炎熔"]慢着……你说见谁！？
 [Character(name="char_362_Saga#6", name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]小僧见了——等等，那处灯火，莫非是掌柜的当铺？她竟然没去避难，这可不成！
 [Dialog]
@@ -437,21 +437,21 @@
 [Background(image="bg_pawnshop",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
-[name="掌柜"]......
+[name="掌柜"]……
 [Dialog]
 [Character(name="avg_npc_139#5",name2="avg_npc_143#1",enter2="right",fadetime=1)]
 [delay(time=0.6)]
 [Character(name="avg_npc_139#5",name2="avg_npc_143#1",focus=2)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="墨魉"]嘎唔......
+[name="墨魉"]嘎唔……
 [Character(name="avg_npc_139#5",name2="avg_npc_143#1",focus=1)]
-[name="掌柜"]......好了好了，别这么激动。
+[name="掌柜"]……好了好了，别这么激动。
 [name="掌柜"]为什么要来吓唬人？她是怎么说的？
 [Character(name="avg_npc_139#5",name2="avg_npc_143#1",focus=2)]
 [characteraction(name="right", type="jump",power=60, fadetime=0.7,times=3,block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_139#5",name2="avg_npc_143#1",focus=1)]
-[name="掌柜"]啊......是这样......她还是老样子。
+[name="掌柜"]啊……是这样……她还是老样子。
 [Dialog]
 [character]
 [Delay(time=1)]
@@ -468,9 +468,9 @@
 [characteraction(name="right", type="jump",power=60, fadetime=0.3,times=1,block=true)]
 [delay(time=0.51)]
 [Character(name="avg_npc_139#5",name2="avg_npc_143#2",focus=1)]
-[name="掌柜"]......去吧。
+[name="掌柜"]……去吧。
 [Character(name="avg_npc_139#5",name2="avg_npc_143#1",focus=2)]
-[name="墨魉"]嘎......
+[name="墨魉"]嘎……
 [Dialog]
 [Character(name="avg_npc_139#5",name2="avg_npc_143#1")]
 [characteraction(name="right", type="exit", direction="left",block=true,fadetime=1)]
@@ -479,7 +479,7 @@
 [Character(name="char_362_Saga#1",name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]掌柜的，你没事？
 [Character(name="avg_npc_139#5")]
-[name="掌柜"]我没事的......这位就是？
+[name="掌柜"]我没事的……这位就是？
 [Character(name="char_362_Saga",name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]哦，这位施主就是炎熔，是之前传得沸沸扬扬的外来者。
 [Character(name="avg_npc_139#5")]
@@ -487,15 +487,15 @@
 [Character(name="char_362_Saga",name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]这位是这间当铺的老板娘，单名一个“黎”字，黎明的黎。
 [Character(name="char_362_Saga",name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]......你没有被奇怪的东西袭击吗？
+[name="炎熔"]……你没有被奇怪的东西袭击吗？
 [Character(name="avg_npc_139#5")]
 [name="黎"]不曾见过。
 [Character(name="char_362_Saga",name2="char_1011_purgatory_1",focus=2)]
-[name="炎熔"]......
+[name="炎熔"]……
 [Character(name="char_362_Saga",name2="char_1011_purgatory_1",focus=1)]
 [name="嵯峨"]黎姑娘，不知那些墨魉是不是还会回来，可否让我们躲藏在此处，观察一二？
 [Character(name="avg_npc_139#5")]
-[name="黎"]......嗯，好。
+[name="黎"]……嗯，好。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [stopmusic(fadetime=1)]

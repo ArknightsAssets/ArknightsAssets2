@@ -26,7 +26,7 @@
 [charslot(slot="m",name="avg_402_tuye_1#8$1",focus="m")]
 [name="图耶"]嗯，几个人还交代说，抓人也好，劫掠也好，都只是为了找“宝藏”，自己找不到就逼当地人找。
 [charslot(slot="m",name="char_416_zumama_1#4",focus="m")]
-[name="森蚺"]这手段还真是野蛮......现在王酋军四处侵扰，那个部族是否还安好......谁也不清楚。
+[name="森蚺"]这手段还真是野蛮……现在王酋军四处侵扰，那个部族是否还安好……谁也不清楚。
 [charslot]
 [name="年老的族长"]他们在绿洲里修建了自己的神庙，找到神庙就能找到他们。
 [charslot(slot="m",name="avg_402_tuye_1#6$1",focus="m")]
@@ -40,7 +40,7 @@
 [delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_215_mantic_1#3$1",focus="m")]
-[name="狮蝎"]那个......这就是全部的支援物资了，还请您详细核查这份清单。
+[name="狮蝎"]那个……这就是全部的支援物资了，还请您详细核查这份清单。
 [Dialog]
 [charslot]
 [Decision(options="大家一路上辛苦了。", values="1")]
@@ -48,7 +48,7 @@
 [charslot(slot="m",name="avg_402_tuye_1#5$1",focus="m")]
 [name="图耶"]想不到本舰这次派了这么多人来帮忙。
 [charslot(slot="m",name="avg_215_mantic_1#10$1",focus="m")]
-[name="狮蝎"]是......是啊，还有一位先生正在搬运行李，稍后就到......
+[name="狮蝎"]是……是啊，还有一位先生正在搬运行李，稍后就到……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n")]

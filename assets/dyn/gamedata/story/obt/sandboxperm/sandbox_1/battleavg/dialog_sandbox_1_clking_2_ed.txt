@@ -19,7 +19,7 @@
 [name="杂耍艺人", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]趁我心情好，赶紧带着那女人滚吧，别留在这里碍眼。
 [decision(option1="我们走吧。", value1="3.1")]
 [predicate(references="3.1")]
-[name="寻宝人", avatarId="bavg_npc_003", isAvatarRight="FALSE"]......谢谢你们。
+[name="寻宝人", avatarId="bavg_npc_003", isAvatarRight="FALSE"]……谢谢你们。
 [decision(option1="至少我们救下了你。", value1="4.1")]
 [predicate(references="4.1")]
 [playanim(id="trap_467_ttuye", anim="Idle", dir="RIGHT")]
@@ -33,11 +33,11 @@
 [playanim(id="enemy_7024_clking", anim="Attack", dir="LEFT", looporidle="Idle")]
 [delay(time="1")]
 [name="杂耍艺人", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]拿好了，可千万别摔着。
-[name="杂耍艺人助手", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]多漂亮啊......
+[name="杂耍艺人助手", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]多漂亮啊……
 [summontrap(charId="trap_470_tmantic", dir="LEFT", x="10", y="11", isChar="False")]
 [executeactionarray(target="trap_470_tmantic", key="effect_mantic[hidden]")]
 [delay(time="0.5")]
-[name="？？？", avatarId="char_215_mantic", isAvatarRight="FALSE"]（......时机到了......）
+[name="？？？", avatarId="char_215_mantic", isAvatarRight="FALSE"]（……时机到了……）
 [name="？？？", avatarId="char_215_mantic", isAvatarRight="FALSE"]（就是现在！）
 [playanim(id="trap_470_tmantic", anim="Attack", dir="LEFT")]
 [delay(time="1")]
@@ -45,14 +45,14 @@
 [name="杂耍艺人", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]我的宝石！混账！你怎么敢！！
 [name="杂耍艺人", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]不是让你拿好吗！
 [name="杂耍艺人助手", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]老板，冤枉啊！
-[name="杂耍艺人助手", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]怎、怎么回事，我什么也没干啊，它、它就这么碎在我手心里了......
+[name="杂耍艺人助手", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]怎、怎么回事，我什么也没干啊，它、它就这么碎在我手心里了……
 [name="杂耍艺人", avatarId="bavg_enemy_common", isAvatarRight="FALSE"]不，不！！！
 [uioperation(target="main", enable="False")]
 [withdraw(id="enemy_7024_clking")]
 [withdraw(id="enemy_7025_clbb")]
 [delay(time="3")]
 [name="？？？", avatarId="char_215_mantic", isAvatarRight="FALSE"]（任务完成。）
-[name="？？？", avatarId="char_215_mantic", isAvatarRight="FALSE"]（该离开了......）
+[name="？？？", avatarId="char_215_mantic", isAvatarRight="FALSE"]（该离开了……）
 [withdraw(id="char_215_mantic")]
 [delay(time="3")]
 [fognotinview(id="fog_1")]

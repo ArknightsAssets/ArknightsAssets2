@@ -13,7 +13,7 @@
 “我不需要钱。”
 “这怎么行！您是这么多年来第一个来村子里看诊的医生！”
 “没必要觉得过意不去。和你相比，衣食无忧的我更该感到羞愧。”
-“那......那......我们这里也没什么能款待您的，您至少......喝杯水？”
+“那……那……我们这里也没什么能款待您的，您至少……喝杯水？”
 “Merci。”
 “您说什么？”
 “抱歉，我是说，‘谢谢’。”
@@ -45,7 +45,7 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
 [name="医生"]那好，请问我缺什么材料？我可以现在去补。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="当地官员"]......
+[name="当地官员"]……
 [Dialog]
 [PlaySound(key="$d_avg_paper2",channel="1")]
 [Delay(time=0.5)]
@@ -60,7 +60,7 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="当地官员"]是吗？你要“拯救”的“生命”可不这么觉得，高卢复国主义者。
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
-[name="医生"]高卢......复国？
+[name="医生"]高卢……复国？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="当地官员"]别装傻了，你的高卢口音骗不过我，伪装成医生的煽动者。
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
@@ -70,12 +70,12 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
 [name="医生"]因为沙洲村有一位从镇上退休回乡的老医生。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="当地官员"]......
+[name="当地官员"]……
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
-[name="医生"]蒂特奈村甚至有个条件还算说得过去的医院，其余的村落也有提供医疗服务的商队定期巡回......
+[name="医生"]蒂特奈村甚至有个条件还算说得过去的医院，其余的村落也有提供医疗服务的商队定期巡回……
 [name="医生"]而碎岩村的医生在几年前就去世了，一直没人补空缺，商队也不愿经过，是您辖下唯一一个没有任何医疗服务的村落。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="当地官员"]......难道你真的是个间谍，已经在收集这附近的情报了？
+[name="当地官员"]……难道你真的是个间谍，已经在收集这附近的情报了？
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
 [name="医生"]恰恰相反，先生，您的前任在帮我联系车队之前非常热情地跟我分享了整个区域的医疗服务水平。
 [name="医生"]向您保证，我不会在碎岩村做出任何超出一名医生职责的事情。
@@ -83,7 +83,7 @@
 [name="当地官员"]行了，别说漂亮话了。
 [name="当地官员"]知道吗，以前鉴别你这种人有个简易方法，就是让你冲着科西嘉一世的画像吐唾沫。犹犹豫豫的都是可疑分子。
 [charslot(slot="r",name="avg_4125_rdoc_1#6$1",focus="r")]
-[name="医生"]......科西嘉一世？高卢的皇帝？
+[name="医生"]……科西嘉一世？高卢的皇帝？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="当地官员"]那他还能是谁？还有你干嘛摆出一副难以置信的蠢表情？
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
@@ -99,7 +99,7 @@
 [PlaySound(key="$d_gen_walk_n",channel="2")]
 [charslot(slot="m",name="avg_4125_rdoc_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="医生"]碎岩村，终于到了......这一路可真是够颠簸的。
+[name="医生"]碎岩村，终于到了……这一路可真是够颠簸的。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n",channel="2")]
@@ -114,7 +114,7 @@
 [charslot(duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4125_rdoc_1#6$1")]
-[name="医生"]......？
+[name="医生"]……？
 [Dialog]
 [charslot]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -122,7 +122,7 @@
 [Dialog]
 [Delay(time=1.5)]
 [PlaySound(key="$d_avg_crwddiscuss_outside",channel="1",loop=true,fadetime=1)]
-[name="惊讶的村民"]真的是他......
+[name="惊讶的村民"]真的是他……
 [name="兴奋的村民"]真的是医生！他真的回来了！
 [name="好客的村民"]医生，来我家坐坐吧！
 [name="急躁的村民"]去你家有什么用，赶紧准备给医生接风啊！
@@ -140,7 +140,7 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#1$1",focus="m")]
 [name="医生"]这种新开发的长效抑制剂只需要每个月注射一次，这是半年的量，千万保管好了。
 [charslot(slot="m",name="avg_4125_rdoc_1#1$1",focus="none")]
-[name="面无血色的感染者"]Merci......
+[name="面无血色的感染者"]Merci……
 [Dialog]
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [Delay(time=1.5)]
@@ -156,7 +156,7 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="m")]
 [name="医生"]您自己也需要补充营养——
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="none")]
-[name="慈祥的妇人"]您上次来时就是这样，生怕打扰我们生活，走的时候人都瘦了......对，拿着就对了。
+[name="慈祥的妇人"]您上次来时就是这样，生怕打扰我们生活，走的时候人都瘦了……对，拿着就对了。
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="m")]
 [name="医生"]您的药！
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="none")]
@@ -177,7 +177,7 @@
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]我就只是哮喘，其他人老的老病的病，还有感染者，我应该给他们让一让。
 [charslot(slot="r",name="avg_4125_rdoc_1#1$1",focus="r")]
-[name="医生"]我得替他们谢谢你。还有，之前让你尽量少抽烟的事......
+[name="医生"]我得替他们谢谢你。还有，之前让你尽量少抽烟的事……
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]我已经完全戒了。
 [charslot(slot="r",name="avg_4125_rdoc_1#1$1",focus="r")]
@@ -212,7 +212,7 @@
 [name="阿贝尔的声音"]De rien。
 [name="村民的声音"]这也是高卢语？什么意思？
 [name="阿贝尔的声音"]医生刚刚教我的，不用谢的意思。
-[name="村民的声音"]De......rien......好，我记住了。
+[name="村民的声音"]De……rien……好，我记住了。
 [Dialog]
 [charslot(slot="l",name="avg_npc_001",posfrom="-50,0",posto="0,0",duration=1.5)]
 [charslot(slot="l",afrom=0,ato=1,duration=1)]
@@ -220,10 +220,10 @@
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]您的苹果。
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
-[name="医生"]......阿贝尔，你把我教你的法语教给大家了？
+[name="医生"]……阿贝尔，你把我教你的法语教给大家了？
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]“法语”？这不是您上次来的时候教我们的高卢语吗？
-[name="阿贝尔"]我们已经有十几年没人会说自己的语言了，您上次教了我，我教给村里人，大家都很感激您......我们还想多向您请教请教呢。
+[name="阿贝尔"]我们已经有十几年没人会说自己的语言了，您上次教了我，我教给村里人，大家都很感激您……我们还想多向您请教请教呢。
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -238,8 +238,8 @@
 “您说什么？”
 “抱歉，我是说，‘谢谢’。”
 “您是高卢人？”
-“呃......我有个朋友，她从未到过卡西米尔，但她觉得在这里她大概也算个卡西米尔人。我的情况和她差不多。”
-“那高卢语......您还会说吗？”
+“呃……我有个朋友，她从未到过卡西米尔，但她觉得在这里她大概也算个卡西米尔人。我的情况和她差不多。”
+“那高卢语……您还会说吗？”
 “哈哈，如果我算是高卢人，我的母语当然也可以算作是某种高卢语了。”
 “可以教我几句吗？”
 [Dialog]
@@ -257,7 +257,7 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#7$1",focus="r")]
 [name="医生"]很抱歉扫你们的兴，我教你们的语言是法语，不是高卢语。
 [charslot(slot="l",name="avg_npc_001",focus="l")]
-[name="阿贝尔"]啊？这......
+[name="阿贝尔"]啊？这……
 [charslot(slot="r",name="avg_4125_rdoc_1#7$1",focus="r")]
 [name="医生"]抱歉之前没能把其中的区别解释清楚。如果你们真的想学，还是应该学习自己的语言。
 [name="医生"]我先走了。得开始准备手术室了。
@@ -278,10 +278,10 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#1$1",focus="m")]
 [name="医生"]怎么样，膝盖感觉好些了吗？
 [charslot(slot="m",name="avg_4125_rdoc_1#1$1",focus="none")]
-[name="慈祥的妇人"]好多了！要是没有您，我都不敢想还有这样一天......村里已经有好几个比我更严重的人都被您治好了，我都知道！
-[name="慈祥的妇人"]您真的是无所不能，是我们的救星啊......
+[name="慈祥的妇人"]好多了！要是没有您，我都不敢想还有这样一天……村里已经有好几个比我更严重的人都被您治好了，我都知道！
+[name="慈祥的妇人"]您真的是无所不能，是我们的救星啊……
 [charslot(slot="m",name="avg_4125_rdoc_1#6$1",focus="m")]
-[name="医生"]......救星？
+[name="医生"]……救星？
 [name="医生"]您千万别误会，我只是抽出了关节中的积水，您的关节炎仍然很严重，一定要避免负重，尽量减少长距离行走——
 [charslot(slot="m",name="avg_4125_rdoc_1#6$1",focus="none")]
 [name="慈祥的妇人"]明白，明白！好好保养，我这老膝盖会好起来的！谢谢您，merci，merci！您真的是我们的救星！
@@ -292,7 +292,7 @@
 [Delay(time=0.5)]
 [name="医生"]不是这样！您等等——
 [charslot(slot="m",name="avg_4125_rdoc_1#7$1")]
-[name="医生"]......
+[name="医生"]……
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_001",focus="l")]
@@ -307,7 +307,7 @@
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]这话只跟您说，那是看果园的老维克多看她太可怜，就把几个被虫蛀的苹果放在了她的必经之路上，想让她高兴高兴。
 [charslot(slot="r",name="avg_4125_rdoc_1#9$1",focus="r")]
-[name="医生"]......她知道吗？
+[name="医生"]……她知道吗？
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]捡到那几个苹果之后，她在村外转得更勤了。
 [charslot(slot="r",name="avg_4125_rdoc_1#7$1",focus="r")]
@@ -318,31 +318,31 @@
 [name="医生"]无论有没有办法，我们至少得先面对现实。
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]可现实就是我们在这儿根本活不成个人样。
-[name="阿贝尔"]您之前不让我们讲高卢话是为了保护我们，怕镇上对我们不利，大家都知道......
+[name="阿贝尔"]您之前不让我们讲高卢话是为了保护我们，怕镇上对我们不利，大家都知道……
 [stopmusic(fadetime=1.5)]
 [charslot(slot="r",name="avg_4125_rdoc_1#7$1",focus="r")]
 [name="医生"]那不是保护——
 [charslot(slot="l",name="avg_npc_001",focus="l")]
-[name="阿贝尔"]......但镇上其实根本就用不着故意对我们做什么。
+[name="阿贝尔"]……但镇上其实根本就用不着故意对我们做什么。
 [charslot(slot="r",name="avg_4125_rdoc_1#7$1",focus="r")]
-[name="医生"]......
+[name="医生"]……
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [playMusic(intro="$distressed_intro", key="$distressed_loop", volume=0.6)]
 [name="阿贝尔"]当年我们父亲那一辈人到这里来的时候根本没得选，肥沃的土地早就都有主了，“高卢外来户”只能在碎石头上建立村庄。
 [name="阿贝尔"]村子土地贫瘠，出产只够养活我们自己，商队不愿意来，医生当然更不愿意来。
 [name="阿贝尔"]前些年还说要在各个村子之间修路，我们理所当然是最后一个修，结果还剩两个村子的时候又说有天灾风险，修路的事先放放。
-[name="阿贝尔"]最后天灾也没有来，另一个村子自己出钱雇人把路修了过去，而我们......
-[name="阿贝尔"]移动城市里有什么人闹事了，也要来查我们，名义上还不说是查高卢人，只说“追查流寇”“加强治安”......
+[name="阿贝尔"]最后天灾也没有来，另一个村子自己出钱雇人把路修了过去，而我们……
+[name="阿贝尔"]移动城市里有什么人闹事了，也要来查我们，名义上还不说是查高卢人，只说“追查流寇”“加强治安”……
 [name="阿贝尔"]我们就这么苦苦熬着，一直熬到您来。
 [charslot(slot="r",name="avg_4125_rdoc_1#6$1",focus="r")]
-[name="医生"]......我？
+[name="医生"]……我？
 [charslot(slot="l",name="avg_npc_001",focus="l")]
-[name="阿贝尔"]您......不光是来给大家看病的，还是来带大家走的，对不对？
+[name="阿贝尔"]您……不光是来给大家看病的，还是来带大家走的，对不对？
 [charslot(slot="r",name="avg_4125_rdoc_1#6$1",focus="r")]
 [name="医生"]等等，阿贝尔，这是什么意思？我什么时候说过这种话了？
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]您朋友给您寄来的信。从莱塔尼亚寄出的。
-[name="阿贝尔"]实在很抱歉，我翻了您的腰包，但我们......我们真的等不下去了。
+[name="阿贝尔"]实在很抱歉，我翻了您的腰包，但我们……我们真的等不下去了。
 [charslot(slot="r",name="avg_4125_rdoc_1#3$1",focus="r")]
 [name="医生"]阿贝尔，醒醒！这封信上写的是英——维多利亚语，你应当看得懂，这只是朋友间的通信而已！
 [charslot(slot="l",name="avg_npc_001",focus="l")]
@@ -351,7 +351,7 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#8$1",focus="r")]
 [name="医生"]阿贝尔，看看我！我到底是谁？
 [charslot(slot="l",name="avg_npc_001",focus="l")]
-[name="阿贝尔"]......医生？
+[name="阿贝尔"]……医生？
 [charslot(slot="r",name="avg_4125_rdoc_1#2$1",focus="r")]
 [name="医生"]对，医生。我只是一名医生。
 [name="医生"]我来是为了尽可能缓解你们的苦痛，不是来用误会堆砌成的幻想麻醉你们。清醒一点。
@@ -374,11 +374,11 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
-[name="医生"]这是......
+[name="医生"]这是……
 [charslot(slot="l",name="avg_npc_001",focus="l")]
 [name="阿贝尔"]科西嘉一世陛下的肖像，我们从一位耳朵聋了的老人家的仓库最里边找到的。
-[name="阿贝尔"]画像在皇帝陛下刚驾崩的时候被划花了，老人也不记得陛下到底长什么样，我们只好稍微修复一下......
-[name="阿贝尔"]可能确实有点不太像，但大家觉得都差不多，反正都是高卢人的救星......
+[name="阿贝尔"]画像在皇帝陛下刚驾崩的时候被划花了，老人也不记得陛下到底长什么样，我们只好稍微修复一下……
+[name="阿贝尔"]可能确实有点不太像，但大家觉得都差不多，反正都是高卢人的救星……
 [Dialog]
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
 [Delay(time=1)]
@@ -387,10 +387,10 @@
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Subtitle(text="高卢人的救星？！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="还没等我反应出这个词的含义，画像上的人脸已经让我瞠目结舌。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="看得出来，画像的面部被损毁得太严重，补画的人只好凭自己的想象填补细节，最后画出来的面容倒有七分像......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="看得出来，画像的面部被损毁得太严重，补画的人只好凭自己的想象填补细节，最后画出来的面容倒有七分像……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="我自己。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="被褪色的镶金大画框环绕着的，头戴冠冕，胸披绶带，穿着正式礼服的古斯塔夫·卡特伯。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="如果换个场合，比如在地球，在罗德岛，哪怕是多索雷斯，这幅画像都称得上滑稽......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="如果换个场合，比如在地球，在罗德岛，哪怕是多索雷斯，这幅画像都称得上滑稽……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="但它偏偏在这里。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -405,7 +405,7 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#2$1",focus="r")]
 [name="医生"]我的下一个目的地根本不是莱塔尼亚，而是卡兹戴尔。因为我听说那里的人和你们遭受着同样的苦难。
 [charslot(slot="l",name="avg_npc_001",focus="l")]
-[name="阿贝尔"]魔族佬？！不......不对......这不可能！
+[name="阿贝尔"]魔族佬？！不……不对……这不可能！
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
 [name="医生"]最后，我向镇上的维多利亚官员保证过，在碎岩村不会做任何超出医生职责的事情。
 [charslot(slot="l",name="avg_npc_001",focus="l")]
@@ -438,11 +438,11 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#13$1",focus="m")]
 [name="医生"]阿贝尔？
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]......
+[name="阿贝尔"]……
 [charslot(slot="m",name="avg_4125_rdoc_1#13$1",focus="m")]
 [name="医生"]去村口有事？
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]......不，没什么。
+[name="阿贝尔"]……不，没什么。
 [charslot(slot="m",name="avg_4125_rdoc_1#1$1",focus="m")]
 [name="医生"]既然这样，这些药你拿着。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
@@ -450,27 +450,27 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#1$1",focus="m")]
 [name="医生"]这段时间我都忙忘了，你家还有个科莫。他去哪里了？这是他的药，等他回来记得把药给他，他还需要一段时间来巩固——
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]......
+[name="阿贝尔"]……
 [charslot(slot="m",name="avg_4125_rdoc_1#13$1",focus="m")]
-[name="医生"]阿贝尔......？
+[name="医生"]阿贝尔……？
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]上次您走后没两天，镇里又派人来查流寇，闹了一夜。那群人把科莫赶下了床，要查看床里藏了什么违禁品......
-[name="阿贝尔"]结果......科莫又开始咳个不停。我求他们把科莫带到镇子里，他们......理都不理我。
-[name="阿贝尔"]我又连夜去别的村子找人，可是家里根本没钱，没人愿意过来。最后好容易请动了沙洲村的老医生，赶回来的时候......
+[name="阿贝尔"]上次您走后没两天，镇里又派人来查流寇，闹了一夜。那群人把科莫赶下了床，要查看床里藏了什么违禁品……
+[name="阿贝尔"]结果……科莫又开始咳个不停。我求他们把科莫带到镇子里，他们……理都不理我。
+[name="阿贝尔"]我又连夜去别的村子找人，可是家里根本没钱，没人愿意过来。最后好容易请动了沙洲村的老医生，赶回来的时候……
 [name="阿贝尔"]我就是从那天以后戒烟的。
 [name="阿贝尔"]医生，这次一切都会不一样，您不会再抛弃我们了，对不对？
-[name="阿贝尔"]我们都知道，除了另一位高卢人，不会有任何一个人愿意多看我们一眼......
-[name="阿贝尔"]您已经治好了我们所有人，您最后一定会拯救我们的，我明白，我明白的......
+[name="阿贝尔"]我们都知道，除了另一位高卢人，不会有任何一个人愿意多看我们一眼……
+[name="阿贝尔"]您已经治好了我们所有人，您最后一定会拯救我们的，我明白，我明白的……
 [Dialog]
 [PlaySound(key="$d_avg_paper2",channel="1")]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_4125_rdoc_1#6$1",focus="m")]
 [name="医生"]等等，阿贝尔，你手里拿着的是什么？
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]告示。带大家离开碎岩村，前往莱塔尼亚的告示，告知大家您会带我们冲破重重阻拦，您会带我们去一片能安居乐业的土地......
-[name="阿贝尔"]救我，救救我们......
+[name="阿贝尔"]告示。带大家离开碎岩村，前往莱塔尼亚的告示，告知大家您会带我们冲破重重阻拦，您会带我们去一片能安居乐业的土地……
+[name="阿贝尔"]救我，救救我们……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="阿贝尔"]......咳、咳咳！咳！
+[name="阿贝尔"]……咳、咳咳！咳！
 [Dialog]
 [PlaySound(key="$bodyfalldown1",channel="1")]
 [charslot(duration=0.5)]
@@ -486,16 +486,16 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#3$1",focus="none")]
 [name="阿贝尔"]（艰难的喘息声）
 [charslot(slot="m",name="avg_4125_rdoc_1#3$1",focus="m")]
-[name="医生"]听我的指令，我说一时吸气，我说二时呼气！一......二！一......二！
+[name="医生"]听我的指令，我说一时吸气，我说二时呼气！一……二！一……二！
 [charslot(slot="m",name="avg_4125_rdoc_1#4$1",focus="m")]
-[name="医生"]一......二......一......二......
+[name="医生"]一……二……一……二……
 [charslot(slot="m",name="avg_4125_rdoc_1#4$1",focus="none")]
 [name="阿贝尔"]（逐渐通畅的呼吸声）
 [name="阿贝尔"]（含混的说话声）
 [charslot(slot="m",name="avg_4125_rdoc_1#4$1",focus="m")]
 [name="医生"]先别说话——
 [charslot(slot="m",name="avg_4125_rdoc_1#4$1",focus="none")]
-[name="阿贝尔"]大家......都来了......
+[name="阿贝尔"]大家……都来了……
 [Dialog]
 [charslot(slot="m",name="avg_4125_rdoc_1#7$1",focus="m")]
 [PlaySound(key="$d_gen_walk_n",channel="2")]
@@ -507,7 +507,7 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#2$1",focus="m")]
 [name="医生"]我是医生，不是牧人。
 [charslot(slot="m",name="avg_4125_rdoc_1#2$1",focus="none")]
-[name="感激的村民"]但我、我的孩子......我们的命，都是您给的。
+[name="感激的村民"]但我、我的孩子……我们的命，都是您给的。
 [charslot(slot="m",name="avg_4125_rdoc_1#7$1",focus="m")]
 [name="医生"]我救你们的命不为了我自己。
 [charslot(slot="m",name="avg_4125_rdoc_1#7$1",focus="none")]
@@ -527,26 +527,26 @@
 [charslot(slot="m",name="avg_npc_001",duration=1.5)]
 [delay(time=2)]
 [name="阿贝尔"]您一定可以的。
-[name="阿贝尔"]您是......高卢人的救星。
+[name="阿贝尔"]您是……高卢人的救星。
 [Dialog]
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Subtitle(text="不知是谁递过去的，阿贝尔手中又多了那幅画，那幅穿着科西嘉一世服装的古斯塔夫·卡特伯。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="所有人都用同样的目光注视着我。我在别处见过这种目光，但那时的那些目光并未看向我。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="一种痛苦、尊敬、充满希望的......迷狂的目光。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="一种痛苦、尊敬、充满希望的……迷狂的目光。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="我嗅到了还未溅出身体的血腥气。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
-[name="医生"]......阿贝尔，正好，在出发之前，我有事情要交代。
+[name="医生"]……阿贝尔，正好，在出发之前，我有事情要交代。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
 [name="阿贝尔"]您尽管吩咐，这里的所有人都听您的命令。
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [name="医生"]拿着这个。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]......书？
+[name="阿贝尔"]……书？
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [name="医生"]是你们每个人的病历，按照严重程度做了不同颜色的标签。每个人病历的最后都附上了发病时的处理方式，还有对应药品的用法用量。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
@@ -561,13 +561,13 @@
 [PlaySound(key="$d_avg_clothmovement",channel="2")]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
-[name="医生"]对，拿着它，然后......把画像给我。
+[name="医生"]对，拿着它，然后……把画像给我。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]......
+[name="阿贝尔"]……
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [name="医生"]把画像给我。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]......我听您的。
+[name="阿贝尔"]……我听您的。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_clothmovement",channel="2")]
@@ -602,11 +602,11 @@
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [name="医生"]阿贝尔，拿着。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]拿着......什么？
+[name="阿贝尔"]拿着……什么？
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [name="医生"]画像。
 [charslot(slot="m",name="avg_npc_001",focus="m")]
-[name="阿贝尔"]......我还拿着它......做什么？一张打坏的画像......还能做什么？
+[name="阿贝尔"]……我还拿着它……做什么？一张打坏的画像……还能做什么？
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [name="医生"]去给这幅肖像画上它真正的面容，至少别再给皇帝画一张医生的脸了。
 [name="医生"]如果科西嘉一世的面容已经模糊不清，就去找一个真正能拯救你们，能带你们走出碎石和盐碱的人。
@@ -615,7 +615,7 @@
 [name="医生"]他也许在你们之中，也许不在，也许是你们每个人。
 [charslot(slot="m",name="avg_4125_rdoc_1#11$1",focus="m")]
 [name="医生"]但他不是我。
-[name="医生"]医生会为了他的患者而战，但他的患者是人，而不是由人组成的......别的东西。
+[name="医生"]医生会为了他的患者而战，但他的患者是人，而不是由人组成的……别的东西。
 [name="医生"]抱歉。
 [name="医生"]Je suis navré。
 [Dialog]
@@ -643,7 +643,7 @@
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="当地官员"]先生，我撤回之前对您的侮辱，您是一位真正的爱国——呃，不，一位真正的和平主义者。
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
-[name="医生"]......你都知道了？
+[name="医生"]……你都知道了？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="当地官员"]我当然知道！昨天别提我有多着急了！我还以为您真的要带着那群高卢人去莱塔尼亚呢！
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
@@ -654,15 +654,15 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#9$1",focus="r")]
 [name="医生"]不必。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="当地官员"]不过我也得说，您最后对他们讲的那段话......有点点危险。您以后还是收敛一些比较好。
+[name="当地官员"]不过我也得说，您最后对他们讲的那段话……有点点危险。您以后还是收敛一些比较好。
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
 [name="医生"]收敛？我问你，镇上有酗酒成瘾的人吗？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="当地官员"]这......当然......还是有几个，可这和我们说的有什么关系吗？
+[name="当地官员"]这……当然……还是有几个，可这和我们说的有什么关系吗？
 [charslot(slot="r",name="avg_4125_rdoc_1#7$1",focus="r")]
 [name="医生"]希望他们在死于酒瘾前回头的人，和让他们不得不借酒浇愁的人，请问哪一种才更该收敛一些？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="当地官员"]......先生，我是出于尊敬才对您说了刚才的话，您不要会错意。
+[name="当地官员"]……先生，我是出于尊敬才对您说了刚才的话，您不要会错意。
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
 [name="医生"]当然，我也只是出于一名医生的责任感才对碎岩村说了那些话。包括刚才对你说的话，也是一样。
 [charslot(slot="l",name="avg_npc_223",focus="l")]

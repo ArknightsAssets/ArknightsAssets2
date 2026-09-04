@@ -15,7 +15,7 @@
 [character(name="avg_npc_158_1#2")]
 [name="德鲁奇"]谋反，哼，呵呵。
 [name="德鲁奇"]你应该知道，皮加尔。
-[name="德鲁奇"]如果不是老头子那腐朽的脑袋里还想着保护他那些感染的......啊，劣质资产。
+[name="德鲁奇"]如果不是老头子那腐朽的脑袋里还想着保护他那些感染的……啊，劣质资产。
 [name="德鲁奇"]这位子根本轮不到你坐。
 [name="德鲁奇"]冷静点，妹妹。
 [name="德鲁奇"]看看这个，这些玩具来自一位哥伦比亚的热心赞助商。
@@ -33,7 +33,7 @@
 [name="德鲁奇"]把你从大宅里骗出来，也花了我不少时间。
 [name="德鲁奇"]所以我亲爱的妹妹，你那强大的武技起到什么作用了？你坚强的意志又起到什么作用了？
 [character(name="avg_npc_159_1#2")]
-[name="皮加尔"]......
+[name="皮加尔"]……
 [character(name="avg_npc_158_1#2")]
 [name="德鲁奇"]你再看看这些朋友，这些萨卡兹朋友。
 [name="德鲁奇"]他们可不是那些死脑筋的魔族佬，他们同样来自哥伦比亚，他们为钱办事。
@@ -59,8 +59,8 @@
 [name="皮加尔"]你违抗领主，就是违抗王酋，你已经死罪难逃了！
 [character(name="avg_npc_158_1#2")]
 [name="德鲁奇"]这就是你和那个老东西想出来的计谋？
-[name="德鲁奇"]哈哈哈......
-[name="德鲁奇"]哈哈哈哈哈......
+[name="德鲁奇"]哈哈哈……
+[name="德鲁奇"]哈哈哈哈哈……
 [dialog]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [CameraShake(duration=0.3,xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -76,7 +76,7 @@
 [name="德鲁奇"]老头子引以为豪的瑞柏巴卫队现在就躺在巷子里身首异处。
 [name="德鲁奇"]最棘手的领主卫队已经没了，你觉得这里还有谁能管我？
 [character(name="avg_npc_159_1#2")]
-[name="皮加尔"]你这个丧心病狂的废物！他们从小看着你长大！你竟然......
+[name="皮加尔"]你这个丧心病狂的废物！他们从小看着你长大！你竟然……
 [character(name="avg_npc_158_1#2")]
 [name="德鲁奇"]他们不该挡我的道。
 [name="德鲁奇"]你也不该。
@@ -121,7 +121,7 @@
 [name="德鲁奇"]这样，你和老头就能看着我是怎么把矿洞底下深藏的源石挖出来，让长泉镇变成整个巴耶勒的矿产中心。
 [name="德鲁奇"]怎么，不说话了？
 [character(name="avg_npc_159_1#2")]
-[name="皮加尔"]......你在出卖你的家族，出卖这片土地！我诅咒你，德鲁奇，你不得好死！
+[name="皮加尔"]……你在出卖你的家族，出卖这片土地！我诅咒你，德鲁奇，你不得好死！
 [character(name="avg_npc_158_1#2")]
 [name="德鲁奇"]随你开心，我亲爱的妹妹，你想咒多久就咒多久，趁你还有本事说话。
 [name="德鲁奇"]那就这样吧。
@@ -144,7 +144,7 @@
 [Character(name="avg_npc_053", name2="avg_npc_158_1#1",focus=2)]
 [name="德鲁奇"]（哥伦比亚语）把那些感染者带到学者那边去。
 [character(name="avg_npc_160_1#1")]
-[name="米亚罗"]咳咳......咳......
+[name="米亚罗"]咳咳……咳……
 [Character(name="avg_npc_053", name2="avg_npc_158_1#1",focus=1)]
 [name="萨卡兹雇佣兵"]（哥伦比亚语）好的，我把他们带给科学家。
 [name="萨卡兹雇佣兵"]（哥伦比亚语）这个年轻人呢？看起来快不行了。
@@ -170,7 +170,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_053")]
-[name="萨卡兹雇佣兵"]呃......
+[name="萨卡兹雇佣兵"]呃……
 [dialog]
 [character(fadetime=0.5)]
 [PlaySound(key="$bodyfalldown3")]
@@ -198,7 +198,7 @@
 [name="德鲁奇"]怎么回事！
 [name="雇佣兵"]头儿，还有敌人！
 [name="德鲁奇"]领主卫队的人不是都被干掉了吗！
-[name="雇佣兵"]我看见了！我看见了！那是个......
+[name="雇佣兵"]我看见了！我看见了！那是个……
 [dialog]
 [delay(time=0.6)]
 [Image(image="avg_ac17_7",screenadapt="coverall", fadetime=0.5)]
@@ -214,7 +214,7 @@
 [PlaySound(key="$bodyfalldown3")]
 [delay(time=2)]
 [name="德鲁奇"]术师，快让怪物动起来！
-[name="术师雇佣兵"]稍等......我看看......这个要......
+[name="术师雇佣兵"]稍等……我看看……这个要……
 [name="雇佣兵"]动作搞快一点！
 [dialog]
 [delay(time=1)]
@@ -224,7 +224,7 @@
 [delay(time=1)]
 [name="雇佣兵"]啊啊啊！我的肩膀！我的肩膀！
 [name="萨卡兹雇佣兵"]不要慌乱，敌人在哪？
-[name="雇佣兵"]没......没看到！
+[name="雇佣兵"]没……没看到！
 [name="萨卡兹雇佣兵"]先撤退，敌人有弓弩，别待在空旷地！
 [name="萨卡兹雇佣兵"]掩护德鲁奇老板，他可不能出事！
 [dialog]
@@ -245,17 +245,17 @@
 [name="雇佣兵"]我看到了！是个菲林！
 [name="雇佣兵"]小心！撤退！撤退！
 [character(name="avg_npc_166")]
-[name="黑"]......
+[name="黑"]……
 [character(name="avg_npc_159_1#1")]
-[name="皮加尔"]是你......你是罗德岛的......
+[name="皮加尔"]是你……你是罗德岛的……
 [character(name="avg_npc_166")]
 [name="黑"]你还能动吗，瑞柏巴？
 [character(name="avg_npc_159_1#1")]
-[name="皮加尔"]谢谢......
+[name="皮加尔"]谢谢……
 [dialog]
 [character]
 [delay(time=0.7)]
-[name="源石畸变体"]嘎......
+[name="源石畸变体"]嘎……
 [dialog]
 [delay(time=0.6)]
 [name="术师雇佣兵"]好，动起来了。
@@ -274,7 +274,7 @@
 [name="黑"]你要做什么？
 [character(name="avg_npc_159_1#2",name2="avg_npc_166",focus=1)]
 [name="皮加尔"]德鲁奇能做到这一步都是我的疏忽。
-[name="皮加尔"]我没有脸面去见长眠的父亲......
+[name="皮加尔"]我没有脸面去见长眠的父亲……
 [name="皮加尔"]但就算死，我也要把这叛徒的心挖出来给长泉陪葬！
 [character(name="avg_npc_159_1#2",name2="avg_npc_166",focus=2)]
 [name="黑"]别冲动，敌人太多，这样行动必死无疑，你需要为这座城镇活下来。
@@ -361,14 +361,14 @@
 [Character(name="avg_npc_053",name2="char_503_rang",focus=2)]
 [name="巡林者"]已经没有什么狙击手了。
 [Character(name="avg_npc_053",name2="char_503_rang",focus=1)]
-[name="萨卡兹雇佣兵"]你，你是从哪儿......
+[name="萨卡兹雇佣兵"]你，你是从哪儿……
 [dialog]
 [dialog]
 [PlaySound(key="$fightgeneral", volume=1)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.05, block=true)]
 [delay(time=1)]
-[name="萨卡兹雇佣兵"]呃......
+[name="萨卡兹雇佣兵"]呃……
 [Character(name="char_empty",name2="char_503_rang",focus=1)]
 [dialog]
 [PlaySound(key="$bodyfalldown3")]
@@ -382,7 +382,7 @@
 [Character(name="char_458_rfrost_1#3")]
 [name="霜华"]等等，他们推了一台什么东西出来?
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=2)]
-[name="芙兰卡"]那是......
+[name="芙兰卡"]那是……
 [Character(name="avg_npc_156_1#2",name2="avg_npc_155_1#1",focus=1)]
 [name="雷蛇"]卧倒！
 [dialog]
@@ -402,21 +402,21 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#3",focus=2)]
-[name="芙兰卡"]咳咳......我的耳朵。
+[name="芙兰卡"]咳咳……我的耳朵。
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#3",focus=1)]
 [name="雷蛇"]你没事吧。
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#2",focus=2)]
 [name="芙兰卡"]我没事。
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#2",focus=1)]
-[name="雷蛇"]其他人呢......
+[name="雷蛇"]其他人呢……
 [Character(name="char_456_ash_1#3",name2="char_458_rfrost_1#3",focus=2)]
-[name="霜华"]都还好，但是我现在觉得五脏六腑都在疼......
+[name="霜华"]都还好，但是我现在觉得五脏六腑都在疼……
 [Character(name="char_456_ash_1#3",name2="char_458_rfrost_1#3",focus=1)]
-[name="灰烬"]......这是什么武器？
+[name="灰烬"]……这是什么武器？
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=2)]
 [name="芙兰卡"]他们怎么连这种东西都拉出来了。
 [Character(name="avg_npc_156_1#1",name2="avg_npc_155_1#1",focus=1)]
-[name="雷蛇"]沃尔沃特科钦斯基的实验性武器......真是没想到。
+[name="雷蛇"]沃尔沃特科钦斯基的实验性武器……真是没想到。
 [character(name="char_503_rang")]
 [name="巡林者"]这可麻烦了。
 [dialog]
@@ -470,17 +470,17 @@
 [name="皮加尔"]六个！你们这些丑陋肮脏的怪物，来啊！我要把你们全都砸成碎片。
 [character(name="avg_npc_166")]
 [name="黑"]冷静一点，皮加尔小姐，节省体力。
-[name="黑"]它们......数量太多了。
+[name="黑"]它们……数量太多了。
 [character(name="avg_npc_160_1#1")]
-[name="米亚罗"]不......咳咳......
-[name="米亚罗"]皮加尔大人......黑小姐......
+[name="米亚罗"]不……咳咳……
+[name="米亚罗"]皮加尔大人……黑小姐……
 [character(name="avg_npc_166")]
 [name="黑"]医生！
 [character(name="avg_npc_160_1#1")]
-[name="米亚罗"]你们......咳，咳......快跑！
-[name="米亚罗"]来吧，怪物......
+[name="米亚罗"]你们……咳，咳……快跑！
+[name="米亚罗"]来吧，怪物……
 [character(name="avg_npc_166")]
-[name="黑"]......你要做什么？
+[name="黑"]……你要做什么？
 [dialog]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -499,7 +499,7 @@
 [Background(image="bg_nobleN",fadetime=0)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1.5)]
-[name="米亚罗"]（痛......好痛。）
+[name="米亚罗"]（痛……好痛。）
 [dialog]
 [delay(time=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -508,26 +508,26 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
-[name="米亚罗"]（我在哪儿......我晕倒了？）
-[name="米亚罗"]（这是......）
+[name="米亚罗"]（我在哪儿……我晕倒了？）
+[name="米亚罗"]（这是……）
 [character(name="avg_npc_159_1#2",blackstart=0.14,blackend=0.4)]
-[name="皮加尔"]......你在出卖你的家族，出卖这片土地！我诅咒你，德鲁奇，你不得好死！
+[name="皮加尔"]……你在出卖你的家族，出卖这片土地！我诅咒你，德鲁奇，你不得好死！
 [character(name="avg_npc_160_1#1")]
 [name="米亚罗"]（皮加尔大人！跪在地上？）
 [name="米亚罗"]（出什么事了？）
-[name="米亚罗"]（啊......痛......）
-[name="米亚罗"]咳咳......咳......
+[name="米亚罗"]（啊……痛……）
+[name="米亚罗"]咳咳……咳……
 [dialog]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Subtitle(text="浑身都在痛。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="是矿石病发作了么......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="是矿石病发作了么……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
-[name="米亚罗"]（这是......血？）
-[name="米亚罗"]（啊......）
+[name="米亚罗"]（这是……血？）
+[name="米亚罗"]（啊……）
 [dialog]
 [delay(time=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -536,7 +536,7 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
-[name="米亚罗"]（痛......好冷。）
+[name="米亚罗"]（痛……好冷。）
 [Character(name="avg_npc_053",name2="avg_npc_158_1#1",blackstart=0.14,blackend=0.4,blackstart2=0.14,blackend2=0.4,focus=2)]
 [name="德鲁奇"]（哥伦比亚语）把那些感染者带到学者那边去。
 [Character(name="avg_npc_053",name2="avg_npc_158_1#1",blackstart=0.14,blackend=0.4,blackstart2=0.14,blackend2=0.4,focus=1)]
@@ -547,9 +547,9 @@
 [name="德鲁奇"]（哥伦比亚语）至于我妹妹。
 [name="德鲁奇"]（哥伦比亚语）把她变成感染者，你们萨卡兹人肯定知道怎么弄。
 [character(name="avg_npc_160_1#1")]
-[name="米亚罗"]（他......他要对感染者做什么？）
-[name="米亚罗"]（站不起来......）
-[name="米亚罗"]（那是谁......）
+[name="米亚罗"]（他……他要对感染者做什么？）
+[name="米亚罗"]（站不起来……）
+[name="米亚罗"]（那是谁……）
 [dialog]
 [character]
 [delay(time=1)]
@@ -560,34 +560,34 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [character(name="avg_npc_160_1#1")]
-[name="米亚罗"]（是黑小姐......）
-[name="米亚罗"]（只有一个人......）
-[name="米亚罗"]（得帮帮她......）
-[name="米亚罗"]（哈......最终还是要用这种方法。）
-[name="米亚罗"]你们......快逃......
+[name="米亚罗"]（是黑小姐……）
+[name="米亚罗"]（只有一个人……）
+[name="米亚罗"]（得帮帮她……）
+[name="米亚罗"]（哈……最终还是要用这种方法。）
+[name="米亚罗"]你们……快逃……
 [character(name="avg_npc_166")]
 [name="黑"]你要做什么！
 [character(name="avg_npc_160_1#2")]
 [name="米亚罗"]别管我！快跑！
 [character(name="avg_npc_166")]
 [name="黑"]那是精炼源石锭？
-[name="黑"]你这是要......
+[name="黑"]你这是要……
 [name="黑"]！！
 [character(name="avg_npc_160_1#2")]
-[name="米亚罗"]源石技艺......很久没有用过了。
+[name="米亚罗"]源石技艺……很久没有用过了。
 [dialog]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.8, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Subtitle(text="“让源石制品爆炸的源石技艺？还真是少见。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“这种源石技艺，去当兵不是更好？为什么要当医生？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“唉......随你吧，我只是觉得有点可惜。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“唉……随你吧，我只是觉得有点可惜。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [name="米亚罗"]（还有很多想做的事情。）
-[name="米亚罗"]（还不想死......）
-[name="米亚罗"]（医生的天职就是拯救生命，我在......拯救......）
+[name="米亚罗"]（还不想死……）
+[name="米亚罗"]（医生的天职就是拯救生命，我在……拯救……）
 [dialog]
 [delay(time=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -616,8 +616,8 @@
 [Character(name="avg_npc_053")]
 [name="萨卡兹雇佣兵"]站起来！保持阵型！
 [Character(name="avg_npc_158_1#1")]
-[name="德鲁奇"]咳咳......咳。
-[name="德鲁奇"]怎么回事......那是什么啊！
+[name="德鲁奇"]咳咳……咳。
+[name="德鲁奇"]怎么回事……那是什么啊！
 [character(name="avg_npc_007")]
 [name="雇佣兵"]畸变体，畸变体不受控制了！
 [Character(name="avg_npc_158_1#1")]

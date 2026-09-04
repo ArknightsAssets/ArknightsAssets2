@@ -13,7 +13,7 @@
 [Dialog]
 [charslot(slot="m",name="char_284_spot_1",afrom=0, ato=1,duration=1.5)]
 [delay(time=2)]
-[name="斑点"]咳、咳......麻烦死了！这沙子都要钻进我肺里了！月见夜，你那边怎么样了？！
+[name="斑点"]咳、咳……麻烦死了！这沙子都要钻进我肺里了！月见夜，你那边怎么样了？！
 [charslot(slot="m",name="char_283_midn_1#4",focus="m")]
 [name="月见夜"]还行！最后两个沙盗已经被我解决了！你那边呢？泡普卡还好吗？
 [charslot(slot="m",name="char_284_spot_1",focus="m")]
@@ -22,10 +22,10 @@
 [charslot(slot="m",name="char_283_midn_1#4",focus="m")]
 [name="月见夜"]冷静点，斑点，再坚持一下，梓兰小姐和空爆一定会来支援的！
 [charslot(slot="m",name="avg_281_popka_1#5$2",focus="m")]
-[name="泡普卡"]（好可怕......风沙好大......我什么都看不清了......）
-[name="泡普卡"]（斑点哥哥......他的盾牌在晃......他快要顶不住了......）
+[name="泡普卡"]（好可怕……风沙好大……我什么都看不清了……）
+[name="泡普卡"]（斑点哥哥……他的盾牌在晃……他快要顶不住了……）
 [charslot(slot="m",name="avg_281_popka_1#1$2",focus="m")]
-[name="泡普卡"]（咦？那个人......是沙盗！他躲过了月见夜哥哥！）
+[name="泡普卡"]（咦？那个人……是沙盗！他躲过了月见夜哥哥！）
 [charslot(slot="m",name="avg_281_popka_1#7$2",focus="m")]
 [name="泡普卡"]斑点哥哥！
 [charslot(slot="m",name="char_283_midn_1#4",focus="m")]
@@ -33,7 +33,7 @@
 [charslot(slot="m",name="char_284_spot_1",focus="m")]
 [name="斑点"]什么？！
 [charslot(slot="m",name="avg_281_popka_1#5$2",focus="m")]
-[name="泡普卡"]（他转不过来！来不及了！那把刀......那把刀要砍下去了！）
+[name="泡普卡"]（他转不过来！来不及了！那把刀……那把刀要砍下去了！）
 [name="泡普卡"]（不要——不要伤害斑点哥哥！）
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -63,7 +63,7 @@
 [charslot(slot="m",name="char_284_spot_1",focus="m")]
 [name="斑点"]不知道！好像有什么东西炸了？喂！泡普卡，你没事吧？！
 [charslot(slot="m",name="avg_281_popka_1#4$2",focus="m")]
-[name="泡普卡"]嗯......泡普卡没事......
+[name="泡普卡"]嗯……泡普卡没事……
 [charslot]
 泡普卡呆呆地站在原地，她自己也不知道刚才发生了什么。她只看到那个坏人飞了出去，斑点哥哥安全了。
 [Dialog]
@@ -81,16 +81,16 @@
 [Delay(time=2)]
 [charslot(slot="l",name="avg_1049_catap2_1#7$2",focus="l")]
 [charslot(slot="r",name="avg_1048_orchd2_1#4$1",focus="l")]
-[name="空爆"]......结束了？
+[name="空爆"]……结束了？
 [charslot(slot="r",name="avg_1048_orchd2_1#4$1",focus="r")]
-[name="梓兰"]我们......回来了？
+[name="梓兰"]我们……回来了？
 [charslot(slot="l",name="avg_1049_catap2_1#6$2",focus="l")]
-[name="空爆"]好像是......刚才那场狩猎......那个“御轮”......宝巫迦......时间过去了多久？
+[name="空爆"]好像是……刚才那场狩猎……那个“御轮”……宝巫迦……时间过去了多久？
 [charslot]
 一声清脆的、与这片沙漠格格不入的叫声，从她们身后响起。
 [charslot(slot="m",name="avg_4215_buddyC_1#1$2",focus="m")]
 [PlaySound(key="$MHR_cat_voice1", volume=1)]
-[name="政宗"]这里......难道是远方的封印之地喵？
+[name="政宗"]这里……难道是远方的封印之地喵？
 [PlaySound(key="$MHR_dog_voice1", volume=1)]
 [charslot(slot="m",name="avg_4215_buddyD_1#1$7",focus="m")]
 [name="义经"]（失望的低鸣）
@@ -133,22 +133,22 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#8$1",focus="m")]
 [name="梓兰"]总而言之，月见夜，斑点，泡普卡，你们没事就好。这次任务的混乱，是我的指挥失误，让你们担心了，辛苦你们了。
 [charslot(slot="m",name="char_283_midn_1#4",focus="m")]
-[name="月见夜"]......
+[name="月见夜"]……
 [charslot(slot="m",name="char_284_spot_1",focus="m")]
-[name="斑点"]......
+[name="斑点"]……
 [charslot(slot="m",name="avg_281_popka_1#10$1",focus="m")]
-[name="泡普卡"]......
+[name="泡普卡"]……
 [charslot(slot="m",name="avg_1048_orchd2_1#4$1",focus="m")]
 [name="梓兰"]嗯？怎么了？
 [charslot(slot="m",name="char_284_spot_1",focus="m")]
 [name="斑点"]喂喂，你是谁啊？你不是我们的队长吧？我们的队长只会叹着气骂我们是问题儿童。
 [charslot(slot="m",name="char_283_midn_1#4",focus="m")]
-[name="月见夜"]确实......这温柔的语气，这坦率的道歉......小姐，你是不是被沙尘暴里的什么东西附身了？
+[name="月见夜"]确实……这温柔的语气，这坦率的道歉……小姐，你是不是被沙尘暴里的什么东西附身了？
 [name="月见夜"]我认识几个懂秘术的姐妹，要不我们去看一看吧？
 [charslot(slot="m",name="avg_1049_catap2_1#14$2",focus="m")]
 [name="空爆"]啊哦。
 [charslot(slot="m",name="avg_1048_orchd2_1#8$1",focus="m")]
-[name="梓兰"]......
+[name="梓兰"]……
 [charslot(slot="m",name="avg_1048_orchd2_1#5$1",focus="m")]
 [multiline(name="梓兰")]你们两个家伙！我难得想当个好队长你们还不乐意了是吧？！任务报告！
 [charslot(slot = "m", action="zoom", poszoom = "0.5,0.53", scale=1.05, duration = 0)]
@@ -169,7 +169,7 @@
 [charslot(slot="m",name="char_283_midn_1#2",focus="m")]
 [name="月见夜"]报告长官，此事说来话长！
 [charslot(slot="m",name="char_284_spot_1",focus="m")]
-[name="斑点"]啊......这回是梓兰没错了。那我继续看漫画了，月见夜，等你搞清楚发生了什么后，记得跟我说一声。
+[name="斑点"]啊……这回是梓兰没错了。那我继续看漫画了，月见夜，等你搞清楚发生了什么后，记得跟我说一声。
 [name="斑点"]最好三十字以内。
 [charslot(slot="m",name="avg_1049_catap2_1#4$2",focus="m")]
 [name="空爆"]嗯，有的时候我也觉得有些事真怪不了梓兰姐。
@@ -216,7 +216,7 @@
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]在此之前，我认为还有一件事要做。我们应该在都城的中央广场上，为我们的英雄们建一座雕像。
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]是啊......为了梓兰小姐、空爆小姐、政宗大人和义经大人，还有过往的“异兽猎人”们。
+[name="宝巫迦"]是啊……为了梓兰小姐、空爆小姐、政宗大人和义经大人，还有过往的“异兽猎人”们。
 [charslot(slot="m",name="avg_npc_2101_1#5$1",focus="m")]
 [name="月见夜"]但愿他们已经平安回到自己的家乡了。
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
@@ -224,18 +224,18 @@
 [charslot(slot="m",name="avg_npc_2101_1#2$1",focus="m")]
 [name="月见夜"]这是为何？
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]吾不是为了纪念它，或者可怜它......只是，为了记住它。
+[name="宝巫迦"]吾不是为了纪念它，或者可怜它……只是，为了记住它。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
-[name="月见夜"]......好。
+[name="月见夜"]……好。
 [charslot(slot="m",name="avg_npc_2101_1#9$1",focus="m")]
 [name="月见夜"]泡影国确实应当记住“雷之主”。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]我们能做的，就是将他们的故事，和这个国家的历史一起，永远流传下去。
 [charslot(slot="m",name="avg_npc_2103_1#1$1",focus="m")]
 [name="斑弥罗"]说起来，还真是有点想念他们啊。虽然空爆老是嘲笑我的发明，但没有她的武器，我的击龙枪也确实造不出来。
-[name="斑弥罗"]还有政宗，那家伙虽然嘴碎，但给的东西都是真材实料......
+[name="斑弥罗"]还有政宗，那家伙虽然嘴碎，但给的东西都是真材实料……
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
-[name="宝巫迦"]是啊......不知怎么的，虽然现在很和平，但总觉得......有些空落落的。
+[name="宝巫迦"]是啊……不知怎么的，虽然现在很和平，但总觉得……有些空落落的。
 [charslot]
 月见夜和宝巫迦的视线再次相遇，这一次，不再有隔阂与对立。
 就在这时，一名武士神色古怪地走了进来。
@@ -243,11 +243,11 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_2106_1#1$1",afrom=0, ato=1,duration=1.5)]
 [Delay(time=2)]
-[name="武士"]启禀陛下、将军......城外有两位猎人求见。
+[name="武士"]启禀陛下、将军……城外有两位猎人求见。
 [charslot(slot="m",name="avg_npc_2101_1#4$1",focus="m")]
 [name="月见夜"]猎人？来自哪里？
 [charslot(slot="m",name="avg_npc_2106_1#1$1",focus="m")]
-[name="武士"]她们说......她们来自遥远的大地——
+[name="武士"]她们说……她们来自遥远的大地——
 [charslot]
 宝巫迦心中一动，一种难以言喻的预感涌上心头。她快步走出议事厅，来到了城门前。
 [Dialog]
@@ -268,7 +268,7 @@
 城门外，站着两个风尘仆仆的身影。
 其中一人，身着一套如同紫色火焰般的优雅猎人套装，手持长弓，正警惕地打量着四周的环境。
 而另一人，则一身青蓝色护甲，充满野性气息，背上背着一对巨大的剑盾，正一脸无聊地用脚尖踢着地上的石子。
-她们的衣着、神态、武器......都和宝巫迦记忆深处的那两个人有一些出入。
+她们的衣着、神态、武器……都和宝巫迦记忆深处的那两个人有一些出入。
 但是，那两张脸，却是一模一样。
 [charslot(slot="l",name="avg_1049_catap2_1#1$2",bstart=0.2,bend=0.5,focus="l")]
 [charslot(slot="r",name="avg_1048_orchd2_1#1$2",bstart=0.2,bend=0.5,focus="l")]
@@ -279,8 +279,8 @@
 [name="急躁的猎人"]哈，那敢情好！
 [charslot]
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]......梓兰小姐？
-[name="宝巫迦"]......空爆小姐？
+[name="宝巫迦"]……梓兰小姐？
+[name="宝巫迦"]……空爆小姐？
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -335,7 +335,7 @@
 [curtain(direction = 4,fillfrom = 0.2,fillto = 1, grad=true, fadetime=3)]
 [Delay(time=2)]
 [Background(image="bg_coldforest",screenadapt="coverall")]
-......
+……
 啪。
 [Dialog]
 [curtain(direction = 0,fillfrom = 1,fillto = 0, grad=true, fadetime=3)]

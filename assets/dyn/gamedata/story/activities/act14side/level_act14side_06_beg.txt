@@ -8,7 +8,7 @@
 [playMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.4)]
 [Character(name="avg_npc_250_1#2$1",fadetime=0.7)]
 [Delay(time=0.7)]
-[name="雅儿"]不出兵攻打另外两家，只派兵保护蔓珠院......
+[name="雅儿"]不出兵攻打另外两家，只派兵保护蔓珠院……
 [Character(name="avg_npc_250_1#5$1")]
 [name="雅儿"]真是，好一个保护蔓珠院呢。
 [name="雅儿"]这下，他可以名正言顺地控制蔓珠院了。
@@ -37,12 +37,12 @@
 [Predicate(references="3")]
 [Character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]哎呀，我只是感慨一下，没有觉得沮丧啦。
-[name="雅儿"]信仰逐渐成为了一种阻碍......至少谢拉格人对耶拉冈德的信仰是如此，我早就知道。
+[name="雅儿"]信仰逐渐成为了一种阻碍……至少谢拉格人对耶拉冈德的信仰是如此，我早就知道。
 [Character(name="avg_npc_250_1#7$1")]
 [name="雅儿"]但还是谢谢你。
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_250_1#2$1")]
-[name="雅儿"]......唉，不过这和我一个小小的侍奉圣女的侍女长也没有关系就是了。
+[name="雅儿"]……唉，不过这和我一个小小的侍奉圣女的侍女长也没有关系就是了。
 [Character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]说起来，我还以为，你会问我为什么还跟在你身边。
 [Dialog]
@@ -52,7 +52,7 @@
 [Character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]就好像你选择插手也可以有无数种理由一样，是吗？
 [Character(name="avg_npc_250_1#7$1")]
-[name="雅儿"]......谢谢你，博士。
+[name="雅儿"]……谢谢你，博士。
 [Character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]我会坚持我的选择，希望你也一样。
 [Character]
@@ -87,7 +87,7 @@
 [name="Sharp"]但对恩希欧迪斯来说，不管怎样，他都已经站住了大义。
 [name="Sharp"]对他来说，哪怕会在最初出现混乱，甚至过程中出现相当伤亡，局势最终也是可以收拾的。
 [Character(name="avg_422_aurora_1#4$1")]
-[name="极光"]......
+[name="极光"]……
 [Dialog]
 [Character(name="avg_422_aurora_1#4$1",focus=-1)]
 [Decision(options="我想，他不会完全坐视不管。", values="1")]
@@ -97,13 +97,13 @@
 [name="Sharp"]我在喀兰贸易“做客”的时候，对他的做派也有所耳闻，员工们对他的评价普遍是有远见。
 [name="Sharp"]如今他选择在明面上直接起事，可以猜想，这种风险极大的下策已经是他手里的最佳选项了。
 [Character(name="avg_422_aurora_1#4$1")]
-[name="极光"]但愿......是这样吧。
+[name="极光"]但愿……是这样吧。
 [Character(name="avg_npc_252")]
 [name="Sharp"]希瓦艾什家过去与布朗陶家交往比较密切，其中必然安插了不少棋子，这些棋子应该能够起到抑制混乱的作用。
 [name="Sharp"]重点依然还是佩尔罗契家，他们的装备和军事素养虽然落后，但规模依然不容小觑。
 [Character(name="avg_npc_250_1#6$1")]
 [name="雅儿"]是呢，希瓦艾什家与他们家关系向来不好。
-[name="雅儿"]而且，佩尔罗契家上下的忠诚心都是很强的，即使发生了现在这样的事，他们会背叛佩尔罗契家的可能性也是不好说的......
+[name="雅儿"]而且，佩尔罗契家上下的忠诚心都是很强的，即使发生了现在这样的事，他们会背叛佩尔罗契家的可能性也是不好说的……
 [Character(name="avg_npc_252")]
 [name="Sharp"]所以我并不是不能理解博士协助他们两人的做法。
 [name="Sharp"]只有家主在，一个家族才能拧成一股绳，而这样，只要能够影响家主，就足够博士做一些宏观上的规划。
@@ -136,16 +136,16 @@
 [Character(name="avg_npc_270_1$1")]
 [name="布朗陶家贵族"]怎么会，一定是他在诬陷您。
 [Character(name="avg_npc_253_1#1$1")]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [name="菈塔托丝"]要你准备的东西怎么样了？
 [Character(name="avg_npc_270_1$1")]
 [name="布朗陶家贵族"]从希瓦艾什家返回布朗陶家路途有些遥远，不过我已经准备好了车，也打点好了关系。
 [name="布朗陶家贵族"]等到您和休露丝夫人都准备好，一定能将您二位送回布朗陶家的领地。
 [Character(name="avg_npc_253_1#1$1")]
-[name="菈塔托丝"]......领地里有什么消息吗？
+[name="菈塔托丝"]……领地里有什么消息吗？
 [Character(name="avg_npc_270_1$1")]
 [name="布朗陶家贵族"]在大典上的消息传开后，靠近领地边缘的几个镇子立刻换上了希瓦艾什家的旗帜。
-[name="布朗陶家贵族"]靠近中心一些的还没有动作，不过......
+[name="布朗陶家贵族"]靠近中心一些的还没有动作，不过……
 [Character(name="avg_npc_253_1#2$1")]
 [name="菈塔托丝"]行了，我布朗陶家有多少他恩希欧迪斯安插的人，我心里有数。我怕他们站在一起我都数不过来。
 [Character(name="avg_npc_253_1#1$1")]
@@ -162,18 +162,18 @@
 [Character(name="avg_npc_253_1#11$1")]
 [name="菈塔托丝"]别说阿克托斯了，你呢，从恩希欧迪斯那里拿了多少好处？
 [Character(name="avg_npc_270_1$1")]
-[name="布朗陶家贵族"]这......我怎么会......
+[name="布朗陶家贵族"]这……我怎么会……
 [Character(name="avg_npc_253_1#1$1")]
 [name="菈塔托丝"]行了，别装了，你的演技太烂了。
 [Character(name="avg_npc_270_1$1")]
-[name="布朗陶家贵族"]......都出来吧，把菈塔托丝给我拿下。
-[name="布朗陶家贵族"]......
-[name="布朗陶家贵族"]......？！
+[name="布朗陶家贵族"]……都出来吧，把菈塔托丝给我拿下。
+[name="布朗陶家贵族"]……
+[name="布朗陶家贵族"]……？！
 [Dialog]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [PlaySound(key="$fightgeneral",volume=0.6)]
 [Delay(time=0.7)]
-[name="布朗陶家贵族"]咕......
+[name="布朗陶家贵族"]咕……
 [Dialog]
 [Character(fadetime=0.7)]
 [PlaySound(key="$bodyfalldown1",volume=1)]
@@ -187,7 +187,7 @@
 [Character(name="avg_npc_262_1#10$1",fadetime=1.5)]
 [PlaySound(key="$dooropenquite", volume=1)]
 [Delay(time=2)]
-[name="休露丝"]菈塔托丝，我听说车已经......
+[name="休露丝"]菈塔托丝，我听说车已经……
 [Character(name="avg_npc_262_1#4$1")]
 [name="休露丝"]怎么回事？！
 [Dialog]
@@ -196,39 +196,39 @@
 [Character(name="avg_npc_253_1#2$1",name2="avg_npc_262_1#4$1",focus=1)]
 [name="菈塔托丝"]猜猜看？
 [Character(name="avg_npc_253_1#2$1",name2="avg_npc_262_1#7$1",focus=2)]
-[name="休露丝"]......他打算出卖我们？
+[name="休露丝"]……他打算出卖我们？
 [Character(name="avg_npc_253_1#9$1",name2="avg_npc_262_1#7$1",focus=1)]
 [name="菈塔托丝"]总算没蠢到家，我的好妹妹。
 [Character(name="avg_npc_253_1#9$1",name2="avg_npc_262_1#9$1",focus=2)]
 [name="休露丝"]都到这种时候了，你就不能少讽刺我两句？
 [Character(name="avg_npc_253_1#9$1",name2="avg_npc_262_1#6$1",focus=2)]
-[name="休露丝"]......现在到底还有多少人，是站在我们这边的？
+[name="休露丝"]……现在到底还有多少人，是站在我们这边的？
 [Character(name="avg_npc_253_1#9$1",name2="avg_npc_262_1#6$1",focus=1)]
-[name="菈塔托丝"]多少人？是啊，还有多少人......
+[name="菈塔托丝"]多少人？是啊，还有多少人……
 [Character(name="avg_npc_253_1#8$1",name2="avg_npc_262_1#6$1",focus=1)]
 [name="菈塔托丝"]休露丝，你知不知道，你坏了一件多大的事？
 [Character(name="avg_npc_253_1#8$1",name2="avg_npc_262_1#4$1",focus=2)]
-[name="休露丝"]我......
+[name="休露丝"]我……
 [Character(name="avg_npc_253_1#8$1",name2="avg_npc_262_1#9$1",focus=2)]
-[name="休露丝"]我没想到......
+[name="休露丝"]我没想到……
 [Character(name="avg_npc_253_1#9$1",name2="avg_npc_262_1#9$1",focus=1)]
-[name="菈塔托丝"]......唉。你想不到的事，太多了。
+[name="菈塔托丝"]……唉。你想不到的事，太多了。
 [Character(name="avg_npc_253_1#9$1",name2="avg_npc_262_1#4$1",focus=2)]
-[name="休露丝"]我也没有办法......！我只是想、我只是想让大家看看，我也能为布朗陶家做点什么！
+[name="休露丝"]我也没有办法……！我只是想、我只是想让大家看看，我也能为布朗陶家做点什么！
 [Character(name="avg_npc_253_1#9$1",name2="avg_npc_262_1#6$1",focus=2)]
-[name="休露丝"]......我只是......
-[name="休露丝"]我只是想帮你......
+[name="休露丝"]……我只是……
+[name="休露丝"]我只是想帮你……
 [Character(name="avg_npc_253_1#6$1",name2="avg_npc_262_1#6$1",focus=1)]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [Character(name="avg_npc_253_1#6$1",name2="avg_npc_262_1#4$1",focus=2)]
-[name="休露丝"]你......你好像很累，菈塔托丝，还好吗？
+[name="休露丝"]你……你好像很累，菈塔托丝，还好吗？
 [Character(name="avg_npc_253_1#7$1",name2="avg_npc_262_1#4$1",focus=1)]
 [name="菈塔托丝"]如果我说我很不好呢？
 [Character(name="avg_npc_253_1#7$1",name2="avg_npc_262_1#9$1",focus=2)]
-[name="休露丝"]......
+[name="休露丝"]……
 [Character(name="avg_npc_253_1#7$1",name2="avg_npc_262_1#8$1",focus=2)]
 [name="休露丝"]行了。我知道了！这事必须得有个了结，是吧？
-[name="休露丝"]既然是我惹出来的麻烦，那就让我来做个了结！还有尤卡坦和......和我的部下还不知道现在如何，我一刻都等不下去了！
+[name="休露丝"]既然是我惹出来的麻烦，那就让我来做个了结！还有尤卡坦和……和我的部下还不知道现在如何，我一刻都等不下去了！
 [Character(name="avg_npc_253_1#8$1",name2="avg_npc_262_1#8$1",focus=1)]
 [name="菈塔托丝"]等等，你这是要去哪！
 [Character(name="avg_npc_253_1#8$1",name2="avg_npc_262_1#8$1",focus=2)]
@@ -237,7 +237,7 @@
 [Dialog]
 [Character(name="avg_npc_253_1#6$1",fadetime=0.7)]
 [Delay(time=0.7)]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -249,12 +249,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 姐姐，姐姐！爷爷怎么又骂你了？你明明做得已经很好了！
-因为姐姐要当家主，就要挨更多骂......？
+因为姐姐要当家主，就要挨更多骂……？
 那、那我来当家主！我去求求爷爷，让爷爷别骂你了，我来当家主，要骂就骂我好了！
 嘿嘿，不要紧啦，姐姐不要担心我，我还有尤卡坦啊，我们说好了要一直一起玩的！尤卡坦一定会帮我，他读书读得可好呢！
-而且......
+而且……
 而且，姐姐被骂了，也不会哭。
-可是明明姐姐从来没有哭，不知道为什么，我却总是好难过啊......
+可是明明姐姐从来没有哭，不知道为什么，我却总是好难过啊……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -266,26 +266,26 @@
 [Character(name="avg_npc_253_1#6$1")]
 [Delay(time=1.5)]
 [Character(name="avg_npc_253_1#10$1")]
-[name="菈塔托丝"]哈、哈哈......
+[name="菈塔托丝"]哈、哈哈……
 [Character(name="avg_npc_262_1#8$1")]
 [name="休露丝"]干嘛？！你这个臭女人，怎么在这种时候还笑话我啊？！
 [Character(name="avg_npc_253_1#3$1")]
-[name="菈塔托丝"]哈哈哈、唉......哈哈......
-[name="菈塔托丝"]（露丝，我的傻妹妹啊......）
+[name="菈塔托丝"]哈哈哈、唉……哈哈……
+[name="菈塔托丝"]（露丝，我的傻妹妹啊……）
 [Character(name="avg_npc_262_1#7$1")]
-[name="休露丝"]......你是不是又在心里骂我了？
+[name="休露丝"]……你是不是又在心里骂我了？
 [Character(name="avg_npc_253_1#11$1")]
 [name="菈塔托丝"]差不多吧。
 [Character(name="avg_npc_262_1#8$1")]
-[name="休露丝"]你......！
+[name="休露丝"]你……！
 [Character(name="avg_npc_253_1#10$1")]
-[name="菈塔托丝"]哎，回来，别想着去找恩希欧迪斯了。这事你别再插手......事情没有那么简单。
+[name="菈塔托丝"]哎，回来，别想着去找恩希欧迪斯了。这事你别再插手……事情没有那么简单。
 [Character(name="avg_npc_253_1#10$1",name2="avg_npc_262_1#7$1",focus=1)]
 [name="菈塔托丝"]休露丝，你还记得我们上一次好好聊天是什么时候吗？
 [Character(name="avg_npc_253_1#10$1",name2="avg_npc_262_1#2$1",focus=2)]
 [name="休露丝"]我可不记得我们之间有好好聊过天。
 [Character(name="avg_npc_253_1#10$1",name2="avg_npc_262_1#2$1",focus=1)]
-[name="菈塔托丝"]......或许吧。
+[name="菈塔托丝"]……或许吧。
 [Character(name="avg_npc_253_1#10$1",name2="avg_npc_262_1#2$1",focus=1)]
 [name="菈塔托丝"]行了，我得考虑考虑今后怎么行动，你也先去忙你的事吧。
 [Character(name="avg_npc_253_1#1$1",name2="avg_npc_262_1#2$1",focus=1)]
@@ -297,9 +297,9 @@
 [name="菈塔托丝"]等他屁股坐稳了，多半就要和恩希欧迪斯打起来了。
 [name="菈塔托丝"]在那之前，我要做点什么。
 [Character(name="avg_npc_253_1#1$1",name2="avg_npc_262_1#9$1",focus=2)]
-[name="休露丝"]......你别乱来啊，你别忘了，尤卡坦他们还在恩希欧迪斯手上！
+[name="休露丝"]……你别乱来啊，你别忘了，尤卡坦他们还在恩希欧迪斯手上！
 [Character(name="avg_npc_253_1#1$1",name2="avg_npc_262_1#8$1",focus=2)]
-[name="休露丝"]还有......还有你自己，万一出了什么事，布朗陶家可就是我说了算了，你、你可别忘了！
+[name="休露丝"]还有……还有你自己，万一出了什么事，布朗陶家可就是我说了算了，你、你可别忘了！
 [Dialog]
 [Delay(time=0.51)]
 [Character(name="avg_npc_253_1#1$1",name2="char_empty",focus=2,fadetime=1)]
@@ -308,10 +308,10 @@
 [PlaySound(key="$dooropenquite", volume=1)]
 [Delay(time=1.5)]
 [Character(name="avg_npc_253_1#6$1")]
-[name="菈塔托丝"]......
-[name="菈塔托丝"]布朗陶家......可能会轮到休露丝说了算啊......
+[name="菈塔托丝"]……
+[name="菈塔托丝"]布朗陶家……可能会轮到休露丝说了算啊……
 [Character(name="avg_npc_253_1#10$1")]
-[name="菈塔托丝"]......或许这样倒也不错。
+[name="菈塔托丝"]……或许这样倒也不错。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Stopmusic(fadetime=1)]
@@ -326,23 +326,23 @@
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
 [Delay(time=1.5)]
 [Character(name="avg_npc_277_1$1")]
-[name="佩尔罗契家平民A"]快看，是阿克托斯老爷的队伍......
+[name="佩尔罗契家平民A"]快看，是阿克托斯老爷的队伍……
 [Character(name="avg_npc_281_1$1")]
-[name="佩尔罗契家平民B"]听说大典上，老爷给大长老下毒......
+[name="佩尔罗契家平民B"]听说大典上，老爷给大长老下毒……
 [Character(name="avg_npc_260_1#1$1")]
 [name="古罗"]都给我闭嘴！好好想想，老爷怎么可能是那种毒害别人的人！
 [Character(name="avg_npc_277_1$1")]
-[name="佩尔罗契家平民A"]这......但是......
+[name="佩尔罗契家平民A"]这……但是……
 [Character(name="avg_npc_260_1#6$1")]
 [name="古罗"]你身为佩尔罗契家的人，竟然敢不相信老爷？！
 [Character(name="avg_npc_277_1$1")]
 [name="佩尔罗契家平民A"]噫！！
 [Character(name="avg_npc_254_1#2$1")]
-[name="阿克托斯"]......行了，古罗。
+[name="阿克托斯"]……行了，古罗。
 [Character(name="avg_npc_254_1#1$1")]
 [name="阿克托斯"]冲老百姓撒气，你也不嫌丢人。
 [Character(name="avg_npc_260_1#5$1")]
-[name="古罗"]可是老爷......！
+[name="古罗"]可是老爷……！
 [Character(name="avg_npc_254_1#7$1")]
 [name="阿克托斯"]不管是不是恩希欧迪斯陷害的，现在事情已经发生了，说什么都是虚的。
 [Character(name="avg_npc_260_1#5$1")]
@@ -378,13 +378,13 @@
 [name="瓦莱丝"]我不会给你这个机会的，老爷。
 [Character(name="avg_npc_260_1#3$1")]
 [name="古罗"]瓦莱丝？！
-[name="古罗"]你身后的这些人......你真的背叛佩尔罗契家了吗！
+[name="古罗"]你身后的这些人……你真的背叛佩尔罗契家了吗！
 [Character(name="avg_npc_254_1#5$1")]
-[name="阿克托斯"]......瓦莱丝，我佩尔罗契家待你不薄，你为什么要做这样的事？
+[name="阿克托斯"]……瓦莱丝，我佩尔罗契家待你不薄，你为什么要做这样的事？
 [Character(name="avg_npc_261_1#2$1")]
-[name="瓦莱丝"]待我不薄......
+[name="瓦莱丝"]待我不薄……
 [Character(name="avg_npc_261_1#6$1")]
-[name="瓦莱丝"]......老爷，即便到了现在，你也还是没有想起来吗？
+[name="瓦莱丝"]……老爷，即便到了现在，你也还是没有想起来吗？
 [Character(name="avg_npc_254_1#7$1")]
 [name="阿克托斯"]想起什么？我阿克托斯行事光明磊落，何时——
 [Dialog]
@@ -397,17 +397,17 @@
 [name="阿克托斯"]别害怕，瓦莱丝。
 [name="阿克托斯"]只要喝下大长老的灵药驱了邪气，你爹爹就会好起来。
 [name="阿克托斯"]他在圣猎中为了掩护我们而受了伤。
-[name="阿克托斯"]大长老判断他落单后遭到了传说中山雪鬼的袭击......
-[name="阿克托斯"]他现在太虚弱了......来，我拿汤勺喂他吧。
+[name="阿克托斯"]大长老判断他落单后遭到了传说中山雪鬼的袭击……
+[name="阿克托斯"]他现在太虚弱了……来，我拿汤勺喂他吧。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[name="瓦莱丝"]为什么父亲没醒过来，父亲的嘴角这些绿色的......
+[name="瓦莱丝"]为什么父亲没醒过来，父亲的嘴角这些绿色的……
 [name="大长老"]他已受邪秽荼毒太深，耶拉冈德无法再容他停留于此。
 [name="大长老"]之前他几次顶撞蔓珠院，想必是早已中了山雪鬼的邪，终于才在今天的圣猎中被山雪鬼收了去。
 [name="大长老"]如果灵药都没能帮他挽回自己的意志与虔诚，这也即是祂宣判的旨意。
-[name="阿克托斯"]......
+[name="阿克托斯"]……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -419,16 +419,16 @@
 [Character(name="avg_npc_261_1#3$1")]
 [name="瓦莱丝"]是。
 [name="瓦莱丝"]当年在大长老探访父亲之后，他带来的那瓶灵药弄丢了，你还记得这件事吗？
-[name="瓦莱丝"]抱歉了，老爷。我原本也只是将信将疑，直到大典上，大长老倒下的那一刻......
+[name="瓦莱丝"]抱歉了，老爷。我原本也只是将信将疑，直到大典上，大长老倒下的那一刻……
 [Character(name="avg_npc_261_1#6$1")]
-[name="瓦莱丝"]......
+[name="瓦莱丝"]……
 [Character(name="avg_npc_254_1#2$1")]
-[name="阿克托斯"]我......我阿克托斯竟亲手把我器重的将领......
+[name="阿克托斯"]我……我阿克托斯竟亲手把我器重的将领……
 [Character(name="avg_npc_261_1#2$1")]
 [name="瓦莱丝"]老爷，我不怨你，这不是你的错。
 [Character(name="avg_npc_261_1#6$1")]
 [name="瓦莱丝"]但谢拉格或许真的需要迎来一些改变了，还请你不要阻拦。
-[name="瓦莱丝"]哪怕是为了不要再有更多，忠于谢拉格的战士落得如此下场......
+[name="瓦莱丝"]哪怕是为了不要再有更多，忠于谢拉格的战士落得如此下场……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -440,7 +440,7 @@
 [Delay(time=2)]
 [Character(name="avg_npc_252",fadetime=0.7)]
 [Delay(time=1.5)]
-[name="Sharp"]防止阿克托斯半路遇险......博士又猜对了。
+[name="Sharp"]防止阿克托斯半路遇险……博士又猜对了。
 [name="Sharp"]但是——
 [name="Sharp"]早知道该让煌一起来，擅长正面战斗的精英干员里，只有她在立体山地环境里的机动性最好。
 [name="Sharp"]列车网络停运后，谢拉格的交通实在是太不便利了。
@@ -453,7 +453,7 @@
 [playMusic(intro="$loneliness_intro", key="$loneliness_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Character(name="avg_206_gnosis_1#8$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -471,21 +471,21 @@
 [Character(name="avg_npc_288_1#6$1",name2="avg_npc_290_1#5$1",focus=1)]
 [name="少年恩希欧迪斯"]我相信不是叔叔阿姨做的，更和你没有半点关系。
 [Character(name="avg_npc_288_1#6$1",name2="avg_npc_290_1#8$1",focus=2)]
-[name="少年诺希斯"]......但我不相信。
+[name="少年诺希斯"]……但我不相信。
 [Character(name="avg_npc_288_1#4$1",name2="avg_npc_290_1#8$1",focus=1)]
 [name="少年恩希欧迪斯"]什么意思？
 [Character(name="avg_npc_288_1#4$1",name2="avg_npc_290_1#5$1",focus=2)]
-[name="少年诺希斯"]我不知道我爸和我妈是不是真的没有做，我也不知道......我有没有间接成为了帮凶。
+[name="少年诺希斯"]我不知道我爸和我妈是不是真的没有做，我也不知道……我有没有间接成为了帮凶。
 [Character(name="avg_npc_288_1#6$1",name2="avg_npc_290_1#5$1",focus=1)]
-[name="少年恩希欧迪斯"]......那我也会原谅你。
+[name="少年恩希欧迪斯"]……那我也会原谅你。
 [name="少年恩希欧迪斯"]没有人比你更尊重我父亲，我知道的。
 [Character(name="avg_npc_288_1#6$1",name2="avg_npc_290_1#8$1",focus=2)]
-[name="少年诺希斯"]......恩希欧迪斯，你还记得我们的梦想吗？
+[name="少年诺希斯"]……恩希欧迪斯，你还记得我们的梦想吗？
 [Character(name="avg_npc_288_1#6$1",name2="avg_npc_290_1#8$1",focus=1)]
 [name="少年恩希欧迪斯"]我当然记得。
 [name="少年恩希欧迪斯"]我们两个要一同将谢拉格变成一个无比强盛的国家。
 [Character(name="avg_npc_288_1#5$1",name2="avg_npc_290_1#8$1",focus=1)]
-[name="少年恩希欧迪斯"]......但你要走了。
+[name="少年恩希欧迪斯"]……但你要走了。
 [Character(name="avg_npc_288_1#5$1",name2="avg_npc_290_1#1$1",focus=2)]
 [name="少年诺希斯"]我会回来的。
 [Character(name="avg_npc_288_1#3$1",name2="avg_npc_290_1#1$1",focus=1)]
@@ -494,7 +494,7 @@
 [name="少年诺希斯"]嗯。爸妈打算搬去维多利亚，我会在那里上学。
 [name="少年诺希斯"]这是个好机会，我会去学那些最先进的知识，等我学成了，我就回来帮你。
 [Character(name="avg_npc_288_1#9$1",name2="avg_npc_290_1#9$1",focus=1)]
-[name="少年恩希欧迪斯"]......嘿，你这家伙。
+[name="少年恩希欧迪斯"]……嘿，你这家伙。
 [name="少年恩希欧迪斯"]既然这样，我也告诉你我的一个想法吧，我还没有告诉过别人。
 [Character(name="avg_npc_288_1#9$1",name2="avg_npc_290_1#9$1",focus=2)]
 [name="少年诺希斯"]什么？
@@ -502,7 +502,7 @@
 [name="少年恩希欧迪斯"]我打算等恩雅和恩希亚成年后，就离开谢拉格。
 [name="少年恩希欧迪斯"]和你一样，我要去学习许多东西，然后再回来。
 [Character(name="avg_npc_288_1#8$1",name2="avg_npc_290_1#4$1",focus=2)]
-[name="少年诺希斯"]......作为未来家主，长期离开谢拉格，这是你可以做的事情吗？
+[name="少年诺希斯"]……作为未来家主，长期离开谢拉格，这是你可以做的事情吗？
 [Character(name="avg_npc_288_1#9$1",name2="avg_npc_290_1#4$1",focus=1)]
 [name="少年恩希欧迪斯"]到时候，我会来找你的。
 [Dialog]
@@ -516,13 +516,13 @@
 [Character(name="avg_npc_283_1$1")]
 [name="谢拉格战士A"]喂，诺希斯，饭来了。
 [Character(name="avg_206_gnosis_1#5$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_npc_283_1$1")]
 [name="谢拉格战士A"]啧，别以为你不说话就可以逃过一劫了。
 [name="谢拉格战士A"]告诉你，现在整个希瓦艾什家上下的人，都恨不得把你给宰了。
 [name="谢拉格战士A"]居然对老爷和圣女大人做出这样的事，要不是老爷下令把你关在这，别说饭了，我连水都不想给你喝一口。
 [Character(name="avg_206_gnosis_1#2$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_npc_283_1$1")]
 [name="谢拉格战士A"]不吃不喝不吱声是吧？
 [name="谢拉格战士A"]那正好，你就给我死在这间房子里吧！
@@ -531,7 +531,7 @@
 [PlaySound(key="$doorclosequite", volume=1)]
 [Delay(time=1)]
 [Character(name="avg_206_gnosis_1#6$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -563,7 +563,7 @@
 [Character(name="avg_npc_287_1#1$1",name2="avg_npc_289_1#1$1",focus=1)]
 [name="青年恩希欧迪斯"]你还记得你要离开谢拉格时，我们说的话吗？
 [Character(name="avg_npc_287_1#1$1",name2="avg_npc_289_1#7$1",focus=2)]
-[name="青年诺希斯"]......
+[name="青年诺希斯"]……
 [Character(name="avg_npc_287_1#1$1",name2="avg_npc_289_1#7$1",focus=1)]
 [name="青年恩希欧迪斯"]我很庆幸我走了出来，诺希斯。
 [name="青年恩希欧迪斯"]来到外面我才知道，这已经不再是那个封闭自守就可以独善其身的时代了。
@@ -576,7 +576,7 @@
 [Character(name="avg_npc_287_1#4$1",name2="avg_npc_289_1#7$1",focus=1)]
 [name="青年恩希欧迪斯"]来帮我，诺希斯。
 [Character(name="avg_npc_287_1#4$1",name2="avg_npc_289_1#9$1",focus=2)]
-[name="青年诺希斯"]......哼。
+[name="青年诺希斯"]……哼。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -634,7 +634,7 @@
 [name="谢拉格战士A"]诺希斯不是过去是老爷的心腹吗，要我说，老爷就是进去赐他一杯毒酒，让他死得体面一点。
 [Character(name="avg_npc_283_1$1",name2="avg_npc_284_1$1",focus=2)]
 [name="谢拉格战士B"]你演义小说看多了吧。
-[name="谢拉格战士B"]不过......
+[name="谢拉格战士B"]不过……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -652,7 +652,7 @@
 [name="诺希斯"]他们不可能相信你做的这一切都是为了一个叫谢拉格的国家。
 [name="诺希斯"]就算是公司里那些人，大多也认为自己是在为喀兰贸易这家公司服务。
 [Character(name="avg_172_svrash_1#2$1",name2="avg_206_gnosis_1#2$1",focus=1)]
-[name="恩希欧迪斯"]......直接发动战争永远是迫不得已之计。
+[name="恩希欧迪斯"]……直接发动战争永远是迫不得已之计。
 [Character(name="avg_172_svrash_1#2$1",name2="avg_206_gnosis_1#7$1",focus=2)]
 [name="诺希斯"]你只是顾虑太多。
 [name="诺希斯"]把另外两家直接摧毁然后重建，远比你现在考虑的这些“体面”做法要轻松。
@@ -662,14 +662,14 @@
 [name="诺希斯"]既然如此，那就由我来吧。
 [name="诺希斯"]我的顾虑比你少许多。
 [Character(name="avg_172_svrash_1#4$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="恩希欧迪斯"]......由你来什么？
+[name="恩希欧迪斯"]……由你来什么？
 [Character(name="avg_172_svrash_1#4$1",name2="avg_206_gnosis_1#9$1",focus=2)]
 [name="诺希斯"]别装傻了，恩希欧迪斯。
 [name="诺希斯"]你不会没有考虑过。
 [Character(name="avg_172_svrash_1#4$1",name2="avg_206_gnosis_1#2$1",focus=2)]
 [name="诺希斯"]由我这个罪人之子，喀兰贸易里的恶人来再做一次叛徒，没有比这更合适的事了。
 [Character(name="avg_172_svrash_1#1$1",name2="avg_206_gnosis_1#2$1",focus=1)]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [Character(name="avg_172_svrash_1#1$1",name2="avg_206_gnosis_1#7$1",focus=2)]
 [name="诺希斯"]恩希欧迪斯，我不是你的棋子，也不是你的部下。
 [name="诺希斯"]我是你的合作伙伴。
@@ -680,7 +680,7 @@
 [Character(name="avg_172_svrash_1#1$1",name2="avg_206_gnosis_1#2$1",focus=2)]
 [name="诺希斯"]只是多背一些骂名而已，我不在乎。
 [Character(name="avg_172_svrash_1#5$1",name2="avg_206_gnosis_1#2$1",focus=1)]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -691,9 +691,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_172_svrash_1#1$1",name2="avg_206_gnosis_1#8$1",focus=2)]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_172_svrash_1#1$1",name2="avg_206_gnosis_1#8$1",focus=1)]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [name="恩希欧迪斯"]你在想什么？
 [Character(name="avg_172_svrash_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]我在想，你其实和二十年前也没有什么不同。
@@ -726,7 +726,7 @@
 [image]
 [Image(image="24_i07",fadetime=1, xScaleFrom=1.7, yScaleFrom=1.7,x=490, y=-270)]
 [ImageTween(image="lungmen", fadetime=0.5, xScaleFrom=1.7, yScaleFrom=1.7, xScaleTo=1.5, yScaleTo=1.5, xTo=490, yTo=-400, duration=20)]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -740,7 +740,7 @@
 [Delay(time=1)]
 昏暗的灯光下，恩希欧迪斯向诺希斯伸出了手。
 [name="恩希欧迪斯"]我只庆幸你是我的挚友。
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.7, block=true)]
 诺希斯沉默片刻，终于也伸出手，与恩希欧迪斯的手握在一起。
@@ -773,7 +773,7 @@
 [Subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_172_svrash_1#1$1",name2="avg_206_gnosis_1#2$1",focus=2)]
-[name="诺希斯"]......一个显而易见的陷阱。
+[name="诺希斯"]……一个显而易见的陷阱。
 [Character(name="avg_172_svrash_1#10$1",name2="avg_206_gnosis_1#2$1",focus=1)]
 [name="恩希欧迪斯"]但有去的价值。
 [Character(name="avg_172_svrash_1#10$1",name2="avg_206_gnosis_1#7$1",focus=2)]
@@ -838,7 +838,7 @@
 [Character(name="avg_199_yak_1#10$1")]
 [name="角峰"]诺希斯，事情我们都知道了，辛苦你了。
 [Character(name="avg_198_blackd_1#6$1")]
-[name="魏斯"]在下也没想到，你居然是装的......
+[name="魏斯"]在下也没想到，你居然是装的……
 [Character(name="avg_206_gnosis_1#2$1")]
 [name="诺希斯"]客套话就免了。
 [Character(name="avg_206_gnosis_1#6$1")]
@@ -847,7 +847,7 @@
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]你是我的合作者，这是我们共同的事业，以后还有很多时间来做研究。
 [Character(name="avg_206_gnosis_1#7$1")]
-[name="诺希斯"]......那前提也是你能平安归来。
+[name="诺希斯"]……那前提也是你能平安归来。
 [Dialog]
 [Character]
 [Character(name="avg_npc_257_1#1$1",fadetime=1)]
@@ -861,9 +861,9 @@
 [playsound(key="$d_gen_walk_n")]
 [Delay(time=1.5)]
 [Character(name="avg_npc_257_1#1$1")]
-[name="锏"]......
+[name="锏"]……
 [Character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_npc_257_1#1$1")]
 [name="锏"]我很好奇，你在大典上那几下，是认真的？
 [Character(name="avg_206_gnosis_1#1$1")]
@@ -880,7 +880,7 @@
 [Character(name="avg_npc_257_1#1$1")]
 [name="锏"]如果你更强一点，也可以演得更逼真一点。
 [Character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_npc_257_1#1$1")]
 [name="锏"]不过，我还没见过你慷慨激昂的样子。
 [Character(name="avg_npc_257_1#8$1")]
@@ -894,19 +894,19 @@
 [playsound(key="$d_gen_walk_n")]
 [Delay(time=1.5)]
 [Character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_198_blackd_1#6$1")]
-[name="魏斯"]诺希斯，接下来......
+[name="魏斯"]诺希斯，接下来……
 [Character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]......莫希在哪里？
+[name="诺希斯"]……莫希在哪里？
 [Character(name="avg_198_blackd_1#6$1")]
-[name="魏斯"]......莫希被软禁在别的房间，我可以带路。
+[name="魏斯"]……莫希被软禁在别的房间，我可以带路。
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]她知道了吗？
 [Character(name="avg_198_blackd_1#6$1")]
 [name="魏斯"]老爷说，最好由你亲自告诉她。
 [Character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]......带路吧。
+[name="诺希斯"]……带路吧。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -917,8 +917,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_255_1#5$1",fadetime=1)]
 [delay(time=1)]
-[name="莫希"]......
-[name="莫希"]诺希斯大人......
+[name="莫希"]……
+[name="莫希"]诺希斯大人……
 莫希从靴子中掏出一把匕首，这是她秘藏的武器。
 也曾是诺希斯实验之余为她制作的礼物。
 她轻轻抚摸着匕首，眼中阴晴不定。
@@ -927,85 +927,85 @@
 [playsound(key="$d_gen_walk_n")]
 [Delay(time=1.5)]
 [Character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]......别做蠢事，莫希。
+[name="诺希斯"]……别做蠢事，莫希。
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]......
+[name="莫希"]……
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]......您看起来没有受伤。
+[name="莫希"]……您看起来没有受伤。
 [Character(name="avg_npc_255_1#8$1")]
-[name="莫希"]太好了......
+[name="莫希"]太好了……
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]我没事。
 [name="诺希斯"]倒是你，这次辛苦你了。
 [Character(name="avg_npc_255_1#6$1")]
-[name="莫希"]我......曾经承诺过。
-[name="莫希"]只要是诺希斯大人的吩咐，莫希在所不辞......
+[name="莫希"]我……曾经承诺过。
+[name="莫希"]只要是诺希斯大人的吩咐，莫希在所不辞……
 [Character(name="avg_npc_255_1#8$1")]
-[name="莫希"]......
+[name="莫希"]……
 [Character(name="avg_206_gnosis_1#6$1")]
-[name="诺希斯"]......看你的表情，你应该对这次的事情已经有所猜测了。
+[name="诺希斯"]……看你的表情，你应该对这次的事情已经有所猜测了。
 [name="诺希斯"]这一切，本身就是我与恩希欧迪斯谋划好的。
 [Character(name="avg_npc_255_1#5$1")]
-[name="莫希"]......
-[name="莫希"]果然是这样吗......
+[name="莫希"]……
+[name="莫希"]果然是这样吗……
 [name="莫希"]在山崖下被等在那里的希瓦艾什家的魏斯救下之后，我就一直在想。
 [name="莫希"]如果一切都是设计好的一场局，那我在其中，到底是站在什么样的位置上呢。
 [Character(name="avg_npc_255_1#6$1")]
-[name="莫希"]看到您出现在这里，我终于能够确定了......
+[name="莫希"]看到您出现在这里，我终于能够确定了……
 [Character(name="avg_206_gnosis_1#2$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_206_gnosis_1#8$1")]
 [name="诺希斯"]抱歉。
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]......您永远不用对我道歉。
+[name="莫希"]……您永远不用对我道歉。
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]莫希，你有你的坚持。我能理解，但我也会自己判断该说的话。
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]......
+[name="莫希"]……
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]我和恩希欧迪斯产生分歧，然后我离开喀兰贸易，和菈塔托丝接触，从一开始就是我们的计划。
 [name="诺希斯"]这个计划知道的人越少越好，所以我没有告诉你。
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]......
+[name="莫希"]……
 [Character(name="avg_206_gnosis_1#8$1")]
 [name="诺希斯"]我与恩希欧迪斯都知道这个计划有多冒险。
-[name="诺希斯"]我必须确保所有的细节都可控，所有行动都万无一失。这不是我平常的实验......我们没有重来的机会。
+[name="诺希斯"]我必须确保所有的细节都可控，所有行动都万无一失。这不是我平常的实验……我们没有重来的机会。
 [Character(name="avg_206_gnosis_1#6$1")]
 [name="诺希斯"]如果因此而令你感到不快，那么我必须向你道歉。
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]......
+[name="莫希"]……
 [Character(name="avg_npc_255_1#8$1")]
-[name="莫希"]不是的......不、不该是这样。
+[name="莫希"]不是的……不、不该是这样。
 [Character(name="avg_npc_255_1#5$1")]
-[name="莫希"]......
-[name="莫希"]为什么......
+[name="莫希"]……
+[name="莫希"]为什么……
 [Character(name="avg_206_gnosis_1#4$1")]
 [name="诺希斯"]什么？
 [Character(name="avg_npc_255_1#7$1")]
-[name="莫希"]不论您想做什么，您有什么样的计划，我都会......
+[name="莫希"]不论您想做什么，您有什么样的计划，我都会……
 [Character(name="avg_npc_255_1#5$1")]
-[name="莫希"]......我都会帮您啊。
+[name="莫希"]……我都会帮您啊。
 [Character(name="avg_206_gnosis_1#8$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_npc_255_1#5$1")]
-[name="莫希"]为什么不信我......
-[name="莫希"]......您明明是可以信任我的......
+[name="莫希"]为什么不信我……
+[name="莫希"]……您明明是可以信任我的……
 [Character(name="avg_206_gnosis_1#2$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]莫希，我希望你能明白。
 [name="诺希斯"]正因我完全信任你，这最重要的一环，我才敢在这样的状态下将之交到你手上。
 [name="诺希斯"]我相信你。作为我最出色的部下，一定能完美契合我的计划。
 [Character(name="avg_npc_255_1#5$1")]
-[name="莫希"]......
+[name="莫希"]……
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]别多想了，这次你做得不错，现在一切都结束了，让自己放松一点。
 [Character(name="avg_206_gnosis_1#9$1")]
 [name="诺希斯"]接下来，你可以好好休息一段时间。
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]......
+[name="莫希"]……
 [Character(name="avg_206_gnosis_1#2$1")]
-[name="诺希斯"]......看来你现在没有交谈的兴致。
+[name="诺希斯"]……看来你现在没有交谈的兴致。
 [Character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]之后我再来看你。
 [Dialog]
@@ -1013,13 +1013,13 @@
 [playsound(key="$d_gen_walk_n")]
 [Delay(time=1.5)]
 [Character(name="avg_npc_255_1#5$1")]
-[name="莫希"]......
-[name="莫希"]相信我......？
+[name="莫希"]……
+[name="莫希"]相信我……？
 [Character(name="avg_npc_255_1#1$1")]
-[name="莫希"]说信任我的人，现在在哪儿呢......
-[name="莫希"]......
+[name="莫希"]说信任我的人，现在在哪儿呢……
+[name="莫希"]……
 [Character(name="avg_npc_255_1#6$1")]
-[name="莫希"]诺希斯大人......这次，我还能信任您吗？
+[name="莫希"]诺希斯大人……这次，我还能信任您吗？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

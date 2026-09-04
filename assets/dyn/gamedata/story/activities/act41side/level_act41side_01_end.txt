@@ -15,7 +15,7 @@
 [Delay(time=1.5)]
 [charslot]
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
-[name="拉芙希妮"]（小声）......抱歉了。
+[name="拉芙希妮"]（小声）……抱歉了。
 [name="拉芙希妮"]女士，请留步。
 [Dialog]
 [charslot]
@@ -25,7 +25,7 @@
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
 [name="友善的居民"]哦，苇草，是你！你之前突然离席，我还以为是我们的招待有什么不周到的地方呢。
 [charslot(slot="m",name="avg_npc_1694_1#9$1",focus="m")]
-[name="拉芙希妮"]......不，我很感谢你们的款待，只是当时突然想起还有事。现在我还有一些问题，能请您为我解答吗？
+[name="拉芙希妮"]……不，我很感谢你们的款待，只是当时突然想起还有事。现在我还有一些问题，能请您为我解答吗？
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
 [name="友善的居民"]行，你问吧。
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
@@ -43,7 +43,7 @@
 这样的习俗在维多利亚彻底掌控塔拉后被严令禁止。
 时移世异，不必再顾及维多利亚禁令的塔拉人，至少是纳斯尔纱人，选择在腰间挎上小巧的源石灯。
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]你也知道燃料不够，加上宵禁存在，所以源石灯我们开不起，也不必开。不过......只要像这样......
+[name="友善的居民"]你也知道燃料不够，加上宵禁存在，所以源石灯我们开不起，也不必开。不过……只要像这样……
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1688_1#1$1",focus="m")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
@@ -52,7 +52,7 @@
 [charslot(slot = "m", name = "avg_npc_1688_1#4$1",duration=1.5,focus="all")]
 [delay(time=3)]
 [charslot(slot="m",name="avg_npc_1694_1#6$1",focus="m")]
-[name="拉芙希妮"]是她的火......在这灯上显出了颜色......
+[name="拉芙希妮"]是她的火……在这灯上显出了颜色……
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1688_1#4$1",focus="m")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=false)]
@@ -74,7 +74,7 @@
 可是一个鲁莽的归乡者，要告诉她这火的存在与不祥勾连？她不会相信的。
 也许直接一些的办法反而会奏效，拉芙希妮在心中如此祈祷。
 [charslot(slot="m",name="avg_npc_1694_1#9$1",focus="m")]
-[name="拉芙希妮"]可是我也想感受一下“红龙的祝福”，所以......我能握一下您的手吗？
+[name="拉芙希妮"]可是我也想感受一下“红龙的祝福”，所以……我能握一下您的手吗？
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
 [name="友善的居民"]但你都进城了，城市里的人迟早会得到的呀。
 [charslot(slot="m",name="avg_npc_1694_1#9$1",focus="m")]
@@ -83,7 +83,7 @@
 [name="友善的居民"]唉，特意回到塔拉来，你也不容易。
 [name="友善的居民"]对了，你是做什么的？
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
-[name="拉芙希妮"]我......我会一些医疗手段，我的源石技艺可以辅助我，仅此而已。
+[name="拉芙希妮"]我……我会一些医疗手段，我的源石技艺可以辅助我，仅此而已。
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
 [name="友善的居民"]原来你是个医生，城里正需要医生呢。
 [name="友善的居民"]来吧，让我们握手——
@@ -97,7 +97,7 @@
 [Delay(time=2)]
 她握紧女人掌心结着老茧的手，同时让火从自己的手腕处向着对方蔓延。
 [charslot(slot="m",name="avg_npc_1694_1#9$1",focus="m")]
-[name="拉芙希妮"]谢谢您......
+[name="拉芙希妮"]谢谢您……
 [Dialog]
 [charslot]
 她闭上眼。
@@ -105,7 +105,7 @@
 去温暖这冰冷的火。
 [stopmusic(fadetime=1.5)]
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]呃......
+[name="友善的居民"]呃……
 [Dialog]
 [charslot]
 紫色的火逐渐褪去。在那之下，苍白的、摇曳着友善笑容的面庞慢慢清晰起来。
@@ -148,7 +148,7 @@
 [name="“守灵人”"]抱歉，女士。
 [name="“守灵人”"]这位苇草小姐没有恶意，我以我的人格担保。
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]可她说她是医生，医生怎么会......
+[name="友善的居民"]可她说她是医生，医生怎么会……
 [charslot(slot="m",name="avg_npc_1692_1#9$1",focus="m")]
 [name="“守灵人”"]基于源石技艺的医术偶尔也会有一些副作用。看，你的手，这不是好好的吗？
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
@@ -159,7 +159,7 @@
 [charslot]
 离群的守灵人抬手，以温热的掌心轻抚受惊女人的前额。并不是什么奇异的动作，女人却逐渐安定下来。
 [charslot(slot="m",name="avg_npc_1688_1#1$1",focus="m")]
-[name="友善的居民"]好、好，我相信你。是的，我的手还在，祝福也还在......
+[name="友善的居民"]好、好，我相信你。是的，我的手还在，祝福也还在……
 [charslot(slot="m",name="avg_npc_1692_1#1$1",focus="m")]
 [name="“守灵人”"]夜幕就要降临，还是尽快回到房屋之中吧。
 [charslot(slot="m",name="avg_npc_1692_1#3$1",focus="m")]
@@ -167,7 +167,7 @@
 [charslot(slot="m",name="avg_npc_1694_1#11$1",focus="m")]
 [name="拉芙希妮"]宴会？
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
-[name="拉芙希妮"]......嗯，宴会。
+[name="拉芙希妮"]……嗯，宴会。
 [charslot(slot="m",name="avg_npc_1692_1#9$1",focus="m")]
 [name="“守灵人”"]那么，现在，请允许我为您引路离开这里。
 [Dialog]
@@ -184,9 +184,9 @@
 [charslot(slot="r",name="avg_npc_1694_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_1694_1#1$1",focus="r")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot="l",name="avg_npc_1692_1#1$1",focus="l")]
-[name="“守灵人”"]......
+[name="“守灵人”"]……
 [charslot(slot="r",name="avg_npc_1694_1#1$1",focus="r")]
 [name="拉芙希妮"]“守灵人”，既然你回来了，那代表莫兰他们已经安顿下来了？
 [charslot(slot="l",name="avg_npc_1692_1#1$1",focus="l")]
@@ -196,17 +196,17 @@
 [charslot(slot="l",name="avg_npc_1692_1#9$1",focus="l")]
 [name="“守灵人”"]不用。要说的话，我更希望您能称呼我为“涅梅丝”，因为我如今的工作已与守灵人相去甚远。
 [charslot(slot="r",name="avg_npc_1694_1#1$1",focus="r")]
-[name="拉芙希妮"]好，涅梅丝。你刚刚说到宴会......谁要举办宴会？
+[name="拉芙希妮"]好，涅梅丝。你刚刚说到宴会……谁要举办宴会？
 [charslot(slot="l",name="avg_npc_1692_1#1$1",focus="l")]
 [name="涅梅丝"]几天之后，深池会开一场庆功会，所有高层的人物都会参加，爱布拉娜殿下也在其中。我最近就在忙这件事。
 [charslot(slot="r",name="avg_npc_1694_1#11$1",focus="r")]
 [name="拉芙希妮"]庆功会？在居民们用土豆充当“炖肉”和“烤鳞”的时候？
 [charslot(slot="l",name="avg_npc_1692_1#1$1",focus="l")]
-[multiline(name="涅梅丝")]土豆的事一开始是因为匮乏，后来人们就只是......
+[multiline(name="涅梅丝")]土豆的事一开始是因为匮乏，后来人们就只是……
 [charslot(slot="l",name="avg_npc_1692_1#8$1",focus="l")]
 [multiline(name="涅梅丝")]习惯了。
 [charslot(slot="r",name="avg_npc_1694_1#1$1",focus="r")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot="l",name="avg_npc_1692_1#1$1",focus="l")]
 [name="涅梅丝"]但深池也知道城里的情况，说是宴会，至少我没在清单上看到什么吃喝的环节。
 [name="涅梅丝"]我不是在替谁粉饰，拉芙希妮小姐。我相信深池不会做出那种置塔拉人于不顾的事。
@@ -218,7 +218,7 @@
 [charslot(duration=0.3)]
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1694_1#8$1",focus="m")]
-[name="拉芙希妮"]她走得急匆匆的......
+[name="拉芙希妮"]她走得急匆匆的……
 [name="拉芙希妮"]如果直接祛除紫火会引发恐慌，那么，假如在大家不知情的情况下，去——
 [stopmusic(fadetime=1)]
 [charslot(slot="m",name="avg_npc_1694_1#8$1",focus="n")]
@@ -259,12 +259,12 @@
 [charslot(slot="m",name="avg_npc_1690_1#13$2",focus="m")]
 [name="“放逐王”"]这么冠冕堂皇的废话，简直都让人怀念起来了，红龙。你这借口拙劣到好笑了。
 [charslot(slot="m",name="avg_npc_1694_1#1$1",focus="m")]
-[name="拉芙希妮"]先生，你和我姐姐......有什么关系？
+[name="拉芙希妮"]先生，你和我姐姐……有什么关系？
 [Dialog]
 [charslot]
 拉芙希妮向前踏出一步，那身影也往后退了一步，和她保持着距离。
 [charslot(slot="m",name="avg_npc_1690_1#2$2",focus="m")]
-[name="“放逐王”"]关系？你，你的姐姐，还有我，我们本性相同，我们都渴望权力、争斗、残杀......
+[name="“放逐王”"]关系？你，你的姐姐，还有我，我们本性相同，我们都渴望权力、争斗、残杀……
 [name="“放逐王”"]我们都对接下来要发生的事情摩拳擦掌，恨不得立刻就用火把一切烧光。
 [charslot(slot="m",name="avg_npc_1690_1#4$2",focus="m")]
 [name="“放逐王”"]但这次我弃权。在这座巢穴被火焰焚尽之前，我会为你们两边同时助威的。
@@ -287,7 +287,7 @@
 [charslot(duration=2)]
 [Delay(time=4)]
 红龙试图将生命的火焰编织成牢笼，但在牢笼成型之前，那身影就被风吹散。
-火只是短暂地照亮了那影子长长的尾巴......
+火只是短暂地照亮了那影子长长的尾巴……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -325,13 +325,13 @@
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]哪个？
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]之前运出城的那些谷物......您说过不影响城内正常粮食供应的，可现在大家还是只能吃土豆......
+[name="担忧的居民"]之前运出城的那些谷物……您说过不影响城内正常粮食供应的，可现在大家还是只能吃土豆……
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]那你知道塔拉其他地方什么样吗？他们连土豆都没得吃！
 [name="“官僚”"]纳斯尔纱的农产品产量已经很高了，事急从权，我们是在帮助自己的同胞，懂吗？
 [name="“官僚”"]而且，光是上次那几车大麦，你就从里面赚了多少？
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]......
+[name="担忧的居民"]……
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]退一万步讲，纳斯尔纱人也不是没得吃了，起码土豆还能填饱肚子。
 [name="“官僚”"]更不用说农业地块很快就能收获，到时候多的是新的粮食，我还怕你的粮店卖不出去呢。
@@ -347,11 +347,11 @@
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]哼。
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]唉......
+[name="担忧的居民"]唉……
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]还站在这儿不走干什么？
 [charslot(slot="m",name="avg_npc_1696_1#1$1",focus="m")]
-[name="担忧的居民"]还有一件事，我听朋友说，林中的黑雾最近可能......
+[name="担忧的居民"]还有一件事，我听朋友说，林中的黑雾最近可能……
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]黑雾？如果连这都需要你来提醒，那我也不用干了。
 [name="“官僚”"]像往常一样，出城门之后自然有人接应，剩下的事用不着你操心。走吧。
@@ -379,7 +379,7 @@
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]这不是好事吗？
 [charslot(slot="m",name="avg_npc_406_1#1$1",focus="m")]
-[name="匆忙的士兵"]是的，但，那个，毕竟城里的熟练农业工人都不在了......
+[name="匆忙的士兵"]是的，但，那个，毕竟城里的熟练农业工人都不在了……
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]嗐，手册上怎么说，你们就怎么做，明白吗？
 [charslot(slot="m",name="avg_npc_406_1#1$1",focus="m")]
@@ -387,11 +387,11 @@
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]对了，整个地块产量预估有多少？报给我，到时候我整合一下。
 [charslot(slot="m",name="avg_npc_406_1#1$1",focus="m")]
-[name="匆忙的士兵"]我们也是头回做这种工作......
+[name="匆忙的士兵"]我们也是头回做这种工作……
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]没用的东西！庄稼熟没熟都看不出来吗？
 [charslot(slot="m",name="avg_npc_406_1#1$1",focus="m")]
-[name="匆忙的士兵"]熟肯定是熟了，不然我们也不可能收......
+[name="匆忙的士兵"]熟肯定是熟了，不然我们也不可能收……
 [charslot(slot="m",name="avg_npc_246",focus="m")]
 [name="“官僚”"]那不就是一切正常吗？按往年的正常产量报！回去回去！
 [Dialog]
@@ -431,7 +431,7 @@
 [name="烦躁的守卫"]那你就该知道，都是塔拉人，我们就没必要再惯着你们那些老掉牙的臭毛病。什么游牧人啊守灵人啊，装神弄鬼的。
 [name="烦躁的守卫"]赶紧走！再不走，小心我把你逮起来！
 [charslot(slot="l",name="avg_4177_brigid_1#7$1",focus="l")]
-[name="布莉吉"]......走就走，有什么好生气的？
+[name="布莉吉"]……走就走，有什么好生气的？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -496,7 +496,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_4177_brigid_1#5$1",focus="m")]
-[name="布莉吉"]......第五次！
+[name="布莉吉"]……第五次！
 [Dialog]
 [charslot(slot="m",name="avg_4177_brigid_1#7$1",focus="m")]
 [delay(time=0.5)]

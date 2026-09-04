@@ -16,25 +16,25 @@
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
 [name="巫恋"]没吃饱？
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=2)]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
 [name="巫恋"]今天是节日，大家都很开心。
 [name="巫恋"]恶灵们也都藏起来了。
 [name="巫恋"]在宴会上拿食物的时候，我看到很多人在哭泣。
 [name="巫恋"]那些做不了你的食粮吗？
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=2)]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]可能你也变得越来越挑剔了。
 [name="巫恋"]今天早上，博士和我说，会在这里有个宴会。
 [name="巫恋"]宴会上会有食物、朋友、以及许多平常见不到的东西——
 [Character(name="avg_npc_131")]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]你在问我，开不开心？
 [Dialog]
 [Delay(time=1)]
-[name="巫恋"]我......不太明白。
+[name="巫恋"]我……不太明白。
 [name="巫恋"]这个地方的情感太奇特了。
 [name="巫恋"]最近收到的感情很丰富。
 [name="巫恋"]有些我也不理解。
@@ -43,7 +43,7 @@
 [name="巫恋"]一边笑一边哭。
 [name="巫恋"]喜悦和悲伤混杂在一起，真让人伤脑筋。
 [Character(name="avg_npc_131")]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]嗯，这也是我唯一理解了的事情。
 [name="巫恋"]这些情感，不合莫提的口味。
@@ -59,7 +59,7 @@
 [Delay(time=1.5)]
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
 [name="巫恋"]又裂开了？
-[name="巫恋"]......
+[name="巫恋"]……
 [Dialog]
 [Delay(time=1)]
 [MusicVolume(volume=0.4,fadetime=1)]
@@ -79,10 +79,10 @@
 [PlaySound(key="$runsand")]
 [Delay(time=2)]
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [PlaySound(key="$g_card_10cardsrelease")]
 [Delay(time=1)]
-[name="巫恋"]......
+[name="巫恋"]……
 [Dialog]
 [PlaySound(key="$g_card_10cardsrelease")]
 [Delay(time=1)]
@@ -111,16 +111,16 @@
 [Character(name="char_358_lisa_1#3",name2="char_254_Shamare_1" ,focus=2)]
 [name="巫恋"]有事吗？
 [Character(name="char_358_lisa_1#3",name2="char_254_Shamare_1" ,focus=1)]
-[name="铃兰"]只，只是看到巫恋姐姐写了半天却没有字，有些好奇......
+[name="铃兰"]只，只是看到巫恋姐姐写了半天却没有字，有些好奇……
 [Character(name="char_358_lisa_1#3",name2="char_254_Shamare_1" ,focus=2)]
 [name="巫恋"]哦。
 [Character(name="char_358_lisa_1#3",name2="char_254_Shamare_1" ,focus=1)]
-[name="铃兰"]唔......
-[name="铃兰"]打扰到姐姐......工作了吗？
+[name="铃兰"]唔……
+[name="铃兰"]打扰到姐姐……工作了吗？
 [CameraShake(duration=0.6, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [name="铃兰"]对不起！
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [Dialog]
 [Character(name="char_358_lisa_1",name2="char_254_Shamare_1" ,focus=1)]
 [name="铃兰"]嗯，那个，我刚刚吃饱，想在这里看一会书，可以吗？
@@ -139,7 +139,7 @@
 [CameraShake(duration=0.6, xstrength=2, ystrength=2, vibrato=10, randomness=5, fadeout=true)]
 [Delay(time=1)]
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [Character]
 [Dialog]
 [Delay(time=1)]
@@ -165,14 +165,14 @@
 [Delay(time=2)]
 [Character(name="char_358_lisa_1",name2="avg_npc_131",fadetime=1 ,focus=1)]
 [name="铃兰"]唉，莫提？
-[name="铃兰"]这是......给我的吗？！
+[name="铃兰"]这是……给我的吗？！
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [Character(name="char_358_lisa_1#5")]
 [name="铃兰"]谢谢巫恋姐姐！
 [name="铃兰"]谢谢莫提！
 [Character(name="char_358_lisa_1")]
-[name="铃兰"]唔......
+[name="铃兰"]唔……
 [CameraShake(duration=0.6, xstrength=2, ystrength=2, vibrato=10, randomness=5, fadeout=true)]
 [name="铃兰"]唔？！
 [name="铃兰"]好甜！
@@ -187,7 +187,7 @@
 [Dialog]
 [Delay(time=0.5)]
 [Character(name="avg_npc_131")]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]莫提，你的意思是你来丢吗？
 [name="铃兰"]好的，拜托你了。
@@ -196,7 +196,7 @@
 [Dialog]
 [Delay(time=1)]
 [Character(name="char_358_lisa_1")]
-[name="铃兰"]唔......
+[name="铃兰"]唔……
 [name="铃兰"]巫恋姐姐不吃吗？
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]再过一会。
@@ -225,14 +225,14 @@
 [Delay(time=1)]
 [Dialog]
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [name="巫恋"]（放下笔）
 [Dialog]
 [Delay(time=1)]
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
 [name="巫恋"]小莫提，苹果。
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=2)]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]（缓慢地啃着苹果）
 [Dialog]
@@ -270,7 +270,7 @@
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]猫猫？
 [Character(name="char_185_frncat_1")]
-[name="慕斯"]都在那里......
+[name="慕斯"]都在那里……
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]那里？巫恋姐姐？
 [name="铃兰"]啊是真的！
@@ -281,9 +281,9 @@
 [Delay(time=1)]
 [CameraShake(duration=0.6, xstrength=2, ystrength=2, vibrato=10, randomness=5, fadeout=true)]
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=2)]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
-[name="巫恋"]嗯......
+[name="巫恋"]嗯……
 [Character]
 [name="猫猫"]喵~呼噜呼噜——
 [Dialog]
@@ -296,7 +296,7 @@
 [name="泡普卡"]刚刚的故事，铃兰姐姐能再讲一遍吗？
 [name="泡普卡"]泡普卡来晚了，有些地方没听到。
 [Character(name="char_281_popka_1",name2="char_185_frncat_1",focus=2)]
-[name="慕斯"]我也......
+[name="慕斯"]我也……
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]啊——好的！
 [name="铃兰"]嗯，全部读一遍可能很长，我简单讲一讲。
@@ -339,7 +339,7 @@
 [name="铃兰"]夕娥历经苦难登上山峰，得以遍览整片大地，但看了三天三夜，看得眼睛通红，却仍没见到丈夫的踪迹。
 [name="铃兰"]数年的辛劳没有成果，夕娥的泪水止不住地往下流，泪水顺着山脉流下，落在地上成了江河。
 [Character(name="char_281_popka_1",name2="char_185_frncat_1",focus=2)]
-[name="慕斯"]好可怜......
+[name="慕斯"]好可怜……
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]妈妈说我小时候哭鼻子就是这样的。
 [Character(name="char_358_lisa_1#3")]
@@ -359,7 +359,7 @@
 [Character(name="char_281_popka_1#2",name2="char_185_frncat_1",focus=1)]
 [name="泡普卡"]哇。
 [Character(name="char_358_lisa_1")]
-[name="铃兰"]夕娥接受了山神的建议，并向它寻求帮助，众神们商讨之后，教给了夕娥一个方法......
+[name="铃兰"]夕娥接受了山神的建议，并向它寻求帮助，众神们商讨之后，教给了夕娥一个方法……
 [name="铃兰"]一天夜晚，乡民们如往常那样作息，突然，西边的高山上升起一道炽热的轨迹冲向月亮。
 [name="铃兰"]这轨迹越来越亮，越来越亮，有那么一刻，甚至盖过了月亮的光辉。
 [name="铃兰"]最后，这道轨迹落在月亮上，巨大又灿烂的光芒开始闪烁，夜空变得明亮，连星星也因这光芒变得忽隐忽现。
@@ -428,7 +428,7 @@
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]很久以前是这样的。
 [Character(name="char_358_lisa_1#3")]
-[name="铃兰"]现在的话......不太好说呢。
+[name="铃兰"]现在的话……不太好说呢。
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]至少爸爸不是这样和妈妈成婚的。
 [name="铃兰"]嗯，我们继续。
@@ -442,7 +442,7 @@
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]在那之后，大家虽然仍对女子感兴趣，但再也没人敢冒昧地去求婚了。
 [Character(name="char_281_popka_1",name2="char_185_frncat_1",focus=2)]
-[name="慕斯"]很危险呢......
+[name="慕斯"]很危险呢……
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]在一座山中，有猎户兄弟三人，在听闻这个事情后觉得很有意思。
 [name="铃兰"]大哥和二哥都对此颇有兴趣，但三弟却认为那是个骗人的把戏。
@@ -468,7 +468,7 @@
 [Character(name="char_281_popka_1",name2="char_185_frncat_1",focus=1)]
 [name="泡普卡"]那，东西找到了吗？
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [Character(name="char_358_lisa_1")]
 [name="铃兰"]三年之后，大哥与二哥在村中重逢。
 [name="铃兰"]他们都找到了宝藏。
@@ -484,7 +484,7 @@
 [name="铃兰"]而女子却不知去了哪里。
 [name="铃兰"]最终，兄弟两人死在了当初约定的地方。
 [Character(name="char_281_popka_1",name2="char_185_frncat_1",focus=2)]
-[name="慕斯"]......
+[name="慕斯"]……
 [Character(name="char_281_popka_1#4",name2="char_185_frncat_1",focus=1)]
 [name="泡普卡"]明明是兄弟，为什么要打架呢！
 [Character(name="char_358_lisa_1#3")]
@@ -492,9 +492,9 @@
 [name="铃兰"]派遣士兵，挖掘阵地，建造要塞。
 [name="铃兰"]这里的战争再也没有停下。
 [name="铃兰"]两座要塞合在一起，被人称作二户城。
-[name="铃兰"]而北户要塞与南户要塞间的，是村子的遗迹......
-[name="铃兰"]和无数的死者......
-[name="铃兰"]......
+[name="铃兰"]而北户要塞与南户要塞间的，是村子的遗迹……
+[name="铃兰"]和无数的死者……
+[name="铃兰"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0,fadetime=1.5, block=true)]
 [StopMusic(fadetime=1.5)]
@@ -521,7 +521,7 @@
 [Character]
 [Delay(time=1)]
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [name="巫恋"]小莫提，来缝缺口。
 [Character]
 [Dialog]
@@ -533,8 +533,8 @@
 [Character(name="avg_npc_131",fadetime=1)]
 [delay(time=2.5)]
 [Character(name="char_185_frncat_1",block=false)]
-[name="慕斯"]嗯......
-[name="慕斯"]总觉得好像和我小时候听过的故事有点相似的地方......
+[name="慕斯"]嗯……
+[name="慕斯"]总觉得好像和我小时候听过的故事有点相似的地方……
 [Character(name="char_358_lisa_1",name2="char_281_popka_1",focus=1)]
 [name="铃兰"]是吗？
 [Character(name="char_185_frncat_1")]
@@ -542,16 +542,16 @@
 [Character(name="char_358_lisa_1",name2="char_281_popka_1",focus=2)]
 [name="泡普卡"]没有耶。
 [Character(name="char_358_lisa_1",name2="char_281_popka_1",focus=1)]
-[name="铃兰"]我也听得不太多......
+[name="铃兰"]我也听得不太多……
 [Character(name="char_185_frncat_1")]
 [name="慕斯"]那我来讲讲吧。
 [Character(name="char_281_popka_1#4")]
 [name="泡普卡"]太好啦，又有故事听了！
 [name="泡普卡"]希望这次是个没有人离开的好故事。
 [Character(name="char_358_lisa_1",name2="char_185_frncat_1",focus=2)]
-[name="慕斯"]啊......
+[name="慕斯"]啊……
 [Character(name="char_358_lisa_1#3",name2="char_185_frncat_1",focus=1)]
-[name="铃兰"]哈哈......
+[name="铃兰"]哈哈……
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]（拿出针线缝补小莫提）
 [Dialog]
@@ -559,7 +559,7 @@
 [delay(time=0.7)]
 [Character(name="char_185_frncat_1")]
 [name="慕斯"]故事是这样的——
-[name="慕斯"]咳嗯......
+[name="慕斯"]咳嗯……
 [Dialog]
 [Delay(time=1)]
 [StopMusic(fadetime=1)]
@@ -622,7 +622,7 @@
 [name="慕斯"]他高兴地赏赐了公主，还将那颗源石做成项链还给了自己的女儿。然而，国王在被治愈之后还在不断生长。
 [name="慕斯"]更多的肢体，膨胀的大脑！国王逐渐变成怪物，开始无缘无故杀害周边的人！
 [Character(name="char_254_Shamare_1")]
-[name="巫恋"]......
+[name="巫恋"]……
 [Character(name="char_185_frncat_1")]
 [name="慕斯"]国王的骑士们合力杀死了成为怪物的国王，而作为“罪魁祸首”的公主也以谋杀的罪名被扭送上了处刑台。
 [name="慕斯"]直到死时，源石项链还在她项间散发着柔和的光芒。
@@ -648,7 +648,7 @@
 [name="泡普卡"]泡普卡发现了。
 [name="泡普卡"]神话就是个大怪物，总会把好人吃掉。
 [Character(name="char_358_lisa_1#3",name2="char_281_popka_1",focus=1)]
-[name="铃兰"]啊......
+[name="铃兰"]啊……
 [Dialog]
 [Character]
 [Delay(time=1)]
@@ -661,7 +661,7 @@
 [Dialog]
 [Delay(time=1)]
 [Character(name="char_185_frncat_1")]
-[name="慕斯"]......那，铃兰小姐呢？
+[name="慕斯"]……那，铃兰小姐呢？
 [Dialog]
 [Delay(time=1)]
 [Character(name="char_254_Shamare_1")]
@@ -707,7 +707,7 @@
 [Character]
 [delay(time=1)]
 [Character(name="char_281_popka_1")]
-[name="泡普卡"]唔唔......
+[name="泡普卡"]唔唔……
 [name="泡普卡"]大家讲了好多故事，泡普卡也要给大家分享一个。
 [name="泡普卡"]是梓兰姐姐，给泡普卡讲的故事。
 [name="泡普卡"]可以吗？
@@ -717,8 +717,8 @@
 [name="慕斯"]嗯嗯，加油！
 [Character(name="char_281_popka_1")]
 [name="泡普卡"]——
-[name="泡普卡"]......
-[name="泡普卡"]让泡普卡想一想......
+[name="泡普卡"]……
+[name="泡普卡"]让泡普卡想一想……
 [Dialog]
 [Delay(time=1)]
 [StopMusic(fadetime=1)]
@@ -728,7 +728,7 @@
 [Background(image="bg_light",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0,fadetime=1, block=true)]
 [Delay(time=1.5)]
-[name="泡普卡"]从前，有一位心灵手巧的，呃，蜡像......对，蜡像！
+[name="泡普卡"]从前，有一位心灵手巧的，呃，蜡像……对，蜡像！
 [MusicVolume(volume=0.1,fadetime=0.5)]
 [Character(name="char_358_lisa_1",name2="char_185_frncat_1",focus=2)]
 [name="慕斯"]？
@@ -772,7 +772,7 @@
 [name="泡普卡"]国王和士兵一进高塔，天空中就开始电闪雷鸣，蜡油从塔顶噗噜噜流下，把国王和士兵包裹了进去。
 [name="泡普卡"]逃出来的士兵说，融化的新娘在蜡油里游荡，用蜡杀死每个坏人。
 [name="泡普卡"]现在国家没有人领导啦，大家觉得蜡像发明家有威望，就请他成为新的国王。
-[name="泡普卡"]呃......
+[name="泡普卡"]呃……
 [StopMusic]
 [Character(name="char_281_popka_1#5")]
 [CameraShake(duration=0.6, xstrength=2, ystrength=2, vibrato=10, randomness=30, fadeout=true)]
@@ -784,7 +784,7 @@
 [Background(image="bg_canteen",screenadapt="coverall",fadetime=0.2)]
 [playMusic(intro="$farce_intro", key="$farce_loop", volume=0.4,fadetime=1)]
 [Character(name="char_281_popka_1#2")]
-[name="泡普卡"]啊啊啊......前面全讲错了......怎么办......
+[name="泡普卡"]啊啊啊……前面全讲错了……怎么办……
 [Character(name="char_358_lisa_1#5",name2="char_185_frncat_1",focus=2)]
 [name="慕斯"]没错啊，我都明白了。
 [Character(name="char_358_lisa_1#5",name2="char_185_frncat_1",focus=1)]
@@ -798,7 +798,7 @@
 [playMusic(intro="$tech_intro", key="$tech_loop", volume=0.4,fadetime=1)]
 [Delay(time=2)]
 [Character(name="char_281_popka_1")]
-[name="泡普卡"]嗯，后来......
+[name="泡普卡"]嗯，后来……
 [name="泡普卡"]后来，发明家成为了一个好国王，发明了许多东西大家都很喜欢他。
 [name="泡普卡"]但是他一直躲在王宫的花园里，再也没有出来。
 [Character(name="char_358_lisa_1#3",name2="char_185_frncat_1",focus=1)]
@@ -838,7 +838,7 @@
 [Dialog]
 [Delay(time=0.7)]
 [Character(name="char_281_popka_1")]
-[name="泡普卡"]可惜......梓兰姐姐催泡普卡回宿舍睡觉了。
+[name="泡普卡"]可惜……梓兰姐姐催泡普卡回宿舍睡觉了。
 [name="泡普卡"]以后有机会再一起聊天吧。
 [Character(name="char_281_popka_1#6")]
 [name="泡普卡"]大家再见！
@@ -847,7 +847,7 @@
 [Character(fadetime=1)]
 [Delay(time=2)]
 [Character(name="char_185_frncat_1")]
-[name="慕斯"]是有些困了，呼啊......
+[name="慕斯"]是有些困了，呼啊……
 [name="慕斯"]猫猫，我们也走吧，不要缠着巫恋小姐了。
 [Character]
 [name="猫猫"]呜——嗷嗷——
@@ -867,7 +867,7 @@
 [name="铃兰"]我也该回家了。
 [name="铃兰"]十点前不上床爸爸会哭的。
 [Character(name="char_358_lisa_1#3")]
-[name="铃兰"]虽然爸爸并不在这里......
+[name="铃兰"]虽然爸爸并不在这里……
 [Dialog]
 [Delay(time=1)]
 [Character(name="char_358_lisa_1")]
@@ -891,7 +891,7 @@
 [name="巫恋"]好了。
 [name="巫恋"]小莫提，把最后一个苹果给我。
 [Character(name="avg_npc_131")]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]（用手指蘸着苹果汁涂抹书页）
 [name="巫恋"]符号显现了。
@@ -911,24 +911,24 @@
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]回家吧。
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=2)]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
 [name="巫恋"]还有什么事吗？
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=2)]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
 [name="巫恋"]我看到了。
 [name="巫恋"]走吧，我们去把书还给铃兰。
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=2)]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1",name2="avg_npc_131",focus=1)]
 [name="巫恋"]你还想听故事？
 [name="巫恋"]真难得。
 [Character(name="avg_npc_131")]
-[name="莫提"]......
+[name="莫提"]……
 [Character(name="char_254_Shamare_1")]
 [name="巫恋"]你是说，为什么故事最终都会变成这样吗？
-[name="巫恋"]嗯......
+[name="巫恋"]嗯……
 [Dialog]
 [Delay(time=1,block=true)]
 [Blocker(a=1, r=0, g=0, b=0,fadetime=2, block=true)]

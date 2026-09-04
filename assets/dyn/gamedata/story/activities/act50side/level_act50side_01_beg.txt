@@ -40,18 +40,18 @@
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]是的。
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
-[name="梓兰"]是不是搞错了？我们两个根本不是什么“异兽猎人”......
+[name="梓兰"]是不是搞错了？我们两个根本不是什么“异兽猎人”……
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]不会错的。
 [name="宝巫迦"]身为国主一脉，吾等与“御轮”有着奇妙的联系，近日，吾已经感觉到它有异动，这才出门寻找。
-[name="宝巫迦"]而两位无论是穿着还是刚见面时使用的语言，都不是吾熟悉的东西......两位一定是“御轮”送来的“异兽猎人”。
+[name="宝巫迦"]而两位无论是穿着还是刚见面时使用的语言，都不是吾熟悉的东西……两位一定是“御轮”送来的“异兽猎人”。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]为什么你们非要接受这所谓的“试炼”不可？听起来它对你们毫无好处。
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]有的，“试炼”对吾等而言，既是挑战，也是馈赠。
 [name="宝巫迦"]行天之谕，狩地之兽。这正是泡影国千百年来恪守的格言。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]......过去的“异兽猎人”都怎么样了？
+[name="梓兰"]……过去的“异兽猎人”都怎么样了？
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]在完成“异兽”狩猎后，国主会吸收“异兽”的“诅咒”，重新开启“御轮”，他们大多选择返回自己的故土，但也有少数人留了下来。
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
@@ -61,7 +61,7 @@
 [charslot(slot="m",name="avg_282_catap_1#3$1",focus="m")]
 [multiline(name="空爆")]那还挺方便的嘛，梓兰姐。
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
-[name="梓兰"]哪有这么简单的事......
+[name="梓兰"]哪有这么简单的事……
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]请放心，吾不会强迫两位立刻接受这些事情。
 [charslot(slot="m",name="avg_npc_2100_1#3$1",focus="m")]
@@ -81,19 +81,19 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="char_278_orchid_1#3",afrom=0, ato=1,duration=1.5)]
 [Delay(time=2)]
-[name="梓兰"]......
+[name="梓兰"]……
 [charslot]
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_282_catap_1#5$1",afrom=0, ato=1,duration=1.5)]
 [Delay(time=2)]
-[name="空爆"]......
+[name="空爆"]……
 [charslot(slot="m",name="avg_npc_2100_1#3$1",focus="m")]
 [name="宝巫迦"]异邦的旅人，欢迎来到泡影国的都城——泡影城。
-[name="宝巫迦"]本国周围竹林环绕，常常有旅人在其中迷路，而越过竹林，则是......
+[name="宝巫迦"]本国周围竹林环绕，常常有旅人在其中迷路，而越过竹林，则是……
 [name="宝巫迦"]两位，怎么了？
 [charslot(slot="m",name="avg_282_catap_1#5$1",focus="m")]
-[name="空爆"]那是什么......？
+[name="空爆"]那是什么……？
 [charslot(slot="m",name="avg_npc_2100_1#10$1",focus="m")]
 [name="宝巫迦"]哪个？
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
@@ -103,13 +103,13 @@
 但是，现在出现在她们眼前的事物，是连空爆都会察觉到异常的程度——
 在泡影城的远处，一道金属色泽的拱门静静地矗立在雪山之上。
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]你们难道不会觉得奇怪吗？这么大一道钢铁拱门......
+[name="空爆"]你们难道不会觉得奇怪吗？这么大一道钢铁拱门……
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
 [name="宝巫迦"]钢铁拱门？真是奇怪的称呼。
 [charslot(slot="m",name="avg_npc_2100_1#3$1",focus="m")]
 [name="宝巫迦"]那是“御轮”。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]“御轮”......
+[name="梓兰"]“御轮”……
 [charslot(slot="m",name="avg_npc_2100_1#3$1",focus="m")]
 [name="宝巫迦"]是的，“御轮”将“异兽”送到了这里，但也将两位这样的“异兽猎人”送了过来。
 [charslot]
@@ -121,7 +121,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#7$1",focus="m")]
 [name="宝巫迦"]“御轮”是吾国的国器，是吾等的祖先从千万年前传下来的遗物，并非现在所造。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]......原来如此。
+[name="梓兰"]……原来如此。
 [charslot(slot="m",name="avg_npc_2100_1#3$1",focus="m")]
 [name="宝巫迦"]如果两位对“御轮”感兴趣，吾之后可以为你们介绍。
 [charslot(slot="m",name="avg_282_catap_1#7$1",focus="m")]
@@ -129,7 +129,7 @@
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
 [name="梓兰"]你可以不用为饿了找借口的。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]......走吧，反正谜团这么多，也不差这一个了。
+[name="梓兰"]……走吧，反正谜团这么多，也不差这一个了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -158,13 +158,13 @@
 [name="泡影国百姓B"]陛下的身边有两个人！难道说——
 [charslot]
 [charslot(slot="m",name="avg_282_catap_1#5$1",focus="m")]
-[name="空爆"]咦，梓兰姐，你看，居民们往这边聚集起来了......我们这样的人果然很少见吧。
+[name="空爆"]咦，梓兰姐，你看，居民们往这边聚集起来了……我们这样的人果然很少见吧。
 [charslot(slot="m",name="avg_282_catap_1#3$1",focus="m")]
 [name="空爆"]嗨，你们好啊！
 [charslot]
 [charslot(slot="l",name="char_278_orchid_1#1",focus="l")]
 [charslot(slot="r",name="avg_npc_2100_1#1$1",focus="l")]
-[name="梓兰"]唉......算了。
+[name="梓兰"]唉……算了。
 [charslot]
 [charslot(slot="m",name="avg_npc_2108_1#1$1",focus="m")]
 [name="泡影国百姓A"]陛下，这两位难道就是“异兽猎人”吗？
@@ -174,9 +174,9 @@
 [charslot(slot="r",name="avg_npc_2100_1#1$1",focus="l")]
 [charslot(slot="l",posfrom="0,0",posto="100,0",duration=1.5)]
 [delay(time=2)]
-[name="梓兰"]（低声）宝巫迦......陛下，有些事情还不明朗，目前还是不要给他们错误的期待吧？
+[name="梓兰"]（低声）宝巫迦……陛下，有些事情还不明朗，目前还是不要给他们错误的期待吧？
 [charslot(slot="r",name="avg_npc_2100_1#8$1",focus="r")]
-[name="宝巫迦"]......
+[name="宝巫迦"]……
 [charslot]
 [charslot(slot="m",name="avg_npc_2109_1#1$1",focus="m")]
 [name="泡影国百姓B"]陛下，既然“异兽猎人”来了，也就是说，这个十年的“试炼”依然正常举行，是吗？
@@ -199,17 +199,17 @@
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [charslot(slot="m",posfrom="-150,0",posto="0,0",afrom=0,ato=1,duration=1.5)]
 [delay(time=2)]
-[name="宝巫迦"]......各位国民，如你们所见，这两位正是这一轮“试炼”的“异兽猎人”！
+[name="宝巫迦"]……各位国民，如你们所见，这两位正是这一轮“试炼”的“异兽猎人”！
 [charslot(slot="m",name="avg_npc_2108_1#1$1",focus="m")]
-[name="泡影国百姓A"]太好了......
+[name="泡影国百姓A"]太好了……
 [charslot(slot="m",name="avg_npc_2109_1#1$1",focus="m")]
-[name="泡影国百姓B"]神明保佑，我们没有被抛弃......
+[name="泡影国百姓B"]神明保佑，我们没有被抛弃……
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]各位国民，十年前，“雷之主”降临人间。
 [name="宝巫迦"]彼时，作为“异兽猎人”降临的政宗大人和义经大人与前代国主，也就是吾的母亲共同前往挑战“雷之主”，然而——
 [charslot(slot="m",name="avg_npc_2100_1#11$1",focus="m")]
 [name="宝巫迦"]母亲没有能够狩猎“雷之主”，消失在了狩猎之中，政宗大人和义经大人也身受重伤。
-[name="宝巫迦"]这在泡影国的历史上闻所未闻，史书上从未记载，未能完成“试炼”会发生什么......
+[name="宝巫迦"]这在泡影国的历史上闻所未闻，史书上从未记载，未能完成“试炼”会发生什么……
 [name="宝巫迦"]彼时，全国上下一片混乱。
 [charslot(slot="m",name="avg_npc_2100_1#3$1",focus="m")]
 [name="宝巫迦"]但是，今天，一切已经明朗——
@@ -219,7 +219,7 @@
 [charslot(slot="m",name="avg_npc_2108_1#1$1",focus="m")]
 [name="泡影国百姓A"]你们真的是“异兽猎人”吗？
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
-[name="梓兰"]我们......
+[name="梓兰"]我们……
 [charslot(slot="m",name="char_278_orchid_1#5",focus="m")]
 [name="梓兰"]算是吧。
 [charslot(slot="m",name="avg_npc_2109_1#1$1",focus="m")]
@@ -238,16 +238,16 @@
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
 [name="宝巫迦"]吾一直有一个愿望，现在，吾可以说了——
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
-[name="宝巫迦"]在完成这轮的“异兽”狩猎之后，吾将会前往狩猎“雷之主”......完成母亲未竟的职责，将和平重新带回泡影国！
+[name="宝巫迦"]在完成这轮的“异兽”狩猎之后，吾将会前往狩猎“雷之主”……完成母亲未竟的职责，将和平重新带回泡影国！
 [charslot(slot="m",name="avg_npc_2108_1#1$1",focus="m")]
-[name="泡影国百姓A"]太好了......我就知道，宝巫迦陛下会想办法的！宝巫迦陛下万岁！
+[name="泡影国百姓A"]太好了……我就知道，宝巫迦陛下会想办法的！宝巫迦陛下万岁！
 [charslot(slot="m",name="avg_npc_2109_1#1$1",focus="m")]
 [name="泡影国百姓B"]别高兴得太早，别忘了前代那时候——
 [charslot(slot="m",name="avg_npc_2108_1#1$1",focus="m")]
 [name="泡影国百姓C"]就算是这样，陛下如此年幼，已经这么懂事，难道不值得我们欣慰吗？宝巫迦陛下万岁！
 [charslot(slot="m",name="avg_npc_2109_1#1$1",focus="m")]
 [name="泡影国百姓B"]啧，我又不是在怀疑陛下！
-[name="泡影国百姓B"]......宝巫迦陛下万岁！
+[name="泡影国百姓B"]……宝巫迦陛下万岁！
 [charslot]
 [charslot(slot="m",name="char_278_orchid_1#3")]
 [PlaySound(key="$d_avg_clothmovement")]
@@ -260,7 +260,7 @@
 [charslot(slot="m",name="avg_282_catap_1#3$1",focus="m")]
 [name="空爆"]啊，这么说也是欸。哈哈，没想到，我们也有被泡普卡欺骗的一天。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]......
+[name="梓兰"]……
 [charslot(slot="m",name="avg_282_catap_1#9$1",focus="m")]
 [name="空爆"]哎呀，也不知道谁总是说，希望泡普卡能自立一点呢——
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
@@ -290,14 +290,14 @@
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
 [name="梓兰"]闭嘴。
 [charslot(slot="m",name="char_278_orchid_1#5",focus="m")]
-[name="梓兰"]唉......
+[name="梓兰"]唉……
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]反正是有原因的，对吧？
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
-[name="宝巫迦"]......是的。
+[name="宝巫迦"]……是的。
 [name="宝巫迦"]两位毫无疑问是“异兽猎人”，并且，消灭“异兽”后，就能通过“御轮”返回两位的家园，这点吾绝没有欺骗两位。
 [name="宝巫迦"]只是，若是往常，吾作为国主，绝不会以此等手段，几乎是强迫两位接受使命。
-[name="宝巫迦"]此事，要从前代说起......
+[name="宝巫迦"]此事，要从前代说起……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -309,15 +309,15 @@
 [PlayMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [bgeffect(name="$eb_darkcloud_thunder",layer=1,x=0,xto=0,yto=-140,y=140, movetime = 25)]
-十年前降临的那头“异兽”......是笼罩在泡影国所有人头顶的一场噩梦。
+十年前降临的那头“异兽”……是笼罩在泡影国所有人头顶的一场噩梦。
 如今被称作“雷之主”的那头“异兽”，它的力量与敏捷都远胜曾经的“异兽”，不仅如此，它还拥有能够自如地操控雷电的能力。
-正如吾方才在广场所说的那样......
+正如吾方才在广场所说的那样……
 前代国主，也就是吾的母亲，并没有完成“异兽”狩猎，不仅如此，母亲还消失在了狩猎之中。
 而这在本国历史上，是前所未有的。
 “异兽”不死，则“诅咒”不绝。
-在过去的十年中，吾等不得不时刻面临着“雷之主”的侵扰，以及受到“诅咒”的野兽们愈发频繁的袭击......
+在过去的十年中，吾等不得不时刻面临着“雷之主”的侵扰，以及受到“诅咒”的野兽们愈发频繁的袭击……
 更让人恐惧的是——
-所有人都不知所措，不知道“御轮”是否会降下惩罚，又或者，是否会发生一些意料之外的事......
+所有人都不知所措，不知道“御轮”是否会降下惩罚，又或者，是否会发生一些意料之外的事……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -329,14 +329,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
-[name="宝巫迦"]而对吾而言......
+[name="宝巫迦"]而对吾而言……
 [name="宝巫迦"]吾只有一个愿望，那就是——狩猎“雷之主”，为母亲复仇，也为国家带来安宁。
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
 [name="空爆"]听起来，有人拦着你这么做？你是国主，谁敢？
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]月见夜，是吗？
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]......没错。
+[name="宝巫迦"]……没错。
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
 [name="宝巫迦"]母亲去世后，他代替年幼的吾主持国政，这十年间，他做了许多事。
 [name="宝巫迦"]他将猎人们全部召入宫中，宣布他们的身份从猎人转为武士，然后将他们一一登记，编制成狩猎团，由他亲自管理。
@@ -354,9 +354,9 @@
 [charslot(slot="m",name="avg_282_catap_1#11$1",focus="m")]
 [name="空爆"]那什么时候是时候到了？
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
-[name="宝巫迦"]......他要求吾至少完成三轮“试炼”。
+[name="宝巫迦"]……他要求吾至少完成三轮“试炼”。
 [charslot(slot="m",name="avg_282_catap_1#5$1",focus="m")]
-[name="空爆"]三轮试炼......三十年？！
+[name="空爆"]三轮试炼……三十年？！
 [charslot(slot="m",name="avg_npc_2100_1#4$1",focus="m")]
 [name="宝巫迦"]因为母亲在挑战“雷之主”时，已经经历过三轮“试炼”，他便以此来要求吾。
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
@@ -364,7 +364,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
 [name="宝巫迦"]这是属于吾的第一次“试炼”，吾要在这次“试炼”中就向他证明，吾有那个能力！
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
-[name="梓兰"]......所以你才急切地把我们推上了那个位置。
+[name="梓兰"]……所以你才急切地把我们推上了那个位置。
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]是的。
 [name="宝巫迦"]在过去十年中，每一次，吾想要去挑战“雷之主”，他总是会如同鬼魅一般出现在吾的身后，劝告吾。
@@ -382,7 +382,7 @@
 [charslot(slot="m",name="avg_npc_2107_1#1$1",focus="m")]
 [name="武士"]将军已经知晓了。
 [charslot(slot="m",name="avg_npc_2100_1#11$1",focus="m")]
-[name="宝巫迦"]......哼。
+[name="宝巫迦"]……哼。
 [charslot(slot="m",name="avg_npc_2107_1#1$1",focus="m")]
 [name="武士"]根据斥候的消息，都城东方的竹林一带，出现了异常活跃的熔火蜗集团，极有可能是受到了“异兽”的影响。
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
@@ -391,7 +391,7 @@
 [name="武士"]既然新的“试炼”正常开始，他不会干涉您的行动。
 [name="武士"]接下来，一切有关的情报，我也会直接传递给您。
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]......知道了，去告诉将军，吾这就动身。
+[name="宝巫迦"]……知道了，去告诉将军，吾这就动身。
 [charslot(slot="m",name="avg_npc_2107_1#1$1",focus="m")]
 [name="武士"]是。
 [Dialog]
@@ -413,10 +413,10 @@
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
 [name="梓兰"]我还有很多问题想要问，但现在，我只有一个问题——
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]你刚才说，在过去，每一次“异兽”狩猎都成功了......难道在我们之前的所有“异兽猎人”，都接受了这项使命？
+[name="梓兰"]你刚才说，在过去，每一次“异兽”狩猎都成功了……难道在我们之前的所有“异兽猎人”，都接受了这项使命？
 [name="梓兰"]他们之中，就没有一个人想过逃跑，或者拒绝？
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]......并非如此。
+[name="宝巫迦"]……并非如此。
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
 [name="宝巫迦"]事实上，根据记载，一开始，像你这样质疑和拒绝的“异兽猎人”才是多数。
 [name="宝巫迦"]只是，出于种种原因，他们最终都接受了这项使命，成为了狩猎“异兽”的“异兽猎人”。

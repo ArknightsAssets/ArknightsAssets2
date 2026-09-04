@@ -13,9 +13,9 @@
 [Delay(time=0.6)]
 谢拉格某酒馆的露台，一名骑士轻声叹气。
 [name="酒馆老板"]这位老哥，最近几天风雪刮得紧，别老待在露台受冻了。
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [name="酒馆老板"]是不是遇到了什么事，怎么旅游还唉声叹气啊？
-[name="寒夜骑士"]......啊，我没事。
+[name="寒夜骑士"]……啊，我没事。
 [name="寒夜骑士"]我来谢拉格不到一周，但每天上街孩子们就围着我取笑，有点头疼。
 [name="酒馆老板"]哈哈，他们没啥恶意。老哥是从卡西米尔来的骑士吧？
 [name="酒馆老板"]前些日子，你们的人可在谢拉格逞足了威风，好多孩子想穿你这身盔甲呢。
@@ -35,9 +35,9 @@
 [PlaySound(key="$d_gen_walk_n",channel="step",volume=1)]
 [charslot(slot = "m", name = "avg_npc_217", duration=1.5, isblock=true)]
 [Delay(time=0.5)]
-[name="寒夜骑士"]就这制式竞技盔甲？这也不是什么高档货......
+[name="寒夜骑士"]就这制式竞技盔甲？这也不是什么高档货……
 [charslot(slot = "m", name = "avg_npc_278_1#1$1")]
-[name="酒馆老板"]竞技盔甲......莫非老哥是为了黑骑士来的谢拉格？
+[name="酒馆老板"]竞技盔甲……莫非老哥是为了黑骑士来的谢拉格？
 [dialog]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_ftrub", volume=0.6)]
@@ -57,7 +57,7 @@
 [dialog]
 [CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="r",focus="r")]
-[name="寒夜骑士"]......我其实是黑骑士的粉丝，想知道关于她的一切。
+[name="寒夜骑士"]……我其实是黑骑士的粉丝，想知道关于她的一切。
 [dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=0.6)]
 [charslot(slot = "m",posfrom="-210,0",posto="-180,0",duration=1)]
@@ -80,18 +80,18 @@
 [name="寒夜骑士"]所以大名鼎鼎的黑骑士，最近就忙着给谢拉格“添砖加瓦”？
 [dialog]
 [charslot(slot="m",focus="m")]
-[name="酒馆老板"]呃......她最近在干什么，我还真不知道。
+[name="酒馆老板"]呃……她最近在干什么，我还真不知道。
 [name="酒馆老板"]有段时间没见到她来城区里，我们好久没说上话了。
 [charslot(slot="r",focus="r")]
 [name="寒夜骑士"]听起来，你和她好像也没多熟络。
 [dialog]
 [charslot(slot="m",focus="m")]
 [delay(time=1)]
-[name="酒馆老板"]好像确实是......
+[name="酒馆老板"]好像确实是……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 露台上又多了一个叹气的人。
 [dialog]
 [stopmusic(fadetime=2)]
@@ -158,7 +158,7 @@
 [charslot(slot = "l", name = "avg_npc_217",posfrom="-50,0",posto="-50,0", duration=1.5,isblock=true)]
 [delay(time=1)]
 [charslot(slot = "r", focus="r",name = "avg_4116_blkkgt_1#2$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot = "r", focus="r",name = "avg_4116_blkkgt_1#10$1")]
 [name="锏"]你到底想做什么？
 [charslot(slot = "l", focus="l")]
@@ -173,7 +173,7 @@
 [dialog]
 [PlaySound(key="$d_avg_animal_loop",channel="bird",volume=0.8)]
 [delay(time=0.5)]
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [charslot(slot = "r", focus="r", name = "avg_4116_blkkgt_1#10$1")]
 [name="锏"]怎么？
 [charslot(slot = "l", focus="l")]
@@ -183,20 +183,20 @@
 [charslot(slot = "r", name = "avg_4116_blkkgt_1#1$1",posfrom="50,0",posto="50,0")]
 [charslot(slot = "l", name = "avg_npc_217",posfrom="-50,0",posto="-50,0",isblock=true)]
 [charslot(slot = "l", focus="l")]
-[name="寒夜骑士"]......算了，我长话短说。
+[name="寒夜骑士"]……算了，我长话短说。
 [dialog]
 [PlaySound(key="$d_gen_walk_n",channel="step", volume=1)]
 [charslot(slot = "l",focus="l",posfrom="-50,0",posto="-20,0",duration=1.3,isblock=true)]
 [name="寒夜骑士"]因为有你的存在，这些年来我忍辱负重，终于在竞技场打出了名堂，成了远近皆知的连胜骑士。
 [name="寒夜骑士"]只为在今天，能真正战胜你！
 [charslot(slot = "r", focus="r", name = "avg_4116_blkkgt_1#7$1")]
-[name="锏"]......还带着一台便携摄影机？
+[name="锏"]……还带着一台便携摄影机？
 [charslot(slot = "l", focus="l")]
 [name="寒夜骑士"]害怕被我拍摄到黑骑士认输的丑态？呵——
 [name="寒夜骑士"]拿你的巨剑出来！只要你拔出剑，就视为你接受了挑战！
 [charslot(slot = "l", focus="n")]
 [charslot(slot = "r", focus="r", name = "avg_4116_blkkgt_1#1$1")]
-她......移开了目光？没等寒夜骑士疑惑多久，锏突然弯下腰，风驰电掣般逮到了窜到她脚边的一只羽兽。
+她……移开了目光？没等寒夜骑士疑惑多久，锏突然弯下腰，风驰电掣般逮到了窜到她脚边的一只羽兽。
 [dialog]
 [PlaySound(key="$d_avg_clothmovement",volume=1)]
 [charslot(slot = "r",posfrom="80,0",posto="80,-100",afrom=1,ato=0,duration=0.3,isblock=true)]
@@ -205,7 +205,7 @@
 [charslot(slot = "r", focus="r", name = "avg_4116_blkkgt_1#11$1",isblock=true)]
 [name="锏"]你走吧，别再用这种无聊的事情打扰我。
 [charslot(slot = "l", focus="l")]
-[name="寒夜骑士"]没想到，“卡西米尔的黑骑士”，如今居然会拒绝战斗......
+[name="寒夜骑士"]没想到，“卡西米尔的黑骑士”，如今居然会拒绝战斗……
 [name="寒夜骑士"]“玄铁”不但打伤了你的身躯，还摧毁了你的胆气吗？
 [charslot(slot = "r", focus="r", name = "avg_4116_blkkgt_1#6$1")]
 [name="锏"]战斗？你们一个个带着摄影机，只不过是想寻找配合你们商业炒作的对象。
@@ -214,7 +214,7 @@
 [charslot(slot = "l", focus="l")]
 [name="寒夜骑士"]可是，你就甘愿待在这深山老林里，受人驱使干这种琐事？
 [name="寒夜骑士"]随便找个精壮的谢拉格人，都能捉得住这些走丢的羽兽。
-[name="寒夜骑士"]竞技骑士......不，任何武者存在的意义，难道不都是在一次次挑战极限的决斗中去寻求的吗？
+[name="寒夜骑士"]竞技骑士……不，任何武者存在的意义，难道不都是在一次次挑战极限的决斗中去寻求的吗？
 [charslot(slot = "r", focus="r", name = "avg_4116_blkkgt_1#1$1")]
 [name="锏"]说完了吗？
 [name="锏"]借过。
@@ -229,7 +229,7 @@
 在寒夜骑士滔滔不绝时，锏已经将羽兽悉数捉住，她从寒夜骑士身前快步走过，甚至没有瞥一眼这位激动的访客。
 [charslot(slot = "l", focus="l")]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="寒夜骑士"]......我一定会让真正的你回来！你会拔剑的，黑骑士！
+[name="寒夜骑士"]……我一定会让真正的你回来！你会拔剑的，黑骑士！
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1, block=true)]
@@ -251,7 +251,7 @@
 [charslot(slot="l",name="avg_npc_279_1#1$1",isblock=true)]
 [charslot(slot="r",name="avg_4116_blkkgt_1#1$1",isblock=true)]
 [charslot(slot = "l",focus="l")]
-[name="谢拉格老人"]呼......不愧是您！
+[name="谢拉格老人"]呼……不愧是您！
 [charslot(slot = "r", focus="r", name = "avg_4116_blkkgt_1#8$1")]
 [name="锏"]我送完羽兽，就去雪山里找，等我一会儿。
 [dialog]
@@ -262,12 +262,12 @@
 [charslot(slot = "m", name = "avg_npc_217")]
 [name="寒夜骑士"]你的孙子走丢了？
 [charslot(slot="m",name="avg_npc_279_1#1$1")]
-[name="谢拉格老人"]什......什么孙子，汉斯是我驿站里的驮兽。
+[name="谢拉格老人"]什……什么孙子，汉斯是我驿站里的驮兽。
 [stopmusic(fadetime=2)]
 [charslot(slot = "m", name = "avg_npc_217")]
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [charslot]
-这种羽毛蒜皮的小事，黑骑士方才竟微笑着点头应承。再一想她对待自己的那副无所谓的轻慢姿态......
+这种羽毛蒜皮的小事，黑骑士方才竟微笑着点头应承。再一想她对待自己的那副无所谓的轻慢姿态……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -289,15 +289,15 @@
 [dialog]
 [delay(time=0.8)]
 [charslot(slot = "m", focus="m")]
-[name="寒夜骑士"]......抱歉抱歉，我失态了。
+[name="寒夜骑士"]……抱歉抱歉，我失态了。
 [charslot(slot = "m", name = "avg_npc_278_1#1$1")]
 [name="酒馆老板"]没事儿，反正那“库”什么“库”的卡西米尔语我也听不懂。
 [name="酒馆老板"]好多游客来谢拉格就是为了放松心情，跑到雪山上吼一吼，再大压力都没了，你不妨也去试试？
 [charslot(slot = "m", name = "avg_npc_217")]
-[name="寒夜骑士"]我愁的是黑骑士......话说回来，你对她还有什么了解吗？
+[name="寒夜骑士"]我愁的是黑骑士……话说回来，你对她还有什么了解吗？
 [charslot(slot = "m", name = "avg_npc_278_1#1$1")]
-[name="酒馆老板"]嗯，我想想......许多年前她刚来谢拉格的时候，偶尔酒馆货物太多，老板会拜托她来帮忙。
-[name="酒馆老板"]当年我就是个打杂的小伙计，还不知道锏小姐在外头那么出名。有天晚上......
+[name="酒馆老板"]嗯，我想想……许多年前她刚来谢拉格的时候，偶尔酒馆货物太多，老板会拜托她来帮忙。
+[name="酒馆老板"]当年我就是个打杂的小伙计，还不知道锏小姐在外头那么出名。有天晚上……
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -312,11 +312,11 @@
 [name="谢拉格青年"]哟，你就是他们说的什么骑士？
 [name="谢拉格青年"]之前酒馆伙计可跟我说，你从晚上喝到天亮都还能直着走出去。
 [charslot(slot="r",focus="r", name = "avg_4116_blkkgt_1#10$1")]
-[name="锏"]......是谁这么说？
+[name="锏"]……是谁这么说？
 [charslot(slot="l",focus="l")]
 [name="谢拉格青年"]别管那么多，我们哥几个都不服气，你要喝不倒我们，就别想离开这里！
 [charslot(slot="r",focus="r", name = "avg_4116_blkkgt_1#2$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot="r",focus="r", name = "avg_4116_blkkgt_1#11$1")]
 [name="锏"]我有一个条件，你们每个人，都要把自己的家庭住址写在纸上交给我。
 [charslot(slot="l",focus="l")]
@@ -340,11 +340,11 @@
 [name="酒馆老板"]直到酒馆里醉汉们倒成一片时，老姐挨个提溜起那帮愣头青，送去了门口的驿站。
 [name="酒馆老板"]我才反应过来，要住址是干这个用的啊。从此再也没有人敢在这种事情上打扰锏小姐了，哈哈。
 [charslot(slot = "r",focus="r",name = "avg_npc_217")]
-[name="寒夜骑士"]......故事倒是很精彩，不过也看不出她的喜好和秉性啊。
+[name="寒夜骑士"]……故事倒是很精彩，不过也看不出她的喜好和秉性啊。
 [charslot(slot = "l",focus="l")]
 [name="酒馆老板"]怎么看不出？你没发现她最爱喝酒了吗？要不然为啥大伙儿都喝不过她，这是练出来的！
 [charslot(slot = "r",focus="r",name = "avg_npc_217")]
-[name="寒夜骑士"]这......
+[name="寒夜骑士"]这……
 [charslot]
 [charslot(slot = "m",name = "avg_npc_270_1#1$1")]
 [name="兴奋的谢拉格人"]嗐，你就听他吹牛吧，这人和锏小姐压根不熟。
@@ -372,7 +372,7 @@
 [name="兴奋的谢拉格人"]锏小姐，你在这里守了快一天了。
 [name="兴奋的谢拉格人"]空着篮子回去也不丢人，毕竟你才第二次钓鳞嘛。
 [charslot(slot="l",focus="l", name = "avg_4116_blkkgt_1#6$1")]
-[name="锏"]不行，我还没......
+[name="锏"]不行，我还没……
 [charslot(slot="r",focus="r")]
 [name="兴奋的谢拉格人"]不要坚持了，下回我给你换换饵料，保证——
 [charslot(slot="l",focus="l", name = "avg_4116_blkkgt_1#4$1")]
@@ -391,10 +391,10 @@
 [charslot(slot = "l", name = "avg_4116_blkkgt_1#5$1",duration=0.8)]
 [charslot(slot = "r", name = "avg_npc_270_1#1$1",duration=0.8,isblock=true)]
 [charslot(slot="l",focus="l", name = "avg_4116_blkkgt_1#5$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot="r",focus="r")]
 [name="兴奋的谢拉格人"]啊，没事的，下次还有机会。
-[name="兴奋的谢拉格人"]......锏小姐？！
+[name="兴奋的谢拉格人"]……锏小姐？！
 [dialog]
 [charslot(slot = "l",name = "avg_4116_blkkgt_1#1$1",posfrom="0,0",posto="-50,0",afrom=1,ato=0,duration=0.3,isblock=true)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -409,7 +409,7 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
-[name="兴奋的谢拉格人"]......她从湖里游上来时，一手抓着一条巨大的鳞兽。从此我们大家都对她心服口服。
+[name="兴奋的谢拉格人"]……她从湖里游上来时，一手抓着一条巨大的鳞兽。从此我们大家都对她心服口服。
 [name="兴奋的谢拉格人"]毕竟有个永远不会空手而归的人，我们有时也好找她借点猎物。
 [name="兴奋的谢拉格人"]当然，她用竿子钓鳞的技术也越来越好，这都是后话了。
 [dialog]
@@ -453,11 +453,11 @@
 [charslot(slot = "m", name = "avg_npc_2005_1#1$1")]
 [name="谢拉格儿童"]嗯，你是来找他们的吗？
 [charslot(slot = "m", name = "avg_4116_blkkgt_1#7$1")]
-[name="锏"]......我路过这里，想起来三个月前给你们家送过兽药，当时那只小瘤兽病得很厉害。
+[name="锏"]……我路过这里，想起来三个月前给你们家送过兽药，当时那只小瘤兽病得很厉害。
 [charslot(slot = "m", name = "avg_4116_blkkgt_1#10$1")]
 [name="锏"]现在它状态好些了吗？
 [charslot(slot = "m", name = "avg_npc_2005_1#1$1")]
-[name="谢拉格儿童"]它很好......呃小心——
+[name="谢拉格儿童"]它很好……呃小心——
 [dialog]
 [charslot(slot = "m", focus="n")]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -470,7 +470,7 @@
 在孩子惊愕的注视下，她蹲下身子，抚摸瘤兽的脖颈，安慰着这个冒失的小家伙，瘤兽才逐渐恢复平静。
 [dialog]
 [charslot(slot = "m", name = "avg_4116_blkkgt_1#8$1",isblock=true)]
-[name="锏"]......一段时间不见，它就已经这么大了。
+[name="锏"]……一段时间不见，它就已经这么大了。
 [name="锏"]很好。
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
@@ -487,7 +487,7 @@
 [name="谢拉格儿童"]锏姐姐安慰了小瘤兽好一会儿，走的时候还嘱咐我，别忘了喂饱它呢。
 [charslot]
 [charslot(slot = "m",name = "avg_npc_217", isblock=true)]
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [dialog]
 [charslot]
 [charslot(slot = "l",posfrom="-150,0",posto="-150,0",duration=0,name = "avg_npc_2005_1#1$1")]
@@ -518,7 +518,7 @@
 [name="虔诚的谢拉格人"]锏小姐？
 [name="虔诚的谢拉格人"]你怎么坐在雪地里？
 [charslot(slot="r",focus="r",name = "avg_4116_blkkgt_1#2$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot="r",focus="r",name = "avg_4116_blkkgt_1#1$1")]
 [name="锏"]难得今天有空闲时间，想找个清净的地方待一会儿。
 [charslot(slot="r",focus="r",name = "avg_4116_blkkgt_1#11$1")]
@@ -542,7 +542,7 @@
 [charslot(slot ="r",focus="r")]
 [name="虔诚的谢拉格人"]当然不是。
 [charslot(slot="l",focus="l")]
-[name="寒夜骑士"]那还能是什么......
+[name="寒夜骑士"]那还能是什么……
 [charslot(slot ="r",focus="r")]
 [name="虔诚的谢拉格人"]我敢肯定——
 [name="虔诚的谢拉格人"]她准备皈依耶拉冈德了！
@@ -557,7 +557,7 @@
 [name="虔诚的谢拉格人"]即使是锏小姐这么了不起的人，也能在每次沉思之中有新的收获。
 [name="虔诚的谢拉格人"]年轻人，想了解锏小姐，就得多多学习谢拉格的文化啊。
 [charslot(slot="l",focus="l")]
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -576,7 +576,7 @@
 [charslot(slot="l",focus="l")]
 [name="酒馆老板"]没得到你想要的答案？
 [charslot(slot="r",focus="r")]
-[name="寒夜骑士"]......为了能战胜黑骑士，我筹备了十多年。
+[name="寒夜骑士"]……为了能战胜黑骑士，我筹备了十多年。
 [name="寒夜骑士"]前阵子都说她在维多利亚人面前大放异彩，因此我下定决心，完成竞技场的赛程后就立马赶来谢拉格。
 [name="寒夜骑士"]结果却没想到，所向披靡的黑骑士，已然沦为嬉娱乡间的等闲之人。
 [name="寒夜骑士"]看来关于她对抗维多利亚人的流言，全是些好事者的谣传。
@@ -584,7 +584,7 @@
 [name="酒馆老板"]怎么能这么说？虽然我不在现场，但好多人都看到了，你要不再去问问——
 [charslot(slot="r",focus="r")]
 [name="寒夜骑士"]别说了！
-[name="寒夜骑士"]......对不起，但这几天我就没听你们谢拉格人说过一句靠谱的话。
+[name="寒夜骑士"]……对不起，但这几天我就没听你们谢拉格人说过一句靠谱的话。
 [name="寒夜骑士"]或许武者的执念在外人看来确实有些古怪，我也不强求你能明白。
 [name="寒夜骑士"]既然黑骑士自甘堕落，我也就打算离开了。这些天多谢你的招待。
 [charslot(slot="l",focus="l")]
@@ -608,12 +608,12 @@
 [charslot(slot="l",focus="l")]
 [name="酒馆老板"]拔剑？我不知道她使什么家伙，但那认真战斗的架势绝对是实打实的。
 [charslot(slot="r",focus="r")]
-[name="寒夜骑士"]......这些都是真的？
+[name="寒夜骑士"]……这些都是真的？
 [charslot(slot="l",focus="l")]
 [name="酒馆老板"]哎呀，耶拉冈德在上，千真万确！
-[name="酒馆老板"]要是有半句假话，祂就让我被大雪活埋......而且锏小姐还发现不了我！
+[name="酒馆老板"]要是有半句假话，祂就让我被大雪活埋……而且锏小姐还发现不了我！
 [charslot(slot="r",focus="r")]
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [name="寒夜骑士"]既然如此——
 [name="寒夜骑士"]老板，你这里有登山的装备吗？
 [charslot(slot="l",focus="l")]
@@ -662,7 +662,7 @@
 这是锏少有的“娱乐”时光，独享杳无人迹的蜿蜒山路，寒冷与风声更让她的思绪清晰。
 她抬起头，等着一个释放自己的契机。
 [charslot(slot = "m", name = "avg_4116_blkkgt_1#2$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot = "m", name = "avg_4116_blkkgt_1#1$1")]
 [name="锏"]来了。
 [charslot]
@@ -710,7 +710,7 @@
 [Blocker(a=0.2, r=0, g=0, b=0, fadetime=0.5, block=true)]
 雪块飞落，她跨出一步，拔出了腰间的双锏，朝着瀑布般的落雪奋力挥舞，细碎的雪花散在她的身后。
 [PlaySound(key="$d_avg_snowfall", volume=0.5)]
-直到她看见落雪中......还夹杂着一个黑影，从上至下迅速跌落。
+直到她看见落雪中……还夹杂着一个黑影，从上至下迅速跌落。
 [name="锏"]什么？！
 [dialog]
 [charslot]
@@ -730,7 +730,7 @@
 [name="寒夜骑士"]我头盔里全是雪，咳咳——*卡西米尔粗口*谢拉格！
 [charslot(slot = "r",focus="r", name = "avg_4116_blkkgt_1#6$1")]
 [name="锏"]又是你。
-[name="锏"]真没想到，在这里还能听到卡西米尔的脏话......
+[name="锏"]真没想到，在这里还能听到卡西米尔的脏话……
 [charslot(slot="l",focus="n")]
 寒夜骑士还在清理着身上的雪，他循着声音扭头——那是自己期待已久的、举着武器的锏。
 [stopsound(channel="bl",fadetime=2)]
@@ -742,15 +742,15 @@
 [charslot(slot="l",focus="n")]
 锏看着自己的武器，意识到了什么。
 [charslot(slot = "r",focus="r", name = "avg_4116_blkkgt_1#4$1")]
-[name="锏"]你别误会......
+[name="锏"]你别误会……
 [charslot(slot="l",focus="l")]
 [name="寒夜骑士"]我，封号“寒夜骑士”，在——耶拉冈德的见证下，接受你的邀战！
 [name="寒夜骑士"]愿你剑刃锋利！
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [name="寒夜骑士"]你那巨剑呢？
 [name="寒夜骑士"]怎么拿着两根棍子？
 [charslot(slot = "r",focus="r", name = "avg_4116_blkkgt_1#1$1")]
-[name="锏"]......
+[name="锏"]……
 [name="锏"]我没心情听你背诵俏皮话。
 [charslot(slot = "r",focus="r", name = "avg_4116_blkkgt_1#6$1")]
 [name="锏"]刚才的雪崩，是你弄出来的吧？
@@ -817,7 +817,7 @@
 [charslot(slot="l",focus="l")]
 [name="寒夜骑士"]我们第一次见面时，在卡西米尔城郊，你踢出一块碎石击中了我的头部。
 [charslot(slot="r",name = "avg_4116_blkkgt_1#7$1",focus="r")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot="r",name = "avg_4116_blkkgt_1#1$1",focus="r")]
 [name="锏"]我不知道你在说什么。
 [charslot(slot="l",focus="l")]
@@ -841,8 +841,8 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1.5)]
 石头碰撞金属的声音伴随着几声闷哼很快平静下来，厚厚的积雪又一次覆盖在瘫坐的寒夜骑士身上。
-[name="寒夜骑士"]咳咳......不愧是拿到三连冠的传奇。
-[name="寒夜骑士"]现在骑士竞技的强度，还是太低了吗......
+[name="寒夜骑士"]咳咳……不愧是拿到三连冠的传奇。
+[name="寒夜骑士"]现在骑士竞技的强度，还是太低了吗……
 [stopmusic(fadetime=2)]
 [dialog]
 [name="寒夜骑士"]能成为黑骑士的剑——棍下之鬼，是我此生荣幸。
@@ -857,7 +857,7 @@
 [delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3,block=true)]
 [Delay(time=0.5)]
-[name="锏"]......
+[name="锏"]……
 [playMusic(intro="$drift_intro", key="$drift_loop",volume=0)]
 [MusicVolume(volume=0.6, fadetime=2)]
 [charslot(slot="m",name = "avg_4116_blkkgt_1#2$1")]
@@ -865,19 +865,19 @@
 [charslot(slot="m",name = "avg_4116_blkkgt_1#6$1")]
 [name="锏"]故意制造雪崩的人，谢拉格不再欢迎。你将被驱逐出境。
 [charslot]
-[name="寒夜骑士"]......
+[name="寒夜骑士"]……
 [name="寒夜骑士"]不，先等等。
 [name="寒夜骑士"]黑骑士，你的实力还是如此强大，倘若回到卡西米尔，只要你愿意就会是冠军。
 [name="寒夜骑士"]也许你不知道，耀骑士退役之后，骑士竞技每况愈下。许多人都在期盼黑骑士的回归，联合会都放出风声，愿意对你再做让步。
 [charslot(slot="m",focus="m",name = "avg_4116_blkkgt_1#6$1")]
 [name="锏"]我和你说过，我退役了。无论卡西米尔给出什么条件，我都不会回到那个地方。
 [charslot]
-[name="寒夜骑士"]可是......即使不在卡西米尔，也有更多的用武之地需要你的力量。
+[name="寒夜骑士"]可是……即使不在卡西米尔，也有更多的用武之地需要你的力量。
 [name="寒夜骑士"]为什么偏偏是在这里？在这座什么都没有的雪山？
 [name="寒夜骑士"]我再如何愚蠢，也能明白，唯有不断的战斗才能给予武者生存价值。
 [name="寒夜骑士"]你就甘愿把光阴耗费在谢拉格？难道你真的相信那些经书上的鬼话？咳咳——
 [charslot(slot="m",focus="m",name = "avg_4116_blkkgt_1#11$1")]
-[name="锏"]......别说话了，留点体力。
+[name="锏"]……别说话了，留点体力。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -905,14 +905,14 @@
 [charslot(slot="m",name = "avg_4116_blkkgt_1#2$1",isblock=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="锏"]......不，我在卡西米尔最有意义的收获，就是不再相信任何理想。
+[name="锏"]……不，我在卡西米尔最有意义的收获，就是不再相信任何理想。
 [name="锏"]当我意识到，卡西米尔人交给我的一切都是过度包装的虚荣时，我选择了离开。
-[name="锏"]而你们挂在嘴边的“纯粹战斗”......当我第一次面对谢拉格的雪崩时，才找到了它。
+[name="锏"]而你们挂在嘴边的“纯粹战斗”……当我第一次面对谢拉格的雪崩时，才找到了它。
 [name="锏"]当我带着受困于雪崩的人们走出群山时，我确定了这就是我会停留的地方。
 [charslot(slot="m",name = "avg_4116_blkkgt_1#7$1")]
 [name="锏"]你如果不能明白这些话——
 [charslot(slot="m",name = "avg_4116_blkkgt_1#4$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot]
 面前的竞技骑士全然不见踪影，取而代之的是不知从何而来的粗糙的“雪人”。
 锏轻轻叹气，拍散了雪人的“脑袋”，露出了眼熟的金属头盔。
@@ -940,7 +940,7 @@
 [name="谢拉格老人"]锏小姐！
 [name="谢拉格老人"]多亏你找回了汉斯，它又能工作了。
 [charslot(slot="m",name = "avg_4116_blkkgt_1#7$1")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot="m",name = "avg_4116_blkkgt_1#1$1")]
 [name="锏"]正好，把这个人送去车站，他会回到卡西米尔。
 [name="锏"]他有属于自己的地方。

@@ -14,7 +14,7 @@
 [name="贝娜"]雷蒙德·伯纳德，这是他三十七年前存放的物品。
 [charslot(slot = "M", name = "char_338_iris#3")]
 [name="爱丽丝"]一本童话故事集？
-[name="爱丽丝"]嗯，应该是小孩子自己写的，很稚嫩......
+[name="爱丽丝"]嗯，应该是小孩子自己写的，很稚嫩……
 [charslot(slot = "M", name = "char_338_iris#4")]
 [name="爱丽丝"]但是，也有令人印象深刻的部分。
 [charslot(slot = "M", name = "avg_npc_151#3")]
@@ -26,7 +26,7 @@
 [charslot(slot = "M", name = "char_338_iris#5")]
 [name="爱丽丝"]他在第一页是这么写的。
 [charslot(slot = "M", name = "avg_npc_151#4")]
-[name="贝娜"]童话故事......
+[name="贝娜"]童话故事……
 [charslot(slot = "M", name = "avg_npc_151#3")]
 [name="贝娜"]眼前这里只有令人窒息的味道，还有一路上那些无礼可耻的流氓。
 [charslot(slot = "M", name = "char_338_iris#3")]
@@ -56,11 +56,11 @@
 [PlaySound(key="$d_avg_smashtable", volume=0.3)]
 [CameraShake(duration=0.3, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true)]
 [name="雷蒙德"]说了，没钱！！真没了！
-[name="雷蒙德"]对不起......我不是说不想还......
+[name="雷蒙德"]对不起……我不是说不想还……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="雷蒙德"]但我很快！很快就会有钱！真的！
 [charslot(slot = "M", name = "avg_npc_151#3")]
-[name="贝娜"]（呃......这个时间，他不应该在这里才对。）
+[name="贝娜"]（呃……这个时间，他不应该在这里才对。）
 [name="贝娜"]（奶奶搞错了吗？）
 [charslot(slot = "M", name = "char_338_iris#3")]
 [name="爱丽丝"]（我不知道，的确很少出现这种情况。）
@@ -84,14 +84,14 @@
 [name="爱丽丝"]我是爱丽丝，梦城堡的主人，摇篮的守门人。
 [name="爱丽丝"]按照约定，前来归还你曾经寄存在城堡的东西。
 [charslot(slot = "L", focus="L")]
-[name="雷蒙德"]原来是来推销的......抱歉，我不想买，也买不起。
+[name="雷蒙德"]原来是来推销的……抱歉，我不想买，也买不起。
 [name="雷蒙德"]话说回来，你们老板居然让小姑娘来这么偏僻的地方。
 [charslot(slot = "R", name = "char_338_iris#1", focus="R")]
 [name="爱丽丝"]真是的，为什么就不能礼貌地听人把话说完呢？
 [charslot(slot = "R", name = "char_338_iris#2", focus="R")]
 [name="爱丽丝"]这本寄存的童话集是你曾经和梦城堡的约定。
 [charslot(slot = "L", focus="L")]
-[name="雷蒙德"]......梦城堡？抱歉，我没有听过这个牌子。
+[name="雷蒙德"]……梦城堡？抱歉，我没有听过这个牌子。
 [dialog]
 [charslot(slot = "R", posfrom = "0,0", posto = "-50,0",duration = 1)]
 [delay(time=1)]
@@ -99,7 +99,7 @@
 [delay(time=2.5)]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]你们......你们从哪里搞来的这个东西？
+[name="雷蒙德"]你们……你们从哪里搞来的这个东西？
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="雷蒙德"]这不可能！
 [charslot(slot = "M", name = "avg_npc_151#5")]
@@ -110,13 +110,13 @@
 [name="贝娜"]锵锵！童话的确是真的哦。
 [charslot]
 [charslot(slot = "M", name = "char_338_iris#4")]
-[name="爱丽丝"]既然约定已经完成......
+[name="爱丽丝"]既然约定已经完成……
 [name="爱丽丝"]那么我们便就此离开，愿你能时常想起自己写下的童话。
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "M", afrom=1, ato=0, duration=1)]
 [delay(time=1)]
-[name="雷蒙德"]仙女......等一下！
+[name="雷蒙德"]仙女……等一下！
 [charslot]
 [charslot(slot = "M", name = "avg_npc_081")]
 [stopmusic(fadetime=2)]
@@ -125,9 +125,9 @@
 [charslot(slot = "M", name = "avg_npc_151#3")]
 [name="贝娜"]你想干什么？！
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]对不起......我不是那个意思。
-[name="雷蒙德"]我也不知道你们是不是真的......但，真的太像了，太像了！
-[name="雷蒙德"]你们的衣服......你们说的，一切。
+[name="雷蒙德"]对不起……我不是那个意思。
+[name="雷蒙德"]我也不知道你们是不是真的……但，真的太像了，太像了！
+[name="雷蒙德"]你们的衣服……你们说的，一切。
 [charslot(slot = "M", name = "char_338_iris#1")]
 [name="爱丽丝"]真是无礼的发言。
 [charslot(slot = "M", name = "char_338_iris#3")]
@@ -136,16 +136,16 @@
 [name="贝娜"]要惩罚他吗？
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]不是不是，是这样。
-[name="雷蒙德"]今天......是一个孩子的生日，孤儿院的孩子。
+[name="雷蒙德"]今天……是一个孩子的生日，孤儿院的孩子。
 [name="雷蒙德"]我想请你们以仙女的身份，陪我一起，给他过生日。
-[name="雷蒙德"]留下一个......如童话般美好的回忆。
+[name="雷蒙德"]留下一个……如童话般美好的回忆。
 [dialog]
 [delay(time=1.5)]
-[name="雷蒙德"]这也是......那个孩子的愿望。
+[name="雷蒙德"]这也是……那个孩子的愿望。
 [charslot(slot = "M", name = "char_338_iris#4")]
 [name="爱丽丝"]一个孩子的愿望？
 [charslot(slot = "M", name = "char_338_iris#3")]
-[name="爱丽丝"]如果你说的的确是真的......
+[name="爱丽丝"]如果你说的的确是真的……
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]真的真的！
 [dialog]
@@ -153,7 +153,7 @@
 [delay(time=1)]
 [charslot(slot = "M", name = "char_338_iris#1")]
 [delay(time=1.5)]
-[name="爱丽丝"]为每一个孩子创造并保存最美好的回忆...... 
+[name="爱丽丝"]为每一个孩子创造并保存最美好的回忆…… 
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]的确是仙女的职责。
 [dialog]
@@ -165,8 +165,8 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]那个......我还是得提前和你们说，这个孩子可能会......有点不一样。
-[name="雷蒙德"]也不是，这个孩子很乖的。但......
+[name="雷蒙德"]那个……我还是得提前和你们说，这个孩子可能会……有点不一样。
+[name="雷蒙德"]也不是，这个孩子很乖的。但……
 [name="雷蒙德"]反正，到时候不管发生什么，千万不要生他的气。
 [name="雷蒙德"]最重要的是一定不要穿帮，求你们了！
 [charslot(slot = "M", name = "char_338_iris#2")]
@@ -174,13 +174,13 @@
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]于里安。
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]今年......七岁，不......八岁吧。
+[name="雷蒙德"]今年……七岁，不……八岁吧。
 [charslot(slot = "M", name = "char_338_iris#1")]
 [name="爱丽丝"]你连孩子的岁数都不记得吗？
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]呵......
+[name="雷蒙德"]呵……
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]八岁......八岁。
+[name="雷蒙德"]八岁……八岁。
 [dialog]
 [charslot]
 [charslot(slot = "L", name = "char_338_iris#1")]
@@ -195,7 +195,7 @@
 [charslot(slot = "L", name = "char_338_iris#2", focus="L")]
 [name="爱丽丝"]（无论是大人还是小孩，只要撒谎，都是瞒不过仙女的眼睛的哦。）
 [charslot(slot = "L", name = "char_338_iris#3", focus="L")]
-[name="爱丽丝"]（虽然他的确没有全部说实话......）
+[name="爱丽丝"]（虽然他的确没有全部说实话……）
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
 [name="爱丽丝"]（但我更在意的是孩子。）
 [dialog]
@@ -215,7 +215,7 @@
 [charslot(slot = "R", name = "avg_npc_151#3",focus="R")]
 [name="贝娜"]他一直在偷瞄我们，心里有鬼？
 [charslot(slot = "L", name = "char_338_iris#1",focus="L")]
-[name="爱丽丝"]有可能......是因为你一直拿着剪刀。
+[name="爱丽丝"]有可能……是因为你一直拿着剪刀。
 [charslot(slot = "R", name = "avg_npc_151#3",focus="R")]
 [name="贝娜"]哼，当然要时刻注意这些大人。
 [dialog]
@@ -227,7 +227,7 @@
 [charslot(slot = "M",  afrom=0, ato=1,  duration=2)]
 [charslot(slot = "M", action="zoom", poszoom = "0.5,0.5", scale=1,duration = 2)]
 [delay(time=3)]
-[name="于里安"]......
+[name="于里安"]……
 [dialog]
 [charslot]
 [charslot(slot = "R", name = "avg_npc_151", focus="R")]
@@ -235,7 +235,7 @@
 [charslot(slot = "R", posfrom="0,0", posto="-150,0", duration=0.5)]
 [name="贝娜"]小心！
 [charslot(slot = "L", name = "char_338_iris#4", focus="L")]
-[name="爱丽丝"]......
+[name="爱丽丝"]……
 [name="爱丽丝"]贝娜，你吓到他了。
 [charslot(slot = "L", name = "char_338_iris#2", focus="L")]
 [name="爱丽丝"]这只是个孩子。
@@ -245,23 +245,23 @@
 [delay(time=1)]
 [charslot(slot = "M", name = "avg_npc_242", duration=2)]
 [delay(time=2)]
-[name="于里安"]......
+[name="于里安"]……
 [dialog]
 [charslot(slot = "M", name = "char_338_iris#4")]
 [delay(time=1.5)]
 [charslot(slot = "M", focus="none")]
-[name="于里安"]你是......蓝颜色的，好看。
+[name="于里安"]你是……蓝颜色的，好看。
 [dialog]
 [charslot(slot = "M", name = "avg_npc_151#3")]
 [delay(time=1.5)]
 [charslot(slot = "M", focus="none")]
-[name="于里安"]紫颜色的......危险......
+[name="于里安"]紫颜色的……危险……
 [charslot(slot = "M", name = "avg_npc_151")]
 [name="贝娜"]（喂！）
 [charslot(slot = "M", name = "char_338_iris#4")]
 [name="爱丽丝"]（难怪雷蒙德说他只有八岁。）
 [charslot(slot = "M", name = "char_338_iris#5")]
-[name="爱丽丝"]（一个永远留在了那段时间的......孩子。）
+[name="爱丽丝"]（一个永远留在了那段时间的……孩子。）
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]晚上好，于里安。
 [charslot(slot = "M", name = "char_338_iris#2")]
@@ -269,7 +269,7 @@
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]就像没有天灾迹象的天空。
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]爱丽丝......天空。
+[name="于里安"]爱丽丝……天空。
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]那位叫贝娜，紫颜色，有毒的紫藤。
 [charslot(slot = "M", name = "char_338_iris#2")]
@@ -277,9 +277,9 @@
 [charslot(slot = "M", name = "avg_npc_151")]
 [name="贝娜"]哼哼。
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]（那个......你别看我啊！）
+[name="雷蒙德"]（那个……你别看我啊！）
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]坏蛋......
+[name="于里安"]坏蛋……
 [dialog]
 [delay(time=1)]
 [name="于里安"]叔叔不是坏蛋。
@@ -292,7 +292,7 @@
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]你的叔叔跟我说今天是你的生日。
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]......生日。
+[name="于里安"]……生日。
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]是的，你的生日！
 [dialog]
@@ -303,17 +303,17 @@
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]所以童话里的仙女来了哦，来给你过生日了。
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]童话......仙女，新的朋友？
+[name="于里安"]童话……仙女，新的朋友？
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "char_338_iris#2")]
-[name="爱丽丝"]......
+[name="爱丽丝"]……
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]啊......对对对！
+[name="雷蒙德"]啊……对对对！
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]你好......
+[name="于里安"]你好……
 [dialog]
 [charslot(slot = "R", name = "avg_npc_081", duration=2)]
 [charslot(slot = "R", posfrom = "300,0", posto = "100,0",duration = 2)]
@@ -322,10 +322,10 @@
 [delay(time=1)]
 [stopmusic(fadetime=2)]
 [charslot(slot = "M", focus="M")]
-[name="于里安"]于里安，会伤害......危险。
+[name="于里安"]于里安，会伤害……危险。
 [name="于里安"]不能见面。
 [charslot(slot = "R", focus = "R")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [dialog]
 [charslot(slot = "M", posfrom = "-100,0", posto = "-300,0", afrom=1, ato=0, duration = 1)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -363,14 +363,14 @@
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
 [name="爱丽丝"]你这样只会让他更紧张。
 [charslot(slot = "R", focus="R")]
-[name="雷蒙德"]对不起......他可能太久没有见到生人了。
-[name="雷蒙德"]他平常不是这样的......很乖的。
+[name="雷蒙德"]对不起……他可能太久没有见到生人了。
+[name="雷蒙德"]他平常不是这样的……很乖的。
 [charslot(slot = "L", name = "char_338_iris#5", focus="L")]
 [name="爱丽丝"]希望见到童话里的仙女，一起过生日。
 [charslot(slot = "L", name = "char_338_iris#3", focus="L")]
 [name="爱丽丝"]雷蒙德，这真的是于里安的愿望吗？
 [charslot(slot = "R", focus="R")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
 [name="爱丽丝"]事实上，我看他一直在躲着你。
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
@@ -387,10 +387,10 @@
 [charslot(slot = "M", name = "avg_npc_151#3")]
 [name="贝娜"]咔嚓咔嚓！
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]啊......对不起。我是说......
-[multiline(name="雷蒙德")]于里安只是有些......
+[name="雷蒙德"]啊……对不起。我是说……
+[multiline(name="雷蒙德")]于里安只是有些……
 [multiline(name="雷蒙德",end=true)]不舒服。
-[name="雷蒙德"]我也好久没有陪过他了，所以......
+[name="雷蒙德"]我也好久没有陪过他了，所以……
 [charslot(slot = "M", name = "char_338_iris#1")]
 [name="爱丽丝"]（看来的确是这样了。）
 [charslot(slot = "M", name = "char_338_iris#1")]
@@ -403,9 +403,9 @@
 [charslot(slot = "R", name = "avg_npc_081", focus="R")]
 [name="雷蒙德"]没有没有！
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
-[name="爱丽丝"]如果你不想这个故事就这样结束的话......
+[name="爱丽丝"]如果你不想这个故事就这样结束的话……
 [charslot(slot = "R", name = "avg_npc_081", focus="R")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
 [name="爱丽丝"]这里只有你和他两个人？其他的孩子呢？
 [charslot(slot = "L", name = "char_338_iris#3", focus="L")]
@@ -413,11 +413,11 @@
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]唉......
+[name="雷蒙德"]唉……
 [name="雷蒙德"]你要是非要问的话。
 [name="雷蒙德"]很多年前，我不过是一时心软收养了一个孩子。
-[name="雷蒙德"]结果从那以后......孩子越来越多，稀里糊涂地我这儿也就成了孤儿院。
-[name="雷蒙德"]没想到......我家里的产业越来越破败，最后弄成这样。
+[name="雷蒙德"]结果从那以后……孩子越来越多，稀里糊涂地我这儿也就成了孤儿院。
+[name="雷蒙德"]没想到……我家里的产业越来越破败，最后弄成这样。
 [name="雷蒙德"]这么多年过去，大部分的孩子都已经离开，于里安是唯一一个还留在这里的。
 [name="雷蒙德"]他的情况，你也看到了。
 [dialog]
@@ -452,7 +452,7 @@
 [charslot(slot = "L", name = "char_338_iris#2", focus="L")]
 [name="爱丽丝"]但是孩子会去相信，因为童话是身边随行的伙伴，哪怕身处幽暗的深谷，也不至孤独恐惧。
 [charslot(slot = "R", name = "avg_npc_151#4", focus="R")]
-[name="贝娜"]......
+[name="贝娜"]……
 [charslot(slot = "L", name = "char_338_iris#4", focus="L")]
 [name="爱丽丝"]不过，你没有发现吗？
 [charslot(slot = "L", name = "char_338_iris#4", focus="L")]
@@ -462,7 +462,7 @@
 [charslot(slot = "L", name = "char_338_iris#2", focus="L")]
 [name="爱丽丝"]因为“仙女”总能带来奇迹，哪怕他认为这并不是因为童话。
 [charslot(slot = "L", name = "char_338_iris#2", focus="L")]
-[name="爱丽丝"]但只要于里安能相信，只要于里安能有一个“完美的生日”......
+[name="爱丽丝"]但只要于里安能相信，只要于里安能有一个“完美的生日”……
 [charslot(slot = "L", name = "char_338_iris#2", focus="L")]
 [name="爱丽丝"]他就可以接受。
 [charslot(slot = "R", name = "avg_npc_151#4", focus="R")]
@@ -480,7 +480,7 @@
 [dialog]
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
 [delay(time=1)]
-[name="爱丽丝"]如果雷蒙德真的想干坏事......
+[name="爱丽丝"]如果雷蒙德真的想干坏事……
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_151#4")]
@@ -497,7 +497,7 @@
 [playMusic(intro="$plot_intro",key="$plot_loop", volume=0.4)]
 [PlaySound(key="$d_avg_snowstormlp", volume=1, loop=true, channel="bgs")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [name="雷蒙德"]你们可真是一刻都不愿意等。
 [dialog]
 [charslot]
@@ -511,7 +511,7 @@
 [name="粗暴的佣兵"]拿出来吧，这次都有些什么好东西？
 [dialog]
 [charslot]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [name="雷蒙德"]等一下。
 [dialog]
 [charslot]
@@ -540,7 +540,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [name="雷蒙德"]我的钱呢？
 [dialog]
 [charslot(slot = "M", name = "avg_npc_008")]
@@ -550,12 +550,12 @@
 [PlaySound(key="$d_avg_coin", volume=1)]
 [delay(time=2)]
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_151#4", duration = 2)]
 [delay(time=2)]
-[name="贝娜"]真是......
+[name="贝娜"]真是……
 [charslot(slot = "M", name = "avg_npc_151#3")]
 [name="贝娜"]一群坏孩子。
 [charslot(slot = "M", name = "avg_npc_007")]
@@ -587,7 +587,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "M", name = "char_338_iris#1", duration = 1)]
 [delay(time=1)]
-[name="爱丽丝"]奇怪......于里安的房间离其他孩子的都很远。
+[name="爱丽丝"]奇怪……于里安的房间离其他孩子的都很远。
 [charslot(slot = "M", name = "char_338_iris#1")]
 [name="爱丽丝"]甚至不在一个楼层。
 [charslot(slot = "M", name = "char_338_iris#3")]
@@ -604,7 +604,7 @@
 [charslot(slot = "M", name = "char_338_iris#4")]
 [multiline(name="爱丽丝")]这是所有孩子的合照吗？
 [charslot(slot = "M", name = "char_338_iris#1")]
-[multiline(name="爱丽丝",end=true)]一......二......
+[multiline(name="爱丽丝",end=true)]一……二……
 [dialog]
 [delay(time=1.5)]
 [charslot(slot = "M", name = "char_338_iris#3")]
@@ -636,7 +636,7 @@
 [delay(time=3)]
 [charslot]
 [name="于里安"]无人回答，无人照看，牧人将驮兽留在了荒野上~♪
-[name="于里安"]不要沮丧，不要忧伤......
+[name="于里安"]不要沮丧，不要忧伤……
 [dialog]
 [charslot(slot = "M", name = "avg_npc_242", duration=1)]
 [PlaySound(key="$d_avg_chairrub", volume=1)]
@@ -650,7 +650,7 @@
 [delay(time=1.5)]
 [charslot]
 [PlayMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
-锈蚀的银色茶壶，褪色的积木方块......
+锈蚀的银色茶壶，褪色的积木方块……
 这些毫无生命的物品却一个个被于里安赋予了名字。
 在于里安模糊的意识中，它们就是曾经的玩伴。
 [dialog]
@@ -673,10 +673,10 @@
 [name="于里安"]不能弄乱！
 [charslot(slot = "R", name = "char_338_iris#4", focus="none")]
 [charslot(slot = "L", name = "avg_npc_242", posfrom = "0,0", posto = "-100,0", afrom=1, ato=1, duration = 0.5)]
-[multiline(name="于里安")]勺子，刀......
+[multiline(name="于里安")]勺子，刀……
 [charslot(slot = "R", name = "char_338_iris#4", focus="none")]
 [charslot(slot = "L", name = "avg_npc_242", posfrom = "-100,0", posto = "100,0", afrom=1, ato=1, duration = 1)]
-[multiline(name="于里安", end=true)]叉子，叉子......
+[multiline(name="于里安", end=true)]叉子，叉子……
 [charslot(slot = "R", name = "char_338_iris#5", focus="R")]
 [name="爱丽丝"]啊，真是对不起呢。
 [dialog]
@@ -689,7 +689,7 @@
 [charslot(slot = "R", name = "char_338_iris#2", focus="R")]
 [name="爱丽丝"]好了，这下整齐了哦。
 [charslot(slot = "L", focus="L")]
-[name="于里安"]嗯......不能弄乱......
+[name="于里安"]嗯……不能弄乱……
 [charslot(slot = "R", name = "char_338_iris#2", focus="R")]
 [name="爱丽丝"]还记得我吗？
 [charslot(slot = "L", focus="L")]
@@ -704,9 +704,9 @@
 [charslot(slot = "L", posfrom = "0,0", posto = "-100,0",duration = 0.5)]
 [delay(time=1)]
 [charslot(slot = "L", focus="L")]
-[name="于里安"]......于里安，不能接触。
+[name="于里安"]……于里安，不能接触。
 [charslot(slot = "R", name = "char_338_iris#1", focus="R")]
-[name="爱丽丝"]......
+[name="爱丽丝"]……
 [dialog]
 [charslot(slot = "L", posfrom = "-100,0", posto = "-300,0", afrom=1, ato=0, duration = 1)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -714,7 +714,7 @@
 [charslot(slot = "R", name = "char_338_iris#1", focus="R")]
 [name="爱丽丝"]真是的，这样对待专程而来的仙女，可是非常无礼的哦。
 [charslot(slot = "R", name = "char_338_iris#3", focus="R")]
-[name="爱丽丝"]既然这样......
+[name="爱丽丝"]既然这样……
 [PlaySound(key="$d_avg_magic_4", volume=1)]
 [dialog]
 [charslot(slot = "R", name = "char_338_iris#1", focus="R")]
@@ -730,7 +730,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.2, r=1, g=1, b=1, fadetime=1, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.3, block=true)]
-[name="于里安"]啊......
+[name="于里安"]啊……
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]火呀灯呀，引着走呀~♪
 [name="爱丽丝"]请来我们的小小茶会吧~♪
@@ -757,14 +757,14 @@
 [charslot(slot = "R", name = "char_338_iris#2")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [charslot(slot = "L", focus = "L")]
-[name="于里安"]......
+[name="于里安"]……
 [name="于里安"]很漂亮，好看！
 [charslot(slot = "R", name = "char_338_iris#2", focus = "R")]
 [name="爱丽丝"]可不是每一个孩子都能这么幸运见到仙女的魔法。
 [charslot(slot = "R", name = "char_338_iris#2", focus = "R")]
 [name="爱丽丝"]所以你一定是非常特别的一个。
 [charslot(slot = "L", focus = "L")]
-[name="于里安"]仙女，新的朋友......
+[name="于里安"]仙女，新的朋友……
 [charslot(slot = "R", name = "char_338_iris#2", focus = "R")]
 [name="爱丽丝"]仙女当然是朋友啦。
 [charslot(slot = "L", focus = "L")]
@@ -778,7 +778,7 @@
 [charslot(slot = "R", name = "char_338_iris#2", focus = "R")]
 [name="爱丽丝"]骗人是钳兽。
 [charslot(slot = "L", focus = "L")]
-[name="于里安"]......
+[name="于里安"]……
 [name="于里安"]奥德蕾，这是，爱说话的。
 [name="于里安"]皮维，经常一起玩，朋友。
 [name="于里安"]让内，生气，声音大。
@@ -795,15 +795,15 @@
 [charslot(slot = "R", name = "char_338_iris#2", focus = "R")]
 [name="爱丽丝"]骗人是钳兽哦。
 [charslot(slot = "L", focus = "L")]
-[name="于里安"]......
+[name="于里安"]……
 [charslot(slot = "L", focus = "L")]
 [name="于里安"]嗯，骗人是钳兽！
 [charslot(slot = "R", name = "char_338_iris#2", focus = "R")]
-[name="爱丽丝"]那......
+[name="爱丽丝"]那……
 [charslot(slot = "R", name = "char_338_iris#4", focus = "R")]
 [name="爱丽丝"]雷蒙德，叔叔，他是什么人？
 [charslot(slot = "L", focus = "L")]
-[name="于里安"]......叔叔，一直照顾于里安，照顾大家。
+[name="于里安"]……叔叔，一直照顾于里安，照顾大家。
 [dialog]
 [charslot(slot = "R", name = "char_338_iris#1", focus = "R")]
 [delay(time=1)]
@@ -811,16 +811,16 @@
 [charslot(slot = "L", focus = "L")]
 [name="于里安"]叔叔，会不见。
 [charslot(slot = "L", focus = "L")]
-[name="于里安"]我是......坏人，伤害叔叔。
+[name="于里安"]我是……坏人，伤害叔叔。
 [charslot(slot = "R", name = "char_338_iris#4", focus = "R")]
 [name="爱丽丝"]你的朋友，其他孩子，去哪里了？
 [charslot(slot = "L", focus = "L")]
-[name="于里安"]......
+[name="于里安"]……
 [charslot(slot = "L", focus = "L")]
 [name="于里安"]朋友，朋友都不见了。
 [stopmusic(fadetime=2)]
 [charslot(slot = "R", name = "char_338_iris#3", focus = "R")]
-[name="爱丽丝"]......
+[name="爱丽丝"]……
 [charslot(slot = "L", focus = "L")]
 [name="于里安"]于里安伤害了朋友！不见了！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -863,7 +863,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]叔叔......
+[name="于里安"]叔叔……
 [charslot(slot = "R", posfrom = "300,0", posto = "0,0", duration = 0)]
 [charslot(slot = "M", posfrom = "300,0", posto = "0,0", duration = 0)]
 [charslot(slot = "R", name = "avg_npc_151#4", focus="none")]
@@ -876,7 +876,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]紫颜色的......坏人。
+[name="于里安"]紫颜色的……坏人。
 [dialog]
 [charslot(slot = "M", posfrom = "0,0", posto = "300,0", afrom=1, ato=0, duration = 0.5)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -1027,7 +1027,7 @@
 [charslot(slot = "M", name = "char_338_iris#3")]
 [name="爱丽丝"]（可能就在你每次卖出去的货物里。）
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]（不可能？！我卖的那些......）
+[name="雷蒙德"]（不可能？！我卖的那些……）
 [charslot(slot = "M", name = "char_338_iris#5")]
 [name="爱丽丝"]（于里安对朋友的思念和渴望。）
 [charslot(slot = "M", name = "char_338_iris#5")]
@@ -1049,16 +1049,16 @@
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]怎么样？
 [charslot]
-[name="医生"]嗯......很不幸，他已经感染了。
+[name="医生"]嗯……很不幸，他已经感染了。
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]怎么会？明明其他孩子都没有事。
 [name="雷蒙德"]感染程度呢？严重吗？
 [charslot]
 [name="医生"]不管严不严重都不是你要担心的，你现在该考虑的是自己。
-[name="医生"]如果......被发现你这里有一个感染者，不光是法律上的问题......
+[name="医生"]如果……被发现你这里有一个感染者，不光是法律上的问题……
 [name="医生"]其他的孩子，都会有危险。
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Background(image="bg_manorgate",screenadapt="coverall")]
@@ -1068,7 +1068,7 @@
 [name="于里安"]叔叔，出门？出门！
 [name="于里安"]我，我拿东西，这些行李。
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [name="雷蒙德"]于里安，你跟我来。
 [dialog]
 [StopSound(channel="bgs", fadetime=2)]
@@ -1081,14 +1081,14 @@
 [charslot(slot = "R", name = "avg_npc_240", duration=2)]
 [delay(time=2)]
 [charslot(slot = "L", focus = "L")]
-[name="雷蒙德"]以后你搬到这一层，叔叔......更方便照顾你。
+[name="雷蒙德"]以后你搬到这一层，叔叔……更方便照顾你。
 [charslot(slot = "L", focus = "R")]
-[name="于里安"]可是......
+[name="于里安"]可是……
 [charslot(slot = "L", focus = "L")]
 [name="雷蒙德"]你要下楼之前，跟我说。
 [name="雷蒙德"]你要想去玩，我陪你。
 [charslot(slot = "L", focus = "R")]
-[name="于里安"]可是......
+[name="于里安"]可是……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "L", focus = "L")]
 [name="雷蒙德"]没有可是！
@@ -1108,9 +1108,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [PlaySound(key="$blooddrop", volume=1)]
 [delay(time=2)]
-[Subtitle(text="血......叔叔，你有血。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="血……叔叔，你有血。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="是我做错，做错事吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="对不起......于里安，是坏孩子。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="对不起……于里安，是坏孩子。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle]
 [musicvolume(volume=0.2, fadetime=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -1126,7 +1126,7 @@
 [charslot(slot = "L", name = "char_338_iris#1", focus="L")]
 [name="爱丽丝"]他找不见朋友的时候，会伤心，会着急。
 [charslot(slot = "R", name = "avg_npc_081", focus="R")]
-[name="雷蒙德"]我......我以为就是东西找不到了。
+[name="雷蒙德"]我……我以为就是东西找不到了。
 [charslot(slot = "R", name = "avg_npc_081", focus="R")]
 [name="雷蒙德"]我想他就是自己无聊，才去跟那些东西自言自语。
 [charslot(slot = "L", name = "char_338_iris#3", focus="L")]
@@ -1134,49 +1134,49 @@
 [charslot(slot = "L", name = "char_338_iris#3", focus="L")]
 [name="爱丽丝"]在你把所有人都从他身边赶走以后，于里安珍贵的朋友。
 [charslot(slot = "R", name = "avg_npc_081", focus="R")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [dialog]
 [charslot]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......够了！
+[name="雷蒙德"]……够了！
 [name="雷蒙德"]我能怎么办？
-[name="雷蒙德"]一个贵族混成我这样......呵呵呵......
+[name="雷蒙德"]一个贵族混成我这样……呵呵呵……
 [name="雷蒙德"]除了我，恐怕也没有人会要于里安的。
-[name="雷蒙德"]可我是真的没钱了......只能卖了值钱的东西过日子。
+[name="雷蒙德"]可我是真的没钱了……只能卖了值钱的东西过日子。
 [charslot(slot = "M", name = "char_338_iris#5")]
-[name="爱丽丝"]雷蒙德......
+[name="爱丽丝"]雷蒙德……
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]我没有办法！没有！
-[name="雷蒙德"]矿石病我不懂......我怕会传染给其他孩子。
+[name="雷蒙德"]矿石病我不懂……我怕会传染给其他孩子。
 [dialog]
 [delay(time=1)]
-[name="雷蒙德"]但我......我不能把于里安丢掉。
-[name="雷蒙德"]我......
+[name="雷蒙德"]但我……我不能把于里安丢掉。
+[name="雷蒙德"]我……
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]伤害......朋友......
+[name="于里安"]伤害……朋友……
 [charslot(slot = "M", name = "avg_npc_242")]
 [name="于里安"]靠近会伤害。
 [charslot(slot = "M", name = "avg_npc_242")]
 [name="于里安"]叔叔，是好人。
 [charslot(slot = "M", name = "char_338_iris#5")]
-[name="爱丽丝"]......
+[name="爱丽丝"]……
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]对不起......我知道你们也是好心。
+[name="雷蒙德"]对不起……我知道你们也是好心。
 [name="雷蒙德"]你们真的很专业。
 [name="雷蒙德"]可假的终究是假的。
 [dialog]
 [charslot(slot = "M", name = "avg_npc_242")]
 [delay(time=1)]
-[name="于里安"]假的......
-[name="于里安"]朋友......找不到吗？
+[name="于里安"]假的……
+[name="于里安"]朋友……找不到吗？
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [name="雷蒙德"]现在已经用不着装下去了，那些卖东西的钱你们都拿上。
 [name="雷蒙德"]万一被感染了我就真赔不起了，快走吧。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]仙女......蓝颜色，是假的？
+[name="于里安"]仙女……蓝颜色，是假的？
 [dialog]
 [charslot(slot = "R", name = "avg_npc_081", duration=1)]
 [charslot(slot = "R", posfrom = "300,0", posto = "150,0",duration = 1)]
@@ -1188,7 +1188,7 @@
 [delay(time=1)]
 [charslot(slot = "R", posfrom = "150,0", posto = "50,0",duration = 1, isblock=true)]
 [charslot(slot = "R", focus="R")]
-[name="雷蒙德"]我本想......
+[name="雷蒙德"]我本想……
 [dialog]
 [charslot(slot = "R", focus="all")]
 [delay(time=0.5)]
@@ -1222,8 +1222,8 @@
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]你要去哪里？！
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]离开......于里安要离开。
-[name="于里安"]所以......奥德蕾，皮维，他们......会回来。
+[name="于里安"]离开……于里安要离开。
+[name="于里安"]所以……奥德蕾，皮维，他们……会回来。
 [name="于里安"]于里安离开。
 [dialog]
 [CameraShake(duration=1, xstrength=60, ystrength=60, vibrato=30, randomness=90, fadeout=true)]
@@ -1292,12 +1292,12 @@
 [name="于里安"]这是哪里？
 [name="爱丽丝"]不要怕，我在你身边。
 [name="爱丽丝"]蓝颜色。
-[name="于里安"]......
+[name="于里安"]……
 [name="爱丽丝"]现在拉住你的人，受伤了吗？
-[name="于里安"]手......蓝颜色......不像蓝颜色。
+[name="于里安"]手……蓝颜色……不像蓝颜色。
 [name="爱丽丝"]你回答我，受伤了吗？
-[name="于里安"]没有......很温暖。
-[name="于里安"]握得很紧......于里安能感受，到跳动。
+[name="于里安"]没有……很温暖。
+[name="于里安"]握得很紧……于里安能感受，到跳动。
 [dialog]
 [PlaySound(key="$d_gen_heartbeat", volume=0.8, loop=true, channel="HB")]
 [delay(time=3)]
@@ -1317,9 +1317,9 @@
 [PlayMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [charslot(slot = "M", name = "avg_npc_242", focus="M")]
-[name="于里安"]......
+[name="于里安"]……
 [charslot(slot = "L", name = "avg_npc_081", focus="L")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "char_338_iris#2")]
@@ -1329,12 +1329,12 @@
 [charslot(slot = "L", posfrom = "0,0", posto = "50,0",duration = 0)]
 [charslot(slot = "M", name = "avg_npc_242", focus="none")]
 [charslot(slot = "L", name = "avg_npc_081", focus="L")]
-[name="雷蒙德"]咳咳......
+[name="雷蒙德"]咳咳……
 [dialog]
 [charslot(slot = "L", posfrom = "50,0", posto = "0,0",duration = 1)]
 [delay(time=1)]
 [charslot(slot = "L", name = "avg_npc_081", focus="L")]
-[name="雷蒙德"]有点......不好意思。
+[name="雷蒙德"]有点……不好意思。
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "char_338_iris#5")]
@@ -1346,7 +1346,7 @@
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]是最纯净的天空。
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]可是......于里安的朋友。
+[name="于里安"]可是……于里安的朋友。
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]记得你向我许下的愿望吗？
 [charslot(slot = "M", name = "char_338_iris#2")]
@@ -1354,7 +1354,7 @@
 [charslot(slot = "M", name = "char_338_iris#2")]
 [name="爱丽丝"]约定好了就决不可违反。
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [dialog]
 [charslot]
 [charslot(slot = "R", name = "char_338_iris#1", focus="R")]
@@ -1369,9 +1369,9 @@
 [charslot(slot = "R", name = "char_338_iris#5", focus="R")]
 [name="爱丽丝"]可你偏偏忘了最重要的一件事。
 [charslot(slot = "L", name = "avg_npc_081", focus="L")]
-[name="雷蒙德"]我......我忘了什么？
+[name="雷蒙德"]我……我忘了什么？
 [charslot(slot = "R", name = "char_338_iris#5", focus="R")]
-[name="爱丽丝"]唉......真是固执、盲目的大人。
+[name="爱丽丝"]唉……真是固执、盲目的大人。
 [charslot(slot = "R", name = "char_338_iris#5", focus="R")]
 [name="爱丽丝"]难怪很长时间都没有成年人能找到通往梦城堡的路了。
 [charslot(slot = "R", name = "char_338_iris#4", focus="R")]
@@ -1395,7 +1395,7 @@
 [charslot(slot = "M", name = "char_338_iris#5")]
 [name="爱丽丝"]这本该是一个童话故事的结尾。
 [charslot(slot = "M", name = "avg_npc_081")]
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [name="雷蒙德"]嗯。
 [charslot(slot = "M", name = "char_338_iris#5")]
 [name="爱丽丝"]可只是拥有一座城堡的话，又算得了什么结局呢？
@@ -1405,7 +1405,7 @@
 [name="爱丽丝"]残暴的君主刻意将城堡里的每一个人变为奴隶。
 [charslot(slot = "M", name = "avg_npc_081")]
 [name="雷蒙德"]最重要的，是城堡里将会发生什么样的故事。
-[name="雷蒙德"]......
+[name="雷蒙德"]……
 [dialog]
 [charslot]
 [charslot(slot = "R", name = "char_338_iris#1", focus="R")]
@@ -1445,7 +1445,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "M", name = "avg_npc_242")]
-[name="于里安"]蓝颜色......爱丽丝，蓝颜色叫爱丽丝。
+[name="于里安"]蓝颜色……爱丽丝，蓝颜色叫爱丽丝。
 [name="于里安"]是仙女，对吗？
 [name="于里安"]是，真的是吗？
 [dialog]

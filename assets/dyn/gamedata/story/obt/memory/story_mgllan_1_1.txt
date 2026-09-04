@@ -30,7 +30,7 @@
 [delay(time=1.5)]
 [name="麦哲伦"]从这里开始就是冰原的范围了，这条路我已经走过不少次了，但每一次心情都不一样啊，这次最激动！
 [name="麦哲伦"]检查一下机械车的动力装置还能坚持多久，唔，不错，还没有结冰，工程科很厉害嘛，说不定待会儿用来爬山也做得到？
-[name="麦哲伦"]还有物资也再检查一下......嗯，没问题，一切准备就绪！
+[name="麦哲伦"]还有物资也再检查一下……嗯，没问题，一切准备就绪！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -80,7 +80,7 @@
 [Character(name="avg_248_mgllan_1#10$1")]
 [name="麦哲伦"]哇啊！！难道我又遇见鬼了？
 [Character(name="avg_378_asbest_1#1$1",blackstart=0.2,blackend=0.7)]
-[name="？？？"]......
+[name="？？？"]……
 [Character(name="avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]谁、谁啊？
 [Character(name="avg_378_asbest_1#3$1")]
@@ -90,7 +90,7 @@
 [Character(name="avg_npc_090")]
 [name="办事处干员"]您是？
 [Character(name="avg_248_mgllan_1#1$1")]
-[name="麦哲伦"]您好！我是......
+[name="麦哲伦"]您好！我是……
 [Character(name="avg_378_asbest_1#1$1")]
 [name="石棉"]这小子不放心我一个人走，自作主张跟着，差点被冻死，我送他回去。
 [Character(name="avg_npc_090")]
@@ -101,7 +101,7 @@
 [Character(name="avg_378_asbest_1#1$1")]
 [name="石棉"]行了，到这里你也认路了，回去吧，别烦我，我和她一起走。
 [Character(name="avg_npc_090")]
-[name="办事处干员"]可是......
+[name="办事处干员"]可是……
 [Character(name="avg_248_mgllan_1#8$1")]
 [name="麦哲伦"]巴德先生，我是莱茵生命驻罗德岛的干员，我叫麦哲伦，您看，这是我的工牌。
 [name="麦哲伦"]我这次任务由莱茵生命规划，所携带的物资完全足够再带上一个人，还包括治疗感染者的药品，我有能力保证石棉干员的安全。
@@ -128,11 +128,11 @@
 [name="麦哲伦"]哼哼，这次任务能和自己认识的人一起，好棒呀。
 [name="麦哲伦"]但是你真的原本就打算来冰原吗？你的物资够不够？如果你只是想甩开他才跟着我来，我肯定会立马把你送回去的！
 [Character(name="avg_248_mgllan_1#8$1",name2="avg_378_asbest_1#1$1",focus=2)]
-[name="石棉"]......你还是把我送回去吧。
+[name="石棉"]……你还是把我送回去吧。
 [Character(name="avg_248_mgllan_1#4$1",name2="avg_378_asbest_1#1$1",focus=1)]
 [name="麦哲伦"]欸？！
 [Character(name="avg_248_mgllan_1#4$1",name2="avg_378_asbest_1#6$1",focus=2)]
-[name="石棉"]啧......算了。
+[name="石棉"]啧……算了。
 [name="石棉"]我本来就打算来冰原，不过和你比起来准备得肯定不够。
 [name="石棉"]我在哥伦比亚刚结束一次探险，原本想要回本舰，但药物不够，就先完成了办事处的任务换了一些。
 [Character(name="avg_248_mgllan_1#4$1",name2="avg_378_asbest_1#1$1",focus=2)]
@@ -157,7 +157,7 @@
 [characteraction(name="right", type="move", xpos=60, fadetime=2,block=true)]
 [delay(time=1.5)]
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#1$1",focus=2)]
-[name="石棉"]......
+[name="石棉"]……
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#1$1",focus=1)]
 [name="麦哲伦"]石棉，你要去哪？按照路线我们应该继续往北走才对啊。
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#1$1",focus=2)]
@@ -291,9 +291,9 @@
 [Character(name="avg_248_mgllan_1#6$1",name2="avg_378_asbest_1#1$1",focus=1)]
 [name="麦哲伦"]呼、呼，我们没事就好，你刚才为什么想解开保险绳！
 [Character(name="avg_248_mgllan_1#6$1",name2="avg_378_asbest_1#1$1",focus=2)]
-[name="石棉"]......
+[name="石棉"]……
 [Character(name="avg_248_mgllan_1#6$1",name2="avg_378_asbest_1#1$1",focus=1)]
-[name="麦哲伦"]我们有无人机可以救援，绝对不要松开绳子！让我在这里做一个标记，以后有人再来，就能注意到......
+[name="麦哲伦"]我们有无人机可以救援，绝对不要松开绳子！让我在这里做一个标记，以后有人再来，就能注意到……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -303,7 +303,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 一个月过去。
-麦哲伦看过无数的资料，人们对于冰原有无尽的想象：财富、预言、权力......但她心里只有自己儿时的那个梦想，那首歌谣的故事。
+麦哲伦看过无数的资料，人们对于冰原有无尽的想象：财富、预言、权力……但她心里只有自己儿时的那个梦想，那首歌谣的故事。
 冰原在她们脚下从无边无际变成了可拆分的一步一步，是每一瞬间确认发生的胜利。
 但冰原仍旧看不到尽头，它藏在苍茫的白雪里，一场雪崩就能随时带走任何人的生命。
 冰原被属于人类的脚掌踩出痕迹，而后又覆上新的雪花，但人类仍旧固执地前行着。
@@ -315,15 +315,15 @@
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#6$1",focus=2)]
 [name="石棉"]嗯，我们探险家小姐的梦想真的很美好。
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#3$1",focus=2)]
-[name="石棉"]......你说的巨石是这个吗？
+[name="石棉"]……你说的巨石是这个吗？
 [Character(name="avg_248_mgllan_1#8$1",name2="avg_378_asbest_1#3$1",focus=1)]
 [name="麦哲伦"]嗯！比想象的还要大，这种大小的冰晶都少见，这么大块的石头能保存下来，是奇迹呀。
 [Character(name="avg_248_mgllan_1#8$1",name2="avg_378_asbest_1#3$1",focus=2)]
-[name="石棉"]......石头上面刻了字，是名字简称？
+[name="石棉"]……石头上面刻了字，是名字简称？
 [Character(name="avg_248_mgllan_1#6$1",name2="avg_378_asbest_1#3$1",focus=1)]
 [name="麦哲伦"]这里有人刻字？随意留下什么记号，不仅会破坏岩石样本，还是对自然的亵渎，这做得也太不对了！
 [Character(name="avg_248_mgllan_1#4$1",name2="avg_378_asbest_1#3$1",focus=1)]
-[name="麦哲伦"]可我并没有听说上次冰原登陆之后还有哪位探险者到过这里......不对？
+[name="麦哲伦"]可我并没有听说上次冰原登陆之后还有哪位探险者到过这里……不对？
 [Dialog]
 [Character]
 [Delay(time=0.51)]
@@ -331,10 +331,10 @@
 [Delay(time=1.5)]
 麦哲伦绕到巨石后，躲在背风处，仔细地观察着巨石上的刻字。
 [Character(name="avg_248_mgllan_1#7$1",name2="avg_378_asbest_1#3$1",focus=1)]
-[name="麦哲伦"]这些名字缩写......我好像在资料上看到过......
-[name="麦哲伦"]是......？
+[name="麦哲伦"]这些名字缩写……我好像在资料上看到过……
+[name="麦哲伦"]是……？
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#3$1",focus=1)]
-[name="麦哲伦"]......石棉，这片雪地下面可能埋着几位老前辈。
+[name="麦哲伦"]……石棉，这片雪地下面可能埋着几位老前辈。
 [Dialog]
 [Character]
 [Delay(time=0.51)]
@@ -346,8 +346,8 @@
 渐渐地，雪下露出了一个僵硬的衣领，一具完整的尸体，接着是第二具、第三具。在石棉加入帮忙后不久，四具尸体静静地躺在雪地上。
 [Dialog]
 [Character(name="avg_248_mgllan_1#5$1",name2="avg_378_asbest_1#3$1",focus=1)]
-[name="麦哲伦"]......我听莱茵生命的前辈们讲过，几十年前那批探险者都死在了冰原上，只是我没想到是在这里。
-[name="麦哲伦"]我们做不到把这些遗体都带回去......前辈们，让我为你们立个冢吧。冒犯了，这些遗物我会整理好带回去交给你们的家属的。
+[name="麦哲伦"]……我听莱茵生命的前辈们讲过，几十年前那批探险者都死在了冰原上，只是我没想到是在这里。
+[name="麦哲伦"]我们做不到把这些遗体都带回去……前辈们，让我为你们立个冢吧。冒犯了，这些遗物我会整理好带回去交给你们的家属的。
 [Dialog]
 [Character(name="avg_248_mgllan_1#5$1",name2="avg_378_asbest_1#3$1",focus=-1)]
 探险者们在雪下长眠几十年，面容还维持着年轻的样子。
@@ -363,7 +363,7 @@
 [Character(name="avg_248_mgllan_1#8$1",name2="avg_378_asbest_1#5$1",focus=1)]
 [name="麦哲伦"]为理想牺牲很伟大，石棉，但是有我在的话，我不会让任何一个同伴死去。
 [Character(name="avg_248_mgllan_1#8$1",name2="avg_378_asbest_1#6$1",focus=2)]
-[name="石棉"]嗯......
+[name="石棉"]嗯……
 [name="石棉"]风小了，我先去搭帐篷吧。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -386,14 +386,14 @@
 [name="麦哲伦"]“好了，我也该睡了，梅洛在几分钟前刚闭上眼睛。好可惜，我们还没来得及办婚礼，不过，雪花当婚纱也很美。”
 [name="麦哲伦"]“晚安，我的爱人。”
 [Character(name="avg_248_mgllan_1#1$1")]
-[name="麦哲伦"]梅洛前辈是哥伦比亚人，娅比盖尔前辈是谢拉格人，原来前辈们都是来自不同国家啊......
+[name="麦哲伦"]梅洛前辈是哥伦比亚人，娅比盖尔前辈是谢拉格人，原来前辈们都是来自不同国家啊……
 [Character(name="avg_248_mgllan_1#9$1")]
 [name="麦哲伦"]能有这样一支小队，也是我一直以来梦想的一件事情，前辈们真的好了不起。
 [Dialog]
 [PlaySound(key="$d_avg_paper2", volume=1)]
 [delay(time=1)]
 [Character(name="avg_248_mgllan_1#4$1")]
-[name="麦哲伦"]扉页上还写着什么......
+[name="麦哲伦"]扉页上还写着什么……
 [Character(name="avg_248_mgllan_1#1$1")]
 [name="麦哲伦"]“一望无际的雪原啊，开着无名的花。”
 [name="麦哲伦"]“我的朋友留在那里，看着雪落下。”
@@ -421,9 +421,9 @@
 [Character(name="avg_378_asbest_1#1$1")]
 [name="石棉"]你的终端一直在响，嗞啦嗞啦的，我忍了它很久了。
 [Character(name="avg_248_mgllan_1#10$1")]
-[name="麦哲伦"]终端？这里早就没有信号了，它为什么突然有反应？我看看......
-[name="麦哲伦"]......
-[name="麦哲伦"]它，好像真的在接收什么东西......？
+[name="麦哲伦"]终端？这里早就没有信号了，它为什么突然有反应？我看看……
+[name="麦哲伦"]……
+[name="麦哲伦"]它，好像真的在接收什么东西……？
 [playMusic(intro="$warm_intro", key="$warm_loop", volume=0.4)]
 [Character(name="avg_248_mgllan_1#10$1",focus=-1)]
 [name="终端"]麦麦，照片&%我收到了#@谢谢你.极光a#&很美很#￥震撼抱歉我找*%不到更好@%%的词汇了我还看#@
@@ -431,7 +431,7 @@
 [name="麦哲伦"]我之前探索冰原给极光发了很多照片，这是，她发给我的回复？
 [Character(name="avg_248_mgllan_1#4$1")]
 [name="麦哲伦"]哇？在这里是怎么收到的？这里这里这里和罗德岛隔了多远啊！
-[name="麦哲伦"]......简直是奇迹！
+[name="麦哲伦"]……简直是奇迹！
 [Character(name="avg_378_asbest_1#1$1")]
 [name="石棉"]极光那小丫头我见过，是那个乌萨斯？
 [Character(name="avg_248_mgllan_1#8$1")]
@@ -461,23 +461,23 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#7$1",focus=1)]
-[name="麦哲伦"]......
+[name="麦哲伦"]……
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#7$1",focus=2)]
-[name="石棉"]......
+[name="石棉"]……
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#7$1",focus=1)]
 [name="麦哲伦"]我好像要消化不良了。
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#7$1",focus=2)]
 [name="石棉"]我一直吃不惯这个。
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#7$1",focus=1)]
-[name="麦哲伦"]好腻啊！谢拉格人平时就吃这种东西吗，在哥伦比亚每次只用一点点奶酪放进汉堡里就刚刚好了......
+[name="麦哲伦"]好腻啊！谢拉格人平时就吃这种东西吗，在哥伦比亚每次只用一点点奶酪放进汉堡里就刚刚好了……
 [Character(name="avg_248_mgllan_1#1$1",name2="avg_378_asbest_1#1$1",focus=2)]
 [name="石棉"]我吃自己带来的东西了。
 [Character(name="avg_248_mgllan_1#5$1",name2="avg_378_asbest_1#1$1",focus=1)]
-[name="麦哲伦"]呜呜呜，我一个人吃不完这么多......
+[name="麦哲伦"]呜呜呜，我一个人吃不完这么多……
 [Character(name="avg_248_mgllan_1#5$1",name2="avg_378_asbest_1#1$1",focus=2)]
 [name="石棉"]雷姆必拓人拒绝这个东西。我去看看还能往北走多远。
 [Character(name="avg_248_mgllan_1#5$1",name2="avg_378_asbest_1#1$1",focus=1)]
-[name="麦哲伦"]呜呜......
+[name="麦哲伦"]呜呜……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -506,7 +506,7 @@
 [name="麦哲伦"]第九十二日，新机器在这里运行状态稳定，无人机已完成修复工作。
 [name="麦哲伦"]试图继续往北推进，鉴于天气恶劣，未达到预定目标，在极限处留下了记号，再往前有大量冰川裂缝，暂时无法前进。
 [name="麦哲伦"]前辈们遗留的目标地点，大部分已完成考察，其中发现少量遗迹，已完成样本收集，其余目标地点现阶段无法前往，已做好记号。
-[name="麦哲伦"]最新发现是......
+[name="麦哲伦"]最新发现是……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -532,7 +532,7 @@
 [Character(name="avg_248_mgllan_1#8$1")]
 [name="麦哲伦"]我也不会后悔。
 [Character(name="avg_248_mgllan_1#9$1")]
-[name="麦哲伦"]......该回去啦。
+[name="麦哲伦"]……该回去啦。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -542,7 +542,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_529_1#1$1",name2="avg_248_mgllan_1#1$1",focus=2)]
-[name="麦哲伦"]原来那次只有队长回来了啊......
+[name="麦哲伦"]原来那次只有队长回来了啊……
 [Character(name="avg_npc_529_1#1$1",name2="avg_248_mgllan_1#1$1",focus=1)]
 [name="研究员"]嗯，队长叫皮尔里，他带回来的数据为当时的探险事业带来了很大的助力，不少人认为是他迈出了征服冰原的第一步。
 [name="研究员"]你把他们的遗物带回来，虽然里面的数据对现在来说可能用处不大了，但还是很有意义。
@@ -550,9 +550,9 @@
 [name="研究员"]往高抬这群人，对政府和莱茵生命来说可是双赢，而且虽然这回仍旧没能到达极北最远处，但莱茵生命再次突破极限这个消息传出去了。
 [name="研究员"]这样一来，好名声和好项目都更容易拿到手，你做得很棒呀，麦哲伦。
 [Character(name="avg_npc_529_1#1$1",name2="avg_248_mgllan_1#7$1",focus=2)]
-[name="麦哲伦"]......
+[name="麦哲伦"]……
 [Character(name="avg_npc_529_1#1$1",name2="avg_248_mgllan_1#8$1",focus=2)]
-[name="麦哲伦"]波利姐姐，我只是想实现自己的梦想......
+[name="麦哲伦"]波利姐姐，我只是想实现自己的梦想……
 [Character(name="avg_npc_529_1#1$1",name2="avg_248_mgllan_1#8$1",focus=1)]
 [name="研究员"]我当然知道，这也是我的梦想，不过，也是工作嘛。你做完这个，就好好享受一下假期吧~
 [Dialog]
@@ -567,12 +567,12 @@
 [name="麦哲伦"]妈妈，街口那个开花店的老爷爷呢？就是我小时候经常去的那家，老爷爷腿不太方便的那个？
 [name="麦哲伦"]而且，我刚去了之前那家糖饼店，味道真的是一点儿都没变呀。
 [Character(name="avg_248_mgllan_1#8$1",focus=-1)]
-[name="温柔的母亲"]那个老爷爷呀......几个月以前去世了，他的孩子正在打算转让花店。
+[name="温柔的母亲"]那个老爷爷呀……几个月以前去世了，他的孩子正在打算转让花店。
 [name="和善的父亲"]知道你肯定会问，我们已经专门帮你打听过了，老人留下了很多花种，还有他自己种的花，就在你小时候经常去玩的那片荒野上。
 [name="和善的父亲"]我去看过，开出了很大一片花田。
 [name="温柔的母亲"]宝贝，伤心也是可以的，不要忍着，晚饭后，你要去看看吗？
 [Character(name="avg_248_mgllan_1#5$1")]
-[name="麦哲伦"]......
+[name="麦哲伦"]……
 [name="麦哲伦"]嗯。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -583,21 +583,21 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_248_mgllan_1#1$1")]
-[name="麦哲伦"]原来在这里啊......花田，好漂亮。
-[name="麦哲伦"]这里还有一个石碑，是纪念老爷爷的吧......
+[name="麦哲伦"]原来在这里啊……花田，好漂亮。
+[name="麦哲伦"]这里还有一个石碑，是纪念老爷爷的吧……
 [name="麦哲伦"]“一望无际的雪原啊，开着无名的花。”
 [name="麦哲伦"]“我的朋友留在那里，看着雪落下。”
 [name="麦哲伦"]“我的一生结束在这里。——皮尔里”
 [Character(name="avg_248_mgllan_1#4$1")]
 [name="麦哲伦"]“皮尔里”？
-[name="麦哲伦"]啊......
+[name="麦哲伦"]啊……
 [Character(name="avg_248_mgllan_1#1$1")]
-[name="麦哲伦"]老前辈......您的队友我、我在冰原上遇见啦。
+[name="麦哲伦"]老前辈……您的队友我、我在冰原上遇见啦。
 [name="麦哲伦"]我上个月刚到了您那时到过的地方，我们还又往深处推进了八百多米呢。等下次去，我有信心能走得更远。
 [name="麦哲伦"]有个朋友和我一起去，我们只有两个人，还比不上您的队伍，但我还认识了很多新朋友，有一个叫作极光的，她对冰原也很感兴趣！
-[name="麦哲伦"]原来，原来......是这样啊，我小的时候听您唱的那首歌，对冰原感兴趣，我如今还到达了您和您队友都没能到达的地方......
+[name="麦哲伦"]原来，原来……是这样啊，我小的时候听您唱的那首歌，对冰原感兴趣，我如今还到达了您和您队友都没能到达的地方……
 [Character(name="avg_248_mgllan_1#8$1")]
-[name="麦哲伦"]谢谢您，老前辈，我......
+[name="麦哲伦"]谢谢您，老前辈，我……
 [Dialog]
 [Character]
 [PlaySound(key="$d_avg_clothmovement", volume=0.7)]
@@ -634,7 +634,7 @@
 [Delay(time=1)]
 [PlaySound(key="$d_avg_paper1", volume=1)]
 [Delay(time=1)]
-[name="唱歌的孩子"]哇......原来北边的冰原，是这样的地方啊！
+[name="唱歌的孩子"]哇……原来北边的冰原，是这样的地方啊！
 [name="唱歌的孩子"]让人向往。
 [Dialog]
 [stopmusic(fadetime=3)]

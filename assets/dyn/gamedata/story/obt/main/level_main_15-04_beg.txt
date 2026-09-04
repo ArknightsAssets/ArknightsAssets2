@@ -17,13 +17,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot="m",name="avg_npc_1719_1#1$1",duration=1)]
 [Delay(time=2)]
-[name="希尔达"]您问我，为什么与您首次思维共振时分享的言语是“死亡”......
+[name="希尔达"]您问我，为什么与您首次思维共振时分享的言语是“死亡”……
 [name="希尔达"]我也说不上来。
 [charslot(slot = "m", focus = "n")]
 在这个名为“罗德岛”的奇妙巨型舰船里，卡特斯几乎无法感知到时间的流逝。
 她为此而焦虑。从她成为感染者的那天起，“时间”对她而言便无比重要。
 时间会为她带来死亡，也赠与她解脱。
-......但生活在这奇妙的地方却又否认自己是“神明”的存在们，似乎对此毫不在意。
+……但生活在这奇妙的地方却又否认自己是“神明”的存在们，似乎对此毫不在意。
 [charslot(slot="m",name="avg_npc_1719_1#4$1")]
 [name="希尔达"]也许是我从来没有害怕过死去。“死亡”不过只是一种去往新环境的途径而已。
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
@@ -40,8 +40,8 @@
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
 [name="屈光者"]源石虫？矿井？
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
-[name="希尔达"]呃，源石虫是某种远比我还弱小的生物。而矿井......矿井也曾是我的家。
-[name="希尔达"]而工头没想到的是，矿井里最善良的那位工人会偷偷喂养那些被驱赶的源石虫，这反倒让更多的源石虫涌进了矿井......
+[name="希尔达"]呃，源石虫是某种远比我还弱小的生物。而矿井……矿井也曾是我的家。
+[name="希尔达"]而工头没想到的是，矿井里最善良的那位工人会偷偷喂养那些被驱赶的源石虫，这反倒让更多的源石虫涌进了矿井……
 [charslot(slot="m",name="avg_npc_1719_1#10$1")]
 [name="希尔达"]结果它们破坏了矿井的稳定，大地坍塌了。
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
@@ -55,17 +55,17 @@
 [charslot(slot="m",name="avg_npc_1719_1#9$1")]
 [name="希尔达"]并非如此！“大地保佑”在我们的语言中无比神圣——
 [charslot(slot="m",name="avg_npc_1725_1#1$1")]
-[name="屈光者"]嗯......你们似乎对生命的定义依旧单一。
+[name="屈光者"]嗯……你们似乎对生命的定义依旧单一。
 [charslot(slot="m",name="avg_npc_1719_1#10$1")]
-[name="希尔达"]我并不理解。您引导我见到了许多截然不同的个体......你们同样有着爱与恨，却又彼此之间具有如此之大的差异。
-[name="希尔达"]“在坟墓中打捞死亡”——你们以一个我无法理解的目标生活，团结在一起......
+[name="希尔达"]我并不理解。您引导我见到了许多截然不同的个体……你们同样有着爱与恨，却又彼此之间具有如此之大的差异。
+[name="希尔达"]“在坟墓中打捞死亡”——你们以一个我无法理解的目标生活，团结在一起……
 [charslot(slot = "m", focus = "n")]
 可我为何会来到这里？
 卡特斯如此想着，但直觉告诉她，答案就在向她伸出手的人那里。
 她透过舱室顶端的舷窗看向了无垠的冷寂深空。来自遥远巨大球体的光芒再一次掠过死亡的行星，刺痛着卡特斯的双眼。
 但模糊中，她从那炫目的光芒里看到了一个渺小的身影。
 [charslot(slot="m",name="avg_npc_1719_1#1$1")]
-[name="希尔达"]深空中......有人？
+[name="希尔达"]深空中……有人？
 [name="希尔达"]——是我要找的那个人吗？
 [charslot(slot = "m", focus = "n")]
 深空中的人似乎听到了卡特斯的声音，光芒中的黑影闪动了一下。
@@ -76,10 +76,10 @@
 [charslot]
 [Background(image="bg_black",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-一圈，两圈......那些小圆点在一片黑暗中转动着。
+一圈，两圈……那些小圆点在一片黑暗中转动着。
 它们越来越近，越来越快。
 它们将黑暗撕开了一个口子，光透过来，那道光明亮，炽热。
-我伸出手，拥抱它们......
+我伸出手，拥抱它们……
 [dialog]
 [PlaySound(key="$d_avg_medicalbeep",volume=0.6)]
 [Delay(time=1.5)]
@@ -99,7 +99,7 @@
 [Delay(time=2.5)]
 [bgeffect]
 [name="克洛伊"]华法琳医生？
-[name="克洛伊"]是我又睡着了吗......可能因为太困了。
+[name="克洛伊"]是我又睡着了吗……可能因为太困了。
 [charslot(slot = "m", name = "avg_171_bldsk_1#1$1")]
 [name="华法琳"]不要用力说话，你的咽喉也受到了损伤。
 [name="华法琳"]你只是感觉自己睡着了？
@@ -112,33 +112,33 @@
 [charslot(slot = "m", name = "avg_171_bldsk_1#1$1")]
 [name="华法琳"]没什么大碍，有梦到什么特别的东西吗？
 [charslot(slot = "m", name = "avg_npc_243")]
-[name="克洛伊"]特别的东西......说不上来。
-[name="克洛伊"]在梦里有许多的泥球在黑色的丝绒上绕着彼此转圈......
+[name="克洛伊"]特别的东西……说不上来。
+[name="克洛伊"]在梦里有许多的泥球在黑色的丝绒上绕着彼此转圈……
 [name="克洛伊"]它们忽大忽小，一会儿比孩子的弹珠还小，一会儿又好像比整个维多利亚还要大。
-[name="克洛伊"]有谁捡起了它们，把它们弹出去......一个撞上另一个，就像烟花一样炸开了，但是听不到一点声音。
+[name="克洛伊"]有谁捡起了它们，把它们弹出去……一个撞上另一个，就像烟花一样炸开了，但是听不到一点声音。
 [charslot(slot = "m", name = "avg_171_bldsk_1#1$1")]
-[name="华法琳"]......还有呢？
+[name="华法琳"]……还有呢？
 [charslot(slot = "m", name = "avg_npc_243")]
-[name="克洛伊"]我还看到，一根根线......从一个泥球到另一个，每根线都是由光做成的。每根线上，都有好多人，踩着光向外跑。
-[name="克洛伊"]我跟着他们，跑到一片白色的大地，空荡荡的......
+[name="克洛伊"]我还看到，一根根线……从一个泥球到另一个，每根线都是由光做成的。每根线上，都有好多人，踩着光向外跑。
+[name="克洛伊"]我跟着他们，跑到一片白色的大地，空荡荡的……
 [name="克洛伊"]只有一个孤零零的石碑树立在那里——
 [charslot(slot = "m", name = "avg_171_bldsk_1#1$1")]
 [name="华法琳"]石碑？上面有什么吗？
 [charslot(slot = "m", name = "avg_npc_243")]
-[name="克洛伊"]......什么也没有，华法琳医生，然后我就醒了。
+[name="克洛伊"]……什么也没有，华法琳医生，然后我就醒了。
 [charslot(slot = "m", name = "avg_171_bldsk_1#9$1")]
 [name="华法琳"]奇怪的梦，不过你记得很清楚，说明你大脑中的记忆模块还在正常工作。
 [name="华法琳"]梦越清晰，说明做梦的人也快醒了。对我来说，你还能记得自己的梦是件好事。
 [charslot(slot = "m", name = "avg_npc_243")]
-[name="克洛伊"]对了，今天没有看到Touch医生......
+[name="克洛伊"]对了，今天没有看到Touch医生……
 [charslot(slot = "m", name = "avg_171_bldsk_1#9$1")]
 [name="华法琳"]她有其他的任务。你看，她托我把这袋东西给你。
 [charslot(slot = "m", name = "avg_npc_243")]
-[name="克洛伊"]这些是......发条，齿轮，还有指针......这是制作自鸣钟的零件！
+[name="克洛伊"]这些是……发条，齿轮，还有指针……这是制作自鸣钟的零件！
 [charslot(slot = "m", name = "avg_171_bldsk_1#9$1")]
 [name="华法琳"]说是能帮你舒缓精神压力。
 [charslot(slot = "m", name = "avg_npc_243")]
-[name="克洛伊"]......华法琳医生，罗德岛又遇上了可怕的事情吗？
+[name="克洛伊"]……华法琳医生，罗德岛又遇上了可怕的事情吗？
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -185,7 +185,7 @@
 [charslot(slot="m",name="avg_npc_053")]
 [name="萨卡兹锅炉工"]阿斯卡纶，你从维多利亚回来之后，变得比过往消沉了。
 [charslot(slot="m",name="avg_4132_ascln_1#1$1")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [charslot(slot="m",name="avg_npc_053")]
 [name="萨卡兹锅炉工"]你手下那些小家伙呢？
 [charslot(slot="m",name="avg_4132_ascln_1#1$1")]
@@ -294,7 +294,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [Delay(time=1.5)]
 [Sticker(id="st1",duration=0.5)]
 [Delay(time=1)]
-[Sticker(id="st1", text="三十秒......", x=320,y=340, alignment="center", size=24, delay=0.001, width=700,duration=1,block=false)]
+[Sticker(id="st1", text="三十秒……", x=320,y=340, alignment="center", size=24, delay=0.001, width=700,duration=1,block=false)]
 [Delay(time=1.5)]
 [Sticker(id="st1",duration=1)]
 [dialog]
@@ -348,7 +348,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [name="梓兰"]斑点，支援月见夜和空爆。
 [name="梓兰"]泡普卡，呼叫增援了吗？
 [charslot(slot="m",name="avg_281_popka_1#6$2")]
-[multiline(name="泡普卡")]嗯嗯......泡普卡已经呼叫了，
+[multiline(name="泡普卡")]嗯嗯……泡普卡已经呼叫了，
 [charslot(slot="m",name="avg_281_popka_1#7$2")]
 [multiline(name="泡普卡")]梓兰姐姐，小心！
 [dialog]
@@ -381,7 +381,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [PlaySound(key="$d_gen_walk_n",volume=0.7)]
 [charslot(slot="m",name="avg_npc_1300_1#1$1",duration=1)]
 [Delay(time=2)]
-[name="Mantra"]......
+[name="Mantra"]……
 [charslot(slot="m",name="avg_npc_008")]
 [name="袭击者"]不、不对，不该是你们——
 [dialog]
@@ -410,7 +410,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [name="Mantra"]然后迅速赶回本舰，避免所有意外。
 [charslot(slot="m",name="avg_281_popka_1#10$2")]
 [name="泡普卡"]Pith女、女士，为什么来增援的是你们？
-[name="泡普卡"]之前PRTS通知的是Misery先生呀......
+[name="泡普卡"]之前PRTS通知的是Misery先生呀……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -420,7 +420,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$ponder_intro",key="$ponder_loop", volume=0.6)]
 [name="Pith"]直觉？
-[name="Pith"]临出发前突然更改计划，我担心......
+[name="Pith"]临出发前突然更改计划，我担心……
 [dialog]
 [charslot(slot = "m", focus="n")]
 [Decision(options="我信任你们。", values="1")]
@@ -455,7 +455,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [charslot(slot="m",name="avg_npc_167")]
 [name="Stormeye"]第七批。
 [name="Stormeye"]虽然威胁性并不高，但近一周来，每天都有如此高频率的袭击也太过诡异了。
-[name="Stormeye"]这才刚刚进入卡兹戴尔的边境范围......
+[name="Stormeye"]这才刚刚进入卡兹戴尔的边境范围……
 [charslot(slot="m",name="avg_npc_252")]
 [name="Sharp"]这些人不怕死的样子，让我想起以前在萨尔贡认识的那些佣兵。
 [name="Sharp"]毫无信念。
@@ -488,7 +488,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [name="Misery"]（叹气）
 [charslot(slot="m",name="avg_1036_fang2_1#6$1")]
 [name="芬"]Misery先生，我感觉情况不对劲。
-[name="芬"]这些源源不断的佣兵似乎并不是想要给我们造成损失，更像是......
+[name="芬"]这些源源不断的佣兵似乎并不是想要给我们造成损失，更像是……
 [charslot(slot="m",name="avg_npc_252")]
 [name="Sharp"]拖延。
 [charslot(slot="m",name="avg_1036_fang2_1#6$1")]
@@ -499,9 +499,9 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [charslot]
 空气在波动。
 [charslot(slot="m",name="avg_1036_fang2_1#7$1")]
-[name="芬"]......起风了？
+[name="芬"]……起风了？
 [charslot(slot="m",name="avg_1036_fang2_1#4$1")]
-[name="芬"]不......那是，“生命脊椎”？！
+[name="芬"]不……那是，“生命脊椎”？！
 [charslot]
 [dialog]
 [PlaySound(key="$d_avg_erthshkng")]
@@ -510,7 +510,7 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 苍穹之上，庞大的骸骨荡漾着历史的尘埃显现，投下了巨大的阴影。
 那是罗德岛的许多人第一次亲眼目睹这个曾在维多利亚的混乱中出现的巨大骨架。
 [charslot(slot="m",name="avg_npc_971_1#1$1")]
-[name="罗德岛工程部干员"]......真是壮观......
+[name="罗德岛工程部干员"]……真是壮观……
 [charslot(slot="m",name="avg_npc_235")]
 [name="Misery"]调查疤痕商场时，我顺便去了趟卡兹戴尔，见了几位老朋友。
 [name="Misery"]接下来就交给他们吧。
@@ -583,9 +583,9 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [charslot(slot="m",name="avg_npc_1730_1#1$1")]
 [name="Raidian"]我检查了周边区域的所有信号，的确已经全部清除了。
 [charslot(slot="m",name="avg_017_huang_1#7$1")]
-[name="煌"]呃，谁能告诉我......这到底是个啥玩意儿？
+[name="煌"]呃，谁能告诉我……这到底是个啥玩意儿？
 [charslot(slot="m",name="avg_npc_1401_1#1$1",focus="n")]
-[name="损坏的“小帮手”"]......
+[name="损坏的“小帮手”"]……
 [charslot(slot="m",name="avg_017_huang_1#1$1")]
 [name="煌"]我在这东西试图自毁的时候，可花了全力砸它才把它停下来。
 [charslot(slot="m",name="avg_391_rosmon_1#10$1")]
@@ -615,11 +615,11 @@ Raidian正拘谨地向监看着画面的两人招手，哪怕是浮动的文字�
 [dialog]
 [charslot(slot="m",name="avg_npc_1723_1#1$1")]
 [Delay(time=1.5)]
-[name="可露希尔"]嗯嗯，这里没有问题......这个也没有问题......
+[name="可露希尔"]嗯嗯，这里没有问题……这个也没有问题……
 [charslot(slot="m",name="avg_npc_1723_1#11$1")]
 [name="可露希尔"]——全都没有问题？
 [charslot(slot="m",name="avg_npc_1723_1#6$1")]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

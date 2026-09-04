@@ -8,30 +8,30 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=2)]
 [character(name="avg_222_bpipe_1#2")]
-[name="风笛"]敌人......倒下去了？！
+[name="风笛"]敌人……倒下去了？！
 [name="风笛"]队长，我们是不是赢了？
 [character(name="avg_npc_229_1#7")]
-[name="号角"]......
+[name="号角"]……
 [character(name="avg_222_bpipe_1#5")]
-[name="风笛"]糟了，队长，你的伤......
+[name="风笛"]糟了，队长，你的伤……
 [name="风笛"]坚持住！我来扶你，千万别闭眼——
 [character(name="avg_222_bpipe_1#5",name2="avg_npc_229_1#5",focus=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="号角"]......咳，咳咳......
-[name="号角"]你......别这么用力。你一拉我，我全身都疼。
+[name="号角"]……咳，咳咳……
+[name="号角"]你……别这么用力。你一拉我，我全身都疼。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#5",focus=1)]
 [name="风笛"]好、好的！队长，你没事就好。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#5",focus=2)]
-[name="号角"]嗯......我还......不能倒下。
-[name="号角"]因为敌人......还没......
+[name="号角"]嗯……我还……不能倒下。
+[name="号角"]因为敌人……还没……
 [dialog]
 [character]
 [delay(time=1)]
 [PlaySound(key="$bodyfalldown3", volume=0.7)]
 [character(name="avg_npc_233_1#6",fadetime=1.5)]
 [delay(time=1)]
-[name="蔓德拉"]......呵......哈哈哈......哈哈哈哈哈哈！
-[name="蔓德拉"]你们以为......这样就能打败我？！
+[name="蔓德拉"]……呵……哈哈哈……哈哈哈哈哈哈！
+[name="蔓德拉"]你们以为……这样就能打败我？！
 [character(name="avg_npc_233_1#7")]
 [name="蔓德拉"]愚蠢的维多利亚士兵！
 [name="蔓德拉"]我可是——从废水沟旁的坟墓里爬出来的人！你们这群维多利亚上等人欠我的，还没有还干净！
@@ -39,12 +39,12 @@
 [name="风笛"]啊？她居然真的还能爬起来！
 [name="风笛"]这人到底怎么回事啊？刚才我那一击，就算没把她的胸膛捅个对穿，也至少该让她受个重伤了吧？
 [character(name="avg_npc_229_1#2")]
-[name="号角"]......源石技艺。
+[name="号角"]……源石技艺。
 [character(name="avg_222_bpipe_1#1",name2="avg_npc_229_1#1",focus=1)]
-[name="风笛"]我的矛竟然被顶偏了几公分？？明明只剩下了那么一点碎石！可惜了，刚才那样的机会，很难再来一次......
-[name="风笛"]......菲林，你虽然是敌人，可意志很坚硬，就跟你的石头差不多，我佩服你。
+[name="风笛"]我的矛竟然被顶偏了几公分？？明明只剩下了那么一点碎石！可惜了，刚才那样的机会，很难再来一次……
+[name="风笛"]……菲林，你虽然是敌人，可意志很坚硬，就跟你的石头差不多，我佩服你。
 [character(name="avg_npc_233_1#7")]
-[name="蔓德拉"]呸，自说自话......谁要你佩服我？！
+[name="蔓德拉"]呸，自说自话……谁要你佩服我？！
 [name="蔓德拉"]我要的是——你们的命！
 [name="蔓德拉"]来吧，荆棘之林！！！
 [dialog]
@@ -54,8 +54,8 @@
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1)]
 [character(name="avg_222_bpipe_1#2")]
-[name="风笛"]......更多石柱正从地里长出来？！
-[name="风笛"]这地方没法站了啊......
+[name="风笛"]……更多石柱正从地里长出来？！
+[name="风笛"]这地方没法站了啊……
 [character(name="avg_222_bpipe_1#6")]
 [name="风笛"]队长，我背你，我们往那边跑！
 [character(name="avg_npc_233_1#2")]
@@ -85,48 +85,48 @@
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1",fadetime=0.7)]
 [delay(time=0.7)]
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1",focus=1)]
-[name="风笛"]这是......鬼魂部队的宣言？
+[name="风笛"]这是……鬼魂部队的宣言？
 [name="风笛"]他们在向城里的居民广播？
-[name="风笛"]不，不止这一座城市......眼下所有通讯基站都在他们手里，这条信息，附近五六座城市都能接收到！
-[name="风笛"]......现在周边所有人都知道驻军犯的错误了，而且很快会一传十十传百。
+[name="风笛"]不，不止这一座城市……眼下所有通讯基站都在他们手里，这条信息，附近五六座城市都能接收到！
+[name="风笛"]……现在周边所有人都知道驻军犯的错误了，而且很快会一传十十传百。
 [character(name="avg_222_bpipe_1#4",name2="avg_npc_229_1",focus=1)]
 [name="风笛"]最可怕的是，他们说的大半是事实，我们根本没法申辩！
-[name="风笛"]更何况，就算我们想说话，我们也发不出声音......
+[name="风笛"]更何况，就算我们想说话，我们也发不出声音……
 [character(name="avg_222_bpipe_1#4",name2="avg_npc_229_1#2",focus=2)]
-[name="号角"]......
+[name="号角"]……
 [name="号角"]最坏的情况还是发生了。
 [character(name="avg_222_bpipe_1#4",name2="avg_npc_229_1#2",focus=1)]
-[name="风笛"]队长，这就是为什么你要拼死占领通讯基站对不对？除了把消息传出去，你也想阻止敌人先开口......
+[name="风笛"]队长，这就是为什么你要拼死占领通讯基站对不对？除了把消息传出去，你也想阻止敌人先开口……
 [character(name="avg_222_bpipe_1#4",name2="avg_npc_229_1#5",focus=2)]
-[name="号角"]......我们输了，汉密尔顿......
-[name="号角"]你......还有我，我们输了个彻底。
+[name="号角"]……我们输了，汉密尔顿……
+[name="号角"]你……还有我，我们输了个彻底。
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#5",focus=1)]
 [name="风笛"]不，我们还没有输！
 [name="风笛"]晚说话总比闭口不言要好！
 [name="风笛"]鬼魂部队想把他们包装成正义之师，可我们亲眼见到了他们是如何毫不留情地烧死自己的支持者，又一路追杀平民的！
 [name="风笛"]我们有义务说出去，我们有义务揭露这支部队的真面目！
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#4",focus=2)]
-[name="号角"]......
+[name="号角"]……
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=2)]
 [name="号角"]是的，你说得对。
-[name="号角"]这场战斗，还远远没到......最后一刻。
+[name="号角"]这场战斗，还远远没到……最后一刻。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#2",focus=1)]
-[name="风笛"]呃......队长，你看这个术师，她在干什么？她是不是在发呆？
+[name="风笛"]呃……队长，你看这个术师，她在干什么？她是不是在发呆？
 [dialog]
 [character]
 [delay(time=1)]
 [character(name="avg_npc_233_1#7")]
-[name="蔓德拉"]......
-[name="蔓德拉"]阿赫茉妮，阿赫茉妮......混蛋东西，你把我骗来这里，就是为了抢这个发言的机会？
-[name="蔓德拉"]凭什么......凭什么！
+[name="蔓德拉"]……
+[name="蔓德拉"]阿赫茉妮，阿赫茉妮……混蛋东西，你把我骗来这里，就是为了抢这个发言的机会？
+[name="蔓德拉"]凭什么……凭什么！
 [name="蔓德拉"]凭什么你能替领袖发言，而我要在下面替你扫垃圾？！
-[name="蔓德拉"]我要去伦蒂尼姆......我马上就要去伦蒂尼姆！！！
+[name="蔓德拉"]我要去伦蒂尼姆……我马上就要去伦蒂尼姆！！！
 [dialog]
 [CameraShake(duration=3, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [PlaySound(key="$e_imp_rock_n",volume=0.8)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true)]
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1",focus=1)]
-[name="风笛"]啊......好大的风！这菲林突然受了什么刺激啊？？这么不管不顾地释放源石技艺，她自己不难受吗？
+[name="风笛"]啊……好大的风！这菲林突然受了什么刺激啊？？这么不管不顾地释放源石技艺，她自己不难受吗？
 [name="风笛"]队长，小心石柱，快被风刮倒了——！
 [dialog]
 [dialog]
@@ -147,22 +147,22 @@
 [Blocker(a=1, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="号角"]哈......这没什么。
+[name="号角"]哈……这没什么。
 [character(name="avg_222_bpipe_1#5",name2="avg_npc_229_1",focus=1)]
 [name="风笛"]没什么？你说什么胡话？你在吐血——
 [character(name="avg_222_bpipe_1#5",name2="avg_npc_229_1",focus=2)]
 [name="号角"]你可以伸手帮我擦一擦。
 [character(name="avg_222_bpipe_1#5",name2="avg_npc_229_1",focus=1)]
-[name="风笛"]......都什么时候了，队长，我申请说实话，你的笑话真的一点都不好笑。
+[name="风笛"]……都什么时候了，队长，我申请说实话，你的笑话真的一点都不好笑。
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1",focus=1)]
-[name="风笛"]我不能在你的盾后躲着......即便你命令我，我也做不到。
+[name="风笛"]我不能在你的盾后躲着……即便你命令我，我也做不到。
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1",focus=1)]
-[name="风笛"]队长，我马上冲出去，挨几下砸也没什么，我想我至少能撑到冲到她面前，给她再来一下......我的破城矛至少还有一击的能量！
+[name="风笛"]队长，我马上冲出去，挨几下砸也没什么，我想我至少能撑到冲到她面前，给她再来一下……我的破城矛至少还有一击的能量！
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="风笛"]她一下子召唤了这么多石柱，应该也差不多该到极限了......我能找到破绽！
+[name="风笛"]她一下子召唤了这么多石柱，应该也差不多该到极限了……我能找到破绽！
 [dialog]
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1",focus=2)]
-[name="号角"]风笛......
+[name="号角"]风笛……
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1",focus=1)]
 [name="风笛"]别拉住我！这命令我不听！你可以活下来然后罚我倒立，顶一个你都没问题！
 [dialog]
@@ -180,13 +180,13 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true)]
 [delay(time=2)]
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#1",focus=2)]
-[name="号角"]......她飞起来了。
+[name="号角"]……她飞起来了。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#1",focus=1)]
-[name="风笛"]......
+[name="风笛"]……
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#6",focus=2)]
-[name="号角"]哈......你不会飞，要踩着这些石头跳上去，还要打中她，不太容易吧？
+[name="号角"]哈……你不会飞，要踩着这些石头跳上去，还要打中她，不太容易吧？
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#6",focus=1)]
-[name="风笛"]......那也要试试。
+[name="风笛"]……那也要试试。
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#3",focus=2)]
 [name="号角"]行了。刚才你自己说的话，你不会忘了吧？
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#3",focus=1)]
@@ -196,15 +196,15 @@
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#6",focus=1)]
 [name="风笛"]嗯，我们一定要传信出去，我不会忘！队长，这就是为什么我们要干掉她，抓住上通讯塔的机会！
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=2)]
-[name="号角"]哈......通讯塔......
-[name="号角"]上层有人在帮他们......帮鬼魂部队。她说的。
-[name="号角"]就算我们登了塔......我们的信息......也可能传不到伦蒂尼姆。
+[name="号角"]哈……通讯塔……
+[name="号角"]上层有人在帮他们……帮鬼魂部队。她说的。
+[name="号角"]就算我们登了塔……我们的信息……也可能传不到伦蒂尼姆。
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#1",focus=1)]
 [name="风笛"]队长，现在还不到泄气的时候！
 [name="风笛"]你教我的，在任何时候，我们都要相信同伴——
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#6",focus=2)]
-[name="号角"]是的。我......相信同伴。
-[name="号角"]风笛......这就是为什么......你必须出去。
+[name="号角"]是的。我……相信同伴。
+[name="号角"]风笛……这就是为什么……你必须出去。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#6",focus=1)]
 [name="风笛"]队长，你的意思是？！
 [dialog]
@@ -215,13 +215,13 @@
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#1",focus=2)]
 [name="号角"]你的能量，别浪费了。
 [name="号角"]抱紧你的矛，启动弹射功能，从这里飞出去——
-[name="号角"]城里和出入口都是敌人，但是，没人会料到......他们无法在空中拦截你。
+[name="号角"]城里和出入口都是敌人，但是，没人会料到……他们无法在空中拦截你。
 [name="号角"]带上所有情报。
-[name="号角"]找到真正值得信赖的人，把鬼魂部队的消息传到外面......
+[name="号角"]找到真正值得信赖的人，把鬼魂部队的消息传到外面……
 [name="号角"]伦蒂尼姆必须知道小丘郡事件的真相。
 [character(name="avg_222_bpipe_1#2",name2="avg_npc_229_1#7",focus=2)]
 [name="号角"]风笛——活着出去！
-[name="号角"]这是我们......最后的机会！
+[name="号角"]这是我们……最后的机会！
 [character(name="avg_222_bpipe_1#6",name2="avg_npc_229_1#7",focus=1)]
 [playMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.4)]
 [name="风笛"]——
@@ -246,10 +246,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=3)]
 [character(name="avg_npc_233_1#7")]
-[name="蔓德拉"]......竟然用上了这种办法！
+[name="蔓德拉"]……竟然用上了这种办法！
 [character(name="avg_npc_233_1#1")]
 [name="蔓德拉"]算了，只是一个人，逃出去也改变不了什么。
-[name="蔓德拉"]剩下这个......
+[name="蔓德拉"]剩下这个……
 [name="蔓德拉"]呵，明明站都站不稳了，怎么还是不肯倒下？！
 [character(name="avg_npc_233_1#2")]
 [name="蔓德拉"]——快点解决吧，这破地方我真是待够了。
@@ -266,7 +266,7 @@
 [name="简妮"]人都到了，奥利弗叔叔。
 [name="简妮"]我和当地居民说好了，他们帮我们找到了一条还算安全的出城通道。
 [character(name="avg_479_sleach_1#9$1")]
-[name="简妮"]附近还有很多敌人......我是说深池的人。
+[name="简妮"]附近还有很多敌人……我是说深池的人。
 [character(name="avg_479_sleach_1#8$1")]
 [name="简妮"]居民们都相信了他们说的话，认为那几个恶徒被清理之后，他们现在不会对平民动手。
 [name="简妮"]但我们还是要小心。
@@ -277,7 +277,7 @@
 [name="简妮"]直到我们转移到最近的安全屋之前，这位病人都不能被人看见。
 [name="简妮"]这条路还很长，她的话，一定会祝我们一路顺遂。
 [character(name="avg_479_sleach_1#9$1")]
-[name="简妮"]看啊，奥利弗叔叔......
+[name="简妮"]看啊，奥利弗叔叔……
 [character(name="avg_479_sleach_1#8$1")]
 [name="简妮"]天真的要亮了。
 [Dialog]
@@ -333,7 +333,7 @@
 [character(name="avg_npc_245_1#1")]
 [name="Outcast"]你们总算到了，可真够慢的。
 [character(name="avg_npc_246")]
-[name="“雄辩家”"]......萨科塔。
+[name="“雄辩家”"]……萨科塔。
 [name="“雄辩家”"]只有你一个人。你救走的那个人呢，她在哪里？
 [character(name="avg_npc_245_1#2")]
 [name="Outcast"]你用不着关心这个问题。
@@ -355,7 +355,7 @@
 [name="Outcast"]——
 [name="Outcast"]如果正义会伸张自己，还用得着我的铳做什么？
 [character(name="avg_npc_246")]
-[name="“雄辩家”"]......这么说，你铁了心要拦我们？
+[name="“雄辩家”"]……这么说，你铁了心要拦我们？
 [character(name="avg_npc_245_1#3")]
 [name="Outcast"]你一开始就该先问这句。
 [character(name="avg_npc_246")]
@@ -401,7 +401,7 @@
 [delay(time=2.5)]
 [character(name="avg_npc_246")]
 [delay(time=1.5)]
-[name="“雄辩家”"]......
+[name="“雄辩家”"]……
 [name="“雄辩家”"]就因为你所谓的信仰？
 [character(name="avg_npc_245_1#1")]
 [name="Outcast"]你错了，我没有你所理解的信仰——
@@ -434,7 +434,7 @@
 [Blocker(a=0, fadetime=1.5, block=true)]
 [Character]
 [ImageTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=1, yScaleTo=1, duration=15, block=false)]
-[name="Outcast"]啊哈，老朋友......看来到最后，我还是没能遵守你的命令。
+[name="Outcast"]啊哈，老朋友……看来到最后，我还是没能遵守你的命令。
 [dialog]
 [delay(time=2)]
 [PlaySound(key="$d_avg_gunsingle",delay=0.2,channel="R",volume=1,block=true)]

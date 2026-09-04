@@ -10,7 +10,7 @@
 萨尔贡
 焚风热土边境
 [charslot(slot="m",name="avg_npc_164")]
-[name="村民"]......
+[name="村民"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n")]
@@ -18,7 +18,7 @@
 [delay(time=2)]
 [name="闪击"]您好，先生。
 [charslot(slot="m",name="avg_npc_164")]
-[name="村民"]......
+[name="村民"]……
 [charslot(slot="m",name="char_457_blitz_1#6")]
 [name="闪击"]先生？
 [charslot(slot="m",name="avg_npc_164")]
@@ -37,13 +37,13 @@
 [charslot(slot="m",name="char_457_blitz_1#6")]
 [name="闪击"]我就是去焚风热土。
 [charslot(slot="m",name="avg_npc_164")]
-[name="村民"]......
+[name="村民"]……
 [name="村民"]（重新打量了一遍闪击）
 [name="村民"]我看你精神不错，没受什么打击，去那寻死干什么？
 [charslot(slot="m",name="char_457_blitz_1#5")]
 [name="闪击"]就是去看看，探索一下。
 [charslot(slot="m",name="avg_npc_164")]
-[name="村民"]......
+[name="村民"]……
 [name="村民"]我猜猜，其他人是不是把你当疯子给赶走了？
 [charslot(slot="m",name="char_457_blitz_1#6")]
 [name="闪击"]是这样没错。
@@ -65,7 +65,7 @@
 [charslot(slot="m",name="char_457_blitz_1#6")]
 [name="闪击"]（萨尔贡俚语）给你一粒黄沙。
 [charslot(slot="m",name="avg_npc_164")]
-[name="村民"]哼......
+[name="村民"]哼……
 [name="村民"]屋里说话吧。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -127,7 +127,7 @@
 [Dialog]
 [PlaySound(key="$d_avg_paper1")]
 [charslot(slot="r",name="char_457_blitz_1#4",focus="r")]
-[name="闪击"]......
+[name="闪击"]……
 [name="闪击"]（标准维多利亚语）不建议探索焚风热土，若一定要进入请务必确认带足生存资源。
 [charslot(slot="l",name="avg_npc_164",focus="l")]
 [name="村民"]这上面写了什么？
@@ -166,7 +166,7 @@
 [charslot(slot="r",name="char_457_blitz_1#6",focus="r")]
 [name="闪击"]再买些回程的补给，剩下还有多的就麻烦你随便买些特产了。
 [charslot(slot="l",name="avg_npc_164",focus="l")]
-[name="村民"]......
+[name="村民"]……
 [name="村民"]行吧行吧，外乡人花钱都阔气。
 [name="村民"]你是在这睡一宿还是有其他安排？
 [charslot(slot="r",name="char_457_blitz_1#6",focus="r")]
@@ -212,7 +212,7 @@
 [name="灰烬"]我应该对泰拉各个危险区域做过重点标注。
 [charslot(slot="m",name="char_456_ash_1#8",focus="m")]
 [name="灰烬"]你们倒好，全部去了个遍。
-[name="灰烬"]哼......
+[name="灰烬"]哼……
 [charslot(slot="m",name="char_456_ash_1#5",focus="m")]
 [name="灰烬"]所以，焚风热土有什么发现吗？
 [charslot(slot="m",name="char_457_blitz_1#3",focus="m")]
@@ -236,7 +236,7 @@
 [charslot(slot="m",name="char_457_blitz_1#3",focus="m")]
 [name="闪击"]老朋友？
 [name="闪击"]啊，是的。
-[name="闪击"]嗯......你是说长泉镇的新领主小姐？
+[name="闪击"]嗯……你是说长泉镇的新领主小姐？
 [charslot(slot="m",name="char_459_tachak_1",focus="m")]
 [name="战车"]嗯哼。
 [charslot(slot="m",name="char_457_blitz_1#3",focus="m")]
@@ -265,7 +265,7 @@
 [charslot(slot="m",name="char_457_blitz_1#3",focus="m")]
 [name="闪击"]听说去考察的哥伦比亚人很喜欢这种“萨尔贡”工艺品，梅兰德的人找皮加尔要了独家代理权。
 [charslot(slot="m",name="char_459_tachak_1",focus="m")]
-[name="战车"]这......
+[name="战车"]这……
 [name="战车"]这太荒唐了。
 [charslot(slot="m",name="char_457_blitz_1#3",focus="m")]
 [name="闪击"]当地人摇身一变，全成了萨尔贡的“传统”手艺人。
@@ -275,16 +275,16 @@
 [charslot(slot="m",name="char_456_ash_1#5",focus="m")]
 [name="灰烬"]以我们的眼光来看，她做得还不错。
 [charslot(slot="m",name="char_459_tachak_1",focus="m")]
-[name="战车"]哼......
+[name="战车"]哼……
 [name="战车"]那——
 [name="战车"]——米亚罗医生的墓，还在吗？
 [charslot(slot="m",name="char_458_rfrost_1#1",focus="m")]
-[name="霜华"]......
+[name="霜华"]……
 [charslot(slot="m",name="char_456_ash_1#5",focus="m")]
-[name="灰烬"]......
+[name="灰烬"]……
 [charslot(slot="m",name="char_457_blitz_1#1",focus="m")]
-[name="闪击"]......墓石一直在被风沙侵蚀，已经有些崩落了。
-[name="闪击"]......我帮他擦了墓碑，献了一束花，然后请当地人做了个小防风棚。
+[name="闪击"]……墓石一直在被风沙侵蚀，已经有些崩落了。
+[name="闪击"]……我帮他擦了墓碑，献了一束花，然后请当地人做了个小防风棚。
 [name="闪击"]我想他在另外一个世界过得很好。
 [charslot(slot="m",name="char_459_tachak_1",focus="m")]
 [name="战车"]好，那很不错。
@@ -304,7 +304,7 @@
 [name="闪击"]说到语言，我在萨尔贡路过了一个很特别的地方。
 [name="闪击"]阿卡胡拉。
 [charslot(slot="m",name="char_458_rfrost_1#1",focus="m")]
-[name="霜华"]阿......卡......呼......啦？
+[name="霜华"]阿……卡……呼……啦？
 [charslot(slot="m",name="char_457_blitz_1#3",focus="m")]
 [name="闪击"]是阿卡胡拉，医疗部那位阿达克利斯女士的老家。
 [charslot(slot="m",name="char_459_tachak_1",focus="m")]
@@ -376,7 +376,7 @@
 就那么在沙中踏步。
 一无所获。
 他害怕了。
-[name="闪击"]......
+[name="闪击"]……
 他也不清楚自己是何时下定决心返回的，在那段时间里，前进与后退似乎没有区别。
 直到回到那个热土边境的安全屋时，生存的知觉才回到身体上。
 紧接着，就是如潮水般涌来的疲惫。
@@ -389,7 +389,7 @@
 [delay(time=2)]
 [name="战车"]怎么样，状态还好吗？
 [charslot(slot="m",name="char_457_blitz_1#3")]
-[name="闪击"]嗯......
+[name="闪击"]嗯……
 [charslot(slot="m",name="char_459_tachak_1")]
 [name="战车"]一会请你枪子吃个够。
 [charslot(slot="m",name="char_457_blitz_1#3")]
@@ -428,7 +428,7 @@
 [Dialog]
 [charslot(slot="m",name="char_457_blitz_1#4",duration=1.5)]
 [delay(time=2)]
-[name="闪击"]呼，哈......
+[name="闪击"]呼，哈……
 曾有那么一刻，他想过把探索热土的路走到尽头。不成功便成仁。
 但在某一天，多喝了一口安全屋兄弟送的神秘饮料，处于清醒与迷幻的间隙中时，他突然意识到一点：
 自己举盾冲刺，迫切地想要获得成果。
@@ -456,7 +456,7 @@
 [name="灰烬"]我明白。
 [name="灰烬"]所以我钻了这个空子。
 [charslot(slot="m",name="char_457_blitz_1#6")]
-[name="闪击"]哈......
+[name="闪击"]哈……
 [name="闪击"]希望我们四个一下子消失，没把艾拉双月她们一起卷进来。
 [charslot(slot="m",name="char_456_ash_1#1",focus="m")]
 [name="灰烬"]但愿如此。
@@ -515,7 +515,7 @@
 [charslot(slot="m",name="char_456_ash_1#1",focus="m")]
 [name="灰烬"]既然新的对手就位了，那让我们开始吧。
 [charslot(slot="m",name="char_457_blitz_1#6")]
-[name="闪击"]灰烬，你不会是想......
+[name="闪击"]灰烬，你不会是想……
 [charslot(slot="m",name="char_456_ash_1#1",focus="m")]
 [name="灰烬"]我们是干员，我们是彩虹小队。
 [name="灰烬"]希望各位能够接受这场挑战。

@@ -44,7 +44,7 @@
 [charslot(slot="r",name="avg_npc_1518_1#1$1",focus="r")]
 [name="“小公爵”"]收下吧。既然你更习惯公事公办，这样或许你能舒服些。
 [charslot(slot="l",name="avg_1019_siege2_1#10$1",focus="l")]
-[name="维娜"]......我和你不熟。阁下，你们就在这地方决定伦蒂尼姆的未来？
+[name="维娜"]……我和你不熟。阁下，你们就在这地方决定伦蒂尼姆的未来？
 [charslot(slot="r",name="avg_npc_1518_1#1$1",focus="r")]
 [name="“小公爵”"]会议的地点不由我决定。何况，想想在这里发生过的一切，难道还有比这里更合适的地方吗？
 [dialog]
@@ -69,7 +69,7 @@
 [charslot(slot="r",name="avg_npc_1518_1#4$1",focus="r")]
 [name="“小公爵”"]你不也想见我吗？
 [charslot(slot="l",name="avg_1019_siege2_1#6$1",focus="l")]
-[name="维娜"]......你知道我手里有——
+[name="维娜"]……你知道我手里有——
 [charslot(slot="r",name="avg_npc_1518_1#1$1",focus="r")]
 [name="“小公爵”"]维娜，你在罗德岛的朋友想必已经向你透露了其他公爵的想法。
 [charslot(slot="l",name="avg_1019_siege2_1#6$1",focus="l")]
@@ -85,7 +85,7 @@
 [name="“小公爵”"]我和哥伦比亚的军方有长期稳定的合作，他们也给我引荐了不少医药企业。
 [name="“小公爵”"]没有堵不上的缺口，只要价钱合适。
 [charslot(slot="l",name="avg_1019_siege2_1#6$1",focus="l")]
-[name="维娜"]......这是威胁吗？
+[name="维娜"]……这是威胁吗？
 [charslot(slot="r",name="avg_npc_1518_1#2$1",focus="r")]
 [name="“小公爵”"]看你怎么想。别急着回答我，等你理清了自己手里到底有什么筹码后再来找我，维娜。
 [name="“小公爵”"]我们未来的亲密合作，可以从这起一个好头。
@@ -97,7 +97,7 @@
 [PlaySound(key="$d_gen_dooropen", volume=0.7)]
 [delay(time=1)]
 [name="？？？"]我倒觉得这座城市太大了。说来惭愧，城里遍地哭嚎的声音实在让我胆颤心惊，一时心慌居然走错了路。
-[name="？？？"]呼，城里的惨象实在是......
+[name="？？？"]呼，城里的惨象实在是……
 [dialog]
 [charslot(slot="m",name="avg_npc_1068_1#1$1",duration=1)]
 [delay(time=1.5)]
@@ -117,7 +117,7 @@
 [name="开斯特公爵"]不过无妨，你才是我们今日相聚的原因，亚历山德莉娜。
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
 [name="高多汀公爵"]咳，何必这么着急就切入主题呢，阁下。
-[name="高多汀公爵"]那位老将军迟迟未至......他还是拒绝了您的邀请吗？
+[name="高多汀公爵"]那位老将军迟迟未至……他还是拒绝了您的邀请吗？
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]他的目光早已不在伦蒂尼姆。我想您的探子会把我与他会面的所有细节放在您明早的餐盘里。
 [charslot(slot="m",name="avg_npc_726_1#1$1",focus="m")]
@@ -125,10 +125,10 @@
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
 [name="高多汀公爵"]这对维多利亚可算不得好事。
 [charslot(slot="m",name="avg_npc_1068_1#7$1",focus="m")]
-[name="高多汀公爵"]塔拉和“深池”......虽然他还没有明确宣布脱离维多利亚，但实际情况明眼人都能看出来。
+[name="高多汀公爵"]塔拉和“深池”……虽然他还没有明确宣布脱离维多利亚，但实际情况明眼人都能看出来。
 [name="高多汀公爵"]亚伯科恩和法夫损失惨重，“主动放弃”了参与更大决策的机会。而阿什沃思背后的人也做出了远离动荡的决定。
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
-[name="高多汀公爵"]至于诺曼底公爵......他的态度已经很明确了。
+[name="高多汀公爵"]至于诺曼底公爵……他的态度已经很明确了。
 [dialog]
 [charslot]
 高多汀公爵微笑地看着“小公爵”，艾莉诺也只是淡淡地躬身示意。
@@ -147,10 +147,10 @@
 [charslot(slot="m",name="avg_npc_1068_1#8$1",focus="m")]
 [name="高多汀公爵"]哈哈，也对也对，维多利亚没有国王又何妨。
 [charslot(slot="m",name="avg_npc_1518_1#6$1",focus="m")]
-[name="“小公爵”"]......
+[name="“小公爵”"]……
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
 [name="高多汀公爵"]“推进之王”，在你接受我们的提议前，我依旧只能如此称呼你。
-[name="高多汀公爵"]你可以有更好的方式去实现你的想法，感染者，难民，还有那些令人头疼的......萨卡兹。
+[name="高多汀公爵"]你可以有更好的方式去实现你的想法，感染者，难民，还有那些令人头疼的……萨卡兹。
 [name="高多汀公爵"]——“议长阁下”。
 [charslot(slot="m",name="avg_1019_siege2_1#6$1",focus="m")]
 [name="维娜"]这算是“帝国意志”的通知吗？
@@ -158,7 +158,7 @@
 [name="开斯特公爵"]只是一种尝试，我们也有其他办法来处理这座几乎沦为废墟的城市。
 [name="开斯特公爵"]这不是什么终身的任命，我们会判断你是否合适。
 [charslot(slot="m",name="avg_1019_siege2_1#6$1",focus="m")]
-[name="维娜"]就像过去一样......不是吗？
+[name="维娜"]就像过去一样……不是吗？
 [name="维娜"]靠着你们所谓的“餐桌上的议会”，几个公爵私下聚在国王身边跳跳舞就顺手定下了这个国家的未来。
 [name="维娜"]结果呢？看看外面，那些萨卡兹的血现在都还没全部清理干净——
 [charslot(slot="m",name="avg_npc_726_1#5$1",focus="m")]
@@ -166,7 +166,7 @@
 [name="开斯特公爵"]如果伦蒂尼姆成为了导致维多利亚虚弱的脓疮，我不介意将它剜去。
 [name="开斯特公爵"]我允许其他国家看到维多利亚流血，但是不能容忍别人嘲弄她令人恶心的伤疤。
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
-[name="开斯特公爵"]站在阴沟里可望不见一个古老帝国的全貌。别忘了，“维多利亚”这个姓氏......与我也并不疏远，亚历山德莉娜殿下。
+[name="开斯特公爵"]站在阴沟里可望不见一个古老帝国的全貌。别忘了，“维多利亚”这个姓氏……与我也并不疏远，亚历山德莉娜殿下。
 [name="开斯特公爵"]唯有强人与英雄才有腕力把握住帝国未来的航向。
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
 [name="高多汀公爵"]何必吓唬我们未来的朋友呢，阁下。我们不正是为了更好地解决这件烦心事才在这里相聚吗？
@@ -179,7 +179,7 @@
 [dialog]
 [stopmusic(fadetime=1)]
 [charslot(slot="m",name="avg_1019_siege2_1#2$1",focus="m")]
-[name="维娜"]......说够了吗？
+[name="维娜"]……说够了吗？
 [dialog]
 [charslot(slot="l",name="avg_1019_siege2_1#6$2",posfrom="200,0",posto="200,0",duration=0.7,isCopy=true)]
 [PlaySound(key="$d_avg_drawswordlong", volume=2)]
@@ -188,11 +188,11 @@
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
-[name="开斯特公爵"]......
+[name="开斯特公爵"]……
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
-[name="高多汀公爵"]......
+[name="高多汀公爵"]……
 [charslot(slot="m",name="avg_npc_1518_1#9$1",focus="m")]
-[name="“小公爵”"]......
+[name="“小公爵”"]……
 [dialog]
 [charslot]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -200,7 +200,7 @@
 [Sticker(id="st1", multi = true, text="<i>维娜坚持认为那场秘密会议需要被记录下来——</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>那是决定伦蒂尼姆未来的会议，而伦蒂尼姆的市民有权知道其中的一切。</i>",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="<i>我站在暗处，试图客观地记录他们的每一句话，但当我看到维娜拔出了腰间的佩剑，剑锋直指那些侃侃而谈的混蛋时......</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="<i>我站在暗处，试图客观地记录他们的每一句话，但当我看到维娜拔出了腰间的佩剑，剑锋直指那些侃侃而谈的混蛋时……</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>我真心希望她狠下心来把那些混蛋全都砍倒，至少也许这样，后来发生的事都会变得不一样。</i>",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -208,15 +208,15 @@
 [charslot(slot="m",name="avg_1019_siege2_1#6$2",focus="m")]
 [name="维娜"]老师说过，“诸王之息”也曾砍下过作乱权贵的脑袋——
 [charslot(slot="m",name="avg_1019_siege2_1#2$2",focus="m")]
-[name="维娜"]......不，它现在已经不叫“诸王之息”了，我也不知道应该叫它什么。
+[name="维娜"]……不，它现在已经不叫“诸王之息”了，我也不知道应该叫它什么。
 [charslot(slot="m",name="avg_1019_siege2_1#6$2",focus="m")]
 [name="维娜"]我甚至没有权力为它取名，因为这是工人们为了纪念那场伤痛还未退去的胜利而打造的。
 [name="维娜"]我本来以为，当它被遗忘在战场的泥泞中时，它的使命就已经结束。
-[name="维娜"]但那些失去了一切的英雄们却还记得它，因为那是他们心中的“维多利亚”......他们不愿意让她再次蒙尘。
+[name="维娜"]但那些失去了一切的英雄们却还记得它，因为那是他们心中的“维多利亚”……他们不愿意让她再次蒙尘。
 [charslot(slot="m",name="avg_npc_726_1#6$1",focus="m")]
-[name="开斯特公爵"]......
+[name="开斯特公爵"]……
 [charslot(slot="m",name="avg_1019_siege2_1#6$2",focus="m")]
-[name="维娜"]我知道他们把剑送我的真实想法，他们想要我替他们审判......审判真正给他们带去灾祸的人。
+[name="维娜"]我知道他们把剑送我的真实想法，他们想要我替他们审判……审判真正给他们带去灾祸的人。
 [name="维娜"]可你们没人害怕这把剑，不是吗？
 [dialog]
 [charslot]
@@ -237,11 +237,11 @@
 维娜抚摸着长剑护手两侧的纹饰，那是工匠们特意雕琢的。
 一柄锤，还有一把剑。它们在闪耀。
 [charslot(slot="m",name="avg_1019_siege2_1#2$2",focus="m")]
-[name="维娜"]......“若剑锋长明，维多利亚的荣光亦将长存。”
-[name="维娜"]他们恳请我协助他们重铸那柄已经残破不堪的剑......用我的锤子作为最核心的材料。
-[name="维娜"]重铸后的剑，他们送给了我，没有任何的犹豫。可我当时却不能回应他们任何承诺。国王，议长，对我而言......
+[name="维娜"]……“若剑锋长明，维多利亚的荣光亦将长存。”
+[name="维娜"]他们恳请我协助他们重铸那柄已经残破不堪的剑……用我的锤子作为最核心的材料。
+[name="维娜"]重铸后的剑，他们送给了我，没有任何的犹豫。可我当时却不能回应他们任何承诺。国王，议长，对我而言……
 [charslot(slot="m",name="avg_1019_siege2_1#6$2",focus="m")]
-[name="维娜"]......屁也不是。我和他们没有区别。我也只是个想要回家的人。
+[name="维娜"]……屁也不是。我和他们没有区别。我也只是个想要回家的人。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -251,7 +251,7 @@
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=2)]
-[name="维娜"]......
+[name="维娜"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -267,13 +267,13 @@
 [name="维娜"]对，我是看不到你们眼里那个“宏伟的”维多利亚——
 [charslot(slot="m",name="avg_1019_siege2_1#5$2",focus="m")]
 [name="维娜"]但我能看到拳馆里感染的孩子也想学拳保卫家乡。而满嘴烂牙的酒鬼，都愿意把藏在土里的烈酒送到医院，抢救那些手术台上的士兵。
-[name="维娜"]帝国的荣光离我们都太远，远到暖和不了新年寒冬里我们的硬床......
+[name="维娜"]帝国的荣光离我们都太远，远到暖和不了新年寒冬里我们的硬床……
 [charslot(slot="m",name="avg_1019_siege2_1#2$2",focus="m")]
 [name="维娜"]这把剑是他们交到我手上的责任。不用议会，也不用王权，我知道该做什么——
 [charslot(slot="m",name="avg_1019_siege2_1#6$2",focus="m")]
 [name="维娜"]我会试着让他们看到自己手中所拥有的力量，让他们明白，自己的地盘得自己来守！
 [name="维娜"]而在那之前，我必须站在他们身前，无论以何种身份。
-[name="维娜"]阴沟里也能开花。所以，至少在这，在我的家......
+[name="维娜"]阴沟里也能开花。所以，至少在这，在我的家……
 [charslot(slot="m",name="avg_1019_siege2_1#3$2",focus="m")]
 [name="维娜"]还轮不到你们教我！
 [Dialog]
@@ -318,7 +318,7 @@
 [charslot(slot="m",name="avg_npc_867_1#1$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]抱歉，阁下，我们......没拦住。
+[name="“灰礼帽”"]抱歉，阁下，我们……没拦住。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="npc_10002",duration=0.7)]
@@ -340,7 +340,7 @@
 [Decision(options="其他人并不可靠。",values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1019_siege2_1#10$1",focus="m")]
-[name="维娜"]博士......
+[name="维娜"]博士……
 [Dialog]
 [charslot]
 [Decision(options="当然，最终的决定权在你。;罗德岛始终会全力协助你处理城内的感染者事务。", values="1;2")]
@@ -367,14 +367,14 @@
 [Decision(options="时间有时会催促着我们做不理性的决定，公爵阁下。",values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1068_1#7$1",focus="m")]
-[name="高多汀公爵"]......哦？时间吗......
+[name="高多汀公爵"]……哦？时间吗……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.6)]
 [charslot(duration=1)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1518_1#2$1",focus="m")]
 [name="“小公爵”"]维娜，想想那些仍然被你护着的人，真正需要的是什么。
-[name="“小公爵”"]......还有记住，一旦你做出了那个决定，就别和罗德岛这些人走得太近。
+[name="“小公爵”"]……还有记住，一旦你做出了那个决定，就别和罗德岛这些人走得太近。
 [Dialog]
 [charslot(slot="m",name="avg_npc_1518_1#2$1",focus="n")]
 [Decision(options="阁下，我想我们与诺曼底公爵阁下的关系并不差。",values="1")]
@@ -386,17 +386,17 @@
 [stopsound(fadetime=2.5, channel="wk")]
 [charslot(duration=1)]
 [Delay(time=1.5)]
-[Decision(options="......",values="1")]
+[Decision(options="……",values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_1019_siege2_1#7$1",focus="m")]
-[name="维娜"]......她和那些公爵，不太一样。
+[name="维娜"]……她和那些公爵，不太一样。
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="维娜"]博士，接下来我们该怎么做？
 [Dialog]
 [charslot]
 [Decision(options="你心里已经有答案了不是吗，维娜？;罗德岛不太方便继续插手伦蒂尼姆的事务。", values="1;2")]
 [Predicate(references="1;2")]
-[Decision(options="阿米娅已经动身去卡兹戴尔了。;罗德岛的大部分人......会尽快撤离伦蒂尼姆。", values="1;2")]
+[Decision(options="阿米娅已经动身去卡兹戴尔了。;罗德岛的大部分人……会尽快撤离伦蒂尼姆。", values="1;2")]
 [Predicate(references="1;2")]
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -417,7 +417,7 @@
 [delay(time=1)]
 [stopsound(channel="tk", fadetime=2)]
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="长弩"]巴别塔带着我的兄弟们离开很久了......这段日子，对我们这些人来说可真够难熬的。
+[name="长弩"]巴别塔带着我的兄弟们离开很久了……这段日子，对我们这些人来说可真够难熬的。
 [name="长弩"]嘁，动手吧，我没有其他什么好说的。
 [Dialog]
 [charslot]
@@ -430,7 +430,7 @@
 [name="戴菲恩"]“长弩”，佣兵出身，来自卡兹戴尔一个叫“疤痕商场”的地方。战争期间一直在城内参与军事委员会的城防工作，没去过前线。
 [name="戴菲恩"]两个月前巴别塔组织撤军行动，他没有离开，而是在掩护一些本地萨卡兹撤离时被因陀罗和达格达抓到。当时你的确放了他。
 [charslot(slot="m",name="avg_1019_siege2_1#10$1",focus="m")]
-[name="维娜"]我......不记得了。
+[name="维娜"]我……不记得了。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="长弩"]呵。
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
@@ -463,17 +463,17 @@
 [name="戴菲恩"]“铣痕”——你知道这个名字吧？
 [name="戴菲恩"]他们做“生意”的手，已经伸到了不该伸的地方。
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
-[name="长弩"]......哈，哈哈。
+[name="长弩"]……哈，哈哈。
 [name="长弩"]我什么都不知道，菲林，你们可以杀我了。
 [charslot(slot="m",name="avg_1019_siege2_1#2$1",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="m")]
 [name="长弩"]难道你们怕我的血脏了这个漂亮地方吗？
 [name="长弩"]那场仗可才刚刚结束不久，你们就已经开始害怕见血？！
 [CameraShake(duration=0.7,xstrength=25, ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="长弩"]——坐在这里的所有人，甚至还没有那些你们不承认是维多利亚人的萨卡兹来得坦荡！
 [charslot(slot="m",name="avg_4110_delphn_1#1$1",focus="m")]
-[name="戴菲恩"]......后面的事，交给我吧。
+[name="戴菲恩"]……后面的事，交给我吧。
 [charslot(slot="m",name="avg_1019_siege2_1#2$1",focus="m")]
 [name="维娜"]好。
 [Dialog]
@@ -487,7 +487,7 @@
 [name="嘶哑的声音"]最近城里的事，公爵阁下有没有新的指示？
 [name="温柔的声音"]阁下早已知晓了这些萨卡兹和“铣痕”的麻烦，她也很担心市民们的安全。
 [name="温柔的声音"]不过议会如今有诸位议员在，又加之议长阁下一直勤于替市民们解决麻烦，所以她相信事情总会渐渐好起来的。
-[name="温柔的声音"]只是......
+[name="温柔的声音"]只是……
 [name="嘶哑的声音"]只是？
 [name="温柔的声音"]只是对于铲除威胁到伦蒂尼姆安全的因素，公爵阁下的态度都是不宜拖延，尤其是对“铣痕”。
 [name="温柔的声音"]所以还是麻烦诸位多多督促议长阁下早日解决城里这些头疼事。
@@ -507,7 +507,7 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
 [name="不耐烦的佣兵"]老大，那个魔族佬被议会吊死了，但是他委托的货抢回来了。
-[name="不耐烦的佣兵"]这批货......
+[name="不耐烦的佣兵"]这批货……
 [Dialog]
 [charslot]
 [delay(time=0.2)]
@@ -516,7 +516,7 @@
 [charslot(slot="m",name="avg_npc_1342_1#1$1",focus="m")]
 [name="“铣痕”"]送出去。
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
-[name="不耐烦的佣兵"]可老大......现在风险太高了。议会那帮人一直在追查我们。
+[name="不耐烦的佣兵"]可老大……现在风险太高了。议会那帮人一直在追查我们。
 [charslot(slot="m",name="avg_npc_1342_1#1$1",focus="m")]
 [name="“铣痕”"]暂时把货藏着避一避，他们已经付了账，我们就只管把货送出去，其他不需要考虑。
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
@@ -532,7 +532,7 @@
 [name="不耐烦的佣兵"]我们手里的兄弟死在那些魔族佬手里的还少吗？！
 [charslot(slot="m",name="avg_npc_1342_1#1$2",focus="m")]
 [name="“铣痕”"]如果你真在乎，你现在应该在典范军的退役名单里，而不是在这。
-[name="“铣痕”"]......但小心行事总没错。那位新议长如此在意城市安全，除了那些萨卡兹，我们必然首当其冲。
+[name="“铣痕”"]……但小心行事总没错。那位新议长如此在意城市安全，除了那些萨卡兹，我们必然首当其冲。
 [charslot(slot="m",name="avg_npc_399_1#1$1",focus="m")]
 [name="不耐烦的佣兵"]哼，不过这些魔族佬也是自找的。
 [charslot(slot="m",name="avg_npc_1342_1#1$2",focus="m")]
@@ -554,15 +554,15 @@
 [charslot(slot="l",name="avg_npc_1519_1#9$1",focus="l")]
 [name="退伍女兵"]你终于回来了，怎么样？能领到吗？
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
-[name="受伤的典范军士兵"]疗养院人都挤满了，谁都想要先搞到抑制剂，又赶上梅杰女士......
+[name="受伤的典范军士兵"]疗养院人都挤满了，谁都想要先搞到抑制剂，又赶上梅杰女士……
 [name="受伤的典范军士兵"]抱歉，黛安，哪怕是典范军也没那个特权。
 [name="受伤的典范军士兵"]一直和我们合作的罗德岛已经尽全力供应抑制剂，但新的感染者实在太多了——
 [charslot(slot="l",name="avg_npc_1519_1#2$1",focus="l")]
-[name="黛安"]我......知道。
+[name="黛安"]我……知道。
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
-[name="受伤的典范军士兵"]唔......也不是一点办法没有，我从战友那听说了个私下的渠道......
+[name="受伤的典范军士兵"]唔……也不是一点办法没有，我从战友那听说了个私下的渠道……
 [charslot(slot="l",name="avg_npc_1519_1#2$1",focus="l")]
-[name="黛安"]......非法的？
+[name="黛安"]……非法的？
 [charslot(slot="r",name="avg_npc_423_1#1$1",focus="r")]
 [name="受伤的典范军士兵"]如果能多活几天——
 [Dialog]
@@ -577,32 +577,32 @@
 [charslot(slot="m",name="avg_487_bobb_1#1$1",focus="m")]
 [name="？？？"]哦哦，抱歉，我一路从哥伦比亚赶过来可能有点太疲惫了。你们好，我叫埃利西奥，这是我的名片。
 [charslot(slot="m",name="avg_npc_1519_1#9$1",focus="m")]
-[name="黛安"]哥伦......比亚？赤心医疗？
+[name="黛安"]哥伦……比亚？赤心医疗？
 [charslot(slot="m",name="avg_487_bobb_1#1$1",focus="m")]
-[multiline(name="埃利西奥")]是的，我是特意赶来找，找......
+[multiline(name="埃利西奥")]是的，我是特意赶来找，找……
 [charslot(slot="m",name="avg_487_bobb_1#11$1",focus="m")]
-[multiline(name="埃利西奥")]嗯，稍等，让我确认一下单子......
+[multiline(name="埃利西奥")]嗯，稍等，让我确认一下单子……
 [name="埃利西奥"]进入伦蒂尼姆以来，我见到的几乎每一件事都与前期资料的描述有很大出入。
 [Dialog]
 [PlaySound(key="$d_avg_paper2")]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_487_bobb_1#11$1",focus="m")]
-[name="埃利西奥"]找到了。伦蒂尼姆临时公共卫生行政官......梅杰女士。请问临时物资筹备公共办公室该怎么走？
+[name="埃利西奥"]找到了。伦蒂尼姆临时公共卫生行政官……梅杰女士。请问临时物资筹备公共办公室该怎么走？
 [charslot(slot="m",name="avg_487_bobb_1#1$1",focus="m")]
 [name="埃利西奥"]放心，我就是代表赤心医疗来谈药物合作的，你们的情况很快就能缓解了。
 [charslot(slot="m",name="avg_npc_1519_1#2$1",focus="m")]
-[name="黛安"]......
+[name="黛安"]……
 [charslot(slot="m",name="avg_npc_423_1#1$1",focus="m")]
-[name="受伤的典范军士兵"]......
+[name="受伤的典范军士兵"]……
 [charslot(slot="m",name="avg_487_bobb_1#11$1",focus="m")]
-[name="埃利西奥"]......呃，我说错了什么吗？
+[name="埃利西奥"]……呃，我说错了什么吗？
 [charslot(slot="m",name="avg_npc_1519_1#2$1",focus="m")]
-[name="黛安"]你没有收到消息吗？梅杰女士她......去世了，就在今天早上。
+[name="黛安"]你没有收到消息吗？梅杰女士她……去世了，就在今天早上。
 [name="黛安"]抱歉。
 [charslot(slot="m",name="avg_487_bobb_1#4$1",focus="m")]
 [name="埃利西奥"]——？！
 [charslot(slot="m",name="avg_487_bobb_1#11$1",focus="m")]
-[name="埃利西奥"]抱歉，请原谅我的失态......无论要付出多少努力，赤心医疗的诚意和承诺都不会改变。
+[name="埃利西奥"]抱歉，请原谅我的失态……无论要付出多少努力，赤心医疗的诚意和承诺都不会改变。
 [name="埃利西奥"]但当务之急是，能拜托您领我去临时物资筹备公共办公室吗？
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

@@ -17,16 +17,16 @@
 [name="？？？"]  现在，魏彦吾，你又要牺牲谁、牺牲什么？
 [Dialog(fadetime=1)]
 [Delay(time=1)]
-[name="陈"]   唔......呃......
+[name="陈"]   唔……呃……
 [Character(name="char_308_swire_1#4")]
 [name="？？？"]  喂，醒醒！
 [Character]
-[name="陈"]   救她......
+[name="陈"]   救她……
 [Character(name="char_308_swire_1#4",fadetime=0.5,block=true)]
 [Delay(time=0.5)]
 [name="？？？"]  陈警司，醒醒！
 [Character]
-[name="陈"]   ......让我过去！让我......
+[name="陈"]   ……让我过去！让我……
 [Character(name="char_308_swire_1#4")]
 [name="？？？"]  *龙门粗口*，我哪有时间和你这么耗下去！
 [Character]
@@ -44,17 +44,17 @@
 [Character(name="char_010_chen_1#6")]
 [Blocker(a=0, fadetime=1.5, block=true)]
 [name="陈"]   唔！
-[name="陈"]   噗，咳，咳咳......
+[name="陈"]   噗，咳，咳咳……
 [Character]
 [Character(name="char_308_swire_1#4")]
 [name="？？？"]   醒了？
 [Character(name="char_010_chen_1#6")]
 [name="陈"]   咳。
-[name="陈"]   怎么......
+[name="陈"]   怎么……
 [Character(name="char_010_chen_1#2")]
 [name="陈"]   星熊，快！整合运动——
 [Character(name="char_010_chen_1#3")]
-[name="陈"]   ......
+[name="陈"]   ……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2,block=true)]
 [Image]
@@ -84,7 +84,7 @@
 [Character(name="char_136_hsguma",name2="char_308_swire_1#5",focus=2)]
 [name="诗怀雅"]   哼。
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]
-[name="星熊"]   老陈你也是，才刚醒就......
+[name="星熊"]   老陈你也是，才刚醒就……
 [name="星熊"]   等等，你怎么湿得跟刚被园艺车浇过一样？
 [Character(name="char_010_chen_1#1")]
 [name="陈"]   你问她。
@@ -93,7 +93,7 @@
 [Character(name="char_136_hsguma",name2="char_308_swire_1#5",focus=2)]
 [name="诗怀雅"]   她梦里说胡话。
 [Character(name="char_136_hsguma")]
-[name="星熊"]   搞什么......
+[name="星熊"]   搞什么……
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]   我们在哪？
 [Character(name="char_136_hsguma",name2="char_010_chen_1#1",focus=1)]

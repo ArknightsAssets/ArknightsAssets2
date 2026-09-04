@@ -10,10 +10,10 @@
 1月5日  阴
 下城区一栋居民楼发生火灾。
 [PlaySound(key="$fireburst", volume=0.4)]
-[name="阿消"]请各位不要慌乱听从指示尽快撤至警戒线外，请大家不要慌乱......
-[name="？？？"]完了......一辈子积蓄，全没了......
-[name="？？？"]哈哈......烧得好啊，把这鬼地方烧得干干净净才好！哈哈哈哈......
-[name="？？？"]妈......妈妈......
+[name="阿消"]请各位不要慌乱听从指示尽快撤至警戒线外，请大家不要慌乱……
+[name="？？？"]完了……一辈子积蓄，全没了……
+[name="？？？"]哈哈……烧得好啊，把这鬼地方烧得干干净净才好！哈哈哈哈……
+[name="？？？"]妈……妈妈……
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -27,10 +27,10 @@
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_277_shaw_1#2",fadetime=1.5)]
 [delay(time=2)]
-[name="阿消"] ......
+[name="阿消"] ……
 [character(name="char_015_lmg")]
 [name="资深近卫局成员"] 开辟道路！优先确保重伤人员得到救治！
-[name="资深近卫局成员"] 咳咳......咳......
+[name="资深近卫局成员"] 咳咳……咳……
 [name="资深近卫局成员"] 居民都疏散完了吗？
 [dialog]
 [character]
@@ -40,11 +40,11 @@
 [character(name="avg_npc_032")]
 [name="女性居民"] 萌萌！
 [character(name="char_015_lmg")]
-[name="资深近卫局成员"] 唉......
+[name="资深近卫局成员"] 唉……
 [character(name="char_015_lmg")]
 [name="资深近卫局成员"] 请大家相互看看，有没有自己认识的人还没有撤离出来？
 [character(name="avg_npc_032")]
-[name="女性居民"]有没有人见到，住在三楼的那个怪人......
+[name="女性居民"]有没有人见到，住在三楼的那个怪人……
 [character(name="avg_npc_033")]
 [name="男性居民"]对啊，好像没见到他。
 [character(name="char_015_lmg")]
@@ -52,13 +52,13 @@
 [character(name="char_015_lmg")]
 [name="资深近卫局成员"] 这可不是开玩笑的事，你们能确定他在家吗？
 [character(name="avg_npc_032")]
-[name="女性居民"]我......我不确定。
+[name="女性居民"]我……我不确定。
 [character(name="avg_npc_045_nn_1")]
 [name="小女孩"] 我知道！
 [character(name="avg_npc_045_nn_1")]
 [name="小女孩"] 那个叔叔每次出门的时候都会拉开窗帘，可我刚才跑下来的时候，看到窗帘是拉上的。
 [character(name="char_015_lmg")]
-[name="资深近卫局成员"] ......麻烦了。
+[name="资深近卫局成员"] ……麻烦了。
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
 [delay(time=1)]
 [name="资深近卫局成员"]喂，喂——
@@ -79,7 +79,7 @@
 [character(name="avg_277_shaw_1#6")]
 [name="阿消"]我有不止一次的火场救援经验请相信我长官！
 [character(name="char_015_lmg")]
-[name="资深近卫局成员"] 保持联络......千万小心。
+[name="资深近卫局成员"] 保持联络……千万小心。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -94,7 +94,7 @@
 [dialog]
 [PlaySound(key="$transmission",volume=0.6)]
 [delay(time=1.5)]
-[name="通讯声"] ......阿消，现场怎么样？
+[name="通讯声"] ……阿消，现场怎么样？
 [character(name="avg_277_shaw_1#1")]
 [name="阿消"]报告，我已进入燃烧建筑。火场温度大概在四百五十度左右。
 [character(name="avg_277_shaw_1#1")]
@@ -119,11 +119,11 @@
 [name="通讯声"] 阿消，汇报情况。
 [character(name="avg_277_shaw_1#5")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="阿消"]咳咳......目前我在二楼烟雾浓度很高......三楼情况应该更加严峻。
+[name="阿消"]咳咳……目前我在二楼烟雾浓度很高……三楼情况应该更加严峻。
 [character(name="avg_277_shaw_1#2")]
 [name="阿消"]被困的人处境一定很危险得抓紧时间才行。
 [character(name="avg_277_shaw_1#1")]
-[name="阿消"]视野很不清楚......
+[name="阿消"]视野很不清楚……
 [dialog]
 [character]
 [PlaySound(key="$transmission",volume=0.6)]
@@ -147,17 +147,17 @@
 [character(name="avg_277_shaw_1#5",fadetime=1.5)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [delay(time=2)]
-[name="阿消"]咳咳......报告长官我没事！是居民放在这里的柜子倒了。
+[name="阿消"]咳咳……报告长官我没事！是居民放在这里的柜子倒了。
 [character(name="avg_277_shaw_1#1")]
 [name="阿消"]（安全通道里一定不能堆积杂物这个知识点得加到下次的消防安全演讲稿里才行。）
 [dialog]
 [character]
 [PlaySound(key="$transmission",volume=0.6)]
-[name="通讯声"] 小心一点......
+[name="通讯声"] 小心一点……
 [dialog]
 [delay(time=1)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="？？？"] 救命......救......命......
+[name="？？？"] 救命……救……命……
 [character(name="avg_277_shaw_1#6")]
 [name="阿消"]啊！报告长官我听到求救声！
 [character(name="avg_277_shaw_1#6")]
@@ -171,7 +171,7 @@
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [name="阿消"]是这间屋子！
-[name="？？？"]救......救救我......
+[name="？？？"]救……救救我……
 [name="阿消"]先生！我听见您了！
 [name="阿消"]请您捂住口鼻不要说话尽量保留体力！我这就想办法救您出来。
 [PlaySound(key="$sheildimpact")]
@@ -194,7 +194,7 @@
 [delay(time=1)]
 火星飞溅，阿消手中的斧头也因火场的高温变得滚烫。
 阿消用力攥紧斧柄，又更用力地向门锁劈砍下去。门锁处的裂口已经清晰可见。
-[name="阿消"]就差一点了......
+[name="阿消"]就差一点了……
 [dialog]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$e_skill_skulsrsword", volume=1)]
@@ -211,9 +211,9 @@
 [Background(image="bg_black",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=2)]
-[name="阿消"]救火......
-[name="阿消"]救火......救火......
-[name="阿消"]救人......
+[name="阿消"]救火……
+[name="阿消"]救火……救火……
+[name="阿消"]救人……
 [dialog]
 [delay(time=1)]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -238,7 +238,7 @@
 [delay(time=0.7)]
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=1)]
 [name="资深近卫局成员"] 阿消！
-[name="资深近卫局成员"] 吓死我了，你可算醒了......
+[name="资深近卫局成员"] 吓死我了，你可算醒了……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#6", focus=2)]
 [name="阿消"] 火、火情怎么样了？！
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#6", focus=1)]
@@ -272,7 +272,7 @@
 屋里的一切都化为焦炭，这让它看上去又有些空旷。
 在房间的角落里有一个保险箱，已经因为高温而变形，里面存放的东西却奇迹般地保留了下来。
 是一小沓龙门币和一本集邮册。
-[name="阿消"] ......
+[name="阿消"] ……
 [name="资深近卫局成员"] 阿消。
 [name="资深近卫局成员"] 收队了。
 [Dialog]
@@ -321,11 +321,11 @@
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=1)]
 [name="资深近卫局成员"] 我们已经在报纸上发了尸体认领通知，但是到现在也没有人来认领。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 可是万一，万一家属看不到呢？如果他的家人都不在龙门......
+[name="阿消"] 可是万一，万一家属看不到呢？如果他的家人都不在龙门……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=1)]
 [name="资深近卫局成员"] 这可不是我们职责范围内的事了。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=2)]
-[multiline(name="阿消")] 难道真的没有办法了吗......
+[multiline(name="阿消")] 难道真的没有办法了吗……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#4", focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [multiline(name="阿消",delay=0.02)] 对了，集邮册！
@@ -340,15 +340,15 @@
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#4", focus=1)]
 [name="资深近卫局成员"] 就是家用源石点火装置引发的火灾，这是近卫局和消防队一致得出的结论，应该没什么疑问才对。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#2", focus=2)]
-[name="阿消"] 长官......我......
+[name="阿消"] 长官……我……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=2)]
-[name="阿消"] 长官......可以把那本集邮册给我吗？
+[name="阿消"] 长官……可以把那本集邮册给我吗？
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=1)]
 [name="资深近卫局成员"] 按规定，这种无名死者的遗物本来是要销毁的。给你倒也不是不行，不过你要它干什么？
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#2", focus=2)]
-[name="阿消"] 长官......我有非常重要的事想要知道但我还不知道怎么解释——
+[name="阿消"] 长官……我有非常重要的事想要知道但我还不知道怎么解释——
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#2", focus=1)]
-[name="资深近卫局成员"] 哎，真拿你没办法......跟我来吧。
+[name="资深近卫局成员"] 哎，真拿你没办法……跟我来吧。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#7", focus=2)]
 [name="阿消"] 非常感谢！
 [Dialog]
@@ -364,21 +364,21 @@
 [character(name="avg_npc_033")]
 [name="男性居民"]三楼住户？不是前几天才来问过一遍吗？都说了不认识他！
 [character(name="avg_npc_033")]
-[name="男性居民"]整天摆着张臭脸，见谁都爱搭不理的样子，谁会理那种人......
+[name="男性居民"]整天摆着张臭脸，见谁都爱搭不理的样子，谁会理那种人……
 [character(name="avg_npc_033")]
 [name="男性居民"]我一大半屋子都烧没了，哪还有功夫管别人？我很忙，别烦我了。
 [Character(name="avg_277_shaw_1#5")]
-[name="阿消"] 非常抱歉，打扰您了......
+[name="阿消"] 非常抱歉，打扰您了……
 [character(name="avg_npc_032")]
-[name="女性居民"]这栋楼里居民不多，大家基本都是相互认识的......
+[name="女性居民"]这栋楼里居民不多，大家基本都是相互认识的……
 [character(name="avg_npc_032")]
-[name="女性居民"]但是那一位，从来不和别人说话，好像甚至从来不在白天出门，所以大家都不太清楚他的情况......
+[name="女性居民"]但是那一位，从来不和别人说话，好像甚至从来不在白天出门，所以大家都不太清楚他的情况……
 [character(name="avg_npc_045_nn_1")]
 [name="小女孩"] 我见过那个叔叔一次，他个子特别高！有这——么高。
 [character(name="avg_npc_045_nn_1")]
 [name="小女孩"] 他对我笑了，还给了我一颗糖。
 [character(name="avg_npc_045_nn_1")]
-[name="小女孩"] 咦，是叔叔还是爷爷？我也不清楚......
+[name="小女孩"] 咦，是叔叔还是爷爷？我也不清楚……
 [character(name="avg_npc_032")]
 [name="女性居民"]萌萌！和你说过多少次，不许拿陌生人的东西！
 [character(name="avg_npc_032")]
@@ -386,9 +386,9 @@
 [Character(name="avg_277_shaw_1#1")]
 [name="阿消"] 打扰您了非常感谢再见！
 [Character(name="avg_277_shaw_1#2")]
-[name="阿消"] ......
+[name="阿消"] ……
 [Character(name="avg_277_shaw_1#5")]
-[name="阿消"] 还是不知道......
+[name="阿消"] 还是不知道……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -401,7 +401,7 @@
 请假。
 问过了许多人，没有人知道那位先生的情况。
 好像火灾真的可以把一个人的生活痕迹烧得干干净净。他仿佛从来没有在这个城市出现过一样。
-不对，这些不是工作内容，不应该写在这......
+不对，这些不是工作内容，不应该写在这……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -419,7 +419,7 @@
 [character(name="avg_npc_223",focus=-1)]
 [delay(time=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="阿消"] ......请等一下！
+[name="阿消"] ……请等一下！
 [dialog]
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#1",fadetime=0.7)]
 [delay(time=0.7)]
@@ -428,17 +428,17 @@
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#1",focus=2)]
 [name="阿消"] 请您看看这本集邮册！
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#1",focus=1)]
-[name="邮局员工"] 啊？要是想咨询收藏品价值，你得找邮局的收藏专家挂号预约才行。我这都要下班了......
+[name="邮局员工"] 啊？要是想咨询收藏品价值，你得找邮局的收藏专家挂号预约才行。我这都要下班了……
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#5",focus=2)]
 [name="阿消"] 不是的！非常抱歉，我想问一下，您可以通过这本集邮册看出它的主人的信息吗？
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#1",focus=1)]
-[name="邮局员工"] 这是什么意思......这本集邮册不是你的？
+[name="邮局员工"] 这是什么意思……这本集邮册不是你的？
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=2)]
-[name="阿消"] 不是......不对也不能说不是，总之可以麻烦您看看吗？这真的很重要......
+[name="阿消"] 不是……不对也不能说不是，总之可以麻烦您看看吗？这真的很重要……
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=1)]
 [name="邮局员工"] 好吧好吧，你先别急，我看看再说。
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=1)]
-[name="邮局员工"] 嗯......这种收集倒是少见。
+[name="邮局员工"] 嗯……这种收集倒是少见。
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#4",focus=2)]
 [name="阿消"] 您看出什么了吗？！
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#4",focus=1)]
@@ -450,9 +450,9 @@
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#1",focus=1)]
 [name="邮局员工"] 但是这本集邮册里全是最常见的邮票，完全没有收藏价值啊。
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=2)]
-[name="阿消"] 没有收藏价值？可是它的主人明明把它保管得很好......
+[name="阿消"] 没有收藏价值？可是它的主人明明把它保管得很好……
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=1)]
-[name="邮局员工"] 完全看不懂这位藏主的收藏逻辑，邮票的主题和年份都很混乱，有邮戳和没有邮戳的邮票也都混在一起......
+[name="邮局员工"] 完全看不懂这位藏主的收藏逻辑，邮票的主题和年份都很混乱，有邮戳和没有邮戳的邮票也都混在一起……
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=1)]
 [name="邮局员工"] 不过关于勾吴风景的格外多，你看，从这一页开始后面就全是勾吴风景主题的了。
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=1)]
@@ -460,20 +460,20 @@
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#2",focus=1)]
 [name="邮局员工"] 除了这些，我是真的看不出这套收藏有什么特别的了。
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#5",focus=2)]
-[name="阿消"] 只有这些了吗......
+[name="阿消"] 只有这些了吗……
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#5",focus=1)]
 [name="邮局员工"] 你要是问能从这套收藏中看出藏主的什么信息，我只能说抱歉了。
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#5",focus=1)]
 [name="邮局员工"] 非要说的话，那他大概是个很喜欢勾吴风景的人吧。
 [Character(name="avg_npc_223",name2="avg_277_shaw_1#7",focus=2)]
-[name="阿消"] 明白了......非常感谢您！
+[name="阿消"] 明白了……非常感谢您！
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(name="char_empty",name2="avg_277_shaw_1#1",fadetime=1.5)]
 [delay(time=1.8)]
 [Character(name="avg_277_shaw_1#2")]
-[name="阿消"] 勾吴风景......
-[name="阿消"] 那位先生......是勾吴人吗？
+[name="阿消"] 勾吴风景……
+[name="阿消"] 那位先生……是勾吴人吗？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -487,11 +487,11 @@
 [playsound(key="$d_gen_walk_n")]
 [character(name="avg_277_shaw_1#2",fadetime=1.5)]
 [delay(time=2)]
-[name="阿消"]“勾吴人家”......就是这了。
+[name="阿消"]“勾吴人家”……就是这了。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=1)]
 [name="老板"]客人里面请，随便坐啊。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=2)]
-[name="阿消"]老板您好我想和您打听一些事......请问您这是正宗勾吴菜吗？
+[name="阿消"]老板您好我想和您打听一些事……请问您这是正宗勾吴菜吗？
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=1)]
 [name="老板"]哎你这小姑娘，你倒是在整个龙门打听一遍，看哪家勾吴菜敢说比我家正宗！
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#3",focus=2)]
@@ -504,22 +504,22 @@
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#3",focus=1)]
 [name="老板"]你要是不信，不如亲自尝尝！
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=2)]
-[name="阿消"]老板......我想向您打听一个客人......
+[name="阿消"]老板……我想向您打听一个客人……
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=2)]
-[name="阿消"]他......他应该是勾吴人......是男性，个子特别高。应该很拮据。看上去或许有点凶，也许不凶......只会在晚上过来吃饭，经常独来独往......
+[name="阿消"]他……他应该是勾吴人……是男性，个子特别高。应该很拮据。看上去或许有点凶，也许不凶……只会在晚上过来吃饭，经常独来独往……
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=1)]
-[name="老板"]唔......
+[name="老板"]唔……
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=2)]
-[name="阿消"]可能我说得不太清楚但是......您有印象吗！哪怕是一点点线索都行！
+[name="阿消"]可能我说得不太清楚但是……您有印象吗！哪怕是一点点线索都行！
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=1)]
-[name="老板"]你说......个子特别高？
+[name="老板"]你说……个子特别高？
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=1)]
 [name="老板"]有印象，有印象。的确有这么一号客人。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="阿消"]您认识他？！
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=1)]
-[name="老板"]嗯......算是个熟人吧。
+[name="老板"]嗯……算是个熟人吧。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=2)]
 [name="阿消"]——！
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=1)]
@@ -527,27 +527,27 @@
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=1)]
 [name="老板"]他来了也不多点，就点一条鳞一盘小菜，还有一瓶酒。吃完喝完，自己坐一会儿就走了。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=1)]
-[name="老板"]对，看上去是有点凶，但人还不错，吃完饭还会主动帮我收拾。有时候多喝几杯，还会拉着我给我讲他老家的事，真是......
+[name="老板"]对，看上去是有点凶，但人还不错，吃完饭还会主动帮我收拾。有时候多喝几杯，还会拉着我给我讲他老家的事，真是……
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=2)]
-[name="阿消"]老板......您知道，他有什么亲人朋友吗？
+[name="阿消"]老板……您知道，他有什么亲人朋友吗？
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=1)]
 [name="老板"]亲人朋友？那他可没跟我说过。不过看起来不像是结了婚的人。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=1)]
-[name="老板"]不过你要这么想知道，他下回来我可以帮你问问？不对不对，我这算不算泄露客人隐私啊......哎，还是下回你自己找他问吧。
+[name="老板"]不过你要这么想知道，他下回来我可以帮你问问？不对不对，我这算不算泄露客人隐私啊……哎，还是下回你自己找他问吧。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#1",focus=2)]
 [name="阿消"]老板，您能再和我说说，这个客人的事吗？
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#5",focus=2)]
-[name="阿消"]他应该，再也不会来了......
+[name="阿消"]他应该，再也不会来了……
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#5",focus=1)]
 [name="老板"]不会来了？不可能不可能，他可喜欢吃我做的菜了。就是他说，我做的菜和老家的味道一模一样。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#5",focus=1)]
-[name="老板"]不过说起来，他的确有段时间没来了......
+[name="老板"]不过说起来，他的确有段时间没来了……
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#5",focus=1)]
 [name="老板"]那个年轻人，也不知道在忙什么。
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=2)]
 [name="阿消"]等、等一下！
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=2)]
-[name="阿消"]您、您刚说，他是个......年轻人？
+[name="阿消"]您、您刚说，他是个……年轻人？
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#4",focus=1)]
 [name="老板"]对啊，是个年轻人，看上去年纪比你大一些，但也大不了多少吧。
 [dialog]
@@ -570,7 +570,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#5",focus=2)]
-[name="阿消"]......
+[name="阿消"]……
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#5",focus=1)]
 [name="老板"]哎哎哎，小姑娘你怎么哭了？你，你是要找亲人还是？
 [Character(name="avg_npc_006",name2="avg_277_shaw_1#5",focus=1)]
@@ -585,7 +585,7 @@
 [delay(time=2)]
 [Character(name="avg_277_shaw_1#5")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="阿消"]是......是您！
+[name="阿消"]是……是您！
 [dialog]
 [character(name="char_015_lmg")]
 [name="资深近卫局成员"]阿消？
@@ -597,7 +597,7 @@
 [Delay(time=2)]
 [PlayMusic(intro="$loneliness_intro", key="$loneliness_loop", volume=0.4)]
 [name="资深近卫局成员"]真怀念啊。
-[name="资深近卫局成员"]“灰齐山麓”......我就是在这灰齐山脚下的小镇子长大的。
+[name="资深近卫局成员"]“灰齐山麓”……我就是在这灰齐山脚下的小镇子长大的。
 [name="资深近卫局成员"]还记得，后山有一座小池塘。小时候家里吃的鳞，都是从那里面钓的。
 [Dialog]
 [Background(image="bg_rooftop_2",screenadapt="coverall")]
@@ -612,35 +612,35 @@
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=2)]
 [name="阿消"] 您说的这些地方，那个人也去过吗？
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=1)]
-[name="资深近卫局成员"] 那可不好说啊......
+[name="资深近卫局成员"] 那可不好说啊……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=1)]
 [name="资深近卫局成员"] 勾吴不大，但人口也算不上少。只可惜，我不认识那一位。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#1", focus=1)]
 [name="资深近卫局成员"] 不过，刚听你讲了这些，我对这个人好像也不能说是陌生了——你倒是心细，我们之前调查时，都没有想到这一层。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#2", focus=2)]
-[name="阿消"] 长官......您觉得，这位先生是怎样的人？
+[name="阿消"] 长官……您觉得，这位先生是怎样的人？
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#2", focus=1)]
-[name="资深近卫局成员"] 不好说啊......应该，是个很想家的人吧。
+[name="资深近卫局成员"] 不好说啊……应该，是个很想家的人吧。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#2", focus=1)]
 [name="资深近卫局成员"] 所以你要这本集邮册，就是想找到死者的家人？
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#2", focus=1)]
 [name="资深近卫局成员"] 为什么这么执着？
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 我......我没能救下他......
+[name="阿消"] 我……我没能救下他……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 当时......我，我已经听到他的声音了，他就在门口向我求救......
+[name="阿消"] 当时……我，我已经听到他的声音了，他就在门口向我求救……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 如果当时我的动作可以再快一点，我是不是就可以......
+[name="阿消"] 如果当时我的动作可以再快一点，我是不是就可以……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 一个人不应该就这样消失了......
+[name="阿消"] 一个人不应该就这样消失了……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 我想至少要找到他的家人，把他这本集邮册交给他们，说一句对不起......
+[name="阿消"] 我想至少要找到他的家人，把他这本集邮册交给他们，说一句对不起……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=1)]
 [name="资深近卫局成员"] 阿消，不管多少遍我还是要说，你尽力了。在那种情况下，没人能做得比你更好，你自己也不行。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=1)]
 [name="资深近卫局成员"] 我不能告诉你这样的念头就是错的，但是，你背着这样的包袱，下次还能毫不犹豫地冲进火场吗？
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 我......我......
+[name="阿消"] 我……我……
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=1)]
 [name="资深近卫局成员"] 阿消，这不是你的错。
 [Character(name="char_015_lmg", name2="avg_277_shaw_1#5", focus=1)]
@@ -652,7 +652,7 @@
 [Character(name="char_empty",name2="avg_277_shaw_1#5",fadetime=1.5)]
 [delay(time=1.8)]
 [Character(name="char_empty", name2="avg_277_shaw_1#5", focus=2)]
-[name="阿消"] 呜......呜呜......
+[name="阿消"] 呜……呜呜……
 [character(fadetime=1)]
 [delay(time=1)]
 [Dialog]
@@ -661,8 +661,8 @@
 [delay(time=1)]
 [Background(image="bg_black",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="阿消"] 呜......呜呜......呜......
-[name="阿消"] 呜啊......
+[name="阿消"] 呜……呜呜……呜……
+[name="阿消"] 呜啊……
 [dialog]
 [musicvolume(volume=0, fadetime=1.5)]
 [delay(time=3)]
@@ -687,13 +687,13 @@
 [character(name="avg_277_shaw_1#1")]
 [name="阿消"]刚才，向大家讲述了常见的点火装置可能造成的危害。
 [character(name="avg_277_shaw_1#1")]
-[name="阿消"]事例中的火灾情形并不只是理论上的可能，在两年前，龙门就发生过这样的一场火灾......
+[name="阿消"]事例中的火灾情形并不只是理论上的可能，在两年前，龙门就发生过这样的一场火灾……
 [character(name="avg_277_shaw_1#1")]
 [name="阿消"]我们要牢记在火灾现场正确的逃生方式，但是归根结底，对于火灾，最有效的方式，永远是防患于未然。
 [character(name="avg_277_shaw_1#1")]
 [name="阿消"]比起天灾，火灾，往往因人的行为而产生，但却很难因人的意志而消失。
 [character(name="avg_277_shaw_1#1")]
-[name="阿消"]事故可以从源头上防范，而悲剧一旦发生，无论怎样懊悔，都无法挽回......
+[name="阿消"]事故可以从源头上防范，而悲剧一旦发生，无论怎样懊悔，都无法挽回……
 [dialog]
 [Character(name="char_281_popka_1",name2="char_209_ardign",fadetime=1)]
 [delay(time=1)]
@@ -721,11 +721,11 @@
 [character(name="avg_277_shaw_1#3")]
 [name="阿消"]我、我是不是讲得太快了？
 [character(name="avg_277_shaw_1#2")]
-[name="阿消"]不能紧张不能紧张......呼......
+[name="阿消"]不能紧张不能紧张……呼……
 [character(name="avg_277_shaw_1#1")]
-[name="阿消"]咳......刚、刚才讲了点火装置造成的火灾，但是除此之外造成火灾的原因还有很多。
+[name="阿消"]咳……刚、刚才讲了点火装置造成的火灾，但是除此之外造成火灾的原因还有很多。
 [character(name="avg_277_shaw_1#1")]
-[name="阿消"]接下来我们要讲的电路安全请相关工程干员一定要认真听讲......
+[name="阿消"]接下来我们要讲的电路安全请相关工程干员一定要认真听讲……
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

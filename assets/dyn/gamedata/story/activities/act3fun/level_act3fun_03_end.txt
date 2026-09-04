@@ -13,7 +13,7 @@
 [dialog]
 [character]
 [delay(time=1)]
-[Decision(options="我的时间就白白花掉了？;......;有点怪，仿佛有点想再来一把。",values="1;2;3")]
+[Decision(options="我的时间就白白花掉了？;……;有点怪，仿佛有点想再来一把。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_380_1")]
 [name="断罪者"]   我从你的身上感受到一些困惑。
@@ -31,7 +31,7 @@
 [name="断罪者"]   我本人的形象是否出现在了游戏中？
 [dialog]
 [character]
-[Decision(options="......",values="4")]
+[Decision(options="……",values="4")]
 [Predicate(references="4")]
 [Character(name="avg_npc_380_1")]
 [name="断罪者"]   我——断罪大师——“艺术”与“正义”的继承者、保护者、代言人，在游戏中出现，且必须被保护，不能倒下。这意味着什么？
@@ -77,17 +77,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_134_ifrit_5#4",fadetime=1,block=true)]
 [delay(time=1)]
-[name="伊芙利特"]   啊......博士！
+[name="伊芙利特"]   啊……博士！
 [name="伊芙利特"]  你也是被可露希尔姐叫来测试新游戏的吗？
 [Character(name="char_134_ifrit_5#10")]
 [name="伊芙利特"]  博士已经试玩过了吗？这游戏叫什么名字?
 [dialog]
 [character]
-[Decision(options="狂躁大兵......啥来着。;罗德......啥来着......要塞。;......啥大提鞋来着。",values="1;2;3")]
+[Decision(options="狂躁大兵……啥来着。;罗德……啥来着……要塞。;……啥大提鞋来着。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_134_ifrit_5#9")]
-[name="伊芙利特"]   ......
-[name="伊芙利特"]   至少，我还是先试试......
+[name="伊芙利特"]   ……
+[name="伊芙利特"]   至少，我还是先试试……
 [dialog]
 [character(fadetime=1,block=true)]
 [delay(time=2)]

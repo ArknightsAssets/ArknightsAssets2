@@ -27,15 +27,15 @@
 [charslot(slot = "m", action="shake",random=true, power=5, times=10,duration=0.5,isblock=true)]
 [name="特克诺"]哎，哎，你别拧我脑袋，这么多人你注意点，别撩我裙子。
 [charslot(slot="m",name="avg_npc_697_1#1$1")]
-[name="社区居民"]你这不挺好的......活蹦乱跳的。
+[name="社区居民"]你这不挺好的……活蹦乱跳的。
 [charslot(slot="m",name="avg_npc_1212_1#9$1",focus="m")]
 [name="特克诺"]多亏了这两位，我发病的时候他们正好在旁边，帮了我一把。
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="m")]
 [name="医生"]没事，我是医生，都是该做的。
 [charslot(slot="m",name="avg_npc_697_1#1$1")]
-[name="社区居民"]唉......这年头像你一样的医生不多了，大多数一听到我们的情况，跑都来不及。
+[name="社区居民"]唉……这年头像你一样的医生不多了，大多数一听到我们的情况，跑都来不及。
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="m")]
-[name="医生"]既然这位小姐有人照顾，那我们就不久留了......
+[name="医生"]既然这位小姐有人照顾，那我们就不久留了……
 [charslot(slot="m",name="avg_npc_697_1#1$1")]
 [name="社区居民"]哎，别走啊。这是小店的名片，你们有空务必光顾，按摩推油一应俱全，你们来都是八折优惠。
 [charslot(slot="m",name="avg_4124_iana_1#1$1",focus="m")]
@@ -56,16 +56,16 @@
 [charslot(slot="m",name="avg_4124_iana_1#4$1",focus="m")]
 [name="双月"]这个距离你能碰到我？
 [charslot(slot="m",name="avg_4125_rdoc_1#9$1",focus="m")]
-[name="医生"]呃，咳咳，我听说过这种隔空进行的气功疗法，很多资料证实这不过是伪科......呃......
+[name="医生"]呃，咳咳，我听说过这种隔空进行的气功疗法，很多资料证实这不过是伪科……呃……
 [Dialog]
 [charslot]
 只见她的手指在空中轻轻捏过几下，二人奇异地感受到一股温热的力量在按压自己的肩颈，瞬间，轻松与舒爽将他们温柔地包裹。
 [charslot(slot="m",name="avg_4125_rdoc_1#6$1",focus="m")]
-[name="医生"]啊......我感觉压力和焦虑......一扫而空......
+[name="医生"]啊……我感觉压力和焦虑……一扫而空……
 [charslot(slot="m",name="avg_4124_iana_1#4$1",focus="m")]
-[name="双月"]是错觉吗......我现在舒服得头皮发麻......啊......
+[name="双月"]是错觉吗……我现在舒服得头皮发麻……啊……
 [charslot(slot="m",name="avg_4125_rdoc_1#13$1",focus="m")]
-[name="医生"]啊......谁还管什么科学......
+[name="医生"]啊……谁还管什么科学……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -77,7 +77,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1214_1#5$1",focus="m")]
-[name="迪亚兹"]什么......你说药被抢走了？！
+[name="迪亚兹"]什么……你说药被抢走了？！
 [name="迪亚兹"]这可不是开玩笑的，埃内斯托先生，我们的社区里有很多感染者，他们都需要药物来控制病情。
 [charslot(slot="m",name="avg_486_espumo_1#7",focus="m")]
 [name="龙舌兰"]很抱歉，是我和阿莱塔小姐没能完成运输任务，造成的损失我们会尽快想办法弥补。
@@ -86,23 +86,23 @@
 [charslot(slot="m",name="avg_486_espumo_1#2",focus="m")]
 [name="龙舌兰"]如果找不到，我会想办法按时赔偿你等量的药品。
 [charslot(slot="m",name="avg_npc_1214_1#3$1",focus="m")]
-[name="迪亚兹"]抱歉，埃内斯托先生......是我太着急了。
+[name="迪亚兹"]抱歉，埃内斯托先生……是我太着急了。
 [charslot(slot="m",name="avg_npc_1214_1#8$1",focus="m")]
 [name="迪亚兹"]那些抢药的人，你们有看到他们的样子吗？社区里人多，说不定能帮忙。
 [charslot(slot="m",name="avg_486_espumo_1#7",focus="m")]
-[name="龙舌兰"]这也是我们觉得蹊跷的地方，那些人埋伏在半途中突然冲出，似乎是早有准备。罗德岛在这里一向是小心处事，从不与人交恶......
+[name="龙舌兰"]这也是我们觉得蹊跷的地方，那些人埋伏在半途中突然冲出，似乎是早有准备。罗德岛在这里一向是小心处事，从不与人交恶……
 [name="龙舌兰"]我实在想不出有什么人会这样针对我们。
 [charslot(slot="m",name="avg_npc_1214_1#8$1",focus="m")]
 [name="迪亚兹"]或许他们就是盯上了你们的药，抑制剂在黑市的价格可不低。
 [charslot(slot="m",name="avg_486_espumo_1#7",focus="m")]
-[name="龙舌兰"]在抢夺过程中他们采用的战术非常专业，动作迅速，干净利落......
+[name="龙舌兰"]在抢夺过程中他们采用的战术非常专业，动作迅速，干净利落……
 [name="龙舌兰"]那些药品真的值得让一群人如此大动干戈吗？对了，我依稀记得在躲避时还听到了铳械的声音。
 [charslot(slot="m",name="avg_npc_1214_1#5$1",focus="m")]
-[name="迪亚兹"]铳械......又是专业的家伙......呵，雷内尔真瞧得起我们啊。
+[name="迪亚兹"]铳械……又是专业的家伙……呵，雷内尔真瞧得起我们啊。
 [charslot(slot="m",name="avg_486_espumo_1#7",focus="m")]
 [name="龙舌兰"]迪亚兹先生，你觉得此次行动是有人针对社区吗？
 [charslot(slot="m",name="avg_npc_1214_1#5$1",focus="m")]
-[name="迪亚兹"]唉，我们与雷内尔也是积怨很久了，只是没想到......他最终会使用如此下作的手段。
+[name="迪亚兹"]唉，我们与雷内尔也是积怨很久了，只是没想到……他最终会使用如此下作的手段。
 [dialog]
 [charslot]
 [playsound(key="$d_avg_crwddiscuss_outside",loop=true,channel="1",volume=0.5)]
@@ -110,9 +110,9 @@
 [charslot(slot="m",name="avg_486_espumo_1#4",focus="m")]
 [name="龙舌兰"]楼下发生什么了，怎么这么吵？
 [charslot(slot="m",name="avg_486_espumo_1#3",focus="m")]
-[name="龙舌兰"]......好像是有人在外面病情发作，被好心人送回来了。哟，这里三层外三层的，围的全都是来感谢的人。
+[name="龙舌兰"]……好像是有人在外面病情发作，被好心人送回来了。哟，这里三层外三层的，围的全都是来感谢的人。
 [charslot(slot="m",name="avg_npc_1214_1#1$1",focus="m")]
-[name="迪亚兹"]对我们好的人，当然是要报答的。让我看看来的是哪里的客......
+[name="迪亚兹"]对我们好的人，当然是要报答的。让我看看来的是哪里的客……
 [charslot(slot="m",name="avg_npc_1214_1#10$1",focus="m")]
 [name="迪亚兹"]这几个怎么这么脸熟，感觉在哪里见过？
 [Dialog]
@@ -121,7 +121,7 @@
 旁边的副标题则是《记者独家暗访：四名保镖两两轮换，究竟何方神圣》。
 [stopsound(channel="1",fadetime=1.5)]
 [charslot(slot="m",name="avg_486_espumo_1#3",focus="m")]
-[name="龙舌兰"]嘶......这几张照片里的人和楼底下出现的人，是不是有些相似得过分了？
+[name="龙舌兰"]嘶……这几张照片里的人和楼底下出现的人，是不是有些相似得过分了？
 [charslot(slot="m",name="avg_npc_1214_1#7$1",focus="m")]
 [name="迪亚兹"]呵，这下我们可真得好好报答报答了。
 [Dialog]
@@ -135,15 +135,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_4124_iana_1#4$1",focus="m")]
-[name="双月"]好像自己是完全崭新的一个人了......这种感觉很难形容。
+[name="双月"]好像自己是完全崭新的一个人了……这种感觉很难形容。
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="m")]
-[name="医生"]呼......谢谢你，女士，这种按摩方式太神奇了。
+[name="医生"]呼……谢谢你，女士，这种按摩方式太神奇了。
 [charslot(slot="m",name="avg_npc_697_1#1$1")]
 [name="社区居民"]这可是我从谢拉格学的传统按摩术。当年我在暴风雪中登上圣山，当地的圣女看我诚心才决定将这秘术传授给我。
 [charslot(slot="m",name="avg_npc_1212_1#9$1",focus="m")]
 [name="特克诺"]拉倒吧，你从叙拉古来这里都有七八年了，哪里来的时间去雪境，你俩可别信啊，都是虚假广告。
 [charslot(slot="m",name="avg_npc_697_1#1$1")]
-[name="社区居民"]嘿，你怎么污人清白呢......
+[name="社区居民"]嘿，你怎么污人清白呢……
 [charslot(slot="m",name="avg_4125_rdoc_1#10$1",focus="m")]
 [name="医生"]咳咳，谢谢您的按摩，时候不早了，我们确实也该离开——
 [Dialog]
@@ -159,13 +159,13 @@
 [charslot(slot="m",name="avg_npc_1214_1#7$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4125_rdoc_1#13$1",focus="m")]
-[name="医生"]呃......
+[name="医生"]呃……
 [charslot(slot="m",name="avg_npc_1212_1#1$1",focus="m")]
 [name="特克诺"]老爹，你这气冲冲的是怎么了？
 [charslot(slot="m",name="avg_npc_1214_1#7$1",focus="m")]
 [name="迪亚兹"]你还好意思说，你怎么跟这帮抢药的家伙混在一起，还把他们带到社区来了？
 [charslot(slot="m",name="avg_npc_1212_1#5$1",focus="m")]
-[name="特克诺"]......药？
+[name="特克诺"]……药？
 [charslot(slot="m",name="avg_npc_1214_1#7$1",focus="m")]
 [name="迪亚兹"]对，抑制矿石病的药！被他们抢走了！
 [charslot(slot="m",name="avg_npc_1212_1#4$1",focus="m")]
@@ -175,7 +175,7 @@
 [charslot(slot="m",name="avg_npc_1214_1#5$1",focus="m")]
 [name="迪亚兹"]误会？雇佣兵打扮，用铳，不是黑钢的人，这地界除了你们还有谁？
 [charslot(slot="m",name="avg_4124_iana_1#1$1",focus="m")]
-[name="双月"]......我们只是把这女孩送回到这里来，仅此而已。
+[name="双月"]……我们只是把这女孩送回到这里来，仅此而已。
 [charslot(slot="m",name="avg_npc_1214_1#5$1",focus="m")]
 [name="迪亚兹"]要是真有误会，那你们可得好好向我澄清下。来人，给我逮住他俩！
 [Dialog]
@@ -230,12 +230,12 @@
 [charslot(slot="r",name="avg_4125_rdoc_1#8$1",duration=1.5)]
 [Delay(time=2.5)]
 [charslot(slot="l",name="avg_4124_iana_1#6$1",focus="l")]
-[name="双月"]呼、呼、呼......那是什么？魔法？
+[name="双月"]呼、呼、呼……那是什么？魔法？
 [charslot(slot="r",name="avg_4125_rdoc_1#8$1",focus="r")]
 [name="医生"]似乎是叫源石技艺的东西，就当是魔法吧。
 [name="医生"]但我们得先想个办法离开。几个出口处都有人把守。
 [charslot(slot="l",name="avg_4124_iana_1#6$1",focus="l")]
-[name="双月"]......掩护我，我来操作双子分身。
+[name="双月"]……掩护我，我来操作双子分身。
 [charslot(slot="r",name="avg_4125_rdoc_1#8$1",focus="r")]
 [name="医生"]已就位。
 [Dialog]
@@ -272,7 +272,7 @@
 [charslot(slot="l",name="avg_npc_033",focus="l")]
 [name="疑惑的社区居民"]咦，他们跑到哪里去了？
 [charslot(slot="r",name="avg_npc_002",focus="r")]
-[name="懒散的社区住户"]这里没有，那里也没有......
+[name="懒散的社区住户"]这里没有，那里也没有……
 [Dialog]
 [charslot]
 [playsound(key="$d_gen_walk_n")]
@@ -300,9 +300,9 @@
 [bgeffect(name="$eb_screen_disturb_01",layer=1)]
 [Background(image="bg_black",screenadapt="coverall")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
-弓、弩、发射器、施术单元......乱七八糟的武器齐齐对准路中间的双子分身。
+弓、弩、发射器、施术单元……乱七八糟的武器齐齐对准路中间的双子分身。
 就算是双月本人，透过分身的双眼看到如此热烈的“欢迎”，也不免愣住了。
-[name="双月"]各位，你们可真是......热情得过头啊。
+[name="双月"]各位，你们可真是……热情得过头啊。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -316,11 +316,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="l",name="avg_4124_iana_1#7$1",focus="l")]
-[name="双月"]弓、弩、炸弹、“魔法”......啧啧。
+[name="双月"]弓、弩、炸弹、“魔法”……啧啧。
 [charslot(slot="r",name="avg_4125_rdoc_1#8$1",focus="r")]
 [name="医生"]趁着他们的注意力都在投影被打后的去向上，赶紧走吧，再等一会儿，他们就该回过神了。
 [charslot(slot="l",name="avg_4124_iana_1#5$1",focus="l")]
-[name="双月"]或许之后我们应该联系艾拉问问，到底发生了什么事，我现在大脑一片混沌......
+[name="双月"]或许之后我们应该联系艾拉问问，到底发生了什么事，我现在大脑一片混沌……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -341,14 +341,14 @@
 [name="双月"]可这里的人似乎真的笃定是我们抢走了他们的药品？
 [charslot(slot="r",name="avg_4124_iana_1#1$1",focus="none")]
 [CharacterCutin(widgetID="2", name="avg_4123_ela_1#1$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
-[name="艾拉"]那些都是其次，当务之急是赶紧离开那片社区......
+[name="艾拉"]那些都是其次，当务之急是赶紧离开那片社区……
 [CharacterCutin(widgetID="2", name="avg_4123_ela_1#7$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
 [name="艾拉"]考虑到那些人的特殊能力，我不太推荐你们两个人继续行动，太危险了。你们需要我们的支援吗？
 [charslot(slot="r",name="avg_4124_iana_1#1$1",focus="r")]
 [name="双月"]不用了，他们的源石技艺虽然厉害，但战斗起来全无章法。我知道该如何保全自身，更不用说还有卡特伯在旁。
 [charslot(slot="r",name="avg_4124_iana_1#1$1",focus="none")]
 [CharacterCutin(widgetID="2", name="avg_4123_ela_1#1$1", style="cutin", fadestyle= "horiz_expand_center", fadetime=0, offsetx=-300, width=200, block=true)]
-[name="艾拉"]......有事就联系我们。
+[name="艾拉"]……有事就联系我们。
 [charslot(slot="r",name="avg_4124_iana_1#8$1",focus="r")]
 [name="双月"]嗯，一定。
 [Dialog]
@@ -372,7 +372,7 @@
 [charslot(slot="l",name="avg_4124_iana_1#7$1",focus="l")]
 [name="双月"]或许更危险也说不定？
 [charslot(slot="r",name="avg_4125_rdoc_1#2$1",focus="r")]
-[name="医生"]呃，有道理......这个世界已经不能用常理来推断了。
+[name="医生"]呃，有道理……这个世界已经不能用常理来推断了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -387,7 +387,7 @@
 [name="右边窗内的声音"]才能触摸到明天的风向♪
 [name="右边窗内的声音"]你不知道♪
 [name="右边窗内的声音"]你只能拼命挥动今日的翅膀♪
-[name="右边窗内的声音"]（小声）终于睡着了，太好了......
+[name="右边窗内的声音"]（小声）终于睡着了，太好了……
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="l",name="avg_4124_iana_1#1$1",duration=1.5)]
@@ -401,7 +401,7 @@
 [charslot(slot="l",name="avg_4124_iana_1#4$1",focus="l")]
 [name="双月"]怎么了？
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
-[name="医生"]刚刚有什么从我脚边跑过去了。好像是老鼠，不，更像是蜗牛......太黑了，看不清。
+[name="医生"]刚刚有什么从我脚边跑过去了。好像是老鼠，不，更像是蜗牛……太黑了，看不清。
 [charslot(slot="l",name="avg_4124_iana_1#1$1",focus="l")]
 [name="双月"]这里似乎是他们堆放垃圾的地方，怪不得没什么人来。
 [charslot(slot="r",name="avg_4125_rdoc_1#11$1",focus="r")]
@@ -426,15 +426,15 @@
 [CameraShake(duration=0.5, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="右边窗内的声音"]（非常响亮的婴儿啼哭）
 [charslot(slot="l",name="avg_4124_iana_1#8$1",focus="l")]
-[name="双月"]噗......
+[name="双月"]噗……
 [charslot(slot="r",name="avg_4125_rdoc_1#10$1",focus="r")]
-[name="医生"]......看来这里的源石技艺也不是万能的。
+[name="医生"]……看来这里的源石技艺也不是万能的。
 [charslot(slot="l",name="avg_4124_iana_1#8$1",focus="l")]
 [name="双月"]看外墙上的彩色塑料板，只有真把这里当成家的人，才会有心情做这种没有实用价值的装饰。
 [charslot(slot="r",name="avg_4125_rdoc_1#10$1",focus="r")]
 [name="医生"]这边的涂鸦也一样，有不少风景、人像和纯装饰性的东西，能看出来不是随手涂的。
 [charslot(slot="r",name="avg_4125_rdoc_1#12$1",focus="r")]
-[name="医生"]我觉得这水平可不低，每一幅里面都有个故事......
+[name="医生"]我觉得这水平可不低，每一幅里面都有个故事……
 [Dialog]
 [charslot]
 [playsound(key="$d_gen_walk_n")]
@@ -446,22 +446,22 @@
 [charslot]
 [charslot(slot="l",name="avg_4124_iana_1#8$1",focus="r")]
 [charslot(slot="r",name="avg_4125_rdoc_1#13$1",focus="r")]
-[name="医生"]呃，小朋友，我们......
+[name="医生"]呃，小朋友，我们……
 [charslot(slot="l",name="avg_4124_iana_1#10$1",focus="l")]
-[name="双月"]你先冷静下，那位先生说的事情不是我们做的......这应该是场误会。
+[name="双月"]你先冷静下，那位先生说的事情不是我们做的……这应该是场误会。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1212_1#6$1")]
-[name="特克诺"]......我、我也不知道，你们救了我，但是......
+[name="特克诺"]……我、我也不知道，你们救了我，但是……
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_4124_iana_1#10$1",focus="r")]
 [charslot(slot="r",name="avg_4125_rdoc_1#7$1",focus="r")]
-[name="医生"]我们没有任何恶意......你清楚的，小朋友。
+[name="医生"]我们没有任何恶意……你清楚的，小朋友。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1212_1#6$1")]
-[name="特克诺"]......
+[name="特克诺"]……
 [name="特克诺"]离开这条巷子后向右转。虽然左边看起来没什么人，但是老爹心烦了会去那里抽烟，你们有可能会碰上。
 [name="特克诺"]我只是来丢垃圾，什么都没看见。
 [Dialog]
@@ -471,7 +471,7 @@
 [Delay(time=2.5)]
 [charslot(slot="l",name="avg_4124_iana_1#10$1",focus="r")]
 [charslot(slot="r",name="avg_4125_rdoc_1#6$1",focus="r")]
-[name="医生"]你......
+[name="医生"]你……
 [charslot(slot="l",name="avg_4124_iana_1#10$1",focus="l")]
 [name="双月"]（小声）卡特伯，我们该走了。
 [Dialog]

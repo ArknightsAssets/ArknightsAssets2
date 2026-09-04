@@ -36,8 +36,8 @@
 出发。出发。
 如果那天夜里，没有去追那些倒卖药物的雇佣兵。
 如果那天夜里，没有下到矿洞。
-......
-如果那天......自己能看得再清楚些。
+……
+如果那天……自己能看得再清楚些。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [curtain(direction = 0,fillfrom = 1,fillto = 0.3, grad=true, fadetime=3.5)]
@@ -78,7 +78,7 @@
 汗水不断渗入克洛丝眯缝着的眼睛。她来不及擦拭，只能用力眨了眨眼，尽力捕捉黑暗中的一切信息。
 [PlaySound(key="$d_gen_heartbeat",loop=true,channel="heart",volume=0.6)]
 不能眨眼！克洛丝，盯紧了！
-你能看清......你一定能看清！你必须看清——
+你能看清……你一定能看清！你必须看清——
 [charslot(slot="m",name="avg_123_fang_1#6")]
 [name="芬"]炎熔，退后！克洛丝，两点钟方向！
 [Dialog]
@@ -99,7 +99,7 @@
 [PlaySound(key="$d_avg_punch_xshield")]
 [delay(time=1)]
 [charslot(slot="m",name="avg_122_beagle_1#5$1")]
-[name="米格鲁"]芬，你的肩膀......
+[name="米格鲁"]芬，你的肩膀……
 [charslot(slot="m",name="avg_123_fang_1#6")]
 [name="芬"]炎熔，把他们引到矿洞外，不能在这里引爆！
 [charslot(slot="m",name="char_121_lava_1#3")]
@@ -122,7 +122,7 @@
 [stopmusic(fadetime=2)]
 [Background(image="46_g6_rmbtmine",xScale=1.4, yScale=1.4, fadetime=1, screenadapt="coverall")]
 [Delay(time=1)]
-[name="克洛丝"]（......那是什么？）
+[name="克洛丝"]（……那是什么？）
 [name="克洛丝"]（不对，不止一个人！后面——）
 [CameraShake(duration=0.3, xstrength=50, ystrength=50, vibrato=50, randomness=90, fadeout=true, block=false)]
 [name="克洛丝"]米格鲁，快走！不要回头——
@@ -137,17 +137,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="char_124_kroos_1#1")]
-[name="克洛丝"]......大家，别这么看着我啦......
+[name="克洛丝"]……大家，别这么看着我啦……
 [charslot(slot="m",name="avg_120_hibisc_1#2$1")]
-[name="芙蓉"]克洛丝，你的黑眼圈......
+[name="芙蓉"]克洛丝，你的黑眼圈……
 [charslot(slot="m",name="char_121_lava_1#2")]
-[multiline(name="炎熔")]当时那情况谁能料到？我们明明都拼尽全力了......
+[multiline(name="炎熔")]当时那情况谁能料到？我们明明都拼尽全力了……
 [charslot(slot="m",name="char_121_lava_1#3")]
 [multiline(name="炎熔")]啧！克洛丝，这不是你的错！
 [charslot(slot="m",name="avg_123_fang_1#5")]
 [name="芬"]你只是做了你该做的事，是我，是我没能——
 [charslot(slot="m",name="char_124_kroos_1#2")]
-[name="克洛丝"]芬！我、我真的没事了......
+[name="克洛丝"]芬！我、我真的没事了……
 [charslot(slot="m",name="avg_122_beagle_1#5$2")]
 [name="米格鲁"]要是真的没事了，今晚可不能再睡不着啰。
 [charslot(slot="m",name="char_124_kroos_1#3")]
@@ -155,7 +155,7 @@
 [charslot(slot="m",name="avg_122_beagle_1#2$2")]
 [name="米格鲁"]如果当时走在最后的人是克洛丝，你肯定也会和我一样，拼命挡住那些人吧？
 [charslot(slot="m",name="avg_122_beagle_1#9$2")]
-[name="米格鲁"]再说了......你看，我这不还好好的嘛。我的身体素质考核成绩可是“优良”哦，我还可以——
+[name="米格鲁"]再说了……你看，我这不还好好的嘛。我的身体素质考核成绩可是“优良”哦，我还可以——
 [characteraction(name="middle", type="jump", power=50, times=2, fadetime=0.8)]
 [name="米格鲁"]嘿！
 [Delay(time=0.5)]
@@ -163,13 +163,13 @@
 [CameraShake(duration=0.2, xstrength=30, ystrength=30, vibrato=30, randomness=70, fadeout=true, block=false)]
 [name="众人"]欸欸欸不要乱动！
 红发的女孩像是一团跃跃欲试的小火苗。可她刚探出头，便被伙伴们按回了病床。
-[name="米格鲁"]大家，我真的没什么啦......
+[name="米格鲁"]大家，我真的没什么啦……
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="医疗部干员"]躺好。弩箭刺穿了手臂，怎么可能没什么？
 [name="医疗部干员"]所幸没有伤到骨头，不然情况不堪设想。
 [charslot]
 话音落下，好不容易才有了些生气的病房转瞬又冷了下去。
-[name="米格鲁"]（小声）医生......
+[name="米格鲁"]（小声）医生……
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="医疗部干员"]咳，好在最后没出什么大问题。但即便如此，米格鲁，你近期的训练全部暂停，其他不必要的活动也全都暂停。就待在这儿，好好养病。
 [charslot]
@@ -179,8 +179,8 @@
 [charslot(slot="m",name="avg_123_fang_1#2")]
 [name="芬"]是。
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
-[name="医疗部干员"]好了，给米格鲁留点安静休息的空间吧。还有......克洛丝，这次失误不是你一个人的问题，好好睡一觉吧。
-[name="医疗部干员"]......大家，都好好休息一下。
+[name="医疗部干员"]好了，给米格鲁留点安静休息的空间吧。还有……克洛丝，这次失误不是你一个人的问题，好好睡一觉吧。
+[name="医疗部干员"]……大家，都好好休息一下。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",afrom=1, ato=0,duration=1.5)]
@@ -194,9 +194,9 @@
 [charslot(slot="m",name="avg_122_beagle_1#9$2",focus="n")]
 病房里复又空荡荡的，只剩下米格鲁一人。
 [charslot(slot="m",name="avg_122_beagle_1#2$2")]
-[name="米格鲁"]......
+[name="米格鲁"]……
 [charslot(slot="m",name="avg_122_beagle_1#5$2")]
-[name="米格鲁"]如果当时......
+[name="米格鲁"]如果当时……
 [Dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0, block=true)]
@@ -207,9 +207,9 @@
 [PlaySound(key="$d_avg_arrow_rain",channel="5")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="米格鲁"]（如果当时，我能再往右一点......我的盾能再厚一点......）
-[name="米格鲁"]（克洛丝就不会失眠......大家也不会像现在这样......我......）
-[name="米格鲁"]米格鲁......到底什么时候，你才能真正举起那面盾......
+[name="米格鲁"]（如果当时，我能再往右一点……我的盾能再厚一点……）
+[name="米格鲁"]（克洛丝就不会失眠……大家也不会像现在这样……我……）
+[name="米格鲁"]米格鲁……到底什么时候，你才能真正举起那面盾……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Dialog]
@@ -226,7 +226,7 @@
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="医疗部干员"]哼，别高兴得太早，我可没说你能回训练室了。
 [charslot(slot="m",name="avg_122_beagle_1#11$2")]
-[name="米格鲁"]欸......
+[name="米格鲁"]欸……
 [charslot(slot="m",name="avg_npc_501_1#1$1")]
 [name="医疗部干员"]不过，做些适当的康复训练还是可以的，动动胳膊，伸伸腿——
 [name="医疗部干员"]注意，是适当的活动哦。如果感觉到哪里不舒服，或者是伤口还会疼，都要及时跟我说。
@@ -240,7 +240,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_122_beagle_1#6$2")]
-[name="米格鲁"]好安静啊......要不还是去训练室看看大家？
+[name="米格鲁"]好安静啊……要不还是去训练室看看大家？
 [Dialog]
 [stopmusic(fadetime=2)]
 [charslot(slot="m",posfrom="0,0",posto="-100,0",duration=1.5,block=true)]
@@ -249,7 +249,7 @@
 [charslot(slot="m",name="avg_122_beagle_1#6$2",focus="n")]
 [name="？？？"]拦住它！！！
 [charslot(slot="m",name="avg_122_beagle_1#4$2",focus="m")]
-[name="米格鲁"]什么......？
+[name="米格鲁"]什么……？
 [Dialog]
 [PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.6)]
 [PlaySound(key="$d_avg_pawfootstep_2",loop=true,channel="step",volume=1)]
@@ -267,8 +267,8 @@
 [charslot(slot="r",name="avg_npc_1559_1#1$1",posfrom="1200,0",posto="0,0",duration=1.5,block=true)]
 [StopSound(channel="run2",fadetime=1.5)]
 [Delay(time=2)]
-[name="预备干员"]哈、哈......
-[name="预备干员"]米格鲁......前辈......请您帮忙——
+[name="预备干员"]哈、哈……
+[name="预备干员"]米格鲁……前辈……请您帮忙——
 [charslot(slot="m",name="avg_122_beagle_1#3$2",focus="m")]
 [name="米格鲁"]我知道了！
 [Dialog]
@@ -280,7 +280,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 调皮的小循兽一脸挑衅地蹦上过道处整齐堆放的纸箱。它慢悠悠地昂起头，向身前的女孩摇着尾巴。
 [charslot(slot="m",name="avg_npc_1559_1#1$1",focus="m")]
-[name="预备干员"]嘬嘬嘬......小黄，过来......
+[name="预备干员"]嘬嘬嘬……小黄，过来……
 娇小的女孩轻轻俯下身，吸引着循兽的注意。
 [charslot(slot="m",name="avg_npc_1559_1#1$1",focus="m")]
 [name="预备干员"]（米格鲁前辈，拜托啦。）
@@ -314,21 +314,21 @@
 [PlaySound(key="$d_avg_clothmovement")]
 [charslot(slot="m",name="avg_122_beagle_1#9$2",posfrom="0,-150",posto="0,0",afrom=0, ato=1,duration=1.5,focus="m")]
 [Delay(time=1.5)]
-[name="米格鲁"]哈哈......
+[name="米格鲁"]哈哈……
 [charslot(slot="m",name="avg_122_beagle_1#10$2",focus="m")]
 [name="米格鲁"]给~下次要小心哦，可别再让它这样乱跑啦。
 [charslot(slot="m",name="avg_npc_1559_1#1$1",focus="m")]
 [name="预备干员"]好的前辈！
 [charslot(slot="m",name="avg_122_beagle_1#11$2",focus="m")]
-[name="米格鲁"]然后......
+[name="米格鲁"]然后……
 [charslot]
 两个女孩不约而同地看向一排排被掀翻在地的纸箱。
 [charslot(slot="m",name="avg_npc_1559_1#1$1",focus="m")]
-[name="预备干员"]这些纸箱......好像是后勤部的同事们暂时放在这儿的......
+[name="预备干员"]这些纸箱……好像是后勤部的同事们暂时放在这儿的……
 [charslot]
 廊道上，星星点点的循兽爪印从她们站立的位置一直蔓延到视线尽头。
 [charslot(slot="m",name="avg_122_beagle_1#11$2",focus="m")]
-[name="米格鲁"]想要打扫干净，也得花上一段时间呢......
+[name="米格鲁"]想要打扫干净，也得花上一段时间呢……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -338,7 +338,7 @@
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_1559_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_122_beagle_1#1$2",focus="n")]
-[name="预备干员"]呜呜......太麻烦前辈了，前辈还请我吃饭......
+[name="预备干员"]呜呜……太麻烦前辈了，前辈还请我吃饭……
 [charslot(slot="r",name="avg_122_beagle_1#1$2",focus="r")]
 [name="米格鲁"]忙了这么久，都错过午饭时间啦。给，只有面包了。
 [charslot(slot="r",name="avg_122_beagle_1#10$2",focus="r")]
@@ -354,15 +354,15 @@
 [charslot(slot="m",name="avg_npc_972_1#1$1",focus="m")]
 [name="小卖部工作人员"]米格鲁不去参加下午的训练吗？
 [charslot(slot="m",name="avg_122_beagle_1#9$2",focus="m")]
-[name="米格鲁"]嘿嘿......最近的训练，都请过假了......
+[name="米格鲁"]嘿嘿……最近的训练，都请过假了……
 [charslot(slot="m",name="avg_npc_972_1#1$1",focus="m")]
 [name="小卖部工作人员"]是吗？哈哈，很少见你请假呢。那，犹豫了这么久，自己吃哪种口味选好了吗？
 [charslot(slot="m",name="avg_122_beagle_1#4$2",focus="m")]
-[name="米格鲁"]唔，好多新口味啊，都没有听说过......
+[name="米格鲁"]唔，好多新口味啊，都没有听说过……
 [charslot(slot="m",name="avg_npc_972_1#1$1",focus="m")]
 [name="小卖部工作人员"]实在选不出来，不如就试试这个“雨林狂欢”味儿？
 [charslot(slot="m",name="avg_122_beagle_1#11$2",focus="m")]
-[multiline(name="米格鲁")]欸？名字听着好奇怪......
+[multiline(name="米格鲁")]欸？名字听着好奇怪……
 [charslot(slot="m",name="avg_122_beagle_1#9$2",focus="m")]
 [multiline(name="米格鲁")]但既然是您的推荐，那就这个吧！
 [charslot(slot="m",name="avg_npc_972_1#1$1",focus="m")]
@@ -381,7 +381,7 @@
 [charslot(slot="m",name="avg_122_beagle_1#1$2",focus="m")]
 [name="米格鲁"]打扰啦。
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
-[name="工程部干员"]小米格鲁，怎么是你？这些箱子......都是你一个人搬过来的？
+[name="工程部干员"]小米格鲁，怎么是你？这些箱子……都是你一个人搬过来的？
 [charslot(slot="m",name="avg_122_beagle_1#1$2",focus="m")]
 [multiline(name="米格鲁")]我刚好有空，就帮忙搬过来啦！呼，都放在这儿了，
 [charslot(slot="m",name="avg_122_beagle_1#4$2",focus="m")]
@@ -397,7 +397,7 @@
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="n")]
 [name="米格鲁"]——哈！
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
-[name="工程部干员"]......重。
+[name="工程部干员"]……重。
 [charslot]
 米格鲁举起盾牌，顺势在半空中挥舞了两下，随后将之稳稳地放回了地面。
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
@@ -405,11 +405,11 @@
 [charslot(slot="m",name="avg_122_beagle_1#1$2",focus="m")]
 [name="米格鲁"]相当顺手！比我的盾要稍轻一些，但明显厚实许多。把手的位置也有变化，使用起来的确更好调换方向了！
 [charslot(slot="m",name="avg_122_beagle_1#10$2",focus="m")]
-[name="米格鲁"]好厉害呀......
+[name="米格鲁"]好厉害呀……
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]哼哼，不枉我最近花了这么多力气。
 [charslot(slot="m",name="avg_122_beagle_1#8$2",focus="m")]
-[name="米格鲁"]......
+[name="米格鲁"]……
 [Dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0, block=true)]
@@ -420,7 +420,7 @@
 [PlaySound(key="$d_avg_arrow_rain",channel="6")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="米格鲁"]（如果当时，我能再往右一点......我的盾能再厚一点......）
+[name="米格鲁"]（如果当时，我能再往右一点……我的盾能再厚一点……）
 [Dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=1, g=1, b=1, fadetime=0, block=true)]
@@ -432,7 +432,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_122_beagle_1#6$2",focus="m")]
-[name="米格鲁"]请问......能麻烦前辈将我的盾也改成这样吗？
+[name="米格鲁"]请问……能麻烦前辈将我的盾也改成这样吗？
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]欸？当然可以，只是——
 [charslot(slot="m",name="avg_122_beagle_1#7$2",focus="m")]
@@ -448,7 +448,7 @@
 [charslot(slot="m",name="avg_npc_521_1#1$1",focus="m")]
 [name="Mechanist"]这面盾还在测试阶段。尤其是实战反馈，仍缺少最关键的数据。所以，米格鲁如果想把盾改造成这样，还得再等上一段时间。
 [charslot(slot="m",name="avg_122_beagle_1#5$2",focus="m")]
-[name="米格鲁"]对不起，Mechanist先生，是我太急了......
+[name="米格鲁"]对不起，Mechanist先生，是我太急了……
 [charslot(slot="m",name="avg_npc_521_1#1$1",focus="m")]
 [name="Mechanist"]不过，如果有人愿意当志愿者，配合工程部的干员们早点完成测试的话，它投入生产的时间肯定能大幅提前。
 [charslot(slot="m",name="avg_122_beagle_1#9$2",focus="m")]
@@ -461,13 +461,13 @@
 [charslot(slot="m",name="avg_122_beagle_1#4$2",focus="m")]
 [name="米格鲁"]欸，我？！我真的可以吗？
 [charslot(slot="m",name="avg_122_beagle_1#2$2",focus="m")]
-[name="米格鲁"]您之前说，要想制作出精良的武器，想法、设计、锻造的技艺......一个都不能少。还得付出经年累月的努力......
+[name="米格鲁"]您之前说，要想制作出精良的武器，想法、设计、锻造的技艺……一个都不能少。还得付出经年累月的努力……
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]至少，米格鲁绝对不缺锻造武器的力气哦。
 [charslot(slot="m",name="avg_npc_521_1#1$1",focus="m")]
 [name="Mechanist"]机械理论之类的，像你这样勤奋的学生，学起来肯定没问题。
 [charslot(slot="m",name="avg_122_beagle_1#8$2",focus="m")]
-[name="米格鲁"]是吗......
+[name="米格鲁"]是吗……
 [charslot(slot="m",name="avg_122_beagle_1#10$2",focus="m")]
 [name="米格鲁"]嗯，我明白了！感谢前辈，感谢Mechanist先生！
 [Dialog]
@@ -499,13 +499,13 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
-[name="工程部干员"]嚯，不到一个月的时间，这么快就做出来啦。我看看，这是一块......肩甲？
+[name="工程部干员"]嚯，不到一个月的时间，这么快就做出来啦。我看看，这是一块……肩甲？
 [charslot(slot="m",name="avg_122_beagle_1#1$2",focus="m")]
 [name="米格鲁"]嗯！我查阅了防具制作指南，试着锻造了一下。
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]大框架是正确的，选材也挺合适。但是你看这儿，空隙大成这样，当真能起到防护作用？
 [charslot(slot="m",name="avg_122_beagle_1#11$2",focus="m")]
-[name="米格鲁"]唔......
+[name="米格鲁"]唔……
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]之前的工作笔记里应该有衔接处的优化方案，去翻翻看？
 [charslot(slot="m",name="avg_122_beagle_1#4$2",focus="m")]
@@ -517,7 +517,7 @@
 [Delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
-[name="工程部干员"]米——唉，也不用现在去啊。都工作了多久了？得劳逸结合呀......
+[name="工程部干员"]米——唉，也不用现在去啊。都工作了多久了？得劳逸结合呀……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot]
@@ -530,10 +530,10 @@
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]这次结构总算对了。
 [charslot(slot="m",name="avg_122_beagle_1#1$2",focus="m")]
-[name="米格鲁"]太好了......
+[name="米格鲁"]太好了……
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_122_beagle_1#11$2",focus="m")]
-[name="米格鲁"]......
+[name="米格鲁"]……
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]来，把肩甲和盾牌都拿上，我们再去空地试——
 [Dialog]
@@ -553,36 +553,36 @@
 [charslot(slot="m",name="avg_npc_501_1#1$1",focus="m")]
 [name="医疗部干员"]怎么回事？我明明说过让她好好休息，可以适当活动——谁的适当是指熬一个多月的夜？！
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
-[name="工程部干员"]我不知道啊......
+[name="工程部干员"]我不知道啊……
 [charslot(slot="m",name="avg_npc_501_1#1$1",focus="m")]
 [name="医疗部干员"]不知道？诊断书上不都写了，你是完全不看，还是看了没当回事？！
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
-[name="工程部干员"]啊......我看上面写的是，小米格鲁可以慢慢做点康复训练了......
+[name="工程部干员"]啊……我看上面写的是，小米格鲁可以慢慢做点康复训练了……
 [charslot(slot="m",name="avg_npc_501_1#1$1",focus="m")]
 [name="医疗部干员"]“康复训练”指的是简单地活动活动筋骨——不是指训练忍痛能力，更不是指训练得都晕倒了！
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
-[name="工程部干员"]这还不是因为，小米格鲁平时都表现得很让人放心嘛，那么重的盾牌都能直接举起......我下次一定注意！
+[name="工程部干员"]这还不是因为，小米格鲁平时都表现得很让人放心嘛，那么重的盾牌都能直接举起……我下次一定注意！
 [charslot(slot="m",name="avg_npc_501_1#1$1",focus="m")]
 [name="医疗部干员"]还下次？！
 [charslot(slot="m",name="avg_120_hibisc_1#5$1",focus="m")]
-[name="芙蓉"]医生，您先别急......
+[name="芙蓉"]医生，您先别急……
 [charslot(slot="m",name="avg_npc_501_1#1$1",focus="m")]
 [name="医疗部干员"]我不急，我哪里急了？！
 [charslot(slot="m",name="char_121_lava_1#2")]
 [name="炎熔"]医生——啊，米格鲁，你醒啦。
 [charslot]
-[name="米格鲁"]唔......大家，我......
+[name="米格鲁"]唔……大家，我……
 [charslot(slot="m",name="avg_npc_971_1#1$1",focus="m")]
 [name="工程部干员"]米格鲁，你感觉怎么样？还有哪里不舒服？你在操作台边突然就晕过去了，吓死我了！
 [charslot]
-[name="米格鲁"]我、我没事......
+[name="米格鲁"]我、我没事……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement")]
 [charslot(slot="m",name="avg_122_beagle_1#2$2",posfrom="0,-150",posto="0,0",afrom=0, ato=1,duration=1.5,focus="m")]
 [Delay(time=2)]
 女孩缓缓支起身。
 [charslot(slot="m",name="avg_122_beagle_1#2$2",focus="m")]
-[name="米格鲁"]......就是有点昏沉沉的。
+[name="米格鲁"]……就是有点昏沉沉的。
 [charslot(slot="m",name="avg_npc_501_1#1$1",focus="m")]
 [name="医疗部干员"]你还知道自己昏沉沉的？又是打扫走廊，又是跑腿搬货，又是突然兴起跑去学什么武器制造——你自己说，这段时间还干了什么？！
 [name="医疗部干员"]我之前怎么交代的，嗯？多休息，休息！你还是伤员，不能——
@@ -595,7 +595,7 @@
 [charslot(slot="m",name="avg_npc_501_1#1$1",focus="m")]
 [name="医疗部干员"]唔——让我把话说完，唔——
 [charslot(slot="r",name="avg_npc_971_1#1$1",focus="r")]
-[name="工程部干员"]好啦好啦，别说了。你没看见她们几个明显有话要讲吗......你这么吵，孩子们都被吓愣住了......
+[name="工程部干员"]好啦好啦，别说了。你没看见她们几个明显有话要讲吗……你这么吵，孩子们都被吓愣住了……
 [name="工程部干员"]米格鲁！你没事就好！
 [Dialog]
 [charslot(slot="m",posfrom="500,0",posto="800,0",duration=1.5)]
@@ -607,48 +607,48 @@
 正在气头上的医生被工程部的同事连拖带拉地哄了出去，刚刚还一片喧嚷的病房倏然安静下来。
 气氛有些凝重，五个人面面相觑。
 [charslot(slot="m",name="avg_120_hibisc_1#2$1")]
-[name="芙蓉"]那块肩甲，还有那面盾牌......米格鲁，你这么着急，还是因为那天的事吗？
+[name="芙蓉"]那块肩甲，还有那面盾牌……米格鲁，你这么着急，还是因为那天的事吗？
 [charslot(slot="m",name="char_124_kroos_1#3")]
-[name="克洛丝"]（轻声）大家，对不......
+[name="克洛丝"]（轻声）大家，对不……
 [charslot(slot="m",name="avg_122_beagle_1#2$2",focus="m")]
 [name="米格鲁"]——对不起！大家，是我不对！
 [charslot(slot="m",name="char_121_lava_1#2")]
-[name="炎熔"]......哈？
+[name="炎熔"]……哈？
 [charslot(slot="m",name="avg_122_beagle_1#5$2",focus="m")]
-[name="米格鲁"]是我不对，让大家担心了......我、我本来只是想，在这一个多月里，至少也要做点什么。
+[name="米格鲁"]是我不对，让大家担心了……我、我本来只是想，在这一个多月里，至少也要做点什么。
 [charslot(slot="m",name="avg_123_fang_1#1")]
 [name="芬"]你最该做的，是安安心心养好身体。我们都在等你回来。
 [charslot(slot="m",name="avg_122_beagle_1#5$2",focus="m")]
-[name="米格鲁"]可是，就算是最沉稳的队长你......芬，这段时间，连你也没办法做到“安安心心”吧？
+[name="米格鲁"]可是，就算是最沉稳的队长你……芬，这段时间，连你也没办法做到“安安心心”吧？
 [charslot(slot="m",name="avg_123_fang_1#5")]
-[name="芬"]......
+[name="芬"]……
 [charslot(slot="m",name="avg_122_beagle_1#5$2",focus="m")]
 [name="米格鲁"]我偷偷问了格瑞斯教官。他说，芬每天晚上都会加练到很晚很晚。
-[name="米格鲁"]可你肩膀上也有伤啊......伤口都长好了吗？半夜醒来的时候，还会疼吗？
+[name="米格鲁"]可你肩膀上也有伤啊……伤口都长好了吗？半夜醒来的时候，还会疼吗？
 [name="米格鲁"]还有克洛丝——
 [charslot(slot="m",name="char_124_kroos_1#2")]
-[name="克洛丝"]......欸？我很好啊！米格鲁你不知道，昨天我偷懒时又被杜宾教官抓到了呢，被训得可惨啦，特别可怕！是吧，芙蓉？
+[name="克洛丝"]……欸？我很好啊！米格鲁你不知道，昨天我偷懒时又被杜宾教官抓到了呢，被训得可惨啦，特别可怕！是吧，芙蓉？
 [charslot(slot="m",name="avg_120_hibisc_1#5$1")]
 [name="芙蓉"]欸，是、是吗？
 [charslot(slot="m",name="avg_122_beagle_1#8$2",focus="m")]
-[name="米格鲁"]可我怎么觉得......你最近都有些绕着大家走？
+[name="米格鲁"]可我怎么觉得……你最近都有些绕着大家走？
 [charslot(slot="m",name="char_124_kroos_1#3")]
-[name="克洛丝"]我......
+[name="克洛丝"]我……
 总是笑着的卡特斯女孩少见地耷拉下耳朵。
 [charslot(slot="m",name="avg_122_beagle_1#5$2",focus="m")]
 [name="米格鲁"]克洛丝，你还在害怕，对不对？
 [charslot(slot="m",name="avg_122_beagle_1#9$2",focus="m")]
 [name="米格鲁"]可我们现在不都还好好地，站在你的身边吗？
 [charslot]
-[name="克洛丝&芬&芙蓉"]......
+[name="克洛丝&芬&芙蓉"]……
 [charslot(slot="m",name="char_121_lava_1#1")]
 [name="炎熔"]啧，不只现在，还有明天、后天——未来的每一天！我们都会好好地站在你身边。
 [charslot(slot="m",name="avg_120_hibisc_1#10$1")]
 [name="芙蓉"]小炎熔？
 [charslot(slot="m",name="char_121_lava_1#3")]
-[name="炎熔"]唔......反正你们放心，我会变得很强！那样的情况绝对不会再有下一次了！
+[name="炎熔"]唔……反正你们放心，我会变得很强！那样的情况绝对不会再有下一次了！
 [charslot(slot="m",name="char_124_kroos_1#1")]
-[name="克洛丝"]噗......
+[name="克洛丝"]噗……
 [charslot(slot="m",name="char_121_lava_1#2")]
 [name="炎熔"]不许笑！我说出口的事，就一定会做到！
 [charslot(slot="m",name="avg_120_hibisc_1#1$1")]
@@ -660,21 +660,21 @@
 [charslot(slot="m",name="avg_123_fang_1#1")]
 [name="芬"]米格鲁——
 [charslot]
-愧疚、担忧、自我怀疑......这些情绪仍环绕在女孩们身边，仍会在她们独处时，悄悄放大。
+愧疚、担忧、自我怀疑……这些情绪仍环绕在女孩们身边，仍会在她们独处时，悄悄放大。
 对她们中的一些人来讲，那天的“小小”失误，就像那支射偏的箭——刺穿身体，留下一个每时每刻都漏着风的空洞。
 可当她们聚在一起时，那些负面的情绪又好像突然消失了。只留下拌嘴、玩笑，和吵吵闹闹——
 看吧，今天也是个适合见面的好天气。
 [charslot(slot="m",name="avg_123_fang_1#1")]
-[name="芬"]......米格鲁。
+[name="芬"]……米格鲁。
 [charslot(slot="m",name="avg_122_beagle_1#4$2",focus="m")]
 [name="米格鲁"]嗯？
 [charslot(slot="m",name="avg_123_fang_1#5")]
 [name="芬"]其实，我能猜到你心里在想什么。
-[name="芬"]无论是那天战场上的事，还是今天发生在工程部的事......这些，都是你认定的自己能做，也打心底里觉得自己应该去做的事。
+[name="芬"]无论是那天战场上的事，还是今天发生在工程部的事……这些，都是你认定的自己能做，也打心底里觉得自己应该去做的事。
 [charslot(slot="m",name="avg_123_fang_1#1")]
 [name="芬"]所以，无论我们说什么，哪怕说一百遍、一千遍“你应该休息”“你不该这样”，你都一定会去做，对吧？
 [charslot(slot="m",name="avg_122_beagle_1#2$2",focus="m")]
-[name="米格鲁"]唔......
+[name="米格鲁"]唔……
 [charslot(slot="m",name="avg_122_beagle_1#1$2",focus="m")]
 [name="米格鲁"]芬这么说，是因为芬也有一定会去做的事吧？
 [charslot(slot="m",name="avg_123_fang_1#2")]
@@ -682,31 +682,31 @@
 [name="芬"]是。
 [charslot]
 她看向自己的队员。除了自己，大家此刻都低着头，谁也没有看谁。但她清楚地知道她们在想什么——
-就像那天夜里，就像在战场上......她清楚地知道，面对危局，她的队员们会做出怎样的选择。
+就像那天夜里，就像在战场上……她清楚地知道，面对危局，她的队员们会做出怎样的选择。
 怎么可能在你最好的朋友面前隐藏心思呢？一切早已心照不宣了呀。
 [charslot(slot="m",name="avg_123_fang_1#1")]
 [name="芬"]但，米格鲁，如果你坚定地认为做某件事是对的，你就不该为自己的决定道歉。
 [charslot(slot="m",name="avg_123_fang_1#5")]
-[name="芬"]......坦白来说，看到你晕倒时，我的确很生气。但这种生气绝不是针对你......所以，你不必向我们道歉。
+[name="芬"]……坦白来说，看到你晕倒时，我的确很生气。但这种生气绝不是针对你……所以，你不必向我们道歉。
 [charslot(slot="m",name="avg_123_fang_1#7")]
-[name="芬"]而我、我们，作为你的朋友，即使你的决定很难，你要去做的那件事很危险......我们也都没有资格去劝你放弃。
+[name="芬"]而我、我们，作为你的朋友，即使你的决定很难，你要去做的那件事很危险……我们也都没有资格去劝你放弃。
 [name="芬"]因为大家，其实都有认定的、一定会去做的事。
 [charslot(slot="m",name="avg_120_hibisc_1#10$1")]
-[name="芙蓉"]芬......
+[name="芙蓉"]芬……
 [charslot(slot="m",name="char_121_lava_1#2")]
 [name="炎熔"]芬说得没错——我也是这么想的！所以米格鲁，你没有对不起谁！还有克洛丝——你也是！
 [charslot(slot="m",name="char_124_kroos_1#3")]
-[name="克洛丝"]唔，很少被小炎熔教训呢......
+[name="克洛丝"]唔，很少被小炎熔教训呢……
 [charslot(slot="m",name="avg_120_hibisc_1#10$1")]
 [name="芙蓉"]但是我认为，如果做那件事的时候，完全没考虑过朋友们的感受——还是应该好好道歉哦~
 [charslot(slot="m",name="avg_120_hibisc_1#4$1")]
-[name="芙蓉"]只是......米格鲁，当你决定做一件事的时候，你可以放心、大胆地告诉我们。
+[name="芙蓉"]只是……米格鲁，当你决定做一件事的时候，你可以放心、大胆地告诉我们。
 [charslot(slot="m",name="avg_120_hibisc_1#10$1")]
 [name="芙蓉"]我们也许会试着阻止你陷入危险，但我们更会做的，是和你一起想办法，一起承担，一起不让坏的事情发生！
 [charslot(slot="m",name="avg_122_beagle_1#9$2",focus="m")]
-[name="米格鲁"]大家......
+[name="米格鲁"]大家……
 [charslot(slot="m",name="avg_123_fang_1#7")]
-[name="芬"]所以，米格鲁，不管是工程部的学习，还是其他任何你想做的事......放心去做吧。
+[name="芬"]所以，米格鲁，不管是工程部的学习，还是其他任何你想做的事……放心去做吧。
 [charslot]
 话匣子一旦打开，当有一个人站出来，勇敢地说出大家共同的想法时，那些想象中的尴尬便会被真实的喜悦覆盖。
 刚刚还有些不知所措的女孩们紧紧地抱在一起。
@@ -727,9 +727,9 @@
 [charslot(slot="m",name="avg_122_beagle_1#9$2",focus="m")]
 [name="米格鲁"]好的，杜宾教官！
 [charslot(slot="m",name="char_130_doberm_ex#1",focus="m")]
-[name="杜宾"]克洛丝，给你一个任务，这段时间好好监督米格鲁，让她多休息......你自己也是。
+[name="杜宾"]克洛丝，给你一个任务，这段时间好好监督米格鲁，让她多休息……你自己也是。
 [charslot(slot="m",name="char_124_kroos_1#2")]
-[name="克洛丝"]杜宾教官......
+[name="克洛丝"]杜宾教官……
 [charslot(slot="m",name="char_130_doberm_ex#1",focus="m")]
 [name="杜宾"]芬、芙蓉、炎熔，你们三个明天一早就到训练室来。工程部新送来了一批防具，急需实战测试。
 [name="杜宾"]Mechanist说，这批防具的制作进程提前了整整一个星期，所以只能叫上你们三个来帮忙了。
@@ -743,7 +743,7 @@
 [Delay(time=2)]
 [charslot]
 [charslot(slot="m",name="char_013_riop")]
-[name="格瑞斯教官"]真是一如既往地雷厉风行啊......米格鲁，好好休息，预备干员们还在等你来给他们做示范呢！
+[name="格瑞斯教官"]真是一如既往地雷厉风行啊……米格鲁，好好休息，预备干员们还在等你来给他们做示范呢！
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",afrom=1, ato=0,duration=1.5)]
@@ -762,7 +762,7 @@
 [charslot(slot="m",name="char_013_riop")]
 [name="格瑞斯教官"]所以，就这么决定了？让米格鲁去工程部学学？
 [charslot(slot="m",name="char_130_doberm_ex#2",focus="m")]
-[name="杜宾"]她举起过很多面盾，她会找到最适合自己的那一面......她也会为她的伙伴们，找到最适合她们的盾。
+[name="杜宾"]她举起过很多面盾，她会找到最适合自己的那一面……她也会为她的伙伴们，找到最适合她们的盾。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",posfrom="0,0",posto="150,0",afrom=1, ato=0,duration=1.5,block=true)]
@@ -770,7 +770,7 @@
 [charslot]
 [charslot(slot="m",name="char_013_riop")]
 [name="格瑞斯教官"]欸，慢点慢点——
-[name="格瑞斯教官"]呼......那我也希望，小米格鲁，还有芬她们——都能在这块坚实的盾牌后面，再慢一些长大啊。
+[name="格瑞斯教官"]呼……那我也希望，小米格鲁，还有芬她们——都能在这块坚实的盾牌后面，再慢一些长大啊。
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

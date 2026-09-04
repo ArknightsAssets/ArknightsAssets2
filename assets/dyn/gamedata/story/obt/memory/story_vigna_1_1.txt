@@ -114,7 +114,7 @@
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=1)]
 [name="红豆"]  那这样任务就算完成了吧！
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=2)]
-[name="后勤干员"]  嗯，确实是这样，只不过......
+[name="后勤干员"]  嗯，确实是这样，只不过……
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=1)]
 [name="红豆"]  怎么了？
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=2)]
@@ -134,17 +134,17 @@
 [Character(name="avg_npc_088",name2="avg_npc_012",focus=2)]
 [name="近卫干员A"]  都这么说了，那我们哪有就这么退出的道理。
 [Character(name="char_013_riop",name2="avg_npc_012",focus=1)]
-[name="近卫干员B"]  是啊，好人做到底了。不过......
+[name="近卫干员B"]  是啊，好人做到底了。不过……
 [Character(name="char_013_riop",name2="char_290_vigna",focus=1)]
 [name="近卫干员B"]  红豆，你不是要去演唱会吗，你就别去了。
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=2)]
 [name="后勤干员"]  咦，演唱会？
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=1)]
-[name="红豆"]  ......嗯，再过几个小时就要开始了。
+[name="红豆"]  ……嗯，再过几个小时就要开始了。
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=2)]
 [name="后勤干员"]  这样啊，那红豆你就不用参加啦，先去演唱会吧。
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=1)]
-[name="红豆"]  ......不行。
+[name="红豆"]  ……不行。
 [name="红豆"]  我也要参加任务。
 [Character(name="char_290_vigna",name2="avg_npc_012",focus=2)]
 [name="近卫干员A"]  不用啦，又不是什么危险的任务，只是这群野兽多了个首领而已，我们几个人可以解决的。
@@ -152,11 +152,11 @@
 [name="近卫干员B"]  是啊，不是你很喜欢的乐队吗，你放心去就是了。
 [Character(name="char_013_riop",name2="char_290_vigna",focus=2)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="红豆"]  可是......！
+[name="红豆"]  可是……！
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=2)]
 [name="后勤干员"]  红豆，虽然你有这份心是好事，不过真的不用担心，你已经完成了上一个任务，只要安心去做你喜欢的事就好。
 [Character(name="char_290_vigna",name2="avg_npc_088",focus=1)]
-[name="红豆"]  ......好吧。
+[name="红豆"]  ……好吧。
 [stopmusic(fadetime=2)]
 [Dialog]
 [Character]
@@ -178,7 +178,7 @@
 [name="红豆"]  现场的气氛果然跟隔着屏幕完全不一样！
 [name="红豆"]  真该拉他们也来体验一下。
 [musicvolume(volume=0.1,fadetime=1)]
-[name="红豆"]  他们......
+[name="红豆"]  他们……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -207,7 +207,7 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [delay(time=1)]
-[name="红豆"]  ......
+[name="红豆"]  ……
 [name="红豆"]  啧，算了。
 [dialog]
 [PlaySound(key="$rungeneral", volume=0.6)]
@@ -280,7 +280,7 @@
 [name="近卫干员A"]  怎么感觉好话全被你说了。
 [name="近卫干员A"]  嗯？九点钟方向有动静。
 [Character(name="char_013_riop",name2="avg_npc_012",focus=1)]
-[name="近卫干员B"]  听起来像是在疾跑，两个声音，像是在追赶......
+[name="近卫干员B"]  听起来像是在疾跑，两个声音，像是在追赶……
 [Character(name="char_013_riop",name2="avg_npc_012",focus=2)]
 [name="近卫干员A"]  难道是别的小队？
 [Character(name="char_013_riop",name2="avg_npc_012",focus=1)]
@@ -293,7 +293,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.8, block=true)]
 [Character(name="char_290_vigna",fadetime=1,block=true)]
 [delay(time=1)]
-[name="红豆"]  ......
+[name="红豆"]  ……
 [name="红豆"]  啧，我明明看到往这边跑了，怎么跟丢了。
 [PlaySound(key="$d_gen_soldiersrun", volume=0.6)]
 [name="红豆"]  也没找到其他人，好烦。
@@ -371,7 +371,7 @@
 [dialog]
 [Character]
 [CameraShake(duration=0.3, xstrength=8, ystrength=10, vibrato=25, randomness=70, fadeout=true, block=true)]
-[name="野兽头领"]  呜......
+[name="野兽头领"]  呜……
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=0.9)]
 [Character(fadetime=1,block=true)]

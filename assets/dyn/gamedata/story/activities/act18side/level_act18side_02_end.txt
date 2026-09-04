@@ -25,7 +25,7 @@
 [character]
 [multiline(name="白垩")] 这——
 [multiline(name="白垩")] 这是怎么了？
-[name="行板"]白垩？芙蓉在里面......她被人围攻了！
+[name="行板"]白垩？芙蓉在里面……她被人围攻了！
 [dialog]
 [character]
 [name="白垩"]让开，让开——让我进去！！
@@ -81,7 +81,7 @@
 [Character(name="avg_1024_hbisc2_1#6$1")]
 [name="芙蓉"]有什么事情冲我来，为什么要冲着他施术？这事跟他有什么关系？！
 [Character(name="avg_npc_498_1#1$1")]
-[name="醉酒的感染者"]我......我没想冲着人——
+[name="醉酒的感染者"]我……我没想冲着人——
 [Character(name="avg_npc_488_1#1$1")]
 [name="可疑的感染者"] 没什么好解释的！再不走，你们就要和这把大提琴一样，身上开个洞了！
 [dialog]
@@ -96,29 +96,29 @@
 [playMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.4)]
 [delay(time=1)]
 [Character(name="avg_npc_496_1#1$1")]
-[name="好事的感染者"]......
+[name="好事的感染者"]……
 [Character(name="avg_npc_496_1#1$1")]
-[name="好事的感染者"]我——心跳得好快......
+[name="好事的感染者"]我——心跳得好快……
 [Character(name="avg_npc_488_1#1$1")]
-[name="可疑的感染者"] *莱塔尼亚粗口*，他怎么冒出来了......
+[name="可疑的感染者"] *莱塔尼亚粗口*，他怎么冒出来了……
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
 [characteraction(name="middle", type="move", xpos=-300, fadetime=2,block=false)]
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_npc_498_1#1$1")]
-[name="醉酒的感染者"]大家，大家别走啊，怎么......
+[name="醉酒的感染者"]大家，大家别走啊，怎么……
 [Character(name="avg_npc_496_1#1$1")]
-[name="好事的感染者"]你还没听见吗，那个声音......
+[name="好事的感染者"]你还没听见吗，那个声音……
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
 [characteraction(name="middle", type="move", xpos=-300, fadetime=2,block=false)]
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_npc_498_1#1$1")]
-[name="醉酒的感染者"]......难道是......难道是那位——难道是......
+[name="醉酒的感染者"]……难道是……难道是那位——难道是……
 [Character(name="avg_npc_498_1#1$1")]
-[name="醉酒的感染者"]您千万开恩，您手下留情，您——我就是多喝了几口，绝对没有对您不敬的意思......
+[name="醉酒的感染者"]您千万开恩，您手下留情，您——我就是多喝了几口，绝对没有对您不敬的意思……
 [Character(name="avg_npc_498_1#1$1")]
 [name="醉酒的感染者"]——我到底在干什么啊！
 [Dialog]
@@ -127,17 +127,17 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_1024_hbisc2_1#9$1")]
-[multiline(name="芙蓉")] 人群......
+[multiline(name="芙蓉")] 人群……
 [Character(name="avg_1024_hbisc2_1#3$1")]
 [multiline(name="芙蓉")]这么快就散了？
 [Character(name="avg_1024_hbisc2_1#9$1")]
 [name="芙蓉"]白垩，你怎么样？没受伤吧！
 [Character(name="avg_npc_482_1#7$1")]
-[name="白垩"]我没事，可是琴......
+[name="白垩"]我没事，可是琴……
 [Character(name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]啊，这大提琴......面板破得这么严重，还能修吗？
+[name="芙蓉"]啊，这大提琴……面板破得这么严重，还能修吗？
 [Character(name="avg_npc_482_1#7$1")]
-[name="白垩"]不知道......
+[name="白垩"]不知道……
 [Dialog]
 [stopmusic(fadetime=3)]
 [delay(time=2)]
@@ -165,7 +165,7 @@
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_1024_hbisc2_1#5$1",focus=1)]
 [name="黑键"]完全没有。我也是刚刚从人群口中听见这个词的。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_1024_hbisc2_1#7$1",focus=2)]
-[name="芙蓉"]也就是说，这个预言完全没有传到高庭区，是吗......
+[name="芙蓉"]也就是说，这个预言完全没有传到高庭区，是吗……
 [Character(name="avg_4046_ebnhlz_1#3$2", name2="avg_1024_hbisc2_1#7$1",focus=1)]
 [name="黑键"]高庭区？
 [Character(name="avg_4046_ebnhlz_1#3$2", name2="avg_1024_hbisc2_1#8$1",focus=2)]
@@ -173,13 +173,13 @@
 [Character(name="avg_4046_ebnhlz_1#8$2", name2="avg_1024_hbisc2_1#8$1",focus=1)]
 [name="黑键"]别把我和他们相提并论。
 [Character(name="avg_4046_ebnhlz_1#8$2", name2="avg_1024_hbisc2_1#3$1",focus=2)]
-[name="芙蓉"]啊？你不是维谢海姆的......
+[name="芙蓉"]啊？你不是维谢海姆的……
 [Character(name="avg_4046_ebnhlz_1#2$2", name2="avg_1024_hbisc2_1#3$1",focus=1)]
 [name="黑键"]我的确不是维谢海姆本地人。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_1024_hbisc2_1#3$1",focus=1)]
 [name="黑键"]另外，随意推测一位贵族的身份可不是什么礼貌的举动。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_1024_hbisc2_1#7$1",focus=2)]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_1024_hbisc2_1#1$1",focus=2)]
 [name="芙蓉"]那你是专程来夕照区参加车尔尼先生的音乐会的？你也是感染者？
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_1024_hbisc2_1#1$1",focus=1)]
@@ -204,21 +204,21 @@
 [character(name="avg_4046_ebnhlz_1#1$2",name2="char_empty",fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_npc_482_1#7$1")]
-[name="白垩"]......
+[name="白垩"]……
 [Character(name="avg_4046_ebnhlz_1#11$2", name2="avg_npc_482_1#7$1",focus=1)]
 [name="黑键"]好啦，别伤心了，先去车尔尼家吧。他那么喜欢你，会给你重新挑一把琴的。
 [Character(name="avg_4046_ebnhlz_1#11$2", name2="avg_npc_482_1#3$1",focus=2)]
-[name="白垩"]你......
+[name="白垩"]你……
 [Character(name="avg_4046_ebnhlz_1#9$2", name2="avg_npc_482_1#3$1",focus=1)]
-[name="黑键"]呃，我不是那个意思......
+[name="黑键"]呃，我不是那个意思……
 [Character(name="avg_4046_ebnhlz_1#9$2", name2="avg_npc_482_1#1$1",focus=2)]
-[name="白垩"]......没事。
+[name="白垩"]……没事。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#1$1",focus=1)]
 [name="黑键"]不过也真奇怪，我完全没听过什么“陛下的预言”啊。
 [Character(name="avg_4046_ebnhlz_1#9$2", name2="avg_npc_482_1#1$1",focus=1)]
 [name="黑键"]（难道是格特鲁德？）
 [Character(name="avg_4046_ebnhlz_1#9$2", name2="avg_npc_482_1#6$1",focus=2)]
-[name="白垩"]我倒是隐隐约约听过一些......但是很模糊，也没提什么萨卡兹......
+[name="白垩"]我倒是隐隐约约听过一些……但是很模糊，也没提什么萨卡兹……
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#6$1",focus=1)]
 [name="黑键"]唉，算了，音乐会要紧。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#6$1",focus=1)]
@@ -226,7 +226,7 @@
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#6$1",focus=1)]
 [name="黑键"]不说这些了，我们赶紧去车尔尼家吧。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#7$1",focus=2)]
-[name="白垩"]可是，琴......
+[name="白垩"]可是，琴……
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#7$1",focus=1)]
 [name="黑键"]不是说过了吗，车尔尼会给你挑一把的。
 [Character(name="avg_4046_ebnhlz_1#11$2", name2="avg_npc_482_1#7$1",focus=1)]
@@ -252,7 +252,7 @@
 [Character(name="avg_4047_pianst_1#6$1")]
 [name="车尔尼"]白垩，你说。
 [Character(name="avg_4046_ebnhlz_1#9$2", name2="avg_npc_482_1#1$1",focus=1)]
-[name="黑键"]......
+[name="黑键"]……
 [Character(name="avg_4046_ebnhlz_1#9$2", name2="avg_npc_482_1#9$1",focus=2)]
 [name="白垩"]来的路上，我和黑键遇到了芙蓉。
 [Character(name="avg_4047_pianst_1#1$1")]
@@ -262,7 +262,7 @@
 [Character(name="avg_4047_pianst_1#6$1")]
 [name="车尔尼"]无稽之谈。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#7$1",focus=2)]
-[name="白垩"]我想去保护芙蓉，结果......大提琴被法术打坏了。
+[name="白垩"]我想去保护芙蓉，结果……大提琴被法术打坏了。
 [Character(name="avg_4047_pianst_1#6$1")]
 [name="车尔尼"]在街上放法术，这群人脑子到底出了什么毛病！
 [Character(name="avg_4047_pianst_1#1$1")]
@@ -276,9 +276,9 @@
 [Character(name="avg_4047_pianst_1#2$1")]
 [name="车尔尼"]行，我知道了。
 [Character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]这把坏琴......唉，像样的大提琴，我也只有这一把啊。
+[name="车尔尼"]这把坏琴……唉，像样的大提琴，我也只有这一把啊。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#7$1",focus=2)]
-[name="白垩"]对不起......
+[name="白垩"]对不起……
 [Character(name="avg_4047_pianst_1#5$1")]
 [name="车尔尼"]别道歉了，这不是你的错，反而是我，应该代表夕照区，替那些蠢货给你道歉。
 [Character(name="avg_4047_pianst_1#1$1")]
@@ -304,11 +304,11 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_4047_pianst_1#2$1")]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#1$1",focus=1)]
-[name="黑键"]车尔尼先生，您......意下如何？
+[name="黑键"]车尔尼先生，您……意下如何？
 [Character(name="avg_4047_pianst_1#2$1")]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]进步不是没有。
 [Character(name="avg_4047_pianst_1#1$1")]
@@ -324,13 +324,13 @@
 [CameraShake(duration=0.2, xstrength=5, ystrength=5, vibrato=20, randomness=70, fadeout=true, block=false)]
 [delay(time=0.51)]
 [Character(name="avg_4046_ebnhlz_1#8$2", name2="avg_npc_482_1#1$1",focus=1)]
-[name="黑键"]......
+[name="黑键"]……
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]黑键反应的速度快了不少，可还是会在自己的段落忘乎所以，好像在炫耀什么一样，最后还是要白垩来迁就你。
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]连曲子都还没完全熟悉，有什么好炫耀的？
 [Character(name="avg_4046_ebnhlz_1#8$2", name2="avg_npc_482_1#1$1",focus=1)]
-[name="黑键"]......
+[name="黑键"]……
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]还有那些装饰音，倒是都吹出来了，可是连气息都快不稳了，有意义吗？
 [Character(name="avg_4047_pianst_1#1$1")]
@@ -340,7 +340,7 @@
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]说实话，我真的想撤掉《晨暮》了。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#1$1",focus=2)]
-[name="白垩"]车尔尼先生......
+[name="白垩"]车尔尼先生……
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]直接说。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#1$1",focus=2)]
@@ -352,7 +352,7 @@
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#1$1",focus=2)]
 [name="白垩"]没事的。
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#1$1",focus=1)]
-[name="黑键"]......
+[name="黑键"]……
 [dialog]
 [Character(name="avg_4046_ebnhlz_1#1$2", name2="avg_npc_482_1#1$1")]
 [characteraction(name="right", type="move", xpos=-100, fadetime=0.5,block=true)]
@@ -386,7 +386,7 @@
 [musicvolume(volume=0, fadetime=1)]
 [name="车尔尼"]那股炫耀的劲头完全没变。你觉得长笛是什么？你炫技的工具吗？
 [Character(name="avg_4046_ebnhlz_1#8$2")]
-[name="黑键"]......
+[name="黑键"]……
 [dialog]
 [Character(name="avg_4047_pianst_1#1$1")]
 [delay(time=1)]
@@ -399,7 +399,7 @@
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]有待提高的地方还有一大堆，但最低标准，你算是摸到了边。
 [Character(name="avg_npc_482_1#3$1")]
-[name="白垩"]也就是说......？
+[name="白垩"]也就是说……？
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]通过。
 [musicvolume(volume=0.4, fadetime=1)]
@@ -416,7 +416,7 @@
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]再有，白垩现在用的这把琴是把量产品，只是应急用的，我还是推荐你们换一把。
 [Character(name="avg_npc_482_1#7$1")]
-[name="白垩"]可是您原来送我的那把已经......
+[name="白垩"]可是您原来送我的那把已经……
 [Character(name="avg_4046_ebnhlz_1#11$2")]
 [name="黑键"]没关系，有我呢。
 [Character(name="avg_4047_pianst_1#1$1")]
@@ -440,7 +440,7 @@
 [Character(name="avg_npc_497_1#1$1", name2="avg_npc_488_1#1$1",focus=2)]
 [name="可疑的感染者"] 所以说是那位陛下啊，那位陛下的预言！
 [Character(name="avg_npc_497_1#1$1", name2="avg_npc_488_1#1$1",focus=1)]
-[name="轻信的感染者"]不得了，咱们边走边说，你再详细讲讲......
+[name="轻信的感染者"]不得了，咱们边走边说，你再详细讲讲……
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
 [character(fadetime=1.5)]

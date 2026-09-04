@@ -20,7 +20,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [delay(time=0.7)]
 [Character(name="avg_npc_156_1#2",name2="avg_npc_007",focus=2)]
-[name="雇佣兵"]啊啊啊啊......我的眼睛！
+[name="雇佣兵"]啊啊啊啊……我的眼睛！
 [dialog]
 [character]
 [delay(time=0.6)]
@@ -63,7 +63,7 @@
 [character]
 [delay(time=1)]
 [character(name="avg_npc_166",fadetime=0.7, focus=-1)]
-[name="黑"]......我看见你了......
+[name="黑"]……我看见你了……
 [dialog]
 [PlaySound(key="$p_imp_arrow_h", volume=1)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
@@ -86,7 +86,7 @@
 [Character(name="avg_npc_054",name2="avg_npc_053",focus=1)]
 [name="萨卡兹雇佣兵"]别找了，撤了！
 [character(name="avg_npc_166",focus=-1)]
-[name="黑"]......你跑不掉的。
+[name="黑"]……你跑不掉的。
 [dialog]
 [PlaySound(key="$p_imp_arrow_h", volume=1)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.05, block=true)]
@@ -98,7 +98,7 @@
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [characteraction(name="right", type="move", ypos=-80, fadetime=0.7,block=false)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
-[name="萨卡兹雇佣兵"]呃......
+[name="萨卡兹雇佣兵"]呃……
 [dialog]
 [characteraction(name="middle", type="move", ypos=-80, fadetime=1,block=false)]
 [PlaySound(key="$bodyfalldown3")]
@@ -152,7 +152,7 @@
 [delay(time=1)]
 [PlaySound(key="$shotgunreload",volume=1)]
 [delay(time=1)]
-[name="灰烬"]......已经靠得够近了，朋友。
+[name="灰烬"]……已经靠得够近了，朋友。
 [name="灰烬"]虽然我感谢你们出手相助，但是在我们彼此搞清状况以前，还是保持一点安全距离比较好。
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]不要紧张，我们没有敌意。
@@ -189,8 +189,8 @@
 [Character(name="char_503_rang",name2="avg_npc_012",focus=1)]
 [name="巡林者"]所以最后这四个雇佣兵就在这里搭建了临时阵地？
 [Character(name="char_503_rang",name2="avg_npc_012",focus=2)]
-[name="奥克芬"]实在是抱歉，通讯器被破坏了，安全屋也没守住......
-[name="奥克芬"]你们要是现在就辞退我，我也没什么怨言......
+[name="奥克芬"]实在是抱歉，通讯器被破坏了，安全屋也没守住……
+[name="奥克芬"]你们要是现在就辞退我，我也没什么怨言……
 [Character(name="char_503_rang",name2="avg_npc_012",focus=1)]
 [name="巡林者"]不要担心，老夫也没有辞退你的权力。
 [name="巡林者"]而且依老夫来看，你能坚持到现在已经很了不起了。
@@ -219,13 +219,13 @@
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]他们都拿着铳哎，而且怎么看都不是萨科塔人吧？
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
-[name="雷蛇"]除非萨科塔人已经有办法把“日光灯”藏起来......
+[name="雷蛇"]除非萨科塔人已经有办法把“日光灯”藏起来……
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=1)]
 [name="芙兰卡"]非萨科塔雇佣兵全员装备大型铳器，这绝对会变成大新闻的。
 [Character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
 [name="雷蛇"]黑钢装备研发部门的人知道了这件事，绝对要发疯。
 [character(name="avg_npc_166")]
-[name="黑"]......还是不要在背后议论别人了。
+[name="黑"]……还是不要在背后议论别人了。
 [Character(name="char_503_rang")]
 [name="巡林者"]无论如何，他们救助了罗德岛的干员，保护了感染者。
 [name="巡林者"]没有证据之前，我们也不该怀疑他们的动机。
@@ -254,7 +254,7 @@
 [name="灰烬"]他们虽然是武装人员，但是看起来训练有素，而且谈吐得体。
 [name="灰烬"]和我们之前遇到的歪瓜裂枣可不太一样。
 [character(name="char_457_blitz_1#3",name2="char_456_ash_1#6",focus=2)]
-[name="灰烬"]而且......
+[name="灰烬"]而且……
 [name="灰烬"]可能是我的错觉，但是我总能从他们身上感觉到很熟悉的氛围。
 [character(name="char_457_blitz_1#3",name2="char_456_ash_1#6",focus=1)]
 [name="闪击"]这个，我倒是同意你的看法。
@@ -266,12 +266,12 @@
 [character(name="char_456_ash_1#5",name2="avg_npc_160_1#3",focus=1)]
 [name="灰烬"]医生，你了解这个叫作罗德岛的组织吗？
 [character(name="char_456_ash_1#5",name2="avg_npc_160_1#3",focus=2)]
-[name="米亚罗"]......我从大篷车商队那里听到过一点。
+[name="米亚罗"]……我从大篷车商队那里听到过一点。
 [name="米亚罗"]他们是专门救治感染者的组织，也是研究矿石病的科研机构。
 [character(name="char_459_tachak_1")]
 [name="战车"]但是这种病不是治不好吗？
 [character(name="avg_npc_160_1#3")]
-[name="米亚罗"]是啊......
+[name="米亚罗"]是啊……
 [name="米亚罗"]其实过去有不少人自称“能够治愈矿石病”。
 [name="米亚罗"]这些人大部分是骗子，骗局败露之后各个下场凄惨。
 [name="米亚罗"]极少数不是骗子的人，也都是夸大了“抑制矿石病症状”的效果，这些能够“抑制矿石病”的药物也极其昂贵。
@@ -281,7 +281,7 @@
 [name="米亚罗"]我以前听说，某个领主的女儿得了矿石病，这位领主为了救自己的女儿，从哥伦比亚高价购买了抑制药。
 [name="米亚罗"]几年以后，领主的财富全部消耗殆尽，他的女儿也在病痛中死去。
 [character(name="avg_npc_160_1#1",name2="char_459_tachak_1",focus=2)]
-[name="战车"]......
+[name="战车"]……
 [character(name="avg_npc_160_1#3",name2="char_459_tachak_1",focus=1)]
 [name="米亚罗"]但是你们看这个。
 [character(name="avg_npc_160_1#3",name2="char_459_tachak_1",focus=2)]
@@ -289,9 +289,9 @@
 [character(name="avg_npc_160_1#3")]
 [name="米亚罗"]这是安全屋里储备的矿石病抑制药。
 [name="米亚罗"]这几天我给一些病重的人注射了这种药，它确实能够有效抑制矿石病，而且药效比我以前见过的所有产品都好。
-[name="米亚罗"]这样的药......一定非常昂贵吧？
+[name="米亚罗"]这样的药……一定非常昂贵吧？
 [name="米亚罗"]但是奥克芬先生完全不在乎这件事，当我告诉他有人病得非常严重，他就给了我一盒。
-[name="米亚罗"]我不是不相信这片大地上有好人，只是......
+[name="米亚罗"]我不是不相信这片大地上有好人，只是……
 [character(name="char_457_blitz_1#3")]
 [name="闪击"]嘿，这我倒是真没想到。
 [character(name="char_456_ash_1#5",name2="char_459_tachak_1",focus=1)]
@@ -307,7 +307,7 @@
 [name="巡林者"]谢谢你们救了奥克芬，若不是你们，罗德岛会失去一位尽职尽责的干员。
 [name="巡林者"]这次任务结束后，我会提交报告，罗德岛会给四位合适的报酬与物资补偿。
 [character(name="char_456_ash_1#5")]
-[name="灰烬"]报酬啊......
+[name="灰烬"]报酬啊……
 [character(name="char_459_tachak_1")]
 [name="战车"]有报酬是好事。
 [Character(name="char_503_rang")]
@@ -317,16 +317,16 @@
 [Character(name="avg_npc_156_1#1")]
 [name="雷蛇"]所以你们是雇佣兵？
 [character(name="char_457_blitz_1#3",name2="char_456_ash_1#8",focus=2)]
-[name="灰烬"]不......我们......
+[name="灰烬"]不……我们……
 [character(name="char_457_blitz_1#2",name2="char_456_ash_1#8",focus=1)]
 [name="闪击"]是，我们就是。
 [name="闪击"]我们是雇佣兵，很贵的那种。
 [character(name="char_457_blitz_1#2",name2="char_456_ash_1#6",focus=2)]
-[name="灰烬"]......
+[name="灰烬"]……
 [Character(name="avg_npc_156_1#1")]
 [name="雷蛇"]能透漏一下你们所属的公司吗？像你们这样的雇佣兵实在是太少见了。
 [character(name="char_457_blitz_1#3",name2="char_459_tachak_1",focus=1)]
-[name="闪击"]呃......我们是......呃......
+[name="闪击"]呃……我们是……呃……
 [dialog]
 [characteraction(name="left", type="move", xpos=100, fadetime=0.7, block=false)]
 [delay(time=0.8)]
@@ -334,20 +334,20 @@
 [character(name="char_457_blitz_1#3",name2="char_459_tachak_1",focus=2)]
 [name="战车"]（俄语）北极熊物流？
 [Character(name="avg_npc_156_1#1")]
-[name="雷蛇"]......
+[name="雷蛇"]……
 [name="雷蛇"]如果不方便透漏也没有关系，我明白。
 [character(name="char_457_blitz_1#2",name2="char_459_tachak_1",focus=1)]
-[name="闪击"]我们......我们来自一个很遥远的国家，在......在南边！
+[name="闪击"]我们……我们来自一个很遥远的国家，在……在南边！
 [character(name="char_457_blitz_1#2",name2="char_459_tachak_1",focus=2)]
 [name="战车"]对！我们来自很南边。
 [Character(name="char_503_rang")]
 [name="巡林者"]南边？萨尔贡南边？？
 [name="巡林者"]穿过焚风热土？
 [character(name="char_457_blitz_1#2")]
-[name="闪击"]焚......对，就是来自那边。
+[name="闪击"]焚……对，就是来自那边。
 [Character(name="char_503_rang")]
 [name="巡林者"]穿过焚风热土还有其他国家？？
-[name="巡林者"]这可真是......震撼老夫，这么多年来可是第一次听说这件事。
+[name="巡林者"]这可真是……震撼老夫，这么多年来可是第一次听说这件事。
 [name="巡林者"]就算是萨尔贡王酋的历史记载中，也从未提及有人曾经穿越干旱之地而来。
 [character(name="char_457_blitz_1#1",name2="char_459_tachak_1",focus=2)]
 [name="战车"]（俄语）你编故事也稍微靠谱一点。
@@ -371,7 +371,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [character(name="avg_npc_166")]
-[name="黑"]萨卡兹佣兵......
+[name="黑"]萨卡兹佣兵……
 [name="黑"]操纵怪物的，应该是术师。
 [name="黑"]有组织，有纪律，更重要的是懂得知难而退，这不是临时起意的劫掠。
 [Character(name="avg_npc_155_1#1")]
@@ -395,7 +395,7 @@
 [name="闪击"]他们想把那些病人带走。
 [name="闪击"]我觉得这才是这群人的目的。
 [Character(name="avg_npc_155_1#1")]
-[name="芙兰卡"]绑架......感染者？
+[name="芙兰卡"]绑架……感染者？
 [name="芙兰卡"]这又是什么道理。
 [Character(name="char_503_rang")]
 [name="巡林者"]敌人的目的扑朔迷离，但这并不是眼下最紧要的。
@@ -411,7 +411,7 @@
 [name="巡林者"]他同意罗德岛在这里设立安全屋，说明他不是封闭自守之人。
 [name="巡林者"]我相信他会给我们一个公正的待遇。
 [character(name="char_456_ash_1#6")]
-[name="灰烬"]国家律法......地方政府......我能理解。那现在也只能希望如此了。
+[name="灰烬"]国家律法……地方政府……我能理解。那现在也只能希望如此了。
 [Character(name="char_503_rang")]
 [name="巡林者"]在有更多情况变化之前，我们要固守这个安全屋，等待镇上的骚乱结束。
 [name="巡林者"]希望你们能够帮助我们。

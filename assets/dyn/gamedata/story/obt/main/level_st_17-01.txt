@@ -88,8 +88,8 @@
 [name="不满的声音"]目光短浅的商人，坐拥这样的宝贝也只会考虑怎么用它来填满自己的钱袋子，根本没想过它真正的价值！
 [name="不满的声音"]也难怪他缺少对乌萨斯军人应有的尊重，他们根本不明白乌萨斯的土地是建立在什么之上的——许多人都缺少对我们的尊重！
 [name="不满的声音"]如果我是元帅，我会直接划开那个懦夫的喉咙，用他的血在协议上摁手印。
-[name="不满的声音"]呵，如果我是元帅......我应该指挥军队战斗到底，直到每一个乌萨斯人都学会尊重我们。而不是像现在这样......被扣上失败者的帽子。
-[name="急躁的声音"]哦......别再说那些蠢话了！
+[name="不满的声音"]呵，如果我是元帅……我应该指挥军队战斗到底，直到每一个乌萨斯人都学会尊重我们。而不是像现在这样……被扣上失败者的帽子。
+[name="急躁的声音"]哦……别再说那些蠢话了！
 [name="急躁的声音"]你真的相信，元帅打心底里支持过六、八那两个集团军的白痴？
 [name="急躁的声音"]他们的行为从一开始就注定是要失败的，凭他们手里那一点火炮和战舰还撬动不了乌萨斯，多十倍都不行。
 [name="急躁的声音"]他们和那些商人本质上没有区别，他们都不知道乌萨斯的威严来自何处——但元帅早就看清了这一点。
@@ -152,7 +152,7 @@
 [charslot(slot="m",afrom=0,ato=1,duration=0.4)]
 [PlaySound(key="$d_avg_jumpscare",channel="D",volume=1)]
 [Delay(time=2)]
-[name="不满的声音"]啊......找到了。
+[name="不满的声音"]啊……找到了。
 [name="不满的声音"]这里还有一个。
 [Dialog]
 [stopsound(channel="r")]
@@ -182,9 +182,9 @@
 [Sticker(id="st1",duration=1.3)]
 [delay(time=1.5)]
 [PlaySound(key="$d_avg_continuouswrite",volume=0.6)]
-[Sticker(id="st1", multi = true, text="而在人们创造过的，最能反映人类自身善恶本性的造物当中......", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,duration=1.3,block = true)]
+[Sticker(id="st1", multi = true, text="而在人们创造过的，最能反映人类自身善恶本性的造物当中……", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,duration=1.3,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n“国家”，这个巨大的概念，一定有一席之地。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,duration=1.3,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,duration=1.3,block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,duration=1.3,block = true)]
 [Sticker(id="st1",duration=1.3)]
 [delay(time=1.5)]
 [PlaySound(key="$d_avg_paper1",volume=1)]
@@ -207,34 +207,34 @@
 [charslot(slot="m",name="avg_npc_1975_1#1$1",duration=1)]
 [Delay(time=2)]
 [name="畏缩的研究员"]所长，他们已经闯到D区了！
-[name="畏缩的研究员"]我听到了......有武器的声音......他们在杀人......他们是在杀人吗？
+[name="畏缩的研究员"]我听到了……有武器的声音……他们在杀人……他们是在杀人吗？
 [Dialog]
 [charslot(slot="m",name="avg_npc_2224_1#3$1",focus="m")]
 [name="凯尔希"]伊利亚，还有多长时间？
 [Dialog]
 [charslot]
-[name="伊利亚"]......四十分钟。
+[name="伊利亚"]……四十分钟。
 [name="伊利亚"]已经尽力了，封锁程序完成，还要四十分钟。
 [charslot(slot="m",name="avg_npc_1975_1#1$1",focus="m")]
-[name="畏缩的研究员"]可是我们一定要等到它完全关闭吗......
+[name="畏缩的研究员"]可是我们一定要等到它完全关闭吗……
 [Dialog]
 [charslot]
 [name="伊利亚"]不然呢？！把这个东西完完整整地留给军队，交到那些屠夫的手里，好让他们可以去轻而易举地制造更多屠杀？  
 [name="伊利亚"]*激烈的乌萨斯粗口*！我活着度过的这一生已经够失败了，我不想在死后还变成一个杀人者的帮凶！
-[name="伊利亚"]都太迟了......
-[name="伊利亚"]可这群该死的刽子手怎么能反应得这么快，他们怎么可能这么快摸清研究所内部的情报......
-[name="伊利亚"]有叛徒......所长，一定有人出卖了研究所的情报。
-[name="伊利亚"]是谢尔盖吗......早在他试探我的时候我就该意识到的。
-[name="伊利亚"]*乌萨斯粗口*，一定是他......怎么偏偏是他，他原本可以做一个好人的......
+[name="伊利亚"]都太迟了……
+[name="伊利亚"]可这群该死的刽子手怎么能反应得这么快，他们怎么可能这么快摸清研究所内部的情报……
+[name="伊利亚"]有叛徒……所长，一定有人出卖了研究所的情报。
+[name="伊利亚"]是谢尔盖吗……早在他试探我的时候我就该意识到的。
+[name="伊利亚"]*乌萨斯粗口*，一定是他……怎么偏偏是他，他原本可以做一个好人的……
 [charslot(slot="m",name="avg_npc_2224_1#1$1",focus="m")]
 [name="凯尔希"]冷静点，伊利亚。这个时候去想这些事没有任何益处。
 [name="凯尔希"]专注眼前的事，我们都还有机会再挽回一点什么。
 [Dialog]
 [charslot]
-[name="伊利亚"]所长......我们是不是......真的来不及了。
+[name="伊利亚"]所长……我们是不是……真的来不及了。
 [name="伊利亚"]您收到了我的警告，不该回来的，即使您回来了，也还是来不及——
 [charslot(slot="m",name="avg_npc_2224_1#2$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]伊利亚，你带大家离开。
 [Dialog]
 [charslot]
@@ -245,41 +245,41 @@
 [name="凯尔希"]快走吧，我留下来。
 [Dialog]
 [charslot]
-[name="伊利亚"]......
+[name="伊利亚"]……
 [charslot(slot="m",name="avg_npc_2224_1#1$1",focus="m")]
 [name="凯尔希"]伊利亚？
 [Dialog]
 [charslot]
-[name="伊利亚"]......不，我留下来。
+[name="伊利亚"]……不，我留下来。
 [charslot(slot="m",name="avg_npc_2224_1#1$1",focus="m")]
 [name="凯尔希"]伊利亚。
 [Dialog]
 [charslot]
 [name="伊利亚"]我不会逃跑，我做不到，您不该把这些同僚的性命都托付给我！
-[name="伊利亚"]凯尔希所长......老师，这片大地需要您远甚于我，该走的是您才对。您本来就不该在这时候回来！
+[name="伊利亚"]凯尔希所长……老师，这片大地需要您远甚于我，该走的是您才对。您本来就不该在这时候回来！
 [name="伊利亚"]就算您现在想办法藏住了体表的源石，那些家伙也会发现您其实是感染者这件事，您会遭受比痛快的死亡更恶劣百倍的对待——
 [name="伊利亚"]何况现在也只有您能带这些无辜的同僚找到生路，您不能推辞。
 [charslot(slot="m",name="avg_npc_2224_1#9$1",focus="m")]
-[name="凯尔希"]可你也有必须要活下去的理由......柳德米拉，你的女儿——
+[name="凯尔希"]可你也有必须要活下去的理由……柳德米拉，你的女儿——
 [Dialog]
 [charslot]
 [name="伊利亚"]我希望能够拜托您。
-[name="伊利亚"]请您带她离开，离开这个国家，越远越好......呵，我原本还期待过您可以教育她一段时间的，不过，算了。
+[name="伊利亚"]请您带她离开，离开这个国家，越远越好……呵，我原本还期待过您可以教育她一段时间的，不过，算了。
 [name="伊利亚"]您不用把今天发生在这里的事情告诉她，不会有好处的，让她用自己喜欢的方式探索这片大地吧。
 [charslot(slot="m",name="avg_npc_2224_1#3$1",focus="m")]
 [name="凯尔希"]我向你保证，会让她远离乌萨斯。在她有能力为自己的行为负责之前，她都会是安全的。
 [name="凯尔希"]我也向你保证，你们在这里所做的一切，都不会白费。
 [Dialog]
 [charslot]
-[name="伊利亚"]那就够了......
-[name="伊利亚"]......真有意思，我们之前开启这个石棺的选择，现在保留它的选择，到底哪一个才算得上正确。
+[name="伊利亚"]那就够了……
+[name="伊利亚"]……真有意思，我们之前开启这个石棺的选择，现在保留它的选择，到底哪一个才算得上正确。
 [charslot(slot="m",name="avg_npc_2224_1#3$1",focus="m")]
 [name="凯尔希"]我们做了自己认为正确的事，这个答案，也许得柳德米拉，甚至是她的孩子才能够回答。
 [Dialog]
 [charslot]
-[name="伊利亚"]说的也是......走吧。
+[name="伊利亚"]说的也是……走吧。
 [charslot(slot="m",name="avg_npc_2224_1#8$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [name="凯尔希"]再见，伊利亚。
 [Dialog]
 [SoundVolume(volume=0,channel="a", fadetime=2)]
@@ -309,7 +309,7 @@
 [name="伊利亚"]很可惜，威名赫赫的安德里安元帅又一次失败了。他的军队没能征服一个小小的研究所，甚至是一个可悲的研究员。
 [name="伊利亚"]好了，现在你们可以行使剥夺我的性命的权力了。
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
-[name="第四集团军士兵"]哼，了不起的硬骨头......
+[name="第四集团军士兵"]哼，了不起的硬骨头……
 [name="第四集团军士兵"]如你所愿。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -378,13 +378,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [PlaySound(key="$d_avg_prisongate_open",volume=1)]
 [Delay(time=2.5)]
-[name="年轻的声音"]......这是哪儿？
+[name="年轻的声音"]……这是哪儿？
 [name="年轻的声音"]军事法庭呢？审判呢？
 [name="年轻的声音"]为什么你们要领我来这里？我的部下又在哪里？
 [name="不耐烦的声音"]闭嘴。
 [name="年轻的声音"]除非你杀了我。
 [name="不耐烦的声音"]你是死刑犯。无论是现在杀你还是之后杀你，都没什么区别。
-[name="不耐烦的声音"]可上面的大人好像暂时腾不出手来处理你这个叛乱头子，所以......
+[name="不耐烦的声音"]可上面的大人好像暂时腾不出手来处理你这个叛乱头子，所以……
 [name="不耐烦的声音"]你就先待在这里，听着其他房间，听着你那些部下，都是怎么一个个沉默下去的吧。
 [name="年轻的声音"]我是军人，不是罪犯。我的部下也不是！
 [name="不耐烦的声音"]从你狂妄到决定对元帅举起反旗的那一刻起，你们整个兵团就已经不再属于光荣的第四集团军了。
@@ -398,20 +398,20 @@
 [Background(image="bg_deluxeroom", screenadapt="coverall", block=true)]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="沉默的男孩"]......
-[name="沉默的男孩"]妈妈，请先坐下来吧......您在发抖。
+[name="沉默的男孩"]……
+[name="沉默的男孩"]妈妈，请先坐下来吧……您在发抖。
 [name="沉默的男孩"]那些军队的人都已经离开了。
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="m")]
-[name="恍惚的女性"]军队，雅科夫......
+[name="恍惚的女性"]军队，雅科夫……
 [name="恍惚的女性"]是你吗，雅科夫？
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="none")]
-[name="沉默的男孩"]......
+[name="沉默的男孩"]……
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="m")]
 [name="恍惚的女性"]你回来了？
 [name="恍惚的女性"]可现在苹果花都还没开，远不到夏休的时候。
 [name="恍惚的女性"]安德里安元帅待你如何？是不是常常把你带在身边？那些我托人带给你的衣裳鞋袜，穿着都还合身吗？
-[name="恍惚的女性"]我的眼睛实在看不清了，没法亲手给它们绣上名字......但索菲亚帮了忙。你从前最喜欢她的手艺——
-[name="恍惚的女性"]......索菲亚？
+[name="恍惚的女性"]我的眼睛实在看不清了，没法亲手给它们绣上名字……但索菲亚帮了忙。你从前最喜欢她的手艺——
+[name="恍惚的女性"]……索菲亚？
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="none")]
 [name="沉默的男孩"]妈妈。
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="m")]
@@ -428,9 +428,9 @@
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="none")]
 [name="沉默的男孩"]雅科夫兄长入狱，索菲亚姐姐已经出嫁，却还是为了救他在圣骏堡奔走。她需要用金钱去疏通那些滞塞的关卡，我们必须帮忙。
 [name="沉默的男孩"]况且，我们也不能令无辜的人，被迫负担与我们相同的惩罚，不是吗？
-[name="沉默的男孩"]......唉。
+[name="沉默的男孩"]……唉。
 [name="沉默的男孩"]无论如何，请听听我说的话吧，妈妈。即使您从前从未听过，但这是雅科夫兄长从狱中写来的信。
-[name="沉默的男孩"]一起听听看吧......
+[name="沉默的男孩"]一起听听看吧……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_paper1",volume=1)]
@@ -438,9 +438,9 @@
 男孩说着，展开手中的信件，却只看到一张白纸。
 刹那间，他的面色就变得和手中的纸张一样苍白。
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="none")]
-[name="沉默的男孩"]......
+[name="沉默的男孩"]……
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="m")]
-[name="恍惚的女性"]雅科夫......雅科夫不是在军队里吗？
+[name="恍惚的女性"]雅科夫……雅科夫不是在军队里吗？
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="none")]
 [name="沉默的男孩"]军队来过了，妈妈。
 [Dialog]
@@ -448,7 +448,7 @@
 男孩把白纸一点点对折，当作一个缓慢的、思索的过程。
 而后，他将一枚窄小而整齐的方块，塞入胸前原本应该放着手帕的位置，紧贴着心脏。
 [charslot(slot="m",name="avg_npc_2172_1#1$1",focus="none")]
-[name="沉默的男孩"]他们说，因为雅科夫兄长在第四集团军军队哗变事件中所处的位置......
+[name="沉默的男孩"]他们说，因为雅科夫兄长在第四集团军军队哗变事件中所处的位置……
 [name="沉默的男孩"]彼得洛夫家族已经被判剥夺世袭爵位，贬为庶民，流放到北原矿区第九矿场。
 [name="沉默的男孩"]明天我们就必须动身了。
 [Dialog]
@@ -460,10 +460,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot="m",name="avg_npc_094",focus="m")]
 [name="绝望的感染者"]埋了老彼得，我们又该上路了。
-[name="绝望的感染者"]埋葬了孩子，埋葬了妻子，埋葬了父母......之后还要这样埋葬多少人？
+[name="绝望的感染者"]埋葬了孩子，埋葬了妻子，埋葬了父母……之后还要这样埋葬多少人？
 [name="绝望的感染者"]你在做什么，写信？给你母亲的？
 [charslot(slot="m",name="avg_npc_094",focus="none")]
-[name="沉默的男孩"]不......不是信。只是把我所见所想的记下来，有机会的话，我希望有更多人看到。
+[name="沉默的男孩"]不……不是信。只是把我所见所想的记下来，有机会的话，我希望有更多人看到。
 [charslot(slot="m",name="avg_npc_094",focus="m")]
 [name="绝望的感染者"]真羡慕你还有这样的闲力气。
 [name="绝望的感染者"]我走不动了。我们甚至都还没能走到北原的范围以内。
@@ -471,14 +471,14 @@
 [name="沉默的男孩"]从奥姆斯卡出发，我们才走了三个月。
 [name="沉默的男孩"]等我们抵达北原的矿场，应该已经是第二年的春天了。
 [charslot(slot="m",name="avg_npc_094",focus="m")]
-[name="绝望的感染者"]春天......哈哈！春天！
-[name="绝望的感染者"]你这小子，竟然说北原有春天......
+[name="绝望的感染者"]春天……哈哈！春天！
+[name="绝望的感染者"]你这小子，竟然说北原有春天……
 [charslot(slot="m",name="avg_npc_094",focus="none")]
 [name="沉默的男孩"]是的，春天。只要我们能够抵达。
 [charslot(slot="m",name="avg_npc_094",focus="m")]
 [name="绝望的感染者"]只是因为你母亲是个瞎子，头脑也不清楚，逃过了一劫。
 [name="绝望的感染者"]她不用吃这流放的苦楚，你也不用把她像个无名之人一样埋葬，你才能乐观得像个疯子一样。
-[name="绝望的感染者"]但是，凭什么......
+[name="绝望的感染者"]但是，凭什么……
 [name="绝望的感染者"]究竟凭什么？
 [name="绝望的感染者"]凭什么就算同样是被流放的罪犯，像你这样的家伙就能受到优待，不用眼睁睁看着亲人一点点失去呼吸，一点点变得冰凉？
 [name="绝望的感染者"]就因为我在变成感染者之前，只是个随处可见的搬运工吗？
@@ -488,10 +488,10 @@
 感染者低声呢喃着。他比任何人都想大声将这些话语喊出，却困于不远处那些押送者的残酷目光。
 少年摇了摇头，往感染者的方向走得更近了些。
 [charslot(slot="m",name="avg_npc_094",focus="none")]
-[name="沉默的少年"]......我享有优待，的确，而这甚至并非出自我自身的努力，实在惭愧。
+[name="沉默的少年"]……我享有优待，的确，而这甚至并非出自我自身的努力，实在惭愧。
 [name="沉默的少年"]但你提出的，也正是我想知道答案的问题。
 [charslot(slot="m",name="avg_npc_094",focus="m")]
-[name="绝望的感染者"]什么......？
+[name="绝望的感染者"]什么……？
 [charslot(slot="m",name="avg_npc_094",focus="none")]
 [name="沉默的少年"]为何有人生来优越，有人生来卑贱？究竟是什么使同为人类的存在彼此对立至此？要怎样做才能改变这样的现状？
 [name="沉默的少年"]我不知道。
@@ -506,7 +506,7 @@
 [name="沉默的少年"]您就当我是在说胡话吧。
 [name="沉默的少年"]我认为，像你们这样一无所有的人，其实才是这片大地真正的主人。
 [charslot(slot="m",name="avg_npc_094",focus="m")]
-[name="绝望的感染者"]......
+[name="绝望的感染者"]……
 [charslot(slot="m",name="avg_npc_094",focus="none")]
 [name="沉默的少年"]至于现在，请来我的背上吧，先生。至少我还有力气，还能背着您走一段路。
 [Dialog]
@@ -523,11 +523,11 @@
 [Blocker(a=0.3, r=0, g=0, b=0, fadetime=2, block=true)]
 [PlaySound(key="$d_avg_paper1",volume=1)]
 [delay(time=1.5)]
-[Subtitle(text="“......在伊比利亚，人们几乎从不将视线投向彼此，仿佛连眼神接触都是一种罪过，这样做便会背叛他们赖以维生的信条。", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“这种情形，我也曾在乌萨斯的矿区中见到，在莱塔尼亚的贫民窟里见到，在维多利亚的地下工厂内见到......", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“……在伊比利亚，人们几乎从不将视线投向彼此，仿佛连眼神接触都是一种罪过，这样做便会背叛他们赖以维生的信条。", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“这种情形，我也曾在乌萨斯的矿区中见到，在莱塔尼亚的贫民窟里见到，在维多利亚的地下工厂内见到……", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“起初，我猜想他们或许是畏惧在那些黝黑憔悴的面容上看到与自己心中相似的绝望，后来，我发现只是因为除了生存的紧迫，他们眼中已经容不下更多。", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“既然是这样，那又有谁能责怪他们沉默，责怪他们看不见身边的同伴和更远的未来，无法站到一起，去对加害者的阶层挥起拳来呢？”", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="......", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“大地茫远，我走遍了乌萨斯，又走向其他地方。一路上，我仍然在对那些失去一切，或从不曾真正拥有什么的人说：‘你是这片大地真正的主人。’", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“在一切都尚未得到改变的如今，这与嘲笑别无二致，可我仍必须这样做。因为唯有先将种子种下，他们才有可能意识到这句话的真实，并使之在胸中萌芽。", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“因为一无所有，意味着再无可失去。无可失去带来最决绝的勇敢，我们之中的每个人，都具有这样的品质。”", x=300, y=330, alignment="center", size=24, delay=0.04, width=700)]
@@ -541,7 +541,7 @@
 [name="利索的矿工"]头儿！
 [name="利索的矿工"]我们都收拾好了，随时可以启程。
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="none")]
-[name="若有所思的青年"]......唔。
+[name="若有所思的青年"]……唔。
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="m")]
 [name="利索的矿工"]头儿？
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="none")]
@@ -564,7 +564,7 @@
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="none")]
 [name="若有所思的青年"]也许，他眷恋的不是矿区，而是在这里生活的人们。
 [name="若有所思的青年"]我记得，当赦免政治犯的消息传到北原时，他的第一反应不是欣喜，而是担忧。
-[name="若有所思的青年"]担忧我们这些人无法同他一起离开，担忧自己的想法还没能得到验证......
+[name="若有所思的青年"]担忧我们这些人无法同他一起离开，担忧自己的想法还没能得到验证……
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="m")]
 [name="利索的矿工"]但最后他还是走了。
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="none")]
@@ -574,14 +574,14 @@
 [name="利索的矿工"]对了，我一直听他们这样叫你，也就跟着叫了。但我总想着，您得有个自己的别的名字，是不是？
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="none")]
 [name="若有所思的青年"]原来我没有告诉过你吗？
-[name="若有所思的青年"]嗯......图林。你可以叫我图林。
+[name="若有所思的青年"]嗯……图林。你可以叫我图林。
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="m")]
 [name="利索的矿工"]行啊，“图林”，这名字好听。来，我拉你起来。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_clothmovement",volume=1)]
 [Delay(time=1.5)]
-[name="图林"]谢谢......
+[name="图林"]谢谢……
 [name="图林"]嗯，我们还是快些动身吧。
 [name="图林"]趁雪还没下大，也趁那些坐在暖和房子里的大人物们还没改变主意。
 [Dialog]
@@ -599,10 +599,10 @@
 [delay(time=1)]
 [Blocker(a=0.3, r=0, g=0, b=0, fadetime=2, block=true)]
 [PlaySound(key="$d_avg_paper1",volume=1)]
-[Subtitle(text="“......据考证，闹事者在议会大厅中留下的、具有恶劣煽动性质的语句，皆出自雅科夫·彼得洛夫，一个在大叛乱中自食其果的战犯。", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“他于死刑囚牢中写下遗书......”", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“......卡托加区动乱始末：谁之过？怎么办？如何拯救这些一味反叛的年轻人？”", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="......", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“……据考证，闹事者在议会大厅中留下的、具有恶劣煽动性质的语句，皆出自雅科夫·彼得洛夫，一个在大叛乱中自食其果的战犯。", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“他于死刑囚牢中写下遗书……”", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“……卡托加区动乱始末：谁之过？怎么办？如何拯救这些一味反叛的年轻人？”", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“目前，议长已脱离生命危险，但刺杀事件凶手依旧在逃。", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“圣骏堡警察厅在此呼吁，请广大市民尽量减少在入夜后出门的频率，以免造成误解，给卫队的搜捕工作带来不便。”", x=300, y=300, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -611,11 +611,11 @@
 [Delay(time=2)]
 [name="严肃的军人"]（翻阅报纸）
 [charslot(slot="m",name="avg_npc_2169_1#1$1",focus="m")]
-[name="紧张的近侍"]......
+[name="紧张的近侍"]……
 [charslot(slot="m",name="avg_188_helage_1#1$1",focus="m")]
 [name="严肃的军人"]（合上报纸）
 [charslot(slot="m",name="avg_npc_2169_1#1$1",focus="m")]
-[name="紧张的近侍"]......！
+[name="紧张的近侍"]……！
 [charslot(slot="m",name="avg_188_helage_1#1$1",focus="m")]
 [name="严肃的军人"]您好，先生。请问可以给我一份日期更新些的报纸吗？
 [charslot(slot="m",name="avg_npc_2169_1#1$1",focus="m")]
@@ -632,7 +632,7 @@
 [charslot(slot="m",name="avg_npc_2169_1#1$1",focus="m")]
 [name="紧张的近侍"]瓦西里先生——将军阁下？
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
-[name="匆忙的贵族"]......在这里叫我副议长就好。感谢你的帮助，接下来这里由我负责。
+[name="匆忙的贵族"]……在这里叫我副议长就好。感谢你的帮助，接下来这里由我负责。
 [charslot(slot="m",name="avg_npc_2169_1#1$1",focus="m")]
 [name="紧张的近侍"]什么？这位先生——这位先生难道是您的客人？
 [name="紧张的近侍"]天、天哪，我可真该死！对不起，尊敬的先生，我刚才竟然对您说了那样的话——
@@ -650,19 +650,19 @@
 [PlaySound(key="$rungeneral",volume=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_188_helage_1#3$1",focus="m")]
-[name="严肃的军人"]......
+[name="严肃的军人"]……
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
-[name="匆忙的贵族"]......
+[name="匆忙的贵族"]……
 [charslot(slot="m",name="avg_188_helage_1#2$1",focus="m")]
 [name="严肃的军人"]“将军阁下”？
 [charslot(slot="m",name="avg_npc_2162_1#4$1",focus="m")]
-[name="匆忙的贵族"]可别用它来笑话我啦......我能不能当上将军，您还不清楚吗？
+[name="匆忙的贵族"]可别用它来笑话我啦……我能不能当上将军，您还不清楚吗？
 [charslot(slot="m",name="avg_188_helage_1#2$1",focus="m")]
 [name="严肃的军人"]你从前不是这样妄自菲薄的性格，瓦西里。
 [charslot(slot="m",name="avg_npc_2162_1#2$1",focus="m")]
 [name="瓦西里"]您从前也不像现在这样好说话呀，“长官”。
 [charslot(slot="m",name="avg_188_helage_1#1$1",focus="m")]
-[name="严肃的军人"]......现在站在你面前的，只有一个感染者，一介武夫，再没有近卫军的教官了。
+[name="严肃的军人"]……现在站在你面前的，只有一个感染者，一介武夫，再没有近卫军的教官了。
 [name="严肃的军人"]你应该还记得我的名字，叫我赫拉格吧。
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
 [name="瓦西里"]好吧，赫拉格先生。再次回到圣骏堡的感觉怎么样？虽然现在的确不是一个旅游的好时候。
@@ -691,7 +691,7 @@
 [charslot(slot="m",name="avg_188_helage_1#1$1",focus="m")]
 [name="赫拉格"]托付给我信任的人了。
 [charslot(slot="m",name="avg_npc_2162_1#3$1",focus="m")]
-[name="瓦西里"]信任的人吗......
+[name="瓦西里"]信任的人吗……
 [charslot(slot="m",name="avg_188_helage_1#1$1",focus="m")]
 [name="赫拉格"]我听说你也有一个女儿。
 [charslot(slot="m",name="avg_npc_2162_1#2$1",focus="m")]
@@ -704,7 +704,7 @@
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
 [name="瓦西里"]我知道，我还替议长签署了好些文件呢。
 [charslot(slot="m",name="avg_npc_2162_1#4$1",focus="m")]
-[name="瓦西里"]唉......就算我们对感染者的政策有所松动，现下关于感染者的矛盾依然尖锐。
+[name="瓦西里"]唉……就算我们对感染者的政策有所松动，现下关于感染者的矛盾依然尖锐。
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
 [name="瓦西里"]不过，关于您——我很乐意借此机会，在圣骏堡为您恢复名誉。
 [charslot(slot="m",name="avg_188_helage_1#1$1",focus="m")]
@@ -719,7 +719,7 @@
 [name="赫拉格"]“请转告维特议长，罗德岛的指定人员已应约前往圣骏堡。”
 [name="赫拉格"]算算时间，他们应该已经到办事处了。
 [charslot(slot="m",name="avg_npc_2162_1#1$1",focus="m")]
-[name="瓦西里"]啊......
+[name="瓦西里"]啊……
 [Dialog]
 [charslot]
 [PlaySound(key="$rungeneral",volume=1)]
@@ -746,9 +746,9 @@
 [charslot(slot="m",name="avg_npc_082",focus="m")]
 [name="慌张的士兵"]问题是，这武器没有使用源石，或者之前我们使用过的任何能源作为动力！
 [charslot(slot="m",name="avg_npc_2162_1#5$1",focus="m")]
-[name="瓦西里"]......你说什么？
+[name="瓦西里"]……你说什么？
 [charslot(slot="m",name="avg_188_helage_1#1$1",focus="m")]
-[name="赫拉格"]......
+[name="赫拉格"]……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

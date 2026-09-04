@@ -61,7 +61,7 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, afrom=0.4, rfrom=0, gfrom=0, bfrom=0, fadetime=1, block=true)]
 [charslot(slot="m",name="avg_npc_252")]
-[name="Sharp"]......落空了？
+[name="Sharp"]……落空了？
 [charslot]
 无人回应。
 [dialog]
@@ -70,7 +70,7 @@
 [playsound(key="$d_gen_walk_n",channel="2")]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_252")]
-[name="Sharp"]......Stormeye？
+[name="Sharp"]……Stormeye？
 [charslot]
 Sharp猛然回头，身后的餐厅出口不知何时变成了一堵源石滋生的金属墙壁。
 [dialog]
@@ -138,9 +138,9 @@ Pith沉默地盯着手中的通讯器，眉头越拧越紧。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [playsound(key="$transmission")]
-[name="残损的通讯装置"]“——滋......所有能够收到通讯......干员注意......”
-[name="残损的通讯装置"]“......不要相信......滋......通讯受阻......”
-[name="残损的通讯装置"]“滋......罗德岛......醒了......”
+[name="残损的通讯装置"]“——滋……所有能够收到通讯……干员注意……”
+[name="残损的通讯装置"]“……不要相信……滋……通讯受阻……”
+[name="残损的通讯装置"]“滋……罗德岛……醒了……”
 [dialog]
 [charslot]
 [Delay(time=1)]
@@ -178,7 +178,7 @@ Pith沉默地盯着手中的通讯器，眉头越拧越紧。
 阿斯卡纶的袖刃弹出，指向不远处一片浮动不定的阴影。
 重重叠叠的人影如鬼魅般浮现，从阴影中不断涌出。每一个脚步落下时，都伴随着结晶破碎的声响。
 [charslot(slot="m",name="avg_npc_235")]
-[name="Misery"]它们身上的衣服——整合运动？还有食腐者......真是再见到谁都不会奇怪了。
+[name="Misery"]它们身上的衣服——整合运动？还有食腐者……真是再见到谁都不会奇怪了。
 [charslot(slot="m",name="avg_4132_ascln_1#8$1")]
 [name="阿斯卡纶"]它们的身体完全由源石构成，不能用过去的经验来判断。
 [charslot(slot="m",name="avg_npc_235")]
@@ -186,12 +186,12 @@ Pith沉默地盯着手中的通讯器，眉头越拧越紧。
 [charslot(slot="m",name="avg_4132_ascln_1#1$1")]
 [name="阿斯卡纶"]不能一直被动留在原地，要先找到这些东西的来源。
 [charslot(slot="m",name="avg_npc_235")]
-[name="Misery"]我们暂时无法确定这些敌人的目的。博士那边的情况还不清楚，如果......
+[name="Misery"]我们暂时无法确定这些敌人的目的。博士那边的情况还不清楚，如果……
 [charslot(slot="m",name="avg_4132_ascln_1#1$1")]
 [name="阿斯卡纶"]博士那边有阿米娅在，无需担忧。
 [name="阿斯卡纶"]继续执行我们的任务——确定异变的根源。
 [charslot(slot="m",name="avg_4132_ascln_1#3$1")]
-[name="阿斯卡纶"]如果这就是凯尔希一直在戒备的状况，这些东西必然在遵循某个未知意志的指挥......
+[name="阿斯卡纶"]如果这就是凯尔希一直在戒备的状况，这些东西必然在遵循某个未知意志的指挥……
 [dialog]
 [charslot]
 [playsound(key="$transmission")]
@@ -199,7 +199,7 @@ Pith沉默地盯着手中的通讯器，眉头越拧越紧。
 [charslot(slot="m",name="avg_npc_235")]
 [name="Misery"]通讯也被隔离了，还是没法联系上其他人。
 [name="Misery"]不知道其他的精英干员——
-[name="Misery"]阿斯卡纶......
+[name="Misery"]阿斯卡纶……
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot = "m", focus = "n")]
 走过身旁的源石结晶时，Misery敏锐地从结晶的多个棱面中捕捉到了一个一晃而过的身影。
@@ -230,7 +230,7 @@ Pith沉默地盯着手中的通讯器，眉头越拧越紧。
 [charslot(slot = "m", focus = "n")]
 Stormeye靠在墙上，大口喘息了片刻，才匆忙处理起身上的伤口。
 [charslot(slot="m",name="avg_npc_167")]
-[name="Stormeye"]还好......不会影响战斗。
+[name="Stormeye"]还好……不会影响战斗。
 [dialog]
 [playsound(key="$transmission")]
 [Delay(time=2)]
@@ -242,15 +242,15 @@ Stormeye靠在墙上，大口喘息了片刻，才匆忙处理起身上的伤口
 [charslot(slot = "m", focus = "n")]
 [name="通讯中的声音"]（杂乱的噪音）
 [charslot(slot="m",name="avg_npc_167")]
-[name="Stormeye"]......该死——
+[name="Stormeye"]……该死——
 [charslot(slot = "m", focus = "n")]
-[name="通讯中的声音"]滋——Stor......Stormeye——警惕——滋——
+[name="通讯中的声音"]滋——Stor……Stormeye——警惕——滋——
 [charslot(slot="m",name="avg_npc_167")]
 [name="Stormeye"]Sharp？！同步位置！
 [charslot(slot = "m", focus = "n")]
 [name="通讯中的声音"]滋——接敌——Whitesmith——住手——
 [charslot(slot="m",name="avg_npc_167")]
-[name="Stormeye"]......？等我。
+[name="Stormeye"]……？等我。
 [dialog]
 [playsound(key="$rungeneral")]
 [charslot(slot = "m",posfrom = "0,0", posto = "350,0",duration = 1,afrom=1,ato=0)]
@@ -260,7 +260,7 @@ Stormeye靠在墙上，大口喘息了片刻，才匆忙处理起身上的伤口
 [playsound(key="$d_avg_productdu_attack")]
 [charslot(slot = "l",posfrom = "-200,0", posto = "0,0",duration = 1,name="avg_npc_1726_1#2$1")]
 [Delay(time=1.5)]
-[name="源石侵蚀的机械"]......援助......
+[name="源石侵蚀的机械"]……援助……
 [charslot]
 更多失控的机械造物从走廊两侧涌了出来，它们眼中的光芒按照相同的频率闪烁。
 它们简陋的发声单元似乎突破了设计的限制，一遍遍重复着求救的呼喊。
@@ -287,8 +287,8 @@ Stormeye射出的箭矢精准地摧毁了两台失控机械的核心，接着他
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot(slot="m",name="avg_npc_167")]
-[name="Stormeye"]至少......三十个。
-[name="Stormeye"]前面的岔路口......
+[name="Stormeye"]至少……三十个。
+[name="Stormeye"]前面的岔路口……
 [charslot(slot = "m", focus = "n")]
 两条几乎一模一样的走廊在Stormeye眼前不断延伸。
 罗德岛内部的道路已陷入无序的变化，谁也不知道这刚刚出现的走廊分别通向怎样的命运。
@@ -354,7 +354,7 @@ Stormeye射出的箭矢精准地摧毁了两台失控机械的核心，接着他
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [name="凯尔希"]这是她遗留的馈赠，当时的她还不知道，这是从“神明”那里盗取的火种。
-[name="凯尔希"]......我们都要去挑战那些更高的存在，才能夺来一线生机。
+[name="凯尔希"]……我们都要去挑战那些更高的存在，才能夺来一线生机。
 [name="Mon3tr"]（紧张的低鸣）
 [name="凯尔希"]如果发生了什么意外，Mon3tr，接下来需要你自行判断行动策略。
 [Dialog]
@@ -378,17 +378,17 @@ Stormeye射出的箭矢精准地摧毁了两台失控机械的核心，接着他
 [PlaySound(key="$d_avg_signlntrfrnc", volume=1)]
 [Delay(time=1.5)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[Subtitle(text="“Raidian......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“Raidian……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot="m",name="avg_npc_1730_1#4$1")]
 [name="Raidian"]这个信号特征——？！PRTS？
 [charslot(slot="m",name="avg_npc_1730_1#3$1")]
-[name="Raidian"]是可露希尔吗？怎么可能......终端上明明依旧显示断线。
+[name="Raidian"]是可露希尔吗？怎么可能……终端上明明依旧显示断线。
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="“追踪我......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“追踪我……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
@@ -396,7 +396,7 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [name="Raidian"]凯尔希医生？！
 [name="Raidian"]怎么会，你的状态——无论你怎么做到的，你必须——
 [charslot(slot="m",name="avg_npc_1730_1#5$1")]
-[name="Raidian"]......不，你已经不能停下了。
+[name="Raidian"]……不，你已经不能停下了。
 [name="Raidian"]谢谢你，凯尔希医生。
 [name="Raidian"]我知道接下来该做什么了。
 [Dialog]
@@ -419,7 +419,7 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [playMusic(intro="$rebel_intro",key="$rebel_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_095",duration=0.5)]
 [Delay(time=1)]
-[name="Pith"]......凯尔希？谢谢。
+[name="Pith"]……凯尔希？谢谢。
 [name="Pith"]所有尚能战斗的罗德岛干员们，我是Pith。向我汇报你们目前的情况。
 [charslot(slot = "m", focus = "n")]
 [playsound(key="$transmission")]
@@ -437,7 +437,7 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [Delay(time=1)]
 [charslot(slot="m",name="avg_171_bldsk_1#10$1",duration=0.5)]
 [Delay(time=1)]
-[name="华法琳"]凯尔希......你又干了什么？
+[name="华法琳"]凯尔希……你又干了什么？
 [charslot(slot="m",name="avg_npc_243")]
 [name="克洛伊"]华法琳医生，小心！
 [charslot(slot="m",name="avg_171_bldsk_1#5$1")]
@@ -445,7 +445,7 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [charslot(slot="m",name="avg_171_bldsk_1#5$1")]
 [name="华法琳"]不过按照刚刚Raidian同步的资料，这些家伙是杀不死的。
 [charslot(slot="m",name="avg_npc_243")]
-[name="克洛伊"]“杀”......华法琳医生，它们......还算得上有生命吗？
+[name="克洛伊"]“杀”……华法琳医生，它们……还算得上有生命吗？
 [name="克洛伊"]Touch医生和凯尔希医生是不是也遇到了这些怪物？
 [charslot(slot="m",name="avg_171_bldsk_1#5$1")]
 [name="华法琳"]保护好你自己，我们没你想的那么脆弱——
@@ -504,7 +504,7 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [charslot(slot = "right", name = "avg_npc_1727_1#1$1",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "left",focus="l")]
-[name="克洛伊"]......
+[name="克洛伊"]……
 [charslot]
 [charslot(slot="m",name="avg_171_bldsk_1#3$1")]
 [name="华法琳"]——？！
@@ -518,26 +518,26 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [charslot]
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
 [charslot(slot = "right", name = "avg_npc_1727_1#1$1",focus="l")]
-[name="克洛伊"]可、可我能听到他在......哀嚎？那些痛苦的声音，就像刻在我的脑子里一样......
-[name="克洛伊"]我们、我们很像......很像......
+[name="克洛伊"]可、可我能听到他在……哀嚎？那些痛苦的声音，就像刻在我的脑子里一样……
+[name="克洛伊"]我们、我们很像……很像……
 [dialog]
 [charslot(slot = "l",posfrom = "0,0", posto = "100,0",duration = 1)]
 [delay(time=2)]
 [charslot(slot = "m", focus = "n")]
 克洛伊握住了源石结晶体的手，眼神中却满是悲伤。
 [charslot(slot = "left", name = "avg_npc_243",focus="l")]
-[name="克洛伊"]为什么......你们反倒不会伤害我......
-[name="克洛伊"]......同类？
+[name="克洛伊"]为什么……你们反倒不会伤害我……
+[name="克洛伊"]……同类？
 [charslot]
 [charslot(slot="m",name="avg_171_bldsk_1#10$1")]
-[name="华法琳"]......是因为你的感染？从你身上发现的那些以前我们从未见过的病征......源石在改变。
+[name="华法琳"]……是因为你的感染？从你身上发现的那些以前我们从未见过的病征……源石在改变。
 [name="华法琳"]——所以你的矿石病病理进程才超出了我们的预计！
 [charslot]
 [charslot(slot = "l", name = "avg_npc_243",posfrom = "100,0", posto = "100,0")]
 [charslot(slot = "right", name = "avg_npc_1727_1#1$1",focus="l")]
-[name="克洛伊"]......华法琳医生，是不是这意味着我能帮你们找到对付它们的方法？
+[name="克洛伊"]……华法琳医生，是不是这意味着我能帮你们找到对付它们的方法？
 [name="克洛伊"]我想试试，我想帮你们。
-[name="克洛伊"]我不希望你失望，也不想Touch医生和凯尔希医生受伤......
+[name="克洛伊"]我不希望你失望，也不想Touch医生和凯尔希医生受伤……
 [dialog]
 [charslot(slot = "right",focus="all")]
 [PlaySound(key="$d_avg_blodmgic_2", volume=1)]
@@ -592,7 +592,7 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [name="Stormeye"]幸好有凯尔希医生和Raidian重建了通讯，否则难说还会遇到什么。
 [name="Stormeye"]你在通讯里提到了Whitesmith？
 [charslot(slot="m",name="avg_npc_252")]
-[name="Sharp"]......
+[name="Sharp"]……
 [name="Sharp"]前一秒她还远远地招呼我到她的炉火前喝酒跳舞，但下一秒她就消失不见，只留下了一堆被源石污染的机械从锻炉里爬出来攻击我。
 [charslot(slot="m",name="avg_npc_167")]
 [name="Stormeye"]幻觉？
@@ -605,7 +605,7 @@ Raidian跟随那微弱的信号，却定位到了完全出乎意料的人。
 [dialog]
 [PlaySound(key="$d_avg_tinnitus", volume=1,channel="2")]
 [charslot(slot="m",name="avg_npc_167")]
-[name="Stormeye"]......？
+[name="Stormeye"]……？
 [charslot(slot = "m", focus = "n")]
 Stormeye眯起眼睛，他明明看见Sharp在开口说话，但他的耳中却听不到一点动静。
 一切都安静了下来。渐渐地，连自己的心跳声都听不到了。
@@ -619,11 +619,11 @@ Stormeye眯起眼睛，他明明看见Sharp在开口说话，但他的耳中却�
 [subtitle]
 [bgeffect]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
-他看到了一些熟悉的身影，他们也曾情同手足......
+他看到了一些熟悉的身影，他们也曾情同手足……
 [charslot(slot="m",name="avg_npc_167")]
 [name="Stormeye"]——？！
 [charslot(slot = "m", focus = "n")]
-他与曾经共同流浪的兄弟重逢了。可明明......他们早已死去了。
+他与曾经共同流浪的兄弟重逢了。可明明……他们早已死去了。
 [dialog]
 [bgeffect(name="$eb_tvnoise",layer=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -638,7 +638,7 @@ Stormeye眯起眼睛，他明明看见Sharp在开口说话，但他的耳中却�
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Subtitle(text="“是啊，石头已经长到我的喉咙上了，但只要它没长到舌头上，就不影响我喝酒。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“难道你真想跟着那群人走？呵，那你去吧，要是你死在了那个叫罗德岛的地方，我不会为你流泪的。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“但......你走之前，在这营火边再坐一会儿吧。月亮快要升起来了，不想看看吗？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“但……你走之前，在这营火边再坐一会儿吧。月亮快要升起来了，不想看看吗？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [bgeffect]
 他曾无比渴望能和这些好兄弟们有一个平静的告别，但Stormeye此刻只感受到了愤怒。
@@ -658,7 +658,7 @@ Stormeye眯起眼睛，他明明看见Sharp在开口说话，但他的耳中却�
 [bgeffect]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [charslot(slot="m",name="avg_4132_ascln_1#6$1")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [dialog]
 [bgeffect(name="$eb_tvnoise",layer=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -682,11 +682,11 @@ Misery及时推醒了阿斯卡纶，才让她躲过了一团爆裂开的源石�
 [bgeffect]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot="m",name="avg_npc_235")]
-[name="Misery"]......
+[name="Misery"]……
 [charslot]
 环境中的源石突兀地生长，而那些来历不明的结晶敌人也出现得越来越频繁，还有这些让他们不得不分心的“幻影”——
 周围发生的一切，都意味着这片区域正在竭尽一切将他们驱逐出去。
-“我已经定位了Abyss的大致所在”，阿斯卡纶想要将这个消息告诉Raidian......
+“我已经定位了Abyss的大致所在”，阿斯卡纶想要将这个消息告诉Raidian……
 但源石吞噬了所有人的声音。
 这死一般的寂静，是一个巨大的谜，一座铅铸的坟墓，要将罗德岛拖入无可逃避的深渊—— 
 [Dialog]
@@ -727,7 +727,7 @@ Mantra的声音在罗德岛全舰每个干员的脑中响起，这是她的源�
 [name="阿米娅"]煌和迷迭香已经回应了他们，增援不会拖延太久。
 [charslot(slot="m",name="avg_1037_amiya3_1#1$2")]
 [name="阿米娅"]博士，我也很担心凯尔希医生。
-[name="阿米娅"]根据Raidian的情报，凯尔希医生目前的状况不容乐观......
+[name="阿米娅"]根据Raidian的情报，凯尔希医生目前的状况不容乐观……
 [Dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="以阿斯卡纶和Misery所在位置为集结点重整队伍。", values="1")]

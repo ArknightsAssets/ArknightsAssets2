@@ -49,9 +49,9 @@
 [name="塔妮父亲"]麦迪森，亲爱的，别着急。再有二十分钟比赛就结束了。
 [name="塔妮父亲"]远程通讯确实坏了，但今天可是我们主场球队——大涌泉铁脚队的比赛，要不是因为塔妮过生日，我就直接去镇郊现场观赛了。
 [charslot(slot = "m", name = "avg_npc_2360_1#2$1")]
-[name="塔妮母亲"]你还好意思说......
+[name="塔妮母亲"]你还好意思说……
 [charslot(slot = "m", name = "avg_npc_2359_1#1$1")]
-[name="塔妮父亲"]而且塔妮也支持铁脚队，要是今天他们进了决赛，我就把这个好消息当作礼物送给塔妮，如果他们输了......
+[name="塔妮父亲"]而且塔妮也支持铁脚队，要是今天他们进了决赛，我就把这个好消息当作礼物送给塔妮，如果他们输了……
 [charslot(slot = "m", name = "avg_npc_2360_1#1$1")]
 [name="塔妮母亲"]输了你就先想怎么让塔妮别跺脚吧。忘了她“珊比”这个名字是怎么来的了？
 [charslot(slot = "m", name = "avg_npc_2359_1#1$1")]
@@ -88,7 +88,7 @@
 [charslot]
 [PlaySound(key="$d_avg_knockdoorfast", volume=1)]
 [Delay(time=1.5)]
-[name="塔妮父亲"]呃......是不是应该有人给塔妮开门？
+[name="塔妮父亲"]呃……是不是应该有人给塔妮开门？
 [name="塔妮母亲"]算了，不躲了，一开门我们就拉礼花！三、二、一——！
 [dialog]
 [PlaySound(key="$d_avg_open_door",volume=1)]
@@ -127,10 +127,10 @@
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_1015_aglna2_1#1$2")]
-[name="安洁莉娜"]叔叔阿姨你们——呃，哥哥......姐姐？你们好，我是安洁莉娜......
+[name="安洁莉娜"]叔叔阿姨你们——呃，哥哥……姐姐？你们好，我是安洁莉娜……
 [charslot(slot = "m", name = "avg_4235_thumpy_1#16$1")]
 [name="塔妮"]别看爸爸妈妈长得这么年轻，其实也已经快要到四十岁啦。
-[name="塔妮"]据说奶奶四十岁的时候长得也很年轻，可能这就是我家的遗传之类的，我看起来也不像是十八岁......
+[name="塔妮"]据说奶奶四十岁的时候长得也很年轻，可能这就是我家的遗传之类的，我看起来也不像是十八岁……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_1015_aglna2_1#1$2")]
@@ -166,19 +166,19 @@
 [charslot(slot="l",name="avg_1015_aglna2_1#1$2",posfrom="50,0",posto="50,0",duration=1)]
 [delay(time=1)]
 [charslot(slot="l",name="avg_1015_aglna2_1#6$2",posfrom="50,0",posto="50,0",focus="l")]
-[name="安洁莉娜"]怪不得这场生日晚会这么隆重......真好啊，塔妮。有这么多人祝福你的出发，我真替你高兴。
+[name="安洁莉娜"]怪不得这场生日晚会这么隆重……真好啊，塔妮。有这么多人祝福你的出发，我真替你高兴。
 [charslot(slot = "m", name = "avg_4235_thumpy_1#1$1",focus="m")]
 [name="塔妮"]是啊，这个十八岁生日，我真——的真的等了好长时间！
 [name="塔妮"]之前我还没跟你讲过吧，其实我十四岁的时候就开始问爸爸妈妈，我能不能离开大涌泉镇去探险了。
 [playMusic(key="$saferoom_loop",volume=0.6)]
 [charslot(slot="l",name="avg_1015_aglna2_1#7$2",focus="l")]
-[name="安洁莉娜"]十四岁......不管怎么说还是有点太早了吧？
+[name="安洁莉娜"]十四岁……不管怎么说还是有点太早了吧？
 [charslot(slot = "m", name = "avg_4235_thumpy_1#5$1",focus="m")]
 [name="塔妮"]爸爸妈妈也这么说。雷姆必拓的荒地太危险了，至少也得等到十六岁。
-[name="塔妮"]但......十六岁生日前夕，我感染了矿石病。幸运的是感染程度非常轻，急性发作期都很短。
+[name="塔妮"]但……十六岁生日前夕，我感染了矿石病。幸运的是感染程度非常轻，急性发作期都很短。
 [charslot(slot = "m", name = "avg_4235_thumpy_1#4$1",focus="m")]
 [name="塔妮"]在病情稳定之后，我又问了一次能不能出去。爸爸妈妈说，离开大涌泉镇，就很难找到感染者能生活得这么自在的地方了。
-[name="塔妮"]但我还是想出去，想像奶奶一样成为一个伟大的探路者。爸爸妈妈答应了，说等到我十八岁的时候，一定让我启程......
+[name="塔妮"]但我还是想出去，想像奶奶一样成为一个伟大的探路者。爸爸妈妈答应了，说等到我十八岁的时候，一定让我启程……
 [charslot(slot = "m", name = "avg_4235_thumpy_1#6$1",focus="m")]
 [name="塔妮"]所以我今天才会有这么一场盛大的生日晚会！爸爸妈妈，还有所有愿意来为我送行的亲戚们，谢谢你们！
 [dialog]
@@ -188,15 +188,15 @@
 [backgroundTween(xFrom=-20, xTo=-40, duration=0.8, block=false)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#1$1",posfrom="-250,0",posto="-180,0",afrom=1,ato=1,duration=0.8)]
 [delay(time=0.8)]
-[name="塔妮"]让我先来拆礼物吧......谢谢法尔舅舅、法特姨妈，还有法德斯特姑妈送的礼物！
+[name="塔妮"]让我先来拆礼物吧……谢谢法尔舅舅、法特姨妈，还有法德斯特姑妈送的礼物！
 [name="塔妮"]好大的箱子啊，里面是什么？便携式防牙兽帐篷，还是二十四小时野外报警系统？
 [dialog]
 [charslot(slot = "r", name = "avg_npc_2355_1#1$1", posfrom="50,0",posto="0,0",duration=0.8)]
 [delay(time=0.5)]
 [charslot(slot = "r",focus="r")]
-[name="法尔"]呃，我们送的是按摩摇摇椅！之前想的是你老长时间坐在室内，它能让你工作的时候舒服不少......
+[name="法尔"]呃，我们送的是按摩摇摇椅！之前想的是你老长时间坐在室内，它能让你工作的时候舒服不少……
 [charslot(slot = "m", name = "avg_4235_thumpy_1#2$1",focus="m")]
-[name="塔妮"]呃......虽然之后我就不会在室内一直待着了，但还是谢谢你们！
+[name="塔妮"]呃……虽然之后我就不会在室内一直待着了，但还是谢谢你们！
 [dialog]
 [charslot(slot = "r", name = "avg_npc_2355_1#1$1", posfrom="0,0",posto="-50,0",afrom=1,ato=0,duration=0.8)]
 [delay(time=0.5)]
@@ -211,7 +211,7 @@
 [charslot(slot = "r", focus="r")]
 [name="霍普"]是“泰拉巡礼”三十种润喉糖礼盒，因为你一直得说话嘛，所以就想送你点实用的东西。
 [charslot(slot = "m", name = "avg_4235_thumpy_1#18$1",focus="m")]
-[name="塔妮"]......还是谢谢你们，到了野外之后说不定也要扯着嗓子吆喝呢！
+[name="塔妮"]……还是谢谢你们，到了野外之后说不定也要扯着嗓子吆喝呢！
 [dialog]
 [charslot(slot = "r", name = "avg_npc_2356_1#1$1", posfrom="60,0",posto="20,0",afrom=1,ato=0,duration=0.8)]
 [delay(time=0.5)]
@@ -222,18 +222,18 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2359_1#4$1", focus="all")]
 [charslot(slot = "r", name = "avg_npc_2360_1#4$1", focus="all")]
-[name="塔妮父母"]小珊比，我们......
+[name="塔妮父母"]小珊比，我们……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#9$1")]
 [name="塔妮"]爸爸妈妈，你们其实不用给我准备礼物的，在家里为我忙前忙后准备生日会已经很辛苦了。
-[name="塔妮"]马上要启程了，想到之后会有很长一段时间见不到你们，我其实还是有点......
+[name="塔妮"]马上要启程了，想到之后会有很长一段时间见不到你们，我其实还是有点……
 [charslot(slot = "m", name = "avg_4235_thumpy_1#4$1")]
 [multiline(name="塔妮")]不该在这个时候哭的！
 [charslot(slot = "m", name = "avg_4235_thumpy_1#16$1")]
-[multiline(name="塔妮")]这个包装袋的形状难道是......新款耳机？太好了！有了这个在野外赶路的时候也不无聊——
+[multiline(name="塔妮")]这个包装袋的形状难道是……新款耳机？太好了！有了这个在野外赶路的时候也不无聊——
 [charslot(slot = "m", name = "avg_4235_thumpy_1#13$1")]
-[name="塔妮"]欸？怎么耳机上还连了个接线用的交换器......
+[name="塔妮"]欸？怎么耳机上还连了个接线用的交换器……
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2359_1#1$1",focus="l")]
@@ -242,7 +242,7 @@
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#13$1")]
-[name="塔妮"]但我想要的可不是在接线室用的那种啊......？
+[name="塔妮"]但我想要的可不是在接线室用的那种啊……？
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2359_1#1$1",focus="r")]
@@ -251,16 +251,16 @@
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#14$1")]
-[name="塔妮"]不对吧？为什么你们看上去像完全不知道我要离开大涌泉镇一样？这可是两年前你们就答应我的事啊，难道只有我......
-[name="塔妮"]只有我一个人记得吗......？
+[name="塔妮"]不对吧？为什么你们看上去像完全不知道我要离开大涌泉镇一样？这可是两年前你们就答应我的事啊，难道只有我……
+[name="塔妮"]只有我一个人记得吗……？
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2359_1#4$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_2360_1#1$1",focus="l")]
-[name="塔妮父亲"]唉，小珊比，我们没有忘记这件事，只是......只是你现在做镇里的接线员做得好好的，没必要跑出门受苦啊。
+[name="塔妮父亲"]唉，小珊比，我们没有忘记这件事，只是……只是你现在做镇里的接线员做得好好的，没必要跑出门受苦啊。
 [charslot(slot = "r", name = "avg_npc_2360_1#2$1",focus="r")]
 [name="塔妮母亲"]是呀，做探路者可不是开玩笑，你得有充足的野外经验，还要懂得人情世故，我们才能放心让你上路。
-[name="塔妮母亲"]还有那些你整天念叨的探险故事，奶奶她老人家大概也没想到你会照单全收......
+[name="塔妮母亲"]还有那些你整天念叨的探险故事，奶奶她老人家大概也没想到你会照单全收……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#10$1")]
@@ -273,8 +273,8 @@
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#11$1")]
-[name="塔妮"]妈妈，你......你其实是这么想的？
-[name="塔妮"]爸爸......你呢？
+[name="塔妮"]妈妈，你……你其实是这么想的？
+[name="塔妮"]爸爸……你呢？
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2359_1#1$1",focus="l")]
@@ -288,15 +288,15 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2359_1#4$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_2360_1#4$1",focus="l")]
-[name="塔妮父亲"]我......我答应了！只要再等两年，等你到了二十岁，我跟妈妈就让你一个人去探险，好吗？
+[name="塔妮父亲"]我……我答应了！只要再等两年，等你到了二十岁，我跟妈妈就让你一个人去探险，好吗？
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#14$1")]
-[name="塔妮"]......
-[name="塔妮"]你们......原来是这么想的......
+[name="塔妮"]……
+[name="塔妮"]你们……原来是这么想的……
 [charslot(slot = "m", name = "avg_4235_thumpy_1#9$1")]
 [name="塔妮"]你们不相信奶奶以前的辉煌事迹，也不相信我能成为独立的探路者。
-[name="塔妮"]你们认为我想要离开大涌泉镇是一拍脑袋的决定，认为奶奶给我讲的故事只是为了逗我开心......
+[name="塔妮"]你们认为我想要离开大涌泉镇是一拍脑袋的决定，认为奶奶给我讲的故事只是为了逗我开心……
 [dialog]
 [charslot]
 没人点头，也没人摇头。
@@ -336,24 +336,24 @@
 [charslot(slot = "m", name = "avg_npc_2360_1#4$1")]
 [name="塔妮母亲"]而我们家塔妮没有力气，也没有源石技艺天赋。
 [name="塔妮母亲"]她从小到大一直嚷嚷着要出去闯闯，离家出走的次数不下三十次——但她总是走到镇门口就被吓回来了。
-[name="塔妮母亲"]上一次是遇到了觅食的牙兽群，再上一次是把邻居晒在荒地上的萝卜串当成了鬼影......她天生更适合待在镇里做个接线员呀！
+[name="塔妮母亲"]上一次是遇到了觅食的牙兽群，再上一次是把邻居晒在荒地上的萝卜串当成了鬼影……她天生更适合待在镇里做个接线员呀！
 [charslot(slot="m",name="avg_1015_aglna2_1#9$2",posfrom="50,0",posto="50,0")]
-[name="安洁莉娜"]可塔妮看上去很伤心......
+[name="安洁莉娜"]可塔妮看上去很伤心……
 [charslot(slot = "m", name = "avg_npc_2360_1#4$1",posfrom="0,0",posto="0,0")]
-[name="塔妮母亲"]......
-[name="塔妮母亲"]唉，这孩子要是看到我们全家人去找她，只会因为抹不开面子躲得更久，但我确实担心她的身体状况......
+[name="塔妮母亲"]……
+[name="塔妮母亲"]唉，这孩子要是看到我们全家人去找她，只会因为抹不开面子躲得更久，但我确实担心她的身体状况……
 [charslot(slot="m",name="avg_1015_aglna2_1#2$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]塔妮妈妈，我是从罗德岛来的。罗德岛是一家医疗公司，我也懂一些矿石病的医疗知识。
-[name="安洁莉娜"]如果全家出动会适得其反的话......？
+[name="安洁莉娜"]如果全家出动会适得其反的话……？
 [charslot(slot = "m", name = "avg_npc_2360_1#2$1",posfrom="0,0",posto="0,0")]
 [name="塔妮母亲"]那就拜托你了。
-[name="塔妮母亲"]我知道塔妮选朋友的眼光一直很不错。如果有你在，我们最起码不会那么担心......
+[name="塔妮母亲"]我知道塔妮选朋友的眼光一直很不错。如果有你在，我们最起码不会那么担心……
 [charslot(slot="m",name="avg_1015_aglna2_1#2$2",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]就算您和叔叔不拜托我，我也会去的，请放心吧。
 [charslot(slot="m",name="avg_1015_aglna2_1#17$2",posfrom="50,0",posto="50,0")]
-[name="安洁莉娜"]......还有，虽然也许我不该说这种话，但两年、两年，之后再等两年......未免太奇怪了。我其实很能理解塔妮。
+[name="安洁莉娜"]……还有，虽然也许我不该说这种话，但两年、两年，之后再等两年……未免太奇怪了。我其实很能理解塔妮。
 [charslot(slot="m", name = "avg_npc_2359_1#4$1",posfrom="0,0",posto="0,0")]
-[name="塔妮父亲"]唉......
+[name="塔妮父亲"]唉……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_walkfast")]
@@ -373,8 +373,8 @@
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_4235_thumpy_1#14$4",duration=1)]
 [delay(time=1)]
-[name="塔妮"]呼、呼......
-[name="塔妮"]我、我再也不要在这里待下去了！不就是一个人出去吗，我......我做得到！
+[name="塔妮"]呼、呼……
+[name="塔妮"]我、我再也不要在这里待下去了！不就是一个人出去吗，我……我做得到！
 [Dialog]
 [charslot(slot = "m",focus="n")]
 [PlaySound(key="$d_avg_carpassby")]
@@ -385,7 +385,7 @@
 [bgeffect(fade =true,fadetime=5,block=false)]
 [name="随车狂飙而去的哭喊"]呜哇！完蛋了完蛋了完蛋了！
 [name="随车狂飙而去的哭喊"]我明明只是想修好它，怎么电路板会出问题！
-[name="随车狂飙而去的哭喊"]呜呜呜......说不定故障已经影响到镇子内部的通讯了。不能再待下去了，还是先去下一个通讯塔站点吧......
+[name="随车狂飙而去的哭喊"]呜呜呜……说不定故障已经影响到镇子内部的通讯了。不能再待下去了，还是先去下一个通讯塔站点吧……
 [hidecgitem(image="cgitem_76_i16_2")]
 [Dialog]
 [charslot(slot="m",name="avg_4235_thumpy_1#14$4",focus="m")]
@@ -394,7 +394,7 @@
 [charslot(slot = "m", action="shake", power=5, times=30,isblock=true,duration=0.2)]
 [name="塔妮"]（吸溜鼻子）
 [charslot(slot="m",name="avg_4235_thumpy_1#12$4",focus="m")]
-[name="塔妮"]果然这个镇子，就是叫人待不下去......
+[name="塔妮"]果然这个镇子，就是叫人待不下去……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -417,18 +417,18 @@
 [name="伊娜拉"]没关系，你看，两只手牢牢抓住上面的树干，脚再使劲一蹬——你就能上来了！
 [Dialog]
 [charslot]
-[name="小塔妮"]太、太高了......
+[name="小塔妮"]太、太高了……
 [charslot(slot="m",name="avg_npc_2346_1#1$1")]
 [name="伊娜拉"]那你是为什么不和其他人一起玩，要拉着奶奶跑到这里？
 [Dialog]
 [charslot]
-[name="小塔妮"]......因为......因为他们说我个头小，耳朵也小，像个小玩偶......爬树和游泳都太危险了，小玩偶不能做......可我也想这么玩！
+[name="小塔妮"]……因为……因为他们说我个头小，耳朵也小，像个小玩偶……爬树和游泳都太危险了，小玩偶不能做……可我也想这么玩！
 [name="小塔妮"]我不想就当一个小玩偶！我想当探路者，像奶奶这样的探路者，我要做一个能翻山越岭的厉害的人！
 [charslot(slot="m",name="avg_npc_2346_1#1$1")]
 [name="伊娜拉"]那，奶奶的小珊比觉得，厉害的人会怎么做呢？
 [Dialog]
 [charslot]
-[name="小塔妮"]嗯，会坚持下去爬上来——我也能爬上来......嘿！
+[name="小塔妮"]嗯，会坚持下去爬上来——我也能爬上来……嘿！
 [Dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_headknock", volume=1)]
@@ -450,16 +450,16 @@
 [Delay(time=1)]
 [playMusic(key="$minos_lyresolo_loop", volume=0.6)]
 那里有一颗淡粉色的星星，一闪一闪。
-[name="小塔妮"]淡粉色的星星，好像我哦......那这颗是我的星星！
+[name="小塔妮"]淡粉色的星星，好像我哦……那这颗是我的星星！
 [name="小塔妮"]奶奶，你的星星是哪一颗？
 [name="伊娜拉"]奶奶的星星？
-[name="伊娜拉"]让我看看......奶奶的星星在前面。
+[name="伊娜拉"]让我看看……奶奶的星星在前面。
 伊娜拉指了指更高更远的一颗星星。
 [name="小塔妮"]为什么隔得那么远？
 [name="伊娜拉"]不远的，小珊比的星星现在是跟在奶奶的星星后面，但很快，很快就能追上啦。
-[name="伊娜拉"]小珊比也会成为和奶奶一样的人，去很多很远的地方，不会有人再说你只是一个小玩偶......
+[name="伊娜拉"]小珊比也会成为和奶奶一样的人，去很多很远的地方，不会有人再说你只是一个小玩偶……
 [name="伊娜拉"]你是奶奶最厉害的孙女，一定也能飞得这么高，这么远。
-[name="小塔妮"]嗯......
+[name="小塔妮"]嗯……
 [Dialog]
 [CameraEffect(effect="Grayscale", fadetime=4, keep=true, initamount=0, amount=1, block=false)]
 [delay(time=3)]
@@ -474,11 +474,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4235_thumpy_1#5$4")]
-[name="塔妮"]像奶奶一样飞得又高又远......
-[name="塔妮"]当初奶奶为了给聚落的人找一个安乐的家，放弃去无人涉足的南境探险。一切尘埃落定之后，奶奶想重新踏上旅程，又被家人阻拦......
+[name="塔妮"]像奶奶一样飞得又高又远……
+[name="塔妮"]当初奶奶为了给聚落的人找一个安乐的家，放弃去无人涉足的南境探险。一切尘埃落定之后，奶奶想重新踏上旅程，又被家人阻拦……
 [charslot(slot="m",name="avg_4235_thumpy_1#10$4")]
-[name="塔妮"]我的选择是对的......如果听家里人的话，不管是奶奶还是我，都不会踏上去南境的旅程了。
-[name="塔妮"]哪怕他们发现这次我不再像以前那样逃回家之后，会着急、会生气，我也......我也不会在乎的！
+[name="塔妮"]我的选择是对的……如果听家里人的话，不管是奶奶还是我，都不会踏上去南境的旅程了。
+[name="塔妮"]哪怕他们发现这次我不再像以前那样逃回家之后，会着急、会生气，我也……我也不会在乎的！
 [charslot(slot="m",name="avg_4235_thumpy_1#12$4")]
 [name="塔妮"]我要去南境，我要踏出自己的第一步！
 [Dialog]
@@ -534,7 +534,7 @@
 [Delay(time=1)]
 [charslot(slot = "l", name = "avg_npc_1185_1#1$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_1186_1#1$1",focus="l")]
-[name="奇怪的年轻人B"]......啊！
+[name="奇怪的年轻人B"]……啊！
 [Dialog]
 [charslot(slot = "r",focus="all")]
 [charslot(slot = "l", action="shake", power=5, times=60,isblock=true,duration=0.2)]
@@ -551,7 +551,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4235_thumpy_1#7$4")]
-[name="塔妮"]难道那两个吸辣瓶树粉的不良青年真的加入了什么危险的团伙......
+[name="塔妮"]难道那两个吸辣瓶树粉的不良青年真的加入了什么危险的团伙……
 [charslot(slot="m",name="avg_4235_thumpy_1#14$4")]
 [name="塔妮"]怎、怎么办，我真的只是想去南境而已啊！！！
 [Dialog]
@@ -559,7 +559,7 @@
 [cgitem(image="cgitem_68_i17", style="cg",pfrom = "0,0",pto = "0,0", ato=0.5, aduration=0.1, pduration = 0.1, layer = 4)]
 [PlaySound(key="$d_avg_hvycarbrake", volume=1)] 
 [charslot(slot="m",name="avg_4235_thumpy_1#10$4")]
-[name="塔妮"]唔......好刺眼......
+[name="塔妮"]唔……好刺眼……
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_020")]

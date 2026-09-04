@@ -45,7 +45,7 @@
 [Character(name="avg_npc_564_1#1$1")]
 [name="耶奇·地心"]去吧，阿芙朵嘉，我看得出来，这也会是你作为地上人，在我们这里生活了这么久的一次总结。
 [Character(name="avg_4055_bgsnow_1#10$1")]
-[name="阿芙朵嘉"]......谢谢，那我去了。
+[name="阿芙朵嘉"]……谢谢，那我去了。
 [Dialog]
 [playsound(key="$d_gen_walk_n",volume=0.7)]
 [Character(fadetime=0.5)]
@@ -92,9 +92,9 @@
 [name="阿芙朵嘉"]但唯有这一部分，我从来没有对任何人说过。
 [name="阿芙朵嘉"]今天，我想分享给大家。
 [Character(name="avg_4055_bgsnow_1#2$1")]
-[name="阿芙朵嘉"]......
+[name="阿芙朵嘉"]……
 [Character(name="avg_4055_bgsnow_1#1$1")]
-[name="阿芙朵嘉"]我出生在一个乌萨斯的贵族家庭......
+[name="阿芙朵嘉"]我出生在一个乌萨斯的贵族家庭……
 [Image(image="30_i07", xScale=1.1, yScale=1.1, fadetime=1)]
 [ImageTween(xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=0.9, yScaleTo=0.9,xTo=0, yTo=0, duration=30, block=false)]
 阿芙朵嘉本以为自己会不知道该说些什么。
@@ -131,7 +131,7 @@
 敲门声在这时响起。
 [name="嘉维尔"]喂，斯第奇，你在里面吧？
 [Character(name="avg_4054_malist_1#4$1")]
-[name="斯第奇·画布"]......
+[name="斯第奇·画布"]……
 [Character]
 [name="嘉维尔"]别装了，我知道你在里面。
 [Character(name="avg_4054_malist_1#6$1")]
@@ -163,7 +163,7 @@
 她看到，斯第奇双手抱着自己的头坐在桌边，从她的角度，无法看清表情。
 他的手边，是空白的稿纸。
 而他的脚边，则是只画了几笔的稿纸，不是被撕碎了，就是被揉成了一团。
-[name="嘉维尔"]这些是......穹顶的设计图啊。
+[name="嘉维尔"]这些是……穹顶的设计图啊。
 [name="嘉维尔"]你其实也是想要做的吧？
 [name="斯第奇·画布"]嘉维尔，为什么你不能放过我？
 [name="嘉维尔"]要我说的话，与其说是我不放过你，不如说——
@@ -178,7 +178,7 @@
 [characteraction(name="left", type="move", xpos=200, fadetime=1.5,block=true)]
 [Delay(time=2)]
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#5$1",focus=2)]
-[name="斯第奇·画布"]你根本什么都不懂......
+[name="斯第奇·画布"]你根本什么都不懂……
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#5$1",focus=1)]
 [name="嘉维尔"]我知道啊，所以我也没打算强行把你带回去嘛。
 [name="嘉维尔"]既然我不懂，那我搞懂不就行了？
@@ -187,17 +187,17 @@
 [Character(name="avg_1026_gvial2_1#7$1",name2="avg_4054_malist_1#6$1",focus=1)]
 [name="嘉维尔"]不砸穿的话，你连说都不愿意说吧。
 [Character(name="avg_1026_gvial2_1#7$1",name2="avg_4054_malist_1#10$1",focus=2)]
-[name="斯第奇·画布"]你分明是在威胁我......
+[name="斯第奇·画布"]你分明是在威胁我……
 [Character(name="avg_1026_gvial2_1#10$1",name2="avg_4054_malist_1#10$1",focus=1)]
 [name="嘉维尔"]我很讲道理的啊，如果你能说服我的话，说不定我还会帮你一把呢。
 [Character(name="avg_1026_gvial2_1#10$1",name2="avg_4054_malist_1#5$1",focus=2)]
-[name="斯第奇·画布"]......
+[name="斯第奇·画布"]……
 [Character(name="avg_1026_gvial2_1#9$1",name2="avg_4054_malist_1#5$1",focus=1)]
 [name="嘉维尔"]我在路上想通了一件事。
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#5$1",focus=1)]
 [name="嘉维尔"]你从一开始，就在抗拒修穹顶的事，对吧？
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#5$1",focus=2)]
-[name="斯第奇·画布"]......
+[name="斯第奇·画布"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -206,7 +206,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Character(name="avg_npc_564_1#1$1",name2="avg_npc_566_1#1$1",focus=2)]
-[name="克罗绮·砖石"]地面上的生活还真是蛮丰富多彩的，以前都没听阿芙朵嘉提起过......对吧，耶奇大师？
+[name="克罗绮·砖石"]地面上的生活还真是蛮丰富多彩的，以前都没听阿芙朵嘉提起过……对吧，耶奇大师？
 [Character(name="avg_npc_564_1#5$1",name2="avg_npc_566_1#1$1",focus=1)]
 [name="耶奇·地心"]啊？嗯？
 [Character(name="avg_npc_564_1#5$1",name2="avg_npc_566_1#1$1",focus=2)]
@@ -216,7 +216,7 @@
 [Character(name="avg_npc_564_1#9$1",name2="avg_npc_566_1#4$1",focus=2)]
 [name="克罗绮·砖石"]斯第奇？那边不是有嘉维尔和卡奇去找他吗，应该不会有事吧。
 [Character(name="avg_npc_564_1#1$1",name2="avg_npc_566_1#4$1",focus=1)]
-[name="耶奇·地心"]不是有不有事的问题，而是......
+[name="耶奇·地心"]不是有不有事的问题，而是……
 [Character(name="avg_npc_564_1#6$1",name2="avg_npc_566_1#4$1",focus=1)]
 [name="耶奇·地心"]看到他今天的样子，我忽然回过神来，或许，我之前逼他逼得有点太紧了，而我自己没有发现。
 [Character(name="avg_npc_564_1#6$1",name2="avg_npc_566_1#7$1",focus=2)]
@@ -260,7 +260,7 @@
 [Character(name="avg_1026_gvial2_1#6$1",name2="avg_4054_malist_1#5$1",focus=1)]
 [name="嘉维尔"]老师？任务？可我听卡奇说，你的老师不是失踪了吗？
 [Character(name="avg_1026_gvial2_1#6$1",name2="avg_4054_malist_1#2$1",focus=2)]
-[name="斯第奇·画布"]老师......并不是突然失踪的。
+[name="斯第奇·画布"]老师……并不是突然失踪的。
 [Character(name="avg_1026_gvial2_1#6$1",name2="avg_4054_malist_1#1$1",focus=2)]
 [name="斯第奇·画布"]他虽然没有告诉其他人，但他给我留下了一个课题。
 [name="斯第奇·画布"]我必须用我的穹顶设计说服所有人，将际崖城的穹顶变成我的设计。
@@ -273,7 +273,7 @@
 [name="斯第奇·画布"]不，我的姓是后来改的。
 [name="斯第奇·画布"]八年前，我侥幸在一场活性源石矿脉的爆发中幸存下来，是老师将无家可归的我带在了身边。
 [Character(name="avg_1026_gvial2_1#7$1",name2="avg_4054_malist_1#1$1",focus=1)]
-[name="嘉维尔"]所以你的矿石病......
+[name="嘉维尔"]所以你的矿石病……
 [Character(name="avg_1026_gvial2_1#7$1",name2="avg_4054_malist_1#1$1",focus=2)]
 [name="斯第奇·画布"]对，就是那时候，我感染了矿石病。
 [Character(name="avg_1026_gvial2_1#7$1",name2="avg_4054_malist_1#5$1",focus=2)]
@@ -296,12 +296,12 @@
 [Character(name="avg_1026_gvial2_1#5$1",name2="avg_4054_malist_1#6$1",focus=1)]
 [name="嘉维尔"]物性是啥啊？
 [Character(name="avg_1026_gvial2_1#5$1",name2="avg_4054_malist_1#7$1",focus=2)]
-[name="斯第奇·画布"]......唉。物性，就是一件事物的本来面貌，我们反对一切不必要的功能性，希望将事物保持在其原有的样貌之上。
+[name="斯第奇·画布"]……唉。物性，就是一件事物的本来面貌，我们反对一切不必要的功能性，希望将事物保持在其原有的样貌之上。
 [name="斯第奇·画布"]这是对于我们欲望生活的反叛。
 [Character(name="avg_1026_gvial2_1#10$1",name2="avg_4054_malist_1#7$1",focus=1)]
 [name="嘉维尔"]啊，嗯，也就是你房间那种和外面不一样的，很简单的设计吗？
 [Character(name="avg_1026_gvial2_1#10$1",name2="avg_4054_malist_1#5$1",focus=2)]
-[name="斯第奇·画布"]......
+[name="斯第奇·画布"]……
 [name="斯第奇·画布"]不，我和老师的风格并不完全相同。
 [Character(name="avg_1026_gvial2_1#10$1",name2="avg_4054_malist_1#1$1",focus=2)]
 [name="斯第奇·画布"]我的风格脱胎于老师，却又和老师背道而驰。
@@ -316,7 +316,7 @@
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#6$1",focus=1)]
 [name="嘉维尔"]但是，既然你这么想，为什么你不把握住这最后一次机会呢？
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#2$1",focus=2)]
-[name="斯第奇·画布"]......你以为我不想吗？
+[name="斯第奇·画布"]……你以为我不想吗？
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#3$1",focus=2)]
 [name="斯第奇·画布"]你看到这边的这些设计图了吗！
 [name="斯第奇·画布"]它们就是我这些年失败的证明！
@@ -333,7 +333,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="斯第奇·画布"]更何况，你告诉我。在这么短的时间里，我要怎么样才能想出一个新的而且能被通过的方案？！
 [Character(name="avg_1026_gvial2_1#7$1",name2="avg_4054_malist_1#3$1",focus=1)]
-[name="嘉维尔"]......
+[name="嘉维尔"]……
 [Character(name="avg_1026_gvial2_1#7$1",name2="avg_4054_malist_1#5$1",focus=2)]
 [name="斯第奇·画布"]所以，我是不会跟你走的，嘉维尔。
 [name="斯第奇·画布"]我已经是一个失败者了。
@@ -350,7 +350,7 @@
 [StopMusic(fadetime=2)]
 [name="嘉维尔"]但是，这些想法，你应该亲自解释给其他人听。
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#6$1",focus=2)]
-[name="斯第奇·画布"]啧......
+[name="斯第奇·画布"]啧……
 [Dialog]
 [Character(name="avg_1026_gvial2_1#1$1",name2="avg_4054_malist_1#6$1")]
 [characteraction(name="right", type="move", xpos=-100, fadetime=1, block=true)]

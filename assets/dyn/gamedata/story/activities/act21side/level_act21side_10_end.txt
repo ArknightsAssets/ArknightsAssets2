@@ -38,9 +38,9 @@
 [Character(name="avg_npc_688_1#1$1")]
 [name="扎罗"]而他，竟敢以自尽来葬送我的胜利！！
 [Character(name="avg_427_vigil_1#4$1")]
-[name="莱昂图索"]你......说什么？
+[name="莱昂图索"]你……说什么？
 [Character(name="avg_427_vigil_1#5$1")]
-[name="莱昂图索"]父亲......他自尽了？
+[name="莱昂图索"]父亲……他自尽了？
 [character]
 [dialog]
 莱昂图索的脑中瞬间闪过父亲对狼之主以及这场游戏的解释。
@@ -57,7 +57,7 @@
 [Character(name="avg_npc_688_1#1$1")]
 [name="扎罗"]这份代价，就是他的血脉，你的性命！！！
 [Character(name="avg_427_vigil_1#1$1")]
-[name="莱昂图索"]......
+[name="莱昂图索"]……
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]代价？
 [Character(name="avg_427_vigil_1#4$1")]
@@ -77,7 +77,7 @@
 [Character(name="avg_npc_688_1#1$1")]
 [name="扎罗"]我在他短暂的一生中，对他倾囊相授，换来的却是他的背叛！
 [Character(name="avg_427_vigil_1#6$1")]
-[name="莱昂图索"]......你不会明白的。
+[name="莱昂图索"]……你不会明白的。
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]高高在上，自以为掌控一切的狼之主。
 [Character(name="avg_427_vigil_1#1$1")]
@@ -142,7 +142,7 @@
 [playsound(key="$e_skill_skulsrsword",volume=0.7)]
 [Delay(time=2)]
 [Character(name="avg_4065_judge_1#12$1")]
-[name="拉维妮娅"]......贝纳尔多，自尽了？
+[name="拉维妮娅"]……贝纳尔多，自尽了？
 [Dialog]
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -161,11 +161,11 @@
 [CameraEffect(effect="Grayscale", fadetime=0, keep=true, initamount=0, amount=0)]
 [Blocker(a=0, fadetime=1, block=true)]
 [Character(name="avg_4065_judge_1#6$1")]
-[name="拉维妮娅"]所以，这就是你那句话真正的含义......
+[name="拉维妮娅"]所以，这就是你那句话真正的含义……
 [Character(name="avg_4065_judge_1#6$1")]
 [name="拉维妮娅"]一个没有家族的叙拉古，这就是你真正的理想。
 [Character(name="avg_4065_judge_1#6$1")]
-[name="拉维妮娅"]为什么，不告诉我呢......
+[name="拉维妮娅"]为什么，不告诉我呢……
 [Dialog]
 [Delay(time=1)]
 [Character]
@@ -209,9 +209,9 @@
 [name="扎罗"]狂妄！
 [Dialog]
 [Character(name="avg_npc_690_1#6$1")]
-[name="德米特里"]首领......你也是吗，如果你站在我的面前，你也会像莱昂这样，决绝地告诉我，你会选择你的理想吗？
+[name="德米特里"]首领……你也是吗，如果你站在我的面前，你也会像莱昂这样，决绝地告诉我，你会选择你的理想吗？
 [Character(name="avg_npc_690_1#6$1")]
-[name="德米特里"]可是......我已经不知道答案了。
+[name="德米特里"]可是……我已经不知道答案了。
 [Dialog]
 [Character]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
@@ -286,7 +286,7 @@
 [playMusic(intro="$emperor_intro",key="$emperor_loop", volume=0.6)]
 [name="大帝"]我必须提醒你，德克萨斯，你的假期快要结束了。
 [Character(name="avg_1028_texas2_1#3$1")]
-[name="德克萨斯"]......你怎么也来了。
+[name="德克萨斯"]……你怎么也来了。
 [Character(name="char_105_emper")]
 [name="大帝"]你问我？
 [Character(name="char_105_emper")]
@@ -298,7 +298,7 @@
 [Character(name="char_105_emper")]
 [name="大帝"]根本没人跟我开派对！
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Character(name="avg_npc_688_1#1$1")]
 [name="扎罗"]大帝——
 [Character(name="char_105_emper")]
@@ -402,7 +402,7 @@
 [Character(name="avg_npc_691_1#1$1")]
 [name="西西里夫人"]你可以放心，他未来也不会再打扰你。
 [Character(name="avg_427_vigil_1#5$1")]
-[name="莱昂图索"]......！
+[name="莱昂图索"]……！
 [character]
 [dialog]
 [stopmusic(fadetime=5)]
@@ -426,7 +426,7 @@
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]即使我们的命运最终是死亡，我也想在死前，让您听一听我们的想法。
 [Character(name="avg_npc_691_1#1$1")]
-[name="西西里夫人"]......
+[name="西西里夫人"]……
 [Character(name="avg_npc_691_1#1$1")]
 [name="西西里夫人"]呵呵。
 [Character(name="avg_npc_691_1#1$1")]
@@ -436,7 +436,7 @@
 [Character(name="avg_npc_691_1#1$1")]
 [name="西西里夫人"]跟我来吧，孩子们，你们已经为自己赢得了这个机会。
 [Character(name="avg_4065_judge_1#8$1")]
-[name="拉维妮娅"]......可以等我一下吗？
+[name="拉维妮娅"]……可以等我一下吗？
 [Character(name="avg_npc_691_1#1$1")]
 [name="西西里夫人"]嗯？
 [Character(name="avg_4065_judge_1#6$1")]
@@ -460,7 +460,7 @@
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]没事没事！
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......嗯。
+[name="德克萨斯"]……嗯。
 [Character(name="avg_1028_texas2_1#1$1")]
 [name="德克萨斯"]你们怎么来了？
 [Character(name="char_101_sora_1#4")]
@@ -470,7 +470,7 @@
 [Character(name="avg_1028_texas2_1#1$1")]
 [name="德克萨斯"]算是吧。
 [Character(name="avg_103_angel_1#4$1")]
-[name="能天使"]呼......虽然感觉好像还差点什么，不过，我们总算可以举办派对了吧？
+[name="能天使"]呼……虽然感觉好像还差点什么，不过，我们总算可以举办派对了吧？
 [Character(name="avg_1028_texas2_1#9$1")]
 [name="德克萨斯"]是啊。
 [Character(name="avg_1028_texas2_1#10$1")]
@@ -521,7 +521,7 @@
 [Character(name="avg_npc_683_1#1$1")]
 [name="拉普兰德"]真没意思。西西里夫人在上面邀请我成为巨狼之口的一员。
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]巨狼之口......
+[name="德克萨斯"]巨狼之口……
 [Character(name="avg_npc_683_1#9$1")]
 [name="拉普兰德"]无非是让我成为她圈养的狼罢了。
 [Character(name="avg_npc_683_1#9$1")]
@@ -533,7 +533,7 @@
 [Character(name="avg_npc_683_1#9$1")]
 [name="拉普兰德"]你知道当我发现你已经走了的时候，有多惊讶吗？
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]唉......
+[name="德克萨斯"]唉……
 [Character(name="avg_npc_683_1#1$1")]
 [name="拉普兰德"]所以你已经决定了？
 [Character(name="avg_1028_texas2_1#8$1")]
@@ -549,9 +549,9 @@
 [Character(name="avg_npc_683_1#3$1")]
 [name="拉普兰德"]只是去和父亲道了个别而已。
 [Character(name="avg_npc_683_1#9$1")]
-[name="拉普兰德"]......德克萨斯，你是不是其实不知道，我究竟在你身上追求着什么？
+[name="拉普兰德"]……德克萨斯，你是不是其实不知道，我究竟在你身上追求着什么？
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......我有时候以为自己知道。
+[name="德克萨斯"]……我有时候以为自己知道。
 [Character(name="avg_1028_texas2_1#1$1")]
 [name="德克萨斯"]但有时候又觉得，我并不知道。
 [Character(name="avg_1028_texas2_1#1$1")]
@@ -681,7 +681,7 @@
 [name="德克萨斯"]所以，你才与你的父亲道了别，而且，站在了我的面前。
 [name="德克萨斯"]你想要和你的过去做个了结。
 [name="拉普兰德"]是啊，就和你一样。
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [name="德克萨斯"]我们本不必互相厮杀。
 [name="拉普兰德"]但这一切就是发生了。
 [name="拉普兰德"]时至今日，我们不约而同地明白，将对方杀死，是对自己的总结。
@@ -709,7 +709,7 @@
 [playsound(key="$e_skill_skulsrsword")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="德克萨斯"]唔......
+[name="德克萨斯"]唔……
 [Character(name="avg_npc_683_1#1$1")]
 [name="拉普兰德"]结束了。
 [Dialog]
@@ -720,7 +720,7 @@
 [Character(name="char_101_sora_1#3")]
 [name="空"]德克萨斯！
 [Character(name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......别过来。
+[name="德克萨斯"]……别过来。
 [dialog]
 [character]
 德克萨斯看了空一眼，旋即缓缓闭上了眼。
@@ -733,7 +733,7 @@
 然而，这一刻，当她看到德克萨斯眼中的不舍时，她又一次发现，自己错了。
 在最后的最后，在名为拉普兰德的存在为自己设计的终局之中，德克萨斯又一次出乎了她的意料。
 [Character(name="avg_npc_683_1#3$1")]
-[name="拉普兰德"]......哈，原来如此。
+[name="拉普兰德"]……哈，原来如此。
 [dialog]
 [character]
 拉普兰德将这场厮杀视作一种诀别，一种解放。
@@ -782,7 +782,7 @@
 直到拉维妮娅走进教堂，看到那具静静坐在长椅上的尸体时，她才终于相信——
 贝纳尔多死了。
 [Character(name="avg_4065_judge_1#6$1")]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [dialog]
 [character]
 她坐在这个亦严父亦长兄，影响了她一生的人身边，沉默良久。
@@ -809,7 +809,7 @@
 [Character(name="avg_npc_691_1#1$1")]
 [name="西西里夫人"]叙拉古当真存在这个需求吗，叙拉古，真的需要改变吗？
 [Character(name="avg_427_vigil_1#7$1")]
-[name="莱昂图索"]您......认为家族是理所应当存在的吗？
+[name="莱昂图索"]您……认为家族是理所应当存在的吗？
 [Character(name="avg_npc_691_1#1$1")]
 [name="西西里夫人"]没有理所应当的存在，只是，它在我出生以前，就已经在这片土地上存在了千百年。
 [Character(name="avg_npc_691_1#1$1")]
@@ -841,11 +841,11 @@
 [Character(name="avg_npc_691_1#5$1")]
 [name="西西里夫人"]那么，你又打算怎么做？
 [Character(name="avg_427_vigil_1#1$1")]
-[name="莱昂图索"]......最简单的方法，恐怕是在这里与您决一生死吧。
+[name="莱昂图索"]……最简单的方法，恐怕是在这里与您决一生死吧。
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]但是，这是我父亲会做的选择。
 [Character(name="avg_427_vigil_1#1$1")]
-[name="莱昂图索"]而我......
+[name="莱昂图索"]而我……
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]我想向您借一座城市。
 [Character(name="avg_npc_691_1#5$1")]
@@ -877,15 +877,15 @@
 [Character(name="avg_npc_691_1#1$1",name2="avg_1028_texas2_1#1$1",fadetime=1)]
 [Delay(time=1)]
 [Character(name="avg_npc_691_1#1$1",name2="avg_1028_texas2_1#1$1",focus=1)]
-[name="西西里夫人"]......你和你爷爷长得很像。
+[name="西西里夫人"]……你和你爷爷长得很像。
 [Character(name="avg_npc_691_1#1$1",name2="avg_1028_texas2_1#1$1",focus=2)]
-[name="德克萨斯"]......谢谢。
+[name="德克萨斯"]……谢谢。
 [Character(name="avg_npc_691_1#1$1",name2="avg_1028_texas2_1#1$1",focus=1)]
 [name="西西里夫人"]看来，乔万娜将我给她的项链转交给了你。
 [name="西西里夫人"]你有什么愿望？
 [name="西西里夫人"]如果你想回到龙门，我可以答应你，叙拉古将不会再打扰你的生活。
 [Character(name="avg_npc_691_1#1$1",name2="avg_1028_texas2_1#1$1",focus=2)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [name="德克萨斯"]我希望，你能放过罗塞蒂家族。
 [Character(name="avg_npc_691_1#1$1",name2="avg_1028_texas2_1#1$1",focus=1)]
 [name="西西里夫人"]哦？这倒是出乎了我的预料。
@@ -897,7 +897,7 @@
 [name="西西里夫人"]我原本就不打算对他们出手，所以，你可以留着这串项链。
 [name="西西里夫人"]或者，你可以用来交换，永远离开叙拉古的权利。
 [Character(name="avg_npc_691_1#1$1",name2="avg_1028_texas2_1#1$1",focus=2)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [dialog]
 [character]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
@@ -969,7 +969,7 @@
 [Character(name="avg_npc_691_1#1$1")]
 [name="西西里夫人"]如果我真的将叙拉古交给你，你能保证，叙拉古一定能够走上更好的道路，成为一个更好的国家吗？
 [Character(name="avg_427_vigil_1#1$1")]
-[name="莱昂图索"]......我不能保证。
+[name="莱昂图索"]……我不能保证。
 [Character(name="avg_427_vigil_1#1$1")]
 [name="莱昂图索"]但正如您今天愿意坐在这里听我的想法一样。
 [Character(name="avg_427_vigil_1#1$1")]
@@ -993,20 +993,20 @@
 [Character(name="avg_103_angel_1#1$1")]
 [name="能天使"]你看，我就跟你说嘛，里面又没传来打打杀杀的声音，他们不会有事的啦。
 [Character(name="char_101_sora_1#4")]
-[name="空"]也只有你会这么心大了，那可是这个国家的领导者欸......
+[name="空"]也只有你会这么心大了，那可是这个国家的领导者欸……
 [Character(name="avg_1028_texas2_1#1$1")]
 [name="德克萨斯"]抱歉，各位，让你们担心了。
 [Character(name="char_101_sora_1#4")]
 [name="空"]没事的。
 [Character(name="char_101_sora_1#4")]
-[name="空"]咦，拉普兰德......呢？
+[name="空"]咦，拉普兰德……呢？
 [Character(name="avg_1028_texas2_1#8$1")]
-[name="德克萨斯"]她......
+[name="德克萨斯"]她……
 [dialog]
 [character]
 德克萨斯将视线投向某个方向。
 [Character(name="avg_1028_texas2_1#8$1")]
-[name="德克萨斯"]她已经完成了身为朋友的使命，谁知道她下一次，又会以什么样的面貌出现在我们面前呢......
+[name="德克萨斯"]她已经完成了身为朋友的使命，谁知道她下一次，又会以什么样的面貌出现在我们面前呢……
 [Character(name="avg_1028_texas2_1#2$1")]
 [name="德克萨斯"]我唯一能肯定的是——
 [Character(name="avg_1028_texas2_1#1$1")]
@@ -1035,9 +1035,9 @@
 这份剧本送给我亲爱的老朋友，切利尼娜。
 以及新朋友，企鹅物流。
 [Character(name="char_101_sora_1#4")]
-[name="空"]这是《德克萨斯之死》第三幕里，乔万娜小姐一直都没有灵感的情节......
+[name="空"]这是《德克萨斯之死》第三幕里，乔万娜小姐一直都没有灵感的情节……
 [Character(name="char_101_sora_1#4")]
-[name="空"]乔万娜小姐，这就是你留给我们的东西吗......
+[name="空"]乔万娜小姐，这就是你留给我们的东西吗……
 [Character(name="char_101_sora_1#4")]
 [name="空"]明明，你不用离开的。
 [Dialog]

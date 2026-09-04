@@ -20,7 +20,7 @@
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_028#2")]
-[name="甘比诺"]   哈啊，哈啊......
+[name="甘比诺"]   哈啊，哈啊……
 [Character(name="avg_npc_027#4")]
 [name="卡彭"]   再来啊，企鹅物流！
 [Character(name="avg_npc_027#4",name2="char_103_angel_1#7",focus=2)]
@@ -57,7 +57,7 @@
 [Character(name="char_103_angel_1#5")]
 [name="能天使"]   这么勉强部下可不好哦，有医疗补贴吗？
 [Character(name="char_102_texas_1#4")]
-[name="德克萨斯"]   ......有点混乱，但总之把穿黑衣服的全部打趴下就行了吧？
+[name="德克萨斯"]   ……有点混乱，但总之把穿黑衣服的全部打趴下就行了吧？
 [Dialog]
 [Character]
 [Blocker(a=1, r=1, g=1, b=1, afrom=0, rfrom=0, gfrom=0, bfrom=0, fadetime=0.1, block=true)]
@@ -80,7 +80,7 @@
 [Character(name="char_213_mostma_1#3",name2="char_325_bison_1#2",focus=1)]
 [name="莫斯提马"]   但是看你们还挺有活力的。
 [Character(name="char_213_mostma_1#3",name2="char_102_texas_1",focus=2)]
-[name="德克萨斯"]   ......你什么时候来的？
+[name="德克萨斯"]   ……你什么时候来的？
 [Character(name="char_213_mostma_1#2",name2="char_102_texas_1",focus=1)]
 [name="莫斯提马"]   老板喊我来的嘛。
 [Dialog]
@@ -113,9 +113,9 @@
 [name="黑帮A"]   她把首领给挡住了！？
 [name="黑帮B"]   不对！那是法杖！首领小心！她是个术师！
 [Character(name="avg_npc_027#4")]
-[name="卡彭"]   ......看来没有和她正面作战是正确的选择......喂，先不要靠近他们！
+[name="卡彭"]   ……看来没有和她正面作战是正确的选择……喂，先不要靠近他们！
 [Character(name="avg_npc_028#2")]
-[name="甘比诺"]   ......我从没见过你这样的萨科塔，不，你是萨卡兹？你到底是什么？
+[name="甘比诺"]   ……我从没见过你这样的萨科塔，不，你是萨卡兹？你到底是什么？
 [Character(name="avg_npc_028#2",name2="char_213_mostma_1#3",focus=2)]
 [name="莫斯提马"]   普通的信使啊，不然呢？
 [Character(name="avg_npc_028#3",name2="char_213_mostma_1#3",focus=1)]
@@ -137,7 +137,7 @@
 [Character(name="avg_npc_028#2")]
 [name="甘比诺"]   该死——
 [Character(name="avg_npc_028#2",name2="char_213_mostma_1#2",focus=2)]
-[name="莫斯提马"]   中场休息一下......你们大概是不会听的吧。
+[name="莫斯提马"]   中场休息一下……你们大概是不会听的吧。
 [Character(name="avg_npc_028#3",name2="char_213_mostma_1#2",focus=1)]
 [name="甘比诺"]   你在小看我！？
 [dialog]
@@ -182,7 +182,7 @@
 [PlaySound(key="$p_atk_smg_h")]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=0.3, xstrength=5, ystrength=8, vibrato=30, randomness=60, block=false)]
-[name="能天使"]   ......差不多四年零三个月哦，莫斯提马。
+[name="能天使"]   ……差不多四年零三个月哦，莫斯提马。
 [Character(name="char_213_mostma_1#3",name2="char_103_angel_1#7",focus=1)]
 [name="莫斯提马"]   嗯，那还真是好久不见。
 [Character(name="char_213_mostma_1#3",name2="char_103_angel_1#6",focus=2)]
@@ -198,7 +198,7 @@
 [Character(name="char_102_texas_1",name2="char_213_mostma_1#2",focus=2)]
 [name="莫斯提马"]   只是适当运动一下。
 [Character(name="char_102_texas_1",name2="char_213_mostma_1#2",focus=1)]
-[name="德克萨斯"]   ......那好吧，记得手下留情。
+[name="德克萨斯"]   ……那好吧，记得手下留情。
 [Character(name="char_102_texas_1",name2="char_213_mostma_1#3",focus=2)]
 [name="莫斯提马"]   没问题。
 [name="莫斯提马"]   而且，还有另一位客人在等着我呢。
@@ -236,7 +236,7 @@
 [Character(name="avg_npc_028#2",name2="char_213_mostma_1#2",focus=2)]
 [name="莫斯提马"]   怎么了？不继续了吗？
 [Character(name="avg_npc_028#2",name2="char_213_mostma_1#2",focus=1)]
-[name="甘比诺"]   ......也许你的确有些实力，但我发誓不会让你轻松离开。
+[name="甘比诺"]   ……也许你的确有些实力，但我发誓不会让你轻松离开。
 [Character(name="avg_npc_028#2",name2="char_213_mostma_1#2",focus=2)]
 [name="莫斯提马"]   别总是这么杀气腾腾的，就当是饭后运动吧——唔。
 [dialog]
@@ -245,7 +245,7 @@
 [Character(name="avg_npc_031")]
 [name="黑帮"]   怎、怎么了，刚才这些火焰是不是凝固了？
 [Character(name="char_213_mostma_1#4")]
-[name="莫斯提马"]   ......看来伊斯正好路过这附近，还是速战速决吧。
+[name="莫斯提马"]   ……看来伊斯正好路过这附近，还是速战速决吧。
 [Character(name="avg_npc_028#3",name2="char_213_mostma_1#4",focus=1)]
 [name="甘比诺"]   你在自言自语些什么？面对我！
 [PlaySound(key="$e_skill_skulsrsword", volume=0.9)]
@@ -266,7 +266,7 @@
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
 [name="黑帮"]   别去帮倒忙了，我们去对付企鹅物流就行！
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......我们好像被小看了，让他们见识见识吧。
+[name="德克萨斯"]   ……我们好像被小看了，让他们见识见识吧。
 [Character(name="char_201_moeshd")]
 [name="可颂"]   得令！嘿——！
 [Dialog]
@@ -275,8 +275,8 @@
 [Delay(time=0.4)]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [Character(name="char_325_bison_1")]
-[name="拜松"]   这就是信使，莫斯提马......
-[name="拜松"]   信使......外面的信使都是这样的吗？
+[name="拜松"]   这就是信使，莫斯提马……
+[name="拜松"]   信使……外面的信使都是这样的吗？
 [Dialog]
 [stopmusic(fadetime=1)]
 [delay(time=1)]
@@ -335,7 +335,7 @@
 [name="拜松"]   莫斯提马小姐！
 [Character(name="char_325_bison_1#4",name2="char_213_mostma_1",focus=2)]
 [name="莫斯提马"]   遮住风沙，跟着我走就好。
-[name="莫斯提马"]   ......话说回来，这么近距离感受一番，的确是一位不该随便招惹的老先生呢。
+[name="莫斯提马"]   ……话说回来，这么近距离感受一番，的确是一位不该随便招惹的老先生呢。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -349,10 +349,10 @@
 [Character(name="avg_npc_028#2")]
 [name="甘比诺"]   其他人呢！卡彭呢！？
 [Character(name="avg_npc_028#2",name2="avg_npc_031",focus=2)]
-[name="黑帮A"]   趁着沙尘暴离开了，有一些我们的人混在他们的队伍里......
+[name="黑帮A"]   趁着沙尘暴离开了，有一些我们的人混在他们的队伍里……
 [name="黑帮B"]   首领！这里也要塌了！
 [Character(name="avg_npc_028#2",name2="avg_npc_031",focus=1)]
-[name="甘比诺"]   ......走，我们还有机会。
+[name="甘比诺"]   ……走，我们还有机会。
 [PlaySound(key="$e_skill_driftsand", volume=0.9)]
 [PlaySound(key="$e_skill_driftsand", volume=0.9)]
 [CameraShake(duration=2, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
@@ -366,9 +366,9 @@
 [playsound(key="$d_gen_walk_n")]
 [Character(name="avg_npc_034#3",fadetime=2,block=true)]
 [Delay(time=2)]
-[name="鼠王"]   机会，机会......啊......
+[name="鼠王"]   机会，机会……啊……
 [Character(name="avg_npc_034#7")]
-[name="鼠王"]   奇怪......我怎么不记得，你们剩下什么机会？
+[name="鼠王"]   奇怪……我怎么不记得，你们剩下什么机会？
 [Delay(time=0.6)]
 [Dialog]
 [Blocker(fadetime=2,block=true)]

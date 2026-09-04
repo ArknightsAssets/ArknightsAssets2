@@ -11,9 +11,9 @@
 [character(name="avg_npc_198_1",name2="avg_npc_203_1#5",focus=2)]
 [name="星熊"]喂，快看，那边被追赶的是老陈和林小姐吧？
 [character(name="avg_npc_198_1",name2="avg_npc_203_1#5",focus=1)]
-[name="坎黛拉"]啊，两位世侄，了不起，真是了不起......
+[name="坎黛拉"]啊，两位世侄，了不起，真是了不起……
 [character(name="avg_npc_198_1",name2="avg_npc_203_1#5",focus=2)]
-[name="星熊"]我们快去救......
+[name="星熊"]我们快去救……
 [dialog]
 [musicvolume(volume=0,fadetime=0)]
 [CameraShake(duration=3, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -36,23 +36,23 @@
 [name="林雨霞"]我不是问你，救完人之后干什么吗？
 [name="林雨霞"]虽然我也同意直接走人，但是我想起我身上还有炸弹。
 [name="林雨霞"]于是就给他们多留了一点惊喜。
-[name="陈"]......
+[name="陈"]……
 [name="林雨霞"]喝一杯？
 [name="陈"]你还真是有雅兴。
 [name="林雨霞"]开出来的时候才看到，就稍微摆了一下。
 [name="陈"]无聊。
 [name="林雨霞"]无趣。
-[name="陈"]......
-[name="林雨霞"]......
+[name="陈"]……
+[name="林雨霞"]……
 [name="陈"]我不知道你是不是故意的。
 [name="林雨霞"]什么？
 [name="陈"]你忘了？“而当你接过他们的班时，你不能只走他们的老路。”
 [name="陈"]你说这段话的时候，我们的通讯还没有断开。
-[name="林雨霞"]......
+[name="林雨霞"]……
 [name="陈"]所以，你老实告诉我，那件事里，你没有做我所想的那些事，对吗？
 [dialog]
 [delay(time=1)]
-[name="林雨霞"]......到岸了。
+[name="林雨霞"]……到岸了。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
@@ -67,7 +67,7 @@
 [delay(time=0.51)]
 [name="林雨霞"]你输了，老头。
 [character(name="avg_npc_192_1#8")]
-[name="潘乔"]......
+[name="潘乔"]……
 [name="潘乔"]帮助坎黛拉那个女人，小姑娘，你们不理解自己做了什么。
 [character(name="avg_npc_198_1#5")]
 [name="坎黛拉"]你做得好啊，老潘乔。
@@ -120,7 +120,7 @@
 [name="坎黛拉"]让我猜猜，是莱塔尼亚的某一位吧，啊，我甚至能大概想到是哪一位。
 [name="坎黛拉"]告诉我，老潘乔，你是怎么想的，居然向那些吃人不吐骨头的家伙寻求帮助。
 [character(name="avg_npc_192_1#8",name2="avg_npc_198_1#5",focus=1)]
-[name="潘乔"]......
+[name="潘乔"]……
 [character(name="avg_npc_192_1#8",name2="avg_npc_198_1#2",focus=2)]
 [name="坎黛拉"]啊，意思是，你学会了忍辱负重。
 [character(name="avg_npc_192_1#8",name2="avg_npc_198_1#5",focus=2)]
@@ -166,9 +166,9 @@
 [character]
 [delay(time=1)]
 [character(name="avg_1013_spchen_1#2",name2="avg_npc_196_1#5",focus=2)]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [character(name="avg_1013_spchen_1#2",name2="avg_npc_196_1#5",focus=1)]
-[name="陈"]......
+[name="陈"]……
 [character(name="avg_npc_203_1#5",name2="avg_npc_197_1#5",focus=1)]
 [name="星熊"]啧啧，这场面，鸿门宴也不过如此了。
 [name="星熊"]我在旁边看着都感觉头皮发麻。
@@ -211,7 +211,7 @@
 [name="坎黛拉"]虽然船内发生的事我们没有拍到，但是陈世侄你在甲板上和潘乔对峙的那一幕，一定深深印在了所有人的心中。
 [name="坎黛拉"]我想，他们必然都在为你们欢呼。
 [character(name="avg_1013_spchen_1#1")]
-[name="陈"]......您曾经说过，只要有您在，就不会有任何人威胁到这座城市。
+[name="陈"]……您曾经说过，只要有您在，就不会有任何人威胁到这座城市。
 [character(name="avg_npc_198_1#4")]
 [name="坎黛拉"]啊，没错，这句话有什么问题吗？
 [character(name="avg_1013_spchen_1#7")]
@@ -225,7 +225,7 @@
 [character(name="avg_npc_198_1#3")]
 [name="坎黛拉"]但你也做了这么多年警察，你认为有可能吗，陈世侄？
 [character(name="avg_1013_spchen_1#1")]
-[name="陈"]......
+[name="陈"]……
 [character(name="avg_npc_198_1#5")]
 [name="坎黛拉"]啊，你的表情告诉了我你的答案。
 [name="坎黛拉"]你看，你也明白，答案是不可能。
@@ -233,7 +233,7 @@
 [character(name="avg_npc_198_1#3")]
 [name="坎黛拉"]无论几座，我都能给你造出来。
 [character(name="avg_1013_spchen_1#1")]
-[name="陈"]......
+[name="陈"]……
 [character(name="avg_npc_198_1#2")]
 [name="坎黛拉"]但是，这并不能掩盖你们是这座城市的英雄的事实。
 [character(name="avg_npc_198_1#4")]
@@ -243,7 +243,7 @@
 [name="护卫"]基本准备好了。
 [stopmusic(fadetime=1)]
 [character(name="avg_npc_198_1#1")]
-[name="坎黛拉"]我的话筒呢......哦，在这。
+[name="坎黛拉"]我的话筒呢……哦，在这。
 [Dialog]
 [delay(time=1)]
 [PlayMusic(intro="$fesedm_intro", key="$fesedm_loop", volume=0.4)]

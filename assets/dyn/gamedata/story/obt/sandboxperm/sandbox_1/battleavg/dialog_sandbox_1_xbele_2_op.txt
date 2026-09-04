@@ -17,7 +17,7 @@
 [name="异客", avatarId="char_472_pasngr", isAvatarRight="FALSE"]看啊，这样宁静美好的画面，我还真是不忍心打扰。
 [playanim(id="enemy_7026_xbele", anim="Skill", dir="RIGHT")]
 [delay(time="1")]
-[decision(option1="它......看起来真的很快乐？", value1="3.1")]
+[decision(option1="它……看起来真的很快乐？", value1="3.1")]
 [predicate(references="3.1")]
 [delay(time="1")]
 [fognotinview(id="fog_1")]

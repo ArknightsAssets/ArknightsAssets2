@@ -56,37 +56,37 @@
 [charslot(slot = "m", name = "avg_npc_1685_1#1$1",focus="m")]
 [name="爱布拉娜"]你不是对父亲说过的吗，你不想被其他人问，为什么会有维多利亚人不喜欢看蒸汽骑士的故事。
 [charslot(slot = "m", name = "avg_npc_1684_1#12$1", focus="m")]
-[name="拉芙希妮"]这本书......是爸爸让你帮我买的吗？
+[name="拉芙希妮"]这本书……是爸爸让你帮我买的吗？
 [charslot(slot = "m", name = "avg_npc_1685_1#8$1",focus="m")]
 [name="爱布拉娜"]怎么会呢。
 [charslot(slot = "m", name = "avg_npc_1684_1#8$1", focus="m")]
-[name="拉芙希妮"]那你......为什么会知道？
+[name="拉芙希妮"]那你……为什么会知道？
 [charslot(slot = "m", name = "avg_npc_1685_1#11$1",focus="m")]
 [name="爱布拉娜"]你在后退，拉芙希妮。
 [name="爱布拉娜"]我不喜欢你像其他人一样畏惧我。
 [charslot(slot = "m", name = "avg_npc_1684_1#3$1", focus="m")]
-[name="拉芙希妮"]不，我......
+[name="拉芙希妮"]不，我……
 [charslot(slot = "m", name = "avg_npc_1685_1#11$1",focus="m")]
 [name="爱布拉娜"]如果你这么害怕被我知道这些，不如来跟我跳一支舞，缓解一下紧张，如何？
 [charslot(slot = "m", name = "avg_npc_1684_1#13$1", focus="m")]
-[name="拉芙希妮"]真的是......跳舞吗？
+[name="拉芙希妮"]真的是……跳舞吗？
 [charslot(slot = "m", name = "avg_npc_1685_1#8$1",focus="m")]
 [name="爱布拉娜"]为什么不可以是呢？
 [Dialog]
 [charslot]
 说着，爱布拉娜甚至优雅地朝妹妹伸出手。
-但在拉芙希妮的印象里，即便在父母放起一家人都喜欢的音乐，父亲摇头晃脑，母亲用手指在桌上敲着节拍的时候......
+但在拉芙希妮的印象里，即便在父母放起一家人都喜欢的音乐，父亲摇头晃脑，母亲用手指在桌上敲着节拍的时候……
 姐姐都只是冷冷地笑着，端坐在原位。
 她从未跟着音乐舞动过身体。一次都没有过。
 [charslot(slot = "m", name = "avg_npc_1685_1#11$1",focus="m")]
 [name="爱布拉娜"]当你能跟上我脚步的时候，你就不必再为一本书、一个请求，或是几个同龄的朋友烦忧了。
 [charslot(slot = "m", name = "avg_npc_1684_1#25$1",focus="m")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$book_close",volume=1)]
 还没拆封的骑士小说掉在地上，新书好闻的气味被泥水掩没。
-她还太小，她没想过如愿以偿也能如此沉重苦涩，她只记得自己踉跄着转身离开，没有握住那只伸向自己的......
+她还太小，她没想过如愿以偿也能如此沉重苦涩，她只记得自己踉跄着转身离开，没有握住那只伸向自己的……
 柔软而冰冷的手。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -116,7 +116,7 @@
 [name="爱布拉娜"]那么，我现在再来问问你吧，你要怎么办呢？
 [name="爱布拉娜"]再去把那团火漆成你的颜色？我想你一定已经试过了。
 [charslot(slot = "m", name = "avg_1020_reed2_1#7$1",focus="m")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot = "m", name = "avg_450_necras_1#1$2",focus="m")]
 [name="爱布拉娜"]无论是谁，一旦沾染了死亡，你的火焰就只能将其化为灰烬。
 [name="爱布拉娜"]所以，拉芙希妮，杀死我。
@@ -143,7 +143,7 @@
 [charslot(slot = "m", name = "avg_450_necras_1#16$2",focus="m")]
 [name="爱布拉娜"]真好。
 [charslot(slot = "m", name = "avg_1020_reed2_1#11$1",focus="m")]
-[name="拉芙希妮"]真......好？
+[name="拉芙希妮"]真……好？
 [charslot(slot = "m", name = "avg_450_necras_1#16$2",focus="m")]
 [name="爱布拉娜"]是啊，真好，拉芙希妮。
 [charslot(slot = "m", name = "avg_450_necras_1#1$2",focus="m")]
@@ -156,10 +156,10 @@
 [ImageTween(xScaleTo=1, yScaleTo=1, duration=20, block=false)]
 [delay(time=1.5)]
 [name="爱布拉娜"]来跳舞吧，拉芙希妮。跳那支我一直想邀你一起，你却总是逃开的舞。
-[name="拉芙希妮"]你说......什么？
+[name="拉芙希妮"]你说……什么？
 [name="爱布拉娜"]我说，来跳舞吧，拉芙希妮。
 [name="爱布拉娜"]在最后一个小节之前，用你的枪贯穿我的心脏。致死的瘟疫没有解药，你的意志足够坚定，你的行动却终将只是徒劳。
-[name="爱布拉娜"]来吧，别再逃避宿命了......纳斯尔纱的，还有我们的。
+[name="爱布拉娜"]来吧，别再逃避宿命了……纳斯尔纱的，还有我们的。
 [name="爱布拉娜"]夏末节还没到，但生与死之间的界限已经比塔拉历史上的任何时刻都要模糊。
 [name="爱布拉娜"]你真的想让塔拉变成死的国度吗？
 [Dialog]
@@ -170,7 +170,7 @@
 不知是错觉，还是紫火笼罩下的一切都会失去生机，相比记忆之中，她眼前那只手白得毫无血色。
 [name="拉芙希妮"]这是一座城市，这是无数人的生命。爱布拉娜，这不是能用宿命两个字轻飘飘地概括的东西。
 [name="爱布拉娜"]说完了吗？我觉得我们已经在各自的频道讲得够久了。
-[name="拉芙希妮"]......爱布拉娜！
+[name="拉芙希妮"]……爱布拉娜！
 [name="爱布拉娜"]你大可以继续长篇大论下去，反正只要你想，我就会站在这里等你。
 [name="爱布拉娜"]只是快些，拉芙希妮。你终究是等得起的，其他人却未必。
 [name="拉芙希妮"]（深呼吸）你说得对，你终究是等得起的，但其他人却未必。
@@ -202,12 +202,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_1020_reed2_1#6$1",focus="m")]
-[name="拉芙希妮"]爱布拉娜，你......
+[name="拉芙希妮"]爱布拉娜，你……
 [charslot(slot = "m", name = "avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]嗯？
 [charslot(slot = "m", name = "avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]你......
-[name="拉芙希妮"]姐姐，你......还好吗？
+[name="拉芙希妮"]你……
+[name="拉芙希妮"]姐姐，你……还好吗？
 [Dialog]
 [charslot]
 爱布拉娜脸上泛起笑意。那笑总挂在她的脸上，冷冰冰的。
@@ -215,11 +215,11 @@
 [charslot(slot = "m", name = "avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]多谢关心，拉芙希妮。
 [charslot(slot = "m", name = "avg_450_necras_1#16$2",focus="m")]
-[name="爱布拉娜"]在这些冷漠的别离与苦楚的团聚之后，能听见你的问候，也真的是......久违了。
+[name="爱布拉娜"]在这些冷漠的别离与苦楚的团聚之后，能听见你的问候，也真的是……久违了。
 [charslot(slot = "m", name = "avg_450_necras_1#13$2",focus="m")]
 [name="爱布拉娜"]顺便，我倒也确实想和你跳一场舞，拉芙希妮。
 [charslot(slot = "m", name = "avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]......等我找到治好你的方法，我会和你跳的。
+[name="拉芙希妮"]……等我找到治好你的方法，我会和你跳的。
 [charslot(slot = "m", name = "avg_450_necras_1#1$2",focus="m")]
 [name="爱布拉娜"]很好，我会在这里等着的。
 [Dialog]
@@ -242,9 +242,9 @@
 [charslot(slot = "m", name = "avg_4177_brigid_1#6$1",duration=1)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4177_brigid_1#6$1",focus="m")]
-[name="布莉吉"]呼......
+[name="布莉吉"]呼……
 [charslot(slot = "m", name = "avg_4177_brigid_1#5$1",focus="m")]
-[name="布莉吉"]呼......红龙！涅梅丝！
+[name="布莉吉"]呼……红龙！涅梅丝！
 [name="布莉吉"]我到城门的时候，那里一个人都没有！我知道一定是出了什么事，广场上到底——
 [Dialog]
 [charslot]
@@ -253,17 +253,17 @@
 [delay(time=1)]
 [PlaySound(key="$d_avg_cloakmovement", volume=1)]
 [delay(time=1.5)]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot = "m", name = "avg_4177_brigid_1#11$1",focus="m")]
-[name="布莉吉"]红龙，这......是？
+[name="布莉吉"]红龙，这……是？
 [Dialog]
 [charslot]
 拉芙希妮怀中抱着一个小小的匣子。在夜间昏暗的灯光下，似乎什么都比平日更加模糊。
 [charslot(slot = "m", name = "avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]我救不了库林，只能......
-[name="拉芙希妮"]......只能以这种方式给他安息，让他不必继续在广场上受死火的煎熬。
+[name="拉芙希妮"]我救不了库林，只能……
+[name="拉芙希妮"]……只能以这种方式给他安息，让他不必继续在广场上受死火的煎熬。
 [charslot(slot = "m", name = "avg_4177_brigid_1#6$1",focus="m")]
-[name="布莉吉"]......
+[name="布莉吉"]……
 [Dialog]
 [charslot(duration=0.7)]
 [delay(time=1)]
@@ -273,7 +273,7 @@
 [charslot(slot = "m", name = "avg_1020_reed2_1#1$1",focus="m")]
 [name="拉芙希妮"]宵禁已经开始了。涅梅丝、布莉吉，我们先——
 [charslot(slot = "m", name = "avg_npc_1692_1#2$1",focus="m")]
-[name="涅梅丝"]不......
+[name="涅梅丝"]不……
 [charslot(slot = "m", name = "avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]不。
 [Dialog]
@@ -295,7 +295,7 @@
 [name="严肃的守灵人"]守灵人不和生者团结，也不需要生者的尊重，除非他们已经死去。
 [name="严肃的守灵人"]这才是深池理当尊重的传统。
 [charslot(slot = "m", name = "avg_npc_1692_1#1$1",focus="m")]
-[name="涅梅丝"]无论如何，多谢您还愿意给我这枚哨笛......我回去了。
+[name="涅梅丝"]无论如何，多谢您还愿意给我这枚哨笛……我回去了。
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
 [name="严肃的守灵人"]等等，涅梅丝。你明知道夏末节将至，守灵人不太可能拿得出什么祭器，但你还是来了。
 [name="严肃的守灵人"]那些深池强迫你来的？
@@ -303,9 +303,9 @@
 [name="涅梅丝"]不，是我自己——
 [charslot(slot="m",name="avg_npc_1691_1#3$1",focus="m")]
 [name="严肃的守灵人"]涅梅丝，你的性格还真是一点没变。
-[name="严肃的守灵人"]等待、斡旋、调和......你在纳斯尔纱，在那条红龙的麾下，也执着于这样吗？
+[name="严肃的守灵人"]等待、斡旋、调和……你在纳斯尔纱，在那条红龙的麾下，也执着于这样吗？
 [charslot(slot = "m", name = "avg_npc_1692_1#8$1",focus="m")]
-[name="涅梅丝"]我只是......不希望看到本该向好的情况恶化，本该同心协力的人起冲突。
+[name="涅梅丝"]我只是……不希望看到本该向好的情况恶化，本该同心协力的人起冲突。
 [charslot(slot="m",name="avg_npc_1691_1#2$1",focus="m")]
 [name="严肃的守灵人"]假如冲突本就无法避免，你只会在其中越陷越深。
 [name="严肃的守灵人"]城市将你浸染得黯淡了，涅梅丝。
@@ -324,14 +324,14 @@
 [name="涅梅丝"]所以领袖——红龙——
 [name="涅梅丝"]所以，爱布拉娜是不会给纳斯尔纱带来真正的生活的，对吗，拉芙希妮？
 [charslot(slot = "m", name = "avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]她说她做不到。她......其实并不喜欢撒谎，除非另有制约......
+[name="拉芙希妮"]她说她做不到。她……其实并不喜欢撒谎，除非另有制约……
 [charslot(slot = "m", name = "avg_npc_1692_1#4$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="涅梅丝"]她已经是整个塔拉的领袖，独一无二的红龙，还有什么能制约她？！
 [charslot(slot = "m", name = "avg_npc_1692_1#7$1",focus="m")]
-[name="涅梅丝"]我......
+[name="涅梅丝"]我……
 [charslot(slot = "m", name = "avg_4177_brigid_1#6$1",focus="m")]
-[name="布莉吉"]涅梅丝，你怎么了？你看起来......不对劲......
+[name="布莉吉"]涅梅丝，你怎么了？你看起来……不对劲……
 [playMusic(intro="$distressed_intro", key="$distressed_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_1692_1#7$1",focus="m")]
 [name="涅梅丝"]我明白了。拉芙希妮殿下，我突然明白了。
@@ -341,9 +341,9 @@
 [charslot(slot = "m", name = "avg_npc_1692_1#7$1",focus="m")]
 [name="涅梅丝"]我曾经依赖的人们，原来是一群中饱私囊的蛀虫。
 [name="涅梅丝"]我曾经信仰的领袖，原来是一条目无他人生死的恶龙。
-[name="涅梅丝"]我曾经不惜性命捍卫的人们......我的挚友为他们而死。
+[name="涅梅丝"]我曾经不惜性命捍卫的人们……我的挚友为他们而死。
 [charslot(slot = "m", name = "avg_npc_1692_1#8$1",focus="m")]
-[name="涅梅丝"]甚至，如果不是那条恶龙用紫火将他点燃，我都不知道他们还会对他做些什么......
+[name="涅梅丝"]甚至，如果不是那条恶龙用紫火将他点燃，我都不知道他们还会对他做些什么……
 [charslot(slot = "m", name = "avg_npc_1692_1#7$1",focus="m")]
 [name="涅梅丝"]库林问得对，等到夏末节过去，我该做什么？
 [name="涅梅丝"]除了复仇，我没有什么可做的了。
@@ -365,13 +365,13 @@
 [charslot(slot = "m", name = "avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]拉芙希妮殿下，您会因此将我当成城里人的同类，爱布拉娜的仆臣吗？
 [charslot(slot = "m", name = "avg_1020_reed2_1#13$1",focus="m")]
-[name="拉芙希妮"]不，只是这致死的恶疾......终于传染到了最后一个城里人身上。
+[name="拉芙希妮"]不，只是这致死的恶疾……终于传染到了最后一个城里人身上。
 [charslot(slot = "m", name = "avg_npc_1692_1#1$1",focus="m")]
-[name="涅梅丝"]既然这样，拉芙希妮殿下，我发誓，我会协助您把这支强加给您的舞一直跳下去，一直跳下去......
+[name="涅梅丝"]既然这样，拉芙希妮殿下，我发誓，我会协助您把这支强加给您的舞一直跳下去，一直跳下去……
 [charslot(slot = "m", name = "avg_npc_1692_1#7$1",focus="m")]
 [name="涅梅丝"]直到那条邪恶的红龙倒下。
 [charslot(slot = "m", name = "avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]......我听见了你的誓言。
+[name="拉芙希妮"]……我听见了你的誓言。
 [name="拉芙希妮"]接下来，我得离开纳斯尔纱一趟。跟我一起走吧，涅梅丝。
 [charslot(slot = "m", name = "avg_npc_1692_1#1$1",focus="m")]
 [name="涅梅丝"]守灵人的聚落，是吗？
@@ -380,13 +380,13 @@
 [charslot(slot = "m", name = "avg_npc_1692_1#2$1",focus="m")]
 [name="涅梅丝"]不，我不会去。我已经没有资格回去了。
 [charslot(slot = "m", name = "avg_npc_1692_1#7$1",focus="m")]
-[name="涅梅丝"]我会在城市里待下去。只要没被红龙注意到，没被她撕成碎片......我会努力不让事态继续恶化。
+[name="涅梅丝"]我会在城市里待下去。只要没被红龙注意到，没被她撕成碎片……我会努力不让事态继续恶化。
 [charslot(slot = "m", name = "avg_npc_1692_1#6$1",focus="m")]
 [name="涅梅丝"]这枚哨笛麻烦您还回去吧。
-[name="涅梅丝"]还有......库林也拜托您了。请您给库林一个真正的葬礼。
-[name="涅梅丝"]葬礼上需要亲友念诵悼词，我......我写一份，您帮我念，好吗？
+[name="涅梅丝"]还有……库林也拜托您了。请您给库林一个真正的葬礼。
+[name="涅梅丝"]葬礼上需要亲友念诵悼词，我……我写一份，您帮我念，好吗？
 [charslot(slot = "m", name = "avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]......好。
+[name="拉芙希妮"]……好。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
@@ -411,9 +411,9 @@
 [charslot(slot = "m", name = "avg_1020_reed2_1#9$1",focus="m")]
 [name="拉芙希妮"]我一个人没关系的。
 [charslot(slot = "m", name = "avg_4177_brigid_1#11$1",focus="m")]
-[name="布莉吉"]倒也可以，可......涅梅丝，你越来越不像你自己了。
+[name="布莉吉"]倒也可以，可……涅梅丝，你越来越不像你自己了。
 [charslot(slot = "m", name = "avg_npc_1692_1#8$1",focus="m")]
-[name="涅梅丝"]......也许这就是复仇会把人变成的样子。
+[name="涅梅丝"]……也许这就是复仇会把人变成的样子。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

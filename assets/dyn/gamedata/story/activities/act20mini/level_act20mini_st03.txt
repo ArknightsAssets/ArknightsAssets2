@@ -18,43 +18,43 @@
 [charslot(slot="l",name="avg_npc_2201_1#1$1",focus="l")]
 [multiline(name="露彼娜")]嗯，没什么问题。您做事一向妥帖。
 [charslot(slot="r",name="avg_npc_1563_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="埃里奥"]......过奖了。
-[name="埃里奥"]......露彼娜小姐......有句话......以我的立场，不知该不该问。
+[name="埃里奥"]……过奖了。
+[name="埃里奥"]……露彼娜小姐……有句话……以我的立场，不知该不该问。
 [charslot(slot="l",name="avg_npc_2201_1#2$1",focus="l")]
 [name="露彼娜"]怎么了，突然这么严肃？
 [name="露彼娜"]问吧，埃里奥大叔。我们都合作这么久了，不用这么生分。
 [charslot(slot="r",name="avg_npc_1563_1#1$1",bstart=0.2,bend=0.4,focus="r")]
 [name="埃里奥"]自从卡西米尔人的葡萄酒进入新沃尔西尼的市场以来——
-[name="埃里奥"]您酒庄上自家葡萄园中作为生产原材料的葡萄便渐渐有了富余，我们酒业出资采购，正好作为补充......
+[name="埃里奥"]您酒庄上自家葡萄园中作为生产原材料的葡萄便渐渐有了富余，我们酒业出资采购，正好作为补充……
 [charslot(slot="l",name="avg_npc_2201_1#2$1",focus="l")]
 [name="露彼娜"]你们给的价格很实在。也算是帮我消耗了库存，是一桩双赢的生意。挺好的。
 [charslot(slot="r",name="avg_npc_1563_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="埃里奥"]确实。但这次......您交付给我们的葡萄，这数量......
+[name="埃里奥"]确实。但这次……您交付给我们的葡萄，这数量……
 [charslot(slot="l",name="avg_npc_2201_1#2$1",focus="l")]
 [name="露彼娜"]对你们来说也太多了？
 [charslot(slot="r",name="avg_npc_1563_1#1$1",bstart=0.2,bend=0.4,focus="r")]
 [name="埃里奥"]不，以我们目前的生产线，自然是多多益善，但对您的酒庄来说，不是一点也没有给今后的生产留下原材料吗？
 [charslot(slot="l",name="avg_npc_2201_1#7$1",focus="l")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [name="露彼娜"]您看出来啦？
 [charslot(slot="r",name="avg_npc_1563_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="埃里奥"]......露彼娜小姐......
+[name="埃里奥"]……露彼娜小姐……
 [charslot(slot="l",name="avg_npc_2201_1#4$1",focus="l")]
-[name="露彼娜"]我们......维尔蒂酒庄，前阵与“黄金平原”的商业代表有过接触。
+[name="露彼娜"]我们……维尔蒂酒庄，前阵与“黄金平原”的商业代表有过接触。
 [charslot(slot="l",name="avg_npc_2201_1#5$1",focus="l")]
-[name="露彼娜"]他们提议出资收购我们酒庄，给的价格......让我无法拒绝。
+[name="露彼娜"]他们提议出资收购我们酒庄，给的价格……让我无法拒绝。
 [charslot(slot="l",name="avg_npc_2201_1#4$1",focus="l")]
-[name="露彼娜"]我们酒庄的生意早就不行了，虽然大家还在努力想办法销售......
+[name="露彼娜"]我们酒庄的生意早就不行了，虽然大家还在努力想办法销售……
 [charslot(slot="l",name="avg_npc_2201_1#2$1",focus="l")]
 [name="露彼娜"]现在“黄金平原”的人愿意来找我，说明至少我们酒庄的设备和葡萄园还有价值，这对我来说也是一件好事。
 [name="露彼娜"]维尔蒂酒庄与萨卢佐酒业的合作一直都很愉快，埃里奥大叔，谢谢您之前的照拂。
 [charslot(slot="r",name="avg_npc_1563_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="埃里奥"]......
-[name="埃里奥"]但是......你们酒庄上的其他人愿意吗？达维德怎么说？尼科洛呢？他也同意？
+[name="埃里奥"]……
+[name="埃里奥"]但是……你们酒庄上的其他人愿意吗？达维德怎么说？尼科洛呢？他也同意？
 [charslot(slot="l",name="avg_npc_2201_1#4$1",focus="l")]
-[name="露彼娜"]......我会说服他们的。
+[name="露彼娜"]……我会说服他们的。
 [charslot(slot="r",name="avg_npc_1563_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="埃里奥"]......
+[name="埃里奥"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -73,11 +73,11 @@
 [PlaySound(key="$d_avg_pourwine", volume=1)]
 [Delay(time=2.5)]
 [charslot(slot="r",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="尼科洛"]这是......
+[name="尼科洛"]这是……
 [charslot(slot="l",name="avg_npc_2201_1#2$1",focus="l")]
 [name="露彼娜"]我们酒庄的招牌“桑娇维塞”。您应该再熟悉不过了，不是吗？
 [charslot(slot="r",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="尼科洛"]......是啊。这个标签......我记得，它还是你的爷爷老维尔蒂亲手画的。
+[name="尼科洛"]……是啊。这个标签……我记得，它还是你的爷爷老维尔蒂亲手画的。
 [name="尼科洛"]他调配出这种酒时，葡萄都是我在养护的呢！
 [name="尼科洛"]葡萄藤的枝子是我一根根修剪的。冬天用的修枝剪很硬，又难用力，当时可费了不少劲，一整个冬天都要在户外忙活。
 [name="尼科洛"]可是一想到这些老藤年纪比我们几个加起来都大，一切悉心呵护都是值得的。
@@ -85,12 +85,12 @@
 [name="露彼娜"]卡西米尔现在都是机器修剪，一天不到就能剪完整个葡萄园。
 [charslot(slot="r",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="r")]
 [name="尼科洛"]那能一样吗？那些笨机器只会野蛮地扯断葡萄藤，短期来看确实是快，哼，但这样剪完之后，葡萄也活不了几年了。
-[name="尼科洛"]他们根本不懂根据葡萄藤的走势来修理，让果实获得更多光照保证口味......
+[name="尼科洛"]他们根本不懂根据葡萄藤的走势来修理，让果实获得更多光照保证口味……
 [name="尼科洛"]你们年轻人根本不懂叙拉古的老手艺，也没有人愿意学了。
 [name="尼科洛"]叙拉古的佳酿之所以独特，就是因为酒庄的每株葡萄都和这里的家族一样长久。
-[name="尼科洛"]唉......养护葡萄藤和管理一个家族是一样的。至少对你爷爷来说是一样的。
+[name="尼科洛"]唉……养护葡萄藤和管理一个家族是一样的。至少对你爷爷来说是一样的。
 [charslot(slot="l",name="avg_npc_2201_1#11$1",focus="l")]
-[name="露彼娜"]尼科洛......
+[name="露彼娜"]尼科洛……
 [charslot(slot="r",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="r")]
 [name="尼科洛"]想想吧，露帕，维尔蒂酒庄的每一颗葡萄，都是从比你爷爷年纪还大的藤上摘下的。
 [name="尼科洛"]还有我们这些老工人，摘了一辈子葡萄，搬了一辈子木桶，也酿了一辈子酒。
@@ -104,7 +104,7 @@
 [name="露彼娜"]对我来说，死得体面总比狼狈地在新沃尔西尼苟延残喘好。趁这块地还有价值，大家好聚好散。
 [name="露彼娜"]赔偿我会严格按照合同来履行。
 [charslot(slot="r",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="r")]
-[name="尼科洛"]你......唉。我不是在意那些赔偿！
+[name="尼科洛"]你……唉。我不是在意那些赔偿！
 [name="尼科洛"]你从小就对酒庄的生意不感兴趣，但这也是老维尔蒂苦心经营下来的，作为他的孙女，难道你就没有一点留恋吗？
 [charslot(slot="l",name="avg_npc_2201_1#4$1",focus="l")]
 [name="露彼娜"]爷爷也不希望他的酒庄因为经营不善倒闭，为它找一个好归宿未必不好。这里是新沃尔西尼，尼科洛，我们应该试着接受新的秩序。
@@ -112,7 +112,7 @@
 年老的工人半天没有说话。
 最后，他从口袋里掏出一张请柬，放到桌子上。
 [charslot(slot="l",name="avg_npc_2201_1#11$1",focus="l")]
-[name="露彼娜"]这是......
+[name="露彼娜"]这是……
 [charslot(slot="r",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="r")]
 [name="尼科洛"]我的孙女贝蒂，下周就是她的十岁生日。就按叙拉古的老规矩来。
 [charslot(slot="l",name="avg_npc_2201_1#6$1",focus="l")]
@@ -177,7 +177,7 @@
 女人起身来到鼓椅旁坐下，轻轻敲击叠音钹和底鼓。一阵轻快的鼓声响起。
 她踩起脚踏钹，手里的鼓槌有条不紊地敲击着鼓面和镲片。
 [charslot(slot="m",name="avg_npc_2201_1#5$1",focus="m")]
-[name="露彼娜"]“如果我不幸死在战场，请用一弗洛林将我埋葬，妈妈的哭声酿成酒，在我墓前流淌......”
+[name="露彼娜"]“如果我不幸死在战场，请用一弗洛林将我埋葬，妈妈的哭声酿成酒，在我墓前流淌……”
 [charslot(slot="m",name="avg_4037_demetr_1#1$1",focus="m")]
 [name="德米特里"]每个叙拉古的孩子都会唱的歌，你把它也带来了新沃尔西尼。
 [charslot(slot="m",name="avg_npc_2201_1#2$1",focus="m")]
@@ -186,12 +186,12 @@
 [charslot(slot="m",name="avg_4037_demetr_1#4$1",focus="m")]
 [name="德米特里"]也不必时时刻刻都得识趣的。
 [charslot(slot="m",name="avg_npc_2201_1#7$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [name="露彼娜"]埃里奥大叔已经把我们酒庄的事告诉你了。
 [charslot(slot="m",name="avg_4037_demetr_1#1$1",focus="m")]
 [name="德米特里"]你现在来找我，就是为了这件事。
 [charslot(slot="m",name="avg_npc_2201_1#7$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [charslot(slot="m",name="avg_4037_demetr_1#1$1",focus="m")]
 [name="德米特里"]说吧。你接下来有什么打算？
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
@@ -201,26 +201,26 @@
 [charslot(slot="m",name="avg_4037_demetr_1#1$1",focus="m")]
 [name="德米特里"]有些可惜。但既然你已经做了决定——有什么是我能帮上忙的吗？
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [charslot(slot="m",name="avg_4037_demetr_1#1$1",focus="m")]
 [name="德米特里"]真难得，你会犹豫。
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
-[name="露彼娜"]我们酒庄......剩下的那些工人......都是些熟练的能手，即使在其他酒庄的生产线上，也一样能做得很好。
+[name="露彼娜"]我们酒庄……剩下的那些工人……都是些熟练的能手，即使在其他酒庄的生产线上，也一样能做得很好。
 [name="露彼娜"]萨卢佐酒业旗下拥有十数家酒庄，总有些需要熟手的地方？
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
 [name="露彼娜"]当然，我不是说要直接把人都这么塞给你。
 [name="露彼娜"]我懂叙拉古家族的规矩，这么做等于让你帮了我一个大忙，但我又没有什么可以还给你。
-[name="露彼娜"]所以，你可以考核，然后再根据需求让他们上岗......
+[name="露彼娜"]所以，你可以考核，然后再根据需求让他们上岗……
 [charslot(slot="m",name="avg_4037_demetr_1#4$1",focus="m")]
 [name="德米特里"]不用这么紧张。
 [charslot(slot="m",name="avg_4037_demetr_1#1$1",focus="m")]
 [name="德米特里"]你照顾你的家人，这是应该的，我的酒业也确实缺人手。
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
-[name="露彼娜"]......谢谢。
+[name="露彼娜"]……谢谢。
 [charslot(slot="m",name="avg_4037_demetr_1#1$1",focus="m")]
 [name="德米特里"]工人们都安顿好了，那你自己呢？
 [charslot(slot="m",name="avg_npc_2201_1#2$1",focus="m")]
-[name="露彼娜"]我嘛......追求我的音乐梦想？
+[name="露彼娜"]我嘛……追求我的音乐梦想？
 [name="露彼娜"]说实话，我打架子鼓的技术，可比我经营酒庄的水平高明多了，不是吗？
 [Dialog]
 [charslot]
@@ -234,11 +234,11 @@
 [Background(image="bg_black",screenadapt="coverall")]
 [Delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="尼科洛"]......怎么能......怎么能就这样......
+[name="尼科洛"]……怎么能……怎么能就这样……
 [Dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [Delay(time=2.5)]
-[name="尼科洛"]谁？......埃里奥？你怎么还在？
+[name="尼科洛"]谁？……埃里奥？你怎么还在？
 [name="埃里奥"]我帮你。
 [Dialog]
 [PlaySound(key="$d_avg_fixcarjingle", volume=0.5)]
@@ -252,10 +252,10 @@
 [PlaySound(key="$d_avg_marblefootsteps_loop", volume=1)]
 [charslot(slot="m",name="avg_npc_2201_1#4$1",duration=3)]
 [Delay(time=3.5)]
-[name="露彼娜"]好安静......甚至能听得到耳鸣。
-[name="露彼娜"]以前多热闹的地方......脚步声、木桶滚动声、金属和玻璃器皿碰撞的声音，还有葡萄发酵、气泡破裂的嘶嘶声......
+[name="露彼娜"]好安静……甚至能听得到耳鸣。
+[name="露彼娜"]以前多热闹的地方……脚步声、木桶滚动声、金属和玻璃器皿碰撞的声音，还有葡萄发酵、气泡破裂的嘶嘶声……
 [charslot(slot="m",name="avg_npc_2201_1#5$1",focus="m")]
-[name="露彼娜"]现在都......
+[name="露彼娜"]现在都……
 [Dialog]
 [PlaySound(key="$d_avg_marblefootsteps_loop", volume=1)]
 [charslot(duration=3)]
@@ -272,9 +272,9 @@
 压榨机的手柄从垂直螺杆上掉了下来。
 [charslot(slot="m",name="avg_npc_2201_1#10$1",focus="m")]
 [name="露彼娜"]？！
-[name="露彼娜"]这......卡西米尔人的会计马上就要来了，设备怎么会在这当口出问题？！
+[name="露彼娜"]这……卡西米尔人的会计马上就要来了，设备怎么会在这当口出问题？！
 [charslot(slot="m",name="avg_npc_2201_1#8$1",focus="m")]
-[name="露彼娜"]老设备就是麻烦......赶紧装回去——
+[name="露彼娜"]老设备就是麻烦……赶紧装回去——
 [Dialog]
 [charslot(slot="m", posfrom = "0,0", posto = "0,-20",duration=1,focus="all")]
 [Delay(time=1.5)]
@@ -296,14 +296,14 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_660_1#1$1",duration=2)]
 [Delay(time=2.5)]
-[name="？？？"]露彼娜小姐......
+[name="？？？"]露彼娜小姐……
 [Dialog]
 [charslot(slot="m",name="avg_npc_2201_1#6$1",posfrom="0,-20", posto= "0,-20",focus="m")]
 [name="露彼娜"]达维德？正好，快来想想办法，赶紧帮我修好它。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_660_1#1$1",focus="m")]
-[name="达维德"]......
+[name="达维德"]……
 [Dialog]
 [PlaySound(key="$d_avg_sldrrldn", volume=1)]
 [Delay(time=0.5)]
@@ -312,7 +312,7 @@
 [name="达维德"]是垂直螺杆坏了，螺纹被彻底磨没了，装不回去了。
 [Dialog]
 [charslot(slot="m",name="avg_npc_2201_1#4$1",posfrom="0,-20", posto= "0,-20",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [Dialog]
 [charslot(slot="m", posfrom = "0,-20", posto = "0,0",duration=1,focus="all")]
 [Delay(time=1.5)]
@@ -320,7 +320,7 @@
 [name="达维德"]我是来找你报告的，露帕，刚才我在做日常检修，发现过滤设备的液压缸出现了问题。
 [name="达维德"]缸壁上出现了裂口，无法维持液压了。
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -328,7 +328,7 @@
 [Delay(time=2.5)]
 [name="尼科洛"]露帕，卡西米尔人来了。
 [charslot(slot="m",name="avg_npc_2201_1#7$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -343,7 +343,7 @@
 [Delay(time=2.5)]
 [name="会计"]这真是一座相当古典的酒庄，维尔蒂小姐。酒桶的狼头十分精致，就连酒窖的石砖都有不俗的装饰。
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
-[name="露彼娜"]这些是......祖父从前画的。
+[name="露彼娜"]这些是……祖父从前画的。
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]需要我们讨论一下这些您家人留下的画作的去处吗？比如您希望我们完整地取下还给您，还是一并打包并入收购内容？
 [charslot(slot="m",name="avg_npc_2201_1#6$1",focus="m")]
@@ -355,15 +355,15 @@
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]当然，专家派遣费用我们也会算在您的支出内。
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
-[name="露彼娜"]我就知道......好吧，费用我来付，请务必完整地取下这些石砖。
+[name="露彼娜"]我就知道……好吧，费用我来付，请务必完整地取下这些石砖。
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]那我们就进入下一个环节。
 [charslot(slot="m",name="avg_npc_2201_1#7$1",focus="m")]
-[name="露彼娜"]......好的。
+[name="露彼娜"]……好的。
 [charslot(slot="m",name="avg_npc_223",focus="m")]
-[name="会计"]破碎机、发酵罐、压榨机、控温器、过滤设备......您的酒庄拥有非常完善的生产设施。
+[name="会计"]破碎机、发酵罐、压榨机、控温器、过滤设备……您的酒庄拥有非常完善的生产设施。
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
-[name="露彼娜"]是的，这一批器械是我祖父更新的，他当年买进了很多时兴的酿酒设备，它们......都很结实耐用。
+[name="露彼娜"]是的，这一批器械是我祖父更新的，他当年买进了很多时兴的酿酒设备，它们……都很结实耐用。
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]您的祖父？那确实是有些年头了。
 [charslot(slot="m",name="avg_npc_2201_1#6$1",focus="m")]
@@ -373,12 +373,12 @@
 [name="会计"]露彼娜小姐，您家这台破碎机接口上的密封圈，似乎形状有些问题？
 [name="会计"]我不是专业的设备价值评估人员，不过，我印象里，密封圈应该不会露在外面？
 [charslot(slot="m",name="avg_npc_2201_1#10$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [charslot(slot="m",name="avg_npc_223",focus="m")]
-[name="会计"]还有您的控温设备......我刚才经过的时候看到上面的温度，似乎也与酿酒所需的不符。
+[name="会计"]还有您的控温设备……我刚才经过的时候看到上面的温度，似乎也与酿酒所需的不符。
 [charslot(slot="m",name="avg_npc_2201_1#10$1",focus="m")]
-[name="露彼娜"]......
-[name="露彼娜"]可能......设备确实有些老旧。
+[name="露彼娜"]……
+[name="露彼娜"]可能……设备确实有些老旧。
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
 [name="露彼娜"]不过我们的工人一直在定期维护，所需的相应零件也都一直有备货，很快就能修好。
 [name="露彼娜"]保证不会影响到交付。
@@ -386,11 +386,11 @@
 [name="会计"]原来您在担心这个，没关系。
 [name="会计"]我们在一开始的评估报告中，并没有计入您的这些设施。
 [charslot(slot="m",name="avg_npc_2201_1#6$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]叙拉古的传统机器与我们的生产流水线并不匹配，效率也很低下，原本我们就没有打算收它们。您可以自行处理。
 [charslot(slot="m",name="avg_npc_2201_1#6$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]包括您刚才带我去仓库里看的那些放陈酿的橡木桶——
 [name="会计"]恕我直言，这些陈旧的手工制橡木桶，在存储过程中会产生不可控的杂质，不利于批量生产的葡萄酒品质把控。
@@ -408,16 +408,16 @@
 [name="会计"]我们看重的是您的酒庄这块地的价值，我们会给予它应得的估价。
 [name="会计"]我们能买到这样的地皮，您能获得不菲的收购价格，是双赢。
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]那么，我会把今天的清点结果尽快整理好，之后会由我们的法务专员和您沟通合同的签署。
 [name="会计"]您还有什么想问的，之后请和她沟通吧。
 [charslot(slot="m",name="avg_npc_2201_1#7$1",focus="m")]
-[name="露彼娜"]......留下来一起喝一杯？
+[name="露彼娜"]……留下来一起喝一杯？
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]据我所知，维尔蒂酒庄的所有库存在上个月已经被我们买空，因为您急于周转资金来给工人们发工资。
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
-[name="露彼娜"]......
+[name="露彼娜"]……
 [charslot(slot="m",name="avg_npc_223",focus="m")]
 [name="会计"]不用送了。再会，维尔蒂小姐。
 [Dialog]
@@ -430,9 +430,9 @@
 引擎发动的声音消散很久后，露彼娜才回过神来。
 [playMusic(intro="$loneliness_intro",key="$loneliness_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
-[name="露彼娜"]没想到这么快就谈完了。爷爷的酒庄，就这样卖掉了......
+[name="露彼娜"]没想到这么快就谈完了。爷爷的酒庄，就这样卖掉了……
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
-[name="尼科洛"]......我本来以为......他们会更看重一些我们的传统和设备......
+[name="尼科洛"]……我本来以为……他们会更看重一些我们的传统和设备……
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
 [name="露彼娜"]尼科洛。
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
@@ -442,34 +442,34 @@
 [name="露彼娜"]我知道。我并没有打算兴师问罪。
 [name="露彼娜"]你在酒庄这么多年，应该也不会觉得坏了几个设备就能阻止收购的。
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
-[name="尼科洛"]......我只是......
+[name="尼科洛"]……我只是……
 [charslot(slot="m",name="avg_npc_2201_1#6$1",focus="m")]
 [name="露彼娜"]希望至少它们能够留下来？
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
-[name="尼科洛"]埃里奥......他对酒庄的水管......
+[name="尼科洛"]埃里奥……他对酒庄的水管……
 [charslot(slot="m",name="avg_npc_2201_1#6$1",focus="m")]
 [name="露彼娜"]还动了别的手脚？
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
-[name="尼科洛"]我本想阻止他，但是......
+[name="尼科洛"]我本想阻止他，但是……
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
-[name="露彼娜"]我理解你们的愤怒......事已至此，既然那位会计先生没有发现，我们也没有主动报告的道理。
+[name="露彼娜"]我理解你们的愤怒……事已至此，既然那位会计先生没有发现，我们也没有主动报告的道理。
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
-[name="尼科洛"]......露帕......
+[name="尼科洛"]……露帕……
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
 [name="露彼娜"]我知道的，我是没什么商业头脑，但看人的眼光不会错。
 [name="露彼娜"]你和爷爷一起经营酒庄的时候，我那个酒鬼老爹都没出生呢。
-[name="露彼娜"]这台压榨机......爷爷以前用它给我量身高，料筒上的一道道线条就是记录。
+[name="露彼娜"]这台压榨机……爷爷以前用它给我量身高，料筒上的一道道线条就是记录。
 [charslot(slot="m",name="avg_npc_2201_1#2$1",focus="m")]
 [name="露彼娜"]坏了也好，不用被卖掉了。
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
 [name="尼科洛"]维尔蒂酒庄，是我的一辈子。我见证了老维尔蒂每一瓶新酒的酿造，在过去叙拉古的风波中一次次挺了过来。
-[name="尼科洛"]我以为我的孙女，甚至更下一辈......还能见证新酒的诞生......没想到最后是这样的结束。
+[name="尼科洛"]我以为我的孙女，甚至更下一辈……还能见证新酒的诞生……没想到最后是这样的结束。
 [charslot(slot="m",name="avg_npc_2201_1#5$1",focus="m")]
 [name="露彼娜"]既然延续老路子没法保全它，这样的结束也许是最好的。
 [charslot(slot="m",name="avg_npc_2201_1#11$1",focus="m")]
-[name="露彼娜"]还有什么......是我能补偿你们的吗？
+[name="露彼娜"]还有什么……是我能补偿你们的吗？
 [charslot(slot="m",name="avg_npc_696_1#1$1",bstart=0.2,bend=0.4,focus="m")]
-[name="尼科洛"]我的儿子......很希望你能参加他女儿的十岁生日聚会。
+[name="尼科洛"]我的儿子……很希望你能参加他女儿的十岁生日聚会。
 [name="尼科洛"]按照叙拉古老传统，带上一瓶与她年龄相当的酒。
 [charslot(slot="m",name="avg_npc_2201_1#6$1",focus="m")]
 [name="露彼娜"]可——
@@ -487,12 +487,12 @@
 [name="露彼娜"]“麻烦酒庄继承人小姐到我的私人酒吧来一趟，我的酒你可以自行取用。”
 [name="露彼娜"]把我叫来，自己人又不在。
 [name="露彼娜"]死人这种在叙拉古再寻常不过的事居然能把他困在家里？
-[name="露彼娜"]还要让客人自助调酒......
+[name="露彼娜"]还要让客人自助调酒……
 [Dialog]
 [PlaySound(key="$d_avg_winglssice", volume=1)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_2201_1#4$1",focus="m")]
-[name="露彼娜"]好久没自己调了，爷爷......当初是怎么教的呢？
+[name="露彼娜"]好久没自己调了，爷爷……当初是怎么教的呢？
 [Dialog]
 [charslot(slot="m",name="avg_npc_2201_1#5$1",focus="m")]
 [Delay(time=2.5)]
@@ -519,7 +519,7 @@
 [Sticker(id="st1", multi = true, text="露帕，你在听吗？", x=300,y=300, alignment="center", size=24, delay=0.0001, width=700,duration=1.3,block = true)]
 [Sticker(id="st1",duration=1.3)]
 [Delay(time=1.3)]
-[Sticker(id="st1", multi = true, text="那是画笔，不是鼓槌......我还没画完呢——", x=300,y=300, alignment="center", size=24, delay=0.0001, width=700,duration=1.3,block = true)]
+[Sticker(id="st1", multi = true, text="那是画笔，不是鼓槌……我还没画完呢——", x=300,y=300, alignment="center", size=24, delay=0.0001, width=700,duration=1.3,block = true)]
 [Sticker(id="st1",duration=1.3)]
 [Delay(time=1.3)]
 [Sticker(id="st1", multi = true, text="等我画完这几笔就给你玩。你看，这是我们的葡萄园，这个大狼头是我，小的是你。", x=300,y=300, alignment="center", size=24, delay=0.0001, width=700,duration=1.3,block = true)]
@@ -568,7 +568,7 @@
 内容写着“维尔蒂 1092”。
 女鼓手抚摸着瓶身，轻轻将它收回礼盒中，拿起鼓槌，酒吧里响起歌声。
 [charslot(slot="m",name="avg_npc_2201_1#2$1",focus="m")]
-[name="露彼娜"]“如果我不幸死在战场，请用一弗洛林将我埋葬，妈妈的哭声酿成酒，在我墓前流淌......”
+[name="露彼娜"]“如果我不幸死在战场，请用一弗洛林将我埋葬，妈妈的哭声酿成酒，在我墓前流淌……”
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

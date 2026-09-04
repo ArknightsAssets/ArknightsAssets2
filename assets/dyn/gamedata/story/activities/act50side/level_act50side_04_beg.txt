@@ -21,11 +21,11 @@
 [name="政宗"]那是当然的喵！“兔团子”不仅能填饱肚子，不同的口味还能给猎人带来各种神奇的效果喵！
 [charslot(slot="m",name="avg_1048_orchd2_1#6$1",focus="m")]
 [stopmusic(fadetime=2)]
-[name="梓兰"]总觉得......有种不好的预感。这里的空气，让人很不舒服。
+[name="梓兰"]总觉得……有种不好的预感。这里的空气，让人很不舒服。
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
 [name="宝巫迦"]是“诅咒”的气息，而且越来越浓郁了。
 [charslot(slot="m",name="avg_1049_catap2_1#6$2",focus="m")]
-[name="空爆"]咦？你们有没有觉得......好像没那么冷了？
+[name="空爆"]咦？你们有没有觉得……好像没那么冷了？
 [charslot(slot="m",name="avg_1048_orchd2_1#4$1",focus="m")]
 [name="梓兰"]不是错觉。你看脚下！
 [dialog]
@@ -36,7 +36,7 @@
 [PlaySound(key="$MHR_cat_voice3", volume=1)]
 [name="政宗"]这是怎么回事喵？！雪山怎么变成火山了喵？！
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
-[name="宝巫迦"]是“异兽”的“诅咒”......它在凭借自己的力量，将这里的环境改造成更适合它自己的战场！
+[name="宝巫迦"]是“异兽”的“诅咒”……它在凭借自己的力量，将这里的环境改造成更适合它自己的战场！
 [dialog]
 [charslot]
 [Dialog]
@@ -48,9 +48,9 @@
 [charslot(slot="m",name="avg_1049_catap2_1#7$2",focus="m")]
 [name="空爆"]哇啊啊！真的喷发了！
 [charslot(slot="m",name="avg_npc_2100_1#1$1",focus="m")]
-[name="宝巫迦"]吾能感觉到，雪山之中有一股正在酝酿的巨大能量......一定是熔火蜗，它想要用“诅咒”的力量将整座雪山改造成火山！
+[name="宝巫迦"]吾能感觉到，雪山之中有一股正在酝酿的巨大能量……一定是熔火蜗，它想要用“诅咒”的力量将整座雪山改造成火山！
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]不，不对......“诅咒”的能量不止一处......
+[name="宝巫迦"]不，不对……“诅咒”的能量不止一处……
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
 [name="宝巫迦"]有两个不同的能量点，雪山之中的那个最为巨大！
 [charslot(slot="m",name="avg_1048_orchd2_1#4$1",focus="m")]
@@ -74,12 +74,12 @@
 [charslot(slot="m",name="avg_1049_catap2_1#8$2",focus="m")]
 [name="空爆"]梓兰姐！宝巫迦她——
 [charslot(slot="m",name="avg_1048_orchd2_1#10$1",focus="m")]
-[name="梓兰"]啧，居然来这一手......
+[name="梓兰"]啧，居然来这一手……
 [charslot(slot="m",name="avg_1049_catap2_1#8$2",focus="m")]
 [name="空爆"]翔虫——可恶，这些岩浆太碍事了，翔虫也飞不过去！
 [charslot]
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
-[name="宝巫迦"]唔......只能如此了。
+[name="宝巫迦"]唔……只能如此了。
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
 [name="宝巫迦"]两位，吾去解决雪山之中的那个能量点，你们只要想办法自保就好！
 [dialog]
@@ -184,7 +184,7 @@
 [charslot(slot="m",name="avg_4215_buddyC_1#1$4",focus="m")]
 [name="政宗"]嗯？义经在问，梓兰你为什么一直在拉开距离喵？你的箭很准，但你好像在下意识地回避近身的危险喵。
 [charslot(slot="m",name="avg_1048_orchd2_1#10$2",focus="m")]
-[name="梓兰"]（被看穿了吗......）
+[name="梓兰"]（被看穿了吗……）
 [charslot(slot="m",name="avg_npc_2104_1#1$2",focus="m")]
 [dialog]
 [CameraShake(duration=2, xstrength=60, ystrength=60, vibrato=70, randomness=80, fadeout=true, block=false)]
@@ -223,9 +223,9 @@
 [charslot(slot="m",name="avg_1049_catap2a_1#1$1",afrom=0,ato=1,duration=0.4)]
 [Delay(time=1.2)]
 [CameraShake(duration=0.6, xstrength=5, ystrength=8, vibrato=30, randomness=90, block=false)]
-[multiline(name="空爆")] 呜哇！好烫！成功了......
+[multiline(name="空爆")] 呜哇！好烫！成功了……
 [charslot(slot="m",name="avg_1049_catap2a_1#7$1",focus="m")]
-[multiline(name="空爆")] 但是......身体好麻......
+[multiline(name="空爆")] 但是……身体好麻……
 [charslot(slot="m",name="avg_1048_orchd2_1#5$2",focus="m")]
 [name="梓兰"]你受伤了！快退后！
 [charslot(slot="m",name="avg_1049_catap2a_1#8$1",focus="m")]
@@ -298,7 +298,7 @@
 [charslot(slot="m",name="avg_1048_orchd2_1#11$2",focus="m")]
 [name="梓兰"]你——
 [charslot(slot="m",name="avg_1049_catap2_1#11$2",focus="m")]
-[name="空爆"]糟了......感觉身体好轻——
+[name="空爆"]糟了……感觉身体好轻——
 [charslot(slot="m",name="avg_1048_orchd2_1#11$2",focus="m")]
 [name="梓兰"]唉，笨蛋。
 [dialog]
@@ -329,18 +329,18 @@
 [name="梓兰"]唉，我就知道，你拿上这把武器，就多半会变成这样子。
 [name="空爆"]是——嘶，好疼！但是，梓兰姐，你不觉得很有趣吗？狩猎真是太好玩了。
 [name="梓兰"]你这一身伤，我是看不出有什么好玩的。
-[name="空爆"]就是那种......拼尽全力，用智慧和勇气战胜比自己强大无数倍的对手的感觉！
+[name="空爆"]就是那种……拼尽全力，用智慧和勇气战胜比自己强大无数倍的对手的感觉！
 [name="梓兰"]我可不想懂。
 [name="梓兰"]我只看到你为了所谓的“帅气”，连我的命令都不听了。
-[name="空爆"]我那不是不听命令啦！我......
+[name="空爆"]我那不是不听命令啦！我……
 [name="梓兰"]义经说得没错。
 [name="空爆"]欸？义经说什么了来着？
 [name="梓兰"]他说我一直在下意识地回避近身战斗。他说对了。
 [name="梓兰"]但你呢，空爆？政宗也说你太乱来了。你难道就不觉得自己刚才是在用自己的命去赌吗？
-[name="空爆"]我......
-[name="空爆"]（政宗也说我乱来......但是，不那么做的话，就感觉......就感觉抓不住那一瞬间的机会......）
-[name="空爆"]（那种心脏快要跳出来的感觉，那种把一切都赌在那一瞬间的感觉......）
-[name="梓兰"]......
+[name="空爆"]我……
+[name="空爆"]（政宗也说我乱来……但是，不那么做的话，就感觉……就感觉抓不住那一瞬间的机会……）
+[name="空爆"]（那种心脏快要跳出来的感觉，那种把一切都赌在那一瞬间的感觉……）
+[name="梓兰"]……
 [name="梓兰"]我真搞不懂，对你来说，狩猎到底是什么。
 [dialog]
 [charslot]
@@ -374,7 +374,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
 [name="宝巫迦"]然后，将吾等分散，想要各个击破。
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
-[name="宝巫迦"]不过，你犯了两个错误......
+[name="宝巫迦"]不过，你犯了两个错误……
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
 [name="宝巫迦"]第一，你没有意识到，梓兰小姐和空爆小姐很强。
 [charslot(slot="m",name="avg_npc_2100_1#9$1",focus="m")]
@@ -402,7 +402,7 @@
 [charslot(duration=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_2100_1#8$1",focus="m")]
-[name="宝巫迦"]......
+[name="宝巫迦"]……
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -440,7 +440,7 @@
 [charslot(slot="m",name="avg_npc_2100_1#10$1",focus="m")]
 [name="宝巫迦"]咕——
 [charslot(slot="m",name="avg_npc_2100_1#10$1",focus="m")]
-[name="宝巫迦"]它的进攻比刚才凶猛了好几倍......
+[name="宝巫迦"]它的进攻比刚才凶猛了好几倍……
 [charslot(slot="m",name="avg_npc_2104_1#1$1",focus="m")]
 [PlaySound(key="$d_avg_erthshkng")]
 [name="“异兽”熔火蜗"]（愤怒的吼叫）
@@ -456,7 +456,7 @@
 [Background(image="71_g6_lavacaverns",screenadapt="coverall",fadetime=3)]
 [Delay(time=3)]
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]居然将周围的环境彻底改变成了火山......
+[name="宝巫迦"]居然将周围的环境彻底改变成了火山……
 [Dialog]
 [charslot]
 [CameraShake(duration=2, xstrength=25, ystrength=25, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -468,7 +468,7 @@
 [CameraShake(duration=2, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [delay(time=3)]
 [charslot(slot="m",name="avg_npc_2100_1#5$1",focus="m")]
-[name="宝巫迦"]它要干什么......
+[name="宝巫迦"]它要干什么……
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]
 [name="宝巫迦"]难道它想要引发火山爆发？！
 [charslot(slot="m",name="avg_npc_2100_1#6$1",focus="m")]

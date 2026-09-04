@@ -10,8 +10,8 @@
 [Background(image="43_g7_towngreenhouse",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 玛格达尔很难说清自己对花的喜爱从何处来。
-也许源于幼时带去学校的花收获到的赞叹，或是父母手把手教她修剪枝叶时的温情、与祖父边逛种子市场边吃雪糕的快乐......
-乃至于后来，坐在花房里，看着孩童给母亲挑花的童真，小伙给爱人买花的羞涩，新妇为装点家里购买花朵时的憧憬......
+也许源于幼时带去学校的花收获到的赞叹，或是父母手把手教她修剪枝叶时的温情、与祖父边逛种子市场边吃雪糕的快乐……
+乃至于后来，坐在花房里，看着孩童给母亲挑花的童真，小伙给爱人买花的羞涩，新妇为装点家里购买花朵时的憧憬……
 她喜爱与花相随的这一切温暖而安逸的感觉，她曾相信这便是生活该有的样子。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -28,14 +28,14 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m",duration=1)]
 [delay(time=1)]
-[name="面带愁容的女士"]玛格达尔......你有空吗？这是，新鲜的南瓜派，给你带的。
+[name="面带愁容的女士"]玛格达尔……你有空吗？这是，新鲜的南瓜派，给你带的。
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m",duration=2)]
 [delay(time=2.5)]
 [name="玛格达尔"]贝琳，你不用这样。是你父亲的问题吗？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]嗯......三番两次麻烦你上门，太不好意思了。你就收下吧。
+[name="贝琳"]嗯……三番两次麻烦你上门，太不好意思了。你就收下吧。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]他这两天更糊涂了，说实话，我都有点怕他了。
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
@@ -43,15 +43,15 @@
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]越来越严重了，本来只是不让开窗，现在连开门进屋都要大惊小怪。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]今天早上，我进屋的时候，迎面就看到他举着锄头要扑过来......幸好后来他认出是我。
+[name="贝琳"]今天早上，我进屋的时候，迎面就看到他举着锄头要扑过来……幸好后来他认出是我。
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]太危险了......他的身体怎么样了？
+[name="玛格达尔"]太危险了……他的身体怎么样了？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]他那死倔的脾气，疼也不会喊的。但最近他肚子右边的皮肤摸起来硬硬的，我怕结晶有扩散。想麻烦你上门看看......
+[name="贝琳"]他那死倔的脾气，疼也不会喊的。但最近他肚子右边的皮肤摸起来硬硬的，我怕结晶有扩散。想麻烦你上门看看……
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]再怎么怨，他也是自己老爹......要不是经历了那种事，他也不会变成这样的。
+[name="贝琳"]再怎么怨，他也是自己老爹……要不是经历了那种事，他也不会变成这样的。
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
-[name="玛格达尔"]好......你稍等，我准备一下，马上就去。
+[name="玛格达尔"]好……你稍等，我准备一下，马上就去。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -63,15 +63,15 @@
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]好了，贝琳，我们走吧。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]呀，玛格达尔，这花......不行，不能要你的。
+[name="贝琳"]呀，玛格达尔，这花……不行，不能要你的。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]你自己的花房被毁成这样，还让出来给我们当诊室用。你好不容易种点花，我们怎么能要？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]我知道花对你来说，就像农田对老爹，都是感情的寄托......可惜他现在，连自家门口的农田也不愿意再看一眼了。
+[name="贝琳"]我知道花对你来说，就像农田对老爹，都是感情的寄托……可惜他现在，连自家门口的农田也不愿意再看一眼了。
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]带上吧。我现在每天在诊室忙都忙不过来，也没什么时间照料花，带给你父亲，正好给我减减负。
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
-[name="玛格达尔"]他以前......
+[name="玛格达尔"]他以前……
 [dialog]
 [charslot]
 玛格达尔本想说老人以前常来自己的花房散步，但收住了话头。
@@ -96,9 +96,9 @@
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
 [name="帕特尔"]（悄声）玛格达尔。
 [charslot(slot="m",name="avg_494_vendla_1#8$1",focus="m")]
-[name="玛格达尔"]（迟疑地放低音量）你......好？我们需要这样小声吗？是你的父亲在睡觉？
+[name="玛格达尔"]（迟疑地放低音量）你……好？我们需要这样小声吗？是你的父亲在睡觉？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]（悄声）不是。是老爹和帕特尔有点......小误解。
+[name="贝琳"]（悄声）不是。是老爹和帕特尔有点……小误解。
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
 [name="帕特尔"]是小误解。见自己的未婚妻却能体验偷情的刺激。惊喜吧~
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
@@ -118,9 +118,9 @@
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]（悄声）帕特尔！你赶紧回去吧，老爹今天情况特别不好。我的头也一直在痛，不想跟你吵。
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
-[name="帕特尔"]那，这......算了，当我没来过吧。
+[name="帕特尔"]那，这……算了，当我没来过吧。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]......我们进屋去吧，玛格达尔。这些事......不谈也罢。
+[name="贝琳"]……我们进屋去吧，玛格达尔。这些事……不谈也罢。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -148,16 +148,16 @@
 [charslot(slot="r",name="avg_494_vendla_1#4$1",focus="r")]
 [name="玛格达尔"]唔！
 [charslot(slot="r",name="avg_494_vendla_1#6$1",focus="r")]
-[name="玛格达尔"]抱歉......我只是想帮你采血。
+[name="玛格达尔"]抱歉……我只是想帮你采血。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]玛格达尔，没事吧？有没有撞到哪里？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]爸爸！你怎么可以推人？你看看清楚，她是玛格达尔，她要来帮你看矿石病！
 [charslot(slot="m",name="avg_494_vendla_1#5$1",focus="m")]
-[name="玛格达尔"]贝琳......贝琳，我没事，我们先安抚他的情绪，避免对他大喊大叫。
+[name="玛格达尔"]贝琳……贝琳，我没事，我们先安抚他的情绪，避免对他大喊大叫。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]天天这样，我已经......好吧，他认不出你来的，还是我来固定他的手吧。
+[name="贝琳"]天天这样，我已经……好吧，他认不出你来的，还是我来固定他的手吧。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="老哈利"]别碰我！少了一样，少了！少了！全都被魔族佬抢走了！
@@ -168,13 +168,13 @@
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]（替他手臂消毒）对，冷静下来，也不要看我的针。说说看，你匣子里的是什么？
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]是......我的旧顶针......孩子妈妈的青金石项链......从劳伦家借来的手帕......还少一样......一样新东西。
+[name="老哈利"]是……我的旧顶针……孩子妈妈的青金石项链……从劳伦家借来的手帕……还少一样……一样新东西。
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]（将采血针刺入静脉）啊，原来是四样东西，给贝琳结婚准备的？你接着说，怎么会少了一样新东西，去哪儿了？
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]被......魔族佬夺走了。
+[name="老哈利"]被……魔族佬夺走了。
 [charslot(slot="m",name="avg_494_vendla_1#2$1",focus="m")]
-[name="玛格达尔"]......魔族佬已经走了，老哈利。他们夺走了我们很多东西，但那已经是过去的事了。
+[name="玛格达尔"]……魔族佬已经走了，老哈利。他们夺走了我们很多东西，但那已经是过去的事了。
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]你看，我给你带什么了？你以前很喜欢鸢尾的，它现在就是这个屋里的新东西，不是吗？
 [dialog]
@@ -190,9 +190,9 @@
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]今天辛苦你了，玛格达尔。他的情况怎么样？
 [charslot(slot="m",name="avg_494_vendla_1#8$1",focus="m")]
-[name="玛格达尔"]具体的情况得看报告。但是，你在他肚子上摸到的，恐怕确实是扩散的结晶。这样的发展速度......
+[name="玛格达尔"]具体的情况得看报告。但是，你在他肚子上摸到的，恐怕确实是扩散的结晶。这样的发展速度……
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]他似乎一直在期盼着你的婚礼......你和帕特尔究竟......
+[name="玛格达尔"]他似乎一直在期盼着你的婚礼……你和帕特尔究竟……
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]你觉得，他还能撑多久？
 [charslot(slot="m",name="avg_494_vendla_1#8$1",focus="m")]
@@ -204,9 +204,9 @@
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m",duration=1)]
 [delay(time=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="帕特尔"]啊......！我不是在偷听！
+[name="帕特尔"]啊……！我不是在偷听！
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]魔族佬......还敢上我家来！我的锄头呢......我打死你个魔族佬！
+[name="老哈利"]魔族佬……还敢上我家来！我的锄头呢……我打死你个魔族佬！
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]玛格达尔，快出来。把门关上！
 [Dialog]
@@ -222,7 +222,7 @@
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]帕特尔！你在门外做什么！我不是让你回去吗！
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
-[name="帕特尔"]我......谁知道你们突然开门了！
+[name="帕特尔"]我……谁知道你们突然开门了！
 [charslot]
 [name="门内的怒吼"]贝琳！快进来！
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
@@ -231,29 +231,29 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="门内的怒吼"]别想带走我的女儿！！！
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]（突然痛哭）我受够了，真是......
+[name="贝琳"]（突然痛哭）我受够了，真是……
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]贝琳......来这边坐一会儿，手帕。
+[name="玛格达尔"]贝琳……来这边坐一会儿，手帕。
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
 [name="玛格达尔"]好啦，别怪帕特尔了。他好不容易为你烤了蛋糕，想把它留在门口给你。对吗，帕特尔？
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
-[name="帕特尔"]......我为我刚才的口吻道歉。
+[name="帕特尔"]……我为我刚才的口吻道歉。
 [charslot(slot="m",name="avg_494_vendla_1#5$1",focus="m")]
-[name="玛格达尔"]你父亲见到帕特尔的反应......这就是你们的婚礼延迟的原因吗？
+[name="玛格达尔"]你父亲见到帕特尔的反应……这就是你们的婚礼延迟的原因吗？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]（抽泣）我知道这不是他的错，也不是老爹的错......可这难道是我的错吗？
+[name="贝琳"]（抽泣）我知道这不是他的错，也不是老爹的错……可这难道是我的错吗？
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
 [name="玛格达尔"]这当然不是你的错。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]老爹......本来很喜欢帕特尔。但是......
+[name="贝琳"]老爹……本来很喜欢帕特尔。但是……
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]妈妈出事那天，只有老爹在。就在老爹最珍惜的这片田里，妈妈的血还留在那里......
+[name="贝琳"]妈妈出事那天，只有老爹在。就在老爹最珍惜的这片田里，妈妈的血还留在那里……
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]我不知道老爹当时看到了什么，但他一定深深记住了魔族佬的那对角。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]从此以后他就糊涂了，只要看到任何长角的人，他就会发狂大叫。到后来，他变得不敢出门，连窗也都要封起来。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]他就是害怕记起那天的事......但越是害怕，他越是一遍遍提醒自己那天发生了什么......他把自己留在了那一天里。
+[name="贝琳"]他就是害怕记起那天的事……但越是害怕，他越是一遍遍提醒自己那天发生了什么……他把自己留在了那一天里。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]我知道你提起婚礼是想提醒我，他已经没多少时间了。可是，这个婚礼真的还能在他面前举行吗？玛格达尔，你说呢？
 [Dialog]
@@ -265,25 +265,25 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [dialog]
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]玛格达尔......又是我。那天......谢谢你。这是帕特尔烤的曲奇饼。
+[name="贝琳"]玛格达尔……又是我。那天……谢谢你。这是帕特尔烤的曲奇饼。
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]（摇头）没事的。你父亲的体检报告已经整理好了，给。有其他我帮得上忙的地方，也请说。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]其实......真的有。你上次坚持送给老爹的那盆鸢尾，你还记得吗？你说那是给我结婚用的“新东西”，老爹他，喜欢得不得了。
+[name="贝琳"]其实……真的有。你上次坚持送给老爹的那盆鸢尾，你还记得吗？你说那是给我结婚用的“新东西”，老爹他，喜欢得不得了。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]他总是望着那盆花发呆，情绪也比先前平静一些了。但是......
+[name="贝琳"]他总是望着那盆花发呆，情绪也比先前平静一些了。但是……
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]花谢了？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]（为难地点头）他变本加厉地大喊大叫......我实在，不想问你讨要你的花的。
+[name="贝琳"]（为难地点头）他变本加厉地大喊大叫……我实在，不想问你讨要你的花的。
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]贝琳，花只是花，最重要的，还是喜欢它的人。
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]我一直觉得，人们收到花后的快乐，才是我最喜欢的。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]谢谢你，玛格达尔......
+[name="贝琳"]谢谢你，玛格达尔……
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
-[name="玛格达尔"]幸好那天我看他很喜欢，后来又特地去买了几盆成花。这些不仅够他看的，连做花环都足够了......啊。
+[name="玛格达尔"]幸好那天我看他很喜欢，后来又特地去买了几盆成花。这些不仅够他看的，连做花环都足够了……啊。
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]对了，你说你父亲不想看到帕特尔的那对角，因为那对角会让他想起萨卡兹来。
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
@@ -291,13 +291,13 @@
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]我们试过戴帽子，遮住那对角。他冲上去就把帽子扯下来，然后就闹得一塌糊涂。
 [charslot(slot="m",name="avg_494_vendla_1#8$1",focus="m")]
-[name="玛格达尔"]嗯......我不太确定，我是说，改变他的印象。比如，给帕特尔戴上农事节的花环，这是只属于我们小镇的回忆。
+[name="玛格达尔"]嗯……我不太确定，我是说，改变他的印象。比如，给帕特尔戴上农事节的花环，这是只属于我们小镇的回忆。
 [charslot(slot="m",name="avg_494_vendla_1#8$1",focus="m")]
 [name="玛格达尔"]以前，每年农事节前都有编不完的花环，我忙得觉都来不及睡，镇上好多人都会来帮忙，你父亲也帮过我的。
 [charslot(slot="m",name="avg_494_vendla_1#2$1",focus="m")]
-[name="玛格达尔"]那样的日子......花房里总是充满笑声，或许，他会记得呢......我只是一说，或许我想得太简单了。
+[name="玛格达尔"]那样的日子……花房里总是充满笑声，或许，他会记得呢……我只是一说，或许我想得太简单了。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]......可以帮忙编一个花环吗，我想试一试。
+[name="贝琳"]……可以帮忙编一个花环吗，我想试一试。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -317,7 +317,7 @@
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
 [name="老哈利"]我们的农事节！我们的农事节都被你们毁了！
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
-[name="帕特尔"]我......我这就走，你别打了！
+[name="帕特尔"]我……我这就走，你别打了！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -327,31 +327,31 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [dialog]
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
-[name="帕特尔"]嘶......这角要是真被他砸断了，也就没那么多麻烦了。
+[name="帕特尔"]嘶……这角要是真被他砸断了，也就没那么多麻烦了。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]没事吧，哪里受伤没？
 [charslot(slot = "m", name = "avg_npc_498_1#1$1",focus="m")]
 [name="帕特尔"]有，很痛。心里痛。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]......
+[name="贝琳"]……
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]抱歉......都是我出的坏主意。我怎么会想不到......你父亲一想到农事节，只会更怨恨萨卡兹。
+[name="玛格达尔"]抱歉……都是我出的坏主意。我怎么会想不到……你父亲一想到农事节，只会更怨恨萨卡兹。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]这不是你的坏主意，是我们两个都想尝试的。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]如果我幸福起来就能让他找到他丢掉的东西，哪怕只有那么一会儿，我也想要努力争取......
+[name="贝琳"]如果我幸福起来就能让他找到他丢掉的东西，哪怕只有那么一会儿，我也想要努力争取……
 [charslot(slot="m",name="avg_494_vendla_1#2$1",focus="m")]
-[name="玛格达尔"]他丢掉的东西......是什么呢。
+[name="玛格达尔"]他丢掉的东西……是什么呢。
 [charslot(slot="m",name="avg_494_vendla_1#2$1",focus="m")]
 [name="玛格达尔"]我们会不会关注错了方向？
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]我想他丢掉的，是曾经最重视的......人，和事物。妈妈，农田，现在他不想丢掉我。
+[name="贝琳"]我想他丢掉的，是曾经最重视的……人，和事物。妈妈，农田，现在他不想丢掉我。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]所以，我们应该关注的不是那对角！
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]嗯！我们也许可以试试，关注他丢掉的东西。
 [charslot(slot="m",name="avg_494_vendla_1#5$1",focus="m")]
-[name="玛格达尔"]可是，我很担心我们会再次弄巧成拙......
+[name="玛格达尔"]可是，我很担心我们会再次弄巧成拙……
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]不会比现在更糟糕了。你有什么主意，请告诉我！
 [Dialog]
@@ -374,13 +374,13 @@
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]今天给你带了烤饼干，味道熟悉吗？是你的准女婿烤的。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]准......女婿......
+[name="老哈利"]准……女婿……
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]啊......外面是什么声音！有人！
+[name="老哈利"]啊……外面是什么声音！有人！
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]是风，老哈利，风把种子吹得满地都是。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]种子......现在是......什么季节了......
+[name="老哈利"]种子……现在是……什么季节了……
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]只要想种，什么季节都能播种的。再寒的冬天，我们也都撑过来了，不是吗？
 [Dialog]
@@ -398,20 +398,20 @@
 [delay(time=2)]
 [name="玛格达尔"]老哈利，又是我。今天给你带的是你准女婿烤的鳞肉派。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]外面的声音......总是有......你一来就有声音！
+[name="老哈利"]外面的声音……总是有……你一来就有声音！
 [charslot(slot="m",name="avg_494_vendla_1#4$1",focus="m")]
 [name="玛格达尔"]怎、怎么会呢。外面是风的声音。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
 [name="老哈利"]又是风？你骗我！
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
-[name="玛格达尔"]是......是种子发芽了，风吹得枝叶互相碰撞的声音。
+[name="玛格达尔"]是……是种子发芽了，风吹得枝叶互相碰撞的声音。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]枝叶......外面那片田里......只有......啊啊啊！
+[name="老哈利"]枝叶……外面那片田里……只有……啊啊啊！
 [dialog]
 [charslot]
 一提及门外那片田，老人痛苦地抱住了头。
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
-[name="玛格达尔"]（轻声）......种子是很顽强的，老哈利。无论在怎样的土地上，种子总会破土而出的。
+[name="玛格达尔"]（轻声）……种子是很顽强的，老哈利。无论在怎样的土地上，种子总会破土而出的。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -427,11 +427,11 @@
 [delay(time=2)]
 [name="玛格达尔"]老哈利，我来了。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]又来了......外面有人在跑来跑去，在忙什么！你是不是想说，还是风！
+[name="老哈利"]又来了……外面有人在跑来跑去，在忙什么！你是不是想说，还是风！
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]你亲眼看看，好吗？我今天来，是想请你看看你的窗外的。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]窗外......是......
+[name="老哈利"]窗外……是……
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
 [name="老哈利"]不、不能开窗。不能向外看。
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
@@ -479,21 +479,21 @@
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
 [name="贝琳"]我们以为这里荒了这么久，花又是移植来的，或许成活不了。玛格达尔每次来探望你的时候，都会教我们照料这些花。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]（含泪）你看它......真的开了。
+[name="贝琳"]（含泪）你看它……真的开了。
 [charslot(slot="m",name="avg_494_vendla_1#6$1",focus="m")]
-[name="玛格达尔"]老哈利，抱歉，擅作主张了......如果你不喜欢，我们就......
+[name="玛格达尔"]老哈利，抱歉，擅作主张了……如果你不喜欢，我们就……
 [dialog]
 [charslot]
 老人走进田里，却并不去看花，而是蹲下身，抓起一把土。粗糙的手指轻捻，泥土从指缝掉落。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]那天......她想来田里收红薯。战争不知道什么时候才能结束，她怕家里会断粮......
+[name="老哈利"]那天……她想来田里收红薯。战争不知道什么时候才能结束，她怕家里会断粮……
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]我如果，拦住她就好了......
+[name="老哈利"]我如果，拦住她就好了……
 [dialog]
 [charslot]
 在老人的啜泣声中，玛格达尔看到，那时没有收的作物残留了腐烂的茎叶，与泥土融为一体。花正是开在这样的泥土里的。
 [charslot(slot = "m", name = "avg_npc_081",focus="m")]
-[name="老哈利"]......匣子，我的匣子......
+[name="老哈利"]……匣子，我的匣子……
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]在这里。
 [dialog]
@@ -518,11 +518,11 @@
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]嗯，不仅要照顾这里的病人，还要去镇医院的工地帮忙，恨不得把自己分成两半。能逃出来放松一会儿，我求之不得呢。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]等镇上的医院造好，这里是不是就可以腾出来了？你......怎么打算？
+[name="贝琳"]等镇上的医院造好，这里是不是就可以腾出来了？你……怎么打算？
 [charslot(slot="m",name="avg_494_vendla_1#1$1",focus="m")]
 [name="玛格达尔"]（低头看看桌子）
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]
-[name="贝琳"]花种订购手册......你终于决定要重建花房了吗？
+[name="贝琳"]花种订购手册……你终于决定要重建花房了吗？
 [charslot(slot="m",name="avg_494_vendla_1#9$1",focus="m")]
 [name="玛格达尔"]嗯，本来就是要重建的。
 [charslot(slot = "m", name = "avg_npc_418_1#1$1",focus="m")]

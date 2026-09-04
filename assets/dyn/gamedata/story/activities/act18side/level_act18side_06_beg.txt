@@ -37,7 +37,7 @@
 [Delay(time=1)]
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [Character(name="avg_4046_ebnhlz_1#3$1",name2="avg_npc_486_1#10$1",focus=1)]
-[name="黑键"]......
+[name="黑键"]……
 [Character(name="avg_4046_ebnhlz_1#3$1",name2="avg_npc_486_1#1$1",focus=2)]
 [name="别格勒"]怎么不走了？
 [Character(name="avg_4046_ebnhlz_1#1$1",name2="avg_npc_486_1#1$1",focus=1)]
@@ -54,24 +54,24 @@
 [Character(name="avg_4046_ebnhlz_1#1$1",name2="avg_npc_486_1#1$1",focus=2)]
 [name="别格勒"]只是源石虫而已。源石虫你都没见过？
 [Character(name="avg_4046_ebnhlz_1#6$1",name2="avg_npc_486_1#1$1",focus=1)]
-[name="黑键"]真的......只是源石虫吗？
+[name="黑键"]真的……只是源石虫吗？
 [Character(name="avg_4046_ebnhlz_1#6$1",name2="avg_npc_486_1#7$1",focus=2)]
 [name="别格勒"]堂堂乌提卡伯爵，居然被源石虫吓得走不动路，我也算是长见识了。
 [Character(name="avg_4046_ebnhlz_1#6$1",name2="avg_npc_486_1#7$1",focus=1)]
-[name="黑键"]我还是觉得有点不对劲......
+[name="黑键"]我还是觉得有点不对劲……
 [Character(name="avg_4046_ebnhlz_1#6$1",name2="avg_npc_486_1#3$1",focus=2)]
 [name="别格勒"]别傻了，赶紧走！
 [Character(name="avg_4046_ebnhlz_1#1$1",name2="avg_npc_486_1#3$1",focus=1)]
-[name="黑键"]......好，好。
+[name="黑键"]……好，好。
 [Dialog]
 [playsound(key="$e_atk_airshipvibe")]
 [playsound(key="$e_atk_vibe_n",delay=0.4)]
 [Character(name="avg_npc_486_1#4$1")]
 [name="别格勒"]等等，等等。
-[name="别格勒"]这个源石虫的数量......
+[name="别格勒"]这个源石虫的数量……
 [Character(name="avg_npc_486_1#7$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="别格勒"]......这绝对不正常！会出大事的！
+[name="别格勒"]……这绝对不正常！会出大事的！
 [Character(name="avg_npc_486_1#3$1")]
 [name="别格勒"]跑起来！快！
 [Dialog]
@@ -104,12 +104,12 @@
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",fadetime=1.5)]
 [delay(time=2)]
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",focus=1)]
-[name="黑键"]呼、呼......
-[name="黑键"]你脑子里是装了下水道的地图吗......
+[name="黑键"]呼、呼……
+[name="黑键"]你脑子里是装了下水道的地图吗……
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",focus=2)]
 [name="别格勒"]有时间跟我阴阳怪气，还不如多喘几口。
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",focus=1)]
-[name="黑键"]不是阴、阴阳怪气，我是真觉得每条岔路长得都一样......
+[name="黑键"]不是阴、阴阳怪气，我是真觉得每条岔路长得都一样……
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",focus=2)]
 [name="别格勒"]休息好了吗？
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",focus=1)]
@@ -133,7 +133,7 @@
 [delay(time=2)]
 [character(name="avg_4046_ebnhlz_1#10$1",name2="avg_npc_486_1#7$1",focus=1)]
 [name="黑键"]（喘息声）
-[name="黑键"]我......不行了......
+[name="黑键"]我……不行了……
 [character(name="avg_4046_ebnhlz_1#10$1",name2="avg_npc_486_1#1$1",focus=2)]
 [name="别格勒"]正好，我们也找到了该找的人。
 [character(name="avg_4046_ebnhlz_1#10$1",name2="avg_npc_486_1#9$1",focus=2)]
@@ -157,8 +157,8 @@
 [character(name="avg_4046_ebnhlz_1#4$1",name2="avg_npc_486_1#7$1",focus=2)]
 [name="别格勒"]这种气体对感染者的效果比对你强多了，乌提卡伯爵。
 [character(name="avg_4046_ebnhlz_1#4$1",name2="avg_npc_486_1#7$1",focus=1)]
-[name="黑键"]这么说，车尔尼、芙蓉......
-[name="黑键"]白垩也......？！
+[name="黑键"]这么说，车尔尼、芙蓉……
+[name="黑键"]白垩也……？！
 [character(name="avg_4046_ebnhlz_1#4$1",name2="avg_npc_486_1#7$1",focus=2)]
 [name="别格勒"]很好，你已经明白情况了。
 [name="别格勒"]拉赫曼，马上安抚这些源石虫，让它们恢复原状，否则我有权直接将你击毙。
@@ -175,7 +175,7 @@
 [name="拉赫曼"]“虫自阴暗中涌出，肆意喷吐毁灭的前奏。”
 [name="拉赫曼"]还需要我一个词一个词地帮您解释吗？
 [Character(name="avg_npc_486_1#7$1")]
-[name="别格勒"]......所以说，让那个预言成真，对你们有什么好处？
+[name="别格勒"]……所以说，让那个预言成真，对你们有什么好处？
 [Character(name="avg_npc_488_1$1")]
 [name="拉赫曼"]这就不劳您费心了——
 [Dialog]
@@ -241,25 +241,25 @@
 [name="黑键"]那你能不能趁开锁时行行好，告诉我，预言的内容究竟是什么？
 [character(name="avg_4046_ebnhlz_1#1$1",name2="char_empty",focus=2)]
 [name="别格勒"]你没听过？
-[name="别格勒"]......算了，反正已经传开了。
+[name="别格勒"]……算了，反正已经传开了。
 [PlaySound(key="$d_avg_doorknob", volume=0.9)]
 [name="别格勒"]越过高高的山岗，恶魔踏入黄昏的中央。
 [name="别格勒"]血中的恶疾隐伏，款款招来蔓延的死亡。
 [name="别格勒"]虫自阴暗中涌出，肆意喷吐毁灭的前奏。
 [name="别格勒"]终曲的合奏消散，灾祸带走最后的阳光。
 [character(name="avg_4046_ebnhlz_1#1$1",name2="char_empty",focus=1)]
-[name="黑键"]......合奏......灾祸？
+[name="黑键"]……合奏……灾祸？
 [character(name="avg_4046_ebnhlz_1#1$1",name2="char_empty",focus=2)]
 [name="别格勒"]是啊。
 [name="别格勒"]说实话，我到现在都很好奇最后一句是什么意思。
 [name="别格勒"]前面都已经很明白了。
-[name="别格勒"]第一句是罗德岛的芙蓉来到夕照区，第二句是假愈现象蔓延......
+[name="别格勒"]第一句是罗德岛的芙蓉来到夕照区，第二句是假愈现象蔓延……
 [character(name="avg_4046_ebnhlz_1#1$1",name2="char_empty",focus=1)]
 [name="黑键"]你连这个都知道？
 [character(name="avg_4046_ebnhlz_1#1$1",name2="char_empty",focus=2)]
 [name="别格勒"]你以为密探的工作是什么？
 [character(name="avg_4046_ebnhlz_1#1$1",name2="char_empty",focus=1)]
-[name="黑键"]......
+[name="黑键"]……
 [character(name="avg_4046_ebnhlz_1#1$1",name2="char_empty",focus=2)]
 [name="别格勒"]现在第三句也明白了，差的就只有最后一句——
 [PlaySound(key="$d_avg_doorknob", volume=0.9)]
@@ -269,7 +269,7 @@
 [PlaySound(key="$d_gen_dooropen", volume=0.7)]
 [delay(time=1)]
 [character(name="avg_npc_486_1#7$1")]
-[name="别格勒"]这是......
+[name="别格勒"]这是……
 [character(name="avg_4046_ebnhlz_1#3$1")]
 [name="黑键"]实验室？！
 [Dialog]
@@ -306,8 +306,8 @@
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#6$1",focus=2)]
 [name="车尔尼"]人心惶惶先不论，那些被熏倒的人情况怎么样？
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#6$1",focus=1)]
-[name="礼貌的感染者"]不是很乐观......尤其是最近矿石病有好转的那些人，反应都很剧烈。
-[name="礼貌的感染者"]我们已经在联系医院了，但那些医院的接线员一听说是夕照区的事，都不是很积极......
+[name="礼貌的感染者"]不是很乐观……尤其是最近矿石病有好转的那些人，反应都很剧烈。
+[name="礼貌的感染者"]我们已经在联系医院了，但那些医院的接线员一听说是夕照区的事，都不是很积极……
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#10$1",focus=2)]
 [name="车尔尼"]不积极？！
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#6$1",focus=2)]
@@ -317,7 +317,7 @@
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#6$1",focus=2)]
 [name="车尔尼"]如果你们打的电话他们不积极，我光是打打电话也不可能有什么用，这事必须得我本人出马。
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#6$1",focus=1)]
-[name="礼貌的感染者"]明天就是音乐会了，如果您也中了毒......
+[name="礼貌的感染者"]明天就是音乐会了，如果您也中了毒……
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#6$1",focus=2)]
 [name="车尔尼"]要是因为这种莫名其妙的事件出现了伤亡，就算音乐会如期举行，还能有人全心全意享受音乐吗？
 [character(name="avg_npc_496_1$1",name2="avg_4047_pianst_1#3$1",focus=2)]
@@ -339,11 +339,11 @@
 [character(name="avg_npc_499_1$1",name2="avg_npc_498_1$1",focus=1)]
 [name="疲惫的感染者"]怎么这么多源石虫！
 [character(name="avg_npc_499_1$1",name2="avg_npc_498_1$1",focus=2)]
-[name="神经质的感染者"]好臭！这什么味道啊......
+[name="神经质的感染者"]好臭！这什么味道啊……
 [character(name="avg_npc_499_1$1",name2="avg_npc_498_1$1",focus=1)]
 [name="疲惫的感染者"]我扶着你，咱们赶紧跑吧。
 [character(name="avg_npc_499_1$1",name2="avg_npc_498_1$1",focus=2)]
-[name="神经质的感染者"]看来......预言是真的......
+[name="神经质的感染者"]看来……预言是真的……
 [Dialog]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -357,7 +357,7 @@
 [delay(time=1.5)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="疲惫的感染者"]该死的虫子，别过来！
-[name="疲惫的感染者"]克劳泽，克劳泽！站起来——咳、咳......
+[name="疲惫的感染者"]克劳泽，克劳泽！站起来——咳、咳……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="疲惫的感染者"]救命！来人啊，谁来救救我们！
 [Dialog]
@@ -369,11 +369,11 @@
 [playsound(key="$e_atk_vibe_n",delay=0.4)]
 [musicvolume(volume=0.4, fadetime=1)]
 [character(name="avg_npc_499_1$1",name2="char_empty",focus=1)]
-[name="疲惫的感染者"]大提琴声......源石虫往声音传来的方向去了？
+[name="疲惫的感染者"]大提琴声……源石虫往声音传来的方向去了？
 [name="疲惫的感染者"]谢谢你，过路人！
-[name="疲惫的感染者"]克劳泽，起来，扶着我的肩膀......
+[name="疲惫的感染者"]克劳泽，起来，扶着我的肩膀……
 [character(name="avg_npc_499_1$1",name2="char_empty",focus=-1)]
-[name="神经质的感染者"]......
+[name="神经质的感染者"]……
 [character(name="avg_npc_499_1$1",name2="char_empty",focus=1)]
 [name="疲惫的感染者"]扶着我，我们快走吧！
 [dialog]
@@ -408,9 +408,9 @@
 [character(name="avg_4046_ebnhlz_1#6$1",name2="avg_npc_486_1#1$1",fadetime=1.5)]
 [delay(time=2)]
 [character(name="avg_4046_ebnhlz_1#6$1",name2="avg_npc_486_1#1$1",focus=1)]
-[name="黑键"]呼、呼、呼......
-[name="黑键"]终于......出来了......
-[name="黑键"]现在......怎么办，直接用法术炸翻这些虫子吗？
+[name="黑键"]呼、呼、呼……
+[name="黑键"]终于……出来了……
+[name="黑键"]现在……怎么办，直接用法术炸翻这些虫子吗？
 [character(name="avg_4046_ebnhlz_1#6$1",name2="avg_npc_486_1#7$1",focus=2)]
 [name="别格勒"]——不对劲。
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",focus=1)]
@@ -418,7 +418,7 @@
 [character(name="avg_4046_ebnhlz_1#8$1",name2="avg_npc_486_1#7$1",focus=2)]
 [name="别格勒"]源石虫在朝一个地方汇集——
 [character(name="avg_4046_ebnhlz_1#4$1",name2="avg_npc_486_1#7$1",focus=1)]
-[name="黑键"]大提琴声......？！
+[name="黑键"]大提琴声……？！
 [character(name="avg_4046_ebnhlz_1#10$1",name2="avg_npc_486_1#7$1",focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="黑键"]白垩，你在做什么？快停下——咳、咳咳！

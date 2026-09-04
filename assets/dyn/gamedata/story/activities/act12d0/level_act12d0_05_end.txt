@@ -9,9 +9,9 @@
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  所以你怎么会带着这群阿达克利斯来袭击的？
 [Character(name="char_187_ccheal_1#2", name2="char_337_utage_1", focus=2)]
-[name="宴"]  唔，我只是看到这里有个村庄，就想着打群架应该挺好玩的......
+[name="宴"]  唔，我只是看到这里有个村庄，就想着打群架应该挺好玩的……
 [Character(name="char_337_utage_1", name2="char_201_moeshd#3", focus=2)]
-[name="可颂"]  ......该说不愧是你吗，一旦涉及到战斗，就完全变了个人呢。
+[name="可颂"]  ……该说不愧是你吗，一旦涉及到战斗，就完全变了个人呢。
 [Character(name="char_337_utage_1", name2="char_201_moeshd#3", focus=1)]
 [name="宴"]  呜呜，对不起啦。
 [Character(name="char_187_ccheal_1", name2="char_337_utage_1", focus=1)]
@@ -33,7 +33,7 @@
 [name="宴"]  而且，说到底，一开始是说这里是个度假的好地方我才来的，但是这里哪里像度假胜地啊！
 [Character(name="char_337_utage_1")]
 [Delay(time=1)]
-[name="宴"]  嗯？有人在悄悄靠近我？那些人是......阿达克利斯？
+[name="宴"]  嗯？有人在悄悄靠近我？那些人是……阿达克利斯？
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -56,19 +56,19 @@
 [Character(name="char_337_utage_1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]  也就是说，你把一支部族的族长打败了，他们认为你是新的族长，所以才会跟着你。
 [Character(name="char_337_utage_1", name2="avg_npc_075", focus=1)]
-[name="宴"]  诶？他们明明听不懂我说话，这也行？！我还以为他们只是好玩才跟着我的......
+[name="宴"]  诶？他们明明听不懂我说话，这也行？！我还以为他们只是好玩才跟着我的……
 [Character(name="char_337_utage_1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]  在这里，你只要够强大，就可以。
 [Character(name="char_337_utage_1", name2="avg_npc_075", focus=1)]
-[name="宴"]  这可怎么办啊，博士......
-[Decision(options="你自己解决。;......;不如你就留在这里当族长好了。",values="1;2;3")]
+[name="宴"]  这可怎么办啊，博士……
+[Decision(options="你自己解决。;……;不如你就留在这里当族长好了。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_337_utage_1")]
 [name="宴"]  呜呜呜，博士好绝情！
 [Predicate(references="2")]
 [Character(name="char_337_utage_1")]
 [name="宴"]  呜呜，博士不要用那种眼神看我嘛。
-[name="宴"]  我又不是故意的......
+[name="宴"]  我又不是故意的……
 [Predicate(references="3")]
 [Character(name="char_337_utage_1")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
@@ -117,7 +117,7 @@
 [name="宴"]  当然是，海边，沙滩，阳伞，冰淇淋啊！
 [name="宴"]  为了这个，我还特地准备了新的泳装，而且出发前就穿在衣服下面了！
 [Character(name="char_337_utage_1", name2="char_201_moeshd", focus=2)]
-[name="可颂"]  诶，我倒是单纯地没有什么事做就跟来看看了......
+[name="可颂"]  诶，我倒是单纯地没有什么事做就跟来看看了……
 [Character(name="char_187_ccheal_1#2", name2="char_201_moeshd#3", focus=1)]
 [name="嘉维尔"]  呃，我一开始就没说过有这种东西吧。
 [Character(name="char_187_ccheal_1#2", name2="char_337_utage_1", focus=2)]
@@ -145,7 +145,7 @@
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]  好吧，那麻烦你们把这些书带给她。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
-[name="嘉维尔"]  让我看看，《都市丽人》，《100天教你如何学会企业管理》，《如何成为一个时尚专家》......
+[name="嘉维尔"]  让我看看，《都市丽人》，《100天教你如何学会企业管理》，《如何成为一个时尚专家》……
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [name="嘉维尔"]  这都什么奇奇怪怪的书啊！
@@ -160,21 +160,21 @@
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]  嘉维尔，她为了追上你，可是非常努力的啊。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
-[name="嘉维尔"]  ......不用你说我也知道。
+[name="嘉维尔"]  ……不用你说我也知道。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]  不过，我自己对外界也没有那么了解，而且我每次能带的书也就那么一点，所以我也不确定她从这些书上学到的东西到底有没有用，啊哈哈。
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=1)]
-[name="嘉维尔"]  ......难怪我觉得她好像有点怪怪的。
+[name="嘉维尔"]  ……难怪我觉得她好像有点怪怪的。
 [name="嘉维尔"]  等等，祖玛玛的萨尔贡语难道也是你教的？
 [Character(name="char_187_ccheal_1", name2="avg_npc_075", focus=2)]
 [name="依娜姆"]  不是。其实这一点我也挺好奇的，她虽然也有让我帮她找机械相关的书籍，但就好像突然学会了萨尔贡语。
 [name="依娜姆"]  而且她还在教部族里的人学。
 [Character(name="char_187_ccheal_1")]
-[name="嘉维尔"]  ......博士，你怎么看？
-[Decision(options="野心不小啊。;......;这块石头怎么卖？",values="1;2;3")]
+[name="嘉维尔"]  ……博士，你怎么看？
+[Decision(options="野心不小啊。;……;这块石头怎么卖？",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1")]
-[name="嘉维尔"]  果然博士也这么想吗......
+[name="嘉维尔"]  果然博士也这么想吗……
 [Predicate(references="2")]
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  你的意思是让我自己去想吗？
@@ -191,7 +191,7 @@
 [name="依娜姆"]  也许吧，我是觉得即使不过上所谓更好的生活，这里的生活也已经足够了就是了。
 [name="依娜姆"]  虽然你们生活在城市里的人大概没有办法理解。
 [Character(name="avg_npc_075", name2="char_201_moeshd#4", focus=2)]
-[name="可颂"]  是吗......
+[name="可颂"]  是吗……
 [Character(name="char_337_utage_1", name2="char_201_moeshd", focus=1)]
 [name="宴"]  啊，我多少能理解一点！毕竟我在东国的老家也是乡下呢。
 [Character(name="char_337_utage_1", name2="char_201_moeshd", focus=2)]

@@ -11,7 +11,7 @@
 [charslot(slot="r",name="avg_npc_088",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="r",name="avg_npc_088",focus="r")]
-[name="外勤干员"]嗯......快到坐标位置了，虽然有点偏。
+[name="外勤干员"]嗯……快到坐标位置了，虽然有点偏。
 [charslot(slot="l",name="avg_341_sntlla_1#1$1",focus="l")]
 [name="寒檀"]我预估了一下迁徙人群的行进路线，如果到了目标位置没有看到人，再往坐标地点走也不迟。
 [name="寒檀"]那位萨米人口中的“甘泉”和“菇木”都是有树的部族，族树行进时动静非常大，不会找不到的。
@@ -21,15 +21,15 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_089",focus="m")]
-[name="侦察干员"]知道了......
+[name="侦察干员"]知道了……
 [name="侦察干员"]要是我有把五天路程规划到四天走完的本事，当初也不至于被军队勒令退役嘛。
 [charslot(slot="m",name="avg_341_sntlla_1#8$1",focus="m")]
-[name="寒檀"]其实也有急行军的成分在里面，是我太着急了......
+[name="寒檀"]其实也有急行军的成分在里面，是我太着急了……
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [name="外勤干员"]也不是您的错，最近萨米情况确实很复杂，科考队往北走，萨米战士往北走，部族却有许多选择了南迁。
 [name="外勤干员"]这次有部族集体迁移时愿意让我们来照料感染者，本身就是出于信任，苦点累点也没什么大不了的。
 [charslot(slot="m",name="avg_341_sntlla_1#1$1",focus="m")]
-[name="寒檀"]......谢谢。
+[name="寒檀"]……谢谢。
 [Dialog]
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [Delay(time=1)]
@@ -39,7 +39,7 @@
 [playsound(key="$transmission")]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_341_sntlla_1#11$1",focus="m")]
-[name="寒檀"]......？
+[name="寒檀"]……？
 [Dialog]
 [charslot]
 寒檀撇过头靠近通讯器，但除了杂音，她什么都没听到。
@@ -73,7 +73,7 @@
 [charslot(slot="m",name="avg_npc_963_1#1$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
-[name="寒檀"]您好......“甘泉”的战士。
+[name="寒檀"]您好……“甘泉”的战士。
 [charslot(slot="m",name="avg_npc_963_1#1$1")]
 [name="萨米战士"]你怎么知——你是萨满？
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
@@ -105,28 +105,28 @@
 [name="外勤干员"]嗯好。
 [name="外勤干员"]诺曼，赶紧过来当翻译！
 [charslot(slot="m",name="avg_npc_089",focus="m")]
-[name="侦察干员"]好嘞好嘞......这就来......
+[name="侦察干员"]好嘞好嘞……这就来……
 [charslot(slot="m",name="avg_npc_963_1#1$1")]
-[name="萨米战士"]他们看起来......就像是来打仗的......
+[name="萨米战士"]他们看起来……就像是来打仗的……
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
 [name="寒檀"]应对病痛从来都是没有硝烟的战争。
 [charslot(slot="m",name="avg_npc_963_1#1$1")]
-[name="萨米战士"]确实是这样......
+[name="萨米战士"]确实是这样……
 [name="萨米战士"]看来姐姐赌对了，有你们照料他们，大部队就不用因为对这病一窍不通而吵个半天了。
 [charslot(slot="m",name="avg_341_sntlla_1#10$1")]
 [name="寒檀"]我刚刚来的时候看到有四个树冠在移动，这次是四个部族在集体迁移吗？
 [charslot(slot="m",name="avg_341_sntlla_1#11$1")]
 [name="寒檀"]但我看人数好像不太对，即使是四个大部族，也不应该有那么多人。
 [charslot(slot="m",name="avg_npc_963_1#1$1")]
-[name="萨米战士"]我们也希望只有四个部族在迁移啊......
+[name="萨米战士"]我们也希望只有四个部族在迁移啊……
 [name="萨米战士"]七个，萨米的姐妹，这里有七个部族。
 [name="萨米战士"]其中有两个部族的雪祀为了响应埃克提尔尼尔的号召，带着战士和族树一起北上了。
 [charslot(slot="m",name="avg_341_sntlla_1#7$1")]
 [name="寒檀"]带着族树去？！萨米会允诺吗？
 [charslot(slot="m",name="avg_npc_963_1#1$1")]
-[name="萨米战士"]这我就不太清楚了......
+[name="萨米战士"]这我就不太清楚了……
 [name="萨米战士"]总之，我们这里的情况也很混乱。
-[name="萨米战士"]还好有五棵族树将我们护在中间，这样至少晚上能够安稳入眠......
+[name="萨米战士"]还好有五棵族树将我们护在中间，这样至少晚上能够安稳入眠……
 [charslot(slot="m",name="avg_341_sntlla_1#8$1")]
 [name="寒檀"]五棵吗？
 [charslot(slot="m",name="avg_npc_963_1#1$1")]
@@ -138,7 +138,7 @@
 [name="萨米战士"]怎么了？
 [charslot(slot="m",name="avg_341_sntlla_1#2$1")]
 [name="寒檀"]不，没什么。
-[name="寒檀"]“亡寒”部族的人......大概在哪个位置？
+[name="寒檀"]“亡寒”部族的人……大概在哪个位置？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -154,7 +154,7 @@
 [name="侦察干员"]（萨米语）我怎么会骗你们呢，你看，我也是感染者啊。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [name="外勤干员"]感染者们融合率都不高，我们带来的药应该够用，等支援过来，口粮甚至能够接济断粮的萨米人。
-[name="外勤干员"]......
+[name="外勤干员"]……
 [name="外勤干员"]寒檀小姐人呢？
 [name="外勤干员"]（瞟了眼手表）
 [name="外勤干员"]诺曼，有看到寒檀小姐吗？
@@ -168,8 +168,8 @@
 [name="侦察干员"]出什么事了吗？！
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [name="外勤干员"]没有，你忙你的！
-[name="外勤干员"]（那是......那会是，她的部族吗？）
-[name="外勤干员"]（但我没记错的话，寒檀小姐她......）
+[name="外勤干员"]（那是……那会是，她的部族吗？）
+[name="外勤干员"]（但我没记错的话，寒檀小姐她……）
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [StopSound(channel="1",fadetime=1.5)]
@@ -184,7 +184,7 @@
 她离开部族多久了？几年，还是十几年？
 不满与失望确已淡去，取而代之的是点滴怀念。
 她还隐约记得几张熟悉的面庞，记得些部族内部的习俗与传统。
-来自过去的温暖与美好仍在她的记忆里回荡，只是......
+来自过去的温暖与美好仍在她的记忆里回荡，只是……
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_341_sntlla_1#1$1",duration=1.5)]
@@ -199,7 +199,7 @@
 [charslot(slot="m",name="avg_npc_962_1#1$1")]
 [name="亡寒战士"]你是哪个部族的？
 [charslot(slot="m",name="avg_341_sntlla_1#8$1")]
-[name="寒檀"]我......
+[name="寒檀"]我……
 [Dialog]
 [charslot]
 她向来诚实待人，无论是友人，还是敌人。
@@ -211,12 +211,12 @@
 [name="亡寒战士"]族长还在营帐里，我带你过去吧。
 [name="亡寒战士"]我该怎么称呼你，同胞？
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
-[name="寒檀"]请叫我寒檀吧......
+[name="寒檀"]请叫我寒檀吧……
 [charslot(slot="m",name="avg_npc_962_1#1$1")]
 [name="亡寒战士"]寒檀啊，真是个好名字。
 [name="亡寒战士"]请跟我来。
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
-[name="寒檀"]有劳你了......
+[name="寒檀"]有劳你了……
 [Dialog]
 [charslot]
 从前，她因老树被遗忘而愤恨。
@@ -244,7 +244,7 @@
 [Delay(time=3.5)]
 [name="亡寒战士"]请进吧。
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
-[name="寒檀"]谢谢......
+[name="寒檀"]谢谢……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -256,34 +256,34 @@
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
 [name="亡寒萨满"]欢迎你的到来，朋友，请问我有什么能够帮你的？
 [charslot(slot="m",name="avg_341_sntlla_1#7$1")]
-[name="寒檀"]您是......老埃拉斯的孙女？
+[name="寒檀"]您是……老埃拉斯的孙女？
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
 [name="亡寒萨满"]我确实是。
 [charslot(slot="m",name="avg_341_sntlla_1#10$1")]
 [name="寒檀"]我还记得，代理族长之位的应该是您的兄长，他去哪里了？
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
-[name="亡寒萨满"]他......
-[name="亡寒萨满"]......
+[name="亡寒萨满"]他……
+[name="亡寒萨满"]……
 [name="亡寒萨满"]兄长跟随着埃克提尔尼尔的步伐前往北方了，现在由我代理族长。
 [name="亡寒萨满"]您究竟是谁？
 [charslot(slot="m",name="avg_341_sntlla_1#10$1")]
-[name="寒檀"]......
+[name="寒檀"]……
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
 [name="寒檀"]老树拾回的弃婴，寒檀木之女，不知道您还有没有印象。
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
-[name="亡寒萨满"]我想想......
+[name="亡寒萨满"]我想想……
 [Delay(time=0.5)]
-[name="亡寒萨满"]真的很抱歉......我只记得送别老树的仪式，但对于曾经生活在老树下的日子，还有那些失去的人，确实记不太清了。
+[name="亡寒萨满"]真的很抱歉……我只记得送别老树的仪式，但对于曾经生活在老树下的日子，还有那些失去的人，确实记不太清了。
 [Dialog]
 [charslot]
 如今，她也成了过去。
 就像老树那样。
 [charslot(slot="m",name="avg_341_sntlla_1#10$1")]
-[name="寒檀"]......没事。
+[name="寒檀"]……没事。
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
 [name="亡寒萨满"]您之前和哨卫所说的送信，应该也只是托词吧。
 [charslot(slot="m",name="avg_341_sntlla_1#11$1")]
-[name="寒檀"]嗯......抱歉......
+[name="寒檀"]嗯……抱歉……
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
 [name="亡寒萨满"]我并没有责怪您的意思，我的部族在这段时间经历了太多流离，很多过往的东西都遗失了。
 [name="亡寒萨满"]如果您真的希望我做什么，或者证明些什么的话，就请开口吧。
@@ -291,7 +291,7 @@
 [charslot]
 她确实希望对方能够回忆起来，可在那之后呢？
 想起一个黜人又能改变什么？
-既然关于她的过去已无足轻重......
+既然关于她的过去已无足轻重……
 就让它带着遗憾离去吧。
 [charslot(slot="m",name="avg_341_sntlla_1#11$1")]
 [name="寒檀"]是我唐突了，桦树之女阿尔玛。
@@ -301,18 +301,18 @@
 [name="寒檀"]我想听听您的意见。
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
 [name="亡寒萨满"]您怎么会知道我的名字？
-[name="亡寒萨满"]......
-[name="亡寒萨满"]我......我知道了。
-[name="亡寒萨满"]我相信您是......曾是部族的一员。
-[name="亡寒萨满"]嗯......
+[name="亡寒萨满"]……
+[name="亡寒萨满"]我……我知道了。
+[name="亡寒萨满"]我相信您是……曾是部族的一员。
+[name="亡寒萨满"]嗯……
 [name="亡寒萨满"]如您所见，我们仍在迁移途中，一路上有许多琐碎的事，但我们都还应付得过来，没有必要以此来劳烦您。
-[name="亡寒萨满"]但我们的故地......我是指迁移到林地后生存的地方。我们在离开前没能举行告慰先祖的仪式......
+[name="亡寒萨满"]但我们的故地……我是指迁移到林地后生存的地方。我们在离开前没能举行告慰先祖的仪式……
 [charslot(slot="m",name="avg_341_sntlla_1#8$1")]
 [name="寒檀"]是因为北方的灾异吗？
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
-[name="亡寒萨满"]是......当时一些现象已经快要触及族人们生活的地方了，所以我们走得很匆忙。
+[name="亡寒萨满"]是……当时一些现象已经快要触及族人们生活的地方了，所以我们走得很匆忙。
 [name="亡寒萨满"]部族还未有新的雪祀，而萨满又无力面对灾异。
-[name="亡寒萨满"]......
+[name="亡寒萨满"]……
 [name="亡寒萨满"]您应该也是萨满吧。
 [charslot(slot="m",name="avg_341_sntlla_1#10$1")]
 [name="寒檀"]我能行使萨满的职责。
@@ -331,16 +331,16 @@
 [charslot(duration=1.5)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_965_1#1$1")]
-[name="亡寒萨满"]呼......
+[name="亡寒萨满"]呼……
 [name="亡寒萨满"]真是个奇怪的人啊，是爷爷的学生吗？
-[name="亡寒萨满"]如果爷爷还在，他可能也希望我可以像她那样带着自信与谦逊领导部族吧......
+[name="亡寒萨满"]如果爷爷还在，他可能也希望我可以像她那样带着自信与谦逊领导部族吧……
 [name="亡寒萨满"]（掏出随身携带的琥珀挂坠）
 [name="亡寒萨满"]如果你碰上这样的事，会怎么应对呢？
 [Dialog]
 [charslot]
 萨满怔怔看着一串故人留给她的首饰。那是她小时候跟一位年轻萨满学徒一起玩耍时获得的赠礼。
 萨满还记得，那是一位菲林。
-她的眼瞳，和刚刚的访客一模一样......
+她的眼瞳，和刚刚的访客一模一样……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -367,14 +367,14 @@
 [name="寒檀"]有部族的人反映说坍缩范式已经很接近当时的居住区域，万一这些坍缩蔓延过来就不好办了。
 [name="寒檀"]我需要去调查一下。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
-[name="外勤干员"]寒檀小姐你一个人去吗？这会不会......太冒险了？
+[name="外勤干员"]寒檀小姐你一个人去吗？这会不会……太冒险了？
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
 [name="寒檀"]可这不是人多就能解决的事，不是吗？
 [name="寒檀"]我受过萨满的训练，知道怎么应对污染，而这里也只有我有余力去解决它。
 [charslot(slot="m",name="avg_341_sntlla_1#12$1")]
 [name="寒檀"]不会有事的。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
-[name="外勤干员"]嗯......
+[name="外勤干员"]嗯……
 [name="外勤干员"]那我现在就要向办事处报告这件事，让他们赶紧请几位萨满，最好是雪祀过来协助处理一下。
 [name="外勤干员"]还有提丰，等她从科考队回来的时候也要她绕到那儿去再看一眼。
 [charslot(slot="m",name="avg_341_sntlla_1#11$1")]
@@ -385,7 +385,7 @@
 [name="寒檀"]就按你刚才说的做吧，谨慎点总是不会错的。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [name="外勤干员"]已经在准备了。
-[name="外勤干员"]那......一路小心，寒檀小姐。
+[name="外勤干员"]那……一路小心，寒檀小姐。
 [charslot(slot="m",name="avg_341_sntlla_1#12$1")]
 [name="寒檀"]替我向还在工作的各位道个歉。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
@@ -406,7 +406,7 @@
 [charslot(slot="m",name="avg_npc_089",focus="m")]
 [name="侦察干员"]都很支持我们的工作，情绪也很稳定，暂时没有什么需要费心的事了。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
-[name="外勤干员"]呼......那就好。
+[name="外勤干员"]呼……那就好。
 [name="外勤干员"]那就过来搭把手吧，诺曼，我们得发一封急电去察帕特。
 [Dialog]
 [stopmusic(fadetime=1.5)]
@@ -430,7 +430,7 @@
 [charslot(slot="m",name="avg_341_sntlla_1#10$1")]
 [name="寒檀"]这里有信号？
 [name="寒檀"]（操作通讯器）
-[name="寒檀"]不一定是通讯......
+[name="寒檀"]不一定是通讯……
 [charslot(slot="m",name="avg_341_sntlla_1#11$1")]
 [name="寒檀"]邪魔？
 [Dialog]
@@ -441,7 +441,7 @@
 [name="寒檀"]它还没有攻击性，但也很接近了。
 [charslot(slot="m",name="avg_341_sntlla_1#11$1")]
 [name="寒檀"]灾异的征兆。
-[name="寒檀"]试试哥伦比亚人的检测方法吧......
+[name="寒檀"]试试哥伦比亚人的检测方法吧……
 [name="寒檀"]1234、1334、4444。
 [name="寒檀"]1+1=4。
 [name="寒檀"]接下来是——
@@ -451,8 +451,8 @@
 [playsound(key="$keyboard")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_341_sntlla_1#8$1")]
-[name="寒檀"]结论完全不一致......
-[name="寒檀"]嘶......
+[name="寒檀"]结论完全不一致……
+[name="寒檀"]嘶……
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
 [name="寒檀"]不驱离污染，做什么都是徒劳。
 [charslot(slot="m",name="avg_341_sntlla_1#3$1")]
@@ -471,7 +471,7 @@
 [Delay(time=2)]
 [name="寒檀"]没了族树，这里就几乎得不到庇护。
 [charslot(slot="m",name="avg_341_sntlla_1#3$1")]
-[name="寒檀"]那就......让老树最后一次庇护它的族人吧。
+[name="寒檀"]那就……让老树最后一次庇护它的族人吧。
 [Dialog]
 [charslot]
 寒檀从怀里拿出一截枯枝——那是她对老树最后的留念，又割破自己的手指，将血滴在枯枝和大地上。
@@ -484,7 +484,7 @@
 朦胧的灰雾开始消散，然而，植物也逐渐发黄萎靡。
 过去是祝福，也是诅咒。
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
-[name="寒檀"]还不够......
+[name="寒檀"]还不够……
 [Dialog]
 [charslot]
 寒檀环视四周，最后把目光落在了新生族树曾经落脚的地方。
@@ -501,7 +501,7 @@
 [name="寒檀"]愿那伫立与落地的眼，关注四方。
 [name="寒檀"]祖灵之父，遗世先祖，驰行于大地上的千万魂灵啊。
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
-[name="寒檀"]敬请注视......敬请注视，敬请注视！
+[name="寒檀"]敬请注视……敬请注视，敬请注视！
 [name="寒檀"]请倾听我，西蒙娜，寒檀木之女谦卑的请求。
 [name="寒檀"]消融此地的污秽，还萨米以洁净！
 [Dialog]
@@ -519,11 +519,11 @@
 那是自然无法净化的异质，也是萨米诸多污染的源头。
 [Dialog]
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
-[name="寒檀"]......
-[name="寒檀"]“黑印”......！
+[name="寒檀"]……
+[name="寒檀"]“黑印”……！
 [Dialog]
 [charslot]
-[name="？？？"]嘶......呼......
+[name="？？？"]嘶……呼……
 [Dialog]
 [playMusic(intro="$tense_intro", key="$tense_loop", volume=0.6)]
 [playsound(key="$e_atk_magic_m")]
@@ -547,7 +547,7 @@
 没有人会希望自己在毫无准备的情况下面对“皇帝的利刃”。
 更何况眼前的这柄利刃，已被邪魔彻底异化。
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
-[name="寒檀"]哈......哈......
+[name="寒檀"]哈……哈……
 眼前这个棘手的敌人，越是攻击它，它体内的邪魔便越容易四散。
 可不做些什么，它又将屠戮生灵，污染大地，践踏萨米的每一寸土地。
 即使身旁由密文唤来的自然祝福仍在生效，寒檀依旧要为每次攻击可能带来的灾难考虑。
@@ -570,7 +570,7 @@
 在自然的净化下，此地的坍缩消弭于无形。
 [charslot(slot="m",name="avg_341_sntlla_1#8$1")]
 [name="寒檀"]它逃走了？
-[name="寒檀"]还是说......
+[name="寒檀"]还是说……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -605,8 +605,8 @@
 [playMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-这里离科考队所在区域并不遥远，而灾异虽无规律，但总也有些征兆可循......
-比如说......
+这里离科考队所在区域并不遥远，而灾异虽无规律，但总也有些征兆可循……
+比如说……
 让更多的“生”，更多的“有”归于虚无。
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
 [name="寒檀"]我得赶紧让提丰知道这件事。
@@ -621,7 +621,7 @@
 寒檀举起法杖，将其重重插入大地。
 冰霜依照她的意愿在地上化出了图形。
 [charslot(slot="m",name="avg_341_sntlla_1#3$1")]
-[name="寒檀"]恩姬娜......恩姬娜......
+[name="寒檀"]恩姬娜……恩姬娜……
 [name="寒檀"]萨米啊，我知道您注视着他们的命运。
 [name="寒檀"]请将这预兆，送往我朋友身边。
 [Dialog]
@@ -636,7 +636,7 @@
 [charslot(slot="m",name="avg_341_sntlla_1#2$1")]
 [name="寒檀"]大家的安危就靠你了，提丰。
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
-[name="寒檀"]我还有......嘱托要完成。
+[name="寒檀"]我还有……嘱托要完成。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -656,7 +656,7 @@
 [name="寒檀"]父亲、母亲、埃拉斯雪祀阁下、诸位先祖们。
 [name="寒檀"]凭着族长的旨意，我来到这里，为诸位献上祭品。
 [name="寒檀"]愿诸位先祖仍能护佑吾族，照拂族人不安的心，在梦中为他们指明方向。
-[name="寒檀"]也希望......
+[name="寒檀"]也希望……
 [charslot(slot="m",name="avg_341_sntlla_1#2$1")]
 [name="寒檀"]诸位能被铭记，免遭忘却的忧虑。
 [charslot(slot="m",name="avg_341_sntlla_1#3$1")]
@@ -682,7 +682,7 @@
 [playsound(key="$transmission")]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_341_sntlla_1#3$1")]
-[name="寒檀"]......
+[name="寒檀"]……
 [Dialog]
 [charslot]
 [playsound(key="$transmission")]
@@ -699,7 +699,7 @@
 [name="寒檀"]“黑曜石”？
 [name="寒檀"]“黑印”就是从那个方向来的。
 [charslot(slot="m",name="avg_341_sntlla_1#9$1")]
-[name="寒檀"]......
+[name="寒檀"]……
 [name="寒檀"]乌萨斯人又想要隐藏些什么！
 [Dialog]
 [charslot]
@@ -722,8 +722,8 @@
 [Delay(time=2)]
 [name="寒檀"]坐标的位置就是这里。
 [name="寒檀"]已经很深入冰原了，乌萨斯人究竟又在谋划什么？
-[name="寒檀"]我能感觉得到，这里污染重重......
-[name="寒檀"]是在......这儿吗？
+[name="寒檀"]我能感觉得到，这里污染重重……
+[name="寒檀"]是在……这儿吗？
 [Dialog]
 [stopsound(channel="1",fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -775,7 +775,7 @@
 而那空缺的位置上，只有一把插在雪中的乌萨斯军刀。
 [stopmusic(fadetime=1.5)]
 [charslot(slot="m",name="avg_341_sntlla_1#8$1")]
-[name="寒檀"]这就是你的来处吗，“黑印”......？
+[name="寒檀"]这就是你的来处吗，“黑印”……？
 [Dialog]
 [charslot]
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
@@ -792,7 +792,7 @@
 [charslot]
 然而与此同时，她心中也浮现出了深深的担忧。
 [charslot(slot="m",name="avg_341_sntlla_1#2$1")]
-[name="寒檀"]（乌萨斯的战争机器集体行动都只能落得这等下场......）
+[name="寒檀"]（乌萨斯的战争机器集体行动都只能落得这等下场……）
 [name="寒檀"]（埃克提尔尼尔，你撕裂萨米的部族，将萨米人与未来赌在一场无望的远征上，可曾想过失败的后果？）
 [name="寒檀"]（萨米应允了你，我不会干涉。）
 [charslot(slot="m",name="avg_341_sntlla_1#3$1")]
@@ -839,13 +839,13 @@
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [name="外勤干员"]你也消失太久了，再晚点我就要向本舰报告你在任务里失踪了知不知道！
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
-[name="寒檀"]我这不是回来了吗......
+[name="寒檀"]我这不是回来了吗……
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [name="外勤干员"]我知道你要面对的事情又多又棘手，但，求求你下次给我点心理准备好不好，万一你哪天真的消失了，大家该怎么办啊？！
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
 [name="寒檀"]好了好了，是我的错，对不起，菲伊。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
-[name="外勤干员"]你别以为说声对不起就可以把我打发了......
+[name="外勤干员"]你别以为说声对不起就可以把我打发了……
 [charslot(slot="m",name="avg_341_sntlla_1#12$1")]
 [name="寒檀"]我给你做烤角兽肉，好吗？
 [charslot(slot="m",name="avg_npc_088",focus="m")]
@@ -853,7 +853,7 @@
 [charslot(slot="m",name="avg_341_sntlla_1#12$1")]
 [name="寒檀"]好不好？
 [charslot(slot="m",name="avg_npc_088",focus="m")]
-[name="外勤干员"]哼......看在你这么诚恳的分上，这次就算了。
+[name="外勤干员"]哼……看在你这么诚恳的分上，这次就算了。
 [charslot(slot="m",name="avg_341_sntlla_1#13$1")]
 [name="寒檀"]谢谢你，菲伊，你真是个可靠的朋友。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
@@ -863,7 +863,7 @@
 [charslot(slot="m",name="avg_341_sntlla_1#12$1")]
 [name="寒檀"]啊对了，科考队回来了吗？
 [charslot(slot="m",name="avg_npc_088",focus="m")]
-[name="外勤干员"]啊......确实，您还不知道。
+[name="外勤干员"]啊……确实，您还不知道。
 [name="外勤干员"]科考队在进冰原之前遇到了点麻烦，好像是乌萨斯军官亡魂之类可怕的家伙。
 [name="外勤干员"]幸好提丰有准备，大家都安全撤回来了，不然要真有了人员伤亡，嗐，不好交代的呀。
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
@@ -883,9 +883,9 @@
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
 [name="寒檀"]然后明天去察帕特，见一下麦哲伦和提丰。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
-[name="外勤干员"]您可真是停不下来呢......
+[name="外勤干员"]您可真是停不下来呢……
 [charslot(slot="m",name="avg_341_sntlla_1#12$1")]
-[name="寒檀"]这是每个萨米萨满......也是罗德岛干员应该做的事，仅此而已。
+[name="寒檀"]这是每个萨米萨满……也是罗德岛干员应该做的事，仅此而已。
 [charslot(slot="m",name="avg_npc_088",focus="m")]
 [name="外勤干员"]我要是像您这么辛劳，可能过一个月就要去医疗部了。
 [name="外勤干员"]任务虽然重要，还是得注意劳逸结合啊。
@@ -896,7 +896,7 @@
 [name="外勤干员"]明天的事情明天再说。
 [name="外勤干员"]去吧去吧。
 [charslot(slot="m",name="avg_341_sntlla_1#1$1")]
-[name="寒檀"]啊......
+[name="寒檀"]啊……
 [charslot(slot="m",name="avg_341_sntlla_1#12$1")]
 [name="寒檀"]那我去休息了。
 [name="寒檀"]谢谢你，菲伊。

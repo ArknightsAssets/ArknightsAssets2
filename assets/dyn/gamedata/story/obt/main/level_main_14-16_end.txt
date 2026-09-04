@@ -9,9 +9,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="思维的灵光......在黯淡......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="意识......被无序的情绪吞噬殆尽......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="不再感知......不再被感知......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="思维的灵光……在黯淡……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="意识……被无序的情绪吞噬殆尽……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="不再感知……不再被感知……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=1.5)]
@@ -29,7 +29,7 @@
 [Delay(time=0.5)]
 航行于碎片大厦上空的堡垒最外层开始解体，漫天的碎片如铁雨般洒向大地。
 庞大的骸骨停在原地，它的神经束紧裹着飞空艇。
-死魂灵最后的思维正在消散......
+死魂灵最后的思维正在消散……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -40,12 +40,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="特蕾西娅，你向我许下了那个无可置疑的未来......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="而你的追随者......却成了你践行道路的阻碍。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="我同胞们的灵魂因数百年的炙烤而混乱......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="特蕾西娅，你向我许下了那个无可置疑的未来……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="而你的追随者……却成了你践行道路的阻碍。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="我同胞们的灵魂因数百年的炙烤而混乱……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="这处熔炉本该成为我的囚笼，是我用以自戕的行刑室——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="我背叛同族的罪孽尚未还清！", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="特蕾西娅，这是我最后能做的事......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="特蕾西娅，这是我最后能做的事……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=1)]
@@ -72,9 +72,9 @@
 [Delay(time=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Subtitle(text="至于你们——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="你们用虚伪的言语将自己放上道德的高地......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="用拯救的谎言来抹平萨卡兹为生存而留下的疤痕......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="你们......甚至不敢面对她的死亡——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="你们用虚伪的言语将自己放上道德的高地……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="用拯救的谎言来抹平萨卡兹为生存而留下的疤痕……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="你们……甚至不敢面对她的死亡——", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
@@ -91,7 +91,7 @@
 [Delay(time=1)]
 [name="？？？"]你何必来到这里呢。
 [Dialog]
-[Decision(options="......;特蕾西娅？", values="1;2")]
+[Decision(options="……;特蕾西娅？", values="1;2")]
 [Predicate(references="1;2")]
 [Dialog]
 [Background(image="49_g10_theresaoffice",screenadapt="coverall",fadetime=2.5, block=false)]
@@ -99,13 +99,13 @@
 [charslot(slot="m",name="avg_npc_1296_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1296_1#1$1",focus="m")]
-[name="特蕾西娅"]你来，是为了找阿米娅吗？还是为了......
+[name="特蕾西娅"]你来，是为了找阿米娅吗？还是为了……
 [Dialog]
 [charslot(slot="m",name="avg_npc_1296_1#1$1",focus="n")]
-[Decision(options="你受伤了......？;你身边的孩子......是阿米娅？", values="1;2")]
+[Decision(options="你受伤了……？;你身边的孩子……是阿米娅？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1296_1#1$1",focus="m")]
-[name="特蕾西娅"]这就是你的答案吧，博士......
+[name="特蕾西娅"]这就是你的答案吧，博士……
 [Dialog]
 [charslot]
 你试图跨步上前，但身体却无法动弹，眼前的场景与你隔着一道无法触碰的屏障。
@@ -113,15 +113,15 @@
 这是死魂灵强制让你看见的画面。
 真实的画面。
 [Dialog]
-[Decision(options="等等......他们是......", values="1")]
+[Decision(options="等等……他们是……", values="1")]
 [Predicate(references="1")]
-你看到了许多身影从你的身旁拥上前去......
-你记得那些人的武器与甲胄，你见过他们的背影，就在刚刚......
+你看到了许多身影从你的身旁拥上前去……
+你记得那些人的武器与甲胄，你见过他们的背影，就在刚刚……
 [Dialog]
 [Decision(options="这些人是飞空艇上的那些幽灵？！", values="1")]
 [Predicate(references="1")]
 他们是来保护特蕾西娅的吗？
-不，不是......
+不，不是……
 你看到了他们将手中的刀挥向了那位受伤的魔王——
 [musicvolume(volume=0, fadetime=2)]
 [Dialog]
@@ -137,7 +137,7 @@
 倒在血泊中的特蕾西娅，紧紧护着怀中熟睡的阿米娅。
 杀死她的凶手就环绕在你的身旁。
 你们是同谋。
-......
+……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -148,16 +148,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [musicvolume(volume=0.6, fadetime=1.5)]
 [Delay(time=1.5)]
-[Decision(options="这是什么......", values="1")]
+[Decision(options="这是什么……", values="1")]
 [Predicate(references="1")]
 这些画面一闪而过，意识回到现实。
 你看到W、凯尔希、阿米娅脸上的神色，你意识到，看到刚才画面的，并不是只有你一人。
 [charslot(slot="m",name="avg_1035_wisdel_1#6$2",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_003_kalts_1#2$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [Dialog]
 [charslot]
 [delay(time=0.5)]
@@ -165,7 +165,7 @@
 [Delay(time=2)]
 [Dialog]
 [charslot]
-[Decision(options="......W......;......凯尔希......;......阿米娅......", values="1;2;3")]
+[Decision(options="……W……;……凯尔希……;……阿米娅……", values="1;2;3")]
 [Predicate(references="1")]
 这位危险的雇佣兵此刻冷静得出奇，她似乎本该愤怒至极。
 但她并没有。
@@ -182,7 +182,7 @@
 [name="凯尔希"]如我之前告诉过你的，我对于这些过往已经知晓，但也有理由对你保密。
 [name="凯尔希"]我认同特蕾西娅当时的选择，告诉现在的你真相于事无补。
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="m")]
-[name="凯尔希"]可是......
+[name="凯尔希"]可是……
 [Dialog]
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="n")]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -192,7 +192,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
-[name="凯尔希"]博士......
+[name="凯尔希"]博士……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]的确，在切尔诺伯格的时候，甚至是在那之后，我都对你尚有怀疑。
 [name="凯尔希"]但你已经用一系列的选择证明了自己，你的确是我们的同行者。
@@ -211,7 +211,7 @@
 [delay(time=1)]
 [playMusic(intro="$distressed_intro", key="$distressed_loop", volume=0.6)]
 [charslot(slot="m",name="avg_1035_wisdel_1#9$2",focus="m")]
-[name="W"]......闭嘴。
+[name="W"]……闭嘴。
 [name="W"]你不配用特蕾西娅来挑拨离间。
 [name="W"]给我消失。
 [Dialog]
@@ -222,51 +222,51 @@
 [charslot(duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
-[name="W"]......够了。
+[name="W"]……够了。
 [name="W"]凯尔希，让你的怪物离我远点。我没有准备在现在动手。
 [name="W"]我知道，老东西不至于死到临头还捏造一段假的电影来骗人。
 [name="W"]我不是傻子，害死特蕾西娅的凶手，怎么着都数不出第二个人。
-[name="W"]当年的事总得有一个说法，但杀一个什么都不记得的人......
-[name="W"]......我提不起一点兴趣。
+[name="W"]当年的事总得有一个说法，但杀一个什么都不记得的人……
+[name="W"]……我提不起一点兴趣。
 [Dialog]
 [charslot]
 惊异，疑惑，悲伤。
 无法理解的真相像一柄重锤敲在你的心脏上。
 你迟迟没有从震惊中缓过神来，两人冷静的话语对你来说并不算宽恕。
 [Dialog]
-[Decision(options="阿米娅......", values="1")]
+[Decision(options="阿米娅……", values="1")]
 [Predicate(references="1")]
 你看向了一直沉默的女孩，她早已满脸泪痕。
 你想要张口说些什么，她却在你之前开了口。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]博士......我知道的。
-[name="阿米娅"]应该说......我早就猜到了。
+[name="阿米娅"]博士……我知道的。
+[name="阿米娅"]应该说……我早就猜到了。
 [charslot(slot="m",name="avg_003_kalts_1#4$1",focus="m")]
-[name="凯尔希"]阿米娅......？
+[name="凯尔希"]阿米娅……？
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]我还记得......在那场事故之后，凯尔希医生为什么要将博士送去切尔诺伯格疗伤。
+[name="阿米娅"]我还记得……在那场事故之后，凯尔希医生为什么要将博士送去切尔诺伯格疗伤。
 [name="阿米娅"]还有在决定去营救博士的时候，那些精英干员反对的理由。
 [name="阿米娅"]就算所有人都对真正的原因闭口不谈，我也可以猜到的。只有这一种可能。
 [Dialog]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="n")]
-[Decision(options="..................", values="1")]
+[Decision(options="………………", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]尽管猜到了，可我还是不理解......
-[name="阿米娅"]我认识的博士，那个救了我，带我走过许多地方，讲了许多故事的博士......
-[name="阿米娅"]那个将我带回巴别塔，想尽办法要治好我的矿石病，承诺我可以有未来的博士......
+[name="阿米娅"]尽管猜到了，可我还是不理解……
+[name="阿米娅"]我认识的博士，那个救了我，带我走过许多地方，讲了许多故事的博士……
+[name="阿米娅"]那个将我带回巴别塔，想尽办法要治好我的矿石病，承诺我可以有未来的博士……
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]那个善良的人，为什么会......想要杀死，同样善良、爱着所有人的特蕾西娅小姐......
+[name="阿米娅"]那个善良的人，为什么会……想要杀死，同样善良、爱着所有人的特蕾西娅小姐……
 [Dialog]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="n")]
 [Decision(options="我不记得。;我不知道。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]博士，我还有许多问题想要问你......
-[name="阿米娅"]救下我的你，谋杀特蕾西娅小姐的你，现在站在这里的你......到底哪一个，才是真正的Dr.{@nickname}？
+[name="阿米娅"]博士，我还有许多问题想要问你……
+[name="阿米娅"]救下我的你，谋杀特蕾西娅小姐的你，现在站在这里的你……到底哪一个，才是真正的Dr.{@nickname}？
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]可我始终不知道，怎么才能对你开口......
-[name="阿米娅"]从石棺中醒来后，虽然失去了记忆，但无论多么危险的情况，你始终和我们站在一起......我又该怎么相信，这样的你，是那个凶手。
+[name="阿米娅"]可我始终不知道，怎么才能对你开口……
+[name="阿米娅"]从石棺中醒来后，虽然失去了记忆，但无论多么危险的情况，你始终和我们站在一起……我又该怎么相信，这样的你，是那个凶手。
 [Dialog]
 [charslot]
 [Decision(options="我答应你。", values="1")]
@@ -287,7 +287,7 @@
 [Dialog]
 [charslot]
 飞空艇的甲板突然开始剧烈地震动，阿米娅立刻抓住了你的手。
-原本聚集在舱内的黑色阴影凌空绽放......
+原本聚集在舱内的黑色阴影凌空绽放……
 在绯红苍穹的映照下，一朵足以吞噬光明的黑花包裹住了整艘飞空艇。
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="m")]
 [name="凯尔希"]飞空艇正在崩溃。
@@ -324,7 +324,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.7, block=true)]
 [Delay(time=0.5)]
 笼罩你们思维的阴影已被驱散。
-金色的咒文冲破了黑色的阴影，落于飞空艇的损毁之处......
+金色的咒文冲破了黑色的阴影，落于飞空艇的损毁之处……
 文字在此解构，而后再次塑形，弥合破碎的舰体。
 [Dialog]
 [Decision(options="Logos！", values="1")]
@@ -341,7 +341,7 @@
 [Delay(time=2)]
 女妖的骨笔自他的手中垂下，落于阴影之上。
 以阴影为帷幕，女妖尽情挥笔将咒文书写其上。
-金色的脉络在阴影中流转，火焰逐渐熄灭......
+金色的脉络在阴影中流转，火焰逐渐熄灭……
 [Dialog]
 [PlaySound(key="$grenade_explosion",volume=0.7)]
 [CameraShake(duration=4, xstrength=40,ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -369,13 +369,13 @@
 [Blocker(a=1, r=255, g=255, b=255, fadetime=1, block=true)]
 [Background(image="bg_black",screenadapt="coverall", block=true)]
 [Delay(time=1)]
-[Decision(options="神经束......断了？", values="1")]
+[Decision(options="神经束……断了？", values="1")]
 [Predicate(references="1")]
 你们重新坠入了飞空艇。脚下的船体在震动，死魂灵也不再言语。
 阴影环绕流转在每一个人的脚下，仿佛嘲弄着你们。
 白色自结晶化的船体渗出，闪耀着洁净的光辉。
 温和。轻盈。安抚了一切的混乱与无序。
-光芒遮掩了阴影，变得越来越刺眼......
+光芒遮掩了阴影，变得越来越刺眼……
 纯净的白芒抹去了周遭的一切色彩。
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -393,25 +393,25 @@
 黑暗。宁静。
 起初，黑暗中的奇点诞生了最初的光。
 思维的光。情绪的光。新生的光。
-那束微弱的红光开始生长，膨胀......
-照亮了创造它的那只手......
+那束微弱的红光开始生长，膨胀……
+照亮了创造它的那只手……
 照亮了——
 [Dialog]
 [Image(image="50_i14", screenadapt="coverall",fadetime=4,block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [Delay(time=2)]
-[Decision(options="特蕾西娅......", values="1")]
+[Decision(options="特蕾西娅……", values="1")]
 [Predicate(references="1")]
-她自黑暗中走来......不，她一直就在那里。
+她自黑暗中走来……不，她一直就在那里。
 只是此刻，她选择短暂地将目光落在你们的身上。
 在她的怀抱之中，死魂灵溃散的意识重新凝聚。
-所有的悲伤，所有的不甘，所有的愤怒......
+所有的悲伤，所有的不甘，所有的愤怒……
 在她的抚慰之下都消散而去，死魂灵终于回归了平静。
 她将被死亡背弃的同胞抱在了怀中，她带来新生，她改写宿命。
 [Dialog]
 [Decision(options="特蕾西娅！", values="1")]
 [Predicate(references="1")]
-没有回应，但你从她的眼神中读出了异样的信息......
+没有回应，但你从她的眼神中读出了异样的信息……
 你不敢确认。
 你们所有人都因为她的出现而屏息，所有人都期待她将要吐露的第一句言语。
 寂静。
@@ -428,7 +428,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 她仿佛从未来过，这里没有留下任何痕迹。
-但所有人都清楚，她......终于出手了。
+但所有人都清楚，她……终于出手了。
 [charslot(slot="m",name="avg_1035_wisdel_1#15$2",focus="m")]
 [name="W"]我是不是漏听了殿下的话——
 [Dialog]
@@ -450,7 +450,7 @@
 [name="凯尔希"]是源石。
 [name="凯尔希"]我们离“阿喃那”太近了，飞空艇上已经是富源石环境，而这里的所有源石，都在为飞空艇供能。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]特蕾西娅小姐......？
+[name="阿米娅"]特蕾西娅小姐……？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -467,7 +467,7 @@
 [charslot(slot = "m", name = "avg_4087_ines_1#5$1",focus="n")]
 舷窗外，那个宏大的巫术巨构已经脱离了神经束的束缚，正在以难以追赶的速度驶向天空中的“阿喃那”。
 [charslot(slot = "m", name = "avg_4087_ines_1#6$1",focus="m")]
-[name="伊内丝"]W......！
+[name="伊内丝"]W……！
 [Dialog]
 [charslot]
 [Delay(time=0.5)]
@@ -478,18 +478,18 @@
 [charslot(slot = "m", name = "avg_4087_ines_1#7$1",focus="m")]
 [name="伊内丝"]赫德雷！你怎么醒了？
 [charslot(slot = "m", name = "avg_4088_hodrer_1#6$1",focus="m")]
-[name="赫德雷"]迫降......
+[name="赫德雷"]迫降……
 [charslot(slot = "m", name = "avg_4087_ines_1#7$1",focus="m")]
 [name="伊内丝"]你说什么？
 [charslot(slot = "m", name = "avg_4088_hodrer_1#6$1",focus="m")]
-[name="赫德雷"]巨兽......在“生命脊椎”中留下了最后一丝活力。
-[name="赫德雷"]将它迫降在......伦蒂尼姆城内，安全的地方......
+[name="赫德雷"]巨兽……在“生命脊椎”中留下了最后一丝活力。
+[name="赫德雷"]将它迫降在……伦蒂尼姆城内，安全的地方……
 [charslot(slot = "m", name = "avg_4087_ines_1#9$1",focus="m")]
 [name="伊内丝"]W他们还在飞空艇上！
 [charslot(slot = "m", name = "avg_4088_hodrer_1#6$1",focus="m")]
-[name="赫德雷"]我曾经......向凯尔希医生......还有博士......承诺过。
-[name="赫德雷"]尽可能......挽救更多生命。
-[name="赫德雷"]我们只能......尽力而为......
+[name="赫德雷"]我曾经……向凯尔希医生……还有博士……承诺过。
+[name="赫德雷"]尽可能……挽救更多生命。
+[name="赫德雷"]我们只能……尽力而为……
 [charslot(slot = "m", name = "avg_4087_ines_1#5$1",focus="m")]
 [name="伊内丝"]可是——
 [Dialog]
@@ -576,20 +576,20 @@
 蔓延。
 你向她奔去，可怎么也不够快。
 吞噬。
-你看到，源石即将吞噬她的最后一部分身体......
+你看到，源石即将吞噬她的最后一部分身体……
 阿米娅！
-你竭力伸出手，想要抓住她......就差一点......
+你竭力伸出手，想要抓住她……就差一点……
 你再也无法拉住她的手。
 庞杂的信息流自你的脑海中呼啸而过——
 你好像看到了一个完全源石化的宁静世界。
-阿米娅......凯尔希......Logos......W......
+阿米娅……凯尔希……Logos……W……
 罗德岛的一切，伦蒂尼姆的一切，战场上的一切，泰拉的一切——
 [Dialog]
 [Decision(options="阿米娅！", values="1")]
 [Predicate(references="1")]
-不，这绝不是你想看到的......
+不，这绝不是你想看到的……
 你怎能允许这一切发生。
-停下......停下！
+停下……停下！
 [Dialog]
 [Decision(options="停下！", values="1")]
 [Predicate(references="1")]

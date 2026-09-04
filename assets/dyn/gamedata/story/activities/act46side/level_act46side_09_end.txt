@@ -20,11 +20,11 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_867_1#1$1",duration=1.5)]
 [Delay(time=2)]
-[name="“灰礼帽”"]......
+[name="“灰礼帽”"]……
 [name="“灰礼帽”"]这里是前院，院内空虚，准备直接突破。
 [name="“灰礼帽”"]不要引起注意，力求速战速决。
 [name="“灰礼帽”"]唯有一点要当心，黑骑士很有可能还在此处。
-[name="“灰礼帽”"]......可是，黑骑士人呢？
+[name="“灰礼帽”"]……可是，黑骑士人呢？
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="none")]
 入侵者警觉四顾，握紧手中武器。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
@@ -54,39 +54,39 @@
 [charslot(slot="r",name="avg_npc_2006_1#12$1",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="r",name="avg_npc_2006_1#6$1",focus="r")]
-[name="阿尔贝塔"]啊......！
+[name="阿尔贝塔"]啊……！
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]我听到外面......又有打斗的声音——到底发生了什么事？
+[name="阿尔贝塔"]我听到外面……又有打斗的声音——到底发生了什么事？
 [charslot(slot="l",name="avg_npc_253_1#7$1",focus="l")]
 [name="菈塔托丝"]小点声！
 [name="菈塔托丝"]现在外面都是最危险的敌人，那位锏在拼了命地保护我们。
 [name="菈塔托丝"]你现在唯一能做的事，就是安静点，别让他们发现我们。
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]我......我听到广播里说，我是被谢拉格挟持的人质？为什么......
+[name="阿尔贝塔"]我……我听到广播里说，我是被谢拉格挟持的人质？为什么……
 [charslot(slot="l",name="avg_npc_253_1#9$1",focus="l")]
-[name="菈塔托丝"]呵......你的维多利亚同胞现在正带着武器，开着战车，将这里围得水泄不通。
+[name="菈塔托丝"]呵……你的维多利亚同胞现在正带着武器，开着战车，将这里围得水泄不通。
 [name="菈塔托丝"]所以，是想要救你出去，还是要把知情者围困在这里以便展开其他行动，答案显而易见。
 [charslot(slot="r",name="avg_npc_2006_1#11$1",focus="r")]
-[name="阿尔贝塔"]你的意思是，他们用救我的借口，入侵谢拉格......
+[name="阿尔贝塔"]你的意思是，他们用救我的借口，入侵谢拉格……
 [charslot(slot="l",name="avg_npc_253_1#7$1",focus="l")]
-[name="菈塔托丝"]这是你自己说的......不过现实差不多就是如此。
+[name="菈塔托丝"]这是你自己说的……不过现实差不多就是如此。
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]......
-[name="阿尔贝塔"]......怎么会变成这样？
+[name="阿尔贝塔"]……
+[name="阿尔贝塔"]……怎么会变成这样？
 [charslot(slot="l",name="avg_npc_253_1#2$1",focus="l")]
 [name="菈塔托丝"]如果你的资料能传出去，你也可以向你的国家问问这个问题。
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]我以为我来到谢拉格，可以为受压迫的人们带来帮助......我的镜头与文章，可以让更多人看到真实的谢拉格。
-[name="阿尔贝塔"]我原本相信我做的这一切都是有意义的......
+[name="阿尔贝塔"]我以为我来到谢拉格，可以为受压迫的人们带来帮助……我的镜头与文章，可以让更多人看到真实的谢拉格。
+[name="阿尔贝塔"]我原本相信我做的这一切都是有意义的……
 [charslot(slot="l",name="avg_npc_253_1#7$1",focus="l")]
-[name="菈塔托丝"]......我是不是还该感谢你的好心？
+[name="菈塔托丝"]……我是不是还该感谢你的好心？
 [multiline(name="菈塔托丝")]好吧，我就当你是真的好心吧——
 [charslot(slot="l",name="avg_npc_253_1#8$1",focus="l")]
 [multiline(name="菈塔托丝")]别犯傻了，你凭什么觉得，你看到的就是“真实的谢拉格”？
 [charslot(slot="l",name="avg_npc_253_1#7$1",focus="l")]
 [name="菈塔托丝"]现状你也看到了，在压迫谢拉格人民的到底是谁？
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]......
+[name="阿尔贝塔"]……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
@@ -100,7 +100,7 @@
 [Delay(time=1)]
 屋檐上的融雪化为庭院中的积水，入侵者的血溅落出道道涟漪。
 他的前方，逆光而来的暗沉面孔正直视着他。
-不远处，堂厅内的烛火像是挣扎未释的杀气，激荡、翻涌......
+不远处，堂厅内的烛火像是挣扎未释的杀气，激荡、翻涌……
 [Dialog]
 [PlaySound(key="$d_avg_sandstone", volume=1)]
 [charslot(slot="m",name="avg_npc_867_1#1$1", afrom=0, ato=1, duration=1)]
@@ -114,12 +114,12 @@
 [PlayMusic(intro="$blkswb_intro", key="$blkswb_loop", volume=0.6)]
 [Delay(time=2)]
 [name="锏"]早知道你们会偷摸闯进来。
-[name="锏"]你......哼，反正我也分不清你们这些面具下面到底谁是谁。
+[name="锏"]你……哼，反正我也分不清你们这些面具下面到底谁是谁。
 [charslot(slot="m",name="avg_4116_blkkgt_1#6$1",focus="m")]
 [name="锏"]你们那个来过谢拉格的同事，难道没有告诉过你们，谢拉格不是能随便侵犯的土地？
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]是的，我们的确听说过你的大名。
-[name="“灰礼帽”"]所以我们也做好了充分的准备......
+[name="“灰礼帽”"]所以我们也做好了充分的准备……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovementsp", volume=1)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=0.2, block=true)]
@@ -149,7 +149,7 @@
 [charslot(slot="m",name="avg_4116_blkkgt_1#6$1",focus="m")]
 [name="锏"]一起上吧。
 [name="锏"]也难得放开手脚，没什么顾虑。
-[name="锏"]......就当你们没人是装作不怕死。
+[name="锏"]……就当你们没人是装作不怕死。
 [Dialog]
 [charslot(slot="m",name="avg_4116_blkkgt_1#6$1",focus="none")]
 她摆开致命的架势，空气中划出武器呜咽的闷音。
@@ -399,34 +399,34 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]......我从没想过，会是这样。
+[name="阿尔贝塔"]……我从没想过，会是这样。
 [name="阿尔贝塔"]菈塔托丝夫人，我是不是不该来谢拉格？
 [charslot(slot="l",name="avg_npc_253_1#2$1",focus="l")]
 [name="菈塔托丝"]这个问题需要你自己回答，也需要你的国家回答。
 [charslot(slot="l",name="avg_npc_253_1#9$1",focus="l")]
-[name="菈塔托丝"]只是对于谢拉格来说，或许我也会考虑利用你这样单纯的人......我也没有资格骂那些维多利亚人卑鄙就是了。
+[name="菈塔托丝"]只是对于谢拉格来说，或许我也会考虑利用你这样单纯的人……我也没有资格骂那些维多利亚人卑鄙就是了。
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]......那么我的报道，对维多利亚，对谢拉格，到底算是什么？
+[name="阿尔贝塔"]……那么我的报道，对维多利亚，对谢拉格，到底算是什么？
 [charslot(slot="l",name="avg_npc_253_1#9$1",focus="l")]
 [name="菈塔托丝"]他们在你身上做文章，不过是想要创造既定事实，你不用太认真。
 [charslot(slot="l",name="avg_npc_253_1#2$1",focus="l")]
 [name="菈塔托丝"]我们都是人质而已。
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]......我只是觉得这一切都很荒谬。
+[name="阿尔贝塔"]……我只是觉得这一切都很荒谬。
 [charslot(slot="l",name="avg_npc_253_1#9$1",focus="l")]
-[name="菈塔托丝"]这倒也是真相的一种......如果你的镜头还好用的话，这会是绝佳的素材。
+[name="菈塔托丝"]这倒也是真相的一种……如果你的镜头还好用的话，这会是绝佳的素材。
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
-[name="阿尔贝塔"]如果......我走出这道门，你们就会没事的，对吗？
+[name="阿尔贝塔"]如果……我走出这道门，你们就会没事的，对吗？
 [charslot(slot="l",name="avg_npc_253_1#9$1",focus="l")]
 [name="菈塔托丝"]那么你会被他们用刀剑指着，你的所有资料会被没收，或许连你本人也会从此销声匿迹，没有人知道你的事。
 [charslot(slot="l",name="avg_npc_253_1#2$1",focus="l")]
-[name="菈塔托丝"]到了这个地步......更了解他们的应该是你。
+[name="菈塔托丝"]到了这个地步……更了解他们的应该是你。
 [charslot(slot="r",name="avg_npc_2006_1#12$1",focus="r")]
 [name="阿尔贝塔"]难道就在这里，什么都不去做吗？
 [charslot(slot="l",name="avg_npc_253_1#9$1",focus="l")]
 [name="菈塔托丝"]对维多利亚来说，我想他们不希望失去你这个人质。
-[name="菈塔托丝"]安心等待，以及......
-[name="菈塔托丝"]恩希欧迪斯......无论你打算做什么，是时候开始了。
+[name="菈塔托丝"]安心等待，以及……
+[name="菈塔托丝"]恩希欧迪斯……无论你打算做什么，是时候开始了。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -518,7 +518,7 @@
 [PlaySound(key="$d_avg_punch02", volume=1)]
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=0.2, block=true)]
-“咚”，结实的一棍砸在他的头顶。而另一个守卫还来不及呼救，一个黑影出现在他背后，勒紧了他的脖子......
+“咚”，结实的一棍砸在他的头顶。而另一个守卫还来不及呼救，一个黑影出现在他背后，勒紧了他的脖子……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="m",name="avg_npc_283_1#1$1",duration=1)]
@@ -551,8 +551,8 @@
 [Image(image="67_i07_2",screenadapt="coverall",fadetime=1,block=true)]
 [Delay(time=2)]
 而在她的周围，已经躺了七八个倒下的敌人。
-[name="锏"]呸......
-[name="锏"]咳......
+[name="锏"]呸……
+[name="锏"]咳……
 [Dialog]
 [PlaySound(key="$d_gen_soldiersrun", volume=1)]
 [Delay(time=2)]
@@ -565,11 +565,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [name="“灰礼帽”"]黑骑士，你已经到极限了。
 [name="“灰礼帽”"]其实对你来说，还有缴械投降这一个选择。
-[name="锏"]净说大话......
+[name="锏"]净说大话……
 [name="锏"]够胆的，别耍嘴上的功夫，接着上啊。
 [name="“灰礼帽”"]就算是你，也会有鲜血流干的时候。
 [name="“灰礼帽”"]死在这里，不遗憾吗？骑士。
-[name="锏"]......呵。
+[name="锏"]……呵。
 [name="锏"]无聊的废话，讲给——
 [name="锏"]死不足惜的人。
 [Dialog]
@@ -606,7 +606,7 @@
 [Dialog]
 [Image(image="67_i07_2",screenadapt="coverall",fadetime=2.5,block=true)]
 [Delay(time=1)]
-[name="锏"]......怕什么？
+[name="锏"]……怕什么？
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -633,7 +633,7 @@
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [CameraShake(duration=1, xstrength=15, ystrength=15, vibrato=5, randomness=5, fadeout=true, block=false)]
 [Delay(time=1)]
-终于，一个踉跄......
+终于，一个踉跄……
 [Dialog]
 [Effect(name="$e_blackmask",layer = 2)]
 [Delay(time=0.5)]
@@ -658,7 +658,7 @@
 [Delay(time=3.5)]
 [PlaySound(key="$rungeneral", volume=1)]
 [Delay(time=3.5)]
-[name="？？？"]还算及时......
+[name="？？？"]还算及时……
 [name="？？？"]维多利亚的精锐打手不好对付，我们得先找个地方。
 [name="？？？"]醒醒，别睡过去。
 [Dialog]
@@ -667,7 +667,7 @@
 [focusout(duration=2, type="char", from=1, to=0,block=true)]
 [focusout(duration=2, type="bg", from=1, to=0,block=true)]
 [charslot(slot="m",name="avg_npc_252",focus="none")]
-[name="锏"]咳，你是......
+[name="锏"]咳，你是……
 [name="锏"]Sharp？
 [Dialog]
 [charslot(slot="m",name="avg_npc_252",focus="m")]
@@ -679,7 +679,7 @@
 [name="Sharp"]虽然现在实在腾不开手，但博士答应过，只要谢拉格有难，不会坐视不理。
 [name="Sharp"]我已经通知罗德岛增援，他们随后赶到。
 [charslot(slot="m",name="avg_npc_252",focus="none")]
-[name="锏"]......
+[name="锏"]……
 [name="锏"]恩希欧迪斯呢？
 [charslot(slot="m",name="avg_npc_252",focus="m")]
 [name="Sharp"]不用担心，相信银灰先生已对局面有所掌控。
@@ -694,19 +694,19 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_206_gnosis_1#1$1",focus="m")]
-[name="诺希斯"]......目前的产量还能维持吗？
+[name="诺希斯"]……目前的产量还能维持吗？
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
-[name="工厂负责人"]是，弹药可以按照计划供应。可是，诺希斯总裁......
-[name="工厂负责人"]我无法不抱有疑问......如果我们要对抗的，是开斯特公爵的舰队，那即使我们生产效率提高十倍，也不可能与他们抗衡。
+[name="工厂负责人"]是，弹药可以按照计划供应。可是，诺希斯总裁……
+[name="工厂负责人"]我无法不抱有疑问……如果我们要对抗的，是开斯特公爵的舰队，那即使我们生产效率提高十倍，也不可能与他们抗衡。
 [charslot(slot="m",name="avg_206_gnosis_1#8$1",focus="m")]
 [name="诺希斯"]不用担心，按计划去做就好。
 [name="诺希斯"]剩下的事由我们处理。
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
-[name="工厂负责人"]......
+[name="工厂负责人"]……
 [name="工厂负责人"]诺希斯总裁，我为喀兰贸易工作了十一年，我知道它为谢拉格带来过什么。
 [name="工厂负责人"]我相信你们。
 [charslot(slot="m",name="avg_206_gnosis_1#8$1",focus="m")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = false, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_206_gnosis_1#2$1",focus="m")]
@@ -730,52 +730,52 @@
 [Delay(time=1)]
 [name="诺希斯"]开斯特公爵的军队四面围困了谢拉格，一些先头部队已经控制了部分街道，把民众赶回了家中。
 [name="诺希斯"]阿克托斯带人去对峙，但他的军队在维多利亚人面前显得过于单薄。
-[name="诺希斯"]公爵的使者来到喀兰贸易，让我转交一份要求谈判的“请柬”......
+[name="诺希斯"]公爵的使者来到喀兰贸易，让我转交一份要求谈判的“请柬”……
 [name="诺希斯"]她在等你，恩希欧迪斯。
 [name="恩希欧迪斯"]听上去，情况没有发生预期外的变化。
-[name="诺希斯"]你还在欣赏这艘孤零零的高速战舰......它在这个时候看起来是不是太过单薄了？
-[name="恩希欧迪斯"]......
-[name="恩希欧迪斯"]最近我总会想起，很多年以前，我的父母接受布朗陶家的邀约的那一天......
+[name="诺希斯"]你还在欣赏这艘孤零零的高速战舰……它在这个时候看起来是不是太过单薄了？
+[name="恩希欧迪斯"]……
+[name="恩希欧迪斯"]最近我总会想起，很多年以前，我的父母接受布朗陶家的邀约的那一天……
 [name="恩希欧迪斯"]父亲当时说过，布朗陶和佩尔罗契不支持我们，是因为他们没有看到他所能看到的一切。
-[name="恩希欧迪斯"]“如果有人能踏出一步，哪怕只有一步......”
+[name="恩希欧迪斯"]“如果有人能踏出一步，哪怕只有一步……”
 [name="诺希斯"]即便是恶名在外的卢卡·布朗陶。
 [name="恩希欧迪斯"]他们知道有最糟糕的可能，但他们没有犹豫。
-[name="恩希欧迪斯"]如今我已经活到了他们去世时的年纪，比起那时，似乎也什么都没有改变......
+[name="恩希欧迪斯"]如今我已经活到了他们去世时的年纪，比起那时，似乎也什么都没有改变……
 [name="恩希欧迪斯"]但我至少知道了，为什么当年他们没有犹豫。
-[name="诺希斯"]......
+[name="诺希斯"]……
 [name="诺希斯"]在那之后，我随着家族离开了谢拉格，去到维多利亚。
 [name="诺希斯"]那是一段艰难的开始，我几乎凭着惯性在学习，适应那些维多利亚同学的白眼。
 [name="诺希斯"]唯一能支撑我的，就是我知道会有那么一天，我会回到谢拉格。
 [name="诺希斯"]但是后来，你也来维多利亚了。
 [name="恩希欧迪斯"]我在校园里和你第一次打招呼时你的表情，我恐怕是忘不掉了。
-[name="诺希斯"]......我只是没想到，你打招呼的方式，竟然是像个天真的傻子一样问我还记不记得小时候的约定。
+[name="诺希斯"]……我只是没想到，你打招呼的方式，竟然是像个天真的傻子一样问我还记不记得小时候的约定。
 [name="恩希欧迪斯"]“你还愿不愿意，把谢拉格变成一个足够大，足够让我们施展拳脚的舞台。”
 [name="诺希斯"]但也因此我能确信，你所说的一切，你看到的未来，绝非一种幻想。
 [name="诺希斯"]我这才会跟着喀兰贸易，一路走到了今天。
 [name="恩希欧迪斯"]“今天”，是远远不够的，诺希斯。
-[name="恩希欧迪斯"]我即将去面见那位严酷的庄家与债主......
-[name="恩希欧迪斯"]......无论我是否还能看到，我都会让谢拉格能拥有“明天”。
-[name="诺希斯"]......
+[name="恩希欧迪斯"]我即将去面见那位严酷的庄家与债主……
+[name="恩希欧迪斯"]……无论我是否还能看到，我都会让谢拉格能拥有“明天”。
+[name="诺希斯"]……
 [name="诺希斯"]我最后只想让你知道，不只是我们，支持你的谢拉格人还有很多。
 [name="诺希斯"]喀兰贸易这些年的努力没有白费。
-[name="恩希欧迪斯"]......
-[name="恩希欧迪斯"]如果说有什么是我想在这里听到的......
-[name="诺希斯"]......你总能让别人说出你想听到的话。
+[name="恩希欧迪斯"]……
+[name="恩希欧迪斯"]如果说有什么是我想在这里听到的……
+[name="诺希斯"]……你总能让别人说出你想听到的话。
 [name="恩希欧迪斯"]比如？
 [name="诺希斯"]比如你会对锏说，自己只是把她当作棋子，合约到期她可以选择是否留在谢拉格。
 [name="诺希斯"]但你明知道她会如何回答。
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [name="恩希欧迪斯"]或许我想听到那些话，正是因为我没有那么肯定你们会如何回答。
 [name="诺希斯"]呵，你害怕了？
 [name="恩希欧迪斯"]二十多年前，说出要把谢拉格建成足够大的舞台时，我就放弃了可以恐惧的权力。
 [name="恩希欧迪斯"]你是亲历者，应该不至于忘记。
-[name="恩希欧迪斯"]......只是有时候，我也会需要一些话语支撑。
+[name="恩希欧迪斯"]……只是有时候，我也会需要一些话语支撑。
 [name="诺希斯"]那么在你看来，我和锏做到了吗？
-[name="恩希欧迪斯"]......毫无疑问。
+[name="恩希欧迪斯"]……毫无疑问。
 [Dialog]
 [Image(image="67_i14_3",screenadapt="coverall",fadetime=2,block=true)]
-[name="恩希欧迪斯"]我很庆幸......是你们。
-[name="诺希斯"]......
+[name="恩希欧迪斯"]我很庆幸……是你们。
+[name="诺希斯"]……
 [name="恩希欧迪斯"]或许，未来的谢拉格，不再需要做那些代价惊人的交易，也不再需要依托蔓珠院才能拥有信仰。
 [name="恩希欧迪斯"]或许，你们会是比我更好的——
 [name="诺希斯"]少自作多情了，恩希欧迪斯。
@@ -791,7 +791,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Image(image="67_i14_1",screenadapt="coverall",fadetime=2,block=true)]
 [Delay(time=2)]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [name="恩希欧迪斯"]如你所愿。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

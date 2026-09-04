@@ -32,7 +32,7 @@
 [charslot(slot="r",name="avg_4179_monstr_1#1$1",afrom=0, ato=1,duration=1.5)]
 [delay(time=2)]
 [charslot(slot="l",name="avg_1037_amiya3_1#1$1",focus="l")]
-[name="阿米娅"]接驳区......那前面应该就是泽尔格勒的城区了。
+[name="阿米娅"]接驳区……那前面应该就是泽尔格勒的城区了。
 [name="阿米娅"]根据这张地图上的指引，持有官方访问文书的队伍应该走快速通道。我们的文书有时效限制，必须尽快进城。
 [charslot(slot="r",name="avg_4179_monstr_1#1$1",focus="r")]
 [name="Mon3tr"]前面有不同的队列，我没看到写着快速通道的。
@@ -61,7 +61,7 @@
 [charslot(slot="m",name="avg_npc_1730_1#3$1",focus="m")]
 [name="Raidian"]这里的兵力布置与我所知的保密行政区规格一致，第一集团军不会容忍这样的骚乱发生，尤其是在他们已经宣称接纳感染者的当下。
 [charslot(slot="m",name="avg_npc_1730_1#2$1",focus="m")]
-[name="Raidian"]不过，附近的电信号的确让人感觉有些焦虑......
+[name="Raidian"]不过，附近的电信号的确让人感觉有些焦虑……
 [charslot(slot="m",name="avg_4228_closur_1#14$1",focus="m")]
 [name="可露希尔"]嗯？那我让无人机飞出去看看？
 [charslot]
@@ -76,7 +76,7 @@
 [charslot(slot="m",name="avg_4179_monstr_1#2$1",focus="m")]
 [name="Mon3tr"]常规通道倒是没有停止使用，不过放人的速度算不上快。
 [charslot(slot="m",name="avg_1037_amiya3_1#3$1",focus="m")]
-[name="阿米娅"]......看来我们的运气不太好。
+[name="阿米娅"]……看来我们的运气不太好。
 [Dialog]
 [charslot(slot="m",name="avg_1037_amiya3_1#3$1",focus="n")]
 [Decision(options="阿米娅，我们最晚应该在什么时候入城？", values="1")]
@@ -118,7 +118,7 @@
 [Decision(options="（深沉地点点头）;（傲慢地点点头）", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
-[name="冷漠的军人"]您......看上去可不像是乌萨斯人。
+[name="冷漠的军人"]您……看上去可不像是乌萨斯人。
 [charslot(slot="m",name="avg_npc_1730_1#6$1",focus="m")]
 [name="Raidian"]够了，我们是因为迟迟没有等到本该前来接应的人，才在这里逗留，结果成了你们眼中的可疑人士？
 [name="Raidian"]这就是你们第一集团军的处事方式？很好，我们会如实写在呈给陛下的报告中的。
@@ -152,7 +152,7 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_1970_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_npc_2225_1#1$1",focus="n")]
-[name="焦急的矿工"]还有好长的队伍......
+[name="焦急的矿工"]还有好长的队伍……
 [charslot(slot="r",name="avg_npc_2225_1#1$1",focus="r")]
 [name="沉稳的青年"]队列一直在变长，看来有很多人都听到了泽尔格勒接纳感染者的消息。
 [charslot(slot="r",name="avg_npc_2225_1#3$1",focus="r")]
@@ -166,7 +166,7 @@
 [charslot(slot="l",name="avg_npc_1970_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_npc_2225_1#1$1",focus="n")]
 [name="焦急的矿工"]等等，后面有动静。
-[name="焦急的矿工"]那个人穿得好奇怪......
+[name="焦急的矿工"]那个人穿得好奇怪……
 [name="焦急的矿工"]不对。应该说，那真的是个人吗？
 [Dialog]
 [stopsound(channel="out1",fadetime=0.5)]
@@ -184,7 +184,7 @@
 [name="？？？"]听我的，不要进入泽尔格勒！
 [name="？？？"]有奇怪的东西，从没见过的粉尘，人沾上之后会感染——
 [charslot(slot="m",name="avg_1037_amiya3_1#5$1",focus="m")]
-[name="阿米娅"]粉尘......？
+[name="阿米娅"]粉尘……？
 [charslot]
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1,channel="3")]
@@ -196,7 +196,7 @@
 [name="？？？"]现在这里不安全，不要进来！不要进来！！
 [name="？？？"]快走——
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
-[name="冷漠的军人"]......又是你......
+[name="冷漠的军人"]……又是你……
 [charslot(slot="m",name="avg_npc_082",focus="m")]
 [name="慌乱的警卫"]抱歉，格列沙中尉！是我们没注意，一不小心让她混上了转运车——
 [name="慌乱的警卫"]我们这就把这家伙带走！
@@ -214,7 +214,7 @@
 [charslot(slot="m",afrom=1, ato=0,posfrom="0,0", posto="80,0",duration=1)]
 [delay(time=1.5)]
 [charslot]
-[name="众人"]......
+[name="众人"]……
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
 [name="冷漠的军人"]都散了，在三十秒内回到自己的队列里去，否则就到队尾重排！
 [charslot]
@@ -231,7 +231,7 @@
 [charslot]
 [playMusic(key="$m_avg_ursusdaily_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_1730_1#4$1",focus="m")]
-[name="Raidian"]我必须得问，这是......？
+[name="Raidian"]我必须得问，这是……？
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
 [name="冷漠的军人"]那就是个疯子，不用在意。
 [charslot(slot="m",name="avg_npc_1730_1#4$1",focus="m")]
@@ -246,7 +246,7 @@
 [name="Raidian"]这很重要。
 [name="Raidian"]不如说，正因为泽尔格勒连那样的疯子也能容忍，才更使这里称得上是“明日之城”，不是吗？
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
-[name="冷漠的军人"]......
+[name="冷漠的军人"]……
 [charslot]
 面容冷峻的士兵没有说话。他盯着Raidian的面孔，对她的话不置可否，似乎试图以此施压。
 但Raidian察觉到了他身上电信号不寻常的颤动。
@@ -255,7 +255,7 @@
 [name="Raidian"]不过，这看上去的确还是有些令人忧心啊，先生。
 [name="Raidian"]我们需要进入泽尔格勒，才能亲眼证实这些担忧只是多余，这里实际上一切如常。
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
-[name="冷漠的军人"]......我必须先验证你们所有人的身份和文书的真实性。
+[name="冷漠的军人"]……我必须先验证你们所有人的身份和文书的真实性。
 [charslot(slot="m",name="avg_npc_1730_1#1$1",focus="m")]
 [name="Raidian"]当然没问题。只是尽快，好吗？
 [charslot(slot="m",name="avg_npc_1730_1#1$1",focus="m")]
@@ -272,7 +272,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
-[name="冷漠的军人"]......久等了。身份和文书都没有问题。
+[name="冷漠的军人"]……久等了。身份和文书都没有问题。
 [name="冷漠的军人"]再确认一下信息。公司名称和来访人数？
 [charslot(slot="m",name="avg_1037_amiya3_1#1$1",focus="m")]
 [name="阿米娅"]罗德岛制药，五人。
@@ -295,7 +295,7 @@
 [name="不耐烦的卫兵"]我说了，把拖车上的东西全都取下来检查。
 [name="不耐烦的卫兵"]我不想再重复第二遍，除非你也是想直接偷渡进去。
 [charslot(slot="l",name="avg_npc_2225_1#10$1",focus="l")]
-[name="沉稳的青年"]也......？
+[name="沉稳的青年"]也……？
 [charslot(slot="l",name="avg_npc_2225_1#9$1",focus="l")]
 [name="沉稳的青年"]当然不是的，先生。我也不想耽误大家的时间，但请您听我说——
 [Dialog]
@@ -307,7 +307,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot="l",name="avg_1037_amiya3_1#5$1",focus="l")]
 [charslot(slot="r",name="avg_npc_1976_1#1$1",focus="n")]
-[name="阿米娅"]那边是......？
+[name="阿米娅"]那边是……？
 [charslot(slot="r",name="avg_npc_1976_1#1$1",focus="r")]
 [name="冷漠的军人"]供感染者使用的常规通道。
 [charslot(slot="l",name="avg_1037_amiya3_1#7$1",focus="l")]
@@ -317,17 +317,17 @@
 [name="冷漠的军人"]在正式通知下发之前，原本连快速通道都会继续保持关闭。
 [name="冷漠的军人"]第一集团军已经为你们破例。
 [charslot(slot="l",name="avg_1037_amiya3_1#3$1",focus="l")]
-[name="阿米娅"]感谢你们的帮助，先生，但我想说的是......
+[name="阿米娅"]感谢你们的帮助，先生，但我想说的是……
 [charslot]
-[name="争执的声音"]不想......别再......废话——
+[name="争执的声音"]不想……别再……废话——
 [name="争执的声音"]——带着——
 [name="争执的声音"]进泽尔格勒！！
 不远处的另一入口，全副武装的卫兵们正推搡着一个矮小的感染者，还伴随着逐渐大声的叫骂。
 被欺凌者似乎并没有感到害怕，只是顺从地后退了几步，背脊仍然挺得笔直。
-那人身旁，是一些明显有着劳动者面貌的群众。有的像矿工，有的像建筑工人......
+那人身旁，是一些明显有着劳动者面貌的群众。有的像矿工，有的像建筑工人……
 他们都围在那个感染者的身边，站立的姿势呈现明显的保护状态。
 [charslot(slot="m",name="avg_1037_amiya3_1#3$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_4179_monstr_1#8$1",focus="m")]
 [name="Mon3tr"]阿米娅？
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
@@ -349,7 +349,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot="l",name="avg_npc_2225_1#9$1",focus="l")]
 [charslot(slot="r",name="avg_npc_082",focus="n")]
-[name="沉稳的青年"]......我们按照规则排队，已经在这里等待了三天。等待的过程中你们的巡逻队员已经检查过拖车，为什么必须还要再来一遍？
+[name="沉稳的青年"]……我们按照规则排队，已经在这里等待了三天。等待的过程中你们的巡逻队员已经检查过拖车，为什么必须还要再来一遍？
 [charslot(slot="l",name="avg_npc_2225_1#9$1",focus="l")]
 [name="沉稳的青年"]究竟为什么？难道为了进入泽尔格勒，我们就连这最后一点赖以为生的物资都不能保留吗？
 [charslot(slot="r",name="avg_npc_082",focus="r")]
@@ -363,7 +363,7 @@
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1",afrom=0, ato=1,duration=1.5)]
 [delay(time=2)]
-[name="阿米娅"]抱歉，但我必须打断一下......
+[name="阿米娅"]抱歉，但我必须打断一下……
 [charslot(slot="m",name="avg_npc_082",focus="m")]
 [name="不耐烦的卫兵"]到后面去排队！
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1",focus="m")]
@@ -373,7 +373,7 @@
 卫兵闻言，往快速通道的方向看了一眼。孤零零的队列入口，只零星站着几个人，都望着自己的方向。
 从站立的军官身上收回视线之后，他看向女孩的眼神多了几分探究。
 [charslot(slot="m",name="avg_npc_082",focus="m")]
-[name="不耐烦的卫兵"]（低声）什么快速通道，今天不是都关了吗，难道还是个大人物......
+[name="不耐烦的卫兵"]（低声）什么快速通道，今天不是都关了吗，难道还是个大人物……
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1",focus="m")]
 [name="阿米娅"]可以告诉我你们争执的原因吗？
 [charslot(slot="m",name="avg_npc_2225_1#9$1",focus="m")]
@@ -389,23 +389,23 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#3$1",focus="m")]
 [name="阿米娅"]（明明似乎只是一些粮食，从他们身上也感受不到敌意。）
 [charslot(slot="m",name="avg_1037_amiya3_1#7$1",focus="m")]
-[name="阿米娅"]（可是这些麻袋的形状......里面还藏了什么？）
+[name="阿米娅"]（可是这些麻袋的形状……里面还藏了什么？）
 [charslot]
 阿米娅有些好奇地看向青年，迎上了青年直率的目光。
 [charslot(slot="m",name="avg_1037_amiya3_1#7$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_1037_amiya3_1#8$1",focus="m")]
 [name="阿米娅"]这位先生，这是我的通行证。我愿意为这些人担保。
 [name="阿米娅"]我不知道进入泽尔格勒还有什么“特殊的规矩”，他们带着的不过只是一些麦子，不值钱，也不会伤害到任何人。
 [charslot(slot="m",name="avg_1037_amiya3_1#16$1",focus="m")]
 [name="阿米娅"]他们从矿场来到这里，一路上应该已经吃了很多苦。您应该也不会介意，这些劳苦的人多吃上几顿饱饭对吗？
 [charslot(slot="m",name="avg_npc_082",focus="m")]
-[name="不耐烦的卫兵"]......啧。
+[name="不耐烦的卫兵"]……啧。
 [name="不耐烦的卫兵"]算了，最后再让我检查一次，就放你们过去吧。
 [charslot(slot="m",name="avg_1037_amiya3_1#8$1",focus="m")]
 [name="阿米娅"]当然，但是请您当心点，不要弄破这些袋子好吗？
 [charslot(slot="m",name="avg_npc_082",focus="m")]
-[name="不耐烦的卫兵"]真够麻烦......行了，赶快带着你们这堆东西过去吧，别挡道，也别让我看到你们惹什么事！
+[name="不耐烦的卫兵"]真够麻烦……行了，赶快带着你们这堆东西过去吧，别挡道，也别让我看到你们惹什么事！
 [charslot(slot="m",name="avg_npc_2225_1#1$1",focus="m")]
 [name="沉稳的青年"]谢谢您。
 [charslot(slot="m",name="avg_npc_2225_1#3$1",focus="m")]
@@ -438,7 +438,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0, block=true)]
-[Subtitle(text="“......欢迎回家，各位泽尔格勒的新市民。”", x=300, y=350, alignment="center", size=25, delay=0.04, width=700)]
+[Subtitle(text="“……欢迎回家，各位泽尔格勒的新市民。”", x=300, y=350, alignment="center", size=25, delay=0.04, width=700)]
 [delay(time=1)]
 [Subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -453,18 +453,18 @@
 [charslot(slot="r",name="avg_npc_2225_1#1$1",focus="n")]
 [name="焦急的矿工"]老师，你快看！那些房子后面，是什么？
 [charslot(slot="r",name="avg_npc_2225_1#10$1",focus="r")]
-[name="沉稳的青年"]像是山一样的特殊地形，还是......墙？
+[name="沉稳的青年"]像是山一样的特殊地形，还是……墙？
 [charslot]
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="认真的卫兵"]这一批都在这儿了？
 [name="认真的卫兵"]行。接下来，你们都跟我走。
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="m")]
-[name="焦急的矿工"]......你要带我们去哪儿？按照一路上那些宣传语的说法，接下来我们难道不是必须靠自己的双手——
+[name="焦急的矿工"]……你要带我们去哪儿？按照一路上那些宣传语的说法，接下来我们难道不是必须靠自己的双手——
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="认真的卫兵"]“创造生活”，对。但你们必须先有个落脚的地方，然后才会把你们安排在邻近的工厂或园区工作。
 [name="认真的卫兵"]庆幸吧，泽尔格勒市政厅还会为通过资质审查的对象提供相应的住所。
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="m")]
-[name="焦急的矿工"]......还有这种事？我可从来没听说过......
+[name="焦急的矿工"]……还有这种事？我可从来没听说过……
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="认真的卫兵"]这是泽尔格勒独有的政策。我们低价为合法居民提供统一住所，使工人们的生活、工作、娱乐效率都得到最大化。
 [name="认真的卫兵"]由此，来到这里的人才不会再选择离开，而是会世世代代都建设这里，生活在这里。
@@ -491,7 +491,7 @@
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_1502_crosly_1#2$1",bstart=0.2,bend=0.5,afrom=0, ato=1,duration=1.5)]
 [delay(time=2)]
-[name="？？？"]......
+[name="？？？"]……
 [charslot(slot="m",name="avg_1502_crosly_1#1$1",bstart=0.2,bend=0.5,focus="m")]
 [name="？？？"]又来了一批感染者。
 [name="？？？"]他们的速度加快了。
@@ -505,11 +505,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 至少在住所这点上，那些描述的确没有夸张。
-翻倒的空瘤奶盒，没有带走的锅碗瓢盆，尚且葱郁的绿植，木地板上发灰的地毯......
+翻倒的空瘤奶盒，没有带走的锅碗瓢盆，尚且葱郁的绿植，木地板上发灰的地毯……
 一切都证实着的确有人曾在这里生活。
 [charslot(slot="l",name="avg_npc_1970_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_npc_2225_1#1$1",focus="n")]
-[name="焦急的矿工"]居然......
+[name="焦急的矿工"]居然……
 [name="焦急的矿工"]（这怎么比我原来在切尔诺伯格给人当家教的时候的住处都好！）
 [charslot(slot="r",name="avg_npc_2225_1#4$1",focus="r")]
 [name="沉稳的青年"]（低声）但一层楼，至少塞进了八到十户人家。
@@ -528,7 +528,7 @@
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="认真的卫兵"]对，这栋楼里都是感染者。至于后一个问题，我就不清楚了。之前进来的人不少，不可能都安排在同一个地方。
 [charslot(slot="m",name="avg_npc_2225_1#8$1",focus="m")]
-[name="沉稳的青年"]......
+[name="沉稳的青年"]……
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="认真的卫兵"]没有其他问题的话，你们赶紧商量下怎么分房，完了我带你们去一楼登记。
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="m")]
@@ -563,7 +563,7 @@
 [charslot(slot="r",name="avg_npc_2225_1#9$1",focus="r")]
 [name="沉稳的青年"]（低声）这不正常。要让她放下戒备，我们才能有机会，想办法和帕洪他们恢复联系。
 [charslot(slot="l",name="avg_npc_1970_1#1$1",focus="l")]
-[name="焦急的矿工"]太奇怪了......
+[name="焦急的矿工"]太奇怪了……
 [charslot]
 [name="身后的声音"]怎么了？
 [charslot(slot="m",name="avg_npc_2225_1#1$1",focus="m")]
@@ -571,7 +571,7 @@
 [charslot(slot="m",name="avg_npc_2225_1#4$1",focus="m")]
 [name="沉稳的青年"]要我看，这间只有一个卧室，那就给加林娜吧。
 [charslot(slot="m",name="avg_npc_2225_1#8$1",focus="m")]
-[name="沉稳的青年"]她家本来有一个孩子，死在路途中了。她精神不济，没有什么工作能力，还需要其他人帮忙照看一下，算两个人......
+[name="沉稳的青年"]她家本来有一个孩子，死在路途中了。她精神不济，没有什么工作能力，还需要其他人帮忙照看一下，算两个人……
 [charslot]
 [Dialog]
 [stopmusic(fadetime=1.5)]
@@ -588,7 +588,7 @@
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [delay(time=1)]
 几乎同时，从里面出来的人也做出了判断。他抄起手边的椅子，向“闯入者”砸去。
-[name="沉稳的青年"]呃......
+[name="沉稳的青年"]呃……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_080",afrom=0, ato=1,duration=1.5)]
@@ -598,12 +598,12 @@
 [charslot(slot="m",name="avg_npc_1970_1#1$1",focus="m")]
 [name="焦急的矿工"]你干什么！
 [charslot]
-[name="沉稳的青年"]......等等，先不要反击......
+[name="沉稳的青年"]……等等，先不要反击……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_328_1$1",afrom=0, ato=1,duration=1.5)]
 [Delay(time=2)]
-[name="雷德"]你们......
+[name="雷德"]你们……
 [name="雷德"]是什么人？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -617,7 +617,7 @@
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="警卫"]瑭雅·艾利卢耶娃。
 [charslot]
-[name="？？？"]......
+[name="？？？"]……
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="警卫"]艾利卢耶娃！
 [PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.6)]
@@ -628,14 +628,14 @@
 [Delay(time=1)]
 [name="？？？"]啊——是我。
 [charslot(slot="m",name="avg_4225_tanya_1#6$1",focus="m")]
-[name="瑭雅"]我在这里......
+[name="瑭雅"]我在这里……
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
 [name="警卫"]瞧你那要死不活的样子，做给谁看？我们这可没人虐待你。
-[name="警卫"]“散播恐慌言论”“擅离职守”“妨碍公务”“非法集会”......随便哪条都够把你关上个十天半月的。
+[name="警卫"]“散播恐慌言论”“擅离职守”“妨碍公务”“非法集会”……随便哪条都够把你关上个十天半月的。
 [charslot(slot="m",name="avg_4225_tanya_1#8$1",focus="m")]
 [name="瑭雅"]那你喊我又是为了什么呢？
 [charslot(slot="m",name="avg_npc_2223_1#1$1",focus="m")]
-[name="警卫"]......你很幸运，又有人来保释你。
+[name="警卫"]……你很幸运，又有人来保释你。
 [name="警卫"]但之后你还有六十个小时的林区义务劳动，需要在五天内完成。否则，你会被重新收监，不得保释。
 [name="警卫"]听懂了吗？听懂了就点头。
 [charslot(slot="m",name="avg_4225_tanya_1#8$1",focus="m")]
@@ -648,7 +648,7 @@
 [name="警卫"]哦，还有一点。不要再到外面去自称“整合运动”了。你跟那玩意又没什么关系，不是吗？
 [name="警卫"]好了，你可以走了。
 [charslot(slot="m",name="avg_4225_tanya_1#4$1",focus="m")]
-[name="瑭雅"]......
+[name="瑭雅"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Dialog]
@@ -658,7 +658,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2249_1#1$1",focus="m")]
-[name="西尔卡"]......
+[name="西尔卡"]……
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_082")]
@@ -670,15 +670,15 @@
 [Delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_2249_1#1$1",focus="m")]
-[name="西尔卡"]（探照灯......巡逻比白天频繁。）
+[name="西尔卡"]（探照灯……巡逻比白天频繁。）
 [charslot(slot="m",name="avg_npc_2249_1#7$1",focus="m")]
-[name="西尔卡"]（不能继续在地面活动了。得想个办法......）
+[name="西尔卡"]（不能继续在地面活动了。得想个办法……）
 [charslot]
 “为了回去，为了回到那艘船上去，我可以做到哪一步？”
 女人面无表情地在脑海里排除着选项。对集团军而言，一个逃兵根本不重要，自己最多只能成为某种交涉的契机，或者一份微小的人情。
 可关键在于，他们在乎第四集团军如何吗？第一集团军没有非要涉入这场战争的理由，乌萨斯的历史无数次证明这点，这次也不会例外。
-砸在前线的新武器只是炫耀和威慑，叶甫根尼想必已经打起了那东西的主意。小将军......小将军，一个巨大的软肋，可要怎样利用？
-流亡者熟练地躲避着探照灯的轨迹，思索着如何持续隐藏踪迹，如何制造合适的混乱......
+砸在前线的新武器只是炫耀和威慑，叶甫根尼想必已经打起了那东西的主意。小将军……小将军，一个巨大的软肋，可要怎样利用？
+流亡者熟练地躲避着探照灯的轨迹，思索着如何持续隐藏踪迹，如何制造合适的混乱……
 以及如何回家。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -689,8 +689,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
-[name="微醺的士兵"]......不行，我真的不能再喝了。
-[name="微醺的士兵"]我要回去了......
+[name="微醺的士兵"]……不行，我真的不能再喝了。
+[name="微醺的士兵"]我要回去了……
 [charslot]
 地下，空旷的基础结构将整个地下生活层隔绝出数个区域。不远处虚掩的铁门旁边，喧哗声与暖色的光亮正从室内透出。
 站在门边拉拉扯扯的两人对注视他们的目光浑然不觉。
@@ -712,7 +712,7 @@
 [PlaySound(key="$dooropenquite", volume=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2227_1#7$1",focus="m")]
-[name="热情的工人"]不对，贵族怎么会来这里......
+[name="热情的工人"]不对，贵族怎么会来这里……
 [charslot(slot="m",name="avg_npc_1976_1#1$1",focus="m")]
 [name="微醺的士兵"]我走了，得回去值班。
 [charslot(slot="m",name="avg_npc_2227_1#7$1",focus="m")]
@@ -736,7 +736,7 @@
 泽尔格勒有无数个这样的角落，曾经第四集团军的驻地也一样。
 [stopsound(channel="out4",fadetime=0.5)]
 [charslot(slot="m",name="avg_npc_2249_1#1$1",focus="m")]
-[name="西尔卡"]......
+[name="西尔卡"]……
 [charslot]
 没有人抬头看她。这里没有酒保，只有昏昏欲睡的老板，堆放一旁的木桶和狭窄的过道，以及任何不需要道具的酒桌游戏。
 看着那个经过伪装之后，已经完全融入其中的身影，西尔卡灵巧地穿过挤在屋内的数张木桌，来到酒馆的尽头。
@@ -748,8 +748,8 @@
 女人没有多说，掀起衣摆，露出藏在下面的铭牌，朝他翻开刻着第四集团军编号的那一面。
 她盯住对方，不打算错过他的任何细微表情。
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
-[name="耶夫塞？"]（低声）少尉......？
-[name="耶夫塞？"]呃......
+[name="耶夫塞？"]（低声）少尉……？
+[name="耶夫塞？"]呃……
 [name="耶夫塞？"]（环顾四周）
 [name="耶夫塞？"]你先跟我来。
 [Dialog]
@@ -762,15 +762,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
-[name="耶夫塞？"]怎么是个库兰塔......
+[name="耶夫塞？"]怎么是个库兰塔……
 [charslot(slot="m",name="avg_npc_2249_1#8$1",focus="m")]
 [name="西尔卡"]需要我将你的不满和失职情况一起上报给总司令吗，上士？据我所知，你没有及时传回有关第一集团军新武器的情报。
 [charslot(slot="m",name="avg_npc_2249_1#8$1",focus="n")]
 否则，第四集团军不会仍然毫无动作。西尔卡想着，随前面的人停下脚步。
 [charslot]
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
-[name="耶夫塞？"]......不、不用了。
-[name="耶夫塞？"]我估摸着最近也该有人来了，所以就没有......只不过没想到来的是个库兰塔，不像以前那些接头人。你是哪个营的？
+[name="耶夫塞？"]……不、不用了。
+[name="耶夫塞？"]我估摸着最近也该有人来了，所以就没有……只不过没想到来的是个库兰塔，不像以前那些接头人。你是哪个营的？
 [charslot(slot="m",name="avg_npc_2249_1#11$1",focus="m")]
 [name="西尔卡"]我不是来听废话的。
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
@@ -784,7 +784,7 @@
 [charslot(slot="m",name="avg_npc_2249_1#5$1",focus="m")]
 [name="西尔卡"]即使我只是少尉，军衔也仍在你之上。在吐出些不经大脑的话来之前，我建议你再思考一下。
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
-[name="耶夫塞？"]......你想知道什么？
+[name="耶夫塞？"]……你想知道什么？
 [charslot(slot="m",name="avg_npc_2249_1#8$1",focus="m")]
 [name="西尔卡"]自从你上一次汇报之后的所有红标情报。
 [name="西尔卡"]口头汇报给我。
@@ -819,9 +819,9 @@
 [name="西尔卡"]我不想再重复一遍，耶夫塞上士。
 [name="西尔卡"]开始吧。
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
-[name="耶夫塞？"]......咳......呵呵。
+[name="耶夫塞？"]……咳……呵呵。
 [name="耶夫塞？"]你的源石技艺，我听说过，被战争术师抛弃的技艺，只能制造无声环境的废物术法。
-[name="耶夫塞？"]没想到来的居然是大名鼎鼎的特殊战术兵团的少尉，那个可怜虫拉辛的手下......这把戏是他教给你的吧？
+[name="耶夫塞？"]没想到来的居然是大名鼎鼎的特殊战术兵团的少尉，那个可怜虫拉辛的手下……这把戏是他教给你的吧？
 [name="耶夫塞？"]好啊，好啊。行，我会告诉你，既然咱们还算是在同一条战线上，在你们这群墙头草再次倒戈之前，让我们来“共享情报”吧。
 [charslot(slot="m",name="avg_npc_2249_1#8$1",focus="m")]
 [name="西尔卡"]我希望你能冷静下来。刚才的行动，只是在向你展示这个空间的安全性。
@@ -831,13 +831,13 @@
 [charslot(slot="m",name="avg_npc_2249_1#7$1",focus="m")]
 [name="西尔卡"]是啊，没错。我就是在那里感染的矿石病。
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
-[name="耶夫塞？"]......嗯？
+[name="耶夫塞？"]……嗯？
 [charslot(slot="m",name="avg_npc_2249_1#7$1",focus="m")]
-[name="西尔卡"]我在剿灭叛乱的时候感染了矿石病，所以这是我最后向元帅展示忠诚的机会。利用感染者身份，潜入现在的泽尔格勒......
+[name="西尔卡"]我在剿灭叛乱的时候感染了矿石病，所以这是我最后向元帅展示忠诚的机会。利用感染者身份，潜入现在的泽尔格勒……
 [name="西尔卡"]你应该知道这意味着什么，又为什么必须是我、只能是我。
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
-[name="耶夫塞？"]剿灭叛乱，感染者，少尉......哈哈哈哈哈哈！
-[name="耶夫塞？"]原来如此，原来如此......
+[name="耶夫塞？"]剿灭叛乱，感染者，少尉……哈哈哈哈哈哈！
+[name="耶夫塞？"]原来如此，原来如此……
 [name="耶夫塞？"]也是，毕竟元帅对你们的定位一直都是工具。死一个本来就要流放的感染者肯定比直接葬送一整支舰队要划算得多——
 [charslot(slot="m",name="avg_npc_2249_1#4$1",focus="m")]
 [name="西尔卡"]你说什么？
@@ -853,7 +853,7 @@
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
 [name="耶夫塞？"]听着，我现在最多口头给你近期的城内防卫部署情况，你不是我的接头人，没权限获取红标情报。
 [charslot(slot="m",name="avg_npc_2249_1#11$1",focus="m")]
-[name="西尔卡"]......
+[name="西尔卡"]……
 [charslot(slot="m",name="avg_npc_2174_1#1$1",focus="m")]
 [name="耶夫塞？"]城里的巡逻分时段进行，但那个小将军随时有可能带队出现在巡逻的卫兵之中，我这几天刚好想办法“总结”了一下他出现的规律。
 [name="耶夫塞？"]那家伙娇生惯养的，出门从来都前呼后拥，跟过家家似的。司机、保姆、亲卫队，没有任何落单的时候。
@@ -886,9 +886,9 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_2249_1#1$1",focus="m")]
 [name="西尔卡"]这就是我最想知道的内容。谢谢你，耶夫塞。
-[name="西尔卡"]或者说，在这里我应该叫你普罗霍尔......时间过去很久了，对于能否在这找到你的行踪，我原本并不抱有很大的希望。
+[name="西尔卡"]或者说，在这里我应该叫你普罗霍尔……时间过去很久了，对于能否在这找到你的行踪，我原本并不抱有很大的希望。
 [charslot(slot="m",name="avg_npc_2249_1#1$1",focus="n")]
-[name="普罗霍尔？"]呃......嗬——
+[name="普罗霍尔？"]呃……嗬——
 [charslot(slot="m",name="avg_npc_2249_1#1$1",focus="m")]
 [name="西尔卡"]但你始终尽忠职守，这很好。
 [charslot]
@@ -914,7 +914,7 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_2175_1#1$1",focus="m")]
-[name="激动的“议员”"]......“分区自治权”，就是宪法给不同的行政区政府赋予的明确的自治权力，很难理解吗？还是说你听不懂人话？
+[name="激动的“议员”"]……“分区自治权”，就是宪法给不同的行政区政府赋予的明确的自治权力，很难理解吗？还是说你听不懂人话？
 [charslot(slot="m",name="avg_npc_081",focus="m")]
 [name="不屑的“议员”"]分区了，然后呢？谁来治理，谁来给钱让这些人去治理，谁又为这群人的治理结果兜底？
 [name="不屑的“议员”"]环环套下来，这不纯粹就是脱了裤子放屁还必须坐在赤金马桶上吗？
@@ -928,7 +928,7 @@
 [stopsound(channel="out3",fadetime=1)]
 [charslot(slot="l",name="avg_188_helage_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_npc_1966_1#20$1",focus="n")]
-[name="赫拉格"]我以为这里是议会大厅......
+[name="赫拉格"]我以为这里是议会大厅……
 [charslot(slot="r",name="avg_npc_1966_1#2$1",focus="r")]
 [name="阿洛伊泽"]没错，这里是议会大厅。
 [charslot(slot="l",name="avg_188_helage_1#3$1",focus="l")]
@@ -936,7 +936,7 @@
 [charslot(slot="r",name="avg_npc_1966_1#1$1",focus="r")]
 [name="阿洛伊泽"]谁说您对政治不敏感的，这不一下就明白了。
 [charslot(slot="l",name="avg_188_helage_1#9$1",focus="l")]
-[name="赫拉格"]......
+[name="赫拉格"]……
 [charslot(slot="r",name="avg_npc_1966_1#13$1",focus="r")]
 [name="阿洛伊泽"]噢，想起来了，是副议长说的。他对您可能多少还是有点什么衣不染尘的恩师滤镜吧，别在意。
 [charslot(slot="l",name="avg_188_helage_1#11$1",focus="l")]
@@ -947,7 +947,7 @@
 [name="阿洛伊泽"]放心，很快的。他们吵的也无非就是那么几件事。
 [charslot]
 [charslot(slot="m",name="avg_npc_081",focus="m")]
-[name="不屑的“议员”"]......说的都是什么乱七八糟的东西，听不懂。陛下叫我们过来如果是为了听你说这些，那还不如直接继续听议会辩论呢！
+[name="不屑的“议员”"]……说的都是什么乱七八糟的东西，听不懂。陛下叫我们过来如果是为了听你说这些，那还不如直接继续听议会辩论呢！
 [name="不屑的“议员”"]那些负责盖橡皮章子的家伙至少吵起嘴来比咱们文雅动听——
 [charslot(slot="m",name="avg_npc_2175_1#1$1",focus="m")]
 [name="激动的“议员”"]陛下召开公民大会，不是为了让你这样粗俗的家伙进来恬不知耻地要钱要地的！
@@ -955,7 +955,7 @@
 [name="不屑的“议员”"]陛下召开公民大会是为了听我们的诉求，老板工厂开不下去了，我的诉求就是要钱要地，大家皆大欢喜！
 [name="不屑的“议员”"]这样，大家至少可以自己种点地做点小手工，不至于统统失业，铁河区才不会成为下一个卡托加区！
 [charslot(slot="m",name="avg_npc_2175_1#1$1",focus="m")]
-[name="激动的“议员”"]......一口一个“为了大家”，结果字里行间全是为了自己。铁河区选出来的“劳动代表”居然是这副德行......
+[name="激动的“议员”"]……一口一个“为了大家”，结果字里行间全是为了自己。铁河区选出来的“劳动代表”居然是这副德行……
 [name="激动的“议员”"]我跟你没什么好说的了。
 [charslot(slot="m",name="avg_npc_081",focus="m")]
 [name="不屑的“议员”"]我是大伙一票一票选出来的，你又是什么东西？你这*乌萨斯粗口*——
@@ -983,7 +983,7 @@
 [name="温和的“议员”"]两位。
 [charslot(slot="m",name="avg_npc_2248_1#2$1",focus="m")]
 [name="温和的“议员”"]现在只是意见收集期，有分歧是很正常的，我们可以平心静气地坐下来慢慢谈。
-[name="温和的“议员”"]虽然我们都不是贵族，但也请尽量维持体面......维持作为“议员”的体面，即使这身份只是暂时的。
+[name="温和的“议员”"]虽然我们都不是贵族，但也请尽量维持体面……维持作为“议员”的体面，即使这身份只是暂时的。
 [charslot(slot="m",name="avg_npc_2248_1#7$1",focus="m")]
 [name="温和的“议员”"]不能让那些真正的议员先生和女士们看了笑话，是不是？
 [charslot(slot="m",name="avg_npc_081",focus="m")]
@@ -995,7 +995,7 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_2175_1#1$1",focus="m")]
 [name="激动的“议员”"]斯维扎尔先生！我以为您不会来帮我说话了呢。
-[name="激动的“议员”"]在提交意见报告之前，我还有些问题需要找人聊聊。您来得正好，我一千个、一万个需要您的意见......
+[name="激动的“议员”"]在提交意见报告之前，我还有些问题需要找人聊聊。您来得正好，我一千个、一万个需要您的意见……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(slot="m",name="avg_npc_2175_1#1$1",afrom=1, ato=0,duration=1.5)]
@@ -1005,7 +1005,7 @@
 [charslot(slot="r",name="avg_npc_1966_1#2$1",focus="r")]
 [name="阿洛伊泽"]嗯。
 [charslot(slot="l",name="avg_188_helage_1#1$1",focus="l")]
-[name="赫拉格"]......
+[name="赫拉格"]……
 [charslot(slot="r",name="avg_npc_1966_1#2$1",focus="r")]
 [name="阿洛伊泽"]您看出些什么门道来了吗？
 [charslot(slot="l",name="avg_188_helage_1#1$1",focus="l")]
@@ -1032,13 +1032,13 @@
 [name="阿洛伊泽"]您没看出来的那部分大概是，争执的那两个人也都不是陛下想见的“公民议员”。
 [name="阿洛伊泽"]我这么说，不是因为他们中有的人没说脏话，也不是因为有的人说出了不符合他们认知的词语和概念。
 [charslot(slot="r",name="avg_npc_1966_1#10$1",focus="r")]
-[name="阿洛伊泽"]而是......他们各自的诉求都表达得太明确和清晰了。
+[name="阿洛伊泽"]而是……他们各自的诉求都表达得太明确和清晰了。
 [charslot(slot="r",name="avg_npc_1966_1#4$1",focus="r")]
-[name="阿洛伊泽"]这背后必然有人引导。而如果连陛下亲自宣布召开，直接听取意见的公民大会都有人做手脚......
+[name="阿洛伊泽"]这背后必然有人引导。而如果连陛下亲自宣布召开，直接听取意见的公民大会都有人做手脚……
 [charslot(slot="r",name="avg_npc_1966_1#2$1",focus="r")]
 [name="阿洛伊泽"]到最后，这大概不过又是另一次失败的改革罢了。
 [charslot(slot="l",name="avg_188_helage_1#9$1",focus="l")]
-[name="赫拉格"]......我必须再问一次。
+[name="赫拉格"]……我必须再问一次。
 [charslot(slot="l",name="avg_188_helage_1#11$1",focus="l")]
 [name="赫拉格"]你为什么要带我来这里？
 [charslot(slot="r",name="avg_npc_1966_1#1$1",focus="r")]
@@ -1052,10 +1052,10 @@
 [charslot(slot="r",name="avg_npc_1966_1#12$1",focus="r")]
 [name="阿洛伊泽"]不不不，恰恰相反。我认为自己和大部分的乌萨斯人没什么不同。
 [charslot(slot="r",name="avg_npc_1966_1#3$1",focus="r")]
-[name="阿洛伊泽"]我们只是想要还有明天，个人的明天、族群的明天，可这在现在多么困难......几乎快要成为一种奢望。
+[name="阿洛伊泽"]我们只是想要还有明天，个人的明天、族群的明天，可这在现在多么困难……几乎快要成为一种奢望。
 [name="阿洛伊泽"]因此，我必须抓住手边能抓住的所有助力——所有。您的实力和您的过去会对我的计划很有帮助，但如果您不愿意，我也只能另寻出路。
 [charslot(slot="l",name="avg_188_helage_1#11$1",focus="l")]
-[name="赫拉格"]......你的计划......
+[name="赫拉格"]……你的计划……
 [charslot(slot="r",name="avg_npc_1966_1#12$1",focus="r")]
 [name="阿洛伊泽"]还是等到更成熟的时候再讲给您听吧。
 [charslot(slot="r",name="avg_npc_1966_1#1$1",focus="r")]

@@ -30,9 +30,9 @@
 [Delay(time=2)]
 [Character(name="avg_166_skfire_1#1$1",fadetime=0.5)]
 [Delay(time=1)]
-[name="天火"]......这是什么？邀请函？
+[name="天火"]……这是什么？邀请函？
 [Character(name="avg_166_skfire_1#8$1")]
-[name="天火"]“今天我们邀请您参加......我们希望能和您共同庆祝，并邀请您品尝香槟，参观......今晚八点整，期待您的到来。”
+[name="天火"]“今天我们邀请您参加……我们希望能和您共同庆祝，并邀请您品尝香槟，参观……今晚八点整，期待您的到来。”
 [Character(name="avg_166_skfire_1#7$1")]
 [name="天火"]同学聚会啊，我有时候真的不明白这种浪费时间又不好推掉的东西，为什么会被称为“礼仪”。
 [multiline(name="天火")]下班了再去吧。希望今天这群老东西别给我——
@@ -57,20 +57,20 @@
 [name="自满的贵族同学"]即便亚当伯爵的头发堪比营养不良的玉米须，不是照样有人称赞他俊朗？
 [Character(name="avg_npc_176#1",name2="avg_npc_175#1",focus=1)]
 [name="高傲的贵族同学"]咳！您还和以前一样风趣。
-[name="高傲的贵族同学"]不过，要是论起财富，我手里的葡萄酒庄园，才更是......
+[name="高傲的贵族同学"]不过，要是论起财富，我手里的葡萄酒庄园，才更是……
 [Dialog]
 [Character(fadetime=0.5)]
 [Delay(time=1)]
 [PlaySound(key="$d_gen_walk_n",volume=0.7)]
 [Character(name="avg_166_skfire_1#9$1",fadetime=1)]
 [Delay(time=2)]
-[name="天火"]......
+[name="天火"]……
 [name="天火"]（互相攀比，炫耀资产，讽刺不在场的人，哼，这群人还是老样子。）
 [Character(name="avg_npc_243#1",name2="avg_npc_177#1",focus=1)]
-[name="寻找机会的商人同学"]安布卢斯伯爵，承蒙您的关心，我的工厂已然走上正轨！只是在它能为您带来更多的利润前，我还需要小小的一笔......
+[name="寻找机会的商人同学"]安布卢斯伯爵，承蒙您的关心，我的工厂已然走上正轨！只是在它能为您带来更多的利润前，我还需要小小的一笔……
 [Character(name="avg_npc_242#1",name2="avg_npc_176#1",focus=1)]
 [name="拉拢客户的商人同学"]啊哈哈，您还记得我，真是太荣幸了！当初我的座位就在您的后面！
-[name="拉拢客户的商人同学"]如果您愿意看看我的产业，我将会非常感激！......啊，这样，打扰了......
+[name="拉拢客户的商人同学"]如果您愿意看看我的产业，我将会非常感激！……啊，这样，打扰了……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.7)]
 [Character(name="avg_npc_242#1",name2="avg_npc_176#1")]
@@ -78,11 +78,11 @@
 [Character(fadetime=1)]
 [Delay(time=2)]
 [Character(name="avg_166_skfire_1#8$1")]
-[name="天火"]（把宴会当成向上的跳板，那些人也享受他们的奉承，真是......没有什么特别的。）
+[name="天火"]（把宴会当成向上的跳板，那些人也享受他们的奉承，真是……没有什么特别的。）
 [Character(name="avg_166_skfire_1#6$1")]
 [name="天火"]（我在这里待了够久了，该走了，回卡拉顿还要一段时间。）
 [Character(name="avg_npc_242#1")]
-[name="拉拢客户的商人同学"]......
+[name="拉拢客户的商人同学"]……
 [name="拉拢客户的商人同学"]蒙贝兰小姐？
 [Character(name="avg_166_skfire_1#8$1")]
 [name="天火"]嗯？
@@ -93,7 +93,7 @@
 [Delay(time=1)]
 [Character(name="avg_166_skfire_1#8$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]蒙贝兰小姐，果然是您！
-[name="拉拢客户的商人同学"]您尝尝，这是宴会上的香槟，我给您拿来......
+[name="拉拢客户的商人同学"]您尝尝，这是宴会上的香槟，我给您拿来……
 [Dialog]
 [characteraction(name="right", type="move", xpos=-100, fadetime=1.5, block=true)]
 [Delay(time=2)]
@@ -105,14 +105,14 @@
 [Character(name="avg_166_skfire_1#6$1",name2="avg_npc_242#1",focus=1)]
 [name="天火"]失礼了。如果没有什么要紧的事，我还有自己的事情需要处理。
 [Character(name="avg_166_skfire_1#6$1",name2="avg_npc_242#1",focus=2)]
-[name="拉拢客户的商人同学"]啊，是这样的，我听闻蒙贝兰小姐现在在议会工作，而我又正好在经营一家小小的工厂，虽然规模并不大，但......
+[name="拉拢客户的商人同学"]啊，是这样的，我听闻蒙贝兰小姐现在在议会工作，而我又正好在经营一家小小的工厂，虽然规模并不大，但……
 [name="拉拢客户的商人同学"]如果能有好机会，它也能像伊莎贝拉的产业一样赚钱！而我自然会给您——我的贵人，送上精致的礼物，来表达我的感谢。
-[name="拉拢客户的商人同学"]比如说，来自议会的......
+[name="拉拢客户的商人同学"]比如说，来自议会的……
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1",focus=1)]
 [name="天火"]我并不感兴趣。
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]（这大小姐，她是不是还根本不知道我的工厂究竟是做什么的？）
-[name="拉拢客户的商人同学"]（还是一样没怎么真的经历事情，贵族......一群仗着自己的血统就瞧不起人的......我这么放低姿态还不是——！）
+[name="拉拢客户的商人同学"]（还是一样没怎么真的经历事情，贵族……一群仗着自己的血统就瞧不起人的……我这么放低姿态还不是——！）
 [name="拉拢客户的商人同学"]蒙贝兰小姐，您不知道，我的工厂就在卡拉顿。多亏了您和各位议员的努力，我才能把它办起来。
 [name="拉拢客户的商人同学"]您不是一直厌恶那些低贱的暴徒吗？为了您心爱的宠物，他们也算付出了相应的代价。
 [name="拉拢客户的商人同学"]而现在，感谢这些政策。议会也是向着我们的，不是吗？那些低贱的人，就是为了我们而存在的，而我已经学会了好好利用这些的方法——
@@ -131,13 +131,13 @@
 [Character(name="avg_166_skfire_1#6$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]这是我的名片，请您先收下！
 [Character(name="avg_166_skfire_1#8$1",name2="avg_npc_242#1",focus=1)]
-[name="天火"]......哼，让我看看。
+[name="天火"]……哼，让我看看。
 [Character(name="avg_166_skfire_1#8$1",name2="avg_npc_242#1",focus=1)]
 [name="天火"]“巴伦工厂”？
 [Character(name="avg_166_skfire_1#8$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]对对！
 [Character(name="avg_166_skfire_1#8$1",name2="avg_npc_242#1",focus=1)]
-[name="天火"]......
+[name="天火"]……
 [name="天火"]唔，是巴伦工厂啊。
 [Character(name="avg_166_skfire_1#8$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]蒙贝兰小姐听说过？
@@ -147,17 +147,17 @@
 [name="天火"]在议会我们以你的工厂为案例，讨论过新的议案规划。
 [name="天火"]私下里，我和我的老师也关注过你的工厂。当初送来的名单上，“巴伦工厂”的名字可是排在前面的。
 [Character(name="avg_166_skfire_1#1$1",name2="avg_npc_242#1",focus=2)]
-[name="拉拢客户的商人同学"]啊，真的吗！真是我的荣幸！那么我能......？
+[name="拉拢客户的商人同学"]啊，真的吗！真是我的荣幸！那么我能……？
 [Character(name="avg_166_skfire_1#3$1",name2="avg_npc_242#1",focus=1)]
 [name="天火"]我已经签署了保密协议。
 [Character(name="avg_166_skfire_1#3$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]当然！您自然不会做出泄露机密这种事来！我只是希望您能让我也小小地参与进这议会的聊天中来，茶余饭后，增些谈资。
-[name="拉拢客户的商人同学"]比如......
+[name="拉拢客户的商人同学"]比如……
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1",focus=1)]
 [name="天火"]比如我们正准备对工作时长做出新的规定？
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]正是！
-[name="拉拢客户的商人同学"]如若能邀请您来我的工厂看看，我将十分荣幸......
+[name="拉拢客户的商人同学"]如若能邀请您来我的工厂看看，我将十分荣幸……
 [StopMusic(fadetime=2)]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -199,7 +199,7 @@
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1",focus=1)]
 [name="天火"]亲眼看了才行。
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1",focus=2)]
-[name="拉拢客户的商人同学"]好，好，您先快把护具戴好吧，我舍命陪君子......
+[name="拉拢客户的商人同学"]好，好，您先快把护具戴好吧，我舍命陪君子……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -214,7 +214,7 @@
 [name="天火"]就是这里了？工人们呢？
 [Character(name="avg_166_skfire_1#1$1",name2="avg_npc_242#1",focus=2)]
 [name="拉拢客户的商人同学"]蒙贝兰小姐，我没想到您对这里如此上心。怎么可能真的让您和感染者站在一起，我已经下令让他们先走，净化装置也开到了最大功率。
-[name="拉拢客户的商人同学"]我们也不要在这里待太久，说实话，我也还是第一......啊，也有一阵子没来这里了。
+[name="拉拢客户的商人同学"]我们也不要在这里待太久，说实话，我也还是第一……啊，也有一阵子没来这里了。
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1",focus=1)]
 [name="天火"]哦。我也就是四处看看。
 [name="天火"]毕竟按照你说的，这里可是为你赚了不少钱，我自然更关心。而且，你忘了？我和我的老师之前就很关心你的工厂。
@@ -248,10 +248,10 @@
 [Character(name="avg_166_skfire_1#8$1")]
 [name="天火"]防暴设备就这样放在这里，不怕引起感染者的恐惧心理，诱发混乱？
 [Character(name="avg_npc_242#1")]
-[name="拉拢客户的商人同学"]这......哈哈，蒙贝兰小姐就多虑啦。
+[name="拉拢客户的商人同学"]这……哈哈，蒙贝兰小姐就多虑啦。
 [name="拉拢客户的商人同学"]他们看不到的。
 [Character(name="avg_166_skfire_1#9$1")]
-[name="天火"]看不到......？
+[name="天火"]看不到……？
 [Dialog]
 [Character(name="avg_166_skfire_1#9$1",name2="avg_npc_242#1")]
 [characteraction(name="right", type="move", xpos=100, fadetime=0, block=false)]
@@ -348,7 +348,7 @@
 烈火能焚烧掉一切，但无法解决问题。
 她捏着酒杯，站在工厂里，按下了自己有些浮动的呼吸。
 [Character(name="avg_166_skfire_1#3$1")]
-[name="天火"]......
+[name="天火"]……
 [Character(name="avg_166_skfire_1#9$1")]
 [name="天火"]下次议会的时间想必你也知道。
 [name="天火"]等待好消息吧。
@@ -376,17 +376,17 @@
 [name="天火"]其实，我记得这位同学，我也知道他找上我的时候，那句“位置是在我后面”其实是真的。
 [name="天火"]虽然他对在场的每位贵族都这样说，但他确实曾坐在我身后。
 [Character(name="avg_166_skfire_1#9$1")]
-[name="天火"]他以前......不是这样的人。
+[name="天火"]他以前……不是这样的人。
 [Character]
 [name="昂斯特议员"]他以前，是个好孩子吗？
 [Character(name="avg_166_skfire_1#8$1")]
-[name="天火"]倒也不算，但也不是现在这种人......我在想，他是因为本性如此，才这样做的吗？我觉得不是的，老师。
+[name="天火"]倒也不算，但也不是现在这种人……我在想，他是因为本性如此，才这样做的吗？我觉得不是的，老师。
 [name="天火"]就是因为他试着钻了条例的空子，却发现根本没人在意，他才一步一步走到现在这个样子的。
-[name="天火"]我......
+[name="天火"]我……
 [Character]
 [name="昂斯特议员"]你是觉得，现在你很矛盾吗，蒙贝兰小姐？
 [Character(name="avg_166_skfire_1#9$1")]
-[name="天火"]不，老师，我并不觉得矛盾，我只是觉得有些......
+[name="天火"]不，老师，我并不觉得矛盾，我只是觉得有些……
 [Character(name="avg_166_skfire_1#7$1")]
 [name="天火"]说不清。不过，我现在很清楚地知道我应该要做什么。
 [name="天火"]安摩斯，辛苦你给老师再讲明一下黑工厂的事情。
@@ -399,7 +399,7 @@
 [name="线人"]根据蒙贝兰小姐提供的资料，我推测里面的就是之前几批消失的重症感染者工人——
 [name="线人"]因为重症，失去了医疗必要，于是被当作一次性劳动力，关在地下工厂劳动至死。然后工厂丢弃他们，再去补充新的一批感染者工人。
 [Character]
-[name="昂斯特议员"]嗯......我清楚了。
+[name="昂斯特议员"]嗯……我清楚了。
 [Character]
 [name="昂斯特议员"]那么，蒙贝兰小姐，你对这件事的处理方法是？
 [StopMusic(fadetime=2)]
@@ -418,7 +418,7 @@
 [name="贵族议员们"]这对我们来说意义并不大，希望你能清楚地认识到。
 [name="贵族议员们"]昂斯特议员让你来这里，难道就是为了让你揪着小工厂不放的吗？
 [Character(name="avg_166_skfire_1#9$1")]
-[name="天火"]......
+[name="天火"]……
 [name="天火"]我希望为在座各位指出的是，这起事件的重点是失踪感染者工人被关在此处武装看管，限制人身自由，甚至死者被秘密处理。
 [name="天火"]并且，他们在源石粉尘浓度过高的工作环境里工作，没有相应的防护措施及通讯设备。以上每一点都与现行的政策相违背。
 [name="天火"]卡拉顿因为现行的政策对感染者而言相对宽松，才能吸引到大批感染者前来工作，这也是这里发展起来的根本。
@@ -430,8 +430,8 @@
 [playsound(key="$d_avg_crwddiscuss_inside", loop=true, channel="a",volume=0.4)]
 [Delay(time=1)]
 [StopSound(channel="a", fadetime=2)]
-[name="贵族议员们"]......
-[name="贵族议员们"]............
+[name="贵族议员们"]……
+[name="贵族议员们"]…………
 [Character(name="avg_166_skfire_1#7$1")]
 [name="天火"]所以这条并不算是议案，只是一次工厂清理。而为了卡拉顿的名声，被解救出来的感染者工人，需要得到妥善的安排，以议会的名义。
 [name="天火"]这次查封行动，也需要以议会的名义，做给外界看。
@@ -463,7 +463,7 @@
 [name="拉拢客户的商人同学"]怎、怎么回事！你们是？
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="拉拢客户的商人同学"]你们进来干什么！
-[name="拉拢客户的商人同学"]啊、啊，这里面可都是感染者......
+[name="拉拢客户的商人同学"]啊、啊，这里面可都是感染者……
 [Character(name="avg_npc_241#1")]
 [name="维多利亚军官"]你们，去下面。
 [Character(name="avg_npc_242#1")]
@@ -529,7 +529,7 @@
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="拉拢客户的商人同学"]蒙贝兰小姐！！
 [Character(name="avg_166_skfire_1#9$1")]
-[name="天火"]啊，是你......怎么了？
+[name="天火"]啊，是你……怎么了？
 [Character(name="avg_npc_242#1")]
 [name="拉拢客户的商人同学"]你、我的工厂？！
 [name="拉拢客户的商人同学"]为什么今早突然有一批人来我的工厂，包括地下的事，他们——怎么回事？！
@@ -538,7 +538,7 @@
 [name="天火"]你不是之前找我帮你吗？
 [name="天火"]这就是我给你的帮助。
 [Character(name="avg_npc_242#1")]
-[name="拉拢客户的商人同学"]什......？！
+[name="拉拢客户的商人同学"]什……？！
 [Character(name="avg_166_skfire_1#3$1")]
 [name="天火"]你打听到了消息，但没有打听清楚。
 [Dialog]

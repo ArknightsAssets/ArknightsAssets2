@@ -30,16 +30,16 @@
 [charslot(slot = "r", name = "avg_4235_thumpy_1#12$1",posfrom="30,60",posto="30,60",focus="l")]
 [charslot(slot="r",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,isblock=true)]
 [name="安洁莉娜"]糟了，没控制好源石技艺的方向，车在空中转了太多圈了！
-[name="安洁莉娜"]虽然车后座的物资箱应该没有受影响，但......塔妮，你还好吗？
+[name="安洁莉娜"]虽然车后座的物资箱应该没有受影响，但……塔妮，你还好吗？
 [playMusic(key="$comedy_loop", volume=0.6)]
 [charslot(slot = "r", name = "avg_4235_thumpy_1#12$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
-[name="塔妮"]不......
+[name="塔妮"]不……
 [charslot(slot = "l", name = "avg_1015_aglna2_1#8$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
 [name="安洁莉娜"]不舒服？快，我这里有晕车药！
 [charslot(slot = "r", name = "avg_4235_thumpy_1#6$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
-[name="塔妮"]不......不是还好，是非常好，特别特别好！这是我十八年来最好的一天！这才是探险，这才是我想要的人生！哇，太刺激了！
+[name="塔妮"]不……不是还好，是非常好，特别特别好！这是我十八年来最好的一天！这才是探险，这才是我想要的人生！哇，太刺激了！
 [charslot(slot = "l", name = "avg_1015_aglna2_1#16$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
-[name="安洁莉娜"]呃......你没有不舒服就好，之前我练习源石技艺的时候，陪我练习的干员就会晕车，一般转个三圈就会吐了。
+[name="安洁莉娜"]呃……你没有不舒服就好，之前我练习源石技艺的时候，陪我练习的干员就会晕车，一般转个三圈就会吐了。
 [charslot(slot = "l",focus="n")]
 [name="？？？"]哕——
 [charslot(slot = "l", name = "avg_1015_aglna2_1#20$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
@@ -66,7 +66,7 @@
 [charslot(slot = "r", name = "avg_4235_thumpy_1#4$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
 [name="塔妮"]（竖起耳朵）
 [charslot(slot = "l",focus="n")]
-[name="？？？"]......
+[name="？？？"]……
 [name="？？？"]哕——
 [charslot(slot = "r", name = "avg_4235_thumpy_1#7$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
 [name="塔妮"]在物资箱里！
@@ -77,7 +77,7 @@
 [charslot(slot = "l", name = "avg_1015_aglna2_1#15$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
 [name="安洁莉娜"]哇，好可怕耶。
 [charslot(slot = "l",focus="n")]
-[name="物资箱？"]......你们听上去也太敷衍了。最起码得——哕......
+[name="物资箱？"]……你们听上去也太敷衍了。最起码得——哕……
 [charslot(slot = "l", name = "avg_1015_aglna2_1#1$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
 [name="安洁莉娜"]有袋鼷兽不会吃人也不会晕车，出来吧，陌生的小姐。
 [dialog]
@@ -88,7 +88,7 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4237_jcinta_1#3$1",duration=1,posfrom = "0,-150", posto = "0,-80")]
 [Delay(time=0.5)]
-[name="衣着体面的少女"]唔......自我介绍一会儿再说，先、先给我一片晕车药......
+[name="衣着体面的少女"]唔……自我介绍一会儿再说，先、先给我一片晕车药……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
@@ -108,12 +108,12 @@
 [charslot(slot="m",name="avg_1015_aglna2_1#1$2")]
 [multiline(name="安洁莉娜")]谢谢，这是我们的干员莱娜小姐在我出门前塞给我的，具有稳定心神的效果——
 [charslot(slot="m",name="avg_1015_aglna2_1#3$2")]
-[multiline(name="安洁莉娜")]不对，话题扯远了......
+[multiline(name="安洁莉娜")]不对，话题扯远了……
 [charslot(slot="m",name="avg_1015_aglna2_1#22$2")]
 [name="安洁莉娜"]你为什么躲在我的越野车物资箱里？
 [charslot(slot="m",name="avg_4237_jcinta_1#11$1")]
 [name="嘉辛塔"]哎呀，还不是因为我的父母只允许我在大涌泉镇周边度假！
-[name="嘉辛塔"]那儿是出了名的度假地，我都去过多少次了，连间歇泉的喷发时间都背出来了......
+[name="嘉辛塔"]那儿是出了名的度假地，我都去过多少次了，连间歇泉的喷发时间都背出来了……
 [charslot(slot="m",name="avg_4237_jcinta_1#8$1")]
 [name="嘉辛塔"]所以我就用了点小手段从保镖手里逃出来，自己找乐子咯。
 [charslot(slot="m",name="avg_1015_aglna2_1#22$2")]
@@ -121,7 +121,7 @@
 [charslot(slot="m",name="avg_4235_thumpy_1#10$2")]
 [name="塔妮"]你说的保镖是头盔姐安珀和路障哥皮塔的同伙吗？
 [charslot(slot="m",name="avg_4237_jcinta_1#6$1")]
-[name="嘉辛塔"]什么跟什么呀......
+[name="嘉辛塔"]什么跟什么呀……
 [charslot(slot="m",name="avg_1015_aglna2_1#2$2")]
 [name="安洁莉娜"]所以我在大涌泉镇内和镇门口看到的黑衣人都是嘉辛塔你的保镖，也就是说现在回大涌泉镇也不会有人找塔妮麻烦，那——
 [charslot(slot="m",name="avg_4235_thumpy_1#2$2")]
@@ -138,7 +138,7 @@
 [charslot(slot="m",name="avg_4235_thumpy_1#16$2")]
 [name="塔妮"]哎呀，安洁莉娜，看来我们不得不往南继续走啦！
 [charslot(slot="m",name="avg_1015_aglna2_1#2$2")]
-[name="安洁莉娜"]......
+[name="安洁莉娜"]……
 [name="安洁莉娜"]反正现在也没有离大涌泉镇太远，嘉辛塔可以等在这里，塔妮我先把你送回去。
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_4235_thumpy_1#11$2")]
@@ -146,19 +146,19 @@
 [charslot(slot="m",name="avg_1015_aglna2_1#3$2")]
 [name="安洁莉娜"]不行吗？
 [charslot(slot="m",name="avg_4237_jcinta_1#3$1")]
-[name="嘉辛塔"]我......不行吗？
+[name="嘉辛塔"]我……不行吗？
 [charslot(slot="m",name="avg_4235_thumpy_1#11$2")]
-[name="塔妮"]当、当然不行！因......因为......
+[name="塔妮"]当、当然不行！因……因为……
 [playMusic(intro="$jealous_intro",key="$jealous_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4235_thumpy_1#10$2")]
 [name="塔妮"]我听奶奶说过，零号公路上没有路灯，一到夜晚，行人的帐篷就会变成荒野里唯一的光源。
-[name="塔妮"]对于行人而言，这是赶了一天路之后应得的慰藉，但，对于荒野中狂暴的牙兽群而言，也是如此......
+[name="塔妮"]对于行人而言，这是赶了一天路之后应得的慰藉，但，对于荒野中狂暴的牙兽群而言，也是如此……
 [charslot(slot="m",name="avg_4237_jcinta_1#3$1")]
 [name="嘉辛塔"]（咽口水）
 [charslot(slot="m",name="avg_4235_thumpy_1#4$2")]
 [name="塔妮"]嘉辛塔小姐，你有想过吗？为什么我们从来没有在路边见到任何一个行人，任何一顶帐篷？
 [charslot(slot="m",name="avg_4237_jcinta_1#5$1")]
-[name="嘉辛塔"]为......为什么......
+[name="嘉辛塔"]为……为什么……
 [charslot(slot="m",name="avg_4235_thumpy_1#2$2")]
 [multiline(name="塔妮")]牙兽吃东西，
 [BackgroundTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=1.5, yScaleTo=1.5, duration=0, block=false,screenadapt="coverall")]
@@ -166,7 +166,7 @@
 [multiline(name="塔妮")]可是从来不吐骨头的呀。
 [BackgroundTween(xScaleFrom=1.8, yScaleFrom=1.8, xScaleTo=1, yScaleTo=1, duration=0, block=false,screenadapt="coverall")]
 [charslot(slot="m",name="avg_4237_jcinta_1#3$1")]
-[name="嘉辛塔"]......
+[name="嘉辛塔"]……
 [dialog]
 [stopmusic(fadetime=2)]
 [PlaySound(key="$d_avg_slip",volume=1)]
@@ -177,7 +177,7 @@
 [charslot(slot="r",name="avg_4237_jcinta_1#3$1",posfrom="-180,0",posto="0,0",focus="r")]
 [name="嘉辛塔"]罗德岛的信使，我、我聘请你保护我的安全！尤其是夜晚，不能离开我们的帐篷！
 [charslot(slot="m",name="avg_1015_aglna2_1#15$2",focus="m")]
-[name="安洁莉娜"]唉......塔妮，你别吓嘉辛塔了。
+[name="安洁莉娜"]唉……塔妮，你别吓嘉辛塔了。
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_4235_thumpy_1#11$2")]
@@ -204,7 +204,7 @@
 [charslot]
 [charslot(slot="m",name="avg_1015_aglna2_1#10$2",focus="m")]
 [charslot(slot="r",name="avg_4237_jcinta_1#3$1",focus="m")]
-[name="安洁莉娜"]唉......
+[name="安洁莉娜"]唉……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -266,11 +266,11 @@
 [charslot(slot="r",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="l")]
 [charslot(slot = "l", name = "avg_1015_aglna2_1#20$2",posfrom="20,60",posto="20,60",focus="l")]
 [charslot(slot="l",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="l")]
-[name="安洁莉娜"]......
+[name="安洁莉娜"]……
 [charslot(slot = "r",name = "avg_4235_thumpy_1#1$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
 [name="塔妮"]安洁莉娜，你怎么不跟我们一起唱！
 [charslot(slot = "l", name = "avg_1015_aglna2_1#15$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
-[name="安洁莉娜"]你唱之前都说了，这首歌谣是雷姆必拓人的童年回忆，我又不会......
+[name="安洁莉娜"]你唱之前都说了，这首歌谣是雷姆必拓人的童年回忆，我又不会……
 [charslot(slot = "r",name = "avg_4235_thumpy_1#1$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
 [name="塔妮"]对哦，我们现在的感觉太像同学们的毕业旅行了，搞得我都忘了你是叙拉古人。
 [Dialog]
@@ -287,7 +287,7 @@
 [charslot(slot="r",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="l")]
 [charslot(slot = "l", name = "avg_1015_aglna2_1#14$2",posfrom="20,60",posto="20,60",focus="l")]
 [charslot(slot="l",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="l")]
-[name="安洁莉娜"]......哦......呜哦......
+[name="安洁莉娜"]……哦……呜哦……
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4237_jcinta_1#1$1",posfrom="0,70",posto="0,70")]
@@ -315,7 +315,7 @@
 [charslot(slot = "r",name = "avg_4235_thumpy_1#17$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
 [name="塔妮"]哈哈哈，好耶，安洁也会唱我们的歌了！
 [charslot(slot = "l", name = "avg_1015_aglna2_1#1$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
-[name="安洁莉娜"]噗......好啦，快看地图塔妮，你不是说你精通探路者的理论知识吗，看看我们是不是快到了？
+[name="安洁莉娜"]噗……好啦，快看地图塔妮，你不是说你精通探路者的理论知识吗，看看我们是不是快到了？
 [charslot(slot = "r",name = "avg_4235_thumpy_1#1$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
 [name="塔妮"]好！
 [charslot(slot = "r",name = "avg_4235_thumpy_1#2$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
@@ -325,7 +325,7 @@
 [charslot(slot = "r",name = "avg_4235_thumpy_1#5$1",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="r")]
 [name="塔妮"]洋蓟村虽然距离大涌泉镇不是很远，但因为地势的关系这座人口不多的小村子里也建了一座远程通讯塔，应该很显眼——
 [charslot(slot = "l", name = "avg_1015_aglna2_1#1$2",action="zoom",poszoom="0.5,0.65",scale=1.1,focus="l")]
-[name="安洁莉娜"]哦！我好像看到前面的通讯塔了，上面......
+[name="安洁莉娜"]哦！我好像看到前面的通讯塔了，上面……
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4237_jcinta_1#6$1",posfrom="0,70",posto="0,70")]
@@ -339,7 +339,7 @@
 [charslot(slot="l",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
 [charslot(slot = "r",name = "avg_4235_thumpy_1#7$1",posfrom="50,60",posto="50,60",focus="r")]
 [charslot(slot="r",action="zoom",poszoom="0.5,0.65",scale=1.1,duration=0,focus="r")]
-[name="塔妮"]好像塔上有一个人，还在喊着什么......
+[name="塔妮"]好像塔上有一个人，还在喊着什么……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, style = "verticalslider", inverse = true, fadetime=2, block=true)]
 [charslot]
@@ -355,15 +355,15 @@
 [playMusic(intro="$darkness02_intro",key="$darkness01_loop", volume=0.6)]
 几分钟前
 [charslot(slot = "m", name = "avg_4236_tmslot_1#6$1")]
-[name="慌张的少女"]你们别过来......再过来，我就要动手了！
+[name="慌张的少女"]你们别过来……再过来，我就要动手了！
 [dialog]
 [charslot(slot = "m", name = "avg_npc_006")]
 [name="愤怒的村民"]你的车把我家的墙都撞烂了，我家客厅现在有一半是你的引擎盖！
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1")]
 [name="不满的村民"]别再往后退了，你快撞到我们的胡萝卜架了！这可是我晒得最好的一批胡萝卜干，别把它们弄掉了！
 [charslot(slot = "m", name = "avg_4236_tmslot_1#8$1")]
-[name="慌张的少女"]墙的事情真的很对不起，我会想办法补偿......但这个建筑真的不是胡萝卜架，是我们公司造的通讯塔！
-[name="慌张的少女"]它们可是支撑了零号公路沿线区域长达九个月的远程通讯，直到......直到两个月前的技术事故才断连了......
+[name="慌张的少女"]墙的事情真的很对不起，我会想办法补偿……但这个建筑真的不是胡萝卜架，是我们公司造的通讯塔！
+[name="慌张的少女"]它们可是支撑了零号公路沿线区域长达九个月的远程通讯，直到……直到两个月前的技术事故才断连了……
 [charslot(slot = "m", name = "avg_npc_006")]
 [name="愤怒的村民"]可里面那两个人走的时候跟我们说了，这东西以后归我们管，拿来晾东西完全没问题！
 [charslot(slot = "m", name = "avg_4236_tmslot_1#5$1")]
@@ -377,8 +377,8 @@
 [name="愤怒的村民"]他们走之前我大着胆子问他们，这座塔到底是干什么的。他们说：“你们爱干什么干什么！归你们管理，晒你们的胡萝卜去吧！”
 [name="愤怒的村民"]之后他们就再也没回来！
 [charslot(slot = "m", name = "avg_4236_tmslot_1#3$1")]
-[name="慌张的少女"]（完了完了完了......这下彻底讲不明白了......）
-[name="慌张的少女"]（怎么办怎么办，又......又要往下一个通讯塔站点逃吗？可是......）
+[name="慌张的少女"]（完了完了完了……这下彻底讲不明白了……）
+[name="慌张的少女"]（怎么办怎么办，又……又要往下一个通讯塔站点逃吗？可是……）
 [dialog]
 [charslot]
 眼前的阿纳缇越退越后，眼看她身上的设备就要把背后晒得金黄的胡萝卜干扫落。
@@ -402,12 +402,12 @@
 [name="不满的村民"]我们家已经连续五年晒出整个洋蓟村最好吃的胡萝卜干了，让你一个哭唧唧的孩子搅黄了算什么事儿啊！
 [dialog]
 [charslot]
-[name="慌张的少女"]我、我不会下来的，我本来就恐高，一旦爬上来了，不修好塔我是绝对不会下来的！但、但是......
+[name="慌张的少女"]我、我不会下来的，我本来就恐高，一旦爬上来了，不修好塔我是绝对不会下来的！但、但是……
 [charslot(slot = "m", name = "avg_npc_006")]
 [name="愤怒的村民"]但是什么？
 [dialog]
 [charslot]
-[name="慌张的少女"]好可怕啊呜呜呜，救......救命，救命啊！
+[name="慌张的少女"]好可怕啊呜呜呜，救……救命，救命啊！
 [charslot(slot = "m", name = "avg_npc_006")]
 [name="愤怒的村民"]你还喊救命？像话吗！
 [name="愤怒的村民"]明明你才是那个喊着“通讯塔！通讯塔！”开车撞进村里的可疑人士，现在搞得好像是我们不讲理一样！
@@ -438,7 +438,7 @@
 [charslot(slot = "m", name = "avg_1015_aglna2_1#17$1",posfrom="50,0",posto="50,0")]
 [name="安洁莉娜"]各位先不要激动。我是路过的罗德岛信使，她们是顺路搭车的同伴。
 [name="安洁莉娜"]我们都从大涌泉镇来，那里也是零号公路远程通讯网络最北端的站点，我们可以证明各位的“晒胡萝卜架”确实也有远程通讯的功能。
-[name="安洁莉娜"]如果你们怀疑这名正哭得撕心裂肺的女孩的身份......嘉辛塔？
+[name="安洁莉娜"]如果你们怀疑这名正哭得撕心裂肺的女孩的身份……嘉辛塔？
 [charslot(slot = "m", name = "avg_4237_jcinta_1#10$1",posfrom="0,0",posto="0,0")]
 [name="嘉辛塔"]坎贝尔家跟远程通讯的研发公司——纵贯红土公司有合作关系，那女孩身上的设备上都有他们公司的标志。
 [name="嘉辛塔"]而且纵贯红土公司为了垄断整个远程通讯产业，在宣传上下了不少功夫，标志也用特殊的涂层处理过。
@@ -452,13 +452,13 @@
 [charslot]
 [charslot(slot = "m", name = "avg_npc_006",posfrom="0,0",posto="0,0")]
 [name="愤怒的村民"]可就算这胡萝卜架有通讯功能，我们村里的人也用不上啊？不管通讯坏没坏我们的日子还是照过，胡萝卜也照晒。
-[name="愤怒的村民"]但要是修塔对我们的生活没有一点好处，还糟蹋了我们的胡萝卜干......
+[name="愤怒的村民"]但要是修塔对我们的生活没有一点好处，还糟蹋了我们的胡萝卜干……
 [dialog]
 [charslot]
 围观的村民窃窃私语。
 他们似乎相信了胡萝卜架上的阿纳缇并非可疑人士，但对于收成的执着，让他们不愿轻易交出通讯塔的修理权。
 [charslot(slot = "m", name = "avg_1015_aglna2_1#22$1",posfrom="50,0",posto="50,0")]
-[name="安洁莉娜"]唔......
+[name="安洁莉娜"]唔……
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2355_1#1$1",focus="l",posfrom="50,0",posto="50,0")]

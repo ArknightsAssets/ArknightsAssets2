@@ -43,7 +43,7 @@
 [name="“伊比利亚人”"]我只能追赶它带来的变化，我只能追赶你们。追赶你们所创造的一切。
 [name="“伊比利亚人”"]我用尽了各种办法，我在伊比利亚发现了一个荒废的镇子，我住了进去。
 [name="“伊比利亚人”"]我们住了进去。
-[name="“伊比利亚人”"]我们让那座镇子重新运行起来，工作，交流，商业，交通......
+[name="“伊比利亚人”"]我们让那座镇子重新运行起来，工作，交流，商业，交通……
 [name="“伊比利亚人”"]两百个我组成了一个小镇。
 [charslot(slot="l",name="avg_npc_650_1#1$1",focus="l")]
 [name="Logos"]我不知道你至今都没有陷入疯狂，是你的幸运还是不幸。
@@ -101,7 +101,7 @@
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]知道这个秘密的人可不多。
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
-[name="Logos"]我的几个朋友教过我一种愚蠢的游戏......
+[name="Logos"]我的几个朋友教过我一种愚蠢的游戏……
 [charslot(slot="m",name="avg_npc_650_1#1$1",focus="m")]
 [name="Logos"]不，还是算了。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
@@ -119,7 +119,7 @@
 [playMusic(intro="$darkness02_intro", key="$darkness02_loop", volume=0.6)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]没有......是什么意思？
+[name="阿米娅"]没有……是什么意思？
 [charslot(slot="m",name="avg_npc_866_1#3$1",focus="m")]
 [name="戴菲恩"]没有就是没有，该死的！
 [charslot(slot="m",name="avg_npc_866_1#3$1",focus="m")]
@@ -133,7 +133,7 @@
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]但最起码，我们又回到同一条起跑线了，大家重新有了挣奖金的机会。
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
-[name="戴菲恩"]无论是服务于开斯特公爵的你，还是深池的鬼魂部队......
+[name="戴菲恩"]无论是服务于开斯特公爵的你，还是深池的鬼魂部队……
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
 [name="戴菲恩"]你们都以秘密潜入的方式进入这个地块，这就说明了，你们想维持诺伯特区表面上的现状。
 [charslot(slot="m",name="avg_npc_866_1#1$1",focus="m")]
@@ -143,9 +143,9 @@
 [charslot(slot="m",name="avg_4087_ines_1#13$1",focus="m")]
 [name="伊内丝"]只要你的那位公爵母亲知道你还在这里，她就会想办法来救你的，对吧。
 [charslot(slot="m",name="avg_npc_866_1#5$1",focus="m")]
-[name="戴菲恩"]......
+[name="戴菲恩"]……
 [charslot(slot="m",name="avg_npc_866_1#5$1",focus="m")]
-[name="戴菲恩"]我不能保证......
+[name="戴菲恩"]我不能保证……
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]承认自己和母亲的关系不错没什么丢人的。
 [dialog]
@@ -159,7 +159,7 @@
 [Decision(options="看来你能做到。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_4087_ines_1#13$1",focus="m")]
-[name="伊内丝"]......我真的很讨厌你这一点。
+[name="伊内丝"]……我真的很讨厌你这一点。
 [charslot(slot="m",name="avg_4087_ines_1#13$1",focus="m")]
 [name="伊内丝"]不过，好吧，我会试着去做。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
@@ -181,9 +181,9 @@
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]阴谋与纷争终会消弭。
 [charslot(slot="m",name="avg_npc_394_1#3$1",focus="m")]
-[name="阿米娅"]有一位......我十分十分想念的人和我说过......
+[name="阿米娅"]有一位……我十分十分想念的人和我说过……
 [charslot(slot="m",name="avg_npc_394_1#3$1",focus="m")]
-[name="阿米娅"]也许有一天......这片大地上的每一个人，都能平静入梦。
+[name="阿米娅"]也许有一天……这片大地上的每一个人，都能平静入梦。
 [dialog]
 [PlaySound(key="$d_gen_walk_n",volume=1)]
 [charslot(duration=0.7)]
@@ -198,24 +198,24 @@
 [charslot(slot="m",name="avg_npc_865_1#1$1",focus="m")]
 [name="考伯特"]珀茜瓦尔！珀茜瓦尔！
 [charslot(slot="m",name="avg_npc_865_1#10$1",focus="m")]
-[name="考伯特"]她又跑到哪里去了......
+[name="考伯特"]她又跑到哪里去了……
 [charslot(slot="m",name="avg_npc_865_1#10$1",focus="m")]
 [name="考伯特"]好吧，就让我这个老家伙自己待一会儿吧。
 [dialog]
 [charslot]
 这位年迈的酒店经理找来了一张同样年迈的扶手椅，选了个舒服的姿势坐了进去。
 [charslot(slot="m",name="avg_npc_865_1#3$1",focus="m")]
-[name="考伯特"]她......那个卡特斯女孩，就是魔王吗？
+[name="考伯特"]她……那个卡特斯女孩，就是魔王吗？
 [charslot(slot="m",name="avg_npc_865_1#3$1",focus="m")]
 [name="考伯特"]追上这些变化越来越难了，就连我都要为此吃惊。
 [charslot(slot="m",name="avg_npc_865_1#3$1",focus="m")]
-[name="考伯特"]变化......变化，也许我怠惰于这种变化了吧。
+[name="考伯特"]变化……变化，也许我怠惰于这种变化了吧。
 [charslot(slot="m",name="avg_npc_865_1#3$1",focus="m")]
 [name="考伯特"]变化毕竟不是前进。
 [charslot(slot="m",name="avg_npc_865_1#11$1",focus="m")]
-[name="考伯特"]好了，也该告别这位老朋友了，说实话......我真的很喜欢这里。
+[name="考伯特"]好了，也该告别这位老朋友了，说实话……我真的很喜欢这里。
 [charslot(slot="m",name="avg_npc_865_1#10$1",focus="m")]
-[name="考伯特"]唉......考伯特该再坚持两个月的，谁能想到呢，两个月后，萨卡兹的军队进了城，一个魔族佬也能从清洁员变成酒店经理呢。
+[name="考伯特"]唉……考伯特该再坚持两个月的，谁能想到呢，两个月后，萨卡兹的军队进了城，一个魔族佬也能从清洁员变成酒店经理呢。
 [charslot(slot="m",name="avg_npc_865_1#10$1",focus="m")]
 [name="考伯特"]我总是弄不懂这些。
 [dialog]
@@ -255,21 +255,21 @@
 [Delay(time=1)]
 [playMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4071_peper_1#8$1",focus="m")]
-[name="明椒"]这里......这些士兵，都被杀死了？
+[name="明椒"]这里……这些士兵，都被杀死了？
 [charslot(slot="m",name="avg_4071_peper_1#8$1",focus="m")]
-[name="明椒"]是敌人吗？！如果我早些发现的话......
+[name="明椒"]是敌人吗？！如果我早些发现的话……
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
 [name="曼弗雷德"]他们的家属会收到抚恤金，如果有家属的话。
 [charslot(slot="m",name="avg_4071_peper_1#5$1",focus="m")]
-[name="明椒"]我们必须防备......
+[name="明椒"]我们必须防备……
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
 [name="曼弗雷德"]不用。
 [charslot(slot="m",name="avg_4071_peper_1#8$1",focus="m")]
-[name="明椒"]你的那副表情......你早就知道？
+[name="明椒"]你的那副表情……你早就知道？
 [charslot(slot="m",name="avg_4071_peper_1#9$1",focus="m")]
-[name="明椒"]你......这也是你计划的一部分......
+[name="明椒"]你……这也是你计划的一部分……
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
 [name="曼弗雷德"]这是卡兹戴尔军事委员会的安排。
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
@@ -301,7 +301,7 @@
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
 [name="曼弗雷德"]点燃一场遍及这片大地的火焰。
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
-[name="曼弗雷德"]而我们......萨卡兹，唯有在这样一片纷争的大地上，才有可能找到自己的位置，找到自己生存的空间。
+[name="曼弗雷德"]而我们……萨卡兹，唯有在这样一片纷争的大地上，才有可能找到自己的位置，找到自己生存的空间。
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
 [name="曼弗雷德"]雇佣兵，你必须学会熟悉它。
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
@@ -313,7 +313,7 @@
 [PlaySound(key="$firestorm", volume=0.3)] 
 一团明亮的火焰猛然在封锁区中升起，老旧的大楼在熊熊燃烧。
 [charslot(slot="m",name="avg_4071_peper_1#8$1",focus="m")]
-[name="明椒"]又是......火灾吗？
+[name="明椒"]又是……火灾吗？
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]
 [name="曼弗雷德"]不，那是第一簇火苗。
 [charslot(slot="m",name="avg_npc_404_1#1$1",focus="m")]

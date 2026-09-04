@@ -11,11 +11,11 @@
 [PlaySound(key="$d_gen_walk_n")]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_1020_reed2_1#8$1",focus="m")]
-[name="拉芙希妮"]......先前遇上的那个，难道又是捉弄人的幻影？路是错的，我好像又走回来了。
-[name="拉芙希妮"]也看不清天色，不知道走了多久......还有多远。
+[name="拉芙希妮"]……先前遇上的那个，难道又是捉弄人的幻影？路是错的，我好像又走回来了。
+[name="拉芙希妮"]也看不清天色，不知道走了多久……还有多远。
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
 [name="拉芙希妮"]但我至少没像布莉吉说的那样，被黑雾和噪声挡在黑林之外，我至少进来了。
-[name="拉芙希妮"]还是这些爱捉弄人的精怪，会指给你错路的幻影，故意牵来枝条绊倒人的羽兽......倒是和我带莫兰他们回来时差不多。
+[name="拉芙希妮"]还是这些爱捉弄人的精怪，会指给你错路的幻影，故意牵来枝条绊倒人的羽兽……倒是和我带莫兰他们回来时差不多。
 [name="拉芙希妮"]也许是这些树木长得太高，也太茂密。它们遮住了天空，让这里面的生命与外界不同。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -29,9 +29,9 @@
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",duration=1.5)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
-[name="拉芙希妮"]......没走错路。这里就是黑林的中心了。
+[name="拉芙希妮"]……没走错路。这里就是黑林的中心了。
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]总感觉......这里的景色也和我来的时候不一样......那些代表秋天的金红色呢，为什么都消失了？
+[name="拉芙希妮"]总感觉……这里的景色也和我来的时候不一样……那些代表秋天的金红色呢，为什么都消失了？
 [name="拉芙希妮"]为什么里头变成现在这样了？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -48,9 +48,9 @@
 拉芙希妮紧紧握住手中的武器。假如真的如涅梅丝所说，深池离开城市之后就再也没有回来，被黑雾吞噬的确是他们最可能的下场。
 但黑雾并无攻击她的迹象，只是停在原地。
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]它是在......拒绝我吗？
+[name="拉芙希妮"]它是在……拒绝我吗？
 [charslot(slot="m",name="avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]不，与其说是拒绝，倒不如说是冷漠......失望？
+[name="拉芙希妮"]不，与其说是拒绝，倒不如说是冷漠……失望？
 [charslot(slot="m",name="avg_1020_reed2_1#13$1",focus="m")]
 [name="拉芙希妮"]为什么？
 [Dialog]
@@ -71,7 +71,7 @@
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_1020_reed2_1#11$1",duration=1.5)]
 [Delay(time=2.5)]
-[name="拉芙希妮"]不行，又是死路......
+[name="拉芙希妮"]不行，又是死路……
 [name="拉芙希妮"]没时间在这里逗留了。抱歉，我得烧出一条路来——
 [Dialog]
 [charslot]
@@ -84,16 +84,16 @@
 [Delay(time=2.5)]
 [name="“放逐王”"]你觉得呢？
 [charslot(slot="m",name="avg_1020_reed2_1#6$1",focus="m")]
-[name="拉芙希妮"]怎么会是......你？
+[name="拉芙希妮"]怎么会是……你？
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]在城里的那位......先生。上次我就有问题要问你，但你却——
+[name="拉芙希妮"]在城里的那位……先生。上次我就有问题要问你，但你却——
 [charslot(slot="m",name="avg_npc_1690_1#5$1",focus="m")]
 [name="“放逐王”"]上次见面确实算得上是不欢而散，不告而别。后面我也跟了你一路，看了你一路，就当是反思了。
 [charslot(slot="m",name="avg_npc_1690_1#8$1",focus="m")]
 [name="“放逐王”"]总之，我得承认你和我想的不太一样，但现在还不是闲聊的时候。
 [name="“放逐王”"]别烧那些树木，只用你的火照亮它们就行了，看看它们到底是什么东西。
 [charslot(slot="m",name="avg_1020_reed2_1#8$1",focus="m")]
-[name="拉芙希妮"]“是什么东西”......？
+[name="拉芙希妮"]“是什么东西”……？
 [Dialog]
 [PlaySound(key="$d_avg_magic_1")]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -125,20 +125,20 @@
 [PlaySound(key="$runsand")]
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",duration=1.5)]
 [Delay(time=2.5)]
-[name="拉芙希妮"]这是......我来纳斯尔纱时走的那条路！
+[name="拉芙希妮"]这是……我来纳斯尔纱时走的那条路！
 [name="拉芙希妮"]刚刚那些小路居然通向这里？
 [charslot(slot="m",name="avg_1020_reed2_1#11$1",focus="m")]
-[name="拉芙希妮"]先生，虽然冒昧，但您和林中的精怪......
+[name="拉芙希妮"]先生，虽然冒昧，但您和林中的精怪……
 [charslot(slot="m",name="avg_npc_1690_1#5$1",focus="m")]
 [name="“放逐王”"]别傻了，我怎么会和它们扯上关系。
 [charslot(slot="m",name="avg_npc_1690_1#10$1",focus="m")]
-[name="“放逐王”"]倒是这片树林，几百年过去了，除了多了一层黑雾以外，里面居然还是这副样子......
+[name="“放逐王”"]倒是这片树林，几百年过去了，除了多了一层黑雾以外，里面居然还是这副样子……
 [charslot(slot="m",name="avg_npc_1690_1#1$1",focus="m")]
 [name="“放逐王”"]呵，煞风景。
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
 [name="拉芙希妮"]再往前几步就算是出了黑林，不知道您能否——
 [charslot(slot="m",name="avg_npc_1690_1#1$1",focus="m")]
-[name="“放逐王”"]啧啧啧，这可真是......
+[name="“放逐王”"]啧啧啧，这可真是……
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
 [name="拉芙希妮"]出什么事了？
 [charslot(slot="m",name="avg_npc_1690_1#1$1",focus="m")]
@@ -223,24 +223,24 @@
 [charslot(slot="m",name="avg_npc_728_1#5$1",focus="m")]
 [name="莫兰"]苇草不是一个会找借口的人。
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
-[name="严肃的守灵人"]即便不是借口，生者的纠纷也与我们无关......这是我们至今仍在为之品尝苦果的教训。
+[name="严肃的守灵人"]即便不是借口，生者的纠纷也与我们无关……这是我们至今仍在为之品尝苦果的教训。
 [name="严肃的守灵人"]请回吧。
 [charslot(slot="m",name="avg_1020_reed2_1#12$1",focus="m")]
-[name="拉芙希妮"]就算我来请你们安葬一位逝者......也不行吗？
+[name="拉芙希妮"]就算我来请你们安葬一位逝者……也不行吗？
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
 [name="严肃的守灵人"]安葬逝者？
 [name="严肃的守灵人"]如果的确如此，守灵人的营地会向您敞开，但也仅限葬礼。
-[name="严肃的守灵人"]烦请告诉我逝者的姓名，事迹，还有......请把他的亡骸交给我们。
+[name="严肃的守灵人"]烦请告诉我逝者的姓名，事迹，还有……请把他的亡骸交给我们。
 [charslot(slot="m",name="avg_1020_reed2_1#13$1",focus="m")]
-[name="拉芙希妮"]他叫......库林，城里的铁匠。
+[name="拉芙希妮"]他叫……库林，城里的铁匠。
 [charslot(slot="m",name="avg_npc_1691_1#2$1",focus="m")]
 [name="严肃的守灵人"]库林？！
 [charslot(slot="m",name="avg_npc_1691_1#3$1",focus="m")]
 [name="严肃的守灵人"]他的死因是什么？
 [charslot(slot="m",name="avg_1020_reed2_1#2$1",focus="m")]
-[name="拉芙希妮"]他被紫色的死火夺取了生命与意志，即便是我的火焰......也无法再拯救他。
+[name="拉芙希妮"]他被紫色的死火夺取了生命与意志，即便是我的火焰……也无法再拯救他。
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
-[name="严肃的守灵人"]......
+[name="严肃的守灵人"]……
 [Dialog]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=0.5, block=true)]
 [CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
@@ -257,8 +257,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1691_1#4$1",focus="m")]
-[name="严肃的守灵人"]原来......
-[name="严肃的守灵人"]战争结束后，第一个得到哀悼的纳斯尔纱人......甚至没有死在那场战争中。
+[name="严肃的守灵人"]原来……
+[name="严肃的守灵人"]战争结束后，第一个得到哀悼的纳斯尔纱人……甚至没有死在那场战争中。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -269,12 +269,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_1020_reed2_1#11$1",focus="m")]
-[name="拉芙希妮"]像这样......把干草扎成环？
+[name="拉芙希妮"]像这样……把干草扎成环？
 [charslot(slot="m",name="avg_npc_728_1#6$1",focus="m")]
 [name="莫兰"]没错，然后把这些花卉装饰在上面，编成花环就行了。
 [name="莫兰"]记得我们在路上也有这么一次，农民们把花环戴在你头上，祈求来年风调雨顺。
 [charslot(slot="m",name="avg_1020_reed2_1#11$1",focus="m")]
-[name="拉芙希妮"]......嗯。
+[name="拉芙希妮"]……嗯。
 [charslot(slot="m",name="avg_npc_242",focus="m")]
 [name="塔拉流民"]真怀念啊，感觉又回到那个时候了。
 [charslot(slot="m",name="avg_1020_reed2_1#9$1",focus="m")]
@@ -288,7 +288,7 @@
 [name="塔拉流民"]这几天住下来，我都觉得自己快要不会笑了，哈哈。
 [name="塔拉流民"]只有莫兰每天都会去找守灵人说话，每天都能学一点东西回来。今天是绳结的编法，明天是如何估算树木寿命之类的。
 [charslot(slot="m",name="avg_npc_728_1#1$1",focus="m")]
-[name="莫兰"]这倒是没错，不过和那些故事中的守灵人相比......
+[name="莫兰"]这倒是没错，不过和那些故事中的守灵人相比……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n")]
@@ -309,7 +309,7 @@
 [name="严肃的守灵人"]不，我只是为了仪式需要，来确认死者的生平。
 [name="严肃的守灵人"]请告诉我，红龙，这段时间里，库林身上究竟发生了什么？
 [charslot(slot="m",name="avg_1020_reed2_1#8$1",focus="m")]
-[name="拉芙希妮"]......
+[name="拉芙希妮"]……
 [charslot(slot="m",name="avg_1020_reed2_1#1$1",focus="m")]
 [name="拉芙希妮"]我会一五一十地把我见到的一切告诉你，守灵人。
 [name="拉芙希妮"]希望这些事能对你有所触动。

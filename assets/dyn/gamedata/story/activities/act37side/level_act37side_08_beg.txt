@@ -30,8 +30,8 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1331_1#1$1",duration=1.5)]
 [delay(time=2.5)]
-[name="“灵幛”"]死亡......在尽头......等待......
-[name="“灵幛”"]宗长......注视......死亡，注视......你们......
+[name="“灵幛”"]死亡……在尽头……等待……
+[name="“灵幛”"]宗长……注视……死亡，注视……你们……
 [Dialog]
 [charslot(duration=1.5)]
 [delay(time=3.5)]
@@ -70,7 +70,7 @@
 [name="维娜"]士兵，我们已经到家了，先活下来！然后才能把失去的东西夺回来！
 [interlude(channel = 3, type = 3, slot = "m", switch = false, pfrom = "235,0", pto="235,0", name = "avg_1019_siege2_1#6$1", duration = 0)]
 [charslot(slot="m",name="avg_npc_414_1#1$1",posfrom="200,0",posto="-200,0",focus="m")]
-[name="兴奋的士兵"]......
+[name="兴奋的士兵"]……
 [charslot(slot="m",name="avg_npc_229_1#2",posfrom="200,0",posto="-200,0",focus="m")]
 [name="号角"]推进之王，我们会防守阵地最后两分钟，然后后撤回援，协助你们清除浓雾里的怪物！
 [name="号角"]风笛，保护好他们！
@@ -93,7 +93,7 @@
 [name="风笛"]小心，推进之王！
 [playsound(key="$d_gen_transmissionget", volume=1)]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_4110_delphn_1#3$1", duration = 0)]
-[name="戴菲恩"]是赦罪师的那些奇美拉怪物......全员准备后撤！
+[name="戴菲恩"]是赦罪师的那些奇美拉怪物……全员准备后撤！
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "char_empty", duration = 0)]
 [name="通讯中的声音"]（吟唱般的鸣叫）
 [playsound(key="$d_gen_transmissionget", volume=1)]
@@ -101,10 +101,10 @@
 [name="摩根"]它把自己点燃了！汉娜，小心它身上的火！
 [playsound(key="$d_gen_transmissionget", volume=1)]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_155_tiger_1#9$1", duration = 0)]
-[name="因陀罗"]痛，好痛......维娜，你还好吗？
+[name="因陀罗"]痛，好痛……维娜，你还好吗？
 [playsound(key="$d_gen_transmissionget", volume=1)]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_npc_396_1#7$1", duration = 0)]
-[name="达格达"]其他人后撤！我不能再接受无谓的牺牲了......
+[name="达格达"]其他人后撤！我不能再接受无谓的牺牲了……
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "char_empty", duration = 0)]
 [name="通讯中的声音"]（凄厉的哀嚎）
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_155_tiger_1#9$1", duration = 0)]
@@ -165,7 +165,7 @@
 [name="号角"]呼——
 她望着远方的碎片大厦和隐约可见的圣王会西部大堂，前所未有地冷静。
 [charslot(slot="m",name="avg_npc_229_1#2",focus="m")]
-[name="号角"]三角铁，大提琴，双簧管......风暴突击队的大家，请看着吧。
+[name="号角"]三角铁，大提琴，双簧管……风暴突击队的大家，请看着吧。
 [name="号角"]我们会亲手驱散伦蒂尼姆的阴云！
 [charslot(slot="m",name="avg_npc_229_1#7",focus="m")]
 [name="号角"]典范军T1阵地作战小队全体听令，坚守原地，一寸不退！
@@ -210,7 +210,7 @@
 [name="洛洛"]这几天我们找到的都是他们留下的诱饵信标，想要恢复联络可能还得花上点时间。
 [charslot(slot="l",name="avg_4040_rockr_1#11$1",focus="none")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "235,0", pto="235,0", name = "avg_4072_ironmn_1#1$1", duration = 0)]
-[name="费斯特"]那至少证明奶奶他们暂时还是安全的......
+[name="费斯特"]那至少证明奶奶他们暂时还是安全的……
 [charslot(slot="l",name="avg_4040_rockr_1#1$1",focus="l")]
 [interlude(channel = 3, type = 3, slot = "m", switch = false, pfrom = "235,0", pto="235,0", name = "avg_4072_ironmn_1#1$1", duration = 0)]
 [name="洛洛"]如果，队长，我是说如果，我们没能联系上凯瑟琳女士，接下来该怎么办？
@@ -244,10 +244,10 @@
 [name="费斯特"]咳咳——
 [name="费斯特"]咳——大伙，都还好吗？
 [charslot(slot="m",name="avg_4072_ironmn_1#8$1",focus="m")]
-[name="费斯特"]那些萨卡兹是从哪突然冒出来的......还有刚才那个炮击的声音——
+[name="费斯特"]那些萨卡兹是从哪突然冒出来的……还有刚才那个炮击的声音——
 [Dialog]
 [charslot]
-烟雾流动，可烟雾深处的一丝火星依旧显眼，明亮......
+烟雾流动，可烟雾深处的一丝火星依旧显眼，明亮……
 那是烟头上的火星。
 费斯特闻到了一股熟悉的呛鼻子的味道，他的眼角忍不住微微有点发酸。
 [Dialog]
@@ -261,7 +261,7 @@
 [charslot(slot="m",name="avg_4072_ironmn_1#7$1",focus="m")]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4072_ironmn_1#9$1",focus="m")]
-[name="费斯特"]奶奶，我们一直在找你......
+[name="费斯特"]奶奶，我们一直在找你……
 [charslot(slot="m",name="avg_4162_cathy_1#10$1",focus="m")]
 [name="凯瑟琳"]我知道，有人通知我们说，地下通道正在被检修时，我就已经猜到是你们了——
 [charslot(slot="m",name="avg_4072_ironmn_1#7$1",focus="m")]
@@ -278,7 +278,7 @@
 [charslot(slot="m",name="avg_4162_cathy_1#11$1",focus="m")]
 [name="凯瑟琳"]虽然在萨卡兹封锁期间费了些力气，但你那个大家伙，我们终于还是造出来了。
 [charslot(slot="m",name="avg_4072_ironmn_1#7$1",focus="m")]
-[name="费斯特"]“爬行号”......
+[name="费斯特"]“爬行号”……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
@@ -297,7 +297,7 @@
 [charslot(slot="m",name="avg_npc_1342_1#1$1",focus="m")]
 [name="“铣痕”"]我知道你在这。
 [charslot(slot="m",name="avg_npc_1342_1#2$1",focus="m")]
-[name="“铣痕”"]你的耳坠变得很......温热。
+[name="“铣痕”"]你的耳坠变得很……温热。
 [charslot(slot="m",name="avg_npc_1342_1#1$1",focus="m")]
 [name="“铣痕”"]刚才那些工人来支援那帮自救军，也是你传递的消息吧，血魔？
 [Dialog]
@@ -306,7 +306,7 @@
 [delay(time=2.5)]
 [name="神秘的血魔"]嘘，你会惊扰到我的朋友。
 [charslot(slot="m",name="avg_npc_1342_1#1$1",focus="m")]
-[name="“铣痕”"]......
+[name="“铣痕”"]……
 [charslot(slot="m",name="avg_npc_1521_1#9$1",focus="m")]
 [name="神秘的血魔"]不过还是谢谢你替我保管好了小石榴，小猫。
 [name="神秘的血魔"]也辛苦你替我跑腿打扫那些杜卡雷留下的臭石头。
@@ -321,7 +321,7 @@
 [charslot(slot="m",name="avg_npc_1521_1#1$1",focus="m")]
 [name="神秘的血魔"]又去找你的那个铁皮朋友吗？
 [charslot(slot="m",name="avg_npc_1342_1#2$1",focus="m")]
-[name="“铣痕”"]他......不会想错过这一战。
+[name="“铣痕”"]他……不会想错过这一战。
 [charslot(slot="m",name="avg_npc_1342_1#1$1",focus="m")]
 [name="“铣痕”"]谢谢你之前救了我。后会无期。
 [Dialog]
@@ -346,14 +346,14 @@
 [name="阿斯卡纶"]我会先行一步，在圣王会西部大堂的地下等着他们。我查到他最后出现的地方是那里。
 [name="阿斯卡纶"]殿下已走，当年的事，该有个了结了。
 [charslot(slot="m",name="avg_npc_1521_1#4$1",focus="m")]
-[name="神秘的血魔"]......你的伤——
+[name="神秘的血魔"]……你的伤——
 [charslot(slot="m",name="avg_npc_1521_1#4$1",focus="none")]
 [name="阿斯卡纶"]无妨。
 [name="阿斯卡纶"]接下来，你不必再参与正面战场的事，保护好自己。
 [charslot(slot="m",name="avg_npc_1521_1#9$1",focus="m")]
 [name="神秘的血魔"]我的能耐，你还不清楚吗，小家伙？当年你从我们这偷学的东西可不少。
 [charslot(slot="m",name="avg_npc_1521_1#9$1",focus="none")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [charslot(slot="m",name="avg_npc_1521_1#8$1",focus="m")]
 [name="神秘的血魔"]引你进城已经是我所能做到的极限了。你们与摄政王之间的事，“玫瑰河畔”不会再参与。
 [charslot(slot="m",name="avg_npc_1521_1#8$1",focus="none")]
@@ -365,16 +365,16 @@
 [charslot(slot="m",name="avg_npc_1521_1#7$1",focus="none")]
 [name="阿斯卡纶"]然后呢，把她追回来？还是杀了她？
 [charslot(slot="m",name="avg_npc_1521_1#8$1",focus="m")]
-[name="神秘的血魔"]......她欠所有河畔航船一个解释。
+[name="神秘的血魔"]……她欠所有河畔航船一个解释。
 [charslot(slot="m",name="avg_npc_1521_1#4$1",focus="m")]
 [name="神秘的血魔"]不过，你这个家伙还是先操心你自己吧。摄政王可近在眼前了。
 [charslot(slot="m",name="avg_npc_1521_1#4$1",focus="none")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [charslot(slot="m",name="avg_npc_1521_1#1$1",focus="m")]
 [name="神秘的血魔"]虽然我们河畔航船互相都保证不再参与巴别塔相关的事，但我自己帮帮老熟人可不算打破规矩。
 [name="神秘的血魔"]这一抹血，是祝福，也是馈赠。少些疼痛，少些疤痕，一路顺风，阿斯卡纶。
 [charslot(slot="m",name="avg_npc_1521_1#1$1",focus="none")]
-[name="阿斯卡纶"]......非要抹在脖子上吗？
+[name="阿斯卡纶"]……非要抹在脖子上吗？
 [charslot(slot="m",name="avg_npc_1521_1#10$1",focus="m")]
 [name="神秘的血魔"]谁让你老喜欢用兜帽把脸遮得严严实实的，这样更漂亮些。
 [charslot(slot="m",name="avg_npc_1521_1#10$1",focus="none")]
@@ -434,20 +434,20 @@
 [Delay(time=3)]
 [name="维娜"]士兵，你不该空手继续冲锋了。
 [name="维娜"]拿着这把剑。
-[name="黛安·韦伯"]......可，这是诸王之息......我......不能......
-[name="黛安·韦伯"]这是......属于你的剑，殿下。
+[name="黛安·韦伯"]……可，这是诸王之息……我……不能……
+[name="黛安·韦伯"]这是……属于你的剑，殿下。
 [name="维娜"]不，它属于维多利亚。
 [name="维娜"]在“荣光”号的残骸上，是许多我所信赖的人将这把剑交接着递到了我的手中，完成了它的使命。
 [name="维娜"]现在，拿着它！交给每一个能用上的人，让它继续完成自己的使命。
 [name="维娜"]这同样是维多利亚人的权力。
-[name="黛安·韦伯"]......我们拿走了剑，可你呢？
+[name="黛安·韦伯"]……我们拿走了剑，可你呢？
 [name="维娜"]我还有我手里的锤。
 [name="维娜"]我不会停下，我会和你们一起走到最后。
 清晨的晖光破开了乌云，金发的菲林与维多利亚人站在一起。
 士兵握住了剑，她看着那个目光坚毅的阿斯兰，阳光刺得她眼睛发痒。
-但她却不愿挪开眼......她看到了身后千千万万一同作战的维多利亚人——
+但她却不愿挪开眼……她看到了身后千千万万一同作战的维多利亚人——
 看到了国王，与她的子民同行。
-[name="黛安·韦伯"]......
+[name="黛安·韦伯"]……
 [name="黛安·韦伯"]遵命。
 [name="黛安·韦伯"]联军第六纵队第十步兵团所有还活着的人，继续跟着我前进！
 [name="黛安·韦伯"]为了维多利亚！！
@@ -469,7 +469,7 @@
 [Sticker(id="st1", multi = true, text="\n<i>我们至今不知道最后拿到那把剑的英雄是谁，以及是否还活着，但那把剑的确完成了它的使命——</i>",block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>由维多利亚人亲手挥向侵略者。</i>",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="<i>而它的传奇也并未就此结束。据说，是工人们在血泊与泥泞中找回了那把已经残破不堪的诸王之息......</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="<i>而它的传奇也并未就此结束。据说，是工人们在血泊与泥泞中找回了那把已经残破不堪的诸王之息……</i>", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>后来的故事，每一个伦蒂尼姆的孩子都能唱得朗朗上口。</i>",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -490,7 +490,7 @@
 [animtextclean]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_405_1#13$1",focus="m")]
-[name="摩根"]我看不到食腐者了......结束了吗？
+[name="摩根"]我看不到食腐者了……结束了吗？
 [charslot(slot="m",name="avg_155_tiger_1#9$1",focus="m")]
 [name="因陀罗"]可这些恶心的浓雾一点也没有散开。
 [charslot(slot="m",name="avg_npc_396_1#13$1",focus="m")]
@@ -523,17 +523,17 @@
 [name="来源未知的讯息"]所以，你们这帮怂货别杵那浪费时间了。
 [name="来源未知的讯息"]赶紧结束拉倒，信不信随你们便。
 [name="来源未知的讯息"]顺带一提，别忘了看看天上。
-[name="来源未知的讯息"]......老女人这下欠我一个大人情了。
+[name="来源未知的讯息"]……老女人这下欠我一个大人情了。
 [Dialog]
 [playsound(key="$transmission", volume=1)]
 [interlude(channel = 3, clear = true,tsfrom="1,1", tsto ="0,1",tsduration = 0.5)]
 [Delay(time=2.5)]
 [charslot(slot="m",name="avg_155_tiger_1#5$1",focus="m")]
-[name="因陀罗"]......？
+[name="因陀罗"]……？
 [charslot(slot="m",name="avg_npc_229_1#5",focus="m")]
-[name="号角"]......
+[name="号角"]……
 [charslot(slot="m",name="avg_npc_396_1#3$1",focus="m")]
-[name="达格达"]......
+[name="达格达"]……
 [charslot(slot="m",name="avg_1019_siege2_1#7$1",focus="m")]
 [name="维娜"]戴菲恩——
 [charslot(slot="m",name="avg_4110_delphn_1#8$1",focus="m")]
@@ -541,12 +541,12 @@
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="戴菲恩"]联军和萨卡兹应该都能听到。
 [charslot(slot="m",name="avg_npc_405_1#2$1",focus="m")]
-[name="摩根"]说话那个人的声音，是......
+[name="摩根"]说话那个人的声音，是……
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="维娜"]维什戴尔。看来他们也没有闲着。
 [name="维娜"]号角小姐，麻烦重新评估一下情况——
 [charslot(slot="m",name="avg_155_tiger_1#5$1",focus="m")]
-[name="因陀罗"]维娜，看天上！那是......
+[name="因陀罗"]维娜，看天上！那是……
 [Dialog]
 [charslot]
 [stopmusic(fadetime=1.5)]
@@ -566,7 +566,7 @@
 [playsound(key="$d_avg_boomdust", volume=0.3)]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [charslot(slot="m",name="avg_1019_siege2_1#7$1",focus="m")]
-[name="维娜"]......我能听到里面的动静，他在和食腐者战斗。
+[name="维娜"]……我能听到里面的动静，他在和食腐者战斗。
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="维娜"]号角小姐？
 [charslot(slot="m",name="avg_npc_229_1#1",focus="m")]
@@ -584,7 +584,7 @@
 [CameraShake(duration=1.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [charslot(slot="m",name="avg_npc_405_1#4$1",focus="m")]
 [name="摩根"]欸，什么情况——
-[name="摩根"]你们有没有听到那个声音......就在我们脚底下！
+[name="摩根"]你们有没有听到那个声音……就在我们脚底下！
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_tankbiggun", volume=1,channel="1")]
@@ -599,7 +599,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=1, block=true)]
 [name="？？？"]典范军的各位，我们终于见面了。
 [charslot(slot="m",name="avg_npc_405_1#9$1",focus="m")]
-[name="摩根"]等等，维娜，我没看错吧——有个大......东西从地底下钻出来了？
+[name="摩根"]等等，维娜，我没看错吧——有个大……东西从地底下钻出来了？
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -636,7 +636,7 @@
 [name="维娜"]好。
 [name="维娜"]各位，这就是最后一战了。我们——
 [name="凯瑟琳"]稍等，还有一件事。
-[name="凯瑟琳"]让我调整一下炮管......嗯，这样就行。
+[name="凯瑟琳"]让我调整一下炮管……嗯，这样就行。
 [name="凯瑟琳"]各位，捂上耳朵！
 [Dialog]
 [playsound(key="$d_avg_cannonfilling", volume=1,channel="1")]

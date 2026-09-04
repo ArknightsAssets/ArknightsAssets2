@@ -20,7 +20,7 @@
 [name="后厨传来的声音"]忙着呢！
 [name="后厨传来的声音"]嗐，不就一碗素面，算我请你的！
 [dialog]
-[Subtitle(text="那不行......", x=100, y=300, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="那不行……", x=100, y=300, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle]
 [PlaySound(key="$d_avg_coin")]
 [Delay(time=1)]
@@ -39,9 +39,9 @@
 [Subtitle(text="看这官服，先生是大理寺的少卿？那先生的舌头也是天下第一等的判官了。", x=100, y=300, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="哈哈哈，你倒是会说话。", x=600, y=500, alignment="left", size=24, delay=0.04, width=600)]
 [Subtitle(text="下回要是碰上什么冤枉事，来大理寺找我。我叫虞澄。", x=600, y=500, alignment="left", size=24, delay=0.04, width=600)]
-[Subtitle(text="......不必劳烦大人，在下区区一介礼部奉礼郎，不会有什么冤枉事。", x=100, y=300, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……不必劳烦大人，在下区区一介礼部奉礼郎，不会有什么冤枉事。", x=100, y=300, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle(text="没有事，请你吃面也成。小伙子，你叫什么？", x=600, y=500, alignment="left", size=24, delay=0.04, width=600)]
-[Subtitle(text="......在下顾筌。", x=100, y=300, alignment="left", size=24, delay=0.04, width=700)]
+[Subtitle(text="……在下顾筌。", x=100, y=300, alignment="left", size=24, delay=0.04, width=700)]
 [Subtitle]
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -69,19 +69,19 @@
 [charslot(slot = "r",focus="r")]
 [name="饭馆的熟客"]老规矩，今天有什么新鲜菜啊？
 [charslot(slot = "left", name = "avg_npc_1621_1#1$1",focus="l")]
-[name="老姜"]现在正是吃柿子的季节，今天还有新到的板栗，那叫一个生吃爽脆，熟食糯甜......那就给您上一道桂香柿子饼，一道板栗炖腩肉？
+[name="老姜"]现在正是吃柿子的季节，今天还有新到的板栗，那叫一个生吃爽脆，熟食糯甜……那就给您上一道桂香柿子饼，一道板栗炖腩肉？
 [charslot(slot = "r",focus="r")]
 [name="饭馆的熟客"]讲究。行，就听你安排。
-[name="饭馆的熟客"]说起来，之前帮你们店里修的这个招牌......
+[name="饭馆的熟客"]说起来，之前帮你们店里修的这个招牌……
 [charslot(slot = "left", name = "avg_npc_1621_1#5$1",focus="l")]
 [name="老姜"]放心，我们大厨说过的，这顿不记您的账。
 [name="老姜"]这些年店里的木匠活都多亏了您照应，请您吃几顿饭，不算事的。
 [charslot(slot = "r",focus="r")]
-[name="饭馆的熟客"]哈哈哈......厚道！
+[name="饭馆的熟客"]哈哈哈……厚道！
 [name="饭馆的熟客"]别说，他这手艺，的确可以称得上天下第一了。出了这个门，别的馆子都吃不到这一口。
 [name="饭馆的熟客"]之前送他那木牌小挂件，我可是真心的，他还害羞不肯收。
 [charslot(slot = "left", name = "avg_npc_1621_1#1$1",focus="l")]
-[name="老姜"]哎哟哟......可真是折煞人了。
+[name="老姜"]哎哟哟……可真是折煞人了。
 [name="老姜"]我们就是一寻常小饭馆，多亏大伙关照才能开下去，就别提什么“天下第一”了。
 [charslot(slot = "r",focus="r")]
 [name="饭馆的熟客"]对了，你们小大厨人呢？今天没见他坐在外面陪客人聊天啊。
@@ -93,7 +93,7 @@
 [name="饭馆的熟客"]好像叫什么“行箸散人”？
 [name="饭馆的熟客"]这位志气真是不小，百灶有多少家酒楼，这些酒楼又做了多少年的菜。写书的这位肚子里不仅要有墨水，还要装得下不少美食啊。
 [charslot(slot = "left", name = "avg_npc_1621_1#1$1",focus="l")]
-[name="老姜"]可不是吗......但听说她在写的那本《百灶食珍录》，那四大名楼的主厨看了都赞不绝口。她写的评论，那些名厨也没有不心服口服的。
+[name="老姜"]可不是吗……但听说她在写的那本《百灶食珍录》，那四大名楼的主厨看了都赞不绝口。她写的评论，那些名厨也没有不心服口服的。
 [name="老姜"]小道消息说，那位高人今天就要逛到我们这一片了。
 [charslot(slot = "r",focus="r")]
 [name="饭馆的熟客"]这又何必闹别扭呢？就他的手艺，再厉害的评论家能挑出一个不是？
@@ -108,7 +108,7 @@
 [charslot(slot = "left", name = "avg_npc_1621_1#9$1",focus="all")]
 [Delay(time=0.8)]
 [charslot(slot = "left", name = "avg_npc_1621_1#8$1",focus="l")]
-[name="老姜"]......不说了不说了！
+[name="老姜"]……不说了不说了！
 [charslot(slot = "r",focus="r")]
 [name="饭馆的熟客"]哈哈，我倒是怕这家小饭馆被谁带火了，我们这些老熟客就都排不上队咯。
 [charslot(slot = "left", name = "avg_npc_1621_1#4$1",focus="l")]
@@ -139,7 +139,7 @@
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="r")]
 [name="疲惫的大理寺官员"]还不是为了百珍宴，每年这个时候，大理寺上下都忙得要死。这一个月我就没睡过一个好觉，这样下去谁受得了？
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
-[name="严肃的大理寺官员"]小心一点总没错的......现在多少大人都齐聚百灶，出了一星半点的闪失，谁担待得起？
+[name="严肃的大理寺官员"]小心一点总没错的……现在多少大人都齐聚百灶，出了一星半点的闪失，谁担待得起？
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="r")]
 [name="疲惫的大理寺官员"]唉，就算再怎么小心，越是这种要紧时候，幺蛾子就越多。
 [charslot]
@@ -149,7 +149,7 @@
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="r")]
 [name="疲惫的大理寺官员"]嘁，搞得好像谁乐意说一样。
-[name="疲惫的大理寺官员"]但是话说回来......听说了吗，鼎丰楼的案子？
+[name="疲惫的大理寺官员"]但是话说回来……听说了吗，鼎丰楼的案子？
 [stopmusic(fadetime=2)]
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
 [name="严肃的大理寺官员"]什么案子？有事说事，干嘛搞得神神秘秘的。
@@ -178,10 +178,10 @@
 [Blocker(a=0.2, r=0.3, g=0, b=0, fadetime=1, block=false)]
 [name="疲惫的大理寺官员"]结果到晚上的时候，有一个灶台突然起了大火，而且怎么都扑不灭！四五个厨师都受了伤呢！
 [name="严肃的大理寺官员"]是源石能源管道出了故障？这算什么新奇事？
-[name="疲惫的大理寺官员"]可是鉴定科的调查员去现场调查过，他们也分不清那能源管道到底有没有被人动过手脚......
-[name="疲惫的大理寺官员"]进得了后厨的有几百号人，谁知道是不是有人做了什么......
+[name="疲惫的大理寺官员"]可是鉴定科的调查员去现场调查过，他们也分不清那能源管道到底有没有被人动过手脚……
+[name="疲惫的大理寺官员"]进得了后厨的有几百号人，谁知道是不是有人做了什么……
 [name="疲惫的大理寺官员"]要知道，那鼎丰楼可是百灶第一名楼，百珍宴的承办方。
-[name="疲惫的大理寺官员"]而且这事怪就怪在，事发偏偏在月中十五号的晚上，那起火的又偏偏是第一百号灶台，而且有人说，分明从那火中看到了一个人影......
+[name="疲惫的大理寺官员"]而且这事怪就怪在，事发偏偏在月中十五号的晚上，那起火的又偏偏是第一百号灶台，而且有人说，分明从那火中看到了一个人影……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -207,7 +207,7 @@
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="l")]
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
 [name="严肃的大理寺官员"]哪有的事，我们又不是茶馆里的说书人。但凡一个案子拖了几周没有进展，每天晚上睡觉都会做噩梦。
-[name="严肃的大理寺官员"]唉......不过说起来，其实我这也听说了一件奇怪的案子。
+[name="严肃的大理寺官员"]唉……不过说起来，其实我这也听说了一件奇怪的案子。
 [name="严肃的大理寺官员"]没有什么怪力乱神，就是离奇又离谱。
 [charslot]
 [charslot(slot="m",name="avg_npc_1639_1#1$1")]
@@ -215,14 +215,14 @@
 [charslot]
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="l")]
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
-[name="严肃的大理寺官员"]这种事......实在不好随意开口的。
+[name="严肃的大理寺官员"]这种事……实在不好随意开口的。
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="r")]
 [name="疲惫的大理寺官员"]哪有话说一半的，你要急死人呀！
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
 [stopmusic(fadetime=2)]
 [StopSound(channel="bgs", fadetime=2)]
 [name="严肃的大理寺官员"]事关重大，这案件发生的地方，实在不一般——
-[name="严肃的大理寺官员"]前任礼部尚书，宁大人的府上......
+[name="严肃的大理寺官员"]前任礼部尚书，宁大人的府上……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -232,9 +232,9 @@
 [playMusic(intro="$darkness02_intro",key="$darkness02_loop", volume=0.6)]
 [delay(time=1)]
 [name="严肃的大理寺官员"]这是我师父前阵子在跟的一件案子，我也只是听了个大概，具体的情况他对我都是三缄其口。
-[name="严肃的大理寺官员"]宁大人已经退休数年，最近准备离京还乡，搬回江南故居了。可就在几天前，宁府遭了一个奇怪的贼人......
+[name="严肃的大理寺官员"]宁大人已经退休数年，最近准备离京还乡，搬回江南故居了。可就在几天前，宁府遭了一个奇怪的贼人……
 [name="严肃的大理寺官员"]府上没丢东西，也没人受伤。但是一间客房里挂着的一幅仙翁图，被人用融化的蜜糖，在画上那仙翁嘴巴上涂了一道。
-[name="严肃的大理寺官员"]按理说，那宁府也算戒备森严，但那贼人就仿佛对宁府的布置了如指掌......
+[name="严肃的大理寺官员"]按理说，那宁府也算戒备森严，但那贼人就仿佛对宁府的布置了如指掌……
 [name="严肃的大理寺官员"]而且，那贼人不知该说是武艺高强，还是经验丰富，现场什么痕迹都找不到，我师父他们现在正为这案子忙得焦头烂额呢。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -248,11 +248,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=0.1)]
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="r")]
-[name="疲惫的大理寺官员"]蜜糖封口？那不是送灶神的传说吗？让灶神多言好事，少说坏事......这贼人不图钱财，专门搞这一出，难道别有深意？
+[name="疲惫的大理寺官员"]蜜糖封口？那不是送灶神的传说吗？让灶神多言好事，少说坏事……这贼人不图钱财，专门搞这一出，难道别有深意？
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
 [name="严肃的大理寺官员"]能有什么深意？宁尚书为官清白，他在礼部几十年的功绩，朝堂上下也是有口皆碑，谁会和他过不去？
-[name="严肃的大理寺官员"]不管怎么说，那宁尚书是朝廷重臣，他府上遭人擅闯已是足够严重的事了，更何况是在最近这个节骨眼上......
-[name="严肃的大理寺官员"]唉，怕啥来啥......
+[name="严肃的大理寺官员"]不管怎么说，那宁尚书是朝廷重臣，他府上遭人擅闯已是足够严重的事了，更何况是在最近这个节骨眼上……
+[name="严肃的大理寺官员"]唉，怕啥来啥……
 [charslot]
 [charslot(slot="m",name="avg_npc_1639_1#1$1")]
 [name="饭馆的熟客"]对了对了！我想起来了！
@@ -265,7 +265,7 @@
 [name="饭馆的熟客"]听你们说得热闹，我突然想起来，前几天就在这饭馆里，我也撞见了一件怪事。
 [name="饭馆的熟客"]就在三天前，我在这里吃饭的时候，店里来了一位怪人。
 [name="饭馆的熟客"]看上去一把年纪，身上还穿着囚服，像是刚从大理寺放出来的。
-[name="饭馆的熟客"]大摇大摆地在店里坐下，什么菜都不点，就要了二十碗白饭。好家伙，一口气吃了个干干净净......
+[name="饭馆的熟客"]大摇大摆地在店里坐下，什么菜都不点，就要了二十碗白饭。好家伙，一口气吃了个干干净净……
 [Dialog]
 [StopSound(channel="bgs", fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -277,7 +277,7 @@
 [dialog]
 [charslot(slot="m",name="avg_npc_1621_1#9$1",duration=0.5)]
 [delay(time=1)]
-[name="老姜"]客人......您就吃这个？
+[name="老姜"]客人……您就吃这个？
 [name="老姜"]干吃米饭也噎得慌，要不给您上两道小菜，再来碗汤？就算送您的，不收钱。
 [charslot]
 [name="古怪的食客"]用不着。
@@ -303,8 +303,8 @@
 [stopmusic(fadetime=2)]
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="r")]
-[name="疲惫的大理寺官员"]......
-[name="疲惫的大理寺官员"]就算是饭桌上扯闲谈，这事似乎也不能说啊......
+[name="疲惫的大理寺官员"]……
+[name="疲惫的大理寺官员"]就算是饭桌上扯闲谈，这事似乎也不能说啊……
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
 [name="严肃的大理寺官员"]快别说了，邻桌还有外人呢！
 [charslot]
@@ -319,9 +319,9 @@
 [charslot]
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1630_1#1$1",focus="r")]
-[name="疲惫的大理寺官员"]......
+[name="疲惫的大理寺官员"]……
 [charslot(slot = "left", name = "avg_npc_1632_1#1$1",focus="l")]
-[name="严肃的大理寺官员"]......
+[name="严肃的大理寺官员"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -331,21 +331,21 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1621_1#2$1",duration=0.5)]
 [delay(time=1)]
-[name="老姜"]“红玉腐乳”“麻辣豆腐”“壳黄软玉”“文思秋菊”“雕栏玉砌”......
-[name="老姜"]那客人点的......就是这些。
+[name="老姜"]“红玉腐乳”“麻辣豆腐”“壳黄软玉”“文思秋菊”“雕栏玉砌”……
+[name="老姜"]那客人点的……就是这些。
 [charslot(slot = "m", focus = "n")]
-[name="不悦的声音"]......
+[name="不悦的声音"]……
 [name="不悦的声音"]来踢馆的？
 [charslot(slot="m",name="avg_npc_1621_1#3$1")]
-[name="老姜"]呃......那客人看上去挺有礼貌的，顺着菜单就点了这几道菜，也不像是同行找茬......
+[name="老姜"]呃……那客人看上去挺有礼貌的，顺着菜单就点了这几道菜，也不像是同行找茬……
 [charslot(slot="m",name="avg_npc_1621_1#9$1")]
-[name="老姜"]你说会不会......她就是那位写《百灶食珍录》的美食评论家？
+[name="老姜"]你说会不会……她就是那位写《百灶食珍录》的美食评论家？
 [charslot(slot = "m", focus = "n")]
 [name="不悦的声音"]哪门子美食家评论别人的手艺点五六盘豆腐？！
 [charslot(slot="m",name="avg_npc_1621_1#10$1")]
-[name="老姜"]大厨......冷静，冷静。
-[name="老姜"]我们店里的情况你又不是不知道，能不能靠口碑吸引一批游客就看这次了......
-[name="老姜"]您辛苦受累......这几道菜千万千万不能马虎了......
+[name="老姜"]大厨……冷静，冷静。
+[name="老姜"]我们店里的情况你又不是不知道，能不能靠口碑吸引一批游客就看这次了……
+[name="老姜"]您辛苦受累……这几道菜千万千万不能马虎了……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -365,22 +365,22 @@
 [name="维多利亚游客？"]别客气别客气，这酒就得大家一块喝才有意思。
 [name="维多利亚游客？"]哎哎，后来呢？那个摔碗砸门的人，后来怎么样了？
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
-[name="严肃的大理寺官员"]这位姑娘，你刚刚听到的都只是饭桌上的闲谈妄言......
-[name="严肃的大理寺官员"]恳请姑娘万万不要到处宣扬......
+[name="严肃的大理寺官员"]这位姑娘，你刚刚听到的都只是饭桌上的闲谈妄言……
+[name="严肃的大理寺官员"]恳请姑娘万万不要到处宣扬……
 [charslot(slot="m",name="avg_1040_blaze2_1#11$1")]
 [name="维多利亚游客？"]欸？这种情况一般不都会有“请听下回分解”之类的吗？
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
-[name="严肃的大理寺官员"]我们是大理寺的官员，并非茶馆说书先生......
+[name="严肃的大理寺官员"]我们是大理寺的官员，并非茶馆说书先生……
 [charslot(slot="m",name="avg_1040_blaze2_1#1$1")]
 [name="维多利亚游客？"]真巧，我有一个朋友，也是大理寺的。
 [name="维多利亚游客？"]我还以为大理寺的人，个个都是板着张脸一丝不苟、什么话都不好好说的样子呢。
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
-[name="严肃的大理寺官员"]咳咳......
-[name="严肃的大理寺官员"]这位维多利亚来的朋友......是一个人来炎国旅游？
+[name="严肃的大理寺官员"]咳咳……
+[name="严肃的大理寺官员"]这位维多利亚来的朋友……是一个人来炎国旅游？
 [charslot(slot="m",name="avg_1040_blaze2_1#1$1")]
 [name="煌"]别这么客气，我有炎国名字，叫煌。
 [charslot(slot="m",name="avg_1040_blaze2_1#4$1")]
-[name="煌"]旅游嘛......哈哈，也算是吧。
+[name="煌"]旅游嘛……哈哈，也算是吧。
 [charslot(slot="m",name="avg_npc_1639_1#1$1")]
 [name="饭馆的熟客"]炎国话说得这么流利的维多利亚人倒是少见，姑娘在炎国生活过？
 [charslot(slot="m",name="avg_1040_blaze2_1#5$1")]
@@ -407,14 +407,14 @@
 [charslot(slot = "left", name = "char_017_homura_3#10",focus="l")]
 [name="煌"]你当我是三岁小孩呢？知道了，还有呢？
 [charslot(slot = "right",focus="r")]
-[name="惊蛰"]第二，绝对不要暴露自己是感染者......
+[name="惊蛰"]第二，绝对不要暴露自己是感染者……
 [charslot(slot = "left", name = "char_017_homura_3#5",focus="l")]
-[name="煌"]......这个也不用你废话，我知道该怎么做。
+[name="煌"]……这个也不用你废话，我知道该怎么做。
 [charslot(slot = "right",focus="r")]
-[name="惊蛰"]第三......
+[name="惊蛰"]第三……
 [name="惊蛰"]绝对，绝对不要对外人说起与你父亲相关的事。
 [charslot(slot = "left", name = "char_017_homura_3#4",focus="l")]
-[name="煌"]......好。
+[name="煌"]……好。
 [charslot(slot = "right",focus="r")]
 [name="惊蛰"]煌，在这一系列案子里，你是关键的证人，也是至关重要的线索。
 [name="惊蛰"]我需要你配合，也会确保你的安全。
@@ -460,9 +460,9 @@
 [Image(image="58_i04_3",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
-[name="饭馆的熟客"]这位客人......是对豆腐情有独钟？
+[name="饭馆的熟客"]这位客人……是对豆腐情有独钟？
 [name="煌"]欸？这些菜名字都不一样，竟然全都是豆腐吗？
-[name="煌"]我也不知道......炎国的豆腐有这么多种做法啊......
+[name="煌"]我也不知道……炎国的豆腐有这么多种做法啊……
 [dialog]
 [curtain(direction = 2,fillfrom = 0.05,fillto = 0, fadetime=2)]
 [curtain(direction = 6,fillfrom = 0.45,fillto = 0, fadetime=2)]
@@ -470,7 +470,7 @@
 [Image(image="58_i04_1",screenadapt="coverall",fadetime=1)]
 [delay(time=1)]
 [name="煌"]没事没事，大家都分分，一块吃热闹嘛——这个应该不违背“炎国餐桌礼仪”吧？
-[name="饭馆的熟客"]哈哈......倒也无妨。那我们也不客气了。
+[name="饭馆的熟客"]哈哈……倒也无妨。那我们也不客气了。
 [dialog]
 [PlaySound(key="$d_avg_dishes")]
 [delay(time=1.5)]
@@ -479,11 +479,11 @@
 [curtain(direction = 2,fillfrom = 0,fillto = 0.35, fadetime=1)]
 [curtain(direction = 6,fillfrom = 0,fillto = 0.15, fadetime=1)]
 [delay(time=1.5)]
-[name="文雅的女子"]......
+[name="文雅的女子"]……
 [dialog]
 [Image(image="58_i04_2",screenadapt="coverall",fadetime=0.8)]
 [delay(time=1.2)]
-[name="文雅的女子"]嗯......？
+[name="文雅的女子"]嗯……？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -497,16 +497,16 @@
 [delay(time=1)]
 [name="不悦的声音"]菜上了吗？那人什么反应？
 [charslot(slot="m",name="avg_npc_1621_1#3$1")]
-[name="老姜"]呃......那点菜的客人没怎么吃，都分给邻座的客人了。
+[name="老姜"]呃……那点菜的客人没怎么吃，都分给邻座的客人了。
 [dialog]
 [charslot(slot="m",focus="n")]
 [playsound(key="$d_avg_broadsword_polish", loop=true, channel="c")]
 [delay(time=1)]
 [StopSound(channel="c", fadetime=2)]
-[name="不悦的声音"]嘁......
+[name="不悦的声音"]嘁……
 [charslot(slot="m",name="avg_npc_1621_1#8$1")]
-[name="老姜"]冷静......冷静......说不定这饭馆的用餐氛围，也是考察的一部分......
-[name="老姜"]您先别急，我们静观其变......
+[name="老姜"]冷静……冷静……说不定这饭馆的用餐氛围，也是考察的一部分……
+[name="老姜"]您先别急，我们静观其变……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -537,24 +537,24 @@
 [charslot(slot="m",name="avg_npc_1630_1#1$1")]
 [name="疲惫的大理寺官员"]是啊，结果刚到第二年，就有知府有样学样，给真龙献了道“福禄羹”，食材那叫一个奢华，就为向真龙禀报，自己治下城市鳞业丰收。
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
-[name="严肃的大理寺官员"]......咳。
+[name="严肃的大理寺官员"]……咳。
 [name="严肃的大理寺官员"]总之，借宴席议国事从此变成了一项传统，就叫“百珍宴”，定在每年中秋节举办。
 [name="严肃的大理寺官员"]届时全城百姓共襄盛举，百珍宴上流传出来的菜单也会被各大酒楼争相模仿，也算是与民同乐了。
 [charslot(slot="m",name="avg_1040_blaze2_1#4$1")]
-[name="煌"]哦......炎国人对吃的还真是讲究啊。
+[name="煌"]哦……炎国人对吃的还真是讲究啊。
 [charslot(slot="m",name="avg_1040_blaze2_1#1$1")]
 [name="煌"]这家小饭馆也是，看上去平平无奇，做的菜都是个顶个地好吃！豆腐都能做出这么多花样，真了不起。
 [charslot(slot="m",name="avg_1040_blaze2_1#2$1")]
-[name="煌"]不过这一道糕点......和我以前吃过的不一样，味道也不如我吃过的好吃，感觉应该是不太正宗吧。
+[name="煌"]不过这一道糕点……和我以前吃过的不一样，味道也不如我吃过的好吃，感觉应该是不太正宗吧。
 [dialog]
 [stopmusic(fadetime=1)]
 [StopSound(channel="bgs", fadetime=2)]
 [charslot(slot="m",name="avg_npc_1639_1#1$1")]
-[name="饭馆的熟客"]......
+[name="饭馆的熟客"]……
 [charslot(slot="m",name="avg_npc_1632_1#1$1")]
-[name="严肃的大理寺官员"]......
+[name="严肃的大理寺官员"]……
 [charslot(slot="m",name="avg_npc_1630_1#1$1")]
-[name="疲惫的大理寺官员"]......
+[name="疲惫的大理寺官员"]……
 [charslot(slot="m",name="avg_1040_blaze2_1#2$1")]
 [name="煌"]嗯？怎么都不说话了？
 [dialog]

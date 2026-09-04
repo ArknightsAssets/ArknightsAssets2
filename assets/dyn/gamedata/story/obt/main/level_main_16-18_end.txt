@@ -14,7 +14,7 @@
 “目标已锁定，正向涅瓦湖方向移动。”
 “各单位暂停炮火打击，依计划包围坐标位置。”
 “坐标已发往终端。”
-......
+……
 [dialog]
 [StopSound(channel="e", fadetime=3)]
 [StopSound(channel="ai", fadetime=3)]
@@ -45,8 +45,8 @@
 [name="阿米娅"]Raidian，你有监测到集团军后续动向吗？
 [charslot(slot = "m", focus="n")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "-450,20", pto="-435,20", name = "avg_npc_1730_1#3$1", duration = 0)]
-[name="Raidian"]还没有......自从我们进行全域广播后，集团军的军用频段就沉默了。他们应该已经有所防范，我们暂时没法掌握集团军的更多动向。
-[name="Raidian"]这里太安静了，反而让人有些不安......
+[name="Raidian"]还没有……自从我们进行全域广播后，集团军的军用频段就沉默了。他们应该已经有所防范，我们暂时没法掌握集团军的更多动向。
+[name="Raidian"]这里太安静了，反而让人有些不安……
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "-450,20", pto="-435,20", name = "avg_npc_1730_1#2$1", duration = 0)]
 [name="Raidian"]阿米娅，你们一定要注意隐藏行踪。
 [interlude(channel = 3, switch = false)]
@@ -62,7 +62,7 @@
 [interlude(channel = 3, switch = false)]
 [name="Mantra"]阿米娅。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#5$1")]
-[name="阿米娅"]Mantra女士！您不该继续“说话”了......
+[name="阿米娅"]Mantra女士！您不该继续“说话”了……
 [charslot(slot = "m", focus="n")]
 [name="Mantra"]我已经清醒。请告诉极境，我能站起来自己行动。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#5$1")]
@@ -73,7 +73,7 @@
 [name="Raidian"]Mantra，记得上次煌因为任务受伤必须卧床半月的时候吗？我们甚至都没让她脚尖沾地超过一秒。
 [name="Raidian"]现在，你也别想。
 [interlude(channel = 3, switch = false)]
-[name="Mantra"]......情况不同。
+[name="Mantra"]……情况不同。
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "-450,20", pto="-435,20", name = "avg_npc_1730_1#5$1", duration = 0)]
 [name="Raidian"]唔。或者各退一步吧，等你们顺利穿越树林，你在我和极境当中选一个当你的拐杖。
 [dialog]
@@ -89,8 +89,8 @@
 [charslot(slot = "l", name = "avg_4207_branch_1#1$1", posfrom="-200,0", posto="0,0", duration=1.5, isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "l", name = "avg_4207_branch_1#10$1", focus="l")]
-[name="别乔克"]走过去，穿越结冰的，湖面，前面就是......圣骏堡吗？
-[name="别乔克"]我听说，感染者......都不能进入，移动城市。
+[name="别乔克"]走过去，穿越结冰的，湖面，前面就是……圣骏堡吗？
+[name="别乔克"]我听说，感染者……都不能进入，移动城市。
 [charslot(slot = "r", name = "avg_npc_1969_1#1$1", focus="r")]
 [name="矿工"]还没感染的时候，我也没去过移动城市。进矿区之前我都待在村子里，直到天灾降临，把村里多数人都变成了感染者。
 [name="矿工"]不过那些人不是说不需要我们自己走过去吗？会有载具来接，就像我们之前找到过的那些。
@@ -98,7 +98,7 @@
 [name="矿工"]“小枝条”，你说尼克托和雷尔金他们，现在正在做什么呢？他们走得早些，会不会已经到那个什么农庄里去了？
 [delay(time=0.5)]
 [charslot(slot = "l", name = "avg_4207_branch_1#2$1", focus="l")]
-[name="别乔克"]也、也许......是的。
+[name="别乔克"]也、也许……是的。
 [name="别乔克"]我希望，是这样。
 [dialog]
 [charslot]
@@ -109,7 +109,7 @@
 [Delay(time=0.5)]
 [PlaySound(key="$d_avg_tankbiggun", volume=0.5)]
 [Delay(time=1.5)]
-[name="Mantra"]......所有人，马上就近寻找掩体卧倒！
+[name="Mantra"]……所有人，马上就近寻找掩体卧倒！
 [dialog]
 [CameraShake(duration=1, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_gen_explo_n", volume=0.8)]
@@ -140,8 +140,8 @@
 [charslot(slot = "l", name = "avg_npc_1966_1#11$1", focus="l")]
 [name="阿洛伊泽"]轰炸——在树林那边！集团军抵达了？！
 [charslot(slot = "r", name = "avg_npc_1730_1#6$1", focus="r")]
-[name="Raidian"]我探测到了......就在刚刚，又有一支军队从东面发起了进攻。
-[name="Raidian"]他们好像掌握了我们的位置......他们准备把我们往涅瓦湖的方向驱赶。
+[name="Raidian"]我探测到了……就在刚刚，又有一支军队从东面发起了进攻。
+[name="Raidian"]他们好像掌握了我们的位置……他们准备把我们往涅瓦湖的方向驱赶。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "l", name = "avg_npc_1966_1#6$1", focus="l")]
 [name="阿洛伊泽"]他们疯了！这里已经是中央区的地界，集团军不可能不清楚这意味着什么！
@@ -150,13 +150,13 @@
 [Delay(time=1)]
 [SoundVolume(volume=0.2, channel="sn",fadetime=2)]
 [charslot(slot = "r", name = "avg_npc_1730_1#6$1", focus="r")]
-[name="Raidian"]“圣骏堡的安全受到威胁......集团军......即将消灭敌人。”
+[name="Raidian"]“圣骏堡的安全受到威胁……集团军……即将消灭敌人。”
 [name="Raidian"]这是公开广播，他们还在向圣骏堡发送信号，声称这是剿灭叛乱的行动！
 [charslot(slot = "l", name = "avg_npc_1966_1#1$1", focus="l")]
-[name="阿洛伊泽"]不......不不不......哈......原来，原来是这样......
+[name="阿洛伊泽"]不……不不不……哈……原来，原来是这样……
 [charslot(slot = "l", name = "avg_npc_1966_1#5$1", focus="l")]
-[name="阿洛伊泽"]屠杀，驱赶......集团军就是要打着平叛的幌子陈兵圣骏堡城下，用炮口对准圣骏堡的城门，再去和议会谈判！
-[name="阿洛伊泽"]这就是他们的目的......这就是他们用远北几十万人的性命，想要达成的结果。
+[name="阿洛伊泽"]屠杀，驱赶……集团军就是要打着平叛的幌子陈兵圣骏堡城下，用炮口对准圣骏堡的城门，再去和议会谈判！
+[name="阿洛伊泽"]这就是他们的目的……这就是他们用远北几十万人的性命，想要达成的结果。
 [dialog]
 [charslot(slot = "l", focus="n")]
 [PlaySound(key="$transmission", volume=1)]
@@ -171,7 +171,7 @@
 [StopSound(channel="e", fadetime=4)]
 [Delay(time=2)]
 [charslot(slot = "r", name = "avg_npc_1730_1#6$1", focus="r")]
-[name="Raidian"]......磁暴影响很强烈，这个距离没有办法建立稳定通讯。
+[name="Raidian"]……磁暴影响很强烈，这个距离没有办法建立稳定通讯。
 [name="Raidian"]阿洛伊泽，大部队的人很快就会到达，我需要你留在这里指挥大家有序登上载具撤离。
 [charslot(slot = "l", name = "avg_npc_1966_1#11$1", focus="l")]
 [name="阿洛伊泽"]女士，那您？
@@ -183,11 +183,11 @@
 [name="Raidian"]如果那是你最终的决定，我也希望你可以提前通知我。
 [name="Raidian"]罗德岛会另想办法。
 [charslot(slot = "l", name = "avg_npc_1966_1#11$1", focus="l")]
-[name="阿洛伊泽"]你......
+[name="阿洛伊泽"]你……
 [charslot(slot = "l", name = "avg_npc_1966_1#1$1", focus="l")]
-[name="阿洛伊泽"]呵......那个叫罗德岛的地方，都是和你一样的人吗？
+[name="阿洛伊泽"]呵……那个叫罗德岛的地方，都是和你一样的人吗？
 [charslot(slot = "r", name = "avg_npc_1730_1#1$1", focus="r")]
-[name="Raidian"]......他们都是比我勇敢许多的人。
+[name="Raidian"]……他们都是比我勇敢许多的人。
 [name="Raidian"]这里的指挥就交给你了，“中士”。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -237,7 +237,7 @@
 [name="阿米娅"]我们还在涅瓦湖东岸的树林里！我们正在遭受集团军的炮火攻击——
 [charslot(slot = "l", focus="n")]
 [interlude(channel = 3, type = 3, slot = "m", switch = true, pfrom = "260,0", pto="260,0", name = "avg_npc_1730_1#6$1", duration = 0)]
-[name="Raidian"]集团军在东边增派了部队，我们现在只能尽快穿过涅瓦湖！穿过涅瓦湖......就到圣骏堡了。
+[name="Raidian"]集团军在东边增派了部队，我们现在只能尽快穿过涅瓦湖！穿过涅瓦湖……就到圣骏堡了。
 [name="Raidian"]集团军未经允许不能踏上涅瓦湖西岸的土地，这是他们最后的底线，也是我们现在唯一的生路。
 [name="Raidian"]阿米娅，无论如何，我们必须赶在集团军彻底合围之前尽快穿过涅瓦湖——
 [dialog]
@@ -263,7 +263,7 @@
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$1")]
 [name="阿米娅"]请大家不要使用任何照明设备，我们只能摸黑前进，尽快穿过冰面。
-[name="阿米娅"]一直向西南......我会给大家指引方向。
+[name="阿米娅"]一直向西南……我会给大家指引方向。
 [charslot(slot = "m", name = "avg_4207_branch_1#4$1")]
 [name="别乔克"]我明白。看着星星，有方向——
 [dialog]
@@ -313,9 +313,9 @@
 [name="Raidian"]我正在赶过去。
 [interlude(channel = 3, clear = true)]
 [charslot(slot = "m", name = "avg_npc_1970_1#1$1")]
-[name="恍惚的矿工"]嘶——呜......
+[name="恍惚的矿工"]嘶——呜……
 [charslot(slot = "m", name = "avg_4207_branch_1#7$1")]
-[name="别乔克"]达雅，你的腿上，有血......我帮你，止血！
+[name="别乔克"]达雅，你的腿上，有血……我帮你，止血！
 [dialog]
 [charslot]
 [PlaySound(key="$rungeneral", volume=1)]
@@ -323,11 +323,11 @@
 [Delay(time=1.5)]
 [name="医疗干员"]我来帮忙——
 [charslot(slot = "m", name = "avg_npc_1970_1#1$1")]
-[name="恍惚的矿工"]呼......不。别乔克，就把我丢在这里吧。
+[name="恍惚的矿工"]呼……不。别乔克，就把我丢在这里吧。
 [name="恍惚的矿工"]我身上还有打火石。你留根干柴给我，然后就走。我帮你们引开那些家伙，能拖一会儿是一会儿。
 [charslot(slot = "m", name = "avg_4207_branch_1#5$1")]
 [name="别乔克"]达雅，我扶着你。我可以，扶着你！
-[name="别乔克"]不要......不要放弃。
+[name="别乔克"]不要……不要放弃。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$1")]
 [name="阿米娅"]是的，不要放弃！血马上就能止住了，等到载具上，我们就能为你进行进一步的包扎——
 [charslot(slot = "m", name = "avg_npc_1970_1#1$1")]
@@ -335,13 +335,13 @@
 [name="恍惚的矿工"]如果只是为了杀死我们，那把经过的所有地方都点燃，都炸成废墟，也能达成目的。
 [name="恍惚的矿工"]我不信他们没有这样的能力。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]......但这不是我们应该放弃的理由......
+[name="阿米娅"]……但这不是我们应该放弃的理由……
 [charslot(slot = "m", name = "avg_npc_1970_1#1$1")]
 [name="恍惚的矿工"]你不了解。在没被扔进矿井之前，我是个猎户，我知道有些城里人最喜欢的游猎项目是什么。
 [name="恍惚的矿工"]他们最喜欢把猎物驱赶到一起，先打死一两只，然后观赏剩下的猎物在包围圈内激烈反抗。
 [name="恍惚的矿工"]说真的，我甚至都不确定自己能不能至少引开他们一小会儿，但我得试试。
 [name="恍惚的矿工"]只是腿上被炸了个洞，没什么大不了的，就是往东边爬，我也能爬出几十米路。
-[name="恍惚的矿工"]所以别再浪费时间了，把干柴留下，你们......快走。
+[name="恍惚的矿工"]所以别再浪费时间了，把干柴留下，你们……快走。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="恍惚的矿工"]走！
 [dialog]
@@ -359,7 +359,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Delay(time=1)]
 [name="担忧的干员"]请大家有序登上载具！我们会在这里停留十五分钟，不必——
-[name="担忧的干员"]——拥挤......
+[name="担忧的干员"]——拥挤……
 干员的声音突然小了下去，她发现队伍既没有拥挤，也没有人推攘。
 人群只是沉默着，不断前行。
 [dialog]
@@ -374,7 +374,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1")]
-[name="阿洛伊泽"]......我得说，我从没见过这么安静有序的撤离行动。
+[name="阿洛伊泽"]……我得说，我从没见过这么安静有序的撤离行动。
 [name="阿洛伊泽"]连以治军严苛闻名的第一集团军可能都做不到这样。
 [charslot(slot = "m", name = "avg_npc_1560_1#1$1")]
 [name="担忧的干员"]这是好事吧？
@@ -389,7 +389,7 @@
 干员踮脚抬头，视线越过与漆黑冰面融为一体的人群，尝试寻找队长的身影。
 但她看到的只有最远处刺目的红。
 [charslot(slot = "m", name = "avg_npc_1560_1#1$1")]
-[name="担忧的干员"]难道他们真的停在了那里......
+[name="担忧的干员"]难道他们真的停在了那里……
 [dialog]
 [charslot]
 [PlaySound(key="$d_sp_ballista",volume=0.3)]
@@ -434,11 +434,11 @@
 [name="矿工"]可明明我们马上就能得救——
 [name="矿工"]我也有打火石，我也有干木柴。
 [name="矿工"]你要做什么？
-[name="矿工"]冰面被轰炸了，他们不会放过我们。如果什么也不做，这样下去......
+[name="矿工"]冰面被轰炸了，他们不会放过我们。如果什么也不做，这样下去……
 [name="矿工"]没人能活。
 [name="矿工"]可我想活下来，我想去圣骏堡！
 [name="矿工"]但本来我们会死在矿区里的，记得吗？和乌萨斯所有感染者一样。
-[name="矿工"]可如果现在我们能让在最前面的其他同伴，让那些来救我们的年轻人活下去......
+[name="矿工"]可如果现在我们能让在最前面的其他同伴，让那些来救我们的年轻人活下去……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -453,7 +453,7 @@
 [PlaySound(key="$d_avg_cndlbrn", volume=1)]
 [name="矿工"]就会有人记得这里发生了什么，比我们这些老东西记得更久、更清楚。
 火从一支火把的顶端，传递到另一支火把的顶端。
-一个人放弃了生路，接着是第二个、第三个、第四个......
+一个人放弃了生路，接着是第二个、第三个、第四个……
 越来越多还未登上载具的矿工举起火，开始往回走去。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -468,10 +468,10 @@
 [Delay(time=1)]
 [PlaySound(key="$d_avg_footsteps_flock", volume=1)]
 他们走向基安，走向达雅，走向所有被抛在身后的脚印，也走向那愈发逼近的威胁。
-[name="别乔克"]他们......不能把我们再......掩埋。
+[name="别乔克"]他们……不能把我们再……掩埋。
 [name="别乔克"]不能。
 [name="矿工"]没错，他们不能再把我们悄无声息地掩埋，无论是埋在雪里，还是埋在矿井里、湖水里！
-[name="矿工"]我们从兄弟姊妹的手里取走火，点起光，照亮路......
+[name="矿工"]我们从兄弟姊妹的手里取走火，点起光，照亮路……
 [name="矿工"]我们在这里，是要让整个乌萨斯都看见——
 [name="矿工"]看见我们曾经活过。
 [dialog]
@@ -536,18 +536,18 @@
 [charslot(slot = "m", name = "char_401_elysm_na_1#7")]
 [name="极境"]阿米娅！
 [charslot(slot = "m", name = "avg_1037_amiya3_1#10$1")]
-[name="阿米娅"]为什么......他们为什么要这么做......
+[name="阿米娅"]为什么……他们为什么要这么做……
 [name="阿米娅"]我们得继续阻止他们，不能这样下去——
 [charslot(slot = "m", name = "avg_4204_mantra_1#3$1")]
 [name="Mantra"]我现在的能力不足以阻拦这么多人。
 [name="Mantra"]但是阿米娅，这里一定有我们能做到的事。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#2$1")]
-[name="阿米娅"]Mantra女士......！
-[name="阿米娅"]我能感觉到，我能感觉到他们......
-[name="阿米娅"]他们的......愤怒。
+[name="阿米娅"]Mantra女士……！
+[name="阿米娅"]我能感觉到，我能感觉到他们……
+[name="阿米娅"]他们的……愤怒。
 [name="阿米娅"]这份情感太强大了，就好像他们自己都要被这愤怒烧成灰烬一样。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]......不能......
+[name="阿米娅"]……不能……
 [name="阿米娅"]不能这样下去了。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#4$1")]
 [name="阿米娅"]必须——
@@ -625,7 +625,7 @@
 随着挥剑的动作，青色的火焰自剑锋处喷薄而出，高度凝结的能量束瞬间就在冰上划出一堵火墙，那也是一道漫长而明确的分界线。
 一侧，是裂痕正在扩散的冰面和被挡在火墙之外的炮弹。
 另一侧，是渺小的卡特斯与手举火焰的感染者。
-[name="阿米娅"]你们......
+[name="阿米娅"]你们……
 而后，阿米娅将剑指向对岸，指向那将人如牲畜般驱赶与杀戮的源头——集团军。
 [dialog]
 [SoundVolume(volume=0.2, channel="f",fadetime=2)]
@@ -642,7 +642,7 @@
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.03, block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-剑锋闪烁，青焰升腾，她以此告诫制造屠杀的刽子手，无论是炮火、士兵，还是军舰本身，在怒火消弭、背弃都得到清算前......
+剑锋闪烁，青焰升腾，她以此告诫制造屠杀的刽子手，无论是炮火、士兵，还是军舰本身，在怒火消弭、背弃都得到清算前……
 这界线他们将永不可跨越。
 [dialog]
 [StopSound(channel="f", fadetime=2)]
@@ -669,7 +669,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 “报告，前方检测到来源不明的高能量源石反应。”
-“......谨慎观察，暂缓推进。”
+“……谨慎观察，暂缓推进。”
 “收到。”
 [dialog]
 [StopSound(channel="dr", fadetime=2)]
@@ -690,7 +690,7 @@
 [PlaySound(key="$d_avg_tankbiggun", volume=0.2)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "char_401_elysm_na_1#6")]
-[name="极境"]......他们要停火了？
+[name="极境"]……他们要停火了？
 [dialog]
 [PlaySound(key="$transmission", volume=1)]
 [interlude(maskid = "group_interclude_square_common", char = "Raidian", switch = true, style = 1,offset = "-450,125", channel = 3)]
@@ -704,10 +704,10 @@
 [charslot(slot = "m", name = "char_401_elysm_na_1#8")]
 [name="极境"]支援的载具应该很快就要到达了，准备撤离！
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$4")]
-[name="阿米娅"]......不。
+[name="阿米娅"]……不。
 [name="阿米娅"]我留在最后，等所有人都离开。
 [charslot(slot = "m", name = "char_401_elysm_na_1#6")]
-[name="极境"]等一下......有新的情况！
+[name="极境"]等一下……有新的情况！
 [name="极境"]西边好像有载具正在向我们加速驶来，但那不是我们的载具——好像是卡车！
 [name="极境"]他们直接开上了冰面！
 [charslot(slot = "m", focus="n")]
@@ -727,7 +727,7 @@
 [interlude(channel = 4, switch = false)]
 [Decision(options="还有柳德米拉。;还有干员弑君者。", values="1;2")]
 [Predicate(references="1;2")]
-[Decision(options="罗德岛......;准备集合。", values="1;2")]
+[Decision(options="罗德岛……;准备集合。", values="1;2")]
 [Predicate(references="1;2")]
 [musicvolume(volume=0.2, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -745,7 +745,7 @@
 [name="Mon3tr"]阿米娅！
 [charslot(slot = "m", name = "avg_1037_amiya3_1#5$4")]
 [name="阿米娅"]博士！Mon3tr！你们怎么——
-[name="阿米娅"]而且干员弑君者......？
+[name="阿米娅"]而且干员弑君者……？
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -767,7 +767,7 @@
 [Delay(time=1.5)]
 [name="Raidian"]还好。叙旧可以留到之后，我们必须尽快撤离了。
 [dialog]
-[Decision(options="对。总之，干员Mon3tr，干员弑君者......;以及{@nickname}，归队。", values="1;2")]
+[Decision(options="对。总之，干员Mon3tr，干员弑君者……;以及{@nickname}，归队。", values="1;2")]
 [Predicate(references="1;2")]
 涅瓦湖西南岸岗哨的所有监控光束，在快速扫过冰面上的幸存者之后，指向对岸的集团军。
 白光散射，与红光无声对峙，而后，轰炸的频率再度减弱。
@@ -779,20 +779,20 @@
 “应圣骏堡急电要求，各单位立即停火。”
 “重复，各单位立即停火。”
 “收到回复。”
-“......”
-“......”
-“......”
+“……”
+“……”
+“……”
 “收到。”
 [StopSound(channel="e", fadetime=3)]
 [charslot(slot = "m", name = "char_401_elysm_na_1#9")]
-[name="极境"]这回好像是......真的停了。
+[name="极境"]这回好像是……真的停了。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#8$4")]
 [name="阿米娅"]而且，全员都归队了。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#9$4")]
-[name="阿米娅"]太好了......
+[name="阿米娅"]太好了……
 [dialog]
 [charslot]
-[Decision(options="是的......", values="1")]
+[Decision(options="是的……", values="1")]
 [Predicate(references="1")]
 [Decision(options="看来，我们都赶上了。", values="1")]
 [Predicate(references="1")]

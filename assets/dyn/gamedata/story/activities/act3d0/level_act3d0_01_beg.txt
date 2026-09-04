@@ -20,7 +20,7 @@
 [name="天火"]  虽然有你这样的天灾信使在，只有以我的知识储备，才能保证火焰环境下的你们不出什么意外状况。
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=1)]
 [name="普罗旺斯"]   这样的话，万一反而在山上引起大火就不妙了。
-[name="普罗旺斯"]   虽然我知道你能应付那种情况......这一次我们毕竟只是来度假的，还是不要引起什么混乱比较好。
+[name="普罗旺斯"]   虽然我知道你能应付那种情况……这一次我们毕竟只是来度假的，还是不要引起什么混乱比较好。
 [name="普罗旺斯"]   否则到时候又要给博士他们添麻烦了。
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#2",focus=2)]
 [name="天火"]   好吧，看在博士和阿米娅的面子上，忍耐一下也没什么问题。
@@ -30,8 +30,8 @@
 [Character]
 [Character(name="char_145_prove_1")]
 [name="普罗旺斯"]   小心一点，别在这一带乱跑。尤其是不要随意用火！
-[name="普罗旺斯"]   呼......应付这位小姐可比实地勘察要累多了。
-[name="普罗旺斯"]   不过，真奇怪......即使是夏天，这里的气温......也有些反常。
+[name="普罗旺斯"]   呼……应付这位小姐可比实地勘察要累多了。
+[name="普罗旺斯"]   不过，真奇怪……即使是夏天，这里的气温……也有些反常。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Character]
@@ -41,7 +41,7 @@
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=2)]
 [name="天火"]   大尾巴。
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=1)]
-[name="普罗旺斯"]   ......
+[name="普罗旺斯"]   ……
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=2)]
 [CameraShake(duration=0.3, xstrength=5, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=true)]
 [name="天火"]   我说，大尾巴！
@@ -50,13 +50,13 @@
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=2)]
 [name="天火"]   你从刚才起有闻到什么奇怪的味道吗？
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=1)]
-[name="普罗旺斯"]   这么说的话，的确有点......
+[name="普罗旺斯"]   这么说的话，的确有点……
 [name="普罗旺斯"]   唔。很微弱，但是我敢肯定不是错觉。
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=2)]
 [name="天火"]   火山气体排出的量比我想象中要多，而且艾雅法拉交给我的检测符文也已经有反应了。
 [name="天火"]   看上去不用我做什么，搞不好再过一段时间，这里就自然会变成一片火海哦。
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=1)]
-[name="普罗旺斯"]   这座火山的确有可能有问题......
+[name="普罗旺斯"]   这座火山的确有可能有问题……
 [name="普罗旺斯"]   但是更多的我们只能向艾雅法拉小姐求证了。
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=2)]
 [name="天火"]   这边，岩壁上还有些样本。
@@ -76,9 +76,9 @@
 [name="天火"]    样品数据可以用临时的仪器做点检测，然后发回罗德岛。
 [name="天火"]    艾雅法拉那一头应该会最快作出后续数据分析。
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#2",focus=1)]
-[name="普罗旺斯"]   可是从这些黑曜石的触感看来......我也不知道，这里的黑曜石感觉有点特殊，不像是普通的黑曜石。
-[name="普罗旺斯"]   加上刚才闻到的那股味道以及这里的气温......
-[name="普罗旺斯"]   虽然我也不确定，但是......
+[name="普罗旺斯"]   可是从这些黑曜石的触感看来……我也不知道，这里的黑曜石感觉有点特殊，不像是普通的黑曜石。
+[name="普罗旺斯"]   加上刚才闻到的那股味道以及这里的气温……
+[name="普罗旺斯"]   虽然我也不确定，但是……
 [Character(name="char_145_prove_1",name2="char_166_skfire_3#1",focus=2)]
 [name="天火"]   你到底想说什么，支支吾吾的，干脆一点！
 [Dialog]
@@ -86,7 +86,7 @@
 [stopmusic(fadetime=2)]
 [name="？？？"]   来啊！不过是几个虫子而已！看我就在这里把你们都收拾掉！
 [CameraShake(duration=0.8, xstrength=5, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="？？？"]   可恶，裙子的下摆卡住了......
+[name="？？？"]   可恶，裙子的下摆卡住了……
 [name="？？？"]   有、有没有人在这附近啊！为什么这里的源石虫会聚集这么多啊？！
 [name="？？？"]   不、不要过来啊！谁来帮帮我！
 [PlayMusic(intro="$indust_intro", key="$indust_loop", volume=0.8, crossfade=0.5)]

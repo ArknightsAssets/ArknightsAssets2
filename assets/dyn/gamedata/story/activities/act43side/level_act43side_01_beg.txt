@@ -9,7 +9,7 @@
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_1834_1#6$1",duration=1)]
 [Delay(time=2)]
-[name="格蕾塔"]......
+[name="格蕾塔"]……
 [name="格蕾塔"]老道尔顿的死，是个意外——这就是结论。
 [name="格蕾塔"]医疗组已经收殓他的遗体，调用短驳运输车送回蓝卡坞主城，并向警方报备事故详情。
 [name="格蕾塔"]谢莉也已经对剩下的所有道具进行了重新检查，排除了一切隐患。大家稍作休整，今天下午剧组就重启拍摄。
@@ -26,15 +26,15 @@
 [charslot]
 [charslot(slot = "left", name = "avg_npc_1845_1#1$1",focus="l")]
 [charslot(slot = "right", name = "avg_npc_1847_1#1$1",focus="l")]
-[name="工作人员A"]胶卷可以更换，摄影机坏了还有备用的，可这是死了一个人啊，我们才刚刚擦干地面的血迹，就要......
+[name="工作人员A"]胶卷可以更换，摄影机坏了还有备用的，可这是死了一个人啊，我们才刚刚擦干地面的血迹，就要……
 [charslot(slot = "r", focus="r")]
 [name="工作人员B"]为什么道尔顿明明是去找道具，最后却找到了一把开刃的真刀？
 [name="工作人员B"]到底是谁哄骗酒醉的演员自己去找丢失的道具？还是说，其实是有人故意把它塞到了道尔顿的手里？
 [charslot(slot = "left", focus="l")]
 [name="工作人员A"]哄骗？故、故意塞？
 [name="工作人员A"]道尔顿除了爱喝酒容易耽误事，和剧组的大家也没什么私仇，谁会这样做？
-[name="工作人员A"]而且那把刀的形制很普通，剧组的厨房、街面的便利店，甚至我们自己的房间，到处都有差不多的......
-[name="工作人员A"]我觉得只是有人无心跟道尔顿提了一嘴，他就自己......
+[name="工作人员A"]而且那把刀的形制很普通，剧组的厨房、街面的便利店，甚至我们自己的房间，到处都有差不多的……
+[name="工作人员A"]我觉得只是有人无心跟道尔顿提了一嘴，他就自己……
 [charslot(slot = "r", focus="r")]
 [name="工作人员B"]总之，疑点很多，不是吗？
 [charslot]
@@ -43,7 +43,7 @@
 [charslot]
 [charslot(slot = "left", name = "avg_npc_1845_1#1$1",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1847_1#1$1",focus="r")]
-[name="工作人员B"]......
+[name="工作人员B"]……
 [charslot]
 [charslot(slot="m",name="avg_npc_1834_1#6$1")]
 [name="格蕾塔"]我知道大部分人，包括我，仍沉浸在失去同伴的冲击中，但现在有个最重要的问题摆在面前——
@@ -70,30 +70,30 @@
 [name="道具组长"]抱、抱歉，格蕾塔女士。
 [charslot(slot="m",name="avg_npc_1834_1#5$1")]
 [name="格蕾塔"]亲爱的，抱歉没有任何意义。
-[name="格蕾塔"]即日开除出组。趁我们的移动地块还没开出主城区多远，你可以尽早物色新的工作......别再说什么了，你应该清楚，我已经足够仁慈。
+[name="格蕾塔"]即日开除出组。趁我们的移动地块还没开出主城区多远，你可以尽早物色新的工作……别再说什么了，你应该清楚，我已经足够仁慈。
 [Dialog]
 [playsound(key="$d_avg_walkfast")]
 [charslot(slot = "m", focus = "n")]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1834_1#6$1")]
 [Delay(time=0.5)]
-[name="格蕾塔"]道具组接下来的工作......我希望交由莫伊拉负责。
+[name="格蕾塔"]道具组接下来的工作……我希望交由莫伊拉负责。
 [charslot(slot="m",name="avg_npc_1831_1#4$1")]
-[name="莫伊拉"]我、我......？
+[name="莫伊拉"]我、我……？
 [charslot(slot="m",name="avg_npc_1834_1#6$1")]
 [name="格蕾塔"]如果你不愿意，也可以选择跟你的组长一起离开剧组，当然我相信你不会做那种愚蠢的决定。
 [charslot(slot="m",name="avg_npc_1831_1#5$1")]
-[name="莫伊拉"]......
+[name="莫伊拉"]……
 [charslot(slot="m",name="avg_npc_1834_1#6$1")]
 [name="格蕾塔"]另外，斯蒂芬，你需要抓紧了。
 [name="格蕾塔"]《杜邦夫人之死》的结局还差一口气，这是我们的共识。
 [name="格蕾塔"]按照原计划，你应该在上周交出那几场戏的定稿。显然，拍摄进度马上就要追上你的修改速度。
 [charslot(slot="m",name="avg_npc_1835_1#7$1")]
-[name="斯蒂芬"]我还要身兼导演工作，你知道我们这个剧组其实没多让人省心......
+[name="斯蒂芬"]我还要身兼导演工作，你知道我们这个剧组其实没多让人省心……
 [charslot(slot="m",name="avg_npc_1834_1#6$1")]
 [name="格蕾塔"]还是没有好的灵感？
 [charslot(slot="m",name="avg_npc_1835_1#4$1")]
-[name="斯蒂芬"]......嗯。
+[name="斯蒂芬"]……嗯。
 [charslot(slot="m",name="avg_npc_1834_1#6$1")]
 [name="格蕾塔"]这是你的原创剧本，这是你最珍爱的故事，给它一个最好的结束吧，亲爱的。
 [charslot(slot="m",name="avg_npc_1830_1#1$1")]
@@ -102,14 +102,14 @@
 [name="米兰妮"]杜邦夫人在经历一连串的变故后，到底是被哪个洛克菲勒杀死？在什么场景里？以什么姿势？她死前说了什么？
 [name="米兰妮"]这直接决定了电影的质量。
 [charslot(slot="m",name="avg_npc_1830_1#1$1")]
-[name="米兰妮"]她怎么在戏里好看地死，决定了我怎么在蓝卡坞漂亮地重生......
+[name="米兰妮"]她怎么在戏里好看地死，决定了我怎么在蓝卡坞漂亮地重生……
 [name="米兰妮"]我把我全部的身家都投给这个项目了，两位。
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
-[name="斯蒂芬"]......神会来找我的。
+[name="斯蒂芬"]……神会来找我的。
 [charslot(slot="m",name="avg_npc_1830_1#6$1")]
 [name="米兰妮"]什么？
 [charslot(slot="m",name="avg_npc_1835_1#1$1")]
-[name="斯蒂芬"]哦，文学评论里有一种说法，说所谓的“灵感”，是指神明直接附身在作者身上，代他写下新生与死亡，毁灭与希望......
+[name="斯蒂芬"]哦，文学评论里有一种说法，说所谓的“灵感”，是指神明直接附身在作者身上，代他写下新生与死亡，毁灭与希望……
 [name="斯蒂芬"]总之，请放心，我会完成这个故事。
 [charslot(slot="m",name="avg_npc_1834_1#6$1")]
 [name="格蕾塔"]那好，散会，去做准备吧。
@@ -133,16 +133,16 @@
 [charslot(slot = "left", name = "avg_npc_1834_1#6$1",focus="l")]
 [name="格蕾塔"]谢莉，我知道你要说什么，但不是现在。
 [charslot(slot = "left", name = "avg_npc_1834_1#8$1",focus="l")]
-[name="格蕾塔"]我得先去看看卢西恩，他才刚来剧组，第一次参与电影拍摄就经历了这么严重的意外......
+[name="格蕾塔"]我得先去看看卢西恩，他才刚来剧组，第一次参与电影拍摄就经历了这么严重的意外……
 [name="格蕾塔"]我得确保他不会落荒而逃。
 [charslot(slot = "left", name = "avg_npc_1834_1#6$1",focus="l")]
-[name="格蕾塔"]至于你，无论你联想到了什么......忘了它，你想多了。
+[name="格蕾塔"]至于你，无论你联想到了什么……忘了它，你想多了。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "l",duration = 1,afrom=1,ato=0)]
 [delay(time=2.5)]
 [charslot(slot = "right", name = "avg_npc_1836_1#4$1",focus="r")]
-[name="谢莉"]......
+[name="谢莉"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -153,7 +153,7 @@
 [playMusic(intro="$warm_intro",key="$warm_loop", volume=0.6)]
 [delay(time=1)]
 [charslot(slot = "right", name = "avg_npc_1831_1#4$1",focus="r")]
-[name="莫伊拉"]我......我来负责整个道具组？
+[name="莫伊拉"]我……我来负责整个道具组？
 [charslot(slot = "left", name = "avg_4191_tippi_1#11$1",focus="l")]
 [name="蒂比"]恭喜你啊，莫丽！
 [charslot(slot = "left", name = "avg_4191_tippi_1#1$1",focus="l")]
@@ -162,7 +162,7 @@
 [charslot(slot = "right", name = "avg_npc_1831_1#9$1",focus="r")]
 [name="莫伊拉"]那是因为蒂比老喜欢把自己的主张加进背景里，所以你们美术组的组长不敢让你负责更多。
 [charslot(slot = "right", name = "avg_npc_1831_1#5$1",focus="r")]
-[name="莫伊拉"]但我只是从开拓区来蓝卡坞谋生的手工爱好者，真的能......
+[name="莫伊拉"]但我只是从开拓区来蓝卡坞谋生的手工爱好者，真的能……
 [charslot(slot = "left", name = "avg_4191_tippi_1#1$1",focus="l")]
 [name="蒂比"]格蕾塔女士说你能，你就能！她的眼光可从来没出过错。
 [name="蒂比"]而且你的姐姐也会很高兴的，你不是受她影响才来蓝卡坞的吗？快告诉她你现在已经是独当一面的道具组长啦！
@@ -185,7 +185,7 @@
 [name="阿布纳"]嘿，别在我眼前晃悠了，谢莉！
 [name="阿布纳"]分镜表确认了三次，设备检查了五次。我向制片人女士发过毒誓，不会再弄丢一套摄影机了，可以别盯着我了吗！
 [charslot(slot="m",name="avg_npc_1836_1#4$1")]
-[name="谢莉"]（小声）你说......真的是这样吗？
+[name="谢莉"]（小声）你说……真的是这样吗？
 [charslot(slot="m",name="avg_npc_1843_1#6$1")]
 [name="阿布纳"]啊，什么？大点声。
 [charslot(slot="m",name="avg_npc_1836_1#6$1")]
@@ -203,21 +203,21 @@
 [charslot(slot="m",name="avg_npc_1843_1#1$1")]
 [name="阿布纳"]就好像真的回到了五年前，再一次目睹了那名小演员的死？
 [charslot(slot="m",name="avg_npc_1836_1#6$1")]
-[name="谢莉"]你不觉得这两起事故......很像吗？
+[name="谢莉"]你不觉得这两起事故……很像吗？
 [charslot(slot="m",name="avg_npc_1843_1#1$1")]
 [name="阿布纳"]哪儿像了？一个是坠亡，一个是道具刀弄错了。
 [charslot(slot="m",name="avg_npc_1843_1#9$1")]
 [name="阿布纳"]谢莉，你又开始神经过敏了。
 [charslot(slot="m",name="avg_npc_1836_1#3$1")]
-[name="谢莉"]我很理智......哦......我全想明白了！道尔顿不就是当时那起事故的第一责任人吗！
+[name="谢莉"]我很理智……哦……我全想明白了！道尔顿不就是当时那起事故的第一责任人吗！
 [charslot(slot="m",name="avg_npc_1836_1#4$1")]
-[name="谢莉"]他遭到报应了......有人来找他了......
+[name="谢莉"]他遭到报应了……有人来找他了……
 [charslot(slot="m",name="avg_npc_1843_1#4$1")]
 [name="阿布纳"]停下！别再挠你的手臂也别再胡思乱想了。我早跟你说过——多看医生，远离剧组！
 [charslot(slot="m",name="avg_npc_1843_1#8$1")]
 [name="阿布纳"]我们不过是拍烂片谋生的普通人，没人把我们当回事儿。谢莉？谢莉，我说的话你听见没！
 [charslot(slot="m",name="avg_npc_1836_1#4$1")]
-[name="谢莉"]我听见了......我听见了......有什么要来了，要来找我们了......
+[name="谢莉"]我听见了……我听见了……有什么要来了，要来找我们了……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -238,15 +238,15 @@
 [name="“白英花”"]脆弱的肺叶没有任何抵抗能力，对方会慢慢溺死在自己的血和你慷慨激昂的独白之中。
 [name="“白英花”"]举起你的匕首，孩子。
 [charslot(slot="m",name="avg_npc_1841_1#1$1")]
-[name="小卢西恩"]......
+[name="小卢西恩"]……
 [charslot(slot = "m", focus = "n")]
 [name="“白英花”"]想想我们已经排演过的段落，你一直表现得很好，只差这最后一步。
 [name="“白英花”"]刺下去！让刀尖体会搅动内脏、割断血管的触感，让它聆听心跳的声音！
 [charslot(slot="m",name="avg_npc_1841_1#1$1")]
-[name="小卢西恩"]......
+[name="小卢西恩"]……
 [charslot(slot = "m", focus = "n")]
 [name="“白英花”"]你害怕了？
-[name="“白英花”"]......平庸的孩子。
+[name="“白英花”"]……平庸的孩子。
 [Dialog]
 [charslot]
 [delay(time=1)]
@@ -263,9 +263,9 @@
 [delay(time=2)]
 [name="剧团长"]辛苦你了，去为明天的演出准备吧。
 [charslot(slot="m",name="avg_npc_1829_1#2$1")]
-[name="剧团长"]......我来指导这个孩子。
+[name="剧团长"]……我来指导这个孩子。
 [charslot(slot = "m", focus = "n")]
-[name="“白英花”"]您亲自......我明白了。
+[name="“白英花”"]您亲自……我明白了。
 [Dialog]
 [charslot]
 [delay(time=1)]
@@ -275,7 +275,7 @@
 [charslot(slot = "right", name = "avg_npc_1829_1#1$1",focus="r")]
 [name="剧团长"]孩子，匕首重吗？
 [charslot(slot = "left",focus="l")]
-[name="小卢西恩"]......重。
+[name="小卢西恩"]……重。
 [charslot(slot = "right", name = "avg_npc_1829_1#1$1",focus="r")]
 [name="剧团长"]但你知道，它的重量并不来自金属和装饰，而是源自你的心，对吗？
 [charslot(slot = "left",focus="l")]
@@ -283,7 +283,7 @@
 [charslot(slot = "right", name = "avg_npc_1829_1#4$1",focus="r")]
 [name="剧团长"]“白英花”未能料到你领悟得如此之快，你在等她解惑，而她做不到。
 [charslot(slot = "right", name = "avg_npc_1829_1#11$1",focus="r")]
-[name="剧团长"]听我说，孩子......
+[name="剧团长"]听我说，孩子……
 [charslot(slot = "m", focus = "n")]
 剧团长握住了卢西恩的小手，他的微笑是温柔的，但手上明显用了力道，不容拒绝。
 卢西恩觉得自己僵硬的手指在慢慢放松。
@@ -291,10 +291,10 @@
 [name="剧团长"]忘掉“白英花”试图教你的那些技巧，你不需要模仿某一种握刀姿势或是刺杀方法。
 [name="剧团长"]没有不染血的匕首、不被击发的弩，握紧它们就好。
 [name="剧团长"]它们不是道具，它们会教会你该渴望什么。
-[name="剧团长"]所以，让它们牵引你的行动，别怀疑，哪怕它指向的对象是你没有想过的人——亲友、挚爱，甚至自己......
+[name="剧团长"]所以，让它们牵引你的行动，别怀疑，哪怕它指向的对象是你没有想过的人——亲友、挚爱，甚至自己……
 [name="剧团长"]或者，此刻站在你面前的我。
 [charslot(slot = "left",focus="l")]
-[name="小卢西恩"]你......你？
+[name="小卢西恩"]你……你？
 [charslot(slot = "right", name = "avg_npc_1829_1#1$1",focus="r")]
 [name="剧团长"]别犹豫，挥下去。
 [charslot(slot = "right", name = "avg_npc_1829_1#2$1",focus="r")]
@@ -308,14 +308,14 @@
 [charslot(slot = "right", name = "avg_npc_1829_1#5$1",focus="r")]
 [name="剧团长"]试试。
 [charslot(slot = "left",focus="l")]
-[name="小卢西恩"]那你，那我......
+[name="小卢西恩"]那你，那我……
 [name="小卢西恩"]我们在扮演什么？
 [charslot(slot = "right", name = "avg_npc_1829_1#11$1",focus="r")]
 [name="剧团长"]既然已经遗忘了技巧，那角色和台词也暂且忘记吧，它们只是戏剧的载体，而非戏剧本身。
 [charslot(slot = "m", focus = "n")]
 卢西恩终于握紧了刀，剧团长放开了他的手，半跪在他身前，让两人保持差不多的高度。
 [charslot(slot = "left",focus="l")]
-[name="小卢西恩"]可是，我们离得太近太近了......
+[name="小卢西恩"]可是，我们离得太近太近了……
 [charslot(slot = "right", name = "avg_npc_1829_1#11$1",focus="r")]
 [name="剧团长"]你害怕伤到我吗？
 [name="剧团长"]没关系，孩子。
@@ -340,27 +340,27 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot = "right", name = "avg_npc_1829_1#11$1",focus="r")]
-[name="剧团长"]......
+[name="剧团长"]……
 [charslot(slot = "left",focus="l")]
-[name="小卢西恩"]......
+[name="小卢西恩"]……
 [charslot(slot = "right", name = "avg_npc_1829_1#11$1",focus="r")]
 [name="剧团长"]感受到了吗？
 [charslot(slot = "m", focus = "n")]
 卢西恩的手在颤抖，一击之后，他差点脱力，险些握不住刀柄。
 剧团长没有移动分毫，甚至连表情都没有变化。
-但卢西恩很确信刀刃划开了对方的身体，他听到了声音......他感受到了本不属于他的疼痛，强烈的，肆意的疼痛。
+但卢西恩很确信刀刃划开了对方的身体，他听到了声音……他感受到了本不属于他的疼痛，强烈的，肆意的疼痛。
 来到剧团后，他一直沉默，但此刻，那疼痛让他突然想要歌唱。
 [charslot(slot = "right", name = "avg_npc_1829_1#1$1",focus="r")]
-[name="剧团长"]这是你的第一课，孩子——所有的故事最终都只会剩下某种情绪，或者......
+[name="剧团长"]这是你的第一课，孩子——所有的故事最终都只会剩下某种情绪，或者……
 [charslot(slot = "m", focus = "n")]
 剧团长停顿了一下，卢西恩投去追问的目光，于是他对上了那对金色的瞳孔。
 [charslot(slot = "right", name = "avg_npc_1829_1#5$1",focus="r")]
 [name="剧团长"]某段密不可分的关系。
 [charslot(slot = "left",focus="l")]
-[name="小卢西恩"]......
+[name="小卢西恩"]……
 [charslot(slot = "right", name = "avg_npc_1829_1#11$1",focus="r")]
 [name="剧团长"]你是天生的演员，你应该成为我的学生。
-[name="剧团长"]考虑好之后，来找我......卢西恩，我永远不会成为你的阻碍。
+[name="剧团长"]考虑好之后，来找我……卢西恩，我永远不会成为你的阻碍。
 [Dialog]
 [CameraEffect(effect="Grayscale", fadetime=2, keep=true, initamount=0, amount=1, block=true)]
 [Dialog]
@@ -373,7 +373,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1828_1#1$1")]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [charslot(slot = "m", focus = "n")]
 卢西恩低头看向自己的双手。
 手套上的血迹早已清洗干净，但他依然无法忘记从道尔顿手中夺过刀时的感觉。
@@ -398,7 +398,7 @@
 [charslot(slot="m",name="avg_npc_1828_1#1$1")]
 [name="卢西恩"]格蕾塔女士。
 [charslot(slot="m",name="avg_npc_1834_1#4$1")]
-[name="格蕾塔"]你的脸色有点差......你还好吗？
+[name="格蕾塔"]你的脸色有点差……你还好吗？
 [Dialog]
 [Delay(time=1)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

@@ -61,7 +61,7 @@
 [name="禾生"]早在一千年前，大荒城是一片难得的少受源石污染的土地，是炎国一片重要的耕地。
 [name="禾生"]有一批农人就在这里开垦土地，搭起小屋，在这里生活。
 [charslot(slot="r",name="avg_4119_wanqin_1#2$1",focus="r")]
-[name="禾生"]直到天灾还是找上了他们......
+[name="禾生"]直到天灾还是找上了他们……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_drumlp_02", volume=1)]
@@ -77,7 +77,7 @@
 [name="禾生"]几代人在这里的努力，全都化为乌有。
 [name="禾生"]开垦田地不容易，找到一片可以开垦的土地更难。神农知道了这里发生的事情，决定要尽可能拯救这片来之不易的土地。
 [charslot(slot="r",name="avg_4119_wanqin_1#10$1",focus="r")]
-[name="禾生"]她带领一众农人、天师在这里住下，研究如何清除土地上的污染，培育能适应环境的谷种......一代又一代。
+[name="禾生"]她带领一众农人、天师在这里住下，研究如何清除土地上的污染，培育能适应环境的谷种……一代又一代。
 [Dialog]
 [charslot]
 鼓声从细密逐渐变得浑厚，台上人的唱腔也逐渐转为直冲人脑门的豪迈，一声铜锣的裂响声过后，撕裂般的吼唱声响彻一方戏台。
@@ -86,7 +86,7 @@
 [Dialog]
 [charslot(slot="l",name="avg_4121_zuole_1#1$2",focus="l")]
 [charslot(slot="r",name="avg_4119_wanqin_1#9$1",focus="l")]
-[name="左乐"]这里演的是......？
+[name="左乐"]这里演的是……？
 [charslot(slot="r",name="avg_4119_wanqin_1#9$1",focus="r")]
 [name="禾生"]神农最后，在前往北边寻找新种的路上离世了。
 [name="禾生"]人们没能找到神农的骸骨，只发现了一个竹篮和装着稻谷的口袋。人们把这些东西带回了大荒城，立起了一个衣冠冢。
@@ -94,12 +94,12 @@
 [charslot(slot="r",name="avg_4119_wanqin_1#2$1",focus="r")]
 [name="禾生"]从那以后，大荒城每年都会办社戏，迎神农，祈收成。
 [charslot(slot = "l", name = "avg_4121_zuole_1#6$2",focus="l")]
-[name="左乐"]神农......是神话人物吗？
+[name="左乐"]神农……是神话人物吗？
 [charslot(slot="r",name="avg_4119_wanqin_1#1$1",focus="r")]
 [name="禾生"]当然不是！虽然有很多和她有关的神话故事，但神农是确有其人的。
 [name="禾生"]天师府的教材上也有对她的记载，她是炎国农业理论最早的奠基人，是第一位系统地总结了农业理论，总结了二十四节气的规律的人。
 [charslot(slot="r",name="avg_4119_wanqin_1#8$1",focus="r")]
-[name="禾生"]这应该不只是天师府教材的记录？应该是大部分炎国人都有的常识才对......我才想问，你怎么连这些常识都需要来问我？
+[name="禾生"]这应该不只是天师府教材的记录？应该是大部分炎国人都有的常识才对……我才想问，你怎么连这些常识都需要来问我？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -112,9 +112,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_4121_zuole_1#1$1",focus="m")]
-[name="左乐"]黍，其数为六。定天时，规二十四节气......于大饥荒时现身于大荒城，躬耕千年未曾离开......
+[name="左乐"]黍，其数为六。定天时，规二十四节气……于大饥荒时现身于大荒城，躬耕千年未曾离开……
 [charslot(slot="m",name="avg_4121_zuole_1#3$1",focus="m")]
-[name="左乐"]代理人中，竟然也有这样的人......
+[name="左乐"]代理人中，竟然也有这样的人……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -132,7 +132,7 @@
 [charslot(slot="m",name="avg_npc_1249_1#1$1",focus="m")]
 [name="开心的职农"]哈哈哈！不打扰你们年轻人的事！你研究的庄稼今年收成怎么样？
 [charslot(slot="m",name="avg_4119_wanqin_1#9$1",focus="m")]
-[name="禾生"]......
+[name="禾生"]……
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
 [name="禾生"]嗯，结果还成！
 [name="禾生"]研究到了挺关键的时候，可能再过两季，就能看到成果了。
@@ -146,16 +146,16 @@
 [Delay(time=2)]
 [charslot(slot="l",name="avg_4121_zuole_1#6$2",focus="l")]
 [charslot(slot="r",name="avg_4119_wanqin_1#2$1",focus="l")]
-[multiline(name="左乐")]你刚刚......
+[multiline(name="左乐")]你刚刚……
 [charslot(slot="l",name="avg_4121_zuole_1#8$2",focus="l")]
 [multiline(name="左乐")]是在撒谎吧。
 [charslot(slot="r",name="avg_4119_wanqin_1#2$1",focus="r")]
 [name="禾生"]别问了。
 [charslot(slot = "l", name = "avg_4121_zuole_1#8$2",focus="l")]
-[name="左乐"]......
+[name="左乐"]……
 [charslot(slot="r",name="avg_4119_wanqin_1#8$1",focus="r")]
-[name="禾生"]......奇怪，小满跑哪去了？
-[name="禾生"]这出戏不是她的笛子伴奏吗......
+[name="禾生"]……奇怪，小满跑哪去了？
+[name="禾生"]这出戏不是她的笛子伴奏吗……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -182,11 +182,11 @@
 [charslot(slot="m",name="avg_npc_1243_1#1$1",duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_1243_1#1$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="m",name="avg_2025_shu_1#9$1",focus="m")]
 [name="黍"]最近身体怎么样，头还是很晕吗？
 [charslot(slot="m",name="avg_2025_shu_1#9$1",focus="m")]
-[multiline(name="黍")]我来看看你......
+[multiline(name="黍")]我来看看你……
 [charslot(slot="m",name="avg_2025_shu_1#15$1",focus="m")]
 [multiline(name="黍")]也来看看他们。
 [Dialog]
@@ -196,7 +196,7 @@
 [charslot(slot="m",name="avg_2025_shu_1#2$1",focus="m")]
 [name="黍"]听到了吗？那些敲锣打鼓办社戏的声音，人们正在办神农祭迎神农呢。
 [charslot(slot="m",name="avg_2025_shu_1#16$1",focus="m")]
-[name="黍"]大伙都在城里热闹，留他们在这多寂寞啊......
+[name="黍"]大伙都在城里热闹，留他们在这多寂寞啊……
 [Dialog]
 [charslot]
 堤岸上，数排松柏郁郁苍苍。
@@ -207,32 +207,32 @@
 [name="黍"]入夏连着来了几场大大小小的天灾，今年天气的确不好。
 [name="黍"]我会叮嘱天师们多留意的，你不用太担心。
 [charslot(slot="m",name="avg_npc_1243_1#1$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="m",name="avg_2025_shu_1#9$1",focus="m")]
 [name="黍"]收成不算太好，但也不用操心。
 [name="黍"]往年余粮都还够，多少年了，不都是这么过来的？
 [charslot(slot="m",name="avg_npc_1243_1#7$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [Dialog]
 [charslot]
 男人看向宽阔的河面，呆呆地张了张嘴，还是没有说话。
 [charslot(slot="m",name="avg_npc_1243_1#1$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="m",name="avg_2025_shu_1#15$1",focus="m")]
 [name="黍"]外面来了不少人，有些人知道真相。我也在帮忙，别担心。
 [charslot(slot="m",name="avg_2025_shu_1#8$1",focus="m")]
-[name="黍"]我们......确实还是没守住这一切。
+[name="黍"]我们……确实还是没守住这一切。
 [charslot(slot="m",name="avg_npc_1243_1#1$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="m",name="avg_npc_1243_1#2$1",focus="m")]
-[name="沉默的樵夫"]......呜......
+[name="沉默的樵夫"]……呜……
 [name="沉默的樵夫"]（模糊不清的呜咽声）
 [Dialog]
 [charslot]
 男人掩面哭了起来。
 [charslot(slot="m",name="avg_2025_shu_1#15$1",focus="m")]
 [name="黍"]会好的，总会有办法的。
-[name="黍"]那场不是天灾的天灾......那些过去......牺牲，死亡，都不会白费。
+[name="黍"]那场不是天灾的天灾……那些过去……牺牲，死亡，都不会白费。
 [charslot(slot="m",name="avg_2025_shu_1#2$1",focus="m")]
 [name="黍"]还记得吗？
 [name="黍"]我们都看见过种子生根发芽。
@@ -241,7 +241,7 @@
 [charslot(slot="m",name="avg_2025_shu_1#8$1",focus="m")]
 [name="黍"]我会照料好他们的。
 [charslot(slot="m",name="avg_2025_shu_1#16$1",focus="m")]
-[name="黍"]但是，你......已经可以......
+[name="黍"]但是，你……已经可以……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_snowfootstep",volume=0.5)]
@@ -249,7 +249,7 @@
 但男人随着风动了动耳朵，张开了原本半闭的、浑浊的眼。
 [Dialog]
 [charslot(slot="m",name="avg_npc_1243_1#1$1",focus="m")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="m",name="avg_npc_1243_1#1$1",focus="n")]
 他看到了一个模糊的身影，扎着两个俏皮的小髻，腰上别着一杆竹笛。
 他嗫嚅着，想说什么，但又沉默下来。他茫然地四处看了看，随即转过身，拎起自己的斧头，走进了青柏中。
@@ -260,7 +260,7 @@
 [charslot(duration=1)]
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_2025_shu_1#3$1",focus="m")]
-[name="黍"]......唉。
+[name="黍"]……唉。
 [charslot(slot="m",name="avg_2025_shu_1#2$1",focus="m")]
 [name="黍"]小满，别藏了，出来吧。
 [Dialog]
@@ -295,7 +295,7 @@
 [charslot(slot="m",name="avg_4121_zuole_1#8$2",focus="m")]
 [name="左乐"]多谢了。
 [charslot(slot="m",name="avg_4119_wanqin_1#9$1",focus="m")]
-[name="禾生"]......今年的收成原本就不如人意，千万千万，夏收不要再出什么乱子了。
+[name="禾生"]……今年的收成原本就不如人意，千万千万，夏收不要再出什么乱子了。
 [Dialog]
 [charslot(slot="m",name="avg_4119_wanqin_1#9$1",focus="m")]
 [delay(time=0.2)]
@@ -304,7 +304,7 @@
 年轻的天师深深弯下腰去，行完一礼后，他将握在手中的稻谷粒放入台上的谷堆中。
 [Dialog]
 [charslot(slot="m",name="avg_4119_wanqin_1#2$1",focus="m")]
-[name="禾生"]今年的谷堆......小了很多啊。
+[name="禾生"]今年的谷堆……小了很多啊。
 [name="禾生"]我记得以往丰年的时候，台上甚至堆不下我们带来的粮食，大家乐呵呵地去找来袋子，装下杂粮码在两边。
 [name="禾生"]热闹起来的话，年纪小的孩子们还会去“爬粮山”玩，大人们也不会拦着，只觉得孩子们爬得又高又快，来年的庄稼也会长得又高又壮。
 [charslot(slot="m",name="avg_4121_zuole_1#10$2",focus="m")]
@@ -323,13 +323,13 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
 [name="禾生"]乡长，您也辛苦了。
 [charslot(slot="m",name="avg_npc_1240_1#10$1",focus="m")]
-[name="老乡长"]......好孩子。
+[name="老乡长"]……好孩子。
 [Dialog]
 [charslot]
 左乐也小心地将谷粒放入面前的谷堆中，学着别人的样子，深深地弯下腰。
 [Dialog]
 [charslot(slot="m",name="avg_4121_zuole_1#9$2",focus="m")]
-[name="左乐"]......保佑大荒城风调雨顺，保佑炎国岁岁平安。
+[name="左乐"]……保佑大荒城风调雨顺，保佑炎国岁岁平安。
 [Dialog]
 [charslot]
 辛辣的酒液滑进喉咙，各色稻谷的香气直冲鼻腔，一瞬间的眩晕冲上头顶。
@@ -345,7 +345,7 @@
 [PlaySound(key="$d_avg_drum", volume=1, loop=false, channel="d2")]
 [delay(time=0.5)]
 二声，春雷惊蛰，陈枝绽芽。
-......
+……
 十二声，瑞雪丰盈，披盖厚土。
 [Dialog]
 职农高高举起手中的鼓槌，落下最后一击——
@@ -400,7 +400,7 @@
 [name="懈怠的土木天师"]不就是监测水位，盯几个数据的事。我就是再喝三瓶，也能一眼看出不对劲的数据——
 [name="懈怠的土木天师"]等等，我是不是真喝多了。你帮我看看，那个泥沙里源石结晶含量是多少？
 [charslot(slot="r",name="avg_npc_1246_1#1$1",focus="r")]
-[name="疲惫的土木天师"]这个数值......
+[name="疲惫的土木天师"]这个数值……
 [name="疲惫的土木天师"]快！关闸——
 [Dialog]
 [charslot]
@@ -434,13 +434,13 @@
 [name="小满"]为什么每年神农祭的时候你都要一个人带着吃的来这河边？你是来看望那个哑巴大叔吗？
 [name="小满"]黍姐姐，那个哑巴大叔到底是谁？他为什么不和大家住在一块？
 [charslot(slot="l",name="avg_2025_shu_1#8$1",focus="l")]
-[name="黍"]......他得了一种病。怕传给别人，就自己一个人搬到这来住了。
+[name="黍"]……他得了一种病。怕传给别人，就自己一个人搬到这来住了。
 [charslot(slot="r",name="avg_4122_grabds_1#7$1",focus="r")]
-[name="小满"]啊......
+[name="小满"]啊……
 [charslot(slot="l",name="avg_2025_shu_1#9$1",focus="l")]
 [name="黍"]小满，他们都怕这个大叔，你不怕？
 [charslot(slot="r",name="avg_4122_grabds_1#8$1",focus="r")]
-[name="小满"]还是有点怕的......
+[name="小满"]还是有点怕的……
 [name="小满"]前几天我在找绵绵的时候还看到他了，他看起来没大家说的那么可怕，他只是拎了把斧子，又凶巴巴的。
 [charslot(slot="r",name="avg_4122_grabds_1#9$1",focus="r")]
 [name="小满"]但我看得出来，大叔人不坏，他凶我的时候，眼神和小禾批评那些没做作业的学生是一样的。
@@ -449,22 +449,22 @@
 [charslot(slot="r",name="avg_4122_grabds_1#9$1",focus="r")]
 [name="小满"]我养牧兽的时候，落单的小兽很容易变得很凶，不亲人。
 [name="小满"]这种时候，我就专门安排他和别的牧兽一起吃饭一起玩，很快他和其他小兽也没什么不同了。
-[name="小满"]我想着，可能有人陪大叔说说话，他也就能开心一点了......他一个人留在这，也怪可怜的。
+[name="小满"]我想着，可能有人陪大叔说说话，他也就能开心一点了……他一个人留在这，也怪可怜的。
 [charslot(slot="r",name="avg_4122_grabds_1#2$1",focus="r")]
 [name="小满"]黍姐姐，大荒城有这么多厉害的天师，都不能治好大叔的病吗？
 [charslot(slot="l",name="avg_2025_shu_1#1$1",focus="l")]
 [name="黍"]可能有一天，可以吧。
 [charslot(slot="r",name="avg_4122_grabds_1#11$1",focus="r")]
-[name="小满"]黍姐姐......大叔的病，和传说里的怪物有关吗......？
+[name="小满"]黍姐姐……大叔的病，和传说里的怪物有关吗……？
 [charslot(slot="l",name="avg_2025_shu_1#18$1",focus="l")]
-[name="黍"]......为什么这么问？
+[name="黍"]……为什么这么问？
 [charslot(slot="r",name="avg_4122_grabds_1#8$1",focus="r")]
 [name="小满"]我有时候会做梦，同一个梦，梦见了好几次。
 [name="小满"]梦里就在这里，这个堤坝，有时候还有这个哑巴大叔，他站在堤坝上。
-[name="小满"]我梦见天气变得很糟很糟，一会旱一会涝，天上飞来好多怪东西，都是从河对岸飘来的......
-[name="小满"]田里的秧苗全都死了，粮仓里的粮也不够了......
+[name="小满"]我梦见天气变得很糟很糟，一会旱一会涝，天上飞来好多怪东西，都是从河对岸飘来的……
+[name="小满"]田里的秧苗全都死了，粮仓里的粮也不够了……
 [charslot(slot="l",name="avg_2025_shu_1#17$1",focus="l")]
-[name="黍"]这件事......你有没有和别人讲过？
+[name="黍"]这件事……你有没有和别人讲过？
 [Dialog]
 [charslot(slot="l",name="avg_2025_shu_1#17$1",focus="n")]
 [PlaySound(key="$d_gen_thunders_amb", volume=0.9)]
@@ -477,7 +477,7 @@
 [charslot(slot="r",name="avg_4122_grabds_1#7$1",focus="r")]
 [name="小满"]怎么回事，好大的雷！
 [charslot(slot="l",name="avg_2025_shu_1#5$1",focus="l")]
-[name="黍"]......
+[name="黍"]……
 [charslot(slot="l",name="avg_2025_shu_1#17$1",focus="l")]
 [name="黍"]小满，跑回去。
 [Dialog]
@@ -491,23 +491,23 @@
 [Blocker(a=0.2, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1250_1#1$1",focus="m")]
-[name="醉酒的职农"]......下雨了？
+[name="醉酒的职农"]……下雨了？
 [charslot(slot="m",name="avg_npc_1249_1#1$1",focus="m")]
-[name="微醺的职农"]下雨......下雨不正常吗？都这个天了......
+[name="微醺的职农"]下雨……下雨不正常吗？都这个天了……
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
-[name="禾生"]......
-[name="禾生"]天色感觉有点不对劲......
+[name="禾生"]……
+[name="禾生"]天色感觉有点不对劲……
 [charslot(slot="m",name="avg_npc_1249_1#1$1",focus="m")]
 [name="微醺的职农"]管他呢！嗝儿——天师都没说什么，又不会有天灾——
 [name="微醺的职农"]就是今天这个日子下雨，实在是扫兴。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
-[name="禾生"]可田里的水，怎么看上去这么浑......
+[name="禾生"]可田里的水，怎么看上去这么浑……
 [Dialog]
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4119_wanqin_1#6$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="禾生"]......不对！
+[name="禾生"]……不对！
 [Dialog]
 [PlaySound(key="$rungeneral", volume=0.9)]
 [charslot(duration=1)]

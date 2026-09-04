@@ -32,7 +32,7 @@
 [Dialog]
 [StopSound(channel="mhrt", fadetime=1)]
 [delay(time=1.5)]
-......等等！
+……等等！
 左乐揉了揉眼，又仔细看向那“心脏”。
 他确信自己没有看错——
 一位少女蜷缩其间，头上有角，身后有尾，两手满是土褐色的纹饰。
@@ -41,7 +41,7 @@
 [stopmusic(fadetime=1)]
 不对，不对，这不是“岁”！
 那眉眼，那角尾！
-这是......这是！
+这是……这是！
 [Dialog]
 [PlaySound(key="$d_avg_drtywndblw", volume=1)]
 [delay(time=1.5)]
@@ -65,16 +65,16 @@
 [charslot(slot="m",name="avg_4121_zuole_1#10$1",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4121_zuole_1#10$1",focus="m")]
-[name="左乐"]呃......嗯？我们已经出来了？
+[name="左乐"]呃……嗯？我们已经出来了？
 [charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
 [name="梁"]今年的仪式已经顺利完成，请收下这把作为信物的尺子，各位可以回去交差了。
 [charslot(slot="m",name="avg_4121_zuole_1#10$1",focus="m")]
-[name="左乐"]多谢......
-[name="左乐"]请问，我们刚才在祠堂里看到的......
+[name="左乐"]多谢……
+[name="左乐"]请问，我们刚才在祠堂里看到的……
 [charslot(slot="m",name="avg_npc_1870_1#1$1",focus="m")]
 [name="梁"]您看到了什么？
 [charslot(slot="m",name="avg_4121_zuole_1#3$1",focus="m")]
-[name="左乐"]我好像......奇怪......说不上来......
+[name="左乐"]我好像……奇怪……说不上来……
 [Dialog]
 [charslot]
 左乐一阵恍惚，先前见到的景象如同梦境，浮光掠影的片段无论如何也无法拼成完整的记忆。
@@ -98,7 +98,7 @@
 [Dialog]
 [charslot(slot = "m",afrom = 0, ato = 1,duration =0)]
 [charslot(slot="m",name="avg_4121_zuole_1#10$1",focus="m")]
-[name="左乐"]......
+[name="左乐"]……
 [Dialog]
 [stopmusic(fadetime=3)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -108,11 +108,11 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-“没想到......还真的让他们找到了她。”
+“没想到……还真的让他们找到了她。”
 访客走远后，易发出一声几不可闻的叹息，玉尺在他的掌心轻敲。
 [Dialog]
 [name="梁"]百年来，他们还是头一批能走进这座祠堂的人。
-[name="易"]这般善缘，难能可贵呀......
+[name="易"]这般善缘，难能可贵呀……
 [name="易"]墨已经找到了，可是若不想办法记下来，也只是空忙活一场。
 [name="易"]梁，把门关上吧。
 [Dialog]

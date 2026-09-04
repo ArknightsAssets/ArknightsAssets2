@@ -22,34 +22,34 @@
 [name="迷迭香小队成员"] 我们其他人还好，虽然现在被困在地下这个建筑里了，但我们找到了通道用门。
 [name="迷迭香小队成员"] 过段时间我们找到其他出口就来和你们汇合。
 [name="迷迭香小队成员"] 我们已经切断了重启功能。你们要过来也可以放心，整片区域都能用来防守了，可以不用担心会被人打个措手不及。
-[name="迷迭香小队成员"] 但是......
-[name="迷迭香小队成员"] 碧银姐，碧银姐她......
+[name="迷迭香小队成员"] 但是……
+[name="迷迭香小队成员"] 碧银姐，碧银姐她……
 [Character(name="avg_npc_042")]
 [name="迷迭香"] 呃！
 [Character]
-[name="迷迭香小队成员"] ......不，不，迷迭香！等等！
-[name="迷迭香小队成员"] 继续任务......不准来找我们！我们出来之前，你签过保证书的！
+[name="迷迭香小队成员"] ……不，不，迷迭香！等等！
+[name="迷迭香小队成员"] 继续任务……不准来找我们！我们出来之前，你签过保证书的！
 [Character(name="avg_npc_042")]
-[name="迷迭香"] 可是......！
+[name="迷迭香"] 可是……！
 [Character]
 [name="迷迭香小队成员"] 既然答应了，就不能反悔！否则我们是不会支持你，也不会跟着你来到切城的。
 [name="迷迭香小队成员"] 还记得我们加入你小队的时候，我们商量了什么吗？
-[name="迷迭香小队成员"] 听着，队长，听我说......我们说过，每个精英干员和他们的小队都不一样。
+[name="迷迭香小队成员"] 听着，队长，听我说……我们说过，每个精英干员和他们的小队都不一样。
 [name="迷迭香小队成员"] 你能做的事情很多，你的法术很强，我们实际上支援不了你什么。
 [name="迷迭香小队成员"] 但是，你没法忍受的那些东西，我们是会和你共同承担的，和阿米娅一样，和其他精英干员一样。
 [Character(name="avg_npc_042")]
 [name="迷迭香"] 但你们都是我的队员！
 [Character]
 [name="迷迭香小队成员"] 别急！
-[name="迷迭香小队成员"] 碧银姐她最后说了，我们答应过你......
+[name="迷迭香小队成员"] 碧银姐她最后说了，我们答应过你……
 [name="迷迭香小队成员"] 要让你成长成一个战士，不是士兵，也不是武器。
 [name="迷迭香小队成员"] 队长，做你该做的。我们会安全出来的。
 [name="迷迭香小队成员"] 听好，队长，这可能很难。但碧银姐就是这么说了。
-[name="迷迭香小队成员"] “你不只是精英干员，你是迷迭香。不光队员们，罗德岛以及感染者，这里讨厌失去和破坏的人......都会爱你。”
+[name="迷迭香小队成员"] “你不只是精英干员，你是迷迭香。不光队员们，罗德岛以及感染者，这里讨厌失去和破坏的人……都会爱你。”
 [name="迷迭香小队成员"] 所以，队长，“想想看，‘迷迭香’会做什么”。
 [name="迷迭香小队成员"] 我们挂断了。替我们向阿米娅问好。
 [Character(name="avg_npc_042")]
-[name="迷迭香"] ......
+[name="迷迭香"] ……
 [name="迷迭香"] 别离开我。要记得回来。
 [Character]
 [name="迷迭香小队成员"] 一定记得。
@@ -57,18 +57,18 @@
 [PlaySound(key="$transmission", volume=1)]
 [delay(time=1)]
 [Character(name="avg_npc_012")]
-[name="罗德岛干员"] ......通讯结束。
+[name="罗德岛干员"] ……通讯结束。
 [Character(name="char_002_amiya_1#4")]
 [name="阿米娅"] 状况怎么样？
 [Character(name="avg_npc_012")]
 [name="罗德岛干员"] 啊，阿米娅。工程小组一人牺牲，其他人暂且还安全。
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"] 迷迭香......我们的正面火力有点不足。游击队的迫击炮小队需要补给。我们要打个时间差。
-[name="阿米娅"] ......你还好吗？
+[name="阿米娅"] 迷迭香……我们的正面火力有点不足。游击队的迫击炮小队需要补给。我们要打个时间差。
+[name="阿米娅"] ……你还好吗？
 [Character(name="avg_npc_042",name2="char_002_amiya_1#7",focus=1)]
-[name="迷迭香"] ......阿米娅，Ace死了以后，你在想什么？
+[name="迷迭香"] ……阿米娅，Ace死了以后，你在想什么？
 [Character(name="avg_npc_042",name2="char_002_amiya_1#4",focus=2)]
-[name="阿米娅"] 啊......！
+[name="阿米娅"] 啊……！
 [Character(name="avg_npc_042",name2="char_002_amiya_1#4",focus=1)]
 [name="迷迭香"] 不想回答也行。我只是很想知道。
 [Character(name="avg_npc_042",name2="char_002_amiya_1#4",focus=2)]
@@ -77,7 +77,7 @@
 [name="迷迭香"] 阿米娅也会想要逃避吗？
 [Character(name="avg_npc_042",name2="char_002_amiya_1#4",focus=2)]
 [name="阿米娅"] 不是，只是还没到重新面对的时候。眼泪要留到一切都结束之后。
-[name="阿米娅"] 我只记得最后，我觉得......我想起来——
+[name="阿米娅"] 我只记得最后，我觉得……我想起来——
 [name="阿米娅"] 不能让他和罗德岛的干员们白白死去。
 [Character(name="avg_npc_042")]
 [name="迷迭香"] 好。
@@ -87,7 +87,7 @@
 [Character(name="avg_npc_042")]
 [name="迷迭香"] 因为我们是他们的敌人？
 [Character(name="char_002_amiya_1#4")]
-[name="阿米娅"] 因为什么都是他们的敌人。有的人在缺少敌人的时候，就会为自己创造敌人......
+[name="阿米娅"] 因为什么都是他们的敌人。有的人在缺少敌人的时候，就会为自己创造敌人……
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -111,13 +111,13 @@
 [name="牧群化萨卡兹战士"] 不要打人，痛苦！到处是痛苦。
 [Character(name="char_003_kalts_1")]
 [name="凯尔希"] 真是令人不快的感染倾向。
-[Decision(options="他们已经不是人了。;......;比起龙门的变异感染者更令人不安。", values="1;2;3")]
+[Decision(options="他们已经不是人了。;……;比起龙门的变异感染者更令人不安。", values="1;2;3")]
 [Predicate(references="1;2;3")]
-[name="凯尔希"] 你如果问我担心不担心迷迭香，阿米娅，以及他们带领的小队......
+[name="凯尔希"] 你如果问我担心不担心迷迭香，阿米娅，以及他们带领的小队……
 [name="凯尔希"] 我只能坦白，担心是没用的。
 [name="凯尔希"] 计划已经制定好了，一切都在被设计好的轨道上运行，这时你挤在别人的轨道上，只会让两辆电车一起脱轨。
 [Character(name="avg_npc_012")]
-[name="罗德岛干员"] 牧群的战士没有前进的趋势......！
+[name="罗德岛干员"] 牧群的战士没有前进的趋势……！
 [Dialog]
 [Decision(options="不要大意！我们的目标是通过，不是歼灭！", values="1")]
 [Predicate(references="1")]
@@ -133,7 +133,7 @@
 [name="凯尔希"] 切尔诺伯格已经身处风暴的中心，在这种情况下，我们微不足道的关心并不能改变战局的任何一个部分。
 [name="凯尔希"] 我们对他们最大的支援，就是成功达成我们小队的战略目标。
 [Predicate(references="1;2;3")]
-[Decision(options="这样就够了？！;......;是不是太没人情味了？", values="1;2;3")]
+[Decision(options="这样就够了？！;……;是不是太没人情味了？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -206,18 +206,18 @@
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
 [name="霍克"] （我知道。）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
-[name="极境"] （......）
+[name="极境"] （……）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
-[name="霍克"] （......）
+[name="霍克"] （……）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
-[name="极境"] （我说......）
+[name="极境"] （我说……）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
 [name="霍克"] （不说了，你是想问这摊东西。）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
 [name="极境"] （这一箱箱的武器和护甲。还有这些摆得整整齐齐的机械。如果这是随手摆在这里的，那我一定也能随手捡到几百万维多利亚铸币。）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
 [name="霍克"] （那些军备，我打赌两百块，就是乌萨斯的。我还在拉瓦勒搞走私的时候见过，这全都是新款的。）
-[name="霍克"] （除了中央军团，其他部队装备这些武器的时间......我猜，打底不超过五年。）
+[name="霍克"] （除了中央军团，其他部队装备这些武器的时间……我猜，打底不超过五年。）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
 [name="极境"] （你觉得，这些武器铠甲什么的，有多大概率只是整合运动抢来的？）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
@@ -233,23 +233,23 @@
 [name="极境"] （你这么一说，我感觉他们有点傻。）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
 [name="霍克"] （傻和不懂是两回事。干后勤不仅要本事，还要知识。游击队也不蠢，只不过要正好碰到几个感染了逃出来的勤务官，这事儿想碰上都难。）
-[name="霍克"] （想赶在乌萨斯处决他们之前救下几个刚刚被感染的勤务官......难上加难。）
-[name="霍克"] （喏......装备编码被刮掉了。你可以说逃兵都喜欢这么干，但也可以说......）
+[name="霍克"] （想赶在乌萨斯处决他们之前救下几个刚刚被感染的勤务官……难上加难。）
+[name="霍克"] （喏……装备编码被刮掉了。你可以说逃兵都喜欢这么干，但也可以说……）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
 [name="极境"] （要掩人耳目也会这么干。）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
 [name="霍克"] （手法也太外行了，这刮痕，我连锉铸码的锉刀是什么型号哪家厂子的都看得出。有些人，哈，只能说是被逼急了。）
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
-[name="极境"] 可现在，最重要的是......
+[name="极境"] 可现在，最重要的是……
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
-[name="霍克"] ......通知他们。现在通知他们，不管有没有用。
+[name="霍克"] ……通知他们。现在通知他们，不管有没有用。
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
 [name="极境"] 希望还来得及。队长，是让Raidian把信息转给阿米娅她们，还是我们直接去和他们说？
 [name="极境"] 我们要从后方牵制住整合运动和这些奇模怪样的家伙？知道了。
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
 [name="霍克"] 等等。
 [name="霍克"] 有不明单位在靠近我们的位置。
-[name="霍克"] Mantra，你去吗？让他们忘记自己在做什么就行，先别给他们伪造命令啊把他们变成白痴啊什么的......
+[name="霍克"] Mantra，你去吗？让他们忘记自己在做什么就行，先别给他们伪造命令啊把他们变成白痴啊什么的……
 [name="霍克"] 你的体力还很宝贵，要是我们真的和整合运动正面冲突了，要靠你化解风险。
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=2)]
 [name="极境"] 唔？嗯。
@@ -257,7 +257,7 @@
 [Character(name="avg_npc_012",name2="char_401_elysm",focus=1)]
 [name="霍克"] 知道了。
 [Character(name="char_401_elysm")]
-[name="极境"] 那就......我就发信了，队长。就这个。
+[name="极境"] 那就……我就发信了，队长。就这个。
 [name="极境"] “乌萨斯军在核心城。”
 [Dialog]
 [Blocker(fadetime=3,block=true)]

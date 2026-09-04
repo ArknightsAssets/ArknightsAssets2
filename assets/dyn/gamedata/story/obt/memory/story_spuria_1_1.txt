@@ -30,7 +30,7 @@
 [charslot(slot = "r", name = "avg_npc_925_1#9$1",focus="r")]
 [name="蕾缪安"]我还以为你见到我的时候会更开心一些哦？
 [charslot(slot = "l", name = "avg_4015_spuria_1#6$1",focus="l")]
-[name="斯普莉雅"]不，只是觉得......这里离城区还挺远的。
+[name="斯普莉雅"]不，只是觉得……这里离城区还挺远的。
 [charslot(slot = "r", name = "avg_npc_925_1#9$1",focus="r")]
 [name="蕾缪安"]没办法，毕竟是教过我们的老师的葬礼，菲亚梅塔和莫斯提马又不在拉特兰，只好我代她们来啦。
 [charslot(slot = "r", name = "avg_npc_925_1#1$1",focus="r")]
@@ -44,7 +44,7 @@
 [charslot(slot = "r", name = "avg_npc_925_1#9$1",focus="r")]
 [name="蕾缪安"]可是啊，莉雅，我不是你的老师，并不能给你的作品打分哦。
 [charslot(slot = "l", name = "avg_4015_spuria_1#6$1",focus="l")]
-[name="斯普莉雅"]......唉，真希望我们不是都有光环。
+[name="斯普莉雅"]……唉，真希望我们不是都有光环。
 [name="斯普莉雅"]虽然那样也很难逃过学姐的眼睛就是了。
 [Dialog]
 [charslot]
@@ -62,11 +62,11 @@
 [charslot(slot="m",name="avg_npc_366_1#1$1",focus="m")]
 [name="热情的拉特兰人"]是啊，老师是这两年才离开学校安心养老的，毕竟他是真的很喜欢研究爆炸物嘛。
 [name="热情的拉特兰人"]而且学校离他最喜欢的甜品店也比较近，还没有人管着他。
-[name="热情的拉特兰人"]......老师在遗嘱里说自己已经了无遗憾，但我还是会想到，他再也吃不到季节限定新品仙人掌挞了。
+[name="热情的拉特兰人"]……老师在遗嘱里说自己已经了无遗憾，但我还是会想到，他再也吃不到季节限定新品仙人掌挞了。
 [charslot(slot = "m", name = "avg_4015_spuria_1#12$1",focus="m")]
 [name="斯普莉雅"]哎呀，我闻到伤感的气息了。
 [charslot(slot="m",name="avg_npc_366_1#1$1",focus="m")]
-[name="热情的拉特兰人"]哈哈，不好意思......老师终于回归崇高圣灵的时刻，我怎么能想仙人掌挞的事情呢？
+[name="热情的拉特兰人"]哈哈，不好意思……老师终于回归崇高圣灵的时刻，我怎么能想仙人掌挞的事情呢？
 [name="热情的拉特兰人"]该把保险栓拉开了！
 [Dialog]
 [PlaySound(key="$d_avg_gunload", volume=1)]
@@ -85,7 +85,7 @@
 [charslot(duration=1)]
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_4015_spuria_1#10$1",focus="m")]
-[name="斯普莉雅"]啊，那我也去维持秩序......
+[name="斯普莉雅"]啊，那我也去维持秩序……
 [charslot(slot = "m", name = "avg_npc_925_1#9$1",focus="m")]
 [name="蕾缪安"]怎么了，莉雅，不再聊一会儿吗？
 [name="蕾缪安"]我听说我住院的时候，你可是坚持不懈地向小乐打听了一年多，才要到我的病房号呢。
@@ -95,7 +95,7 @@
 [name="蕾缪安"]我也只是想关心一下你嘛。毕竟准确来说，我现在已经不能算你的“学姐”了哦。
 [name="蕾缪安"]在我睡觉的时间里，你应该看到了很多东西，经历了很多事情才对。
 [charslot(slot = "m", name = "avg_4015_spuria_1#6$1",focus="m")]
-[name="斯普莉雅"]......
+[name="斯普莉雅"]……
 [charslot(slot = "m", name = "avg_npc_925_1#9$1",focus="m")]
 [name="蕾缪安"]莉雅，你有推开门去看看吗？有让技术更好地为人所用吗？
 [charslot(slot = "m", name = "avg_4015_spuria_1#1$1",focus="m")]
@@ -103,7 +103,7 @@
 [Dialog]
 [Delay(time=0.5)]
 [charslot(slot = "m", name = "avg_4015_spuria_1#12$1",focus="m")]
-[name="斯普莉雅"]......也许吧。
+[name="斯普莉雅"]……也许吧。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -122,12 +122,12 @@
 [Dialog]
 [PlaySound(key="$transmission",volume=0.6)]
 [Delay(time=1)]
-[name="斯普莉雅"]呼......
+[name="斯普莉雅"]呼……
 [name="斯普莉雅"]熟悉的源石火药味，熟悉的爆破实验声。
 [name="斯普莉雅"]简直就和以前逃课跑来这里的时候一模一样。
-[name="斯普莉雅"]......那座修道院里发生过的事情，在这里回想起来，总觉得很不真实。
-[name="斯普莉雅"]难怪那些历史学得好的家伙喜欢把“长存的乐园”挂在嘴边......
-[name="斯普莉雅"]......真可怕啊。
+[name="斯普莉雅"]……那座修道院里发生过的事情，在这里回想起来，总觉得很不真实。
+[name="斯普莉雅"]难怪那些历史学得好的家伙喜欢把“长存的乐园”挂在嘴边……
+[name="斯普莉雅"]……真可怕啊。
 [Dialog]
 [PlaySound(key="$doorknockquite",volume=1)]
 [Delay(time=1.5)]
@@ -136,10 +136,10 @@
 [charslot(slot = "m", name = "avg_4015_spuria_1#12$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_4015_spuria_1#12$1",focus="m")]
-[name="斯普莉雅"]欸，人不在吗？门上明明挂着“欢迎光临”的牌子......
+[name="斯普莉雅"]欸，人不在吗？门上明明挂着“欢迎光临”的牌子……
 [musicvolume(volume=0.3, fadetime=1)]
 [charslot(slot = "m", name = "avg_4015_spuria_1#3$1",focus="m")]
-[name="斯普莉雅"]......
+[name="斯普莉雅"]……
 [Dialog]
 [PlaySound(key="$p_atk_elecball_n", volume=1)]
 [CameraShake(duration=1, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -174,7 +174,7 @@
 [charslot(slot = "l", name = "avg_npc_1253_1#1$1",focus="l")]
 [name="铳械维修师"]喔，一把老古董。
 [charslot(slot = "r", name = "avg_4015_spuria_1#9$1",focus="r")]
-[multiline(name="斯普莉雅")]铳的持有者......
+[multiline(name="斯普莉雅")]铳的持有者……
 [charslot(slot = "r", name = "avg_4015_spuria_1#12$1",focus="r")]
 [multiline(name="斯普莉雅")]不是萨科塔。
 [name="斯普莉雅"]她想要用铳，结果却造成了走火的情况。
@@ -204,7 +204,7 @@
 [charslot(slot = "l", name = "avg_npc_1253_1#1$1",focus="l")]
 [name="铳械维修师"]我早就说啦，当一个工匠更适合你。是不是又惹事了？
 [charslot(slot = "r", name = "avg_4015_spuria_1#10$1",focus="r")]
-[name="斯普莉雅"]......算是吧。
+[name="斯普莉雅"]……算是吧。
 [charslot(slot = "r", name = "avg_4015_spuria_1#6$1",focus="r")]
 [name="斯普莉雅"]真是的，我还以为自己在城区办事处这几年遇到的麻烦事已经够多了。
 [name="斯普莉雅"]结果，我还是没当成一个好工匠。
@@ -237,14 +237,14 @@
 [name="萨科塔顾客"]所以，我希望能将这把铳改成她想要的样子，作为她的出院礼物。
 [name="萨科塔顾客"]——啊，您不用担心，铳虽然走火了，但我的女儿和丈夫都没事。
 [charslot(slot = "m", name = "avg_4015_spuria_1#10$1",focus="m")]
-[name="斯普莉雅"]那就好......你们还是挺幸运的。
+[name="斯普莉雅"]那就好……你们还是挺幸运的。
 [charslot(slot = "m", name = "avg_4015_spuria_1#6$1",focus="m")]
 [name="斯普莉雅"]拜托，阿玛丽大师，您怎么没有提前告诉我这个客人想要什么？
 [charslot(slot = "m", name = "avg_npc_1253_1#1$1",focus="m")]
 [name="铳械维修师"]哈哈，你不是也没有告诉我吗？
 [name="铳械维修师"]一个人如果不是萨科塔，为什么一定要用铳？这不是很奇怪吗？
 [charslot(slot = "m", name = "avg_4015_spuria_1#9$1",focus="m")]
-[name="斯普莉雅"]......
+[name="斯普莉雅"]……
 [charslot(slot = "m", name = "avg_4015_spuria_1#1$1",focus="m")]
 [name="斯普莉雅"]您说得对。
 [name="斯普莉雅"]看来，我该去直接问问她了。
@@ -261,12 +261,12 @@
 [charslot(slot = "m", name = "avg_npc_927_1#10$2",duration=0.7)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_927_1#10$2",focus="m")]
-[name="福尔图娜"]呼......天真冷啊，我们必须快点把这块挡风板钉好。
+[name="福尔图娜"]呼……天真冷啊，我们必须快点把这块挡风板钉好。
 [name="福尔图娜"]帕克，可以来搭把手吗？
 [charslot(slot = "m", name = "avg_npc_927_1#4$2",focus="m")]
 [name="福尔图娜"]帕克？
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",focus="m")]
-[name="帕克"]......
+[name="帕克"]……
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_927_1#4$2",focus="r")]
@@ -275,14 +275,14 @@
 [charslot(slot="r",name="avg_npc_931_1#11$1",focus="r")]
 [name="莱蒙德"]别跟他浪费时间了。
 [charslot(slot = "l", name = "avg_npc_927_1#4$2",focus="l")]
-[name="福尔图娜"]......因为是我在叫他，所以他不会答应？
+[name="福尔图娜"]……因为是我在叫他，所以他不会答应？
 [charslot(slot="r",name="avg_npc_931_1#11$1",focus="r")]
 [name="莱蒙德"]现在谁这么叫他，他都不答应，就因为这个名字是你提议的。
 [name="莱蒙德"]明天打猎的时候，我会给他点教训的。
 [charslot(slot = "l", name = "avg_npc_927_1#5$2",focus="l")]
-[name="福尔图娜"]这样不好，莱蒙德，我不想再跟人吵架了，更不希望用上武力......
+[name="福尔图娜"]这样不好，莱蒙德，我不想再跟人吵架了，更不希望用上武力……
 [charslot(slot="r",name="avg_npc_931_1#11$1",focus="r")]
-[name="莱蒙德"]我知道......但前提是，他能好好地跟人说话，而不是这么一声不吭地瞪着你。
+[name="莱蒙德"]我知道……但前提是，他能好好地跟人说话，而不是这么一声不吭地瞪着你。
 [charslot(slot="r",name="avg_npc_931_1#7$1",focus="r")]
 [name="莱蒙德"]他到底有没有搞清楚，是你救了他！
 [Dialog]
@@ -293,23 +293,23 @@
 [name="莱蒙德"]——咳，晚上好，斯普莉雅。
 [name="莱蒙德"]我们收到你的信了，但其实你不用提前通知，我们实在没什么可以准备的。
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]抱歉，之前说好的青草格子饼，我也做不出来......
+[name="福尔图娜"]抱歉，之前说好的青草格子饼，我也做不出来……
 [charslot(slot = "m", name = "avg_4015_spuria_1#1$1",focus="m")]
 [name="斯普莉雅"]正巧，我匿名联系了一支商队，他们很快就会绕路到这里来跟你们做生意。
 [charslot(slot = "m", name = "avg_npc_927_1#3$2",focus="m")]
 [multiline(name="福尔图娜")]商队？！
 [charslot(slot = "m", name = "avg_npc_927_1#9$2",focus="m")]
-[multiline(name="福尔图娜")]太好了，斯普莉雅......这下我们能在冬天里多坚持一段时间了！
+[multiline(name="福尔图娜")]太好了，斯普莉雅……这下我们能在冬天里多坚持一段时间了！
 [charslot(slot="m",name="avg_npc_931_1#9$1",focus="m")]
-[name="莱蒙德"]......嗯，确实是救命的物资，谢谢。
+[name="莱蒙德"]……嗯，确实是救命的物资，谢谢。
 [name="莱蒙德"]福尔图娜，到时候你躲好，我来交易。
 [charslot(slot = "m", name = "avg_npc_927_1#8$2",focus="m")]
 [name="福尔图娜"]见商队的时候戴好兜帽，还有，别被骗了。
 [charslot(slot="m",name="avg_npc_931_1#10$1",focus="m")]
-[name="莱蒙德"]呃......我知道！
+[name="莱蒙德"]呃……我知道！
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]对了，斯普莉雅......还有一件事我必须向你道歉。
-[name="福尔图娜"]你说过我的样子不能让太多人看到，尤其是其他萨卡兹，但是......
+[name="福尔图娜"]对了，斯普莉雅……还有一件事我必须向你道歉。
+[name="福尔图娜"]你说过我的样子不能让太多人看到，尤其是其他萨卡兹，但是……
 [charslot(slot = "m", name = "avg_4015_spuria_1#1$1",focus="m")]
 [name="斯普莉雅"]别担心，我们先进屋，你再慢慢交代。说不好我不会生气哦？
 [Dialog]
@@ -326,13 +326,13 @@
 [name="斯普莉雅"]所以，那个年轻萨卡兹就是你们新收留的成员。
 [name="斯普莉雅"]唉，按照教皇厅给我的守则，这算是违反律法的行为吧？
 [charslot(slot = "r", name = "avg_npc_927_1#5$2",focus="r")]
-[name="福尔图娜"]对、对不起......
+[name="福尔图娜"]对、对不起……
 [charslot(slot = "l", name = "avg_4015_spuria_1#12$1",focus="l")]
 [name="斯普莉雅"]不过，毕竟他是受了伤被你们救回来的，教宗那么和蔼的老爷爷应该能理解吧。
-[name="斯普莉雅"]而且，你说他原本跟着一支队伍去卡兹戴尔，但是因为受伤掉队了，那支队伍里的人也不会再接纳他......
+[name="斯普莉雅"]而且，你说他原本跟着一支队伍去卡兹戴尔，但是因为受伤掉队了，那支队伍里的人也不会再接纳他……
 [name="斯普莉雅"]那看来他只能定居在这里了。
 [charslot(slot = "r", name = "avg_npc_927_1#5$2",focus="r")]
-[name="福尔图娜"]是的，我希望他留下来......
+[name="福尔图娜"]是的，我希望他留下来……
 [charslot(slot = "l", name = "avg_4015_spuria_1#12$1",focus="l")]
 [name="斯普莉雅"]只要他不到处乱跑，这里有堕天使的消息就不会散播出去。
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
@@ -340,49 +340,49 @@
 [charslot(slot = "r", name = "avg_npc_927_1#8$2",focus="r")]
 [name="福尔图娜"]真的？太好了！
 [charslot(slot = "r", name = "avg_npc_927_1#4$2",focus="r")]
-[name="福尔图娜"]可......这样没问题吗？
+[name="福尔图娜"]可……这样没问题吗？
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
 [name="斯普莉雅"]说不定会有哦，所以下次别再犯了，好吗？
 [name="斯普莉雅"]或者，你一直戴好兜帽，永远不拿出你的铳，这样也可以。
 [charslot(slot = "r", name = "avg_npc_927_1#10$2",focus="r")]
-[name="福尔图娜"]好......我会试着去做的。
+[name="福尔图娜"]好……我会试着去做的。
 [name="福尔图娜"]我已经在学着用手弩了，最近几次狩猎，我也跟着去了。
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
 [name="斯普莉雅"]怎么样？
 [charslot(slot = "r", name = "avg_npc_927_1#5$2",focus="r")]
-[name="福尔图娜"]很难......啊，我不是说使用手弩很难，而是要维持生活很难。
-[name="福尔图娜"]过去在修道院里，我总是相信，虔诚祈祷之人自然会领到他的圣餐......
+[name="福尔图娜"]很难……啊，我不是说使用手弩很难，而是要维持生活很难。
+[name="福尔图娜"]过去在修道院里，我总是相信，虔诚祈祷之人自然会领到他的圣餐……
 [name="福尔图娜"]现在我仍然会和苏拉尔还有其他几个人一起祈祷，但我们都知道事情变得不一样了。
 [charslot(slot = "l", name = "avg_4015_spuria_1#12$1",focus="l")]
 [name="斯普莉雅"]嘘——
 [charslot(slot = "r", name = "avg_npc_927_1#4$2",focus="r")]
 [name="福尔图娜"]怎么了？
 [charslot(slot = "l", name = "avg_4015_spuria_1#12$1",focus="l")]
-[name="斯普莉雅"]......
+[name="斯普莉雅"]……
 [charslot(slot = "l", name = "avg_4015_spuria_1#12$1",focus="l")]
 [name="斯普莉雅"]没事，只是提醒一下你，记得你的身份，不要说出相关的概念。
 [charslot(slot = "r", name = "avg_npc_927_1#1$2",focus="r")]
-[name="福尔图娜"]......嗯，我记得。
+[name="福尔图娜"]……嗯，我记得。
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
 [name="斯普莉雅"]所以，你受到的影响大吗？
-[name="斯普莉雅"]虽然失去了共感能力，但你身边本来也没有别的萨科塔......
+[name="斯普莉雅"]虽然失去了共感能力，但你身边本来也没有别的萨科塔……
 [charslot(slot = "r", name = "avg_npc_927_1#5$2",focus="r")]
 [name="福尔图娜"]可是，我越来越清晰地感觉到自己失去了什么。
-[name="福尔图娜"]我好像一直在走夜路。盲目，感觉不到其他人......孤独。
+[name="福尔图娜"]我好像一直在走夜路。盲目，感觉不到其他人……孤独。
 [name="福尔图娜"]而且我知道，这片黑暗我永远也走不出去了，对吗？
 [charslot(slot = "r", name = "avg_npc_927_1#10$2",focus="r")]
-[name="福尔图娜"]......啊，抱歉，这些应该不是写报告需要的内容。
+[name="福尔图娜"]……啊，抱歉，这些应该不是写报告需要的内容。
 [charslot(slot = "l", name = "avg_4015_spuria_1#7$1",focus="l")]
 [name="斯普莉雅"]没关系，我还是挺乐意听的哦。
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
 [name="斯普莉雅"]你看，你的这把铳我还没改造完呢。
 [name="斯普莉雅"]福尔图娜，你想要拿这把铳做什么？
 [charslot(slot = "r", name = "avg_npc_927_1#3$2",focus="r")]
-[name="福尔图娜"]......
+[name="福尔图娜"]……
 [charslot(slot = "r", name = "avg_npc_927_1#5$2",focus="r")]
 [name="福尔图娜"]我还是很害怕它。
 [name="福尔图娜"]可是我必须握住它，我不能就这么放下菲娜的事情。
-[name="福尔图娜"]所以......
+[name="福尔图娜"]所以……
 [charslot(slot = "l", name = "avg_4015_spuria_1#9$1",focus="l")]
 [name="斯普莉雅"]唉。
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
@@ -410,21 +410,21 @@
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",duration=1)]
 [Delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",focus="m")]
-[name="帕克"]......
+[name="帕克"]……
 [charslot(slot = "m", name = "avg_npc_927_1#1$2",focus="m")]
-[name="福尔图娜"]......我们绝对没有想伤害你的意思，帕克。
+[name="福尔图娜"]……我们绝对没有想伤害你的意思，帕克。
 [charslot(slot = "m", name = "avg_4015_spuria_1#1$1",focus="m")]
 [name="斯普莉雅"]没关系，我们继续说你的事吧。只要把事情说清楚，没有共感的人也能互相理解吧？
 [name="斯普莉雅"]我还要改你的铳呢。
 [charslot(slot = "m", name = "avg_npc_927_1#1$2",focus="m")]
-[name="福尔图娜"]好......
+[name="福尔图娜"]好……
 [charslot(slot = "m", name = "avg_npc_927_1#10$2",focus="m")]
-[name="福尔图娜"]......我想战胜自己的恐惧，找回一些安心的感觉，就像以前我握住铳的时候得到的回应那样。
+[name="福尔图娜"]……我想战胜自己的恐惧，找回一些安心的感觉，就像以前我握住铳的时候得到的回应那样。
 [name="福尔图娜"]而且来到这里之后，我总是想，要是能把那种感觉分享给其他人就好了。
-[name="福尔图娜"]因为......以前主教爷爷总是能安慰每一个去找他的人。
+[name="福尔图娜"]因为……以前主教爷爷总是能安慰每一个去找他的人。
 [name="福尔图娜"]可是我们已经离开他了。
 [charslot(slot = "m", name = "avg_npc_927_1#4$2",focus="m")]
-[name="福尔图娜"]......你竟然开始动手改了。我这样的想法，不会很无理取闹吗？
+[name="福尔图娜"]……你竟然开始动手改了。我这样的想法，不会很无理取闹吗？
 [charslot(slot = "m", name = "avg_4015_spuria_1#7$1",focus="m")]
 [name="斯普莉雅"]我可没说我会照着你的愿望来改哦。
 [name="斯普莉雅"]不过，我确实有了一些灵感。等我改好，可别忘了感谢我。
@@ -441,13 +441,13 @@
 [charslot(slot = "m", name = "avg_4015_spuria_1#9$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_4015_spuria_1#9$1",focus="m")]
-[name="斯普莉雅"]呼......
+[name="斯普莉雅"]呼……
 [charslot(slot = "m", name = "avg_4015_spuria_1#6$1",focus="m")]
 [name="斯普莉雅"]欸，现在几点钟了？昨晚我又是几点钟才改好那把铳的？
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_knockdoorfast", volume=0.5)]
-[name="福尔图娜"]斯普莉雅，斯普莉雅......！
+[name="福尔图娜"]斯普莉雅，斯普莉雅……！
 [Dialog]
 [PlaySound(key="$dooropenquite", volume=1)]
 [PlaySound(key="$d_avg_runstop", volume=1,delay=0.6)]
@@ -456,11 +456,11 @@
 [Delay(time=0.7)]
 [PlayMusic(key="$darkness_03_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]对不起......对不起！
+[name="福尔图娜"]对不起……对不起！
 [charslot(slot = "m", name = "avg_4015_spuria_1#6$1",focus="m")]
 [name="斯普莉雅"]怎么了？
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]铳......不见了。
+[name="福尔图娜"]铳……不见了。
 [name="福尔图娜"]还有，帕克也不见了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -473,28 +473,28 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot = "r", name = "avg_npc_931_1#7$1",focus="r")]
-[name="莱蒙德"]昨晚放哨的人都没看见他......该死的，那家伙清楚大家换岗的习惯，我们也没想过要防自己人。
+[name="莱蒙德"]昨晚放哨的人都没看见他……该死的，那家伙清楚大家换岗的习惯，我们也没想过要防自己人。
 [charslot(slot = "r", name = "avg_npc_931_1#11$1",focus="r")]
-[name="莱蒙德"]抱歉，斯普莉雅，我们一定把他抓回来，已经有一队人准备出发了......
+[name="莱蒙德"]抱歉，斯普莉雅，我们一定把他抓回来，已经有一队人准备出发了……
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
 [name="斯普莉雅"]别这么着急嘛。
 [name="斯普莉雅"]那可是我改造的武器，它去了哪里，我还是心里有数的。
 [charslot(slot = "r", name = "avg_npc_931_1#10$1",focus="r")]
-[name="莱蒙德"]......你从一开始就提防他了？
+[name="莱蒙德"]……你从一开始就提防他了？
 [charslot(slot = "l", name = "avg_4015_spuria_1#7$1",focus="l")]
 [name="斯普莉雅"]你可以猜猜我有没有提防小福尔图娜跑掉。
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
 [name="斯普莉雅"]——开玩笑的，总之，你们不用这么紧张，放轻松一点。
 [name="斯普莉雅"]我和福尔图娜两个人去追他就够了。
 [charslot(slot = "r", name = "avg_npc_931_1#1$1",focus="r")]
-[name="莱蒙德"]......好。
+[name="莱蒙德"]……好。
 [charslot(slot = "r", name = "avg_npc_931_1#11$1",focus="r")]
-[name="莱蒙德"]对了，还有一件事......
+[name="莱蒙德"]对了，还有一件事……
 [charslot(slot = "l", name = "avg_4015_spuria_1#1$1",focus="l")]
 [name="斯普莉雅"]喔，虽然对外派人员的资材消耗统计很宽松，但监管堕天使的任务里用掉的子弹还是要上报，所以我会宽容一些的。
 [name="斯普莉雅"]你是想听到这句话吗？
 [charslot(slot = "r", name = "avg_npc_931_1#9$1",focus="r")]
-[name="莱蒙德"]......嗯，多谢。
+[name="莱蒙德"]……嗯，多谢。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -508,18 +508,18 @@
 [charslot(slot = "m", name = "avg_npc_927_1#3$2",focus="m")]
 [name="福尔图娜"]这里有血迹。
 [charslot(slot = "m", name = "avg_npc_927_1#4$2",focus="m")]
-[name="福尔图娜"]斯普莉雅......真的是这个方向吗？
+[name="福尔图娜"]斯普莉雅……真的是这个方向吗？
 [charslot(slot = "m", name = "avg_4015_spuria_1#1$1",focus="m")]
 [name="斯普莉雅"]至少你的铳一定在这里。
 [charslot(slot = "m", name = "avg_npc_927_1#4$2",focus="m")]
-[name="福尔图娜"]......你说你已经把铳改好了，即使是我也能用，那帕克是不是也可以？
+[name="福尔图娜"]……你说你已经把铳改好了，即使是我也能用，那帕克是不是也可以？
 [charslot(slot = "m", name = "avg_4015_spuria_1#1$1",focus="m")]
 [name="斯普莉雅"]我倒是很希望他会试试。
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]......那......这是谁的血？
+[name="福尔图娜"]……那……这是谁的血？
 [Dialog]
 [charslot]
-[name="？？？"]嘶......哈，哈哈哈。
+[name="？？？"]嘶……哈，哈哈哈。
 [Dialog]
 [PlaySound(key="$d_avg_crwlstps", volume=1,loop="false", channel="pk")]
 [stopsound(fadetime=2, channel="pk")]
@@ -529,46 +529,46 @@
 [CameraShake(duration=0.3, xstrength=20,ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="帕克"]这不就是你们想看的吗，该死的萨科塔！这是我的血！
 [charslot(slot = "m", name = "avg_4015_spuria_1#8$1",focus="m")]
-[name="斯普莉雅"]情况糟糕啊......
+[name="斯普莉雅"]情况糟糕啊……
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]帕克......！这、这是......
+[name="福尔图娜"]帕克……！这、这是……
 [charslot(slot = "m", name = "avg_4015_spuria_1#8$1",focus="m")]
-[name="斯普莉雅"]......是被野兽撕裂的伤口。
+[name="斯普莉雅"]……是被野兽撕裂的伤口。
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]主啊......
+[name="福尔图娜"]主啊……
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",focus="m")]
-[name="帕克"]闭嘴......给我滚开！
+[name="帕克"]闭嘴……给我滚开！
 [CameraShake(duration=0.3, xstrength=20,ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="帕克"]死在牙兽嘴里，也好过死在你们的圈套里！
 [charslot(slot = "m", name = "avg_npc_927_1#3$2",focus="m")]
 [name="福尔图娜"]圈套？怎么会！
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]你明明听到我们在聊什么了......我们不想伤害任何人！
+[name="福尔图娜"]你明明听到我们在聊什么了……我们不想伤害任何人！
 [name="福尔图娜"]斯普莉雅还帮大家弄到了过冬的物资！
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",focus="m")]
 [name="帕克"]没错，你们就是用这种方式骗其他萨卡兹留下来的。
 [name="帕克"]他们为什么不回家？除了卡兹戴尔，萨卡兹怎么可能有别的家？
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]卡兹戴尔......究竟是什么地方？莱蒙德从来没有告诉我......
+[name="福尔图娜"]卡兹戴尔……究竟是什么地方？莱蒙德从来没有告诉我……
 [charslot(slot = "m", name = "avg_4015_spuria_1#6$1",focus="m")]
-[name="斯普莉雅"]......福尔图娜。
+[name="斯普莉雅"]……福尔图娜。
 [name="斯普莉雅"]没有去过安布罗修修道院的人，恐怕是很难理解你们的生活方式的。
 [charslot(slot = "m", name = "avg_npc_927_1#4$2",focus="m")]
-[name="福尔图娜"]可是......不去想那么多，只是住在这里，有一个安稳过冬的屋檐，不好吗？
+[name="福尔图娜"]可是……不去想那么多，只是住在这里，有一个安稳过冬的屋檐，不好吗？
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",focus="m")]
-[name="帕克"]不去想那么多？咳、咳咳......你骗不了我。
-[name="帕克"]你们这帮顶着光环的混蛋，一辈子都在骗人，一辈子都在装圣人......
-[name="帕克"]你们不可能不恨萨卡兹，你们只是在等一个好机会......
-[name="帕克"]呼......一对萨卡兹的角，值多少钱？
+[name="帕克"]不去想那么多？咳、咳咳……你骗不了我。
+[name="帕克"]你们这帮顶着光环的混蛋，一辈子都在骗人，一辈子都在装圣人……
+[name="帕克"]你们不可能不恨萨卡兹，你们只是在等一个好机会……
+[name="帕克"]呼……一对萨卡兹的角，值多少钱？
 [charslot(slot = "m", name = "avg_npc_927_1#5$2",focus="m")]
-[name="福尔图娜"]我......我不知道！我真的不知道！
+[name="福尔图娜"]我……我不知道！我真的不知道！
 [charslot(slot = "m", name = "avg_4015_spuria_1#8$1",focus="m")]
-[name="斯普莉雅"]......看来，你偷走福尔图娜的铳，是出于类似的原因。
+[name="斯普莉雅"]……看来，你偷走福尔图娜的铳，是出于类似的原因。
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",focus="m")]
-[name="帕克"]哼......
-[name="帕克"]早知道我会死，我就该先把你们的头割下来......
+[name="帕克"]哼……
+[name="帕克"]早知道我会死，我就该先把你们的头割下来……
 [charslot(slot = "m", name = "avg_4015_spuria_1#12$1",focus="m")]
-[name="斯普莉雅"]......先把它还回来吧。
+[name="斯普莉雅"]……先把它还回来吧。
 [Dialog]
 [charslot(slot="m",name="avg_npc_932_1#1$1",focus="all")]
 [Delay(time=0.2)]
@@ -590,15 +590,15 @@
 [charslot(slot="r",posfrom="60,0",posto="150,0",afrom=1,ato=0,duration=0.8)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_932_1#1$1",focus="m")]
-[name="帕克"]不......别拿走它！
-[name="帕克"]一把萨科塔的铳，足够我回到队伍......被尊重......
+[name="帕克"]不……别拿走它！
+[name="帕克"]一把萨科塔的铳，足够我回到队伍……被尊重……
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [charslot(duration=1)]
 [Delay(time=1.5)]
 [charslot(slot = "m", name = "avg_4015_spuria_1#2$1",focus="m")]
-[name="斯普莉雅"]......
-[name="斯普莉雅"]可是这把“铳”我已经改造过了，它根本就......
+[name="斯普莉雅"]……
+[name="斯普莉雅"]可是这把“铳”我已经改造过了，它根本就……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -617,7 +617,7 @@
 [delay(time=1)]
 “但是，莉雅，你有试过握住它祈祷吗？”
 “或者说，你能想象是什么人，在什么情形下曾握住它祈祷吗？”
-“那时圣城尚未建起，世上还没有乐园......很难想象吧？”
+“那时圣城尚未建起，世上还没有乐园……很难想象吧？”
 “可是如果不去理解那样的时代，你要怎么研究他们的遗产呢？”
 [stopmusic(fadetime=1.5)]
 [Dialog]
@@ -631,9 +631,9 @@
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_927_1#3$2",focus="m")]
 [name="福尔图娜"]——！
-[name="福尔图娜"]斯普莉雅，你怎么......突然开火？
+[name="福尔图娜"]斯普莉雅，你怎么……突然开火？
 [charslot(slot = "m", name = "avg_4015_spuria_1#9$1",focus="m")]
-[name="斯普莉雅"]......
+[name="斯普莉雅"]……
 [Dialog]
 [charslot]
 斯普莉雅维持着将自己的铳指向洞口空旷处的姿势，又一次扣动扳机。
@@ -646,11 +646,11 @@
 [Delay(time=1)]
 [playMusic(key="$saferoom_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_4015_spuria_1#7$1",focus="m")]
-[name="斯普莉雅"]别紧张嘛，只是......拉特兰人就是这样办葬礼的。
+[name="斯普莉雅"]别紧张嘛，只是……拉特兰人就是这样办葬礼的。
 [name="斯普莉雅"]死亡的沉重也好，别离的痛苦也好，遗憾和愤怒也好。
 [name="斯普莉雅"]全都能被热闹的爆炸声冲淡。
 [charslot(slot = "m", name = "avg_npc_927_1#3$2",focus="m")]
-[name="福尔图娜"]......
+[name="福尔图娜"]……
 [Dialog]
 [charslot]
 没有第二名萨科塔的铳声，没有连环爆炸，没有尖叫和大笑。
@@ -660,11 +660,11 @@
 [name="斯普莉雅"]我可以保证，它现在绝对安全。
 [name="斯普莉雅"]还是害怕的话，你可以闭上眼睛。我会帮你看着的。
 [charslot(slot = "m", name = "avg_4015_spuria_1#11$1",focus="m")]
-[name="斯普莉雅"]......我应该看着，然后记住。
+[name="斯普莉雅"]……我应该看着，然后记住。
 [charslot(slot = "m", name = "avg_npc_927_1#4$2",focus="m")]
-[name="福尔图娜"]好......
+[name="福尔图娜"]好……
 [charslot(slot = "m", name = "avg_4015_spuria_1#11$1",focus="m")]
-[name="斯普莉雅"]嗯，闭上眼睛。手臂朝着这个方向......
+[name="斯普莉雅"]嗯，闭上眼睛。手臂朝着这个方向……
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_927_1#2$2",focus="m")]
 [Delay(time=0.5)]
@@ -678,7 +678,7 @@
 [Blocker(a=0, r=255,g=255, b=255, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_927_1#3$2",focus="m")]
-[name="福尔图娜"]这是......
+[name="福尔图娜"]这是……
 [charslot(slot = "m", name = "avg_4015_spuria_1#12$1",focus="m")]
 [name="斯普莉雅"]是啊，这把“铳”已经当不了战利品了。
 [name="斯普莉雅"]它已经不是铳了。

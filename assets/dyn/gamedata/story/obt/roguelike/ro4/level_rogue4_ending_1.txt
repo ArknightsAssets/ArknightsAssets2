@@ -30,30 +30,30 @@
 [charslot]
 [charslot(slot = "m", name = "avg_npc_869_1#9$1",duration=1)]
 [delay(time=2)]
-[name="埃芒加德"]老师我在这里......
+[name="埃芒加德"]老师我在这里……
 [dialog]
 [charslot]
 [charslot(slot = "r", name = "avg_npc_869_1#9$1",focus="l")]
 [charslot(slot = "l", name = "avg_npc_1114_1#10$1",focus="l")]
 [name="弗莱蒙特"]这就是你脑袋里挤出来的好主意？趁着我不注意拉半打萨卡兹来熔炉里？
 [charslot(slot = "r", name = "avg_npc_869_1#8$1",focus="r")]
-[name="埃芒加德"]我也就是想帮个忙，您看，您之前那一次也没有想象中的那么顺利嘛......
+[name="埃芒加德"]我也就是想帮个忙，您看，您之前那一次也没有想象中的那么顺利嘛……
 [charslot(slot = "r", name = "avg_npc_869_1#8$1",focus="r")]
 [name="埃芒加德"]维什戴尔大人被炸上了天，死魂灵们也气得从熔炉里溜了出去。
 [charslot(slot = "l", name = "avg_npc_1114_1#5$1",focus="l")]
 [name="弗莱蒙特"]嗯？
 [charslot(slot = "r", name = "avg_npc_869_1#1$1",focus="r")]
-[name="埃芒加德"]我就是想说，我们举行仪式的结果还是不错的......
+[name="埃芒加德"]我就是想说，我们举行仪式的结果还是不错的……
 [charslot(slot = "r", name = "avg_npc_869_1#1$1",focus="r")]
 [name="埃芒加德"]您不觉得熔炉已经平静下来了吗？
 [Dialog]
 [charslot]
-熔炉里没有任何杂音，也感受不到任何死魂灵的躁动，他们就像是刚刚饱餐一顿陷入小憩的食客，抑或是......
+熔炉里没有任何杂音，也感受不到任何死魂灵的躁动，他们就像是刚刚饱餐一顿陷入小憩的食客，抑或是……
 躲在门后等着看某人笑话的顽童。
 [charslot(slot="m",name="avg_4151_tinman_1#1$1",focus="m")]
 [name="锡人"]（脱帽行礼）
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
-[name="弗莱蒙特"]......（颔首示意）
+[name="弗莱蒙特"]……（颔首示意）
 [dialog]
 [charslot]
 [charslot(slot = "r", name = "avg_npc_869_1#1$1",focus="l")]
@@ -66,7 +66,7 @@
 [charslot(slot = "l", name = "avg_npc_1114_1#7$1",focus="l")]
 [name="弗莱蒙特"]现在给我过来，把嘴闭上。
 [charslot(slot = "r", name = "avg_npc_869_1#6$1",focus="r")]
-[name="埃芒加德"]唔......
+[name="埃芒加德"]唔……
 [dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot = "r", name = "avg_npc_869_1#6$1",focus="l")]
@@ -77,7 +77,7 @@
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
 [name="弗莱蒙特"]至于你们。
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
-[name="弗莱蒙特"]我不管你们是王庭稚儿、街区里的包打听、罗德岛的佣兵......
+[name="弗莱蒙特"]我不管你们是王庭稚儿、街区里的包打听、罗德岛的佣兵……
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
 [name="弗莱蒙特"]还是云游回来的裁缝又或是孽茨雷的弃信者。
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
@@ -99,11 +99,11 @@
 [CameraShake(duration=0.5, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
 [name="弗莱蒙特"]说的就是你们，怎么了！
 [charslot(slot = "m", name = "avg_npc_869_1#6$1")]
-[name="埃芒加德"]好了好了老师，您消消气......
+[name="埃芒加德"]好了好了老师，您消消气……
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
 [name="弗莱蒙特"]我没有气，说话声音大一点就叫气吗？
 [charslot(slot = "m", name = "avg_npc_869_1#6$1")]
-[name="埃芒加德"]是是是，您说得对......
+[name="埃芒加德"]是是是，您说得对……
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
 [name="弗莱蒙特"]哼。
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
@@ -111,7 +111,7 @@
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
 [name="弗莱蒙特"]埃芒加德，带他们出去。
 [charslot(slot = "m", name = "avg_npc_869_1#8$1")]
-[name="埃芒加德"]是......
+[name="埃芒加德"]是……
 [Dialog]
 [charslot]
 [stopmusic(fadetime=2)]

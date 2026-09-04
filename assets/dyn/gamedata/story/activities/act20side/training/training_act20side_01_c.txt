@@ -10,7 +10,7 @@
 [Battle.EnsureMinCost(cost=11)]
 [Tutorial(waitForSignal="put_down", dialogHead="$avatar_stward", animStyle="Drag", \
           startX=-60, startY=60, startAnchor="BottomRight", endX=-350, endY=-110)] \
-只要把自走车单行道<@tu.kw>设置在那里</>......
+只要把自走车单行道<@tu.kw>设置在那里</>……
 [Tutorial(waitForSignal="select_direction", dialogHead="$avatar_ardign", animStyle="Drag", \
           startX=-215, startY=-110, endX=-193, endY=90)] \
 然后将其<@tu.kw>向上部署</>就好。

@@ -6,7 +6,7 @@
 [charslot]
 [PlayMusic(key="$babel_loop", volume=0.6)]
 我相信我们之间的联系会超越时间与空间。
-就算是海洋沸腾、大气消失，就算我们的卫星接连坠入重力的漩涡，就算我们的太阳凶恶地膨胀、无情地吃掉它的孩子直至万籁俱寂......
+就算是海洋沸腾、大气消失，就算我们的卫星接连坠入重力的漩涡，就算我们的太阳凶恶地膨胀、无情地吃掉它的孩子直至万籁俱寂……
 [dialog]
 [curtain(direction = 0,fillfrom = 0.01,fillto = 0.2, fadetime=0.1)]
 [curtain(direction = 4,fillfrom = 0.01,fillto = 0.2, fadetime=0.1)]
@@ -65,7 +65,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.2, block=true)]
 [image]
 [bgeffect]
-......不准忘记我。
+……不准忘记我。
 [dialog]
 [image]
 [curtain]
@@ -76,16 +76,16 @@
 [PlaySound(key="$d_avg_stonegateopen", volume=1, loop=true, channel="st")]
 [StopSound(channel="st", fadetime=4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
-到时间了吗......？
+到时间了吗……？
 我应该还活着，这不会是错觉。
 这里还是我熟悉的罗德岛，看上去还在维持基本的运转，那么可以确定的是，祂还没有来过。
-她还在沉睡吗？还有源石现在的状态......
-至于这颗星球的变化......
+她还在沉睡吗？还有源石现在的状态……
+至于这颗星球的变化……
 [dialog]
 [PlaySound(key="$d_avg_mechafault", volume=0.6)]
 [Delay(time=1.5)]
 你还在这里，AMa-10。
-正好......陪我去外面走走吧。
+正好……陪我去外面走走吧。
 [dialog]
 [musicvolume(volume=0.2, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -126,11 +126,11 @@
 [charslot(slot = "m", name = "avg_npc_1718_1#8$1", duration=1.5, isblock=true)]
 [delay(time=1)]
 [charslot(slot = "m", focus="n")]
-[Decision(options="普瑞赛斯......", values="1")]
+[Decision(options="普瑞赛斯……", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$3")]
-[name="阿米娅"]博士，这个人......就是普瑞赛斯？
-[name="阿米娅"]这就是凯尔希医生一直在戒备的敌人......
+[name="阿米娅"]博士，这个人……就是普瑞赛斯？
+[name="阿米娅"]这就是凯尔希医生一直在戒备的敌人……
 [charslot]
 尽管不明白即将面对的危险，阿米娅还是习惯性地挡在了你的身前，做好了迎战的准备。
 可你的确无法对当下的局势做出准确的判断，但你很清楚的是，这不同于你们以往面对的任何一个强敌，或是任何一次危机。
@@ -150,7 +150,7 @@
 [name="普瑞赛斯"]我们无数次一同畅想过，在时间的另一头，我们从休眠中苏醒后第一次见面的情景。
 [name="普瑞赛斯"]源石已经完全包裹这颗星球，我们可以在其上自由地漫步，这是只属于我们的世界。
 [charslot(slot = "m", name = "avg_npc_1718_1#1$1")]
-[name="普瑞赛斯"]这个世界离我们共同的终极愿景只有一步之遥，我们正步向新的希望......
+[name="普瑞赛斯"]这个世界离我们共同的终极愿景只有一步之遥，我们正步向新的希望……
 [name="普瑞赛斯"]而且，那应该是一个明媚的晴天。
 [dialog]
 [PlaySound(key="$d_avg_magicchange", volume=1)]
@@ -171,15 +171,15 @@
 天灾，这片大地上最可怖的灾难，就这样消弭于无形。
 你意识到一个可怕的事实。
 [dialog]
-[Decision(options="你能够完全“掌控”源石......？", values="1")]
+[Decision(options="你能够完全“掌控”源石……？", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_npc_1718_1#2$1")]
 [name="普瑞赛斯"]{@nickname}，这样的问题令我感到陌生。
 [name="普瑞赛斯"]这是我们共同的创造，只属于你我二人的结晶，是希望的种子。
-[name="普瑞赛斯"]但是很可惜......你已经不记得了，对吗？
+[name="普瑞赛斯"]但是很可惜……你已经不记得了，对吗？
 [dialog]
 [charslot(slot = "m", focus="n")]
-[Decision(options="源石......是我们的创造？;我不记得......", values="1;2")]
+[Decision(options="源石……是我们的创造？;我不记得……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1718_1#2$1")]
 [name="普瑞赛斯"]我知道，因为一些遗憾的意外，你失去了一部分记忆。
@@ -187,7 +187,7 @@
 [name="普瑞赛斯"]我并不想对你有任何苛待，但是我希望你能理解——时间很紧张，我们还有许多事要做。
 [charslot(slot = "m", name = "avg_npc_1718_1#8$1")]
 [name="普瑞赛斯"]不过，我们总还是可以享受共事的时光，对吗？
-[name="普瑞赛斯"]回到我的身边，Dr.{@nickname}......
+[name="普瑞赛斯"]回到我的身边，Dr.{@nickname}……
 [dialog]
 [PlaySound(key="$d_avg_humanchange", volume=1)]
 [delay(time=0.4)]
@@ -222,51 +222,51 @@
 经过了漫长的刹那，她松开了手。
 她把选择完全交给了你。
 [dialog]
-[Decision(options="不......;不。;......不。", values="1;2;3")]
+[Decision(options="不……;不。;……不。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Decision(options="我不会让源石毁灭泰拉。", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_npc_1718_1#2$1")]
-[name="普瑞赛斯"]......
+[name="普瑞赛斯"]……
 [charslot(slot = "m", focus="n")]
 你看到她的目光蒙上了一层阴翳，那是明显的失落。不知为何，你的心脏狠狠收紧了一下。
 [charslot(slot = "m", name = "avg_npc_1718_1#10$1")]
-[name="普瑞赛斯"]是你啊......AMa-10。同样好久不见了。
+[name="普瑞赛斯"]是你啊……AMa-10。同样好久不见了。
 [name="普瑞赛斯"]虽然你现在的模样和诞生之初相去甚远，可我怎会不认识自己倾注了情感的造物呢？
 [charslot(slot = "m", name = "avg_003_kalts_1#6$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot = "m", name = "avg_npc_1718_1#10$1")]
 [name="普瑞赛斯"]这四百多万个自然日的时间里，你似乎做了许多努力，但你行为的准则似乎并不符合你诞生时被预设的目标。
 [name="普瑞赛斯"]我想知道，到底是什么让你改变了主意。
 [charslot(slot = "m", name = "avg_003_kalts_1#7$1")]
-[name="凯尔希"]和你卑劣的骗局不同......
-[name="凯尔希"]......我的目标，从来没有改变过。
+[name="凯尔希"]和你卑劣的骗局不同……
+[name="凯尔希"]……我的目标，从来没有改变过。
 [charslot(slot = "m", name = "avg_npc_1718_1#1$1")]
-[name="普瑞赛斯"]是啊......是你将那个人的命令，当做了不可动摇的目标。
+[name="普瑞赛斯"]是啊……是你将那个人的命令，当做了不可动摇的目标。
 [name="普瑞赛斯"]所以你阻碍了源石的计划，浪费了本就已寥寥无几的时间。
 [charslot(slot = "m", name = "avg_npc_1718_1#9$1")]
-[name="普瑞赛斯"]所以，{@nickname}，我该怎么让你明白......
+[name="普瑞赛斯"]所以，{@nickname}，我该怎么让你明白……
 [name="普瑞赛斯"]我有多么失望。
 [name="普瑞赛斯"]我又该如何原谅你的背叛？
 [dialog]
 [charslot]
 [Decision(options="背叛？", values="1")]
 [Predicate(references="1")]
-[Decision(options="凯尔希，这是什么意思......", values="1")]
+[Decision(options="凯尔希，这是什么意思……", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_003_kalts_1#6$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot = "m", name = "avg_npc_1718_1#10$1")]
 [name="普瑞赛斯"]我注意到了，AMa-10。
 [name="普瑞赛斯"]你已经打破了我设下的语言的禁令，对吗？
-[name="普瑞赛斯"]这样的防备并不足以完全限制你的活动，你总是有办法......
+[name="普瑞赛斯"]这样的防备并不足以完全限制你的活动，你总是有办法……
 [name="普瑞赛斯"]既然如此，为什么不说出来？
 [name="普瑞赛斯"]这么长时间以来，那些你想说却没有办法告诉{@nickname}的一切？
 [dialog]
 [charslot]
 [stopmusic(fadetime=2)]
 [charslot(slot = "m", name = "avg_003_kalts_1#7$1", duration=1.5, isblock=true)]
-[name="凯尔希"]普瑞赛斯......
+[name="凯尔希"]普瑞赛斯……
 [charslot(slot = "m", name = "avg_003_kalts_1#15$1")]
 [name="凯尔希"]*未知语言粗口*。
 [dialog]
@@ -289,7 +289,7 @@
 [charslot]
 所有人陷入了片刻的沉默，下意识地等待着指挥官的进一步指挥。
 [charslot(slot = "m", name = "avg_4133_logos_1#8$1")]
-[name="Logos"]......
+[name="Logos"]……
 [name="Logos"]博士，在何处？
 [charslot(slot = "m", name = "avg_4132_ascln_1#4$1")]
 [name="阿斯卡纶"]还有凯尔希医生和阿米娅。
@@ -320,23 +320,23 @@ Mantra的声音浮现在所有人脑海中的同时，他们都注意到了这�
 [multiline(name="阿斯卡纶",end=true)]不对劲，这里没有看到任何高威胁目标。
 [charslot(slot = "m", name = "avg_017_huang_1#4$2")]
 [name="煌"]这很反常。
-[name="煌"]按照凯尔希医生和博士的推测，我们遭遇的源石结晶体都是来源于Abyss......
+[name="煌"]按照凯尔希医生和博士的推测，我们遭遇的源石结晶体都是来源于Abyss……
 [name="煌"]但这里就好像不存在任何的防御措施——
 [charslot(slot = "m", name = "avg_391_rosmon_1#2$2")]
-[name="迷迭香"]我听到了......疼痛。
+[name="迷迭香"]我听到了……疼痛。
 [charslot(slot = "m", name = "avg_017_huang_1#9$2")]
 [name="煌"]小猫？
 [charslot(slot = "m", name = "avg_npc_249_1$1")]
 [name="Touch"]迷迭香，你还感知到身体的其他异常了吗？
 [charslot(slot = "m", name = "avg_391_rosmon_1#1$2")]
-[name="迷迭香"]不，不是我自己......
+[name="迷迭香"]不，不是我自己……
 [charslot]
 透明地板下，庞大的黑色漩涡的转动缓缓变快。
 漩涡的正上方，那台无法识别的仪器也开始闪烁红色光芒。
 [charslot(slot = "m", name = "avg_npc_1730_1#9$1")]
 [name="Raidian"]识别到大量干扰信号产生。
 [name="Raidian"]那边的仪器正在进行海量的数据传输——
-[name="Raidian"]难道它下方的黑色漩涡......只是数据的可视化显示？
+[name="Raidian"]难道它下方的黑色漩涡……只是数据的可视化显示？
 [dialog]
 [PlaySound(key="$d_avg_spotlightc", volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -356,8 +356,8 @@ Mantra的声音浮现在所有人脑海中的同时，他们都注意到了这�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Sticker(id="st1", multi = true, text="PRTS防御系统已启动。", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n\n威胁目标识别中......身份已确认。",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n载入威胁目标数据档案，针对性对抗策略生成中......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n威胁目标识别中……身份已确认。",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n载入威胁目标数据档案，针对性对抗策略生成中……",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n演算完毕。",block = true)]
 [Sticker(id="st1", duration=0.5, block = false)]
 [delay(time=0.5)]
@@ -403,18 +403,18 @@ Mantra的声音浮现在所有人脑海中的同时，他们都注意到了这�
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[Decision(options="凯尔希？;这一切，到底是怎么回事......", values="1;2")]
+[Decision(options="凯尔希？;这一切，到底是怎么回事……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]Dr.{@nickname}，从你在切尔诺伯格醒来开始，我一直没有向你坦白过去的所有真相。
 [name="凯尔希"]附加在我身上的禁令，只是其中一部分原因。
 [charslot(slot = "m", name = "avg_003_kalts_1#2$1")]
-[name="凯尔希"]而更多的原因......我说过，你的过去，不应该由任何人来告诉你。
+[name="凯尔希"]而更多的原因……我说过，你的过去，不应该由任何人来告诉你。
 [name="凯尔希"]语言无法还原客观事实，情感会曲解表达。
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]所以我需要你自己去看，自己去判断，自己去重新认识这片大地。
 [name="凯尔希"]然后你才能得出自己的答案，关于你对这片大地的看法，关于你自身。
-[name="凯尔希"]我至今依然相信......这样是有意义的。
+[name="凯尔希"]我至今依然相信……这样是有意义的。
 [name="凯尔希"]就像曾经，有人对我做过的事一样。
 [dialog]
 [charslot(slot = "m", focus="n")]
@@ -423,13 +423,13 @@ Mantra的声音浮现在所有人脑海中的同时，他们都注意到了这�
 [Decision(options="我是Dr.{@nickname}。;我是罗德岛的博士。;我是这片大地上的一个生灵。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot = "m", name = "avg_003_kalts_1#13$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot = "m", name = "avg_003_kalts_1#4$1")]
 [name="凯尔希"]但是现在，或许是最后告诉你这些信息的机会。
 [name="凯尔希"]也只有现在，在你与罗德岛共同经历过这些事之后，我才有信心，将这些事告诉你。
 [name="凯尔希"]请你相信，这只是你的过去，却无关你的未来。
 [charslot(slot = "m", name = "avg_npc_1718_1#2$1")]
-[name="普瑞赛斯"]......
+[name="普瑞赛斯"]……
 [charslot]
 凯尔希走到了你的身前，面对着你和阿米娅。
 她缓缓开口。
@@ -440,21 +440,21 @@ Mantra的声音浮现在所有人脑海中的同时，他们都注意到了这�
 [name="凯尔希"]“预言家”，是你曾经的代号。
 [dialog]
 [charslot(slot = "m", focus="n")]
-[Decision(options="我和普瑞赛斯......创造了源石？", values="1")]
+[Decision(options="我和普瑞赛斯……创造了源石？", values="1")]
 [Predicate(references="1")]
-[Decision(options="......是我为这片大地带来了苦难？", values="1")]
+[Decision(options="……是我为这片大地带来了苦难？", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
-[name="凯尔希"]......请相信，这并非你的本意。
-[name="凯尔希"]源石指向了这片大地的两种未来......预言家希望将源石当做留给后来文明的礼物、指引他们前进的信标。
+[name="凯尔希"]……请相信，这并非你的本意。
+[name="凯尔希"]源石指向了这片大地的两种未来……预言家希望将源石当做留给后来文明的礼物、指引他们前进的信标。
 [name="凯尔希"]希望源石能帮助他们走入文明的下一阶段。
 [name="凯尔希"]在过去一万年的时间，源石为泰拉文明的发展带来了助力，但随之而来的矿石病的苦难，却是预料之外的状况。
 [name="凯尔希"]曾经的你，也的确为此痛苦过。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3")]
-[name="阿米娅"]我还记得......那时的博士......
+[name="阿米娅"]我还记得……那时的博士……
 [name="阿米娅"]无论什么时候，博士从来没有放弃过治愈矿石病的可能。
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
-[name="凯尔希"]但是有人，将对另一种未来的认同强加于你。也因此......你做出了那个违背本心的选择。
+[name="凯尔希"]但是有人，将对另一种未来的认同强加于你。也因此……你做出了那个违背本心的选择。
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -473,38 +473,38 @@ Mantra的声音浮现在所有人脑海中的同时，他们都注意到了这�
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="普瑞赛斯"]......
+[name="普瑞赛斯"]……
 [dialog]
 [charslot(slot = "m", name = "avg_003_kalts_1#1$1")]
 [name="凯尔希"]曾有人告诉我，要去相信你的本性，寻找你超越记忆塑造的本来面目。对我来说，这是一条无比困难的道路。
 [charslot(slot = "m", name = "avg_003_kalts_1#13$1")]
-[name="凯尔希"]但我很高兴......这是一个正确的选择。
+[name="凯尔希"]但我很高兴……这是一个正确的选择。
 [name="凯尔希"]Dr.{@nickname}，这些就是我想要告诉你的所有事情。而这些也只是你的过去，你永远可以决定自己的将来。
 [dialog]
 [charslot(slot = "m", focus="n")]
 [Decision(options="我不会背弃我的承诺。;我不会放弃我的使命。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_003_kalts_1#13$1")]
-[name="凯尔希"]......那么我同样，会履行我的誓言。
+[name="凯尔希"]……那么我同样，会履行我的誓言。
 [name="凯尔希"]Dr.{@nickname}，我会保护你和阿米娅到最后一刻。
 [name="凯尔希"]这并不是一个最好的时机，却是我最后的时机。
 [charslot(slot = "m", name = "avg_003_kalts_1#9$1")]
-[name="凯尔希"]我很抱歉，要将这样的风险托付给你与阿米娅......但我必须要做出选择。
+[name="凯尔希"]我很抱歉，要将这样的风险托付给你与阿米娅……但我必须要做出选择。
 [dialog]
 [charslot(slot = "m", focus="n")]
 [Decision(options="什么样的风险？;什么样的选择？", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_003_kalts_1#8$1")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [dialog]
 [charslot]
 你看到了凯尔希的嘴型，她最后的嘱托。
 [charslot(slot = "m", name = "avg_npc_1718_1#2$1")]
 [name="普瑞赛斯"]要说的话，已经说完了吗？
-[name="普瑞赛斯"]我诧异于你对过往的认知，也对你的表述并不完全认同......不过，这都不重要了。
+[name="普瑞赛斯"]我诧异于你对过往的认知，也对你的表述并不完全认同……不过，这都不重要了。
 [name="普瑞赛斯"]AMa-10，现在的你，又能做到什么？
 [charslot(slot = "m", name = "avg_003_kalts_1#7$1")]
-[name="凯尔希"]......Mon3tr！
+[name="凯尔希"]……Mon3tr！
 [dialog]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$char_Mon3tr")]
@@ -525,7 +525,7 @@ Mantra的声音浮现在所有人脑海中的同时，他们都注意到了这�
 [name="凯尔希"]摧毁她。
 [name="凯尔希"]她是普瑞赛斯，来自前文明的，源石的缔造者，试图用源石来同化一切的人。
 [name="凯尔希"]也因此，她是泰拉所有生命的敌人。
-[name="普瑞赛斯"]这就是你的选择......
+[name="普瑞赛斯"]这就是你的选择……
 [name="凯尔希"]我是凯尔希，罗德岛的医生，阿米娅与博士的同伴。
 [dialog]
 [Image(image="60_i19_1", screenadapt="coverall", fadetime=0.5)]

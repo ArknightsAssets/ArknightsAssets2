@@ -48,7 +48,7 @@
 [charslot(slot="l",name="avg_npc_794_1#1$1",duration=0.7)]
 [charslot(slot="r",name="avg_npc_794_1#1$1",duration=0.7)]
 [delay(time=1)]
-[name="来历不明的凶徒"]......
+[name="来历不明的凶徒"]……
 [charslot]
 [charslot(slot="m",name="avg_npc_796_1#1$1",focus="m")]
 [name="玉门守军B"]林特使小心！
@@ -83,7 +83,7 @@
 [charslot(slot = "right", name = "avg_npc_794_1#1$1",posfrom = "-100,0", posto = "0,0",duration = 0.2,isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "right",focus="r")]
-[name="来历不明的凶徒"]将沙石变成玻璃......很奇特的法术。
+[name="来历不明的凶徒"]将沙石变成玻璃……很奇特的法术。
 [dialog]
 [charslot]
 [CameraShake(duration=1, xstrength=20, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -91,9 +91,9 @@
 [PlaySound(key="$swordtsing4",delay=0.1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4080_lin_1#9$1",focus="m")]
-[name="林雨霞"]我在城外就觉得蹊跷......
+[name="林雨霞"]我在城外就觉得蹊跷……
 [charslot(slot="m",name="avg_4080_lin_1#1$1",focus="m")]
-[name="林雨霞"]你们的目标是天灾观测数据吧。你们截杀了信使队伍，但并没有找到数据，只能草草将现场布置成流寇洗劫......拙劣。
+[name="林雨霞"]你们的目标是天灾观测数据吧。你们截杀了信使队伍，但并没有找到数据，只能草草将现场布置成流寇洗劫……拙劣。
 [dialog]
 [charslot]
 [charslot(slot="l",name="avg_npc_794_1#1$1",duration=0.7)]
@@ -102,7 +102,7 @@
 [name="来历不明的凶徒"]先杀了那个女人，东西一定还在她身上，当心源石技艺。
 [charslot]
 [charslot(slot="m",name="avg_4080_lin_1#11$1",focus="m")]
-[name="林雨霞"]仗着人多？呵......
+[name="林雨霞"]仗着人多？呵……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_singleblunt", volume=1)]
@@ -128,7 +128,7 @@
 [name="？？？"]放肆！
 [charslot(slot="l",name="avg_npc_794_1#1$1")]
 [charslot(slot="r",name="avg_npc_794_1#1$1")]
-[name="来历不明的凶徒"]......
+[name="来历不明的凶徒"]……
 [dialog]
 [PlaySound(key="$d_avg_crowdrun", volume=1,channel="2")]
 [charslot(duration=1.5,isblock=true)]
@@ -143,7 +143,7 @@
 [charslot(slot="l",name="avg_npc_789_1#5$1",focus="l")]
 [name="孟铁衣"]遥夜，先赶紧看看那几位战士怎么样了。
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
-[name="杜遥夜"]......好。
+[name="杜遥夜"]……好。
 [dialog]
 [Dialog]
 [stopmusic(fadetime=1.5)]
@@ -159,7 +159,7 @@
 [name="孟铁衣"]贼人下手很歹毒，姑娘有没有事？
 [charslot]
 [charslot(slot="m",name="avg_4080_lin_1#12$1",focus="m")]
-[name="林雨霞"]......
+[name="林雨霞"]……
 [charslot(slot="m",name="avg_4080_lin_1#8$1",focus="m")]
 [name="林雨霞"]他们还伤不到我。
 [charslot]
@@ -171,7 +171,7 @@
 [charslot(slot="r",name="avg_npc_296_1#9$1",focus="r")]
 [name="杜遥夜"]孟叔，你为什么不让我追出去抓一个回来审审？
 [charslot(slot="l",name="avg_npc_789_1#10$1",focus="l")]
-[name="孟铁衣"]还不清楚敌人底细......遥夜，别总那么莽撞。
+[name="孟铁衣"]还不清楚敌人底细……遥夜，别总那么莽撞。
 [name="孟铁衣"]看打扮，姑娘不是玉门人，又有玉门守军保护，想必不是普通人。不知道这伙贼人为了什么要找你的麻烦？
 [charslot]
 [charslot(slot="m",name="avg_4080_lin_1#2$1",focus="m")]
@@ -179,14 +179,14 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_789_1#10$1",focus="r")]
 [charslot(slot="r",name="avg_npc_296_1#5$1",focus="r")]
-[name="杜遥夜"]你这个人......！
+[name="杜遥夜"]你这个人……！
 [charslot]
 [charslot(slot="m",name="avg_4080_lin_1#1$1",focus="m")]
 [name="林雨霞"]你们是什么人？又为什么出现在这里？
 [charslot]
 [charslot(slot="l",name="avg_npc_789_1#10$1",focus="l")]
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="l")]
-[name="孟铁衣"]孟铁衣，在城南开了一家铸剑坊。这位是刚从尚蜀来的杜遥夜......
+[name="孟铁衣"]孟铁衣，在城南开了一家铸剑坊。这位是刚从尚蜀来的杜遥夜……
 [charslot(slot="r",name="avg_npc_296_1#2$1",focus="r")]
 [name="杜遥夜"]玉门第一家物流公司“行裕物流”的老板。
 [charslot(slot="l",name="avg_npc_789_1#10$1",focus="l")]
@@ -194,10 +194,10 @@
 [charslot(slot="r",name="avg_npc_296_1#2$1",focus="r")]
 [name="杜遥夜"]我从尚蜀带来的两个兄弟第一次走玉门的镖，还是护送天灾信使这样的大活儿，当然要迎接了。
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
-[name="杜遥夜"]孟叔，算时间他们该回来了......
+[name="杜遥夜"]孟叔，算时间他们该回来了……
 [charslot]
 [charslot(slot="m",name="avg_4080_lin_1#6$1",focus="m")]
-[name="林雨霞"]天灾信使......
+[name="林雨霞"]天灾信使……
 [charslot(slot="m",name="avg_4080_lin_1#1$1",focus="m")]
 [name="林雨霞"]我想，你们不用去了。
 [musicvolume(volume=0.2, fadetime=1)]
@@ -216,7 +216,7 @@
 [charslot(slot="r",name="char_2005_weiyw_1#1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="r",name="char_2005_weiyw_1#1",focus="r")]
-[name="魏彦吾"]......
+[name="魏彦吾"]……
 [charslot(slot="l",name="avg_npc_788_1#9$1",focus="l")]
 [name="左宣辽"]魏公莫非又看上我这军帐里的哪样兵器了？
 [name="左宣辽"]罢了，反正我是都用不着了，你要是喜欢，不如连我那军武库整个搬到龙门去。
@@ -231,7 +231,7 @@
 [charslot(slot="r",name="char_2005_weiyw_1#1",focus="r")]
 [name="魏彦吾"]分内的事。
 [charslot(slot="l",name="avg_npc_788_1#1$1",focus="l")]
-[name="左宣辽"]可魏兄身为龙门总督，事务繁忙......今天还特意来到玉门巡视，总该不是分内的事？
+[name="左宣辽"]可魏兄身为龙门总督，事务繁忙……今天还特意来到玉门巡视，总该不是分内的事？
 [charslot(slot="r",name="char_2005_weiyw_1#2",focus="r")]
 [name="魏彦吾"]算是私事。
 [charslot(slot="r",name="char_2005_weiyw_1#1",focus="r")]
@@ -279,7 +279,7 @@
 [charslot(slot="m",name="avg_npc_788_1#7$1",focus="m")]
 [name="左宣辽"]宗师是觉得，这么久以来，军队上下，朝堂内外，身后眼前，竟无一个人合适了？
 [charslot(slot="m",name="avg_2024_chyue_1#1$1",focus="m")]
-[name="重岳"]......
+[name="重岳"]……
 [charslot]
 [name="？？？"]好生热闹。
 [dialog]
@@ -305,10 +305,10 @@
 [charslot(slot="m",name="avg_npc_796_1#1$1",focus="m")]
 [name="巡防营守军"]两个时辰前，城头的守军看到了远处的求救信号。
 [stopmusic(fadetime=3)]
-[name="巡防营守军"]我们赶到现场才发现......三日前玉门派出的天灾信使队伍，被截杀了。
+[name="巡防营守军"]我们赶到现场才发现……三日前玉门派出的天灾信使队伍，被截杀了。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_npc_788_1#4$1",focus="m")]
-[name="左宣辽"]......！
+[name="左宣辽"]……！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -323,7 +323,7 @@
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="l")]
 [name="孟铁衣"]遥夜，这不是你自己设计的镖旗吗，收起来做什么？
 [charslot(slot="r",name="avg_npc_296_1#6$1",focus="r")]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [charslot(slot="l",name="avg_npc_789_1#3$1",focus="l")]
 [name="孟铁衣"]是想打道回府？你是在后悔，不该让大小齐去跟这一趟镖？
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
@@ -333,11 +333,11 @@
 [charslot(slot="l",name="avg_npc_789_1#5$1",focus="l")]
 [name="孟铁衣"]对方可不是什么流寇。当时就算多你一个，又可以改变什么？
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
-[name="杜遥夜"]......孟叔，这样的事情，你是不是经历过很多次？
+[name="杜遥夜"]……孟叔，这样的事情，你是不是经历过很多次？
 [charslot(slot="l",name="avg_npc_789_1#10$1",focus="l")]
 [name="孟铁衣"]你觉得呢？
 [charslot(slot="r",name="avg_npc_296_1#7$1",focus="r")]
-[name="杜遥夜"]......
+[name="杜遥夜"]……
 [charslot(slot="l",name="avg_npc_789_1#10$1",focus="l")]
 [name="孟铁衣"]行裕镖局十多年前曾来玉门走过几趟镖，我和你爹就是那时候认识的。这几年虽然往来不多，但交情不浅。
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
@@ -350,7 +350,7 @@
 [charslot(slot="l",name="avg_npc_789_1#10$1",focus="l")]
 [name="孟铁衣"]我因这才收留了你。虽然现代物流我不太懂，但在玉门待了这么多年，我多少能给你找些机会。
 [charslot(slot="l",name="avg_npc_789_1#9$1",focus="l")]
-[name="孟铁衣"]现在看来，反而是我害了你的朋友......
+[name="孟铁衣"]现在看来，反而是我害了你的朋友……
 [charslot(slot="r",name="avg_npc_296_1#1$1",focus="r")]
 [name="杜遥夜"]把大小齐带到玉门的是我，让他们参与护送天灾信使的也是我。
 [charslot(slot="r",name="avg_npc_296_1#3$1",focus="r")]
@@ -361,7 +361,7 @@
 [name="孟铁衣"]镖局也好，物流也好，万变不离其宗，赌上的是人命，为的也是人命。想要打出这行的招牌，就得知道肩上的分量。
 [name="孟铁衣"]遥夜，无论你将来要不要走这条路，这一刻的心情，你要永远记着。
 [charslot(slot="r",name="avg_npc_296_1#2$1",focus="r")]
-[name="杜遥夜"]......嗯，我当然会记得。
+[name="杜遥夜"]……嗯，我当然会记得。
 [charslot(slot="r",name="avg_npc_296_1#6$1",focus="r")]
 [name="杜遥夜"]但这次的凶手，我也绝对不会放过！
 [stopmusic(fadetime=2)]
@@ -387,17 +387,17 @@
 [charslot(slot="r",name="avg_322_lmlee_1#9$1",focus="r")]
 [name="老鲤"]这家客栈掌勺的手艺真不一般，我都想偷学两手了。
 [charslot(slot="l",name="avg_243_waaifu_1#6$1",focus="l")]
-[name="槐琥"]我不饿......我吃不下。
+[name="槐琥"]我不饿……我吃不下。
 [charslot(slot="r",name="avg_322_lmlee_1#1$1",focus="r")]
 [name="老鲤"]不靠谱的老爹得找，但饭也得吃。没有力气，到时候可怎么揍他呢？
 [charslot(slot="l",name="avg_243_waaifu_1#1$1",focus="l")]
 [name="槐琥"]（默默拿起筷子）
 [charslot(slot="r",name="avg_322_lmlee_1#4$1",focus="r")]
-[name="老鲤"]你的手......？
+[name="老鲤"]你的手……？
 [charslot(slot="l",name="avg_243_waaifu_1#4$1",focus="l")]
-[name="槐琥"]今天比武的时候不小心磕到了......一点小伤不要紧的！玉门的擂台从早设到晚，上来的高手可真不少，不过最后还是我赢了！
+[name="槐琥"]今天比武的时候不小心磕到了……一点小伤不要紧的！玉门的擂台从早设到晚，上来的高手可真不少，不过最后还是我赢了！
 [charslot(slot="r",name="avg_322_lmlee_1#1$1",focus="r")]
-[name="老鲤"]难怪客栈常备着那么多伤药......你等着，我去拿点过来。
+[name="老鲤"]难怪客栈常备着那么多伤药……你等着，我去拿点过来。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -420,13 +420,13 @@
 [charslot(slot="r",name="avg_322_lmlee_1#10$1",focus="r")]
 [name="老鲤"]说的没错。所以等我们找到他的时候，应该直接将他扭送近卫局。
 [charslot(slot="l",name="avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]......
+[name="槐琥"]……
 [charslot(slot="l",name="avg_243_waaifu_1#6$1",focus="l")]
 [name="槐琥"]鲤叔，你说他真的在这玉门城吗？
 [charslot(slot="r",name="avg_322_lmlee_1#9$1",focus="r")]
 [name="老鲤"]传闻一年前有人在玉门见过他的踪迹，这是你梁叔给的消息。我也只有信他。
 [charslot(slot="l",name="avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]如果他真的在玉门，应该已经在城门口的擂台榜上看见我的名字了。或者这么多年，哪怕路过龙门，也能来顺便看我一眼......
+[name="槐琥"]如果他真的在玉门，应该已经在城门口的擂台榜上看见我的名字了。或者这么多年，哪怕路过龙门，也能来顺便看我一眼……
 [charslot(slot="l",name="avg_243_waaifu_1#6$1",focus="l")]
 [name="槐琥"]他到底是不想找我，还是有意避着我？
 [charslot(slot="r",name="avg_322_lmlee_1#2$1",focus="r")]
@@ -436,11 +436,11 @@
 [charslot(slot="r",name="avg_322_lmlee_1#1$1",focus="r")]
 [name="老鲤"]我一直都相信，你们父女总会见面的。问题就在于，见了面后，你们能不能找到各自想要的答案。
 [charslot(slot="l",name="avg_243_waaifu_1#5$1",focus="l")]
-[name="槐琥"]其实......到现在我都不确定，自己到底有没有准备好见他。
+[name="槐琥"]其实……到现在我都不确定，自己到底有没有准备好见他。
 [charslot(slot="r",name="avg_322_lmlee_1#1$1",focus="r")]
 [name="老鲤"]那不如想想，假如现在走出去，和他在门口大街上撞个正着，你打算怎么办？
 [charslot(slot="l",name="avg_243_waaifu_1#7$1",focus="l")]
-[name="槐琥"]......
+[name="槐琥"]……
 [charslot(slot="l",name="avg_243_waaifu_1#9$1",focus="l")]
 [name="槐琥"]我要狠狠地踹他下巴。
 [Dialog]
@@ -458,7 +458,7 @@
 [name="巡防营守军"]情况如上所述，天灾数据已经送去钦天监观测台，也已根据测算结果给出了调整航道的新方案。
 [name="巡防营守军"]受伤的军士均已送去医治。后续案情，林特使还在追查。
 [charslot(slot="m",name="char_2005_weiyw_1#1",focus="m")]
-[name="魏彦吾"]嗯......
+[name="魏彦吾"]嗯……
 [charslot(slot="m",name="avg_npc_788_1#2$1",focus="m")]
 [name="左宣辽"]我清楚了，你先下去吧。
 [dialog]
@@ -474,7 +474,7 @@
 [charslot(slot="m",name="avg_npc_301_1#1$1",focus="m")]
 [name="太傅"]重要的是城中作乱奸徒的身份，平祟侯可有想法？
 [charslot(slot="m",name="avg_npc_788_1#1$1",focus="m")]
-[name="左宣辽"]......“山海众”。
+[name="左宣辽"]……“山海众”。
 [charslot(slot="m",name="avg_npc_788_1#1$1",focus="m")]
 [name="左宣辽"]他们本该在二十年前就被一网打尽。
 [charslot(slot="m",name="avg_npc_301_1#2$1",focus="m")]
@@ -498,7 +498,7 @@
 [charslot(slot="m",name="avg_npc_301_1#1$1",focus="m")]
 [name="太傅"]立即彻查此事。确保玉门平安，不容有失。
 [charslot(slot="m",name="avg_npc_788_1#1$1",focus="m")]
-[name="左宣辽"]......
+[name="左宣辽"]……
 [charslot(slot="m",name="avg_npc_788_1#7$1",focus="m")]
 [name="左宣辽"]二十年前他们不曾得手，如今更无可能。
 [charslot(slot="m",name="avg_npc_301_1#1$1",focus="m")]
@@ -510,7 +510,7 @@
 [charslot(slot="m",name="avg_npc_788_1#7$1",focus="m")]
 [name="左宣辽"]正因如此，剑的交付岂能儿戏？
 [charslot(slot="m",name="avg_2024_chyue_1#8$1",focus="m")]
-[name="重岳"]......
+[name="重岳"]……
 [charslot(slot="m",name="avg_npc_301_1#1$1",focus="m")]
 [name="太傅"]眼下，其余一百八十枚黑子下落不明，他的下一步棋无人能料到会落在何处。
 [charslot(slot="m",name="avg_npc_301_1#1$1",focus="m")]
@@ -522,7 +522,7 @@
 [charslot(slot="m",name="avg_2024_chyue_1#8$1",focus="m")]
 [name="重岳"]我这个弟弟，到底给大家添了不少麻烦。
 [charslot(slot="m",name="avg_npc_788_1#8$1",focus="m")]
-[name="左宣辽"]......既然太傅和宗师都是这个意思，我姑且没有异议。
+[name="左宣辽"]……既然太傅和宗师都是这个意思，我姑且没有异议。
 [charslot(slot="m",name="avg_npc_301_1#1$1",focus="m")]
 [name="太傅"]宗师。
 [charslot(slot="m",name="avg_2024_chyue_1#1$1",focus="m")]
@@ -538,15 +538,15 @@
 [charslot(slot="m",name="avg_2024_chyue_1#9$1",focus="m")]
 [name="重岳"]只是不知该不该叹惋，终究还是不能陪这座城到最后一刻了。
 [charslot(slot="m",name="avg_2023_ling_1#1$1",focus="m")]
-[name="令"]嗯......？
+[name="令"]嗯……？
 [charslot(slot="m",name="avg_npc_301_1#5$1",focus="m")]
 [name="太傅"]令小姐似乎还有想法？
 [charslot(slot="m",name="avg_2023_ling_1#3$1",focus="m")]
-[name="令"]你们有没有闻到，一股花香......
+[name="令"]你们有没有闻到，一股花香……
 [charslot(slot="m",name="avg_2023_ling_1#7$1",focus="m")]
 [name="令"]似乎是，桃花？
 [charslot(slot="m",name="avg_npc_788_1#8$1",focus="m")]
-[name="左宣辽"]桃花......？
+[name="左宣辽"]桃花……？
 [dialog]
 [stopmusic(fadetime=1.5)]
 [charslot(duration=0.5)]
@@ -561,7 +561,7 @@
 这个时节的玉门，也不该有桃花开放。
 但在座每个人的确都闻到了，氤氲的香气如月光般穿过窗棂；也看到了，一片红似朱砂的花瓣飘到堂前，缓缓落下。
 [charslot(slot="m",name="char_2005_weiyw_1#1",focus="m")]
-[name="魏彦吾"]这可当真是奇事......
+[name="魏彦吾"]这可当真是奇事……
 [dialog]
 [delay(time=1)]
 [charslot(slot="m",name="char_2005_weiyw_1#4",focus="m")]
@@ -593,7 +593,7 @@
 [charslot(slot="l",name="avg_npc_786_1#1$2",duration=1.5,bstart=0.2,bend=0.7,isblock=true)]
 [delay(time=0.5)]
 [charslot(slot="l",focus="l")]
-[name="冷漠的女性"]......
+[name="冷漠的女性"]……
 [name="冷漠的女性"]空手接得下我一刀，你可以骄傲。
 [charslot(slot="r",name="avg_2024_chyue_1#6$1",focus="r")]
 [name="重岳"]有这样的武功修为，为何要行偷袭暗杀这种卑劣之事？
@@ -603,9 +603,9 @@
 [charslot(slot="l",name="avg_npc_786_1#1$2",focus="l")]
 [name="冷漠的女性"]我倒想问，有那般强大的力量，为何要换这一副羸弱的身体？ 
 [charslot(slot="r",name="avg_2024_chyue_1#7$1",focus="r")]
-[name="重岳"]你知道我......?
+[name="重岳"]你知道我……?
 [charslot(slot="l",name="avg_npc_786_1#1$2",focus="l")]
-[name="冷漠的女性"]......
+[name="冷漠的女性"]……
 [dialog]
 [charslot(slot="m",name="char_2005_weiyw_1#4",focus="m")]
 [charslot(slot="r",posfrom="0,0",posto="200,0",duration=0.4,end=false,focus="m")]
@@ -687,11 +687,11 @@
 [charslot(slot="l",name="avg_2023_ling_1#3$1",focus="l")]
 [name="令"]你竟然能认出这是梦？
 [charslot(slot="r",name="avg_npc_786_1#2$2",focus="r")]
-[name="冷漠的女性"]将自己一分为十二，还能保持这种能力......
+[name="冷漠的女性"]将自己一分为十二，还能保持这种能力……
 [charslot(slot="l",name="avg_2023_ling_1#3$1",focus="l")]
 [name="令"]哦？你不仅知道我，还知道“他”。
 [charslot(slot="r",name="avg_npc_786_1#1$2",focus="r")]
-[name="冷漠的女性"]我要见的是他......你不是他。
+[name="冷漠的女性"]我要见的是他……你不是他。
 [charslot(slot="l",name="avg_2023_ling_1#1$1",focus="l")]
 [name="令"]我自然是我，你又为什么要见他？
 [charslot(slot="r",name="avg_npc_786_1#1$2",focus="r")]

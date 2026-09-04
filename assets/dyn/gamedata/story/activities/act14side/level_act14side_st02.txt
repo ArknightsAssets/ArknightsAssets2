@@ -19,7 +19,7 @@
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]就快到了。菈塔托丝，你对此地可还有印象？
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="菈塔托丝"]......这一带，我没记错的话，通往谢拉格外的路早就因为桥梁被风雪毁坏而废弃了。
+[name="菈塔托丝"]……这一带，我没记错的话，通往谢拉格外的路早就因为桥梁被风雪毁坏而废弃了。
 [name="菈塔托丝"]这里本来就暴风雪频发，连加固过的桥梁都难保安稳，人们也就放弃了对这边道路的再开发。
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]你在图里卡姆的关口有多少人，菈塔托丝？
@@ -28,15 +28,15 @@
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]那你知道，近日有多少武装人员和装备从你的眼皮底下绕过，进入了谢拉格吗？
 [character(name="avg_npc_253_1#9$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=1)]
 [name="菈塔托丝"]你难道要说，恩希欧迪斯绕开图里卡姆，在这种地方也开辟了铁路？
 [character(name="avg_npc_253_1#2$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="菈塔托丝"]......怎么可能。
+[name="菈塔托丝"]……怎么可能。
 [character(name="avg_npc_253_1#2$1",name2="avg_206_gnosis_1#9$1",focus=2)]
 [name="诺希斯"]你看，来了。
 [character(name="avg_npc_253_1#4$1",name2="avg_206_gnosis_1#9$1",focus=1)]
-[name="菈塔托丝"]可那条路前面是片峡谷......
+[name="菈塔托丝"]可那条路前面是片峡谷……
 [character(name="avg_npc_253_1#4$1",name2="avg_206_gnosis_1#9$1",focus=2)]
 [name="诺希斯"]不再是了。
 [dialog]
@@ -45,16 +45,16 @@
 [PlaySound(key="$d_avg_drawbridge", volume=5)]
 [delay(time=2)]
 [character(name="avg_npc_253_1#4$1")]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [character(name="avg_npc_253_1#7$1")]
-[name="菈塔托丝"]............
+[name="菈塔托丝"]…………
 [character(name="avg_npc_253_1#8$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlayMusic(intro="$m_bat_essenceofevolution_intro", key="$m_bat_essenceofevolution_loop", volume=0.4)]
 [name="菈塔托丝"]这不可能！
 [character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]用装置把桥梁、轨道、承重结构全都收在两边的悬崖山体中。
-[name="诺希斯"]为了掩人耳目，只在列车将要通过的时候再从山体中伸出架成桥梁......
+[name="诺希斯"]为了掩人耳目，只在列车将要通过的时候再从山体中伸出架成桥梁……
 [character(name="avg_206_gnosis_1#1$1")]
 [name="诺希斯"]多么简单的构思，却要用到多么复杂的设计去实现。真让我有些不舍。
 [Dialog]
@@ -143,9 +143,9 @@
 [Delay(time=1)]
 [name="诺希斯"]很锋利。
 [character(name="avg_206_gnosis_1#1$1")]
-[name="诺希斯"]这种若隐若现的浅蓝色纹理......不知各位有没有在希瓦艾什家的矿区见过类似的金属？
+[name="诺希斯"]这种若隐若现的浅蓝色纹理……不知各位有没有在希瓦艾什家的矿区见过类似的金属？
 [character(name="avg_npc_253_1#4$1")]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [character(name="avg_npc_253_1#4$1",name2="avg_206_gnosis_1#9$1",focus=2)]
 [name="诺希斯"]开门见山吧。你想从我这里得到恩希欧迪斯的情报，而我想利用布朗陶家的势力去对付他。
 [name="诺希斯"]我从一开始就说过，需要展示诚意的不止是我。因为我太清楚布朗陶家的做法了。
@@ -160,7 +160,7 @@
 [character(name="avg_npc_253_1#4$1",name2="avg_206_gnosis_1#9$1",focus=2)]
 [name="诺希斯"]现在，你们已经别无选择。
 [character(name="avg_npc_253_1#7$1",name2="avg_206_gnosis_1#9$1",focus=1)]
-[name="菈塔托丝"]......来人，给我把诺希斯拿下！
+[name="菈塔托丝"]……来人，给我把诺希斯拿下！
 [character(name="avg_npc_253_1#7$1",name2="avg_206_gnosis_1#3$1",focus=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="诺希斯"]且慢！
@@ -190,7 +190,7 @@
 [character(name="avg_npc_253_1#4$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]容我向你介绍恩希欧迪斯暗中训练的部队，代号“山雪鬼”。
 [character(name="avg_npc_253_1#4$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="菈塔托丝"]什么，这......山雪鬼？！
+[name="菈塔托丝"]什么，这……山雪鬼？！
 [character(name="avg_npc_253_1#4$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]他们即将像古老传说中的山雪鬼那样，不归化于耶拉冈德的威光，用最纯粹的力量去挑战信仰。
 [Dialog]
@@ -204,7 +204,7 @@
 眼前这支部队的穿着不难让人联想到从列车中散落的装备。看到他们脸上所戴的面具，菈塔托丝忍不住打了个寒战。
 [delay(time=1)]
 [character(name="avg_npc_275")]
-[name="“山雪鬼”"]......老爷对你的宽容换来的竟是这等卑鄙的背叛。
+[name="“山雪鬼”"]……老爷对你的宽容换来的竟是这等卑鄙的背叛。
 [name="“山雪鬼”"]把在场的人统统抓起来！
 [character(name="avg_npc_253_1#7$1",name2="avg_206_gnosis_1#9$1",focus=2)]
 [name="诺希斯"]菈塔托丝，该你展现诚意了。
@@ -225,7 +225,7 @@
 [Delay(time=2)]	
 [character(name="avg_npc_252",fadetime=1.5)]
 [delay(time=2)]
-[name="Sharp"]......部队的名称似乎是“山雪鬼”。在场的“山雪鬼”不多，似乎都被菈塔托丝他们活捉了。
+[name="Sharp"]……部队的名称似乎是“山雪鬼”。在场的“山雪鬼”不多，似乎都被菈塔托丝他们活捉了。
 [name="Sharp"]另外执掌载货列车的两名“山雪鬼”虽然生还，但也一样遭到囚禁。
 [name="Sharp"]我亲眼所见的部分就到这里了，我自信自己没有被任何当事人发现。
 [name="Sharp"]恩希欧迪斯肯定也不会将此视为单纯的雪难吧。
@@ -241,7 +241,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [delay(time=2)]
 [character(name="avgnew_173_slchan_1#1$1",focus=-1)]
-[Decision(options="崖心！;......;好久不见。", values="1;2;3")]
+[Decision(options="崖心！;……;好久不见。", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]唉，看到博士没事我就放心啦，之前他们都跟我说博士公务缠身，不便会面。
@@ -249,16 +249,16 @@
 [name="恩希亚"]在大典真正结束之前，博士还得像这样待在佩尔罗契家，我好着急。
 [Predicate(references="2")]
 [Character(name="avgnew_173_slchan_1#3$1")]
-[name="恩希亚"]博士？你怎么不说话，你应该没事吧......
+[name="恩希亚"]博士？你怎么不说话，你应该没事吧……
 [name="恩希亚"]佩尔罗契家没欺负你吧！
 [Predicate(references="3")]
 [Character(name="avgnew_173_slchan_1#1$1")]
-[name="恩希亚"]其实也没那么久啦......
+[name="恩希亚"]其实也没那么久啦……
 [name="恩希亚"]不过把博士请来后出了这么多事，我也觉得时间好漫长。
 [Predicate(references="1;2;3")]
 [Character(name="avgnew_173_slchan_1#1$1")]
 [name="恩希亚"]但我听说，好像博士和阿克托斯先生他们相处得还不错？
-[name="恩希亚"]啊......想想也是理所当然，博士在罗德岛的人缘就很好。
+[name="恩希亚"]啊……想想也是理所当然，博士在罗德岛的人缘就很好。
 [name="恩希亚"]对了，有什么我能帮帮博士的吗？这一出又一出让我很过意不去，我总想替博士做点能做的事情。
 [Dialog]
 [Character(name="avgnew_173_slchan_1#1$1",focus=-1)]
@@ -294,16 +294,16 @@
 [PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]	
-[name="希瓦艾什家战士"]......我们已经确认到有多处轨道遭受类似破坏，损失已经清点完毕，修复工程需要一定时间。
+[name="希瓦艾什家战士"]……我们已经确认到有多处轨道遭受类似破坏，损失已经清点完毕，修复工程需要一定时间。
 [name="希瓦艾什家战士"]但更严重的是，在谢拉格与外界的进出路线中，原本完全由我方掌握的几条已经被截断。
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]即是说，外部的力量现今无法轻易进入谢拉格。
 [Character]
-[name="希瓦艾什家战士"]不过我们各类资源和材料的储备都还算充沛，在轨道修复前足以维持......
+[name="希瓦艾什家战士"]不过我们各类资源和材料的储备都还算充沛，在轨道修复前足以维持……
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]不重要，我不是在说这些。
 [Character]
-[name="希瓦艾什家战士"]......此外，我们还确认到诺希斯和菈塔托丝有所接触，并且曾在我们领地的边界徘徊。
+[name="希瓦艾什家战士"]……此外，我们还确认到诺希斯和菈塔托丝有所接触，并且曾在我们领地的边界徘徊。
 [Character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]我知道了。
 [Character(name="avg_172_svrash_1#9$1")]

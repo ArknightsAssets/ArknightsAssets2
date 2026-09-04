@@ -8,12 +8,12 @@
 [Character(name="avg_npc_031")]
 [name="黑帮"]   首领，企鹅物流有动作了。
 [Character(name="avg_npc_028#2",name2="avg_npc_031",focus=1)]
-[name="甘比诺"]   ......意料之内，只是给她留下了点皮肉伤......
+[name="甘比诺"]   ……意料之内，只是给她留下了点皮肉伤……
 [name="甘比诺"]   但我更在意的是，卡彭呢？
 [Character(name="avg_npc_028#2",name2="avg_npc_031",focus=2)]
 [name="黑帮"]   其、其实在一个小时前就彻底联系不上了。
 [Character(name="avg_npc_028#3",name2="avg_npc_031",focus=1)]
-[name="甘比诺"]   ......最后一次例行联络是在哪里？贫民窟吗？
+[name="甘比诺"]   ……最后一次例行联络是在哪里？贫民窟吗？
 [Character(name="avg_npc_028#3",name2="avg_npc_031",focus=2)]
 [name="黑帮"]   啊，是的。
 [Character(name="avg_npc_028",name2="avg_npc_031",focus=1)]
@@ -24,7 +24,7 @@
 [name="甘比诺"]   先通知所有小队，按原计划拦截企鹅物流——
 [name="甘比诺"]   但我猜，不出意外的话，大概会有那么两三个小队挂断联络吧。
 [Character(name="avg_npc_028",name2="avg_npc_031",focus=2)]
-[name="黑帮"]   您这是什么意思......啊。
+[name="黑帮"]   您这是什么意思……啊。
 [name="黑帮"]   难道——卡彭先生背叛了家族？
 [Character(name="avg_npc_028",name2="avg_npc_031",focus=1)]
 [name="甘比诺"]   我理解他，太理解他了。
@@ -34,7 +34,7 @@
 [Character(name="avg_npc_028",name2="avg_npc_031",focus=2)]
 [name="黑帮"]   那我们应该如何是好？
 [Character(name="avg_npc_028",name2="avg_npc_031",focus=1)]
-[name="甘比诺"]   ......企鹅物流比想象中棘手，我们也不能同时树敌太多。
+[name="甘比诺"]   ……企鹅物流比想象中棘手，我们也不能同时树敌太多。
 [name="甘比诺"]   也许，我们应该先解决叛徒的问题。
 [stopmusic(fadetime=3)]
 [Dialog]
@@ -61,7 +61,7 @@
 [name="黑帮B"]   别问那么多，这是要求，照做就是了！快！
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [Character(name="avg_npc_031")]
-[name="黑帮"]   ......就是这样了。
+[name="黑帮"]   ……就是这样了。
 [name="黑帮"]    不会杀我的，对吧？
 [Character(name="char_103_angel_1#8")]
 [name="能天使"]   当然，多谢小哥啦，小睡一会吧~
@@ -90,9 +90,9 @@
 [Character(name="char_102_texas_1")]
 [name="德克萨斯"]   注意敌方小队的动向。
 [Character]
-[name="空"]   知道啦~会拜托街上的熟人们留意的......等等，老板？你要到花车上面去看看？欸，等等我——
+[name="空"]   知道啦~会拜托街上的熟人们留意的……等等，老板？你要到花车上面去看看？欸，等等我——
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......可颂，拜松，听得见吗？
+[name="德克萨斯"]   ……可颂，拜松，听得见吗？
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -103,7 +103,7 @@
 [Character(name="char_325_bison_1#4")]
 [name="拜松"]   你说的那个指挥塔，我们稍微有点意外发现。
 [Character(name="char_325_bison_1#4",name2="char_201_moeshd#3",focus=2)]
-[name="可颂"]   ......拜松，压低身子，躲到那边的箱子后面，不要被发现。
+[name="可颂"]   ……拜松，压低身子，躲到那边的箱子后面，不要被发现。
 [Character(name="char_325_bison_1#4",name2="char_201_moeshd#3",focus=1)]
 [name="拜松"]   好，德克萨斯，一会联系。
 [Dialog]
@@ -114,7 +114,7 @@
 [Character(name="avg_npc_031")]
 [name="黑帮A"]   我们，以后会怎么样？
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
-[name="黑帮B"]   不知道，从我们挂断首领......挂断甘比诺·里奇的通讯开始，我们就没得选了。
+[name="黑帮B"]   不知道，从我们挂断首领……挂断甘比诺·里奇的通讯开始，我们就没得选了。
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
 [name="黑帮A"]   唉。
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
@@ -163,8 +163,8 @@
 [Blocker(a=0, fadetime=1, block=true)]
 [Character(name="avg_npc_029#2",fadetime=1,block=true)]
 [Delay(time=1)]
-[name="管家"]   ......少爷，对不住。这是老爷交代的工作。
-[name="管家"]  唉，但我竟然对少爷动了手，还让少爷陷入了危险......
+[name="管家"]   ……少爷，对不住。这是老爷交代的工作。
+[name="管家"]  唉，但我竟然对少爷动了手，还让少爷陷入了危险……
 [name="管家"]  等事情结束之后，不如告老还乡吧。
 [name="管家"]  唉，唉！
 [Dialog]
@@ -175,7 +175,7 @@
 [Blocker(a=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="char_102_texas_1#4")]
-[name="德克萨斯"]   ......他们好像遇到麻烦了。
+[name="德克萨斯"]   ……他们好像遇到麻烦了。
 [name="德克萨斯"]   能天使，确认完黑帮的路线之后去和可颂汇合。
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [Character]
@@ -184,12 +184,12 @@
 [name="德克萨斯"]   空。
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
 [Character]
-[name="空"]   诶......今天可疑人物的动向非常复杂，不过他们好像分成两队行动了，可能是陷阱——
+[name="空"]   诶……今天可疑人物的动向非常复杂，不过他们好像分成两队行动了，可能是陷阱——
 [playsound(key="$transmission", volume=0.4)]
 [name="伊斯"]   没有那么复杂。敌人内部出现了问题。这是机会。
 [name="空"]   哇！吓了我一跳！
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......你也回来了啊。
+[name="德克萨斯"]   ……你也回来了啊。
 [name="德克萨斯"]   为什么要黑进自己人的频道，就不能正常通讯吗？
 [Character]
 [name="伊斯"]   这样比较快。
@@ -197,7 +197,7 @@
 [name="伊斯"]   伤心咖啡馆。我突然想起来今天应该放假，所以来凑个热闹。
 [name="伊斯"]   可颂和那个新人的坐标已经发送给你们了，龙门城际网络的速度真是令人舒心。
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......既然如此，解决完各自的任务，就去支援他们吧。
+[name="德克萨斯"]   ……既然如此，解决完各自的任务，就去支援他们吧。
 [name="德克萨斯"]   这是反击的好机会。
 [stopmusic(fadetime=1)]
 [Dialog]
@@ -213,21 +213,21 @@
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=2)]
 [name="卡彭"]   废话，那个莽夫能成什么事，不用管他。
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=1)]
-[name="黑帮"]   ......这样真的好吗。
+[name="黑帮"]   ……这样真的好吗。
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=2)]
 [name="卡彭"]   家族需要的是一个立足之地，至于姓甚名谁，根本无关紧要。
 [name="卡彭"]   还没找到鼠王吗？
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=1)]
-[name="黑帮"]   没有，鼠王实在是太不留痕迹了......
+[name="黑帮"]   没有，鼠王实在是太不留痕迹了……
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=2)]
 [name="卡彭"]   有点耐心，他就像是这座城市的一部分，像是龙门的影子，虽然我们的时间已经不多了。
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=1)]
-[name="黑帮"]   可要是不够谨慎而被鼠王察觉到的话，我们会同时面临三方的压力......
+[name="黑帮"]   可要是不够谨慎而被鼠王察觉到的话，我们会同时面临三方的压力……
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=2)]
 [name="卡彭"]   对谁来说都是如此，如果处于劣势，我宁可让场面变得更混乱些。
 [name="卡彭"]   有甘比诺的消息吗？
 [Character(name="avg_npc_031",name2="avg_npc_027",focus=1)]
-[name="黑帮"]   ......
+[name="黑帮"]   ……
 [Character(name="avg_npc_031",name2="avg_npc_027#2",focus=2)]
 [name="卡彭"]   为什么不说话？
 [Dialog]
@@ -237,7 +237,7 @@
 [Delay(time=2)]
 [name="甘比诺"]   真是见外，有什么事情直接联络我不就好了吗？
 [Character(name="avg_npc_028#4",name2="avg_npc_027#2",focus=2)]
-[name="卡彭"]   ......你是怎么进来的？
+[name="卡彭"]   ……你是怎么进来的？
 [Character(name="avg_npc_028#4",name2="avg_npc_027#2",focus=1)]
 [name="甘比诺"]   不是每个人都能像你一样，毫无愧疚地违背在父亲墓前立下的誓言。
 [Character(name="avg_npc_028#4",name2="avg_npc_027",focus=2)]
@@ -289,7 +289,7 @@
 [Character(name="avg_npc_028",name2="avg_npc_027#2",focus=2)]
 [name="卡彭"]   什——
 [Character(name="char_201_moeshd#2")]
-[name="可颂"]   哎呀？本想着破墙离开的......似乎撞到了不得了的现场？
+[name="可颂"]   哎呀？本想着破墙离开的……似乎撞到了不得了的现场？
 [Character(name="char_201_moeshd")]
 [name="可颂"]   没关系喔，你们继续，我们换条路。
 [Dialog]
@@ -297,7 +297,7 @@
 [PlaySound(key="$d_gen_soldiersrun",volume=0.5)]
 [name="黑帮"]   快追！别让那两个人溜走了！！
 [Character(name="char_325_bison_1")]
-[name="拜松"]   ......好像不太有机会。
+[name="拜松"]   ……好像不太有机会。
 [PlayMusic(intro="$chasing_intro", key="$chasing_loop", volume=0.8, crossfade=1.5)]
 [Character(name="avg_npc_028#4")]
 [name="甘比诺"]   正好，搅局者都到齐了，那就把你们——
@@ -313,7 +313,7 @@
 [Character(name="char_103_angel_1#3")]
 [name="能天使"]   喂~我们来啦！
 [Character(name="char_102_texas_1")]
-[name="德克萨斯"]   ......真巧，全都在这儿了。
+[name="德克萨斯"]   ……真巧，全都在这儿了。
 [Character(name="char_101_sora_1#2")]
 [name="空"]   唔，这架势是要最终决战了吗？是不是早了点？
 [Character(name="char_102_texas_1")]

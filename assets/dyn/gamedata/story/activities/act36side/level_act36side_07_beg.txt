@@ -44,13 +44,13 @@
 [charslot(slot="m",name="avg_4144_chilc_1#7$1",focus="m")]
 [name="齐尔查克"]玛露西尔！你用魔法啊！
 [charslot(slot="m",name="avg_4141_marcil_1#6$1",focus="m")]
-[name="玛露西尔"]我被炸到了......！
-[name="玛露西尔"]咳咳咳！能施展爆炸魔法和冰冻魔法，还能这么精准地定位，这种魔法器具非常高级......
-[name="玛露西尔"]它们动作太快了，很难瞄准......！
+[name="玛露西尔"]我被炸到了……！
+[name="玛露西尔"]咳咳咳！能施展爆炸魔法和冰冻魔法，还能这么精准地定位，这种魔法器具非常高级……
+[name="玛露西尔"]它们动作太快了，很难瞄准……！
 [charslot(slot="m",name="avg_4144_chilc_1#7$1",focus="m")]
 [name="齐尔查克"]那怎么办！
 [charslot(slot="m",name="avg_4141_marcil_1#6$1",focus="m")]
-[name="玛露西尔"]......先跑！它们施魔法我就用魔法对冲！看看能不能跑出它们的攻击范围！
+[name="玛露西尔"]……先跑！它们施魔法我就用魔法对冲！看看能不能跑出它们的攻击范围！
 [Dialog]
 [PlaySound(key="$rungeneral", volume=1,channel="2")]
 [charslot(slot="m",posfrom="0,0",posto="-200,0",duration=1.5)]
@@ -76,14 +76,14 @@
 [charslot]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4142_laios_1#7$1",focus="m")]
-[name="莱欧斯"]——那边好像有村庄！这些东西也都是从那里飞出来的，这次遇到的人对我们很不友好啊......
+[name="莱欧斯"]——那边好像有村庄！这些东西也都是从那里飞出来的，这次遇到的人对我们很不友好啊……
 [charslot(slot="m",name="avg_4142_laios_1#3$1",focus="m")]
 [name="莱欧斯"]玛露西尔！小心！
 [Dialog]
 [charslot(slot="m",name="avg_4141_marcil_1#13$1",focus="m")]
 [name="玛露西尔"]呃——我看到它们的轨迹了！
 [charslot(slot="m",name="avg_4141_marcil_1#20$1",focus="m")]
-[name="玛露西尔"]给我......回去！
+[name="玛露西尔"]给我……回去！
 [Dialog]
 [charslot]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -124,7 +124,7 @@
 [name="玛露西尔"]莱欧斯，我们现在好像真的惹怒他们了！
 [charslot(slot="m",name="avg_4142_laios_1#9$1",focus="m")]
 [name="莱欧斯"]森西，玛露西尔，是时候该认真迎战了！
-[name="莱欧斯"]可惜......还是没找到罗德岛的消息......
+[name="莱欧斯"]可惜……还是没找到罗德岛的消息……
 [Dialog]
 [stopmusic(fadetime=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -153,12 +153,12 @@
 [Delay(time=2)]	
 [charslot(slot="l",focus="none")]
 [stopsound(channel="2")]
-[name="拓荒者B"]嗯？不对啊......基站怎么......
-[name="拓荒者B"]......无人机怎么也完全不听指挥......？信号......老大，老大！！
+[name="拓荒者B"]嗯？不对啊……基站怎么……
+[name="拓荒者B"]……无人机怎么也完全不听指挥……？信号……老大，老大！！
 [Dialog]
 [stopsound(channel="2")]
 [charslot(slot="l",focus="none")]
-[name="拓荒者B"]——天、天灾砸到了基站！无人机......失控了！
+[name="拓荒者B"]——天、天灾砸到了基站！无人机……失控了！
 [charslot(slot="l",name="avg_npc_534_1#1$1",focus="l")]
 [name="拓荒者A"]别慌！先把基站停了！
 [charslot(slot="l",focus="none")]
@@ -174,7 +174,7 @@
 [charslot(slot="r",afrom=0,ato=1,duration=0.5)]
 [Delay(time=2)]	
 [charslot(slot="r",name="avg_npc_534_1#1$1",focus="r")]
-[name="拓荒者B"]啊！！呃、呃，源石回路......主线板......
+[name="拓荒者B"]啊！！呃、呃，源石回路……主线板……
 [Dialog]
 [charslot]
 [PlaySound(key="$rungeneral", volume=1,channel="2")]
@@ -189,7 +189,7 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_090",focus="m")]
-[name="瑞恩"]什么？你躲着点，我来帮你看看......
+[name="瑞恩"]什么？你躲着点，我来帮你看看……
 [Dialog]
 [charslot]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -217,8 +217,8 @@
 [PlaySound(key="$d_gen_transmissionget", volume=1,channel="2")]
 [Delay(time=0.5)]
 [name="瑞恩"]喂，任务记录，这里是瑞恩。
-[name="瑞恩"]首先是接回刻俄柏。呃......这个任务的难度有点高，情报显示这孩子最后出现在这一带，但是找起来可不简单......
-[name="瑞恩"]然后，今天也是灾后回访的第一天，去“玉米窝”看一下情况，希望一切顺......
+[name="瑞恩"]首先是接回刻俄柏。呃……这个任务的难度有点高，情报显示这孩子最后出现在这一带，但是找起来可不简单……
+[name="瑞恩"]然后，今天也是灾后回访的第一天，去“玉米窝”看一下情况，希望一切顺……
 [Dialog]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_gen_explo_n",volume=0.5)]
@@ -226,10 +226,10 @@
 [charslot(slot="m",name="avg_npc_090",focus="m")]
 [name="瑞恩"]什么情况？！拓荒地打起来了？
 [charslot(slot="m",name="avg_npc_090",focus="none")]
-[name="拓荒者B"]啊！！呃、呃，源石回路......主线板......
+[name="拓荒者B"]啊！！呃、呃，源石回路……主线板……
 [charslot(slot="m",name="avg_npc_090",focus="m")]
-[name="瑞恩"]（......没看到外人？是他们自己内部出了问题？）
-[name="瑞恩"]（先试探下吧......这群人都不是什么好惹的......）
+[name="瑞恩"]（……没看到外人？是他们自己内部出了问题？）
+[name="瑞恩"]（先试探下吧……这群人都不是什么好惹的……）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -250,8 +250,8 @@
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_090",focus="m")]
-[name="瑞恩"]（呼......还好，只是无人机失控，要是拓荒地乱了我肯定就交待在这里了......）
-[name="瑞恩"]什么？你躲着点，我来帮你看看......
+[name="瑞恩"]（呼……还好，只是无人机失控，要是拓荒地乱了我肯定就交待在这里了……）
+[name="瑞恩"]什么？你躲着点，我来帮你看看……
 [Dialog]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_gen_explo_n",volume=0.5)]
@@ -284,7 +284,7 @@
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_090",focus="m")]
 [name="瑞恩"]别——
-[name="瑞恩"]......嗯？就四个人？这什么打劫组合？
+[name="瑞恩"]……嗯？就四个人？这什么打劫组合？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -296,7 +296,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]	
 [charslot(slot="m",name="avg_4142_laios_1#9$1",focus="m")]
-[name="莱欧斯"]......两拨人？小心点，他们手里都拿着武器，还有那种玛露西尔都没法对付的魔法器具，不要轻举妄动。
+[name="莱欧斯"]……两拨人？小心点，他们手里都拿着武器，还有那种玛露西尔都没法对付的魔法器具，不要轻举妄动。
 [charslot(slot="m",name="avg_4141_marcil_1#13$1",focus="m")]
 [name="玛露西尔"]气死我了！我的头发都被炸乱了！我很喜欢这个编法的啊！
 [Dialog]
@@ -349,7 +349,7 @@
 [charslot(slot="m",name="avg_4141_marcil_1#4$1",focus="m")]
 [name="玛露西尔"]果然，这些魔法器具都是他们操控的！
 [charslot(slot="m",name="avg_npc_090",focus="m")]
-[name="瑞恩"]哎哟......哎哟......都是祖宗，都劝不动啊......！
+[name="瑞恩"]哎哟……哎哟……都是祖宗，都劝不动啊……！
 [name="瑞恩"]在荒野上打架不知道会引来什么啊，大家先停下来，有话好好说不好吗？
 [Dialog]
 [charslot]
@@ -378,7 +378,7 @@
 [name="森西"]快跑！就我们四个打不过的！
 [charslot(slot="m",name="avg_4144_chilc_1#15$1",focus="m")]
 [name="齐尔查克"]没、没有路了！它们把我们包围起来了！
-[multiline(name="齐尔查克")]先往后退......
+[multiline(name="齐尔查克")]先往后退……
 [charslot(slot="m",posfrom="0,0",posto="-200,0",duration=1.5)]
 [charslot(slot="m",afrom=1,ato=0,duration=1)]
 [Delay(time=1.5)]

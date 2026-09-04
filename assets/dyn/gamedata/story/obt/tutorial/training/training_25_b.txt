@@ -6,7 +6,7 @@
           protectTime=0.5, dialogHead="$avatar_doberm", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")] \
 那是敌人用法术制造的活性源石风暴。<@tu.kw>它具有和源石污染区一样的性质</>，但破坏力还要更甚。
 
-[PopupDialog(dialogHead="$avatar_jesica")]活性源石风暴......它为什么会径直向着我们移动呢？
+[PopupDialog(dialogHead="$avatar_jesica")]活性源石风暴……它为什么会径直向着我们移动呢？
 
 [Tutorial(focusX=-210, focusY=30, focusWidth=120, focusHeight=120,\
           animStyle="Highlight", focusStyle="HighlightCircle", black="$f_tut_black", \

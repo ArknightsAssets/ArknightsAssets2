@@ -16,11 +16,11 @@
 [charslot(slot = "r",focus="r")]
 [name="谨慎的士兵"]精神点，还有两个小时才换班。
 [charslot(slot = "l",focus="l")]
-[name="浮躁的士兵"]*乌萨斯粗口*......冰天雪地的，连一只裂兽都没有。
+[name="浮躁的士兵"]*乌萨斯粗口*……冰天雪地的，连一只裂兽都没有。
 [dialog]
 [charslot(slot = "r",focus="r")]
 [Delay(time=1)]
-[name="谨慎的士兵"]等等......你听到什么声音没有？
+[name="谨慎的士兵"]等等……你听到什么声音没有？
 [charslot(slot = "l",focus="l")]
 [name="浮躁的士兵"]什么——
 [dialog]
@@ -205,15 +205,15 @@
 [charslot(slot="m",name="avg_npc_1970_1#1$1")]
 [name="冷静的矿工"]雷尔金，你还好吗？！
 [charslot(slot="m",name="avg_npc_1963_1#3$1")]
-[name="雷尔金"]......没事，我没事。
+[name="雷尔金"]……没事，我没事。
 [charslot(slot = "m", focus = "n")]
 雷尔金抹去了额头上渗出的鲜血，环视了一圈身边的兄弟姐妹。
 [charslot(slot="m",name="avg_npc_1963_1#1$1")]
-[name="雷尔金"]人少了一半......
+[name="雷尔金"]人少了一半……
 [charslot(slot="m",name="avg_npc_1969_1#1$1")]
-[name="坚定的矿工"]......但我们成功了。
+[name="坚定的矿工"]……但我们成功了。
 [charslot(slot="m",name="avg_npc_1963_1#1$1")]
-[name="雷尔金"]我们成功了......
+[name="雷尔金"]我们成功了……
 [charslot]
 极目远望，圣骏堡的方向依然被一片层叠的针叶林遮住，巨大的冰面似乎在嘲弄他们发起的挑战。
 [charslot(slot="m",name="avg_npc_1963_1#2$1")]
@@ -227,7 +227,7 @@
 [charslot(slot = "m", focus = "n")]
 雷尔金下意识侧过身，却没有在身旁看到那个熟悉的身影。
 [charslot(slot="m",name="avg_npc_1963_1#6$1")]
-[name="雷尔金"]......尼克托？
+[name="雷尔金"]……尼克托？
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -241,7 +241,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [playMusic(intro="$loneliness_intro",key="$loneliness_loop", volume=0.6)]
-[name="尼克托"]呼......呼......
+[name="尼克托"]呼……呼……
 在第一根弩箭发射出去的时候，我就逃走了。
 害怕不是什么可耻的事，只有最蠢的蠢人才不知道害怕。
 雷尔金是个疯子，跟随他的人也是。
@@ -257,15 +257,15 @@
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1967_1#1$1",duration=1)]
 [delay(time=1.5)]
-[name="尼克托"]前面，前面就是沃尔格勒......
-[name="尼克托"]......从头再来吧，尼克托。
+[name="尼克托"]前面，前面就是沃尔格勒……
+[name="尼克托"]……从头再来吧，尼克托。
 [dialog]
 [charslot]
 [playsound(key="$d_avg_shipwhistle")]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1967_1#4$1")]
-[name="尼克托"]*乌萨斯粗口*......
-[name="尼克托"]那是......那是什么东西啊......
+[name="尼克托"]*乌萨斯粗口*……
+[name="尼克托"]那是……那是什么东西啊……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -277,7 +277,7 @@
 [name="坚定的矿工"]对了，火把！
 [name="坚定的矿工"]我们应该点起火把，让其他人知道我们已经成功了！让他们过来会合！
 [charslot(slot="m",name="avg_npc_1963_1#1$1")]
-[name="雷尔金"]对......没错。
+[name="雷尔金"]对……没错。
 [name="雷尔金"]把火生起来吧。
 [dialog]
 [playsound(key="$d_avg_cndlbrn")]
@@ -289,7 +289,7 @@
 [charslot(slot="m",name="avg_npc_1970_1#1$1")]
 [name="冷静的矿工"]什么动静？！
 [charslot(slot="m",name="avg_npc_1969_1#1$1")]
-[name="坚定的矿工"]你、你们看远处......！
+[name="坚定的矿工"]你、你们看远处……！
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -354,7 +354,7 @@
 [curtain(direction = 2,fillfrom = 0.2,fillto = 0,fadetime=0.5)]
 [curtain(direction = 6,fillfrom = 0.2,fillto = 0,block=true,fadetime=0.5)]
 [delay(time=2)]
-直到此刻......
+直到此刻……
 人们才知道他们面对的是什么。
 乌萨斯。
 这就是乌萨斯。
@@ -367,9 +367,9 @@
 [charslot(slot="m",name="avg_npc_1963_1#7$1")]
 [Background(image="66_g11_abandonedsentry",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="雷尔金"]原来......
+[name="雷尔金"]原来……
 [charslot(slot="m",name="avg_npc_1963_1#8$1")]
-[name="雷尔金"]呵，竟然是这样......
+[name="雷尔金"]呵，竟然是这样……
 [dialog]
 [delay(time=1.5)]
 [PlaySound(key="$d_avg_explosion_stone", volume=1)]
@@ -388,29 +388,29 @@
 [charslot(slot="m",name="avg_npc_1730_1#2$1")]
 [name="Raidian"]——！
 [charslot(slot="m",name="avg_1037_amiya3_1#5$1")]
-[name="阿米娅"]Raidian......？
+[name="阿米娅"]Raidian……？
 [playMusic(intro="$batmeeting_intro",key="$batmeeting_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_1730_1#2$1")]
 [name="Raidian"]我刚刚收到了一条公共广播的消息。
-[name="Raidian"]广播里说，乌萨斯的矿脉正在全面枯竭......
-[name="Raidian"]集团军准备完全封锁这个消息，目前至少有一支军队已经来到远北地区......！
+[name="Raidian"]广播里说，乌萨斯的矿脉正在全面枯竭……
+[name="Raidian"]集团军准备完全封锁这个消息，目前至少有一支军队已经来到远北地区……！
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]......！
+[name="阿米娅"]……！
 [name="阿米娅"]这条消息是博士他们传来的吗？
 [charslot(slot="m",name="avg_npc_1730_1#2$1")]
 [name="Raidian"]我不确定，但是很有可能。这是博士对我们的提醒。
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]矿脉枯竭，难道是......
+[name="阿米娅"]矿脉枯竭，难道是……
 [name="阿米娅"]可是，我不明白，乌萨斯想要彻底封锁这条消息？难道他们准备将远北地区所有知道这件事的人都灭口吗？！
 [charslot(slot="m",name="avg_npc_1966_1#4$1")]
-[name="阿洛伊泽"]......果然。
+[name="阿洛伊泽"]……果然。
 [charslot(slot="m",name="avg_npc_1966_1#5$1")]
-[name="阿洛伊泽"]矿脉枯竭的传闻是真的......原来远北地区一直以来发生的种种异常都是有迹可循的，这才是他们一直想要隐瞒的事！
+[name="阿洛伊泽"]矿脉枯竭的传闻是真的……原来远北地区一直以来发生的种种异常都是有迹可循的，这才是他们一直想要隐瞒的事！
 [charslot(slot="m",name="avg_npc_1730_1#5$1")]
 [name="Raidian"]你看上去好像早有预料？
 [charslot(slot="m",name="avg_npc_1966_1#4$1")]
 [name="阿洛伊泽"]直到刚才都还只是一个最悲观的猜想。
-[name="阿洛伊泽"]但如今我有理由相信这消息是真的，我更不会怀疑集团军中的一部分人能做出这种事来......
+[name="阿洛伊泽"]但如今我有理由相信这消息是真的，我更不会怀疑集团军中的一部分人能做出这种事来……
 [name="阿洛伊泽"]现在整片大地上都不会有比远北地区更危险的地方了，我们必须马上离开。
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
 [name="阿米娅"]可是我们还没有和博士他们取得联络——
@@ -423,33 +423,33 @@
 [charslot(slot="m",name="avg_npc_1966_1#4$1")]
 [name="阿洛伊泽"]你们还是不信任我。
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]......我们的确需要确保......
+[name="阿米娅"]……我们的确需要确保……
 [charslot(slot="m",name="avg_npc_1966_1#2$1")]
-[name="阿洛伊泽"]......
+[name="阿洛伊泽"]……
 [charslot(slot="m",name="avg_npc_1966_1#3$1")]
 [name="阿洛伊泽"]“凯尔希”。
 [charslot(slot="m",name="avg_1037_amiya3_1#5$1")]
 [name="阿米娅"]——！
 [charslot(slot="m",name="avg_npc_1730_1#2$1")]
-[name="Raidian"]......
+[name="Raidian"]……
 [charslot(slot="m",name="avg_npc_1966_1#10$1")]
 [name="阿洛伊泽"]就在不久前，乌萨斯再次注意到了这个名字。这位神秘的女士在乌萨斯——乃至整片大地留下的痕迹，都太过离奇。
 [name="阿洛伊泽"]与她有关的信息于乌萨斯而言已经接近最高机密，也正因为如此，有人期待她能够解答乌萨斯如今面临的一些问题。
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]你究竟是谁......是什么身份？
+[name="阿米娅"]你究竟是谁……是什么身份？
 [charslot(slot="m",name="avg_npc_1966_1#4$1")]
-[name="阿洛伊泽"]重新自我介绍一下吧......
-[name="阿洛伊泽"]阿洛伊泽·瓦西里耶夫娜·戈尔奇科娃，乌萨斯近卫军皇家直属营中尉。我的上级之一......是维特议长。
-[name="阿洛伊泽"]我这次来到远北地区有两项任务——调查中心矿区的变异感染者及相关异常事件，以及......
-[name="阿洛伊泽"]......与罗德岛取得联系。
+[name="阿洛伊泽"]重新自我介绍一下吧……
+[name="阿洛伊泽"]阿洛伊泽·瓦西里耶夫娜·戈尔奇科娃，乌萨斯近卫军皇家直属营中尉。我的上级之一……是维特议长。
+[name="阿洛伊泽"]我这次来到远北地区有两项任务——调查中心矿区的变异感染者及相关异常事件，以及……
+[name="阿洛伊泽"]……与罗德岛取得联系。
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_npc_1966_1#4$1")]
 [name="阿洛伊泽"]我知道，这是一次迟到的坦诚，我也的确想过将这个秘密保留到最后。
 [name="阿洛伊泽"]不管你们现在是否相信，但我要是有任何敌意，早在布列斯克城内，各位就已经身陷囹圄了。
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
 [name="阿米娅"]罗德岛并不欢迎这样的合作方式，但我同样可以理解您的立场。
-[name="阿米娅"]让我们先搁置争议吧......阿洛伊泽小姐，您准备的撤离方案是什么？
+[name="阿米娅"]让我们先搁置争议吧……阿洛伊泽小姐，您准备的撤离方案是什么？
 [charslot(slot="m",name="avg_npc_1966_1#4$1")]
 [name="阿洛伊泽"]涅瓦湖西南岸，离这里大约十公里的地方，有我事先准备好的载具。
 [name="阿洛伊泽"]准备得不算充裕，但应该够接走这里的所有人。
@@ -457,10 +457,10 @@
 [charslot(slot="m",name="avg_1037_amiya3_1#6$1")]
 [name="阿米娅"]Mantra女士说，这里的人都还处在圣愚的影响下，我们需要先让他们摆脱圣愚的控制。
 [charslot(slot="m",name="avg_npc_1966_1#4$1")]
-[name="阿洛伊泽"]......她能发现圣愚，却没有解决办法吗？
+[name="阿洛伊泽"]……她能发现圣愚，却没有解决办法吗？
 [charslot(slot="m",name="avg_npc_1966_1#5$1")]
 [name="阿洛伊泽"]阿米娅小姐，我绝对不愿意坐视悲剧发生，但更不会忘记自己的使命。我必须确保，我们当中有人可以活着将消息带回圣骏堡。
-[name="阿洛伊泽"]如果你们执意要保护这里的所有人一起离开......
+[name="阿洛伊泽"]如果你们执意要保护这里的所有人一起离开……
 [name="阿洛伊泽"]我最多等你们一个小时。
 [stopmusic(fadetime=2)]
 [Dialog]
@@ -481,29 +481,29 @@ Mantra仔细地将自己的感知投射到这里的每一个角落。
 [playMusic(intro="$distressed_intro",key="$distressed_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4207_branch_1#9$1",duration=1.5)]
 [delay(time=2)]
-[name="别乔克"]......奶奶......
-[name="别乔克"]我们......走吧？离开，这里，好不好？
-[name="别乔克"]如果您，起身，所有人都会......和您，一起。
-[name="别乔克"]我们去，南方，去圣骏堡，或者去......任何地方。只是不在......
+[name="别乔克"]……奶奶……
+[name="别乔克"]我们……走吧？离开，这里，好不好？
+[name="别乔克"]如果您，起身，所有人都会……和您，一起。
+[name="别乔克"]我们去，南方，去圣骏堡，或者去……任何地方。只是不在……
 [name="别乔克"]这里。
-[name="别乔克"]......好不好？
+[name="别乔克"]……好不好？
 [charslot(slot = "m", focus = "n")]
 别乔克单膝跪地，跪在被她认作奶奶的虚影身前。她握住在Mantra眼中并不存在的双手，然后将脸颊紧紧地贴了上去。
 直到看见女孩脸上流下的一行泪水，Mantra才惊觉这信任如此令人战栗，即使没有任何回应，女孩仍继续这样做着。
 [charslot]
 [charslot(slot="m",name="avg_4204_mantra_1#1$1")]
-[name="Mantra"]......
+[name="Mantra"]……
 [charslot(slot = "m", focus = "n")]
 Mantra回想起刚才Raidian的话。
 “别乔克的父母因为组织罢工而被判处死刑，奶奶是她如今唯一的亲人。”
 “似乎在矿区里，所有人都认识娜迦，甚至就连卫兵也不例外。”
 “他们会向她寻求帮助，比向流动医疗队求助更加频繁。病痛时寻求宽慰，心伤时寻求开解，最后都在她的话语中获得奇异的平静。”
-“......我早该意识到有问题，我竟然以为她只是一位颇有名望的老人。”
+“……我早该意识到有问题，我竟然以为她只是一位颇有名望的老人。”
 [charslot]
 [charslot(slot="m",name="avg_4207_branch_1#9$1")]
-[name="别乔克"]奶奶，求您......
+[name="别乔克"]奶奶，求您……
 [charslot(slot="m",name="avg_4204_mantra_1#3$1")]
-[name="Mantra"]......
+[name="Mantra"]……
 [charslot(slot = "m", focus = "n")]
 Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海中。
 [Dialog]
@@ -523,10 +523,10 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [delay(time=2)]
 [charslot(slot = "m", focus = "n")]
 别乔克转头，只看见站在自己身后的斐迪亚。
-[name="别乔克"]您、您知道，我的名字？可我没有......告诉过您......
+[name="别乔克"]您、您知道，我的名字？可我没有……告诉过您……
 [charslot(slot="m",name="avg_4204_mantra_1#10$1",glitch=true)]
 [name="Mantra"]至少在这里，你的表达应该是清晰的。
-[name="Mantra"]可是你的话语一如平常，说明受到的影响并不深刻......
+[name="Mantra"]可是你的话语一如平常，说明受到的影响并不深刻……
 [charslot(slot="m",name="avg_4204_mantra_1#1$1",glitch=true)]
 [name="Mantra"]也许你还有清醒的可能。
 [charslot(slot = "m", focus = "n")]
@@ -534,7 +534,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot="m",name="avg_4204_mantra_1#1$1",glitch=true)]
 [name="Mantra"]娜迦是你的亲人？
 [charslot(slot = "m", focus = "n")]
-[name="别乔克"]是的，她是......我的奶奶。
+[name="别乔克"]是的，她是……我的奶奶。
 [name="别乔克"]也是我，唯一的，亲人。
 [charslot(slot="m",name="avg_4204_mantra_1#2$1",glitch=true)]
 [name="Mantra"]你确信吗？
@@ -545,9 +545,9 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [name="Mantra"]让他们既不想活下去，也不会主动结束痛苦，选择死去。
 [charslot(slot = "m", focus = "n")]
 [name="别乔克"]不、不会——奶奶没有！
-[name="别乔克"]她只是，累了。就像大家......大家都只是，累了。
-[name="别乔克"]我们想活。我们当然想！可总有人，不让我们......
-[name="别乔克"]总有人......
+[name="别乔克"]她只是，累了。就像大家……大家都只是，累了。
+[name="别乔克"]我们想活。我们当然想！可总有人，不让我们……
+[name="别乔克"]总有人……
 [charslot(slot="m",name="avg_4204_mantra_1#1$1",glitch=true)]
 [name="Mantra"]谁？
 [charslot(slot = "m", focus = "n")]
@@ -555,7 +555,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot="m",name="avg_4204_mantra_1#1$1",glitch=true)]
 [name="Mantra"]你们击退了纠察队。
 [charslot(slot = "m", focus = "n")]
-[name="别乔克"]那也还有，卫兵和......研究所里，那些人。
+[name="别乔克"]那也还有，卫兵和……研究所里，那些人。
 [charslot(slot="m",name="avg_4204_mantra_1#1$1",glitch=true)]
 [name="Mantra"]他们也不在这里。
 [charslot(slot = "m", focus = "n")]
@@ -563,9 +563,9 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot="m",name="avg_4204_mantra_1#1$1",glitch=true)]
 [name="Mantra"]还有谁不让你们活着？
 [charslot(slot = "m", focus = "n")]
-[name="别乔克"]黑漆漆的......怪物......
-[name="别乔克"]还有......还有......
-[name="别乔克"]奇怪？我想不起......我想不起来。
+[name="别乔克"]黑漆漆的……怪物……
+[name="别乔克"]还有……还有……
+[name="别乔克"]奇怪？我想不起……我想不起来。
 [charslot(slot="m",name="avg_4204_mantra_1#4$1",glitch=true)]
 [name="Mantra"]我重新问一遍。
 [name="Mantra"]被你握着手的那个人，是你的亲人吗？
@@ -596,10 +596,10 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot="m",name="avg_npc_1964_1#1$1",focus="n")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 奶奶就在她的面前。唱着摇篮曲的奶奶。
-[name="别乔克"]我看到......娜迦奶奶。
+[name="别乔克"]我看到……娜迦奶奶。
 [name="Mantra"]不。你仔细看。
 奶奶在她的面前。双手冰冷的奶奶。
-[name="别乔克"]我......我......
+[name="别乔克"]我……我……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -609,7 +609,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [name="Mantra"]现在，你看到什么？
-[name="别乔克"]我看到......圆。还看到——
+[name="别乔克"]我看到……圆。还看到——
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -631,7 +631,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [delay(time=1)]
 [name="别乔克"]——红色。
 别乔克不断摇头。
-[name="别乔克"]为什么......
+[name="别乔克"]为什么……
 [name="别乔克"]总是红色？
 [dialog]
 [Image(image="66_i08_2",screenadapt="coverall",fadetime=5)]
@@ -658,7 +658,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [playMusic(intro="$storyendjp_intro",key="$storyendjp_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_175",duration=1)]
 [delay(time=2)]
-[name="挑剔的女性"]呼，乌萨斯这鬼天气可真是冷得要命！哪里像是秋天......
+[name="挑剔的女性"]呼，乌萨斯这鬼天气可真是冷得要命！哪里像是秋天……
 [name="挑剔的女性"]露天的宴会，既没有草坪，也没有野餐桌？您说说，您邀请我们到这儿来，究竟能欣赏些什么？
 [dialog]
 [charslot]
@@ -674,12 +674,12 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot="m",name="avg_npc_177")]
 [name="殷勤的男性"]一对密谋组织感染者进行罢工的矿工，在举事时被当场抓获。
 [charslot(slot="m",name="avg_npc_175")]
-[name="挑剔的女性"]呀，这可真是......
+[name="挑剔的女性"]呀，这可真是……
 [charslot(slot="m",name="avg_npc_177")]
 [name="殷勤的男性"]是啊，事件性质极其恶劣，听说女大公签署死刑命令的时候还落下泪来。
 [name="殷勤的男性"]不过，这里对感染者没有执行人道死刑的先例。走两步路把他们直接埋进沼泽里当然可以，但那不就白白辜负了这少有的死刑判决吗？
 [name="殷勤的男性"]所以，我们就在这儿了。
-[name="殷勤的男性"]按照流程，最开始上身的是鞭刑，据说还能让我们这些花了门票钱的嘉宾来选鞭子的样式，带不带刀片，沾不沾盐水......
+[name="殷勤的男性"]按照流程，最开始上身的是鞭刑，据说还能让我们这些花了门票钱的嘉宾来选鞭子的样式，带不带刀片，沾不沾盐水……
 [charslot(slot="m",name="avg_npc_175")]
 [name="挑剔的女性"]万一力度没控制好，他们突然死了，身上的石头炸在我们面前怎么办？我的裙子可是为这趟旅程新做的。
 [charslot(slot="m",name="avg_npc_177")]
@@ -699,7 +699,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot="r",name="avg_npc_1972_1#1$1",duration=1)]
 [delay(time=2)]
 [charslot(slot = "m", focus = "r")]
-[name="执勤卫兵"]女的、女的还在说些大逆不道的话......
+[name="执勤卫兵"]女的、女的还在说些大逆不道的话……
 [charslot(slot = "m", focus = "l")]
 [name="不耐烦的卫兵"]男的已经死了？
 [charslot(slot = "m", focus = "r")]
@@ -712,7 +712,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot = "m", focus = "l")]
 [name="不耐烦的卫兵"]她叫了吗？
 [charslot(slot = "m", focus = "r")]
-[name="执勤卫兵"]没、没！一声都没，一直在翻来覆去地说那些“诉求”，说“为了矿区里死掉的其他孩子”......
+[name="执勤卫兵"]没、没！一声都没，一直在翻来覆去地说那些“诉求”，说“为了矿区里死掉的其他孩子”……
 [name="执勤卫兵"]我一句都听不懂！她肯定是疯了。
 [charslot(slot = "m", focus = "l")]
 [name="不耐烦的卫兵"]不疯也不会想着让所有人罢工了。
@@ -728,7 +728,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [charslot(slot = "m", focus = "r")]
 [name="执勤卫兵"]她出生在矿井里，那她就是矿工。等她爹妈都咽气了，她还得拿着她妈妈的矿灯和编号，继续下矿的。
 [charslot(slot = "m", focus = "l")]
-[name="不耐烦的卫兵"]......她手上拿灯了吗？你看到她手上拿着矿灯了吗？
+[name="不耐烦的卫兵"]……她手上拿灯了吗？你看到她手上拿着矿灯了吗？
 [charslot(slot = "m", focus = "r")]
 [name="执勤卫兵"]没、没有！
 [charslot(slot = "m", focus = "l")]
@@ -741,14 +741,14 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1970_1#1$1",duration=1)]
 [delay(time=2)]
-[name="矿工"]别乔克......孩子，你拿着。你拿着这些。黄油、肉糜、巧克力......对。
-[name="矿工"]呃......
+[name="矿工"]别乔克……孩子，你拿着。你拿着这些。黄油、肉糜、巧克力……对。
+[name="矿工"]呃……
 [name="矿工"]别、别误会！我家那口子绝对没有出卖你爹娘！这是我下井，我推车，我自己挣的！
 [name="矿工"]之后你家就只有你和你奶奶了，你要好好待她，听到了吗？
-[name="矿工"]她刚才找我借了剪刀，也不用还给我了。有什么困难，就来找我......
+[name="矿工"]她刚才找我借了剪刀，也不用还给我了。有什么困难，就来找我……
 [name="矿工"]我能帮的都会帮。
 [charslot]
-[name="别乔克"]......
+[name="别乔克"]……
 [charslot(slot="m",name="avg_npc_1970_1#1$1")]
 [name="矿工"]唉。要是我的孩子还活着，也该有你这么大了。
 [charslot]
@@ -761,13 +761,13 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 总之，后来我看到红色——
 红色流淌在白得发灰的塑料上。
-我以为我回到了外面，回到了那片空地上......但，不，不是。
+我以为我回到了外面，回到了那片空地上……但，不，不是。
 是奶奶。
 [dialog]
 [playsound(key="$d_avg_walkfast")]
 [delay(time=2)]
 [name="别乔克"]啊——啊！
-[name="别乔克"]啊......
+[name="别乔克"]啊……
 经过昨天，还有今天，我知道人身体里的红色并不是无穷无尽的。它会流干，它会让人痛苦，它会带来死亡。
 于是我试图用手把那些流向四周的红色留住，像小时候和朋友玩过的那个游戏。
 “看啊，谁捧起的流水最多，谁就拥有了最多的幸福。”
@@ -778,7 +778,7 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 我留不住。
 我应该留住。
 我留不——
-[name="别乔克"]奶奶......
+[name="别乔克"]奶奶……
 [name="别乔克"]奶奶。
 失温的身体在我眼前陷进塑料里，陷进泥土中。我抬起头。我看到“它”。
 一个苍白的、站立的虚影。
@@ -796,24 +796,24 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3,block=true)]
 [delay(time=1)]
 [name="娜迦？"]我在。
-[name="别乔克"]......您曾经让我，忍耐，和，原谅。
+[name="别乔克"]……您曾经让我，忍耐，和，原谅。
 [name="娜迦？"]为了活着，是的。
-[name="别乔克"]但我们现在，还要......忍耐？
-[name="别乔克"]现在......忍耐，并分担，其他的痛苦，只会死，也只有死。
-[name="别乔克"]难道忍耐，其实只为......一无所有吗？
+[name="别乔克"]但我们现在，还要……忍耐？
+[name="别乔克"]现在……忍耐，并分担，其他的痛苦，只会死，也只有死。
+[name="别乔克"]难道忍耐，其实只为……一无所有吗？
 [name="娜迦？"]渴望拥有任何事物，会滋生的只是罪孽。你那受苦的灵魂，此刻更需要永恒的安宁。
 [name="娜迦？"]孩子，来我怀中。
-[name="别乔克"]......难道，您也原谅了？
+[name="别乔克"]……难道，您也原谅了？
 [name="娜迦？"]我原谅了。
 [name="娜迦？"]我们需要接受乌萨斯赐予的生，一如接受乌萨斯赐予的死。不做选择，不做挣扎。
-[name="别乔克"]害死妈妈，害死爸爸......害死你亲生的，孩子。你原谅了？
+[name="别乔克"]害死妈妈，害死爸爸……害死你亲生的，孩子。你原谅了？
 [name="娜迦？"]是的，我原谅。
 [name="别乔克"]“我原谅”？
-[name="别乔克"]......不......
-[name="别乔克"]那就......不是。
+[name="别乔克"]……不……
+[name="别乔克"]那就……不是。
 [name="别乔克"]你不是，娜迦奶奶。
 [name="别乔克"]奶奶不会这样，原谅。不会为了，得到平静，而原谅。
-[name="别乔克"]她不原谅，她不忍耐。她死了，埋进......泥土里。
+[name="别乔克"]她不原谅，她不忍耐。她死了，埋进……泥土里。
 [stopmusic(fadetime=2)]
 [Dialog]
 [delay(time=2)]
@@ -835,14 +835,14 @@ Mantra注视着眼前的女孩，让自己的声音缓缓出现在她的脑海�
 [Image(image="66_i10_2",screenadapt="coverall",fadetime=1)]
 [delay(time=3)]
 [name="？？？"]我是？
-[name="？？？"]■■，不顺从■■......
-[name="？？？"]便......■■毁灭。
+[name="？？？"]■■，不顺从■■……
+[name="？？？"]便……■■毁灭。
 [name="？？？"]■■。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="Mantra"]别乔克，退后！
 [name="别乔克"]女士，她不是！她不是，娜迦奶奶。
 [name="Mantra"]是的，它不是。
-[name="别乔克"]......可如果，她不是，奶奶。
+[name="别乔克"]……可如果，她不是，奶奶。
 [name="别乔克"]那她又是谁？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -872,13 +872,13 @@ Mantra周身浮动着源石技艺的特殊光芒，在她的助力下，敌人�
 [name="Mantra"]“圣愚”。
 [name="Mantra"]它就是你问过的圣愚，是有着这一名称的邪魔造物。
 [name="Mantra"]它也许曾经是人类，但如今已和这一概念相去甚远。
-[name="别乔克"]我不明白......
+[name="别乔克"]我不明白……
 [name="Mantra"]你不必。
 [name="Mantra"]即使我曾有万分之一的可能成为它，我也从未弄懂它的本质。
 [name="Mantra"]而你只是在错误的时间看到了它，呼唤了它。仅此而已。
 [name="别乔克"]错误的时间？
-[name="别乔克"]所以......从一开始，就是错的？
-[name="？？？"]■■■，■■......■■。
+[name="别乔克"]所以……从一开始，就是错的？
+[name="？？？"]■■■，■■……■■。
 [name="Mantra"]这不是你的错，别乔克。
 [name="Mantra"]从现在起，这里由我接手。
 [Dialog]

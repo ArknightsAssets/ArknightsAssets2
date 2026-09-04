@@ -32,12 +32,12 @@
 [charslot(slot="l",name="avg_npc_275",focus="l")]
 [name="身手矫健的山雪鬼"]嗬！哈！
 [charslot(slot="r",name="avg_npc_275",focus="r")]
-[name="气喘吁吁的山雪鬼"]呼......呼......
+[name="气喘吁吁的山雪鬼"]呼……呼……
 [Dialog]
 [charslot]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_275",focus="m")]
-[name="精疲力尽的山雪鬼"]哈......！嚯啊！
+[name="精疲力尽的山雪鬼"]哈……！嚯啊！
 [Dialog]
 [PlaySound(key="$d_avg_snowrun", volume=1, loop=false, channel="b")]
 [StopSound(channel="b", fadetime=1.5)]
@@ -77,7 +77,7 @@
 [Delay(time=1)]
 [name="？？？"]你们都没吃饭？
 [name="？？？"]再来。
-[name="精疲力尽的山雪鬼"]老大，不、不行了，真的不行了......
+[name="精疲力尽的山雪鬼"]老大，不、不行了，真的不行了……
 [Dialog]
 [PlaySound(key="$d_avg_snowfootstep", volume=1, loop=true, channel="j")]
 [StopSound(channel="j", fadetime=3)]
@@ -100,7 +100,7 @@
 [charslot(slot="r",name="avg_npc_275",focus="r")]
 [name="斗志昂扬的山雪鬼"]是！
 [charslot(slot="l",name="avg_npc_275",focus="l")]
-[name="气喘吁吁的山雪鬼"]呼......呼......嗬啊！
+[name="气喘吁吁的山雪鬼"]呼……呼……嗬啊！
 [Dialog]
 [charslot(slot="l",name="avg_npc_275",focus="all")]
 [delay(time=0.2)]
@@ -119,13 +119,13 @@
 [name="锏"]总体还是太弱。
 [Dialog]
 [charslot]
-[name="身手矫健的山雪鬼"]那哪能和老大比......
-[name="精疲力尽的山雪鬼"]哈......呼......
+[name="身手矫健的山雪鬼"]那哪能和老大比……
+[name="精疲力尽的山雪鬼"]哈……呼……
 [name="精疲力尽的山雪鬼"]能让老大夸一句，这段时间的训练也算值得了。
 [name="斗志昂扬的山雪鬼"]还不够！迟早有一天，我也要像老大那样，能单手切碎山石！
-[name="气喘吁吁的山雪鬼"]就凭你......
+[name="气喘吁吁的山雪鬼"]就凭你……
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",focus="m")]
-[name="锏"]......
+[name="锏"]……
 [name="锏"]看来你们休息够了。
 [name="锏"]那就再来。
 [Dialog]
@@ -143,13 +143,13 @@
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",focus="m")]
 [name="锏"]不要慌。
 [charslot(slot="m",name="avg_npc_275",focus="m")]
-[name="慌张的山雪鬼"]呼......呼......
-[name="慌张的山雪鬼"]呼......
+[name="慌张的山雪鬼"]呼……呼……
+[name="慌张的山雪鬼"]呼……
 [charslot(slot="m",name="avg_4116_blkkgt_1#10$1",focus="m")]
 [name="锏"]发生了什么事？
 [charslot(slot="m",name="avg_npc_275",focus="m")]
 [name="慌张的山雪鬼"]啊，大事，出大事了！
-[name="慌张的山雪鬼"]山下那边忽然见血了......我们都应付不来！
+[name="慌张的山雪鬼"]山下那边忽然见血了……我们都应付不来！
 [name="慌张的山雪鬼"]十万火急！老大你快去看看吧！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -179,9 +179,9 @@
 [charslot(slot="m",name="avg_npc_281_1#1$1",focus="m")]
 [name="急躁的母亲"]怎么说话呢！不许拿手指着别人，圣女大人不喜欢不礼貌的孩子，还不快道歉！
 [charslot(slot="m",name="avg_npc_281_1#1$1",focus="n")]
-[name="淘气的小孩"]对不起......
+[name="淘气的小孩"]对不起……
 [charslot(slot="m",name="avg_npc_281_1#1$1",focus="m")]
-[name="急躁的母亲"]哎，这位先生，真是对不起啊，孩子不懂事......
+[name="急躁的母亲"]哎，这位先生，真是对不起啊，孩子不懂事……
 [Dialog]
 [charslot]
 [Delay(time=0.2)]
@@ -200,7 +200,7 @@
 [PlaySound(key="$d_avg_crwddiscuss_inside", channel="slide", loop=true, volume=0.4)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="怪帽子外国佬"]......
+[name="怪帽子外国佬"]……
 [Dialog]
 [BackgroundTween(xFrom=0, xTo=-50, duration=0.7, block=true)]
 [Delay(time=1)]
@@ -215,10 +215,10 @@
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="怪帽子外国佬"]（车厢内的总人数明显超过定员。）
 [name="怪帽子外国佬"]（当地平民和观光客的人数基本持平，唔，作为观光列车，这倒是少见。）
-[name="怪帽子外国佬"]（最后排靠墙角堆放的麻袋有点古怪......麻袋内有异动，是违规携带的活物？）
-[name="怪帽子外国佬"]（唔，没有其他异常，也没有值得在意的人物......）
+[name="怪帽子外国佬"]（最后排靠墙角堆放的麻袋有点古怪……麻袋内有异动，是违规携带的活物？）
+[name="怪帽子外国佬"]（唔，没有其他异常，也没有值得在意的人物……）
 [name="怪帽子外国佬"]（情报只指向开往银心湖的列车，实际线索果然没有那么好找。）
-[name="怪帽子外国佬"]（还是得找个机会去包厢检查一下......）
+[name="怪帽子外国佬"]（还是得找个机会去包厢检查一下……）
 [Dialog]
 [stopsound(channel="slide", fadetime=1.5)]
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="n")]
@@ -230,13 +230,13 @@
 [PlaySound(key="$d_avg_cardoorc", volume=0.4, loop=false, channel="kk",delay=0.3)]
 咚咚。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="怪帽子外国佬"]......
+[name="怪帽子外国佬"]……
 [Dialog]
 [charslot]
 从刚刚起，椅背后方就一直传来异动。
 谢拉格的列车上，难道有什么专门踢人椅背的怪兽吗？
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="怪帽子外国佬"]............
+[name="怪帽子外国佬"]…………
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_cardoorc",volume=0.4)]
@@ -251,7 +251,7 @@
 [name="淘气的小孩"]怪帽子叔叔，怪帽子叔叔。
 [name="淘气的小孩"]叔叔，你是不是特别喜欢坐车呀，前两天我也看到你了！
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="怪帽子外国佬"]......你见过我？
+[name="怪帽子外国佬"]……你见过我？
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="n")]
 [name="淘气的小孩"]见过！
 [name="淘气的小孩"]叔叔，你是不是之前没见过铁轨和火车，所以才特别喜欢坐车啊？
@@ -261,15 +261,15 @@
 [charslot]
 [name="淘气的小孩"]叔叔你怎么还咳嗽了呀？别害羞，我不会笑话你的！
 [name="淘气的小孩"]我们这的火车可好可厉害了，我也好喜欢啊！我妈说，都是圣女大人和恩希欧迪斯老爷厉害，是耶拉冈德保佑我们呢！
-[name="淘气的小孩"]不如......我把我的小火车玩具借给你，我们一起玩开火车游戏吧，叔叔！
+[name="淘气的小孩"]不如……我把我的小火车玩具借给你，我们一起玩开火车游戏吧，叔叔！
 [charslot(slot="m",name="avg_npc_281_1#1$1",focus="m")]
 [name="急躁的母亲"]玩什么玩具！你乖乖回来坐好，别去烦人家！
 [name="急躁的母亲"]实在不好意思啊，先生，打扰你了。
 [name="急躁的母亲"]这孩子就是欠教训，我一定好好管教他！
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="怪帽子外国佬"]不，没什么......
-[name="怪帽子外国佬"]（......）
-[name="怪帽子外国佬"]（这顶帽子......）
+[name="怪帽子外国佬"]不，没什么……
+[name="怪帽子外国佬"]（……）
+[name="怪帽子外国佬"]（这顶帽子……）
 [name="怪帽子外国佬"]（看起来很奇怪吗？）
 [Dialog]
 [stopmusic(fadetime=1.5)]
@@ -289,12 +289,12 @@
 [charslot(slot = "m", action="shake",random=true, power=5, times=60,duration=0.3)]
 [multiline(name="哈洛德")]哎哟！有什么东西在攻击我的脚趾！
 [charslot(slot="m",name="avg_194_leto_1#6$1",focus="m")]
-[name="烈夏"]这是......羽兽？
+[name="烈夏"]这是……羽兽？
 [Dialog]
 [charslot]
 [name="出逃的羽兽"]（用力啄咬）
 [charslot(slot="m",name="avg_4114_harold_1#6$1",focus="m")]
-[name="哈洛德"]哎、哎哎哎，羽兽兄，高抬贵“首”......！
+[name="哈洛德"]哎、哎哎哎，羽兽兄，高抬贵“首”……！
 [name="哈洛德"]欸！
 [Dialog]
 [charslot]
@@ -327,7 +327,7 @@
 [charslot(slot="r",name="avg_194_leto_1#1$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="r",name="avg_194_leto_1#1$1",focus="r")]
-[name="烈夏"]呼......哈！
+[name="烈夏"]呼……哈！
 [name="烈夏"]挤死我了，终于又能坐下来了！
 [charslot(slot="r",name="avg_194_leto_1#8$1",focus="r")]
 [name="烈夏"]没想到这趟车的坐票这么难买，这次真是多谢你帮忙，大叔！
@@ -336,7 +336,7 @@
 [charslot(slot="r",name="avg_194_leto_1#8$1",focus="r")]
 [name="烈夏"]对我不用这么客气，也别女士女士的了，叫我罗莎琳就行。
 [charslot(slot="l",name="avg_4114_harold_1#14$1",focus="l")]
-[multiline(name="哈洛德")]那么恭敬不如从命......
+[multiline(name="哈洛德")]那么恭敬不如从命……
 [charslot(slot="l",name="avg_4114_harold_1#1$1",focus="l")]
 [multiline(name="哈洛德")]“罗莎琳”，这是一个很适合你的名字。非常动听。
 [charslot(slot="r",name="avg_194_leto_1#1$1",focus="r")]
@@ -365,7 +365,7 @@
 [name="哈洛德"]啊，哈哈，找茬？绝无此事！
 [name="哈洛德"]我可是已经被谢拉格的风景人文迷得神魂颠倒，甚至开始考虑退休之后要不要干脆来这里养老了呢！
 [charslot(slot="l",name="avg_4114_harold_1#1$1",focus="l")]
-[name="哈洛德"]嗯，嗯，只要不出大问题，我们当然就可以是观光客......
+[name="哈洛德"]嗯，嗯，只要不出大问题，我们当然就可以是观光客……
 [charslot(slot="r",name="avg_194_leto_1#13$1",focus="r")]
 [name="烈夏"]那要是——
 [charslot(slot="l",name="avg_4114_harold_1#1$1",focus="l")]
@@ -381,23 +381,23 @@
 [charslot(slot="l",name="avg_4114_harold_1#1$1",focus="l")]
 [name="哈洛德"]哦，令堂是乌萨斯人？
 [charslot(slot="r",name="avg_194_leto_1#8$1",focus="r")]
-[name="烈夏"]对。不过我妈告诉我说，我是在谢拉格出生的，我爹是个谢拉格人......
+[name="烈夏"]对。不过我妈告诉我说，我是在谢拉格出生的，我爹是个谢拉格人……
 [name="烈夏"]小时候的事我记不太清了，要说是旅行的话，也算是吧。
 [charslot(slot="l",name="avg_4114_harold_1#1$1",focus="l")]
 [name="哈洛德"]唔，原来如此。
-[name="哈洛德"]这么说来，从见面起我就一直想问......
+[name="哈洛德"]这么说来，从见面起我就一直想问……
 [name="哈洛德"]罗莎琳，你一直抱在怀里的盒子是什么？
 [charslot(slot="r",name="avg_194_leto_1#7$1",focus="r")]
-[name="烈夏"]这是......
+[name="烈夏"]这是……
 [charslot(slot="r",name="avg_194_leto_1#2$1",focus="r")]
-[name="烈夏"]......
+[name="烈夏"]……
 [charslot(slot="l",name="avg_4114_harold_1#1$1",focus="l")]
 [name="哈洛德"]抱歉，如果有冒犯到你的个人隐私，你可以什么都不用说。
 [charslot(slot="r",name="avg_194_leto_1#9$1",focus="r")]
-[name="烈夏"]没事。也没什么不好说的，我只是在想该怎么说......
-[name="烈夏"]这是我妈托付给我的......遗物。
+[name="烈夏"]没事。也没什么不好说的，我只是在想该怎么说……
+[name="烈夏"]这是我妈托付给我的……遗物。
 [charslot(slot="l",name="avg_4114_harold_1#16$1",focus="l")]
-[name="哈洛德"]这......
+[name="哈洛德"]这……
 [charslot(slot="l",name="avg_4114_harold_1#12$1",focus="l")]
 [name="哈洛德"]请容许我表达哀悼之情。
 [name="哈洛德"]我很抱歉提及你的伤心之事，罗莎琳。
@@ -420,21 +420,21 @@
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",focus="m")]
-[name="锏"]......
+[name="锏"]……
 [charslot(slot="m",name="avg_npc_279_1#1$1",focus="m")]
-[name="赶驮兽的牧民"]锏小姐，这......
+[name="赶驮兽的牧民"]锏小姐，这……
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",focus="m")]
 [name="锏"]已经没事了。
 [name="锏"]该解决的，我都解决了。
 [charslot(slot="m",name="avg_npc_279_1#1$1",focus="m")]
-[name="赶驮兽的牧民"]多亏了您......锏小姐。
-[name="赶驮兽的牧民"]不然谁知道会变成什么样，耶拉冈德在上，都是活生生的......
+[name="赶驮兽的牧民"]多亏了您……锏小姐。
+[name="赶驮兽的牧民"]不然谁知道会变成什么样，耶拉冈德在上，都是活生生的……
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",focus="m")]
 [name="锏"]我只能做到这一步。
 [charslot(slot="m",name="avg_4116_blkkgt_1#5$1",focus="m")]
-[name="锏"]抱歉。场面......不太好看。
+[name="锏"]抱歉。场面……不太好看。
 [charslot(slot="m",name="avg_npc_279_1#1$1",focus="m")]
-[name="赶驮兽的牧民"]唉，现在也只能这样......
+[name="赶驮兽的牧民"]唉，现在也只能这样……
 [charslot(slot="m",name="avg_npc_275",focus="m")]
 [name="山雪鬼"]老大，你身上的血迹要不要处理一下？
 [charslot(slot="m",name="avg_4116_blkkgt_1#11$1",focus="m")]
@@ -444,7 +444,7 @@
 [name="锏"]现在最要紧的是找到“那个人”。
 [charslot(slot="m",name="avg_npc_275",focus="m")]
 [name="山雪鬼"]可是老大，我们接到消息，对方现在已经离开车站了。
-[name="山雪鬼"]如果现在去联系铁路的人停车，恐怕会引起恐慌......
+[name="山雪鬼"]如果现在去联系铁路的人停车，恐怕会引起恐慌……
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",focus="m")]
 [name="锏"]停车？
 [name="锏"]没必要。
@@ -457,7 +457,7 @@
 [PlaySound(key="$d_avg_trainwhistle", volume=0.6)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_275",focus="m")]
-[name="山雪鬼"]这是......
+[name="山雪鬼"]这是……
 [name="山雪鬼"]列车马上就要通过下面的山道了！
 [charslot(slot="m",name="avg_4116_blkkgt_1#1$1",focus="m")]
 [name="锏"]嗯。
@@ -482,8 +482,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [PlaySound(key="$d_avg_hgldshcrrig", volume=1)]
 [Delay(time=1)]
-[name="锏"]......
-[name="锏"]让我看看......
+[name="锏"]……
+[name="锏"]让我看看……
 [name="锏"]人会在哪？
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

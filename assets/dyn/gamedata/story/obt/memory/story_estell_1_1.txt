@@ -20,7 +20,7 @@
 [name="艾丝黛尔"]（杜宾教官，训练的时候很严格，私底下对人又很好。）
 [name="艾丝黛尔"]（她总是很晚睡觉。）
 [Character(name="avg_127_estell_1#10$1",name2="char_130_doberm_ex#2",focus=1)]
-[name="艾丝黛尔"]今天我也没有别的事情......没关系。
+[name="艾丝黛尔"]今天我也没有别的事情……没关系。
 [Character(name="avg_127_estell_1#4$1",name2="char_130_doberm_ex#2",focus=1)]
 [name="艾丝黛尔"]（不过，叫泡泡的这个小女孩好厉害。才这么小的年纪。）
 [Character(name="avg_127_estell_1#4$1",name2="char_130_doberm_ex#4",focus=2)]
@@ -41,7 +41,7 @@
 [Dialog]
 [character(name="char_411_tomimi_1",fadetime=0.5,block=true)]
 [delay(time=0.7)]
-[name="特米米"]加热......加热食物的方式......
+[name="特米米"]加热……加热食物的方式……
 [character(name="char_411_tomimi_1#2")]
 [name="特米米"]是这个机器吗？
 [Dialog]
@@ -52,7 +52,7 @@
 [character(name="char_411_tomimi_1#2")]
 [name="特米米"]那是这个？
 [name="特米米"]上面有火的标志。是要用火来加热这个机器吗？
-[name="特米米"]先把食物放进机器里，然后在机器外点火......是这样没错吧？
+[name="特米米"]先把食物放进机器里，然后在机器外点火……是这样没错吧？
 [musicvolume(volume=0, fadetime=0.2)]
 [Dialog]
 [character(name="avg_127_estell_1#6$1")]
@@ -96,19 +96,19 @@
 [name="特米米"]为什么突然爆炸了？
 [Character(name="avg_127_estell_1#11$1",name2="char_411_tomimi_1#4",focus=1)]
 [name="艾丝黛尔"]这个不是这么用的。
-[name="艾丝黛尔"]幸好，你看起来没有什么外伤......
+[name="艾丝黛尔"]幸好，你看起来没有什么外伤……
 [Dialog]
 [Character(name="avg_127_estell_1#2$1",name2="char_411_tomimi_1#4",focus=1)]
 [Delay(time=0.51)]
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="艾丝黛尔"]（是陌生的同事！）
-[name="艾丝黛尔"]（我......我在干什么......下意识就......）
+[name="艾丝黛尔"]（我……我在干什么……下意识就……）
 [Character(name="avg_127_estell_1#2$1",name2="char_411_tomimi_1#2",focus=2)]
 [name="特米米"]怎、怎么了？
 [Character(name="avg_127_estell_1#2$1",name2="char_411_tomimi_1#2",focus=1)]
 [name="艾丝黛尔"]（还是一个阿达克利斯。是新的阿达克利斯同事吗？）
 [Character(name="avg_127_estell_1#10$1",name2="char_411_tomimi_1#2",focus=1)]
-[name="艾丝黛尔"]......
+[name="艾丝黛尔"]……
 [Dialog]
 [Character(name="avg_127_estell_1#10$1",name2="char_411_tomimi_1#2")]
 [delay(time=0.51)]
@@ -135,8 +135,8 @@
 [characteraction(name="left", type="move", ypos=25, fadetime=0.5, block=true)]
 [delay(time=1)]
 [Character(name="avg_127_estell_1#9$1", name2="char_411_tomimi_1",focus=1)]
-[name="艾丝黛尔"]用这台机器......
-[name="艾丝黛尔"]好了......等五分钟后，按这个按钮。
+[name="艾丝黛尔"]用这台机器……
+[name="艾丝黛尔"]好了……等五分钟后，按这个按钮。
 [Dialog]
 [Character(name="avg_127_estell_1#9$1", name2="char_411_tomimi_1")]
 [delay(time=0.51)]
@@ -154,7 +154,7 @@
 [delay(time=1.5)]
 [Character(name="avg_127_estell_1#4$1", name2="char_411_tomimi_1",focus=1)]
 [name="艾丝黛尔"]那台坏掉的机器，不要动它了。
-[name="艾丝黛尔"]报修之后，会有人来修......
+[name="艾丝黛尔"]报修之后，会有人来修……
 [Dialog]
 [Character(name="avg_127_estell_1#4$1", name2="char_411_tomimi_1")]
 [delay(time=0.51)]
@@ -172,19 +172,19 @@
 [Delay(time=1)]
 [character(name="avg_127_estell_1#8$1")]
 [name="艾丝黛尔"]（我好像又做了很奇怪的事情。）
-[name="艾丝黛尔"]（博士和莱娜小姐都希望我能多和人交流......）
+[name="艾丝黛尔"]（博士和莱娜小姐都希望我能多和人交流……）
 [name="艾丝黛尔"]（之前一直拿其他人入职时间比我长，所以太有压迫感之类的来当借口。）
-[name="艾丝黛尔"]（这次好像还是一个新同事......）
+[name="艾丝黛尔"]（这次好像还是一个新同事……）
 [character(name="avg_127_estell_1#3$1")]
-[name="艾丝黛尔"]（呜......我是不是......没救了。）
+[name="艾丝黛尔"]（呜……我是不是……没救了。）
 [character(name="char_130_doberm_ex#2")]
 [name="杜宾"]艾丝黛尔，你吃完了吗，这么快？
 [character(name="avg_127_estell_1#2$1")]
-[name="艾丝黛尔"]啊......
+[name="艾丝黛尔"]啊……
 [name="艾丝黛尔"]（我好像忘记吃晚饭了。）
 [character(name="avg_127_estell_1#11$1")]
-[name="艾丝黛尔"]是......吃过了。
-[name="艾丝黛尔"]（现在那个人可能还在食堂吧。我晚点的时候再去......）
+[name="艾丝黛尔"]是……吃过了。
+[name="艾丝黛尔"]（现在那个人可能还在食堂吧。我晚点的时候再去……）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -209,27 +209,27 @@
 [Character(name="avg_127_estell_1#4$1",name2="avg_181_flower_1#1$1",focus=2)]
 [name="调香师"]也只有这种气味对你最有效，能让你放松。
 [Character(name="avg_127_estell_1#9$1",name2="avg_181_flower_1#1$1",focus=1)]
-[name="艾丝黛尔"]有一种......家的味道。
+[name="艾丝黛尔"]有一种……家的味道。
 [Character(name="avg_127_estell_1#9$1",name2="avg_181_flower_1#10$1",focus=2)]
 [name="调香师"]真的吗？
 [Character(name="avg_127_estell_1#9$1",name2="avg_181_flower_1#10$1",focus=1)]
 [name="艾丝黛尔"]真的。
 [Character(name="avg_127_estell_1#9$1",name2="avg_181_flower_1#1$1",focus=2)]
-[name="调香师"]可这并不是花香，而是......维生溶液的气味......
+[name="调香师"]可这并不是花香，而是……维生溶液的气味……
 [name="调香师"]关于你的过去，如果你想谈论的话，我会听，博士也是。
 [Character(name="avg_127_estell_1#11$1",name2="avg_181_flower_1#1$1",focus=1)]
-[name="艾丝黛尔"]...... 
+[name="艾丝黛尔"]…… 
 [Character(name="avg_127_estell_1#11$1",name2="avg_181_flower_1#1$1",focus=2)]
 [name="调香师"]不强求。
 [Character(name="avg_127_estell_1#9$1",name2="avg_181_flower_1#1$1",focus=1)]
 [name="艾丝黛尔"]谢谢你。
 [Character(name="avg_127_estell_1#4$1",name2="avg_181_flower_1#1$1",focus=1)]
-[name="艾丝黛尔"]（我知道自己闻到这种气味会感到放松的原因......这种气味，与我很小的时候在实验室里闻到的完全一样。）
+[name="艾丝黛尔"]（我知道自己闻到这种气味会感到放松的原因……这种气味，与我很小的时候在实验室里闻到的完全一样。）
 [name="艾丝黛尔"]（那个时候我还没有长出角。）
 [name="艾丝黛尔"]（我住在一个小房子里。椭圆形的房间内，有很多这样的小房子。每个小房子里，都住着一个阿达克利斯小孩。）
 [Character(name="avg_127_estell_1#3$1",name2="avg_181_flower_1#1$1",focus=1)]
 [name="艾丝黛尔"]（他们喊我“失败品”。后来，我被从实验室扔了出去。）
-[name="艾丝黛尔"]（对了，丹尼·奇普，是他把我扔出去的。明明之前，每天早上都隔着玻璃对我说“早上好，我的公主”......）
+[name="艾丝黛尔"]（对了，丹尼·奇普，是他把我扔出去的。明明之前，每天早上都隔着玻璃对我说“早上好，我的公主”……）
 [name="艾丝黛尔"]（是因为我太不讨喜了，所以被丢弃了吗？）
 [name="艾丝黛尔"]（之后我就一直在荒野上生活，直到加入罗德岛。）
 [Character(name="avg_127_estell_1#3$1",name2="avg_181_flower_1#10$1",focus=2)]
@@ -239,7 +239,7 @@
 [Character(name="avg_127_estell_1#9$1",name2="avg_181_flower_1#10$1",focus=2)]
 [name="调香师"]最近有好好和人聊天吗？
 [Character(name="avg_127_estell_1#11$1",name2="avg_181_flower_1#10$1",focus=1)]
-[name="艾丝黛尔"]好像......没有......
+[name="艾丝黛尔"]好像……没有……
 [Character(name="avg_127_estell_1#11$1",name2="avg_181_flower_1#1$1",focus=2)]
 [name="调香师"]不用强求，但是如果你有交流的想法，可以找一些你觉得相处起来舒适的人多聊聊天。
 [name="调香师"]我能做到的，也就是让你得到短暂的放松。如果真的要走出那样的状态，还是需要靠你自己。
@@ -288,7 +288,7 @@
 [Character(name="avgnew_275_breeze_1#1$1",name2="avg_183_skgoat_1#11$1",focus=1)]
 [name="微风"]是艾丝黛尔小姐养的宠物吗？
 [character(name="avg_127_estell_1#4$2")]
-[name="艾丝黛尔"]（微风小姐一如既往地举止优雅......真想开口让她教教我那些礼仪......）
+[name="艾丝黛尔"]（微风小姐一如既往地举止优雅……真想开口让她教教我那些礼仪……）
 [character(name="avg_127_estell_1#9$2")]
 [name="艾丝黛尔"]是的。
 [character(name="avg_127_estell_1#4$2")]
@@ -298,11 +298,11 @@
 [Character(name="avgnew_275_breeze_1#6$1",name2="avg_183_skgoat_1#11$1",focus=1)]
 [name="微风"]对了，下星期预计会有几次外勤支援行动，又要麻烦艾丝黛尔小姐了。
 [character(name="avg_127_estell_1#4$2")]
-[name="艾丝黛尔"]（因为微风能够熟练地进行战地医疗服务，我和她经常搭班出外勤。也许是感觉到了我的不自然......她对我总是礼貌而又小心翼翼。）
-[name="艾丝黛尔"]（很感谢微风，但是这样，也会让我有一点距离感......而且工作之外，私下也不怎么见面......）
-[name="艾丝黛尔"]（博士希望我......能自己主动和她沟通......）
+[name="艾丝黛尔"]（因为微风能够熟练地进行战地医疗服务，我和她经常搭班出外勤。也许是感觉到了我的不自然……她对我总是礼貌而又小心翼翼。）
+[name="艾丝黛尔"]（很感谢微风，但是这样，也会让我有一点距离感……而且工作之外，私下也不怎么见面……）
+[name="艾丝黛尔"]（博士希望我……能自己主动和她沟通……）
 [character(name="avg_127_estell_1#9$2")]
-[name="艾丝黛尔"]我......我会努力好好把病人带回来的......
+[name="艾丝黛尔"]我……我会努力好好把病人带回来的……
 [character(name="avg_127_estell_1#3$2")]
 [name="艾丝黛尔"]（这次也没有说出口。）
 [Dialog]
@@ -328,13 +328,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#3$2",focus=2)]
-[name="艾丝黛尔"]你这样......会给人添麻烦的......然后我们就会被同事讨厌的......
+[name="艾丝黛尔"]你这样……会给人添麻烦的……然后我们就会被同事讨厌的……
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#4$2",focus=2)]
-[name="艾丝黛尔"]说起来，刚才她们在说的......照顾新同事......
+[name="艾丝黛尔"]说起来，刚才她们在说的……照顾新同事……
 [name="艾丝黛尔"]昨天看到的那个阿达克利斯，是不是没人在照顾呢？
 [name="艾丝黛尔"]如果再像那样鲁莽地使用设备，她会受伤的。
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#3$2",focus=2)]
-[name="艾丝黛尔"]可是......我这样的状态......也做不到什么吧？
+[name="艾丝黛尔"]可是……我这样的状态……也做不到什么吧？
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#3$2",focus=1)]
 [name="克莱赫尔爵士"]（意味深长的鸣叫）
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#3$2",focus=2)]
@@ -344,24 +344,24 @@
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#3$2",focus=2)]
 [name="艾丝黛尔"]我在乖乖地配合治疗，也每天会去疗养庭院。可是，面对同族的话，还是有点害怕。
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#11$2",focus=2)]
-[name="艾丝黛尔"]我一眼就能看到......自己和他们的差异......那相对的，他们不也能一眼看出来......我头上的角非常不对劲？
+[name="艾丝黛尔"]我一眼就能看到……自己和他们的差异……那相对的，他们不也能一眼看出来……我头上的角非常不对劲？
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#11$2",focus=1)]
 [name="克莱赫尔爵士"]（短促的鸣叫）
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#2$2",focus=2)]
 [name="艾丝黛尔"]嘉维尔？
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#1$2",focus=2)]
-[name="艾丝黛尔"]是......
-[name="艾丝黛尔"]嘉维尔小姐确实也是阿达克利斯。因为工作的关系我会经常遇到她，但是，我一直没敢开口跟她说话......也不知道她是怎么看我的。
+[name="艾丝黛尔"]是……
+[name="艾丝黛尔"]嘉维尔小姐确实也是阿达克利斯。因为工作的关系我会经常遇到她，但是，我一直没敢开口跟她说话……也不知道她是怎么看我的。
 [name="艾丝黛尔"]明明都是一样的阿达克利斯，嘉维尔小姐却是厉害的医生。而我，好像什么都做不好。
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#1$2",focus=-1)]
 [name="受伤的干员"]等一下！等一下！嘉维尔！我还没准备好！
 [name="嘉维尔"]等什么等，你眼睛一闭一睁，不就完事了吗？
-[name="受伤的干员"]什么一闭一睁......啊！
+[name="受伤的干员"]什么一闭一睁……啊！
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#2$2",focus=2)]
 [name="艾丝黛尔"]今天是嘉维尔小姐在这里值班吗？
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#11$2",focus=2)]
 [name="艾丝黛尔"]把伤员送到这里来后，如果是嘉维尔小姐值班，就会听到这样的叫声。
-[name="艾丝黛尔"]里面到底发生了什么呢......
+[name="艾丝黛尔"]里面到底发生了什么呢……
 [Character(name="avg_npc_538_1#1$1",name2="avg_127_estell_1#11$2",focus=1)]
 [name="克莱赫尔爵士"]（好奇的鸣叫）
 [Dialog]
@@ -394,9 +394,9 @@
 [character(name="char_411_tomimi_1#4",name2="avg_127_estell_1#2$2",focus=2)]
 [name="艾丝黛尔"]（是昨天那个差点被炸伤的女孩！）
 [character(name="char_411_tomimi_1#4",name2="avg_127_estell_1#2$2",focus=1)]
-[name="特米米"]嗯？你是......
+[name="特米米"]嗯？你是……
 [character(name="char_411_tomimi_1#4",name2="avg_127_estell_1#1$2",focus=2)]
-[name="艾丝黛尔"]（被发现了......）
+[name="艾丝黛尔"]（被发现了……）
 [Dialog]
 [character(name="char_411_tomimi_1#4",name2="avg_127_estell_1#1$2")]
 [characteraction(name="right", type="jump", xpos=100, power=0, times=1, fadetime=0.8, block=true)]
@@ -408,26 +408,26 @@
 [characteraction(name="left", type="jump", xpos=150, power=5, times=1, fadetime=0.8,block=true)]
 [Delay(time=2)]
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#1$2",focus=1)]
-[name="特米米"]力、力气好大......
+[name="特米米"]力、力气好大……
 [Dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=0.51)]
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#1$2",focus=2)]
 [name="艾丝黛尔"]唔，糟了！
-[name="艾丝黛尔"]你没受伤吧......对不起......我又......
+[name="艾丝黛尔"]你没受伤吧……对不起……我又……
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#1$2",focus=1)]
 [name="特米米"]啊，我没事的！
 [name="特米米"]你的力气好大啊！
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#1$2",focus=2)]
-[name="艾丝黛尔"]啊......嗯......
-[name="艾丝黛尔"]对不起......
+[name="艾丝黛尔"]啊……嗯……
+[name="艾丝黛尔"]对不起……
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#1$2",focus=1)]
 [name="特米米"]没关系的啦！
 [name="特米米"]昨天的事，我还得谢谢你。如果没有你的话，我都不知道要怎么加热我的食物。
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#1$2",focus=2)]
-[name="艾丝黛尔"]我只是路过看到了......
-[name="艾丝黛尔"]......
+[name="艾丝黛尔"]我只是路过看到了……
+[name="艾丝黛尔"]……
 [name="艾丝黛尔"]我还有别的事情要忙，我得——
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#1$2",focus=-1)]
 [name="嘉维尔"]啊，手酸。你帮我看着点伤员，我出去挥一挥拳头放松一下！
@@ -481,13 +481,13 @@
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#11$2",focus=1)]
 [name="特米米"]你是来偷看嘉维尔工作的对吧？
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#2$2",focus=2)]
-[name="艾丝黛尔"]（新来的同事好像误会了......如果不解释清楚的话，会给她留下不好的印象......）
+[name="艾丝黛尔"]（新来的同事好像误会了……如果不解释清楚的话，会给她留下不好的印象……）
 [name="艾丝黛尔"]我不是——
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#2$2",focus=1)]
 [name="特米米"]我也是来偷看她工作的！
 [name="特米米"]你和嘉维尔熟吗？
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#4$2",focus=2)]
-[name="艾丝黛尔"]呃......应该算熟......吧？
+[name="艾丝黛尔"]呃……应该算熟……吧？
 [name="艾丝黛尔"]（我的工作，经常需要和她交接。但是我们还没怎么说过话。）
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#4$2",focus=1)]
 [name="特米米"]你也觉得嘉维尔很好，对吧？
@@ -499,23 +499,23 @@
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=1)]
 [name="特米米"]那我们就是朋友了。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#2$2",focus=2)]
-[name="艾丝黛尔"]朋友......你愿意和我做朋友？
+[name="艾丝黛尔"]朋友……你愿意和我做朋友？
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#2$2",focus=1)]
 [name="特米米"]我们彼此已经很熟悉了！而且我们也达成了共识——嘉维尔很厉害！
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=2)]
-[name="艾丝黛尔"]好像......是的......
+[name="艾丝黛尔"]好像……是的……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=1)]
 [name="特米米"]那我们就是朋友。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=2)]
 [name="艾丝黛尔"]原来如此。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#4$2",focus=2)]
-[name="艾丝黛尔"]（突然和新来的同事成了朋友......）
+[name="艾丝黛尔"]（突然和新来的同事成了朋友……）
 [name="艾丝黛尔"]（要快点向博士和莱娜小姐汇报。）
 [name="艾丝黛尔"]（虽然不是我主动的，但博士和莱娜小姐一定会为我高兴，然后夸奖我。）
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#4$2",focus=1)]
 [name="特米米"]我叫特米米，你的名字呢？
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#9$2",focus=2)]
-[name="艾丝黛尔"]我是......艾丝黛尔。
+[name="艾丝黛尔"]我是……艾丝黛尔。
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#4$2",focus=2)]
 [name="艾丝黛尔"]（冷静一点，先通过正常的聊天来维持朋友的关系。）
 [name="艾丝黛尔"]（加油。）
@@ -526,7 +526,7 @@
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$2",focus=1)]
 [name="特米米"]你的名字，不像一个阿达克利斯。
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$2",focus=2)]
-[name="艾丝黛尔"]嗯......
+[name="艾丝黛尔"]嗯……
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$2",focus=1)]
 [name="特米米"]总觉得，这个名字很熟悉。
 [name="特米米"]是灰烬公主的故事？
@@ -540,34 +540,34 @@
 [name="艾丝黛尔"]在舞会的最高潮，她套上了早已准备好的盔甲，接过克莱赫尔爵士扔过来的巨剑，完成复仇。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#3$2",focus=2)]
 [name="艾丝黛尔"]有传言说，她完成目标后，便化作了灰烬。
-[name="艾丝黛尔"]......
+[name="艾丝黛尔"]……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#11$2",focus=2)]
-[name="艾丝黛尔"]（一不小心自顾自讲了这么多......）
-[name="艾丝黛尔"]（不会引起她的反感吧......我真的不擅长交流，还是少开口比较好......）
+[name="艾丝黛尔"]（一不小心自顾自讲了这么多……）
+[name="艾丝黛尔"]（不会引起她的反感吧……我真的不擅长交流，还是少开口比较好……）
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#11$2",focus=1)]
 [name="特米米"]好厉害。
 [name="特米米"]概括得十分准确！
 [name="特米米"]看得出来你真的很崇拜她。
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$2",focus=2)]
-[name="艾丝黛尔"]嗯......我想成为像她一样的公主。
+[name="艾丝黛尔"]嗯……我想成为像她一样的公主。
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#4$2",focus=2)]
-[name="艾丝黛尔"]（新同事......好像不是那么可怕......）
+[name="艾丝黛尔"]（新同事……好像不是那么可怕……）
 [name="艾丝黛尔"]（可惜我没法戴上那样的头盔。）
-[name="艾丝黛尔"]（据说罗德岛的铁匠们都很好......可是我一个也不认识。平时战斗的时候，我也不需要使用武器，就从来没去找过他们。）
+[name="艾丝黛尔"]（据说罗德岛的铁匠们都很好……可是我一个也不认识。平时战斗的时候，我也不需要使用武器，就从来没去找过他们。）
 [name="艾丝黛尔"]（我要加把劲，这样以后就能跟他们说上话，拜托他们为我打造一套公主同款盔甲。）
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#4$2",focus=1)]
 [name="特米米"]那样的话，还得练习挥剑。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=2)]
-[name="艾丝黛尔"]是的......
+[name="艾丝黛尔"]是的……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#4$2",focus=2)]
 [name="艾丝黛尔"]（还要学习用武器战斗。）
-[name="艾丝黛尔"]（跟使用巨剑的同事学习......斯卡蒂......她看起来有些难以靠近......）
+[name="艾丝黛尔"]（跟使用巨剑的同事学习……斯卡蒂……她看起来有些难以靠近……）
 [character(name="char_411_tomimi_1#5",name2="avg_127_estell_1#4$2",focus=1)]
 [name="特米米"]不过，你为什么见到我总是要跑？
 [character(name="char_411_tomimi_1#5",name2="avg_127_estell_1#3$2",focus=2)]
-[name="艾丝黛尔"]没什么......
-[name="艾丝黛尔"]......
-[name="艾丝黛尔"]因为......我对我的外表......不是很有自信......
+[name="艾丝黛尔"]没什么……
+[name="艾丝黛尔"]……
+[name="艾丝黛尔"]因为……我对我的外表……不是很有自信……
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#3$2",focus=1)]
 [name="特米米"]外表？
 [name="特米米"]转过来，给我看看。
@@ -576,14 +576,14 @@
 [PlaySound(key="$d_avg_clothmovement", volume=0.7)]
 [delay(time=1.5)]
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#3$2",focus=1)]
-[name="特米米"]如果以我们这里的审美来看，不是很粗，也不是很细......的确属于两边都不算好的状态。
-[name="特米米"]但是......
+[name="特米米"]如果以我们这里的审美来看，不是很粗，也不是很细……的确属于两边都不算好的状态。
+[name="特米米"]但是……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#3$2",focus=1)]
 [name="特米米"]这不是正常的状态吗？
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#2$2",focus=2)]
-[name="艾丝黛尔"]......真的吗？
+[name="艾丝黛尔"]……真的吗？
 [name="艾丝黛尔"]啊？在你看来，我这样子是正常的吗？
-[name="艾丝黛尔"]可是在我家那边，很多人都拿这个开玩笑，说我是怪胎......
+[name="艾丝黛尔"]可是在我家那边，很多人都拿这个开玩笑，说我是怪胎……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#2$2",focus=1)]
 [name="特米米"]他们不懂。有时候，这点特征才是美好之处。
 [name="特米米"]你看，比如说嘉维尔——
@@ -612,17 +612,17 @@
 [name="艾丝黛尔"]谢谢你。
 [name="艾丝黛尔"]可有时候也挺碍事的。比如说去博士办公室的时候，偶尔会戳进门里。想像灰烬公主一样挥剑时，也会影响挥动的范围。
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#9$2",focus=1)]
-[name="特米米"]嗯......是会有一点碍事。
+[name="特米米"]嗯……是会有一点碍事。
 [name="特米米"]但是，先不说平衡身体这样的基本功能，它也可以被当作武器使用。虽然没法自由挥剑，但也可以用它来配合进攻。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=1)]
 [name="特米米"]所以从别的角度来说，尾巴也可能是很实用的。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=2)]
 [name="艾丝黛尔"]你说的我明白了！
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#4$2",focus=2)]
-[name="艾丝黛尔"]（她说的是尾巴......好像理解错我的意思了......我对我的尾巴也十分满意......）
+[name="艾丝黛尔"]（她说的是尾巴……好像理解错我的意思了……我对我的尾巴也十分满意……）
 [name="艾丝黛尔"]（头上的角很重，不过有了我的尾巴，我可以轻松地保持平衡。）
 [name="艾丝黛尔"]（它是一条好尾巴。）
-[name="艾丝黛尔"]（不过她为什么完全不在意我头上的角......看来真的不是每个人都会那么在意这件事......原来同族的阿达克利斯这么好相处......）
+[name="艾丝黛尔"]（不过她为什么完全不在意我头上的角……看来真的不是每个人都会那么在意这件事……原来同族的阿达克利斯这么好相处……）
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#4$2",focus=1)]
 [name="特米米"]像我，就觉得你也很好啊。
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#10$2",focus=2)]
@@ -636,13 +636,13 @@
 [name="艾丝黛尔"]（在她眼里，“好”的计量单位是嘉维尔吗？）
 [name="艾丝黛尔"]（有0.7个嘉维尔那么好，已经是很不错的夸奖了。）
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#10$2",focus=2)]
-[name="艾丝黛尔"]那博士......有几个嘉维尔那么好？
+[name="艾丝黛尔"]那博士……有几个嘉维尔那么好？
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#10$2",focus=1)]
-[name="特米米"]没想过欸......
+[name="特米米"]没想过欸……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#10$2",focus=1)]
 [name="特米米"]也许我们之后可以一起为罗德岛上的所有人打分。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#10$2",focus=2)]
-[name="艾丝黛尔"]用嘉维尔吗......？
+[name="艾丝黛尔"]用嘉维尔吗……？
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#10$2",focus=1)]
 [name="特米米"]是的。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#10$2",focus=2)]
@@ -653,9 +653,9 @@
 [name="特米米"]啊，嘉维尔好像回去了。
 [name="特米米"]我们继续过去偷看吧。
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#9$2",focus=2)]
-[name="艾丝黛尔"]对不起......我得回去工作了......
+[name="艾丝黛尔"]对不起……我得回去工作了……
 [character(name="char_411_tomimi_1#1",name2="avg_127_estell_1#3$2",focus=2)]
-[name="艾丝黛尔"]（如果不好好工作的话，万一哪一天罗德岛不要我了......）
+[name="艾丝黛尔"]（如果不好好工作的话，万一哪一天罗德岛不要我了……）
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#3$2",focus=1)]
 [name="特米米"]有点好奇，艾丝黛尔在罗德岛的工作是什么？我记得你也是战斗小队的吧？
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#2$2",focus=2)]
@@ -668,9 +668,9 @@
 [name="艾丝黛尔"]如果战场上有人受伤了，我也可以切入战场，然后带着伤员突围。在这个过程中，可能会发生战斗。
 [name="艾丝黛尔"]偶尔也会护卫我们的医生。
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$2",focus=1)]
-[name="特米米"]好厉害......
+[name="特米米"]好厉害……
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$2",focus=2)]
-[name="艾丝黛尔"]并不是什么特别厉害的......
+[name="艾丝黛尔"]并不是什么特别厉害的……
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$2",focus=1)]
 [name="特米米"]想象一下，如果有人在战场上受了伤，被敌人包围，不知所措的时候你冲了出来，那会是怎样一副光景。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=1)]
@@ -682,12 +682,12 @@
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#4$2",focus=1)]
 [name="特米米"]如果你能把生病或受伤的人送到嘉维尔那边治疗，是不是就更好了。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#8$2",focus=2)]
-[name="艾丝黛尔"]0.9个嘉维尔加上1个嘉维尔，那就是8个嘉维尔......
+[name="艾丝黛尔"]0.9个嘉维尔加上1个嘉维尔，那就是8个嘉维尔……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#8$2",focus=1)]
 [name="特米米"]是的。他们一定可以恢复得更快。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#10$2",focus=2)]
 [name="艾丝黛尔"]对。我以后会尽可能把伤员都送到嘉维尔那边。
-[name="艾丝黛尔"]不过......嗯......我......真的得走了，已经到这个时间了......
+[name="艾丝黛尔"]不过……嗯……我……真的得走了，已经到这个时间了……
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#10$2",focus=1)]
 [name="特米米"]和你聊天很开心。
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$2",focus=2)]
@@ -724,7 +724,7 @@
 [Character(name="char_013_riop", name2="avg_127_estell_1#9$1",focus=1)]
 [name="灰掌"]嗯？艾丝黛尔你还在忙吗？
 [Character(name="char_013_riop", name2="avg_127_estell_1#9$1",focus=2)]
-[name="艾丝黛尔"]嗯......
+[name="艾丝黛尔"]嗯……
 [name="艾丝黛尔"]微风说下星期可能会有外勤，我想先把一些物资搬到车上。
 [Character(name="char_013_riop", name2="avg_127_estell_1#9$1",focus=1)]
 [name="灰掌"]这样可是拿不到加班费的。
@@ -744,7 +744,7 @@
 [Character(name="char_013_riop", name2="avg_127_estell_1#2$1",focus=1)]
 [name="灰掌"]是啊。
 [Character(name="char_013_riop", name2="avg_127_estell_1#2$1",focus=2)]
-[name="艾丝黛尔"]......
+[name="艾丝黛尔"]……
 [Character(name="char_013_riop", name2="avg_127_estell_1#9$1",focus=2)]
 [name="艾丝黛尔"]我想我知道怎么帮你。
 [name="艾丝黛尔"]（不知道嘉维尔现在下班了没有。）
@@ -781,7 +781,7 @@
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$1",focus=-1)]
 [name="灰掌"]等等，我只是脖子疼！
 [name="嘉维尔"]既然来都来了，我帮你捏一下怎么样？
-[name="灰掌"]别......我脖子不疼了，已经好了！
+[name="灰掌"]别……我脖子不疼了，已经好了！
 [name="灰掌"]啊啊啊啊——
 [character(name="char_411_tomimi_1#3",name2="avg_127_estell_1#9$1",focus=1)]
 [name="特米米"]听起来很有效。
@@ -797,7 +797,7 @@
 [name="艾丝黛尔"]啊，没什么。
 [name="艾丝黛尔"]（我很高兴有了一个朋友。也很高兴自己能帮上同事的忙。）
 [name="艾丝黛尔"]（虽然还是没敢说出口。）
-[name="艾丝黛尔"]（在罗德岛生活，没有人会嘲笑我的角，也没有人会因为我笨重的样子而打骂我......）
+[name="艾丝黛尔"]（在罗德岛生活，没有人会嘲笑我的角，也没有人会因为我笨重的样子而打骂我……）
 [name="艾丝黛尔"]（有一种，虽然我没那么优秀，但每天都在进步的感觉。）
 [character(name="char_411_tomimi_1#2",name2="avg_127_estell_1#9$1",focus=1)]
 [name="特米米"]啊，好像结束了。
@@ -823,10 +823,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_127_estell_1#7$1")]
-[name="艾丝黛尔"]（好险......）
+[name="艾丝黛尔"]（好险……）
 [Character(name="avg_127_estell_1#3$1")]
 [name="艾丝黛尔"]（又逃跑了。）
-[name="艾丝黛尔"]（呜......看起来进步得还是十分有限......）
+[name="艾丝黛尔"]（呜……看起来进步得还是十分有限……）
 [Dialog]
 [character]
 [delay(time=1)]

@@ -10,15 +10,15 @@
 [Delay(time=1)]
 [playMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]这就是......飞空艇。
+[name="阿米娅"]这就是……飞空艇。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]我们所有的潜入计划都失败了，靠近的人就像凭空消失了一样。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]这是某种萨卡兹巫术吗，魔王？你应当知道该如何破解。
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]我......
+[name="阿米娅"]我……
 [charslot(slot="m",name="avg_npc_394_1#14$1",focus="m")]
-[name="阿米娅"]特蕾西娅小姐......她也在这里吗？
+[name="阿米娅"]特蕾西娅小姐……她也在这里吗？
 [charslot(slot="m",name="avg_npc_394_1#14$1",focus="m")]
 [name="阿米娅"]可我感受不到——
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
@@ -31,7 +31,7 @@
 阿米娅几乎无法站稳。
 [playMusic(intro="$plot_intro", key="$plot_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
-[name="阿米娅"]这是......什么......
+[name="阿米娅"]这是……什么……
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]你在做什么，魔王？别想搞什么小动作！
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
@@ -69,16 +69,16 @@
 [name="阿斯卡纶"]——
 [dialog]
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="r")]
-[Decision(options="怎么了？;......;你的表情很难看。", values="1;2;3")]
+[Decision(options="怎么了？;……;你的表情很难看。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_npc_395_1#10$1",focus="m")]
 [name="阿斯卡纶"]你感受不到，你不是萨卡兹。
 [charslot(slot="m",name="avg_npc_395_1#10$1",focus="m")]
-[name="阿斯卡纶"]我们......在面对自己的历史。在面对萨卡兹千万年的苦难。
+[name="阿斯卡纶"]我们……在面对自己的历史。在面对萨卡兹千万年的苦难。
 [charslot(slot="m",name="avg_npc_395_1#2$1",focus="m")]
 [name="阿斯卡纶"]它在诉说，它在愤怒，它强迫我们每个人聆听它的悲号。
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="m")]
-[name="阿斯卡纶"]......怪不得。
+[name="阿斯卡纶"]……怪不得。
 [name="阿斯卡纶"]哼，大公爵们要失望了，这并非什么可被复制的工业技术。
 [name="阿斯卡纶"]这艘船，是一位死魂灵。
 [Dialog]
@@ -104,13 +104,13 @@
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
 [name="阿米娅"]呜——
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]我......这些声音......
+[name="阿米娅"]我……这些声音……
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="m")]
 [name="阿斯卡纶"]阿米娅，别被它影响！
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="m")]
 [name="阿斯卡纶"]坚持住，这只是幻象！
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
-[name="阿米娅"]我明白，我在尝试......
+[name="阿米娅"]我明白，我在尝试……
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
 [name="阿米娅"]呜呜——啊——
 [Dialog]
@@ -127,19 +127,19 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]这里的影子......
+[name="“灰礼帽”"]这里的影子……
 [name="“灰礼帽”"]不对，这不是和那位伊内丝小姐类似的操纵阴影的源石技艺，这是什么？
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="m")]
 [name="阿斯卡纶"]博士，离开飞空艇的影子！
 [dialog]
 [charslot]
 飞空艇的阴影蠕动着，延展着，被阿斯卡纶击倒在地的另一名“灰礼帽”瞬间淹没在漆黑的海洋中。
-[name="“灰礼帽”"]开什么玩笑，这到底是什么......
+[name="“灰礼帽”"]开什么玩笑，这到底是什么……
 深重的黑色，深重的绝望，深重的愤怒。
 [Dialog]
 [Character(fadetime=0)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="魔王会带领我们，只要有魔王......", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
+[Subtitle(text="魔王会带领我们，只要有魔王……", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="卡兹戴尔被毁灭了三十四次。", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="卡兹戴尔被毁灭了六百七十五次。", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="卡兹戴尔被毁灭了三千四百二十一次。", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
@@ -161,7 +161,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=4)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="一个扭曲的奇美拉......", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
+[Subtitle(text="一个扭曲的奇美拉……", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="一个异族的魔王？！", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="哈哈哈哈，我的面前，站着一位异族的魔王？！！", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="你凭什么拥有这顶王冠？你凭什么与这些痛苦站在一起？", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
@@ -170,7 +170,7 @@
 [Subtitle(text="回答死魂灵的质问！", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[name="阿米娅"]死魂灵......
+[name="阿米娅"]死魂灵……
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Subtitle(text="去看！睁大你的眼睛去看！虚假的魔王！", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
@@ -178,11 +178,11 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]我看到了......
+[name="阿米娅"]我看到了……
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="m")]
 [name="阿斯卡纶"]别去看，阿米娅，那是死魂灵的巫术！
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
 [name="阿米娅"]我看到了泪水。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
@@ -198,7 +198,7 @@
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
 [name="阿米娅"]您用愤怒的火焰灼烧伤口。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]这......很痛苦。
+[name="阿米娅"]这……很痛苦。
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Subtitle(text="我认得清什么是真实，什么是虚假！", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
@@ -220,7 +220,7 @@
 [Decision(options="你没事吧，阿斯卡纶？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_395_1#10$1",focus="m")]
-[name="阿斯卡纶"]我......还好......
+[name="阿斯卡纶"]我……还好……
 [charslot(slot="m",name="avg_npc_395_1#10$1",focus="m")]
 [name="阿斯卡纶"]阿米娅她——
 [dialog]
@@ -238,7 +238,7 @@
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]我看到了那些被吞咽的泪水和鲜血，我看到了那些被高扬起的尘土和碎片。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
-[name="阿米娅"]......如此相似的身影交叠着倒下，如此相似的场景反复上演。
+[name="阿米娅"]……如此相似的身影交叠着倒下，如此相似的场景反复上演。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]我看到了，我仍然选择去看，我还会继续看下去。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
@@ -270,7 +270,7 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_394_1#14$1",focus="m")]
-[name="阿米娅"]我......
+[name="阿米娅"]我……
 [charslot]
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -278,7 +278,7 @@
 [Subtitle(text="萨卡兹的众魂不会接纳你。", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="你称我们的境遇为痛苦？你说你可以努力忍受——", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="可我们命定被这一切所永恒浸没。", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
-[Subtitle(text="你声称你有勇气，但倘若有一天，你无法再咽下这些苦难......", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
+[Subtitle(text="你声称你有勇气，但倘若有一天，你无法再咽下这些苦难……", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="你仍可以舍我们而去。", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -293,37 +293,37 @@
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]特蕾西娅小姐希望我能成为......！她说，就算是异族，我们依然会感同身受！
+[name="阿米娅"]特蕾西娅小姐希望我能成为……！她说，就算是异族，我们依然会感同身受！
 [charslot]
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Subtitle(text="这就是她的愚蠢之处！", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
-[Subtitle(text="那么，倘若你真的感同身受......在你看过了这一切之后......", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
+[Subtitle(text="那么，倘若你真的感同身受……在你看过了这一切之后……", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="你为什么还会走到我的面前？", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [Subtitle(text="你为什么还会试图阻止这场战争？", x=300, y=370, alignment="center", size=26, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_npc_394_1#14$1",focus="m")]
-[name="阿米娅"]我......
+[name="阿米娅"]我……
 [dialog]
 [charslot]
 阿米娅突然发现自己无法说出一个字。
 她为什么要阻止这场战争？
 在看了这些愤恨，这些痛苦，这些渴求之后。
 她为什么要阻止这场战争？
-这......这场战争，对于萨卡兹而言，确实是唯一的方法。
+这……这场战争，对于萨卡兹而言，确实是唯一的方法。
 每一个萨卡兹，在面对了这一切之后，都无法得出其他答案。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]可是......
+[name="阿米娅"]可是……
 [dialog]
 [charslot]
 阿米娅发现了，有一瞬间，她理解了特蕾西娅现在的选择。
 用泪水湮没泪水，用苦难填埋苦难。
 只有焚毁的土地才能给萨卡兹带来新生。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]可是......
+[name="阿米娅"]可是……
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]......我仍拒绝这条路。
+[name="阿米娅"]……我仍拒绝这条路。
 [dialog]
 [charslot]
 所以，死魂灵说的是对的。
@@ -361,7 +361,7 @@
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]——
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
-[name="“灰礼帽”"]那条德拉克......爱布拉娜。
+[name="“灰礼帽”"]那条德拉克……爱布拉娜。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
 [name="“灰礼帽”"]任务简报里可没说过她会亲自出现在这里！
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
@@ -371,31 +371,31 @@
 [Decision(options="阿米娅！", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]我......我没事......
+[name="阿米娅"]我……我没事……
 [dialog]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="r")]
 [Decision(options="来，我扶着你。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]博士，我......
+[name="阿米娅"]博士，我……
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]我确实没办法，真正和他们站在一起......
+[name="阿米娅"]我确实没办法，真正和他们站在一起……
 [dialog]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="r")]
 [Decision(options="也许，正因为这样，才必须是你。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]......欸？
+[name="阿米娅"]……欸？
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="m")]
 [name="阿斯卡纶"]那条德拉克的火烧过来了！
 [charslot(slot="m",name="avg_npc_395_1#3$1",focus="m")]
-[name="阿斯卡纶"]她......很强大。我们没必要在这里对抗她！
+[name="阿斯卡纶"]她……很强大。我们没必要在这里对抗她！
 [charslot(slot="m",name="avg_npc_722_1#2$1",focus="m")]
-[name="爱布拉娜"]......
+[name="爱布拉娜"]……
 [charslot(slot="m",name="avg_npc_722_1#6$1",focus="m")]
 [name="爱布拉娜"]哼——有意思。
 [charslot(slot="m",name="avg_npc_722_1#6$1",focus="m")]
-[name="爱布拉娜"]罗德岛......
+[name="爱布拉娜"]罗德岛……
 [charslot(slot="m",name="avg_npc_722_1#6$1",focus="m")]
 [name="爱布拉娜"]我最近，是不是经常听到这个名字？
 [Dialog]
@@ -408,7 +408,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
-[name="王庭军士兵"]将......将军，那条德拉克......
+[name="王庭军士兵"]将……将军，那条德拉克……
 [charslot(slot="m",name="avg_npc_404_1#6$1",focus="m")]
 [name="曼弗雷德"]不用理会。
 [name="曼弗雷德"]她的那些火焰，除了自己狭隘的野心，什么都点不燃。
@@ -423,7 +423,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_722_1#6$1",focus="m")]
-[name="爱布拉娜"]......
+[name="爱布拉娜"]……
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
 [name="“校官”"]殿下。
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
@@ -431,7 +431,7 @@
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
 [name="“校官”"]我们的高速战舰编队已经在外围做好了拦截准备。
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
-[name="“校官”"]......也有其他部队正在集结。
+[name="“校官”"]……也有其他部队正在集结。
 [charslot(slot="m",name="avg_npc_722_1#2$1",focus="m")]
 [name="爱布拉娜"]哦？
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
@@ -446,11 +446,11 @@
 [delay(time=1.5)]
 [name="考伯特"]是不是各位公爵来得有些太迟了呢？
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
-[name="“校官”"]你是......那个酒店的大堂经理？
+[name="“校官”"]你是……那个酒店的大堂经理？
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
 [name="“校官”"]你怎么会在这里？
 [charslot(slot="m",name="avg_npc_723_1$1",focus="m")]
-[name="“校官”"]......你是萨卡兹早就安插在伦蒂尼姆的间谍？
+[name="“校官”"]……你是萨卡兹早就安插在伦蒂尼姆的间谍？
 [charslot(slot="m",name="avg_npc_865_1#1$1",focus="m")]
 [name="考伯特"]不，考伯特只是个普通的自认是个维多利亚人的萨卡兹清洁员罢了。
 [charslot(slot="m",name="avg_npc_722_1#1$1",focus="m")]
@@ -470,7 +470,7 @@
 [bgeffect(name="$eb_deathburning",layer = 1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
-[name="变形者集群"]我们......？
+[name="变形者集群"]我们……？
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Image(image="37_i06",screenadapt="coverall",fadetime=1,block=true)]
@@ -481,7 +481,7 @@
 [name="变形者集群"]和朋友正聊到兴头上，却被派出来干活的可怜人罢了。
 [name="变形者集群"]德拉克，你还真是扫兴。
 [name="爱布拉娜"]那么，不如和我聊聊怎么样？
-[name="变形者集群"]......饶了我们吧。
+[name="变形者集群"]……饶了我们吧。
 [name="变形者集群"]不如让我们尽快结束这一切。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]

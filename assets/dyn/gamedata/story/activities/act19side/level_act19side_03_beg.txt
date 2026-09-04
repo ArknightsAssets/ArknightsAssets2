@@ -40,7 +40,7 @@
 [name="Mechanist"]成分解析失败。
 [name="Mechanist"]这银色液体与任何已知的化合物都不匹配。
 [Character(name="avg_npc_532_1#1$1")]
-[name="塞雷娅"]......看。
+[name="塞雷娅"]……看。
 [dialog]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [PlaySound(key="$d_gen_surfacefrozen")]
@@ -68,7 +68,7 @@
 但钙质的利刃确实架在你的脖子上。
 你下意识屏住了呼吸。
 [Character(name="avg_npc_521_1#1$1")]
-[name="Mechanist"]......塞雷娅，解释你的行为。
+[name="Mechanist"]……塞雷娅，解释你的行为。
 [Character(name="avg_npc_532_1#10$1")]
 [name="塞雷娅"]这样更直观些。
 [name="塞雷娅"]我的源石技艺能够对周围含有钙元素的物质进行粒子层面的重构——这就是你们所称的钙质化。
@@ -82,17 +82,17 @@
 [name="塞雷娅"]这一小管银色液体才是关键。
 [name="塞雷娅"]它是动力甲的神经递质，是将操控者的神经活动与这具机械联系起来的媒介。
 [Character(name="avg_npc_521_1#1$1")]
-[name="Mechanist"]就像......施术单元？
+[name="Mechanist"]就像……施术单元？
 [Character(name="avg_npc_532_1#1$1")]
 [name="塞雷娅"]它或许已经超越了一般施术单元的概念。
 [Dialog]
 [Character(name="avg_npc_532_1#1$1",focus=-1)]
-[Decision(options="这个解释很直观。;我想喘口气......", values="1;2")]
+[Decision(options="这个解释很直观。;我想喘口气……", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_532_1#1$1")]
 [name="塞雷娅"]博士，如果我的做法让你感到不适的话，我向你道歉。
 [Character(name="avg_npc_521_1#1$1")]
-[name="Mechanist"]......刚刚要不是博士冲我摆手，我的攻击目标可未必是你的拳头。
+[name="Mechanist"]……刚刚要不是博士冲我摆手，我的攻击目标可未必是你的拳头。
 [Character(name="avg_npc_532_1#10$1")]
 [name="塞雷娅"]所幸我们足够默契。
 [Character(name="avg_npc_532_1#1$1")]
@@ -118,22 +118,22 @@
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#11$1",focus=1)]
 [name="哥伦比亚雇佣兵"]那家伙？他不是在您面前信誓旦旦地说不会见任何莱茵生命的人吗？！
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#1$1",focus=2)]
-[name="霍尔海雅"]塞雷娅......她还算是莱茵生命的人吗？
+[name="霍尔海雅"]塞雷娅……她还算是莱茵生命的人吗？
 [name="霍尔海雅"]恐怕连她自己都不清楚。
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#1$1",focus=1)]
 [name="哥伦比亚雇佣兵"]那我们要不要阻止他们见面？
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#1$1",focus=2)]
 [name="霍尔海雅"]不用。
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#11$1",focus=2)]
-[name="霍尔海雅"]我很好奇，塞雷娅到底掌握了多少信息......
+[name="霍尔海雅"]我很好奇，塞雷娅到底掌握了多少信息……
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#3$1",focus=2)]
 [name="霍尔海雅"]是时候和她聊聊了。
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#1$1",focus=2)]
-[name="霍尔海雅"]对了，还有......洛肯·威廉姆斯是哥伦比亚特里蒙理工大学毕业的。
+[name="霍尔海雅"]对了，还有……洛肯·威廉姆斯是哥伦比亚特里蒙理工大学毕业的。
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#1$1",focus=1)]
-[name="哥伦比亚雇佣兵"]洛肯·威廉姆斯......是谁？
+[name="哥伦比亚雇佣兵"]洛肯·威廉姆斯……是谁？
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#3$1",focus=2)]
-[name="霍尔海雅"]......时间过得可真快，不是吗？
+[name="霍尔海雅"]……时间过得可真快，不是吗？
 [name="霍尔海雅"]一次实验事故，就足以令一颗学界新星坠入尘埃，从此无人知晓。
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#11$1",focus=2)]
 [name="霍尔海雅"]无论如何，塞雷娅还有莱茵生命总辖也毕业于这所学校。
@@ -141,7 +141,7 @@
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#4$1",focus=2)]
 [name="霍尔海雅"]唉，早知道这么热闹，我也该去这所学校待一段时间的。
 [Character(name="avg_npc_399_1#1$1",name2="avg_npc_536_1#2$1",focus=2)]
-[name="霍尔海雅"]走吧，说不定......现在去凑凑热闹也还不算太晚。
+[name="霍尔海雅"]走吧，说不定……现在去凑凑热闹也还不算太晚。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -191,7 +191,7 @@
 [character(name="avg_npc_535_1#11$1",name2="avg_npc_534_1#1$1",focus=1)]
 [name="桑尼"]怎么样？都跟上来了吗？
 [character(name="avg_npc_535_1#11$1",name2="avg_npc_534_1#1$1",focus=2)]
-[name="拓荒队成员"]呼......领队，我们的人都进来了。
+[name="拓荒队成员"]呼……领队，我们的人都进来了。
 [character(name="avg_npc_535_1#11$1",name2="avg_npc_534_1#1$1",focus=1)]
 [name="桑尼"]怪物呢？有没有跟上来？
 [character(name="avg_npc_535_1#11$1",name2="avg_npc_534_1#1$1",focus=2)]
@@ -216,7 +216,7 @@
 [character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]医生，是你关的门吗？
 [character(name="avg_108_silent_1#6$1")]
-[name="赫默"]......我是第一次进入这个实验基地。
+[name="赫默"]……我是第一次进入这个实验基地。
 [character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]乌比卡博士？
 [character(name="avg_135_halo_1#9$1")]
@@ -224,16 +224,16 @@
 [character(name="avg_npc_534_1#1$1")]
 [name="拓荒队成员"]但它锁上了！
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......
+[name="埃琳娜"]……
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]博士......
+[name="桑尼"]博士……
 [character(name="avg_135_halo_1#9$1")]
 [name="埃琳娜"]锁上不是正好？你们不是很怕外面的银色造物吗？
 [character(name="avg_npc_534_1#1$1")]
 [name="拓荒队成员"]我们怎么知道你是想把怪物挡在外面，还是把我们关在里面？！
 [name="拓荒队成员"]搞不好这都是你们计划好的！
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]......我计划好的？
+[name="埃琳娜"]……我计划好的？
 [name="埃琳娜"]呵呵，这么说，是我控制你们绑架了我自己？
 [dialog]
 [character(name="avg_npc_534_1#1$1",name2="avg_135_halo_1#9$1",fadetime=0.5)]
@@ -252,9 +252,9 @@
 [character(name="avg_npc_535_1#5$1")]
 [Delay(time=1)]
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]赫默医生，你有没有听见......什么声音？窸窸窣窣的，就好像有东西在贴着地面滑行......
+[name="桑尼"]赫默医生，你有没有听见……什么声音？窸窸窣窣的，就好像有东西在贴着地面滑行……
 [character(name="avg_108_silent_1#3$1")]
-[name="赫默"]......
+[name="赫默"]……
 [dialog]
 [character]
 [Delay(time=0.51)]
@@ -269,7 +269,7 @@
 [dialog]
 [character]
 [name="温柔的女声"]不要害怕，我会保护你们。
-[name="温柔的女声"]......一如既往。
+[name="温柔的女声"]……一如既往。
 [dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -282,17 +282,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]	
 [character(name="avg_npc_522_1#5$1",name2="avg_npc_530_1#1$1",focus=1)]
-[name="斐尔迪南"]......这是最新一批递质的测试结果？
+[name="斐尔迪南"]……这是最新一批递质的测试结果？
 [character(name="avg_npc_522_1#5$1",name2="avg_npc_530_1#1$1",focus=2)]
 [name="莱茵实验员"]是的，先生。
-[name="莱茵实验员"]不过还只是理论结果......
+[name="莱茵实验员"]不过还只是理论结果……
 [character(name="avg_npc_522_1#1$1",name2="avg_npc_530_1#1$1",focus=1)]
 [name="斐尔迪南"]传导效率提升了百分之一点七。
 [name="斐尔迪南"]一个月过去了，很大的突破。
 [name="斐尔迪南"]你们干得非常出色。想要我给你们更多时间吗？十天，还是二十天？
 [character(name="avg_npc_522_1#1$1",name2="avg_npc_530_1#1$1",focus=2)]
 [characteraction(name="right", type="jump" , power=5, times=2, fadetime=0.51,block=true)]
-[name="莱茵实验员"]对、对不起！呃啊......
+[name="莱茵实验员"]对、对不起！呃啊……
 [character(name="avg_npc_522_1#1$1",name2="avg_npc_530_1#1$1",focus=-1)]
 [name="？？？"]看你把这孩子吓得。
 [name="？？？"]难怪常有人说，能量科主任的夸奖比批评更恐怖。
@@ -308,7 +308,7 @@
 [name="帕尔维斯"]可怜的孩子，你可以回实验室了。我替你陪你们主任聊聊天。
 [character(name="avg_npc_530_1#1$1")]
 [name="莱茵实验员"]啊，好的！
-[name="莱茵实验员"]谢谢......
+[name="莱茵实验员"]谢谢……
 [Dialog]
 [playsound(key="$rungeneral")]
 [character(fadetime=1.5)]
@@ -320,14 +320,14 @@
 [character(name="avg_npc_522_1#1$1",name2="avg_npc_531_1#1$1",focus=1)]
 [name="斐尔迪南"]说吧，是什么消息让你追到了我这里？
 [character(name="avg_npc_522_1#1$1",name2="avg_npc_531_1#1$1",focus=2)]
-[name="帕尔维斯"]嗯......我想想，从哪里说起呢？瞧瞧我这可怜的脑子，年纪上去了，再让它转起来就这么费劲。
+[name="帕尔维斯"]嗯……我想想，从哪里说起呢？瞧瞧我这可怜的脑子，年纪上去了，再让它转起来就这么费劲。
 [character(name="avg_npc_522_1#1$1",name2="avg_npc_531_1#1$1",focus=1)]
 [name="斐尔迪南"]省省吧，你的白头发是天生的，卡普里尼。
 [character(name="avg_npc_522_1#1$1",name2="avg_npc_531_1#1$1",focus=2)]
 [name="帕尔维斯"]哈哈。
 [name="帕尔维斯"]我想起来我要问什么了——你知道缪尔赛思去哪了吗？
 [character(name="avg_npc_522_1#6$1",name2="avg_npc_531_1#1$1",focus=1)]
-[name="斐尔迪南"]......
+[name="斐尔迪南"]……
 [character(name="avg_npc_522_1#6$1",name2="avg_npc_531_1#1$1",focus=2)]
 [name="帕尔维斯"]她跟我打了个赌，要是她输了，就欠我十盒生态科实验农场出品的黑豆茶。
 [character(name="avg_npc_522_1#7$1",name2="avg_npc_531_1#1$1",focus=1)]
@@ -344,9 +344,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]	
 [character(name="avg_npc_535_1#8$1",name2="avg_108_silent_1#6$1",focus=2)]
-[name="赫默"]......桑尼先生？
+[name="赫默"]……桑尼先生？
 [character(name="avg_npc_535_1#8$1",name2="avg_108_silent_1#6$1",focus=1)]
-[name="桑尼"]......
+[name="桑尼"]……
 [character(name="avg_npc_535_1#8$1",name2="avg_108_silent_1#6$1",focus=2)]
 [name="赫默"]你怎么不继续往前走了？
 [character(name="avg_npc_535_1#11$1",name2="avg_108_silent_1#6$1",focus=1)]
@@ -356,15 +356,15 @@
 [character(name="avg_npc_535_1#11$1",name2="avg_108_silent_1#5$1",focus=1)]
 [name="桑尼"]我们不能跟着那个声音走。
 [character(name="avg_npc_535_1#11$1",name2="avg_108_silent_1#6$1",focus=2)]
-[name="赫默"]那个声音......你是说弗兰克斯主任？
+[name="赫默"]那个声音……你是说弗兰克斯主任？
 [name="赫默"]桑尼先生，弗兰克斯主任是这间实验室的主人。她比我和埃琳娜更熟悉这里的构造，比如说哪个区域更加安全。
 [character(name="avg_npc_535_1#11$1",name2="avg_108_silent_1#6$1",focus=1)]
 [name="桑尼"]就是这样，我才不能相信她！
-[name="桑尼"]你没发现吗？她在控制我们，她一直在这样做！她一步步引导我们的行为，渗透我们的思想......
+[name="桑尼"]你没发现吗？她在控制我们，她一直在这样做！她一步步引导我们的行为，渗透我们的思想……
 [PlayMusic(intro="$mist_intro", key="$mist_loop", volume=0.7)]
 [name="桑尼"]她想让我们全都心甘情愿地钻到她设下的牢笼里去！
 [character(name="avg_npc_535_1#11$1",name2="avg_108_silent_1#6$1",focus=2)]
-[name="赫默"]......桑尼先生，请冷静一些，情绪激动对你的病情没有帮助。
+[name="赫默"]……桑尼先生，请冷静一些，情绪激动对你的病情没有帮助。
 [character(name="avg_npc_535_1#6$1",name2="avg_108_silent_1#6$1",focus=1)]
 [name="桑尼"]离我远一些！
 [dialog]
@@ -376,7 +376,7 @@
 [characteraction(name="right", type="jump", xpos=100, power=5, times=1, fadetime=1,block=true)]
 [Delay(time=1)]
 [character(name="avg_npc_535_1#6$1",name2="avg_108_silent_1#6$1",focus=2)]
-[name="赫默"]唔......
+[name="赫默"]唔……
 [character(name="avg_135_halo_1#6$1")]
 [name="埃琳娜"]奥利维亚！你没事吧？
 [character(name="avg_108_silent_1#6$1")]
@@ -387,7 +387,7 @@
 [character(name="avg_npc_534_1#1$1")]
 [name="拓荒队成员"]哈，谁又想跟你们进来？
 [character(name="avg_135_halo_1#9$1")]
-[name="埃琳娜"]我不明白......我真的不明白。
+[name="埃琳娜"]我不明白……我真的不明白。
 [name="埃琳娜"]多萝西明明对你们那么好。
 [dialog]
 [stopmusic(fadetime=1)]
@@ -403,22 +403,22 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [character(name="avg_4048_doroth_1#1$1",name2="avg_npc_534_1#1$1",focus=1)]
-[name="多萝西"]......你儿子的病好些了吗，迪克？
+[name="多萝西"]……你儿子的病好些了吗，迪克？
 [character(name="avg_4048_doroth_1#1$1",name2="avg_npc_534_1#1$1",focus=2)]
-[name="拓荒队成员"]不太好，弗兰克斯主任......医生说他最好要尽快动手术。
-[name="拓荒队成员"]可是......
+[name="拓荒队成员"]不太好，弗兰克斯主任……医生说他最好要尽快动手术。
+[name="拓荒队成员"]可是……
 [character(name="avg_4048_doroth_1#1$1",name2="avg_npc_534_1#1$1",focus=1)]
 [name="多萝西"]你担心费用问题？
 [character(name="avg_4048_doroth_1#1$1",name2="avg_npc_534_1#1$1",focus=2)]
 [name="拓荒队成员"]唉，什么都瞒不过您。我是为了给儿子治病才加入的拓荒队，这还是我参与建设的第一个项目。
 [name="拓荒队成员"]家里早就没什么钱了，早知道我的孩子心脏有问题，我就不该浪费任何钱在矿石病的药上！
-[name="拓荒队成员"]我是没希望了，但他还那么小......呜啊......
+[name="拓荒队成员"]我是没希望了，但他还那么小……呜啊……
 [character(name="avg_4048_doroth_1#8$1",name2="avg_npc_534_1#1$1",focus=1)]
 [name="多萝西"]不要急，迪克，我有办法。
 [name="多萝西"]你看，这是我认识的最好的心脏科医生的联系方式。请立刻带你儿子去找她吧。
 [character(name="avg_4048_doroth_1#8$1",name2="avg_npc_534_1#1$1",focus=2)]
-[name="拓荒队成员"]......最好的心脏科医生？在特里蒙？
-[name="拓荒队成员"]那一定非常贵......
+[name="拓荒队成员"]……最好的心脏科医生？在特里蒙？
+[name="拓荒队成员"]那一定非常贵……
 [character(name="avg_4048_doroth_1#9$1",name2="avg_npc_534_1#1$1",focus=1)]
 [name="多萝西"]医生是我的大学同学。请告诉她，你是多萝西·弗兰克斯的朋友。看在我的面子上，她会给你打折的。
 [character(name="avg_4048_doroth_1#9$1",name2="avg_npc_534_1#1$1",focus=2)]
@@ -427,7 +427,7 @@
 [name="多萝西"]可别跟其他人说哦，减免手术费会影响这些好心的医生在市场上的身价。
 [character(name="avg_4048_doroth_1#8$1",name2="avg_npc_534_1#1$1",focus=2)]
 [name="拓荒队成员"]您放心！这是我们之间的秘密！
-[name="拓荒队成员"]我......我走啦！您一定要替我好好感谢您的朋友！
+[name="拓荒队成员"]我……我走啦！您一定要替我好好感谢您的朋友！
 [dialog]
 [PlaySound(key="$rungeneral", volume=1)]
 [characteraction(name="right", type="move", xpos=300, fadetime=2,block=false)]
@@ -439,7 +439,7 @@
 [character(name="avg_135_halo_1#9$1",fadetime=1.5)]
 [delay(time=2.5)]
 [Character(name="avg_4048_doroth_1#8$1", name2="avg_135_halo_1#9$1",focus=2)]
-[name="埃琳娜"]......
+[name="埃琳娜"]……
 [Character(name="avg_4048_doroth_1#8$1", name2="avg_135_halo_1#9$1",focus=1)]
 [name="多萝西"]你在一边站那么久干什么呀，咖啡都要凉了吧？
 [Character(name="avg_4048_doroth_1#8$1", name2="avg_135_halo_1#9$1",focus=2)]
@@ -448,23 +448,23 @@
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#9$1",focus=1)]
 [name="多萝西"]心疼我，还是心疼咖啡？
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#9$1",focus=2)]
-[name="埃琳娜"]......
+[name="埃琳娜"]……
 [name="埃琳娜"]对我嬉皮笑脸可没有用，弗兰克斯主任。你再怎么跟我扮可怜，我都不会借钱给你吃饭的。
 [Character(name="avg_4048_doroth_1#8$1", name2="avg_135_halo_1#9$1",focus=1)]
 [name="多萝西"]好吧，那我下个月吃速热米饭。
 [Character(name="avg_4048_doroth_1#8$1", name2="avg_135_halo_1#3$1",focus=2)]
-[name="埃琳娜"]你呀......你是莱茵生命的主任，隔三差五来蹭我一个小研究员的饭，这传出去会被人当笑话的吧？
+[name="埃琳娜"]你呀……你是莱茵生命的主任，隔三差五来蹭我一个小研究员的饭，这传出去会被人当笑话的吧？
 [Character(name="avg_4048_doroth_1#5$1", name2="avg_135_halo_1#3$1",focus=1)]
-[name="多萝西"]源石技艺应用科是五个科研科里最穷的啊......
+[name="多萝西"]源石技艺应用科是五个科研科里最穷的啊……
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#3$1",focus=1)]
 [name="多萝西"]我又不是斐尔迪南，总能拉来成堆的赞助，把自己从耳朵到尾巴都打扮得金光闪闪。
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#3$1",focus=2)]
-[name="埃琳娜"]......老板的品味好歹还不错。
+[name="埃琳娜"]……老板的品味好歹还不错。
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#9$1",focus=2)]
 [name="埃琳娜"]好了好了，别想岔开话题。你那个同学我又不是不认识，她一听是你介绍的，大概恨不得多要个百分之十的手术费。
 [name="埃琳娜"]反正你为了你这些拓荒者朋友，多少钱都乐意掏。这么好一个冤大头，不欺负你欺负谁呀？！
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#9$1",focus=1)]
-[name="多萝西"]哈哈......
+[name="多萝西"]哈哈……
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#9$1",focus=2)]
 [name="埃琳娜"]你就笑吧，我真是拿你没办法。
 [Character(name="avg_4048_doroth_1#9$1", name2="avg_135_halo_1#3$1",focus=2)]
@@ -485,7 +485,7 @@
 [Character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]乌比卡博士，你是多萝西·弗兰克斯的朋友。
 [name="桑尼"]你只看到了她想让你看到的。
-[name="桑尼"]你不知道......她的真实目的是多么可怕。
+[name="桑尼"]你不知道……她的真实目的是多么可怕。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -502,13 +502,13 @@
 [name="多萝西"]那太好了——迪克，你想不想回家看他？
 [character(name="avg_npc_534_1#1$1")]
 [name="拓荒队成员"]回、回家？您是说回城里去吗？
-[name="拓荒队成员"]可是......我是感染者，按照规定，我并不能私自进入移动城市......
+[name="拓荒队成员"]可是……我是感染者，按照规定，我并不能私自进入移动城市……
 [Character(name="avg_4048_doroth_1#8$1")]
 [name="多萝西"]除非你们能得到一份新的工作合同，足以为你们支付那笔保险费。
 [name="多萝西"]迪克，眼下就有一个机会——一个能让你摆脱既定命运的机会。
 [name="多萝西"]只要你签下这份知情同意书，你就能回家了。
 [character(name="avg_npc_534_1#1$1")]
-[name="拓荒队成员"]我当然......
+[name="拓荒队成员"]我当然……
 [Character(name="avg_4048_doroth_1#8$1")]
 [name="多萝西"]不，请不要着急答应。你有二十四小时的时间考虑。
 [Character(name="avg_4048_doroth_1#9$1")]
@@ -523,20 +523,20 @@
 [character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]迪克！
 [character(name="avg_npc_534_1#1$1")]
-[name="拓荒队成员"]领、领队？你怎么来了？你也是来报名参加......
+[name="拓荒队成员"]领、领队？你怎么来了？你也是来报名参加……
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]......把这份知情同意书给我。
+[name="桑尼"]……把这份知情同意书给我。
 [character(name="avg_npc_534_1#1$1")]
 [characteraction(name="middle", type="jump" , power=5, times=2, fadetime=0.51,block=true)]
 [name="拓荒队成员"]为什么？不，不行！
 [character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]你没听明白吗？她是想把你变成关在笼子里的实验动物！
 [character(name="avg_npc_534_1#1$1")]
-[name="拓荒队成员"]那......那又怎么样？
-[name="拓荒队成员"]领队，弗兰克斯主任说，我还有机会......
+[name="拓荒队成员"]那……那又怎么样？
+[name="拓荒队成员"]领队，弗兰克斯主任说，我还有机会……
 [name="拓荒队成员"]“机会”这个词语，我们有多久没听见了？
 [character(name="avg_npc_535_1#11$1")]
-[name="桑尼"]......
+[name="桑尼"]……
 [character(name="avg_npc_534_1#1$1")]
 [name="拓荒队成员"]我并不需要二十四小时。
 [name="拓荒队成员"]为了那个再次见到孩子的可能性，我连一分钟都等不了！
@@ -550,22 +550,22 @@
 [Delay(time=1)]
 [Character(name="avg_npc_535_1#4$1")]
 [name="桑尼"]就这样，她带走了迪克。
-[name="桑尼"]不止迪克，还有艾伦、盖尔、索菲亚......
+[name="桑尼"]不止迪克，还有艾伦、盖尔、索菲亚……
 [name="桑尼"]她抓住了我们所有人的弱点。没有人能对她说不。
 [Character(name="avg_npc_535_1#11$1")]
 [name="桑尼"]这就是多萝西·弗兰克斯的伎俩！
-[name="桑尼"]那些银色的生物就是她......
+[name="桑尼"]那些银色的生物就是她……
 [Character(name="avg_135_halo_1#7$1")]
 [name="埃琳娜"]你说那些银色造物？
 [Character(name="avg_135_halo_1#6$1")]
-[name="埃琳娜"]它们明明......咳咳，你根本就不懂！
+[name="埃琳娜"]它们明明……咳咳，你根本就不懂！
 [Character(name="avg_108_silent_1#10$1")]
-[name="赫默"]......
+[name="赫默"]……
 [name="赫默"]两位，关于那些追着我们跑的物体，你们到底各自了解多少？
 [Character(name="avg_npc_535_1#8$1",name2="avg_135_halo_1#3$1",focus=1)]
-[name="桑尼"]......
+[name="桑尼"]……
 [Character(name="avg_npc_535_1#8$1",name2="avg_135_halo_1#3$1",focus=2)]
-[name="埃琳娜"]......
+[name="埃琳娜"]……
 [Character(name="avg_108_silent_1#10$1")]
 [name="赫默"]你们一个说生物，一个说造物。
 [name="赫默"]我确定自己没有听错。毕竟，在黎博利中，我们这一族的听力一贯很好。
@@ -574,7 +574,7 @@
 [Character(name="avg_npc_535_1#8$1",name2="avg_135_halo_1#3$1",focus=2)]
 [name="埃琳娜"]我也是。
 [Character(name="avg_108_silent_1#10$1")]
-[name="赫默"]......
+[name="赫默"]……
 [name="赫默"]这时候你们的意见倒是很一致。
 [Character(name="avg_108_silent_1#7$1")]
 [name="赫默"]算了，无论你们眼里的多萝西到底是什么形象，至少她眼下的确在帮我们逃命。

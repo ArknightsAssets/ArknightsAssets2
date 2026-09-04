@@ -41,23 +41,23 @@
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="轻佻的家族成员"]莎莉小姐，我们老大请你现在过去用餐。
 [Character(name="avg_npc_175")]
-[name="女演员"]这......但是......
+[name="女演员"]这……但是……
 [Character(name="avg_npc_031")]
 [name="严肃的护卫"]莎莉小姐正要去剧场，滚开。
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="轻佻的家族成员"]我们老大现在就想见莎莉小姐，晚点再去剧场也一样吧。
 [Character(name="avg_npc_175")]
-[name="女演员"]我、我要去找总监......
+[name="女演员"]我、我要去找总监……
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=1)]
-[name="轻佻的家族成员"]总监？放在以前，我可能会卖他的面子，但是现在嘛......
+[name="轻佻的家族成员"]总监？放在以前，我可能会卖他的面子，但是现在嘛……
 [Character(name="avg_npc_175")]
 [characteraction(name="middle", type="move", xpos=-50, fadetime=1,block=true)]
-[name="女演员"]那个，请不要......
+[name="女演员"]那个，请不要……
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=2)]
 [name="愤怒的家族成员"]还跟他们客气什么？
 [name="愤怒的家族成员"]我们老大想见你是你的荣幸，不想吃苦头的话就乖乖跟我们来。
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=1)]
-[name="轻佻的家族成员"]等等，老大没让我们......
+[name="轻佻的家族成员"]等等，老大没让我们……
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=2)]
 [name="愤怒的家族成员"]大哥的意思你还不明白吗，之前我们都是忌惮贝洛内。
 [name="愤怒的家族成员"]现在既然贝洛内不行了，大人物们又要洗牌了，这是我们的机会！
@@ -88,7 +88,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="char_empty",name2="avg_201_moeshd_1#11$1",focus=2)]
-[name="可颂"]能天使，怎么......欸，人呢？
+[name="可颂"]能天使，怎么……欸，人呢？
 [Character(name="char_101_sora_1#2")]
 [name="空"]她已经冲上去了，我们也去帮忙！
 [dialog]
@@ -102,7 +102,7 @@
 [Character(name="avg_npc_031")]
 [characteraction(name="left", type="shake", power=10, times=100, fadetime=0.5, block=false)]
 [Delay(time=0.5)]
-[name="严肃的护卫"]唔......
+[name="严肃的护卫"]唔……
 [Dialog]
 [characteraction(name="middle", type="move", ypos=-50, fadetime=0.8,block=false)]
 [playsound(key="$bodyfalldown1")]
@@ -111,11 +111,11 @@
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="轻佻的家族成员"]哼，这点水平也来当护卫？
 [Character(name="avg_npc_175")]
-[name="女演员"]......呜呜。
+[name="女演员"]……呜呜。
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="轻佻的家族成员"]莎莉小姐，请吧。
 [Character(name="avg_npc_175")]
-[name="女演员"]我、我知道了......
+[name="女演员"]我、我知道了……
 [Dialog]
 [Character(name="avg_npc_698_1#1$1",name2="avg_npc_698_1#1$1")]
 [PlaySound(key="$p_atk_smg_n")]
@@ -183,18 +183,18 @@
 [Character(name="avg_103_angel_1#2$1")]
 [name="能天使"]我记得你叫莎莉吧，你没事吧？
 [Character(name="avg_npc_175")]
-[name="女演员"]你们......
+[name="女演员"]你们……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="女演员"]你们知道自己干了什么吗？！
 [name="女演员"]你们这哪里是救我，你们这是在害我。他们是不会善罢甘休的！
 [Character(name="avg_103_angel_1#7$1")]
 [name="能天使"]那你原本打算怎么解决？
 [Character(name="avg_npc_175")]
-[name="女演员"]......忍着。
+[name="女演员"]……忍着。
 [Character(name="avg_103_angel_1#5$1")]
-[name="能天使"]啊？但你都要受伤了......
+[name="能天使"]啊？但你都要受伤了……
 [Character(name="avg_npc_175")]
-[name="女演员"]那也只是......受伤了。
+[name="女演员"]那也只是……受伤了。
 [name="女演员"]你以为他们真的想争夺我吗？他们只是在借机找麻烦罢了。
 [Character(name="avg_103_angel_1#5$1")]
 [name="能天使"]这种事，至少要喊人来帮忙吧。
@@ -203,21 +203,21 @@
 [Character(name="avg_103_angel_1#5$1")]
 [name="能天使"]不是有那位拉维妮娅法官吗？我觉得她人很好啊？
 [Character(name="avg_npc_175")]
-[name="女演员"]......拉维妮娅法官确实是难得的好法官，但是，她拿这种事情也是没有办法的。
+[name="女演员"]……拉维妮娅法官确实是难得的好法官，但是，她拿这种事情也是没有办法的。
 [name="女演员"]而且，如果我走不出这个公园，又有多少人知道，我是因为那些家族成员的冲突而消失的？
 [Character(name="char_101_sora_1#4")]
-[name="空"]所以......就要忍着吗？
+[name="空"]所以……就要忍着吗？
 [Character(name="avg_npc_175")]
 [name="女演员"]除此之外，我不知道别的办法。我们从来就是这么生活的。
 [name="女演员"]找个地方躲起来，等到他们分出高下，然后跟着胜利的那一方离开，我只能这么做。
 [Character(name="char_101_sora_1#4")]
-[name="空"]怎么会这样......
+[name="空"]怎么会这样……
 [Character(name="avg_npc_175")]
-[name="女演员"]......
+[name="女演员"]……
 [name="女演员"]唉，抱歉，我也不是真的想责备你们，说实在的，我长这么大，还是第一次真正体验被保护的感觉。
 [name="女演员"]那个家族也不是什么特别了不起的家族，总监应该会愿意帮我摆平。
 [name="女演员"]但是，我还是建议你们，如果打算在叙拉古生活下去，那以后就少做这样的事。
-[name="女演员"]尤其是接下来这段时间......
+[name="女演员"]尤其是接下来这段时间……
 [Character(name="avg_103_angel_1#7$1")]
 [name="能天使"]接下来怎么了？
 [Character(name="avg_npc_175")]
@@ -225,7 +225,7 @@
 [Character(name="avg_201_moeshd_1#15$1")]
 [name="可颂"]我看到了，说他遇刺身亡了。
 [Character(name="char_101_sora_1#4")]
-[name="空"]真是可怜的人......
+[name="空"]真是可怜的人……
 [Character(name="avg_npc_175")]
 [name="女演员"]看在你们毕竟算是好心的分上，我就多告诉你们一点吧。
 [name="女演员"]我平时多少要应付一些家族成员，所以从他们那里也听说了一些。
@@ -239,23 +239,23 @@
 [name="空"]你有听他们提起德克萨斯这个姓氏吗？
 [Character(name="avg_npc_175")]
 [name="女演员"]德克萨斯？这个姓氏在叙拉古没有人不知道吧。
-[name="女演员"]不过，好像确实听到他们说什么最后的德克萨斯之类的......
+[name="女演员"]不过，好像确实听到他们说什么最后的德克萨斯之类的……
 [Character(name="char_101_sora_1#3")]
 [name="空"]真的吗！
 [Character(name="avg_npc_175")]
 [name="女演员"]你这人真奇怪，这明显就是假的吧，德克萨斯家族怎么可能还有人活着。
 [Character(name="char_101_sora_1#5")]
-[name="空"]但......好吧，你说得也对。
+[name="空"]但……好吧，你说得也对。
 [Character(name="avg_npc_175")]
 [name="女演员"]总而言之，你应该知道，我们剧团因为总监的门路，有一些贝洛内家的关系。
-[name="女演员"]像是刚才那拨人，放在以前，他们都要卖总监一个面子，但是现在......
+[name="女演员"]像是刚才那拨人，放在以前，他们都要卖总监一个面子，但是现在……
 [name="女演员"]你们都看到了。
 [Character(name="avg_103_angel_1#2$1")]
 [name="能天使"]叙拉古家族们都这么为所欲为的吗？
 [Character(name="avg_npc_175")]
-[name="女演员"]......记住我这句话吧。
+[name="女演员"]……记住我这句话吧。
 [name="女演员"]想要在叙拉古生活，要么成为家族的一员，要么就离他们要多远有多远。
-[name="女演员"]......然后，自欺欺人地告诉自己，只要离他们远一点，就不会惹上麻烦。
+[name="女演员"]……然后，自欺欺人地告诉自己，只要离他们远一点，就不会惹上麻烦。
 [name="女演员"]好了，我该回剧院了。
 [Character(name="char_101_sora_1#5")]
 [name="空"]嗯。
@@ -271,7 +271,7 @@
 [Character(name="avg_103_angel_1#4$1")]
 [name="能天使"]又怎么了？！
 [Character]
-[name="女演员"]这里......有个被绑住的人！
+[name="女演员"]这里……有个被绑住的人！
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -286,7 +286,7 @@
 [name="甘比诺"]真是搞不懂，为什么当时特地要留他一个活口，现在又要把他放出来。他有什么特别的吗？
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#1$1",focus=1)]
 [name="卡彭"]这说明，那个神秘兮兮的调酒的想要这家伙现在被人发现。
-[name="卡彭"]至于为什么......一般是要给人下套吧。
+[name="卡彭"]至于为什么……一般是要给人下套吧。
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#6$1",focus=2)]
 [name="甘比诺"]啧，真是个阴险的家伙。
 [Character(name="avg_npc_541_1#8$1",name2="avg_npc_542_1#6$1",focus=1)]
@@ -294,7 +294,7 @@
 [Character(name="avg_npc_541_1#8$1",name2="avg_npc_542_1#10$1",focus=2)]
 [name="甘比诺"]无聊。
 [Character(name="avg_npc_541_1#10$1",name2="avg_npc_542_1#10$1",focus=1)]
-[name="卡彭"]......哈。
+[name="卡彭"]……哈。
 [Character(name="avg_npc_541_1#10$1",name2="avg_npc_542_1#6$1",focus=2)]
 [name="甘比诺"]笑什么？
 [Character(name="avg_npc_541_1#9$1",name2="avg_npc_542_1#6$1",focus=1)]
@@ -302,7 +302,7 @@
 [name="卡彭"]真是想不到，都多少年过去了，弯弯绕绕到最后，居然还是跟你一起打拼。
 [name="卡彭"]命运这玩意，还真是捉摸不透啊。
 [Character(name="avg_npc_541_1#9$1",name2="avg_npc_542_1#1$1",focus=2)]
-[name="甘比诺"]......哼，可不是么。
+[name="甘比诺"]……哼，可不是么。
 [name="甘比诺"]谁知道，会在龙门发生那样的事。
 [name="甘比诺"]发生了那样的事最后居然还回到了叙拉古。
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#1$1",focus=1)]
@@ -322,9 +322,9 @@
 [character]
 [name="？？？"]是啊，一回到叙拉古，就参与了针对十二家族之一少主的刺杀，你们两个确实长本事了。
 [Character(name="avg_npc_541_1#7$1",name2="avg_npc_542_1#6$1",focus=1)]
-[name="卡彭"]......好日子到头了。
+[name="卡彭"]……好日子到头了。
 [Character(name="avg_npc_541_1#7$1",name2="avg_npc_542_1#1$1",focus=2)]
-[name="甘比诺"]......拉普兰德。
+[name="甘比诺"]……拉普兰德。
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_walk_n", volume=0.7)]
@@ -332,7 +332,7 @@
 [Delay(time=1)]
 [name="拉普兰德"]嚯，早饭吃得还不错嘛。
 [Character(name="avg_npc_541_1#7$1",name2="avg_npc_542_1#1$1",focus=2)]
-[name="甘比诺"]......要吃自己买。
+[name="甘比诺"]……要吃自己买。
 [Character(name="avg_npc_683_1#3$1")]
 [name="拉普兰德"]这可不是对待上司的态度哦。
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#1$1",focus=1)]
@@ -348,7 +348,7 @@
 [name="甘比诺"]萨卢佐？
 [name="甘比诺"]你姓那个萨卢佐？
 [Character(name="avg_npc_541_1#3$1",name2="avg_npc_542_1#2$1",focus=1)]
-[name="卡彭"]......
+[name="卡彭"]……
 [Character(name="avg_npc_683_1#10$1")]
 [name="拉普兰德"]卡彭，你知道我最讨厌的第三件事是什么吗？
 [character]
@@ -390,7 +390,7 @@
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="卢比奥"]拉维妮娅法官阁下，稀客，稀客。
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#4$1",focus=2)]
-[name="拉维妮娅"]......你的办公室，真是气派。
+[name="拉维妮娅"]……你的办公室，真是气派。
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#4$1",focus=1)]
 [name="卢比奥"]哈哈，平时要接待贵客，他们都喜欢这种装修，干脆我也弄成了这样。
 [name="卢比奥"]所以，找我有何贵干？
@@ -403,15 +403,15 @@
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#8$1",focus=2)]
 [name="拉维妮娅"]只是——出于我个人的一些想法，想找你聊一聊。
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#8$1",focus=1)]
-[name="卢比奥"]......噢，我听说了，你说你会找出凶手，给卡拉奇一个交代。
+[name="卢比奥"]……噢，我听说了，你说你会找出凶手，给卡拉奇一个交代。
 [name="卢比奥"]好啊，好，年轻人就应该这样有冲劲。
 [name="卢比奥"]现在有进展了吗？
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#1$1",focus=2)]
-[name="拉维妮娅"]......很遗憾，还没有。
+[name="拉维妮娅"]……很遗憾，还没有。
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="卢比奥"]可惜，可惜。
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#1$1",focus=2)]
-[name="拉维妮娅"]我听说，你和卡拉奇部长的私交不错，所以......
+[name="拉维妮娅"]我听说，你和卡拉奇部长的私交不错，所以……
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="卢比奥"]确实，卡拉奇对于民生相当关注，饮食啊，卫生啊之类的，他都挺关心的。
 [name="卢比奥"]不过，我可能没什么能帮到你的。
@@ -422,7 +422,7 @@
 [name="拉维妮娅"]随便什么都可以，你觉得可疑的地方，或者在政府方面值得注意的人。
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="卢比奥"]太多了，你能明白我的意思吗？
-[name="卢比奥"]......法官阁下，在卡拉奇之前，死了几个建设部部长，你还记得吗？
+[name="卢比奥"]……法官阁下，在卡拉奇之前，死了几个建设部部长，你还记得吗？
 [Character(name="avg_npc_689_1#2$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="卢比奥"]七个？还是八个？
 [name="卢比奥"]坐在这个位置的人不过是个傀儡，每个家族都想把自己的人推上去。
@@ -443,7 +443,7 @@
 [name="卢比奥"]那他最后获得了什么呢？
 [name="卢比奥"]不，就按照你说的吧，假设他是个无私的人，那他为之努力的人，那些他常常挂在嘴上的“市民”，最后还给他什么了吗？
 [Character(name="avg_npc_689_1#4$1",name2="avg_4065_judge_1#8$1",focus=2)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#8$1",focus=1)]
 [name="卢比奥"]法官阁下，我也是听说过你不少传闻的。
 [name="卢比奥"]你确实做出了不少成绩。
@@ -455,12 +455,12 @@
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#4$1",focus=2)]
 [name="拉维妮娅"]我绝对没有这个意思。
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#4$1",focus=1)]
-[name="卢比奥"]......我倒宁愿你有这个意思。
+[name="卢比奥"]……我倒宁愿你有这个意思。
 [name="卢比奥"]听我一句劝吧，法官阁下。
 [name="卢比奥"]死了的人就是死了。
 [name="卢比奥"]我们自己的麻烦已经够多了，别为死人操心太多。
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#7$1",focus=2)]
-[name="拉维妮娅"]......这就是与卡拉奇部长交好的人的态度吗？
+[name="拉维妮娅"]……这就是与卡拉奇部长交好的人的态度吗？
 [Character(name="avg_npc_689_1#1$1",name2="avg_4065_judge_1#7$1",focus=1)]
 [name="卢比奥"]如果你想要在沃尔西尼的政府里再活得久一点，那我建议你也应该学一学。
 [Dialog]
@@ -479,11 +479,11 @@
 [name="卢比奥"]那么，今晚有一家新开的餐厅邀请我去检查一下他们的食材。
 [name="卢比奥"]我就不奉陪了。
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#1$1",focus=2)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="卢比奥"]对了，请转告莱昂图索少爷，如果他对美食有兴趣，欢迎来找我。
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#1$1",focus=2)]
-[name="拉维妮娅"]......我会记住的。
+[name="拉维妮娅"]……我会记住的。
 [Character(name="avg_npc_689_1#5$1",name2="avg_4065_judge_1#1$1",focus=1)]
 [name="卢比奥"]那么，不送。
 [dialog]
@@ -495,7 +495,7 @@
 [Delay(time=1)]
 [Character(name="avg_4065_judge_1#8$1",fadetime=0.5)]
 [Delay(time=1)]
-[name="拉维妮娅"]......唉。
+[name="拉维妮娅"]……唉。
 [Dialog]
 [playsound(key="$phonevibration")]
 [Delay(time=2)]
@@ -525,7 +525,7 @@
 [Character(name="avg_npc_683_1#9$1")]
 [name="拉普兰德"]所以，你们猜你们的雇主是谁？
 [Character(name="avg_npc_541_1#7$1",name2="avg_npc_542_1#6$1",focus=1)]
-[name="卡彭"]......罗塞蒂或者萨卢佐呗，十二家族在这座城里争了这么久，除了贝洛内，剩下还有力气的也就这两家了。
+[name="卡彭"]……罗塞蒂或者萨卢佐呗，十二家族在这座城里争了这么久，除了贝洛内，剩下还有力气的也就这两家了。
 [Character(name="avg_npc_683_1#9$1")]
 [name="拉普兰德"]确实，一般人恐怕都会这么想吧。
 [name="拉普兰德"]但是，现在你们已经知道，萨卢佐并没有策划这样的事。
@@ -539,11 +539,11 @@
 [name="拉普兰德"]一开始被你们解决的那几个倒霉蛋，他们原本的目标，是建设部的人。
 [name="拉普兰德"]而贝洛内的少爷如今在建设部干活，也就是说，被你们解决的那批人，实际上，也是要对贝洛内不利的人。
 [Character(name="avg_npc_541_1#5$1",name2="avg_npc_542_1#6$1",focus=1)]
-[name="卡彭"]......你是说，我们帮贝洛内解决了一个威胁，却在那之后，又参与了一场更大的针对贝洛内的刺杀。
+[name="卡彭"]……你是说，我们帮贝洛内解决了一个威胁，却在那之后，又参与了一场更大的针对贝洛内的刺杀。
 [Character(name="avg_npc_541_1#5$1",name2="avg_npc_542_1#7$1",focus=2)]
-[name="甘比诺"]......这有什么好大惊小怪的，家族之间互相倾轧这种事，我们见得还少吗？
+[name="甘比诺"]……这有什么好大惊小怪的，家族之间互相倾轧这种事，我们见得还少吗？
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#7$1",focus=1)]
-[name="卡彭"]这......倒也确实，说不定我们一开始只是随手解决了几个不长眼的家伙。
+[name="卡彭"]这……倒也确实，说不定我们一开始只是随手解决了几个不长眼的家伙。
 [Character(name="avg_npc_683_1#3$1")]
 [name="拉普兰德"]但是，别忘了，那是一次“灭口”。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -564,10 +564,10 @@
 [name="拉普兰德"]这时候，要是有线索就好了。
 [name="拉普兰德"]而你们丢出去的那个杀手，不就是最好的线索吗？
 [Character(name="avg_npc_541_1#8$1",name2="avg_npc_542_1#2$1",focus=1)]
-[name="卡彭"]所以才在这个时候把这家伙丢出来吗......
+[name="卡彭"]所以才在这个时候把这家伙丢出来吗……
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#2$1",focus=1)]
 [name="卡彭"]这倒是说得通。
-[name="卡彭"]然后，再稍微做些埋伏，让这个法官出些意外......
+[name="卡彭"]然后，再稍微做些埋伏，让这个法官出些意外……
 [Dialog]
 [Character]
 [CameraShake(duration=0.5, xstrength=15, ystrength=8, vibrato=10, randomness=90, fadeout=true, block=false)]
@@ -582,7 +582,7 @@
 [name="拉普兰德"]啊，真是个不错的点子。
 [name="拉普兰德"]不错到如果不是这样发展的话，我想让它变成这种发展。
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#1$1",focus=2)]
-[name="甘比诺"]......所以，你们两个的意思是，这是贝洛内的自导自演？
+[name="甘比诺"]……所以，你们两个的意思是，这是贝洛内的自导自演？
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#1$1",focus=1)]
 [name="卡彭"]不是没有这种可能。
 [name="卡彭"]毕竟，最了解贝洛内的，无疑是贝洛内自己。
@@ -599,7 +599,7 @@
 [Character(name="avg_npc_683_1#3$1")]
 [name="拉普兰德"]啊哈，说不定他们在自导自演，故意示弱，让所有人都以为他们已经不堪一击。
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#4$1",focus=1)]
-[name="卡彭"]......但他们已经胜券在握了。
+[name="卡彭"]……但他们已经胜券在握了。
 [name="卡彭"]难道你想说，贝洛内的内部串通好了，放弃唾手可得的城市，非要把这座城市搅得天翻地覆？
 [Character(name="avg_npc_541_1#1$1",name2="avg_npc_542_1#10$1",focus=2)]
 [name="甘比诺"]他们有病？
@@ -631,29 +631,29 @@
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="德米特里"]人都埋伏好了吗？
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=2)]
-[name="护卫"]......是。
+[name="护卫"]……是。
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="德米特里"]你好像有话要说。
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=2)]
-[name="护卫"]......我只是觉得，拉维妮娅小姐有些可怜。
+[name="护卫"]……我只是觉得，拉维妮娅小姐有些可怜。
 [name="护卫"]不管怎么说，她毕竟也算是我们家族的朋友。
 [Character(name="avg_npc_690_1#8$1",name2="avg_npc_698_1#1$1",focus=1)]
-[name="德米特里"]......如果，如果和她成为朋友的不是莱昂，不是贝洛内家族下一任的领袖——
+[name="德米特里"]……如果，如果和她成为朋友的不是莱昂，不是贝洛内家族下一任的领袖——
 [name="德米特里"]我也不想当这个恶人。
 [name="德米特里"]她想玩她的公正游戏，她大可以去玩。
 [Character(name="avg_npc_690_1#3$1",name2="avg_npc_698_1#1$1",focus=1)]
-[name="德米特里"]但是，她自以为有首领为她背书，这些年做的事，对莱昂......不，对我们整个家族的影响都越来越大了。
+[name="德米特里"]但是，她自以为有首领为她背书，这些年做的事，对莱昂……不，对我们整个家族的影响都越来越大了。
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="德米特里"]贝洛内不需要这样的温情脉脉。
 [name="德米特里"]她必须认清这一点，莱昂也必须认清这一点。
-[name="德米特里"]否则......
+[name="德米特里"]否则……
 [name="德米特里"]我们是没有办法在即将到来的混乱中取得最终胜利的。
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=2)]
-[name="护卫"]但是，少爷他......
+[name="护卫"]但是，少爷他……
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=1)]
 [name="德米特里"]我知道你们许多人心里都有疑虑，这件事的一切责任在我，莱昂到时候问罪下来，不会波及你们。
 [Character(name="avg_npc_690_1#9$1",name2="avg_npc_698_1#1$1",focus=2)]
-[name="护卫"]......唉。
+[name="护卫"]……唉。
 [StopMusic(fadetime=2)]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -677,7 +677,7 @@
 [Character(name="avg_1028_texas2_1#1$1",focus=-1)]
 [Delay(time=2)]
 [Character(name="avg_1028_texas2_1#7$1")]
-[name="德克萨斯"]......谁？
+[name="德克萨斯"]……谁？
 [Dialog]
 [Character(name="avg_1028_texas2_1#7$1",name2="char_empty")]
 [Delay(time=0.5)]
@@ -686,11 +686,11 @@
 [Character(name="avg_1028_texas2_1#7$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]我给你带了点巧克力，要吃吗？
 [Character(name="avg_1028_texas2_1#5$1",name2="avg_npc_683_1#9$1",focus=1)]
-[name="德克萨斯"]......叙拉古的监狱安保真是让人无法信任。
+[name="德克萨斯"]……叙拉古的监狱安保真是让人无法信任。
 [Character(name="avg_1028_texas2_1#5$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]实际上，和别的城市相比，这座监狱已经称得上固若金汤了。
 [Character(name="avg_1028_texas2_1#2$1",name2="avg_npc_683_1#9$1",focus=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Dialog]
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#9$1",focus=1)]
 德克萨斯微微叹了一口气，接过拉普兰德手中的巧克力咬了一口。
@@ -711,7 +711,7 @@
 [name="拉普兰德"]但是，就在这个节点，却发生了昨天那场刺杀。
 [name="拉普兰德"]以至于让人不得不去想，太刻意了，出手的人真的想要藏吗？
 [Character(name="avg_1028_texas2_1#8$1",name2="avg_npc_683_1#9$1",focus=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [Character(name="avg_1028_texas2_1#8$1",name2="avg_npc_683_1#9$1",focus=2)]
 [name="拉普兰德"]所以你呢，打算在这座监狱里继续回忆龙门的点点滴滴，直到那个法官放你出去？
 [name="拉普兰德"]你不是急着想要回龙门吗？
@@ -720,7 +720,7 @@
 [Character(name="avg_1028_texas2_1#1$1",name2="avg_npc_683_1#1$1",focus=2)]
 [name="拉普兰德"]但是，如果那个法官现在可能有危险呢？
 [Character(name="avg_1028_texas2_1#7$1",name2="avg_npc_683_1#1$1",focus=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [StopMusic(fadetime=2)]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -742,14 +742,14 @@
 [Character(name="avg_4065_judge_1#7$1",name2="avg_npc_697_1#1$1",focus=2)]
 [name="书记员"]是白日剧团的几个演员，她们因为还有排练就先离开了。
 [Character(name="avg_4065_judge_1#8$1",name2="avg_npc_697_1#1$1",focus=1)]
-[name="拉维妮娅"]白日剧团吗......贝纳尔多的人？
+[name="拉维妮娅"]白日剧团吗……贝纳尔多的人？
 [name="拉维妮娅"]他还真是阴魂不散。
 [Character(name="avg_4065_judge_1#8$1",name2="avg_npc_697_1#1$1",focus=2)]
 [name="书记员"]拉维妮娅法官，上次你报告的那起灭口案，被杀的就是这家伙的同伙吧？
 [Character(name="avg_4065_judge_1#1$1",name2="avg_npc_697_1#1$1",focus=1)]
 [name="拉维妮娅"]嗯，我们在那些人的身上没有发现任何能证明身份的东西。
 [Character(name="avg_4065_judge_1#1$1",name2="avg_npc_697_1#1$1",focus=2)]
-[name="书记员"]可为什么这个领头的，会这么凄惨地出现在这里......
+[name="书记员"]可为什么这个领头的，会这么凄惨地出现在这里……
 [name="书记员"]要我试试看叫醒他吗？
 [Character(name="avg_4065_judge_1#1$1",name2="avg_npc_697_1#1$1",focus=1)]
 [name="拉维妮娅"]拜托你了。
@@ -760,11 +760,11 @@
 [Character(name="avg_npc_031",fadetime=1)]
 [Delay(time=1)]
 [CameraShake(duration=0.5, xstrength=7, ystrength=5, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="冷静的杀手"]咳咳咳......咳咳！
+[name="冷静的杀手"]咳咳咳……咳咳！
 [Character(name="avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]别挣扎，你已经被我们控制了。
 [Character(name="avg_npc_031")]
-[name="冷静的杀手"]......拉维妮娅。
+[name="冷静的杀手"]……拉维妮娅。
 [Character(name="avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]你明白自己的处境吗？是谁把你绑了放在这里的？
 [Character(name="avg_npc_031")]
@@ -774,7 +774,7 @@
 [Character(name="avg_npc_031")]
 [name="冷静的杀手"]嘿，或许我可以依据刑法典第十四条，对非正规的讯问保持沉默。
 [Character(name="avg_4065_judge_1#5$1")]
-[name="拉维妮娅"]......你很熟悉法律。
+[name="拉维妮娅"]……你很熟悉法律。
 [Character(name="avg_npc_031")]
 [name="冷静的杀手"]怎么，你想对我用第一百三十二条的特别处置权吗，法官？
 [Character(name="avg_4065_judge_1#7$1")]
@@ -782,13 +782,13 @@
 [Character(name="avg_npc_031")]
 [name="冷静的杀手"]一个杀手。
 [Character(name="avg_4065_judge_1#5$1")]
-[name="拉维妮娅"]不，我想起来了......我见过你。
+[name="拉维妮娅"]不，我想起来了……我见过你。
 [Character(name="avg_npc_031")]
 [name="冷静的杀手"]就在昨天的餐馆里，嗯？你救了那个倒霉的建设部小文员。
 [Character(name="avg_4065_judge_1#8$1")]
 [name="拉维妮娅"]三年前，在一场法律论坛上。索伦托市的博尔托洛蒂法官发表了异常精彩的演讲。
 [Character(name="avg_npc_031")]
-[name="冷静的杀手"]......
+[name="冷静的杀手"]……
 [Character(name="avg_4065_judge_1#1$1")]
 [name="拉维妮娅"]法官先生，你的报告让我印象深刻。
 [Character(name="avg_npc_031")]
@@ -798,7 +798,7 @@
 [Character(name="avg_npc_031")]
 [name="冷静的杀手"]别自以为是了，拉维妮娅。你以为你了解我？从一个装点门面的法律论坛里的一次充满幻想的报告中？
 [Character(name="avg_4065_judge_1#6$1")]
-[name="拉维妮娅"]热忱是做不了假的。你当时说......
+[name="拉维妮娅"]热忱是做不了假的。你当时说……
 [Character(name="avg_npc_031")]
 [name="冷静的杀手"]我当时只是说了些疯话，发了些幼稚的议论而已，所有的年轻人都这样，自以为自己能改变世界。
 [name="冷静的杀手"]我只是清醒得比你早些，拉维妮娅。
@@ -832,7 +832,7 @@
 [Blocker(a=0,  r=0, g=0, b=0,fadetime=0.3, block=false)]
 [Character(name="avg_4065_judge_1#15$1",name2="char_empty")]
 [characteraction(name="left", type="move", xpos=200, fadetime=0, block=false)]
-[name="拉维妮娅"]怎......?
+[name="拉维妮娅"]怎……?
 [Dialog]
 [Character(name="avg_4065_judge_1#15$1",name2="avg_1028_texas2_1#7$1",fadetime=0.3)]
 [characteraction(name="right", type="move", xpos=200, fadetime=0, block=false)]

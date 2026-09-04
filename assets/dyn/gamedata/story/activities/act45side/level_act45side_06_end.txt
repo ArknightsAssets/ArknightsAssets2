@@ -18,7 +18,7 @@
 [charslot]
 [name="激动的孩子A"]我的是存钱罐！你听，里面都是攒下来的硬币！
 [charslot]
-[name="激动的孩子B"]这是我前段时间种出的小花......很好看，所以想让贝娜姐姐帮忙保存。
+[name="激动的孩子B"]这是我前段时间种出的小花……很好看，所以想让贝娜姐姐帮忙保存。
 [charslot(slot="m",name="avg_369_bena_1#6$1",focus="m")]
 [name="贝娜"]好好好，大家排好队——一个个来！
 [dialog]
@@ -26,7 +26,7 @@
 爱丽丝和贝娜尝试让孩子们有序地介绍他们心中的珍视之物，但似乎每个孩子身上都散发着无限的热情。
 稚嫩的童声此起彼伏，眼下的光景却丝毫不见混乱，反而充满了温馨。
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2", focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n")]
@@ -35,7 +35,7 @@
 [name="和善的镇民"]这不是祥子吗？
 [name="和善的镇民"]你怎么突然回来啦？
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
-[name="丰川祥子"]	你是......？
+[name="丰川祥子"]	你是……？
 [charslot(slot="m",name="avg_290_vigna_1#8$1",focus="m")]
 [name="红豆"]我们最近正好在这有外勤任务，我就带祥子一起过来了，顺便让她回家看看。
 [charslot(slot="m",name="avg_npc_243",focus="m")]
@@ -43,15 +43,15 @@
 [name="和善的镇民"]我就没见过他这么多话的时候，看来是真想你了！
 [name="和善的镇民"]你快回去吧。给他一个惊喜，然后好好安慰一下他！
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
-[name="丰川祥子"]	......
+[name="丰川祥子"]	……
 [charslot(slot="m",name="avg_290_vigna_1#11$1",focus="m")]
-[name="红豆"]	（小声）祥子，你从刚才就很奇怪......感觉反应老是慢半拍！
+[name="红豆"]	（小声）祥子，你从刚才就很奇怪……感觉反应老是慢半拍！
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2", focus="m")]
-[name="丰川祥子"]	请问......我家往哪走？
+[name="丰川祥子"]	请问……我家往哪走？
 [charslot]
 [charslot(slot="l",name="avg_290_vigna_1#11$1",focus="all")]
 [charslot(slot="r",name="avg_npc_243",focus="all")]
-[name="红豆&和善的镇民"]......？
+[name="红豆&和善的镇民"]……？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -87,19 +87,19 @@
 [dialog]
 [charslot(slot="m",name="avg_npc_1940_1#2$1", focus="m",duration=1)]
 [delay(time=2)]
-[name="“父亲”"]......祥子？！
+[name="“父亲”"]……祥子？！
 [charslot(slot="m",name="avg_npc_1940_1#2$1", focus="m")]
 [name="“父亲”"]你怎么突然回来了，不是说在公司工作很忙吗？
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2", focus="m")]
-[name="丰川祥子"]	嗯......正好有外派任务，所以回来看看。
+[name="丰川祥子"]	嗯……正好有外派任务，所以回来看看。
 [charslot(slot="m",name="avg_npc_1940_1#6$1", focus="m")]
 [name="“父亲”"]你也不常寄信回来，我每天只能拿你以前的信翻来覆去地看。
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2", focus="m")]
-[name="丰川祥子"]	普通的信而已，倒也没有必要......
+[name="丰川祥子"]	普通的信而已，倒也没有必要……
 [charslot(slot="m",name="avg_npc_1940_1#6$1", focus="m")]
 [name="“父亲”"]宝贝女儿寄回来的信，怎么可能普通呢！
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2", focus="m")]
-[name="丰川祥子"]	父亲，好像有什么东西烧煳了......
+[name="丰川祥子"]	父亲，好像有什么东西烧煳了……
 [charslot(slot="m",name="avg_npc_1940_1#2$1", focus="m")]
 [name="“父亲”"]——！
 [charslot(slot="m",name="avg_npc_1940_1#4$1", focus="m")]
@@ -116,7 +116,7 @@
 [delay(time=3)]
 [charslot(slot="m",name="avg_npc_1940_1#3$1", focus="m",duration=1)]
 [delay(time=1.5)]
-[name="“父亲”"]忘记注意时间了......这下得重新做了......
+[name="“父亲”"]忘记注意时间了……这下得重新做了……
 [charslot(slot="m",name="avg_npc_1940_1#1$1", focus="m")]
 [name="“父亲”"]为了能做出祥子喜欢的料理，我专门去学习了好一阵子，你不想尝尝吗？
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2", focus="m")]
@@ -124,7 +124,7 @@
 [charslot(slot="m",name="avg_npc_1940_1#6$1", focus="m")]
 [name="“父亲”"]现在日子过得悠闲了，没事就喜欢捣鼓点新玩意。
 [charslot(slot="m",name="avg_npc_1940_1#3$1", focus="m")]
-[name="“父亲”"]而且你的脸都瘦成这样了......
+[name="“父亲”"]而且你的脸都瘦成这样了……
 [charslot(slot="m",name="avg_4182_oblvns_1#12$2", focus="m")]
 [name="丰川祥子"]	罗德岛有定期体检——我体重还是和以前一样，没有变化。
 [charslot(slot="m",name="avg_npc_1940_1#3$1", focus="m")]
@@ -135,21 +135,21 @@
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2", focus="m")]
 [name="丰川祥子"]——！
 [charslot(slot="m",name="avg_npc_1940_1#5$1", focus="m")]
-[name="“父亲”"]嗯......？
+[name="“父亲”"]嗯……？
 [dialog]
 [charslot]
 父亲的手让她感到既陌生又熟悉。
 记忆里她总是弯下腰，将烂醉的父亲的手臂搭在自己肩上，然后半步半步地往家的方向走去。
-他的手总是无力地垂在她眼前，就像刚才那样近在咫尺，可又那么不同......
+他的手总是无力地垂在她眼前，就像刚才那样近在咫尺，可又那么不同……
 [charslot(slot="m",name="avg_4182_oblvns_1#2$2", focus="m")]
-[name="丰川祥子"]......
-[name="丰川祥子"]又不是小孩子了，不要这样了......
+[name="丰川祥子"]……
+[name="丰川祥子"]又不是小孩子了，不要这样了……
 [charslot(slot="m",name="avg_npc_1940_1#5$1", focus="m")]
 [name="“父亲”"]对我来说，祥子永远都是我可爱的女儿。
 [charslot(slot="m",name="avg_npc_1940_1#5$1", focus="m")]
 [name="“父亲”"]即使出去工作了，也不能忘记保持笑容啊~
 [charslot(slot="m",name="avg_4182_oblvns_1#13$2", focus="m")]
-[name="丰川祥子"]......嗯。
+[name="丰川祥子"]……嗯。
 [dialog]
 [charslot]
 父女两人面对面地笑了起来，刚才的犹豫也全被祥子抛在了脑后。
@@ -159,13 +159,13 @@
 [PlaySound(key="$d_avg_smoothpiano", volume=0.2)]
 [delay(time=4)]
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2", focus="m")]
-[name="丰川祥子"]楼上为什么会有钢琴声......今天家里有客人吗？
+[name="丰川祥子"]楼上为什么会有钢琴声……今天家里有客人吗？
 [charslot(slot="m",name="avg_npc_1940_1#2$1", focus="m")]
 [name="“父亲”"]嗯？你在说什么呀，祥子？
 [charslot(slot="m",name="avg_npc_1940_1#2$1", focus="m")]
 [name="“父亲”"]肯定是瑞穗在琴房练琴呀。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2", focus="m")]
-[name="丰川祥子"]......妈妈？
+[name="丰川祥子"]……妈妈？
 [charslot(slot="m",name="avg_npc_1940_1#5$1", focus="m")]
 [name="“父亲”"]是啊，那架钢琴不是从来都只有你和瑞穗能弹吗？
 [charslot(slot="m",name="avg_npc_1940_1#5$1", focus="m")]
@@ -220,9 +220,9 @@
 她就坐在那，沉醉在自己的演奏中。
 窗外的光线打在她的身上，让她的身影有些难以分辨。
 可此时此刻，祥子心中只有一个想法——
-[name="丰川祥子"]	妈......妈妈......？
+[name="丰川祥子"]	妈……妈妈……？
 “母亲”停下了演奏，她转过了身。
-[name="“母亲”"]......祥子？
+[name="“母亲”"]……祥子？
 眼前的一切，是那么地真切。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

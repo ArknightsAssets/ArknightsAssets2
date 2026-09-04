@@ -9,7 +9,7 @@
 
 [PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")]博士，还有可露希尔！先遣队都到齐了，听候博士指挥。
 
-[PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")]只是......目前的后勤物资比较紧张，我们只能就地取材开展建设了。
+[PopupDialog(dialogHead="$avatar_amiya", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")]只是……目前的后勤物资比较紧张，我们只能就地取材开展建设了。
 
 [Battle.UnlockFunction(mask="CHARACTER_INFO")]
 [Battle.UnlockFunction(mask="CHARACTER_MENU")]
@@ -69,7 +69,7 @@
 [Battle.Pause(pause=true)]
 [InputBlocker(blockInput=true, black=0)]
 
-[Tutorial(dialogHead="$avatar_amiya",dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")]指令已收到......地形改造完成。
+[Tutorial(dialogHead="$avatar_amiya",dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")]指令已收到……地形改造完成。
 
 [Battle.UnlockFunction(mask="SYSTEM_MENU")]
 

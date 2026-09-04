@@ -21,7 +21,7 @@
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
 [name="丰川祥子"]欸？
 [charslot(slot = "m", name = "avg_npc_1941_1#5$1",focus="m")]
-[name="母亲"]感觉祥子在外面经历了很多呢......
+[name="母亲"]感觉祥子在外面经历了很多呢……
 [Dialog]
 [charslot]
 [PlaySound(key="$doorknockquite", volume=1)]
@@ -42,7 +42,7 @@
 [charslot(slot = "m", name = "avg_npc_1940_1#6$1",focus="m")]
 [name="父亲"]怎么样，我手艺又长进了吧？
 [charslot(slot = "m", name = "avg_npc_1941_1#5$1",focus="m")]
-[name="母亲"]你是不知道......他逼我尝了多少次，才有了现在这个味道。
+[name="母亲"]你是不知道……他逼我尝了多少次，才有了现在这个味道。
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1940_1#5$1",focus="m")]
 [PlaySound(key="$d_avg_plateplace", volume=1)]
@@ -65,13 +65,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", action="shake",random=true, power=5, times=50,duration=0.4)]
-[name="丰川祥子"]呃......呃......
+[name="丰川祥子"]呃……呃……
 [charslot(slot = "m", name = "avg_npc_1941_1#3$1",focus="m")]
 [name="母亲"]祥子？祥子！
 [charslot(slot = "m", name = "avg_npc_1940_1#2$1",focus="m")]
 [name="父亲"]怎、怎么了？
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]不知不觉，吃得有点多......
+[name="丰川祥子"]不知不觉，吃得有点多……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -83,18 +83,18 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_1941_1#7$1",focus="m")]
-[name="母亲"]现在好点了吗......？
+[name="母亲"]现在好点了吗……？
 [charslot(slot = "m", name = "avg_npc_1941_1#3$1",focus="m")]
-[name="母亲"]真是的，你爸爸就是这样的......
+[name="母亲"]真是的，你爸爸就是这样的……
 [charslot(slot = "m", name = "avg_npc_1941_1#1$1",focus="m")]
 [name="母亲"]不过这就是他的行事风格，大多数时候也挺可爱的。
 [name="母亲"]祥子，你会原谅他的吧？
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="m")]
-[name="丰川祥子"]我......
+[name="丰川祥子"]我……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="我......真的能原谅他吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="我……真的能原谅他吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="那个和他有着相同面貌的男人，曾无数次地伤透我的心。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -107,10 +107,10 @@
 [name="母亲"]我也一样。
 [name="母亲"]我真的很爱你们。
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]妈妈，怎么突然这么说......
+[name="丰川祥子"]妈妈，怎么突然这么说……
 [charslot(slot = "m", name = "avg_npc_1941_1#1$1",focus="m")]
 [name="母亲"]你出远门的这段时间，我开始越来越频繁地翻相册了。
-[name="母亲"]从你出生时的照片，翻到一岁、两岁、三岁......
+[name="母亲"]从你出生时的照片，翻到一岁、两岁、三岁……
 [charslot(slot = "m", name = "avg_npc_1941_1#1$1",focus="m")]
 [name="母亲"]在父母的眼中，孩子永远是最重要、最特殊的存在哦。
 [name="母亲"]你刚出生的时候，手掌只有我的一半不到。
@@ -120,11 +120,11 @@
 母亲拉起祥子的手，将两人的掌心慢慢对齐。
 不知为何，祥子用五指紧紧地扣住了妈妈的手。
 [charslot(slot="m",name="avg_4182_oblvns_1#13$2",focus="m")]
-[name="丰川祥子"]妈妈，你的手好暖和......
+[name="丰川祥子"]妈妈，你的手好暖和……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="这就是妈妈手心的温度吗......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="这就是妈妈手心的温度吗……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="这一切，是真实的吗？我享受的这一切，是合理的吗？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="为什么会如此温暖，却又如此哀伤？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
@@ -133,23 +133,23 @@
 [charslot(slot = "m", name = "avg_npc_1941_1#6$1",focus="m")]
 [name="母亲"]嗯，我在哦。
 [charslot(slot="m",name="avg_4182_oblvns_1#8$2",focus="m")]
-[name="丰川祥子"]妈妈......
+[name="丰川祥子"]妈妈……
 [charslot(slot = "m", name = "avg_npc_1941_1#5$1",focus="m")]
 [name="母亲"]哭鼻子也没关系哦。你以前哭鼻子的时候，我也是这么安慰你的。
 [charslot(slot="m",name="avg_4182_oblvns_1#8$2",focus="m")]
-[name="丰川祥子"]欸......我以前有那么爱哭鼻子吗？
+[name="丰川祥子"]欸……我以前有那么爱哭鼻子吗？
 [charslot(slot = "m", name = "avg_npc_1941_1#5$1",focus="m")]
 [name="母亲"]在你很小很小的时候吧，那时祥子经常为了一颗糖又哭又闹呢。
 [name="母亲"]虽然祥子现在是个坚强的孩子，但那时真的是个爱哭包呀。
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="m")]
-[name="丰川祥子"]是、是吗，我一点都不记得了......
+[name="丰川祥子"]是、是吗，我一点都不记得了……
 [charslot(slot = "m", name = "avg_npc_1941_1#6$1",focus="m")]
 [name="母亲"]哈哈哈哈哈，妈妈可不会骗你哦。
 [dialog]
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="m")]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
-[name="丰川祥子"]那......妈妈，你还记得我的高中入学典礼吗？
+[name="丰川祥子"]那……妈妈，你还记得我的高中入学典礼吗？
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -163,13 +163,13 @@
 [charslot(slot = "m", name = "avg_npc_1941_1#6$1",focus="m")]
 [name="母亲"]当然啦。我还记得那天你穿着校服，我们一家还在校门前合影呢。
 [charslot(slot="m",name="avg_4182_oblvns_1#13$2",focus="m")]
-[name="丰川祥子"]好像是呢......真让人怀念啊。
+[name="丰川祥子"]好像是呢……真让人怀念啊。
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
-[name="丰川祥子"]我们以前，还经历过哪些事？妈妈......我想听你讲，关于我们的回忆。
+[name="丰川祥子"]我们以前，还经历过哪些事？妈妈……我想听你讲，关于我们的回忆。
 [charslot(slot = "m", name = "avg_npc_1941_1#5$1",focus="m")]
 [name="母亲"]祥子，你是不是离开家里太久啦？怎么今天这么黏人？
 [charslot(slot="m",name="avg_4182_oblvns_1#2$2",focus="m")]
-[name="丰川祥子"]家......
+[name="丰川祥子"]家……
 [dialog]
 [charslot]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -178,12 +178,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1941_1#1$1",focus="m")]
-[name="母亲"]嗯......既然你想听，那我就再回忆回忆吧。
+[name="母亲"]嗯……既然你想听，那我就再回忆回忆吧。
 [name="母亲"]从什么时候开始讲起呢？
 [charslot(slot="m",name="avg_4182_oblvns_1#1$2",focus="m")]
 [name="丰川祥子"]从我出生的时候开始吧，我想一直听下去。
 [charslot(slot = "m", name = "avg_npc_1941_1#1$1",focus="m")]
-[name="母亲"]好，那就从你的出生开始讲起吧......
+[name="母亲"]好，那就从你的出生开始讲起吧……
 [dialog]
 [charslot(duration=1)]
 [Delay(time=1.5)]
@@ -201,7 +201,7 @@
 [Delay(time=2)]
 [name="红豆"]你找到回家的路了呀！
 [name="爱丽丝"]红豆小姐，这台车好像有故障，快放我下来！
-[name="红豆"]我看看......怎、怎么和在罗德岛上学的操作方法不一样啊？！
+[name="红豆"]我看看……怎、怎么和在罗德岛上学的操作方法不一样啊？！
 [name="红豆"]不行不行，要停不下来了！
 [name="爱丽丝"]要撞上了——
 [name="贝娜"]祥子，你们快闪开——！

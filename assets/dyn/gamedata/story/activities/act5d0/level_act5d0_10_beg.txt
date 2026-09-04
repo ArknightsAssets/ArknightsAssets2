@@ -21,7 +21,7 @@
 [stopmusic(fadetime=2)]
 [Delay(time=2)]
 [Character(name="avg_npc_034")]
-[name="鼠王"]   ......
+[name="鼠王"]   ……
 [Character(name="avg_npc_033")]
 [name="看似普通的居民"]   老爷子。怎么了？
 [Character(name="avg_npc_034")]
@@ -49,7 +49,7 @@
 [name="卡彭"]   龙门有自己的规则，魏彦吾在十几年前就默认了这个铁律，我们绝不敢轻易违反。
 [name="卡彭"]   但您才是执行者，这也是我们今天冒昧来访的原因。
 [Character(name="avg_npc_034",name2="avg_npc_027",focus=1)]
-[name="鼠王"]   ......你们想铲除企鹅物流，取而代之。
+[name="鼠王"]   ……你们想铲除企鹅物流，取而代之。
 [Character(name="avg_npc_034",name2="avg_npc_027#2",focus=2)]
 [name="卡彭"]   正是。
 [Character(name="avg_npc_034",name2="avg_npc_027#2",focus=1)]
@@ -86,7 +86,7 @@
 [Blocker(a=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_npc_034")]
-[name="鼠王"]   ......龙门这个季节的星星，比想象中的多。
+[name="鼠王"]   ……龙门这个季节的星星，比想象中的多。
 [name="鼠王"]   放在桌上的茶，也凉了吧。
 [Dialog]
 [Character]
@@ -95,7 +95,7 @@
 [Background(image="bg_lmstreet_2",screenadapt="coverall")]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [Character]
-[name="路人"]  这是老爷的......喂，上工了。
+[name="路人"]  这是老爷的……喂，上工了。
 [name="路人"]  我不聋，赶紧打，打完正好去喝早茶。
 [Dialog]
 [Character]
@@ -104,7 +104,7 @@
 [Blocker(a=0, fadetime=0.5, block=true)]
 [name="黑帮"]   看来轮到我们了。
 [name="黑帮"]   反正之前也打过招呼了，把弩枪都放下，注意不要误伤到无关人士。
-[name="黑帮"]   ......该适应新的规则了。
+[name="黑帮"]   ……该适应新的规则了。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -119,7 +119,7 @@
 [Character(name="char_102_texas_1")]
 [name="德克萨斯"]   鼠王是贫民窟的话事人，他的爪牙自然无处不在。
 [Character(name="char_102_texas_1",name2="char_325_bison_1#4",focus=2)]
-[name="拜松"]   ......为什么不早说？
+[name="拜松"]   ……为什么不早说？
 [Character(name="char_102_texas_1",name2="char_325_bison_1#4",focus=1)]
 [name="德克萨斯"]   我以为那只是个都市传说，而且我也不知道他真的是只老鼠。谁会这么取外号？
 [Character(name="char_201_moeshd#5")]
@@ -131,7 +131,7 @@
 [Character(name="char_102_texas_1",name2="char_325_bison_1#4",focus=1)]
 [name="德克萨斯"]   你一直在问怎么办，不如你自己想想？
 [Character(name="char_102_texas_1",name2="char_325_bison_1#4",focus=2)]
-[name="拜松"]   ......
+[name="拜松"]   ……
 [Character(name="char_102_texas_1#4")]
 [name="德克萨斯"]   要来了。
 [Dialog]
@@ -139,7 +139,7 @@
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="avg_npc_034")]
-[name="鼠王"]   ......你来了。这里能清楚地看见下面的情况。
+[name="鼠王"]   ……你来了。这里能清楚地看见下面的情况。
 [Character(name="avg_npc_034#3")]
 [name="鼠王"]   你的朋友们正陷入苦战，你不打算去帮个忙吗？
 [Character(name="char_213_mostma_1",name2="avg_npc_034#3",focus=1)]
@@ -158,7 +158,7 @@
 [name="鼠王"]   他们欠缺一个教训，稍微严厉一些的教训。
 [Character(name="char_213_mostma_1#2",name2="avg_npc_034#7",focus=1)]
 [name="莫斯提马"]   过河拆桥的事情做多了，会遭到报应的。
-[name="莫斯提马"]   你借企鹅物流的手做了那么多事......
+[name="莫斯提马"]   你借企鹅物流的手做了那么多事……
 [Character(name="char_213_mostma_1#4",name2="avg_npc_034#7",focus=1)]
 [name="莫斯提马"]   等等，你一开始就打算这么做？
 [Character(name="char_213_mostma_1#4",name2="avg_npc_034#3",focus=2)]
@@ -171,7 +171,7 @@
 [Image(image="ac5_6",xScale=0.9, yScale=0.9, fadetime=0)]
 [Blocker(a=0, fadetime=2, block=true)]
 [ImageTween(xFrom=0, yFrom=0, xTo=-30, yTo=0, xScale=0.9, yScale=0.9, duration=15, block=false)]
-[name="鼠王"]   呵呵......你真的很聪明。
+[name="鼠王"]   呵呵……你真的很聪明。
 [name="鼠王"]   火焰在响应你的意志，你这是打算把我送进墓地里吗？
 [name="莫斯提马"]   怎么会呢。
 [name="莫斯提马"]   我可是非常尊老爱幼的。
@@ -196,13 +196,13 @@
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=0.25, block=true)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Character(name="char_325_bison_1#4")]
-[name="拜松"]   这都是什么和什么啊......
+[name="拜松"]   这都是什么和什么啊……
 [Character(name="char_201_moeshd#3")]
 [CameraShake(duration=0.5, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [name="可颂"]   拜松，别发呆啊，你挡着我了！快闪开！
 [Character(name="char_325_bison_1#4")]
-[name="拜松"]   每个人都是，各顾各的，就这样该怎么......
-[name="拜松"]   ......算了。
+[name="拜松"]   每个人都是，各顾各的，就这样该怎么……
+[name="拜松"]   ……算了。
 [name="拜松"]   既然总是这样，那就，各按各的来吧。
 [Dialog]
 [playsound(key="$d_gen_transmissionget", volume=0.8)]
@@ -233,11 +233,11 @@
 [name="拜松"]   你在的，对吧？一直都在。
 [Character]
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
-[name="管家"]   少爷......我......
+[name="管家"]   少爷……我……
 [Character(name="char_325_bison_1#4")]
 [name="拜松"]   我不怪你，多半是父亲多管闲事吧。但是现在，你得帮我一把。
 [Character]
-[name="管家"]   ......明白了，少爷请吩咐。
+[name="管家"]   ……明白了，少爷请吩咐。
 [Character(name="char_325_bison_1#4")]
 [name="拜松"]   眼前这仗势，还用吩咐什么？
 [name="拜松"]   把他们打飞就完事了。
@@ -245,7 +245,7 @@
 [name="管家"]   竟然会从少爷的嘴里听到这样的命令。
 [name="管家"]   容我替老爷问一句，为什么？
 [Character(name="char_325_bison_1#4")]
-[name="拜松"]   ......我哪管那么多为什么！可颂姐，让一下！
+[name="拜松"]   ……我哪管那么多为什么！可颂姐，让一下！
 [Character(name="char_201_moeshd#5")]
 [name="可颂"]   啊？
 [Character(name="char_201_moeshd")]
@@ -267,8 +267,8 @@
 [Background(image="bg_lungmen_n",screenadapt="coverall")]
 [Blocker(a=0, fadetime=0.5, block=true)]
 [Character(name="avg_npc_029")]
-[name="管家"]   嗯......就结果而言，老爷应该会满意的，但少爷继续这样......真的不会被企鹅物流带偏吗？
-[name="管家"]   不......不能继续妨害少爷了，只要少爷觉得可以，那就可以，嗯。
+[name="管家"]   嗯……就结果而言，老爷应该会满意的，但少爷继续这样……真的不会被企鹅物流带偏吗？
+[name="管家"]   不……不能继续妨害少爷了，只要少爷觉得可以，那就可以，嗯。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -314,7 +314,7 @@
 [Blocker(a=0, fadetime=1.5, block=false)]
 [Delay(time=2)]
 [Character(name="char_213_mostma_1#2")]
-[name="莫斯提马"]   ......虽然是有在控制力度啦，但你一步都没动过，是不是太不讲理了点？
+[name="莫斯提马"]   ……虽然是有在控制力度啦，但你一步都没动过，是不是太不讲理了点？
 [Character(name="char_213_mostma_1#2",name2="avg_npc_034#3",focus=2)]
 [name="鼠王"]   站着不动，也不代表自己很轻松啊。
 [Character(name="char_213_mostma_1#3",name2="avg_npc_034#3",focus=1)]
@@ -334,7 +334,7 @@
 [Character(name="char_213_mostma_1",name2="avg_npc_034",focus=2)]
 [name="鼠王"]   如何了呢。
 [Character(name="char_213_mostma_1",name2="avg_npc_034",focus=1)]
-[name="莫斯提马"]   ......真想知道，每天有多少这样见不得光的事情被你悄悄解决了。
+[name="莫斯提马"]   ……真想知道，每天有多少这样见不得光的事情被你悄悄解决了。
 [name="莫斯提马"]   或者说，你让那些企图染指龙门的人自相残杀了多少次？
 [Character(name="char_213_mostma_1",name2="avg_npc_034",focus=2)]
 [name="鼠王"]   记不清了，孩子。我只记得为了活下去而前仆后继的家伙，远比下水道里的尸体要多，多得多。
@@ -374,7 +374,7 @@
 [Character]
 [name="看似普通的居民"]   德克萨斯他们和你不一样，现在退出这场战斗，你还能保全自己。
 [Character(name="char_325_bison_1#4")]
-[name="拜松"]   ......你说了算？
+[name="拜松"]   ……你说了算？
 [Dialog]
 [Character]
 [playsound(key="$p_imp_blunt_h")]

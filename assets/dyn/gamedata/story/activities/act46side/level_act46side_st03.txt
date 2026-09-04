@@ -12,7 +12,7 @@
 [name="菈塔托丝"]那么按照你的说法，那位开斯特公爵一早就在谢拉格派布了大量的特工。而这一切都是为了她将来吞并谢拉格而做的准备？
 [name="菈塔托丝"]可是她如何能做到？
 [charslot(slot="m",name="avg_npc_2006_1#5$1",focus="m")]
-[name="维多利亚记者"]应该说......这都是我根据在谢拉格的见闻做出的合理推测。
+[name="维多利亚记者"]应该说……这都是我根据在谢拉格的见闻做出的合理推测。
 [charslot(slot="m",name="avg_npc_253_1#1$1",focus="m")]
 [name="菈塔托丝"]那么在这一众卧底在谢拉格的维多利亚人当中，偏偏有你这样一位追求正义的记者？
 [charslot(slot="m",name="avg_npc_2006_1#7$1",focus="m")]
@@ -22,7 +22,7 @@
 [name="维多利亚记者"]我的名字叫阿尔贝塔，如果您对维多利亚的新闻业稍有了解的话，就该听说过这个名字写过多少篇不被允许见诸报纸的真实报道。
 [name="阿尔贝塔"]无论如何，我为我的工作感到骄傲。
 [charslot(slot="m",name="avg_npc_253_1#2$1",focus="m")]
-[name="菈塔托丝"]哼......
+[name="菈塔托丝"]哼……
 [charslot(slot="m",name="avg_npc_253_1#7$1",focus="m")]
 [name="菈塔托丝"]记者小姐，我姑且相信你的自述，但这不意味着你完全洗脱了嫌疑。
 [name="菈塔托丝"]自从那次爆炸之后，你们派的探子，一直由我指挥护卫们拔除。
@@ -103,7 +103,7 @@
 [charslot(slot="l",name="avg_npc_253_1#7$1",focus="l")]
 [name="菈塔托丝"]你——
 [name="菈塔托丝"]这是怎么回事？“灰礼帽”是怎么知道这里的？
-[name="菈塔托丝"]你向他们报信了？我一直盯着，这怎么可能......
+[name="菈塔托丝"]你向他们报信了？我一直盯着，这怎么可能……
 [charslot(slot="r",name="avg_npc_2006_1#10$1",focus="r")]
 [name="阿尔贝塔"]不对，我检查过带出来的所有东西，也确定没有人跟着。
 [charslot(slot="r",name="avg_npc_2006_1#7$1",focus="r")]
@@ -128,9 +128,9 @@
 [charslot(slot="l",posfrom="-50,0", posto="0,0", duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="l",name="avg_npc_253_1#4$1",focus="l")]
-[name="菈塔托丝"]......那该怎么解释？
+[name="菈塔托丝"]……那该怎么解释？
 [charslot(slot="r",name="avg_npc_2006_1#10$1",focus="r")]
-[name="阿尔贝塔"]......等等！还有一个地方。
+[name="阿尔贝塔"]……等等！还有一个地方。
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [Delay(time=1.5)]
@@ -138,7 +138,7 @@
 她拿起胸前的相机，取下镜头、按住快门，反光板抬起，内部隐约冒着红光。
 记者抠出里面可疑的部件，竟是一个小型定位追踪器。
 [charslot(slot="r",name="avg_npc_2006_1#10$1",focus="r")]
-[name="阿尔贝塔"]居然藏在这里......
+[name="阿尔贝塔"]居然藏在这里……
 [Dialog]
 [charslot]
 [CameraShake(duration=1.5, xstrength=50, ystrength=50, vibrato=60, randomness=90, fadeout=true, block=false)]
@@ -162,7 +162,7 @@
 [charslot]
 [charslot(slot="l",name="avg_npc_253_1#9$1",focus="l")]
 [charslot(slot="r",name="avg_npc_2006_1#6$1",focus="l")]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [name="菈塔托丝"]去蔓珠院，附近有一条山路可以直通内部密道。
 [name="菈塔托丝"]无论如何，他们应该不敢贸然对蔓珠院出手，这能为我们争取时间。
 [charslot(slot="r",name="avg_npc_2006_1#10$1",focus="r")]
@@ -173,7 +173,7 @@
 [charslot(slot="r",name="avg_npc_2006_1#10$1",focus="r")]
 [name="阿尔贝塔"]我绝不能被他们带回去！
 [charslot(slot="l",name="avg_npc_253_1#7$1",focus="l")]
-[name="菈塔托丝"]......少废话，我还得找恩希欧迪斯一块审你呢。
+[name="菈塔托丝"]……少废话，我还得找恩希欧迪斯一块审你呢。
 [name="菈塔托丝"]你不想来也得来。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -188,11 +188,11 @@
 [Delay(time=2)]
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
 [Delay(time=1.5)]
-[name="“灰礼帽”"]......是，菈塔托丝并没有死，她们一行三人已经进入蔓珠院的北门。
+[name="“灰礼帽”"]……是，菈塔托丝并没有死，她们一行三人已经进入蔓珠院的北门。
 [name="“灰礼帽”"]逃亡的记者也在，那位大名鼎鼎的黑骑士在保护她们。
 [name="“灰礼帽”"]公爵阁下有何指示？
-[name="“灰礼帽”"]......等等。
-[name="“灰礼帽”"]......你是说，公爵阁下，要亲自来谢拉格？
+[name="“灰礼帽”"]……等等。
+[name="“灰礼帽”"]……你是说，公爵阁下，要亲自来谢拉格？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -208,7 +208,7 @@
 [Sticker(id="st1", multi = true, text="\n\n及所有谢拉格人民",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n这是为诉说喀兰贸易与恩希欧迪斯的逆行倒施，而写的一封公开信。",block = true)]
 [Sticker(id="st1", multi = true, text="\n\n我以此信正式发布抗议，抗议维多利亚与谢拉格共同遭受的、本可避免的所有不平之事。",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n......",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n……",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -228,7 +228,7 @@
 [name="诺希斯"]怎么了？慢慢说。
 [charslot(slot="r",name="avg_npc_1161_1#1$1",focus="r")]
 [name="喀兰贸易员工"]这，这是开斯特公爵送来的信函，内容已经在民间传开了。
-[name="喀兰贸易员工"]都是关于谢拉格的......尤其在说，在说喀兰贸易。
+[name="喀兰贸易员工"]都是关于谢拉格的……尤其在说，在说喀兰贸易。
 [charslot(slot="l",name="avg_206_gnosis_1#1$1",focus="l")]
 [name="诺希斯"]她说什么了？
 [charslot(slot="r",name="avg_npc_1161_1#1$1",focus="r")]
@@ -240,9 +240,9 @@
 [PlaySound(key="$d_avg_paper2", volume=1)]
 [Delay(time=2)]
 [charslot(slot="l",name="avg_206_gnosis_1#7$1",focus="l")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [name="诺希斯"]通知所有董事会成员，立即在总部会合。
-[name="诺希斯"]让所有人，保持冷静......
+[name="诺希斯"]让所有人，保持冷静……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -251,7 +251,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[Sticker(id="st1", multi = true, text="......", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="……", x=180,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n恩希欧迪斯的第一个罪行，也即一切悲剧的源头，便是收取哥伦比亚的好处，强行在圣山上开凿深坑、建设观测站。", x=380,y=170, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n在此之后，天灾降临，这是无可辩驳的事实。",block = true)]
 [Sticker(id="st1")]
@@ -267,8 +267,8 @@
 [PlaySound(key="$d_avg_crwddiscuss_outside",channel="1",loop=true,volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="疑惑的谢拉格人"]“......维多利亚已经掌握证据，菈塔托丝藏在蔓珠院内。对此有疑问的民众大可前去查验，只怕他做贼心虚，提前在那里布置了私兵。”
-[name="疑惑的谢拉格人"]这......未免太夸张了。
+[name="疑惑的谢拉格人"]“……维多利亚已经掌握证据，菈塔托丝藏在蔓珠院内。对此有疑问的民众大可前去查验，只怕他做贼心虚，提前在那里布置了私兵。”
+[name="疑惑的谢拉格人"]这……未免太夸张了。
 [name="愤懑的谢拉格人"]当时我就质疑过，还被你们骂是阴谋论，这下都说得通了吧？
 [name="坚决的谢拉格人"]怎么说得通了？从头到尾就维多利亚一张嘴。
 [name="愤懑的谢拉格人"]第五个罪行不是说了吗？恩希欧迪斯指示菈塔托丝绑架了那个维多利亚记者，一起藏进了蔓珠院，这有鼻子有眼的，哪能编得那么细？
@@ -281,7 +281,7 @@
 [name="愤懑的谢拉格人"]提醒一下，他们要求和蔓珠院一起审判，没有一点问题。恩希欧迪斯犯下的那些罪行驱逐都是轻的。
 [name="坚决的谢拉格人"]他的罪，就是让你能在新修的酒馆里不负责地高谈阔论！
 [name="愤懑的谢拉格人"]所以功劳都是他的，罪过都是别人的？哪来的这种怪事！
-[name="疑惑的谢拉格人"]......我弄不明白，但我知道最遭罪的永远是我们。
+[name="疑惑的谢拉格人"]……我弄不明白，但我知道最遭罪的永远是我们。
 [name="坚决的谢拉格人"]老哥，相信恩希欧迪斯大人，他过去帮过我——
 [Dialog]
 [stopsound(channel="1",fadetime=2)]
@@ -289,7 +289,7 @@
 [Delay(time=2.5)]
 [name="愤懑的谢拉格人"]怎么回事？
 [charslot(slot="m",name="avg_npc_279_1#1$1",focus="m")]
-[name="谢拉格酒馆老板"]外，外面......
+[name="谢拉格酒馆老板"]外，外面……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -303,18 +303,18 @@
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
 [charslot(slot="m",name="avg_206_gnosis_1#1$1",duration=1.5)]
 [Delay(time=2.5)]
-[name="诺希斯"]......我走了一路，也听了一路的煽动话术。
+[name="诺希斯"]……我走了一路，也听了一路的煽动话术。
 [name="诺希斯"]别告诉我，这个时候你还在这里赏雪。
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_206_gnosis_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_172_svrash_1#2$1",focus="r")]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [charslot(slot="l",name="avg_206_gnosis_1#1$1",focus="l")]
 [name="诺希斯"]或许我不该问。
 [name="诺希斯"]走到这一步，在你的预期之中吗？
 [charslot(slot="r",name="avg_172_svrash_1#10$1",focus="r")]
-[name="恩希欧迪斯"]......我如果说是，你会相信吗？
+[name="恩希欧迪斯"]……我如果说是，你会相信吗？
 [charslot(slot="l",name="avg_206_gnosis_1#2$1",focus="l")]
 [name="诺希斯"]我会相信。
 [charslot(slot="l",name="avg_206_gnosis_1#1$1",focus="l")]
@@ -346,12 +346,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 乌云遮蔽的昏暗天空下，维多利亚的钢铁巨兽践蹂着白色的冰原。
-[name="诺希斯"]那就是开斯特公爵的舰队......
+[name="诺希斯"]那就是开斯特公爵的舰队……
 [name="恩希欧迪斯"]听说就是这支舰队，在伦蒂尼姆的战场上将来自卡兹戴尔的魔族驱逐出了维多利亚。
 [name="恩希欧迪斯"]开斯特公爵在战后专门修复了舰队的旗舰，以传承她的“荣光”。
 [name="恩希欧迪斯"]这片大地上，能与这支力量抗衡的人又有多少呢？
-[name="恩希欧迪斯"]......我们为自己选择了更艰难的道路，是时候面对终点了。
-[name="诺希斯"]......
+[name="恩希欧迪斯"]……我们为自己选择了更艰难的道路，是时候面对终点了。
+[name="诺希斯"]……
 [Dialog]
 [PlaySound(key="$d_avg_battleship_horn",channel="2", volume=1)]
 [Delay(time=2)]
@@ -370,7 +370,7 @@
 [charslot(slot="m",name="avg_1047_halo2_1#2$1",duration=1.5)]
 [Delay(time=2)]
 [name="埃琳娜"]呼——
-[name="埃琳娜"]你们谢拉格的山怎么这么难爬......
+[name="埃琳娜"]你们谢拉格的山怎么这么难爬……
 [charslot(slot="m",name="avg_npc_2010_1#1$1",focus="m")]
 [name="恩雅"]忍忍，埃琳娜，我们要绕开蔓珠院，只有这一条路了。
 [Dialog]
@@ -379,7 +379,7 @@
 [charslot(slot="m",name="avg_4211_snhunt_1#3$1",focus="m")]
 [name="茱安娜"]嘿，裂云兽在嘲笑你呢。
 [charslot(slot="m",name="avg_1047_halo2_1#8$1",focus="m")]
-[name="埃琳娜"]笑就笑吧......这几天能抵得上我前面二十多年的运动量......
+[name="埃琳娜"]笑就笑吧……这几天能抵得上我前面二十多年的运动量……
 [Dialog]
 [charslot]
 看着垂头丧气的埃琳娜，恩雅轻轻笑着，走过山路的转角。
@@ -388,11 +388,11 @@
 [charslot(slot="m",name="avg_4211_snhunt_1#1$1",focus="m")]
 [name="茱安娜"]恩雅，你怎么停下了？
 [charslot(slot="m",name="avg_4211_snhunt_1#5$1",focus="m")]
-[name="茱安娜"]......这是，阿德颂长老？
+[name="茱安娜"]……这是，阿德颂长老？
 [charslot(slot="m",name="avg_1047_halo2_1#5$1",focus="m")]
 [name="埃琳娜"]谁？
 [charslot(slot="m",name="avg_npc_2010_1#1$1",focus="m")]
-[name="恩雅"]没想到......会在这里遇见您。
+[name="恩雅"]没想到……会在这里遇见您。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_snowbootwalk", volume=1)]
@@ -405,7 +405,7 @@
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
 [name="阿德颂"]我知道，而且还知道，圣女大人走错了路。
 [charslot(slot="m",name="avg_npc_2010_1#1$1",focus="m")]
-[name="恩雅"]......倘若我为了寻找耶拉冈德呢？
+[name="恩雅"]……倘若我为了寻找耶拉冈德呢？
 [charslot(slot="m",name="avg_npc_1998_1#7$1",focus="m")]
 [name="阿德颂"]所有人都在有求时才会寻找祂。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
@@ -415,7 +415,7 @@
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
 [name="阿德颂"]当时，我想让你离开蔓珠院。
 [charslot(slot="m",name="avg_npc_2010_1#4$1",focus="m")]
-[name="恩雅"]......并且只有如此，蔓珠院才能不被我“掣肘”。
+[name="恩雅"]……并且只有如此，蔓珠院才能不被我“掣肘”。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
 [name="阿德颂"]我原本希望，当你“圣巡”在外，我们能够挑动开斯特公爵向恩希欧迪斯动手，而当你归来时，也到了双方疲敝、焦灼的时候。
 [name="阿德颂"]蔓珠院就能借助你的归来，宣告奇迹，从而真正掌控局面。
@@ -432,23 +432,23 @@
 [charslot(slot="m",name="avg_npc_2010_1#11$1",focus="m")]
 [name="恩雅"]我无法停下脚步。下一次天灾即将来临了。
 [charslot(slot="m",name="avg_npc_1998_1#5$1",focus="m")]
-[name="阿德颂"]什么......
+[name="阿德颂"]什么……
 [charslot(slot="m",name="avg_1047_halo2_1#11$1",focus="m")]
 [name="埃琳娜"]长老，圣女所言非虚，你也应该能注意到近日反常的气象。
 [charslot(slot="m",name="avg_1047_halo2_1#12$1",focus="m")]
 [name="埃琳娜"]我们已经找到了有关“喀兰之心”的重要线索，我们有机会搞清楚谢拉格发生天灾的原因。
 [charslot(slot="m",name="avg_1047_halo2_1#11$1",focus="m")]
-[name="埃琳娜"]甚至是......耶拉冈德的真相。
+[name="埃琳娜"]甚至是……耶拉冈德的真相。
 [charslot(slot="m",name="avg_npc_1998_1#7$1",focus="m")]
-[name="阿德颂"]......这毫无意义。
+[name="阿德颂"]……这毫无意义。
 [charslot(slot="m",name="avg_1047_halo2_1#11$1",focus="m")]
 [name="埃琳娜"]长老——
 [charslot(slot="m",name="avg_npc_1998_1#7$1",focus="m")]
 [name="阿德颂"]因为，耶拉冈德不存在。
 [charslot(slot="m",name="avg_npc_2010_1#6$1",focus="m")]
-[name="恩雅"]......
+[name="恩雅"]……
 [charslot(slot="m",name="avg_4211_snhunt_1#6$1",focus="m")]
-[name="茱安娜"]......你说什么？！
+[name="茱安娜"]……你说什么？！
 [charslot(slot="m",name="avg_npc_2010_1#1$1",focus="m")]
 [name="恩雅"]在我离开蔓珠院时，长老给出了截然相反的答案。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
@@ -457,21 +457,21 @@
 [charslot(slot="m",name="avg_4211_snhunt_1#6$1",focus="m")]
 [name="茱安娜"]长老！即使是你也不能渎神！
 [charslot(slot="m",name="avg_npc_1998_1#7$1",focus="m")]
-[name="阿德颂"]......我年轻时对祂的信念，与你并无二样。父亲和叔父将我从小送进蔓珠院，强加于我暗助布朗陶家的使命，而我却只愿诚心侍奉祂。
+[name="阿德颂"]……我年轻时对祂的信念，与你并无二样。父亲和叔父将我从小送进蔓珠院，强加于我暗助布朗陶家的使命，而我却只愿诚心侍奉祂。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
 [name="阿德颂"]大长老让我管理藏经阁时，我欣喜若狂。一切和祂有关的文字，无论是只言片语的残篇，还是荒诞不经的杂文，都曾被我反复研读。
 [name="阿德颂"]可读的越多，越会发现，所谓《耶拉冈德》，不过是被人拼凑出来的“经典”。
 [name="阿德颂"]圣女大人，您敢否认吗？您也看过据说是最初的底本，只有寥寥片语，根本不是现在的内容。
 [charslot(slot="m",name="avg_4211_snhunt_1#10$1",focus="m")]
-[name="茱安娜"]恩雅，这不是真的......
+[name="茱安娜"]恩雅，这不是真的……
 [charslot(slot="m",name="avg_npc_2010_1#12$1",focus="m")]
-[name="恩雅"]......
+[name="恩雅"]……
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
 [name="阿德颂"]下到市井闲聊，上到纪实笔记，甚至不知道从哪里听来的外国传说，换成风雪与群山，就是耶拉冈德的“奇迹”。
 [name="阿德颂"]我苦苦查证，盼望能找到分毫“与众不同”的证明。然而，我只查出越来越多的原型故事。
 [name="阿德颂"]甚至，有些书籍的页眉里，当年的蔓珠院长老们还做了改编的标记。
 [charslot(slot="m",name="avg_npc_2010_1#12$1",focus="m")]
-[name="恩雅"]......您为什么不告诉其他人？
+[name="恩雅"]……您为什么不告诉其他人？
 [charslot(slot="m",name="avg_npc_1998_1#7$1",focus="m")]
 [name="阿德颂"]说出来？
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
@@ -485,12 +485,12 @@
 [charslot(slot="m",name="avg_4211_snhunt_1#10$1",focus="m")]
 [name="茱安娜"]但，如果祂不存在，又是谁建立了谢拉格？
 [charslot(slot="m",name="avg_npc_1998_1#3$1",focus="m")]
-[name="阿德颂"]......我们从来都不是在祂的肌骨上建了我们的国，而是在我们的肌骨上建了祂的国。
+[name="阿德颂"]……我们从来都不是在祂的肌骨上建了我们的国，而是在我们的肌骨上建了祂的国。
 [name="阿德颂"]谢拉格人的祖先，是在这充满绝望的雪山中勉强辟出能够生存的一隅。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
 [name="阿德颂"]人们总是无法理解，为什么命运只允许他们苟延残喘，而允许其他人享福作乐。
 [name="阿德颂"]如此被抛弃在毫无希望的此岸，他们就一定会在别处寻求能够继续生命的慰藉。
-[name="阿德颂"]凭着每一代谢拉格人，对充满大能的领袖的呼唤，对崇高与伦理的期望，“耶拉冈德”诞生了......
+[name="阿德颂"]凭着每一代谢拉格人，对充满大能的领袖的呼唤，对崇高与伦理的期望，“耶拉冈德”诞生了……
 [charslot(slot="m",name="avg_npc_1998_1#7$1",focus="m")]
 [name="阿德颂"]从“耶拉冈德”诞生的那一刻起，祂即成为了谢拉格的本质——因为需要被信仰，所以每一代人都要复述的谎言。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
@@ -499,35 +499,35 @@
 [charslot(slot="m",name="avg_npc_2010_1#1$1",focus="m")]
 [name="恩雅"]在您的眼里，要不惜代价地维持这种谎言，才能维持谢拉格。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
-[name="阿德颂"]当然......
+[name="阿德颂"]当然……
 [name="阿德颂"]每个地方都有不同的谎言，属于谢拉格的是“耶拉冈德”。
 [charslot(slot="m",name="avg_npc_2010_1#11$1",focus="m")]
-[name="恩雅"]......我不同意您的想法。
+[name="恩雅"]……我不同意您的想法。
 [name="恩雅"]谎言能带来短暂的安宁，但无法永远成为生存的法则。
 [name="恩雅"]您认为这能够维系某种秩序，所以漠视人们对真诚的渴求，把情感视作一种操纵的工具。
 [name="恩雅"]当这种渴求冲破您建构的帷幕时，蔓珠院和它所在意的信仰，会粉碎到无法挽回的地步。
 [name="恩雅"]从这个角度说，您就是您所憎恨的恩希欧迪斯最大的盟友。
 [charslot(slot="m",name="avg_npc_1998_1#8$1",focus="m")]
-[name="阿德颂"]......我只想问你，你相信耶拉冈德的存在吗？
+[name="阿德颂"]……我只想问你，你相信耶拉冈德的存在吗？
 [charslot(slot="m",name="avg_npc_2010_1#2$1",focus="m")]
-[name="恩雅"]我......但是——
+[name="恩雅"]我……但是——
 [Dialog]
 [charslot(slot="m",name="avg_npc_2010_1#2$1",focus="none")]
-她检视自己的头脑，一切有关那位侍女长的记忆......然而她已经忘了，忘记了过去的音容、模糊的情绪。
-没有印象，没有人能为她作保，没有人说出一句鼓励的言语，她的内心空无一物......
+她检视自己的头脑，一切有关那位侍女长的记忆……然而她已经忘了，忘记了过去的音容、模糊的情绪。
+没有印象，没有人能为她作保，没有人说出一句鼓励的言语，她的内心空无一物……
 [charslot(slot="m",name="avg_npc_2010_1#1$1",focus="m")]
-[name="恩雅"]......我相信。
+[name="恩雅"]……我相信。
 [name="恩雅"]长老声称这一切都是谎言，那么就已经证明了有与这份谎言对照的真理。
 [name="恩雅"]所以我相信经书教导的热忱与良善，我相信耶拉冈德存在于谢拉格。
 [charslot(slot="m",name="avg_npc_2010_1#11$1",focus="m")]
 [name="恩雅"]并且，我已经找到了神的道路。
 [name="恩雅"]如果长老一定要反驳，就与我一起去见证。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
-[name="阿德颂"]......
+[name="阿德颂"]……
 [name="阿德颂"]圣女大人，您的“相信”于事无补，更大的灾祸等待着谢拉格。
 [name="阿德颂"]恩希欧迪斯的急功近利已经让谢拉格的信仰摇摇欲坠，这是我们拯救她的最后时机。
 [charslot(slot="m",name="avg_npc_2010_1#11$1",focus="m")]
-[name="恩雅"]......自“圣巡”开始，您便把我视作阴谋的一部分。
+[name="恩雅"]……自“圣巡”开始，您便把我视作阴谋的一部分。
 [charslot(slot="m",name="avg_npc_1998_1#7$1",focus="m")]
 [name="阿德颂"]因为我们都已把一生托付于信仰，你不可能不理解我的忠心。
 [charslot(slot="m",name="avg_npc_2010_1#1$1",focus="m")]
@@ -536,7 +536,7 @@
 [name="阿德颂"]在一个合适的时机，与我回到蔓珠院掌控局面。
 [name="阿德颂"]要如何与开斯特公爵交涉，视具体情况而定，但恩希欧迪斯不可不除。
 [charslot(slot="m",name="avg_npc_2010_1#4$1",focus="m")]
-[name="恩雅"]......
+[name="恩雅"]……
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
 [name="阿德颂"]您宅心仁厚，不忍对兄长动手，我也可以理解。
 [name="阿德颂"]让恩希欧迪斯离开谢拉格，这是底线。
@@ -548,13 +548,13 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_2010_1#11$1",focus="m")]
 [Delay(time=1.5)]
-[name="恩雅"]......我答应。
+[name="恩雅"]……我答应。
 [charslot(slot="m",name="avg_1047_halo2_1#2$1",focus="m")]
 [name="埃琳娜"]恩雅？
 [charslot(slot="m",name="avg_npc_2010_1#11$1",focus="m")]
 [name="恩雅"]但有一个条件，若是我们的确见证了耶拉冈德的存在，您就要放弃一切关于恩希欧迪斯的阴谋。
 [charslot(slot="m",name="avg_npc_1998_1#1$1",focus="m")]
-[name="阿德颂"]......很好。
+[name="阿德颂"]……很好。
 [name="阿德颂"]“耶拉冈德”在上，我们已交换了誓言。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

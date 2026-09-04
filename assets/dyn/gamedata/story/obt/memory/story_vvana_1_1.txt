@@ -15,18 +15,18 @@
 [PlaySound(key="$d_avg_clothmovement", volume=0.7)]
 [charslot(slot="m",name="avg_npc_222",duration=1)]
 [delay(time=2)]
-[name="领航员"]不是说了，现在这条航线没问题......
+[name="领航员"]不是说了，现在这条航线没问题……
 [charslot]
 [charslot(slot="r",name="avg_npc_222",focus="l")]
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="技术人员"]您得知情，先生。我们刚刚监测到一座陌生的移动地块......但我们的航线上理应没有其他移动地块。
+[name="技术人员"]您得知情，先生。我们刚刚监测到一座陌生的移动地块……但我们的航线上理应没有其他移动地块。
 [charslot(slot="l",name="avg_npc_223",focus="l")]
 [name="技术人员"]我们联络过了，它自称“奥格尼斯科”。
 [charslot(slot="r",name="avg_npc_222",focus="r")]
-[name="领航员"]奥格尼斯科......不是固定城市吗？
+[name="领航员"]奥格尼斯科……不是固定城市吗？
 [name="领航员"]那座移动地块的呼号，你们查过吗？合法吗？
 [charslot(slot="l",name="avg_npc_223",focus="l")]
-[name="技术人员"]合法的，先生，它登记在册的所有人是......
+[name="技术人员"]合法的，先生，它登记在册的所有人是……
 [name="技术人员"]玫瑰报业的麦基先生。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -42,11 +42,11 @@
 [charslot(slot="m",name="avg_4098_vvana_1#1$1")]
 [name="薇薇安娜"]谢谢。下次再来奥格尼斯科，我还会来找您买的。
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
-[name="热情的居民"]呃......
+[name="热情的居民"]呃……
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
 [name="热情的居民"]我这家店快关门啦，可能下周就关。到时候你就得上别家买啦，不好意思啊。
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]发生什么事了吗......？您愿意告诉我的话。
+[name="薇薇安娜"]发生什么事了吗……？您愿意告诉我的话。
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
 [name="热情的居民"]没啥，就是我找到新工作了。还是开店，只不过是改卖些奇奇怪怪的小工艺品。不用我出本钱，还有人倒付我钱呢。
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
@@ -60,7 +60,7 @@
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
 [name="热情的居民"]实在馋我这口，上我家来就是。
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
-[name="热情的居民"]你师傅那边，我倒是更担心别的......
+[name="热情的居民"]你师傅那边，我倒是更担心别的……
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
 [name="热情的居民"]薇薇安娜，你照顾好她吧。虽然她这些日子给大家惹了不少麻烦，但谁也不想看到她真的出事。
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
@@ -78,7 +78,7 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]......嗯？！
+[name="薇薇安娜"]……嗯？！
 [charslot(slot="m",name="avg_npc_499_1#1$1")]
 [name="热情的居民"]薇薇安娜？
 [musicvolume(volume=0.6, fadetime=1)]
@@ -118,15 +118,15 @@
 [charslot(slot="m",name="avg_4098_vvana_1#1$1")]
 [name="薇薇安娜"]您这样是没法蒙混过关的哦。
 [charslot(slot="m",name="avg_4098_vvana_1#1$1")]
-[name="薇薇安娜"]不过，您今天看起来倒是格外有精神，我很久没听您说过这么多话了。回来的路上我还担心您来着......
+[name="薇薇安娜"]不过，您今天看起来倒是格外有精神，我很久没听您说过这么多话了。回来的路上我还担心您来着……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]......我今天话很多吗？
+[name="奥比娜"]……我今天话很多吗？
 [charslot(slot="m",name="avg_4098_vvana_1#8$1")]
 [name="薇薇安娜"]您一般只会说“火钳给我”四个字。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]......
+[name="奥比娜"]……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]好吧，我......
+[name="奥比娜"]好吧，我……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]我只是想问问，你什么时候走。
 [charslot(slot="m",name="avg_4098_vvana_1#1$1")]
@@ -140,7 +140,7 @@
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]这间工坊可以挪到你名下，我们还是照常打铁。天花板我加高过了，你肯定不会再撞到角。
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]您竟然会......希望我留下。
+[name="薇薇安娜"]您竟然会……希望我留下。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -191,9 +191,9 @@
 [name="急切的记者"]烛骑士小姐，你为什么决定离开奥格尼斯科，你接下来要去哪？
 [name="兴奋的记者"]德罗斯特女士，关于公认将在散华骑士团里取代你的位置的月光骑士，她在春季赛的表现，你有什么看法？
 [charslot(slot="m",name="avg_4098_vvana_1#5$1")]
-[name="薇薇安娜"]很抱歉，诸位，还有十分钟就要发车了......麻烦诸位容我前去赶车。
+[name="薇薇安娜"]很抱歉，诸位，还有十分钟就要发车了……麻烦诸位容我前去赶车。
 [charslot]
-[name="兴奋的记者"]德罗斯特女士，你并没有回答问题......
+[name="兴奋的记者"]德罗斯特女士，你并没有回答问题……
 [charslot]
 [name="急切的记者"]烛骑士小姐，麻烦稍稍留步——
 [dialog]
@@ -214,7 +214,7 @@
 [CameraShake(duration=0.6, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="奥比娜"]她要去哪，跟你们有什么关系？！赶紧滚。
 [charslot(slot="m",name="avg_4098_vvana_1#1$1")]
-[name="薇薇安娜"]......谢谢您。
+[name="薇薇安娜"]……谢谢您。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -226,11 +226,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [playMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]您竟然会......希望我留下。
+[name="薇薇安娜"]您竟然会……希望我留下。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]啧。当我没说过。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]我肯定是睡昏了头......我得走了。
+[name="奥比娜"]我肯定是睡昏了头……我得走了。
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
 [name="薇薇安娜"]您去哪儿？东西我都买好了。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
@@ -246,7 +246,7 @@
 [PlaySound(key="$doorclosequite")]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4098_vvana_1#10$1")]
-[name="薇薇安娜"]......
+[name="薇薇安娜"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -262,37 +262,37 @@
 [charslot(slot="m",name="avg_npc_212_1",duration=1)]
 [delay(time=3)]
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]......麦基先生。
+[name="薇薇安娜"]……麦基先生。
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
 [name="薇薇安娜"]您来这里做什么？
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]我刚刚目送那位铁匠女士远去。很难想象，我会在一位佝偻的老人身上，看到如同骑士出征般的气势。
 [charslot(slot="m",name="avg_npc_212_1#2")]
-[name="麦基"]很难不让我想起另一个过分坚定的人......另一个对您影响深远的人。
+[name="麦基"]很难不让我想起另一个过分坚定的人……另一个对您影响深远的人。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]奥比娜只是个普通的铁匠，她与您认识的任何人都毫无关联，她身上没有深入挖掘的价值。
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]德罗斯特女士......您上一次这样强硬，还是在特锦赛上拒绝用特殊手段击败耀骑士的时候。
+[name="麦基"]德罗斯特女士……您上一次这样强硬，还是在特锦赛上拒绝用特殊手段击败耀骑士的时候。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]您刚被“安排”到奥格尼斯科时，我曾期望耀骑士能给您一些关照。但她毕竟有自己的路要走，很难真的来探望您。
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]得知您在奥格尼斯科遇到了一位能关照您的人，我只觉得欣慰......哪怕她只是个普通的铁匠。
+[name="麦基"]得知您在奥格尼斯科遇到了一位能关照您的人，我只觉得欣慰……哪怕她只是个普通的铁匠。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]奥比娜与耀骑士并无相仿之处，她对我的关照也与耀骑士无关。
 [charslot(slot="m",name="avg_4098_vvana_1#3$1")]
-[name="薇薇安娜"]但她确实给了我一种我不曾体味过的......安宁。
+[name="薇薇安娜"]但她确实给了我一种我不曾体味过的……安宁。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]我能想象您有多么珍视这样的安宁。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]所以，我才希望您知道，那位铁匠女士，还有奥格尼斯科，确实都展现出了“深入挖掘的价值”，哪怕您不愿这样认为。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]......有关奥格尼斯科近来的变化，您知情多少？
+[name="薇薇安娜"]……有关奥格尼斯科近来的变化，您知情多少？
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]此刻正停靠在城外的几座微型移动平台属于辉煌盾工业，它们将被用于奥格尼斯科的改建。
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]民房上那些彩色的灯带、树枝上那些塑料的假花，甚至街头巷尾的武器模型和骑士徽记......都出自辉煌盾之手？
+[name="薇薇安娜"]民房上那些彩色的灯带、树枝上那些塑料的假花，甚至街头巷尾的武器模型和骑士徽记……都出自辉煌盾之手？
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]还有那些在玻璃橱窗后面，用橡胶锤子假装打铁的人......他们的“工资”也来自辉煌盾，是吗？
+[name="薇薇安娜"]还有那些在玻璃橱窗后面，用橡胶锤子假装打铁的人……他们的“工资”也来自辉煌盾，是吗？
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]以及辉煌盾的合作伙伴，是的。
 [charslot(slot="m",name="avg_npc_212_1")]
@@ -302,7 +302,7 @@
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]但他的主题展览和印象曲演奏会，他的自白节目和著作发行会，却可以做到。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]所以，辉煌盾这样的武器制造商，也想为他们的产品赋予一种性格、一套故事，用来“填补粉丝们精神需求的空缺”......是吗？
+[name="薇薇安娜"]所以，辉煌盾这样的武器制造商，也想为他们的产品赋予一种性格、一套故事，用来“填补粉丝们精神需求的空缺”……是吗？
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]而奥格尼斯科就是他们为此选出的背景板？
 [charslot(slot="m",name="avg_npc_212_1")]
@@ -312,25 +312,25 @@
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]匠人们不必在火炉前弯腰屈背地操劳就能有可观的收入，辉煌盾也会获得仿佛出自传说的“神兵利器”。
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]......至少本该如此。
+[name="麦基"]……至少本该如此。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]奥比娜......也被要求参加这样的“表演”？
+[name="薇薇安娜"]奥比娜……也被要求参加这样的“表演”？
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]我不知道。但一位将终生都奉献给锻造工艺的老铁匠，还与您有着千丝万缕的联系......还有比她更合适的人选吗？
+[name="麦基"]我不知道。但一位将终生都奉献给锻造工艺的老铁匠，还与您有着千丝万缕的联系……还有比她更合适的人选吗？
 [charslot(slot="m",name="avg_4098_vvana_1#6$1")]
-[name="薇薇安娜"]如果是对她，我恐怕......他们的手段不会太温和。
+[name="薇薇安娜"]如果是对她，我恐怕……他们的手段不会太温和。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]如果那位女士确如我想象中那般执拗，那么以辉煌盾的行事风格，她很可能已经得到了过分强硬的回应。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]假如事实如此，我也会为之感到愤怒。这说明辉煌盾做事还是太欠考虑。
 [charslot(slot="m",name="avg_4098_vvana_1#6$1")]
-[name="薇薇安娜"]我必须去找她......！
+[name="薇薇安娜"]我必须去找她……！
 [dialog]
 [charslot(duration=1)]
 [PlaySound(key="$rungeneral", volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_212_1#3")]
-[name="麦基"]等等，德罗斯特女士......
+[name="麦基"]等等，德罗斯特女士……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -389,7 +389,7 @@
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
 [name="辉煌盾发言人"]哇啊——！
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
-[name="辉煌盾发言人"]咳......摄像老师，刚刚这段拍到了吧......请剪掉我的反应，只留下奥比娜女士对我挥锤的画面。
+[name="辉煌盾发言人"]咳……摄像老师，刚刚这段拍到了吧……请剪掉我的反应，只留下奥比娜女士对我挥锤的画面。
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
 [name="辉煌盾发言人"]女士，允许您签署协议之后通过扣除薪资来支付赔偿金额，是我们为您提供的特惠条款，并不是我们的基本行事准则。
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
@@ -405,11 +405,11 @@
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]在贵司的各个专家团队抵达之前，您在此不论如何奋力表现，都不会被上级看到。
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
-[name="辉煌盾发言人"]终于出现了，烛骑士！摄像老师麻烦镜头拉近给个特写。布景术师，放两架无人机谢谢，这一段需要多机位......
+[name="辉煌盾发言人"]终于出现了，烛骑士！摄像老师麻烦镜头拉近给个特写。布景术师，放两架无人机谢谢，这一段需要多机位……
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
 [name="辉煌盾发言人"]“画面是黑的”是什么意思？你镜头盖取下来了吗？
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
-[name="辉煌盾发言人"]烛骑士小姐......您的源石技艺......？
+[name="辉煌盾发言人"]烛骑士小姐……您的源石技艺……？
 [charslot(slot="m",name="avg_4098_vvana_1#6$1")]
 [name="薇薇安娜"]贵司的总部我有幸参观过，大大小小的每一间会客室，都有厚重的遮光窗帘。
 [charslot(slot="m",name="avg_4098_vvana_1#6$1")]
@@ -419,23 +419,23 @@
 [charslot(slot="m",name="avg_4098_vvana_1#6$1")]
 [name="薇薇安娜"]贵司蒙受的损失会得到合理的赔偿。
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
-[name="辉煌盾发言人"]感谢您的理解，那么或许您可以听听我司的规划......
+[name="辉煌盾发言人"]感谢您的理解，那么或许您可以听听我司的规划……
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]改日吧，发言人先生。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]奥比娜，我们走吧。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]薇薇安娜，我说了......
+[name="奥比娜"]薇薇安娜，我说了……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]别跟上来......
+[name="奥比娜"]别跟上来……
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]抱歉。您从不多过问我的事情，照理说，我也不应太过关注您的事情。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]只是，您此刻的处境，并非与我无关。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]......
+[name="奥比娜"]……
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]......您脚软了。来，我扶您。
+[name="薇薇安娜"]……您脚软了。来，我扶您。
 [charslot(slot="m",name="avg_npc_1259_1#1$1")]
 [name="辉煌盾发言人"]愣着干什么？没有备用相机吗？追上去拍啊！
 [charslot(slot="m",name="avg_4098_vvana_1#6$1")]
@@ -452,7 +452,7 @@
 [Background(image="28_g2_slumstreets",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]......
+[name="奥比娜"]……
 [charslot(slot="m",name="avg_4098_vvana_1#3$1")]
 [name="薇薇安娜"]所以您才希望我留下对吗，奥比娜？
 [charslot(slot="m",name="avg_4098_vvana_1#3$1")]
@@ -466,17 +466,17 @@
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]直接和我说也没关系的，您不必将之归为软弱。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]不，薇薇安娜......我本来根本没想找你帮忙。
+[name="奥比娜"]不，薇薇安娜……我本来根本没想找你帮忙。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]能试的办法我都试了。但你看到了，就连砸他们的场子也没用。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]多一个人帮忙又能怎样？他们可是几百上千个人。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]但、但......
+[name="奥比娜"]但、但……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]有人告诉我你是贵族、是骑士，你一个人说话就顶几百上千个人说话。有人告诉我，只要这间工坊归你，就没人敢动它。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]我实在没办法了。对不起，薇薇安娜......
+[name="奥比娜"]我实在没办法了。对不起，薇薇安娜……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]帮帮我吧，烛骑士。
 [dialog]
@@ -488,7 +488,7 @@
 [charslot(slot="m",name="avg_4098_vvana_1#5$1")]
 [name="薇薇安娜"]——！
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]我不会别的道歉的话了，但我希望你知道......
+[name="奥比娜"]我不会别的道歉的话了，但我希望你知道……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]我确实对不起你。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
@@ -496,11 +496,11 @@
 [charslot(slot="m",name="avg_4098_vvana_1#5$1")]
 [name="薇薇安娜"]只是，我不明白。
 [charslot(slot="m",name="avg_4098_vvana_1#5$1")]
-[name="薇薇安娜"]我无论如何也不明白......
+[name="薇薇安娜"]我无论如何也不明白……
 [charslot(slot="m",name="avg_4098_vvana_1#10$1")]
 [name="薇薇安娜"]为什么感到愧疚的是您？不论朋友还是师徒之间，需要借对方身份办事的情况，再常见不过。
 [charslot(slot="m",name="avg_4098_vvana_1#10$1")]
-[name="薇薇安娜"]您遇到这样的难处，我本就难辞其咎，如果不是我给奥格尼斯科引来了过多的关注......
+[name="薇薇安娜"]您遇到这样的难处，我本就难辞其咎，如果不是我给奥格尼斯科引来了过多的关注……
 [charslot(slot="m",name="avg_4098_vvana_1#10$1")]
 [name="薇薇安娜"]您当初好心收我做学徒，我一直以来无以为报，到头来反倒连累您受到这般刁难。如果有谁要感到愧疚，那也应该是我。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
@@ -508,9 +508,9 @@
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]但算了。你愿意帮忙，就好。
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
-[name="奥比娜"]起码你下次回来的时候，还有这间工坊能待......要是你以后还有理由回来的话。
+[name="奥比娜"]起码你下次回来的时候，还有这间工坊能待……要是你以后还有理由回来的话。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]......要我帮您把炉子点起来吗？
+[name="薇薇安娜"]……要我帮您把炉子点起来吗？
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]不用了。我今天不打铁了。
 [dialog]
@@ -531,13 +531,13 @@
 [PlaySound(key="$d_avg_writerub", volume=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]“尊敬的执行负责人，扎贾克先生，有关奥格尼斯科的改建事宜......”
+[name="薇薇安娜"]“尊敬的执行负责人，扎贾克先生，有关奥格尼斯科的改建事宜……”
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]您答应了帮助那位铁匠女士。
 [charslot(slot="m",name="avg_npc_212_1#4")]
 [name="麦基"]那么，谁来帮您呢？
 [charslot(slot="m",name="avg_4098_vvana_1#4$1")]
-[name="薇薇安娜"]......您说什么？
+[name="薇薇安娜"]……您说什么？
 [charslot(slot="m",name="avg_npc_212_1#4")]
 [name="麦基"]您当初严词拒绝用特殊手段击败耀骑士的时候，绝不像现在这般忧郁。
 [charslot(slot="m",name="avg_npc_212_1#4")]
@@ -553,13 +553,13 @@
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]我没有大碍，只是还有些事没能理解。现在，我需要先写完手上这封信。
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]您本不必亲自下场与他们斡旋......我们本可以一同保下这间工坊，甚至整个奥格尼斯科。
+[name="麦基"]您本不必亲自下场与他们斡旋……我们本可以一同保下这间工坊，甚至整个奥格尼斯科。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]辉煌盾的目光终归稍显短浅。不用多久，人们就会不耐烦地发问，为什么所有神兵利器的故事都出自同一座城市？
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]到那时，一座昙花一现又归于遗忘的城市，只会比未经开发的乡镇更灰暗、更贫苦。
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]您比辉煌盾的考察员更懂得欣赏奥格尼斯科的美，而美是长久的......只要您将它传递出去。
+[name="麦基"]您比辉煌盾的考察员更懂得欣赏奥格尼斯科的美，而美是长久的……只要您将它传递出去。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]您说自己在大骑士领写不出诗，但奥格尼斯科本就是自由的故乡、诗人的土地，不是吗？
 [charslot(slot="m",name="avg_npc_212_1")]
@@ -581,7 +581,7 @@
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]而您三番五次地到奥格尼斯科故地重游，除了它是您的安心之所，难道还有其他理由？
 [charslot(slot="m",name="avg_4098_vvana_1#7$1")]
-[name="薇薇安娜"]“我的安心之所”......
+[name="薇薇安娜"]“我的安心之所”……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -603,7 +603,7 @@
 [charslot(slot="m",name="avg_4098_vvana_1#7$1")]
 [name="薇薇安娜"]薇薇安娜的安心之所，就只是薇薇安娜一个人的安心之所，对吗？
 [charslot(slot="m",name="avg_4098_vvana_1#7$1")]
-[name="薇薇安娜"]只是因为我喜欢这里的林荫和羽鸣、这里的炉火和铁花，只是因为......
+[name="薇薇安娜"]只是因为我喜欢这里的林荫和羽鸣、这里的炉火和铁花，只是因为……
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]我喜欢这里的人不在乎我的出身、我的地位，不在乎我从哪里来、到哪里去。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
@@ -619,7 +619,7 @@
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]即便您从没来过奥格尼斯科，现在发生在这里的一切，也依然会发生。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]麦基......
+[name="薇薇安娜"]麦基……
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]我很感谢您的好意。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
@@ -627,19 +627,19 @@
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]奥比娜的变化，只会是我的责任。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]她以为简单地向我求助，就会摧毁她对我的全部价值。她以此为耻，因而折磨自己的身心......
+[name="薇薇安娜"]她以为简单地向我求助，就会摧毁她对我的全部价值。她以此为耻，因而折磨自己的身心……
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]......仿佛她不是我的师傅或友人，而只是一件用于让我安心的工具。
+[name="薇薇安娜"]……仿佛她不是我的师傅或友人，而只是一件用于让我安心的工具。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]倘若真是如此，那么我的诗又与辉煌盾的摄影棚何异呢？
 [charslot(slot="m",name="avg_4098_vvana_1#3$1")]
-[name="薇薇安娜"]麦基，如果我的诗是这样......
+[name="薇薇安娜"]麦基，如果我的诗是这样……
 [charslot(slot="m",name="avg_4098_vvana_1#3$1")]
 [name="薇薇安娜"]那我不愿为奥格尼斯科写诗。
 [charslot(slot="m",name="avg_4098_vvana_1#3$1")]
 [name="薇薇安娜"]薇薇安娜的诗，从此只在她自己。
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]您的坚持还是这样......出人意料。
+[name="麦基"]您的坚持还是这样……出人意料。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]我本来还以为，几年过去，我终于能稍稍理解您了。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
@@ -647,7 +647,7 @@
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]您不理解的是奥比娜。虽然，我也只是在刚刚，才太迟地开始理解她。
 [charslot(slot="m",name="avg_npc_212_1#2")]
-[name="麦基"]......呵。您的想法也是会变的。
+[name="麦基"]……呵。您的想法也是会变的。
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]简直像是在追逐地平线，我迈进一步，它就后退一分。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
@@ -655,7 +655,7 @@
 [charslot(slot="m",name="avg_npc_212_1")]
 [name="麦基"]我或许只是想要某种“救赎”吧，德罗斯特女士。我始终觉得自己在下沉，哪怕玫瑰报业的市值在一路攀升。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]如果您仍渴望从我身上得到什么可以充作“救赎”的回应......就请借我您的名字一用。
+[name="薇薇安娜"]如果您仍渴望从我身上得到什么可以充作“救赎”的回应……就请借我您的名字一用。
 [charslot(slot="m",name="avg_npc_212_1#3")]
 [name="麦基"]我的名字？
 [charslot(slot="m",name="avg_4098_vvana_1#7$1")]
@@ -667,7 +667,7 @@
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]带走奥格尼斯科。或者说，带走那些还愿意把奥格尼斯科视作一座“火炉”的人。
 [charslot(slot="m",name="avg_npc_212_1")]
-[name="麦基"]......我明白了。
+[name="麦基"]……我明白了。
 [charslot(slot="m",name="avg_4098_vvana_1#2$1")]
 [name="薇薇安娜"]那么走吧。生在大草原上的“火炉”，就要重新回到草原。
 [Dialog]
@@ -699,7 +699,7 @@
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]她会回来的。
 [charslot(slot="m",name="avg_npc_212_1#3")]
-[name="麦基"]她那身衣服......
+[name="麦基"]她那身衣服……
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]她在奥格尼斯科常住的时候，我找人给她做的。骑士的装束总归不是用来过日子的。
 [charslot(slot="m",name="avg_npc_212_1")]
@@ -713,7 +713,7 @@
 [charslot(slot="m",name="avg_npc_1255_1#1$1")]
 [name="奥比娜"]然后，她叫我拿出那身衣服，帮她换上。
 [charslot(slot="m",name="avg_npc_212_1#2")]
-[name="麦基"]“薇薇安娜的诗，从此只在她自己”，是吗......
+[name="麦基"]“薇薇安娜的诗，从此只在她自己”，是吗……
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=3, block=true)]

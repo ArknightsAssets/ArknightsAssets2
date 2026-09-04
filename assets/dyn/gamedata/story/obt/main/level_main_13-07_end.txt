@@ -27,7 +27,7 @@
 [Sticker(id="st1", multi = true, text="然后，俗套的桥段，“老友重逢”。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n其实，分别了如此多年，就算是老友，彼此之间还有多少能聊的呢？",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="但......那个幼小而愚蠢的你，毕竟曾交付过，“友情”。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="但……那个幼小而愚蠢的你，毕竟曾交付过，“友情”。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="只有在那个年纪，你才拥有唯一的，在卡兹戴尔谈论“友情”还不被嘲笑的机会。", x=300,y=270, alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
@@ -53,7 +53,7 @@
 [charslot(slot = "m", name = "avg_npc_1067_1#1$1",focus="m")]
 [name="厄尔苏拉"]我没有收到有关你的任何调度命令。
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
-[name="厄尔苏拉"]......不过，你的工作成果有目共睹。我可以批你三天的假期。
+[name="厄尔苏拉"]……不过，你的工作成果有目共睹。我可以批你三天的假期。
 [charslot(slot="m",name="avg_npc_053",focus="m")]
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="欢呼的萨卡兹劳工"]哦♪我们的厄尔苏拉♪
@@ -69,7 +69,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="我看着厄尔苏拉的侧脸和她漾开的嘴角。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n以前啊......以前。",block = true)]
+[Sticker(id="st1", multi = true, text="\n以前啊……以前。",block = true)]
 [Sticker(id="st1", multi = true, text="\n起码她这副德行一点没变。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
@@ -131,15 +131,15 @@
 [name="厄尔苏拉"]我们有些年没见了。
 [charslot(slot = "m", name = "avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]自从那次行动之后。
-[name="伊内丝"]我，赫德雷和W......上一个W，惹了些不该惹的麻烦，杀了些不该杀的人。
+[name="伊内丝"]我，赫德雷和W……上一个W，惹了些不该惹的麻烦，杀了些不该杀的人。
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
 [name="厄尔苏拉"]除了疤痕商场，你们在卡兹戴尔露面也成了件麻烦的事。
-[name="厄尔苏拉"]我在那里可经常看见你们的名字......在悬赏榜单上，赫赫有名。
+[name="厄尔苏拉"]我在那里可经常看见你们的名字……在悬赏榜单上，赫赫有名。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]我一向很值钱。
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
 [name="厄尔苏拉"]确实。伊内丝的投资很成功。
-[name="厄尔苏拉"]......那时我们都很年轻。
+[name="厄尔苏拉"]……那时我们都很年轻。
 [charslot(slot = "m", name = "avg_4087_ines_1#3$1",focus="m")]
 [name="伊内丝"]服老了？
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
@@ -181,15 +181,15 @@
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
 [name="厄尔苏拉"]我猜伊内丝下手的时候伤心坏了。
 [charslot(slot="m",name="avg_4088_hodrer_1#2$1",focus="m")]
-[name="赫德雷"]......行了。
+[name="赫德雷"]……行了。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]老友见面，我们就不能回到一种感伤又唏嘘的氛围里吗？
-[name="赫德雷"]谈谈岁月，谈谈时间......
+[name="赫德雷"]谈谈岁月，谈谈时间……
 [name="赫德雷"]也谈谈你什么时候变成了军事委员会最年轻的少校，这只骸骨巨兽的驾驶员，厄尔苏拉指挥官。
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
-[name="厄尔苏拉"]......是啊。我们确实该谈谈这些。不然以我们的身份，不该这么温情脉脉。
+[name="厄尔苏拉"]……是啊。我们确实该谈谈这些。不然以我们的身份，不该这么温情脉脉。
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
-[multiline(name="厄尔苏拉")]也不妨谈谈你们，两个萨卡兹的......
+[multiline(name="厄尔苏拉")]也不妨谈谈你们，两个萨卡兹的……
 [stopmusic(fadetime=3)]
 [charslot(slot = "m", name = "avg_npc_1067_1#7$1",focus="m")]
 [multiline(name="厄尔苏拉")]一个萨卡兹的叛徒，和一只羊，为什么会出现在军事委员会的绝密地点。
@@ -198,7 +198,7 @@
 [name="厄尔苏拉"]作为军事委员会的在职军官，我没有任何立场容忍这件事。
 [charslot(slot = "m", name = "avg_4087_ines_1#9$1",focus="m")]
 [PlaySound(key="$d_avg_unsheathe",volume=0.6)]
-[name="伊内丝"]......我们二对一，厄尔苏拉。
+[name="伊内丝"]……我们二对一，厄尔苏拉。
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
 [name="厄尔苏拉"]二对一？看清楚你们在哪里。
 [Dialog]
@@ -242,7 +242,7 @@
 [name="厄尔苏拉"]我很清楚你想的是什么，赫德雷，你一点也没变。
 [name="厄尔苏拉"]但是我们已经不再是揣着刚挣来的赏金就能高兴一整天的少年了。
 [name="厄尔苏拉"]我们已经没有可能在任务的间隙，于卡兹戴尔的街头虚耗掉一个又一个下午了。
-[name="厄尔苏拉"]我们是萨卡兹......起码都是卡兹戴尔的市民。让我们的街巷变得更好，这是我们天生的责任。
+[name="厄尔苏拉"]我们是萨卡兹……起码都是卡兹戴尔的市民。让我们的街巷变得更好，这是我们天生的责任。
 [charslot(slot="m",name="avg_4088_hodrer_1#3$1",focus="m")]
 [name="赫德雷"]我们就是在讨论卡兹戴尔的问题，厄尔苏拉！
 [charslot(slot = "m", name = "avg_npc_1067_1#6$1",focus="m")]
@@ -253,17 +253,17 @@
 [name="厄尔苏拉"]一旦被天真的观念和折中的想法困住，萨卡兹将失去他们离真正的“家园”最近的一次机会。
 [name="厄尔苏拉"]我不认为我有任何需要犹豫的地方。
 [charslot(slot = "m", name = "avg_npc_1067_1#1$1",focus="m")]
-[name="厄尔苏拉"]军事委员会才是......“卡兹戴尔”能够成为一个“国家”的底盘。
+[name="厄尔苏拉"]军事委员会才是……“卡兹戴尔”能够成为一个“国家”的底盘。
 [charslot(slot="m",name="avg_4088_hodrer_1#7$1",focus="m")]
 [name="赫德雷"]那战火之后，这片大地上还会有卡兹戴尔的存在吗？
 [charslot(slot = "m", name = "avg_npc_1067_1#5$1",focus="m")]
 [name="厄尔苏拉"]我只知道自己不能当这个叛徒。
 [charslot(slot = "m", name = "avg_4087_ines_1#5$1",focus="m")]
-[name="伊内丝"]......
+[name="伊内丝"]……
 [charslot(slot = "m", name = "avg_npc_1067_1#5$1",focus="m")]
-[name="厄尔苏拉"]......
+[name="厄尔苏拉"]……
 [charslot(slot="m",name="avg_4088_hodrer_1#7$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [Dialog]
 [charslot(slot = "m", name = "avg_npc_1067_1#5$1",focus="m")]
 [Delay(time=0.2)]
@@ -349,7 +349,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot = "m", name = "avg_4087_ines_1#7$1",focus="m")]
-[name="伊内丝"]......
+[name="伊内丝"]……
 [name="伊内丝"]这些贯穿了脊椎的“钉子”，应该是某种巫术操纵装置。
 [name="伊内丝"]这附近的神经束在不停颤抖，它还有自我意志吗？
 [Dialog]
@@ -443,7 +443,7 @@
 [charslot(slot = "m", name = "avg_4087_ines_1#7$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot = "m", name = "avg_4087_ines_1#7$1",focus="m")]
-[name="伊内丝"]......它对自己真够狠的。
+[name="伊内丝"]……它对自己真够狠的。
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -502,7 +502,7 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4087_ines_1#13$1",focus="m")]
 [name="伊内丝"]咳咳，呸。
-[name="伊内丝"]到处都是灰......风化的骨粉。
+[name="伊内丝"]到处都是灰……风化的骨粉。
 [charslot(slot = "m", name = "avg_4087_ines_1#14$1",focus="m")]
 [name="伊内丝"]这里应该就是中枢。
 [name="伊内丝"]嗯，没有任何可以理解的接口，纯粹由巫术驱动？
@@ -521,7 +521,7 @@
 [Blocker(a=0, r=1,g=0.2, b=0.2, fadetime=0.3, block=true)]
 [Delay(time=0.2)]
 [charslot(slot = "m", name = "avg_4087_ines_1#9$1",focus="m")]
-[name="伊内丝"]唔......
+[name="伊内丝"]唔……
 [Dialog]
 [Charslot]
 [charslot(slot = "m", name = "avg_npc_1067_1#1$1",focus="m",duration=1)]
@@ -531,7 +531,7 @@
 [name="伊内丝"]你也还是没能纠正自己的老习惯，法术的轨迹会向左偏斜。
 [name="伊内丝"]我庆幸自己曾经吃了很多次亏。
 [charslot(slot = "m", name = "avg_npc_1067_1#5$1",focus="m")]
-[name="厄尔苏拉"]......哼。
+[name="厄尔苏拉"]……哼。
 [charslot(slot = "m", name = "avg_4087_ines_1#3$1",focus="m")]
 [name="伊内丝"]你很匆忙吗？赫德雷让你难堪了吗？
 [Dialog]
@@ -543,13 +543,13 @@
 [name="伊内丝"]它很脆弱，对吧？它没它表现出来的那么老实。
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
 [name="厄尔苏拉"]你大可以尽情猜测。
-[name="厄尔苏拉"]......如果有机会的话，我真想好好听你聊聊那“三次死亡”，绝对是些刺激的故事。
+[name="厄尔苏拉"]……如果有机会的话，我真想好好听你聊聊那“三次死亡”，绝对是些刺激的故事。
 [charslot(slot = "m", name = "avg_4087_ines_1#3$1",focus="m")]
 [name="伊内丝"]你想再添一次？
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
 [name="厄尔苏拉"]不，先活着吧。
 [charslot(slot = "m", name = "avg_npc_1067_1#5$1",focus="m")]
-[name="厄尔苏拉"]如果你能在乱流中......活下来的话。
+[name="厄尔苏拉"]如果你能在乱流中……活下来的话。
 [Dialog]
 [charslot(slot = "m", name = "avg_4087_ines_1#9$1",focus="m")]
 [Delay(time=0.2)]
@@ -647,7 +647,7 @@
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="微黯的火光与尘埃一起，升腾、扭曲。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n他的身影从余烬中显现，风中的火星燎焦了他的斗篷，也燎焦了我的发尾。",block = true)]
-[Sticker(id="st1", multi = true, text="\n......只是在很偶尔的时刻，我愿意容忍他那恼人的源石技艺。",block = true)]
+[Sticker(id="st1", multi = true, text="\n……只是在很偶尔的时刻，我愿意容忍他那恼人的源石技艺。",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [name="赫德雷"]我们早就过了谈友情的年纪了。
@@ -674,7 +674,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1067_1#2$1",focus="m")]
-[name="厄尔苏拉"]唉......
+[name="厄尔苏拉"]唉……
 [charslot(slot = "m", name = "avg_npc_1067_1#8$1",focus="m")]
 [name="厄尔苏拉"]忘了告诉你，赫德雷，曼弗雷德将军给我带来过你的书。
 [name="厄尔苏拉"]很不错，我承认，很不错。
@@ -688,7 +688,7 @@
 [name="伊内丝"]行了，厄尔苏拉，说再见吧。
 [charslot(slot = "r", name = "avg_4087_ines_1#11$1",focus="r")]
 [name="伊内丝"]赫德雷，这次你得和我一起跳。
-[name="伊内丝"]别被历史的乱流卷住，别为了捡拾历史的碎片而忘了......眼前的生活。
+[name="伊内丝"]别被历史的乱流卷住，别为了捡拾历史的碎片而忘了……眼前的生活。
 [charslot(slot = "l", name = "avg_4088_hodrer_1#9$1",focus="l")]
 [name="赫德雷"]听你的。
 [Dialog]
@@ -771,7 +771,7 @@
 [Sticker(id="st1", multi = true, text="\n为什么要加入整合运动？又为什么在伦蒂尼姆蛰伏到今天？",block = true)]
 [Sticker(id="st1", multi = true, text="\n赫德雷到底在为何而战？",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="我......又在为何而战？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我……又在为何而战？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Dialog]
 [StopSound(channel="bgs", fadetime=2)]

@@ -28,18 +28,18 @@
 [charslot(slot = "left",focus="l")]
 [name="特工A"]主干通路一小时前已经封死，辅助平台的应急跳台全部关闭，索道站的缆车昨晚就改成了单向通行，没人上得来。
 [charslot(slot = "r",focus="r")]
-[name="特工B"]保险起见......
+[name="特工B"]保险起见……
 [Dialog]
 [charslot(slot = "right",posfrom = "0,0", posto = "100,0",duration = 1)]
 [Delay(time=1)]
 [playsound(key="$transmission")]
 [Delay(time=1.5)]
 [charslot(slot = "m", focus = "n")]
-[name="通讯音"]......索道站需要支援，莱茵的那个助理研究员带着一群体验员把通行枢纽堵住了，很难缠......
+[name="通讯音"]……索道站需要支援，莱茵的那个助理研究员带着一群体验员把通行枢纽堵住了，很难缠……
 [charslot(slot = "left",focus="l")]
 [name="特工A"]啧，先去支援。计划的时间节点非常重要，一定要赶在直播前完成所有布置。
 [charslot(slot = "r",focus="r")]
-[name="特工B"]那刚刚的动静......
+[name="特工B"]那刚刚的动静……
 [charslot(slot = "left",focus="l")]
 [name="特工A"]喏，你看。
 [charslot(slot = "r",focus="r")]
@@ -60,19 +60,19 @@
 [charslot(slot = "right", name = "avg_npc_2041_1#1$1",posfrom = "0,-80", posto = "0,0",duration = 0.8)]
 [delay(time=1.5)]
 [charslot(slot = "left", name = "avg_4214_cairn_1#10$1",focus="l")]
-[name="费尔南"]呼......雅、雅斯彭先生......
+[name="费尔南"]呼……雅、雅斯彭先生……
 [CameraShake(duration=0.3, xstrength=20, ystrength=20, vibrato=20, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "left", name = "avg_4214_cairn_1#6$1",focus="l")]
 [name="费尔南"]你到底对那只气球有什么执念啊！沙发里就那点地方，你还要护着气球，我都要被挤死啦！
 [charslot(slot = "right", name = "avg_npc_2041_1#2$1",focus="r")]
-[name="雅斯彭"]不好意思，费尔南小姐......但我就是为了这点执念，才求你带我来这儿的......
+[name="雅斯彭"]不好意思，费尔南小姐……但我就是为了这点执念，才求你带我来这儿的……
 [charslot(slot = "left", name = "avg_4214_cairn_1#6$1",focus="l")]
 [name="费尔南"]从他们眼皮子底下开溜，又把你带过来，可是费了我好大的力气！
 [charslot(slot = "right", name = "avg_npc_2041_1#5$1",focus="r")]
-[name="雅斯彭"]实在不好意思......能帮我递一下柜子里的工具箱吗？撤离的通知来得太突然，我还没来得及确认浮空舱不会在直播里出现任何问题......
+[name="雅斯彭"]实在不好意思……能帮我递一下柜子里的工具箱吗？撤离的通知来得太突然，我还没来得及确认浮空舱不会在直播里出现任何问题……
 [charslot(slot = "left", name = "avg_4214_cairn_1#8$1",focus="l")]
 [name="费尔南"]你就那么想让“幸运瘤兽”在展会上亮相？
-[name="费尔南"]不顾听证会公示的结果，跟一个有多项前科的导游临时签约，还帮她从园区警卫的监视下逃走，只为了让她带你回到封锁的浮空层......
+[name="费尔南"]不顾听证会公示的结果，跟一个有多项前科的导游临时签约，还帮她从园区警卫的监视下逃走，只为了让她带你回到封锁的浮空层……
 [name="费尔南"]你们这帮人啊，对天空真的是太狂热了！
 [charslot(slot = "right", name = "avg_npc_2041_1#1$1",focus="r")]
 [name="雅斯彭"]我背负的债款可是天文数字。只有“幸运瘤兽”在展会上亮相，拉来投资，我才能有一线生机。
@@ -85,7 +85,7 @@
 [playsound(key="$d_avg_guitartap",volume=0.8,channel="2",delay=0.3)]
 [Delay(time=1)]
 [charslot(slot = "right", name = "avg_npc_2041_1#3$1",focus="r")]
-[name="雅斯彭"]呼......元件没有任何问题，可以撑到展会结束。走吧。
+[name="雅斯彭"]呼……元件没有任何问题，可以撑到展会结束。走吧。
 [Dialog]
 [playsound(key="$d_avg_doorknob")]
 [charslot(slot = "right",posfrom = "0,0", posto = "20,0",duration = 0.3,isblock=true)]
@@ -100,7 +100,7 @@
 [charslot(slot = "m", focus = "n")]
 [Delay(time=2)]
 [charslot(slot = "right", name = "avg_npc_2041_1#5$1",focus="r")]
-[name="雅斯彭"]听到了......难道我的产品真出了什么问题？
+[name="雅斯彭"]听到了……难道我的产品真出了什么问题？
 [charslot(slot = "left", name = "avg_4214_cairn_1#9$1",focus="l")]
 [name="费尔南"]不，不是从展示柜传来的，是从——
 [charslot(slot = "left", name = "avg_4214_cairn_1#5$1",focus="l")]
@@ -117,7 +117,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [name="急切的公司代表"]啧，前面怎么一动不动啊？再拖下去，直播都要开始了！
-[name="好奇的体验员"]别着急，梅兰德的人好像过来处理了......有个人被他们围起来了，看制服样式像是莱茵的研究员？
+[name="好奇的体验员"]别着急，梅兰德的人好像过来处理了……有个人被他们围起来了，看制服样式像是莱茵的研究员？
 [Dialog]
 [StopSound(channel="bgs", fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -136,10 +136,10 @@
 [name="协会成员"]不行。为了保证展品最终呈现的效果，浮空结构层的所有人员都要前往地面，等开幕致辞结束之后才可以返回。
 [name="协会成员"]而且，现在上行缆车全部停运，装置树平台又在园区最高点，你过不去。
 [charslot(slot="m",name="avg_npc_2039_1#3$1")]
-[name="斯凯"]......
+[name="斯凯"]……
 [charslot(slot="m",name="avg_npc_2039_1#7$1")]
-[name="斯凯"]在看到核心代码之前，我并不知道娜斯提主任为这项实验付出了那么多心血，现在想来，她从来没有放弃过对天空的梦想......
-[name="斯凯"]哪怕只能节省一点点走回头路的时间，我也想多帮她一些......我必须过去！
+[name="斯凯"]在看到核心代码之前，我并不知道娜斯提主任为这项实验付出了那么多心血，现在想来，她从来没有放弃过对天空的梦想……
+[name="斯凯"]哪怕只能节省一点点走回头路的时间，我也想多帮她一些……我必须过去！
 [charslot(slot="m",name="avg_npc_2046_1#1$1")]
 [name="协会成员"]斯凯先生，你再胡搅蛮缠，我们只能动用特殊手段了。
 [Dialog]
@@ -150,7 +150,7 @@
 [charslot(slot = "left", name = "avg_npc_2046_1#1$1",posfrom = "-150,0", posto = "-50,0",duration = 0.6)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_2039_1#5$1",focus="m")]
-[name="斯凯"]等等......树好像不太对劲。
+[name="斯凯"]等等……树好像不太对劲。
 [charslot]
 [charslot(slot="m",name="avg_npc_2046_1#1$1")]
 [name="协会成员"]十分钟前你就用过这个说辞了。
@@ -167,7 +167,7 @@
 [backgroundTween( duration=15, yTo=0,block=false)]
 [Blocker(a=0.3, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Subtitle(text="展会即将开幕，哥伦比亚的阳光也灿烂得应景。顺着斯凯手指的方向，众人看到了那棵熠熠生辉的树。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="特殊材料包裹着的枝条本应如同陷进松脂里的小虫，保持绝对静滞。然而此刻，在阳光之下，破碎的枝条似乎泛出了......绿意。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="特殊材料包裹着的枝条本应如同陷进松脂里的小虫，保持绝对静滞。然而此刻，在阳光之下，破碎的枝条似乎泛出了……绿意。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot(slot="m",name="avg_npc_2039_1#3$1",focus="m")]
@@ -175,7 +175,7 @@
 [charslot(slot = "left", name = "avg_npc_2046_1#1$1",focus="m",posfrom = "-50,0", posto = "-50,0")]
 [Background(image="68_g5_floatingstation",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="斯凯"]有机材料可不会进行光合作用......
+[name="斯凯"]有机材料可不会进行光合作用……
 [charslot]
 [charslot(slot="m",name="avg_npc_2046_1#1$1")]
 [name="协会成员"]园区手册上写得很清楚，展品的外观在高空环境下发生变化是常事。
@@ -191,7 +191,7 @@
 [charslot(slot="m",name="avg_npc_2039_1#3$1",focus="m")]
 [charslot(slot = "right", name = "avg_npc_2046_1#1$1",focus="m",posfrom = "50,0", posto = "50,0")]
 [charslot(slot = "left", name = "avg_npc_2046_1#1$1",focus="m",posfrom = "-50,0", posto = "-50,0")]
-[name="斯凯"]上去也解决不了问题，我根本不知道它到底是什么......
+[name="斯凯"]上去也解决不了问题，我根本不知道它到底是什么……
 [name="斯凯"]但有一个人一定知道。
 [Dialog]
 [playsound(key="$d_avg_walkfast")]
@@ -208,9 +208,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playsound(key="$transmission")]
 [delay(time=1)]
-[name="通讯音"]......浮空结构层，十一个主平台、二十个辅助平台均已巡查完毕......
-[name="通讯音"]......九个小型浮空舱的发动机内已安装干扰器和备用引爆器，启动后这些舱室将依次坠毁......
-[name="通讯音"]......人员疏散完毕，侦察员根据风向和风力对坠落曲线进行了反复估算，已确认碎片不会影响到人员聚集的广场......
+[name="通讯音"]……浮空结构层，十一个主平台、二十个辅助平台均已巡查完毕……
+[name="通讯音"]……九个小型浮空舱的发动机内已安装干扰器和备用引爆器，启动后这些舱室将依次坠毁……
+[name="通讯音"]……人员疏散完毕，侦察员根据风向和风力对坠落曲线进行了反复估算，已确认碎片不会影响到人员聚集的广场……
 [Dialog]
 [charslot(slot="m",name="avg_npc_2047_1#1$1",duration=1)]
 [delay(time=2)]
@@ -240,7 +240,7 @@
 娜斯提研究的装置，莱茵最核心的项目，那棵普通却神秘的“树”，此刻被奇装异服的人影和飞舞的气球遮掩，不见形迹。
 几分钟后，展会直播即将开始，而一切与娜斯提无关。她身上的骨笔和机械装置已被尽数收缴，她只需扮演一名无法反抗的罪人。
 缪尔赛思要是在这里，说不定会变出八个水分身骂她傻。不过娜斯提并不后悔自己的决定，她只是挂念一个人。
-拂哀菈离开河谷的举动，始终令她不安，如果有机会......
+拂哀菈离开河谷的举动，始终令她不安，如果有机会……
 [Dialog]
 [stopmusic(fadetime=2)]
 [playsound(key="$d_avg_pick_lock", loop=true, channel="l")]
@@ -258,11 +258,11 @@
 [charslot(slot="m",name="avg_npc_2039_1#12$1",focus="m")]
 [name="斯凯"]可那棵“树”正在“生长”！
 [charslot(slot="l",focus="n")]
-[name="娜斯提"]......“生长”？不可能。
+[name="娜斯提"]……“生长”？不可能。
 [charslot(slot="m",name="avg_npc_2039_1#3$1",focus="m")]
-[name="斯凯"]看来那不是装置的常态反应......如果影响到浮空模块，它一定会伤到地面上的人。
+[name="斯凯"]看来那不是装置的常态反应……如果影响到浮空模块，它一定会伤到地面上的人。
 [charslot(slot="l",focus="n")]
-[name="娜斯提"]浮空模块是绝对独立的，备用电源至少能提供五天的动力，但你所见的异常......只有进入“树”的内部才能排查出原因。
+[name="娜斯提"]浮空模块是绝对独立的，备用电源至少能提供五天的动力，但你所见的异常……只有进入“树”的内部才能排查出原因。
 [charslot(slot="m",name="avg_npc_2039_1#7$1",focus="m")]
 [name="斯凯"]快跟我走吧，主任。
 [name="斯凯"]监控已经被人设置了画面延迟，至少能撑二十分钟，而且不知道为什么，牢房的智能锁也被打开了，趁现在——
@@ -294,20 +294,20 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot="m",name="avg_npc_2039_1#5$1")]
-[name="斯凯"]你......身上都是什么？手工制作的高空面罩、改装螺旋桨，还有二手的隔热太空服？
+[name="斯凯"]你……身上都是什么？手工制作的高空面罩、改装螺旋桨，还有二手的隔热太空服？
 [interlude(channel = 2, clear = true)]
 [interlude(channel = 3, clear = true)]
 [charslot(slot="m",name="avg_npc_2039_1#9$1")]
 [name="斯凯"]你洗劫了园区的废品回收站？
 [charslot(slot="m",name="avg_4213_skybx_1#1$1")]
-[name="高登"]......
+[name="高登"]……
 [charslot(slot="m",name="avg_npc_2039_1#10$1")]
-[name="斯凯"]听证会上你颠倒黑白的证词可还在园区公示栏里挂着，现在主动帮我们越狱......总不能是你良心发现了吧？
+[name="斯凯"]听证会上你颠倒黑白的证词可还在园区公示栏里挂着，现在主动帮我们越狱……总不能是你良心发现了吧？
 [charslot(slot="m",name="avg_4213_skybx_1#1$1")]
 [name="高登"]娜斯提，被收缴的骨笔和机械装置我都带来了。听证会的事，抱歉。
 [name="高登"]比起表演那人准备好的稿子，我宁愿跟你一起站在被告席上——好歹那些被收缴的装置确实是我的货物，我该为此承担罪责。
 [charslot(slot="m",name="avg_npc_2039_1#12$1")]
-[name="斯凯"]......你真的是高登·谭农？
+[name="斯凯"]……你真的是高登·谭农？
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_clothmovement",volume=0.7)]
@@ -344,19 +344,19 @@
 [name="斯凯"]什么声音！
 [charslot]
 [name="园区广播"]天，是我眼花了吗？浮空结构层有什么东西正在下坠——那是“幸运瘤兽”的浮空舱？！
-[name="园区广播"]不，不止......三个、四个......这是开幕仪式的一环吗？串词里怎么没写？要是真砸下来了——
-[name="园区广播"]等等！舱室好像停止坠落了？仿佛有什么牢牢拉住了它们......
+[name="园区广播"]不，不止……三个、四个……这是开幕仪式的一环吗？串词里怎么没写？要是真砸下来了——
+[name="园区广播"]等等！舱室好像停止坠落了？仿佛有什么牢牢拉住了它们……
 [name="园区广播"]啊，负责人你说什么？哦、哦，看来各家科技公司都准备了很多惊喜，连我也险些被骗了！
 [name="园区广播"]不需要任何学术论文和数据例证，屏幕前的观众们都亲眼看到了“螺旋桨天堂”在浮空领域的突破，而这仅仅是展会的开始！
 [charslot(slot="m",name="avg_npc_2039_1#3$1")]
-[name="斯凯"]不可能，哪怕是在研项目中，也没有一款急停模块可以做到这种程度......
+[name="斯凯"]不可能，哪怕是在研项目中，也没有一款急停模块可以做到这种程度……
 [charslot(slot="m",name="avg_4212_nasti_1#2$1")]
 [name="娜斯提"]斯凯，你的实地测算比较精准，下坠的浮空舱本来应该落到哪里？
 [charslot(slot="m",name="avg_npc_2039_1#7$1")]
 [name="斯凯"]凭肉眼估算，浮空舱坠落时大概率会砸毁二号主平台，把连接上下层的主通道堵死——
 [name="斯凯"]那是通往装置树平台的唯一路径。
 [charslot(slot="m",name="avg_4212_nasti_1#9$1")]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [charslot(slot="m",name="avg_4212_nasti_1#1$1")]
 [name="娜斯提"]高登，我接受你刚刚的道歉，但我无暇参与你的计划。
 [charslot(slot="m",name="avg_4213_skybx_1#1$1")]
@@ -367,7 +367,7 @@
 [name="高登"]这是我对所有“违规”事物的直觉性判断。
 [name="高登"]对付古斯塔夫这种小事根本用不着你帮忙，但我需要一个能在尘埃落定之后保住整个“螺旋桨天堂”的筹码。
 [charslot(slot="m",name="avg_4212_nasti_1#5$1")]
-[name="娜斯提"]我的装置树......
+[name="娜斯提"]我的装置树……
 [charslot(slot="m",name="avg_4213_skybx_1#1$1")]
 [name="高登"]让你去处理只有你知道的事，就是我计划的一部分。
 [charslot(slot="m",name="avg_4212_nasti_1#2$1")]
@@ -379,7 +379,7 @@
 [delay(time=2.5)]
 [charslot]
 [charslot(slot="m",name="avg_4213_skybx_1#4$1")]
-[name="高登"]......
+[name="高登"]……
 [charslot(slot="m",name="avg_4213_skybx_1#1$1")]
 [name="高登"]东西都准备好了吗，零五四？
 [charslot(slot="m",name="avg_npc_2040_1#1$1")]

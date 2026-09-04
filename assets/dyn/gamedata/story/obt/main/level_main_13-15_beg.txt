@@ -41,9 +41,9 @@
 [name="萨卡兹？"]（古老的萨卡兹语）魔王死了。
 [name="萨卡兹？"]（古老的萨卡兹语）魔王杀死了魔王。
 [name="萨卡兹？"]（古老的萨卡兹语）为什么，不该是这样——
-[name="萨卡兹？"]（古老的萨卡兹语）我们的城市，卡兹戴尔......
+[name="萨卡兹？"]（古老的萨卡兹语）我们的城市，卡兹戴尔……
 [name="萨卡兹？"]（古老的萨卡兹语）这会是诅咒！这会是刻印进王冠的诅咒——
-[name="萨卡兹？"]（古老的萨卡兹语）这会是......一切灾难的开始——
+[name="萨卡兹？"]（古老的萨卡兹语）这会是……一切灾难的开始——
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
@@ -66,11 +66,11 @@
 [charslot(slot="m",name="avg_4088_hodrer_1#2$1",focus="m")]
 [name="赫德雷"]罗德岛在不久前曾遭到赦罪师的袭击，那些人想夺取小兔子的那顶王冠。
 [charslot(slot="m",name="avg_npc_412_1#8$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_npc_412_1#8$1",focus="m")]
 [name="W"]哼，王冠。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
-[name="伊内丝"]......赫德雷，你没和那些维多利亚人说实话。
+[name="伊内丝"]……赫德雷，你没和那些维多利亚人说实话。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]如果你的计划成功了，我们回到了卡兹戴尔，你打算干什么？
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
@@ -80,7 +80,7 @@
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]比如，去卡兹戴尔那座地窖里的大学，给这些从战场上回来的家伙开一门，呵，“反思历史”的课？
 [charslot(slot="m",name="avg_4088_hodrer_1#2$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]不。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
@@ -100,22 +100,22 @@
 [charslot(slot="m",name="avg_npc_412_1#1$1",focus="m")]
 [name="W"]你是个可爱的卡普里尼，伊内丝，你说不定可以去莱塔尼亚，给那些住在塔里的高高在上的贵族们当家教。
 [charslot(slot="m",name="avg_npc_412_1#2$1",focus="m")]
-[name="W"]就教......我想想，教怎么在战场上保持秀发靓丽，怎么样？
+[name="W"]就教……我想想，教怎么在战场上保持秀发靓丽，怎么样？
 [charslot(slot="m",name="avg_4087_ines_1#2$1",focus="m")]
 [name="伊内丝"]不怎么样。
 [charslot(slot="m",name="avg_4088_hodrer_1#8$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="m",name="avg_4087_ines_1#7$1",focus="m")]
 [name="伊内丝"]你在发什么呆？马上就要开战了。
 [charslot(slot="m",name="avg_4088_hodrer_1#8$1",focus="m")]
-[name="赫德雷"]不，我只是......
+[name="赫德雷"]不，我只是……
 [charslot]
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="伊内丝的目光微微瞥向了我的脚下。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n她又在看我的影子。我的影子现在是什么状态？",block = true)]
-[Sticker(id="st1", multi = true, text="\n我也不知道。我确实极少在行动前这么......平静。",block = true)]
+[Sticker(id="st1", multi = true, text="\n我也不知道。我确实极少在行动前这么……平静。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="平静使得我有余力去想很多事情。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n一些，小事。",block = true)]
@@ -126,9 +126,9 @@
 [charslot(slot="m",name="avg_4087_ines_1#10$1",focus="m")]
 [name="伊内丝"]那是因为当时我们没有销赃的地方。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]......是啊。
+[name="赫德雷"]……是啊。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]我在识字班挣的第一笔学费，做你的本钱怎么样？
 [charslot(slot="m",name="avg_4087_ines_1#2$1",focus="m")]
@@ -151,7 +151,7 @@
 [Sticker(id="st1", multi = true, text="\n平静到极点的时刻，某些不安的触须开始令人心肝刺挠，令人犹豫不决。",block = true)]
 [Sticker(id="st1", multi = true, text="\n在我自己都感到诧异的思绪之中，我找到了我焦急的原因。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="我担心她们不认同我。关于我的......", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我担心她们不认同我。关于我的……", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n一些，想法。",block = true)]
 [Sticker(id="st1", multi = true, text="\n可不得不说。箭在弦上了。",block = true)]
 [Sticker(id="st1")]
@@ -161,7 +161,7 @@
 [charslot(slot="m",name="avg_npc_412_1#1$1",focus="m")]
 [name="W"]时间不等人。等我们宰了那个血魔，宰了特雷西斯，你们大可以回到卡兹戴尔慢慢商量爱巢的装修。
 [charslot(slot="m",name="avg_4088_hodrer_1#2$1",focus="m")]
-[name="赫德雷"]......特雷西斯。
+[name="赫德雷"]……特雷西斯。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]这件事我想了很久，W。接下来我要说的也许你无法接受，但我还是得告诉你。
 [charslot(slot="m",name="avg_npc_412_1#4$1",focus="m")]
@@ -177,9 +177,9 @@
 [charslot(slot="m",name="avg_4088_hodrer_1#2$1",focus="m")]
 [name="赫德雷"]杀了他，卡兹戴尔将不复存在。
 [charslot(slot="m",name="avg_4088_hodrer_1#2$1",focus="m")]
-[name="赫德雷"]无论是在现在，还是在战争结束后的相当一段时间里，他都必须以摄政王的身份被记载......乃至，被部分人歌颂。
+[name="赫德雷"]无论是在现在，还是在战争结束后的相当一段时间里，他都必须以摄政王的身份被记载……乃至，被部分人歌颂。
 [charslot(slot="m",name="avg_npc_412_1#13$1",focus="m")]
-[name="W"]......你疯了吗？
+[name="W"]……你疯了吗？
 [charslot(slot="m",name="avg_npc_412_1#13$1",focus="m")]
 [name="W"]在这件事上我不想开玩笑。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
@@ -187,17 +187,17 @@
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]但特雷西斯已经把自己浇筑成了萨卡兹未来的基石。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]卡兹戴尔不能再遭受一次分裂，这场战争......也不能结束于萨卡兹的又一次背叛和内战的开始。
+[name="赫德雷"]卡兹戴尔不能再遭受一次分裂，这场战争……也不能结束于萨卡兹的又一次背叛和内战的开始。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]记得我之前说的计划吗？我们需要的是在所有人得知他的死亡之前，让这片战场上的萨卡兹们撤离维多利亚。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
-[name="伊内丝"]......
+[name="伊内丝"]……
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]萨卡兹的失败一旦公开，特雷西斯的威慑一旦不复存在——那么，会发生什么？
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]公爵们会肆无忌惮地屠杀维多利亚境内的萨卡兹，报复会延伸至核心圈的其他国家，每一个文明都有正当借口......把萨卡兹赶尽杀绝。
+[name="赫德雷"]公爵们会肆无忌惮地屠杀维多利亚境内的萨卡兹，报复会延伸至核心圈的其他国家，每一个文明都有正当借口……把萨卡兹赶尽杀绝。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]然后组织一支联军，合理又正义、迅速又果决地......瓜分特蕾西娅和特雷西斯留下的所有遗产。
+[name="赫德雷"]然后组织一支联军，合理又正义、迅速又果决地……瓜分特蕾西娅和特雷西斯留下的所有遗产。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]你想不到吗？
 [charslot(slot="m",name="avg_npc_412_1#5$1",focus="m")]
@@ -218,7 +218,7 @@
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Sticker(id="st1", multi = true, text="我本以为我会以更激烈的情绪斥责她。斥责W这个......可怜人。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我本以为我会以更激烈的情绪斥责她。斥责W这个……可怜人。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
@@ -250,7 +250,7 @@
 [charslot(slot="m",name="avg_npc_412_1#5$1",focus="m")]
 [name="W"]我——
 [charslot(slot="m",name="avg_npc_412_1#5$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -259,22 +259,22 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [name="伊内丝"]不止特雷西斯——
 [name="伊内丝"]别忘了，还有特蕾西娅。
-[name="赫德雷"]所以，从所有角度来说，我们都......只能是他们的继承者，是他们理念的延伸。
+[name="赫德雷"]所以，从所有角度来说，我们都……只能是他们的继承者，是他们理念的延伸。
 [name="赫德雷"]他们两人，才是萨卡兹能团结起来的原因。
-[name="W"]......
+[name="W"]……
 [name="W"]那不是真的特蕾西娅。
 [name="W"]那不过是特雷西斯造出来的冒牌货，他骗不过我。
 [name="赫德雷"]W。
 [name="赫德雷"]正视你自己。
 [name="W"]你以为你是谁——
 [name="赫德雷"]你不能接受特蕾西娅的死，你习惯了当巴别塔的影子。
-[name="赫德雷"]甚至......
+[name="赫德雷"]甚至……
 [name="W"]住嘴。
 [name="赫德雷"]你觉得有阿米娅走在你的前面。你觉得，她才是特蕾西娅选定的继承人，“魔王”才该考虑这些事情。
 [name="赫德雷"]你把她看作另一个特蕾西娅，你觉得，只需要追随“魔王”就好。
 [name="W"]住嘴！你在故意恶心我吗？！
-[name="赫德雷"]......你觉得自己不配继承什么。
-[name="W"]......开什么玩笑，你自以为你了解我吗？你真把自己当成教育我的人了，赫德雷？
+[name="赫德雷"]……你觉得自己不配继承什么。
+[name="W"]……开什么玩笑，你自以为你了解我吗？你真把自己当成教育我的人了，赫德雷？
 [name="W"]你也只是个雇佣兵，比我高不到哪里去。你就能自诩为什么什么继承者了？
 [name="W"]呸，恶心死了！小兔子？还我追随她？
 [name="W"]她就是个机缘巧合之下才被——
@@ -282,10 +282,10 @@
 [name="赫德雷"]那么你呢？
 [name="赫德雷"]W，特蕾西娅对于你到底意味着什么？
 [name="赫德雷"]只是个曾经让你有个容身之所的遥远象征，那个具体的有血有肉的殿下，还是——她所代表的路？
-[name="W"]......我......
-[name="W"]“为了这片大地......能够安稳入眠。”
-[name="W"]......啧。
-[name="W"]所以......我才会说，她是假的。
+[name="W"]……我……
+[name="W"]“为了这片大地……能够安稳入眠。”
+[name="W"]……啧。
+[name="W"]所以……我才会说，她是假的。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -293,13 +293,13 @@
 [image]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_412_1#6$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
-[name="伊内丝"]......
+[name="伊内丝"]……
 [charslot(slot="m",name="avg_npc_412_1#6$1",focus="m")]
-[name="W"]......伊内丝，你是怎么忍着这么久没宰了他的？
+[name="W"]……伊内丝，你是怎么忍着这么久没宰了他的？
 [charslot(slot="m",name="avg_4087_ines_1#2$1",focus="m")]
 [name="伊内丝"]因为我很少骗自己。
 [charslot(slot="m",name="avg_npc_412_1#8$1",focus="m")]
@@ -315,7 +315,7 @@
 [charslot(duration=2)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4088_hodrer_1#6$1",focus="m")]
-[name="赫德雷"]唉......还是逃开了。
+[name="赫德雷"]唉……还是逃开了。
 [charslot(slot="m",name="avg_4087_ines_1#8$1",focus="m")]
 [name="伊内丝"]你真的觉得，她能成个像样的领袖？
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
@@ -329,17 +329,17 @@
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]不管她自己怎么说，为特蕾西娅报仇也好，追杀当年刺杀的参与者也罢，还是说自己什么都没想，只是一路狂轰滥炸——
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]她都确实......已经走在了那条路上。
+[name="赫德雷"]她都确实……已经走在了那条路上。
 [charslot(slot="m",name="avg_4087_ines_1#10$1",focus="m")]
-[name="伊内丝"]......跟着她混的人真可怜。
+[name="伊内丝"]……跟着她混的人真可怜。
 [charslot(slot="m",name="avg_4087_ines_1#10$1",focus="m")]
-[name="伊内丝"]但其实很多人都忘了，她还很年轻。她有很大的......进步空间。
+[name="伊内丝"]但其实很多人都忘了，她还很年轻。她有很大的……进步空间。
 [charslot(slot="m",name="avg_4088_hodrer_1#2$1",focus="m")]
 [name="赫德雷"]但愿吧。
 [charslot(slot="m",name="avg_4088_hodrer_1#9$1",focus="m")]
 [name="赫德雷"]还有，第一笔钱给你开店，不是玩笑。
 [charslot(slot="m",name="avg_4087_ines_1#8$1",focus="m")]
-[name="伊内丝"]......我知道。
+[name="伊内丝"]……我知道。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -357,11 +357,11 @@
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
 [name="希勒少尉"]嗯，加上我们这一路收拢的原本属于各个公爵的残兵、想要参与战斗的难民和自救军的这些民兵，我们大概有了六七个连的兵力。
 [charslot(slot="m",name="avg_npc_1070_1#1$1",focus="m")]
-[name="希勒少尉"]推进之王，我们最好正式建立“典范军”的军制，任命军官，这样我们的指挥系统才......
+[name="希勒少尉"]推进之王，我们最好正式建立“典范军”的军制，任命军官，这样我们的指挥系统才……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]希勒少尉，这支队伍不是一支真的军队。“维多利亚的军队”。
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
-[name="推进之王"]确实，我们有一些士兵......
+[name="推进之王"]确实，我们有一些士兵……
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]但除去你和戴菲恩带领的温德米尔公爵的残部，其余的只是想要战斗的普通人。工人，农民，商人，当然，还有街头流氓。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
@@ -371,7 +371,7 @@
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="推进之王"]或者别把话说那么大，给人们带来一点公爵们的高速军舰带不来的，虚无缥缈的事物。
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
-[name="推进之王"]所以说......
+[name="推进之王"]所以说……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]典范军不该是由手握国剑的王位继承人统领的英雄军队。我相当反感这些名头。
 [charslot(slot="m",name="avg_npc_1070_1#6$1",focus="m")]
@@ -385,21 +385,21 @@
 [charslot(slot="m",name="avg_4110_delphn_1#7$1",focus="m")]
 [name="戴菲恩"]我们还是和自己熟悉的人，用自己喜欢的方式，去杀那些萨卡兹。
 [charslot(slot="m",name="avg_4110_delphn_1#2$1",focus="m")]
-[name="戴菲恩"]......无意冒犯，萨卡兹们。
+[name="戴菲恩"]……无意冒犯，萨卡兹们。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]......
+[name="赫德雷"]……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]无妨。我不在乎。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]仪式已被终止，但残留在萨卡兹血脉中的赐福，并没有彻底消弭。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]伦蒂尼姆的方向......古老的巫术在翻腾。
+[name="Logos"]伦蒂尼姆的方向……古老的巫术在翻腾。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]我们的死敌有着不可告人的目的，但他们所表露出的紧迫仓促，反而能成为突破的助力。
 [charslot(slot="m",name="avg_4110_delphn_1#7$1",focus="m")]
 [name="戴菲恩"]我们会加倍注意。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]那么......
+[name="赫德雷"]那么……
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]让我们抢回那根香骨头吧。
 [Dialog]
@@ -436,7 +436,7 @@
 [charslot(slot="m",name="avg_npc_419_1#1$1",focus="m")]
 [name="脊椎守卫"]你们和维多利亚人，一起进攻这里？
 [charslot(slot="m",name="avg_4088_hodrer_1#7$1",focus="m")]
-[name="赫德雷"]......抱歉了。
+[name="赫德雷"]……抱歉了。
 [Dialog]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [Blocker(a=1, r=255, g=255, b=255, fadetime=0.1, block=true)]
@@ -478,7 +478,7 @@
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]马上登上脊椎，控制它的操纵者！
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]阿米娅。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
@@ -492,7 +492,7 @@
 [Sticker(id="st1", multi = true, text="我顺着女妖的眼神望向岩顶投下的影子。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n一丝血腥味闯进我的鼻腔。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="这具骸骨......它有血管吗？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="这具骸骨……它有血管吗？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]

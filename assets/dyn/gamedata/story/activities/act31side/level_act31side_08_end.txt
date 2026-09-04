@@ -9,7 +9,7 @@
 [Delay(time=2)]
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",duration=0.5)]
 [delay(time=1)]
-[name="禾生"]数量还是太多了......对付不过来......
+[name="禾生"]数量还是太多了……对付不过来……
 [name="禾生"]外围的田地，恐怕都要保不住了。
 [dialog]
 [charslot]
@@ -23,9 +23,9 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4121_zuole_1#4$1",duration=0.3)]
 [delay(time=0.3)]
-[name="左乐"]情况紧急，优先救人......
+[name="左乐"]情况紧急，优先救人……
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
-[name="禾生"]是错觉吗，总觉得......它们闹得好像没有之前凶了。
+[name="禾生"]是错觉吗，总觉得……它们闹得好像没有之前凶了。
 [charslot(slot = "m", focus = "n")]
 [CameraShake(duration=3, xstrength=15, ystrength=15, vibrato=50, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_rampartclose",volume=0.3)] 
@@ -37,8 +37,8 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1")]
 [name="禾生"]什么动静？
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")]
-[name="左乐"]这里的地块，正在从核心城上脱离......
-[name="左乐"]果然......这些怪物的生命力与大荒城的核心城是绑定的，断开了连接，它们的力量也在衰弱。
+[name="左乐"]这里的地块，正在从核心城上脱离……
+[name="左乐"]果然……这些怪物的生命力与大荒城的核心城是绑定的，断开了连接，它们的力量也在衰弱。
 [charslot(slot="m",name="avg_4121_zuole_1#5$1")]
 [name="左乐"]坚持住！大家都撤到这里来了吗？
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1")]
@@ -55,7 +55,7 @@
 [charslot(slot="m",name="avg_npc_1249_1#1$1")]
 [name="职农组长丙"]从中央城区到辰号居民区的路上，有一片农田受到怪物袭击的情况格外严重，派出去的救援队也失去联络了。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
-[name="禾生"]现在核心城能源装置故障，联络系统也瘫痪了......
+[name="禾生"]现在核心城能源装置故障，联络系统也瘫痪了……
 [dialog]
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1")]
 [charslot(slot = "m",posfrom = "0,0", posto = "200,0",duration = 0.8)]
@@ -66,13 +66,13 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
 [name="禾生"]那里是我的试验田，没人比我更熟路线！
 [charslot(slot="m",name="avg_4119_wanqin_1#9$1",focus="m")]
-[name="禾生"]留在那里的，都是平时受我委托帮我照顾农田的职农。我还骗了他们，说我的研究最近大有进展......
+[name="禾生"]留在那里的，都是平时受我委托帮我照顾农田的职农。我还骗了他们，说我的研究最近大有进展……
 [charslot(slot="l",name="avg_4121_zuole_1#4$1",focus="l")]
 [name="左乐"]要去也行，带我一个。我跑得快，还能拉你一把。
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
 [name="禾生"]你是外地来的，这里的事原本和你没关系，你还比我小一岁——
 [charslot(slot="l",name="avg_4121_zuole_1#4$1",focus="l")]
-[name="左乐"]“......禾生，1101年晋升天师府中级农业天师，时年十七岁。”
+[name="左乐"]“……禾生，1101年晋升天师府中级农业天师，时年十七岁。”
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
 [name="禾生"]你——
 [charslot(slot="l",name="avg_4121_zuole_1#4$1",focus="l")]
@@ -107,12 +107,12 @@
 [dialog]
 [charslot(slot="m",name="avg_2025_shu_1#1$1",duration=1)]
 [delay(time=1.5)]
-[name="黍"]原来......你已经醒了。
+[name="黍"]原来……你已经醒了。
 [charslot]
 [name="混沌的意识"]这是哪里？我从一开始就在这里吗？
 [name="混沌的意识"]为什么，有很久远的记忆。
-[name="混沌的意识"]我看到了许多......
-战乱，死亡，疫病，饥馑......
+[name="混沌的意识"]我看到了许多……
+战乱，死亡，疫病，饥馑……
 来自穹顶之上的灾异翻洗整片大地，满目疮痍，之后又是无止尽的战乱动荡。
 文明毁灭，生灵恐惧。
 为什么我会被困在这里？
@@ -122,7 +122,7 @@
 [name="混沌的意识"]痛苦。
 [name="混沌的意识"]我听到，有许多人在哭。
 怎样才能不再这样痛苦下去。
-我想起来了，有人给我起了名字......
+我想起来了，有人给我起了名字……
 [dialog]
 [delay(time=1)]
 “岁”。
@@ -146,8 +146,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$storyendjp_intro",key="$storyendjp_loop", volume=0.6)]
 [delay(time=1)]
-[name="黍"]......
-[name="黍"]不，你只是一个影子......是我自己的影子。
+[name="黍"]……
+[name="黍"]不，你只是一个影子……是我自己的影子。
 [name="黍"]这些并非你的痛苦，是生活在这片土地上的人的痛苦。
 [name="狰狞的声音"]不——
 [name="黍"]你在害怕，因为你不曾真的活过，你不知道这片大地真实的样子。
@@ -185,7 +185,7 @@
 [PlaySound(key="$d_avg_singleblunt", volume=1)]
 [delay(time=0.31)]
 [charslot(slot="l",focus="l",posfrom = "50,0", posto = "0,0",duration=0.3)]
-[name="惊慌的职农"]......嗬！
+[name="惊慌的职农"]……嗬！
 [dialog]
 [charslot(slot="r",duration=0.8,posfrom = "450,0", posto = "400,0")]
 [delay(time=0.5)]
@@ -201,7 +201,7 @@
 [charslot(slot="r",name="avg_npc_1244_1#3$1",afrom=1,ato=0,duration=1)]
 [delay(time=2)]
 [charslot(slot="l",name="avg_npc_1249_1#1$1",focus="l")]
-[name="强作镇定的职农"]得......得救了？
+[name="强作镇定的职农"]得……得救了？
 [dialog]
 [charslot(slot = "right", name = "avg_4119_wanqin_1#5$1",posfrom = "150,0", posto = "0,0",duration = 0.8)]
 [delay(time=1)]
@@ -222,7 +222,7 @@
 [charslot(slot = "l", name = "avg_4121_zuole_1#1$1",posfrom = "0,0", posto = "0,0",duration = 0.5)]
 [delay(time=1)]
 [charslot(slot = "l", name = "avg_4121_zuole_1#1$1", focus="l")]
-[name="左乐"]还好......只是惊吓过度晕过去了。
+[name="左乐"]还好……只是惊吓过度晕过去了。
 [charslot(slot = "m", focus = "n")]
 [playsound(key="$smallearthquake",volume=0.7)]
 [CameraShake(duration=3, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -238,16 +238,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1250_1#1$1")]
-[name="恐惧的职农"]好深的一道沟......
-[name="恐惧的职农"]我们......是已经被抛下了吗？
+[name="恐惧的职农"]好深的一道沟……
+[name="恐惧的职农"]我们……是已经被抛下了吗？
 [charslot(slot = "m",name = "avg_4121_zuole_1#1$1")]
-[name="左乐"]......得罪了！
+[name="左乐"]……得罪了！
 [charslot]
 [CameraShake(duration=0.5, xstrength=10, ystrength=20, vibrato=15, randomness=90, fadeout=true, block=false)]
 [playsound(key="$d_avg_clothmovementsp")]
 少年秉烛人一手携起一人，腾身而起，三两步跨过沟壑。
 [charslot(slot = "m", name = "avg_4119_wanqin_1#7$1")]
-[name="禾生"]你......真有你的！
+[name="禾生"]你……真有你的！
 [charslot]
 左乐来往在两块分错开的地块之间，将落单的人们一一送到安全的对岸。
 但是地块之间的高低差还在以肉眼可见的速度扩大，他的脚步也逐渐变得沉重。
@@ -255,9 +255,9 @@
 直到最后一次，他差一点就要踏空，一阵风托住了他的背。
 [dialog]
 [charslot(slot = "m", name = "avg_4119_wanqin_1#5$1")]
-[name="禾生"]当心点......
+[name="禾生"]当心点……
 [charslot(slot = "m",name = "avg_4121_zuole_1#1$1")]
-[name="左乐"]多谢......
+[name="左乐"]多谢……
 [charslot(slot = "m",name = "avg_4121_zuole_1#4$1")]
 [name="左乐"]其他人都送过去了，抓紧我，我带你上去！
 [dialog]
@@ -270,7 +270,7 @@
 [playMusic(intro="$m_bat_kjerag_h_intro",key="$m_bat_kjerag_h_intro", volume=0.6)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m",name = "avg_4121_zuole_1#4$1")]
-[name="左乐"]......还有？！
+[name="左乐"]……还有？！
 [dialog]
 [charslot(slot="m",name="avg_npc_1244_1#3$1")]
 [playsound(key="$d_avg_windmagic")]
@@ -282,11 +282,11 @@
 [delay(time=1.1)]
 [charslot(slot = "m", name = "avg_4119_wanqin_1#14$1")]
 [charslot(slot ="m", action="shake", power=10, times=30, duration=0.3)]
-[name="禾生"]别分神......
+[name="禾生"]别分神……
 [charslot(slot = "m",name = "avg_4121_zuole_1#4$1")]
-[name="左乐"]你源石技艺使用过头了......
+[name="左乐"]你源石技艺使用过头了……
 [charslot(slot = "m", name = "avg_4119_wanqin_1#5$1")]
-[name="禾生"]用不着担心我......天师府的学生，没你想的那么脆弱......
+[name="禾生"]用不着担心我……天师府的学生，没你想的那么脆弱……
 [charslot]
 [playsound(key="$smallearthquake",volume=0.7)]
 [CameraShake(duration=3, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -297,21 +297,21 @@
 [charslot(slot = "l",name = "avg_4121_zuole_1#4$1",duration=0.5)]
 [delay(time=1)]
 [charslot(slot = "l",name = "avg_4121_zuole_1#5$1",focus="l")]
-[name="左乐"]......该死！
+[name="左乐"]……该死！
 [charslot(slot = "r",name = "avg_4119_wanqin_1#8$1",focus="r")]
-[name="禾生"]我们......是不是走不了了......
+[name="禾生"]我们……是不是走不了了……
 [charslot(slot = "l",name = "avg_4121_zuole_1#4$1",focus="l")]
-[name="左乐"]这个地块马上就要陷落了，做好防冲击的准备......找一处泥土松软的土地躲起来，说不定还能......
+[name="左乐"]这个地块马上就要陷落了，做好防冲击的准备……找一处泥土松软的土地躲起来，说不定还能……
 [charslot(slot = "r",name = "avg_4119_wanqin_1#8$1",focus="r")]
-[name="禾生"]之前都没有注意，大荒城的移动地块居然已经建得这么高了......
-[name="禾生"]左乐......我们救下了多少人？
+[name="禾生"]之前都没有注意，大荒城的移动地块居然已经建得这么高了……
+[name="禾生"]左乐……我们救下了多少人？
 [charslot(slot = "l",name = "avg_4121_zuole_1#4$1",focus="l")]
-[name="左乐"]你放心，我清点过人数，之前困在这里的人都已经送过去了......
+[name="左乐"]你放心，我清点过人数，之前困在这里的人都已经送过去了……
 [name="左乐"]打起精神，只要我俩想办法活着回去，这趟救援就算圆满成功了。
 [charslot(slot = "r",name = "avg_4119_wanqin_1#9$1",focus="r")]
-[name="禾生"]神话里总是说，当年无论情况多么艰险，只要大家站在一块，总能把危机渡过去......
+[name="禾生"]神话里总是说，当年无论情况多么艰险，只要大家站在一块，总能把危机渡过去……
 [charslot(slot = "r",name = "avg_4119_wanqin_1#14$1",focus="r")]
-[name="禾生"]这些年，一直在受大伙的照顾......但从来没能做点回报大伙的事，今天总算......
+[name="禾生"]这些年，一直在受大伙的照顾……但从来没能做点回报大伙的事，今天总算……
 [charslot(slot = "m", focus = "n")]
 禾生的声音断断续续，左乐这才意识到，他的白色衣衫上洇出了一片鲜红。
 [charslot(slot = "l",name = "avg_4121_zuole_1#5$1",focus="l")]
@@ -327,7 +327,7 @@
 [charslot(slot = "r",name = "avg_4119_wanqin_1#14$1",focus="r")]
 [name="禾生"]这是我的天师仪，里面还存着一些重要的实验数据，一会不管发生了什么事，你都要想办法保管好。
 [charslot(slot = "l",name = "avg_4121_zuole_1#6$1",focus="l")]
-[name="左乐"]好吧......我收着。
+[name="左乐"]好吧……我收着。
 [charslot(slot = "m", focus = "n")]
 禾生将一块源石装置牢牢绑在左乐手上，按动了开关，小巧的装置迅速展开为一面风筝。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -336,7 +336,7 @@
 [charslot(slot = "r",name = "avg_4119_wanqin_1#14$1",focus="r")]
 [name="禾生"]虽然之前一直在骂你，但我发现，你心眼不坏。
 [charslot(slot = "r",name = "avg_4119_wanqin_1#5$1",focus="r")]
-[name="禾生"]所以我不能，让你在这......
+[name="禾生"]所以我不能，让你在这……
 [dialog]
 [charslot]
 [playsound(key="$d_avg_windmagic")]
@@ -350,9 +350,9 @@
 [charslot(slot="m",name="avg_npc_1244_1#3$1")]
 [name="诡异的织物"]（威胁的嘶鸣）
 [charslot(slot = "m",name = "avg_4119_wanqin_1#9$1")]
-[name="禾生"]虽然不知道你们到底是从哪里冒出来的......
+[name="禾生"]虽然不知道你们到底是从哪里冒出来的……
 [charslot(slot = "m",name = "avg_4119_wanqin_1#14$1")]
-[name="禾生"]但我可不怕你们......
+[name="禾生"]但我可不怕你们……
 [dialog]
 [stopmusic(fadetime=2)]
 [charslot(slot="m",name="avg_npc_1244_1#3$1")]
@@ -367,7 +367,7 @@
 [StopSound(channel="a", fadetime=3)]
 [Delay(time=3)]
 [charslot(slot = "m",name = "avg_4119_wanqin_1#7$1")]
-[name="禾生"]咦......？
+[name="禾生"]咦……？
 [dialog]
 [charslot(slot = "m",name = "avg_4119_wanqin_1#14$1")]
 [charslot(slot ="m", action="shake", power=10, times=30, duration=0.3)]
@@ -399,33 +399,33 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=1)]
-[name="禾生"]我......
+[name="禾生"]我……
 [name="禾生"]绵绵？
 [dialog]
 [charslot(slot="m",name="avg_npc_1244_1#1$1",duration=1)]
 [delay(time=1.5)]
 [name="温顺的牧兽"]（关切地磨蹭）
 [charslot]
-[name="禾生"]别......别舔我了......我身上没有零食......
+[name="禾生"]别……别舔我了……我身上没有零食……
 禾生缓缓睁开眼，他发现自己正躺在田野间，有许多张担忧的面孔环绕着自己。
 他仿佛回到了并不存在于记忆里的那一天，初次来到这片土地的那一天。
 [dialog]
 [charslot(slot="m",name="avg_4119_wanqin_1#9$1",duration=1.5)]
 [delay(time=2)]
-[name="禾生"]大家......都没事？
+[name="禾生"]大家……都没事？
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
-[name="禾生"]我......
+[name="禾生"]我……
 [charslot(slot = "m",name = "avg_4121_zuole_1#1$1")]
 [name="左乐"]大伙都想去找你的时候，绵绵不知道从哪里驮着你回来了。
 [charslot(slot = "m",name = "avg_4121_zuole_1#10$1")]
 [name="左乐"]你那时为什么——
 [charslot(slot = "m",name = "avg_4121_zuole_1#1$1")]
-[name="左乐"]......你救了我，多谢。
+[name="左乐"]……你救了我，多谢。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
-[name="禾生"]......
-[name="禾生"]那些怪物......被赶跑了？
+[name="禾生"]……
+[name="禾生"]那些怪物……被赶跑了？
 [charslot(slot = "m",name = "avg_4121_zuole_1#1$1")]
-[name="左乐"]嗯......
+[name="左乐"]嗯……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -435,12 +435,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 乌云散去，血色的晚霞褪了色，又是一轮夕阳，金黄色的余晖洒满田野。
-[name="禾生"]结......结束了吗？
-[name="左乐"]结束了......
+[name="禾生"]结……结束了吗？
+[name="左乐"]结束了……
 [name="禾生"]我们赢了，对吧？
-[name="禾生"]当年，神农做到的事，我们也做到了......
-[name="左乐"]是啊......
-[name="左乐"]有人控制住了核心能源，我们成功了......
+[name="禾生"]当年，神农做到的事，我们也做到了……
+[name="左乐"]是啊……
+[name="左乐"]有人控制住了核心能源，我们成功了……
 [name="左乐"]回头看看，这不也是一段新的神话吗？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -452,10 +452,10 @@
 [Background(image="47_g2_desertedcityfield_n",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [charslot(slot = "l",name = "avg_4121_zuole_1#1$1",focus="l")]
-[name="左乐"]没事了，我们回去......
+[name="左乐"]没事了，我们回去……
 [charslot(slot = "r", name = "avg_4119_wanqin_1#7$1",focus="r")]
-[name="禾生"]等等！我该不是花了眼......
-[name="禾生"]那是......甲辰号地块......“万顷”的试验田！
+[name="禾生"]等等！我该不是花了眼……
+[name="禾生"]那是……甲辰号地块……“万顷”的试验田！
 [charslot(slot = "m", focus = "n")]
 不远处，荒芜的田地里，兀然立着一株稻子。
 [charslot(slot = "r", name = "avg_4119_wanqin_1#1$1",focus="r")]
@@ -478,15 +478,15 @@
 [name="左乐"]这是什么？
 [charslot(slot = "r", name = "avg_4119_wanqin_1#12$1",focus="r")]
 [name="禾生"]成功了，成功了！
-[name="禾生"]万顷良田......有希望，有希望！
+[name="禾生"]万顷良田……有希望，有希望！
 [charslot(slot = "m", focus = "n")]
 少年欣喜地抱着一株稻子，笑得有点疯癫。
 [charslot(slot = "l",name = "avg_4121_zuole_1#10$1",focus="l")]
-[name="左乐"]你到底......
+[name="左乐"]你到底……
 [charslot(slot = "l",name = "avg_4121_zuole_1#8$1",focus="l")]
-[name="左乐"]“说了你也听不懂”，是吧......
+[name="左乐"]“说了你也听不懂”，是吧……
 [charslot(slot = "l",name = "avg_4121_zuole_1#9$1",focus="l")]
-[name="左乐"]就当你是真的找到希望了吧......
+[name="左乐"]就当你是真的找到希望了吧……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [charslot(slot = "l",name = "avg_4121_zuole_1#3$1",focus="l")]
@@ -511,8 +511,8 @@
 [Background(image="47_g2_desertedcityfield_n",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
-[name="左乐"]他到底想要做什么......
-[name="左乐"]“巨兽心脏”......？
+[name="左乐"]他到底想要做什么……
+[name="左乐"]“巨兽心脏”……？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -525,18 +525,18 @@
 [playMusic(key="$wasteland_loop", volume=0.6)]
 [name="绩"]又见面了。
 [name="绩"]左公子既然找到了这里，看来是琢磨明白了我的打算？
-[name="左乐"]......你在做什么？
+[name="左乐"]……你在做什么？
 [name="绩"]如你所见，织布。
 [name="左乐"]织布做什么？
 [name="绩"]布料织好了，当然是要拿来卖的。
 [name="左乐"]卖给谁？
 [name="绩"]不能泄露客人信息，行业规矩。
-[name="左乐"]布上的东西......是什么？
-[name="绩"]山河百景......或者用你们的话说，炎国的“国祚”？
+[name="左乐"]布上的东西……是什么？
+[name="绩"]山河百景……或者用你们的话说，炎国的“国祚”？
 [name="绩"]我用了许多年，走遍了炎国每一座城市，大荒城，是最后一座。直到今天，这匹布，才算织完了。
 [name="绩"]越美的图案，当然要用越好的染料为丝线染色。要织就这一幅山河百景图，哪有比大炎国祚更好的染料呢？
 数不清的绸缎仿佛是从天上坠下，每一匹绸缎，都是一座城市，一段历史，一方人间烟火。
-国祚？不......应该是人心才对。
+国祚？不……应该是人心才对。
 你看这些锦缎上的华彩，都是我见过的人心的颜色。
 我怎会不喜欢这人间。
 [Dialog]

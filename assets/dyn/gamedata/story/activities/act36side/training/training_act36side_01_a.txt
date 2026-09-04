@@ -9,7 +9,7 @@
 [move(enemyId="enemy_1001_bigbo", row="4", col="4")]
 [delay(time="0.5")]
 [playAnim(enemyId="enemy_1001_bigbo", anim="Idle", dir="LEFT")]
-[name="大鲍勃", avatarId="npc_010", isAvatarRight="TRUE"]慢着慢着！走那么急干什么......
+[name="大鲍勃", avatarId="npc_010", isAvatarRight="TRUE"]慢着慢着！走那么急干什么……
 [playAnim(charId="char_4142_laios", anim="Idle", dir="RIGHT")]
 [delay(time="1")]
 [name="莱欧斯", avatarId="char_4142_laios", isAvatarRight="FALSE"]是大鲍勃！还有什么事吗？

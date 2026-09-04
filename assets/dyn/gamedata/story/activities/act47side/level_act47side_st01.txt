@@ -25,11 +25,11 @@
 [charslot(slot = "r", name = "avg_4151_tinman_1#1$1", posfrom="50,0",posto="50,0",duration=1.5, isblock=false)]
 [charslot(slot = "l", name = "avg_npc_1071_1#1$1", posfrom="-50,0",posto="-50,0",duration=1.5, isblock=true)]
 [charslot(slot="l", name = "avg_npc_1071_1#1$1",focus="l")]
-[name="菈玛莲"]穿过这片芦苇滩，离栖脚树还有些路途......还是让我来吧？河谷的船由咒言雕琢，也能由咒言驱动，不费什么力气。
+[name="菈玛莲"]穿过这片芦苇滩，离栖脚树还有些路途……还是让我来吧？河谷的船由咒言雕琢，也能由咒言驱动，不费什么力气。
 [charslot(slot = "r", name = "avg_4151_tinman_1#9$1", focus="r")]
 [name="锡人"]没事，这三个家伙还在兴头上，就让他们卖卖力气吧。
 [charslot(slot="l", name = "avg_npc_1071_1#1$1",focus="l")]
-[name="菈玛莲"]他们比我想象中......有活力得多。
+[name="菈玛莲"]他们比我想象中……有活力得多。
 [PlaySound(key="$d_avg_rowboat_lake_loop",loop=true,channel="water",volume=0)]
 [SoundVolume(volume=0.6, channel="water",fadetime=2)]
 [charslot(slot = "r", name = "avg_4151_tinman_1#9$1", focus="r")]
@@ -37,9 +37,9 @@
 [charslot(slot = "r", name = "avg_4151_tinman_1#2$1", focus="r")]
 [name="锡人"]毕竟在熔炉里不分你我地烧了几百年，难得有了具看得见摸得着的身体，有了个分得清辨得明的身份，换谁都得好好闹腾一番。
 [charslot(slot="l", name = "avg_npc_1071_1#8$1",focus="l")]
-[name="菈玛莲"]......
+[name="菈玛莲"]……
 [charslot(slot = "r", name = "avg_4151_tinman_1#3$1", focus="r")]
-[name="锡人"]......真宁静啊，河谷。
+[name="锡人"]……真宁静啊，河谷。
 [stopsound(channel="water",fadetime=0.5)]
 [charslot(slot="l", name = "avg_npc_1071_1#8$1",focus="l")]
 [name="菈玛莲"]嗯？
@@ -48,7 +48,7 @@
 [charslot(slot = "r", name = "avg_4151_tinman_1#8$1", focus="r")]
 [name="锡人"]变化和喧嚣是哥伦比亚的常态。永远在拓荒、永远在前进的国度，不会停下来等任何人，哪怕一秒。
 [charslot(slot = "r", name = "avg_4151_tinman_1#8$1", focus="r")]
-[name="锡人"]但这里......我上次来这里是什么时候？
+[name="锡人"]但这里……我上次来这里是什么时候？
 [PlaySound(key="$d_avg_rowboat_lake_loop",loop=true,channel="water",volume=0)]
 [SoundVolume(volume=0.6, channel="water",fadetime=2)]
 [charslot(slot="l", name = "avg_npc_1071_1#1$1",focus="l")]
@@ -56,12 +56,12 @@
 [charslot(slot = "r", name = "avg_4151_tinman_1#8$1", focus="r")]
 [name="锡人"]是啊。在被源石犁过不知多少遍的山岭之间，找到这样一方天地，可不容易。
 [charslot(slot = "r", name = "avg_4151_tinman_1#9$1", focus="r")]
-[name="锡人"]雾湖的水镜、芦苇滩的沉木、为大地铺金毯的林地......还有女妖们摇动船桨、吹起叶哨的声音，轻柔得像是河谷在呼吸。
+[name="锡人"]雾湖的水镜、芦苇滩的沉木、为大地铺金毯的林地……还有女妖们摇动船桨、吹起叶哨的声音，轻柔得像是河谷在呼吸。
 [stopsound(channel="water",fadetime=0.5)]
 [charslot(slot = "r", name = "avg_4151_tinman_1#9$1", focus="r")]
 [name="锡人"]这么多年过去，河谷里的一切好像都没有变。
 [charslot(slot = "r", name = "avg_4151_tinman_1#8$1", focus="r")]
-[name="锡人"]除了......当初摆渡我入谷的那个人。
+[name="锡人"]除了……当初摆渡我入谷的那个人。
 [charslot(slot="l", name = "avg_npc_1071_1#3$1",focus="l")]
 [name="菈玛莲"]拂哀菈。
 [charslot(slot = "r", name = "avg_4151_tinman_1#8$1", focus="r")]
@@ -71,11 +71,11 @@
 [PlaySound(key="$d_avg_rowboat_lake_loop",loop=true,channel="water",volume=0)]
 [SoundVolume(volume=0.6, channel="water",fadetime=2)]
 [charslot(slot="l", name = "avg_npc_1071_1#5$1",focus="l")]
-[name="菈玛莲"]当时我还听到她把你编进童话故事，告诉孩子们河谷里的雾都是从你的烟斗里飘出来的......
+[name="菈玛莲"]当时我还听到她把你编进童话故事，告诉孩子们河谷里的雾都是从你的烟斗里飘出来的……
 [charslot(slot="l", name = "avg_npc_1071_1#3$1",focus="l")]
 [name="菈玛莲"]可就在一天后，当孩子们缠着她追问你是怎样说服那副空盔甲，逃脱被扔进熔炉的宿命时，她却对你的名字感到困惑。
 [charslot(slot = "r", name = "avg_4151_tinman_1#6$1", focus="r")]
-[name="锡人"]......她开始遗忘了。
+[name="锡人"]……她开始遗忘了。
 [charslot(slot="l", name = "avg_npc_1071_1#3$1",focus="l")]
 [name="菈玛莲"]是啊，遗忘——死亡对女妖的提醒。
 [Dialog]
@@ -93,19 +93,19 @@
 [PlaySound(key="$d_avg_magneticwaterfall_loop",volume=0, channel="f", loop=true)]
 [SoundVolume(volume=0.2, channel="f",fadetime=2)]
 [name="菈玛莲"]那之后，她就搬进了栖脚树下的木屋，像她这些年送走的每一位女妖那样，平静地等待死亡到访。
-[name="锡人"]为一位已经遗忘了我的老友送别......没想到这次回来会遇到这么严峻的考验。
+[name="锡人"]为一位已经遗忘了我的老友送别……没想到这次回来会遇到这么严峻的考验。
 [PlaySound(key="$d_avg_brdchrp", volume=0.6)]
 [name="菈玛莲"]总之，用你的方式，给她些安慰吧。
 [name="菈玛莲"]拂哀菈为我们、为河谷，也为萨卡兹付出了太多。
-[name="菈玛莲"]你也知道，她那样的人，总是执拗而不自知地活在痛苦里。我只是......
-[name="菈玛莲"]我只是希望，当三百多年的记忆一点一点弃她而去时......她还能得到一丝慰藉。
+[name="菈玛莲"]你也知道，她那样的人，总是执拗而不自知地活在痛苦里。我只是……
+[name="菈玛莲"]我只是希望，当三百多年的记忆一点一点弃她而去时……她还能得到一丝慰藉。
 [name="锡人"]我明白。
 [dialog]
 [StopSound(channel="water", fadetime=1)]
 [CameraShake(duration=1, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_arriveshore", volume=0.6)]
 [delay(time=1)]
-[name="菈玛莲"]......我们到了。
+[name="菈玛莲"]……我们到了。
 [stopsound(channel="water",fadetime=2)]
 [stopsound(channel="f",fadetime=2)]
 [Dialog]
@@ -125,21 +125,21 @@
 [PlaySound(key="$d_avg_open_door", volume=0.6)]
 [delay(time=1.5)]
 [charslot(slot = "r", name = "avg_4151_tinman_1#10$1", posfrom="50,0",posto="50,0",duration=1.5, isblock=true)]
-[name="锡人"]......？
+[name="锡人"]……？
 [name="锡人"]菈玛莲。
 [charslot(slot="r",focus="n")]
 [name="菈玛莲"]你们的告别，需要我在场吗？
 [charslot(slot="r", name = "avg_4151_tinman_1#8$1",focus="r")]
-[name="锡人"]......木屋空着。
+[name="锡人"]……木屋空着。
 [dialog]
 [PlaySound(key="$d_avg_hidehaystack", volume=1)]
 [charslot(slot = "l", name = "avg_npc_1071_1#3$1", posfrom="-50,0",posto="-50,0",duration=1.5, isblock=true)]
 [charslot(slot="l",focus="l", posfrom="-50,0",posto="-30,0",duration=0.8, isblock=true)]
 [delay(time=0.5)]
-[name="菈玛莲"]怎、怎么可能......？
+[name="菈玛莲"]怎、怎么可能……？
 [charslot(slot = "r", name = "avg_4151_tinman_1#10$1",focus="r")]
-[name="锡人"]拂哀菈......离开了？
-[name="锡人"]一个已经开始遗忘的女妖......还能去哪儿？
+[name="锡人"]拂哀菈……离开了？
+[name="锡人"]一个已经开始遗忘的女妖……还能去哪儿？
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -150,7 +150,7 @@
 [Delay(time=2)]
 [PlaySound(key="$d_avg_cablecar_loop", volume=0, loop=true, channel="ele")]
 [SoundVolume(volume=0.4, channel="ele",fadetime=2)]
-[name="参展宾客A"]咦，电梯里怎么这么黑，我还以为会有观光窗呢......
+[name="参展宾客A"]咦，电梯里怎么这么黑，我还以为会有观光窗呢……
 [name="参展宾客B"]你到底有没有熟读园区宣传手册？这当然是为了营造悬念，给所有“天空生活展会”的参观者提供最佳的高空体验啊！
 [name="参展宾客B"]预展门票可是很抢手的，接下来要看到的东西可跟这两年你在大街小巷经常见到的那些廉价无人机不一样，我跟你说哦——
 [name="参展宾客A"]行啦行啦，别向我卖弄你从手册上看来的资讯了。
@@ -158,7 +158,7 @@
 [name="参展宾客A"]还有，你注意到了吗？过了这么久，我们竟然还没到浮空层，这说明——
 [name="参展宾客B"]哈哈，这说明这座园区真的有他们宣传的那么高，我们最新的浮空技术确实足以支撑整个建筑悬浮！亲爱的，我们来对地方了！
 [playMusic(intro="$m_avg_nasty_intro",key="$m_avg_nasty_loop", volume=0.6)]
-[name="参展宾客B"]哪儿来的音乐啊，这是......电梯广告？
+[name="参展宾客B"]哪儿来的音乐啊，这是……电梯广告？
 [stopsound(channel="ele",fadetime=1)]
 [dialog]
 [Image(image="68_i01_1", screenadapt="coverall",fadetime=0)]
@@ -171,7 +171,7 @@
 [cgitem(image="cgitem_68_i01_2", style="cg",sfrom =0.8 ,sto = 1, sduration = 0.5, pfrom = "0,-300",pto = "0,10",pduration = 0.5, layer = 2, block=true)]
 [cgitem(image="cgitem_68_i01_2", style="cg",pfrom = "0,10",pto = "0,-10",pduration = 0.2, layer = 2,block=true)]
 [name="奥克里"]各位来宾好，我是你们的园区讲解员奥克里！
-[name="奥克里"]我理解，被关在这么个小黑匣子里实在是无聊又吊人胃口......不过为了登上六百米的高空欣赏全泰拉独一无二的景致，一切都是值得的！
+[name="奥克里"]我理解，被关在这么个小黑匣子里实在是无聊又吊人胃口……不过为了登上六百米的高空欣赏全泰拉独一无二的景致，一切都是值得的！
 [dialog]
 [cgitem(image="cgitem_68_i01_2", style="cg",pfrom = "0,-10",pto = "0,-600",pduration = 0.5,aFrom=1,aTo=0,aduration=0.5,layer = 2,block=true)]
 [hidecgitem(image="cgitem_68_i01_2",block=true)]
@@ -300,7 +300,7 @@
 [charslot(slot = "r", name = "avg_npc_222",posfrom="50,0",posto="50,0",duration=1.5,isblock=true)]
 [delay(time=0.5)]
 [charslot(slot="r",name = "avg_npc_222",focus="r")]
-[name="投资人"]云中餐厅......这就是整座实验园区的最高点？天空离我们如此之近，真是令人心潮澎湃！
+[name="投资人"]云中餐厅……这就是整座实验园区的最高点？天空离我们如此之近，真是令人心潮澎湃！
 [charslot(slot="l",name = "avg_npc_2034_1#3$1",focus="l")]
 [name="？？？"]您喜欢哪种饮品？从走出高空电梯的那一刻起，您的嘴就没有合上过，想必您现在已经口渴难耐了。
 [charslot(slot="r",name = "avg_npc_222",focus="r")]
@@ -328,11 +328,11 @@
 [charslot(slot="l",name = "avg_npc_2034_1#2$1",focus="l")]
 [name="高登"]届时哥伦比亚全域都会进行开幕仪式转播。这里的每家公司都在展品研发上铆足了劲——现在就是投资的最好时机。
 [charslot(slot="r",name = "avg_npc_222",focus="r")]
-[name="投资人"]我还是有些顾虑......
+[name="投资人"]我还是有些顾虑……
 [charslot(slot="l",name = "avg_npc_2034_1#2$1",focus="l")]
 [name="高登"]担心风险无可厚非，但人们都说，在这天上的园区，连羽兽都会自己飞进锅里。
 [charslot(slot="l",name = "avg_npc_2034_1#3$1",focus="l")]
-[name="高登"]庆祝的香槟已经倒好了，别让等待糟蹋它的口感。相信我，它正好能解您的渴......对一切的渴。
+[name="高登"]庆祝的香槟已经倒好了，别让等待糟蹋它的口感。相信我，它正好能解您的渴……对一切的渴。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -342,18 +342,18 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="参展宾客B"]天......我、我真的站在云里，羽兽在我的脚下飞？太壮观了，我有点......
+[name="参展宾客B"]天……我、我真的站在云里，羽兽在我的脚下飞？太壮观了，我有点……
 [dialog]
 [charslot(slot = "m", name = "avg_4214_cairn_1#3$1", posfrom="70,0", posto="70,0",isblock=true)]
 [name="奥克里"]头晕、口渴、心跳加快？看来你需要“天空氧气瓶”。
 [charslot(slot="m",focus="n")]
-[name="参展宾客B"]对，氧气瓶......
+[name="参展宾客B"]对，氧气瓶……
 [dialog]
 [charslot(slot = "m",focus="m",name = "avg_4214_cairn_1#3$1", posfrom="70,0", posto="70,0",isblock=true)]
 [PlaySound(key="$d_avg_openbeer", volume=1)]
 [delay(time=1.5)]
 [charslot(slot="m",focus="n")]
-[name="参展宾客B"]咦，这是......饮料？
+[name="参展宾客B"]咦，这是……饮料？
 [charslot(slot = "m", name = "avg_4214_cairn_1#2$1", posfrom="70,0", posto="70,0",isblock=true)]
 [name="奥克里"]比烈酒更烈，比软饮更软；天空生活的最佳伴侣，消暑解渴的不二之选——这就是园区特供的“天空氧气瓶”！
 [charslot(slot = "m", name = "avg_4214_cairn_1#3$1", posfrom="70,0", posto="70,0",isblock=true)]
@@ -435,9 +435,9 @@
 [charslot(slot="l",name = "avg_npc_2034_1#1$1",focus="l")]
 [name="高登"]感谢您的信任，请签字吧。
 [charslot(slot="r",focus="r")]
-[name="投资人"]嗯......那位老先生已经站在那儿听了很久了，他是您的熟人吗？
+[name="投资人"]嗯……那位老先生已经站在那儿听了很久了，他是您的熟人吗？
 [charslot(slot="l",name = "avg_npc_2034_1#6$1",focus="l")]
-[name="高登"]......
+[name="高登"]……
 [dialog]
 [charslot]
 [PlayMusic(key="$m_avg_creepy_loop", volume=0.6)]
@@ -450,7 +450,7 @@
 [charslot]
 [charslot(slot="l",name = "avg_npc_2034_1#3$1",posfrom="40,0",posto="40,0",focus="l")]
 [charslot(slot="r",name = "avg_npc_222",focus="l",posfrom="50,0",posto="50,0",isblock=true)]
-[name="高登"]是我的疏忽，古斯塔夫先生曾经是我在烟酒施术单元以及源石制品管理局的上司......您什么时候来的？
+[name="高登"]是我的疏忽，古斯塔夫先生曾经是我在烟酒施术单元以及源石制品管理局的上司……您什么时候来的？
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2042_1#1$1",posfrom="50,0",posto="50,0",isblock=true)]
 [name="古斯塔夫"]“在这天上的园区，连羽兽都会自己飞进锅里”。
@@ -464,11 +464,11 @@
 [charslot(slot = "m", name = "avg_npc_2042_1#1$1",isblock=true)]
 [name="古斯塔夫"]传说哥伦比亚荒原上的羽兽生性机敏，很难猎到。大拓荒时代的先驱们想出办法，在营地支起几十口锅，锅边绑上华丽的羽毛。
 [charslot(slot = "m", name = "avg_npc_2042_1#1$1",isblock=true)]
-[name="古斯塔夫"]飞行的羽兽误以为那是同伴的求偶场，它放下警觉，张开翅膀，俯冲下去......然后一头撞进锅里，到死都以为是同伴们在等它。
+[name="古斯塔夫"]飞行的羽兽误以为那是同伴的求偶场，它放下警觉，张开翅膀，俯冲下去……然后一头撞进锅里，到死都以为是同伴们在等它。
 [charslot]
 [charslot(slot="l",name = "avg_npc_2034_1#3$1",posfrom="40,0",posto="40,0",focus="r")]
 [charslot(slot="r",name = "avg_npc_222",focus="r",posfrom="50,0",posto="50,0",isblock=true)]
-[name="投资人"]......
+[name="投资人"]……
 [name="投资人"]等等，您的意思是——
 [charslot(slot="l",name = "avg_npc_2034_1#8$1",focus="l")]
 [name="高登"]古斯塔夫先生，您又在用那个传说编故事了。上次您还说那些羽兽总能辨别陷阱和同伴，从不会自投罗网。
@@ -476,7 +476,7 @@
 [name="高登"]我知道您是担心我谈生意紧张，特地来为我撑腰，但我不是七年前的毛头小子了，我有分寸的。
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2042_1#1$1",posfrom="50,0",posto="50,0",isblock=true)]
-[name="古斯塔夫"]......
+[name="古斯塔夫"]……
 [charslot]
 [charslot(slot="l",name = "avg_npc_2034_1#2$1",posfrom="40,0",posto="40,0",focus="l")]
 [charslot(slot="r",name = "avg_npc_222",focus="l",posfrom="50,0",posto="50,0",isblock=true)]
@@ -517,7 +517,7 @@
 [charslot(slot = "r",focus="r",name = "avg_npc_2042_1#1$1",isblock=true)]
 [name="古斯塔夫"]看看你的终端吧，你不再只是一名行政负责人了，现在你对“螺旋桨天堂”拥有完全的管辖权。
 [charslot(slot="l",name = "avg_npc_2034_1#6$1",focus="l")]
-[name="高登"]......您竟然会推荐我成为整座园区的总长官？
+[name="高登"]……您竟然会推荐我成为整座园区的总长官？
 [charslot(slot = "r",focus="r",name = "avg_npc_2042_1#1$1",isblock=true)]
 [name="古斯塔夫"]“螺旋桨天堂”的管理方式再特殊，你也是管理局的人，别丢我们的脸。
 [charslot(slot="l",name = "avg_npc_2034_1#2$1",focus="l")]
@@ -537,11 +537,11 @@
 [charslot(slot = "r",focus="r",name = "avg_npc_2042_1#8$1",isblock=true)]
 [name="古斯塔夫"]莱茵生命向特区政府提交最初的园区项目规划书的时候，你还在检查入境者的屁股和尾巴。
 [charslot(slot="l",name = "avg_npc_2034_1#4$1",focus="l")]
-[name="高登"]在“螺旋桨天堂”，只有一项权力不在我的手里，它仍属于园区的最初发起者......
+[name="高登"]在“螺旋桨天堂”，只有一项权力不在我的手里，它仍属于园区的最初发起者……
 [charslot(slot = "r",focus="r",name = "avg_npc_2042_1#3$1",isblock=true)]
 [name="古斯塔夫"]在风险找上你之前，支配它。只有七天时间，你要怎么做呢？
 [charslot(slot="l",name = "avg_npc_2034_1#1$1",focus="l")]
-[name="高登"]......
+[name="高登"]……
 [dialog]
 [stopmusic(fadetime=2)]
 [Dialog]
@@ -579,13 +579,13 @@
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#1$1")]
 [name="娜斯提"]再问一句，你刚刚递给我的浮空种植单元组里栽的是什么树？
 [charslot(slot = "l",focus="l",name = "avg_npc_2039_1#7$1")]
-[name="斯凯"]主任，面试的时候你看过我的简历，我可不是植物学家......
+[name="斯凯"]主任，面试的时候你看过我的简历，我可不是植物学家……
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#1$1")]
 [name="娜斯提"]我知道。
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#11$1")]
 [name="娜斯提"]低头看一眼手里的植株名单，也不会给你增加一个学位。
 [charslot(slot = "l",focus="l",name = "avg_npc_2039_1#3$1")]
-[name="斯凯"]......
+[name="斯凯"]……
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#5$1")]
 [name="娜斯提"]你心不在焉。
 [charslot(slot = "l",focus="l",name = "avg_npc_2039_1#8$1")]
@@ -609,7 +609,7 @@
 [name="斯凯"]这半年来我都快忘了自己擅长什么了。
 [name="斯凯"]进驻园区之后，你带着我们十几名研究员泡在生态园里，培育幼苗、调试浮空种植单元、为园区点缀几棵树，从未开展过一项大型实验。
 [name="娜斯提"]你觉得我们只是“螺旋桨天堂”的园丁？
-[name="斯凯"]不，我知道生态园是我们的参展项目，就算它只能在地面上，那也是环形实验室的遗产......
+[name="斯凯"]不，我知道生态园是我们的参展项目，就算它只能在地面上，那也是环形实验室的遗产……
 [name="斯凯"]但我们都有多久没抬头朝天上看看了？
 [dialog]
 [Image(image="68_i02", screenadapt="coverall", xScale=1.2, yScale=1.2,fadetime=3)]
@@ -619,13 +619,13 @@
 娜斯提·鲁诺瑞伊抬起头。两年前在特里蒙郊外的地下，她在能量井的底端，时常这样仰望夜空。
 它是圆形的，很薄，用一只手就能盖住，令人着迷又恐惧。
 而现在，天空已经变成了一副陌生的模样。
-塔山生物科技的太阳能汽艇、沙滩伞制药的碟形实验室、沃尔沃特科钦斯基的高精度天文观测镜，还有约翰老妈的全天候浮空广告牌......
+塔山生物科技的太阳能汽艇、沙滩伞制药的碟形实验室、沃尔沃特科钦斯基的高精度天文观测镜，还有约翰老妈的全天候浮空广告牌……
 它们让天空变得拥挤、热烈、十足地“哥伦比亚”。
 [name="娜斯提"]莱茵作为园区最初的发起方，只需要在意一件事——如何从工程结构学的角度，让建筑悬浮更久。
-[name="娜斯提"]浮空结构之间的连廊、实验区的供水与供氧系统，包括我手里的种植单元......它们都是园区基础架构的重要组成部分，也是莱茵的成果。
+[name="娜斯提"]浮空结构之间的连廊、实验区的供水与供氧系统，包括我手里的种植单元……它们都是园区基础架构的重要组成部分，也是莱茵的成果。
 [name="娜斯提"]距展会开幕只剩七天，要尽快完成对所有展品的测试和检修。我们现在还是“螺旋桨天堂”的工程部，别忘了自己的职责。
-[name="斯凯"]只需要做这些？你对天空的梦想，克丽斯腾对天空的梦想......就这样收场？
-[name="娜斯提"]......
+[name="斯凯"]只需要做这些？你对天空的梦想，克丽斯腾对天空的梦想……就这样收场？
+[name="娜斯提"]……
 阳光透过奇形怪状的飘浮物落在娜斯提的脸上，她没有再回话，只是往下压了压安全帽的帽檐。
 [dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

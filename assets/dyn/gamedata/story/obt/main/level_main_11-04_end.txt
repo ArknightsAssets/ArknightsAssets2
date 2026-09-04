@@ -91,7 +91,7 @@
 [name="阿米娅"]伤亡情况怎么样？
 [Character(name="avg_npc_012")]
 [name="罗德岛干员"]还好，大家撤得足够快。
-[name="罗德岛干员"]也不知道我们能不能牵制萨卡兹的行动，让阿勒黛小姐与推进之王小姐的行动更加安全......
+[name="罗德岛干员"]也不知道我们能不能牵制萨卡兹的行动，让阿勒黛小姐与推进之王小姐的行动更加安全……
 [Character(name="avg_npc_394_1#8$1")]
 [name="阿米娅"]感谢各位，尤其是自救军的朋友们。谢谢大家愿意一起冒险。
 [character(name="avg_npc_398_1#1$1")]
@@ -115,13 +115,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [Character(name="avg_4072_ironmn_1#8$1")]
-[name="费斯特"]不好意思，博士......
+[name="费斯特"]不好意思，博士……
 [Dialog]
 [Character(name="avg_4072_ironmn_1#8$1",focus=-1)]
 [Decision(options="我还以为我只是陪你回家。;我们是不是很不受欢迎？", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_4072_ironmn_1#9$1")]
-[name="费斯特"]......去年我从厂里逃出去的时候，和奶奶吵了一架。
+[name="费斯特"]……去年我从厂里逃出去的时候，和奶奶吵了一架。
 [dialog]
 [character]
 [delay(time=1)]
@@ -143,7 +143,7 @@
 [Decision(options="感觉不像吵了一架那么简单。;你确定我们不是被当成敌人了？", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_4072_ironmn_1#8$1")]
-[name="费斯特"]看来奶奶还是很生气......
+[name="费斯特"]看来奶奶还是很生气……
 [Character(name="avg_npc_648_1#1$1")]
 [name="凯瑟琳"]我没有必要对一个死人生气。毕竟直到刚刚，我都不知道自己唯一的孙子还活着。
 [Character(name="avg_4072_ironmn_1#1$1")]
@@ -152,19 +152,19 @@
 [Character(name="avg_npc_648_1#6$1")]
 [name="凯瑟琳"]这么说，你加入了那个什么荒唐团伙。
 [Character(name="avg_4072_ironmn_1#11$1")]
-[name="费斯特"]......伦蒂尼姆市民自救军。
+[name="费斯特"]……伦蒂尼姆市民自救军。
 [Character(name="avg_4072_ironmn_1#1$1")]
-[name="费斯特"]奶奶，我们在萨迪恩区做了很多事，萨卡兹控制了报社和电视台，他们故意把我们称作不知名的暴力团伙......
+[name="费斯特"]奶奶，我们在萨迪恩区做了很多事，萨卡兹控制了报社和电视台，他们故意把我们称作不知名的暴力团伙……
 [Character(name="avg_npc_648_1#6$1")]
 [name="凯瑟琳"]这么说，确实是你们炸了城墙。
 [Character(name="avg_4072_ironmn_1#8$1")]
-[name="费斯特"]呃......是博......
+[name="费斯特"]呃……是博……
 [Dialog]
 [Character(name="avg_4072_ironmn_1#8$1",focus=-1)]
 [Decision(options="是萨卡兹对自救军的追捕导致了伦蒂尼姆城墙的损失。;您的孙子在那一战中表现得十分英勇。", values="1;2")]
 [Predicate(references="1")]
 [Character(name="avg_4072_ironmn_1#8$1")]
-[name="费斯特"]......对，主要是萨卡兹干的。
+[name="费斯特"]……对，主要是萨卡兹干的。
 [Predicate(references="2")]
 [Character(name="avg_4072_ironmn_1#4$1")]
 [name="费斯特"]谢谢你，博士。
@@ -173,15 +173,15 @@
 [Character(name="avg_npc_648_1#1$1")]
 [name="凯瑟琳"]那你这趟回来，是想把我们的军工厂也炸了吗？
 [Character(name="avg_4072_ironmn_1#8$1")]
-[name="费斯特"]......怎么可能？！
+[name="费斯特"]……怎么可能？！
 [Character(name="avg_npc_648_1#8$1")]
 [name="凯瑟琳"]你是怎么对你的自救军朋友说的？我们这些厂正在为萨卡兹生产武器，而这些武器最终都会指向维多利亚人？
 [Character(name="avg_4072_ironmn_1#8$1")]
-[name="费斯特"]......不，奶奶，我告诉他们的是——
+[name="费斯特"]……不，奶奶，我告诉他们的是——
 [Character(name="avg_4072_ironmn_1#4$1")]
 [name="费斯特"]我的奶奶为了保护其他人的生活，而选择站了出来。
 [Character(name="avg_npc_648_1#5$1")]
-[name="凯瑟琳"]......
+[name="凯瑟琳"]……
 [Character(name="avg_4072_ironmn_1#4$1")]
 [name="费斯特"]奶奶，我知道我在你眼里只是一个爱耍小聪明的小鬼。
 [name="费斯特"]但我不是为了把厂里的大伙卷进来而回来的，我也不是为了说服你而回来的。
@@ -201,7 +201,7 @@
 [Character(name="avg_npc_648_1#1$1", name2="avg_4072_ironmn_1#7$1",fadetime=0.7)]
 [delay(time=2)]
 [Character(name="avg_npc_648_1#1$1", name2="avg_4072_ironmn_1#7$1",focus=2)]
-[name="费斯特"]奶奶......
+[name="费斯特"]奶奶……
 [Character(name="avg_npc_648_1#10$1", name2="avg_4072_ironmn_1#7$1",focus=1)]
 [name="凯瑟琳"]臭小子，长高了啊。
 [Character(name="avg_npc_648_1#10$1", name2="avg_4072_ironmn_1#4$1",focus=2)]
@@ -246,11 +246,11 @@
 [dialog]
 [delay(time=1)]
 [playMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
-[name="伦蒂尼姆商人"]等等，我请的保镖......保镖呢？
+[name="伦蒂尼姆商人"]等等，我请的保镖……保镖呢？
 [Character(name="avg_npc_407_1#3$1")]
 [name="推进之王"]我请他们在路口休息一会，等我们聊完天，你就能去找他们。
 [Character(name="avg_npc_177")]
-[name="伦蒂尼姆商人"]你把他们都......你只有一个人！
+[name="伦蒂尼姆商人"]你把他们都……你只有一个人！
 [Character(name="avg_npc_407_1#8$1")]
 [name="推进之王"]一个人？抱歉，从来不止。
 [Character(name="avg_npc_407_1#3$1")]
@@ -264,7 +264,7 @@
 [Character(name="avg_npc_396_1#8$1")]
 [Delay(time=1.5)]
 [Character(name="avg_npc_177")]
-[name="伦蒂尼姆商人"]你们......这是伦蒂尼姆！我的朋友你们可惹不起——
+[name="伦蒂尼姆商人"]你们……这是伦蒂尼姆！我的朋友你们可惹不起——
 [Character(name="avg_155_tiger_1#1$1")]
 [PlaySound(key="$d_avg_unsheathe",volume=1)]
 [name="因陀罗"]那位朋友在哪呢？搞不好和我挺投缘？
@@ -283,7 +283,7 @@
 [Character(name="avg_npc_177")]
 [name="伦蒂尼姆商人"]知、知道了！
 [Character(name="avg_155_tiger_1#5$1")]
-[name="因陀罗"]......没搞错吧？
+[name="因陀罗"]……没搞错吧？
 [Character(name="avg_npc_405_1#9$1")]
 [name="摩根"]最来劲的居然是你。
 [Character(name="avg_npc_396_1#8$1")]
@@ -295,9 +295,9 @@
 [PlaySound(key="$d_avg_cloakmovement",volume=1)]
 [delay(time=1.5)]
 [Character(name="avg_npc_177")]
-[name="伦蒂尼姆商人"]呜呜......
+[name="伦蒂尼姆商人"]呜呜……
 [Character(name="avg_npc_407_1#3$1",name2="avg_npc_177",focus=1)]
-[name="推进之王"]珀蒂先生。请睁开眼，也不必费劲举着双手了。我们不会伤害你......至少现在不会。
+[name="推进之王"]珀蒂先生。请睁开眼，也不必费劲举着双手了。我们不会伤害你……至少现在不会。
 [Character(name="avg_npc_407_1#3$1",name2="avg_npc_177",focus=2)]
 [name="伦蒂尼姆商人"]你们到底要什么？
 [Character(name="avg_npc_407_1#1$1",name2="avg_npc_177",focus=1)]
@@ -314,17 +314,17 @@
 [PlaySound(key="$d_avg_scroll",volume=1)]
 [delay(time=1.5)]
 [Character(name="avg_npc_407_1#3$1",name2="avg_npc_177",focus=2)]
-[name="伦蒂尼姆商人"]地图？这些标注出来的地方都是我的临时仓库......你们怎么会知道？！
+[name="伦蒂尼姆商人"]地图？这些标注出来的地方都是我的临时仓库……你们怎么会知道？！
 [Character(name="avg_npc_407_1#3$1",name2="avg_npc_177",focus=1)]
 [name="推进之王"]以后出门的时候，你最好再多注意一下四周。
 [Character(name="avg_npc_407_1#3$1",name2="avg_npc_177",focus=2)]
 [name="伦蒂尼姆商人"]你们找人跟踪了我？
 [Character(name="avg_npc_407_1#3$1",name2="avg_npc_177",focus=1)]
-[name="推进之王"]你说得没错，萨卡兹可不会被收买，一旦他们知道你借用的那点“关系”让你偷偷地把这么多违禁物品运进伦蒂尼姆......
+[name="推进之王"]你说得没错，萨卡兹可不会被收买，一旦他们知道你借用的那点“关系”让你偷偷地把这么多违禁物品运进伦蒂尼姆……
 [Character(name="avg_npc_407_1#1$1",name2="avg_npc_177",focus=1)]
 [name="推进之王"]到时候，你猜你的那位朋友会不会救你？你猜他自己会是什么下场？
 [Character(name="avg_npc_407_1#1$1",name2="avg_npc_177",focus=2)]
-[name="伦蒂尼姆商人"]......
+[name="伦蒂尼姆商人"]……
 [Character(name="avg_npc_407_1#10$1",name2="avg_npc_177",focus=1)]
 [name="推进之王"]你在考虑主动找萨卡兹报信。
 [name="推进之王"]你真要这么做的话，我们或许谁都逃不了。可你要是继续与我们合作的话，萨卡兹什么都不会知道。
@@ -333,14 +333,14 @@
 [Character(name="avg_npc_407_1#1$1",name2="avg_npc_177",focus=1)]
 [name="推进之王"]我理解你的不易，也珍惜与你交易的机会。该给的酬劳，我们一分都不会少。
 [Character(name="avg_npc_407_1#1$1",name2="avg_npc_177",focus=2)]
-[name="伦蒂尼姆商人"]......等等。
+[name="伦蒂尼姆商人"]……等等。
 [name="伦蒂尼姆商人"]女士，你和阿勒黛·坎伯兰是什么关系？你是她的扈从吗？不，坎伯兰家早就空了，哪里还请得起扈从？
 [Character(name="avg_155_tiger_1#7$1")]
 [name="因陀罗"]胡说八道，那个坎伯兰是维娜的扈从还差不多！
 [Character(name="avg_npc_407_1#1$1",name2="avg_npc_177",focus=2)]
-[name="伦蒂尼姆商人"]她可是大公爵的女儿！难道说......
+[name="伦蒂尼姆商人"]她可是大公爵的女儿！难道说……
 [Character(name="avg_npc_407_1#1$1",name2="avg_npc_177",focus=1)]
-[name="推进之王"]......你搞错了，我谁都不是。
+[name="推进之王"]……你搞错了，我谁都不是。
 [Character(name="avg_npc_407_1#3$1",name2="avg_npc_177",focus=1)]
 [name="推进之王"]非要说的话，我和坎伯兰小姐是同伴，我们身后还有千千万万同样渴望和平的伦蒂尼姆人。
 [name="推进之王"]珀蒂先生，但愿你也不例外。
@@ -368,9 +368,9 @@
 [bgeffect(name="$eb_spotlight",x=-10,layer=1)]
 [delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
-[name="骑士"]所有忠诚于这片土地的战士都在我的身后。与邪恶的决战就在眼前......
-[name="骑士"]你们......是居住在这里的孩子吗？
-[name="骑士"]别躲在街角的阴影里，或许你们还无法举起什么武器......
+[name="骑士"]所有忠诚于这片土地的战士都在我的身后。与邪恶的决战就在眼前……
+[name="骑士"]你们……是居住在这里的孩子吗？
+[name="骑士"]别躲在街角的阴影里，或许你们还无法举起什么武器……
 [name="骑士"]但从不是只有手握武器的人才是战士。你们必须得睁开眼睛，去看，去听，去判断。
 [name="骑士"]你们已经足以告诉我什么是对的，什么是错的，什么是你们想要的生活。
 [name="骑士"]现在，我将前进。而你们，则见证。
@@ -385,15 +385,15 @@
 [Character(name="avg_npc_647_1#8$1",name2="avg_npc_657_1#7$1",fadetime=0.7)]
 [delay(time=1)]
 [Character(name="avg_npc_647_1#8$1",name2="avg_npc_657_1#7$1",focus=2)]
-[name="茉莉"]太棒啦！戈尔丁女士，您看拉尔夫演得多好......这孩子可真是长大啦，四年前他还像个调皮捣蛋的小兽！
+[name="茉莉"]太棒啦！戈尔丁女士，您看拉尔夫演得多好……这孩子可真是长大啦，四年前他还像个调皮捣蛋的小兽！
 [Character(name="avg_npc_647_1#8$1",name2="avg_npc_657_1#7$1",focus=1)]
 [name="戈尔丁"]是啊，我也很高兴。茉莉，你需要手帕吗？
 [Character(name="avg_npc_647_1#8$1",name2="avg_npc_657_1#2$1",focus=2)]
-[name="茉莉"]手帕？对对，我可不能让眼泪弄脏衣裳，在孩子们面前太不体面了......真是忍不住啊，一想到拉尔夫他们很快就要离开学校，我就......
+[name="茉莉"]手帕？对对，我可不能让眼泪弄脏衣裳，在孩子们面前太不体面了……真是忍不住啊，一想到拉尔夫他们很快就要离开学校，我就……
 [Character(name="avg_npc_647_1#8$1",name2="avg_npc_657_1#2$1",focus=1)]
 [name="戈尔丁"]孩子们该休息一会了，我们也多了一点喘气的时间。
 [Character(name="avg_npc_647_1#8$1",name2="avg_npc_657_1#1$1",focus=2)]
-[name="茉莉"]对啊，还有最后一幕......最后一幕才是最精彩的。
+[name="茉莉"]对啊，还有最后一幕……最后一幕才是最精彩的。
 [Dialog]
 [Character]
 [delay(time=0.5)]
@@ -403,7 +403,7 @@
 [name="茉莉"]谁在鼓掌？
 [name="茉莉"]今天只是试演，您没邀请什么街坊朋友过来看吧？
 [Character(name="avg_npc_647_1#10$1",name2="avg_npc_657_1#8$1",focus=1)]
-[name="戈尔丁"]......
+[name="戈尔丁"]……
 [Dialog]
 [Character(fadetime=0.5)]
 [Delay(time=0.5)]
@@ -414,7 +414,7 @@
 [delay(time=1)]
 [name="？？？"]真是精彩的演出。
 [Character(name="avg_npc_647_1#4$1")]
-[name="戈尔丁"]......莱托中校。
+[name="戈尔丁"]……莱托中校。
 [name="戈尔丁"]没想到城防军指挥官大人会有空莅临我们这间小小的教室。
 [Character(name="avg_npc_649_1#9$1")]
 [name="莱托中校"]午安，女士们。

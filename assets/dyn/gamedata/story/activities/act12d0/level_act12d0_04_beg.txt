@@ -15,7 +15,7 @@
 [name="阿达克利斯人C"]  大酋长，大酋长！
 [name="阿达克利斯人D"]  森蚺，娶我！
 [Character(name="avg_npc_071")]
-[name="阿达克利斯勇士"]  ......森蚺，你果然来了。
+[name="阿达克利斯勇士"]  ……森蚺，你果然来了。
 [name="阿达克利斯勇士"]  我还以为你缩在自己的雨林里不敢来了。
 [Character(name="char_416_zumama_1")]
 [name="森蚺"]  雨林很好。
@@ -46,9 +46,9 @@
 [Character(name="char_187_ccheal_1#5")]
 [name="嘉维尔"]  哈，果然，这家伙也变强了啊，真想和现在的她打一架啊！
 [Character(name="char_187_ccheal_1#5", name2="char_411_tomimi_1", focus=2)]
-[name="特米米"]  果然，祖玛玛很强，但是......
+[name="特米米"]  果然，祖玛玛很强，但是……
 [Character(name="char_187_ccheal_1#3", name2="char_411_tomimi_1", focus=1)]
-[name="嘉维尔"]  嗯？那边的是......
+[name="嘉维尔"]  嗯？那边的是……
 [Character]
 [name="阿达克利斯人"]  森蚺，我们来挑战你。
 [Character(name="char_416_zumama_1")]
@@ -66,7 +66,7 @@
 [Character(name="char_416_zumama_1")]
 [name="森蚺"]  你们要一起上吗？
 [Character(name="avg_npc_071")]
-[name="乌代"]  嘿，我们之间达成了协......什么来着？
+[name="乌代"]  嘿，我们之间达成了协……什么来着？
 [Character(name="avg_npc_071", name2="avg_npc_070", focus=2)]
 [name="阿鲁纳"]  蠢货，那叫协议！
 [Character(name="avg_npc_071")]
@@ -82,7 +82,7 @@
 [Dialog]
 [character]
 [delay(time=1)]
-[Decision(options="祭典可以上许多人的？;......;难道不是一对一吗？",values="1;2;3")]
+[Decision(options="祭典可以上许多人的？;……;难道不是一对一吗？",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_411_tomimi_1")]
 [name="特米米"]  诶？嗯，是的。
@@ -96,7 +96,7 @@
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  虽然很多时候为了尊严，大家伙都是一对一的，但本身祭典唯一的规则就是无论用什么手段，谁能赢到最后谁就是大酋长。
 [name="嘉维尔"]  带小弟当然是最简单有效的办法了。
-[Decision(options="无论什么手段？;......;听起来我也可以当酋长。",values="1;2;3")]
+[Decision(options="无论什么手段？;……;听起来我也可以当酋长。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  博士，你该不会也想上吧，我建议你放弃。
@@ -119,7 +119,7 @@
 [Character(name="char_187_ccheal_1#3")]
 [name="嘉维尔"]  而且另一方面，说是说所有手段都可以用，但是博士你可以真的试一试用你的手段解决其他人。
 [name="嘉维尔"]  我保证最后是你会被群殴。
-[Decision(options="别把人说得那么坏。;......;民风淳朴啊。",values="1;2;3")]
+[Decision(options="别把人说得那么坏。;……;民风淳朴啊。",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1#3")]
 [name="嘉维尔"]  哈哈哈，我只是实话实说。
@@ -133,7 +133,7 @@
 [Predicate(references="1;2;3")]
 [Character(name="char_187_ccheal_1")]
 [name="嘉维尔"]  虽然我觉得博士你能做到让所有人都察觉不到是你做的，但是，博士，你知道决定性的差异在哪里吗？
-[Decision(options="肌肉？;......;外表？",values="1;2;3")]
+[Decision(options="肌肉？;……;外表？",values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="char_187_ccheal_1#2")]
 [name="嘉维尔"]  没错！你看起来就很弱啊。
@@ -171,7 +171,7 @@
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1", focus=1)]
 [name="嘉维尔"]  嚯嚯，变聪明了啊，特米米。
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=2)]
-[name="特米米"]  诶嘿嘿，我也是认真想要当上大酋长的！然后......
+[name="特米米"]  诶嘿嘿，我也是认真想要当上大酋长的！然后……
 [Character(name="char_187_ccheal_1", name2="char_411_tomimi_1#3", focus=1)]
 [name="嘉维尔"]  然后？
 [Character(name="char_187_ccheal_1")]

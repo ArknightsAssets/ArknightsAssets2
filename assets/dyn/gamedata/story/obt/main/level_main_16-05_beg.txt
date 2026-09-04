@@ -16,13 +16,13 @@
 [charslot(slot = "right", name = "avg_4179_monstr_1#1$1",duration=1)]
 [delay(time=2)]
 [charslot(slot = "right", name = "avg_4179_monstr_1#8$1",focus="r")]
-[name="Mon3tr"]她刚刚......是不是说了“内卫”？
+[name="Mon3tr"]她刚刚……是不是说了“内卫”？
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="我听到她说的是......; 杀死内卫。", values="1;2")]
+[Decision(options="我听到她说的是……; 杀死内卫。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "right", name = "avg_4179_monstr_1#5$1",focus="r")]
-[name="Mon3tr"]她的意思是......这种叫“奥卡”的物质，杀死了内卫？
+[name="Mon3tr"]她的意思是……这种叫“奥卡”的物质，杀死了内卫？
 [name="Mon3tr"]这可能吗？难道这是某种比“国度”更恐怖的邪魔产物？
 [dialog]
 [charslot(slot = "m", focus = "n")]
@@ -35,7 +35,7 @@
 [charslot(slot = "right", name = "avg_4179_monstr_1#6$1",focus="r")]
 [name="Mon3tr"]科谢尼娅，科谢尼娅！看着我，你还能想起些什么吗？
 [charslot(slot = "left", name = "avg_4208_wintim_1#1$2",focus="l")]
-[name="科谢尼娅"]我......你是......
+[name="科谢尼娅"]我……你是……
 [charslot(slot = "m", focus = "n")]
 Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双眼却忽地睁大了。
 紧接着，她反手死死抓住眼前人的衣服，把Mon3tr拽到身前。
@@ -44,29 +44,29 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [name="科谢尼娅"]你是——您是所长？凯尔希所长？
 [name="科谢尼娅"]是您来接我了吗？我想回去，我还想见到老师——
 [charslot(slot = "left", name = "avg_4208_wintim_1#7$2",focus="l")]
-[name="科谢尼娅"]我想见伊利亚老师......还有柳达......呜......
-[name="科谢尼娅"]但他们......他们还会想见我吗？我这样懦弱，什么也做不到......我还配见到他们吗？
-[name="科谢尼娅"]呜......呜呜——啊！！！
+[name="科谢尼娅"]我想见伊利亚老师……还有柳达……呜……
+[name="科谢尼娅"]但他们……他们还会想见我吗？我这样懦弱，什么也做不到……我还配见到他们吗？
+[name="科谢尼娅"]呜……呜呜——啊！！！
 [charslot(slot = "right", name = "avg_4179_monstr_1#9$1",focus="r")]
-[name="Mon3tr"]我......我——
+[name="Mon3tr"]我……我——
 [charslot(slot = "m", focus = "n")]
 然而没等Mon3tr作出回应，女人又兀自放手，跌坐回去。
 [charslot(slot = "left", name = "avg_4208_wintim_1#8$2",focus="l")]
-[name="科谢尼娅"]不，不对......
+[name="科谢尼娅"]不，不对……
 [name="科谢尼娅"]你不是凯尔希所长。我再也没见到过她，就像我再也没见到过其他人。她不该在这里。
-[name="科谢尼娅"]我甚至见过她后来的同伴，他们......他们......
+[name="科谢尼娅"]我甚至见过她后来的同伴，他们……他们……
 [charslot(slot = "right", name = "avg_4179_monstr_1#8$1",focus="r")]
 [name="Mon3tr"]你见过？你见过谁？是不是一位个子小小的、总是面带微笑的黎博利？
 [charslot(slot = "left", name = "avg_4208_wintim_1#1$2",focus="l")]
-[name="科谢尼娅"]黎博利......是啊，我见过她。
+[name="科谢尼娅"]黎博利……是啊，我见过她。
 [charslot(slot = "right", name = "avg_4179_monstr_1#8$1",focus="r")]
 [name="Mon3tr"]她去哪儿了？
 [charslot(slot = "left", name = "avg_4208_wintim_1#1$2",focus="l")]
-[name="科谢尼娅"]我不知道......
-[name="科谢尼娅"]那群杀死内卫的人......那些感染者，她之前和那些人在一起。
+[name="科谢尼娅"]我不知道……
+[name="科谢尼娅"]那群杀死内卫的人……那些感染者，她之前和那些人在一起。
 [name="科谢尼娅"]他们会死！所有人都会死！
 [charslot(slot = "left", name = "avg_4208_wintim_1#7$2",focus="l")]
-[name="科谢尼娅"]呜......我不知道——我不知道......
+[name="科谢尼娅"]呜……我不知道——我不知道……
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="她需要镇静剂。; 她有脱水症状。", values="1;2")]
@@ -83,7 +83,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [name="Mon3tr"]可是，内卫真的被杀了吗？被一群矿工？这有可能吗？
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="或许我们应该考虑......; 如果这是真的，那将意味着什么。", values="1;2")]
+[Decision(options="或许我们应该考虑……; 如果这是真的，那将意味着什么。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "right", name = "avg_4179_monstr_1#5$1",focus="r")]
 [name="Mon3tr"]那位女大公封锁矿区的真正目的，是为了隐藏有个内卫死在了她的辖区的事实？
@@ -93,7 +93,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [name="Mon3tr"]还有那位近卫军，她知道这件事吗？
 [dialog]
 [charslot(slot = "m", focus = "n")]
-[Decision(options="没错......; 这些正是我们需要担心的事。", values="1;2")]
+[Decision(options="没错……; 这些正是我们需要担心的事。", values="1;2")]
 [Predicate(references="1;2")]
 [Decision(options="先通知Mantra和阿米娅吧。", values="1")]
 [Predicate(references="1")]
@@ -116,7 +116,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [Background(image="bg_Morgue",screenadapt="coverall")]
 [playsound(key="$d_gen_transmissionget")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="阿米娅"]明白......博士。
+[name="阿米娅"]明白……博士。
 [name="阿米娅"]我们马上就到。
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1")]
 [name="阿洛伊泽"]怎么了？你的同伴那边有什么发现？
@@ -125,15 +125,15 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [name="阿米娅"]阿洛伊泽小姐，这里还有什么需要注意的线索吗？
 [charslot(slot = "m", name = "avg_npc_1966_1#10$1")]
 [name="阿洛伊泽"]我所知有限，得不出什么更有效的信息，有必要的话，一会让那位博士亲自来查看一下也无妨。
-[name="阿洛伊泽"]不过这倒是更加让我确信了军方毫无底线这件事......
+[name="阿洛伊泽"]不过这倒是更加让我确信了军方毫无底线这件事……
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$1")]
 [name="阿米娅"]阿洛伊泽小姐，我想问，对于发生在矿区的事，您还知道什么吗？
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1")]
 [name="阿洛伊泽"]嗯？你是想问什么？这座研究所里的实验还是发生变异的感染者？
 [charslot(slot = "m", name = "avg_npc_1966_1#10$1")]
-[name="阿洛伊泽"]......怎么了？
+[name="阿洛伊泽"]……怎么了？
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot = "m", focus = "n",name = "avg_npc_1966_1#10$1")]
 [PlaySound(key="$d_avg_crystalmagic_loop")]
 阿米娅向来抗拒在这样的情况下，以这种方式使用自己的能力，但她仍旧尝试着去触碰了眼前这位近卫军的思绪。
@@ -150,7 +150,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [delay(time=1)]
 [playMusic(intro="$darkness01_intro",key="$darkness01_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_4179_monstr_1#2$1")]
-[name="Mon3tr"]博士，这些资料......还有遗书，该怎么办？
+[name="Mon3tr"]博士，这些资料……还有遗书，该怎么办？
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="这份遗书没有提及太多与石棺有关的内容。; 那位近卫军提供了不少情报，我们也该适当地回报。", values="1;2")]
@@ -158,7 +158,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [charslot]
 [playsound(key="$d_avg_openftstpwalk")]
 [playsound(key="$d_avg_churchfootstep",delay=0.3,volume=0.5,channel="2")]
-[name="靠近的声音"]是在这边吗？还真是难找......
+[name="靠近的声音"]是在这边吗？还真是难找……
 [name="靠近的声音"]果然，藏得这么深，一定有秘密——
 [dialog]
 [delay(time=1)]
@@ -173,9 +173,9 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [name="Mon3tr"]一个没有撤离的研究员，科谢尼娅。
 [name="Mon3tr"]研究所与流动医疗队可能有往来，我们想问她我们那些同伴的去向，但她精神恍惚，脱水严重，不宜继续接受询问。
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1")]
-[name="阿洛伊泽"]那地上这些蜡烛和线路又是......？
+[name="阿洛伊泽"]那地上这些蜡烛和线路又是……？
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$1")]
-[name="阿米娅"]......我猜，这是她为自我了断所做的准备。博士，这里到底发生了什么？
+[name="阿米娅"]……我猜，这是她为自我了断所做的准备。博士，这里到底发生了什么？
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [Decision(options="我们及时赶到，阻止了爆炸发生。; 情况很复杂。", values="1;2")]
@@ -190,7 +190,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [playsound(key="$d_avg_paper2")]
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1")]
 [delay(time=1.5)]
-[name="阿洛伊泽"]......一事无成的研究员，名叫“奥卡”的神秘物质......人体实验。
+[name="阿洛伊泽"]……一事无成的研究员，名叫“奥卡”的神秘物质……人体实验。
 [name="阿洛伊泽"]看上去，我们在下面见到的那些死者，是被这个“奥卡”杀死的。
 [charslot(slot = "m", name = "char_401_elysm_na_1#6")]
 [name="极境"]这里真的在做人体实验？
@@ -214,11 +214,11 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [Decision(options="那些感染者矿工在洗劫了研究所后离开了。; 他们往南去了，这是唯一的线索。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1")]
-[name="阿洛伊泽"]我们该抓紧时间了......这位研究员恢复到可以接受询问的状态还需要多久？
+[name="阿洛伊泽"]我们该抓紧时间了……这位研究员恢复到可以接受询问的状态还需要多久？
 [charslot(slot = "m", name = "avg_4179_monstr_1#2$1")]
 [name="Mon3tr"]很难预估。她脱水严重，刚见面时精神状况也很糟糕，我们得先为她治疗。
 [charslot(slot = "m", name = "avg_npc_1966_1#4$1")]
-[name="阿洛伊泽"]真麻烦......
+[name="阿洛伊泽"]真麻烦……
 [name="阿洛伊泽"]我们还不清楚矿工已经出逃了多久，既然知道了方向，就必须抓紧时间追上去。
 [name="阿洛伊泽"]可我们不可能带着没有行动能力的伤员上路。
 [dialog]
@@ -226,7 +226,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [Decision(options="我和Mon3tr留下看顾科谢尼娅。; 你们去追踪离开的矿工队伍。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot = "m", name = "avg_npc_1966_1#10$1")]
-[name="阿洛伊泽"]呃......你们确定要单独留在这里？
+[name="阿洛伊泽"]呃……你们确定要单独留在这里？
 [name="阿洛伊泽"]虽然这是你们的自由，但我还是有必要提醒你们。
 [name="阿洛伊泽"]现在没人知道远北这些矿区都处于什么样的状态，同样也没人能保障你们的安全。
 [dialog]
@@ -276,7 +276,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [StopSound(channel="bgs", fadetime=1)]
 [delay(time=1)]
 [playMusic(intro="$escape_intro",key="$escape_loop", volume=0.6)]
-[name="激动的纠察队队员"]就在这边......快过来！
+[name="激动的纠察队队员"]就在这边……快过来！
 [dialog]
 [charslot(slot="l",name="avg_npc_082",duration=0.5)]
 [delay(time=1)]
@@ -317,7 +317,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [name="激动的纠察队队员"]前面有个不深不浅的洞，那几个矿工就躲在里面，还以为我们发现不了——
-[name="激动的纠察队队员"]天哪，哈哈哈哈哈啊哈哈......这太好笑了。
+[name="激动的纠察队队员"]天哪，哈哈哈哈哈啊哈哈……这太好笑了。
 [charslot(slot="l",name="avg_npc_082",focus="l")]
 [name="纠察队队长"]哼。他们以为那是什么，战壕吗？
 [name="纠察队队长"]托夏，戈沙，带上所有人，你们赶紧去把那些驮兽不如的蠢货给我弄出来。
@@ -355,7 +355,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [charslot]
 [charslot(slot="l",name="avg_npc_082",focus="l")]
 [charslot(slot="r",name="avg_npc_082",focus="l")]
-[name="纠察队队长"]......
+[name="纠察队队长"]……
 [charslot(slot="r",name="avg_npc_082",focus="r")]
 [name="散漫的纠察队队员"]怎么——
 [playMusic(intro="$calamity_intro",key="$calamity_loop", volume=0.6)]
@@ -381,7 +381,7 @@ Mon3tr以为这次呼唤会与之前一样毫无收获，但女人迷蒙的双�
 [playsound(key="$d_avg_snowbootwalk")]
 [charslot(slot="m",name="avg_npc_1963_1#10$1",duration=1.5)]
 [delay(time=2)]
-[name="雷尔金"]你说得对......
+[name="雷尔金"]你说得对……
 [charslot(slot="m",name="avg_npc_1963_1#5$1")]
 [name="雷尔金"]我会让你们见识一下，感染者的愤怒，还有疯狂。
 [Dialog]

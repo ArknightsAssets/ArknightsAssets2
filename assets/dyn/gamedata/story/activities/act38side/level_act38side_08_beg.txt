@@ -23,13 +23,13 @@
 [charslot(slot = "r",name="avg_npc_1564_1#9$1",posfrom = "-200,0", posto = "0,0",duration = 0.8)]
 [delay(time=1)]
 [charslot(slot = "r",name="avg_npc_1564_1#9$1",focus="r")]
-[multiline(name="拉普兰德")]还有我......
+[multiline(name="拉普兰德")]还有我……
 [charslot(slot = "r",name="avg_npc_1564_1#3$1",focus="r")]
 [multiline(name="拉普兰德")]怎么，不欢迎？
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_4065_judge_1#5$1")]
-[name="拉维妮娅"]......拉普兰德？
+[name="拉维妮娅"]……拉普兰德？
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot]
@@ -51,18 +51,18 @@
 [name="拉普兰德"]接着，大法官小姐。
 [name="拉普兰德"]刚刚在门口碰见个小法官来给你送卷宗。市长大人的病房不能有太多人打扰，我和德克萨斯就顺便给你带了进来。
 [charslot(slot = "l",name="avg_4065_judge_1#5$1",focus="l")]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [dialog]
 [playsound(key="$d_avg_paper1")]
 [delay(time=1.5)]
 [charslot(slot = "l",name="avg_4065_judge_1#4$1",focus="l")]
 [name="拉维妮娅"]新沃尔西尼港失火，紧急庭审程序——被告伊雷妮？
 [charslot(slot = "r",name="avg_npc_1564_1#9$1",focus="r")]
-[name="拉普兰德"]......
+[name="拉普兰德"]……
 [name="拉普兰德"]那个司机小姐是你的朋友吧？别紧张，往后翻，直接看审判结果，她当场就被无罪释放了。
 [charslot(slot = "r",name="avg_npc_1564_1#3$1",focus="r")]
 [name="拉普兰德"]我和德克萨斯碰巧去听了那场庭审，很精彩，威尼斯家族——
-[name="拉普兰德"]哈哈，抱歉抱歉，是威尼斯载具公司和萨卢佐酒业的老板同时为她作证，还在庭审结束后争着抢着送她回家......
+[name="拉普兰德"]哈哈，抱歉抱歉，是威尼斯载具公司和萨卢佐酒业的老板同时为她作证，还在庭审结束后争着抢着送她回家……
 [charslot(slot = "r",name="avg_npc_1564_1#9$1",focus="r")]
 [name="拉普兰德"]啧啧，司机小姐的人缘可真好！
 [name="拉普兰德"]就是她走出法院的样子，让我想起了家族成员们进法院逛一圈出来的成人礼。
@@ -80,7 +80,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1",duration=1)]
 [delay(time=1.5)]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [charslot]
 签字确认，领走判决书，离开法院。流程并不麻烦，但伊雷妮还是觉得有些头晕。阳光很刺眼，晃得她低下了头——
 偌大的法院广场，两辆车停在她的必经之路上，它们的引擎盖上各自缀着特制的车标——在叙拉古随处可见的图案。
@@ -91,7 +91,7 @@
 [delay(time=1)]
 [name="阿尔贝托"]恭喜你，伊雷妮小姐。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]......没什么好恭喜的。
+[name="伊雷妮"]……没什么好恭喜的。
 [name="伊雷妮"]阿尔贝托先生，虽然昨天那场火是个意外，但我担心的事情，确实也因此被稀里糊涂地解决了。
 [name="伊雷妮"]我以为，已经辛苦您白跑了一趟，就更不应该继续给您添麻烦了。
 [name="伊雷妮"]可您今天过来，就等于告诉所有人——
@@ -106,12 +106,12 @@
 [name="安东尼奥"]咳——阿尔贝托叔叔，我应该没有打扰你吧？
 [name="安东尼奥"]伊雷妮小姐是为我们运的轮胎，现在货在她手里出了事，我还得找她谈谈该怎么赔偿。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]安东尼奥先生......
+[name="伊雷妮"]安东尼奥先生……
 [charslot(slot="m",name="avg_npc_1544_1#1$1")]
 [name="安东尼奥"]别紧张，虽然我们今天才正式认识，但已经相当有默契了。
 [name="安东尼奥"]你在法庭上什么都没有说，这很好。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [charslot(slot="m",name="avg_npc_1544_1#1$1")]
 [name="安东尼奥"]关于卡车工会，以及许多事情，我想我们已经有很多东西可以交流。
 [name="安东尼奥"]上车吧，我送你回营地。
@@ -127,9 +127,9 @@
 [StopSound(channel="1", fadetime=2)]
 嘹亮的鸣笛声打断了三人的对话，一辆卡车从两辆私家车之间穿过，稳稳地停在了伊雷妮面前。
 [charslot(slot="m",name="avg_npc_686_1#1$1")]
-[name="阿尔贝托"]......
+[name="阿尔贝托"]……
 [charslot(slot="m",name="avg_npc_1544_1#4$1")]
-[name="安东尼奥"]......
+[name="安东尼奥"]……
 [charslot]
 [playsound(key="$d_avg_cardoorc")]
 车门打开，伊雷妮看到了下车的柳德米拉。
@@ -140,9 +140,9 @@
 [charslot]
 [charslot(slot="m",name="avg_1502_crosly_1#6$1",duration=1)]
 [delay(time=1)]
-[name="柳德米拉"]......
+[name="柳德米拉"]……
 [charslot(slot = "m", name = "avg_npc_1542_1#7$1")]
-[name="伊雷妮"]......你怎么了？
+[name="伊雷妮"]……你怎么了？
 [charslot(slot="m",name="avg_1502_crosly_1#1$1")]
 [name="柳德米拉"]走吧，我来接你回家。营地里还有很多事情等着你拿主意呢。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
@@ -159,11 +159,11 @@
 [charslot(slot = "right", name = "avg_npc_1542_1#2$1",focus="r")]
 [name="伊雷妮"]回去之后，我们得赶紧想办法送索默尔暂时离开，现在城里对他来说不安全。
 [charslot(slot = "right", name = "avg_npc_1542_1#6$1",focus="r")]
-[name="伊雷妮"]......柳德米拉，你有心事？
+[name="伊雷妮"]……柳德米拉，你有心事？
 [charslot(slot = "right",focus="n")]
 柳德米拉没有说话，只是将怀中的那枚打火机交给了伊雷妮。
 [charslot(slot = "right", name = "avg_npc_1542_1#5$1",focus="r")]
-[name="伊雷妮"]欸......这不是索默尔的？！
+[name="伊雷妮"]欸……这不是索默尔的？！
 [charslot(slot = "left", name = "avg_1502_crosly_1#6$1",focus="l")]
 [name="柳德米拉"]他做了他能做的所有。
 [charslot(slot = "left", name = "avg_1502_crosly_1#7$1",focus="l")]
@@ -181,27 +181,27 @@
 [dialog]
 [charslot(slot = "left", name = "avg_1502_crosly_1#7$1",focus="r")]
 [charslot(slot = "right", name = "avg_npc_1542_1#6$1",focus="r")]
-[name="伊雷妮"]......索默尔在哪？
+[name="伊雷妮"]……索默尔在哪？
 [charslot(slot = "left", name = "avg_1502_crosly_1#6$1",focus="l")]
-[name="柳德米拉"]......
-[name="柳德米拉"]......对不起，我找不到......
+[name="柳德米拉"]……
+[name="柳德米拉"]……对不起，我找不到……
 [charslot(slot = "right",focus="n")]
 伊雷妮握紧了手中的打火机。
 [charslot(slot = "right", name = "avg_npc_1542_1#8$1",focus="r")]
 [name="伊雷妮"]所以事情的发展的确超出了所有人的预料，他们不得不下场保住我。
-[name="伊雷妮"]但代价......
+[name="伊雷妮"]但代价……
 [charslot(slot = "left", name = "avg_1502_crosly_1#7$1",focus="l")]
 [name="柳德米拉"]他们想让市政厅和法院的人看到，咱们已经和家族绑在了一条船上。
-[name="柳德米拉"]刚刚那两个家伙对你的态度......简直就像在争抢地盘。
+[name="柳德米拉"]刚刚那两个家伙对你的态度……简直就像在争抢地盘。
 [charslot(slot = "m", focus = "n")]
 这场庭审不是事情的结束，它只是开始。
 未来漫长的时间里，家族将成为卡车互助会的附骨之疽，她不得不和那些人纠缠，继续保持这种默契，可耻的默契。
 卡车已经离法院广场越来越远，她看着手中的打火机，突然没那么恐惧了。
 [charslot(slot = "right", name = "avg_npc_1542_1#8$1",focus="r")]
-[name="伊雷妮"]这件事没完，阿尔贝托，安东尼奥......
+[name="伊雷妮"]这件事没完，阿尔贝托，安东尼奥……
 [name="伊雷妮"]我和索默尔刚搬来新沃尔西尼的时候，真的相信我们已经远离了家族。
 [charslot(slot = "right", name = "avg_npc_1542_1#3$1",focus="r")]
-[name="伊雷妮"]......呵，真可笑啊。
+[name="伊雷妮"]……呵，真可笑啊。
 [charslot(slot = "right", name = "avg_npc_1542_1#9$1",focus="r")]
 [name="伊雷妮"]索默尔，对不起，我不会再相信他们中的任何人了。
 [stopmusic(fadetime=2)]
@@ -217,13 +217,13 @@
 [playMusic(intro="$ponder_intro",key="$ponder_loop", volume=0.6)]
 [charslot(slot="m",name="avg_4065_judge_1#1$1",duration=0.5)]
 [delay(time=1)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [charslot(slot = "m",name="avg_npc_1564_1#3$1")]
-[name="拉普兰德"]多有趣的场面，像是拍电影。萨卢佐的员工，威尼斯的员工，还有卡车司机，围在那位司机小姐身边的人，占了小半个广场......
+[name="拉普兰德"]多有趣的场面，像是拍电影。萨卢佐的员工，威尼斯的员工，还有卡车司机，围在那位司机小姐身边的人，占了小半个广场……
 [name="拉普兰德"]我第一次进法院，说是成年礼，出来的时候都没有那么多人迎接。
 [name="拉普兰德"]德克萨斯就更惨了，哈哈，来叙拉古做客，不小心沾上了官司，当时只有我等她。
 [charslot(slot="m",name="avg_1028_texas2_1#1$1")]
-[name="德克萨斯"]......不要再提你那无聊的恶作剧了，拉普兰德。
+[name="德克萨斯"]……不要再提你那无聊的恶作剧了，拉普兰德。
 [charslot(slot="m",name="avg_4065_judge_1#1$1")]
 [name="拉维妮娅"]拉普兰德小姐，感谢你专程过来提醒。如果没什么别的事，还请离开吧。
 [charslot(slot = "m",name="avg_npc_1564_1#9$1")]
@@ -245,7 +245,7 @@
 [name="德克萨斯"]从昨天中午开始，我一直跟着拉普兰德。
 [name="德克萨斯"]我们赶到港口的时候，那场火已经烧得差不多了，和她没有直接的关系。
 [charslot(slot = "right", name = "avg_1028_texas2_1#8$1",focus="r")]
-[name="德克萨斯"]接下来的整个晚上，她真的都在走街串巷地跑出租。今天又去了法院，再然后来到了医院......
+[name="德克萨斯"]接下来的整个晚上，她真的都在走街串巷地跑出租。今天又去了法院，再然后来到了医院……
 [charslot(slot = "right", name = "avg_1028_texas2_1#1$1",focus="r")]
 [name="德克萨斯"]我暂时还不清楚她到底要做什么。
 [charslot(slot = "left", name = "avg_4065_judge_1#8$1",focus="l")]
@@ -253,20 +253,20 @@
 [charslot(slot = "right", name = "avg_1028_texas2_1#5$1",focus="r")]
 [name="德克萨斯"]拉维妮娅，你还在看这份卷宗？
 [charslot(slot = "left", name = "avg_4065_judge_1#5$1",focus="l")]
-[name="拉维妮娅"]单从卷宗内容来看，这场审判没有任何问题。但这种感觉太过熟悉......
+[name="拉维妮娅"]单从卷宗内容来看，这场审判没有任何问题。但这种感觉太过熟悉……
 [name="拉维妮娅"]整场庭审程序完整、证据详实，但除了帮助某个人脱罪，它实际上没有查明任何真相，也没有解决任何问题。
 [name="拉维妮娅"]在沃尔西尼，在叙拉古的其他地方，绝大多数的案子都只能以这样的一份卷宗收尾。
 [charslot(slot = "left", name = "avg_4065_judge_1#2$1",focus="l")]
 [name="拉维妮娅"]而我一度认为，这样的审判已经不会存在于新沃尔西尼。
 [charslot(slot = "right", name = "avg_1028_texas2_1#5$1",focus="r")]
-[name="德克萨斯"]拉维妮娅......
+[name="德克萨斯"]拉维妮娅……
 [charslot(slot = "left", name = "avg_4065_judge_1#1$1",focus="l")]
 [name="拉维妮娅"]不用安慰我，德克萨斯。
 [name="拉维妮娅"]我更在意的是，这些人从什么时候开始居然会在意一个家族之外的普通人无辜或者有罪？
 [name="拉维妮娅"]更何况在此之前，整个威尼斯家族在新沃尔西尼的表现几乎没有任何可以指摘的地方，小威尼斯却在此时出了这个头。
 [name="拉维妮娅"]从德米特里到英格丽——这两天，我可能一直都追错了方向。
 [name="拉维妮娅"]但可以肯定的是，在这场庭审之前——或者就是这场庭审，让他们站在了一起。
-[name="拉维妮娅"]莱昂遭遇的那场车祸，肇事逃逸的车辆，还有港口的火灾，这些事情明显存在更深的联系......
+[name="拉维妮娅"]莱昂遭遇的那场车祸，肇事逃逸的车辆，还有港口的火灾，这些事情明显存在更深的联系……
 [name="拉维妮娅"]萨卢佐、威尼斯，还有卡车工会，这三方势力到底在共同隐藏什么？
 [charslot(duration=0.5)]
 [PlaySound(key="$d_avg_paper2")]
@@ -276,10 +276,10 @@
 [dialog]
 [charslot(slot = "m", name = "avg_4065_judge_1#7$1",duration=0.5)]
 [delay(time=1)]
-[name="拉维妮娅"]明天就是狂欢节了，莱昂到现在还重伤未醒......我已经没有多少时间去查明他们接下来会有怎样的图谋。
+[name="拉维妮娅"]明天就是狂欢节了，莱昂到现在还重伤未醒……我已经没有多少时间去查明他们接下来会有怎样的图谋。
 [name="拉维妮娅"]不能让局势恶化，更不能坐以待毙。
 [charslot(slot = "m", name = "avg_1028_texas2_1#3$1")]
-[name="德克萨斯"]......你的意思是？
+[name="德克萨斯"]……你的意思是？
 [charslot(slot = "m", name = "avg_4065_judge_1#15$1")]
 [name="拉维妮娅"]这些人依然觉得《新都市管理法案》是可以利用的东西，那么我会告诉他们，在新沃尔西尼，它确实是秩序的基底。
 [stopmusic(fadetime=2)]
@@ -318,11 +318,11 @@
 [delay(time=1.5)]
 [name="警察"]我说过我们会来找你的，阿尔贝托·萨卢佐先生。
 [charslot(slot = "m", name = "avg_npc_686_1#1$1")]
-[name="阿尔贝托"]......
+[name="阿尔贝托"]……
 [playsound(key="$d_avg_paper1")]
 [charslot(slot = "m", name = "avg_npc_1553_1#1$2")]
 [name="警察"]这是近两个月来萨卢佐酒业提交的所有资质审批文件。
-[name="警察"]同一批员工，短短两个月间，在你们的注册资料里连续变换了好几次身份，先是安保人员，再是酿酒师等专业技术人员......
+[name="警察"]同一批员工，短短两个月间，在你们的注册资料里连续变换了好几次身份，先是安保人员，再是酿酒师等专业技术人员……
 [name="警察"]我们合理怀疑，萨卢佐酒业涉嫌以非法手段规避正常的背景审查流程。
 [name="警察"]请跟我们回去接受调查。
 [dialog]
@@ -344,12 +344,12 @@
 [delay(time=1.5)]
 [name="德米特里"]住手。不要妨碍警察办案。
 [charslot(slot = "m", name = "avg_npc_690_1#9$1")]
-[name="德米特里"]如果他们只是怀疑萨卢佐酒业用非法手段规避背景审查，要解释起来并不难......只是需要时间。
+[name="德米特里"]如果他们只是怀疑萨卢佐酒业用非法手段规避背景审查，要解释起来并不难……只是需要时间。
 [dialog]
 [charslot]
 [charslot(slot = "left", name = "avg_npc_1554_1#1$1")]
 [charslot(slot = "right", name = "avg_npc_1554_1#1$1")]
-[name="家族成员A&B"]......
+[name="家族成员A&B"]……
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_686_1#1$1")]

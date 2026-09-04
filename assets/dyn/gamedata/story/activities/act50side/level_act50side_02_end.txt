@@ -73,7 +73,7 @@
 [charslot(slot="l",name="avg_282_catap_1#8$1",focus="l")]
 [name="空爆"]（啧，不行，弹药要见底了，我需要一些更加有力的武器——）
 [charslot(slot="l",name="avg_282_catap_1#5$1",focus="l")]
-[name="空爆"]（咦，那边的是......）
+[name="空爆"]（咦，那边的是……）
 [charslot]
 空爆看到，工坊的一角，静静地躺着一对剑盾。
 [Dialog]
@@ -104,7 +104,7 @@
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]虽然我当年因为讨厌卡西米尔骑士老爷的做派而放弃了做骑士的想法......
+[name="空爆"]虽然我当年因为讨厌卡西米尔骑士老爷的做派而放弃了做骑士的想法……
 [charslot(slot="m",name="avg_282_catap_1#7$1",focus="m")]
 [name="空爆"]不过，多少还是学过一些这玩意的用法。
 [charslot(slot="m",name="avg_282_catap_1#4$1",focus="m")]
@@ -124,16 +124,16 @@
 [charslot(slot="m",name="char_278_orchid_1#1",duration=1.5,afrom=0,ato=1)]
 [Delay(time=2)]
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]（守卫......比想象的要少。）
+[name="梓兰"]（守卫……比想象的要少。）
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
-[name="梓兰"]就是这个吗......熔火蜗的甲壳。
+[name="梓兰"]就是这个吗……熔火蜗的甲壳。
 [charslot]
 她从巨大的甲壳上，取下了一块拳头大小的、闪烁着暗红色光芒的晶石。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]（不对......这手感不对。）
-[name="梓兰"]（也感受不到任何的源石技艺传导性......这到底是什么？）
+[name="梓兰"]（不对……这手感不对。）
+[name="梓兰"]（也感受不到任何的源石技艺传导性……这到底是什么？）
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
-[name="梓兰"]（这......真的只是一块普通的石头？）
+[name="梓兰"]（这……真的只是一块普通的石头？）
 [name="梓兰"]（怎么可能，难道这里真的没有源石？！）
 [Dialog]
 [stopmusic(fadetime=1)]
@@ -169,7 +169,7 @@
 [Blocker(a=1, r=0.95, g=0.95, b=0.95, fadetime=0.2, block=true)]
 [Blocker(a=0, r=0.95, g=0.95, b=0.95, fadetime=1, block=false)]
 [delay(time=1)]
-[name="守卫"]咕......
+[name="守卫"]咕……
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [charslot(slot="m",name="avg_npc_2107_1#1$1",posfrom="0,0",posto="0,-50",duration=1,afrom=1,ato=0)]
@@ -180,9 +180,9 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_2104_1#1$1",focus="m")]
 [Delay(time=1)]
-[name="梓兰"]（这些黑气......难道它会复活是“诅咒”导致的？）
+[name="梓兰"]（这些黑气……难道它会复活是“诅咒”导致的？）
 [name="梓兰"]（啧，要是把这家伙放出去，恐怕会造成巨大的破坏，得想办法在这里拖住它——）
-[name="梓兰"]（要是在这时候，有一把能用的武器......）
+[name="梓兰"]（要是在这时候，有一把能用的武器……）
 [Dialog]
 [charslot]
 梓兰环视四周，她立刻注意到，倒下的守卫手中的那把弓。
@@ -196,7 +196,7 @@
 [Delay(time=1)]
 她一个翻滚躲开熔火蜗的撞击，将昏倒的守卫手中的猎弓捡起。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]（......比罗德岛的制式弓要轻。能用！）
+[name="梓兰"]（……比罗德岛的制式弓要轻。能用！）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -249,9 +249,9 @@
 [name="政宗"]只是看不下去你的用法喵，你这样用盾斧，盾斧的灵魂都在哭泣喵！
 [charslot(slot="m",name="avg_282_catap_1#7$1",focus="m")]
 [name="空爆"]要你管。
-[name="空爆"]（他一直喊这对武器叫盾斧，但这明明是剑盾......）
+[name="空爆"]（他一直喊这对武器叫盾斧，但这明明是剑盾……）
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]（咦，盾的里侧有插槽......斧......斧......我懂了！）
+[name="空爆"]（咦，盾的里侧有插槽……斧……斧……我懂了！）
 [charslot(slot="m",name="avg_4215_buddyC_1#1$6",focus="m")]
 [PlaySound(key="$MHR_cat_voice2", volume=1)]
 [name="政宗"]哼，不管怎么说，该结束这场闹剧了喵！
@@ -273,7 +273,7 @@
 [charslot(slot="m",name="avg_282_catap_1#9$1",focus="m")]
 [name="空爆"]哈哈，原来如此，这对剑盾组合起来，居然能变成一把斧子！
 [charslot(slot="m",name="avg_4215_buddyC_1#1$2",focus="m")]
-[name="政宗"]（她自己都没有发现，她在武器变形的瞬间防御住了我的进攻......）
+[name="政宗"]（她自己都没有发现，她在武器变形的瞬间防御住了我的进攻……）
 [name="政宗"]（真是个了不得的家伙喵。）
 [charslot(slot="m",name="avg_282_catap_1#4$1",focus="m")]
 [multiline(name="空爆")]看我的——
@@ -331,7 +331,7 @@
 [PlaySound(key="$d_avg_explosion", volume=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="char_278_orchid_1#5",focus="m")]
-[name="梓兰"]（呼......呼......勉强射中了......但这一箭，也几乎用尽了我的力气。）
+[name="梓兰"]（呼……呼……勉强射中了……但这一箭，也几乎用尽了我的力气。）
 [charslot(slot="m",name="char_278_orchid_1#4",focus="m")]
 [name="梓兰"]（不行，这样下去，在打倒它之前，我自己的体力会先耗尽。）
 [Dialog]
@@ -358,7 +358,7 @@
 [charslot]
 [PlayMusic(intro="$darkness01_intro", key="$darkness02_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
-[name="月见夜？"]“诅咒”居然已经严重到能够让野兽复生的地步......不，这不是复生，而是“诅咒”在驱使着它行动。
+[name="月见夜？"]“诅咒”居然已经严重到能够让野兽复生的地步……不，这不是复生，而是“诅咒”在驱使着它行动。
 [name="月见夜？"]来人。
 [Dialog]
 [charslot]
@@ -372,7 +372,7 @@
 [charslot(slot="m",name="avg_npc_2107_1#1$1",focus="m")]
 [name="随从武士"]这件事要知会陛下吗？
 [charslot(slot="m",name="avg_npc_2101_1#9$1",focus="m")]
-[name="月见夜？"]......不必。
+[name="月见夜？"]……不必。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜？"]陛下专注于当下的“试炼”即可。
 [charslot(slot="m",name="avg_npc_2107_1#1$1",focus="m")]
@@ -386,7 +386,7 @@
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜？"]梓兰小姐。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]你是，月见......夜对吧。
+[name="梓兰"]你是，月见……夜对吧。
 [charslot(slot="m",name="avg_npc_2101_1#9$1",focus="m")]
 [name="月见夜？"]我要感谢你，如果不是你拖延了时间，这头熔火蜗恐怕会造成不小的伤亡。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
@@ -397,7 +397,7 @@
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜？"]我此次前来，本来也有想要替陛下向你们道歉的意思。
 [charslot(slot="m",name="char_278_orchid_1#4",focus="m")]
-[name="梓兰"]......我有一个问题。
+[name="梓兰"]……我有一个问题。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜？"]请问。
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
@@ -405,7 +405,7 @@
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜？"]如假包换。
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
-[name="梓兰"]（......我第一次感觉，看着这张脸说这么正经的话，原来是这么让人难受的事。）
+[name="梓兰"]（……我第一次感觉，看着这张脸说这么正经的话，原来是这么让人难受的事。）
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]陛下的莽撞招致了两位的怀疑，但两位也算是为我们带来了一些麻烦，这件事就算两清吧。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
@@ -419,26 +419,26 @@
 [delay(time=2)]
 [name="空爆"]梓兰姐！
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
-[name="梓兰"]......空爆。
+[name="梓兰"]……空爆。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]看来，你的同伴也到了。
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]梓兰姐，他们......他们好像真的不是在演戏。宝巫迦好像真的相信自己有什么使命......
+[name="空爆"]梓兰姐，他们……他们好像真的不是在演戏。宝巫迦好像真的相信自己有什么使命……
 [charslot(slot="m",name="avg_282_catap_1#10$1",focus="m")]
 [name="空爆"]而且她的身上也没有源石结晶。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]我知道......斑弥罗的身上也没有。
+[name="梓兰"]我知道……斑弥罗的身上也没有。
 [name="梓兰"]空爆，这个地方，恐怕真的没有源石。我们所有的常识，在这里都行不通。
 [charslot(slot="m",name="avg_282_catap_1#11$1",focus="m")]
-[name="空爆"]那......难道这里真的不是泰拉，他们三个也不是我们认识的那三个人？
+[name="空爆"]那……难道这里真的不是泰拉，他们三个也不是我们认识的那三个人？
 [charslot(slot="m",name="avg_282_catap_1#7$1",focus="m")]
 [name="空爆"]那我们要快点回去，梓兰姐！
 [charslot(slot="m",name="char_278_orchid_1#5",focus="m")]
-[name="梓兰"]......回去的方法，宝巫迦一开始就告诉我们了，只是我们没有相信。
+[name="梓兰"]……回去的方法，宝巫迦一开始就告诉我们了，只是我们没有相信。
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
 [name="梓兰"]我原以为这是一场骗局，但现在看来，我们恐怕必须接受这个方法了。
 [charslot(slot="m",name="avg_npc_2101_1#4$1",focus="m")]
-[name="月见夜"]关于“试炼”，关于狩猎，关于陛下......我有个不情之请。
+[name="月见夜"]关于“试炼”，关于狩猎，关于陛下……我有个不情之请。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]正好，我也还有一些事想问你。
 [charslot(slot="m",name="avg_npc_2101_1#5$1",focus="m")]
@@ -488,7 +488,7 @@
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
 [name="梓兰"]去那边玩。
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
-[name="空爆"]哦......
+[name="空爆"]哦……
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]另一种呢？
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
@@ -512,9 +512,9 @@
 [name="空爆"]（吹奏）
 [CameraShake(duration=2, xstrength=10, ystrength=10, vibrato=70, randomness=10, fadeout=true, block=false)]
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
-[name="梓兰"]......
+[name="梓兰"]……
 [charslot(slot="m",name="avg_npc_2101_1#2$1",focus="m")]
-[name="月见夜"]......
+[name="月见夜"]……
 [charslot(slot="m",name="avg_282_catap_1#5$1",focus="m")]
 [name="空爆"]哎呀，吵到你们了？
 [charslot(slot="m",name="char_278_orchid_1#2",focus="m")]
@@ -522,7 +522,7 @@
 [charslot(slot="m",name="avg_282_catap_1#8$1",focus="m")]
 [name="空爆"]嘁。
 [charslot(slot="m",name="avg_npc_2101_1#9$1",focus="m")]
-[name="月见夜"]一切......都始于前代陛下的失踪。
+[name="月见夜"]一切……都始于前代陛下的失踪。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]前代陛下雄才大略，治国有方，她在位期间，泡影国欣欣向荣。
 [name="月见夜"]前代陛下的实力也足够强大，她在位期间，完成了三次“异兽”狩猎。
@@ -530,20 +530,20 @@
 [charslot(slot="m",name="avg_npc_2101_1#6$1",focus="m")]
 [name="月见夜"]但前代陛下，就那么在上一次的“异兽”狩猎中失踪了，所有的责任都落到了尚且年幼的宝巫迦陛下肩上。
 [charslot(slot="m",name="char_278_orchid_1#3",focus="m")]
-[name="梓兰"]前代......究竟发生了什么？
+[name="梓兰"]前代……究竟发生了什么？
 [charslot(slot="m",name="avg_npc_2101_1#9$1",focus="m")]
-[name="月见夜"]......我无法告诉你，因为，在我们所有人眼中，她就那样消失了。
+[name="月见夜"]……我无法告诉你，因为，在我们所有人眼中，她就那样消失了。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]到现在，已经过了十年。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
-[name="梓兰"]失踪了十年......确实已经和死亡没有什么区别......
+[name="梓兰"]失踪了十年……确实已经和死亡没有什么区别……
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
 [name="月见夜"]而泡影国不能再失去宝巫迦陛下。
 [name="月见夜"]唯有巫女能够消除“诅咒”，若是陛下也死在了狩猎中，泡影国将真正万劫不复。
 [charslot(slot="m",name="char_278_orchid_1#1",focus="m")]
 [name="梓兰"]所以你宁可让“雷之主”再肆虐个几十年，也要阻止你们的陛下去挑战它。
 [charslot(slot="m",name="char_278_orchid_1#4",focus="m")]
-[name="梓兰"]......你明知道，这样她会更加责怪自己。
+[name="梓兰"]……你明知道，这样她会更加责怪自己。
 [charslot(slot="m",name="avg_npc_2101_1#9$1",focus="m")]
 [name="月见夜"]前代陛下的失踪让许多事情发生了改变，梓兰小姐。
 [charslot(slot="m",name="avg_npc_2101_1#1$1",focus="m")]
@@ -555,7 +555,7 @@
 [name="月见夜"]没错。
 [name="月见夜"]我相信你们会做出明智的选择。
 [charslot(slot="m",name="avg_282_catap_1#5$1",focus="m")]
-[name="空爆"]咦，这把枪好重啊，好像是叫铳枪来着？那是不是可以用来发射子弹啊......
+[name="空爆"]咦，这把枪好重啊，好像是叫铳枪来着？那是不是可以用来发射子弹啊……
 [charslot(slot="m",name="avg_282_catap_1#9$1",focus="m")]
 [name="空爆"]嗯——我懂了，应该是这样发射吧。
 [Dialog]
@@ -563,7 +563,7 @@
 [charslot(slot="m",name="avg_4215_buddyC_1#1$1",duration=1.5)]
 [delay(time=1)]
 [name="政宗"]月见夜，我来带走这一次的“异兽猎人”了喵！
-[multiline(name="政宗")]还有许多事情要告诉她们......
+[multiline(name="政宗")]还有许多事情要告诉她们……
 [charslot(slot="m",name="avg_4215_buddyC_1#1$2",focus="m")]
 [PlaySound(key="$MHR_cat_voice2", volume=1)]
 [multiline(name="政宗")]喵？
@@ -582,10 +582,10 @@
 [delay(time=0.51)]
 轰鸣的炮弹擦着瘦小“云兽”的头顶飞过，在宫廷外的半空中炸开。
 [charslot(slot="m",name="avg_282_catap_1#1$1",focus="m")]
-[name="空爆"]呃，看来这把武器也不适合我......哈哈......哈......
+[name="空爆"]呃，看来这把武器也不适合我……哈哈……哈……
 [charslot(slot="m",name="avg_4215_buddyC_1#1$3",focus="m")]
 [PlaySound(key="$MHR_cat_voice3", volume=1)]
-[name="政宗"]喵......
+[name="政宗"]喵……
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [charslot(slot="m",name="avg_4215_buddyC_1#1$3",posfrom="0,0",posto="0,-50",afrom=1, ato=0,duration=1.5)]

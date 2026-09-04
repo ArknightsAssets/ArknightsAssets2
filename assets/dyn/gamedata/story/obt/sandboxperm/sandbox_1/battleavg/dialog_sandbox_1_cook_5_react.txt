@@ -4,10 +4,10 @@
 [predicate(references="1.1", selectableCondition="c0")]
 [additem(itemId="sandbox_1_craft_17", itemCount="-1")]
 （你提交了“森蚺”牌高压复焗浓汤）
-[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]哼，我才不信......
-[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]嗯......？
-[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]咦......？
-[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]嘶......
+[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]哼，我才不信……
+[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]嗯……？
+[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]咦……？
+[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]嘶……
 [decision(option1="你这是什么表情？", value1="2.1")]
 [predicate(references="2.1")]
 [name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]这不是你自己做的吧？和上次不一样哦！
@@ -15,7 +15,7 @@
 [predicate(references="3.1")]
 [decision(option1="她负责了最关键的步骤。", value1="4.1")]
 [predicate(references="4.1")]
-[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]嗯......不错，还以为那丫头早把我忘到脑袋后面了。
+[name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]嗯……不错，还以为那丫头早把我忘到脑袋后面了。
 [decision(option1="所以这道菜你还满意吗？", value1="5.1")]
 [predicate(references="5.1")]
 [name="大祭司", avatarId="bavg_npc_002", isAvatarRight="FALSE"]我不和你说，让那丫头自己来问我。

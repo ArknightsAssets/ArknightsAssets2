@@ -20,7 +20,7 @@
 [Delay(time=0.2)]
 [charslot(slot="m",name="avg_npc_031",focus="m")]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="家族成员F"]呜呃......
+[name="家族成员F"]呜呃……
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=1)]
 [charslot(duration=0.5)]
@@ -89,15 +89,15 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]怎么样，没受伤吧？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]没、没有......多谢......
+[name="量杯"]没、没有……多谢……
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]那就好。我是头狼，总不能让你这种不能打的冲在前面。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]可我们本来不用打起来的......
+[name="量杯"]可我们本来不用打起来的……
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]那些城市里的狼错把我们当成猎物，我当时只是拉开弓，又没射箭，他们就一股脑冲过来了。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]随随便便对杀人不眨眼的黑帮张弓搭箭，这是不是有点......太莽撞了？
+[name="量杯"]随随便便对杀人不眨眼的黑帮张弓搭箭，这是不是有点……太莽撞了？
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]危险的时候露出獠牙威胁对方，这不是最基本的自卫方式吗？阿涅塞，你说呢？
 [Dialog]
@@ -123,7 +123,7 @@
 [Dialog]
 [StopSound(channel="a", fadetime=4)]
 [Delay(time=1)]
-[name="快速远去的声音"]——抱歉这趟没法拉你们了......
+[name="快速远去的声音"]——抱歉这趟没法拉你们了……
 [Dialog]
 [PlaySound(key="$d_avg_wind", volume=1)]
 [Delay(time=2)]
@@ -132,7 +132,7 @@
 [name="量杯"]开走了？！
 [name="量杯"]子月，我们现在怎么办？！
 [charslot(slot="r",name="avg_4014_lunacu_1#9$1",focus="r")]
-[name="子月"]......我怎么知道。
+[name="子月"]……我怎么知道。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=30, randomness=90,fadeout=true, block=false)]
 [name="量杯"]你在别人面前可不是这么说的啊！
@@ -151,30 +151,30 @@
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="人事部干员"]量杯，我记得你入职好几年了，一次假也没请过。
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
-[name="量杯"]我是觉得请假要让同事替我顶班，实在是给人添麻烦......
+[name="量杯"]我是觉得请假要让同事替我顶班，实在是给人添麻烦……
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="人事部干员"]你管食堂，他们也管食堂，他们请假的时候你不也替他们顶班嘛。
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
-[name="量杯"]这个，麻烦别人帮我，多少还是有点......
+[name="量杯"]这个，麻烦别人帮我，多少还是有点……
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="人事部干员"]（耸肩）那这次呢？
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
 [name="量杯"]这、这次不一样，这次是大帝的演唱会！他所有的专辑我都有！我一直以来的梦想就是亲自去看大帝一眼！
 [name="量杯"]我仔仔细细算过了，如果罗德岛保持现在的航线，新沃尔西尼这一场是离我最近的！
-[name="量杯"]我还答应给替我顶班的同事们一人带一张大帝的黑胶唱片......
+[name="量杯"]我还答应给替我顶班的同事们一人带一张大帝的黑胶唱片……
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="人事部干员"]啊？那东西挺贵的吧？还一人一张？
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
-[name="量杯"]毕竟是托人办事，我总得展现点诚意......
+[name="量杯"]毕竟是托人办事，我总得展现点诚意……
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="人事部干员"]你啊，偶尔也活得随性一点不好吗？
 [Dialog]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
 [delay(time=1.5)]
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
-[name="人事部干员"]假替你请好了......对了，我记得你不是叙拉古人？
+[name="人事部干员"]假替你请好了……对了，我记得你不是叙拉古人？
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
-[name="量杯"]但我之前已经仔细研读了五种不同的叙拉古旅游手册......
+[name="量杯"]但我之前已经仔细研读了五种不同的叙拉古旅游手册……
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="人事部干员"]叙拉古那地方还挺乱的。我给你找找熟悉叙拉古的干员，给你安排个向导吧。
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
@@ -182,7 +182,7 @@
 [charslot(slot="l",name="avg_npc_973_1#1$1",focus="l")]
 [name="人事部干员"]是麻烦别人更让你不好受，还是看不成大帝的演唱会更让你揪心？
 [charslot(slot="r",name="avg_npc_970_1#1$1",focus="r")]
-[name="量杯"]那、那就麻烦你了......
+[name="量杯"]那、那就麻烦你了……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -195,9 +195,9 @@
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="人事部干员"]现在在舰上又熟悉叙拉古环境的人，就只有子月干员一位了。怎么样，你们两位觉得如何？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
-[name="量杯"]......
+[name="量杯"]……
 [charslot(slot="m",name="avg_4014_lunacu_1#1$1",focus="m")]
-[name="子月"]......
+[name="子月"]……
 [charslot(slot="m",name="avg_npc_973_1#1$1",focus="m")]
 [name="人事部干员"]呃，你们俩认识？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
@@ -227,12 +227,12 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
 [name="子月"]我不记得给过你什么压力啊。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]我是说那位人事干员，她都把你找来了，我要是还坚持说不，是不是太对不住她了......
+[name="量杯"]我是说那位人事干员，她都把你找来了，我要是还坚持说不，是不是太对不住她了……
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
 [name="子月"]不答应她也算是对不住她吗？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]呃，我倒也不是那个意思......
-[name="量杯"]唉，旅游手册上可没说过车不拉我该怎么办啊......
+[name="量杯"]呃，我倒也不是那个意思……
+[name="量杯"]唉，旅游手册上可没说过车不拉我该怎么办啊……
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]你要是还想去新沃尔西尼，顺着刚刚那辆车压出的痕迹一直走就行了。
 [name="子月"]车队和狼群不一样，车队很死板，基本上只沿着一条路来来回回。
@@ -258,8 +258,8 @@
 [name="子月"]量杯，你还有多长时间才好啊？我快饿死了。
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
 [name="量杯"]马上，你再稍等下，等一下下就好！
-[name="量杯"]（小声）从这里到新沃尔西尼，满打满算要走十天......所以干粮应该分成十份......
-[name="量杯"]（小声）剩下的干粮一定要藏好......千万不能被她找到......
+[name="量杯"]（小声）从这里到新沃尔西尼，满打满算要走十天……所以干粮应该分成十份……
+[name="量杯"]（小声）剩下的干粮一定要藏好……千万不能被她找到……
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="n")]
 [name="子月"]还没好吗？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
@@ -281,7 +281,7 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#7$1",focus="r")]
 [name="子月"]我们还剩不少干粮，为什么今天就吃这么一点？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]我们的东西都是按坐车旅行准备的，谁知道会变成现在这样啊......干粮按十天分，就只有这么一点了。
+[name="量杯"]我们的东西都是按坐车旅行准备的，谁知道会变成现在这样啊……干粮按十天分，就只有这么一点了。
 [Dialog]
 [charslot]
 子月三两口吃光自己的那份干粮，走到量杯身前，扯开他刚刚打包好的包裹。
@@ -306,13 +306,13 @@
 [charslot(slot="m",name="avg_4014_lunacu_1#1$1",focus="m")]
 [name="子月"]出发前我就跟你说过，我们几个月内都用不上这么厚的衣服。
 [charslot(slot="m",name="avg_4014_lunacu_1#7$1",focus="m")]
-[name="子月"]不过现在出了意外，你带的东西倒也派上了用场......质量这么好的布料，不搭帐篷可惜了。
+[name="子月"]不过现在出了意外，你带的东西倒也派上了用场……质量这么好的布料，不搭帐篷可惜了。
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
-[name="量杯"]可制服坏了，我回去还得报备，得跟后勤部的人解释......
+[name="量杯"]可制服坏了，我回去还得报备，得跟后勤部的人解释……
 [charslot(slot="m",name="avg_4014_lunacu_1#7$1",focus="m")]
-[name="子月"]哪有那么麻烦。虽然他们不肯告诉我物资仓库的位置，但我最后还是发现了一间连他们自己都忘了的......
+[name="子月"]哪有那么麻烦。虽然他们不肯告诉我物资仓库的位置，但我最后还是发现了一间连他们自己都忘了的……
 [charslot(slot="m",name="avg_4014_lunacu_1#1$1",focus="m")]
-[name="子月"]......
+[name="子月"]……
 [name="子月"]喂，你还来不来帮我？
 [Dialog]
 [StopSound(channel="warm", fadetime=2)]
@@ -330,24 +330,24 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]呼、呼......
+[name="量杯"]呼、呼……
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]你怎么样？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]挺好的......
+[name="量杯"]挺好的……
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]你看起来一点都不好。能不能有话直说？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]阳光太强了，我感觉我快被晒干了......但要是停下来搭帐篷，速度又会被拖慢......
+[name="量杯"]阳光太强了，我感觉我快被晒干了……但要是停下来搭帐篷，速度又会被拖慢……
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]我还以为你要干什么呢。给。
 [name="子月"]你们那种叫“伞”的东西很好用，不过有些小机关太复杂，我就用帐篷支架和布拼了一个必须拆开才能收起来的。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]多谢——等等，这布料是......我的制服？
+[name="量杯"]多谢——等等，这布料是……我的制服？
 [charslot(slot="r",name="avg_4014_lunacu_1#3$1",focus="r")]
 [name="子月"]怎么样，有用吧？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]确实......
+[name="量杯"]确实……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)] 
 [charslot]
@@ -357,11 +357,11 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]（小声）一、二、三、四、五、六、七、八......还剩八天的干粮——
+[name="量杯"]（小声）一、二、三、四、五、六、七、八……还剩八天的干粮——
 [charslot(slot="r",name="avg_4014_lunacu_1#8$1",focus="r")]
 [name="子月"]别发呆了！沙暴要来了，我们得赶紧转移！
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]可天这不还晴着......
+[name="量杯"]可天这不还晴着……
 [charslot(slot="r",name="avg_4014_lunacu_1#8$1",focus="r")]
 [name="子月"]你难道没闻到空气里的沙子味儿吗？
 [dialog]
@@ -411,7 +411,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
-[name="量杯"]（小声）一、二、三、四、五、六......前天那只钳兽又省出一份，还好还好......
+[name="量杯"]（小声）一、二、三、四、五、六……前天那只钳兽又省出一份，还好还好……
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="n")]
 [name="子月"]又在数你的干粮了？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
@@ -423,22 +423,22 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]别藏了，我早就知道你把干粮藏在包裹的哪个夹层里了。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]多谢你愿意对干粮手下留情......
+[name="量杯"]多谢你愿意对干粮手下留情……
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
-[name="子月"]你说话怎么总是喜欢带个“谢”字，要不就是给这个添麻烦，给那个添麻烦......这么说话本身才麻烦吧。
+[name="子月"]你说话怎么总是喜欢带个“谢”字，要不就是给这个添麻烦，给那个添麻烦……这么说话本身才麻烦吧。
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]别谢了，我是来问你“顺风车”的。那辆“顺风车”究竟在哪里等我们？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]那不是等的，是要遇的......唉，五天过去了，路上一辆车也没看见，运气真是糟透了。
+[name="量杯"]那不是等的，是要遇的……唉，五天过去了，路上一辆车也没看见，运气真是糟透了。
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]我在附近看到了新鲜的牙兽粪便，周围应该有牙兽群。虽然我不知道他们和我熟不熟，不过有牙兽就说明有猎物。
 [name="子月"]我们跟着猎物的方向走，等猎物迁徙到离随便哪座城市比较近的地方，再从那里坐车回罗德岛。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]那......新沃尔西尼......
+[name="量杯"]那……新沃尔西尼……
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]反正你又赶不上演唱会了，听我的至少不用每天饿肚子。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]......但我还是想去！
+[name="量杯"]……但我还是想去！
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]去干嘛？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
@@ -447,11 +447,11 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]哼，只有在这种时候你才像点样子。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]我倒是时常在想，自己是不是在看演唱会这件事上太任性了......
+[name="量杯"]我倒是时常在想，自己是不是在看演唱会这件事上太任性了……
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
 [name="子月"]为什么？做自己想做的事不是很正常吗？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]这......可能大多数人都做不了自己想做的事吧。
+[name="量杯"]这……可能大多数人都做不了自己想做的事吧。
 [charslot(slot="r",name="avg_4014_lunacu_1#9$1",focus="r")]
 [name="子月"]你这么一说，城市里的人好像确实都是这样。
 [name="子月"]要么总是擅自替所有人着想，因为怕给人添麻烦，这也不行那也不干，明明没人不让你去做。
@@ -459,15 +459,15 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]这也是一种“狡猾”吗？这么做能让自己在打不到猎物的时候不挨饿吗？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]呜......
+[name="量杯"]呜……
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]又怎么了？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]（小声）你一说替人着想，我就更得去新沃尔西尼了，我得去那里帮同事们买演唱会的黑胶唱片......
+[name="量杯"]（小声）你一说替人着想，我就更得去新沃尔西尼了，我得去那里帮同事们买演唱会的黑胶唱片……
 [charslot(slot="r",name="avg_4014_lunacu_1#2$1",focus="r")]
 [name="子月"]唉，真是一点也搞不懂。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]别说你了，连我自己都有点搞不懂了......
+[name="量杯"]别说你了，连我自己都有点搞不懂了……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -489,7 +489,7 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]我已经闻见牙兽群的气味了。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]牙兽群......对了，我记得你在来罗德岛之前是和兽群一起生活的？
+[name="量杯"]牙兽群……对了，我记得你在来罗德岛之前是和兽群一起生活的？
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]是啊。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
@@ -498,11 +498,11 @@
 [name="子月"]嗯，没见过的东西很多，有些好吃，有些好玩，但我还是不喜欢一睁眼就看到天花板。
 [name="子月"]要不是阿涅塞让我待在罗德岛，说不定哪天我就走了。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]阿涅塞......你的这位朋友究竟在哪里？
+[name="量杯"]阿涅塞……你的这位朋友究竟在哪里？
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
 [name="子月"]你怎么也来问，我都解释得烦了。阿涅塞就在我身边。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]......啊？
+[name="量杯"]……啊？
 [Dialog]
 [charslot]
 [StopSound(channel="warm1", fadetime=2)]
@@ -511,11 +511,11 @@
 [Dialog]
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_4014_lunacu_1#9$1",focus="l")]
-[name="量杯"]子月，你该不会是......想回兽群了吧？
+[name="量杯"]子月，你该不会是……想回兽群了吧？
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]嗯？你说什么？我刚刚在听阿涅塞说话。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]......不，没什么。
+[name="量杯"]……不，没什么。
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]哦。
 [name="子月"]帐篷已经搭好了，你想睡就早点睡。
@@ -530,16 +530,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [name="量杯"]牙兽群又叫起来了，子月该不会真的想回兽群了吧。
-[name="量杯"]唉，她这几天教了我不少事情，而且反正我又打不过她......
-[name="量杯"]唉，我净瞎想，怎么会呢......
+[name="量杯"]唉，她这几天教了我不少事情，而且反正我又打不过她……
+[name="量杯"]唉，我净瞎想，怎么会呢……
 [name="量杯"]（均匀的呼吸声）
-......
+……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [delay(time=1.5)]
 [PlaySound(key="$d_avg_arrowshot", volume=1)]
 [delay(time=1)]
-[name="量杯"]（打哈欠）什么动静......子月？出什么事了吗？
+[name="量杯"]（打哈欠）什么动静……子月？出什么事了吗？
 [name="量杯"]子月？子月！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -554,8 +554,8 @@
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
 [name="量杯"]没人？
-[name="量杯"]这、这......她都说了有牙兽就有猎物，我只要在这里安心等着就......
-[name="量杯"]不管怎么说，还是先检查一下包裹，口粮......
+[name="量杯"]这、这……她都说了有牙兽就有猎物，我只要在这里安心等着就……
+[name="量杯"]不管怎么说，还是先检查一下包裹，口粮……
 [name="量杯"]一点都不剩了？！
 [Dialog]
 [charslot]
@@ -573,7 +573,7 @@
 [charslot(slot="m",name="avg_npc_970_1#1$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
-[name="量杯"]呼、呼、呼......子月！子月！你在哪——
+[name="量杯"]呼、呼、呼……子月！子月！你在哪——
 [Dialog]
 [charslot]
 [name="子月"]别过来！
@@ -585,7 +585,7 @@
 [name="量杯"]那你也不能抛下我——
 [Dialog]
 [charslot]
-[name="子月"]......这个笨蛋！
+[name="子月"]……这个笨蛋！
 [name="子月"]我不是在给我自己打猎，是在给我们两个打猎——
 [Dialog]
 [PlaySound(key="$d_avg_monsterroar",volume=1)]
@@ -614,15 +614,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]......牙兽群？你们不应该是朋友吗？
+[name="量杯"]……牙兽群？你们不应该是朋友吗？
 [charslot(slot="r",name="avg_4014_lunacu_1#8$2",focus="r")]
 [name="子月"]我怎么可能和叙拉古荒野上的每一群牙兽都搞好关系啊。是他们自己没能耐捕沙地兽，就来抢别人的东西，哼。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]那你......至少和它们谈谈？
+[name="量杯"]那你……至少和它们谈谈？
 [charslot(slot="r",name="avg_4014_lunacu_1#8$2",focus="r")]
 [name="子月"]怎么谈？沙地兽只有一只，要么我们吃，要么他们吃。你想挨饿吗？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]我——我只是觉得要是能和平解决......
+[name="量杯"]我——我只是觉得要是能和平解决……
 [charslot(slot="r",name="avg_4014_lunacu_1#4$2",focus="r")]
 [name="子月"]这是吃不到就要饿死人的问题！
 [name="子月"]你提到演唱会的时候不就不再瞎为别人考虑了吗？现在吃不到沙地兽，我们都会饿死，饿死就没什么演唱会了！
@@ -635,17 +635,17 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#8$2",focus="r")]
 [name="子月"]那好，你哪儿也不用去，就站在原地，我喊“敲”，你就使劲敲你那口铁锅！
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]敲......锅？
+[name="量杯"]敲……锅？
 [charslot(slot="r",name="avg_4014_lunacu_1#4$2",focus="r")]
 [name="子月"]现在我是头狼，听我的！吓他们！让他们害怕！只有你死我活，没有什么和平解决！你不去争，没人会把东西白送给你！
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]......
+[name="量杯"]……
 [charslot(slot="r",name="avg_4014_lunacu_1#8$2",focus="r")]
 [name="子月"]你到底行不行？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]......行！
+[name="量杯"]……行！
 [charslot(slot="r",name="avg_4014_lunacu_1#8$2",focus="r")]
-[multiline(name="子月")]那好......
+[multiline(name="子月")]那好……
 [charslot(slot="r",name="avg_4014_lunacu_1#4$2",focus="r")]
 [multiline(name="子月")]敲！
 [Dialog]
@@ -710,8 +710,8 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#10$2",focus="r")]
 [name="子月"]都走掉了。我们也得赶快把那只沙地兽拖走。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]......好。
-[name="量杯"]还有件事，可能有点伤害你的感情，但那些被射死的牙兽，是不是也可以......？
+[name="量杯"]……好。
+[name="量杯"]还有件事，可能有点伤害你的感情，但那些被射死的牙兽，是不是也可以……？
 [charslot(slot="r",name="avg_4014_lunacu_1#10$2",focus="r")]
 [name="子月"]呼，你终于不像个城市里的人一样扭扭捏捏了。我不知道这么说话在城市里是不是有用，但在荒野上就应该有话直说。
 [name="子月"]不过那些牙兽还是算了吧，这样做会和他们结仇，没必要。
@@ -735,7 +735,7 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]（咀嚼声）只有做饭的手艺是真的没话说。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]（小声）我刚刚明明也发挥了不小的作用......
+[name="量杯"]（小声）我刚刚明明也发挥了不小的作用……
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
 [name="子月"]你说什么？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
@@ -752,14 +752,14 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]你也学会大喊大叫了？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]欸？好像......是啊。
+[name="量杯"]欸？好像……是啊。
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]就该是这样嘛！你说出来，我才知道你到底在想什么。
 [name="子月"]你总是藏着不说，我只会越来越记不住你究竟做了什么好事情。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
 [name="量杯"]那你现在心平气和地告诉我，你觉得我在路上发挥的作用到底有多少？
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
-[name="子月"]唔......
+[name="子月"]唔……
 [Dialog]
 [charslot]
 子月没再说话，而是用小刀把烤架上滋滋冒油的沙地兽后腿切了下来，递给量杯。
@@ -779,16 +779,16 @@
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]不光会大喊大叫，还学会了隐藏踪迹，你学得很快嘛。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]先不说学了什么，我倒确实觉得自己好像......高兴了一些？
+[name="量杯"]先不说学了什么，我倒确实觉得自己好像……高兴了一些？
 [charslot(slot="r",name="avg_4014_lunacu_1#10$1",focus="r")]
 [name="子月"]高兴？那不是很好嘛。吃饱了肚子当然该高兴。说不定等到了新沃尔西尼，你就有资格成为我兽群的一员了。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
 [name="量杯"]“等到了新沃尔西尼”？
-[name="量杯"]呜......
+[name="量杯"]呜……
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
 [name="子月"]你又怎么了？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
-[name="量杯"]演唱会......我的演唱会......
+[name="量杯"]演唱会……我的演唱会……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -812,16 +812,16 @@
 [name="司机"]喂，那边两个家伙，在我车边鬼鬼祟祟的干什么呢——
 [name="司机"]呃——
 [charslot(slot="m",name="avg_4014_lunacu_1#8$1",focus="m")]
-[name="子月"]......这不是收了“工资”又把我们抛在路边的司机吗？量杯，这就是你说的“顺风车”吗？
+[name="子月"]……这不是收了“工资”又把我们抛在路边的司机吗？量杯，这就是你说的“顺风车”吗？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
 [name="量杯"]（耸肩）算是吧。
 [name="量杯"]司机先生，钱我们不用你退，你从这里把我们拉去新沃尔西尼就好，怎么样？
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
-[name="司机"]我也想啊，但这破车在这儿抛锚了，我一个人修不好......
+[name="司机"]我也想啊，但这破车在这儿抛锚了，我一个人修不好……
 [charslot(slot="m",name="avg_4014_lunacu_1#8$1",focus="m")]
 [name="子月"]我们现在有三个人呢。
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
-[name="司机"]这个......
+[name="司机"]这个……
 [charslot(slot="m",name="avg_4014_lunacu_1#8$1",focus="m")]
 [name="子月"]那你就把“纸片”还给量杯，我们各走各的路。
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
@@ -829,7 +829,7 @@
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
 [name="量杯"]她说的是车费。
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
-[name="司机"]......算了，我豁出去了。你们帮我修车，我就咬咬牙把你们送去新沃尔西尼。
+[name="司机"]……算了，我豁出去了。你们帮我修车，我就咬咬牙把你们送去新沃尔西尼。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -872,7 +872,7 @@
 [PlaySound(key="$d_avg_devicebeep",volume=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
-[name="司机"]啧......
+[name="司机"]啧……
 [charslot(slot="m",name="avg_4014_lunacu_1#1$1",focus="m")]
 [name="子月"]量杯，这是什么声音？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
@@ -892,13 +892,13 @@
 [CharacterCutin(widgetID="2",fadetime=0.2,block=false)]
 [delay(time=0.3)]
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
-[name="量杯"]......
+[name="量杯"]……
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
 [name="司机"]哥们儿？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
 [name="量杯"]你说得对。天气这么热，来打把伞。
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
-[name="司机"]多谢多谢......你这伞挺别致啊，好像是拿什么衣服做的？
+[name="司机"]多谢多谢……你这伞挺别致啊，好像是拿什么衣服做的？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
 [name="量杯"]没错，你嘴里那个小姑娘做的。我从她身上学了不少东西。她还要当我的头狼呢，我正在认真考虑这件事情。
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
@@ -915,7 +915,7 @@
 [name="家族成员A的声音"]桑特，你胆子大了，我们的通讯都不接？
 [name="家族成员B的声音"]等不耐烦了吧。没事，我们马上就到，到了就给你修车。
 [name="家族成员B的声音"]等车修好了，你把我们带回在城里大闹了一顿的那两个人被你甩开的地方，他们肯定走不远。
-[name="家族成员B的声音"]等哥几个一人一刀捅过去消了气，他们身上的东西都是你的，你进家族的事也可以提上日程，到时候就有人给你当司机了......
+[name="家族成员B的声音"]等哥几个一人一刀捅过去消了气，他们身上的东西都是你的，你进家族的事也可以提上日程，到时候就有人给你当司机了……
 [Dialog]
 [PlaySound(key="$transmission",volume=0.6)]
 [Delay(time=1.5)]
@@ -925,7 +925,7 @@
 [name="量杯"]（耸肩）就当是最后给这位司机先生一个机会吧，万一他有什么苦衷呢。
 [name="量杯"]桑特先生，车费还给我们，你现在下车。
 [charslot(slot="m",name="avg_npc_696_1#1$1",focus="m")]
-[name="司机"]（咬紧牙关）你们想得美，等大部队一到......
+[name="司机"]（咬紧牙关）你们想得美，等大部队一到……
 [Dialog]
 [PlaySound(key="$gavel2", volume=1)]
 [CameraShake(duration=1, xstrength=40, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -948,7 +948,7 @@
 [name="子月"]你看，和我说的一样，在荒野上，你不去争，没人会把东西白送给你。
 [name="子月"]要不要认真考虑一下，加入我的兽群？
 [charslot(slot="m",name="avg_npc_970_1#1$1",focus="m")]
-[name="量杯"]我之后会考虑的，不过现在......
+[name="量杯"]我之后会考虑的，不过现在……
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="量杯"]新沃尔西尼，我来了！！
 [Dialog]
@@ -971,21 +971,21 @@
 [name="量杯"]大！帝！大！帝！大！帝！大！帝！
 [name="量杯"]子月！我爱死你了！我们真的准时抵达了！你真是我这一路的福星！
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
-[name="子月"]啊......嗯。
-[name="子月"]你来新沃尔西尼......就是为了看他？
+[name="子月"]啊……嗯。
+[name="子月"]你来新沃尔西尼……就是为了看他？
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
 [name="量杯"]你是说看谁？
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
 [name="子月"]还能有谁？台上那个。
 [charslot(slot="l",name="avg_npc_970_1#1$1",focus="l")]
 [name="量杯"]对啊！你难道不认识大帝吗？我从上学开始就在追他了，他的每一张黑胶我都有，他——等演唱会结束了我再给你讲！
-[name="量杯"]大！帝！大！帝！大！帝！大！帝......
+[name="量杯"]大！帝！大！帝！大！帝！大！帝……
 [charslot(slot="r",name="avg_4014_lunacu_1#6$1",focus="r")]
 [name="子月"]阿涅塞，量杯差点丢了命，就为了看那家伙在台上乱喊乱叫？
 [name="子月"]那你为什么不直接在我们出发前把那家伙叫过来？早点让他给量杯喊两句不就好了吗？
-[name="子月"]......等我能理解量杯的行为，你的目的就算是达到了？
+[name="子月"]……等我能理解量杯的行为，你的目的就算是达到了？
 [charslot(slot="r",name="avg_4014_lunacu_1#1$1",focus="r")]
-[name="子月"]好吧......反正我现在理解不了。好吵啊。
+[name="子月"]好吧……反正我现在理解不了。好吵啊。
 [Dialog]
 [charslot]
 大帝在台上跟着节奏说唱，狂热的粉丝们在台下呼喊、尖叫、摇摆身体。

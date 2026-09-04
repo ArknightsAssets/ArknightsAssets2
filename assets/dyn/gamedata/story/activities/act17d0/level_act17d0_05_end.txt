@@ -29,11 +29,11 @@
 [delay(time=2.5)]
 [PlayMusic(intro="$tense_intro", key="$tense_loop", volume=0.4)]
 [character(name="avg_npc_166")]
-[name="黑"]......有人来了。
+[name="黑"]……有人来了。
 [character(name="char_503_rang")]
 [name="巡林者"]有多少？
 [character(name="avg_npc_166")]
-[name="黑"]......十几个人，可能是雇佣兵。
+[name="黑"]……十几个人，可能是雇佣兵。
 [character(name="char_503_rang")]
 [name="巡林者"]不要和他们缠斗。快！往安全屋方向！
 [PlaySound(key="$rungeneral")]
@@ -54,7 +54,7 @@
 [delay(time=2)]
 [name="巡林者"]他们还跟着？
 [character(name="avg_npc_166")]
-[name="黑"]......是的。
+[name="黑"]……是的。
 [character(name="char_503_rang")]
 [name="巡林者"]不太对劲。
 [character(name="char_456_ash_1#2")]
@@ -89,13 +89,13 @@
 [character(name="char_456_ash_1#2",name2="char_459_tachak_1",focus=1)]
 [name="灰烬"]追兵。准备战斗。
 [character(name="avg_npc_166")]
-[name="黑"]......不对。
-[name="黑"]......不要开枪......
+[name="黑"]……不对。
+[name="黑"]……不要开枪……
 [character(name="char_459_tachak_1")]
 [name="战车"]怎么了？
 [character(name="avg_npc_166")]
-[name="黑"]......他们不是那些雇佣兵。
-[name="黑"]......是瑞柏巴军人......
+[name="黑"]……他们不是那些雇佣兵。
+[name="黑"]……是瑞柏巴军人……
 [character(name="char_503_rang")]
 [name="巡林者"]是本地卫兵？
 [name="巡林者"]不要动手！
@@ -113,7 +113,7 @@
 [PlaySound(key="$rungeneral")]
 [delay(time=1)]
 [name="闪击"]等等，我们是不是被包围了。
-[name="巡林者"]......情况不太妙。
+[name="巡林者"]……情况不太妙。
 [name="雷蛇"]领主卫队为什么要包围我们？
 [name="巡林者"]你们先别说话。
 [dialog]
@@ -172,7 +172,7 @@
 [name="巡林者"]皮加尔大人。
 [name="巡林者"]老夫是罗德岛外勤干员，代号巡林者。
 [name="巡林者"]罗德岛与您的家族应当签署过相关的协议。
-[name="巡林者"]我们是......
+[name="巡林者"]我们是……
 [dialog]
 [character]
 [character(name="avg_npc_159_1#2")]
@@ -208,14 +208,14 @@
 [name="米亚罗"]皮加尔大人！
 [name="米亚罗"]我是感染者社区的米亚罗医生！你以前见过我！
 [character(name="avg_npc_159_1#1")]
-[name="皮加尔"]......是你，我认得你。
+[name="皮加尔"]……是你，我认得你。
 [Character(name="avg_npc_160_1#3")]
 [name="米亚罗"]罗德岛没有劫掠感染者，我可以作证！我们是被那些暴徒赶到这里来的。
 [name="米亚罗"]不止是我，这里的其他感染者也可以作证。
 [name="米亚罗"]皮加尔大人，请您相信我。
 [character(name="avg_npc_159_1#1")]
-[name="皮加尔"]......
-[name="皮加尔"]......我相信你，医生，很多人都讲述过你的故事。
+[name="皮加尔"]……
+[name="皮加尔"]……我相信你，医生，很多人都讲述过你的故事。
 [Character(name="avg_npc_160_1#3")]
 [name="米亚罗"]谢谢您，皮加尔大人。
 [character(name="avg_npc_159_1#2")]
@@ -232,7 +232,7 @@
 [name="皮加尔"]我不追究你们私携武装的责任！
 [name="皮加尔"]至于罗德岛！你们与我父亲签署的合同，即日内作废。
 [character(name="char_503_rang")]
-[name="巡林者"]......请您三思。
+[name="巡林者"]……请您三思。
 [dialog]
 [character(name="avg_npc_159_1#2")]
 [name="皮加尔"]这件事没什么值得商量的！
@@ -240,12 +240,12 @@
 [name="皮加尔"]我会带走所有的感染者，将他们安置在合适的地方。
 [name="皮加尔"]其余的你们不需过问。
 [character(name="avg_npc_156_1#1")]
-[name="雷蛇"]可是......
+[name="雷蛇"]可是……
 [character(name="char_503_rang")]
 [name="巡林者"]好了，别说了。
 [name="巡林者"]不要忤逆本地领主，这里是萨尔贡，别忘了我们现在代表罗德岛的立场。
 [character(name="avg_npc_156_1#1")]
-[name="雷蛇"]......
+[name="雷蛇"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -256,10 +256,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=2)]
 [PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.3)]
-[name="领主卫兵"]四十一、四十二......
+[name="领主卫兵"]四十一、四十二……
 [name="领主卫兵"]还有其他人吗？
 [Character(name="avg_npc_160_1#3")]
-[name="米亚罗"]就这些了......
+[name="米亚罗"]就这些了……
 [dialog]
 [character]
 [name="领主卫兵"]没事，接下来你们就安全了。
@@ -278,31 +278,31 @@
 [character(name="char_459_tachak_1",name2="avg_npc_160_1#3",focus=1)]
 [name="战车"]不要搞得这么悲伤。
 [name="战车"]咱们以后说不定还会再见面呢。
-[name="战车"]下次我还得给你讲一讲......
+[name="战车"]下次我还得给你讲一讲……
 [dialog]
 [character]
 [name="领主卫兵"]？
 [character(name="char_459_tachak_1",name2="avg_npc_160_1#3",focus=1)]
-[name="战车"]咳咳......狗头人的故事呢。
+[name="战车"]咳咳……狗头人的故事呢。
 [character(name="char_459_tachak_1",name2="avg_npc_160_1#3",focus=2)]
-[name="米亚罗"]哈哈哈......好的。
+[name="米亚罗"]哈哈哈……好的。
 [dialog]
 [Character]
 [delay(time=1)]
 [character(name="char_503_rang",name2="avg_npc_160_1#3",focus=1)]
 [name="巡林者"]医生，这个是给你的。
 [character(name="char_503_rang",name2="avg_npc_160_1#1",focus=2)]
-[name="米亚罗"]这是......源石锭，这我不能......
+[name="米亚罗"]这是……源石锭，这我不能……
 [character(name="char_503_rang",name2="avg_npc_160_1#1",focus=1)]
 [name="巡林者"]是报酬，你替奥克芬治好了腿，这是罗德岛给你的酬金。
 [character(name="char_503_rang",name2="avg_npc_160_1#1",focus=2)]
-[name="米亚罗"]那只是简单的急救处理......不值这么多钱......
+[name="米亚罗"]那只是简单的急救处理……不值这么多钱……
 [character(name="char_503_rang",name2="avg_npc_160_1#1",focus=1)]
 [name="巡林者"]我认为是值得的，收下吧。
 [character(name="char_503_rang",name2="avg_npc_160_1#1",focus=2)]
 [name="米亚罗"]谢谢您，巡林者先生。
 [character(name="avg_npc_160_1#3")]
-[name="米亚罗"]最后......谢谢各位。
+[name="米亚罗"]最后……谢谢各位。
 [character(name="avg_npc_160_1#4")]
 [name="米亚罗"]再见。
 [dialog]
@@ -310,9 +310,9 @@
 [stopmusic(fadetime=1)]
 [delay(time=1)]
 [character(name="avg_npc_166",name2="char_503_rang",focus=1)]
-[name="黑"]......
+[name="黑"]……
 [character(name="avg_npc_166",name2="char_503_rang",focus=2)]
-[name="巡林者"]......
+[name="巡林者"]……
 [character(name="avg_npc_166",name2="char_503_rang",focus=1)]
 [name="黑"]这事情不对劲。
 [character(name="avg_npc_166",name2="char_503_rang",focus=2)]
@@ -325,33 +325,33 @@
 [character(name="avg_npc_155_1#1",name2="avg_npc_156_1#1",focus=2)]
 [name="雷蛇"]接下来怎么办？
 [character(name="avg_npc_012",name2="char_503_rang",focus=1)]
-[name="奥克芬"]安全屋里的东西......基本都被他们收缴了。
+[name="奥克芬"]安全屋里的东西……基本都被他们收缴了。
 [character(name="avg_npc_012",name2="char_503_rang",focus=2)]
 [name="巡林者"]至少大家毫发无伤，这已经是不幸中的万幸了。
 [name="巡林者"]奥克芬先生和我们一起出发吧，你可以先在办事处那边登记，我们向本舰联络之后，再一起商量后续行动。
 [character(name="avg_npc_012",name2="char_503_rang",focus=1)]
 [name="奥克芬"]也只能这样了。
 [character(name="avg_npc_166",name2="char_503_rang",focus=1)]
-[name="黑"]......我有点不放心。
+[name="黑"]……我有点不放心。
 [character(name="avg_npc_166",name2="char_503_rang",focus=2)]
 [name="巡林者"]你指什么。
 [PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
 [character(name="avg_npc_166")]
-[name="黑"]......这个叫皮加尔的人......有没有可能她才是这一切的始作俑者？
+[name="黑"]……这个叫皮加尔的人……有没有可能她才是这一切的始作俑者？
 [name="黑"]领主迟迟没有出现，雇佣兵一直想要绑架这些感染者。
-[name="黑"]......现在来了一个卫兵队长，名正言顺地带走了所有人。
+[name="黑"]……现在来了一个卫兵队长，名正言顺地带走了所有人。
 [name="黑"]这是不是太巧了？
 [character(name="avg_npc_166",name2="char_503_rang",focus=2)]
-[name="巡林者"]......你说的还真有点道理。
+[name="巡林者"]……你说的还真有点道理。
 [character(name="avg_npc_166",name2="char_503_rang",focus=1)]
-[name="黑"]......我打算尾随......去看看。
+[name="黑"]……我打算尾随……去看看。
 [character(name="char_456_ash_1#6")]
 [name="灰烬"]我也去。
 [character(name="char_503_rang")]
 [name="巡林者"]不，太多人容易引起警觉。
 [name="巡林者"]其他人随时待命。
 [character(name="avg_npc_166",name2="char_503_rang",focus=1)]
-[name="黑"]......
+[name="黑"]……
 [character(name="avg_npc_166",name2="char_503_rang",focus=2)]
 [name="巡林者"]怎么了？
 [character(name="avg_npc_166",name2="char_503_rang",focus=1)]
@@ -360,7 +360,7 @@
 [name="巡林者"]审时度势，不和本地领主发生冲突，不代表我们什么都不做。
 [name="巡林者"]有些时候，一些小诡计是必要的。
 [character(name="avg_npc_166",name2="char_503_rang",focus=1)]
-[name="黑"]......明白了。
+[name="黑"]……明白了。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -384,19 +384,19 @@
 [character(name="avg_npc_159_1#1")]
 [name="皮加尔"]实在不行就让他们住在楼上，把我父亲的房间给他们。
 [character]
-[name="领主卫兵"]这......这合适吗？
+[name="领主卫兵"]这……这合适吗？
 [character(name="avg_npc_159_1#1")]
 [name="皮加尔"]没什么不好，如果父亲还活着他也会这么做的。
 [character]
-[name="领主卫兵"]......我明白了。
+[name="领主卫兵"]……我明白了。
 [character(name="avg_npc_159_1#1")]
 [name="皮加尔"]总之，保持警惕。
 [dialog]
 [delay(time=1)]
 [stopmusic(fadetime=1)]
-[name="皮加尔"]......等等，我们出来的时候把灯都熄灭了？
+[name="皮加尔"]……等等，我们出来的时候把灯都熄灭了？
 [character]
-[name="领主卫兵"]我不记得......
+[name="领主卫兵"]我不记得……
 [dialog]
 [delay(time=1)]
 [character(name="avg_npc_159_1#2")]
@@ -417,7 +417,7 @@
 [dialog]
 [character]
 [PlaySound(key="$bodyfalldown3")]
-[name="源石畸变体"]嘎......
+[name="源石畸变体"]嘎……
 [character(name="avg_npc_159_1#2")]
 [name="皮加尔"]敌袭！保护镇民！
 [dialog]
@@ -477,7 +477,7 @@
 [PlaySound(key="$e_skill_skulsrsword", volume=1)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
 [delay(time=0.51)]
-[name="皮加尔"]呼......这是第几只了？
+[name="皮加尔"]呼……这是第几只了？
 [name="皮加尔"]终于到了。
 [dialog]
 [character]
@@ -493,7 +493,7 @@
 [character(name="avg_npc_159_1#1")]
 [name="皮加尔"]医生！你怎么在这里？
 [Character(name="avg_npc_160_1#2")]
-[name="米亚罗"]别过去！领主宅邸已经被......
+[name="米亚罗"]别过去！领主宅邸已经被……
 [dialog]
 [character]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -506,7 +506,7 @@
 [delay(time=0.7)]
 [character(name="avg_npc_159_1#1")]
 [name="皮加尔"]医生！
-[name="皮加尔"]......
+[name="皮加尔"]……
 [character(name="avg_npc_159_1#2")]
 [name="皮加尔"]德鲁奇！
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -516,9 +516,9 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(name="avg_npc_158_1#2",fadetime=1)]
 [delay(time=2)]
-[name="德鲁奇"]哈哈哈......你的嗓门还是这么大，我亲爱的妹妹。
+[name="德鲁奇"]哈哈哈……你的嗓门还是这么大，我亲爱的妹妹。
 [character(name="avg_npc_159_1#2")]
-[name="皮加尔"]你......你这个恶棍......我饶不了你。
+[name="皮加尔"]你……你这个恶棍……我饶不了你。
 [character(name="avg_npc_158_1#2")]
 [name="德鲁奇"]那就让我看看你有什么本事。
 [dialog]

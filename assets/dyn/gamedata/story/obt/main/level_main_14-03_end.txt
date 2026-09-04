@@ -9,7 +9,7 @@
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_411_1#8$1",duration=1.5)]
 [Delay(time=2)]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [Dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [charslot(slot="m",posfrom="0,0",posto="-200,0",duration=1.5)]
@@ -18,14 +18,14 @@
 [charslot(slot="m",name="avg_npc_411_1#8$1",posfrom="-200,0",posto="-200,0",focus="none")]
 [name="狙击干员"]队长，衍射仪的传感器可能出问题了。
 [charslot(slot="m",name="avg_npc_411_1#8$1",posfrom="-200,0",posto="-200,0",focus="m")]
-[name="可露希尔"]......没坏。
+[name="可露希尔"]……没坏。
 [Dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [charslot(slot="m",name="avg_npc_411_1#8$1",posfrom="-200,0",posto="-200,0",focus="none")]
 [CharacterCutin(widgetID="1", name="avg_npc_088", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=250, width=200, block=true)]
 [name="术师干员"]我就说吧维克多，我的检查结果也是这样。
 [name="术师干员"]显示不了有效数据，也不一定是仪器出了错，有可能是数据本身超出了区间。
-[name="术师干员"]嗯，源石反应指标，大于......预设上限。
+[name="术师干员"]嗯，源石反应指标，大于……预设上限。
 [Dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [CharacterCutin(widgetID="1", name="avg_npc_012", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=250, width=200, block=true)]
@@ -33,7 +33,7 @@
 [Dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [CharacterCutin(widgetID="1", name="avg_npc_088", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=250, width=200, block=true)]
-[name="术师干员"]维克多年龄最小，我们要是用上所有办法，应该还能给他争取一个逃生机会......
+[name="术师干员"]维克多年龄最小，我们要是用上所有办法，应该还能给他争取一个逃生机会……
 [Dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [CharacterCutin(widgetID="1", name="avg_npc_089", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=250, width=200, block=true)]
@@ -62,7 +62,7 @@
 [name="术师干员"]队长啊，你让自救军撤退的时候，就知道了吧？那是最后的窗口期了。
 [charslot(slot="m",name="avg_npc_411_1#8$1",posfrom="-200,0",posto="-200,0",focus="m")]
 [name="可露希尔"]源石活动数据还没有拟合完毕。
-[name="可露希尔"]我需要......各位的数据。
+[name="可露希尔"]我需要……各位的数据。
 [Dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [charslot(slot="m",name="avg_npc_411_1#8$1",posfrom="-200,0",posto="-200,0",focus="none")]
@@ -70,11 +70,11 @@
 [name="近卫干员"]可露希尔，阿米娅不在，你就是我的队长。
 [name="近卫干员"]在来伦蒂尼姆之前，我们每一个人都和阿米娅聊过的。
 [name="近卫干员"]阻止战争，同时拯救维多利亚人和萨卡兹？说真的，就靠我们，这该有多难啊？
-[name="近卫干员"]可我还是选择相信你们，相信......罗德岛的理想。
+[name="近卫干员"]可我还是选择相信你们，相信……罗德岛的理想。
 [name="近卫干员"]哪个罗德岛干员不想看见矿石病被治好，大家的日子过得越来越好的那一天？这在大多数人眼里不也是笑话吗？
-[name="近卫干员"]非要说......死在这里，我真觉得有点亏。
+[name="近卫干员"]非要说……死在这里，我真觉得有点亏。
 [charslot(slot="m",name="avg_npc_411_1#9$1",posfrom="-200,0",posto="-200,0",focus="m")]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [Dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [charslot(slot="m",name="avg_npc_411_1#9$1",posfrom="-200,0",posto="-200,0",focus="none")]
@@ -85,9 +85,9 @@
 [charslot(slot="m",name="avg_npc_411_1#9$1",posfrom="-200,0",posto="-200,0",focus="none")]
 [CharacterCutin(widgetID="1", name="avg_npc_088", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=250, width=200, block=true)]
 [name="术师干员"]收到了。队长，新一批的数据传给你了。
-[name="术师干员"]哦对，我也没那么无私......发论文的时候带一下我的名字。
+[name="术师干员"]哦对，我也没那么无私……发论文的时候带一下我的名字。
 [charslot(slot="m",name="avg_npc_411_1#9$1",posfrom="-200,0",posto="-200,0",focus="m")]
-[name="可露希尔"]......好。
+[name="可露希尔"]……好。
 [Dialog]
 [playsound(key="$d_avg_recorderglitch",volume=1,channel="1",loop=true)]
 [charslot(slot="m",name="avg_npc_411_1#9$1",posfrom="-200,0",posto="-200,0",focus="none")]
@@ -95,11 +95,11 @@
 [Delay(time=1)]
 “通讯异常，通讯异常，正在失去信号。”
 “能量波动数据传入，自动分析模块启动。”
-“天灾规模已确定，开始计算未来二十四小时内源石环境模拟演变趋势......”
-......
-“滋滋滋......队长，防护罩......损坏......”
-“他们......正在......”
-“小易......坚持......我正在向你移动......滋滋滋......”
+“天灾规模已确定，开始计算未来二十四小时内源石环境模拟演变趋势……”
+……
+“滋滋滋……队长，防护罩……损坏……”
+“他们……正在……”
+“小易……坚持……我正在向你移动……滋滋滋……”
 “滋滋滋——”
 [Dialog]
 [stopsound(channel="1")]
@@ -111,7 +111,7 @@
 [charslot(slot="m",posfrom="-200,0",posto="0,0",duration=1.5)]
 [Delay(time=2)]
 [charslot(slot="m",name="avg_npc_411_1#8$1")]
-[name="可露希尔"]......
+[name="可露希尔"]……
 [name="可露希尔"]我会的。
 [Dialog]
 [charslot]
@@ -121,7 +121,7 @@
 快一些，再快一些。如果不能将这片战场的源石活动数据拟合完毕，小队所有的努力都会白费。
 在她四周，战争的咆哮正越来越近。
 无人机所剩无几，她已经能感觉到敌人冰冷的呼吸。
-“......模型拟合成功。”
+“……模型拟合成功。”
 “正在输出安全区位置——”
 [charslot(slot="m",name="avg_npc_411_1#11$1")]
 [name="可露希尔"]终于，成功了！
@@ -143,7 +143,7 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_1331_1#1$1",duration=0.5)]
 [delay(time=0.5)]
-[name="“灵幛”"]......血魔。叛徒。
+[name="“灵幛”"]……血魔。叛徒。
 [name="“灵幛”"]战争不会停止，你会成为养料。
 [Dialog]
 [charslot]
@@ -196,7 +196,7 @@
 [charslot(slot="m",name="avg_npc_411_1#4$1")]
 [name="可露希尔"]闭嘴，我知道！
 [charslot(slot="m",name="avg_npc_411_1#11$1")]
-[name="可露希尔"]可露希尔，你不是血魔吗，修复伤口啊！多扛一会，至少再久一点点......
+[name="可露希尔"]可露希尔，你不是血魔吗，修复伤口啊！多扛一会，至少再久一点点……
 [name="可露希尔"]只要把这玩意竖起来——
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -218,18 +218,18 @@
 [PlayMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[Subtitle(text="......又累得在走廊上睡着了？你这样会生病的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……又累得在走廊上睡着了？你这样会生病的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="罗德岛的基本功能都上线了，接下来，大概可以试试看远航了吧？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="谢谢你，我的首席工程师，我们最初的约定达成了。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="如果你想离开这艘船，回到卡兹戴尔......嗯，我知道的，你对那里不感兴趣。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="如果你想离开这艘船，回到卡兹戴尔……嗯，我知道的，你对那里不感兴趣。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="但能不能答应我，不要再说自己是毫无源石技艺天赋的血魔？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="可露希尔，你是我见过最有天赋的人。你只是，和别的血魔有些不一样。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="这样吧，只要你仍想看看更广阔的、从未见过的大地，那我们就永远是同行者。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [playsound(key="$d_avg_clothmovement",volume=1)]
 [Delay(time=0.5)]
-[name="可露希尔"]（不要辜负......不能辜负......）
-[name="可露希尔"]（不想对不起所有人......）
+[name="可露希尔"]（不要辜负……不能辜负……）
+[name="可露希尔"]（不想对不起所有人……）
 [name="可露希尔"]（还有自己。）
 [Dialog]
 [playsound(key="$d_avg_cnstrctnck",volume=1)]
@@ -245,9 +245,9 @@
 [Delay(time=0.5)]
 [playsound(key="$d_avg_clothmovement",volume=1)]
 [Delay(time=0.5)]
-[name="可露希尔"]谁......
+[name="可露希尔"]谁……
 [name="可露希尔"]谁还活着？
-[name="可露希尔"]信号......通讯信号在亮......
+[name="可露希尔"]信号……通讯信号在亮……
 [name="可露希尔"]罗德岛的信号。
 [Dialog]
 [stopmusic(fadetime=1.5)]
@@ -255,7 +255,7 @@
 [Delay(time=1.5)]
 [name="？？？"]可露希尔，抓住我的手！
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",bstart=0.3,bend=0.5,focus="none")]
-[name="可露希尔"]......杜宾？
+[name="可露希尔"]……杜宾？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=1, g=1, b=1, fadetime=2, block=true)]
@@ -271,7 +271,7 @@
 [name="芬"]是我。
 [name="芬"]还有力气吗？
 [charslot(slot="l",name="avg_npc_411_1#9$1",focus="l")]
-[name="可露希尔"]芬......
+[name="可露希尔"]芬……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1331_1#1$1")]
@@ -318,7 +318,7 @@
 有人说得很具体，有人却只是支支吾吾，最后挠挠头，露出一个微笑。
 但在某种时刻，所有的人都会露出一样的表情。
 在某种时刻，所有的人都会做出一样的选择。
-[name="可露希尔"]差的这最后一点点......补上了。
+[name="可露希尔"]差的这最后一点点……补上了。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -375,22 +375,22 @@
 [charslot]
 [charslot(slot="l",name="avg_222_bpipe_1#8",focus="r")]
 [charslot(slot="r",name="avg_npc_229_1#1",focus="r")]
-[name="号角"]......风笛。
+[name="号角"]……风笛。
 [charslot(slot="l",name="avg_222_bpipe_1#8",focus="l")]
 [name="风笛"]嗯嗯？我在。
 [charslot(slot="r",name="avg_npc_229_1#1",focus="r")]
-[name="号角"]高多汀公爵说得没错，“风暴突击队”......本来就是议会直属的部队。
+[name="号角"]高多汀公爵说得没错，“风暴突击队”……本来就是议会直属的部队。
 [name="号角"]听从议会的命令，是我们的职责。
 [charslot(slot="r",name="avg_npc_229_1#2",focus="r")]
-[name="号角"]这比公爵的邀请......更具有正当性。
+[name="号角"]这比公爵的邀请……更具有正当性。
 [name="号角"]更不必说，答应他的话，你、罗本，还有许多不得已跟着我们行动的残兵，所有人的身份问题都能得到解决。
 [charslot(slot="l",name="avg_222_bpipe_1#8",focus="l")]
 [name="风笛"]身份问题？队长，你忘了吗，我本来就退役了呀。
-[name="风笛"]而且......你刚刚站在推进之王身前架起盾的时候，可是一点犹豫都没有欸。
+[name="风笛"]而且……你刚刚站在推进之王身前架起盾的时候，可是一点犹豫都没有欸。
 [charslot(slot="r",name="avg_npc_229_1#2",focus="r")]
-[name="号角"]......嗯。
+[name="号角"]……嗯。
 [charslot(slot="l",name="avg_222_bpipe_1#7",focus="l")]
-[name="风笛"]他们说啊，推进之王带着诸王之息......队长，你见过诸王之息吗？
+[name="风笛"]他们说啊，推进之王带着诸王之息……队长，你见过诸王之息吗？
 [charslot(slot="r",name="avg_npc_229_1#1",focus="r")]
 [name="号角"]见过。
 [name="号角"]推进之王说得对，那只是一根有些意义的“铁条”而已。
@@ -398,11 +398,11 @@
 [charslot]
 [charslot(slot="l",name="avg_4110_delphn_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_npc_396_1#1$1",focus="r")]
-[name="达格达"]推进之王，有队伍正在迅速从侧翼接近......
+[name="达格达"]推进之王，有队伍正在迅速从侧翼接近……
 [charslot(slot="l",name="avg_4110_delphn_1#8$1",focus="l")]
-[name="戴菲恩"]......他们没有识别码，但我认得出来，是高多汀公爵的步兵。
+[name="戴菲恩"]……他们没有识别码，但我认得出来，是高多汀公爵的步兵。
 [charslot(slot="l",name="avg_4110_delphn_1#7$1",focus="l")]
-[name="戴菲恩"]他们开始正式与萨卡兹交战......并且，刚刚掩护了我们的一支小队。
+[name="戴菲恩"]他们开始正式与萨卡兹交战……并且，刚刚掩护了我们的一支小队。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avgnew_112_siege_1#1$2",focus="m")]
@@ -426,22 +426,22 @@
 [name="高级军官"]公爵阁下，高速军舰已经起航，我们已经暂时脱离危险。
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
 [name="高多汀公爵"]挺好。
-[name="高多汀公爵"]萨卡兹使用的巫术确实千奇百怪。与其让他们不断地骚扰我们的后方，还不如......露出点破绽。
+[name="高多汀公爵"]萨卡兹使用的巫术确实千奇百怪。与其让他们不断地骚扰我们的后方，还不如……露出点破绽。
 [charslot(slot="m",name="avg_npc_409_1#1$1",focus="m")]
 [name="高级军官"]从作战情况来看，“食腐者”的头领，还有其他已知的拥有强大作战能力的萨卡兹并没有现身此处。
 [charslot(slot="m",name="avg_npc_1068_1#7$1",focus="m")]
 [name="高多汀公爵"]唉，在他们眼里，高多汀的威胁性，大概远不及温德米尔和威灵顿吧。
 [charslot(slot="m",name="avg_npc_1068_1#9$1",focus="m")]
-[name="高多汀公爵"]这倒是......值得庆幸。
+[name="高多汀公爵"]这倒是……值得庆幸。
 [charslot(slot="m",name="avg_npc_409_1#1$1",focus="m")]
 [name="高级军官"]阁下，诸王之息仍未离开吉布森镇。是否启动后续计划？
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
 [name="高多汀公爵"]你怎么看？
 [charslot(slot="m",name="avg_npc_409_1#1$1",focus="m")]
-[name="高级军官"]比预想中的要多花一些功夫，亚历山德莉娜的队伍在逐渐壮大，作战能力也比先前估计的要强一些......
+[name="高级军官"]比预想中的要多花一些功夫，亚历山德莉娜的队伍在逐渐壮大，作战能力也比先前估计的要强一些……
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
 [name="高多汀公爵"]啊，我问的并不是作为对手的看法。
-[name="高多汀公爵"]“典范军”......你也说了，他们打得有模有样的。
+[name="高多汀公爵"]“典范军”……你也说了，他们打得有模有样的。
 [name="高多汀公爵"]他们和我们留下的那些部队的协同，也还不错。
 [charslot(slot="m",name="avg_npc_1068_1#9$1",focus="m")]
 [name="高多汀公爵"]丽塔和他们待在一块儿，看起来还真比她爸爸更像传说中的白狼。温德米尔家的小姑娘也没情报里那么娇弱。
@@ -452,7 +452,7 @@
 [charslot(slot="m",name="avg_npc_1068_1#8$1",focus="m")]
 [name="高多汀公爵"]哈哈，怎么能说成放弃呢？
 [charslot(slot="m",name="avg_npc_1068_1#1$1",focus="m")]
-[name="高多汀公爵"]既然高多汀重视的是将来，那以后的路上，“亚历山德莉娜”“诸王之息”“典范军”，甚至“罗德岛”......都未必不会与我们同行。
+[name="高多汀公爵"]既然高多汀重视的是将来，那以后的路上，“亚历山德莉娜”“诸王之息”“典范军”，甚至“罗德岛”……都未必不会与我们同行。
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -464,9 +464,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_396_1#1$1",focus="m")]
-[name="达格达"]......我们的战车正在镇子东面和最后一批萨卡兹交战。
+[name="达格达"]……我们的战车正在镇子东面和最后一批萨卡兹交战。
 [charslot(slot="m",name="avg_npc_396_1#2$1",focus="m")]
-[name="达格达"]吉布森镇算是守住了。这里可以被当作通往银石崖前线的补给点，但是......
+[name="达格达"]吉布森镇算是守住了。这里可以被当作通往银石崖前线的补给点，但是……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]地形变了。
 [charslot(slot="m",name="avgnew_112_siege_1#2$1",focus="m")]
@@ -476,20 +476,20 @@
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
 [name="摩根"]说真的，要不是我知道罗德岛的情报不可能出错，我都不敢相信这是我们的伦蒂尼姆。
 [charslot(slot="m",name="avg_npc_405_1#8$1",focus="m")]
-[name="摩根"]田野的微风弥漫温暖♪♫朝阳照耀我们的家♬♪......
+[name="摩根"]田野的微风弥漫温暖♪♫朝阳照耀我们的家♬♪……
 [charslot(slot="m",name="avg_npc_405_1#1$1",focus="m")]
 [name="摩根"]恐怕到时候，就连国歌的歌词都得变一变了。
 [charslot(slot="m",name="avg_155_tiger_1#7$1",focus="m")]
-[name="因陀罗"]......你还有心情开玩笑！
+[name="因陀罗"]……你还有心情开玩笑！
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
 [name="摩根"]“打回去再考虑”，你一定想说这个。
-[name="摩根"]可就算我们真的回去了......我们的家还能回到以前的样子吗？
+[name="摩根"]可就算我们真的回去了……我们的家还能回到以前的样子吗？
 [charslot(slot="m",name="avg_155_tiger_1#2$1",focus="m")]
-[name="因陀罗"]......
+[name="因陀罗"]……
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
 [name="推进之王"]所以我们不仅要赢得这场战争。
 [charslot(slot="m",name="avgnew_112_siege_1#6$1",focus="m")]
-[name="推进之王"]我们还不能看着萨卡兹......用战争彻底毁掉伦蒂尼姆。
+[name="推进之王"]我们还不能看着萨卡兹……用战争彻底毁掉伦蒂尼姆。
 [charslot(slot="m",name="avgnew_112_siege_1#2$1",focus="m")]
 [name="推进之王"]前面的风暴，我们会闯过去。
 [charslot(slot="m",name="avgnew_112_siege_1#1$1",focus="m")]
@@ -526,20 +526,20 @@
 [charslot(slot="r",name="avgnew_112_siege_1#9$1",focus="r")]
 [name="推进之王"]和他的同僚一样，高多汀公爵也抛下了感染者士兵？
 [charslot(slot="l",name="avg_4110_delphn_1#7$1",focus="l")]
-[name="戴菲恩"]嗯......又或者......
+[name="戴菲恩"]嗯……又或者……
 [charslot(slot="r",name="avgnew_112_siege_1#9$1",focus="r")]
 [name="推进之王"]又或者，他故意筛选了一批不幸感染的战士，把他们送到我们的队伍里。
 [charslot(slot="l",name="avg_4110_delphn_1#7$1",focus="l")]
 [name="戴菲恩"]我猜他的确不怀好意。
 [name="戴菲恩"]从高多汀的军队在吉布森镇的表现来看，这批感染者士兵和我们过去遇见的那些不一样，很难被称为“残兵”。
-[name="戴菲恩"]假如高多汀的目的是跟踪、监视我们，那我们最好想办法把这群人甩开。实在甩不开，就在战术上隔离......
+[name="戴菲恩"]假如高多汀的目的是跟踪、监视我们，那我们最好想办法把这群人甩开。实在甩不开，就在战术上隔离……
 [charslot(slot="r",name="avgnew_112_siege_1#9$1",focus="r")]
-[name="推进之王"]......不。
+[name="推进之王"]……不。
 [charslot(slot="r",name="avgnew_112_siege_1#12$1",focus="r")]
 [name="推进之王"]戴菲恩，你比我更懂大公爵的手段。我明白，你的猜测极有可能是正确的。
 [name="推进之王"]但眼下我们正是需要团结的时候。
 [charslot(slot="r",name="avgnew_112_siege_1#6$1",focus="r")]
-[name="推进之王"]如果连典范军都会筛选哪一部分维多利亚是该被“团结”的......
+[name="推进之王"]如果连典范军都会筛选哪一部分维多利亚是该被“团结”的……
 [name="推进之王"]那我们希冀的未来，又怎么可能成立呢？
 [charslot(slot="l",name="avg_4110_delphn_1#7$1",focus="l")]
 [name="戴菲恩"]高多汀很可能就是料到了典范军无法拒绝接纳那些战士，才轻易放我们离开。
@@ -547,7 +547,7 @@
 [name="推进之王"]那就做好应对的准备。
 [name="推进之王"]我们这一路，还会遇到很多挑战。
 [charslot(slot="r",name="avgnew_112_siege_1#2$1",focus="r")]
-[name="推进之王"]萨卡兹，“阿喃那”......还有开斯特，以及其他大公爵。
+[name="推进之王"]萨卡兹，“阿喃那”……还有开斯特，以及其他大公爵。
 [charslot(slot="r",name="avgnew_112_siege_1#1$1",focus="r")]
 [name="推进之王"]典范军要闯过的“风暴”，不可能只有一种。
 [charslot(slot="l",name="avg_4110_delphn_1#1$1",focus="l")]
@@ -556,7 +556,7 @@
 [name="戴菲恩"]其实，有新人加入，大家都是高兴大于担忧的。
 [charslot(slot="r",name="avgnew_112_siege_1#12$1",focus="r")]
 [name="推进之王"]而且，他们都是感染者。
-[name="推进之王"]如果他们真的没有被高多汀抛弃......这难道不也值得我们高兴吗？
+[name="推进之王"]如果他们真的没有被高多汀抛弃……这难道不也值得我们高兴吗？
 [charslot(slot="r",name="avgnew_112_siege_1#6$1",focus="r")]
 [name="推进之王"]不可能发生的“联合”，在未来，说不定会变成现实。
 [Dialog]
@@ -570,14 +570,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_243",focus="m")]
-[name="痛苦的难民"]......能遇到像你们一样的人，真是奇迹啊。
+[name="痛苦的难民"]……能遇到像你们一样的人，真是奇迹啊。
 [charslot(slot="m",name="avg_1036_fang2_1#8$1",focus="m")]
 [name="芬"]女士，“奇迹”不是我们带来的。
 [name="芬"]你们直到最后一刻都没有放弃，这才创造了属于你们自己的“奇迹”。
 [charslot(slot="m",name="avg_npc_243",focus="m")]
 [name="痛苦的难民"]不管您怎么说，都请让我好好感谢您吧。
 [name="痛苦的难民"]我的身体还撑得住，我会帮您一起安置更需要帮助的人。
-[name="痛苦的难民"]您也能稍微休息一下......仔细看看，您也就和我的孩子差不多大啊。
+[name="痛苦的难民"]您也能稍微休息一下……仔细看看，您也就和我的孩子差不多大啊。
 [Dialog]
 [playsound(key="$d_gen_walk_n",volume=1)]
 [charslot(duration=1.5)]
@@ -585,38 +585,38 @@
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",focus="m")]
 [name="芬"]在去下一个地点实施救援之前，我们可以休整十分钟。
 [charslot(slot="m",name="avg_1036_fang2_1#4$1",focus="m")]
-[name="芬"]......可露希尔？
+[name="芬"]……可露希尔？
 [charslot(slot="m",name="avg_npc_411_1#9$1",focus="m")]
-[name="可露希尔"]再多给我一点时间......
+[name="可露希尔"]再多给我一点时间……
 [charslot(slot="m",name="avg_1036_fang2_1#8$1",focus="m")]
 [name="芬"]你握着的通讯施术单元够完美了。
 [name="芬"]就算Raidian和Mechanist见了，也很难再提出什么改进意见。
 [charslot(slot="m",name="avg_npc_411_1#9$1",focus="m")]
-[name="可露希尔"]......接下来的源石环境还会更恶劣。我做得更好一点，你们就能更安全一些。
+[name="可露希尔"]……接下来的源石环境还会更恶劣。我做得更好一点，你们就能更安全一些。
 [charslot(slot="m",name="avg_1036_fang2_1#8$1",focus="m")]
-[name="芬"]嗯......谢谢。
+[name="芬"]嗯……谢谢。
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",focus="m")]
-[name="芬"]吉布森镇附近的搜救工作已接近尾声。接下来我们会去搜索......你的工程小队最后失踪的地点。
+[name="芬"]吉布森镇附近的搜救工作已接近尾声。接下来我们会去搜索……你的工程小队最后失踪的地点。
 [charslot(slot="m",name="avg_npc_411_1#9$1",focus="m")]
 [name="可露希尔"]好。
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",focus="m")]
 [name="芬"]无论这几位干员是否牺牲，我们都会去一一确认。
-[name="芬"]埋在沙暴中、被源石吞噬......都不会毫无痕迹。
+[name="芬"]埋在沙暴中、被源石吞噬……都不会毫无痕迹。
 [charslot(slot="m",name="avg_1036_fang2_1#2$1",focus="m")]
 [name="芬"]我们找到他们，带着他们，或者他们的遗物回家。
 [charslot(slot="m",name="avg_npc_411_1#9$1",focus="m")]
-[name="可露希尔"]芬，虽然我清楚自己的想法......但我也想听听更多人的心里话。
+[name="可露希尔"]芬，虽然我清楚自己的想法……但我也想听听更多人的心里话。
 [charslot(slot="m",name="avg_npc_411_1#6$1",focus="m")]
-[name="可露希尔"]一个与眼前战争双方都无关的罗德岛干员，为了萨卡兹和维多利亚人之间的战争而牺牲......是不是真的很遗憾？
+[name="可露希尔"]一个与眼前战争双方都无关的罗德岛干员，为了萨卡兹和维多利亚人之间的战争而牺牲……是不是真的很遗憾？
 [charslot(slot="m",name="avg_1036_fang2_1#5$1",focus="m")]
 [name="芬"]任何任务，只要有牺牲，都很遗憾。
 [name="芬"]Ace大哥牺牲之后，米格鲁抱着他的盾哭了好几夜。
 [name="芬"]为什么偏偏是他，会在那个时间那个地点离开？
 [charslot(slot="m",name="avg_npc_411_1#9$1",focus="m")]
-[name="可露希尔"]......我也每一次都有这种感觉。
-[name="可露希尔"]但是，我想知道的......是牺牲者的感受。
+[name="可露希尔"]……我也每一次都有这种感觉。
+[name="可露希尔"]但是，我想知道的……是牺牲者的感受。
 [charslot(slot="m",name="avg_1036_fang2_1#5$1",focus="m")]
-[name="芬"]唔......自己的遗憾，肯定也会有吧。
+[name="芬"]唔……自己的遗憾，肯定也会有吧。
 [name="芬"]我们都不是不怕死的圣人。可露希尔，你也不是。所以你会为之前的决定感到痛苦。
 [name="芬"]但是，作为参加本次支援行动的人，我不后悔。
 [charslot(slot="m",name="avg_1036_fang2_1#1$1",focus="m")]
@@ -627,7 +627,7 @@
 [charslot(slot="m",name="avg_1036_fang2_1#9$1",focus="m")]
 [name="芬"]今天我来到这里，是因为我知道，当我的故乡和我在意的人陷入危难的时候，你们也会来。
 [charslot(slot="m",name="avg_npc_411_1#1$1",focus="m")]
-[name="可露希尔"]......嗯。
+[name="可露希尔"]……嗯。
 [charslot(slot="m",name="avg_npc_411_1#3$1",focus="m")]
 [name="可露希尔"]是啊，我们一定会来。
 [Dialog]
@@ -636,12 +636,12 @@
 [Subtitle(text="罗德岛，“我们”。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="很小的时候，我就开始沉迷网络。因为我觉得，网络之外的空间，都充满了隔阂。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="别的血魔小孩和我，血魔和其他萨卡兹，萨卡兹和所有种族。天灾，国家，阶级，疾病。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="直到她......直到特蕾西娅把我拉出家门。她让我看到了另一种可能性。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="直到她……直到特蕾西娅把我拉出家门。她让我看到了另一种可能性。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="一艘可以在灾难中行进的船，将受苦的人们打捞上来，用利益之外的东西，吸引大家成为同行者。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="是不是听起来很缥缈，很不现实？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="但罗德岛行过的路，是实实在在的。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="阿米娅，我会继续分析“阿喃那”带来的异常源石现象。我也会等你和凯尔希，还有博士的意见。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="这份数据，属于小易、白轮和维克多，属于罗德岛......未来可能也会属于所有人。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="这份数据，属于小易、白轮和维克多，属于罗德岛……未来可能也会属于所有人。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [stopmusic(fadetime=1)]
 [charslot]

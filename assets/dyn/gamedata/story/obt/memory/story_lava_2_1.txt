@@ -15,28 +15,28 @@
 [Dialog]
 [Character(name="char_1011_purgatory_1#1")]
 [delay(time=1.5)]
-[name="炎熔"]啊......吵死了......
+[name="炎熔"]啊……吵死了……
 [name="炎熔"]芙蓉，快起床。
 [character]
-......
+……
 [Dialog]
 [delay(time=0.7)]
 [Character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]怎么都不应一声。
 [name="炎熔"]不会是在想怎么赖床吧。
 [character]
-......
+……
 [Dialog]
 [delay(time=0.7)]
 [Character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]昨天晚上还发消息给我说什么要去巡诊，让我早点叫你。
-[name="炎熔"]结果我起来了，你还睡着，哈啊......
+[name="炎熔"]结果我起来了，你还睡着，哈啊……
 [name="炎熔"]唉，爱睡就睡吧，我洗漱去了。
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(fadetime=1)]
 [delay(time=2)]
-......
+……
 [Dialog]
 [delay(time=1)]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -46,25 +46,25 @@
 [name="炎熔"]芙蓉你怎么还睡着？
 [name="炎熔"]起床啊？
 [Character]
-......
+……
 [Dialog]
 [delay(time=1)]
 [Character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]我也才刚出过外勤回来，这次任务不容易，麻烦得很，除了我也没几个人能应付。
 [name="炎熔"]本来阿米娅可给我放了好几天假，我能睡一整天的。
-[name="炎熔"]要不是为了叫你，我也不会闭眼一两个小时就，哈啊......
+[name="炎熔"]要不是为了叫你，我也不会闭眼一两个小时就，哈啊……
 [Character]
-......
+……
 [Dialog]
 [delay(time=1)]
 [Character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]还不醒？
 [name="炎熔"]那我可要动手了啊。
 [name="炎熔"]昨晚你自己说的，你已经是医疗部的精英之一了，绝对不能迟到，拖也要把你拖起来。
-[name="炎熔"]虽然也不是第一次说这样的话了......
+[name="炎熔"]虽然也不是第一次说这样的话了……
 [name="炎熔"]但真有机会把你拖出被窝还是头一回。
 [name="炎熔"]哼哼。要是没我，你可怎么办？
-[name="炎熔"]......
+[name="炎熔"]……
 [name="炎熔"]还不起？我真的要掀了啊，着凉了别怪我。
 [name="炎熔"]芙——
 [stopmusic]
@@ -75,10 +75,10 @@
 [name="炎熔"]芙蓉，你，你怎么了？！
 [name="炎熔"]手怎么那么烫？！
 [character]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Character(name="char_1011_purgatory_1#5")]
 [name="炎熔"]芙蓉？姐？你别吓我啊，你身体不是一直不错的吗？
-[name="炎熔"]怎么突然就......
+[name="炎熔"]怎么突然就……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="炎熔"]姐，姐，说句话啊！
 [Dialog]
@@ -86,14 +86,14 @@
 [delay(time=1)]
 [Character(name="char_120_hibisc_1",fadetime=1)]
 [delay(time=1.5)]
-[name="芙蓉"]我醒了......炎熔......
-[name="芙蓉"]别晃了......
+[name="芙蓉"]我醒了……炎熔……
+[name="芙蓉"]别晃了……
 [Character(name="char_1011_purgatory_1#5")]
 [name="炎熔"]哦，抱，抱歉。
 [name="炎熔"]你还好吗？
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]有点冷......没力气......
-[name="芙蓉"]应该是发烧了......
+[name="芙蓉"]有点冷……没力气……
+[name="芙蓉"]应该是发烧了……
 [Character(name="char_1011_purgatory_1#5")]
 [name="炎熔"]发烧，你也会发烧吗？
 [name="炎熔"]啊对了！
@@ -105,8 +105,8 @@
 [Character]
 [delay(time=2)]
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]不是什么大问题......小炎熔你不用......
-[name="芙蓉"]哎......这孩子也真是的......
+[name="芙蓉"]不是什么大问题……小炎熔你不用……
+[name="芙蓉"]哎……这孩子也真是的……
 [Dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -137,19 +137,19 @@
 [name="安赛尔"]等等，你别急，哎别这样拉我——
 [delay(time=1.5)]
 [Character(name="char_212_ansel_1",name2="char_1011_purgatory_1#5",focus=1)]
-[name="安赛尔"]真是的......我还想你突然抓住我有什么事情，原来是你姐姐。
+[name="安赛尔"]真是的……我还想你突然抓住我有什么事情，原来是你姐姐。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]我没......事......
+[name="芙蓉"]我没……事……
 [Character(name="char_212_ansel_1")]
 [name="安赛尔"]病人可没资格说“没事”这两个字。
-[name="安赛尔"]嗯......
+[name="安赛尔"]嗯……
 [Character(name="char_212_ansel_1",name2="char_1011_purgatory_1#4",focus=1)]
 [name="安赛尔"]你们宿舍有体温计吗？
 [Character(name="char_212_ansel_1",name2="char_1011_purgatory_1#5",focus=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="炎熔"]有，有的！
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]在家庭医药箱里......
+[name="芙蓉"]在家庭医药箱里……
 [Character(name="char_212_ansel_1",name2="char_1011_purgatory_1#5",focus=2)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="炎熔"]我这就去拿！
@@ -168,13 +168,13 @@
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=2)]
 [name="安赛尔"]你不要紧吧。
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=1)]
-[name="芙蓉"]只是......发烧......
+[name="芙蓉"]只是……发烧……
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=2)]
 [name="安赛尔"]唔。
 [name="安赛尔"]体温有点高。
 [name="安赛尔"]使不上力，对吗？
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=1)]
-[name="芙蓉"]嗯......
+[name="芙蓉"]嗯……
 [Dialog]
 [character]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -187,13 +187,13 @@
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=2)]
 [name="安赛尔"]这两天饮食和作息上还好吧。
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=1)]
-[name="芙蓉"]健......
+[name="芙蓉"]健……
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=2)]
 [name="安赛尔"]健康餐。
 [name="安赛尔"]算了，当我没问。
 [name="安赛尔"]你和亚叶应该都属于不需要担心的那种人。
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=1)]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=2)]
 [name="安赛尔"]可能是前段时间太劳累了吧。
 [Dialog]
@@ -203,8 +203,8 @@
 [delay(time=1)]
 [Dialog]
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=1)]
-[name="芙蓉"]一会......该做的检测......麻烦你了......
-[name="芙蓉"]这样她......能安心一点......
+[name="芙蓉"]一会……该做的检测……麻烦你了……
+[name="芙蓉"]这样她……能安心一点……
 [Character(name="char_120_hibisc_1",name2="char_212_ansel_1",focus=2)]
 [name="安赛尔"]我知道了。
 [Dialog]
@@ -247,7 +247,7 @@
 [name="安赛尔"]这两天好好休息，很快就能恢复。
 [name="安赛尔"]饮食清淡一点，少盐少糖，注意营养均衡。
 [Character(name="char_1011_purgatory_1",name2="char_212_ansel_1",focus=1)]
-[name="炎熔"]也就是说要我给她做健康餐吗......
+[name="炎熔"]也就是说要我给她做健康餐吗……
 [Character(name="char_1011_purgatory_1",name2="char_212_ansel_1",focus=2)]
 [name="安赛尔"]食堂也提供类似的餐品，也不一定要亲自做。
 [name="安赛尔"]其他的要点，芙蓉自己都清楚，我就不列举了。
@@ -256,7 +256,7 @@
 [Character(name="char_1011_purgatory_1",name2="char_212_ansel_1",focus=1)]
 [name="炎熔"]这倒是没有。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]没有......
+[name="芙蓉"]没有……
 [Character(name="char_212_ansel_1")]
 [name="安赛尔"]那就应该没什么问题。
 [name="安赛尔"]没有什么要问了的话，我就先走了，芙蓉的看护就交给你了，炎熔。
@@ -266,38 +266,38 @@
 [delay(time=2)]
 [Character(name="char_1011_purgatory_1#4")]
 [name="炎熔"]唉——
-[name="炎熔"]......
+[name="炎熔"]……
 [name="炎熔"]我要看护你一两天是吗。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]啊......
+[name="芙蓉"]啊……
 [Character(name="char_1011_purgatory_1#4")]
 [name="炎熔"]我没学过护理课。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]小炎熔......要去训练的话......就去吧......
-[name="芙蓉"]姐姐......可是医生......没有那么弱......
-[name="芙蓉"]自己可以......照顾......
+[name="芙蓉"]小炎熔……要去训练的话……就去吧……
+[name="芙蓉"]姐姐……可是医生……没有那么弱……
+[name="芙蓉"]自己可以……照顾……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="芙蓉"]咳、咳咳......
+[name="芙蓉"]咳、咳咳……
 [Character(name="char_1011_purgatory_1#5")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="炎熔"]你别多说话！嗓子疼不疼？要不要喝点水？
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]没事......
+[name="芙蓉"]没事……
 [Character(name="char_1011_purgatory_1#5")]
 [name="炎熔"]所以说，呃，不是，我没说不想照顾你！
-[name="炎熔"]就是，那个，我，我没什么经验......
+[name="炎熔"]就是，那个，我，我没什么经验……
 [name="炎熔"]要是什么地方弄错了。你不舒服了。
 [name="炎熔"]你就说。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]炎熔......
-[name="芙蓉"]好......
+[name="芙蓉"]炎熔……
+[name="芙蓉"]好……
 [Character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]那就这么定了。现在先吃个早饭，一会我去做，吃完我洗碗。
 [name="炎熔"]你会不会没胃口？
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]不会......
+[name="芙蓉"]不会……
 [Character(name="char_1011_purgatory_1#1")]
-[name="炎熔"]嗯......
+[name="炎熔"]嗯……
 [name="炎熔"]那要不要先拿个脸盆让你洗漱一下？
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]（点头）
@@ -318,7 +318,7 @@
 [Character(fadetim=0.5)]
 [delay(time=2)]
 呃，之前那个脸盆放哪里去了？
-......
+……
 [Dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -327,11 +327,11 @@
 [Delay(time=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1.5)]
-[name="炎熔"]哈......总算弄完了......
+[name="炎熔"]哈……总算弄完了……
 [name="炎熔"]护理还真麻烦啊，一点都不酷。
 [name="炎熔"]要我当众做这种事我肯定要拒绝的。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Character(name="char_1011_purgatory_1#3")]
 [name="炎熔"]饱了吗？
 [Character(name="char_120_hibisc_1")]
@@ -350,7 +350,7 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -366,7 +366,7 @@
 [characteraction(name="middle", type="move", xpos=200, fadetime=1, block=false)]
 [Character(name="char_1011_purgatory_1#1",fadetime=0.7)]
 [delay(time=1.5)]
-[name="炎熔"]嗯......刷子，还有洗洁精。
+[name="炎熔"]嗯……刷子，还有洗洁精。
 [Character(name="char_1011_purgatory_1#4")]
 [name="炎熔"]（我刚刚是不是拍了拍芙蓉的脸？）
 [Dialog]
@@ -377,10 +377,10 @@
 听话。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[name="炎熔"]哼......
+[name="炎熔"]哼……
 [name="炎熔"]（爸爸妈妈就喜欢这样对我们。）
 [name="炎熔"]（也不知道上周寄出去的信他们有没有收到。）
-[name="炎熔"]（嗯......是不是芙蓉也会这么对我？）
+[name="炎熔"]（嗯……是不是芙蓉也会这么对我？）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -389,9 +389,9 @@
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Character(name="char_1011_purgatory_1#1")]
-[name="炎熔"]（呃......）
+[name="炎熔"]（呃……）
 [name="炎熔"]（她要是那样，多半是想命令我做什么。）
-[name="炎熔"]（......）
+[name="炎熔"]（……）
 [name="炎熔"]（刚刚那一顿肉粥，也不知道她吃饱没有。）
 [name="炎熔"]（要不要给她削个水果呢？）
 [name="炎熔"]（还是烤点肉？）
@@ -399,9 +399,9 @@
 [Character(name="char_1011_purgatory_1#3")]
 [name="炎熔"]（馋死她。）
 [Character(name="char_1011_purgatory_1#4")]
-[name="炎熔"]（......）
+[name="炎熔"]（……）
 [Character(name="char_1011_purgatory_1#1")]
-[name="炎熔"]（还是削个水果吧......）
+[name="炎熔"]（还是削个水果吧……）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -423,7 +423,7 @@
 [name="芙蓉"]Zzz……
 [Character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]睡得还挺沉。
-[name="炎熔"]......
+[name="炎熔"]……
 [Character(name="char_1011_purgatory_1#3")]
 [name="炎熔"]这家伙睡觉的时候看上去倒也没那么讨厌。
 [name="炎熔"]（捏了捏芙蓉的脸）
@@ -433,13 +433,13 @@
 [name="炎熔"]还是很烫。
 [name="炎熔"]希望她能恢复一点，这样我还能心安理得对她做些恶作剧。
 [Character(name="char_1011_purgatory_1#1")]
-[name="炎熔"]哈啊......忙活了半天，我也有点累了......
-[name="炎熔"]在她床边睡一会吧......
+[name="炎熔"]哈啊……忙活了半天，我也有点累了……
+[name="炎熔"]在她床边睡一会吧……
 [Dialog]
 [character(fadetime=0.6)]
 [delay(time=1)]
-[name="炎熔"]......
-[name="炎熔"]Zzz......
+[name="炎熔"]……
+[name="炎熔"]Zzz……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -460,11 +460,11 @@
 滴滴滴滴——
 啪
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]吵醒你了吗，抱歉......
+[name="芙蓉"]吵醒你了吗，抱歉……
 [name="芙蓉"]这是给你热粥的闹铃。
 [playMusic(intro="$path_intro", key="$path_loop", volume=0.4)]
 [Character(name="char_121_lava_1#3")]
-[name="炎熔"]我......
+[name="炎熔"]我……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]现在就吃吗，还是过一会。
 [Character(name="char_121_lava_1")]
@@ -475,7 +475,7 @@
 [name="芙蓉"]给 我 躺 下。
 [Character(name="char_121_lava_1#2")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="炎熔"]唔呃......
+[name="炎熔"]唔呃……
 [name="炎熔"]（芙蓉什么时候力气那么大了？）
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]我稍微打听了一下，是Pith小姐带你出去特训搞成这样的吧。
@@ -483,17 +483,17 @@
 [name="炎熔"]不是Pith老师的问题。
 [name="炎熔"]本来这次就是高强度的训练安排，最开始看起来会比较严酷，不过万事开头难嘛，之后习惯了就好了。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]那也不能训练完就虚成这样......
+[name="芙蓉"]那也不能训练完就虚成这样……
 [Character(name="char_121_lava_1#3")]
 [name="炎熔"]我觉得值。这样训练下来，我能感觉到自己越来越强了，无论是源石技艺的精准度还是其他方面的。
-[name="炎熔"]况且......
+[name="炎熔"]况且……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]况且？
 [Character(name="char_121_lava_1#3")]
 [name="炎熔"]这次特训前其实我有被提醒过，因为训练强度比较大，过程会比较艰苦所以要做好心理准备之类的。
 [name="炎熔"]我和教官们说：“没关系的，我姐姐是医疗干员，就算去掉半条命，只要还有一口气在，她都能给我救回来。”
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [Character(name="char_121_lava_1")]
 [name="炎熔"]大概是这么个意思，意会一下就好。
 [Character(name="char_120_hibisc_1")]
@@ -506,10 +506,10 @@
 [name="炎熔"]这个也不至于——
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]我不管这种训练能带给你多少提升，我只关心这会不会对你的身体造成伤害。
-[name="芙蓉"]至少，你不能......
-[name="芙蓉"]......
+[name="芙蓉"]至少，你不能……
+[name="芙蓉"]……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="芙蓉"]对不起......
+[name="芙蓉"]对不起……
 [Character(name="char_121_lava_1")]
 [name="炎熔"]芙蓉？姐？
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
@@ -518,48 +518,48 @@
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="芙蓉"]你知道我找到你的时候有多担心吗！
 [Character(name="char_121_lava_1")]
-[name="炎熔"]这不是没事嘛......
+[name="炎熔"]这不是没事嘛……
 [name="炎熔"]也就是体力有些透支，加上一点小擦伤。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]不是，不是这次......
-[name="芙蓉"]你还记得，自己是怎么来罗德岛的吗......
+[name="芙蓉"]不是，不是这次……
+[name="芙蓉"]你还记得，自己是怎么来罗德岛的吗……
 [Character(name="char_121_lava_1")]
-[name="炎熔"]这个......
-[name="炎熔"]在路上帮一群商人击退匪徒的时候，被人发现是感染者......
-[name="炎熔"]然后就被商队留下断后......我记得当时谁砸了我的脑袋，我就昏过去了。
+[name="炎熔"]这个……
+[name="炎熔"]在路上帮一群商人击退匪徒的时候，被人发现是感染者……
+[name="炎熔"]然后就被商队留下断后……我记得当时谁砸了我的脑袋，我就昏过去了。
 [name="炎熔"]再醒过来就发现自己在罗德岛上。
 [name="炎熔"]伤也被人治好了。
 [name="炎熔"]听说是出外勤的干员顺手把我捞回来的？还好只是受了点小伤，没怎么麻烦别人。
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]是重伤......
+[name="芙蓉"]是重伤……
 [Character(name="char_121_lava_1#2")]
 [name="炎熔"]唉？
 [Character(name="char_120_hibisc_1")]
-[name="芙蓉"]我本来以为失散之后能见到个和往常一样别扭的你，但......
-[name="芙蓉"]你就躺在手术台上，小炎熔，烧得像个火球......
+[name="芙蓉"]我本来以为失散之后能见到个和往常一样别扭的你，但……
+[name="芙蓉"]你就躺在手术台上，小炎熔，烧得像个火球……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="芙蓉"]我却，帮不上任何忙......
-[name="芙蓉"]我唯一能做的，就是在手术结束后帮你做护理......就像现在这样。
-[name="芙蓉"]那个时候，你也不停在床上喊我的名字......
+[name="芙蓉"]我却，帮不上任何忙……
+[name="芙蓉"]我唯一能做的，就是在手术结束后帮你做护理……就像现在这样。
+[name="芙蓉"]那个时候，你也不停在床上喊我的名字……
 [Character(name="char_121_lava_1#2")]
-[name="炎熔"]什么？等下，我从没听说过这种事......
+[name="炎熔"]什么？等下，我从没听说过这种事……
 [name="炎熔"]那，那你为什么不说——
 [Character(name="char_120_hibisc_1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="芙蓉"]还不是因为知道你这家伙别扭起来就不听话，好不容易才找到你，万一你又跑了怎么办？
 [name="芙蓉"]所以你恢复意识到入职前，我都不敢出现。
-[name="芙蓉"]唉......
+[name="芙蓉"]唉……
 [Character(name="char_121_lava_1")]
 [name="炎熔"]我也没，这么不讲道理吧。
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]当然有！
 [name="芙蓉"]我们出维多利亚的时候不就是因为炎熔你闹别扭才走散的吗！
 [Character(name="char_121_lava_1")]
-[name="炎熔"]那，那是个意外......
+[name="炎熔"]那，那是个意外……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]总之，不许再发生这样的事了，明白没？
 [Character(name="char_121_lava_1#3")]
-[name="炎熔"]（小声）好......
+[name="炎熔"]（小声）好……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]嗯，这样才乖。
 [name="芙蓉"]啊对了，你做了个什么梦啊？
@@ -569,20 +569,20 @@
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]嗯，我听着呢。
 [Character(name="char_121_lava_1")]
-[name="炎熔"]我......我梦见......
+[name="炎熔"]我……我梦见……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]梦见什么？
 [Character(name="char_121_lava_1")]
-[name="炎熔"]梦见芙蓉......
+[name="炎熔"]梦见芙蓉……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]我怎么了吗？
 [Character(name="char_121_lava_1")]
-[name="炎熔"]芙蓉你......
+[name="炎熔"]芙蓉你……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]说吧，我听着呢。
 [name="芙蓉"]（拍拍炎熔的脸）
 [Character(name="char_121_lava_1")]
-[name="炎熔"]......嗯？
+[name="炎熔"]……嗯？
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]那快说吧，到底梦见什么了？
 [Character(name="char_121_lava_1")]
@@ -600,7 +600,7 @@
 [name="炎熔"]我什么梦都没做！
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]小炎熔怎么一醒来就闹别扭。
-[name="芙蓉"]唉......
+[name="芙蓉"]唉……
 [name="芙蓉"]别扭倒是挺常见的，脸怎么也红红的。
 [name="芙蓉"]难道又发烧了？
 [Character(name="char_121_lava_1#2")]
@@ -632,22 +632,22 @@
 [Delay(time=1.5)]
 [musicvolume(volume=0.4,fadetime=1)]
 [Character(name="char_121_lava_1")]
-[name="炎熔"]大概......就是这么个梦......
+[name="炎熔"]大概……就是这么个梦……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]嘿嘿，听完还让人感觉挺高兴的。
 [Character(name="char_121_lava_1")]
-[name="炎熔"]还不是因为芙蓉......姐姐你平时......
+[name="炎熔"]还不是因为芙蓉……姐姐你平时……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]我才没那么容易垮呢。
 [name="芙蓉"]嗯，但意外总是难以避免的，所以以后可能真的会需要炎熔来看护。
 [name="芙蓉"]当然啦，我一直是相信炎熔会在姐姐危难的时候帮上忙的。
 [name="芙蓉"]虽然平时又不听话、又倔强、主意又多、动作还特别快。
 [Character(name="char_121_lava_1")]
-[name="炎熔"]你这是在拐弯抹角数落我吗......
+[name="炎熔"]你这是在拐弯抹角数落我吗……
 [Character(name="char_120_hibisc_1")]
 [name="芙蓉"]没有哦。
 [Character(name="char_121_lava_1")]
-[name="炎熔"]哈......
+[name="炎熔"]哈……
 [name="炎熔"]算了。
 [name="炎熔"]有东西吃嘛，我有点饿了。
 [Character(name="char_120_hibisc_1")]
@@ -660,16 +660,16 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="char_121_lava_1")]
-[name="炎熔"]......
+[name="炎熔"]……
 [name="炎熔"]（原来那时候，姐姐也在啊。）
 [name="炎熔"]（我就在想怎么有个声音这么熟悉。）
-[name="炎熔"]（......）
-[name="炎熔"]（如果不是约翰老师，芙蓉应该见不到我了吧......）
+[name="炎熔"]（……）
+[name="炎熔"]（如果不是约翰老师，芙蓉应该见不到我了吧……）
 [name="炎熔"]（不知道老师在莱塔尼亚过得怎么样了，像他这样有才华的音乐家，应该已经打出名声了吧。）
-[name="炎熔"]（信......）
-[name="炎熔"]（也不知道爸妈什么时候会回信......）
-[name="炎熔"]（大家......过得都很艰难......）
-[name="炎熔"]（如果我能更强大的话......）
+[name="炎熔"]（信……）
+[name="炎熔"]（也不知道爸妈什么时候会回信……）
+[name="炎熔"]（大家……过得都很艰难……）
+[name="炎熔"]（如果我能更强大的话……）
 [Dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Character(name="char_121_lava_1",name2="char_empty")]
@@ -690,7 +690,7 @@
 [character(name="char_121_lava_1",name2="char_120_hibisc_1",focus=2)]
 [name="芙蓉"]没错。这样会好吸收一点，也能更快把营养成分送入身体。
 [character(name="char_121_lava_1",name2="char_120_hibisc_1",focus=1)]
-[name="炎熔"]姑且问一句......你自己尝过味道吗......
+[name="炎熔"]姑且问一句……你自己尝过味道吗……
 [character(name="char_121_lava_1",name2="char_120_hibisc_1",focus=2)]
 [name="芙蓉"]当然啦~
 [name="芙蓉"]姐姐一日三餐都在吃哦，营养特别均衡。所以生病的才是小炎熔而不是姐姐我啊。
@@ -708,12 +708,12 @@
 [name="炎熔"]唔唔！！！！！
 [name="炎熔"]唔？
 [character(name="char_121_lava_1",name2="char_120_hibisc_1",focus=1)]
-[name="炎熔"]......
+[name="炎熔"]……
 [name="炎熔"]好像，味道是有点，能接受了？
 [character(name="char_121_lava_1",name2="char_120_hibisc_1",focus=2)]
 [name="芙蓉"]对吧~
 [character(name="char_121_lava_1",name2="char_120_hibisc_1",focus=1)]
-[name="炎熔"]嗯......
+[name="炎熔"]嗯……
 [stopmusic]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [character(name="char_121_lava_1#2",name2="char_120_hibisc_1",focus=1)]
@@ -728,9 +728,9 @@
 [Character(name="char_121_lava_1#2")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="炎熔"]芙蓉，我和你没完！
-[name="炎熔"]呕......
+[name="炎熔"]呕……
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="炎熔"]记着，我跟你......呕......没完！
+[name="炎熔"]记着，我跟你……呕……没完！
 [character(fadetime=1)]
 [Dialog]
 [PlaySound(key="$bodyfalldown1", volume=1)]

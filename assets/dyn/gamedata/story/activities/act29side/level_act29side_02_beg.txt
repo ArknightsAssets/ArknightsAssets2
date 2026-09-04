@@ -24,7 +24,7 @@
 [name="阿尔图罗"]这一次他决定战斗。
 [name="阿尔图罗"]他料到了演出在继续，他的挣扎依然暴露在台下观众的注视之下。他想，他可以反过来瞪视他们，来嘲弄他们强加于他的命运。
 [charslot(slot = "m", name = "avg_245_cello_1#10$1")]
-[name="阿尔图罗"]然而，他时不时在想......假如他依然是那个剧中人的话，该如何分辨舞台在哪里，观众在哪里？
+[name="阿尔图罗"]然而，他时不时在想……假如他依然是那个剧中人的话，该如何分辨舞台在哪里，观众在哪里？
 [name="阿尔图罗"]假如我们都和他一样，身在剧中，如何才能知晓，演出何时真正落幕？
 [Dialog]
 [charslot(duration=1)]
@@ -32,11 +32,11 @@
 [charslot]
 [name="路过的孩子"]故事里的主角好可怜啊。他能成功逃出去吗？他能变成打败坏人的大英雄吗？
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
-[name="阿尔图罗"]英雄啊......不是每一个人都能变成英雄的。而有些英雄，说不定也会在漫长的时间中变回普通人，甚至变成大坏蛋哦。
+[name="阿尔图罗"]英雄啊……不是每一个人都能变成英雄的。而有些英雄，说不定也会在漫长的时间中变回普通人，甚至变成大坏蛋哦。
 [charslot]
 [name="路过的孩子"]什么呀，阿尔图罗姐姐，我们才不想听这样的故事。
 [charslot(slot = "m", name = "avg_245_cello_1#5$1")]
-[name="阿尔图罗"]好吧好吧，那我就......唔，从更久以前讲起。这样的话，今天一定讲不到结尾，你们也就听不到不想听的发展了。
+[name="阿尔图罗"]好吧好吧，那我就……唔，从更久以前讲起。这样的话，今天一定讲不到结尾，你们也就听不到不想听的发展了。
 [charslot]
 [name="路过的孩子"]姐姐快点啦！
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
@@ -56,7 +56,7 @@
 [CameraShake(duration=3, xstrength=15, ystrength=10, vibrato=15, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_4046_ebnhlz_1#8$1",duration=1.5)]
 [delay(time=2)]
-[name="黑键"]呼......呼......哈......
+[name="黑键"]呼……呼……哈……
 [name="黑键"]原来是你们这些“老熟人”啊。
 [name="黑键"]我还在想，只是女皇们派来的刽子手的话，何必要大费周章地让我回来，又准许我多活这几天。
 [Dialog]
@@ -74,15 +74,15 @@
 [name="“巫王的余音”"]这种粗糙的暴力是对艺术的玷污。假如陛下在当时苏醒，一定会宣判他们死刑。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#7$1")]
 [name="黑键"]哈哈，你的意思是，格特鲁德是冒牌货，而你们是真的？
-[name="黑键"]需要我......来替你们向女皇陛下们申请一块艺术家勋章，来证明你们才是正统吗？
+[name="黑键"]需要我……来替你们向女皇陛下们申请一块艺术家勋章，来证明你们才是正统吗？
 [charslot(slot="m",name="avg_npc_1126_1#1$1")]
 [name="“巫王的余音”"]我们渴望的是您的理解。
 [name="“巫王的余音”"]您是陛下的继承人，是他荣耀的证明、骨血的化身、旋律的延续。
-[name="“巫王的余音”"]我们相信......您能将荣光带回乌提卡，带回莱塔尼亚。
+[name="“巫王的余音”"]我们相信……您能将荣光带回乌提卡，带回莱塔尼亚。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#8$1")]
-[name="黑键"]......那就动手吧。
+[name="黑键"]……那就动手吧。
 [name="黑键"]荣耀，骨血，旋律。统统取回去。
-[name="黑键"]我始终很好奇......留下的，属于名为“黑键”这一个体的东西，到底还能剩下多少？
+[name="黑键"]我始终很好奇……留下的，属于名为“黑键”这一个体的东西，到底还能剩下多少？
 [Dialog]
 [charslot(duration=0.3)]
 [PlaySound(key="$p_skill_darkholespell", volume=1)]
@@ -96,7 +96,7 @@
 [charslot(slot="m",name="avg_npc_1126_1#1$1")]
 [name="“巫王的余音”"]或许是感染的缘故，又或者，那个名为罗德岛的机构很好地锻炼了您。
 [name="“巫王的余音”"]您变强了一些。
-[name="“巫王的余音”"]遗憾的是......还远远不及陛下的万一。
+[name="“巫王的余音”"]遗憾的是……还远远不及陛下的万一。
 [Dialog]
 [charslot]
 [playsound(key="$d_avg_shallowswalk", loop=true, channel="bgs")]
@@ -118,8 +118,8 @@
 [delay(time=2)]
 [charslot(slot="l",name="avg_npc_1131_1#1$1",duration=1)]
 [delay(time=1.5)]
-[name="倔强的学徒"]......
-[name="倔强的学徒"]我......我要去......
+[name="倔强的学徒"]……
+[name="倔强的学徒"]我……我要去……
 [Dialog]
 [charslot(slot = "l",posfrom = "0,0", posto = "150,0",duration = 0.8)]
 [delay(time=0.8)]
@@ -139,7 +139,7 @@
 [charslot(slot = "l",posfrom = "50,0", posto = "0,0",duration = 0.5)]
 [delay(time=1)]
 [charslot(slot="l",name="avg_npc_1131_1#1$1",focus="l")]
-[name="倔强的学徒"]我还没有......
+[name="倔强的学徒"]我还没有……
 [Dialog]
 [charslot(slot = "right",posfrom = "-100,0", posto = "0,0",duration = 0.7)]
 [delay(time=1)]
@@ -147,9 +147,9 @@
 [name="洛里斯"]没来得及正式加入那群疯子，是吧？算你走运。
 [charslot(slot="l",name="avg_npc_1131_1#1$1",focus="l")]
 [name="倔强的学徒"]疯子？他们才不是疯子。或许在你们眼里，那位陛下的统治是恐怖的。但他对付的都是那些不思进取的贵族！
-[name="倔强的学徒"]我为什么不能怀念他？我为什么......不能渴望一个像我这样的人也能出人头地的莱塔尼亚？
+[name="倔强的学徒"]我为什么不能怀念他？我为什么……不能渴望一个像我这样的人也能出人头地的莱塔尼亚？
 [charslot(slot = "right", name = "avg_npc_1123_1#7$1",focus="r")]
-[name="洛里斯"]......因为我比你更清楚那是个什么样的时代。
+[name="洛里斯"]……因为我比你更清楚那是个什么样的时代。
 [charslot(slot = "right", name = "avg_npc_1123_1#6$1",focus="r")]
 [name="洛里斯"]你听好，小子。我刚来到莱塔尼亚的时候，在路上不小心踩到了一张飘落在地的画像。
 [name="洛里斯"]那条街上都是密探，我立刻被抓进了监狱。当时我还是个拉特兰商人，他们打算以“外来反对分子”的罪名处决我。
@@ -169,9 +169,9 @@
 [name="洛里斯"]他是个一瘸一拐的老黎博利，上过战场，打死过好几个高卢兵。后来他成了一名宪兵，在当时，这个职位等同于巫王的秘密警察。
 [name="洛里斯"]他看我实在倒霉，就给行刑队的人塞了点收藏用的烟盒，把我弄了出来。
 [name="洛里斯"]几天之后，我听说巫王又处决了一批异见者。对，就在你眼前的这个公园内。
-[name="洛里斯"]我站在人堆里，小心翼翼地抬起头......你猜我在那座扭曲的雕像中间看到了谁的脸？
+[name="洛里斯"]我站在人堆里，小心翼翼地抬起头……你猜我在那座扭曲的雕像中间看到了谁的脸？
 [charslot(slot="m",name="avg_npc_1131_1#1$1")]
-[name="倔强的学徒"]......
+[name="倔强的学徒"]……
 [charslot(slot = "m", name = "avg_npc_1123_1#6$1")]
 [name="洛里斯"]你很害怕。怕就对了。
 [name="洛里斯"]快跑吧，孩子。回去找蒂姆，以后都不要掺和进这些事情里。
@@ -184,7 +184,7 @@
 [delay(time=2)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1123_1#1$1")]
-[name="洛里斯"]......
+[name="洛里斯"]……
 [name="洛里斯"]我们也该撤退了，执行者阁下。
 [charslot(slot="m",name="avg_1032_excu2_1#10$1")]
 [name="费德里科"]法术波动很剧烈。你一定也感觉到了，有人在战斗。
@@ -209,9 +209,9 @@
 [charslot(slot="m",name="avg_1032_excu2_1#1$1")]
 [name="费德里科"]律法允许你留下遗嘱。如果你在接下来的战斗中牺牲，我会严格执行你的遗愿。
 [charslot(slot = "m", name = "avg_npc_1123_1#3$1")]
-[name="洛里斯"]......您真是具备一种特殊的幽默感。
+[name="洛里斯"]……您真是具备一种特殊的幽默感。
 [charslot(slot = "m", name = "avg_npc_1123_1#4$1")]
-[name="洛里斯"]不过您让我想起了，当我加入反抗巫王的队伍，冲向那座高塔的时候......我还真想过，就算死了，也能留下点什么东西。
+[name="洛里斯"]不过您让我想起了，当我加入反抗巫王的队伍，冲向那座高塔的时候……我还真想过，就算死了，也能留下点什么东西。
 [name="洛里斯"]可您看看，我如今活成什么样子了？酗酒，收受贿赂，对地位更高的贵族点头哈腰。
 [name="洛里斯"]您说得对，我不配当执法者。那个救了我的老家伙，大概也会后悔。
 [charslot(slot="m",name="avg_1032_excu2_1#1$1")]
@@ -219,7 +219,7 @@
 [name="费德里科"]你未能解救那位名叫尤利娅的少女，但你刚刚救了她的弟弟，而且还有机会去救下一个人。
 [charslot(slot = "m", name = "avg_npc_1123_1#5$1")]
 [name="洛里斯"]我很羡慕您，执行者阁下。离开拉特兰的时候，我还嫌萨科塔们难以理解。如今想想，你们真是最好懂的一群人了。
-[name="洛里斯"]可是......就算是拉特兰的律法，难道就总是正确的吗？
+[name="洛里斯"]可是……就算是拉特兰的律法，难道就总是正确的吗？
 [charslot(slot="m",name="avg_1032_excu2_1#1$1")]
 [name="费德里科"]你说的那种案子，我有。
 [charslot(slot = "m", name = "avg_npc_1123_1#3$1")]
@@ -234,12 +234,12 @@
 [charslot(slot = "m", name = "avg_npc_1123_1#11$1")]
 [name="洛里斯"]但您没有，对吗？
 [charslot(slot = "m", name = "avg_npc_1123_1#8$1")]
-[name="洛里斯"]哈......执行者阁下，您一点都不像其他我见过的萨科塔。您从未真心爱过拉特兰。
+[name="洛里斯"]哈……执行者阁下，您一点都不像其他我见过的萨科塔。您从未真心爱过拉特兰。
 [charslot(slot="m",name="avg_1032_excu2_1#1$1")]
 [name="费德里科"]我从不认为任何情感对执行任务而言是必要的。
 [charslot(slot = "m", name = "avg_npc_1123_1#7$1")]
 [name="洛里斯"]或许吧。
-[name="洛里斯"]又或许，当您不得不像我这样怀疑自己，感到迷茫，感到动摇的时候......您会意识到，您需要一股力量、一个理由。
+[name="洛里斯"]又或许，当您不得不像我这样怀疑自己，感到迷茫，感到动摇的时候……您会意识到，您需要一股力量、一个理由。
 [name="洛里斯"]到那时候，您就会发现，律法指引不了您。
 [Dialog]
 [charslot]
@@ -257,7 +257,7 @@
 [charslot(slot = "m", name = "avg_npc_1123_1#1$1")]
 [name="洛里斯"]那可不归我管了。我回去就会向市政厅提交辞呈。在离开崔林特尔梅之前，我会向继任者转交您之前给我的文件。
 [charslot(slot="m",name="avg_1032_excu2_1#1$1")]
-[name="费德里科"]......
+[name="费德里科"]……
 [charslot(slot="m",name="avg_1032_excu2_1#10$1")]
 [name="费德里科"]洛里斯·博尔丁，我不认为那个曾经的“英雄”已经死去。
 [charslot(slot = "m", name = "avg_npc_1123_1#11$1")]
@@ -271,7 +271,7 @@
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1123_1#7$1",duration=1)]
 [delay(time=2)]
-[name="洛里斯"]......这样吗？
+[name="洛里斯"]……这样吗？
 [charslot(slot = "m", name = "avg_npc_1123_1#9$1")]
 [name="洛里斯"]哈哈。
 [Dialog]
@@ -283,11 +283,11 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_1032_excu2_1#6$1",duration=1)]
 [delay(time=2)]
-[name="费德里科"]......
+[name="费德里科"]……
 [charslot(slot = "m", name = "avg_1032_excu2_1#1$1")]
 [name="费德里科"]目标并不在此处。
 [charslot(slot = "m", name = "avg_1032_excu2_1#5$1")]
-[name="费德里科"]那大提琴的旋律......
+[name="费德里科"]那大提琴的旋律……
 [charslot(slot = "m", name = "avg_4109_baslin_1#1$1")]
 [name="平静的学徒"]你没注意到这些正在喷水的雕塑吗？术式被改过了，用来复刻她的演奏。
 [Dialog]
@@ -296,7 +296,7 @@
 [delay(time=1)]
 [name="费德里科"]——
 [charslot(slot = "m", name = "avg_4109_baslin_1#4$1")]
-[name="平静的学徒"]萨科塔，你瞄准我干什么......你失去理智了吗？！
+[name="平静的学徒"]萨科塔，你瞄准我干什么……你失去理智了吗？！
 [charslot(slot = "m", name = "avg_1032_excu2_1#4$1")]
 [name="费德里科"]金盏花小巷，密林公园。你每一次都会出现在案件相关地点。
 [name="费德里科"]你的言行举止均与同龄莱塔尼亚人的平均表现不符。
@@ -306,15 +306,15 @@
 [charslot(slot = "m", name = "avg_1032_excu2_1#4$1")]
 [name="费德里科"]对于有意隐藏身份者来说，先制服再进行审讯是更有效率的选择。
 [charslot(slot = "m", name = "avg_4109_baslin_1#3$1")]
-[name="平静的学徒"]......最笨的术师调试过的雕塑都比你懂得变通！
+[name="平静的学徒"]……最笨的术师调试过的雕塑都比你懂得变通！
 [name="平静的学徒"]我刚刚还很诧异，这陷阱有什么意义？在莱塔尼亚，小孩子都能听出来，这旋律并非人在演奏。
 [charslot(slot = "m", name = "avg_1032_excu2_1#6$1")]
-[name="费德里科"]......
+[name="费德里科"]……
 [charslot(slot = "m", name = "avg_4109_baslin_1#3$1")]
 [name="平静的学徒"]设置这个陷阱的人一定非常了解你，她知道你只要一听见这大提琴曲，就会像饿久了的牙兽看到肉一样，不管不顾地扑过来。
-[name="平静的学徒"]这样的话，她就可以对真正的目标下手......
+[name="平静的学徒"]这样的话，她就可以对真正的目标下手……
 [charslot(slot = "m", name = "avg_1032_excu2_1#5$1")]
-[name="费德里科"]......洛里斯·博尔丁。
+[name="费德里科"]……洛里斯·博尔丁。
 [charslot(slot = "m", name = "avg_4109_baslin_1#10$1")]
 [name="平静的学徒"]谁？那个胆小怕事的宪兵队长官？你提他干什么？
 [charslot(slot = "m", name = "avg_1032_excu2_1#10$1")]
@@ -337,9 +337,9 @@
 [name="洛里斯"]蒂姆，是我。我想问问，扬回去了吗？
 [name="洛里斯"]那就好。我放心了。
 [charslot(slot = "m", name = "avg_npc_1123_1#7$1")]
-[name="洛里斯"]麻烦你跟他说一声，他姐姐......尤利娅的事，我真的很抱歉。
+[name="洛里斯"]麻烦你跟他说一声，他姐姐……尤利娅的事，我真的很抱歉。
 [name="洛里斯"]我要提前离开莱塔尼亚了。这些年我收集了一些线索，都在博登区的房子里。钥匙就在我给你的钱包里，请你交给扬吧。
-[name="洛里斯"]我希望......在我走后，有人能接过这个案子。
+[name="洛里斯"]我希望……在我走后，有人能接过这个案子。
 [charslot(slot = "m", name = "avg_npc_1123_1#2$1")]
 [name="洛里斯"]追了这么久，总要有个结果。我是做不到了，但说不定有人可以。
 [Dialog]
@@ -350,7 +350,7 @@
 [PlaySound(key="$smallearthquake",volume=0.5)]
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_npc_1123_1#1$1")]
-[name="洛里斯"]......这动静比之前都要大啊。
+[name="洛里斯"]……这动静比之前都要大啊。
 [Dialog]
 [playsound(key="$d_avg_telephonebusy", channel="slide", loop=false)]
 [delay(time=2.5)]
@@ -359,7 +359,7 @@
 [charslot(slot = "m", name = "avg_npc_1123_1#11$1")]
 [name="洛里斯"]皮姆，我在密林公园附近。这边有点情况，叫一队人过来。不，一队说不定不够，把能叫的都叫上。
 [name="洛里斯"]对，大概还是那帮戴着面具四处闹事的混账。他们最好只是放出了一帮屁股上点了火的钳兽，准备炸掉这片下水管道。
-[name="洛里斯"]但愿没有无辜的倒霉蛋和他们对上。要是有的话......
+[name="洛里斯"]但愿没有无辜的倒霉蛋和他们对上。要是有的话……
 [Dialog]
 [charslot(slot = "m", focus = "n")]
 [musicvolume(volume=0.2, fadetime=1)]
@@ -368,9 +368,9 @@
 [musicvolume(volume=0.6, fadetime=1)]
 [charslot(slot = "m", name = "avg_npc_1123_1#6$1")]
 [name="洛里斯"]哪里来的琴声？
-[name="洛里斯"]......
+[name="洛里斯"]……
 [charslot(slot = "m", name = "avg_npc_1123_1#3$1")]
-[name="洛里斯"]谁？谁在那里......萨科塔？
+[name="洛里斯"]谁？谁在那里……萨科塔？
 [name="洛里斯"]执行者阁下，是您吗？
 [Dialog]
 [charslot]
@@ -382,11 +382,11 @@
 [charslot(duration=0.5)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1123_1#4$1")]
-[name="洛里斯"]......幻觉？不，似乎只是回忆。
+[name="洛里斯"]……幻觉？不，似乎只是回忆。
 [charslot(slot = "m", name = "avg_npc_1123_1#11$1")]
 [name="洛里斯"]没什么，皮姆，这里只有我一个人。我突然想起了刚刚发生的事。
 [name="洛里斯"]是的，闹事的人就在我脚下。我会给你们留一个法术信标。
-[name="洛里斯"]很危险，我知道。我这就走远一些......
+[name="洛里斯"]很危险，我知道。我这就走远一些……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1131_1#1$1",bstart=0.5,bend=1,duration=1,afrom=0,ato=0.6)]
@@ -404,9 +404,9 @@
 [playsound(key="$d_avg_ringoff")]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_npc_1123_1#5$1")]
-[name="洛里斯"]......没人比我自己更清楚，我是个懦夫，一个连尤利娅的死因都找不到，也没有办法为她报仇的懦夫。
+[name="洛里斯"]……没人比我自己更清楚，我是个懦夫，一个连尤利娅的死因都找不到，也没有办法为她报仇的懦夫。
 [charslot(slot = "m", name = "avg_npc_1123_1#4$1")]
-[name="洛里斯"]尤利娅......尤利娅。
+[name="洛里斯"]尤利娅……尤利娅。
 [name="洛里斯"]假如你见到了今天的我，又会说些什么呢？
 [name="洛里斯"]你那么温柔，大概都不会把失望表现出来吧。
 [Dialog]
@@ -445,10 +445,10 @@
 [delay(time=2)]
 [name="洛里斯"]我真的很累了啊，老家伙。
 [name="洛里斯"]我想活。我不仅想活，我还想每天都能喝上新酿的啤酒，下班之后跟皮姆他们一块去听点爵士。明年夏天，我还想去萨米度假。
-[name="洛里斯"]我终究......做不到像你一样，死得像个英雄。
+[name="洛里斯"]我终究……做不到像你一样，死得像个英雄。
 [charslot(slot = "m", name = "avg_npc_1123_1#4$1")]
-[name="洛里斯"]可我为什么......
-[name="洛里斯"]为什么......
+[name="洛里斯"]可我为什么……
+[name="洛里斯"]为什么……
 [charslot(slot = "m", name = "avg_npc_1123_1#5$1")]
 [name="洛里斯"]这么失望？
 [stopmusic(fadetime=2)]
@@ -472,11 +472,11 @@
 [delay(time=1.5)]
 [name="“巫王的余音”"]您已经很疲惫了，小伯爵。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#10$1")]
-[name="黑键"]呵......哈......
+[name="黑键"]呵……哈……
 [charslot(slot="m",name="avg_npc_1126_1#1$1")]
 [name="“巫王的余音”"]矿石病蚕食着您的身体。如果您再持续使用源石技艺，等待您的只有自爆而亡。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#7$1")]
-[name="黑键"]那样的话......你们会害怕吗？
+[name="黑键"]那样的话……你们会害怕吗？
 [charslot(slot="m",name="avg_npc_1126_1#1$1")]
 [name="“巫王的余音”"]抱歉，我们不会允许您这样做。
 [Dialog]
@@ -488,14 +488,14 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_4046_ebnhlz_1#5$1")]
 [name="黑键"]唔——呃！
-[name="黑键"]我的......头......好疼......
+[name="黑键"]我的……头……好疼……
 [charslot(slot="m",name="avg_npc_1126_1#1$1")]
 [name="“巫王的余音”"]我们不愿意伤害您。
 [name="“巫王的余音”"]但“首席”说过了，您身体里的旋律确实比您的头脑更具有价值。
-[name="“巫王的余音”"]有必要的话，我们会让您暂时陷入......沉睡。
+[name="“巫王的余音”"]有必要的话，我们会让您暂时陷入……沉睡。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#8$1")]
-[name="黑键"]你们想......抹除我的意识......
-[name="黑键"]休......想！
+[name="黑键"]你们想……抹除我的意识……
+[name="黑键"]休……想！
 [charslot(slot="m",name="avg_4046_ebnhlz_1#10$1")]
 [CameraShake(duration=1, xstrength=30, ystrength=30, vibrato=40, randomness=90, fadeout=true, block=false)]
 [name="黑键"]呃啊啊啊——！
@@ -518,11 +518,11 @@
 [Effect(name="$e_magic_fire_01",y=-350,x=400,layer = 3,delay=0.2)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1126_1#1$1")]
-[name="“巫王的余音”"]黎博利......穿着宪兵队制服？
+[name="“巫王的余音”"]黎博利……穿着宪兵队制服？
 [name="“巫王的余音”"]只有一个人吗？
 [name="“巫王的余音”"]逞什么英雄！
 [charslot(slot="m",name="avg_4046_ebnhlz_1#3$1")]
-[name="黑键"]......
+[name="黑键"]……
 [Dialog]
 [charslot(slot="m",name="avg_4046_ebnhlz_1#6$1")]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
@@ -535,7 +535,7 @@
 “快走，我的人已经在路上了。”
 他听见那个素昧平生的人对他说。
 [charslot(slot="m",name="avg_4046_ebnhlz_1#6$1")]
-[name="黑键"]谢......谢。
+[name="黑键"]谢……谢。
 [charslot(slot="m",name="avg_npc_1126_1#1$1")]
 [name="“巫王的余音”"]小心，别让目标逃了！
 [Dialog]

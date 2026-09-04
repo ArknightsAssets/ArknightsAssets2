@@ -19,18 +19,18 @@
 [delay(time=0.5)]
 [charslot(slot="l",posfrom="0,0",posto="20,0",duration=0.8,isblock=true)]
 [charslot(slot="l",focus="l")]
-[name="惊慌的女孩"]哥......安德鲁！你又被他们打了吗？
+[name="惊慌的女孩"]哥……安德鲁！你又被他们打了吗？
 [dialog]
 [charslot(slot="r",focus="r",name="avg_npc_2039_1#8$2",duration=0.8, isblock=true)]
 [name="斯凯"]叫我斯凯。
 [charslot(slot="l",focus="l")]
-[name="惊慌的女孩"]可那是你自己取的名字，爸妈说......
+[name="惊慌的女孩"]可那是你自己取的名字，爸妈说……
 [charslot(slot="r",focus="r",name="avg_npc_2039_1#11$2")]
 [name="斯凯"]别提他们！自己没出息就只会在咱俩身上撒气的畜生，他们有什么资格决定我叫什么？
 [charslot(slot="r",focus="r",name="avg_npc_2039_1#11$2")]
 [name="斯凯"]我在特里蒙理工擦了六年的地板，偷听完了所有本科课程，就是为了以后不像他们一样窝囊、愚蠢、没用！
 [charslot(slot="l",focus="l")]
-[name="惊慌的女孩"]可是......
+[name="惊慌的女孩"]可是……
 [charslot(slot="r",focus="r",name="avg_npc_2039_1#3$2")]
 [name="斯凯"]还有你！除了每天往我包里贴唠唠叨叨的便签，还能做点别的吗？我又不是不知道吃饭——
 [dialog]
@@ -44,13 +44,13 @@
 [charslot(slot="r",name="avg_npc_2039_1#3$2",focus="l",isblock=true)]
 [charslot(slot="l",name="avg_npc_1043_1#1$1",afrom=0,ato=0, action="zoom",poszoom="0.5,0.5",scale=0.9,duration=0,isblock=true)]
 [charslot(slot="l",afrom=0,ato=1,focus="l",isblock=true)]
-[name="惊慌的女孩"]那群人又来了......
+[name="惊慌的女孩"]那群人又来了……
 [dialog]
 [charslot(slot="r",posfrom="0,0",posto="-130,0",duration=0.5)]
 [charslot(slot="l",posfrom="0,0",posto="130,0",duration=0.5)]
 [PlaySound(key="$d_avg_clothmovement")]
 [charslot(slot="r",focus="r",name="avg_npc_2039_1#6$2",isblock=true)]
-[name="斯凯"]他妈的......没完了是吗？赶紧的，躲我身后。
+[name="斯凯"]他妈的……没完了是吗？赶紧的，躲我身后。
 [dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1044_1#1$1", focus="l",isblock=true)]
@@ -67,7 +67,7 @@
 [charslot(slot = "m",name="avg_npc_2039_1#10$2",posfrom = "0,-60", posto = "0,0",duration = 2,isblock=false)]
 [charslot(slot ="m", action="shake", power=7, times=30, duration=0.5, isblock=false)]
 [delay(time=1.5)]
-[name="斯凯"]哈......阴沟里的鼷兽，一辈子都理解不了什么叫伟大。
+[name="斯凯"]哈……阴沟里的鼷兽，一辈子都理解不了什么叫伟大。
 [charslot(slot="m",focus="m",name="avg_npc_1044_1#1$1")]
 [name="街头混混B"]你再说一句试试？！
 [dialog]
@@ -121,7 +121,7 @@
 [charslot(slot="r",focus="r")]
 [name="？？？"]她什么时候需要我们担心。
 [name="？？？"]我们是同行者，我们只是同行者。
-[name="？？？"]我们只需要做好自己的事，然后......祝她好运。
+[name="？？？"]我们只需要做好自己的事，然后……祝她好运。
 [name="？？？"]（萨卡兹语）若有一天，卡兹戴尔亦悬于天顶，我将在火炉上镌刻你的名字。
 [dialog]
 [charslot]
@@ -129,11 +129,11 @@
 [CameraShake(duration=1.2, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1.2)]
 [charslot(slot="m",name="avg_npc_2039_1#5$2",duration=1,isblock=true)]
-[name="斯凯"]呼......呼......
+[name="斯凯"]呼……呼……
 [charslot(slot="m",name="avg_npc_2039_1#5$2")]
-[name="斯凯"]不、不好意思，女士......
+[name="斯凯"]不、不好意思，女士……
 [charslot(slot="m",name="avg_npc_2039_1#3$2")]
-[name="斯凯"]能不能告诉我，那个人，天上的那个伟大的人......
+[name="斯凯"]能不能告诉我，那个人，天上的那个伟大的人……
 [charslot(slot="m",name="avg_npc_2039_1#12$2")]
 [name="斯凯"]叫什么名字？
 [dialog]
@@ -166,7 +166,7 @@
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#5$1")]
 [name="娜斯提"]他们雇佣的体验员呢，会去哪里？
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#8$1")]
-[name="斯凯"]那个经理连电机的种类都分不清，我猜他只是想借着“螺旋桨天堂”的名头大捞一笔......
+[name="斯凯"]那个经理连电机的种类都分不清，我猜他只是想借着“螺旋桨天堂”的名头大捞一笔……
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#5$1")]
 [name="斯凯"]嗯？你刚刚问我什么？
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#4$1")]
@@ -178,7 +178,7 @@
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#7$1")]
 [name="斯凯"]我无意指责“总辖代理”的决定，但过分保守的决策只会让我们失去应得的尊重。
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#3$1")]
-[name="斯凯"]一星半点的数据支持让大批科技公司焕发新生；照亮千万哥伦比亚民众的环形实验室，被做成五岁小孩就能玩的益智玩具......
+[name="斯凯"]一星半点的数据支持让大批科技公司焕发新生；照亮千万哥伦比亚民众的环形实验室，被做成五岁小孩就能玩的益智玩具……
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#7$1")]
 [name="斯凯"]现在，每个哥伦比亚人都会把“太空”和“宇宙”挂在嘴边，却很少有人记得，这些全新的语汇出自克丽斯腾公开的实验日志。
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#7$1")]
@@ -194,15 +194,15 @@
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#3$1")]
 [name="斯凯"]我知道生态园建立在环形实验室回传数据的基础上，也知道用植物传输能量、搭建供能系统在工程设计上是一大壮举。
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#8$1")]
-[name="斯凯"]培育幼苗、铺设种植单元、工程检修，都是为了精进我们的实验......但一座在预展上都没机会露面的“植物园”真的足够吗？
+[name="斯凯"]培育幼苗、铺设种植单元、工程检修，都是为了精进我们的实验……但一座在预展上都没机会露面的“植物园”真的足够吗？
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#8$1")]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#7$1")]
 [name="斯凯"]恳请你告诉我，娜斯提主任。正如那个夜晚之前，没人知道克丽斯腾即将突破天幕，莱茵在这里还有更大的目标，对吗？
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#1$1")]
 [name="娜斯提"]特里蒙的夜晚已经过去很久了。
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#7$1")]
-[name="斯凯"]......
+[name="斯凯"]……
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#1$1")]
 [name="娜斯提"]去准备下一家企业的检修吧。注意名单顺序，发生了一些调整。
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#7$1")]
@@ -215,7 +215,7 @@
 [dialog]
 [delay(time=0.3)]
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#7$1")]
-[name="斯凯"]......
+[name="斯凯"]……
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#4$1")]
 [name="娜斯提"]我理解你的心情，也知道你是受到克丽斯腾的鼓舞才选择入职莱茵。
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#8$1")]
@@ -223,13 +223,13 @@
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#4$1")]
 [name="娜斯提"]别忘了让你迈出第一步的原因。
 [charslot(slot="l",focus="l",name = "avg_npc_2039_1#3$1")]
-[name="斯凯"]......我先去准备检修资料了，主任。
+[name="斯凯"]……我先去准备检修资料了，主任。
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot="l",posfrom="-30,0",posto="-50,0",afrom=1,ato=0,duration=1,isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "r",focus="r",name = "avg_4212_nasti_1#9$1")]
-[name="娜斯提"]......
+[name="娜斯提"]……
 [dialog]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -240,13 +240,13 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1041_1#1$1",duration=0.8,isblock=true)]
-[name="工作人员"]......请拿好您的权限卡、协议和园区通用联络黄页，再次欢迎您的团队加入“螺旋桨天堂”！
+[name="工作人员"]……请拿好您的权限卡、协议和园区通用联络黄页，再次欢迎您的团队加入“螺旋桨天堂”！
 [name="工作人员"]下一位！请问有什么可以帮您的？
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_2041_1#2$1",duration=1.2,isblock=true)]
-[name="雅斯彭"]注销进驻资质......
+[name="雅斯彭"]注销进驻资质……
 [charslot(slot = "m", name = "avg_npc_1041_1#1$1")]
 [name="工作人员"]您代表的企业是？
 [charslot(slot = "m", name = "avg_npc_2041_1#5$1")]
@@ -261,9 +261,9 @@
 [charslot(slot = "m", name = "avg_npc_1041_1#1$1",afrom=1,ato=0,duration=0.8,isblock=true)]
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_2041_1#2$1")]
-[name="雅斯彭"]......
+[name="雅斯彭"]……
 [charslot(slot = "m", name = "avg_npc_2041_1#5$1")]
-[name="雅斯彭"]唉，我是被影月砸了脑袋吗？确信自己参展之后一定能赚回本钱，就雇了八十二个没有企业工作经验的门外汉充场面......
+[name="雅斯彭"]唉，我是被影月砸了脑袋吗？确信自己参展之后一定能赚回本钱，就雇了八十二个没有企业工作经验的门外汉充场面……
 [charslot(slot = "m", name = "avg_npc_2041_1#5$1")]
 [name="雅斯彭"]可这里的所有企业都是这么干的，为什么被淘汰的偏偏是“幸运瘤兽”？
 [charslot(slot = "m", name = "avg_npc_2041_1#1$2")]
@@ -273,9 +273,9 @@
 [charslot(slot = "m", name = "avg_npc_1041_1#1$1")]
 [name="工作人员"]雅斯彭先生，您的手续已经办理好了。今天之内，园区的热线电话依旧会向您开放。
 [charslot(slot = "m", name = "avg_npc_2041_1#2$1")]
-[name="雅斯彭"]知道了......
+[name="雅斯彭"]知道了……
 [charslot(slot = "m", name = "avg_npc_1041_1#1$1")]
-[name="工作人员"]但是，如果您像一只靴子影月地产公司一样，有一些“特殊”需求......我们也很愿意为您处理。
+[name="工作人员"]但是，如果您像一只靴子影月地产公司一样，有一些“特殊”需求……我们也很愿意为您处理。
 [charslot(slot = "m", name = "avg_npc_2041_1#4$1")]
 [name="雅斯彭"]嗯？你的意思是？
 [dialog]
@@ -294,7 +294,7 @@
 [charslot(slot = "m", name = "avg_npc_1041_1#1$1")]
 [name="工作人员"]这通热线会“彻底”解决您的问题，您再也不需要那些人了。
 [charslot(slot = "m", name = "avg_npc_2041_1#5$1")]
-[name="雅斯彭"]奇迹，还是骗局......？
+[name="雅斯彭"]奇迹，还是骗局……？
 [charslot(slot = "m", name = "avg_npc_2041_1#3$1")]
 [name="雅斯彭"]不想了，只要能留在这里，试试又何妨。
 [stopmusic(fadetime=2)]
@@ -337,7 +337,7 @@
 [PlaySound(key="$d_avg_paper2", volume=1)]
 [charslot(slot="l",focus="l" ,name = "avg_npc_2037_1#11$1")]
 [delay(time=1)]
-[name="梅希亚"]“烟酒施术单元以及源石制品管理局向高登·谭农长官发来贺函，祝贺您正式成为‘螺旋桨天堂’的总长官......”
+[name="梅希亚"]“烟酒施术单元以及源石制品管理局向高登·谭农长官发来贺函，祝贺您正式成为‘螺旋桨天堂’的总长官……”
 [charslot(slot="l",focus="l" ,name = "avg_npc_2037_1#11$1")]
 [name="梅希亚"]两页纸？我从来没见过这么长的贺函。
 [charslot(slot = "r",focus="r", name = "avg_npc_2034_1#1$1")]
@@ -365,13 +365,13 @@
 [charslot(slot = "r",focus="r", name = "avg_npc_2034_1#1$1")]
 [name="高登"]在乎那些干什么，你的那本手册就是我瞎编的。
 [charslot(slot="l",focus="l" ,name = "avg_npc_2037_1#1$1")]
-[name="梅希亚"]那......请您提两句祝酒词？
+[name="梅希亚"]那……请您提两句祝酒词？
 [charslot(slot = "r",focus="r", name = "avg_npc_2034_1#1$1")]
-[name="高登"]嗯......六天后的展会只是个起点，我的开幕致辞必将轰动整个哥伦比亚。
+[name="高登"]嗯……六天后的展会只是个起点，我的开幕致辞必将轰动整个哥伦比亚。
 [charslot(slot = "r",focus="r", name = "avg_npc_2034_1#3$1")]
 [name="高登"]我会亲眼看着所有火箭的外壳都刻上我的头像，影月都市里最大的街区也会以我的名字命名。
 [charslot(slot = "r",focus="r", name = "avg_npc_2034_1#2$1")]
-[name="高登"]莱茵、管理局、特区政府......没人能压到我的头上。只要不出岔子，这里永远是高登·谭农的“螺旋桨天堂”！
+[name="高登"]莱茵、管理局、特区政府……没人能压到我的头上。只要不出岔子，这里永远是高登·谭农的“螺旋桨天堂”！
 [charslot(slot = "r",focus="r", name = "avg_npc_2034_1#2$1")]
 [name="高登"]干杯！
 [PlaySound(key="$clink", volume=1)]
@@ -392,9 +392,9 @@
 [charslot]
 [charslot(slot = "r", name = "avg_npc_2034_1#6$1", focus="r")]
 [charslot(slot = "l", name = "avg_npc_2037_1#1$1", focus="r")]
-[name="高登"]......
+[name="高登"]……
 [charslot(slot="l",focus="l",name = "avg_npc_2037_1#12$1")]
-[name="梅希亚"]......
+[name="梅希亚"]……
 [charslot(slot = "r",focus="r")]
 [name="高登"]噗——！
 [charslot]

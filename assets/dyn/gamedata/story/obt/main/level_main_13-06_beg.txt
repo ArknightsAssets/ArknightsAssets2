@@ -23,7 +23,7 @@
 [interlude(channel = 2, type = 1, slot = "m", offset = "170,0", name = "cutin_char_3",sfrom = "0.7,0.7", sto = "0.7,0.7",  aduration = 2,block=false)]
 [interlude(channel = 2, type = 1, slot = "m", pfrom = "170,0", pto = "120,0", duration = 40)]
 [Sticker(id="st1", multi = true, text="我们找到了十七座血魔的战争法阵。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n真正在这片战场上的法阵数量，恐怕还要数倍......乃至数十倍于这个数字。",block = true)]
+[Sticker(id="st1", multi = true, text="\n真正在这片战场上的法阵数量，恐怕还要数倍……乃至数十倍于这个数字。",block = true)]
 [Sticker(id="st1", multi = true, text="\n毫无例外，都是最近一周内出现在这片战场上的。这种效率让人胆寒。",block = true)]
 [Sticker(id="st1")]
 [Sticker(id="st1", multi = true, text="其中有两座，我们发现了队伍通过的痕迹，但根据泥印的深度，他们恐怕都不过是执行巡检、维修的任务。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
@@ -43,7 +43,7 @@
 [charslot(slot="m",name="avg_4088_hodrer_1#4$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4088_hodrer_1#4$1",focus="m")]
-[name="赫德雷"]......这里已经完全毁了。
+[name="赫德雷"]……这里已经完全毁了。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
 [name="伊内丝"]和罗德岛之前的推测一样，又是一处从城外通向城内的秘密路网。
 [name="伊内丝"]特雷西斯就是通过这些站点，把大量的钢铁、晶体单元和巫术装置运进了伦蒂尼姆，直到修好了碎片大厦，直到造完了飞空艇。
@@ -51,18 +51,18 @@
 [name="伊内丝"]所以，恐怕那些东西，也是和食腐者之王的军团一样，“唰”一下就出现在了这些站点周边。
 [name="伊内丝"]我们一直在寻找的所谓“萨卡兹补给线”，恐怕只是真正的运输过程中最后的、最不重要的那个环节。
 [charslot(slot="m",name="avg_4087_ines_1#14$1",focus="m")]
-[name="伊内丝"]......这到底是种什么技术？
+[name="伊内丝"]……这到底是种什么技术？
 [charslot(slot="m",name="avg_4088_hodrer_1#8$1",focus="m")]
 [name="赫德雷"]还有一个问题。既然特雷西斯掌握了这种能力，他为什么不直接把它运用在作战上？
 [name="赫德雷"]让军队直接出现在敌军防线的后方，或者干脆让一批即将引爆的源石炸药出现在公爵们的座舰头顶。
 [charslot(slot="m",name="avg_4087_ines_1#14$1",focus="m")]
-[name="伊内丝"]要不然，这种技术限制很多；要不然......它其实十分脆弱。
-[name="伊内丝"]那个巫妖声称这是脱离源石技艺范畴的一种法术。可我实在没办法想象......
+[name="伊内丝"]要不然，这种技术限制很多；要不然……它其实十分脆弱。
+[name="伊内丝"]那个巫妖声称这是脱离源石技艺范畴的一种法术。可我实在没办法想象……
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]W，你那边——
 [Dialog]
 [charslot]
-[name="W"]......
+[name="W"]……
 [name="W"]啊？
 [name="W"]呃，没有战斗痕迹，这里塌得很彻底。
 [Dialog]
@@ -75,7 +75,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]......走吧，这里没别的好看的了。
+[name="赫德雷"]……走吧，这里没别的好看的了。
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -112,7 +112,7 @@
 [name="伊内丝"]那张图上，伦蒂尼姆周边的所有镇子都被这些货运通行记录占满了。
 [name="伊内丝"]这里毕竟是维多利亚的首都，开战之前，市民们每天吃的那么多肉排，喝的那么多酒，都没法从货架上直接长出来。
 [charslot(slot="m",name="avg_4087_ines_1#14$1",focus="m")]
-[name="伊内丝"]可是，这个镇子......“布伦特伍德”，却成了一块扎眼的空白。通行记录寥寥，为数不多的几次记载也大都集中在1094到1095年之间。
+[name="伊内丝"]可是，这个镇子……“布伦特伍德”，却成了一块扎眼的空白。通行记录寥寥，为数不多的几次记载也大都集中在1094到1095年之间。
 [name="伊内丝"]这很反常，这个镇子简直像是被遗忘了。这可是在维多利亚的中央。
 [name="伊内丝"]当时，罗德岛猜测布伦特伍德可能是萨卡兹地下铁路的起点，或者隐藏路网的枢纽，所以进行了某种暗地里的通行管制。
 [name="伊内丝"]我们刚刚证明了这种运输站确实存在。
@@ -120,7 +120,7 @@
 [name="伊内丝"]但，我们已经知道特雷西斯有一双，哼，“无形的大手”，能凭空把东西摆放在任意位置。
 [name="伊内丝"]我们可能需要重新考虑布伦特伍德的意义。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
-[name="赫德雷"]......不。
+[name="赫德雷"]……不。
 [name="赫德雷"]离这里越近的地方，血魔那些法阵出现得就越密集。
 [name="赫德雷"]而最远端的几个点，把它们和布伦特伍德连线，距离也大致相等。我们可以猜测，这个距离就是投放的极限。
 [charslot(slot="m",name="avg_npc_412_1#8$1",focus="m")]
@@ -142,7 +142,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [charslot(slot="m",name="avg_4088_hodrer_1#6$1",focus="m")]
-[name="赫德雷"]......唉。
+[name="赫德雷"]……唉。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]出发吧，既然没有更多线索，交给偶然也是不错的选择。
 [name="赫德雷"]第一个地点就选择这里吧。
@@ -183,8 +183,8 @@
 [charslot(slot="m",name="avg_4087_ines_1#14$1",focus="m")]
 [name="伊内丝"]你大概真的蒙对了，这里的影子很不寻常。
 [name="伊内丝"]我该说是混乱吗？不过，似乎也有迹可循。
-[name="伊内丝"]像是......有一艘船在其中行驶，激起的波纹相互重叠，相互干涉，最终把一切搅得一团乱。
-[name="伊内丝"]与其说是行驶，更像是......漂流。
+[name="伊内丝"]像是……有一艘船在其中行驶，激起的波纹相互重叠，相互干涉，最终把一切搅得一团乱。
+[name="伊内丝"]与其说是行驶，更像是……漂流。
 [charslot(slot="m",name="avg_4088_hodrer_1#4$1",focus="m")]
 [name="赫德雷"]“漂流”。
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
@@ -201,7 +201,7 @@
 [charslot(slot="m",name="avg_4088_hodrer_1#1$1",focus="m")]
 [name="赫德雷"]那么，W，作为万全准备中的一环，你留在这里接应我们。
 [name="赫德雷"]这次我们的任务不是战斗，我们首先要弄清楚自己正在面对什么。
-[name="赫德雷"]如果情况变坏，我们需要撤出，你就......
+[name="赫德雷"]如果情况变坏，我们需要撤出，你就……
 [charslot(slot="m",name="avg_npc_412_1#7$1",focus="m")]
 [name="W"]放心，我不会给你们留门的。
 [name="W"]我会精心设计好引爆角度，等你们被血魔或者食腐者，或者干脆特雷西斯本人追到了洞口，眼见光明就在眼前，然后——
@@ -211,12 +211,12 @@
 [charslot(slot="m",name="avg_4087_ines_1#2$1",focus="m")]
 [name="伊内丝"]你一个人对付不了特蕾西娅，W。
 [charslot(slot="m",name="avg_npc_412_1#4$1",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_npc_412_1#13$1",focus="m")]
 [name="W"]伊内丝。
 [name="W"]我真的会把你们埋在这里的。
 [charslot(slot="m",name="avg_4087_ines_1#1$1",focus="m")]
-[name="伊内丝"]......哼。你自己明白。
+[name="伊内丝"]……哼。你自己明白。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -232,22 +232,22 @@
 [name="伊内丝"]她那副装出来的样子真是可悲。我宁愿她知道自己到底要的是什么。
 [name="伊内丝"]你待在城里那么久，她要是只想弄清真相，直接问你不好？
 [name="伊内丝"]她有问过你“那个特蕾西娅到底是真是假”之类的问题吗？
-[name="赫德雷"]......
+[name="赫德雷"]……
 [name="伊内丝"]她也从没问过我。看吧，她的心智毫无长进。
 [name="伊内丝"]要不然，向那个“特蕾西娅”摇尾乞怜，恳求她的原谅；要不然，就做好准备杀了她。
 [name="伊内丝"]她摆出这副模样来算是什么？试图向我们表现出她很好她很坚强？
 [name="伊内丝"]还是试图说服她自己，什么事情都没有发生，她只要和以前一样杀人和埋地雷，一切事情就都能过去。
-[name="伊内丝"]W如果真的有本事什么都不想，那也可以。可她......就像是个站在冰面上的孩子。
+[name="伊内丝"]W如果真的有本事什么都不想，那也可以。可她……就像是个站在冰面上的孩子。
 [name="伊内丝"]磨磨蹭蹭地不知道要不要探出脚去，往前走几步却又退回来，然后站在原地瞻前顾后，徒劳地感伤。
 [name="赫德雷"]我可没看出来这些。
-[name="伊内丝"]......少骗人，你只是不愿意惹麻烦。
+[name="伊内丝"]……少骗人，你只是不愿意惹麻烦。
 [name="赫德雷"]你原来这么关心她。
 [name="伊内丝"]我是在关心我自己，我不想让她害死我。
 [name="赫德雷"]说真的，伊内丝，你要不要考虑回卡兹戴尔？
 [name="伊内丝"]哈！觉得我拖累你们的大计划了？
 [name="赫德雷"]不，我只是偶尔会想，我和W都有理由继续留在这片战场。
 [name="赫德雷"]你呢？
-[name="伊内丝"]......也有。
+[name="伊内丝"]……也有。
 [Dialog]
 [stopSound(channel="hd", fadetime=0.5)]
 [stopSound(channel="in", fadetime=0.5)]
@@ -269,7 +269,7 @@
 [charslot(slot="r",name="avg_4087_ines_1#7$1",duration=0.7)]
 [Delay(time=1)]
 [charslot(slot="r",name="avg_4087_ines_1#7$1",focus="r")]
-[name="伊内丝"]这里就是......山体的内部。
+[name="伊内丝"]这里就是……山体的内部。
 [name="伊内丝"]他们挖空了整座山？
 [charslot(slot="l",name="avg_4088_hodrer_1#1$1",focus="l")]
 [name="赫德雷"]这下W的爆破计划要更顺利了。
@@ -301,9 +301,9 @@
 [charslot(slot="r",name="avg_npc_054",focus="r")]
 [name="寡言的萨卡兹劳工"]你不会打仗。
 [charslot(slot="l",name="avg_npc_053",focus="l")]
-[name="疲惫的萨卡兹劳工"]不用你提醒！只是这里......实在太压抑了。
+[name="疲惫的萨卡兹劳工"]不用你提醒！只是这里……实在太压抑了。
 [name="疲惫的萨卡兹劳工"]我每天都能看到那些幻象，那些真真假假的东西。
-[name="疲惫的萨卡兹劳工"]这里简直像是......一个漩涡，不停地冒出那些跨时空垃圾。
+[name="疲惫的萨卡兹劳工"]这里简直像是……一个漩涡，不停地冒出那些跨时空垃圾。
 [name="疲惫的萨卡兹劳工"]还好，厄尔苏拉是个好人，她不会动不动就找我们的麻烦，想尽办法在我们头上撒野。
 [name="疲惫的萨卡兹劳工"]听说，按照军事委员会的级别来看，她是最年轻的少校？
 [charslot(slot="r",name="avg_npc_054",focus="r")]
@@ -314,7 +314,7 @@
 [charslot(slot="r",name="avg_npc_054",focus="r")]
 [name="寡言的萨卡兹劳工"]可他们都是最厉害的。
 [charslot(slot="l",name="avg_npc_053",focus="l")]
-[name="疲惫的萨卡兹劳工"]那是因为......
+[name="疲惫的萨卡兹劳工"]那是因为……
 [charslot(slot="r",name="avg_npc_054",focus="r")]
 [name="寡言的萨卡兹劳工"]行了，时间快到了。
 [name="寡言的萨卡兹劳工"]去机器旁边等着，准备装货。
@@ -330,16 +330,16 @@
 [Delay(time=0.5)]
 [charslot(slot="l",name="avg_4088_hodrer_1#7$1",focus="r")]
 [charslot(slot="r",name="avg_4087_ines_1#7$1",focus="r")]
-[name="伊内丝"]......你听到他们说的那个名字了吗？
+[name="伊内丝"]……你听到他们说的那个名字了吗？
 [charslot(slot="l",name="avg_4088_hodrer_1#7$1",focus="l")]
 [name="赫德雷"]厄尔苏拉。
 [charslot(slot="r",name="avg_4087_ines_1#7$1",focus="r")]
-[name="伊内丝"]会不会......
+[name="伊内丝"]会不会……
 [charslot(slot="l",name="avg_4088_hodrer_1#7$1",focus="l")]
 [name="赫德雷"]未必是我们想的那个人。普通萨卡兹的名字要不就只是个代号，要不就是从那些英雄故事里摘出来的。
 [name="赫德雷"]窃取时间的厄尔苏拉，锁与钥匙的厄尔苏拉。这是个关于巨兽的萨卡兹传说，谁拿去用都不稀奇。
 [charslot(slot="l",name="avg_4088_hodrer_1#4$1",focus="l")]
-[name="赫德雷"]......慢着。窃取时间的......厄尔苏拉？
+[name="赫德雷"]……慢着。窃取时间的……厄尔苏拉？
 [charslot(slot="r",name="avg_4087_ines_1#14$1",focus="r")]
 [name="伊内丝"]“赫德雷”，那你的名字有什么说法？
 [charslot(slot="l",name="avg_4088_hodrer_1#1$1",focus="l")]
@@ -355,7 +355,7 @@
 [charslot(slot="l",name="avg_4088_hodrer_1#4$1",focus="l")]
 [name="赫德雷"]是钟声。
 [charslot(slot="r",name="avg_4087_ines_1#6$1",focus="r")]
-[name="伊内丝"]等等，你看那边......
+[name="伊内丝"]等等，你看那边……
 [name="伊内丝"]那是，什么？
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -371,7 +371,7 @@
 [dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Sticker(id="st1", multi = true, text="那是什么？", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n山体在颤动......",block = true)]
+[Sticker(id="st1", multi = true, text="\n山体在颤动……",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -428,7 +428,7 @@
 [Sticker(id="st1", multi = true, text="\n平静，安详，还没有被装上轮子，也没有被嫉恨浸染。它美好得——哪怕在幻象之中——也格格不入，荒诞十足。",block = true)]
 [Sticker(id="st1", multi = true, text="\n那是卡兹戴尔，我毫无缘由地坚信，那就是卡兹戴尔。某段历史中，某个已经不复存在的，我的家园。",block = true)]
 [Sticker(id="st1")]
-[Sticker(id="st1", multi = true, text="我想走向那里，走入其中。我想......去看看，曾经我们拥有过怎样的生活。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="我想走向那里，走入其中。我想……去看看，曾经我们拥有过怎样的生活。", x=300,y=270,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [Dialog]
@@ -478,11 +478,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="r",name="avg_4087_ines_1#7$1",focus="r")]
-[name="伊内丝"]这是......“运输船”？
-[name="伊内丝"]这个大小......特雷西斯还藏着这种......
+[name="伊内丝"]这是……“运输船”？
+[name="伊内丝"]这个大小……特雷西斯还藏着这种……
 [charslot(slot="l",name="avg_4088_hodrer_1#4$1",focus="l")]
-[name="赫德雷"]居然，真的是这样......？
-[name="赫德雷"]窃取时间的......厄尔苏拉。
+[name="赫德雷"]居然，真的是这样……？
+[name="赫德雷"]窃取时间的……厄尔苏拉。
 [stopmusic(fadetime=3)]
 [Dialog]
 [charslot]
@@ -530,7 +530,7 @@
 [delay(time=1)]
 [name="伊内丝"]我记得你以前滴酒不沾。
 [charslot(slot = "m", name = "avg_npc_1067_1#2$1",focus="m")]
-[name="厄尔苏拉"]以前啊......以前。
+[name="厄尔苏拉"]以前啊……以前。
 [charslot(slot = "m", name = "avg_npc_1067_1#1$1",focus="m")]
 [name="厄尔苏拉"]你以前也不会对我挥刀，伊内丝。
 [Dialog]

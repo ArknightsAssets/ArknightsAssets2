@@ -39,7 +39,7 @@
 [Character(name="char_empty",name2="avg_496_wdmane_1",focus=2)]
 [name="艾沃娜"]还有其他要联系的人吗？都包在我身上好了。
 [Character(name="char_empty",name2="avg_496_wdmane_1",focus=-1)]
-[multiline(name="索娜")]让我看看......
+[multiline(name="索娜")]让我看看……
 [multiline(name="索娜",end=true)]今天没有了。
 [name="索娜"]联系上这位卡利什先生之后，你就可以放一下午的假啦。
 [Character(name="char_empty",name2="avg_496_wdmane_1#10",focus=2)]
@@ -51,14 +51,14 @@
 [Delay(time=0.5)]
 [PlaySound(key="$d_avg_runstop", volume=1)]
 [Delay(time=1)]
-[name="艾沃娜"]（等等，那是......征战骑士？）
+[name="艾沃娜"]（等等，那是……征战骑士？）
 [dialog]
 [CharacterCutin(widgetID="1",fadetime=0,block=false)]
 [character]
 [delay(time=1)]
 不远处的书报亭前站着一位征战骑士，看见他的艾沃娜自然而然地停下脚步。
-[name="书报亭老板"]......这一款......
-[name="征战骑士"]......不是......哪个......
+[name="书报亭老板"]……这一款……
+[name="征战骑士"]……不是……哪个……
 [dialog]
 [delay(time=0.5)]
 看着征战骑士似乎陷入了什么麻烦，艾沃娜并未多想，快步走上前去。
@@ -102,12 +102,12 @@
 这样的组合她永远都想不到。
 [Dialog]
 [Character(name="avg_npc_624_1#1$1",name2="avg_496_wdmane_1#7",focus=2)]
-[name="艾沃娜"]......艾沃娜·克鲁科夫斯卡，感染者竞技骑士。
+[name="艾沃娜"]……艾沃娜·克鲁科夫斯卡，感染者竞技骑士。
 [name="艾沃娜"]抱歉打扰，如果没什么要紧事我先走了。
 [Character(name="avg_npc_624_1#1$1",name2="avg_496_wdmane_1#7",focus=1)]
 [name="征战骑士"]请等一等，你知道这两种彩票——
 [Character(name="avg_npc_624_1#1$1",name2="avg_496_wdmane_1#7",focus=2)]
-[name="艾沃娜"]我对这些不熟......再见。
+[name="艾沃娜"]我对这些不熟……再见。
 [Character(name="avg_npc_624_1#1$1",name2="avg_496_wdmane_1#7",focus=1)]
 [name="征战骑士"]好吧。
 [Dialog]
@@ -127,7 +127,7 @@
 [Delay(time=1)]
 [Character(name="avg_496_wdmane_1#2")]
 [name="艾沃娜"]为什么堂堂征战骑士会去买彩票？为什么会对这种乌烟瘴气的东西感兴趣？
-[name="艾沃娜"]......
+[name="艾沃娜"]……
 [Character(name="avg_496_wdmane_1#10")]
 [name="艾沃娜"]算了，不想了。
 [name="艾沃娜"]他大概只是好奇，因为没见过，一定是这么回事。
@@ -141,7 +141,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [Character(name="avg_496_wdmane_1")]
-[name="艾沃娜"]让我看看......卡利什先生的家是在这里没错......
+[name="艾沃娜"]让我看看……卡利什先生的家是在这里没错……
 [Dialog]
 [Delay(time=1)]
 [playMusic(intro="$escape_intro", key="$escape_loop", volume=0.4)]
@@ -150,7 +150,7 @@
 [name="艾沃娜"]卡利什先生？！
 [Dialog]
 [character]
-[name="卡利什"]......艾、艾沃娜......
+[name="卡利什"]……艾、艾沃娜……
 [Dialog]
 她要找的卡利什躺在自家门口，捂着腿上的伤口呻吟，血从他的指缝间涌出来。
 周围空无一人，没人敢上前来帮助这位受伤的感染者，原因显而易见。
@@ -190,8 +190,8 @@
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",fadetime=0.7)]
 [delay(time=1.5)]
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",focus=1)]
-[name="征战骑士"]艾沃娜·克鲁......克鲁科夫斯卡小姐？你有什么事——
-[name="征战骑士"]这个人......是谁把他伤成这样？
+[name="征战骑士"]艾沃娜·克鲁……克鲁科夫斯卡小姐？你有什么事——
+[name="征战骑士"]这个人……是谁把他伤成这样？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",focus=2)]
 [name="艾沃娜"]是无胄盟，我正要去给他们一个教训。这位卡利什先生拜托给你可以吗？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",focus=1)]
@@ -201,7 +201,7 @@
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#7",focus=1)]
 [name="征战骑士"]那我得注意点，不能碰他的血，对吧？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#6",focus=2)]
-[name="艾沃娜"]......
+[name="艾沃娜"]……
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#6",focus=1)]
 [name="征战骑士"]去吧，给那群阴沟里的虫子一个教训！卡利什就交给我！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=2)]
@@ -226,7 +226,7 @@
 [character(fadetime=0)]
 [Character(name="avg_npc_216",fadetime=0.7,block=true)]
 [Delay(time=1)]
-[name="无胄盟成员"]......很能跑啊，小姑娘。
+[name="无胄盟成员"]……很能跑啊，小姑娘。
 [Character(name="avg_npc_216", name2="avg_496_wdmane_1#8",focus=2)]
 [name="艾沃娜"]你们为什么要对卡利什下手？
 [Character(name="avg_npc_216", name2="avg_496_wdmane_1#8",focus=1)]
@@ -391,7 +391,7 @@
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="征战骑士"]躲在阴影里的虫豸，滚出来！
 [Character(name="avg_496_wdmane_1#5")]
-[name="艾沃娜"]征战骑士......先生？！
+[name="艾沃娜"]征战骑士……先生？！
 [Character(name="avg_npc_624_1#1$1")]
 [name="征战骑士"]我们保卫卡西米尔，不是为了给你们提供腐败的温床！
 [Character(name="avg_npc_216")]
@@ -441,7 +441,7 @@
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=2)]
 [name="艾沃娜"]是啊！我请客！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=1)]
-[name="马索夫"]呃，这......好、好啊。
+[name="马索夫"]呃，这……好、好啊。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=2)]
 [name="艾沃娜"]走，喝酒去，喝酒去！
 [Dialog]
@@ -455,7 +455,7 @@
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#7",focus=2)]
 [name="艾沃娜"]奇怪，酒吧难道不是越热闹越好吗？你怎么拉着我进了这么家没什么人的？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#7",focus=1)]
-[name="马索夫"]这......我喜欢清静一点的地方。
+[name="马索夫"]这……我喜欢清静一点的地方。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#7",focus=2)]
 [name="艾沃娜"]唔，好吧。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=2)]
@@ -473,7 +473,7 @@
 [name="艾沃娜"]马索夫老兄，你们征战骑士进入大骑士领那一晚，我因为和无胄盟打架，没在现场看到你们的身影。
 [name="艾沃娜"]但是那之后的新闻报道，我一期不落地看了！真是太酷了！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=1)]
-[name="马索夫"]哈哈......
+[name="马索夫"]哈哈……
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=2)]
 [name="艾沃娜"]大骑士领就需要你们这样的人，把那些两面三刀的家伙脸上的面具扔到地上，再狠狠踩上两脚！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",focus=2)]
@@ -484,27 +484,27 @@
 [name="艾沃娜"]哼，竞技骑士对他们来说是提线木偶，而我们感染者骑士连木偶都算不上，完全就是一块破抹布！
 [name="艾沃娜"]每次骑士竞技出了什么乱子，他们永远都能找到一个完全无关的感染者骑士，把责任一股脑推给他！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#8",focus=2)]
-[name="艾沃娜"]等到他们想吹嘘自己对感染者不错，我们就又被推到台前，当成“优待”的证明展览给其他人......一想到这些，我肺都要气炸了！
+[name="艾沃娜"]等到他们想吹嘘自己对感染者不错，我们就又被推到台前，当成“优待”的证明展览给其他人……一想到这些，我肺都要气炸了！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#8",focus=1)]
 [name="马索夫"]他们怎么能这样？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",focus=2)]
 [name="艾沃娜"]就说刚才那些无胄盟吧。自从我们红松骑士团有了一些名声，他们就没少找上门来，就因为我们不愿意被商业联合会当成破抹布！
 [name="艾沃娜"]停电那晚，我差点被他们杀了，我的同伴也因为他们遭遇了生命危险！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",focus=1)]
-[name="马索夫"]我也听说过不少无胄盟的传闻，但他们敢在大骑士领这么肆无忌惮，我今天也是头一次见......
+[name="马索夫"]我也听说过不少无胄盟的传闻，但他们敢在大骑士领这么肆无忌惮，我今天也是头一次见……
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#9",focus=2)]
 [name="艾沃娜"]就因为我们要帮助感染者，和他们对着干，他们早就想把我们除掉了。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=2)]
 [name="艾沃娜"]但我们才不可能放弃。只要我还有一口气，就不可能坐视大骑士领把感染者嚼碎吞掉！
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=1)]
-[name="马索夫"]呃......也没这么严重吧？
+[name="马索夫"]呃……也没这么严重吧？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#7",focus=2)]
 [name="艾沃娜"]啊？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#7",focus=1)]
 [name="马索夫"]无胄盟和商业联合会确实可恨，但你说整个大骑士领的话，至少卡西米尔的中枢还是愿意保护感染者的吧。
 [name="马索夫"]要不然，他们也不会同意设立感染者骑士这种制度了。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#2",focus=2)]
-[name="艾沃娜"]你这么说，好像也......
+[name="艾沃娜"]你这么说，好像也……
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=2)]
 [name="艾沃娜"]唉，先不聊这个了，喝酒喝酒！
 [Dialog]
@@ -526,13 +526,13 @@
 [delay(time=3)]
 [name="酒吧老板"]给，你的威士忌。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=1)]
-[name="马索夫"]......
+[name="马索夫"]……
 [Dialog]
 [delay(time=1)]
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1",focus=1)]
 [name="马索夫"]好酒。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=2)]
-[name="艾沃娜"]那......给我也来一杯一样的。
+[name="艾沃娜"]那……给我也来一杯一样的。
 [Character(name="avg_npc_006")]
 [name="酒吧老板"]要加什么？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=2)]
@@ -542,7 +542,7 @@
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=2)]
 [name="艾沃娜"]没关系。
 [Character(name="avg_npc_006")]
-[name="酒吧老板"]好嘞......稍等。
+[name="酒吧老板"]好嘞……稍等。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -552,7 +552,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=0.5)]
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=2)]
-[name="艾沃娜"]......
+[name="艾沃娜"]……
 [Dialog]
 [delay(time=1)]
 [CameraShake(duration=0.5, xstrength=5, ystrength=8, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -571,7 +571,7 @@
 [character(fadetime=0)]
 [Character(name="avg_npc_001", fadetime=0.5,block=true)]
 [delay(time=1)]
-[name="醉汉"]胡......胡说八道！
+[name="醉汉"]胡……胡说八道！
 [playMusic(intro="$mist_intro", key="$mist_loop", volume=0.4)]
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#7",focus=2)]
 [name="艾沃娜"]啊？
@@ -580,7 +580,7 @@
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#7",focus=2)]
 [name="艾沃娜"]可这些都是少数。
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#7",focus=1)]
-[name="醉汉"]我......也经常押骑士竞技的胜负，我也、也没少赢钱！
+[name="醉汉"]我……也经常押骑士竞技的胜负，我也、也没少赢钱！
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#7",focus=2)]
 [name="艾沃娜"]但是索娜说过，彩票的发行商早都算好了，你们赢到手里的钱是不可能比花出去买彩票的钱多的。
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#7",focus=1)]
@@ -592,9 +592,9 @@
 [name="醉汉"]什么特殊情况，我看你是找揍！
 [name="醉汉"]对了，你刚才说过吧，自己是感染者？
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#7",focus=2)]
-[name="艾沃娜"]......那又怎样？
+[name="艾沃娜"]……那又怎样？
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#7",focus=1)]
-[name="醉汉"]感染者就该、就该扔到大骑士领外面去，省得污染街道......
+[name="醉汉"]感染者就该、就该扔到大骑士领外面去，省得污染街道……
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#9",focus=2)]
 [name="艾沃娜"]你再说一遍试试？
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#9",focus=1)]
@@ -612,7 +612,7 @@
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#9",focus=2)]
 [name="艾沃娜"]你再说一遍？！
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#9",focus=1)]
-[name="醉汉"]......
+[name="醉汉"]……
 [Dialog]
 [Character(name="avg_npc_001", name2="avg_496_wdmane_1#9")]
 [delay(time=0.5)]
@@ -626,7 +626,7 @@
 [Character(fadetime=0.5)]
 [Delay(time=1.5)]
 [Character(name="avg_npc_001")]
-[name="醉汉"]哼，得意什么......
+[name="醉汉"]哼，得意什么……
 [name="醉汉"]现在的骑士真是越来越差劲了，先是同意感染者当竞技骑士，现在连征战骑士也和感染者混在——
 [Dialog]
 [Character(fadetime=0)]
@@ -661,7 +661,7 @@
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=1)]
 [name="马索夫"]像那种可悲的家伙，至少能在里面得到一点点希望。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#2",focus=2)]
-[name="艾沃娜"]呃......你说的有点......深奥。
+[name="艾沃娜"]呃……你说的有点……深奥。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#2",focus=1)]
 [name="马索夫"]没什么，没什么。
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#2",focus=2)]
@@ -699,11 +699,11 @@
 [Character(name="avg_npc_624_1#1$1",focus=-1)]
 [name="电话那头的声音"]马索夫，不是说了在梅什科工业大楼下面集合吗，你跑哪去了？
 [Character(name="avg_npc_624_1#1$1")]
-[name="马索夫"]我......我处理点事情。
+[name="马索夫"]我……我处理点事情。
 [Character(name="avg_npc_624_1#1$1",focus=-1)]
 [name="电话那头的声音"]什么事情？
 [Character(name="avg_npc_624_1#1$1")]
-[name="马索夫"]这......
+[name="马索夫"]这……
 [Character(name="avg_npc_624_1#1$1",focus=-1)]
 [name="电话那头的声音"]别支支吾吾了，我们都看见了，你进了一家酒吧，身边还有一个人，看起来像个竞技骑士！
 [name="电话那头的声音"]看不出来，你小子也学坏了？
@@ -719,7 +719,7 @@
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=2)]
 [name="艾沃娜"]你的同伴？
 [Character(name="avg_npc_624_1#1$1", name2="avg_496_wdmane_1#10",focus=1)]
-[name="马索夫"]嗯......嗯。
+[name="马索夫"]嗯……嗯。
 [Dialog]
 [Character(name="avg_npc_624_1#1$1",name2="avg_496_wdmane_1#10")]
 [delay(time=0.3)]
@@ -737,7 +737,7 @@
 [name="马索夫"]什么骗酒喝，你们就喜欢瞎说。
 [Character(name="avg_npc_624_1#1$1",focus=-1)]
 [name="征战骑士B"]快出来吧，这种下等人扎堆的地方你也真进得去。那个竞技骑士的酒没让你喝坏肚子就不错了。
-[name="征战骑士B"]还是说，你看上人家了，打算和她......？
+[name="征战骑士B"]还是说，你看上人家了，打算和她……？
 [Character(name="avg_npc_624_1#1$1")]
 [name="马索夫"]胡说！
 [Character(name="avg_npc_624_1#1$1",focus=-1)]
@@ -785,7 +785,7 @@
 [name="征战骑士A"]嗬，居然还是个感染者。
 [name="征战骑士B"]啧啧啧。
 [Character(name="avg_npc_624_1#1$1")]
-[name="马索夫"]走，我们喝好酒去！这家店的酒难喝死了，没有哪个体面人受得了......
+[name="马索夫"]走，我们喝好酒去！这家店的酒难喝死了，没有哪个体面人受得了……
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Character(fadetime=1)]
@@ -794,35 +794,35 @@
 艾沃娜在原地怔了一会儿。她此刻唯一能做的是把地上的卡片捡起来。
 卡片上，灰色的鞋印重重叠叠。
 [Character(name="avg_496_wdmane_1#7")]
-[name="艾沃娜"]......这就是......征战骑士？
+[name="艾沃娜"]……这就是……征战骑士？
 [Dialog]
 [Character]
 艾沃娜回想着这位征战骑士从头到尾的表现。
 到底哪一面才是真正的马索夫？
 他愿意为了感染者的安危挺身而出，愿意和只有一面之缘的感染者竞技骑士一同喝酒。
 他把象征红松骑士团的卡片踩在脚下，他撒谎说自己死缠烂打，他说竞技骑士就是用来给人解闷的家伙。
-他......
+他……
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#7",focus=1)]
 [name="酒吧老板"]给，小姑娘。
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#5",focus=2)]
-[name="艾沃娜"]......牧草伏特加？超大杯？
+[name="艾沃娜"]……牧草伏特加？超大杯？
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#7",focus=2)]
 [name="艾沃娜"]我没点这种酒。
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#7",focus=1)]
 [name="酒吧老板"]这是我这儿最好的酒，送你的。
 [name="酒吧老板"]刚才那家伙的事，你别往心里去。骑士老爷嘛，都是这样的。
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#7",focus=2)]
-[name="艾沃娜"]骑士......老爷？
+[name="艾沃娜"]骑士……老爷？
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#7",focus=1)]
 [name="酒吧老板"]要不然呢？
-[name="酒吧老板"]看你这样子......算啦，你们这顿酒我请了。
+[name="酒吧老板"]看你这样子……算啦，你们这顿酒我请了。
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#5",focus=2)]
 [name="艾沃娜"]欸？
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#5",focus=1)]
 [name="酒吧老板"]你刚刚不是还帮我赶走了一个耍酒疯的吗？就当是报酬了。
 [name="酒吧老板"]敞开喝吧，这间酒吧不就是为了你我这样的人开起来的吗？
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1",focus=2)]
-[name="艾沃娜"]......好！
+[name="艾沃娜"]……好！
 [Dialog]
 [Character]
 [delay(time=1)]
@@ -831,7 +831,7 @@
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1",focus=2)]
 [name="艾沃娜"]这么好的酒，不一口喝光怎么行！
 [name="艾沃娜"]今天下午可是我难得的假期！
-[name="艾沃娜"]虽然不知道该怎么度过，但我可不能把假期给浪费了......
+[name="艾沃娜"]虽然不知道该怎么度过，但我可不能把假期给浪费了……
 [Character(name="avg_npc_006", name2="avg_496_wdmane_1#4",focus=2)]
 [name="艾沃娜"]嗝。
 [Dialog]
@@ -867,7 +867,7 @@
 [character(fadetime=0.5)]
 [delay(time=1.5)]
 [Character(name="avg_npc_122#5")]
-[name="索娜"]哇，这么快就睡着了......
+[name="索娜"]哇，这么快就睡着了……
 [Character(name="avg_npc_122#7")]
 [name="索娜"]艾沃娜酒量一直不错的，只有心情不好的时候才容易醉。这次醉得这么厉害，难道是闹了什么不愉快？
 [Character(name="avg_npc_122#7",focus=-1)]
@@ -875,18 +875,18 @@
 [Character(name="avg_npc_122#5")]
 [name="索娜"]艾沃娜，怎么了？
 [Character(name="avg_npc_122#5",focus=-1)]
-[name="艾沃娜"]正......正......正义骑士号！集合！
+[name="艾沃娜"]正……正……正义骑士号！集合！
 [name="正义骑士号"]嘀嘀！
 [Character(name="avg_npc_122#3")]
-[name="索娜"]（原来是梦话啊......）
+[name="索娜"]（原来是梦话啊……）
 [Dialog]
 [character]
-[name="艾沃娜"]我......前几天......想把你，漆成，纯银的！
+[name="艾沃娜"]我……前几天……想把你，漆成，纯银的！
 [name="正义骑士号"]嘀？
 [name="艾沃娜"]然后改名叫、叫、叫，银枪、天马、正义、征战——骑士号！
 [name="正义骑士号"]嘀嘀嘀？！
-[name="艾沃娜"]但我改主意了！你以后就......还是叫、正义骑士号、好了！漆也不用、不用刷了！
-[name="正义骑士号"]嘀......
+[name="艾沃娜"]但我改主意了！你以后就……还是叫、正义骑士号、好了！漆也不用、不用刷了！
+[name="正义骑士号"]嘀……
 [name="艾沃娜"]解散！
 [name="正义骑士号"]嘀嘀。
 [Dialog]
@@ -900,11 +900,11 @@
 [name="索娜"]（小声）艾沃娜？
 [Dialog]
 [character]
-[name="艾沃娜"]我要......
-[name="艾沃娜"]我要成为光荣的......
-[name="艾沃娜"]嗯......
+[name="艾沃娜"]我要……
+[name="艾沃娜"]我要成为光荣的……
+[name="艾沃娜"]嗯……
 [name="艾沃娜"]好酒！
-[name="艾沃娜"]呼......呼......
+[name="艾沃娜"]呼……呼……
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=0.7)]
 [delay(time=1.5)]

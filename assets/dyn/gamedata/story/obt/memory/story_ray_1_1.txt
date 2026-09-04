@@ -16,14 +16,14 @@
 [charslot(duration=0.3)]
 [Delay(time=0.5)]
 [name="闹哄哄的人们"]快！已经一点了，把午饭吃完我们就要开始准备食材了！第一道菜一定得是黄金萝卜，你听我的，没有黄金萝卜，聚餐不完整！
-[name="闹哄哄的人们"]盘子在哪里？盘子不够了！还有碗，还有桌椅......都再来二十个！我十三舅他二姨的大妹妹也来了，还带着她的五个小崽子，真热闹！
+[name="闹哄哄的人们"]盘子在哪里？盘子不够了！还有碗，还有桌椅……都再来二十个！我十三舅他二姨的大妹妹也来了，还带着她的五个小崽子，真热闹！
 [name="闹哄哄的人们"]哎呀！我来这里就是想给你们做顿饭吃，是客人又怎么样，你们还能不让我做饭？快把锅铲给我！
 [Dialog]
 [charslot(slot = "l", name = "avg_npc_1188_1#8$1", duration=1)]
 [charslot(slot = "r", name = "avg_4117_ray_1#1$1", duration=1)]
 [Delay(time=1.5)]
 [charslot(slot = "r", name = "avg_4117_ray_1#1$1",focus="r")]
-[name="莱伊"]......
+[name="莱伊"]……
 [charslot(slot = "l", name = "avg_npc_1188_1#8$1",focus="l")]
 [name="小沙地兽"]嗷！
 [charslot(slot = "r", name = "avg_4117_ray_1#7$1",focus="r")]
@@ -44,7 +44,7 @@
 [name="吉拉"]在那，杰里，我看到莱伊了！
 [name="杰里"]哦，莱伊！这里，在这里！
 [charslot(slot = "m", name = "avg_4117_ray_1#9$1",focus="m")]
-[name="莱伊"]......有人叫我？
+[name="莱伊"]……有人叫我？
 [Dialog]
 [charslot(duration=0.3)]
 [Delay(time=0.5)]
@@ -61,13 +61,13 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="r")]
 [charslot(slot = "r", name = "avg_npc_1184_1#3$1",focus="r")]
-[name="杰里"]真不好意思......人实在是太多了，我刚才估计用上了我这辈子最大的音量！
-[name="杰里"]我和吉拉度完蜜月回来后，想要请客感谢你们，然后不知道怎么回事，邀请名单上的人越变越多......不过我很开心！
-[name="杰里"]因为这里所有人都没想到，我和吉拉能在逃婚之后，反而走到了一起......
+[name="杰里"]真不好意思……人实在是太多了，我刚才估计用上了我这辈子最大的音量！
+[name="杰里"]我和吉拉度完蜜月回来后，想要请客感谢你们，然后不知道怎么回事，邀请名单上的人越变越多……不过我很开心！
+[name="杰里"]因为这里所有人都没想到，我和吉拉能在逃婚之后，反而走到了一起……
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4117_ray_1#9$1",focus="m")]
-[name="莱伊"]......杰里，这里实在是太吵，我听不清你在说什么......！
+[name="莱伊"]……杰里，这里实在是太吵，我听不清你在说什么……！
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="l")]
@@ -99,14 +99,14 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]嗯，我也听到了！
 [charslot(slot = "m", name = "avg_4117_ray_1#8$1",focus="m")]
-[name="莱伊"]......我起了这么重要的作用？
+[name="莱伊"]……我起了这么重要的作用？
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_1184_1#3$1",focus="l")]
 [name="吉拉"]当——然！
 [charslot(slot = "r", name = "avg_npc_1184_1#3$1",focus="r")]
-[name="杰里"]如果没有你劫车！或许我和吉拉这辈子都不会再遇到！我说不定什么时候又会被一个不是由我做出的决定带着跑......！
+[name="杰里"]如果没有你劫车！或许我和吉拉这辈子都不会再遇到！我说不定什么时候又会被一个不是由我做出的决定带着跑……！
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="l")]
 [name="吉拉"]所以！莱伊，我们真——的很感谢你！
 [charslot(slot = "r", name = "avg_npc_1184_1#3$1",focus="r")]
@@ -120,12 +120,12 @@
 [soundvolume(channel="c",volume=0.5,fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
-[name="闹哄哄的人们"]......
+[name="闹哄哄的人们"]……
 [charslot(slot = "m", name = "avg_npc_1186_1#1$1",focus="m")]
 [name="九姑"]劫车？你听到了吗？不是我听错了吧？
 [name="九姑"]我记得杰里说过他被劫车了，后来他们还冲了关，甚至还和检验官起了冲突——是她做的？
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
-[name="六叔"]什么？我听不清......！你说，是她劫走了杰里？
+[name="六叔"]什么？我听不清……！你说，是她劫走了杰里？
 [charslot(slot = "m", name = "avg_npc_1186_1#1$1",focus="m")]
 [name="十七姐"]什么？太吵了！——你说她为了杰里劫车？！
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
@@ -145,7 +145,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot = "m", name = "avg_npc_1184_1#3$1",focus="m")]
-[name="杰里"]哦，莱伊，我们还有太多事情要忙......你还记得你坐在哪里吧？
+[name="杰里"]哦，莱伊，我们还有太多事情要忙……你还记得你坐在哪里吧？
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]记得，在间歇泉三号棚子第十二桌六号。
 [charslot(slot = "m", name = "avg_npc_1184_1#3$1",focus="m")]
@@ -181,7 +181,7 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]你自从回到雷姆必拓，就一直很兴奋。
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
-[name="莱伊"]......
+[name="莱伊"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -194,7 +194,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
-[name="莱伊"]......沙地兽。
+[name="莱伊"]……沙地兽。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]我攒了一点钱，明天我们可以不用上工了，我现在就带你去荒野上玩一会吧。
 [name="莱伊"]我知道你想去荒野上跑，去钻洞，刨沙子。
@@ -218,8 +218,8 @@
 [musicvolume(volume=0.6, fadetime=1)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
-[name="莱伊"]......沙地兽，我们趁这次机会，出去玩吧。
-[name="莱伊"]我很久之前带着沙地兽......我的第一只沙地兽去荒野上玩过。
+[name="莱伊"]……沙地兽，我们趁这次机会，出去玩吧。
+[name="莱伊"]我很久之前带着沙地兽……我的第一只沙地兽去荒野上玩过。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]它那时看起来也很高兴，和你现在一样高兴。
 [name="莱伊"]（指指窗外的荒野）
@@ -245,19 +245,19 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
-[name="不再闹哄哄的人们"]......
+[name="不再闹哄哄的人们"]……
 [charslot(slot = "m", name = "avg_npc_1186_1#1$1",focus="m")]
 [name="九姑"]那个姑娘是不是在杰里和吉拉走之后就一直在和那只沙地兽说话？
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_1185_1#1$1",focus="l")]
-[name="十七姐"]她之前还为了带走杰里劫车......
+[name="十七姐"]她之前还为了带走杰里劫车……
 [charslot(slot = "r", name = "avg_npc_1185_1#1$1",focus="r")]
-[name="六叔"]她现在的状态看起来不是很好啊......
+[name="六叔"]她现在的状态看起来不是很好啊……
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="l")]
-[name="十七姐"]欸？你们看......她怎么这就走了？她不想聚餐了吗？
-[name="十七姐"]不太对吧，你们要不跟着她看看，别让她一个人待着......！
+[name="十七姐"]欸？你们看……她怎么这就走了？她不想聚餐了吗？
+[name="十七姐"]不太对吧，你们要不跟着她看看，别让她一个人待着……！
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -277,7 +277,7 @@
 [name="九姑"]嗯，我看着她走进去了。没事，我顺便再买一点食材回来，你们说还差什么来着？
 [Dialog]
 [delay(time=1)]
-[name="九姑"]瘤奶、洋葱、奶酪......嗯嗯，好......
+[name="九姑"]瘤奶、洋葱、奶酪……嗯嗯，好……
 [Dialog]
 [charslot]
 [PlaySound(key="$transmission",volume=0.6)]
@@ -296,7 +296,7 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#9$1",duration=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_4117_ray_1#9$1",focus="m")]
-[name="莱伊"]我记得兰娜和我说是这里......尸体标本、骨骼、照片......
+[name="莱伊"]我记得兰娜和我说是这里……尸体标本、骨骼、照片……
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]嗯，很好辨认。
 [name="莱伊"]有人在吗？我想要一份附近大型沙地兽洞穴的分布图。
@@ -306,17 +306,17 @@
 [charslot(slot = "m", name = "avg_378_asbest_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_378_asbest_1#1$1",focus="m")]
-[name="石棉"]哈？你又是谁？地图......你也是为了“夜晚荒漠上的鳞群”过来的？
+[name="石棉"]哈？你又是谁？地图……你也是为了“夜晚荒漠上的鳞群”过来的？
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]我听说过这个传说，但我不是为了它而来。
 [charslot(slot = "m", name = "avg_378_asbest_1#1$1",focus="m")]
 [name="石棉"]那是为了什么？一个两个把我这里当什么了，许愿屋？
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
-[name="莱伊"]我是探井人，这是我之前的工作证件、体检报告、出勤记录......作为你帮助我的回报，我可以带你去你想去的废弃矿井，或是地下洞穴。
+[name="莱伊"]我是探井人，这是我之前的工作证件、体检报告、出勤记录……作为你帮助我的回报，我可以带你去你想去的废弃矿井，或是地下洞穴。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]你觉得怎么样？
 [charslot(slot = "m", name = "avg_378_asbest_1#7$1",focus="m")]
-[name="石棉"]头一次见到像你这样的人，跟投简历似的。行吧，我先看看......
+[name="石棉"]头一次见到像你这样的人，跟投简历似的。行吧，我先看看……
 [charslot(slot = "m", name = "avg_npc_1188_1#8$1",focus="m")]
 [name="小沙地兽"]嗷！
 [charslot(slot = "m", name = "avg_378_asbest_1#1$1",focus="m")]
@@ -324,15 +324,15 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]不，是它自己主动跟着我的。
 [charslot(slot = "m", name = "avg_378_asbest_1#6$1",focus="m")]
-[name="石棉"]主动......？哼，有点东西。
+[name="石棉"]主动……？哼，有点东西。
 [Dialog]
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_378_asbest_1#1$1",focus="m")]
-[name="石棉"]嗯......这是罗德岛的饭卡？你是罗德岛的？
+[name="石棉"]嗯……这是罗德岛的饭卡？你是罗德岛的？
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]嗯。
 [charslot(slot = "m", name = "avg_378_asbest_1#1$1",focus="m")]
-[name="石棉"]行吧，做过探井人，能驯服沙地兽，还是罗德岛干员......能被博士看上的都还是有点本事的。喏，给你分布图。
+[name="石棉"]行吧，做过探井人，能驯服沙地兽，还是罗德岛干员……能被博士看上的都还是有点本事的。喏，给你分布图。
 [name="石棉"]给我留个联系方式，下次要探地穴，我联络你。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -344,8 +344,8 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1186_1#1$1",focus="m")]
-[name="九姑"]呼，东西买完了，让我看看她在哪......嗯？等等......她、她去的这家店是干什么的？这是什么动物的尸体吧？这是人的骨头吧？
-[name="九姑"]太可怕了，太可怕了——不行，我不能让她一个人待在这种地方......我、我要进去看看！
+[name="九姑"]呼，东西买完了，让我看看她在哪……嗯？等等……她、她去的这家店是干什么的？这是什么动物的尸体吧？这是人的骨头吧？
+[name="九姑"]太可怕了，太可怕了——不行，我不能让她一个人待在这种地方……我、我要进去看看！
 [PlaySound(key="$d_avg_smashtable", volume=1)]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="九姑"]——快、快放了我的客人！
@@ -357,13 +357,13 @@
 [charslot(slot = "m", name = "avg_378_asbest_1#5$1",duration=1)]
 [delay(time=1.5)]
 [charslot(slot = "m", name = "avg_378_asbest_1#5$1",focus="m")]
-[name="石棉"]......啊？今天没完了？你又是从哪来的？
+[name="石棉"]……啊？今天没完了？你又是从哪来的？
 [charslot(slot = "m", name = "avg_npc_1186_1#1$1",focus="m")]
-[name="九姑"]......欸，欸？怎么只有你一个人？她、她人呢......？
+[name="九姑"]……欸，欸？怎么只有你一个人？她、她人呢……？
 [Dialog]
 [PlaySound(key="$d_gen_transmissionget",volume=1)]
 [delay(time=1)]
-[name="九姑"]坏了，我好像把人跟丢了......！
+[name="九姑"]坏了，我好像把人跟丢了……！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -423,7 +423,7 @@
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
 [name="十四哥"]呃，有个不好的消息——我刚刷干净了一个烧烤桶，一抬头就看到她下矿井了！
-[name="十四哥"]还是个废弃的矿井，我一个人也不敢就这么下去，我......我会在矿井口守着，直到她再上来！
+[name="十四哥"]还是个废弃的矿井，我一个人也不敢就这么下去，我……我会在矿井口守着，直到她再上来！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -435,14 +435,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_4117_ray_1#9$1",focus="r")]
-[name="莱伊"]......好像头上有什么声音，沙地兽，你听到了吗？
+[name="莱伊"]……好像头上有什么声音，沙地兽，你听到了吗？
 [charslot(slot = "l", name = "avg_npc_1188_1#2$1",focus="l")]
 [PlaySound(key="$d_avg_sheepchewpaper",volume=0.4)]
-[name="小沙地兽"]吧唧吧唧......
+[name="小沙地兽"]吧唧吧唧……
 [charslot(slot = "l", name = "avg_npc_1188_1#1$1",focus="l")]
 [name="小沙地兽"]嗷？
 [charslot(slot = "r", name = "avg_4117_ray_1#9$1",focus="r")]
-[name="莱伊"]......可能是风声吧。
+[name="莱伊"]……可能是风声吧。
 [charslot(slot = "r", name = "avg_4117_ray_1#1$1",focus="r")]
 [name="莱伊"]沙地兽，少吃一点。我们还要带一部分蘑菇和苔藓出去。
 [name="莱伊"]你吃到电梯超载，我们就上不去了。
@@ -467,7 +467,7 @@
 [charslot(slot = "l", name = "avg_npc_1188_1#2$1",focus="l")]
 [name="小沙地兽"]嗝——
 [charslot(slot = "r", name = "avg_4117_ray_1#7$1",focus="r")]
-[name="莱伊"]......
+[name="莱伊"]……
 [name="莱伊"]好，你再打一个嗝，说不定电梯就不会超载了。
 [charslot(slot = "l", name = "avg_npc_1188_1#8$1",focus="l")]
 [name="小沙地兽"]嗷！嗷！
@@ -486,7 +486,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4117_ray_1#10$1",focus="m")]
-[multiline(name="莱伊")]呼......
+[multiline(name="莱伊")]呼……
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [multiline(name="莱伊")]时间还来得及。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
@@ -538,10 +538,10 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot = "r", name = "avg_npc_1184_1#1$1",focus="r")]
-[name="杰里"]呼......终于和每一位客人都打了招呼，也安排好了座位......累死了......
+[name="杰里"]呼……终于和每一位客人都打了招呼，也安排好了座位……累死了……
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="l")]
-[name="吉拉"]我们现在休息一会儿吧......
-[name="吉拉"]真好，事情都忙完了的感觉......
+[name="吉拉"]我们现在休息一会儿吧……
+[name="吉拉"]真好，事情都忙完了的感觉……
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="n")]
 [name="？？？"]不好了，不好了！
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="all")]
@@ -575,7 +575,7 @@
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
-[name="六叔"]往南。那里因为有太多沙地兽的洞穴，所以没有矿洞，也没有镇子......是个无人区......她是不是状态不好，要去......要去寻死......？
+[name="六叔"]往南。那里因为有太多沙地兽的洞穴，所以没有矿洞，也没有镇子……是个无人区……她是不是状态不好，要去……要去寻死……？
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="all")]
@@ -584,7 +584,7 @@
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
-[name="六叔"]杰里，她之前甚至为了你劫车，你们不能就这样让她一个人乱跑啊......！
+[name="六叔"]杰里，她之前甚至为了你劫车，你们不能就这样让她一个人乱跑啊……！
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_1186_1#1$1",focus="all")]
@@ -612,7 +612,7 @@
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_4117_ray_1#1$1",focus="r")]
 [name="莱伊"]沙地兽，你看，我们到了。
-[name="莱伊"]来，我再给你整理一下这些蘑菇和苔藓......嗯，现在刚刚好。
+[name="莱伊"]来，我再给你整理一下这些蘑菇和苔藓……嗯，现在刚刚好。
 [charslot(slot = "r", name = "avg_4117_ray_1#7$1",focus="r")]
 [name="莱伊"]去玩吧，你肯定会喜欢的。
 [charslot(slot = "l", name = "avg_npc_1188_1#8$1",focus="l")]
@@ -634,7 +634,7 @@
 [charslot]
 莱伊同样身披着那些柔软的，时不时因为触碰而发出荧光的蘑菇与苔藓。她轻嗅着植物淡淡的清香，慢慢地跟在兽群的后面。
 [charslot(slot = "m", name = "avg_4117_ray_1#8$1",focus="m")]
-[name="莱伊"]......
+[name="莱伊"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -652,15 +652,15 @@
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_gintcrturbrth", volume=1)]
-[name="沙地兽"]......吭......吭......
-[name="沙地兽"]......吭......
+[name="沙地兽"]……吭……吭……
+[name="沙地兽"]……吭……
 [charslot(slot = "m", name = "avg_4117_ray_1#11$1",focus="m")]
 [name="莱伊"]你好受点了吗？
-[name="莱伊"]对不起......我下次会再早一点发现的。我会全程跟紧你的，沙地兽，就算是在清理感染生物的时候。
+[name="莱伊"]对不起……我下次会再早一点发现的。我会全程跟紧你的，沙地兽，就算是在清理感染生物的时候。
 [name="莱伊"]我不会让你离开我超过五步了。
 [Dialog]
 [charslot]
-[name="沙地兽"]嗷......
+[name="沙地兽"]嗷……
 [Dialog]
 [CameraShake(duration=0.7, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_npc_1190_1#1$1",posfrom="0,-30",posto="0,0",afrom=0,ato=1,duration=1)]
@@ -670,15 +670,15 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#4$1",focus="m")]
 [name="莱伊"]你站起来了，你恢复了吗？你没事了？
 [charslot(slot="m",name="avg_npc_1190_1#1$1",focus="m")]
-[name="沙地兽"]嗷，嗷......！
+[name="沙地兽"]嗷，嗷……！
 [charslot(slot = "m", name = "avg_4117_ray_1#8$1",focus="m")]
-[name="莱伊"]啊，沙地兽，太好了......
+[name="莱伊"]啊，沙地兽，太好了……
 [Dialog]
 [charslot]
 莱伊伸出手，慢慢地抚摸着沙地兽的背扇，检查着里面血管的颜色，确认着它真的已经恢复。
 沙地兽用自己的脑袋亲昵地蹭了蹭莱伊的手，在她的怀中换了一个舒服的姿势。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
-[name="莱伊"]......沙地兽。
+[name="莱伊"]……沙地兽。
 [name="莱伊"]我攒了一点钱，明天我们可以不用上工了，我现在就带你去荒野上玩一会吧。
 [name="莱伊"]我知道你想去荒野上跑，去钻洞，刨沙子。
 [name="莱伊"]喏，就在那边。你先去，我在这里搭个棚屋，我看着你玩。
@@ -704,7 +704,7 @@
 [CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_4117_ray_1#4$1",focus="r")]
-[name="莱伊"]哎，哎呀，沙地兽，你太兴奋了，你撞得我站不稳了，这些蘑菇和苔藓都撒了......撒了我们一身！
+[name="莱伊"]哎，哎呀，沙地兽，你太兴奋了，你撞得我站不稳了，这些蘑菇和苔藓都撒了……撒了我们一身！
 [charslot(slot = "r", name = "avg_4117_ray_1#9$1",focus="r")]
 [name="莱伊"]唔，你看，好像它们被你撞了一下之后，会发光？
 [charslot(slot = "r", name = "avg_4117_ray_1#7$1",focus="r")]
@@ -741,8 +741,8 @@
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4117_ray_1#4$1",focus="m")]
-[name="莱伊"]我第一次见这样的景色......原来“夜晚荒漠上的鳞群”，是真的。
-[name="莱伊"]是......是和沙地兽有关。
+[name="莱伊"]我第一次见这样的景色……原来“夜晚荒漠上的鳞群”，是真的。
+[name="莱伊"]是……是和沙地兽有关。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]和我的“沙地兽”有关。
 [Dialog]
@@ -757,30 +757,30 @@
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_4117_ray_1#7$1",focus="r")]
 [name="莱伊"]（悠扬的哨声）
-[name="莱伊"]呼......呼......沙地兽！
+[name="莱伊"]呼……呼……沙地兽！
 [name="莱伊"]沙地兽！我是不是应该给你取一个名字？
 [name="莱伊"]给我的第一只沙地兽也起一个名字！
 [charslot(slot = "r", name = "avg_4117_ray_1#6$1",focus="r")]
 [name="莱伊"]叫你什么比较好呢？
-[name="莱伊"]嗯......
+[name="莱伊"]嗯……
 [charslot(slot = "l", name = "avg_npc_1188_1#8$1",focus="l")]
 [name="小沙地兽"]嗷？
 [charslot(slot = "r", name = "avg_4117_ray_1#9$1",focus="r")]
-[name="莱伊"]你叫......“亮亮”？
+[name="莱伊"]你叫……“亮亮”？
 [charslot(slot = "l", name = "avg_npc_1188_1#8$1",focus="l")]
-[name="小沙地兽"]嗷......
+[name="小沙地兽"]嗷……
 [charslot(slot = "r", name = "avg_4117_ray_1#1$1",focus="r")]
 [name="莱伊"]好像你不太喜欢。
 [name="莱伊"]那“闪闪”呢？或者是，“光光”？
 [charslot(slot = "l", name = "avg_npc_1188_1#8$1",focus="l")]
-[name="小沙地兽"]......嗷......
+[name="小沙地兽"]……嗷……
 [charslot(slot = "r", name = "avg_4117_ray_1#11$1",focus="r")]
-[name="莱伊"]好吧，你都不太喜欢......
+[name="莱伊"]好吧，你都不太喜欢……
 [name="莱伊"]我可能确实不太擅长起名字。
 [charslot(slot = "r", name = "avg_4117_ray_1#6$1",focus="r")]
-[name="莱伊"]......我再想想......
+[name="莱伊"]……我再想想……
 [charslot(slot = "r", name = "avg_4117_ray_1#7$1",focus="r")]
-[name="莱伊"]嗯......嗯......你一直嗷嗷地叫，要不要就暂时叫“嗷嗷”？
+[name="莱伊"]嗯……嗯……你一直嗷嗷地叫，要不要就暂时叫“嗷嗷”？
 [charslot(slot = "l", name = "avg_npc_1188_1#3$1",focus="l")]
 [name="暂时叫“嗷嗷”"]嗷？！
 [Dialog]
@@ -800,14 +800,14 @@
 [charslot(slot = "m", name = "avg_4081_warmy_1#11$1",focus="m")]
 [name="温米"]嗯，兰娜姐说的是真的，莱伊姐说过了，晚上聚餐之前她一定会回来的！
 [charslot(slot = "m", name = "avg_npc_1184_1#6$1",focus="m")]
-[name="杰里"]聚餐定在了九点半，还有两分钟......
+[name="杰里"]聚餐定在了九点半，还有两分钟……
 [Dialog]
 [charslot]
 [name="半信半疑的众人"]真的能回来吗？真的不会出事吗？
 [name="半信半疑的众人"]我们真的不用出去找找吗？
 [charslot(slot = "m", name = "avg_npc_1183_1#1$1",focus="m")]
 [name="阿兰娜"]信我，莱伊答应过，她会回来的！
-[name="阿兰娜"]马上就到九点半了，听我说......
+[name="阿兰娜"]马上就到九点半了，听我说……
 [charslot(slot = "m", name = "avg_npc_1183_1#8$1",focus="m")]
 [name="阿兰娜"]聚餐——开始！
 [Dialog]
@@ -820,11 +820,11 @@
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="m")]
 [name="莱伊"]呼，我回来了。
 [charslot(slot = "m", name = "avg_4117_ray_1#1$1",focus="n")]
-[name="怔住的众人"]......
+[name="怔住的众人"]……
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="m")]
-[name="莱伊"]我想想......我的座位是间歇泉三号棚子第十二桌六号。
+[name="莱伊"]我想想……我的座位是间歇泉三号棚子第十二桌六号。
 [charslot(slot = "m", name = "avg_4117_ray_1#6$1",focus="n")]
-[name="怔住的众人"]............
+[name="怔住的众人"]…………
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]左边是小锅盖，右边是兰娜，还有一个木箱给嗷嗷用。
 [name="莱伊"]对，是这里。
@@ -832,14 +832,14 @@
 [name="暂时叫“嗷嗷”"]嗷！
 [Dialog]
 [charslot]
-[name="怔住的众人"]..................
+[name="怔住的众人"]………………
 [charslot(slot = "m", name = "avg_4117_ray_1#10$1",focus="m")]
-[name="莱伊"]唔，烧烤很香，炖菜看上去也不错......
+[name="莱伊"]唔，烧烤很香，炖菜看上去也不错……
 [charslot(slot = "m", name = "avg_4117_ray_1#9$1",focus="m")]
 [name="莱伊"]嗯？
 [name="莱伊"]怎么回事，大家都不吃饭吗？
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
-[name="六叔"]那个......我们想问一下......
+[name="六叔"]那个……我们想问一下……
 [charslot(slot = "m", name = "avg_4117_ray_1#9$1",focus="m")]
 [name="莱伊"]嗯。
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
@@ -849,7 +849,7 @@
 [charslot(slot = "m", name = "avg_npc_1185_1#1$1",focus="m")]
 [name="十四哥"]你下废弃矿井，也不是什么崩溃到走错路？
 [charslot(slot = "m", name = "avg_4117_ray_1#9$1",focus="m")]
-[name="莱伊"]......你们在说什么？都不是啊。
+[name="莱伊"]……你们在说什么？都不是啊。
 [charslot(slot = "m", name = "avg_4117_ray_1#7$1",focus="m")]
 [name="莱伊"]我是带它去野餐了。
 [name="莱伊"]看。

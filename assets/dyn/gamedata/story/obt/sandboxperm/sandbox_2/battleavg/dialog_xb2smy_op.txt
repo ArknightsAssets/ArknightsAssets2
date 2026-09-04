@@ -17,10 +17,10 @@
 [delay(time="0.5")]
 [move(enemyId="enemy_7066_xbpffr", x="3", y="2")]
 [delay(time="0.5")]
-[name="Sharp", avatarId="char_508_aguard", isAvatarRight="FALSE"]很好，一箭毙命！......嗯？不是你的箭？
-[name="Stormeye", avatarId="char_511_asnipe", isAvatarRight="FALSE"]来的路上看到这附近有棚屋，应该是住在这里的荒地人......箭法还可以。
+[name="Sharp", avatarId="char_508_aguard", isAvatarRight="FALSE"]很好，一箭毙命！……嗯？不是你的箭？
+[name="Stormeye", avatarId="char_511_asnipe", isAvatarRight="FALSE"]来的路上看到这附近有棚屋，应该是住在这里的荒地人……箭法还可以。
 [name="Sharp", avatarId="char_508_aguard", isAvatarRight="FALSE"]我觉得是“很”可以。
-[name="Stormeye", avatarId="char_511_asnipe", isAvatarRight="FALSE"]......你的剥皮刀磨好了吗？
+[name="Stormeye", avatarId="char_511_asnipe", isAvatarRight="FALSE"]……你的剥皮刀磨好了吗？
 [delay(time="0.5")]
 [summonenemy(enemyId="enemy_7066_xbpffr", x="4", y="3", endx="4", endy="2")]
 [delay(time="0.5")] 
@@ -46,7 +46,7 @@
 [withdraw(id="enemy_7006_xbcrab")]
 [emoji(target="char_617_sharp2", emoji="common_bubble_happy")]
 [name="Sharp", avatarId="char_508_aguard", isAvatarRight="FALSE"]有人的箭法看上去比你还要厉害哦。
-[name="Stormeye", avatarId="char_511_asnipe", isAvatarRight="FALSE"]......
+[name="Stormeye", avatarId="char_511_asnipe", isAvatarRight="FALSE"]……
 [name="Stormeye", avatarId="char_511_asnipe", isAvatarRight="FALSE"]再来！
 [withdraw(id="trap_522_xb2dor", row=3, col=5, withoutAnim=true)]
 [end]

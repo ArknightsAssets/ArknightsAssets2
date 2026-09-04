@@ -55,7 +55,7 @@
 [charslot(slot = "l", name = "avg_npc_2255_1#5$1",focus="l")]
 [name="能天使？"]  生气了吗？
 [charslot(slot = "r", name = "avg_npc_2256_1#6$1",focus="r")]
-[name="德克萨斯？"]  ......
+[name="德克萨斯？"]  ……
 [dialog]
 [charslot(slot = "l", name = "avg_npc_2255_1#2$1",focus="all")]
 [Blocker(a=0.7, r=0.95, g=0.95, b=0.95, fadetime=0.02, block=true)]
@@ -80,7 +80,7 @@
 [name="能天使？"]  生气了吗？
 [charslot(slot = "r", name = "avg_npc_2256_1#5$1",focus="r")]
 [CameraShake(duration=1, xstrength=3, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="德克萨斯？"]  你这个混蛋......
+[name="德克萨斯？"]  你这个混蛋……
 [Dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=4, block=true)]

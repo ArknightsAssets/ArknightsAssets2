@@ -31,7 +31,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 收拾好被子和床铺，在厨房简单地做一顿早餐。
-煎蛋，面包，牛奶......
+煎蛋，面包，牛奶……
 想吃什么，想喝什么，全凭自己的心意。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -83,14 +83,14 @@
 [delay(time=0.5)]
 [charslot(slot = "r", name = "avg_4184_dolris_1#12$2",focus="r")]
 [name="三角初华"]一开始，我以为她只是突发奇想，去附近散了散步。
-[name="三角初华"]后来，我从码头工人的口中得知，她那天独自登上了离岛的航船......
+[name="三角初华"]后来，我从码头工人的口中得知，她那天独自登上了离岛的航船……
 [charslot(slot="l",name="avg_180_amgoat_1#11$1",focus="l")]
 [name="艾雅法拉"]你为什么不去找她呢？
 [charslot(slot = "r", name = "avg_4184_dolris_1#12$2",focus="r")]
 [name="三角初华"]这样的一天实在有过太多太多次，多到我不能确认它究竟是否真实。
 [charslot(slot = "r", name = "avg_4184_dolris_1#9$2",focus="r")]
-[name="三角初华"]我......我已经想不起她的模样，也记不起她的名字了。
-[name="三角初华"]也许这就是我的归宿......在这静静地等待。
+[name="三角初华"]我……我已经想不起她的模样，也记不起她的名字了。
+[name="三角初华"]也许这就是我的归宿……在这静静地等待。
 [Dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -111,29 +111,29 @@
 [name="艾雅法拉"]初华小姐，你在哭，说明你还不想放弃，对吧？
 [name="艾雅法拉"]这不是你想要的结局，对吧？！
 [charslot(slot="l",name="avg_180_amgoat_1#11$1",focus="l")]
-[multiline(name="艾雅法拉")]至少......
+[multiline(name="艾雅法拉")]至少……
 [charslot(slot="l",name="avg_180_amgoat_1#8$1",focus="l")]
 [multiline(name="艾雅法拉")]至少，应该站在她的面前，表达自己的想法吧。
 [charslot(slot = "r", name = "avg_4184_dolris_1#7$2",focus="r")]
-[name="三角初华"]......
+[name="三角初华"]……
 [charslot(slot="l",name="avg_180_amgoat_1#8$1",focus="l")]
 [name="艾雅法拉"]我能听出来的话，她一定也能明白你的心意。
 [name="艾雅法拉"]不用尽全力呐喊，又怎么能传达给她呢？
 [name="艾雅法拉"]连我都能听到你的声音，她肯定也可以的。
 [charslot(slot = "r", name = "avg_4184_dolris_1#7$2",focus="r")]
-[name="三角初华"]我......可是你的听力状况，我不能留下你一个人——
+[name="三角初华"]我……可是你的听力状况，我不能留下你一个人——
 [charslot(slot="l",name="avg_180_amgoat_1#8$1",focus="l")]
 [name="艾雅法拉"]再怎么说，我也是接受过罗德岛训练的干员，你就放心好啦。
 [name="艾雅法拉"]作为本就是萍水相逢的人，初华小姐，你已经为我做了很多事了。
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="l")]
 [name="艾雅法拉"]你该问问自己的内心——现在到底想要做什么？
 [charslot(slot = "r", name = "avg_4184_dolris_1#12$2",focus="r")]
-[name="三角初华"]（小声）我想找到她......
+[name="三角初华"]（小声）我想找到她……
 [Dialog]
 [charslot(slot = "r", name = "avg_4184_dolris_1#14$2",focus="r")]
 [delay(time=1)]
 [charslot(slot = "r", name = "avg_4184_dolris_1#9$2",focus="r")]
-[name="三角初华"]......没什么。
+[name="三角初华"]……没什么。
 [Dialog]
 [charslot(slot="l",name="avg_180_amgoat_1#8$1",focus="l")]
 [delay(time=1)]
@@ -145,9 +145,9 @@
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=1, block=true)]
 [Sticker(id="st1", multi = true, text="“看吧，你已无路可逃”", x=300,y=220, alignment="center", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n\n“将逐渐虚弱的你，紧紧关住——”",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n“你知晓我渴望......”",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n“我渴望......我渴望......”",block = true)]
-[Sticker(id="st1", multi = true, text="\n\n“我如此渴望着你......”",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n“你知晓我渴望……”",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n“我渴望……我渴望……”",block = true)]
+[Sticker(id="st1", multi = true, text="\n\n“我如此渴望着你……”",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [delay(time=1)]
@@ -168,7 +168,7 @@
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="连名字都记不清，连面貌都想不起......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="连名字都记不清，连面貌都想不起……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="你又如何能在茫茫人海里找到她的身影？", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -197,14 +197,14 @@
 祥子顺利来到了别墅，这里的一切都跟莫菲丝让她看到的一模一样。
 [charslot(slot="m",name="avg_4182_oblvns_1#10$2",focus="m")]
 [name="丰川祥子"]初华——
-[name="丰川祥子"]一模一样的格局，一模一样的摆件......就连架子上的书都完全一样。
-[name="丰川祥子"]为什么......
+[name="丰川祥子"]一模一样的格局，一模一样的摆件……就连架子上的书都完全一样。
+[name="丰川祥子"]为什么……
 [Dialog]
 [charslot]
 地面上一尘不染，厨房里摆满了过量的餐具，还有一张能坐下十多人的长桌。
 祥子无法想象初华一人生活于此的场景。
 [charslot(slot="m",name="avg_4182_oblvns_1#2$2",focus="m")]
-[name="丰川祥子"]既然是做梦，那就把痛苦的部分丢得一干二净啊......
+[name="丰川祥子"]既然是做梦，那就把痛苦的部分丢得一干二净啊……
 [charslot(slot="m",name="avg_4182_oblvns_1#2$2",focus="n")]
 [name="？？？"]一定是她觉得，这里对于你们两人来说，都很重要吧。
 [Dialog]
@@ -216,9 +216,9 @@
 [charslot(slot="m",name="avg_180_amgoat_1#8$1",duration=1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_180_amgoat_1#8$1",focus="m")]
-[name="艾雅法拉"]你就是这栋别墅的主人吧......初华小姐刚刚离开这。
+[name="艾雅法拉"]你就是这栋别墅的主人吧……初华小姐刚刚离开这。
 [charslot(slot="m",name="avg_4182_oblvns_1#14$2",focus="m")]
-[name="丰川祥子"]......她去哪里了？
+[name="丰川祥子"]……她去哪里了？
 [charslot(slot="m",name="avg_180_amgoat_1#8$1",focus="m")]
 [name="艾雅法拉"]她终于认清了自己的内心，决心去找你。
 [Dialog]
@@ -237,9 +237,9 @@
 [name="三角初华"]嗯，我想买张离岛的船票。
 [charslot(slot="m",name="avg_npc_1000_1#1$1",focus="m")]
 [name="热心的船夫"]唔，那你得等一会，我还在等另一个乘客。
-[name="热心的船夫"]那个姑娘怎么还没回来呢......希望她已经找着人了。
+[name="热心的船夫"]那个姑娘怎么还没回来呢……希望她已经找着人了。
 [charslot(slot = "m", name = "avg_4184_dolris_1#13$2",focus="m")]
-[name="三角初华"]没关系的，我可以等......
+[name="三角初华"]没关系的，我可以等……
 [Dialog]
 [charslot]
 初华说到一半，硬生生地将下半句话咽了回去。好在船夫并没有察觉她的异样。
@@ -261,7 +261,7 @@
 [ImageTween(xScaleFrom=1.15, yScaleFrom=1.15, xScaleTo=1, yScaleTo=1, duration=15, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=2)]
-[name="三角初华"]塔上那个人，他在挥舞旗子......
+[name="三角初华"]塔上那个人，他在挥舞旗子……
 [name="热心的船夫"]呵，那老酒鬼就指着我每月给他带的啤酒过活。
 [name="热心的船夫"]“一路平安，别忘记了——我的啤酒。”
 [name="热心的船夫"]哼，忘记谁的东西，也不能忘记他的那箱美酒啊！
@@ -271,7 +271,7 @@
 [delay(time=2.5)]
 由海面吹来的风，将汽笛声带去小岛的每一个地方。
 看着这座寄托了美好和痛苦的小岛，初华有太多话想倾诉。
-[name="三角初华"]......别忘记我。
+[name="三角初华"]……别忘记我。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -289,7 +289,7 @@
 [stopsound(channel="step",fadetime=3)]
 [delay(time=1.5)]
 [name="丰川祥子"]初华——！
-[name="丰川祥子"]呼......呼......呼......咳咳咳......
+[name="丰川祥子"]呼……呼……呼……咳咳咳……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -320,23 +320,23 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1942_1#18$1",focus="m")]
 [name="莫菲丝"]等待了无数个日夜的少女，终于决心启程寻找自己的伙伴。
-[name="莫菲丝"]没想到却在最后一刻错过......啧啧啧，好可惜哟。
+[name="莫菲丝"]没想到却在最后一刻错过……啧啧啧，好可惜哟。
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [charslot(slot="m",name="avg_npc_1942_1#18$1",focus="m")]
 [name="莫菲丝"]说实话，我没想到她会选择离开。
 [name="莫菲丝"]在我给她预设的结局里，她应该会忘掉关于你的一切，然后在这度过安逸无忧的一生。
 [name="莫菲丝"]不过现在看来，我有点低估你对她的影响了。
 [name="莫菲丝"]我得承认，这局我们平手。
 [charslot(slot="m",name="avg_4182_oblvns_1#9$2",focus="m")]
-[name="丰川祥子"]......
+[name="丰川祥子"]……
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1942_1#20$1",focus="m")]
 [name="莫菲丝"]可惜的是，以那艘航船的速度，她就快要遇到海难了。
 [charslot(slot="m",name="avg_4182_oblvns_1#6$2",focus="m")]
-[name="丰川祥子"]什么......？
+[name="丰川祥子"]什么……？
 [playMusic(key="$darkness_03_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_1942_1#20$1",focus="m")]
 [name="莫菲丝"]为你们建造这整个岛已经够累了，难道还要我把整个泰拉造出来，让你们的苦情戏码在整片大地上一遍遍地上演？
@@ -386,18 +386,18 @@
 [Background(image="bg_black",screenadapt="coverall", block=true)]
 [delay(time=0.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
-“祥......”
-“祥......祥......”
+“祥……”
+“祥……祥……”
 一个声音，正从无法辨听的方向靠近。
 [Dialog]
 [Subtitle(text="这是哪？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="是谁在叫我？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [delay(time=1)]
-[name="？？？"]快......快......快醒醒......
+[name="？？？"]快……快……快醒醒……
 熟悉的声音，许久未闻的声音。
 冰冷潮湿的海底已经消失得无影无踪，取而代之的是干燥的地面，还有四处纷飞的沙尘。
-[name="丰川祥子"]是谁......
+[name="丰川祥子"]是谁……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -414,12 +414,12 @@
 [focusout(duration=2, type="cg", from=1, to=0, block=true)]
 [delay(time=1)]
 [name="若叶睦"]祥，你还好吗？
-[name="丰川祥子"]......睦？
+[name="丰川祥子"]……睦？
 [name="若叶睦"]嗯，我在。
 再简单不过的一句话，却让祥子的眼泪夺眶而出。
 她确信不是飞沙的缘故，因为只有她自己知道，此刻她的内心有多么无助。
 她已无暇顾及自己一开口便会哽咽，她只想抓住唯一的那根稻草。
-[name="丰川祥子"]睦......我......该怎么办......
+[name="丰川祥子"]睦……我……该怎么办……
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [stopmusic(fadetime=2)]

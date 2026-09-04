@@ -10,29 +10,29 @@
 [ImageTween(xScaleFrom=1.1, yScaleFrom=1.1, xScaleTo=1, yScaleTo=1, duration=20, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="薇薇安娜"]宪......医生很快就过来了。
-[name="珂拉"]咳、咳咳......
+[name="薇薇安娜"]宪……医生很快就过来了。
+[name="珂拉"]咳、咳咳……
 [name="珂拉"]薇薇安娜，你在哭吗？
-[name="珂拉"]......我好像没有力气为你擦眼泪了。
-[name="薇薇安娜"]......
+[name="珂拉"]……我好像没有力气为你擦眼泪了。
+[name="薇薇安娜"]……
 [name="珂拉"]唉，真是个太过敏感、太过善良的孩子。
-[name="珂拉"]我常常想起我们第一次见面的情形......
+[name="珂拉"]我常常想起我们第一次见面的情形……
 [name="珂拉"]我从崔林特尔梅赶到施彤领，把你从沃尔纳的高塔接出来。你缩在车后座，紧紧抱着并不大的行李箱，头轻轻靠在我的胸口。
 [name="珂拉"]她在害怕离开父亲吗？咳，她在对接下来卡西米尔的异乡生活感到恐惧吗？我当时这么想着。
-[name="珂拉"]但薇薇安......你只是试图压低身子，以免自己引人注目的角被看见，暴露行踪，给沃尔纳带去麻烦。
+[name="珂拉"]但薇薇安……你只是试图压低身子，以免自己引人注目的角被看见，暴露行踪，给沃尔纳带去麻烦。
 [name="珂拉"]其实当时已是后半夜，偌大的选帝侯高塔群，没有谁会察觉到一辆车的离开。
-[name="珂拉"]咳，你当时还那么小......
+[name="珂拉"]咳，你当时还那么小……
 [name="薇薇安娜"]我不记得了。
 [name="珂拉"]不，你记得。
-[name="珂拉"]孩子，你可以抱怨、可以责怪、可以失望、可以后悔、可以愤恨，咳，你都可以......然后才能......
-[name="薇薇安娜"]我真的不想......您离开......
-[name="薇薇安娜"]......我只有您了。
-[name="珂拉"]让我......再好好“看一看”你。
+[name="珂拉"]孩子，你可以抱怨、可以责怪、可以失望、可以后悔、可以愤恨，咳，你都可以……然后才能……
+[name="薇薇安娜"]我真的不想……您离开……
+[name="薇薇安娜"]……我只有您了。
+[name="珂拉"]让我……再好好“看一看”你。
 [name="薇薇安娜"]这儿，我在这儿。
-[name="珂拉"]真庆幸，我看不清你现在的表情......
+[name="珂拉"]真庆幸，我看不清你现在的表情……
 [dialog]
 [Delay(time=1)]
-[name="珂拉"]你值得过上更好的生活，薇薇安娜......如果真有的话......
+[name="珂拉"]你值得过上更好的生活，薇薇安娜……如果真有的话……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -42,14 +42,14 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [charslot(slot = "m", name = "avg_4098_vvana_1#7$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
-[name="薇薇安娜"]......
+[name="薇薇安娜"]……
 [dialog]
 [PlaySound(key="$d_avg_openftstpwalk", volume=1)]
 [charslot(duration=2, isblock=true)]
 女皇塔再高，也不至于没有尽头。
 旋梯在眼前铺开，但方向似乎被未知而不可逆的力量撕扯，她明明一直在前进，却始终停留在原地。
 薇薇安娜有些疲惫，而人在疲惫时更容易察觉到自己的失去。
-......就像她二十二年的人生。
+……就像她二十二年的人生。
 [dialog]
 [PlaySound(key="$d_avg_openftstprun", volume=1, loop=true, channel="a")]
 [StopSound(channel="a", fadetime=1.5)]
@@ -86,7 +86,7 @@
 [charslot(duration=1, isblock=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4098_vvana_1#7$1")]
-[name="薇薇安娜"]我想去哪里......
+[name="薇薇安娜"]我想去哪里……
 [dialog]
 [charslot(slot = "m", posfrom="0,0", posto="40,0", afrom=1, ato=0, duration=1.5, isblock=true)]
 [charslot]
@@ -103,7 +103,7 @@
 [delay(time=2)]
 [charslot(slot = "m", name = "avg_4098_vvana_1#10$1", duration=1, isblock=true)]
 [name="薇薇安娜"]怎么回事，“始源之角”已经完全降临？
-[name="薇薇安娜"]可刚刚那位女士......
+[name="薇薇安娜"]可刚刚那位女士……
 [dialog]
 [delay(time=0.5)]
 [charslot(slot = "m", name = "avg_4098_vvana_1#4$1")]
@@ -131,11 +131,11 @@
 [charslot(slot = "m", name = "avg_4098_vvana_1#4$1", duration=1, isblock=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_4098_vvana_1#4$1", focus="n")]
-阶梯依然在延伸......某个不起眼的拐角，薇薇安娜突然看见了一扇门。
+阶梯依然在延伸……某个不起眼的拐角，薇薇安娜突然看见了一扇门。
 那扇她再熟悉不过的，小小的门。
 [dialog]
 [charslot(slot = "m", name = "avg_4098_vvana_1#2$1")]
-[name="薇薇安娜"]......
+[name="薇薇安娜"]……
 [dialog]
 [PlaySound(key="$dooropenquite", volume=1)]
 [delay(time=1)]
@@ -171,10 +171,10 @@
 [name="费德里科"]从原理上说，法术是一种更为严谨的秩序。
 [name="费德里科"]双子女皇不会起用罹患精神疾病的设计师来设计高塔，也没有工匠能将这样毫无章法的建筑结构复现出来。
 [charslot(slot = "m", name = "avg_1032_excu2_1#1$1")]
-[name="费德里科"]在路德维格大学奏鸣塔的经历误导了我的判断......女皇塔内部正在发生的扭曲与术式无关。
+[name="费德里科"]在路德维格大学奏鸣塔的经历误导了我的判断……女皇塔内部正在发生的扭曲与术式无关。
 [charslot(slot = "m", name = "avg_1032_excu2_1#10$1")]
 [name="费德里科"]“始源之角”已经覆盖住了女皇塔，引发了空间异变？
-[name="费德里科"]阿尔图罗的琴声也已经消失......
+[name="费德里科"]阿尔图罗的琴声也已经消失……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_gunshot", volume=1)]
@@ -184,9 +184,9 @@
 [PlaySound(key="$d_avg_gunshot", volume=1)]
 [Delay(time=1)]
 费德里科稍作思索，随即拔出守护铳，向着身前射击。
-铳的啸声响彻整个空间，但子弹本身却似乎被无形之物抹去了......它们消失在了眼前。
+铳的啸声响彻整个空间，但子弹本身却似乎被无形之物抹去了……它们消失在了眼前。
 [charslot(slot = "m", name = "avg_1032_excu2_1#4$1")]
-[name="费德里科"]......！
+[name="费德里科"]……！
 [charslot(slot = "m", focus="n")]
 [name="？？？"]那边的萨科塔先生！
 [dialog]
@@ -208,14 +208,14 @@
 [charslot(slot = "m", name = "avg_npc_1122_1#3$1")]
 [name="着急的女性"]请你把铳收起来！
 [charslot(slot = "m", name = "avg_1032_excu2_1#1$1")]
-[name="费德里科"]这里是......
+[name="费德里科"]这里是……
 [charslot(slot = "m", name = "avg_npc_1122_1#4$1")]
 [name="着急的女性"]请你把铳收起来！
 [charslot(slot = "m", name = "avg_1032_excu2_1#4$1")]
 [name="费德里科"]不用复述，我已经听清了。
 [name="费德里科"]本次任务中遇到的每个人都在强调这件事情。
 [charslot(slot = "m", name = "avg_npc_1122_1#6$1")]
-[name="着急的女性"]因为这是一件不需要强调的事情呀......崔林特尔梅和拉特兰不一样......
+[name="着急的女性"]因为这是一件不需要强调的事情呀……崔林特尔梅和拉特兰不一样……
 [name="着急的女性"]洛里斯以前老讲拉特兰的事情。他说萨科塔走在街道上，遇到讨厌的建筑会“炸一炸”，遇到喜欢的建筑，会更迫不及待地“炸一炸”。
 [name="着急的女性"]我和扬还一直觉得他只是因为对家乡印象不太好，所以老爱编些瞎话。
 [charslot(slot = "m", name = "avg_npc_1122_1#1$1")]
@@ -226,7 +226,7 @@
 [delay(time=2)]
 [name="着急的女性"]崔林特尔梅是一座古城，可能某面墙某片瓦上，就有百年前某位艺术家喝醉后用法术刻上去的乐谱或者诗歌。
 [charslot(slot = "m", name = "avg_1032_excu2_1#1$1")]
-[name="费德里科"]周围......
+[name="费德里科"]周围……
 [charslot]
 费德里科很快适应了眼前的异象。
 假定此地即是“始源之角”，储存“巫王遗产”的所在，即阿尔图罗的最终目的地。
@@ -234,16 +234,16 @@
 费德里科看着面前的女性。她面色愠怒，真的像一个制止游客没素质行为的正义市民。
 [bgeffect]
 [charslot(slot = "m", name = "avg_npc_1122_1#4$1")]
-[name="着急的女性"]萨科塔先生，不知道你能不能理解......请把铳收起来。
+[name="着急的女性"]萨科塔先生，不知道你能不能理解……请把铳收起来。
 [charslot(slot = "m", name = "avg_1032_excu2_1#1$1")]
 [name="费德里科"]容许我打断一下。
 [name="费德里科"]我们显然并不是身处崔林特尔梅的街头，但你似乎毫无察觉。
-[name="费德里科"]以及，你刚才提到的“洛里斯”和“扬”，如果全名为“洛里斯·博尔丁”和“扬·许勒尔”......
+[name="费德里科"]以及，你刚才提到的“洛里斯”和“扬”，如果全名为“洛里斯·博尔丁”和“扬·许勒尔”……
 [charslot(slot = "m", name = "avg_1032_excu2_1#4$1")]
 [name="费德里科"]请告知我你的姓名和身份。
 [charslot(slot = "m", name = "avg_npc_1122_1#6$1")]
-[name="着急的女性"]......
-[name="着急的女性"]尤利娅......尤利娅·许勒尔。
+[name="着急的女性"]……
+[name="着急的女性"]尤利娅……尤利娅·许勒尔。
 [charslot(slot = "m", name = "avg_1032_excu2_1#10$1")]
 [name="费德里科"]——！
 [dialog]
@@ -256,21 +256,21 @@
 [musicvolume(volume=0.6, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_245_cello_1#5$1")]
-[name="阿尔图罗"]......
-[name="阿尔图罗"]这里是......“始源之角”内部，巫王的死后之地？
-[name="阿尔图罗"]可是巫王......
+[name="阿尔图罗"]……
+[name="阿尔图罗"]这里是……“始源之角”内部，巫王的死后之地？
+[name="阿尔图罗"]可是巫王……
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
 [name="弗莱蒙特"]别东张西望了，小萨科塔。
 [charslot(slot = "m", name = "avg_245_cello_1#1$1")]
-[name="阿尔图罗"]您追上来了......我并不意外。
+[name="阿尔图罗"]您追上来了……我并不意外。
 [charslot(slot = "m", name = "avg_npc_1114_1#5$1")]
-[name="弗莱蒙特"]呵呵，倒是你，竟然敢攀着巫妖的丝线主动被“放逐”......真是给了我不少惊喜。
+[name="弗莱蒙特"]呵呵，倒是你，竟然敢攀着巫妖的丝线主动被“放逐”……真是给了我不少惊喜。
 [charslot(slot = "m", name = "avg_245_cello_1#9$1")]
-[name="阿尔图罗"]......巫王在哪里？
+[name="阿尔图罗"]……巫王在哪里？
 [charslot(slot = "m", name = "avg_npc_1114_1#5$1")]
 [name="弗莱蒙特"]死透了。不然呢？
 [charslot(slot = "m", name = "avg_245_cello_1#8$1")]
-[name="阿尔图罗"]不，我应当能感受到他。他的法术、他的情感、他的意志......只要我......
+[name="阿尔图罗"]不，我应当能感受到他。他的法术、他的情感、他的意志……只要我……
 [dialog]
 [charslot]
 阿尔图罗环顾四周，在这个空间里，边界仿佛并不存在，唯有种种难以名状的光影在流动，仿佛混沌开翕时的呼吸。
@@ -287,7 +287,7 @@
 [name="弗莱蒙特"]呵，看起来你终于有所察觉了。
 [charslot(slot = "m", name = "avg_245_cello_1#5$1")]
 [name="阿尔图罗"]我无法演奏。
-[name="阿尔图罗"]我丢失了......我的乐声。
+[name="阿尔图罗"]我丢失了……我的乐声。
 [charslot(slot = "m", name = "avg_245_cello_1#9$1")]
 [name="阿尔图罗"]是“始源之角”的缘故？还是巫王设下的“规则”？
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
@@ -295,7 +295,7 @@
 [name="弗莱蒙特"]你以为这里是什么地方？
 [name="弗莱蒙特"]赫尔昏佐伦的棺材？萨尔贡那些走路漏沙的帕夏的藏宝窟？维多利亚童话里老巫婆的魔法口袋？
 [charslot(slot = "m", name = "avg_245_cello_1#8$1")]
-[name="阿尔图罗"]弗莱蒙特阁下......
+[name="阿尔图罗"]弗莱蒙特阁下……
 [charslot(slot = "m", name = "avg_npc_1114_1#3$1")]
 [name="弗莱蒙特"]（萨卡兹语）“千丝万弦之始终”。
 像是喃喃自语，弗莱蒙特用萨卡兹语吐出了一个异常生涩的词汇。
@@ -303,7 +303,7 @@
 [name="弗莱蒙特"]又或者，用那家伙起的名字，更符合你们的认知能力一些。
 [name="弗莱蒙特"]（莱塔尼亚语）“荒域”。
 [charslot(slot = "m", name = "avg_245_cello_1#5$1")]
-[name="阿尔图罗"]荒域......？
+[name="阿尔图罗"]荒域……？
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
 [name="弗莱蒙特"]你所见的，是“实在”的另一面，空间的另一个维度，它永恒变化，所有的规则和现实都将在被它碰触到的瞬间湮灭。
 [name="弗莱蒙特"]巫妖一族在漫长的时间里对其不过一窥。而赫尔昏佐伦穷尽毕生之力，也只是在这无尽的混沌里吹出了这样一个不稳定的泡泡。
@@ -314,27 +314,27 @@
 [charslot(slot = "m", name = "avg_245_cello_1#11$1")]
 [name="阿尔图罗"]太好了。
 [name="阿尔图罗"]巫王并不是依靠什么秘法延续了自己的意志，而是在荒域中建起了自己的“行宫”。
-[name="阿尔图罗"]这片空间是真实存在的，他也一定就在这个地方......只是我需要再走一段路，才能抵达他的王座。
+[name="阿尔图罗"]这片空间是真实存在的，他也一定就在这个地方……只是我需要再走一段路，才能抵达他的王座。
 [charslot(slot = "m", name = "avg_npc_1114_1#7$1")]
-[name="弗莱蒙特"]......你知道，在荒域中再次被“放逐”，会发生什么吗？
+[name="弗莱蒙特"]……你知道，在荒域中再次被“放逐”，会发生什么吗？
 [charslot(slot = "m", name = "avg_245_cello_1#9$1")]
-[name="阿尔图罗"]......
+[name="阿尔图罗"]……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_strngspllmgc", volume=0.6)]
 [PlaySound(key="$p_skill_darkholeborn", volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
-阴影在生长......阿尔图罗猛然警觉。
+阴影在生长……阿尔图罗猛然警觉。
 在自己说话时，对方已经施放了巫术。以弗莱蒙特为圆心，那些丝弦般的阴影膨胀成粗壮的藤蔓，融进本就色彩暧昧的地面，蔓延过来。
 腐朽的气息开枝散叶，它最饱满的形态，即是死亡与消逝。
 [charslot(slot = "m", name = "avg_245_cello_1#9$1")]
-[name="阿尔图罗"]......我还没有得到答案。
+[name="阿尔图罗"]……我还没有得到答案。
 [name="阿尔图罗"]我必须找回我的乐声，我必须，演奏巫王。
-[name="阿尔图罗"]我还不能......
+[name="阿尔图罗"]我还不能……
 [dialog]
 [charslot(slot = "m", name = "avg_245_cello_1#9$1", focus="n")]
-......死去。
+……死去。
 她愿意在演奏的同时走向终点，却无法接受自己消散在真相面前，寂静之中。
 [dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -358,16 +358,16 @@
 [delay(time=2)]
 [name="巫王的乐手"]维恩大钟楼响了！
 [name="巫王的乐手"]快走吧，去始源之塔，演奏就要开始了——
-[name="巫王的乐手"]新的乐曲，新的术式......为维杜尼亚抵御天灾和高卢人的火炮......
-[name="巫王的乐手"]赫尔......赫尔昏佐伦......
+[name="巫王的乐手"]新的乐曲，新的术式……为维杜尼亚抵御天灾和高卢人的火炮……
+[name="巫王的乐手"]赫尔……赫尔昏佐伦……
 [charslot(slot = "l",name="avg_npc_1114_1#12$1",bstart=0.3,bend=0.7)]
 [charslot(slot = "r",name="avg_npc_1114_1#12$1",bstart=0.3,bend=0.7)]
 [charslot(slot = "m", name = "avg_npc_1114_1#5$1")]
-[name="弗莱蒙特"]......这里的时空并不稳定。
+[name="弗莱蒙特"]……这里的时空并不稳定。
 [name="弗莱蒙特"]是“放逐”诱发的吗？
 [name="弗莱蒙特"]不，早在我们进入荒域之前就这样了。赫尔昏佐伦的力量正在衰减。
 [charslot(slot = "m", name = "avg_npc_1114_1#12$1")]
-[name="弗莱蒙特"]“始源之角”......在加速崩塌。
+[name="弗莱蒙特"]“始源之角”……在加速崩塌。
 [Dialog]
 [StopSound(channel="b", fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -384,22 +384,22 @@
 [Blocker(a=0.2, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=2)]
 [name="阿尔图罗"]唔——！
-[name="阿尔图罗"]我......还活着？
-[name="阿尔图罗"]刚刚的旋律......又消失了......
+[name="阿尔图罗"]我……还活着？
+[name="阿尔图罗"]刚刚的旋律……又消失了……
 她抓住了那一缕不同于周遭环境的声响，拼命逃脱了“放逐”的丝线。
 而此刻那旋律化作了实体，从混沌中清晰地析出，落到她跟前。
-变成了......一个人。
+变成了……一个人。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1122_1#1$1", bstart=0.2,bend=0.7, duration=1.5, isblock=true)]
 [name="？？？"]（混乱不清的声响）
 [charslot(slot = "m", focus="n")]
-[name="阿尔图罗"]......
-[name="阿尔图罗"]您......是......
-[name="阿尔图罗"]是您奏出了刚才的旋律，救了我......一命？
+[name="阿尔图罗"]……
+[name="阿尔图罗"]您……是……
+[name="阿尔图罗"]是您奏出了刚才的旋律，救了我……一命？
 [charslot(slot = "m", name = "avg_npc_1122_1#1$1", bstart=0.2,bend=0.7)]
 [name="？？？"]（混乱不清的声响）
 [charslot(slot = "m", focus="n")]
-[name="阿尔图罗"]您是随侍在巫王身侧的......高塔术师吗？
+[name="阿尔图罗"]您是随侍在巫王身侧的……高塔术师吗？
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [SoundVolume(volume=1, channel="a",fadetime=2)]
@@ -411,14 +411,14 @@
 [charslot]
 [PlaySound(key="$d_avg_clothmovement", volume=0.6)]
 [charslot(slot = "m", name = "avg_245_cello_1#9$1", posfrom="0,-20", posto="0,0", duration=1.5,isblock=true)]
-[name="阿尔图罗"]......抱歉。
+[name="阿尔图罗"]……抱歉。
 [charslot(slot = "m", name = "avg_npc_1122_1#1$1")]
 [name="尤利娅"]啊，小心，别多说话。
 [name="尤利娅"]有人在追你吗？
 [charslot(slot = "m", name = "avg_245_cello_1#8$1")]
-[name="阿尔图罗"]......
+[name="阿尔图罗"]……
 [charslot(slot = "m", name = "avg_npc_1122_1#1$1")]
-[name="尤利娅"]你受伤了......别乱跑，先在这里躲一会儿。
+[name="尤利娅"]你受伤了……别乱跑，先在这里躲一会儿。
 [name="尤利娅"]放心，这附近我很熟悉，没人能找过来。
 [dialog]
 [StopSound(channel="a", fadetime=2)]

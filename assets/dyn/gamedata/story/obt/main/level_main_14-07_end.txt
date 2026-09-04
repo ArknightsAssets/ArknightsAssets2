@@ -67,11 +67,11 @@
 [Decision(options="过去这么多年里，你是不是失望了很多次？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#14$1",focus="m")]
-[name="凯尔希"]......博士，在现在的你眼中，源石是什么？
+[name="凯尔希"]……博士，在现在的你眼中，源石是什么？
 [name="凯尔希"]充满未知的现象，可供利用的资源，又或者，疾病和灾害的源头？
 [dialog]
 [charslot(slot="m",name="avg_003_kalts_1#14$1",focus="none")]
-[Decision(options="......;我没法选。", values="1;2")]
+[Decision(options="……;我没法选。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#2$1",focus="m")]
 [name="凯尔希"]你不想选择，因为你想说，“全都是”。
@@ -84,25 +84,25 @@
 [Decision(options="在有些人眼中，你该无所不能。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [dialog]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="none")]
-[Decision(options="你在看......我？", values="1")]
+[Decision(options="你在看……我？", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]博士，你问我是否失望过。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......有那么一次。
+[name="凯尔希"]……有那么一次。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]我放任了自己对一个人过于依赖，做出了一系列错误的判断，并付出了代价。
 [dialog]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="none")]
-[Decision(options="是不是......;......;（叹息）", values="1;2;3")]
+[Decision(options="是不是……;……;（叹息）", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]这并不意味着，我不会再相信。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]去反抗我们的源头与根基，本就无比艰难。仅仅寄希望于一项技术......或者一个人，是不切实际的。
+[name="凯尔希"]去反抗我们的源头与根基，本就无比艰难。仅仅寄希望于一项技术……或者一个人，是不切实际的。
 [charslot]
 [name="阿米娅"]博士，凯尔希医生，请过来看看！
 [name="阿米娅"]前面有一个洞口。
@@ -115,7 +115,7 @@
 [playMusic(key="$darkness_03_loop", volume=0.6)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]......入口被人为隐藏过。
+[name="Logos"]……入口被人为隐藏过。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]粗糙，扭曲，是赦罪师操弄的幻术。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
@@ -151,7 +151,7 @@
 [name="凯尔希"]在旁人看来，就是瞬间的“分解”。
 [dialog]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="none")]
-[Decision(options="就像因矿石病发作而死去的人......", values="1")]
+[Decision(options="就像因矿石病发作而死去的人……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]有些相似。这些病人，在意识消散之后，他们的躯体将在一段时间内崩解为高度活性化的源石粉尘。
@@ -161,7 +161,7 @@
 [name="凯尔希"]罗德岛的技术只能做到延缓体细胞与源石融合率达到阈值。我们尚做不到生成真正的防御屏障，来阻隔源石。
 [dialog]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="none")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]博士，不必过于忧虑。当前环境中的源石覆盖率还未到极端情况。
@@ -215,7 +215,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]这就是......
+[name="阿米娅"]这就是……
 [dialog]
 [charslot]
 [Decision(options="“提卡兹之血”。", values="1")]
@@ -240,7 +240,7 @@
 [charslot(slot="m",name="avg_003_kalts_1#6$1",focus="m")]
 [name="凯尔希"]等等。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
-[name="阿米娅"]......凯尔希医生？
+[name="阿米娅"]……凯尔希医生？
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]Mon3tr，攻击那边的卫兵尸体！
 [charslot(slot="m",name="npc_10002",focus="m")]
@@ -256,11 +256,11 @@
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
 [name="阿米娅"]另一个Mon3tr？
 [charslot(slot="m",name="avg_npc_394_1#13$1",focus="m")]
-[name="阿米娅"]唔，不止一个，所有倒下的赦罪师卫兵......都不是真正的卫兵！
+[name="阿米娅"]唔，不止一个，所有倒下的赦罪师卫兵……都不是真正的卫兵！
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]几乎没有破绽的“模仿”。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]只有他，才能将这座洞窟......装点得与真正的祭坛一模一样。
+[name="Logos"]只有他，才能将这座洞窟……装点得与真正的祭坛一模一样。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]这是专门为我们设置的陷阱。
 [dialog]
@@ -293,14 +293,14 @@ Mon3tr挡在你们身前。
 [name="阿米娅"]博士！
 [dialog]
 [charslot]
-[Decision(options="这里是......;......赦罪师的洞窟。", values="1;2")]
+[Decision(options="这里是……;……赦罪师的洞窟。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]我们似乎掉到了刚才那个假祭坛的下层。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]源石结构的变化速度太快了，我只来得及抓住你。
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="m")]
-[name="阿米娅"]凯尔希医生和Logos先生不知道在哪里......到处都是源石，信息太多了。我感觉不到他们。
+[name="阿米娅"]凯尔希医生和Logos先生不知道在哪里……到处都是源石，信息太多了。我感觉不到他们。
 [dialog]
 [charslot(slot="m",name="avg_npc_394_1#18$1",focus="none")]
 [Decision(options="他们可能离我们很远了。", values="1")]
@@ -317,9 +317,9 @@ Mon3tr挡在你们身前。
 [CameraShake(duration=3, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
-[name="阿米娅"]地面在颤动......是晶簇还在蔓延吗？
+[name="阿米娅"]地面在颤动……是晶簇还在蔓延吗？
 [charslot(slot="m",name="avg_npc_394_1#15$1",focus="m")]
-[name="阿米娅"]不，那是......
+[name="阿米娅"]不，那是……
 [stopmusic(fadetime=1)]
 [dialog]
 [charslot]
@@ -348,9 +348,9 @@ Mon3tr挡在你们身前。
 但它们出现在了同一副躯体上。
 [dialog]
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
-[name="阿米娅"]他的情感......很混乱。
+[name="阿米娅"]他的情感……很混乱。
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
-[name="阿米娅"]只有回忆，许多零碎的，模糊的，杂糅的回忆......
+[name="阿米娅"]只有回忆，许多零碎的，模糊的，杂糅的回忆……
 [dialog]
 [charslot]
 [Decision(options="阿米娅，另一边！", values="1")]
@@ -366,12 +366,12 @@ Mon3tr挡在你们身前。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]这座洞窟是他们诞生的地方。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[multiline(name="阿米娅")]赦罪师用萨卡兹的血和源石制造......
+[multiline(name="阿米娅")]赦罪师用萨卡兹的血和源石制造……
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
 [multiline(name="阿米娅")]孕育了这些生物。
 [dialog]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="none")]
-[Decision(options="你很......悲伤？;阿米娅......", values="1;2")]
+[Decision(options="你很……悲伤？;阿米娅……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
 [name="阿米娅"]博士，他们是活着的。
@@ -380,7 +380,7 @@ Mon3tr挡在你们身前。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
 [name="阿米娅"]可他们只会听从赦罪师的命令行事。他们并不会感到疼痛，也不会为自身命运哭泣。
 [charslot(slot="m",name="avg_npc_394_1#11$1",focus="m")]
-[name="阿米娅"]人们只会称这样的生物为......“怪物”。
+[name="阿米娅"]人们只会称这样的生物为……“怪物”。
 [dialog]
 [charslot]
 [name="？？？"]是啊，“怪物”。
@@ -388,7 +388,7 @@ Mon3tr挡在你们身前。
 [PlaySound(key="$d_gen_walk_n")]
 [charslot(slot="m",name="avg_npc_653_1#9$1",focus="m",duration=2)]
 [delay(time=2)]
-[name="萨卢斯"]或者说......“奇美拉”。
+[name="萨卢斯"]或者说……“奇美拉”。
 [charslot(slot="m",name="avg_npc_653_1#8$1",focus="m")]
 [name="萨卢斯"]你到底在为谁哀叹？
 [charslot(slot="m",name="avg_npc_653_1#8$1",focus="m")]
@@ -400,7 +400,7 @@ Mon3tr挡在你们身前。
 [delay(time=0.5)]
 [name="赦罪师的“奇美拉”"]（咆哮）
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]战斗要开始了。
 [dialog]
@@ -441,7 +441,7 @@ Mon3tr挡在你们身前。
 [Decision(options="你和“魔王”的联系正在加深。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_394_1#3$1",focus="m")]
-[name="阿米娅"]或许......
+[name="阿米娅"]或许……
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
 [name="阿米娅"]或许，依然不够。
 [Dialog]
@@ -451,7 +451,7 @@ Mon3tr挡在你们身前。
 [Background(image="50_g18_originiumcave",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]......阿米娅。
+[name="Logos"]……阿米娅。
 [charslot(slot="m",name="avg_npc_425_1#1$1",focus="m")]
 [name="赦罪师直属卫兵？"]先别急着离开。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
@@ -527,7 +527,7 @@ Mon3tr挡在你们身前。
 [charslot]
 [charslot(slot="m",name="avg_npc_1331_1#1$1",focus="m",duration=2)]
 [delay(time=2)]
-[name="“灵幛”？"]女妖......你也曾杀死过我。
+[name="“灵幛”？"]女妖……你也曾杀死过我。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]在战场上，我与你们立场不同。
 [charslot(slot="m",name="avg_npc_1331_1#1$1",focus="m")]
@@ -537,7 +537,7 @@ Mon3tr挡在你们身前。
 [charslot(slot="m",name="avg_npc_1331_1#1$1",focus="m")]
 [name="“灵幛”？"]当时的你，不过是一个声音稚嫩的幼童。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]......我记得你。
+[name="Logos"]……我记得你。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]你口中的叛徒，只是想要逃离卡兹戴尔，找寻平静生活的一家三口。
 [charslot(slot="m",name="avg_npc_1331_1#1$1",focus="m")]
@@ -545,7 +545,7 @@ Mon3tr挡在你们身前。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]王庭从不该凌驾于普通萨卡兹之上。即便你曾是卡兹戴尔的战争英雄，我也不能放任你屠戮平民。
 [charslot(slot="m",name="avg_npc_1331_1#1$1",focus="m")]
-[name="“灵幛”？"]所以你选择了巴别塔和特蕾西娅......为了你口中的普通萨卡兹。
+[name="“灵幛”？"]所以你选择了巴别塔和特蕾西娅……为了你口中的普通萨卡兹。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]这是通往未来的，更正确的道路。
 [dialog]
@@ -573,13 +573,13 @@ Mon3tr挡在你们身前。
 [charslot(slot="m",name="avg_npc_054",focus="m")]
 [name="巴别塔成员？"]并肩作战那么多年，你对我的感情，竟然还不及对那些外来者的。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......你留在本舰的那盆黄金草，如今长得很好。
+[name="Logos"]……你留在本舰的那盆黄金草，如今长得很好。
 [charslot(slot="m",name="avg_npc_054",focus="m")]
 [name="巴别塔成员？"]殿下死后，在那场席卷巴别塔的内乱中，你亲手杀死了多少同僚？
 [charslot(slot="m",name="avg_npc_054",focus="m")]
-[name="巴别塔成员？"]那么多人的遗物......都快占满你的宿舍了吧？每次看着那棵我随手插进盆里的草，你会感到悲伤吗？
+[name="巴别塔成员？"]那么多人的遗物……都快占满你的宿舍了吧？每次看着那棵我随手插进盆里的草，你会感到悲伤吗？
 [charslot(slot="m",name="avg_npc_1072_1#2$1",focus="m")]
-[name="Logos"]倘若我确实感觉到了悲伤......
+[name="Logos"]倘若我确实感觉到了悲伤……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]那也是因为，连死亡都未能给予你们应得的安宁。
 [dialog]
@@ -623,22 +623,22 @@ Logos抬起一只手。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
 [name="Logos"]果然如此。
 [charslot(slot="m",name="avg_npc_1072_1#5$1",focus="m")]
-[name="Logos"]还有一个......最后一个。
+[name="Logos"]还有一个……最后一个。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]......
+[name="Logos"]……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]是你。
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_410_1#1$1",bstart=0.2,bend=0.7,focus="m",duration=1)]
 [delay(time=1)]
-[name="？？？"]......
+[name="？？？"]……
 [Charslot]
 血魔站在洞窟深处，神态与当日立在巨兽颅骨之上时几乎相同。
 只不过，在他周身翻滚的并非往日的鲜血，而是源石晶簇。
 Logos能感受到，自己体内的血在躁动。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]血魔大君......杜卡雷。
+[name="Logos"]血魔大君……杜卡雷。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]我知道，你和其他那些都不一样。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
@@ -653,7 +653,7 @@ Logos能感受到，自己体内的血在躁动。
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]变形者阁下，这一部分的您选择了帮助奎萨图什塔。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
-[name="变形者集群"]不......我们并非想要帮助某一位，我们只是，在寻找答案。
+[name="变形者集群"]不……我们并非想要帮助某一位，我们只是，在寻找答案。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]凯尔希，当萨卡兹还不是萨卡兹的时候，我们就见过你。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
@@ -663,7 +663,7 @@ Logos能感受到，自己体内的血在躁动。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]当时，我们尚不能开口言语。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
-[name="变形者集群"]后来......
+[name="变形者集群"]后来……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]最初的提卡兹魔王触碰了源石。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
@@ -677,9 +677,9 @@ Logos能感受到，自己体内的血在躁动。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]因为我们开始“思考”。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......源石会同化一切接触到源石的生命。
+[name="凯尔希"]……源石会同化一切接触到源石的生命。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]不只你们，还有最初的血魔，女妖，温迪戈......所有提卡兹都发生了转变。你们正在趋近另一种曾存在于这片大地的生物形态。
+[name="凯尔希"]不只你们，还有最初的血魔，女妖，温迪戈……所有提卡兹都发生了转变。你们正在趋近另一种曾存在于这片大地的生物形态。
 [charslot(slot="m",name="avg_npc_426_1#1$1",focus="m")]
 [name="变形者集群"]那么，你呢？
 [dialog]
@@ -695,7 +695,7 @@ Logos能感受到，自己体内的血在躁动。
 [charslot(slot="m",name="npc_10003_1",bstart=0,bend=0.8,focus="m")]
 [name="Mon3tr？"]它很不喜欢，看到别的自己。
 [charslot(slot="m",name="npc_10003_1",bstart=0,bend=0.8,focus="m")]
-[name="Mon3tr？"]凯尔希......不灭之人。
+[name="Mon3tr？"]凯尔希……不灭之人。
 [charslot(slot="m",name="npc_10003_1",bstart=0,bend=0.8,focus="m")]
 [name="Mon3tr？"]你还记得你最初的模样吗？
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
@@ -722,11 +722,11 @@ Logos能感受到，自己体内的血在躁动。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]以这种形式达成的“永生”与谎言无异。
 [charslot(slot="m",name="npc_10003_1",bstart=0,bend=0.8,focus="m")]
-[name="Mon3tr？"]那么，难道是某种职责......
+[name="Mon3tr？"]那么，难道是某种职责……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]我不否认，从降生那一刻开始，我的生命就与职责相绑定。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]回顾过往，我不认为......我算是真正“活着”。
+[name="凯尔希"]回顾过往，我不认为……我算是真正“活着”。
 [charslot(slot="m",name="npc_10003_1",bstart=0,bend=0.8,focus="m")]
 [name="Mon3tr？"]构成你身体的物质已经全部被更换过。继承自前代个体的记忆同样并不可靠。被强加的使命未必属于你自己。
 [name="Mon3tr？"]凯尔希，这一万多年来，是什么令你坚信，你始终如一？

@@ -4,9 +4,9 @@
 [battle.delay(time=2)]
 
 [battle.pause(pause=true)]
-[popupdialog(dialogHead="$avatar_amiya")]这就是育婴圣堂......为了让圣堂里数以万计的孩子能共享同一个美梦，这里安置了一种特殊的设施。
+[popupdialog(dialogHead="$avatar_amiya")]这就是育婴圣堂……为了让圣堂里数以万计的孩子能共享同一个美梦，这里安置了一种特殊的设施。
 [tutorial(focusWidth=220, focusHeight=220, animStyle="Highlight", focusStyle="HighlightCircle", black="0.5", protectTime=0.5,\
- dialogHead="$avatar_amiya", tileY=3, tileX=4.5)]就是这些“入梦砖”......部署在上面的干员会立刻被拖入梦境。
+ dialogHead="$avatar_amiya", tileY=3, tileX=4.5)]就是这些“入梦砖”……部署在上面的干员会立刻被拖入梦境。
 [battle.pause(pause=false)]
 
 [battle.delay(time=11)]
@@ -21,7 +21,7 @@
 
 [battle.pause(pause=true)]
 [tutorial(focusWidth=220, focusHeight=220, animStyle="Highlight", focusStyle="HighlightCircle", black="0.5", protectTime=0.5,\
- dialogHead="$avatar_amiya", tileY=4, tileX=6)]蛇屠箱干员前来支援了！啊......但在美梦中，她完全没法阻挡敌人。
+ dialogHead="$avatar_amiya", tileY=4, tileX=6)]蛇屠箱干员前来支援了！啊……但在美梦中，她完全没法阻挡敌人。
 [battle.pause(pause=false)]
 
 [battle.delay(time=3)]
@@ -35,7 +35,7 @@
 
 [battle.pause(pause=true)]
 [popupdialog(dialogHead="$avatar_amiya")]得想办法让美梦中的干员们醒来才行！
-[popupdialog(dialogHead="$avatar_amiya")]等干员们自己醒来，可能要等上很久很久......
+[popupdialog(dialogHead="$avatar_amiya")]等干员们自己醒来，可能要等上很久很久……
 [tutorial(focusWidth=220, focusHeight=220, animStyle="Highlight", focusStyle="HighlightCircle", black="0.5", protectTime=0.5,\
  dialogHead="$avatar_amiya", tileY=3.5, tileX=3.5)]让清醒的干员们帮帮忙吧，为了叫醒美梦中的干员，适当地采用激烈一点的方式也没关系的。
 [popupdialog(dialogHead="$avatar_amiya")]每次击打美梦中的干员，都能为其积累清醒度，直到美梦中的干员完全清醒过来。
@@ -47,7 +47,7 @@
 
 [battle.pause(pause=true)]
 [tutorial(focusWidth=220, focusHeight=220, animStyle="Highlight", focusStyle="HighlightCircle", black="0.5", protectTime=0.5,\
- dialogHead="$avatar_amiya", tileY=3.5, tileX=4)]从美梦中苏醒的干员看起来似乎格外有精神......不仅恢复了所有生命值，技力也完全充满了。
+ dialogHead="$avatar_amiya", tileY=3.5, tileX=4)]从美梦中苏醒的干员看起来似乎格外有精神……不仅恢复了所有生命值，技力也完全充满了。
 [battle.pause(pause=false)]
 
 [battle.delay(time=8)]

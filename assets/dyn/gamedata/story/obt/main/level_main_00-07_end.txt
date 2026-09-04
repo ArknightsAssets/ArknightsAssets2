@@ -8,30 +8,30 @@
 [name="杜宾"]  依照既定路线，我们已经很接近切城南边的中城区了。
 [name="杜宾"]  穿过这个公园，就是汇合点。不出意外的话，临光和E4小队应该已经在那里等着我们了。
 [Character(name="char_013_riop",name2="char_130_doberm_ex",focus=1)]
-[name="近卫干员"]   可是......
-[name="近卫干员"]   要是临光......被袭击了，会怎么样？
-[name="近卫干员"]   要是他们原本想用通讯设施警告我们，却发现信号遭到干扰......
+[name="近卫干员"]   可是……
+[name="近卫干员"]   要是临光……被袭击了，会怎么样？
+[name="近卫干员"]   要是他们原本想用通讯设施警告我们，却发现信号遭到干扰……
 [name="近卫干员"]   我们该怎么办？
 [Character(name="char_013_riop",name2="char_130_doberm_ex",focus=2)]
-[name="杜宾"]  ......
+[name="杜宾"]  ……
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   我们会去确认。
 [character(name="char_013_riop")]
-[name="近卫干员"]   ......啊。
+[name="近卫干员"]   ……啊。
 [Character(name="char_014_riope",name2="char_013_riop",focus=1)]
 [name="Ace"]   我们要亲眼确认事件之后，才会做出揣测。
 [name="Ace"]   不要用怀疑恐吓自己。
 [Character(name="char_014_riope",name2="char_013_riop",focus=2)]
-[name="近卫干员"]   明，明白了......
+[name="近卫干员"]   明，明白了……
 [Character(name="char_130_doberm_ex")]
-[name="杜宾"]  失去联络手段所带来的恐慌情绪，比想象中蔓延得快得多......
-[name="杜宾"]  特别是......在这个天灾仿佛近在眼前的时候。
+[name="杜宾"]  失去联络手段所带来的恐慌情绪，比想象中蔓延得快得多……
+[name="杜宾"]  特别是……在这个天灾仿佛近在眼前的时候。
 [name="杜宾"]  我们得赶紧加快速度了。
 [Dialog]
 [Blocker(a=0.3, r=0.95, g=0.95, b=0.95, fadetime=4, block=true)]
 [Character(name="char_002_amiya_1#5")]
-[name="阿米娅"]    ......
-[name="阿米娅"]    欸......这阵雾气......？
+[name="阿米娅"]    ……
+[name="阿米娅"]    欸……这阵雾气……？
 [name="阿米娅"]   ——难道——
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   小心！！
@@ -50,7 +50,7 @@
 [Character(name="char_130_doberm_ex")]
 [name="杜宾"]  敌军的射击！！
 [Character(name="char_002_amiya_1#7")]
-[name="阿米娅"]   这是陷阱......！
+[name="阿米娅"]   这是陷阱……！
 [Character]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=0.3, block=true)]
 [Dialog]
@@ -58,7 +58,7 @@
 [Character(name="char_1002_nsabr_2")]
 [name="整合运动成员"]   ————！！
 [character(name="char_013_riop")]
-[name="近卫干员"]   不好，我们的后方也出现了整合运动的追兵......！
+[name="近卫干员"]   不好，我们的后方也出现了整合运动的追兵……！
 [Character(name="char_002_amiya_1#7")]
 [name="阿米娅"]   侦察干员呢！
 [character(name="char_013_riop")]
@@ -68,7 +68,7 @@
 [Dialog]
 [Blocker(a=0, fadetime=0.3, block=true)]
 [Character(name="char_1502_crowns")]
-[name="？？？"]  罗德岛......
+[name="？？？"]  罗德岛……
 [name="？？？"]  追上你们了。
 [Character(name="char_1002_nsabr_2")]
 [name="整合运动成员"]   ——！
@@ -96,7 +96,7 @@
 [name="？？？"]  在清剿了东南要塞之后，我一听到你的消息，可是立刻就赶过来了。
 [name="？？？"]  这里已经是我的处理范围咯，弑君者。
 [Character(name="char_1502_crowns")]
-[name="弑君者"]  ......
+[name="弑君者"]  ……
 [name="弑君者"] 你来做什么？
 [Character(name="char_1507_Mephisto_1#6")]
 [name="？？？"]  该把他们，交给我了吧？

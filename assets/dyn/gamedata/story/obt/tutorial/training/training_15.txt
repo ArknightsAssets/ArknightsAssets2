@@ -1,6 +1,6 @@
 [HEADER(is_skippable=true, is_autoable=false)] 训练关卡15
 
-[PopupDialog(dialogHead="$avatar_jesica")] 今天好像有好多人......诶？啊，阿米娅你也来了！
+[PopupDialog(dialogHead="$avatar_jesica")] 今天好像有好多人……诶？啊，阿米娅你也来了！
 [PopupDialog(dialogHead="$avatar_amiya")] 嗯，杜宾教官来让我参与这次训练，据说今天是最后的训练演习了。
 [PopupDialog(dialogHead="$avatar_doberm")] 是的，在之前的训练中，博士已经基本回顾了所有的基础战斗策略。
 [PopupDialog(dialogHead="$avatar_doberm")] 接下来，我为了博士准备了最后一道难题：迎击一波敌人的精英部队。
@@ -23,6 +23,6 @@
 [PopupDialog(dialogHead="$avatar_amiya")] 加油，博士。还有杰西卡！
 [PopupDialog(dialogHead="$avatar_jesica")] 我会努力的！我已经差不多熟悉状况了，博士，请放心指挥我们吧。
 [PopupDialog(dialogHead="$avatar_doberm")] 是时候让我看看，Dr.{@nickname}，你到底能做到什么地步了。
-[PopupDialog(dialogHead="$avatar_doberm")] 为了我们所有人的未来......
+[PopupDialog(dialogHead="$avatar_doberm")] 为了我们所有人的未来……
 
 [Blocker(fadetime=0.3, block=true, a=0)]

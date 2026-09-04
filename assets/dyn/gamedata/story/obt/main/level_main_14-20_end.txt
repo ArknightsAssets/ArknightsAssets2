@@ -11,17 +11,17 @@
 [PlaySound(key="$d_avg_medicalbeep")]
 [Delay(time=2)]
 [charslot]
-[name="垂死的感染者"]呼......呼......咳......
+[name="垂死的感染者"]呼……呼……咳……
 [charslot]
-[name="垂死的感染者"]你又来了......阿米娅。
+[name="垂死的感染者"]你又来了……阿米娅。
 [charslot(slot = "m", name = "avg_npc_1295_1#8$1",focus="m")]
 [name="阿米娅"]姐姐，快看，我给你画了什么！
 [charslot]
-[name="垂死的感染者"]哈，我能听到你在隔离舱上画了什么......阿米娅。
+[name="垂死的感染者"]哈，我能听到你在隔离舱上画了什么……阿米娅。
 [charslot]
-[name="垂死的感染者"]但我看不见了......从昨天起就看不见了。
+[name="垂死的感染者"]但我看不见了……从昨天起就看不见了。
 [charslot(slot = "m", name = "avg_npc_1295_1#7$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot = "m", name = "avg_npc_1295_1#8$1",focus="m")]
 [name="阿米娅"]我有办法了！我先进来——
 [charslot]
@@ -40,23 +40,23 @@
 [name="阿米娅"]姐姐，能感受到吗？我用手指在你的掌心里画出了那朵花。
 [name="阿米娅"]你的名字很漂亮的！
 [charslot]
-[name="垂死的感染者"]......
+[name="垂死的感染者"]……
 [charslot(slot = "m", name = "avg_npc_1295_1#10$1",focus="m")]
-[name="阿米娅"]唔，是我画得不清楚吗......我可以再试试......
+[name="阿米娅"]唔，是我画得不清楚吗……我可以再试试……
 [charslot]
-[name="垂死的感染者"]小兔子......你不怕我吗？
+[name="垂死的感染者"]小兔子……你不怕我吗？
 [charslot(slot = "m", name = "avg_npc_1295_1#10$1",focus="m")]
 [name="阿米娅"]欸，为什么要怕你呢？
 [charslot]
-[name="垂死的感染者"]......
+[name="垂死的感染者"]……
 [charslot]
 [name="垂死的感染者"]虽然我们都才来巴别塔不久，但我很喜欢阿米娅。
 [charslot]
-[name="垂死的感染者"]我们是朋友对吧......你能帮我一个忙吗？帮我按铃叫医生。
+[name="垂死的感染者"]我们是朋友对吧……你能帮我一个忙吗？帮我按铃叫医生。
 [charslot]
-[name="垂死的感染者"]我想让医生带我去看看......不，摸摸那朵花。
+[name="垂死的感染者"]我想让医生带我去看看……不，摸摸那朵花。
 [charslot(slot = "m", name = "avg_npc_1295_1#10$1",focus="m")]
-[name="阿米娅"]......我也想一起去。
+[name="阿米娅"]……我也想一起去。
 [charslot]
 [name="垂死的感染者"]不行哦，阿米娅也在生病，要乖乖留在这里。
 [charslot(slot = "m", name = "avg_npc_1295_1#8$1",focus="m")]
@@ -65,20 +65,20 @@
 感染者没有说话，只是摸了摸阿米娅的头。
 阿米娅看到了她强忍痛苦的表情，还有手臂上散发光芒的源石。
 [charslot(slot = "m", name = "avg_npc_1295_1#2$1",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [dialog]
 [charslot]
 阿米娅，那时的你，也才刚刚跟随博士来到巴别塔。
 我仍然记得，那天你坐在隔离舱的门口等了很久，你不肯离开。
 博士找到了沉默的你，坐在你的身边陪着你。直到被博士抱在怀里，你才忍不住哭了出来。
 我那时也多想把你抱在怀里，但我不忍打扰你们。
-阿米娅......你是一个聪明的孩子。你明明知道，那位感染者不会再回来。
+阿米娅……你是一个聪明的孩子。你明明知道，那位感染者不会再回来。
 她不想让你看到她的离去，那对一个孩子而言太残忍。但她不知道，你远比她想象的要坚强。
-我从你温柔的眼神中看到了很多东西。你想帮助他们......
+我从你温柔的眼神中看到了很多东西。你想帮助他们……
 不论种族，不论是否是感染者，在你的眼里，他们都是鲜活而可爱的人。
 从那时起，我便一直有一个自私的想法——
-或许......未来的你也能戴上这顶冠冕......
-或许......你能走得比我更远。
+或许……未来的你也能戴上这顶冠冕……
+或许……你能走得比我更远。
 我并不急于将这样的重任交给你，我以为我还有很长的时间陪伴你成长——
 对不起，阿米娅，我食言了。
 [dialog]
@@ -90,41 +90,41 @@
 [Delay(time=1)]
 [dialog]
 [charslot]
-[Decision(options="......困住我们的法术消失了。", values="1")]
+[Decision(options="……困住我们的法术消失了。", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#2$3",focus="m",duration=2)]
 [delay(time=2)]
-[name="阿米娅"]特蕾西娅小姐的气息......正在消失。
+[name="阿米娅"]特蕾西娅小姐的气息……正在消失。
 [name="阿米娅"]博士，凯尔希医生，已经结束了吗？
 [dialog]
 [charslot]
-[Decision(options="这......就是一切的结束吗？", values="1")]
+[Decision(options="这……就是一切的结束吗？", values="1")]
 [Predicate(references="1")]
-[Decision(options="可是......“阿喃那”呢？", values="1")]
+[Decision(options="可是……“阿喃那”呢？", values="1")]
 [Predicate(references="1")]
 [charslot(slot = "m", name = "avg_1037_amiya3_1#2$3",focus="m")]
-[name="阿米娅"]抱歉，博士。我......没有在特蕾西娅小姐那里找到任何有关最初源石的线索。
+[name="阿米娅"]抱歉，博士。我……没有在特蕾西娅小姐那里找到任何有关最初源石的线索。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]我们还是晚了一步。
 [dialog]
 [charslot]
-[Decision(options="“阿喃那”不在这里了......;最初的源石已经被送走了。", values="1;2")]
+[Decision(options="“阿喃那”不在这里了……;最初的源石已经被送走了。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]博士，你已经意识到了。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]现在，你还能看到这座塔的尽头吗？
 [charslot(slot = "m", name = "avg_1037_amiya3_1#7$3",focus="m")]
-[name="阿米娅"]凯尔希医生，可我们现在不就站在......
+[name="阿米娅"]凯尔希医生，可我们现在不就站在……
 [dialog]
 [charslot]
-[Decision(options="......那些白色的巨柱仍在往下延伸......;我已经看不到它们延伸的尽头......", values="1;2")]
+[Decision(options="……那些白色的巨柱仍在往下延伸……;我已经看不到它们延伸的尽头……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]恐怕事情不会这么轻易就结束。
 [dialog]
 [charslot]
-[Decision(options="等等......;W呢？", values="1;2")]
+[Decision(options="等等……;W呢？", values="1;2")]
 [Predicate(references="1;2")]
 [dialog]
 [charslot]
@@ -154,12 +154,12 @@
 [dialog]
 [charslot]
 粉白色的丝线如枝桠般，依附于白色的巨柱生长。
-它们落在红色的根系之上，包裹着，缠绕着......
+它们落在红色的根系之上，包裹着，缠绕着……
 最终将会彻底覆盖这座不再有尽头的巨塔。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$2",focus="m")]
 [name="W"]阿米娅，我不会让当年的遗憾再发生一次。
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
-[name="W"]至少这一次，我希望......
+[name="W"]至少这一次，我希望……
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
 [name="阿米娅"]我知道。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
@@ -176,7 +176,7 @@
 满地根系上瞬间覆满了丝絮，如同一片被风催开的花圃，火焰在其中燃烧。
 而如花般的火焰之中，特蕾西娅就坐在那里，靠着根系，望着“天空”中那片正在恢复平静的金色海洋。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]阿米娅，你的力量，比我想象的更加蓬勃。真是温暖的火呀......
+[name="特蕾西娅"]阿米娅，你的力量，比我想象的更加蓬勃。真是温暖的火呀……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]“点燃腐朽的火焰”，阿米娅，你的确做到了。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -184,23 +184,23 @@
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
 [name="阿米娅"]特蕾西娅小姐，我们——
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]嘘......我知道现在你小脑瓜里的想法。
+[name="特蕾西娅"]嘘……我知道现在你小脑瓜里的想法。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]看看我们头顶的那片海洋吧，我们掀起的波涛正在平静下来。我们要走了。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]阿米娅，有些愿望别说出口，说出来也只能留下悲伤而已。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
-[name="阿米娅"]不，特蕾西娅小姐，我不想再留下遗憾。我希望......我们都希望您能留下来。
+[name="阿米娅"]不，特蕾西娅小姐，我不想再留下遗憾。我希望……我们都希望您能留下来。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]哪怕我会再次让你们失望？
 [charslot(slot = "m", name = "avg_1037_amiya3_1#8$3",focus="m")]
 [name="阿米娅"]更重要的不是让在乎的人知道我的心意吗？博士教会我的。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]......
+[name="特蕾西娅"]……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]哈，阿米娅真的长大了。
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
-[name="特蕾西娅"]......我会一直陪着你，阿米娅。如我曾经许诺的那样......
+[name="特蕾西娅"]……我会一直陪着你，阿米娅。如我曾经许诺的那样……
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
 [name="特蕾西娅"]虽然源石中不再留下我的丝毫信息，但我曾望向的理想也绝不会被你们抛弃。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
@@ -220,9 +220,9 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
 [name="W"]殿下！抱歉，我，我实在忍不住。
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
-[name="特蕾西娅"]欸......W，是你抱着我吧？
+[name="特蕾西娅"]欸……W，是你抱着我吧？
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
-[name="W"]殿下......？您的眼睛......
+[name="W"]殿下……？您的眼睛……
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
 [name="特蕾西娅"]看不清了。维持这副躯体的信息流正在远去。
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
@@ -233,41 +233,41 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
 [name="W"]——？！
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
-[name="W"]殿下，您，您不反感吗......
+[name="W"]殿下，您，您不反感吗……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]为什么会反感？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]嗯......不过是你的话，会有这种担忧也很正常。你一点没变，W。
+[name="特蕾西娅"]嗯……不过是你的话，会有这种担忧也很正常。你一点没变，W。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]还记得我们还在巴别塔时，你拿着相机偷偷站在角落踌躇着不敢上前的样子......
+[name="特蕾西娅"]还记得我们还在巴别塔时，你拿着相机偷偷站在角落踌躇着不敢上前的样子……
 [charslot(slot="m",name="avg_1035_wisdel_1#15$2",focus="m")]
-[name="W"]......您，您看到了？！
+[name="W"]……您，您看到了？！
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]当然，我其实也等着你走到我面前和我一起合影呢。不过，你到底没敢过来。
 [charslot(slot="m",name="avg_1035_wisdel_1#15$2",focus="m")]
-[name="W"]殿下，您......不光都看到了，还记得？！
+[name="W"]殿下，您……不光都看到了，还记得？！
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
 [name="W"]包，包括——
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]偷偷拍照？不止哦，我也没有想到当年那个冒冒失失的佣兵会成长为今天这样。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]切尔诺伯格与龙门的冲突得以平息的真相，曼弗雷德近几年头疼不已的佣兵团，当然还有出现在这处本不该被你们触及的地方......
+[name="特蕾西娅"]切尔诺伯格与龙门的冲突得以平息的真相，曼弗雷德近几年头疼不已的佣兵团，当然还有出现在这处本不该被你们触及的地方……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]你实际做到的，远比你所想到的，要多得多，W。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]现在，你应该认识到，我没有那么神圣，你也并非无足轻重。
 [charslot(slot="m",name="avg_1035_wisdel_1#2$2",focus="m")]
-[name="W"]哈哈......哈哈哈！不管您是在安慰我还是在骗我，我都当真了！
+[name="W"]哈哈……哈哈哈！不管您是在安慰我还是在骗我，我都当真了！
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
-[name="W"]殿下，您确实一直都......这么温柔。我们刚上来这个鬼地方，看到您的第一眼时，我真害怕——
+[name="W"]殿下，您确实一直都……这么温柔。我们刚上来这个鬼地方，看到您的第一眼时，我真害怕——
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
 [name="W"]殿下，我想补上当年那张合影！
 [charslot(slot="m",name="avg_1035_wisdel_1#4$2",focus="m")]
-[name="W"]我的相机，我的相机......等等，什么时候坏掉的——他妈的喀利喀！
+[name="W"]我的相机，我的相机……等等，什么时候坏掉的——他妈的喀利喀！
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]就算没坏，恐怕相机在这也不能工作。
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]W，我知道你不想留下遗憾，我也是。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -279,13 +279,13 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
 [name="W"]——？！
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]“W”属于已经逝去的萨卡兹，是本应该被结束的轮回......
+[name="特蕾西娅"]“W”属于已经逝去的萨卡兹，是本应该被结束的轮回……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]就像我说的，你值得拥有一个更好的名字，更适合你这样的萨卡兹女性的名字。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]唔，虽然当年是想要等到卡兹戴尔的命运尘埃落定之后再送给你，但恐怕我见不到那一天了。
 [charslot(slot="m",name="avg_1035_wisdel_1#8$2",focus="m")]
-[name="W"]等等，殿下，等等！我，我......没懂......
+[name="W"]等等，殿下，等等！我，我……没懂……
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
 [name="W"]让我缓缓！不对，我应该记下来！
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
@@ -293,27 +293,27 @@
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
 [name="特蕾西娅"]“维什戴尔”。
 [charslot(slot="m",name="avg_1035_wisdel_1#5$2",focus="m")]
-[name="W"]......
+[name="W"]……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]......会有点难记吗？
+[name="特蕾西娅"]……会有点难记吗？
 [charslot(slot="m",name="avg_1035_wisdel_1#12$2",focus="m")]
-[name="W"]......怎么会。
+[name="W"]……怎么会。
 [charslot(slot="m",name="avg_1035_wisdel_1#12$2",focus="m")]
 [name="W"]“维什——戴尔”，对吧？戴尔我知道，家嘛。维——维什——
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]“许愿”。
 [charslot(slot="m",name="avg_1035_wisdel_1#10$2",focus="m")]
-[name="W"]许愿......一个家。
+[name="W"]许愿……一个家。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]嗯。卡兹戴尔的命运，可以请你代我去看看吗？
 [charslot(slot="m",name="avg_1035_wisdel_1#10$2",focus="m")]
-[name="W"]可......我......您......特雷西斯......
+[name="W"]可……我……您……特雷西斯……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]卡兹戴尔的未来握在你们的手中，而不是我和特雷西斯。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]等到了那一天，你会明白的。
 [charslot(slot="m",name="avg_1035_wisdel_1#11$2",focus="m")]
-[name="维什戴尔"]哈哈......好！维什戴尔......维什——戴尔......
+[name="维什戴尔"]哈哈……好！维什戴尔……维什——戴尔……
 [charslot(slot="m",name="avg_1035_wisdel_1#11$2",focus="m")]
 [name="维什戴尔"]我记住了，我会用一辈子记住的！
 [charslot(slot="m",name="avg_1035_wisdel_1#11$2",focus="m")]
@@ -323,63 +323,63 @@
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="维什戴尔"]还有，我刚刚决定去军事委员会楼下，用炸弹再拼一遍我的名字。这样以后谁见了都忘不掉。
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
-[name="维什戴尔"]或者去楼顶。我要让爆炸的火光，传得很远很远，远到就连伦蒂尼姆都......
+[name="维什戴尔"]或者去楼顶。我要让爆炸的火光，传得很远很远，远到就连伦蒂尼姆都……
 [charslot(slot = "m", name = "avg_1037_amiya3_1#8$3",focus="m")]
-[name="阿米娅"]......维什......戴尔。
+[name="阿米娅"]……维什……戴尔。
 [charslot(slot="m",name="avg_1035_wisdel_1#11$2",focus="m")]
 [name="维什戴尔"]我知道你想说什么。我没哭。
 [charslot(slot="m",name="avg_1035_wisdel_1#15$2",focus="m")]
-[name="维什戴尔"]我哆嗦那是因为......呵呵......哈......
+[name="维什戴尔"]我哆嗦那是因为……呵呵……哈……
 [charslot(slot = "m", name = "avg_1037_amiya3_1#8$3",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......
+[name="凯尔希"]……
 [charslot(slot="m",name="avg_1035_wisdel_1#15$2",focus="m")]
 [name="维什戴尔"]咳，怎么这会儿你们又都不说话了？
 [charslot(slot = "m", name = "avg_1037_amiya3_1#10$3",focus="m")]
-[name="阿米娅"]你们......我，我插不上话......
+[name="阿米娅"]你们……我，我插不上话……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]去吧，阿米娅。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]在她彻底消失之前......有你在，她会很开心。
+[name="凯尔希"]在她彻底消失之前……有你在，她会很开心。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]哪怕她自己绝对不会承认。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
-[name="阿米娅"]......
+[name="阿米娅"]……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]博士，虽然我们如今与特蕾西娅的立场已然不同，但我不得不承认，她做到了一件连我都无法想象的事情。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]博士，我相信，如今的你，就算没有了曾经的记忆，心中大概也有了些许猜测吧。
 [dialog]
 [charslot]
-[Decision(options="和那个神秘的人有关。;......普瑞赛斯......", values="1;2")]
+[Decision(options="和那个神秘的人有关。;……普瑞赛斯……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]我们的任务还远没有结束，对吧，特蕾西娅。
 [charslot(slot="m",name="avg_npc_1296_1#7$1",focus="m")]
-[name="特蕾西娅"]......
+[name="特蕾西娅"]……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]最初的源石，你已经交给他了吧？
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]......特蕾西娅，你给我们留下的难题实在是——
+[name="凯尔希"]……特蕾西娅，你给我们留下的难题实在是——
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]凯尔希，很多事情不会总是如我们所愿。我们不过都是在做我们该做的事情罢了。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]博士，现在你站在我的面前，就已经证明当初我赌对了。
 [dialog]
 [charslot]
-[Decision(options="特蕾西娅......;你还藏着很多的秘密。", values="1;2")]
+[Decision(options="特蕾西娅……;你还藏着很多的秘密。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]哈，博士，请容我再卖一个小关子吧。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]......现在的你还没有准备好，即使你们已经能够跨过我——
+[name="特蕾西娅"]……现在的你还没有准备好，即使你们已经能够跨过我——
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]你们看到金色海洋的浪涛了吗？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]我们的时间已经不多了。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]我一直知道，我们的重聚只会意味着再一次的分离......
+[name="凯尔希"]我一直知道，我们的重聚只会意味着再一次的分离……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]亲爱的凯尔希，既然我们都清楚各自的结局，又何必再悲伤呢？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -397,12 +397,12 @@
 [name="特蕾西娅"]啊，你在这里。希望我坚强的凯尔希这次也没有落泪。
 [name="凯尔希"]你总是如此。
 [name="特蕾西娅"]我是一个很幸运的人，凯尔希。
-[name="特蕾西娅"]我的每一次远去，都有我最好的朋友陪伴我......
+[name="特蕾西娅"]我的每一次远去，都有我最好的朋友陪伴我……
 [name="特蕾西娅"]谢谢你。
-[name="凯尔希"]......
-[name="阿米娅"]特蕾西娅小姐......在消失......
+[name="凯尔希"]……
+[name="阿米娅"]特蕾西娅小姐……在消失……
 [name="维什戴尔"]消失？小兔子你在胡说什么，殿下不是还在吗？我明明抱着她——
-[name="特蕾西娅"]维什戴尔，你已经实现了你所有的心愿不是吗......
+[name="特蕾西娅"]维什戴尔，你已经实现了你所有的心愿不是吗……
 [name="特蕾西娅"]见到我，战胜我，最终杀死我。
 [name="特蕾西娅"]不必留恋。
 [name="特蕾西娅"]我将彻底离去，不会再存在于任何你们所能见到的地方。
@@ -423,15 +423,15 @@
 [charslot(slot="m",name="avg_npc_1296_1#2$1",focus="m")]
 [name="特蕾西娅"]生与死，萨卡兹都应自由。
 [charslot(slot="m",name="avg_npc_1296_1#2$1",focus="m")]
-[name="特蕾西娅"]“毁灭些什么，来铸造阶梯......”哪怕最后毁灭的是我自己。
+[name="特蕾西娅"]“毁灭些什么，来铸造阶梯……”哪怕最后毁灭的是我自己。
 [dialog]
 [charslot]
-[Decision(options="你与我想象中的那个特蕾西娅......很不一样。", values="1")]
+[Decision(options="你与我想象中的那个特蕾西娅……很不一样。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]Dr.{@nickname}......这还是我们“第一次”见面吧。
+[name="特蕾西娅"]Dr.{@nickname}……这还是我们“第一次”见面吧。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]你听到的那些片段......你想象中的特蕾西娅，是什么样的人？
+[name="特蕾西娅"]你听到的那些片段……你想象中的特蕾西娅，是什么样的人？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]是巴别塔的创始者，无瑕的理想主义者？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -443,7 +443,7 @@
 [Decision(options="你口中所说，都是旁人需要你扮演的角色。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
-[name="特蕾西娅"]是吗......
+[name="特蕾西娅"]是吗……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_spiritwhoosh", volume=0.6)]
@@ -456,14 +456,14 @@
 [name="特蕾西娅"]我没有想到，我们还有这样平静告别的机会。
 [dialog]
 [charslot]
-[Decision(options="这里是......？;我从未到过这个地方。", values="1;2")]
+[Decision(options="这里是……？;我从未到过这个地方。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]很久之前，一位朋友在这里与我告别。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]我在这里看着他死去，也从这里走向我自己的死亡。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]......我喜欢这个地方。
+[name="特蕾西娅"]……我喜欢这个地方。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]可这里也同样是我永远无法企及和造访的地方。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -472,12 +472,12 @@
 [name="特蕾西娅"]Dr.{@nickname}，如今在你眼中，我又是什么样的人——
 [dialog]
 [charslot]
-[Decision(options="你是一个为了族群的命运不择手段的人。;你是一个永远追求更崇高理想的人。;我......不知道。", values="1;2;3")]
+[Decision(options="你是一个为了族群的命运不择手段的人。;你是一个永远追求更崇高理想的人。;我……不知道。", values="1;2;3")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]是吗？很有意思的回答。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]你与我，过去与现在，已逝去的与将要到来的......
+[name="特蕾西娅"]你与我，过去与现在，已逝去的与将要到来的……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]时间在这里似乎已经不再具有意义。或许在某个时刻，我们都曾对对方说过类似的话。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -494,9 +494,9 @@
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]何为崇高？崇高又应由谁定义？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]我为了萨卡兹的自由将暴力倾泻给其他的族群。我背弃了曾经我用生命捍卫的信念，站到了你们的对立面......
+[name="特蕾西娅"]我为了萨卡兹的自由将暴力倾泻给其他的族群。我背弃了曾经我用生命捍卫的信念，站到了你们的对立面……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]而罗德岛，如今你们已经走出了巴别塔的阴影......
+[name="特蕾西娅"]而罗德岛，如今你们已经走出了巴别塔的阴影……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]却也抛弃了曾经巴别塔为萨卡兹所坚守的部分理念。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -504,16 +504,16 @@
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]但我也同样无法否认你们的崇高，就像我无法否认过去的我自己。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]或许你自认完全理解“崇高”的含义......但这句话对我来说，依旧太过沉重。
+[name="特蕾西娅"]或许你自认完全理解“崇高”的含义……但这句话对我来说，依旧太过沉重。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]不过，谢谢你，博士。
 [Predicate(references="3")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]......
+[name="特蕾西娅"]……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]我能感知到，此刻的你并没有撒谎。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]如果你在这个时刻还试图用敷衍来回应我......我会更加失望。
+[name="特蕾西娅"]如果你在这个时刻还试图用敷衍来回应我……我会更加失望。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]当然，小小的失落是肯定的。我真的很期待你的回答，博士。
 [name="特蕾西娅"]博士，不要放弃寻找答案，如果此刻你依旧只是跟随着罗德岛既有的理念前行——
@@ -524,10 +524,10 @@
 [Predicate(references="1;2;3")]
 [dialog]
 [charslot]
-[Decision(options="......说实话，我无法真正评价你。;你对我来说，依旧是一个谜题。", values="1;2")]
+[Decision(options="……说实话，我无法真正评价你。;你对我来说，依旧是一个谜题。", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]你很谨慎，甚至依旧对我抱有敌意和警惕......当然，我们此刻仍然站在彼此的对立面。
+[name="特蕾西娅"]你很谨慎，甚至依旧对我抱有敌意和警惕……当然，我们此刻仍然站在彼此的对立面。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]没有关系，你只是还没有来得及将所有的谜团一一理清。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -554,7 +554,7 @@
 [name="特蕾西娅"]我最信任的那位挚友早已预言了这个结局。
 [dialog]
 [charslot]
-[Decision(options="那个人......是我——？", values="1")]
+[Decision(options="那个人……是我——？", values="1")]
 [Predicate(references="1")]
 [stopSound(fadetime=2,channel="r")]
 [dialog]
@@ -574,20 +574,20 @@
 [name="特蕾西娅"]我很欣慰。
 [name="特蕾西娅"]现在，你与凯尔希、阿米娅站在一起，我可以相信，我当时的选择是正确的。
 [name="特蕾西娅"]走向这个结果，同样是由你我各自的选择所决定的。
-[name="特蕾西娅"]当初的匆匆相遇，恰如此刻两个陌生人的告别......不是吗？
+[name="特蕾西娅"]当初的匆匆相遇，恰如此刻两个陌生人的告别……不是吗？
 [dialog]
 [charslot]
-[Decision(options="我没有听到任何对我的......恨意？", values="1")]
+[Decision(options="我没有听到任何对我的……恨意？", values="1")]
 [Predicate(references="1")]
 [name="特蕾西娅"]怎么会恨呢？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]时至今日，在我触及你的灵魂深处，触及那个我无法想象的真相后，我依旧只有惋惜和怀念。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]是啊......正因为我触碰到了你的内心，我才会更遗憾于......我们失去了同行的机会。
+[name="特蕾西娅"]是啊……正因为我触碰到了你的内心，我才会更遗憾于……我们失去了同行的机会。
 [name="特蕾西娅"]那个人的魅力，或许就来自其无人能共情的矛盾内心。
 [dialog]
 [charslot]
-[Decision(options="“我”......到底是怎样的人？;......推测，询问，我无法拼出“我”的全貌。;矛盾的信息让我感到困惑和焦虑。", values="1;2;3")]
+[Decision(options="“我”……到底是怎样的人？;……推测，询问，我无法拼出“我”的全貌。;矛盾的信息让我感到困惑和焦虑。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -605,31 +605,31 @@
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]看看我们所处的地方，博士。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]那些沉寂的回忆，一切的真相，不就在你身边吗......？
+[name="特蕾西娅"]那些沉寂的回忆，一切的真相，不就在你身边吗……？
 [dialog]
 [charslot]
-[Decision(options="源石......", values="1")]
+[Decision(options="源石……", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]过去，现在，未来。源石的终点，时间不再被我们所熟知的规则定义。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]你已经不记得了......
+[name="特蕾西娅"]你已经不记得了……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]你曾经告诉过我，“源石”——
 [name="特蕾西娅"]这一为这片大地带来了无数苦难，也带来了无数可能的物质，同样是你的时代中，用数以亿计的牺牲为代价才得来的造物。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]当你创造源石的时候，对它，还有这个世界，怀有的是怎样的期许？
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]你看，这片金色海洋中记录的所有......它们是否与你的期待一致？
+[name="特蕾西娅"]你看，这片金色海洋中记录的所有……它们是否与你的期待一致？
 [dialog]
 [charslot]
-你看到了......
-乌萨斯的大火，谢拉格的风雪，伊比利亚的波涛......
+你看到了……
+乌萨斯的大火，谢拉格的风雪，伊比利亚的波涛……
 古往今来的一切时空，以文明为单位的信息洪流从你身旁快速掠过。
 你突然意识到——
 [dialog]
 [charslot]
-[Decision(options="我怀有的所有疑问......;我遗忘的所有过去......", values="1;2")]
+[Decision(options="我怀有的所有疑问……;我遗忘的所有过去……", values="1;2")]
 [Predicate(references="1;2")]
 [dialog]
 [charslot]
@@ -637,7 +637,7 @@
 [Predicate(references="1")]
 [dialog]
 [charslot]
-[Decision(options="不。;......;......不。", values="1;2;3")]
+[Decision(options="不。;……;……不。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 你收回了手。
 [dialog]
@@ -647,9 +647,9 @@
 [Decision(options="而非已经被掩盖的过去。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]你总是能带给人惊喜......
+[name="特蕾西娅"]你总是能带给人惊喜……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]博士......当我深潜在信息之海中时，我们曾在离别之后重逢。
+[name="特蕾西娅"]博士……当我深潜在信息之海中时，我们曾在离别之后重逢。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]那是我的过去，却是你的未来。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -657,14 +657,14 @@
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]“我始终如一。”
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]我多希望亲眼见证你找到答案，但抱歉......我还是走得不够远。
+[name="特蕾西娅"]我多希望亲眼见证你找到答案，但抱歉……我还是走得不够远。
 [dialog]
 [charslot]
 [playsound(key="$smallearthquake", volume=0.6)]
 [CameraShake(duration=3, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
-[name="特蕾西娅"]博士，我得走了，你们也是......
+[name="特蕾西娅"]博士，我得走了，你们也是……
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
 [name="特蕾西娅"]如果不想永远困在这无尽的虚无中。
 [charslot(slot="m",name="avg_npc_1296_1#8$1",focus="m")]
@@ -687,18 +687,18 @@
 高塔顶上，那个白色的身影，已经消失不见。
 什么都没有留下。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#2$3",focus="m")]
-[name="阿米娅"]特蕾西娅小姐......她离开了。
+[name="阿米娅"]特蕾西娅小姐……她离开了。
 [charslot(slot="m",name="avg_1035_wisdel_1#15$2",focus="m")]
-[name="维什戴尔"]......啊。
+[name="维什戴尔"]……啊。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]博士，刚刚你看到了什么？
 [dialog]
 [charslot]
-[Decision(options="特蕾西娅......告诉了我......", values="1")]
+[Decision(options="特蕾西娅……告诉了我……", values="1")]
 [Predicate(references="1")]
 [Decision(options="她是一个怎样的人。;我是一个怎样的人。", values="1;2")]
 [Predicate(references="1;2")]
-[Decision(options="我找到了......“阿喃那”的位置。", values="1")]
+[Decision(options="我找到了……“阿喃那”的位置。", values="1")]
 [Predicate(references="1")]
 [dialog]
 [dialog]
@@ -709,11 +709,11 @@
 信息涌动的浪涛已停歇。
 你听到众魂远去的歌声了吗，女妖——
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
-[name="Logos"]塔已安息，殿下......
+[name="Logos"]塔已安息，殿下……
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]浪潮正倒流而去，坠入不可捉摸的地狱。
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
-[name="Logos"]可燃烧根系的火焰也无法点亮这无边黑夜......
+[name="Logos"]可燃烧根系的火焰也无法点亮这无边黑夜……
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]你们又将去向何处呢？
 永恒的虚无，真正的死亡。
@@ -730,7 +730,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 涟漪的扰动让她的身形波动着，不再清晰。
 [name="特蕾西娅"]当你在河畔为自己鸣奏的丧钟传到我耳边时，我便已经在等待一位老朋友的出现。
 [name="特蕾西娅"]唉，可惜菈玛莲依旧不愿涉入这场战争。
-[name="Logos"]母亲......她的确将我从死亡中捞回。
+[name="Logos"]母亲……她的确将我从死亡中捞回。
 [name="特蕾西娅"]以一种讨巧的方式，不过也很符合她往日的性子。
 [name="特蕾西娅"]她也做出了她的选择，正如你一般。
 [name="特蕾西娅"]我看到了你与众魂交锋的身姿，比起当年你母亲与我并肩的身姿也不遑多让。
@@ -738,22 +738,22 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [name="Logos"]殿下，您的身形越发暗淡——
 [name="特蕾西娅"]离去亦是反抗，这是我们自主选择的意志。
 [name="特蕾西娅"]源石不能将我们永远囚禁于此。
-[name="Logos"]我......并不理解。囚禁从何而来，您所求又为何？
+[name="Logos"]我……并不理解。囚禁从何而来，您所求又为何？
 [name="特蕾西娅"]无需理解，Logos。
 [name="特蕾西娅"]你只需知道，众魂，被裹挟的信息集合，正在庞杂且无法解析的信息流中逸散。
 [name="特蕾西娅"]不再可读取，不再被记录——
 [name="Logos"]“真正的死亡”。
-[name="Logos"]诸王与英雄不再回应我的言词，彼岸空无一人......
+[name="Logos"]诸王与英雄不再回应我的言词，彼岸空无一人……
 [name="Logos"]殿下，自今日起，是否还有众魂？
 [name="特蕾西娅"]没有。
 [name="Logos"]彼岸之侧是否还有摆渡之人点燃炬阵？
 [name="特蕾西娅"]不再有。
 [name="Logos"]于未来逝去的同胞归于何处？
-[name="特蕾西娅"]我不知道......恐怕答案已经来不及由我去见证。
-[name="特蕾西娅"]我已走到尽头，前方已是文明真相的迷雾。我......无法触及，但不代表你们无法跨越。
-[name="Logos"]殿下......？
+[name="特蕾西娅"]我不知道……恐怕答案已经来不及由我去见证。
+[name="特蕾西娅"]我已走到尽头，前方已是文明真相的迷雾。我……无法触及，但不代表你们无法跨越。
+[name="Logos"]殿下……？
 [name="特蕾西娅"]哈，不过操心未来的担子我已经卸下了，众魂所忧所思，只有萨卡兹。
-[name="特蕾西娅"]“新生从灭亡中来”......你已经理解了宿命的必然，却还未参透死亡的真相。
+[name="特蕾西娅"]“新生从灭亡中来”……你已经理解了宿命的必然，却还未参透死亡的真相。
 [name="特蕾西娅"]众魂不再是我们的桎梏，源石也不再是我们背负的罪孽。
 [name="特蕾西娅"]Logos，离去亦是我们的解脱。
 [name="特蕾西娅"]不再有延宕万年的愤怒呢喃，不再有永不遗忘的苦难传承。
@@ -768,13 +768,13 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [Delay(time=1)]
 “我们第一次拥有了可以选择的权利。”
 [charslot(slot = "m", name = "avg_npc_054")]
-[name="兴奋的佣兵"]嘶......呼......
+[name="兴奋的佣兵"]嘶……呼……
 [charslot(slot = "m", name = "avg_npc_054")]
 [name="兴奋的佣兵"]这里没有投降，只有死亡。
 [charslot(slot="m",name="avg_npc_241",focus="m")]
-[name="崩溃的士兵"]你，你可以不用杀我......
+[name="崩溃的士兵"]你，你可以不用杀我……
 [charslot(slot="m",name="avg_npc_241",focus="m")]
-[name="崩溃的士兵"]你他妈看看我身上这些拔都拔不干净的黑石头......呜......还有我的战友，他们都没再从迷雾里出来......
+[name="崩溃的士兵"]你他妈看看我身上这些拔都拔不干净的黑石头……呜……还有我的战友，他们都没再从迷雾里出来……
 [charslot(slot="m",name="avg_npc_241",focus="m")]
 [name="崩溃的士兵"]我活不下去——我不想死——
 [charslot(slot = "m", name = "avg_npc_054")]
@@ -782,13 +782,13 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 佣兵手中已经挥下的刀却突然停在了将死之人的眼前。
 他望向了天空，感觉到什么东西正在离开。他从杀戮的躁动中渐渐冷静下来。
 [charslot(slot = "m", name = "avg_npc_054")]
-[name="兴奋的佣兵"]......啧，错觉吗？
+[name="兴奋的佣兵"]……啧，错觉吗？
 [charslot(slot="m",name="avg_npc_241",focus="m")]
-[name="崩溃的士兵"]呜......
+[name="崩溃的士兵"]呜……
 [charslot(slot = "m", name = "avg_npc_054")]
-[name="兴奋的佣兵"]......
+[name="兴奋的佣兵"]……
 [charslot(slot = "m", name = "avg_npc_054")]
-[name="兴奋的佣兵"]......呵。
+[name="兴奋的佣兵"]……呵。
 [dialog]
 [charslot]
 [CameraShake(duration=0.5, xstrength=40, ystrength=10, vibrato=30, randomness=20, fadeout=true, block=false)]
@@ -816,9 +816,9 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot = "m", name = "avg_4087_ines_1#1$1")]
 [name="伊内丝"]你的命可比那几个毛线团值钱。
 [charslot(slot="m",name="avg_4071_peper_1#4$1",focus="m")]
-[name="明椒"]......它们是我出发前姥姥给我的——
+[name="明椒"]……它们是我出发前姥姥给我的——
 [charslot(slot="m",name="avg_4071_peper_1#4$1",focus="m")]
-[name="明椒"]欸......等等，伊内丝小姐没有感觉到吗？
+[name="明椒"]欸……等等，伊内丝小姐没有感觉到吗？
 [charslot(slot = "m", name = "avg_4087_ines_1#7$1")]
 [name="伊内丝"]感觉到什么？
 [charslot(slot="m",name="avg_4071_peper_1#9$1",focus="m")]
@@ -826,17 +826,17 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_4071_peper_1#9$1",focus="m")]
 [name="明椒"]灵魂深处的悸动。
 [charslot(slot = "m", name = "avg_4087_ines_1#1$1")]
-[name="伊内丝"]......
+[name="伊内丝"]……
 [charslot(slot = "m", name = "avg_4087_ines_1#10$1")]
 [name="伊内丝"]是我太专注于操作骸骨了。我需要确保骸骨的运作——在某个所有人都不会猜到的地方，也不会受到影响。
 [charslot(slot = "m", name = "avg_4087_ines_1#10$1")]
 [name="伊内丝"]明椒，具体是什么样的感觉，会对我们后续的安排有影响吗？
 [charslot(slot="m",name="avg_4071_peper_1#9$1",focus="m")]
-[name="明椒"]我，我说不出来。但......看大家的表情，好像都感觉到了，这不可能是错觉！
+[name="明椒"]我，我说不出来。但……看大家的表情，好像都感觉到了，这不可能是错觉！
 [charslot(slot = "m", name = "avg_4087_ines_1#7$1")]
-[name="伊内丝"]你......哭了？
+[name="伊内丝"]你……哭了？
 [charslot(slot="m",name="avg_4071_peper_1#4$1",focus="m")]
-[name="明椒"]啊，真的！可......怎么会呢？
+[name="明椒"]啊，真的！可……怎么会呢？
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -854,7 +854,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 “请陪伴罗德岛继续走下去吧，无需质疑自己的决定。”
 “谢谢你，Logos。”
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
-[name="Logos"]殿下，众魂远去是否真能让我们与过往告别，恐怕您同样心有疑虑......
+[name="Logos"]殿下，众魂远去是否真能让我们与过往告别，恐怕您同样心有疑虑……
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]彼岸虽空，但这片死亡如瘟疫般扩散的战场，我们同族的亡魂又该往何处去？
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
@@ -866,16 +866,16 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]我的歌声会点燃彼岸的炬阵，我于此立下誓言——
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
-[name="Logos"]待到彼岸之畔不再听到同胞的怒号......
+[name="Logos"]待到彼岸之畔不再听到同胞的怒号……
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
-[name="Logos"]待到这片大地上，同胞的死亡亦可安息......
+[name="Logos"]待到这片大地上，同胞的死亡亦可安息……
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
 [name="Logos"]丧钟方停。
 金色水面漾起了涟漪，众魂在回应。
 诸王与英雄，凡人或怨魂，他们正加速离去。
 源石之中，萨卡兹存在的痕迹在消弭。
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m")]
-[name="Logos"]此刻......请容我为您送行，为众魂送行。
+[name="Logos"]此刻……请容我为您送行，为众魂送行。
 挽歌自他的唇边响起，他亦准备踏着水面走去。
 年轻的女妖为众魂送行。
 [dialog]
@@ -887,7 +887,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1331_1#1$1",focus="m")]
-[name="“灵幛”"]（含糊不清的萨卡兹语）......离去......宗长......
+[name="“灵幛”"]（含糊不清的萨卡兹语）……离去……宗长……
 [charslot(slot="m",name="avg_npc_1339_1#1$1",focus="m")]
 [name="孽茨雷"]她走了。
 [charslot(slot="m",name="avg_npc_1339_1#1$1",focus="m")]
@@ -897,7 +897,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_npc_1339_1#1$1",focus="m")]
 [name="孽茨雷"]去吧，不必再匿身于雾中。用死亡浇灌死亡，用胜利纪念离别。
 [charslot(slot="m",name="avg_npc_1339_1#1$1",focus="m")]
-[name="孽茨雷"]维多利亚的哀悼......我亲自替她来取。
+[name="孽茨雷"]维多利亚的哀悼……我亲自替她来取。
 [dialog]
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -909,7 +909,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 蓝色的羽兽啄食着白角恶魔的眼泪。
 她轻抚着羽兽眉间的绒羽，灵魂本就被虚无填满的夜莺又能否感受到那份离去的痛苦呢？
 [charslot(slot="m",name="avgnew_147_shining_1#2$1",focus="m")]
-[name="闪灵"]丽兹......你能感受到吗？
+[name="闪灵"]丽兹……你能感受到吗？
 [charslot(slot="m",name="avgnew_147_shining_1#2$1",focus="m")]
 [name="闪灵"]这份来自灵魂的悸动，回响在我们脑海中的呢喃哀曲。
 [dialog]
@@ -922,19 +922,19 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avgnew_147_shining_1#1$1",focus="m")]
 [name="闪灵"]玛嘉烈，我们必须马上和博士他们会合。
 [charslot(slot="m",name="avg_1014_nearl2_1#1$1",focus="m")]
-[name="玛嘉烈"]......是因为天上那个东西的变化吗？
+[name="玛嘉烈"]……是因为天上那个东西的变化吗？
 [charslot(slot="m",name="avg_1014_nearl2_1#1$1",focus="m")]
 [name="玛嘉烈"]它变化的瞬间，你表现得很奇怪。
 [charslot(slot="m",name="avg_1014_nearl2_1#7$1",focus="m")]
 [name="玛嘉烈"]这也是赦罪师的阴谋吗？
 [charslot(slot="m",name="avgnew_147_shining_1#1$1",focus="m")]
-[name="闪灵"]不......至少他暂时不可能插手到这件事之中。
+[name="闪灵"]不……至少他暂时不可能插手到这件事之中。
 [charslot(slot="m",name="avgnew_147_shining_1#5$1",focus="m")]
 [name="闪灵"]但这必然是他谋划中的一环。
 [charslot(slot="m",name="avgnew_147_shining_1#5$1",focus="m")]
 [name="闪灵"]所有萨卡兹恐怕都感知到了，一个对我们无比重要的存在正离我们远去。
 [charslot(slot="m",name="avg_1014_nearl2_1#1$1",focus="m")]
-[name="玛嘉烈"]嗯......我不了解你具体在说什么，但当下的局势，任何新的意外都可能影响战局。
+[name="玛嘉烈"]嗯……我不了解你具体在说什么，但当下的局势，任何新的意外都可能影响战局。
 [charslot(slot="m",name="avg_1014_nearl2_1#2$1",focus="m")]
 [name="玛嘉烈"]你说得对，博士他们应当已经掌握了更关键的信息。
 [charslot(slot="m",name="avg_1014_nearl2_1#1$1",focus="m")]
@@ -953,18 +953,18 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [dialog]
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m",duration=1)]
 [delay(time=1.5)]
-[name="曼弗雷德"]这里是......
+[name="曼弗雷德"]这里是……
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
-[name="娜汀"]我们在清理战场的时候发现了您，万幸......
-[name="娜汀"]将军......我们没能夺回“生命脊椎”。
+[name="娜汀"]我们在清理战场的时候发现了您，万幸……
+[name="娜汀"]将军……我们没能夺回“生命脊椎”。
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
 [name="曼弗雷德"]这里只有我一人吗？
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
-[name="曼弗雷德"]阿斯卡纶......
+[name="曼弗雷德"]阿斯卡纶……
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
-[name="娜汀"]将军，您身上的伤......
+[name="娜汀"]将军，您身上的伤……
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
 [name="娜汀"]我们现在就带您回营地接受治疗。
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
@@ -974,28 +974,28 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
 [name="曼弗雷德"]去前方联系暗哨配合我们，准备穿过战区。
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
-[name="娜汀"]将军！看这一地的血......您现在的情况很糟！军事委员会不能再失去一名高级将领了！
+[name="娜汀"]将军！看这一地的血……您现在的情况很糟！军事委员会不能再失去一名高级将领了！
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
 [name="曼弗雷德"]这是军令。
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
-[name="曼弗雷德"]......为了剩下的，还活着的萨卡兹。
+[name="曼弗雷德"]……为了剩下的，还活着的萨卡兹。
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
 [name="娜汀"]——！
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
-[name="娜汀"]是......将军。
+[name="娜汀"]是……将军。
 [dialog]
 [charslot]
 [playsound(key="$smallearthquake", volume=0.6)]
 [CameraShake(duration=3, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
-[name="娜汀"]怎么回事......
+[name="娜汀"]怎么回事……
 [charslot(slot="m",name="avg_npc_1333_1#2$1",focus="m")]
-[name="娜汀"]......不可能。这个感觉是——
+[name="娜汀"]……不可能。这个感觉是——
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
-[name="曼弗雷德"]殿下，这就是您所说的代价吗......？
+[name="曼弗雷德"]殿下，这就是您所说的代价吗……？
 [charslot(slot="m",name="avg_npc_404_1#2$1",focus="m")]
-[name="曼弗雷德"]为了萨卡兹的未来......
+[name="曼弗雷德"]为了萨卡兹的未来……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [image]
@@ -1004,11 +1004,11 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1297_1#2$1")]
-[name="特雷西斯"]从今往后，连源石中也不再会有你存在过的痕迹......
+[name="特雷西斯"]从今往后，连源石中也不再会有你存在过的痕迹……
 [charslot(slot="m",name="avg_npc_1297_1#2$1")]
-[name="特雷西斯"]你会在那条路的尽头见到他们吗？“神明”，或是自诩为造物主的傲慢生灵......
+[name="特雷西斯"]你会在那条路的尽头见到他们吗？“神明”，或是自诩为造物主的傲慢生灵……
 [charslot(slot="m",name="avg_npc_1297_1#2$1")]
-[name="特雷西斯"]......特蕾西娅？
+[name="特雷西斯"]……特蕾西娅？
 [charslot(slot="m",name="avg_npc_1297_1#3$1")]
 [name="特雷西斯"]在我感觉到你与我擦肩而过的那个瞬间之后，我便越发听不清你的声音。
 [charslot(slot="m",name="avg_npc_1297_1#3$1")]
@@ -1022,19 +1022,19 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
 [delay(time=1)]
-“你是否还能听见我的声音......”
+“你是否还能听见我的声音……”
 [Dialog]
 [Image(image="50_i22",block=false,screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=1)]
 我能听见。
-你的、新生的、将死去的......在这里，我们能听见所有萨卡兹的声音......
+你的、新生的、将死去的……在这里，我们能听见所有萨卡兹的声音……
 灵魂搁浅在无意识的海洋中，在溺亡前呼喊我们的名字，期待着指引。
-在不会存在于任何时间记录的现在，我们回应最多的名字......是“特蕾西娅”。
+在不会存在于任何时间记录的现在，我们回应最多的名字……是“特蕾西娅”。
 我能听见万余年前自星海中坠入冰原的骸骨所激荡出的轰鸣。未知，恐惧，震撼人心。
-我们终结了于彼时起便烙印在血脉中的压迫......不，我们未曾终结。
+我们终结了于彼时起便烙印在血脉中的压迫……不，我们未曾终结。
 那我们的反抗是否有意义？我们向我们自己发出质疑。
-......未来会向我们证明。
+……未来会向我们证明。
 那，现在呢？
 现在，我们将要远去。
 我如此答道。
@@ -1054,7 +1054,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_npc_1296_1#6$1",focus="m")]
 [name="特蕾西娅"]为所有仍活着的人搏一个有权为平等生存而抗争的未来。
 [charslot(slot="m",name="avg_npc_1296_1#6$1",focus="m")]
-[name="特蕾西娅"]......
+[name="特蕾西娅"]……
 [charslot(slot="m",name="avg_npc_1296_1#9$1",focus="m")]
 [name="特蕾西娅"]大家，向前走吧。
 [dialog]
@@ -1075,14 +1075,14 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [Delay(time=1)]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="“这就是童话的结局吗......特蕾西娅小姐？为什么会如此哀伤呢？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“这就是童话的结局吗……特蕾西娅小姐？为什么会如此哀伤呢？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“哀伤吗？我看到的，反倒是希望已至的喜悦，阿米娅。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“花朵枯萎，归于尘土。但新生的种子也已经种下。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_1035_wisdel_1#12$2",focus="m")]
-[name="维什戴尔"]......他被抛下了？
+[name="维什戴尔"]……他被抛下了？
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]不，死魂灵本就不被众魂所接纳。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
@@ -1094,7 +1094,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]我无从得知。
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
-[name="维什戴尔"]呵......看来殿下也不是不会骗人嘛......
+[name="维什戴尔"]呵……看来殿下也不是不会骗人嘛……
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="维什戴尔"]老东西，没想到最后你还是落到了我的手上。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#2$3",focus="m")]
@@ -1102,7 +1102,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_1035_wisdel_1#6$2",focus="m")]
 [name="维什戴尔"]说了叫我维什戴尔！
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
-[name="维什戴尔"]放轻松，小兔子，我没准备砸了他......我只是要带他走。
+[name="维什戴尔"]放轻松，小兔子，我没准备砸了他……我只是要带他走。
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="维什戴尔"]老东西死过一次了，殿下让他活过来的想法不难猜。
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
@@ -1110,17 +1110,17 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="维什戴尔"]像个人一样先活着吧。啧，虽然他早就没人样了。
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
-[name="维什戴尔"]你也不必再烧来烧去了，你们的使命早该结束了，后面还是交给更有能力的人来做这些事吧。比如我......
+[name="维什戴尔"]你也不必再烧来烧去了，你们的使命早该结束了，后面还是交给更有能力的人来做这些事吧。比如我……
 [charslot(slot="m",name="avg_1035_wisdel_1#1$2",focus="m")]
 [name="维什戴尔"]嘁，暂时先在这把武器里待一会儿吧。
 [dialog]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.7, block=true)]
-[Subtitle(text="“还记得那个小布人的故事吗，阿米娅？他走进了泪水汇成的大河，沉入河底......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“哀伤，绝望......可这并非就一定是真正的结局。故事本就可以无限延伸，更关键的，是讲故事的人。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“讲故事的人......您是在说您自己吗，特蕾西娅小姐？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“我？不......阿米娅，我更希望，那个人是你。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“还记得那个小布人的故事吗，阿米娅？他走进了泪水汇成的大河，沉入河底……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“哀伤，绝望……可这并非就一定是真正的结局。故事本就可以无限延伸，更关键的，是讲故事的人。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“讲故事的人……您是在说您自己吗，特蕾西娅小姐？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“我？不……阿米娅，我更希望，那个人是你。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [delay(time=1)]
@@ -1150,7 +1150,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_1035_wisdel_1#6$2",focus="m")]
 [name="维什戴尔"]又他妈怎么了！
 [charslot(slot = "m", name = "avg_1037_amiya3_1#6$3",focus="m")]
-[name="阿米娅"]博士，凯尔希医生，快看！这些根系在破碎，它们......正在向上飘浮？！
+[name="阿米娅"]博士，凯尔希医生，快看！这些根系在破碎，它们……正在向上飘浮？！
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_glassbroken", volume=1)]
@@ -1175,11 +1175,11 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [dialog]
 [charslot]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=1, block=true)]
-[Subtitle(text="“特蕾西娅小姐，或许，小布人从来都不是一个人呢......泪水的大河之下，小布人的同伴们早就等在那里！”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“就像我们。博士，凯尔希医生，您......还有巴别塔的大家一样！”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“有许许多多的小石头人，白的，黑的，青的，红的......好多好多。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“特蕾西娅小姐，或许，小布人从来都不是一个人呢……泪水的大河之下，小布人的同伴们早就等在那里！”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“就像我们。博士，凯尔希医生，您……还有巴别塔的大家一样！”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“有许许多多的小石头人，白的，黑的，青的，红的……好多好多。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“他们会紧紧围住小布人，带着他顺着汹涌河水的冲击远去——”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="“唔，可他们能去哪呢......？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“唔，可他们能去哪呢……？”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [delay(time=1)]
@@ -1200,15 +1200,15 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]我们所在的这个平台在“下坠”。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]“她”......终于意识到了特蕾西娅做了什么。
+[name="凯尔希"]“她”……终于意识到了特蕾西娅做了什么。
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]这座塔正在被抹除。这些被组合起来的有序信息正被重新打散。
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
-[name="阿米娅"]凯尔希医生，可我还能感知到特蕾西娅小姐，就好像她还存在于这些逸散的信息中......
+[name="阿米娅"]凯尔希医生，可我还能感知到特蕾西娅小姐，就好像她还存在于这些逸散的信息中……
 [charslot(slot = "m", name = "avg_1037_amiya3_1#1$3",focus="m")]
 [name="阿米娅"]无处不在，却又迅速消散——
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]她在抵抗......众魂在抵抗。
+[name="凯尔希"]她在抵抗……众魂在抵抗。
 [charslot(slot="m",name="avg_1035_wisdel_1#9$2",focus="m")]
 [name="维什戴尔"]兜帽人，再动动你的脑袋！连我们站的地方都在崩溃了！
 [charslot(slot="m",name="avg_1035_wisdel_1#9$2",focus="m")]
@@ -1225,7 +1225,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [name="阿米娅"]我也会用法术尽量包裹住大家！
 [dialog]
 [charslot]
-[Decision(options="我没有看到罗德岛舰船！;......Logos呢？", values="1;2")]
+[Decision(options="我没有看到罗德岛舰船！;……Logos呢？", values="1;2")]
 [Predicate(references="1;2")]
 [PlaySound(key="$d_avg_timestop", volume=1)]
 [delay(time=2)]
@@ -1266,7 +1266,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [dialog]
 [Background(image="bg_black",fadetime=1)]
 [delay(time=1.5)]
-[Subtitle(text="“尽管他们被河底的暗流冲击得头昏眼花，但他们只要仍然没有放弃，手拉手站在一起......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“尽管他们被河底的暗流冲击得头昏眼花，但他们只要仍然没有放弃，手拉手站在一起……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“他们就不会在悲伤的泪水中迷失——”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [dialog]
@@ -1277,7 +1277,7 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 [subtitle]
 [Background(image="bg_black",fadetime=1)]
 [delay(time=3)]
-[Decision(options="......我想，我知道该怎么出去了。", values="1")]
+[Decision(options="……我想，我知道该怎么出去了。", values="1")]
 [Predicate(references="1")]
 [dialog]
 [Background(image="bg_black",fadetime=1)]
@@ -1290,13 +1290,13 @@ Logos立于无尽的信息流之上，在浩淼的汪洋中留下了自己的痕
 你和阿米娅同时下意识地抬起了手。
 寂静的空间中，一艘熟悉的舰艇便自信息之海中升起。
 飞空艇，那艘本已破碎的舰艇已随你们的心意重构，悬停于你们的脚下。
-你和阿米娅看向了遥远虚空中的巨大菱形......
+你和阿米娅看向了遥远虚空中的巨大菱形……
 源石。真相。普瑞赛斯。特蕾西娅。
 “我们该离开这里了。”
 飞空艇已加速冲撞上去，撕开虚无，进入光明。
 [dialog]
 [delay(time=4)]
-[Subtitle(text="“小布人和他的朋友们不知道时间过去了多久，但哪怕他们都已经很累很累也没有放弃......”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“小布人和他的朋友们不知道时间过去了多久，但哪怕他们都已经很累很累也没有放弃……”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“他们怀揣着同一个愿望，抓住流水变缓的机会奋力向水面浮去，浮去。他们成功了，他们终于看见了——”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“大海，阳光将海面染成金色。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="“原来他们不光跨过了泪水的长河，还跨过了身后那片无垠的未知海洋。”", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]

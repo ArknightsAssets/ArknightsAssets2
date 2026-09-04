@@ -4,7 +4,7 @@
 [Battle.Pause]
 [InputBlocker(blockInput=true, black=0.4)]
 [tutorial(focusWidth=120, focusHeight=120, animStyle="Highlight", focusStyle="HighlightCircle", black="0.5", protectTime=0.5, dialogHead="$avatar_npc_jie",cardIndex=0, rightStart=true)]椿，你已经盯着<@tu.kw>书刀</>看了一炷香的时间了。
-[PopupDialog(dialogHead="$avatar_npc_chun", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")]抱歉！颉，这柄<@tu.kw>书刀</>是......
+[PopupDialog(dialogHead="$avatar_npc_chun", dialogX="$f_lower_dialog_pos_x", dialogY="$f_lower_dialog_pos_y")]抱歉！颉，这柄<@tu.kw>书刀</>是……
 [PopupDialog(dialogHead="$avatar_npc_jie")]删定文稿的工具，使用起来并不复杂。
 [Battle.UnlockFunction(mask="CHARACTER_INFO")]
 [Battle.UnlockFunction(mask="CHARACTER_MENU")]

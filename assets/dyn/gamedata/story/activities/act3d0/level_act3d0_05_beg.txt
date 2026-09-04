@@ -22,7 +22,7 @@
 [Character]
 [Character(name="char_348_ceylon_4#5",fadetime=1,block=true)]
 [Delay(time=1)]
-[name="锡兰"]   黑......
+[name="锡兰"]   黑……
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=2)]
 [name="黑"]   你一定会来这里。在被克洛宁拒绝以后，你想用广播塔散布信息，让全城人听到你的报告。
 [name="黑"]   这行不通，小姐，这只会带来更大的混乱。
@@ -36,11 +36,11 @@
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=2)]
 [name="黑"]   如果小姐觉得不能解气的话，批评我就可以了，请不要做出些没法挽救的事情。
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=1)]
-[name="锡兰"]   你......你是不是觉得我还在耍小孩子脾气？
+[name="锡兰"]   你……你是不是觉得我还在耍小孩子脾气？
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=2)]
 [name="黑"]   不，小姐。我可以和你一起慢慢说服老爷，我保证。只是现在，请跟我回去。
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=1)]
-[name="锡兰"]   黑......别这么说话。
+[name="锡兰"]   黑……别这么说话。
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=2)]
 [name="黑"]   我理解你和老爷之间有许多不快，但你应该先回家。
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=1)]
@@ -51,7 +51,7 @@
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=1)]
 [name="锡兰"]   我不想你这么说，黑。我不要听你这么说！怎么会变成这样的，你为什么会变成这个样子？
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=2)]
-[name="黑"]   ......
+[name="黑"]   ……
 [Character(name="avg_npc_020")]
 [name="克洛宁的手下"]   你还犹豫些什么？快把她抓起来啊？
 [Character(name="char_340_shwaz_2#4")]
@@ -59,7 +59,7 @@
 [Character(name="avg_npc_020")]
 [name="克洛宁的手下"]   但市长已经要你全力协助克洛宁先生了！你要看着她散布谣言，毁掉整个汐斯塔吗？
 [Character(name="char_340_shwaz_2#2")]
-[name="黑"]   ......用用你的脑子。她一个人在这里，没有表现出哪怕一丁点的焦躁，甚至......
+[name="黑"]   ……用用你的脑子。她一个人在这里，没有表现出哪怕一丁点的焦躁，甚至……
 [name="黑"]   你觉得她真的想进入广播塔吗？
 [Character(name="avg_npc_020")]
 [name="克洛宁的手下"]   什么？
@@ -68,7 +68,7 @@
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=2)]
 [name="黑"]   小姐，你在把自己当成诱饵吸引我，对吗？
 [Character(name="char_348_ceylon_4#4",name2="char_340_shwaz_2#2",focus=1)]
-[name="锡兰"]   ......你还是了解我的。
+[name="锡兰"]   ……你还是了解我的。
 [Character(name="char_348_ceylon_4#4",name2="char_340_shwaz_2#2",focus=2)]
 [name="黑"]   我不敢这么说，小姐。只不过你没有否认我的猜测，我可以下结论了。
 [Character(name="char_348_ceylon_4#2",name2="char_340_shwaz_2#2",focus=1)]
@@ -91,14 +91,14 @@
 [name="女孩的声音"]   先生，请开门！我们是来送快递的！
 [Character(name="avg_npc_020")]
 [name="克洛宁的保镖"]   （嗯？你们没人要收什么东西吧？）
-[name="克洛宁的保镖"]   （都没有？奇怪......）
+[name="克洛宁的保镖"]   （都没有？奇怪……）
 [name="克洛宁的保镖"]    你送错地方了！
 [Character]
 [name="女孩的声音"]   可是先生，这个快递就是写着送到这里的啊？
 [Character(name="avg_npc_020")]
 [name="克洛宁的保镖"]   走开！再缠着我们，小心棍棒不长眼睛！
 [Character]
-[name="女孩的声音"]   ......
+[name="女孩的声音"]   ……
 [Character(name="avg_npc_020")]
 [name="克洛宁的保镖"]   嘁，臭小鬼，肯定又是来骗钱的。
 [Character]
@@ -117,10 +117,10 @@
 [name="红豆"]   哈！
 [Character(name="avg_npc_020")]
 [name="克洛宁的保镖"]   唔啊啊？！大门怎么倒了，我的天，你是什么——
-[Decision(options="漂亮的一脚！;......;朋友，可不能粗鲁对待快递员啊。",values="1;2;3")]
+[Decision(options="漂亮的一脚！;……;朋友，可不能粗鲁对待快递员啊。",values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="char_290_vigna")]
-[name="红豆"]   嘿嘿，我早就想这么试试了。接下来我要试试这句话......
+[name="红豆"]   嘿嘿，我早就想这么试试了。接下来我要试试这句话……
 [name="红豆"]   嗯，咳咳，哼！
 [name="红豆"]   “开门！快递！”
 [Decision(options="这不是已经被你踢开了吗！",values="1")]

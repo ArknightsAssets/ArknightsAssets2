@@ -16,12 +16,12 @@
 [Dialog]
 [Character(name="char_190_clour",fadetime=2,block=true)]
 [Delay(time=2)]
-[name="红云"]     唔......？
-[name="红云"]     ......
+[name="红云"]     唔……？
+[name="红云"]     ……
 [Character(name="char_279_excu_4#6")]
 [name="？？？"]     我已经听见了歌声，躲藏是不必要的，我没有恶意。
 [Character(name="char_190_clour")]
-[name="红云"]     ......每个刽子手都是这么说的。但最后，总是见血。
+[name="红云"]     ……每个刽子手都是这么说的。但最后，总是见血。
 [Character(name="char_279_excu_4#6")]
 [name="？？？"]     刽子手？我不明白你的用词。我是拉特兰公证所——
 [Character(name="char_190_clour")]
@@ -74,7 +74,7 @@
 [Delay(time=2)]
 [Character(name="char_190_clour")]
 [name="红云"]     抓，用手抓住了箭身？
-[name="红云"]     怎么会......你究竟是什么人！
+[name="红云"]     怎么会……你究竟是什么人！
 [Dialog]
 [PlaySound(key="$d_gen_walk_n")]
 [Character(name="char_279_excu_4")]
@@ -104,8 +104,8 @@
 [Background(image="bg_forest",screenadapt="coverall")]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="char_190_clour")]
-[name="红云"]     ......
-[name="红云"]     （他的身上，有血的气味，而且，有股讨厌的感觉......）
+[name="红云"]     ……
+[name="红云"]     （他的身上，有血的气味，而且，有股讨厌的感觉……）
 [name="红云"]     （又是来破坏我们家园的人吗，讨厌，好讨厌！）
 [Dialog]
 [Character]
@@ -126,7 +126,7 @@
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="？？？"]     拉特兰公证所的执行者，本次的遗嘱执行人。可以称呼我“送葬人”。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]     拉特兰......？
+[name="红云"]     拉特兰……？
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]     “红云”，你是被委托的对象。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
@@ -142,8 +142,8 @@
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]     出于保密要求，我不能说。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]     ......嘁，满嘴谎话！你就死在这里吧！
-[name="红云"]     我是不会离开这儿的，我的爸爸妈妈，叔叔阿姨，还有朋友，我的族人，都，都......
+[name="红云"]     ……嘁，满嘴谎话！你就死在这里吧！
+[name="红云"]     我是不会离开这儿的，我的爸爸妈妈，叔叔阿姨，还有朋友，我的族人，都，都……
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]     我的任务只是带你离开。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
@@ -158,7 +158,7 @@
 [name="送葬人"]     落穴，绊索，土制地雷，自动飞镖。
 [name="送葬人"]     请放心，我已经全部解除了。陷阱很初级，有伤到委托对象你的可能性。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]     ......
+[name="红云"]     ……
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]     请跟我走。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
@@ -184,7 +184,7 @@
 [name="老猎人"]     毕竟我也是个猎人。
 [name="老猎人"]     看到一位可敬的同行失去了一只臂膀，血肉模糊地躺在一只牙兽的身边，我怎么能视而不见呢？
 [Character(name="char_190_clour")]
-[name="红云"]     哼......你根本不是猎人，你骗不了我。你身上没有泥土的味道。
+[name="红云"]     哼……你根本不是猎人，你骗不了我。你身上没有泥土的味道。
 [Character]
 [name="老猎人"]     哈哈，瞒不过你，但亲眼目睹那副景象的时候，我被年幼却征服了荒野的你感动了，这是实话。
 [Character(name="char_190_clour")]
@@ -198,14 +198,14 @@
 [Character(name="char_190_clour")]
 [name="红云"]     嗯。
 [Character]
-[name="老猎人"]     这是......我抛却的故土给我留下的印记。
+[name="老猎人"]     这是……我抛却的故土给我留下的印记。
 [Character(name="char_190_clour")]
 [name="红云"]     人是没法抛弃家的泥土的。
 [Character]
 [name="老猎人"]     也许吧，总之，发生了很多事，来，试着站起身来吧。
 [name="老猎人"]     让我来帮你装上这个。
 [Character(name="char_190_clour")]
-[name="红云"]     这是......？胳膊？铁做的胳膊？好奇怪的东西。
+[name="红云"]     这是……？胳膊？铁做的胳膊？好奇怪的东西。
 [Character]
 [name="老猎人"]     代表我对一位荒野之子的敬意。
 [Character(name="char_190_clour")]
@@ -213,17 +213,17 @@
 [Character]
 [name="老猎人"]     很久以前的职责让我学会了很多东西。
 [Character(name="char_190_clour")]
-[name="红云"]     ......
-[name="红云"]     ......你救过我，你不是个坏人。为了报仇，我很需要一只胳膊，谢谢。
+[name="红云"]     ……
+[name="红云"]     ……你救过我，你不是个坏人。为了报仇，我很需要一只胳膊，谢谢。
 [Character]
-[name="老猎人"]     复仇吗......我不会指点你的命运。
+[name="老猎人"]     复仇吗……我不会指点你的命运。
 [name="老猎人"]     但当你用这只手臂拉动弓弦的时候，你可以想想，除了报仇以外，我们是为什么活着。
 [name="老猎人"]     想得少了，就会沦落到我今天这样。
 [Character(name="char_190_clour")]
 [name="红云"]     我——
 [Character]
 [name="老猎人"]     不要说什么“为了复仇而活”，这太老套了，很没意思的。
-[name="老猎人"]     ......没错，很没意思的。
+[name="老猎人"]     ……没错，很没意思的。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -233,8 +233,8 @@
 [Background(image="bg_forest",screenadapt="coverall")]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="char_190_clour")]
-[name="红云"]  （拉特兰......他说他是拉特兰人......）
-[name="红云"]  （难道他真的是......)
+[name="红云"]  （拉特兰……他说他是拉特兰人……）
+[name="红云"]  （难道他真的是……)
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="红云"]  唔！又来，好痛！
 [Character(name="char_190_clour",name2="char_279_excu_4#3",focus=2)]
@@ -259,7 +259,7 @@
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  为什么还要抵抗？
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  ......信上有他的气味，血的气味，你对他做了什么！？
+[name="红云"]  ……信上有他的气味，血的气味，你对他做了什么！？
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  从拉特兰抵达这里的旅程非常漫长，气味分子不可能有所保留。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
@@ -292,11 +292,11 @@
 [name="送葬人"]  “让红云活下去”。
 [name="送葬人"]  但因为要求笼统，所以实行起来很复杂，希望你能配合。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  ......这也是那个人的委托？
+[name="红云"]  ……这也是那个人的委托？
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  是的。他变卖了所有的财产，支付了包括公证所的额外手续费，以及你将来的治疗开销。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  可是，为什么？他只是路过这片森林......
+[name="红云"]  可是，为什么？他只是路过这片森林……
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  他想让你活下去。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
@@ -305,12 +305,12 @@
 [name="送葬人"]  因为他觉得你值得活下去。
 [name="送葬人"]  既然遗嘱已经传达到位，我的工作就告一段落了。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  什......！你什么时候塞给我的——！
+[name="红云"]  什……！你什么时候塞给我的——！
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  在下一步行动前，我必须听到你的答复。
 [name="送葬人"]  “你想活下去吗？”
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  ......
+[name="红云"]  ……
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  你只要回答，想，或是不想。
 [name="送葬人"]  我们的时间不多。
@@ -331,7 +331,7 @@
 ——视情况，我可能会拒绝你的口头诉求。希望你以纸面申请的形式递交公证所。
 先生可真是不留情面，没关系，只是一个小小的要求。
 不要告诉她关于我的过去，随便编个借口吧，比如，我死在了手术台上？
-——我不明白这其中的必要性，这也不符合你的身份。你逃避公证所多年，而且你枪杀了......
+——我不明白这其中的必要性，这也不符合你的身份。你逃避公证所多年，而且你枪杀了……
 打住。如果我说，这能为你的工作省去很多麻烦呢？
 ——如果我判断的确如此的话，我会考虑尝试。
 [Dialog]
@@ -342,7 +342,7 @@
 [Background(image="bg_towerinside",screenadapt="coverall")]
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  ......所以，那个叫罗德岛的地方，真的能治疗这种奇怪的病？
+[name="红云"]  ……所以，那个叫罗德岛的地方，真的能治疗这种奇怪的病？
 [Character(name="char_190_clour",name2="char_279_excu_4#5",focus=2)]
 [name="送葬人"]  没有人能够抵抗矿石病。但也许可以缓解痛苦。
 [name="送葬人"]  考虑到你先前对那些乌萨斯人所做的一切，我不建议你单独行动。
@@ -357,8 +357,8 @@
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  这里很危险，仇恨并不会因为一方的妥协而终结。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  哼......你知道得很清楚。
-[name="红云"]  无论你怎么说，别妨碍我。等到一切结束，我会去那个......罗德岛的，这样就行了吧？
+[name="红云"]  哼……你知道得很清楚。
+[name="红云"]  无论你怎么说，别妨碍我。等到一切结束，我会去那个……罗德岛的，这样就行了吧？
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  我在考虑。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
@@ -366,7 +366,7 @@
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  考虑如果那些亡命之徒再次找到你，我的子弹储备是否充足。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  子弹......？不，你的意思是要陪着我回到荒漠！？
+[name="红云"]  子弹……？不，你的意思是要陪着我回到荒漠！？
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  根据你的回答，你已被公证所视作接受遗嘱。
 [name="送葬人"]  但遗嘱内容尚未履行完成，我不能放任你就这么暴露在危险中。这是我的义务。
@@ -379,7 +379,7 @@
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  那么事不宜迟，我们出发吧。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]
-[name="红云"]  喂！我没有答应你！我不需要你这种外人来......等等，你要去哪儿？你怎么知道那个方向的！？
+[name="红云"]  喂！我没有答应你！我不需要你这种外人来……等等，你要去哪儿？你怎么知道那个方向的！？
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=2)]
 [name="送葬人"]  调查的结果。
 [Character(name="char_190_clour",name2="char_279_excu_4",focus=1)]

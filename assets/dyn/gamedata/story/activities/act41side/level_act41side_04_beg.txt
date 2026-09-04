@@ -29,7 +29,7 @@
 [charslot(slot="m",name="avg_npc_1695_1#1$1",focus="m")]
 [name="狂热的居民"]难道间谍想不到要伪造灯的颜色吗？别磨磨蹭蹭的！
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
-[name="焦急的居民"]愿......
+[name="焦急的居民"]愿……
 [name="焦急的居民"]愿红龙垂怜！
 [dialog]
 [charslot]
@@ -37,7 +37,7 @@
 [StopSound(channel="b", fadetime=3)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
-[name="焦急的居民"]唔......也......不是很痛。
+[name="焦急的居民"]唔……也……不是很痛。
 [charslot(slot="m",name="avg_npc_1695_1#1$1",focus="m")]
 [name="狂热的居民"]真的不痛？
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
@@ -52,11 +52,11 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1689_1#1$1",focus="m")]
-[name="寡言的居民"]......
+[name="寡言的居民"]……
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
 [name="焦急的居民"]你，就是你，你去那边烧过手吗？
 [charslot(slot="m",name="avg_npc_1689_1#1$1",focus="m")]
-[name="寡言的居民"]......
+[name="寡言的居民"]……
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
 [name="焦急的居民"]说句话，别摸你那脏兮兮的破绳结了！跟我走！
 [PlaySound(key="$d_avg_clothmovementsp", volume=1)]
@@ -72,7 +72,7 @@
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
 [name="焦急的居民"]你——你打我？！
 [charslot(slot="m",name="avg_npc_1689_1#1$1",focus="m")]
-[name="寡言的居民"]绳结......你敢......
+[name="寡言的居民"]绳结……你敢……
 [charslot(slot="m",name="avg_npc_1752_1#1$1",focus="m")]
 [name="焦急的居民"]算了，我不抢你的绳结，跟我去那边，看看你是不是维多利亚间谍！
 [Dialog]
@@ -96,7 +96,7 @@
 [delay(time=1)]
 寡言的居民默默站起身，迈着不大利索的步伐往篝火的方向走去。
 广场已经被彻底的混乱占据。
-只不过，一半的混乱来自怀疑、仇恨和得不出任何结果的暴怒，另一半却来自绝望的眼神和死一般的寂静......
+只不过，一半的混乱来自怀疑、仇恨和得不出任何结果的暴怒，另一半却来自绝望的眼神和死一般的寂静……
 [Dialog]
 [StopSound(channel="bgs", fadetime=3.5)]
 [StopSound(channel="c", fadetime=3.5)]
@@ -128,13 +128,13 @@
 由英雄所铸，在所有人印象中都还未完成的红龙先祖雕像，献给塔拉的礼物。它披着将死的猛烈日光到来，却几乎遮蔽了天幕。
 [Dialog]
 [Delay(time=1)]
-[name="焦急的居民"]红龙雕像......活过来了？
+[name="焦急的居民"]红龙雕像……活过来了？
 [name="狂热的居民"]不，那是——库林？！
 [name="焦急的居民"]库林，你也来帮大家揪出维多利亚人了？
 [name="狂热的居民"]他得先证明他自己不是！
 [name="焦急的居民"]库林，你快来，听我说，只要不是维多利亚人，就算被火烧了也不会很痛——
 [name="狂热的居民"]你聋了吗！过来！
-[name="焦急的居民"]慢着，他......
+[name="焦急的居民"]慢着，他……
 [name="焦急的居民"]他就这么，一个人，把那整座雕像拖了过来？！
 [Dialog]
 [Delay(time=1)]
@@ -177,7 +177,7 @@
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [name="库林"]现在是火烧，如果还找不出间谍，然后呢？
 [charslot(slot="m",name="avg_npc_1695_1#1$1",focus="m")]
-[name="狂热的居民"]......
+[name="狂热的居民"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)] 
 [charslot]
@@ -189,9 +189,9 @@
 [charslot(slot="r",name="avg_npc_1694_1#1$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="l",name="avg_npc_1692_1#5$1",focus="l")]
-[name="涅梅丝"]库林他，真的把雕像拖了过来......
+[name="涅梅丝"]库林他，真的把雕像拖了过来……
 [charslot(slot="l",name="avg_npc_1692_1#10$1",focus="l")]
-[name="涅梅丝"]怎么办？我们要......打断他吗？
+[name="涅梅丝"]怎么办？我们要……打断他吗？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)] 
 [charslot]
@@ -211,7 +211,7 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=1.5, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="r",name="avg_npc_1694_1#12$1",focus="r")]
-[name="拉芙希妮"]让他......说完吧。
+[name="拉芙希妮"]让他……说完吧。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)] 
 [charslot]
@@ -223,7 +223,7 @@
 [name="库林"]我再说一遍，战争结束了。
 [name="库林"]战争刚结束的时候，我想的事情很简单，等比我更好的工匠来了，我要跟他学两手，别总是连自己打的东西都不能修。
 [charslot(slot="m",name="avg_npc_1697_1#2$1",focus="m")]
-[multiline(name="库林")]但工匠......
+[multiline(name="库林")]但工匠……
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [multiline(name="库林")]没有来，我也没学到什么手艺，甚至把大家生活所需的东西都铸进雕像里了。
 [name="库林"]我不该这么做。纳斯尔纱现在什么都缺。哪怕就是个空碗，总能接点雨水，也比熔进这座雕像上发光，却什么都做不到要强，强太多。
@@ -232,7 +232,7 @@
 [Dialog]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1697_1#7$1",focus="m")]
-[name="库林"]但提奥......不在了。
+[name="库林"]但提奥……不在了。
 [charslot(slot="m",name="avg_npc_1695_1#1$1",focus="m")]
 [name="狂热的居民"]你还在可怜那个维多利亚的坏种？！
 [charslot(slot="m",name="avg_npc_1697_1#7$1",focus="m")]
@@ -242,7 +242,7 @@
 [charslot(slot="m",name="avg_npc_1697_1#7$1",focus="m")]
 [name="库林"]维多利亚人用最后的力气伏在提奥身上，求我将他带走。
 [charslot(slot="m",name="avg_npc_1695_1#1$1",focus="m")]
-[name="狂热的居民"]......
+[name="狂热的居民"]……
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [name="库林"]我恨你们，我甚至想找每一个对提奥见死不救的人复仇。
 [name="库林"]可复仇总该有个理由，不是吗？我们复仇，究竟是为了什么？
@@ -261,19 +261,19 @@
 [charslot(slot="m",name="avg_npc_1697_1#10$1",focus="m")]
 [name="库林"]不，没人需要去爱自己的敌人。
 [charslot(slot="m",name="avg_npc_1697_1#2$1",focus="m")]
-[name="库林"]我只希望你们能爱活着的人......爱你们自己。
+[name="库林"]我只希望你们能爱活着的人……爱你们自己。
 [charslot(slot="m",name="avg_npc_1697_1#10$1",focus="m")]
 [name="库林"]甚至，我都不需要你们去爱谁，我只想问你们一个问题。
-[name="库林"]等到明天，等到夏末节过去，等到战争的影子终于离开我们的头顶......你们准备做点什么？
+[name="库林"]等到明天，等到夏末节过去，等到战争的影子终于离开我们的头顶……你们准备做点什么？
 [name="库林"]我原本想的是建好雕像，把名字刻在上面，但现在，我只想找个好点的工匠，学会怎么修假腿。
 [Dialog]
 [charslot]
-[name="沉默的人群"]......
+[name="沉默的人群"]……
 [charslot(slot="m",name="avg_npc_1695_1#1$1",focus="m")]
 [name="狂热的居民"]我不知道你今天怎么这么会说话，库林，但我不管明天怎么样，战争怎么样，我只要维多利亚人死。
 [name="狂热的居民"]如果你替维多利亚人说话，那我也要你死。
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
-[name="库林"]......
+[name="库林"]……
 [name="库林"]好。
 [Dialog]
 [charslot(duration=0.7)]
@@ -296,7 +296,7 @@
 [charslot]
 涅梅丝的悲鸣淹没在人群的呼喊当中，而库林洪亮的嗓音仍然清晰可辨。
 拉芙希妮想冲到库林身前，却被狂怒的人群挡住去路。她咬紧嘴唇，试图用火焰赶开人群，试图用喊声吸引人群的注意。
-可偏偏此时，人们像失了知觉一般......
+可偏偏此时，人们像失了知觉一般……
 或者，他们真的失去了知觉也说不定。
 [Dialog]
 [delay(time=1)]
@@ -320,7 +320,7 @@
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [name="库林"]狡辩？
 [name="库林"]我告诉你们库林是谁，库林不是英雄，他只是一个沽名钓誉的骗子。
-[name="库林"]他宣称自己在黑林中杀死了一队维多利亚斥候，可他遇见维多利亚人的地方根本不是黑林，而在更远的地方......
+[name="库林"]他宣称自己在黑林中杀死了一队维多利亚斥候，可他遇见维多利亚人的地方根本不是黑林，而在更远的地方……
 [name="库林"]而那些维多利亚人也根本不是什么斥候，只是一支可怜的，不知被哪家军队蹂躏过的商队。
 [name="库林"]库林无论如何都想救下他们，可最终，他只保住了一个孩子。维多利亚孩子。他不知如何是好。
 [charslot(slot="m",name="avg_npc_1697_1#10$1",focus="m")]
@@ -334,7 +334,7 @@
 [name="狂怒的人群"]你？！
 [charslot(slot="m",name="avg_npc_1697_1#8$1",focus="m")]
 [name="库林"]就是这样一个可怜的骗子，尚且知道自己是个铁匠，自己应该在战争结束后，学点什么东西。
-[name="库林"]可你们......
+[name="库林"]可你们……
 [name="库林"]你们呢？
 [Dialog]
 [stopmusic(fadetime=2)]
@@ -349,7 +349,7 @@
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [charslot(duration=0.7)]
 [delay(time=0.5)]
-[name="库林"]咳......
+[name="库林"]咳……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1695_1#1$1",focus="m")]
@@ -357,9 +357,9 @@
 [Dialog]
 [charslot]
 [playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.6)]
-[name="库林"]哈......
-[name="库林"]你们觉得，把这座雕像从工坊拖到这里之后......
-[name="库林"]我......还有多长时间好活？
+[name="库林"]哈……
+[name="库林"]你们觉得，把这座雕像从工坊拖到这里之后……
+[name="库林"]我……还有多长时间好活？
 [Dialog]
 [focusout(duration=2, type="bg", from=0, to=1, block=false)]
 [delay(time=1)]
@@ -372,8 +372,8 @@
 他在广场边缘的某个拐角看见了一个小小的身影。
 他还没来得及去寻找的提奥的尸身，此刻正带着肉眼可见的紫火，怔怔地看着他。
 [name="库林"]提奥？怎么连你也？！
-[name="库林"]咳......
-[name="库林"]都白费了......白费了......
+[name="库林"]咳……
+[name="库林"]都白费了……白费了……
 [Dialog]
 [focusout(duration=2, type="bg", from=1, to=0, block=true)]
 [delay(time=1)]
@@ -388,7 +388,7 @@
 [Dialog]
 [charslot]
 人群紧盯着他，害怕那柄铁锤落到自己的脑袋上，却又不肯离开。
-而库林用尽最后一点力气......
+而库林用尽最后一点力气……
 [Dialog]
 [PlaySound(key="$d_avg_hammersmash_statue", volume=1)]
 [CameraShake(duration=1.5, xstrength=40,ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -446,8 +446,8 @@
 [Dialog]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_450_necras_1#15$1",focus="m")]
-[name="爱布拉娜"]那么，纳斯尔纱的居民们，在你们的英雄为雕像而献身之后......
-[name="爱布拉娜"]夜幕降临，如果你们仍遵循红龙的意志......
+[name="爱布拉娜"]那么，纳斯尔纱的居民们，在你们的英雄为雕像而献身之后……
+[name="爱布拉娜"]夜幕降临，如果你们仍遵循红龙的意志……
 [name="爱布拉娜"]宵禁时间将至，你们该回家了。
 [Dialog]
 [focusout(duration=1.5, type="char", from=0, to=1, block=false)]
@@ -465,7 +465,7 @@
 [Delay(time=1)]
 [PlaySound(key="$d_avg_clapsolo", volume=1)]
 [Delay(time=1)]
-[name="神秘的女性"]“而他用尽最后一点力气，狠狠敲向巨龙的头颅，如同为谁敲响丧钟”......
+[name="神秘的女性"]“而他用尽最后一点力气，狠狠敲向巨龙的头颅，如同为谁敲响丧钟”……
 [name="神秘的女性"]您真的很喜欢库林。虽然这是个很悲伤的结局，但您把它“创作”得很美。
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
 [name="作家"]谬赞。
@@ -475,15 +475,15 @@
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
 [name="作家"]恕不奉告。
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="n")]
-[name="神秘的女性"]按照您故事里的说法，我觉得应该是没有的。贪污、走私、滥权......他们对未来可有着不少构想呢。
+[name="神秘的女性"]按照您故事里的说法，我觉得应该是没有的。贪污、走私、滥权……他们对未来可有着不少构想呢。
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="m")]
-[name="作家"]......
+[name="作家"]……
 [charslot(slot="m",name="avg_npc_1698_1#6$1",focus="m")]
 [name="作家"]讲了这么多，你应该可以给这个故事填上个结局了。
 [Dialog]
 [charslot]
 [name="神秘的女性"]城里可不止发生了这一件事，您自己也说了，他只是第一个牺牲品。
-[name="神秘的女性"]不过，如果您非要在这截断的话......
+[name="神秘的女性"]不过，如果您非要在这截断的话……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.4, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -494,7 +494,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
-[name="作家"]呃......
+[name="作家"]呃……
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="n")]
 [name="神秘的女性"]怎么了？
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
@@ -502,14 +502,14 @@
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="n")]
 [name="神秘的女性"]您明明就还有话想说。
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
-[name="作家"]......
+[name="作家"]……
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="m")]
 [name="作家"]此后真的再也没人见过红龙吗？
 [Dialog]
 [charslot]
 作家看向酒馆一侧无人问津的报栏。当天的报纸就放在那里，“领袖”的照片出现在头版。看标题，她正在橡林郡参加什么仪式。
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="m")]
-[name="作家"]还有，“随她开启向着死亡的探险”......红龙什么时候做了这种事？
+[name="作家"]还有，“随她开启向着死亡的探险”……红龙什么时候做了这种事？
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="n")]
 [name="神秘的女性"]故事是自由的。
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="m")]
@@ -524,7 +524,7 @@
 [name="作家"]从我第一次读到那个名叫西莫·威廉姆斯的诗人写的句子开始，我就一直是塔拉人。
 [name="作家"]不然我为什么放弃开夏郡文学沙龙里温暖的扶手椅，跑到塔拉去做一名——
 [charslot(slot="m",name="avg_npc_1698_1#1$1",focus="m")]
-[name="作家"]......
+[name="作家"]……
 [Dialog]
 [charslot]
 “你还承认自己是塔拉人？”
@@ -539,13 +539,13 @@
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="n")]
 [name="神秘的女性"]这下您可难倒我了。证明有人派我来很简单，可我该怎么证明不存在这么个人物呢？
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="m")]
-[name="作家"]......
+[name="作家"]……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_drinkswllw", volume=1)]
 [Delay(time=1)]
 作家又灌了一口酒，懊丧地抱住头。他知道自己一时半会儿是逃不掉了。
-但事情还有转机。只要自己足够聪明......
+但事情还有转机。只要自己足够聪明……
 [charslot(slot="m",name="avg_npc_1698_1#6$1",focus="m")]
 [name="作家"]仔细想想，的确，不过是故事罢了，我有点神经过敏，抱歉。
 [Dialog]
@@ -554,7 +554,7 @@
 [name="神秘的女性"]或许，把它们连在一起，我们就能得到真正和那段时日的纳斯尔纱，和您心中的塔拉相称的结局了。
 [name="神秘的女性"]如果您已经准备好了，下一个故事，我们能讲讲那场镜中的舞吗？
 [charslot(slot="m",name="avg_npc_1698_1#7$1",focus="m")]
-[name="作家"]镜中的舞......是吗？
+[name="作家"]镜中的舞……是吗？
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1.5, block=true)]
 [Delay(time=1)]

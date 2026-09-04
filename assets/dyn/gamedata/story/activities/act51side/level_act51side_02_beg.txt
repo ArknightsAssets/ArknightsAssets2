@@ -31,7 +31,7 @@
 [charslot(slot = "m", name = "avg_npc_2168_1#1$1")]
 [name="仲裁人"]我知道，她们甚至没有分配给你一枚徽章。
 [charslot(slot = "m", name = "avg_405_absin_1#1$2")]
-[name="苦艾"]......以及，我想冒昧地询问阁下，现在已经到听证会质证环节了吗？
+[name="苦艾"]……以及，我想冒昧地询问阁下，现在已经到听证会质证环节了吗？
 [dialog]
 [charslot]
 [name="书记官"]按照第八十七号临时审查听证会事先制定的章程，只有在所有证人和证据的关联性均已充分说明的情况下，听证会才会进入质证环节。
@@ -40,12 +40,12 @@
 [name="苦艾"]我没有问题了。
 [dialog]
 [charslot]
-[name="书记官"]仲裁人阁下......？
+[name="书记官"]仲裁人阁下……？
 [charslot(slot = "m", name = "avg_npc_2168_1#1$1")]
-[name="仲裁人"]......卓娅女士。我看过你的资料和档案。我觉得很多事都很明显，比如——
+[name="仲裁人"]……卓娅女士。我看过你的资料和档案。我觉得很多事都很明显，比如——
 [name="仲裁人"]你可以选择做一个好孩子。
 [charslot(slot = "m", name = "avg_405_absin_1#1$2")]
-[name="苦艾"]......
+[name="苦艾"]……
 [charslot(slot = "m", name = "avg_npc_2168_1#1$1")]
 [name="仲裁人"]传唤下一位证人！
 [dialog]
@@ -63,9 +63,9 @@
 [charslot(slot="r", posfrom="-150,0", posto="0,0", duration=2)]
 [charslot(slot = "l", name = "avg_4224_turdus_1#1$1", posfrom="-300,0", posto="0,0", duration=2, isblock=true)]
 [charslot(slot="r",name = "avg_405_absin_1#4$2",focus="r")]
-[name="苦艾"]你......？你怎么也会来？
+[name="苦艾"]你……？你怎么也会来？
 [charslot(slot = "l", name = "avg_4224_turdus_1#1$1",focus="l")]
-[name="冷漠的女孩"]......
+[name="冷漠的女孩"]……
 [charslot(slot = "l", name = "avg_4224_turdus_1#5$1",focus="l")]
 [name="冷漠的女孩"]哼。
 [dialog]
@@ -88,14 +88,14 @@
 [charslot(slot = "m", focus="m")]
 [name="仲裁人"]（悄声）无父无母的流浪者，能活下来全靠一群年纪大些的流浪汉护着她，据说一直保护她的人最后死在了学生自治团的手上。
 [charslot(slot = "r", focus="r")]
-[name="仲裁委员会成员"]（悄声）她和学生们的关系并不融洽......什么该说，什么不该说，我都提前交代过她。
+[name="仲裁委员会成员"]（悄声）她和学生们的关系并不融洽……什么该说，什么不该说，我都提前交代过她。
 [charslot(slot = "m", focus="m")]
-[name="仲裁人"]......
+[name="仲裁人"]……
 [name="仲裁人"]那么，乌克西克，孩子，不要害怕，开始讲吧。
 [dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4224_turdus_1#2$1")]
-[name="乌克西克"]也没什么好怕的......咳咳，“尊贵的仲裁委员会大人们”，是这么说没错吧？
+[name="乌克西克"]也没什么好怕的……咳咳，“尊贵的仲裁委员会大人们”，是这么说没错吧？
 [charslot(slot = "m", name = "avg_4224_turdus_1#2$1")]
 [name="乌克西克"]事情是这样的——
 [dialog]
@@ -125,7 +125,7 @@
 [Delay(time=0.8)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="乌克西克"]但我没来得及听清，警棍就已经砸到了他的头上，我一下子就看不见他了......
+[name="乌克西克"]但我没来得及听清，警棍就已经砸到了他的头上，我一下子就看不见他了……
 [bgeffect]
 [Image]
 [dialog]
@@ -137,7 +137,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_2168_1#1$1")]
-[name="仲裁人"]不要讲太多没用的细节......没人听得懂，孩子。
+[name="仲裁人"]不要讲太多没用的细节……没人听得懂，孩子。
 [charslot(slot = "m", name = "avg_4224_turdus_1#3$1")]
 [name="乌克西克"]那我应该怎么讲？我只是个小孩，连字母都没认全，你指望我像上门推销员一样能说会道吗？
 [charslot(slot = "m", name = "avg_4224_turdus_1#4$1")]
@@ -164,17 +164,17 @@
 [charslot]
 [Delay(time=1)]
 [playMusic(key="$wasteland_loop", volume=0.6)]
-[Subtitle(text="“从头讲起”，从头讲起......什么地方才算是“头”呢？",multi = true, x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="“从头讲起”，从头讲起……什么地方才算是“头”呢？",multi = true, x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Subtitle(text="从我出生的时候？那倒没什么好讲的，母亲生下了我，但是买不起药，就死掉了。",multi = true,  x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Subtitle(text="把我扔下的父亲？那更没什么好讲的，我对他几乎没什么印象了。",multi = true,  x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
-[Subtitle(text="被抓进管道清扫队，看着和我一样才三四岁大的孩子们窒息，死在能源管道里......",multi = true,  x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="被抓进管道清扫队，看着和我一样才三四岁大的孩子们窒息，死在能源管道里……",multi = true,  x=300, y=320, alignment="center", size=24, delay=0.04, width=700)]
 [Sticker(id="st1", text="哦，这个不可以讲吗？我一直以为这在乌萨斯是合法的。",multi=true, x=290, y=390, alignment="center",delay=0.04,size=24, width=750)]
 [subtitle]
 [Sticker(id="st1")]
-[Subtitle(text="好吧好吧，我知道了，看来最好还是从“那一天”讲起吧。那一天，我遇见了安托沙......",multi = true,  x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="好吧好吧，我知道了，看来最好还是从“那一天”讲起吧。那一天，我遇见了安托沙……",multi = true,  x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [stopmusic(fadetime=2)]
 [Background(image="bg_cellroomB",screenadapt="coverall",xScale=1.1,yScale=1.1)]
@@ -190,7 +190,7 @@
 [name="乌克西克"]周一怎么了？
 [charslot]
 [name="懒散的警察"]周一，好孩子都在学校里，不会在大街上偷东西。
-[name="懒散的警察"]我看看......还有三个钟头才到放学时间呢，你爸爸妈妈不会担心的，别心急。
+[name="懒散的警察"]我看看……还有三个钟头才到放学时间呢，你爸爸妈妈不会担心的，别心急。
 [PlaySound(key="$d_avg_knockdoorfast", volume=1)]
 [charslot(slot = "m", name = "avg_4224_turdus_1#7$1")]
 [name="乌克西克"]该死的，放我出去！！
@@ -201,7 +201,7 @@
 [name="乌克西克"]喂，你笑什么？
 [Dialog]
 [charslot]
-[name="被关押的工人"]我？我没笑啊......
+[name="被关押的工人"]我？我没笑啊……
 [charslot(slot = "m", name = "avg_4224_turdus_1#7$1")]
 [name="乌克西克"]闪开，没说你！那边的小个子，你在笑什么？
 [Dialog]
@@ -213,7 +213,7 @@
 [Dialog]
 [charslot]
 男学生使了个眼色，我顺着他的目光看过去，那名懒散的警察正盯着一块馅饼，表情犹豫不定。
-这不难理解，离下午茶时间不远了，提前塞满肚子就没办法享受十字大街新鲜出炉的饼干了。话说回来......
+这不难理解，离下午茶时间不远了，提前塞满肚子就没办法享受十字大街新鲜出炉的饼干了。话说回来……
 那块填满水果和奶油的馅饼的确很诱人。光是看着，我就咽了好几汪口水。但我不明白——
 [charslot(slot = "m", name = "avg_4224_turdus_1#1$1")]
 [name="乌克西克"]这有什么好笑的？
@@ -224,12 +224,12 @@
 [charslot(slot = "m",name = "avg_4224_turdus_1#6$1")]
 [name="乌克西克"]什么意思？
 [charslot(slot = "m", name = "avg_npc_2184_1#1$1")]
-[name="被关押的学生"]敢不敢打赌？摇头什么意思，你不敢？哼，等着瞧吧......
+[name="被关押的学生"]敢不敢打赌？摇头什么意思，你不敢？哼，等着瞧吧……
 [Dialog]
 [charslot]
 我压根儿不信他。我从来不打没把握的赌。
 我看见，那个警察瞅了一眼钟表——外出的巡警头子再过一刻钟就会回来，到时候他就没机会在工作时间胡吃海塞了。
-于是，他下定决心，张大了嘴......
+于是，他下定决心，张大了嘴……
 [stopmusic(fadetime=2)]
 [Dialog]
 [PlaySound(key="$d_sp_ballista", volume=0.8)]
@@ -279,7 +279,7 @@
 [charslot(slot = "m", name = "avg_npc_2184_1#3$1")]
 [name="被关押的学生"]谁知道你会直接用微缩源石炸药？！那玩意儿不是很贵吗，马特维居然会同意？
 [charslot(slot = "m", name = "avg_npc_2157_1#2$1")]
-[name="安托沙"]我做什么不需要他的同意......而且，人命才是最贵的。
+[name="安托沙"]我做什么不需要他的同意……而且，人命才是最贵的。
 [charslot(slot = "m", name = "avg_npc_2184_1#2$1")]
 [name="被关押的学生"]难道不应该是自由最珍贵吗？
 [Dialog]
@@ -300,7 +300,7 @@
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4224_turdus_1#10$1")]
-[name="乌克西克"]那些人......他们欺负我！我没有别的地方可以去了！
+[name="乌克西克"]那些人……他们欺负我！我没有别的地方可以去了！
 [charslot(slot = "m", name = "avg_4224_turdus_1#1$1")]
 [name="乌克西克"]不吃这一套吗？那你们也不能把我扔在这里等死呀！
 [charslot(slot = "m", name = "avg_4224_turdus_1#2$1")]
@@ -311,13 +311,13 @@
 [delay(time=0.5)]
 警察的哨音在不远处响起，我看见安托沙的表情没有一丝变化。在一般人身上，这表示我的话不起作用。
 [charslot(slot = "m", name = "avg_npc_2157_1#2$1")]
-[name="安托沙"]你说得对......我们确实不是什么“好人”。
+[name="安托沙"]你说得对……我们确实不是什么“好人”。
 [charslot(slot = "m", name = "avg_npc_2157_1#5$1")]
 [name="安托沙"]姑且一问，你的家在哪里？或许我可以送你——
 [charslot(slot = "m", name = "avg_4224_turdus_1#8$1")]
 [name="乌克西克"]家？你是说奥多耶夫区的下水道？我可不需要你送。
 [charslot(slot = "m", name = "avg_npc_2157_1#10$1")]
-[name="安托沙"]......
+[name="安托沙"]……
 [charslot(slot = "m", name = "avg_npc_2157_1#1$1")]
 [name="安托沙"]接住钥匙——你会开锁吧？
 [Dialog]
@@ -344,7 +344,7 @@
 [charslot(slot = "r", name = "avg_npc_2157_1#7$1",focus="r")]
 [name="安托沙"]不能再失败了，这里还有上百名老弱病残，以及留下来照顾他们的家人。
 [charslot(slot = "r", name = "avg_npc_2157_1#10$1",focus="r")]
-[name="安托沙"]巴普洛维奇的人每天都在变多，装备也变得精良，我们一边炸开出口他们一边堵，而我们的炸药储备......最多只剩两次机会了。
+[name="安托沙"]巴普洛维奇的人每天都在变多，装备也变得精良，我们一边炸开出口他们一边堵，而我们的炸药储备……最多只剩两次机会了。
 [charslot(slot = "r", name = "avg_npc_2157_1#1$1",focus="r")]
 [name="安托沙"]只有尽快解决掉巴普洛维奇，才有可能带来转机。
 [charslot(slot = "l",focus="l")]
@@ -367,7 +367,7 @@
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4224_turdus_1#6$1")]
-[name="乌克西克"]有水吗？我有点噎着了......
+[name="乌克西克"]有水吗？我有点噎着了……
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2184_1#1$1",focus="r")]
@@ -381,17 +381,17 @@
 [charslot(slot = "l", name = "avg_npc_2184_1#1$1",focus="l")]
 [name="尤拉"]我平时哪里散漫了？再说，平时大家不都是在大街上偷有钱人的皮夹子、倒卖无人看管的自行车吗？
 [charslot(slot = "r", name = "avg_npc_2157_1#4$1",focus="r")]
-[name="安托沙"]......你每天写的三四封情诗，是给同一个人的吗？
+[name="安托沙"]……你每天写的三四封情诗，是给同一个人的吗？
 [charslot(slot = "l", name = "avg_npc_2184_1#2$1",focus="l")]
 [name="尤拉"]安托沙，你这么问就没意思了。社会财富的再分配工作是相当严肃的，但也不意味着大家都要像你一样终日板着脸。
 [charslot(slot = "r", name = "avg_npc_2157_1#1$1",focus="r")]
 [name="安托沙"]我只是提醒你，我们所做的事情仍被乌萨斯的统治者定义为“犯罪”，并且我们做这些是为了——
 [charslot(slot = "l", name = "avg_npc_2184_1#1$1",focus="l")]
-[name="尤拉"]......为了报仇。
+[name="尤拉"]……为了报仇。
 [charslot(slot = "r", name = "avg_npc_2157_1#7$1",focus="r")]
 [name="安托沙"]是的，报仇。但远不只是报仇。
 [charslot(slot = "r", name = "avg_npc_2157_1#7$1",focus="r")]
-[name="安托沙"]老师甘愿为我们而死，是因为他相信我们能解放乌萨斯，给未来带去自由......真正的自由。
+[name="安托沙"]老师甘愿为我们而死，是因为他相信我们能解放乌萨斯，给未来带去自由……真正的自由。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_open_door", volume=1)]
@@ -419,7 +419,7 @@
 [charslot(slot = "l", name = "avg_npc_2160_1#2$1",posfrom="-100,0",posto="0,0",duration=1.2)]
 [Delay(time=1.5)]
 [charslot(slot = "r", name = "avg_npc_2157_1#3$1",focus="r")]
-[name="安托沙"]咳，这孩子是我从警局带回来的，我觉得......
+[name="安托沙"]咳，这孩子是我从警局带回来的，我觉得……
 [charslot(slot = "l", name = "avg_npc_2160_1#2$1",focus="l")]
 [name="马特维"]你们刚才在聊什么？
 [Dialog]
@@ -430,11 +430,11 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2160_1#8$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_2157_1#3$1",focus="l")]
-[name="马特维"]......你们当着孩子的面聊杀人？
+[name="马特维"]……你们当着孩子的面聊杀人？
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4224_turdus_1#4$1")]
-[name="乌克西克"]杀人？哦......原来你们刚才是在说杀人啊。
+[name="乌克西克"]杀人？哦……原来你们刚才是在说杀人啊。
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2160_1#8$1",focus="r")]
@@ -443,7 +443,7 @@
 [charslot(slot = "l", name = "avg_npc_2160_1#8$1",focus="l")]
 [name="马特维"]你的那份名单越写越长，我不清楚你指的是哪一版。
 [charslot(slot = "r", name = "avg_npc_2157_1#10$1",focus="r")]
-[name="安托沙"]......当乌萨斯不再生产败类的时候，我就停下。
+[name="安托沙"]……当乌萨斯不再生产败类的时候，我就停下。
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_puddlesplash", volume=0.5)]
@@ -471,13 +471,13 @@
 [charslot(slot = "r", name = "avg_npc_2157_1#3$1",focus="r")]
 [name="安托沙"]你听见她说的了，她可以睡地上。
 [charslot(slot = "l", name = "avg_npc_2160_1#8$1",focus="l")]
-[name="马特维"]......
+[name="马特维"]……
 [charslot(slot = "r", name = "avg_npc_2157_1#5$1",focus="r")]
-[name="安托沙"]......
+[name="安托沙"]……
 [charslot(slot = "l", name = "avg_npc_2160_1#10$1",focus="l")]
-[name="马特维"]............
+[name="马特维"]…………
 [charslot(slot = "r", name = "avg_npc_2157_1#3$1",focus="r")]
-[name="安托沙"]............
+[name="安托沙"]…………
 [charslot(slot = "r", name = "avg_npc_2157_1#3$1",focus="r")]
 [name="安托沙"]好吧，我来想办法！我带人进来之前应该替你考虑好这些问题！
 [charslot(slot = "l", name = "avg_npc_2160_1#1$1",focus="l")]
@@ -496,7 +496,7 @@
 [charslot(slot = "r", name = "avg_npc_2157_1#1$1",focus="r")]
 [name="安托沙"]马特维，她是——
 [charslot(slot = "l", name = "avg_npc_2160_1#10$1",focus="l")]
-[name="马特维"]抱歉......
+[name="马特维"]抱歉……
 [charslot(slot = "l", name = "avg_npc_2160_1#2$1",focus="l")]
 [name="马特维"]可是，你还是不该和我们一起行动。
 [Dialog]
@@ -507,24 +507,24 @@
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2160_1#2$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_2157_1#1$1",focus="l")]
-[name="马特维"]我们并不是你理解的那种学生......
+[name="马特维"]我们并不是你理解的那种学生……
 [charslot(slot = "l", name = "avg_npc_2160_1#8$1",focus="l")]
 [name="马特维"]（小声）安托沙，你知道这个时候有多危险，我们不应该——
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_4224_turdus_1#2$1")]
-[name="乌克西克"]我知道！你们也会做偷别人钱夹子的事，对吗？我当然可以帮你们啊，我还挺擅长做这种事的，上次是不小心失手才被抓住的......
+[name="乌克西克"]我知道！你们也会做偷别人钱夹子的事，对吗？我当然可以帮你们啊，我还挺擅长做这种事的，上次是不小心失手才被抓住的……
 [charslot(slot = "m", name = "avg_4224_turdus_1#10$1")]
-[name="乌克西克"]求求你们了，我真的可以帮上忙的，只要你们每次事成之后给我一点面包吃就行，而且我吃得也不是很多......
+[name="乌克西克"]求求你们了，我真的可以帮上忙的，只要你们每次事成之后给我一点面包吃就行，而且我吃得也不是很多……
 [charslot(slot = "m", name = "avg_4224_turdus_1#10$1")]
 [name="乌克西克"]我实在没地方可去了。
 [Dialog]
 [charslot]
 [charslot(slot = "l", name = "avg_npc_2160_1#4$1",focus="l")]
 [charslot(slot = "r", name = "avg_npc_2157_1#1$1",focus="l")]
-[name="马特维"]......
+[name="马特维"]……
 [charslot(slot = "r", name = "avg_npc_2157_1#11$1",focus="r")]
-[name="安托沙"]......你听到了，马特维。她也是个无家可归的人。
+[name="安托沙"]……你听到了，马特维。她也是个无家可归的人。
 [Dialog]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_2184_1#2$1")]
@@ -548,7 +548,7 @@
 [charslot(slot = "r", focus="n")]
 说实话，我不太听得懂安托沙的问题，但看着他兴致勃勃的样子，我只好点了点头。
 [charslot(slot = "l", name = "avg_4224_turdus_1#6$1",focus="l")]
-[name="乌克西克"]你是说......我们应该都可以吃到面包，甚至是蛋糕吗？
+[name="乌克西克"]你是说……我们应该都可以吃到面包，甚至是蛋糕吗？
 [charslot(slot = "l", name = "avg_4224_turdus_1#2$1",focus="l")]
 [name="乌克西克"]如果每顿饭都能吃饱，那当然是最好的。
 [Dialog]
@@ -614,26 +614,26 @@
 [name="安托沙"]尤拉那边搞定了吗？
 [charslot(slot = "m", name = "avg_npc_2182_1#1$1")]
 [name="神色坚定的女生"]搞定了。我已经把药水和刀都交给他了。等到那场舞会开始，他就会端着装满香槟杯的盘子走到目标身边。
-[name="神色坚定的女生"]杀一个人不难，但想要在杀人之后活着逃出来......毒药和刀，不知道他会选哪种方式动手。
+[name="神色坚定的女生"]杀一个人不难，但想要在杀人之后活着逃出来……毒药和刀，不知道他会选哪种方式动手。
 [charslot(slot = "m", name = "avg_npc_2157_1#2$1")]
 [name="安托沙"]他会选最显眼的方式。
 [charslot(slot = "m", name = "avg_npc_2182_1#1$1")]
 [name="神色坚定的女生"]行吧，是我也会这么做。
-[name="神色坚定的女生"]老师常说，仅仅践行正义之举是不够的......
+[name="神色坚定的女生"]老师常说，仅仅践行正义之举是不够的……
 [charslot(slot = "m", name = "avg_npc_2157_1#2$1")]
 [name="安托沙"]它还必须被所有人看见。
 [stopmusic(fadetime=4)]
 [charslot(slot = "m", name = "avg_npc_2157_1#5$1")]
-[name="安托沙"]这次行动很危险，但冬季舞会不让私人安保进场，这也是我们最好的机会了。尤拉......算了，我信任他。
+[name="安托沙"]这次行动很危险，但冬季舞会不让私人安保进场，这也是我们最好的机会了。尤拉……算了，我信任他。
 [charslot(slot = "m", name = "avg_npc_2182_1#1$1")]
 [name="神色坚定的女生"]乐观点，安托沙。我们跟着你，可不是因为想看你垂头丧气的。
 [charslot(slot = "m", name = "avg_npc_2157_1#1$1")]
-[name="安托沙"]......你们不是跟着我的——我们所有人，都是自愿聚集到这里的。
+[name="安托沙"]……你们不是跟着我的——我们所有人，都是自愿聚集到这里的。
 [charslot(slot = "m", name = "avg_npc_2182_1#1$1")]
 [name="神色坚定的女生"]我知道，你“当然”不是我们的“头儿”。
 [name="神色坚定的女生"]但理想总得有个方向，来到卡托加区发起斗争也是你的主意。
 [charslot(slot = "m", name = "avg_npc_2157_1#1$1")]
-[name="安托沙"]......等巴普洛维奇一死，我们就能带领所有人离开这里，漫长的反抗也会结束。
+[name="安托沙"]……等巴普洛维奇一死，我们就能带领所有人离开这里，漫长的反抗也会结束。
 [Dialog]
 [playMusic(key="$m_avg_ursusdaily_loop", volume=0.6)]
 [MusicVolume(volume=0.6, fadetime=4)]
@@ -683,7 +683,7 @@
 [Delay(time=1)]
 [Subtitle(text="我能从你们每个人的眼睛里看见，你们对这个国家失望透顶，因为我也一样！", multi = true, x=400, y=350, alignment="center", size=24, delay=0.04, width=500)]
 [Subtitle(text="我们尝试过，我们并非只是像那群无能的后继者一样空想、空谈！我们尝试过！",multi = true,  x=400, y=350, alignment="center", size=24, delay=0.04, width=500)]
-[Subtitle(text="一切和平的手段......都没有用。我们付出了代价。",multi = true,  x=350, y=350, alignment="center", size=24, delay=0.04, width=580)]
+[Subtitle(text="一切和平的手段……都没有用。我们付出了代价。",multi = true,  x=350, y=350, alignment="center", size=24, delay=0.04, width=580)]
 [Subtitle(text="言语和文字都太过于软弱，无法撬动这个腐朽、发臭的巨大帝国。",multi = true,  x=400, y=350, alignment="center", size=24, delay=0.04, width=500)]
 [Subtitle]
 [Delay(time=0.5)]
@@ -708,7 +708,7 @@
 [Blocker(a=0.2, r=0.92, g=0.4, b=0.3, fadetime=0.6, block=true)]
 [Blocker(a=0, r=0.96, g=0.3, b=0.3, fadetime=0.4, block=true)]
 [Subtitle(text="那是为我们而流的血！", x=150, y=250, alignment="left",multi = true, size=24, delay=0.04, width=500)]
-[Subtitle(text="血......早就流干了。我们当中，没有人畏惧刑罚或是死亡！",multi = true, x=150, y=250, alignment="left", size=24, delay=0.04, width=500)]
+[Subtitle(text="血……早就流干了。我们当中，没有人畏惧刑罚或是死亡！",multi = true, x=150, y=250, alignment="left", size=24, delay=0.04, width=500)]
 [Subtitle]
 [CameraEffect(effect="Grayscale", fadetime=1, keep=true, initamount=0, amount=1, block=false)]
 [Delay(time=2)]
@@ -722,13 +722,13 @@
 [charslot(slot = "m", name = "avg_npc_2157_1#7$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="安托沙"]我们渴望......
+[name="安托沙"]我们渴望……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_crwdcheerup", volume=0.8)]
 [name="众人"]自由。
 [charslot(slot = "m", name = "avg_npc_2157_1#7$1")]
-[name="安托沙"]我们需要......
+[name="安托沙"]我们需要……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_crwdcheerup", volume=0.8)]
@@ -754,11 +754,11 @@
 [charslot(slot = "r", focus="n")]
 所有人的声音叠在一起，震得我头脑发晕。我只好站在马特维的身旁，他是那个从始至终都保持沉默的人。
 我不是很明白那些话的意思，但我注意到，安托沙每说完几句，都会向这边投来目光。
-他当然不是在看我，他更像是......在向马特维寻求确认。
+他当然不是在看我，他更像是……在向马特维寻求确认。
 我不知道他们有过什么样的约定，但我可以确定，当安托沙犯错的时候，马特维肯定会开口告诉他。
 [Dialog]
 [charslot]
-然后......
+然后……
 [Dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -773,7 +773,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=2)]
 [StopSound(channel="f", fadetime=2)]
-[name="乌克西克"]我看见了，我们要去接应的人——尤拉。他站在人群里，脸上满是茫然......
+[name="乌克西克"]我看见了，我们要去接应的人——尤拉。他站在人群里，脸上满是茫然……
 [name="乌克西克"]他没能完成刺杀任务，我们的计划被生生打断了。
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
@@ -788,7 +788,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
 [PlaySound(key="$d_avg_audience_chaos",volume=0.4)]
-[name="乌克西克"]他或许在想......为什么那场舞会外面，会有这么多的学生和警察。
+[name="乌克西克"]他或许在想……为什么那场舞会外面，会有这么多的学生和警察。
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]

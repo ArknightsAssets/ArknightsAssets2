@@ -10,9 +10,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1542_1#5$1", duration=1, isblock=true)]
-[name="伊雷妮"]卡车......什么什么......抱歉，您刚刚说的名字实在是太长了。
+[name="伊雷妮"]卡车……什么什么……抱歉，您刚刚说的名字实在是太长了。
 [charslot(slot = "m", name = "avg_4065_judge_1#1$1")]
-[name="拉维妮娅"]“新沃尔西尼货运工人和卡车司机联合互助会”......我们需要学习一下维多利亚和哥伦比亚的这种工人组织。
+[name="拉维妮娅"]“新沃尔西尼货运工人和卡车司机联合互助会”……我们需要学习一下维多利亚和哥伦比亚的这种工人组织。
 [charslot(slot = "m", name = "avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]要想对抗家族的威胁，首先要让我们自己团结起来，拥有与他们对抗的力量。
 [charslot(slot = "m", name = "avg_npc_1541_1#1$1")]
@@ -21,24 +21,24 @@
 [name="莱昂图索"]在新沃尔西尼，卡车不再是黑帮的快递箱，它只属于驾驶它的人，还有每一个正直的市民。
 [charslot(slot = "m", name = "avg_npc_1542_1#5$1")]
 [name="伊雷妮"]可是，为什么是我？
-[name="伊雷妮"]我以前只是给索默尔的小超市开车进货......虽然车开得还算可以......
+[name="伊雷妮"]我以前只是给索默尔的小超市开车进货……虽然车开得还算可以……
 [charslot(slot = "m", name = "avg_npc_1541_1#8$1")]
 [name="莱昂图索"]在沃尔西尼，没有接受过家族贿赂的市政府职员，两只手就能数得过来。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]那是因为......
+[name="伊雷妮"]那是因为……
 [charslot(slot = "m", name = "avg_4065_judge_1#8$1")]
 [name="拉维妮娅"]对不起，伊雷妮。之前我私下调查过你和索默尔的经历。我知道那场惨案，我很抱歉。
-[name="拉维妮娅"]我在想，如果你只是仇恨纵火焚烧了你们超市的那个家族，你完全可以接受另一个家族的帮助，去完成复仇......
+[name="拉维妮娅"]我在想，如果你只是仇恨纵火焚烧了你们超市的那个家族，你完全可以接受另一个家族的帮助，去完成复仇……
 [name="拉维妮娅"]但你没有这么做。
 [charslot(slot = "m", name = "avg_4065_judge_1#2$1")]
-[name="拉维妮娅"]只是我的一点揣测......如果有冒犯，还请原谅。
+[name="拉维妮娅"]只是我的一点揣测……如果有冒犯，还请原谅。
 [charslot(slot = "m", name = "avg_npc_1542_1#1$1")]
-[name="伊雷妮"]谢谢您......拉维妮娅法官。
+[name="伊雷妮"]谢谢您……拉维妮娅法官。
 [charslot(slot = "m", name = "avg_4065_judge_1#9$1")]
 [name="拉维妮娅"]伊雷妮，姑且不论你是不是卡车工会负责人的最佳人选，我都相信你是一个善良的人。
 [name="拉维妮娅"]请认真考虑一下这份邀请，好吗？
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -61,11 +61,11 @@
 [charslot(slot = "r", name = "avg_npc_1542_1#2$1", focus="n")]
 [name="法官助理"]伊雷妮小姐，请稍等。拉维妮娅法官正在主持一场庭审，等结束后就可以来见你了。
 [charslot(slot = "r", name = "avg_npc_1542_1#2$1", focus="r")]
-[name="伊雷妮"]好......好的，不着急。
+[name="伊雷妮"]好……好的，不着急。
 [charslot(slot = "l", name = "avg_npc_702_1#1$1", focus="l")]
 [name="法官助理"]你拿着的是要交给拉维妮娅法官的资料吗？我可以先转交给她。
 [charslot(slot = "r", name = "avg_npc_1542_1#5$1", focus="r")]
-[name="伊雷妮"]不！还是不用了......一会儿我自己给她吧。
+[name="伊雷妮"]不！还是不用了……一会儿我自己给她吧。
 [charslot]
 伊雷妮说着，将手中的笔记本又攥得紧了一点。
 [charslot(slot = "l", name = "avg_npc_702_1#1$1", focus="n")]
@@ -76,7 +76,7 @@
 [name="法官助理"]严格意义上说，并不是一场庭审，而是一场可能连拉维妮娅法官都没办法处理的申诉。
 [name="法官助理"]当事人只是一位普通的新沃尔西尼市民，但情况比较特殊。
 [charslot(slot = "r", name = "avg_npc_1542_1#4$1", focus="r")]
-[name="伊雷妮"]她是新沃尔西尼的大法官，有什么案子是她都......我能去听听看吗？
+[name="伊雷妮"]她是新沃尔西尼的大法官，有什么案子是她都……我能去听听看吗？
 [charslot(slot = "l", name = "avg_npc_702_1#1$1", focus="l")]
 [name="法官助理"]当然。那你就在旁听席上等她好了。
 [dialog]
@@ -93,17 +93,17 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_4065_judge_1#1$1")]
-[name="拉维妮娅"]......我会尽快联系蒙特卢佩市政府，寻求他们的协助来抓捕凶手。
+[name="拉维妮娅"]……我会尽快联系蒙特卢佩市政府，寻求他们的协助来抓捕凶手。
 [name="拉维妮娅"]同时，我们也会申请新沃尔西尼法院对这个案件的审判权。
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
 [name="悲哀的市民"]那您能不能告诉我，可能性有多大？
 [charslot(slot = "m", name = "avg_4065_judge_1#1$1")]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [name="拉维妮娅"]我会尽全力争取。提请异地审判，这一年不是没有过类似的事情——
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
 [name="悲哀的市民"]但是一次都没有成功过，不是吗？
 [charslot(slot = "m", name = "avg_4065_judge_1#7$1")]
-[name="拉维妮娅"]......哪怕失败，我也会督促蒙特卢佩的同事公正地审理案件，让凶手得到应有的惩罚。
+[name="拉维妮娅"]……哪怕失败，我也会督促蒙特卢佩的同事公正地审理案件，让凶手得到应有的惩罚。
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
 [name="悲哀的市民"]公正？
 [name="悲哀的市民"]拉维妮娅法官，要是那样的话，我们都知道会是什么结果！
@@ -111,27 +111,27 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_smashtable", volume=1)]
 [name="悲哀的市民"]您知道的，根本不是那么回事！
-[name="悲哀的市民"]他是因为狂欢节相关的事宜才去蒙特卢佩出差的，结果不小心得罪了当地的家族，被活活打死在了肮脏的巷子里......
+[name="悲哀的市民"]他是因为狂欢节相关的事宜才去蒙特卢佩出差的，结果不小心得罪了当地的家族，被活活打死在了肮脏的巷子里……
 [name="悲哀的市民"]拉维妮娅法官，我听说那个家族已经请法院的人吃过饭了，您还是想跟我说，您能够督促您的同事公平公正地审理吗？
 [charslot(slot = "m", name = "avg_4065_judge_1#5$1")]
 [name="拉维妮娅"]我——
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
-[name="悲哀的市民"]我的哥哥是个好人，他一辈子没有做过什么恶事，我们是最早申请加入新沃尔西尼的市民，大家都很喜欢他......
+[name="悲哀的市民"]我的哥哥是个好人，他一辈子没有做过什么恶事，我们是最早申请加入新沃尔西尼的市民，大家都很喜欢他……
 [charslot(slot = "m", name = "avg_4065_judge_1#6$1")]
 [name="拉维妮娅"]我很遗憾。
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
 [name="悲哀的市民"]您不用遗憾，这种事情在叙拉古再常见不过了，不是吗？
 [name="悲哀的市民"]拉维妮娅法官，我想报仇。
-[name="悲哀的市民"]用我自己的方法，用在叙拉古再常见不过的方法......变卖家产，请一个杀手，或者去投靠和那个家族有仇的其他家族。
+[name="悲哀的市民"]用我自己的方法，用在叙拉古再常见不过的方法……变卖家产，请一个杀手，或者去投靠和那个家族有仇的其他家族。
 [name="悲哀的市民"]但这样是不是会违反新沃尔西尼法律的规定？
 [name="悲哀的市民"]您会审判我吗，新沃尔西尼会永远驱逐我吗？
 [charslot(slot = "m", name = "avg_4065_judge_1#6$1")]
-[name="拉维妮娅"]......按照《新都市管理法案》，的确如此。
+[name="拉维妮娅"]……按照《新都市管理法案》，的确如此。
 [charslot(slot = "m", name = "avg_npc_696_1#1$1")]
-[name="悲哀的市民"]新沃尔西尼的法律是严格的、有效的，可它只在新沃尔西尼严格，只在新沃尔西尼有效......
+[name="悲哀的市民"]新沃尔西尼的法律是严格的、有效的，可它只在新沃尔西尼严格，只在新沃尔西尼有效……
 [name="悲哀的市民"]您难道不觉得，这太可笑了吗？
 [charslot(slot = "m", name = "avg_4065_judge_1#2$1")]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [name="拉维妮娅"]我知道这听起来很残酷，但法律正是如此，新沃尔西尼太过特殊，这是它的意义，也是它目前的缺憾。
 [charslot(slot = "m", name = "avg_4065_judge_1#7$1")]
 [name="拉维妮娅"]但请相信我，我们会尽全力帮助你。
@@ -143,11 +143,11 @@
 [Blocker(a=0, r=0, g=0, b=0, style = "slider", inverse = true, fadetime=2, block=true)]
 [Delay(time=0.1)]
 [charslot(slot = "r", focus="n")]
-[name="悲哀的市民"]不，拉维妮娅法官，我的哥哥尸骨未寒......
+[name="悲哀的市民"]不，拉维妮娅法官，我的哥哥尸骨未寒……
 [name="悲哀的市民"]我想、我想放弃自己新沃尔西尼市民的身份，回到蒙特卢佩。
 [charslot(slot = "r", name = "avg_npc_1542_1#7$1", focus="r")]
-[name="伊雷妮"]......
-[name="伊雷妮"]怎么会这样......
+[name="伊雷妮"]……
+[name="伊雷妮"]怎么会这样……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1, loop=true, channel="w")]
 [StopSound(channel="w", fadetime=1.5)]
@@ -157,9 +157,9 @@
 [name="法官助理"]唉，这是无可奈何的事情。
 [name="法官助理"]新沃尔西尼是座特殊的城市，《新都市管理法案》无论内容本身，还是效力的来源，都与叙拉古长久以来的历史存在着冲突。
 [name="法官助理"]从某种意义上讲，它和整个国家都格格不入。也正因为如此，它才必须寸步不让。
-[name="法官助理"]实际上，像这样的案例，这一年以来我们已经不是第一次遇到了......抱歉，我不该和你讨论这些的。
+[name="法官助理"]实际上，像这样的案例，这一年以来我们已经不是第一次遇到了……抱歉，我不该和你讨论这些的。
 [charslot(slot = "r", name = "avg_npc_1542_1#3$1", focus="r")]
-[name="伊雷妮"]不，谢谢您......愿意和我讲这些。
+[name="伊雷妮"]不，谢谢您……愿意和我讲这些。
 [dialog]
 [PlaySound(key="$flashback", volume=0.8)]
 [Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
@@ -191,7 +191,7 @@
 [CameraEffect(effect="Grayscale", amount=0, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Delay(time=1)]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_696_1#1$1", focus="m", posfrom="200,0", posto="0,0", duration=1.5)]
@@ -208,7 +208,7 @@
 [charslot(slot = "l", posfrom="0,0", posto="-200,0", afrom=1, ato=0, duration=1.5)]
 [delay(time=2)]
 [charslot(slot = "r", name = "avg_npc_1542_1#7$1", focus="r")]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -217,7 +217,7 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="拉维妮娅"]......
+[name="拉维妮娅"]……
 [dialog]
 [charslot(slot = "r", name = "avg_npc_702_1#1$1", posfrom="100,0", posto="0,0", duration=1, isblock=true)]
 [Delay(time=0.5)]
@@ -232,10 +232,10 @@
 [charslot(slot = "r", name = "avg_npc_702_1#1$1", focus="r")]
 [name="法官助理"]（摇头）
 [charslot(slot = "l", name = "avg_4065_judge_1#1$1", focus="l")]
-[name="拉维妮娅"]......以她的性格，估计是突然想到了什么新线索，等不及打招呼就走了，她会再联系我们的。
+[name="拉维妮娅"]……以她的性格，估计是突然想到了什么新线索，等不及打招呼就走了，她会再联系我们的。
 [charslot(slot = "r", name = "avg_npc_702_1#1$1", focus="r")]
 [name="法官助理"]对了，刚刚警局的同事来过电话了。
-[name="法官助理"]您拜托他们找的那个姓切塔尔多的......有下落了。
+[name="法官助理"]您拜托他们找的那个姓切塔尔多的……有下落了。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -270,7 +270,7 @@
 如若不是莱昂图索还躺在病房里，德克萨斯差点就要相信叙拉古真的在变好了。
 [dialog]
 [StopSound(channel="an", fadetime=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [dialog]
 [focusout(type="bg", id="56_g1_newvolsiniistreet_d", from=0, to=1, duration=3, block=false)]
 [Delay(time=2)]
@@ -288,7 +288,7 @@
 [charslot(slot = "m", name = "char_105_emper")]
 [name="大帝"]有什么办法！
 [name="大帝"]我可不喜欢叙拉古那些故作轻松的爵士乐，乍一听好像很优雅，实际上跟狼群撕来咬去时尾巴毛刷地的动静没区别。
-[name="大帝"]狂欢节、游行、演出......肯定到处都是音乐，我只是想见见老朋友，可不想耳朵被侮辱。
+[name="大帝"]狂欢节、游行、演出……肯定到处都是音乐，我只是想见见老朋友，可不想耳朵被侮辱。
 [charslot(slot = "m", name = "avg_1028_texas2_1#3$1")]
 [name="德克萨斯"]老朋友？你的同胞也会去吗？
 [charslot(slot = "m", name = "char_105_emper")]
@@ -300,11 +300,11 @@
 [name="德克萨斯"]我们也不会待很久，事情结束就回来。
 [charslot(slot = "m", name = "char_105_emper")]
 [name="大帝"]你一股子笃定这次肯定又会发生什么乱子的口气。
-[name="大帝"]说真的，扎罗输掉了他的游戏，你们的交易已经作废......
+[name="大帝"]说真的，扎罗输掉了他的游戏，你们的交易已经作废……
 [name="大帝"]你和叙拉古，和那些老熟人，确实有些我压根不感兴趣的纠缠，但该解决的都已经解决了。
 [name="大帝"]“最后的德克萨斯”已经翻篇了，你对叙拉古又谈不上有什么了不得的期待，那地方变好还是变差，和你又有什么关系？
 [charslot(slot = "m", name = "avg_1028_texas2_1#8$1")]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot(slot = "m", name = "char_105_emper")]
 [name="大帝"]不想说，还是你自己也说不上来？
 [name="大帝"]算了，反正我可是给过你机会，让你留在龙门看家的。
@@ -322,14 +322,14 @@
 [focusout(type="char", from=1, to=0, duration=3, block=false)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="德克萨斯"]......
+[name="德克萨斯"]……
 [charslot]
 德克萨斯关上了窗户，从外套内侧的口袋掏出两个信封。
 [playsound(key="$d_avg_paper1",volume=1)]
 第一封是来自新沃尔西尼市政厅的邀请函，上面印着法院的公章和代理市长莱昂图索的签名。
 另一个信封里面空空如也，紫色封面的角落潦草地画着一只白狼，和一串葡萄。
 [charslot(slot = "m", name = "avg_1028_texas2_1#7$1")]
-[name="德克萨斯"]......拉普兰德。
+[name="德克萨斯"]……拉普兰德。
 [dialog]
 [stopmusic(fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -365,7 +365,7 @@
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]去哪里？
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
-[name="伊雷妮"]卡车营地......
+[name="伊雷妮"]卡车营地……
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]哦，是没听过的地方。
 [charslot(slot = "m", name = "avg_npc_1542_1#2$1")]
@@ -392,12 +392,12 @@
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]不顺的一天，对吧？
 [charslot(slot = "m", name = "avg_npc_1542_1#3$1")]
-[name="伊雷妮"]嗯......
+[name="伊雷妮"]嗯……
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]可怜的人，你是我来到新沃尔西尼后见到的最不开心的客人。
 [name="侃侃而谈的司机"]为什么这么闷闷不乐呢？再有几天就是狂欢节巡游了，大家都在为这座新城市和自己的新生活开心不是吗？
 [charslot(slot = "m", name = "avg_npc_1542_1#3$1")]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]说起来，我对这里可是喜欢得不得了。
 [name="侃侃而谈的司机"]看这张灯结彩的街道、美妙的派对，食物也很讲究。没有家族，也很少下雨。空气和尾巴永远都是干燥的。
@@ -406,11 +406,11 @@
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]唉，这位客人，到底有什么心事呢？不如聊聊嘛，说不定我能帮到些什么忙呢？
 [charslot(slot = "m", name = "avg_npc_1542_1#3$1")]
-[name="伊雷妮"]......
+[name="伊雷妮"]……
 [charslot(slot = "m", name = "avg_npc_1542_1#7$1")]
-[name="伊雷妮"]我做错了一些事，不，应该说，我没有做到一些事。或者说，我相信了不该相信的人......总之，我辜负了别人的信任。
+[name="伊雷妮"]我做错了一些事，不，应该说，我没有做到一些事。或者说，我相信了不该相信的人……总之，我辜负了别人的信任。
 [charslot(slot = "m", name = "avg_npc_1542_1#3$1")]
-[name="伊雷妮"]算了吧，我遇到的问题......没法解决。
+[name="伊雷妮"]算了吧，我遇到的问题……没法解决。
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]不不不，在叙拉古，没什么问题是不能解决的。
 [name="侃侃而谈的司机"]解不开的绳结可以用刀劈开，打不开的密码箱也可以用锤子砸烂，所有问题都是这样。
@@ -433,11 +433,11 @@
 [charslot(slot = "m", focus="n")]
 [name="侃侃而谈的司机"]很简单，因为别人的约束而戴上的假面，是会让自己透不过气来的。
 [name="侃侃而谈的司机"]很多时候，其实你知道该怎么做，答案就在那里，再清楚不过。只是我们出于种种别的原因，拒绝直视它。
-[name="侃侃而谈的司机"]可是，如果能让自己轻松一点的话......为什么不呢？
+[name="侃侃而谈的司机"]可是，如果能让自己轻松一点的话……为什么不呢？
 [dialog]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1542_1#5$1")]
-[name="伊雷妮"]......不好意思，请停一下。
+[name="伊雷妮"]……不好意思，请停一下。
 [dialog]
 [PlaySound(key="$drift", volume=1)]
 [StopSound(channel="car", fadetime=1)]

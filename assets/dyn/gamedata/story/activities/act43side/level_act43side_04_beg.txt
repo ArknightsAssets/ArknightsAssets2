@@ -11,7 +11,7 @@
 [playMusic(intro="$darkness01_intro",key="$darkness01_loop", volume=0.6)]
 [charslot(slot="m",name="avg_npc_1848_1#1$1",duration=1)]
 [Delay(time=2)]
-[name="劳拉"]道尔顿先生，您竟然真的替我多要了一场戏......还是空中悬吊的特技镜头？
+[name="劳拉"]道尔顿先生，您竟然真的替我多要了一场戏……还是空中悬吊的特技镜头？
 [name="劳拉"]之前我怎么求斯蒂芬导演他都不愿意，您一说他竟然就答应了？
 [dialog]
 [charslot]
@@ -19,7 +19,7 @@
 [Delay(time=1.5)]
 [name="道尔顿"]小意思。我是格蕾塔女士亲自请来的男主演，斯蒂芬怎么敢不答应我的要求？
 [charslot(slot="m",name="avg_npc_1848_1#1$1")]
-[name="劳拉"]我还是第一次接触威亚......一定会好好地珍惜这次机会的！我先去准备了！
+[name="劳拉"]我还是第一次接触威亚……一定会好好地珍惜这次机会的！我先去准备了！
 [charslot(slot="m",name="avg_npc_1837_1#2$1")]
 [name="道尔顿"]去吧。
 [Dialog]
@@ -31,7 +31,7 @@
 [charslot(slot="m",name="avg_npc_1837_1#6$1")]
 [name="道尔顿"]装得倒谦卑，要是我不知道你暗地里找斯蒂芬想动我主演的戏份，大概就被你骗过去了。
 [charslot(slot="m",name="avg_npc_1837_1#2$1")]
-[name="道尔顿"]第一次接触威亚......正好。
+[name="道尔顿"]第一次接触威亚……正好。
 [name="道尔顿"]新人就应该有新人的姿态，就算到时候在天上吊上几个小时，也得撑住，对吧？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -42,14 +42,14 @@
 [Delay(time=1.5)]
 [name="劳拉"]谢莉，谢莉！我又新加了一场戏，需要用一下威亚，你可以帮我准备一下吗？
 [charslot(slot="m",name="avg_npc_1836_1#1$1")]
-[name="谢莉"]......不可能。
+[name="谢莉"]……不可能。
 [name="谢莉"]我知道你很爱演戏，我也知道你很有热情，但你这是第几次新加戏了？你这是第几次扰乱我为整个剧组定下的拍摄进度了？
 [name="谢莉"]大小姐，你有一点点责任心吗？我不会为了你这样轻飘飘的一句话改动整个排期，这个剧组不是围着你一个人转的。
 [charslot(slot="m",name="avg_npc_1848_1#1$1")]
-[name="劳拉"]抱歉谢莉，我不是故意要增加你的工作难度，但是道尔顿先生说他已经征得了导演的同意，这个应该是已经定下了的......
+[name="劳拉"]抱歉谢莉，我不是故意要增加你的工作难度，但是道尔顿先生说他已经征得了导演的同意，这个应该是已经定下了的……
 [charslot(slot="m",name="avg_npc_1836_1#6$1")]
 [name="谢莉"]道尔顿？
-[name="谢莉"]......
+[name="谢莉"]……
 [charslot(slot="m",name="avg_npc_1836_1#1$1")]
 [name="谢莉"]我知道了。
 [charslot(slot="m",name="avg_npc_1848_1#1$1")]
@@ -61,7 +61,7 @@
 [delay(time=2.5)]
 [charslot(slot="m",name="avg_npc_1836_1#1$1")]
 [name="谢莉"]（道尔顿昨天才和我骂过你一点新人的规矩都没有，怎么可能今天就好心给你加戏。）
-[name="谢莉"]（威亚，是吧......）
+[name="谢莉"]（威亚，是吧……）
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -69,16 +69,16 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_1838_1#1$1",duration=1)]
 [Delay(time=2)]
-[name="迈克尔"]哇，小劳拉，今天看上去真是光彩照人啊！下一场空中特技镜头又累又苦，没有一个演员会像你这么高兴......
+[name="迈克尔"]哇，小劳拉，今天看上去真是光彩照人啊！下一场空中特技镜头又累又苦，没有一个演员会像你这么高兴……
 [charslot(slot="m",name="avg_npc_1848_1#1$1")]
 [name="劳拉"]可现在是我最兴奋最幸福的时候了。下一场戏是这部电影里唯一一场完完整整属于我的戏份，我一定要把它拍好。
 [charslot(slot="m",name="avg_npc_1838_1#1$1")]
 [name="迈克尔"]哦，你真是太可爱了。
-[name="迈克尔"]千万别伤到自己，你要是实在累得不行了就来找我，今天晚上我会一直在自己的房间里......
+[name="迈克尔"]千万别伤到自己，你要是实在累得不行了就来找我，今天晚上我会一直在自己的房间里……
 [charslot(slot="m",name="avg_npc_1848_1#1$1")]
 [name="劳拉"]啊！玛丽昂小姐，你是来帮迈克尔先生补妆的吗？
 [charslot(slot="m",name="avg_npc_1839_1#1$1")]
-[name="玛丽昂"]......
+[name="玛丽昂"]……
 [charslot(slot="m",name="avg_npc_1848_1#1$1")]
 [name="劳拉"]那我先去做准备了，晚点再见！
 [Dialog]
@@ -93,10 +93,10 @@
 [charslot(slot="r",name="avg_npc_1839_1#5$1",focus="r")]
 [name="玛丽昂"]见什么见！
 [charslot(slot="l",name="avg_npc_1838_1#3$1",focus="l")]
-[name="迈克尔"]不、不见......不见......你别生气啊小玛丽。
+[name="迈克尔"]不、不见……不见……你别生气啊小玛丽。
 [charslot(slot="r",name="avg_npc_1839_1#1$1",focus="r")]
 [name="玛丽昂"]一不在我眼皮子底下就开始拈花惹草？我们才在一起多久你就厌倦了？
-[name="玛丽昂"]演戏的时候就在眉来眼去......喜欢年轻的就去找她啊，吊着我干嘛？之后的妆造你也让劳拉帮你做吧！
+[name="玛丽昂"]演戏的时候就在眉来眼去……喜欢年轻的就去找她啊，吊着我干嘛？之后的妆造你也让劳拉帮你做吧！
 [Dialog]
 [charslot(slot = "l",posfrom = "0,0", posto = "100,0",duration = 1)]
 [delay(time=1.5)]
@@ -104,16 +104,16 @@
 [name="迈克尔"]别说气话，亲爱的。我对你是真心实意的。
 [name="迈克尔"]要是你真的不喜欢，我以后再也不主动接触她了，我发誓！
 [charslot(slot="r",name="avg_npc_1839_1#1$1",focus="r")]
-[name="玛丽昂"]......真的？
+[name="玛丽昂"]……真的？
 [charslot(slot="l",name="avg_npc_1838_1#1$1",focus="l")]
 [name="迈克尔"]真的！
 [charslot(slot="r",name="avg_npc_1839_1#1$1",focus="r")]
-[name="玛丽昂"]......
+[name="玛丽昂"]……
 [name="玛丽昂"]我知道你的那点小毛病，但现在正是你事业的上升期，不要做那些蠢事，也不要辜负我对你的心意。
 [name="玛丽昂"]那个叫劳拉的年轻女孩既聒噪又招摇，她一定没安好心，不值得你花心思。
 [name="玛丽昂"]从现在开始，别主动接近她。
 [charslot(slot="r",name="avg_npc_1839_1#5$1",focus="r")]
-[name="玛丽昂"]你不能跟她说话，也不能有肢体接触，哪怕她快死了都跟你没有关系......听明白了吗？
+[name="玛丽昂"]你不能跟她说话，也不能有肢体接触，哪怕她快死了都跟你没有关系……听明白了吗？
 [charslot(slot="l",name="avg_npc_1838_1#1$1",focus="l")]
 [name="迈克尔"]亲爱的？
 [charslot(slot = "m", focus = "n")]
@@ -131,14 +131,14 @@
 [Delay(time=1)]
 [name="迈克尔"]怎么还没到我的戏份啊，发生什么了？
 [charslot(slot="m",name="avg_npc_1845_1#1$1")]
-[name="工作人员"]道尔顿先生那儿有些事要处理，片场的人都调过去了，没有人给我下达指示......你看，还有个新人被晾在这儿呢。
+[name="工作人员"]道尔顿先生那儿有些事要处理，片场的人都调过去了，没有人给我下达指示……你看，还有个新人被晾在这儿呢。
 [charslot(slot="m",name="avg_npc_1838_1#4$1")]
-[name="迈克尔"]唉，真可怜......
+[name="迈克尔"]唉，真可怜……
 [charslot(slot="m",name="avg_npc_1845_1#1$1")]
 [name="工作人员"]你可不是同情心这么丰富的人，说吧，是不是想勾搭人家？
 [charslot(slot="m",name="avg_npc_1838_1#1$1")]
 [name="迈克尔"]还是你了解我。
-[name="迈克尔"]让我去看看那个可怜的小美人......
+[name="迈克尔"]让我去看看那个可怜的小美人……
 [stopmusic(fadetime=2)]
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
@@ -147,7 +147,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [charslot(slot="m",name="avg_npc_1838_1#1$1",duration=0.5)]
 [Delay(time=1)]
-[name="迈克尔"]小玛丽早上刚生过气，我答应过她不再主动接近小劳拉......不过......
+[name="迈克尔"]小玛丽早上刚生过气，我答应过她不再主动接近小劳拉……不过……
 [name="迈克尔"]让她主动接近我不就好了吗？
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -165,7 +165,7 @@
 不过——
 [name="迈克尔"]那不是正好吗？
 [name="迈克尔"]小劳拉察觉到情况不对就会主动向我求救。
-[name="迈克尔"]这样一来我既会成为她心目中的英雄，顺理成章地跟她温存，又不算违反我对小玛丽发的誓......两全其美！
+[name="迈克尔"]这样一来我既会成为她心目中的英雄，顺理成章地跟她温存，又不算违反我对小玛丽发的誓……两全其美！
 [name="迈克尔"]再多吊一会儿吧。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
@@ -175,17 +175,17 @@
 [delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1838_1#5$1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
-[name="迈克尔"]劳拉，为什么......为什么你还不向别人求助？我不是就在这里吗！
+[name="迈克尔"]劳拉，为什么……为什么你还不向别人求助？我不是就在这里吗！
 [dialog]
 [charslot(slot = "m", focus = "n")]
 [playsound(key="$d_avg_wiatear",volume=0.5)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_1838_1#5$1")]
-[name="迈克尔"]已经过去了好几个小时，绳索的声音越来越不对劲了......这是哪里找来的设备，怎么会如此老旧？
+[name="迈克尔"]已经过去了好几个小时，绳索的声音越来越不对劲了……这是哪里找来的设备，怎么会如此老旧？
 [charslot(slot="m",name="avg_npc_1838_1#6$1")]
-[name="迈克尔"]那是......裂口？在保护绑带的地方？小劳拉不可能没注意到啊！
+[name="迈克尔"]那是……裂口？在保护绑带的地方？小劳拉不可能没注意到啊！
 [charslot(slot="m",name="avg_npc_1838_1#3$1")]
-[name="迈克尔"]不行，我得提醒她，我得......
+[name="迈克尔"]不行，我得提醒她，我得……
 [charslot(duration=1)]
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
@@ -195,10 +195,10 @@
 [name="玛丽昂"]咳。
 [charslot]
 迈克尔回头，发现玛丽昂不知何时已经站在远处的墙角，眼神冰冷地看着自己和疲惫的女演员。
-“哪怕她快死了都跟你没有关系......听明白了吗？”
+“哪怕她快死了都跟你没有关系……听明白了吗？”
 迈克尔摸了摸头顶火红的耳朵，撤回了自己的脚步。
 [charslot(slot="m",name="avg_npc_1838_1#2$1")]
-[name="迈克尔"]......既然你选择自己承受代价，那就跟我没有任何关系了。
+[name="迈克尔"]……既然你选择自己承受代价，那就跟我没有任何关系了。
 [name="迈克尔"]这是你要学的第一课，小劳拉。
 [name="迈克尔"]永远不要太认真，哪怕伤害他人也要保护自己，这才是最重要的——
 [Dialog]
@@ -231,7 +231,7 @@
 [name="玛丽昂"]迈克尔？
 [name="玛丽昂"]迈克尔，你怎么了？你想到什么了？
 [charslot(slot="m",name="avg_npc_1839_1#6$1")]
-[name="玛丽昂"]我跟你来到化妆间是要听你解释的，不是看你一惊一乍地发神经的......
+[name="玛丽昂"]我跟你来到化妆间是要听你解释的，不是看你一惊一乍地发神经的……
 [name="玛丽昂"]莫伊拉说，你想离开这个地块，到底是什么意思？
 [charslot(slot="m",name="avg_npc_1838_1#4$1")]
 [name="迈克尔"]亲爱的，我得带着你逃离这里！
@@ -258,8 +258,8 @@
 [charslot(slot="m",name="avg_npc_1829_1#1$1")]
 [name="剧团长"]紧张吗？
 [charslot(slot="m",name="avg_npc_1841_1#1$1")]
-[name="小卢西恩"]......还好，老师。
-[name="小卢西恩"]其他老师们才是主演，我只是助演一个很小很小的角色，在舞台上绝大多数的戏份也只是旁观......
+[name="小卢西恩"]……还好，老师。
+[name="小卢西恩"]其他老师们才是主演，我只是助演一个很小很小的角色，在舞台上绝大多数的戏份也只是旁观……
 [charslot(slot="m",name="avg_npc_1829_1#11$1")]
 [name="剧团长"]但当真正的演出在你面前发生，忍住不逃开，并没有那么简单。
 [name="剧团长"]孩子，这是你新的一课。
@@ -285,12 +285,12 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_1832_1#2$1",duration=1)]
 [Delay(time=2)]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [charslot(slot="m",name="avg_npc_1829_1#1$1")]
 [name="剧团长"]自从顺利完成自己第一次作为主演的剧目后，你终于突破了瓶颈。
 [name="剧团长"]你颈部细小的黑色结晶被遮掩得不留痕迹。观众只当你是璀璨夺目的主演，却不知你已成为迫近死亡的感染者。
 [charslot(slot="m",name="avg_npc_1829_1#12$1")]
-[name="剧团长"]如今，你的表演越发纯熟，你的歌声越发震撼人心，卢西恩......几乎看不出一丝匠气。
+[name="剧团长"]如今，你的表演越发纯熟，你的歌声越发震撼人心，卢西恩……几乎看不出一丝匠气。
 [charslot(slot="m",name="avg_npc_1832_1#1$1")]
 [name="卢西恩"]这是夸奖？
 [charslot(slot="m",name="avg_npc_1829_1#1$1")]
@@ -316,18 +316,18 @@
 [name="懵懂的孩童"]大哥哥，请让让，你挡住路了。
 [name="懵懂的孩童"]我要过去，我要回家。
 [charslot(slot="r",name="avg_npc_1832_1#2$1",focus="r")]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [charslot]
 [charslot(slot="m",name="avg_npc_1829_1#1$1")]
 [name="剧团长"]我想，猩红剧团可以收留这个孩子。
 [charslot(slot="m",name="avg_npc_1832_1#1$1")]
 [name="卢西恩"]收留？
 [charslot(slot="m",name="avg_npc_1832_1#5$1")]
-[name="卢西恩"]她并不知晓，自己的家乡已经不复存在，她并不知晓，此刻自己面前的这支队伍里，或许有些人身上还残留着她至亲的血腥味......
+[name="卢西恩"]她并不知晓，自己的家乡已经不复存在，她并不知晓，此刻自己面前的这支队伍里，或许有些人身上还残留着她至亲的血腥味……
 [charslot(slot="m",name="avg_npc_1829_1#2$1")]
 [name="剧团长"]宿命的相逢，不是吗？
 [name="剧团长"]就像曾经的你与剧团一样。
-[name="剧团长"]或许，我应该让你来当这个孩子的老师，教她怎样融入剧团，怎样拥抱新的人生......教她，重走一遍你的来路。
+[name="剧团长"]或许，我应该让你来当这个孩子的老师，教她怎样融入剧团，怎样拥抱新的人生……教她，重走一遍你的来路。
 [charslot(slot="m",name="avg_npc_1832_1#1$1")]
 [name="卢西恩"]下台之后，演出继续？
 [charslot(slot="m",name="avg_npc_1829_1#1$1")]
@@ -339,10 +339,10 @@
 [Delay(time=2.5)]
 [charslot]
 [charslot(slot = "m",action="zoom", poszoom = "0.5,0.5", scale=0.9,name="avg_npc_045_nn_1#1")]
-[name="懵懂的孩童"]......大哥哥？
+[name="懵懂的孩童"]……大哥哥？
 [charslot]
 [charslot(slot="m",name="avg_npc_1832_1#2$1")]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [charslot]
 [Dialog]
 [playsound(key="$d_gen_walk_n")]
@@ -368,13 +368,13 @@
 [charslot(slot = "right", name = "avg_4198_christ_1#1$1",focus="r")]
 [name="Miss.Christine"]清醒了？
 [charslot(slot = "left", name = "avg_npc_1828_1#1$1",focus="l")]  
-[name="卢西恩"]......
+[name="卢西恩"]……
 [charslot(slot = "right", name = "avg_4198_christ_1#4$1",focus="r")]
 [name="Miss.Christine"]（慵懒的哈欠）
 [charslot(slot = "left", name = "avg_npc_1828_1#2$1",focus="l")]
 [name="卢西恩"]怎么了，女士？
 [charslot(slot = "right", name = "avg_4198_christ_1#5$1",focus="r")]
-[name="Miss.Christine"]执拗的涩味......你的情绪。
+[name="Miss.Christine"]执拗的涩味……你的情绪。
 [charslot(slot = "left", name = "avg_npc_1828_1#2$1",focus="l")]
 [name="卢西恩"]难以下咽？
 [charslot(slot = "right", name = "avg_4198_christ_1#1$1",focus="r")]
@@ -398,7 +398,7 @@
 [name="卢西恩"]所有的伏笔已被铺陈，一切的脉络已被写定，没有人能扯回已经拉开的大幕。
 [name="卢西恩"]唯有，唯有让故事来到谢幕前的高潮，作者才会现身。
 [charslot(slot = "left", name = "avg_npc_1828_1#2$1",focus="l")]
-[name="卢西恩"]......而我才能，杀死他。
+[name="卢西恩"]……而我才能，杀死他。
 [charslot(slot = "right", name = "avg_4198_christ_1#1$1",focus="r")]
 [name="Miss.Christine"]（哈欠）
 [name="Miss.Christine"]当心点，卢西恩。
@@ -406,9 +406,9 @@
 [name="卢西恩"]我知道。
 [charslot(slot = "right", name = "avg_4198_christ_1#4$1",focus="r")]
 [name="Miss.Christine"]我是说，当心你自己。
-[name="Miss.Christine"]我刚刚说过，你的情绪，充满了执拗的涩味......这很危险。
+[name="Miss.Christine"]我刚刚说过，你的情绪，充满了执拗的涩味……这很危险。
 [charslot(slot = "left", name = "avg_npc_1828_1#1$1",focus="l")]
-[name="卢西恩"]......
+[name="卢西恩"]……
 [name="卢西恩"]我向你道歉，Miss.Christine。
 [name="卢西恩"]我不会让你忍受太久。
 [Dialog]

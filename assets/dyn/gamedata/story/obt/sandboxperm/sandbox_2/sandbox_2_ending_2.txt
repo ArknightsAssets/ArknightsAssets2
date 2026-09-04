@@ -8,7 +8,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_971_1#1$1")]
-[name="工程部干员"]最后一处监测点，疗养庭院，样本数据检测......达到标准。
+[name="工程部干员"]最后一处监测点，疗养庭院，样本数据检测……达到标准。
 [charslot(slot="m",name="avg_npc_971_1#1$1")]
 [name="工程部干员"]所有数据收集完毕，净水系统最后一次测试结束，确认可以全面投入使用——辛苦治污小队的帮助。
 [charslot(slot="m",name="avg_385_finlpp_1#10$1",focus="m")]
@@ -28,7 +28,7 @@
 [charslot(slot="m",name="char_1011_purgatory_1#4",focus="m")]
 [name="炎熔"]可露希尔小姐，现在罗德岛还是缺人力的状态，我们两个离开真的没问题吗？
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
-[name="可露希尔"]咳咳，毕竟年给了工程部一大堆没办法拒绝的好东西，而且我都收下了......
+[name="可露希尔"]咳咳，毕竟年给了工程部一大堆没办法拒绝的好东西，而且我都收下了……
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
 [name="可露希尔"]不过放心，在你们回来之前，我们剩下的人肯定能把新基地建好的。
 [dialog]
@@ -40,8 +40,8 @@
 [charslot(slot="m",name="avg_4228_closur_1#7$1",focus="m")]
 [name="可露希尔"]嗯？
 [charslot(slot="m",name="avg_npc_012",focus="m")]
-[name="外勤干员"]数量确认，大型载具十辆，运送货物不明，正在向对方发出识别码提交要求......对方识别码已提交......
-[name="外勤干员"]身份确认......可露希尔小姐，是峯联贸易的车队。
+[name="外勤干员"]数量确认，大型载具十辆，运送货物不明，正在向对方发出识别码提交要求……对方识别码已提交……
+[name="外勤干员"]身份确认……可露希尔小姐，是峯联贸易的车队。
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_transmissionget", volume=1)]
@@ -51,7 +51,7 @@
 [interlude(channel = 2, switch = true)]
 [Delay(time=1)]
 [name="拜松"]——可露希尔小姐！
-[name="拜松"]抱歉，我前不久才听说罗德岛的事情......峯联贸易在维多利亚也有物流线，车上都是物资，希望能够帮到大家。
+[name="拜松"]抱歉，我前不久才听说罗德岛的事情……峯联贸易在维多利亚也有物流线，车上都是物资，希望能够帮到大家。
 [name="拜松"]如果还缺什么，请可露希尔小姐一定告诉我，我会想办法的。
 [Dialog]
 [charslot]
@@ -82,7 +82,7 @@
 [PlayMusic(key="$calm_loop", volume=0.6)]
 [charslot(slot = "m", name = "avg_npc_990_1#10$1",duration=1)]
 [delay(time=2)]
-[name="拜松"]可露希尔小姐......我还有别的事情要和你们说。可能你们已经知道了，但我觉得自己还是要过来确认一下。
+[name="拜松"]可露希尔小姐……我还有别的事情要和你们说。可能你们已经知道了，但我觉得自己还是要过来确认一下。
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
 [name="可露希尔"]你说。
 [charslot(slot = "m", name = "avg_npc_990_1#10$1")]
@@ -90,7 +90,7 @@
 [charslot(slot = "m", name = "avg_npc_990_1#9$1")]
 [name="拜松"]维多利亚现在的情况也很复杂，如果不是我亲自来，可能这批物资都很难送到这里。
 [charslot(slot = "m", name = "avg_npc_990_1#10$1")]
-[name="拜松"]可露希尔小姐，我担心......
+[name="拜松"]可露希尔小姐，我担心……
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]
 [name="可露希尔"]我知道了。精英干员们已经在周围设置了多重防护，外人很难知道基地的准确位置。
 [charslot(slot="m",name="avg_4228_closur_1#1$1",focus="m")]

@@ -18,7 +18,7 @@
 [character(name="avg_npc_262_1#6$1",name2="avg_npc_253_1#1$1",focus=2)]
 [name="菈塔托丝"]尤卡坦，你怎么想？
 [character(name="avg_npc_263_1#2$1")]
-[name="尤卡坦"]......我和露丝意见一致，只不过，恩希欧迪斯老爷不会善罢甘休。
+[name="尤卡坦"]……我和露丝意见一致，只不过，恩希欧迪斯老爷不会善罢甘休。
 [character(name="avg_npc_262_1#6$1",name2="avg_npc_253_1#1$1",focus=2)]
 [name="菈塔托丝"]你至少没你老婆这么说话不过脑子。
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_253_1#1$1",focus=1)]
@@ -27,11 +27,11 @@
 [name="菈塔托丝"]当然是在说你，我的好妹妹。
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_253_1#1$1",focus=2)]
 [name="菈塔托丝"]要不是阿克托斯这个莽汉一遇到和圣山有关的事情就坐不住，我可不想这么早就和恩希欧迪斯翻脸。
-[name="菈塔托丝"]恩希欧迪斯这种人呢，就算他死，也至少会带走你半条命，更何况......
+[name="菈塔托丝"]恩希欧迪斯这种人呢，就算他死，也至少会带走你半条命，更何况……
 [character(name="avg_npc_262_1#8$1",name2="avg_npc_253_1#2$1",focus=2)]
 [name="菈塔托丝"]我怎么这么不信，他会认命呢。
 [character(name="avg_npc_262_1#1$1",name2="avg_npc_253_1#2$1",focus=1)]
-[name="休露丝"]哼，要我说......
+[name="休露丝"]哼，要我说……
 [character(name="avg_npc_262_1#1$1",name2="avg_npc_253_1#1$1",focus=2)]
 [name="菈塔托丝"]我说了安静一点，休露丝。你要是真的非要说点什么，可以出去，然后对着群山说个够。
 [character(name="avg_npc_262_1#1$1",name2="avg_npc_253_1#1$1",focus=2)]
@@ -40,7 +40,7 @@
 [name="休露丝"]啧，知道了，我闭嘴还不行吗。
 [name="休露丝"]（低声）自己说得这么开心。
 [character(name="avg_npc_262_1#9$1",name2="avg_npc_253_1#11$1",focus=2)]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [character(name="avg_npc_268")]
 [name="修士"]阿克托斯老爷到。
 [dialog]
@@ -94,7 +94,7 @@
 [name="修士"]恩、恩希欧迪斯老爷与大长老到！
 [character(name="avg_npc_253_1#4$1",name2="avg_npc_254_1#1$1",focus=1)]
 [name="菈塔托丝"]嗯？
-[name="菈塔托丝"]啧，稀奇了，这两人是怎么会一同......
+[name="菈塔托丝"]啧，稀奇了，这两人是怎么会一同……
 [dialog]
 [character(fadetime=0.5)]
 [delay(time=1)]
@@ -126,7 +126,7 @@
 大长老端坐中央，阿克托斯与菈塔托丝站在一侧，而恩希欧迪斯站在另一侧。
 泾渭分明，一目了然。
 [name="大长老"]以往的三族议会，历来是大家坐在一起，聊一聊今年的各种行事谁家多出一点力，谁家遭了雪难需要援助。
-[name="大长老"]没想到现在会上的议题......唉。
+[name="大长老"]没想到现在会上的议题……唉。
 [playMusic(intro="$longmenoffice_intro", key="$longmenoffice_loop", volume=0.4)]
 [name="阿克托斯"]这就得好好问问恩希欧迪斯了。
 [name="恩希欧迪斯"]不用这么咄咄逼人，阿克托斯。
@@ -225,7 +225,7 @@
 [PlaySound(key="$d_avg_crwddiscuss_inside", channel="slide",loop=true,volume=0.8)]
 [delay(time=1.2)]
 [character(name="avg_172_svrash_1#2$1")]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [stopsound(channel="slide", fadetime=3)]
 [musicvolume(volume=0.4, fadetime=1)]
 [character(name="avg_npc_254_1#5$1")]
@@ -242,7 +242,7 @@
 [name="恩希欧迪斯"]但我实在不忍见到共同治理谢拉格的三族产生裂隙。
 [name="恩希欧迪斯"]三大家族的分歧，就意味着谢拉格的分歧，意味着，耶拉冈德的子民们，将失去共同的家园。
 [character(name="avg_npc_254_1#7$1")]
-[name="阿克托斯"]......恩希欧迪斯，如果你真的这么想，如果你真的有一刻这么想过......
+[name="阿克托斯"]……恩希欧迪斯，如果你真的这么想，如果你真的有一刻这么想过……
 [character(name="avg_npc_254_1#8$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="阿克托斯"]你就该滚出谢拉格，滚回你的维多利亚，还谢拉格一片安宁！
@@ -253,13 +253,13 @@
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]我不知道是什么让你觉得我应该留在维多利亚，是因为那段会议上只有两家出席的日子让你感觉更加实权在握吗？
 [character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]更何况，我领导了希瓦艾什家这些年的改革，这是已经发生的事实......
+[name="恩希欧迪斯"]更何况，我领导了希瓦艾什家这些年的改革，这是已经发生的事实……
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]在我领地上的人们不仅从我带来的生活方式里得到了好处，也在自发地继续推进着这种生活。
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]即使我离开，工厂里的机器也会继续运转，铁轨上的列车也依然会开动。
 [character(name="avg_172_svrash_1#8$1")]
-[name="恩希欧迪斯"]还是说，你们当真认为，如果我今天就这么交出谷地和矿区，停下工厂和铁路的运营......
+[name="恩希欧迪斯"]还是说，你们当真认为，如果我今天就这么交出谷地和矿区，停下工厂和铁路的运营……
 [character(name="avg_172_svrash_1#8$1")]
 [name="恩希欧迪斯"]在这些地方工作的人们，受益于其产出的人们，他们会同意？
 [character(name="avg_npc_253_1#1$1")]
@@ -283,17 +283,17 @@
 [character(name="avg_172_svrash_1#8$1")]
 [name="恩希欧迪斯"]你们将喀兰贸易视为谢拉格的威胁，本来就是一个天大的笑话。
 [character(name="avg_npc_253_1#11$1")]
-[name="菈塔托丝"]呵......
+[name="菈塔托丝"]呵……
 [character(name="avg_npc_253_1#1$1")]
 [name="菈塔托丝"]听起来很有气势，恩希欧迪斯。我记起来了，你确实从小就很会说这类话。
 [character(name="avg_npc_254_1#7$1")]
 [name="阿克托斯"]别废话了，恩希欧迪斯。
 [character(name="avg_npc_254_1#7$1")]
-[name="阿克托斯"]你今天......
+[name="阿克托斯"]你今天……
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]我今天要是不交，早就驻扎在谷地附近的古罗将军就会直接“接管”谷地。
 [character(name="avg_npc_254_1#1$1")]
-[name="阿克托斯"]你......
+[name="阿克托斯"]你……
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]别急着诉诸武力，阿克托斯。
 [character(name="avg_172_svrash_1#1$1")]
@@ -306,7 +306,7 @@
 [name="恩希欧迪斯"]——谷地和矿区，我完全可以双手奉上。
 [character(name="avg_npc_253_1#8$1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="菈塔托丝"]......此话当真？
+[name="菈塔托丝"]……此话当真？
 [character(name="avg_npc_254_1#1$1")]
 [name="阿克托斯"]嘴上说得好听！恩希欧迪斯，这里可没有人会被你的鬼话糊弄！
 [character(name="avg_172_svrash_1#1$1")]
@@ -323,7 +323,7 @@
 [name="恩希欧迪斯"]希瓦艾什家，乃至在座各位的每一寸领地，都是基于耶拉冈德对我们的信任而被交予，我们不过都是在替其管理。
 [stopmusic(fadetime=5)]
 [character(name="avg_npc_253_1#8$1")]
-[name="菈塔托丝"]......等等，你该不会......
+[name="菈塔托丝"]……等等，你该不会……
 [character(name="avg_172_svrash_1#10$1")]
 [name="恩希欧迪斯"]正如你所想，菈塔托丝。
 [character(name="avg_172_svrash_1#1$1")]
@@ -374,29 +374,29 @@
 [Delay(time=2)]
 [character(name="avg_206_gnosis_1#1$1",fadetime=1.5)]
 [delay(time=1.5)]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=1)]
-[name="多嘴的女贵族"]看，那边的是不是埃德怀斯家的那位......
+[name="多嘴的女贵族"]看，那边的是不是埃德怀斯家的那位……
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=2)]
 [name="刻薄的男贵族"]那个诺希斯居然还有脸出现在这儿，我呸。
 [character(name="avg_206_gnosis_1#6$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=1)]
 [name="多嘴的女贵族"]呀，他看过来了！
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=2)]
-[name="刻薄的男贵族"]啧，瞧他的眼神，真不知道恩希欧迪斯大人当初为什么要对他委以重任，明明是他的父母害死......
+[name="刻薄的男贵族"]啧，瞧他的眼神，真不知道恩希欧迪斯大人当初为什么要对他委以重任，明明是他的父母害死……
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=1)]
 [name="多嘴的女贵族"]呸呸呸，快住嘴，在圣山上说这些会触怒耶拉冈德的！
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=1)]
-[name="多嘴的女贵族"]......不过，他的好日子也到头了，恩希欧迪斯大人明显已经无法再忍耐他的行为。
+[name="多嘴的女贵族"]……不过，他的好日子也到头了，恩希欧迪斯大人明显已经无法再忍耐他的行为。
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=2)]
 [name="刻薄的男贵族"]真的？恩希欧迪斯大人终于要撤下他了？
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=1)]
-[name="多嘴的女贵族"]是啊，你不知道吗？上个月的议会里，恩希欧迪斯大人当场撤了他的职......
+[name="多嘴的女贵族"]是啊，你不知道吗？上个月的议会里，恩希欧迪斯大人当场撤了他的职……
 [character(name="avg_npc_273_1#1$1",name2="avg_npc_271_1#1$1",focus=2)]
 [name="刻薄的男贵族"]原来是已经撤下了？那真是太好了！早该管管了！
 [character(name2="avg_206_gnosis_1#6$1")]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [dialog]
 [character(name="char_empty",name2="avg_206_gnosis_1#6$1")]
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#6$1",fadetime=1.5)]
@@ -408,39 +408,39 @@
 [character(name="avg_npc_255_1#5$1",name2="avg_206_gnosis_1#4$1",focus=1)]
 [name="莫希"]是，很抱歉。
 [character(name="avg_npc_255_1#5$1",name2="avg_206_gnosis_1#4$1",focus=1)]
-[name="莫希"]只是......我接到急信。罗德岛一行乘坐的列车已经快要抵达圣山脚下的列车站了。
+[name="莫希"]只是……我接到急信。罗德岛一行乘坐的列车已经快要抵达圣山脚下的列车站了。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#4$1",focus=1)]
 [name="莫希"]您之前对这家公司有一些兴趣，要去见一见吗？
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]雪山都已经到了这样的关头，如果他们就是被引入的外力，那么该见的时候自然会见到，不必特别安排。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#6$1",focus=2)]
-[name="诺希斯"]况且......我现在只是个停职察看的职员，又该以什么立场去见他们？
+[name="诺希斯"]况且……我现在只是个停职察看的职员，又该以什么立场去见他们？
 [character(name="avg_npc_255_1#5$1",name2="avg_206_gnosis_1#6$1",focus=1)]
-[name="莫希"]......大人......
+[name="莫希"]……大人……
 [character(name="avg_npc_255_1#5$1",name2="avg_206_gnosis_1#6$1",focus=1)]
-[name="莫希"]......恩希欧迪斯为了讨好另外两大家族，居然把您推出去顶罪，这样的做法实在令人寒心。
+[name="莫希"]……恩希欧迪斯为了讨好另外两大家族，居然把您推出去顶罪，这样的做法实在令人寒心。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#2$1",focus=2)]
 [name="诺希斯"]讨好？恩希欧迪斯的想法绝没有那么简单。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]听说，罗德岛真的成功延缓了恩希亚的矿石病恶化趋势？
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="莫希"]是......
+[name="莫希"]是……
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#8$1",focus=2)]
 [name="诺希斯"]嗯，那倒确实有赢得希瓦艾什家族重视的资本。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]不过被恩希欧迪斯盯上，是福是祸，还不好说。
 [character(name="avg_npc_255_1#3$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="莫希"]您的意思是......
+[name="莫希"]您的意思是……
 [character(name="avg_npc_255_1#3$1",name2="avg_206_gnosis_1#4$1",focus=2)]
 [name="诺希斯"]我这话里没有任何额外的意思。
 [character(name="avg_npc_255_1#3$1",name2="avg_206_gnosis_1#9$1",focus=2)]
 [name="诺希斯"]如何，听说我被撤职，想必公司里的那些人就和刚刚那两个小贵族一样，全都在拍手称快吧。
 [character(name="avg_npc_255_1#8$1",name2="avg_206_gnosis_1#9$1",focus=1)]
-[name="莫希"]......他们都不懂诺希斯大人的价值。
+[name="莫希"]……他们都不懂诺希斯大人的价值。
 [character(name="avg_npc_255_1#8$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]用价值一词来形容一个人，就意味着此人可被衡量。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="莫希"]大人......
+[name="莫希"]大人……
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]恩希欧迪斯应该已经在三族议会上提出了他那个让圣女成为统领三大家族之人的想法。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
@@ -448,7 +448,7 @@
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#2$1",focus=2)]
 [name="诺希斯"]恩希欧迪斯，你终于还是踏出了这一步。
 [character(name="avg_npc_255_1#1$1",name2="avg_206_gnosis_1#2$1",focus=1)]
-[name="莫希"]......您是最了解恩希欧迪斯的人，只有您能阻止他的野心了。
+[name="莫希"]……您是最了解恩希欧迪斯的人，只有您能阻止他的野心了。
 [dialog]
 [character(fadetime=0.7)]
 [delay(time=2)]
@@ -459,7 +459,7 @@
 [Blocker(a=0.15, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [delay(time=2.5)]
 [character(name="avg_206_gnosis_1#1$1",fadetime=0.5)]
-[name="诺希斯"]......
+[name="诺希斯"]……
 [character(name="avg_206_gnosis_1#8$1")]
 [name="诺希斯"]风大了，要下雪了。
 [StopSound(channel="bgs", fadetime=1)]
@@ -489,7 +489,7 @@
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Subtitle(text="恩希欧迪斯的意思，难道是要让圣女成为谢拉格的国王？！", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="不可能！那可是恩希欧迪斯！", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
-[Subtitle(text="但是，他刚才说的那些想法感觉是认真的......", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="但是，他刚才说的那些想法感觉是认真的……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="不管怎么说，要是谢拉格真的能在圣女大人的领导下团结在一起该有多好！耶拉冈德的土地，确实该归于耶拉冈德！", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -500,7 +500,7 @@
 [delay(time=3)]
 [musicvolume(volume=0.4, fadetime=1)]
 [character(name="avg_npc_253_1#8$1")]
-[name="菈塔托丝"]......恩希欧迪斯，你知道你在说什么吗？
+[name="菈塔托丝"]……恩希欧迪斯，你知道你在说什么吗？
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]一清二楚。
 [character(name="avg_172_svrash_1#1$1")]
@@ -593,11 +593,11 @@
 “在祂的带领下，谢拉格欣欣向荣，愈发繁盛。”
 [delay(time=1.5)]
 [character(name="avg_npc_254_1#7$1")]
-[name="阿克托斯"]......
+[name="阿克托斯"]……
 [character(name="avg_172_svrash_1#1$1")]
 [name="恩希欧迪斯"]阿克托斯，告诉我，第三百二十一页第一行写了什么？
 [character(name="avg_npc_254_1#1$1")]
-[name="阿克托斯"]“......在祂执掌王国三百年后，有一日，祂忽然将王位传给了祂的副手，消失在了风雪之中。”
+[name="阿克托斯"]“……在祂执掌王国三百年后，有一日，祂忽然将王位传给了祂的副手，消失在了风雪之中。”
 [character(name="avg_npc_253_1#2$1")]
 [name="菈塔托丝"]“从此，谢拉格被交到了人的手上。”
 [character(name="avg_172_svrash_1#1$1")]
@@ -617,13 +617,13 @@
 一刹那，在场所有贵族的目光，都聚焦在了阿克托斯身上。
 [character(name="avg_npc_254_1#4$1")]
 [CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="阿克托斯"]你......！恩希欧迪斯，你怎么敢！
+[name="阿克托斯"]你……！恩希欧迪斯，你怎么敢！
 [character(name="avg_npc_253_1#9$1")]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [character(name="avg_npc_253_1#10$1")]
 [name="菈塔托丝"]恩希欧迪斯，若你只凭这种程度的挑衅，就对我们的反应有所期待，那就太令人失望了。
 [character(name="avg_172_svrash_1#1$1")]
-[name="恩希欧迪斯"]......
+[name="恩希欧迪斯"]……
 [character(name="avg_npc_253_1#1$1")]
 [name="菈塔托丝"]圣女大人出身希瓦艾什家，此事无人不知。
 [character(name="avg_npc_253_1#1$1")]
@@ -633,7 +633,7 @@
 [character(name="avg_npc_253_1#1$1")]
 [name="菈塔托丝"]圣女大人就任至今，行事从不偏颇。事到如今，我们又岂会因其世俗的出身而对其有所怀疑？
 [character(name="avg_npc_254_1#1$1")]
-[name="阿克托斯"]......
+[name="阿克托斯"]……
 [character(name="avg_npc_253_1#1$1")]
 [name="菈塔托丝"]正如你方才所说，耶拉冈德胸怀宽广，决定把谢拉格的未来交予祂的子民。
 [character(name="avg_npc_253_1#1$1")]
@@ -663,7 +663,7 @@
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#1$1",fadetime=0.7)]
 [delay(time=0.7)]
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]......
+[name="恩雅"]……
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#5$1",focus=2)]
 [name="恩雅"]外面是不是下雪了。
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#5$1",focus=1)]
@@ -671,15 +671,15 @@
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
 [name="恩雅"]不太一样。
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#3$1",focus=2)]
-[name="恩雅"]......
+[name="恩雅"]……
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]......也就是说，恩希欧迪斯提出三家共同把权力交给我，由我来决断谢拉格的未来？
+[name="恩雅"]……也就是说，恩希欧迪斯提出三家共同把权力交给我，由我来决断谢拉格的未来？
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="雅儿"]是的。
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="雅儿"]恩雅，你怎么想？
 [character(name="avg_npc_250_1#1$1",name2="avg_174_slbell_1#10$1",focus=2)]
-[name="恩雅"]我......
+[name="恩雅"]我……
 [dialog]
 [character]
 [playsound(key="$d_gen_walk_n")]
@@ -705,33 +705,33 @@
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
 [name="恩雅"]大长老这时来找我，看来是已有进展？
 [character(name="avg_npc_258_1#7$1",name2="avg_174_slbell_1#1$1",focus=1)]
-[name="大长老"]......你这孩子，从小就聪慧。
+[name="大长老"]……你这孩子，从小就聪慧。
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]事态发生到这一步，三家之间的矛盾已经形同水火。
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
-[name="大长老"]三族议会前，希瓦艾什曾向我透出一二暗示......在如今的局面下，他所提的倒也不失为缓和之策。
+[name="大长老"]三族议会前，希瓦艾什曾向我透出一二暗示……在如今的局面下，他所提的倒也不失为缓和之策。
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]......
+[name="恩雅"]……
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
 [name="恩雅"]看来大长老还是不赞同我在上次会议的举动。
 [character(name="avg_npc_258_1#3$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]唉，恩雅啊。
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
-[name="大长老"]来......孩子，看这外头，你可知霜雪要积累多少年月，才能铺满这山野？
+[name="大长老"]来……孩子，看这外头，你可知霜雪要积累多少年月，才能铺满这山野？
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]你又可知，要过多少年月，才有我们脚下圣洁的山巅？
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#3$1",focus=2)]
-[name="恩雅"]......恩雅明白。
+[name="恩雅"]……恩雅明白。
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
 [name="恩雅"]但——“祂的泪是永不融化的冰，祂的背是坚不可摧的山岩，祂的呼吸是冬日的寒风，祂的笑是春日的暖阳。”
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
 [name="恩雅"]如若一切都是耶拉冈德的馈赠，那么耶拉冈德的子民又何需畏惧风雪？
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
-[name="大长老"]......
+[name="大长老"]……
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
-[name="大长老"]......在这方面，你与他呀，相似......却又不同......
+[name="大长老"]……在这方面，你与他呀，相似……却又不同……
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]您说什么......？
+[name="恩雅"]您说什么……？
 [character(name="avg_npc_258_1#2$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]没什么，老头子的自言自语罢了。
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
@@ -741,19 +741,19 @@
 [character(name="avg_npc_258_1#6$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]只是，这样大的雪啊，积了这么多年，若一朝崩塌，得埋葬多少耶拉冈德的子民呢？
 [character(name="avg_npc_258_1#6$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]......
+[name="恩雅"]……
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]对老朽来说，谢拉格的安宁，总是排在第一位。
 [character(name="avg_npc_258_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]相信圣女大人，定也与老朽一样。
 [character(name="avg_npc_258_1#2$1",name2="avg_174_slbell_1#1$1",focus=1)]
-[name="大长老"]唔......时间也差不多了。
+[name="大长老"]唔……时间也差不多了。
 [character(name="avg_npc_258_1#2$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="大长老"]三位大人还在大殿等着圣女大人。圣女大人露面不能太早，却也不宜太迟，现在正合适。
 [character(name="avg_npc_250_1#1$1")]
 [name="雅儿"]两位大人请这边走。
 [character(name="avg_npc_258_1#2$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]......好的。
+[name="恩雅"]……好的。
 [dialog]
 [Dialog]
 [musicvolume(volume=0.2, fadetime=1)]
@@ -766,10 +766,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
-[name="恩雅"]谢拉格的安宁......
+[name="恩雅"]谢拉格的安宁……
 [name="恩雅"]任这雪在脚下继续积压，不由我们进行疏导，谢拉格便有安宁了吗？
-[name="恩雅"]......
-[name="恩雅"]耶拉冈德，请注视您的子民......
+[name="恩雅"]……
+[name="恩雅"]耶拉冈德，请注视您的子民……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -824,7 +824,7 @@
 [character(name="avg_172_svrash_1#2$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="恩希欧迪斯"]圣女大人说笑了。
 [character(name="avg_172_svrash_1#2$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]......
+[name="恩雅"]……
 [character(name="avg_172_svrash_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
 [name="恩雅"]听说您有位妹妹返回了谢拉格。
 [character(name="avg_172_svrash_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
@@ -838,16 +838,16 @@
 [character(name="avg_172_svrash_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
 [name="恩雅"]恩希欧迪斯大人对妹妹这么关心，真是令人赞叹。
 [character(name="avg_172_svrash_1#2$1",name2="avg_174_slbell_1#1$1",focus=1)]
-[name="恩希欧迪斯"]......圣女大人过誉了。
+[name="恩希欧迪斯"]……圣女大人过誉了。
 [character(name="avg_172_svrash_1#1$1",name2="avg_174_slbell_1#1$1",focus=1)]
 [name="恩希欧迪斯"]圣女大人想必已经了解我刚才的提案，不知道您意下如何？
 [character(name="avg_172_svrash_1#1$1",name2="avg_174_slbell_1#1$1",focus=2)]
-[name="恩雅"]......阿克托斯大人与菈塔托丝大人作何想法？
+[name="恩雅"]……阿克托斯大人与菈塔托丝大人作何想法？
 [character(name="avg_npc_254_1#7$1")]
-[name="阿克托斯"]......我阿克托斯，对耶拉冈德之信仰，天地可鉴，别说是由圣女大人来做我们三家的调停人——
+[name="阿克托斯"]……我阿克托斯，对耶拉冈德之信仰，天地可鉴，别说是由圣女大人来做我们三家的调停人——
 [character(name="avg_npc_253_1#4$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="菈塔托丝"]慢着，阿克托斯......！
+[name="菈塔托丝"]慢着，阿克托斯……！
 [character(name="avg_npc_254_1#1$1")]
 [name="阿克托斯"]——就是将这家主之位交给圣女大人，又有何妨？
 [character(name="avg_174_slbell_1#1$1")]
@@ -857,15 +857,15 @@
 谁能在这个时候说不？
 谁敢在这个时候说不？
 [character(name="avg_npc_253_1#2$1")]
-[name="菈塔托丝"]......
+[name="菈塔托丝"]……
 [character(name="avg_npc_253_1#9$1")]
 [name="菈塔托丝"]由圣女大人来做三大家族的调停人，对眼下的局势来说，确实是最好的选择。
 [character(name="avg_174_slbell_1#1$1")]
-[name="恩雅"]......
+[name="恩雅"]……
 [character(name="avg_174_slbell_1#1$1")]
 [name="恩雅"]我知道了。
 [character(name="avg_174_slbell_1#1$1")]
-[name="恩雅"]既然三大家族的家主都认为此事可行，愿将信任交付予我......
+[name="恩雅"]既然三大家族的家主都认为此事可行，愿将信任交付予我……
 [character(name="avg_174_slbell_1#3$1")]
 [name="恩雅"]那我——
 [delay(time=1.2)]

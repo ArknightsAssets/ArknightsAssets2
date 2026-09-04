@@ -24,7 +24,7 @@
 [character(name="avg_486_espumo_1#3")]
 [name="埃内斯托"]又见面了，陈小姐。
 [character(name="avg_1013_spchen_1#1")]
-[name="陈"]......你该好好躺在那。
+[name="陈"]……你该好好躺在那。
 [character(name="avg_486_espumo_1#1")]
 [name="埃内斯托"]我也想这么做，最好我睁眼之后，无论胜败，这件事都结束了。
 [character(name="avg_486_espumo_1#4")]
@@ -32,9 +32,9 @@
 [character(name="avg_1013_spchen_1#1")]
 [name="陈"]你打不过我的。
 [character(name="avg_486_espumo_1#1")]
-[name="埃内斯托"]我现在越来越庆幸自己一开始将你们当做最大的敌人来对待了......如果我没有这么做，计划可能无法走到这一步。
+[name="埃内斯托"]我现在越来越庆幸自己一开始将你们当做最大的敌人来对待了……如果我没有这么做，计划可能无法走到这一步。
 [character(name="avg_1013_spchen_1#1")]
-[name="陈"]你......不像是那种狂热分子，为什么一定要做这样的事？
+[name="陈"]你……不像是那种狂热分子，为什么一定要做这样的事？
 [character(name="avg_486_espumo_1#1")]
 [name="埃内斯托"]事到如今，让我说说我真实的想法吧。
 [character(name="avg_486_espumo_1#7")]
@@ -65,7 +65,7 @@
 [name="埃内斯托"]他不知道。他其实不知道玻利瓦尔会是一个怎样的国家。
 [name="埃内斯托"]而坎黛拉女士至少找到了一条路，她看到了它存在的意义，并打算让这种意义成为现实。
 [character(name="avg_1013_spchen_1#1")]
-[name="陈"]......歪理邪说。
+[name="陈"]……歪理邪说。
 [character(name="avg_486_espumo_1#1")]
 [name="埃内斯托"]好过空口白话，不是吗？
 [character(name="avg_1013_spchen_1#1")]
@@ -90,7 +90,7 @@
 [name="埃内斯托"]而现在，还不到结束的时候。
 [name="埃内斯托"]所以，我不会让你过去的。
 [character(name="avg_1013_spchen_1#1")]
-[name="陈"]......既然如此，那就没什么好说的了。
+[name="陈"]……既然如此，那就没什么好说的了。
 [character(name="avg_486_espumo_1#1")]
 [name="埃内斯托"]是的，认识你很高兴，陈小姐。
 [name="埃内斯托"]如果不是在这种情况下认识，我还挺想好好带着你和林小姐认识一下这座城市的。
@@ -230,7 +230,7 @@
 [Character(name="avg_npc_205",name2="avg_npc_196_1#1",focus=1)]
 [name="不屈的参赛选手"]懂了。
 [Character(name="avg_npc_196_1#1")]
-[name="林雨霞"]那么......
+[name="林雨霞"]那么……
 [dialog]
 [character]
 [delay(time=1)]
@@ -241,12 +241,12 @@
 [playsound(key="$rungeneral")]
 [character(name="avg_421_laplum_1",fadetime=0.5)]
 [delay(time=0.7)]
-[name="拉菲艾拉"]可恶，来晚了吗......
+[name="拉菲艾拉"]可恶，来晚了吗……
 [name="拉菲艾拉"]埃内斯托说你会在这里，果然没错。
 [dialog]
 [character]
 [character(name="avg_npc_196_1#1")]
-[name="林雨霞"]（埃内斯托......被陈晖洁解决后醒过来马上就判明了状况吗。）
+[name="林雨霞"]（埃内斯托……被陈晖洁解决后醒过来马上就判明了状况吗。）
 [name="林雨霞"]（是个人才，可惜了。）
 [name="林雨霞"]（而且，这个小妹妹，没想到在这里又遇到了她。）
 [Character(name="avg_421_laplum_1",name2="avg_npc_196_1#1",focus=2)]
@@ -275,7 +275,7 @@
 [Character(name="avg_421_laplum_1",name2="avg_npc_196_1#1",focus=1)]
 [name="拉菲艾拉"]我也不是很清楚，但是哥哥和爸爸都说这座城市很坏，我听他们的。
 [Character(name="avg_421_laplum_1",name2="avg_npc_196_1#1",focus=2)]
-[name="林雨霞"]......你应该有自己的主见，小妹妹。有的时候，长辈是需要晚辈帮助的。
+[name="林雨霞"]……你应该有自己的主见，小妹妹。有的时候，长辈是需要晚辈帮助的。
 [name="林雨霞"]他们有着自己的经验，也会拘泥于自己的经验。
 [name="林雨霞"]而当你接过他们的班时，你不能只走他们的老路。
 [Character(name="avg_421_laplum_1",name2="avg_npc_196_1#1",focus=2)]
@@ -339,9 +339,9 @@
 [character(name2="avg_1013_spchen_1#6",focus=-1)]
 [name="林雨霞"]我知道，我现在不在人质身边，他们应该已经逃出去了。
 [character(name2="avg_1013_spchen_1#4")]
-[name="陈"]你到底......
+[name="陈"]你到底……
 [character(name2="avg_1013_spchen_1#4",focus=-1)]
-[name="林雨霞"]相信我。你现在来底层，我们一起......
+[name="林雨霞"]相信我。你现在来底层，我们一起……
 [dialog]
 [CharacterCutin(widgetID="1",fadetime=0)]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
@@ -358,7 +358,7 @@
 [name="潘乔"]结果他送来的两个人，厉害倒是挺厉害，脑子却不清楚。
 [name="潘乔"]看来，魏彦吾和坎黛拉也是一路货色。
 [character(name="avg_1013_spchen_1#6")]
-[name="陈"]你......
+[name="陈"]你……
 [Character(name="avg_npc_192_1#4")]
 [name="潘乔"]你们这种眼里只有钱，脑子里只有享乐的人，我真是恨不得把你们杀得一干二净。
 [name="潘乔"]我不知道你们龙门是怎么样的，但是自我出生起，这个国家每时每刻都在流血。
@@ -374,7 +374,7 @@
 [Delay(time=1)]
 [Character(name="avg_1013_spchen_1#7")]
 [name="陈"]（为什么你要这么做？你真的认为自己正确吗？即使这么做会流许多的血？）
-[name="陈"]（这些问题......毫无意义。）
+[name="陈"]（这些问题……毫无意义。）
 [name="陈"]（在他眼中，我就是那个阻碍他的人，而我——）
 [Character(name="avg_1013_spchen_1#2")]
 [name="陈"]（我无法反驳他。）

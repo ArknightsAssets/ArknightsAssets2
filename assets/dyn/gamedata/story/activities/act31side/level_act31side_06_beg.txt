@@ -12,7 +12,7 @@
 [PlaySound(key="$d_avg_reedmarshes", volume=0, loop=true, channel="reed")]
 [SoundVolume(volume=1, fadetime=1,channel="reed")]
 “哦，哦，不哭了不哭了，你看窗户外面什么都没有。”
-“还是这些田，还是这些花，都好着呢，不哭了不哭了......”
+“还是这些田，还是这些花，都好着呢，不哭了不哭了……”
 可孩子的哭声渐大，甚至伸出手指向窗外，夫妻二人顺着他的手看向窗外，一头奇异的、惨白的异兽，站在了田埂上。
 [dialog]
 [backgroundTween(xScaleFrom=1, yScaleFrom=1, xScaleTo=1.05, yScaleTo=1.05, duration=3)]
@@ -35,7 +35,7 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1243_1#1$1",duration=1)]
 [delay(time=1.5)]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot]
 沉默的樵夫拿起了斧子，一缕破碎的红色布带飘过，他抚摸着那粗糙的裂口，似乎想起了什么。
 一双有力的长满刀茧的手，不算白净，但骨节分明，混合着血污和泥泞，将一缕红绸系在他的胳膊上，随后毫无生机地落到地面上。
@@ -45,7 +45,7 @@
 [PlaySound(key="$d_avg_woodensign", volume=1)]
 一阵风吹过，枝干摇晃，木牌阵阵脆响。
 [charslot(slot="m",name="avg_npc_1243_1#1$1")]
-[name="沉默的樵夫"]嗯......
+[name="沉默的樵夫"]嗯……
 [charslot(slot = "m", focus = "n")]
 [PlaySound(key="$d_avg_hgmgrssvcm")]
 一阵诡异的嘶鸣传来，樵夫半睁着浑浊的眼。
@@ -127,8 +127,8 @@
 [charslot(slot="r",name="avg_npc_1250_1#1$1",focus="r")]
 [name="担忧的职农"]当心！
 [charslot(slot="m",name="avg_npc_1249_1#1$1",focus="m")]
-[name="惊慌的职农"]好险......我的头......
-[name="惊慌的职农"]怎么回事......天桩全都失控了？！
+[name="惊慌的职农"]好险……我的头……
+[name="惊慌的职农"]怎么回事……天桩全都失控了？！
 [charslot(slot = "m", focus = "n")]
 [PlaySound(key="$d_avg_drone")]
 [PlaySound(key="$d_avg_drone",channel="1",delay=0.1)]
@@ -138,7 +138,7 @@
 [charslot(slot="m",name="avg_npc_1249_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_npc_1250_1#1$1",focus="r")]
 [name="担忧的职农"]你们看！
-[name="担忧的职农"]日头，怎么变成了这个颜色......
+[name="担忧的职农"]日头，怎么变成了这个颜色……
 [charslot]
 [dialog]
 [Effect(name="$e_demoninfect",layer = 1)]
@@ -153,7 +153,7 @@
 人们抬头望见，日头仿佛忽地落到了西边，照得半边天空血一般的红。
 所有人随之感受到了一种恐惧。
 那是亘古以来便存在于人们内心的恐惧。
-天灾，兽害，病患，饥馑......
+天灾，兽害，病患，饥馑……
 这方天地已经不是他们熟悉的家园。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -173,7 +173,7 @@
 [charslot(slot="r",name="avg_npc_1250_1#1$1",focus="l")]
 [name="惊慌的职农"]这些都是什么东西，是害兽吗？
 [charslot(slot="r",name="avg_npc_1250_1#1$1",focus="r")]
-[name="焦急的职农"]怎么可能！它们是凭空冒出来的，有的还是从土里......四面八方，到处都是！
+[name="焦急的职农"]怎么可能！它们是凭空冒出来的，有的还是从土里……四面八方，到处都是！
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_4122_grabds_1#5$1",duration=0.5)]
@@ -181,7 +181,7 @@
 [playsound(key="$p_skill_ctefltpn")]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4122_grabds_1#6$1")]
-[name="小满"]怎么回事......？这些动物为什么不听话？
+[name="小满"]怎么回事……？这些动物为什么不听话？
 [PlaySound(key="$d_avg_hgmgrssvcm")]
 [charslot(slot="m",name="avg_npc_1244_1#3$1")]
 [name="诡异的织物"]（诡异的嘶鸣）
@@ -200,13 +200,13 @@
 [charslot(slot="r",name="avg_4122_grabds_1#2$1",focus="l")]
 [name="禾生"]你没事吧！
 [charslot(slot="r",name="avg_4122_grabds_1#4$1",focus="r")]
-[name="小满"]我......
+[name="小满"]我……
 [charslot(slot="r",name="avg_4122_grabds_1#5$1",focus="r")]
-[name="小满"]我从来没见过这样的动物，它们看起来......甚至不像是“动物”？
+[name="小满"]我从来没见过这样的动物，它们看起来……甚至不像是“动物”？
 [charslot(slot="l",name="avg_4119_wanqin_1#8$1",focus="l")]
-[name="禾生"]比起害兽，为什么更像社戏传说里的怪物......它们都是从地里长出来的？
+[name="禾生"]比起害兽，为什么更像社戏传说里的怪物……它们都是从地里长出来的？
 [charslot(slot="l",name="avg_4119_wanqin_1#5$1",focus="l")]
-[name="禾生"]试试吧......
+[name="禾生"]试试吧……
 [charslot]
 [playsound(key="$d_avg_windmagic")]
 一阵疾风骤起，怪物的身形被撕扯成细碎的丝线，但又转眼恢复成原状，继续向前爬行。
@@ -232,12 +232,12 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
 [name="禾生"]左乐！这些是什么？
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")]
-[name="左乐"]都退后......三言两语说不清楚。
+[name="左乐"]都退后……三言两语说不清楚。
 [charslot(slot = "m", focus = "n")]
 [PlaySound(key="$d_avg_hgmdspr")]
 左乐用长刀挑起一缕丝线，还没完全举至眼前，丝线随风化去。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
-[name="禾生"]这又是......？
+[name="禾生"]这又是……？
 [charslot(slot="m",name="avg_4121_zuole_1#2$1")]
 [name="左乐"]是。
 [charslot]
@@ -245,23 +245,23 @@
 “天上白玉京，十二楼五城。”
 古人想象过的一座高抵穹宇的城池，此刻却成了灾厄的源头。
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")]
-[name="左乐"]还是让他得逞了......
+[name="左乐"]还是让他得逞了……
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
 [name="禾生"]你到底还知道什么？
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")]
-[name="左乐"]来不及解释了......禾生，帮我一个忙，也是救这里所有人。
-[name="左乐"]去把所有职农聚集起来，让大家尽量待在一起......不，千万不要让任何人落单。
+[name="左乐"]来不及解释了……禾生，帮我一个忙，也是救这里所有人。
+[name="左乐"]去把所有职农聚集起来，让大家尽量待在一起……不，千万不要让任何人落单。
 [name="左乐"]记住，一定不要害怕它们，逼着自己，也不要害怕。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1")]
 [name="禾生"]那你呢？你要去做什么？
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")]
-[name="左乐"]让那个装置停下来......
+[name="左乐"]让那个装置停下来……
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1")]
 [name="禾生"]你又要一个人行动？
 [charslot(slot="m",name="avg_4121_zuole_1#7$1")]
-[name="左乐"]这是我的职责......哪怕舍掉这条命也要......
+[name="左乐"]这是我的职责……哪怕舍掉这条命也要……
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1")]
-[name="禾生"]说什么混账话......
+[name="禾生"]说什么混账话……
 [charslot(slot="m",name="avg_4119_wanqin_1#6$1")]
 [name="禾生"]谁要你的命？你为什么总觉得自己高高在上，所有人都指着你去帮他们？！
 [charslot(slot="m",name="avg_4121_zuole_1#6$1")]
@@ -273,7 +273,7 @@
 [delay(time=1.5)]
 [name="老乡长"]小禾说得对，这不是靠某个人就能解决的困境。
 [charslot(slot="m",name="avg_4121_zuole_1#6$1")]
-[name="左乐"]您......
+[name="左乐"]您……
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
 [name="禾生"]我们现在，到底该怎么办？
 [charslot(slot="m",name="avg_npc_1240_1#4$1")]
@@ -296,33 +296,33 @@
 [charslot(slot = "right", name = "avg_npc_1240_1#1$1",duration = 1)]
 [delay(time=1.5)]
 [charslot(slot = "left", name = "avg_4121_zuole_1#1$1",focus="l")]
-[name="左乐"]荣晚晴......前辈。
+[name="左乐"]荣晚晴……前辈。
 [name="左乐"]在司岁台的名簿上，我见过您的名字。
 [charslot(slot = "right", name = "avg_npc_1240_1#3$1",focus="r")]
 [name="荣晚晴"]我早就不穿那件长袍了。
 [charslot(slot = "left", name = "avg_4121_zuole_1#10$1",focus="l")]
-[name="左乐"]清剿山海众，追查那罪人的布局，您原本是司岁台近百年来最传奇的秉烛人......
-[name="左乐"]四十年前，您离开了司岁台，转任为大荒城同知，之后一直留在这里......为什么？
+[name="左乐"]清剿山海众，追查那罪人的布局，您原本是司岁台近百年来最传奇的秉烛人……
+[name="左乐"]四十年前，您离开了司岁台，转任为大荒城同知，之后一直留在这里……为什么？
 [charslot(slot = "right", name = "avg_npc_1240_1#1$1",focus="r")]
 [name="荣晚晴"]我的职责，是盯着对炎国有威胁的存在。但是黍，绝不是其中之一。
 [charslot(slot = "left", name = "avg_4121_zuole_1#10$1",focus="l")]
-[name="左乐"]黍......用自己的生命清除了大荒城地底的邪魔污染？
+[name="左乐"]黍……用自己的生命清除了大荒城地底的邪魔污染？
 [charslot(slot = "right", name = "avg_npc_1240_1#1$1",focus="r")]
 [name="荣晚晴"]是的。
 [charslot(slot = "right", name = "avg_npc_1240_1#4$1",focus="r")]
 [name="荣晚晴"]但是绩不知道用什么办法，用邪魔碎片强行启动了核心城的能源，所以才有了这些诡异怪物。
 [charslot(slot = "left", name = "avg_4121_zuole_1#10$1",focus="l")]
-[name="左乐"]我没能提前察觉那个罪人的谋划，是我失职......
+[name="左乐"]我没能提前察觉那个罪人的谋划，是我失职……
 [name="左乐"]可是听说北岸天机阁的防线已经岌岌可危，怎么抽调出人手来保护大荒城？
 [charslot(slot = "right", name = "avg_npc_1240_1#4$1",focus="r")]
 [name="荣晚晴"]的确如此，现在，真的只能靠我们自己了。
-[name="荣晚晴"]这些造物来自那个代理人的能力，也是邪魔的影子，恐惧同样会助长它们的力量......这也是人心与勇气的抗争。
+[name="荣晚晴"]这些造物来自那个代理人的能力，也是邪魔的影子，恐惧同样会助长它们的力量……这也是人心与勇气的抗争。
 [charslot(slot = "left", name = "avg_4121_zuole_1#10$1",focus="l")]
-[name="左乐"]可是要怎么阻止这些怪物......
+[name="左乐"]可是要怎么阻止这些怪物……
 [charslot(slot = "right", name = "avg_npc_1240_1#4$1",focus="r")]
 [name="荣晚晴"]心脏离了四肢百骸也没法活动，土木天师们已经去拆除各个地块和核心城的连接，我们能做的，就是保护这里的百姓。
 [charslot(slot = "left", name = "avg_4121_zuole_1#4$1",focus="l")]
-[name="左乐"]......我会尽力。
+[name="左乐"]……我会尽力。
 [charslot(slot = "right", name = "avg_npc_1240_1#4$1",focus="r")]
 [name="荣晚晴"]秉烛人的职责，明烛以驱巨兽之影。可悬于人们头顶的阴影不只来源于巨兽。
 [name="荣晚晴"]点一盏灯，留一点光。别忘了。
@@ -343,7 +343,7 @@
 [delay(time=2.5)]
 [charslot]
 [charslot(slot = "m", name = "avg_npc_1240_1#2$1")]
-[name="荣晚晴"]这就是，你要收的代价......
+[name="荣晚晴"]这就是，你要收的代价……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -366,11 +366,11 @@
 [name="荣晚晴"]再有逾矩之举，休怪我不念旧情。
 [charslot(slot = "left", name = "avg_npc_1236_1#1$1",focus="l")]
 [name="绩"]念旧情，说得好听。
-[name="绩"]如果你说的念旧情指的是将她困在这里，供你们驱使上千年......
+[name="绩"]如果你说的念旧情指的是将她困在这里，供你们驱使上千年……
 [charslot(slot = "right", name = "avg_npc_1240_1#4$1",focus="r")]
 [name="荣晚晴"]听你的口气，是宁愿回到大炎围猎你们的时候？
 [charslot(slot = "left", name = "avg_npc_1236_1#1$1",focus="l")]
-[name="绩"]不不......生命自私重利，人兽无异。我只是想和你做一笔生意。
+[name="绩"]不不……生命自私重利，人兽无异。我只是想和你做一笔生意。
 [name="绩"]我答应你十二楼五城可以顺利完工，从此不必担忧邪魔与天灾威胁。并且此后三年风雨顺遂，好让你们有充足的时间屯粮休养。
 [name="绩"]条件是，换姐姐她离开这里。
 [charslot(slot = "right", name = "avg_npc_1240_1#4$1",focus="r")]
@@ -378,12 +378,12 @@
 [charslot(slot = "left", name = "avg_npc_1236_1#1$1",focus="l")]
 [name="绩"]邪魔作祟，天灾无常，大荒城当下的处境，你心里应该清楚。
 [charslot(slot = "right", name = "avg_npc_1240_1#4$1",focus="r")]
-[name="荣晚晴"]......我要怎么相信你？
+[name="荣晚晴"]……我要怎么相信你？
 [charslot(slot = "left", name = "avg_npc_1236_1#9$1",focus="l")]
 [name="绩"]司岁台对我们的能力不该再清楚不过了吗？
 [name="绩"]在下言出必行，交易已定，你要是反悔的话，我就只好收点别的物件来抵押了。
 [charslot(slot = "right", name = "avg_npc_1240_1#3$1",focus="r")]
-[name="荣晚晴"]......
+[name="荣晚晴"]……
 [charslot(slot = "left", name = "avg_npc_1236_1#9$1",focus="l")]
 [name="绩"]你应该相信，对这片土地，我也是念旧情的。
 [Dialog]
@@ -392,13 +392,13 @@
 [charslot]
 [delay(time=1)]
 [CameraEffect(effect="Grayscale", fadetime=0, amount=0, block=true)]
-[name="荣晚晴"]黍......我的确答应过要让你离开的。
+[name="荣晚晴"]黍……我的确答应过要让你离开的。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1240_1#2$1")]
 [Background(image="47_g13_pollutedfield",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_npc_1240_1#1$1")]
-[name="荣晚晴"]好一个言出必行...... 
+[name="荣晚晴"]好一个言出必行…… 
 [charslot(slot = "m", name = "avg_npc_1240_1#4$1")]
 [name="荣晚晴"]可要收我的命，也得看看这些邪魔外道的手段够不够硬。
 [dialog]
@@ -434,7 +434,7 @@
 [charslot(slot = "left", name = "avg_npc_1245_1#1$1",focus="l")]
 [name="土木天师"]核心能源模块自己启动了？它不是还没有完工吗？！
 [charslot(slot = "right", name = "avg_npc_1246_1#1$1",focus="r")]
-[name="土木天师"]这个能量......开什么玩笑，这个能量够一座大型移动城市独立运行三百年。
+[name="土木天师"]这个能量……开什么玩笑，这个能量够一座大型移动城市独立运行三百年。
 [charslot(slot = "m", focus = "n")]
 [name="万侍郎"]都让开吧，我来处理。
 [dialog]
@@ -449,14 +449,14 @@
 [charslot(slot="r",name="avg_npc_298_1#1$1",duration=1.5)]
 [delay(time=2)]
 [charslot(slot="r",name="avg_npc_298_1#1$1",focus="r")]
-[name="宁辞秋"]这个核心能源已经失控了......他已经控制了这个核心能源，用它来制造魔物。
+[name="宁辞秋"]这个核心能源已经失控了……他已经控制了这个核心能源，用它来制造魔物。
 [charslot(slot="l",name="avg_npc_1241_1#4$1",focus="l")]
 [name="万侍郎"]这些介绍就不用了，没有人比我更清楚这个装置的状态。
 [name="万侍郎"]反倒是宁侍郎，事到如今，应该不用我再提醒你，在这件事上礼部和司岁台的失职了吧。
 [charslot(slot="r",name="avg_npc_298_1#1$1",focus="r")]
-[name="宁辞秋"]......
+[name="宁辞秋"]……
 [charslot(slot="l",name="avg_npc_1241_1#4$1",focus="l")]
-[name="万侍郎"]“失控”......从我第一天进入天师府，学习工程开始，我最痛恨的两个字，就是“失控”。
+[name="万侍郎"]“失控”……从我第一天进入天师府，学习工程开始，我最痛恨的两个字，就是“失控”。
 [name="万侍郎"]所以比起太傅大人说的“任人唯贤”，我更相信太尉大人的“非我族类”。
 [charslot(slot="r",name="avg_npc_298_1#1$1",focus="r")]
 [name="宁辞秋"]等到当下危机渡过，万侍郎还有大把时间去弹劾礼部。
@@ -465,7 +465,7 @@
 [name="万侍郎"]我知道宁侍郎瞧不起我趋炎附势，可我也不是在这种时候不识大局的小人。
 [name="万侍郎"]你可以离开了，我会停下这个能源装置。
 [charslot(slot="r",name="avg_npc_298_1#4$1",focus="r")]
-[name="宁辞秋"]你一个人......？
+[name="宁辞秋"]你一个人……？
 [charslot(slot="l",name="avg_npc_1241_1#4$1",focus="l")]
 [name="万侍郎"]这是我的工程，我的工程从来没有失控过，我的工程也绝不能失控。
 [charslot(slot="l",name="avg_npc_1241_1#2$1",focus="l")]
@@ -484,23 +484,23 @@
 [name="万侍郎"]要帮我建好这个工程？为什么？
 [charslot(slot = "right", name = "avg_npc_1236_1#9$1",focus="r")]
 [name="绩"]我觉得万侍郎是个极聪明的合作对象，和您做生意，一定很顺利。
-[name="绩"]您应该很看重这个工程......之前送上的这些支援物资，聊表诚心。
+[name="绩"]您应该很看重这个工程……之前送上的这些支援物资，聊表诚心。
 [charslot(slot = "left", name = "avg_npc_1241_1#10$1",focus="l")]
 [name="万侍郎"]你想让我为这些物资掏钱？无妨，你可以开价。
 [charslot(slot = "right", name = "avg_npc_1236_1#9$1",focus="r")]
 [name="绩"]万侍郎误会了，这些小物件怎么配拿来与您交易？
-[name="绩"]我忽然忘了......工部尚书一年的俸禄是多少，万侍郎，又想在这个位置上坐几年？
+[name="绩"]我忽然忘了……工部尚书一年的俸禄是多少，万侍郎，又想在这个位置上坐几年？
 [charslot(slot = "left", name = "avg_npc_1241_1#6$1",focus="l")]
-[name="万侍郎"]......
+[name="万侍郎"]……
 [charslot(slot = "right", name = "avg_npc_1236_1#9$1",focus="r")]
 [name="绩"]不必惊讶。我知道万侍郎从一介寒士到官拜二品，这些年平步青云的背后，又有多少不易。
 [name="绩"]人在朝堂忙忙碌碌，所谋也不过是个“利”字。不然万侍郎也不会冒着那么大的风险，去玉门帮那位大人做善后工作了。
 [charslot(slot = "left", name = "avg_npc_1241_1#4$1",focus="l")]
-[name="万侍郎"]......你是在威胁我？
+[name="万侍郎"]……你是在威胁我？
 [charslot(slot = "right", name = "avg_npc_1236_1#9$1",focus="r")]
 [name="绩"]我只是想做笔生意。建好这座城，于我们二人都有利的生意。
 [charslot(slot = "left", name = "avg_npc_1241_1#3$1",focus="l")]
-[name="万侍郎"]......好，我答应。
+[name="万侍郎"]……好，我答应。
 [charslot(slot = "right", name = "avg_npc_1236_1#9$1",focus="r")]
 [name="绩"]万侍郎答应得爽快，可是要想清楚，契约一旦签下，该付的代价，可就半点都逃不了了。
 [Dialog]
@@ -512,7 +512,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1241_1#4$1")]
-[name="万侍郎"]皆为利来皆为利往......哼。你以为我在乎的利，就是这一身官袍？
+[name="万侍郎"]皆为利来皆为利往……哼。你以为我在乎的利，就是这一身官袍？
 [name="万侍郎"]是你们所有人，都小瞧了我万勤城！
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1241_1#5$1")]
@@ -537,32 +537,32 @@
 [delay(time=2)]
 [playMusic(key="$wasteland_loop", volume=0.6)]
 [charslot(slot="l",name="avg_4119_wanqin_1#8$1",focus="l")]
-[name="禾生"]怎么了......？为什么停下来了？
+[name="禾生"]怎么了……？为什么停下来了？
 [charslot(slot="r",name="avg_4122_grabds_1#8$1",focus="r")]
-[name="小满"]小禾......
-[name="小满"]其实我......有点害怕......
+[name="小满"]小禾……
+[name="小满"]其实我……有点害怕……
 [charslot(slot="r",name="avg_4122_grabds_1#3$1",focus="r")]
-[name="小满"]为什么田地会变成这个样子，戏里才有的怪物全都跑出来了......
+[name="小满"]为什么田地会变成这个样子，戏里才有的怪物全都跑出来了……
 [charslot(slot="l",name="avg_4119_wanqin_1#8$1",focus="l")]
 [name="禾生"]其实，我也很害怕。
 [charslot(slot="l",name="avg_4119_wanqin_1#5$1",focus="l")]
 [name="禾生"]可我知道，一定有很多人比我更害怕，更不知所措。
-[name="禾生"]我还有能做到的事，我还可以保护别人......
+[name="禾生"]我还有能做到的事，我还可以保护别人……
 [charslot(slot="r",name="avg_4122_grabds_1#8$1",focus="r")]
 [name="小满"]大水牛，虽然平时我总是骂你笨水牛，但其实，你是我见过最聪明的人。你懂那么多知识，关于种庄稼的知识知道得比谁都多。
 [name="小满"]所以，不管出了什么意外，你都一定要保护好自己，你的理想一定会实现的！
-[name="小满"]千万不要觉得，因为自己没有亲人，没人在乎，就......就......
+[name="小满"]千万不要觉得，因为自己没有亲人，没人在乎，就……就……
 [charslot(slot="l",name="avg_4119_wanqin_1#7$1",focus="l")]
-[name="禾生"]干嘛突然说这些......
+[name="禾生"]干嘛突然说这些……
 [charslot(slot="r",name="avg_4122_grabds_1#8$1",focus="r")]
 [name="小满"]我也不知道，可能就是因为很害怕，平时藏心底的话一股脑都说出来了。
 [name="小满"]唉，如果是黍姐姐，她肯定知道这些东西是怎么回事。
 [charslot(slot="l",name="avg_4119_wanqin_1#8$1",focus="l")]
-[name="禾生"]你说......谁？
+[name="禾生"]你说……谁？
 [charslot(slot="r",name="avg_4122_grabds_1#7$1",focus="r")]
-[name="小满"]我说......我刚刚......说什么了？
+[name="小满"]我说……我刚刚……说什么了？
 [charslot(slot="l",name="avg_4119_wanqin_1#8$1",focus="l")]
-[name="禾生"]黍姐姐......是谁？
+[name="禾生"]黍姐姐……是谁？
 [charslot(slot="r",name="avg_4122_grabds_1#11$1",focus="r")]
 [name="小满"]可我明明记得，有个人在我们身边，她什么都知道。
 [Dialog]
@@ -587,12 +587,12 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot="l",name="avg_4119_wanqin_1#8$1",focus="l")]
-[name="禾生"]你在说什么......
+[name="禾生"]你在说什么……
 [charslot(slot="r",name="avg_4122_grabds_1#8$1",focus="r")]
-[name="小满"]我不知道......
-[name="小满"]前两天，还有人在河边拉住我，给我讲故事......
+[name="小满"]我不知道……
+[name="小满"]前两天，还有人在河边拉住我，给我讲故事……
 [charslot(slot="r",name="avg_4122_grabds_1#7$1",focus="r")]
-[name="小满"]对了，河边......
+[name="小满"]对了，河边……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -607,17 +607,17 @@
 [charslot(slot="l",name="avg_4122_grabds_1#1$1",focus="l")]
 [name="小满"]大叔！这首曲子怎么样？
 [charslot(slot="r",name="avg_npc_1243_1#2$1",focus="r")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="l",name="avg_4122_grabds_1#7$1",focus="l")]
 [name="小满"]你不喜欢？
 [name="小满"]你是不是只喜欢那首《小花儿快回家》呀？
 [charslot(slot="r",name="avg_npc_1243_1#1$1",focus="r")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="l",name="avg_4122_grabds_1#11$1",focus="l")]
 [name="小满"]大叔，我有没有和你说，我和小禾吵架了？
 [name="小满"]他说我成天不好好上学，好学生都会去百灶，我去不了，气死我了。你说他是不是在无理取闹？
 [charslot(slot="r",name="avg_npc_1243_1#7$1",focus="r")]
-[name="沉默的樵夫"]......
+[name="沉默的樵夫"]……
 [charslot(slot="l",name="avg_4122_grabds_1#8$1",focus="l")]
 [name="小满"]我这样怎么了嘛，我就是想留在这里，等爸爸妈妈回来。
 [dialog]
@@ -649,10 +649,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [charslot(slot="r",name="avg_4122_grabds_1#4$1",focus="r")]
-[name="小满"]小禾......我......
+[name="小满"]小禾……我……
 [playMusic(key="$formal_loop", volume=0.6)]
 [charslot(slot="r",name="avg_4122_grabds_1#5$1",focus="r")]
-[name="小满"]......河岸那边肯定还有人没有撤走！
+[name="小满"]……河岸那边肯定还有人没有撤走！
 [charslot(slot="l",name="avg_4119_wanqin_1#5$1",focus="l")]
 [name="禾生"]小满！你别乱跑！
 [charslot(slot="r",name="avg_4122_grabds_1#5$1",focus="r")]

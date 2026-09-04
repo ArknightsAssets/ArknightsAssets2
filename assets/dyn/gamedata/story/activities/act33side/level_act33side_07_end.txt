@@ -28,14 +28,14 @@
 [charslot(slot = "r", name = "avg_npc_1297_1#1$1", focus="r")]
 [name="特雷西斯"]我们得到想要的了吗？
 [charslot(slot = "l", name = "avg_npc_404_1#2$1", focus="l")]
-[name="曼弗雷德"]的确拿到了部分工业区的使用权和边境通行权......但一定要以那样屈辱的方式吗？
+[name="曼弗雷德"]的确拿到了部分工业区的使用权和边境通行权……但一定要以那样屈辱的方式吗？
 [name="曼弗雷德"]维多利亚的公爵对您呼来喝去，把萨卡兹当作顺从的野兽，那些从内战中抬起头来的战士们等待的并不是今天，将军！
 [charslot(slot = "r", name = "avg_npc_1297_1#1$1", focus="r")]
 [name="特雷西斯"]那不是正如我们所愿？
 [charslot(slot = "r", name = "avg_npc_1297_1#4$1", focus="r")]
 [name="特雷西斯"]难道我们想要维多利亚从一开始就把萨卡兹当作最大的敌人，然后团结一致来对付我们？
 [charslot(slot = "l", name = "avg_npc_404_1#3$1", focus="l")]
-[name="曼弗雷德"]这也是您的......我知道示敌以弱的必要性，可这......
+[name="曼弗雷德"]这也是您的……我知道示敌以弱的必要性，可这……
 [charslot(slot = "l", name = "avg_npc_404_1#9$1", focus="l")]
 [name="曼弗雷德"]可我们之中的很多人，认为这毫不荣耀——
 [charslot(slot = "r", name = "avg_npc_1297_1#1$1", focus="r")]
@@ -44,9 +44,9 @@
 [charslot(slot = "r", name = "avg_npc_1297_1#2$1", focus="r")]
 [name="特雷西斯"]曼弗雷德，你最近太急躁了。
 [charslot(slot = "l", name = "avg_npc_404_1#9$1", focus="l")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [charslot(slot = "r", name = "avg_npc_1297_1#1$1", focus="r")]
-[name="特雷西斯"]......尊严很重要，曼弗雷德。
+[name="特雷西斯"]……尊严很重要，曼弗雷德。
 [name="特雷西斯"]你会为战士们打抱不平，也会有人因此而尊敬你。若是平常，也许我会夸赞你。
 [charslot(slot = "r", name = "avg_npc_1297_1#4$1", focus="r")]
 [name="特雷西斯"]但现在，我们在做什么？在准备窃取一个国家的心脏。
@@ -54,7 +54,7 @@
 [name="特雷西斯"]他们的隔阂令他们脆弱不堪，而萨卡兹正饥肠辘辘。
 [name="特雷西斯"]那我们需要的本就不是“荣耀”“尊敬”。
 [charslot(slot = "l", name = "avg_npc_404_1#1$1", focus="l")]
-[name="曼弗雷德"]......我明白。
+[name="曼弗雷德"]……我明白。
 [charslot(slot = "r", name = "avg_npc_1297_1#1$1", focus="r")]
 [name="特雷西斯"]我们的军队准备得如何了？
 [charslot(slot = "l", name = "avg_npc_404_1#1$1", focus="l")]
@@ -81,7 +81,7 @@
 [charslot(slot="m", name="avg_npc_419_1#1$1")]
 [name="军事委员会卫士"]是的。
 [charslot(slot="m", name="avg_npc_404_1#1$1")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [name="曼弗雷德"]先退下吧，我想一个人待一会儿。
 [charslot]
 [charslot(slot="r", name="avg_npc_419_1#1$1")]
@@ -94,7 +94,7 @@
 [charslot(slot="l", afrom=1, ato=0, duration=1, isblock=true)]
 [delay(time=1)]
 [charslot(slot="m", name="avg_npc_404_1#1$1")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(duration=1.5, isblock=true)]
@@ -122,7 +122,7 @@
 [dialog]
 [delay(time=1)]
 [charslot(slot="m", name="avg_npc_404_1#4$1")]
-[name="曼弗雷德"]你还记得吗？小时候将军领着我们去古战场练剑......晚上天气冷，将军煮了汤才发现我们没有盛汤的东西。
+[name="曼弗雷德"]你还记得吗？小时候将军领着我们去古战场练剑……晚上天气冷，将军煮了汤才发现我们没有盛汤的东西。
 [name="曼弗雷德"]不过战场四处都散落着炮弹壳，你就用它们削了四只杯子。
 [name="曼弗雷德"]你、我、将军还有殿下，就端着弹壳做的杯子，围坐在篝火前。
 [charslot(slot = "m", name = "avg_4132_ascln_1#1$1", bstart=0.2,bend=0.7)]
@@ -140,7 +140,7 @@
 [charslot(slot="m", name="avg_npc_404_1#1$1")]
 [name="曼弗雷德"]我知道，你想见将军。
 [charslot(slot = "m", name = "avg_4132_ascln_1#1$1")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [charslot(slot="m", name="avg_npc_404_1#7$1")]
 [name="曼弗雷德"]你应该没见到，不然也不会到我这来。
 [charslot(slot = "m", name = "avg_4132_ascln_1#1$1")]
@@ -157,7 +157,7 @@
 [charslot(slot = "m", name = "avg_4132_ascln_1#1$1")]
 [name="阿斯卡纶"]还没倒下，就别求饶。
 [charslot(slot="m", name="avg_npc_404_1#1$1")]
-[name="曼弗雷德"]......
+[name="曼弗雷德"]……
 [name="曼弗雷德"]有次我们在特蕾西娅殿下的书房里面打架。
 [name="曼弗雷德"]一整面墙的书都落了下来，将军收走了我们的武器，限我们在半个小时内将书房恢复原样。
 [charslot(slot="m", name="avg_npc_404_1#6$1")]
@@ -186,19 +186,19 @@
 他没有拔出剑来抵抗，甚至没有来得及生出抵抗的念头。
 是太疲惫了吗？
 [name="阿斯卡纶"]如果我在这里划开你的脖子，至少可以让你不用死在伦蒂尼姆，我会把你的尸体扔进熔炉里。
-[name="阿斯卡纶"]......也可以让很多人不用死在异国他乡的战场上。
+[name="阿斯卡纶"]……也可以让很多人不用死在异国他乡的战场上。
 [charslot(slot = "m", name = "avg_npc_404_1#1$1", focus="m")]
 [name="曼弗雷德"]你下定决心的话，应该立刻杀了我，这是你最后的机会。
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [name="阿斯卡纶"]你想好了。
 [charslot(slot = "m", name = "avg_npc_404_1#1$1", focus="m")]
 [name="曼弗雷德"]将军说你缺少自己的信念，我觉得不尽然。
 [name="阿斯卡纶"]性命被别人威胁的时候，不该有这么多话。
 [charslot(slot = "m", name = "avg_npc_404_1#7$1", focus="m")]
 [name="曼弗雷德"]直到最近我才明白，我并不比你坚定。
-[name="曼弗雷德"]我们都是被看不见的浪潮推到了这一步......可是从战争开始的那天起，我们就都没有回头路了。
-[name="阿斯卡纶"]......
-[name="阿斯卡纶"]那就......尽量活下去吧。
+[name="曼弗雷德"]我们都是被看不见的浪潮推到了这一步……可是从战争开始的那天起，我们就都没有回头路了。
+[name="阿斯卡纶"]……
+[name="阿斯卡纶"]那就……尽量活下去吧。
 [name="阿斯卡纶"]下一次，我不会收手的。
 [dialog]
 [PlaySound(key="$d_avg_wind", volume=1)]
@@ -211,7 +211,7 @@
 沉默的刺客收起了袖刃，缓缓退回阴影中。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_404_1#1$1")]
-[name="曼弗雷德"]......我也是。
+[name="曼弗雷德"]……我也是。
 [name="曼弗雷德"]但愿这是我们的最后一次见面。
 [dialog]
 [stopmusic(fadetime=2)]
@@ -264,34 +264,34 @@
 [charslot(slot = "l", name = "avg_npc_1296_1#1$1", focus="l")]
 [name="特蕾西娅"]你回卡兹戴尔的事。
 [charslot(slot = "r", name = "avg_4132_ascln_1#8$1", focus="r")]
-[name="阿斯卡纶"]......这是我擅自做的决定。
-[name="阿斯卡纶"]我想您是不同意的，我不知道要怎么主动向殿下您开口......
+[name="阿斯卡纶"]……这是我擅自做的决定。
+[name="阿斯卡纶"]我想您是不同意的，我不知道要怎么主动向殿下您开口……
 [charslot(slot = "l", name = "avg_npc_1296_1#8$1", focus="l")]
 [name="特蕾西娅"]怎么会呢，阿斯卡纶？既然是你的决定，我也会相信你的判断。
 [name="特蕾西娅"]那你见到他们了吗？
 [charslot(slot = "r", name = "avg_4132_ascln_1#7$1", focus="r")]
-[name="阿斯卡纶"]......他和曼弗雷德都很好。
+[name="阿斯卡纶"]……他和曼弗雷德都很好。
 [charslot(slot = "l", name = "avg_npc_1296_1#9$1", focus="l")]
 [name="特蕾西娅"]我相信。他们都是很强大的人。
 [charslot(slot = "l", name = "avg_npc_1296_1#8$1", focus="l")]
 [name="特蕾西娅"]我们也该做好准备，夺回卡兹戴尔的作战不会太远了。
 [charslot(slot = "r", name = "avg_4132_ascln_1#3$1", focus="r")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [charslot(slot = "l", name = "avg_npc_1296_1#10$1", focus="l")]
 [name="特蕾西娅"]为何你的眉头反而锁得更紧了？
 [charslot(slot = "r", name = "avg_4132_ascln_1#1$1", focus="r")]
-[name="阿斯卡纶"]我们最近的作战计划很激进，在各个战场都取得了不少战果......
+[name="阿斯卡纶"]我们最近的作战计划很激进，在各个战场都取得了不少战果……
 [name="阿斯卡纶"]可是，我总是会感到一种不安。
-[name="阿斯卡纶"]巴别塔变化很多，尤其是......
+[name="阿斯卡纶"]巴别塔变化很多，尤其是……
 [charslot(slot = "l", name = "avg_npc_1296_1#10$1", focus="l")]
 [name="特蕾西娅"]嗯？
 [charslot(slot = "r", name = "avg_4132_ascln_1#4$1", focus="r")]
 [name="阿斯卡纶"]博士。
-[name="阿斯卡纶"]博士变了很多，行事作风更加高效，更加冷静，就像......一台不会有差错的机器。
+[name="阿斯卡纶"]博士变了很多，行事作风更加高效，更加冷静，就像……一台不会有差错的机器。
 [charslot(slot = "l", name = "avg_npc_1296_1#10$1", focus="l")]
 [name="特蕾西娅"]这是一位指挥官应当具备的品质，为什么反而让你担忧呢？
 [charslot(slot = "r", name = "avg_4132_ascln_1#2$1", focus="r")]
-[name="阿斯卡纶"]比起现在这位优秀的指挥官......我更信任那个会从驮兽背上狼狈滚下来的家伙。
+[name="阿斯卡纶"]比起现在这位优秀的指挥官……我更信任那个会从驮兽背上狼狈滚下来的家伙。
 [dialog]
 [Delay(time=1)]
 [charslot(slot = "r", name = "avg_4132_ascln_1#1$1", focus="r")]
@@ -301,31 +301,31 @@
 [charslot(slot = "r", name = "avg_4132_ascln_1#8$1", focus="r")]
 [name="阿斯卡纶"]殿下也忧虑过？
 [charslot(slot = "l", name = "avg_npc_1296_1#2$1", focus="l")]
-[name="特蕾西娅"]......
+[name="特蕾西娅"]……
 [charslot(slot = "l", name = "avg_npc_1296_1#3$1", focus="l")]
 [name="特蕾西娅"]可是，你不记得了吗？
 [name="特蕾西娅"]这些年，有多少次，我们遇上了看上去万万无法克服的绝境。可最终，我们都一一跨了过来。
 [name="特蕾西娅"]我想接下来，也是一样的。
 [charslot(slot = "r", name = "avg_4132_ascln_1#7$1", focus="r")]
-[name="阿斯卡纶"]我们始终是在冒险......
+[name="阿斯卡纶"]我们始终是在冒险……
 [charslot(slot = "l", name = "avg_npc_1296_1#1$1", focus="l")]
 [name="特蕾西娅"]阿斯卡纶，巴别塔是背负了许多人的希望、信念才走到今天的，我们没有办法停在原地。
 [name="特蕾西娅"]与军事委员会的对抗，我们始终落于下风。眼下，他们的主力部队大多前往了伦蒂尼姆，这是绝无仅有的机会。我们没有选择。
 [charslot(slot = "r", name = "avg_4132_ascln_1#1$1", focus="r")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [name="阿斯卡纶"]我一定会在您身旁，保护好您的安全。
 [charslot(slot = "l", name = "avg_npc_1296_1#8$1", focus="l")]
 [name="特蕾西娅"]不，阿斯卡纶。
 [name="特蕾西娅"]将来，你一定要去更远的地方，去保护更多人。
 [name="特蕾西娅"]现在，放松一下，晒一会太阳吧。
 [charslot(slot = "r", name = "avg_4132_ascln_1#7$1", focus="r")]
-[name="阿斯卡纶"]殿下......
+[name="阿斯卡纶"]殿下……
 [charslot(slot = "l", name = "avg_npc_1296_1#8$1", focus="l")]
 [name="特蕾西娅"]对了，记得不要总是站着小憩，疲劳时还是该回房间好好睡一觉。
 [charslot(slot = "r", name = "avg_4132_ascln_1#10$1", focus="r")]
 [name="阿斯卡纶"]我会记住的。
 [charslot(slot = "l", name = "avg_npc_1296_1#8$1", focus="l")]
-[name="特蕾西娅"]嗯......
+[name="特蕾西娅"]嗯……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "l", afrom=1, ato=0, duration=2, isblock=true)]
@@ -354,23 +354,23 @@
 [name="维多利亚士兵"]传公爵的消息，这次攻入伦蒂尼姆，你们做得不错。
 [name="维多利亚士兵"]一个小时后在中央城区集结，在那里接受检阅，领取你们的赏金。
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="维多利亚士兵"]......喂！听到命令了吗？
+[name="维多利亚士兵"]……喂！听到命令了吗？
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1297_1#1$1", duration=2, isblock=true)]
 [name="特雷西斯"]嗯，我已收到命令。
 [name="特雷西斯"]请代我向公爵回复，我们会按时赶到的。
-[name="特雷西斯"]......萨卡兹感谢他的慷慨。
+[name="特雷西斯"]……萨卡兹感谢他的慷慨。
 [charslot(slot = "m", name = "avg_npc_248")]
 [name="维多利亚士兵"]啧。
-[name="维多利亚士兵"]装模作样的魔族佬......
+[name="维多利亚士兵"]装模作样的魔族佬……
 [dialog]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [charslot(duration=1, isblock=true)]
 [delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1297_1#4$1")]
-[name="特雷西斯"]......
+[name="特雷西斯"]……
 [charslot]
 如果不是硝烟弥漫，今天本该是伦蒂尼姆难得的好天气。站在高耸的城墙上，这座古老城市的风景可以一览无遗。
 战袍染血的将军一言不发，他的眼神紧盯着城市中央，那座高耸的大厦。

@@ -15,7 +15,7 @@
 [Dialog]
 [Character(name="avg_npc_120",fadetime=1,block=true)]
 [delay(time=1)]
-[name="老骑士"]  啊......我们还赶得上晚上的酒会不？
+[name="老骑士"]  啊……我们还赶得上晚上的酒会不？
 [Character(name="avg_npc_120", name2="avg_npc_101#2", focus=2)]
 [name="老工匠"]  赶不上也是你的错，老弗。
 [Character(name="avg_npc_120#2", name2="avg_npc_101#2", focus=1)]
@@ -26,7 +26,7 @@
 [Character(name="avg_npc_120#2", name2="avg_npc_101#2", focus=1)]
 [name="老骑士"]  不要质疑我的方向感！
 [Character(name="avg_npc_120#2", name2="avg_npc_101#2", focus=2)]
-[name="老工匠"]  我说的是你老眼昏花......
+[name="老工匠"]  我说的是你老眼昏花……
 [Character(name="avg_npc_120#3", name2="avg_npc_101#2", focus=1)]
 [name="老骑士"]  你忘了上星期我是怎么夺得酒吧飞镖冠军的吗？你瞎了我都不会眼花的。
 [Character(name="avg_npc_120#3", name2="avg_npc_101#4", focus=2)]
@@ -38,16 +38,16 @@
 [Character(name="avg_npc_120#2", name2="avg_npc_101#2", focus=1)]
 [name="老骑士"]  那是谁把塞壬的新碟放进去的？
 [Character(name="avg_npc_120#2", name2="avg_npc_101", focus=2)]
-[name="老工匠"]  ......别嚷嚷，让丫头专心检查！
+[name="老工匠"]  ……别嚷嚷，让丫头专心检查！
 [Dialog]
 [Character]
 [Character(name="avg_npc_061#2",fadetime=1,block=true)]
 [delay(time=1)]
-[name="玛莉娅"]  唔啊......这撞得也太彻底了吧......
+[name="玛莉娅"]  唔啊……这撞得也太彻底了吧……
 [Character(name="avg_npc_061#2", name2="avg_npc_101", focus=2)]
 [name="老工匠"]  都怪老弗。
 [Character(name="avg_npc_120", name2="avg_npc_061#2", focus=1)]
-[name="老骑士"]  我......你......玛莉娅，少听他胡扯，这事儿真不能赖我。
+[name="老骑士"]  我……你……玛莉娅，少听他胡扯，这事儿真不能赖我。
 [Character(name="avg_npc_120", name2="avg_npc_061#2", focus=2)]
 [name="玛莉娅"]  行啦行啦，等我再检查一下，嘿咻——！
 [Character(name="avg_npc_120", name2="avg_npc_101#2", focus=2)]
@@ -55,14 +55,14 @@
 [Character(name="avg_npc_120#2", name2="avg_npc_101#2", focus=1)]
 [name="老骑士"]  你！！
 [Character(name="avg_npc_061#2")]
-[name="玛莉娅"]  线路，OK，但发动机还没是有反应，唔，这是上上代的产品了吧，是这样驱动的吗......
-[name="玛莉娅"]  引擎没有反应，那干脆手动法术点火试试......
+[name="玛莉娅"]  线路，OK，但发动机还没是有反应，唔，这是上上代的产品了吧，是这样驱动的吗……
+[name="玛莉娅"]  引擎没有反应，那干脆手动法术点火试试……
 [Character]
 [Dialog]
 [PlaySound(key="$b_char_defboost", volume=0.6)]
 [delay(time=1)]
 [Character(name="avg_npc_061#2")]
-[name="玛莉娅"]  ......是这样吧？
+[name="玛莉娅"]  ……是这样吧？
 [Character(name="avg_npc_120", name2="avg_npc_101", focus=2)]
 [name="老工匠"]  啧啧，每次看丫头捏着光的样子，都会让人想起她爷爷。
 [Character(name="avg_npc_120#4", name2="avg_npc_101", focus=1)]
@@ -74,11 +74,11 @@
 [Character(name="avg_npc_061#2", name2="avg_npc_101#4", focus=2)]
 [name="老工匠"]  玛莉娅！让让！今天我要让这个老家伙开开眼！
 [Character(name="avg_npc_061#2", name2="avg_npc_101#4", focus=1)]
-[name="玛莉娅"]  啊哈哈......二老就别闹了......
+[name="玛莉娅"]  啊哈哈……二老就别闹了……
 [Character(name="avg_npc_061#2")]
 [CameraShake(duration=0.3, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="玛莉娅"]  啊！有反应了！
-[name="玛莉娅"]  这样......再这样......
+[name="玛莉娅"]  这样……再这样……
 [PlaySound(key="$b_char_defboost", volume=0.6)]
 [delay(time=1)]
 [PlaySound(key="$motorbikestart", volume=0.6)]
@@ -97,7 +97,7 @@
 [Character(name="avg_npc_061#2", name2="avg_npc_101", focus=1)]
 [name="玛莉娅"]  我？
 [Character(name="avg_npc_061#2", name2="avg_npc_101", focus=1)]
-[name="玛莉娅"]  我......我接下来有别的事情啦。
+[name="玛莉娅"]  我……我接下来有别的事情啦。
 [Character(name="avg_npc_120", name2="avg_npc_101", focus=1)]
 [name="老骑士"]  那好吧。抓稳了，科瓦尔，今夜的第一杯酒必须得进我肚子！
 [PlaySound(key="$motorbikestart", volume=0.6)]
@@ -144,7 +144,7 @@
 [PlaySound(key="$d_sp_ballista")]
 [CameraShake(duration=1, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_npc_061")]
-[name="玛莉娅"]  哎呀......啊哈哈......这次是源石引擎过载了嘛......
+[name="玛莉娅"]  哎呀……啊哈哈……这次是源石引擎过载了嘛……
 [name="玛莉娅"]  好像又搞错了，诶嘿。
 [stopmusic(fadetime=1)]
 [Dialog]
@@ -165,8 +165,8 @@
 [Character]
 [Character(name="avg_npc_103",fadetime=1,block=true)]
 [delay(time=1)]
-[name="塑料骑士"]  那花里胡哨的玩意卖不出去了......唉，卖得出去就有鬼了。
-[name="塑料骑士"]  算了，反正是老东家的......唔？
+[name="塑料骑士"]  那花里胡哨的玩意卖不出去了……唉，卖得出去就有鬼了。
+[name="塑料骑士"]  算了，反正是老东家的……唔？
 [Character(name="avg_npc_121")]
 [name="大嘴莫布"]  来自卡西米尔——不，泰拉各地的竞赛骑士们！卡西米尔商业联合会的各大公司代表都将注目着今天的独立骑士竞赛！
 [name="大嘴莫布"]  是在竞速赛中一马当先，还是在射技赛中拔得头筹？无论参与何种赛事，都有着获得董事代表青睐的机会！
@@ -178,11 +178,11 @@
 [Character]
 [Character(name="avg_npc_061#5",fadetime=1,block=true)]
 [delay(time=1)]
-[name="？？？"]  呼......
-[name="？？？"]  深呼吸......深呼吸......
+[name="？？？"]  呼……
+[name="？？？"]  深呼吸……深呼吸……
 [Character(name="avg_npc_121")]
 [name="大嘴莫布"]  那么事不宜迟，立刻开始本日的第一场——
-[name="大嘴莫布"]  等等——等等！这个参赛选手......似乎大有来头！
+[name="大嘴莫布"]  等等——等等！这个参赛选手……似乎大有来头！
 [name="大嘴莫布"]  没错！我是说，今天的头场比赛就将成为未来几天内卡西米尔竞赛频道的热点新闻！
 [name="大嘴莫布"]  原因无他，只因这位头次参赛的选手，有着一个响亮的“名号”！可爱的年轻女孩，却来自一个声名显赫的家族！
 [name="大嘴莫布"]  如果关注骑士竞技——不，但凡是卡西米尔的忠实客户，一定不会对这个名字陌生！
@@ -194,9 +194,9 @@
 [Character(name="avg_npc_103", name2="avg_npc_109", focus=2)]
 [name="企业员工"]  好的，瑟奇亚克阁下。
 [Character(name="avg_npc_103", name2="avg_npc_109", focus=1)]
-[name="塑料骑士"]  都是些熟面孔啊，唔......等等，是最下面这个？
+[name="塑料骑士"]  都是些熟面孔啊，唔……等等，是最下面这个？
 [Character(name="avg_npc_103", name2="avg_npc_109", focus=2)]
-[name="企业员工"]  是的......选拔已经开始半个月了，现在才开始积累积分的独立骑士并不常见，所以我们......
+[name="企业员工"]  是的……选拔已经开始半个月了，现在才开始积累积分的独立骑士并不常见，所以我们……
 [Character(name="avg_npc_103", name2="avg_npc_109", focus=1)]
 [name="塑料骑士"]  这个姓氏——是耀骑士的——？
 [Character(name="avg_npc_121#2")]

@@ -31,11 +31,11 @@
 你们如路加萨尔古斯所言，世代传唱它被赋予的名字——诸王之息。
 无论重铸多少次，工匠都能听到剑身中的叹息。
 他们说，那是诸王的叹息，叹息荣耀不落的帝国已经没有值得征服的敌人。他们如此期盼着。
-虽然“叹息”的从来不是诸王，是这柄剑本身，是千余年前被探险者自黄沙中掘出的“奇迹”......但他们有权为这柄剑赋予意义。
+虽然“叹息”的从来不是诸王，是这柄剑本身，是千余年前被探险者自黄沙中掘出的“奇迹”……但他们有权为这柄剑赋予意义。
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 维娜，传奇从不由英雄自己讲述。
-你延续了它的故事。二十年后，或许孩童仍会传唱......
+你延续了它的故事。二十年后，或许孩童仍会传唱……
 “维多利亚之剑亚历山德莉娜，驱逐萨卡兹王的君王！”
 但这是你想听的故事吗？你又以何等身份握住这柄剑？
 国王？英雄？或是人民？
@@ -46,11 +46,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avgnew_112_siege_1#6$2",focus="m")]
-[name="推进之王"]（......老师。）
+[name="推进之王"]（……老师。）
 [charslot(slot="m",name="avg_155_tiger_1#7$1",focus="m")]
 [name="因陀罗"]维娜，接住你了！
 [charslot(slot="m",name="avg_npc_405_1#9$1",focus="m")]
-[name="摩根"]你做到了，维娜......
+[name="摩根"]你做到了，维娜……
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_transmissionget",volume=0.6)]
@@ -63,7 +63,7 @@
 战斗在继续。
 诸王之息插入剑座，这不是结束，而只是一个开端。
 [charslot(slot="m",name="avg_npc_396_1#7$1",focus="m")]
-[name="达格达"]蒸汽骑士......在帮我们？
+[name="达格达"]蒸汽骑士……在帮我们？
 [charslot(slot="m",name="avgnew_112_siege_1#10$2",focus="m")]
 [name="推进之王"]不，我想他只为诸王之息而来。
 [dialog]
@@ -82,7 +82,7 @@
 [dialog]
 [Delay(time=2)]
 [name="推进之王"]继续战斗吧。
-[name="推进之王"]直至......胜利真的到来的那一刻。
+[name="推进之王"]直至……胜利真的到来的那一刻。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
 [image]
@@ -99,13 +99,13 @@
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]劈开天灾的光芒，不再是神话，不再是流传于街头巷尾的英雄传奇。
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
-[name="开斯特公爵"]你能想象吗？在此等光芒的荫庇之下，我们的领民将不用再恐惧天灾。我们的城市......将荣光永固。
+[name="开斯特公爵"]你能想象吗？在此等光芒的荫庇之下，我们的领民将不用再恐惧天灾。我们的城市……将荣光永固。
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]那个时候，根本不会有人料得到，它会被用在此时此刻。
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]用在一场由“野蛮的魔族佬”掀起的战争里，用在一片狼藉的伦蒂尼姆周围。
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
-[name="开斯特公爵"]而且......是在那支典范军的支持下，由我那位亲爱的哥哥的遗孤亲手做到。
+[name="开斯特公爵"]而且……是在那支典范军的支持下，由我那位亲爱的哥哥的遗孤亲手做到。
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]剑座事关我们在维多利亚数十年来的布置，本应成为开斯特的荣光，如今却成了先王遗孤所创造的传说的一部分。
 [charslot(slot="m",name="avg_npc_867_1#1$1",focus="m")]
@@ -113,11 +113,11 @@
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]失望？
 [charslot(slot="m",name="avg_npc_726_1#2$1",focus="m")]
-[name="开斯特公爵"]......不。
+[name="开斯特公爵"]……不。
 [charslot(slot="m",name="avg_npc_726_1#2$1",focus="m")]
 [name="开斯特公爵"]“‘荣光’号被拯救了，维多利亚被拯救了。”
 [charslot(slot="m",name="avg_npc_726_1#2$1",focus="m")]
-[name="开斯特公爵"]我又何必......失望？
+[name="开斯特公爵"]我又何必……失望？
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
 [name="开斯特公爵"]“战争中的奇迹”，我甚至能听到我手下的亲卫如此窃窃私语。
 [charslot(slot="m",name="avg_npc_726_1#7$1",focus="m")]
@@ -152,7 +152,7 @@
 [dialog]
 [playsound(key="$d_gen_transmissionget",volume=1)]
 [CharacterCutin(widgetID="1", name="avgnew_112_siege_1#1$2", style="cutin", fadestyle= "horiz_expand_center", fadetime=0.5, offsetx=-200, width=200, block=true)]
-[name="推进之王"]公爵阁下......我还以为，至少你愿意亲自与我会面。
+[name="推进之王"]公爵阁下……我还以为，至少你愿意亲自与我会面。
 [charslot(slot="r",name="avg_npc_726_1#7$1",focus="r")]
 [name="开斯特公爵"]的确，与您会晤的安排本已准备好。
 [name="开斯特公爵"]但国剑激活之后，战场上的消息都重新汇集到了我这里。
@@ -167,15 +167,15 @@
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="r")]
 [name="开斯特公爵"]联军的反攻会从夺回银石崖开始——典范军是否愿意与我们一同创造奇迹？
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="none")]
-[name="推进之王"]......以公爵部队的名义？
+[name="推进之王"]……以公爵部队的名义？
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="r")]
 [name="开斯特公爵"]不，典范军不会，也不能隶属于任何公爵的部队，我向你保证。
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="r")]
 [name="开斯特公爵"]你们必须是独立行动的英雄部队。
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="none")]
-[name="推进之王"]......
+[name="推进之王"]……
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="r")]
-[name="开斯特公爵"]亚历山德莉娜，你会知道的......知道典范军对维多利亚来说，意味着什么。
+[name="开斯特公爵"]亚历山德莉娜，你会知道的……知道典范军对维多利亚来说，意味着什么。
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="r")]
 [name="开斯特公爵"]当下，我们确实站在同一边。
 [charslot(slot="r",name="avg_npc_726_1#5$1",focus="r")]
@@ -188,7 +188,7 @@
 [Background(image="50_g1_originiumcanyon",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]那金色光辉......
+[name="阿米娅"]那金色光辉……
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
 [name="阿米娅"]是诸王之息的作用。推进之王小姐和典范军做到了！
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
@@ -202,15 +202,15 @@
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]用不了多久，胜利的天平就会向维多利亚倾斜。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
-[name="阿米娅"]嗯......
+[name="阿米娅"]嗯……
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]阿米娅，当特雷西斯决定掀起这场战争，将无数萨卡兹的性命填在这他乡的战壕之中时，就一定已经料到了这一结果。
 [charslot(slot="m",name="avg_npc_394_1#1$1",focus="m")]
 [name="阿米娅"]我知道的，凯尔希医生。
 [charslot(slot="m",name="avg_npc_394_1#2$1",focus="m")]
-[name="阿米娅"]可越是这样，我就越忍不住在想......选择牺牲当下的这么多人，他们想要的，究竟是什么样的未来？
+[name="阿米娅"]可越是这样，我就越忍不住在想……选择牺牲当下的这么多人，他们想要的，究竟是什么样的未来？
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
-[name="凯尔希"]无论那是什么......
+[name="凯尔希"]无论那是什么……
 [dialog]
 [charslot]
 凯尔希抬头望向红色的天空。
@@ -226,21 +226,21 @@
 [CameraShake(duration=3, xstrength=4, ystrength=4, vibrato=20, randomness=30, fadeout=true)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_npc_394_1#5$1",focus="m")]
-[name="阿米娅"]峡谷对面......有晶簇正在发光？Logos先生......
+[name="阿米娅"]峡谷对面……有晶簇正在发光？Logos先生……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]再多的障眼法，也无法掩盖鲜血的本质。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]我已将赦罪师设下的全部幻术剥离。
 [dialog]
 [charslot]
-[Decision(options="只要从那里进去......", values="1")]
+[Decision(options="只要从那里进去……", values="1")]
 [Predicate(references="1")]
 [Decision(options="就可以找到真正的祭坛了。", values="1")]
 [Predicate(references="1")]
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]真相已触手可及。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]只是......
+[name="Logos"]只是……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]阴翳也已迫近。
 [dialog]
@@ -250,9 +250,9 @@
 很冷。太冷了。
 你又一次察觉到温度的变化。不知不觉间，泥沼一样的雾气围住了你们。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]......“灵幛”！
+[name="阿米娅"]……“灵幛”！
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]这么多......
+[name="阿米娅"]这么多……
 [dialog]
 [charslot]
 [charslot(slot="r",name="avg_npc_1331_1#1$1",focus="all",duration=1)]
@@ -265,13 +265,13 @@
 [charslot(slot="m",name="avg_003_kalts_1#5$1",focus="m")]
 [name="凯尔希"]孽茨雷要把我们留下。他不允许我们再前进了。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
-[name="Logos"]死者的哀歌，正盘旋于战场上空。食腐者的力量......近乎巅峰。
+[name="Logos"]死者的哀歌，正盘旋于战场上空。食腐者的力量……近乎巅峰。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]我已在天边看到了死亡呼出的阴云。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]若是烈日不再，我当于此升起驱散浓雾的光明。
 [charslot(slot="m",name="avg_npc_394_1#7$1",focus="m")]
-[name="阿米娅"]我们......
+[name="阿米娅"]我们……
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
 [name="Logos"]往对岸去。
 [charslot(slot="m",name="avg_npc_1072_1#1$1",focus="m")]
@@ -327,7 +327,7 @@ Logos既像是在描述正在做的事情，又仿佛只是施放了一段咒言
 浓雾又迫不及待地涌了上来。
 你想寻找那个熟悉的影子，或许因为距离太远，或许因为雾太浓，你什么都没看见。
 [dialog]
-[Decision(options="Logos会不会有危险？;我有些担心......", values="1;2")]
+[Decision(options="Logos会不会有危险？;我有些担心……", values="1;2")]
 [Predicate(references="1;2")]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="m")]
 [name="凯尔希"]博士，这是精英干员Logos的决定。
@@ -337,7 +337,7 @@ Logos既像是在描述正在做的事情，又仿佛只是施放了一段咒言
 [name="凯尔希"]告诉我，博士——你是否信任他，信任精英干员Logos？
 [dialog]
 [charslot(slot="m",name="avg_003_kalts_1#1$1",focus="none")]
-[Decision(options="......", values="1")]
+[Decision(options="……", values="1")]
 [Predicate(references="1")]
 [Decision(options="是的。;我相信他。", values="1;2")]
 [Predicate(references="1;2")]
@@ -367,10 +367,10 @@ Logos既像是在描述正在做的事情，又仿佛只是施放了一段咒言
 [playsound(key="$d_avg_boneflute_low",volume=1)]
 [delay(time=2)]
 哨声穿透浓雾，咒言如涟漪一般扩散。
-无需开口，无需书写......
+无需开口，无需书写……
 藏匿的死者无所遁形，“灵幛”的尖啸化作长剑，自迷雾中穿透而出。
 哨音呜咽着言语，女妖之歌回荡——
-在萨卡兹古老的血脉中，在铺满源石的山谷中，也在无数战死之人的哀歌中......
+在萨卡兹古老的血脉中，在铺满源石的山谷中，也在无数战死之人的哀歌中……
 燃烧的炮弹与巫术飞弹在战场上空彼此交织。
 一艘高速军舰正撞向一座巫术堡垒。
 几个维多利亚士兵正对一整支食腐者队伍发起冲锋。
@@ -393,21 +393,21 @@ Logos既像是在描述正在做的事情，又仿佛只是施放了一段咒言
 [dialog]
 [charslot(slot="m",name="avg_npc_1339_1#1$1",focus="m",duration=1)]
 [delay(time=1.5)]
-[name="孽茨雷"]哀珐尼尔......丧钟王庭的主人。
+[name="孽茨雷"]哀珐尼尔……丧钟王庭的主人。
 [charslot(slot="m",name="avg_npc_1339_1#1$1",focus="m")]
 [name="孽茨雷"]你选择一个人留下见我。
 [dialog]
 [charslot]
 他的衣角浮动，吹散迷雾。
 “灵幛”的白袍散落于枯枝堆积而成的森白山丘之上，长剑散落，如草如林。
-年轻的女妖侧坐山丘之巅，沾染血迹的手指轻盈地拨弄着唇边的骨哨......
+年轻的女妖侧坐山丘之巅，沾染血迹的手指轻盈地拨弄着唇边的骨哨……
 温柔。悠扬。
 [dialog]
 [PlaySound(key="$d_avg_clothmovement")]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_4133_logos_1#1$1",focus="m",duration=2)]
 [delay(time=3)]
-[name="Logos"]不......孽茨雷阁下。这里没有丧钟王庭的主人。
+[name="Logos"]不……孽茨雷阁下。这里没有丧钟王庭的主人。
 [name="Logos"]罗德岛精英干员Logos，特意正装迎客。
 [name="Logos"]我以死亡谱写此曲，赠予阁下您。
 [Dialog]

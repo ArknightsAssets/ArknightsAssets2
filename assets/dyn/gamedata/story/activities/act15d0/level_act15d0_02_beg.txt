@@ -10,7 +10,7 @@
 [name="缪尔赛思"]那么，让我们继续吧。
 [name="缪尔赛思"]感染者和非感染者的地位在监狱中反而得到了平等，真是有够讽刺的呢。
 [Character(name="char_108_silent_1#2",name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......那不能叫做平等。
+[name="赫默"]……那不能叫做平等。
 [Character(name="char_108_silent_1#2",name2="char_249_muesys_1#1",focus=2)]
 [name="缪尔赛思"]呵呵，确实，如果不被当作人对待才能获得平等，那么这种平等还是不要为好。
 [Character(name="char_108_silent_1#3",name2="char_249_muesys_1#1",focus=1)]
@@ -48,7 +48,7 @@
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#2",focus=2)]
 [name="缪尔赛思"]啊哈哈，也是，那么请吧。
 [Character(name="char_108_silent_1#5")]
-[name="赫默"]......在那之前，梅尔，能麻烦你帮我们做些吃的吗？
+[name="赫默"]……在那之前，梅尔，能麻烦你帮我们做些吃的吗？
 [Character(name="char_242_mayer#2")]
 [name="梅尔"]诶，可以哦，不过我不知道这里的厨房能不能用。
 [Character(name="char_249_muesys_1#1")]
@@ -70,14 +70,14 @@
 [PlaySound(key="$d_gen_walk_n", volume=1)]
 [Delay(time=2)]
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#6",focus=1)]
-[name="赫默"]你还真是......友善。
+[name="赫默"]你还真是……友善。
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#5",focus=2)]
 [name="缪尔赛思"]呵呵，我说了，我是来和你谈话的。
 [name="缪尔赛思"]反倒是你，为什么特意把梅尔小姐支开？
 [Character(name="char_108_silent_1#5",name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......因为我还没有告诉梅尔，海德兄弟的背后是能量科。
+[name="赫默"]……因为我还没有告诉梅尔，海德兄弟的背后是能量科。
 [Character(name="char_108_silent_1#5",name2="char_249_muesys_1#3",focus=2)]
-[name="缪尔赛思"]......什么？
+[name="缪尔赛思"]……什么？
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
 [Character]
@@ -89,7 +89,7 @@
 [name="赫默"]不是，我原本不打算告诉她，她只是陪我来这边采购一些器材的。
 [name="缪尔赛思"]原来如此，因为能量科和工程科走得很近，不希望让她有不好的想法吗。
 [name="缪尔赛思"]不过，既然她不是共犯，那么告诉她有相当的风险哦？
-[name="赫默"]......不用你提醒。
+[name="赫默"]……不用你提醒。
 [name="赫默"]比起这个，我想知道的是，在这件事情中，能量科究竟站在什么样的位置上？
 [name="缪尔赛思"]海德兄弟的背后是能量科，但这一次的事情本身与能量科无关。
 [name="缪尔赛思"]是海德兄弟借用了能量科的资源策划了这起刺杀。
@@ -99,7 +99,7 @@
 [name="缪尔赛思"]而奇怪的是，我的情报显示，她本应该是前往刺杀安东尼的杀手之一。
 [name="缪尔赛思"]但根据你刚才的说法，你的助手似乎只有卡夫卡小姐一个人。
 [name="缪尔赛思"]难道罗宾并不是你的安排？
-[name="赫默"]......看来你确实对越狱的过程一无所知，缪尔赛思主任。
+[name="赫默"]……看来你确实对越狱的过程一无所知，缪尔赛思主任。
 [name="缪尔赛思"]我早就说过了嘛。
 [name="赫默"]以及，你搞错了一件事，我并没有情报灵通到了解这场刺杀会发生。
 [name="缪尔赛思"]诶？
@@ -108,7 +108,7 @@
 [name="缪尔赛思"]难道说，你只是掌握了安东尼这条线索？！
 [name="赫默"]没错，我在半年前才发现安东尼并没有和他的家人被关在同一座监狱这件事，然后我就安排了卡夫卡进入监狱。
 [name="赫默"]我当时的想法是，如果能见到他并协助他越狱自然最好，如果做不到，那就算了。
-[name="缪尔赛思"]......然后正好撞上了这场刺杀吗。
+[name="缪尔赛思"]……然后正好撞上了这场刺杀吗。
 [name="缪尔赛思"]原来如此，这样想来确实合理很多。
 [dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
@@ -121,19 +121,19 @@
 [name="缪尔赛思"]不过，告诉我这件事真的好吗？
 [name="缪尔赛思"]要是让我保持着你是为了阻止这场刺杀而行动的印象的话，会让我觉得你厉害很多哦。
 [Character(name="char_108_silent_1#3",name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......我不擅长做这种事，缪尔赛思主任。
+[name="赫默"]……我不擅长做这种事，缪尔赛思主任。
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#4",focus=2)]
-[name="缪尔赛思"]......原来如此，一开始我以为你是我的同类，现在来看，你其实和梅尔小姐其实才是一类人呢。
+[name="缪尔赛思"]……原来如此，一开始我以为你是我的同类，现在来看，你其实和梅尔小姐其实才是一类人呢。
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#1",focus=2)]
 [name="缪尔赛思"]只不过有什么原因让你在最喜爱的研究之余，不得不关心一些自己原本不在意的事情。
 [Character(name="char_108_silent_1#3",name2="char_249_muesys_1#1",focus=1)]
-[name="赫默"]......
+[name="赫默"]……
 [Character(name="char_249_muesys_1#5")]
 [musicvolume(volume=0,fadetime=0)]
 [name="缪尔赛思"]而这个原因，我猜，是“炎魔”，对吧？
 [Delay(time=1)]
 [Character(name="char_108_silent_1#3",name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......
+[name="赫默"]……
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#5",focus=1)]
 [name="赫默"]那件事与这次的事情无关，缪尔赛思主任。
 [name="赫默"]如果你是为了伊芙利特而来，那么我们的谈话就到此为止吧。
@@ -145,7 +145,7 @@
 [name="缪尔赛思"]为了表达我的歉意，我就免费赠送你一个问题吧。
 [musicvolume(volume=0.4,fadetime=1.5)]
 [Character(name="char_108_silent_1#4")]
-[name="赫默"]......不必。
+[name="赫默"]……不必。
 [Character(name="char_249_muesys_1#3")]
 [name="缪尔赛思"]哦？
 [Character(name="char_108_silent_1#4")]
@@ -156,26 +156,26 @@
 [Character]
 [Delay(time=0.5)]
 [Character(name="char_108_silent_1#5",name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......总之，对我来说，这场刺杀也是完全的意外，我没想到海德兄弟会这么做。
+[name="赫默"]……总之，对我来说，这场刺杀也是完全的意外，我没想到海德兄弟会这么做。
 [Character(name="char_108_silent_1#5",name2="char_249_muesys_1#5",focus=2)]
 [name="缪尔赛思"]会这么想，说明你还不完全了解能量科那位的作风呢。
-[name="缪尔赛思"]安东尼是一个隐患，而那位不容许一点隐患和无法掌控的事存在，一旦被他知道他们竟然留下了这样的手尾......
+[name="缪尔赛思"]安东尼是一个隐患，而那位不容许一点隐患和无法掌控的事存在，一旦被他知道他们竟然留下了这样的手尾……
 [name="缪尔赛思"]那倒霉的就是他们兄弟了。
 [name="缪尔赛思"]所以他们花了几年精心策划了这场刺杀，就是为了切实地将安东尼葬送在监狱中。
 [Character(name="char_108_silent_1#3")]
-[name="赫默"]......为了掩盖自己做的恶事，不得不做更多的恶事。
+[name="赫默"]……为了掩盖自己做的恶事，不得不做更多的恶事。
 [name="赫默"]真是令人反胃。
 [Character(name="char_108_silent_1#5",name2="char_249_muesys_1#5",focus=2)]
 [name="缪尔赛思"]但是有些事情是没有办法回头的哦？
 [name="缪尔赛思"]说回那名杀手，既然那个叫做罗宾的杀手背后不是你，就只剩下一种可能了。
 [name="缪尔赛思"]罗宾是中途反水的杀手，对吧？
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#5",focus=1)]
-[name="赫默"]......没错。
+[name="赫默"]……没错。
 [Character(name="char_108_silent_1#4",name2="char_249_muesys_1#1",focus=2)]
 [name="缪尔赛思"]那么，可以麻烦你切换一下视角吗？我有点好奇这位杀手小姐在监狱里的行动。
 [name="缪尔赛思"]既然她和安东尼一起逃了出来，想必你也确认过她的身份和经历吧？
 [Character(name="char_108_silent_1#4")]
-[name="赫默"]......罗宾，她一开始确实是被派遣进入监狱刺杀安东尼的杀手之一。
+[name="赫默"]……罗宾，她一开始确实是被派遣进入监狱刺杀安东尼的杀手之一。
 [name="赫默"]卡夫卡的回忆里那场双方囚犯之间的冲突发生时，她也刚进入监狱没多久。
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

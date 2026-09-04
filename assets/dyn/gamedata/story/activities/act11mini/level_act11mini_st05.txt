@@ -14,7 +14,7 @@
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
 [name="工作人员A"]把你的屁股从咖啡机旁的椅子上挪到你的办公桌前面来。
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
-[name="工作人员B"]咳......！
+[name="工作人员B"]咳……！
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
 [name="工作人员A"]上回提的意见你改得怎么样了？现在到下午三点的会可没多长时间了。
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
@@ -36,11 +36,11 @@
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
 [name="工作人员B"]给，是这一份，讲稿是附在下面的。
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
-[name="工作人员B"]......那个......
+[name="工作人员B"]……那个……
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
 [name="工作人员A"]什么？
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
-[name="工作人员B"]......其实我做这份方案的时候，一直觉得有个问题我们内部无法解决，需要在会上提出来让老大和市长谈才行。
+[name="工作人员B"]……其实我做这份方案的时候，一直觉得有个问题我们内部无法解决，需要在会上提出来让老大和市长谈才行。
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
 [name="工作人员A"]什么问题？
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
@@ -66,11 +66,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="avg_npc_544_1#3$1")]
 [playsound(key="$d_avg_paper1",volume=0.8)]
-[name="赫尔曼"] ......
+[name="赫尔曼"] ……
 [Character(name="avg_npc_544_1#1$1")]
-[name="赫尔曼"]......单单几家物流公司的运力肯定不够......
+[name="赫尔曼"]……单单几家物流公司的运力肯定不够……
 [Character(name="avg_npc_544_1#1$1")]
-[name="赫尔曼"]现代物流公司专业的运输管理能力......
+[name="赫尔曼"]现代物流公司专业的运输管理能力……
 [dialog]
 [PlaySound(key="$d_avg_telephonering", channel="slide", loop=true, volume=1)]
 [delay(time=1)]
@@ -116,7 +116,7 @@
 [character(name="avg_npc_544_1#1$1",name2="avg_npc_222",focus=2)]
 [name="秘书"]需要我代您出席会议吗？
 [character(name="avg_npc_544_1#1$1",name2="avg_npc_222",focus=1)]
-[name="赫尔曼"]......你跟着我去见合作方，会议找另一个秘书和他们先开。
+[name="赫尔曼"]……你跟着我去见合作方，会议找另一个秘书和他们先开。
 [character(name="avg_npc_544_1#1$1",name2="avg_npc_222",focus=1)]
 [name="赫尔曼"]让他做好会议记录，结束后交给我。
 [character(name="avg_npc_544_1#1$1",name2="avg_npc_222",focus=2)]
@@ -124,7 +124,7 @@
 [character(name="avg_npc_544_1#1$1",name2="avg_npc_222",focus=2)]
 [name="秘书"]与物流合作方商讨这件事需要和各部门同步一下吗？
 [character(name="avg_npc_544_1#3$1",name2="avg_npc_222",focus=1)]
-[name="赫尔曼"]......可以先说。
+[name="赫尔曼"]……可以先说。
 [character(name="avg_npc_544_1#1$1",name2="avg_npc_222",focus=1)]
 [name="赫尔曼"]但只说也许能和外国物流公司合作，成功的话会考虑引进新的物流管理模式，要在会中就给出一个新的方案。
 [character(name="avg_npc_544_1#1$1",name2="avg_npc_222",focus=2)]
@@ -139,7 +139,7 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [character(name="avg_npc_222")]
-[name="秘书"]......是的，目前是这个状态。
+[name="秘书"]……是的，目前是这个状态。
 [character(name="avg_npc_222")]
 [name="秘书"]市长先生下午将会和客户商讨，下午的会议主题参考我刚才所说，这是文件。
 [character(name="avg_npc_222")]
@@ -156,14 +156,14 @@
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
 [name="工作人员A"]小子，从现在开始，你还有四个小时。
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
-[name="工作人员B"]呼......
+[name="工作人员B"]呼……
 [playsound(key="$d_avg_paper1",volume=0.8)]
 [character(name="avg_npc_020",name2="avg_npc_020",focus=1)]
 [name="工作人员B"]您看，这是我之前准备的另一份方案，关于引进新的物流管理模式的合作意向书。
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
 [name="工作人员A"]？
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
-[name="工作人员A"]哈哈，你小子......
+[name="工作人员A"]哈哈，你小子……
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
 [name="工作人员A"]给你说个好消息，这次工作完成得好，每人都能领到一笔奖金。
 [character(name="avg_npc_020",name2="avg_npc_020",focus=2)]
@@ -219,7 +219,7 @@
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#2$1", focus=2)]
 [name="欧厄尔"] 不过，既然是双方合作共赢，在报价这一方面，我们希望可以再讨论一番。
 [Character(name="avg_npc_544_1#8$1", name2="avg_npc_539_1#2$1", focus=1)]
-[name="赫尔曼"]......
+[name="赫尔曼"]……
 [Character(name="avg_npc_544_1#8$1", name2="avg_npc_539_1#1$1", focus=2)]
 [name="欧厄尔"] 这只腕表——
 [Character(name="avg_npc_544_1#8$1", name2="avg_npc_539_1#11$1", focus=2)]
@@ -233,7 +233,7 @@
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#9$1", focus=2)]
 [name="欧厄尔"] 峯驰物流的意思是，我们或许可以无偿提供这次帮助。
 [Character(name="avg_npc_544_1#5$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]............
+[name="赫尔曼"]…………
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]您说说看。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#1$1", focus=2)]
@@ -248,7 +248,7 @@
 [name="赫尔曼"]那我也相信欧厄尔先生清楚您这句话的分量。
 赫尔曼将后背轻靠在了椅背上。
 [Character(name="avg_npc_222")]
-[name="秘书"]......咳。
+[name="秘书"]……咳。
 [Character(name="avg_npc_222")]
 [name="秘书"]市长先生，您原定三点的会议即将开始。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#1$1", focus=1)]
@@ -318,7 +318,7 @@
 [Character(name="avg_npc_544_1#3$1", name2="avg_npc_539_1#7$1", focus=2)]
 [name="欧厄尔"] 等离开后，谁说了算？
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#7$1", focus=1)]
-[name="赫尔曼"]......
+[name="赫尔曼"]……
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#10$1", focus=2)]
 [name="欧厄尔"] 哈哈哈，市长先生，您知道，大炎与这里相隔万里，即使有着现代的交通方式，这仍旧是一段不短的距离。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=2)]
@@ -333,7 +333,7 @@
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=2)]
 [name="欧厄尔"] 机会难得，时间不等人。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]......怪不得欧厄尔先生要送腕表。
+[name="赫尔曼"]……怪不得欧厄尔先生要送腕表。
 [dialog]
 [character]
 赫尔曼看向坐在桌子后方的拜松。
@@ -342,13 +342,13 @@
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#3$1", focus=2)]
 [name="欧厄尔"] 我的儿子？
 [Character(name="char_325_bison_1#1")]
-[name="拜松"]我吗？市长先生，我并没有参与这次......
+[name="拜松"]我吗？市长先生，我并没有参与这次……
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#1$1", focus=1)]
 [name="赫尔曼"]哈哈，没什么，只是随口一问。
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#1$1", focus=1)]
 [name="赫尔曼"]那你希望我们谈成今天这份合同吗？
 [Character(name="char_325_bison_1#1")]
-[name="拜松"]......作为峯驰物流的执行经理，我自然是希望的。
+[name="拜松"]……作为峯驰物流的执行经理，我自然是希望的。
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#1$1", focus=1)]
 [name="赫尔曼"]嗯。
 [Character(name="char_325_bison_1#1")]
@@ -370,7 +370,7 @@
 [Character(name="avg_npc_544_1#3$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]咳，辛苦您为了这项合同所做的努力。
 [Character(name="avg_npc_544_1#3$1", name2="avg_npc_539_1#9$1", focus=2)]
-[name="欧厄尔"] ......
+[name="欧厄尔"] ……
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]不过，太阳快落山了，这时候的景色最好看，我们出去聊聊？
 [Dialog]
@@ -388,11 +388,11 @@
 [character(name="avg_npc_022",name2="avg_npc_021",focus=1)]
 [name="店主A"]这是剩下的最后一点了，把这些存货卖完之后，我们也就收拾东西准备搬到新城区里吧。
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
-[name="店主B"]还真有点舍不得呢......我从小就在这里长大，这里的每粒沙子我都认得......
+[name="店主B"]还真有点舍不得呢……我从小就在这里长大，这里的每粒沙子我都认得……
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
 [name="店主B"]走之前我一定要带一瓶沙子，以后还不知道能不能回来。
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
-[name="店主B"]肯定不能了吧......？
+[name="店主B"]肯定不能了吧……？
 [character(name="avg_npc_022",name2="avg_npc_021",focus=1)]
 [name="店主A"]说不定呢？别这么伤心嘛。
 [character(name="avg_npc_022",name2="avg_npc_021",focus=1)]
@@ -405,11 +405,11 @@
 [Character(name="char_325_bison_1#1")]
 [name="拜松"]这、这是什么！
 [Character(name="char_325_bison_1#2")]
-[name="拜松"]沙虫......腿？！
+[name="拜松"]沙虫……腿？！
 [character(name="avg_npc_539_1#3$1")]
 [name="欧厄尔"]怎么咋咋呼呼的？
 [character(name="avg_npc_539_1#5$1")]
-[name="欧厄尔"]......市长先生，汐斯塔除了风景一绝，食物也是与众不同啊。
+[name="欧厄尔"]……市长先生，汐斯塔除了风景一绝，食物也是与众不同啊。
 [Character(name="avg_npc_544_1#9$1")]
 [name="赫尔曼"]啊，之前黑曜石节的时候，有个小姑娘在这里卖了这种烧烤。
 [Character(name="avg_npc_544_1#10$1")]
@@ -419,19 +419,19 @@
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
 [name="店主B"]（你问我，我见过市长真人吗？我每天见的人和你不一样啊？）
 [character(name="avg_npc_022",name2="avg_npc_021",focus=1)]
-[name="店主A"]（我们要不要......？）
+[name="店主A"]（我们要不要……？）
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
-[name="店主B"]（我觉得我们还是正常点吧......）
+[name="店主B"]（我觉得我们还是正常点吧……）
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
 [name="店主B"]哈哈哈哈，这几位客人要尝尝吗？
 [Character(name="char_325_bison_1#2")]
-[name="拜松"]啊......
+[name="拜松"]啊……
 [character(name="avg_npc_539_1#3$1")]
-[name="欧厄尔"]啊......
+[name="欧厄尔"]啊……
 [character(name="avg_npc_539_1#5$1")]
-[name="欧厄尔"]......还是算了吧？
+[name="欧厄尔"]……还是算了吧？
 [character(name="avg_npc_539_1#3$1")]
-[name="欧厄尔"]不过市长先生......那边一直转的设施是？
+[name="欧厄尔"]不过市长先生……那边一直转的设施是？
 [Character(name="avg_npc_544_1#5$1")]
 [name="赫尔曼"]那个吗？是“旋转驮兽”。
 [Character(name="avg_npc_544_1#8$1")]
@@ -447,7 +447,7 @@
 [character(name="avg_npc_022",name2="avg_npc_021",focus=1)]
 [name="店主A"]小伙子好有礼貌，长得也挺可爱的嘛。
 [Character(name="char_325_bison_1#3")]
-[name="拜松"]欸？......谢谢您。
+[name="拜松"]欸？……谢谢您。
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
 [name="店主B"]？
 [character(name="avg_npc_022",name2="avg_npc_021",focus=2)]
@@ -502,17 +502,17 @@
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#5$1", focus=2)]
 [name="欧厄尔"] 他四岁那阵，他们学校举办了个什么亲子节，我去参加了。
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#7$1", focus=2)]
-[name="欧厄尔"] 去了以后发现是亲子拔河比赛，他母亲身体不好，是我上去拔河......
+[name="欧厄尔"] 去了以后发现是亲子拔河比赛，他母亲身体不好，是我上去拔河……
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#7$1", focus=1)]
 [name="赫尔曼"]欧厄尔先生拔河，应该没人能赢得过吧？
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#10$1", focus=2)]
-[name="欧厄尔"] ......对，这方面是没人能赢得过，我们很快就得了第一。
+[name="欧厄尔"] ……对，这方面是没人能赢得过，我们很快就得了第一。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#5$1", focus=2)]
 [name="欧厄尔"] 但坏就坏在那个时候小朋友们都还不懂事，见我们赢了，他们也想赢，一股脑地跑过来抓着我的腿叫“爸爸”，想让我帮他们拔河。
 [Character(name="avg_npc_544_1#5$1", name2="avg_npc_539_1#5$1", focus=1)]
-[name="赫尔曼"]咳咳......
+[name="赫尔曼"]咳咳……
 [Character(name="avg_npc_544_1#5$1", name2="avg_npc_539_1#5$1", focus=1)]
-[name="赫尔曼"]您夫人......？
+[name="赫尔曼"]您夫人……？
 [Character(name="avg_npc_544_1#5$1", name2="avg_npc_539_1#7$1", focus=2)]
 [name="欧厄尔"] 身体的缘故，当时不在场。
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#7$1", focus=1)]
@@ -522,15 +522,15 @@
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#11$1", focus=2)]
 [name="欧厄尔"] 我都不敢说话。
 [Character(name="char_325_bison_1#4")]
-[name="拜松"]......爸！
+[name="拜松"]……爸！
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#10$1", focus=2)]
 [name="欧厄尔"] 哈哈哈！
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#9$1", focus=2)]
 [name="欧厄尔"] 之前市长先生提过，您是有两个女儿？
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]嗯......
+[name="赫尔曼"]嗯……
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]两个女儿......
+[name="赫尔曼"]两个女儿……
 [dialog]
 [character]
 赫尔曼将后背轻靠在了椅背上。
@@ -551,9 +551,9 @@
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]她是胆子挺大的。
 [Character(name="avg_npc_544_1#6$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]我在旁边听了许久，有些生气，但又不得不承认......
+[name="赫尔曼"]我在旁边听了许久，有些生气，但又不得不承认……
 [Character(name="avg_npc_544_1#6$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]我的这个女儿......温室里长出的花固然美好、艳丽，但我希望她可以是温室里的野草。
+[name="赫尔曼"]我的这个女儿……温室里长出的花固然美好、艳丽，但我希望她可以是温室里的野草。
 [Character(name="avg_npc_544_1#8$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]能做出这种事情来，她确实是我的亲生女儿。我也能相信她一个人在外面，有能力化解自己遇到的难处。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=1)]
@@ -565,15 +565,15 @@
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#3$1", focus=1)]
 [name="赫尔曼"]我让他来我手下做事。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#10$1", focus=2)]
-[name="欧厄尔"] 哈哈哈哈，不愧是......
+[name="欧厄尔"] 哈哈哈哈，不愧是……
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=2)]
 [name="欧厄尔"] 那个人也真是个人才。
 [Character(name="avg_npc_222")]
-[name="秘书"]......咳咳......
+[name="秘书"]……咳咳……
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#8$1", focus=2)]
 [name="欧厄尔"] 哦，原来是您啊？
 [Character(name="avg_npc_222")]
-[name="秘书"]不敢不敢......
+[name="秘书"]不敢不敢……
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#10$1", focus=2)]
 [name="欧厄尔"] 哈哈哈，真有意思。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=2)]
@@ -585,7 +585,7 @@
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#1$1", focus=2)]
 [name="欧厄尔"] 我在龙门认识几个老朋友，他们虽然胡来是胡来了点，但放这小子在他们那里，肯定不会出事。
 [Character(name="avg_npc_544_1#9$1", name2="avg_npc_539_1#1$1", focus=1)]
-[name="赫尔曼"]想让孩子们好好长大可真是一件难事......
+[name="赫尔曼"]想让孩子们好好长大可真是一件难事……
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#1$1", focus=1)]
 [name="赫尔曼"]欧厄尔先生想来为这个孩子付出了不少心血。
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#1$1", focus=2)]
@@ -593,11 +593,11 @@
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#1$1", focus=2)]
 [name="欧厄尔"] 几年以前，有着年幼的儿子，患病的妻子，那时我确实萌生过放缓公司进程的想法。
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#5$1", focus=2)]
-[name="欧厄尔"] 她连写了十数封家书质问我，哈哈哈，要不是雷姆必拓与大炎相隔千里，我真的怀疑她会直接过来......
+[name="欧厄尔"] 她连写了十数封家书质问我，哈哈哈，要不是雷姆必拓与大炎相隔千里，我真的怀疑她会直接过来……
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#9$1", focus=2)]
 [name="欧厄尔"] 有了那些信，峯驰物流才会有现在的样子，我和这小子也才有了现在的样子。
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]......您真是一个幸运的人。
+[name="赫尔曼"]……您真是一个幸运的人。
 [dialog]
 [character]
 看着眼前拍打不停的浪花，赫尔曼沉默了一会儿。
@@ -606,15 +606,15 @@
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=2)]
 [name="欧厄尔"] 谢谢市长先生。
 [Character(name="avg_npc_544_1#8$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]“市长先生”......
+[name="赫尔曼"]“市长先生”……
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]称呼我赫尔曼就好。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#10$1", focus=2)]
-[name="欧厄尔"] 赫尔曼先生......我现在才真的觉得您也是位父亲，而不光是一位市长。
+[name="欧厄尔"] 赫尔曼先生……我现在才真的觉得您也是位父亲，而不光是一位市长。
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#10$1", focus=1)]
 [name="赫尔曼"]哈哈，欧厄尔先生也和我想的有些不一样。
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#4$1", focus=2)]
-[name="欧厄尔"] 哈哈哈......
+[name="欧厄尔"] 哈哈哈……
 [PlaySound(key="$clink")]
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#4$1", focus=2)]
 [name="欧厄尔"] 赫尔曼先生，我们来喝一杯吧。
@@ -642,7 +642,7 @@
 [Character(name="avg_npc_544_1#4$1", name2="avg_npc_539_1#4$1", focus=2)]
 [name="欧厄尔"] 这可是拔河赢了一整个学校的手。
 [Character(name="avg_npc_544_1#10$1", name2="avg_npc_539_1#4$1", focus=1)]
-[name="赫尔曼"]......那我确实可以放心。
+[name="赫尔曼"]……那我确实可以放心。
 [dialog]
 [character]
 两人拿着酒杯，看着眼前的风景。
@@ -656,7 +656,7 @@
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]原本，它是不可能来到汐斯塔的吧。
 [Character(name="avg_npc_544_1#3$1", name2="avg_npc_539_1#9$1", focus=1)]
-[name="赫尔曼"]......
+[name="赫尔曼"]……
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#9$1", focus=1)]
 [name="赫尔曼"]我相信除了汐斯塔，它也会合其他国家人们的口味。
 [Character(name="avg_npc_544_1#1$1", name2="avg_npc_539_1#10$1", focus=2)]

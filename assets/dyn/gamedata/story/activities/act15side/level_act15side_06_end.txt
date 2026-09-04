@@ -7,7 +7,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [playMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.4)]
 [Character(name="avg_npc_305_1#1$1")]
-[name="街头青年"]  ......没看到掌柜的？
+[name="街头青年"]  ……没看到掌柜的？
 [Character(name="avg_npc_305_1#1$1",name2="avgnew_npc_140_1#2$1",focus=2)]
 [name="客栈伙计"]  没看到。
 [Character(name="avg_npc_305_1#1$1",name2="avgnew_npc_140_1#2$1",focus=1)]
@@ -15,7 +15,7 @@
 [Character(name="avg_npc_305_1#1$1",name2="avgnew_npc_140_1#2$1",focus=2)]
 [name="客栈伙计"]  但愿吧。
 [Character(name="avg_npc_305_1#1$1",name2="avgnew_npc_140_1#2$1",focus=1)]
-[name="街头青年"]  ......咋了刘二，心情不好？
+[name="街头青年"]  ……咋了刘二，心情不好？
 [Character(name="avg_npc_305_1#1$1",name2="avgnew_npc_140_1#2$1",focus=2)]
 [name="客栈伙计"]  好，好得很。
 [name="客栈伙计"]  怎么不好？
@@ -47,13 +47,13 @@
 [Character(name="avg_npc_302_1#6$1")]
 [name="挑山人"]  你方才飞沙裹手，打裂我的扁担，这是什么鬼掌法？
 [Character(name="avg_npc_299_1#4$1")]
-[name="太合"]  ......吃我一掌，只是微微寸裂，如此扁担，反倒稀奇，有何来历？
+[name="太合"]  ……吃我一掌，只是微微寸裂，如此扁担，反倒稀奇，有何来历？
 [Character(name="avg_npc_302_1#1$1")]
-[name="挑山人"]  ......我用的只是寻常青竹扁担。
+[name="挑山人"]  ……我用的只是寻常青竹扁担。
 [Character(name="avg_npc_299_1#6$1")]
 [name="太合"]  那我使的便是毫无章法之掌法。
 [Character(name="avg_npc_302_1#5$1")]
-[name="挑山人"]  ......你叫什么？
+[name="挑山人"]  ……你叫什么？
 [Character(name="avg_npc_299_1#1$1")]
 [name="太合"]  太合。
 [Character(name="avg_npc_302_1#5$1")]
@@ -64,7 +64,7 @@
 [Character(name="avg_npc_299_1#1$1")]
 [name="太合"]  谋天下万世昌宁。
 [Character(name="avg_npc_302_1#1$1")]
-[name="挑山人"]  ......哈哈，好大口气！
+[name="挑山人"]  ……哈哈，好大口气！
 [name="挑山人"]  只可惜，这东西还是不能给你们。
 [Character(name="avg_npc_299_1#1$1")]
 [name="太合"]  你逃无可逃。
@@ -82,7 +82,7 @@
 风筝断线，风起而身动。
 [playMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.4)]
 [Character(name="avg_npc_299_1#3$1")]
-[name="太合"]  ......唔，你方才藏了身法？
+[name="太合"]  ……唔，你方才藏了身法？
 [Character(name="avg_npc_302_1#5$1")]
 [name="挑山人"]  在山上，你追不上我。
 [Character(name="avg_npc_302_1#1$1")]
@@ -95,7 +95,7 @@
 [Character(fadetime=0.5)]
 [delay(time=2)]
 [Character(name="avg_npc_299_1#2$1")]
-[name="太合"]  ......
+[name="太合"]  ……
 [delay(time=0.6)]
 [dialog]
 [character]
@@ -103,21 +103,21 @@
 [PlaySound(key="$rungeneral", volume=0.5)]
 [Character(name="avg_npc_297_1#3$1",fadetime=1,block=true)]
 [delay(time=1)]
-[name="左乐"]  ......太合叔！
+[name="左乐"]  ……太合叔！
 [Character(name="avg_npc_297_1#4$1")]
 [name="左乐"]  没追上？
 [Character(name="avg_npc_297_1#4$1",name2="avg_npc_299_1#2$1",focus=2)]
-[name="太合"]  若舍身相追，并非难事。只是......
+[name="太合"]  若舍身相追，并非难事。只是……
 [Character(name="avg_npc_297_1#1$1",name2="avg_npc_299_1#2$1",focus=1)]
 [name="左乐"]  他要以酒盏为威胁，逼郑掌柜与他相见。
 [Character(name="avg_npc_297_1#1$1",name2="avg_npc_299_1#1$1",focus=2)]
 [name="太合"]  峰顶忘水坪，二者相见，必死其一。
 [Character(name="avg_npc_297_1#1$1",name2="avg_npc_299_1#1$1",focus=1)]
-[name="左乐"]  ......没有余地？
+[name="左乐"]  ……没有余地？
 [Character(name="avg_npc_297_1#1$1",name2="avg_npc_299_1#5$1",focus=2)]
 [name="太合"]  方才交手，知根知底，绝无余地。
 [Character(name="avg_npc_297_1#6$1",name2="avg_npc_299_1#5$1",focus=1)]
-[name="左乐"]  ......峰顶忘水坪是吧。
+[name="左乐"]  ……峰顶忘水坪是吧。
 [name="左乐"]  得抢占先机。
 [dialog]
 [Character(name="avg_npc_297_1#6$1", name2="avg_npc_299_1#5$1", focus=0)]
@@ -132,20 +132,20 @@
 [Character(name="avg_322_lmlee_1#5$1",fadetime=1,block=true)]
 [PlaySound(key="$d_avg_footstep_stonestep", volume=0.6)]
 [delay(time=1.5)]
-[name="老鲤"]  ......幸好没和那个挑山人起什么冲突，看那身手，都让我想起十几年前最后一次见到槐天裴的时候了。
+[name="老鲤"]  ……幸好没和那个挑山人起什么冲突，看那身手，都让我想起十几年前最后一次见到槐天裴的时候了。
 [Character(name="avg_npc_296_1#6$1")]
-[name="杜小姐"]  ......
+[name="杜小姐"]  ……
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#6$1", focus=1)]
 [name="老鲤"]  你认识那两个人，对吧。
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#6$1", focus=2)]
-[name="杜小姐"]  ......我说过，爹是领了朝廷密令，那两个人，就是朝廷的信使。
+[name="杜小姐"]  ……我说过，爹是领了朝廷密令，那两个人，就是朝廷的信使。
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#6$1", focus=1)]
 [name="老鲤"]  知道身份吗？
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#1$1", focus=2)]
 [name="杜小姐"]  只知道那个领头的大块头，是肃政院的大官。
 [Character(name="avg_322_lmlee_1#8$1", name2="avg_npc_296_1#1$1", focus=1)]
-[name="老鲤"]  ......我心里有数了。
-[name="老鲤"]  虽然本不想麻烦罗德岛......但看来，还是得借他们的力量......
+[name="老鲤"]  ……我心里有数了。
+[name="老鲤"]  虽然本不想麻烦罗德岛……但看来，还是得借他们的力量……
 [Character(name="avg_322_lmlee_1#6$1", name2="avg_npc_296_1#1$1", focus=1)]
 [name="老鲤"]  唉，不过这下可麻烦了。
 [Character(name="avg_322_lmlee_1#6$1", name2="avg_npc_296_1#9$1", focus=2)]
@@ -175,21 +175,21 @@
 [Character(name="avg_322_lmlee_1#4$1", name2="avg_npc_296_1#9$1", focus=1)]
 [name="老鲤"]  是掌柜的？
 [Character(name="avg_322_lmlee_1#4$1", name2="avg_npc_296_1#9$1", focus=2)]
-[name="杜小姐"]  爹怎么在这儿......？而且......
+[name="杜小姐"]  爹怎么在这儿……？而且……
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#9$1", focus=1)]
 [name="老鲤"]  你脸色很白。
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#9$1", focus=2)]
-[name="杜小姐"]  他......他拿着的是他的刀？
-[name="杜小姐"]  不，这么多年......他从来没拿过他的刀......他......
+[name="杜小姐"]  他……他拿着的是他的刀？
+[name="杜小姐"]  不，这么多年……他从来没拿过他的刀……他……
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#9$1", focus=1)]
 [name="老鲤"]  掌柜的是个刀客？
 [Character(name="avg_322_lmlee_1#1$1", name2="avg_npc_296_1#7$1", focus=2)]
-[name="杜小姐"]  ......以前是。
+[name="杜小姐"]  ……以前是。
 [Character(name="avg_322_lmlee_1#5$1", name2="avg_npc_296_1#7$1", focus=1)]
 [name="老鲤"]  那看来现在也是了。
 [name="老鲤"]  情况不妙。
 [Character(name="avg_322_lmlee_1#5$1", name2="avg_npc_296_1#6$1", focus=2)]
-[name="杜小姐"]  ......
+[name="杜小姐"]  ……
 [Character(name="avg_322_lmlee_1#7$1", name2="avg_npc_296_1#6$1", focus=1)]
 [name="老鲤"]  去吧。
 [name="老鲤"]  越往山顶，路越窄。
@@ -201,7 +201,7 @@
 [Character(name="avg_npc_294_1#1$1",name2="avg_1021_kroos2_1#8$1",focus=1)]
 [name="老船夫"]  就快到了。
 [Character(name="avg_npc_294_1#1$1",name2="avg_1021_kroos2_1#8$1",focus=2)]
-[name="克洛丝"]  ......这是最后一条路？
+[name="克洛丝"]  ……这是最后一条路？
 [Character(name="avg_npc_294_1#1$1",name2="avg_1021_kroos2_1#8$1",focus=1)]
 [name="老船夫"]  最后一条路。
 [name="老船夫"]  离了这个镇子，向西走几步，能看到一条长长的阶梯山道。
@@ -213,11 +213,11 @@
 [Character(name="avg_npc_297_1#1$1",name2="avg_npc_299_1#1$1", fadetime=1,block=true)]
 [delay(time=3)]
 [Character(name="avg_npc_297_1#4$1")]
-[name="左乐"]  ......唔。
+[name="左乐"]  ……唔。
 [Character(name="avg_npc_299_1#2$1")]
-[name="太合"]  ......
+[name="太合"]  ……
 [Character(name="avg_1021_kroos2_1#1$1")]
-[name="克洛丝"]  ......在这儿遇到，真是太碰巧了。
+[name="克洛丝"]  ……在这儿遇到，真是太碰巧了。
 [Character(name="avg_npc_297_1#8$1")]
 [name="左乐"]  确实赶巧。
 [Character(name="avg_1021_kroos2_1#8$1")]
@@ -227,22 +227,22 @@
 [Character(name="avg_1021_kroos2_1#5$1")]
 [name="克洛丝"]  在山顶？
 [Character(name="avg_npc_297_1#2$1")]
-[name="左乐"]  ......隐瞒也没意思了，是的。
+[name="左乐"]  ……隐瞒也没意思了，是的。
 [Character(name="avg_npc_297_1#7$1")]
 [name="左乐"]  而且在一个局外人身上。
 [Character(name="avg_1021_kroos2_1#7$1")]
-[name="克洛丝"]  ......那只酒盏到底是什么？
+[name="克洛丝"]  ……那只酒盏到底是什么？
 [Character(name="avg_npc_297_1#8$1")]
 [name="左乐"]  告诉你了，克洛丝姐姐就会帮我们抢回它吗？
 [Character(name="avg_1021_kroos2_1#7$1")]
 [name="克洛丝"]  你们的目的可不只是“抢回来”这么简单，你们明显要利用它做些什么。
 [name="克洛丝"]  而我猜，其实你们的目的和鲤先生一样，都是要找出这只酒盏的主人。
 [Character(name="avg_npc_297_1#2$1")]
-[name="左乐"]  ......
+[name="左乐"]  ……
 [Character(name="avg_1021_kroos2_1#8$1")]
 [name="克洛丝"]  那你们何必多此一举呢？
 [Character(name="avg_npc_297_1#1$1")]
-[name="左乐"]  克洛丝姐姐这是疑问，还是......质问？
+[name="左乐"]  克洛丝姐姐这是疑问，还是……质问？
 [Character(name="avg_1021_kroos2_1#9$1")]
 [name="克洛丝"]  怎么会是质问呢。
 [Character(name="avg_npc_297_1#7$1")]
@@ -267,30 +267,30 @@
 [Character(name="avgnew_455_nothing_1#7$1",name2="avg_1021_kroos2_1#1$1",focus=1)]
 [name="乌有"]  啊哈哈，恩人明鉴。
 [Character(name="avg_npc_297_1#1$1")]
-[name="左乐"]  ......你还把她们当成你们的“干员”。
+[name="左乐"]  ……你还把她们当成你们的“干员”。
 [Character(name="avg_1021_kroos2_1#1$1")]
 [name="克洛丝"]  是的。
 [Character(name="avg_npc_297_1#2$1")]
-[name="左乐"]  ......
+[name="左乐"]  ……
 少年沉默不语。
 作为最年轻的司岁台秉烛人，他必须要权衡利弊，做出选择。
 这不是什么惊为天人的秘密。
 但他不希望事情出现任何差池。
 [Character(name="avg_npc_297_1#7$1")]
-[name="左乐"]  ......这只酒盏里寄宿着一匹凶兽。当然，只是他意识的部分。
+[name="左乐"]  ……这只酒盏里寄宿着一匹凶兽。当然，只是他意识的部分。
 [Character(name="avg_npc_297_1#7$1",name2="avg_npc_299_1#1$1",focus=2)]
 [name="太合"]  公子。
 [Character(name="avg_npc_297_1#6$1",name2="avg_npc_299_1#1$1",focus=1)]
 [name="左乐"]  我自有分寸，若是之后司岁台怪罪下来，太合叔也不必念人情，依法处置便是。
 [Character(name="avg_npc_297_1#6$1",name2="avg_npc_299_1#2$1",focus=2)]
-[name="太合"]  ......
+[name="太合"]  ……
 [Character(name="avg_1021_kroos2_1#2$1")]
 [name="克洛丝"]  寄宿？
 [Character(name="avg_npc_297_1#1$1")]
 [name="左乐"]  当代巨兽学家普遍认为，除了以某种形式凝出肉身实体，行走大地之外，这些古老巨物，也有手段寄宿于一些物件之中。
 [name="左乐"]  古籍常言，“兽与厚土行”，其实点出了这些生物的特性。
 [Character(name="avg_1021_kroos2_1#5$1")]
-[name="克洛丝"]  ......呃，什么物件都行？
+[name="克洛丝"]  ……呃，什么物件都行？
 [Character(name="avg_npc_297_1#1$1")]
 [name="左乐"]  比较常见的是兵器。无论是古代萨卡兹的刀剑，还是如今工业产物下的法杖，都有案例。
 [Character(name="avg_npc_297_1#2$1")]
@@ -305,7 +305,7 @@
 [Character(name="avg_1021_kroos2_1#8$1")]
 [name="克洛丝"]  所以你们要找到那个罪人。
 [Character(name="avg_npc_297_1#1$1")]
-[name="左乐"]  ......不。
+[name="左乐"]  ……不。
 [name="左乐"]  我刚才说了，制造它的，是一位罪人。可如今它的主人，则是另一位。
 [Character(name="avg_1021_kroos2_1#8$1")]
 [name="克洛丝"]  什么人？
@@ -317,7 +317,7 @@
 [Background(image="25_g10_lianghouse",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2.5, block=true)]
 [Character(name="avg_npc_298_1#1$1",name2="avg_npc_295_1#1$1",focus=1)]
-[name="宁小姐"]  ......梁大人。
+[name="宁小姐"]  ……梁大人。
 [Character(name="avg_npc_298_1#1$1",name2="avg_npc_295_1#1$1",focus=2)]
 [name="梁洵"]  宁小姐。
 [Character(name="avg_npc_298_1#1$1",name2="avg_npc_295_1#1$1",focus=1)]
@@ -327,12 +327,12 @@
 [Character(name="avg_npc_298_1#1$1",name2="avg_npc_295_1#1$1",focus=1)]
 [name="宁小姐"]  爬一座山，要多久？
 [Character(name="avg_npc_298_1#1$1",name2="avg_npc_295_1#1$1",focus=2)]
-[name="梁洵"]  ......
+[name="梁洵"]  ……
 [Character(name="avg_npc_298_1#2$1",name2="avg_npc_295_1#1$1",focus=1)]
 [name="宁小姐"]  古时，尚蜀山峦，人力不能及。
 [name="宁小姐"]  蜀道难，难于上青天。
 [Character(name="avg_npc_298_1#2$1",name2="avg_npc_295_1#2$1",focus=2)]
-[name="梁洵"]  ......如今不同了。
+[name="梁洵"]  ……如今不同了。
 [Character(name="avg_npc_298_1#1$1",name2="avg_npc_295_1#2$1",focus=1)]
 [name="宁小姐"]  可再如何不同，有些事情，不变就是不变的。
 [name="宁小姐"]  三山十七峰，处处寻不得。梁大人还要再找吗？
@@ -347,28 +347,28 @@
 [name="宁小姐"]  你难道不知道，纵使有千番道理，逾矩便是逾矩，犯忌便是犯忌？
 [name="宁小姐"]  你难道不知道，此事出了一点差池，别说前程不保，论起罪责，你首当其冲？
 [Character(name="avg_npc_298_1#5$1",name2="avg_npc_295_1#6$1",focus=2)]
-[name="梁洵"]  ......
+[name="梁洵"]  ……
 [Character(name="avg_npc_298_1#6$1",name2="avg_npc_295_1#6$1",focus=1)]
-[name="宁小姐"]  你难道不知道......我是愿意听你说的？
+[name="宁小姐"]  你难道不知道……我是愿意听你说的？
 [Character(name="avg_npc_298_1#6$1",name2="avg_npc_295_1#7$1",focus=2)]
-[name="梁洵"]  ......我知道。
+[name="梁洵"]  ……我知道。
 [name="梁洵"]  所以我更不能告诉你。
 [Character(name="avg_npc_298_1#4$1",name2="avg_npc_295_1#7$1",focus=1)]
-[name="宁小姐"]  ......为何？
+[name="宁小姐"]  ……为何？
 [Character(name="avg_npc_298_1#4$1",name2="avg_npc_295_1#2$1",focus=2)]
 [name="梁洵"]  因为梁某人身为一城之知府，只考虑一城之安危性命。一砖一瓦，一炉一灶，但凡有丝毫损毁，便是我的失职。
 [Character(name="avg_npc_298_1#4$1",name2="avg_npc_295_1#1$1",focus=2)]
-[name="梁洵"]  上峰龃龉，梁某人所能做的......唯有勉力而行而已。
+[name="梁洵"]  上峰龃龉，梁某人所能做的……唯有勉力而行而已。
 [Character(name="avg_npc_298_1#6$1",name2="avg_npc_295_1#1$1",focus=1)]
-[name="宁小姐"]  ......早年初会尚蜀，见你虽偶尔固执古板，但毕竟刚正不阿，一身正气。我一直坚信，你我共事，定能跨过千难万阻。
-[name="宁小姐"]  可如今......
+[name="宁小姐"]  ……早年初会尚蜀，见你虽偶尔固执古板，但毕竟刚正不阿，一身正气。我一直坚信，你我共事，定能跨过千难万阻。
+[name="宁小姐"]  可如今……
 [Character(name="avg_npc_298_1#2$1",name2="avg_npc_295_1#1$1",focus=1)]
-[name="宁小姐"]  ......我却难免有些失望。
+[name="宁小姐"]  ……我却难免有些失望。
 [Character(name="avg_npc_298_1#2$1",name2="avg_npc_295_1#2$1",focus=2)]
-[name="梁洵"]  ......这句话......
-[name="梁洵"]  是作为梁某人的朋友宁小姐提醒梁某人呢......
+[name="梁洵"]  ……这句话……
+[name="梁洵"]  是作为梁某人的朋友宁小姐提醒梁某人呢……
 [Character(name="avg_npc_298_1#2$1",name2="avg_npc_295_1#5$1",focus=2)]
-[name="梁洵"]  ......还是作为朝廷从二品钦差大员，礼部左侍郎宁辞秋，敲打梁某人的？
+[name="梁洵"]  ……还是作为朝廷从二品钦差大员，礼部左侍郎宁辞秋，敲打梁某人的？
 [Dialog]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
 [Character]

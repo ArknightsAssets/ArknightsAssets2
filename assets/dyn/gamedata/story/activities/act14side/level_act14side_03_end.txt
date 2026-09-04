@@ -14,7 +14,7 @@
 [character(name="avg_npc_283_1#1$1",name2="avg_npc_284_1#1$1",focus=2)]
 [name="多事的战士"]你怎么才听说啊，大伙儿都早就传遍啦。
 [character(name="avg_npc_283_1#1$1",name2="avg_npc_284_1#1$1",focus=1)]
-[name="迟钝的战士"]......那你给讲讲，这到底是怎么回事啊，这个博士原本不是恩希欧迪斯请去的客人吗？
+[name="迟钝的战士"]……那你给讲讲，这到底是怎么回事啊，这个博士原本不是恩希欧迪斯请去的客人吗？
 [character(name="avg_npc_283_1#1$1",name2="avg_npc_284_1#1$1",focus=2)]
 [name="多事的战士"]嗨，我这儿听来的版本啊，是说那帮袭击者都觉得阿克托斯老爷在接走这个博士后买通了他。
 [character(name="avg_npc_283_1#1$1",name2="avg_npc_284_1#1$1",focus=1)]
@@ -42,7 +42,7 @@
 [character(name="avg_npc_261_1#2$1")]
 [name="瓦莱丝"]之前不了解博士的为人，我等或许对博士多有得罪，还望包涵。
 [character(name="avg_npc_261_1#2$1")]
-[name="瓦莱丝"]博士是恩希欧迪斯的贵客，有些话或许我不应当讲......
+[name="瓦莱丝"]博士是恩希欧迪斯的贵客，有些话或许我不应当讲……
 [character(name="avg_npc_261_1#1$1")]
 [name="瓦莱丝"]但此次针对博士的袭击确有一些蹊跷。
 [dialog]
@@ -52,12 +52,12 @@
 [Decision(options="有人在利用这些人。;我无法准确推测其用意。;这些人的行动并不合理。", values="4;5;6")]
 [Predicate(references="4")]
 [character(name="avg_npc_261_1#5$1")]
-[name="瓦莱丝"]恩希欧迪斯......
+[name="瓦莱丝"]恩希欧迪斯……
 [dialog]
 [character(name="avg_npc_261_1#5$1",focus=-1)]
 [Decision(options="不，他难以从中获利。", values="4")]
 [Predicate(references="4")]
-[Decision(options="（我也知道更明确的嫌疑人，但是......）", values="4")]
+[Decision(options="（我也知道更明确的嫌疑人，但是……）", values="4")]
 [Predicate(references="4")]
 [Predicate(references="5")]
 [character(name="avg_npc_261_1#2$1")]
@@ -72,7 +72,7 @@
 [character(name="avg_npc_261_1#3$1")]
 [name="瓦莱丝"]我也觉得，他们明明已经得到了魏斯代表恩希欧迪斯传达的信息，却还是表示不信任博士。
 [character(name="avg_npc_261_1#8$1")]
-[name="瓦莱丝"]这感觉就像......
+[name="瓦莱丝"]这感觉就像……
 [dialog]
 [character(name="avg_npc_261_1#8$1",focus=-1)]
 [Decision(options="有人预先料到恩希欧迪斯的打算。", values="6")]
@@ -81,7 +81,7 @@
 [Predicate(references="6")]
 [Predicate(references="4;5;6")]
 [character(name="avg_npc_261_1#8$1")]
-[name="瓦莱丝"]唔......
+[name="瓦莱丝"]唔……
 [character]
 [name="？？？"]哈，说得好。
 [dialog]
@@ -132,16 +132,16 @@
 [character(name="avg_npc_254_1#2$1")]
 [name="阿克托斯"]说老实话，我没法不去怀疑恩希欧迪斯，可他也确实没有露出半点破绽。
 [character(name="avg_npc_254_1#2$1")]
-[name="阿克托斯"]但这么不明不白地干等着耶拉冈德交予我们的土地和人民遇险，真叫我不甘心......
+[name="阿克托斯"]但这么不明不白地干等着耶拉冈德交予我们的土地和人民遇险，真叫我不甘心……
 [dialog]
 [character(name="avg_npc_254_1#2$1",focus=-1)]
-[Decision(options="那么，阿克托斯先生......", values="1")]
+[Decision(options="那么，阿克托斯先生……", values="1")]
 [Predicate(references="1")]
 [character(name="avg_npc_254_1#4$1")]
 [name="阿克托斯"]怎么了？
 [dialog]
 [character(name="avg_npc_254_1#4$1",focus=-1)]
-[Decision(options="我们的和解也可能意味着......;如果对手能预想到你的反应就说明......", values="1;2")]
+[Decision(options="我们的和解也可能意味着……;如果对手能预想到你的反应就说明……", values="1;2")]
 [Predicate(references="1;2")]
 [Decision(options="对手不再需要拿我充当障眼法了。;对手已经准备完毕，时间不多了。", values="1;2")]
 [Predicate(references="1;2")]
@@ -192,7 +192,7 @@
 [character(name="avg_npc_253_1#10$1",name2="avg_206_gnosis_1#2$1",focus=1)]
 [name="菈塔托丝"]究竟是什么在支撑着你？我很好奇。
 [character(name="avg_npc_253_1#10$1",name2="avg_206_gnosis_1#1$1",focus=2)]
-[name="诺希斯"]......他曾向我许诺一个未来。
+[name="诺希斯"]……他曾向我许诺一个未来。
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=1)]
 [name="菈塔托丝"]未来？
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
@@ -230,11 +230,11 @@
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]直到事情终于出现了转机。
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
-[name="诺希斯"]恩希亚的矿石病症状得到了控制，尽管无法治愈，但她已经能活蹦乱跳地回到他的身边......
+[name="诺希斯"]恩希亚的矿石病症状得到了控制，尽管无法治愈，但她已经能活蹦乱跳地回到他的身边……
 [character(name="avg_npc_253_1#1$1",name2="avg_206_gnosis_1#1$1",focus=2)]
 [name="诺希斯"]并且兴奋地告诉他，或许可以拓宽与对方的合作，用更低廉的成本，更好地控制住矿石病的扩散和危害。
 [character(name="avg_npc_253_1#5$1",name2="avg_206_gnosis_1#1$1",focus=1)]
-[name="菈塔托丝"]不，恩希欧迪斯他不会......
+[name="菈塔托丝"]不，恩希欧迪斯他不会……
 [character(name="avg_npc_253_1#2$1",name2="avg_206_gnosis_1#7$1",focus=2)]
 [name="诺希斯"]他当然会。谢拉格的国门一旦打开，就不可能再完全封闭。
 [character(name="avg_npc_253_1#2$1",name2="avg_206_gnosis_1#7$1",focus=2)]
@@ -242,9 +242,9 @@
 [character(name="avg_npc_253_1#2$1",name2="avg_206_gnosis_1#7$1",focus=2)]
 [name="诺希斯"]他即将让谢拉格人在信仰与技术中选择一个，而仅凭信仰已经不再能保护他们远离矿石病。
 [character(name="avg_npc_253_1#7$1",name2="avg_206_gnosis_1#7$1",focus=1)]
-[name="菈塔托丝"]......空口无凭，你说的这些都没有证据。
+[name="菈塔托丝"]……空口无凭，你说的这些都没有证据。
 [character(name="avg_npc_253_1#7$1",name2="avg_206_gnosis_1#9$1",focus=2)]
-[name="诺希斯"]......跟我来吧，带上你的人，多带点能打的，我给你看一些东西。
+[name="诺希斯"]……跟我来吧，带上你的人，多带点能打的，我给你看一些东西。
 [Dialog]
 [Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]

@@ -3,7 +3,7 @@
 [PlayMusic(intro="$escape_intro", key="$escape_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Delay(time=1)]
 [Character(name="char_1507_Mephisto_1#2")]
-[name="梅菲斯特"]  咳......咳。
+[name="梅菲斯特"]  咳……咳。
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1#2",focus=1)]
 [name="陈"]  不堪一击！
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1#1",focus=2)]
@@ -38,19 +38,19 @@
 [Image(fadetime=0,block=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Character(name="char_010_chen_1#4")]
-[name="陈"]  整合运动的狙击手......
+[name="陈"]  整合运动的狙击手……
 [name="陈"]  （虽然已经做好了防范措施，但他的火力居然强到这种地步？）
 [name="陈"]  这不能救你的命。在他伤到我之前，你就会死。
-[name="陈"]  ......等等。你是之前被近卫局抓获的那个感染者？
+[name="陈"]  ……等等。你是之前被近卫局抓获的那个感染者？
 [Character(name="char_1508_Faust_1#2")]
-[name="浮士德"]  ......
+[name="浮士德"]  ……
 [Character(name="char_1507_Mephisto_1")]
 [name="梅菲斯特"]  你们近卫局也让他受了很多苦吧。虽然这和乌萨斯烙在我们身上的相比，根本不算什么。
 [name="梅菲斯特"]  刚才他刻意没有瞄准你，近卫局的长官。这算是我礼节性地回报你，饶你一次。
 [name="梅菲斯特"]  现在，就连近卫局里也埋藏着不安的种子。
 [name="梅菲斯特"]  也正是你们的腐坏和大意，让他有机会和我们里应外合。
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1",focus=1)]
-[name="陈"]  ......整合运动，你们对你们所在的这片大地一无所知。
+[name="陈"]  ……整合运动，你们对你们所在的这片大地一无所知。
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1",focus=2)]
 [name="梅菲斯特"]  这句话有什么深意吗？
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1",focus=1)]
@@ -60,7 +60,7 @@
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1",focus=1)]
 [name="陈"]  二十一个。
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1",focus=2)]
-[name="梅菲斯特"]  ......
+[name="梅菲斯特"]  ……
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1",focus=1)]
 [name="陈"]  你是不是觉得，至少有四个一定会是彻彻底底的整合运动？
 [name="陈"]  可是连他们四个也都是我安插的。他们在接应你之后，你是不是囚禁了其中一个？
@@ -87,7 +87,7 @@
 [Character(name="char_010_chen_1#5")]
 [name="陈"]  你！
 [Character(name="char_010_chen_1#4")]
-[name="陈"]  他们身上的源石......在生长？
+[name="陈"]  他们身上的源石……在生长？
 [Character(name="char_1507_Mephisto_1")]
 [name="梅菲斯特"]  那些源石会刺穿他们原本的身体结构，成为他们新的身躯。
 [name="梅菲斯特"]  看吧长官，看吧，这就是我的护卫，我不死的护卫。
@@ -97,14 +97,14 @@
 [Delay(time=2)]
 [name="梅菲斯特的护卫"]  【嘶嚎】
 [Character(name="char_1507_Mephisto_1")]
-[name="梅菲斯特"]  还有，我的牧群，我的同胞......
-[name="梅菲斯特"]  呼......
+[name="梅菲斯特"]  还有，我的牧群，我的同胞……
+[name="梅菲斯特"]  呼……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.6, block=true)]
 [Image(image="avg_5_7_shining", fadetime=0, screenadapt="coverall")]
 [ImageTween(xFrom=0, yFrom=0, xTo=0, yTo=0, xScaleFrom=1, yScaleFrom=1, xScaleTo=1.15, yScaleTo=1.15, duration=20, block=false)]
 [Blocker(a=0, fadetime=2, block=true)]
-[name="陈"]  粉尘......？
+[name="陈"]  粉尘……？
 [name="梅菲斯特"]  同胞们需要治疗。他们需要我。
 [name="陈"]  法术？各小队，当心！敌方指挥官释放了法术，粉尘飘散的范围非常大！
 [name="梅菲斯特"]  放心，长官，你们不是我的同胞，这和你没有关系。
@@ -115,20 +115,20 @@
 [Blocker(a=0, fadetime=2, block=true)]
 [Character(name="avg_npc_014")]
 [CameraShake(duration=1, xstrength=5, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="整合运动成员"]  ......啊，啊——
-[name="正口运动成贝"]  ......呃，呃！
+[name="整合运动成员"]  ……啊，啊——
+[name="正口运动成贝"]  ……呃，呃！
 [CameraShake(duration=1, xstrength=5, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=true)]
-[name="皜剜祈撠？？斤斤？伐"]  呃呃，呃呃呃......
+[name="皜剜祈撠？？斤斤？伐"]  呃呃，呃呃呃……
 [CameraShake(duration=1, xstrength=5, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=true)]
 [name="？？？"]  呃呃啊啊啊啊！
-[name="每非其寺巢巢郡"]  ......血！！血！！啊啊啊！！！啊！！！
+[name="每非其寺巢巢郡"]  ……血！！血！！啊啊啊！！！啊！！！
 [CameraShake(duration=2, xstrength=5, ystrength=3, vibrato=30, randomness=90, fadeout=true, block=true)]
 [Character(name="char_1507_Mephisto_1")]
 [name="梅菲斯特"]  安静。
 [Character(name="avg_npc_014")]
 [name="梅非斯寺的群群"]  ——
 [Character(name="char_010_chen_1#5",name2="char_015_lmg",focus=2)]
-[name="近卫局成员"]  陈sir，不好了......
+[name="近卫局成员"]  陈sir，不好了……
 [name="近卫局成员"]  被击倒的整合运动粘上粉尘后，身体产生了巨大的变化，身体产生了巨大的变化！
 [name="近卫局成员"]  他们重新加入了战斗，正在缓缓逼近阵线！
 [Character(name="char_010_chen_1#5",name2="char_015_lmg",focus=1)]
@@ -147,7 +147,7 @@
 [Delay(time=0.5)]
 [name="梅菲斯特的牧群"]  ——呃。
 [Character(name="char_010_chen_1#5",name2="char_1507_Mephisto_1",focus=1)]
-[name="陈"]  你......
+[name="陈"]  你……
 [Character(name="char_010_chen_1#5",name2="char_1507_Mephisto_1",focus=2)]
 [name="梅菲斯特"]  他们不会倒下，因为我会治愈他们所有的伤痛。
 [Character(name="char_010_chen_1#5",name2="char_1507_Mephisto_1",focus=1)]
@@ -176,7 +176,7 @@
 [Character(name="char_1507_Mephisto_1")]
 [name="梅菲斯特"]  但我的护卫不是常人能撼动的。
 [Character(name="char_015_lmg")]
-[name="近卫局成员"]  用肉体为指挥官挡住了爆炸......还毫发无损？！
+[name="近卫局成员"]  用肉体为指挥官挡住了爆炸……还毫发无损？！
 [name="近卫局成员"]  刚才的火力，差不多能炸穿一层城市防壁了啊！
 [Character(name="char_1507_Mephisto_1")]
 [name="梅菲斯特"]  别白费力气了。
@@ -225,7 +225,7 @@
 [Character(name="char_1507_Mephisto_1")]
 [name="梅菲斯特"]  很快！
 [Character(name="char_1508_Faust_1#2")]
-[name="浮士德"]  ......
+[name="浮士德"]  ……
 [Character(name="char_1507_Mephisto_1")]
 [name="梅菲斯特"]  但还不够。
 [CameraShake(duration=1, xstrength=15, ystrength=10, vibrato=30, randomness=90, fadeout=true)]
@@ -254,13 +254,13 @@
 [name="陈"]  也许你准备得确实很周全。
 [name="陈"]  只是，一个棋手规划完了整个棋局，他就只能将对方当做异色的棋子而非奇兵。
 [Character(name="char_1507_Mephisto_1#2")]
-[name="梅菲斯特"]  （等等，粉尘怎么会粘在她身上......？）
+[name="梅菲斯特"]  （等等，粉尘怎么会粘在她身上……？）
 [name="梅菲斯特"]  （原来是这样，是这样呀。）
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1#2",focus=1)]
 [name="陈"]  我不会像你那样纸上谈兵，我只是有备而来。
 [name="陈"]  棋盘不适用于我，小子。我不是谁的棋子，我是龙门的利刃。
 [Character(name="char_010_chen_1#4",name2="char_1507_Mephisto_1",focus=2)]
-[name="梅菲斯特"]  嗯......
+[name="梅菲斯特"]  嗯……
 [name="梅菲斯特"]  勇敢和莽撞虽然接近，却依然留有一线之隔。
 [name="梅菲斯特"]  或者，你是想使用自己的底牌了？我似乎还没见你在战斗里使用另一把剑。
 [name="梅菲斯特"]  那不是把装饰品，对吧。
@@ -270,7 +270,7 @@
 [name="陈"]  无论如何，你们都不值得我拔出这把剑。
 [name="陈"]  只是，你们确实该付出代价了，为了你们对龙门、对切尔诺伯格所有无辜者所做的一切。
 [Character(name="char_1508_Faust_1#2")]
-[name="浮士德"]  ......
+[name="浮士德"]  ……
 [Character(name="char_010_chen_1#4")]
 [name="陈"]  此时，此刻。
 [Dialog]
@@ -287,12 +287,12 @@
 [name="魏彦吾"]  不，我不怕。
 [name="陈"]  为什么？
 [name="魏彦吾"]  因为我没那么怕死。
-[name="陈"]  ......
+[name="陈"]  ……
 [name="魏彦吾"]  这不是把庸常武器，你会慢慢理解它的。
 [name="魏彦吾"]  平日里勿要挥霍它的煞气。斩龙之剑当有出鞘的价值。
 [name="魏彦吾"]  该向谁出剑，就由你自己选择。
 [Character(name="char_010_chen_1#5",fadetime=1,block=true)]
-[name="陈"]  （......竟然还在蛰伏。）
+[name="陈"]  （……竟然还在蛰伏。）
 [name="陈"]  （即使是这种时候也依然不肯出鞘吗。）
 [Character(name="char_010_chen_1#2")]
 [name="陈"]  （但现在，赤霄，你必须饮血！）

@@ -11,7 +11,7 @@
 [PlaySound(key="$d_gen_walk_n", volume=0.7)]
 [charslot(slot = "m", name = "avg_npc_1236_1#1$1",duration=1)]
 [Delay(time=2)]
-[name="绩"]已经丑时了......这局是谁赢了？
+[name="绩"]已经丑时了……这局是谁赢了？
 [charslot(slot = "m", focus = "n")]
 [name="低沉的声音"]自己数数。
 [charslot(slot = "m", name = "avg_npc_1236_1#7$1")]
@@ -20,29 +20,29 @@
 [name="低沉的声音"]那你应该学学。
 [charslot(slot = "m", name = "avg_npc_1236_1#9$1")]
 [name="绩"]要见你一面可不容易。
-[name="绩"]这古寺深寒，二哥倒是不改其道......你天天把自己关在这屋子里对着这副棋盘，到底在上面看出什么来了？
+[name="绩"]这古寺深寒，二哥倒是不改其道……你天天把自己关在这屋子里对着这副棋盘，到底在上面看出什么来了？
 [charslot(slot = "m", focus = "n")]
 [name="低沉的声音"]和你在那账本上看到的，差不多。
 [name="低沉的声音"]棋盘上有同一种规则，棋盘外，也是一样。
 [charslot(slot = "m", name = "avg_npc_1236_1#1$1")]
-[name="绩"]天下熙熙，皆为利来；天下攘攘，皆为利往......二哥琢磨得通透。
+[name="绩"]天下熙熙，皆为利来；天下攘攘，皆为利往……二哥琢磨得通透。
 [charslot(slot = "m", name = "avg_npc_1236_1#9$1")]
 [name="绩"]这些年来，兄弟姐妹几个，自从找到各自感兴趣的事后，好像都活得越来越惬意了。
 [name="绩"]老头子好像终于参透了“武道”，转身去北疆守城，大姐一梦千年四处神游，好不自在。
 [charslot(slot = "m", name = "avg_npc_1236_1#3$1")]
-[name="绩"]只是......除了那个姐姐。
+[name="绩"]只是……除了那个姐姐。
 [charslot(slot = "m", name = "avg_npc_1236_1#2$1")]
-[name="绩"]多少年来......我还是为她不值。
+[name="绩"]多少年来……我还是为她不值。
 [charslot(slot = "m", focus = "n")]
 [name="低沉的声音"]看来是你最近的生意做得太顺，才有功夫操心这么多事。
 [charslot(slot = "m", name = "avg_npc_1236_1#1$1")]
 [name="绩"]我也是最近才想明白一个道理，学会了一种活法。
-[name="绩"]天地者，万物之逆旅也，光阴者，百代之过客也......
+[name="绩"]天地者，万物之逆旅也，光阴者，百代之过客也……
 [name="绩"]人活一世，无非是找到一处寄托，名心不化，这一生也就过去了。寿命长短，也无所谓什么区别。
 [charslot(slot = "m", focus = "n")]
 [name="低沉的声音"]你要是真的看透了，就不会坐在这。
 [charslot(slot = "m", name = "avg_npc_1236_1#6$1")]
-[name="绩"]......
+[name="绩"]……
 [charslot(slot = "m", focus = "n")]
 [name="低沉的声音"]我知道你想说什么。
 [name="低沉的声音"]你想做的事，我能帮你。
@@ -52,7 +52,7 @@
 [charslot(slot = "m", focus = "n")]
 [name="低沉的声音"]把你的命给我。
 [charslot(slot = "m", name = "avg_npc_1236_1#3$1")]
-[name="绩"]......
+[name="绩"]……
 [stopmusic(fadetime=2)]
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
@@ -70,7 +70,7 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [charslot(slot="m",name="avg_2025_shu_1#9$1",duration=1)]
 [delay(time=1.5)]
-[name="温柔的女性"]你运气真好。花下一禾生......就叫你“禾生”吧。
+[name="温柔的女性"]你运气真好。花下一禾生……就叫你“禾生”吧。
 [name="温柔的女性"]以后你就留在这吧。
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -88,7 +88,7 @@
 [name="温柔的女性"]这里的土地，种不出庄稼了。
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="为什么......？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="为什么……？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [Dialog]
@@ -97,7 +97,7 @@
 [name="温柔的女性"]种不出粮食，就有人要饿肚子。
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="像这样的土地......还有很多？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="像这样的土地……还有很多？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="有没有办法，让这些坏石头都消失，让这片土地上长出作物？", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -107,7 +107,7 @@
 [name="温柔的女性"]你想要学习吗？
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="嗯......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="嗯……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [charslot(slot="m",name="avg_2025_shu_1#1$1")]
@@ -115,7 +115,7 @@
 [name="温柔的女性"]即便如此，你也不后悔吗？
 [Dialog]
 [Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]
-[Subtitle(text="......", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="……", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [Subtitle(text="嗯。", x=300, y=370, alignment="center", size=24, delay=0.04, width=700)]
 [subtitle]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -133,9 +133,9 @@
 [Dialog]
 [charslot(slot="m",name="avg_npc_1249_1#1$1",duration=1)]
 [delay(time=2)]
-[name="惊讶的职农"]这是......
-[name="惊讶的职农"]神农，是神农......
-[name="惊讶的职农"]神农真的回来了......
+[name="惊讶的职农"]这是……
+[name="惊讶的职农"]神农，是神农……
+[name="惊讶的职农"]神农真的回来了……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -152,11 +152,11 @@
 [name="左乐"]别跑！
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1")]
 [name="禾生"]你在说什么？
-[name="禾生"]你怎么又换上这身衣服了......？
+[name="禾生"]你怎么又换上这身衣服了……？
 [charslot(slot="m",name="avg_4121_zuole_1#6$1")]
-[name="左乐"]我......
+[name="左乐"]我……
 [charslot(slot="m",name="avg_4121_zuole_1#10$1")]
-[name="左乐"]......现在是什么时候？
+[name="左乐"]……现在是什么时候？
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
 [name="禾生"]离我们上次碰面过去了半天，你让我去查粮仓里的庄稼，还说自己要去找把大荒城搞得满城风雨的罪魁祸首——怎么倒在这了？
 [charslot(slot="m",name="avg_4121_zuole_1#6$1")]
@@ -164,30 +164,30 @@
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")]
 [name="左乐"]粮仓里的庄稼有没有被污染，找到污染源在哪里了吗？
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
-[name="禾生"]你一点都没看到......？
+[name="禾生"]你一点都没看到……？
 [charslot(slot="m",name="avg_4121_zuole_1#10$1")]
-[name="左乐"]什么......
+[name="左乐"]什么……
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1")]
-[name="禾生"]我去到粮仓，发现之前夏收收上来的庄稼全都变成了诡异的红黑色......不止这个，田里的地都变成了板结的盐碱地。
+[name="禾生"]我去到粮仓，发现之前夏收收上来的庄稼全都变成了诡异的红黑色……不止这个，田里的地都变成了板结的盐碱地。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
 [name="禾生"]可不知道怎么回事，刚刚下了一场雨，土地全都恢复原状，粮仓里的粮食也变成了正常的样子。
 [name="禾生"]就好像，有谁用了夸张的源石技艺，把污染全都清除了。
 [charslot(slot="m",name="avg_4121_zuole_1#3$1")]
-[name="左乐"]地下的污染？谁能做到这种事......？
+[name="左乐"]地下的污染？谁能做到这种事……？
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1")]
 [name="禾生"]我们现在，应该安全了？
 [charslot(slot="m",name="avg_4121_zuole_1#3$1")]
-[name="左乐"]......
-[name="左乐"]这场雨......
+[name="左乐"]……
+[name="左乐"]这场雨……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="m",name="avg_4121_zuole_1#4$1")]
 [name="左乐"]黍在哪里？！
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1")]
-[name="禾生"]你说......谁？
+[name="禾生"]你说……谁？
 [charslot(slot="m",name="avg_4121_zuole_1#5$1")]
 [name="左乐"]你的老师呢？她在哪？
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1")]
-[name="禾生"]天师府的老师有好几位，你在说谁......？
+[name="禾生"]天师府的老师有好几位，你在说谁……？
 [stopmusic(fadetime=2)]
 [Dialog]
 [stopsound(fadetime=2,channel="a")]
@@ -262,8 +262,8 @@
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_1236_1#7$1")]
 [CameraShake(duration=0.3, xstrength=15, ystrength=15, vibrato=15, randomness=90, fadeout=true, block=false)]
-[name="绩"]咳咳咳......
-[name="绩"]小夕......你在画里待了那么长时间，心气还这么浮躁，这可不是当世第一的画家该有的心境吧。
+[name="绩"]咳咳咳……
+[name="绩"]小夕……你在画里待了那么长时间，心气还这么浮躁，这可不是当世第一的画家该有的心境吧。
 [name="绩"]还有年，这么长时间，我还从来没见过你这么认真的样子，原来你还是很在乎自己的兄弟姐妹的。
 [charslot]
 [charslot(slot="l",name="avgnew_2014_nian_1#3$1",focus="r")]
@@ -272,7 +272,7 @@
 [charslot]
 [charslot(slot = "m", posfrom = "150,0", posto = "150,0",duration = 0)]
 [charslot(slot="m",name="avg_npc_1236_1#7$1")]
-[name="绩"]可我说过，我是来帮你们的......咳咳......你们为什么，就不相信呢？
+[name="绩"]可我说过，我是来帮你们的……咳咳……你们为什么，就不相信呢？
 [dialog]
 [charslot(slot = "m", posfrom = "150,0", posto = "0,0",duration = 1)]
 [delay(time=1.5)]
@@ -284,9 +284,9 @@
 [name="年"]别过来。如果还想要命的话。
 [charslot]
 [charslot(slot="m",name="avg_npc_1236_1#7$1")]
-[name="绩"]唉......
+[name="绩"]唉……
 [charslot(slot="m",name="avg_npc_1236_1#1$1")]
-[name="绩"]现在实在不太有功夫来解开这个误会......只能稍微委屈你们一下了。
+[name="绩"]现在实在不太有功夫来解开这个误会……只能稍微委屈你们一下了。
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_magic_2", volume=1)]
@@ -323,9 +323,9 @@
 [charslot(slot="m",name="avg_npc_1236_1#1$1")]
 [name="绩"]多少是有些冒险的办法，会有些副作用，也是无可奈何。
 [charslot(slot="m",name="avg_npc_1236_1#3$1")]
-[name="绩"]也该大荒城有这么一劫，总不能自己种下的恶因，最后全靠别人付出生命来收这个恶果......
+[name="绩"]也该大荒城有这么一劫，总不能自己种下的恶因，最后全靠别人付出生命来收这个恶果……
 [charslot(slot="m",name="avg_npc_1236_1#4$1")]
-[name="绩"]......哪有这样便宜的好事。
+[name="绩"]……哪有这样便宜的好事。
 [charslot(slot = "m", focus = "n")]
 男人伸出手，一株漆黑的稻穗出现在掌中。
 [charslot(slot="m",name="avg_npc_1236_1#1$1")]

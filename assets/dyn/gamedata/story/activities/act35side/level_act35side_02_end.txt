@@ -10,11 +10,11 @@
 [charslot(slot = "r", name = "avg_4139_papyrs_1#3$1",duration=1.5)]
 [delay(time=2)]
 [charslot(slot = "r", name = "avg_4139_papyrs_1#1$1")]
-[name="阿娜特"]唔......
+[name="阿娜特"]唔……
 [charslot(slot = "m", focus = "n")]
 [name="？？？"]你醒了，阿娜特？
 [charslot(slot = "r", name = "avg_4139_papyrs_1#9$1")]
-[name="阿娜特"]嘶......好痛。
+[name="阿娜特"]嘶……好痛。
 [Dialog]
 [charslot(slot = "l", name = "avg_4058_pepe_1#1$1",duration=1)]
 [delay(time=1.5)]
@@ -24,12 +24,12 @@
 [name="阿娜特"]可我不止后脑勺痛，我全身都痛，咦，我肩窝上为什么会有淤青？
 [playsound(key="$d_avg_clothmovement")]
 [charslot(slot = "r", name = "avg_4139_papyrs_1#5$1",focus="r")]
-[name="阿娜特"]怎么我的膝盖上也有......？
+[name="阿娜特"]怎么我的膝盖上也有……？
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1479_1#1$1",duration=1)]
 [delay(time=1.5)]
-[name="无名古尸"]呜......
+[name="无名古尸"]呜……
 [charslot]
 [Effect(name="$e_emoji_sweat02",layer = 1,x=200,y=170)]
 [charslot(slot ="r", action="shake", power=10, times=50, duration=0.3)]
@@ -45,43 +45,43 @@
 [name="佩佩"]就当它是个会动的摆设吧，阿娜特！
 [charslot]
 [charslot(slot="m",name="avg_npc_1479_1#1$1")]
-[name="无名古尸"]呜......
+[name="无名古尸"]呜……
 [charslot]
 [charslot(slot = "l", name = "avg_4058_pepe_1#2$1",focus="r")]
 [charslot(slot = "r", name = "avg_4139_papyrs_1#7$1",focus="r")]
-[name="阿娜特"]......你为什么丝毫不紧张，佩佩？
+[name="阿娜特"]……你为什么丝毫不紧张，佩佩？
 [charslot(slot = "l", name = "avg_4058_pepe_1#12$1",focus="l")]
 [name="佩佩"]请不要用这么犀利的眼神看我，拜托！
 [charslot(slot = "r", name = "avg_4139_papyrs_1#7$1",focus="r")]
 [name="阿娜特"]你到底做了什么？
 [charslot(slot = "l", name = "avg_4058_pepe_1#4$1",focus="l")]
-[name="佩佩"]......我昨天将我挖掘到的宝石放入了它的胸腔，上面的源石回路可以将它唤醒。
+[name="佩佩"]……我昨天将我挖掘到的宝石放入了它的胸腔，上面的源石回路可以将它唤醒。
 [charslot(slot = "r", name = "avg_4139_papyrs_1#2$1",focus="r")]
 [name="阿娜特"]昨天？
 [charslot(slot = "l", name = "avg_4058_pepe_1#5$1",focus="l")]
 [name="佩佩"]如此重要的考古发现，你肯定不会拱手让人，法尔贾万达巴德博物馆在陛下心中地位特殊，就算我是帕夏之女也没奈何。
-[name="佩佩"]所以......只能背着你偷偷进来了。
+[name="佩佩"]所以……只能背着你偷偷进来了。
 [charslot(slot = "r", name = "avg_4139_papyrs_1#1$1",focus="r")]
 [name="阿娜特"]佩佩，我不想把它借给你是有理由的。
 [charslot(slot = "l", name = "avg_4058_pepe_1#6$2",focus="l")]
 [name="佩佩"]什么理由？放心好了，论文上加个署名的事情，没问题。
 [charslot(slot = "r", name = "avg_4139_papyrs_1#1$1",focus="r")]
-[name="阿娜特"]不是这个......
+[name="阿娜特"]不是这个……
 [charslot(slot = "l", name = "avg_4058_pepe_1#7$2",focus="l")]
 [name="佩佩"]投资？赞助？哪怕是翻修整个展馆都可以！
 [stopmusic(fadetime=2)]
 [charslot(slot = "r", name = "avg_4139_papyrs_1#9$1",focus="r")]
-[name="阿娜特"]......
+[name="阿娜特"]……
 [charslot(slot = "l", name = "avg_4058_pepe_1#4$2",focus="l")]
 [name="佩佩"]你这是什么眼神？
 [playMusic(intro="$newhope01_intro",key="$newhope01_loop", volume=0.6)]
 [charslot(slot = "r", name = "avg_4139_papyrs_1#9$1",focus="r")]
-[name="阿娜特"]我只是不懂......你为何如此执着地要成为沙尔-阿加德的史官？就算继承了你父亲的帕夏头衔，你依然可以继续自己的研究。
+[name="阿娜特"]我只是不懂……你为何如此执着地要成为沙尔-阿加德的史官？就算继承了你父亲的帕夏头衔，你依然可以继续自己的研究。
 [name="阿娜特"]你明知道作为史官进入黄金之城后，就再也无法离开那里了。
 [name="阿娜特"]学院中学习到的一切，为深入沙漠寻找遗迹而经受的训练，四处游历的见闻，在你成为史官后将再也无法派上用场。
 [name="阿娜特"]或许，你只是不甘心那个被选中的人是你的弟弟？
 [charslot(slot = "l", name = "avg_4058_pepe_1#5$1",focus="l")]
-[name="佩佩"]......我不是逞一时意气才想要成为史官的。这是我们家族中每个成员的梦想。
+[name="佩佩"]……我不是逞一时意气才想要成为史官的。这是我们家族中每个成员的梦想。
 [charslot(slot = "l", name = "avg_4058_pepe_1#4$1",focus="l")]
 [name="佩佩"]在小的时候，谁不期待着长辈将那支金色的灯芯草笔交给自己。
 [name="佩佩"]他们会告诉你，拿起这支笔，你便要承担非凡的责任，记述所有曾经发生的事情以供后人阅览。
@@ -94,13 +94,13 @@
 [charslot(slot = "l", name = "avg_4058_pepe_1#2$1",focus="l")]
 [name="佩佩"]想想，阿娜特，这不是很浪漫的事情吗？
 [charslot(slot = "r", name = "avg_4139_papyrs_1#10$1",focus="r")]
-[name="阿娜特"]唉......
+[name="阿娜特"]唉……
 [charslot(slot = "r", name = "avg_4139_papyrs_1#1$1",focus="r")]
-[name="阿娜特"]你的坚持，我都看在眼里......你从来都是不到头不死心。
+[name="阿娜特"]你的坚持，我都看在眼里……你从来都是不到头不死心。
 [charslot(slot = "l", name = "avg_4058_pepe_1#1$1",focus="l")]
 [name="佩佩"]我就是这种执拗的人嘛，我还以为你和缇缇早就习惯了。
 [charslot(slot = "r", name = "avg_4139_papyrs_1#1$1",focus="r")]
-[name="阿娜特"]......好，我可以代表博物馆出借这件文物，以及......另外一颗宝石。
+[name="阿娜特"]……好，我可以代表博物馆出借这件文物，以及……另外一颗宝石。
 [name="阿娜特"]多年前一位私人收藏家赠送给我们，研究时我们发现这具古尸与宝石有关联，但具体的使用方法我们毫无头绪。
 [charslot(slot = "l", name = "avg_4058_pepe_1#11$1",focus="l")]
 [name="佩佩"]在博物馆里也有一颗宝石？！
@@ -113,7 +113,7 @@
 [charslot(slot = "l", name = "avg_4058_pepe_1#6$2",focus="l")]
 [name="佩佩"]都是小钱！都是小事！
 [charslot(slot = "r", name = "avg_4139_papyrs_1#2$1",focus="r")]
-[name="阿娜特"]佩佩......
+[name="阿娜特"]佩佩……
 [charslot(slot = "l", name = "avg_4058_pepe_1#1$2",focus="l")]
 [name="佩佩"]嗯？
 [charslot(slot = "r", name = "avg_4139_papyrs_1#1$1",focus="r")]
@@ -149,15 +149,15 @@
 [charslot(slot = "l", name = "avg_4058_pepe_1#8$1",focus="l")]
 [name="佩佩"]为我指出前往沙阿宝库的道路吧，来自过往的旅人！
 [charslot(slot = "r", name = "avg_npc_1479_1#1$1",focus="r")]
-[name="无名古尸"]......
+[name="无名古尸"]……
 [charslot(slot = "l", name = "avg_4058_pepe_1#8$1",focus="l")]
-[name="佩佩"]......
+[name="佩佩"]……
 [MusicVolume(volume=0.6, fadetime=2)]
 [charslot(slot = "l", name = "avg_4058_pepe_1#12$1",focus="l")]
-[name="佩佩"]怎么第二颗宝石放进去，他连动都不动了......？
+[name="佩佩"]怎么第二颗宝石放进去，他连动都不动了……？
 [charslot]
 [charslot(slot = "m", name = "avg_4139_papyrs_1#9$1")]
-[name="阿娜特"]这......又算什么结果？
+[name="阿娜特"]这……又算什么结果？
 [charslot]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=70, fadeout=true, block=false)]
 [name="？？？"]啊————————！！
@@ -166,7 +166,7 @@
 [charslot(slot = "m", name = "avg_4139_papyrs_1#5$1")]
 [name="阿娜特"]是缇缇的声音？
 [charslot(slot = "m", name = "avg_4058_pepe_1#4$1")]
-[name="佩佩"]这是......怎么了？
+[name="佩佩"]这是……怎么了？
 [charslot(slot = "m", name = "avg_4139_papyrs_1#7$1")]
 [name="阿娜特"]我去看看，展品你看好！
 [Dialog]
@@ -187,17 +187,17 @@
 [delay(time=1.5)]
 [charslot(slot="r",name="avg_npc_1478_1#9$1",focus="r")]
 [name="梅捷缇克缇"]什么嘛，为什么不早告诉我，你只是普通的小云兽！
-[name="梅捷缇克缇"]......普通的小云兽确实听不懂人类在说什么就是了。
+[name="梅捷缇克缇"]……普通的小云兽确实听不懂人类在说什么就是了。
 [name="梅捷缇克缇"]看来游客已经顺利疏散了，我们可以安安全全地出去了。等出了门，我就把你放下来，你自己回拉恕尔那里，没问题吧？
 [charslot(slot = "r", name = "avg_npc_1478_1#5$1",focus="r")]
 [name="梅捷缇克缇"]哎，别再拍我了！被人抱着不用自己走路还不舒服吗？
 [charslot(slot = "r", name = "avg_npc_1478_1#9$1",focus="r")]
-[name="梅捷缇克缇"]摸摸毛，摸摸毛......来，我给你看别的小云兽。
+[name="梅捷缇克缇"]摸摸毛，摸摸毛……来，我给你看别的小云兽。
 [name="梅捷缇克缇"]你看这个化妆盒上面的图案，云兽居然和官员是平起平坐的。顺带一提，这个是我修复的哦。
 [name="梅捷缇克缇"]还有这边的壁画。这是一件极其罕见的，从黄金之城流出的文物。
 [name="梅捷缇克缇"]为了更加准确地修复壁画上的图案，我翻阅了所有我能接触的、有关黄金之城的典籍，还去问了好几个进入过那座城市的人。
 [charslot(slot = "r", name = "avg_npc_1478_1#3$1",focus="r")]
-[name="梅捷缇克缇"]......欸，我这样是不是很容易被人误会？他们不会以为我在觊觎黄金之城的秘密吧。
+[name="梅捷缇克缇"]……欸，我这样是不是很容易被人误会？他们不会以为我在觊觎黄金之城的秘密吧。
 [charslot(slot = "r", name = "avg_npc_1478_1#9$1",focus="r")]
 [name="梅捷缇克缇"]算了，不想了。还好，你只是一只小云兽，博物馆里现在也没有其他人，我刚才那些话不会给我招来什么麻烦。
 [stopmusic(fadetime=2)]
@@ -208,9 +208,9 @@
 [delay(time=1)]
 [StopSound(channel="bgs", fadetime=3)]
 [charslot(slot = "r", name = "avg_npc_1478_1#3$1",focus="r")]
-[name="梅捷缇克缇"]......
+[name="梅捷缇克缇"]……
 [charslot(slot = "r", name = "avg_npc_1478_1#8$1",focus="r")]
-[name="梅捷缇克缇"]不会吧......？
+[name="梅捷缇克缇"]不会吧……？
 [charslot]
 [Dialog]
 [playsound(key="$glass")]
@@ -230,16 +230,16 @@
 [name="梅捷缇克缇"]如果是恶作剧的话，现在可以停下了。
 [name="梅捷缇克缇"]现在还在工作时间，少跟我闹着玩！
 [charslot(slot = "m", focus = "n")]
-[name="？？？"]......
+[name="？？？"]……
 [charslot(slot = "m", name = "avg_npc_1478_1#6$1")]
 [name="梅捷缇克缇"]哪个部门的？装聋作哑干什么？
-[name="梅捷缇克缇"]......
-[name="梅捷缇克缇"]再不说话......扣你工资哦......
+[name="梅捷缇克缇"]……
+[name="梅捷缇克缇"]再不说话……扣你工资哦……
 [charslot(slot = "m", focus = "n")]
 [stopmusic(fadetime=2)]
 话音刚落，梅捷缇克缇感觉到抵在背后的东西被拿开，她松了一口气，回过头。
 [charslot(slot = "m", name = "avg_npc_1478_1#9$1")]
-[name="梅捷缇克缇"]真是的，也不知道你是哪个部门的实习生，连副馆长都敢作弄，大人有大量，我......
+[name="梅捷缇克缇"]真是的，也不知道你是哪个部门的实习生，连副馆长都敢作弄，大人有大量，我……
 [Dialog]
 [charslot]
 [playMusic(intro="$farce_intro",key="$farce_loop", volume=0.6)]
@@ -256,7 +256,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot = "m", name = "avg_npc_1478_1#4$1")]
 [name="梅捷缇克缇"]啊——————！
-[name="梅捷缇克缇"]你......你......
+[name="梅捷缇克缇"]你……你……
 [name="梅捷缇克缇"]你怎么从柜子里出来了！
 [stopmusic(fadetime=2)]
 [Dialog]
@@ -269,31 +269,31 @@
 [delay(time=1)]
 [charslot(slot="r",name="avg_npc_1479_1#1$1",posfrom = "200,0", posto = "200,0",duration=1)]
 [delay(time=1.5)]
-[name="无名古尸"]......
-[name="无名古尸"]............
+[name="无名古尸"]……
+[name="无名古尸"]…………
 [charslot]
 [charslot(slot="m",name="avg_4058_pepe_1#2$1")]
-[name="佩佩"]都等了这么久，怎么一点反应也没有？阿娜特也没回来......算了，四处转转吧。
+[name="佩佩"]都等了这么久，怎么一点反应也没有？阿娜特也没回来……算了，四处转转吧。
 [name="佩佩"]阿娜特这家伙爱低调的性格真是没变，都做了代理馆长，这间办公室看着还是如此简朴。
 [name="佩佩"]我记得以前在宿舍，她的书最多，怎么到了这里一本都没看到。
 [charslot(slot="m",name="avg_4058_pepe_1#2$1")]
-[name="佩佩"]肯定藏在哪里......
+[name="佩佩"]肯定藏在哪里……
 [Dialog]
 [charslot(slot = "m",posfrom = "0,0", posto = "120,0",duration = 1)]
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_4058_pepe_1#1$1")]
 [name="佩佩"]哦，我就说嘛，怎么可能没有书架，原来是装进墙体里面了。
-[name="佩佩"]正好家里的书房要重新翻修......到时候得让她把设计师推荐给我。
+[name="佩佩"]正好家里的书房要重新翻修……到时候得让她把设计师推荐给我。
 [charslot(slot="m",name="avg_4058_pepe_1#2$1")]
-[name="佩佩"]让我看看你都放着什么好东西，嗯，《西南部落信仰调查》《沿河地区出土首饰考》，还有......
+[name="佩佩"]让我看看你都放着什么好东西，嗯，《西南部落信仰调查》《沿河地区出土首饰考》，还有……
 [charslot(slot="m",name="avg_4058_pepe_1#4$1")]
-[name="佩佩"]《大地巡旅》？E.E.埃里克森博士著，这名字有点耳熟......对了，不就是之前来学院做过演讲的那位维多利亚学者吗？
+[name="佩佩"]《大地巡旅》？E.E.埃里克森博士著，这名字有点耳熟……对了，不就是之前来学院做过演讲的那位维多利亚学者吗？
 [charslot(slot="m",name="avg_4058_pepe_1#1$1")]
 [name="佩佩"]好多标签，想不到阿娜特这么喜欢他的书。
 [Dialog]
 [PlaySound(key="$d_avg_paper1")]
 [delay(time=1)]
-[name="佩佩"]萨尔贡......在二百七十二页......
+[name="佩佩"]萨尔贡……在二百七十二页……
 [Dialog]
 [charslot(duration=1)]
 [delay(time=1)]
@@ -310,25 +310,25 @@
 [charslot(slot="l",name="avg_4138_narant_1#2$1",duration=1,posfrom = "-100,0", posto = "-100,0")]
 [delay(time=1.5)]
 [charslot(slot="l",name="avg_4138_narant_1#1$1",focus="l")]
-[name="娜仁图亚"]（呼......那位碍事的女士终于走了。）
+[name="娜仁图亚"]（呼……那位碍事的女士终于走了。）
 [charslot(slot="l",name="avg_4138_narant_1#12$1",focus="l")]
-[name="娜仁图亚"]（这房间未免有些太豪华......嘶，这沙发上的抱枕是拿金线绣的吗？）
+[name="娜仁图亚"]（这房间未免有些太豪华……嘶，这沙发上的抱枕是拿金线绣的吗？）
 [Dialog]
 [PlaySound(key="$d_gen_walk_n",volume=0.7)]
 [charslot(slot = "l",posfrom = "-100,0", posto = "50,0",duration = 1.5)]
 [delay(time=2)]
 [charslot(slot="r",name="avg_npc_1479_1#1$1",focus="r")]
-[name="无名古尸"]......
+[name="无名古尸"]……
 [charslot(slot="l",name="avg_4138_narant_1#2$1",focus="l")]
 [name="娜仁图亚"]（这不是海报上的古尸吗，就这么摆在屋子里也不嫌晦气，有钱人到底品味不一样。）
 [Dialog]
 [charslot(slot = "m", focus = "n")]
 [PlaySound(key="$d_avg_paper2")]
 [delay(time=1)]
-[name="佩佩"]......
+[name="佩佩"]……
 [charslot(slot="l",name="avg_4138_narant_1#1$1",focus="l")]
-[name="娜仁图亚"]（她在那里......很好，她很专注......）
-[name="娜仁图亚"]（对不住了......）
+[name="娜仁图亚"]（她在那里……很好，她很专注……）
+[name="娜仁图亚"]（对不住了……）
 [Dialog]
 [charslot(slot="l",duration=1,posfrom = "50,0", posto = "400,0",duration=2)]
 [Blocker(a=1, r=0, g=0, b=0, style = "slider", inverse = false, fadetime=2, block=true)]
@@ -350,7 +350,7 @@
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [charslot(slot="l",name="avg_4138_narant_1#8$1",focus="l")]
 [name="娜仁图亚"]——？！
-[name="娜仁图亚"]（难道......有暗卫跟随在旁？）
+[name="娜仁图亚"]（难道……有暗卫跟随在旁？）
 [Dialog]
 [charslot(slot="r",afrom=1,ato=0,duration=1.5)]
 [Background(image="bg_black",screenadapt="coverall",fadetime=1)]
@@ -400,27 +400,27 @@
 [Background(image="53_g8_sargondeluxeroom",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [playMusic(intro="$warm_intro",key="$warm_loop", volume=0.6)]
-[name="佩佩"]嗯......？
-[name="佩佩"]好像有声音......发生什么了？
+[name="佩佩"]嗯……？
+[name="佩佩"]好像有声音……发生什么了？
 [Dialog]
 [playsound(key="$d_avg_fsmummy")]
 [charslot(slot="l",name="avg_npc_1479_1#1$1",duration=1.5,posfrom = "-150,0", posto = "0,0")]
 [delay(time=2.5)]
 [Effect(name="$e_emoji_question",layer = 1,x=250,y=150)]
 [charslot(slot="r",name="avg_4058_pepe_1#11$1",focus="r")]
-[name="佩佩"]你、你怎么又能动了......
+[name="佩佩"]你、你怎么又能动了……
 [charslot(slot="l",name="avg_npc_1479_1#1$1",focus="l")]
-[name="无名古尸"]我的头脑......不再混沌，周围开始清晰，需要语言表达自身的认知。
+[name="无名古尸"]我的头脑……不再混沌，周围开始清晰，需要语言表达自身的认知。
 [charslot(slot="r",name="avg_4058_pepe_1#11$1",focus="r")]
 [name="佩佩"]你、你是活着的吗？
 [charslot(slot="l",name="avg_npc_1479_1#1$1",focus="l")]
 [name="无名古尸"]我的生命早已逝去，你所见到的，只是一具经过良好处理的躯壳。
 [charslot(slot="r",name="avg_4058_pepe_1#2$1",focus="r")]
-[name="佩佩"]......
+[name="佩佩"]……
 [name="佩佩"]你的身份？告诉我。
 [charslot(slot="l",name="avg_npc_1479_1#1$1",focus="l")]
 [name="无名古尸"]兴盛之时，我是万王之王路加萨尔古斯身边的御前护卫军官，在战役中为他保驾护航。
-[name="无名古尸"]衰败之时，则甘心化为不朽之物，宁愿经受时光磨消，守卫陛下所建之宝库不受侵扰，捍卫陛下所宣之誓言得以实现，等待......
+[name="无名古尸"]衰败之时，则甘心化为不朽之物，宁愿经受时光磨消，守卫陛下所建之宝库不受侵扰，捍卫陛下所宣之誓言得以实现，等待……
 [name="无名古尸"]等待陛下所去之身影终能回还。
 [charslot(slot="r",name="avg_4058_pepe_1#2$1",focus="r")]
 [name="佩佩"]那我、我该如何称呼你？
@@ -444,7 +444,7 @@
 [name="温柔的母亲"]我猜她应该是在思考什么了不起的道理吧。
 [charslot(slot = "left", name = "avg_npc_1496_1#1$1",focus="l")]
 [name="好奇的孩子"]了不起的道理？那是什么？
-[name="好奇的孩子"]不过她的样子......好好看......
+[name="好奇的孩子"]不过她的样子……好好看……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -456,14 +456,14 @@
 [charslot(slot = "right", name = "avg_npc_1477_1#1$1",focus="r")]
 [name="阿斯帕齐娅"]我知道，所以我正在等待开门。
 [charslot(slot = "left", focus="l")]
-[name="博物馆保安"]这......我想短时间内是不会重新开门的。
-[name="博物馆保安"]一般来说，得等到馆长处理完紧急情况，评估完风险，报告给投资人，然后公布开馆日期......
+[name="博物馆保安"]这……我想短时间内是不会重新开门的。
+[name="博物馆保安"]一般来说，得等到馆长处理完紧急情况，评估完风险，报告给投资人，然后公布开馆日期……
 [charslot(slot = "right", name = "avg_npc_1477_1#1$1",focus="r")]
 [name="阿斯帕齐娅"]我知道，另一位工作人员已经说过一模一样的话了。
 [charslot(slot = "right", name = "avg_npc_1477_1#1$1",focus="r")]
 [name="阿斯帕齐娅"]如你所见，我正在等。
 [charslot(slot = "left", focus="l")]
-[name="博物馆保安"]......您刚才说自己有东西遗落在馆内了，是吗？
+[name="博物馆保安"]……您刚才说自己有东西遗落在馆内了，是吗？
 [charslot(slot = "right", name = "avg_npc_1477_1#1$1",focus="r")]
 [name="阿斯帕齐娅"]是的。
 [charslot(slot = "left", focus="l")]
@@ -471,12 +471,12 @@
 [charslot(slot = "right", name = "avg_npc_1477_1#1$1",focus="r")]
 [name="阿斯帕齐娅"]不能。
 [charslot(slot = "left", focus="l")]
-[name="博物馆保安"]......这样吧，女士，我悄悄把门打开，联系同事陪您一起回去找。
+[name="博物馆保安"]……这样吧，女士，我悄悄把门打开，联系同事陪您一起回去找。
 [charslot(slot = "right", name = "avg_npc_1477_1#8$1",focus="r")]
 [name="阿斯帕齐娅"]多谢——
 [charslot]
 [stopmusic(fadetime=2)]
-[name="好奇的孩子"]妈妈......
+[name="好奇的孩子"]妈妈……
 [name="温柔的母亲"]怎么了？
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="好奇的孩子"]看，有人从博物馆楼上跳下来了！

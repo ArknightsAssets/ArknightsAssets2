@@ -12,23 +12,23 @@
 [dialog]
 [delay(time=1)]
 [Character(name="avg_npc_394_1#7$1")]
-[name="阿米娅"] 前面......就是入口了。
+[name="阿米娅"] 前面……就是入口了。
 [dialog]
 [Character(name="avg_npc_394_1#7$1",focus=-1)]
 [Decision(options="你在担心什么？", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_npc_394_1#3$1")]
-[name="阿米娅"] 嗯......其实到目前为止都很顺利......
+[name="阿米娅"] 嗯……其实到目前为止都很顺利……
 [Character(name="avg_npc_394_1#7$1")]
 [name="阿米娅"] ——除了一件事。
 [Character(name="avg_npc_394_1#20$1")]
 [name="阿米娅"] 博士，一直以来与您和凯尔希医生联络的那位信使，她本来会在我们抵达附属地块之后，就立刻与我们联系。
 [dialog]
 [Character(name="avg_npc_394_1#20$1",focus=-1)]
-[Decision(options="我记得这项约定。;......;她会不会出事？", values="1;2;3")]
+[Decision(options="我记得这项约定。;……;她会不会出事？", values="1;2;3")]
 [Predicate(references="1")]
 [Character(name="avg_npc_394_1#3$1")]
-[name="阿米娅"] 我们都在等......但也只能被动等待。
+[name="阿米娅"] 我们都在等……但也只能被动等待。
 [Character(name="avg_npc_394_1#1$1")]
 [name="阿米娅"] 我本以为会亲眼见到她，或者至少收到某种形式的讯息。
 [Predicate(references="2")]
@@ -40,12 +40,12 @@
 [Character(name="avg_npc_394_1#18$1")]
 [name="阿米娅"] 联络不上，就没有办法确认。
 [Character(name="avg_npc_394_1#2$1")]
-[name="阿米娅"] 希望她没有遇上什么意外......
+[name="阿米娅"] 希望她没有遇上什么意外……
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_394_1#11$1")]
 [name="阿米娅"] 我们还是按原定计划进城。
 [Character(name="avg_npc_394_1#5$1")]
-[name="阿米娅"] 唔，前面好多人，都是从城内的方向涌过来的......
+[name="阿米娅"] 唔，前面好多人，都是从城内的方向涌过来的……
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -59,12 +59,12 @@
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",fadetime=0.7)]
 [delay(time=0.7)]
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
-[name="伦蒂尼姆市民A"] ......我们真就这么逃出来了？
+[name="伦蒂尼姆市民A"] ……我们真就这么逃出来了？
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
 [name="伦蒂尼姆市民B"]这条路是安全的，我邻居一家上周就是从这里走的。
 [name="伦蒂尼姆市民B"]只要能申请到出城证，士兵们就不会为难我们。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
-[name="伦蒂尼姆市民A"] 我......我其实不是这个意思。
+[name="伦蒂尼姆市民A"] 我……我其实不是这个意思。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
 [name="伦蒂尼姆市民B"]我知道。我脑子里的想法应该和你一样。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
@@ -74,19 +74,19 @@
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
 [name="伦蒂尼姆市民B"]两年前，我看见萨卡兹的军队走在特伦菲尔德区的街道上。那件事成了我在下班路上，与同事的谈资。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
-[name="伦蒂尼姆市民A"] 我也记得......仿佛一夜之间，有些事情就悄悄变了。我们这些住在卡登区公爵办事处附近的，看见这些变化，要更晚一些。
+[name="伦蒂尼姆市民A"] 我也记得……仿佛一夜之间，有些事情就悄悄变了。我们这些住在卡登区公爵办事处附近的，看见这些变化，要更晚一些。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
 [name="伦蒂尼姆市民B"]大半年前，萨卡兹的军队站在了我们银行门口。他们带走了我们行长，因为她的丈夫在城防军中担任要职。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
 [name="伦蒂尼姆市民A"] 唉，在那之后，你是不是再也没见过他们？在我们住的街区，警员们也都换了面孔，他们之中的好些个都长着那可怕的角。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
-[name="伦蒂尼姆市民B"]再然后......昨天。我看到有萨卡兹来到我家对面的街角，他们在......挨家挨户地敲门。
+[name="伦蒂尼姆市民B"]再然后……昨天。我看到有萨卡兹来到我家对面的街角，他们在……挨家挨户地敲门。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
 [name="伦蒂尼姆市民A"] 所以你逃出来了？
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
-[name="伦蒂尼姆市民B"]其实我的父母早就走了。我只是......我放不下这份银行柜员的收入。
+[name="伦蒂尼姆市民B"]其实我的父母早就走了。我只是……我放不下这份银行柜员的收入。
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
-[name="伦蒂尼姆市民A"] 谁又不是呢。伦蒂尼姆......真离开了这座城市，我们就都回不去以前那种生活了吧？
+[name="伦蒂尼姆市民A"] 谁又不是呢。伦蒂尼姆……真离开了这座城市，我们就都回不去以前那种生活了吧？
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=2)]
 [name="伦蒂尼姆市民B"]还是别说了。走吧，都走吧。比起挣钱，我更想活命。
 [dialog]
@@ -104,13 +104,13 @@
 [Delay(time=1)]
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_npc_394_1#11$1")]
-[name="阿米娅"] ......
+[name="阿米娅"] ……
 [Character(name="avg_npc_394_1#11$1")]
 [name="阿米娅"] 这里每天都是这副样子吗？
 [Character(name="avg_npc_407_1#1$1")]
-[name="推进之王"]......从某一天开始，大概就是如此。
+[name="推进之王"]……从某一天开始，大概就是如此。
 [Character(name="avg_npc_394_1#5$1")]
-[name="阿米娅"] 特雷西斯的军队......他们并不阻挠平民出城？
+[name="阿米娅"] 特雷西斯的军队……他们并不阻挠平民出城？
 [Character(name="avg_npc_407_1#10$1")]
 [name="推进之王"]看起来，他并不在意让伦蒂尼姆之外的人知晓现在伦蒂尼姆真正的掌权人是谁。
 [dialog]
@@ -131,7 +131,7 @@
 [name="推进之王"]而若是他执意进军，等待着他的一定是一场失利，这场失利甚至不需要耗费城内的萨卡兹摄政王一兵一卒。
 [Predicate(references="2")]
 [Character(name="avg_npc_407_1#2$1")]
-[name="推进之王"]......我不知道。
+[name="推进之王"]……我不知道。
 [Character(name="avg_npc_407_1#2$1")]
 [name="推进之王"]我们离开伦蒂尼姆的时候，那一天的伦蒂尼姆，与之前的任何一天都没有太大不同。
 [Character(name="avg_npc_407_1#5$1")]
@@ -140,14 +140,14 @@
 [Character(name="avg_npc_407_1#1$1")]
 [name="推进之王"]至于城内的具体情况，我们只有在进去之后才能看清楚了。
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]各位，我已经把你们带到这里......剩下的路，你们就自己走了吧？
+[name="伦蒂尼姆市民"]各位，我已经把你们带到这里……剩下的路，你们就自己走了吧？
 [Character(name="avg_npc_394_1#8$1")]
 [name="阿米娅"] 没问题。谢谢您，托马斯先生，您帮了我们一个大忙。
 [Character(name="avg_npc_394_1#13$1")]
 [name="阿米娅"] 各小组注意，我们按之前的安排，分批混入面前的人流里——
 [name="阿米娅"] 可露希尔小组先走，确定前路通畅之后，推进之王小组跟上。我与博士会殿后。
 [name="阿米娅"] 侦察小组请持续留意周围情况，如有异常，立刻通报。
-[name="阿米娅"] 白轮，还是由你带托马斯先生从原路返......
+[name="阿米娅"] 白轮，还是由你带托马斯先生从原路返……
 [Character(name="avg_npc_012")]
 [name="罗德岛干员"] 阿米娅！
 [Character(name="avg_npc_394_1#7$1")]
@@ -155,7 +155,7 @@
 [Character(name="avg_npc_012")]
 [name="罗德岛干员"] 前方突发骚乱，看起来像是有萨卡兹士兵过来了！
 [Character(name="avg_npc_394_1#7$1")]
-[name="阿米娅"] ......！
+[name="阿米娅"] ……！
 [Character(name="avg_npc_394_1#20$1")]
 [name="阿米娅"] 全体注意，潜入行动中止，我们先就近隐蔽！
 [Dialog]
@@ -183,13 +183,13 @@
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
 [name="萨卡兹战士"]抓住前面那个人！
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
-[name="伦蒂尼姆市民A"] 怎么......怎么会这样？为什么会有萨卡兹士兵？
+[name="伦蒂尼姆市民A"] 怎么……怎么会这样？为什么会有萨卡兹士兵？
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
 [name="伦蒂尼姆市民A"] 你不是说这条路是安全的吗？！
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
 [name="萨卡兹战士"]说的就是你，不许走！
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
-[name="伦蒂尼姆市民A"] 快点......再走快一点，我们马上就能出......出城......
+[name="伦蒂尼姆市民A"] 快点……再走快一点，我们马上就能出……出城……
 [Character(name="avg_npc_416_1#1$1",name2="avg_npc_418_1#1$1",focus=1)]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="伦蒂尼姆市民A"] 啊——！
@@ -198,11 +198,11 @@
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [delay(time=2)]
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
-[name="萨卡兹战士"]......
+[name="萨卡兹战士"]……
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
 [name="萨卡兹战士"]不是这个人。
 [Character(name="avg_npc_418_1#1$1")]
-[name="伦蒂尼姆市民B"]先、先生，您......您别打我，我愿意跟您回去......我们是犯了什么错吗？
+[name="伦蒂尼姆市民B"]先、先生，您……您别打我，我愿意跟您回去……我们是犯了什么错吗？
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
 [name="萨卡兹战士"]爱滚哪去滚哪去，别站在这里碍事。
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
@@ -212,13 +212,13 @@
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
 [name="萨卡兹战士"]你包里装什么了？是不是武器？全倒出来看看！
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
-[name="萨卡兹战士"]你脸上为什么有灼伤？还挺新的......就是你，给我滚出队列！
+[name="萨卡兹战士"]你脸上为什么有灼伤？还挺新的……就是你，给我滚出队列！
 [dialog]
 [delay(time=1)]
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
-[name="萨卡兹战士"]......你说做面包的时候被烫伤了？你当我们是傻子吗！
+[name="萨卡兹战士"]……你说做面包的时候被烫伤了？你当我们是傻子吗！
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
-[name="萨卡兹战士"]嘁......看样子真不是被我们的武器弄的。我说，你不是反抗军吧？
+[name="萨卡兹战士"]嘁……看样子真不是被我们的武器弄的。我说，你不是反抗军吧？
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_419_1#1$1",focus=1)]
 [name="萨卡兹战士"]吓晕过去了。算了，这个先带走。
 [dialog]
@@ -228,17 +228,17 @@
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",fadetime=0.7)]
 [delay(time=0.7)]
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
-[name="号角"]......
+[name="号角"]……
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=2)]
 [name="伦蒂尼姆市民？"] 中尉，我们走不了了。
 [Character(name="avg_4039_horn_1#5$1",name2="avg_npc_413_1#1$1",focus=1)]
-[name="号角"]......是我的责任。送你们来这里之前，我应该先注意下有没有追兵。
+[name="号角"]……是我的责任。送你们来这里之前，我应该先注意下有没有追兵。
 [Character(name="avg_4039_horn_1#5$1",name2="avg_npc_413_1#1$1",focus=2)]
 [name="伦蒂尼姆市民？"] 您千万别这么说。
 [Character(name="avg_4039_horn_1#5$1",name2="avg_npc_413_1#1$1",focus=2)]
 [name="伦蒂尼姆市民？"] 不管是我们这几个被深池抓住的兄弟，还是老汤姆他们那几个被萨卡兹折磨更久的，我们在被你救出来之前，都已经与死人无异了。
 [Character(name="avg_4039_horn_1#5$1",name2="avg_npc_413_1#1$1",focus=2)]
-[name="伦蒂尼姆市民？"] 那滋味真的太绝望了......我宁可战死沙场，而不是这么窝囊又稀里糊涂地就被敌人关了起来。
+[name="伦蒂尼姆市民？"] 那滋味真的太绝望了……我宁可战死沙场，而不是这么窝囊又稀里糊涂地就被敌人关了起来。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
 [name="号角"]伦蒂尼姆的沦陷绝不是你们的错。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=2)]
@@ -254,19 +254,19 @@
 [Character(name="avg_4039_horn_1#7$1",name2="avg_npc_413_1#1$1",focus=1)]
 [name="号角"]我绝不会抛下你们任何一个人。
 [Character(name="avg_4039_horn_1#7$1",name2="avg_npc_413_1#1$1",focus=2)]
-[name="伦蒂尼姆市民？"] 哈......要是当时我的长官也能像您一样，我们是不是......也不至于输得这么快这么惨？
+[name="伦蒂尼姆市民？"] 哈……要是当时我的长官也能像您一样，我们是不是……也不至于输得这么快这么惨？
 [Character(name="avg_4039_horn_1#7$1",name2="avg_npc_413_1#1$1",focus=2)]
-[name="伦蒂尼姆市民？"] 见到您以后，我其实就意识到了，我也想像您一样再做些什么......
+[name="伦蒂尼姆市民？"] 见到您以后，我其实就意识到了，我也想像您一样再做些什么……
 [Character(name="avg_4039_horn_1#4$1",name2="avg_npc_413_1#1$1",focus=1)]
-[name="号角"]你是想......不，不可以！
+[name="号角"]你是想……不，不可以！
 [Character(name="avg_4039_horn_1#4$1",name2="avg_npc_413_1#1$1",focus=2)]
 [name="伦蒂尼姆市民？"] 您说，我们几个老兄弟一块冲过去，能带走几个萨卡兹？
 [Character(name="avg_4039_horn_1#7$1",name2="avg_npc_413_1#1$1",focus=1)]
-[name="号角"]......都给我听好了。
+[name="号角"]……都给我听好了。
 [Character(name="avg_4039_horn_1#7$1",name2="avg_npc_413_1#1$1",focus=1)]
 [name="号角"]谁都不许行动。这是命令。
 [Character(name="avg_4039_horn_1#7$1",name2="avg_npc_413_1#1$1",focus=2)]
-[name="伦蒂尼姆市民？"] 命令......
+[name="伦蒂尼姆市民？"] 命令……
 [Character(name="avg_4039_horn_1#7$1",name2="avg_npc_413_1#1$1",focus=2)]
 [name="伦蒂尼姆市民？"] 好。您现在是我的长官了，我愿意服从您的命令。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
@@ -274,19 +274,19 @@
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
 [name="号角"]全部低下头。记住我教你们的，你们都是来自附近街区的无业者，受的伤是为了抢一块面包而互殴留下的。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=2)]
-[name="伦蒂尼姆市民？"] 萨卡兹......会信？
+[name="伦蒂尼姆市民？"] 萨卡兹……会信？
 [Character(name="avg_4039_horn_1#2$1",name2="avg_npc_413_1#1$1",focus=1)]
 [name="号角"]如今的萨迪恩区一片乱象，他们自然也都见识过。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
-[name="号角"]不管他们信不信，就算逼问起来，你们也......暂时忍一忍。
+[name="号角"]不管他们信不信，就算逼问起来，你们也……暂时忍一忍。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
-[name="号角"]万一有谁忍不住......
+[name="号角"]万一有谁忍不住……
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=2)]
 [name="伦蒂尼姆市民？"] 我们明白。被萨卡兹发现的话，我们绝不牵连其他人。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
 [name="号角"]万一谁忍不住，我会动手。
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=2)]
-[name="伦蒂尼姆市民？"] 中尉......？！
+[name="伦蒂尼姆市民？"] 中尉……？！
 [Character(name="avg_4039_horn_1#1$1",name2="avg_npc_413_1#1$1",focus=1)]
 [name="号角"]先静观其变。
 [SoundVolume(channel="bse", volume=0, fadetime=1)]
@@ -321,7 +321,7 @@
 [Character(name="avg_npc_394_1#1$1")]
 [Delay(time=0.51)]
 [playsound(key="$d_gen_transmissionget", volume=0.6)]
-[name="阿米娅"] ......位置确认完毕。
+[name="阿米娅"] ……位置确认完毕。
 [dialog]
 [delay(time=1)]
 [Character(name="avg_npc_394_1#1$1",focus=-1)]
@@ -338,29 +338,29 @@
 [Character(name="avg_npc_394_1#18$1")]
 [name="阿米娅"] 那么，只要我们一进入伦蒂尼姆，特雷西斯的亲兵很可能就会站在我们面前。
 [Character(name="avg_npc_394_1#2$1")]
-[name="阿米娅"] 可是眼前的情况似乎不太一样......
+[name="阿米娅"] 可是眼前的情况似乎不太一样……
 [dialog]
 [Character(name="avg_npc_394_1#2$1",focus=-1)]
-[Decision(options="我以为等着我们的起码是赦罪师。;......;我们不至于这么没面子吧？", values="1;2;3")]
+[Decision(options="我以为等着我们的起码是赦罪师。;……;我们不至于这么没面子吧？", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_npc_394_1#2$1")]
 [name="阿米娅"] 我和博士的判断应该是一致的。
 [Character(name="avg_npc_394_1#2$1")]
 [name="阿米娅"] 特雷西斯目前还不知道我们已经到了。否则的话，我们很难一路走到这里。
 [Character(name="avg_npc_394_1#11$1")]
-[name="阿米娅"] 那么，眼前这些萨卡兹士兵，在搜捕的应该是其他恰好出现在这里的人......
+[name="阿米娅"] 那么，眼前这些萨卡兹士兵，在搜捕的应该是其他恰好出现在这里的人……
 [Character(name="avg_npc_416_1#1$1")]
 [name="伦蒂尼姆市民"]——！
 [Character(name="avg_npc_394_1#5$1")]
-[name="阿米娅"] 欸，托马斯先生......？
+[name="阿米娅"] 欸，托马斯先生……？
 [Character(name="avg_npc_012")]
 [name="罗德岛干员"] 阿米娅，他突然就想跑出去，我差点没拦住！
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]不，不要拦着我，我不能在这里......
+[name="伦蒂尼姆市民"]不，不要拦着我，我不能在这里……
 [Character(name="avg_npc_394_1#14$1")]
 [name="阿米娅"] 托马斯先生，您最好不要擅自行动！这样会非常危险！
 [Character(name="avg_npc_394_1#15$1")]
-[name="阿米娅"] 我答应过您，会让干员护送您离开，但很抱歉，我们当前还不能......
+[name="阿米娅"] 我答应过您，会让干员护送您离开，但很抱歉，我们当前还不能……
 [Character(name="avg_npc_012")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="罗德岛干员"] 哎呦！
@@ -373,25 +373,25 @@
 [character(fadetime=1.5)]
 [delay(time=2)]
 [Character(name="avg_npc_394_1#7$1")]
-[name="阿米娅"] 这到底是怎么回事......
+[name="阿米娅"] 这到底是怎么回事……
 [dialog]
 [Character(name="avg_npc_394_1#7$1",focus=-1)]
 [Decision(options="答案很明显了。;他觉得士兵们在找他。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_394_1#7$1")]
-[name="阿米娅"] ......
+[name="阿米娅"] ……
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]我也不想这样......我只是给萨卡兹开了半年车而已！
+[name="伦蒂尼姆市民"]我也不想这样……我只是给萨卡兹开了半年车而已！
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]他们占了我的炼糖厂，又逼我给他们运东西，我在城外的一家老小都还要活下去......我能怎么办？！
+[name="伦蒂尼姆市民"]他们占了我的炼糖厂，又逼我给他们运东西，我在城外的一家老小都还要活下去……我能怎么办？！
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]那天我就看了一眼，一小眼，我哪能猜到他们在用我的厂房做什么......
+[name="伦蒂尼姆市民"]那天我就看了一眼，一小眼，我哪能猜到他们在用我的厂房做什么……
 [Character(name="avg_npc_416_1#1$1")]
 [name="伦蒂尼姆市民"]他们一直追我，我知道一旦被追上，他们一定会杀了我！
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]你们为什么都要找我......我往哪里跑都要没命！
+[name="伦蒂尼姆市民"]你们为什么都要找我……我往哪里跑都要没命！
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]我......我不能坐以待毙......
+[name="伦蒂尼姆市民"]我……我不能坐以待毙……
 [Character(name="avg_npc_012")]
 [name="罗德岛干员"] 托马斯先生！
 [Character(name="avg_npc_394_1#7$1")]
@@ -410,9 +410,9 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]哈......哈哈......
+[name="伦蒂尼姆市民"]哈……哈哈……
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]像这样......跑出伦蒂尼姆......我不管外面那群深池的人了......
+[name="伦蒂尼姆市民"]像这样……跑出伦蒂尼姆……我不管外面那群深池的人了……
 [dialog]
 [character]
 [playsound(key="$d_gen_walk_n")]
@@ -422,9 +422,9 @@
 [Character(name="avg_npc_416_1#1$1")]
 [name="伦蒂尼姆市民"]呃——！
 [Character(name="avg_npc_406_1#1$1",name2="avg_npc_406_1#1$1")]
-[name="深池士兵"]......
+[name="深池士兵"]……
 [Character(name="avg_npc_416_1#1$1")]
-[name="伦蒂尼姆市民"]你......你怎么回事......你们是......
+[name="伦蒂尼姆市民"]你……你怎么回事……你们是……
 [dialog]
 [character]
 [character(name="avg_npc_233_1#1",fadetime=0.5)]

@@ -41,15 +41,15 @@
 [name="伦蒂尼姆工人"]她知道的太多了，他们要把像她一样的工人秘密处决掉。
 [name="伦蒂尼姆工人"]刚才我就觉得不对，让戴爬到工厂上面确认了这件事。
 [Character(name="avg_4072_ironmn_1#7$1",name2="avg_npc_659_1#1$1",focus=1)]
-[name="费斯特"]你说......什么？
+[name="费斯特"]你说……什么？
 [Character(name="avg_4072_ironmn_1#7$1",name2="avg_npc_659_1#1$1",focus=2)]
 [name="伦蒂尼姆工人"]凯瑟琳瞒着我们，以为我们什么都不知道。
 [name="伦蒂尼姆工人"]但我们也不傻，多多少少也猜到了。
 [Character(name="avg_4072_ironmn_1#10$1",name2="avg_npc_659_1#1$1",focus=1)]
-[name="费斯特"]......然后你们要做什么？
+[name="费斯特"]……然后你们要做什么？
 [Character(name="avg_4072_ironmn_1#10$1",name2="avg_npc_659_1#1$1",focus=2)]
 [name="伦蒂尼姆工人"]不做什么。
-[name="伦蒂尼姆工人"]......我们忍了这些萨卡兹很长时间。
+[name="伦蒂尼姆工人"]……我们忍了这些萨卡兹很长时间。
 [name="伦蒂尼姆工人"]许多人都习惯了，习惯了这种温吞水的状态。
 [name="伦蒂尼姆工人"]甚至许多人以为，只要再忍一忍，萨卡兹就会放过我们。
 [name="伦蒂尼姆工人"]然后，他们现在打算拿凯瑟琳开刀了。
@@ -59,7 +59,7 @@
 [name="伦蒂尼姆工人"]那也好过眼睁睁看着凯瑟琳被他们杀死。
 [name="伦蒂尼姆工人"]聚集在这里的，都是没有后顾之忧的家伙。
 [Character(name="avg_4072_ironmn_1#8$1",name2="avg_npc_659_1#1$1",focus=1)]
-[name="费斯特"]我......
+[name="费斯特"]我……
 [Character(name="avg_4072_ironmn_1#8$1",name2="avg_npc_659_1#1$1",focus=2)]
 [name="伦蒂尼姆工人"]停。
 [name="伦蒂尼姆工人"]你已经是自救军的人了。
@@ -67,7 +67,7 @@
 [name="伦蒂尼姆工人"]你有更重要的事要做。
 [name="伦蒂尼姆工人"]别让凯瑟琳的牺牲白费。
 [Character(name="avg_4072_ironmn_1#10$1",name2="avg_npc_659_1#1$1",focus=1)]
-[name="费斯特"]......不。
+[name="费斯特"]……不。
 [name="费斯特"]博士，虽然我获得了奶奶留给我的情报。
 [name="费斯特"]但是，作为这座军工厂的工人代表，奶奶本人无疑是对萨卡兹的生产线走向最为了解的人。
 [name="费斯特"]她在战略上有着重要的价值，对吧？
@@ -76,10 +76,10 @@
 [Decision(options="毫无疑问。;我不否认。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_4072_ironmn_1#10$1",name2="avg_npc_659_1#1$1",focus=1)]
-[name="费斯特"]......那么，我想请求罗德岛的协助。
+[name="费斯特"]……那么，我想请求罗德岛的协助。
 [Character]
 [Dialog]
-[Decision(options="阿斯卡纶，你在吗？;我记得你盯着......陪着我。", values="1;2")]
+[Decision(options="阿斯卡纶，你在吗？;我记得你盯着……陪着我。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_395_1#1$1",fadetime=0.5)]
 [name="阿斯卡纶"]我在。
@@ -95,7 +95,7 @@
 [Decision(options="我们需要一些时间。;转移雇佣兵的视线，解决那些斥候。", values="1;2")]
 [Predicate(references="1;2")]
 [Character(name="avg_npc_395_1#7$1")]
-[name="阿斯卡纶"]......
+[name="阿斯卡纶"]……
 [name="阿斯卡纶"]没问题。
 [Character(name="avg_4072_ironmn_1#4$1")]
 [name="费斯特"]谢谢你们，博士，阿斯卡纶小姐。
@@ -146,7 +146,7 @@
 [name="费斯特"]只要能把奶奶和其他工人代表救出来，我们会有充足的时间撤离海布里区。
 [name="费斯特"]我会带着你们去和自救军会合。
 [name="费斯特"]所有人都会得救。
-[name="费斯特"]......所有人都应该得救。
+[name="费斯特"]……所有人都应该得救。
 [dialog]
 [delay(time=1.5)]
 工人们面面相觑。
@@ -167,7 +167,7 @@
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="伦蒂尼姆工人"]费斯特，我、我也去！
 [Character(name="avg_4072_ironmn_1#7$1")]
-[name="费斯特"]汤米......你还是来了。
+[name="费斯特"]汤米……你还是来了。
 [name="费斯特"]不过，你还是不要去了。
 [Character(name="avg_npc_660_1#1$1")]
 [name="伦蒂尼姆工人"]为什么？
@@ -179,11 +179,11 @@
 [name="费斯特"]而且，我有件事想要拜托你。
 [name="费斯特"]不管结果怎么样，半个小时后，去向萨卡兹举报，就说我们这些工人，擅自行动去闹事了。
 [Character(name="avg_npc_660_1#1$1")]
-[name="伦蒂尼姆工人"]可......
+[name="伦蒂尼姆工人"]可……
 [Character(name="avg_4072_ironmn_1#10$1")]
 [name="费斯特"]这也很重要，我不能害了留在这里的兄弟。
 [Character(name="avg_npc_660_1#1$1")]
-[name="伦蒂尼姆工人"]......我知道了。
+[name="伦蒂尼姆工人"]……我知道了。
 [Character(name="avg_4072_ironmn_1#10$1")]
 [name="费斯特"]那么，各位，让我们出发吧。
 [name="费斯特"]去把我们的老工头们救回来。
@@ -229,12 +229,12 @@
 [name="萨卡兹雇佣兵队长"]对了，明椒。
 [name="萨卡兹雇佣兵队长"]格林应该没让你杀过人吧。
 [Character(name="avg_4071_peper_1#12$1")]
-[name="明椒"]......是的。
+[name="明椒"]……是的。
 [Character(name="avg_npc_054")]
 [name="萨卡兹雇佣兵队长"]那这是个好机会。
 [name="萨卡兹雇佣兵队长"]你该试着学会杀人。
 [Character(name="avg_4071_peper_1#4$1")]
-[name="明椒"]......
+[name="明椒"]……
 [character(name="avg_npc_648_1#8$1")]
 [name="凯瑟琳"]萨卡兹就是这么对待孩子的吗？
 [Character(name="avg_npc_054")]
@@ -242,7 +242,7 @@
 [name="萨卡兹雇佣兵队长"]如果可以，我也不希望知道什么是战争。每一个萨卡兹都是。
 [name="萨卡兹雇佣兵队长"]但你们没有给我们选择。你们所有人都没有。所以现在，她该知道了。
 [character(name="avg_npc_648_1#1$1")]
-[name="凯瑟琳"]......
+[name="凯瑟琳"]……
 [Character(name="avg_npc_054")]
 [name="萨卡兹雇佣兵队长"]我喜欢你的眼神，老家伙。
 [name="萨卡兹雇佣兵队长"]每当我发现那些死不瞑目的战友时，他们，也往往都是这种眼神。
@@ -254,11 +254,11 @@
 [name="萨卡兹雇佣兵"]我杀过很多人。
 [name="萨卡兹雇佣兵"]但是，把这些没有反抗能力的人一个个处决的感觉，还挺怪的。
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_053",focus=1)]
-[name="萨卡兹战士"]......不想干的话，可以回你来的地方。
+[name="萨卡兹战士"]……不想干的话，可以回你来的地方。
 [name="萨卡兹战士"]你怎么知道这些工人过去造的武器有没有被用来杀你的同胞？
 [name="萨卡兹战士"]我们在打仗。道德是留给和平的。我们从没有机会真正公平地讨论这个话题。
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_053",focus=2)]
-[name="萨卡兹雇佣兵"]不用你来告诉我这点，我只是......
+[name="萨卡兹雇佣兵"]不用你来告诉我这点，我只是……
 [Character(name="avg_npc_419_1#1$1",name2="avg_npc_053")]
 [Dialog]
 [StopMusic(fadetime=1)]
@@ -312,26 +312,26 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [delay(time=1)]
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#9$1",focus=2)]
-[name="明椒"]我......不能交给别人吗？
+[name="明椒"]我……不能交给别人吗？
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#9$1",focus=1)]
 [name="萨卡兹雇佣兵队长"]不行。
 [name="萨卡兹雇佣兵队长"]格林应该教过你，队长的命令对雇佣兵来说是绝对的。
 [name="萨卡兹雇佣兵队长"]今天，要么你杀了这个老东西，要么，放下武器，但我会了结你。
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#9$1",focus=2)]
-[name="明椒"]我......
+[name="明椒"]我……
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#9$1",focus=1)]
 [name="萨卡兹雇佣兵队长"]动手。
 [character(name="avg_npc_648_1#6$1")]
-[name="凯瑟琳"]......
+[name="凯瑟琳"]……
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#9$1",focus=2)]
-[name="明椒"]但是......
+[name="明椒"]但是……
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#9$1",focus=1)]
 [name="萨卡兹雇佣兵队长"]动手！
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#4$1",focus=2)]
-[name="明椒"]我......我做不到！
+[name="明椒"]我……我做不到！
 [Character(name="avg_npc_054",name2="avg_4071_peper_1#4$1",focus=1)]
-[name="萨卡兹雇佣兵队长"]......我早就说过，格林太护着你了。
+[name="萨卡兹雇佣兵队长"]……我早就说过，格林太护着你了。
 [name="萨卡兹雇佣兵队长"]我们不是来说服维多利亚人把家园还给我们的。没法动手，你可得吃点苦头——
 [Dialog]
 [playsound(key="$d_avg_drone",volume=0.8)]
@@ -352,7 +352,7 @@
 [name="费斯特"]好！
 [CameraShake(duration=0.5, xstrength=20, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [character(name="avg_npc_054")]
-[name="萨卡兹雇佣兵队长"]......你们疯了吗？
+[name="萨卡兹雇佣兵队长"]……你们疯了吗？
 [Dialog]
 [character(name="avg_4072_ironmn_1#10$1",name2="avg_npc_054",fadetime=0.3)]
 [characteraction(name="left", type="move", xpos=150, fadetime=0.3, block=true)]
@@ -392,7 +392,7 @@
 [character(name="avg_npc_648_1#5$1")]
 [name="凯瑟琳"]费斯特！你们——
 [character(name="avg_4072_ironmn_1#10$1",name2="avg_npc_054",focus=2)]
-[name="萨卡兹雇佣兵队长"]哼......
+[name="萨卡兹雇佣兵队长"]哼……
 [name="萨卡兹雇佣兵队长"]假装什么都不知道，你们还能活得久一点。
 [character(name="avg_4072_ironmn_1#10$1",name2="avg_npc_054",focus=1)]
 [name="费斯特"]不巧，奶奶从小就批评我，不知道在该闭嘴的时候闭嘴。
@@ -412,33 +412,33 @@
 [PlaySound(key="$fightgeneral", volume=0.9)]
 [Blocker(a=0, fadetime=1.5, block=false)]
 [characteraction(name="right", type="shake", power=8, times=70, fadetime=0.3, block=true)]
-[name="萨卡兹雇佣兵队长"]呃......！
+[name="萨卡兹雇佣兵队长"]呃……！
 [Dialog]
 [playsound(key="$bodyfalldown1")]
 [character(name="avg_npc_648_1#8$1",name2="char_empty",fadetime=0.5)]
 [Delay(time=1)]
 [character(name="avg_npc_648_1#8$1",name2="char_empty",focus=1)]
-[name="凯瑟琳"]......混账玩意，呃，还真结实......
+[name="凯瑟琳"]……混账玩意，呃，还真结实……
 [name="凯瑟琳"]谢了，乔治。起码出了口恶气。
 [character(name="avg_npc_659_1#1$1")]
 [name="伦蒂尼姆工人"]还是先谢费斯特吧。
-[name="伦蒂尼姆工人"]还有......你们这些萨卡兹，不动手吗？
+[name="伦蒂尼姆工人"]还有……你们这些萨卡兹，不动手吗？
 [Character(name="avg_4071_peper_1#9$1")]
-[name="明椒"]......
+[name="明椒"]……
 [character(name="avg_npc_648_1#6$1")]
-[name="凯瑟琳"]......孩子。
+[name="凯瑟琳"]……孩子。
 [name="凯瑟琳"]你们的队长说得没有错。我们不该在现在谈论对错。我们没法谈论对错。
-[name="凯瑟琳"]但如果你甚至不知道自己在为什么而战......
+[name="凯瑟琳"]但如果你甚至不知道自己在为什么而战……
 [Character(name="avg_4071_peper_1#4$1")]
-[name="明椒"]......不。
-[name="明椒"]你、你们不能走......
+[name="明椒"]……不。
+[name="明椒"]你、你们不能走……
 [Dialog]
 [Character]
 [Character(name="avg_npc_053",name2="avg_npc_053",fadetime=0.5)]
 [Delay(time=0.5)]
-[name="萨卡兹雇佣兵"]......
+[name="萨卡兹雇佣兵"]……
 [character(name="avg_4072_ironmn_1#10$1")]
-[name="费斯特"]......没办法了。
+[name="费斯特"]……没办法了。
 [name="费斯特"]我们上！
 [musicvolume(volume=0.2, fadetime=1)]
 [Dialog]
@@ -452,13 +452,13 @@
 [musicvolume(volume=0.4, fadetime=1)]
 [Character(name="avg_npc_419_1#1$1",fadetime=0.5)]
 [Delay(time=0.5)]
-[name="萨卡兹战士"]怎么回事，其他人呢......
+[name="萨卡兹战士"]怎么回事，其他人呢……
 [name="萨卡兹战士"]再没有联络，就只能汇报给——
 [Dialog]
 [PlaySound(key="$knifegore")]
 [CameraShake(duration=0.5, xstrength=20, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1)]
-[name="萨卡兹战士"]呃......
+[name="萨卡兹战士"]呃……
 [Dialog]
 [playsound(key="$bodyfalldown1")]
 [characteraction(name="middle", type="move", ypos=-100, fadetime=0.5,block=true)]
@@ -471,7 +471,7 @@
 [Delay(time=1)]
 那是一个萨卡兹。
 [Character(name="avg_npc_395_1#1$1",focus=-1)]
-[name="萨卡兹战士"]为......什么......萨卡兹要......
+[name="萨卡兹战士"]为……什么……萨卡兹要……
 [Character(name="avg_npc_395_1#1$1")]
 [name="阿斯卡纶"]最后一个。
 [dialog]
@@ -500,38 +500,38 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [character(name="avg_4072_ironmn_1#10$1")]
-[name="费斯特"]......所有雇佣兵都被绑起来了。
+[name="费斯特"]……所有雇佣兵都被绑起来了。
 [name="费斯特"]我们有多少人受伤？
 [character(name="avg_npc_648_1#1$1")]
-[name="凯瑟琳"]......不多。跟着这个孩子的雇佣兵第一时间没有动手，他们全都慌了神。
+[name="凯瑟琳"]……不多。跟着这个孩子的雇佣兵第一时间没有动手，他们全都慌了神。
 [name="凯瑟琳"]他们甚至没有下定决心战斗。
 [Character(name="avg_4071_peper_1#8$1")]
 [name="明椒"]我们——！
-[name="明椒"]我们......我们只是......
+[name="明椒"]我们……我们只是……
 [character(name="avg_npc_648_1#1$1")]
-[name="凯瑟琳"]......起码你们试图反抗，只是被狡诈的伦蒂尼姆人偷袭罢了。
+[name="凯瑟琳"]……起码你们试图反抗，只是被狡诈的伦蒂尼姆人偷袭罢了。
 [Dialog]
 [character(name="avg_npc_648_1#1$1",focus=3)]
 [Decision(options="阿斯卡纶解决了外围的麻烦。;我们的时间并不多。", values="1;2")]
 [Predicate(references="1;2")]
 [character(name="avg_npc_648_1#7$1")]
-[name="凯瑟琳"]......本来只有我们几个老东西去死。
+[name="凯瑟琳"]……本来只有我们几个老东西去死。
 [character(name="avg_npc_648_1#6$1")]
 [name="凯瑟琳"]现在倒好，你们所有人都要变成萨卡兹的刀下亡魂了。
 [name="凯瑟琳"]这就是你的主意吗，聪明的费斯特？让我们这么多年的忍让全部白费？
 [character(name="avg_4072_ironmn_1#10$1")]
 [name="费斯特"]不。
 [name="费斯特"]如果今天我们坐视你们的牺牲而苟且偷生，那么明天，就会出现另一批牺牲者。
-[name="费斯特"]......直到再没有人真的在意同伴的死活。
+[name="费斯特"]……直到再没有人真的在意同伴的死活。
 [character(name="avg_npc_648_1#5$1")]
-[name="凯瑟琳"]......
+[name="凯瑟琳"]……
 [character(name="avg_4072_ironmn_1#8$1")]
-[name="费斯特"]而且......你不能总是替所有人决定这一点。
+[name="费斯特"]而且……你不能总是替所有人决定这一点。
 [character(name="avg_npc_648_1#2$1")]
 [name="凯瑟琳"]你说对了，你也不能替所有人决定，费斯特。
 [character(name="avg_4072_ironmn_1#10$1")]
 [name="费斯特"]但这次，是所有人自愿来救奶奶的。
-[name="费斯特"]萨卡兹占领城市很多年了......我们的日子很艰难，但有一些底线，我们绝不能失去。如果今天我们不出现在这里，那我们——
+[name="费斯特"]萨卡兹占领城市很多年了……我们的日子很艰难，但有一些底线，我们绝不能失去。如果今天我们不出现在这里，那我们——
 [Dialog]
 [Character]
 [PlaySound(key="$d_gen_walk_n",volume=0.7, channel="a", loop=true)]
@@ -540,13 +540,13 @@
 [stopsound(channel="a", fadetime=1)]
 [name="伦蒂尼姆工人"]我们会被萨卡兹熬死在这一锅大杂烩里。
 [character(name="avg_npc_648_1#6$1")]
-[name="凯瑟琳"]乔治......你们也陪着他胡闹。
-[name="凯瑟琳"]......并不是所有人都在这里。那就说明，有很多人并不愿意看到我活着回去。
+[name="凯瑟琳"]乔治……你们也陪着他胡闹。
+[name="凯瑟琳"]……并不是所有人都在这里。那就说明，有很多人并不愿意看到我活着回去。
 [character(name="avg_4072_ironmn_1#9$1")]
-[name="费斯特"]......
+[name="费斯特"]……
 [character(name="avg_npc_648_1#6$1")]
-[name="凯瑟琳"]......现实的残酷超过你的想象，费斯特，别把人的道德想得那么简单。
-[name="凯瑟琳"]但事情已经发生了......唉。
+[name="凯瑟琳"]……现实的残酷超过你的想象，费斯特，别把人的道德想得那么简单。
+[name="凯瑟琳"]但事情已经发生了……唉。
 [Dialog]
 [Delay(time=1)]
 [character(name="avg_npc_648_1#9$1")]

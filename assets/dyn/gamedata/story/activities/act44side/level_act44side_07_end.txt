@@ -9,11 +9,11 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot = "m", name = "avg_npc_1918_1#10$1", duration=1, isblock=true)]
-[name="萌萌香"]电视台的所有人全都乱成一团了......
+[name="萌萌香"]电视台的所有人全都乱成一团了……
 [charslot(slot = "m", name = "avg_npc_1897_1#10$1")]
-[name="吉星"]天啊......
-[name="吉星"]奶奶以前跟我讲过，她年轻的时候，真的有北院的渗透部队进入过御机......
-[name="吉星"]我听的时候不觉得有什么，可现在看来，我们面前的场面只是小意思，万一......
+[name="吉星"]天啊……
+[name="吉星"]奶奶以前跟我讲过，她年轻的时候，真的有北院的渗透部队进入过御机……
+[name="吉星"]我听的时候不觉得有什么，可现在看来，我们面前的场面只是小意思，万一……
 [dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -21,7 +21,7 @@
 [delay(time=0.5)]
 [name="更纱"]怎么样？我送给金兵卫的这份大礼怎么样？
 [charslot(slot = "m", name = "avg_npc_1897_1#10$1")]
-[name="吉星"]效果可能有点......好过头了。
+[name="吉星"]效果可能有点……好过头了。
 [charslot(slot = "m", name = "avg_npc_1900_1#9$1")]
 [name="更纱"]还是专心想我们自己的事吧。森内老板已经混进了电视台，我们也该趁机到继位仪式现场去了。
 [name="更纱"]那里这时应该没什么人。如果还有抵抗，吉星，你也得搭把手。
@@ -51,7 +51,7 @@
 [Delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
-[name="萌萌香"]好、好高......
+[name="萌萌香"]好、好高……
 [name="更纱"]别怕，萌萌香，我这里有灯。手给我，我牵着你走。
 [StopSound(channel="l", fadetime=2)]
 萌萌香努力控制自己不要往下看，但她的身体依然止不住地颤抖摇晃。
@@ -65,10 +65,10 @@
 [name="更纱"]那倒不是。我都是为了躲忍者，才习惯在这种地方走路的。
 [name="萌萌香"]躲忍者？
 [name="更纱"]嗐，那不重要——我们到了！
-[name="更纱"]啧，下面还有几个人看着......
+[name="更纱"]啧，下面还有几个人看着……
 [name="更纱"]萌萌香，从这边的空隙跳过去，顺着那边的管道下到舞台上，那边是他们的视线盲区。
 [name="萌萌香"]这么长的距离？！
-[name="萌萌香"]我、我试试......
+[name="萌萌香"]我、我试试……
 [dialog]
 [StopSound(channel="l", fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -84,14 +84,14 @@
 原本静止的钢筋结构突然开始运转起来，萌萌香脚下的平台也不规则地震动着。
 [dialog]
 [charslot(slot = "m", name = "avg_npc_1900_1#8$1")]
-[name="更纱"]......怎么突然就动起来了？！
+[name="更纱"]……怎么突然就动起来了？！
 [charslot(slot = "m", action="shake", afrom=1 , ato=1, power=3, times=30, duration=0.5)]
 [charslot(slot = "m", name = "avg_npc_1918_1#8$1")]
 [name="萌萌香"]我、我好像要滑下去了！
 [charslot(slot = "m", name = "avg_npc_1897_1#6$1")]
 [name="吉星"]小心头顶！
 [charslot(slot = "m", name = "avg_npc_1918_1#1$1")]
-[multiline(name="萌萌香")]怎么回事......
+[multiline(name="萌萌香")]怎么回事……
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1918_1#8$1", posfrom="0,0", posto="0,-50", afrom=1, ato=0, duration=0.5, isblock=true)]
 [multiline(name="萌萌香",end=true)]哇！
@@ -152,9 +152,9 @@
 [Delay(time=2)]
 [name="澪"]那可能不太行。
 [charslot(slot = "m", name = "avg_npc_1918_1#20$1")]
-[name="萌萌香"]澪......小姐？
+[name="萌萌香"]澪……小姐？
 [charslot(slot = "m", name = "avg_npc_1901_1#5$2")]
-[name="澪"]......萌萌香。
+[name="澪"]……萌萌香。
 [charslot(slot = "m", name = "avg_npc_1918_1#20$1")]
 [name="萌萌香"]你来阻止我，是吗？
 [charslot(slot = "m", name = "avg_npc_1901_1#2$2")]
@@ -216,12 +216,12 @@
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.5, block=true)]
 灯突然关了。整个舞台暗了下来，只有微弱的光从控制面板的方向传来。
 澪一手持短刀，一手持长刀，往有光的方向走去。
-[name="更纱"]对，我在这儿......过来！
+[name="更纱"]对，我在这儿……过来！
 [dialog]
 [PlaySound(key="$d_avg_clog_fts", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1901_1#1$2", duration=1.5)]
 [Delay(time=2)]
-[name="澪"]......！
+[name="澪"]……！
 [dialog]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_avg_spelldfns_1", volume=1)]
@@ -264,7 +264,7 @@
 [PlaySound(key="$d_avg_doorknob", volume=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 咔哒，咔哒，咔哒。
-落锁声在几人周围响了个遍......
+落锁声在几人周围响了个遍……
 连头顶的灯也重新亮了起来。
 澪缓缓走向下意识地聚成一堆的三人。
 [dialog]
@@ -273,7 +273,7 @@
 [Delay(time=2)]
 [name="澪"]灯现在不归你们管。不要顽抗。
 [charslot(slot = "m", name = "avg_npc_1900_1#5$1")]
-[name="更纱"]......归我管。
+[name="更纱"]……归我管。
 [charslot]
 更纱紧闭双眼，举起手中似灯非灯的长杖。
 澪的脚步陡然加快。
@@ -309,11 +309,11 @@
 [delay(time=1)]
 [name="萌萌香"]更纱？！
 [charslot(slot = "m", focus="n")]
-[name="更纱"]我......我睡一会儿......好累......
+[name="更纱"]我……我睡一会儿……好累……
 [charslot(slot = "m", name = "avg_npc_1918_1#20$1")]
 [name="萌萌香"]（小声）这、这下怎么办？我听见澪小姐的脚步声了！她在往我们这边来！
 [charslot(slot = "m", name = "avg_npc_1918_1#3$1")]
-[name="萌萌香"]（小声）我们先往另一边的舞台出口去吧，万一那边的门没锁......
+[name="萌萌香"]（小声）我们先往另一边的舞台出口去吧，万一那边的门没锁……
 [charslot(slot = "m", name = "avg_npc_1897_1#4$1")]
 [name="吉星"]（小声）不行，太远了，她会发现我们的！
 [name="吉星"]（小声）我们刚刚落下来的地方不就是这儿吗？能不能原路返回？
@@ -342,15 +342,15 @@
 [dialog]
 [PlaySound(key="$d_avg_highheelfts", volume=1)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1", posfrom="200,0", posto="0,0", duration=2, isblock=true)]
-[name="星熊"]......更纱？
+[name="星熊"]……更纱？
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot = "m", name = "avg_npc_1900_1#2$1", posfrom="0,-50", posto="0,0", duration=1.5)]
 [delay(time=2)]
-[name="更纱"]我还以为会多睡一会儿呢......
+[name="更纱"]我还以为会多睡一会儿呢……
 [charslot(slot = "m", name = "avg_npc_1900_1#7$1")]
-[name="更纱"]只要我还睡着，这里就别想再亮起来......
+[name="更纱"]只要我还睡着，这里就别想再亮起来……
 [charslot]
 更纱打了个哈欠，连带着头顶的灯光也跟着忽闪。
 见澪没有动，更纱往控制台的方向走去。
@@ -365,12 +365,12 @@
 [charslot(slot = "m", name = "avg_npc_1901_1#3$2")]
 [name="澪"]如若真是如此，我也无可奈何。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$1")]
-[name="星熊"]......
+[name="星熊"]……
 [name="星熊"]三船呢？
 [charslot(slot = "m", name = "avg_npc_1901_1#2$2")]
 [name="澪"]我不关心。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#5$1")]
-[name="星熊"]你......
+[name="星熊"]你……
 [charslot(slot = "m", name = "avg_npc_1901_1#5$2")]
 [name="澪"]我们之间的这场战斗，与他无关。
 [dialog]
@@ -402,7 +402,7 @@
 [charslot(slot = "r", name = "avg_npc_1898_1#1$1", focus="r")]
 [name="惟任刑警"]那就接着办下去。三船喜欢热闹，我们就帮他热闹到底。
 [charslot(slot = "l", name = "avg_npc_1914_1#1$1", focus="l")]
-[name="警察接线员"]同时还不停有市民打来电话，问刚刚的事情到底是怎么回事，您看......？
+[name="警察接线员"]同时还不停有市民打来电话，问刚刚的事情到底是怎么回事，您看……？
 [charslot(slot = "r", name = "avg_npc_1898_1#2$1", focus="r")]
 [name="惟任刑警"]我看？我能怎么看？告诉市民，警察正在调查当中。
 [name="惟任刑警"]当然，关于为什么误播的信号是北院入侵的紧急警报，这一点的责任全在金石电视台，警方会严肃处理——
@@ -425,7 +425,7 @@
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
 [name="惟任刑警"]哈，这算是承认了？
 [charslot(slot = "m", name = "avg_npc_222")]
-[name="神秘的访客"]......
+[name="神秘的访客"]……
 [name="神秘的访客"]我的确是来警告您的。
 [name="神秘的访客"]今夜在仁田街发生的混乱，警察方面已经难辞其咎。我们希望这样的混乱不要继续扩大。
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
@@ -452,7 +452,7 @@
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
 [name="惟任刑警"]唉，可不是吗，已经晚了——
 [charslot(slot = "m", focus="n")]
-说着，刑警伸出脚尖......
+说着，刑警伸出脚尖……
 [charslot(slot = "m", name = "avg_npc_222")]
 [name="神秘的访客"]你——
 [dialog]
@@ -461,11 +461,11 @@
 [Delay(time=1)]
 [charslot]
 [playsound(key="$d_avg_papertear")]
-......把来客轻轻勾倒在地，然后从他手里接过那张签着自己上司大名的纸，缓缓撕成碎片。
+……把来客轻轻勾倒在地，然后从他手里接过那张签着自己上司大名的纸，缓缓撕成碎片。
 [charslot(slot = "m", name = "avg_npc_1898_1#3$1")]
 [name="惟任刑警"]我还以为议员大人的秘书会是个硬角色呢，怎么一碰就倒了？
 [charslot(slot = "m", focus="n")]
-[name="神秘的访客"]你......你敢？！
+[name="神秘的访客"]你……你敢？！
 [charslot(slot = "m", name = "avg_npc_1898_1#2$1")]
 [name="惟任刑警"]回去告诉你们那个议员，警察保护的是他那条烂命，不是他的烂钱。
 [name="惟任刑警"]如果他真觉得有人想要他的命，让他自己来报案，我们会考虑受理的。
@@ -532,7 +532,7 @@
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
 [name="星熊"]别自欺欺人。
 [charslot(slot = "m", name = "avg_npc_1901_1#5$2")]
-[name="澪"]......
+[name="澪"]……
 [dialog]
 [charslot]
 [CameraShake(duration=4, xstrength=10, ystrength=10, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -545,7 +545,7 @@
 星熊缓缓环顾四周。
 吉星的榴弹在各处爆响，而舞台装置几乎成了由更纱使役的巨大怪物。
 再加上四处躲藏的萌萌香，局势不仅撑得下去，甚至还略有余裕。
-如今，当初制定的作战计划就只差最后一环......
+如今，当初制定的作战计划就只差最后一环……
 [charslot(slot = "m", name = "avg_npc_1901_1#5$2")]
 [name="澪"]我要保护的东西，只有金石会。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$1")]
@@ -619,7 +619,7 @@
 [charslot(slot = "m", action="zoom", poszoom = "0.5,0.5", scale=1, duration = 0.5)]
 [charslot(slot = "m", afrom = 0, ato = 1, duration = 0.5, isblock=true)]
 [Delay(time=1)]
-[name="澪"]......你终于出手了。
+[name="澪"]……你终于出手了。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$3")]
 [name="星熊"]也只是割破了你衣服的下摆而已。
 [charslot(slot = "m", name = "avg_npc_1901_1#4$2")]
@@ -660,7 +660,7 @@
 [name="星熊"]我不太想听这个。
 [bgeffect]
 [charslot(slot = "m", name = "avg_npc_1901_1#1$2")]
-[name="澪"]......你身上的火焰，烧得更旺了。
+[name="澪"]……你身上的火焰，烧得更旺了。
 [bgeffect(name="$eb_hoshiguma_boost_down",fade = true, fadetime = 0.1,layer=1)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$3")]
 [name="星熊"]告诉我，为什么铁斋不能让你活下去。
@@ -669,7 +669,7 @@
 [name="澪"]因为铁斋没法保护他自己。御机不需要他，不需要铁斋手下的澪。
 [bgeffect(name="$eb_hoshiguma_boost_down",fade = true, fadetime = 0.1,layer=1)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$3")]
-[name="星熊"]......你？
+[name="星熊"]……你？
 [bgeffect]
 [charslot(slot = "m", name = "avg_npc_1901_1#5$2")]
 [name="澪"]一个衣衫褴褛还一言不发，只在别人欺负到自己头上时以命相搏的孤儿，是祸害。
@@ -695,7 +695,7 @@
 星熊周身青蓝色的烈火几乎要将她完全包裹其中。
 黎博利忽然觉得，在吞噬自己之前，那火焰会先将眼前的鬼焚尽。
 [charslot(slot = "m", name = "avg_npc_1901_1#1$2")]
-[name="澪"]......你很愤怒。
+[name="澪"]……你很愤怒。
 [name="澪"]二十年前，你也这样愤怒吗？
 [bgeffect(name="$eb_hoshiguma_boost_up",fade = true, fadetime = 0.1,layer=2)]
 [bgeffect(name="$eb_hoshiguma_boost_down",fade = true, fadetime = 0.1,layer=1)]
@@ -708,7 +708,7 @@
 [bgeffect(name="$eb_hoshiguma_boost_up",fade = true, fadetime = 0.1,layer=2)]
 [bgeffect(name="$eb_hoshiguma_boost_down",fade = true, fadetime = 0.1,layer=1)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$3")]
-[name="星熊"]......哼。
+[name="星熊"]……哼。
 [name="星熊"]你在邀请我对愤怒听之任之？完成你主子的任务？
 [bgeffect]
 [charslot(slot = "m", name = "avg_npc_1901_1#2$2")]
@@ -737,10 +737,10 @@
 [StopSound(channel="sn", fadetime=1.5)]
 [charslot(slot = "m", name = "avg_4199_makiri_1#11$1", posfrom="200,0", posto="0,0", duration=1.5)]
 [Delay(time=2)]
-[name="森内"]这东西......太重了！
-[name="森内"]就算电视台里一团乱，把它从金兵卫的房间里偷出来也快要了我这条老命......
+[name="森内"]这东西……太重了！
+[name="森内"]就算电视台里一团乱，把它从金兵卫的房间里偷出来也快要了我这条老命……
 [charslot(slot = "m", name = "avg_4199_makiri_1#1$1")]
-[name="森内"]......接着！
+[name="森内"]……接着！
 [dialog]
 [PlaySound(key="$d_avg_clothmovementsp", volume=1)]
 [charslot(duration=0.5, isblock=true)]
@@ -761,7 +761,7 @@
 [charslot(slot = "m", focus="n")]
 说着，星熊轻轻握了握刀上的绑带。
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#7$4")]
-[name="星熊"]不过般若毕竟也是我的老伙计了，如果刚才你还有三分胜机......现在，你不可能是我的对手。
+[name="星熊"]不过般若毕竟也是我的老伙计了，如果刚才你还有三分胜机……现在，你不可能是我的对手。
 [dialog]
 [SoundVolume(volume=0, channel="c",fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -832,7 +832,7 @@
 [SoundVolume(volume=0.4, channel="c",fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot = "m", name = "avg_npc_1901_1#1$1", duration=1, isblock=true)]
-[name="澪"]这就是......般若？
+[name="澪"]这就是……般若？
 [bgeffect(name="$eb_hoshiguma_boost_up",fade = true, fadetime = 0.1,layer=2)]
 [bgeffect(name="$eb_hoshiguma_boost_down",fade = true, fadetime = 0.1,layer=1)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$4")]
@@ -842,7 +842,7 @@
 [name="星熊"]你尽可以把它们捡回来，我们接着打过。
 [bgeffect]
 [charslot(slot = "m", name = "avg_npc_1901_1#2$1")]
-[name="澪"]......不用。
+[name="澪"]……不用。
 [name="澪"]我已经明白了你的实力究竟如何，再和你对抗，没有任何意义。
 [name="澪"]我必须早做准备。
 [bgeffect(name="$eb_hoshiguma_boost_up",fade = true, fadetime = 0.1,layer=2)]
@@ -860,7 +860,7 @@
 [bgeffect(name="$eb_hoshiguma_boost_up",fade = true, fadetime = 0.1,layer=2)]
 [bgeffect(name="$eb_hoshiguma_boost_down",fade = true, fadetime = 0.1,layer=1)]
 [charslot(slot = "m", name = "avg_1044_hsgma2_1#2$4")]
-[name="星熊"]......
+[name="星熊"]……
 [dialog]
 [bgeffect(fade = true, fadetime = 0.1, layer=1)]
 [bgeffect(fade = true, fadetime = 0.1, layer=2)]
@@ -884,9 +884,9 @@
 [dialog]
 [charslot(slot = "m", name = "avg_4202_haruka_1#14$1", duration=1)]
 [delay(time=1.5)]
-[name="萌萌香"]我......我随时可以开始！
+[name="萌萌香"]我……我随时可以开始！
 [charslot(slot = "m", name = "avg_npc_1900_1#9$1")]
-[name="更纱"]那么......
+[name="更纱"]那么……
 [name="更纱"]金石电视台今晚最重磅的节目，就要开始了！
 [dialog]
 [StopSound(channel="en", fadetime=2)]

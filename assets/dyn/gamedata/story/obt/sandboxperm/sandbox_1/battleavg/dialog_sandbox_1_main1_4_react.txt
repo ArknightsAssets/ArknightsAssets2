@@ -1,6 +1,6 @@
 [header(actId="sandbox_1")]
 [name="红隼", avatarId="char_4023_rfalcn", isAvatarRight="FALSE"]谢谢你们的帮助，他们的追杀看来是到此为止了。
-[decision(option1="如果你不知道去哪里......", value1="1.1")]
+[decision(option1="如果你不知道去哪里……", value1="1.1")]
 [predicate(references="1.1")]
 [decision(option1="可以来我们的营地。", value1="2.1")]
 [predicate(references="2.1")]

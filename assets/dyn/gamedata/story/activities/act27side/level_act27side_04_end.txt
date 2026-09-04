@@ -22,21 +22,21 @@
 [charslot(slot="l",name="avg_npc_1014_1#1$1",focus="l")]
 [charslot(slot="r",name="avg_180_amgoat_1#10$1",focus="l")]
 [name="多利"]我说了，他们不完全是我。
-[name="多利"]虽然确实是我把他们带到这里来的......但这也只能算是间接责任吧？
-[name="多利"]所以......对不起？
+[name="多利"]虽然确实是我把他们带到这里来的……但这也只能算是间接责任吧？
+[name="多利"]所以……对不起？
 [charslot(slot="r",name="avg_180_amgoat_1#10$1",focus="r")]
 [name="阿黛尔"]这可不是一句对不起就能解决的呀！
 [charslot(slot="r",name="avg_180_amgoat_1#6$1",focus="r")]
 [name="阿黛尔"]那些商品要是受损了，那些店主们要怎么办呢？你的分身打扰了居民们的生活，就没有什么办法能阻止它们吗？
 [charslot(slot="l",name="avg_npc_1014_1#1$1",focus="l")]
-[name="多利"]方法还是有的......那个，一般情况下，我会选择用“呼喊”。
+[name="多利"]方法还是有的……那个，一般情况下，我会选择用“呼喊”。
 [charslot(slot="r",name="avg_180_amgoat_1#11$1",focus="r")]
 [name="阿黛尔"]“呼喊”？
 [charslot(slot="l",name="avg_npc_1014_1#1$1",focus="l")]
 [name="多利"]就像这样，对着随便哪里，可以是海，可以是荒地，两个手拢在嘴边，然后大声地：“喂——你们都在哪里！快点给我过来！”这样。
 [name="多利"]阿黛尔，你也要帮帮我才行，我喊的次数太多了，他们有时会装作没听到。
 [charslot(slot="r",name="avg_180_amgoat_1#11$1",focus="r")]
-[name="阿黛尔"]那......喊它们过来就可以了？
+[name="阿黛尔"]那……喊它们过来就可以了？
 [charslot(slot="l",name="avg_npc_1014_1#1$1",focus="l")]
 [name="多利"]还要有点能诱惑他们的东西。比如“这里有冰淇淋！”“这里有气球和滑板！”这样。
 [name="多利"]但要记住，不要叫他们“小黑羊”或者“小羊”，他们会不知道这是在叫他们。
@@ -49,7 +49,7 @@
 [charslot(slot="r",posfrom="0,0",posto="-200,0",duration=1.5,isblock=true)]
 [Delay(time=2.2)]
 [charslot(slot="r",name="avg_180_amgoat_1#1$1",posfrom="-200,0",posto="-200,0",focus="r")]
-[name="阿黛尔"]咳咳......
+[name="阿黛尔"]咳咳……
 [name="阿黛尔"]喂——！这里有冰淇淋！
 [name="阿黛尔"]喂——！这里有气球和滑板！快过来吧！
 [Dialog]
@@ -62,7 +62,7 @@
 [PlaySound(key="$runsand", volume=1,channel="2")]
 [CameraShake(duration=2.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=true)]
 [charslot(slot="r",name="avg_180_amgoat_1#9$1",posfrom="-200,0",posto="-200,0",focus="r")]
-[name="阿黛尔"]欸？不是......
+[name="阿黛尔"]欸？不是……
 [Dialog]
 [charslot]
 阿黛尔回头，想指出始作俑者。多利已经跃上一旁的集装箱，像漏气的气球一样围着几人打圈。
@@ -73,7 +73,7 @@
 [name="多利"]怎么办呢？我碰巧还知道一家非常好吃的冰淇淋店。
 [name="多利"]要不要我领路带你们去？
 [charslot(slot="m",name="avg_180_amgoat_1#10$1",focus="m")]
-[name="阿黛尔"]......多利先生！
+[name="阿黛尔"]……多利先生！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -97,7 +97,7 @@
 [Delay(time=2)]
 街上人来人往，多利早就消失不见，只有一只小黑羊正死死盯着来往游客手里那个能“变出”纸钞来的小皮夹。
 [charslot(slot="m",name="avg_180_amgoat_1#11$1",focus="m")]
-[name="阿黛尔"]（......它准备做什么？）
+[name="阿黛尔"]（……它准备做什么？）
 [Dialog]
 [charslot]
 [stopmusic]
@@ -185,11 +185,11 @@
 [PlaySound(key="$d_avg_metalcollar",channel="4", volume=1)]
 [CameraShake(duration=1.5, xstrength=0, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=true)]
 [charslot(slot="r",name="avg_npc_070",focus="r")]
-[name="旧币商人"]小姑娘，你到底带了多少东西出来？最后一个，真的是最后一个了......收完最后一个，我就要回去了！
+[name="旧币商人"]小姑娘，你到底带了多少东西出来？最后一个，真的是最后一个了……收完最后一个，我就要回去了！
 [charslot(slot="l",name="avg_npc_1005_1#4$1",focus="l")]
 [name="雪雉"]那、那您再看看这个！我的钱就够买一个新机器了！
 [charslot(slot="r",name="avg_npc_070",focus="r")]
-[name="旧币商人"]啊啊，是我们萨尔贡的钱币......让我来看看，这是......
+[name="旧币商人"]啊啊，是我们萨尔贡的钱币……让我来看看，这是……
 [Dialog]
 [PlaySound(key="$bodyfalldown2",channel="1",volume=1)]
 [charslot(slot="r",posfrom="0,0",posto="80,-50",duration=0.5,isblock=false,focus="r")]
@@ -218,11 +218,11 @@
 金灿灿的钱雨落在商业街的一角，雪雉的一声惊呼还没出口，一个粉色的身影也紧跟着跑向远方。
 [charslot(slot="l",name="avg_npc_1005_1#4$1",focus="l")]
 [charslot(slot="r",name="avg_npc_070",focus="l")]
-[name="雪雉"]啊......啊、艾雅法拉小姐？
+[name="雪雉"]啊……啊、艾雅法拉小姐？
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_180_amgoat_1#11$1",focus="m")]
-[name="阿黛尔"]抱歉，雪雉......我......！
+[name="阿黛尔"]抱歉，雪雉……我……！
 [Dialog]
 [charslot(slot="m",name="avg_180_amgoat_1#6$1",focus="m")]
 [Delay(time=1)]
@@ -234,7 +234,7 @@
 [charslot(slot="r",name="avg_npc_070",focus="r")]
 [name="旧币商人"]哇！什么东西！
 [charslot(slot="l",name="avg_npc_1005_1#4$1",focus="l")]
-[name="雪雉"]等等，我的钱币......少了两个！
+[name="雪雉"]等等，我的钱币……少了两个！
 [charslot(slot="r",name="avg_npc_070",focus="r")]
 [name="旧币商人"]不、不是我！
 [Dialog]
@@ -259,7 +259,7 @@
 [charslot(slot="m",name="avg_4106_bryota_1#1$1",focus="none")]
 [name="影印店店主"]好了好了，印这么多传单，为了宣传你家的酒吧你还真是够辛苦的。
 [charslot(slot="m",name="avg_4106_bryota_1#1$1",focus="m")]
-[name="埃尼斯"]两百九十八、两百九十九......数量没错，您的费用！
+[name="埃尼斯"]两百九十八、两百九十九……数量没错，您的费用！
 [charslot(slot="m",name="avg_4106_bryota_1#1$1",focus="none")]
 [name="影印店店主"]这点东西就不收钱了，下次再去纯白火山，给我来一杯多加豆蔻粉的“绿洲”特调就行。
 [name="影印店店主"]还有，能不能帮忙换一下我的招牌？
@@ -272,13 +272,13 @@
 [Delay(time=2.5)]
 [name="阿黛尔"]——埃、埃尼斯先生！
 [charslot(slot="m",name="avg_4106_bryota_1#8$1",focus="m")]
-[multiline(name="埃尼斯")]阿黛尔小姐......？
+[multiline(name="埃尼斯")]阿黛尔小姐……？
 [charslot(slot="m",name="avg_4106_bryota_1#3$1",focus="m")]
 [multiline(name="埃尼斯")]您跑这么快干什么？
 [Dialog]
 [Dialog]
 [charslot(slot="m",name="avg_180_amgoat_1#10$1",focus="m")]
-[name="阿黛尔"]当心......当心！
+[name="阿黛尔"]当心……当心！
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_sheeprun", volume=1,channel="5")]
@@ -305,7 +305,7 @@
 [PlaySound(key="$bodyfalldown1",channel="1",volume=1)]
 [CameraShake(duration=0.3, xstrength=40, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=0.5)]
-[name="埃尼斯"]唔......痛痛痛......什么东西......
+[name="埃尼斯"]唔……痛痛痛……什么东西……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1008_1#1$1")]
@@ -327,13 +327,13 @@
 [charslot(slot="m",name="avg_4106_bryota_1#9$1",posfrom="0,-50",posto="0,0",duration=2)]
 [charslot(slot="m",afrom=0,ato=1,duration=1)]
 [Delay(time=1.5)]
-[name="埃尼斯"]什么......？
+[name="埃尼斯"]什么……？
 [Dialog]
 [charslot]
 在几人的注视下，阿黛尔追着那张“被风吹走”的纸跑远了。
 [name="影印店店主"]呼，时代真是不一样了，现在的年轻人都这么赶时间啊。
 [charslot(slot="m",name="avg_4106_bryota_1#20$1",focus="m")]
-[name="埃尼斯"]怪事了，刚是什么把我撞飞了......？我这辈子还没遇到过比这还奇怪的事情......
+[name="埃尼斯"]怪事了，刚是什么把我撞飞了……？我这辈子还没遇到过比这还奇怪的事情……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_drawbridge",channel="1",volume=1)]
@@ -346,7 +346,7 @@
 轰——！
 伊士曼影印店的招牌掉了下来，正落在埃尼斯被气浪撞飞前站的位置。
 [charslot(slot="m",name="avg_4106_bryota_1#8$1",focus="m")]
-[name="埃尼斯"]......哇！
+[name="埃尼斯"]……哇！
 [Dialog]
 [stopmusic(fadetime=1.5)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -372,7 +372,7 @@
 [charslot]
 [charslot(slot="m",name="avg_180_amgoat_1#2$1",posfrom="0,0",posto="0,0",duration=2)]
 [Delay(time=2.5)]
-[name="阿黛尔"]跑到哪里去了......
+[name="阿黛尔"]跑到哪里去了……
 [charslot(slot="m",name="avg_npc_1014_1#1$1")]
 [name="多利"]就像是捉迷藏一样！
 [charslot(slot="m",name="avg_180_amgoat_1#10$1")]
@@ -387,8 +387,8 @@
 [charslot(slot="m",name="avg_npc_1014_1#1$1")]
 [name="多利"]我知道很多孤独的孩子，都喜欢用忙于工作当借口。
 [charslot(slot="m",name="avg_180_amgoat_1#2$1")]
-[name="阿黛尔"]......
-[name="阿黛尔"]这家店看起来没有人啊，可是小黑羊刚刚......
+[name="阿黛尔"]……
+[name="阿黛尔"]这家店看起来没有人啊，可是小黑羊刚刚……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_gen_walk_n", volume=1)]
@@ -399,28 +399,28 @@
 [PlayMusic(key="$normal_loop", volume=0.6)]
 [charslot(slot="l",name="avg_180_amgoat_1#2$1",focus="r")]
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]呃......你是？
+[name="科斯达"]呃……你是？
 [charslot(slot="l",name="avg_180_amgoat_1#2$1",focus="l")]
-[name="阿黛尔"]打扰了，我......我养的宠物跑丢了！我好像看到它刚才跑到了这间咖啡馆里......
+[name="阿黛尔"]打扰了，我……我养的宠物跑丢了！我好像看到它刚才跑到了这间咖啡馆里……
 [Dialog]
 阿黛尔说着抬头看了看，店门上用好看的字体写着“知更鸟咖啡店”几个单词。
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
 [name="科斯达"]这家咖啡馆一年前就没有营业过了，门一直是锁着的。
 [charslot(slot="l",name="avg_180_amgoat_1#2$1",focus="l")]
-[name="阿黛尔"]可我刚刚确实看到，它钻到这个门里去了......
+[name="阿黛尔"]可我刚刚确实看到，它钻到这个门里去了……
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]......你丢的是什么宠物？
+[name="科斯达"]……你丢的是什么宠物？
 [charslot(slot="l",name="avg_180_amgoat_1#9$1",focus="l")]
-[name="阿黛尔"]是......是循兽。
+[name="阿黛尔"]是……是循兽。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1014_1#1$1")]
-[name="多利"]哦不！不要把我的分身和那种动物相提并论......
+[name="多利"]哦不！不要把我的分身和那种动物相提并论……
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_180_amgoat_1#9$1",focus="r")]
 [charslot(slot="r",name="avg_npc_997_1#2$1",focus="r")]
-[name="科斯达"]......好吧，循兽。
+[name="科斯达"]……好吧，循兽。
 [Dialog]
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
 [charslot(slot="r",posfrom="0,0",posto="100,0",duration=2,isblock=true,focus="r")]
@@ -449,29 +449,29 @@
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
 [name="科斯达"]你要找的循兽在里面吗？
 [charslot(slot="l",name="avg_180_amgoat_1#2$1",focus="l")]
-[name="阿黛尔"]呃，好像不在......
-[name="阿黛尔"]很抱歉！打扰您了......
+[name="阿黛尔"]呃，好像不在……
+[name="阿黛尔"]很抱歉！打扰您了……
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
 [name="科斯达"]没事，正好我也要来取点东西。
 [Dialog]
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]产权证我记得是放在......不在吗......
+[name="科斯达"]产权证我记得是放在……不在吗……
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="l")]
 [name="阿黛尔"]先生，您是这里的店主吗？
 [charslot(slot="r",name="avg_npc_997_1#2$1",focus="r")]
 [name="科斯达"]很快就不是了。这家店，还有这条街上其他的店，很快都会拆掉的。
 [charslot(slot="l",name="avg_180_amgoat_1#2$1",focus="l")]
-[name="阿黛尔"]我很遗憾......
+[name="阿黛尔"]我很遗憾……
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]不用，这里早就通知说要拆了......嘶，怎么柜子里也没有......
+[name="科斯达"]不用，这里早就通知说要拆了……嘶，怎么柜子里也没有……
 [charslot(slot="l",name="avg_180_amgoat_1#8$1",focus="l")]
 [name="阿黛尔"]店主先生，您要找的大概是什么样的？我帮您找找看？
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]是一个红色的册子......
+[name="科斯达"]是一个红色的册子……
 [Dialog]
 [charslot(slot="l",name="avg_180_amgoat_1#9$1",focus="l")]
-[name="阿黛尔"]呃，这里真的好黑啊......
+[name="阿黛尔"]呃，这里真的好黑啊……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1014_1#1$1")]
@@ -485,21 +485,21 @@
 [name="阿黛尔"]呜！
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
 [name="科斯达"]这里很久不营业，开灯可能有些麻烦。
-[name="科斯达"]要是找不到就算了，我也没有那么着急，你先去找你的宠物吧，我......也会帮你留意一下的。
+[name="科斯达"]要是找不到就算了，我也没有那么着急，你先去找你的宠物吧，我……也会帮你留意一下的。
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1014_1#1$1")]
 [name="多利"]走吧孩子！分身和你要找的什么石头都不在这里，我们去下一个地方吧！
-[name="多利"]这里太黑了......什么都看不到，和我之前在汐斯塔冲浪的时候看到的完全不一样！
+[name="多利"]这里太黑了……什么都看不到，和我之前在汐斯塔冲浪的时候看到的完全不一样！
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
 [name="科斯达"]所以，它长什么样？
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="l")]
-[name="阿黛尔"]呃，是一只粉白色的......循兽，身上还带着一块只有火山上会有的，风吹过就会响的石头。
+[name="阿黛尔"]呃，是一只粉白色的……循兽，身上还带着一块只有火山上会有的，风吹过就会响的石头。
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]风吹过就会响的石头......“响石”吗？
+[name="科斯达"]风吹过就会响的石头……“响石”吗？
 [charslot(slot="l",name="avg_180_amgoat_1#5$1",focus="l")]
 [name="阿黛尔"]欸？是的，是“响石”。您怎么知道？
 [Dialog]
@@ -532,18 +532,18 @@
 [charslot]
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]你的宠物身上带着这样一块石头是吗？还真是怪奢侈的。我记得这种石头还挺稀有......
+[name="科斯达"]你的宠物身上带着这样一块石头是吗？还真是怪奢侈的。我记得这种石头还挺稀有……
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="l")]
-[name="阿黛尔"]是它自己偷偷拿走的......
+[name="阿黛尔"]是它自己偷偷拿走的……
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1014_1#1$1")]
-[name="多利"]......脸要丢尽了，不要告诉人类我的分身还会乱拿东西......
+[name="多利"]……脸要丢尽了，不要告诉人类我的分身还会乱拿东西……
 [Dialog]
 [charslot]
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="r")]
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]好吧，如果我看到了，我会联系你的。你的联系方式是......？
+[name="科斯达"]好吧，如果我看到了，我会联系你的。你的联系方式是……？
 [charslot(slot="l",name="avg_180_amgoat_1#13$1",focus="l")]
 [name="阿黛尔"]多谢您！可以的话请联系火山博物馆吧，我是那里的工作人员，我叫阿黛尔。
 [Dialog]
@@ -557,22 +557,22 @@
 [Dialog]
 [charslot(slot="l",name="avg_180_amgoat_1#13$1",focus="r")]
 [charslot(slot="r",name="avg_npc_997_1#3$1",focus="r")]
-[name="科斯达"]该死......
+[name="科斯达"]该死……
 [charslot(slot="l",name="avg_180_amgoat_1#3$1",focus="l")]
-[name="阿黛尔"]先生，您真的不需要我帮忙吗？您看起来......
+[name="阿黛尔"]先生，您真的不需要我帮忙吗？您看起来……
 [charslot(slot="l",name="avg_180_amgoat_1#2$1",focus="l")]
-[name="阿黛尔"]情绪状态不是很好......
+[name="阿黛尔"]情绪状态不是很好……
 [Dialog]
 [charslot(slot="l",name="avg_180_amgoat_1#2$1",focus="l")]
 一本书落在阿黛尔的视线中，借着外面的天色，她看清了书的名字。
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="l")]
 [name="阿黛尔"]《泰拉火山图志》？您也对火山感兴趣吗？
 [charslot(slot="r",name="avg_npc_997_1#6$1",focus="r")]
-[name="科斯达"]不是......不，也不是不喜欢。
+[name="科斯达"]不是……不，也不是不喜欢。
 [charslot(slot="r",name="avg_npc_997_1#4$1",focus="r")]
 [name="科斯达"]呃，我是说，这个不是我的书。
 [charslot(slot="r",name="avg_npc_997_1#6$1",focus="r")]
-[name="科斯达"]......我们先出去吧。
+[name="科斯达"]……我们先出去吧。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -584,14 +584,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=1)]
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]你在火山博物馆工作，那你认识......凯勒吗？
+[name="科斯达"]你在火山博物馆工作，那你认识……凯勒吗？
 [charslot(slot="l",name="avg_180_amgoat_1#1$1",focus="l")]
 [name="阿黛尔"]您是说凯勒老师吗？你们是朋友？
 [charslot(slot="r",name="avg_npc_997_1#5$1",focus="r")]
-[name="科斯达"]她以前......算是这里的常客。
-[name="科斯达"]有一年夏天，她突然离开了汐斯塔，和两个莱塔尼亚人一起。之后就没有联系过了......
+[name="科斯达"]她以前……算是这里的常客。
+[name="科斯达"]有一年夏天，她突然离开了汐斯塔，和两个莱塔尼亚人一起。之后就没有联系过了……
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]她最近怎么样？她在博物馆里......还不错吧？
+[name="科斯达"]她最近怎么样？她在博物馆里……还不错吧？
 [charslot(slot="l",name="avg_180_amgoat_1#8$1",focus="l")]
 [name="阿黛尔"]嗯，凯勒老师最近一直忙于汐斯塔火山的观测准备，博物馆也还在完善中，她很忙。
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
@@ -599,9 +599,9 @@
 [charslot(slot="l",name="avg_180_amgoat_1#8$1",focus="l")]
 [name="阿黛尔"]嗯？凯勒老师是馆长呀。
 [charslot(slot="r",name="avg_npc_997_1#5$1",focus="r")]
-[name="科斯达"]馆长......真厉害啊。
+[name="科斯达"]馆长……真厉害啊。
 [charslot(slot="r",name="avg_npc_997_1#1$1",focus="r")]
-[name="科斯达"]那......如果可以的话，请帮我把这本书还给凯勒......馆长吧。
+[name="科斯达"]那……如果可以的话，请帮我把这本书还给凯勒……馆长吧。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -653,7 +653,7 @@
 [name="多利"]你要慢慢找，不要着急，明天的阳光也会很好！
 [name="多利"]藏到哪了，藏到哪了，快点找找吧♪
 [charslot(slot="m",name="avg_180_amgoat_1#11$1",focus="m")]
-[name="阿黛尔"]那是这些钱币？还是这张纸上的东西？......“搬迁意向书”？
+[name="阿黛尔"]那是这些钱币？还是这张纸上的东西？……“搬迁意向书”？
 [name="阿黛尔"]种子是咖啡豆吗，多利先生？
 [charslot(slot="m",name="avg_npc_1014_1#1$1")]
 [name="多利"]记住花朵的模样，我可能就躲在它身后♪

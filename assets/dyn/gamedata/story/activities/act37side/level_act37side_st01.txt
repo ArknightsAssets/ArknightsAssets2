@@ -23,7 +23,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="摩根"]金灿灿？嗯，我想那的确是金灿灿的一生......
+[name="摩根"]金灿灿？嗯，我想那的确是金灿灿的一生……
 [Dialog]
 [musicvolume(volume=0.3, fadetime=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
@@ -39,7 +39,7 @@
 [Delay(time=1)]
 [name="激昂的声音"]维娜，这把剑属于你。
 [name="激昂的声音"]这是你的命运。
-[name="维娜"]父亲，这是......？
+[name="维娜"]父亲，这是……？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -63,9 +63,9 @@
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="维娜"]呼......呼......
+[name="维娜"]呼……呼……
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
-[name="维娜"]我......
+[name="维娜"]我……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -103,7 +103,7 @@
 [charslot(slot="m",name="avg_1019_siege2_1#7$1",duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_1019_siege2_1#7$1",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [charslot(slot="m",name="avg_1019_siege2_1#1$1",focus="m")]
 [name="维娜"]我选择——
 [Dialog]
@@ -137,7 +137,7 @@
 [delay(time=1.5)]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.7, block=true)]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
-[Sticker(id="st1", multi = true, text="<i>总之，我想要在这里记下的，就是这样一段......荡气回肠的历史。</i>", x=300,y=240,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="<i>总之，我想要在这里记下的，就是这样一段……荡气回肠的历史。</i>", x=300,y=240,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>作为这段历史的见证者，以及其中相当一部分事件的亲历者，我非常想要将这个故事分享给后来者。</i>",block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>它值得被铭记，因为其中有许多堪称悲哀的教训；它不容被遗忘，因为其中有太多惨痛的牺牲。</i>",block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>而且我可以保证，这个故事足够曲折，若不是亲身经历，你绝对猜不到它会以怎样的方式发展——</i>",block = true)]
@@ -147,7 +147,7 @@
 [name="摩根"]哦不！是帆船！我完全想起来了。
 [Dialog]
 [PlaySound(key="$d_avg_penrustle",volume=1,channel="wr",loop=false)]
-[name="摩根"]“历史是一艘漂荡的帆船，每个时代都会有经验丰富的舵手自以为能操持它的航向......”
+[name="摩根"]“历史是一艘漂荡的帆船，每个时代都会有经验丰富的舵手自以为能操持它的航向……”
 [name="摩根"]“但永远没有人知道夕阳与河流最终会将它送往何方——”
 [Dialog]
 [stopsound(channel="wr",fadetime=0.5)]
@@ -155,7 +155,7 @@
 [playsound(key="$d_avg_papertear",volume=1)]
 [Delay(time=1)]
 [name="摩根"]*维多利亚粗口*，我没有必要费劲模仿看过的那几本历史小说的腔调。这是我自己的书，我为什么要学维娜的礼仪老师说话？
-[name="摩根"]让我想想，我该怎么用自己的方式来讲这个故事......
+[name="摩根"]让我想想，我该怎么用自己的方式来讲这个故事……
 [Dialog]
 [playsound(key="$d_avg_sketchdraw",volume=1)]
 [Image(image="55_i16_2", screenadapt="coverall",fadetime=3,block=true)]
@@ -168,7 +168,7 @@
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=1)]
-[name="摩根"]......那是我一生中，最快乐的一段时光。
+[name="摩根"]……那是我一生中，最快乐的一段时光。
 [Dialog]
 [musicvolume(volume=0.3, fadetime=2)]
 [Delay(time=2)]
@@ -177,9 +177,9 @@
 [Delay(time=2)]
 [name="因陀罗"]蒙切斯特。
 [name="摩根"]嗯哼。
-[name="因陀罗"]......布里斯托。
+[name="因陀罗"]……布里斯托。
 [name="摩根"]还有呢？
-[name="因陀罗"]谢菲......迪......不对，是格洛——
+[name="因陀罗"]谢菲……迪……不对，是格洛——
 [name="因陀罗"]贝尔德！给我点提示！维娜？你就忍心看我出糗？
 [name="贝尔德"]这是你自己打的赌，我不能说话的。
 [name="维娜"]贝尔德说的对，这不公平。
@@ -188,16 +188,16 @@
 [name="摩根"]那你一定对打扫家里的小巷情有独钟了。
 [name="因陀罗"]*维多利亚粗口*，就不该装什么书呆子！
 [name="维娜"]对了汉娜，你还记不记得，我们上次去录像厅——和黎恩兄弟干完架的那次。
-[name="因陀罗"]好像记得？里面是不是有一个绿草坪白房子的庄园......是爱情片？啰里啰嗦的。
+[name="因陀罗"]好像记得？里面是不是有一个绿草坪白房子的庄园……是爱情片？啰里啰嗦的。
 [name="维娜"]那你记不记得，里面那场贵族的宴会上，女主角最喜欢吃哪道菜——
 [name="因陀罗"]“西德茅斯奶油香草烤羽兽”！
 [name="因陀罗"]对！西德茅斯！够十个了！
-[name="摩根"]唉......维娜。
+[name="摩根"]唉……维娜。
 [name="因陀罗"]维娜，你果然是最好的头儿！我愿意一辈子跟着你！
 [name="维娜"]别肉麻。
-[name="达格达"]......
+[name="达格达"]……
 [name="贝尔德"]愿赌服输，摩根，喝吧。
-[name="摩根"]贝尔德，你明明知道维娜帮她......嘁，喝就喝。
+[name="摩根"]贝尔德，你明明知道维娜帮她……嘁，喝就喝。
 [name="因陀罗"]摩根！还有老法利街那边工厂的保护费就轮到你去跑腿了。
 [name="贝尔德"]也别忘了帮老汉克的三明治店打扫后巷。
 [name="摩根"]只有这种时候，才会觉得格拉斯哥帮罩着的地盘太大了点。
@@ -236,7 +236,7 @@
 [delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_397_1#1$1",focus="m")]
 [name="阿勒黛"]至少《伦蒂尼姆公墓》的结局，我并不喜欢，莫里尔伯爵。
-[name="阿勒黛"]公爵女儿和萨卡兹在迫害下私奔逃走，双双殒命安葬在公墓的结局也实在太过......刻板。
+[name="阿勒黛"]公爵女儿和萨卡兹在迫害下私奔逃走，双双殒命安葬在公墓的结局也实在太过……刻板。
 [charslot(slot="m",name="avg_npc_176",focus="m")]
 [name="莫里尔伯爵"]没想到像您这样年轻的女士，对戏剧的口味竟会像那些刻薄的剧评家一样。
 [name="莫里尔伯爵"]能够赚取眼泪，不就足够了吗？
@@ -246,9 +246,9 @@
 [charslot(slot="m",name="avg_npc_176",focus="m")]
 [name="莫里尔伯爵"]真遗憾，我还以为女主角寄人篱下身不由己的命运，会让您有所共情呢。
 [charslot(slot="m",name="avg_npc_397_1#6$1",focus="m")]
-[name="阿勒黛"]......
+[name="阿勒黛"]……
 [charslot(slot="m",name="avg_npc_176",focus="m")]
-[name="莫里尔伯爵"]哦十分抱歉！请一定原谅我无意间的冒犯。您要知道，我的家族也曾与坎伯兰家族交好......
+[name="莫里尔伯爵"]哦十分抱歉！请一定原谅我无意间的冒犯。您要知道，我的家族也曾与坎伯兰家族交好……
 [charslot(slot="m",name="avg_npc_397_1#1$1",focus="m")]
 [name="阿勒黛"]我不会在意。
 [name="阿勒黛"]开斯特公爵阁下在我最落魄的时候给予了我帮助，这是人尽皆知的事。我对她只有感激，而对自己的际遇毫无愧疚。
@@ -271,7 +271,7 @@
 [name="阿勒黛"]当然，我也无意冒犯。
 [charslot(slot="m",name="avg_npc_176",focus="m")]
 [name="莫里尔伯爵"]哦，我喜欢您犀利的见解，阿勒黛小姐。
-[name="莫里尔伯爵"]超越时间的眼光......的确是难得的事物。相比之下，超越身份的野心就廉价多了，不是么？
+[name="莫里尔伯爵"]超越时间的眼光……的确是难得的事物。相比之下，超越身份的野心就廉价多了，不是么？
 [charslot(slot="m",name="avg_npc_397_1#1$1",focus="m")]
 [name="阿勒黛"]很难不同意。
 [charslot(slot="m",name="avg_npc_176",focus="m")]
@@ -291,7 +291,7 @@
 [name="莫里尔伯爵"]那便不多留您了，坎伯兰阁下。
 [name="莫里尔伯爵"]首演那天的票，我会提前送到您手上。要是开斯特公爵阁下想看，卡文迪许公爵阁下也将资助剧团前往开斯特领巡演。
 [charslot(slot="m",name="avg_npc_397_1#8$1",focus="m")]
-[name="阿勒黛"]......那希望公爵阁下不会被自己的眼泪给蒙蔽吧。
+[name="阿勒黛"]……那希望公爵阁下不会被自己的眼泪给蒙蔽吧。
 [Dialog]
 [PlaySound(key="$d_avg_higheldshosfts", volume=0.6)]
 [charslot(duration=1)]
@@ -307,7 +307,7 @@
 [charslot(slot="m",name="avg_npc_397_1#2$1",duration=0.5)]
 [Delay(time=0.7)]
 [charslot(slot="m",name="avg_npc_397_1#2$1",focus="m")]
-[name="阿勒黛"]......
+[name="阿勒黛"]……
 [Dialog]
 [charslot]
 [musicvolume(volume=0.3, fadetime=1)]
@@ -324,9 +324,9 @@
 [name="克洛维希娅"]艾尔希女士从我们店里订购了公爵府上新一季的衣服，但为您准备的那套一直没有敲定。
 [name="克洛维希娅"]抱歉，刚才无意听到了您和莫里尔伯爵的谈话，我才觉得，您在文艺评论上的造诣，果然名不虚传。
 [charslot(slot="m",name="avg_npc_397_1#8$1",focus="m")]
-[name="阿勒黛"]承蒙抬爱......想必您应该也在担心伦蒂尼姆如今的局势吧。
+[name="阿勒黛"]承蒙抬爱……想必您应该也在担心伦蒂尼姆如今的局势吧。
 [charslot(slot="m",name="avg_npc_401_1#9$1",focus="m")]
-[name="克洛维希娅"]不不，只是裁缝铺里难免会听到老爷夫人们谈起最近的变化......
+[name="克洛维希娅"]不不，只是裁缝铺里难免会听到老爷夫人们谈起最近的变化……
 [charslot(slot="m",name="avg_npc_401_1#10$1",focus="m")]
 [name="克洛维希娅"]欸，天快黑了，我该回去了。您要是选好了款式，可以随时让艾尔希女士找我。
 [name="克洛维希娅"]啊对了，阿勒黛小姐，艾尔希女士还拜托我将今天的《伦蒂尼姆日报》带给您。
@@ -340,7 +340,7 @@
 [name="阿勒黛"]唉，正好看看，伦蒂尼姆还有什么值得报道的新闻吧。
 [name="阿勒黛"]诺伯特区恶性斗殴事件？
 [charslot(slot="m",name="avg_npc_397_1#4$1",focus="m")]
-[name="阿勒黛"]这是......？
+[name="阿勒黛"]这是……？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -358,7 +358,7 @@
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="因陀罗"]他妈的！岂有此理！
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
-[name="委屈的工人"]这已经是这个月第三起了......自从这个混账当上了新的工会领袖，工厂的意外就一场接着一场。
+[name="委屈的工人"]这已经是这个月第三起了……自从这个混账当上了新的工会领袖，工厂的意外就一场接着一场。
 [name="委屈的工人"]明眼人都看得出来，那几个敢表现出对工会有意见的工人，过不了几天就会莫名其妙死于事故。
 [charslot(slot="m",name="avg_155_tiger_1#9$1",focus="m")]
 [name="因陀罗"]走！这就带我去找他。我倒要看看，他是长了几个胆子！
@@ -367,12 +367,12 @@
 [charslot(slot="m",name="avg_155_tiger_1#7$1",focus="m")]
 [name="因陀罗"]把所有混蛋揍趴下就是我的规矩！
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
-[name="委屈的工人"]我知道！我当然知道......可是我们也实在没有办法了。
+[name="委屈的工人"]我知道！我当然知道……可是我们也实在没有办法了。
 [name="委屈的工人"]工会在工厂里面一手遮天，警察都无从查起。
 [charslot(slot="m",name="avg_npc_405_1#4$1",focus="m")]
-[name="摩根"]那个新工头......叫约翰尼的，是什么来头？
+[name="摩根"]那个新工头……叫约翰尼的，是什么来头？
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
-[name="委屈的工人"]我记得之前听谁说过，这个人来头可不小，好像是达文狄克公爵的亲戚......
+[name="委屈的工人"]我记得之前听谁说过，这个人来头可不小，好像是达文狄克公爵的亲戚……
 [charslot(slot="m",name="avg_npc_396_1#9$1",focus="m")]
 [name="达格达"]卡文迪许公爵？
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
@@ -380,7 +380,7 @@
 [charslot(slot="m",name="avg_npc_405_1#4$1",focus="m")]
 [name="摩根"]他管你们要好处了吗？
 [charslot(slot="m",name="avg_npc_659_1#1$1",focus="m")]
-[name="委屈的工人"]要钱那倒是没有......只是在他当上工头后，很多关键的岗位就被外来的工人占了。
+[name="委屈的工人"]要钱那倒是没有……只是在他当上工头后，很多关键的岗位就被外来的工人占了。
 [charslot(slot="m",name="avg_npc_863_1#8$1",focus="m")]
 [name="贝尔德"]知道了，你先回去吧。我们还要商量一下。
 [Dialog]
@@ -402,14 +402,14 @@
 [charslot(slot="m",name="avg_npc_863_1#6$1",focus="m")]
 [name="贝尔德"]拿个主意吧，维娜，我们都听你的。
 [charslot(slot="m",name="avgnew_112_siege_1#6$1",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [charslot(slot="m",name="avgnew_112_siege_1#3$1",focus="m")]
 [name="维娜"]既然收了保护费，那就得办事才行。
 [name="维娜"]我们去会会这个有公爵当背景的混蛋工头。
 [charslot(slot="m",name="avg_155_tiger_1#1$1",focus="m")]
 [name="因陀罗"]这就对了！
 [charslot(slot="m",name="avg_npc_405_1#7$1",focus="m")]
-[name="摩根"]好吧，既然维娜都这么说了......
+[name="摩根"]好吧，既然维娜都这么说了……
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
 [name="摩根"]不过保险起见，我们还是先探听一下那个工厂的情报。贝尔德，你和我一块去。
 [charslot(slot="m",name="avg_npc_863_1#1$1",focus="m")]
@@ -436,18 +436,18 @@
 [playMusic(key="$wasteland_loop", volume=0.6)]
 [charslot(slot="l",name="avg_npc_396_1#13$1",focus="l")]
 [charslot(slot="r",name="avgnew_112_siege_1#5$1",focus="l")]
-[name="达格达"]......
+[name="达格达"]……
 [charslot(slot="r",name="avgnew_112_siege_1#5$1",focus="r")]
 [name="维娜"]怎么了？最近看上去闷闷不乐的。
 [charslot(slot="l",name="avg_npc_396_1#1$1",focus="l")]
-[name="达格达"]没什么。我只是觉得......自己似乎有点太乐在其中了。
+[name="达格达"]没什么。我只是觉得……自己似乎有点太乐在其中了。
 [charslot(slot="r",name="avgnew_112_siege_1#5$1",focus="r")]
 [name="维娜"]在这里，你难道不开心吗？
 [charslot(slot="l",name="avg_npc_396_1#9$1",focus="l")]
 [name="达格达"]推进之王，您有使命的。
 [charslot(slot="r",name="avgnew_112_siege_1#1$1",focus="r")]
 [name="维娜"]达格达，我回复过你的。
-[name="维娜"]我已经找到了自己的生活，为什么......
+[name="维娜"]我已经找到了自己的生活，为什么……
 [charslot(slot="l",name="avg_npc_396_1#9$1",focus="l")]
 [name="达格达"]您的生活，就是帮街坊邻居打抱不平，然后往小贵族家里扔几块砖头？
 [name="达格达"]推进之王，有些事情是无法逃避的。
@@ -456,7 +456,7 @@
 [charslot(slot="l",name="avg_npc_396_1#1$1",focus="l")]
 [name="达格达"]那我会留在您身边，等到您得出答案的那一天。
 [charslot(slot="r",name="avgnew_112_siege_1#2$1",focus="r")]
-[name="维娜"]......
+[name="维娜"]……
 [Dialog]
 [charslot]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -467,7 +467,7 @@
 [Sticker(id="st1")]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
 [Sticker(id="st1", multi = true, text="<i>但我还是隐隐有了预感，格拉斯哥帮，即将迎来它的故事中最浓墨重彩的一笔。</i>", x=300,y=240,  alignment="left", size=24, delay=0.04, width=700,block = true)]
-[Sticker(id="st1", multi = true, text="\n<i>直到那些荒唐的遐想逼近结局，我才意识到最关键的问题......</i>",block = true)]
+[Sticker(id="st1", multi = true, text="\n<i>直到那些荒唐的遐想逼近结局，我才意识到最关键的问题……</i>",block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>故事的主角，永远都是维娜，而不是格拉斯哥帮。</i>",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -487,7 +487,7 @@
 [name="阿勒黛"]艾尔希，怎么了？
 [charslot(slot="r",name="avg_npc_658_1#1$1",focus="r")]
 [name="管家艾尔希"]您不是一直嘱托我们留意亚历山德莉娜殿下的下落吗？
-[name="管家艾尔希"]皇家警局的局长刚刚复审了一桩诺伯特区分局的恶性斗殴案件......
+[name="管家艾尔希"]皇家警局的局长刚刚复审了一桩诺伯特区分局的恶性斗殴案件……
 [name="管家艾尔希"]牵涉了一个名为“麦克拉伦之家”的录像厅和一个名为“格拉斯哥帮”的街头帮派。
 [name="管家艾尔希"]这是原始卷宗。
 [Dialog]
@@ -502,13 +502,13 @@
 “涉案人员：推进之王（自称）”
 [charslot(slot="l",name="avg_npc_397_1#7$1",focus="r")]
 [charslot(slot="r",name="avg_npc_658_1#6$1",focus="r")]
-[name="管家艾尔希"]阿勒黛小姐，如果您几乎都能肯定她就是殿下......为什么不直接去找她？
+[name="管家艾尔希"]阿勒黛小姐，如果您几乎都能肯定她就是殿下……为什么不直接去找她？
 [charslot(slot="l",name="avg_npc_397_1#7$1",focus="l")]
 [name="阿勒黛"]然后呢？带她回坎伯兰公爵府？还是送她去开斯特领？
 [charslot(slot="l",name="avg_npc_397_1#5$1",focus="l")]
-[name="阿勒黛"]她是不是亚历山德莉娜已经不重要了......公爵们既然盯上了她，她就已经逃不了了。
+[name="阿勒黛"]她是不是亚历山德莉娜已经不重要了……公爵们既然盯上了她，她就已经逃不了了。
 [charslot(slot="r",name="avg_npc_658_1#2$1",focus="r")]
-[name="管家艾尔希"]......听上去，像是会被这座城市活活吞掉一样。
+[name="管家艾尔希"]……听上去，像是会被这座城市活活吞掉一样。
 [charslot(slot="l",name="avg_npc_397_1#5$1",focus="l")]
 [name="阿勒黛"]哈，我们都一样，艾尔希。
 [charslot(slot="l",name="avg_npc_397_1#1$1",focus="l")]
@@ -517,7 +517,7 @@
 [name="管家艾尔希"]既然是开斯特公爵的命令，您要做的，不该只是找到她，然后带她去见开斯特公爵吗？
 [charslot(slot="l",name="avg_npc_397_1#1$1",focus="l")]
 [name="阿勒黛"]艾尔希，我也需要一些时间想想。
-[multiline(name="阿勒黛")]我曾经见过她，见过......
+[multiline(name="阿勒黛")]我曾经见过她，见过……
 [charslot(slot="l",name="avg_npc_397_1#7$1",focus="l")]
 [multiline(name="阿勒黛")]殿下。
 [Dialog]
@@ -546,7 +546,7 @@
 [charslot(slot="r",name="avg_npc_658_1#6$1",focus="r")]
 [name="管家艾尔希"]可是，不管怎么说，那已经是很久之前了。事到如今，一个身份不明的王储，真的有那么重要吗？
 [charslot(slot="l",name="avg_npc_397_1#7$1",focus="l")]
-[name="阿勒黛"]只是一种预感......从很多年前第一次见到她起，我就一直相信，她会改变一些什么。
+[name="阿勒黛"]只是一种预感……从很多年前第一次见到她起，我就一直相信，她会改变一些什么。
 [charslot(slot="l",name="avg_npc_397_1#5$1",focus="l")]
 [name="阿勒黛"]我们走吧，还有几位工人需要拜访一下。我也想知道，这些年殿下的生活是什么样。
 [Dialog]
@@ -602,11 +602,11 @@
 [PlaySound(key="$d_avg_open_box", volume=1)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_155_tiger_1#5$1",focus="m")]
-[name="因陀罗"]这是......
+[name="因陀罗"]这是……
 [charslot(slot="m",name="avg_npc_863_1#4$1",focus="m")]
-[name="贝尔德"]......
+[name="贝尔德"]……
 [charslot(slot="m",name="avgnew_112_siege_1#8$1",focus="m")]
-[name="维娜"]......源石武器。
+[name="维娜"]……源石武器。
 [charslot(slot="m",name="avg_npc_396_1#5$1",focus="m")]
 [name="达格达"]这些不是维多利亚的制式武器。具体来自哪里，我不知道。
 [charslot(slot="m",name="avg_npc_405_1#9$1",focus="m")]
@@ -614,10 +614,10 @@
 [charslot(slot="m",name="avg_npc_396_1#7$1",focus="m")]
 [name="达格达"]公爵私自在伦蒂尼姆囤积武器，只有一种答案。
 [charslot(slot="m",name="avg_npc_863_1#7$1",focus="m")]
-[name="贝尔德"]我们已经留下痕迹了......
-[name="贝尔德"]维娜，我们怎么办？看上去，这不是单靠我们就能解决的事了......
+[name="贝尔德"]我们已经留下痕迹了……
+[name="贝尔德"]维娜，我们怎么办？看上去，这不是单靠我们就能解决的事了……
 [charslot(slot="m",name="avgnew_112_siege_1#6$1",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="维娜"]我们解决不了，但可以告诉别人。
 [name="维娜"]汉娜，借我一点火。
@@ -643,7 +643,7 @@
 [charslot(slot="m",name="avg_155_tiger_1#1$1",focus="m")]
 [name="因陀罗"]当然！我们可是挫败了那个邪恶公爵的阴谋！
 [charslot(slot="m",name="avg_npc_863_1#9$1",focus="m")]
-[name="贝尔德"]我们......还真是干了件大事。
+[name="贝尔德"]我们……还真是干了件大事。
 [charslot(slot="m",name="avgnew_112_siege_1#3$1",focus="m")]
 [name="维娜"]至少，我们没做错事，对吧？
 [name="维娜"]剩下的，就交给警察去调查吧。
@@ -665,15 +665,15 @@
 [charslot(slot="m",name="avg_npc_176",focus="m")]
 [name="莫里尔伯爵"]我叫莫里尔，卡文迪许公爵府上的门客，只是一个无名小卒，又或者说，是一个幸运儿。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="维娜"]你知道工厂的事......你知道卡文迪许想要做什么。
+[name="维娜"]你知道工厂的事……你知道卡文迪许想要做什么。
 [charslot(slot="m",name="avg_npc_176",focus="m")]
 [name="莫里尔伯爵"]虽然我很想自夸，自己能为卡文迪许公爵分忧。不过，公爵阁下在伦蒂尼姆的安排，我的确不知晓全貌。
 [name="莫里尔伯爵"]此时此刻，我关心的，只有您，亚历山德莉娜殿下。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [charslot(slot="m",name="avg_npc_176",focus="m")]
 [name="莫里尔伯爵"]不得不说，殿下，现在您站在我面前，真的让我想起了当年那位陛下。
-[name="莫里尔伯爵"]您和他真的很像，同样幼稚的正义感，并且同样......要为此付出代价。
+[name="莫里尔伯爵"]您和他真的很像，同样幼稚的正义感，并且同样……要为此付出代价。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
 [name="维娜"]你想怎么样？
 [Dialog]
@@ -684,12 +684,12 @@
 [name="莫里尔伯爵"]您和您伙伴今晚的冒险——没有关系，那几箱货物的价值，和您比起来，简直是九驮一毛。
 [name="莫里尔伯爵"]跟我走吧，至少，我可以放您的伙伴一条生路，怎么样？
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
-[name="维娜"]......我凭什么相信你。
+[name="维娜"]……我凭什么相信你。
 [charslot(slot="m",name="avg_npc_176",focus="m")]
 [name="莫里尔伯爵"]虽然这样对殿下说话很不敬，但事实上，您没有别的选择。
 [name="莫里尔伯爵"]或者说，您大可以试着逃跑，不过我会始终把您的下落放在心上的。
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="维娜"]......不。
+[name="维娜"]……不。
 [stopmusic(fadetime=2)]
 [Dialog]
 [charslot]
@@ -717,38 +717,38 @@
 [name="摩根"]维娜！你做了什么！
 [name="摩根"]快停手！你要打死他了！
 [charslot(slot="m",name="avgnew_112_siege_1#10$1",focus="m")]
-[name="维娜"]呼......呼......
+[name="维娜"]呼……呼……
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
-[name="维娜"]我......
+[name="维娜"]我……
 [charslot(slot="m",name="avg_155_tiger_1#10$1",focus="m")]
 [name="因陀罗"]没事，还有气。
 [playMusic(intro="$dignified_intro", key="$dignified_loop", volume=0.6)]
 [charslot(slot="m",name="avg_155_tiger_1#6$1",focus="m")]
-[name="因陀罗"]维娜......这是怎么回事？
+[name="因陀罗"]维娜……这是怎么回事？
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="维娜"]你们......快走。
+[name="维娜"]你们……快走。
 [name="维娜"]工厂的事，这里的事，都是我做的，和别人没有关系。
 [charslot(slot="m",name="avg_155_tiger_1#6$1",focus="m")]
 [name="因陀罗"]你到底在胡说啥呢！
 [charslot(slot="m",name="avg_npc_405_1#2$1",focus="m")]
-[name="摩根"]维娜......那个人说的，是什么意思？他为什么管你叫殿下？
+[name="摩根"]维娜……那个人说的，是什么意思？他为什么管你叫殿下？
 [charslot(slot="m",name="avg_npc_396_1#3$1",focus="m")]
-[name="达格达"]......因为她就是维多利亚的王储。
+[name="达格达"]……因为她就是维多利亚的王储。
 [charslot(slot="m",name="avg_npc_396_1#1$1",focus="m")]
 [name="达格达"]维多利亚上一位国王阿利斯泰尔二世的女儿，亚历山德莉娜·维娜·维多利亚。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="维娜"]我......我没有想过隐瞒......我只是觉得，没有意义......
+[name="维娜"]我……我没有想过隐瞒……我只是觉得，没有意义……
 [charslot(slot="m",name="avg_155_tiger_1#6$1",focus="m")]
 [multiline(name="因陀罗")]这又是哪跟哪？
 [charslot(slot="m",name="avg_155_tiger_1#7$1",focus="m")]
 [CameraShake(duration=0.5, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [multiline(name="因陀罗")]我没有在问你到底是什么人，我是在问你为什么打算自己一个人把这些事背下来！
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="维娜"]汉娜......
+[name="维娜"]汉娜……
 [charslot(slot="m",name="avg_npc_405_1#6$1",focus="m")]
 [name="摩根"]我猜，你还有很多故事有必要讲给我们听。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="维娜"]对不起......
+[name="维娜"]对不起……
 [Dialog]
 [charslot]
 [PlaySound(key="$d_avg_airdefensealert",volume=0.8)]
@@ -767,7 +767,7 @@
 [charslot(slot="m",name="avg_npc_863_1#1$1",focus="m")]
 [name="贝尔德"]不用担心诺伯特区，这里还有我。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
-[name="维娜"]......
+[name="维娜"]……
 [charslot(slot="m",name="avg_155_tiger_1#6$1",focus="m")]
 [name="因陀罗"]等等，贝尔德，你不离开吗？！喂，摩根，你怎么也不说话？
 [charslot(slot="m",name="avg_npc_405_1#5$1",focus="m")]
@@ -775,7 +775,7 @@
 [charslot(slot="m",name="avg_npc_863_1#9$1",focus="m")]
 [name="贝尔德"]汉娜，家里总得有人等你们回来，不是吗？
 [charslot(slot="m",name="avg_npc_396_1#2$1",focus="m")]
-[name="达格达"]......
+[name="达格达"]……
 [charslot(slot="m",name="avg_npc_863_1#6$1",focus="m")]
 [name="贝尔德"]有人盯上了你。但，抱歉，维娜，我们没法保护你，格拉斯哥帮在那些真正的庞然大物面前，很弱小。
 [name="贝尔德"]你从来就不属于诺伯特区，维娜，或者说，不只属于诺伯特区。从你加入我们的那天起，我就知道。
@@ -784,7 +784,7 @@
 [charslot(slot="m",name="avg_npc_863_1#9$1",focus="m")]
 [name="贝尔德"]确实。如果你要因此怪罪自己，我倒希望你一直记得。
 [charslot(slot="m",name="avgnew_112_siege_1#5$1",focus="m")]
-[name="维娜"]......？
+[name="维娜"]……？
 [charslot(slot="m",name="avg_npc_863_1#9$1",focus="m")]
 [name="贝尔德"]记住你还欠了诺伯特区什么，也记住总有一天，你必须亲自回来把欠大伙的东西还回来。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
@@ -798,14 +798,14 @@
 [charslot(slot="m",name="avg_155_tiger_1#1$1",focus="m")]
 [name="因陀罗"]要是有人找你麻烦，你还需要我帮你打架呢！
 [charslot(slot="m",name="avg_npc_396_1#8$1",focus="m")]
-[name="达格达"]......维娜在哪，我就在哪。
+[name="达格达"]……维娜在哪，我就在哪。
 [charslot(slot="m",name="avg_npc_863_1#9$1",focus="m")]
 [name="贝尔德"]维娜，不要忘记，无论你去了哪里，格拉斯哥帮都会陪着你。
 [name="贝尔德"]而我也会守好我们的地盘，这可是我们一起打下来的。
 [charslot(slot="m",name="avgnew_112_siege_1#9$1",focus="m")]
 [name="维娜"]贝尔德，我保证，我会带着大伙儿回来的。
 [charslot(slot="m",name="avg_npc_863_1#9$1",focus="m")]
-[name="贝尔德"]......真希望那天能快点到来。
+[name="贝尔德"]……真希望那天能快点到来。
 [charslot(slot="m",name="avg_npc_863_1#5$1",focus="m")]
 [name="贝尔德"]敬我们，为了格拉斯哥帮。
 [Dialog]
@@ -823,26 +823,26 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=0.5)]
 [charslot(slot="m",name="avg_npc_1256_1#1$1",focus="m")]
-[name="慌张的文员"]要死，死了......阁、阁下，这可是卡文迪许公爵的人！
+[name="慌张的文员"]要死，死了……阁、阁下，这可是卡文迪许公爵的人！
 [name="慌张的文员"]阁下！我这就去通知总局，就算把伦蒂尼姆翻一个底朝天也要——
 [Dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_401_1#1$1",bstart=0.2,bend=0.7,duration=1)]
 [Delay(time=1.5)]
 [charslot(slot="m",name="avg_npc_401_1#1$1",bstart=0.2,bend=0.7,focus="m")]
-[name="？？？"]......把这件事压下来。
+[name="？？？"]……把这件事压下来。
 [charslot(slot="m",name="avg_npc_1256_1#1$1",focus="m")]
 [name="慌张的文员"]好，我现在就联系医院——啊？压下来？
 [charslot(slot="m",name="avg_npc_401_1#1$1",bstart=0.2,bend=0.7,focus="m")]
 [name="？？？"]我会让人来处理，后续的事，和你们诺伯特区警局无关了。
 [name="？？？"]放心，皇家警局的局长绝对不会问到你的头上，也不会问到在场的任何人头上。
 [charslot(slot="m",name="avg_npc_1256_1#1$1",focus="m")]
-[name="慌张的文员"]真，真的吗？您怎么能确定......
+[name="慌张的文员"]真，真的吗？您怎么能确定……
 [charslot(slot="m",name="avg_npc_401_1#1$1",bstart=0.2,bend=0.7,focus="m")]
 [name="？？？"]我并不确定未来，先生，但是我可以将它引领向一个方向。
 [name="？？？"]先生，这座城市马上就要迎接一批客人了，你不应该有更重要的事情要忙吗？
 [charslot(slot="m",name="avg_npc_1256_1#1$1",focus="m")]
-[name="慌张的文员"]您......好吧......好的！
+[name="慌张的文员"]您……好吧……好的！
 [Dialog]
 [PlaySound(key="$d_avg_walkfast", volume=0.7)]
 [charslot(duration=0.7)]
@@ -866,7 +866,7 @@
 [Sticker(id="st1", multi = true, text="\n<i>我喜欢达格达在很多年之后，我们重新踏上家乡土地时说的那句话——</i>",block = true)]
 [Sticker(id="st1")]
 [PlaySound(key="$d_avg_penrustle", volume=1)]
-[Sticker(id="st1", multi = true, text="<i>“历史是一艘漂荡的帆船，每个时代都会有经验丰富的舵手自以为能操持它的航向......</i>", x=300,y=240,  alignment="left", size=24, delay=0.04, width=700,block = true)]
+[Sticker(id="st1", multi = true, text="<i>“历史是一艘漂荡的帆船，每个时代都会有经验丰富的舵手自以为能操持它的航向……</i>", x=300,y=240,  alignment="left", size=24, delay=0.04, width=700,block = true)]
 [Sticker(id="st1", multi = true, text="\n<i>“但永远没有人知道夕阳与河流最终会将它送往何方。”</i>",block = true)]
 [Sticker(id="st1")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -884,17 +884,17 @@
 [charslot(slot="m",name="avg_npc_397_1#1$1",duration=0.7)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_npc_397_1#1$1",focus="m")]
-[name="阿勒黛"]......
+[name="阿勒黛"]……
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
 [name="帮派成员"]喂，什么人？是来打拳的吗？
 [charslot(slot="m",name="avg_npc_397_1#9$1",focus="m")]
 [name="阿勒黛"]请问，这里是格拉斯哥帮吗？我在找一个叫推进之王的人。我没理解错的话，她应该是这里的头儿？
 [charslot(slot="m",name="avg_npc_416_1#1$1",focus="m")]
 [name="帮派成员"]现在这家拳馆只有一个头儿，叫贝尔德。
-[name="帮派成员"]等等......你这身打扮，是贵族？
+[name="帮派成员"]等等……你这身打扮，是贵族？
 [name="帮派成员"]离开，这儿不欢迎你。
 [charslot(slot="m",name="avg_npc_397_1#5$1",focus="m")]
-[name="阿勒黛"]......打扰了。
+[name="阿勒黛"]……打扰了。
 [Dialog]
 [charslot]
 [name="贝尔德"]等一下。
@@ -904,9 +904,9 @@
 [charslot(slot="m",name="avg_npc_863_1#1$1",focus="m")]
 [name="贝尔德"]你在找维娜？你认识她？
 [charslot(slot="m",name="avg_npc_397_1#1$1",focus="m")]
-[name="阿勒黛"]是的......是一位老朋友。
+[name="阿勒黛"]是的……是一位老朋友。
 [charslot(slot="m",name="avg_npc_863_1#8$1",focus="m")]
-[name="贝尔德"]......
+[name="贝尔德"]……
 [charslot(slot="m",name="avg_npc_863_1#1$1",focus="m")]
 [name="贝尔德"]维娜出远门了，你有什么事，我可以代为传达。
 [charslot(slot="m",name="avg_npc_397_1#8$1",focus="m")]

@@ -25,8 +25,8 @@
 [decision(option1="你要不要赶紧哄哄老爷子。", value1="2.1")]
 [predicate(references="2.1")]
 [name="森蚺", avatarId="char_416_zumama", isAvatarRight="FALSE"]等我忙完这阵子吧，现在手上的事情实在太多了。
-[name="森蚺", avatarId="char_416_zumama", isAvatarRight="FALSE"]你可以先去帮我看看他的情况吗？或许......可以带些吃的？
-[decision(option1="听起来也是很麻烦的事......", value1="3.1")]
+[name="森蚺", avatarId="char_416_zumama", isAvatarRight="FALSE"]你可以先去帮我看看他的情况吗？或许……可以带些吃的？
+[decision(option1="听起来也是很麻烦的事……", value1="3.1")]
 [predicate(references="3.1")]
 [name="森蚺", avatarId="char_416_zumama", isAvatarRight="FALSE"]你看，他还留下了一本《在阿尔萨兰烹饪的一百个小诀窍》的小册子！
 [decision(option1="这玩意儿真的有用吗？", value1="4.1")]

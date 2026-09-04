@@ -14,7 +14,7 @@
 [character(name="avg_1024_hbisc2_1#7$1")]
 [name="芙蓉"]出去了？
 [character(name="avg_npc_489_1#2$1")]
-[name="乌尔苏拉"]应该是为了收治中毒的感染者的问题，要去和夕照区之外的医院交涉......
+[name="乌尔苏拉"]应该是为了收治中毒的感染者的问题，要去和夕照区之外的医院交涉……
 [Dialog]
 [Character]
 [playsound(key="$d_avg_doorknob")]
@@ -25,7 +25,7 @@
 [character(name="avg_npc_489_1#1$1")]
 [name="乌尔苏拉"]先生，怎么样，那些医院——
 [character(name="avg_4047_pianst_1#2$1")]
-[name="车尔尼"]勉强谈下来了两家最大的，合同已经签好，其他的......实在是不行了。
+[name="车尔尼"]勉强谈下来了两家最大的，合同已经签好，其他的……实在是不行了。
 [character(name="avg_1024_hbisc2_1#5$1")]
 [name="芙蓉"]可罗德岛和医院签过协议！
 [character(name="avg_4047_pianst_1#1$1")]
@@ -41,10 +41,10 @@
 [character(name="avg_4047_pianst_1#7$1")]
 [name="车尔尼"]是啊，不光以前的版权，连明天音乐会录音的发行权我都卖给他们了。
 [character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]现在我可以从零开始了......咳、咳。
+[name="车尔尼"]现在我可以从零开始了……咳、咳。
 [character(name="avg_4047_pianst_1#5$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
-[name="车尔尼"]咳......咳！
+[name="车尔尼"]咳……咳！
 [Dialog]
 [PlaySound(key="$bodyfalldown2", volume=1)]
 [characteraction(name="middle", type="move", ypos=-50, fadetime=2,block=true)]
@@ -66,7 +66,7 @@
 [Character(name="avg_4047_pianst_1#5$1", name2="avg_1024_hbisc2_1#4$1",focus=2)]
 [name="芙蓉"]您醒了？
 [Character(name="avg_4047_pianst_1#5$1", name2="avg_1024_hbisc2_1#4$1",focus=1)]
-[name="车尔尼"]唔......嗯。
+[name="车尔尼"]唔……嗯。
 [Character(name="avg_4047_pianst_1#5$1", name2="avg_1024_hbisc2_1#4$1",focus=2)]
 [name="芙蓉"]车尔尼先生，您在出门的时候没做任何防护措施，对不对？
 [Character(name="avg_4047_pianst_1#7$1", name2="avg_1024_hbisc2_1#4$1",focus=1)]
@@ -76,7 +76,7 @@
 [Character(name="avg_4047_pianst_1#1$1", name2="avg_1024_hbisc2_1#4$1",focus=1)]
 [name="车尔尼"]“不能再”？也就是说，我还有一段时间好活？
 [Character(name="avg_4047_pianst_1#1$1", name2="avg_1024_hbisc2_1#11$1",focus=2)]
-[name="芙蓉"]......有我在呢。
+[name="芙蓉"]……有我在呢。
 [Character(name="avg_4047_pianst_1#2$1", name2="avg_1024_hbisc2_1#11$1",focus=1)]
 [name="车尔尼"]唉，身体一垮下来，看医生也觉得顺眼多了。
 [Character(name="avg_4047_pianst_1#8$1", name2="avg_1024_hbisc2_1#11$1",focus=1)]
@@ -87,16 +87,16 @@
 [name="车尔尼"]倒是黑键，你怎么一句话都不说？难道是觉得现在夕照区太危险，想退出了？
 [name="车尔尼"]我可告诉你，到了现在这一步，音乐会我无论如何也要办好，不要想临阵脱逃的事。
 [character(name="avg_4046_ebnhlz_1#7$2")]
-[name="黑键"]不要想临阵脱逃......
-[name="黑键"]我......
+[name="黑键"]不要想临阵脱逃……
+[name="黑键"]我……
 [character(name="avg_4046_ebnhlz_1#6$2")]
 [name="黑键"]（小声）他现在能受得了吗？
 [character(name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]（小声）稍等一等吧......
+[name="芙蓉"]（小声）稍等一等吧……
 [character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]看来不是要退出音乐会？
 [character(name="avg_4046_ebnhlz_1#3$2")]
-[name="黑键"]啊，不是要退出音乐会......
+[name="黑键"]啊，不是要退出音乐会……
 [character(name="avg_4047_pianst_1#2$1")]
 [name="车尔尼"]黑键，你一紧张就喜欢重复别人的话，我从一开始就能看得出来。
 [character(name="avg_4047_pianst_1#1$1")]
@@ -139,7 +139,7 @@
 [character(name="avg_4047_pianst_1#6$1",name2="avg_1024_hbisc2_1#4$1",focus=1)]
 [name="车尔尼"]我是说过，然后呢？你想表达什么？
 [character(name="avg_4046_ebnhlz_1#7$2")]
-[name="黑键"]......说实话，现在我已经觉得自己当时的想法很可笑了。
+[name="黑键"]……说实话，现在我已经觉得自己当时的想法很可笑了。
 [character(name="avg_4046_ebnhlz_1#2$2")]
 [name="黑键"]但我想追求的，无非是自由而已。
 [character(name="avg_4047_pianst_1#6$1",name2="avg_1024_hbisc2_1#4$1",focus=1)]
@@ -151,7 +151,7 @@
 [character(name="avg_4046_ebnhlz_1#6$2")]
 [name="黑键"]我已经深刻地感受到这一点了，否则我才不来找你。
 [character(name="avg_4047_pianst_1#7$1",name2="avg_1024_hbisc2_1#4$1",focus=1)]
-[name="车尔尼"]......哼。
+[name="车尔尼"]……哼。
 [character(name="avg_4047_pianst_1#1$1",name2="avg_1024_hbisc2_1#4$1",focus=1)]
 [name="车尔尼"]走吧。
 [character(name="avg_4047_pianst_1#1$1",name2="avg_1024_hbisc2_1#3$1",focus=2)]
@@ -160,7 +160,7 @@
 [name="车尔尼"]还能是哪儿，音乐厅啊。
 [name="车尔尼"]之前格特鲁德就耍花招把我挡在音乐厅休息室外面，现在我倒要看看，她在里面搞了什么名堂。
 [character(name="avg_4047_pianst_1#1$1",name2="avg_1024_hbisc2_1#4$1",focus=2)]
-[name="芙蓉"]可您的身体......
+[name="芙蓉"]可您的身体……
 [character(name="avg_4047_pianst_1#6$1",name2="avg_1024_hbisc2_1#4$1",focus=1)]
 [name="车尔尼"]与其在这里被他和那女人气死，我还不如去看看他们到底在搞什么鬼。
 [Dialog]
@@ -182,7 +182,7 @@
 [character(name="avg_1024_hbisc2_1#3$1")]
 [name="芙蓉"]您能看出来？
 [character(name="avg_4047_pianst_1#6$1")]
-[name="车尔尼"]这哪里是动了一点手脚......
+[name="车尔尼"]这哪里是动了一点手脚……
 [character(name="avg_4047_pianst_1#7$1")]
 [name="车尔尼"]看到那个音箱了吗？很明显有被拆过的痕迹。那边的唱机也是，她甚至连螺丝都没拧紧——啧，连螺丝刀都忘记收起来了。
 [name="车尔尼"]不愧是贵族，这水平蹩脚得我都想笑了。
@@ -195,15 +195,15 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
 [Delay(time=0.51)]
 [character(name="avg_4047_pianst_1#1$1")]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [character(name="avg_4047_pianst_1#2$1")]
 [name="车尔尼"]你自己看。
 [character(name="avg_4046_ebnhlz_1#3$2")]
-[name="黑键"]她在唱机里面加装拾音器？这只会引发回路间的干扰......
+[name="黑键"]她在唱机里面加装拾音器？这只会引发回路间的干扰……
 [character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]她已经把唱针拆掉了，这东西现在只是个扩音器而已。
 [character(name="avg_4047_pianst_1#10$1")]
-[name="车尔尼"]那个音箱也是，输入的回路整个被拆掉了，也变成了扩音器......她在休息室里装这么多扩音器干什么？
+[name="车尔尼"]那个音箱也是，输入的回路整个被拆掉了，也变成了扩音器……她在休息室里装这么多扩音器干什么？
 [character(name="avg_4046_ebnhlz_1#3$2")]
 [name="黑键"]她也没说过。
 [character(name="avg_4047_pianst_1#1$1")]
@@ -221,7 +221,7 @@
 [name="芙蓉"]好像没什么异样？
 [Character(name="avg_1024_hbisc2_1#4$1",name2="avg_4047_pianst_1#1$1",focus=2)]
 [name="车尔尼"]我也听不出什么特别之处。
-[name="车尔尼"]你去告诉黑键，让他稍微用一点点法术......最简单的驱散睡意的那种，一定要控制在最弱的程度。
+[name="车尔尼"]你去告诉黑键，让他稍微用一点点法术……最简单的驱散睡意的那种，一定要控制在最弱的程度。
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -251,8 +251,8 @@
 [delay(time=1)]
 [name="黑键"]车尔尼！
 [character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]咳、咳......
-[name="车尔尼"]不用担心我......我只是，心跳得有点快......
+[name="车尔尼"]咳、咳……
+[name="车尔尼"]不用担心我……我只是，心跳得有点快……
 [character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]黑键，你在这儿，再用一下刚才的法术，记得注意音量。
 [Dialog]
@@ -279,12 +279,12 @@
 然而，芙蓉从他脸上看见的，不是兴奋，也不是愤怒，而是恐惧。
 纯粹的恐惧。
 [Character(name="avg_1024_hbisc2_1#4$1",name2="avg_4047_pianst_1#1$1",focus=2)]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [name="车尔尼"]格特鲁德把这间休息室，不，把整个夕照厅，改装成了一个巨大的扩音器，兼法术放大装置。
 [name="车尔尼"]如果没有探测到音乐法术，扩音器会一直保持在关闭的状态。
-[name="车尔尼"]可一旦有人在台上用音乐施术，放大装置就会被激活......法术就会被指数级地扩大，随着音乐扩散到夕照厅外......
+[name="车尔尼"]可一旦有人在台上用音乐施术，放大装置就会被激活……法术就会被指数级地扩大，随着音乐扩散到夕照厅外……
 [Character(name="avg_1024_hbisc2_1#4$1",name2="avg_4047_pianst_1#5$1",focus=2)]
-[name="车尔尼"]尘世之音的泄漏和共振......也不例外。
+[name="车尔尼"]尘世之音的泄漏和共振……也不例外。
 [Character(name="avg_1024_hbisc2_1#3$1",name2="avg_4047_pianst_1#5$1",focus=1)]
 [name="芙蓉"]？！
 [dialog]
@@ -292,8 +292,8 @@
 [character(name="avg_4046_ebnhlz_1#9$2")]
 [name="黑键"]（呆滞的眼神）
 [character(name="avg_1024_hbisc2_1#11$1")]
-[name="芙蓉"]也就是说，所有受到影响的区域，其中的源石活性都会急剧提升，维谢海姆的所有人，几乎无一例外，全部会受到感染......
-[name="芙蓉"]而那些已经感染了矿石病的人更不可能幸免，他们死后，遗体快速崩解，又会产生大量活性源石微粒......
+[name="芙蓉"]也就是说，所有受到影响的区域，其中的源石活性都会急剧提升，维谢海姆的所有人，几乎无一例外，全部会受到感染……
+[name="芙蓉"]而那些已经感染了矿石病的人更不可能幸免，他们死后，遗体快速崩解，又会产生大量活性源石微粒……
 [name="芙蓉"]这周围会变成彻头彻尾的疫区，维谢海姆将彻底与外界断绝联系——
 [Dialog]
 [Character]
@@ -304,7 +304,7 @@
 [name="？？？"]很抱歉打扰你们聊天，不过，我是来向你们提意见的。
 [name="？？？"]如此美妙的夜晚，为什么要向整个维谢海姆施放令人清醒的法术呢？我可是经常失眠的。
 [Character(name="avg_1024_hbisc2_1#11$1")]
-[name="芙蓉"]不好意思，我们现在正在处理很重要的......
+[name="芙蓉"]不好意思，我们现在正在处理很重要的……
 [Character(name="avg_4047_pianst_1#3$1")]
 [name="车尔尼"]格特鲁德？！
 [Dialog]
@@ -327,7 +327,7 @@
 [name="格特鲁德"]你真正生气的，是我竟然把你耍得团团转，甚至差点要了你的命，而你却毫无察觉，对不对？
 [name="格特鲁德"]拿出点贵族的气魄啊，乌提卡伯爵。来，说点什么。
 [character(name="avg_4046_ebnhlz_1#10$2")]
-[name="黑键"]......
+[name="黑键"]……
 [character(name="avg_1024_hbisc2_1#5$1")]
 [name="芙蓉"]黑键，你别被她挑衅了。
 [character(name="avg_1024_hbisc2_1#6$1")]
@@ -352,9 +352,9 @@
 [Character(name="avg_npc_484_1#6$1")]
 [name="格特鲁德"]最重要的是，我不觉得你们能赢得过我。
 [Character(name="avg_npc_484_1#7$1")]
-[name="格特鲁德"]如果你们三个都有乌提卡伯爵这种程度的实力，那我确实不能硬拼，可你们三个，呵呵......失礼。
+[name="格特鲁德"]如果你们三个都有乌提卡伯爵这种程度的实力，那我确实不能硬拼，可你们三个，呵呵……失礼。
 [Character(name="avg_1024_hbisc2_1#5$1")]
-[name="芙蓉"]......你休想。
+[name="芙蓉"]……你休想。
 [Character(name="avg_npc_484_1#1$1")]
 [name="格特鲁德"]乌提卡伯爵，要不然，我们俩各退一步吧。
 [Character(name="avg_4046_ebnhlz_1#8$2")]

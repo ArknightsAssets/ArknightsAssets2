@@ -16,11 +16,11 @@
 [PlaySound(key="$d_avg_snowbootwalk")]
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m",duration=2)]
 [delay(time=2)]
-[name="禾生"]呼......呼......雾越来越浓了。
+[name="禾生"]呼……呼……雾越来越浓了。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
 [name="禾生"]这个地方好眼熟，刚刚是不是走过这条路？
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
-[name="禾生"]无人机还是没有信号，而且这里连个能问路的人都没有......
+[name="禾生"]无人机还是没有信号，而且这里连个能问路的人都没有……
 [dialog]
 [charslot]
 [charslot(slot="m",name="avg_npc_1643_1#1$1",duration=1.5)]
@@ -28,7 +28,7 @@
 [charslot]
 [charslot(slot="r",name="avg_npc_1643_1#1$1",focus="l")]
 [charslot(slot="l",name="avg_4119_wanqin_1#1$1",focus="l")]
-[name="禾生"]啊，山里的小朋友？你好......
+[name="禾生"]啊，山里的小朋友？你好……
 [dialog]
 [charslot(slot="r",name="avg_npc_1643_1#1$1",focus="all")]
 [charslot(slot="l",name="avg_4119_wanqin_1#1$1",focus="all")]
@@ -53,12 +53,12 @@
 [charslot(slot="l",name="avg_4119_wanqin_1#10$1",focus="l")]
 [name="禾生"]小朋友，我不追你，别跑了。山中大雾，容易遇到危险。
 [charslot(slot="r",name="avg_npc_1643_1#1$1",focus="r")]
-[name="山中小童"]......
+[name="山中小童"]……
 [dialog]
 [charslot(slot="r",posfrom="60,0",posto="100,0",focus="all",afrom=1,ato=0,duration=0.7)]
 [delay(time=1.5)]
 [charslot(slot="l",name="avg_4119_wanqin_1#8$1",focus="l")]
-[name="禾生"]......是在让我跟上她吗？
+[name="禾生"]……是在让我跟上她吗？
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -67,9 +67,9 @@
 [Background(image="25_g09_teahouse",screenadapt="coverall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
-[name="禾生"]这里......是我上山的路。原来我转了半天，都没离开这里多远......
+[name="禾生"]这里……是我上山的路。原来我转了半天，都没离开这里多远……
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]......
+[name="山中小童"]……
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
 [name="禾生"]啊，你好。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
@@ -77,15 +77,15 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
 [name="禾生"]我不是要下山。小朋友，我听说这座山中有一片密林，林子里有一片耕地，你知道这地方在哪里吗？山中雾气不散，实在难以辨别道路。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]......
+[name="山中小童"]……
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]我可没见过你说的地方。你肯定是听说了什么奇奇怪怪的传闻吧，唉，游客都这样。
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
-[name="禾生"]不是传闻......不仅仅是。对了，我还有那片耕地的照片，你看看，是不是见过？
+[name="禾生"]不是传闻……不仅仅是。对了，我还有那片耕地的照片，你看看，是不是见过？
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]没见过。别什么都信，听我一句劝，天黑前离开吧。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
-[name="禾生"]你都没仔细看......不过确实，拍照的时候你可能都还没有出生，问你不合适。不打扰了，我自己继续找找。
+[name="禾生"]你都没仔细看……不过确实，拍照的时候你可能都还没有出生，问你不合适。不打扰了，我自己继续找找。
 [dialog]
 [charslot]
 [charslot(slot="r",name="avg_npc_1643_1#1$1",focus="all")]
@@ -98,7 +98,7 @@
 [charslot(slot="l",name="avg_4119_wanqin_1#1$1",focus="l")]
 [name="禾生"]那小朋友，你早些回去，天色渐晚，注意安全。
 [charslot(slot="r",name="avg_npc_1643_1#1$1",focus="r")]
-[name="山中小童"]唉，你还是要往山里走......你这人，听不明白话呀。
+[name="山中小童"]唉，你还是要往山里走……你这人，听不明白话呀。
 [dialog]
 [charslot]
 [charslot(slot="m",posfrom="-80,0",posto="40,0",focus="all",afrom=1,ato=0,duration=1.5)]
@@ -107,17 +107,17 @@
 [delay(time=1)]
 [charslot]
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
-[name="禾生"]住在那里的并不是怪人，是一位经验丰富的......咦，人呢？
+[name="禾生"]住在那里的并不是怪人，是一位经验丰富的……咦，人呢？
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
 [name="禾生"]又起雾了。
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
 [name="禾生"]气象数据说，这里一年中起雾的天数占全年的百分之九十。没时间等雾散了，再碰碰运气吧。
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
-[name="禾生"]无人机......还是没有信号。能见度也变得更低了，好诡异，不会真的像那小童说的......
+[name="禾生"]无人机……还是没有信号。能见度也变得更低了，好诡异，不会真的像那小童说的……
 [charslot(slot="m",name="avg_4119_wanqin_1#12$1",focus="m")]
 [name="禾生"]哈哈，相信科学，相信科学。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
-[name="禾生"]呃，这条路......刚才有吗？
+[name="禾生"]呃，这条路……刚才有吗？
 [dialog]
 [charslot]
 [stopmusic(fadetime=2)]
@@ -130,7 +130,7 @@
 [Blocker(a=0.2, r=1, g=1, b=1, fadetime=4, block=true)]
 [delay(time=1)]
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
-[name="禾生"]这里是......什么地方？我还在刚才的半山腰吗？嘶——好冷。
+[name="禾生"]这里是……什么地方？我还在刚才的半山腰吗？嘶——好冷。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
 [name="禾生"]等等，这片林子——
 [dialog]
@@ -148,27 +148,27 @@
 禾生立刻蹲下来，掏出天师仪测量起那几株大豆的各项数据，而后与自己不成功的那一批对比了一番。
 末位豆荚的高度完美，且长在背阴的山坡上，植株又耐寒，就是那位老前辈的作品没错了。
 [PlaySound(key="$d_avg_snowrun",volume=1)]
-禾生激动地跳起来，目光越过田地，找到了在这雾中的唯一一座小木屋。他不假思索地朝那若隐若现的轮廓跑了过去......
-跑过去......
-脚步开始迟疑，再试着走过去......
+禾生激动地跳起来，目光越过田地，找到了在这雾中的唯一一座小木屋。他不假思索地朝那若隐若现的轮廓跑了过去……
+跑过去……
+脚步开始迟疑，再试着走过去……
 [dialog]
 [PlaySound(key="$d_avg_snowfootstep", volume=1)]
 [delay(time=4)]
 [charslot(slot="m",name="avg_4119_wanqin_1#2$1",focus="m",duration=1)]
 [delay(time=2)]
-[name="禾生"]......咦？瓦罐、松树盆景、锄头。
+[name="禾生"]……咦？瓦罐、松树盆景、锄头。
 [charslot(slot="m",name="avg_4119_wanqin_1#2$1",focus="m")]
 [name="禾生"]啊，又来了，瓦罐、松树盆景、锄头。一步，两步，三步，瓦罐、松树盆景、锄头。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
-[name="禾生"]我这不是完全没往前走吗！怎么回事，和屋子的距离根本没缩短啊......
+[name="禾生"]我这不是完全没往前走吗！怎么回事，和屋子的距离根本没缩短啊……
 [charslot(slot="m",name="avg_4119_wanqin_1#2$1",focus="m")]
-[name="禾生"]往那边绕道试试......
+[name="禾生"]往那边绕道试试……
 [dialog]
 [charslot]
 [PlaySound(key="$d_avg_snowfootstep", volume=1)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
-[name="禾生"]......
+[name="禾生"]……
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
 [name="禾生"]奇怪，从树上跳过去呢？
 [dialog]
@@ -190,9 +190,9 @@
 [delay(time=1)]
 禾生试了半天，也走不到那间看似近在眼前的木屋。他垂头丧气地在田边坐了一会儿，看田里的杂草扎眼，顺手清理了一番。
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
-[name="禾生"]呼......这下看着舒服了。好潮湿的天气，手都快粘在锄头上了。
+[name="禾生"]呼……这下看着舒服了。好潮湿的天气，手都快粘在锄头上了。
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
-[name="禾生"]唉，我就是闲不住。仔细想想接下来该怎么办才对......
+[name="禾生"]唉，我就是闲不住。仔细想想接下来该怎么办才对……
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]咳咳。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
@@ -200,19 +200,19 @@
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]你来求仙问道的话，可来错地方了，还是别白费功夫了。
 [charslot(slot="m",name="avg_4119_wanqin_1#2$1",focus="m")]
-[name="禾生"]......
+[name="禾生"]……
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
 [name="禾生"]啊——你其实认识那位老前辈！
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
-[name="禾生"]我不是来求仙，大概算是来问道的吧。他是我的一位未曾谋面的农业天师老前辈，我有重要的事需要向他请教......
+[name="禾生"]我不是来求仙，大概算是来问道的吧。他是我的一位未曾谋面的农业天师老前辈，我有重要的事需要向他请教……
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
 [name="禾生"]真的非常重要，困扰了我很久。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]他没几年可回不来。
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
-[name="禾生"]嗯......
+[name="禾生"]嗯……
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
-[name="禾生"]那你为什么急着赶我走？现在想起来，刚才在半山腰，你就急着让我离开......
+[name="禾生"]那你为什么急着赶我走？现在想起来，刚才在半山腰，你就急着让我离开……
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]我可没有！我、我只是不想看你白跑一趟！
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
@@ -220,9 +220,9 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
 [name="禾生"]老前辈让你带什么话？
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]你......倒是没看起来那么笨嘛。
+[name="山中小童"]你……倒是没看起来那么笨嘛。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]好吧，他让你......呃......
+[name="山中小童"]好吧，他让你……呃……
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
 [name="禾生"]嗯？
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
@@ -242,7 +242,7 @@
 [CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
-[name="禾生"]这篇论文的作者......去云游四海了？！......那有谁知道他的联系方式吗？
+[name="禾生"]这篇论文的作者……去云游四海了？！……那有谁知道他的联系方式吗？
 [charslot(slot="m",name="avg_npc_1248_1#1$1",focus="m")]
 [name="不悦的农业天师"]哈哈，你想联系他？你可不知道这位前辈，当年就嫌弃我们“尘世聒噪”。真辛苦他忍到完成这篇论文，才远走高飞！
 [charslot(slot="m",name="avg_npc_1248_1#1$1",focus="m")]
@@ -250,11 +250,11 @@
 [charslot(slot="m",name="avg_npc_1248_1#1$1",focus="m")]
 [name="不悦的农业天师"]怎么，是你的哪个课题？非他不可吗？
 [charslot(slot="m",name="avg_4119_wanqin_1#9$1",focus="m")]
-[name="禾生"]嗯。我想培养能机收又喜阴耐寒的“高荚位二号”，但现在怎么都达不到理想数据，已经卡了半年了......
+[name="禾生"]嗯。我想培养能机收又喜阴耐寒的“高荚位二号”，但现在怎么都达不到理想数据，已经卡了半年了……
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
 [name="禾生"]一定有我还没有注意到的地方。
 [charslot(slot="m",name="avg_npc_1248_1#1$1",focus="m")]
-[name="不悦的农业天师"]倒是有个不寻常的路子可以试试。你去查资料库......
+[name="不悦的农业天师"]倒是有个不寻常的路子可以试试。你去查资料库……
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
 [name="禾生"]农业新闻我都查了一遍，并没有看到和这位老前辈相关的。
 [charslot(slot="m",name="avg_npc_1248_1#1$1",focus="m")]
@@ -274,16 +274,16 @@
 [PlaySound(key="$d_avg_drinkswllw",loop=false,channel="d2",delay=1.6)]
 [delay(time=2)]
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
-[name="禾生"]呼——继续。这么多奇闻轶事，眼睛都看花了......看到哪一行了？
+[name="禾生"]呼——继续。这么多奇闻轶事，眼睛都看花了……看到哪一行了？
 [dialog]
 [PlaySound(key="$keyboard", volume=1)]
 [Delay(time=1)]
 [charslot(slot="m",name="avg_4119_wanqin_1#14$1",focus="m")]
-[name="禾生"]《水怪打水仗事件》《七彩祥云竟少了一彩》《枯井中的炒面味》......都毫不相关啊。
+[name="禾生"]《水怪打水仗事件》《七彩祥云竟少了一彩》《枯井中的炒面味》……都毫不相关啊。
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
 [name="禾生"]《会唱戏的云兽》？发给小满看看。
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
-[name="禾生"]《雾中指点迷津的仙人》......出现的日期倒是在那篇论文发布后不久。
+[name="禾生"]《雾中指点迷津的仙人》……出现的日期倒是在那篇论文发布后不久。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
 [name="禾生"]等等，这个现场照片！
 [dialog]
@@ -291,7 +291,7 @@
 禾生凑到屏幕前，将远距离拍摄的照片放到最大，研究着图片中央的那一片田地。
 透过云雾隐约可见地里生长的作物，禾生仔细地辨别着它们，眼睛越睁越大。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
-[name="禾生"]老、老师！我......
+[name="禾生"]老、老师！我……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [CameraEffect(effect="Grayscale", fadetime=0, amount=0, block=true)]
@@ -304,7 +304,7 @@
 无人得见仙人真容，走入迷雾却得其指点迷津，答疑解惑。
 真真假假，虚虚实实，仙人点化，醍醐灌顶。
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
-[name="禾生"]仙人点化......难怪。
+[name="禾生"]仙人点化……难怪。
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
 [name="禾生"]（田地，画圈，一如既往。）
 [charslot(slot="m",name="avg_4119_wanqin_1#5$1",focus="m")]
@@ -322,19 +322,19 @@
 [charslot]
 [name="？？？"]你清清楚楚说了，让他滚？
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]差不多的意思吧哈哈......
+[name="山中小童"]差不多的意思吧哈哈……
 [charslot]
 [name="？？？"]那他怎么还在！他还大模大样在我田里犁起地来了！
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]......看他用来犁地的那便携小机器，还有他衣服上的银色纹样，他和仙人您一样，也是从天师府来的吧？
+[name="山中小童"]……看他用来犁地的那便携小机器，还有他衣服上的银色纹样，他和仙人您一样，也是从天师府来的吧？
 [charslot]
 [name="“仙人”"]哼。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]您早就看出来了。那人似乎需要您为他答疑解惑。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]他很有礼貌，所以我也以礼相待，就用手这样打着圈，礼貌地示意他滚走......啊，难道他把我的手势，理解成了您叫他犁地？
+[name="山中小童"]他很有礼貌，所以我也以礼相待，就用手这样打着圈，礼貌地示意他滚走……啊，难道他把我的手势，理解成了您叫他犁地？
 [charslot]
-[name="“仙人”"]我......！
+[name="“仙人”"]我……！
 [charslot]
 [name="“仙人”"]你听好，这次你一个字都不许改，如此这般对他说——
 [dialog]
@@ -350,17 +350,17 @@
 [Sticker(id="st1", multi = true, text="\n——前农业天师（《大豆高产技术新方向展望》作者）",block = true)]
 [Sticker(id="st1")]
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]......
+[name="山中小童"]……
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
-[name="禾生"]你来了？糟糕，都......这么晚了？！
+[name="禾生"]你来了？糟糕，都……这么晚了？！
 [dialog]
 [charslot]
 禾生局促地擦了擦汗。乍一看到那小童，他才惊觉，他犁地犁得过分投入了，却还没有想出老前辈的这番点化背后的真意。
 此时他就像个忘了做作业被老师抓包的好学生，恨不得钻进天师仪里。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]咳咳......仙人说......
+[name="山中小童"]咳咳……仙人说……
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]你的课题关他......那个......
+[name="山中小童"]你的课题关他……那个……
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
 [name="禾生"]课题？老前辈果然知道我为何而来。然而，刚才的指点，我没有很好地参悟。
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m")]
@@ -368,7 +368,7 @@
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]（“你的课题关我屁事”“没脑子就去吃点核桃补脑”，这种话要怎么说出口啊？！）
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]他说，人贵自立。那个......还有，别光待在田间，是时候离开，去补充点营养了。
+[name="山中小童"]他说，人贵自立。那个……还有，别光待在田间，是时候离开，去补充点营养了。
 [charslot(slot="m",name="avg_4119_wanqin_1#4$1",focus="m")]
 [name="禾生"]营养。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
@@ -392,27 +392,27 @@
 [Delay(time=1.5)]
 水受到搅动发出的声响，还有泼洒水的声音，伴随着一股异味在云雾中弥散开来。
 [charslot]
-[name="山中小童"]唔......（嗅嗅、嗅嗅）......呃......
-[name="山中小童"]什么声音......什么气味......
-[name="山中小童"]这是......啊啊啊啊！！！啊啊啊啊啊！！！
+[name="山中小童"]唔……（嗅嗅、嗅嗅）……呃……
+[name="山中小童"]什么声音……什么气味……
+[name="山中小童"]这是……啊啊啊啊！！！啊啊啊啊啊！！！
 [dialog]
 [Background(image="35_g13_yanlivingroom",screenadapt="coverall")]
 [charslot]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]那个人......那个小伙子，他挑了水回来了，溶解了包肥料，正在施肥啊！
+[name="山中小童"]那个人……那个小伙子，他挑了水回来了，溶解了包肥料，正在施肥啊！
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]怎么回事......啊，难道是我说的，营养？
+[name="山中小童"]怎么回事……啊，难道是我说的，营养？
 [charslot]
 [name="“仙人”"]什么营养？
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
 [name="山中小童"]不不不，没什么。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]总之，可能有一点点怪我......您、您准备怎么骂他？这次我一定，保证，一字不差地转达。
+[name="山中小童"]总之，可能有一点点怪我……您、您准备怎么骂他？这次我一定，保证，一字不差地转达。
 [charslot]
-[name="“仙人”"]......也罢，你一个字都无须对他说，把这个给他。
+[name="“仙人”"]……也罢，你一个字都无须对他说，把这个给他。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]这是您田里的......
+[name="山中小童"]这是您田里的……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
@@ -439,12 +439,12 @@
 [delay(time=2)]
 [stopmusic(fadetime=2)]
 [charslot(slot="l",name="avg_4119_wanqin_1#7$1",focus="l")]
-[name="禾生"]这是......三颗大豆种子？
+[name="禾生"]这是……三颗大豆种子？
 [dialog]
 [charslot]
 禾生看看地里的大豆，看看手里的种子，又看看身边的田地，困惑的眉头慢慢舒展开。
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
-[name="禾生"]......原来如此，醍醐灌顶。老前辈的意思，我全部明白了！
+[name="禾生"]……原来如此，醍醐灌顶。老前辈的意思，我全部明白了！
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
 [name="禾生"]最开始，是因为我无意间锄了田间的杂草，老前辈便引导我犁地、施肥，做这些，全都是为了这一刻——种下这三颗种子。
 [charslot(slot="m",name="avg_4119_wanqin_1#1$1",focus="m")]
@@ -490,11 +490,11 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
 [name="禾生"]老前辈，种子能不能发芽，也许明天就能见分晓了。
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
-[name="禾生"]说实话，我已失败半年，并没有指望这一次就能成功......
+[name="禾生"]说实话，我已失败半年，并没有指望这一次就能成功……
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
 [name="禾生"]也许我的研究方向一直是错的，所以我的种子对阳光的需求太高，苗也长不高，机器收不了。
 [charslot(slot="m",name="avg_4119_wanqin_1#10$1",focus="m")]
-[name="禾生"]其实，我是想来听听老前辈您是怎么种的。我看到您的田里有几株，植株的高度很理想。如果有更多就好了，能带一些种子回去......
+[name="禾生"]其实，我是想来听听老前辈您是怎么种的。我看到您的田里有几株，植株的高度很理想。如果有更多就好了，能带一些种子回去……
 [dialog]
 [Blocker(a=0.2, r=1, g=1, b=1, fadetime=2, block=true)]
 [delay(time=2)]
@@ -507,7 +507,7 @@
 [charslot]
 [charslot(slot="m",name="avg_npc_1643_1#1$1",duration=2)]
 [delay(time=2)]
-[name="山中小童"]那个......我来一字不差复述仙人的话——
+[name="山中小童"]那个……我来一字不差复述仙人的话——
 [dialog]
 [Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.5, block=true)]
 [CameraShake(duration=1, xstrength=7, ystrength=5, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -521,7 +521,7 @@
 [charslot(slot="m",name="avg_4119_wanqin_1#2$1",focus="m")]
 [name="禾生"]数据吗？稍等我查看一下。
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
-[name="山中小童"]放下数据——提醒一下，刚开始的时候，你还往仙人那儿送吃的......
+[name="山中小童"]放下数据——提醒一下，刚开始的时候，你还往仙人那儿送吃的……
 [charslot(slot="m",name="avg_4119_wanqin_1#7$1",focus="m")]
 [name="禾生"]啊，糟糕——
 [charslot(slot="m",name="avg_npc_1643_1#1$1")]
@@ -542,14 +542,14 @@
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 八天后
-[name="禾生"]......
+[name="禾生"]……
 [dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
 [charslot]
 [delay(time=1)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 九天后
-[name="禾生"]......
+[name="禾生"]……
 [Dialog]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1.5, block=true)]
 [Background(image="35_g13_yanlivingroom",screenadapt="coverall")]
@@ -569,7 +569,7 @@
 [charslot]
 [name="“仙人”"]不用。撞上了南墙，他就该踏上归途了。
 [charslot]
-[name="“仙人”"]......
+[name="“仙人”"]……
 [charslot]
 [name="“仙人”"]不过，可不能撞死在我田里。还是去看看。
 [dialog]
@@ -583,7 +583,7 @@
 他有种奇异的感觉，那座永远走不到的木屋似乎变得更远了，消失在了他的视野里，消失在了雾里。
 不只是木屋，身边的一切好像都在远去。栅栏消失了，树林也消失了，他的眼里只剩下这片田地，和头顶这片天空。
 面朝黄土背朝天，最重要的两样东西。
-他似乎能听到，田里正在发出细小的......
+他似乎能听到，田里正在发出细小的……
 [dialog]
 [PlaySound(key="$char_emp", volume=0.9)]
 [CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
@@ -600,9 +600,9 @@
 [charslot]
 [name="？？？"]可惜我田里只有几株大豆？你不想想这么多年了为什么只有几株？！
 [charslot]
-[name="？？？"]不撞南墙不回头，搞什么科研都是完......
+[name="？？？"]不撞南墙不回头，搞什么科研都是完……
 颇有特色的骂声在他看到禾生身边的田地时戛然而止。
-禾生瞪着那个年轻得不像话的......被他喊了十几天“老前辈”的家伙。
+禾生瞪着那个年轻得不像话的……被他喊了十几天“老前辈”的家伙。
 而后者瞪着禾生身边那株冒了头的大豆苗，歪歪扭扭，嫩生生，但确实出苗了。
 [dialog]
 [dialog]
@@ -613,14 +613,14 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=4, block=true)]
 [delay(time=2)]
 禾生望向了天空，雾气散开了，露出了澄澈的苍穹。
-[name="禾生"]老......呃，前辈，我不确定当一棵草是什么感觉......
+[name="禾生"]老……呃，前辈，我不确定当一棵草是什么感觉……
 [charslot]
 [name="“仙人”"]啊？！这是在骂你死脑筋，不是真的让你当棵草！
 [name="禾生"]但是，如果认真听的话，好像能听到——
 [name="禾生"]种子里的芽和根，顶破种皮，向外生长的声音。
 [charslot]
 [name="“仙人”"]那是你饿晕了！幻觉！起来！
-[name="禾生"]不是，我真的能听到......
+[name="禾生"]不是，我真的能听到……
 [charslot]
 仙人啪嗒啪嗒打他的脸。
 [charslot]
@@ -644,7 +644,7 @@
 [PlaySound(key="$d_avg_clothmovement", volume=1)]
 [charslot(slot="m",name="avg_4119_wanqin_1#8$1",focus="m",duration=1)]
 [delay(time=2)]
-[name="禾生"]小满？我......睡着了？
+[name="禾生"]小满？我……睡着了？
 [charslot(slot="m",name="avg_4122_grabds_1#5$1",focus="m")]
 [name="小满"]你叫我来看你的“高荚位三号”第一次收割，你自己倒是在偷懒。
 [charslot(slot="m",name="avg_4122_grabds_1#4$1",focus="m")]

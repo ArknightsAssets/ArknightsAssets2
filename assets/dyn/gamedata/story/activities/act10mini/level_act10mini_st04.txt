@@ -22,32 +22,32 @@
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_329_1#1$1",focus=2)]
 [name="感染者毕恩"]没有，这下面黑灯瞎火的，谁没事往下爬啊。
 [Character(name="avg_220_grani_1#6$1",name2="avg_npc_329_1#1$1",focus=1)]
-[name="格拉尼"]行......我知道了。
+[name="格拉尼"]行……我知道了。
 [Character(name="avg_220_grani_1#2$1")]
-[name="格拉尼"]唉，果然还是不行啊......明明那么可疑。到现在为止，我都已经查到六个被重新启用的废弃结构层出入口了。
+[name="格拉尼"]唉，果然还是不行啊……明明那么可疑。到现在为止，我都已经查到六个被重新启用的废弃结构层出入口了。
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]很多证人也能证明地下通道晚上确实有拖动东西的声音。感染者社区的氛围也不太对劲，总觉得有人在里面动手脚。
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]真的没人有理由启用这些废弃的出入口啊......
+[name="格拉尼"]真的没人有理由启用这些废弃的出入口啊……
 [Character(name="avg_220_grani_1#9$1")]
 [CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
 [name="格拉尼"]（拍了拍脸）
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]算了，还是不想这些了。琐碎的小事和关系城市存亡的大事都一样重要，嗯！
 [Character(name="avg_220_grani_1#1$1")]
-[name="格拉尼"]我看看还有什么......哦对......贝希曼伯爵家的盗窃案。
+[name="格拉尼"]我看看还有什么……哦对……贝希曼伯爵家的盗窃案。
 [Character(name="avg_220_grani_1#6$1")]
 [name="格拉尼"]这要从哪儿开始查起呢。
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]唉......会是谁呢？能从守卫森严的大贵族家偷东西，这不是普通的窃贼能做出来的事。
+[name="格拉尼"]唉……会是谁呢？能从守卫森严的大贵族家偷东西，这不是普通的窃贼能做出来的事。
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]按伯爵家仆人的说法，那个盗贼在感染者社区神出鬼没，那么，他要么非常熟悉感染者社区的地形，要么掌握了特殊的源石技艺。
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]——当然，前提是他们没有为推卸责任而撒谎。
 [Character(name="avg_220_grani_1#1$1")]
-[name="格拉尼"]......嗯，应该不会。最近半个月我听到过很多起类似的报案，卡拉顿城应该确实有那么一个流窜的惯偷。
+[name="格拉尼"]……嗯，应该不会。最近半个月我听到过很多起类似的报案，卡拉顿城应该确实有那么一个流窜的惯偷。
 [Character(name="avg_220_grani_1#1$1")]
-[name="格拉尼"]奇怪的盗贼、特殊的源石技艺......
+[name="格拉尼"]奇怪的盗贼、特殊的源石技艺……
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]算了，去感染者社区看看吧。
 [Dialog]
@@ -63,13 +63,13 @@
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]萨妮大婶？别着急别着急，有什么事吗？
 [Character(name="avg_npc_243")]
-[name="感染者市民"]我的小绒跑丢了，我已经找了两个小时了，快帮我找找它！它那么乖，从来没有瞎跑过，会不会是被什么坏人给......
+[name="感染者市民"]我的小绒跑丢了，我已经找了两个小时了，快帮我找找它！它那么乖，从来没有瞎跑过，会不会是被什么坏人给……
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]别多想，大婶，我马上去帮您找！
 [Character(name="avg_npc_243")]
 [name="感染者市民"]谢谢，谢谢！
 [Character(name="avg_220_grani_1#1$1")]
-[name="格拉尼"]小绒跑丢之前发生过什么吗？您有没有问过周围的人？......啊，大婶，您别急，慢慢说......
+[name="格拉尼"]小绒跑丢之前发生过什么吗？您有没有问过周围的人？……啊，大婶，您别急，慢慢说……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -81,15 +81,15 @@
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]来，萨妮大婶，小绒找到了！
 [Character(name="avg_npc_243")]
-[name="感染者市民"]呀......让我看看。呼，还好还好......没有受伤。真对不起啊，小格拉尼，明知道你工作那么忙，还要用找宠物这样的小事来麻烦你。
+[name="感染者市民"]呀……让我看看。呼，还好还好……没有受伤。真对不起啊，小格拉尼，明知道你工作那么忙，还要用找宠物这样的小事来麻烦你。
 [Character(name="avg_220_grani_1#9$1")]
 [name="格拉尼"]才没有呢。要是小绒真的没了，您要伤心多久呀，这怎么能算是小事呢！
 [Character(name="avg_npc_243")]
-[name="感染者市民"]可是，我听隔壁的老约翰说，你在警备队处境也不是很好，前几天好像还因为什么事被训斥了......
+[name="感染者市民"]可是，我听隔壁的老约翰说，你在警备队处境也不是很好，前几天好像还因为什么事被训斥了……
 [Character(name="avg_220_grani_1#5$1")]
-[name="格拉尼"]哈哈哈......其实也没什么。
+[name="格拉尼"]哈哈哈……其实也没什么。
 [Character(name="avg_220_grani_1#1$1")]
-[name="格拉尼"]不过萨妮大婶，饲养羽兽的话，还是建议用笼子关起来哦......咬到人的话就不好了。
+[name="格拉尼"]不过萨妮大婶，饲养羽兽的话，还是建议用笼子关起来哦……咬到人的话就不好了。
 [Character(name="avg_npc_243")]
 [name="感染者市民"]哎呀，你说的有道理。
 [Character(name="avg_220_grani_1#1$1")]
@@ -97,19 +97,19 @@
 [Character(name="avg_npc_243")]
 [name="感染者市民"]陌生人？这个社区很多人都是从其他城市来的，有陌生人也不奇怪啊。
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]我指的是那种......嗯......比如掌握一些奇怪的源石技艺的感染者？
+[name="格拉尼"]我指的是那种……嗯……比如掌握一些奇怪的源石技艺的感染者？
 [Character(name="avg_npc_243")]
-[name="感染者市民"]这个啊......
+[name="感染者市民"]这个啊……
 [Character(name="avg_npc_243")]
 [name="感染者市民"]上个月感染者社区停电那个事情你知道吧。
 [Character(name="avg_220_grani_1#3$1")]
-[name="格拉尼"]啊！我知道，就是感染者社区的发电机被人恶意破坏那个案子？不过犯人一直没找到......
+[name="格拉尼"]啊！我知道，就是感染者社区的发电机被人恶意破坏那个案子？不过犯人一直没找到……
 [Character(name="avg_220_grani_1#6$1")]
 [name="格拉尼"]但是我听说供电很快就恢复了，有人修好了发电机？
 [Character(name="avg_npc_243")]
 [name="感染者市民"]是！我听说他们找来了一个很厉害的工程术师，几个小时不到就把发电机修好了！但是感染者社区怎么会有这么厉害的工程术师呢？
 [Character(name="avg_220_grani_1#9$1")]
-[name="格拉尼"]是......确实有点奇怪......
+[name="格拉尼"]是……确实有点奇怪……
 [dialog]
 [character]
 [Dialog]
@@ -129,33 +129,33 @@
 [playsound(key="$d_avg_paper1",volume=0.8)]
 [delay(time=1.2)]
 [Character(name="avg_npc_241")]
-[name="警备队长"]嗯，两起盗窃、卡拉顿城流言调查报告......都是什么玩意儿。
+[name="警备队长"]嗯，两起盗窃、卡拉顿城流言调查报告……都是什么玩意儿。
 [PlaySound(key="$d_gen_doorclose",volume=0.6)]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [Delay(time=1)]
 [Character(name="avg_npc_241")]
 [name="警备队长"]贝希曼伯爵家的盗窃案呢！都多久了，进展呢！
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]那个，不是才一天多吗......
+[name="格拉尼"]那个，不是才一天多吗……
 [Character(name="avg_npc_241")]
 [name="警备队长"]一天还不够吗！
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]但......
+[name="格拉尼"]但……
 [Character(name="avg_npc_241")]
 [name="警备队长"]我花大力气借调你的时候，骑警队可是说你是查案的一把好手。结果呢？小小一个失窃，一天时间都不够吗！
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]（小声）明明是城镇议会借调的骑警队......
+[name="格拉尼"]（小声）明明是城镇议会借调的骑警队……
 [Character(name="avg_npc_241")]
 [name="警备队长"]够了！目无尊长，顶撞上级，这就是骑警队的规矩吗！
 [Character(name="avg_220_grani_1#2$1")]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
 [name="格拉尼"]抱歉，长官！
 [Character(name="avg_npc_241")]
-[name="警备队长"]“调查了几个废弃结构层出入口，那些出入口果然很可疑，询问周边的居民......”怎么又是这些事！不是都说了不用管吗？
+[name="警备队长"]“调查了几个废弃结构层出入口，那些出入口果然很可疑，询问周边的居民……”怎么又是这些事！不是都说了不用管吗？
 [Character(name="avg_npc_241")]
 [name="警备队长"]卡拉顿城每天发生的怪事没有一千件也有五百件，要是警备队的每个人都像你这么疑神疑鬼，我早就被烦死了！
 [Character(name="avg_220_grani_1#3$1")]
-[name="格拉尼"]可是长官，这些事如果放着不查的话，真的可能......
+[name="格拉尼"]可是长官，这些事如果放着不查的话，真的可能……
 [Character(name="avg_npc_241")]
 [name="警备队长"]少说那些废话，回去查案！
 [Character(name="avg_220_grani_1#9$1")]
@@ -173,7 +173,7 @@
 [Delay(time=2)]
 1097年11月22日 10:20 A.M.
 [Character(name="avg_220_grani_1#4$1")]
-[name="格拉尼"]唉......
+[name="格拉尼"]唉……
 [Character(name="avg_220_grani_1#5$1")]
 [name="格拉尼"]小~苏~茜~
 [Character(name="avg_220_grani_1#5$1")]
@@ -183,11 +183,11 @@
 [character(name="avg_492_quercu_1#1$1")]
 [name="夏栎"]工作上的事情吧。
 [Character(name="avg_220_grani_1#2$1")]
-[name="格拉尼"]唉......没什么，就是最近工作实在是不顺利。
+[name="格拉尼"]唉……没什么，就是最近工作实在是不顺利。
 [character(name="avg_492_quercu_1#1$1")]
 [name="夏栎"]所以到底遇到什么事了？
 [Character(name="avg_220_grani_1#10$1")]
-[name="格拉尼"]其实也不是什么事......
+[name="格拉尼"]其实也不是什么事……
 [Character(name="avg_220_grani_1#2$1")]
 [name="格拉尼"]最近城里那些传闻，你们都听过吧。
 [character(name="avg_377_gdglow_1#7$1")]
@@ -195,7 +195,7 @@
 [character(name="avg_492_quercu_1#10$1")]
 [name="夏栎"]还是那些吧。什么“城市地下传来异响”“感染者社区隐藏了匪帮”之类的。
 [Character(name="avg_220_grani_1#2$1")]
-[name="格拉尼"]是啊......我本来是想去调查一下的，前几天专门写了报告。
+[name="格拉尼"]是啊……我本来是想去调查一下的，前几天专门写了报告。
 [Character(name="avg_220_grani_1#6$1")]
 [name="格拉尼"]但是警备队的人根本不在乎嘛！都让我不要多管闲事！
 [character(name="avg_377_gdglow_1#7$1")]
@@ -215,7 +215,7 @@
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]所以你明白吗，那个传言如果是真的，就代表晚上有人在废弃的物流通道里干什么见不得人的事情哦。
 [character(name="avg_377_gdglow_1#6$1")]
-[name="苏茜"]唉......听起来有点吓人？
+[name="苏茜"]唉……听起来有点吓人？
 [Character(name="avg_220_grani_1#6$1")]
 [name="格拉尼"]可惜现在还没有什么直接证据就是了。
 [character(name="avg_492_quercu_1#1$1")]
@@ -223,11 +223,11 @@
 [character(name="avg_492_quercu_1#1$1")]
 [name="夏栎"]回头真出了什么事情，都是他们偷懒不干活，你怕什么。
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]话是这样说啦......
+[name="格拉尼"]话是这样说啦……
 [Character(name="avg_220_grani_1#2$1")]
-[name="格拉尼"]唉，现在是巡逻时间，我在这里待着也算是偷懒吧......
+[name="格拉尼"]唉，现在是巡逻时间，我在这里待着也算是偷懒吧……
 [character(name="avg_377_gdglow_1#10$1")]
-[name="苏茜"]哈哈哈......我们不会告诉别人啦。
+[name="苏茜"]哈哈哈……我们不会告诉别人啦。
 [Character(name="avg_220_grani_1#5$1")]
 [name="格拉尼"]小~苏~茜~
 [Character(name="avg_220_grani_1#5$1")]
@@ -252,16 +252,16 @@
 在她眼前，那间充满人情味的小店——屋顶垮落，墙壁崩塌，只剩下一片焦黑的残骸。
 她茫然地看着眼前的废墟，不敢相信自己的眼睛。
 [Character(name="avg_220_grani_1#4$1")]
-[name="格拉尼"]......为什么会？？
+[name="格拉尼"]……为什么会？？
 [Character(name="avg_220_grani_1#4$1")]
-[name="格拉尼"]为......为什么？？为什么会......
+[name="格拉尼"]为……为什么？？为什么会……
 [dialog]
 [character]
 [playsound(key="$d_gen_walk_n")]
 [delay(time=1.2)]
 [name="消防队成员"]啊，你来了，格拉尼小姐？
 [Character(name="avg_220_grani_1#4$1")]
-[name="格拉尼"]这，这是怎么回事？？为什么这家店......
+[name="格拉尼"]这，这是怎么回事？？为什么这家店……
 [dialog]
 [character]
 [name="消防队成员"]我也觉得离谱啊，你说在这种地方纵火，只可能是有仇了。
@@ -279,7 +279,7 @@
 [name="格拉尼"]到底是什么人干的！
 愤怒。
 她握紧了自己的拳头。
-几乎每周都会光顾的小酒吧，那位可爱的店员小姐，那些有趣的客人......在这个城市中难得的休憩之地，现在已经化为一片焦燃废墟。
+几乎每周都会光顾的小酒吧，那位可爱的店员小姐，那些有趣的客人……在这个城市中难得的休憩之地，现在已经化为一片焦燃废墟。
 难以遏制的愤怒充斥着格拉尼的脑海——她很少如此愤怒。
 无论犯人是谁，自己都要把他绳之以法。
 [dialog]
@@ -294,27 +294,27 @@
 [character]
 [name="消防队成员"]早上警备队的人就来过了，他们检查了一圈，定性为意外失火，就都走了。
 [Character(name="avg_220_grani_1#3$1")]
-[name="格拉尼"]意外失火？可是刚才你不是说......
+[name="格拉尼"]意外失火？可是刚才你不是说……
 [dialog]
 [character]
 [name="消防队成员"]那只是我们消防队的意见，毕竟我们在现场确实发现了很多东西，比如这个。
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]这是什么......爆炸物的残留？
+[name="格拉尼"]这是什么……爆炸物的残留？
 [dialog]
 [character]
 [name="消防队成员"]是啊，但是警备队让我们别多事，我就没说什么了。
 [dialog]
 [character]
-[name="消防队成员"]感染者社区的事情......反正也没什么人管，多一事不如少一事。
+[name="消防队成员"]感染者社区的事情……反正也没什么人管，多一事不如少一事。
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]这些证物能交给我吗？
 [dialog]
 [character]
-[name="消防队成员"]可以啊，我还正觉得它们烫手，自己不该拿着......反正你也是警备队的人。
+[name="消防队成员"]可以啊，我还正觉得它们烫手，自己不该拿着……反正你也是警备队的人。
 [Character(name="avg_220_grani_1#6$1")]
-[name="格拉尼"]我看看......
+[name="格拉尼"]我看看……
 [Character(name="avg_220_grani_1#9$1")]
-[name="格拉尼"]不对......这是军用燃烧弹的碎片！以前在骑警队训练的时候见过这种东西。
+[name="格拉尼"]不对……这是军用燃烧弹的碎片！以前在骑警队训练的时候见过这种东西。
 [Character(name="avg_220_grani_1#6$1")]
 [name="格拉尼"]这些碎片，有点眼熟？
 [Dialog]
@@ -334,7 +334,7 @@
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=1)]
 [name="格拉尼"]咱们又见面了，昴德先生？
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=2)]
-[name="大嗓门男人"]骑......骑警？？？
+[name="大嗓门男人"]骑……骑警？？？
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=1)]
 [name="格拉尼"]刚被放出来？我以为他们会拘留得更久一点呢。
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=2)]
@@ -346,7 +346,7 @@
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=1)]
 [name="格拉尼"]还记得前几天我抓你的时候，收缴的赃物里的那个燃烧弹吗？
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=2)]
-[name="大嗓门男人"]......
+[name="大嗓门男人"]……
 [Character(name="avg_220_grani_1#9$1",name2="avg_npc_195",focus=1)]
 [name="格拉尼"]你之前说自己只买了一个“防身用”的燃烧弹。
 [Character(name="avg_220_grani_1#9$1",name2="avg_npc_195",focus=1)]
@@ -370,15 +370,15 @@
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=2)]
 [name="大嗓门男人"]这些燃烧弹也、也是我从沸区黑市上买的！我说的都是真的！
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=2)]
-[name="大嗓门男人"]但是黑市那个商人说，自己有门路直接从工厂弄一些货物......
+[name="大嗓门男人"]但是黑市那个商人说，自己有门路直接从工厂弄一些货物……
 [Character(name="avg_220_grani_1#6$1",name2="avg_npc_195",focus=1)]
-[name="格拉尼"]（卡拉顿的工厂......似乎只有贝希曼伯爵有一家制造军用物资的工厂......）
+[name="格拉尼"]（卡拉顿的工厂……似乎只有贝希曼伯爵有一家制造军用物资的工厂……）
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=1)]
 [name="格拉尼"]丹顿兄弟，你知道这两个人在哪吗？
 [Character(name="avg_220_grani_1#1$1",name2="avg_npc_195",focus=2)]
-[name="大嗓门男人"]我......我不清楚，我只知道他们经常混迹在沸区......
+[name="大嗓门男人"]我……我不清楚，我只知道他们经常混迹在沸区……
 [Character(name="avg_220_grani_1#6$1",name2="avg_npc_195",focus=1)]
-[name="格拉尼"]沸区啊......
+[name="格拉尼"]沸区啊……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -399,7 +399,7 @@
 [Character(name="avg_npc_241")]
 [name="警备队长"]电路短路、得罪帮派、被雷劈了，我还能想出一百个理由。最后查下来根本没有犯人，这段时间耽误的案子谁负责？你吗？
 [Character(name="avg_220_grani_1#2$1")]
-[name="格拉尼"]......
+[name="格拉尼"]……
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]那这些证据呢？这些军用燃烧弹是贝希曼议员的工厂生产的，这些本来是提供给维多利亚军队的物资！但是这些武器却流入了黑市！
 [Character(name="avg_220_grani_1#9$1")]
@@ -417,7 +417,7 @@
 [Character(name="avg_220_grani_1#9$1")]
 [name="格拉尼"]你觉得你能骗过谁？贝希曼伯爵是你的亲戚，对吧？
 [Character(name="avg_npc_241")]
-[name="警备队长"]你......你！
+[name="警备队长"]你……你！
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]你这样的人，到底是怎么坐到警备队长这个位置上的？
 [Character(name="avg_220_grani_1#1$1")]
@@ -431,7 +431,7 @@
 [Character(name="avg_220_grani_1#9$1")]
 [name="格拉尼"]我是被城镇议会借调来的骑警队成员！我现在就是卡拉顿城骑警队的负责人，我和你是平级的！你本来就无权向我下达命令！
 [Character(name="avg_npc_241")]
-[name="警备队长"]......好啊！我就知道你们这些乡巴佬......
+[name="警备队长"]……好啊！我就知道你们这些乡巴佬……
 [Character(name="avg_npc_241")]
 [name="警备队长"]你等着，你等大公爵从伦蒂尼姆回来，我要好好汇报一下你们“骑警队”的工作态度！
 [Character(name="avg_220_grani_1#9$1")]
@@ -441,7 +441,7 @@
 [character(fadetime=0.5)]
 [delay(time=1)]
 [Character(name="avg_npc_241")]
-[name="警备队长"]低贱的杂耍艺人、该死的破落户......你等大公爵回来，有的是你好果子吃！
+[name="警备队长"]低贱的杂耍艺人、该死的破落户……你等大公爵回来，有的是你好果子吃！
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -460,7 +460,7 @@
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
 [name="魁梧的黑衣人"]那现在怎么办？
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
-[name="鬼祟的黑衣人"]再等等......如果到今天晚上都还没有消息，咱们提前撤。
+[name="鬼祟的黑衣人"]再等等……如果到今天晚上都还没有消息，咱们提前撤。
 [dialog]
 [PlaySound(key="$dooropenquite", volume=1)]
 [Delay(time=1)]
@@ -470,7 +470,7 @@
 [character]
 [name="酒保"] 请问有什么能帮到您的？
 [Character(name="avg_220_grani_1#1$1")]
-[name="格拉尼"]您好，我在寻找两个叫作“丹顿兄弟”的人，有人说看到他们偶尔在这间酒吧出没......
+[name="格拉尼"]您好，我在寻找两个叫作“丹顿兄弟”的人，有人说看到他们偶尔在这间酒吧出没……
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
 [name="魁梧的黑衣人"]坏了！怎么警备队都找到这里来了！
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
@@ -478,7 +478,7 @@
 [Character(name="avg_220_grani_1#7$1")]
 [name="格拉尼"]哈！找到你们了！
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
-[name="魁梧的黑衣人"]那么这位......啊，这位骑警小姐，您找我们兄弟俩有什么事吗？
+[name="魁梧的黑衣人"]那么这位……啊，这位骑警小姐，您找我们兄弟俩有什么事吗？
 [Character(name="avg_220_grani_1#1$1")]
 [name="格拉尼"]麻烦两位和我一起去一趟警备队，有关24日清晨的感染者社区纵火案，我有一些事情想要问你们。
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
@@ -500,7 +500,7 @@
 [Character(name="avg_220_grani_1#2$1")]
 [name="格拉尼"]（叹气）
 [Character(name="avg_220_grani_1#9$1")]
-[name="格拉尼"]（九个人......回头的书面报告可有的写了......）
+[name="格拉尼"]（九个人……回头的书面报告可有的写了……）
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -548,7 +548,7 @@
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
 [name="鬼祟的黑衣人"]别废话了。
 [character(name="avg_npc_045_nn_1")]
-[name="“女巫”小敏"]你们......是什么人？
+[name="“女巫”小敏"]你们……是什么人？
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
 [name="鬼祟的黑衣人"]谁？？
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
@@ -558,7 +558,7 @@
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
 [name="鬼祟的黑衣人"]让她闭嘴！那个骑警就在外面！
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
-[name="魁梧的黑衣人"]臭小鬼，你最好给我......
+[name="魁梧的黑衣人"]臭小鬼，你最好给我……
 [character(name="avg_npc_045_nn_1")]
 [name="“女巫”小敏"]我懂了！你们是坏人！
 稚嫩的女巫伸出了右手，青紫色的霹雳在她的手中跳跃。
@@ -579,7 +579,7 @@
 [delay(time=1.5)]
 [name="格拉尼"]（可恶，跑到哪儿去了？）
 [Character(name="avg_220_grani_1#1$1")]
-[name="格拉尼"]您好......请问你们有没有看到......
+[name="格拉尼"]您好……请问你们有没有看到……
 [dialog]
 [character]
 [PlaySound(key="$sheildimpact")]
@@ -588,7 +588,7 @@
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
 [name="鬼祟的黑衣人"]烫烫烫！这臭小鬼！
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
-[name="魁梧的黑衣人"]*粗口*，混账感染者，我要把她......
+[name="魁梧的黑衣人"]*粗口*，混账感染者，我要把她……
 [Character(name="avg_220_grani_1#7$1")]
 [name="格拉尼"]好啊！你们俩原来躲在这了。
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
@@ -737,7 +737,7 @@
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=2)]
 [name="鬼祟的黑衣人"]你傻啊！你先把燃烧弹丢到里屋去，我们趁着烧起来之前溜出去，回头房子烧起来，那个骑警也不敢追我们，一举两得！
 [Character(name="avg_npc_031",name2="avg_npc_031",focus=1)]
-[name="魁梧的黑衣人"]有道理！让我看看......
+[name="魁梧的黑衣人"]有道理！让我看看……
 [dialog]
 [character]
 魁梧的黑衣人拉开了军用燃烧弹的拉环，丢到了漆黑小屋的深处。
@@ -769,7 +769,7 @@
 [delay(time=2)]
 折叠式军用长枪如闪电般射出，击碎了十几厘米厚的水泥墙壁，撕裂了墙体。
 [character]
-然而下一刻......
+然而下一刻……
 [dialog]
 [CameraShake(duration=1, ystrength=40, vibrato=30, randomness=90, fadeout=true, block=false)]
 [PlaySound(key="$d_gen_explo_n")]
@@ -788,9 +788,9 @@
 原本废弃小屋的位置，如同被高速战舰炮击过一般，只剩下一个冒着浓烟的巨大坑洞。
 嫌疑犯、证据与真相，都与那间废弃小屋一同化为黑烟随风飘走。
 [Character(name="avg_220_grani_1#3$1")]
-[name="格拉尼"]......？？？
+[name="格拉尼"]……？？？
 [Character(name="avg_220_grani_1#9$1")]
-[name="格拉尼"]什......什么情况？？
+[name="格拉尼"]什……什么情况？？
 [dialog]
 [character]
 被爆炸气浪掀翻在地的维多利亚骑警一脸茫然地看着眼前的一切，此刻的她尚未反应过来发生了什么。

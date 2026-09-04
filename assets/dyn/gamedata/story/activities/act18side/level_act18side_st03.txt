@@ -9,13 +9,13 @@
 [delay(time=2)]
 [name="？？？"]这就是全部了？
 [name="沉稳的贵族"]绝无一丝隐瞒。
-[name="？？？"]这种处理方式......倒也有些出乎意料。
+[name="？？？"]这种处理方式……倒也有些出乎意料。
 [name="沉稳的贵族"]现在该怎么办？
 [name="？？？"]怎么办？不怎么办。
 [name="？？？"]这件事本来就和你无关，现在不过是改了改对涉事领地的处置，能和你扯上任何关系吗？
-[name="沉稳的贵族"]您说得是。可这样一来，那些感染者得以继续在那个地块上生活，难保他们不乱说......
+[name="沉稳的贵族"]您说得是。可这样一来，那些感染者得以继续在那个地块上生活，难保他们不乱说……
 [name="？？？"]那又如何？谁会相信一群感染者的胡言乱语？
-[name="沉稳的贵族"]那我们接下来......
+[name="沉稳的贵族"]那我们接下来……
 [name="？？？"]接下来？
 [name="？？？"]不必着急，该做的事情还有很多。
 [Dialog]
@@ -27,7 +27,7 @@
 [Background(image="bg_ltroom",screenadapt="showall")]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]	
-[name="恭谨的侍从"]......以上就是这次事件的最终报告。
+[name="恭谨的侍从"]……以上就是这次事件的最终报告。
 [Character(name="avg_npc_487_1#1$1")]
 [name="女性"]辛苦你了。
 [name="女性"]那个叫车尔尼的，他在这次事件中作的那首曲子，你们找来了吗？
@@ -39,7 +39,7 @@
 [playMusic(intro="$leithanien_intro", key="$leithanien_loop", volume=0.4)]
 [Character(name="avg_npc_487_1#2$1")]
 [delay(time=2)]
-[name="女性"]......
+[name="女性"]……
 [Character(name="avg_npc_487_1#1$1")]
 [name="女性"]不错，我甚至能听见他作曲时发自心底的吼声。
 [Character(name="avg_npc_487_1#9$1")]
@@ -67,7 +67,7 @@
 [name="颓废的感染者"]按行板的说法，他们彻底调查了这一现象，发现在事件中活性化的源石，几乎全部进入了持续的低活性状态。
 [name="颓废的感染者"]换句话说，我还能晃悠一阵子。
 [Character(name="avg_npc_496_1#1$1",name2="avg_npc_498_1#1$1",focus=1)]
-[name="紧张的感染者"]太好了......
+[name="紧张的感染者"]太好了……
 [name="紧张的感染者"]对了，行板知道公爵大人打算拿夕照区怎么办吗？
 [Character(name="avg_npc_496_1#1$1",name2="avg_npc_498_1#1$1",focus=2)]
 [name="颓废的感染者"]她也是听说的，说是女皇之声要求公爵大人不能动夕照区。
@@ -76,8 +76,8 @@
 [Character(name="avg_npc_496_1#1$1",name2="avg_npc_498_1#1$1",focus=2)]
 [name="颓废的感染者"]小点声！
 [Character(name="avg_npc_496_1#1$1",name2="avg_npc_498_1#1$1",focus=1)]
-[name="紧张的感染者"]......
-[name="紧张的感染者"]唉，这以后的日子该怎么过啊......
+[name="紧张的感染者"]……
+[name="紧张的感染者"]唉，这以后的日子该怎么过啊……
 [Character(name="avg_npc_496_1#1$1",name2="avg_npc_498_1#1$1",focus=2)]
 [name="颓废的感染者"]闭嘴吧，你还嫌事情不够大是不是？
 [name="颓废的感染者"]以后的日子？过一天算一天罢了。
@@ -96,10 +96,10 @@
 [Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
 [Delay(time=2)]	
 [Character(name="avg_npc_501_1#1$1",focus=1)]
-[name="行板"]......
+[name="行板"]……
 [name="行板"]芙蓉，我现在算是理解了，有些事还是不知道比较轻松。
 [name="行板"]等处理完这里的后续工作，我还是申请调动到其他地方好了。
-[name="行板"]或者去本舰上看看，应该也不错......
+[name="行板"]或者去本舰上看看，应该也不错……
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
@@ -112,15 +112,15 @@
 [name="别格勒"]站住。
 [name="别格勒"]为了找你，我们也费了不少功夫。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=2)]
-[name="爷爷"]......
+[name="爷爷"]……
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=1)]
 [name="别格勒"]有什么想说的吗？
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=2)]
-[name="爷爷"]......是你的人骗白垩来维谢海姆的吧。
+[name="爷爷"]……是你的人骗白垩来维谢海姆的吧。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=1)]
-[name="别格勒"]......
+[name="别格勒"]……
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=2)]
-[name="爷爷"]除了音乐会的报酬之外，告诉他的全是真话，就为了把急着赚钱给我治病的他引到这个局里来......
+[name="爷爷"]除了音乐会的报酬之外，告诉他的全是真话，就为了把急着赚钱给我治病的他引到这个局里来……
 [name="爷爷"]可是他和你无冤无仇，你为什么这么做？！
 [character(name="avg_npc_486_1#2$1",name2="avg_npc_495_1#6$1",focus=1)]
 [name="别格勒"]要是听了内情，我就不能放你走了。
@@ -144,10 +144,10 @@
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=2)]
 [name="爷爷"]如果黑键他们没发现夕照厅里的扩音器，你怎么办？
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=1)]
-[name="别格勒"]......还能怎么办？
+[name="别格勒"]……还能怎么办？
 [name="别格勒"]夕照区什么样，我就什么样。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=2)]
-[name="爷爷"]......我没什么好问的了。
+[name="爷爷"]……我没什么好问的了。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#6$1",focus=1)]
 [name="别格勒"]那就跟我走吧。
 [character(name="avg_npc_486_1#1$1",name2="avg_npc_495_1#4$1",focus=2)]
@@ -180,29 +180,29 @@
 [character(name="char_1011_purgatory_1#5")]
 [name="炎熔"]是谁和一帮听信了谣言的人对峙，是谁明知道自己会受尘世之音影响还不撤离，是谁连法术都没怎么学过就和人以命相搏的啊！
 [character(name="avg_1024_hbisc2_1#3$1")]
-[name="芙蓉"]我记得我没给你讲过这些......
+[name="芙蓉"]我记得我没给你讲过这些……
 [character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]我去找过车尔尼先生了！他告诉我的！
 [character(name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]呃......如果你想知道事情经过，直接来问我不好吗？
+[name="芙蓉"]呃……如果你想知道事情经过，直接来问我不好吗？
 [character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]我其实是想问问那位在莱塔尼亚教过我钢琴的约翰老师的事，和车尔尼先生聊起来才知道，你差点——
 [character(name="char_1011_purgatory_1#1")]
-[name="炎熔"]差点就......
-[name="炎熔"]......
+[name="炎熔"]差点就……
+[name="炎熔"]……
 [character(name="char_1011_purgatory_1#2")]
-[name="炎熔"]——我警告你！下次再有这种事，你绝对不许逞能！你......你听见了吗，听见了吗！
+[name="炎熔"]——我警告你！下次再有这种事，你绝对不许逞能！你……你听见了吗，听见了吗！
 [character(name="avg_1024_hbisc2_1#10$1")]
 [name="芙蓉"]别哭啦，我这不是好好的嘛。
 [character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]可你的感染程度——！
 [character(name="avg_1024_hbisc2_1#8$1")]
-[name="芙蓉"]确实因为尘世之音加深了不少，但已经控制住了，所以......
+[name="芙蓉"]确实因为尘世之音加深了不少，但已经控制住了，所以……
 [character(name="char_1011_purgatory_1#1")]
 [name="炎熔"]不行，控制住也不行！你总是让我注意身体，可是到了自己身上，就什么都不管了！
-[name="炎熔"]你要是......不在了，我、我、我......
+[name="炎熔"]你要是……不在了，我、我、我……
 [character(name="avg_1024_hbisc2_1#4$1")]
-[name="芙蓉"]......
+[name="芙蓉"]……
 [character(name="avg_1024_hbisc2_1#1$1")]
 [name="芙蓉"]小炎熔，姐姐保证，一定会更加留心保护自己的，好不好？
 [character(name="char_1011_purgatory_1#4")]
@@ -233,7 +233,7 @@
 [character(name="char_1011_purgatory_1#3")]
 [name="炎熔"]我不信！你吹来听听嘛！
 [character(name="avg_1024_hbisc2_1#3$1")]
-[name="芙蓉"]那......我真的吹了？
+[name="芙蓉"]那……我真的吹了？
 [character(name="char_1011_purgatory_1#3")]
 [name="炎熔"]好！
 [Dialog]
@@ -270,7 +270,7 @@
 [name="车尔尼"]如您所说，我最近更加深刻地感受到了这一点。
 [Predicate(references="3")]
 [Character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [Predicate(references="1;2;3")]
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]您找我到这里来所为何事？
@@ -291,7 +291,7 @@
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]博士，在被芙蓉搀着去音乐厅的时候，我已经做好赴死的准备了。
 [Character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]虽然出了这么多波折，事件的结果也和我天真的预想大相径庭，但我却......活下来了。
+[name="车尔尼"]虽然出了这么多波折，事件的结果也和我天真的预想大相径庭，但我却……活下来了。
 [name="车尔尼"]这种感觉实在是有些奇妙，我却无法很好地表达出来，无论通过话语还是音乐都不行。
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]我不奢求在战场上找到将其表达出来的方法，但我想，用一种完全不同的方式为感染者奋斗，也许对我更有好处。
@@ -318,7 +318,7 @@
 [Decision(options="按照莱塔尼亚的官方口径，他确实已经死了。;他活得好好的，给他一些时间吧。;讽刺的是，这反倒助成了我们和莱塔尼亚的合作。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [Character(name="avg_4047_pianst_1#2$1")]
-[name="车尔尼"]......您说得对。
+[name="车尔尼"]……您说得对。
 [Character(name="avg_4047_pianst_1#1$1")]
 [name="车尔尼"]那么，我先走了，博士。
 [Dialog]
@@ -328,14 +328,14 @@
 [Decision(options="您要见见他吗？", values="1")]
 [Predicate(references="1")]
 [Character(name="avg_4047_pianst_1#5$1")]
-[name="车尔尼"]......
+[name="车尔尼"]……
 [Character(name="avg_4047_pianst_1#2$1")]
 [name="车尔尼"]不必了。这件事对他的伤害之大，我甚至不敢说自己能理解，也只能想象了。
 [name="车尔尼"]等他什么时候愿意见我或芙蓉了，那时候再说吧。
 [name="车尔尼"]再见，博士。
 [Dialog]
 [Character(name="avg_4047_pianst_1#2$1",focus=-1)]
-[Decision(options="再见。;......;期待您在战斗之余创作出不输以往的音乐。", values="1;2;3")]
+[Decision(options="再见。;……;期待您在战斗之余创作出不输以往的音乐。", values="1;2;3")]
 [Predicate(references="1;2;3")]
 [dialog]
 [Character(name="avg_4047_pianst_1#2$1")]
@@ -360,7 +360,7 @@
 [name="黑键"]博士？亏你能找到我。
 [Dialog]
 [character(name="avg_4046_ebnhlz_1#3$2",focus=-1)]
-[Decision(options="这里很适合吹风。很减压。;......;有干员在这儿见过你。", values="1;2;3")]
+[Decision(options="这里很适合吹风。很减压。;……;有干员在这儿见过你。", values="1;2;3")]
 [Predicate(references="1")]
 [character(name="avg_4046_ebnhlz_1#2$2")]
 [name="黑键"]我没什么压力可减。
@@ -393,13 +393,13 @@
 [Dialog]
 [Decision(options="需要陪拆服务吗？", values="1")]
 [Predicate(references="1")] 
-[name="黑键"]......你还挺有趣的。
+[name="黑键"]……你还挺有趣的。
 [Dialog]
 [Decision(options="过奖。", values="1")]
 [Predicate(references="1")] 
-[name="黑键"]很难想象你指挥作战的时候是什么样的......也像现在这样不正经？
+[name="黑键"]很难想象你指挥作战的时候是什么样的……也像现在这样不正经？
 [Dialog]
-[Decision(options="哈哈。;......;我不介意在你出任务的时候更不正经一些。", values="1;2;3")]
+[Decision(options="哈哈。;……;我不介意在你出任务的时候更不正经一些。", values="1;2;3")]
 [Predicate(references="1")] 
 [name="黑键"]这是你感到尴尬时的标准反应？
 [Dialog]
@@ -423,10 +423,10 @@
 [stopmusic(fadetime=4)]
 [PlaySound(key="$d_avg_paper1", volume=1)]
 [delay(time=1)]
-[name="黑键"]这是......莱塔尼亚平民黑键的护照。
-[name="黑键"]白垩的......还有乌提卡伯爵的......死亡证明。
+[name="黑键"]这是……莱塔尼亚平民黑键的护照。
+[name="黑键"]白垩的……还有乌提卡伯爵的……死亡证明。
 [name="黑键"]嗯？还有什么？
-[name="黑键"]......信？
+[name="黑键"]……信？
 [Dialog]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
@@ -455,7 +455,7 @@
 [stickerclear]
 [delay(time=2)]
 [Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-[name="黑键"]没签名......匿名信？
+[name="黑键"]没签名……匿名信？
 [name="黑键"]很符合我对她的印象。
 [StopSound(channel="bgs", fadetime=4)]
 [PlaySound(key="$d_avg_paper2", volume=1)]
@@ -480,8 +480,8 @@
 [Sticker(id="st1")]
 [Sticker(id="st2")]
 [Sticker(id="st3")]
-[Sticker(id="st4", text="<i>我的心充满......</i>", x=290, y=290, alignment="left", size=24, delay=0.04, width=700)]
-[Sticker(id="st5", text="<i>充满......</i>", x=290, y=330, alignment="left", size=24, delay=0.04, width=700)]
+[Sticker(id="st4", text="<i>我的心充满……</i>", x=290, y=290, alignment="left", size=24, delay=0.04, width=700)]
+[Sticker(id="st5", text="<i>充满……</i>", x=290, y=330, alignment="left", size=24, delay=0.04, width=700)]
 [Sticker(id="st6", text="<i>希望。</i>", x=290, y=370, alignment="left", size=24, delay=0.04, width=700)]
 [stickerclear]
 [delay(time=3)]
