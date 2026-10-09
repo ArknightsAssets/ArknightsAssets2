@@ -1,0 +1,48 @@
+
+trap_332_blkcan.png
+size: 180,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 43
+  size: 67, 112
+  orig: 67, 116
+  offset: 0, 0
+  index: -1
+Body_a
+  rotate: false
+  xy: 140, 28
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+Fire_A
+  rotate: 180
+  xy: 68, 69
+  size: 72, 84
+  orig: 72, 84
+  offset: 0, 0
+  index: -1
+Fire_B
+  rotate: 270
+  xy: 2, 4
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+Fire_C
+  rotate: false
+  xy: 62, 11
+  size: 79, 61
+  orig: 81, 61
+  offset: 2, 0
+  index: -1
+Fire_D
+  rotate: true
+  xy: 127, 79
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
