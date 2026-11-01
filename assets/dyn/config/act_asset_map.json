@@ -1,6 +1,6 @@
 {
   "isTrimed": true,
-  "code": 568,
+  "code": 578,
   "aspects": {
     "ZONE_MAP": {
       "permanent_sub_2_zone1": {
@@ -43,13 +43,17 @@
         "resPath": "Retro/permanent_sidestory_3_Code_Of_Brawl/zone_map_permanent_sidestory_3_zone1",
         "activity": "permanent_sidestory_3_code_of_brawl"
       },
-      "act52side_zone1": {
-        "resPath": "Activity/[UC]act52side/ZoneMaps/zone_map_act52side_zone1",
-        "activity": "act52side"
+      "act55side_zone1": {
+        "resPath": "Activity/[UC]act55side/ZoneMaps/zone_map_act55side_zone1",
+        "activity": "act55side"
       },
-      "act52side_zone2": {
-        "resPath": "Activity/[UC]act52side/ZoneMaps/zone_map_act52side_zone2",
-        "activity": "act52side"
+      "act55side_zone2": {
+        "resPath": "Activity/[UC]act55side/ZoneMaps/zone_map_act55side_zone2",
+        "activity": "act55side"
+      },
+      "act55side_zone3": {
+        "resPath": "Activity/[UC]act55side/ZoneMaps/zone_map_act55side_zone3",
+        "activity": "act55side"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -80,20 +84,20 @@
       }
     },
     "TEMPLATE_SHOP": {
-      "templateshop_shop_act52side": {
-        "resPath": "Activity/[UC]act52side/Prefabs/act52side_template_shop",
-        "activity": "act52side"
+      "templateshop_shop_act55side": {
+        "resPath": "Activity/[UC]act55side/Prefabs/act55side_template_shop",
+        "activity": "act55side"
       },
-      "title_shop_act52side": {
-        "resPath": "Activity/[UC]act52side/Prefabs/act52side_template_shop",
-        "activity": "act52side"
+      "title_shop_act55side": {
+        "resPath": "Activity/[UC]act55side/Prefabs/act55side_template_shop",
+        "activity": "act55side"
       }
     },
     "BATTLE": {},
     "SQUAD_HOME_PLUGIN": {
-      "act3break": {
-        "resPath": "Activity/[UC]act3break/Prefabs/act3break_squad_plugin_view",
-        "activity": "act3break"
+      "act55side": {
+        "resPath": "Activity/[UC]act55side/act55side_squad_plugin_view",
+        "activity": "act55side"
       }
     },
     "HOME_TOPBAR": {},
@@ -112,13 +116,13 @@
       }
     },
     "TEMPLATE_MISSION": {
-      "act52side_custom_mission_res_holder": {
-        "resPath": "Activity/[UC]act52side/Prefabs/act52side_mission_view_holder",
-        "activity": "act52side"
+      "act55side_custom_mission_res_holder": {
+        "resPath": "Activity/[UC]act55side/Prefabs/act55side_mission_view_holder",
+        "activity": "act55side"
       },
-      "act52side_custom_mission_view_holder": {
-        "resPath": "Activity/[UC]act52side/Prefabs/act52side_mission_view_holder",
-        "activity": "act52side"
+      "act55side_custom_mission_view_holder": {
+        "resPath": "Activity/[UC]act55side/Prefabs/act55side_mission_view_holder",
+        "activity": "act55side"
       }
     },
     "CUSTOM_ZONE_CONTAINER": {},
