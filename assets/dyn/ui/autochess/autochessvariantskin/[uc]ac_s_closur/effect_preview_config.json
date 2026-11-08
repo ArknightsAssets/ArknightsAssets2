@@ -1,0 +1,317 @@
+{
+  "effct_closur_1": {
+    "targets": [
+      {
+        "componentKey": "help_battle",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {}
+          }
+        ]
+      },
+      {
+        "componentKey": "hud_player_info",
+        "routes": [
+          {
+            "routeKey": "hud_stage",
+            "viewData": {
+              "round": 12,
+              "playerHp": 120,
+              "playerTotalHp": 120,
+              "lostHpDisplay": 8,
+              "isInBossRound": false,
+              "triggerLoseHpAnim": false
+            }
+          },
+          {
+            "routeKey": "hud_coop",
+            "viewData": {
+              "enemyCurCount": 3,
+              "enemyTotalCount": 5,
+              "lostEnemyCnt": 0,
+              "triggerLostEnemyAnim": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_2": {
+    "targets": [
+      {
+        "componentKey": "effect_choose_self_select",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "titleTextRes": "AUTO_CHESS_SP_PREPARE_SELF_CHOOSE_BANNER_TIP"
+            }
+          }
+        ]
+      },
+      {
+        "componentKey": "countdown_effectchoose",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "phase": "COUNTDOWN",
+              "showTimer": true,
+              "remainSeconds": 3,
+              "totalTime": 3,
+              "hintTime": 1
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_3": {
+    "targets": [
+      {
+        "componentKey": "round_result",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "lostHp": 3,
+              "isAllPerfect": false
+            }
+          }
+        ]
+      },
+      {
+        "componentKey": "hud_player_info",
+        "routes": [
+          {
+            "routeKey": "hud_stage",
+            "viewData": {
+              "round": 12,
+              "playerHp": 117,
+              "playerTotalHp": 120,
+              "lostHpDisplay": 3,
+              "triggerLoseHpAnim": false
+            }
+          },
+          {
+            "routeKey": "hud_battle",
+            "viewData": {
+              "enemyCurCount": 2,
+              "enemyTotalCount": 5,
+              "lostEnemyCnt": 0,
+              "triggerLostEnemyAnim": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_4": {
+    "targets": [
+      {
+        "componentKey": "round_start",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "round": 8,
+              "gold": 99,
+              "remainRoundCnt": 0
+            }
+          }
+        ]
+      },
+      {
+        "componentKey": "hud_player_info",
+        "routes": [
+          {
+            "routeKey": "hud_stage",
+            "viewData": {
+              "round": 8,
+              "playerHp": 120,
+              "playerTotalHp": 120,
+              "lostHpDisplay": 0,
+              "triggerLoseHpAnim": false
+            }
+          },
+          {
+            "routeKey": "hud_rest",
+            "viewData": {}
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_5": {
+    "targets": [
+      {
+        "componentKey": "round_result",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "lostHp": 0,
+              "isAllPerfect": true
+            }
+          }
+        ]
+      },
+      {
+        "componentKey": "hud_player_info",
+        "routes": [
+          {
+            "routeKey": "hud_stage",
+            "viewData": {
+              "round": 12,
+              "playerHp": 120,
+              "playerTotalHp": 120,
+              "lostHpDisplay": 0,
+              "triggerLoseHpAnim": false
+            }
+          },
+          {
+            "routeKey": "hud_battle",
+            "viewData": {
+              "enemyCurCount": 0,
+              "enemyTotalCount": 5,
+              "lostEnemyCnt": 0,
+              "triggerLostEnemyAnim": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_6": {
+    "targets": [
+      {
+        "componentKey": "hud_player_info",
+        "routes": [
+          {
+            "routeKey": "hud_stage",
+            "viewData": {
+              "round": 15,
+              "playerHp": 120,
+              "playerTotalHp": 120,
+              "lostHpDisplay": 0,
+              "isInBossRound": true,
+              "triggerLoseHpAnim": false
+            }
+          },
+          {
+            "routeKey": "hud_boss",
+            "viewData": {
+              "enemyCurCount": 1,
+              "enemyTotalCount": 1,
+              "bossHpRatio": 0.6
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_7": {
+    "targets": [
+      {
+        "componentKey": "player_extra_status_win_streak_root",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {}
+          }
+        ]
+      },
+      {
+        "componentKey": "player_extra_status_win_streak_2",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "show": true,
+              "level": 1,
+              "winStreak": 3
+            }
+          }
+        ]
+      },
+      {
+        "componentKey": "player_extra_status_win_streak_3",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "show": true,
+              "level": 2,
+              "winStreak": 13
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_8": {
+    "targets": [
+      {
+        "componentKey": "player_extra_status_boss_damage_root",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {}
+          }
+        ]
+      },
+      {
+        "componentKey": "player_extra_status_boss_damage_1",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "show": true,
+              "level": 1
+            }
+          }
+        ]
+      },
+      {
+        "componentKey": "player_extra_status_boss_damage_2",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "show": true,
+              "level": 2
+            }
+          }
+        ]
+      },
+      {
+        "componentKey": "player_extra_status_boss_damage_3",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "show": true,
+              "level": 3
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "effct_closur_9": {
+    "targets": [
+      {
+        "componentKey": "game_start",
+        "routes": [
+          {
+            "routeKey": "",
+            "viewData": {
+              "scale": { "x": 0.8, "y": 0.8 }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

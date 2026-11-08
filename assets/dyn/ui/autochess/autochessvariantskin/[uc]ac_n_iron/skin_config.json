@@ -1,0 +1,234 @@
+{
+  "hud_player_info": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/group_hud",
+    "size": {
+      "x": 510.0,
+      "y": 68.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 44.0
+    }
+  },
+  "game_start": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/Banner/game_start",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "help_battle": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/Banner/help_battle",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "round_start": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/Banner/round_start",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "round_result": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/Banner/round_result",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "effect_choose_self_select": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/Banner/effect_choose_self_select",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "img_check_enemy": {
+    "size": {
+      "x": 73.0,
+      "y": 41.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": -6.0
+    },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Arts/HUD/btn_check_enemy"
+  },
+  "img_check_player": {
+    "size": {
+      "x": 73.0,
+      "y": 41.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": -6.0
+    },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Arts/HUD/btn_check_player_normal",
+    "color": "#FFFFFFFF"
+  },
+  "img_check_buff_back": {
+    "size": {
+      "x": 59.0,
+      "y": 37.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": -6.0
+    },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Arts/HUD/buff_btn_opened",
+    "color": "#FFFFFFFF"
+  },
+  "img_check_buff_normal": {
+    "size": {
+      "x": 59.0,
+      "y": 37.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": -6.0
+    },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Arts/HUD/buff_btn_clickable",
+    "color": "#FFFFFFFF"
+  },
+  "img_check_buff_back_count": {
+    "size": {
+      "x": 23.708,
+      "y": 31.821
+    },
+    "pos": {
+      "x": 11.854,
+      "y": 2.5894
+    },
+    "color": "#02140FFF",
+    "fontSize": 19
+  },
+  "img_check_buff_normal_count": {
+    "size": {
+      "x": 23.708,
+      "y": 31.821
+    },
+    "pos": {
+      "x": 11.854,
+      "y": 2.5894
+    },
+    "color": "#03FBB9FF",
+    "fontSize": 19
+  },
+  "countdown": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/panel_countdown",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "countdown_effectchoose": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/panel_countdown_effect_choose",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "countdown_outer": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_initial/Prefabs/panel_countdown",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "prep_ready": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/panel_prep_ready",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "shop_main": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Prefabs/Shop/panel_shop_main",
+    "size": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "pos": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "char_spine_outer": {
+    "size": { "x": 113.0, "y": 96.0 },
+    "pos": { "x": 0.0, "y": 0.0 },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_iron/Arts/CharSpine/img_char_spine_outer",
+    "color": "#FFFFFFFF"
+  },
+  "win_streak": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_initial/Prefabs/PlayerAvatar/panel_win_streak",
+    "size": { "x": 10.0, "y": 10.0 },
+    "pos": { "x": 31.0, "y": 31.0 }
+  },
+  "boss_damage": {
+    "prefab": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_initial/Prefabs/PlayerAvatar/panel_boss_damage",
+    "size": { "x": 72.0, "y": 72.0 },
+    "pos": { "x": 0.0, "y": 0.0 }
+  },
+  "effect_choose_group_tip":{
+    "size": { "x": 580.0, "y": 97.0 },
+    "pos": { "x": -116.0, "y": 0.0 }
+  },
+  "img_shop_sell_chess_normal": {
+    "size": { "x": 175.0, "y": 195.0 },
+    "pos": { "x": 0.0, "y": 0.0 },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_initial/Arts/Shop/SellPanel/img_sell_chess_normal"
+  },
+  "img_shop_sell_chess_hover": {
+    "size": { "x": 175.0, "y": 195.0 },
+    "pos": { "x": 0.0, "y": 0.0 },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_initial/Arts/Shop/SellPanel/img_sell_chess_hover"
+  },
+  "img_shop_sell_equip_normal": {
+    "size": { "x": 175.0, "y": 195.0 },
+    "pos": { "x": 0.0, "y": 0.0 },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_initial/Arts/Shop/SellPanel/img_sell_equip_normal"
+  },
+  "img_shop_sell_equip_hover": {
+    "size": { "x": 175.0, "y": 195.0 },
+    "pos": { "x": 0.0, "y": 0.0 },
+    "sprite": "UI/AutoChess/AutoChessVariantSkin/[UC]ac_n_initial/Arts/Shop/SellPanel/img_sell_equip_hover"
+  }
+}
