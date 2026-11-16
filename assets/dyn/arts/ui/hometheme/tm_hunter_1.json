@@ -1,0 +1,872 @@
+{
+  "theme": "tm_hunter_1",
+  "elements": [
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "announce_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_ap_track_point",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -317.0,
+        "y": 103.3
+      },
+      "name": "ap_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_progress_info",
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": -154.0,
+        "y": -34.0
+      },
+      "name": "battle_prg_widget"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_shop_recruit_bkg",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "bkg_shop_recruit"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/prefab_battle",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 5.00000763
+        },
+        "size": {
+          "x": -20.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 824.0,
+        "y": 227.0
+      },
+      "pos": {
+        "x": 66.0,
+        "y": -2.0
+      },
+      "name": "btn_battle"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/btn_building",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": 2.50042725,
+          "y": 3.99996948
+        },
+        "size": {
+          "x": -17.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 280.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 94.5,
+        "y": -484.4
+      },
+      "name": "btn_building"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/btn_char_repo",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": -2.49926758,
+          "y": 1.99998474
+        },
+        "size": {
+          "x": -17.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 340.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 130.3,
+        "y": -188.90007
+      },
+      "name": "btn_char_repo"
+    },
+    {
+      "clr": "#FFFFFFAA",
+      "size": {
+        "x": 472.0,
+        "y": 150.0
+      },
+      "pos": {
+        "x": 535.0,
+        "y": -198.8
+      },
+      "name": "btn_empty"
+    },
+    {
+      "spritePath": null,
+      "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": -18.0,
+        "y": -23.0
+      },
+      "pos": {
+        "x": -8.0,
+        "y": 10.5
+      },
+      "name": "btn_empty_bkg"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "size": {
+          "x": 274.0,
+          "y": 132.0
+        },
+        "spritePath": "[uc]tm_hunter_1/images/btn_friend",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 1.50000024
+        },
+        "size": {
+          "x": -8.0,
+          "y": -15.000001
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 139.499268,
+        "y": 33.77005
+      },
+      "name": "btn_friend"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 1.7
+        },
+        "size": {
+          "x": 270.0,
+          "y": 128.0
+        },
+        "spritePath": "[uc]tm_hunter_1/images/btn_handlbook",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 0.0,
+          "y": 1.5
+        },
+        "size": {
+          "x": -8.0,
+          "y": -15.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 240.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": 140.5,
+        "y": -58.5
+      },
+      "name": "btn_handbook"
+    },
+    {
+      "imgPrefab": null,
+      "imgData": {
+        "pos": {
+          "x": 5.3,
+          "y": 3.7
+        },
+        "size": {
+          "x": 150.0,
+          "y": 162.0
+        },
+        "spritePath": "[uc]tm_hunter_1/images/btn_invectory",
+        "matPath": "",
+        "imgType": "Simple"
+      },
+      "bgData": {
+        "pos": {
+          "x": 5.0,
+          "y": 3.99999952
+        },
+        "size": {
+          "x": -10.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 119.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": 277.56,
+        "y": -484.4
+      },
+      "name": "btn_inventory"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/btn_mission",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": 3.49935913,
+          "y": 4.0
+        },
+        "size": {
+          "x": -15.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 296.0,
+        "y": 141.0
+      },
+      "pos": {
+        "x": -194.0,
+        "y": -484.0
+      },
+      "name": "btn_mission"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/prefab_recruit_advance",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": -10.834,
+          "y": 4.212
+        },
+        "size": {
+          "x": -16.084,
+          "y": -19.825
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": 105.0,
+        "y": 0.45
+      },
+      "name": "btn_recruit_advance"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/prefab_recruit_normal",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": 1.00499725,
+          "y": 4.243
+        },
+        "size": {
+          "x": -8.591,
+          "y": -19.886
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 204.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -98.501,
+        "y": 0.44999
+      },
+      "name": "btn_recruit_normal"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/prefab_shop",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": 1.12600708,
+          "y": 4.253998
+        },
+        "size": {
+          "x": -26.252,
+          "y": -19.908
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 260.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -192.0,
+        "y": 0.0
+      },
+      "name": "btn_shop"
+    },
+    {
+      "imgPrefab": "[uc]tm_hunter_1/prefab/btn_squads",
+      "imgData": null,
+      "bgData": {
+        "pos": {
+          "x": 0.4994812,
+          "y": 1.99998474
+        },
+        "size": {
+          "x": -19.0,
+          "y": -18.0
+        },
+        "spritePath": null,
+        "matPath": "[uc]tm_hunter_1/materials/mat_blur",
+        "imgType": "Simple"
+      },
+      "size": {
+        "x": 342.0,
+        "y": 148.0
+      },
+      "pos": {
+        "x": -211.5,
+        "y": -188.9
+      },
+      "name": "btn_squad"
+    },
+    {
+      "padding": {
+        "left": 0,
+        "right": 0,
+        "top": 0,
+        "bottom": 0,
+        "horizontal": 0,
+        "vertical": 0
+      },
+      "childAlignment": 0,
+      "spacing": 0.0,
+      "childControlHeight": true,
+      "childControlWidth": false,
+      "childForceExpandHeight": false,
+      "childForceExpandWidth": false,
+      "size": {
+        "x": 101.2,
+        "y": 82.24
+      },
+      "pos": {
+        "x": 96.2,
+        "y": 32.37
+      },
+      "name": "building_track_point"
+    },
+    {
+      "blurLevel": 2,
+      "name": "cam_front_blur"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_char_repo_track_point",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 80.0,
+        "y": 69.0
+      },
+      "name": "character_repo_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_mission_track_point",
+      "size": {
+        "x": 70.0,
+        "y": 70.0
+      },
+      "pos": {
+        "x": 111.62,
+        "y": 54.4
+      },
+      "name": "dynamic_mission_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_friend_track_point",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -50.19999,
+        "y": 35.9
+      },
+      "name": "friend_track_point"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": -154.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -101.999146,
+        "y": 15.0000305
+      },
+      "name": "graphic_btn_buy_ap"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_handbook_track_point",
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": -51.2,
+        "y": 37.4
+      },
+      "name": "handbook_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.0,
+        "y": 32.0
+      },
+      "pos": {
+        "x": -35.7,
+        "y": 25.8
+      },
+      "name": "illust_red_point"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 245.0,
+        "y": 160.0
+      },
+      "pos": {
+        "x": 138.0,
+        "y": -5.0
+      },
+      "name": "img_battle_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 374.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 498.0,
+        "y": -99.0
+      },
+      "name": "img_battle_line"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 70.0,
+        "y": 41.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_battle_prg_title"
+    },
+    {
+      "spritePath": "[uc]tm_hunter_1/images/btn_empty",
+      "matPath": "",
+      "clr": "#FFFFFFAA",
+      "size": {
+        "x": 472.0,
+        "y": 150.0
+      },
+      "pos": {
+        "x": 0.000610351563,
+        "y": -1.52587891E-05
+      },
+      "name": "img_btn_empty"
+    },
+    {
+      "spritePath": "[uc]tm_hunter_1/images/img_building_emer",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 136.0,
+        "y": 63.0
+      },
+      "pos": {
+        "x": 1.3,
+        "y": -8.0
+      },
+      "name": "img_building_emer"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 2.0
+      },
+      "name": "img_building_emer_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_hunter_1/images/img_building_noti",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 136.0,
+        "y": 63.0
+      },
+      "pos": {
+        "x": 1.3,
+        "y": -8.0
+      },
+      "name": "img_building_noti"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 91.0,
+        "y": 37.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": 1.0
+      },
+      "name": "img_building_noti_shadow"
+    },
+    {
+      "spritePath": "[uc]tm_hunter_1/images/img_dialogue_bg",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 624.51,
+        "y": 133.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "name": "img_dialogue_bg"
+    },
+    {
+      "spritePath": "[uc]tm_hunter_1/images/img_dialogue_title",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 94.0,
+        "y": 38.0
+      },
+      "pos": {
+        "x": 47.7,
+        "y": -12.5
+      },
+      "name": "img_dialogue_title"
+    },
+    {
+      "clr": "#FDFDFD00",
+      "size": {
+        "x": 337.1,
+        "y": 3.4
+      },
+      "pos": {
+        "x": 162.6,
+        "y": 21.1
+      },
+      "name": "img_empty_streak"
+    },
+    {
+      "spritePath": "[uc]tm_hunter_1/images/title_recuitment",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 390.0,
+        "y": 55.0
+      },
+      "pos": {
+        "x": -3.5,
+        "y": 40.0
+      },
+      "name": "img_grp_recruit"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 215.0,
+        "y": 12.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": 66.0
+      },
+      "name": "img_mission_line"
+    },
+    {
+      "spritePath": "[uc]tm_hunter_1/images/icon_rhodes",
+      "matPath": "",
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 202.0,
+        "y": 174.0
+      },
+      "pos": {
+        "x": -70.0,
+        "y": 13.8
+      },
+      "name": "img_name_icon"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 32.7026,
+        "y": 32.7026
+      },
+      "pos": {
+        "x": 24.0270386,
+        "y": 28.0261841
+      },
+      "name": "mail_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 50.0,
+        "y": 50.0
+      },
+      "pos": {
+        "x": 68.3999939,
+        "y": 16.4
+      },
+      "name": "openserver_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_panel_ap",
+      "size": {
+        "x": 277.0,
+        "y": 168.0
+      },
+      "pos": {
+        "x": 5.0,
+        "y": -23.0
+      },
+      "name": "panel_ap"
+    },
+    {
+      "spritePath": null,
+      "matPath": null,
+      "clr": null,
+      "size": {
+        "x": 5.0,
+        "y": 61.0
+      },
+      "pos": {
+        "x": -13.701,
+        "y": -18.0
+      },
+      "name": "recruit_shadow"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_recruit_track_point",
+      "size": {
+        "x": 35.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": -203.75,
+        "y": -49.6
+      },
+      "name": "recruit_track_point"
+    },
+    {
+      "prefabPath": null,
+      "size": {
+        "x": 30.0,
+        "y": 30.0
+      },
+      "pos": {
+        "x": 82.0,
+        "y": 16.0
+      },
+      "name": "return_track_point"
+    },
+    {
+      "prefabPath": "[uc]tm_hunter_1/prefab/prefab_shop_track_point",
+      "size": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "pos": {
+        "x": -137.5,
+        "y": 40.5
+      },
+      "name": "shop_track_point"
+    },
+    {
+      "clr": "#333333FF",
+      "fontSize": 104,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": -6.0,
+        "y": 5.0
+      },
+      "name": "text_ap"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 31,
+      "size": {
+        "x": 84.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": 75.99954,
+        "y": -62.0
+      },
+      "name": "text_ap_max"
+    },
+    {
+      "clr": "#8B8B8BFF",
+      "fontSize": 104,
+      "size": {
+        "x": 160.0,
+        "y": 103.0
+      },
+      "pos": {
+        "x": 26.0,
+        "y": 30.0
+      },
+      "name": "text_ap_shadow"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 31,
+      "size": {
+        "x": 94.0,
+        "y": 46.0
+      },
+      "pos": {
+        "x": -16.0004272,
+        "y": -62.0
+      },
+      "name": "text_ap_title"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "size": {
+        "x": 432.0,
+        "y": 27.0
+      },
+      "pos": {
+        "x": 0.0,
+        "y": -36.0
+      },
+      "name": "text_battle_prg_cur"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 30,
+      "size": {
+        "x": 50.9,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 18.0,
+        "y": 4.0
+      },
+      "name": "text_building_emer"
+    },
+    {
+      "clr": "#FFFFFFFF",
+      "fontSize": 30,
+      "size": {
+        "x": 55.7,
+        "y": 32.5
+      },
+      "pos": {
+        "x": 18.0,
+        "y": 4.0
+      },
+      "name": "text_building_noti"
+    }
+  ]
+}

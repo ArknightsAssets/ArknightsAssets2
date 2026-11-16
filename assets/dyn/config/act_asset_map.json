@@ -62,6 +62,10 @@
       "permanent_sidestory_32_zone2": {
         "resPath": "Retro/permanent_sidestory_32_The_Masses_Travels/zone_map_permanent_sidestory_32_zone2",
         "activity": "permanent_sidestory_32_the_masses_travels"
+      },
+      "act50side_zone1": {
+        "resPath": "Activity/[UC]act50side/Prefabs/ZoneMaps/zone_map_act50side_zone1",
+        "activity": "act50side"
       }
     },
     "START_BATTLE_BUTTON": {},
@@ -69,7 +73,12 @@
     "TIMELY_DROP": {},
     "STAGE_BTN": {},
     "ZONE_MAP_PLUGIN": {},
-    "BATTLE_FINISH": {},
+    "BATTLE_FINISH": {
+      "act50side": {
+        "resPath": "Activity/[UC]act50side/Prefabs/BattleFinish/act50side_battle_finish_view",
+        "activity": "act50side"
+      }
+    },
     "TEMPLATE_SHOP": {
       "templateshop_shop_act41sre": {
         "resPath": "Activity/[UC]act41sre/Prefabs/act41sre_template_shop",
@@ -105,7 +114,12 @@
       }
     },
     "BATTLE": {},
-    "SQUAD_HOME_PLUGIN": {},
+    "SQUAD_HOME_PLUGIN": {
+      "act50side": {
+        "resPath": "Activity/[UC]act50side/Prefabs/BattleTrap/act50side_squad_plugin_view",
+        "activity": "act50side"
+      }
+    },
     "HOME_TOPBAR": {},
     "HIDDEN_STAGE_TOAST": {
       "permanent_sidestory_15_dorothy's_vision": {
@@ -113,7 +127,12 @@
         "activity": "permanent_sidestory_15_dorothy's_vision"
       }
     },
-    "STAGE_PREVIEW_PLUGIN": {},
+    "STAGE_PREVIEW_PLUGIN": {
+      "act50side": {
+        "resPath": "Activity/[UC]act50side/Prefabs/StagePreviewPlugin/act50side_stage_preview_plugin_holder",
+        "activity": "act50side"
+      }
+    },
     "TEMPLATE_TRAP_VIEW": {},
     "DYNAMIC_PAGE": {},
     "TEMPLATE_MISSION": {
